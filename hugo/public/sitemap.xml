@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/api/</loc>
+    <loc>https://southgateai.netlify.app/api/</loc>
   </url><url>
-    <loc>http://localhost:1313/concepts/</loc>
+    <loc>https://southgateai.netlify.app/concepts/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://southgateai.netlify.app/</loc>
   </url><url>
-    <loc>http://localhost:1313/topics/</loc>
+    <loc>https://southgateai.netlify.app/topics/</loc>
   </url>
 </urlset>
