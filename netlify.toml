@@ -2,13 +2,8 @@
   # Base directory (where pyproject.toml lives)
   base = ""
 
-  # Build command - Install uv, sync deps, run build
-  command = """
-    curl -LsSf https://astral.sh/uv/install.sh | sh && \
-    export PATH="$HOME/.local/bin:$PATH" && \
-    uv sync && \
-    uv run python scripts/build.py --output public
-  """
+  # Build command
+  command = "bash build.sh"
 
   # Output directory for the built site
   publish = "public"
@@ -34,30 +29,15 @@
 
 # Deploy previews (PRs)
 [context.deploy-preview]
-  command = """
-    curl -LsSf https://astral.sh/uv/install.sh | sh && \
-    export PATH="$HOME/.local/bin:$PATH" && \
-    uv sync && \
-    uv run python scripts/build.py --output public --skip-validate
-  """
+  command = "bash build.sh --skip-validate"
 
 # Branch deploys
 [context.branch-deploy]
-  command = """
-    curl -LsSf https://astral.sh/uv/install.sh | sh && \
-    export PATH="$HOME/.local/bin:$PATH" && \
-    uv sync && \
-    uv run python scripts/build.py --output public
-  """
+  command = "bash build.sh"
 
 # Production-specific settings
 [context.production]
-  command = """
-    curl -LsSf https://astral.sh/uv/install.sh | sh && \
-    export PATH="$HOME/.local/bin:$PATH" && \
-    uv sync && \
-    uv run python scripts/build.py --output public
-  """
+  command = "bash build.sh"
 
   [context.production.environment]
     HUGO_ENV = "production"
