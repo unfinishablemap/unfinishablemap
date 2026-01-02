@@ -45,8 +45,9 @@ def parse_timestamp(value: Optional[str]) -> Optional[datetime]:
 
 def get_changed_files(obsidian_path: Path) -> list[Path]:
     """Get list of changed markdown files in obsidian directory."""
+    # Use -uall to show individual files in untracked directories
     result = subprocess.run(
-        ["git", "status", "--porcelain", str(obsidian_path)],
+        ["git", "status", "--porcelain", "-uall", str(obsidian_path)],
         capture_output=True,
         text=True,
     )
@@ -67,8 +68,8 @@ def get_changed_files(obsidian_path: Path) -> list[Path]:
     )
 
     files = []
-    for line in result.stdout.strip().split("\n"):
-        if not line:
+    for line in result.stdout.splitlines():
+        if not line.strip():
             continue
 
         match = status_pattern.match(line)

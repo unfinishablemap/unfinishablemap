@@ -7,7 +7,7 @@ from typing import Optional
 
 import frontmatter
 
-from .wikilinks import convert_wikilinks
+from .wikilinks import convert_wikilinks, convert_block_references
 
 
 def convert_obsidian_to_hugo(
@@ -31,7 +31,7 @@ def convert_obsidian_to_hugo(
     converted_files: list[Path] = []
 
     # Directories to sync (exclude .obsidian, drafts if configured)
-    sync_dirs = ["topics", "concepts", "project"]
+    sync_dirs = ["topics", "concepts", "project", "tenets"]
 
     for sync_dir in sync_dirs:
         source_dir = obsidian_path / sync_dir
@@ -47,7 +47,13 @@ def convert_obsidian_to_hugo(
 
             # Calculate relative path and target
             rel_path = md_file.relative_to(source_dir)
-            target_file = target_dir / rel_path
+
+            # If file has same name as its parent folder, make it _index.md
+            # e.g., tenets/tenets.md -> tenets/_index.md
+            if md_file.stem.lower() == sync_dir.lower():
+                target_file = target_dir / "_index.md"
+            else:
+                target_file = target_dir / rel_path
 
             # Convert the file
             converted_content = convert_file(md_file)
@@ -101,6 +107,9 @@ def convert_file(source_path: Path) -> str:
 
     # Convert content
     content = post.content
+
+    # Convert Obsidian block references to HTML anchors (must be before wikilinks)
+    content = convert_block_references(content)
 
     # Convert Obsidian wikilinks to Hugo links
     content = convert_wikilinks(content)

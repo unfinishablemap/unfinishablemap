@@ -42,12 +42,15 @@ def convert_wikilinks(
         else:
             target = link_content
 
-        # Check for heading anchor
+        # Check for heading anchor (including block references with ^)
         if "#" in target:
             target, heading = target.split("#", 1)
 
         # Clean up the target
         target = target.strip()
+
+        # Check if heading is a block reference (starts with ^)
+        is_block_ref = heading.startswith("^") if heading else False
 
         # Use display text or derive from target
         if display_text is None:
@@ -62,13 +65,45 @@ def convert_wikilinks(
 
         # Add heading anchor if present
         if heading:
-            # Slugify the heading
-            heading_slug = slugify(heading)
-            url = f"{url}#{heading_slug}"
+            if is_block_ref:
+                # Block references: use the block ID directly (without ^)
+                block_id = heading[1:]  # Remove the ^ prefix
+                url = f"{url}#{block_id}"
+            else:
+                # Regular headings: slugify
+                heading_slug = slugify(heading)
+                url = f"{url}#{heading_slug}"
 
         return f"[{display_text}]({url})"
 
     return wikilink_pattern.sub(replace_wikilink, content)
+
+
+def convert_block_references(content: str) -> str:
+    """
+    Convert Obsidian block reference markers to HTML anchors.
+
+    Obsidian uses ^block-id at the end of a line to create a block reference target.
+    This converts them to HTML span elements with IDs.
+
+    Args:
+        content: Markdown content with block references
+
+    Returns:
+        Content with block references converted to HTML anchors
+
+    Examples:
+        "Some text ^my-block" -> "Some text <span id=\"my-block\"></span>"
+    """
+    # Pattern for block references at end of line: ^block-id
+    # Must be at end of line (before newline or end of string)
+    block_ref_pattern = re.compile(r"\s+\^([a-zA-Z0-9-]+)\s*$", re.MULTILINE)
+
+    def replace_block_ref(match: re.Match) -> str:
+        block_id = match.group(1)
+        return f' <span id="{block_id}"></span>'
+
+    return block_ref_pattern.sub(replace_block_ref, content)
 
 
 def default_link_resolver(target: str, base_path: str = "/") -> str:

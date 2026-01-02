@@ -1,6 +1,10 @@
 # SouthgateAI
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/780f160a-d86e-4dd8-82d3-1798975d8948/deploy-status)](https://app.netlify.com/projects/southgateai-primary/deploys)
+
 An opinionated resource about philosophy and the meaning of life.
+
+**Live site:** https://primary.southgate.ai
 
 ## Overview
 

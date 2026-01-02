@@ -225,3 +225,6 @@ obsidian/.trash/
 .env.local
 .env.*.local
 secrets.yaml
+
+# VSCode workspace files
+*.code-workspace
