@@ -2,6 +2,8 @@
 title: "{{title}}"
 created: {{date}}
 modified: {{date}}
+human_modified: {{date}}
+ai_modified:
 draft: true
 topics: []
 

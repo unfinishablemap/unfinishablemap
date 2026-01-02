@@ -2,6 +2,8 @@
 title: "Existentialism"
 created: 2025-12-30
 modified: 2025-12-30
+human_modified: 2025-12-30
+ai_modified:
 draft: false
 
 authorship:

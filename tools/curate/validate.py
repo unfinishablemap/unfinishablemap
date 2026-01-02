@@ -1,9 +1,23 @@
 """Frontmatter validation for content files."""
 
+from datetime import datetime
 from pathlib import Path
-from typing import Optional
+from typing import Optional, Union
 
 import frontmatter
+
+
+def _is_valid_timestamp(value: Union[str, datetime, None]) -> bool:
+    """Check if a value is a valid ISO timestamp."""
+    if value is None:
+        return True
+    if isinstance(value, datetime):
+        return True
+    try:
+        datetime.fromisoformat(str(value))
+        return True
+    except (ValueError, TypeError):
+        return False
 
 
 # Required frontmatter fields
@@ -94,6 +108,14 @@ def validate_frontmatter(
             if not authorship.get("ai_contribution"):
                 result["warnings"].append(
                     "Mixed authorship should specify ai_contribution percentage"
+                )
+
+    # Validate timestamp fields if present
+    for field in ["human_modified", "ai_modified"]:
+        if field in metadata and metadata[field]:
+            if not _is_valid_timestamp(metadata[field]):
+                result["warnings"].append(
+                    f"Invalid timestamp format for {field}: {metadata[field]}"
                 )
 
     # Check optional but recommended fields
