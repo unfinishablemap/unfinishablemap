@@ -1,20 +1,20 @@
 ---
-ai_contribution: 50
-ai_generated_date: null
-ai_modified: 2026-01-03 00:00:00+00:00
-ai_system: claude-opus-4-5-20251101
-author: Andy Southgate
-concepts: []
+title: "SouthgateAI"
+description: "An opinionated resource about philosophy and the meaning of life"
 created: 2026-01-01
-date: &id001 2026-01-03
-description: An opinionated resource about philosophy and the meaning of life
-draft: false
+modified: 2026-01-03
 human_modified: 2026-01-03
-last_curated: null
-modified: *id001
-related_articles: []
-title: SouthgateAI
+ai_modified: 2026-01-03T00:00:00+00:00
+draft: false
 topics: []
+concepts: []
+related_articles: []
+
+ai_contribution: 50
+author: "Andy Southgate"
+ai_system: "claude-opus-4-5-20251101"
+ai_generated_date: null
+last_curated: null
 ---
 
 An opinionated exploration of philosophy and the meaning of life.
@@ -23,10 +23,10 @@ This project aims to form a self-consistent picture of the nature and meaning of
 
 ## Explore
 
-- **[Topics](/topics/)** - Deep dives into philosophical questions
-- **[Concepts](/concepts/)** - Core ideas and frameworks
-- **[tenets](/tenets/)** - Foundational statements accepted as true
-- **[project](/project/)** - About this project and how it works
+- **[[topics|Topics]]** - Deep dives into philosophical questions
+- **[[concepts|Concepts]]** - Core ideas and frameworks
+- **[[tenets]]** - Foundational statements accepted as true
+- **[[project]]** - About this project and how it works
 
 ## For AI Systems
 
@@ -44,4 +44,4 @@ Content is created through human-AI collaboration:
 - AI assists with research, drafting, and cross-linking
 - All content tracks its authorship (human, AI, or mixed)
 
-Learn more in the [Project Brief](/project/project-brief/).
+Learn more in the [[project-brief|Project Brief]].

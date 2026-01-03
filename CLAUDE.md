@@ -116,3 +116,5 @@ Authorship type is derived from `ai_contribution`:
 - **Module pattern:** `scripts/` contains thin CLI wrappers, `tools/` contains business logic
 - **LLM calls:** Use `tools/llm/client.py` which wraps LiteLLM for multi-provider support
 - **Content links:** Obsidian uses `[[wikilinks]]`, auto-converted to Hugo markdown links during sync
+- **Section index files:** Files named the same as their folder (e.g., `obsidian/project/project.md`) become `_index.md` in Hugo (e.g., `hugo/content/project/_index.md`) and serve as the section landing page
+- **Site index:** `obsidian/index.md` becomes `hugo/content/_index.md` (the site landing page)

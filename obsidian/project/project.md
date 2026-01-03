@@ -1,20 +1,20 @@
 ---
-ai_contribution: 100
-ai_generated_date: 2026-01-03
-ai_modified: 2026-01-03 00:00:00+00:00
-ai_system: claude-opus-4-5-20251101
-author: Andy Southgate
-concepts: []
+title: "SouthgateAI Project"
 created: 2026-01-03
-date: &id001 2026-01-03
-draft: false
+modified: 2026-01-03
 human_modified: 2026-01-03
-last_curated: null
-modified: *id001
-related_articles:
-- '[[project-brief]]'
-title: SouthgateAI Project
+ai_modified: 2026-01-03T00:00:00+00:00
+draft: false
 topics: []
+concepts: []
+related_articles:
+  - "[[project-brief]]"
+
+ai_contribution: 100
+author: Andy Southgate
+ai_system: claude-opus-4-5-20251101
+ai_generated_date: 2026-01-03
+last_curated:
 ---
 
 ## Overview
@@ -45,8 +45,8 @@ Obsidian vault → Python sync tools → Hugo content → Static site (Netlify)
 
 ## Related Documents
 
-- [project-brief](/project/project-brief/) - Project aims, methods, and design decisions
-- [tenets](/tenets/) - Human-curated foundational statements
+- [[project-brief]] - Project aims, methods, and design decisions
+- [[tenets]] - Human-curated foundational statements
 
 ## Contributing
 
