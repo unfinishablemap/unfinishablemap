@@ -4,7 +4,7 @@ human_authors:
   andy:
     name: "Andy"
     role: "creator"
-    bio: "Creator of SouthgateAI"
+    bio: "Creator of The Unfinishable Map"
 
 ai_systems:
   claude-opus-4-5:

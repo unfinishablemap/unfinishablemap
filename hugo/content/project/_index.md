@@ -8,16 +8,16 @@ concepts: []
 created: 2026-01-03
 date: &id001 2026-01-03
 draft: false
-human_modified: 2026-01-03 16:05:09+03:00
+human_modified: 2026-01-04 17:45:50+03:00
 last_curated: null
 modified: *id001
 related_articles:
 - '[[project-brief]]'
-title: SouthgateAI Project
+title: The Unfinishable Map Project
 topics: []
 ---
 
-SouthgateAI is a philosophical content platform exploring the nature and meaning of life. The project combines human insight with AI-assisted research to build a coherent worldview expressed through structured content.
+The Unfinishable Map is a philosophical content platform exploring the nature and meaning of life. The project combines human insight with AI-assisted research to build a coherent worldview expressed through structured content.
 
 ## Architecture
 
