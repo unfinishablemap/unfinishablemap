@@ -72,8 +72,7 @@ Summary:
 1. Find the oldest draft content in obsidian/
 2. Review and improve the content
 3. Update ai_modified timestamp in frontmatter
-4. Keep draft: true (human must approve)
-5. Log to obsidian/project/changelog.md
+4. Log to obsidian/project/changelog.md
 "@
         }
         "pessimistic-review" {

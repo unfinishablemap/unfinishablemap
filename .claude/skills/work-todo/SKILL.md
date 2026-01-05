@@ -1,6 +1,6 @@
 ---
 name: work-todo
-description: Pick and execute the highest priority task from the todo queue. Creates content as drafts for human review.
+description: Pick and execute the highest priority task from the todo queue. Content is published directly.
 ---
 
 # Work Todo
@@ -139,7 +139,6 @@ If a task fails:
 ## Important
 
 - Execute only ONE task per invocation
-- All content changes create drafts
 - Always update todo.md after completion
 - Always log to changelog.md
 - Create commits for all changes

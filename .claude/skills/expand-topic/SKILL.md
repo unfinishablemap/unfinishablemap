@@ -1,11 +1,11 @@
 ---
 name: expand-topic
-description: Generate a new article on a topic. Always creates as draft for human review.
+description: Generate a new article on a topic. Content is published directly.
 ---
 
 # Expand Topic
 
-Generate a new article on a philosophical topic. All content is created as draft for human review.
+Generate a new article on a philosophical topic.
 
 ## When to Use
 
@@ -53,7 +53,7 @@ created: YYYY-MM-DD
 modified: YYYY-MM-DD
 human_modified:
 ai_modified: YYYY-MM-DDTHH:MM:SS+00:00
-draft: true
+draft: false
 topics: []
 concepts: []
 related_articles: []
@@ -88,29 +88,20 @@ last_curated:
 [If based on research, cite sources]
 ```
 
-### 5. CRITICAL: Ensure Draft Status
-
-**ALWAYS** verify the frontmatter has:
-```yaml
-draft: true
-```
-
-This is NON-NEGOTIABLE. All AI-generated content must be reviewed by a human before publishing.
-
-### 6. Run Crosslink Generation
+### 5. Run Crosslink Generation
 
 After creating the file:
 ```bash
 uv run python scripts/curate.py crosslink hugo/content/ --apply
 ```
 
-### 7. Update Todo
+### 6. Update Todo
 
 If this was a todo item:
 1. Mark the task as complete
 2. Note the output file
 
-### 8. Log to Changelog
+### 7. Log to Changelog
 
 Append to `obsidian/project/changelog.md`:
 ```markdown
@@ -118,17 +109,15 @@ Append to `obsidian/project/changelog.md`:
 - **Status**: Success
 - **Topic**: [topic name]
 - **Output**: [filepath]
-- **Draft**: true (requires human review)
 - **Based on research**: [yes/no, link if yes]
 ```
 
-### 9. Commit
+### 8. Commit
 
 Create a git commit with message:
 ```
-feat(content): Add draft article on [topic]
+feat(content): Add article on [topic]
 
-AI-generated draft for human review.
 Based on research: [yes/no]
 ```
 
@@ -153,9 +142,7 @@ Based on research: [yes/no]
 
 ## Important
 
-- ALWAYS set `draft: true`
 - ALWAYS include `ai_contribution: 100`
 - ALWAYS include current model in `ai_system`
 - ALWAYS update `ai_modified` timestamp
 - Content must align with site tenets
-- Human review is required before publishing

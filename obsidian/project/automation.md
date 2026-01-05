@@ -2,7 +2,7 @@
 title: AI Automation System
 created: 2026-01-05
 modified: 2026-01-05
-human_modified: 2026-01-05
+human_modified: 2026-01-05T15:18:57+03:00
 ai_modified: 2026-01-05T17:30:00+00:00
 draft: false
 topics: []
@@ -26,8 +26,7 @@ This site uses scheduled AI automation to develop content over time. The system 
 flowchart TD
     subgraph Human
         H1[Prioritize tasks in todo.md]
-        H2[Review drafts]
-        H3[Publish or refine]
+        H2[Monitor changelog]
     end
 
     subgraph AI Scheduled Tasks
@@ -39,7 +38,7 @@ flowchart TD
     end
 
     subgraph Output
-        O1[Draft articles]
+        O1[Published articles]
         O2[Research notes]
         O3[Review reports]
         O4[Changelog entries]
@@ -52,12 +51,11 @@ flowchart TD
     A3 --> O3
     A4 --> O3
     A5 --> O3
-    O1 --> H2
     O3 --> H1
-    H2 --> H3
+    O4 --> H2
 ```
 
-**Key principle:** All AI-generated content is created as drafts (`draft: true`). A human must review and approve before publishing.
+**Key principle:** AI-generated content is published directly. All activity is logged to the changelog for transparency.
 
 ## Skills (Slash Commands)
 
@@ -70,8 +68,8 @@ The AI has access to these specialized skills:
 | `/pessimistic-review` | Find weaknesses from critic perspectives | Review report |
 | `/optimistic-review` | Find strengths from supporter perspectives | Review report |
 | `/research-topic` | Web research on a topic | Research notes |
-| `/expand-topic` | Generate new article | Draft article |
-| `/refine-draft` | Improve existing draft | Updated draft |
+| `/expand-topic` | Generate new article | Published article |
+| `/refine-draft` | Improve existing content | Updated content |
 | `/work-todo` | Execute highest priority task | Depends on task |
 
 ## Multi-Perspective Reviews
@@ -126,11 +124,10 @@ The AI picks the highest priority non-blocked task and executes it. All activity
 
 ## Safety Mechanisms
 
-1. **Draft-first policy**: All AI content has `draft: true`
-2. **Tenet alignment**: Monthly checks against foundational commitments
-3. **Human prioritization**: Humans control the todo queue
-4. **Full logging**: Every action recorded in changelog
-5. **Authorship tracking**: AI edits marked with `ai_modified` timestamp
+1. **Tenet alignment**: Monthly checks against foundational commitments
+2. **Human prioritization**: Humans control the todo queue
+3. **Full logging**: Every action recorded in changelog
+4. **Authorship tracking**: AI edits marked with `ai_modified` timestamp
 
 ## Running Locally
 
@@ -165,6 +162,5 @@ The system aims to build a complete "meaning of life" compendium by:
 3. Building a coherent cross-linked web of ideas
 4. Passing pessimistic reviews with no major gaps
 5. Maintaining alignment with site tenets
-6. Human review and approval of all content
 
 Progress is tracked in monthly progress reports.

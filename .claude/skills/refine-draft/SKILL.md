@@ -75,7 +75,6 @@ After refinement:
 
 ```yaml
 ai_modified: YYYY-MM-DDTHH:MM:SS+00:00  # Update timestamp
-draft: true  # KEEP as draft - human must approve
 ```
 
 If the original was human-authored (`ai_contribution: 0`), update to mixed:
@@ -122,7 +121,7 @@ Append to `obsidian/project/changelog.md`:
 - **File**: [filepath]
 - **Original score**: X/10
 - **Changes**: [brief list]
-- **Kept as draft**: true (requires human review)
+- **Published**: yes
 ```
 
 ### 9. Commit
@@ -135,7 +134,7 @@ Changes:
 - [Change 1]
 - [Change 2]
 
-Draft status retained for human review.
+Changes applied directly.
 ```
 
 ## What NOT to Do
@@ -148,8 +147,6 @@ Draft status retained for human review.
 
 ## Important
 
-- ALWAYS keep `draft: true` status
 - ALWAYS update `ai_modified` timestamp
 - ALWAYS document changes made
 - Preserve the original author's voice
-- Human review is required before publishing
