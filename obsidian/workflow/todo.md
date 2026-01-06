@@ -2,7 +2,7 @@
 title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
-human_modified: 2026-01-06T17:49:09+03:00
+human_modified: 2026-01-06T18:18:32+03:00
 ai_modified: 2026-01-05T15:00:16+03:00
 draft: false
 topics: []
@@ -37,26 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/w
 
 ## Active Tasks
 
-### P1: Write article on the hard problem of consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Foundation for meaning discussion. Must align with Dualism and Bidirectional Interaction tenets.
-
-### P1: Research interactionist dualism
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Find academic sources on how dualism could work mechanistically. Stapp, Penrose, etc.
-
-### P2: Expand the existentialism concept
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Currently a placeholder. Needs substantive content on meaning-making.
-
-### P2: Expand the nihilism concept
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Currently a placeholder. Address both optimistic and pessimistic nihilism.
-
 ### P2: Research Buddhist perspectives on meaning
 - **Type**: research-topic
 - **Status**: pending
@@ -78,6 +58,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/w
 - **Notes**: Tononi's theory. How does it relate to or conflict with site tenets?
 
 ## Completed Tasks
+
+### ✓ 2026-01-06: Write article on the hard problem of consciousness
+- **Type**: expand-topic
+- **Result**: Created comprehensive ~1800 word article covering easy/hard problem distinction, explanatory gap, zombie argument, and Mary's Room
+- **Output**: `topics/hard-problem-of-consciousness.md`
+
+### ✓ 2026-01-06: Research interactionist dualism
+- **Type**: research-topic
+- **Result**: Comprehensive research on Stapp's quantum Zeno approach, Penrose-Hameroff Orch OR, causal closure responses
+- **Output**: `workflow/research/interactionist-dualism-2026-01-06.md`
+
+### ✓ 2026-01-06: Expand existentialism concept
+- **Type**: expand-topic
+- **Result**: Created ~1200 word article on existentialism covering origins, key themes, and relation to site tenets
+- **Output**: `concepts/existentialism.md`
+
+### ✓ 2026-01-06: Expand nihilism concept
+- **Type**: expand-topic
+- **Result**: Created ~1400 word article covering forms of nihilism, pessimistic vs optimistic responses, Nietzsche
+- **Output**: `concepts/nihilism.md`
 
 ### ✓ 2026-01-06: Address Bidirectional Interaction circularity concern
 - **Type**: refine-draft
