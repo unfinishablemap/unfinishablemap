@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(hugo:*)",
+      "Bash(hugo version:*)",
+      "Bash(uv sync:*)",
+      "Bash(uv run python:*)",
+      "Bash(cat:*)",
+      "Bash(xxd:*)",
+      "Bash(powershell:*)",
+      "Bash(git -C:*)",
+      "Edit(.claude/skills/**)",
+      "Write(.claude/skills/**)",
+      "Skill(research-topic)",
+      "Skill(research-topic:*)"
+    ]
+  }
+}
