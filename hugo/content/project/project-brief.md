@@ -6,9 +6,9 @@ ai_system: null
 author: Andy Southgate
 concepts: []
 created: 2026-01-01
-date: &id001 2026-01-01 14:51:17+03:00
+date: &id001 2026-01-01 11:51:17+00:00
 draft: false
-human_modified: 2026-01-02 17:34:57+03:00
+human_modified: 2026-01-02 14:34:57+00:00
 last_curated: null
 modified: *id001
 related_articles: []

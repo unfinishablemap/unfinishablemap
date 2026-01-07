@@ -2,7 +2,7 @@
 title: Tenets
 created: 2026-01-02
 modified: 2026-01-02
-human_modified: 2026-01-02T17:18:31+03:00
+human_modified: 2026-01-02T14:18:31+00:00
 ai_modified: 2026-01-06T20:15:00+00:00
 draft: false
 topics: []

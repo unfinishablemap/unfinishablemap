@@ -1,8 +1,8 @@
 ---
 title: Project brief
 created: 2026-01-01
-modified: 2026-01-01T14:51:17+03:00
-human_modified: 2026-01-02T17:34:57+03:00
+modified: 2026-01-01T11:51:17+00:00
+human_modified: 2026-01-02T14:34:57+00:00
 ai_modified:
 draft: false
 topics: []

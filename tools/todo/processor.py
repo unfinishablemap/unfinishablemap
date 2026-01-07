@@ -29,6 +29,7 @@ class TaskType(Enum):
     CHECK_TENETS = "check-tenets"
     PESSIMISTIC_REVIEW = "pessimistic-review"
     OPTIMISTIC_REVIEW = "optimistic-review"
+    DEEP_REVIEW = "deep-review"
     OTHER = "other"
 
 

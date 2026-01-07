@@ -79,6 +79,7 @@ def get_overdue_tasks(
         "check-tenets",
         "check-links",
         "crosslink",
+        "deep-review",
     ]
 
     for skill_name in maintenance_skills:
@@ -124,6 +125,7 @@ def get_status_report(state: EvolutionState, now: Optional[datetime] = None) -> 
         "check-tenets",
         "check-links",
         "crosslink",
+        "deep-review",
     ]
 
     for skill_name in maintenance_skills:

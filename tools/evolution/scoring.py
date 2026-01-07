@@ -132,6 +132,7 @@ def create_synthetic_task(
         "pessimistic-review": TaskType.PESSIMISTIC_REVIEW,
         "optimistic-review": TaskType.OPTIMISTIC_REVIEW,
         "check-tenets": TaskType.CHECK_TENETS,
+        "deep-review": TaskType.DEEP_REVIEW,
     }
 
     task_type = type_map.get(skill_name, TaskType.OTHER)

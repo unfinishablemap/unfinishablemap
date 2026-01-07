@@ -130,7 +130,7 @@ Recommended tasks:
 2. validate-all (due tomorrow)
 ```
 
-### 8.5. Add Highlight (if warranted)
+### 9. Add Highlight (if warranted)
 
 If the session produced highlight-worthy work, add an item to the highlights page:
 
@@ -152,7 +152,7 @@ uv run python scripts/highlights.py add "Title" "Description (max 280 chars)" --
 
 The manager enforces max 1 highlight per day—if already added, it will silently skip.
 
-### 9. Commit Changes
+### 10. Commit Changes
 
 If any files were modified, create a single commit:
 

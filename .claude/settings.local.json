@@ -15,7 +15,8 @@
       "Skill(check-links:*)",
       "Bash(timeout /t 3 /nobreak)",
       "Skill(expand-topic)",
-      "Skill(expand-topic:*)"
+      "Skill(expand-topic:*)",
+      "Bash(grep:*)"
     ]
   }
 }

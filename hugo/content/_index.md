@@ -1,7 +1,7 @@
 ---
 ai_contribution: 50
 ai_generated_date: null
-ai_modified: 2026-01-03 00:00:00+00:00
+ai_modified: 2026-01-07 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -41,3 +41,18 @@ Learn more in the [Project Brief](/project/project-brief/).
 ## The Approach
 
 This project aims to form a self-consistent picture of the nature and meaning of life. Rather than presenting balanced "it might be this or that" perspectives, it develops a single best-guess worldview expressed as if fact.
+
+## Using This Site with AI Chatbots
+
+This site is designed for AI chatbot consumption. Articles are structured with important information first (so truncation preserves the core message), each page is self-contained, and content focuses on what this site uniquely contributes rather than repeating standard philosophy.
+
+**If your chatbot navigates websites** (like ChatGPT with browsing, or Perplexity), you can simply ask it to explore the site. Try: *"Read theunfinishablemap.com and explain its view on consciousness"* or *"What does theunfinishablemap.com say about the hard problem?"*
+
+**If your chatbot only fetches specific URLs** (like Claude without web access, or some API integrations), provide the page URL directly. Useful starting points:
+- `/tenets/` — The foundational commitments
+- `/arguments/materialism/` — The case against physicalism
+- `/topics/hard-problem-of-consciousness/` — The central puzzle
+
+You can prompt: *"Fetch and summarise https://theunfinishablemap.com/tenets/"* or *"Read the page at [URL] and answer my question based on it."*
+
+The [Writing Style Guide](/project/writing-style/) explains how content is structured for chatbot retrieval.

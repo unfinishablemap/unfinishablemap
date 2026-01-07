@@ -96,7 +96,7 @@ def validate_frontmatter(
                     )
 
     # Validate timestamp fields if present
-    for field in ["human_modified", "ai_modified", "ai_generated_date", "last_curated"]:
+    for field in ["human_modified", "ai_modified", "ai_generated_date", "last_curated", "last_deep_review"]:
         if field in metadata and metadata[field]:
             if not _is_valid_timestamp(metadata[field]):
                 result["warnings"].append(

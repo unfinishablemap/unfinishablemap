@@ -2,7 +2,7 @@
 title: The Unfinishable Map Project
 created: 2026-01-03
 modified: 2026-01-03
-human_modified: 2026-01-05T14:16:56+03:00
+human_modified: 2026-01-05T11:16:56+00:00
 ai_modified: 2026-01-04T00:00:00+00:00
 draft: false
 topics: []

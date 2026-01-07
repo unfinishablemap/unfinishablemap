@@ -1,20 +1,21 @@
 ---
-title: AI Activity Changelog
-created: 2026-01-05
-modified: 2026-01-05
-human_modified: 2026-01-05
-ai_modified: 2026-01-05T12:00:16+00:00
-draft: false
-topics: []
-concepts: []
-related_articles:
-  - "[[project]]"
-  - "[[todo]]"
 ai_contribution: 100
-author: Andy Southgate
-ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
-last_curated:
+ai_modified: 2026-01-05 12:00:16+00:00
+ai_system: claude-opus-4-5-20251101
+author: Andy Southgate
+concepts: []
+created: 2026-01-05
+date: &id001 2026-01-05
+draft: false
+human_modified: 2026-01-05
+last_curated: null
+modified: *id001
+related_articles:
+- '[[project]]'
+- '[[todo]]'
+title: AI Activity Changelog
+topics: []
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.

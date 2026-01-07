@@ -1,20 +1,21 @@
 ---
-title: AI Task Queue
-created: 2026-01-05
-modified: 2026-01-05
-human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-05T12:00:16+00:00
-draft: false
-topics: []
-concepts: []
-related_articles:
-  - "[[project]]"
-  - "[[changelog]]"
 ai_contribution: 100
-author: Andy Southgate
-ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
-last_curated:
+ai_modified: 2026-01-05 12:00:16+00:00
+ai_system: claude-opus-4-5-20251101
+author: Andy Southgate
+concepts: []
+created: 2026-01-05
+date: &id001 2026-01-05
+draft: false
+human_modified: 2026-01-06 15:29:26+00:00
+last_curated: null
+modified: *id001
+related_articles:
+- '[[project]]'
+- '[[changelog]]'
+title: AI Task Queue
+topics: []
 ---
 
 This is the task queue for AI automation. The human reviews and prioritizes tasks; the AI executes them.
@@ -37,17 +38,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/w
 
 ## Active Tasks
 
-### P2: Create article on free will and determinism
+### P3: Create article on free will and determinism
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Connects to Bidirectional Interaction tenet. How does quantum indeterminacy relate to agency?
 
-### P2: Create concept page for qualia
+### P3: Create concept page for qualia
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Central to the hard problem. Link to Dualism tenet.
 
-### P2: Research Integrated Information Theory (IIT)
+### P3: Research Integrated Information Theory (IIT)
 - **Type**: research-topic
 - **Status**: pending
 - **Notes**: Tononi's theory. How does it relate to or conflict with site tenets?

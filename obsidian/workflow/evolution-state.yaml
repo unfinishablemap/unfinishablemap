@@ -13,6 +13,7 @@ last_runs:
   check-tenets: 2026-01-06T20:00:00+00:00
   check-links: 2026-01-06T19:55:00+00:00
   crosslink: null  # Skipped - requires ANTHROPIC_API_KEY
+  deep-review: null  # Never run yet
 
 # How often each task should run (days)
 cadences:
@@ -22,6 +23,7 @@ cadences:
   check-tenets: 30
   check-links: 7
   crosslink: 7
+  deep-review: 1  # Daily comprehensive document review
 
 # Auto-inject as synthetic task when overdue by this many days
 overdue_thresholds:
@@ -31,6 +33,7 @@ overdue_thresholds:
   check-tenets: 5
   check-links: 3
   crosslink: 3
+  deep-review: 2  # Inject when 2 days overdue
 
 # Content statistics (updated each session)
 content_stats:
