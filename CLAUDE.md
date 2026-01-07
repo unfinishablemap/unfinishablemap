@@ -24,16 +24,7 @@ uv run python scripts/sync.py
 cd hugo && hugo server
 
 # Validate frontmatter
-uv run python scripts/curate.py validate hugo/content/
-
-# AI content review
-uv run python scripts/curate.py review hugo/content/topics/meaning-of-life.md
-
-# Generate article with LLM
-uv run python scripts/generate.py article "Topic Name" --style exploratory
-
-# Generate crosslinks between content
-uv run python scripts/curate.py crosslink hugo/content/ --apply
+uv run python scripts/validate.py hugo/content/
 
 # Commit obsidian changes with human/AI attribution
 uv run python scripts/commit_obsidian.py --dry-run
@@ -57,9 +48,7 @@ hugo/               # Static site generator
 
 tools/              # Python library modules
 ├── sync/           # Obsidian → Hugo conversion
-├── llm/            # LiteLLM client wrapper
-├── generate/       # AI content generation
-└── curate/         # Validation, review, crosslinks
+└── curate/         # Frontmatter validation
 
 scripts/            # CLI entry points (thin wrappers calling tools/)
 ```
@@ -121,7 +110,6 @@ Key principles:
 
 - **Python:** Ruff linting (E, F, I, N, W), line length 100, mypy type hints required
 - **Module pattern:** `scripts/` contains thin CLI wrappers, `tools/` contains business logic
-- **LLM calls:** Use `tools/llm/client.py` which wraps LiteLLM for multi-provider support
 - **Content links:** Obsidian uses `[[wikilinks]]`, auto-converted to Hugo markdown links during sync
 - **Section index files:** Files named the same as their folder (e.g., `obsidian/project/project.md`) become `_index.md` in Hugo (e.g., `hugo/content/project/_index.md`) and serve as the section landing page
 - **Site index:** `obsidian/index.md` becomes `hugo/content/_index.md` (the site landing page)
@@ -189,7 +177,6 @@ AI activity is logged to `obsidian/workflow/changelog.md` with:
 **GitHub Actions:**
 - Runs automatically on schedule
 - Manual trigger via Actions tab with task selection
-- Requires `ANTHROPIC_API_KEY` secret
 
 ### The Five Tenets
 

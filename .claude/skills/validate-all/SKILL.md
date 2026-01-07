@@ -22,7 +22,7 @@ Execute these validation steps in order:
 
 Run the validation script:
 ```bash
-uv run python scripts/curate.py validate hugo/content/ --strict
+uv run python scripts/validate.py hugo/content/ --strict
 ```
 
 Report any validation errors or warnings.

@@ -8,21 +8,19 @@ requires-python = ">=3.10"
 authors = [
     {name = "Andy"}
 ]
-keywords = ["philosophy", "static-site", "hugo", "llm", "content-management"]
+keywords = ["philosophy", "static-site", "hugo", "content-management"]
 
 dependencies = [
     "click>=8.0",
     "pyyaml>=6.0",
     "python-frontmatter>=1.0",
-    "litellm>=1.0",
     "rich>=13.0",
 ]
 
 [project.scripts]
 sai-sync = "scripts.sync:main"
-sai-generate = "scripts.generate:main"
-sai-curate = "scripts.curate:main"
 sai-build = "scripts.build:main"
+sai-validate = "scripts.validate:main"
 
 [build-system]
 requires = ["hatchling"]

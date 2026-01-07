@@ -19,7 +19,7 @@ The project combines human insight with AI-assisted research to build a self-con
 - **Content Authoring**: Obsidian (with Frontmatter Modified Date plugin)
 - **Static Site Generator**: Hugo
 - **Build Tooling**: Python (uv)
-- **LLM Providers**: Anthropic Claude, OpenAI (via LiteLLM)
+- **AI Assistance**: Claude Code (for content generation and review)
 - **Hosting**: Netlify
 
 ## Project Structure
@@ -38,9 +38,7 @@ theunfinishablemap/
 │   └── data/           # Structured data (YAML)
 ├── tools/              # Python library modules
 │   ├── sync/           # Obsidian -> Hugo conversion
-│   ├── llm/            # LiteLLM client wrapper
-│   ├── generate/       # AI content generation
-│   ├── curate/         # Validation, review, crosslinks
+│   ├── curate/         # Frontmatter validation
 │   └── build/          # API content sync
 ├── scripts/            # CLI entry points
 └── CLAUDE.md           # Claude Code project documentation
@@ -66,11 +64,6 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 # Sync dependencies
 uv sync
-
-# For LLM features, set API keys
-export ANTHROPIC_API_KEY="your-key"
-# or
-export OPENAI_API_KEY="your-key"
 ```
 
 ### Development
@@ -92,12 +85,8 @@ uv run python scripts/build.py
 # Sync Obsidian → Hugo
 uv run python scripts/sync.py --help
 
-# Generate content with LLM
-uv run python scripts/generate.py article "The Nature of Consciousness"
-
-# Curate and validate content
-uv run python scripts/curate.py validate hugo/content/
-uv run python scripts/curate.py review hugo/content/topics/meaning-of-life.md
+# Validate content frontmatter
+uv run python scripts/validate.py hugo/content/
 
 # Full build
 uv run python scripts/build.py
@@ -108,7 +97,7 @@ uv run python scripts/build.py
 All content uses a flat frontmatter schema with authorship tracking:
 
 - **Human** (`ai_contribution: 0`) - Created entirely by humans
-- **AI** (`ai_contribution: 100`) - Generated entirely by LLM
+- **AI** (`ai_contribution: 100`) - Generated entirely by AI
 - **Mixed** (`ai_contribution: 1-99`) - Collaborative human-AI content
 
 Frontmatter example:
