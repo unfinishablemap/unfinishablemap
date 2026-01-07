@@ -25,7 +25,7 @@ The project combines human insight with AI-assisted research to build a self-con
 ## Project Structure
 
 ```
-southgateai-main/
+theunfinishablemap/
 ├── obsidian/           # Primary content source (Obsidian vault)
 │   ├── topics/         # Philosophical topics
 │   ├── concepts/       # Core concepts
@@ -58,8 +58,8 @@ southgateai-main/
 
 ```bash
 # Clone the repository
-git clone https://github.com/southgateai/southgateai-main.git
-cd southgateai-main
+git clone https://github.com/southgateai/theunfinishablemap.git
+cd theunfinishablemap
 
 # Install uv (if not already installed)
 curl -LsSf https://astral.sh/uv/install.sh | sh

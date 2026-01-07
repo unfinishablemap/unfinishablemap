@@ -8,7 +8,7 @@ param(
 )
 
 $ErrorActionPreference = "Stop"
-$ProjectRoot = "c:\Users\andy\Documents\sai\southgateai-main"
+$ProjectRoot = "c:\Users\andy\Documents\sai\theunfinishablemap"
 $UvPath = "C:\Users\andy\.local\bin\uv.exe"
 $LogFile = "$ProjectRoot\obsidian\workflow\automation-log.txt"
 $Timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"

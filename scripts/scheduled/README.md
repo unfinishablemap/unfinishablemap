@@ -66,8 +66,8 @@ These PowerShell scripts are designed to run via Windows Task Scheduler for auto
    - **Triggers**: Daily at 2:00 AM (or your preferred time)
    - **Actions**: Start a program
      - Program: `powershell.exe`
-     - Arguments: `-ExecutionPolicy Bypass -File "c:\Users\andy\Documents\sai\southgateai-main\scripts\scheduled\daily.ps1"`
-     - Start in: `c:\Users\andy\Documents\sai\southgateai-main`
+     - Arguments: `-ExecutionPolicy Bypass -File "c:\Users\andy\Documents\sai\theunfinishablemap\scripts\scheduled\daily.ps1"`
+     - Start in: `c:\Users\andy\Documents\sai\theunfinishablemap`
    - **Conditions**: Start only if AC power (recommended)
    - **Settings**: If task fails, restart every 1 hour
 
