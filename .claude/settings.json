@@ -13,7 +13,11 @@
       "Edit(.claude/skills/**)",
       "Write(.claude/skills/**)",
       "Skill(research-topic)",
-      "Skill(research-topic:*)"
+      "Skill(research-topic:*)",
+      "Skill(check-links)",
+      "Skill(check-links:*)",
+      "Skill(evolve)",
+      "Skill(evolve:*)"
     ]
   }
 }

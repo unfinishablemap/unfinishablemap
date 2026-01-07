@@ -6,29 +6,16 @@
   "permissions": {
     "allow": [
       "WebSearch",
-      "Bash(dir \"c:\\\\Users\\\\andy\\\\Documents\\\\sai\\\\southgateai-main\")",
-      "Bash(dir:*)",
-      "Bash(uv sync:*)",
-      "Bash(powershell -c \"cd ''c:\\\\Users\\\\andy\\\\Documents\\\\sai\\\\southgateai-main''; & ''C:\\\\Users\\\\andy\\\\.local\\\\bin\\\\uv.exe'' sync\")",
-      "Bash(hugo version:*)",
-      "Bash(hugo:*)",
-      "Bash(powershell -c \"& ''C:\\\\Users\\\\andy\\\\.local\\\\bin\\\\uv.exe'' run python -c \"\"import subprocess; r=subprocess.run\\([''git'',''status'',''--porcelain'',''obsidian''],capture_output=True,text=True\\); print\\(repr\\(r.stdout\\)\\)\"\"\")",
-      "Bash(powershell -c \"& ''C:\\\\Users\\\\andy\\\\.local\\\\bin\\\\uv.exe'' run python scripts/commit_obsidian.py --dry-run\")",
-      "Bash(cat:*)",
-      "Bash(uv run python:*)",
-      "Bash(powershell:*)",
-      "Bash(git -C \"c:\\\\Users\\\\andy\\\\Documents\\\\sai\\\\southgateai-main\" status --porcelain)",
-      "Bash(git -C \"c:\\\\Users\\\\andy\\\\Documents\\\\sai\\\\southgateai-main\" log --oneline -5)",
-      "Bash(git -C \"c:\\\\Users\\\\andy\\\\Documents\\\\sai\\\\southgateai-main\" diff --stat HEAD)",
-      "Bash(git -C \"c:\\\\Users\\\\andy\\\\Documents\\\\sai\\\\southgateai-main\" status --short)",
-      "Bash(git -C \"c:\\\\Users\\\\andy\\\\Documents\\\\sai\\\\southgateai-main\" status --porcelain obsidian)",
-      "Bash(xxd:*)",
-      "Bash(git -C \"c:\\\\Users\\\\andy\\\\Documents\\\\sai\\\\southgateai-main\" status --porcelain obsidian/tenets/)",
       "Bash(git -C:*)",
       "Edit(.claude/skills/**)",
       "Write(.claude/skills/**)",
       "Skill(research-topic)",
-      "Skill(research-topic:*)"
+      "Skill(research-topic:*)",
+      "Skill(check-links)",
+      "Skill(check-links:*)",
+      "Bash(timeout /t 3 /nobreak)",
+      "Skill(expand-topic)",
+      "Skill(expand-topic:*)"
     ]
   }
 }
