@@ -58,7 +58,7 @@ scripts/            # CLI entry points (thin wrappers calling tools/)
 When editing files in `obsidian/`, update the `ai_modified` frontmatter field with the current ISO timestamp:
 
 ```yaml
-ai_modified: 2026-01-02T15:30:00+03:00
+ai_modified: 2026-01-02T15:30:00+00:00
 ```
 
 The `human_modified` field is updated automatically by the Obsidian Frontmatter Modified Date plugin when the user edits.
@@ -66,6 +66,19 @@ The `human_modified` field is updated automatically by the Obsidian Frontmatter 
 The `commit_obsidian.py` script compares these timestamps to determine git commit authorship:
 - Human edits: Uses configured git user
 - AI edits: Uses "southgate.ai Agent <agent@southgate.ai>"
+
+## Timezone Policy
+
+**All timestamps must use UTC (+00:00).** This ensures:
+- Consistent ordering and comparison across all content
+- No leakage of author/user geographical location
+- Simpler timestamp handling in automation scripts
+
+When generating timestamps in Python, use:
+```python
+from datetime import datetime, timezone
+timestamp = datetime.now(timezone.utc).isoformat()
+```
 
 ## Frontmatter Schema
 
@@ -88,6 +101,7 @@ author: "Name"           # human author
 ai_system: null          # or model name like "claude-sonnet-4-20250514"
 ai_generated_date: null  # when AI generated content
 last_curated: null       # last human review date
+last_deep_review: null   # ISO timestamp of last comprehensive review
 ---
 ```
 
@@ -129,7 +143,9 @@ The project includes scheduled AI automation for content development. All AI-gen
 | `/research-topic [topic]` | Web research, outputs notes to `workflow/research/` | No (research notes only) |
 | `/expand-topic [topic]` | Generate new article (always `draft: true`) | Yes (creates drafts) |
 | `/refine-draft [file]` | Improve existing draft content | Yes (keeps as draft) |
+| `/deep-review [file]` | Comprehensive single-document review with improvements | Yes (modifies content) |
 | `/work-todo` | Execute highest priority task from queue | Depends on task |
+| `/add-highlight` | Add item to highlights page (max 1/day) | Yes (highlights.md) |
 
 ### Task Queue
 

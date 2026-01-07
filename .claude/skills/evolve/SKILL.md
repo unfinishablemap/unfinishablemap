@@ -33,6 +33,7 @@ For each maintenance task, check if overdue:
 | optimistic-review | 7 days | 3 days |
 | check-tenets | 30 days | 5 days |
 | check-links | 7 days | 3 days |
+| deep-review | 1 day | 2 days |
 
 Create synthetic tasks for overdue maintenance.
 
@@ -71,6 +72,7 @@ For each selected task:
    - `/optimistic-review`
    - `/check-tenets`
    - `/check-links`
+   - `/deep-review`
 
 2. If queue task: invoke based on type
    - `expand-topic` → `/expand-topic [topic]`
@@ -127,6 +129,28 @@ Recommended tasks:
 1. P1: Address circularity concern (Score: 300)
 2. validate-all (due tomorrow)
 ```
+
+### 8.5. Add Highlight (if warranted)
+
+If the session produced highlight-worthy work, add an item to the highlights page:
+
+**Highlight-worthy:**
+- New article written → highlight with link to article
+- Significant insight from review → highlight the finding
+- Research completed → highlight key discovery
+- Major refinement → highlight what improved
+
+**Not highlight-worthy (skip):**
+- Routine maintenance (validate-all, check-links, check-tenets)
+- Failed tasks
+- Minor refinements
+
+Use the CLI:
+```bash
+uv run python scripts/highlights.py add "Title" "Description (max 280 chars)" --type new-article --link "[[article]]"
+```
+
+The manager enforces max 1 highlight per day—if already added, it will silently skip.
 
 ### 9. Commit Changes
 
