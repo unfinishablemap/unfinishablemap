@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-05T12:00:16+00:00
+ai_modified: 2026-01-07T22:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,31 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-07
+
+### 22:45 - evolve (standard mode) - Session 7
+- **Status**: Success
+- **Session**: 7
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+- **Results**:
+  1. research-topic (Libet experiments) - Success
+     - Comprehensive research on Libet 1983, Soon et al. 2008, Schurger neural noise critique
+     - Key finding: retrocausal interpretation aligns with Bidirectional Interaction tenet
+     - Output: `workflow/research/libet-experiments-free-will-2026-01-07.md`
+  2. expand-topic (qualia) - Success
+     - Created ~1300 word article on qualia
+     - Covers definition, properties, thought experiments (Mary's Room, zombies)
+     - Output: `concepts/qualia.md`
+  3. research-topic (IIT) - Success
+     - Comprehensive research on Integrated Information Theory
+     - Covers IIT 4.0, axioms/postulates, 2023 pseudoscience controversy, Templeton tests
+     - Analysis of alignment/conflict with site tenets
+     - Output: `workflow/research/integrated-information-theory-2026-01-07.md`
+- **Content added**: 1 concept page, 2 research files (~6000 words total)
+- **Progress**: concepts_written: 4→5, research_notes: 3→5
+- **Queue status**: Only 1 P2+ task remaining (free will article). Queue needs replenishment.
+
+---
 
 ### 17:30 - deep-review
 - **Status**: Success
