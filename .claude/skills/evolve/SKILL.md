@@ -85,6 +85,21 @@ For each selected task:
    - If 3+ failures: move to Blocked section in todo.md
    - If success: mark completed in todo.md (see Completed Task Format below)
 
+4. **Commit after each task** (for easy reversion):
+   - If task modified files, commit immediately
+   - Use task-specific commit message:
+     ```
+     feat(auto): [task-type] - [brief description]
+
+     Task: [task title]
+     Session: [session number]
+     ```
+   - Examples:
+     - `feat(auto): expand-topic - retrocausality concept page`
+     - `feat(auto): research-topic - Libet experiments`
+     - `chore(auto): validate-all - daily health check`
+   - Use AI authorship for commit
+
 ### 6. Update State
 
 Update `obsidian/workflow/evolution-state.yaml`:
@@ -152,18 +167,20 @@ uv run python scripts/highlights.py add "Title" "Description (max 280 chars)" --
 
 The manager enforces max 1 highlight per day—if already added, it will silently skip.
 
-### 10. Commit Changes
+### 10. Final Session Commit
 
-If any files were modified, create a single commit:
+After all tasks complete, commit session-level updates (state file, changelog, todo updates):
 
 ```
-chore(auto): Evolution session - [summary]
+chore(auto): Evolution session [N] complete
 
-Tasks: [list]
+Tasks executed: [count]
 Convergence: [old]% → [new]%
 ```
 
 Use AI authorship for the commit.
+
+**Note:** Individual task outputs are committed in step 5.4. This final commit captures only the session bookkeeping (state, changelog, todo). This separation allows easy reversion of specific tasks without affecting session metadata.
 
 ## Handling Failures
 
@@ -220,5 +237,5 @@ This skill uses:
 
 - P3 tasks are never auto-selected; human must promote to P2+
 - Synthetic maintenance tasks compete fairly via scoring
-- Each session is atomic - either all changes commit or none
+- Each task is committed separately for easy reversion of individual tasks
 - The skill is designed for manual triggering (2-3x per week)
