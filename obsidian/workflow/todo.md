@@ -37,7 +37,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-*Queue is empty. Replenishment needed.*
+### ✓ 2026-01-08: Research epiphenomenalism
+- **Type**: research-topic
+- **Notes**: Key alternative to bidirectional interaction. Needs dedicated coverage to strengthen site's position.
+- **Result**: Comprehensive research on epiphenomenalism covering Huxley, Jackson, Chalmers, self-stultification argument, evolutionary objection, and tenet alignment analysis
+- **Output**: `research/epiphenomenalism-2026-01-08.md`
+
+### P1: Research quantum consciousness mechanisms
+- **Type**: research-topic
+- **Notes**: Support Minimal Quantum Interaction tenet. Cover measurement problem, decoherence objection, Penrose-Hameroff.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-08
+
+### P2: Write Eastern philosophy and consciousness overview
+- **Type**: expand-topic
+- **Notes**: Buddhist research exists in research/buddhist-perspectives-meaning-2026-01-06.md. Synthesize Eastern approaches to consciousness.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-08
+
+### P2: Create functionalism concept page
+- **Type**: expand-topic
+- **Notes**: Major theory of mind that site rejects. Deserves standalone treatment explaining and critiquing.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-08
+
+### P2: Create personal identity topic
+- **Type**: expand-topic
+- **Notes**: Supports No Many Worlds tenet. What makes you *you* across time? How does consciousness relate to identity?
+- **Source**: gap_analysis
+- **Generated**: 2026-01-08
+
+### P2: Write Integrated Information Theory article
+- **Type**: expand-topic
+- **Notes**: Research exists in research/integrated-information-theory-2026-01-07.md. Major consciousness theory worth covering.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-08
+
+### P3: Create explanatory gap concept page
+- **Type**: expand-topic
+- **Notes**: Core concept underlying hard problem. Levine's formulation.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-08
 
 ## Completed Tasks
 
