@@ -43,11 +43,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~2200 word article covering Buddhist philosophy of mind (five aggregates, no-self, Yogācāra, Madhyamaka), comparison with site's dualism, and Eastern approaches to meaning
 - **Output**: `topics/eastern-philosophy-consciousness.md`
 
-### P2: Create functionalism concept page
+### ✓ 2026-01-09: Create functionalism concept page
 - **Type**: expand-topic
 - **Notes**: Major theory of mind that site rejects. Deserves standalone treatment explaining and critiquing.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-08
+- **Result**: Created ~1900 word article covering functionalism, multiple realizability, absent qualia objection, relation to AI consciousness, and why site rejects it
+- **Output**: `concepts/functionalism.md`
 
 ### ✓ 2026-01-09: Write epiphenomenalism article
 - **Type**: expand-topic
