@@ -67,6 +67,14 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Sections**: Axioms/postulates, phi measure, panpsychism, expander graph controversy, Templeton tests, comparison with site's dualism
 - **Output**: `concepts/integrated-information-theory.md`
 
+### Task 5: expand-topic (Eastern philosophy)
+- **Status**: Success
+- **Score**: 220
+- **Source**: Queue task (unconsumed_research)
+- **Content created**: ~2200 word article on Eastern philosophy and consciousness
+- **Sections**: Buddhist philosophy of mind (five aggregates, no-self, Yogācāra, Madhyamaka), hard problem comparison, alignments and tensions with site tenets, meaning
+- **Output**: `topics/eastern-philosophy-consciousness.md`
+
 ---
 
 ## 2026-01-08

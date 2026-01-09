@@ -37,11 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write Eastern philosophy and consciousness overview
+### ✓ 2026-01-09: Write Eastern philosophy and consciousness overview
 - **Type**: expand-topic
 - **Notes**: Buddhist research exists in research/buddhist-perspectives-meaning-2026-01-06.md. Synthesize Eastern approaches to consciousness.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-08
+- **Result**: Created ~2200 word article covering Buddhist philosophy of mind (five aggregates, no-self, Yogācāra, Madhyamaka), comparison with site's dualism, and Eastern approaches to meaning
+- **Output**: `topics/eastern-philosophy-consciousness.md`
 
 ### P2: Create functionalism concept page
 - **Type**: expand-topic
