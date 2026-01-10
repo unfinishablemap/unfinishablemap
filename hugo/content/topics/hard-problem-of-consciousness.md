@@ -1,19 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-01-06 20:30:00+00:00
+ai_modified: 2026-01-10 15:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
-concepts: []
+concepts:
+- '[[qualia]]'
+- '[[epiphenomenalism]]'
+- '[[functionalism]]'
 created: 2026-01-06
-date: &id001 2026-01-06
+date: &id001 2026-01-10
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-10 15:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[materialism]]'
+- '[[integrated-information-theory]]'
+- '[[quantum-consciousness]]'
 title: The Hard Problem of Consciousness
 topics: []
 ---
@@ -86,6 +92,14 @@ If Mary learns something new, then her previous knowledge—complete physical kn
 
 Critics have responded: perhaps Mary gains a new *ability* (to recognise red, to imagine it) rather than new *knowledge*. Perhaps she gains *acquaintance* with redness without learning new propositions. The debate continues, but the intuitive force of the argument remains: knowing everything about the mechanism of colour vision seems to leave out knowing what colour experience is *like*.
 
+## Is the Problem Solvable?
+
+Some philosophers argue that the hard problem may be permanently beyond human understanding. Colin McGinn's "new mysterianism" holds that human minds are *cognitively closed* with respect to the mind-body connection—we lack and may forever lack the conceptual apparatus to understand how physical processes give rise to experience.
+
+This is not mysticism. McGinn's position is that consciousness is a natural phenomenon with a natural explanation. The explanation exists. Other kinds of minds—perhaps alien intelligences or artificial systems with different architectures—might access it. But human cognition has evolved constraints that exclude certain conceptual territories.
+
+This possibility aligns with [apophatic approaches to the unknowable](/voids/apophatic-approaches/)—philosophical methods for approaching what cannot be directly grasped. If the hard problem marks a genuine cognitive limit, we may need to trace its boundaries through negation rather than expecting to solve it directly.
+
 ## Why This Matters
 
 The hard problem is not merely an abstract puzzle for philosophers. It cuts to the heart of how we understand ourselves and our place in nature.
@@ -109,6 +123,11 @@ Whether this specific proposal is correct matters less than the underlying point
 ### On This Site
 - [Against Materialism](/arguments/materialism/) — Why physicalist explanations fail
 - [qualia](/concepts/qualia/) — The qualitative character of experience
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness is causally inert
+- [functionalism](/concepts/functionalism/) — The view that mental states are functional roles
+- [integrated-information-theory](/concepts/integrated-information-theory/) — A mathematical theory identifying consciousness with integrated information
+- [quantum-consciousness](/concepts/quantum-consciousness/) — How quantum mechanics might relate to consciousness
+- [apophatic-approaches](/voids/apophatic-approaches/) — Methods for approaching what may exceed human understanding
 - [tenets](/tenets/) — The foundational commitments of this site
 
 ### External Resources
@@ -124,4 +143,5 @@ Whether this specific proposal is correct matters less than the underlying point
 - Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 - Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
 - Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
+- McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98, 349-366.
 - Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450.

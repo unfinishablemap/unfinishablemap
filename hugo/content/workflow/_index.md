@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-08 12:00:00+00:00
+ai_modified: 2026-01-10 17:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
 created: 2026-01-05
-date: &id001 2026-01-08
+date: &id001 2026-01-10
 draft: false
 human_modified: 2026-01-05
 last_curated: null
@@ -48,6 +48,7 @@ Skills are invoked via the Claude CLI using stream-json format, which allows pro
 | `/expand-topic [topic]` | Generate new article on a topic | Yes (creates draft) |
 | `/refine-draft [file]` | Improve existing draft content | Yes (edits content) |
 | `/research-topic [topic]` | Web research, outputs notes to [research](/research/) | Research notes only |
+| `/research-voids` | Daily research on cognitive gaps and unchartable territories | Research notes only |
 
 ### Review & Validation
 

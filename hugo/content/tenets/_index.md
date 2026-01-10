@@ -21,6 +21,7 @@ These are the foundational commitments that constrain all content on this site. 
 ## Dualism
 
 There is more than just matter involved in reality. <span id="dualism"></span>
+
 **Definition:** Dualism here means that consciousness (or mind, or experience) is not reducible to physical processes. There exists something beyond the material—whether substance, property, or aspect—that cannot be fully explained by physics alone.
 
 **Rationale:** The explanatory gap between physical descriptions and subjective experience remains unbridged. No amount of neurological detail tells us *why* there is something it is like to be conscious.
@@ -30,6 +31,7 @@ There is more than just matter involved in reality. <span id="dualism"></span>
 ## Minimal Quantum Interaction
 
 The smallest possible non-physical influence on physical outcomes. <span id="minimal-quantum-interaction"></span>
+
 **Definition:** If consciousness can influence the physical world, it must do so at the quantum level—biasing otherwise indeterminate outcomes without injecting energy or violating conservation laws. This tenet commits to the *minimal* such interaction: the smallest deviation from standard quantum mechanics that could permit mind-matter causation.
 
 **Rationale:** If dualism is true, there must be some interface where mind and matter meet. Quantum indeterminacy provides a candidate location—decisions might be made where physics leaves outcomes undetermined. The principle of minimality says: assume the smallest intervention necessary, not more.
@@ -41,6 +43,7 @@ The smallest possible non-physical influence on physical outcomes. <span id="min
 ## Bidirectional Interaction
 
 Consciousness is not a passive observer—it causally influences the physical world. <span id="bidirectional-interaction"></span>
+
 **Definition:** If we can speak, write, or otherwise report our conscious experiences, then information about consciousness must flow into the physical domain. This requires a mechanism by which the non-physical influences physical outcomes. The proposed mechanism: consciousness selects among superposed neural states, collapsing quantum indeterminacy in the brain toward patterns that express its content.
 
 **Rationale:** The very fact that we discuss consciousness provides strong evidence against epiphenomenalism. An epiphenomenon—causally inert by definition—could not influence the neurons that move our mouths or type our words. Yet here we are, talking about qualia. The conversation itself suggests downward causation.
@@ -56,6 +59,7 @@ Consciousness is not a passive observer—it causally influences the physical wo
 ## No Many Worlds
 
 The many-worlds interpretation of quantum mechanics is rejected. <span id="no-many-worlds"></span>
+
 **Definition:** Many-worlds holds that every quantum measurement causes the universe to split into branches for each possible outcome. All branches are equally real.
 
 **Rationale:** Many-worlds leads to vast ontological proliferation—countless copies of every observer existing in parallel. More problematically, it raises unanswerable indexical questions: why am I *this* instance and not another? The framework provides no resources to answer this, yet the question seems meaningful.
@@ -65,6 +69,7 @@ The many-worlds interpretation of quantum mechanics is rejected. <span id="no-ma
 ## Occam's Razor Has Limits
 
 Simplicity is not a reliable guide to truth when knowledge is incomplete. <span id="occams-limits"></span>
+
 **Definition:** Occam's Razor—the principle that simpler explanations should be preferred—is a useful heuristic but not a law of nature. It fails when we lack the concepts or data to recognize what is actually simple, and it has repeatedly pointed away from truth in the history of science.
 
 **Historical counterexamples:**
