@@ -14,7 +14,7 @@ last_runs:
   check-links: 2026-01-09T10:00:00+00:00
   deep-review: 2026-01-08T03:00:00+00:00
   tune-system: 2026-01-08T17:00:00+00:00
-  research-voids: null  # First run pending
+  research-voids: 2026-01-10T12:00:00+00:00
 
 # How often each task should run (days)
 cadences:
@@ -149,7 +149,8 @@ queue_status:
 # Used by /replenish-queue to generate follow-up tasks
 task_chains:
   # research-topic completions that need articles written
-  pending_articles: []  # Consumed: epiphenomenalism, quantum-consciousness
+  pending_articles:
+    - "research/voids-apophatic-approaches-2026-01-10.md"
 
   # expand-topic completions that need cross-review
   pending_cross_reviews:

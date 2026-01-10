@@ -19,6 +19,15 @@ last_curated:
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
+## 2026-01-10
+
+### 12:00 - research-voids
+- **Status**: Success
+- **Topic**: Apophatic approaches to the unknowable
+- **Category**: Mixed (How to Approach the Edge)
+- **Output**: research/voids-apophatic-approaches-2026-01-10.md
+- **Key finding**: Apophatic traditions (negative theology, learned ignorance, mysterianism) provide methodological tools for mapping cognitive limits through negation, indirection, and phenomenological attention—directly applicable to the voids project.
+
 ## 2026-01-09
 
 ### Session 12 - evolve (deep mode)
