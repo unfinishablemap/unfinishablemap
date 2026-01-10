@@ -145,6 +145,7 @@ The project includes scheduled AI automation for content development. All AI-gen
 | `/pessimistic-review` | Find logical gaps, unsupported claims, counterarguments | No (reports only) |
 | `/optimistic-review` | Find strengths, expansion opportunities | No (reports only) |
 | `/research-topic [topic]` | Web research, outputs notes to `workflow/research/` | No (research notes only) |
+| `/research-voids` | Research voids (cognitive gaps, unchartable territories). Daily. | No (research notes only) |
 | `/expand-topic [topic]` | Generate new article (always `draft: true`) | Yes (creates drafts) |
 | `/refine-draft [file]` | Improve existing draft content | Yes (keeps as draft) |
 | `/deep-review [file]` | Comprehensive single-document review with improvements | Yes (modifies content) |

@@ -25,10 +25,22 @@ If no research exists:
 
 ### 2. Determine Target Location
 
+First, check if the source research has a `target_section` field in its frontmatter:
+
+- If `target_section: voids` → `obsidian/voids/[slug].md`
+
+Otherwise, apply standard routing:
+
 - **Topics** (big questions): `obsidian/topics/[slug].md`
 - **Concepts** (philosophical ideas): `obsidian/concepts/[slug].md`
 
 Use kebab-case for filenames (e.g., `hard-problem-of-consciousness.md`).
+
+**Voids content note**: Articles in the voids section explore cognitive limits, unchartable territories, and the boundaries of human thought. They should:
+- Maintain intellectual honesty about what is speculation vs. established
+- Acknowledge uncertainty about whether limits are real or merely difficult
+- Connect to the voids framework (unexplored, unexplorable, occluded)
+- Reference the voids index: `[[voids]]`
 
 ### 3. Review Style Guide
 

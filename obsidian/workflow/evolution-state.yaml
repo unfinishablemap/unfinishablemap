@@ -14,6 +14,7 @@ last_runs:
   check-links: 2026-01-09T10:00:00+00:00
   deep-review: 2026-01-08T03:00:00+00:00
   tune-system: 2026-01-08T17:00:00+00:00
+  research-voids: null  # First run pending
 
 # How often each task should run (days)
 cadences:
@@ -24,6 +25,7 @@ cadences:
   check-links: 1
   deep-review: 1
   tune-system: 7
+  research-voids: 1
 
 # Auto-inject as synthetic task when overdue by this many days
 overdue_thresholds:
@@ -34,6 +36,7 @@ overdue_thresholds:
   check-links: 3
   deep-review: 2
   tune-system: 14
+  research-voids: 2
 
 # Content statistics (updated each session)
 content_stats:
