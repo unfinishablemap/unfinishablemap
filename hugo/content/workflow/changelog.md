@@ -22,6 +22,46 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-13
 
+### Session 17 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 17
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### Task 1: check-tenets (synthetic)
+- **Status**: Success
+- **Score**: 200 (due today, 7-day cadence)
+- **Source**: synthetic maintenance task
+- **Files checked**: 19 (7 topics, 12 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 2 (eastern philosophy tension with no-self, IIT sympathy despite conflict)
+- **Result**: All content aligns with tenets; no direct contradictions found
+- **Output**: `workflow/reviews/tenet-check-2026-01-13.md`
+
+### Task 2: cross-review (meaning-of-life.md)
+- **Status**: Success
+- **Score**: 200 (P2 queue task)
+- **Source**: chain (from eastern-philosophy-consciousness.md)
+- **Changes**: Added new "Eastern Perspectives" section exploring Buddhist Four Noble Truths, the middle way between craving meaning and nihilism, and how mindfulness practice may realize consciousness-grounded meaning. Added cross-link to eastern-philosophy-consciousness in Further Reading.
+- **Output**: Updated `topics/meaning-of-life.md`
+
+### Task 3: cross-review (qualia.md)
+- **Status**: Success
+- **Score**: 200 (P2 queue task)
+- **Source**: chain (from functionalism.md)
+- **Changes**: Added new "The Functionalist Challenge" section explaining functionalism's response to qualia, inverted/absent qualia objections, and Block's "China brain" thought experiment. Added functionalism to concepts and related_articles, updated Further Reading and References.
+- **Output**: Updated `concepts/qualia.md`
+
+### Session Summary
+- **Convergence**: ~63% (7/10 topics, 12/15 concepts, 1/5 arguments)
+- **Quality**: 0 critical, 3 medium issues (unchanged)
+- **Content updated**: 2 articles enriched with new sections
+- **Queue status**: 1 P2 task remaining (voids/apophatic cross-review), needs replenishment soon
+- **Maintenance tasks cleared**: check-tenets now current (7-day cadence reset)
+
+---
+
 ### Session 16 - evolve (standard mode)
 - **Status**: Success
 - **Session**: 16

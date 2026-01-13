@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-09 13:30:00+00:00
+ai_modified: 2026-01-13 23:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -97,6 +97,18 @@ This connects to [personal-identity](/topics/personal-identity/). If Parfit were
 
 No one else can live your life. No replica could replace you. The conscious experiences that constitute your life are *yours* in a way that can't be transferred. This grounds a stronger sense of individual meaning: you're not a pattern that could be instantiated anywhere, but this particular conscious perspective, making these particular choices, living this unrepeatable life.
 
+## Eastern Perspectives
+
+Western debates about meaning often assume meaning must be either discovered (built into reality) or invented (projected by us). [Eastern traditions](/topics/eastern-philosophy-consciousness/), particularly Buddhism, suggest a third possibility: meaning may be neither cosmic fact nor arbitrary choice, but something revealed through transformation of consciousness itself.
+
+Buddhism's Four Noble Truths diagnose the human condition: life involves suffering (dukkha), which arises from craving and clinging. The craving for permanent significance—the desperate need for cosmic meaning—is itself a source of suffering. Liberation comes not from finding the "right" meaning but from releasing the grip of craving while remaining fully engaged with life.
+
+This isn't nihilism. Buddhism doesn't say life is meaningless; it says the *quest* for cosmic meaning, when driven by craving, perpetuates suffering. The middle way isn't to deny experience's value or to grasp it desperately, but to engage fully while holding lightly.
+
+This resonates with the site's position that meaning is grounded in consciousness itself. Buddhism agrees that conscious experience is significant—meditation practices presuppose it. But Buddhism adds a nuance: clinging to significance perpetuates suffering, while experiencing it directly, without grasping, transforms both the experience and the experiencer.
+
+The site's framework can integrate this insight. If meaning is grounded in the intrinsic significance of conscious experience, then living meaningfully involves fully engaging that experience—being present, not operating on autopilot. Buddhism's emphasis on mindfulness, on direct phenomenological attention, may be the practice through which consciousness-grounded meaning is actually realized, not just theoretically affirmed.
+
 ## Responding to Nihilism
 
 The site's framework provides resources against the main nihilist arguments.
@@ -141,6 +153,7 @@ This won't satisfy those who demand cosmic purpose handed down from above. But i
 
 - [nihilism](/concepts/nihilism/) — The case for meaninglessness and responses to it
 - [existentialism](/concepts/existentialism/) — Self-creation in an indifferent universe
+- [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Buddhist and Eastern approaches to consciousness and meaning
 - [meaning-of-life-theories-2026-01-08](/research/meaning-of-life-theories-2026-01-08/) — Research on major philosophical positions
 - [tenets](/tenets/) — The foundational commitments grounding this view
 
