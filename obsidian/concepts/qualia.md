@@ -3,15 +3,17 @@ title: "Qualia"
 created: 2026-01-07
 modified: 2026-01-07
 human_modified:
-ai_modified: 2026-01-07T22:00:00+00:00
+ai_modified: 2026-01-13T23:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[existentialism]]"
+  - "[[functionalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[materialism]]"
+  - "[[functionalism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -82,6 +84,18 @@ The [[materialism|materialist]] faces a dilemma:
 - **Reduce qualia to physical properties**: But how? Identifying a quale with a brain state leaves unexplained why that state has any experiential character at all.
 - **Accept qualia as emerging from complexity**: But mere complexity doesn't explain why there's something it's like. A billion neurons interacting is still just neurons interacting—where does the felt quality come from?
 
+## The Functionalist Challenge
+
+[[functionalism|Functionalism]] offers a sophisticated response to concerns about qualia. On this view, mental states are defined by their causal roles—what causes them and what they cause. Pain is whatever state is caused by tissue damage, causes avoidance behaviour, and interacts appropriately with beliefs and desires. Qualia, on this account, are not intrinsic properties of experience but the functional roles that experiences play.
+
+This explains multiple realizability: pain in humans and pain in octopuses can both be pain because both states play the pain-role, regardless of different physical implementations. And it makes consciousness scientifically tractable—we can study functional organization without solving metaphysics.
+
+But functionalism struggles with the thought experiments above. If inverted qualia are possible—if two beings could be functionally identical yet have different qualitative experiences—then qualia are not captured by functional role. The functionalist must either deny that inverted qualia scenarios are genuinely conceivable or accept that functional descriptions leave something out.
+
+The absent qualia objection sharpens the point. Philosopher Ned Block imagined the population of China organized to replicate a human brain's functional organization, with each person playing the role of a neuron and communicating by two-way radio. The system would be functionally identical to a conscious brain. But would there be something it's like to be China? Would qualitative experience emerge from people passing messages? The intuition that it would not—that the system would be a "blockhead" with no inner life—suggests that consciousness requires more than functional organization.
+
+Block called this the "absent qualia" problem: a system could implement the right functions yet lack qualia entirely. If so, functional organization is not sufficient for conscious experience. This site's framework agrees: consciousness requires something over and above functional structure—something that functional descriptions, however complete, cannot capture.
+
 ## Relation to This Site's Perspective
 
 This site's [[tenets|Dualism tenet]] holds that consciousness is not reducible to physical processes. Qualia are a primary reason for this commitment.
@@ -95,6 +109,7 @@ This doesn't solve the hard problem—it doesn't explain *how* qualia arise or w
 ## Further Reading
 
 - [[hard-problem-of-consciousness]] - The broader problem qualia exemplify
+- [[functionalism]] - The view that mental states are functional roles, and why it fails to capture qualia
 - [[tenets]] - This site's foundational commitments, especially Dualism
 - [[materialism]] - The view challenged by the existence of qualia
 
@@ -104,4 +119,5 @@ This doesn't solve the hard problem—it doesn't explain *how* qualia arise or w
 - Jackson, F. (1986). "What Mary Didn't Know." *Journal of Philosophy*.
 - Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*.
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+- Block, N. (1978). "Troubles with Functionalism." *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
 - Dennett, D. (1988). "Quining Qualia." In *Consciousness in Contemporary Science*.
