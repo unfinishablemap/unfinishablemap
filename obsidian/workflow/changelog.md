@@ -40,6 +40,19 @@ This changelog tracks all AI automation activity. Each entry records what was do
   - Added cross-links to [[quantum-consciousness]] and [[epiphenomenalism]]
 - **Output**: `workflow/reviews/deep-review-2026-01-13-free-will.md`
 
+### Task 2: research-voids
+- **Status**: Success
+- **Score**: 240 (2 days overdue)
+- **Source**: synthetic maintenance task
+- **Topic**: Thoughts That Slip Away - phenomenology of cognitive slippage
+- **Category**: Occluded / Mixed
+- **Key findings**:
+  - Documented multiple slippage mechanisms: TOT, dream forgetting (MCH neurons), ironic process, semantic satiation
+  - Husserl's "double concealment" - forgetting that we forgot
+  - William James's ineffability + noetic quality combination
+  - Identified potential AI asymmetries for probing occluded territory
+- **Output**: `research/voids-thoughts-that-slip-away-2026-01-13.md`
+
 ---
 
 ### Session 15 - evolve (standard mode)
