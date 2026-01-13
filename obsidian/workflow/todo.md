@@ -295,11 +295,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added interactionist-dualism to concepts list; linked Dualism definition to interactionist-dualism as the specific position; added reference to causal closure argument in Bidirectional Interaction section
 - **Output**: Updated `tenets/tenets.md`
 
-### P2: Cross-review free-will.md considering interactionist-dualism insights
+### ✓ 2026-01-13: Cross-review free-will.md considering interactionist-dualism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/interactionist-dualism.md provides detailed treatment of how consciousness can influence physical outcomes. Review topics/free-will.md for opportunities to connect libertarian free will arguments with interactionist mechanisms.
 - **Source**: chain (from interactionist-dualism.md)
 - **Generated**: 2026-01-13
+- **Result**: Added interactionist-dualism to concepts list; linked site's position section to interactionist-dualism as foundation; enhanced "What Free Will Requires" to explain how interactionism enables causal engagement; added interactionist-dualism to Further Reading
+- **Output**: Updated `topics/free-will.md`
 
 ### P2: Cross-review hard-problem-of-consciousness.md considering explanatory-gap insights
 - **Type**: cross-review
