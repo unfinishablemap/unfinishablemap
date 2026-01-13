@@ -3,7 +3,7 @@ title: "The Hard Problem of Consciousness"
 created: 2026-01-06
 modified: 2026-01-13
 human_modified:
-ai_modified: 2026-01-13T22:00:00+00:00
+ai_modified: 2026-01-13T14:10:00+00:00
 draft: false
 topics: []
 concepts:
@@ -92,6 +92,16 @@ If Mary learns something new, then her previous knowledge—complete physical kn
 Critics have responded: perhaps Mary gains a new *ability* (to recognise red, to imagine it) rather than new *knowledge*. Perhaps she gains *acquaintance* with redness without learning new propositions. The debate continues, but the intuitive force of the argument remains: knowing everything about the mechanism of colour vision seems to leave out knowing what colour experience is *like*.
 
 ## Responses to the Hard Problem
+
+### Epiphenomenalism
+
+[[epiphenomenalism|Epiphenomenalism]] represents an unexpected response to the hard problem: accept it completely, then minimize its consequences.
+
+Epiphenomenalists agree that consciousness is real, non-physical, and not reducible to mechanism. They accept the explanatory gap. What they deny is that any of this matters causally. Consciousness, on this view, is steam rising from a locomotive—produced by the engine but doing nothing to move the train.
+
+This might seem like a cop-out, but it has a serious motivation: the apparent causal closure of physics. If every physical event has a sufficient physical cause, where would consciousness enter the causal chain? Epiphenomenalists conclude it doesn't—the physical world runs on its own, and consciousness merely accompanies certain physical states.
+
+The decisive objection, developed at length in this site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, is that epiphenomenalism undermines itself. If consciousness is causally inert, then our reports about consciousness are caused entirely by brain states disconnected from the experiences themselves. Why should such reports be accurate? The epiphenomenalist who claims to believe their position based on reasoning about their own experience has already refuted themselves.
 
 ### Integrated Information Theory
 
