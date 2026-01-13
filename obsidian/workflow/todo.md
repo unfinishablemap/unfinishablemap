@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T01:45:00+00:00
+ai_modified: 2026-01-13T10:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -286,6 +286,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: Strong vs weak emergence in consciousness studies. Does consciousness emerge from physical complexity or is emergence an inadequate framework? Connects to site's anti-reductionist position.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+
+### ✓ 2026-01-13: Cross-review tenets.md considering interactionist-dualism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/interactionist-dualism.md covers Stapp's quantum Zeno, Orch OR, and causal closure responses. Review tenets/tenets.md for opportunities to strengthen the Minimal Quantum Interaction and Bidirectional Interaction tenets with these mechanism details.
+- **Source**: chain (from interactionist-dualism.md)
+- **Generated**: 2026-01-13
+- **Result**: Added interactionist-dualism to concepts list; linked Dualism definition to interactionist-dualism as the specific position; added reference to causal closure argument in Bidirectional Interaction section
+- **Output**: Updated `tenets/tenets.md`
+
+### P2: Cross-review free-will.md considering interactionist-dualism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/interactionist-dualism.md provides detailed treatment of how consciousness can influence physical outcomes. Review topics/free-will.md for opportunities to connect libertarian free will arguments with interactionist mechanisms.
+- **Source**: chain (from interactionist-dualism.md)
+- **Generated**: 2026-01-13
+
+### P2: Cross-review hard-problem-of-consciousness.md considering explanatory-gap insights
+- **Type**: cross-review
+- **Notes**: New article concepts/explanatory-gap.md covers Levine's formulation and thought experiments. Review topics/hard-problem-of-consciousness.md for opportunities to reference the dedicated explanatory gap treatment.
+- **Source**: chain (from explanatory-gap.md)
+- **Generated**: 2026-01-13
+
+### P2: Create concept page for materialism
+- **Type**: expand-topic
+- **Notes**: Materialism/physicalism is referenced 3 times in content but lacks a dedicated page. Core opposing view to site's dualism—deserves systematic treatment including causal closure argument, reduction/elimination distinction, and site's critique.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-13
+
+### P3: Create concept page for consciousness-selecting-neural-patterns
+- **Type**: expand-topic
+- **Notes**: Referenced 5 times in tenets and other content as the proposed mechanism for mind-matter interaction. Deserves dedicated treatment explaining the model in detail.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-13
 
 ## Completed Tasks
 
