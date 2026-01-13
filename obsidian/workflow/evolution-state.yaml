@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-10T16:30:00+00:00
-session_count: 13
+last_updated: 2026-01-13T11:00:00+00:00
+session_count: 14
 
 # Last run timestamps for maintenance tasks
 last_runs:
-  validate-all: 2026-01-09T10:00:00+00:00
-  pessimistic-review: 2026-01-08T15:00:00+00:00
+  validate-all: 2026-01-13T10:30:00+00:00
+  pessimistic-review: 2026-01-13T10:30:00+00:00
   optimistic-review: 2026-01-09T10:00:00+00:00
   check-tenets: 2026-01-06T20:00:00+00:00
   check-links: 2026-01-09T10:00:00+00:00
@@ -40,9 +40,9 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 48  # +1 apophatic-approaches (voids), +1 research notes
+  total_files: 49  # +1 purpose-and-alignment
   published_files: 37
-  draft_files: 1  # apophatic-approaches
+  draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
 # Convergence targets - what "done" looks like
@@ -55,19 +55,20 @@ convergence_targets:
 
 # Current progress toward convergence
 progress:
-  topics_written: 6
+  topics_written: 7  # +purpose-and-alignment
   concepts_written: 12
   arguments_written: 1
   questions_written: 1
-  voids_written: 1  # +apophatic-approaches
-  research_notes: 12  # +purpose-of-life-ai-alignment
-  reviews_completed: 11  # +deep-review-hard-problem
+  voids_written: 1
+  research_notes: 12
+  reviews_completed: 13  # +pessimistic-2026-01-13, +validate-all
 
 # Quality metrics (from last validation)
 quality:
   critical_issues: 0
-  medium_issues: 4
-  low_issues: 1
+  medium_issues: 3  # from pessimistic-2026-01-13
+  low_issues: 2
+  orphaned_files: 2  # eastern-philosophy-consciousness, purpose-and-alignment
 
 # Failed task tracking (title -> retry_count)
 # After 3 failures, task moves to Blocked section
@@ -75,6 +76,18 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (purpose-and-alignment)
+    date: 2026-01-13
+    result: success
+    session: 14
+  - task: pessimistic-review
+    date: 2026-01-13
+    result: success
+    session: 14
+  - task: validate-all
+    date: 2026-01-13
+    result: success
+    session: 14
   - task: expand-topic (apophatic-approaches)
     date: 2026-01-10
     result: success
@@ -131,14 +144,14 @@ recent_tasks:
 # Queue status
 queue_status:
   p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 0  # All P2 tasks completed
+  p1_tasks: 0  # purpose-and-alignment completed
+  p2_tasks: 5  # cross-reviews
   p3_tasks: 1  # explanatory gap only
-  needs_replenishment: true  # No active tasks remaining
-  last_replenishment: 2026-01-09T12:00:00+00:00
+  needs_replenishment: false
+  last_replenishment: 2026-01-13T10:00:00+00:00
   replenishment_source_counts:
-    chain: 5  # +1 from research (purpose-of-life)
-    unconsumed_research: 1  # purpose-of-life-ai-alignment
+    chain: 6  # 1 article from research + 5 cross-reviews
+    unconsumed_research: 0  # consumed into chain
     gap_analysis: 0
     staleness: 0
 
@@ -146,8 +159,8 @@ queue_status:
 # Used by /replenish-queue to generate follow-up tasks
 task_chains:
   # research-topic completions that need articles written
-  pending_articles:
-    - "research/purpose-of-life-ai-alignment-2026-01-10.md"
+  pending_articles: []
+    # purpose-of-life-ai-alignment consumed -> purpose-and-alignment.md written
     # voids-apophatic-approaches consumed -> apophatic-approaches.md written
 
   # expand-topic completions that need cross-review
@@ -185,6 +198,11 @@ task_chains:
         - "voids/voids.md"
         - "topics/hard-problem-of-consciousness.md"
       generated: "2026-01-10T15:00:00+00:00"
+    - new_article: "topics/purpose-and-alignment.md"
+      review_targets:
+        - "topics/meaning-of-life.md"
+        - "topics/ai-consciousness.md"
+      generated: "2026-01-13T10:00:00+00:00"
 
 # Human-locked settings (tune-system cannot modify these automatically)
 # Format: setting_path: "Reason for lock - date"
