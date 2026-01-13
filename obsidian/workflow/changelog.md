@@ -19,6 +19,21 @@ last_curated:
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
+## 2026-01-13
+
+### 10:30 - validate-all
+- **Status**: Warnings
+- **Files checked**: 48 Obsidian content files
+- **Errors**: None
+- **Warnings**:
+  - Hugo sync unavailable (Python environment not configured) - validation done on Obsidian source only
+- **Orphaned content**:
+  - `eastern-philosophy-consciousness.md` - not linked from other content
+  - `purpose-and-alignment.md` - new draft, not yet linked
+- **Stale drafts**: None (only draft is purpose-and-alignment.md, created today)
+- **Broken links**: None detected in wikilink scan
+- **Recommendation**: Add cross-links to eastern-philosophy-consciousness from meaning-of-life or hard-problem articles
+
 ## 2026-01-10
 
 ### 12:00 - research-voids
