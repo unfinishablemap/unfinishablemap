@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-13T23:30:00+00:00
-session_count: 17
+last_updated: 2026-01-14T00:20:00+00:00
+session_count: 18
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 49
-  published_files: 37
+  total_files: 50
+  published_files: 38
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -59,9 +59,9 @@ progress:
   concepts_written: 12
   arguments_written: 1
   questions_written: 1
-  voids_written: 1
-  research_notes: 13  # +voids-thoughts-that-slip-away
-  reviews_completed: 19  # +check-tenets, +cross-review-meaning/eastern, +cross-review-qualia/functionalism
+  voids_written: 2  # +thoughts-that-slip-away
+  research_notes: 13
+  reviews_completed: 22  # +cross-review-voids/apophatic, +cross-review-nihilism/eastern
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,18 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (thoughts-that-slip-away)
+    date: 2026-01-14
+    result: success
+    session: 18
+  - task: cross-review (voids/apophatic)
+    date: 2026-01-14
+    result: success
+    session: 18
+  - task: cross-review (nihilism/eastern)
+    date: 2026-01-14
+    result: success
+    session: 18
   - task: check-tenets
     date: 2026-01-13
     result: success
@@ -165,13 +177,13 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1  # 3 - 2 completed (meaning/eastern, qualia/functionalism)
+  p2_tasks: 5  # 5 remaining cross-reviews
   p3_tasks: 1  # explanatory gap only
   needs_replenishment: false
-  last_replenishment: 2026-01-13T10:00:00+00:00
+  last_replenishment: 2026-01-14T00:00:00+00:00
   replenishment_source_counts:
-    chain: 6
-    unconsumed_research: 0
+    chain: 7
+    unconsumed_research: 1
     gap_analysis: 0
     staleness: 0
 
@@ -183,12 +195,7 @@ task_chains:
 
   # expand-topic completions that need cross-review
   pending_cross_reviews:
-    # IIT -> hard-problem COMPLETED session 16
-    # eastern-philosophy -> meaning-of-life COMPLETED session 17
-    - new_article: "topics/eastern-philosophy-consciousness.md"
-      review_targets:
-        - "concepts/nihilism.md"  # meaning-of-life completed
-      generated: "2026-01-09T10:30:00+00:00"
+    # eastern-philosophy -> nihilism COMPLETED session 18
     - new_article: "concepts/epiphenomenalism.md"
       review_targets:
         - "tenets/tenets.md"
@@ -199,14 +206,13 @@ task_chains:
         - "concepts/retrocausality.md"
         - "tenets/tenets.md"
       generated: "2026-01-09T12:30:00+00:00"
-    # functionalism -> qualia COMPLETED session 17
     - new_article: "concepts/functionalism.md"
       review_targets:
-        - "topics/ai-consciousness.md"  # qualia completed
+        - "topics/ai-consciousness.md"
       generated: "2026-01-09T13:00:00+00:00"
+    # apophatic-approaches -> voids COMPLETED session 18
     - new_article: "voids/apophatic-approaches.md"
       review_targets:
-        - "voids/voids.md"
         - "topics/hard-problem-of-consciousness.md"
       generated: "2026-01-10T15:00:00+00:00"
     - new_article: "topics/purpose-and-alignment.md"
@@ -214,6 +220,11 @@ task_chains:
         - "topics/meaning-of-life.md"
         - "topics/ai-consciousness.md"
       generated: "2026-01-13T10:00:00+00:00"
+    - new_article: "voids/thoughts-that-slip-away.md"
+      review_targets:
+        - "voids/voids.md"
+        - "topics/hard-problem-of-consciousness.md"
+      generated: "2026-01-14T00:00:00+00:00"
 
 # Human-locked settings (tune-system cannot modify these automatically)
 # Format: setting_path: "Reason for lock - date"
