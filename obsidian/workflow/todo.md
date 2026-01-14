@@ -303,11 +303,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added interactionist-dualism to concepts list; linked site's position section to interactionist-dualism as foundation; enhanced "What Free Will Requires" to explain how interactionism enables causal engagement; added interactionist-dualism to Further Reading
 - **Output**: Updated `topics/free-will.md`
 
-### P2: Cross-review hard-problem-of-consciousness.md considering explanatory-gap insights
+### ✓ 2026-01-13: Cross-review hard-problem-of-consciousness.md considering explanatory-gap insights
 - **Type**: cross-review
 - **Notes**: New article concepts/explanatory-gap.md covers Levine's formulation and thought experiments. Review topics/hard-problem-of-consciousness.md for opportunities to reference the dedicated explanatory gap treatment.
 - **Source**: chain (from explanatory-gap.md)
 - **Generated**: 2026-01-13
+- **Result**: Added explanatory-gap to concepts list; linked Explanatory Gap section header to concept page with expanded description; added explanatory-gap to Further Reading
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
 ### P2: Create concept page for materialism
 - **Type**: expand-topic

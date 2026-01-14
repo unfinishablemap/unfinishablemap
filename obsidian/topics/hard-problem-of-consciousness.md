@@ -3,7 +3,7 @@ title: "The Hard Problem of Consciousness"
 created: 2026-01-06
 modified: 2026-01-13
 human_modified:
-ai_modified: 2026-01-14T01:30:00+00:00
+ai_modified: 2026-01-13T12:00:00+00:00
 draft: false
 topics: []
 concepts:
@@ -12,6 +12,7 @@ concepts:
   - "[[functionalism]]"
   - "[[apophatic-approaches]]"
   - "[[thoughts-that-slip-away]]"
+  - "[[explanatory-gap]]"
 related_articles:
   - "[[tenets]]"
   - "[[materialism]]"
@@ -50,7 +51,7 @@ Why doesn't all this information processing happen "in the dark," without any su
 
 ## The Explanatory Gap
 
-Philosopher Joseph Levine coined the term "explanatory gap" to capture what's missing from physical explanations of consciousness.
+Philosopher Joseph Levine coined the term "[[explanatory-gap]]" to capture what's missing from physical explanations of consciousness. The gap represents the conceptual chasm between physical descriptions—no matter how complete—and the qualitative character of conscious experience.
 
 Consider a paradigm physical explanation: water is H₂O. Once you know the molecular structure of water, you can explain its properties—why it boils at 100°C, why it's liquid at room temperature, why it expands when it freezes. The explanation is satisfying. Given the molecular facts, the macroscopic properties follow.
 
@@ -164,6 +165,7 @@ Whether this specific proposal is correct matters less than the underlying point
 ## Further Reading
 
 ### On This Site
+- [[explanatory-gap]] — Levine's formulation and physicalist responses
 - [[materialism|Against Materialism]] — Why physicalist explanations fail
 - [[qualia]] — The qualitative character of experience
 - [[epiphenomenalism]] — The view that consciousness is causally inert
