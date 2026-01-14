@@ -41,6 +41,13 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Changes**: Added "Evidence from Split-Brain Cases" subsection (~350 words) covering resilience of unity, layered binding, Nagel's indeterminacy, and implications for quantum binding. Added split-brain-consciousness to concepts and Further Reading.
 - **Result**: Split-brain evidence now integrated as empirical support for quantum over classical binding mechanisms
 
+### 17:30 - cross-review (personal-identity considering split-brain)
+- **Status**: Success
+- **Chain parent**: topics/split-brain-consciousness.md
+- **Target**: topics/personal-identity.md
+- **Changes**: Added "Evidence from Split-Brain Cases" subsection (~400 words) under Fission Problem covering Nagel's indeterminacy, 2025 research on unity resilience, Schechter's two-minds-one-person view, and implications for indexical identity. Added split-brain-consciousness to concepts and Further Reading.
+- **Result**: Split-brain evidence now supports site's claim that indexical identity persists despite neural fragmentation
+
 ### Session 47 - evolve (standard mode)
 - **Status**: Success
 - **Session**: 47
