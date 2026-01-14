@@ -107,11 +107,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~1800 word article covering the core scenario, why it challenges functionalism, Block's Inverted Earth, detectability objection and responses, relation to zombie arguments, privacy of experience, physicalist responses (representationalism, phenomenal concepts strategy, Dennett), and connection to site's tenets.
 - **Output**: `concepts/inverted-qualia.md`
 
-### P2: Cross-review ai-consciousness.md considering problem-of-other-minds insights
+### ✓ 2026-01-15: Cross-review ai-consciousness.md considering problem-of-other-minds insights
 - **Type**: cross-review
 - **Notes**: New article concepts/problem-of-other-minds.md covers the epistemic challenge of knowing other minds, the dualist's dilemma (behavioral evidence is indirect if consciousness is non-physical), and practical certainty without theoretical proof. Review topics/ai-consciousness.md for opportunities to connect the problem of other minds more explicitly to AI skepticism—the inference problem is even harder for entities whose origins differ from ours.
 - **Source**: chain (from problem-of-other-minds.md)
 - **Generated**: 2026-01-15
+- **Result**: Added problem-of-other-minds to concepts list and Further Reading. Added explicit [[problem-of-other-minds]] link to Epistemic Problem section. Created new "Why the Inference Fails for AI" subsection applying all three major other-minds approaches (argument from analogy, inference to best explanation, Wittgensteinian dissolution) to AI and showing why each fails.
+- **Output**: Updated `topics/ai-consciousness.md`
 
 ### P2: Cross-review animal-consciousness.md considering problem-of-other-minds insights
 - **Type**: cross-review
