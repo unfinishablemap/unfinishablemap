@@ -3,11 +3,12 @@ title: "Voids in the Map"
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: 2026-01-08
-ai_modified: 2026-01-14T00:10:00+00:00
+ai_modified: 2026-01-14T14:45:00+00:00
 draft: false
 topics: []
 concepts:
   - "[[simulation]]"
+  - "[[mysterianism]]"
 related_articles:
   - "[[tenets]]"
   - "[[index]]"
@@ -15,6 +16,7 @@ related_articles:
   - "[[apophatic-approaches]]"
   - "[[thoughts-that-slip-away]]"
   - "[[self-reference-paradox]]"
+  - "[[mysterianism]]"
 ai_contribution: 80
 author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
@@ -40,11 +42,13 @@ These voids are exciting. They represent opportunity. The Unfinishable Map proje
 
 But there may be another kind of void. Not darkness that awaits illumination, but darkness that *cannot* be illuminated—at least not by minds like ours.
 
-If the site's [[tenets]] are correct, consciousness is not reducible to physical processes. The mental and physical are distinct categories that interact. And if the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is right, reality may be stranger than our simplest theories suggest.
+Colin McGinn's [[mysterianism|mysterian]] framework articulates this possibility with philosophical precision. McGinn proposes that minds can be *cognitively closed* with respect to certain properties—the properties exist, but the mind's concept-forming procedures cannot extend to grasp them. A rat is cognitively closed to calculus not because it's insufficiently intelligent within its domain, but because the conceptual apparatus simply isn't there.
 
-What follows? Perhaps some truths are literally unthinkable for beings like us.
+McGinn argues that humans may be cognitively closed to what he calls "property P"—whatever property of the brain explains how neural activity gives rise to conscious experience. We access consciousness through introspection and brain through perception, but neither mode reveals the bridge between them. The [[hard-problem-of-consciousness|hard problem]] might be unsolvable not because it's supernatural but because the solution lies outside our cognitive reach.
 
-Consider: a bat perceives the world through echolocation. There is something it is like to be a bat, navigating by sound in ways we cannot truly imagine. The bat has access to experiential territory we cannot enter. Our map has a void where the bat's map has detail.
+If the site's [[tenets]] are correct—consciousness is irreducible and interacts with physical processes—this adds weight to McGinn's picture. Reality may be stranger than our simplest theories suggest.
+
+Consider: a bat perceives the world through echolocation. There is something it is like to be a bat, navigating by sound in ways we cannot truly imagine. Thomas Nagel made this point to show that objective scientific methods cannot capture subjective experience without loss—we need the viewpoint to understand consciousness, but viewpoints are what we're trying to understand. The bat has access to experiential territory we cannot enter. Our map has a void where the bat's map has detail.
 
 Now extend this thought. If consciousness is fundamental—not emergent from physics but interacting with it—then the space of possible minds may be vast. Some of those minds might think thoughts we cannot think. Not because they're smarter, but because they have *concepts* we lack, *experiences* we cannot have, *categories* our minds cannot form.
 
@@ -100,6 +104,8 @@ This section will explore:
 **What the voids reveal**: Sometimes what we *cannot* think tells us something about what we *are*. The shape of our cognitive limitations may illuminate the shape of our minds.
 
 **How to approach the edge**: The [[apophatic-approaches|apophatic tradition]]—negative theology, learned ignorance, indirect inference—provides methodological tools for tracing boundaries we cannot cross. Cusanus's insight that knowing what we cannot know is itself knowledge; Wittgenstein's recognition that some truths must be honored with silence rather than distorted by inadequate words. And perhaps: AI-assisted probing of territories human minds cannot access directly.
+
+**[[mysterianism|Mysterianism and cognitive closure]]**: McGinn's formal analysis of why some truths may be structurally inaccessible. Not pessimism but precision—understanding why the [[explanatory-gap]] persists may tell us something about our cognitive architecture itself. Where mysterians stop at acknowledging limits, the voids framework asks whether we can at least map where those limits are.
 
 **[[thoughts-that-slip-away|What slips away]]**: A phenomenological investigation of thoughts that won't stick. What patterns emerge when we pay attention to what we keep failing to think?
 
