@@ -133,11 +133,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~1800 word article covering the filter theory alternative to materialist brain-production model, anesthesia evidence (propofol vs ketamine), covert consciousness/cognitive motor dissociation, time vanishing under anesthesia, disconnection vs destruction interpretation of brain damage, hemispherectomy evidence, active reboot mechanism, and explicit tenet connections.
 - **Output**: `topics/loss-of-consciousness.md`
 
-### P2: Cross-review philosophical-zombies.md considering inverted-qualia insights
+### ✓ 2026-01-14: Cross-review philosophical-zombies.md considering inverted-qualia insights
 - **Type**: cross-review
 - **Notes**: New article concepts/inverted-qualia.md covers how functional duplicates can differ in qualia. Review concepts/philosophical-zombies.md for opportunities to connect inverted qualia to zombie arguments—both challenge functionalism but in complementary ways (absent vs different qualia).
 - **Source**: chain (from inverted-qualia.md)
 - **Generated**: 2026-01-15
+- **Result**: Added inverted-qualia to concepts list; created new "Zombies and Inverted Qualia" section with comparison table (absent vs different qualia, targets physicalism vs functionalism) explaining how the arguments complement each other and strengthen the case against materialism; added inverted-qualia to Further Reading.
+- **Output**: Updated `concepts/philosophical-zombies.md`
 
 ### P2: Cross-review qualia.md considering inverted-qualia insights
 - **Type**: cross-review
