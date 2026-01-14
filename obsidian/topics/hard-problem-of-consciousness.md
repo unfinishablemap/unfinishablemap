@@ -3,7 +3,7 @@ title: "The Hard Problem of Consciousness"
 created: 2026-01-06
 modified: 2026-01-13
 human_modified:
-ai_modified: 2026-01-15T00:15:00+00:00
+ai_modified: 2026-01-14T18:15:00+00:00
 draft: false
 topics: []
 concepts:
@@ -18,6 +18,7 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[binding-problem]]"
   - "[[intentionality]]"
+  - "[[illusionism]]"
 related_articles:
   - "[[tenets]]"
   - "[[materialism]]"
@@ -147,7 +148,9 @@ Crucially, NCC findings are compatible with both materialism and [[interactionis
 
 **Eliminativism** denies the explanandum. If consciousness as we conceive it doesn't exist—if our folk-psychological concepts are like "phlogiston"—then there's nothing to explain. But eliminativism seems to deny what is most evident: that there is something it is like to read these words.
 
-**Illusionism** accepts that something exists but denies it has the properties we attribute to it. We have a systematic *illusion* of rich qualitative experience. But even illusions must be experienced—illusionism pushes the mystery back without eliminating it.
+**[[illusionism|Illusionism]]** accepts that something exists but denies it has the properties we attribute to it. Keith Frankish and Daniel Dennett argue that phenomenal consciousness is a "user illusion"—we systematically misrepresent our own mental states as having intrinsic qualitative properties they lack.
+
+This is physicalism's most radical option. Rather than closing the explanatory gap, illusionists deny there's anything on the phenomenal side to explain. But this trades the hard problem for an "illusion problem": explaining why the illusion is so compelling and resistant to dissolution. Raymond Tallis argues this compounds rather than solves the difficulty—all illusions presuppose experience. To be under an illusion, something must be experiencing it. Chalmers notes that even if we relocate the problem to the meta-level, the same dilemma applies: either the features explaining our mistaken beliefs are physically explicable (in which case zombies would have them too) or they're not (in which case there's a new explanatory gap).
 
 **Reductive physicalism** claims consciousness *is* brain activity, just as water is H₂O. But unlike water=H₂O, the identity doesn't explain. We understand why H₂O has water's properties; we don't understand why neural activity has experiential properties.
 
@@ -230,6 +233,7 @@ Whether this specific proposal is correct matters less than the underlying point
 - [[materialism|Against Materialism]] — Why physicalist explanations fail
 - [[qualia]] — The qualitative character of experience
 - [[epiphenomenalism]] — The view that consciousness is causally inert
+- [[illusionism]] — The radical denial of phenomenal consciousness
 - [[functionalism]] — The view that mental states are functional roles
 - [[integrated-information-theory]] — A mathematical theory identifying consciousness with integrated information
 - [[quantum-consciousness]] — How quantum mechanics might relate to consciousness
