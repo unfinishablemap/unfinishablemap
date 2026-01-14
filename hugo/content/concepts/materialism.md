@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 10:00:00+00:00
+ai_modified: 2026-01-14 21:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[qualia]]'
 - '[[explanatory-gap]]'
+- '[[philosophical-zombies]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -90,7 +91,9 @@ Mary, the color scientist who knows all physical facts about color vision but ha
 
 ### The Conceivability Arguments
 
-We can conceive of philosophical zombies—beings physically identical to us but without consciousness. We can conceive of spectrum inversion—beings with our physical processes but different experiences. If these are genuinely conceivable, physical facts don't determine experiential facts. Something beyond the physical is needed.
+We can conceive of [philosophical-zombies](/concepts/philosophical-zombies/)—beings physically identical to us but without consciousness. We can conceive of spectrum inversion—beings with our physical processes but different experiences. If these are genuinely conceivable, physical facts don't determine experiential facts. Something beyond the physical is needed.
+
+The zombie argument, developed influentially by David Chalmers, proceeds from conceivability to possibility: if a physical duplicate without consciousness involves no contradiction, such a being is metaphysically possible. And if it's possible, consciousness is not entailed by the physical facts—materialism is false. Physicalists respond by denying either the conceivability or the conceivability-possibility link, but neither response has proven convincing. See [philosophical-zombies](/concepts/philosophical-zombies/) for detailed treatment of the argument and physicalist responses.
 
 Materialists dispute these conceivability claims. But the intuitions are stubborn. The burden is on materialists to show why physical duplicates must have identical experiences—and they haven't shown this.
 
@@ -143,6 +146,7 @@ Materialism remains the consensus position in academic philosophy. The site hold
 ## Further Reading
 
 - [explanatory-gap](/concepts/explanatory-gap/) — What physical explanations leave out
+- [philosophical-zombies](/concepts/philosophical-zombies/) — The zombie argument against materialism in detail
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem materialism cannot solve
 - [epiphenomenalism](/concepts/epiphenomenalism/) — What happens if you accept the gap but deny mental causation
 - [functionalism](/concepts/functionalism/) — A materialist theory the site rejects

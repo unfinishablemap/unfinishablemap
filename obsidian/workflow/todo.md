@@ -670,10 +670,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~2000 word concept page covering the zombie argument, conceivability-possibility link, physicalist responses (type-A, type-B, phenomenal concepts strategy), connection to functionalism, self-stultification problem, and relation to site tenets
 - **Output**: `concepts/philosophical-zombies.md`
 
-### P2: Research phenomenal concepts strategy
+### ✓ 2026-01-14: Research phenomenal concepts strategy
 - **Type**: research-topic
 - **Notes**: Major physicalist response to the knowledge argument and zombie argument. Claims the explanatory gap is epistemic rather than metaphysical—phenomenal concepts are special but don't reveal non-physical properties. Site should engage this response to strengthen Dualism tenet. Connects to qualia, explanatory-gap, and materialism articles.
 - **Source**: gap_analysis
+- **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering Loar's recognitional concepts, Papineau's quotational account, Balog's constitutional account, Chalmers's master argument dilemma, and illusionism. Key finding: Chalmers's dilemma—that features explaining the gap can't themselves be physical—remains unrefuted. PCS hasn't achieved consensus but represents the strongest physicalist response.
+- **Output**: `research/phenomenal-concepts-strategy-2026-01-14.md`
+
+### ✓ 2026-01-14: Cross-review qualia.md considering philosophical-zombies insights
+- **Type**: cross-review
+- **Notes**: New article concepts/philosophical-zombies.md provides detailed treatment of the zombie argument. Review concepts/qualia.md for opportunities to link to philosophical-zombies when discussing zombie thought experiments and absent qualia.
+- **Source**: chain (from philosophical-zombies.md)
+- **Generated**: 2026-01-14
+- **Result**: Added philosophical-zombies to concepts list; linked zombie section to philosophical-zombies page with expanded explanation of the conceivability argument; added philosophical-zombies to Further Reading
+- **Output**: Updated `concepts/qualia.md`
+
+### ✓ 2026-01-14: Cross-review materialism.md considering philosophical-zombies insights
+- **Type**: cross-review
+- **Notes**: New article concepts/philosophical-zombies.md covers the zombie argument against materialism in detail. Review concepts/materialism.md for opportunities to reference the dedicated philosophical-zombies treatment.
+- **Source**: chain (from philosophical-zombies.md)
+- **Generated**: 2026-01-14
+- **Result**: Added philosophical-zombies to concepts list; expanded Conceivability Arguments section with detailed explanation of zombie argument and link to philosophical-zombies page; added philosophical-zombies to Further Reading
+- **Output**: Updated `concepts/materialism.md`
+
+### P2: Cross-review explanatory-gap.md considering philosophical-zombies insights
+- **Type**: cross-review
+- **Notes**: New article concepts/philosophical-zombies.md explains how conceivability of zombies reveals the explanatory gap. Review concepts/explanatory-gap.md for opportunities to cross-reference the zombie argument discussion.
+- **Source**: chain (from philosophical-zombies.md)
 - **Generated**: 2026-01-14
 
 ### P3: Create concept page for the combination problem
