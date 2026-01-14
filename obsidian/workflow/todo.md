@@ -187,6 +187,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from mind-brain-separation.md)
 - **Generated**: 2026-01-14
 
+### ✓ 2026-01-14: Research phenomenology and first-person methods
+- **Type**: research-topic
+- **Notes**: Phenomenology (Husserl, Heidegger, Merleau-Ponty) is the philosophical tradition most committed to first-person investigation of consciousness. Referenced in duration.md, temporal-consciousness.md, and intentionality.md but lacks dedicated treatment. Key topics: phenomenological reduction (epoché), intentionality's phenomenological roots, embodied cognition, and how phenomenological methods might complement or challenge scientific approaches. Directly supports Dualism and Occam's Razor Has Limits tenets by demonstrating that consciousness has a rich structure accessible only to first-person investigation.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering Husserl's epoché and reduction, Heidegger's Dasein, Merleau-Ponty's embodiment, and Varela's neurophenomenology. Key finding: phenomenology provides systematic evidence for first-person irreducibility—intentionality, temporal structure, and qualitative character cannot be captured by third-person descriptions. 2025 research emphasizes cognitive science needs phenomenology because "intuitive dualism" is empirically widespread. Strongly supports Dualism and Occam's Razor Has Limits tenets.
+- **Output**: `research/phenomenology-first-person-methods-2026-01-14.md`
+
+### P2: Research neurophenomenology and meditation studies
+- **Type**: research-topic
+- **Notes**: Varela's neurophenomenology bridges first-person phenomenological reports with third-person neuroscience. Meditation studies (mindfulness, contemplative traditions) provide systematic first-person data on consciousness. Key questions: Can meditation reveal aspects of consciousness inaccessible to ordinary introspection? What do long-term meditators report about the structure of awareness? How does contemplative expertise relate to site's framework? Connects to Eastern philosophy and mysterianism articles.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P2: Research embodied cognition and the extended mind
+- **Type**: research-topic
+- **Notes**: The embodied cognition program (Clark, Thompson, Noë) argues that cognition is shaped by the body and extended into the environment. Key questions for site: Does embodiment challenge or complement dualism? Can the filter theory accommodate embodied cognition? How does embodiment relate to the mind-brain separation framework? Connects to mind-brain-separation, phenomenology, and AI consciousness discussions.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P2: Research arguments for dualism (positive case)
+- **Type**: research-topic
+- **Notes**: Site extensively argues against materialism but could strengthen the positive case for dualism. Beyond the hard problem, what arguments support dualism? Key areas: conceivability arguments (Chalmers), modal arguments, parsimony reconsidered (is dualism actually simpler?), from-qualia arguments, from-intentionality arguments, from-unity arguments. Survey contemporary dualist defenses (Chalmers, Lowe, Hasker, Swinburne). Would strengthen tenets framework.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P2: Research the self and consciousness
+- **Type**: research-topic
+- **Notes**: What is the relationship between consciousness and the sense of self? Distinct from personal identity (which focuses on persistence), this concerns the phenomenology and metaphysics of selfhood in conscious experience. Key areas: minimal self vs narrative self (Gallagher, Zahavi), self-model theory (Metzinger), no-self traditions (Buddhism), and implications for dualism. Connects to self-reference-paradox, Eastern philosophy, and hard problem articles.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
 ### ✓ 2026-01-14: Write article on problem of other minds
 - **Type**: expand-topic
 - **Notes**: Research completed in research/problem-of-other-minds-2026-01-14.md. Covers argument from analogy, inference to best explanation, Wittgensteinian criteria, Nagel's bat, AI and animal consciousness implications. Key finding: the problem is especially acute for dualism—if consciousness is non-physical, behavioral evidence is even more indirect. Connects to ai-consciousness.md and animal-consciousness.md. Should address how site's framework acknowledges epistemic limits while maintaining practical certainty.

@@ -747,15 +747,15 @@ recent_tasks:
 # Queue status
 queue_status:
   p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 1  # 1 binding-problem cross-review remaining
+  p1_tasks: 1  # phenomenology research
+  p2_tasks: 6  # binding-problem cross-review + 5 new research tasks
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: true  # have 1 active P0-P2 task, below threshold of 3
-  last_replenishment: 2026-01-14T12:00:00+00:00
+  needs_replenishment: false  # 7 active P0-P2 tasks, above threshold of 3
+  last_replenishment: 2026-01-14T22:00:00+00:00
   replenishment_source_counts:
-    chain: 134  # +3: session 67 completions
+    chain: 134  # unchanged
     unconsumed_research: 0
-    gap_analysis: 33
+    gap_analysis: 38  # +5: phenomenology, neurophenomenology, embodied cognition, dualism arguments, self and consciousness
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
