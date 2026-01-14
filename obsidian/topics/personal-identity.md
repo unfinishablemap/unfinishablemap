@@ -3,16 +3,18 @@ title: "Personal Identity"
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-01-08T15:30:00+00:00
+ai_modified: 2026-01-14T13:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
 concepts:
   - "[[qualia]]"
+  - "[[death-and-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[meaning-of-life]]"
+  - "[[death-and-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -104,7 +106,7 @@ The resulting people might have your memories and psychology. They might even be
 
 ## Implications for Survival
 
-What does survival require?
+What does survival require? As discussed in [[death-and-consciousness]], the site's framework makes survival after bodily death a coherent possibility—but only if indexical identity is preserved. Resurrection through mere recreation would yield a duplicate, not you.
 
 **Teletransportation**: You die. The replica may be psychologically identical but lacks your consciousness. Even if the replica is conscious, it's a new consciousness with your memories, not yours continued.
 
@@ -114,7 +116,15 @@ What does survival require?
 
 **Uploading**: Your mind "uploaded" to a computer would not be you, even if the upload were functionally perfect. Functional identity isn't consciousness identity.
 
+**Bodily death**: If consciousness is irreducible and the brain is interface rather than generator (as Ducasse's radio analogy suggests), brain death might alter how consciousness manifests without ending *this* particular consciousness. The [[death-and-consciousness]] article explores how dualism keeps this question genuinely open where materialism forecloses it.
+
 These conclusions are counterintuitive to some. But they follow from taking consciousness seriously as something non-reducible and taking indexical identity seriously as a real fact.
+
+### The Quantum Persistence Question
+
+Hameroff's "quantum soul" hypothesis raises a specific challenge for indexical identity: if consciousness-as-quantum-information disperses into the universe at death, is the dispersed information still *you*? The site's framework suggests caution here. Quantum information conservation doesn't obviously preserve the unified, indexical character of conscious experience. A wave function spread across spacetime wouldn't be *this* perspective having experiences—it might be mere information without a subject.
+
+This illustrates the constraint indexical identity places on survival theories: it's not enough that *something* persists. What persists must be *this* consciousness, the particular perspective that constitutes you. Near-death experiences, where subjects report coherent experience during brain failure, are intriguing precisely because they suggest consciousness might maintain unified subjectivity even when its neural substrate is severely compromised.
 
 ## The Meaning Connection
 
@@ -128,6 +138,7 @@ This grounds a stronger sense of individual meaning. You're not just a pattern t
 
 ## Further Reading
 
+- [[death-and-consciousness]] — What survival after death would require
 - [[meaning-of-life]] — Why personal existence matters
 - [[free-will]] — How consciousness shapes choices
 - [[tenets]] — The framework grounding this view
