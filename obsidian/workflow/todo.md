@@ -141,11 +141,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added inverted-qualia to concepts list; created new "Zombies and Inverted Qualia" section with comparison table (absent vs different qualia, targets physicalism vs functionalism) explaining how the arguments complement each other and strengthen the case against materialism; added inverted-qualia to Further Reading.
 - **Output**: Updated `concepts/philosophical-zombies.md`
 
-### P2: Cross-review qualia.md considering inverted-qualia insights
+### ✓ 2026-01-14: Cross-review qualia.md considering inverted-qualia insights
 - **Type**: cross-review
 - **Notes**: New article concepts/inverted-qualia.md provides dedicated treatment of the inverted spectrum thought experiment. Review concepts/qualia.md for opportunities to reference the dedicated article in the inverted qualia discussion.
 - **Source**: chain (from inverted-qualia.md)
 - **Generated**: 2026-01-15
+- **Result**: Added inverted-qualia to concepts list; substantially expanded Inverted Qualia section with Locke attribution, Block/Fodor/Shoemaker development, Inverted Earth scenario, detectability objection and response, link to dedicated article; added inverted-qualia to Further Reading.
+- **Output**: Updated `concepts/qualia.md`
 
 ### ✓ 2026-01-14: Write article on mind-brain separation and division of faculties
 - **Type**: expand-topic
