@@ -3,7 +3,7 @@ title: "Free Will and Determinism"
 created: 2026-01-08
 modified: 2026-01-13
 human_modified: null
-ai_modified: 2026-01-14T11:00:00+00:00
+ai_modified: 2026-01-15T00:20:00+00:00
 last_deep_review: 2026-01-13T14:00:00+00:00
 draft: false
 topics:
@@ -15,6 +15,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[mental-effort]]"
   - "[[duration]]"
+  - "[[libet-experiments]]"
 related_articles:
   - "[[tenets]]"
   - "[[libet-experiments-free-will-2026-01-07]]"
@@ -49,11 +50,11 @@ A free act, for Bergson, emerges from the whole self—the full depth of one's l
 
 ## The Neuroscientific Challenge
 
-Benjamin Libet's experiments (1983) intensified the debate. He found that a neural "readiness potential" precedes conscious awareness of deciding to move by about 350 milliseconds. Soon et al. (2008) extended this: brain activity in prefrontal and parietal cortex predicted decisions up to 10 seconds before subjects reported awareness of choosing.
+[[libet-experiments|Benjamin Libet's experiments]] (1983) intensified the debate. He found that a neural "readiness potential" precedes conscious awareness of deciding to move by about 350 milliseconds. Soon et al. (2008) extended this: brain activity in prefrontal and parietal cortex predicted decisions up to 10 seconds before subjects reported awareness of choosing.
 
 The implication seems devastating: if neural activity "decides" before you're aware of deciding, isn't consciousness just informed of choices already made? This would reduce consciousness to an epiphenomenal spectator.
 
-But the data admits other interpretations.
+But the data admits other interpretations. The dedicated [[libet-experiments]] article examines these experiments in detail, including the critical responses and the retrocausal resolution.
 
 ### The Neural Noise Critique
 
@@ -150,6 +151,7 @@ This isn't a proof. It's a coherent picture that takes both consciousness and ph
 
 ## Further Reading
 
+- [[libet-experiments]] — The Libet experiments in detail: original findings, critiques, and the retrocausal resolution
 - [[duration]] — Bergson's durée and how creative time enables agency
 - [[interactionist-dualism]] — The philosophical framework grounding this view
 - [[personal-identity]] — Why *you* are the author of your choices
@@ -157,7 +159,6 @@ This isn't a proof. It's a coherent picture that takes both consciousness and ph
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interface
 - [[mental-effort]] — How the phenomenology of effort supports bidirectional interaction
 - [[epiphenomenalism]] — The alternative view and why it fails
-- [[libet-experiments-free-will-2026-01-07]] — Detailed research on the neuroscience
 - [[tenets]] — The foundational commitments that ground this view
 
 ## References

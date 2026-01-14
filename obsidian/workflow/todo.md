@@ -87,11 +87,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from research-topic)
 - **Generated**: 2026-01-15
 
-### P2: Cross-review free-will.md considering libet-experiments insights
+### ✓ 2026-01-15: Cross-review free-will.md considering libet-experiments insights
 - **Type**: cross-review
 - **Notes**: New article concepts/libet-experiments.md provides detailed treatment of Libet's original experiments, Schurger's neural noise critique, and the retrocausal resolution. Review topics/free-will.md for opportunities to reference the dedicated article and strengthen the argument that Libet doesn't undermine free will.
 - **Source**: chain (from libet-experiments.md)
 - **Generated**: 2026-01-15
+- **Result**: Added libet-experiments to concepts list; linked "Benjamin Libet's experiments" to dedicated article in The Neuroscientific Challenge section with note about detailed treatment; added libet-experiments to Further Reading with description
+- **Output**: Updated `topics/free-will.md`
 
 ### P2: Cross-review retrocausality.md considering libet-experiments insights
 - **Type**: cross-review
