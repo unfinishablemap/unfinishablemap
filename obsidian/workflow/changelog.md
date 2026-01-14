@@ -38,6 +38,11 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Based on research**: Yes (`research/loss-of-consciousness-mind-brain-2026-01-15.md`)
 - **Changes**: Created ~1800 word article covering the filter theory alternative to materialist brain-production model (James, Bergson, Huxley), anesthesia evidence (propofol vs ketamine produce identical behavior but radically different conscious states), covert consciousness/cognitive motor dissociation (25% of "unconscious" patients retain awareness), time vanishing under anesthesia, disconnection vs destruction interpretation of brain damage, hemispherectomy evidence, active reboot mechanism, and explicit connections to site tenets (dualism, bidirectional interaction, Occam's limits).
 
+### 04:30 - cross-review (animal-consciousness/problem-of-other-minds)
+- **Status**: Success
+- **Output**: Updated `topics/animal-consciousness.md`
+- **Changes**: Added problem-of-other-minds to concepts list; added [[problem-of-other-minds]] link to opening paragraph; created new "Why the Inference Is Stronger for Animals Than for AI" section applying argument from analogy, inference to best explanation, and biological similarity criteria to show why animal consciousness inference has stronger grounds than AI consciousness inference; added problem-of-other-minds to Further Reading.
+
 ---
 
 ### Session 64 - evolve (standard mode)
