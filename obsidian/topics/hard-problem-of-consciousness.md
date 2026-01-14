@@ -3,7 +3,7 @@ title: "The Hard Problem of Consciousness"
 created: 2026-01-06
 modified: 2026-01-13
 human_modified:
-ai_modified: 2026-01-14T18:00:00+00:00
+ai_modified: 2026-01-14T19:45:00+00:00
 draft: false
 topics: []
 concepts:
@@ -23,6 +23,7 @@ concepts:
   - "[[mysterianism]]"
   - "[[collapse-and-time]]"
   - "[[near-death-experiences]]"
+  - "[[russellian-monism]]"
 related_articles:
   - "[[tenets]]"
   - "[[materialism]]"
@@ -194,6 +195,16 @@ Does this solve the hard problem? Critics argue it merely relocates the mystery:
 
 Still, IIT represents one of the most rigorous attempts to take consciousness seriously as fundamental. Its willingness to accept counterintuitive consequences—including a form of panpsychism where any integrated system has some degree of experience—shows intellectual courage.
 
+### Russellian Monism
+
+[[russellian-monism|Russellian monism]] offers a sophisticated middle path. Building on observations by Bertrand Russell and Arthur Eddington, it holds that physics describes only the *relational structure* of matter—what things do to each other—while remaining silent on their *intrinsic nature*. Mass is defined by gravitational behavior; charge by electromagnetic interactions. No physical description tells us what mass or charge *is* in itself.
+
+This creates conceptual space: if physics captures only structure, something must *realize* that structure. Russellian monists propose that "quiddities"—the intrinsic natures of fundamental entities—are what realize it. Since consciousness is the one intrinsic nature we know directly (through introspection), perhaps consciousness *is* quiddity, or is grounded in it. This would dissolve the explanatory gap by denying that physics was ever a complete picture of reality—the gap existed because structural descriptions necessarily leave out intrinsic nature.
+
+The view faces its own hard problem: the combination problem. If electrons have micro-experiences (panpsychist Russellian monism) or proto-phenomenal properties (panprotopsychist version), how do billions of them combine into one unified consciousness? The unity of experience seems to resist the compositional logic that works for physical properties. Critics like Adam Pautz argue that Russellian monism ultimately requires "grounding laws" connecting quiddities to consciousness—brute fundamental laws no better than the psychophysical laws dualism posits. It may be, as Pautz puts it, "dualism under another name."
+
+The site's [[tenets#^dualism|explicit dualism]] takes a cleaner approach. Rather than positing mysterious quiddities that are somehow both physical and phenomenal, it acknowledges that consciousness is distinct from physical structure. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] mechanism provides concrete content to the mind-matter interface that Russellian monism leaves schematic. Yet Russellian monism's core insight—that physics is silent on intrinsic nature—aligns with the site's recognition that physical explanation cannot reach experience.
+
 ### Mysterianism
 
 [[mysterianism|Mysterianism]] proposes that the hard problem may be permanently beyond human understanding—not because consciousness is supernatural but because our cognitive architecture lacks the resources to grasp how mind relates to matter. Colin McGinn developed this position through the concept of *cognitive closure*: just as rats cannot do calculus and dogs cannot understand quantum mechanics, humans may be constitutionally unable to understand consciousness.
@@ -263,6 +274,7 @@ Whether this specific proposal is correct matters less than the underlying point
 - [[functionalism]] — The view that mental states are functional roles
 - [[predictive-processing]] — The most sophisticated contemporary functionalism
 - [[integrated-information-theory]] — A mathematical theory identifying consciousness with integrated information
+- [[russellian-monism]] — The view that quiddities (intrinsic natures) ground consciousness
 - [[quantum-consciousness]] — How quantum mechanics might relate to consciousness
 - [[mysterianism]] — The view that consciousness may exceed human cognitive capacities
 - [[apophatic-approaches]] — Methods for approaching what may exceed human understanding
