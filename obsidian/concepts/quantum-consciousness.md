@@ -3,7 +3,7 @@ title: "Quantum Consciousness Mechanisms"
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-01-09T12:30:00+00:00
+ai_modified: 2026-01-15T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -11,6 +11,7 @@ topics:
 concepts:
   - "[[retrocausality]]"
   - "[[locality]]"
+  - "[[decoherence]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-consciousness-mechanisms-2026-01-08]]"
@@ -93,23 +94,21 @@ Stapp's approach may be the closest match to the site's tenets. It explicitly de
 
 ## The Decoherence Challenge
 
-All quantum consciousness proposals face the same objection: quantum coherence in the brain shouldn't last long enough to matter.
+All quantum consciousness proposals face the [[decoherence]] objection: quantum coherence in the brain shouldn't last long enough to matter. Yet this challenge is more nuanced than often presented, and recent research has significantly weakened it. See the [[decoherence|detailed article on decoherence]] for comprehensive treatment.
 
-### The Problem
+### The Objection
 
-Quantum superpositions are fragile. Interaction with the environment causes "decoherence"—the superposition effectively becomes a classical mixture. In warm, wet biological systems, decoherence should be nearly instantaneous.
+Quantum superpositions are fragile. Interaction with the environment causes decoherence—the superposition effectively becomes a classical mixture. In warm, wet biological systems, decoherence should be nearly instantaneous. Tegmark's 2000 calculation estimated decoherence times for microtubule superpositions at less than 10⁻¹² seconds, while neural processes operate on millisecond timescales.
 
-Tegmark's 2000 calculation estimated decoherence times for microtubule superpositions at less than 10⁻¹² seconds. Neural processes operate on timescales of milliseconds to seconds—a billion times slower.
+### Why Decoherence Doesn't Close the Door
 
-### Responses
+**Decoherence doesn't solve the measurement problem.** This is the critical point often overlooked. Decoherence explains why we don't observe interference effects—they wash out—but it doesn't explain why we see *definite* outcomes at all. After decoherence, standard quantum mechanics still describes the total system as a vast entangled superposition. Something must select which outcome becomes actual. The site's tenets hold that consciousness is a candidate for what does the selecting—and decoherence leaves this role open.
 
-**Biological protection**: Living systems may have evolved mechanisms to maintain coherence. Quantum effects are confirmed in photosynthesis (energy transfer), bird navigation (magnetic sensing), and enzyme catalysis. If biology can exploit quantum effects in these contexts, perhaps it can in the brain.
+**Biology exploits quantum effects.** Quantum coherence has been demonstrated in photosynthesis, bird navigation, and enzyme catalysis—all warm biological systems where decoherence "should" be instantaneous. Hot Schrödinger cat states at 1.8 kelvin and matter-wave interference in 7,000-atom nanoparticles continue pushing the quantum-classical boundary. No principled barrier has been found.
 
-**Room-temperature quantum effects**: 2024 research confirmed superradiance in tryptophan networks at room temperature, demonstrating quantum coherence can persist in biological conditions contrary to earlier skepticism.
+**Tegmark's calculation may be wrong.** Hameroff and colleagues argue Tegmark assumed incorrect model parameters—thermal equilibrium rather than living conditions, and separation distances larger than Orch OR actually proposes. Corrected calculations yield coherence times orders of magnitude longer.
 
-**The Zeno alternative**: Stapp's mechanism doesn't require sustained coherence. Rapid repeated "observation" events can maintain states without needing them to survive decoherence between observations.
-
-**Empirical question**: The debate may ultimately be settled by experiment. Recent neuroscience shows quantum signatures correlated with conscious states, but whether these are causal or coincidental remains unclear.
+**The Zeno alternative sidesteps the problem.** Stapp's mechanism doesn't require sustained coherence between observations. Rapid repeated mental "observations" can maintain states without needing them to survive decoherence—the observations happen faster than decoherence can act.
 
 ## What These Theories Share
 
@@ -158,6 +157,7 @@ The decoherence objection remains the most serious challenge. If quantum coheren
 
 ## Further Reading
 
+- [[decoherence]] — Full treatment of why decoherence doesn't rule out quantum consciousness
 - [[retrocausality]] — Another quantum approach to consciousness-physics interface
 - [[locality]] — Addresses spatial objections to quantum consciousness
 - [[tenets]] — The site's foundational commitments

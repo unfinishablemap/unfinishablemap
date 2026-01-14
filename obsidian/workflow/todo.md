@@ -276,11 +276,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~2000 word article covering specious present, temporal binding in neuroscience, discrete vs continuous consciousness debate, Hoel's continual learning argument, and implications for machine consciousness
 - **Output**: `concepts/temporal-consciousness.md`
 
-### P2: Cross-review quantum-consciousness.md considering decoherence insights
+### ✓ 2026-01-15: Cross-review quantum-consciousness.md considering decoherence insights
 - **Type**: cross-review
 - **Notes**: New article concepts/decoherence.md provides comprehensive treatment of why decoherence doesn't solve the measurement problem. Review concepts/quantum-consciousness.md for opportunities to strengthen discussion of the decoherence objection.
 - **Source**: chain (from decoherence.md)
 - **Generated**: 2026-01-15
+- **Result**: Added decoherence to concepts list; rewrote Decoherence Challenge section to emphasize that decoherence doesn't solve the measurement problem and reference the detailed decoherence article; added decoherence to Further Reading
+- **Output**: Updated `concepts/quantum-consciousness.md`
 
 ### P2: Cross-review tenets.md considering decoherence insights
 - **Type**: cross-review
