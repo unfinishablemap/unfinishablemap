@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-13 11:30:00+00:00
+ai_modified: 2026-01-15 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[retrocausality]]'
 - '[[qualia]]'
 - '[[interactionist-dualism]]'
+- '[[mental-effort]]'
 created: 2026-01-08
 date: &id001 2026-01-13
 draft: false
@@ -119,6 +120,8 @@ On the site's framework, free will requires:
 
 4. **Atemporal operation**: For consciousness to be the genuine cause of choices despite apparent temporal ordering, it must operate outside linear time in some sense. Retrocausal quantum mechanics suggests how this might work.
 
+The phenomenology of [mental-effort](/concepts/mental-effort/) provides supporting evidence for this framework. Controlling attention feels effortful—William James documented that "sustained voluntary attention is a repetition of successive efforts." This isn't mere phenomenal decoration. Stapp's quantum Zeno mechanism explains why: each act of attention constitutes an observation event that holds desired neural patterns in place. The felt cost of concentration corresponds to genuine engagement with brain states. If effort were epiphenomenal—if the same neural processes would occur regardless of conscious engagement—there would be no reason for phenomenology to track genuine cognitive load. The fact that hard tasks feel hard, and that directed mental effort produces lasting brain changes (as documented in neuroplasticity research), suggests consciousness does something rather than merely observing.
+
 ## Free Will and Personal Identity
 
 Free will is intimately connected to [personal-identity](/topics/personal-identity/). If you are the author of your choices, there must be a *you* doing the authoring—a persisting conscious being whose choices constitute a life.
@@ -145,6 +148,7 @@ This isn't a proof. It's a coherent picture that takes both consciousness and ph
 - [personal-identity](/topics/personal-identity/) — Why *you* are the author of your choices
 - [retrocausality](/concepts/retrocausality/) — How backward causation resolves the timing problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interface
+- [mental-effort](/concepts/mental-effort/) — How the phenomenology of effort supports bidirectional interaction
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The alternative view and why it fails
 - [libet-experiments-free-will-2026-01-07](/research/libet-experiments-free-will-2026-01-07/) — Detailed research on the neuroscience
 - [tenets](/tenets/) — The foundational commitments that ground this view

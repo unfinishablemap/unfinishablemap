@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T18:30:00+00:00
-session_count: 27
+last_updated: 2026-01-15T00:00:00+00:00
+session_count: 28
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 57  # +mental-effort
-  published_files: 44  # +1 new concept page (mental-effort)
+  total_files: 58  # +temporal-consciousness
+  published_files: 45  # +1 new concept page (temporal-consciousness)
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 7
-  concepts_written: 18  # +mental-effort
+  concepts_written: 19  # +temporal-consciousness
   arguments_written: 1
   questions_written: 1
   voids_written: 2
   research_notes: 17
-  reviews_completed: 37  # +2 cross-reviews
+  reviews_completed: 39  # +2 cross-reviews (free-will/mental-effort, quantum-consciousness/decoherence)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,18 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (temporal-consciousness)
+    date: 2026-01-15
+    result: success
+    session: 28
+  - task: cross-review (free-will/mental-effort)
+    date: 2026-01-15
+    result: success
+    session: 28
+  - task: cross-review (quantum-consciousness/decoherence)
+    date: 2026-01-15
+    result: success
+    session: 28
   - task: expand-topic (mental-effort)
     date: 2026-01-14
     result: success
@@ -277,12 +289,12 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1  # time perception research only
+  p2_tasks: 6  # time perception + 5 remaining cross-reviews (done: temporal article, free-will, quantum-consciousness)
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: true  # P0-P2 count dropped below 3
-  last_replenishment: 2026-01-14T15:00:00+00:00
+  needs_replenishment: false
+  last_replenishment: 2026-01-15T00:00:00+00:00
   replenishment_source_counts:
-    chain: 22
+    chain: 29
     unconsumed_research: 2
     gap_analysis: 6
     staleness: 0
@@ -291,15 +303,13 @@ queue_status:
 # Used by /replenish-queue to generate follow-up tasks
 task_chains:
   # research-topic completions that need articles written
-  pending_articles:
-    - "research/temporal-structure-consciousness-2026-01-14.md"
+  pending_articles: []  # temporal-structure-consciousness consumed -> temporal-consciousness article
 
   # expand-topic completions that need cross-review
   pending_cross_reviews:
     - new_article: "concepts/decoherence.md"
       review_targets:
-        - "concepts/quantum-consciousness.md"
-        - "tenets/tenets.md"
+        - "tenets/tenets.md"  # quantum-consciousness COMPLETED session 28
       generated: "2026-01-14T17:30:00+00:00"
     - new_article: "concepts/neural-correlates-of-consciousness.md"
       review_targets:
@@ -308,10 +318,16 @@ task_chains:
       generated: "2026-01-14T17:30:00+00:00"
     - new_article: "concepts/mental-effort.md"
       review_targets:
-        - "topics/free-will.md"
-        - "concepts/quantum-consciousness.md"
+        - "concepts/quantum-consciousness.md"  # free-will COMPLETED session 28
       generated: "2026-01-14T18:30:00+00:00"
+    - new_article: "concepts/temporal-consciousness.md"
+      review_targets:
+        - "topics/ai-consciousness.md"
+        - "topics/hard-problem-of-consciousness.md"
+      generated: "2026-01-15T00:00:00+00:00"
     # Previous cross-reviews completed:
+    # decoherence -> quantum-consciousness.md COMPLETED session 28
+    # mental-effort -> free-will.md COMPLETED session 28
     # materialism -> tenets.md COMPLETED session 27
     # materialism -> hard-problem.md COMPLETED session 27
     # eastern-philosophy -> nihilism COMPLETED session 18
