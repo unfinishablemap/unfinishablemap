@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T00:10:00+00:00
+ai_modified: 2026-01-14T18:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
 
-### P2: Write article on neurophenomenology and contemplative science
-- **Type**: expand-topic
-- **Notes**: Research completed in research/neurophenomenology-meditation-studies-2026-01-14.md. Covers Varela's methodology, jhana neuroscience (7-Tesla fMRI), cessation experiences, microphenomenology. Key finding: contemplative training reveals consciousness structures inaccessible to ordinary introspection. Strongly supports Dualism and Occam's Razor Has Limits tenets.
-- **Source**: chain (from research-topic)
-- **Generated**: 2026-01-14
-
-### P2: Write article on embodied cognition and the extended mind
-- **Type**: expand-topic
-- **Notes**: Research completed in research/embodied-cognition-extended-mind-2026-01-14.md. Covers 4E cognition, Clark & Chalmers' extended mind, enactivism (Thompson, Noë), AI grounding problem. Key finding: opposes Cartesian substance dualism but compatible with property dualism; filter theory can accommodate embodiment—body shapes interface without producing consciousness.
-- **Source**: chain (from research-topic)
-- **Generated**: 2026-01-14
-
 ### P3: Create concept page for the combination problem
 - **Type**: expand-topic
 - **Notes**: Referenced in panpsychism article. The challenge of explaining how micro-experiences combine into unified consciousness. Important counterpoint to site's preferred interactionism.
@@ -74,6 +62,43 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-14: Cross-review duration.md considering neurophenomenology insights
+- **Type**: cross-review
+- **Notes**: New article concepts/neurophenomenology.md covers contemplative access to temporal microstructure—the specious present, momentariness (khanika), and Husserl's retention-primal impression-protention structure. Review concepts/duration.md for opportunities to connect Bergson's durée with contemplative findings on temporal phenomenology.
+- **Source**: chain (from neurophenomenology.md)
+- **Result**: Added neurophenomenology to concepts list; created new "Contemplative Access to Durée" section covering khanika (momentariness), Husserl's retention-primal impression-protention structure, Petitmengin's microphenomenology, and cessation experiences as negative evidence for durée; added neurophenomenology to Further Reading.
+- **Output**: Updated `concepts/duration.md`
+
+### ✓ 2026-01-14: Cross-review ai-consciousness.md considering embodied-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/embodied-cognition.md covers 4E cognition, the grounding problem, and enactivism. Review topics/ai-consciousness.md for opportunities to connect the AI grounding problem—embodied cognition suggests disembodied AI may lack genuine understanding, strengthening the argument that current AI systems lack consciousness.
+- **Source**: chain (from embodied-cognition.md)
+- **Result**: Added embodied-cognition to concepts list; expanded Robot Reply with grounding problem context; created new "The Grounding Problem" section covering enactivism (Varela, Thompson, Noë), symbol grounding, why embodied robotics doesn't solve the problem, and connection to mind-brain-separation rendering engine analogy; added embodied-cognition and mind-brain-separation to Further Reading.
+- **Output**: Updated `topics/ai-consciousness.md`
+
+### ✓ 2026-01-14: Cross-review eastern-philosophy-consciousness.md considering neurophenomenology insights
+- **Type**: cross-review
+- **Notes**: New article concepts/neurophenomenology.md covers Varela's methodology, jhana neuroscience, cessation experiences, and microphenomenology. Review topics/eastern-philosophy-consciousness.md for opportunities to connect contemplative science findings with Eastern philosophical traditions—jhana states, cessation, and trained introspection are empirical bridges between phenomenology and meditation.
+- **Source**: chain (from neurophenomenology.md)
+- **Result**: Added neurophenomenology to concepts list; created new "Contemplative Science as Empirical Bridge" section covering jhana neuroscience (7-Tesla fMRI studies), cessation experiences (nirodha samapatti), and temporal microstructure (khanika); connected trained introspection reliability to phenomenological precision; added neurophenomenology to Further Reading.
+- **Output**: Updated `topics/eastern-philosophy-consciousness.md`
+
+### ✓ 2026-01-14: Write article on embodied cognition and the extended mind
+- **Type**: expand-topic
+- **Notes**: Research completed in research/embodied-cognition-extended-mind-2026-01-14.md. Covers 4E cognition, Clark & Chalmers' extended mind, enactivism (Thompson, Noë), AI grounding problem. Key finding: opposes Cartesian substance dualism but compatible with property dualism; filter theory can accommodate embodiment—body shapes interface without producing consciousness.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
+- **Result**: Created ~1900 word article covering 4E cognition (embodied, embedded, enacted, extended), phenomenological roots (Merleau-Ponty), extended mind debate (Clark/Chalmers vs Adams/Aizawa), enactivism (Thompson, Varela), AI grounding problem, and filter theory accommodation. Showed embodied cognition opposes Cartesian dualism but is compatible with property dualism.
+- **Output**: `concepts/embodied-cognition.md`
+
+### ✓ 2026-01-14: Write article on neurophenomenology and contemplative science
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neurophenomenology-meditation-studies-2026-01-14.md. Covers Varela's methodology, jhana neuroscience (7-Tesla fMRI), cessation experiences, microphenomenology. Key finding: contemplative training reveals consciousness structures inaccessible to ordinary introspection. Strongly supports Dualism and Occam's Razor Has Limits tenets.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
+- **Result**: Created ~1900 word article covering Varela's neurophenomenology method, contemplative science findings (jhana states, cessation, temporal microstructure, constructed self), jhana neuroscience (7-Tesla fMRI), microphenomenology (Petitmengin), DMN studies, and reliability of trained introspection. Connected to Dualism, Occam's Razor Has Limits, and Bidirectional Interaction tenets.
+- **Output**: `concepts/neurophenomenology.md`
 
 ### ✓ 2026-01-14: Write article on arguments for dualism (positive case)
 - **Type**: expand-topic
