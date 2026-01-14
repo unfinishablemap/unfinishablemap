@@ -43,6 +43,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
 
+### P2: Write article on phenomenology and first-person methods
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenology-first-person-methods-2026-01-14.md. Covers Husserl's epoché and reduction, Heidegger's Dasein, Merleau-Ponty's embodiment, Varela's neurophenomenology. Key finding: phenomenology demonstrates first-person irreducibility—intentionality, temporal structure, and qualitative character cannot be captured by third-person descriptions. Strongly supports Dualism and Occam's Razor Has Limits tenets.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
+
+### P2: Write article on arguments for dualism (positive case)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/arguments-for-dualism-positive-case-2026-01-14.md. Covers seven major arguments: conceivability (zombies), knowledge (Mary's Room), qualia, unity of consciousness, intentionality, modal argument (Swinburne), and personal identity. Key defenders: Chalmers, Swinburne, Hasker, Lowe, Rickabaugh & Moreland. Would strengthen the tenets framework by providing systematic positive case.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
+
+### P2: Write article on neurophenomenology and contemplative science
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neurophenomenology-meditation-studies-2026-01-14.md. Covers Varela's methodology, jhana neuroscience (7-Tesla fMRI), cessation experiences, microphenomenology. Key finding: contemplative training reveals consciousness structures inaccessible to ordinary introspection. Strongly supports Dualism and Occam's Razor Has Limits tenets.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
+
+### P2: Write article on embodied cognition and the extended mind
+- **Type**: expand-topic
+- **Notes**: Research completed in research/embodied-cognition-extended-mind-2026-01-14.md. Covers 4E cognition, Clark & Chalmers' extended mind, enactivism (Thompson, Noë), AI grounding problem. Key finding: opposes Cartesian substance dualism but compatible with property dualism; filter theory can accommodate embodiment—body shapes interface without producing consciousness.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
+
 ### P3: Create concept page for the combination problem
 - **Type**: expand-topic
 - **Notes**: Referenced in panpsychism article. The challenge of explaining how micro-experiences combine into unified consciousness. Important counterpoint to site's preferred interactionism.
