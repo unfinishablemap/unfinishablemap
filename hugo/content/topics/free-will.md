@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-15 00:00:00+00:00
+ai_modified: 2026-01-14 11:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[qualia]]'
 - '[[interactionist-dualism]]'
 - '[[mental-effort]]'
+- '[[duration]]'
 created: 2026-01-08
 date: &id001 2026-01-13
 draft: false
@@ -40,6 +41,12 @@ This presents three options:
 **Libertarian Free Will**: We possess a capacity to initiate causal chains not fully determined by prior physical states. This seems to require something non-physical—a soul, perhaps—that can intervene in the physical order.
 
 **Compatibilism**: Free will is compatible with determinism because "free" doesn't mean "uncaused." It means acting from your own desires without external coercion. Modern compatibilists like Harry Frankfurt add sophistication: free will requires acting from desires you endorse on reflection—"second-order" desires about what you want to want. This captures something real about autonomous agency. Yet compatibilism leaves untouched the question that haunts: could the person who "chose" their desires and reflective endorsements have chosen otherwise? The feeling that genuine freedom requires something more than compatibilism provides motivates the search for a deeper account.
+
+### Bergson's Challenge to Determinism
+
+Henri Bergson offered a distinctive argument against determinism in his first major work, *Time and Free Will* (1889). His insight: determinism depends on spatializing time—treating mental states as discrete, separable units that cause each other like billiard balls. But if mental states interpenetrate in what Bergson called [durée](/concepts/duration/)—qualitative multiplicity where each moment contains the whole past—the deterministic model fails. There's no distinct "state A" to serve as cause.
+
+A free act, for Bergson, emerges from the whole self—the full depth of one's lived duration—not from a chain of discrete mental events. Unfree acts are superficial, governed by habit or convention without engaging genuine selfhood. This isn't libertarian freedom as arbitrary choice between pre-defined options but creative expression of who we are becoming. The creative novelty Bergson attributes to duration opens space for genuine agency beyond the determinism/randomness dichotomy.
 
 ## The Neuroscientific Challenge
 
@@ -144,6 +151,7 @@ This isn't a proof. It's a coherent picture that takes both consciousness and ph
 
 ## Further Reading
 
+- [duration](/concepts/duration/) — Bergson's durée and how creative time enables agency
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework grounding this view
 - [personal-identity](/topics/personal-identity/) — Why *you* are the author of your choices
 - [retrocausality](/concepts/retrocausality/) — How backward causation resolves the timing problem

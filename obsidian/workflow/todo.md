@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T00:30:00+00:00
+ai_modified: 2026-01-14T11:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -112,6 +112,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: Higher-order theories (Rosenthal, Brown) hold that a mental state is conscious when there's a higher-order representation of it. Major theoretical approach not yet covered. Important because: (1) challenges site's emphasis on first-order phenomenal properties, (2) connects to metacognition and the self-reference paradox, (3) has implications for AI consciousness (could an AI have genuine higher-order states?). Gap in current theoretical coverage.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+
+### ✓ 2026-01-14: Write article on the measurement problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/measurement-problem-quantum-mechanics-2026-01-14.md. Covers Copenhagen, Many-Worlds, Bohmian mechanics, GRW/CSL collapse theories, and consciousness-based interpretations. Key finding: decoherence does NOT solve the problem—"the problem of outcomes is still open." This directly supports Minimal Quantum Interaction tenet. Article should explain why the measurement problem matters for consciousness studies and survey interpretations with tenet analysis.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
+- **Result**: Created ~1900 word article covering the measurement problem, why decoherence doesn't solve it, major interpretations (Copenhagen, Many-Worlds, GRW, Bohmian, consciousness-based), the observer problem, and connection to all site tenets
+- **Output**: `concepts/measurement-problem.md`
+
+### ✓ 2026-01-14: Cross-review temporal-consciousness.md considering duration insights
+- **Type**: cross-review
+- **Notes**: New article concepts/duration.md covers Bergson's durée, qualitative multiplicity, and the "missing link" in consciousness theories. Review concepts/temporal-consciousness.md for opportunities to cross-reference Bergson's phenomenological approach alongside the neuroscientific treatment of temporal binding.
+- **Source**: chain (from duration.md)
+- **Generated**: 2026-01-14
+- **Result**: Added duration to concepts list; added paragraph in Specious Present section explaining how Bergson's durée complements the neuroscientific analysis—durée names the qualitative character of experienced time; added duration to Further Reading
+- **Output**: Updated `concepts/temporal-consciousness.md`
+
+### ✓ 2026-01-14: Cross-review free-will.md considering duration insights
+- **Type**: cross-review
+- **Notes**: New article concepts/duration.md explicitly connects Bergson's durée to free will—his first major work was "Time and Free Will." Review topics/free-will.md for opportunities to reference how creative duration enables agency beyond deterministic models.
+- **Source**: chain (from duration.md)
+- **Generated**: 2026-01-14
+- **Result**: Added duration to concepts list; created new "Bergson's Challenge to Determinism" subsection explaining how durée undermines determinism by showing mental states interpenetrate rather than forming discrete causal chains; added duration to Further Reading
+- **Output**: Updated `topics/free-will.md`
 
 ### ✓ 2026-01-14: Review self-reference-paradox.md considering intentionality insights
 - **Type**: cross-review
