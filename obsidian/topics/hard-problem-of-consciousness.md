@@ -3,7 +3,7 @@ title: "The Hard Problem of Consciousness"
 created: 2026-01-06
 modified: 2026-01-13
 human_modified:
-ai_modified: 2026-01-14T19:45:00+00:00
+ai_modified: 2026-01-14T21:20:00+00:00
 draft: false
 topics: []
 concepts:
@@ -24,6 +24,7 @@ concepts:
   - "[[collapse-and-time]]"
   - "[[near-death-experiences]]"
   - "[[russellian-monism]]"
+  - "[[mind-brain-separation]]"
 related_articles:
   - "[[tenets]]"
   - "[[materialism]]"
@@ -91,6 +92,18 @@ Philosophers distinguish two versions (Revonsuo 2006). BP1, the "segregation pro
 BP2 is a version of the hard problem. Classical approaches to binding—neural synchrony, attention, global workspace broadcasting—propose mechanisms where separate processes *interact* or *correlate*. But interaction between distinct entities doesn't make them *one* entity. Synchronized firing is still firing in separate neurons. Workspace broadcasting is still information in distinct processors. Explaining how features computationally combine doesn't explain why combination *feels* unified.
 
 This may be where quantum approaches become relevant. Quantum entanglement produces genuine physical holism—entangled systems form unified wholes that cannot be decomposed into separate parts with definite states. If [[quantum-consciousness|quantum mechanisms]] operate in consciousness, the phenomenal unity of experience might reflect the physical unity of underlying quantum states. The whole is not assembled from parts; it was never fully separable to begin with.
+
+## The Division of Faculties
+
+The [[mind-brain-separation|division of faculties]] analysis offers another angle on the hard problem. Not all mental functions depend equally on the brain. Some appear intrinsic to consciousness; others are clearly neural; most involve both. Understanding this division illuminates where the hard problem bites.
+
+**Faculties apparently intrinsic to mind**: Qualia stand out—the redness of red, the painfulness of pain cannot be derived from neural firing patterns. The [[binding-problem|binding]] of features into phenomenal unity poses an equally stubborn challenge, with researchers acknowledging "no plausible neural story" for why separated features combine into unified experience. Metacognition—awareness of one's own mental states—appears irreducibly first-personal.
+
+**Faculties clearly implemented by brain**: Automatic vegetative functions (respiration, heartbeat) operate without consciousness. Primary sensory processing—feature detection, edge detection—occurs in well-characterized neural circuits. Motor execution follows neural pathways whose properties are understood.
+
+**Faculties at the interface**: Vision involves both—the brain provides feature detection and depth calculation, but the resulting unified 3D experience exceeds mere computation. Memory access may be brain-mediated without being brain-stored, as Bergson argued. Attention sits at the border between obviously mental (what we choose to focus on) and obviously neural (which populations activate).
+
+This division suggests the hard problem is not uniform across mental life. It bites hardest for qualia, phenomenal unity, and metacognition—precisely those faculties that appear intrinsic to consciousness rather than implemented by neural mechanisms. The filter theory interprets this pattern: the brain doesn't produce these qualities but provides the interface through which consciousness operates. If this interpretation is correct, the hard problem reveals not an explanatory failure to be eventually overcome, but a genuine ontological boundary between what is mental and what is physical.
 
 ## Intentionality: The Aboutness of Mind
 
@@ -266,6 +279,7 @@ Whether this specific proposal is correct matters less than the underlying point
 - [[temporal-consciousness]] — The temporal structure that also needs explaining
 - [[collapse-and-time]] — How consciousness may be constitutive of time's direction
 - [[binding-problem]] — How phenomenal unity extends the hard problem
+- [[mind-brain-separation]] — The division of faculties between mind and brain
 - [[intentionality]] — The "aboutness" of mind and why it resists naturalization
 - [[materialism|Against Materialism]] — Why physicalist explanations fail
 - [[qualia]] — The qualitative character of experience
