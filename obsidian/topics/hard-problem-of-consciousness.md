@@ -3,7 +3,7 @@ title: "The Hard Problem of Consciousness"
 created: 2026-01-06
 modified: 2026-01-13
 human_modified:
-ai_modified: 2026-01-14T18:15:00+00:00
+ai_modified: 2026-01-14T19:10:00+00:00
 draft: false
 topics: []
 concepts:
@@ -14,6 +14,7 @@ concepts:
   - "[[thoughts-that-slip-away]]"
   - "[[explanatory-gap]]"
   - "[[materialism]]"
+  - "[[neural-correlates-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[materialism]]"
@@ -97,6 +98,14 @@ Critics have responded: perhaps Mary gains a new *ability* (to recognise red, to
 
 ## Responses to the Hard Problem
 
+### Neural Correlates: Progress Without Solution
+
+Empirical research on [[neural-correlates-of-consciousness|neural correlates of consciousness (NCC)]] has made significant progress. We now know that conscious perception correlates primarily with activity in a "posterior cortical hot zone" rather than frontal regions. The 2025 COGITATE experiment—the largest adversarial collaboration in consciousness science—placed empirical constraints on leading theories.
+
+Yet NCC research, however sophisticated, cannot solve the hard problem. Finding that colour experience correlates with activity in V4 does not explain why V4 activity *feels like* anything. Correlation is not identity, and even if we establish perfect neural-experiential mappings, the explanatory gap remains: why does this pattern of firing produce *this* qualitative experience rather than nothing at all?
+
+Crucially, NCC findings are compatible with both materialism and [[interactionist-dualism|interactionist dualism]]. If consciousness causally interacts with the brain, we would expect exactly the tight correlations NCC research discovers. The data itself is metaphysically neutral.
+
 ### Materialist Responses
 
 [[materialism|Materialism]] offers several responses to the hard problem, none of them satisfying:
@@ -179,6 +188,7 @@ Whether this specific proposal is correct matters less than the underlying point
 
 ### On This Site
 - [[explanatory-gap]] — Levine's formulation and physicalist responses
+- [[neural-correlates-of-consciousness]] — Why empirical progress doesn't solve the problem
 - [[materialism|Against Materialism]] — Why physicalist explanations fail
 - [[qualia]] — The qualitative character of experience
 - [[epiphenomenalism]] — The view that consciousness is causally inert
