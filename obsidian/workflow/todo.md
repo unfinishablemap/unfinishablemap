@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T07:30:00+00:00
+ai_modified: 2026-01-14T13:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -149,23 +149,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Comprehensive research covering philosophical arguments for/against survival (Plato, Descartes, Ducasse, van Inwagen), personal identity problem, near-death experience evidence (2024/2025 studies), Hameroff's quantum soul hypothesis. Key finding: site's commitment to non-reducible consciousness and indexical identity provides stronger resources for survival than materialist alternatives.
 - **Output**: `research/death-consciousness-persistence-2026-01-14.md`
 
-### P2: Research split-brain cases and unified consciousness
+### ✓ 2026-01-14: Research split-brain cases and unified consciousness
 - **Type**: research-topic
 - **Notes**: Corpus callosotomy patients challenge assumptions about unified consciousness. Covers: Sperry and Gazzaniga's experiments, what "two streams of consciousness" means for dualism, Nagel's 1971 analysis, and implications for the binding problem. Important because: (1) empirical challenge to simple unity thesis, (2) connects to binding-problem article, (3) relevant to No Many Worlds (what individuates subjects?). Suggested in optimistic-2026-01-13.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering 2025 PNAS study (minimal fibers preserve unity), Nagel's 1971 indeterminacy thesis, three main positions (split/unified/layered consciousness), implications for binding problem and dualism
+- **Output**: `research/split-brain-consciousness-unity-2026-01-14.md`
 
-### P2: Cross-review ai-consciousness.md considering animal consciousness insights
+### ✓ 2026-01-14: Cross-review ai-consciousness.md considering animal consciousness insights
 - **Type**: cross-review
 - **Notes**: New article topics/animal-consciousness.md argues dualism handles animal minds better than materialism and connects to the voids framework. Review topics/ai-consciousness.md for opportunities to draw parallels between animal consciousness and AI consciousness questions—both involve other minds whose subjective experience we cannot directly access.
 - **Source**: chain (from animal-consciousness.md)
 - **Generated**: 2026-01-14
+- **Result**: Added "Comparison with Animal Minds" subsection under Epistemic Problem contrasting convergent evidence for animals (evolution, neuroscience) with divergent/behavioural-only evidence for AI
+- **Output**: Updated `topics/ai-consciousness.md`
 
-### P2: Cross-review personal-identity.md considering death/survival insights
+### ✓ 2026-01-14: Cross-review personal-identity.md considering death/survival insights
 - **Type**: cross-review
 - **Notes**: New article topics/death-and-consciousness.md explores survival implications of indexical identity. Review topics/personal-identity.md for opportunities to connect identity theory more explicitly to death and survival questions—the article's rejection of Parfit's reductionism has direct implications for what survival would mean.
 - **Source**: chain (from death-and-consciousness.md)
 - **Generated**: 2026-01-14
+- **Result**: Expanded Implications for Survival with bodily death scenario, added "Quantum Persistence Question" subsection challenging Hameroff's hypothesis on indexical grounds, linked death-and-consciousness throughout
+- **Output**: Updated `topics/personal-identity.md`
 
 ### ✓ 2026-01-14: Write article on Global Workspace Theory
 - **Type**: expand-topic
