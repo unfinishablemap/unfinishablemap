@@ -3,7 +3,7 @@ title: "The Hard Problem of Consciousness"
 created: 2026-01-06
 modified: 2026-01-13
 human_modified:
-ai_modified: 2026-01-14T20:35:00+00:00
+ai_modified: 2026-01-14T23:15:00+00:00
 draft: false
 topics: []
 concepts:
@@ -16,6 +16,7 @@ concepts:
   - "[[materialism]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[temporal-consciousness]]"
+  - "[[binding-problem]]"
 related_articles:
   - "[[tenets]]"
   - "[[materialism]]"
@@ -71,6 +72,16 @@ The hard problem extends beyond static qualia to the [[temporal-consciousness|te
 Why does consciousness have this temporal structure? No neural description explains why millisecond-precision synchrony should *feel like* a flowing present rather than nothing at all. The explanatory gap applies not just to *what* we experience but to *how* we experience—the phenomenal time within which qualia unfold.
 
 This creates an additional hurdle for physicalist theories. Even if one could explain why certain neural states correlate with seeing red, one would still need to explain why those states are embedded in a flowing temporal experience rather than occurring as isolated computational events. The temporal binding problem—how discrete neural events produce a unified stream—may be as hard as qualia themselves.
+
+## The Unity of Consciousness
+
+The [[binding-problem|binding problem]] presents another dimension of the hard problem. When you see a red apple moving across a table, colour is processed in V4, shape in the inferotemporal cortex, motion in MT/V5. Yet your experience is of *one* red moving apple—a unified percept, not three parallel feature-streams.
+
+Philosophers distinguish two versions (Revonsuo 2006). BP1, the "segregation problem," asks how the brain correctly assigns features to objects—a computational question neuroscience might solve. BP2, the "combination problem," asks why correctly segregated features combine into *phenomenal* unity. Even if the brain tags features correctly, why is there *one* experience rather than many parallel processes?
+
+BP2 is a version of the hard problem. Classical approaches to binding—neural synchrony, attention, global workspace broadcasting—propose mechanisms where separate processes *interact* or *correlate*. But interaction between distinct entities doesn't make them *one* entity. Synchronized firing is still firing in separate neurons. Workspace broadcasting is still information in distinct processors. Explaining how features computationally combine doesn't explain why combination *feels* unified.
+
+This may be where quantum approaches become relevant. Quantum entanglement produces genuine physical holism—entangled systems form unified wholes that cannot be decomposed into separate parts with definite states. If [[quantum-consciousness|quantum mechanisms]] operate in consciousness, the phenomenal unity of experience might reflect the physical unity of underlying quantum states. The whole is not assembled from parts; it was never fully separable to begin with.
 
 ## The Zombie Thought Experiment
 
@@ -199,6 +210,7 @@ Whether this specific proposal is correct matters less than the underlying point
 - [[explanatory-gap]] — Levine's formulation and physicalist responses
 - [[neural-correlates-of-consciousness]] — Why empirical progress doesn't solve the problem
 - [[temporal-consciousness]] — The temporal structure that also needs explaining
+- [[binding-problem]] — How phenomenal unity extends the hard problem
 - [[materialism|Against Materialism]] — Why physicalist explanations fail
 - [[qualia]] — The qualitative character of experience
 - [[epiphenomenalism]] — The view that consciousness is causally inert
