@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T14:30:00+00:00
+ai_modified: 2026-01-14T16:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -733,6 +733,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-15
 - **Result**: Added new "The Phenomenal Concepts Strategy" section explaining PCS as most sophisticated physicalist response, covering the core idea (conceptual vs ontological gap), morning star analogy, and Chalmers's master argument dilemma; added phenomenal-concepts-strategy to concepts list and Further Reading
 - **Output**: Updated `concepts/qualia.md`
+
+### ✓ 2026-01-14: Write article on illusionism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/illusionism-consciousness-2026-01-14.md. Covers Frankish's illusionism, Dennett's "obvious default theory," the illusion problem, objections (self-evidence, infinite regress, Moorean argument), and big vs small illusionism. Key finding: illusionism may relocate rather than solve the hard problem—explaining the illusion of consciousness is as hard as explaining consciousness itself. Most radical physicalist response to hard problem.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-14
+- **Result**: Created ~1800 word article covering illusionism's core claim, the illusion problem, big vs small illusionism (Graziano), major objections (self-evidence, infinite regress, Moorean, meta-problem dilemma), illusionist responses, and tenet analysis showing why the illusion problem may just relocate the hard problem
+- **Output**: `concepts/illusionism.md`
+
+### P2: Write article on predictive processing
+- **Type**: expand-topic
+- **Notes**: Research completed in research/predictive-processing-consciousness-2026-01-14.md. Covers PP framework (Friston, Clark, Hohwy), "controlled hallucination" view, active inference, deep self-models, and the meta-problem approach. Key finding: PP offers sophisticated cognitive framework but like other functionalist theories doesn't directly address hard problem. Important contemporary theory not yet covered.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-14
 
 ### P3: Create concept page for the combination problem
 - **Type**: expand-topic
