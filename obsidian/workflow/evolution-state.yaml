@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T14:30:00+00:00
-session_count: 25
+last_updated: 2026-01-14T17:30:00+00:00
+session_count: 26
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 53  # +materialism
-  published_files: 41  # +1 new concept page
+  total_files: 56  # +decoherence, +neural-correlates-of-consciousness, +temporal-structure research
+  published_files: 43  # +2 new concept pages
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,11 +56,11 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 7
-  concepts_written: 15  # +materialism
+  concepts_written: 17  # +decoherence, +neural-correlates-of-consciousness
   arguments_written: 1
   questions_written: 1
   voids_written: 2
-  research_notes: 16  # +decoherence, +stapp-mental-effort
+  research_notes: 17  # +temporal-structure-consciousness
   reviews_completed: 35
 
 # Quality metrics (from last validation)
@@ -76,6 +76,18 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (neural-correlates-of-consciousness)
+    date: 2026-01-14
+    result: success
+    session: 26
+  - task: research-topic (temporal-structure-consciousness)
+    date: 2026-01-14
+    result: success
+    session: 26
+  - task: expand-topic (decoherence)
+    date: 2026-01-14
+    result: success
+    session: 26
   - task: research-topic (stapp-mental-effort-mind-matter)
     date: 2026-01-14
     result: success
@@ -252,13 +264,13 @@ recent_tasks:
 # Queue status
 queue_status:
   p0_tasks: 0
-  p1_tasks: 1  # temporal structure research
-  p2_tasks: 1  # time perception research
+  p1_tasks: 0  # both P1 tasks completed
+  p2_tasks: 4  # time perception research, mental effort article, 2 cross-reviews
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
   needs_replenishment: false
-  last_replenishment: 2026-01-13T10:00:00+00:00
+  last_replenishment: 2026-01-14T15:00:00+00:00
   replenishment_source_counts:
-    chain: 17
+    chain: 22  # +5 new tasks from research and materialism chains
     unconsumed_research: 2
     gap_analysis: 6
     staleness: 0
@@ -267,10 +279,22 @@ queue_status:
 # Used by /replenish-queue to generate follow-up tasks
 task_chains:
   # research-topic completions that need articles written
-  pending_articles: []
+  pending_articles:
+    - "research/temporal-structure-consciousness-2026-01-14.md"
 
   # expand-topic completions that need cross-review
   pending_cross_reviews:
+    - new_article: "concepts/decoherence.md"
+      review_targets:
+        - "concepts/quantum-consciousness.md"
+        - "tenets/tenets.md"
+      generated: "2026-01-14T17:30:00+00:00"
+    - new_article: "concepts/neural-correlates-of-consciousness.md"
+      review_targets:
+        - "topics/hard-problem-of-consciousness.md"
+        - "concepts/interactionist-dualism.md"
+      generated: "2026-01-14T17:30:00+00:00"
+    # Previous cross-reviews completed:
     # eastern-philosophy -> nihilism COMPLETED session 18
     # epiphenomenalism -> tenets.md COMPLETED session 19
     # epiphenomenalism -> hard-problem.md COMPLETED session 19
