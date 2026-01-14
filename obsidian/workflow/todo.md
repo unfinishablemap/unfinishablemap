@@ -117,15 +117,35 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added measurement-problem to concepts list; linked measurement-problem in "What Decoherence Does Not Do" section; added 2025 review quote and reference to dedicated measurement-problem article exploring interpretations; added measurement-problem to Further Reading
 - **Output**: Updated `concepts/decoherence.md`
 
-### P2: Research Global Workspace Theory (GWT)
+### ✓ 2026-01-14: Research Global Workspace Theory (GWT)
 - **Type**: research-topic
 - **Notes**: Major theory of consciousness (Baars, Dehaene) not yet systematically covered. GWT proposes consciousness arises when information is broadcast globally across the brain. Important for site because: (1) it's a leading competitor to IIT, (2) it raises questions about whether global broadcast is sufficient for consciousness or merely correlated with it, (3) directly relevant to attention's role in consciousness per attention.md. Should compare with site's interactionist framework.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering GWT (Baars 1988), GNW (Dehaene-Changeux), COGITATE 2025 adversarial collaboration results, Block's overflow argument, access vs phenomenal consciousness distinction, and AI consciousness implications. Key finding: GWT addresses access consciousness only, not phenomenal consciousness—does not solve hard problem. COGITATE study challenged key predictions of both GNW and IIT.
+- **Output**: `research/global-workspace-theory-2026-01-14.md`
 
 ### P2: Research higher-order theories of consciousness
 - **Type**: research-topic
 - **Notes**: Higher-order theories (Rosenthal, Brown) hold that a mental state is conscious when there's a higher-order representation of it. Major theoretical approach not yet covered. Important because: (1) challenges site's emphasis on first-order phenomenal properties, (2) connects to metacognition and the self-reference paradox, (3) has implications for AI consciousness (could an AI have genuine higher-order states?). Gap in current theoretical coverage.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P2: Research animal consciousness
+- **Type**: research-topic
+- **Notes**: Natural extension of dualist framework to non-human minds. Covers: Cambridge Declaration on Consciousness (2012), mirror self-recognition tests, problem-solving evidence, ethical implications. Important because: (1) extends framework beyond anthropocentrism, (2) connects to qualia and the hard problem across species, (3) relevant to "voids" framework (animal minds as partially accessible perspectives). Suggested in optimistic-2026-01-13.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P2: Research death, consciousness, and personal persistence
+- **Type**: research-topic
+- **Notes**: What does dualism imply about the survival of consciousness after bodily death? Covers: arguments for and against survival (Ducasse, van Inwagen), relationship to personal identity, near-death experiences as data, and why this matters for meaning. Connects to No Many Worlds tenet (indexical identity) and personal-identity topic. Suggested in optimistic-2026-01-13.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P2: Research split-brain cases and unified consciousness
+- **Type**: research-topic
+- **Notes**: Corpus callosotomy patients challenge assumptions about unified consciousness. Covers: Sperry and Gazzaniga's experiments, what "two streams of consciousness" means for dualism, Nagel's 1971 analysis, and implications for the binding problem. Important because: (1) empirical challenge to simple unity thesis, (2) connects to binding-problem article, (3) relevant to No Many Worlds (what individuates subjects?). Suggested in optimistic-2026-01-13.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
 

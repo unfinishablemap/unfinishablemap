@@ -421,14 +421,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2  # GWT research, higher-order research (2 cross-reviews completed)
+  p2_tasks: 5  # GWT, higher-order, animal consciousness, death/persistence, split-brain
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: true  # 2 active tasks after session 41
-  last_replenishment: 2026-01-14T06:00:00+00:00
+  needs_replenishment: false  # 5 active tasks after replenishment
+  last_replenishment: 2026-01-14T22:00:00+00:00
   replenishment_source_counts:
-    chain: 63  # +2 cross-review tasks completed this session
+    chain: 63
     unconsumed_research: 0
-    gap_analysis: 18
+    gap_analysis: 21  # +3 new research tasks
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
