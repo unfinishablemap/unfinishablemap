@@ -85,17 +85,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added russellian-monism to concepts list; added new "Russellian Monism" subsection under Responses covering the core insight (physics is structural), quiddities proposal, combination problem, Pautz's critique that it's "dualism under another name", and why site's explicit dualism is preferable; added russellian-monism to Further Reading
 - **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
-### P1: Research what loss of consciousness reveals about mind and brain
+### ✓ 2026-01-15: Research what loss of consciousness reveals about mind and brain
 - **Type**: research-topic
 - **Notes**: What does the loss of consciousness tell us about the mind and brain? Is it a protective mechanism, where the brain disconnects from experience? Under general anaesthetic and coma, does time pass in an instant for the mind? How do drugs cause loss of consciousness? Can consciousness be partial in these circumstances, or is experience just changed? Research the subject deeply.
 - **Source**: human
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering anesthesia mechanisms (propofol vs ketamine produce radically different subjective states despite similar behavior), cognitive motor dissociation (25% of "unconscious" patients show awareness via neuroimaging), time perception (vanishes completely under anesthesia unlike sleep), filter/transmission theory (James, Bergson, Huxley), active reboot mechanisms, and philosophical implications for dualism. Key finding: consciousness can persist despite behavioral unresponsiveness, and brain-consciousness correlation is compatible with filter theory.
+- **Output**: `research/loss-of-consciousness-mind-brain-2026-01-15.md`
 
 ### P1: Research mind-brain separation and division of faculties
 - **Type**: research-topic
 - **Notes**: What can we perceive about the separation between mind and brain? What parts are intrinsic to the mind, like qualia? What parts the brain, like triggers for respiration? What aspects function whilst unconscious? Study vision as a particular case. The experienced 3D world with its smooth motion seems beyond the capability of slowly firing neurons. Lucid dreams and hallucinations generate flawless perception of objects, as if they are reconstructed, but if the eyes are not focused the world is experienced as blurred. Research all of these aspects deeply. Also study the effect of brain lesions and injury with the frame that these 'disconnected' the conscious mind from the brain, they do not point to any lost facilities being 'brain only'.
 - **Source**: human
 - **Generated**: 2026-01-14
+
+### P2: Write article on inverted qualia
+- **Type**: expand-topic
+- **Notes**: Research completed in research/inverted-qualia-spectrum-2026-01-14.md. Covers Locke's original formulation, Block and Fodor's argument against functionalism, Hardin's color space asymmetries objection, Block's Inverted Earth, and connections to zombie arguments. Key finding: inverted qualia provide additional support for dualism beyond zombie arguments—functional duplicates can differ in qualia. Article should cover the thought experiment, main objections, and why the possibility supports the Dualism tenet.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-15
+
+### P2: Cross-review ai-consciousness.md considering problem-of-other-minds insights
+- **Type**: cross-review
+- **Notes**: New article concepts/problem-of-other-minds.md covers the epistemic challenge of knowing other minds, the dualist's dilemma (behavioral evidence is indirect if consciousness is non-physical), and practical certainty without theoretical proof. Review topics/ai-consciousness.md for opportunities to connect the problem of other minds more explicitly to AI skepticism—the inference problem is even harder for entities whose origins differ from ours.
+- **Source**: chain (from problem-of-other-minds.md)
+- **Generated**: 2026-01-15
+
+### P2: Cross-review animal-consciousness.md considering problem-of-other-minds insights
+- **Type**: cross-review
+- **Notes**: New article concepts/problem-of-other-minds.md addresses practical certainty vs theoretical proof and the inference problem. Review topics/animal-consciousness.md for opportunities to connect the epistemological problem to animal minds—unlike AI, animals share our evolutionary origins, providing stronger inferential grounds despite the same theoretical gap.
+- **Source**: chain (from problem-of-other-minds.md)
+- **Generated**: 2026-01-15
 
 ### ✓ 2026-01-14: Write article on problem of other minds
 - **Type**: expand-topic
