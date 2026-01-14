@@ -73,6 +73,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
 
+### ✓ 2026-01-15: Write article on the knowledge argument (Mary's Room)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/knowledge-argument-marys-room-2026-01-14.md. One of the strongest arguments for dualism. Jackson's 1982/1986 formulation, Lewis/Nemirow ability hypothesis, phenomenal concepts strategy, Chalmers's two-dimensional defense, Jackson's 2003 self-rejection. Article should cover the argument's structure, major physicalist responses, and why it supports Dualism tenet.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-15
+- **Result**: Created ~2000 word article covering Mary's Room thought experiment, the argument's formal structure, ability hypothesis and phenomenal concepts strategy responses, Jackson's self-rejection and its implications for bidirectional interaction, and connections to explanatory gap and zombie arguments. Strongly supports Dualism and Occam's Razor Has Limits tenets.
+- **Output**: `concepts/knowledge-argument.md`
+
+### P2: Write article on mysterianism and cognitive closure
+- **Type**: expand-topic
+- **Notes**: Research completed in research/mysterianism-cognitive-closure-2026-01-14.md. McGinn's view that consciousness is real but permanently beyond human cognitive reach. Covers Nagel's bat argument, Chomsky's problems vs mysteries distinction. Strongly supports Occam's Razor Has Limits tenet. Represents sophisticated middle ground.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-15
+
+### P2: Cross-review free-will.md considering libet-experiments insights
+- **Type**: cross-review
+- **Notes**: New article concepts/libet-experiments.md provides detailed treatment of Libet's original experiments, Schurger's neural noise critique, and the retrocausal resolution. Review topics/free-will.md for opportunities to reference the dedicated article and strengthen the argument that Libet doesn't undermine free will.
+- **Source**: chain (from libet-experiments.md)
+- **Generated**: 2026-01-15
+
+### P2: Cross-review retrocausality.md considering libet-experiments insights
+- **Type**: cross-review
+- **Notes**: New article concepts/libet-experiments.md discusses how retrocausal interpretation resolves the apparent timing problem for consciousness. Review concepts/retrocausality.md for opportunities to connect the Libet discussion more explicitly.
+- **Source**: chain (from libet-experiments.md)
+- **Generated**: 2026-01-15
+
 ### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering illusionism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/illusionism.md covers the radical physicalist denial of phenomenal consciousness, the illusion problem, and critiques (infinite regress, Moorean argument). Review topics/hard-problem-of-consciousness.md for opportunities to reference illusionism as the strongest physicalist challenge and contrast with the site's position.
