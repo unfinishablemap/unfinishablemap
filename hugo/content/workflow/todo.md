@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 22:45:00+00:00
+ai_modified: 2026-01-14 12:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -295,17 +295,53 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~1800 word article covering BP1 vs BP2, classical solutions (synchrony, feature integration, global workspace, IIT), why classical approaches fail for phenomenal unity, quantum entanglement as genuine holism, 2025 evidence for microtubule quantum effects, and connection to site tenets
 - **Output**: `concepts/binding-problem.md`
 
-### P2: Research attention and consciousness relationship
+### ✓ 2026-01-15: Research attention and consciousness relationship
 - **Type**: research-topic
 - **Notes**: Attention and consciousness are closely linked but distinct. Stapp's quantum Zeno mechanism requires sustained attention; mental-effort article discusses phenomenology of effort. Research should cover: attention without consciousness (blindsight, implicit processing), consciousness without attention (peripheral awareness), and theoretical models (global workspace, predictive processing). Supports Bidirectional Interaction through attention's role in mind-matter interface.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering dissociationist vs equivalency views (Koch/Tsuchiya vs Prinz), blindsight and peripheral awareness evidence, Block's overflow argument, GWT and predictive processing models, Stapp's quantum Zeno mechanism. Key finding: attention and consciousness are increasingly understood as dissociable; Stapp places attention at the heart of mind-matter interface.
+- **Output**: `research/attention-consciousness-relationship-2026-01-15.md`
 
-### P2: Create concept page for substance vs property dualism
+### ✓ 2026-01-14: Write article on attention and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/attention-consciousness-relationship-2026-01-15.md. Covers dissociation evidence (blindsight, peripheral awareness, inattentional blindness), theoretical models (GWT, AIR, predictive processing), and Stapp's quantum Zeno mechanism. Key insight: attention may be the causal nexus for mind-matter interaction—sustained attention as repeated observation. Supports Bidirectional Interaction tenet.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-15
+- **Result**: Created ~1900 word article covering dissociation debate (Koch/Tsuchiya vs Prinz), consciousness without attention (peripheral awareness, gist perception, Block's overflow), attention without consciousness (blindsight), Stapp's quantum Zeno mechanism as the interface, and connection to site tenets
+- **Output**: `concepts/attention.md`
+
+### ✓ 2026-01-14: Create concept page for substance vs property dualism
 - **Type**: expand-topic
 - **Notes**: Site commits to dualism but doesn't distinguish substance dualism (Descartes—mind as separate substance) from property dualism (mental properties are non-physical but not separate substances). Most contemporary dualists are property dualists. Clarifying site's position strengthens Dualism tenet.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+- **Result**: Created ~1700 word article covering Cartesian substance dualism, historical challenges (Elizabeth, Leibniz), contemporary substance dualism, property dualism varieties (naturalistic dualism, Russellian monism, emergent dualism), comparison of views, and site's neutral position between them
+- **Output**: `concepts/substance-property-dualism.md`
+
+### ✓ 2026-01-15: Write voids article on the self-reference paradox
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-self-reference-paradox-2026-01-14.md. Covers Gödel's incompleteness and consciousness, Metzinger's transparent self-models, Hume's elusive self, and the calibration problem (evaluating introspection requires introspection). The mind attempting to understand itself faces structural obstacles—possibly the deepest void. Key quote: "The eye that cannot see itself." Connects to Occam's Razor Has Limits tenet.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-14
+- **Result**: Created ~2000 word article covering Gödelian analogy, Hume's elusive self, Metzinger's transparent self-models, the calibration problem, Hofstadter's strange loops, and how AI might probe this void
+- **Output**: `voids/self-reference-paradox.md`
+
+### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering binding-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/binding-problem.md explores how distributed neural processes combine into unified consciousness. Review topics/hard-problem-of-consciousness.md for opportunities to reference the binding problem as another dimension of the hard problem—particularly how BP2 (phenomenal unity) is distinct from the computational BP1.
+- **Source**: chain (from binding-problem.md)
+- **Generated**: 2026-01-14
+- **Result**: Added binding-problem to concepts list; created new "The Unity of Consciousness" section explaining BP1/BP2 distinction and connecting phenomenal unity to hard problem via quantum mechanisms; added to Further Reading
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
+### ✓ 2026-01-14: Cross-review quantum-consciousness.md considering binding-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/binding-problem.md argues that quantum entanglement may solve the binding problem by providing genuine physical holism. Review concepts/quantum-consciousness.md for opportunities to strengthen the case that quantum effects are relevant to consciousness—entanglement as binding mechanism.
+- **Source**: chain (from binding-problem.md)
+- **Generated**: 2026-01-14
+- **Result**: Added binding-problem to concepts list; created new "Entanglement and the Binding Problem" section explaining how quantum entanglement provides genuine holism vs classical correlation; added to Further Reading
+- **Output**: Updated `concepts/quantum-consciousness.md`
 
 ### ✓ 2026-01-15: Write article on temporal structure of consciousness
 - **Type**: expand-topic

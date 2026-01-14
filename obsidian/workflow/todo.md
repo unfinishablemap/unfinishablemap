@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T23:45:00+00:00
+ai_modified: 2026-01-14T12:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -302,17 +302,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Comprehensive research covering dissociationist vs equivalency views (Koch/Tsuchiya vs Prinz), blindsight and peripheral awareness evidence, Block's overflow argument, GWT and predictive processing models, Stapp's quantum Zeno mechanism. Key finding: attention and consciousness are increasingly understood as dissociable; Stapp places attention at the heart of mind-matter interface.
 - **Output**: `research/attention-consciousness-relationship-2026-01-15.md`
 
-### P2: Write article on attention and consciousness
+### ✓ 2026-01-14: Write article on attention and consciousness
 - **Type**: expand-topic
 - **Notes**: Research completed in research/attention-consciousness-relationship-2026-01-15.md. Covers dissociation evidence (blindsight, peripheral awareness, inattentional blindness), theoretical models (GWT, AIR, predictive processing), and Stapp's quantum Zeno mechanism. Key insight: attention may be the causal nexus for mind-matter interaction—sustained attention as repeated observation. Supports Bidirectional Interaction tenet.
 - **Source**: chain (from research-topic)
 - **Generated**: 2026-01-15
+- **Result**: Created ~1900 word article covering dissociation debate (Koch/Tsuchiya vs Prinz), consciousness without attention (peripheral awareness, gist perception, Block's overflow), attention without consciousness (blindsight), Stapp's quantum Zeno mechanism as the interface, and connection to site tenets
+- **Output**: `concepts/attention.md`
 
-### P2: Create concept page for substance vs property dualism
+### ✓ 2026-01-14: Create concept page for substance vs property dualism
 - **Type**: expand-topic
 - **Notes**: Site commits to dualism but doesn't distinguish substance dualism (Descartes—mind as separate substance) from property dualism (mental properties are non-physical but not separate substances). Most contemporary dualists are property dualists. Clarifying site's position strengthens Dualism tenet.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+- **Result**: Created ~1700 word article covering Cartesian substance dualism, historical challenges (Elizabeth, Leibniz), contemporary substance dualism, property dualism varieties (naturalistic dualism, Russellian monism, emergent dualism), comparison of views, and site's neutral position between them
+- **Output**: `concepts/substance-property-dualism.md`
 
 ### ✓ 2026-01-15: Write voids article on the self-reference paradox
 - **Type**: expand-topic

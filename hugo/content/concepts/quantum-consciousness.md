@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-14 19:20:00+00:00
+ai_modified: 2026-01-14 23:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[locality]]'
 - '[[decoherence]]'
 - '[[mental-effort]]'
+- '[[binding-problem]]'
 created: 2026-01-09
 date: &id001 2026-01-09
 draft: false
@@ -130,6 +131,18 @@ Despite differences, quantum consciousness theories agree on several points:
 
 These shared features align with the site's tenets.
 
+## Entanglement and the Binding Problem
+
+Quantum mechanics may address not just how consciousness influences matter but how consciousness achieves its phenomenal *unity*. The [binding problem](/concepts/binding-problem/) asks how distributed neural processes—colour processed in V4, shape in inferotemporal cortex, motion in MT/V5—combine into a single unified experience of *one red moving apple*.
+
+Classical mechanisms fail here structurally. Neural synchrony, global workspace broadcasting, and attention-based integration all propose ways that separate processes can *interact* or *correlate*. But interaction between distinct entities doesn't make them *one* entity. Synchronized firing is still firing in separate neurons. Correlation isn't unity.
+
+Quantum entanglement is different. Entangled systems form genuinely unified wholes that cannot be decomposed into separate parts with definite states. An entangled pair of particles has properties that neither particle possesses individually. This is ontological unity, not mere correlation.
+
+If consciousness arises from entangled quantum states across neural tissue—as Orch OR proposes for microtubules—then phenomenal unity may reflect physical unity. The experience is unified because the underlying quantum state was never truly separate. The whole is not assembled from parts; it was never fully separable to begin with.
+
+This provides quantum consciousness theories with an additional explanatory advantage over classical approaches. They explain not just how consciousness influences matter (through collapse or selection) but why consciousness is *unified* (through entanglement). Recent research on brain entanglement correlates in conscious states lends empirical support to this possibility.
+
 ## Distinguishing from "Quantum Woo"
 
 Popular culture conflates serious quantum consciousness research with mysticism. Key distinctions:
@@ -163,6 +176,7 @@ The decoherence objection remains the most serious challenge. If quantum coheren
 
 ## Further Reading
 
+- [binding-problem](/concepts/binding-problem/) — How quantum entanglement may solve phenomenal unity
 - [mental-effort](/concepts/mental-effort/) — Detailed treatment of phenomenology of effort and Stapp's mechanism
 - [decoherence](/concepts/decoherence/) — Full treatment of why decoherence doesn't rule out quantum consciousness
 - [retrocausality](/concepts/retrocausality/) — Another quantum approach to consciousness-physics interface
