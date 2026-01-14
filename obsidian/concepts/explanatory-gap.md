@@ -3,12 +3,13 @@ title: "The Explanatory Gap"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T01:15:00+00:00
+ai_modified: 2026-01-15T00:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[qualia]]"
+  - "[[philosophical-zombies]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -45,7 +46,7 @@ But this modest reading has problems. If the gap is merely epistemic, why can't 
 
 ## Relation to the Hard Problem
 
-David Chalmers drew on Levine's work to formulate the [[hard-problem-of-consciousness|hard problem of consciousness]]. The hard problem is: why is there subjective experience at all? Why aren't we "zombies"—beings that process information without any inner light?
+David Chalmers drew on Levine's work to formulate the [[hard-problem-of-consciousness|hard problem of consciousness]]. The hard problem is: why is there subjective experience at all? Why aren't we [[philosophical-zombies|zombies]]—beings that process information without any inner light?
 
 The explanatory gap and the hard problem are closely related but distinct:
 
@@ -68,11 +69,11 @@ When Mary leaves the room and sees red for the first time, does she learn someth
 
 The explanatory gap here: all Mary's physical knowledge didn't explain what seeing red would be like. The qualitative character of experience wasn't derivable from the physical description.
 
-### Absent Qualia
+### Absent Qualia and Zombies
 
-Imagine a being whose brain is physically identical to yours but who has no conscious experience—no inner life, no [[qualia]], nothing it's like to be them. They behave exactly as you do (because behavior is physically determined) but there's nobody home.
+Imagine a being whose brain is physically identical to yours but who has no conscious experience—no inner life, no [[qualia]], nothing it's like to be them. They behave exactly as you do (because behavior is physically determined) but there's nobody home. This is the [[philosophical-zombies|philosophical zombie]] thought experiment.
 
-If this is even *conceivable*, it suggests that physical facts don't entail experiential facts. The gap between physical description and consciousness is wide enough that you can imagine the physical description being complete while consciousness is absent.
+If zombies are even *conceivable*, it suggests that physical facts don't entail experiential facts. The gap between physical description and consciousness is wide enough that you can imagine the physical description being complete while consciousness is absent. Chalmers develops this into a full argument: if zombies are conceivable, they're possible; if they're possible, physicalism is false. The explanatory gap thus becomes evidence for an ontological gap—consciousness involves something beyond physics.
 
 ### Inverted Qualia
 
@@ -116,6 +117,7 @@ The gap also supports humility. If we cannot understand consciousness from physi
 
 - [[hard-problem-of-consciousness]] — The metaphysical problem the gap points to
 - [[qualia]] — The experiential properties the gap concerns
+- [[philosophical-zombies]] — The thought experiment that converts the gap into an argument against physicalism
 - [[tenets]] — How the site's framework responds to the gap
 
 ## References
