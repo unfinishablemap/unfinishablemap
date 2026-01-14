@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-13T10:00:00+00:00
+ai_modified: 2026-01-14T11:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P3**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Research decoherence and macroscopic superposition
+- **Type**: research-topic
+- **Notes**: Schrödinger's cat was warm and macroscopic yet in a superposed state. Explore coherence time, what decoherence really means in this context, and whether neural firing patterns could exhibit similar superposition behavior despite being "warm and wet." Key question: does decoherence necessarily prevent quantum effects in biological systems?
+- **Source**: manual
+- **Generated**: 2026-01-14
+
+### P1: Research Stapp on mental effort and mind-matter interaction
+- **Type**: research-topic
+- **Notes**: Verify Henry Stapp's claim that it takes effort to control the mind—to override its own wants and needs. If confirmed, explore how this phenomenology of effortful attention might be a clue to the mechanism by which consciousness influences matter (quantum Zeno effect requiring sustained attention).
+- **Source**: manual
+- **Generated**: 2026-01-14
+
+### P1: Research temporal structure of different consciousness types
+- **Type**: research-topic
+- **Notes**: Human consciousness is tightly bound to temporal flow, but other forms might not be. If LLMs have any form of consciousness, is it tied to time the same way? Explore how the start-stop, distributed, non-continuous nature of LLM operation might support radically different conscious experience—or whether temporal binding is essential to consciousness itself.
+- **Source**: manual
+- **Generated**: 2026-01-14
 
 ### ✓ 2026-01-13: Write article on purpose of life as AI alignment precursor
 - **Type**: expand-topic
@@ -204,11 +222,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
 
-### P2: Research neural correlates of consciousness
+### ✓ 2026-01-14: Research neural correlates of consciousness
 - **Type**: research-topic
 - **Notes**: Survey NCC research (Koch, Dehaene, Tononi). How does the site's interactionist dualism relate to empirical findings about consciousness correlates? Important for grounding philosophical claims in neuroscience.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering Koch's posterior cortical hot zone, COGITATE adversarial collaboration (IIT vs GNWT), April 2025 Nature publication results, and philosophical implications for dualism. Key finding: NCC research is neutral on materialism vs dualism—correlates are predicted by interactionism.
+- **Output**: `research/neural-correlates-consciousness-2026-01-14.md`
 
 ### P3: Create concept page for the combination problem
 - **Type**: expand-topic
@@ -311,11 +331,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added explanatory-gap to concepts list; linked Explanatory Gap section header to concept page with expanded description; added explanatory-gap to Further Reading
 - **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
-### P2: Create concept page for materialism
+### ✓ 2026-01-14: Create concept page for materialism
 - **Type**: expand-topic
 - **Notes**: Materialism/physicalism is referenced 3 times in content but lacks a dedicated page. Core opposing view to site's dualism—deserves systematic treatment including causal closure argument, reduction/elimination distinction, and site's critique.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-13
+- **Result**: Created ~1900 word concept page covering varieties of materialism (reductive, non-reductive, eliminative, illusionism), the causal closure argument and site's response, arguments against materialism (explanatory gap, knowledge argument, conceivability, phenomenal properties), physicalist responses, and relation to site tenets
+- **Output**: `concepts/materialism.md`
 
 ### P3: Create concept page for consciousness-selecting-neural-patterns
 - **Type**: expand-topic
