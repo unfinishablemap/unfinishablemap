@@ -3,7 +3,7 @@ title: "Personal Identity"
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-01-14T17:30:00+00:00
+ai_modified: 2026-01-14T14:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,6 +12,7 @@ concepts:
   - "[[qualia]]"
   - "[[death-and-consciousness]]"
   - "[[split-brain-consciousness]]"
+  - "[[self-and-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[meaning-of-life]]"
@@ -50,6 +51,16 @@ Eric Olson champions this view. It handles fission differently: neither resultin
 You are your story. Identity emerges through self-created life narratives that unite experiences into a coherent biography. What makes experiences yours isn't just psychological continuity but their incorporation into the story you tell about your life.
 
 Marya Schechtman and others develop this approach. It captures something missing from psychological continuity: the active sense of authorship over one's life. But it may be too demanding—are people with fragmented or incoherent self-narratives not fully persons?
+
+### The Minimal Self: A Deeper Layer
+
+Recent phenomenological work by Shaun Gallagher and Dan Zahavi distinguishes the *narrative self* from a more basic [[self-and-consciousness|minimal self]]—a pre-reflective first-person perspective present whenever consciousness is present.
+
+The minimal self doesn't depend on narrative construction. It is the "for-me-ness" of experience: every conscious state has a built-in first-personal character. You don't need to think "I am experiencing this" for the experience to be yours. This basic experiential structure exists even in infants before narrative capacities develop, and in adults with severe amnesia who cannot construct coherent life stories.
+
+This distinction matters for personal identity. The narrative view may capture what we care about socially—the story we tell about who we are—while missing what persists *through* fragmented narratives: the minimal self. If narrative identity fragments (as in dementia), something may nonetheless persist: *this* first-person perspective, the same subject having the experiences.
+
+The minimal self provides what the narrative self presupposes. One cannot construct a life story without a basic experiential core having the experiences to narrativize. This suggests personal identity may have layers: a narrative layer that changes dramatically over a lifetime, and a minimal layer—the bare perspectival character of experience—that persists throughout.
 
 ## Parfit's Challenge
 
@@ -157,6 +168,7 @@ This grounds a stronger sense of individual meaning. You're not just a pattern t
 
 ## Further Reading
 
+- [[self-and-consciousness]] — The minimal self and phenomenology of selfhood
 - [[split-brain-consciousness]] — Empirical evidence on consciousness unity and division
 - [[death-and-consciousness]] — What survival after death would require
 - [[meaning-of-life]] — Why personal existence matters
