@@ -3,7 +3,7 @@ title: "Quantum Consciousness Mechanisms"
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-01-14T14:45:00+00:00
+ai_modified: 2026-01-14T06:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,7 @@ concepts:
   - "[[mental-effort]]"
   - "[[binding-problem]]"
   - "[[attention]]"
+  - "[[measurement-problem]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-consciousness-mechanisms-2026-01-08]]"
@@ -31,9 +32,9 @@ This site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] 
 
 ## The Quantum Opening
 
-Standard quantum mechanics describes particles as existing in superpositions—simultaneously in multiple states—until "measured," at which point the superposition "collapses" to a definite outcome. The measurement problem asks: what counts as a measurement, and why does it collapse the superposition?
+Standard quantum mechanics describes particles as existing in superpositions—simultaneously in multiple states—until "measured," at which point the superposition "collapses" to a definite outcome. The [[measurement-problem|measurement problem]] asks: what counts as a measurement, and why does it collapse the superposition? As a 2025 review notes, "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Physics leaves this question open.
 
-If measurement genuinely requires something beyond the physical—consciousness, say—then consciousness has a role in determining physical outcomes. This is the opening quantum theories exploit.
+If measurement genuinely requires something beyond the physical—consciousness, say—then consciousness has a role in determining physical outcomes. This is the opening quantum theories exploit. The measurement problem creates logical space for consciousness at collapse—something must select among possibilities, and physics doesn't specify what.
 
 The site's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the alternative: that all outcomes occur in branching universes and consciousness just "finds itself" in one branch. If collapse is real and outcomes are genuinely undetermined until selected, something must do the selecting. Consciousness is a candidate.
 
@@ -180,6 +181,7 @@ The decoherence objection remains the most serious challenge. If quantum coheren
 
 ## Further Reading
 
+- [[measurement-problem]] — Why the measurement problem creates logical space for consciousness
 - [[attention]] — The attention-consciousness dissociation and its implications for Stapp's mechanism
 - [[binding-problem]] — How quantum entanglement may solve phenomenal unity
 - [[mental-effort]] — Detailed treatment of phenomenology of effort and Stapp's mechanism
