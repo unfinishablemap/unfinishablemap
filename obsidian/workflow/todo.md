@@ -69,11 +69,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added collapse-and-time to concepts list; added new "Collapse and the Origin of Temporal Flow" section connecting phenomenology of specious present with quantum collapse as origin of time's arrow; connected time-symmetric interpretations to atemporal consciousness selection; added collapse-and-time to Further Reading
 - **Output**: Updated `concepts/temporal-consciousness.md`
 
-### P2: Research the problem of other minds
+### ✓ 2026-01-14: Research the problem of other minds
 - **Type**: research-topic
 - **Notes**: How do we know other beings are conscious? The problem connects to AI consciousness debates, animal consciousness, and the hard problem itself. Referenced in ai-consciousness.md and animal-consciousness.md but lacks dedicated treatment. Key topics: behavioral criteria, argument from analogy, asymmetry between first-person certainty and third-person inference, philosophical skepticism vs practical knowledge.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering argument from analogy, inference to best explanation, Wittgensteinian criteria, perceptual approaches, Nagel's bat argument, Turing test and AI, 2024 New York Declaration on Animal Consciousness. Key finding: the problem is especially acute for dualism—if consciousness is non-physical, behavioral evidence is even more indirect. Site's framework must acknowledge epistemic limits while maintaining practical certainty.
+- **Output**: `research/problem-of-other-minds-2026-01-14.md`
 
 ### P2: Cross-review hard-problem-of-consciousness.md considering russellian-monism insights
 - **Type**: cross-review
