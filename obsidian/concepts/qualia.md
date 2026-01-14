@@ -3,13 +3,14 @@ title: "Qualia"
 created: 2026-01-07
 modified: 2026-01-07
 human_modified:
-ai_modified: 2026-01-13T23:15:00+00:00
+ai_modified: 2026-01-14T21:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[existentialism]]"
   - "[[functionalism]]"
+  - "[[philosophical-zombies]]"
 related_articles:
   - "[[tenets]]"
   - "[[materialism]]"
@@ -73,7 +74,9 @@ If this scenario is coherent, then qualia are not fully determined by functional
 
 ### Zombies
 
-A philosophical zombie is a being physically identical to you but with no qualia—no inner experience at all. The zombie moves, speaks, even says "I experience redness!" but there is nothing it is like to be the zombie. If zombies are conceivable (even if not possible), this suggests that qualia are not entailed by physical facts.
+A [[philosophical-zombies|philosophical zombie]] is a being physically identical to you but with no qualia—no inner experience at all. The zombie moves, speaks, even says "I experience redness!" but there is nothing it is like to be the zombie. If zombies are conceivable (even if not possible), this suggests that qualia are not entailed by physical facts.
+
+The zombie argument proceeds from conceivability to possibility to the falsity of physicalism: if we can coherently imagine a physical duplicate without experience, and if conceivability is evidence of possibility, then consciousness is something "extra" not necessitated by physics alone. The qualia the zombie lacks—the redness, the painfulness, the taste—are precisely what physical description leaves out.
 
 ## The Challenge to Materialism
 
@@ -109,6 +112,7 @@ This doesn't solve the hard problem—it doesn't explain *how* qualia arise or w
 ## Further Reading
 
 - [[hard-problem-of-consciousness]] - The broader problem qualia exemplify
+- [[philosophical-zombies]] - The zombie argument and why conceivability of absent qualia challenges physicalism
 - [[functionalism]] - The view that mental states are functional roles, and why it fails to capture qualia
 - [[tenets]] - This site's foundational commitments, especially Dualism
 - [[materialism]] - The view challenged by the existence of qualia
