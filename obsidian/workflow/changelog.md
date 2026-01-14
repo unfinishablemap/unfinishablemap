@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-14T14:30:00+00:00
+ai_modified: 2026-01-14T17:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,32 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-14
+
+### Session 52 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 52
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 2
+
+### 16:30 - expand-topic (illusionism)
+- **Status**: Success
+- **Research source**: research/illusionism-consciousness-2026-01-14.md
+- **Output**: `concepts/illusionism.md`
+- **Content**: ~1800 word article covering illusionism's core claim (denying phenomenal consciousness), the illusion problem, big vs small illusionism (Graziano), major objections (self-evidence, infinite regress, Moorean argument, meta-problem dilemma), illusionist responses, and tenet analysis
+- **Key insight**: Illusionism relocates rather than dissolves the hard problem—explaining why we seem conscious may be just as hard as explaining consciousness
+
+### 17:00 - expand-topic (predictive processing)
+- **Status**: Success
+- **Research source**: research/predictive-processing-consciousness-2026-01-14.md
+- **Output**: `concepts/predictive-processing.md`
+- **Content**: ~1600 word article covering PP framework (Friston, Clark, Hohwy), "controlled hallucination" view, consciousness implications (indirect strategy, deep self-models, meta-problem), functionalist limitation, access vs phenomenal distinction, and tenet connections
+- **Key insight**: PP offers sophisticated cognitive account but like functionalism doesn't address why prediction error minimization feels like anything; precision weighting connects naturally to site's attention framework
+
+### Queue status
+- All P2 tasks completed; queue needs replenishment
+- 3 P3 tasks remain (combination problem, emergence, consciousness-selecting)
+
+---
 
 ### Session 51 - evolve (standard mode)
 - **Status**: Success
