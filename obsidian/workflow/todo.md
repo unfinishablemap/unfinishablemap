@@ -45,11 +45,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added collapse-and-time to concepts list; added paragraph in Temporal Phenomenology section connecting phenomenology of time's flow to consciousness's possible role in collapse and creating irreversibility; reframed temporal hard problem as "is consciousness part of why time flows at all?"; added collapse-and-time to Further Reading
 - **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
-### P2: Cross-review hard-problem-of-consciousness.md considering near-death-experiences insights
+### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering near-death-experiences insights
 - **Type**: cross-review
 - **Notes**: New article concepts/near-death-experiences.md documents 40% awareness during cardiac arrest (AWARE II), veridical perception cases, and the paradox of heightened experience when brain function is minimal. Review topics/hard-problem-of-consciousness.md for opportunities to reference this empirical evidence—NDEs provide striking phenomenological data against simple brain-production models.
 - **Source**: chain (from near-death-experiences.md)
 - **Generated**: 2026-01-14
+- **Result**: Added near-death-experiences to concepts list; created new "Empirical Anomalies: Near-Death Experiences" section after NCC section covering AWARE II findings, paradox of heightened experience, and filter-vs-generator interpretation; added near-death-experiences to Further Reading
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
 ### P2: Cross-review quantum-consciousness.md considering collapse-and-time insights
 - **Type**: cross-review
