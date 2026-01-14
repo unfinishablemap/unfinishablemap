@@ -3,7 +3,7 @@ title: Tenets
 created: 2026-01-02
 modified: 2026-01-02
 human_modified: 2026-01-02T14:18:31+00:00
-ai_modified: 2026-01-14T23:45:00+00:00
+ai_modified: 2026-01-15T00:00:00+00:00
 draft: false
 topics: []
 concepts:
@@ -12,6 +12,7 @@ concepts:
   - "[[materialism]]"
   - "[[decoherence]]"
   - "[[substance-property-dualism]]"
+  - "[[arguments-for-dualism]]"
 related_articles: []
 ai_contribution: 0
 author: Andy Southgate
@@ -27,7 +28,7 @@ There is more than just matter involved in reality. ^dualism
 
 **Definition:** Dualism here means that consciousness (or mind, or experience) is not reducible to physical processes. There exists something beyond the material—whether substance, property, or aspect—that cannot be fully explained by physics alone. This commitment is neutral between [[substance-property-dualism|substance and property dualism]]—Descartes' view that mind is a separate kind of thing, versus the view that physical systems have irreducible phenomenal properties. What matters is irreducibility, not the specific ontological framework. Combined with the Bidirectional Interaction tenet below, this commits the site to [[interactionist-dualism]]—the position that mind and body are distinct yet causally connected.
 
-**Rationale:** The explanatory gap between physical descriptions and subjective experience remains unbridged. No amount of neurological detail tells us *why* there is something it is like to be conscious. [[materialism|Materialism]]—in all its forms from reductive physicalism to eliminativism—fails to close this gap. The knowledge argument (Mary's Room), conceivability arguments (zombies), and the intrinsic character of [[qualia]] all point to something beyond the physical.
+**Rationale:** The explanatory gap between physical descriptions and subjective experience remains unbridged. No amount of neurological detail tells us *why* there is something it is like to be conscious. [[materialism|Materialism]]—in all its forms from reductive physicalism to eliminativism—fails to close this gap. Multiple independent [[arguments-for-dualism|positive arguments for dualism]] converge on the same conclusion: consciousness has features that physical description cannot capture. The [[knowledge-argument|knowledge argument]] (Mary's Room) shows that phenomenal facts exceed physical facts. [[philosophical-zombies|Conceivability arguments]] demonstrate that consciousness is logically separable from physical structure. Arguments from [[qualia]]—the explanatory gap, inverted qualia, intrinsic nature—reveal the limits of functional and structural description. The unity of consciousness and the intentionality of mental states each provide additional support.
 
 **Rules out:** Eliminative materialism, reductive physicalism, and any view that treats consciousness as purely [[epiphenomenalism|epiphenomenal]] or illusory. See [[materialism]] for detailed engagement with the materialist position and its failures.
 
