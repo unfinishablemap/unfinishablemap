@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-01-14 23:15:00+00:00
+ai_modified: 2026-01-15 00:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,7 @@ concepts:
 - '[[neural-correlates-of-consciousness]]'
 - '[[temporal-consciousness]]'
 - '[[binding-problem]]'
+- '[[intentionality]]'
 created: 2026-01-06
 date: &id001 2026-01-13
 draft: false
@@ -83,6 +84,20 @@ Philosophers distinguish two versions (Revonsuo 2006). BP1, the "segregation pro
 BP2 is a version of the hard problem. Classical approaches to binding—neural synchrony, attention, global workspace broadcasting—propose mechanisms where separate processes *interact* or *correlate*. But interaction between distinct entities doesn't make them *one* entity. Synchronized firing is still firing in separate neurons. Workspace broadcasting is still information in distinct processors. Explaining how features computationally combine doesn't explain why combination *feels* unified.
 
 This may be where quantum approaches become relevant. Quantum entanglement produces genuine physical holism—entangled systems form unified wholes that cannot be decomposed into separate parts with definite states. If [quantum mechanisms](/concepts/quantum-consciousness/) operate in consciousness, the phenomenal unity of experience might reflect the physical unity of underlying quantum states. The whole is not assembled from parts; it was never fully separable to begin with.
+
+## Intentionality: The Aboutness of Mind
+
+The hard problem concerns qualitative character—the redness of red, the painfulness of pain. But consciousness has another dimension that resists physical explanation: [intentionality](/concepts/intentionality/), the "aboutness" of mental states.
+
+When you believe that snow is white, your belief is *about* snow. When you fear a spider, your fear is *directed at* the spider. Franz Brentano argued this directedness is "the mark of the mental"—the feature distinguishing mental phenomena from physical phenomena. A rock is not *about* anything. A thought always is.
+
+Three features distinguish intentional states from physical relations. First, **directedness**: mental states are always *about* something—you cannot simply believe, you must believe *that* something is the case. Second, **aspectuality**: we represent things under particular descriptions—Oedipus wanted to marry Jocasta, not "his mother," though they were the same person. Third, **possible non-existence**: thoughts can be about things that don't exist—you can search for unicorns, hope for impossible outcomes, fear nonexistent threats.
+
+These features resist physicalist explanation. Philosophers have attempted to naturalize intentionality for over a century—causal theories, teleosemantic theories, informational theories—but none has achieved consensus. The "aboutness" of thought cannot be reduced to causal chains, evolutionary history, or information-carrying correlations.
+
+Phenomenal Intentionality Theory (PIT) proposes that intentionality actually derives from phenomenal consciousness—from "what it's like" to be in a mental state. If PIT is correct, the implications are significant: explaining intentionality requires first solving the hard problem. We cannot understand how minds are *about* things until we understand how minds have subjective character at all.
+
+This means the hard problem has two faces. First, why is there qualitative experience—why does red look *like that*? Second, why are mental states *about* anything—why does thinking about Paris genuinely concern Paris rather than merely correlating with Paris-related inputs? Both seem to outstrip what physical explanation can provide. Both may be aspects of the same fundamental mystery.
 
 ## The Zombie Thought Experiment
 
@@ -212,6 +227,7 @@ Whether this specific proposal is correct matters less than the underlying point
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Why empirical progress doesn't solve the problem
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The temporal structure that also needs explaining
 - [binding-problem](/concepts/binding-problem/) — How phenomenal unity extends the hard problem
+- [intentionality](/concepts/intentionality/) — The "aboutness" of mind and why it resists naturalization
 - [Against Materialism](/arguments/materialism/) — Why physicalist explanations fail
 - [qualia](/concepts/qualia/) — The qualitative character of experience
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness is causally inert
