@@ -3,7 +3,7 @@ title: "Qualia"
 created: 2026-01-07
 modified: 2026-01-07
 human_modified:
-ai_modified: 2026-01-14T18:20:00+00:00
+ai_modified: 2026-01-14T12:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[philosophical-zombies]]"
   - "[[phenomenal-concepts-strategy]]"
   - "[[illusionism]]"
+  - "[[knowledge-argument]]"
 related_articles:
   - "[[tenets]]"
   - "[[materialism]]"
@@ -64,9 +65,9 @@ Several famous thought experiments illuminate what qualia are and why they pose 
 
 ### Mary's Room
 
-Frank Jackson's knowledge argument: Mary is a brilliant scientist who knows every physical fact about colour vision, but has lived her entire life in a black-and-white room. When she finally sees colour for the first time, does she learn something new?
+Frank Jackson's [[knowledge-argument|knowledge argument]] provides perhaps the most vivid demonstration that qualia are epistemically distinct from physical properties. Mary is a brilliant scientist who knows every physical fact about colour vision—wavelengths, neural pathways, brain states—but has lived her entire life in a black-and-white room. When she finally sees colour for the first time, does she learn something new?
 
-If yes—if there is something Mary learns that she couldn't deduce from all the physical facts—then physical facts don't exhaust reality. The quale of redness is something over and above the physical.
+If yes—and 82% of non-philosophers agree that she would—then physical facts don't exhaust reality. The quale of redness is something over and above the physical. Mary's situation dramatizes the core claim about qualia: complete physical knowledge leaves the qualitative character of experience unaddressed. See [[knowledge-argument]] for detailed treatment of physicalist responses (the ability hypothesis, phenomenal concepts strategy) and why they fail.
 
 ### Inverted Qualia
 
@@ -135,6 +136,7 @@ This doesn't solve the hard problem—it doesn't explain *how* qualia arise or w
 
 ## Further Reading
 
+- [[knowledge-argument]] - The knowledge argument (Mary's Room) dramatizing qualia's epistemic distinctness
 - [[hard-problem-of-consciousness]] - The broader problem qualia exemplify
 - [[philosophical-zombies]] - The zombie argument and why conceivability of absent qualia challenges physicalism
 - [[functionalism]] - The view that mental states are functional roles, and why it fails to capture qualia
