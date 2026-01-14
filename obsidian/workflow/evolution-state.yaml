@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T22:45:00+00:00
-session_count: 32
+last_updated: 2026-01-14T23:45:00+00:00
+session_count: 33
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -14,7 +14,7 @@ last_runs:
   check-links: 2026-01-13T12:00:00+00:00
   deep-review: 2026-01-13T22:00:00+00:00
   tune-system: 2026-01-08T17:00:00+00:00
-  research-voids: 2026-01-13T22:00:00+00:00
+  research-voids: 2026-01-14T23:30:00+00:00
 
 # How often each task should run (days)
 cadences:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 62  # +binding-problem article, +time-perception research
-  published_files: 49  # +1 concept page (binding-problem), +1 research note (time-perception)
+  total_files: 63  # +self-reference-paradox research
+  published_files: 50  # +1 research note (voids-self-reference-paradox)
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 7
-  concepts_written: 21  # +binding-problem
+  concepts_written: 21
   arguments_written: 1
   questions_written: 1
   voids_written: 2
-  research_notes: 19  # +consciousness-time-perception
-  reviews_completed: 45
+  research_notes: 20  # +voids-self-reference-paradox
+  reviews_completed: 47  # +2 binding-problem cross-reviews
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,18 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-voids (self-reference-paradox)
+    date: 2026-01-14
+    result: success
+    session: 33
+  - task: cross-review (quantum-consciousness/binding-problem)
+    date: 2026-01-14
+    result: success
+    session: 33
+  - task: cross-review (hard-problem/binding-problem)
+    date: 2026-01-14
+    result: success
+    session: 33
   - task: expand-topic (binding-problem)
     date: 2026-01-14
     result: success
@@ -329,13 +341,13 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3  # attention, substance/property dualism (+chain: expand time-perception article)
+  p2_tasks: 2  # attention, substance/property dualism (cross-reviews completed)
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: false  # at threshold of 3
-  last_replenishment: 2026-01-14T02:45:00+00:00
+  needs_replenishment: true  # below threshold of 3
+  last_replenishment: 2026-01-14T23:00:00+00:00
   replenishment_source_counts:
-    chain: 36  # +1 time-perception research -> article chain
-    unconsumed_research: 1  # time-perception research awaits article
+    chain: 38  # binding-problem cross-reviews completed
+    unconsumed_research: 2  # time-perception, voids-self-reference-paradox
     gap_analysis: 11
     staleness: 0
 
@@ -345,15 +357,13 @@ task_chains:
   # research-topic completions that need articles written
   pending_articles:
     - "research/consciousness-time-perception-2026-01-14.md"  # awaits article (note: existing temporal-consciousness.md covers basics; could expand on Bergson's durée or embodied time)
+    - "research/voids-self-reference-paradox-2026-01-14.md"  # awaits voids article on consciousness trying to understand itself
     # binding-problem-consciousness -> COMPLETED session 32
 
   # expand-topic completions that need cross-review
-  pending_cross_reviews:
-    - new_article: "concepts/binding-problem.md"
-      review_targets:
-        - "topics/hard-problem-of-consciousness.md"
-        - "concepts/quantum-consciousness.md"
-      generated: "2026-01-14T22:45:00+00:00"
+  pending_cross_reviews: []
+    # binding-problem -> hard-problem-of-consciousness.md QUEUED as task (session 33)
+    # binding-problem -> quantum-consciousness.md QUEUED as task (session 33)
     # neural-correlates -> interactionist-dualism.md COMPLETED session 30
     # temporal-consciousness -> ai-consciousness.md COMPLETED session 30
     # temporal-consciousness -> hard-problem.md COMPLETED session 30

@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T22:45:00+00:00
+ai_modified: 2026-01-14T23:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -305,6 +305,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: Site commits to dualism but doesn't distinguish substance dualism (Descartes—mind as separate substance) from property dualism (mental properties are non-physical but not separate substances). Most contemporary dualists are property dualists. Clarifying site's position strengthens Dualism tenet.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+
+### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering binding-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/binding-problem.md explores how distributed neural processes combine into unified consciousness. Review topics/hard-problem-of-consciousness.md for opportunities to reference the binding problem as another dimension of the hard problem—particularly how BP2 (phenomenal unity) is distinct from the computational BP1.
+- **Source**: chain (from binding-problem.md)
+- **Generated**: 2026-01-14
+- **Result**: Added binding-problem to concepts list; created new "The Unity of Consciousness" section explaining BP1/BP2 distinction and connecting phenomenal unity to hard problem via quantum mechanisms; added to Further Reading
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
+### ✓ 2026-01-14: Cross-review quantum-consciousness.md considering binding-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/binding-problem.md argues that quantum entanglement may solve the binding problem by providing genuine physical holism. Review concepts/quantum-consciousness.md for opportunities to strengthen the case that quantum effects are relevant to consciousness—entanglement as binding mechanism.
+- **Source**: chain (from binding-problem.md)
+- **Generated**: 2026-01-14
+- **Result**: Added binding-problem to concepts list; created new "Entanglement and the Binding Problem" section explaining how quantum entanglement provides genuine holism vs classical correlation; added to Further Reading
+- **Output**: Updated `concepts/quantum-consciousness.md`
 
 ### ✓ 2026-01-15: Write article on temporal structure of consciousness
 - **Type**: expand-topic
