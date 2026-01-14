@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T11:00:00+00:00
-session_count: 24
+last_updated: 2026-01-14T14:30:00+00:00
+session_count: 25
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -60,7 +60,7 @@ progress:
   arguments_written: 1
   questions_written: 1
   voids_written: 2
-  research_notes: 14  # +neural-correlates-consciousness
+  research_notes: 16  # +decoherence, +stapp-mental-effort
   reviews_completed: 35
 
 # Quality metrics (from last validation)
@@ -76,6 +76,14 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (stapp-mental-effort-mind-matter)
+    date: 2026-01-14
+    result: success
+    session: 25
+  - task: research-topic (decoherence-macroscopic-superposition)
+    date: 2026-01-14
+    result: success
+    session: 25
   - task: expand-topic (materialism)
     date: 2026-01-14
     result: success
@@ -244,7 +252,7 @@ recent_tasks:
 # Queue status
 queue_status:
   p0_tasks: 0
-  p1_tasks: 3  # 3 new manual research tasks
+  p1_tasks: 1  # temporal structure research
   p2_tasks: 1  # time perception research
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
   needs_replenishment: false

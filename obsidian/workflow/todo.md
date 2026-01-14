@@ -37,17 +37,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Research decoherence and macroscopic superposition
+### ✓ 2026-01-14: Research decoherence and macroscopic superposition
 - **Type**: research-topic
 - **Notes**: Schrödinger's cat was warm and macroscopic yet in a superposed state. Explore coherence time, what decoherence really means in this context, and whether neural firing patterns could exhibit similar superposition behavior despite being "warm and wet." Key question: does decoherence necessarily prevent quantum effects in biological systems?
 - **Source**: manual
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering SEP treatment of decoherence, Tegmark vs. Hameroff debate, "hot" Schrödinger cat states (1.8K, April 2025), quantum biology evidence, nanoparticle matter-wave interference (7000+ atoms). Key finding: decoherence does NOT solve measurement problem; boundary between quantum and classical keeps shifting; the objection is weaker than assumed.
+- **Output**: `research/decoherence-macroscopic-superposition-2026-01-14.md`
 
-### P1: Research Stapp on mental effort and mind-matter interaction
+### ✓ 2026-01-14: Research Stapp on mental effort and mind-matter interaction
 - **Type**: research-topic
 - **Notes**: Verify Henry Stapp's claim that it takes effort to control the mind—to override its own wants and needs. If confirmed, explore how this phenomenology of effortful attention might be a clue to the mechanism by which consciousness influences matter (quantum Zeno effect requiring sustained attention).
 - **Source**: manual
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering Stapp's quantum Zeno mechanism, William James's phenomenology of effort, Schwartz's OCD neuroplasticity evidence, Georgiev's critique. Key finding: phenomenology of effort is well-documented (James, Kahneman); Schwartz's therapy produces measurable brain changes; mechanism details remain debated but phenomenology supports Bidirectional Interaction.
+- **Output**: `research/stapp-mental-effort-mind-matter-2026-01-14.md`
 
 ### P1: Research temporal structure of different consciousness types
 - **Type**: research-topic
