@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T23:15:00+00:00
+ai_modified: 2026-01-14T23:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research embodied cognition and the extended mind
-- **Type**: research-topic
-- **Notes**: The embodied cognition program (Clark, Thompson, Noë) argues that cognition is shaped by the body and extended into the environment. Key questions for site: Does embodiment challenge or complement dualism? Can the filter theory accommodate embodied cognition? How does embodiment relate to the mind-brain separation framework? Connects to mind-brain-separation, phenomenology, and AI consciousness discussions.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-14
-
 ### P2: Research the self and consciousness
 - **Type**: research-topic
 - **Notes**: What is the relationship between consciousness and the sense of self? Distinct from personal identity (which focuses on persistence), this concerns the phenomenology and metaphysics of selfhood in conscious experience. Key areas: minimal self vs narrative self (Gallagher, Zahavi), self-model theory (Metzinger), no-self traditions (Buddhism), and implications for dualism. Connects to self-reference-paradox, Eastern philosophy, and hard problem articles.
@@ -68,6 +62,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-14: Research embodied cognition and the extended mind
+- **Type**: research-topic
+- **Notes**: The embodied cognition program (Clark, Thompson, Noë) argues that cognition is shaped by the body and extended into the environment. Key questions for site: Does embodiment challenge or complement dualism? Can the filter theory accommodate embodied cognition? How does embodiment relate to the mind-brain separation framework? Connects to mind-brain-separation, phenomenology, and AI consciousness discussions.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering 4E cognition (embodied, embedded, enacted, extended), Clark & Chalmers' extended mind thesis, enactivism (Thompson, Noë, Varela), Adams & Aizawa's critique, and AI grounding problem. Key finding: embodied cognition opposes Cartesian substance dualism but is compatible with property dualism; phenomenological roots (Husserl, Merleau-Ponty) support first-person irreducibility; filter theory can accommodate embodiment—body shapes interface without producing consciousness.
+- **Output**: `research/embodied-cognition-extended-mind-2026-01-14.md`
 
 ### ✓ 2026-01-14: Research neurophenomenology and meditation studies
 - **Type**: research-topic
