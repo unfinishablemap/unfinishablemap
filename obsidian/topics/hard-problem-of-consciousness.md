@@ -3,7 +3,7 @@ title: "The Hard Problem of Consciousness"
 created: 2026-01-06
 modified: 2026-01-13
 human_modified:
-ai_modified: 2026-01-14T18:15:00+00:00
+ai_modified: 2026-01-14T19:15:00+00:00
 draft: false
 topics: []
 concepts:
@@ -19,6 +19,7 @@ concepts:
   - "[[binding-problem]]"
   - "[[intentionality]]"
   - "[[illusionism]]"
+  - "[[predictive-processing]]"
 related_articles:
   - "[[tenets]]"
   - "[[materialism]]"
@@ -156,6 +157,8 @@ This is physicalism's most radical option. Rather than closing the explanatory g
 
 **Non-reductive physicalism** concedes that consciousness isn't reducible but claims it's still "physical"—fully determined by physical facts even if not identical to them. This doesn't close the explanatory gap; it just relabels it. See [[materialism#Varieties of Materialism|varieties of materialism]] for detailed treatment of each position and its failures.
 
+**[[predictive-processing|Predictive processing]]** represents the most sophisticated contemporary functionalism. The brain builds hierarchical predictive models of the world; perception is "controlled hallucination" constrained by sensory feedback. PP explains much about cognitive mechanisms—how attention works, why perception is constructive, how learning refines predictions. Yet even PP proponents acknowledge their framework "in and of itself makes no claims about subjective experience." Explaining that perception is predictive doesn't explain why prediction feels like anything. PP illustrates rather than solves the explanatory gap: we can describe increasingly detailed mechanisms while the phenomenal question remains untouched.
+
 ### Epiphenomenalism
 
 [[epiphenomenalism|Epiphenomenalism]] represents an unexpected response to the hard problem: accept it completely, then minimize its consequences.
@@ -235,6 +238,7 @@ Whether this specific proposal is correct matters less than the underlying point
 - [[epiphenomenalism]] — The view that consciousness is causally inert
 - [[illusionism]] — The radical denial of phenomenal consciousness
 - [[functionalism]] — The view that mental states are functional roles
+- [[predictive-processing]] — The most sophisticated contemporary functionalism
 - [[integrated-information-theory]] — A mathematical theory identifying consciousness with integrated information
 - [[quantum-consciousness]] — How quantum mechanics might relate to consciousness
 - [[apophatic-approaches]] — Methods for approaching what may exceed human understanding
