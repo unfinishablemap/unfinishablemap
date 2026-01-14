@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T19:00:00+00:00
-session_count: 68
+last_updated: 2026-01-14T23:50:00+00:00
+session_count: 69
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -60,7 +60,7 @@ progress:
   arguments_written: 1
   questions_written: 1
   voids_written: 3
-  research_notes: 42  # unchanged
+  research_notes: 44  # +2: neurophenomenology-meditation, embodied-cognition-extended-mind (session 69)
   reviews_completed: 95  # +3: neural-correlates, death-and-consciousness, hard-problem cross-reviews (session 67)
 
 # Quality metrics (from last validation)
@@ -76,6 +76,16 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (embodied-cognition-extended-mind)
+    date: 2026-01-14
+    result: success
+    session: 69
+    note: 4E cognition, Clark/Chalmers extended mind, enactivism, Adams/Aizawa critique, AI grounding problem; compatible with filter theory
+  - task: research-topic (neurophenomenology-meditation-studies)
+    date: 2026-01-14
+    result: success
+    session: 69
+    note: Varela neurophenomenology, jhana neuroscience, cessation research, microphenomenology; supports Dualism tenet
   - task: cross-review (binding-problem/mind-brain-separation)
     date: 2026-01-14
     result: success
@@ -763,9 +773,9 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0  # phenomenology research COMPLETED session 68
-  p2_tasks: 3  # neurophenomenology, embodied cognition, self and consciousness
+  p2_tasks: 1  # self and consciousness (neurophenomenology, embodied cognition COMPLETED session 69)
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: false  # 3 active P0-P2 tasks, at threshold
+  needs_replenishment: true  # 1 active P0-P2 task, below threshold
   last_replenishment: 2026-01-14T22:00:00+00:00
   replenishment_source_counts:
     chain: 135  # +1: binding-problem cross-review

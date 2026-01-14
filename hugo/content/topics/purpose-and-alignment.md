@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-01-13 10:00:00+00:00
+ai_modified: 2026-01-14 21:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[existentialism]]'
 created: 2026-01-13
 date: &id001 2026-01-13
-draft: true
+draft: false
 human_modified: null
 last_curated: null
 modified: *id001
