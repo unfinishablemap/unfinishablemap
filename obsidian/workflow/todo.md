@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T11:15:00+00:00
+ai_modified: 2026-01-14T06:10:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -100,6 +100,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-14
 - **Result**: Comprehensive research covering Copenhagen, Many-Worlds, Bohmian mechanics, GRW/CSL collapse theories, Penrose OR, and consciousness-based interpretations. Key finding: decoherence does NOT solve the problem—"the problem of outcomes is still open." This directly supports Minimal Quantum Interaction tenet by showing physics leaves room for consciousness at collapse. No Many Worlds tenet supported by MWI's indexical identity problems.
 - **Output**: `research/measurement-problem-quantum-mechanics-2026-01-14.md`
+
+### ✓ 2026-01-14: Cross-review quantum-consciousness.md considering measurement-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/measurement-problem.md provides comprehensive treatment of the measurement problem, explaining why decoherence doesn't solve it and why consciousness remains a candidate selector. Review concepts/quantum-consciousness.md for opportunities to reference the measurement-problem article in the "Quantum Opening" section which mentions the measurement problem but doesn't link to the dedicated article.
+- **Source**: chain (from measurement-problem.md)
+- **Generated**: 2026-01-14
+- **Result**: Added measurement-problem to concepts list; linked measurement problem in "Quantum Opening" section with 2025 review quote about outcomes remaining open; emphasized that physics doesn't specify the selector; added measurement-problem to Further Reading
+- **Output**: Updated `concepts/quantum-consciousness.md`
+
+### ✓ 2026-01-14: Cross-review decoherence.md considering measurement-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/measurement-problem.md argues that decoherence doesn't solve the measurement problem—a key point for concepts/decoherence.md. Review for opportunities to strengthen the "What Decoherence Does Not Do" section by cross-referencing the dedicated measurement-problem treatment.
+- **Source**: chain (from measurement-problem.md)
+- **Generated**: 2026-01-14
+- **Result**: Added measurement-problem to concepts list; linked measurement-problem in "What Decoherence Does Not Do" section; added 2025 review quote and reference to dedicated measurement-problem article exploring interpretations; added measurement-problem to Further Reading
+- **Output**: Updated `concepts/decoherence.md`
 
 ### P2: Research Global Workspace Theory (GWT)
 - **Type**: research-topic
