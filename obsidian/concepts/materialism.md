@@ -3,7 +3,7 @@ title: "Materialism"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T19:30:00+00:00
+ai_modified: 2026-01-14T12:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,6 +12,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[philosophical-zombies]]"
   - "[[illusionism]]"
+  - "[[knowledge-argument]]"
 related_articles:
   - "[[tenets]]"
   - "[[epiphenomenalism]]"
@@ -89,7 +90,9 @@ Physical descriptions of brain states never explain *why* those states feel like
 
 ### The Knowledge Argument
 
-Mary, the color scientist who knows all physical facts about color vision but has never seen color, seems to learn something new upon seeing red. If physical facts were all the facts, she couldn't learn anything new—she already knew them all. But she does learn what seeing red is *like*. So there are non-physical facts. (Jackson's original argument, though Jackson himself later recanted.)
+[[knowledge-argument|Mary's Room thought experiment]] is perhaps the most intuitive argument against physicalism. Mary, a brilliant color scientist confined to a black-and-white room, knows every physical fact about color vision—wavelengths, neural pathways, brain states. Yet when she first sees red, she learns something new: what it's *like* to see red. If physical facts were all the facts, she couldn't learn anything—she already knew them. But she does. So there are facts beyond physical facts, and physicalism is false.
+
+The argument's force persists despite sophisticated physicalist responses. The ability hypothesis (she gains skills, not knowledge) and phenomenal concepts strategy (she gains new concepts for the same facts) each face decisive objections detailed in [[knowledge-argument]]. Notably, Jackson himself later rejected the argument—but his epiphenomenalism worry actually strengthens the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: if consciousness were causally inert, Mary couldn't form beliefs about her new experiences.
 
 ### The Conceivability Arguments
 
@@ -147,6 +150,7 @@ Materialism remains the consensus position in academic philosophy. The site hold
 
 ## Further Reading
 
+- [[knowledge-argument]] — The knowledge argument (Mary's Room) in detail
 - [[explanatory-gap]] — What physical explanations leave out
 - [[philosophical-zombies]] — The zombie argument against materialism in detail
 - [[hard-problem-of-consciousness]] — The problem materialism cannot solve
