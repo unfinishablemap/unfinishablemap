@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T13:00:00+00:00
+ai_modified: 2026-01-14T21:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -157,23 +157,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~2100 word article covering the division of faculties (intrinsic to mind vs clearly neural vs interface), vision as case study (3D world problem, smooth motion puzzle, blindsight), filter theory framework (James, Bergson, Huxley), and rendering engine analogy.
 - **Output**: `concepts/mind-brain-separation.md`
 
-### P2: Cross-review neural-correlates-of-consciousness.md considering loss-of-consciousness insights
+### ✓ 2026-01-14: Cross-review neural-correlates-of-consciousness.md considering loss-of-consciousness insights
 - **Type**: cross-review
 - **Notes**: New article topics/loss-of-consciousness.md covers filter theory, covert consciousness, and the disconnection vs destruction interpretation. Review concepts/neural-correlates-of-consciousness.md for opportunities to connect NCCs with filter theory—correlates may indicate interface points rather than generators.
 - **Source**: chain (from loss-of-consciousness.md)
 - **Generated**: 2026-01-14
+- **Result**: Added loss-of-consciousness to concepts list; created new "Filter Theory: Correlates as Interface Points" section connecting NCCs with filter theory—covert consciousness, disconnection vs destruction, anesthetic dissociations all suggest NCCs identify interface points rather than production sites; added loss-of-consciousness to Further Reading.
+- **Output**: Updated `concepts/neural-correlates-of-consciousness.md`
 
-### P2: Cross-review death-and-consciousness.md considering loss-of-consciousness insights
+### ✓ 2026-01-14: Cross-review death-and-consciousness.md considering loss-of-consciousness insights
 - **Type**: cross-review
 - **Notes**: New article topics/loss-of-consciousness.md covers time vanishing under anesthesia, covert consciousness, and filter theory. Review topics/death-and-consciousness.md for opportunities to connect temporary loss of consciousness evidence to death's relationship with consciousness—if anesthesia involves disconnection not elimination, what does this suggest about death?
 - **Source**: chain (from loss-of-consciousness.md)
 - **Generated**: 2026-01-14
+- **Result**: Added loss-of-consciousness to concepts list; created new "Temporary Loss of Consciousness: A Preview of Death?" section connecting time vanishing under anesthesia, covert consciousness (25% unresponsive patients aware), and disconnection syndromes to death—if relationship is disconnection not production, death may be ultimate disconnection rather than annihilation; added loss-of-consciousness to Further Reading.
+- **Output**: Updated `topics/death-and-consciousness.md`
 
-### P2: Cross-review hard-problem-of-consciousness.md considering mind-brain-separation insights
+### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering mind-brain-separation insights
 - **Type**: cross-review
 - **Notes**: New article concepts/mind-brain-separation.md analyzes which faculties appear intrinsic to mind vs brain, presents the filter theory framework, and uses vision as a case study. Review topics/hard-problem-of-consciousness.md for opportunities to reference the division of faculties and filter theory as supporting evidence for dualism.
 - **Source**: chain (from mind-brain-separation.md)
 - **Generated**: 2026-01-14
+- **Result**: Added mind-brain-separation to concepts list; created new "The Division of Faculties" section analyzing where hard problem bites hardest—qualia, phenomenal unity, metacognition appear intrinsic to mind while vegetative/sensory/motor functions are clearly neural; filter theory interprets this as ontological boundary not explanatory failure; added mind-brain-separation to Further Reading.
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
 ### P2: Cross-review binding-problem.md considering mind-brain-separation insights
 - **Type**: cross-review
