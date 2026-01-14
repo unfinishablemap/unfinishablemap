@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P1: Explore consciousness, collapse, and the arrow of time
+- **Type**: research-topic
+- **Notes**: Explore whether 'consciousness causes collapse' is relevant to the arrow of time. In a time-reversed scenario, would we see an un-collapse, and is that disallowed or non-physical? This connects to the retrocausality article and the Bidirectional Interaction tenet. Key questions: (1) Does wavefunction collapse define time's arrow independently of entropy? (2) If consciousness selects outcomes at collapse, does this inherently distinguish past from future? (3) What would "un-collapse" even mean—superposition restoration? (4) Does the time-symmetry of quantum equations conflict with irreversible collapse? (5) How does this relate to the site's rejection of Many Worlds (where collapse doesn't occur)?
+- **Source**: manual
+- **Generated**: 2026-01-14
+
 ### ✓ 2026-01-15: Write article on near-death experiences and consciousness
 - **Type**: expand-topic
 - **Notes**: Research completed in research/near-death-experiences-consciousness-2026-01-15.md. Covers Van Lommel's 2001 Lancet study, AWARE II results, 2022 RED terminology, gamma wave evidence (2024), veridical perception cases, materialist explanations. Key finding: ~40% of cardiac arrest survivors report awareness; evidence challenges brain-production models. Directly relevant to death-and-consciousness.md and site's framework on consciousness independence.
