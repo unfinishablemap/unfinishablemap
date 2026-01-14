@@ -742,11 +742,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~1800 word article covering illusionism's core claim, the illusion problem, big vs small illusionism (Graziano), major objections (self-evidence, infinite regress, Moorean, meta-problem dilemma), illusionist responses, and tenet analysis showing why the illusion problem may just relocate the hard problem
 - **Output**: `concepts/illusionism.md`
 
-### P2: Write article on predictive processing
+### ✓ 2026-01-14: Write article on predictive processing
 - **Type**: expand-topic
 - **Notes**: Research completed in research/predictive-processing-consciousness-2026-01-14.md. Covers PP framework (Friston, Clark, Hohwy), "controlled hallucination" view, active inference, deep self-models, and the meta-problem approach. Key finding: PP offers sophisticated cognitive framework but like other functionalist theories doesn't directly address hard problem. Important contemporary theory not yet covered.
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-14
+- **Result**: Created ~1600 word article covering PP framework, controlled hallucination view, Hohwy vs Clark approaches, consciousness implications (indirect strategy, deep self-models, meta-problem), functionalist limitation, and tenet analysis showing how PP could complement dualism's physical side
+- **Output**: `concepts/predictive-processing.md`
 
 ### P3: Create concept page for the combination problem
 - **Type**: expand-topic
