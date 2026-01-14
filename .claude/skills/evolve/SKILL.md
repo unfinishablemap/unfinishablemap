@@ -110,7 +110,7 @@ For each selected task:
    - Record outcome (success/failed/partial)
    - If failed: increment retry count in state
    - If 3+ failures: move to Blocked section in todo.md
-   - If success: mark completed in todo.md (see Completed Task Format below)
+   - If success: **move task to Completed section** in todo.md (see Completed Task Format below)
    - **If success AND task type generates chains**: update `task_chains` in state (see Task Chain Recording below)
 
 4. **Commit after each task** (for easy reversion):
@@ -253,7 +253,10 @@ When a task fails:
 
 ## Completed Task Format
 
-When marking a task as completed, preserve all original information and add execution details:
+When marking a task as completed:
+
+1. **Move the task** from `## Active Tasks` section to the **top** of `## Completed Tasks` section
+2. Reformat with completion details:
 
 ```markdown
 ### ✓ YYYY-MM-DD: [Task title from original]
@@ -263,7 +266,11 @@ When marking a task as completed, preserve all original information and add exec
 - **Output**: [Files created/modified]
 ```
 
+3. **Trim old completions**: If the Completed Tasks section exceeds 50 entries, remove the oldest entries (at the bottom) to keep only 50.
+
 **Important:** The original `Notes` field must be preserved exactly as written. This maintains the human's original intent and reasoning. Add execution details in the separate `Result` and `Output` fields.
+
+**Critical:** Tasks must be MOVED to the Completed section, not just modified in place. Leaving completed tasks in Active clutters the queue and makes it hard to see pending work.
 
 ## Task Chain Recording
 
