@@ -3,7 +3,7 @@ title: "Death and Consciousness"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T12:30:00+00:00
+ai_modified: 2026-01-14T15:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,6 +12,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[interactionist-dualism]]"
   - "[[neural-correlates-of-consciousness]]"
+  - "[[near-death-experiences]]"
 related_articles:
   - "[[tenets]]"
   - "[[meaning-of-life]]"
@@ -57,15 +58,19 @@ The site's [[interactionist-dualism]] leaves these questions open. What matters 
 
 ## Near-Death Experiences
 
-Near-death experiences (NDEs) provide intriguing, if contested, evidence. Common features include out-of-body perception, life review, encounters with deceased relatives, passage through tunnels toward light, and profound peace.
+[[near-death-experiences|Near-death experiences]] (NDEs)—now termed "Recalled Experience of Death" (RED) by a 2022 multidisciplinary consensus—provide intriguing, if contested, evidence for consciousness beyond brain function. The terminology shift matters: RED emphasizes that subjects recall awareness *during* documented physiological death, not merely near it.
 
-**2024-2025 research developments:**
+Common features include out-of-body perception, life review, encounters with deceased relatives, passage through tunnels toward light, and profound mental clarity. Crucially, approximately 40% of cardiac arrest survivors report some form of awareness during the event—yet only 18% in Van Lommel's landmark study reported full NDEs. Something distinguishes experiencers from non-experiencers, and that something remains unexplained.
 
-A University of Michigan study (2024) documented gamma wave surges in dying brains—the first human evidence of "end-of-life surge" previously only observed in rats. Two of four patients showed coherent gamma activity in regions associated with consciousness. This proves heightened brain activity can occur during dying.
+**Key research findings:**
 
-However, no patient in the study survived to confirm subjective experience. The surge might *cause* NDEs—or might merely coincide with them. Tanya Rivas and colleagues (2023) document over 120 cases of "veridical perception"—NDE subjects reporting details they couldn't have known through normal means. These cases remain controversial but resist easy dismissal.
+The AWARE II studies (culminating in 2023) documented systematic patterns across multiple hospital sites. A 2024 study documented gamma wave surges in dying brains—the first human evidence of "end-of-life surge" previously observed only in rats. Two of four patients showed coherent gamma activity in regions associated with consciousness, persisting for minutes after cardiac arrest.
 
-The philosophical significance: NDEs occur when brains are severely compromised. If consciousness depends entirely on neural function, heightened and coherent experience during brain failure is paradoxical. This doesn't prove survival, but it suggests the brain-consciousness relationship may be more complex than simple production.
+The philosophical significance: NDEs occur when brains are severely compromised. If consciousness depends entirely on neural function, heightened and coherent experience during brain failure is paradoxical. The "paradox of heightened experience" challenges simple brain-production models—subjects report mental clarity exceeding normal waking consciousness precisely when neural function should be at its lowest.
+
+Materialist explanations exist: ketamine-like effects from hypoxia, REM intrusion, temporal lobe seizures, dying brain activity causing hallucinations. None fully accounts for the phenomena. Ketamine produces fragmented experiences unlike NDE coherence. REM intrusion doesn't explain veridical perception cases. Temporal lobe seizures typically produce fear and confusion, not the peace NDEs consistently feature. And dying brain activity, while real, raises rather than answers the question: *why* does failing neural function produce heightened consciousness?
+
+This doesn't prove survival. But it strongly suggests the brain-consciousness relationship may be more complex than simple production. See [[near-death-experiences]] for detailed treatment of the evidence.
 
 ## The Quantum Soul Hypothesis
 
@@ -118,6 +123,7 @@ What the site claims: given its dualist commitments, survival is a *coherent pos
 
 ## Further Reading
 
+- [[near-death-experiences]] — The evidence from recalled experience of death
 - [[personal-identity]] — Why indexical identity matters for survival
 - [[quantum-consciousness]] — Mechanisms at the consciousness-physics interface
 - [[interactionist-dualism]] — The framework that makes survival coherent
