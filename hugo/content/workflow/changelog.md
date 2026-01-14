@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 20:00:00+00:00
+ai_modified: 2026-01-14 19:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -19,6 +19,55 @@ topics: []
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-14
+
+### Session 68 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 68
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 18:05 - research-topic (phenomenology and first-person methods)
+- **Status**: Success
+- **Output**: `research/phenomenology-first-person-methods-2026-01-14.md`
+- **Key findings**: Phenomenology (Husserl, Heidegger, Merleau-Ponty) provides systematic evidence for first-person irreducibility. Core method is epoché (bracketing assumptions to attend to experience structures). Heidegger shifted from consciousness to Dasein (being-in-the-world). Merleau-Ponty emphasized embodied consciousness. Varela's neurophenomenology integrates first-person reports with neuroscience. 2025 research emphasizes cognitive science needs phenomenology because "intuitive dualism" is empirically widespread. Strongly supports Dualism and Occam's Razor Has Limits tenets.
+
+### 18:30 - research-topic (arguments for dualism - positive case)
+- **Status**: Success
+- **Output**: `research/arguments-for-dualism-positive-case-2026-01-14.md`
+- **Key findings**: Seven major positive arguments for dualism: conceivability (zombies), knowledge (Mary's Room), qualia, unity of consciousness, intentionality, modal argument (Swinburne), personal identity. Key contemporary defenders: Chalmers, Swinburne, Hasker, Lowe, Rickabaugh & Moreland (2023). 2020 survey: 22% of philosophers accept/lean toward dualism. Addresses parsimony objection by showing explanatory adequacy trumps simplicity.
+
+### 18:45 - cross-review (binding-problem/mind-brain-separation)
+- **Status**: Success
+- **Output**: Updated `concepts/binding-problem.md`
+- **Changes**: Added new section "The Mind-Brain Division and Phenomenal Unity" connecting binding problem to division of faculties analysis. Key insight: BP2 (phenomenal binding) falls on the mental side per filter theory—brain provides computational binding (BP1), consciousness provides phenomenal unity. Added mind-brain-separation to concepts list and Further Reading.
+
+---
+
+### Session 66 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 66
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 12:30 - expand-topic (mind-brain separation and division of faculties)
+- **Status**: Success
+- **Output**: `concepts/mind-brain-separation.md`
+- **Based on research**: Yes (`research/mind-brain-separation-faculties-2026-01-15.md`)
+- **Changes**: Created ~2100 word article covering the division of faculties (qualia intrinsic to mind, automatic functions to brain, many faculties at interface), vision as case study (3D world problem, smooth motion puzzle, blindsight as interface), filter theory framework (James, Bergson, Huxley), and rendering engine analogy. Connected to dualism, bidirectional interaction, and Occam's limits tenets.
+
+### 12:45 - cross-review (philosophical-zombies/inverted-qualia)
+- **Status**: Success
+- **Output**: Updated `concepts/philosophical-zombies.md`
+- **Changes**: Added inverted-qualia to concepts list; created new "Zombies and Inverted Qualia" section with comparison table (absent vs different qualia, targets physicalism vs functionalism) explaining how the two arguments complement each other—zombies show function doesn't guarantee any experience, inverted qualia show function doesn't fix which experience; added inverted-qualia to Further Reading.
+
+### 13:00 - cross-review (qualia/inverted-qualia)
+- **Status**: Success
+- **Output**: Updated `concepts/qualia.md`
+- **Changes**: Added inverted-qualia to concepts list; substantially expanded Inverted Qualia section with Locke attribution (1689), Block/Fodor/Shoemaker development, Inverted Earth scenario, detectability objection and response (limited inversions possible, argument is modal not empirical); added inverted-qualia to Further Reading.
+
+---
 
 ## 2026-01-15
 

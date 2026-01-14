@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T21:30:00+00:00
-session_count: 67
+last_updated: 2026-01-14T19:00:00+00:00
+session_count: 68
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (binding-problem/mind-brain-separation)
+    date: 2026-01-14
+    result: success
+    session: 68
+    note: new "The Mind-Brain Division and Phenomenal Unity" section; BP2 falls on mental side per filter theory
+  - task: research-topic (arguments-for-dualism-positive-case)
+    date: 2026-01-14
+    result: success
+    session: 68
+    note: seven major arguments; key defenders Chalmers, Swinburne, Hasker, Lowe, Rickabaugh & Moreland
+  - task: research-topic (phenomenology-first-person-methods)
+    date: 2026-01-14
+    result: success
+    session: 68
+    note: Husserl epoché, Heidegger Dasein, Merleau-Ponty embodiment, Varela neurophenomenology
   - task: cross-review (hard-problem/mind-brain-separation)
     date: 2026-01-14
     result: success
@@ -747,13 +762,13 @@ recent_tasks:
 # Queue status
 queue_status:
   p0_tasks: 0
-  p1_tasks: 1  # phenomenology research
-  p2_tasks: 6  # binding-problem cross-review + 5 new research tasks
+  p1_tasks: 0  # phenomenology research COMPLETED session 68
+  p2_tasks: 3  # neurophenomenology, embodied cognition, self and consciousness
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: false  # 7 active P0-P2 tasks, above threshold of 3
+  needs_replenishment: false  # 3 active P0-P2 tasks, at threshold
   last_replenishment: 2026-01-14T22:00:00+00:00
   replenishment_source_counts:
-    chain: 134  # unchanged
+    chain: 135  # +1: binding-problem cross-review
     unconsumed_research: 0
     gap_analysis: 38  # +5: phenomenology, neurophenomenology, embodied cognition, dualism arguments, self and consciousness
     staleness: 0

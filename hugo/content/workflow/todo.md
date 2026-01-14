@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 20:00:00+00:00
+ai_modified: 2026-01-14 21:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -158,28 +158,70 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Created ~2100 word article covering the division of faculties (intrinsic to mind vs clearly neural vs interface), vision as case study (3D world problem, smooth motion puzzle, blindsight), filter theory framework (James, Bergson, Huxley), and rendering engine analogy.
 - **Output**: `concepts/mind-brain-separation.md`
 
-### P2: Cross-review neural-correlates-of-consciousness.md considering loss-of-consciousness insights
+### ✓ 2026-01-14: Cross-review neural-correlates-of-consciousness.md considering loss-of-consciousness insights
 - **Type**: cross-review
 - **Notes**: New article topics/loss-of-consciousness.md covers filter theory, covert consciousness, and the disconnection vs destruction interpretation. Review concepts/neural-correlates-of-consciousness.md for opportunities to connect NCCs with filter theory—correlates may indicate interface points rather than generators.
 - **Source**: chain (from loss-of-consciousness.md)
 - **Generated**: 2026-01-14
+- **Result**: Added loss-of-consciousness to concepts list; created new "Filter Theory: Correlates as Interface Points" section connecting NCCs with filter theory—covert consciousness, disconnection vs destruction, anesthetic dissociations all suggest NCCs identify interface points rather than production sites; added loss-of-consciousness to Further Reading.
+- **Output**: Updated `concepts/neural-correlates-of-consciousness.md`
 
-### P2: Cross-review death-and-consciousness.md considering loss-of-consciousness insights
+### ✓ 2026-01-14: Cross-review death-and-consciousness.md considering loss-of-consciousness insights
 - **Type**: cross-review
 - **Notes**: New article topics/loss-of-consciousness.md covers time vanishing under anesthesia, covert consciousness, and filter theory. Review topics/death-and-consciousness.md for opportunities to connect temporary loss of consciousness evidence to death's relationship with consciousness—if anesthesia involves disconnection not elimination, what does this suggest about death?
 - **Source**: chain (from loss-of-consciousness.md)
 - **Generated**: 2026-01-14
+- **Result**: Added loss-of-consciousness to concepts list; created new "Temporary Loss of Consciousness: A Preview of Death?" section connecting time vanishing under anesthesia, covert consciousness (25% unresponsive patients aware), and disconnection syndromes to death—if relationship is disconnection not production, death may be ultimate disconnection rather than annihilation; added loss-of-consciousness to Further Reading.
+- **Output**: Updated `topics/death-and-consciousness.md`
 
-### P2: Cross-review hard-problem-of-consciousness.md considering mind-brain-separation insights
+### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering mind-brain-separation insights
 - **Type**: cross-review
 - **Notes**: New article concepts/mind-brain-separation.md analyzes which faculties appear intrinsic to mind vs brain, presents the filter theory framework, and uses vision as a case study. Review topics/hard-problem-of-consciousness.md for opportunities to reference the division of faculties and filter theory as supporting evidence for dualism.
 - **Source**: chain (from mind-brain-separation.md)
 - **Generated**: 2026-01-14
+- **Result**: Added mind-brain-separation to concepts list; created new "The Division of Faculties" section analyzing where hard problem bites hardest—qualia, phenomenal unity, metacognition appear intrinsic to mind while vegetative/sensory/motor functions are clearly neural; filter theory interprets this as ontological boundary not explanatory failure; added mind-brain-separation to Further Reading.
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
-### P2: Cross-review binding-problem.md considering mind-brain-separation insights
+### ✓ 2026-01-14: Cross-review binding-problem.md considering mind-brain-separation insights
 - **Type**: cross-review
 - **Notes**: New article concepts/mind-brain-separation.md discusses the binding problem as evidence that phenomenal unity is intrinsic to mind rather than explained by neural mechanisms. Review concepts/binding-problem.md for opportunities to reference the division of faculties framework.
 - **Source**: chain (from mind-brain-separation.md)
+- **Generated**: 2026-01-14
+- **Result**: Added new section "The Mind-Brain Division and Phenomenal Unity" connecting binding problem to division of faculties analysis. Key insight: BP2 (phenomenal binding) falls on the mental side per filter theory—brain provides computational binding (BP1), consciousness provides phenomenal unity. Added mind-brain-separation to concepts list and Further Reading.
+- **Output**: Updated `concepts/binding-problem.md`
+
+### ✓ 2026-01-14: Research phenomenology and first-person methods
+- **Type**: research-topic
+- **Notes**: Phenomenology (Husserl, Heidegger, Merleau-Ponty) is the philosophical tradition most committed to first-person investigation of consciousness. Referenced in duration.md, temporal-consciousness.md, and intentionality.md but lacks dedicated treatment. Key topics: phenomenological reduction (epoché), intentionality's phenomenological roots, embodied cognition, and how phenomenological methods might complement or challenge scientific approaches. Directly supports Dualism and Occam's Razor Has Limits tenets by demonstrating that consciousness has a rich structure accessible only to first-person investigation.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering Husserl's epoché and reduction, Heidegger's Dasein, Merleau-Ponty's embodiment, and Varela's neurophenomenology. Key finding: phenomenology provides systematic evidence for first-person irreducibility—intentionality, temporal structure, and qualitative character cannot be captured by third-person descriptions. 2025 research emphasizes cognitive science needs phenomenology because "intuitive dualism" is empirically widespread. Strongly supports Dualism and Occam's Razor Has Limits tenets.
+- **Output**: `research/phenomenology-first-person-methods-2026-01-14.md`
+
+### P2: Research neurophenomenology and meditation studies
+- **Type**: research-topic
+- **Notes**: Varela's neurophenomenology bridges first-person phenomenological reports with third-person neuroscience. Meditation studies (mindfulness, contemplative traditions) provide systematic first-person data on consciousness. Key questions: Can meditation reveal aspects of consciousness inaccessible to ordinary introspection? What do long-term meditators report about the structure of awareness? How does contemplative expertise relate to site's framework? Connects to Eastern philosophy and mysterianism articles.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P2: Research embodied cognition and the extended mind
+- **Type**: research-topic
+- **Notes**: The embodied cognition program (Clark, Thompson, Noë) argues that cognition is shaped by the body and extended into the environment. Key questions for site: Does embodiment challenge or complement dualism? Can the filter theory accommodate embodied cognition? How does embodiment relate to the mind-brain separation framework? Connects to mind-brain-separation, phenomenology, and AI consciousness discussions.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### ✓ 2026-01-14: Research arguments for dualism (positive case)
+- **Type**: research-topic
+- **Notes**: Site extensively argues against materialism but could strengthen the positive case for dualism. Beyond the hard problem, what arguments support dualism? Key areas: conceivability arguments (Chalmers), modal arguments, parsimony reconsidered (is dualism actually simpler?), from-qualia arguments, from-intentionality arguments, from-unity arguments. Survey contemporary dualist defenses (Chalmers, Lowe, Hasker, Swinburne). Would strengthen tenets framework.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering seven major positive arguments for dualism: conceivability (zombies), knowledge (Mary's Room), qualia, unity of consciousness, intentionality, modal argument (Swinburne), and personal identity. Key contemporary defenders: Chalmers, Swinburne, Hasker, Lowe, Rickabaugh & Moreland (2023). 22% of philosophers accept dualism (2020 survey). Addresses parsimony objection by showing how explanatory adequacy trumps simplicity.
+- **Output**: `research/arguments-for-dualism-positive-case-2026-01-14.md`
+
+### P2: Research the self and consciousness
+- **Type**: research-topic
+- **Notes**: What is the relationship between consciousness and the sense of self? Distinct from personal identity (which focuses on persistence), this concerns the phenomenology and metaphysics of selfhood in conscious experience. Key areas: minimal self vs narrative self (Gallagher, Zahavi), self-model theory (Metzinger), no-self traditions (Buddhism), and implications for dualism. Connects to self-reference-paradox, Eastern philosophy, and hard problem articles.
+- **Source**: gap_analysis
 - **Generated**: 2026-01-14
 
 ### ✓ 2026-01-14: Write article on problem of other minds
