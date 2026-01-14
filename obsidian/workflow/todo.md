@@ -69,11 +69,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: No changes needed—functionalism.md already contains comprehensive coverage of predictive processing as "the most developed modern functionalist framework" with acknowledgment that PP "in and of itself makes no claims about subjective experience." PP already in concepts list.
 - **Output**: No file changes (existing coverage sufficient)
 
-### P2: Cross-review materialism.md considering illusionism insights
+### ✓ 2026-01-14: Cross-review materialism.md considering illusionism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/illusionism.md provides detailed treatment of illusionism as the radical physicalist position. Review concepts/materialism.md for opportunities to link the Illusionism section to the dedicated article and ensure consistent coverage.
 - **Source**: chain (from illusionism.md)
 - **Generated**: 2026-01-14
+- **Result**: Added illusionism to concepts list; expanded Illusionism section with Frankish/Dennett attribution, illusion problem, Tallis objection, and link to dedicated article; added illusionism to Further Reading
+- **Output**: Updated `concepts/materialism.md`
 
 ### ✓ 2026-01-14: Cross-review mental-effort.md considering attention insights
 - **Type**: cross-review
