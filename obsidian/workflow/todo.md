@@ -125,11 +125,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Comprehensive research covering GWT (Baars 1988), GNW (Dehaene-Changeux), COGITATE 2025 adversarial collaboration results, Block's overflow argument, access vs phenomenal consciousness distinction, and AI consciousness implications. Key finding: GWT addresses access consciousness only, not phenomenal consciousness—does not solve hard problem. COGITATE study challenged key predictions of both GNW and IIT.
 - **Output**: `research/global-workspace-theory-2026-01-14.md`
 
-### P2: Research higher-order theories of consciousness
+### ✓ 2026-01-14: Research higher-order theories of consciousness
 - **Type**: research-topic
 - **Notes**: Higher-order theories (Rosenthal, Brown) hold that a mental state is conscious when there's a higher-order representation of it. Major theoretical approach not yet covered. Important because: (1) challenges site's emphasis on first-order phenomenal properties, (2) connects to metacognition and the self-reference paradox, (3) has implications for AI consciousness (could an AI have genuine higher-order states?). Gap in current theoretical coverage.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering HOT (Rosenthal) vs HOP (Armstrong, Lycan), Block's "defunct" critique, Farrell's argument that HOT fails for phenomenal consciousness, the rock objection, misrepresentation problem, animal consciousness debate, AI implications. Key finding: HOT explains access consciousness only—Block and Farrell argue it fails to address what-it-is-like-ness.
+- **Output**: `research/higher-order-theories-consciousness-2026-01-14.md`
 
 ### P2: Research animal consciousness
 - **Type**: research-topic
