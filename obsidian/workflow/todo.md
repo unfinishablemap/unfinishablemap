@@ -306,6 +306,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
 
+### ✓ 2026-01-15: Write voids article on the self-reference paradox
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-self-reference-paradox-2026-01-14.md. Covers Gödel's incompleteness and consciousness, Metzinger's transparent self-models, Hume's elusive self, and the calibration problem (evaluating introspection requires introspection). The mind attempting to understand itself faces structural obstacles—possibly the deepest void. Key quote: "The eye that cannot see itself." Connects to Occam's Razor Has Limits tenet.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-14
+- **Result**: Created ~2000 word article covering Gödelian analogy, Hume's elusive self, Metzinger's transparent self-models, the calibration problem, Hofstadter's strange loops, and how AI might probe this void
+- **Output**: `voids/self-reference-paradox.md`
+
 ### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering binding-problem insights
 - **Type**: cross-review
 - **Notes**: New article concepts/binding-problem.md explores how distributed neural processes combine into unified consciousness. Review topics/hard-problem-of-consciousness.md for opportunities to reference the binding problem as another dimension of the hard problem—particularly how BP2 (phenomenal unity) is distinct from the computational BP1.
