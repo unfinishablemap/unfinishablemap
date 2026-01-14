@@ -145,6 +145,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from inverted-qualia.md)
 - **Generated**: 2026-01-15
 
+### ✓ 2026-01-14: Write article on mind-brain separation and division of faculties
+- **Type**: expand-topic
+- **Notes**: Research completed in research/mind-brain-separation-faculties-2026-01-15.md. Covers which faculties appear intrinsic to mind (qualia, qualitative character of experience) versus clearly neural (automatic functions like respiration). Key findings: vision presents puzzle—3D world seems to exceed slow-firing neurons but blur persists in dreams; binding problem unsolved; filter/transmission theory (James, Bergson, Huxley) provides coherent alternative; brain lesion data supports disconnection rather than elimination interpretation.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
+- **Result**: Created ~2100 word article covering the division of faculties (intrinsic to mind vs clearly neural vs interface), vision as case study (3D world problem, smooth motion puzzle, blindsight), filter theory framework (James, Bergson, Huxley), and rendering engine analogy.
+- **Output**: `concepts/mind-brain-separation.md`
+
+### P2: Cross-review neural-correlates-of-consciousness.md considering loss-of-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/loss-of-consciousness.md covers filter theory, covert consciousness, and the disconnection vs destruction interpretation. Review concepts/neural-correlates-of-consciousness.md for opportunities to connect NCCs with filter theory—correlates may indicate interface points rather than generators.
+- **Source**: chain (from loss-of-consciousness.md)
+- **Generated**: 2026-01-14
+
+### P2: Cross-review death-and-consciousness.md considering loss-of-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/loss-of-consciousness.md covers time vanishing under anesthesia, covert consciousness, and filter theory. Review topics/death-and-consciousness.md for opportunities to connect temporary loss of consciousness evidence to death's relationship with consciousness—if anesthesia involves disconnection not elimination, what does this suggest about death?
+- **Source**: chain (from loss-of-consciousness.md)
+- **Generated**: 2026-01-14
+
 ### ✓ 2026-01-14: Write article on problem of other minds
 - **Type**: expand-topic
 - **Notes**: Research completed in research/problem-of-other-minds-2026-01-14.md. Covers argument from analogy, inference to best explanation, Wittgensteinian criteria, Nagel's bat, AI and animal consciousness implications. Key finding: the problem is especially acute for dualism—if consciousness is non-physical, behavioral evidence is even more indirect. Connects to ai-consciousness.md and animal-consciousness.md. Should address how site's framework acknowledges epistemic limits while maintaining practical certainty.
