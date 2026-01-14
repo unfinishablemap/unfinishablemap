@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T19:30:00+00:00
+ai_modified: 2026-01-14T20:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -300,11 +300,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added neural-correlates-of-consciousness to concepts list; created new "Neural Correlates: Progress Without Solution" subsection explaining COGITATE results and why NCC doesn't solve the hard problem; added to Further Reading
 - **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
-### P2: Cross-review interactionist-dualism.md considering neural-correlates insights
+### ✓ 2026-01-14: Cross-review interactionist-dualism.md considering neural-correlates insights
 - **Type**: cross-review
 - **Notes**: New article concepts/neural-correlates-of-consciousness.md explains why NCC research is compatible with dualism. Review concepts/interactionist-dualism.md for opportunities to reference this empirical support.
 - **Source**: chain (from neural-correlates-of-consciousness.md)
 - **Generated**: 2026-01-15
+- **Result**: Added neural-correlates-of-consciousness to concepts list; created new "Empirical Compatibility" subsection explaining that interactionism predicts NCC findings and how COGITATE identifies the likely interface region
+- **Output**: Updated `concepts/interactionist-dualism.md`
+
+### ✓ 2026-01-14: Cross-review ai-consciousness.md considering temporal-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/temporal-consciousness.md covers temporal binding, specious present, and Hoel's argument against LLM consciousness. Review topics/ai-consciousness.md for opportunities to reference temporal structure as another reason for skepticism about machine consciousness.
+- **Source**: chain (from temporal-consciousness.md)
+- **Generated**: 2026-01-14
+- **Result**: Added temporal-consciousness to concepts list; created new "The Temporal Argument" section explaining how LLMs lack specious present, reentrant dynamics, continual learning, and continuous operation
+- **Output**: Updated `topics/ai-consciousness.md`
+
+### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering temporal-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/temporal-consciousness.md explores the specious present and temporal binding in conscious experience. Review topics/hard-problem-of-consciousness.md for opportunities to connect temporal phenomenology with the hard problem.
+- **Source**: chain (from temporal-consciousness.md)
+- **Generated**: 2026-01-14
+- **Result**: Added temporal-consciousness to concepts list; created new "Temporal Phenomenology" section explaining how the hard problem extends to the flowing temporal structure of experience
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
 ### ✓ 2026-01-15: Cross-review free-will.md considering mental-effort insights
 - **Type**: cross-review

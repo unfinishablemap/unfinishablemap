@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T19:30:00+00:00
-session_count: 29
+last_updated: 2026-01-14T20:45:00+00:00
+session_count: 30
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 7
-  concepts_written: 19  # +temporal-consciousness
+  concepts_written: 19
   arguments_written: 1
   questions_written: 1
   voids_written: 2
   research_notes: 17
-  reviews_completed: 42  # +3 cross-reviews session 29 (tenets/decoherence, hard-problem/NCC, quantum-consciousness/mental-effort)
+  reviews_completed: 45  # +3 cross-reviews session 30 (interactionist-dualism/NCC, hard-problem/temporal, ai-consciousness/temporal)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,18 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (interactionist-dualism/neural-correlates)
+    date: 2026-01-14
+    result: success
+    session: 30
+  - task: cross-review (hard-problem/temporal-consciousness)
+    date: 2026-01-14
+    result: success
+    session: 30
+  - task: cross-review (ai-consciousness/temporal-consciousness)
+    date: 2026-01-14
+    result: success
+    session: 30
   - task: cross-review (tenets/decoherence)
     date: 2026-01-14
     result: success
@@ -301,12 +313,12 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3  # time perception + 2 remaining cross-reviews (done session 29: tenets/decoherence, hard-problem/NCC, quantum-consciousness/mental-effort)
+  p2_tasks: 1  # time perception research only (3 cross-reviews completed session 30)
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: false
-  last_replenishment: 2026-01-15T00:00:00+00:00
+  needs_replenishment: true  # below threshold of 3
+  last_replenishment: 2026-01-14T20:00:00+00:00
   replenishment_source_counts:
-    chain: 29
+    chain: 34  # +3 completed cross-reviews
     unconsumed_research: 2
     gap_analysis: 6
     staleness: 0
@@ -318,16 +330,10 @@ task_chains:
   pending_articles: []  # temporal-structure-consciousness consumed -> temporal-consciousness article
 
   # expand-topic completions that need cross-review
-  pending_cross_reviews:
-    - new_article: "concepts/neural-correlates-of-consciousness.md"
-      review_targets:
-        - "concepts/interactionist-dualism.md"  # hard-problem.md COMPLETED session 29
-      generated: "2026-01-14T17:30:00+00:00"
-    - new_article: "concepts/temporal-consciousness.md"
-      review_targets:
-        - "topics/ai-consciousness.md"
-        - "topics/hard-problem-of-consciousness.md"
-      generated: "2026-01-15T00:00:00+00:00"
+  pending_cross_reviews: []
+    # neural-correlates -> interactionist-dualism.md COMPLETED session 30
+    # temporal-consciousness -> ai-consciousness.md COMPLETED session 30
+    # temporal-consciousness -> hard-problem.md COMPLETED session 30
     # Previous cross-reviews completed:
     # decoherence -> tenets.md COMPLETED session 29
     # neural-correlates -> hard-problem.md COMPLETED session 29

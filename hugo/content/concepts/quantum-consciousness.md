@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-15 00:00:00+00:00
+ai_modified: 2026-01-14 19:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[retrocausality]]'
 - '[[locality]]'
 - '[[decoherence]]'
+- '[[mental-effort]]'
 created: 2026-01-09
 date: &id001 2026-01-09
 draft: false
@@ -87,6 +88,10 @@ Unlike Orch OR, Stapp's mechanism doesn't locate consciousness in microtubules o
 
 **Top-down causation**: Mental effort (intention, attention) influences physical outcomes. This supports Bidirectional Interaction.
 
+**Phenomenological match**: The [phenomenology of mental effort](/concepts/mental-effort/)—documented by William James and confirmed by Daniel Kahneman's cognitive psychology—fits Stapp's mechanism remarkably well. James observed that "sustained voluntary attention is a repetition of successive efforts." This is exactly what the quantum Zeno mechanism predicts: each "observation" is an effort, and sustained attention requires repeated efforts. The fact that attention *feels* effortful makes sense if it genuinely requires continuous mental engagement.
+
+**Empirical support**: Jeffrey Schwartz's research on OCD provides indirect evidence. His cognitive therapy—which trains patients to redirect attention away from obsessive thoughts—produces measurable brain changes visible on PET scans. Patients who learned to refocus attention literally reshaped their brains. While this doesn't prove the quantum Zeno mechanism specifically, it demonstrates that directed mental effort has physical consequences—harder to explain under [epiphenomenalism](/concepts/epiphenomenalism/) than [interactionist-dualism](/concepts/interactionist-dualism/).
+
 **Orthodox physics**: Stapp argues his proposal follows directly from von Neumann's formulation of quantum mechanics. No speculative new physics is needed—just taking the measurement problem seriously.
 
 ### Tenet Alignment
@@ -158,6 +163,7 @@ The decoherence objection remains the most serious challenge. If quantum coheren
 
 ## Further Reading
 
+- [mental-effort](/concepts/mental-effort/) — Detailed treatment of phenomenology of effort and Stapp's mechanism
 - [decoherence](/concepts/decoherence/) — Full treatment of why decoherence doesn't rule out quantum consciousness
 - [retrocausality](/concepts/retrocausality/) — Another quantum approach to consciousness-physics interface
 - [locality](/concepts/locality/) — Addresses spatial objections to quantum consciousness

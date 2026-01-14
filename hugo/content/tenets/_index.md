@@ -1,13 +1,14 @@
 ---
 ai_contribution: 0
 ai_generated_date: null
-ai_modified: 2026-01-14 18:10:00+00:00
+ai_modified: 2026-01-14 19:00:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts:
 - '[[quantum-consciousness]]'
 - '[[interactionist-dualism]]'
 - '[[materialism]]'
+- '[[decoherence]]'
 created: 2026-01-02
 date: &id001 2026-01-02
 draft: false
@@ -40,6 +41,8 @@ The smallest possible non-physical influence on physical outcomes. <span id="min
 **Rationale:** If dualism is true, there must be some interface where mind and matter meet. Quantum indeterminacy provides a candidate location—decisions might be made where physics leaves outcomes undetermined. The principle of minimality says: assume the smallest intervention necessary, not more. Crucially, this tenet rejects the strong causal closure of physics that [epiphenomenalism](/concepts/epiphenomenalism/) depends on: the claim that every physical event has a sufficient physical cause. Physics is *not* complete at quantum indeterminacies—and that's where consciousness acts.
 
 **Candidate mechanisms:** Serious scientific proposals have explored this interface. [Orch OR](/concepts/quantum-consciousness/) (Penrose-Hameroff) locates quantum effects in neural microtubules, with consciousness selecting among superposed states via gravitational self-collapse. Stapp's [quantum Zeno approach](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) uses orthodox quantum mechanics—mental attention acts like repeated observation, holding desired neural patterns through the Zeno effect. Both share what this tenet requires: consciousness biasing indeterminate outcomes without injecting energy or violating conservation laws. The site doesn't commit to either mechanism but holds that *some* such interface exists.
+
+**The decoherence objection:** Critics argue that quantum coherence cannot survive in warm, wet biological systems—decoherence times are femtoseconds, far too short for neural processes. Yet [recent research](/concepts/decoherence/) complicates this picture: quantum coherence in photosynthesis, magnetoreception via entangled electron spins, and experimental "hot cat" states all push the quantum-classical boundary further than expected. More fundamentally, decoherence doesn't solve the measurement problem—it selects preferred bases without explaining why we see definite outcomes. The role for consciousness at the point of collapse remains open.
 
 **Not to be confused with:** "Quantum woo" or "quantum mysticism"—pseudoscientific claims that misappropriate quantum mechanics terminology to justify New Age beliefs, parapsychology, or magical thinking. This tenet is a constrained philosophical hypothesis about the mind-body problem, not an endorsement of quantum mysticism.
 

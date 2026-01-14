@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-01-14 18:15:00+00:00
+ai_modified: 2026-01-14 20:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,6 +12,8 @@ concepts:
 - '[[thoughts-that-slip-away]]'
 - '[[explanatory-gap]]'
 - '[[materialism]]'
+- '[[neural-correlates-of-consciousness]]'
+- '[[temporal-consciousness]]'
 created: 2026-01-06
 date: &id001 2026-01-13
 draft: false
@@ -63,6 +65,14 @@ The identity statement might be true. Pain might *be* C-fiber firing in some met
 
 This gap is not merely a current limitation. It seems structural—a consequence of what physical explanations *are*. Physics describes structure, function, and dynamics. It tells us how parts relate, how systems evolve, what causes what. But the qualitative character of experience—the redness of red, the painfulness of pain—seems to be a different kind of thing entirely.
 
+## Temporal Phenomenology
+
+The hard problem extends beyond static qualia to the [temporal structure of experience](/concepts/temporal-consciousness/). Consciousness doesn't occur in durationless instants—it *flows*. William James and Edmund Husserl analysed the "specious present": a duration of roughly 100-750 milliseconds within which we experience succession, change, and persistence as unified wholes. Each moment contains retention (the immediate past echoing in the now), primal impression (the strictly present), and protention (anticipation of what's coming).
+
+Why does consciousness have this temporal structure? No neural description explains why millisecond-precision synchrony should *feel like* a flowing present rather than nothing at all. The explanatory gap applies not just to *what* we experience but to *how* we experience—the phenomenal time within which qualia unfold.
+
+This creates an additional hurdle for physicalist theories. Even if one could explain why certain neural states correlate with seeing red, one would still need to explain why those states are embedded in a flowing temporal experience rather than occurring as isolated computational events. The temporal binding problem—how discrete neural events produce a unified stream—may be as hard as qualia themselves.
+
 ## The Zombie Thought Experiment
 
 Chalmers sharpened this intuition with the philosophical zombie argument.
@@ -97,6 +107,14 @@ If Mary learns something new, then her previous knowledge—complete physical kn
 Critics have responded: perhaps Mary gains a new *ability* (to recognise red, to imagine it) rather than new *knowledge*. Perhaps she gains *acquaintance* with redness without learning new propositions. The debate continues, but the intuitive force of the argument remains: knowing everything about the mechanism of colour vision seems to leave out knowing what colour experience is *like*.
 
 ## Responses to the Hard Problem
+
+### Neural Correlates: Progress Without Solution
+
+Empirical research on [neural correlates of consciousness (NCC)](/concepts/neural-correlates-of-consciousness/) has made significant progress. We now know that conscious perception correlates primarily with activity in a "posterior cortical hot zone" rather than frontal regions. The 2025 COGITATE experiment—the largest adversarial collaboration in consciousness science—placed empirical constraints on leading theories.
+
+Yet NCC research, however sophisticated, cannot solve the hard problem. Finding that colour experience correlates with activity in V4 does not explain why V4 activity *feels like* anything. Correlation is not identity, and even if we establish perfect neural-experiential mappings, the explanatory gap remains: why does this pattern of firing produce *this* qualitative experience rather than nothing at all?
+
+Crucially, NCC findings are compatible with both materialism and [interactionist dualism](/concepts/interactionist-dualism/). If consciousness causally interacts with the brain, we would expect exactly the tight correlations NCC research discovers. The data itself is metaphysically neutral.
 
 ### Materialist Responses
 
@@ -180,6 +198,8 @@ Whether this specific proposal is correct matters less than the underlying point
 
 ### On This Site
 - [explanatory-gap](/concepts/explanatory-gap/) — Levine's formulation and physicalist responses
+- [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Why empirical progress doesn't solve the problem
+- [temporal-consciousness](/concepts/temporal-consciousness/) — The temporal structure that also needs explaining
 - [Against Materialism](/arguments/materialism/) — Why physicalist explanations fail
 - [qualia](/concepts/qualia/) — The qualitative character of experience
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness is causally inert

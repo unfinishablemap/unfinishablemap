@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 01:00:00+00:00
+ai_modified: 2026-01-14 20:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[epiphenomenalism]]'
 - '[[quantum-consciousness]]'
 - '[[qualia]]'
+- '[[neural-correlates-of-consciousness]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -113,6 +114,10 @@ This framework avoids the main objections to classical interactionism:
 - **Causal closure**: Physics is not complete at quantum indeterminacies—there's room for mental causation
 - **Mechanism**: Quantum mechanics identifies specific points where consciousness could interface with matter
 
+### Empirical Compatibility
+
+Crucially, interactionism predicts exactly the findings of [neural correlates of consciousness (NCC)](/concepts/neural-correlates-of-consciousness/) research. If consciousness causally interacts with the brain, we would expect tight correlations between mental states and brain states—and that's what NCC research discovers. The 2025 COGITATE experiment identified the posterior cortical hot zone as the primary locus of conscious content; interactionism interprets this as the likely interface region where consciousness reads and writes physical information. NCC findings don't favour materialism over interactionism. Both predict the correlations; only interactionism explains why those correlations involve something it's like to have the corresponding experiences.
+
 The [self-stultification argument](/concepts/epiphenomenalism/) provides positive motivation: if we can accurately report our experiences, consciousness must cause those reports. This requires mental→physical causation, which interactionism provides and epiphenomenalism denies.
 
 ## Assessment
@@ -127,6 +132,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 - [tenets](/tenets/) — The site's foundational commitments
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Detailed treatment of quantum mechanisms
+- [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Empirical findings compatible with interactionism
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view this site rejects
 - [interactionist-dualism-2026-01-06](/research/interactionist-dualism-2026-01-06/) — Detailed research notes
 

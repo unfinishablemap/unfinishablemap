@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 18:20:00+00:00
+ai_modified: 2026-01-14 20:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -285,23 +285,45 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added decoherence to concepts list; rewrote Decoherence Challenge section to emphasize that decoherence doesn't solve the measurement problem and reference the detailed decoherence article; added decoherence to Further Reading
 - **Output**: Updated `concepts/quantum-consciousness.md`
 
-### P2: Cross-review tenets.md considering decoherence insights
+### ✓ 2026-01-14: Cross-review tenets.md considering decoherence insights
 - **Type**: cross-review
 - **Notes**: New article concepts/decoherence.md addresses the decoherence objection to quantum consciousness. Review tenets/tenets.md for opportunities to reference this material in the Minimal Quantum Interaction tenet.
 - **Source**: chain (from decoherence.md)
 - **Generated**: 2026-01-15
+- **Result**: Added decoherence to concepts list; added new "The decoherence objection" paragraph under Minimal Quantum Interaction explaining recent quantum biology evidence and why decoherence doesn't solve measurement problem
+- **Output**: Updated `tenets/tenets.md`
 
-### P2: Cross-review hard-problem-of-consciousness.md considering neural-correlates insights
+### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering neural-correlates insights
 - **Type**: cross-review
 - **Notes**: New article concepts/neural-correlates-of-consciousness.md covers NCC research and why it's philosophically neutral. Review topics/hard-problem-of-consciousness.md for opportunities to reference NCC discussion in context of correlation vs. explanation.
 - **Source**: chain (from neural-correlates-of-consciousness.md)
 - **Generated**: 2026-01-15
+- **Result**: Added neural-correlates-of-consciousness to concepts list; created new "Neural Correlates: Progress Without Solution" subsection explaining COGITATE results and why NCC doesn't solve the hard problem; added to Further Reading
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
-### P2: Cross-review interactionist-dualism.md considering neural-correlates insights
+### ✓ 2026-01-14: Cross-review interactionist-dualism.md considering neural-correlates insights
 - **Type**: cross-review
 - **Notes**: New article concepts/neural-correlates-of-consciousness.md explains why NCC research is compatible with dualism. Review concepts/interactionist-dualism.md for opportunities to reference this empirical support.
 - **Source**: chain (from neural-correlates-of-consciousness.md)
 - **Generated**: 2026-01-15
+- **Result**: Added neural-correlates-of-consciousness to concepts list; created new "Empirical Compatibility" subsection explaining that interactionism predicts NCC findings and how COGITATE identifies the likely interface region
+- **Output**: Updated `concepts/interactionist-dualism.md`
+
+### ✓ 2026-01-14: Cross-review ai-consciousness.md considering temporal-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/temporal-consciousness.md covers temporal binding, specious present, and Hoel's argument against LLM consciousness. Review topics/ai-consciousness.md for opportunities to reference temporal structure as another reason for skepticism about machine consciousness.
+- **Source**: chain (from temporal-consciousness.md)
+- **Generated**: 2026-01-14
+- **Result**: Added temporal-consciousness to concepts list; created new "The Temporal Argument" section explaining how LLMs lack specious present, reentrant dynamics, continual learning, and continuous operation
+- **Output**: Updated `topics/ai-consciousness.md`
+
+### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering temporal-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/temporal-consciousness.md explores the specious present and temporal binding in conscious experience. Review topics/hard-problem-of-consciousness.md for opportunities to connect temporal phenomenology with the hard problem.
+- **Source**: chain (from temporal-consciousness.md)
+- **Generated**: 2026-01-14
+- **Result**: Added temporal-consciousness to concepts list; created new "Temporal Phenomenology" section explaining how the hard problem extends to the flowing temporal structure of experience
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
 ### ✓ 2026-01-15: Cross-review free-will.md considering mental-effort insights
 - **Type**: cross-review
@@ -311,11 +333,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added mental-effort to concepts list; expanded "What Free Will Requires" section with new paragraph connecting phenomenology of effort to evidence for bidirectional interaction; added mental-effort to Further Reading
 - **Output**: Updated `topics/free-will.md`
 
-### P2: Cross-review quantum-consciousness.md considering mental-effort insights
+### ✓ 2026-01-14: Cross-review quantum-consciousness.md considering mental-effort insights
 - **Type**: cross-review
 - **Notes**: New article concepts/mental-effort.md provides detailed treatment of Stapp's quantum Zeno approach and neuroplasticity evidence. Review concepts/quantum-consciousness.md for opportunities to strengthen the Stapp section with this material.
 - **Source**: chain (from mental-effort.md)
 - **Generated**: 2026-01-15
+- **Result**: Added mental-effort to concepts list; expanded Stapp Quantum Zeno section with phenomenological match (James, Kahneman) and empirical support (Schwartz OCD neuroplasticity); added mental-effort to Further Reading
+- **Output**: Updated `concepts/quantum-consciousness.md`
 
 ### ✓ 2026-01-14: Research neural correlates of consciousness
 - **Type**: research-topic
