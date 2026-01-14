@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T23:45:00+00:00
-session_count: 33
+last_updated: 2026-01-15T01:15:00+00:00
+session_count: 34
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 63  # +self-reference-paradox research
-  published_files: 50  # +1 research note (voids-self-reference-paradox)
+  total_files: 65  # +self-reference-paradox voids article, +attention research
+  published_files: 52  # +1 voids article, +1 research note
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -59,8 +59,8 @@ progress:
   concepts_written: 21
   arguments_written: 1
   questions_written: 1
-  voids_written: 2
-  research_notes: 20  # +voids-self-reference-paradox
+  voids_written: 3  # +self-reference-paradox
+  research_notes: 21  # +attention-consciousness-relationship
   reviews_completed: 47  # +2 binding-problem cross-reviews
 
 # Quality metrics (from last validation)
@@ -76,6 +76,14 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (attention-consciousness)
+    date: 2026-01-15
+    result: success
+    session: 34
+  - task: expand-topic (self-reference-paradox voids)
+    date: 2026-01-15
+    result: success
+    session: 34
   - task: research-voids (self-reference-paradox)
     date: 2026-01-14
     result: success
@@ -341,13 +349,13 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2  # attention, substance/property dualism (cross-reviews completed)
+  p2_tasks: 3  # attention article (chain), substance/property dualism, consciousness-time-perception
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: true  # below threshold of 3
-  last_replenishment: 2026-01-14T23:00:00+00:00
+  needs_replenishment: false  # at threshold of 3
+  last_replenishment: 2026-01-15T00:00:00+00:00
   replenishment_source_counts:
-    chain: 38  # binding-problem cross-reviews completed
-    unconsumed_research: 2  # time-perception, voids-self-reference-paradox
+    chain: 39  # +attention article from research
+    unconsumed_research: 1  # time-perception (self-reference-paradox completed)
     gap_analysis: 11
     staleness: 0
 
@@ -357,7 +365,8 @@ task_chains:
   # research-topic completions that need articles written
   pending_articles:
     - "research/consciousness-time-perception-2026-01-14.md"  # awaits article (note: existing temporal-consciousness.md covers basics; could expand on Bergson's durée or embodied time)
-    - "research/voids-self-reference-paradox-2026-01-14.md"  # awaits voids article on consciousness trying to understand itself
+    - "research/attention-consciousness-relationship-2026-01-15.md"  # awaits concept article on attention-consciousness dissociation and Stapp's Zeno mechanism
+    # voids-self-reference-paradox -> COMPLETED session 34 (voids/self-reference-paradox.md)
     # binding-problem-consciousness -> COMPLETED session 32
 
   # expand-topic completions that need cross-review
