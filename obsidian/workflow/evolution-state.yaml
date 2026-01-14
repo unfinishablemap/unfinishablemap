@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T23:15:00+00:00
-session_count: 42
+last_updated: 2026-01-14T23:45:00+00:00
+session_count: 43
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,7 +40,7 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 73  # +2 research notes (GWT, HOT)
+  total_files: 75  # +2 research notes (animal consciousness, death/persistence)
   published_files: 58
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
@@ -60,7 +60,7 @@ progress:
   arguments_written: 1
   questions_written: 1
   voids_written: 3
-  research_notes: 25  # +2 (GWT, HOT)
+  research_notes: 27  # +2 (animal consciousness, death/persistence)
   reviews_completed: 58
 
 # Quality metrics (from last validation)
@@ -76,6 +76,14 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (death-consciousness-persistence)
+    date: 2026-01-14
+    result: success
+    session: 43
+  - task: research-topic (animal-consciousness)
+    date: 2026-01-14
+    result: success
+    session: 43
   - task: research-topic (higher-order-theories)
     date: 2026-01-14
     result: success
@@ -429,13 +437,13 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3  # animal consciousness, death/persistence, split-brain (GWT & HOT completed)
+  p2_tasks: 1  # split-brain only (animal consciousness, death/persistence completed)
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: false  # 3 active tasks after session 42
+  needs_replenishment: true  # 1 active task after session 43, below threshold of 3
   last_replenishment: 2026-01-14T22:00:00+00:00
   replenishment_source_counts:
     chain: 63
-    unconsumed_research: 2  # GWT and HOT research awaiting articles
+    unconsumed_research: 4  # GWT, HOT, animal consciousness, death/persistence
     gap_analysis: 21
     staleness: 0
 
@@ -446,6 +454,8 @@ task_chains:
   pending_articles:
     - "research/global-workspace-theory-2026-01-14.md"
     - "research/higher-order-theories-consciousness-2026-01-14.md"
+    - "research/animal-consciousness-2026-01-14.md"
+    - "research/death-consciousness-persistence-2026-01-14.md"
     # intentionality-consciousness -> COMPLETED session 37 (concepts/intentionality.md)
     # consciousness-time-perception -> COMPLETED session 39 (concepts/duration.md)
     # attention-consciousness-relationship -> COMPLETED session 35 (concepts/attention.md)

@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 16:00:00+00:00
+ai_modified: 2026-01-14 06:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[quantum-consciousness]]'
 - '[[interactionist-dualism]]'
 - '[[locality]]'
+- '[[measurement-problem]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -41,11 +42,11 @@ These timescales established the intuition that warm, wet biological systems can
 
 ## What Decoherence Does Not Do
 
-Here is the critical point that discussions of decoherence often obscure: **decoherence does not solve the measurement problem.**
+Here is the critical point that discussions of decoherence often obscure: **decoherence does not solve the [measurement problem](/concepts/measurement-problem/).**
 
-Decoherence explains why we don't observe superpositions—interference effects wash out. But it doesn't explain why we see *definite* outcomes at all. After decoherence, standard quantum mechanics still describes the total system (particle plus environment) as a vast entangled superposition. The appearance of definite outcomes requires something more.
+Decoherence explains why we don't observe superpositions—interference effects wash out. But it doesn't explain why we see *definite* outcomes at all. After decoherence, standard quantum mechanics still describes the total system (particle plus environment) as a vast entangled superposition. The appearance of definite outcomes requires something more. As a 2025 comprehensive review puts it: "the problem of outcomes is still open."
 
-As the Stanford Encyclopedia of Philosophy states: "Decoherence as such does not provide a solution to the measurement problem, at least not unless it is combined with an appropriate foundational approach."
+As the Stanford Encyclopedia of Philosophy states: "Decoherence as such does not provide a solution to the measurement problem, at least not unless it is combined with an appropriate foundational approach." The dedicated [measurement problem article](/concepts/measurement-problem/) explores the various interpretations (Copenhagen, Many-Worlds, GRW, Bohmian, consciousness-based) and why the site rejects Many-Worlds while remaining open to consciousness-based approaches.
 
 This matters for the site's perspective. If decoherence fully explained measurements, consciousness would have no role. But decoherence merely establishes preferred bases—it doesn't collapse them. Something must select which outcome occurs. The [No Many Worlds](/tenets/#no-many-worlds) tenet holds that outcomes are genuinely selected, not merely experienced in branching universes. Consciousness remains a candidate for what does the selecting.
 
@@ -113,6 +114,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is releva
 
 ## Further Reading
 
+- [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve the measurement problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interaction
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework
 - [tenets](/tenets/) — The site's foundational commitments

@@ -133,17 +133,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Comprehensive research covering HOT (Rosenthal) vs HOP (Armstrong, Lycan), Block's "defunct" critique, Farrell's argument that HOT fails for phenomenal consciousness, the rock objection, misrepresentation problem, animal consciousness debate, AI implications. Key finding: HOT explains access consciousness only—Block and Farrell argue it fails to address what-it-is-like-ness.
 - **Output**: `research/higher-order-theories-consciousness-2026-01-14.md`
 
-### P2: Research animal consciousness
+### ✓ 2026-01-14: Research animal consciousness
 - **Type**: research-topic
 - **Notes**: Natural extension of dualist framework to non-human minds. Covers: Cambridge Declaration on Consciousness (2012), mirror self-recognition tests, problem-solving evidence, ethical implications. Important because: (1) extends framework beyond anthropocentrism, (2) connects to qualia and the hard problem across species, (3) relevant to "voids" framework (animal minds as partially accessible perspectives). Suggested in optimistic-2026-01-13.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering Cambridge Declaration (2012), New York Declaration (2024), philosophical positions (Nagel, Carruthers, Birch), mirror self-recognition tests, the agnostic position (Gutfreund), animal ethics (Singer, Regan). Key finding: dualism is better positioned than materialism to take animal consciousness seriously—the hard problem applies equally to animals.
+- **Output**: `research/animal-consciousness-2026-01-14.md`
 
-### P2: Research death, consciousness, and personal persistence
+### ✓ 2026-01-14: Research death, consciousness, and personal persistence
 - **Type**: research-topic
 - **Notes**: What does dualism imply about the survival of consciousness after bodily death? Covers: arguments for and against survival (Ducasse, van Inwagen), relationship to personal identity, near-death experiences as data, and why this matters for meaning. Connects to No Many Worlds tenet (indexical identity) and personal-identity topic. Suggested in optimistic-2026-01-13.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering philosophical arguments for/against survival (Plato, Descartes, Ducasse, van Inwagen), personal identity problem, near-death experience evidence (2024/2025 studies), Hameroff's quantum soul hypothesis. Key finding: site's commitment to non-reducible consciousness and indexical identity provides stronger resources for survival than materialist alternatives.
+- **Output**: `research/death-consciousness-persistence-2026-01-14.md`
 
 ### P2: Research split-brain cases and unified consciousness
 - **Type**: research-topic

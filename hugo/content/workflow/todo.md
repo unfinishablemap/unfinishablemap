@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-14 11:15:00+00:00
+ai_modified: 2026-01-14 06:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -102,15 +102,57 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Comprehensive research covering Copenhagen, Many-Worlds, Bohmian mechanics, GRW/CSL collapse theories, Penrose OR, and consciousness-based interpretations. Key finding: decoherence does NOT solve the problem—"the problem of outcomes is still open." This directly supports Minimal Quantum Interaction tenet by showing physics leaves room for consciousness at collapse. No Many Worlds tenet supported by MWI's indexical identity problems.
 - **Output**: `research/measurement-problem-quantum-mechanics-2026-01-14.md`
 
-### P2: Research Global Workspace Theory (GWT)
+### ✓ 2026-01-14: Cross-review quantum-consciousness.md considering measurement-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/measurement-problem.md provides comprehensive treatment of the measurement problem, explaining why decoherence doesn't solve it and why consciousness remains a candidate selector. Review concepts/quantum-consciousness.md for opportunities to reference the measurement-problem article in the "Quantum Opening" section which mentions the measurement problem but doesn't link to the dedicated article.
+- **Source**: chain (from measurement-problem.md)
+- **Generated**: 2026-01-14
+- **Result**: Added measurement-problem to concepts list; linked measurement problem in "Quantum Opening" section with 2025 review quote about outcomes remaining open; emphasized that physics doesn't specify the selector; added measurement-problem to Further Reading
+- **Output**: Updated `concepts/quantum-consciousness.md`
+
+### ✓ 2026-01-14: Cross-review decoherence.md considering measurement-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/measurement-problem.md argues that decoherence doesn't solve the measurement problem—a key point for concepts/decoherence.md. Review for opportunities to strengthen the "What Decoherence Does Not Do" section by cross-referencing the dedicated measurement-problem treatment.
+- **Source**: chain (from measurement-problem.md)
+- **Generated**: 2026-01-14
+- **Result**: Added measurement-problem to concepts list; linked measurement-problem in "What Decoherence Does Not Do" section; added 2025 review quote and reference to dedicated measurement-problem article exploring interpretations; added measurement-problem to Further Reading
+- **Output**: Updated `concepts/decoherence.md`
+
+### ✓ 2026-01-14: Research Global Workspace Theory (GWT)
 - **Type**: research-topic
 - **Notes**: Major theory of consciousness (Baars, Dehaene) not yet systematically covered. GWT proposes consciousness arises when information is broadcast globally across the brain. Important for site because: (1) it's a leading competitor to IIT, (2) it raises questions about whether global broadcast is sufficient for consciousness or merely correlated with it, (3) directly relevant to attention's role in consciousness per attention.md. Should compare with site's interactionist framework.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering GWT (Baars 1988), GNW (Dehaene-Changeux), COGITATE 2025 adversarial collaboration results, Block's overflow argument, access vs phenomenal consciousness distinction, and AI consciousness implications. Key finding: GWT addresses access consciousness only, not phenomenal consciousness—does not solve hard problem. COGITATE study challenged key predictions of both GNW and IIT.
+- **Output**: `research/global-workspace-theory-2026-01-14.md`
 
-### P2: Research higher-order theories of consciousness
+### ✓ 2026-01-14: Research higher-order theories of consciousness
 - **Type**: research-topic
 - **Notes**: Higher-order theories (Rosenthal, Brown) hold that a mental state is conscious when there's a higher-order representation of it. Major theoretical approach not yet covered. Important because: (1) challenges site's emphasis on first-order phenomenal properties, (2) connects to metacognition and the self-reference paradox, (3) has implications for AI consciousness (could an AI have genuine higher-order states?). Gap in current theoretical coverage.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering HOT (Rosenthal) vs HOP (Armstrong, Lycan), Block's "defunct" critique, Farrell's argument that HOT fails for phenomenal consciousness, the rock objection, misrepresentation problem, animal consciousness debate, AI implications. Key finding: HOT explains access consciousness only—Block and Farrell argue it fails to address what-it-is-like-ness.
+- **Output**: `research/higher-order-theories-consciousness-2026-01-14.md`
+
+### ✓ 2026-01-14: Research animal consciousness
+- **Type**: research-topic
+- **Notes**: Natural extension of dualist framework to non-human minds. Covers: Cambridge Declaration on Consciousness (2012), mirror self-recognition tests, problem-solving evidence, ethical implications. Important because: (1) extends framework beyond anthropocentrism, (2) connects to qualia and the hard problem across species, (3) relevant to "voids" framework (animal minds as partially accessible perspectives). Suggested in optimistic-2026-01-13.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering Cambridge Declaration (2012), New York Declaration (2024), philosophical positions (Nagel, Carruthers, Birch), mirror self-recognition tests, the agnostic position (Gutfreund), animal ethics (Singer, Regan). Key finding: dualism is better positioned than materialism to take animal consciousness seriously—the hard problem applies equally to animals.
+- **Output**: `research/animal-consciousness-2026-01-14.md`
+
+### ✓ 2026-01-14: Research death, consciousness, and personal persistence
+- **Type**: research-topic
+- **Notes**: What does dualism imply about the survival of consciousness after bodily death? Covers: arguments for and against survival (Ducasse, van Inwagen), relationship to personal identity, near-death experiences as data, and why this matters for meaning. Connects to No Many Worlds tenet (indexical identity) and personal-identity topic. Suggested in optimistic-2026-01-13.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering philosophical arguments for/against survival (Plato, Descartes, Ducasse, van Inwagen), personal identity problem, near-death experience evidence (2024/2025 studies), Hameroff's quantum soul hypothesis. Key finding: site's commitment to non-reducible consciousness and indexical identity provides stronger resources for survival than materialist alternatives.
+- **Output**: `research/death-consciousness-persistence-2026-01-14.md`
+
+### P2: Research split-brain cases and unified consciousness
+- **Type**: research-topic
+- **Notes**: Corpus callosotomy patients challenge assumptions about unified consciousness. Covers: Sperry and Gazzaniga's experiments, what "two streams of consciousness" means for dualism, Nagel's 1971 analysis, and implications for the binding problem. Important because: (1) empirical challenge to simple unity thesis, (2) connects to binding-problem article, (3) relevant to No Many Worlds (what individuates subjects?). Suggested in optimistic-2026-01-13.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
 
