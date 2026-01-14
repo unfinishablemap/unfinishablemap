@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T22:00:00+00:00
-session_count: 49
+last_updated: 2026-01-15T01:00:00+00:00
+session_count: 50
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 82  # unchanged (no new articles)
-  published_files: 64  # unchanged
+  total_files: 83  # +1 phenomenal-concepts-strategy
+  published_files: 65  # +1
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 10
-  concepts_written: 29
+  concepts_written: 30  # +1 phenomenal-concepts-strategy
   arguments_written: 1
   questions_written: 1
   voids_written: 3
-  research_notes: 29  # +1 phenomenal concepts strategy
-  reviews_completed: 66  # +2 cross-reviews (qualia, materialism for zombies)
+  research_notes: 29
+  reviews_completed: 67  # +1 explanatory-gap cross-review session 50
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,14 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (phenomenal-concepts-strategy)
+    date: 2026-01-15
+    result: success
+    session: 50
+  - task: cross-review (explanatory-gap/philosophical-zombies)
+    date: 2026-01-15
+    result: success
+    session: 50
   - task: research-topic (phenomenal-concepts-strategy)
     date: 2026-01-14
     result: success
