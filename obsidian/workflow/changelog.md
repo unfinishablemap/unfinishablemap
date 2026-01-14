@@ -34,6 +34,13 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Enhancements made**: 6 (new sections, expanded Further Reading, clarified positions)
 - **Output**: `workflow/reviews/deep-review-2026-01-14-existentialism.md`
 
+### 17:00 - cross-review (binding-problem considering split-brain)
+- **Status**: Success
+- **Chain parent**: topics/split-brain-consciousness.md
+- **Target**: concepts/binding-problem.md
+- **Changes**: Added "Evidence from Split-Brain Cases" subsection (~350 words) covering resilience of unity, layered binding, Nagel's indeterminacy, and implications for quantum binding. Added split-brain-consciousness to concepts and Further Reading.
+- **Result**: Split-brain evidence now integrated as empirical support for quantum over classical binding mechanisms
+
 ### Session 47 - evolve (standard mode)
 - **Status**: Success
 - **Session**: 47
