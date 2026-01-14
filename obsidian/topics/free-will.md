@@ -3,7 +3,7 @@ title: "Free Will and Determinism"
 created: 2026-01-08
 modified: 2026-01-13
 human_modified: null
-ai_modified: 2026-01-15T00:20:00+00:00
+ai_modified: 2026-01-14T19:30:00+00:00
 last_deep_review: 2026-01-13T14:00:00+00:00
 draft: false
 topics:
@@ -127,7 +127,11 @@ On the site's framework, free will requires:
 
 4. **Atemporal operation**: For consciousness to be the genuine cause of choices despite apparent temporal ordering, it must operate outside linear time in some sense. Retrocausal quantum mechanics suggests how this might work.
 
-The phenomenology of [[mental-effort]] provides supporting evidence for this framework. Controlling attention feels effortful—William James documented that "sustained voluntary attention is a repetition of successive efforts." This isn't mere phenomenal decoration. Stapp's quantum Zeno mechanism explains why: each act of attention constitutes an observation event that holds desired neural patterns in place. The felt cost of concentration corresponds to genuine engagement with brain states. If effort were epiphenomenal—if the same neural processes would occur regardless of conscious engagement—there would be no reason for phenomenology to track genuine cognitive load. The fact that hard tasks feel hard, and that directed mental effort produces lasting brain changes (as documented in neuroplasticity research), suggests consciousness does something rather than merely observing.
+The phenomenology of [[mental-effort]] provides supporting evidence for this framework. Controlling attention feels effortful—William James documented that "sustained voluntary attention is a repetition of successive efforts" and claimed that "the free will question relates solely to the amount of effort of attention." This connects free will directly to the phenomenology of directed attention: volition is attention, and attention requires continuous effort.
+
+Stapp's quantum Zeno mechanism explains why attention should feel effortful: each act of attention constitutes a quantum observation event that holds desired neural patterns in place, preventing them from decohering into alternatives. The felt cost of concentration corresponds to the rapidity of these observation events—genuine engagement with brain states, not mere phenomenal decoration. If effort were epiphenomenal—if the same neural processes would occur regardless of conscious engagement—there would be no reason for phenomenology to track genuine cognitive load.
+
+The neuroplasticity evidence strengthens this picture. Jeffrey Schwartz's OCD research demonstrates that directed mental effort produces measurable brain changes: patients who learned to refocus attention literally reshaped their neural circuitry, as shown by PET scans. Whatever the underlying mechanism, mental effort has physical consequences. The fact that hard tasks feel hard, and that directing attention changes brain structure, suggests consciousness does something rather than merely observing.
 
 ## Free Will and Personal Identity
 
