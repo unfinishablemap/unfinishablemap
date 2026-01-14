@@ -37,6 +37,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### ✓ 2026-01-14: Research the knowledge argument (Mary's Room)
+- **Type**: research-topic
+- **Notes**: The knowledge argument (Frank Jackson's Mary thought experiment) is referenced repeatedly across the site—in materialism.md, explanatory-gap.md, philosophical-zombies.md, and tenets.md—but has no dedicated treatment. One of the strongest arguments for dualism. Research should cover: Jackson's original formulation, type-A and type-B physicalist responses (phenomenal concepts strategy, ability hypothesis), Jackson's own later rejection, and why the argument remains compelling despite responses.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering Jackson's 1982/1986 formulation, Lewis/Nemirow ability hypothesis, phenomenal concepts strategy (Loar, Papineau), Chalmers's two-dimensional defense, Jackson's 2003 self-rejection, and 2024 developments (Alter's book). Key finding: argument strongly supports Dualism tenet; ability hypothesis widely considered inadequate; phenomenal concepts strategy faces Chalmers's master argument dilemma.
+- **Output**: `research/knowledge-argument-marys-room-2026-01-14.md`
+
+### P2: Research mysterianism and cognitive closure
+- **Type**: research-topic
+- **Notes**: Colin McGinn's mysterianism—that consciousness is real but permanently beyond human cognitive reach—is referenced in hard-problem-of-consciousness.md but lacks dedicated treatment. Important because: (1) takes consciousness seriously while remaining agnostic about solutions, (2) connects to Occam's Razor Has Limits tenet, (3) represents a sophisticated middle ground between eliminativism and standard dualism.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P2: Write article on Libet experiments and free will
+- **Type**: expand-topic
+- **Notes**: Research completed in research/libet-experiments-free-will-2026-01-07.md. Libet experiments are central to the free will debate and referenced extensively in free-will.md and retrocausality.md. The research covers original experiments, Soon et al. extension, Schurger's neural noise critique, and retrocausal interpretations. Deserves dedicated article given importance to site's framework.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-14
+
+### P2: Research near-death experiences and consciousness
+- **Type**: research-topic
+- **Notes**: Near-death experiences are mentioned in death-and-consciousness.md as empirical data relevant to survival questions, but the site lacks systematic treatment of NDE research. Key topics: veridical perception during cardiac arrest, AWARE studies, Parnia's 2024/2025 research, materialist vs dualist interpretations. Directly relevant to site's framework on consciousness independence.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### P2: Research Russellian monism
+- **Type**: research-topic
+- **Notes**: Russellian monism (the view that consciousness is the intrinsic nature of matter whose extrinsic properties physics describes) is mentioned in substance-property-dualism.md but lacks dedicated treatment. Important because: (1) sophisticated middle position between physicalism and dualism, (2) shares key insight with site's framework that physics is silent on intrinsic nature, (3) connects to panpsychism discussion.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
 ### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering illusionism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/illusionism.md covers the radical physicalist denial of phenomenal consciousness, the illusion problem, and critiques (infinite regress, Moorean argument). Review topics/hard-problem-of-consciousness.md for opportunities to reference illusionism as the strongest physicalist challenge and contrast with the site's position.
