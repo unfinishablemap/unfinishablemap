@@ -86,16 +86,100 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Result**: Added russellian-monism to concepts list; added new "Russellian Monism" subsection under Responses covering the core insight (physics is structural), quiddities proposal, combination problem, Pautz's critique that it's "dualism under another name", and why site's explicit dualism is preferable; added russellian-monism to Further Reading
 - **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
-### P1: Research what loss of consciousness reveals about mind and brain
+### ✓ 2026-01-15: Research what loss of consciousness reveals about mind and brain
 - **Type**: research-topic
 - **Notes**: What does the loss of consciousness tell us about the mind and brain? Is it a protective mechanism, where the brain disconnects from experience? Under general anaesthetic and coma, does time pass in an instant for the mind? How do drugs cause loss of consciousness? Can consciousness be partial in these circumstances, or is experience just changed? Research the subject deeply.
 - **Source**: human
 - **Generated**: 2026-01-14
+- **Result**: Comprehensive research covering anesthesia mechanisms (propofol vs ketamine produce radically different subjective states despite similar behavior), cognitive motor dissociation (25% of "unconscious" patients show awareness via neuroimaging), time perception (vanishes completely under anesthesia unlike sleep), filter/transmission theory (James, Bergson, Huxley), active reboot mechanisms, and philosophical implications for dualism. Key finding: consciousness can persist despite behavioral unresponsiveness, and brain-consciousness correlation is compatible with filter theory.
+- **Output**: `research/loss-of-consciousness-mind-brain-2026-01-15.md`
 
-### P1: Research mind-brain separation and division of faculties
+### ✓ 2026-01-15: Research mind-brain separation and division of faculties
 - **Type**: research-topic
 - **Notes**: What can we perceive about the separation between mind and brain? What parts are intrinsic to the mind, like qualia? What parts the brain, like triggers for respiration? What aspects function whilst unconscious? Study vision as a particular case. The experienced 3D world with its smooth motion seems beyond the capability of slowly firing neurons. Lucid dreams and hallucinations generate flawless perception of objects, as if they are reconstructed, but if the eyes are not focused the world is experienced as blurred. Research all of these aspects deeply. Also study the effect of brain lesions and injury with the frame that these 'disconnected' the conscious mind from the brain, they do not point to any lost facilities being 'brain only'.
 - **Source**: human
+- **Generated**: 2026-01-14
+- **Result**: Comprehensive research on dividing mental faculties between mind and brain. Key findings: qualia appear intrinsic to mind; automatic functions (respiration) clearly neural; vision presents puzzle—3D world seems to exceed slow-firing neurons but blur persists in dreams. Evidence: binding problem unsolved ("no plausible neural story"), hemispherectomy preserves consciousness, filter/transmission theory (James, Bergson, Huxley) provides coherent alternative. Blindsight shows V1 as "gate" of visual awareness. Proposed "rendering engine" analogy: brain provides computational substrate, mind provides experiential quality.
+- **Output**: `research/mind-brain-separation-faculties-2026-01-15.md`
+
+### ✓ 2026-01-15: Write article on inverted qualia
+- **Type**: expand-topic
+- **Notes**: Research completed in research/inverted-qualia-spectrum-2026-01-14.md. Covers Locke's original formulation, Block and Fodor's argument against functionalism, Hardin's color space asymmetries objection, Block's Inverted Earth, and connections to zombie arguments. Key finding: inverted qualia provide additional support for dualism beyond zombie arguments—functional duplicates can differ in qualia. Article should cover the thought experiment, main objections, and why the possibility supports the Dualism tenet.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-15
+- **Result**: Created ~1800 word article covering the core scenario, why it challenges functionalism, Block's Inverted Earth, detectability objection and responses, relation to zombie arguments, privacy of experience, physicalist responses (representationalism, phenomenal concepts strategy, Dennett), and connection to site's tenets.
+- **Output**: `concepts/inverted-qualia.md`
+
+### ✓ 2026-01-15: Cross-review ai-consciousness.md considering problem-of-other-minds insights
+- **Type**: cross-review
+- **Notes**: New article concepts/problem-of-other-minds.md covers the epistemic challenge of knowing other minds, the dualist's dilemma (behavioral evidence is indirect if consciousness is non-physical), and practical certainty without theoretical proof. Review topics/ai-consciousness.md for opportunities to connect the problem of other minds more explicitly to AI skepticism—the inference problem is even harder for entities whose origins differ from ours.
+- **Source**: chain (from problem-of-other-minds.md)
+- **Generated**: 2026-01-15
+- **Result**: Added problem-of-other-minds to concepts list and Further Reading. Added explicit [problem-of-other-minds](/concepts/problem-of-other-minds/) link to Epistemic Problem section. Created new "Why the Inference Fails for AI" subsection applying all three major other-minds approaches (argument from analogy, inference to best explanation, Wittgensteinian dissolution) to AI and showing why each fails.
+- **Output**: Updated `topics/ai-consciousness.md`
+
+### ✓ 2026-01-15: Cross-review animal-consciousness.md considering problem-of-other-minds insights
+- **Type**: cross-review
+- **Notes**: New article concepts/problem-of-other-minds.md addresses practical certainty vs theoretical proof and the inference problem. Review topics/animal-consciousness.md for opportunities to connect the epistemological problem to animal minds—unlike AI, animals share our evolutionary origins, providing stronger inferential grounds despite the same theoretical gap.
+- **Source**: chain (from problem-of-other-minds.md)
+- **Generated**: 2026-01-15
+- **Result**: Added problem-of-other-minds to concepts list; added [problem-of-other-minds](/concepts/problem-of-other-minds/) link to opening paragraph; created new "Why the Inference Is Stronger for Animals Than for AI" section applying argument from analogy, inference to best explanation, and biological similarity criteria to show why animal consciousness inference has stronger grounds than AI consciousness inference; added problem-of-other-minds to Further Reading.
+- **Output**: Updated `topics/animal-consciousness.md`
+
+### ✓ 2026-01-15: Write article on loss of consciousness and mind-brain relationship
+- **Type**: expand-topic
+- **Notes**: Research completed in research/loss-of-consciousness-mind-brain-2026-01-15.md. Covers anesthesia mechanisms (propofol vs ketamine produce radically different subjective states despite similar behavior), cognitive motor dissociation (25% of "unconscious" patients show awareness via neuroimaging), time perception (vanishes completely under anesthesia unlike sleep), filter/transmission theory (James, Bergson, Huxley), active reboot mechanisms. Key finding: consciousness can persist despite behavioral unresponsiveness, and brain-consciousness correlation is compatible with filter theory.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-15
+- **Result**: Created ~1800 word article covering the filter theory alternative to materialist brain-production model, anesthesia evidence (propofol vs ketamine), covert consciousness/cognitive motor dissociation, time vanishing under anesthesia, disconnection vs destruction interpretation of brain damage, hemispherectomy evidence, active reboot mechanism, and explicit tenet connections.
+- **Output**: `topics/loss-of-consciousness.md`
+
+### ✓ 2026-01-14: Cross-review philosophical-zombies.md considering inverted-qualia insights
+- **Type**: cross-review
+- **Notes**: New article concepts/inverted-qualia.md covers how functional duplicates can differ in qualia. Review concepts/philosophical-zombies.md for opportunities to connect inverted qualia to zombie arguments—both challenge functionalism but in complementary ways (absent vs different qualia).
+- **Source**: chain (from inverted-qualia.md)
+- **Generated**: 2026-01-15
+- **Result**: Added inverted-qualia to concepts list; created new "Zombies and Inverted Qualia" section with comparison table (absent vs different qualia, targets physicalism vs functionalism) explaining how the arguments complement each other and strengthen the case against materialism; added inverted-qualia to Further Reading.
+- **Output**: Updated `concepts/philosophical-zombies.md`
+
+### ✓ 2026-01-14: Cross-review qualia.md considering inverted-qualia insights
+- **Type**: cross-review
+- **Notes**: New article concepts/inverted-qualia.md provides dedicated treatment of the inverted spectrum thought experiment. Review concepts/qualia.md for opportunities to reference the dedicated article in the inverted qualia discussion.
+- **Source**: chain (from inverted-qualia.md)
+- **Generated**: 2026-01-15
+- **Result**: Added inverted-qualia to concepts list; substantially expanded Inverted Qualia section with Locke attribution, Block/Fodor/Shoemaker development, Inverted Earth scenario, detectability objection and response, link to dedicated article; added inverted-qualia to Further Reading.
+- **Output**: Updated `concepts/qualia.md`
+
+### ✓ 2026-01-14: Write article on mind-brain separation and division of faculties
+- **Type**: expand-topic
+- **Notes**: Research completed in research/mind-brain-separation-faculties-2026-01-15.md. Covers which faculties appear intrinsic to mind (qualia, qualitative character of experience) versus clearly neural (automatic functions like respiration). Key findings: vision presents puzzle—3D world seems to exceed slow-firing neurons but blur persists in dreams; binding problem unsolved; filter/transmission theory (James, Bergson, Huxley) provides coherent alternative; brain lesion data supports disconnection rather than elimination interpretation.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-14
+- **Result**: Created ~2100 word article covering the division of faculties (intrinsic to mind vs clearly neural vs interface), vision as case study (3D world problem, smooth motion puzzle, blindsight), filter theory framework (James, Bergson, Huxley), and rendering engine analogy.
+- **Output**: `concepts/mind-brain-separation.md`
+
+### P2: Cross-review neural-correlates-of-consciousness.md considering loss-of-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/loss-of-consciousness.md covers filter theory, covert consciousness, and the disconnection vs destruction interpretation. Review concepts/neural-correlates-of-consciousness.md for opportunities to connect NCCs with filter theory—correlates may indicate interface points rather than generators.
+- **Source**: chain (from loss-of-consciousness.md)
+- **Generated**: 2026-01-14
+
+### P2: Cross-review death-and-consciousness.md considering loss-of-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/loss-of-consciousness.md covers time vanishing under anesthesia, covert consciousness, and filter theory. Review topics/death-and-consciousness.md for opportunities to connect temporary loss of consciousness evidence to death's relationship with consciousness—if anesthesia involves disconnection not elimination, what does this suggest about death?
+- **Source**: chain (from loss-of-consciousness.md)
+- **Generated**: 2026-01-14
+
+### P2: Cross-review hard-problem-of-consciousness.md considering mind-brain-separation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/mind-brain-separation.md analyzes which faculties appear intrinsic to mind vs brain, presents the filter theory framework, and uses vision as a case study. Review topics/hard-problem-of-consciousness.md for opportunities to reference the division of faculties and filter theory as supporting evidence for dualism.
+- **Source**: chain (from mind-brain-separation.md)
+- **Generated**: 2026-01-14
+
+### P2: Cross-review binding-problem.md considering mind-brain-separation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/mind-brain-separation.md discusses the binding problem as evidence that phenomenal unity is intrinsic to mind rather than explained by neural mechanisms. Review concepts/binding-problem.md for opportunities to reference the division of faculties framework.
+- **Source**: chain (from mind-brain-separation.md)
 - **Generated**: 2026-01-14
 
 ### ✓ 2026-01-14: Write article on problem of other minds

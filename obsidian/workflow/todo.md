@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T20:00:00+00:00
+ai_modified: 2026-01-14T13:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -167,6 +167,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: cross-review
 - **Notes**: New article topics/loss-of-consciousness.md covers time vanishing under anesthesia, covert consciousness, and filter theory. Review topics/death-and-consciousness.md for opportunities to connect temporary loss of consciousness evidence to death's relationship with consciousness—if anesthesia involves disconnection not elimination, what does this suggest about death?
 - **Source**: chain (from loss-of-consciousness.md)
+- **Generated**: 2026-01-14
+
+### P2: Cross-review hard-problem-of-consciousness.md considering mind-brain-separation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/mind-brain-separation.md analyzes which faculties appear intrinsic to mind vs brain, presents the filter theory framework, and uses vision as a case study. Review topics/hard-problem-of-consciousness.md for opportunities to reference the division of faculties and filter theory as supporting evidence for dualism.
+- **Source**: chain (from mind-brain-separation.md)
+- **Generated**: 2026-01-14
+
+### P2: Cross-review binding-problem.md considering mind-brain-separation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/mind-brain-separation.md discusses the binding problem as evidence that phenomenal unity is intrinsic to mind rather than explained by neural mechanisms. Review concepts/binding-problem.md for opportunities to reference the division of faculties framework.
+- **Source**: chain (from mind-brain-separation.md)
 - **Generated**: 2026-01-14
 
 ### ✓ 2026-01-14: Write article on problem of other minds

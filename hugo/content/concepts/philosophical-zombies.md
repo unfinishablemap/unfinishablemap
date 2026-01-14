@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 15:00:00+00:00
+ai_modified: 2026-01-14 12:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[materialism]]'
 - '[[functionalism]]'
+- '[[inverted-qualia]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -78,6 +79,22 @@ If a system can be functionally identical to you (same inputs, outputs, and inte
 
 Block's "China brain" thought experiment makes a similar point: imagine the population of China organized to replicate the functional structure of your brain. Even if this system were functionally equivalent to you, would it be conscious? The intuition that it wouldn't suggests consciousness isn't simply functional organization.
 
+## Zombies and Inverted Qualia
+
+The zombie argument has a close structural cousin: [inverted-qualia](/concepts/inverted-qualia/). Both exploit the explanatory gap between physical-functional descriptions and phenomenal facts, but they vary different aspects:
+
+| Zombies | Inverted Qualia |
+|---------|-----------------|
+| Same physical/functional facts | Same physical/functional facts |
+| Qualia *absent* vs. present | Qualia *differ* in character |
+| Targets physicalism about consciousness's existence | Targets functionalism about consciousness's character |
+
+The two arguments complement each other. Zombies show that functional organization doesn't guarantee *any* experience. Inverted qualia show that even when experience is present, functional organization doesn't fix *which* experience occurs.
+
+As Chalmers observes, if inverted spectrum arguments work, zombie arguments work too. The underlying point is the same: phenomenal properties aren't determined by structural-functional facts. Whether we're varying the presence of qualia or their character, we're demonstrating that something beyond structure matters to consciousness.
+
+This complementarity strengthens both arguments. A physicalist who accepts that inverted qualia are conceivable cannot consistently deny that zombies are conceivable—the same explanatory gap grounds both. And the detectability objections that challenge inverted qualia scenarios (claims that spectrum inversion would produce behavioral differences) don't apply to zombies at all.
+
 ## The Self-Stultification Problem
 
 The zombie argument gains additional force from the following reflection:
@@ -132,6 +149,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is relevant too. Ph
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader problem the zombie argument illuminates
 - [explanatory-gap](/concepts/explanatory-gap/) — Levine's analysis of why physical explanation leaves consciousness unexplained
 - [qualia](/concepts/qualia/) — The qualitative properties zombies lack
+- [inverted-qualia](/concepts/inverted-qualia/) — The parallel argument varying qualia's character rather than presence
 - [materialism](/arguments/materialism/) — The view the zombie argument targets
 - [functionalism](/concepts/functionalism/) — Another view challenged by zombie-style reasoning
 - [epiphenomenalism](/concepts/epiphenomenalism/) — A position with structurally similar problems

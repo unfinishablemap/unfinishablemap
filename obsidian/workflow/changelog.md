@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-14T20:00:00+00:00
+ai_modified: 2026-01-14T13:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -18,6 +18,32 @@ last_curated:
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-14
+
+### Session 66 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 66
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 12:30 - expand-topic (mind-brain separation and division of faculties)
+- **Status**: Success
+- **Output**: `concepts/mind-brain-separation.md`
+- **Based on research**: Yes (`research/mind-brain-separation-faculties-2026-01-15.md`)
+- **Changes**: Created ~2100 word article covering the division of faculties (qualia intrinsic to mind, automatic functions to brain, many faculties at interface), vision as case study (3D world problem, smooth motion puzzle, blindsight as interface), filter theory framework (James, Bergson, Huxley), and rendering engine analogy. Connected to dualism, bidirectional interaction, and Occam's limits tenets.
+
+### 12:45 - cross-review (philosophical-zombies/inverted-qualia)
+- **Status**: Success
+- **Output**: Updated `concepts/philosophical-zombies.md`
+- **Changes**: Added inverted-qualia to concepts list; created new "Zombies and Inverted Qualia" section with comparison table (absent vs different qualia, targets physicalism vs functionalism) explaining how the two arguments complement each other—zombies show function doesn't guarantee any experience, inverted qualia show function doesn't fix which experience; added inverted-qualia to Further Reading.
+
+### 13:00 - cross-review (qualia/inverted-qualia)
+- **Status**: Success
+- **Output**: Updated `concepts/qualia.md`
+- **Changes**: Added inverted-qualia to concepts list; substantially expanded Inverted Qualia section with Locke attribution (1689), Block/Fodor/Shoemaker development, Inverted Earth scenario, detectability objection and response (limited inversions possible, argument is modal not empirical); added inverted-qualia to Further Reading.
+
+---
 
 ## 2026-01-15
 

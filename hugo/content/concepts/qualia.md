@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-14 12:45:00+00:00
+ai_modified: 2026-01-14 13:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[phenomenal-concepts-strategy]]'
 - '[[illusionism]]'
 - '[[knowledge-argument]]'
+- '[[inverted-qualia]]'
 created: 2026-01-07
 date: &id001 2026-01-07
 draft: false
@@ -72,9 +73,13 @@ If yes—and 82% of non-philosophers agree that she would—then physical facts 
 
 ### Inverted Qualia
 
-Imagine someone whose colour qualia are inverted relative to yours. When you both look at a red apple, you experience red and they experience green (and vice versa). But since they learned colour words pointing at the same objects you did, neither of you would ever know. Their behaviour would be identical to yours.
+The [inverted spectrum](/concepts/inverted-qualia/) scenario imagines someone whose colour qualia are systematically inverted relative to yours. When you both look at a red apple, you experience red and they experience green (and vice versa). But since they learned colour words pointing at the same objects you did, and their behaviour depends on functional role rather than qualitative character, neither of you would ever know. They pass every colour test you do; their behaviour is identical to yours.
 
-If this scenario is coherent, then qualia are not fully determined by functional or behavioural facts. Two beings could be functionally identical yet experientially different.
+First suggested by John Locke in 1689, the scenario was developed into a rigorous argument against [functionalism](/concepts/functionalism/) by Ned Block, Jerry Fodor, and Sydney Shoemaker. If this scenario is coherent—if functionally identical beings can differ in their qualia—then qualia are not determined by functional organization. Something beyond function fixes the character of experience.
+
+Ned Block's Inverted Earth scenario sharpens the point: after decades on a planet with inverted colors and inverted color terms, your functional role completely shifts while your qualia stay fixed. If functional role (including environmental relations) can change while qualia remain constant, qualia aren't constituted by functional role.
+
+Some object that human color space is structurally asymmetrical (warm vs. cool colors, brown as dark yellow) in ways that would make inversion behaviorally detectable. But limited inversions remain possible, and the argument's force is modal: even if undetectable inversion is impossible for humans, it's conceivable for some possible beings. See [inverted-qualia](/concepts/inverted-qualia/) for full treatment including Block's Inverted Earth and physicalist responses.
 
 ### Zombies
 
@@ -138,6 +143,7 @@ This doesn't solve the hard problem—it doesn't explain *how* qualia arise or w
 ## Further Reading
 
 - [knowledge-argument](/concepts/knowledge-argument/) - The knowledge argument (Mary's Room) dramatizing qualia's epistemic distinctness
+- [inverted-qualia](/concepts/inverted-qualia/) - The inverted spectrum argument showing qualia aren't fixed by function
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) - The broader problem qualia exemplify
 - [philosophical-zombies](/concepts/philosophical-zombies/) - The zombie argument and why conceivability of absent qualia challenges physicalism
 - [functionalism](/concepts/functionalism/) - The view that mental states are functional roles, and why it fails to capture qualia
