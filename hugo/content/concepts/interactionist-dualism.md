@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 20:30:00+00:00
+ai_modified: 2026-01-14 23:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[qualia]]'
 - '[[neural-correlates-of-consciousness]]'
+- '[[substance-property-dualism]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -93,15 +94,15 @@ This remains an active empirical question. The site takes no position on which q
 
 ## Property Dualism vs. Substance Dualism
 
-Interactionism is compatible with different dualist ontologies:
+Interactionism is compatible with different dualist ontologies (see [substance-property-dualism](/concepts/substance-property-dualism/) for detailed treatment):
 
-**Substance dualism** holds that mind and body are different *kinds of thing*—distinct substances. This is Descartes' view.
+**Substance dualism** holds that mind and body are different *kinds of thing*—distinct substances. This is Descartes' view. Modern defenders like E.J. Lowe and Dean Zimmerman argue that quantum mechanics resolves the classical interaction problem by providing openings where conservation laws don't rule out mental causation.
 
-**Property dualism** holds that mental properties are distinct from physical properties, but doesn't require separate substances. David Chalmers initially defended this as "naturalistic dualism."
+**Property dualism** holds that mental properties are distinct from physical properties, but doesn't require separate substances. David Chalmers initially defended this as "naturalistic dualism." However, property dualism risks sliding toward [epiphenomenalism](/concepts/epiphenomenalism/)—if mental properties are merely properties of physical systems, the temptation is to conclude they're causally redundant.
 
-The distinction matters less than it might seem. Both agree that consciousness is not reducible to physics and that mental properties are genuinely different from physical properties. Chalmers himself now expresses preference for substance dualism, partly because it better handles personal identity.
+The distinction matters less than it might seem for interactionism's viability. Both agree that consciousness is not reducible to physics and that mental properties are genuinely different from physical properties. Chalmers himself now expresses preference for substance dualism, partly because it better handles personal identity and partly because property dualism tends toward either panpsychism (with its combination problem) or epiphenomenalism.
 
-This site is compatible with either formulation. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet), not the precise metaphysical structure underlying them.
+This site is compatible with either formulation. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet), not the precise metaphysical structure underlying them. The interactionism is the essential commitment; the substance/property question is downstream.
 
 ## Relation to This Site's Perspective
 
@@ -133,6 +134,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [tenets](/tenets/) — The site's foundational commitments
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Detailed treatment of quantum mechanisms
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Empirical findings compatible with interactionism
+- [substance-property-dualism](/concepts/substance-property-dualism/) — The ontological options for dualism
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view this site rejects
 - [interactionist-dualism-2026-01-06](/research/interactionist-dualism-2026-01-06/) — Detailed research notes
 
