@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-14T06:10:00+00:00
+ai_modified: 2026-01-15T00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -153,6 +153,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: research-topic
 - **Notes**: Corpus callosotomy patients challenge assumptions about unified consciousness. Covers: Sperry and Gazzaniga's experiments, what "two streams of consciousness" means for dualism, Nagel's 1971 analysis, and implications for the binding problem. Important because: (1) empirical challenge to simple unity thesis, (2) connects to binding-problem article, (3) relevant to No Many Worlds (what individuates subjects?). Suggested in optimistic-2026-01-13.
 - **Source**: gap_analysis
+- **Generated**: 2026-01-14
+
+### ✓ 2026-01-14: Write article on Global Workspace Theory
+- **Type**: expand-topic
+- **Notes**: Research completed in research/global-workspace-theory-2026-01-14.md. Covers GWT (Baars), GNW (Dehaene-Changeux), COGITATE 2025 results, Block's overflow argument. Key finding: GWT addresses only access consciousness, not phenomenal consciousness—does not solve hard problem. COGITATE study challenged key predictions. Important for comparing site's dualism with leading neuroscientific theory.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-14
+- **Result**: Created ~1600 word article covering GWT workspace architecture, GNW ignition mechanism, Block's access/phenomenal distinction, COGITATE 2025 results, AI consciousness implications, and tenet alignment analysis
+- **Output**: `concepts/global-workspace-theory.md`
+
+### ✓ 2026-01-14: Write article on Higher-Order Theories of Consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/higher-order-theories-consciousness-2026-01-14.md. Covers HOT (Rosenthal) vs HOP (Armstrong, Lycan), Block's "defunct" critique, rock objection, misrepresentation problem, animal consciousness implications. Key finding: HOT explains only access consciousness—Block and Farrell argue it fails for phenomenal consciousness.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-14
+- **Result**: Created ~1800 word article covering HOT/HOP theories, rock objection, misrepresentation problem, Block's "defunct" critique, connection to self-reference paradox, AI implications, and tenet analysis
+- **Output**: `concepts/higher-order-theories.md`
+
+### P2: Write article on animal consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/animal-consciousness-2026-01-14.md. Covers Cambridge Declaration (2012), New York Declaration (2024), philosophical positions (Nagel, Carruthers, Birch), mirror self-recognition tests. Key finding: dualism is better positioned than materialism to take animal consciousness seriously—the hard problem applies equally to animals.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-14
+
+### P2: Write article on death, consciousness, and personal persistence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/death-consciousness-persistence-2026-01-14.md. Covers survival arguments (Plato, Descartes, Ducasse, van Inwagen), personal identity, near-death experiences, quantum soul hypothesis. Key finding: site's commitment to non-reducible consciousness and indexical identity provides stronger resources for survival question than materialist alternatives.
+- **Source**: unconsumed_research
 - **Generated**: 2026-01-14
 
 ### ✓ 2026-01-14: Write article on the measurement problem

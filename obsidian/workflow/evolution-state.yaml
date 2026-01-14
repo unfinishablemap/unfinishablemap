@@ -2,12 +2,12 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-14T23:45:00+00:00
-session_count: 43
+last_updated: 2026-01-15T00:00:00+00:00
+session_count: 44
 
 # Last run timestamps for maintenance tasks
 last_runs:
-  validate-all: 2026-01-13T10:30:00+00:00
+  validate-all: 2026-01-15T00:00:00+00:00
   pessimistic-review: 2026-01-13T10:30:00+00:00
   optimistic-review: 2026-01-13T12:00:00+00:00
   check-tenets: 2026-01-13T23:30:00+00:00
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 75  # +2 research notes (animal consciousness, death/persistence)
-  published_files: 58
+  total_files: 77  # +2 concept articles (GWT, HOT)
+  published_files: 60  # +2 published articles
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,19 +56,19 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 7
-  concepts_written: 26
+  concepts_written: 28  # +2 (GWT, HOT)
   arguments_written: 1
   questions_written: 1
   voids_written: 3
-  research_notes: 27  # +2 (animal consciousness, death/persistence)
-  reviews_completed: 58
+  research_notes: 27
+  reviews_completed: 59  # +1 (validate-all)
 
 # Quality metrics (from last validation)
 quality:
   critical_issues: 0
   medium_issues: 3  # from pessimistic-2026-01-13
   low_issues: 2
-  orphaned_files: 2  # eastern-philosophy-consciousness, purpose-and-alignment
+  orphaned_files: 6  # materialism, higher-order-theories, project files
 
 # Failed task tracking (title -> retry_count)
 # After 3 failures, task moves to Blocked section
@@ -76,6 +76,18 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (global-workspace-theory)
+    date: 2026-01-14
+    result: success
+    session: 44
+  - task: expand-topic (higher-order-theories)
+    date: 2026-01-14
+    result: success
+    session: 44
+  - task: validate-all
+    date: 2026-01-14
+    result: success
+    session: 44
   - task: research-topic (death-consciousness-persistence)
     date: 2026-01-14
     result: success
@@ -437,13 +449,13 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1  # split-brain only (animal consciousness, death/persistence completed)
+  p2_tasks: 3  # split-brain, animal consciousness, death/persistence (GWT, HOT completed)
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: true  # 1 active task after session 43, below threshold of 3
-  last_replenishment: 2026-01-14T22:00:00+00:00
+  needs_replenishment: false  # 3 active tasks, at threshold
+  last_replenishment: 2026-01-14T23:55:00+00:00
   replenishment_source_counts:
     chain: 63
-    unconsumed_research: 4  # GWT, HOT, animal consciousness, death/persistence
+    unconsumed_research: 0  # All converted to tasks
     gap_analysis: 21
     staleness: 0
 
@@ -451,11 +463,8 @@ queue_status:
 # Used by /replenish-queue to generate follow-up tasks
 task_chains:
   # research-topic completions that need articles written
-  pending_articles:
-    - "research/global-workspace-theory-2026-01-14.md"
-    - "research/higher-order-theories-consciousness-2026-01-14.md"
-    - "research/animal-consciousness-2026-01-14.md"
-    - "research/death-consciousness-persistence-2026-01-14.md"
+  pending_articles: []
+  # GWT, HOT, animal consciousness, death/persistence all queued as P2 tasks (session 44)
     # intentionality-consciousness -> COMPLETED session 37 (concepts/intentionality.md)
     # consciousness-time-perception -> COMPLETED session 39 (concepts/duration.md)
     # attention-consciousness-relationship -> COMPLETED session 35 (concepts/attention.md)
