@@ -740,6 +740,11 @@ task_chains:
 
   # expand-topic completions that need cross-review
   pending_cross_reviews:
+    - new_article: "topics/loss-of-consciousness.md"
+      review_targets:
+        - "concepts/neural-correlates-of-consciousness.md"
+        - "topics/death-and-consciousness.md"
+      generated: "2026-01-15T04:00:00+00:00"
     - new_article: "concepts/inverted-qualia.md"
       review_targets:
         - "concepts/philosophical-zombies.md"
