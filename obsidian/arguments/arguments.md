@@ -3,7 +3,7 @@ title: "Arguments"
 created: 2026-01-06
 modified: 2026-01-06
 human_modified: 2026-01-06
-ai_modified: 2026-01-15T14:15:00+00:00
+ai_modified: 2026-01-15T22:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -53,4 +53,16 @@ The many-worlds interpretation of quantum mechanics claims to solve the measurem
 - Consciousness has no role in many-worlds, conflicting with Bidirectional Interaction
 
 **Discussion:** [[many-worlds]]
+
+### Against Epiphenomenalism
+
+Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. This page presents five arguments showing that epiphenomenalism is self-undermining.
+
+**Key claims:**
+- The self-stultification argument: if consciousness causes nothing, reports about consciousness are accidentally correct at best
+- The evolutionary argument: consciousness has no fitness effects if epiphenomenal, so natural selection cannot explain its existence
+- The introspection problem: introspective access to consciousness becomes inexplicable
+- The self-knowledge problem: knowledge of our own minds requires causal connection
+
+**Discussion:** [[epiphenomenalism-argument|epiphenomenalism]]
 
