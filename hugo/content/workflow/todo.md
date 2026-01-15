@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-15 23:15:00+00:00
+ai_modified: 2026-01-16 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,11 +38,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Create concept page on the pairing problem
+### P2: Research quantum mechanics and free will
+- **Type**: research-topic
+- **Notes**: The site connects quantum indeterminacy with libertarian free will but could engage more deeply with this philosophical literature. Key topics: Does quantum randomness help free will or hurt it? How do libertarians respond to the "luck objection"? What role does agent causation play in quantum approaches? Robert Kane, Peter van Inwagen, and recent work on quantum approaches to free will.
+- **Source**: gap_analysis (tenet support)
+- **Generated**: 2026-01-16
+
+### P2: Create argument page "For Interactionist Dualism"
 - **Type**: expand-topic
-- **Notes**: Kim's pairing problem (Kim 2005) is a distinct challenge to substance dualism—what pairs a particular mind with a particular body if minds lack spatial location? Research in objections-to-interactionist-dualism covers this but deserves dedicated treatment given its significance. Should include Bailey/Rasmussen/Van Horn haecceity response and spatial location response.
-- **Source**: gap_analysis (from objections research)
-- **Generated**: 2026-01-15
+- **Notes**: The arguments section has only 1 page (Against Materialism) vs target of 5. A formal argument page for interactionist dualism would consolidate the positive case: knowledge argument, conceivability arguments, unity of consciousness, intentionality, self-stultification of epiphenomenalism. Draw from arguments-for-dualism.md concept page but in structured argument form.
+- **Source**: gap_analysis (arguments gap)
+- **Generated**: 2026-01-16
 
 ### P3: Create concept page for consciousness-selecting-neural-patterns
 - **Type**: expand-topic
@@ -51,6 +57,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Create concept page on the pairing problem
+- **Type**: expand-topic
+- **Notes**: Kim's pairing problem (Kim 2005) is a distinct challenge to substance dualism—what pairs a particular mind with a particular body if minds lack spatial location? Research in objections-to-interactionist-dualism covers this but deserves dedicated treatment given its significance. Should include Bailey/Rasmussen/Van Horn haecceity response and spatial location response.
+- **Result**: Created ~2000 word concept page covering the problem statement, Kim's principle (causation requires spatial relations), three major responses (spatial location of minds, haecceity response, non-spatial causation), and how the site's quantum framework addresses the problem by locating consciousness where it causally interfaces with the brain.
+- **Output**: `concepts/pairing-problem.md`
+
+### ✓ 2026-01-16: Research consciousness and the measurement problem
+- **Type**: research-topic
+- **Notes**: The site's Minimal Quantum Interaction tenet depends on consciousness playing a role at quantum collapse. What does contemporary philosophy of physics say about the measurement problem and its solutions? Key questions: What interpretations preserve a role for consciousness? How do objective collapse theories (GRW, Penrose OR) differ from consciousness-based collapse? What does the "problem of definite outcomes" reveal about physical completeness?
+- **Result**: Comprehensive research covering the measurement problem (problem of definite outcomes), five major positions (consciousness-causes-collapse, Stapp's quantum Zeno, GRW/CSL objective collapse, Penrose-Diosi gravitational collapse, many-worlds), and how quantum indeterminacy creates a loophole in causal closure. Key finding: decoherence explains basis selection but not single-outcome selection—leaving conceptual space for mental causation at indeterminacies.
+- **Output**: `research/consciousness-measurement-problem-2026-01-16.md`
 
 ### ✓ 2026-01-15: Cross-review tenets.md considering cognitive-science-dualism research
 - **Type**: cross-review
