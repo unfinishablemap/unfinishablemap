@@ -3,7 +3,7 @@ title: "Mental Causation"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-16T00:15:00+00:00
+ai_modified: 2026-01-16T00:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[agent-causation]]"
 related_articles:
   - "[[tenets]]"
+  - "[[epiphenomenalism-argument]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -118,7 +119,13 @@ The phenomenology of [[mental-effort|mental effort]] supports this: effort feels
 
 ## The Self-Stultification Argument
 
-The strongest positive argument for mental causation is the [[epiphenomenalism|self-stultification problem]].
+The strongest positive argument for mental causation is the self-stultification problem. The [[epiphenomenalism-argument|formal argument against epiphenomenalism]] presents this in rigorous form:
+
+1. We discuss consciousness—we write about qualia, debate the hard problem, report our experiences
+2. If epiphenomenalism is true, these discussions are not caused by consciousness itself
+3. If our discussions are not caused by consciousness, our reports about consciousness are accidentally correlated with their subject matter at best
+4. Beliefs formed without causal connection to their subject matter are not rationally held
+5. Therefore, epiphenomenalism cannot be rationally believed on the basis of evidence about consciousness
 
 If you can accurately report your conscious experiences—"I'm in pain," "I see red"—then your experiences must cause your reports. The pain causes the utterance about pain. Otherwise, why would the report be about the experience at all?
 
@@ -157,6 +164,7 @@ The site affirms mental causation because denying it undermines everything we th
 
 ## Further Reading
 
+- [[epiphenomenalism-argument]] — The cumulative case against epiphenomenalism (five arguments)
 - [[causal-closure]] — The principle mental causation challenges
 - [[interactionist-dualism]] — The framework that accommodates mental causation
 - [[epiphenomenalism]] — The view denying mental causation
