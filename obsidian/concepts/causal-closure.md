@@ -3,7 +3,7 @@ title: "Causal Closure of the Physical"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T02:45:00+00:00
+ai_modified: 2026-01-16T00:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,8 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[materialism]]"
   - "[[quantum-consciousness]]"
+  - "[[emergence]]"
+  - "[[mental-causation]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -66,6 +68,16 @@ These considerations are powerful but not decisive.
 
 ## Problems with the Principle
 
+### Kim's Formulation Dilemma
+
+Kim himself acknowledged a critical challenge in formulating causal closure. The principle must be neither too strong nor too weak:
+
+**If too strong** (no physical event has any non-physical cause), the principle simply presupposes physicalism. The argument against mental causation becomes circular—assuming what it's meant to prove.
+
+**If too weak** (physical events have physical causes but maybe other causes too), it doesn't exclude mental causation. The argument loses force.
+
+Finding the right formulation—strong enough to exclude dualist mental causation but not so strong as to beg the question—proves difficult. The principle's apparent plausibility may depend precisely on this ambiguity.
+
 ### Empirical Status
 
 Causal closure is not an empirical finding but a methodological assumption. Science does not *discover* that every physical event has a sufficient physical cause—it *assumes* this in order to search for physical causes. The success of physics shows that *many* physical events have physical causes, not that *all* do.
@@ -84,15 +96,17 @@ If consciousness acts at these indeterminacies—selecting among outcomes physic
 
 This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness influences physical outcomes at quantum indeterminacies, where the physical story runs out.
 
-### The Formulation Dilemma
+### The Emergentist Response
 
-Kim himself acknowledged a challenge: the causal closure principle must be neither too strong nor too weak.
+Strong [[emergence|emergentism]] provides another route to denying causal closure. Timothy O'Connor and Hong Yu Wong argue that emergent properties possess "fundamentally novel" causal powers not reducible to component-level causation. Their "structural triggering conditions" framework holds that latent emergent powers manifest when components organize appropriately.
 
-If formulated too strongly (no physical event has any non-physical cause), it simply presupposes physicalism. The argument becomes circular—assuming what it's meant to prove.
+On this view, causal closure fails because organization adds something genuinely new. The physical base provides necessary but not sufficient conditions. O'Connor and Wong:
 
-If formulated too weakly (physical events have physical causes but maybe other causes too), it doesn't exclude mental causation. The argument loses force.
+> "If one decides to act in the world—perhaps making up one's mind to switch on an electric kettle—strongly emergent consciousness (higher level) is imagined to downwardly cause a resultant state of (lower level) molecular motion."
 
-Finding the right formulation—strong enough to exclude dualism but not so strong as to beg the question—proves difficult. The principle's plausibility may depend on precisely this ambiguity.
+Classical British emergentists (Broad, Alexander) affirmed this position but lacked a mechanism. They accepted strong emergence with "natural piety"—brute facts to be acknowledged. This left their position vulnerable to Kim's exclusion argument.
+
+The site's quantum framework strengthens emergentism by specifying where and how emergent causation operates: at quantum indeterminacies, where physics provides probabilities but not outcomes. This transforms the emergentist response from mere assertion to a mechanism: consciousness fills a genuine gap in physical determination.
 
 ### Arguments from Reason
 
@@ -134,6 +148,8 @@ This is not "god of the gaps" reasoning. It's recognition that physics *describe
 
 ## Further Reading
 
+- [[mental-causation]] — The philosophical problem causal closure creates
+- [[emergence]] — The emergentist response to causal closure
 - [[interactionist-dualism]] — The position that mental causation enables
 - [[quantum-consciousness]] — Mechanisms for consciousness-matter interaction
 - [[epiphenomenalism]] — The view accepting closure forces
