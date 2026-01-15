@@ -3,7 +3,7 @@ title: "Philosophical Zombies"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T12:45:00+00:00
+ai_modified: 2026-01-15T14:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,7 @@ concepts:
   - "[[inverted-qualia]]"
 related_articles:
   - "[[tenets]]"
+  - "[[against-functionalism-argument]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -72,11 +73,19 @@ The idea: when we think about consciousness using phenomenal concepts (concepts 
 
 ## Zombies and Functionalism
 
-The zombie thought experiment also targets [[functionalism]]—the view that mental states are defined by their functional roles.
+The zombie thought experiment also targets [[functionalism]]—the view that mental states are defined by their functional roles. The [[against-functionalism-argument|argument against functionalism]] presents this as the first of five convergent attacks on the functionalist position.
 
 If a system can be functionally identical to you (same inputs, outputs, and internal causal structure) while lacking experience, then experience is not a matter of functional organization. Functionalism would be false because mental states would have properties (qualitative character) that their functional role doesn't capture.
 
-Block's "China brain" thought experiment makes a similar point: imagine the population of China organized to replicate the functional structure of your brain. Even if this system were functionally equivalent to you, would it be conscious? The intuition that it wouldn't suggests consciousness isn't simply functional organization.
+The formal argument structure:
+
+1. If functionalism is true, any system with the same functional organization as a conscious being is conscious.
+2. Zombies—beings functionally identical to us but lacking experience—are conceivable.
+3. If zombies are conceivable, they are metaphysically possible.
+4. If zombies are possible, functional organization doesn't guarantee consciousness.
+5. Therefore, functionalism is false.
+
+Block's "China brain" thought experiment makes a similar point: imagine the population of China organized to replicate the functional structure of your brain. Even if this system were functionally equivalent to you, would it be conscious? The intuition that it wouldn't suggests consciousness isn't simply functional organization. The China brain variation highlights that *something* is missing from the functionalist picture—a billion people following rules doesn't seem to add up to unified experience, even if the functional organization is correct.
 
 ## Zombies and Inverted Qualia
 
@@ -151,6 +160,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is relevant too. Ph
 - [[inverted-qualia]] — The parallel argument varying qualia's character rather than presence
 - [[materialism]] — The view the zombie argument targets
 - [[functionalism]] — Another view challenged by zombie-style reasoning
+- [[against-functionalism-argument]] — Five formal arguments against functionalism, with zombies as the first
 - [[epiphenomenalism]] — A position with structurally similar problems
 
 ### External Sources
