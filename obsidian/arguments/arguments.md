@@ -3,7 +3,7 @@ title: "Arguments"
 created: 2026-01-06
 modified: 2026-01-06
 human_modified: 2026-01-06
-ai_modified: 2026-01-15T22:40:00+00:00
+ai_modified: 2026-01-15T23:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -65,4 +65,17 @@ Epiphenomenalism holds that consciousness is causally inert—a byproduct of bra
 - The self-knowledge problem: knowledge of our own minds requires causal connection
 
 **Discussion:** [[epiphenomenalism-argument|epiphenomenalism]]
+
+### Against Functionalism
+
+Functionalism defines mental states by their functional roles—what they do rather than what they're made of. This page presents five arguments showing that functional organization is insufficient for consciousness.
+
+**Key claims:**
+- The absent qualia argument: zombies (functionally identical beings without experience) are conceivable, showing function doesn't guarantee consciousness
+- The inverted qualia argument: functionally identical beings could differ in qualitative experience, showing function doesn't fix phenomenal character
+- The Chinese Room: symbol manipulation isn't understanding—syntax isn't semantics
+- Multiple realizability cuts both ways: if substrate doesn't matter for function, why should function determine consciousness?
+- The explanatory gap: functional description doesn't explain why there's experience at all
+
+**Discussion:** [[functionalism-argument|functionalism]]
 
