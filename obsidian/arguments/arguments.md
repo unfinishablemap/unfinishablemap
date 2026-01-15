@@ -3,7 +3,7 @@ title: "Arguments"
 created: 2026-01-06
 modified: 2026-01-06
 human_modified: 2026-01-06
-ai_modified:
+ai_modified: 2026-01-15T12:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -29,4 +29,16 @@ A comprehensive case against materialism in all its forms—eliminative, reducti
 - Quantum mechanics is not causally closed in the way materialism requires
 
 **Discussion:** [[materialism]]
+
+### For Interactionist Dualism
+
+A cumulative case for interactionist dualism: consciousness is irreducible to physical processes and causally influences the physical world. Seven arguments converge on this conclusion.
+
+**Key claims:**
+- The explanatory gap shows physical explanation cannot reach qualia
+- Zombie conceivability shows consciousness is not necessitated by physics
+- The self-stultification argument shows consciousness must be causally relevant
+- Quantum indeterminacy provides the mechanism for mental causation
+
+**Discussion:** [[interactionist-dualism]]
 
