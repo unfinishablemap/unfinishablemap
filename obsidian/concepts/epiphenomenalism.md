@@ -3,12 +3,15 @@ title: "Epiphenomenalism"
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-01-09T12:00:00+00:00
+ai_modified: 2026-01-15T14:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[qualia]]"
+  - "[[mental-causation]]"
+  - "[[causal-closure]]"
+  - "[[interactionist-dualism]]"
 related_articles:
   - "[[tenets]]"
   - "[[epiphenomenalism-2026-01-08]]"
@@ -43,15 +46,17 @@ Epiphenomenalism seems obviously false—how can pain not cause me to avoid the 
 
 ### The Closure Argument
 
-1. Every physical event that has a cause has a sufficient physical cause.
-2. If mental events are not physical, they cannot be sufficient causes of physical events.
-3. Mental events either are physical (identity theory) or cause nothing (epiphenomenalism).
-4. Mental events are not physical.
-5. Therefore, mental events cause nothing.
+The [[causal-closure|causal closure of physics]] provides the main motivation for epiphenomenalism. Kim's exclusion argument (see [[mental-causation]] for detailed treatment) runs:
+
+1. **Causal closure**: Every physical event that has a cause has a sufficient physical cause.
+2. **Non-identity**: Mental events are not physical events.
+3. **No overdetermination**: Physical effects aren't systematically overdetermined by both mental and physical causes.
+4. **Exclusion**: Therefore, mental causes are excluded by physical causes.
+5. **Conclusion**: Mental events cause nothing (epiphenomenalism) or are identical to physical events (reductionism).
 
 The first premise—causal closure—claims that physics is complete. You don't need to invoke anything non-physical to explain physical events; the physical story is sufficient by itself. If this is true, what room is there for consciousness to do anything?
 
-Epiphenomenalists accept premises 1-4 and draw the conclusion. Materialists reject premise 4. This site rejects premise 1—the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that consciousness influences quantum outcomes that physics leaves undetermined.
+Epiphenomenalists accept the argument and draw the epiphenomenalist horn of the dilemma. Materialists reject premise 2. This site rejects premise 1—the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that consciousness influences quantum outcomes that physics leaves undetermined. At quantum indeterminacies, physics provides *necessary* but not *sufficient* causes, leaving room for mental causation without exclusion.
 
 ### The Explanatory Gap
 
@@ -61,7 +66,7 @@ This reasoning is weak. We also don't understand how physical states produce con
 
 ## The Self-Stultification Problem
 
-The most powerful objection to epiphenomenalism is that it undermines itself.
+The most powerful objection to epiphenomenalism is that it undermines itself. This argument is developed in detail in the [[mental-causation]] article.
 
 Consider: you're reading an argument for epiphenomenalism. You find it convincing. You form the belief that consciousness is causally inert.
 
@@ -128,7 +133,10 @@ The self-stultification problem remains the decisive objection. If epiphenomenal
 
 ## Further Reading
 
-- [[tenets]] — The site's alternative to epiphenomenalism
+- [[mental-causation]] — The problem epiphenomenalism claims to solve
+- [[causal-closure]] — The principle that motivates epiphenomenalism
+- [[interactionist-dualism]] — The site's alternative framework
+- [[tenets]] — The site's foundational commitments against epiphenomenalism
 - [[hard-problem-of-consciousness]] — The context for debates about consciousness
 - [[epiphenomenalism-2026-01-08]] — Detailed research notes
 
