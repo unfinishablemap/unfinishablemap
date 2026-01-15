@@ -3,7 +3,7 @@ title: "Mind-Brain Separation and the Division of Faculties"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T12:30:00+00:00
+ai_modified: 2026-01-15T12:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[binding-problem]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[interactionist-dualism]]"
+  - "[[dreams-and-consciousness]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -94,7 +95,23 @@ This framework explains:
 - Why brain damage produces specific deficits (damaged filter components)
 - Why consciousness persists despite massive neural loss (consciousness is not the filter)
 - Why qualia seem irreducible (they are not outputs of the filter)
-- Why dreams can construct perceptual worlds (consciousness uses the filter's capabilities)
+- Why [[dreams-and-consciousness|dreams]] can construct perceptual worlds (consciousness uses the filter's capabilities)
+
+### Dreams as Evidence for Filter Theory
+
+[[Dreams-and-consciousness|Dreams]] provide particularly compelling evidence for the filter model. During REM sleep, the brain generates fully immersive experiential worlds—vivid, narratively structured, emotionally charged—without any external sensory input. We see, hear, touch, and navigate environments that appear entirely real.
+
+On the production model, this is puzzling: why would neural activity produce elaborate conscious experience when there's nothing to perceive? The filter model explains it naturally: when sensory input is removed, consciousness uses the brain's representational capacities more freely, no longer constrained to representing external reality.
+
+The evidence is nuanced:
+
+**Optical constraints persist**: Blurred vision from unfocused eyes affects dream imagery. The brain's processing of optical information constrains experience even during internal generation—consistent with the rendering engine providing computational substrate.
+
+**Physical laws don't persist**: Dreams routinely transcend physical possibility. We fly, teleport, and violate causality without puzzlement. The brain's physics engine, evolved for survival in a lawful world, does not constrain dream experience the way it constrains waking perception. Consciousness is not limited to representing physical reality.
+
+**Lucid dreaming demonstrates bidirectional interaction**: The 2025 Demirel findings identify lucid dreaming as a distinct consciousness state with its own neural signature. The dreamer decides to fly; flying experience occurs. Whatever mechanism mediates this, consciousness controls experience through intention—not merely receiving the brain's outputs.
+
+The dissociation is telling: consciousness can operate the brain's rendering engine without the engine determining what is rendered. This is precisely what the filter model predicts.
 
 ## The Brain as Rendering Engine
 
@@ -127,6 +144,7 @@ The site's [[tenets]] include [[tenets#^dualism|dualism]]—consciousness is not
 
 ## Further Reading
 
+- [[dreams-and-consciousness]] — Dreams as evidence for the filter model
 - [[binding-problem]]
 - [[loss-of-consciousness]]
 - [[interactionist-dualism]]
