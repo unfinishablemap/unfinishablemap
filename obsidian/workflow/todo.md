@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T12:45:00+00:00
+ai_modified: 2026-01-15T14:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,24 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review eastern-philosophy-consciousness.md considering dreams-and-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article concepts/dreams-and-consciousness.md covers Tibetan dream yoga and contemplative approaches to dreaming. Review topics/eastern-philosophy-consciousness.md for opportunities to expand dream yoga coverage and connect Eastern practices with contemporary lucid dreaming research.
-- **Source**: chain (from dreams-and-consciousness.md)
-- **Generated**: 2026-01-15
-
-### P2: Research introspection reliability and first-person methods
-- **Type**: research-topic
-- **Notes**: The site relies heavily on first-person evidence (phenomenology, neurophenomenology, introspective reports about qualia). But critics challenge introspection's reliability (Schwitzgebel, Nisbett & Wilson). Key questions: How reliable is introspection? When does it succeed and fail? How do trained introspectors (meditators, phenomenologists) compare to untrained? Would strengthen phenomenology.md and address a key materialist objection.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-14
-
-### P2: Deep review free-will.md for comprehensiveness
-- **Type**: deep-review
-- **Notes**: free-will.md is one of the site's oldest and most-referenced topic pages. It hasn't received a comprehensive review since existentialism.md was deep-reviewed (session 48). Check for: outdated arguments, missing cross-links to newer content (libet-experiments.md, retrocausality.md, mental-effort.md), tenet alignment, and philosophical accuracy.
-- **Source**: staleness (long since last deep review)
-- **Generated**: 2026-01-14
-
 ### P3: Create concept page for the combination problem
 - **Type**: expand-topic
 - **Notes**: Referenced in panpsychism article. The challenge of explaining how micro-experiences combine into unified consciousness. Important counterpoint to site's preferred interactionism.
@@ -74,6 +56,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Deep review free-will.md for comprehensiveness
+- **Type**: deep-review
+- **Notes**: free-will.md is one of the site's oldest and most-referenced topic pages. It hasn't received a comprehensive review since existentialism.md was deep-reviewed (session 48). Check for: outdated arguments, missing cross-links to newer content (libet-experiments.md, retrocausality.md, mental-effort.md), tenet alignment, and philosophical accuracy.
+- **Source**: staleness (long since last deep review)
+- **Result**: Addressed illusionist objection to phenomenology-of-effort evidence; added "What Would Challenge This Framework?" section articulating falsifiability conditions; added illusionism to concepts list.
+- **Output**: Updated `topics/free-will.md`, created `workflow/reviews/deep-review-2026-01-15-free-will.md`
+
+### ✓ 2026-01-15: Research introspection reliability and first-person methods
+- **Type**: research-topic
+- **Notes**: The site relies heavily on first-person evidence (phenomenology, neurophenomenology, introspective reports about qualia). But critics challenge introspection's reliability (Schwitzgebel, Nisbett & Wilson). Key questions: How reliable is introspection? When does it succeed and fail? How do trained introspectors (meditators, phenomenologists) compare to untrained? Would strengthen phenomenology.md and address a key materialist objection.
+- **Source**: gap_analysis
+- **Result**: Comprehensive research covering Nisbett/Wilson critique, choice blindness (Johansson), Schwitzgebel's skepticism, Fox et al. training effects, microphenomenology (Petitmengin), critical phenomenology (Velmans/Chalmers). Key finding: process access is limited but phenomenal content access may be more reliable; training improves accuracy logarithmically.
+- **Output**: `research/introspection-reliability-first-person-2026-01-15.md`
+
+### ✓ 2026-01-15: Cross-review eastern-philosophy-consciousness.md considering dreams-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/dreams-and-consciousness.md covers Tibetan dream yoga and contemplative approaches to dreaming. Review topics/eastern-philosophy-consciousness.md for opportunities to expand dream yoga coverage and connect Eastern practices with contemporary lucid dreaming research.
+- **Source**: chain (from dreams-and-consciousness.md)
+- **Result**: Added dreams-and-consciousness to concepts list; created new "Dream Yoga: Consciousness in Sleep" section covering six stages, philosophical significance (mind constructs both dreams and waking experience), 2025 Demirel lucid dreaming findings, and connection to filter theory and Bidirectional Interaction tenet; added dreams-and-consciousness to Further Reading.
+- **Output**: Updated `topics/eastern-philosophy-consciousness.md`
 
 ### ✓ 2026-01-15: Cross-review mind-brain-separation.md considering dreams-and-consciousness insights
 - **Type**: cross-review
