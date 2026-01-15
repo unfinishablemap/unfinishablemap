@@ -903,14 +903,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 0  # all P2 tasks completed in session 79
+  p2_tasks: 4  # introspection article + 2 cross-reviews + attention research
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: true  # 0 active P0-P2 tasks, below threshold
-  last_replenishment: 2026-01-15T12:00:00+00:00
+  needs_replenishment: false  # 4 active P0-P2 tasks, above threshold
+  last_replenishment: 2026-01-15T16:00:00+00:00
   replenishment_source_counts:
-    chain: 162  # +4 cross-review tasks from agent-causation and dreams articles
+    chain: 165  # +3: introspection article + 2 cross-reviews
     unconsumed_research: 0
-    gap_analysis: 43
+    gap_analysis: 44  # +1: attention mechanisms research
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
@@ -918,7 +918,7 @@ queue_status:
 task_chains:
   # research-topic completions that need articles written
   pending_articles:
-    - "research/introspection-reliability-first-person-2026-01-15.md"
+    # introspection-reliability-first-person -> concepts/introspection.md COMPLETED session 80
     # agent-causation-libertarian-free-will -> QUEUED as expand-topic task (session 77 replenishment)
     # consciousness-dreams -> QUEUED as expand-topic task (session 77 replenishment)
     # self-consciousness-philosophy -> QUEUED as expand-topic task (session 74 replenishment)
@@ -945,6 +945,11 @@ task_chains:
 
   # expand-topic completions that need cross-review
   pending_cross_reviews:
+    - new_article: "concepts/introspection.md"
+      review_targets:
+        - "concepts/phenomenology.md"
+        - "concepts/neurophenomenology.md"
+      generated: "2026-01-15T16:00:00+00:00"
     # agent-causation -> free-will.md COMPLETED session 78
     # agent-causation -> interactionist-dualism.md COMPLETED session 78
     # dreams-and-consciousness -> mind-brain-separation.md COMPLETED session 78
