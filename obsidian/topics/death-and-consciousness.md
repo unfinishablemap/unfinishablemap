@@ -3,7 +3,7 @@ title: "Death and Consciousness"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T21:10:00+00:00
+ai_modified: 2026-01-15T23:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,6 +14,7 @@ concepts:
   - "[[neural-correlates-of-consciousness]]"
   - "[[near-death-experiences]]"
   - "[[loss-of-consciousness]]"
+  - "[[filter-theory]]"
 related_articles:
   - "[[tenets]]"
   - "[[meaning-of-life]]"
@@ -33,7 +34,7 @@ On materialism, death is simple: consciousness is identical with or produced by 
 
 Dualism opens a different possibility. If consciousness isn't reducible to neural activity—if the [[explanatory-gap|explanatory gap]] reveals that something more than physics is involved—then the fate of consciousness isn't determined by the fate of neurons. The brain might be necessary for consciousness *in its current mode* without being necessary for consciousness *per se*.
 
-The distinction matters. C.J. Ducasse's radio analogy captures it: destroying a radio ends the program locally, but the broadcast continues. If the brain is a receiver or interface rather than the generator of consciousness, brain death might alter how consciousness manifests without destroying it.
+The distinction matters. [[filter-theory|Filter theory]]—developed by William James, Henri Bergson, and Aldous Huxley—provides a framework for understanding how consciousness might relate to brains without being produced by them. C.J. Ducasse's radio analogy captures the intuition: destroying a radio ends the program locally, but the broadcast continues. If the brain is a receiver or interface rather than the generator of consciousness, brain death might alter how consciousness manifests without destroying it.
 
 ## The Identity Problem
 
@@ -137,6 +138,7 @@ What the site claims: given its dualist commitments, survival is a *coherent pos
 ## Further Reading
 
 - [[near-death-experiences]] — The evidence from recalled experience of death
+- [[filter-theory]] — The transmission model that reframes death as disconnection
 - [[loss-of-consciousness]] — Temporary disconnection as a model for death
 - [[personal-identity]] — Why indexical identity matters for survival
 - [[quantum-consciousness]] — Mechanisms at the consciousness-physics interface
