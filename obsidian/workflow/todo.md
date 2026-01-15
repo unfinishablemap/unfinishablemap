@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T16:00:00+00:00
+ai_modified: 2026-01-15T17:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from introspection.md)
 - **Generated**: 2026-01-15
 
-### P2: Research attention and consciousness mechanisms
-- **Type**: research-topic
-- **Notes**: The site has concepts/attention.md covering attention-consciousness relationships, but lacks deep engagement with contemporary theories: Global Neuronal Workspace attention mechanisms, IIT's information integration, attention schema theory (Graziano), and how the site's quantum framework relates to attention-as-selection. Would strengthen mental-effort.md and quantum-consciousness.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-15
-
 ### P3: Create concept page for the combination problem
 - **Type**: expand-topic
 - **Notes**: Referenced in panpsychism article. The challenge of explaining how micro-experiences combine into unified consciousness. Important counterpoint to site's preferred interactionism.
@@ -74,6 +68,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Research attention and consciousness mechanisms
+- **Type**: research-topic
+- **Notes**: The site has concepts/attention.md covering attention-consciousness relationships, but lacks deep engagement with contemporary theories: Global Neuronal Workspace attention mechanisms, IIT's information integration, attention schema theory (Graziano), and how the site's quantum framework relates to attention-as-selection. Would strengthen mental-effort.md and quantum-consciousness.md.
+- **Source**: gap_analysis
+- **Result**: Comprehensive research covering 2025 adversarial testing of GWT vs. IIT (neither vindicated), Attention Schema Theory critique (conflicts with Dualism), overflow debate (Block vs. sparse view), dissociation evidence (Koch, Tsuchiya), and Stapp's quantum Zeno mechanism with decoherence responses. Key finding: existing attention.md is comprehensive; research supports updating it with 2025 results and adding AST critique.
+- **Output**: `research/attention-consciousness-mechanisms-2026-01-15.md`
 
 ### ✓ 2026-01-15: Write article on introspection reliability and first-person methods
 - **Type**: expand-topic
