@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T17:00:00+00:00
+ai_modified: 2026-01-15T19:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review phenomenology.md considering introspection insights
-- **Type**: cross-review
-- **Notes**: New article concepts/introspection.md covers the reliability debate (Nisbett/Wilson, Schwitzgebel), the process/content distinction, training effects (Fox), and microphenomenology (Petitmengin). Review concepts/phenomenology.md for opportunities to address reliability objections and connect to the dedicated introspection article.
-- **Source**: chain (from introspection.md)
-- **Generated**: 2026-01-15
-
 ### P2: Cross-review neurophenomenology.md considering introspection insights
 - **Type**: cross-review
 - **Notes**: New article concepts/introspection.md covers training effects (Fox et al. study showing meditation predicts accuracy) and microphenomenology. Review concepts/neurophenomenology.md for opportunities to strengthen the argument that contemplative training improves introspective reliability.
@@ -68,6 +62,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Cross-review phenomenology.md considering introspection insights
+- **Type**: cross-review
+- **Notes**: New article concepts/introspection.md covers the reliability debate (Nisbett/Wilson, Schwitzgebel), the process/content distinction, training effects (Fox), and microphenomenology (Petitmengin). Review concepts/phenomenology.md for opportunities to address reliability objections and connect to the dedicated introspection article.
+- **Source**: chain (from introspection.md)
+- **Result**: Added "The Reliability Objection and Its Response" section covering process/content distinction, Fox et al. training study, and microphenomenology as method. Added introspection and neurophenomenology to concepts list and Further Reading.
+- **Output**: Updated `concepts/phenomenology.md`
+
+### ✓ 2026-01-15: Update attention.md with 2025 adversarial testing results
+- **Type**: refine-draft
+- **Notes**: The 2025 Nature adversarial collaboration testing GWT vs. IIT found neither theory clearly vindicated—"results critically challenge key tenets of both theories." This supports the site's Occam's Razor Has Limits position. Also add critique of IIT's attention neglect (2025 Erkenntnis paper) and Attention Schema Theory as an illusionist position conflicting with Dualism. Research completed in research/attention-consciousness-mechanisms-2026-01-15.md.
+- **Source**: chain (from attention research)
+- **Result**: Added "Major Theories of Attention and Consciousness" section with IIT's attention problem, 2025 adversarial testing results, and Attention Schema Theory critique. Added illusionism and IIT to concepts list.
+- **Output**: Updated `concepts/attention.md`
 
 ### ✓ 2026-01-15: Research attention and consciousness mechanisms
 - **Type**: research-topic
