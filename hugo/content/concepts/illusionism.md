@@ -91,7 +91,7 @@ Whether this response succeeds remains contested. The challenge is explaining ho
 
 Illusionism remains a minority position. Only a small fraction of philosophers endorse eliminativism about phenomenal consciousness. However, it has gained attention as physicalism's "scorched earth" option—the fallback when other strategies fail.
 
-Recent work has focused on whether illusionism can be distinguished from ordinary [materialism](/physicalism/) in practice, and on explaining the "hardest aspect" of the illusion problem: why the illusion resists dissolution.
+Recent work has focused on whether illusionism can be distinguished from ordinary [materialism](/arguments/materialism/) in practice, and on explaining the "hardest aspect" of the illusion problem: why the illusion resists dissolution.
 
 ## Relation to Site Perspective
 

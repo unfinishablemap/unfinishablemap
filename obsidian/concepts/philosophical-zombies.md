@@ -15,7 +15,7 @@ concepts:
   - "[[inverted-qualia]]"
 related_articles:
   - "[[tenets]]"
-  - "[[against-functionalism-argument]]"
+  - "[[arguments/functionalism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -160,7 +160,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is relevant too. Ph
 - [[inverted-qualia]] — The parallel argument varying qualia's character rather than presence
 - [[materialism]] — The view the zombie argument targets
 - [[functionalism]] — Another view challenged by zombie-style reasoning
-- [[against-functionalism-argument]] — Five formal arguments against functionalism, with zombies as the first
+- [[arguments/functionalism]] — Five formal arguments against functionalism, with zombies as the first
 - [[epiphenomenalism]] — A position with structurally similar problems
 
 ### External Sources

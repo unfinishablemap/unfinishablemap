@@ -15,7 +15,7 @@ concepts:
   - "[[global-workspace-theory]]"
 related_articles:
   - "[[tenets]]"
-  - "[[against-functionalism-argument]]"
+  - "[[arguments/functionalism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -149,7 +149,7 @@ The site's response: the substrate matters because consciousness involves someth
 
 ## Further Reading
 
-- [[against-functionalism-argument]] — Five formal arguments against functionalism
+- [[arguments/functionalism]] — Five formal arguments against functionalism
 - [[ai-consciousness]] — The question of machine minds
 - [[qualia]] — What functionalism may leave out
 - [[philosophical-zombies]] — The conceivability argument in detail

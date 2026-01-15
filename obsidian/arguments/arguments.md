@@ -64,7 +64,7 @@ Epiphenomenalism holds that consciousness is causally inert—a byproduct of bra
 - The introspection problem: introspective access to consciousness becomes inexplicable
 - The self-knowledge problem: knowledge of our own minds requires causal connection
 
-**Discussion:** [[epiphenomenalism-argument|epiphenomenalism]]
+**Discussion:** [[arguments/epiphenomenalism|epiphenomenalism]]
 
 ### Against Functionalism
 
@@ -77,5 +77,5 @@ Functionalism defines mental states by their functional roles—what they do rat
 - Multiple realizability cuts both ways: if substrate doesn't matter for function, why should function determine consciousness?
 - The explanatory gap: functional description doesn't explain why there's experience at all
 
-**Discussion:** [[functionalism-argument|functionalism]]
+**Discussion:** [[arguments/functionalism|functionalism]]
 

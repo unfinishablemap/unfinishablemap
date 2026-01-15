@@ -17,7 +17,7 @@ concepts:
   - "[[agent-causation]]"
 related_articles:
   - "[[tenets]]"
-  - "[[epiphenomenalism-argument]]"
+  - "[[arguments/epiphenomenalism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -119,7 +119,7 @@ The phenomenology of [[mental-effort|mental effort]] supports this: effort feels
 
 ## The Self-Stultification Argument
 
-The strongest positive argument for mental causation is the self-stultification problem. The [[epiphenomenalism-argument|formal argument against epiphenomenalism]] presents this in rigorous form:
+The strongest positive argument for mental causation is the self-stultification problem. The [[arguments/epiphenomenalism|formal argument against epiphenomenalism]] presents this in rigorous form:
 
 1. We discuss consciousness—we write about qualia, debate the hard problem, report our experiences
 2. If epiphenomenalism is true, these discussions are not caused by consciousness itself
@@ -164,7 +164,7 @@ The site affirms mental causation because denying it undermines everything we th
 
 ## Further Reading
 
-- [[epiphenomenalism-argument]] — The cumulative case against epiphenomenalism (five arguments)
+- [[arguments/epiphenomenalism]] — The cumulative case against epiphenomenalism (five arguments)
 - [[causal-closure]] — The principle mental causation challenges
 - [[interactionist-dualism]] — The framework that accommodates mental causation
 - [[epiphenomenalism]] — The view denying mental causation

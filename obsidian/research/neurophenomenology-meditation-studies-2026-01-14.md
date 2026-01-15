@@ -15,7 +15,7 @@ concepts:
   - "[[mysterianism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[eastern-philosophy-and-consciousness]]"
+  - "[[eastern-philosophy-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -223,7 +223,7 @@ Meditation findings are compatible with filter theory:
 - Cessation might represent complete filtering (consciousness continues but without phenomenal content)
 
 ### Connection to Eastern Philosophy
-Site's [[eastern-philosophy-and-consciousness]] article should cross-reference this research. Key points:
+Site's [[eastern-philosophy-consciousness]] article should cross-reference this research. Key points:
 - Buddhist phenomenology provides systematic first-person investigation spanning millennia
 - Neurophenomenology validates contemplative insights with modern neuroscience
 - Non-dual awareness traditions (Advaita, Dzogchen, Zen) converge on similar descriptions despite different metaphysics

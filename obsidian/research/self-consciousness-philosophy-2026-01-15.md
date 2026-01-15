@@ -12,7 +12,7 @@ concepts:
   - "[[phenomenology]]"
   - "[[neurophenomenology]]"
 related_articles:
-  - "[[eastern-philosophy-and-consciousness]]"
+  - "[[eastern-philosophy-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

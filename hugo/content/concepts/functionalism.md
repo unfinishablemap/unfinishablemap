@@ -17,7 +17,7 @@ last_curated: null
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[against-functionalism-argument]]'
+- '[[arguments/functionalism]]'
 title: Functionalism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -150,7 +150,7 @@ The site's response: the substrate matters because consciousness involves someth
 
 ## Further Reading
 
-- [against-functionalism-argument](/against-functionalism-argument/) — Five formal arguments against functionalism
+- [functionalism](/argumentsfunctionalism/) — Five formal arguments against functionalism
 - [ai-consciousness](/topics/ai-consciousness/) — The question of machine minds
 - [qualia](/concepts/qualia/) — What functionalism may leave out
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail

@@ -20,7 +20,7 @@ last_deep_review: null
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[eastern-philosophy-and-consciousness]]'
+- '[[eastern-philosophy-consciousness]]'
 - '[[neurophenomenology-meditation-studies-2026-01-14]]'
 title: Neurophenomenology and Contemplative Science
 topics:
@@ -154,7 +154,7 @@ Neurophenomenology and contemplative science support the site's framework:
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How contemplative observation reveals time's structure
 - [duration](/concepts/duration/) — Bergson's analysis of lived time, convergent with contemplative reports
 - [qualia](/concepts/qualia/) — The qualitative features that contemplative training discloses
-- [eastern-philosophy-and-consciousness](/eastern-philosophy-and-consciousness/) — The contemplative traditions informing this research
+- [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — The contemplative traditions informing this research
 - [mysterianism](/concepts/mysterianism/) — Cognitive limits that neurophenomenology respects
 - [neurophenomenology-meditation-studies-2026-01-14](/research/neurophenomenology-meditation-studies-2026-01-14/) — Research notes on this topic
 

@@ -18,7 +18,7 @@ last_curated: null
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[against-functionalism-argument]]'
+- '[[arguments/functionalism]]'
 title: Philosophical Zombies
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -161,7 +161,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is relevant too. Ph
 - [inverted-qualia](/concepts/inverted-qualia/) — The parallel argument varying qualia's character rather than presence
 - [materialism](/arguments/materialism/) — The view the zombie argument targets
 - [functionalism](/arguments/functionalism/) — Another view challenged by zombie-style reasoning
-- [against-functionalism-argument](/against-functionalism-argument/) — Five formal arguments against functionalism, with zombies as the first
+- [functionalism](/argumentsfunctionalism/) — Five formal arguments against functionalism, with zombies as the first
 - [epiphenomenalism](/arguments/epiphenomenalism/) — A position with structurally similar problems
 
 ### External Sources
