@@ -12,6 +12,7 @@ concepts:
   - "[[materialism]]"
   - "[[substance-property-dualism]]"
   - "[[qualia]]"
+  - "[[combination-problem]]"
 related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism]]"
@@ -56,7 +57,7 @@ The problem: Chalmers notes a "revenge" argument. If protophenomenal quiddities 
 
 ## The Combination Problem
 
-Both variants face what Chalmers calls "the hard problem of panpsychism": how do micro-experiences or proto-experiences combine into unified macro-consciousness?
+Both variants face what Chalmers calls "the hard problem of panpsychism": how do micro-experiences or proto-experiences combine into unified macro-consciousness? This is the [[combination-problem|combination problem]].
 
 The problem has several dimensions:
 

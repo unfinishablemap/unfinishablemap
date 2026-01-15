@@ -10,6 +10,7 @@ topics:
 concepts:
   - "[[qualia]]"
   - "[[russellian-monism]]"
+  - "[[combination-problem]]"
 related_articles:
   - "[[tenets]]"
   - "[[panpsychism-consciousness-2026-01-08]]"
@@ -53,7 +54,7 @@ Panprotopsychism faces a "revenge" problem: if protophenomenal properties aren't
 
 ## The Combination Problem
 
-But panpsychism faces its own challenge: if electrons have micro-experiences, how do they combine into unified human consciousness? William James called this "the most peculiar puzzle" of panpsychism. Conscious states seem "shut in their own skin"—my experience can't merge with yours to form a third experience. Why should electron-experiences combine into brain-experiences?
+But panpsychism faces its own challenge: if electrons have micro-experiences, how do they combine into unified human consciousness? This is the [[combination-problem|combination problem]]. William James called this "the most peculiar puzzle" of panpsychism. Conscious states seem "shut in their own skin"—my experience can't merge with yours to form a third experience. Why should electron-experiences combine into brain-experiences?
 
 This is the *combination problem*. It has several variants:
 
@@ -128,6 +129,7 @@ But the site thinks interactionist dualism offers a cleaner solution. Consciousn
 
 ## Further Reading
 
+- [[combination-problem]] — The central challenge facing panpsychism
 - [[russellian-monism]] — The most developed theoretical framework for panpsychism
 - [[hard-problem-of-consciousness]] — The central puzzle both views address
 - [[panpsychism-consciousness-2026-01-08]] — Detailed research notes
