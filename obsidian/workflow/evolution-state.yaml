@@ -14,7 +14,7 @@ last_runs:
   check-links: 2026-01-13T12:00:00+00:00
   deep-review: 2026-01-15T21:00:00+00:00
   tune-system: 2026-01-08T17:00:00+00:00
-  research-voids: 2026-01-14T23:30:00+00:00
+  research-voids: 2026-01-16T02:45:00+00:00
 
 # How often each task should run (days)
 cadences:
@@ -40,7 +40,7 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 126  # +1 research (quantum biology)
+  total_files: 128  # +1 pessimistic review, +1 voids research (session 102)
   published_files: 97  # unchanged
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
