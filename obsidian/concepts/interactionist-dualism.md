@@ -3,7 +3,7 @@ title: "Interactionist Dualism"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T23:50:00+00:00
+ai_modified: 2026-01-15T12:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,6 +14,7 @@ concepts:
   - "[[qualia]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[substance-property-dualism]]"
+  - "[[agent-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism-2026-01-06]]"
@@ -91,6 +92,20 @@ Responses vary:
 
 This remains an active empirical question. The site takes no position on which quantum mechanism is correct, only that *some* such interface exists.
 
+## Agent Causation: The Metaphysical Framework
+
+The quantum mechanisms describe *where* consciousness interfaces with physics. [[agent-causation|Agent causation]] provides the metaphysical framework for *what* is happening at that interface.
+
+Most causal explanations appeal to events causing events: one brain state leads to another according to natural law. This is *event causation*. But interactionist dualism requires something different: the conscious subject—as a persisting substance—directly causes physical outcomes. This is *agent causation* or *substance causation*.
+
+Roderick Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). When I decide to speak, it's not that "a decision event" caused "a speaking event"; rather, *I* caused the speaking. The agent is ontologically prior to the events, not a mere sum of them.
+
+E.J. Lowe argued that all causation is fundamentally substance causation—agents exercising causal powers. This reframes the causal closure objection: physics describes regularities in what substances do; it doesn't prove substances are exclusively physical. If consciousness is a substance exercising causal powers at quantum indeterminacies, this is how causation works generally, not a special exception requiring energy injection.
+
+The quantum Zeno mechanism illustrates agent causation in action. When attention holds neural patterns in place through rapid observation, it's not that "observation events" cause "pattern maintenance events"—it's that the conscious subject, through sustained attention, exercises causal power over brain states. The phenomenology of [[mental-effort|mental effort]] confirms this: directing attention feels like *doing* something, not like observing events that happen to correlate with effort.
+
+Agent causation thus provides the philosophical grounding for quantum interactionism. The site's framework specifies *mechanism*; agent-causal philosophy provides *metaphysics*. Together they answer Elizabeth of Bohemia's question: mind affects matter because conscious substances exercise causal powers at points where physics leaves outcomes undetermined.
+
 ## Property Dualism vs. Substance Dualism
 
 Interactionism is compatible with different dualist ontologies (see [[substance-property-dualism]] for detailed treatment):
@@ -130,6 +145,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 ## Further Reading
 
+- [[agent-causation]] — The metaphysical framework for how substances exercise causal powers
 - [[tenets]] — The site's foundational commitments
 - [[quantum-consciousness]] — Detailed treatment of quantum mechanisms
 - [[neural-correlates-of-consciousness]] — Empirical findings compatible with interactionism
