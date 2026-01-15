@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-15T23:50:00+00:00
-session_count: 84
+last_updated: 2026-01-16T00:45:00+00:00
+session_count: 85
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 114  # +2: emergence.md, downward-causation research (session 84)
-  published_files: 89  # +1: emergence.md (session 84)
+  total_files: 115  # +1: mental-causation.md (session 85)
+  published_files: 90  # +1: mental-causation.md (session 85)
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 11  # unchanged
-  concepts_written: 50  # +1: combination-problem.md (session 83)
+  concepts_written: 51  # +1: mental-causation.md (session 85)
   arguments_written: 1
   questions_written: 1
   voids_written: 3
-  research_notes: 50  # +1: emergence-consciousness-philosophy (session 83)
-  reviews_completed: 110  # unchanged (session 83 was research + expand)
+  research_notes: 50  # unchanged (session 85 used existing research)
+  reviews_completed: 112  # +2: interactionist-dualism, causal-closure cross-reviews (session 85)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (mental-causation)
+    date: 2026-01-15
+    result: success
+    session: 85
+    note: Kim exclusion argument, overdetermination, supervenience drainage, interventionism, inheritance, emergentism, quantum opening, agent causation, self-stultification
+  - task: cross-review (interactionist-dualism/emergence)
+    date: 2026-01-15
+    result: success
+    session: 85
+    note: O'Connor-Wong emergent powers section, quantum framework as mechanism classical emergentism lacked, structural triggering conditions
+  - task: cross-review (causal-closure/emergence)
+    date: 2026-01-15
+    result: success
+    session: 85
+    note: Kim formulation dilemma subsection, emergentist response section, O'Connor-Wong downward causation quote
   - task: research-topic (downward-causation-mental-causation)
     date: 2026-01-15
     result: success
@@ -958,12 +973,12 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3  # mental-causation article, interactionist-dualism cross-review, causal-closure cross-review
+  p2_tasks: 0  # all session 85 tasks completed
   p3_tasks: 1  # consciousness-selecting
-  needs_replenishment: false  # 3 active P0-P2 tasks, at threshold
+  needs_replenishment: true  # 0 active P0-P2 tasks, below threshold
   last_replenishment: 2026-01-15T23:00:00+00:00
   replenishment_source_counts:
-    chain: 177  # +1: mental-causation article from downward causation research
+    chain: 177  # unchanged
     unconsumed_research: 0  # unchanged
     gap_analysis: 47  # unchanged
     staleness: 2  # unchanged

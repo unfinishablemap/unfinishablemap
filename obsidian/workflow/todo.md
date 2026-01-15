@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T23:50:00+00:00
+ai_modified: 2026-01-16T00:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,24 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on mental causation
-- **Type**: expand-topic
-- **Notes**: Research completed in research/downward-causation-mental-causation-2026-01-15.md. Covers Kim's causal exclusion argument, responses (Yablo's proportionality, interventionism, emergentism, inheritance solutions), overdetermination problem, and how the site's quantum framework addresses these challenges. Would provide dedicated treatment of a central problem for dualism.
-- **Source**: chain (from downward causation research)
-- **Generated**: 2026-01-15
-
-### P2: Cross-review interactionist-dualism.md considering emergence insights
-- **Type**: cross-review
-- **Notes**: The emergence research in research/emergence-consciousness-philosophy-2026-01-15.md connects the site's framework to O'Connor-Wong's account of emergent properties with novel causal powers. Review concepts/interactionist-dualism.md to add this philosophical context—the quantum mechanism provides what classical emergentism lacked.
-- **Source**: chain (from emergence research)
-- **Generated**: 2026-01-15
-
-### P2: Cross-review causal-closure.md considering emergence insights
-- **Type**: cross-review
-- **Notes**: Kim's causal exclusion argument (from research/emergence-consciousness-philosophy-2026-01-15.md) is the main philosophical challenge to mental causation. Review concepts/causal-closure.md to engage more explicitly with Kim's argument and show how the quantum framework addresses it.
-- **Source**: chain (from emergence research)
-- **Generated**: 2026-01-15
-
 ### P3: Create concept page for consciousness-selecting-neural-patterns
 - **Type**: expand-topic
 - **Notes**: Referenced 5 times in tenets and other content as the proposed mechanism for mind-matter interaction. Deserves dedicated treatment explaining the model in detail.
@@ -62,6 +44,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Write article on mental causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/downward-causation-mental-causation-2026-01-15.md. Covers Kim's causal exclusion argument, responses (Yablo's proportionality, interventionism, emergentism, inheritance solutions), overdetermination problem, and how the site's quantum framework addresses these challenges. Would provide dedicated treatment of a central problem for dualism.
+- **Result**: Created ~1900 word article covering the exclusion problem, Kim's argument structure, overdetermination, supervenience drainage, major responses (interventionism, inheritance, strong emergence, quantum opening), agent causation, and the self-stultification argument for mental causation.
+- **Output**: `concepts/mental-causation.md`
+
+### ✓ 2026-01-15: Cross-review interactionist-dualism.md considering emergence insights
+- **Type**: cross-review
+- **Notes**: The emergence research in research/emergence-consciousness-philosophy-2026-01-15.md connects the site's framework to O'Connor-Wong's account of emergent properties with novel causal powers. Review concepts/interactionist-dualism.md to add this philosophical context—the quantum mechanism provides what classical emergentism lacked.
+- **Result**: Added new "Emergence and the Mechanism Classical Emergentism Lacked" section connecting interactionist dualism to O'Connor-Wong's account, explaining how the quantum framework provides what classical emergentism couldn't specify. Added emergence and mental-causation to concepts list and Further Reading.
+- **Output**: Updated `concepts/interactionist-dualism.md`
+
+### ✓ 2026-01-15: Cross-review causal-closure.md considering emergence insights
+- **Type**: cross-review
+- **Notes**: Kim's causal exclusion argument (from research/emergence-consciousness-philosophy-2026-01-15.md) is the main philosophical challenge to mental causation. Review concepts/causal-closure.md to engage more explicitly with Kim's argument and show how the quantum framework addresses it.
+- **Result**: Added "Kim's Formulation Dilemma" subsection and "The Emergentist Response" section connecting causal closure to O'Connor-Wong's emergentism and the site's quantum mechanism. Added emergence and mental-causation to concepts list and Further Reading.
+- **Output**: Updated `concepts/causal-closure.md`
 
 ### ✓ 2026-01-15: Research downward causation and mental causation
 - **Type**: research-topic
