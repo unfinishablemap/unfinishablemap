@@ -3,7 +3,7 @@ title: "Causal Closure of the Physical"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-16T00:35:00+00:00
+ai_modified: 2026-01-15T13:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[mental-causation]]"
 related_articles:
   - "[[tenets]]"
+  - "[[interactionist-dualism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -93,6 +94,8 @@ In quantum mechanics, physical systems evolve deterministically under the Schrö
 This means: *not every physical event has a sufficient physical cause*. When a radioactive atom decays, physics tells us the probability it will decay in the next hour, but nothing physical determines *whether* it will. The physical causes are insufficient. The physical story is incomplete.
 
 If consciousness acts at these indeterminacies—selecting among outcomes physics leaves undetermined—it causes physical events without violating any physical law. No energy is injected (the outcomes are among those physics already allows). No overdetermination occurs (physics provides necessary but not sufficient causes).
+
+This argument appears in formal premise-conclusion form in the [[interactionist-dualism|argument for interactionist dualism]]: the closure objection fails because physics does not exclude mental causation at quantum indeterminacies.
 
 This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness influences physical outcomes at quantum indeterminacies, where the physical story runs out.
 
