@@ -3,7 +3,7 @@ title: "Interactionist Dualism"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-15T12:15:00+00:00
+ai_modified: 2026-01-16T00:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,8 @@ concepts:
   - "[[neural-correlates-of-consciousness]]"
   - "[[substance-property-dualism]]"
   - "[[agent-causation]]"
+  - "[[emergence]]"
+  - "[[mental-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism-2026-01-06]]"
@@ -106,6 +108,22 @@ The quantum Zeno mechanism illustrates agent causation in action. When attention
 
 Agent causation thus provides the philosophical grounding for quantum interactionism. The site's framework specifies *mechanism*; agent-causal philosophy provides *metaphysics*. Together they answer Elizabeth of Bohemia's question: mind affects matter because conscious substances exercise causal powers at points where physics leaves outcomes undetermined.
 
+## Emergence and the Mechanism Classical Emergentism Lacked
+
+Interactionist dualism can be understood as a form of strong [[emergence]]—consciousness has genuinely novel causal powers not deducible from physics. Timothy O'Connor and Hong Yu Wong develop an influential account where emergent properties possess "fundamentally novel" powers operating through "structural triggering conditions"—latent capacities manifesting when components organize appropriately.
+
+Their framework aligns closely with the site's position. They argue:
+
+> "If one decides to act in the world—perhaps making up one's mind to switch on an electric kettle—strongly emergent consciousness (higher level) is imagined to downwardly cause a resultant state of (lower level) molecular motion."
+
+This is precisely what the Bidirectional Interaction tenet affirms.
+
+Classical British emergentists (Broad, Alexander) accepted similar conclusions but had no mechanism to offer. They accepted strong emergence with "natural piety"—brute facts about what higher-level properties do, without explanation of how. This left their position vulnerable to Kim's exclusion argument: if physics is causally complete, emergent properties have no room to operate.
+
+The site's quantum framework provides what classical emergentism lacked: *where* and *how* emergent causation operates. O'Connor and Wong's "structural triggering conditions" parallel how quantum indeterminacies in neural systems provide openings for consciousness to act. But where they leave the mechanism abstract, the site specifies it: consciousness biases probabilities at points where physics is genuinely incomplete.
+
+This makes the position stronger than mere assertion. Kim argues that emergent properties face exclusion by their physical realizers. The quantum response: at quantum indeterminacies, there is no sufficient physical realizer to do the excluding. Physics provides necessary but not sufficient causes. Consciousness fills the genuine gap.
+
 ## Property Dualism vs. Substance Dualism
 
 Interactionism is compatible with different dualist ontologies (see [[substance-property-dualism]] for detailed treatment):
@@ -145,6 +163,8 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 ## Further Reading
 
+- [[emergence]] — The site's position as strong emergentism with mechanism
+- [[mental-causation]] — The philosophical problem interactionism addresses
 - [[agent-causation]] — The metaphysical framework for how substances exercise causal powers
 - [[tenets]] — The site's foundational commitments
 - [[quantum-consciousness]] — Detailed treatment of quantum mechanisms
