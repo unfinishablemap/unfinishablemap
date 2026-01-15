@@ -3,7 +3,7 @@ title: "The Measurement Problem"
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-16T03:00:00+00:00
+ai_modified: 2026-01-15T22:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,7 @@ related_articles:
   - "[[tenets]]"
   - "[[measurement-problem-quantum-mechanics-2026-01-14]]"
   - "[[consciousness-measurement-problem-2026-01-16]]"
+  - "[[many-worlds]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -69,7 +70,15 @@ The original pragmatic approach. Quantum systems must be described using classic
 
 All outcomes occur. The universe branches at every quantum event; all branches are equally real. There is no collapse—just the appearance of collapse from within each branch.
 
-**Relation to site tenets:** **Directly rejected** by [[tenets#^no-many-worlds|No Many Worlds]]. Many-worlds dissolves the measurement problem by denying single outcomes, but creates intractable indexical problems: why am I *this* branch and not another? The question seems meaningful yet receives no answer.
+**Relation to site tenets:** **Directly rejected** by [[tenets#^no-many-worlds|No Many Worlds]]. See the [[many-worlds|dedicated argument page]] for five detailed arguments against MWI:
+
+1. **Ontological extravagance**: Mathematical simplicity purchased with metaphysical inflation—more parallel realities than atoms in the observable universe.
+2. **The indexical problem**: Why am I *this* branch and not another? The question seems meaningful yet receives no answer.
+3. **The probability problem**: Many-worlds struggles to derive the Born rule without circular assumptions.
+4. **The preferred basis problem**: Branch ontology depends on environment-relative decoherence, reintroducing observer-dependence.
+5. **Consciousness unaddressed**: The hard problem remains; the unity of experience is unexplained by branching.
+
+Many-worlds dissolves the measurement problem by denying single outcomes rather than explaining them. The site holds that the measurement problem is real and that consciousness is a candidate for what resolves it.
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
@@ -143,6 +152,7 @@ The measurement problem directly supports the site's framework:
 
 ## Further Reading
 
+- [[many-worlds]] — Detailed arguments against the many-worlds interpretation
 - [[quantum-consciousness]] — Mechanisms for mind-matter interaction
 - [[decoherence]] — What decoherence does and doesn't explain
 - [[interactionist-dualism]] — The broader framework for mind-body interaction
