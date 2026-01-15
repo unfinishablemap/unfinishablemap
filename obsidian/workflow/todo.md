@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review measurement-problem.md considering consciousness research
-- **Type**: cross-review
-- **Notes**: Research completed in research/consciousness-measurement-problem-2026-01-16.md covers the problem of definite outcomes, von Neumann-Wigner, Stapp's quantum Zeno, and the causal closure loophole. Review concepts/measurement-problem.md to strengthen the connection between the measurement problem and consciousness—particularly how quantum indeterminacy creates conceptual space for mental causation.
-- **Source**: chain (from consciousness-measurement-problem research)
-- **Generated**: 2026-01-16
-
 ### P2: Cross-review substance-property-dualism.md considering pairing-problem insights
 - **Type**: cross-review
 - **Notes**: New article concepts/pairing-problem.md covers Kim's challenge to substance dualism and three major responses. Review concepts/substance-property-dualism.md to engage with the pairing problem—since it challenges substance dualism specifically, this page should address whether property dualism avoids the problem.
@@ -62,6 +56,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Cross-review measurement-problem.md considering consciousness research
+- **Type**: cross-review
+- **Notes**: Research completed in research/consciousness-measurement-problem-2026-01-16.md covers the problem of definite outcomes, von Neumann-Wigner, Stapp's quantum Zeno, and the causal closure loophole. Review concepts/measurement-problem.md to strengthen the connection between the measurement problem and consciousness—particularly how quantum indeterminacy creates conceptual space for mental causation.
+- **Result**: Added detailed Stapp's Quantum Zeno Framework subsection explaining how mental effort protracts neural assemblies via repeated observation. Added new "The Causal Closure Loophole" section explaining how measurement indeterminacy creates space for mental causation without energy violation. Added mental-causation and mental-effort to concepts and Further Reading.
+- **Output**: Updated `concepts/measurement-problem.md`
 
 ### ✓ 2026-01-16: Research quantum mechanics and free will
 - **Type**: research-topic
