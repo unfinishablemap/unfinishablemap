@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-16 00:45:00+00:00
+ai_modified: 2026-01-16 02:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -48,6 +48,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: research-topic
 - **Notes**: The luck objection (van Inwagen, Mele) argues that indeterminism makes actions random rather than free. Kane's response appeals to self-forming actions; agent-causation theorists appeal to substance causation. How does the site's quantum selection framework address this? Is consciousness-directed selection different from mere randomness? Would strengthen free-will.md and agent-causation.md.
 - **Source**: gap_analysis
+- **Generated**: 2026-01-16
+
+### P2: Create concept page for quantum-biology
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-consciousness-2026-01-16.md. Covers photosynthesis FMO complex, avian magnetoreception (Jan 2026 Princeton JACS), enzyme tunneling, quantum olfaction. Would provide empirical grounding for Minimal Quantum Interaction tenet and strengthen decoherence objection response.
+- **Source**: chain
+- **Generated**: 2026-01-16
+
+### P2: Cross-review decoherence.md with quantum biology research
+- **Type**: cross-review
+- **Notes**: New research in quantum-biology-consciousness-2026-01-16.md provides biological examples of quantum coherence (avian magnetoreception microseconds, enzyme tunneling). Review concepts/decoherence.md to add these biological examples as evidence that decoherence isn't always rapid.
+- **Source**: chain
 - **Generated**: 2026-01-16
 
 ### P3: Create concept page for consciousness-selecting-neural-patterns
