@@ -58,7 +58,7 @@ The radical option: consciousness as we conceive it doesn't exist. Our folk-psyc
 
 The appeal: no hard problem if there's no consciousness to explain. The problem vanishes because its subject matter vanishes.
 
-The problem: eliminativism seems to deny the obvious. Something it's like to read these words. Eliminativists are not zombies making noises about a non-existent phenomenon; they're conscious beings denying their own experience. The position is self-undermining in a way similar to [epiphenomenalism](/concepts/epiphenomenalism/).
+The problem: eliminativism seems to deny the obvious. Something it's like to read these words. Eliminativists are not zombies making noises about a non-existent phenomenon; they're conscious beings denying their own experience. The position is self-undermining in a way similar to [epiphenomenalism](/arguments/epiphenomenalism/).
 
 ### Illusionism
 
@@ -153,7 +153,7 @@ Materialism is the site's primary opponent. Understanding its failure motivates 
 
 **Dualism** is accepted because materialism fails. Physical descriptions leave the [explanatory gap](/concepts/explanatory-gap/); physical facts don't entail experiential facts; [qualia](/concepts/qualia/) resist physical characterization. Consciousness must be something beyond the physical.
 
-**Bidirectional Interaction** is needed because rejecting materialism could lead to [epiphenomenalism](/concepts/epiphenomenalism/)—accepting consciousness is non-physical but denying it does anything. The site rejects this move: consciousness causally influences physical outcomes, or we couldn't even discuss it.
+**Bidirectional Interaction** is needed because rejecting materialism could lead to [epiphenomenalism](/arguments/epiphenomenalism/)—accepting consciousness is non-physical but denying it does anything. The site rejects this move: consciousness causally influences physical outcomes, or we couldn't even discuss it.
 
 **Minimal Quantum Interaction** responds to the causal closure argument. If physics were complete, there'd be no room for mental causation. But physics is not complete at quantum indeterminacies. Consciousness acts there, biasing otherwise undetermined outcomes.
 
@@ -169,9 +169,9 @@ Materialism remains the consensus position in academic philosophy. The site hold
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The zombie argument against materialism in detail
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem materialism cannot solve
 - [analytic-idealism](/concepts/analytic-idealism/) — Idealism's challenge to both materialism and dualism
-- [epiphenomenalism](/concepts/epiphenomenalism/) — What happens if you accept the gap but deny mental causation
+- [epiphenomenalism](/arguments/epiphenomenalism/) — What happens if you accept the gap but deny mental causation
 - [illusionism](/concepts/illusionism/) — Materialism's most radical response to the hard problem
-- [functionalism](/concepts/functionalism/) — A materialist theory the site rejects
+- [functionalism](/arguments/functionalism/) — A materialist theory the site rejects
 - [tenets](/tenets/) — The site's alternative framework
 
 ## References

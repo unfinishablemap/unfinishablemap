@@ -116,9 +116,9 @@ The readiness potential doesn't precede conscious choice in any causally signifi
 
 Free will requires [mental-causation](/concepts/mental-causation/)—the thesis that mental states cause physical effects. When you decide to raise your arm, your decision must cause the arm to rise. If consciousness causes nothing, free will is an elaborate illusion.
 
-The challenge is Jaegwon Kim's exclusion argument: if physical events have sufficient physical causes, mental causes seem excluded. Either consciousness is identical to brain states (reducing free will to physics) or consciousness causes nothing ([epiphenomenalism](/concepts/epiphenomenalism/)). The site's quantum framework responds: physics provides *necessary but not sufficient* causes at quantum indeterminacies. [Causal closure](/concepts/causal-closure/) fails precisely where consciousness acts.
+The challenge is Jaegwon Kim's exclusion argument: if physical events have sufficient physical causes, mental causes seem excluded. Either consciousness is identical to brain states (reducing free will to physics) or consciousness causes nothing ([epiphenomenalism](/arguments/epiphenomenalism/)). The site's quantum framework responds: physics provides *necessary but not sufficient* causes at quantum indeterminacies. [Causal closure](/concepts/causal-closure/) fails precisely where consciousness acts.
 
-But [epiphenomenalism](/concepts/epiphenomenalism/) faces a deeper problem: self-stultification. If conscious states have no causal influence, your belief that you're conscious isn't caused by actually being conscious—it's caused by whatever physical processes produce the belief. Your beliefs about consciousness would be causally disconnected from your conscious experiences.
+But [epiphenomenalism](/arguments/epiphenomenalism/) faces a deeper problem: self-stultification. If conscious states have no causal influence, your belief that you're conscious isn't caused by actually being conscious—it's caused by whatever physical processes produce the belief. Your beliefs about consciousness would be causally disconnected from your conscious experiences.
 
 This is more than epistemic trouble—it's self-undermining. Any argument *against* mental causation must reach your beliefs through causally inert consciousness, which means it doesn't reach them at all. If you can accurately report "I'm in pain," the pain must cause the report. Otherwise, why would the report be *about* the experience?
 
@@ -204,7 +204,7 @@ This isn't a proof. It's a coherent picture that takes both consciousness and ph
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interface
 - [mental-effort](/concepts/mental-effort/) — How the phenomenology of effort supports bidirectional interaction
 - [causal-closure](/concepts/causal-closure/) — The principle that mental causation challenges
-- [epiphenomenalism](/concepts/epiphenomenalism/) — The alternative view and why it fails
+- [epiphenomenalism](/arguments/epiphenomenalism/) — The alternative view and why it fails
 - [tenets](/tenets/) — The foundational commitments that ground this view
 
 ## References

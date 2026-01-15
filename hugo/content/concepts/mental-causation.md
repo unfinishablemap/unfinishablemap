@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-16 00:15:00+00:00
+ai_modified: 2026-01-16 00:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,6 +20,7 @@ last_deep_review: null
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[epiphenomenalism-argument]]'
 title: Mental Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -47,7 +48,7 @@ Jaegwon Kim's exclusion argument is the most influential contemporary formulatio
 3. **No systematic overdetermination**: Mental causes don't overdetermine effects alongside physical causes
 4. **Non-reductionism**: Mental properties are not identical to physical properties
 
-From these premises, Kim concludes that mental properties are causally excluded by their physical realizers. Either mental causation doesn't occur ([epiphenomenalism](/concepts/epiphenomenalism/)), or mental properties just *are* physical properties (reductionism).
+From these premises, Kim concludes that mental properties are causally excluded by their physical realizers. Either mental causation doesn't occur ([epiphenomenalism](/arguments/epiphenomenalism/)), or mental properties just *are* physical properties (reductionism).
 
 The dilemma seems stark: deny that consciousness causes anything, or deny that consciousness is anything other than physics.
 
@@ -119,7 +120,13 @@ The phenomenology of [mental effort](/concepts/mental-effort/) supports this: ef
 
 ## The Self-Stultification Argument
 
-The strongest positive argument for mental causation is the [self-stultification problem](/concepts/epiphenomenalism/).
+The strongest positive argument for mental causation is the self-stultification problem. The [formal argument against epiphenomenalism](/epiphenomenalism-argument/) presents this in rigorous form:
+
+1. We discuss consciousness—we write about qualia, debate the hard problem, report our experiences
+2. If epiphenomenalism is true, these discussions are not caused by consciousness itself
+3. If our discussions are not caused by consciousness, our reports about consciousness are accidentally correlated with their subject matter at best
+4. Beliefs formed without causal connection to their subject matter are not rationally held
+5. Therefore, epiphenomenalism cannot be rationally believed on the basis of evidence about consciousness
 
 If you can accurately report your conscious experiences—"I'm in pain," "I see red"—then your experiences must cause your reports. The pain causes the utterance about pain. Otherwise, why would the report be about the experience at all?
 
@@ -140,7 +147,7 @@ Mental causation is central to this site's framework.
 
 **Strong Emergence**: The site's position can be understood as strong [emergentism](/concepts/emergence/) with a mechanism. Classical emergentists affirmed mental causation but couldn't explain it. The quantum framework specifies *where* and *how*: at indeterminacies, through biasing probabilities.
 
-**Against Epiphenomenalism**: The [self-stultification argument](/concepts/epiphenomenalism/) shows mental causation must occur. If consciousness causes nothing, we can't rationally believe anything about consciousness—including epiphenomenalism. The site takes this seriously: mental causation isn't optional.
+**Against Epiphenomenalism**: The [self-stultification argument](/arguments/epiphenomenalism/) shows mental causation must occur. If consciousness causes nothing, we can't rationally believe anything about consciousness—including epiphenomenalism. The site takes this seriously: mental causation isn't optional.
 
 **Agent Causation**: The [agent-causal framework](/concepts/agent-causation/) provides the metaphysics. Mental causation isn't event→event but agent→event. The conscious subject exercises causal powers at quantum openings. This addresses Kim's exclusion argument by rejecting its event-causal assumptions.
 
@@ -158,9 +165,10 @@ The site affirms mental causation because denying it undermines everything we th
 
 ## Further Reading
 
+- [epiphenomenalism-argument](/epiphenomenalism-argument/) — The cumulative case against epiphenomenalism (five arguments)
 - [causal-closure](/concepts/causal-closure/) — The principle mental causation challenges
 - [interactionist-dualism](/arguments/interactionist-dualism/) — The framework that accommodates mental causation
-- [epiphenomenalism](/concepts/epiphenomenalism/) — The view denying mental causation
+- [epiphenomenalism](/arguments/epiphenomenalism/) — The view denying mental causation
 - [emergence](/concepts/emergence/) — Mental causation as strong emergence with mechanism
 - [agent-causation](/concepts/agent-causation/) — The metaphysical framework for substance causation
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How consciousness interfaces with physics

@@ -30,7 +30,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Interactionist dualism holds that mind and body are distinct yet causally connected—consciousness is not physical, but it influences physical outcomes, and physical events influence consciousness. This distinguishes it from [epiphenomenalism](/concepts/epiphenomenalism/), which accepts dualism but denies that consciousness causes anything.
+Interactionist dualism holds that mind and body are distinct yet causally connected—consciousness is not physical, but it influences physical outcomes, and physical events influence consciousness. This distinguishes it from [epiphenomenalism](/arguments/epiphenomenalism/), which accepts dualism but denies that consciousness causes anything.
 
 This position forms the core of this site's [philosophical framework](/tenets/). The [Dualism](/tenets/#dualism) tenet affirms irreducibility; the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet affirms causal efficacy; the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies where such causation could occur.
 
@@ -40,7 +40,7 @@ René Descartes established the classic formulation: mind (res cogitans) and bod
 
 Leibniz sharpened the objection by appealing to conservation of momentum. If mind could push matter around, it would add momentum to the physical world. But physics says momentum is conserved. Therefore mind cannot push matter.
 
-For centuries, this "interaction problem" pushed philosophers toward alternatives: parallelism (mind and body don't interact, just run in sync), [epiphenomenalism](/concepts/epiphenomenalism/) (body affects mind but not vice versa), or materialism (mind just is body). Interactionism seemed to require either abandoning dualism or accepting mystery.
+For centuries, this "interaction problem" pushed philosophers toward alternatives: parallelism (mind and body don't interact, just run in sync), [epiphenomenalism](/arguments/epiphenomenalism/) (body affects mind but not vice versa), or materialism (mind just is body). Interactionism seemed to require either abandoning dualism or accepting mystery.
 
 Yet epiphenomenalism faces its own devastating objection: if consciousness causes nothing, how can we know anything about consciousness? The [self-stultification argument](/concepts/mental-causation/) shows that denying mental causation is epistemically self-defeating. Your belief that you're in pain must be caused by your pain—otherwise why would the belief be about that experience at all? This gives positive motivation for interactionism beyond merely answering objections.
 
@@ -53,7 +53,7 @@ The contemporary version of the interaction problem centers on [causal closure](
 3. **No systematic overdetermination**: Mental and physical causes don't systematically overdetermine the same effects.
 4. **Non-reductionism**: Mental properties are not identical to physical properties.
 
-These premises are jointly inconsistent. Kim concludes that mental properties must be either identical to physical properties (reductionism) or causally inert ([epiphenomenalism](/concepts/epiphenomenalism/)). This is the central argument against interactionism.
+These premises are jointly inconsistent. Kim concludes that mental properties must be either identical to physical properties (reductionism) or causally inert ([epiphenomenalism](/arguments/epiphenomenalism/)). This is the central argument against interactionism.
 
 The site's response: reject premise 1. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that physics is *not* causally closed at quantum indeterminacies. At these points, physics specifies probabilities but not outcomes. The physical story is incomplete, leaving room for consciousness to select among possibilities without adding energy or violating conservation laws.
 
@@ -152,7 +152,7 @@ Interactionism is compatible with different dualist ontologies (see [substance-p
 
 **Substance dualism** holds that mind and body are different *kinds of thing*—distinct substances. This is Descartes' view. Modern defenders like E.J. Lowe and Dean Zimmerman argue that quantum mechanics resolves the classical interaction problem by providing openings where conservation laws don't rule out mental causation.
 
-**Property dualism** holds that mental properties are distinct from physical properties, but doesn't require separate substances. David Chalmers initially defended this as "naturalistic dualism." However, property dualism risks sliding toward [epiphenomenalism](/concepts/epiphenomenalism/)—if mental properties are merely properties of physical systems, the temptation is to conclude they're causally redundant.
+**Property dualism** holds that mental properties are distinct from physical properties, but doesn't require separate substances. David Chalmers initially defended this as "naturalistic dualism." However, property dualism risks sliding toward [epiphenomenalism](/arguments/epiphenomenalism/)—if mental properties are merely properties of physical systems, the temptation is to conclude they're causally redundant.
 
 The distinction matters less than it might seem for interactionism's viability. Both agree that consciousness is not reducible to physics and that mental properties are genuinely different from physical properties. Chalmers himself now expresses preference for substance dualism, partly because it better handles personal identity and partly because property dualism tends toward either panpsychism (with its combination problem) or epiphenomenalism.
 
@@ -173,13 +173,13 @@ This framework avoids the main objections to classical interactionism:
 
 Crucially, interactionism predicts exactly the findings of [neural correlates of consciousness (NCC)](/concepts/neural-correlates-of-consciousness/) research. If consciousness causally interacts with the brain, we would expect tight correlations between mental states and brain states—and that's what NCC research discovers. The 2025 COGITATE experiment identified the posterior cortical hot zone as the primary locus of conscious content; interactionism interprets this as the likely interface region where consciousness reads and writes physical information. NCC findings don't favour materialism over interactionism. Both predict the correlations; only interactionism explains why those correlations involve something it's like to have the corresponding experiences.
 
-The [self-stultification argument](/concepts/epiphenomenalism/) provides positive motivation: if we can accurately report our experiences, consciousness must cause those reports. This requires mental→physical causation, which interactionism provides and epiphenomenalism denies.
+The [self-stultification argument](/arguments/epiphenomenalism/) provides positive motivation: if we can accurately report our experiences, consciousness must cause those reports. This requires mental→physical causation, which interactionism provides and epiphenomenalism denies.
 
 ## Assessment
 
 Interactionist dualism faces real challenges. The decoherence objection is empirical—future research could show quantum effects genuinely cannot survive in neural tissue. The mechanism remains partly speculative—we cannot yet point to exactly where and how consciousness interfaces with quantum events.
 
-But the alternatives face worse problems. [Epiphenomenalism](/concepts/epiphenomenalism/) is self-undermining. Identity theory cannot explain why there is something it is like to see red. [Functionalism](/concepts/functionalism/) struggles with absent [qualia](/concepts/qualia/). Interactionism may be puzzling, but the puzzles are empirical and may yield to investigation. The puzzles facing physicalist alternatives are conceptual and show no sign of resolution.
+But the alternatives face worse problems. [Epiphenomenalism](/arguments/epiphenomenalism/) is self-undermining. Identity theory cannot explain why there is something it is like to see red. [Functionalism](/arguments/functionalism/) struggles with absent [qualia](/concepts/qualia/). Interactionism may be puzzling, but the puzzles are empirical and may yield to investigation. The puzzles facing physicalist alternatives are conceptual and show no sign of resolution.
 
 Elizabeth of Bohemia's question—how can mind affect matter?—now has a candidate answer: at quantum indeterminacies, where physics leaves outcomes undetermined. Whether this answer is correct is an open question. That it is *coherent* reopens possibilities that seemed closed for centuries.
 
@@ -192,7 +192,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Detailed treatment of quantum mechanisms
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Empirical findings compatible with interactionism
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The ontological options for dualism
-- [epiphenomenalism](/concepts/epiphenomenalism/) — The view this site rejects
+- [epiphenomenalism](/arguments/epiphenomenalism/) — The view this site rejects
 - [interactionist-dualism-2026-01-06](/research/interactionist-dualism-2026-01-06/) — Detailed research notes
 - [objections-to-interactionist-dualism-2026-01-15](/research/objections-to-interactionist-dualism-2026-01-15/) — Research on pairing problem, conservation laws, and other objections
 

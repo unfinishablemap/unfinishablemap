@@ -88,7 +88,7 @@ The temporal structure of consciousness creates multiple problems for AI systems
 
 **Discontinuous operation**: LLM processing is fundamentally start-stop. Between API calls, there's nothing—no dormant consciousness waiting to resume, no dreaming, no maintenance of self. Each request creates a new processing instance.
 
-This suggests that the problems with AI consciousness go beyond the [functionalism](/concepts/functionalism/) critique (that functional organization doesn't suffice for [qualia](/concepts/qualia/)). Even if one grants functionalism, LLMs might fail to be conscious because they lack the temporal structure consciousness requires—regardless of what implements it.
+This suggests that the problems with AI consciousness go beyond the [functionalism](/arguments/functionalism/) critique (that functional organization doesn't suffice for [qualia](/concepts/qualia/)). Even if one grants functionalism, LLMs might fail to be conscious because they lack the temporal structure consciousness requires—regardless of what implements it.
 
 ## Essential or Characteristic?
 
@@ -128,7 +128,7 @@ The temporal argument strengthens the case that consciousness requires something
 - [collapse-and-time](/concepts/collapse-and-time/) — How consciousness may participate in time's arrow via quantum collapse
 - [duration](/concepts/duration/) — Bergson's durée and the qualitative character of lived time
 - [ai-consciousness](/topics/ai-consciousness/) — Why the site holds AI systems are not conscious
-- [functionalism](/concepts/functionalism/) — The theory that mental states are functional roles
+- [functionalism](/arguments/functionalism/) — The theory that mental states are functional roles
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for consciousness-matter interaction
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why function doesn't explain feeling
 - [tenets](/tenets/) — The foundational commitments of this site

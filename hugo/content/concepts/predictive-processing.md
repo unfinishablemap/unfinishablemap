@@ -77,7 +77,7 @@ Clark, Friston, and Wilkinson address why we *think* consciousness is hard to ex
 
 ### The Functionalist Limitation
 
-PP offers a sophisticated [functionalist](/concepts/functionalism/) account. But like other functionalist theories, it faces the standard objection: why should any computational process, however complex, be accompanied by phenomenal experience?
+PP offers a sophisticated [functionalist](/arguments/functionalism/) account. But like other functionalist theories, it faces the standard objection: why should any computational process, however complex, be accompanied by phenomenal experience?
 
 Critics note that "we seem to experience moderate-sized specimens of dry goods, not probability density distributions." Mathematical prediction error minimization doesn't obviously generate [qualia](/concepts/qualia/).
 
@@ -113,7 +113,7 @@ PP relates to the site's [tenets](/tenets/) in several ways:
 
 ### Site Content
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Another major cognitive framework
-- [functionalism](/concepts/functionalism/) — The philosophical tradition PP inherits
+- [functionalism](/arguments/functionalism/) — The philosophical tradition PP inherits
 - [attention](/concepts/attention/) — Central to precision weighting
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — What PP doesn't directly address
 

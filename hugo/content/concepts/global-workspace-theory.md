@@ -73,7 +73,7 @@ The 2025 COGITATE study put GWT and [IIT](/concepts/integrated-information-theor
 
 GWT has direct implications for machine consciousness. If consciousness *is* global broadcast—the functional role of making information widely available—then AI systems implementing this architecture could be conscious. Some researchers have argued that Large Language Agents, with their ability to integrate information across many modules, might satisfy GWT's criteria.
 
-This is precisely where the site's framework diverges most sharply. The [absent qualia objection](/concepts/functionalism/) applies: a system could implement global broadcast without phenomenal experience. A nation of people, each simulating a neuron in a workspace architecture, would implement the same functional organization as a conscious brain. Is the nation conscious?
+This is precisely where the site's framework diverges most sharply. The [absent qualia objection](/arguments/functionalism/) applies: a system could implement global broadcast without phenomenal experience. A nation of people, each simulating a neuron in a workspace architecture, would implement the same functional organization as a conscious brain. Is the nation conscious?
 
 Site's [AI consciousness skepticism](/topics/ai-consciousness/) rests on dualism, not denial that AI can implement workspace functions. The question is whether functional implementation suffices for experience.
 
@@ -103,7 +103,7 @@ GWT explains when and how information becomes accessible. It remains silent on w
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A rival theory tested alongside GNW
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — The broader research program GWT contributes to
 - [attention](/concepts/attention/) — The gateway to the workspace
-- [functionalism](/concepts/functionalism/) — The philosophical framework underlying GWT
+- [functionalism](/arguments/functionalism/) — The philosophical framework underlying GWT
 - [global-workspace-theory-2026-01-14](/research/global-workspace-theory-2026-01-14/) — Detailed research notes
 
 ## References

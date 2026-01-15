@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-16T01:30:00+00:00
+ai_modified: 2026-01-15T15:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -18,6 +18,31 @@ last_curated:
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-15 (continued)
+
+### Session 99 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 99
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 15:00 - research-topic (quantum decoherence objection responses)
+- **Status**: Success
+- **Output**: `research/quantum-decoherence-objection-responses-2026-01-15.md`
+- **Changes**: Comprehensive research covering the Tegmark-Hameroff debate (7 orders of magnitude difference in decoherence estimates), protective mechanisms proposed by Hameroff (Debye layer, actin gel, hydrophobic interior), revised timescale requirements (10⁻⁷s with faster dynamics), biological quantum effects (photosynthesis FMO complex, avian magnetoreception with Jan 2026 Princeton JACS paper), hot cat experiments at 1.8K, 1,400-second coherence record. Key finding: decoherence doesn't eliminate quantum indeterminacy—consciousness could bias outcomes at measurement even after decoherence.
+
+### 14:30 - cross-review (ai-consciousness/Hoel LLM consciousness research)
+- **Status**: Success
+- **Output**: Updated `topics/ai-consciousness.md`
+- **Changes**: Added hoel-llm-consciousness research to related_articles; added new "Proximity Argument" subsection with Hoel's formal argument structure (3 premises), Kleiner-Hoel dilemma (theories falsified or unfalsifiable), connection to lookup tables as empirical reductio; expanded continual learning section with link to research and lenient dependency explanation; added research to Further Reading.
+
+### 14:15 - cross-review (philosophical-zombies/against-functionalism argument)
+- **Status**: Success
+- **Output**: Updated `concepts/philosophical-zombies.md`
+- **Changes**: Added against-functionalism-argument to related_articles; expanded "Zombies and Functionalism" section with link to formal argument page, formal argument structure (5 numbered premises), expanded China brain discussion; added against-functionalism-argument to Further Reading.
+
+---
 
 ## 2026-01-16
 

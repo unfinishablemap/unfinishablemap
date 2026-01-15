@@ -210,7 +210,7 @@ This is physicalism's most radical option. Rather than closing the explanatory g
 
 ### Epiphenomenalism
 
-[Epiphenomenalism](/concepts/epiphenomenalism/) represents an unexpected response to the hard problem: accept it completely, then minimize its consequences.
+[Epiphenomenalism](/arguments/epiphenomenalism/) represents an unexpected response to the hard problem: accept it completely, then minimize its consequences.
 
 Epiphenomenalists agree that consciousness is real, non-physical, and not reducible to mechanism. They accept the explanatory gap. What they deny is that any of this matters causally. Consciousness, on this view, is steam rising from a locomotive—produced by the engine but doing nothing to move the train.
 
@@ -342,9 +342,9 @@ Whether this specific proposal is correct matters less than the underlying point
 - [intentionality](/concepts/intentionality/) — The "aboutness" of mind and why it resists naturalization
 - [Against Materialism](/arguments/materialism/) — Why physicalist explanations fail
 - [qualia](/concepts/qualia/) — The qualitative character of experience
-- [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness is causally inert
+- [epiphenomenalism](/arguments/epiphenomenalism/) — The view that consciousness is causally inert
 - [illusionism](/concepts/illusionism/) — The radical denial of phenomenal consciousness
-- [functionalism](/concepts/functionalism/) — The view that mental states are functional roles
+- [functionalism](/arguments/functionalism/) — The view that mental states are functional roles
 - [predictive-processing](/concepts/predictive-processing/) — The most sophisticated contemporary functionalism
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A mathematical theory identifying consciousness with integrated information
 - [russellian-monism](/concepts/russellian-monism/) — The view that quiddities (intrinsic natures) ground consciousness

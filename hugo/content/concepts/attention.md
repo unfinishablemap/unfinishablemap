@@ -59,7 +59,7 @@ If attention can operate without consciousness and consciousness can occur witho
 
 If consciousness simply *is* what attention does—as AIR theory (Attended Intermediate Representations) holds—the dissociation evidence is problematic. Prinz argues consciousness arises when and only when intermediate-level representations are modulated by attention. But peripheral awareness and gist perception suggest representations can be conscious without attentional modulation, and blindsight suggests modulation can occur without consciousness.
 
-The [functionalist](/concepts/functionalism/) equation of consciousness with a functional role (being available for report, guiding action, entering working memory) stumbles here. Consciousness seems to be something over and above the function—present when the function is absent, absent when the function operates.
+The [functionalist](/arguments/functionalism/) equation of consciousness with a functional role (being available for report, guiding action, entering working memory) stumbles here. Consciousness seems to be something over and above the function—present when the function is absent, absent when the function operates.
 
 ### The Refrigerator-Light Problem
 
@@ -151,7 +151,7 @@ The attention-consciousness relationship illuminates all five tenets:
 
 - [mental-effort](/concepts/mental-effort/) — Detailed treatment of phenomenology of effort and Stapp's mechanism
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum consciousness mechanisms
-- [functionalism](/concepts/functionalism/) — The view that consciousness is defined by functional role
+- [functionalism](/arguments/functionalism/) — The view that consciousness is defined by functional role
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why attention alone can't solve the hard problem
 - [attention-consciousness-relationship-2026-01-15](/research/attention-consciousness-relationship-2026-01-15/) — Detailed research notes
 

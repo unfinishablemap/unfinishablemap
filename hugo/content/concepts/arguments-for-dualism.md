@@ -156,7 +156,7 @@ Kim's [causal exclusion](/concepts/causal-closure/) argument claims that even if
 
 William James observed that pleasures correlate precisely with survival benefits and pains with harms. Natural selection could produce such correlations only if consciousness causes behavior.
 
-**Twist**: This objection actually *supports* interactionism. It targets [epiphenomenalism](/concepts/epiphenomenalism/), not interactionist dualism. If consciousness has causal effects—as the site maintains—the evolutionary correlations are explicable. The argument strengthens the case for [Bidirectional Interaction](/tenets/#bidirectional-interaction).
+**Twist**: This objection actually *supports* interactionism. It targets [epiphenomenalism](/arguments/epiphenomenalism/), not interactionist dualism. If consciousness has causal effects—as the site maintains—the evolutionary correlations are explicable. The argument strengthens the case for [Bidirectional Interaction](/tenets/#bidirectional-interaction).
 
 ### Summary
 
@@ -195,7 +195,7 @@ The site does not commit to substance over property dualism. Both support irredu
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The two main forms of dualism
 - [causal-closure](/concepts/causal-closure/) — The causal closure challenge and responses
 - [mental-causation](/concepts/mental-causation/) — The exclusion argument and how to answer it
-- [epiphenomenalism](/concepts/epiphenomenalism/) — What happens if dualism abandons causal efficacy
+- [epiphenomenalism](/arguments/epiphenomenalism/) — What happens if dualism abandons causal efficacy
 - [arguments-for-dualism-positive-case-2026-01-14](/research/arguments-for-dualism-positive-case-2026-01-14/) — Research notes on this topic
 - [objections-to-interactionist-dualism-2026-01-15](/research/objections-to-interactionist-dualism-2026-01-15/) — Research on objections and responses
 

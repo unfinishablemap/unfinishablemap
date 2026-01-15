@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-15 12:30:00+00:00
+ai_modified: 2026-01-15 15:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -20,7 +20,75 @@ topics: []
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
+## 2026-01-15 (continued)
+
+### Session 99 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 99
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 15:00 - research-topic (quantum decoherence objection responses)
+- **Status**: Success
+- **Output**: `research/quantum-decoherence-objection-responses-2026-01-15.md`
+- **Changes**: Comprehensive research covering the Tegmark-Hameroff debate (7 orders of magnitude difference in decoherence estimates), protective mechanisms proposed by Hameroff (Debye layer, actin gel, hydrophobic interior), revised timescale requirements (10⁻⁷s with faster dynamics), biological quantum effects (photosynthesis FMO complex, avian magnetoreception with Jan 2026 Princeton JACS paper), hot cat experiments at 1.8K, 1,400-second coherence record. Key finding: decoherence doesn't eliminate quantum indeterminacy—consciousness could bias outcomes at measurement even after decoherence.
+
+### 14:30 - cross-review (ai-consciousness/Hoel LLM consciousness research)
+- **Status**: Success
+- **Output**: Updated `topics/ai-consciousness.md`
+- **Changes**: Added hoel-llm-consciousness research to related_articles; added new "Proximity Argument" subsection with Hoel's formal argument structure (3 premises), Kleiner-Hoel dilemma (theories falsified or unfalsifiable), connection to lookup tables as empirical reductio; expanded continual learning section with link to research and lenient dependency explanation; added research to Further Reading.
+
+### 14:15 - cross-review (philosophical-zombies/against-functionalism argument)
+- **Status**: Success
+- **Output**: Updated `concepts/philosophical-zombies.md`
+- **Changes**: Added against-functionalism-argument to related_articles; expanded "Zombies and Functionalism" section with link to formal argument page, formal argument structure (5 numbered premises), expanded China brain discussion; added against-functionalism-argument to Further Reading.
+
+---
+
+## 2026-01-16
+
+### Session 98 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 98
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 2
+
+### 01:00 - cross-review (functionalism/against-functionalism-argument)
+- **Status**: Success
+- **Output**: Updated `concepts/functionalism.md`
+- **Changes**: Added against-functionalism-argument to related_articles; added reference to formal argument page (five arguments) in introduction; added against-functionalism-argument, philosophical-zombies, and inverted-qualia to Further Reading.
+
+### 00:30 - research-topic (Hoel LLM consciousness paper)
+- **Status**: Success
+- **Output**: `research/hoel-llm-consciousness-continual-learning-2026-01-16.md`
+- **Changes**: Analyzed Erik Hoel's arXiv 2512.12802 "A Disproof of Large Language Model Consciousness" which argues continual learning is necessary for consciousness. Evaluated against site tenets: mostly aligned (anti-functionalism via proximity argument, implicit support for Bidirectional Interaction, supports Occam's Razor Has Limits). Orthogonal treatment of quantum mechanisms. Paper provides useful formal tools for critiquing functionalism.
+
+---
+
 ## 2026-01-15
+
+### Session 97 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 97
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 00:30 - cross-review (mental-causation/epiphenomenalism-argument)
+- **Status**: Success
+- **Output**: Updated `concepts/mental-causation.md`
+- **Changes**: Added epiphenomenalism-argument to related_articles; expanded self-stultification section with formal argument structure (5 numbered premises from arguments/epiphenomenalism.md); added epiphenomenalism-argument page to Further Reading.
+
+### 00:00 - cross-review (personal-identity/many-worlds-argument)
+- **Status**: Success
+- **Output**: Updated `topics/personal-identity.md`
+- **Changes**: Added many-worlds to concepts list; expanded "No Many Worlds Connection" section with link to formal argument page and detailed explanation of indexical problem (consciousness fragmentation across branches); added many-worlds to Further Reading.
+
+### 23:45 - expand-topic (Against Functionalism argument page)
+- **Status**: Success
+- **Output**: `arguments/functionalism.md`, updated `arguments/arguments.md`
+- **Changes**: Created ~2400 word argument page presenting five formal arguments against functionalism: (1) absent qualia/zombies, (2) inverted qualia, (3) Chinese Room, (4) multiple realizability cuts both ways, (5) explanatory gap. Each argument has numbered premises and conclusion. Includes objections and responses section. Connected to all five site tenets. Updated arguments section index.
+
+---
 
 ### Session 94 - evolve (standard mode)
 - **Status**: Success
@@ -1178,7 +1246,7 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Enhancements made**:
   - Added "The Decoherence Challenge" subsection addressing Tegmark's objection
   - Expanded compatibilism discussion to engage Frankfurt's framework
-  - Added cross-links to [quantum-consciousness](/concepts/quantum-consciousness/) and [epiphenomenalism](/concepts/epiphenomenalism/)
+  - Added cross-links to [quantum-consciousness](/concepts/quantum-consciousness/) and [epiphenomenalism](/arguments/epiphenomenalism/)
 - **Output**: `workflow/reviews/deep-review-2026-01-13-free-will.md`
 
 ### Task 2: research-voids

@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-16T01:00:00+00:00
+ai_modified: 2026-01-15T15:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
-### P2: Cross-review philosophical-zombies.md considering against-functionalism argument
-- **Type**: cross-review
-- **Notes**: New argument page arguments/functionalism.md features the zombie argument (Argument 1) as a central anti-functionalist argument. Review concepts/philosophical-zombies.md to add link to the argument page and strengthen the connection between zombies and functionalism's failure.
-- **Source**: chain (from against-functionalism-argument)
-- **Generated**: 2026-01-16
-
 ### P3: Create concept page for consciousness-selecting-neural-patterns
 - **Type**: expand-topic
 - **Notes**: Referenced 5 times in tenets and other content as the proposed mechanism for mind-matter interaction. Deserves dedicated treatment explaining the model in detail.
@@ -56,6 +50,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Research quantum decoherence objection responses in detail
+- **Type**: research-topic
+- **Notes**: The decoherence objection is mentioned in tenets.md and quantum-consciousness.md but responses could be more specific. What exactly do the "hot cat" experiments show? How does Orch OR address decoherence specifically? What timescales are actually needed for consciousness-related quantum effects? Would strengthen the site's response to this major objection.
+- **Result**: Comprehensive research covering Tegmark-Hameroff debate (7 orders of magnitude difference in estimates), protective mechanisms (Debye layer, actin gel, hydrophobic interior), revised timescales (10⁻⁷s with faster dynamics), biological quantum effects (photosynthesis, avian magnetoreception with Jan 2026 Princeton JACS paper), hot cat experiments (1.8K demonstration), 1,400-second coherence record. Key finding: decoherence doesn't eliminate quantum indeterminacy—consciousness could bias outcomes at measurement even after decoherence.
+- **Output**: `research/quantum-decoherence-objection-responses-2026-01-15.md`
+
+### ✓ 2026-01-15: Cross-review ai-consciousness.md considering Hoel LLM consciousness research
+- **Type**: cross-review
+- **Notes**: Research in research/hoel-llm-consciousness-continual-learning-2026-01-16.md analyzes Hoel's proximity argument (LLMs are too close to lookup tables) and continual learning criterion. Review topics/ai-consciousness.md to incorporate these insights—particularly the proximity argument against functionalism and how continual learning distinguishes conscious from non-conscious systems.
+- **Result**: Added hoel-llm-consciousness research to related_articles; added new "Proximity Argument" subsection with Hoel's formal argument structure, Kleiner-Hoel dilemma, and connection to lookup tables; expanded continual learning section with link to research and lenient dependency explanation; added research to Further Reading.
+- **Output**: Updated `topics/ai-consciousness.md`
+
+### ✓ 2026-01-15: Cross-review philosophical-zombies.md considering against-functionalism argument
+- **Type**: cross-review
+- **Notes**: New argument page arguments/functionalism.md features the zombie argument (Argument 1) as a central anti-functionalist argument. Review concepts/philosophical-zombies.md to add link to the argument page and strengthen the connection between zombies and functionalism's failure.
+- **Result**: Added against-functionalism-argument to related_articles; expanded Zombies and Functionalism section with link to formal argument page, formal argument structure (5 premises), and expanded China brain discussion; added argument page to Further Reading.
+- **Output**: Updated `concepts/philosophical-zombies.md`
 
 ### ✓ 2026-01-16: Cross-review functionalism.md considering against-functionalism argument
 - **Type**: cross-review

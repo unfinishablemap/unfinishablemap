@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-15 12:30:00+00:00
+ai_modified: 2026-01-15 22:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,6 +25,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[quantum-consciousness-mechanisms-2026-01-08]]'
+- '[[many-worlds]]'
 title: Quantum Consciousness Mechanisms
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -45,7 +46,7 @@ This is the opening for mental causation. At quantum indeterminacies, physical c
 
 The measurement problem creates logical space for consciousness at collapse—something must select among possibilities, and physics doesn't specify what. This transforms the exclusion argument: rather than mental causes being crowded out by physical causes, mental causes operate precisely where physical causation runs out.
 
-The site's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the alternative: that all outcomes occur in branching universes and consciousness just "finds itself" in one branch. If collapse is real and outcomes are genuinely undetermined until selected, something must do the selecting. Consciousness is a candidate.
+The site's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the alternative: that all outcomes occur in branching universes and consciousness just "finds itself" in one branch. The [Against Many-Worlds](/arguments/many-worlds/) argument page details five arguments against this interpretation: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and that consciousness has no role. If collapse is real and outcomes are genuinely undetermined until selected, something must do the selecting. Consciousness is a candidate.
 
 ## Orchestrated Objective Reduction (Orch OR)
 
@@ -107,7 +108,7 @@ If attention *were* consciousness—as some functionalist theories claim—then 
 
 **Phenomenological match**: The [phenomenology of mental effort](/concepts/mental-effort/)—documented by William James and confirmed by Daniel Kahneman's cognitive psychology—fits Stapp's mechanism remarkably well. James observed that "sustained voluntary attention is a repetition of successive efforts." This is exactly what the quantum Zeno mechanism predicts: each "observation" is an effort, and sustained attention requires repeated efforts. The fact that attention *feels* effortful makes sense if it genuinely requires continuous mental engagement.
 
-**Empirical support**: Jeffrey Schwartz's research on OCD provides indirect evidence. His cognitive therapy—which trains patients to redirect attention away from obsessive thoughts—produces measurable brain changes visible on PET scans. Patients who learned to refocus attention literally reshaped their brains. While this doesn't prove the quantum Zeno mechanism specifically, it demonstrates that directed mental effort has physical consequences—harder to explain under [epiphenomenalism](/concepts/epiphenomenalism/) than [interactionist-dualism](/arguments/interactionist-dualism/).
+**Empirical support**: Jeffrey Schwartz's research on OCD provides indirect evidence. His cognitive therapy—which trains patients to redirect attention away from obsessive thoughts—produces measurable brain changes visible on PET scans. Patients who learned to refocus attention literally reshaped their brains. While this doesn't prove the quantum Zeno mechanism specifically, it demonstrates that directed mental effort has physical consequences—harder to explain under [epiphenomenalism](/arguments/epiphenomenalism/) than [interactionist-dualism](/arguments/interactionist-dualism/).
 
 **Orthodox physics**: Stapp argues his proposal follows directly from von Neumann's formulation of quantum mechanics. No speculative new physics is needed—just taking the measurement problem seriously.
 
@@ -143,7 +144,7 @@ Despite differences, quantum consciousness theories agree on several points:
 
 3. **No energy violation.** Consciousness shapes outcomes without adding energy, respecting conservation laws.
 
-4. **Many Worlds is rejected.** These theories assume collapse is real—outcomes are genuinely selected, not merely branched into.
+4. **Many Worlds is rejected.** These theories assume collapse is real—outcomes are genuinely selected, not merely branched into. See the [argument against many-worlds](/arguments/many-worlds/) for why this matters: MWI eliminates the role for consciousness by having all outcomes occur, making consciousness epiphenomenal with respect to quantum events.
 
 These shared features align with the site's tenets.
 
@@ -210,6 +211,7 @@ The decoherence objection remains the most serious challenge. If quantum coheren
 
 ## Further Reading
 
+- [many-worlds](/arguments/many-worlds/) — Why the site rejects the many-worlds interpretation
 - [mental-causation](/concepts/mental-causation/) — Why quantum consciousness theories address the exclusion problem
 - [causal-closure](/concepts/causal-closure/) — The principle that quantum indeterminacy allows consciousness to challenge
 - [emergence](/concepts/emergence/) — How the quantum framework provides strong emergentism with a mechanism

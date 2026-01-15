@@ -126,7 +126,7 @@ Intentionality connects to all five foundational tenets:
 - [phenomenology](/concepts/phenomenology/) — The tradition that discovered and systematically investigates intentionality
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that intentionality parallels
 - [ai-consciousness](/topics/ai-consciousness/) — Why original intentionality matters for AI
-- [functionalism](/concepts/functionalism/) — A view that PIT challenges
+- [functionalism](/arguments/functionalism/) — A view that PIT challenges
 - [qualia](/concepts/qualia/) — The phenomenal properties that may ground intentionality
 - [intentionality-consciousness-2026-01-14](/research/intentionality-consciousness-2026-01-14/) — Research notes on this topic
 

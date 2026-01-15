@@ -106,7 +106,7 @@ This reflects the practical resolution: behavioral evidence (responsiveness, emo
 
 **AI consciousness:** The [AI consciousness](/topics/ai-consciousness/) debate is essentially the problem of other minds applied to machines. The Turing Test operationalizes the question: if a machine is behaviorally indistinguishable from a human, should we attribute it mind? Turing himself noted we might have "just as much reason to suppose that machines think as we have reason to suppose that other people think."
 
-Yet the site's rejection of [functionalism](/concepts/functionalism/) complicates this inference. If consciousness isn't simply information processing, behavioral mimicry doesn't suffice. John Searle's Chinese Room argument makes the point: a system could produce human-like behavior by manipulating symbols according to rules without understanding anything.
+Yet the site's rejection of [functionalism](/arguments/functionalism/) complicates this inference. If consciousness isn't simply information processing, behavioral mimicry doesn't suffice. John Searle's Chinese Room argument makes the point: a system could produce human-like behavior by manipulating symbols according to rules without understanding anything.
 
 For animals, biological similarity provides grounds for inference—we share the kind of embodied, evolved existence that might be relevant to consciousness. For current AI, this ground is absent. The inference is correspondingly weaker, though not definitively blocked.
 
@@ -132,7 +132,7 @@ The [mysterian](/concepts/mysterianism/) theme recurs: consciousness presents ge
 - [ai-consciousness](/topics/ai-consciousness/) — The problem of other minds applied to machines
 - [animal-consciousness](/topics/animal-consciousness/) — The problem for non-human organisms
 - [qualia](/concepts/qualia/) — The subjective properties that remain hidden from third-person access
-- [functionalism](/concepts/functionalism/) — The view that would dissolve the problem by identifying mind with function
+- [functionalism](/arguments/functionalism/) — The view that would dissolve the problem by identifying mind with function
 
 ### External Sources
 - Thomas Nagel, "What Is It Like to Be a Bat?" (1974)

@@ -43,7 +43,7 @@ Princess Elizabeth of Bohemia pressed Descartes on a crucial difficulty: how can
 
 Leibniz sharpened the objection by invoking conservation of momentum. If mind could push matter, it would have to inject energy. But physics says energy is conserved. The interaction seems to require either abandoning conservation laws or abandoning causal efficacy.
 
-These objections pushed many philosophers toward alternatives: parallelism, [epiphenomenalism](/concepts/epiphenomenalism/), or materialism.
+These objections pushed many philosophers toward alternatives: parallelism, [epiphenomenalism](/arguments/epiphenomenalism/), or materialism.
 
 ### Contemporary Substance Dualism
 
@@ -133,7 +133,7 @@ The substance/property distinction matters less than it might seem for the site'
 - [interactionist-dualism](/arguments/interactionist-dualism/) — The site's position combining dualism with causal interaction
 - [pairing-problem](/concepts/pairing-problem/) — Kim's challenge to substance dualism that property dualism avoids
 - [materialism](/arguments/materialism/) — The view both dualist positions reject
-- [epiphenomenalism](/concepts/epiphenomenalism/) — Property dualism's temptation that the site refuses
+- [epiphenomenalism](/arguments/epiphenomenalism/) — Property dualism's temptation that the site refuses
 - [qualia](/concepts/qualia/) — The phenomenal properties that dualism holds are irreducible
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem that motivates dualism in both forms
 

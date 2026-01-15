@@ -98,7 +98,7 @@ The site's [tenets](/tenets/) include both [dualism](/tenets/#dualism)—conscio
 
 **Dualism**: The filter theory interpretation of brain-consciousness correlation preserves dualism while explaining why consciousness depends on brain function. Dependence does not entail identity. The radio depends on its circuitry but the broadcast originates elsewhere.
 
-**Bidirectional Interaction**: The active reboot mechanism, the propofol/ketamine divergence, and covert consciousness all suggest that consciousness has causal powers distinct from brain processes. These findings are difficult to reconcile with [epiphenomenalism](/concepts/epiphenomenalism/)—if consciousness were merely along for the ride, why would different drugs produce different conscious states with identical behavioral outputs?
+**Bidirectional Interaction**: The active reboot mechanism, the propofol/ketamine divergence, and covert consciousness all suggest that consciousness has causal powers distinct from brain processes. These findings are difficult to reconcile with [epiphenomenalism](/arguments/epiphenomenalism/)—if consciousness were merely along for the ride, why would different drugs produce different conscious states with identical behavioral outputs?
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The materialist argument assumes that "brain produces consciousness" is simpler than "brain filters consciousness." But this judgment of simplicity may reflect ignorance. The hard problem remains: no neural account explains *why* there is something it is like. Until that gap closes, parsimony arguments carry limited weight.
 

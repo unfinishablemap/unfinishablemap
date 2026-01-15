@@ -94,14 +94,14 @@ The Libet experiments engage directly with the site's core commitments.
 
 **[Dualism](/tenets/#dualism)**: If consciousness were reducible to neural activity, the RP would straightforwardly show "the brain decides." But on dualism, consciousness is distinct from neural processes. Neural preparation creates options; consciousness—irreducible to the preparation—selects.
 
-**Against [epiphenomenalism](/concepts/epiphenomenalism/)**: If consciousness were epiphenomenal, our beliefs about consciousness would be produced by neural processes unconnected to consciousness itself. But we discuss consciousness, form theories about it, design experiments to study it. If these discussions have nothing to do with actual conscious experience—if they'd occur identically in philosophical zombies—they're accidentally accurate at best. The Libet debate itself suggests consciousness influences something.
+**Against [epiphenomenalism](/arguments/epiphenomenalism/)**: If consciousness were epiphenomenal, our beliefs about consciousness would be produced by neural processes unconnected to consciousness itself. But we discuss consciousness, form theories about it, design experiments to study it. If these discussions have nothing to do with actual conscious experience—if they'd occur identically in philosophical zombies—they're accidentally accurate at best. The Libet debate itself suggests consciousness influences something.
 
 ## Further Reading
 
 - [free-will](/topics/free-will/) — The broader philosophical context
 - [retrocausality](/concepts/retrocausality/) — How backward causation resolves the timing problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness at the quantum level
-- [epiphenomenalism](/concepts/epiphenomenalism/) — The view these experiments seem to support, and its problems
+- [epiphenomenalism](/arguments/epiphenomenalism/) — The view these experiments seem to support, and its problems
 - [interactionist-dualism](/arguments/interactionist-dualism/) — The framework that makes conscious selection coherent
 - [libet-experiments-free-will-2026-01-07](/research/libet-experiments-free-will-2026-01-07/) — Detailed research notes
 

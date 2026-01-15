@@ -1,7 +1,7 @@
 ---
 ai_contribution: 90
 ai_generated_date: null
-ai_modified: 2026-01-15 14:15:00+00:00
+ai_modified: 2026-01-15 23:50:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -54,3 +54,28 @@ The many-worlds interpretation of quantum mechanics claims to solve the measurem
 - Consciousness has no role in many-worlds, conflicting with Bidirectional Interaction
 
 **Discussion:** [many-worlds](/arguments/many-worlds/)
+
+### Against Epiphenomenalism
+
+Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. This page presents five arguments showing that epiphenomenalism is self-undermining.
+
+**Key claims:**
+- The self-stultification argument: if consciousness causes nothing, reports about consciousness are accidentally correct at best
+- The evolutionary argument: consciousness has no fitness effects if epiphenomenal, so natural selection cannot explain its existence
+- The introspection problem: introspective access to consciousness becomes inexplicable
+- The self-knowledge problem: knowledge of our own minds requires causal connection
+
+**Discussion:** [epiphenomenalism](/epiphenomenalism-argument/)
+
+### Against Functionalism
+
+Functionalism defines mental states by their functional roles—what they do rather than what they're made of. This page presents five arguments showing that functional organization is insufficient for consciousness.
+
+**Key claims:**
+- The absent qualia argument: zombies (functionally identical beings without experience) are conceivable, showing function doesn't guarantee consciousness
+- The inverted qualia argument: functionally identical beings could differ in qualitative experience, showing function doesn't fix phenomenal character
+- The Chinese Room: symbol manipulation isn't understanding—syntax isn't semantics
+- Multiple realizability cuts both ways: if substrate doesn't matter for function, why should function determine consciousness?
+- The explanatory gap: functional description doesn't explain why there's experience at all
+
+**Discussion:** [functionalism](/functionalism-argument/)

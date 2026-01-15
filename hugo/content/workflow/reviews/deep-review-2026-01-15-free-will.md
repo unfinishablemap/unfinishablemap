@@ -85,7 +85,7 @@ None. Previous review addressed major issues (decoherence, compatibilism treatme
 The article now comprehensively links to all relevant site content:
 - [agent-causation](/concepts/agent-causation/), [libet-experiments](/concepts/libet-experiments/), [retrocausality](/concepts/retrocausality/), [interactionist-dualism](/arguments/interactionist-dualism/)
 - [mental-effort](/concepts/mental-effort/), [duration](/concepts/duration/), [quantum-consciousness](/concepts/quantum-consciousness/)
-- [epiphenomenalism](/concepts/epiphenomenalism/), [illusionism](/concepts/illusionism/), [personal-identity](/topics/personal-identity/)
+- [epiphenomenalism](/arguments/epiphenomenalism/), [illusionism](/concepts/illusionism/), [personal-identity](/topics/personal-identity/)
 - [qualia](/concepts/qualia/), [tenets](/tenets/)
 
 ## Style Guide Compliance

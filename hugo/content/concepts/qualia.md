@@ -75,7 +75,7 @@ If yes—and 82% of non-philosophers agree that she would—then physical facts 
 
 The [inverted spectrum](/concepts/inverted-qualia/) scenario imagines someone whose colour qualia are systematically inverted relative to yours. When you both look at a red apple, you experience red and they experience green (and vice versa). But since they learned colour words pointing at the same objects you did, and their behaviour depends on functional role rather than qualitative character, neither of you would ever know. They pass every colour test you do; their behaviour is identical to yours.
 
-First suggested by John Locke in 1689, the scenario was developed into a rigorous argument against [functionalism](/concepts/functionalism/) by Ned Block, Jerry Fodor, and Sydney Shoemaker. If this scenario is coherent—if functionally identical beings can differ in their qualia—then qualia are not determined by functional organization. Something beyond function fixes the character of experience.
+First suggested by John Locke in 1689, the scenario was developed into a rigorous argument against [functionalism](/arguments/functionalism/) by Ned Block, Jerry Fodor, and Sydney Shoemaker. If this scenario is coherent—if functionally identical beings can differ in their qualia—then qualia are not determined by functional organization. Something beyond function fixes the character of experience.
 
 Ned Block's Inverted Earth scenario sharpens the point: after decades on a planet with inverted colors and inverted color terms, your functional role completely shifts while your qualia stay fixed. If functional role (including environmental relations) can change while qualia remain constant, qualia aren't constituted by functional role.
 
@@ -108,7 +108,7 @@ The persistence of this debate—and the extremity of illusionism's denial—its
 
 ## The Functionalist Challenge
 
-[Functionalism](/concepts/functionalism/) offers a sophisticated response to concerns about qualia. On this view, mental states are defined by their causal roles—what causes them and what they cause. Pain is whatever state is caused by tissue damage, causes avoidance behaviour, and interacts appropriately with beliefs and desires. Qualia, on this account, are not intrinsic properties of experience but the functional roles that experiences play.
+[Functionalism](/arguments/functionalism/) offers a sophisticated response to concerns about qualia. On this view, mental states are defined by their causal roles—what causes them and what they cause. Pain is whatever state is caused by tissue damage, causes avoidance behaviour, and interacts appropriately with beliefs and desires. Qualia, on this account, are not intrinsic properties of experience but the functional roles that experiences play.
 
 This explains multiple realizability: pain in humans and pain in octopuses can both be pain because both states play the pain-role, regardless of different physical implementations. And it makes consciousness scientifically tractable—we can study functional organization without solving metaphysics.
 
@@ -146,7 +146,7 @@ This doesn't solve the hard problem—it doesn't explain *how* qualia arise or w
 - [inverted-qualia](/concepts/inverted-qualia/) - The inverted spectrum argument showing qualia aren't fixed by function
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) - The broader problem qualia exemplify
 - [philosophical-zombies](/concepts/philosophical-zombies/) - The zombie argument and why conceivability of absent qualia challenges physicalism
-- [functionalism](/concepts/functionalism/) - The view that mental states are functional roles, and why it fails to capture qualia
+- [functionalism](/arguments/functionalism/) - The view that mental states are functional roles, and why it fails to capture qualia
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) - The most sophisticated physicalist response to qualia arguments
 - [illusionism](/concepts/illusionism/) - The radical denial of phenomenal properties
 - [tenets](/tenets/) - This site's foundational commitments, especially Dualism

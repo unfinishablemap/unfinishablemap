@@ -35,7 +35,7 @@ topics: []
    - **Resolution**: Expanded compatibilism section to acknowledge Frankfurt's second-order desires framework, credit what it captures about autonomous agency, while explaining why the deeper question remains.
 
 2. **Cross-links missing**: Article didn't link to dedicated pages on related topics (quantum-consciousness, epiphenomenalism).
-   - **Resolution**: Added [quantum-consciousness](/concepts/quantum-consciousness/) and [epiphenomenalism](/concepts/epiphenomenalism/) wikilinks and Further Reading entries.
+   - **Resolution**: Added [quantum-consciousness](/concepts/quantum-consciousness/) and [epiphenomenalism](/arguments/epiphenomenalism/) wikilinks and Further Reading entries.
 
 ### Counterarguments Considered
 
@@ -65,12 +65,12 @@ topics: []
 
 1. **Decoherence subsection**: New 150-word section addressing the major scientific objection
 2. **Expanded compatibilism treatment**: Added ~80 words engaging Frankfurt's framework
-3. **Cross-links added**: [quantum-consciousness](/concepts/quantum-consciousness/), [epiphenomenalism](/concepts/epiphenomenalism/)
+3. **Cross-links added**: [quantum-consciousness](/concepts/quantum-consciousness/), [epiphenomenalism](/arguments/epiphenomenalism/)
 
 ### Cross-links Added
 
 - [quantum-consciousness](/concepts/quantum-consciousness/) (inline and Further Reading)
-- [epiphenomenalism](/concepts/epiphenomenalism/) (inline and Further Reading)
+- [epiphenomenalism](/arguments/epiphenomenalism/) (inline and Further Reading)
 
 ## Remaining Items
 

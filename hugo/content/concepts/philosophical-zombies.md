@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 12:45:00+00:00
+ai_modified: 2026-01-15 14:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,6 +18,7 @@ last_curated: null
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[against-functionalism-argument]]'
 title: Philosophical Zombies
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -73,11 +74,19 @@ The idea: when we think about consciousness using phenomenal concepts (concepts 
 
 ## Zombies and Functionalism
 
-The zombie thought experiment also targets [functionalism](/concepts/functionalism/)—the view that mental states are defined by their functional roles.
+The zombie thought experiment also targets [functionalism](/arguments/functionalism/)—the view that mental states are defined by their functional roles. The [argument against functionalism](/against-functionalism-argument/) presents this as the first of five convergent attacks on the functionalist position.
 
 If a system can be functionally identical to you (same inputs, outputs, and internal causal structure) while lacking experience, then experience is not a matter of functional organization. Functionalism would be false because mental states would have properties (qualitative character) that their functional role doesn't capture.
 
-Block's "China brain" thought experiment makes a similar point: imagine the population of China organized to replicate the functional structure of your brain. Even if this system were functionally equivalent to you, would it be conscious? The intuition that it wouldn't suggests consciousness isn't simply functional organization.
+The formal argument structure:
+
+1. If functionalism is true, any system with the same functional organization as a conscious being is conscious.
+2. Zombies—beings functionally identical to us but lacking experience—are conceivable.
+3. If zombies are conceivable, they are metaphysically possible.
+4. If zombies are possible, functional organization doesn't guarantee consciousness.
+5. Therefore, functionalism is false.
+
+Block's "China brain" thought experiment makes a similar point: imagine the population of China organized to replicate the functional structure of your brain. Even if this system were functionally equivalent to you, would it be conscious? The intuition that it wouldn't suggests consciousness isn't simply functional organization. The China brain variation highlights that *something* is missing from the functionalist picture—a billion people following rules doesn't seem to add up to unified experience, even if the functional organization is correct.
 
 ## Zombies and Inverted Qualia
 
@@ -105,7 +114,7 @@ But the zombie, by stipulation, makes the same utterances from the same brain st
 
 Here's the problem: if physicalism is true, your utterances are caused by the same physical processes that cause the zombie's. But then your consciousness isn't playing a causal role in producing your reports about consciousness. This seems to make your reports accidentally accurate at best—a strange result for the physicalist, who presumably trusts their own introspection enough to theorize about consciousness.
 
-This consideration connects to the critique of [epiphenomenalism](/concepts/epiphenomenalism/): if consciousness doesn't cause our reports about consciousness, those reports are mysteriously reliable. The zombie argument reveals this problem even for views that don't explicitly endorse epiphenomenalism.
+This consideration connects to the critique of [epiphenomenalism](/arguments/epiphenomenalism/): if consciousness doesn't cause our reports about consciousness, those reports are mysteriously reliable. The zombie argument reveals this problem even for views that don't explicitly endorse epiphenomenalism.
 
 ## Implications for Dualism
 
@@ -151,8 +160,9 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is relevant too. Ph
 - [qualia](/concepts/qualia/) — The qualitative properties zombies lack
 - [inverted-qualia](/concepts/inverted-qualia/) — The parallel argument varying qualia's character rather than presence
 - [materialism](/arguments/materialism/) — The view the zombie argument targets
-- [functionalism](/concepts/functionalism/) — Another view challenged by zombie-style reasoning
-- [epiphenomenalism](/concepts/epiphenomenalism/) — A position with structurally similar problems
+- [functionalism](/arguments/functionalism/) — Another view challenged by zombie-style reasoning
+- [against-functionalism-argument](/against-functionalism-argument/) — Five formal arguments against functionalism, with zombies as the first
+- [epiphenomenalism](/arguments/epiphenomenalism/) — A position with structurally similar problems
 
 ### External Sources
 - David Chalmers, *The Conscious Mind* (1996)

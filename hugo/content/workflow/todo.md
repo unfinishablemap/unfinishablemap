@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-15 14:30:00+00:00
+ai_modified: 2026-01-15 15:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,12 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
-### P2: Create argument page "Against Epiphenomenalism"
-- **Type**: expand-topic
-- **Notes**: The arguments section targets 5 pages but currently has only 2 (Against Materialism, For Interactionist Dualism). Epiphenomenalism is a major alternative to interactionism that the site's Bidirectional Interaction tenet directly rejects. Should cover: self-stultification argument (if consciousness is causally inert, our reports about it are accidentally right at best), evolutionary argument (phenomenal states must do something to have been selected), knowledge argument implications (Mary learns something causally relevant). Draw from epiphenomenalism.md and mental-causation.md.
-- **Source**: gap_analysis (arguments gap)
-- **Generated**: 2026-01-15
-
 ### P3: Create concept page for consciousness-selecting-neural-patterns
 - **Type**: expand-topic
 - **Notes**: Referenced 5 times in tenets and other content as the proposed mechanism for mind-matter interaction. Deserves dedicated treatment explaining the model in detail.
@@ -57,6 +51,72 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Research quantum decoherence objection responses in detail
+- **Type**: research-topic
+- **Notes**: The decoherence objection is mentioned in tenets.md and quantum-consciousness.md but responses could be more specific. What exactly do the "hot cat" experiments show? How does Orch OR address decoherence specifically? What timescales are actually needed for consciousness-related quantum effects? Would strengthen the site's response to this major objection.
+- **Result**: Comprehensive research covering Tegmark-Hameroff debate (7 orders of magnitude difference in estimates), protective mechanisms (Debye layer, actin gel, hydrophobic interior), revised timescales (10⁻⁷s with faster dynamics), biological quantum effects (photosynthesis, avian magnetoreception with Jan 2026 Princeton JACS paper), hot cat experiments (1.8K demonstration), 1,400-second coherence record. Key finding: decoherence doesn't eliminate quantum indeterminacy—consciousness could bias outcomes at measurement even after decoherence.
+- **Output**: `research/quantum-decoherence-objection-responses-2026-01-15.md`
+
+### ✓ 2026-01-15: Cross-review ai-consciousness.md considering Hoel LLM consciousness research
+- **Type**: cross-review
+- **Notes**: Research in research/hoel-llm-consciousness-continual-learning-2026-01-16.md analyzes Hoel's proximity argument (LLMs are too close to lookup tables) and continual learning criterion. Review topics/ai-consciousness.md to incorporate these insights—particularly the proximity argument against functionalism and how continual learning distinguishes conscious from non-conscious systems.
+- **Result**: Added hoel-llm-consciousness research to related_articles; added new "Proximity Argument" subsection with Hoel's formal argument structure, Kleiner-Hoel dilemma, and connection to lookup tables; expanded continual learning section with link to research and lenient dependency explanation; added research to Further Reading.
+- **Output**: Updated `topics/ai-consciousness.md`
+
+### ✓ 2026-01-15: Cross-review philosophical-zombies.md considering against-functionalism argument
+- **Type**: cross-review
+- **Notes**: New argument page arguments/functionalism.md features the zombie argument (Argument 1) as a central anti-functionalist argument. Review concepts/philosophical-zombies.md to add link to the argument page and strengthen the connection between zombies and functionalism's failure.
+- **Result**: Added against-functionalism-argument to related_articles; expanded Zombies and Functionalism section with link to formal argument page, formal argument structure (5 premises), and expanded China brain discussion; added argument page to Further Reading.
+- **Output**: Updated `concepts/philosophical-zombies.md`
+
+### ✓ 2026-01-16: Cross-review functionalism.md considering against-functionalism argument
+- **Type**: cross-review
+- **Notes**: New argument page arguments/functionalism.md presents five formal arguments against functionalism (absent qualia, inverted qualia, Chinese Room, multiple realizability cuts both ways, explanatory gap). Review concepts/functionalism.md to add link to the dedicated argument page and strengthen the critique with references to the formal argument structures.
+- **Result**: Added against-functionalism-argument to related_articles; added reference to formal argument page in introduction; added against-functionalism-argument, philosophical-zombies, and inverted-qualia to Further Reading.
+- **Output**: Updated `concepts/functionalism.md`
+
+### ✓ 2026-01-16: Research arXiv paper 2512.12802 and evaluate against site tenets
+- **Type**: research-topic
+- **Notes**: Research the paper at https://web3.arxiv.org/abs/2512.12802 and evaluate how it stands up to the site's perspective on consciousness and dualism. Assess alignment or tension with the five tenets.
+- **Result**: Analyzed Erik Hoel's "A Disproof of Large Language Model Consciousness" which argues continual learning is necessary for consciousness. Found mostly aligned with site tenets: anti-functionalism (proximity argument), consciousness as causal (implicit support for Bidirectional Interaction), skepticism of simple parsimony (supports Occam's Razor Has Limits). Orthogonal treatment of quantum mechanisms.
+- **Output**: `research/hoel-llm-consciousness-continual-learning-2026-01-16.md`
+
+### ✓ 2026-01-15: Cross-review mental-causation.md considering against-epiphenomenalism argument
+- **Type**: cross-review
+- **Notes**: New argument page arguments/epiphenomenalism.md presents five structured arguments against epiphenomenalism, particularly the self-stultification argument with formal premises. Review concepts/mental-causation.md to add link to the dedicated argument page and reference the formal argument structure in the self-stultification section.
+- **Result**: Added epiphenomenalism-argument to related_articles; expanded self-stultification section with formal argument structure; added argument page to Further Reading.
+- **Output**: Updated `concepts/mental-causation.md`
+
+### ✓ 2026-01-15: Cross-review personal-identity.md considering many-worlds argument
+- **Type**: cross-review
+- **Notes**: New argument page arguments/many-worlds.md presents five arguments against MWI including the indexical problem (Argument 2). Review topics/personal-identity.md to add explicit link to the many-worlds argument page and strengthen the "Why This Site Disagrees" section with reference to the formal argument structure.
+- **Result**: Added many-worlds to concepts; expanded No Many Worlds Connection section with link to formal argument page and detailed explanation of indexical problem; added many-worlds to Further Reading.
+- **Output**: Updated `topics/personal-identity.md`
+
+### ✓ 2026-01-15: Create argument page "Against Functionalism"
+- **Type**: expand-topic
+- **Notes**: The arguments section needs 5 pages (currently 4: materialism, interactionist-dualism, many-worlds, epiphenomenalism). Functionalism is a major materialist position that the zombie argument and inverted qualia arguments undermine. Should cover: multiple realizability cuts both ways (if mental states are multiply realizable, physical substrate doesn't determine qualia), Chinese Room argument (syntax isn't semantics), absent qualia possibility, inverted qualia possibility. Draw from functionalism.md, philosophical-zombies.md, and inverted-qualia.md.
+- **Result**: Created ~2400 word argument page with five arguments (absent qualia, inverted qualia, Chinese Room, multiple realizability cuts both ways, explanatory gap) with objections and responses. Connected to all five tenets.
+- **Output**: `arguments/functionalism.md`, updated `arguments/arguments.md`
+
+### ✓ 2026-01-15: Create argument page "Against Epiphenomenalism"
+- **Type**: expand-topic
+- **Notes**: The arguments section targets 5 pages but currently has only 2 (Against Materialism, For Interactionist Dualism). Epiphenomenalism is a major alternative to interactionism that the site's Bidirectional Interaction tenet directly rejects. Should cover: self-stultification argument (if consciousness is causally inert, our reports about it are accidentally right at best), evolutionary argument (phenomenal states must do something to have been selected), knowledge argument implications (Mary learns something causally relevant). Draw from epiphenomenalism.md and mental-causation.md.
+- **Result**: Created ~2000 word argument page with five arguments (self-stultification, evolutionary objection, knowledge argument reversed, introspection problem, self-knowledge problem). Connected to all five tenets and linked to quantum framework response.
+- **Output**: `arguments/epiphenomenalism.md`, updated `arguments/arguments.md`
+
+### ✓ 2026-01-15: Cross-review quantum-consciousness.md considering many-worlds argument
+- **Type**: cross-review
+- **Notes**: New argument page arguments/many-worlds.md presents five arguments against MWI including the probability problem and preferred basis problem. Review concepts/quantum-consciousness.md to strengthen the connection—the quantum consciousness page should reference how site's collapse-based framework contrasts with MWI's unitarity assumption.
+- **Result**: Added many-worlds to related_articles; expanded No Many Worlds tenet reference with link to five arguments; added many-worlds explanation in shared features section; added many-worlds to Further Reading.
+- **Output**: Updated `concepts/quantum-consciousness.md`
+
+### ✓ 2026-01-15: Cross-review measurement-problem.md considering many-worlds argument
+- **Type**: cross-review
+- **Notes**: New argument page arguments/many-worlds.md covers the measurement problem from an anti-MWI perspective. Review concepts/measurement-problem.md to add explicit engagement with MWI as a proposed solution and why the site rejects it—this strengthens the No Many Worlds tenet.
+- **Result**: Added many-worlds to related_articles; expanded MWI subsection with link to five detailed arguments; added many-worlds to Further Reading.
+- **Output**: Updated `concepts/measurement-problem.md`
 
 ### ✓ 2026-01-15: Create argument page "Against Many Worlds"
 - **Type**: expand-topic

@@ -52,7 +52,7 @@ Jaegwon Kim's exclusion argument deploys causal closure against non-reductive ph
 3. Mental causes don't overdetermine physical events alongside physical causes (no systematic overdetermination)
 4. Therefore, mental causes just *are* physical causes (identity theory)
 
-For dualists who reject identity, the argument forces a choice: deny that mental events cause anything ([epiphenomenalism](/concepts/epiphenomenalism/)), or deny causal closure.
+For dualists who reject identity, the argument forces a choice: deny that mental events cause anything ([epiphenomenalism](/arguments/epiphenomenalism/)), or deny causal closure.
 
 This site denies causal closure.
 
@@ -136,7 +136,7 @@ This rejection is not arbitrary but principled:
 
 2. **Consciousness reporting** shows that mental states influence physical behavior. When you report seeing red, information about your experience enters your verbal behavior. This requires mental→physical causation.
 
-3. **Self-stultification** shows that denying mental causation undermines rational thought. If consciousness causes nothing, our beliefs about consciousness (including the belief in [epiphenomenalism](/concepts/epiphenomenalism/)) are causally disconnected from actual experiences.
+3. **Self-stultification** shows that denying mental causation undermines rational thought. If consciousness causes nothing, our beliefs about consciousness (including the belief in [epiphenomenalism](/arguments/epiphenomenalism/)) are causally disconnected from actual experiences.
 
 The site doesn't claim certainty about *how* consciousness interfaces with quantum events—that remains an open empirical question addressed by [quantum consciousness research](/concepts/quantum-consciousness/). But it holds that such interface is possible because causal closure fails where physics is fundamentally indeterminate.
 
@@ -156,7 +156,7 @@ This is not "god of the gaps" reasoning. It's recognition that physics *describe
 - [emergence](/concepts/emergence/) — The emergentist response to causal closure
 - [interactionist-dualism](/arguments/interactionist-dualism/) — The position that mental causation enables
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-matter interaction
-- [epiphenomenalism](/concepts/epiphenomenalism/) — The view accepting closure forces
+- [epiphenomenalism](/arguments/epiphenomenalism/) — The view accepting closure forces
 - [free-will](/topics/free-will/) — Implications for agency
 - [materialism](/arguments/materialism/) — The worldview closure supports
 

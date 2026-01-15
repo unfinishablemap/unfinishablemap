@@ -26,7 +26,7 @@ topics:
 
 The inverted spectrum thought experiment asks: what if your experience of red is qualitatively identical to my experience of green? Two people might perceive the same objects, respond identically to color tests, and agree on all color terms—yet experience the world in systematically different ways. Where you see a warm red sunset, I might see something that, were you to experience it, you'd call a cool green glow.
 
-First suggested by John Locke in 1689, the scenario was developed into a rigorous argument against [functionalism](/concepts/functionalism/) by Ned Block, Jerry Fodor, and Sydney Shoemaker. If functionally identical beings can differ in their [qualia](/concepts/qualia/), then qualia aren't determined by functional organization. Something beyond function matters to the character of experience.
+First suggested by John Locke in 1689, the scenario was developed into a rigorous argument against [functionalism](/arguments/functionalism/) by Ned Block, Jerry Fodor, and Sydney Shoemaker. If functionally identical beings can differ in their [qualia](/concepts/qualia/), then qualia aren't determined by functional organization. Something beyond function matters to the character of experience.
 
 ## The Core Scenario
 
@@ -45,7 +45,7 @@ Neither is wrong about the apple. Both correctly perceive that the apple is red�
 
 ## Why This Challenges Functionalism
 
-[Functionalism](/concepts/functionalism/) holds that mental states are defined by their functional roles—by how they're caused by inputs, how they cause behavior, and how they relate to other mental states. A pain state, on this view, just *is* whatever state plays the pain role: caused by tissue damage, producing avoidance behavior, generating beliefs like "something hurts."
+[Functionalism](/arguments/functionalism/) holds that mental states are defined by their functional roles—by how they're caused by inputs, how they cause behavior, and how they relate to other mental states. A pain state, on this view, just *is* whatever state plays the pain role: caused by tissue damage, producing avoidance behavior, generating beliefs like "something hurts."
 
 The inverted spectrum scenario suggests this can't be right for qualitative states:
 
@@ -143,7 +143,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet raises
 ### Site Content
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The parallel argument varying qualia's presence rather than character
 - [qualia](/concepts/qualia/) — The phenomenal properties that resist functional analysis
-- [functionalism](/concepts/functionalism/) — The primary target of the inverted spectrum argument
+- [functionalism](/arguments/functionalism/) — The primary target of the inverted spectrum argument
 - [knowledge-argument](/concepts/knowledge-argument/) — Another route to the same dualist conclusion
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic implications of qualia's privacy
 - [explanatory-gap](/concepts/explanatory-gap/) — Why structural descriptions leave phenomenal character unexplained
