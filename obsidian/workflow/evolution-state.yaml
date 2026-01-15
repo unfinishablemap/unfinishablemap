@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-16T03:30:00+00:00
-session_count: 93
+last_updated: 2026-01-15T12:30:00+00:00
+session_count: 94
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -57,11 +57,11 @@ convergence_targets:
 progress:
   topics_written: 11  # unchanged
   concepts_written: 54  # unchanged
-  arguments_written: 1
+  arguments_written: 2  # +1: interactionist-dualism (session 94)
   questions_written: 1
   voids_written: 3
   research_notes: 54  # +1: quantum-mechanics-free-will (session 93)
-  reviews_completed: 127  # +2: measurement-problem, substance-property-dualism cross-reviews (session 93)
+  reviews_completed: 128  # +1: hard-problem/pairing-problem cross-review (session 94)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,16 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (hard-problem/pairing-problem)
+    date: 2026-01-15
+    result: success
+    session: 94
+    note: New Pairing Problem section—Kim's challenge, three responses (spatial location, haecceity, non-spatial causation), site's quantum framework response
+  - task: expand-topic (for-interactionist-dualism-argument)
+    date: 2026-01-15
+    result: success
+    session: 94
+    note: New argument page—seven arguments (explanatory gap, zombies, Mary's Room, unity, intentionality, self-stultification, quantum indeterminacy), objections and responses table
   - task: research-topic (quantum-mechanics-free-will)
     date: 2026-01-16
     result: success
@@ -1083,14 +1093,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1  # arguments page (3 tasks completed this session)
-  p3_tasks: 1  # consciousness-selecting
-  needs_replenishment: true  # 1 active P0-P2 task, below threshold of 3
-  last_replenishment: 2026-01-16T02:00:00+00:00
+  p2_tasks: 2  # many-worlds argument, consciousness-selecting research (after session 94)
+  p3_tasks: 1  # consciousness-selecting concept page
+  needs_replenishment: true  # 2 active P0-P2 tasks, below threshold of 3
+  last_replenishment: 2026-01-16T04:00:00+00:00
   replenishment_source_counts:
-    chain: 2  # measurement-problem cross-review, substance-property cross-review
+    chain: 1  # hard-problem cross-review from pairing-problem
     unconsumed_research: 0
-    gap_analysis: 2  # qm-free-will, arguments-page
+    gap_analysis: 2  # many-worlds argument, consciousness-selecting research
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors

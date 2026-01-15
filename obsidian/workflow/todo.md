@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-16T01:00:00+00:00
+ai_modified: 2026-01-15T12:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,10 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Create argument page "For Interactionist Dualism"
+### P2: Create argument page "Against Many Worlds"
 - **Type**: expand-topic
-- **Notes**: The arguments section has only 1 page (Against Materialism) vs target of 5. A formal argument page for interactionist dualism would consolidate the positive case: knowledge argument, conceivability arguments, unity of consciousness, intentionality, self-stultification of epiphenomenalism. Draw from arguments-for-dualism.md concept page but in structured argument form.
+- **Notes**: The No Many Worlds tenet needs a dedicated argument page in the arguments section. Should cover: ontological proliferation, indexical identity problems, probability interpretation issues, and why the site prefers collapse interpretations. Would strengthen the arguments section (currently only 1 of 5 target pages).
 - **Source**: gap_analysis (arguments gap)
+- **Generated**: 2026-01-16
+
+### P2: Research consciousness-selecting mechanisms in detail
+- **Type**: research-topic
+- **Notes**: The site's Minimal Quantum Interaction and Bidirectional Interaction tenets depend on consciousness selecting among quantum outcomes. But what would the detailed mechanism look like? Key questions: How does attention/intention map to specific neural quantum systems? What's the information bandwidth? Does selection happen at individual neurons, microtubules, or larger ensembles? Would strengthen quantum-consciousness.md and support the P3 task for consciousness-selecting-neural-patterns concept page.
+- **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
 ### P3: Create concept page for consciousness-selecting-neural-patterns
@@ -50,6 +56,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Create argument page "For Interactionist Dualism"
+- **Type**: expand-topic
+- **Notes**: The arguments section has only 1 page (Against Materialism) vs target of 5. A formal argument page for interactionist dualism would consolidate the positive case: knowledge argument, conceivability arguments, unity of consciousness, intentionality, self-stultification of epiphenomenalism. Draw from arguments-for-dualism.md concept page but in structured argument form.
+- **Result**: Created ~2000 word argument page with seven arguments (explanatory gap, zombie conceivability, Mary's Room, unity of consciousness, intentionality, self-stultification, quantum indeterminacy) structured in formal argument form with premises and conclusions. Added objections and responses table, connected to all five tenets.
+- **Output**: `arguments/interactionist-dualism.md`, updated `arguments/arguments.md`
+
+### ✓ 2026-01-15: Cross-review hard-problem-of-consciousness.md considering pairing-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/pairing-problem.md presents Kim's challenge that mind-body pairing is unintelligible without spatial relations. Review topics/hard-problem-of-consciousness.md to add pairing problem as another dimension of the hard problem—not just "why experience?" but "why *this* experience with *this* body?"
+- **Result**: Added new "The Pairing Problem: Why This Mind with This Body?" section explaining Kim's challenge as a distinct dimension of the hard problem, three major responses (spatial location, haecceity, non-spatial causation), and how the site's quantum framework addresses both pairing and closure problems. Added pairing-problem to concepts list and Further Reading.
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
 ### ✓ 2026-01-16: Cross-review substance-property-dualism.md considering pairing-problem insights
 - **Type**: cross-review
