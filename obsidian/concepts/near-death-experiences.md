@@ -3,7 +3,7 @@ title: "Near-Death Experiences"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-15T03:30:00+00:00
+ai_modified: 2026-01-15T23:50:00+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -12,6 +12,7 @@ concepts:
   - "[[qualia]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[quantum-consciousness]]"
+  - "[[filter-theory]]"
 related_articles:
   - "[[tenets]]"
   - "[[personal-identity]]"
@@ -105,7 +106,7 @@ Experiencers consistently report: "More real than real." "Thinking more clearly 
 
 This is paradoxical if experience is produced by brain activity. When the factory shuts down, the products should degrade, not improve. The "disinhibition" response—that neural suppression releases certain regions from constraint—explains some phenomena but not coherent heightened experience across multiple domains simultaneously.
 
-For dualism, the paradox dissolves. If the brain is interface rather than generator, brain compromise might *reduce* the filtering or constraint that normally limits consciousness rather than reduce consciousness itself. The radio analogy: damaging a radio doesn't damage the broadcast; it might produce static, but under certain conditions might allow other frequencies through.
+[[filter-theory|Filter theory]] dissolves this paradox. If the brain transmits or constrains consciousness rather than producing it, brain compromise might *reduce* the filtering that normally limits what consciousness can access—rather than reducing consciousness itself. The radio analogy: damaging a radio doesn't damage the broadcast; it might produce static, but under certain conditions might allow other frequencies through. Aldous Huxley proposed that the brain functions as a "reducing valve"—psychedelics produce expanded experience by disrupting this valve. NDEs may work similarly: as the filtering system fails, consciousness expands rather than contracts.
 
 ## Relation to This Site's Perspective
 
@@ -124,6 +125,7 @@ The site doesn't claim NDEs prove survival. What they demonstrate is that the br
 ## Further Reading
 
 - [[death-and-consciousness]] — The broader question of consciousness and mortality
+- [[filter-theory]] — The transmission model that explains the paradox of heightened experience
 - [[quantum-consciousness]] — Mechanisms at the consciousness-physics interface
 - [[neural-correlates-of-consciousness]] — What brain activity tells us (and doesn't)
 - [[personal-identity]] — Why the specific experiencer matters
