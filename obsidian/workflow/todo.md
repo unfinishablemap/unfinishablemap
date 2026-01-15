@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T21:00:00+00:00
+ai_modified: 2026-01-15T22:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research emergence and consciousness
-- **Type**: research-topic
-- **Notes**: Strong vs weak emergence in consciousness studies. Does consciousness emerge from physical complexity or is emergence an inadequate framework? Connects to site's anti-reductionist position. Key topics: Kim's causal exclusion argument, strong emergence as downward causation, weak emergence vs reduction, O'Connor and Wong on emergent properties, Chalmers on strong emergence.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-14
-
-### P2: Create concept page for the combination problem
-- **Type**: expand-topic
-- **Notes**: Referenced in panpsychism article. The challenge of explaining how micro-experiences combine into unified consciousness. Important counterpoint to site's preferred interactionism. Key topics: Seager's subject combination problem, palette problem, grain problem, Chalmers's formulation, cosmopsychism alternative.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-14
-
 ### P2: Research downward causation and mental causation
 - **Type**: research-topic
 - **Notes**: The site's Bidirectional Interaction tenet depends on downward causation—consciousness influencing physical events. But the philosophical literature on mental causation (Kim, Papineau, Yablo) presents serious challenges. Key questions: Does the causal closure of physics rule out mental causation? What is overdetermination and how can dualism avoid it? How does supervenience relate to causation? Would strengthen interactionist-dualism.md and causal-closure.md.
@@ -62,6 +50,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Create concept page for the combination problem
+- **Type**: expand-topic
+- **Notes**: Referenced in panpsychism article. The challenge of explaining how micro-experiences combine into unified consciousness. Important counterpoint to site's preferred interactionism. Key topics: Seager's subject combination problem, palette problem, grain problem, Chalmers's formulation, cosmopsychism alternative.
+- **Source**: gap_analysis
+- **Result**: Created ~2400 word article covering subject-summing, palette, grain, and structure problems; proposed solutions (phenomenal bonding, co-consciousness, combinatorial infusion, cosmopsychism, eliminating subjects); comparison with site's interactionist framework that avoids the problem entirely.
+- **Output**: `concepts/combination-problem.md`, updated `concepts/panpsychism.md`, `concepts/russellian-monism.md`
+
+### ✓ 2026-01-15: Research emergence and consciousness
+- **Type**: research-topic
+- **Notes**: Strong vs weak emergence in consciousness studies. Does consciousness emerge from physical complexity or is emergence an inadequate framework? Connects to site's anti-reductionist position. Key topics: Kim's causal exclusion argument, strong emergence as downward causation, weak emergence vs reduction, O'Connor and Wong on emergent properties, Chalmers on strong emergence.
+- **Source**: gap_analysis
+- **Result**: Comprehensive research covering strong/weak emergence distinction, British emergentism (Broad, Alexander), Kim's causal exclusion argument, O'Connor-Wong on emergent properties with novel causal powers, downward causation debates, and how site's framework aligns with strong emergentism via quantum mechanism.
+- **Output**: `research/emergence-consciousness-philosophy-2026-01-15.md`
 
 ### ✓ 2026-01-15: Cross-review neurophenomenology.md considering introspection insights
 - **Type**: cross-review
