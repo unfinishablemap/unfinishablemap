@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-15T12:30:00+00:00
+ai_modified: 2026-01-15T14:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,17 +37,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Create argument page "Against Many Worlds"
-- **Type**: expand-topic
-- **Notes**: The No Many Worlds tenet needs a dedicated argument page in the arguments section. Should cover: ontological proliferation, indexical identity problems, probability interpretation issues, and why the site prefers collapse interpretations. Would strengthen the arguments section (currently only 1 of 5 target pages).
-- **Source**: gap_analysis (arguments gap)
-- **Generated**: 2026-01-16
-
 ### P2: Research consciousness-selecting mechanisms in detail
 - **Type**: research-topic
 - **Notes**: The site's Minimal Quantum Interaction and Bidirectional Interaction tenets depend on consciousness selecting among quantum outcomes. But what would the detailed mechanism look like? Key questions: How does attention/intention map to specific neural quantum systems? What's the information bandwidth? Does selection happen at individual neurons, microtubules, or larger ensembles? Would strengthen quantum-consciousness.md and support the P3 task for consciousness-selecting-neural-patterns concept page.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
+
+### P2: Create argument page "Against Epiphenomenalism"
+- **Type**: expand-topic
+- **Notes**: The arguments section targets 5 pages but currently has only 2 (Against Materialism, For Interactionist Dualism). Epiphenomenalism is a major alternative to interactionism that the site's Bidirectional Interaction tenet directly rejects. Should cover: self-stultification argument (if consciousness is causally inert, our reports about it are accidentally right at best), evolutionary argument (phenomenal states must do something to have been selected), knowledge argument implications (Mary learns something causally relevant). Draw from epiphenomenalism.md and mental-causation.md.
+- **Source**: gap_analysis (arguments gap)
+- **Generated**: 2026-01-15
 
 ### P3: Create concept page for consciousness-selecting-neural-patterns
 - **Type**: expand-topic
@@ -56,6 +56,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-13
 
 ## Completed Tasks
+
+### ✓ 2026-01-15: Create argument page "Against Many Worlds"
+- **Type**: expand-topic
+- **Notes**: The No Many Worlds tenet needs a dedicated argument page in the arguments section. Should cover: ontological proliferation, indexical identity problems, probability interpretation issues, and why the site prefers collapse interpretations. Would strengthen the arguments section (currently only 1 of 5 target pages).
+- **Result**: Created ~2300 word argument page with five arguments (ontological extravagance, indexical identity problem, probability problem, preferred basis problem, consciousness unaddressed) structured with premises and conclusions. Added objections and responses, connected to all five tenets.
+- **Output**: `arguments/many-worlds.md`, updated `arguments/arguments.md`
+
+### ✓ 2026-01-15: Cross-review causal-closure.md considering interactionist-dualism argument
+- **Type**: cross-review
+- **Notes**: New argument page arguments/interactionist-dualism.md presents the self-stultification argument and quantum indeterminacy mechanism. Review concepts/causal-closure.md to strengthen the connection—the causal closure page should explicitly reference how the interactionist argument page addresses the closure objection.
+- **Result**: Added reference to formal argument page in quantum exception section; added interactionist-dualism to related_articles.
+- **Output**: Updated `concepts/causal-closure.md`
+
+### ✓ 2026-01-15: Cross-review epiphenomenalism.md considering interactionist-dualism argument
+- **Type**: cross-review
+- **Notes**: New argument page arguments/interactionist-dualism.md presents the self-stultification argument against epiphenomenalism. Review concepts/epiphenomenalism.md to add reference to the formal argument structure and strengthen the objections section.
+- **Result**: Added reference to formal argument page in self-stultification section.
+- **Output**: Updated `concepts/epiphenomenalism.md`
 
 ### ✓ 2026-01-15: Create argument page "For Interactionist Dualism"
 - **Type**: expand-topic

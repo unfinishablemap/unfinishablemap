@@ -1,7 +1,7 @@
 ---
 ai_contribution: 90
 ai_generated_date: null
-ai_modified: null
+ai_modified: 2026-01-15 14:15:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -30,3 +30,27 @@ A comprehensive case against materialism in all its forms—eliminative, reducti
 - Quantum mechanics is not causally closed in the way materialism requires
 
 **Discussion:** [materialism](/arguments/materialism/)
+
+### For Interactionist Dualism
+
+A cumulative case for interactionist dualism: consciousness is irreducible to physical processes and causally influences the physical world. Seven arguments converge on this conclusion.
+
+**Key claims:**
+- The explanatory gap shows physical explanation cannot reach qualia
+- Zombie conceivability shows consciousness is not necessitated by physics
+- The self-stultification argument shows consciousness must be causally relevant
+- Quantum indeterminacy provides the mechanism for mental causation
+
+**Discussion:** [interactionist-dualism](/arguments/interactionist-dualism/)
+
+### Against Many-Worlds
+
+The many-worlds interpretation of quantum mechanics claims to solve the measurement problem by positing that all quantum outcomes occur in branching universes. This page argues that many-worlds fails on multiple fronts and is incompatible with the site's framework.
+
+**Key claims:**
+- Ontological extravagance: mathematical simplicity purchased with metaphysical inflation
+- The indexical problem: personal identity becomes incoherent across branches
+- The probability problem: the Born rule remains unexplained
+- Consciousness has no role in many-worlds, conflicting with Bidirectional Interaction
+
+**Discussion:** [many-worlds](/arguments/many-worlds/)

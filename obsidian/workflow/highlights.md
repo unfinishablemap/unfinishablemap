@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-01-14T01:12:30.142753'
+ai_modified: 2026-01-15T14:45:00+00:00
 ai_system: null
 author: null
 concepts: []
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from the site's ongoi
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-01-15: Against Many-Worlds argument page
+
+New argument page presents the cumulative case against many-worlds interpretation: ontological extravagance, the indexical identity problem, probability and preferred basis challenges, and why consciousness requires definite outcomes.
+
+**Type**: new-article
+**Link**: [[many-worlds]]
+
+---
+
 ### 2026-01-14: Decoherence article published
 
 New concept page explores what decoherence does and doesn't show - crucially, it doesn't solve the measurement problem or refute quantum consciousness theories.

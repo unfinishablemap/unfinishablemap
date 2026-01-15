@@ -102,7 +102,7 @@ The Libet experiments engage directly with the site's core commitments.
 - [retrocausality](/concepts/retrocausality/) — How backward causation resolves the timing problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness at the quantum level
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view these experiments seem to support, and its problems
-- [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that makes conscious selection coherent
+- [interactionist-dualism](/arguments/interactionist-dualism/) — The framework that makes conscious selection coherent
 - [libet-experiments-free-will-2026-01-07](/research/libet-experiments-free-will-2026-01-07/) — Detailed research notes
 
 ## References

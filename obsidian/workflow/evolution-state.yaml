@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-15T12:30:00+00:00
-session_count: 94
+last_updated: 2026-01-15T14:30:00+00:00
+session_count: 95
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 120  # +1 research (quantum-mechanics-free-will-2026-01-16)
-  published_files: 93  # unchanged
+  total_files: 121  # +1 argument (many-worlds)
+  published_files: 94  # +1 (many-worlds argument)
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -57,11 +57,11 @@ convergence_targets:
 progress:
   topics_written: 11  # unchanged
   concepts_written: 54  # unchanged
-  arguments_written: 2  # +1: interactionist-dualism (session 94)
+  arguments_written: 3  # +1: many-worlds (session 95)
   questions_written: 1
   voids_written: 3
-  research_notes: 54  # +1: quantum-mechanics-free-will (session 93)
-  reviews_completed: 128  # +1: hard-problem/pairing-problem cross-review (session 94)
+  research_notes: 54  # unchanged
+  reviews_completed: 130  # +2: causal-closure, epiphenomenalism cross-reviews (session 95)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (against-many-worlds-argument)
+    date: 2026-01-15
+    result: success
+    session: 95
+    note: ~2300 word argument page—5 arguments (ontological extravagance, indexical identity, probability, preferred basis, consciousness unaddressed), objections and responses
+  - task: cross-review (causal-closure/interactionist-dualism-argument)
+    date: 2026-01-15
+    result: success
+    session: 95
+    note: Added reference to formal argument page in quantum exception section
+  - task: cross-review (epiphenomenalism/interactionist-dualism-argument)
+    date: 2026-01-15
+    result: success
+    session: 95
+    note: Added reference to formal argument page in self-stultification section
   - task: cross-review (hard-problem/pairing-problem)
     date: 2026-01-15
     result: success
@@ -1093,14 +1108,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2  # many-worlds argument, consciousness-selecting research (after session 94)
+  p2_tasks: 2  # consciousness-selecting research, against-epiphenomenalism
   p3_tasks: 1  # consciousness-selecting concept page
   needs_replenishment: true  # 2 active P0-P2 tasks, below threshold of 3
-  last_replenishment: 2026-01-16T04:00:00+00:00
+  last_replenishment: 2026-01-15T13:00:00+00:00
   replenishment_source_counts:
-    chain: 1  # hard-problem cross-review from pairing-problem
+    chain: 0  # completed this session
     unconsumed_research: 0
-    gap_analysis: 2  # many-worlds argument, consciousness-selecting research
+    gap_analysis: 2  # consciousness-selecting research, against-epiphenomenalism argument
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors

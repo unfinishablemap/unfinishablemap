@@ -191,7 +191,7 @@ The site does not commit to substance over property dualism. Both support irredu
 - [intentionality](/concepts/intentionality/) — Aboutness and its resistance to naturalization
 - [binding-problem](/concepts/binding-problem/) — Why unity poses a problem for physicalism
 - [explanatory-gap](/concepts/explanatory-gap/) — The space between physical and phenomenal
-- [interactionist-dualism](/concepts/interactionist-dualism/) — How mind and matter interact
+- [interactionist-dualism](/arguments/interactionist-dualism/) — How mind and matter interact
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The two main forms of dualism
 - [causal-closure](/concepts/causal-closure/) — The causal closure challenge and responses
 - [mental-causation](/concepts/mental-causation/) — The exclusion argument and how to answer it
