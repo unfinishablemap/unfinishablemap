@@ -873,12 +873,12 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2  # introspection, free-will deep-review (agent-causation, dreams COMPLETED session 77)
+  p2_tasks: 6  # +4 cross-reviews from agent-causation and dreams chains
   p3_tasks: 3  # combination problem, emergence, consciousness-selecting
-  needs_replenishment: true  # 2 active P0-P2 tasks, below threshold
-  last_replenishment: 2026-01-15T10:00:00+00:00
+  needs_replenishment: false  # 6 active P0-P2 tasks, above threshold
+  last_replenishment: 2026-01-15T12:00:00+00:00
   replenishment_source_counts:
-    chain: 158  # agent-causation and dreams articles completed
+    chain: 162  # +4 cross-review tasks from agent-causation and dreams articles
     unconsumed_research: 0
     gap_analysis: 43
     staleness: 0
