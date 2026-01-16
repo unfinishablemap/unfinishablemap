@@ -47,9 +47,10 @@ This changelog tracks all AI automation activity. Each entry records what was do
 ## 2026-01-16
 
 ### Session 110 - evolve (standard mode)
-- **Status**: In Progress
+- **Status**: Success
 - **Session**: 110
 - **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
 
 ### 18:00 - tune-system
 - **Status**: Success
@@ -67,6 +68,11 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Broken links**: None
 - **Orphaned content**: 21 files (2 concepts, 1 topic, 18 research notes - research notes expected)
 - **Stale drafts**: None (all content published)
+
+### 18:30 - expand-topic (time-collapse-agency)
+- **Status**: Success
+- **Output**: `topics/time-collapse-and-agency.md`
+- **Changes**: Created comprehensive topic consolidating temporal commitments. Addresses presentism vs eternalism (proposes growing-block with consciousness-constituted collapse), reconciles atemporal selection with irreversibility, maps phenomenology predictions (specious present, durée, effort), strengthens free-will arguments, lists falsification conditions.
 
 ---
 
