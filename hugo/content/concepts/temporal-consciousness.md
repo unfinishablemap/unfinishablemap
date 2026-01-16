@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-14 11:00:00+00:00
+ai_modified: 2026-01-17 03:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[duration]]'
 - '[[collapse-and-time]]'
 - '[[phenomenology]]'
+- '[[philosophy-of-time]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 draft: false
@@ -49,6 +50,18 @@ These form an indivisible whole. Retention isn't remembering the past; it's expe
 The phenomenological method is essential here. Husserl's analysis of time-consciousness wasn't empirical speculation about brain mechanisms but careful description of experience as it actually presents itself. The epoché—the suspension of assumptions about the external world—reveals temporal structure as a fundamental feature of conscious life, not something added to or explained by physics. Physical time is a sequence of instants; experienced time, as phenomenology discloses it, is a living synthesis where past, present, and future interpenetrate.
 
 This explains why third-person neuroscience, however sophisticated, cannot capture the lived character of temporal experience. Gamma oscillations and neural synchrony may be necessary conditions for temporal binding, but they don't constitute the *experience* of flow—the way the just-past echoes in the present while the future is already anticipated. That experiential structure is accessible only through phenomenological investigation.
+
+## The Metaphysical Framework
+
+The phenomenology of temporal consciousness connects to deeper questions in [philosophy of time](/concepts/philosophy-of-time/). McTaggart's distinction between the A-series (events ordered as past, present, future) and B-series (events ordered as earlier-than, later-than) maps onto a crucial question: Is the felt flow of experience tracking something real, or is it an illusion?
+
+**A-theorists** hold that temporal becoming is real—events genuinely move from future to present to past. The specious present, on this view, is consciousness experiencing real temporal passage. Presentism takes this seriously: only the present exists, and the vivid phenomenological difference between past, present, and future reflects metaphysical reality.
+
+**B-theorists** hold that all times exist equally (eternalism), and "now" is merely indexical—like "here" for space. The felt flow of time would be systematically illusory, a perspectival artifact rather than a feature of reality.
+
+The site's [framework](/topics/time-collapse-and-agency/) proposes a modified growing block view: consciousness-involving collapse grows the block, with the present as the leading edge where superposition resolves into definite outcome. This is A-theoretic—temporal becoming through collapse is real—while explaining why B-theoretic description works for the established past. The specious present is the phenomenology of collapse: we experience duration because we participate in creating it.
+
+This connects phenomenology to metaphysics. The retention-protention structure Husserl describes isn't just *about* time—it may be the experiential side of time's constitution. The unity of the specious present is what collapse feels like from within.
 
 ## Temporal Binding in the Brain
 
@@ -124,9 +137,11 @@ The temporal argument strengthens the case that consciousness requires something
 
 ## Further Reading
 
+- [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series, presentism, eternalism, and the site's growing block position
 - [phenomenology](/concepts/phenomenology/) — The method that reveals temporal structure as fundamental to conscious life
 - [collapse-and-time](/concepts/collapse-and-time/) — How consciousness may participate in time's arrow via quantum collapse
 - [duration](/concepts/duration/) — Bergson's durée and the qualitative character of lived time
+- [time-collapse-and-agency](/topics/time-collapse-and-agency/) — The site's full treatment of time, collapse, and conscious agency
 - [ai-consciousness](/topics/ai-consciousness/) — Why the site holds AI systems are not conscious
 - [functionalism](/arguments/functionalism/) — The theory that mental states are functional roles
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for consciousness-matter interaction

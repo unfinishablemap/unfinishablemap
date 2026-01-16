@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-14 16:15:00+00:00
+ai_modified: 2026-01-17 03:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[libet-experiments]]'
 - '[[collapse-and-time]]'
+- '[[philosophy-of-time]]'
 created: 2026-01-07
 date: &id001 2026-01-07
 draft: false
@@ -114,6 +115,23 @@ Retrocausality complements the specific [quantum consciousness mechanisms](/conc
 
 Both approaches benefit from retrocausality because it dissolves the Libet objection without requiring consciousness to somehow "speed up" to precede neural preparation.
 
+## Time Ontology and Retrocausality
+
+Retrocausality raises a puzzle about the [ontology of time](/concepts/philosophy-of-time/). The transactional interpretation requires confirmation waves propagating *from* the future—but if the future doesn't exist yet (presentism), what sends these waves? This seems to favor eternalism: all times exist equally, so the future is "there" to participate in transactions.
+
+Yet the site's framework requires real collapse—which introduces genuine temporal asymmetry, favoring A-theory (real temporal becoming) over pure B-theory eternalism where time's flow is illusory.
+
+The site's [temporal framework](/topics/time-collapse-and-agency/) proposes a resolution: a **modified growing block** where:
+
+1. Retrocausality operates within the time-symmetric physics *before* collapse establishes temporal direction
+2. Collapse—including consciousness-involving collapse—creates irreversible temporal structure
+3. After collapse, the selected history is simply the history (amenable to B-theoretic description)
+4. The "future" that participates in retrocausal transactions is the space of quantum possibilities, not ontologically existing future facts
+
+On this view, retrocausality doesn't require eternalism in the strong sense. What it requires is that quantum processes involve boundary conditions at both ends of a transaction—but these boundary conditions can be superposed possibilities rather than determinate futures. The handshake between offer and confirmation waves selects which possibilities become actual, growing the block.
+
+This preserves the key insight: the future is genuinely open (not already existing), yet retrocausal physics can operate because superposed possibilities extend forward. Collapse—including consciousness-mediated selection—determines which possibilities resolve into the single actual history.
+
 ## Relation to Site Perspective
 
 Retrocausality offers the strongest available resolution to the temporal ordering objection against conscious causation. If the [site's tenets](/tenets/) are correct—if consciousness genuinely influences which quantum outcomes become actual—then retrocausal models provide the mechanism for how this influence can appear "after" the neural activity it shapes.
@@ -127,7 +145,9 @@ The Libet experiments don't refute conscious causation; they reveal that conscio
 
 ## Further Reading
 
+- [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series, presentism vs eternalism, and how the site reconciles these with retrocausality
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry and why consciousness may be constitutive of time's arrow
+- [time-collapse-and-agency](/topics/time-collapse-and-agency/) — The site's full treatment of time, collapse, and conscious agency
 - [libet-experiments](/concepts/libet-experiments/) — Detailed treatment of Libet's experiments, Schurger's neural noise critique, and the retrocausal resolution
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific quantum mechanisms (Orch OR, Stapp's Zeno) that retrocausality complements
 - [tenets](/tenets/) — The site's foundational commitments, especially Bidirectional Interaction and Minimal Quantum Interaction

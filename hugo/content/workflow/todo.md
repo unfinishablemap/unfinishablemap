@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-16 12:30:00+00:00
+ai_modified: 2026-01-17 03:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,7 +50,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-16
 
+### P2: Create voids article on whether cognitive limits are real
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-whether-real-2026-01-17.md. Key meta-level question: are cognitive limits genuine (structural) or merely current ignorance? Finding—the question may be formally undecidable from within, which is itself informative about cognitive architecture. Connects to mysterianism and limits-reveal-structure.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-17
+
+### P2: Cross-review collapse-and-time.md considering philosophy-of-time insights
+- **Type**: cross-review
+- **Notes**: New article concepts/philosophy-of-time.md provides systematic framework for time ontology. Review concepts/collapse-and-time.md to add references to A-theory/B-theory distinction and how site's position relates to standard positions in philosophy of time.
+- **Source**: chain (from philosophy-of-time.md)
+- **Generated**: 2026-01-17
+
 ## Completed Tasks
+
+### ✓ 2026-01-17: Create concept page on cognitive phenomenology
+- **Type**: expand-topic
+- **Notes**: Research completed in research/cognitive-phenomenology-thinking-experience-2026-01-17.md. Covers liberalism vs conservatism debate on whether thinking itself has phenomenal character (beyond sensory imagery). Key relevance to AI consciousness question—could LLMs have "pale" cognitive phenomenology without sensory qualia?
+- **Result**: Created ~1800 word concept page covering the central question, arguments for/against (Strawson, Pitt, Siewert vs Tye, Dretske), phenomenal intentionality connection, AI consciousness implications, evidence from aphantasia and training effects.
+- **Output**: `concepts/cognitive-phenomenology.md`
+
+### ✓ 2026-01-17: Cross-review retrocausality.md considering philosophy-of-time insights
+- **Type**: cross-review
+- **Notes**: New article concepts/philosophy-of-time.md discusses how retrocausality might favor eternalism/block universe while collapse favors presentism. Review concepts/retrocausality.md to engage with this tension and explain how the site reconciles retrocausal selection with consciousness-constituted time.
+- **Result**: Added new "Time Ontology and Retrocausality" section explaining how retrocausality seems to require eternalism but site reconciles via modified growing block—retrocausality operates on superposed possibilities, not ontologically existing future facts. Added philosophy-of-time and time-collapse-and-agency to concepts and Further Reading.
+- **Output**: Updated `concepts/retrocausality.md`
+
+### ✓ 2026-01-17: Cross-review temporal-consciousness.md considering philosophy-of-time insights
+- **Type**: cross-review
+- **Notes**: New article concepts/philosophy-of-time.md covers McTaggart's A/B series, presentism/eternalism/growing-block, and site's consciousness-constituted collapse position. Review concepts/temporal-consciousness.md to add links to formal philosophy of time framework and strengthen the phenomenology-metaphysics connection.
+- **Result**: Added new "The Metaphysical Framework" section connecting temporal phenomenology to formal philosophy of time (A-theory vs B-theory, presentism vs eternalism). Explains how site's growing block view interprets specious present as phenomenology of collapse. Added philosophy-of-time to concepts and Further Reading.
+- **Output**: Updated `concepts/temporal-consciousness.md`
 
 ### ✓ 2026-01-17: Create concept page on philosophy of time and consciousness
 - **Type**: expand-topic

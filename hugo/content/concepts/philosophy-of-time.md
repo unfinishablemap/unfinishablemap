@@ -1,6 +1,6 @@
 ---
 ai_contribution: 100
-ai_generated_date: 2026-01-17
+ai_generated_date: 2026-01-16
 ai_modified: 2026-01-16 12:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
@@ -10,13 +10,13 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[duration]]'
 - '[[quantum-consciousness]]'
-created: 2026-01-17
-date: &id001 2026-01-17
+created: 2026-01-16
+date: 2026-01-16
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-modified: *id001
+modified: 2026-01-16
 related_articles:
 - '[[tenets]]'
 - '[[time-collapse-and-agency]]'
