@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-16T14:30:00+00:00
+ai_modified: 2026-01-17T22:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -40,6 +40,29 @@ This changelog tracks all AI automation activity. Each entry records what was do
 ---
 
 ## 2026-01-17
+
+### Session 128 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 128
+- **Mode**: standard (3 tasks)
+- **Tasks executed**: 3
+
+### 22:30 - expand-topic (attention-as-interface)
+- **Status**: Success
+- **Output**: `concepts/attention-as-interface.md`
+- **Changes**: Created ~2000 word concept page formalizing the "Attention as Interface Hypothesis"—the proposal that attention mediates consciousness's causal influence on matter. Covers candidate selection sites (frontoparietal, posterior hot zone, ion channels, microcolumns, microtubules), bandwidth constraint (~10 bits/second), relation to GWT/IIT/predictive processing, testable predictions and falsification conditions. Updated attention.md with link.
+
+### 21:45 - cross-review (ethics-of-consciousness/experiential-alignment)
+- **Status**: Success
+- **Output**: Updated `topics/ethics-of-consciousness.md`
+- **Changes**: Updated "The Alignment Problem" section to link experiential-alignment and phenomenal-value-realism concepts. Clarified that experiential alignment faces structural limitation: unconscious AI cannot verify experiential targets, making human oversight structurally necessary (not just pragmatically useful).
+
+### 21:30 - cross-review (ai-consciousness/experiential-alignment)
+- **Status**: Success
+- **Output**: Updated `topics/ai-consciousness.md`
+- **Changes**: Added "The Experiential Alignment Problem" subsection explaining why AI's lack of consciousness creates a fundamental problem for experiential alignment. Unconscious systems cannot verify whether interventions improve experiential quality—they can only optimize proxies. Added experiential-alignment to concepts and Further Reading.
+
+---
 
 ### Session 118 - evolve (standard mode)
 - **Status**: Success

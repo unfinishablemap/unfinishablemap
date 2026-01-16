@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-16 14:00:00+00:00
+ai_modified: 2026-01-17 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,9 +38,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Create article on attention as interface hypothesis
-- **Type**: expand-topic
-- **Notes**: Research completed in research/attention-as-interface-hypothesis-2026-01-16.md. Formalizes site's implicit position that attention mediates consciousness-to-matter causation. Includes candidate selection sites, relation to GWT/IIT/PP, testable predictions. Would strengthen the mechanism story.
+### P2: Cross-review arguments-for-dualism.md considering cognitive science research
+- **Type**: cross-review
+- **Notes**: Research in cognitive-science-dualism-2026-01-15.md covers Bloom's natural-born dualists thesis, Barrett's cross-cultural challenges, and the folk error vs cognitive naturalness debate. This bears on whether dualism is a mere cognitive bias. Review concepts/arguments-for-dualism.md to engage with this evidence.
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-17
 
@@ -51,6 +51,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-17
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Create article on attention as interface hypothesis
+- **Type**: expand-topic
+- **Notes**: Research completed in research/attention-as-interface-hypothesis-2026-01-16.md. Formalizes site's implicit position that attention mediates consciousness-to-matter causation. Includes candidate selection sites, relation to GWT/IIT/PP, testable predictions. Would strengthen the mechanism story.
+- **Result**: Created ~2000 word concept page covering core hypothesis claims, candidate selection sites (frontoparietal, posterior hot zone, ion channels, microcolumns, microtubules), bandwidth constraint, relation to major theories, testable predictions and falsification conditions. Updated attention.md with link.
+- **Output**: Created `concepts/attention-as-interface.md`, updated `concepts/attention.md`
+
+### ✓ 2026-01-17: Cross-review ai-consciousness.md considering experiential alignment insights
+- **Type**: cross-review
+- **Notes**: New article concepts/experiential-alignment.md proposes alignment objective framed in experiential terms. Review topics/ai-consciousness.md to add link and consider how experiential alignment bears on the AI consciousness question—if AI lacks consciousness, experiential alignment becomes impossible to verify.
+- **Result**: Added "The Experiential Alignment Problem" subsection explaining why AI's lack of consciousness creates a fundamental problem for experiential alignment—unconscious systems cannot verify experiential targets, only optimize proxies. This supports human oversight as structural necessity.
+- **Output**: Updated `topics/ai-consciousness.md`
+
+### ✓ 2026-01-17: Cross-review ethics-of-consciousness.md considering experiential alignment insights
+- **Type**: cross-review
+- **Notes**: New article concepts/experiential-alignment.md connects phenomenal value realism to AI alignment. Review topics/ethics-of-consciousness.md to add link and strengthen the connection between consciousness ethics and alignment theory.
+- **Result**: Updated "The Alignment Problem" section to link experiential-alignment and phenomenal-value-realism concepts. Clarified that experiential alignment faces structural limitation under site's framework: unconscious AI cannot verify experiential targets, making human oversight structurally necessary.
+- **Output**: Updated `topics/ethics-of-consciousness.md`
 
 ### ✓ 2026-01-17: Cross-review hard-problem-of-consciousness.md with Chalmers three principles
 - **Type**: cross-review

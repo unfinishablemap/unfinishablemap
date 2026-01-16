@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-17 04:15:00+00:00
+ai_modified: 2026-01-17 22:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[illusionism]]'
 - '[[integrated-information-theory]]'
 - '[[attention-schema-theory]]'
+- '[[attention-as-interface]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -150,6 +151,7 @@ The attention-consciousness relationship illuminates all five tenets:
 
 ## Further Reading
 
+- [attention-as-interface](/concepts/attention-as-interface/) — The hypothesis that attention mediates consciousness's causal influence on matter
 - [mental-effort](/concepts/mental-effort/) — Detailed treatment of phenomenology of effort and Stapp's mechanism
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum consciousness mechanisms
 - [functionalism](/arguments/functionalism/) — The view that consciousness is defined by functional role
