@@ -1,9 +1,9 @@
 ---
 title: "Research: The Luck Objection to Libertarian Free Will"
-created: 2026-01-17
-modified: 2026-01-17
+created: 2026-01-16
+modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-17T00:30:00+00:00
+ai_modified: 2026-01-16T22:30:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -16,7 +16,7 @@ related_articles:
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
-ai_generated_date: 2026-01-17
+ai_generated_date: 2026-01-16
 last_curated: null
 ---
 

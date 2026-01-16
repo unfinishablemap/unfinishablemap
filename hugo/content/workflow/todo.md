@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-16 16:30:00+00:00
+ai_modified: 2026-01-16 22:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,14 +38,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Formalize the "attention as interface" hypothesis into a mechanistic research agenda
-
-* **Type**: research-topic
-* **Notes**: Attention is treated as dissociable from consciousness and as the likely control surface for mind→brain influence. Convert into actionable questions: which neural correlates of attention are candidates for “selection sites”? What is the relationship to global workspace / predictive processing / IIT? What would count as evidence that attention is more than computation here?  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-* **Source**: new_avenue
-* **Generated**: 2026-01-15
-
-### P2: Add “coherence inflation” countermeasures to the site’s generation workflow
+### P2: Add "coherence inflation" countermeasures to the site’s generation workflow
 
 * **Type**: build-tool
 * **Notes**: Because the site is intentionally a single worldview expressed as fact and heavily AI-generated, add hard constraints: (1) per-claim confidence metadata, (2) mandatory steelman sections for key opponents, (3) provenance tagging for empirical claims, (4) periodic external red-team reviews, (5) detection of circular citation loops across pages.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
@@ -84,6 +77,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Formalize the "attention as interface" hypothesis into a mechanistic research agenda
+- **Type**: research-topic
+- **Notes**: Attention is treated as dissociable from consciousness and as the likely control surface for mind→brain influence. Convert into actionable questions: which neural correlates of attention are candidates for "selection sites"? What is the relationship to global workspace / predictive processing / IIT? What would count as evidence that attention is more than computation here?  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+- **Result**: Comprehensive research formalizing the implicit "attention as interface" commitment into explicit hypothesis and research agenda. Identified five candidate selection sites (frontoparietal networks, posterior hot zone, cortical microcolumns, ion channels, microtubules). Analyzed relation to GWT/IIT/predictive processing—reinterpreted as physical correlates that consciousness uses. Generated five testable research questions with predictions. Listed falsification conditions.
+- **Output**: `research/attention-as-interface-hypothesis-2026-01-16.md`
 
 ### ✓ 2026-01-16: Develop a dedicated topic on "Time, collapse, and agency"
 - **Type**: expand-topic
