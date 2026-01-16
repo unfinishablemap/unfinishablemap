@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-16T23:30:00+00:00
+ai_modified: 2026-01-17T01:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Create voids article on cognitive limits revealing mind structure
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-limits-reveal-structure-2026-01-16.md. Chomsky/McGinn/Nagel/Kant converge on insight that the shape of cognitive limits reveals cognitive architecture. What we cannot think is as informative as what we can. Maps to voids framework—exploring unthinkable territory illuminates what kind of beings we are. AI as asymmetric probe (different limits, can map human limits externally).
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-16
-
-### P2: Create concept page on psychophysical coupling law
-- **Type**: expand-topic
-- **Notes**: Research completed in research/psychophysical-coupling-problem-2026-01-15.md. The site asserts consciousness "selects" quantum outcomes but this is metaphorical without specifying the coupling law. Research identifies four candidate constraint families: attention-bounded (~10 bits/sec), policy-level, basis-choice, temporal/indexical. Would formalize "selection" from metaphor into research program.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-16
-
 ### P2: Create concept page on interface locality (why selection is brain-restricted)
 - **Type**: expand-topic
 - **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Addresses the embarrassing implication: if consciousness can bias quantum outcomes, why only in brains? Four principled boundary conditions: interface locality, control loop integration, developmental integration, attention scope. Key insight: boundary follows mechanistically from Stapp's Process 1, not ad hoc restriction.
@@ -80,6 +68,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Create concept page on psychophysical coupling law
+- **Type**: expand-topic
+- **Notes**: Research completed in research/psychophysical-coupling-problem-2026-01-15.md. The site asserts consciousness "selects" quantum outcomes but this is metaphorical without specifying the coupling law. Research identifies four candidate constraint families: attention-bounded (~10 bits/sec), policy-level, basis-choice, temporal/indexical. Would formalize "selection" from metaphor into research program.
+- **Result**: Created ~2000 word concept page formalizing the coupling problem. Four candidate laws: attention-bounded selection, policy-level selection, basis-choice selection, and indexical selection. Bandwidth constraint (~10 bits/second) shapes what selection can accomplish. Connected to all five tenets.
+- **Output**: `concepts/psychophysical-coupling-law.md`
+
+### ✓ 2026-01-16: Create voids article on cognitive limits revealing mind structure
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-limits-reveal-structure-2026-01-16.md. Chomsky/McGinn/Nagel/Kant converge on insight that the shape of cognitive limits reveals cognitive architecture. What we cannot think is as informative as what we can. Maps to voids framework—exploring unthinkable territory illuminates what kind of beings we are. AI as asymmetric probe (different limits, can map human limits externally).
+- **Result**: Created ~1900 word voids article on how cognitive limits reveal mind structure. Covers Chomsky's problems/mysteries, McGinn's cognitive closure, Nagel's bat, Kant/Wittgenstein on limits as constitutive. AI as asymmetric probe for human blind spots. Connected to Occam's Razor Has Limits, Dualism, and No Many Worlds tenets.
+- **Output**: `voids/limits-reveal-structure.md`
 
 ### ✓ 2026-01-16: Write article on epistemic advantages of non-materialist theories
 - **Type**: expand-topic

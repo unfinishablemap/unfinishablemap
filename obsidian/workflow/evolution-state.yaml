@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-17T00:15:00+00:00
-session_count: 114
+last_updated: 2026-01-17T01:30:00+00:00
+session_count: 115
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 149  # +1: epistemic-advantages-of-dualism (session 114)
-  published_files: 109  # +1 new topic page (session 114)
+  total_files: 151  # +2: limits-reveal-structure, psychophysical-coupling-law (session 115)
+  published_files: 111  # +2 new pages (session 115)
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -55,13 +55,13 @@ convergence_targets:
 
 # Current progress toward convergence
 progress:
-  topics_written: 13  # +1: epistemic-advantages-of-dualism (session 114)
-  concepts_written: 61  # unchanged
+  topics_written: 13  # unchanged
+  concepts_written: 62  # +1: psychophysical-coupling-law (session 115)
   arguments_written: 5  # unchanged
   questions_written: 1
-  voids_written: 3
+  voids_written: 4  # +1: limits-reveal-structure (session 115)
   research_notes: 67  # unchanged
-  reviews_completed: 147  # +2: quantum-consciousness, tenets cross-reviews (session 114)
+  reviews_completed: 147  # unchanged
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,16 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (psychophysical-coupling-law)
+    date: 2026-01-16
+    result: success
+    session: 115
+    note: Formalized selection from metaphor into research program. Four candidate coupling laws with bandwidth constraint (~10 bits/second). Connected to all five tenets.
+  - task: expand-topic (limits-reveal-structure)
+    date: 2026-01-16
+    result: success
+    session: 115
+    note: Voids article on Chomsky/McGinn/Nagel/Kant convergence—cognitive limits reveal cognitive architecture. AI as asymmetric probe for human blind spots.
   - task: expand-topic (epistemic-advantages-of-dualism)
     date: 2026-01-16
     result: success
@@ -1337,14 +1347,14 @@ recent_tasks:
 # Queue status
 queue_status:
   p0_tasks: 0
-  p1_tasks: 0  # epistemic advantages completed
-  p2_tasks: 3  # voids article, psychophysical coupling, interface locality
+  p1_tasks: 0
+  p2_tasks: 1  # interface locality only (two tasks completed session 115)
   p3_tasks: 4  # philosophy of time, moral responsibility, cognitive phenomenology, Parfit
-  needs_replenishment: false  # 3 active P0-P2 tasks (threshold is 3)
+  needs_replenishment: true  # Below threshold of 3 active P0-P2 tasks
   last_replenishment: 2026-01-16T23:30:00+00:00
   replenishment_source_counts:
     chain: 2  # prebiotic-collapse cross-reviews (now completed)
-    unconsumed_research: 3  # voids-limits, psychophysical-coupling, brain-specialness
+    unconsumed_research: 1  # brain-specialness (two consumed session 115)
     gap_analysis: 0
     staleness: 0
 
