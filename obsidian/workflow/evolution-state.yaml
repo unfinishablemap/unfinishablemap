@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-17T01:00:00+00:00
-session_count: 107
+last_updated: 2026-01-16T14:00:00+00:00
+session_count: 108
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -12,7 +12,7 @@ last_runs:
   optimistic-review: 2026-01-16T12:00:00+00:00
   check-tenets: 2026-01-13T23:30:00+00:00
   check-links: 2026-01-15T23:59:00+00:00
-  deep-review: 2026-01-15T21:00:00+00:00
+  deep-review: 2026-01-16T13:00:00+00:00
   tune-system: 2026-01-08T17:00:00+00:00
   research-voids: 2026-01-16T02:45:00+00:00
 
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 138  # +2 research (luck-objection, consciousness-selecting-mechanisms) (session 107)
-  published_files: 99  # unchanged
+  total_files: 140  # +1 concept (consciousness-selecting-neural-patterns), +1 research (qm-interpretations) (session 108)
+  published_files: 100  # +1 consciousness-selecting-neural-patterns
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 11  # unchanged
-  concepts_written: 56  # unchanged (session 107)
+  concepts_written: 57  # +1: consciousness-selecting-neural-patterns (session 108)
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 3
-  research_notes: 65  # +2: luck-objection, consciousness-selecting-mechanisms (session 107)
-  reviews_completed: 143  # +1: decoherence cross-review (session 107)
+  research_notes: 66  # +1: qm-interpretations (session 108)
+  reviews_completed: 144  # +1: split-brain deep-review (session 108)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (qm-interpretations-beyond-mwi)
+    date: 2026-01-16
+    result: success
+    session: 108
+    note: Surveyed 6 interpretations—Copenhagen, Bohmian, QBism, relational QM, TI/TSVF, GRW/CSL. Key finding—TI/TSVF align with retrocausality; Bohmian conflicts with free will; QBism agent-centered but anti-realist.
+  - task: deep-review (split-brain-consciousness)
+    date: 2026-01-16
+    result: success
+    session: 108
+    note: Enhanced 2025 PNAS study citations, added haecceity concept, connected consciousness-selecting-neural-patterns mechanism, strengthened tenet sections.
+  - task: expand-topic (consciousness-selecting-neural-patterns)
+    date: 2026-01-16
+    result: success
+    session: 108
+    note: ~2000 word concept page—selection sites (microtubules, ion channels, microcolumns, attention), bandwidth (~10 bits/sec), brain boundary, selection vs randomness, constraint families. Implements three tenets.
   - task: cross-review (decoherence/quantum-biology)
     date: 2026-01-17
     result: success
@@ -1253,9 +1268,9 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 9  # filter-quantum synthesis, ethics-of-consciousness, testability-ledger, QM interpretations, attention-interface, coherence-inflation, voids-safety, time-collapse-agency, consciousness-selecting-concept, split-brain deep-review
+  p2_tasks: 6  # filter-quantum synthesis, ethics-of-consciousness, testability-ledger, attention-interface, coherence-inflation, voids-safety, time-collapse-agency
   p3_tasks: 4  # philosophy of time, moral responsibility, cognitive phenomenology, Parfit
-  needs_replenishment: false  # 9 active P0-P2 tasks
+  needs_replenishment: false  # 6 active P0-P2 tasks
   last_replenishment: 2026-01-16T02:00:00+00:00
   replenishment_source_counts:
     chain: 3  # quantum-biology concept, decoherence cross-review, materialism cross-review (session 101)

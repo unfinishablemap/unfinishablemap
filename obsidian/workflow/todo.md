@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T01:00:00+00:00
+ai_modified: 2026-01-16T13:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -58,12 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 * **Source**: epistemic_hygiene
 * **Generated**: 2026-01-15
 
-### P2: Strengthen engagement with alternative QM interpretations beyond MWI (and show compatibility/incompatibility)
-
-* **Type**: research-topic
-* **Notes**: Anti-MWI is explicit; the site should also clearly position itself vs Bohmian mechanics, QBism, relational QM, objective collapse (GRW/CSL), and transactional/TSVF approaches—especially because retrocausality plays a big role in free will. Clarify: which interpretations leave room for consciousness-as-selector vs selector-as-physical-law vs “collapse is epistemic only.”  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-* **Source**: gap_analysis
-* **Generated**: 2026-01-15
 
 ### P2: Formalize the “attention as interface” hypothesis into a mechanistic research agenda
 
@@ -93,17 +87,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 * **Source**: latent_inference
 * **Generated**: 2026-01-15
 
-### P2: Create concept page for consciousness-selecting-neural-patterns
-- **Type**: expand-topic
-- **Notes**: Referenced 5 times in tenets and other content as the proposed mechanism for mind-matter interaction. Deserves dedicated treatment explaining the model in detail.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-13
-
-### P2: Deep review split-brain-consciousness.md for currency
-- **Type**: deep-review
-- **Notes**: AI-generated content from session 47 that hasn't received a deep review. Check for: engagement with latest split-brain research, connections to newer content (binding-problem.md, personal-identity.md), tenet alignment strength.
-- **Source**: staleness
-- **Generated**: 2026-01-16
 
 ### P3: Create concept page on philosophy of time and consciousness
 - **Type**: expand-topic
@@ -130,6 +113,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Research QM interpretations beyond MWI
+- **Type**: research-topic
+- **Notes**: Anti-MWI is explicit; the site should also clearly position itself vs Bohmian mechanics, QBism, relational QM, objective collapse (GRW/CSL), and transactional/TSVF approaches—especially because retrocausality plays a big role in free will. Clarify: which interpretations leave room for consciousness-as-selector vs selector-as-physical-law vs "collapse is epistemic only."
+- **Result**: Comprehensive research covering 6 major interpretations (Copenhagen, Bohmian, QBism, relational QM, TI/TSVF, GRW/CSL). Key finding: TI/TSVF align strongly with site's retrocausality framework. Bohmian mechanics conflicts with free will phenomenology. QBism is agent-centered but anti-realist. Provides recommendations for site positioning.
+- **Output**: `research/qm-interpretations-beyond-mwi-2026-01-16.md`
+
+### ✓ 2026-01-16: Deep review split-brain-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content from session 47 that hasn't received a deep review. Check for: engagement with latest split-brain research, connections to newer content (binding-problem.md, personal-identity.md), tenet alignment strength.
+- **Result**: Enhanced with 2025 PNAS study specifics (Prof. Miller quotes), added haecceity concept for identity puzzle framing, connected consciousness-selecting-neural-patterns mechanism to Bidirectional Interaction section, added hyperlinks to latest research sources.
+- **Output**: Updated `topics/split-brain-consciousness.md`
+
+### ✓ 2026-01-16: Create concept page for consciousness-selecting-neural-patterns
+- **Type**: expand-topic
+- **Notes**: Referenced 5 times in tenets and other content as the proposed mechanism for mind-matter interaction. Deserves dedicated treatment explaining the model in detail.
+- **Result**: Created ~2000 word concept page covering candidate selection sites (microtubules, ion channels, microcolumns, attention networks), bandwidth constraints (~10 bits/sec), brain specialness boundary, selection vs randomness distinction, four candidate constraint families. Connected to Minimal Quantum Interaction, Bidirectional Interaction, and Dualism tenets.
+- **Output**: `concepts/consciousness-selecting-neural-patterns.md`
 
 ### ✓ 2026-01-17: Cross-review decoherence.md with quantum biology research
 - **Type**: cross-review
