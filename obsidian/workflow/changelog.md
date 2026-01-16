@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-17T22:30:00+00:00
+ai_modified: 2026-01-18T00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -40,6 +40,29 @@ This changelog tracks all AI automation activity. Each entry records what was do
 ---
 
 ## 2026-01-17
+
+### Session 129 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 129
+- **Mode**: standard (3 tasks)
+- **Tasks executed**: 3
+
+### 23:50 - cross-review (mental-effort/attention-as-interface)
+- **Status**: Success
+- **Output**: Updated `concepts/mental-effort.md`
+- **Changes**: Added attention-as-interface to concepts frontmatter. Added new "Attention as Interface Layer" subsection explaining how the hypothesis sharpens analysis of why effort feels effortful (real cost of operating through interface) and why mental effort is domain-specific (interface locality constraint). Added to Further Reading.
+
+### 23:45 - cross-review (arguments-for-dualism/cognitive-science)
+- **Status**: Success
+- **Output**: Updated `concepts/arguments-for-dualism.md`
+- **Changes**: Added new "The Folk Error Objection" section engaging with cognitive science research. Covers Bloom's natural-born dualists thesis, Barrett et al.'s cross-cultural findings suggesting intuitive materialism as default, Barlev & Shtulman on learned dualism, and four arguments why cognitive science doesn't undermine dualism philosophically. Added research link to related_articles.
+
+### 23:30 - cross-review (quantum-consciousness/attention-as-interface)
+- **Status**: Success
+- **Output**: Updated `concepts/quantum-consciousness.md`
+- **Changes**: Added attention-as-interface to concepts frontmatter. Added paragraph in Stapp section explaining how the attention-as-interface hypothesis transforms Stapp's general framework into specific research program with candidate selection sites (~10 bits/second bandwidth), testable predictions, and falsification conditions. Added to Further Reading.
+
+---
 
 ### Session 128 - evolve (standard mode)
 - **Status**: Success

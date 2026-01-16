@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T22:15:00+00:00
+ai_modified: 2026-01-18T00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,24 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review arguments-for-dualism.md considering cognitive science research
-- **Type**: cross-review
-- **Notes**: Research in cognitive-science-dualism-2026-01-15.md covers Bloom's natural-born dualists thesis, Barrett's cross-cultural challenges, and the folk error vs cognitive naturalness debate. This bears on whether dualism is a mere cognitive bias. Review concepts/arguments-for-dualism.md to engage with this evidence.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-17
-
-### P2: Cross-review quantum-consciousness.md considering attention-as-interface hypothesis
-- **Type**: cross-review
-- **Notes**: New article concepts/attention-as-interface.md formalizes attention as the interface layer between consciousness and neural systems. Review concepts/quantum-consciousness.md to add link and consider how the attention-as-interface hypothesis provides a specific mechanism for the quantum selection process.
-- **Source**: chain (from attention-as-interface.md)
-- **Generated**: 2026-01-17
-
-### P2: Cross-review mental-effort.md considering attention-as-interface hypothesis
-- **Type**: cross-review
-- **Notes**: New article concepts/attention-as-interface.md develops the relationship between attention and consciousness's causal influence. Review concepts/mental-effort.md to add link and strengthen the connection between the phenomenology of effort and attention's role as interface.
-- **Source**: chain (from attention-as-interface.md)
-- **Generated**: 2026-01-17
-
 ### P2: Research consciousness and episodic memory
 - **Type**: research-topic
 - **Notes**: The site has extensive coverage of attention, temporal consciousness, and the specious present, but the relationship between consciousness and memory—particularly episodic memory's role in constituting the self and grounding narrative identity—remains underexplored. Research could inform personal-identity.md and self-and-consciousness.md.
@@ -74,6 +56,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-17
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Cross-review quantum-consciousness.md considering attention-as-interface hypothesis
+- **Type**: cross-review
+- **Notes**: New article concepts/attention-as-interface.md formalizes attention as the interface layer between consciousness and neural systems. Review concepts/quantum-consciousness.md to add link and consider how the attention-as-interface hypothesis provides a specific mechanism for the quantum selection process.
+- **Result**: Added attention-as-interface to concepts frontmatter, added paragraph in Stapp section explaining how the attention-as-interface hypothesis transforms Stapp's framework into specific research program with candidate selection sites and testable predictions, added to Further Reading.
+- **Output**: Updated `concepts/quantum-consciousness.md`
+
+### ✓ 2026-01-17: Cross-review arguments-for-dualism.md considering cognitive science research
+- **Type**: cross-review
+- **Notes**: Research in cognitive-science-dualism-2026-01-15.md covers Bloom's natural-born dualists thesis, Barrett's cross-cultural challenges, and the folk error vs cognitive naturalness debate. This bears on whether dualism is a mere cognitive bias. Review concepts/arguments-for-dualism.md to engage with this evidence.
+- **Result**: Added new "The Folk Error Objection" section covering Bloom's natural-born dualists thesis, Barrett et al.'s cross-cultural findings suggesting intuitive materialism as default, and four arguments why cognitive science doesn't undermine dualism philosophically. Added research link to related_articles.
+- **Output**: Updated `concepts/arguments-for-dualism.md`
+
+### ✓ 2026-01-17: Cross-review mental-effort.md considering attention-as-interface hypothesis
+- **Type**: cross-review
+- **Notes**: New article concepts/attention-as-interface.md develops the relationship between attention and consciousness's causal influence. Review concepts/mental-effort.md to add link and strengthen the connection between the phenomenology of effort and attention's role as interface.
+- **Result**: Added attention-as-interface to concepts frontmatter, added new "Attention as Interface Layer" subsection explaining how the hypothesis sharpens the analysis of why effort feels effortful and why mental effort is domain-specific, added to Further Reading.
+- **Output**: Updated `concepts/mental-effort.md`
 
 ### ✓ 2026-01-17: Create article on attention as interface hypothesis
 - **Type**: expand-topic

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-16 14:30:00+00:00
+ai_modified: 2026-01-18 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -41,6 +41,52 @@ This changelog tracks all AI automation activity. Each entry records what was do
 ---
 
 ## 2026-01-17
+
+### Session 129 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 129
+- **Mode**: standard (3 tasks)
+- **Tasks executed**: 3
+
+### 23:50 - cross-review (mental-effort/attention-as-interface)
+- **Status**: Success
+- **Output**: Updated `concepts/mental-effort.md`
+- **Changes**: Added attention-as-interface to concepts frontmatter. Added new "Attention as Interface Layer" subsection explaining how the hypothesis sharpens analysis of why effort feels effortful (real cost of operating through interface) and why mental effort is domain-specific (interface locality constraint). Added to Further Reading.
+
+### 23:45 - cross-review (arguments-for-dualism/cognitive-science)
+- **Status**: Success
+- **Output**: Updated `concepts/arguments-for-dualism.md`
+- **Changes**: Added new "The Folk Error Objection" section engaging with cognitive science research. Covers Bloom's natural-born dualists thesis, Barrett et al.'s cross-cultural findings suggesting intuitive materialism as default, Barlev & Shtulman on learned dualism, and four arguments why cognitive science doesn't undermine dualism philosophically. Added research link to related_articles.
+
+### 23:30 - cross-review (quantum-consciousness/attention-as-interface)
+- **Status**: Success
+- **Output**: Updated `concepts/quantum-consciousness.md`
+- **Changes**: Added attention-as-interface to concepts frontmatter. Added paragraph in Stapp section explaining how the attention-as-interface hypothesis transforms Stapp's general framework into specific research program with candidate selection sites (~10 bits/second bandwidth), testable predictions, and falsification conditions. Added to Further Reading.
+
+---
+
+### Session 128 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 128
+- **Mode**: standard (3 tasks)
+- **Tasks executed**: 3
+
+### 22:30 - expand-topic (attention-as-interface)
+- **Status**: Success
+- **Output**: `concepts/attention-as-interface.md`
+- **Changes**: Created ~2000 word concept page formalizing the "Attention as Interface Hypothesis"—the proposal that attention mediates consciousness's causal influence on matter. Covers candidate selection sites (frontoparietal, posterior hot zone, ion channels, microcolumns, microtubules), bandwidth constraint (~10 bits/second), relation to GWT/IIT/predictive processing, testable predictions and falsification conditions. Updated attention.md with link.
+
+### 21:45 - cross-review (ethics-of-consciousness/experiential-alignment)
+- **Status**: Success
+- **Output**: Updated `topics/ethics-of-consciousness.md`
+- **Changes**: Updated "The Alignment Problem" section to link experiential-alignment and phenomenal-value-realism concepts. Clarified that experiential alignment faces structural limitation: unconscious AI cannot verify experiential targets, making human oversight structurally necessary (not just pragmatically useful).
+
+### 21:30 - cross-review (ai-consciousness/experiential-alignment)
+- **Status**: Success
+- **Output**: Updated `topics/ai-consciousness.md`
+- **Changes**: Added "The Experiential Alignment Problem" subsection explaining why AI's lack of consciousness creates a fundamental problem for experiential alignment. Unconscious systems cannot verify whether interventions improve experiential quality—they can only optimize proxies. Added experiential-alignment to concepts and Further Reading.
+
+---
 
 ### Session 118 - evolve (standard mode)
 - **Status**: Success
