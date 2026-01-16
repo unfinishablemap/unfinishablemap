@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-16 18:30:00+00:00
+ai_modified: 2026-01-16 12:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[collapse-and-time]]'
 - '[[retrocausality]]'
 - '[[temporal-consciousness]]'
+- '[[specious-present]]'
 - '[[duration]]'
 - '[[quantum-consciousness]]'
 - '[[agent-causation]]'
@@ -96,7 +97,13 @@ This dissolves the apparent paradox. Retrocausality operates within the physics 
 
 If consciousness constitutes time through collapse, what should this feel like? The site's framework predicts:
 
-**The specious present**: [Temporal experience](/concepts/temporal-consciousness/) has duration—roughly 100-750ms—within which we experience succession as unified. This isn't clock-time (which has durationless instants) but lived time. If consciousness is actively constituting temporal structure, the specious present may be the phenomenology of this activity. We experience duration because we're creating duration.
+**The [specious present](/concepts/specious-present/)**: [Temporal experience](/concepts/temporal-consciousness/) has duration—roughly 100 milliseconds to 3 seconds depending on methodology—within which we experience succession as unified. This isn't clock-time (which has durationless instants) but lived time.
+
+The debate between extensionalists (Dainton, Foster) and retentionalists (Husserl, Broad) about the specious present bears directly on the framework. Extensionalists hold that experience is genuinely temporally extended—has parts at different times. Retentionalists hold that each moment is instantaneous but contains the past as intentional content (retention) and anticipates the future (protention).
+
+The site adopts a modified extensionalism: experience is genuinely extended, with the extension constituted through quantum collapse. Each collapse creates a "moment"; the specious present is the experiential horizon within which recent collapses remain unified. This explains both the extended phenomenology (extensionalism) and the retention-like structure (retentionalism)—the echoing of the past in the present reflects retrocausal boundary conditions in the collapse process.
+
+If consciousness is actively constituting temporal structure, the specious present may be the phenomenology of this constitutive activity. We experience duration because we're creating duration. The variation in duration estimates (100ms-3s) may reflect multiple components—a core perceptual window where collapses unify, embedded in a broader experiential horizon where constraints propagate.
 
 **The sense of possibility narrowing**: We experience the future as open and the past as fixed. This asymmetry matches collapse: before measurement, multiple outcomes; after, one. The phenomenology of agency—feeling that we could do otherwise until we act—may directly reflect quantum superposition awaiting collapse.
 
@@ -159,7 +166,8 @@ This synthesis strengthens the tenets:
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric physics and backward causation
 - [duration](/concepts/duration/) — Bergson's qualitative time and the phenomenology of flow
-- [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and neural correlates
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Broader treatment of time in consciousness
+- [specious-present](/concepts/specious-present/) — The experienced duration of "now" and the extensionalism debate
 - [free-will](/topics/free-will/) — The site's account of libertarian agency
 - [agent-causation](/concepts/agent-causation/) — The agent as ultimate source of action
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse remains unexplained

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 00:00:00+00:00
+ai_modified: 2026-01-16 13:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,17 +38,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research consciousness and episodic memory
-- **Type**: research-topic
-- **Notes**: The site has extensive coverage of attention, temporal consciousness, and the specious present, but the relationship between consciousness and memory—particularly episodic memory's role in constituting the self and grounding narrative identity—remains underexplored. Research could inform personal-identity.md and self-and-consciousness.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-17
+### P2: Refine draft purpose-and-alignment.md
+- **Type**: refine-draft
+- **Notes**: One of 2 remaining draft files. The page was created session 14 and received cross-review session 21. May benefit from connection to newer content (experiential-alignment.md, phenomenal-value-realism.md, ethics-of-consciousness.md). Check if ready for publication or needs enhancement.
+- **Source**: gap_analysis (draft files)
+- **Generated**: 2026-01-16
 
-### P2: Cross-review neurophenomenology.md considering specious-present insights
-- **Type**: cross-review
-- **Notes**: The specious-present.md page (session 123) develops extensionalism vs retentionalism debate and Varela's neurophenomenology approach. Review concepts/neurophenomenology.md to add explicit cross-reference and strengthen the temporal phenomenology section.
-- **Source**: chain (from specious-present.md)
-- **Generated**: 2026-01-17
+### P2: Research consciousness and working memory
+- **Type**: research-topic
+- **Notes**: Complementary to episodic memory research. Working memory's role in sustaining conscious content over the specious present, relationship to attention (the interface layer), and connection to temporal consciousness. Would inform attention-as-interface.md and mental-effort.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-16
+
+### P3: Refine draft apophatic-approaches.md
+- **Type**: refine-draft
+- **Notes**: One of 2 remaining draft files. The voids article was created session 13. May need enhancement with connections to newer content (mysterianism.md, limits-reveal-structure.md, whether-real.md). Check if ready for publication.
+- **Source**: gap_analysis (draft files)
+- **Generated**: 2026-01-16
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
@@ -57,6 +63,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-17
 
 ## Completed Tasks
+
+### ✓ 2026-01-16: Research consciousness and episodic memory
+- **Type**: research-topic
+- **Notes**: The site has extensive coverage of attention, temporal consciousness, and the specious present, but the relationship between consciousness and memory—particularly episodic memory's role in constituting the self and grounding narrative identity—remains underexplored. Research could inform personal-identity.md and self-and-consciousness.md.
+- **Result**: Comprehensive research on Tulving's autonoetic consciousness, mental time travel, hippocampal binding, and connections to personal identity and the site's framework. Key findings: episodic memory involves irreducible phenomenology supporting dualism; mental time travel connects to retrocausality; binding mechanisms converge with consciousness binding problem.
+- **Output**: `research/episodic-memory-consciousness-2026-01-16.md`
+
+### ✓ 2026-01-16: Cross-review neurophenomenology.md considering specious-present insights
+- **Type**: cross-review
+- **Notes**: The specious-present.md page (session 123) develops extensionalism vs retentionalism debate and Varela's neurophenomenology approach. Review concepts/neurophenomenology.md to add explicit cross-reference and strengthen the temporal phenomenology section.
+- **Result**: Added specious-present to concepts, expanded temporal microstructure section with extensionalism/retentionalism debate and site's modified extensionalism position, added gamma synchrony correlates (30-70 Hz), added to Further Reading.
+- **Output**: Updated `concepts/neurophenomenology.md`
+
+### ✓ 2026-01-16: Cross-review time-collapse-and-agency.md considering specious-present insights
+- **Type**: cross-review
+- **Notes**: The specious-present.md page develops the phenomenology of temporal experience. Review topics/time-collapse-and-agency.md to add cross-reference and consider how the specious present research (duration estimates, extensionalism debate) bears on the phenomenology of agency and the consciousness-time-collapse connection.
+- **Result**: Added specious-present to concepts, expanded specious present section with extensionalism/retentionalism debate and site's modified extensionalism (collapse constitutes duration-blocks), updated duration estimates (100ms-3s), added to Further Reading.
+- **Output**: Updated `topics/time-collapse-and-agency.md`
 
 ### ✓ 2026-01-17: Cross-review quantum-consciousness.md considering attention-as-interface hypothesis
 - **Type**: cross-review
