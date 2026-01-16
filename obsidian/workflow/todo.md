@@ -37,28 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on experiential alignment for AI
-- **Type**: expand-topic
-- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. Proposes alignment objective framed in experiential terms (suffering, agency, meaning) rather than preference satisfaction. Key insight: if preferences are thin proxies, target experiential distributions directly.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-17
-
-### P2: Cross-review psychophysical-coupling-law.md with Chalmers research
-- **Type**: cross-review
-- **Notes**: New research in research/chalmers-psychophysical-laws-2026-01-17.md provides detailed treatment of Chalmers-McQueen (2022) quantum psychophysical laws including super-resistance principle, downward vs upward direction distinction, and organizational invariance critique. Enhance existing page with this deeper engagement.
-- **Source**: chain (from chalmers-psychophysical-laws research)
-- **Generated**: 2026-01-17
-
 ### P2: Create article on attention as interface hypothesis
 - **Type**: expand-topic
 - **Notes**: Research completed in research/attention-as-interface-hypothesis-2026-01-16.md. Formalizes site's implicit position that attention mediates consciousness-to-matter causation. Includes candidate selection sites, relation to GWT/IIT/PP, testable predictions. Would strengthen the mechanism story.
 - **Source**: unconsumed_research
-- **Generated**: 2026-01-17
-
-### P2: Cross-review hard-problem-of-consciousness.md with Chalmers three principles
-- **Type**: cross-review
-- **Notes**: The hard problem topic references Chalmers but doesn't engage deeply with his three principles (structural coherence, organizational invariance, double-aspect information). Research in chalmers-psychophysical-laws-2026-01-17.md provides foundation for richer engagement.
-- **Source**: chain (from chalmers-psychophysical-laws research)
 - **Generated**: 2026-01-17
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -68,6 +50,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-17
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Cross-review hard-problem-of-consciousness.md with Chalmers three principles
+- **Type**: cross-review
+- **Notes**: The hard problem topic references Chalmers but doesn't engage deeply with his three principles (structural coherence, organizational invariance, double-aspect information). Research in chalmers-psychophysical-laws-2026-01-17.md provides foundation for richer engagement.
+- **Result**: Added "Chalmers' Psychophysical Framework" subsection covering three principles, Chalmers-McQueen (2022) super-resistance principle, and link to psychophysical-coupling-law.md. Added psychophysical-coupling-law to concepts and Further Reading.
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
+### ✓ 2026-01-17: Write article on experiential alignment for AI
+- **Type**: expand-topic
+- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. Proposes alignment objective framed in experiential terms (suffering, agency, meaning) rather than preference satisfaction. Key insight: if preferences are thin proxies, target experiential distributions directly.
+- **Result**: Created ~2000 word concept page on experiential alignment. Covers eight experiential dimensions, proxy challenges, Goodhart failure modes, wireheading risks, safeguards. Updated purpose-and-alignment.md with new section.
+- **Output**: Created `concepts/experiential-alignment.md`, updated `topics/purpose-and-alignment.md`
+
+### ✓ 2026-01-17: Cross-review psychophysical-coupling-law.md with Chalmers research
+- **Type**: cross-review
+- **Notes**: New research in research/chalmers-psychophysical-laws-2026-01-17.md provides detailed treatment of Chalmers-McQueen (2022) quantum psychophysical laws including super-resistance principle, downward vs upward direction distinction, and organizational invariance critique. Enhance existing page with this deeper engagement.
+- **Result**: Enhanced Chalmers section with three principles, added Chalmers-McQueen (2022) quantum development and super-resistance principle, clarified upward vs downward direction, explained site's divergence from organizational invariance.
+- **Output**: Updated `concepts/psychophysical-coupling-law.md`
 
 ### ✓ 2026-01-17: Cross-review many-worlds.md considering Parfit's reductionism insights
 - **Type**: cross-review

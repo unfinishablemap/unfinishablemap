@@ -1,14 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-01-14 21:00:00+00:00
+ai_modified: 2026-01-17 19:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[nihilism]]'
 - '[[existentialism]]'
+- '[[experiential-alignment]]'
+- '[[neurophenomenology]]'
 created: 2026-01-13
-date: &id001 2026-01-13
+date: &id001 2026-01-17
 draft: false
 human_modified: null
 last_curated: null
@@ -17,6 +19,7 @@ related_articles:
 - '[[tenets]]'
 - '[[voids]]'
 - '[[purpose-of-life-ai-alignment-2026-01-10]]'
+- '[[alignment-objective-experiential-terms-2026-01-16]]'
 tag: diversion
 title: Purpose and AI Alignment
 topics:
@@ -84,8 +87,17 @@ This connects to the site's treatment of [voids](/voids/)—territories that may
 
 The practical upshot: AI systems should be designed with humility about human purpose, not confidence. They should be corrigible not merely because values are hard to specify, but because values may be impossible to fully specify. The goal is not an AI that optimizes for human flourishing, but an AI that supports human inquiry into what flourishing means—a partner in the unfinishable map rather than a solver of a problem we have not solved ourselves.
 
+## Experiential Alignment: An Alternative Framework
+
+If phenomenal consciousness is the ground of value, alignment might target experiential quality directly rather than learning from preferences. [Experiential alignment](/concepts/experiential-alignment/) proposes that AI systems should promote predicted distributions over human conscious experiences—suffering, agency, meaning, attention quality, social connection—rather than observed choices.
+
+This approach accepts that the target is harder to specify, harder to measure, and harder to optimize than preference satisfaction. But if value actually resides in the quality of conscious experience, technical convenience should not substitute for getting the target right.
+
+The experiential approach faces its own challenges: proxies for experience risk Goodhart effects, wireheading remains a concern, and first-person methods like [neurophenomenology](/concepts/neurophenomenology/) are labour-intensive. But it represents a more honest framing of what alignment is trying to achieve—promoting flourishing conscious experience, not merely satisfying preferences that may not track what matters.
+
 ## Further Reading
 
+- [experiential-alignment](/concepts/experiential-alignment/) — The alternative framework targeting experiential quality
 - [meaning-of-life](/topics/meaning-of-life/) — The site's treatment of philosophical approaches to life's meaning
 - [ai-consciousness](/topics/ai-consciousness/) — Why the site holds that AI systems lack consciousness
 - [voids](/voids/) — On the limits of what can be known or mapped

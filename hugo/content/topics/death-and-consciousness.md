@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-15 23:55:00+00:00
+ai_modified: 2026-01-17 15:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,8 +11,9 @@ concepts:
 - '[[near-death-experiences]]'
 - '[[loss-of-consciousness]]'
 - '[[filter-theory]]'
+- '[[parfit-reductionism]]'
 created: 2026-01-14
-date: &id001 2026-01-14
+date: &id001 2026-01-17
 draft: false
 human_modified: null
 last_curated: null
@@ -44,6 +45,20 @@ Any account of survival must address [personal-identity](/topics/personal-identi
 Derek Parfit famously argued that personal identity may have no determinate answer in survival cases, but this doesn't matter—what matters is psychological continuity, which could be preserved by replicas. On this view, a perfect copy of your psychological patterns would preserve everything important about you.
 
 The site rejects this. As discussed in the [personal-identity](/topics/personal-identity/) article, indexical identity—the fact that *this* consciousness is the one having these experiences—matters independently of psychological continuity. A duplicate of you is not you; it's someone new with similar memories. The [No Many Worlds tenet](/tenets/#no-many-worlds) reflects this: identity questions have determinate answers, and merely similar beings don't inherit your identity.
+
+### Parfit's "Liberating" View of Death
+
+[Parfit's reductionism](/concepts/parfit-reductionism/) yields a distinctive attitude toward death. If personal identity consists in nothing over and above psychological continuity—if there's no further fact about "who you are" beyond the pattern—then death is merely the ending of a pattern. Parfit found this liberating: "When I die, there will be no 'I' who goes out of existence. The pattern will simply end."
+
+Parfit argued this should be "no more distressing than when I am about to lose consciousness in sleep." Since there's no deep self that persists, there's no deep self that is destroyed. Death becomes metaphysically shallow—significant practically, perhaps, but not the loss of anything irreducible.
+
+**Why the site rejects this**: The liberating conclusion follows *only if* reductionism is true. But if identity involves something over and above pattern-continuity—if *you* are a particular conscious subject whose haecceity can't be replicated—then death is the destruction of something unique and irreplaceable. The pattern ends, yes, but so does *you*—the subject who experienced, chose, and cared. That loss is real in a way Parfit's view cannot accommodate.
+
+The site's position makes death *worse* than Parfit's view in one sense: you really do cease to exist, not just a pattern. But it also makes death *different*: what's lost is a particular, not a repeatable universal. This explains the deep asymmetry we feel between:
+- Our own death (irreversible loss of this subject)
+- A replica's creation (a new subject, however similar)
+
+On Parfit's view, these should feel equivalent—"what matters" is preserved by the replica. That they don't feel equivalent reveals something about our pre-theoretical grasp of identity that reductionism must explain away.
 
 This creates both resources and constraints for thinking about survival:
 
