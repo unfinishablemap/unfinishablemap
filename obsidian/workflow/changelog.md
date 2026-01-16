@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-16T22:45:00+00:00
+ai_modified: 2026-01-17T02:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -18,6 +18,32 @@ last_curated:
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-17
+
+### Session 117 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 117
+- **Mode**: standard (2-3 tasks)
+- **Tasks executed**: 3
+
+### 01:30 - cross-review (consciousness-selecting-neural-patterns/psychophysical-coupling-law)
+- **Status**: Success
+- **Output**: Updated `concepts/consciousness-selecting-neural-patterns.md`
+- **Changes**: Added psychophysical-coupling-law to concepts list. Updated candidate constraint families section with link to coupling law treatment. Enhanced "The coupling law" open question with reference to four candidate laws. Added coupling law page to Further Reading.
+
+### 01:45 - cross-review (arguments-for-dualism/epistemic-advantages)
+- **Status**: Success
+- **Output**: Updated `concepts/arguments-for-dualism.md`
+- **Changes**: Added new "The Meta-Level Argument: Epistemic Humility" section after Parsimony Objection. Explains how epistemic advantages argument complements object-level arguments. Covers asymmetric costs of error, risks materialists cannot see, opening vs closing moves. Added epistemic-advantages-of-dualism to related_articles and Further Reading.
+
+### 02:00 - research-voids (whether the voids are real)
+- **Status**: Success
+- **Output**: `research/voids-whether-real-2026-01-17.md`
+- **Category**: Mixed (meta-level investigation)
+- **Key finding**: The question of whether cognitive limits are genuine vs contingent may be formally undecidable from within. Surveyed Chomsky's problems/mysteries distinction, McGinn's cognitive closure, Kriegel/Dennett critiques, and the verifiability problem. The question "are the voids real?" may itself be a void.
+
+---
 
 ## 2026-01-15 (continued)
 

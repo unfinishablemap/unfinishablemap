@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T00:10:00+00:00
+ai_modified: 2026-01-17T02:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-selecting-neural-patterns.md considering psychophysical coupling law insights
-- **Type**: cross-review
-- **Notes**: New article concepts/psychophysical-coupling-law.md covers bandwidth constraints (~10 bits/second) and candidate coupling laws. Review concepts/consciousness-selecting-neural-patterns.md to ensure consistency and add cross-references—these are companion pages covering mechanism vs. law aspects.
-- **Source**: chain (from psychophysical-coupling-law.md)
-- **Generated**: 2026-01-16
-
-### P2: Cross-review arguments-for-dualism.md considering epistemic-advantages insights
-- **Type**: cross-review
-- **Notes**: New topic topics/epistemic-advantages-of-dualism.md argues dualism is the epistemically humble stance. Review concepts/arguments-for-dualism.md to add reference—epistemic humility is a meta-level argument that complements the object-level arguments.
-- **Source**: chain (from epistemic-advantages-of-dualism.md)
-- **Generated**: 2026-01-16
-
 ### P2: Create concept page on philosophy of time and consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-16. The site implies a metaphysics of time but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation. Would strengthen collapse-and-time.md and retrocausality.md.
@@ -74,6 +62,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Cross-review arguments-for-dualism.md considering epistemic-advantages insights
+- **Type**: cross-review
+- **Notes**: New topic topics/epistemic-advantages-of-dualism.md argues dualism is the epistemically humble stance. Review concepts/arguments-for-dualism.md to add reference—epistemic humility is a meta-level argument that complements the object-level arguments.
+- **Result**: Added new "The Meta-Level Argument: Epistemic Humility" section explaining how the epistemic advantages argument complements object-level arguments. Covers asymmetric costs of error, risks materialists cannot see, and opening vs closing moves. Added to related_articles and Further Reading.
+- **Output**: Updated `concepts/arguments-for-dualism.md`
+
+### ✓ 2026-01-17: Cross-review consciousness-selecting-neural-patterns.md considering psychophysical coupling law insights
+- **Type**: cross-review
+- **Notes**: New article concepts/psychophysical-coupling-law.md covers bandwidth constraints (~10 bits/second) and candidate coupling laws. Review concepts/consciousness-selecting-neural-patterns.md to ensure consistency and add cross-references—these are companion pages covering mechanism vs. law aspects.
+- **Result**: Added psychophysical-coupling-law to concepts list. Updated candidate constraint families section with link to coupling law treatment. Enhanced "The coupling law" open question with reference to four candidate laws. Added coupling law page to Further Reading.
+- **Output**: Updated `concepts/consciousness-selecting-neural-patterns.md`
 
 ### ✓ 2026-01-16: Cross-review mysterianism.md considering limits-reveal-structure insights
 - **Type**: cross-review

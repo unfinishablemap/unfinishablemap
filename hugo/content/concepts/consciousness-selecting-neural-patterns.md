@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-16 12:00:00+00:00
+ai_modified: 2026-01-17 01:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[mental-causation]]'
 - '[[causal-closure]]'
 - '[[measurement-problem]]'
+- '[[psychophysical-coupling-law]]'
 created: 2026-01-16
 date: &id001 2026-01-16
 draft: false
@@ -147,6 +148,8 @@ This is the minimal interpretation of Stapp's Process 1: consciousness chooses w
 
 This connects to the site's [No Many Worlds](/tenets/#no-many-worlds) tenet—consciousness selects which outcome is experienced as "this one" rather than causing outcomes directly.
 
+These constraint families are developed in detail as candidate coupling laws in [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/), where they are evaluated against the ~10 bits/second bandwidth constraint that empirically limits what selection can accomplish.
+
 ## Relation to Site Perspective
 
 Consciousness-selecting neural patterns implements three of the site's five tenets:
@@ -171,10 +174,11 @@ The remaining tenets are compatible:
 
 **Timing and retrocausality**: If selection is atemporal—operating outside linear time—how does it relate to the subjective flow of experience?
 
-**The coupling law**: What psychophysical laws govern selection? The site proposes the mechanism but acknowledges that the detailed mapping from conscious states to physical selections remains to be specified. See [research on the psychophysical coupling problem](/research/psychophysical-coupling-problem-2026-01-15/).
+**The coupling law**: What psychophysical laws govern selection? The site proposes the mechanism but acknowledges that the detailed mapping from conscious states to physical selections remains to be specified. See [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) for four candidate coupling laws (attention-bounded, policy-level, basis-choice, and indexical) and the bandwidth constraints any coupling law must respect.
 
 ## Further Reading
 
+- [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) — The laws governing what selection can accomplish
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Major theories of how consciousness interfaces with quantum mechanics
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and Stapp's mechanism
 - [attention](/concepts/attention/) — The attention-consciousness dissociation
