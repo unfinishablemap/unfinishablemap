@@ -1,9 +1,9 @@
 ---
 title: "The Hard Problem of Consciousness"
 created: 2026-01-06
-modified: 2026-01-13
+modified: 2026-01-17
 human_modified:
-ai_modified: 2026-01-15T12:00:00+00:00
+ai_modified: 2026-01-17T19:30:00+00:00
 draft: false
 topics: []
 concepts:
@@ -30,11 +30,13 @@ concepts:
   - "[[emergence]]"
   - "[[analytic-idealism]]"
   - "[[pairing-problem]]"
+  - "[[psychophysical-coupling-law]]"
 related_articles:
   - "[[tenets]]"
   - "[[materialism]]"
   - "[[integrated-information-theory]]"
   - "[[quantum-consciousness]]"
+  - "[[chalmers-psychophysical-laws-2026-01-17]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -227,6 +229,22 @@ Does this solve the hard problem? Critics argue it merely relocates the mystery:
 
 Still, IIT represents one of the most rigorous attempts to take consciousness seriously as fundamental. Its willingness to accept counterintuitive consequences—including a form of panpsychism where any integrated system has some degree of experience—shows intellectual courage.
 
+### Chalmers' Psychophysical Framework
+
+Rather than claiming to solve the hard problem, Chalmers proposes that consciousness requires new *fundamental laws*—psychophysical principles that bridge phenomenal and physical domains, just as physics has fundamental laws relating mass, charge, and spacetime. In "Facing Up to the Problem of Consciousness" (1995), he articulates three such principles.
+
+**The Principle of Structural Coherence**: The structure of conscious experience corresponds to the structure of cognitive awareness. The three-dimensional structure of colour space maps onto three-dimensional wavelength analysis. Temporal experience parallels sequential information processing. This constrains but doesn't exhaust experience—inverted spectrum scenarios show structure alone doesn't determine phenomenal quality. Structural coherence tells us *how* experience is organized without telling us *why* it exists.
+
+**The Principle of Organizational Invariance**: Any two systems with identical fine-grained functional organisation have qualitatively identical experiences. Chalmers defends this through the "fading qualia" thought experiment: gradually replacing neurons with functionally identical silicon shouldn't fade experience without detection. This suggests substrate independence—what matters is causal organisation, not physical implementation.
+
+**The Double-Aspect Theory of Information**: Information has both physical and phenomenal aspects. The phenomenal aspect is information's intrinsic nature; the physical aspect is its extrinsic, relational properties. If all information has a phenomenal aspect, even simple systems might have simple experiences—approaching panpsychism from information theory.
+
+These principles don't *solve* the hard problem—they specify constraints on what a solution would look like. The hard problem remains: why do these correspondences hold at all? Why should any physical organisation correlate with any experience? Chalmers acknowledges this gap; his contribution is to make it precise.
+
+**Recent Development**: In "Consciousness and the Collapse of the Wave Function" (2022), Chalmers and Kelvin McQueen develop a quantum version combining IIT with collapse theory. Their "super-resistance principle" holds that consciousness resists superposition—systems with high integrated information collapse to definite conscious states. This addresses why distinct conscious states don't superpose and provides a mechanism for consciousness to causally affect physical outcomes without violating closure (since collapse is physically underdetermined).
+
+The site's [[psychophysical-coupling-law|psychophysical coupling law]] framework builds on Chalmers' work while emphasizing the *downward* direction: Chalmers' principles primarily specify how physical states yield experiences; the site needs laws specifying how conscious states (attention, intention, effort) produce physical selections. See [[psychophysical-coupling-law]] for how the site develops this complementary direction.
+
 ### Russellian Monism
 
 [[russellian-monism|Russellian monism]] offers a sophisticated middle path. Building on observations by Bertrand Russell and Arthur Eddington, it holds that physics describes only the *relational structure* of matter—what things do to each other—while remaining silent on their *intrinsic nature*. Mass is defined by gravitational behavior; charge by electromagnetic interactions. No physical description tells us what mass or charge *is* in itself.
@@ -327,6 +345,7 @@ Whether this specific proposal is correct matters less than the underlying point
 ## Further Reading
 
 ### On This Site
+- [[psychophysical-coupling-law]] — Chalmers' framework and the site's development of downward laws
 - [[analytic-idealism]] — Idealism's claim to dissolve the hard problem by making consciousness fundamental
 - [[combination-problem]] — Panpsychism's parallel challenge: how micro-experiences combine
 - [[pairing-problem]] — Kim's challenge: what connects this mind to this body?
@@ -363,6 +382,7 @@ Whether this specific proposal is correct matters less than the underlying point
 
 - Chalmers, D. J. (1995). Facing up to the problem of consciousness. *Journal of Consciousness Studies*, 2(3), 200-219.
 - Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+- Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the collapse of the wave function. In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
 - Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
 - Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 - McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98, 349-366.
