@@ -3,7 +3,7 @@ title: "Ethics of Consciousness"
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-17T12:45:00+00:00
+ai_modified: 2026-01-17T21:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,6 +16,8 @@ concepts:
   - "[[phenomenal-concepts-strategy]]"
   - "[[moral-responsibility]]"
   - "[[agent-causation]]"
+  - "[[experiential-alignment]]"
+  - "[[phenomenal-value-realism]]"
 related_articles:
   - "[[tenets]]"
   - "[[purpose-and-alignment]]"
@@ -172,7 +174,7 @@ AI systems can be moral *agents* (causing harm or benefit) without being moral *
 
 These questions remain even if AI systems aren't conscious.
 
-### The Alignment Problem
+### The Alignment Problem and Experiential Targeting
 
 [[purpose-and-alignment|AI alignment]] takes on a specific character under the site's framework:
 
@@ -180,10 +182,15 @@ These questions remain even if AI systems aren't conscious.
 
 **Site's framing**: If AI lacks consciousness, it lacks the "inside understanding" that makes human judgment valuable. Aligning AI to preferences risks optimizing for thin proxies while missing what actually matters—conscious experience quality.
 
+This leads to [[experiential-alignment|experiential alignment]]—the proposal that AI systems should target predicted distributions over human conscious experiences rather than learn from observed choices. If [[phenomenal-value-realism|phenomenal consciousness is the ground of value]], then alignment should promote flourishing experience directly: hedonic quality, freedom from suffering, genuine agency, meaningful connection.
+
+But experiential alignment faces a structural limitation under the site's framework: AI systems that lack consciousness cannot verify whether their interventions improve experiential quality. They can track proxies—self-reports, physiological correlates, behavioural indicators—but cannot access what those proxies represent. The experiential target is phenomenal; unconscious AI is blind to phenomena. This makes human oversight not merely practical caution but structural necessity: the conscious beings must remain in the loop because they alone can verify the target.
+
 The site suggests alignment should target predicted effects on human (and animal) experience, not preference satisfaction per se. This requires:
-- Understanding what experiences matter (phenomenal value pluralism)
-- Measuring effects on experience (not just behavior)
-- Maintaining human oversight (since AI can't understand experiential value from inside)
+- Understanding what experiences matter (phenomenal value pluralism across multiple dimensions)
+- Measuring effects on experience (not just behavior) through diverse proxies that resist Goodhart dynamics
+- Maintaining human oversight (since AI can't understand or verify experiential value from inside)
+- First-person phenomenological methods as irreplaceable complements to quantitative measurement
 
 ### Future AI: Consciousness Creation
 
@@ -310,6 +317,8 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [[personal-identity]] — Why copies aren't continuations
 - [[moral-responsibility]] — How agent causation grounds desert
 - [[purpose-and-alignment]] — AI alignment under consciousness constraints
+- [[experiential-alignment]] — Targeting experience rather than preferences
+- [[phenomenal-value-realism]] — The metaethical grounding for experiential value
 - [[meaning-of-life]] — Why consciousness grounds value
 - [[qualia]] — The felt quality that creates moral significance
 - [[tenets]] — The site's foundational commitments
