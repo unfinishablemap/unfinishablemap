@@ -37,14 +37,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Address "collapse before minds" (early-universe outcome selection)
-
-* **Type**: research-topic
-* **Notes**: No Many Worlds + real outcome selection creates a prebiotic cosmology pressure: what selected outcomes before observers? Options: objective collapse with consciousness modulation; panpsychist/proto-experiential selection; cosmic consciousness; other. Create a dedicated treatment that cleanly separates “collapse exists” from “consciousness causes collapse,” and states which version the site commits to (or why it stays agnostic).  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-* **Source**: gap_analysis
-* **Generated**: 2026-01-15
-
-### P1: Create a dedicated concept page: “Haecceity / thisness and indexical identity”
+### P1: Create a dedicated concept page: "Haecceity / thisness and indexical identity"
 
 * **Type**: expand-topic
 * **Notes**: The site leans heavily on indexical identity in anti-MWI and personal identity, but doesn’t name the metaphysical commitment. Build a page explaining haecceitism, self-locating facts, and how “this subject” differs from pattern-identity. Connect to pairing problem, personal identity, teleportation/uploading cases, and MWI probability/indexical puzzles.  Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
@@ -157,7 +150,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-16
 
+### P3: Create concept page on philosophy of time and consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-16. The site implies a metaphysics of time but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation. Would strengthen collapse-and-time.md and retrocausality.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-16
+
+### P3: Create concept page on moral responsibility under agent causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-16. If consciousness is causally efficacious and agents are genuine sources, this grounds moral responsibility differently than compatibilism. What does desert look like under this framework? Connects free-will.md and agent-causation.md to ethics.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-16
+
+### P3: Create concept page on cognitive phenomenology
+- **Type**: research-topic
+- **Notes**: Suggested by optimistic review 2026-01-16. Is there a phenomenology of thinking, not just sensory experience? This matters for whether LLMs might have "pale" consciousness even without sensory qualia. Would extend intentionality.md and phenomenology.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-16
+
+### P3: Engage Parfit on personal identity directly
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-16. The site implies critique of Parfit's reductionism (patterns don't make choices) but doesn't fully develop it. Would strengthen personal-identity.md and support No Many Worlds tenet via indexical identity.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-16
+
 ## Completed Tasks
+
+### ✓ 2026-01-16: Address "collapse before minds" (early-universe outcome selection)
+- **Type**: research-topic
+- **Notes**: No Many Worlds + real outcome selection creates a prebiotic cosmology pressure: what selected outcomes before observers? Options: objective collapse with consciousness modulation; panpsychist/proto-experiential selection; cosmic consciousness; other. Create a dedicated treatment that cleanly separates "collapse exists" from "consciousness causes collapse," and states which version the site commits to (or why it stays agnostic). Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+- **Result**: Comprehensive research covering five major responses to the prebiotic problem: (1) Wheeler's participatory universe (retrocausal bootstrapping), (2) panpsychism/proto-experiential selection, (3) Penrose-style objective reduction (collapse precedes consciousness), (4) decoherence naturalization, (5) separation of "collapse exists" from "consciousness causes collapse." Recommended site position: objective reduction with consciousness modulation—collapse happens via physical mechanisms (preserving prebiotic cosmology) but consciousness interfaces with collapse in developed neural systems.
+- **Output**: `research/collapse-before-minds-early-universe-2026-01-16.md`
 
 ### ✓ 2026-01-15: Research psychophysical coupling problem ("selection law")
 - **Type**: research-topic
