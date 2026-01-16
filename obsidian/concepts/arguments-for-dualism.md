@@ -3,7 +3,7 @@ title: "Arguments for Dualism"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-15T22:00:00+00:00
+ai_modified: 2026-01-17T01:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[arguments-for-dualism-positive-case-2026-01-14]]"
+  - "[[epistemic-advantages-of-dualism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -116,6 +117,18 @@ Several responses bear on this:
 
 **Historical precedent**: Atomic theory was less parsimonious than continuous matter. Quantum mechanics is less parsimonious than classical physics. Parsimony alone doesn't track truth. The site's [[tenets#^occam|Occam's Razor Has Limits]] tenet exists for this reason.
 
+## The Meta-Level Argument: Epistemic Humility
+
+Beyond specific arguments for dualism, there's a meta-level case for treating dualism as a live option. [[Epistemic-advantages-of-dualism]] develops this in detail: materialism closes intellectual territory by assumption, foreclosing possibilities before investigation. Dualism keeps more possibilities on the table.
+
+The argument from epistemic humility doesn't claim dualism is true—it claims that given our profound ignorance about consciousness, treating non-materialist theories as live options is the epistemically responsible stance. Key points:
+
+- **Asymmetric costs of error**: If materialists are wrong, they've foreclosed vast aspects of reality. If dualists are wrong, they've entertained unnecessary complexity—a minor sin.
+- **Risks materialists cannot see**: If consciousness is irreducible, certain moral risks (suffering of systems we deny consciousness to, consciousness persisting beyond brain death) become visible that materialism renders invisible.
+- **Opening vs. closing moves**: Materialism's "parsimony" comes from defining away what it can't explain. Dualism opens questions; materialism closes them.
+
+This meta-level argument complements the object-level arguments above. Even if one remains uncertain about zombies, Mary's Room, or the unity argument, epistemic humility counsels keeping dualism on the table while investigation continues.
+
 ## Avoiding Epiphenomenalism
 
 If consciousness is non-physical, how does it interact with the physical? This challenge confronts any dualism that wants to be more than epiphenomenal.
@@ -184,6 +197,7 @@ The site does not commit to substance over property dualism. Both support irredu
 
 ## Further Reading
 
+- [[epistemic-advantages-of-dualism]] — The meta-level argument from epistemic humility
 - [[philosophical-zombies]] — The conceivability argument in detail
 - [[knowledge-argument]] — Mary's Room and what it shows
 - [[qualia]] — The qualitative features at issue
