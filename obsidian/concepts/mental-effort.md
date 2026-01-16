@@ -3,7 +3,7 @@ title: "Mental Effort and the Quantum Zeno Effect"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T14:30:00+00:00
+ai_modified: 2026-01-17T23:50:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[epiphenomenalism]]"
   - "[[attention]]"
+  - "[[attention-as-interface]]"
 related_articles:
   - "[[tenets]]"
   - "[[stapp-mental-effort-mind-matter-2026-01-14]]"
@@ -46,6 +47,19 @@ This phenomenology is universal. Everyone knows the experience of trying to focu
 Recent research on the [[attention|attention-consciousness relationship]] complicates the picture. Koch and Tsuchiya's influential work documented that attention and consciousness are dissociable: you can attend without being conscious (blindsight) and be conscious without focused attention (peripheral awareness). This dissociation matters for understanding effort.
 
 If attention and consciousness were identical, the "effort" of directing attention would just be what certain computations feel like. But if consciousness is the *subject* that directs attention, and attention is the *mechanism* it deploys, then effort makes sense as the cost of engagement. Sustaining attention feels effortful because consciousness—something over and above neural processing—must continuously engage.
+
+### Attention as Interface Layer
+
+The [[attention-as-interface|attention as interface hypothesis]] sharpens this analysis. Attention functions as the *interface layer* between consciousness and neural systems—not identical to consciousness, but the causal bridge through which consciousness operates on matter. On this view:
+
+- **Attention is not consciousness** (explaining dissociation evidence)
+- **Attention mediates consciousness's causal influence** (explaining why consciousness affects what we attend to)
+- **Consciousness can only influence what it attends to** (explaining the scope of mental causation)
+- **Attention has bandwidth limits** (~10 bits/second, matching conscious processing constraints)
+
+This framework explains why mental effort should feel like work. The phenomenology of effort reflects the *real cost* of operating through the attention interface. Consciousness cannot influence neural patterns directly—it must work through attention mechanisms. Sustaining that engagement requires continuous effort because the interface itself is bandwidth-limited and requires active maintenance.
+
+The attention-as-interface hypothesis also explains why mental effort is specific to certain domains. You can choose to attend to this page or look away, but you can't choose to influence distant objects or other brains. The interface is localized to your brain's attention mechanisms—this is the [[interface-locality]] constraint. Mental effort is the phenomenology of working within these bounds.
 
 ### Cognitive Psychology Confirms the Phenomenology
 
@@ -168,6 +182,7 @@ The site doesn't commit to Stapp's specific proposal over other quantum consciou
 ## Further Reading
 
 - [[attention]] — The attention-consciousness dissociation and why it matters for effort
+- [[attention-as-interface]] — Formalizes attention as the interface layer between consciousness and neural systems
 - [[quantum-consciousness]] — Overview of quantum consciousness mechanisms including Stapp's approach
 - [[interactionist-dualism]] — The philosophical framework combining dualism with causal interaction
 - [[epiphenomenalism]] — The alternative view that consciousness has no causal power
