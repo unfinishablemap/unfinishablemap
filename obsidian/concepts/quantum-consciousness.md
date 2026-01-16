@@ -3,7 +3,7 @@ title: "Quantum Consciousness Mechanisms"
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-01-16T23:50:00+00:00
+ai_modified: 2026-01-17T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +20,8 @@ concepts:
   - "[[mental-causation]]"
   - "[[causal-closure]]"
   - "[[emergence]]"
+  - "[[psychophysical-coupling-law]]"
+  - "[[interface-locality]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-consciousness-mechanisms-2026-01-08]]"
@@ -112,6 +114,17 @@ If attention *were* consciousness—as some functionalist theories claim—then 
 **Empirical support**: Jeffrey Schwartz's research on OCD provides indirect evidence. His cognitive therapy—which trains patients to redirect attention away from obsessive thoughts—produces measurable brain changes visible on PET scans. Patients who learned to refocus attention literally reshaped their brains. While this doesn't prove the quantum Zeno mechanism specifically, it demonstrates that directed mental effort has physical consequences—harder to explain under [[epiphenomenalism]] than [[interactionist-dualism]].
 
 **Orthodox physics**: Stapp argues his proposal follows directly from von Neumann's formulation of quantum mechanics. No speculative new physics is needed—just taking the measurement problem seriously.
+
+### The Coupling Law Requirement
+
+Saying "consciousness selects quantum outcomes" isn't enough. What aspects of consciousness map to what physical selections? The [[psychophysical-coupling-law]] page articulates this problem precisely. A coupling law would specify:
+
+- **Mental variables**: Attention? Intention? Effort? Valence?
+- **Physical variables**: Individual outcomes? Probability weights? Basis choice?
+- **Bandwidth**: How much information per unit time? (~10 bits/second, matching conscious processing limits)
+- **Scope constraints**: What is *not* selectable? ([[Interface-locality]] answers this)
+
+Four candidate coupling laws emerge: attention-bounded selection (James-Stapp), policy-level selection (Libet-style veto power), basis-choice selection (choosing questions not answers), and indexical selection (determining which outcome is "this one"). Specifying the coupling law transforms "consciousness selects" from metaphor into research program.
 
 ### Tenet Alignment
 
@@ -242,6 +255,8 @@ The decoherence objection remains the most serious challenge. If quantum coheren
 
 ## Further Reading
 
+- [[psychophysical-coupling-law]] — What a coupling law between mind and physics must specify
+- [[interface-locality]] — Why consciousness can only select quantum outcomes in its own brain
 - [[many-worlds]] — Why the site rejects the many-worlds interpretation
 - [[mental-causation]] — Why quantum consciousness theories address the exclusion problem
 - [[causal-closure]] — The principle that quantum indeterminacy allows consciousness to challenge
