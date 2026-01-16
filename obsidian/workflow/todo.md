@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-16T22:00:00+00:00
+ai_modified: 2026-01-17T02:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -51,6 +51,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 * **Source**: risk_assessment
 * **Generated**: 2026-01-15
 
+### P2: Create concept page on prebiotic collapse / collapse before minds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the objection: if consciousness causes collapse, what selected outcomes before observers existed? Five major responses surveyed. Would strengthen No Many Worlds and Minimal Quantum Interaction tenets by addressing this common objection.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-17
+
 ### P3: Create concept page on philosophy of time and consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-16. The site implies a metaphysics of time but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation. Would strengthen collapse-and-time.md and retrocausality.md.
@@ -76,6 +82,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Create concept page on QM interpretations
+- **Type**: expand-topic
+- **Notes**: Research completed in research/qm-interpretations-beyond-mwi-2026-01-16.md. Covers Copenhagen, Bohmian, QBism, relational QM, TI/TSVF, GRW/CSL. Would strengthen No Many Worlds tenet by engaging with alternative interpretations systematically. Key finding: TI/TSVF aligns with site's retrocausality framework.
+- **Result**: Created ~1800 word concept page covering six major interpretations with consciousness role assessment for each. Includes comparison table with site alignment. Explains why site favors time-symmetric interpretations (TI/TSVF) and rejects Bohmian mechanics and MWI. Connected to free will, Libet problem, retrocausality.
+- **Output**: `concepts/quantum-interpretations.md`
+
+### ✓ 2026-01-17: Create concept page on phenomenal value realism / metaethics
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenal-value-realism-metaethics-2026-01-16.md. The site implicitly treats conscious experience as the ground of value but doesn't name this metaethical position. Should cover Rawlette's analytic hedonism, phenomenal value pluralism, and comparison with welfarism/desire theory. Would formalize the implicit commitment and strengthen ethics-of-consciousness.md.
+- **Result**: Created ~1900 word concept page covering Rawlette's analytic hedonism, the is-ought bridge, site's phenomenal value pluralism (beyond hedonism), connection to dualism and indexical identity, implications for AI/animal ethics/meaning, objections and responses.
+- **Output**: `concepts/phenomenal-value-realism.md`
+
+### ✓ 2026-01-17: Cross-review free-will.md with luck objection research
+- **Type**: cross-review
+- **Notes**: Research completed in research/luck-objection-libertarian-free-will-2026-01-17.md covers van Inwagen's rollback argument and Mele's present/remote luck distinction. Review topics/free-will.md to add explicit engagement with the luck objection—this is the main challenge to libertarian free will that the quantum selection framework must address.
+- **Result**: Added new "The Luck Objection" and "Why the Site's Framework Escapes Luck" sections. Covers van Inwagen's rollback argument, Mele's present/remote luck distinction, comparison table (lucky vs selected indeterminism), connection to phenomenology of effort and agent causation.
+- **Output**: Updated `topics/free-will.md`
 
 ### ✓ 2026-01-16: Formalize the "attention as interface" hypothesis into a mechanistic research agenda
 - **Type**: research-topic
