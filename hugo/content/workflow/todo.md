@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-17 04:45:00+00:00
+ai_modified: 2026-01-16 14:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,25 +38,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Create concept page on moral responsibility under agent causation
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-16. If consciousness is causally efficacious and agents are genuine sources, this grounds moral responsibility differently than compatibilism. What does desert look like under this framework? Connects free-will.md and agent-causation.md to ethics.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-16
-
 ### P2: Engage Parfit on personal identity directly
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-16. The site implies critique of Parfit's reductionism (patterns don't make choices) but doesn't fully develop it. Would strengthen personal-identity.md and support No Many Worlds tenet via indexical identity.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-16
 
-### P2: Cross-review temporal-consciousness.md with specious present research insights
+## Completed Tasks
+
+### ✓ 2026-01-16: Create concept page on moral responsibility under agent causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-16. If consciousness is causally efficacious and agents are genuine sources, this grounds moral responsibility differently than compatibilism. What does desert look like under this framework? Connects free-will.md and agent-causation.md to ethics.
+- **Result**: Created ~2200 word concept page covering: how agent causation grounds desert differently than compatibilism (metaphysical vs pragmatic), genuine sourcehood and contrastive explanation, luck objection response, retribution intelligibility, mitigation limits, character responsibility, role of consciousness, practical implications.
+- **Output**: `concepts/moral-responsibility.md`
+
+### ✓ 2026-01-16: Cross-review temporal-consciousness.md with specious present research insights
 - **Type**: cross-review
 - **Notes**: Research completed in research/specious-present-temporal-experience-2026-01-16.md provides detailed coverage of extensionalism vs retentionalism debate, duration estimates, and connection to quantum collapse phenomenology. Review concepts/temporal-consciousness.md to enhance specious present section with these insights.
-- **Source**: chain (from specious-present research)
-- **Generated**: 2026-01-17
-
-## Completed Tasks
+- **Result**: Added extensionalism vs retentionalism debate section, site's modified extensionalism position (collapse constitutes duration-blocks), Varela neurophenomenology with contemplative access to temporal microstructure, khanika and cessation as evidence, duration estimates, links to specious-present.md and neurophenomenology.md.
+- **Output**: Updated `concepts/temporal-consciousness.md`
 
 ### ✓ 2026-01-17: Create concept page on the specious present
 - **Type**: expand-topic

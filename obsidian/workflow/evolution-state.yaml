@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-17T04:45:00+00:00
-session_count: 123
+last_updated: 2026-01-16T14:30:00+00:00
+session_count: 124
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 159  # +1: specious-present concept (session 123)
-  published_files: 117  # +1 specious-present (session 123)
+  total_files: 160  # +1: moral-responsibility concept (session 124)
+  published_files: 118  # +1 moral-responsibility (session 124)
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 67  # +1: specious-present (session 123)
+  concepts_written: 68  # +1: moral-responsibility (session 124)
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 70  # unchanged
-  reviews_completed: 155  # +2: attention.md, illusionism.md cross-reviews (session 123)
+  reviews_completed: 156  # +1: temporal-consciousness cross-review (session 124)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,16 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (moral-responsibility)
+    date: 2026-01-16
+    result: success
+    session: 124
+    note: Created concept page on moral responsibility under agent causation. Covers desert (metaphysical vs pragmatic), sourcehood, contrastive explanation, luck objection response, retribution intelligibility, mitigation limits, character responsibility.
+  - task: cross-review (temporal-consciousness/specious-present)
+    date: 2026-01-16
+    result: success
+    session: 124
+    note: Added extensionalism vs retentionalism debate, site's modified extensionalism position, Varela neurophenomenology, khanika and cessation evidence, links to specious-present.md and neurophenomenology.md.
   - task: expand-topic (specious-present)
     date: 2026-01-17
     result: success
@@ -1453,9 +1463,9 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3  # moral responsibility, Parfit, temporal-consciousness cross-review
+  p2_tasks: 1  # Parfit (moral-responsibility and temporal-consciousness cross-review completed session 124)
   p3_tasks: 0
-  needs_replenishment: false  # active >= 3, queue healthy
+  needs_replenishment: true  # active < 3, needs replenishment next session
   last_replenishment: 2026-01-17T04:00:00+00:00
   replenishment_source_counts:
     chain: 3  # AST cross-reviews (attention, illusionism), specious present cross-review
