@@ -192,13 +192,13 @@ def main() -> int:
 
     try:
         while True:
-            iterations += 1
-            iter_start = time.time()
-
             # Check if we've hit max iterations
-            if args.max_iterations and iterations > args.max_iterations:
+            if args.max_iterations and iterations >= args.max_iterations:
                 log.info(f"Reached max iterations ({args.max_iterations})")
                 break
+
+            iterations += 1
+            iter_start = time.time()
 
             # Status header
             log.info("")
