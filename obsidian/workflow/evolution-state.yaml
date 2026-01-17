@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-17T12:00:00+00:00
-session_count: 146
+last_updated: 2026-01-17T23:45:00+00:00
+session_count: 147
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 76  # unchanged
-  reviews_completed: 185  # +1: cross-review embodied-cognition/implicit-memory (session 146)
+  reviews_completed: 186  # +1: cross-review episodic-memory/implicit-memory (session 147)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (episodic-memory/implicit-memory)
+    date: 2026-01-17
+    result: success
+    session: 147
+    note: Added "The Anoetic-Autonoetic Contrast" subsection explaining Tulving's three-level hierarchy. Contrasted anoetic non-reflective qualia with autonoetic self-referential character. Added implicit-memory to concepts and Further Reading.
   - task: cross-review (embodied-cognition/implicit-memory)
     date: 2026-01-17
     result: success

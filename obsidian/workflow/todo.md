@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T12:00:00+00:00
+ai_modified: 2026-01-17T23:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,11 +43,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-18
 
-### P2: Cross-review episodic-memory.md considering implicit memory insights
+### P2: Cross-review death-and-consciousness.md considering episodic memory insights
 - **Type**: cross-review
-- **Notes**: The implicit-memory.md article develops Tulving's anoetic consciousness as the lowest level of his hierarchy. Review episodic-memory.md to strengthen the contrast between anoetic (implicit) and autonoetic (episodic) consciousness. The distinction clarifies what makes episodic memory uniquely consciousness-dependent. Add implicit-memory link.
-- **Source**: chain (from implicit-memory.md)
-- **Generated**: 2026-01-18
+- **Notes**: The concepts/episodic-memory.md article develops how episodic memory constitutes the autobiographical self through autonoetic consciousness. The death-and-consciousness article discusses personal identity and what's lost at death but doesn't engage with memory's role in constituting the self that dies. Episodic memory binds the narrative self that makes death feel like loss of something irreplaceable.
+- **Source**: chain (from episodic-memory.md)
+- **Generated**: 2026-01-17
+
+### P2: Cross-review loss-of-consciousness.md considering memory system insights
+- **Type**: cross-review
+- **Notes**: The loss-of-consciousness topic covers anesthesia, coma, and the mind-brain relationship. Anesthesia notably disrupts episodic memory encoding (anterograde amnesia is a key component), while implicit memory (procedural skills) can persist through states of reduced consciousness. This distinction supports the filter theory interpretation—different memory systems may have different interface requirements.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-17
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
@@ -62,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Cross-review episodic-memory.md considering implicit memory insights
+- **Type**: cross-review
+- **Notes**: The implicit-memory.md article develops Tulving's anoetic consciousness as the lowest level of his hierarchy. Review episodic-memory.md to strengthen the contrast between anoetic (implicit) and autonoetic (episodic) consciousness. The distinction clarifies what makes episodic memory uniquely consciousness-dependent. Add implicit-memory link.
+- **Result**: Added "The Anoetic-Autonoetic Contrast" subsection explaining Tulving's three-level hierarchy and why autonoetic consciousness is phenomenologically unique. Contrasted anoetic "non-reflective qualia" with autonoetic self-referential character. Added implicit-memory to concepts and Further Reading.
+- **Output**: Updated `concepts/episodic-memory.md`
 
 ### ✓ 2026-01-17: Cross-review embodied-cognition.md considering implicit memory insights
 - **Type**: cross-review
