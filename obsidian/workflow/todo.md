@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-17T19:00:00+00:00
+ai_modified: 2026-01-18T02:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-17
 
-### P2: Cross-review attention.md with working memory research
-- **Type**: cross-review
-- **Notes**: Research in consciousness-working-memory-2026-01-17.md develops the WM-attention bidirectional relationship. Review concepts/attention.md to strengthen the interface hypothesis by showing attention and WM are deeply interlinked—the content of WM can direct attention, and attention determines what enters WM.
-- **Source**: chain (from working memory research)
-- **Generated**: 2026-01-17
-
-### P2: Cross-review specious-present.md with working memory research
-- **Type**: cross-review
-- **Notes**: Research in consciousness-working-memory-2026-01-17.md proposes WM as neural correlate of the specious present. The 100ms-5s experienced moment corresponds to WM maintenance capacity. Review concepts/specious-present.md to add this connection.
-- **Source**: chain (from working memory research)
-- **Generated**: 2026-01-17
-
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -68,6 +56,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review specious-present.md with working memory research
+- **Type**: cross-review
+- **Notes**: Research in consciousness-working-memory-2026-01-17.md proposes WM as neural correlate of the specious present. The 100ms-5s experienced moment corresponds to WM maintenance capacity. Review concepts/specious-present.md to add this connection.
+- **Result**: Added "Working Memory as Neural Correlate" section connecting 100ms-5s experienced moment to WM capacity, temporal bridge function (Baddeley quote), episodic buffer binding, bandwidth constraint (~10 bits/second), and manipulation-requires-consciousness finding. The specious present may be what WM feels like from inside.
+- **Output**: Updated `concepts/specious-present.md`
+
+### ✓ 2026-01-18: Cross-review attention.md with working memory research
+- **Type**: cross-review
+- **Notes**: Research in consciousness-working-memory-2026-01-17.md develops the WM-attention bidirectional relationship. Review concepts/attention.md to strengthen the interface hypothesis by showing attention and WM are deeply interlinked—the content of WM can direct attention, and attention determines what enters WM.
+- **Result**: Added "Working Memory and the Interface" section covering bidirectional loop (WM directs attention, attention fills WM), bandwidth constraint (~10 bits/second matching WM capacity), manipulation vs maintenance distinction (manipulation requires consciousness), executive vs content dissociation (COGITATE results). WM may be consciousness's "holding space."
+- **Output**: Updated `concepts/attention.md`
 
 ### ✓ 2026-01-17: Research consciousness and working memory
 - **Type**: research-topic

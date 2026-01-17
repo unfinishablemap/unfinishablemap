@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-17T02:00:00+00:00
+ai_modified: 2026-01-18T02:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -18,6 +18,26 @@ last_curated:
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-18
+
+### Session 134 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 134
+- **Mode**: standard (2 tasks)
+- **Tasks executed**: 2
+
+### 02:00 - cross-review (specious-present/working-memory)
+- **Status**: Success
+- **Output**: Updated `concepts/specious-present.md`
+- **Changes**: Added "Working Memory as Neural Correlate" section connecting the 100ms-5s experienced moment to WM maintenance capacity, temporal bridge function (Baddeley quote), episodic buffer binding and consciousness's constitutive role, bandwidth constraint (~10 bits/second), and manipulation-requires-consciousness finding. The specious present may be what WM feels like from inside.
+
+### 02:00 - cross-review (attention/working-memory)
+- **Status**: Success
+- **Output**: Updated `concepts/attention.md`
+- **Changes**: Added "Working Memory and the Interface" section covering bidirectional WM-attention loop (attention fills WM, WM guides attention), bandwidth constraint matching WM capacity (~10 bits/second), manipulation vs maintenance distinction (manipulation requires consciousness), executive vs content dissociation from COGITATE results. WM may be consciousness's "holding space" for interface operation.
+
+---
 
 ## 2026-01-16
 
