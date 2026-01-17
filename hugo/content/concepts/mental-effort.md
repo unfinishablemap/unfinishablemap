@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-17 23:50:00+00:00
+ai_modified: 2026-01-17 14:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[epiphenomenalism]]'
 - '[[attention]]'
 - '[[attention-as-interface]]'
+- '[[specious-present]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -19,6 +20,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[stapp-mental-effort-mind-matter-2026-01-14]]'
+- '[[consciousness-working-memory-2026-01-17]]'
 title: Mental Effort and the Quantum Zeno Effect
 topics:
 - '[[free-will]]'
@@ -59,6 +61,19 @@ The [attention as interface hypothesis](/concepts/attention-as-interface/) sharp
 - **Attention has bandwidth limits** (~10 bits/second, matching conscious processing constraints)
 
 This framework explains why mental effort should feel like work. The phenomenology of effort reflects the *real cost* of operating through the attention interface. Consciousness cannot influence neural patterns directly—it must work through attention mechanisms. Sustaining that engagement requires continuous effort because the interface itself is bandwidth-limited and requires active maintenance.
+
+### Working Memory Manipulation
+
+Working memory (WM) provides additional evidence for this picture. Research distinguishes two WM processes:
+
+1. **Maintenance**: Holding information in mind (possibly unconscious, "activity-silent")
+2. **Manipulation**: Actively operating on that information (requires conscious reactivation)
+
+Key finding: Information can be maintained in WM through activity-silent synaptic traces—without sustained neural firing or conscious awareness. But *using* that information—manipulating it, comparing it, transforming it—requires reactivation into conscious access.
+
+This maps directly onto the interface framework. Passive storage might be purely neural machinery; active manipulation might be where consciousness participates through the attention interface. WM manipulation feels effortful because it *is* consciousness engaging with neural content—precisely what the quantum Zeno mechanism describes.
+
+The phenomenology confirms this: rehearsing a phone number takes little effort (maintenance), but doing mental arithmetic with those digits takes real work (manipulation). The difference is whether consciousness is merely holding or actively engaging. Stapp's framework predicts this asymmetry—Zeno freezing operates during active engagement, not passive maintenance.
 
 The attention-as-interface hypothesis also explains why mental effort is specific to certain domains. You can choose to attend to this page or look away, but you can't choose to influence distant objects or other brains. The interface is localized to your brain's attention mechanisms—this is the [interface-locality](/concepts/interface-locality/) constraint. Mental effort is the phenomenology of working within these bounds.
 
@@ -184,11 +199,13 @@ The site doesn't commit to Stapp's specific proposal over other quantum consciou
 
 - [attention](/concepts/attention/) — The attention-consciousness dissociation and why it matters for effort
 - [attention-as-interface](/concepts/attention-as-interface/) — Formalizes attention as the interface layer between consciousness and neural systems
+- [specious-present](/concepts/specious-present/) — Working memory may underlie the experienced duration of "now"
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum consciousness mechanisms including Stapp's approach
 - [interactionist-dualism](/arguments/interactionist-dualism/) — The philosophical framework combining dualism with causal interaction
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The alternative view that consciousness has no causal power
 - [free-will](/topics/free-will/) — Connections between attention, effort, and libertarian free will
 - [stapp-mental-effort-mind-matter-2026-01-14](/research/stapp-mental-effort-mind-matter-2026-01-14/) — Detailed research notes
+- [consciousness-working-memory-2026-01-17](/research/consciousness-working-memory-2026-01-17/) — Research on working memory and consciousness
 
 ## References
 

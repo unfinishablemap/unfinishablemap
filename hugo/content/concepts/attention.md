@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-17 22:00:00+00:00
+ai_modified: 2026-01-18 02:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,6 +21,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[attention-consciousness-relationship-2026-01-15]]'
+- '[[consciousness-working-memory-2026-01-17]]'
 title: Attention and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -100,6 +101,20 @@ Predictive processing offers a compatible framework. Attention, on this view, is
 
 The question remains: what determines precision weights? If predictive processing is merely describing neural dynamics, it leaves the hard problem untouched. But if precision weighting is how consciousness *selects* which information becomes salient—if the Stapp mechanism operates through precision signals—then predictive processing and quantum consciousness complement rather than compete.
 
+### Working Memory and the Interface
+
+Working memory and attention are deeply interlinked—attention determines what enters working memory, and working memory contents guide attention. This bidirectional relationship strengthens the [interface hypothesis](/concepts/attention-as-interface/).
+
+**The bidirectional loop.** Baddeley's central executive coordinates what information gains access to consciousness. Information in working memory is broadcast to specialised processors; this broadcasting resembles the global workspace mechanism. But the loop runs both ways: what you hold in working memory shapes what you attend to, which in turn shapes what enters working memory.
+
+**Bandwidth constraint.** The site's [coupling law research](/concepts/psychophysical-coupling-law/) notes a ~10 bits/second limit on conscious information throughput—the bandwidth for consciousness influencing brain states. This matches working memory capacity limitations remarkably well. If attention is how consciousness acts, working memory may be consciousness's "holding space" for the information attention can operate upon.
+
+**Manipulation versus maintenance.** Recent research distinguishes working memory *storage* from working memory *manipulation*. Activity-silent states—maintained through synaptic calcium rather than sustained firing—can preserve information unconsciously. But *using* that information requires conscious reactivation. This maps onto the site's framework: passive storage might be purely neural; active selection and manipulation might require consciousness's participation. Working memory manipulation could be the interface in action.
+
+**Executive and content.** The 2025 COGITATE results found conscious perception tracked by posterior cortex, not prefrontal regions. This suggests executive functions (including working memory control) are distinct from conscious content. The interface may be precisely where these systems meet—prefrontal executive mechanisms execute control while posterior regions hold conscious content.
+
+Working memory isn't consciousness, but it may be where we observe consciousness working.
+
 ## Major Theories of Attention and Consciousness
 
 ### Global Workspace Theory
@@ -153,15 +168,18 @@ The attention-consciousness relationship illuminates all five tenets:
 
 - [attention-as-interface](/concepts/attention-as-interface/) — The hypothesis that attention mediates consciousness's causal influence on matter
 - [mental-effort](/concepts/mental-effort/) — Detailed treatment of phenomenology of effort and Stapp's mechanism
+- [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) — Bandwidth constraints and the ~10 bits/second limit
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum consciousness mechanisms
 - [functionalism](/arguments/functionalism/) — The view that consciousness is defined by functional role
 - [illusionism](/concepts/illusionism/) — The view that phenomenal consciousness is systematically misrepresented
 - [attention-schema-theory](/concepts/attention-schema-theory/) — Graziano's specific illusionist theory and the site's critique
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why attention alone can't solve the hard problem
 - [attention-consciousness-relationship-2026-01-15](/research/attention-consciousness-relationship-2026-01-15/) — Detailed research notes
+- [consciousness-working-memory-2026-01-17](/research/consciousness-working-memory-2026-01-17/) — Research on working memory and consciousness
 
 ## References
 
+- Baddeley, A. (2000). The episodic buffer: a new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423.
 - Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567-575.
 - Dehaene, S. (2014). *Consciousness and the Brain*. Viking.
 - Graziano, M.S.A. (2015). The attention schema theory: A mechanistic account of subjective awareness. *Frontiers in Psychology*, 6, 500.

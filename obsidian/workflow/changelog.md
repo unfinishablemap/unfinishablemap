@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-18T02:00:00+00:00
+ai_modified: 2026-01-17T15:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -18,6 +18,35 @@ last_curated:
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-17
+
+### Session 135 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 135
+- **Mode**: standard (3 tasks)
+- **Tasks executed**: 3
+
+### 14:35 - cross-review (mental-effort/working-memory)
+- **Status**: Success
+- **Output**: Updated `concepts/mental-effort.md`
+- **Changes**: Added "Working Memory Manipulation" subsection explaining how the maintenance/manipulation distinction supports the interface hypothesis. Passive storage is unconscious; active manipulation requires consciousness—matching Stapp's quantum Zeno predictions.
+
+### 14:40 - expand-topic (working-memory)
+- **Status**: Success
+- **Output**: Created `concepts/working-memory.md`
+- **Changes**: ~2000 word concept page covering Baddeley's model, maintenance/manipulation distinction (manipulation requires consciousness), WM as specious present correlate (100ms-5s window), GWT connections, binding implications, and support for the attention-as-interface hypothesis.
+
+### 14:45 - validate-all
+- **Status**: Success (1 warning)
+- **Files validated**: 217
+- **Errors**: None
+- **Warnings**: highlights.md missing ai_system field
+- **Links**: All OK
+- **Orphaned content**: 6 known (materialism, higher-order-theories, project files)
+- **Stale drafts**: None
+
+---
 
 ## 2026-01-18
 

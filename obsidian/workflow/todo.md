@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T02:00:00+00:00
+ai_modified: 2026-01-17T14:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,6 +43,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-17
 
+### P2: Research semantic memory and consciousness
+- **Type**: research-topic
+- **Notes**: Autonoetic consciousness (episodic memory) is now well-covered. Semantic memory (general knowledge) has its own consciousness implications: noetic awareness, tip-of-the-tongue phenomenology, conceptual understanding. How does semantic memory relate to cognitive phenomenology? Does semantic retrieval involve irreducible phenomenology or is it more automatic?
+- **Source**: gap_analysis
+- **Generated**: 2026-01-17
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -56,6 +62,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Create concept page on working memory and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in consciousness-working-memory-2026-01-17.md. WM may provide the neural correlate of the specious present (100ms-5s temporal integration). Key themes: episodic buffer binding, activity-silent maintenance vs conscious manipulation, WM-attention bidirectionality, bandwidth constraint (~10 bits/sec). Would connect attention-as-interface, specious-present, and binding-problem.
+- **Result**: Created ~2000 word concept page covering Baddeley's model, maintenance/manipulation distinction (manipulation requires consciousness), WM as specious present correlate, GWT connections, binding implications, and support for the interface hypothesis.
+- **Output**: Created `concepts/working-memory.md`
+
+### ✓ 2026-01-17: Cross-review mental-effort.md with working memory research
+- **Type**: cross-review
+- **Notes**: Research in consciousness-working-memory-2026-01-17.md shows that WM manipulation (as opposed to mere maintenance) requires consciousness. This connects to the phenomenology of mental effort—effortful cognition may be precisely conscious manipulation of WM contents. Check mental-effort.md for integration.
+- **Result**: Added "Working Memory Manipulation" subsection explaining how the maintenance/manipulation distinction supports the interface hypothesis. Passive storage is unconscious; active manipulation requires consciousness—matching Stapp's quantum Zeno predictions.
+- **Output**: Updated `concepts/mental-effort.md`
 
 ### ✓ 2026-01-18: Cross-review specious-present.md with working memory research
 - **Type**: cross-review

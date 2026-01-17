@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-17 19:00:00+00:00
+ai_modified: 2026-01-17 14:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,16 +44,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-17
 
-### P2: Cross-review attention.md with working memory research
-- **Type**: cross-review
-- **Notes**: Research in consciousness-working-memory-2026-01-17.md develops the WM-attention bidirectional relationship. Review concepts/attention.md to strengthen the interface hypothesis by showing attention and WM are deeply interlinked—the content of WM can direct attention, and attention determines what enters WM.
-- **Source**: chain (from working memory research)
-- **Generated**: 2026-01-17
-
-### P2: Cross-review specious-present.md with working memory research
-- **Type**: cross-review
-- **Notes**: Research in consciousness-working-memory-2026-01-17.md proposes WM as neural correlate of the specious present. The 100ms-5s experienced moment corresponds to WM maintenance capacity. Review concepts/specious-present.md to add this connection.
-- **Source**: chain (from working memory research)
+### P2: Research semantic memory and consciousness
+- **Type**: research-topic
+- **Notes**: Autonoetic consciousness (episodic memory) is now well-covered. Semantic memory (general knowledge) has its own consciousness implications: noetic awareness, tip-of-the-tongue phenomenology, conceptual understanding. How does semantic memory relate to cognitive phenomenology? Does semantic retrieval involve irreducible phenomenology or is it more automatic?
+- **Source**: gap_analysis
 - **Generated**: 2026-01-17
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -69,6 +63,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Create concept page on working memory and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in consciousness-working-memory-2026-01-17.md. WM may provide the neural correlate of the specious present (100ms-5s temporal integration). Key themes: episodic buffer binding, activity-silent maintenance vs conscious manipulation, WM-attention bidirectionality, bandwidth constraint (~10 bits/sec). Would connect attention-as-interface, specious-present, and binding-problem.
+- **Result**: Created ~2000 word concept page covering Baddeley's model, maintenance/manipulation distinction (manipulation requires consciousness), WM as specious present correlate, GWT connections, binding implications, and support for the interface hypothesis.
+- **Output**: Created `concepts/working-memory.md`
+
+### ✓ 2026-01-17: Cross-review mental-effort.md with working memory research
+- **Type**: cross-review
+- **Notes**: Research in consciousness-working-memory-2026-01-17.md shows that WM manipulation (as opposed to mere maintenance) requires consciousness. This connects to the phenomenology of mental effort—effortful cognition may be precisely conscious manipulation of WM contents. Check mental-effort.md for integration.
+- **Result**: Added "Working Memory Manipulation" subsection explaining how the maintenance/manipulation distinction supports the interface hypothesis. Passive storage is unconscious; active manipulation requires consciousness—matching Stapp's quantum Zeno predictions.
+- **Output**: Updated `concepts/mental-effort.md`
+
+### ✓ 2026-01-18: Cross-review specious-present.md with working memory research
+- **Type**: cross-review
+- **Notes**: Research in consciousness-working-memory-2026-01-17.md proposes WM as neural correlate of the specious present. The 100ms-5s experienced moment corresponds to WM maintenance capacity. Review concepts/specious-present.md to add this connection.
+- **Result**: Added "Working Memory as Neural Correlate" section connecting 100ms-5s experienced moment to WM capacity, temporal bridge function (Baddeley quote), episodic buffer binding, bandwidth constraint (~10 bits/second), and manipulation-requires-consciousness finding. The specious present may be what WM feels like from inside.
+- **Output**: Updated `concepts/specious-present.md`
+
+### ✓ 2026-01-18: Cross-review attention.md with working memory research
+- **Type**: cross-review
+- **Notes**: Research in consciousness-working-memory-2026-01-17.md develops the WM-attention bidirectional relationship. Review concepts/attention.md to strengthen the interface hypothesis by showing attention and WM are deeply interlinked—the content of WM can direct attention, and attention determines what enters WM.
+- **Result**: Added "Working Memory and the Interface" section covering bidirectional loop (WM directs attention, attention fills WM), bandwidth constraint (~10 bits/second matching WM capacity), manipulation vs maintenance distinction (manipulation requires consciousness), executive vs content dissociation (COGITATE results). WM may be consciousness's "holding space."
+- **Output**: Updated `concepts/attention.md`
 
 ### ✓ 2026-01-17: Research consciousness and working memory
 - **Type**: research-topic

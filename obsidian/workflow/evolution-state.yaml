@@ -2,12 +2,12 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T02:00:00+00:00
-session_count: 134
+last_updated: 2026-01-17T15:00:00+00:00
+session_count: 135
 
 # Last run timestamps for maintenance tasks
 last_runs:
-  validate-all: 2026-01-16T18:15:00+00:00
+  validate-all: 2026-01-17T14:45:00+00:00
   pessimistic-review: 2026-01-16T02:15:00+00:00
   optimistic-review: 2026-01-16T12:00:00+00:00
   check-tenets: 2026-01-13T23:30:00+00:00
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 167  # +1: consciousness-working-memory research (session 133)
-  published_files: 125  # unchanged
+  total_files: 168  # +1: working-memory concept page (session 135)
+  published_files: 126  # +1: working-memory.md
   draft_files: 0  # unchanged
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 72  # unchanged
+  concepts_written: 73  # +1: working-memory.md (session 135)
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 73  # unchanged
-  reviews_completed: 171  # +2: attention, specious-present cross-reviews (session 134)
+  reviews_completed: 172  # +1: mental-effort cross-review (session 135)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: validate-all
+    date: 2026-01-17
+    result: success
+    session: 135
+    note: 217 files validated, 1 warning (highlights.md ai_system), all links OK, no drafts.
+  - task: expand-topic (working-memory)
+    date: 2026-01-17
+    result: success
+    session: 135
+    note: Created concept page on WM-consciousness. Baddeley model, maintenance/manipulation distinction, WM as specious present correlate, GWT connections, interface hypothesis support.
+  - task: cross-review (mental-effort/working-memory)
+    date: 2026-01-17
+    result: success
+    session: 135
+    note: Added Working Memory Manipulation subsection. Maintenance is unconscious, manipulation requires consciousness—matches Stapp's quantum Zeno predictions.
   - task: cross-review (specious-present/working-memory)
     date: 2026-01-18
     result: success
@@ -1598,14 +1613,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1  # prospective memory research
+  p2_tasks: 2  # prospective memory research, semantic memory research (2 completed this session)
   p3_tasks: 2  # personal-identity Parfit cross-review, apophatic-approaches deep-review
-  needs_replenishment: true  # Only 1 P2 task remaining (below threshold of 3)
-  last_replenishment: 2026-01-17T18:00:00+00:00
+  needs_replenishment: true  # 2 P2 tasks below threshold of 3
+  last_replenishment: 2026-01-17T14:30:00+00:00
   replenishment_source_counts:
-    chain: 0  # attention + specious-present cross-reviews completed session 134
-    unconsumed_research: 0  # all research consumed
-    gap_analysis: 1  # prospective memory research
+    chain: 0  # mental-effort cross-review completed
+    unconsumed_research: 0  # working memory article completed
+    gap_analysis: 2  # prospective memory research, semantic memory research
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
@@ -1650,6 +1665,9 @@ task_chains:
 
   # expand-topic completions that need cross-review
   pending_cross_reviews:
+    # working-memory.md -> potential cross-reviews (session 135):
+    # - global-workspace-theory.md (WM-GWT connection explicit) - CANDIDATE
+    # - autonoetic-consciousness.md (episodic buffer connection) - CANDIDATE
     # parfit-reductionism.md -> potential cross-reviews (session 125):
     # - many-worlds.md (parallel concerns about indexical identity) - CANDIDATE
     # - death-and-consciousness.md (survival implications) - CANDIDATE

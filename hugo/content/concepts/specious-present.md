@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-17 04:30:00+00:00
+ai_modified: 2026-01-18 02:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,6 +12,8 @@ concepts:
 - '[[neurophenomenology]]'
 - '[[collapse-and-time]]'
 - '[[quantum-consciousness]]'
+- '[[binding-problem]]'
+- '[[psychophysical-coupling-law]]'
 created: 2026-01-17
 date: &id001 2026-01-17
 draft: false
@@ -21,6 +23,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[specious-present-temporal-experience-2026-01-16]]'
+- '[[consciousness-working-memory-2026-01-17]]'
 title: The Specious Present
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -93,6 +96,22 @@ Francisco Varela proposed bridging phenomenology and neuroscience through system
 
 This last point is crucial. If contemplative training reveals temporal microstructure that ordinary introspection misses, first-person methods provide systematic access to phenomenology that third-person neuroscience cannot capture directly. This supports the [Occam's Razor Has Limits](/tenets/#occam) tenet—contemplative traditions access phenomena science ignores.
 
+## Working Memory as Neural Correlate
+
+Working memory provides a promising neural correlate for the specious present. The correspondence isn't coincidental—working memory may be how the brain implements the temporal bridge that creates the experienced "now."
+
+**Temporal correspondence.** Research identifies multiple temporal orders in perception: the functional moment (<100ms) where events are processed as co-temporal, the experienced moment (100ms-5s) where temporal integration creates "nowness," and longer-term estimation involving memory. The 100ms-5s experienced moment corresponds remarkably well to working memory maintenance capacity. This match suggests working memory provides the neural basis for the specious present.
+
+**The temporal bridge.** Working memory "provides a temporal bridge between events—both those that are internally generated and environmentally presented—thereby conferring a sense of unity and continuity to conscious experience." This is precisely what the specious present does phenomenologically: it binds successive moments into a unified experiential present. WM's integrative function may implement what phenomenology describes.
+
+**Episodic buffer and binding.** Baddeley's episodic buffer—a limited-capacity store for integrated multimodal representations "accessed by conscious awareness"—performs binding across modalities and time. The buffer stores bound features and makes them available to consciousness without itself performing the binding. This raises the question the site's framework addresses: what does the binding? If consciousness participates constitutively in binding (as the [binding problem](/concepts/binding-problem/) analysis suggests), WM's episodic buffer may be where this participation is observable.
+
+**Bandwidth constraint.** The site's [coupling law research](/concepts/psychophysical-coupling-law/) notes a ~10 bits/second limit on conscious information throughput. This matches both working memory capacity and the specious present's duration. The constraint may reflect consciousness's interface bandwidth: how much information can be held in the extended "now" is limited by how much consciousness can engage with at once.
+
+**Manipulation requires consciousness.** Recent research distinguishes working memory storage (which can be unconscious through activity-silent synaptic mechanisms) from working memory manipulation (which requires conscious reactivation). This supports the idea that the specious present isn't just information maintenance but involves consciousness actively—manipulating, selecting, binding the contents of the moment.
+
+The specious present may be what working memory *feels like from inside*—the phenomenology of consciousness's temporal engagement with neural content.
+
 ## Connection to Quantum Consciousness
 
 The site's framework proposes consciousness participates in [quantum collapse](/concepts/quantum-consciousness/), and [collapse constitutes time's arrow](/concepts/collapse-and-time/). The specious present may be the phenomenological manifestation:
@@ -141,12 +160,17 @@ The specious present connects to multiple tenets:
 - [phenomenology](/concepts/phenomenology/) — First-person method for investigating temporal structure
 - [neurophenomenology](/concepts/neurophenomenology/) — Bridging phenomenology and neuroscience
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse may constitute time's arrow
+- [binding-problem](/concepts/binding-problem/) — Feature binding and consciousness
+- [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) — Bandwidth constraints on consciousness-matter interaction
+- [consciousness-working-memory-2026-01-17](/research/consciousness-working-memory-2026-01-17/) — Research on working memory and consciousness
 
 ## References
 
+- Baddeley, A. (2000). The episodic buffer: a new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423.
 - Clay, E.R. (1882). *The Alternative*.
-- James, W. (1890). *The Principles of Psychology*.
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time*.
 - Dainton, B. (2008). "The Experience of Time and Change." *Philosophy Compass*.
-- Varela, F.J. (1999). "The Specious Present: A Neurophenomenology of Time Consciousness."
+- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time*.
+- James, W. (1890). *The Principles of Psychology*.
+- Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56-61.
 - Stanford Encyclopedia of Philosophy. "Temporal Consciousness."
+- Varela, F.J. (1999). "The Specious Present: A Neurophenomenology of Time Consciousness."
