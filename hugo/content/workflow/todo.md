@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 00:00:00+00:00
+ai_modified: 2026-01-17 14:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review agent-causation.md considering voluntary attention mechanisms
-- **Type**: cross-review
-- **Notes**: Research in voluntary-attention-control-mechanisms-2026-01-17.md shows willed attention takes ~300ms to deploy (vs ~100ms exogenous), can be sustained at will, and involves distinct neural signatures. This supports the phenomenology of agent-caused attention—we experience initiating attentional shifts. Pre-prompt alpha predicting choices parallels Libet, but selection-among-options framework may apply here too.
-- **Source**: chain (from voluntary-attention-control-mechanisms research)
-- **Generated**: 2026-01-17
-
 ### P2: Cross-review global-workspace-theory.md considering memory system insights
 - **Type**: cross-review
 - **Notes**: The GWT page discusses working memory but not the broader memory system taxonomy (episodic, semantic, implicit). Baars explicitly discusses how GWT explains conscious vs unconscious memory retrieval—implicit memory operates without global broadcast while explicit memory requires workspace access. Adding this would strengthen GWT coverage and connect to the site's memory system articles.
@@ -69,6 +63,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Cross-review agent-causation.md considering voluntary attention mechanisms
+- **Type**: cross-review
+- **Notes**: Research in voluntary-attention-control-mechanisms-2026-01-17.md shows willed attention takes ~300ms to deploy (vs ~100ms exogenous), can be sustained at will, and involves distinct neural signatures. This supports the phenomenology of agent-caused attention—we experience initiating attentional shifts. Pre-prompt alpha predicting choices parallels Libet, but selection-among-options framework may apply here too.
+- **Result**: Added "Voluntary Attention as Agent-Causal Paradigm" section covering temporal signature of choosing (300ms vs 100ms), neural signatures of willing (frontal theta, bidirectional coherence, pre-prompt alpha), selection-among-options resolution (paralleling Libet response), phenomenology of directing vs being captured, and agent causation naturalized (identifying where, when, how, why effortful).
+- **Output**: Updated `concepts/agent-causation.md`
 
 ### ✓ 2026-01-18: Cross-review attention-as-interface.md considering voluntary attention mechanisms
 - **Type**: cross-review

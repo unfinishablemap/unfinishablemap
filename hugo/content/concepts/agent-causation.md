@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-18 00:30:00+00:00
+ai_modified: 2026-01-17 14:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
 - '[[implicit-memory]]'
+- '[[attention-as-interface]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 draft: false
@@ -19,6 +20,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[agent-causation-libertarian-free-will-2026-01-14]]'
+- '[[voluntary-attention-control-mechanisms-2026-01-17]]'
 title: Agent Causation
 topics:
 - '[[free-will]]'
@@ -116,6 +118,55 @@ This matters for agent causation's metaphysics. The agent—the substance exerci
 
 The agent remains the source. They trained the skill, they sustain the embodied context within which it executes, and they retain the capacity to re-engage—as choking demonstrates. Delegation presupposes a delegator.
 
+## Voluntary Attention as Agent-Causal Paradigm
+
+If agent causation is real, we should find its clearest expression in cases where consciousness initiates action without external prompting. [Voluntary attention](/concepts/attention-as-interface/)—choosing where to direct awareness—provides exactly this paradigm case. Recent neuroscience distinguishes "willed attention" (internally chosen) from "instructed attention" (externally cued), finding distinct neural signatures for genuine decision-making.
+
+### The Temporal Signature of Choosing
+
+Endogenous (voluntary) attention takes approximately 300ms to deploy fully, compared to 100ms for exogenous (automatic) capture. This slower deployment time isn't inefficiency—it reflects decision processes. The additional 200ms corresponds to frontal theta oscillations (~500ms post-cue) that mark genuine choosing rather than reflexive response.
+
+Crucially, voluntary attention can be sustained at will. Exogenous capture is transient, generating "inhibition of return" after ~300ms—the brain actively suppresses the captured location. But willed attention maintains focus as long as the agent continues engaging. This sustained character matches what agent causation predicts: the agent actively maintains the causal engagement.
+
+### Neural Signatures of Willing
+
+Research reveals three neural components specific to willed attention:
+
+1. **Frontal theta oscillations**: When participants choose where to attend (rather than following instructions), frontal theta power increases—marking the decision process itself
+2. **Bidirectional frontoparietal coherence**: Information flows both ways between frontal executive regions and parietal attention control areas during willed attention, consistent with genuine feedback rather than one-way command
+3. **Pre-prompt alpha states**: Ongoing neural activity predicts subsequent free choices, raising the question of whether "choice" is merely post-hoc rationalization
+
+The third finding parallels the [Libet experiments](/concepts/libet-experiments/): if neural states predict choices before awareness, where is the agent?
+
+### The Selection-Among-Options Resolution
+
+The site's framework accommodates predictive neural states through the selection-among-options model. Pre-prompt alpha activity doesn't generate choices from nothing—it establishes the options available for selection. Stochastic neural fluctuations create a menu; consciousness selects from that menu.
+
+This differs from both:
+- **Libertarian ex nihilo**: Choice created from nothing (vulnerable to luck objection)
+- **Deterministic reduction**: Choice as inevitable outcome of prior states
+
+Instead: prior neural states constrain possibilities; consciousness selects among real alternatives. The agent is source of the selection even if not source of the options.
+
+The 300ms deployment time becomes interpretable: consciousness needs that duration to engage with the prepared options and make selection effective. This matches Stapp's quantum Zeno mechanism, where sustained observation influences outcome probabilities—observation that takes time to have causal effect.
+
+### The Phenomenology of Directing vs Being Captured
+
+First-person experience distinguishes willed from captured attention. When a loud noise draws attention, there's a sense of being *pulled*—you didn't do it, it happened to you. When you choose to focus on a difficult text, you experience *directing*—active engagement that feels like it originates from you.
+
+This phenomenological distinction maps onto the neural distinction between ventral (capture) and dorsal (voluntary) attention networks. The experience of agency corresponds to actual mechanistic differences in how attention is deployed. Agent causation predicts exactly this: there should be phenomenological markers of genuine agency that correspond to real causal differences.
+
+### Agent Causation Naturalized
+
+The voluntary attention literature provides something agent-causal philosophy traditionally lacked: naturalistic mechanism. Rather than positing "irreducible substance causation" as primitive, we can identify:
+
+- **Where**: Frontal cortex decision regions, with thalamus as relay between top-down and bottom-up signals
+- **When**: The 300ms deployment window and sustained engagement period
+- **How**: Theta oscillations mediating frontoparietal communication
+- **Why effortful**: Sustained engagement requires continuous activity maintenance
+
+This doesn't reduce consciousness to neural activity—the hard problem remains. But it shows how agent causation integrates with rather than floats above neuroscience. The agent acts *through* attention networks, leaving distinctive signatures of genuine decision-making.
+
 ## Relation to Site Perspective
 
 Agent causation is the philosophical tradition to which this site belongs. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—that consciousness causally influences the physical world—is a claim of agent causation: the conscious subject, as substance, causes physical events.
@@ -134,7 +185,9 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main 
 - [mental-effort](/concepts/mental-effort/) — The phenomenology supporting agent causation
 - [retrocausality](/concepts/retrocausality/) — How atemporal selection deepens sourcehood
 - [implicit-memory](/concepts/implicit-memory/) — Skill delegation, choking phenomenon, and evidence for causal efficacy
+- [attention-as-interface](/concepts/attention-as-interface/) — How attention may be consciousness's causal pathway
 - [agent-causation-libertarian-free-will-2026-01-14](/research/agent-causation-libertarian-free-will-2026-01-14/) — Detailed research notes
+- [voluntary-attention-control-mechanisms-2026-01-17](/research/voluntary-attention-control-mechanisms-2026-01-17/) — Neural signatures of willed attention
 
 ## References
 

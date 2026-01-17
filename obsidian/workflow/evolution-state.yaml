@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T00:00:00+00:00
-session_count: 151
+last_updated: 2026-01-17T14:30:00+00:00
+session_count: 152
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 77  # +1: voluntary-attention-control-mechanisms (session 149)
-  reviews_completed: 189  # +1: cross-review attention-as-interface/voluntary-attention (session 151)
+  reviews_completed: 190  # +1: cross-review agent-causation/voluntary-attention (session 152)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (agent-causation/voluntary-attention)
+    date: 2026-01-17
+    result: success
+    session: 152
+    note: Added Voluntary Attention as Agent-Causal Paradigm section. 300ms deployment as decision time, frontal theta and bidirectional coherence signatures. Selection-among-options resolution (pre-prompt alpha parallels Libet). Phenomenology of directing vs captured. Agent causation naturalized—where, when, how, why effortful.
   - task: cross-review (attention-as-interface/voluntary-attention)
     date: 2026-01-18
     result: success
