@@ -3,7 +3,7 @@ title: "Working Memory and Consciousness"
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-17T14:40:00+00:00
+ai_modified: 2026-01-17T23:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,8 @@ concepts:
   - "[[specious-present]]"
   - "[[global-workspace-theory]]"
   - "[[binding-problem]]"
+  - "[[semantic-memory]]"
+  - "[[autonoetic-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-working-memory-2026-01-17]]"
@@ -90,6 +92,44 @@ The prefrontal-parietal network serves as the broadcasting hub. However, the 202
 
 This aligns with the site's framework. Attention-as-interface operates between consciousness and neural machinery. WM control (prefrontal) executes manipulation, while conscious content (posterior) is what's manipulated. The interface is the connection point.
 
+## Semantic Retrieval and Working Memory
+
+[[semantic-memory|Semantic memory]]—factual knowledge accessed without re-experiencing its acquisition—engages working memory during retrieval in distinctive ways. The relationship illuminates both the maintenance/manipulation distinction and the border between noetic and autonoetic consciousness.
+
+### Tip-of-the-Tongue and the Phonological Loop
+
+The tip-of-the-tongue (TOT) phenomenon reveals WM's role in semantic retrieval. When you can't quite retrieve a word but feel it's *almost* there—knowing its first letter, syllable count, and related concepts—you're actively manipulating partial phonological representations in the phonological loop. The frustration of TOT is the phenomenology of effortful manipulation: consciousness is working to assemble a complete representation from fragmentary activation.
+
+Research shows TOT involves:
+- **Partial activation** of the target word's phonology (maintained in WM)
+- **Active search** through semantic associates (manipulation)
+- **Verification** when candidates emerge (conscious comparison)
+
+This explains why TOT feels effortful—it's WM manipulation, which requires consciousness. The "pop" phenomenon when the word finally arrives may represent successful binding in the episodic buffer, allowing consciousness to access the complete representation without further manipulation.
+
+### Remember/Know and Maintenance/Manipulation
+
+The remember/know paradigm from memory research maps onto WM's maintenance/manipulation distinction:
+
+| Memory Response | WM Operation | Consciousness |
+|-----------------|--------------|---------------|
+| **Know** (noetic) | Maintenance-like | Minimal—fact just "there" |
+| **Remember** (autonoetic) | Manipulation-like | Full—active scene reconstruction |
+
+When you *know* something—"Paris is in France"—retrieval resembles passive maintenance. The fact is available without active work, just as maintained WM content persists without conscious effort. This is noetic consciousness: awareness of knowing without temporal self-projection.
+
+When you *remember* something—reliving your first day in Paris—retrieval involves active manipulation. You must bind multimodal features (sights, sounds, emotions) into a coherent scene, manipulate perspective (then vs. now), and hold the reconstructed episode in the episodic buffer. This is [[autonoetic-consciousness|autonoetic consciousness]]: effortful, consciousness-requiring mental time travel.
+
+The parallel suggests a deeper unity: noetic and autonoetic consciousness may map onto different WM operations applied to the same underlying memory systems.
+
+### Semanticization and Maintenance Efficiency
+
+Over time, episodic memories "semanticize"—losing autonoetic richness while retaining informational content. You know you visited Paris on your honeymoon but can no longer re-experience specific moments. This transformation may reflect optimization for maintenance efficiency.
+
+Semantic knowledge requires minimal WM resources to access. Facts are pre-bound, pre-consolidated, requiring only maintenance-like retrieval. Episodic memories, by contrast, require active reconstruction—manipulation-heavy retrieval that taxes WM capacity. Semanticization reduces the retrieval burden, but at the cost of phenomenological richness.
+
+This trade-off has implications for the site's framework. If consciousness participates more in manipulation than maintenance, then semanticized memories are less consciousness-intensive to access. The phenomenal depth of autonoetic experience correlates with WM demands. As memories become more "computational" (semantic), they become less phenomenally vivid—precisely what dualist intuitions would predict.
+
 ## Connection to Binding
 
 WM binding in the episodic buffer resembles perceptual binding:
@@ -137,6 +177,8 @@ Working memory research supports key positions:
 
 ## Further Reading
 
+- [[semantic-memory]] — Noetic consciousness and the phenomenology of semantic retrieval
+- [[autonoetic-consciousness]] — Mental time travel and the episodic buffer
 - [[attention]] — The attention-consciousness relationship and dissociation evidence
 - [[attention-as-interface]] — Attention as the causal bridge between consciousness and neural systems
 - [[mental-effort]] — The phenomenology of effortful cognition and Stapp's quantum Zeno mechanism
@@ -144,7 +186,6 @@ Working memory research supports key positions:
 - [[temporal-consciousness]] — How consciousness constitutes time experience
 - [[binding-problem]] — The unity problem in both perception and memory
 - [[global-workspace-theory]] — GWT's parallels between WM and conscious access
-- [[autonoetic-consciousness]] — Mental time travel and the episodic buffer
 - [[consciousness-working-memory-2026-01-17]] — Detailed research notes
 
 ## References
