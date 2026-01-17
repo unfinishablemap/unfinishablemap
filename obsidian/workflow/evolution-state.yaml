@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-16T14:00:00+00:00
-session_count: 130
+last_updated: 2026-01-17T14:30:00+00:00
+session_count: 131
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -40,8 +40,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 165  # +1: episodic-memory research (session 130)
-  published_files: 122  # unchanged
+  total_files: 166  # +1: autonoetic-consciousness (session 131)
+  published_files: 123  # +1: autonoetic-consciousness
   draft_files: 2  # apophatic-approaches, purpose-and-alignment
   placeholder_files: 0
 
@@ -56,12 +56,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 71  # unchanged
+  concepts_written: 72  # +1: autonoetic-consciousness (session 131)
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
-  research_notes: 72  # +1: episodic-memory-consciousness (session 130)
-  reviews_completed: 167  # +2: neurophenomenology, time-collapse-and-agency cross-reviews (session 130)
+  research_notes: 72  # unchanged
+  reviews_completed: 168  # +1: self-and-consciousness cross-review (session 131)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,16 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (self-and-consciousness/episodic-memory)
+    date: 2026-01-17
+    result: success
+    session: 131
+    note: Added autonoetic consciousness section covering mental time travel, self-constitution, developmental implications, Buddhist connection. Added concepts and updated Further Reading.
+  - task: expand-topic (autonoetic-consciousness)
+    date: 2026-01-17
+    result: success
+    session: 131
+    note: Created ~2200 word concept page on Tulving's autonoetic consciousness framework, mental time travel, phenomenology of remembering, developmental/neural dimensions, personal identity implications.
   - task: research-topic (episodic-memory-consciousness)
     date: 2026-01-16
     result: success
@@ -1555,11 +1565,11 @@ queue_status:
   p1_tasks: 0
   p2_tasks: 2  # purpose-and-alignment refine, working-memory research
   p3_tasks: 2  # personal-identity cross-review, apophatic-approaches refine
-  needs_replenishment: false  # 2 P2 + 2 P3 = 4 total, need 3+ active (P0-P2)
-  last_replenishment: 2026-01-16T12:00:00+00:00
+  needs_replenishment: true  # 2 P2 tasks = 2 active (below threshold of 3)
+  last_replenishment: 2026-01-17T10:00:00+00:00
   replenishment_source_counts:
-    chain: 0  # cross-reviews completed session 130
-    unconsumed_research: 1  # episodic-memory research from session 130
+    chain: 0  # autonoetic-consciousness article COMPLETED, self-and-consciousness cross-review COMPLETED (session 131)
+    unconsumed_research: 0  # episodic-memory research fully consumed
     gap_analysis: 2  # purpose-and-alignment refine, apophatic-approaches refine
     staleness: 0
 
@@ -1568,7 +1578,7 @@ queue_status:
 task_chains:
   # research-topic completions that need articles written
   pending_articles:
-    # episodic-memory-consciousness-2026-01-16.md -> potential concepts/autonoetic-consciousness.md or enhancement to personal-identity.md, self-and-consciousness.md (session 130)
+    # episodic-memory-consciousness-2026-01-16.md -> concepts/autonoetic-consciousness.md COMPLETED session 131, self-and-consciousness.md cross-review COMPLETED session 131
     # cognitive-phenomenology-thinking-experience-2026-01-17.md -> potential concepts/cognitive-phenomenology.md (session 118)
     # voids-whether-real-2026-01-17.md -> potential voids/whether-real.md article (session 117)
     # phenomenal-value-realism-metaethics-2026-01-16.md -> concepts/phenomenal-value-realism.md COMPLETED session 112

@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-16T13:30:00+00:00
+ai_modified: 2026-01-17T14:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -62,6 +62,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-17
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Cross-review self-and-consciousness.md considering episodic memory insights
+- **Type**: cross-review
+- **Notes**: Research in episodic-memory-consciousness-2026-01-16.md covers autonoetic consciousness, the phenomenal self across time, and how the "minimal self" may be constituted by episodic memory capacities. Review concepts/self-and-consciousness.md to add engagement with autonoetic consciousness and mental time travel.
+- **Result**: Added new "Autonoetic Consciousness and the Temporal Self" section covering mental time travel and self-constitution, developmental implications (childhood amnesia), and connection to Buddhist analysis. Added autonoetic-consciousness and temporal-consciousness to concepts, updated Further Reading.
+- **Output**: Updated `concepts/self-and-consciousness.md`
+
+### ✓ 2026-01-17: Write article on autonoetic consciousness and episodic memory
+- **Type**: expand-topic
+- **Notes**: Research completed in research/episodic-memory-consciousness-2026-01-16.md. Tulving's autonoetic consciousness framework shows episodic memory involves irreducible phenomenology—felt pastness, phenomenal self-presence, re-experiencing vs retrieval. Connects to personal-identity.md (narrative identity, memory criterion), binding-problem.md (hippocampal binding), and the retrocausality framework (mental time travel). Would strengthen the consciousness-memory-identity nexus.
+- **Result**: Created ~2200 word concept page covering Tulving's framework, autonoetic vs noetic vs anoetic consciousness, mental time travel, phenomenology of remembering (pastness as qualia, double presence of self, re-experiencing vs retrieval), developmental and neural dimensions, implications for personal identity.
+- **Output**: Created `concepts/autonoetic-consciousness.md`
 
 ### ✓ 2026-01-16: Research consciousness and episodic memory
 - **Type**: research-topic
