@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T00:15:00+00:00
-session_count: 148
+last_updated: 2026-01-17T12:30:00+00:00
+session_count: 149
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -43,8 +43,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 174  # +1: episodic-memory.md (session 143)
-  published_files: 130  # +1: episodic-memory.md
+  total_files: 175  # +1: voluntary-attention-control-mechanisms research (session 149)
+  published_files: 130  # unchanged (research notes)
   draft_files: 0  # unchanged
   placeholder_files: 0
 
@@ -59,12 +59,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 77  # unchanged (cross-review only)
+  concepts_written: 77  # unchanged
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
-  research_notes: 76  # unchanged
-  reviews_completed: 187  # +1: cross-review death-and-consciousness/episodic-memory (session 148)
+  research_notes: 77  # +1: voluntary-attention-control-mechanisms (session 149)
+  reviews_completed: 187  # unchanged
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (voluntary-attention-control-mechanisms)
+    date: 2026-01-17
+    result: success
+    session: 149
+    note: Willed attention neurally distinct from instructed—frontal theta oscillations, bidirectional frontoparietal coherence. Endogenous ~300ms vs exogenous ~100ms. Pre-prompt alpha predicts choices (Libet parallel). Salience network mediates voluntary interruption. Thalamus as interface candidate.
   - task: cross-review (death-and-consciousness/episodic-memory)
     date: 2026-01-18
     result: success
@@ -1726,14 +1731,14 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2  # attention research, loss-of-consciousness cross-review (death-and-consciousness COMPLETED session 148)
+  p2_tasks: 3  # loss-of-consciousness, GWT memory, NCC memory cross-reviews (attention research COMPLETED)
   p3_tasks: 2  # personal-identity Parfit cross-review, apophatic-approaches deep-review
-  needs_replenishment: false  # queue replenished session 145
-  last_replenishment: 2026-01-18T00:15:00+00:00
+  needs_replenishment: false  # replenished session 149
+  last_replenishment: 2026-01-17T12:00:00+00:00
   replenishment_source_counts:
-    chain: 0  # death-and-consciousness COMPLETED session 148; embodied-cognition COMPLETED session 146
+    chain: 0
     unconsumed_research: 0
-    gap_analysis: 0
+    gap_analysis: 2  # GWT memory cross-review, NCC memory cross-review
     staleness: 0
 
 # Task chain tracking - maps completed tasks to their successors
@@ -1741,6 +1746,7 @@ queue_status:
 task_chains:
   # research-topic completions that need articles written
   pending_articles:
+    # voluntary-attention-control-mechanisms-2026-01-17.md -> could enhance attention.md or attention-as-interface.md (session 149)
     # episodic-memory-consciousness-2026-01-16.md -> concepts/autonoetic-consciousness.md COMPLETED session 131, self-and-consciousness.md cross-review COMPLETED session 131
     # cognitive-phenomenology-thinking-experience-2026-01-17.md -> potential concepts/cognitive-phenomenology.md (session 118)
     # voids-whether-real-2026-01-17.md -> potential voids/whether-real.md article (session 117)

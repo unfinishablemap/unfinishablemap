@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 00:15:00+00:00
+ai_modified: 2026-01-17 12:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research attention and voluntary control mechanisms
-- **Type**: research-topic
-- **Notes**: The attention-as-interface hypothesis is now well-developed but the mechanisms of voluntary attention control remain underexplored. How does top-down attention work? What is the phenomenology of effortful attention allocation vs automatic capture? This connects to mental-effort.md and agent-causation.md. Would strengthen the causal arrow from consciousness to brain.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-18
-
-
 ### P2: Cross-review loss-of-consciousness.md considering memory system insights
 - **Type**: cross-review
 - **Notes**: The loss-of-consciousness topic covers anesthesia, coma, and the mind-brain relationship. Anesthesia notably disrupts episodic memory encoding (anterograde amnesia is a key component), while implicit memory (procedural skills) can persist through states of reduced consciousness. This distinction supports the filter theory interpretation—different memory systems may have different interface requirements.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-17
+
+### P2: Cross-review global-workspace-theory.md considering memory system insights
+- **Type**: cross-review
+- **Notes**: The GWT page discusses working memory but not the broader memory system taxonomy (episodic, semantic, implicit). Baars explicitly discusses how GWT explains conscious vs unconscious memory retrieval—implicit memory operates without global broadcast while explicit memory requires workspace access. Adding this would strengthen GWT coverage and connect to the site's memory system articles.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-17
+
+### P2: Cross-review neural-correlates-of-consciousness.md considering memory insights
+- **Type**: cross-review
+- **Notes**: The NCC page could benefit from memory research integration—the hippocampus as NCC for episodic binding, the distinction between content NCCs (what we're conscious of) and enabling NCCs (what makes consciousness possible), and how different memory systems have different NCC requirements. Tulving's autonoetic consciousness requires specific neural substrates.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-17
 
@@ -64,6 +69,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Research attention and voluntary control mechanisms
+- **Type**: research-topic
+- **Notes**: The attention-as-interface hypothesis is now well-developed but the mechanisms of voluntary attention control remain underexplored. How does top-down attention work? What is the phenomenology of effortful attention allocation vs automatic capture? This connects to mental-effort.md and agent-causation.md. Would strengthen the causal arrow from consciousness to brain.
+- **Result**: Comprehensive research on voluntary attention control. Key findings: (1) Willed attention is neurally distinct from instructed attention—engages frontal theta oscillations and bidirectional frontoparietal coherence. (2) Endogenous attention takes ~300ms to deploy vs ~100ms for exogenous, can be sustained at will vs transient. (3) Pre-prompt alpha predicts free choices, raising Libet-style questions but compatible with selection-among-options framework. (4) Salience network (anterior insula, ACC) mediates voluntary interruption and network switching. (5) Thalamus serves as relay between ascending sensory and descending voluntary signals—potential interface site.
+- **Output**: Created `research/voluntary-attention-control-mechanisms-2026-01-17.md`
 
 ### ✓ 2026-01-18: Cross-review death-and-consciousness.md considering episodic memory insights
 - **Type**: cross-review
