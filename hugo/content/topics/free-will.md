@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-17 12:30:00+00:00
+ai_modified: 2026-01-17 21:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,6 +16,8 @@ concepts:
 - '[[mental-causation]]'
 - '[[causal-closure]]'
 - '[[moral-responsibility]]'
+- '[[prospective-memory]]'
+- '[[autonoetic-consciousness]]'
 created: 2026-01-08
 date: &id001 2026-01-13
 draft: false
@@ -225,6 +227,35 @@ A framework that explains too much risks explaining nothing. What findings would
 
 The framework is not unfalsifiable. It makes commitments that empirical findings could undermine. That they haven't yet is evidence—not proof—that the picture captures something real.
 
+## Prospective Memory and Intention Formation
+
+The discussion so far focuses on proximal choice—the immediate decision to act. But [prospective memory](/concepts/prospective-memory/) introduces a crucial distinction: most voluntary action involves *distal* intentions formed earlier and maintained over time.
+
+### Distal Intentions Bypass the Libet Problem
+
+When you decide on Monday to attend a meeting on Friday, that distal intention causally contributes to your arrival regardless of what happens in the final moments before you walk through the door. Libet's experiments measured *proximal* intentions—the immediate decision to move now. But most significant human actions don't originate in such moments. They emerge from intentions formed hours, days, or years earlier.
+
+Even if proximal motor commands involve automatic processes, the distal intention that shaped the trajectory was consciously formed. The agent causes behaviour through intentions they consciously construct, even if final execution is automatic. The libertarian needn't claim consciousness intervenes at every motor command—what matters is that conscious planning participates in shaping action.
+
+### The "Pop" Phenomenon and Volition
+
+Prospective memory research reveals a striking feature: intentions spontaneously "pop" into awareness at appropriate moments. You're walking home thinking about something else, and suddenly "buy milk" appears unbidden. Einstein and McDaniel identified two retrieval routes—conscious monitoring and spontaneous retrieval—with the latter being automatic and cue-triggered.
+
+This parallels the phenomenology of volition. Both involve something emerging into consciousness that feels both surprising and owned. The "pop" of a prospective intention resembles the arising of a decision: not the product of explicit reasoning yet somehow authentically yours. If intentions can be consciously formed, held unconsciously, and retrieved automatically at appropriate moments, this suggests consciousness participates in shaping action through a complex temporal structure rather than moment-by-moment intervention.
+
+### Future Simulation as Causal Engagement
+
+Research shows that [episodic future thinking](/concepts/prospective-memory/#episodic-future-thinking) (EFT)—vividly imagining future scenarios—causally influences present decisions:
+
+- Reduces temporal discounting (future rewards valued more highly)
+- Decreases impulsive decision-making
+- Improves goal-directed behaviour
+- Enhances delay of gratification
+
+If conscious simulation of future scenarios shapes present choices, consciousness participates in directing action exactly as the site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet proposes. Mental representations of possible futures alter behavioural trajectories. This is mental causation in action.
+
+Patient KC provides striking evidence: after brain damage affecting episodic memory systems, he lost both pastward and futureward mental time travel. When asked what he would do tomorrow, his mind was "blank." The double deficit confirms that bidirectional temporal projection shares a common foundation—autonoetic consciousness—and that damage to this capacity disrupts both remembering and planning.
+
 ## The Picture That Emerges
 
 Imagine the brain as preparing a superposition of possible action patterns. Neural activity builds, reflecting all possibilities. Then consciousness—operating atemporally at the quantum level—selects which possibility becomes actual. This selection propagates both forward and backward, determining which neural history becomes real.
@@ -239,6 +270,8 @@ This isn't a proof. It's a coherent picture that takes both consciousness and ph
 - [agent-causation](/concepts/agent-causation/) — Agent vs. event causation and why this site's framework is agent-causal
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert differently than compatibilism
 - [libet-experiments](/concepts/libet-experiments/) — The Libet experiments in detail: original findings, critiques, and the retrocausal resolution
+- [prospective-memory](/concepts/prospective-memory/) — How distal intentions and future simulation support agent causation
+- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel in both directions
 - [duration](/concepts/duration/) — Bergson's durée and how creative time enables agency
 - [interactionist-dualism](/arguments/interactionist-dualism/) — The philosophical framework grounding this view
 - [personal-identity](/topics/personal-identity/) — Why *you* are the author of your choices

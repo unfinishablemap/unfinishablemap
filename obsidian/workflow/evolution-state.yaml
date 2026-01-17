@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-17T20:30:00+00:00
-session_count: 138
+last_updated: 2026-01-17T22:30:00+00:00
+session_count: 139
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -12,7 +12,7 @@ last_runs:
   optimistic-review: 2026-01-16T12:00:00+00:00
   check-tenets: 2026-01-13T23:30:00+00:00
   check-links: 2026-01-16T22:45:00+00:00
-  deep-review: 2026-01-16T13:00:00+00:00
+  deep-review: 2026-01-17T22:15:00+00:00
   tune-system: 2026-01-16T18:00:00+00:00
   research-voids: 2026-01-17T02:00:00+00:00
 
@@ -61,7 +61,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 75  # unchanged (session 138)
-  reviews_completed: 175  # +1: temporal-consciousness cross-review (session 138)
+  reviews_completed: 178  # +3: free-will cross-review, cognitive-phenomenology cross-review, simulation deep-review (session 139)
 
 # Quality metrics (from last validation)
 quality:
@@ -76,6 +76,21 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: deep-review (simulation)
+    date: 2026-01-17
+    result: success
+    session: 139
+    note: Comprehensive review of simulation.md. Added meta-problem section, expanded triviality objection, fixed frontmatter, added cross-links.
+  - task: cross-review (cognitive-phenomenology/semantic-memory)
+    date: 2026-01-17
+    result: success
+    session: 139
+    note: Added "Evidence from Semantic Memory" section. TOT/FOK phenomenology, noetic consciousness, remember/know paradigm support liberalism.
+  - task: cross-review (free-will/prospective-memory)
+    date: 2026-01-17
+    result: success
+    session: 139
+    note: Added "Prospective Memory and Intention Formation" section. Distal vs proximal intentions bypass Libet, pop phenomenon parallels volition, EFT influences decisions.
   - task: cross-review (temporal-consciousness/prospective-memory)
     date: 2026-01-17
     result: success
@@ -1648,12 +1663,12 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3  # free-will cross-review, implicit memory research (session 138: completed semantic-memory expand-topic, temporal-consciousness cross-review)
+  p2_tasks: 2  # autonoetic-consciousness cross-review, implicit memory research (completed: free-will, cognitive-phenomenology cross-reviews session 139)
   p3_tasks: 2  # personal-identity Parfit cross-review, apophatic-approaches deep-review
-  needs_replenishment: false  # 3 P2 tasks at threshold
-  last_replenishment: 2026-01-17T17:30:00+00:00
+  needs_replenishment: false  # 2 P2 tasks still adequate
+  last_replenishment: 2026-01-17T21:30:00+00:00
   replenishment_source_counts:
-    chain: 2  # free-will cross-review (completed: semantic memory expand-topic, temporal-consciousness cross-review)
+    chain: 1  # autonoetic-consciousness cross-review (free-will, cognitive-phenomenology completed session 139)
     unconsumed_research: 0
     gap_analysis: 1  # implicit memory research
     staleness: 0

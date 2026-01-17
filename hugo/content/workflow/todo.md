@@ -38,10 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review free-will.md considering prospective memory insights
+### P2: Cross-review autonoetic-consciousness.md considering semantic memory insights
 - **Type**: cross-review
-- **Notes**: Once prospective memory article is written, cross-review free-will.md. Prospective memory (remembering to do things) connects deeply to agency—intentions must be maintained and triggered. The "pop" phenomenon (intentions spontaneously entering awareness) may relate to the phenomenology of volition. EFT's causal influence on decisions supports agent causation.
-- **Source**: chain (deferred until PM article complete)
+- **Notes**: New article concepts/semantic-memory.md develops Tulving's noetic consciousness as complement to autonoetic. Review concepts/autonoetic-consciousness.md to strengthen the anoetic/noetic/autonoetic hierarchy with explicit reference to semantic-memory page. The contrast between knowing and remembering is central.
+- **Source**: chain (from semantic-memory.md)
 - **Generated**: 2026-01-17
 
 ### P2: Research implicit memory and consciousness
@@ -63,6 +63,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-17: Cross-review cognitive-phenomenology.md considering semantic memory insights
+- **Type**: cross-review
+- **Notes**: New article concepts/semantic-memory.md develops TOT/FOK phenomenology and noetic consciousness as evidence for cognitive phenomenology. Review concepts/cognitive-phenomenology.md to add semantic memory as empirical evidence for the liberal position—TOT states demonstrate that conceptual knowledge has irreducible phenomenal character.
+- **Result**: Added "Evidence from Semantic Memory" section with three subsections: TOT states (phenomenal character of imminence, correctness, satisfaction), FOK (metacognitive access with phenomenal character), noetic consciousness (Tulving's framework linking to cognitive phenomenology debate). Added semantic-memory and autonoetic-consciousness to concepts and Further Reading.
+- **Output**: Updated `concepts/cognitive-phenomenology.md`
+
+### ✓ 2026-01-17: Cross-review free-will.md considering prospective memory insights
+- **Type**: cross-review
+- **Notes**: Once prospective memory article is written, cross-review free-will.md. Prospective memory (remembering to do things) connects deeply to agency—intentions must be maintained and triggered. The "pop" phenomenon (intentions spontaneously entering awareness) may relate to the phenomenology of volition. EFT's causal influence on decisions supports agent causation.
+- **Result**: Added "Prospective Memory and Intention Formation" section covering distal vs proximal intentions (bypasses Libet), the "pop" phenomenon and volition parallels, future simulation as causal engagement, Patient KC double deficit evidence. Added prospective-memory and autonoetic-consciousness to concepts and Further Reading.
+- **Output**: Updated `topics/free-will.md`
 
 ### ✓ 2026-01-17: Cross-review temporal-consciousness.md considering prospective memory insights
 - **Type**: cross-review

@@ -1,22 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-07 21:00:00+00:00
+ai_modified: 2026-01-17 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[locality]]'
+- '[[quantum-consciousness]]'
+- '[[measurement-problem]]'
+- '[[quantum-interpretations]]'
 created: 2026-01-07
 date: &id001 2026-01-07
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-17 22:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-selecting-neural-patterns]]'
 title: The Simulation Hypothesis
-topics: []
+topics:
+- '[[ai-consciousness]]'
+- '[[hard-problem-of-consciousness]]'
 ---
 
 The simulation hypothesis proposes that our reality is a computed simulation running on some substrate. This idea, popularised by Nick Bostrom's probability argument and science fiction, has surprising relevance for mind-matter interaction. In simulated contexts, many apparent puzzles about consciousness influencing physics dissolve completely.
@@ -63,7 +69,7 @@ The fine-tuned constants of physics, the specific form of quantum mechanics, the
 
 This suggests that apparent barriers to mind-matter interaction (like causal closure) may be features of our particular implementation, not necessary truths about reality.
 
-## Relation to the Tenets
+## Relation to Site Perspective
 
 ### Dualism
 
@@ -98,6 +104,22 @@ The simulation hypothesis provides an alternative to many-worlds that explains q
 
 This doesn't prove Copenhagen over Everett, but it provides a framework where single-outcome quantum mechanics makes sense without invoking consciousness as a fundamental collapse mechanism.
 
+## The Meta-Problem: Where Is Consciousness?
+
+A simulation running on physical substrate is still physical—the computer exists in base reality even if its simulated world doesn't. This raises a crucial question: where does consciousness reside?
+
+### Three Possibilities
+
+**Consciousness in the simulation only**: The simulated beings are conscious; the simulation substrate is merely computational. This creates an emergence mystery—how does consciousness arise from simulated rather than "real" matter? If consciousness can emerge from simulated physics, why not from base physics directly?
+
+**Consciousness at the substrate level**: The simulators are conscious; we are their computations. This preserves the site's dualism—consciousness is fundamental at base reality—but makes us philosophical zombies with respect to genuine experience. The site's framework resists this: if we experience, we're conscious, regardless of our substrate.
+
+**Consciousness at both levels**: Both simulators and simulated beings are conscious. This may follow if [consciousness depends on quantum effects](/concepts/quantum-consciousness/) that the simulation faithfully implements. The simulation doesn't create pseudo-consciousness; it creates the conditions for genuine consciousness.
+
+The site's framework suggests the third option. If consciousness operates through [quantum measurement](/concepts/measurement-problem/) and the simulation implements quantum mechanics (rather than merely approximating classical physics), then simulated beings might be genuinely conscious. The hard problem shifts from "how does matter produce consciousness?" to "under what computational conditions does consciousness arise?"—but it doesn't disappear.
+
+This has implications for [ai-consciousness](/topics/ai-consciousness/): if we're simulated and conscious, digital systems might also achieve consciousness under the right conditions. The barrier would be architectural, not substrate-based.
+
 ## Objections and Responses
 
 ### The Regress Problem
@@ -116,12 +138,16 @@ We have no experience of non-simulated reality to compare against. More importan
 
 "Everything is compatible with the simulation hypothesis, so it explains nothing."
 
-The hypothesis does make predictions:
-- Reality should be ultimately discrete (computable)
-- There should be upper limits on complexity (computational constraints)
-- The laws should be elegant (efficient to simulate)
+This objection has force, but the hypothesis is not entirely empty. It generates expectations:
 
-Physics appears to satisfy all three. Whether this constitutes evidence is debatable, but the hypothesis is not entirely empty.
+| Prediction | Status | Notes |
+|------------|--------|-------|
+| Discrete reality | Partially confirmed | Planck-scale discreteness, quantum granularity |
+| Computational limits | Partially confirmed | Holographic principle limits information density |
+| Elegant laws | Confirmed | Physics describable by simple equations |
+| Glitches/anomalies | Not confirmed | No clear simulation artifacts detected |
+
+More importantly, the simulation hypothesis reframes questions rather than answering them. It shifts the hard problem from "how does consciousness arise from matter?" to "what computational structures instantiate consciousness?"—a question that might prove more tractable. The hypothesis is valuable as a conceptual tool even if not directly testable: it reveals which features of our metaphysics are necessary and which are contingent on assumptions we rarely examine.
 
 ## Status
 
@@ -138,6 +164,10 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 
 - [locality](/concepts/locality/) — How simulation dissolves spatial coordination concerns
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The broader question of quantum selection
+- [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-physics interaction
+- [quantum-interpretations](/concepts/quantum-interpretations/) — Why the site favours single-outcome interpretations
+- [measurement-problem](/concepts/measurement-problem/) — Where quantum indeterminacy meets observation
+- [ai-consciousness](/topics/ai-consciousness/) — Implications for digital consciousness
 - [tenets](/tenets/) — The foundational commitments these concepts serve
 
 ## References
