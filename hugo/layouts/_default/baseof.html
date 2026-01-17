@@ -50,15 +50,48 @@
         .archive-notice strong { color: #ef4444; }
 
         /* List page table styling */
-        .summary-cell {
+        .title-row {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin-bottom: 0.25rem;
+        }
+        .summary-text {
             font-size: 0.875rem;
             color: var(--pico-muted-color);
-            max-width: 600px;
+            line-height: 1.4;
+        }
+        .summary-text .expand-toggle {
+            color: var(--pico-primary);
+            cursor: pointer;
+            font-size: 0.8rem;
+            margin-left: 0.25rem;
+        }
+        .summary-text .expand-toggle:hover {
+            text-decoration: underline;
+        }
+        .table-controls {
+            display: flex;
+            justify-content: flex-end;
+            margin-bottom: 0.5rem;
+        }
+        .table-controls button {
+            padding: 0.25rem 0.75rem;
+            font-size: 0.875rem;
         }
         table td:nth-child(2),
         table td:nth-child(3) {
             white-space: nowrap;
             font-size: 0.875rem;
+            vertical-align: top;
+        }
+
+        /* Mobile: hide Created column */
+        @media (max-width: 600px) {
+            table th:nth-child(2),
+            table td:nth-child(2) {
+                display: none;
+            }
         }
 
         /* Sortable table headers */
@@ -100,6 +133,51 @@
     <footer class="container">
         <p>&copy; {{ now.Year }} {{ .Site.Title }}. Content is {{ if .Site.Params.showAuthorship }}attributed by source{{ end }}.</p>
     </footer>
+
+    <!-- Summary truncation for list pages -->
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const TRUNCATE_LENGTH = 150;
+        const summaries = document.querySelectorAll('.summary-text');
+        const expandAllBtn = document.getElementById('expand-all-btn');
+        let allExpanded = false;
+
+        summaries.forEach(el => {
+            const fullText = el.textContent.trim();
+            if (fullText.length <= TRUNCATE_LENGTH) return;
+
+            el.dataset.fullText = fullText;
+            el.dataset.expanded = 'false';
+            truncate(el);
+        });
+
+        function truncate(el) {
+            const fullText = el.dataset.fullText;
+            const truncated = fullText.slice(0, TRUNCATE_LENGTH).trim() + '...';
+            el.innerHTML = truncated + ' <span class="expand-toggle">[more]</span>';
+            el.dataset.expanded = 'false';
+            el.querySelector('.expand-toggle').addEventListener('click', () => expand(el));
+        }
+
+        function expand(el) {
+            el.innerHTML = el.dataset.fullText + ' <span class="expand-toggle">[less]</span>';
+            el.dataset.expanded = 'true';
+            el.querySelector('.expand-toggle').addEventListener('click', () => truncate(el));
+        }
+
+        if (expandAllBtn) {
+            expandAllBtn.addEventListener('click', function() {
+                allExpanded = !allExpanded;
+                summaries.forEach(el => {
+                    if (!el.dataset.fullText) return;
+                    if (allExpanded) expand(el);
+                    else truncate(el);
+                });
+                this.textContent = allExpanded ? 'Collapse All' : 'Expand All';
+            });
+        }
+    });
+    </script>
 
     <!-- Mermaid.js for diagrams -->
     <script type="module">
