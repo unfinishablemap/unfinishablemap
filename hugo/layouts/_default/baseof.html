@@ -12,8 +12,19 @@
     <!-- Pico CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
 
-    <!-- Custom authorship styles -->
+    <!-- Custom styles -->
     <style>
+        /* Reduce Pico's default sizing to be more compact */
+        :root {
+            --pico-font-size: 100%;  /* Pico default is 106.25% */
+        }
+        html {
+            font-size: 100%;  /* Override Pico's 106.25% */
+        }
+        h1 { font-size: 2rem !important; }
+        h2 { font-size: 1.5rem !important; }
+        h3 { font-size: 1.25rem !important; }
+
         .authorship {
             font-size: 0.875rem;
             padding: 0.75rem;
