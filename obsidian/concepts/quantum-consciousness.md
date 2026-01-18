@@ -28,6 +28,7 @@ concepts:
   - "[[luck-objection]]"
   - "[[quantum-biology]]"
   - "[[motor-selection]]"
+  - "[[altered-states-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-consciousness-mechanisms-2026-01-08]]"

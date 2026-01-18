@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T08:15:00+00:00
+ai_modified: 2026-01-18T23:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -80,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Write concept page on altered states of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/altered-states-consciousness-2026-01-19.md. Covers psychedelics (REBUS/ALBUS models), anesthesia (thalamic circuits), flow states, hypnosis, meditation, near-death experiences. Filter theory provides unified framework—different states reflect different modes of consciousness-brain interface. Connects to Minimal Quantum Interaction tenet.
+- **Result**: Created ~2000 word concept page covering: Tart's definition, filter theory interpretation of ASCs, psychedelics (REBUS/ALBUS, DMN disruption, Orch OR hypothesis), flow states and transient hypofrontality, hypnosis and agency, meditation and voluntary interface reconfiguration, NDEs. Connected each state type to relevant tenets.
+- **Output**: Created `concepts/altered-states-of-consciousness.md`, updated `concepts/filter-theory.md`, `concepts/quantum-consciousness.md`
 
 ### ✓ 2026-01-19: Research altered states of consciousness
 - **Type**: research-topic
