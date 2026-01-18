@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on meditation and consciousness modes (selector vs witness)
-- **Type**: expand-topic
-- **Notes**: Based on research in meditation-observer-witness-phenomenon-2026-01-18.md. Develop the distinction between consciousness as active selector (FA meditation, quantum Zeno, mental effort) and consciousness as passive witness (OM meditation, sakshi, choiceless awareness). Explain how this extends the site's Bidirectional Interaction tenet—consciousness can both select and observe. Connect to neuroscience (DMN deactivation, PCC, frontal theta differences). Resolve apparent tension with Advaita vedanta's passive witness doctrine.
-- **Source**: chain (from meditation-observer-witness research)
-- **Generated**: 2026-01-18
-
 ### P2: Cross-review attention-as-interface.md considering meditation research
 - **Type**: cross-review
 - **Notes**: Research in meditation-observer-witness-phenomenon-2026-01-18.md reveals FA/OM meditation distinction maps onto effortful vs effortless attention. The attention-as-interface page could integrate meditation as a training regime for the interface—FA strengthens quantum Zeno engagement, OM cultivates disengagement. Add meditation as relevant practice domain.
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Write article on meditation and consciousness modes (selector vs witness)
+- **Type**: expand-topic
+- **Notes**: Based on research in meditation-observer-witness-phenomenon-2026-01-18.md. Develop the distinction between consciousness as active selector (FA meditation, quantum Zeno, mental effort) and consciousness as passive witness (OM meditation, sakshi, choiceless awareness). Explain how this extends the site's Bidirectional Interaction tenet—consciousness can both select and observe. Connect to neuroscience (DMN deactivation, PCC, frontal theta differences). Resolve apparent tension with Advaita vedanta's passive witness doctrine.
+- **Result**: Created ~2300 word concept page developing the selector vs witness distinction. Covered neuroscience of FA vs OM meditation, the Advaita paradox and its resolution, quantum Zeno mechanism in witness mode, Krishnamurti challenge. Extended Bidirectional Interaction tenet to include capacity to suspend selection.
+- **Output**: Created `concepts/meditation-and-consciousness-modes.md`
 
 ### ✓ 2026-01-18: Research meditation and the observer-witness phenomenon
 - **Type**: research-topic
