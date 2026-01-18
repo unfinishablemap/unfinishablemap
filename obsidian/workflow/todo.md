@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T12:00:00+00:00
+ai_modified: 2026-01-19T21:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -80,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Write concept page on emotional consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/emotional-consciousness-valence-2026-01-19.md. Covers the phenomenology and neuroscience of valence (positive/negative felt quality). Key debates: Panksepp vs LeDoux on subcortical vs cortical emotional consciousness; hedonic vs evaluativist accounts of valence; valence as grounds for moral status. Directly supports Dualism (if valence is intrinsic phenomenal property) and Bidirectional Interaction (if valenced states motivate behavior). Connects to phenomenal-value-realism.md, ethics-of-consciousness.md.
+- **Result**: Created ~2000 word concept page covering: valence as the core phenomenon (hedonic vs evaluativist accounts), Panksepp vs LeDoux subcortical-cortical debate, core affect and psychological constructionism, emotional consciousness and moral status (valence sentientism vs broad sentientism), connection to site's tenets (Dualism, Bidirectional Interaction, selection mechanism). Updated phenomenal-value-realism.md and qualia.md with cross-references.
+- **Output**: Created `concepts/emotional-consciousness.md`, updated `concepts/phenomenal-value-realism.md`, `concepts/qualia.md`
 
 ### ✓ 2026-01-18: Write concept page on downward causation
 - **Type**: expand-topic

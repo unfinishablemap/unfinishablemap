@@ -6,6 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[qualia]]'
+- '[[emotional-consciousness]]'
 - '[[panpsychism]]'
 - '[[epiphenomenalism]]'
 - '[[dualism]]'
@@ -164,6 +165,7 @@ Phenomenal value realism unifies the site's disparate concerns: consciousness st
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Ethical implications of consciousness-grounded value
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Why AI alignment should target experiential quality
 - [qualia](/concepts/qualia/) — The qualitative features of experience
+- [emotional-consciousness](/concepts/emotional-consciousness/) — Valence as the felt quality of emotions
 - [tenets](/tenets/) — The foundational commitments that support this view
 - [haecceity](/concepts/haecceity/) — Why *this* experience matters, not just experience-of-this-type
 

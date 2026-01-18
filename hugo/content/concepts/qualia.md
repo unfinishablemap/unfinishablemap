@@ -14,6 +14,7 @@ concepts:
 - '[[inverted-qualia]]'
 - '[[semantic-memory]]'
 - '[[cognitive-phenomenology]]'
+- '[[emotional-consciousness]]'
 created: 2026-01-07
 date: &id001 2026-01-18
 draft: false
@@ -173,6 +174,7 @@ This doesn't solve the hard problem—it doesn't explain *how* qualia arise or w
 - [illusionism](/concepts/illusionism/) - The radical denial of phenomenal properties
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - The debate over whether thinking has phenomenal character
 - [semantic-memory](/concepts/semantic-memory/) - How cognitive qualia appear in memory retrieval
+- [emotional-consciousness](/concepts/emotional-consciousness/) - Affective qualia and why valence feels good or bad
 - [tenets](/tenets/) - This site's foundational commitments, especially Dualism
 - [materialism](/arguments/materialism/) - The view challenged by the existence of qualia
 
