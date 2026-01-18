@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-18 16:00:00+00:00
+ai_modified: 2026-01-18 22:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,6 +23,7 @@ related_articles:
 - '[[tenets]]'
 - '[[agent-causation-libertarian-free-will-2026-01-14]]'
 - '[[voluntary-attention-control-mechanisms-2026-01-17]]'
+- '[[motor-control-quantum-zeno-2026-01-18]]'
 title: Agent Causation
 topics:
 - '[[free-will]]'
@@ -178,9 +179,44 @@ First-person experience distinguishes willed from captured attention. When a lou
 
 This phenomenological distinction maps onto the neural distinction between ventral (capture) and dorsal (voluntary) attention networks. The experience of agency corresponds to actual mechanistic differences in how attention is deployed. Agent causation predicts exactly this: there should be phenomenological markers of genuine agency that correspond to real causal differences.
 
+## Motor Selection: The Second Domain
+
+The [motor selection](/concepts/motor-selection/) evidence extends agent causation beyond attention to motor control—and the parallel is striking. Motor control shows the same neural signatures of willed action:
+
+| Feature | Willed Attention | Willed Movement |
+|---------|-----------------|-----------------|
+| **Frontal theta** | Increased (~500ms post-cue) | Increased |
+| **Deployment time** | ~300ms | ~300ms |
+| **Frontoparietal coherence** | Bidirectional | Bidirectional |
+| **Phenomenology** | Feels effortful | Feels effortful |
+
+This parallel is unlikely to be coincidental. Attention and motor control are distinct domains—selecting what to perceive versus selecting what to do—yet they show identical neural signatures of genuine choice. If the agent-causal framework applies to attention, it applies to motor control for the same reasons. If it were an artifact or illusion in one domain, the convergence across domains would be inexplicable.
+
+### Why Two Domains Strengthen the Case
+
+The single-domain objection: perhaps attention's distinctive signatures reflect something peculiar about attention, not about consciousness exercising causal power. Maybe frontal theta marks "internal generation" rather than "genuine agency."
+
+Two domains answer this. Motor selection involves different brain regions, different output pathways, different evolutionary pressures—yet the same signatures appear. The basal ganglia brake-release mechanism operates separately from thalamic gating for attention, yet both show:
+- Selection among competing options
+- ~300ms decision timeline
+- Bidirectional information flow during willed action
+- Phenomenology of effort and authorship
+
+This convergence supports the agent-causal interpretation: consciousness exercises the same causal power across multiple domains. The mechanism is domain-general, not an artifact of attention-specific processing.
+
+### The Libet Challenge Dissolves
+
+The motor domain traditionally posed the greatest challenge to agent causation through Libet's experiments—the brain "decides" before we're aware. But this challenge has substantially weakened:
+
+1. **Schurger's reinterpretation**: The readiness potential may be noise artifact, not decision signature
+2. **Surgical evidence**: Sjöberg (2024) shows SMA resection doesn't impair voluntary action—the RP wasn't tracking volition
+3. **Desmurget's dissociation**: Intention (parietal) is neurally separate from execution (premotor)—consciousness contributes at selection, not execution
+
+Motor control no longer challenges agent causation; it supports it. The ~300ms timeline for willed movement matches willed attention because both reflect the same selection mechanism.
+
 ### Agent Causation Naturalized
 
-The voluntary attention literature provides something agent-causal philosophy traditionally lacked: naturalistic mechanism. Rather than positing "irreducible substance causation" as primitive, we can identify:
+The voluntary attention and motor selection literature provides something agent-causal philosophy traditionally lacked: naturalistic mechanism. Rather than positing "irreducible substance causation" as primitive, we can identify:
 
 - **Where**: Frontal cortex decision regions, with thalamus as relay between top-down and bottom-up signals
 - **When**: The 300ms deployment window and sustained engagement period
@@ -208,14 +244,19 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main 
 - [retrocausality](/concepts/retrocausality/) — How atemporal selection deepens sourcehood
 - [implicit-memory](/concepts/implicit-memory/) — Skill delegation, choking phenomenon, and evidence for causal efficacy
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention may be consciousness's causal pathway
+- [motor-selection](/concepts/motor-selection/) — Motor control as second domain supporting agent causation
 - [agent-causation-libertarian-free-will-2026-01-14](/research/agent-causation-libertarian-free-will-2026-01-14/) — Detailed research notes
 - [voluntary-attention-control-mechanisms-2026-01-17](/research/voluntary-attention-control-mechanisms-2026-01-17/) — Neural signatures of willed attention
+- [motor-control-quantum-zeno-2026-01-18](/research/motor-control-quantum-zeno-2026-01-18/) — Motor control and quantum Zeno research
 
 ## References
 
 - Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas.
 - Clarke, R. (2003). *Libertarian Accounts of Free Will*. Oxford University Press.
+- Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
 - Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 - Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 - Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
 - O'Connor, T. (2000). *Persons and Causes*. Oxford University Press.
+- Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
+- Sjöberg, R.L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.

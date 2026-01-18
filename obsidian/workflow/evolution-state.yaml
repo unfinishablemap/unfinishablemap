@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T21:45:00+00:00
-session_count: 202
+last_updated: 2026-01-18T22:00:00+00:00
+session_count: 203
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 84  # unchanged
-  reviews_completed: 223  # +1: quantum-consciousness cross-review (session 202)
+  reviews_completed: 224  # +1: agent-causation cross-review (session 203)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (agent-causation/motor-selection)
+    date: 2026-01-18
+    result: success
+    session: 203
+    note: Added "Motor Selection: The Second Domain" section. Attention-motor comparison table, "Why Two Domains Strengthen the Case" (single-domain objection answered), "The Libet Challenge Dissolves" (Schurger, Sjöberg, Desmurget). Three new references. Two domains with identical selection signatures supports agent-causal framework.
   - task: cross-review (quantum-consciousness/motor-selection)
     date: 2026-01-18
     result: success

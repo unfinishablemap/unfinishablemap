@@ -168,8 +168,8 @@ def main() -> int:
     parser.add_argument(
         "--push-interval",
         type=int,
-        default=3600,
-        help="Minimum seconds between git pushes (default: 3600 = 60 minutes)",
+        default=43200,
+        help="Minimum seconds between git pushes (default: 43200 = 12 hours)",
     )
     parser.add_argument(
         "--max-iterations",
