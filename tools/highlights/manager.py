@@ -2,19 +2,28 @@
 
 from __future__ import annotations
 
+import logging
 import re
+import subprocess
+import time
 from datetime import date, datetime
 from pathlib import Path
 from typing import TYPE_CHECKING
 
 import frontmatter
+import httpx
 
-from .twitter import TweetResult, post_tweet
+from .twitter import TweetResult, post_tweet, wikilink_to_url
 
 if TYPE_CHECKING:
     from typing import TypedDict
 else:
     from typing import TypedDict
+
+logger = logging.getLogger(__name__)
+
+# Repository root (three levels up from this file)
+REPO_ROOT = Path(__file__).parent.parent.parent
 
 MAX_HIGHLIGHTS = 20
 MARKER_START = "<!-- HIGHLIGHTS_START -->"
@@ -76,6 +85,90 @@ def can_add_today(file_path: Path) -> bool:
     if latest is None:
         return True
     return latest < date.today()
+
+
+def _git_commit_and_push(title: str) -> bool:
+    """
+    Commit highlight changes and push to origin.
+
+    Args:
+        title: Highlight title for the commit message
+
+    Returns:
+        True if commit and push succeeded.
+    """
+    try:
+        # Stage the highlights file (and synced Hugo content)
+        subprocess.run(
+            ["git", "add", "obsidian/workflow/highlights.md", "hugo/content/highlights.md"],
+            cwd=REPO_ROOT,
+            check=True,
+            capture_output=True,
+        )
+
+        # Commit
+        commit_msg = f"feat(auto): add highlight - {title}"
+        subprocess.run(
+            ["git", "commit", "-m", commit_msg],
+            cwd=REPO_ROOT,
+            check=True,
+            capture_output=True,
+        )
+
+        # Push
+        subprocess.run(
+            ["git", "push"],
+            cwd=REPO_ROOT,
+            check=True,
+            capture_output=True,
+        )
+
+        logger.info("Committed and pushed highlight")
+        return True
+
+    except subprocess.CalledProcessError as e:
+        logger.error(f"Git operation failed: {e.cmd} returned {e.returncode}")
+        if e.stderr:
+            logger.error(f"stderr: {e.stderr.decode()}")
+        return False
+
+
+def _wait_for_deployment(
+    url: str,
+    poll_interval: int = 10,
+    max_wait: int = 300,
+) -> bool:
+    """
+    Wait for a URL to become available after deployment.
+
+    Args:
+        url: The URL to check
+        poll_interval: Seconds between checks (default: 10)
+        max_wait: Maximum seconds to wait (default: 300 = 5 minutes)
+
+    Returns:
+        True if URL became available, False if timed out.
+    """
+    start_time = time.time()
+    attempts = 0
+
+    while time.time() - start_time < max_wait:
+        attempts += 1
+        try:
+            response = httpx.get(url, timeout=10, follow_redirects=True)
+            if response.status_code == 200:
+                elapsed = time.time() - start_time
+                logger.info(f"Page available after {elapsed:.0f}s ({attempts} attempts): {url}")
+                return True
+            else:
+                logger.debug(f"Attempt {attempts}: HTTP {response.status_code}")
+        except httpx.RequestError as e:
+            logger.debug(f"Attempt {attempts}: {e}")
+
+        time.sleep(poll_interval)
+
+    logger.error(f"Page not available after {max_wait}s ({attempts} attempts): {url}")
+    return False
 
 
 def add_highlight(
@@ -149,12 +242,45 @@ def add_highlight(
     # Optionally post to Twitter (after successful file write)
     tweet_result: TweetResult | None = None
     if tweet:
-        tweet_result = post_tweet(
-            title=title,
-            description=description,
-            link=link,
-            dry_run=dry_run,
-        )
+        if dry_run:
+            # Dry run: just format the tweet without committing/pushing/waiting
+            tweet_result = post_tweet(
+                title=title,
+                description=description,
+                link=link,
+                dry_run=True,
+            )
+        else:
+            # Real tweet: commit, push, wait for deployment, then tweet
+            # First, commit and push the highlight
+            if not _git_commit_and_push(title):
+                logger.error("Failed to commit/push highlight, skipping tweet")
+                return True, TweetResult(
+                    success=False,
+                    tweet_id=None,
+                    error="Failed to commit/push highlight",
+                    url=None,
+                )
+
+            # Wait for the linked page to become available
+            if link:
+                page_url = wikilink_to_url(link)
+                if not _wait_for_deployment(page_url):
+                    logger.error(f"Page not available after deployment timeout: {page_url}")
+                    return True, TweetResult(
+                        success=False,
+                        tweet_id=None,
+                        error=f"Page not available after 5 minutes: {page_url}",
+                        url=None,
+                    )
+
+            # Now post the tweet
+            tweet_result = post_tweet(
+                title=title,
+                description=description,
+                link=link,
+                dry_run=False,
+            )
 
     return True, tweet_result
 

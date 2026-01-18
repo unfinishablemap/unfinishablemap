@@ -10,6 +10,7 @@ import logging
 import subprocess
 import sys
 import time
+from datetime import datetime
 from logging.handlers import TimedRotatingFileHandler
 from pathlib import Path
 
@@ -168,8 +169,8 @@ def main() -> int:
     parser.add_argument(
         "--push-interval",
         type=int,
-        default=43200,
-        help="Minimum seconds between git pushes (default: 43200 = 12 hours)",
+        default=14400,
+        help="Minimum seconds between git pushes (default: 14400 = 4 hours)",
     )
     parser.add_argument(
         "--max-iterations",
@@ -230,7 +231,7 @@ def main() -> int:
             log.info("─" * 60)
 
             # Run evolve
-            log.info("Running /evolve...")
+            log.info(f"Running /evolve at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}...")
             try:
                 output = run_evolve(verbose=not args.quiet)
                 successes += 1
