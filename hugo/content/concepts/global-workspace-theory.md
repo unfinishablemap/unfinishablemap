@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-17 16:10:00+00:00
+ai_modified: 2026-01-18 23:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,10 @@ concepts:
 - '[[neural-correlates-of-consciousness]]'
 - '[[integrated-information-theory]]'
 - '[[working-memory]]'
+- '[[episodic-memory]]'
+- '[[semantic-memory]]'
+- '[[implicit-memory]]'
+- '[[autonoetic-consciousness]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -92,6 +96,36 @@ Recent research reveals a telling asymmetry: **maintenance can be unconscious wh
 
 The 2025 COGITATE results reinforce this. Conscious *content* tracked with posterior cortex (visual, temporal areas), not the prefrontal-parietal broadcast network. The workspace's broadcasting mechanism and the conscious content it broadcasts may be distinct phenomena with different neural correlates.
 
+## Memory Systems and Global Broadcast
+
+Baars explicitly addressed how GWT explains the difference between conscious and unconscious memory. The global workspace provides a framework for understanding why some memories require conscious access while others operate automatically—a distinction mapped by Tulving's three-memory taxonomy.
+
+### The Workspace Access Hierarchy
+
+[Implicit memory](/concepts/implicit-memory/) operates without global broadcast. Procedural skills, priming, and conditioning function through local, specialised processors that don't require workspace ignition. When you ride a bicycle, the motor programs execute without entering the global workspace—they don't become available to language, reasoning, or reportability systems. This is why implicit memory accompanies *anoetic* consciousness: there is phenomenal character to skilled action, but it lacks the self-reflective quality that global availability enables.
+
+[Semantic memory](/concepts/semantic-memory/) has intermediate workspace access. Facts can be retrieved and made globally available—you can report what you know, reason with it, act on it. But semantic retrieval doesn't require the full reconstructive binding that episodic memory involves. The tip-of-the-tongue phenomenon illustrates partial workspace access: semantic content is approaching but hasn't achieved ignition. *Noetic* consciousness accompanies successful semantic retrieval—you're aware of knowing without re-experiencing.
+
+[Episodic memory](/concepts/episodic-memory/) requires full workspace ignition. Reconstructing a past experience demands the episodic buffer's binding operation, integration across multiple cortical areas, and global broadcast of the unified scene. This is why episodic memory accompanies *autonoetic* consciousness: the self is projected through time, multiple features are bound, and the result is globally available for reasoning, report, and emotional response.
+
+### Broadcast Explains Phenomenological Differences
+
+This mapping suggests GWT can explain *why* different memory types have different phenomenological characters. The difference between knowing a fact (noetic) and re-experiencing an event (autonoetic) corresponds to different degrees and types of workspace engagement:
+
+| Memory Type | Workspace Role | Phenomenology |
+|-------------|----------------|---------------|
+| Implicit | Bypasses workspace | Anoetic—unreflective action |
+| Semantic | Retrieval to workspace | Noetic—aware of knowing |
+| Episodic | Full binding + broadcast | Autonoetic—re-experiencing |
+
+However, this functional account faces the same hard problem objection. GWT explains *when* different memory types engage different workspace processes. It doesn't explain *why* workspace bypass feels like fluent action, workspace retrieval feels like knowing, and full broadcast feels like re-experiencing. The phenomenological hierarchy (anoetic → noetic → autonoetic) tracks workspace access, but correlation isn't constitution.
+
+### Filter Theory Integration
+
+From the site's perspective, the memory system hierarchy reveals *where* consciousness interfaces with cognition. Implicit memory shows consciousness can delegate—procedural systems run without continuous conscious engagement. But the [choking phenomenon](/concepts/implicit-memory/#choking-under-pressure-evidence-for-bidirectional-interaction) proves the interface remains: when consciousness re-engages with automatized skills, it causally disrupts them.
+
+The workspace may be the neural correlate of the interface between consciousness and memory systems. Consciousness doesn't *enter* the workspace; it *accesses* what the workspace makes available. This reading preserves GWT's empirical insights while maintaining the site's dualist commitment: the workspace describes neural architecture; consciousness is what experiences the content that architecture provides.
+
 ## Relation to Site Perspective
 
 ### Alignment
@@ -116,6 +150,10 @@ GWT explains when and how information becomes accessible. It remains silent on w
 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle GWT doesn't address
 - [working-memory](/concepts/working-memory/) — The cognitive system implementing the workspace architecture
+- [episodic-memory](/concepts/episodic-memory/) — Autonoetic consciousness requiring full workspace ignition
+- [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness with intermediate workspace access
+- [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness bypassing the workspace
+- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — The self-knowing consciousness GWT must explain
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A rival theory tested alongside GNW
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — The broader research program GWT contributes to
 - [attention](/concepts/attention/) — The gateway to the workspace

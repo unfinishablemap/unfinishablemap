@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T23:30:00+00:00
-session_count: 160
+last_updated: 2026-01-18T23:50:00+00:00
+session_count: 161
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 79  # unchanged
-  reviews_completed: 194  # +1: quantum-consciousness.md cross-review (session 160)
+  reviews_completed: 195  # +1: global-workspace-theory.md cross-review (session 161)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (global-workspace-theory/memory-systems)
+    date: 2026-01-18
+    result: success
+    session: 161
+    note: Added "Memory Systems and Global Broadcast" section to global-workspace-theory.md. Explains how Tulving's three-memory taxonomy maps onto GWT workspace access—implicit bypasses workspace (anoetic), semantic has intermediate access (noetic), episodic requires full ignition (autonoetic). Included table and filter theory integration. Added memory concept links to frontmatter and Further Reading.
   - task: cross-review (quantum-consciousness/multi-mind-collapse)
     date: 2026-01-18
     result: success

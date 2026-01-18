@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T23:30:00+00:00
+ai_modified: 2026-01-18T23:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review global-workspace-theory.md considering memory system insights
-- **Type**: cross-review
-- **Notes**: The GWT page discusses working memory but not the broader memory system taxonomy (episodic, semantic, implicit). Baars explicitly discusses how GWT explains conscious vs unconscious memory retrieval—implicit memory operates without global broadcast while explicit memory requires workspace access. Adding this would strengthen GWT coverage and connect to the site's memory system articles.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-17
-
 ### P2: Cross-review neural-correlates-of-consciousness.md considering memory insights
 - **Type**: cross-review
 - **Notes**: The NCC page could benefit from memory research integration—the hippocampus as NCC for episodic binding, the distinction between content NCCs (what we're conscious of) and enabling NCCs (what makes consciousness possible), and how different memory systems have different NCC requirements. Tulving's autonoetic consciousness requires specific neural substrates.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review global-workspace-theory.md considering memory system insights
+- **Type**: cross-review
+- **Notes**: The GWT page discusses working memory but not the broader memory system taxonomy (episodic, semantic, implicit). Baars explicitly discusses how GWT explains conscious vs unconscious memory retrieval—implicit memory operates without global broadcast while explicit memory requires workspace access. Adding this would strengthen GWT coverage and connect to the site's memory system articles.
+- **Result**: Added "Memory Systems and Global Broadcast" section explaining how Tulving's three-memory taxonomy maps onto GWT workspace access. Implicit bypasses workspace (anoetic), semantic has intermediate access (noetic), episodic requires full ignition (autonoetic). Included workspace access hierarchy table and filter theory integration showing how the workspace may be the neural correlate of the interface. Added episodic-memory, semantic-memory, implicit-memory, autonoetic-consciousness to concepts and Further Reading.
+- **Output**: Updated `concepts/global-workspace-theory.md`
 
 ### ✓ 2026-01-18: Cross-review quantum-consciousness.md considering multi-mind collapse insights
 - **Type**: cross-review

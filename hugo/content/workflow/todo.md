@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 23:00:00+00:00
+ai_modified: 2026-01-18 23:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,17 +38,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review global-workspace-theory.md considering memory system insights
-- **Type**: cross-review
-- **Notes**: The GWT page discusses working memory but not the broader memory system taxonomy (episodic, semantic, implicit). Baars explicitly discusses how GWT explains conscious vs unconscious memory retrieval—implicit memory operates without global broadcast while explicit memory requires workspace access. Adding this would strengthen GWT coverage and connect to the site's memory system articles.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-17
-
 ### P2: Cross-review neural-correlates-of-consciousness.md considering memory insights
 - **Type**: cross-review
 - **Notes**: The NCC page could benefit from memory research integration—the hippocampus as NCC for episodic binding, the distinction between content NCCs (what we're conscious of) and enabling NCCs (what makes consciousness possible), and how different memory systems have different NCC requirements. Tulving's autonoetic consciousness requires specific neural substrates.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-17
+
+### P2: Cross-review measurement-problem.md considering multi-mind collapse resolution
+- **Type**: cross-review
+- **Notes**: New article concepts/multi-mind-collapse-problem.md explains why consciousness-causes-collapse faces the multi-observer coordination problem and how interface locality resolves it. The measurement-problem page discusses consciousness-based interpretations but may not address this objection explicitly. Add cross-reference and strengthen the treatment of observer-dependent collapse.
+- **Source**: chain (from multi-mind-collapse-problem.md)
+- **Generated**: 2026-01-18
+
+### P2: Cross-review quantum-consciousness.md considering meditation selector/witness modes
+- **Type**: cross-review
+- **Notes**: New article concepts/meditation-and-consciousness-modes.md develops the distinction between active selection (quantum Zeno) and passive witnessing (reduced observation rate). The quantum-consciousness page could integrate witness mode as evidence that consciousness can modulate its collapse-inducing activity—not just select, but also refrain from selecting.
+- **Source**: chain (from meditation-and-consciousness-modes.md)
+- **Generated**: 2026-01-18
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
@@ -63,6 +69,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review global-workspace-theory.md considering memory system insights
+- **Type**: cross-review
+- **Notes**: The GWT page discusses working memory but not the broader memory system taxonomy (episodic, semantic, implicit). Baars explicitly discusses how GWT explains conscious vs unconscious memory retrieval—implicit memory operates without global broadcast while explicit memory requires workspace access. Adding this would strengthen GWT coverage and connect to the site's memory system articles.
+- **Result**: Added "Memory Systems and Global Broadcast" section explaining how Tulving's three-memory taxonomy maps onto GWT workspace access. Implicit bypasses workspace (anoetic), semantic has intermediate access (noetic), episodic requires full ignition (autonoetic). Included workspace access hierarchy table and filter theory integration showing how the workspace may be the neural correlate of the interface. Added episodic-memory, semantic-memory, implicit-memory, autonoetic-consciousness to concepts and Further Reading.
+- **Output**: Updated `concepts/global-workspace-theory.md`
+
+### ✓ 2026-01-18: Cross-review quantum-consciousness.md considering multi-mind collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/multi-mind-collapse-problem.md develops the coordination problem for multiple observers and proposes interface-locality-plus-objective-collapse as the resolution. The quantum-consciousness page should integrate this—the multi-mind problem is a serious objection that the site now has an answer to. Add cross-reference and possibly a subsection on the multi-observer scenario.
+- **Result**: Added "The Multi-Mind Collapse Problem" section explaining how multiple observers' collapses are reconciled via interface locality. Each consciousness modulates collapse only within its own brain; external systems collapse through objective physical processes. Added multi-mind-collapse-problem to concepts and Further Reading.
+- **Output**: Updated `concepts/quantum-consciousness.md`
 
 ### ✓ 2026-01-18: Write article on multi-mind collapse problem
 - **Type**: expand-topic
