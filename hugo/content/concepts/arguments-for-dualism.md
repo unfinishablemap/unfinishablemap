@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-17 23:45:00+00:00
+ai_modified: 2026-01-19 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[philosophical-zombies]]'
 - '[[knowledge-argument]]'
+- '[[intuitive-dualism]]'
 - '[[qualia]]'
 - '[[intentionality]]'
 - '[[explanatory-gap]]'
@@ -109,7 +110,7 @@ What makes you *you* is not any qualitative property—not your memories, person
 
 ## The "Folk Error" Objection
 
-Some materialists argue that dualism is merely a cognitively natural "folk error" destined to be outgrown, like folk physics was superseded by Newton. Cognitive science provides a surprising response: the evidence is far more complex than this dismissal suggests.
+Some materialists argue that dualism is merely a cognitively natural "folk error" destined to be outgrown, like folk physics was superseded by Newton. Cognitive science provides a surprising response: the evidence is far more complex than this dismissal suggests. (For detailed treatment, see [intuitive-dualism](/concepts/intuitive-dualism/).)
 
 ### The Debate in Cognitive Science
 
@@ -231,6 +232,7 @@ The site does not commit to substance over property dualism. Both support irredu
 
 ## Further Reading
 
+- [intuitive-dualism](/concepts/intuitive-dualism/) — What cognitive science reveals about natural mind-body thinking
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — The meta-level argument from epistemic humility
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what it shows

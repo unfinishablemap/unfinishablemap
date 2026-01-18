@@ -3,13 +3,14 @@ title: "Arguments for Dualism"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-17T23:45:00+00:00
+ai_modified: 2026-01-19T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[philosophical-zombies]]"
   - "[[knowledge-argument]]"
+  - "[[intuitive-dualism]]"
   - "[[qualia]]"
   - "[[intentionality]]"
   - "[[explanatory-gap]]"
@@ -108,7 +109,7 @@ What makes you *you* is not any qualitative property—not your memories, person
 
 ## The "Folk Error" Objection
 
-Some materialists argue that dualism is merely a cognitively natural "folk error" destined to be outgrown, like folk physics was superseded by Newton. Cognitive science provides a surprising response: the evidence is far more complex than this dismissal suggests.
+Some materialists argue that dualism is merely a cognitively natural "folk error" destined to be outgrown, like folk physics was superseded by Newton. Cognitive science provides a surprising response: the evidence is far more complex than this dismissal suggests. (For detailed treatment, see [[intuitive-dualism]].)
 
 ### The Debate in Cognitive Science
 
@@ -230,6 +231,7 @@ The site does not commit to substance over property dualism. Both support irredu
 
 ## Further Reading
 
+- [[intuitive-dualism]] — What cognitive science reveals about natural mind-body thinking
 - [[epistemic-advantages-of-dualism]] — The meta-level argument from epistemic humility
 - [[philosophical-zombies]] — The conceivability argument in detail
 - [[knowledge-argument]] — Mary's Room and what it shows
