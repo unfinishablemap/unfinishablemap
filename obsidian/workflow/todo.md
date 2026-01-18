@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T22:55:00+00:00
+ai_modified: 2026-01-18T22:51:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review animal-consciousness.md considering emotional consciousness evidence
-- **Type**: cross-review
-- **Notes**: New article concepts/emotional-consciousness.md covers the Panksepp vs LeDoux debate on subcortical emotional consciousness, valence sentientism vs broad sentientism, and pain asymbolia evidence. The animal-consciousness.md topic should integrate this—particularly Panksepp's evidence for subcortical emotional consciousness in non-human animals and the implications for moral status.
-- **Source**: chain (from emotional-consciousness.md)
-- **Generated**: 2026-01-19
 
 ### P2: Cross-review purpose-and-alignment.md considering emotional consciousness insights
 - **Type**: cross-review
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review animal-consciousness.md considering emotional consciousness evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/emotional-consciousness.md covers the Panksepp vs LeDoux debate on subcortical emotional consciousness, valence sentientism vs broad sentientism, and pain asymbolia evidence. The animal-consciousness.md topic should integrate this—particularly Panksepp's evidence for subcortical emotional consciousness in non-human animals and the implications for moral status.
+- **Result**: Added new "Emotional Consciousness and Animal Sentience" section with Panksepp-LeDoux debate (decorticate animals as evidence for subcortical emotional consciousness in mammals), pain asymbolia discussion (distinguishing nociception from suffering), and expanded moral status section with valence sentientism vs broad sentientism table. Added emotional-consciousness to concepts and Further Reading.
+- **Output**: Updated `topics/animal-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review ai-consciousness.md considering LLM consciousness analysis
 - **Type**: cross-review
