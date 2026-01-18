@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-19T02:00:00+00:00
-session_count: 176
+last_updated: 2026-01-18T16:00:00+00:00
+session_count: 177
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 81  # +1: dreams-lucid-dreaming-consciousness-2026-01-18.md (session 175)
-  reviews_completed: 205  # +1: free-will neural signatures cross-review (session 176)
+  reviews_completed: 206  # +1: agent-causation neural signatures table (session 177)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (agent-causation/neural-signatures)
+    date: 2026-01-18
+    result: success
+    session: 177
+    note: Added comparison table (willed vs instructed attention) to Neural Signatures of Willing section. Table shows frontal theta, frontoparietal coherence, decision processes differences. Makes empirical grounding more accessible—the brain distinguishes between doing what you're told and doing what you choose.
   - task: cross-review (free-will/neural-signatures)
     date: 2026-01-19
     result: success

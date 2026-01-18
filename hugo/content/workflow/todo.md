@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 22:00:00+00:00
+ai_modified: 2026-01-18 16:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,10 +38,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review free-will.md considering agent-causation neural signatures
-- **Type**: cross-review
-- **Notes**: Research in voluntary-attention-control-mechanisms-2026-01-17.md identified specific neural signatures of willed attention (frontal theta, 300ms deployment, bidirectional coherence). The free-will page discusses phenomenology of volition but could be strengthened with these empirical findings showing willed action is neurally distinct from instructed action.
+### P2: Research consciousness and quantum superposition in the brain
+- **Type**: research-topic
+- **Notes**: The site has quantum-consciousness.md and decoherence.md but lacks deep treatment of whether and how quantum superposition could persist in neural systems long enough for consciousness to select among outcomes. Key questions: What protective mechanisms (error correction, microtubule isolation, coherent states) might preserve superposition? What's the current experimental evidence? This directly supports the Minimal Quantum Interaction tenet.
 - **Source**: gap_analysis
+- **Generated**: 2026-01-18
+
+### P2: Cross-review attention.md considering meditation modes insights
+- **Type**: cross-review
+- **Notes**: The meditation-and-consciousness-modes.md article develops the FA/OM distinction with specific neural signatures. The attention.md page could integrate this evidence for how attention can be trained and modulated—supporting the interface hypothesis with empirical meditation research.
+- **Source**: chain (from meditation-and-consciousness-modes.md)
 - **Generated**: 2026-01-18
 
 ### P2: Cross-review dreams-and-consciousness.md considering sleep insights
@@ -69,6 +75,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review agent-causation.md considering neural signatures of volition
+- **Type**: cross-review
+- **Notes**: The free-will.md update (session 176) added neural signatures of willed action (frontal theta, 300ms deployment, bidirectional coherence). Agent-causation.md covers the philosophy but could strengthen its empirical grounding by linking to these specific neural findings that distinguish willed from instructed action.
+- **Result**: Added comparison table (willed vs instructed attention with frontal theta, frontoparietal coherence, decision processes) to "Neural Signatures of Willing" section. The table makes the empirical grounding more accessible—the brain distinguishes between doing what you're told and doing what you choose. Agent-causation.md already had the prose explanation; the table adds visual clarity matching free-will.md's presentation.
+- **Output**: Updated `concepts/agent-causation.md`
+
+### ✓ 2026-01-19: Cross-review free-will.md considering agent-causation neural signatures
+- **Type**: cross-review
+- **Notes**: Research in voluntary-attention-control-mechanisms-2026-01-17.md identified specific neural signatures of willed attention (frontal theta, 300ms deployment, bidirectional coherence). The free-will page discusses phenomenology of volition but could be strengthened with these empirical findings showing willed action is neurally distinct from instructed action.
+- **Result**: Added "Neural Signatures of Willed Action" section covering willed vs instructed attention distinction (frontal theta, bidirectional coherence), temporal signature of choosing (300ms vs 100ms), pre-prompt alpha question with selection-among-options interpretation, and phenomenology-neuroscience correspondence. Added attention, attention-as-interface, quantum-consciousness to concepts and voluntary-attention research to related_articles. Enhanced Further Reading.
+- **Output**: Updated `topics/free-will.md`
 
 ### ✓ 2026-01-18: Research dreams and lucid dreaming for consciousness framework
 - **Type**: research-topic

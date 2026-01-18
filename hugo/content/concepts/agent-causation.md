@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-18 18:00:00+00:00
+ai_modified: 2026-01-18 16:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -141,7 +141,17 @@ Crucially, voluntary attention can be sustained at will. Exogenous capture is tr
 
 ### Neural Signatures of Willing
 
-Research reveals three neural components specific to willed attention:
+Research reveals three neural components specific to willed attention, with clear contrasts to instructed behaviour:
+
+| Feature | Willed Attention | Instructed Attention |
+|---------|------------------|----------------------|
+| **Frontal theta** | Increased (~500ms post-cue) | Lower |
+| **Frontoparietal coherence** | Bidirectional information flow | More unidirectional |
+| **Decision processes** | Additional frontal engagement | Standard top-down control |
+
+These findings converge on a key point: the brain distinguishes between doing what you're told and doing what you choose. The neural signature of genuine choosing is real and measurable.
+
+Additionally:
 
 1. **Frontal theta oscillations**: When participants choose where to attend (rather than following instructions), frontal theta power increases—marking the decision process itself
 2. **Bidirectional frontoparietal coherence**: Information flows both ways between frontal executive regions and parietal attention control areas during willed attention, consistent with genuine feedback rather than one-way command

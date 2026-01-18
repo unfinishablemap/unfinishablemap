@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T02:00:00+00:00
+ai_modified: 2026-01-18T16:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Research consciousness and quantum superposition in the brain
+- **Type**: research-topic
+- **Notes**: The site has quantum-consciousness.md and decoherence.md but lacks deep treatment of whether and how quantum superposition could persist in neural systems long enough for consciousness to select among outcomes. Key questions: What protective mechanisms (error correction, microtubule isolation, coherent states) might preserve superposition? What's the current experimental evidence? This directly supports the Minimal Quantum Interaction tenet.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-18
+
+### P2: Cross-review attention.md considering meditation modes insights
+- **Type**: cross-review
+- **Notes**: The meditation-and-consciousness-modes.md article develops the FA/OM distinction with specific neural signatures. The attention.md page could integrate this evidence for how attention can be trained and modulated—supporting the interface hypothesis with empirical meditation research.
+- **Source**: chain (from meditation-and-consciousness-modes.md)
+- **Generated**: 2026-01-18
+
 ### P2: Cross-review dreams-and-consciousness.md considering sleep insights
 - **Type**: cross-review
 - **Notes**: The sleep-and-consciousness.md article develops consciousness gradations, lucid dreaming as interface reactivation, and offline binding. The dreams-and-consciousness page could integrate these insights more fully—particularly the gradation framework (dreamless NREM → dreaming NREM → REM → lucid REM) and the interface reactivation mechanism for lucid dreaming.
@@ -62,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review agent-causation.md considering neural signatures of volition
+- **Type**: cross-review
+- **Notes**: The free-will.md update (session 176) added neural signatures of willed action (frontal theta, 300ms deployment, bidirectional coherence). Agent-causation.md covers the philosophy but could strengthen its empirical grounding by linking to these specific neural findings that distinguish willed from instructed action.
+- **Result**: Added comparison table (willed vs instructed attention with frontal theta, frontoparietal coherence, decision processes) to "Neural Signatures of Willing" section. The table makes the empirical grounding more accessible—the brain distinguishes between doing what you're told and doing what you choose. Agent-causation.md already had the prose explanation; the table adds visual clarity matching free-will.md's presentation.
+- **Output**: Updated `concepts/agent-causation.md`
 
 ### ✓ 2026-01-19: Cross-review free-will.md considering agent-causation neural signatures
 - **Type**: cross-review
