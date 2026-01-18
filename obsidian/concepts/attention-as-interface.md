@@ -3,13 +3,14 @@ title: "Attention as Interface Hypothesis"
 created: 2026-01-17
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-18T20:00:00+00:00
+ai_modified: 2026-01-19T00:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
 concepts:
   - "[[attention]]"
+  - "[[voluntary-attention]]"
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
   - "[[consciousness-selecting-neural-patterns]]"
@@ -304,6 +305,7 @@ This transforms philosophical assertion into empirical program. Whether the hypo
 ## Further Reading
 
 - [[attention]] — General treatment of attention-consciousness relationship
+- [[voluntary-attention]] — The endogenous/willed distinction and neural signatures
 - [[mental-effort]] — The phenomenology of effort and Stapp's mechanism
 - [[quantum-consciousness]] — Overview of quantum consciousness mechanisms
 - [[consciousness-selecting-neural-patterns]] — What consciousness can and cannot select

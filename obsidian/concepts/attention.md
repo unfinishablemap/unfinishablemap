@@ -3,7 +3,7 @@ title: "Attention and Consciousness"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-18T12:00:00+00:00
+ai_modified: 2026-01-19T00:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[attention-schema-theory]]"
   - "[[attention-as-interface]]"
   - "[[meditation-and-consciousness-modes]]"
+  - "[[voluntary-attention]]"
 related_articles:
   - "[[tenets]]"
   - "[[attention-consciousness-relationship-2026-01-15]]"
@@ -215,6 +216,7 @@ The attention-consciousness relationship illuminates all five tenets:
 
 ## Further Reading
 
+- [[voluntary-attention]] — The endogenous/willed attention distinction and its neural signatures
 - [[attention-as-interface]] — The hypothesis that attention mediates consciousness's causal influence on matter
 - [[meditation-and-consciousness-modes]] — FA/OM meditation as evidence for active selection and passive witnessing modes
 - [[mental-effort]] — Detailed treatment of phenomenology of effort and Stapp's mechanism

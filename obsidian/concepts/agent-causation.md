@@ -3,7 +3,7 @@ title: "Agent Causation"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-18T22:00:00+00:00
+ai_modified: 2026-01-19T00:30:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -11,6 +11,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
+  - "[[voluntary-attention]]"
   - "[[implicit-memory]]"
   - "[[attention-as-interface]]"
   - "[[luck-objection]]"

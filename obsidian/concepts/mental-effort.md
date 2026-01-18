@@ -3,7 +3,7 @@ title: "Mental Effort and the Quantum Zeno Effect"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-18T21:00:00+00:00
+ai_modified: 2026-01-19T00:30:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[epiphenomenalism]]"
   - "[[attention]]"
+  - "[[voluntary-attention]]"
   - "[[attention-as-interface]]"
   - "[[specious-present]]"
   - "[[meditation-and-consciousness-modes]]"
@@ -249,6 +250,7 @@ The site doesn't commit to Stapp's specific proposal over other quantum consciou
 ## Further Reading
 
 - [[attention]] — The attention-consciousness dissociation and why it matters for effort
+- [[voluntary-attention]] — The willed/instructed distinction and neural signatures of genuine choice
 - [[attention-as-interface]] — Formalizes attention as the interface layer between consciousness and neural systems
 - [[meditation-and-consciousness-modes]] — The two modes of consciousness (selection vs witnessing)
 - [[implicit-memory]] — Skill acquisition and the Dreyfus model of automaticity
