@@ -122,6 +122,7 @@ The site remains neutral between substance and property dualism, but the quantum
 ## Further Reading
 
 - [[interactionist-dualism]] - The position the pairing problem challenges
+- [[brain-specialness]] - What makes neural systems suitable interfaces
 - [[causal-closure]] - The distinct (but related) closure objection
 - [[mental-causation]] - The general problem of how minds cause physical effects
 - [[substance-property-dualism]] - The choice between dualist frameworks
