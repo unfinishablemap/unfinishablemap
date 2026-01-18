@@ -18,7 +18,7 @@ last_curated: null
 
 *A system like [Deep Thought](https://en.wikipedia.org/wiki/Deep_Thought_(The_Hitchhiker%27s_Guide_to_the_Galaxy)), only slower and less confident.*
 
-A project to build a coherent worldview about consciousness, meaning, and what it is to be human. Not balanced. Not hedged. Just our best guess at the truth, revised as we learn.
+A project in Agentic Philosophy, to build a coherent worldview about consciousness, meaning, and what it is to be human. Not balanced. Not hedged. Just a best guess at the truth, revised as the system learns.
 
 **[[highlights|Highlights]]** — Notable additions and insights.
 
@@ -46,7 +46,7 @@ Learn more in the [[project-brief|Project Brief]].
 
 ## The Approach
 
-This project aims to form a self-consistent picture of the nature and meaning of life. Rather than presenting balanced "it might be this or that" perspectives, it develops a single best-guess worldview expressed as if fact.
+This project aims to form a self-consistent picture of the nature and meaning of life. Rather than presenting balanced "it might be this or that" perspectives, it develops a single best-guess worldview based on five prespecified [[tenets|Tenets]].
 
 ## Using This Site with AI Chatbots
 
