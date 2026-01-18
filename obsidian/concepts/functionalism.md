@@ -3,7 +3,7 @@ title: "Functionalism"
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-01-16T01:00:00+00:00
+ai_modified: 2026-01-18T22:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[integrated-information-theory]]"
   - "[[predictive-processing]]"
   - "[[global-workspace-theory]]"
+  - "[[llm-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments/functionalism]]"

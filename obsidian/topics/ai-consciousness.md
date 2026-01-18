@@ -3,7 +3,7 @@ title: "AI Consciousness"
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-01-19T00:15:00+00:00
+ai_modified: 2026-01-18T22:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ concepts:
   - "[[binding-problem]]"
   - "[[metacognition]]"
   - "[[higher-order-theories]]"
+  - "[[llm-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[ai-machine-consciousness-2026-01-08]]"
@@ -302,6 +303,7 @@ This may seem dismissive of genuine achievement. AI systems do remarkable things
 
 ## Further Reading
 
+- [[llm-consciousness]] — Focused analysis of large language model consciousness
 - [[hard-problem-of-consciousness]] — Why function doesn't explain feeling
 - [[problem-of-other-minds]] — The epistemic challenge that AI consciousness intensifies
 - [[embodied-cognition]] — Why embodiment doesn't solve the grounding problem
