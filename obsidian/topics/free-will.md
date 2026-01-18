@@ -28,6 +28,7 @@ concepts:
   - "[[attention]]"
   - "[[attention-as-interface]]"
   - "[[quantum-consciousness]]"
+  - "[[motor-selection]]"
 related_articles:
   - "[[tenets]]"
   - "[[libet-experiments-free-will-2026-01-07]]"

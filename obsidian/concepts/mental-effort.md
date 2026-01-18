@@ -17,6 +17,7 @@ concepts:
   - "[[specious-present]]"
   - "[[meditation-and-consciousness-modes]]"
   - "[[implicit-memory]]"
+  - "[[motor-selection]]"
 related_articles:
   - "[[tenets]]"
   - "[[stapp-mental-effort-mind-matter-2026-01-14]]"

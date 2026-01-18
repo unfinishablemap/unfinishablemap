@@ -16,6 +16,7 @@ concepts:
   - "[[psychophysical-coupling-law]]"
   - "[[interface-locality]]"
   - "[[meditation-and-consciousness-modes]]"
+  - "[[motor-selection]]"
 related_articles:
   - "[[tenets]]"
   - "[[attention-as-interface-hypothesis-2026-01-16]]"
