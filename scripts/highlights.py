@@ -16,16 +16,28 @@ def cmd_add(args: argparse.Namespace) -> int:
         print(f"Error: {HIGHLIGHTS_FILE} does not exist", file=sys.stderr)
         return 1
 
-    success = add_highlight(
+    success, tweet_result = add_highlight(
         file_path=HIGHLIGHTS_FILE,
         title=args.title,
         description=args.description,
         highlight_type=args.type,
         link=args.link,
+        tweet=args.tweet,
+        dry_run=args.dry_run,
     )
 
     if success:
         print(f"Added highlight: {args.title}")
+        if args.tweet:
+            if tweet_result and tweet_result["success"]:
+                if tweet_result["url"]:
+                    print(f"Tweeted: {tweet_result['url']}")
+                else:
+                    print("Tweet formatted (dry run)")
+            elif tweet_result:
+                print(f"Tweet failed: {tweet_result['error']}", file=sys.stderr)
+            else:
+                print("Twitter not configured", file=sys.stderr)
         return 0
     else:
         print("Rate limited: already added a highlight today", file=sys.stderr)
@@ -109,6 +121,16 @@ def main() -> int:
         help="Type of highlight",
     )
     add_parser.add_argument("--link", help="Wikilink to related content")
+    add_parser.add_argument(
+        "--tweet",
+        action="store_true",
+        help="Post to Twitter after adding highlight",
+    )
+    add_parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Format tweet but don't actually post (use with --tweet)",
+    )
 
     # check command
     subparsers.add_parser("check", help="Check if can add highlight today")

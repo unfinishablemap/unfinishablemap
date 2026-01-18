@@ -1,11 +1,20 @@
 """Manage the highlights page - add items, enforce limits, check dates."""
 
+from __future__ import annotations
+
 import re
 from datetime import date, datetime
 from pathlib import Path
-from typing import TypedDict
+from typing import TYPE_CHECKING
 
 import frontmatter
+
+from .twitter import TweetResult, post_tweet
+
+if TYPE_CHECKING:
+    from typing import TypedDict
+else:
+    from typing import TypedDict
 
 MAX_HIGHLIGHTS = 20
 MARKER_START = "<!-- HIGHLIGHTS_START -->"
@@ -75,7 +84,9 @@ def add_highlight(
     description: str,
     highlight_type: str,
     link: str | None = None,
-) -> bool:
+    tweet: bool = False,
+    dry_run: bool = False,
+) -> tuple[bool, TweetResult | None]:
     """
     Add a highlight to the top of the list.
 
@@ -85,12 +96,16 @@ def add_highlight(
         description: 1-2 sentences, max 280 chars for Twitter
         highlight_type: One of: new-article, insight, research, refinement
         link: Optional wikilink to related content
+        tweet: If True, post to Twitter after adding highlight
+        dry_run: If True with tweet, format tweet but don't actually post
 
     Returns:
-        True if highlight was added, False if rate-limited (already added today).
+        Tuple of (highlight_added: bool, tweet_result: TweetResult | None).
+        highlight_added is False if rate-limited (already added today).
+        tweet_result is None if tweet=False or rate-limited.
     """
     if not can_add_today(file_path):
-        return False
+        return False, None
 
     # Validate description length
     if len(description) > 280:
@@ -131,7 +146,17 @@ def add_highlight(
     # Trim to max highlights
     trim_highlights(file_path, MAX_HIGHLIGHTS)
 
-    return True
+    # Optionally post to Twitter (after successful file write)
+    tweet_result: TweetResult | None = None
+    if tweet:
+        tweet_result = post_tweet(
+            title=title,
+            description=description,
+            link=link,
+            dry_run=dry_run,
+        )
+
+    return True, tweet_result
 
 
 def trim_highlights(file_path: Path, max_items: int = MAX_HIGHLIGHTS) -> int:

@@ -188,7 +188,7 @@ def main() -> int:
         default=Path(__file__).parent.parent.parent
         / "unfinishablemap_log"
         / "evolve_loop.log",
-        help="Log file path (default: ../theunfinishablemap_log/evolve_loop.log)",
+        help="Log file path (default: ../unfinishablemap_log/evolve_loop.log)",
     )
     args = parser.parse_args()
 

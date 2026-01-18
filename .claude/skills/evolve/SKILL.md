@@ -186,10 +186,13 @@ If the session produced highlight-worthy work, add an item to the highlights pag
 - Failed tasks
 - Minor refinements
 
-Use the CLI:
+Use the CLI with the `--tweet` flag to also post to Twitter:
+
 ```bash
-uv run python scripts/highlights.py add "Title" "Description (max 280 chars)" --type new-article --link "[[article]]"
+uv run python scripts/highlights.py add "Title" "Description (max 280 chars)" --type new-article --link "[[article]]" --tweet
 ```
+
+**Note:** If Twitter credentials aren't configured, the highlight is still added without tweeting. The operation does not fail.
 
 The manager enforces max 1 highlight per day—if already added, it will silently skip.
 
