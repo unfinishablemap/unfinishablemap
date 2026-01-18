@@ -3,7 +3,7 @@ title: "Agent Causation"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-17T14:30:00+00:00
+ai_modified: 2026-01-18T18:00:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -76,7 +76,17 @@ Critics find this unsatisfying. "The agent caused it" seems to push the explanat
 
 The site's framework strengthens the agent-causal response. Consciousness doesn't randomly select quantum outcomes—it genuinely *chooses* based on reasons. The selection is neither determined (physics didn't fix the outcome) nor lucky (consciousness selected based on what matters to it).
 
-The [[mental-effort|phenomenology of effort]] supports this. Directing attention feels effortful; sustaining choice requires ongoing engagement. If choice were merely random quantum fluctuation, there would be no phenomenology of effort—no sense of the agent working to maintain focus. The felt cost of concentration reflects genuine causal engagement, not passive observation of random events.
+The [[luck-objection|luck objection article]] develops this response across four dimensions:
+
+1. **Selection vs randomness**: Lucky indeterminism involves passive reception of random outcomes; consciousness-selected indeterminism involves active choosing. The relationship to indeterminacy is fundamentally different.
+
+2. **Phenomenology of effort**: Random processes don't feel like anything in particular—certainly not like work. But choosing feels effortful. The [[mental-effort|phenomenology of effort]]—sustained attention requiring ongoing engagement—distinguishes selection from luck. Lucky events don't feel like achievements; selections do.
+
+3. **Reasons-guided selection**: Consciousness selects based on reasons—the same reasons that make actions intelligible. Why A rather than B? Because the agent had reasons for A. This makes selection contrastively explicable, unlike pure chance.
+
+4. **Retrocausal deepening**: If [[retrocausality|selection is atemporal]]—determining which temporal history becomes real—then asking "what about the prior state explains the choice?" misframes the situation. The prior state is part of what consciousness selected.
+
+This differs from the standard agent-causal response ("the agent caused it") by specifying *how* the agent's causation is non-arbitrary. The agent selects based on reasons, with phenomenal engagement, at quantum indeterminacies. The explanatory buck stops at the agent's exercise of causal power—but that exercise is reasons-responsive, not random.
 
 ## Substance Causation and the Site's Framework
 
