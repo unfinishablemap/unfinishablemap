@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T23:50:00+00:00
-session_count: 161
+last_updated: 2026-01-19T00:30:00+00:00
+session_count: 162
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -59,12 +59,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 79  # +1: multi-mind-collapse-problem.md (session 159)
+  concepts_written: 79  # unchanged
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 79  # unchanged
-  reviews_completed: 195  # +1: global-workspace-theory.md cross-review (session 161)
+  reviews_completed: 196  # +1: neural-correlates-of-consciousness.md cross-review (session 162)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (neural-correlates-of-consciousness/memory-systems)
+    date: 2026-01-19
+    result: success
+    session: 162
+    note: Added "Memory Systems and NCC Requirements" section explaining how different memory types (episodic, semantic, implicit) have different neural correlate requirements. Covers hippocampus as NCC for autonoetic consciousness, Tulving's three-level hierarchy mapped to NCCs with table, content vs enabling NCC distinction, and binding convergence between consciousness and memory. Added episodic-memory, semantic-memory, implicit-memory, autonoetic-consciousness, binding-problem to concepts and Further Reading.
   - task: cross-review (global-workspace-theory/memory-systems)
     date: 2026-01-18
     result: success

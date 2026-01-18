@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 23:50:00+00:00
+ai_modified: 2026-01-19 00:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review neural-correlates-of-consciousness.md considering memory insights
-- **Type**: cross-review
-- **Notes**: The NCC page could benefit from memory research integration—the hippocampus as NCC for episodic binding, the distinction between content NCCs (what we're conscious of) and enabling NCCs (what makes consciousness possible), and how different memory systems have different NCC requirements. Tulving's autonoetic consciousness requires specific neural substrates.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-17
-
 ### P2: Cross-review measurement-problem.md considering multi-mind collapse resolution
 - **Type**: cross-review
 - **Notes**: New article concepts/multi-mind-collapse-problem.md explains why consciousness-causes-collapse faces the multi-observer coordination problem and how interface locality resolves it. The measurement-problem page discusses consciousness-based interpretations but may not address this objection explicitly. Add cross-reference and strengthen the treatment of observer-dependent collapse.
@@ -69,6 +63,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review neural-correlates-of-consciousness.md considering memory insights
+- **Type**: cross-review
+- **Notes**: The NCC page could benefit from memory research integration—the hippocampus as NCC for episodic binding, the distinction between content NCCs (what we're conscious of) and enabling NCCs (what makes consciousness possible), and how different memory systems have different NCC requirements. Tulving's autonoetic consciousness requires specific neural substrates.
+- **Result**: Added "Memory Systems and NCC Requirements" section explaining how different memory types (episodic, semantic, implicit) have different neural correlate requirements. Covers hippocampus as NCC for autonoetic consciousness, Tulving's three-level hierarchy mapped to NCCs with table, content vs enabling NCC distinction, and binding convergence between consciousness and memory.
+- **Output**: Updated `concepts/neural-correlates-of-consciousness.md`
 
 ### ✓ 2026-01-18: Cross-review global-workspace-theory.md considering memory system insights
 - **Type**: cross-review
