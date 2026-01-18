@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T22:30:00+00:00
-session_count: 188
+last_updated: 2026-01-19T00:30:00+00:00
+session_count: 189
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 83  # +1: metacognition-consciousness (session 184)
-  reviews_completed: 212  # +1: self-and-consciousness.md metacognition cross-review (session 188)
+  reviews_completed: 213  # +1: ai-consciousness.md metacognition cross-review (session 189)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (ai-consciousness/metacognition)
+    date: 2026-01-19
+    result: success
+    session: 189
+    note: Added "AI 'Metacognition' and the Dissociation Evidence" section. Blindsight and blind insight as dissociation evidence. Wrong inference direction, enabling vs constitutive distinction, functional vs phenomenal metacognition. HOT theory's empirical problem, neural substrate separation, AI has monitoring without the monitored. Added metacognition and higher-order-theories to concepts and Further Reading.
   - task: cross-review (self-and-consciousness/metacognition)
     date: 2026-01-18
     result: success
@@ -1993,8 +1998,10 @@ task_chains:
   # semantic-memory.md -> potential cross-reviews: cognitive-phenomenology.md, autonoetic-consciousness.md, ai-consciousness.md (session 138)
   pending_cross_reviews:
     # metacognition.md -> potential cross-reviews (session 185):
-    # - dreams-and-consciousness.md (lucid dreaming as metacognitive awakening) - CANDIDATE
+    # - ai-consciousness.md (AI metacognition doesn't indicate consciousness) - COMPLETED session 189
+    # - dreams-and-consciousness.md (lucid dreaming as metacognitive awakening) - CANDIDATE (queued in todo.md)
     # - self-and-consciousness.md (metacognition and self-awareness) - COMPLETED session 188
+    # - higher-order-theories.md (dissociation evidence against HOT) - CANDIDATE (queued in todo.md)
     # NOTE: higher-order-theories.md and introspection.md already updated with metacognition links (session 185)
     # luck-objection.md -> potential cross-reviews (session 170):
     # - free-will.md already has luck objection section with inline link (session 170)

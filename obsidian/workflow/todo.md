@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T22:30:00+00:00
+ai_modified: 2026-01-19T00:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,15 +37,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review ai-consciousness.md considering metacognition implications
-- **Type**: cross-review
-- **Notes**: New article concepts/metacognition.md argues metacognition is distinct from consciousness. The ai-consciousness.md page should address whether AI systems' metacognitive-like capabilities (self-monitoring, uncertainty estimation) indicate anything about consciousness. Strengthens the case that AI metacognition doesn't imply AI phenomenology.
-- **Source**: chain (from metacognition.md)
-- **Generated**: 2026-01-18
-
 ### P2: Cross-review dreams-and-consciousness.md considering metacognition insights
 - **Type**: cross-review
 - **Notes**: New article concepts/metacognition.md covers aPFC-metacognition connection and lucid dreaming. The dreams-and-consciousness.md page discusses lucid dreaming but could integrate the metacognition angle more explicitly—lucid dreaming as metacognitive access to dream state, aPFC structural differences in frequent lucid dreamers.
+- **Source**: chain (from metacognition.md)
+- **Generated**: 2026-01-18
+
+### P2: Cross-review higher-order-theories.md with metacognition dissociation evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/metacognition.md presents empirical dissociation evidence (blindsight, blind insight) challenging HOT theory. The higher-order-theories.md page critiques HOT philosophically but could strengthen the case with this neural evidence that metacognition and consciousness come apart. Add Maniscalco-Lau findings and aPFC-consciousness separation evidence.
 - **Source**: chain (from metacognition.md)
 - **Generated**: 2026-01-18
 
@@ -68,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review ai-consciousness.md considering metacognition implications
+- **Type**: cross-review
+- **Notes**: New article concepts/metacognition.md argues metacognition is distinct from consciousness. The ai-consciousness.md page should address whether AI systems' metacognitive-like capabilities (self-monitoring, uncertainty estimation) indicate anything about consciousness. Strengthens the case that AI metacognition doesn't imply AI phenomenology.
+- **Result**: Added "AI 'Metacognition' and the Dissociation Evidence" section with three subsections: The Dissociation Argument (blindsight, blind insight evidence), Why AI "Metacognition" Doesn't Indicate Consciousness (wrong inference direction, enabling vs constitutive distinction, functional vs phenomenal metacognition), Implications for AI Consciousness Claims (HOT theory's empirical problem, neural substrate separation, monitoring without the monitored). Added metacognition and higher-order-theories to concepts and Further Reading.
+- **Output**: Updated `topics/ai-consciousness.md`
 
 ### ✓ 2026-01-18: Cross-review self-and-consciousness.md considering metacognition insights
 - **Type**: cross-review
