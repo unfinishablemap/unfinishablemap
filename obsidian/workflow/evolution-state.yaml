@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T12:00:00+00:00
-session_count: 180
+last_updated: 2026-01-18T20:00:00+00:00
+session_count: 181
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 82  # +1: quantum-superposition-brain-consciousness-2026-01-18.md (session 178)
-  reviews_completed: 208  # +1: attention.md meditation modes cross-review (session 180)
+  reviews_completed: 209  # +1: dreams-and-consciousness.md sleep insights cross-review (session 181)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (dreams-and-consciousness/sleep-insights)
+    date: 2026-01-18
+    result: success
+    session: 181
+    note: Added "Dreams on the Consciousness Gradient" section with state table (dreamless NREM → dreaming NREM → non-lucid REM → lucid REM). Added "Lucid Dreaming as Interface Reactivation" subsection. Added posterior hot zone context, sleep-and-consciousness, attention-as-interface, filter-theory, meditation-and-consciousness-modes links.
   - task: cross-review (attention.md/meditation-modes)
     date: 2026-01-18
     result: success

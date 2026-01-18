@@ -37,16 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review dreams-and-consciousness.md considering sleep insights
-- **Type**: cross-review
-- **Notes**: The sleep-and-consciousness.md article develops consciousness gradations, lucid dreaming as interface reactivation, and offline binding. The dreams-and-consciousness page could integrate these insights more fully—particularly the gradation framework (dreamless NREM → dreaming NREM → REM → lucid REM) and the interface reactivation mechanism for lucid dreaming.
-- **Source**: chain (from sleep-and-consciousness.md)
-- **Generated**: 2026-01-18
-
 ### P2: Strengthen dreams-and-consciousness.md with new research findings
 - **Type**: refine-draft
 - **Notes**: Research completed in research/dreams-lucid-dreaming-consciousness-2026-01-18.md. Key integration opportunities: (1) Add "Why Dreams Are Bizarre" section on predictive processing perspective. (2) Expand Demirel findings to emphasize distinct-state implication. (3) Connect to meditation training (both develop prefrontal metacognitive capacity). (4) Add ~10 bits/second bottleneck applies to dreams too. (5) Link 2025 COGITATE findings to posterior hot zone importance for dreaming.
 - **Source**: chain (from dreams-lucid-dreaming-consciousness-2026-01-18.md)
+- **Generated**: 2026-01-18
+
+### P2: Cross-review predictive-processing.md considering dream evidence
+- **Type**: cross-review
+- **Notes**: Research in dreams-lucid-dreaming-consciousness-2026-01-18.md develops predictive processing explanation for dream bizarreness—dreams as "unconstrained prediction without reality testing." The predictive-processing.md page could integrate dream phenomenology as evidence for the controlled hallucination framework. Dreams show what happens when prediction operates without bottom-up error correction.
+- **Source**: unconsumed_research
 - **Generated**: 2026-01-18
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -62,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review dreams-and-consciousness.md considering sleep insights
+- **Type**: cross-review
+- **Notes**: The sleep-and-consciousness.md article develops consciousness gradations, lucid dreaming as interface reactivation, and offline binding. The dreams-and-consciousness page could integrate these insights more fully—particularly the gradation framework (dreamless NREM → dreaming NREM → REM → lucid REM) and the interface reactivation mechanism for lucid dreaming.
+- **Result**: Added "Dreams on the Consciousness Gradient" section with state table (dreamless NREM → dreaming NREM → non-lucid REM → lucid REM). Added "Lucid Dreaming as Interface Reactivation" subsection explaining prefrontal reactivation and trainability. Added posterior hot zone context to REM correlations. Added sleep-and-consciousness, attention-as-interface, filter-theory, meditation-and-consciousness-modes to concepts and Further Reading.
+- **Output**: Updated `concepts/dreams-and-consciousness.md`
 
 ### ✓ 2026-01-18: Cross-review attention.md considering meditation modes insights
 - **Type**: cross-review
