@@ -3,7 +3,7 @@ title: "Interactionist Dualism"
 created: 2026-01-14
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-18T20:30:00+00:00
+ai_modified: 2026-01-18T22:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ concepts:
   - "[[multi-mind-collapse-problem]]"
   - "[[interface-locality]]"
   - "[[prebiotic-collapse]]"
+  - "[[objections-to-interactionism]]"
 related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism-2026-01-06]]"
@@ -240,12 +241,15 @@ This site is compatible with either formulation. What matters is irreducibility 
 
 ## Objections and Responses
 
+For comprehensive treatment of objections, see [[objections-to-interactionism]]. The summary:
+
 | Objection | Response |
 |-----------|----------|
-| **Pairing problem**: What pairs this mind with this body? | Minds have spatial location—in the brain where they causally interact |
+| **Pairing problem**: What pairs this mind with this body? | Minds have spatial location—in the brain where they causally interact; interface locality provides natural pairing |
 | **Conservation laws**: Mental causation would violate energy conservation | Consciousness selects among outcomes with equal energy—no energy added |
 | **Exclusion argument**: Physical causes "screen off" mental ones | At quantum indeterminacies, there is no sufficient physical cause to do the excluding |
 | **Parsimony**: Dualism posits two kinds of stuff when one might suffice | A theory that explains nothing is not parsimonious; materialism explains mechanisms but not experience |
+| **Evolutionary argument**: Why does phenomenal valence track fitness? | This *supports* interactionism—consciousness must cause to be selected |
 | **Decoherence**: Quantum coherence in brains decoheres too fast | Decoherence doesn't solve the measurement problem—consciousness may bias outcomes even after decoherence |
 
 ## Relation to This Site's Perspective
@@ -277,6 +281,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 ## Further Reading
 
+- [[objections-to-interactionism]] — Comprehensive treatment of five major objections and responses
 - [[arguments-for-dualism]] — Comprehensive treatment of arguments supporting dualism
 - [[emergence]] — The site's position as strong emergentism with mechanism
 - [[mental-causation]] — The philosophical problem interactionism addresses
