@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-19T02:00:00+00:00
-session_count: 193
+last_updated: 2026-01-18T16:00:00+00:00
+session_count: 194
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 83  # +1: metacognition-consciousness (session 184)
-  reviews_completed: 217  # +1: introspection.md metacognition cross-review (session 193)
+  reviews_completed: 218  # +1: temporal-consciousness.md sleep cross-review (session 194)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (temporal-consciousness/sleep)
+    date: 2026-01-18
+    result: success
+    session: 194
+    note: Added "Sleep and the Modulation of Temporal Experience" section with three subsections—When Time Disappears (dreamless NREM eliminates temporal experience), The Temporal Spectrum in Sleep (table showing specious present status across sleep states), Implications for the Site's Framework (dualism support, collapse mechanism, trainability). Added sleep-and-consciousness and dreams-and-consciousness to concepts and Further Reading.
   - task: cross-review (introspection/metacognition)
     date: 2026-01-19
     result: success

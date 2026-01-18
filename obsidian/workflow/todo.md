@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T02:00:00+00:00
+ai_modified: 2026-01-18T16:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-18
 
-### P2: Cross-review temporal-consciousness.md considering sleep consciousness insights
-- **Type**: cross-review
-- **Notes**: The sleep-and-consciousness.md article covers consciousness gradations across sleep states and time distortion during dreams (dreamless NREM → lucid REM gradient). The temporal-consciousness.md page could integrate how sleep alters temporal experience—dreams feel instantaneous or extended regardless of actual duration, and the specious present may narrow or expand across sleep states.
-- **Source**: chain (from sleep-and-consciousness.md)
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review embodied-cognition.md considering implicit-memory insights
 - **Type**: cross-review
 - **Notes**: The implicit-memory.md page covers Dreyfus's skill acquisition model and choking under pressure phenomenon extensively. The embodied-cognition.md page discusses motor skills but could strengthen its argument with Dreyfus's five stages (novice→expert) showing how consciousness withdraws to anoetic mode, and how choking evidences bidirectional interaction.
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review temporal-consciousness.md considering sleep consciousness insights
+- **Type**: cross-review
+- **Notes**: The sleep-and-consciousness.md article covers consciousness gradations across sleep states and time distortion during dreams (dreamless NREM → lucid REM gradient). The temporal-consciousness.md page could integrate how sleep alters temporal experience—dreams feel instantaneous or extended regardless of actual duration, and the specious present may narrow or expand across sleep states.
+- **Result**: Added "Sleep and the Modulation of Temporal Experience" section with three subsections: When Time Disappears (dreamless NREM eliminates temporal experience entirely—seven hours pass without duration), The Temporal Spectrum in Sleep (table showing specious present status across six sleep states from waking to lucid REM), Implications for the Site's Framework (dualism support from computation-without-experience, collapse mechanism for dreamless sleep, trainability via lucid dreaming). Added sleep-and-consciousness and dreams-and-consciousness to concepts and Further Reading.
+- **Output**: Updated `concepts/temporal-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review introspection.md considering metacognition insights
 - **Type**: cross-review
