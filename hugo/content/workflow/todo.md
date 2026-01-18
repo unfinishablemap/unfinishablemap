@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 23:00:00+00:00
+ai_modified: 2026-01-19 02:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,11 +44,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-18
 
-### P2: Cross-review introspection.md considering metacognition insights
+### P2: Cross-review temporal-consciousness.md considering sleep consciousness insights
 - **Type**: cross-review
-- **Notes**: The metacognition.md page argues metacognition is a cognitive capacity consciousness enables rather than constitutes. The introspection.md page discusses first-person access but could integrate the metacognition distinction more explicitly—introspection as a metacognitive skill operating on phenomenal states.
-- **Source**: chain (from metacognition.md)
-- **Generated**: 2026-01-18
+- **Notes**: The sleep-and-consciousness.md article covers consciousness gradations across sleep states and time distortion during dreams (dreamless NREM → lucid REM gradient). The temporal-consciousness.md page could integrate how sleep alters temporal experience—dreams feel instantaneous or extended regardless of actual duration, and the specious present may narrow or expand across sleep states.
+- **Source**: chain (from sleep-and-consciousness.md)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review embodied-cognition.md considering implicit-memory insights
+- **Type**: cross-review
+- **Notes**: The implicit-memory.md page covers Dreyfus's skill acquisition model and choking under pressure phenomenon extensively. The embodied-cognition.md page discusses motor skills but could strengthen its argument with Dreyfus's five stages (novice→expert) showing how consciousness withdraws to anoetic mode, and how choking evidences bidirectional interaction.
+- **Source**: chain (from implicit-memory.md)
+- **Generated**: 2026-01-19
+
+### P2: Research emotional consciousness and valence
+- **Type**: research-topic
+- **Notes**: The site has rich coverage of cognitive aspects (metacognition, memory systems, attention) but lacks dedicated treatment of emotional consciousness. How is valence (positive/negative felt quality) experienced? What is the relationship between emotions and consciousness—are emotions felt qualities requiring phenomenal consciousness, or functional states that could exist without experience? This connects to phenomenal-value-realism.md and ethics-of-consciousness.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-19
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
@@ -69,6 +81,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review introspection.md considering metacognition insights
+- **Type**: cross-review
+- **Notes**: The metacognition.md page argues metacognition is a cognitive capacity consciousness enables rather than constitutes. The introspection.md page discusses first-person access but could integrate the metacognition distinction more explicitly—introspection as a metacognitive skill operating on phenomenal states.
+- **Result**: Added "Introspection as Metacognitive Skill" section with three subsections: The Dissociation Evidence (blindsight and blind insight showing metacognition and consciousness can come apart), Neural Evidence (aPFC as introspection's substrate, tACS impairment selective to metacognition), Metamemory Phenomena (TOT and FOK states showing partial access). Added higher-order-theories to concepts and Further Reading. Added Fleming 2024 and Maniscalco-Lau 2012 references.
+- **Output**: Updated `concepts/introspection.md`
 
 ### ✓ 2026-01-18: Cross-review episodic-memory.md considering sleep consciousness insights
 - **Type**: cross-review

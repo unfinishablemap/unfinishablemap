@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T23:00:00+00:00
-session_count: 192
+last_updated: 2026-01-19T02:00:00+00:00
+session_count: 193
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 83  # +1: metacognition-consciousness (session 184)
-  reviews_completed: 216  # +1: episodic-memory.md sleep consolidation cross-review (session 192)
+  reviews_completed: 217  # +1: introspection.md metacognition cross-review (session 193)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (introspection/metacognition)
+    date: 2026-01-19
+    result: success
+    session: 193
+    note: Added "Introspection as Metacognitive Skill" section with three subsections—Dissociation Evidence (blindsight, blind insight), Neural Evidence (aPFC substrate, tACS impairment selective to metacognition), Metamemory Phenomena (TOT, FOK showing partial access). Added higher-order-theories to concepts and Further Reading. Fleming 2024 and Maniscalco-Lau 2012 references added.
   - task: cross-review (episodic-memory/sleep-consolidation)
     date: 2026-01-18
     result: success
