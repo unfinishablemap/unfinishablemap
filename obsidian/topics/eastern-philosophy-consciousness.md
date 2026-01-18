@@ -1,9 +1,9 @@
 ---
 title: "Eastern Philosophy and Consciousness"
 created: 2026-01-09
-modified: 2026-01-09
+modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-15T14:00:00+00:00
+ai_modified: 2026-01-18T22:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,9 @@ concepts:
   - "[[existentialism]]"
   - "[[neurophenomenology]]"
   - "[[dreams-and-consciousness]]"
+  - "[[witness-consciousness]]"
+  - "[[self-and-consciousness]]"
+  - "[[meditation-and-consciousness-modes]]"
 related_articles:
   - "[[tenets]]"
   - "[[buddhist-perspectives-meaning-2026-01-06]]"
@@ -50,6 +53,14 @@ The doctrine of *anattā* (no-self) is Buddhism's most distinctive and challengi
 The target is *ātman*—the Hindu concept of an eternal, unchanging soul that transmigrates between lives. Buddhism rejects this. What continues from moment to moment, and life to life, is a causal process—not a substance. The flame that burns tonight is causally connected to yesterday's flame but isn't the same flame.
 
 This creates an apparent tension with dualism. Doesn't dualism require a "self" that is distinct from the body? Buddhism says no such self exists.
+
+### The Witness Tradition
+
+Despite rejecting a permanent self, both Hindu and Buddhist traditions extensively discuss [[witness-consciousness]]—the *sakshi* (Sanskrit: "seer" or "observer")—the pure awareness that observes mental contents without identification. In Advaita Vedanta, the witness is self-luminous and unchanging, the stable background while thoughts arise and pass. Buddhism's relationship to witness consciousness is more complex: while denying a permanent observer-self, Buddhist meditation cultivates precisely the capacity to observe mental contents as objects.
+
+The resolution may lie in distinguishing *what is denied*. Buddhism rejects an eternal soul-substance persisting through rebirth; it need not reject the phenomenal structure of awareness that makes observation possible. When Buddhist practitioners achieve the capacity to observe thoughts as objects, they access witness consciousness experientially while remaining agnostic about its ultimate ontological status.
+
+The witness tradition provides phenomenological evidence for dualism: if consciousness can observe thoughts as objects, then the observer cannot be identical to what is observed. This subject-object structure—accessible through contemplative practice—reveals something irreducible about experience. The witness cannot become an object; it is the condition for there being objects of experience at all.
 
 ### Mind-Only: The Yogācāra School
 
@@ -183,6 +194,8 @@ Eastern philosophy offers several insights the site can integrate:
 
 ## Further Reading
 
+- [[witness-consciousness]] — The sakshi tradition in Advaita Vedanta and Buddhist meditation
+- [[meditation-and-consciousness-modes]] — Active selection and passive witnessing modes
 - [[dreams-and-consciousness]] — Dreams, lucid dreaming, and Tibetan dream yoga
 - [[neurophenomenology]] — The scientific research program bridging contemplative traditions and neuroscience
 - [[meaning-of-life]] — Western approaches to significance

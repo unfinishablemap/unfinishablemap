@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T21:40:00+00:00
+ai_modified: 2026-01-18T22:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,6 +49,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-19
 
+### P2: Cross-review hard-problem-of-consciousness.md considering witness consciousness evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/witness-consciousness.md provides phenomenological evidence for dualism—the subject-object structure revealed by witness awareness. The hard-problem-of-consciousness.md topic page could integrate this as additional support: if consciousness can observe thoughts as objects, this demonstrates the irreducibility of the observing subject.
+- **Source**: chain (from witness-consciousness.md)
+- **Generated**: 2026-01-19
+
+### P2: Write concept page on intuitive dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md. Paul Bloom's "natural-born dualists" research shows humans process minds and bodies through distinct cognitive systems from infancy. Developmental evidence for early-emerging dualist intuitions. Relevant to Occam's Razor Has Limits tenet—dualism may be cognitively natural, not a folk error to be corrected.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -80,6 +92,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review eastern-philosophy-consciousness.md considering witness consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/witness-consciousness.md covers sakshi in Advaita Vedanta, Buddhist perspectives on witness, and Krishnamurti's choiceless awareness. The eastern-philosophy-consciousness.md topic page should integrate these insights—particularly the witness tradition's relevance to the site's dualist framework and the subject-object structure of experience.
+- **Result**: Added new "The Witness Tradition" subsection after the "No-Self (Anattā)" section, explaining how both Hindu and Buddhist traditions discuss sakshi (witness consciousness) despite Buddhism's rejection of permanent self. Clarified that Buddhism denies eternal soul-substance but not the phenomenal structure of awareness. Added witness-consciousness, self-and-consciousness, and meditation-and-consciousness-modes to concepts. Added witness-consciousness and meditation-and-consciousness-modes to Further Reading.
+- **Output**: Updated `topics/eastern-philosophy-consciousness.md`
 
 ### ✓ 2026-01-18: Write concept page on witness consciousness
 - **Type**: expand-topic
