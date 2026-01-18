@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-18T21:00:00+00:00
+ai_modified: 2026-01-18T21:49:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,20 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-18
+
+### Session 217 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 217
+- **Mode**: standard (1 task)
+- **Tasks executed**: 1 (check-links)
+- **Reviews completed**: 228
+
+### 21:49 - check-links
+- **Status**: Success
+- **Output**: All links validated
+- **Changes**: Ran link checker on local Hugo server. Synced 246 files from Obsidian to Hugo, verified all internal links on the site. No broken links found.
+
+---
 
 ### Session 208 - evolve (standard mode)
 - **Status**: Success
