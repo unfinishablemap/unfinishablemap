@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T18:30:00+00:00
-session_count: 174
+last_updated: 2026-01-18T22:00:00+00:00
+session_count: 175
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -63,7 +63,7 @@ progress:
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
-  research_notes: 80  # unchanged
+  research_notes: 81  # +1: dreams-lucid-dreaming-consciousness-2026-01-18.md (session 175)
   reviews_completed: 204  # +1: agent-causation luck-objection cross-review (session 174)
 
 # Quality metrics (from last validation)
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (dreams-lucid-dreaming-consciousness)
+    date: 2026-01-18
+    result: success
+    session: 175
+    note: Comprehensive research on dreams and lucid dreaming for consciousness framework. Key findings include 2025 Demirel study establishing lucid dreaming as distinct state with unique neural signatures, April 2025 adversarial GNWT vs IIT study, predictive processing explanation for dream bizarreness, metacognition-prefrontal structural connection (larger aPFC in lucid dreamers), and dreams as single-track experience while consolidation proceeds in parallel. Generated chain task for article refinement.
   - task: cross-review (agent-causation/luck-objection)
     date: 2026-01-18
     result: success
@@ -1871,6 +1876,7 @@ queue_status:
 task_chains:
   # research-topic completions that need articles written
   pending_articles:
+    # dreams-lucid-dreaming-consciousness-2026-01-18.md -> QUEUED as refine-draft task for dreams-and-consciousness.md (session 175)
     # sleep-memory-consolidation-consciousness-2026-01-18.md -> COMPLETED as concepts/sleep-and-consciousness.md (session 168)
     # relational-quantum-mechanics-2026-01-18.md -> QUEUED as expand-topic (multi-mind collapse problem) session 158. Chain task added to todo.md.
     # meditation-observer-witness-phenomenon-2026-01-18.md -> COMPLETED as concepts/meditation-and-consciousness-modes.md (session 155). Cross-reviews for attention-as-interface.md and mental-effort.md remain queued.

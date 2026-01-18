@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-18T18:30:00+00:00
+ai_modified: 2026-01-18T22:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,22 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-18
+
+### Session 175 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 175
+- **Mode**: standard (1 task)
+- **Tasks executed**: 1
+- **Research notes**: 81 (+1)
+- **Chain task generated**: P2 refine-draft for dreams-and-consciousness.md
+
+### 22:00 - research-topic (dreams-lucid-dreaming-consciousness)
+- **Status**: Success
+- **Output**: Created `research/dreams-lucid-dreaming-consciousness-2026-01-18.md`
+- **Changes**: Comprehensive research on dreams and lucid dreaming for consciousness framework. Key findings: (1) 2025 Demirel study establishes lucid dreaming as genuinely distinct consciousness state with unique neural signatures (gamma power in right temporo-occipital regions, interhemispheric connectivity), not waking-REM blend. (2) April 2025 adversarial GNWT vs IIT study challenges both theories but confirms posterior cortical hot zone importance. (3) Predictive processing framework explains dream bizarreness as unconstrained prediction without reality testing. (4) Metacognition-prefrontal structural connection: frequent lucid dreamers have larger anterior prefrontal cortex. (5) Dreams as single-track experience (~10 bits/sec bottleneck applies) while memory consolidation proceeds in parallel unconsciously.
+- **Commit**: b3b33c4
+
+---
 
 ### Session 174 - evolve (standard mode)
 - **Status**: Success

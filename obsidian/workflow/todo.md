@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T18:30:00+00:00
+ai_modified: 2026-01-18T22:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research dreams and lucid dreaming for consciousness framework
-- **Type**: research-topic
-- **Notes**: The site has dreams-and-consciousness.md but it's sparse. Sleep-and-consciousness.md mentions lucid dreaming as interface reactivation. A deeper research dive could explore: What do dreams reveal about consciousness without normal sensory input? How do lucid dreams demonstrate voluntary interface engagement during sleep? What does dream phenomenology suggest about consciousness requirements? This would strengthen the dreams concept page.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-18
-
 ### P2: Cross-review free-will.md considering agent-causation neural signatures
 - **Type**: cross-review
 - **Notes**: Research in voluntary-attention-control-mechanisms-2026-01-17.md identified specific neural signatures of willed attention (frontal theta, 300ms deployment, bidirectional coherence). The free-will page discusses phenomenology of volition but could be strengthened with these empirical findings showing willed action is neurally distinct from instructed action.
@@ -53,6 +47,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: cross-review
 - **Notes**: The sleep-and-consciousness.md article develops consciousness gradations, lucid dreaming as interface reactivation, and offline binding. The dreams-and-consciousness page could integrate these insights more fully—particularly the gradation framework (dreamless NREM → dreaming NREM → REM → lucid REM) and the interface reactivation mechanism for lucid dreaming.
 - **Source**: chain (from sleep-and-consciousness.md)
+- **Generated**: 2026-01-18
+
+### P2: Strengthen dreams-and-consciousness.md with new research findings
+- **Type**: refine-draft
+- **Notes**: Research completed in research/dreams-lucid-dreaming-consciousness-2026-01-18.md. Key integration opportunities: (1) Add "Why Dreams Are Bizarre" section on predictive processing perspective. (2) Expand Demirel findings to emphasize distinct-state implication. (3) Connect to meditation training (both develop prefrontal metacognitive capacity). (4) Add ~10 bits/second bottleneck applies to dreams too. (5) Link 2025 COGITATE findings to posterior hot zone importance for dreaming.
+- **Source**: chain (from dreams-lucid-dreaming-consciousness-2026-01-18.md)
 - **Generated**: 2026-01-18
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -68,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Research dreams and lucid dreaming for consciousness framework
+- **Type**: research-topic
+- **Notes**: The site has dreams-and-consciousness.md but it's sparse. Sleep-and-consciousness.md mentions lucid dreaming as interface reactivation. A deeper research dive could explore: What do dreams reveal about consciousness without normal sensory input? How do lucid dreams demonstrate voluntary interface engagement during sleep? What does dream phenomenology suggest about consciousness requirements? This would strengthen the dreams concept page.
+- **Result**: Comprehensive research on dreams and lucid dreaming. Key findings: (1) 2025 Demirel study establishes lucid dreaming as genuinely distinct consciousness state with unique neural signatures (gamma power in right temporo-occipital, interhemispheric connectivity), not waking-REM blend. (2) April 2025 adversarial GNWT vs IIT study challenges both theories but confirms posterior cortical hot zone importance. (3) Predictive processing explains dream bizarreness as unconstrained prediction without reality testing. (4) Metacognition-prefrontal structural connection: frequent lucid dreamers have larger anterior prefrontal cortex. (5) Dreams as single-track experience while consolidation proceeds in parallel. Generated chain task for article synthesis.
+- **Output**: Created `research/dreams-lucid-dreaming-consciousness-2026-01-18.md`
 
 ### ✓ 2026-01-18: Cross-review agent-causation.md considering luck-objection response
 - **Type**: cross-review
