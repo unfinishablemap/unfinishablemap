@@ -16,6 +16,7 @@ concepts:
   - "[[autonoetic-consciousness]]"
   - "[[temporal-consciousness]]"
   - "[[metacognition]]"
+  - "[[witness-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[eastern-philosophy-consciousness]]"
@@ -223,6 +224,7 @@ The filter theory interprets these findings coherently: the narrative self is co
 - [[mind-brain-separation]] — Filter theory and the rendering engine analogy
 - [[eastern-philosophy-consciousness]] — Buddhist and Eastern perspectives
 - [[neurophenomenology]] — Bridging first-person and third-person investigation
+- [[witness-consciousness]] — The sakshi/observer phenomenon
 - [[self-consciousness-philosophy-2026-01-15]] — Research notes on this topic
 
 ## References

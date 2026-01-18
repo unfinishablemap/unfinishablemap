@@ -125,6 +125,7 @@ This matters for consciousness science. If we restricted inquiry to third-person
 - [[mysterianism]] — Whether consciousness may exceed cognitive access
 - [[metacognition]] — The cognitive capacity enabling introspective access
 - [[higher-order-theories]] — Views conflating metacognition with consciousness
+- [[witness-consciousness]] — The observer phenomenon in contemplative traditions
 
 ## References
 
