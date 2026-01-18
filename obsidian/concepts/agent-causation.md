@@ -13,6 +13,7 @@ concepts:
   - "[[mental-effort]]"
   - "[[implicit-memory]]"
   - "[[attention-as-interface]]"
+  - "[[luck-objection]]"
 related_articles:
   - "[[tenets]]"
   - "[[agent-causation-libertarian-free-will-2026-01-14]]"

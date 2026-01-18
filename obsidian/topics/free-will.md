@@ -24,6 +24,7 @@ concepts:
   - "[[prospective-memory]]"
   - "[[autonoetic-consciousness]]"
   - "[[meditation-and-consciousness-modes]]"
+  - "[[luck-objection]]"
 related_articles:
   - "[[tenets]]"
   - "[[libet-experiments-free-will-2026-01-07]]"
@@ -83,7 +84,7 @@ Classical physics is deterministic, but quantum mechanics isn't. Before measurem
 
 Does this help? Critics argue quantum randomness doesn't give us free will—it gives us random will. Random choices aren't more "free" than determined ones; they're just arbitrary.
 
-This intuition has been developed into what philosophers call the **luck objection**—and addressing it is essential for any quantum approach to free will.
+This intuition has been developed into what philosophers call the **[[luck-objection|luck objection]]**—and addressing it is essential for any quantum approach to free will.
 
 ### The Luck Objection
 
