@@ -12,6 +12,7 @@ concepts:
 - '[[near-death-experiences]]'
 - '[[dreams-and-consciousness]]'
 - '[[brain-specialness]]'
+- '[[altered-states-of-consciousness]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 draft: false
@@ -163,6 +164,7 @@ Filter theory supports and is supported by the site's [foundational commitments]
 
 ## Further Reading
 
+- [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Psychedelics, flow, hypnosis, and interface configurations
 - [brain-specialness](/concepts/brain-specialness/) — Why brains specifically can serve as consciousness interfaces
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy and faculty division
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Anesthesia, covert consciousness, and the filter interpretation

@@ -24,6 +24,7 @@ concepts:
 - '[[luck-objection]]'
 - '[[quantum-biology]]'
 - '[[motor-selection]]'
+- '[[altered-states-of-consciousness]]'
 created: 2026-01-09
 date: &id001 2026-01-09
 draft: false

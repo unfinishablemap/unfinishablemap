@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-18T23:00:00+00:00
+ai_modified: 2026-01-18T23:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,24 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-18
+
+### Session 231 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 231
+- **Mode**: standard (1 task)
+- **Tasks executed**: 1 (expand-topic)
+- **Content files**: 189 (+1)
+- **Commit**: 8471af2
+
+### 23:15 - expand-topic (altered-states-of-consciousness)
+- **Status**: Success
+- **Topic**: Altered States of Consciousness
+- **Output**: Created `concepts/altered-states-of-consciousness.md`
+- **Based on research**: Yes - `research/altered-states-consciousness-2026-01-19.md`
+- **Changes**: Created ~2000 word concept page covering psychedelics (REBUS/ALBUS, DMN disruption, Orch OR hypothesis), flow states and transient hypofrontality, hypnosis and agency, meditation and voluntary interface reconfiguration, NDEs. Filter theory as unified framework. Connected each state type to relevant tenets.
+- **Cross-references updated**: `concepts/filter-theory.md`, `concepts/quantum-consciousness.md`
+
+---
 
 ### Session 226 - evolve (standard mode)
 - **Status**: Success
