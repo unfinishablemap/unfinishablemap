@@ -41,6 +41,16 @@ class EvolveError(Exception):
         super().__init__(f"Evolve failed with exit code {returncode}")
 
 
+class EvolveTimeout(Exception):
+    """Raised when the evolve command times out."""
+
+    def __init__(self, timeout_seconds: int, stdout: str, stderr: str):
+        self.timeout_seconds = timeout_seconds
+        self.stdout = stdout
+        self.stderr = stderr
+        super().__init__(f"Evolve timed out after {timeout_seconds} seconds")
+
+
 def setup_logging(log_file: Path) -> None:
     """Configure logging with console and rotating file handlers."""
     log.setLevel(logging.INFO)
@@ -96,8 +106,13 @@ def git_push() -> None:
         raise GitError("git push", result.returncode, result.stdout, result.stderr)
 
 
-def run_evolve(verbose: bool = True) -> str:
-    """Run a single evolve iteration. Returns claude output. Raises EvolveError on failure."""
+def run_evolve(verbose: bool = True, timeout_seconds: int = 5400) -> str:
+    """Run a single evolve iteration. Returns claude output.
+
+    Raises:
+        EvolveError: If the command fails with non-zero exit code.
+        EvolveTimeout: If the command exceeds timeout_seconds (default 90 minutes).
+    """
     cmd = [
         "claude",
         "--dangerously-skip-permissions",
@@ -108,12 +123,18 @@ def run_evolve(verbose: bool = True) -> str:
         cmd.append("--verbose")
     cmd.extend(["-p", "Run the evolve skill"])
 
-    result = subprocess.run(
-        cmd,
-        capture_output=True,
-        text=True,
-        cwd=REPO_ROOT,
-    )
+    try:
+        result = subprocess.run(
+            cmd,
+            capture_output=True,
+            text=True,
+            cwd=REPO_ROOT,
+            timeout=timeout_seconds,
+        )
+    except subprocess.TimeoutExpired as e:
+        stdout = e.stdout.decode("utf-8") if e.stdout else ""
+        stderr = e.stderr.decode("utf-8") if e.stderr else ""
+        raise EvolveTimeout(timeout_seconds, stdout, stderr) from e
 
     # Log the output regardless of success/failure
     output = result.stdout
@@ -224,11 +245,22 @@ def main() -> int:
                     log.info(f"Claude output ({len(output_lines)} lines):")
                     for line in output_lines:
                         log.info(f"  {line}")
+            except EvolveTimeout as e:
+                failures += 1
+                log.error(f"Evolve timed out after {e.timeout_seconds // 60} minutes")
+                if e.stdout:
+                    log.error("--- stdout (last 100 lines) ---")
+                    for line in e.stdout.strip().split("\n")[-100:]:
+                        log.error(f"  {line}")
+                if e.stderr:
+                    log.error("--- stderr ---")
+                    for line in e.stderr.strip().split("\n"):
+                        log.error(f"  {line}")
             except EvolveError as e:
                 failures += 1
                 log.error(f"Evolve failed with exit code {e.returncode}")
                 if e.stdout:
-                    log.error("--- stdout ---")
+                    log.error("--- stdout (last 100 lines) ---")
                     for line in e.stdout.strip().split("\n")[-100:]:
                         log.error(f"  {line}")
                 if e.stderr:
