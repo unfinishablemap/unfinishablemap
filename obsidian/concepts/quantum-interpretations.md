@@ -14,6 +14,8 @@ concepts:
   - "[[retrocausality]]"
   - "[[many-worlds]]"
   - "[[collapse-and-time]]"
+  - "[[relational-quantum-mechanics]]"
+  - "[[multi-mind-collapse-problem]]"
 related_articles:
   - "[[tenets]]"
   - "[[qm-interpretations-beyond-mwi-2026-01-16]]"
@@ -84,11 +86,13 @@ Answers fall into three categories:
 - Physical properties exist only relative to observers
 - There is no absolute, observer-independent state
 - Different observers can consistently attribute different states
-- Reality is fundamentally relational
+- "Observer" means any physical system, not necessarily conscious
 
-**Consciousness role:** Unclear. RQM makes all physical facts relational but doesn't specify what counts as an "observer." If any physical system can be an observer, consciousness is not privileged. If consciousness is required, RQM would support something like this site's view.
+**Consciousness role:** None. Rovelli is explicit: "There is nothing subjective, idealistic, or mentalistic, in RQM." The interpretation succeeds specifically by removing consciousness from measurement. Any physical system—a rock, a photon detector, a brain—is equally an "observer" whose interactions produce relative facts.
 
-**Site compatibility:** Moderate. RQM's relationality aligns with rejecting view-from-nowhere physicalism. But RQM typically doesn't require consciousness specifically—any interacting system could be an "observer."
+**Why this matters:** RQM elegantly dissolves the [[multi-mind-collapse-problem]]—if facts are relative to each observer and need not agree until observers interact, there's no coordination paradox. But this elegance comes at the cost of mental causation. See [[relational-quantum-mechanics]] for detailed treatment.
+
+**Site compatibility:** **Low.** RQM explicitly removes consciousness's special role, directly conflicting with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. While RQM shares the site's rejection of many-worlds, it provides no mechanism for consciousness to influence physical outcomes.
 
 ### Transactional Interpretation (TI) and Two-State Vector Formalism (TSVF)
 
@@ -131,7 +135,7 @@ Answers fall into three categories:
 | Bohmian | No | Yes | None | Low |
 | MWI | No (global) | Yes | None | **Rejected** |
 | QBism | Epistemic only | N/A | Agent-centered but anti-realist | Mixed |
-| Relational QM | Relational | No | Observer-dependent, not necessarily conscious | Moderate |
+| Relational QM | Relational | No | **None** (observer = any physical system) | **Low** |
 | **Transactional/TSVF** | Via transaction | No | **Atemporal selection** | **High** |
 | GRW/CSL | Physical process | No | None (standard) / Modulation (variants) | Moderate-High |
 | Penrose OR | Gravitational | No | Constituted by collapse | Moderate |
@@ -174,6 +178,8 @@ Interpretations that eliminate consciousness (Bohmian mechanics, MWI) or treat i
 
 - [[measurement-problem]] — The problem all interpretations address
 - [[many-worlds]] — Why this site rejects MWI
+- [[relational-quantum-mechanics]] — Rovelli's interpretation and why the site rejects it
+- [[multi-mind-collapse-problem]] — How multiple conscious observers coordinate
 - [[retrocausality]] — Time-symmetric causation and free will
 - [[collapse-and-time]] — How collapse relates to temporal experience
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interface
