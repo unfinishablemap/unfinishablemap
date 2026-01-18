@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T14:00:00+00:00
+ai_modified: 2026-01-18T17:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review quantum-consciousness.md considering meditation selector/witness modes
-- **Type**: cross-review
-- **Notes**: New article concepts/meditation-and-consciousness-modes.md develops the distinction between active selection (quantum Zeno) and passive witnessing (reduced observation rate). The quantum-consciousness page could integrate witness mode as evidence that consciousness can modulate its collapse-inducing activity—not just select, but also refrain from selecting.
-- **Source**: chain (from meditation-and-consciousness-modes.md)
-- **Generated**: 2026-01-18
-
 ### P2: Cross-review free-will.md considering meditation selector/witness modes
 - **Type**: cross-review
 - **Notes**: New article concepts/meditation-and-consciousness-modes.md develops the distinction between active selection and passive witnessing. The free-will page could integrate the capacity to suspend selection as an aspect of agency—not just choosing among options, but choosing whether to choose at all. This extends libertarian free will beyond mere selection.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review quantum-consciousness.md considering meditation selector/witness modes
+- **Type**: cross-review
+- **Notes**: New article concepts/meditation-and-consciousness-modes.md develops the distinction between active selection (quantum Zeno) and passive witnessing (reduced observation rate). The quantum-consciousness page could integrate witness mode as evidence that consciousness can modulate its collapse-inducing activity—not just select, but also refrain from selecting.
+- **Result**: Added "Evidence from Meditation: Modulating the Observation Rate" subsection to the Quantum Zeno Effect section. Includes FA/OM comparison table (phenomenology, neural signatures, Zeno interpretation). Explains how meditation research shows consciousness can modulate its collapse-inducing activity—select or refrain from selecting. Four implications: effort phenomenology explained, trainability confirmed, two capacities without fragmenting consciousness, testable predictions.
+- **Output**: Updated `concepts/quantum-consciousness.md`
 
 ### ✓ 2026-01-18: Cross-review measurement-problem.md considering multi-mind collapse resolution
 - **Type**: cross-review
