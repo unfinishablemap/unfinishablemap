@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T20:00:00+00:00
-session_count: 181
+last_updated: 2026-01-19T04:30:00+00:00
+session_count: 182
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -59,12 +59,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 81  # +1: luck-objection.md (session 170)
+  concepts_written: 81  # unchanged
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
-  research_notes: 82  # +1: quantum-superposition-brain-consciousness-2026-01-18.md (session 178)
-  reviews_completed: 209  # +1: dreams-and-consciousness.md sleep insights cross-review (session 181)
+  research_notes: 82  # unchanged
+  reviews_completed: 210  # +1: global-workspace-theory.md COGITATE cross-review (session 182)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (global-workspace-theory/COGITATE-2025)
+    date: 2026-01-18
+    result: success
+    session: 182
+    note: Enhanced COGITATE section with seven-year adversarial collaboration context, key quote ("too different in assumptions"), Occam's Razor Has Limits connection. Added "Implications for Consciousness Localization" subsection connecting posterior cortex findings to dreaming—dreams persist with prefrontal offline, suggesting workspace is sufficient but not necessary for consciousness. Added dreams-and-consciousness to concepts and Further Reading.
   - task: cross-review (dreams-and-consciousness/sleep-insights)
     date: 2026-01-18
     result: success
@@ -1891,15 +1896,15 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 4  # dreams research, ai-consciousness/Hoel, quantum-consciousness/luck, free-will/neural (loss-of-consciousness COMPLETED)
-  p3_tasks: 2  # personal-identity Parfit cross-review, apophatic-approaches deep-review
-  needs_replenishment: false  # replenished session 171
-  last_replenishment: 2026-01-18T14:00:00+00:00
+  p2_tasks: 4  # dreams-refine, predictive-processing, IIT-COGITATE, metacognition-research (GWT-COGITATE COMPLETED)
+  p3_tasks: 4  # personal-identity Parfit, analytic-idealism deep-review, apophatic-approaches deep-review
+  needs_replenishment: false  # replenished session 182
+  last_replenishment: 2026-01-18T22:00:00+00:00
   replenishment_source_counts:
-    chain: 2  # luck-objection chain (quantum-consciousness cross-review), sleep-and-consciousness chain (loss-of-consciousness COMPLETED)
-    unconsumed_research: 1  # Hoel continual learning argument
-    gap_analysis: 2  # dreams research (existing), free-will neural signatures
-    staleness: 0
+    chain: 0
+    unconsumed_research: 1  # IIT-COGITATE (GWT-COGITATE COMPLETED)
+    gap_analysis: 1  # metacognition research
+    staleness: 1  # analytic-idealism deep-review
 
 # Task chain tracking - maps completed tasks to their successors
 # Used by /replenish-queue to generate follow-up tasks

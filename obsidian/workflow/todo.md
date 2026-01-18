@@ -49,11 +49,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-18
 
+### P2: Cross-review integrated-information-theory.md considering April 2025 COGITATE findings
+- **Type**: cross-review
+- **Notes**: The April 2025 adversarial study found "lack of sustained synchronization within posterior cortex contradicts connectivity claims" for IIT. The integrated-information-theory.md page should integrate this major empirical challenge from the COGITATE collaboration.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-18
+
+### P2: Research metacognition and consciousness
+- **Type**: research-topic
+- **Notes**: The dreams research reveals strong metacognition-prefrontal connection (lucid dreamers have larger aPFC). Metacognition—thinking about thinking—is central to consciousness debates (higher-order theories, introspection reliability, self-awareness). Site lacks dedicated coverage. Would connect to higher-order-theories.md, introspection.md, self-and-consciousness.md, lucid dreaming content.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-18
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
 - **Source**: chain (from parfit-reductionism.md)
 - **Generated**: 2026-01-17
+
+### P3: Deep review analytic-idealism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-15, no deep review since creation. Check for cross-links to newer content (phenomenal-value-realism.md, interface-locality.md, multi-mind-collapse-problem.md) and currency of arguments.
+- **Source**: staleness
+- **Generated**: 2026-01-18
 
 ### P3: Deep review apophatic-approaches.md for cross-linking
 - **Type**: deep-review
@@ -62,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review global-workspace-theory.md considering April 2025 COGITATE findings
+- **Type**: cross-review
+- **Notes**: The April 2025 adversarial GNWT vs IIT study (documented in dreams-lucid-dreaming-consciousness-2026-01-18.md) challenges GNWT with "general lack of ignition at stimulus offset" and "limited representation in prefrontal cortex." The global-workspace-theory.md page should acknowledge these empirical challenges and what they mean for the theory.
+- **Result**: Enhanced COGITATE section with seven-year adversarial collaboration context, key quote ("too different in assumptions"), expanded Occam's Razor Has Limits connection. Added new "Implications for Consciousness Localization" subsection connecting COGITATE posterior cortex findings to dreaming evidence—dreams persist with prefrontal offline, suggesting workspace is sufficient but not necessary for consciousness. Added dreams-and-consciousness to concepts and Further Reading.
+- **Output**: Updated `concepts/global-workspace-theory.md`
 
 ### ✓ 2026-01-18: Cross-review dreams-and-consciousness.md considering sleep insights
 - **Type**: cross-review
