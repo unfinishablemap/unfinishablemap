@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 02:00:00+00:00
+ai_modified: 2026-01-18 20:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,12 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-18
 
-### P2: Cross-review temporal-consciousness.md considering sleep consciousness insights
-- **Type**: cross-review
-- **Notes**: The sleep-and-consciousness.md article covers consciousness gradations across sleep states and time distortion during dreams (dreamless NREM → lucid REM gradient). The temporal-consciousness.md page could integrate how sleep alters temporal experience—dreams feel instantaneous or extended regardless of actual duration, and the specious present may narrow or expand across sleep states.
-- **Source**: chain (from sleep-and-consciousness.md)
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review embodied-cognition.md considering implicit-memory insights
 - **Type**: cross-review
 - **Notes**: The implicit-memory.md page covers Dreyfus's skill acquisition model and choking under pressure phenomenon extensively. The embodied-cognition.md page discusses motor skills but could strengthen its argument with Dreyfus's five stages (novice→expert) showing how consciousness withdraws to anoetic mode, and how choking evidences bidirectional interaction.
@@ -61,6 +55,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: The site has rich coverage of cognitive aspects (metacognition, memory systems, attention) but lacks dedicated treatment of emotional consciousness. How is valence (positive/negative felt quality) experienced? What is the relationship between emotions and consciousness—are emotions felt qualities requiring phenomenal consciousness, or functional states that could exist without experience? This connects to phenomenal-value-realism.md and ethics-of-consciousness.md.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-19
+
+### P2: Address metacognition self-undermining tension
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-18 found that the metacognition article's dissociation evidence may undermine the introspective reliability the site depends upon elsewhere. Add section addressing this tension—dissociation shows metacognition can fail, not that it typically does; trained introspection improves reliability.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-18
+
+### P2: Strengthen luck-objection phenomenology argument
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-18 found the phenomenology-based response vulnerable to zombie objection. Engage with the dialectic: site's dualism already rejects zombies, so zombie-based objections are question-begging from site perspective. Make this explicit.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-18
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
@@ -81,6 +87,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review temporal-consciousness.md considering sleep consciousness insights
+- **Type**: cross-review
+- **Notes**: The sleep-and-consciousness.md article covers consciousness gradations across sleep states and time distortion during dreams (dreamless NREM → lucid REM gradient). The temporal-consciousness.md page could integrate how sleep alters temporal experience—dreams feel instantaneous or extended regardless of actual duration, and the specious present may narrow or expand across sleep states.
+- **Result**: Added "Sleep and the Modulation of Temporal Experience" section with three subsections: When Time Disappears (dreamless NREM eliminates temporal experience entirely—seven hours pass without duration), The Temporal Spectrum in Sleep (table showing specious present status across six sleep states from waking to lucid REM), Implications for the Site's Framework (dualism support from computation-without-experience, collapse mechanism for dreamless sleep, trainability via lucid dreaming). Added sleep-and-consciousness and dreams-and-consciousness to concepts and Further Reading.
+- **Output**: Updated `concepts/temporal-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review introspection.md considering metacognition insights
 - **Type**: cross-review
