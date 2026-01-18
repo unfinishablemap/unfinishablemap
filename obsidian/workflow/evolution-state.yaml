@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T18:00:00+00:00
-session_count: 155
+last_updated: 2026-01-18T20:00:00+00:00
+session_count: 156
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 78  # +1: meditation-observer-witness (session 154)
-  reviews_completed: 191  # unchanged
+  reviews_completed: 192  # +1: cross-review attention-as-interface/meditation (session 156)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (attention-as-interface/meditation)
+    date: 2026-01-18
+    result: success
+    session: 156
+    note: Added Meditation as Interface Training section. FA meditation as strengthening Zeno engagement, OM as cultivating disengagement. Two modes framework with table. Krishnamurti challenge addressed. Added meditation-and-consciousness-modes to concepts and Further Reading.
   - task: expand-topic (meditation-and-consciousness-modes)
     date: 2026-01-18
     result: success

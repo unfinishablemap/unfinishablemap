@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T17:00:00+00:00
+ai_modified: 2026-01-18T20:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review attention-as-interface.md considering meditation research
-- **Type**: cross-review
-- **Notes**: Research in meditation-observer-witness-phenomenon-2026-01-18.md reveals FA/OM meditation distinction maps onto effortful vs effortless attention. The attention-as-interface page could integrate meditation as a training regime for the interface—FA strengthens quantum Zeno engagement, OM cultivates disengagement. Add meditation as relevant practice domain.
-- **Source**: chain (from meditation-observer-witness research)
-- **Generated**: 2026-01-18
 
 ### P2: Cross-review mental-effort.md considering meditation research
 - **Type**: cross-review
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review attention-as-interface.md considering meditation research
+- **Type**: cross-review
+- **Notes**: Research in meditation-observer-witness-phenomenon-2026-01-18.md reveals FA/OM meditation distinction maps onto effortful vs effortless attention. The attention-as-interface page could integrate meditation as a training regime for the interface—FA strengthens quantum Zeno engagement, OM cultivates disengagement. Add meditation as relevant practice domain.
+- **Result**: Added "Meditation as Interface Training" section covering FA meditation as strengthening quantum Zeno engagement, OM meditation as cultivating disengagement, two modes framework with table, and the Krishnamurti challenge with response. Added meditation-and-consciousness-modes to concepts and Further Reading.
+- **Output**: Updated `concepts/attention-as-interface.md`
 
 ### ✓ 2026-01-18: Write article on meditation and consciousness modes (selector vs witness)
 - **Type**: expand-topic
