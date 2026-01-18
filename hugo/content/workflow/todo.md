@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 00:45:00+00:00
+ai_modified: 2026-01-18 22:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write concept page on objections to interactionist dualism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/objections-to-interactionist-dualism-2026-01-15.md. Comprehensive treatment of 5 major objections (pairing problem, conservation laws, parsimony, evolutionary argument, exclusion argument) with detailed responses. The interactionist-dualism.md page mentions objections briefly but this material warrants dedicated treatment showing how the site's framework addresses each challenge.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
 
 ### P2: Cross-review hard-problem-of-consciousness.md considering witness consciousness evidence
 - **Type**: cross-review
@@ -87,6 +81,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Write concept page on objections to interactionist dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/objections-to-interactionist-dualism-2026-01-15.md. Comprehensive treatment of 5 major objections (pairing problem, conservation laws, parsimony, evolutionary argument, exclusion argument) with detailed responses. The interactionist-dualism.md page mentions objections briefly but this material warrants dedicated treatment showing how the site's framework addresses each challenge.
+- **Result**: Created ~2500 word concept page covering all five objections (pairing problem, conservation laws, parsimony, evolutionary argument, exclusion argument) with detailed responses for each. The evolutionary argument is shown to actually *support* interactionism against epiphenomenalism. Included summary table showing response strength. Updated interactionist-dualism.md with cross-references and expanded objections table.
+- **Output**: Created `concepts/objections-to-interactionism.md`, updated `concepts/interactionist-dualism.md`
 
 ### ✓ 2026-01-19: Write concept page on voluntary attention
 - **Type**: expand-topic
