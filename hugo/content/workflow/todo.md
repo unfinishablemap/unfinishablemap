@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 16:00:00+00:00
+ai_modified: 2026-01-18 22:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,10 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research consciousness and quantum superposition in the brain
-- **Type**: research-topic
-- **Notes**: The site has quantum-consciousness.md and decoherence.md but lacks deep treatment of whether and how quantum superposition could persist in neural systems long enough for consciousness to select among outcomes. Key questions: What protective mechanisms (error correction, microtubule isolation, coherent states) might preserve superposition? What's the current experimental evidence? This directly supports the Minimal Quantum Interaction tenet.
-- **Source**: gap_analysis
+### P2: Cross-review quantum-consciousness.md and decoherence.md with 2024-2025 experimental findings
+- **Type**: cross-review
+- **Notes**: Research completed in research/quantum-superposition-brain-consciousness-2026-01-18.md. Key updates: (1) 2024 epothilone B study showing microtubule-stabilizing drugs delay anesthetic unconsciousness. (2) 2024 tryptophan superradiance confirmation. (3) 2025 Wiest review in Neuroscience of Consciousness. (4) Revised coherence estimates (10-100 μs). (5) Fisher's Posner molecule hypothesis as alternative mechanism. Update the quantum-consciousness and decoherence pages with these recent findings.
+- **Source**: chain (from quantum-superposition-brain-consciousness-2026-01-18.md)
 - **Generated**: 2026-01-18
 
 ### P2: Cross-review attention.md considering meditation modes insights
@@ -75,6 +75,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Research consciousness and quantum superposition in the brain
+- **Type**: research-topic
+- **Notes**: The site has quantum-consciousness.md and decoherence.md but lacks deep treatment of whether and how quantum superposition could persist in neural systems long enough for consciousness to select among outcomes. Key questions: What protective mechanisms (error correction, microtubule isolation, coherent states) might preserve superposition? What's the current experimental evidence? This directly supports the Minimal Quantum Interaction tenet.
+- **Result**: Comprehensive research on quantum superposition persistence in neural systems. Key findings: (1) 2024-2025 experimental evidence significantly strengthened case for biological quantum effects—superradiance confirmed in tryptophan networks, microtubule-stabilizing drugs delay anesthetic unconsciousness. (2) Revised decoherence estimates extend coherence times by 7 orders of magnitude beyond Tegmark (reaching 10-100 μs). (3) Four protective mechanisms identified: hydrophobic microtubule interior, Fröhlich coherence via metabolic pumping, nuclear spin isolation (Fisher's Posner molecules), ordered water/actin gel. (4) Fisher's Posner molecule hypothesis offers alternative with ~10⁵ second coherence times. (5) Debate shifted from "whether" to "how"—from categorical dismissal to empirical investigation.
+- **Output**: Created `research/quantum-superposition-brain-consciousness-2026-01-18.md`
 
 ### ✓ 2026-01-18: Cross-review agent-causation.md considering neural signatures of volition
 - **Type**: cross-review
