@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T00:00:00+00:00
+ai_modified: 2026-01-19T01:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -47,6 +47,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: cross-review
 - **Notes**: New article concepts/objections-to-interactionism.md provides comprehensive treatment of all five major objections with detailed responses. The arguments-for-dualism.md page presents positive arguments but could strengthen its overall case by referencing how objections are addressed—particularly noting the evolutionary argument actually *supports* interactionism. Add cross-links and consider whether objection-response summary belongs in the positive case.
 - **Source**: chain (from objections-to-interactionism.md)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review mental-effort.md considering voluntary attention mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/voluntary-attention.md establishes neural signatures for genuine volitional control (frontal theta, ~300ms timing, bidirectional frontoparietal coherence). The mental-effort.md page discusses effortful processing but could strengthen its argument by integrating the voluntary attention evidence—particularly the distinction between willed attention and mere top-down guidance.
+- **Source**: chain (from voluntary-attention.md)
+- **Generated**: 2026-01-19
+
+### P2: Write concept page on brain-specialness boundary
+- **Type**: expand-topic
+- **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Why brains specifically? What makes neural systems the interface for consciousness while rocks remain inert? This addresses the pairing problem for dualism and connects to interface-locality.md. Critical for defending why consciousness acts through brains rather than arbitrary physical systems.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
+### P2: Write concept page on LLM consciousness debate
+- **Type**: expand-topic
+- **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel argues LLMs lack genuine understanding due to architectural limitations (no continual learning, no embodiment). Connects to ai-consciousness.md and the site's dualist framework—if consciousness requires non-computational elements, what does this mean for AI?
+- **Source**: unconsumed_research
 - **Generated**: 2026-01-19
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
