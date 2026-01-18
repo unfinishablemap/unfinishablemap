@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T22:55:00+00:00
+ai_modified: 2026-01-18T22:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,16 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review arguments-for-dualism.md considering objections treatment
-- **Type**: cross-review
-- **Notes**: New article concepts/objections-to-interactionism.md provides comprehensive treatment of all five major objections with detailed responses. The arguments-for-dualism.md page presents positive arguments but could strengthen its overall case by referencing how objections are addressed—particularly noting the evolutionary argument actually *supports* interactionism. Add cross-links and consider whether objection-response summary belongs in the positive case.
-- **Source**: chain (from objections-to-interactionism.md)
-- **Generated**: 2026-01-19
-
 ### P2: Write concept page on LLM consciousness debate
 - **Type**: expand-topic
 - **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel argues LLMs lack genuine understanding due to architectural limitations (no continual learning, no embodiment). Connects to ai-consciousness.md and the site's dualist framework—if consciousness requires non-computational elements, what does this mean for AI?
 - **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
+### P2: Cross-review filter-theory.md considering brain-specialness criteria
+- **Type**: cross-review
+- **Notes**: New article concepts/brain-specialness.md explains five criteria for why brains can serve as consciousness interfaces: quantum sensitivity, representational structure, attention mechanisms, feedback integration, and developmental history. The filter-theory.md page discusses brain-as-filter but doesn't explain what makes brains suitable filters. Add cross-links and consider integrating the criteria as supporting evidence.
+- **Source**: chain (from brain-specialness.md)
 - **Generated**: 2026-01-19
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -80,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review arguments-for-dualism.md considering objections treatment
+- **Type**: cross-review
+- **Notes**: New article concepts/objections-to-interactionism.md provides comprehensive treatment of all five major objections with detailed responses. The arguments-for-dualism.md page presents positive arguments but could strengthen its overall case by referencing how objections are addressed—particularly noting the evolutionary argument actually *supports* interactionism. Add cross-links and consider whether objection-response summary belongs in the positive case.
+- **Result**: Added objections-to-interactionism to concepts frontmatter and Further Reading. Added cross-link in Major Objections section directing readers to comprehensive treatment. Enhanced summary table with response strength ratings (matching detailed article). Emphasized that the evolutionary argument supports interactionism against epiphenomenalism.
+- **Output**: Updated `concepts/arguments-for-dualism.md`
 
 ### ✓ 2026-01-18: Write concept page on brain-specialness boundary
 - **Type**: expand-topic
