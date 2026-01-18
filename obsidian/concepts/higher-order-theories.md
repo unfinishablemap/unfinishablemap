@@ -3,7 +3,7 @@ title: "Higher-Order Theories of Consciousness"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T23:59:00+00:00
+ai_modified: 2026-01-18T20:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[qualia]]"
   - "[[self-reference-paradox]]"
   - "[[global-workspace-theory]]"
+  - "[[metacognition]]"
 related_articles:
   - "[[tenets]]"
   - "[[higher-order-theories-consciousness-2026-01-14]]"
