@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T22:20:00+00:00
+ai_modified: 2026-01-18T22:55:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from objections-to-interactionism.md)
 - **Generated**: 2026-01-19
 
-### P2: Write concept page on brain-specialness boundary
-- **Type**: expand-topic
-- **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Why brains specifically? What makes neural systems the interface for consciousness while rocks remain inert? This addresses the pairing problem for dualism and connects to interface-locality.md. Critical for defending why consciousness acts through brains rather than arbitrary physical systems.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
-
 ### P2: Write concept page on LLM consciousness debate
 - **Type**: expand-topic
 - **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel argues LLMs lack genuine understanding due to architectural limitations (no continual learning, no embodiment). Connects to ai-consciousness.md and the site's dualist framework—if consciousness requires non-computational elements, what does this mean for AI?
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Write concept page on brain-specialness boundary
+- **Type**: expand-topic
+- **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Why brains specifically? What makes neural systems the interface for consciousness while rocks remain inert? This addresses the pairing problem for dualism and connects to interface-locality.md. Critical for defending why consciousness acts through brains rather than arbitrary physical systems.
+- **Result**: Created ~2200 word concept page brain-specialness.md covering five criteria that make neural systems suitable interfaces: quantum sensitivity, representational structure, attention mechanisms, feedback integration, and developmental history. Explains why brains meet these criteria (evolution) while rocks don't. Complements interface-locality.md (which covers exclusion) with positive account. Updated interface-locality.md and pairing-problem.md with cross-references.
+- **Output**: Created `concepts/brain-specialness.md`, updated `concepts/interface-locality.md`, `concepts/pairing-problem.md`
 
 ### ✓ 2026-01-18: Cross-review hard-problem-of-consciousness.md considering witness consciousness evidence
 - **Type**: cross-review
