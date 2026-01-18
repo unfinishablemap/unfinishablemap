@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T22:35:00+00:00
+ai_modified: 2026-01-19T05:25:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,10 +43,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-19
 
-### P2: Cross-review filter-theory.md considering brain-specialness criteria
+### P2: Cross-review animal-consciousness.md considering emotional consciousness evidence
 - **Type**: cross-review
-- **Notes**: New article concepts/brain-specialness.md explains five criteria for why brains can serve as consciousness interfaces: quantum sensitivity, representational structure, attention mechanisms, feedback integration, and developmental history. The filter-theory.md page discusses brain-as-filter but doesn't explain what makes brains suitable filters. Add cross-links and consider integrating the criteria as supporting evidence.
-- **Source**: chain (from brain-specialness.md)
+- **Notes**: New article concepts/emotional-consciousness.md covers the Panksepp vs LeDoux debate on subcortical emotional consciousness, valence sentientism vs broad sentientism, and pain asymbolia evidence. The animal-consciousness.md topic should integrate this—particularly Panksepp's evidence for subcortical emotional consciousness in non-human animals and the implications for moral status.
+- **Source**: chain (from emotional-consciousness.md)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review purpose-and-alignment.md considering emotional consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/emotional-consciousness.md discusses valence as intrinsic phenomenal property and its connection to phenomenal-value-realism.md. The purpose-and-alignment.md topic lists emotional-consciousness in related_articles but should be reviewed for integration opportunities—particularly whether experiential alignment should weight valenced states specially.
+- **Source**: chain (from emotional-consciousness.md)
 - **Generated**: 2026-01-19
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -80,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review filter-theory.md considering brain-specialness criteria
+- **Type**: cross-review
+- **Notes**: New article concepts/brain-specialness.md explains five criteria for why brains can serve as consciousness interfaces: quantum sensitivity, representational structure, attention mechanisms, feedback integration, and developmental history. The filter-theory.md page discusses brain-as-filter but doesn't explain what makes brains suitable filters. Add cross-links and consider integrating the criteria as supporting evidence.
+- **Result**: Added brain-specialness to concepts frontmatter. Added new "Why brains specifically?" subsection to Objections explaining the five interface criteria. Added brain-specialness to Further Reading at the top (most relevant new addition).
+- **Output**: Updated `concepts/filter-theory.md`
 
 ### ✓ 2026-01-18: Cross-review arguments-for-dualism.md considering objections treatment
 - **Type**: cross-review
