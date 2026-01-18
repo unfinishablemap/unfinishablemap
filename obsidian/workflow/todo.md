@@ -49,6 +49,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from emotional-consciousness.md)
 - **Generated**: 2026-01-19
 
+### P2: Research altered states of consciousness
+- **Type**: research-topic
+- **Notes**: Optimistic review 2026-01-18 identified opportunity. Systematic treatment of how consciousness varies across states—psychedelics, flow, hypnosis, anesthesia transitions. Different states may reflect different modes of quantum-level interaction, relevant to Minimal Quantum Interaction tenet.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-19
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -80,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review ai-consciousness.md considering LLM consciousness analysis
+- **Type**: cross-review
+- **Notes**: New article concepts/llm-consciousness.md provides detailed analysis of why transformer architecture lacks temporal structure for consciousness and addresses the LaMDA incident. The ai-consciousness.md topic page should integrate this—particularly the architectural reasons why LLMs fail consciousness criteria and how this informs the broader AI consciousness question.
+- **Result**: Added LaMDA incident paragraph to Epistemic Problem section, illustrating the "Eliza Effect" and linking to llm-consciousness.md for detailed treatment. The broader content (temporal argument, proximity argument, continual learning) was already integrated when llm-consciousness.md was created.
+- **Output**: Updated `topics/ai-consciousness.md`
 
 ### ✓ 2026-01-18: Write concept page on LLM consciousness debate
 - **Type**: expand-topic
