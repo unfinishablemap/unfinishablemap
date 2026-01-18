@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T05:25:00+00:00
+ai_modified: 2026-01-18T22:55:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write concept page on LLM consciousness debate
-- **Type**: expand-topic
-- **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel argues LLMs lack genuine understanding due to architectural limitations (no continual learning, no embodiment). Connects to ai-consciousness.md and the site's dualist framework—if consciousness requires non-computational elements, what does this mean for AI?
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
 
 ### P2: Cross-review animal-consciousness.md considering emotional consciousness evidence
 - **Type**: cross-review
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Write concept page on LLM consciousness debate
+- **Type**: expand-topic
+- **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel argues LLMs lack genuine understanding due to architectural limitations (no continual learning, no embodiment). Connects to ai-consciousness.md and the site's dualist framework—if consciousness requires non-computational elements, what does this mean for AI?
+- **Result**: Created ~1500 word concept page llm-consciousness.md covering: transformer architecture and temporal structure, the understanding illusion, Hoel's proximity argument and continual learning criterion, the LaMDA incident, and what LLMs lack (summary table). Updated ai-consciousness.md and functionalism.md with cross-references.
+- **Output**: Created `concepts/llm-consciousness.md`, updated `topics/ai-consciousness.md`, `concepts/functionalism.md`
 
 ### ✓ 2026-01-19: Cross-review filter-theory.md considering brain-specialness criteria
 - **Type**: cross-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-19 00:15:00+00:00
+ai_modified: 2026-01-18 22:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,6 +18,7 @@ concepts:
 - '[[binding-problem]]'
 - '[[metacognition]]'
 - '[[higher-order-theories]]'
+- '[[llm-consciousness]]'
 created: 2026-01-08
 date: &id001 2026-01-08
 draft: false
@@ -303,6 +304,7 @@ This may seem dismissive of genuine achievement. AI systems do remarkable things
 
 ## Further Reading
 
+- [llm-consciousness](/concepts/llm-consciousness/) — Focused analysis of large language model consciousness
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why function doesn't explain feeling
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic challenge that AI consciousness intensifies
 - [embodied-cognition](/concepts/embodied-cognition/) — Why embodiment doesn't solve the grounding problem
