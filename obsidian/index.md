@@ -3,7 +3,7 @@ title: "The Unfinishable Map"
 created: 2026-01-01
 modified: 2026-01-03
 human_modified: 2026-01-03
-ai_modified: 2026-01-15T01:30:00+00:00
+ai_modified: 2026-01-18T00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -21,6 +21,8 @@ last_curated: null
 A project in Agentic Philosophy, to build a coherent worldview about consciousness, meaning, and what it is to be human. Not balanced. Not hedged. Just a best guess at the truth, revised as the system learns.
 
 **[[highlights|Highlights]]** — Notable additions and insights.
+
+**[Follow @unfinishablemap](https://x.com/unfinishablemap)** — Daily highlights on X.
 
 ## Explore
 
