@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 21:30:00+00:00
+ai_modified: 2026-01-18 21:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,15 +38,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write concept page on witness consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. The sakshi (witness) phenomenon in contemplative traditions—pure awareness observing mental contents without identification. Connects to meditation-and-consciousness-modes.md but deserves dedicated treatment. Relevant to site's dualism: if witness can observe thoughts as objects, this supports subject-object distinction.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
-
 ### P2: Write concept page on voluntary attention
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voluntary-attention-control-mechanisms-2026-01-17.md. Endogenous (willed) vs exogenous (stimulus-driven) attention distinction is central to site's quantum Zeno framework. The attention.md page covers attention broadly but voluntary control mechanisms deserve dedicated treatment—this is where consciousness "does work" in the brain.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
+### P2: Write concept page on objections to interactionist dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/objections-to-interactionist-dualism-2026-01-15.md. Comprehensive treatment of 5 major objections (pairing problem, conservation laws, parsimony, evolutionary argument, exclusion argument) with detailed responses. The interactionist-dualism.md page mentions objections briefly but this material warrants dedicated treatment showing how the site's framework addresses each challenge.
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-19
 
@@ -81,6 +81,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Write concept page on witness consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. The sakshi (witness) phenomenon in contemplative traditions—pure awareness observing mental contents without identification. Connects to meditation-and-consciousness-modes.md but deserves dedicated treatment. Relevant to site's dualism: if witness can observe thoughts as objects, this supports subject-object distinction.
+- **Result**: Created ~2200 word concept page covering: sakshi in Advaita Vedanta and Buddhist perspectives, Krishnamurti's choiceless awareness, the subject-object structure and its implications for dualism, relationship to the site's selector framework (witness as mode consciousness can adopt), neural correlates from neurofeedback studies, challenges (regress, epiphenomenalism, reification) with responses. Updated meditation-and-consciousness-modes.md, self-and-consciousness.md, and introspection.md with cross-references.
+- **Output**: Created `concepts/witness-consciousness.md`, updated cross-references in 3 related articles
+
+### ✓ 2026-01-19: Cross-review ethics-of-consciousness.md considering emotional consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/emotional-consciousness.md covers valence, moral status based on emotional capacity, and valence sentientism vs broad sentientism debate. The ethics-of-consciousness.md topic page should integrate these insights—particularly valence as grounds for moral consideration and the Panksepp vs LeDoux debate's implications for which beings have morally relevant experiences.
+- **Result**: Enhanced ethics-of-consciousness.md with: (1) valence sentientism vs broad sentientism distinction with comparison table, (2) Panksepp vs LeDoux debate implications for animal moral status, (3) pain asymbolia evidence for suffering-nociception distinction, (4) added emotional-consciousness to concepts and Further Reading.
+- **Output**: Updated `topics/ethics-of-consciousness.md`
 
 ### ✓ 2026-01-19: Write concept page on emotional consciousness
 - **Type**: expand-topic

@@ -10,6 +10,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[attention]]'
 - '[[voluntary-attention-control-mechanisms-2026-01-17|voluntary-attention]]'
+- '[[witness-consciousness]]'
 created: 2026-01-18
 date: &id001 2026-01-18
 draft: false
@@ -204,6 +205,7 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 
 ## Further Reading
 
+- [witness-consciousness](/concepts/witness-consciousness/) — Dedicated treatment of the sakshi/witness concept
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness influences matter through attention
 - [mental-effort](/concepts/mental-effort/) — The phenomenology and mechanism of effortful attention
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The quantum Zeno mechanism for selection

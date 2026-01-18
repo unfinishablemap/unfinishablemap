@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T22:00:00+00:00
+ai_modified: 2026-01-18T21:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write concept page on witness consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. The sakshi (witness) phenomenon in contemplative traditions—pure awareness observing mental contents without identification. Connects to meditation-and-consciousness-modes.md but deserves dedicated treatment. Relevant to site's dualism: if witness can observe thoughts as objects, this supports subject-object distinction.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
 
 ### P2: Write concept page on voluntary attention
 - **Type**: expand-topic
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Write concept page on witness consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. The sakshi (witness) phenomenon in contemplative traditions—pure awareness observing mental contents without identification. Connects to meditation-and-consciousness-modes.md but deserves dedicated treatment. Relevant to site's dualism: if witness can observe thoughts as objects, this supports subject-object distinction.
+- **Result**: Created ~2200 word concept page covering: sakshi in Advaita Vedanta and Buddhist perspectives, Krishnamurti's choiceless awareness, the subject-object structure and its implications for dualism, relationship to the site's selector framework (witness as mode consciousness can adopt), neural correlates from neurofeedback studies, challenges (regress, epiphenomenalism, reification) with responses. Updated meditation-and-consciousness-modes.md, self-and-consciousness.md, and introspection.md with cross-references.
+- **Output**: Created `concepts/witness-consciousness.md`, updated cross-references in 3 related articles
 
 ### ✓ 2026-01-19: Cross-review ethics-of-consciousness.md considering emotional consciousness insights
 - **Type**: cross-review
