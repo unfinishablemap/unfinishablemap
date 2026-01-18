@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-15 23:15:00+00:00
+ai_modified: 2026-01-18 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[materialism]]'
 - '[[panpsychism]]'
 - '[[quantum-consciousness]]'
+- '[[downward-causation]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 draft: false
@@ -145,6 +146,7 @@ The site's framework can be understood as *emergentist dualism*—consciousness 
 
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The site's framework as strong emergentism with mechanism
 - [causal-closure](/concepts/causal-closure/) — The principle strong emergentism must deny
+- [downward-causation](/concepts/downward-causation/) — How emergent properties causally influence lower levels
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reduction
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The mechanism for downward causation

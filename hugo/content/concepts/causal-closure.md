@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-15 13:30:00+00:00
+ai_modified: 2026-01-18 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[emergence]]'
 - '[[mental-causation]]'
+- '[[downward-causation]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -153,6 +154,7 @@ This is not "god of the gaps" reasoning. It's recognition that physics *describe
 ## Further Reading
 
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem causal closure creates
+- [downward-causation](/concepts/downward-causation/) — Higher-level causation that closure threatens
 - [emergence](/concepts/emergence/) — The emergentist response to causal closure
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The position that mental causation enables
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-matter interaction

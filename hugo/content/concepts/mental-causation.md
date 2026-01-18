@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-16 00:30:00+00:00
+ai_modified: 2026-01-18 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[emergence]]'
 - '[[quantum-consciousness]]'
 - '[[agent-causation]]'
+- '[[downward-causation]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 draft: false
@@ -167,6 +168,7 @@ The site affirms mental causation because denying it undermines everything we th
 
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The cumulative case against epiphenomenalism (five arguments)
 - [causal-closure](/concepts/causal-closure/) — The principle mental causation challenges
+- [downward-causation](/concepts/downward-causation/) — How higher-level properties influence lower-level processes
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework that accommodates mental causation
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view denying mental causation
 - [emergence](/concepts/emergence/) — Mental causation as strong emergence with mechanism

@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T00:00:00+00:00
+ai_modified: 2026-01-18T12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write concept page on downward causation
-- **Type**: expand-topic
-- **Notes**: Research completed in research/downward-causation-mental-causation-2026-01-15.md. Kim's exclusion argument is the primary challenge to mental causation. The site has mental-causation.md but lacks dedicated treatment of downward causation as a distinct concept—how higher-level properties can causally influence lower-level processes. Critical for defending Bidirectional Interaction tenet.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
 
 ### P2: Write concept page on witness consciousness
 - **Type**: expand-topic
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Write concept page on downward causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/downward-causation-mental-causation-2026-01-15.md. Kim's exclusion argument is the primary challenge to mental causation. The site has mental-causation.md but lacks dedicated treatment of downward causation as a distinct concept—how higher-level properties can causally influence lower-level processes. Critical for defending Bidirectional Interaction tenet.
+- **Result**: Created ~2200 word concept page covering: the concept distinguished from adjacent notions, Kim's exclusion argument, the drainage problem, overdetermination problem, major responses (interventionism, inheritance/constitution, O'Connor-Wong structural emergence), the quantum opening as mechanism, weak vs strong downward causation distinction. Updated mental-causation.md, emergence.md, and causal-closure.md with cross-references to new page.
+- **Output**: Created `concepts/downward-causation.md`, updated `concepts/mental-causation.md`, `concepts/emergence.md`, `concepts/causal-closure.md`
 
 ### ✓ 2026-01-19: Strengthen luck-objection phenomenology argument
 - **Type**: refine-draft
