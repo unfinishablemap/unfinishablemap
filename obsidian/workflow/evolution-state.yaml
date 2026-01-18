@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T16:30:00+00:00
-session_count: 153
+last_updated: 2026-01-18T17:00:00+00:00
+session_count: 154
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -43,7 +43,7 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 175  # +1: voluntary-attention-control-mechanisms research (session 149)
+  total_files: 176  # +1: meditation-observer-witness research (session 154)
   published_files: 130  # unchanged (research notes)
   draft_files: 0  # unchanged
   placeholder_files: 0
@@ -63,8 +63,8 @@ progress:
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
-  research_notes: 77  # +1: voluntary-attention-control-mechanisms (session 149)
-  reviews_completed: 191  # +1: deep-review problem-of-other-minds (session 153)
+  research_notes: 78  # +1: meditation-observer-witness (session 154)
+  reviews_completed: 191  # unchanged
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (meditation-observer-witness)
+    date: 2026-01-18
+    result: success
+    session: 154
+    note: Comprehensive research on meditation observer/witness phenomenon. Sakshi (witness) in Advaita = pure passive awareness. FA/OM meditation have distinct neural signatures (DMN deactivation, frontal theta vs alpha). Effortless states = PCC deactivation. Krishnamurti's choiceless awareness challenges selection framework. Synthesis—consciousness may have selector and witness modes.
   - task: deep-review (problem-of-other-minds)
     date: 2026-01-18
     result: success
@@ -1766,6 +1771,7 @@ queue_status:
 task_chains:
   # research-topic completions that need articles written
   pending_articles:
+    # meditation-observer-witness-phenomenon-2026-01-18.md -> QUEUED as expand-topic (meditation-consciousness-modes) + cross-reviews (attention-as-interface, mental-effort) (session 154)
     # voluntary-attention-control-mechanisms-2026-01-17.md -> could enhance attention.md or attention-as-interface.md (session 149)
     # episodic-memory-consciousness-2026-01-16.md -> concepts/autonoetic-consciousness.md COMPLETED session 131, self-and-consciousness.md cross-review COMPLETED session 131
     # cognitive-phenomenology-thinking-experience-2026-01-17.md -> potential concepts/cognitive-phenomenology.md (session 118)
