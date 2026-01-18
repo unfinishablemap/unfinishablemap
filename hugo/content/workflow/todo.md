@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 18:30:00+00:00
+ai_modified: 2026-01-18 21:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,21 +38,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research consciousness and memory consolidation during sleep
-- **Type**: research-topic
-- **Notes**: The site has extensive coverage of episodic, semantic, and implicit memory, but limited coverage of how consciousness relates to memory consolidation. Key questions: What role does consciousness play in memory consolidation during sleep? Does the reduced consciousness of deep sleep serve a function for memory? How do lucid dreams fit the framework? This fills a gap between the memory articles and loss-of-consciousness coverage.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-18
-
-### P2: Write article on psychophysical coupling problem
+### P2: Write article on sleep and consciousness
 - **Type**: expand-topic
-- **Notes**: Research completed in research/psychophysical-coupling-problem-2026-01-15.md. The site's framework implies consciousness "selects" among neural options, but what determines the coupling between phenomenal states and physical outcomes? This formalizes the implicit commitment: what aspects of consciousness map to which quantum degrees of freedom, and what constrains the bandwidth of influence?
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-18
-
-### P2: Write article on brain specialness boundary
-- **Type**: expand-topic
-- **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Addresses why consciousness can modulate only its own brain, not external quantum systems. The answer derives from Stapp's Process 1—the interface exists where neural quantum effects occur, not as an ad hoc restriction. Critical for the multi-mind collapse problem resolution.
+- **Notes**: Research completed in research/sleep-memory-consolidation-consciousness-2026-01-18.md. Key themes: consciousness gradations during sleep (dreamless NREM → dreaming NREM → REM → lucid REM), memory consolidation operating outside consciousness channel (~10 bits/second bandwidth bypass), lucid dreaming as interface reactivation, how offline processing differs from conscious processing. Would connect loss-of-consciousness, memory system articles, and binding-problem.
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-18
 
@@ -69,6 +57,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Research consciousness and memory consolidation during sleep
+- **Type**: research-topic
+- **Notes**: The site has extensive coverage of episodic, semantic, and implicit memory, but limited coverage of how consciousness relates to memory consolidation. Key questions: What role does consciousness play in memory consolidation during sleep? Does the reduced consciousness of deep sleep serve a function for memory? How do lucid dreams fit the framework? This fills a gap between the memory articles and loss-of-consciousness coverage.
+- **Result**: Comprehensive research on sleep-consciousness-memory relationship. Key findings: (1) Memory consolidation during NREM operates largely unconsciously—multiple memories replay in parallel, bypassing the ~10 bits/second conscious bandwidth. (2) Consciousness doesn't vanish uniformly—dreaming occurs in both REM and NREM, correlating with reduced slow waves in posterior cortex. (3) Lucid dreaming reactivates prefrontal regions, demonstrating variable interface engagement during sleep. (4) Sleep differs from anesthesia in preserving more integration-segregation balance. (5) Offline binding during sleep operates differently from conscious binding—parallel rather than unified. Generated chain task for article synthesis.
+- **Output**: Created `research/sleep-memory-consolidation-consciousness-2026-01-18.md`
+
+### ✓ 2026-01-18: Write article on brain specialness boundary
+- **Type**: expand-topic
+- **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Addresses why consciousness can modulate only its own brain, not external quantum systems. The answer derives from Stapp's Process 1—the interface exists where neural quantum effects occur, not as an ad hoc restriction. Critical for the multi-mind collapse problem resolution.
+- **Result**: Article already written as concepts/interface-locality.md (created 2026-01-16). Covers "the brain specialness problem" explicitly with four boundary conditions, the key insight, what's permitted/excluded, parapsychology connection, and pairing problem connection.
+- **Output**: `concepts/interface-locality.md` (already exists)
+
+### ✓ 2026-01-18: Write article on psychophysical coupling problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/psychophysical-coupling-problem-2026-01-15.md. The site's framework implies consciousness "selects" among neural options, but what determines the coupling between phenomenal states and physical outcomes? This formalizes the implicit commitment: what aspects of consciousness map to which quantum degrees of freedom, and what constrains the bandwidth of influence?
+- **Result**: Article already written as concepts/psychophysical-coupling-law.md (created 2026-01-16, updated 2026-01-17). Covers Chalmers' framework, Stapp's mechanism, bandwidth constraint, four candidate coupling law families, what's not selectable, and testing approaches.
+- **Output**: `concepts/psychophysical-coupling-law.md` (already exists)
 
 ### ✓ 2026-01-18: Cross-review interactionist-dualism.md considering multi-mind collapse insights
 - **Type**: cross-review

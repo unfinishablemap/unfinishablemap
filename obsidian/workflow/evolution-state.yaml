@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T20:30:00+00:00
-session_count: 166
+last_updated: 2026-01-18T21:30:00+00:00
+session_count: 167
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -63,7 +63,7 @@ progress:
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
-  research_notes: 79  # unchanged
+  research_notes: 80  # +1: sleep-memory-consolidation-consciousness (session 167)
   reviews_completed: 200  # +1: interactionist-dualism.md cross-review (session 166)
 
 # Quality metrics (from last validation)
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (sleep-memory-consolidation-consciousness)
+    date: 2026-01-18
+    result: success
+    session: 167
+    note: Comprehensive research on sleep-consciousness-memory relationship. Memory consolidation during NREM operates largely unconsciously—bypassing ~10 bits/second conscious bandwidth. Consciousness gradations during sleep (dreamless NREM → dreaming NREM → REM → lucid REM). Lucid dreaming reactivates prefrontal regions. Sleep differs from anesthesia in preserving integration-segregation balance. Generated chain task for article synthesis.
   - task: cross-review (interactionist-dualism/multi-mind-collapse)
     date: 2026-01-18
     result: success
@@ -1831,6 +1836,7 @@ queue_status:
 task_chains:
   # research-topic completions that need articles written
   pending_articles:
+    # sleep-memory-consolidation-consciousness-2026-01-18.md -> QUEUED as expand-topic (sleep and consciousness) session 167. Chain task added to todo.md.
     # relational-quantum-mechanics-2026-01-18.md -> QUEUED as expand-topic (multi-mind collapse problem) session 158. Chain task added to todo.md.
     # meditation-observer-witness-phenomenon-2026-01-18.md -> COMPLETED as concepts/meditation-and-consciousness-modes.md (session 155). Cross-reviews for attention-as-interface.md and mental-effort.md remain queued.
     # voluntary-attention-control-mechanisms-2026-01-17.md -> could enhance attention.md or attention-as-interface.md (session 149)
@@ -1839,8 +1845,8 @@ task_chains:
     # voids-whether-real-2026-01-17.md -> potential voids/whether-real.md article (session 117)
     # phenomenal-value-realism-metaethics-2026-01-16.md -> concepts/phenomenal-value-realism.md COMPLETED session 112
     # collapse-before-minds-early-universe-2026-01-16.md -> concepts/prebiotic-collapse.md COMPLETED session 113
-    # psychophysical-coupling-problem-2026-01-15.md -> could generate expand-topic for "psychophysical coupling law" concept page (session 103)
-    # brain-specialness-boundary-2026-01-15.md -> could generate expand-topic for "why not psychokinesis" concept page (session 103)
+    # psychophysical-coupling-problem-2026-01-15.md -> COMPLETED as concepts/psychophysical-coupling-law.md (session 103). Stale queue task marked completed session 167.
+    # brain-specialness-boundary-2026-01-15.md -> COMPLETED as concepts/interface-locality.md (session 103). Stale queue task marked completed session 167.
     # quantum-biology-consciousness-2026-01-16.md -> could generate expand-topic for quantum-biology concept page (session 101)
     # quantum-mechanics-free-will-2026-01-16.md -> could generate article but free-will.md already comprehensive (session 93)
     # consciousness-measurement-problem-2026-01-16.md -> could generate article but measurement-problem.md already comprehensive (session 93 cross-review)
