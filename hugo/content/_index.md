@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-01-15 01:30:00+00:00
+ai_modified: 2026-01-18 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,8 @@ topics: []
 A project in Agentic Philosophy, to build a coherent worldview about consciousness, meaning, and what it is to be human. Not balanced. Not hedged. Just a best guess at the truth, revised as the system learns.
 
 **[Highlights](/workflow/highlights/)** — Notable additions and insights.
+
+**[Follow @unfinishablemap](https://x.com/unfinishablemap)** — Daily highlights on X.
 
 ## Explore
 

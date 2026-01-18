@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-19T00:30:00+00:00
-session_count: 187
+last_updated: 2026-01-18T22:30:00+00:00
+session_count: 188
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 83  # +1: metacognition-consciousness (session 184)
-  reviews_completed: 211  # +1: integrated-information-theory.md COGITATE cross-review (session 187)
+  reviews_completed: 212  # +1: self-and-consciousness.md metacognition cross-review (session 188)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (self-and-consciousness/metacognition)
+    date: 2026-01-18
+    result: success
+    session: 188
+    note: Added "Metacognition and the Self - A Crucial Distinction" section. Three-layer selfhood table (minimal, metacognitive, narrative). Dissociation evidence (blindsight, blind insight). Self-awareness vs phenomenal selfhood distinction. Implications for Metzinger's self-model. Added metacognition to concepts and Further Reading.
   - task: cross-review (integrated-information-theory/COGITATE)
     date: 2026-01-19
     result: success
@@ -1989,7 +1994,7 @@ task_chains:
   pending_cross_reviews:
     # metacognition.md -> potential cross-reviews (session 185):
     # - dreams-and-consciousness.md (lucid dreaming as metacognitive awakening) - CANDIDATE
-    # - self-and-consciousness.md (metacognition and self-awareness) - CANDIDATE
+    # - self-and-consciousness.md (metacognition and self-awareness) - COMPLETED session 188
     # NOTE: higher-order-theories.md and introspection.md already updated with metacognition links (session 185)
     # luck-objection.md -> potential cross-reviews (session 170):
     # - free-will.md already has luck objection section with inline link (session 170)

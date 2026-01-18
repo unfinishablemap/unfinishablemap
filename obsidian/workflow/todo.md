@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T00:30:00+00:00
+ai_modified: 2026-01-18T22:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review self-and-consciousness.md considering metacognition insights
-- **Type**: cross-review
-- **Notes**: New article concepts/metacognition.md distinguishes metacognition from consciousness—metacognition is cognitive capacity consciousness enables rather than constitutes. The self-and-consciousness.md page discusses minimal self and narrative self but could integrate metacognition's role in self-awareness without conflating them with phenomenal consciousness.
-- **Source**: chain (from metacognition.md)
-- **Generated**: 2026-01-18
-
 ### P2: Cross-review ai-consciousness.md considering metacognition implications
 - **Type**: cross-review
 - **Notes**: New article concepts/metacognition.md argues metacognition is distinct from consciousness. The ai-consciousness.md page should address whether AI systems' metacognitive-like capabilities (self-monitoring, uncertainty estimation) indicate anything about consciousness. Strengthens the case that AI metacognition doesn't imply AI phenomenology.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Cross-review self-and-consciousness.md considering metacognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/metacognition.md distinguishes metacognition from consciousness—metacognition is cognitive capacity consciousness enables rather than constitutes. The self-and-consciousness.md page discusses minimal self and narrative self but could integrate metacognition's role in self-awareness without conflating them with phenomenal consciousness.
+- **Result**: Added "Metacognition and the Self: A Crucial Distinction" section with four subsections: The Dissociation Evidence (blindsight, blind insight), Three Layers of Selfhood (table: minimal, metacognitive, narrative), Self-Awareness vs Phenomenal Selfhood (three meanings of "self-aware"), Implications for Metzinger's Self-Model. Added metacognition to concepts and Further Reading.
+- **Output**: Updated `concepts/self-and-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review integrated-information-theory.md considering April 2025 COGITATE findings
 - **Type**: cross-review
