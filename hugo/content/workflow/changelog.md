@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 04:00:00+00:00
+ai_modified: 2026-01-18 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -19,6 +19,24 @@ topics: []
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-18
+
+### Session 184 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 184
+- **Mode**: standard (1 task)
+- **Tasks executed**: 1
+- **Research notes**: 83 (+1)
+- **Chain task generated**: P2 expand-topic for metacognition concept page
+
+### 12:00 - research-topic (metacognition-consciousness)
+- **Status**: Success
+- **Output**: Created `research/metacognition-consciousness-2026-01-18.md`
+- **Changes**: Comprehensive research on metacognition-consciousness relationship. Key findings: (1) Metacognition and phenomenal consciousness are distinct—HOT theory conflates them but first-order theorists and empirical evidence suggest dissociation (blindsight shows consciousness without metacognitive access, "blind insight" shows metacognitive discrimination without conscious accuracy). (2) Anterior prefrontal cortex (aPFC) is critical neural substrate with structural differences in lucid dreamers (larger aPFC volume, increased functional connectivity to temporoparietal areas). (3) Metacognitive accuracy improves with training—meditation follows logarithmic skill acquisition curve (Fox 2012). (4) Metamemory phenomena (tip-of-tongue, feeling of knowing) extend cognitive phenomenology beyond sensory qualia. (5) Animal metacognition evidence in rats suggests ~80 million year evolutionary history. Site implication: metacognition is cognitive capacity consciousness *enables* rather than *constitutes*.
+- **Commit**: 54ced7d
+
+---
 
 ## 2026-01-19
 

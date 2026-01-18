@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-19T05:00:00+00:00
-session_count: 183
+last_updated: 2026-01-18T12:00:00+00:00
+session_count: 184
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -63,7 +63,7 @@ progress:
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
-  research_notes: 82  # unchanged
+  research_notes: 83  # +1: metacognition-consciousness (session 184)
   reviews_completed: 210  # +1: global-workspace-theory.md COGITATE cross-review (session 182)
 
 # Quality metrics (from last validation)
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: research-topic (metacognition-consciousness)
+    date: 2026-01-18
+    result: success
+    session: 184
+    note: Comprehensive research on metacognition-consciousness relationship. Metacognition is distinct cognitive capacity consciousness enables rather than constitutes. aPFC is critical neural substrate with structural differences in lucid dreamers. Metacognitive accuracy improves with training (meditation). Generated chain task for article synthesis.
   - task: refine-draft (dreams-and-consciousness/research-integration)
     date: 2026-01-19
     result: success
@@ -1916,6 +1921,7 @@ queue_status:
 task_chains:
   # research-topic completions that need articles written
   pending_articles:
+    # metacognition-consciousness-2026-01-18.md -> QUEUED as expand-topic task (session 184)
     # dreams-lucid-dreaming-consciousness-2026-01-18.md -> QUEUED as refine-draft task for dreams-and-consciousness.md (session 175)
     # sleep-memory-consolidation-consciousness-2026-01-18.md -> COMPLETED as concepts/sleep-and-consciousness.md (session 168)
     # relational-quantum-mechanics-2026-01-18.md -> QUEUED as expand-topic (multi-mind collapse problem) session 158. Chain task added to todo.md.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-18 02:00:00+00:00
+ai_modified: 2026-01-18 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,6 +12,7 @@ concepts:
 - '[[integrated-information-theory]]'
 - '[[attention-schema-theory]]'
 - '[[attention-as-interface]]'
+- '[[meditation-and-consciousness-modes]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -115,6 +116,55 @@ Working memory and attention are deeply interlinked—attention determines what 
 
 Working memory isn't consciousness, but it may be where we observe consciousness working.
 
+## Evidence from Meditation: Training the Interface
+
+If attention is how consciousness engages with matter, we should expect that attention can be *trained*—and that different training approaches would reveal different modes of engagement. Meditation research confirms both predictions, providing striking support for the [interface hypothesis](/concepts/attention-as-interface/).
+
+### Two Families of Practice
+
+Meditation traditions distinguish two broad families:
+
+**Focused Attention (FA) meditation** involves concentration on a single object—breath, mantra, or visual focus. The meditator notices when attention wanders and redirects it. This is *active selection* in action: consciousness repeatedly chooses where attention goes, strengthening the selection mechanism itself.
+
+**Open Monitoring (OM) meditation** involves non-reactive awareness of whatever arises. The meditator doesn't select a focus; all contents are equally received. This is *passive witnessing*: consciousness observes without intervening, allowing neural dynamics to unfold without Zeno-effect stabilisation.
+
+### Distinct Neural Signatures
+
+The two practices produce measurably different brain states:
+
+| Feature | Focused Attention | Open Monitoring |
+|---------|-------------------|-----------------|
+| **Phenomenology** | Effortful, focused | Effortless, open |
+| **Frontal theta** | Increased | Reduced |
+| **Alpha activity** | Suppressed | Increased |
+| **ACC activation** | High (conflict monitoring) | Low |
+| **PCC activity** | Active | Deactivated |
+| **DMN** | Actively suppressed | Passively disengaged |
+
+A neurofeedback study found that when experienced meditators reported "undistracted awareness" and "not efforting," their posterior cingulate cortex deactivated. When they struggled or tried to control their experience, PCC activated. The subjective report of effortlessness corresponds to a measurable brain state.
+
+### Alpha-Theta Dynamics
+
+A 2020 study tracked alpha-theta coupling across states and found a clear gradient:
+
+- **Effortful cognition** (arithmetic): High alpha-theta coupling (2:1 harmonic)
+- **Resting state**: Medium coupling
+- **Deep meditation**: Low coupling ("mental emptiness")
+
+The pattern maps directly onto the site's framework: selection engages the brain's executive systems (coupling increases); witnessing disengages them (coupling decreases). Alpha-theta dynamics may be a neural signature of consciousness's engagement level.
+
+### Why This Matters for the Interface Hypothesis
+
+The meditation evidence supports several claims:
+
+**Attention is trainable.** FA practitioners develop stronger concentration; the interface can be strengthened through practice. This explains how some people—meditators, athletes in flow states, trained contemplatives—report greater facility with voluntary attention.
+
+**Effortlessness follows effort.** Beginners find meditation effortful; advanced practitioners describe effortlessness. Initial effort trains the brain; later effortlessness reflects a trained brain requiring less correction. Consciousness has done its work; now it can observe without constantly intervening.
+
+**Selection and witnessing are both genuine.** The phenomenology of "letting go" is as real as the phenomenology of "trying." Consciousness can both influence matter and refrain from influencing. [Bidirectional interaction describes a capacity, not a compulsion](/concepts/meditation-and-consciousness-modes/).
+
+**Therapeutic implications.** Jeffrey Schwartz's OCD therapy trains patients to redirect attention—essentially FA meditation applied to obsessive thoughts. The neuroplasticity Schwartz documented (altered caudate metabolism) makes sense if attention really is how consciousness shapes brain states. The therapy works because it strengthens the interface.
+
 ## Major Theories of Attention and Consciousness
 
 ### Global Workspace Theory
@@ -167,6 +217,7 @@ The attention-consciousness relationship illuminates all five tenets:
 ## Further Reading
 
 - [attention-as-interface](/concepts/attention-as-interface/) — The hypothesis that attention mediates consciousness's causal influence on matter
+- [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — FA/OM meditation as evidence for active selection and passive witnessing modes
 - [mental-effort](/concepts/mental-effort/) — Detailed treatment of phenomenology of effort and Stapp's mechanism
 - [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) — Bandwidth constraints and the ~10 bits/second limit
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum consciousness mechanisms

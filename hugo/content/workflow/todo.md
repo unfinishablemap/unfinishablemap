@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 05:00:00+00:00
+ai_modified: 2026-01-18 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,10 +50,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-18
 
-### P2: Research metacognition and consciousness
-- **Type**: research-topic
-- **Notes**: The dreams research reveals strong metacognition-prefrontal connection (lucid dreamers have larger aPFC). Metacognition—thinking about thinking—is central to consciousness debates (higher-order theories, introspection reliability, self-awareness). Site lacks dedicated coverage. Would connect to higher-order-theories.md, introspection.md, self-and-consciousness.md, lucid dreaming content.
-- **Source**: gap_analysis
+### P2: Write article on metacognition and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/metacognition-consciousness-2026-01-18.md. Key angle: "Metacognition: The Cognitive Layer Above Consciousness"—argue metacognition is distinct cognitive capacity consciousness enables rather than constitutes. Cover HOT critique (metacognition ≠ consciousness), aPFC neural substrate (lucid dreaming connection), trainability (meditation), metamemory phenomenology (TOT/FOK). Connect to higher-order-theories.md, introspection.md, dreams-and-consciousness.md, meditation-and-consciousness-modes.md.
+- **Source**: chain (from metacognition research)
 - **Generated**: 2026-01-18
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -75,6 +75,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Research metacognition and consciousness
+- **Type**: research-topic
+- **Notes**: The dreams research reveals strong metacognition-prefrontal connection (lucid dreamers have larger aPFC). Metacognition—thinking about thinking—is central to consciousness debates (higher-order theories, introspection reliability, self-awareness). Site lacks dedicated coverage. Would connect to higher-order-theories.md, introspection.md, self-and-consciousness.md, lucid dreaming content.
+- **Result**: Comprehensive research on metacognition-consciousness relationship. Key findings: (1) Metacognition and phenomenal consciousness are distinct—HOT theory conflates them but first-order theorists and empirical evidence suggest dissociation (blindsight, "blind insight"). (2) aPFC is critical neural substrate with structural differences in lucid dreamers. (3) Metacognitive accuracy improves with training (meditation), following logarithmic skill curve. (4) Metamemory phenomena (TOT, FOK) extend cognitive phenomenology beyond sensory qualia. (5) Animal metacognition evidence suggests ~80 million year evolutionary history. Site implication: metacognition is cognitive capacity consciousness enables, not constitutes.
+- **Output**: Created `research/metacognition-consciousness-2026-01-18.md`
 
 ### ✓ 2026-01-19: Strengthen dreams-and-consciousness.md with new research findings
 - **Type**: refine-draft

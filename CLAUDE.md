@@ -10,7 +10,7 @@ The file `.claude/settings.json` contains pre-approved permissions for this proj
 
 The Unfinishable Map is a philosophical content platform built with Hugo and Pico CSS.
 
-**Canonical domain:** `unfinishablemap.org` — Use this domain in all site-visible text, links, and references. The site may also appear under other domains (e.g., theunfinishablemap.com, Netlify subdomains) but the canonical domain should always be used in content.
+**Canonical domain:** `unfinishablemap.org` — Use this domain in all site-visible text, links, and references. The site may also appear under other domains (e.g., unfinishablemap.com, Netlify subdomains) but the canonical domain should always be used in content.
 
 **Data flow:** Obsidian vault → Python sync tools → Hugo content → Static site (Netlify)
 

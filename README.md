@@ -33,7 +33,7 @@ The project combines human insight with AI-assisted research, with all content t
 ## Project Structure
 
 ```
-theunfinishablemap/
+unfinishablemap/
 ├── obsidian/           # Primary content source (Obsidian vault)
 │   ├── tenets/         # Foundational commitments
 │   ├── topics/         # Deep dives (hard problem, free will, meaning of life...)
@@ -67,7 +67,7 @@ theunfinishablemap/
 ```bash
 # Clone the repository
 git clone https://github.com/unfinishablemap/unfinishablemap.git
-cd theunfinishablemap
+cd unfinishablemap
 
 # Install uv (if not already installed)
 curl -LsSf https://astral.sh/uv/install.sh | sh
@@ -159,10 +159,13 @@ The site is configured for Netlify deployment. Push to the main branch triggers:
 
 ## Current Content
 
-- **6 topics**: Hard problem, free will, meaning of life, personal identity, AI consciousness, Eastern philosophy
-- **12 concepts**: Qualia, functionalism, IIT, panpsychism, epiphenomenalism, quantum consciousness, and more
-- **1 voids article**: Apophatic approaches to the unknowable
-- **12 research notes**: Sources and analysis for future articles
+*As of 2026-01-18*
+
+- **14 topics**: Hard problem, free will, meaning of life, personal identity, AI consciousness, Eastern philosophy, animal consciousness, death and consciousness, ethics of consciousness, and more
+- **82 concepts**: Qualia, functionalism, IIT, panpsychism, epiphenomenalism, quantum consciousness, agent causation, libertarian free will, and more
+- **4 arguments**: Against materialism, functionalism, epiphenomenalism, and many-worlds
+- **5 voids articles**: Apophatic approaches, limits reveal structure, self-reference paradox, and more
+- **83 research notes**: Sources and analysis for article development
 
 ## License
 
