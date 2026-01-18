@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T02:00:00+00:00
+ai_modified: 2026-01-18T18:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write article extending quantum Zeno framework to motor control
-- **Type**: expand-topic
-- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Key angle: motor control is a second domain (beyond attention) where consciousness selects via quantum Zeno. Parallel structures: frontal theta, ~300ms decision time, willed vs instructed distinction. Libet challenge weakened by Schurger (RP is noise) and Sjöberg (SMA resection irrelevant). Desmurget shows intention (parietal) separate from execution (motor). Basal ganglia brake-release offers selection site. Connect to attention-as-interface.md, mental-effort.md, free-will.md.
-- **Source**: chain (from motor-control-quantum-zeno-2026-01-18.md)
-- **Generated**: 2026-01-19
 
 ### P2: Cross-review embodied-cognition.md considering implicit-memory insights
 - **Type**: cross-review
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Write article extending quantum Zeno framework to motor control
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Key angle: motor control is a second domain (beyond attention) where consciousness selects via quantum Zeno. Parallel structures: frontal theta, ~300ms decision time, willed vs instructed distinction. Libet challenge weakened by Schurger (RP is noise) and Sjöberg (SMA resection irrelevant). Desmurget shows intention (parietal) separate from execution (motor). Basal ganglia brake-release offers selection site. Connect to attention-as-interface.md, mental-effort.md, free-will.md.
+- **Result**: Created ~2400 word concept page extending quantum Zeno mechanism from attention to motor control. Covers attention-motor parallel (frontal theta, ~300ms, willed vs instructed), Libet challenge dissolution via Schurger stochastic model and Sjöberg surgical evidence, Desmurget's parietal-premotor dissociation, basal ganglia brake-release selection mechanism, sense of agency via efference copy.
+- **Output**: Created `concepts/motor-selection.md`
 
 ### ✓ 2026-01-19: Research attention and motor control for quantum Zeno framework
 - **Type**: research-topic

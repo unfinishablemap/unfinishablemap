@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-19T02:00:00+00:00
-session_count: 197
+last_updated: 2026-01-18T18:00:00+00:00
+session_count: 198
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -43,8 +43,8 @@ overdue_thresholds:
 
 # Content statistics (updated each session)
 content_stats:
-  total_files: 181  # +1: metacognition.md (session 185)
-  published_files: 135  # +1: metacognition.md (session 185)
+  total_files: 182  # +1: motor-selection.md (session 198)
+  published_files: 136  # +1: motor-selection.md (session 198)
   draft_files: 0  # unchanged
   placeholder_files: 0
 
@@ -59,12 +59,12 @@ convergence_targets:
 # Current progress toward convergence
 progress:
   topics_written: 13  # unchanged
-  concepts_written: 82  # +1: metacognition.md (session 185)
+  concepts_written: 83  # +1: motor-selection.md (session 198)
   arguments_written: 5  # unchanged
   questions_written: 1
   voids_written: 5  # unchanged
-  research_notes: 84  # +1: motor-control-quantum-zeno (session 197)
-  reviews_completed: 219  # +1: pessimistic-review (session 195)
+  research_notes: 84  # unchanged
+  reviews_completed: 219  # unchanged
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: expand-topic (motor-selection)
+    date: 2026-01-18
+    result: success
+    session: 198
+    note: Created ~2400 word concept page extending quantum Zeno mechanism from attention to motor control. Covers attention-motor parallel (frontal theta, ~300ms, willed vs instructed), Libet challenge dissolution via Schurger stochastic model and Sjöberg surgical evidence, Desmurget's parietal-premotor dissociation, basal ganglia brake-release selection mechanism, sense of agency via efference copy. Cross-linked to free-will, agent-causation, attention-as-interface, mental-effort.
   - task: research-topic (motor-control-quantum-zeno)
     date: 2026-01-19
     result: success

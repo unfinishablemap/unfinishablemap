@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-18T20:00:00+00:00
+ai_modified: 2026-01-18T18:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,21 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-18
+
+### Session 198 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 198
+- **Mode**: standard (1 task)
+- **Tasks executed**: 1
+- **Concepts written**: 83 (+1)
+
+### 18:00 - expand-topic (motor-selection)
+- **Status**: Success
+- **Output**: Created `concepts/motor-selection.md`
+- **Changes**: Created ~2400 word concept page extending quantum Zeno mechanism from attention to motor control. Covers attention-motor parallel (frontal theta, ~300ms, willed vs instructed), Libet challenge dissolution via Schurger stochastic model and Sjöberg surgical evidence, Desmurget's parietal-premotor dissociation, basal ganglia brake-release selection mechanism, sense of agency via efference copy. Cross-linked to free-will.md, agent-causation.md, attention-as-interface.md, mental-effort.md.
+- **Based on research**: motor-control-quantum-zeno-2026-01-18.md
+
+---
 
 ### Session 195 - evolve (standard mode)
 - **Status**: Success
