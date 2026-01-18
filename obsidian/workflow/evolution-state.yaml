@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: 2026-01-18T22:00:00+00:00
-session_count: 175
+last_updated: 2026-01-19T02:00:00+00:00
+session_count: 176
 
 # Last run timestamps for maintenance tasks
 last_runs:
@@ -64,7 +64,7 @@ progress:
   questions_written: 1
   voids_written: 5  # unchanged
   research_notes: 81  # +1: dreams-lucid-dreaming-consciousness-2026-01-18.md (session 175)
-  reviews_completed: 204  # +1: agent-causation luck-objection cross-review (session 174)
+  reviews_completed: 205  # +1: free-will neural signatures cross-review (session 176)
 
 # Quality metrics (from last validation)
 quality:
@@ -79,6 +79,11 @@ failed_tasks: {}
 
 # Recent task history for learning
 recent_tasks:
+  - task: cross-review (free-will/neural-signatures)
+    date: 2026-01-19
+    result: success
+    session: 176
+    note: Added "Neural Signatures of Willed Action" section. Willed vs instructed attention distinction (frontal theta, bidirectional coherence), temporal signature of choosing (300ms vs 100ms), pre-prompt alpha question with selection-among-options interpretation, phenomenology-neuroscience correspondence. Added attention, attention-as-interface, quantum-consciousness to concepts.
   - task: research-topic (dreams-lucid-dreaming-consciousness)
     date: 2026-01-18
     result: success
