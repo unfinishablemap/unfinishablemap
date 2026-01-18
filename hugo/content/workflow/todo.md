@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 21:00:00+00:00
+ai_modified: 2026-01-19 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,17 +38,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research emotional consciousness and valence
-- **Type**: research-topic
-- **Notes**: The site has rich coverage of cognitive aspects (metacognition, memory systems, attention) but lacks dedicated treatment of emotional consciousness. How is valence (positive/negative felt quality) experienced? What is the relationship between emotions and consciousness—are emotions felt qualities requiring phenomenal consciousness, or functional states that could exist without experience? This connects to phenomenal-value-realism.md and ethics-of-consciousness.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-19
-
 ### P2: Strengthen luck-objection phenomenology argument
 - **Type**: refine-draft
 - **Notes**: Pessimistic review 2026-01-18 found the phenomenology-based response vulnerable to zombie objection. Engage with the dialectic: site's dualism already rejects zombies, so zombie-based objections are question-begging from site perspective. Make this explicit.
 - **Source**: pessimistic-review
 - **Generated**: 2026-01-18
+
+### P2: Write concept page on downward causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/downward-causation-mental-causation-2026-01-15.md. Kim's exclusion argument is the primary challenge to mental causation. The site has mental-causation.md but lacks dedicated treatment of downward causation as a distinct concept—how higher-level properties can causally influence lower-level processes. Critical for defending Bidirectional Interaction tenet.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
+### P2: Write concept page on witness consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. The sakshi (witness) phenomenon in contemplative traditions—pure awareness observing mental contents without identification. Connects to meditation-and-consciousness-modes.md but deserves dedicated treatment. Relevant to site's dualism: if witness can observe thoughts as objects, this supports subject-object distinction.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
+### P2: Write concept page on voluntary attention
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voluntary-attention-control-mechanisms-2026-01-17.md. Endogenous (willed) vs exogenous (stimulus-driven) attention distinction is central to site's quantum Zeno framework. The attention.md page covers attention broadly but voluntary control mechanisms deserve dedicated treatment—this is where consciousness "does work" in the brain.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
@@ -81,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Research emotional consciousness and valence
+- **Type**: research-topic
+- **Notes**: The site has rich coverage of cognitive aspects (metacognition, memory systems, attention) but lacks dedicated treatment of emotional consciousness. How is valence (positive/negative felt quality) experienced? What is the relationship between emotions and consciousness—are emotions felt qualities requiring phenomenal consciousness, or functional states that could exist without experience? This connects to phenomenal-value-realism.md and ethics-of-consciousness.md.
+- **Result**: Comprehensive research on emotional consciousness, valence, and their philosophical implications. Key findings: (1) Panksepp vs. LeDoux debate on subcortical vs. cortical emotional consciousness; (2) Carruthers' evaluativism vs. hedonic account of valence (intrinsic property vs. representation); (3) Valence sentientism vs. broad sentientism for moral status; (4) Core affect theory (Russell & Barrett) as dimensional basis; (5) Neural substrates of valence (OFC, insula, amygdala). Strong support for site's Dualism (if valence is intrinsic property) and Bidirectional Interaction (if valenced states motivate behavior).
+- **Output**: Created `research/emotional-consciousness-valence-2026-01-19.md`
 
 ### ✓ 2026-01-18: Write concept page on relational quantum mechanics
 - **Type**: expand-topic
