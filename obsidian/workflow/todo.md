@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T22:00:00+00:00
+ai_modified: 2026-01-19T00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from sleep-and-consciousness.md)
 - **Generated**: 2026-01-18
 
-### P2: Write concept article on the luck objection to libertarian free will
-- **Type**: expand-topic
-- **Notes**: Research completed in research/luck-objection-libertarian-free-will-2026-01-17.md. The luck objection argues that indeterministic choices are equally arbitrary as determined ones—undermining libertarian freedom. This is a major philosophical challenge to the site's agent-causation position. The article should explain the objection, survey responses, and show how the site's framework (consciousness selecting among options, not randomness deciding) addresses it.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-18
-
 ### P2: Research dreams and lucid dreaming for consciousness framework
 - **Type**: research-topic
 - **Notes**: The site has dreams-and-consciousness.md but it's sparse. Sleep-and-consciousness.md mentions lucid dreaming as interface reactivation. A deeper research dive could explore: What do dreams reveal about consciousness without normal sensory input? How do lucid dreams demonstrate voluntary interface engagement during sleep? What does dream phenomenology suggest about consciousness requirements? This would strengthen the dreams concept page.
@@ -68,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-18: Write concept article on the luck objection to libertarian free will
+- **Type**: expand-topic
+- **Notes**: Research completed in research/luck-objection-libertarian-free-will-2026-01-17.md. The luck objection argues that indeterministic choices are equally arbitrary as determined ones—undermining libertarian freedom. This is a major philosophical challenge to the site's agent-causation position. The article should explain the objection, survey responses, and show how the site's framework (consciousness selecting among options, not randomness deciding) addresses it.
+- **Result**: Created ~2200 word concept page covering van Inwagen's rollback argument, Mele's present/remote luck distinction, Kane's SFAs response and its criticisms, agent-causal responses, and the site's framework (consciousness selects rather than receives random outcomes). Explained how phenomenology of effort, reasons-guided selection, and retrocausality each strengthen the response. Added luck-objection to free-will.md and agent-causation.md concept links.
+- **Output**: Created `concepts/luck-objection.md`
 
 ### ✓ 2026-01-18: Cross-review binding-problem.md considering sleep consciousness insights
 - **Type**: cross-review
