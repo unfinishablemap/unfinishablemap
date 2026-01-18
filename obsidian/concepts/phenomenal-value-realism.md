@@ -10,6 +10,7 @@ topics:
   - "[[ethics-of-consciousness]]"
 concepts:
   - "[[qualia]]"
+  - "[[emotional-consciousness]]"
   - "[[panpsychism]]"
   - "[[epiphenomenalism]]"
   - "[[dualism]]"
@@ -163,6 +164,7 @@ Phenomenal value realism unifies the site's disparate concerns: consciousness st
 - [[ethics-of-consciousness]] — Ethical implications of consciousness-grounded value
 - [[purpose-and-alignment]] — Why AI alignment should target experiential quality
 - [[qualia]] — The qualitative features of experience
+- [[emotional-consciousness]] — Valence as the felt quality of emotions
 - [[tenets]] — The foundational commitments that support this view
 - [[haecceity]] — Why *this* experience matters, not just experience-of-this-type
 
