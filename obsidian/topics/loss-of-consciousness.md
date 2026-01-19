@@ -3,7 +3,7 @@ title: "Loss of Consciousness and the Mind-Brain Relationship"
 created: 2026-01-15
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-18T14:30:00+00:00
+ai_modified: 2026-01-19T01:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[autonoetic-consciousness]]"
   - "[[sleep-and-consciousness]]"
   - "[[binding-problem]]"
+  - "[[altered-states-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[near-death-experiences]]"
@@ -30,6 +31,8 @@ last_curated: null
 ---
 
 Loss of consciousness—through anesthesia, coma, or brain injury—provides a natural experiment for understanding the mind-brain relationship. Materialists argue that consciousness disappearing when brain function is disrupted proves consciousness is produced by the brain. But this argument conflates correlation with causation. The filter or transmission theory, developed by William James, Henri Bergson, and Aldous Huxley, interprets the same evidence differently: brain dysfunction disrupts the *interface* through which consciousness operates, not the consciousness itself. Several findings support this alternative interpretation: behaviorally unresponsive patients who retain awareness detectable only via neuroimaging, radically different conscious states from anesthetics that produce identical behavioral unresponsiveness, and consciousness persisting despite massive neural loss from hemispherectomy.
+
+Loss of consciousness belongs within the broader spectrum of [[altered-states-of-consciousness|altered states of consciousness]]. While ASCs like psychedelics and meditation *reconfigure* the brain-consciousness interface—loosening constraints or redirecting attention—loss-of-consciousness states represent the extreme where the interface becomes severely disrupted or partially closed. The filter theory unifies both: psychedelics open the filter wider, anesthesia narrows or blocks it, and sleep voluntarily disengages specific channels. Each reveals something about the interface's configurable nature rather than supporting simple production models.
 
 ## The Materialist Argument
 
@@ -181,6 +184,7 @@ The site's [[tenets]] include both [[tenets#^dualism|dualism]]—consciousness i
 
 ## Further Reading
 
+- [[altered-states-of-consciousness]] — Loss of consciousness as part of the broader ASC spectrum
 - [[neural-correlates-of-consciousness]]
 - [[near-death-experiences]]
 - [[interactionist-dualism]]
