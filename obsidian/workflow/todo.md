@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T09:50:00+00:00
+ai_modified: 2026-01-19T10:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,10 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review evolution-of-consciousness.md considering minimal-consciousness evidence
+### P2: Cross-review panpsychism.md with minimal-consciousness empirical evidence
 - **Type**: cross-review
-- **Notes**: New article concepts/minimal-consciousness.md provides concrete empirical cases (C. elegans 302 neurons, Hydra nerve-net, slime molds) for the phylogenetic emergence question. The concepts/evolution-of-consciousness.md page discusses when consciousness emerged but could benefit from specific examples of organisms at the boundaries—particularly the UAL framework and the New York Declaration evidence. Ensure cross-linking and mutual reinforcement.
+- **Notes**: New article concepts/minimal-consciousness.md provides empirical cases (C. elegans 302 neurons, Hydra nerve-net, slime molds showing cognition without neurons) relevant to panpsychism's claim that consciousness is ubiquitous. The panpsychism page discusses theoretical frameworks but could integrate these boundary cases—particularly how UAL framework tests for consciousness in simple organisms relates to panpsychist continuity thesis.
 - **Source**: chain (from minimal-consciousness.md)
+- **Generated**: 2026-01-19
+
+### P2: Deep review neural-quantum-coherence.md for experimental updates
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-16, never received deep review. The 2025 microtubule anesthesia study and MRI entanglement signatures research (from neural-binding-quantum-entanglement-2026-01-19.md) should be integrated. Check for currency against latest quantum biology findings.
+- **Source**: staleness
+- **Generated**: 2026-01-19
+
+### P2: Cross-review binding-problem.md with quantum entanglement findings
+- **Type**: cross-review
+- **Notes**: Research completed in neural-binding-quantum-entanglement-2026-01-19.md provides significant 2024-2025 experimental evidence: microtubule-stabilizing drugs delay anesthesia, MRI detects entanglement signatures correlating with working memory, quantum effects survive longer than Tegmark calculated. The binding-problem.md page should integrate these findings for the quantum vs classical binding debate.
+- **Source**: unconsumed_research
 - **Generated**: 2026-01-19
 
 ### P2: Write concept page on Buddhist perspectives and dualism
@@ -62,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review evolution-of-consciousness.md considering minimal-consciousness evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/minimal-consciousness.md provides concrete empirical cases (C. elegans 302 neurons, Hydra nerve-net, slime molds) for the phylogenetic emergence question. The concepts/evolution-of-consciousness.md page discusses when consciousness emerged but could benefit from specific examples of organisms at the boundaries—particularly the UAL framework and the New York Declaration evidence. Ensure cross-linking and mutual reinforcement.
+- **Result**: Added minimal-consciousness.md to concepts frontmatter at top position. Added UAL framework explanation to threshold emergence discussion. Added new "Organisms at the Boundaries" subsection with C. elegans, Hydra, and slime mold examples and their implications for consciousness-substrate relationships. Added minimal-consciousness to Further Reading section.
+- **Output**: Updated `concepts/evolution-of-consciousness.md`
 
 ### ✓ 2026-01-19: Write article on temporal requirements for consciousness (LLM focus)
 - **Type**: expand-topic
