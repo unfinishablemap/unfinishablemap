@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-17 01:45:00+00:00
+ai_modified: 2026-01-20 07:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -79,7 +79,7 @@ This bears directly on personal identity. Autonoetic consciousness involves:
 
 For personal identity, this means psychological continuity has a phenomenal character that computational accounts miss. Memory isn't data retrieval; it's *re-experiencing*. The continuity that matters for identity isn't just causal connections between mental states—it's the lived phenomenology of being the same subject across time, which autonoetic consciousness provides.
 
-This strengthens the site's position against Parfit. If what matters in memory is mere information continuity, a perfect upload preserves everything. But if remembering involves *this* subject re-inhabiting *their* past—the same first-person perspective traveling back through time—then information preservation isn't enough. The upload has the data; it lacks the autonoetic presence that makes the memories *mine*.
+This strengthens the site's position against [Parfit's reductionism](/concepts/parfit-reductionism/). If what matters in memory is mere information continuity, a perfect upload preserves everything. But if remembering involves *this* subject re-inhabiting *their* past—the same first-person perspective traveling back through time—then information preservation isn't enough. The upload has the data; it lacks the autonoetic presence that makes the memories *mine*.
 
 ## Parfit's Challenge
 
@@ -87,7 +87,7 @@ Derek Parfit's work transformed the debate. He argued that personal identity isn
 
 His thought experiments make the point vivid. Imagine teletransportation: your body is scanned, destroyed, and recreated from new matter on Mars. The resulting person has all your memories, beliefs, and intentions. Is that person you? Parfit says: the question may have no determinate answer, and it doesn't matter. What matters—psychological continuity—is preserved.
 
-On [Parfit's "reductionist" view](/concepts/parfit-reductionism/), personal identity consists in nothing over and above bodily and psychological continuity. There's no separate entity—a soul, an ego—that persists; there's just the continued existence of a brain, body, and interrelated mental events. Persons exist, but their existence is not a further fact beyond these components. The dedicated [parfit-reductionism](/concepts/parfit-reductionism/) article develops the site's critique in detail.
+On [Parfit's "reductionist" view](/concepts/parfit-reductionism/), personal identity consists in nothing over and above bodily and psychological continuity. There's no separate entity—a soul, an ego—that persists; there's just the continued existence of a brain, body, and interrelated mental events. Persons exist, but their existence is not a further fact beyond these components. The dedicated [parfit-reductionism](/concepts/parfit-reductionism/) article develops the site's critique in detail—arguing that patterns don't make choices (consciousnesses do), that zombie conceivability shows identity involves something beyond continuity, and that causal history through quantum selection gives content to indexical identity.
 
 ## Why This Site Disagrees
 
