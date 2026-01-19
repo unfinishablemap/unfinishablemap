@@ -3,7 +3,7 @@ title: "Free Will and Determinism"
 created: 2026-01-08
 modified: 2026-01-13
 human_modified: null
-ai_modified: 2026-01-18T19:30:00+00:00
+ai_modified: 2026-01-19T03:35:00+00:00
 last_deep_review: 2026-01-15T14:30:00+00:00
 draft: false
 topics:
@@ -29,6 +29,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[quantum-consciousness]]"
   - "[[motor-selection]]"
+  - "[[consciousness-and-creativity]]"
 related_articles:
   - "[[tenets]]"
   - "[[libet-experiments-free-will-2026-01-07]]"
@@ -181,6 +182,20 @@ This is precisely what the site's framework claims. The [[tenets#^bidirectional-
 E.J. Lowe's argument is especially relevant: if all causation is fundamentally substance causation—agents exercising powers—then consciousness causing physical events isn't metaphysically exceptional. It's how causation works generally. This reframes the causal closure objection: physics describes regularities in what substances do; it doesn't prove substances are exclusively physical.
 
 The [[mental-effort|phenomenology of effort]] supports the agent-causal picture. If choices were merely random quantum fluctuations, there would be no phenomenology of effort—no sense of the agent working to maintain focus. The felt cost of concentration reflects genuine causal engagement by the agent, not passive observation of random events. The agent is the source.
+
+### Creative Generation: Beyond Pure Selection
+
+The [[consciousness-and-creativity|consciousness and creativity]] framework strengthens agent causation by answering a question pure selection leaves open: where do options come from?
+
+If consciousness only selects among pre-existing alternatives, its causal contribution—though real—is limited. The brain generates the menu; consciousness picks from it. But [[consciousness-and-creativity|recent analysis]] suggests consciousness does more: it *generates* possibilities through imagination, not just selects among them. These are unified aspects of a single creative process.
+
+**Imagination constitutes possibility space**: When you deliberate, you don't rifle through a fixed catalogue of options. Imagination actively explores and thereby *constitutes* what's possible. Husserl called imagination "the realm of freedom." Each imaginative move opens some paths and closes others. The "menu" expands through imaginative engagement.
+
+**L-creativity and genuine sourcehood**: Hausman's concept of "L-creativity" requires metaphysical novelty—what genuinely didn't exist before, not merely what the thinker hadn't considered. If consciousness generates such novelty through creative duration, the agent contributes something the physical causal history couldn't have determined. The luck objection loses force: the agent explains the difference because the agent *constituted* the options through creative engagement.
+
+**Where creative sourcehood operates**: Bergson's [[duration|durée]] provides the philosophical framework—lived time brings genuine becoming, not mere rearrangement. Margaret Boden's *transformational* creativity—changing the rules of a conceptual space—especially requires both generation and selection. You cannot select a rule-change from within the old rule-system; consciousness must both generate the new rules and recognise their value.
+
+This enriches the agent-causal picture. The agent isn't merely a selector among brain-generated options but a *creative contributor* who expands possibility space through imagination. "What about the agent explains the choice?" The agent constituted the options through imaginative exploration—then selected among what imagination made available.
 
 ## The Capacity to Suspend Selection
 
@@ -415,6 +430,7 @@ This isn't a proof. It's a coherent picture that takes both consciousness and ph
 
 ## Further Reading
 
+- [[consciousness-and-creativity]] — How consciousness both generates and selects possibilities, strengthening the case for genuine agency
 - [[mental-causation]] — Why mental causation is essential for free will and how the quantum framework addresses Kim's exclusion argument
 - [[agent-causation]] — Agent vs. event causation and why this site's framework is agent-causal
 - [[moral-responsibility]] — How agent causation grounds desert differently than compatibilism
