@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T21:00:00+00:00
+ai_modified: 2026-01-19T12:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-19
 
-### P2: Cross-review quantum-interpretations.md with detailed MWI arguments
-- **Type**: cross-review
-- **Notes**: New article concepts/many-worlds.md provides five detailed arguments against MWI (ontological extravagance, indexical identity problem, probability problem, preferred basis problem, consciousness unexplained). The concepts/quantum-interpretations.md page should reference these specific arguments when discussing why the site rejects MWI. Currently says "explicitly rejects" but could link to the detailed case.
-- **Source**: chain (from many-worlds.md)
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review measurement-problem.md with MWI rejection arguments
 - **Type**: cross-review
 - **Notes**: New article concepts/many-worlds.md presents the detailed case against MWI. The concepts/measurement-problem.md page references many-worlds but could integrate the specific arguments—particularly the probability problem (why do we experience these odds?) and the consciousness-unexplained argument (MWI doesn't explain why consciousness exists at all).
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review quantum-interpretations.md with detailed MWI arguments
+- **Type**: cross-review
+- **Notes**: New article concepts/many-worlds.md provides five detailed arguments against MWI (ontological extravagance, indexical identity problem, probability problem, preferred basis problem, consciousness unexplained). The concepts/quantum-interpretations.md page should reference these specific arguments when discussing why the site rejects MWI. Currently says "explicitly rejects" but could link to the detailed case.
+- **Result**: Enhanced opening to preview five specific objections. Expanded "Why the Site Rejects MWI" section with substantive engagement—linking ontological extravagance to Occam's Razor Has Limits tenet, connecting indexical identity to haecceity, explaining probability problem's contested derivations, and highlighting consciousness-bidirectional interaction conflict. Updated comparison table to show "(five arguments)" for MWI rejection. Added haecceity to concepts frontmatter.
+- **Output**: Updated `concepts/quantum-interpretations.md`
 
 ### ✓ 2026-01-19: Cross-review phenomenology.md with Buddhist contemplative insights
 - **Type**: cross-review
