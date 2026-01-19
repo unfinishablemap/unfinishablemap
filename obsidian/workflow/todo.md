@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T22:00:00+00:00
+ai_modified: 2026-01-20T06:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review personal-identity.md for Parfit treatment completeness
-- **Type**: cross-review
-- **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
-- **Source**: chain (from parfit-reductionism.md)
-- **Generated**: 2026-01-17
-- **Promoted**: 2026-01-19 (queue replenishment - chain task from recent article)
-
 ### P3: Deep review analytic-idealism.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-15, no deep review since creation. Check for cross-links to newer content (phenomenal-value-realism.md, interface-locality.md, multi-mind-collapse-problem.md) and currency of arguments.
@@ -63,11 +56,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 - **Promoted**: 2026-01-19 (queue replenishment - strong tenet support for dualism)
 
-### P3: Write article on evolution of consciousness
+### P2: Write article on evolution of consciousness
 - **Type**: expand-topic
 - **Notes**: Optimistic review 2026-01-19 identified opportunity. When did consciousness emerge? What evolutionary pressures favored it? Why do some creatures seem conscious and others not? Connects to animal-consciousness.md and prebiotic-collapse.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-19
+- **Promoted**: 2026-01-20 (queue replenishment - strong tenet support for prebiotic collapse problem)
 
 ### P3: Write article on consciousness and memory consolidation
 - **Type**: expand-topic
@@ -76,6 +70,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Cross-review personal-identity.md for Parfit treatment completeness
+- **Type**: cross-review
+- **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
+- **Result**: Cross-linking was already solid. Added summary of three key arguments from parfit-reductionism.md (patterns don't make choices, zombie conceivability, causal history) to strengthen the transition to detailed critique. Added explicit link to parfit-reductionism in the autonoetic consciousness section where it was contextually relevant.
+- **Output**: Updated `topics/personal-identity.md`
 
 ### ✓ 2026-01-19: Cross-review hard-problem-of-consciousness.md with dualism foundational overview
 - **Type**: cross-review
