@@ -178,6 +178,7 @@ The remaining tenets are compatible:
 
 ## Further Reading
 
+- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How selection integrates with imagination's generative role
 - [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) — The laws governing what selection can accomplish
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Major theories of how consciousness interfaces with quantum mechanics
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and Stapp's mechanism

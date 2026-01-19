@@ -123,6 +123,7 @@ Bergson's durée aligns with multiple site tenets:
 
 ## Further Reading
 
+- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How duration's creative novelty relates to the generation-selection model
 - [neurophenomenology](/concepts/neurophenomenology/) — Contemplative science and access to temporal microstructure
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and neuroscience of time
