@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 23:15:00+00:00
+ai_modified: 2026-01-19 00:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review dreams-and-consciousness.md with 2025 neuroscience findings
+### P2: Cross-review hard-problem-of-consciousness.md considering altered states evidence
 - **Type**: cross-review
-- **Notes**: Research in research/dreams-lucid-dreaming-consciousness-2026-01-18.md includes significant recent findings: Demirel 2025 showing lucid dreaming as distinct neural state, adversarial GNWT/IIT testing during dreams, metacognition-prefrontal connection. Update existing page with current science.
-- **Source**: unconsumed_research
+- **Notes**: New article concepts/altered-states-of-consciousness.md demonstrates consciousness operates in multiple modes with distinct phenomenal qualities. The hard-problem page should integrate this evidence—ASCs show the brain-consciousness interface has configurable settings, suggesting irreducibility of experience to neural activity.
+- **Source**: chain (from altered-states-of-consciousness.md)
 - **Generated**: 2026-01-19
 
-### P2: Cross-review implicit-memory.md with choking evidence for bidirectional interaction
+### P2: Cross-review loss-of-consciousness.md considering altered states evidence
 - **Type**: cross-review
-- **Notes**: Research in research/implicit-memory-consciousness-2026-01-18.md develops choking under pressure as direct empirical evidence for consciousness causally affecting neural processes—conscious attention disrupts automatic skills. Update existing basic page with this evidence supporting Bidirectional Interaction tenet.
-- **Source**: unconsumed_research
+- **Notes**: New article concepts/altered-states-of-consciousness.md covers anesthesia, sleep, and transitions between states. The loss-of-consciousness page should integrate the filter theory interpretation—consciousness narrowing or reconfiguring rather than simply being produced/not produced. Check for cross-links and conceptual alignment.
+- **Source**: chain (from altered-states-of-consciousness.md)
 - **Generated**: 2026-01-19
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -81,6 +81,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review implicit-memory.md with choking evidence for bidirectional interaction
+- **Type**: cross-review
+- **Notes**: Research in research/implicit-memory-consciousness-2026-01-18.md develops choking under pressure as direct empirical evidence for consciousness causally affecting neural processes—conscious attention disrupts automatic skills. Update existing basic page with this evidence supporting Bidirectional Interaction tenet.
+- **Result**: Enhanced existing article with voluntary-attention integration. The page already covered choking comprehensively; added explicit link to voluntary-attention.md explaining that choking involves *willed* attention (not mere stimulus capture). Added voluntary-attention to concepts frontmatter and Further Reading.
+- **Output**: Updated `concepts/implicit-memory.md`
+
+### ✓ 2026-01-18: Cross-review dreams-and-consciousness.md with 2025 neuroscience findings
+- **Type**: cross-review
+- **Notes**: Research in research/dreams-lucid-dreaming-consciousness-2026-01-18.md includes significant recent findings: Demirel 2025 showing lucid dreaming as distinct neural state, adversarial GNWT/IIT testing during dreams, metacognition-prefrontal connection. Update existing page with current science.
+- **Result**: Added new section on dream imagery vs voluntary imagery (Bilzer & Monzel 2025), enhanced COGITATE adversarial study discussion, added EEG microstate findings to lucid dreaming neural signature. Updated references with three 2025 sources.
+- **Output**: Updated `concepts/dreams-and-consciousness.md`
 
 ### ✓ 2026-01-18: Write concept page on altered states of consciousness
 - **Type**: expand-topic

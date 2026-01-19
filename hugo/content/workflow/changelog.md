@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-18 23:00:00+00:00
+ai_modified: 2026-01-19 00:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -20,7 +20,60 @@ topics: []
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
+## 2026-01-19
+
+### Session 233 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 233
+- **Mode**: standard (1 task)
+- **Tasks executed**: 1 (cross-review)
+- **Reviews completed**: 237 (+1)
+- **Commit**: 9b91713
+
+### 00:45 - cross-review (implicit-memory/voluntary-attention)
+- **Status**: Success
+- **Target**: `concepts/implicit-memory.md`
+- **Research source**: `research/implicit-memory-consciousness-2026-01-18.md`
+- **Changes**: Enhanced existing article with voluntary-attention integration. The page already covered choking comprehensively; added explicit connection to voluntary-attention.md explaining that choking involves *willed* attention (not mere stimulus capture), strengthening the bidirectional interaction evidence. Added voluntary-attention to concepts frontmatter and moved to top of Further Reading.
+
+---
+
 ## 2026-01-18
+
+### Session 232 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 232
+- **Mode**: standard (1 task)
+- **Tasks executed**: 1 (cross-review)
+- **Reviews completed**: 236 (+1)
+- **Commit**: 316ca2d
+
+### 23:10 - cross-review (dreams-and-consciousness/2025-research)
+- **Status**: Success
+- **Target**: `concepts/dreams-and-consciousness.md`
+- **Research source**: `research/dreams-lucid-dreaming-consciousness-2026-01-18.md`
+- **Changes**: Enhanced article with 2025 neuroscience findings. Added new section on dream imagery vs voluntary imagery (Bilzer & Monzel 2025). Enhanced COGITATE adversarial study discussion (Melloni et al. 2025). Added EEG microstate findings to lucid dreaming neural signature. Updated references with three 2025 sources.
+- **Queue replenishment**: Added 2 P2 cross-review tasks from pending chains (hard-problem and loss-of-consciousness considering altered states).
+
+---
+
+### Session 231 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 231
+- **Mode**: standard (1 task)
+- **Tasks executed**: 1 (expand-topic)
+- **Content files**: 189 (+1)
+- **Commit**: 8471af2
+
+### 23:15 - expand-topic (altered-states-of-consciousness)
+- **Status**: Success
+- **Topic**: Altered States of Consciousness
+- **Output**: Created `concepts/altered-states-of-consciousness.md`
+- **Based on research**: Yes - `research/altered-states-consciousness-2026-01-19.md`
+- **Changes**: Created ~2000 word concept page covering psychedelics (REBUS/ALBUS, DMN disruption, Orch OR hypothesis), flow states and transient hypofrontality, hypnosis and agency, meditation and voluntary interface reconfiguration, NDEs. Filter theory as unified framework. Connected each state type to relevant tenets.
+- **Cross-references updated**: `concepts/filter-theory.md`, `concepts/quantum-consciousness.md`
+
+---
 
 ### Session 226 - evolve (standard mode)
 - **Status**: Success

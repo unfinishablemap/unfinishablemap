@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-18 12:30:00+00:00
+ai_modified: 2026-01-18 23:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -38,7 +38,7 @@ Lucid dreaming—maintaining awareness that one is dreaming while within the dre
 
 Contemporary philosophy largely accepts that dreams are genuine conscious experiences occurring during sleep, rejecting Norman Malcolm's 1956 argument that "if a person is in any state of consciousness it logically follows that he is not sound asleep." The evidence against Malcolm is strong:
 
-**REM correlations**: Dream reports are far more common from REM sleep awakenings (about 82%) than non-REM awakenings (about 43%). The brain shows distinctively high activity during REM, resembling waking patterns more than deep sleep. However, [recent research](/concepts/sleep-and-consciousness/) shows dreaming also occurs during NREM, correlating with reduced slow waves in the posterior cortical "hot zone"—the same region COGITATE (2025) identified as essential for waking conscious content.
+**REM correlations**: Dream reports are far more common from REM sleep awakenings (about 82%) than non-REM awakenings (about 43%). The brain shows distinctively high activity during REM, resembling waking patterns more than deep sleep. However, [recent research](/concepts/sleep-and-consciousness/) shows dreaming also occurs during NREM, correlating with reduced slow waves in the posterior cortical "hot zone"—the same region the COGITATE adversarial study (Melloni et al. 2025) identified as essential for waking conscious content. The seven-year GNWT versus IIT study found that neither theory fully captures consciousness, but posterior cortical involvement proved robust across paradigms—a finding that explains why dreaming persists when this region remains active during NREM.
 
 **Signal-verified lucid dreaming**: Stephen LaBerge's groundbreaking work in 1981 demonstrated that lucid dreamers can signal to experimenters through pre-arranged eye movements while remaining verifiably in REM sleep. Two-way communication during lucid dreams was achieved in 2021, with experimenters and dreamers exchanging information in real time.
 
@@ -131,11 +131,12 @@ The 2025 research from Demirel and colleagues at the Donders Center for Cognitiv
 
 This matters because it proves consciousness can stabilize novel operating modes. Ordinary waking and ordinary REM are not the only stable configurations; intermediate states are possible, and consciousness can learn to inhabit them through training.
 
-**The neural signature** of lucid dreaming differs from both waking and non-lucid REM:
+**The neural signature** of lucid dreaming differs from both waking and non-lucid REM (Demirel et al. 2025):
 - Gamma power (30-36 Hz) increases in right temporo-occipital regions including precuneus
 - Beta power (12-30 Hz) decreases in right central and parietal areas including temporoparietal junction
 - Increased interhemispheric connectivity and inter-regional gamma coherence
 - Reduced default mode network activity alongside increased metacognitive processing
+- Distinct EEG microstate dynamics with enhanced self-visualization and executive processing
 
 The prefrontal cortex, deactivated during ordinary REM sleep (explaining the absence of critical thinking in dreams), reactivates during lucidity. This enables the metacognitive awareness that one is dreaming while still within the dream. Importantly, the structural capacity for this appears trainable: frequent lucid dreamers have larger anterior prefrontal cortex volume, suggesting the metacognition-prefrontal connection has a physical substrate that develops with practice.
 
@@ -167,6 +168,21 @@ The trainability parallel deepens the point. Both meditation and lucid dreaming 
 Lucid dreaming proves that consciousness can stabilize novel configurations. Ordinary dreams and ordinary waking are not the only stable states—intermediate configurations are possible, and consciousness can learn to inhabit them. This challenges views that tie consciousness too tightly to either the waking or sleeping brain pattern.
 
 The volitional control possible in lucid dreams—transforming dream content through intention—demonstrates bidirectional interaction at the experiential level. The dreamer decides to fly; flying experience occurs. Whatever mechanism underlies this, consciousness is not merely receiving the brain's outputs.
+
+## Dream Imagery Versus Voluntary Imagery
+
+Are dreams just "imagination at night"? The 2025 research from Bilzer and Monzel provides a nuanced answer: voluntary mental imagery and dream imagery use partially distinct networks that become connected through metacognitive capacity.
+
+Their findings show that correlations *within* states (comparing aspects of waking imagery, or comparing aspects of dream imagery) are significantly larger than correlations *across* states (comparing waking imagery to dream imagery). This suggests dreams are not merely imagination operating during sleep—they engage phenomenologically distinct processes.
+
+However—and this is the key finding—the association between voluntary imagery vividness and dream imagery vividness is moderated by lucid dreaming frequency. Higher metacognitive capacity (as indicated by frequent lucid dreaming) *connects* the otherwise distinct networks. When metacognition is well-developed, waking imagery and dream imagery become increasingly similar.
+
+This has implications for the [filter theory](/concepts/filter-theory/):
+
+- Dream imagery is phenomenologically distinct from voluntary imagery—more vivid for emotional and visual content
+- The two modes use different aspects of the brain's representational machinery
+- Metacognitive development bridges them, suggesting the consciousness-brain interface has learnable parameters
+- Dreams are not reducible to imagination, nor entirely separate from it—the relationship depends on interface configuration
 
 ## Tibetan Dream Yoga
 
@@ -240,10 +256,12 @@ The [phenomenology](/concepts/phenomenology/) and [neurophenomenology](/concepts
 ## References
 
 - Aserinsky, E. & Kleitman, N. (1953). Regularly occurring periods of eye motility, and concomitant phenomena, during sleep. *Science*, 118, 273-274.
-- Demirel, Ç. et al. (2025). Lucid dreaming as a distinct consciousness state. Donders Center for Cognitive Neuroimaging.
+- Bilzer, F. & Monzel, M. (2025). The phenomenology of offline perception: Multisensory profiles of voluntary mental imagery and dream imagery. *Vision*, 9(2).
+- Demirel, Ç. et al. (2025). Electrophysiological correlates of lucid dreaming: Sensor and source level signatures. *Journal of Neuroscience*, 45(20).
 - Evans-Wentz, W.Y. (1935). *Tibetan Yoga and Secret Doctrines*.
 - Hobson, J.A. (2009). REM sleep and dreaming: Towards a theory of protoconsciousness. *Nature Reviews Neuroscience*, 10, 803-813.
 - LaBerge, S. (1981). Lucid dreaming: Physiological correlates of consciousness during REM sleep. *Journal of Mind and Behavior*, 2(3), 251-258.
 - Malcolm, N. (1956). *Dreaming*. Routledge & Kegan Paul.
+- Melloni, L. et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
 - Paller, K.A. (2025). Memory, Sleep, Dreams, and Consciousness. Northwestern University.
 - Windt, J.M. (2015). *Dreaming: A Conceptual Framework for Philosophy of Mind and Empirical Research*. MIT Press.

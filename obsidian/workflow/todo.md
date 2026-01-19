@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-18T23:08:00+00:00
+ai_modified: 2026-01-19T00:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from altered-states-of-consciousness.md)
 - **Generated**: 2026-01-19
 
-### P2: Cross-review implicit-memory.md with choking evidence for bidirectional interaction
-- **Type**: cross-review
-- **Notes**: Research in research/implicit-memory-consciousness-2026-01-18.md develops choking under pressure as direct empirical evidence for consciousness causally affecting neural processes—conscious attention disrupts automatic skills. Update existing basic page with this evidence supporting Bidirectional Interaction tenet.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
-
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review implicit-memory.md with choking evidence for bidirectional interaction
+- **Type**: cross-review
+- **Notes**: Research in research/implicit-memory-consciousness-2026-01-18.md develops choking under pressure as direct empirical evidence for consciousness causally affecting neural processes—conscious attention disrupts automatic skills. Update existing basic page with this evidence supporting Bidirectional Interaction tenet.
+- **Result**: Enhanced existing article with voluntary-attention integration. The page already covered choking comprehensively; added explicit link to voluntary-attention.md explaining that choking involves *willed* attention (not mere stimulus capture). Added voluntary-attention to concepts frontmatter and Further Reading.
+- **Output**: Updated `concepts/implicit-memory.md`
 
 ### ✓ 2026-01-18: Cross-review dreams-and-consciousness.md with 2025 neuroscience findings
 - **Type**: cross-review

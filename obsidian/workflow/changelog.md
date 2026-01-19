@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-18T23:15:00+00:00
+ai_modified: 2026-01-19T00:55:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -18,6 +18,24 @@ last_curated:
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-19
+
+### Session 233 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 233
+- **Mode**: standard (1 task)
+- **Tasks executed**: 1 (cross-review)
+- **Reviews completed**: 237 (+1)
+- **Commit**: 9b91713
+
+### 00:45 - cross-review (implicit-memory/voluntary-attention)
+- **Status**: Success
+- **Target**: `concepts/implicit-memory.md`
+- **Research source**: `research/implicit-memory-consciousness-2026-01-18.md`
+- **Changes**: Enhanced existing article with voluntary-attention integration. The page already covered choking comprehensively; added explicit connection to voluntary-attention.md explaining that choking involves *willed* attention (not mere stimulus capture), strengthening the bidirectional interaction evidence. Added voluntary-attention to concepts frontmatter and moved to top of Further Reading.
+
+---
 
 ## 2026-01-18
 
