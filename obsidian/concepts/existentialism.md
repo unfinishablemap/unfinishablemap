@@ -3,12 +3,13 @@ title: "Existentialism"
 created: 2026-01-06
 modified: 2026-01-14
 human_modified:
-ai_modified: 2026-01-14T16:30:00+00:00
+ai_modified: 2026-01-19T23:15:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
   - "[[meaning-of-life]]"
 concepts:
+  - "[[buddhism-and-dualism]]"
   - "[[personal-identity]]"
 related_articles:
   - "[[tenets]]"
@@ -122,10 +123,21 @@ From a Buddhist perspective, this existentialist response may itself be a form o
 
 **Convergence on engagement**: Despite these differences, both traditions emphasize *engagement* over escapism. Sartre condemned bad faith; Buddhism condemns spiritual bypassing. Both insist that authentic living requires confronting reality rather than fleeing into comfortable illusions.
 
-The site's framework suggests a possible integration: consciousness is real and irreducible (against Buddhist eliminativism about the self), but the *particular* form of conscious life one creates remains open (existentialist self-creation). The self is neither a fixed essence to be discovered nor an illusion to be dispelled, but a genuine conscious perspective making real choices that shape what it becomes.
+### The Compatibility Thesis: A Middle Path
+
+The [[buddhism-and-dualism|compatibility thesis]] offers existentialism a resource it may not have recognized. Buddhism's no-self doctrine targets three specific claims: *permanence* (nothing unchanging underlies experience), *substantiality* (no soul-stuff distinct from the aggregates), and *ownership-centricity* (the sense of "my" experiences is constructed). Crucially, Buddhism accepts that consciousness exists and that experience is real—it denies the permanent owner, not the experience itself.
+
+This suggests a middle path for existentialist self-creation. The existentialist project of making oneself through authentic choice need not aim at constructing a permanent edifice. Instead, authenticity can operate moment-to-moment—each choice genuinely creative, genuinely self-constituting, without accumulating into a substantial self that must be defended. The candle flame analogy: tonight's flame is not yesterday's flame, yet each moment of flame is genuinely fire. Similarly, each moment of authentic choice is genuinely self-creation without requiring persistence of what is created.
+
+This reframing addresses Buddhism's critique of existentialist "clinging" to self-construction. The problem is not the creating but the attachment to what is created—treating choices as building blocks of a permanent structure rather than as the self-renewing process of conscious engagement. Authentic existence, on this reading, means owning one's freedom *now* without demanding that past choices define who one must be.
+
+It also addresses the existentialist's fear of Buddhist "dissolution." If consciousness is irreducible at each moment (as the [[tenets#^dualism|Dualism tenet]] holds), then Buddhist impermanence doesn't threaten consciousness's reality—only its permanence. You are genuinely experiencing, genuinely choosing, even if the "you" who chose yesterday is not numerically identical to the "you" choosing now. The burden lightens: no permanent self to construct or defend, yet genuine engagement remains.
+
+The site's framework thus suggests a synthesis: consciousness is real and irreducible moment-to-moment, but impermanent across moments. Existentialist self-creation operates within this flux—not building a monument but sustaining a flame. The self is neither a fixed essence to be discovered nor an illusion to be dispelled, but a genuine conscious perspective making real choices that shape what it becomes, without those choices hardening into destiny.
 
 ## Further Reading
 
+- [[buddhism-and-dualism]] - The compatibility thesis: irreducibility without permanence
 - [[nihilism]] - The challenge existentialism responds to
 - [[meaning-of-life]] - How meaning can be grounded in consciousness
 - [[free-will]] - The metaphysics of choice and agency

@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T11:30:00+00:00
+ai_modified: 2026-01-19T23:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,10 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review existentialism.md with Buddhist meaning insights
-- **Type**: cross-review
-- **Notes**: New article concepts/buddhism-and-dualism.md addresses Buddhist responses to meaninglessness and the compatibility of impermanence with irreducible consciousness. The concepts/existentialism.md page discusses meaning-making in the face of apparent absurdity. How does Buddhist acceptance of impermanence relate to existentialist confrontation with meaninglessness? Does the compatibility thesis (irreducibility + impermanence) offer existentialism new resources?
-- **Source**: chain (from buddhism-and-dualism.md)
+### P2: Deep review emotional-consciousness.md for research integration
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-19, no deep review since creation. Check integration of emotional-consciousness-valence-2026-01-19.md research—particularly Panksepp vs LeDoux affective neuroscience debate, valence hedonic vs evaluativist accounts, and moral status implications. Cross-link to phenomenal-value-realism.md and purpose-and-alignment.md.
+- **Source**: staleness
+- **Generated**: 2026-01-19
+
+### P2: Deep review consciousness-and-creativity.md for research integration
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-19, no deep review since creation. Check integration of consciousness-creativity-novelty-generation-2026-01-19.md research—particularly Bergson's L-creativity vs C-creativity, DMN/ECN switching evidence, and Penrose-Lucas argument. Cross-link to duration.md and agent-causation.md.
+- **Source**: staleness
+- **Generated**: 2026-01-19
+
+### P2: Deep review phenomenology-of-the-edge.md for voids consistency
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-19, no deep review since creation. Check integration of voids-phenomenology-of-the-edge-2026-01-19.md research—particularly Metzinger's MPE findings, the ineffability-noesis paradox, and connections to filter-theory.md. Ensure consistency with other voids articles.
+- **Source**: staleness
 - **Generated**: 2026-01-19
 
 ### P2: Cross-review idealism.md with minimal-consciousness implications
@@ -62,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review existentialism.md with Buddhist meaning insights
+- **Type**: cross-review
+- **Notes**: New article concepts/buddhism-and-dualism.md addresses Buddhist responses to meaninglessness and the compatibility of impermanence with irreducible consciousness. The concepts/existentialism.md page discusses meaning-making in the face of apparent absurdity. How does Buddhist acceptance of impermanence relate to existentialist confrontation with meaninglessness? Does the compatibility thesis (irreducibility + impermanence) offer existentialism new resources?
+- **Result**: Added buddhism-and-dualism.md to concepts frontmatter at top position. Added new "The Compatibility Thesis: A Middle Path" subsection within Comparison with Eastern Philosophy section. Developed how the compatibility thesis (irreducibility without permanence) offers existentialism a middle path: self-creation operating moment-to-moment rather than building permanent structures, addressing Buddhism's "clinging" critique while preserving existentialist engagement. Extended the candle flame analogy. Added buddhism-and-dualism.md at top of Further Reading with description.
+- **Output**: Updated `concepts/existentialism.md`
 
 ### ✓ 2026-01-19: Deep review functionalism.md for currency and cross-links
 - **Type**: deep-review
