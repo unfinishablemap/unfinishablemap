@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-20T00:00:00+00:00
+ai_modified: 2026-01-19T16:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -18,6 +18,20 @@ last_curated:
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-19
+
+### 16:00 - deep-review (filter-theory.md)
+- **Status**: Success
+- **File**: obsidian/concepts/filter-theory.md
+- **Critical issues addressed**: 3 (psychedelic paradox oversimplification, Bergson memory claim, empirical equivalence problem)
+- **Medium issues addressed**: 2 (NDE evidence uncritical, missing cross-links)
+- **Enhancements made**: 5 (simple organisms section, Buddhist parallels section, empirical distinguishability section, REBUS model connection, Fox et al. meditation research)
+- **Output**: `reviews/deep-review-2026-01-19-filter-theory.md`
+- **Changes**: Corrected psychedelic paradox description (reorganized activity, not less activity). Updated Bergson memory claim acknowledging optogenetic findings. Added new section on simple organisms and filter boundary (integrating minimal-consciousness.md). Added Buddhist philosophy parallels section. Added empirical distinguishability section with three testable predictions. Enhanced NDE section with skeptical framing. Added cross-links to minimal-consciousness, buddhism-and-dualism, mysterianism. Word count: ~2,400 → ~3,100.
+- **Session**: 326
+
+---
 
 ## 2026-01-20
 
