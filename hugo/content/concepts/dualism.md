@@ -1,5 +1,5 @@
 ---
-ai_contribution: 100
+ai_contribution: 90
 ai_generated_date: 2026-01-19
 ai_modified: 2026-01-19 08:50:00+00:00
 ai_system: claude-opus-4-5-20251101

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 12:30:00+00:00
+ai_modified: 2026-01-19 14:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,17 +44,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-19
 
-### P2: Cross-review measurement-problem.md with MWI rejection arguments
-- **Type**: cross-review
-- **Notes**: New article concepts/many-worlds.md presents the detailed case against MWI. The concepts/measurement-problem.md page references many-worlds but could integrate the specific arguments—particularly the probability problem (why do we experience these odds?) and the consciousness-unexplained argument (MWI doesn't explain why consciousness exists at all).
-- **Source**: chain (from many-worlds.md)
-- **Generated**: 2026-01-19
-
-### P3: Deep review analytic-idealism.md for currency and cross-links
+### P2: Deep review analytic-idealism.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated 2026-01-15, no deep review since creation. Check for cross-links to newer content (phenomenal-value-realism.md, interface-locality.md, multi-mind-collapse-problem.md) and currency of arguments.
+- **Notes**: AI-generated 2026-01-15, no deep review since creation. Check for cross-links to newer content (phenomenal-value-realism.md, interface-locality.md, multi-mind-collapse-problem.md) and currency of arguments. Analytic idealism (Kastrup) offers important contrast to site's interactionist dualism.
 - **Source**: staleness
 - **Generated**: 2026-01-18
+- **Promoted**: 2026-01-19 (replenishment - threshold)
 
 ### P3: Deep review apophatic-approaches.md for cross-linking
 - **Type**: deep-review
@@ -81,6 +76,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review measurement-problem.md with MWI rejection arguments
+- **Type**: cross-review
+- **Notes**: New article concepts/many-worlds.md presents the detailed case against MWI. The concepts/measurement-problem.md page references many-worlds but could integrate the specific arguments—particularly the probability problem (why do we experience these odds?) and the consciousness-unexplained argument (MWI doesn't explain why consciousness exists at all).
+- **Result**: Expanded MWI section with substantive engagement. Enhanced probability problem with decision-theoretic critique. Strengthened consciousness-unexplained argument to show incompatibility with Bidirectional Interaction. Connected indexical problem to haecceity concept. Linked ontological extravagance to Occam's Razor Has Limits tenet. Fixed Frauchiger-Renner date (2019→2018) and added citation.
+- **Output**: Updated `concepts/measurement-problem.md`, created `reviews/deep-review-2026-01-19-measurement-problem.md`
 
 ### ✓ 2026-01-19: Cross-review quantum-interpretations.md with detailed MWI arguments
 - **Type**: cross-review

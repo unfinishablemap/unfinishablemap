@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-18 14:00:00+00:00
+ai_modified: 2026-01-19 14:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[quantum-consciousness]]'
 - '[[decoherence]]'
 - '[[interactionist-dualism]]'
+- '[[haecceity]]'
 - '[[causal-closure]]'
 - '[[mental-causation]]'
 - '[[mental-effort]]'
@@ -19,6 +20,7 @@ date: &id001 2026-01-16
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-19 14:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,11 +78,15 @@ All outcomes occur. The universe branches at every quantum event; all branches a
 
 **Relation to site tenets:** **Directly rejected** by [No Many Worlds](/tenets/#no-many-worlds). See the [dedicated argument page](/arguments/many-worlds/) for five detailed arguments against MWI:
 
-1. **Ontological extravagance**: Mathematical simplicity purchased with metaphysical inflation—more parallel realities than atoms in the observable universe.
-2. **The indexical problem**: Why am I *this* branch and not another? The question seems meaningful yet receives no answer.
-3. **The probability problem**: Many-worlds struggles to derive the Born rule without circular assumptions.
+1. **Ontological extravagance**: Mathematical simplicity purchased with metaphysical inflation—more parallel realities than atoms in the observable universe. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies: a theory positing infinite unobservable universes is not parsimonious in any sense that should compel belief.
+
+2. **The indexical problem**: Why am I *this* branch and not another? The question seems meaningful yet receives no answer. MWI's appeal to "self-locating uncertainty" fails because there's no fact to be uncertain about—both outcomes occur, and "you" end up in both. See [haecceity](/concepts/haecceity/) for why this matters.
+
+3. **The probability problem**: Many-worlds struggles to derive the Born rule without circular assumptions. Decision-theoretic derivations (Deutsch-Wallace) claim rational agents *must* weight outcomes by Born probabilities, but critics argue these axioms are question-begging. If all outcomes occur, what does probability *mean*?
+
 4. **The preferred basis problem**: Branch ontology depends on environment-relative decoherence, reintroducing observer-dependence.
-5. **Consciousness unaddressed**: The hard problem remains; the unity of experience is unexplained by branching.
+
+5. **Consciousness unaddressed**: MWI is fundamentally incompatible with [Bidirectional Interaction](/tenets/#bidirectional-interaction). The site holds that consciousness participates in determining physical outcomes—that mental causation is real. MWI explicitly denies this: consciousness plays no role in the physics; all outcomes occur regardless. The hard problem remains; the unity of experience is unexplained by branching.
 
 Many-worlds dissolves the measurement problem by denying single outcomes rather than explaining them. The site holds that the measurement problem is real and that consciousness is a candidate for what resolves it.
 
@@ -116,7 +122,7 @@ What makes an observer? This remains unresolved.
 
 Wigner's friend thought experiments sharpen the question: Wigner describes his friend in the lab as being in superposition (having-seen-A + having-seen-B). But the friend, inside the lab, perceives a definite result. Who's right?
 
-Recent no-go theorems (Frauchiger-Renner, 2019) place constraints stronger than Bell's theorem. They show that any interpretation must abandon at least one of: single outcomes, observer-independent facts, or standard probability rules.
+Recent no-go theorems (Frauchiger-Renner, 2018) place constraints stronger than Bell's theorem. They show that any interpretation must abandon at least one of: single outcomes, observer-independent facts, or standard probability rules.
 
 Experiments have tested Wigner's friend scenarios using photons as "observers." But as Tim Maudlin noted: "Nobody thinks a photon is an observer." The experiments demonstrate quantum mechanics works as predicted; they don't settle whether consciousness is relevant to collapse.
 
@@ -187,6 +193,7 @@ The measurement problem directly supports the site's framework:
 ## References
 
 - Bell, J.S. (1990). "Against 'Measurement'." *Physics World*.
+- Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*.
 - Ghirardi, G.C., Rimini, A., Weber, T. (1986). "Unified dynamics for microscopic and macroscopic systems." *Physical Review D*.
 - Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
 - Stanford Encyclopedia of Philosophy. "Philosophical Issues in Quantum Theory." https://plato.stanford.edu/entries/qt-issues/
