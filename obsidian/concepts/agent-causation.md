@@ -3,7 +3,7 @@ title: "Agent Causation"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-19T00:30:00+00:00
+ai_modified: 2026-01-19T14:15:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -16,6 +16,8 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[luck-objection]]"
   - "[[motor-selection]]"
+  - "[[consciousness-and-creativity]]"
+  - "[[duration]]"
 related_articles:
   - "[[tenets]]"
   - "[[agent-causation-libertarian-free-will-2026-01-14]]"
@@ -225,6 +227,37 @@ The voluntary attention and motor selection literature provides something agent-
 
 This doesn't reduce consciousness to neural activity—the hard problem remains. But it shows how agent causation integrates with rather than floats above neuroscience. The agent acts *through* attention networks, leaving distinctive signatures of genuine decision-making.
 
+## Creative Generation: Beyond Pure Selection
+
+Agent causation as traditionally conceived focuses on selection: the agent chooses among options. But recent work on [[consciousness-and-creativity|consciousness and creativity]] reveals a deeper contribution—agents don't merely select from pre-existing menus but actively generate the options themselves.
+
+### The Generation-Selection Synthesis
+
+The creativity literature (Bergson, Boden, contemporary neuroscience) identifies two modes of conscious contribution:
+
+1. **Generation**: Imagination explores possibility space, constituting options that didn't exist before the exploration
+2. **Selection**: Attention actualizes specific possibilities from what imagination generated
+
+These aren't sequential but interweaving aspects of a single creative process. Each imaginative move shapes what further possibilities become available; attending to one option opens some paths and closes others. The agent generates *through* the act of exploring and selecting.
+
+This synthesis strengthens agent causation. Critics ask: "What about the agent explains why they caused A rather than B?" If agents only select from externally provided options, the question bites hard—nothing about the selector explains which option was selected.
+
+But if agents generate the options through imaginative exploration, the answer changes. The agent explains the outcome because the agent constituted the very options that were available. The "menu" wasn't pre-set by physics or brain processes alone—consciousness's imaginative engagement shaped what was on the menu.
+
+### L-Creativity and Sourcehood
+
+Carl Hausman's concept of *L-creativity* (libertarian creativity) requires "metaphysical novelty"—what genuinely didn't exist before, not merely what the creator hadn't considered. This maps directly onto the sourcehood requirement for free will. An agent is source of their action in the robust sense if they produce something that wasn't inevitable from prior conditions.
+
+The quantum framework provides the opening. At indeterminacies, physics doesn't determine outcomes—multiple possibilities are genuinely real until selection occurs. When consciousness engages imaginatively with these possibilities, it doesn't passively receive them but actively explores, expanding which possibilities become concrete enough to select among.
+
+### Where Creative Sourcehood Operates
+
+Bergson's insight illuminates the mechanism: lived [[duration]] is "invention or it is nothing at all." Each moment of conscious experience brings genuine novelty through memory's progressive integration with the present. The options available now differ from those available a moment ago because the agent's conscious engagement continuously reshapes possibility space.
+
+This gives agent causation temporal depth. The agent isn't source just at the moment of choice but throughout the creative process that makes choice meaningful. Training skills, developing character, engaging with problems—all these shape what options become available for selection. The 300ms deployment window for willed attention isn't when agency begins; it's when agency culminates in specific actualization.
+
+Margaret Boden's "transformational creativity"—producing what was "downright impossible" within the previous framework—provides the clearest case. You cannot select a rule-change from within the old rule-system; the agent must both generate the new rules and recognize their value. This is agent causation in its strongest form: the agent as source of the very framework within which selection occurs.
+
 ## Relation to Site Perspective
 
 Agent causation is the philosophical tradition to which this site belongs. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—that consciousness causally influences the physical world—is a claim of agent causation: the conscious subject, as substance, causes physical events.
@@ -237,10 +270,12 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 
 ## Further Reading
 
+- [[consciousness-and-creativity]] — How agents generate possibilities, not just select among them
 - [[free-will]] — The broader free will question and this site's position
 - [[interactionist-dualism]] — How mind and body interact
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interface
 - [[mental-effort]] — The phenomenology supporting agent causation
+- [[duration]] — Bergson's creative time as the medium of genuine novelty
 - [[retrocausality]] — How atemporal selection deepens sourcehood
 - [[implicit-memory]] — Skill delegation, choking phenomenon, and evidence for causal efficacy
 - [[attention-as-interface]] — How attention may be consciousness's causal pathway
@@ -251,10 +286,13 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 
 ## References
 
+- Bergson, H. (1907). *Creative Evolution*. (L'Évolution créatrice)
+- Boden, M. (1990). *The Creative Mind: Myths and Mechanisms*. Basic Books.
 - Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas.
 - Clarke, R. (2003). *Libertarian Accounts of Free Will*. Oxford University Press.
 - Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
 - Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
+- Hausman, C.R. (1984). *A Discourse on Novelty and Creation*. SUNY Press.
 - Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 - Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
 - O'Connor, T. (2000). *Persons and Causes*. Oxford University Press.
