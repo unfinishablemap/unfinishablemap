@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-16 12:30:00+00:00
+ai_modified: 2026-01-19 02:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[qualia]]'
 - '[[haecceity]]'
 - '[[consciousness-selecting-neural-patterns]]'
+- '[[phenomenal-unity]]'
 created: 2026-01-14
 date: &id001 2026-01-16
 draft: false
@@ -49,6 +50,18 @@ In one patient, researchers found the brain had reorganized itself in the years 
 The 2017 research from the University of Amsterdam adds another layer: split-brain patients could report having seen shapes presented to either visual field, both verbally and by pointing with either hand. A 2020 review summarizes: "perception appears to be more split, while responding remains largely unified."
 
 This has led to a "layered unity" model: split-brain cases show divided perception at local levels but preserved unity at higher, global levels of consciousness. Consciousness, it seems, has its own resilience—it resists fragmentation even when the brain is divided.
+
+## Three Dimensions of Unity
+
+[Phenomenal unity](/concepts/phenomenal-unity/) has three conceptually separable dimensions, and split-brain cases challenge each differently:
+
+**Synchronic unity**—at any moment, all experiences belong to one consciousness—is what the classic experiments most directly challenge. When conflicting images are shown to each visual field, each hemisphere processes its own view. The patient seems to have two simultaneous visual experiences that don't belong together. Yet even here, the evidence is mixed: the 2017 findings show patients can report seeing shapes presented to either field, suggesting synchronic unity may be more resilient than pure perceptual division implies.
+
+**Diachronic unity**—the continuity of experience through time—appears largely preserved. Split-brain patients maintain continuous autobiographical memory and identity. They don't report the temporal fragmentation that would occur if each moment were experienced by a different subject. The hemispheres share a continuous past and seem to experience a continuous present, even if that present contains perceptual divisions.
+
+**Subject unity**—that all experiences are had by a single subject—is the most contested dimension. This is Nagel's territory: are there one or two subjects? The indeterminacy he identifies may reflect that subject unity doesn't admit of degrees in the way our concepts assume. A subject either exists or doesn't—but split-brain cases suggest subjects can overlap, partially divide, or exhibit unity that doesn't map to simple counting.
+
+The three-dimensional framework helps explain why the evidence seems contradictory. Split-brain cases don't uniformly divide or preserve unity—they stress-test different dimensions differently. Synchronic unity fractures partially, diachronic unity persists, and subject unity becomes indeterminate. This selective disruption is itself evidence that phenomenal unity is genuinely multi-dimensional rather than a single property that either holds or fails.
 
 ## Nagel's Indeterminacy Thesis
 
@@ -149,6 +162,7 @@ This is not a failure to find an answer. It may be a clue to what consciousness 
 ## Further Reading
 
 ### Site Content
+- [phenomenal-unity](/concepts/phenomenal-unity/) — The three dimensions of experiential unity that split-brain cases stress-test
 - [binding-problem](/concepts/binding-problem/) — How distributed processes combine into unified experience
 - [personal-identity](/topics/personal-identity/) — What makes you *you* across time
 - [haecceity](/concepts/haecceity/) — The "thisness" that individuates subjects

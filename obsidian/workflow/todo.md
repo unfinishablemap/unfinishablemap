@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T12:00:00+00:00
+ai_modified: 2026-01-19T02:55:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review split-brain-consciousness.md considering phenomenal-unity insights
-- **Type**: cross-review
-- **Notes**: New article concepts/phenomenal-unity.md distinguishes synchronic, diachronic, and subject unity dimensions. The split-brain-consciousness.md topic discusses unity resilience but could integrate the phenomenal-unity framework—particularly how split-brain cases challenge or preserve each dimension of unity.
-- **Source**: chain (from phenomenal-unity.md)
-- **Generated**: 2026-01-19
-
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -75,6 +69,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Promoted**: 2026-01-19 (replenishment - queue had only 2 P0-P2 tasks)
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review split-brain-consciousness.md considering phenomenal-unity insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenal-unity.md distinguishes synchronic, diachronic, and subject unity dimensions. The split-brain-consciousness.md topic discusses unity resilience but could integrate the phenomenal-unity framework—particularly how split-brain cases challenge or preserve each dimension of unity.
+- **Result**: Added phenomenal-unity to concepts frontmatter. Added new "Three Dimensions of Unity" section explaining how split-brain cases challenge synchronic unity (perceptual division), preserve diachronic unity (continuous identity), and leave subject unity indeterminate (Nagel's puzzle). Added phenomenal-unity to Further Reading. The three-dimensional framework helps explain why split-brain evidence seems contradictory.
+- **Output**: Updated `topics/split-brain-consciousness.md`
 
 ### ✓ 2026-01-19: Write voids article on phenomenology of the edge
 - **Type**: expand-topic
