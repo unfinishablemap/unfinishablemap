@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 12:00:00+00:00
+ai_modified: 2026-01-19 12:14:07+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Deep review filter-theory.md for comprehensive analysis
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-15, no deep review since creation. Recently cross-reviewed with altered-states evidence (2026-01-19) but needs comprehensive review for research integration, argument structure, and cross-links to newer content (minimal-consciousness.md, buddhism-and-dualism.md).
+- **Source**: staleness
+- **Generated**: 2026-01-19
+
 ### P2: Deep review reductionism.md for research integration
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-19, no deep review since creation. Check integration of reductionism-consciousness-philosophy-2026-01-19.md research—particularly the Nagel/Chalmers explanatory reduction distinction, Kim's multiple realizability response, and the scientific success vs consciousness failure asymmetry. Cross-link to emergence.md and minimal-consciousness.md.
 - **Source**: staleness
 - **Generated**: 2026-01-19
 
-### P2: Cross-review filter-theory.md with altered-states evidence
+### P2: Cross-review phenomenology.md with Buddhist contemplative insights
 - **Type**: cross-review
-- **Notes**: The concepts/altered-states-of-consciousness.md page extensively applies filter theory to psychedelics, anesthesia, and meditation. The concepts/filter-theory.md page should reference these specific applications—particularly the propofol/ketamine divergence evidence and Huxley's "reducing valve" metaphor as empirical support.
-- **Source**: chain (from altered-states-of-consciousness.md)
+- **Notes**: New article concepts/buddhism-and-dualism.md presents Buddhist contemplative practice as "phenomenological method in practice, predating Husserl by over two millennia." The concepts/phenomenology.md page should acknowledge this Eastern precedent and connect to meditation research (Fox et al. 2012 on skilled observers). This bridges the Western phenomenological tradition with Buddhist first-person methods.
+- **Source**: chain (from buddhism-and-dualism.md)
 - **Generated**: 2026-01-19
 
 ### P3: Deep review analytic-idealism.md for currency and cross-links
@@ -81,6 +87,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Write concept page for many-worlds interpretation
+- **Type**: expand-topic
+- **Notes**: Critical gap: 26 wikilinks reference [many-worlds](/arguments/many-worlds/) but no page exists. Directly supports No Many Worlds tenet. Multiple articles (measurement-problem.md, haecceity.md, quantum-interpretations.md) refer to "dedicated argument page against MWI." Should present 5 detailed arguments against MWI explaining why single outcomes matter for consciousness and personal identity.
+- **Result**: Created ~2000 word concept page presenting five arguments against MWI (ontological extravagance, indexical identity problem, probability problem, preferred basis problem, consciousness unexplained). Engaged MWI defenders (Deutsch, Carroll, Wallace). Connected to No Many Worlds tenet and site framework.
+- **Output**: Created `concepts/many-worlds.md`
+
+### ✓ 2026-01-19: Cross-review filter-theory.md with altered-states evidence
+- **Type**: cross-review
+- **Notes**: The concepts/altered-states-of-consciousness.md page extensively applies filter theory to psychedelics, anesthesia, and meditation. The concepts/filter-theory.md page should reference these specific applications—particularly the propofol/ketamine divergence evidence and Huxley's "reducing valve" metaphor as empirical support.
+- **Result**: Added three new evidence sections: The Anesthetic Divergence (propofol vs ketamine producing different experiences despite similar behavioral suppression), Received But Not Perceived (Mashour & Bharioke 2024 on signals reaching brain but not manifesting in consciousness), and Meditative Cessation (voluntary withdrawal as evidence for consciousness using rather than emerging from brain). Updated frontmatter with altered-states-of-consciousness and meditation-and-consciousness-modes at top of concepts. Added Mashour et al. (2024) references.
+- **Output**: Updated `concepts/filter-theory.md`
 
 ### ✓ 2026-01-19: Deep review buddhism-and-dualism.md for research integration
 - **Type**: deep-review

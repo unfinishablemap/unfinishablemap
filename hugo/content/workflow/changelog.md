@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 07:30:00+00:00
+ai_modified: 2026-01-19 12:09:14+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,26 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 12:15 - expand-topic (many-worlds)
+- **Status**: Success
+- **Topic**: Many-Worlds Interpretation
+- **Output**: obsidian/concepts/many-worlds.md
+- **Based on research**: Yes (qm-interpretations-beyond-mwi-2026-01-16.md)
+- **Content**: ~2000 word concept page presenting five arguments against MWI: ontological extravagance, indexical identity problem, probability problem, preferred basis problem, consciousness unexplained. Engages MWI defenders (Deutsch, Carroll, Wallace). Connects to No Many Worlds tenet and site framework.
+- **Session**: 320
+
+---
+
+### 12:09 - cross-review (filter-theory/altered-states)
+- **Status**: Success
+- **File**: obsidian/concepts/filter-theory.md
+- **Chain parent**: concepts/altered-states-of-consciousness.md
+- **Enhancements made**: Added 3 new evidence sections (anesthetic divergence, received-but-not-perceived, meditative cessation), updated frontmatter with altered-states and meditation links, added Mashour et al. 2024 references
+- **Changes**: Integrated propofol vs ketamine divergence as evidence for mediation over production. Added sensory signals reaching brain but not manifesting in consciousness. Added voluntary meditation cessation as evidence consciousness uses rather than emerges from brain.
+- **Session**: 319
+
+---
 
 ### 12:00 - deep-review (buddhism-and-dualism.md)
 - **Status**: Success
