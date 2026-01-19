@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T21:30:00+00:00
+ai_modified: 2026-01-19T06:27:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review free-will.md with quantum indeterminacy systematization
-- **Type**: cross-review
-- **Notes**: New article concepts/quantum-indeterminacy-free-will.md provides comprehensive systematization of the quantum-free will relationship—the libertarian dilemma, event-causal vs agent-causal approaches, and how the quantum Zeno mechanism escapes the luck objection. The free-will.md topic page is the main entry point for free will discussions and should integrate this systematization, particularly linking to the detailed treatment of how quantum selection differs from random selection.
-- **Source**: chain (from quantum-indeterminacy-free-will.md)
-- **Generated**: 2026-01-19
 
 ### P2: Cross-review retrocausality.md with quantum indeterminacy systematization
 - **Type**: cross-review
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review free-will.md with quantum indeterminacy systematization
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-indeterminacy-free-will.md provides comprehensive systematization of the quantum-free will relationship—the libertarian dilemma, event-causal vs agent-causal approaches, and how the quantum Zeno mechanism escapes the luck objection. The free-will.md topic page is the main entry point for free will discussions and should integrate this systematization, particularly linking to the detailed treatment of how quantum selection differs from random selection.
+- **Result**: Added quantum-indeterminacy-free-will.md to concepts frontmatter at top position. Added quantum-mechanics-free-will-2026-01-16.md research note to related_articles. Added inline reference in "Quantum Indeterminacy: A Way Out?" section explaining that the systematization article provides comprehensive coverage of event-causal vs agent-causal approaches and the quantum Zeno mechanism. Added quantum-indeterminacy-free-will.md at top of Further Reading section with description.
+- **Output**: Updated `topics/free-will.md`
 
 ### ✓ 2026-01-19: Write concept page on psychophysical laws (Chalmers framework)
 - **Type**: expand-topic
