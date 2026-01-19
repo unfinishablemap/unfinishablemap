@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 05:50:00+00:00
+ai_modified: 2026-01-19 06:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review moral-responsibility.md with quantum indeterminacy systematization
-- **Type**: cross-review
-- **Notes**: New article concepts/quantum-indeterminacy-free-will.md provides systematic treatment of how quantum indeterminacy supports libertarian free will, addressing the luck objection and distinguishing agent-causal from event-causal approaches. The moral-responsibility.md concept page discusses how desert requires genuine authorship—integrating the quantum indeterminacy framework could strengthen the case that moral responsibility is metaphysically grounded, not merely pragmatic. Add cross-link.
-- **Source**: chain (from quantum-indeterminacy-free-will.md)
-- **Generated**: 2026-01-20
 
 ### P2: Cross-review agent-causation.md with quantum indeterminacy systematization
 - **Type**: cross-review
@@ -93,6 +87,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review binding-problem.md and phenomenal-unity.md with 2025 quantum entanglement evidence
+- **Type**: cross-review
+- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md contains significant 2024-2025 experimental evidence: (1) Wiest epothilone study—microtubule stabilizer delays anesthesia by 69 seconds (Cohen's d=1.9); (2) Kerskens-Pérez MRI entanglement signatures correlating with consciousness; (3) Tegmark decoherence estimates revised by 7 orders of magnitude. Update binding-problem.md and phenomenal-unity.md with this experimental support for quantum approaches. Strengthens Minimal Quantum Interaction tenet.
+- **Result**: Updated both binding-problem.md and phenomenal-unity.md with detailed 2024-2025 experimental evidence section. Key additions: (1) Wiest et al. 2024 epothilone-B study with effect sizes; (2) Kerskens-Pérez MRI entanglement signatures and consciousness correlation; (3) Detailed Tegmark decoherence revision (7 orders of magnitude); (4) 2025 twin study showing 13.5% variance in learning from qubit entanglement. Added research note to related_articles and expanded references in both files.
+- **Output**: Updated `concepts/binding-problem.md`, `concepts/phenomenal-unity.md`
+
+### ✓ 2026-01-19: Cross-review moral-responsibility.md with quantum indeterminacy systematization
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-indeterminacy-free-will.md provides systematic treatment of how quantum indeterminacy supports libertarian free will, addressing the luck objection and distinguishing agent-causal from event-causal approaches. The moral-responsibility.md concept page discusses how desert requires genuine authorship—integrating the quantum indeterminacy framework could strengthen the case that moral responsibility is metaphysically grounded, not merely pragmatic. Add cross-link.
+- **Result**: Added quantum-indeterminacy-free-will.md to concepts frontmatter. Added new "The Quantum Zeno Mechanism and Genuine Control" section explaining how the quantum Zeno mechanism grounds the control requirement for moral responsibility. Key points: selection vs randomness, phenomenology of effort tracks causation (William James quote), two-domain evidence, Kane's 2024 convergence with agent-causal positions. Added quantum-indeterminacy-free-will.md to top of Further Reading.
+- **Output**: Updated `concepts/moral-responsibility.md`
 
 ### ✓ 2026-01-19: Research neural binding mechanisms for quantum entanglement hypothesis
 - **Type**: research-topic

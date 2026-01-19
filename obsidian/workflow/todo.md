@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T05:56:00+00:00
+ai_modified: 2026-01-19T06:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -86,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review binding-problem.md and phenomenal-unity.md with 2025 quantum entanglement evidence
+- **Type**: cross-review
+- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md contains significant 2024-2025 experimental evidence: (1) Wiest epothilone study—microtubule stabilizer delays anesthesia by 69 seconds (Cohen's d=1.9); (2) Kerskens-Pérez MRI entanglement signatures correlating with consciousness; (3) Tegmark decoherence estimates revised by 7 orders of magnitude. Update binding-problem.md and phenomenal-unity.md with this experimental support for quantum approaches. Strengthens Minimal Quantum Interaction tenet.
+- **Result**: Updated both binding-problem.md and phenomenal-unity.md with detailed 2024-2025 experimental evidence section. Key additions: (1) Wiest et al. 2024 epothilone-B study with effect sizes; (2) Kerskens-Pérez MRI entanglement signatures and consciousness correlation; (3) Detailed Tegmark decoherence revision (7 orders of magnitude); (4) 2025 twin study showing 13.5% variance in learning from qubit entanglement. Added research note to related_articles and expanded references in both files.
+- **Output**: Updated `concepts/binding-problem.md`, `concepts/phenomenal-unity.md`
 
 ### ✓ 2026-01-19: Cross-review moral-responsibility.md with quantum indeterminacy systematization
 - **Type**: cross-review
