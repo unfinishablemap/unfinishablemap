@@ -3,7 +3,7 @@ title: "Materialism"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-19T04:50:00+00:00
+ai_modified: 2026-01-19T20:40:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[illusionism]]"
   - "[[knowledge-argument]]"
   - "[[arguments-for-dualism]]"
+  - "[[arguments-against-materialism]]"
   - "[[analytic-idealism]]"
 related_articles:
   - "[[tenets]]"
@@ -87,6 +88,8 @@ The site's response targets premise 1. The [[tenets#^minimal-quantum-interaction
 ## Why Materialism Fails
 
 Several lines of argument suggest materialism cannot accommodate consciousness. These are not merely objections to materialism; they constitute [[arguments-for-dualism|positive arguments for dualism]] that converge on the same conclusion from independent directions. [[Dualism]]—the view that consciousness is ontologically distinct from matter—gains support precisely where materialism fails. The 2020 PhilPapers survey found 22% of philosophers accept or lean toward dualism—the second most popular position after materialism itself.
+
+For a comprehensive treatment of these arguments, including Kripke's modal argument, Nagel's subjectivity argument, and the convergence argument showing how independent lines of reasoning reinforce each other, see [[arguments-against-materialism]].
 
 ### The Explanatory Gap
 
@@ -164,6 +167,7 @@ Materialism remains the consensus position in academic philosophy. The site hold
 
 ## Further Reading
 
+- [[arguments-against-materialism]] — Seven converging arguments against physicalism with the convergence argument
 - [[dualism]] — What dualism claims and its main varieties (foundational overview)
 - [[arguments-for-dualism]] — The positive case for dualism (conceivability, knowledge, qualia, unity, intentionality, modal arguments)
 - [[knowledge-argument]] — The knowledge argument (Mary's Room) in detail

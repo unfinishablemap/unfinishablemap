@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T20:40:00+00:00
+ai_modified: 2026-01-19T20:39:17+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Cross-review explanatory-gap.md with arguments-against-materialism synthesis
+- **Type**: cross-review
+- **Notes**: New article concepts/arguments-against-materialism.md presents explanatory gap as first of seven converging arguments. The concepts/explanatory-gap.md page is a detailed treatment that should link to the synthesis page. Check that Levine's epistemic vs Chalmers' ontological reading is consistently handled across both pages.
+- **Source**: chain (from arguments-against-materialism.md)
+- **Generated**: 2026-01-19
+
+### P2: Write article on split-brain implications for consciousness unity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/split-brain-consciousness-unity-2026-01-14.md. Covers Sperry/Gazzaniga findings, Parfit's implications, and competing interpretations (partial unity vs two minds). Related topic page topics/split-brain-consciousness.md exists but may benefit from dedicated concept page on unity implications. Supports phenomenal-unity.md and challenges/supports dualist positions.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
 ### P2: Cross-review voluntary-attention.md with attention-as-interface expansion
 - **Type**: cross-review
 - **Notes**: The expanded concepts/attention-as-interface.md now covers willed vs automatic signatures and other candidate interfaces. The concepts/voluntary-attention.md page addresses endogenous attention control. Should integrate the "willed attention signature" discussion and reference interface-locality constraints.
@@ -68,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review materialism.md with arguments-against-materialism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/arguments-against-materialism.md consolidates seven major arguments against materialism. The concepts/materialism.md page should reference this comprehensive treatment—particularly the convergence argument (multiple independent lines of reasoning pointing to the same conclusion). Check for cross-links and ensure fair representation of materialist responses.
+- **Result**: Added arguments-against-materialism to concepts frontmatter. Added reference to the comprehensive synthesis page in "Why Materialism Fails" section, noting seven converging arguments including Kripke's modal and Nagel's subjectivity. Added as first item in Further Reading section.
+- **Output**: Updated `concepts/materialism.md`
 
 ### ✓ 2026-01-19: Enhance intuitive-dualism.md with cognitive science research
 - **Type**: deep-review
