@@ -3,13 +3,14 @@ title: "Interactionist Dualism"
 created: 2026-01-14
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-19T06:45:00+00:00
+ai_modified: 2026-01-19T09:15:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
 concepts:
   - "[[psychophysical-laws]]"
+  - "[[evolution-of-consciousness]]"
   - "[[dualism]]"
   - "[[epiphenomenalism]]"
   - "[[quantum-consciousness]]"
@@ -29,6 +30,8 @@ concepts:
   - "[[interface-locality]]"
   - "[[prebiotic-collapse]]"
   - "[[objections-to-interactionism]]"
+  - "[[quantum-indeterminacy-free-will]]"
+  - "[[attention-as-interface]]"
 related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism-2026-01-06]]"
@@ -39,7 +42,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-19T09:15:38+00:00
 coalesced_from:
   - "/arguments/interactionist-dualism/"
 ---
@@ -92,9 +95,11 @@ This is Joseph Levine's [[explanatory-gap]], strengthened by David Chalmers into
 
 ### Argument 2: Conceivability and Zombies
 
-We can coherently conceive of beings physically identical to us but lacking all conscious experience ([[philosophical-zombies]]). Unlike scientific identities (water = H2O), phenomenal concepts give us direct access to their referents. We don't merely describe consciousness from outside—we instantiate it. When we conceive of zombies, we positively grasp a scenario where all physical facts obtain and phenomenal facts do not.
+We can coherently conceive of beings physically identical to us but lacking all conscious experience ([[philosophical-zombies]]). Phenomenal concepts differ fundamentally from theoretical concepts: we don't merely describe consciousness from outside—we instantiate it. This gives us direct epistemic access to what consciousness *is*, not just what it does.
 
-If zombies are conceivable, they are metaphysically possible. If they are possible, consciousness is not necessitated by physical facts. Consciousness is something over and above the physical.
+The conceivability-possibility inference requires care. Dennett objects that we may be confusing "conceiving of zombies" with merely *supposing* zombies exist without genuinely grasping what this would involve. The response: when we conceive of pain, we grasp something intrinsic—the painfulness itself. We can then coherently subtract this from a physical duplicate. The subtraction is not mere verbal supposition but conceptual grasp of absence. If this weren't possible, we couldn't understand what we mean by "phenomenal consciousness" in the first place.
+
+If zombies are genuinely conceivable, they are metaphysically possible. If they are possible, consciousness is not necessitated by physical facts. Consciousness is something over and above the physical.
 
 ### Argument 3: The Knowledge Argument
 
@@ -214,10 +219,10 @@ Both proposals share what this site requires: consciousness biasing otherwise in
 Critics argue that quantum effects in the brain decohere far too fast to matter. Max Tegmark calculated decoherence times of around 10^-13 seconds—far shorter than the timescales relevant to thought or behavior. The brain is too warm, wet, and noisy for quantum coherence.
 
 Responses vary:
-- **Stapp**: The Zeno effect doesn't require long coherence times; rapid observation maintains states despite decoherence pressure
-- **Penrose-Hameroff**: Microtubule structure may protect coherence; recent experiments find unexpectedly long coherence times in biological systems
-- **General**: Decoherence calculations assume specific conditions; biological systems may exploit features that extend coherence
-- **Crucially**: Decoherence explains *basis selection*—why we see definite states rather than superpositions—but doesn't explain why *this particular* outcome occurs rather than another. Consciousness could bias outcomes at the point of measurement even after decoherence has occurred.
+- **Stapp**: The Zeno effect doesn't require long coherence times; rapid observation maintains states despite decoherence pressure. The [[attention-as-interface|attention as interface hypothesis]] develops this—attention's rapid "sampling" of neural states may constitute the Zeno-style observation that holds patterns.
+- **Penrose-Hameroff**: Microtubule structure may protect coherence; recent experiments find unexpectedly long coherence times in biological systems. Hameroff's group challenged Tegmark's model parameters, yielding corrected estimates seven orders of magnitude longer.
+- **General**: Decoherence calculations assume isolated systems and specific environmental coupling. Biological systems may exploit noise-assisted quantum effects, as demonstrated in photosynthetic energy transfer.
+- **Crucially**: Decoherence explains *basis selection*—why we see definite states rather than superpositions—but doesn't explain why *this particular* outcome occurs rather than another. As the [[decoherence]] page details, "the system still remains in a mixture of possible outcomes." Consciousness could bias which outcome actualizes even after decoherence has eliminated superposition.
 
 This remains an active empirical question. The site takes no position on which quantum mechanism is correct, only that *some* such interface exists.
 
@@ -231,7 +236,9 @@ Roderick Chisholm distinguished *transeunt* causation (event→event) from *imma
 
 E.J. Lowe argued that all causation is fundamentally substance causation—agents exercising causal powers. This reframes the causal closure objection: physics describes regularities in what substances do; it doesn't prove substances are exclusively physical.
 
-The quantum Zeno mechanism illustrates agent causation in action. When attention holds neural patterns in place through rapid observation, it's not that "observation events" cause "pattern maintenance events"—it's that the conscious subject, through sustained attention, exercises causal power over brain states. The phenomenology of [[mental-effort|mental effort]] confirms this: directing attention feels like *doing* something, not like observing events that happen to correlate with effort.
+The quantum Zeno mechanism illustrates agent causation in action. When attention holds neural patterns in place through rapid observation, it's not that "observation events" cause "pattern maintenance events"—it's that the conscious subject, through sustained attention, exercises causal power over brain states. The [[attention-as-interface|attention as interface hypothesis]] develops this connection: attention serves as the specific mechanism through which the agent exercises causal influence. The phenomenology of [[mental-effort|mental effort]] confirms this: directing attention feels like *doing* something, not like observing events that happen to correlate with effort.
+
+This agent-causal framework connects to [[quantum-indeterminacy-free-will|quantum indeterminacy and free will]]: the same quantum openings that permit consciousness to influence brain states also provide the metaphysical room for libertarian freedom. The agent doesn't randomly select among options—the agent *chooses*, exercising irreducible causal power at quantum underdetermination points.
 
 ## Emergence and the Mechanism Classical Emergentism Lacked
 
@@ -265,6 +272,7 @@ For comprehensive treatment of objections, see [[objections-to-interactionism]].
 | **Parsimony**: Dualism posits two kinds of stuff when one might suffice | A theory that explains nothing is not parsimonious; materialism explains mechanisms but not experience |
 | **Evolutionary argument**: Why does phenomenal valence track fitness? | This *supports* interactionism—consciousness must cause to be selected |
 | **Decoherence**: Quantum coherence in brains decoheres too fast | Decoherence doesn't solve the measurement problem—consciousness may bias outcomes even after decoherence |
+| **Eliminativism**: "Consciousness" may be a folk concept that fails to carve nature at the joints | The concept refers to something we know more directly than any other fact—what it is like to experience. Eliminativism about *that* is incoherent. |
 
 ## Relation to This Site's Perspective
 
@@ -279,9 +287,15 @@ This framework avoids the main objections to classical interactionism:
 
 ### Empirical Compatibility
 
-Crucially, interactionism predicts exactly the findings of [[neural-correlates-of-consciousness|neural correlates of consciousness (NCC)]] research. If consciousness causally interacts with the brain, we would expect tight correlations between mental states and brain states—and that's what NCC research discovers. The 2025 COGITATE experiment identified the posterior cortical hot zone as the primary locus of conscious content; interactionism interprets this as the likely interface region where consciousness reads and writes physical information.
+Crucially, interactionism predicts exactly the findings of [[neural-correlates-of-consciousness|neural correlates of consciousness (NCC)]] research. If consciousness causally interacts with the brain, we would expect tight correlations between mental states and brain states—and that's what NCC research discovers. The COGITATE experiment (Cogitate Consortium, 2023), designed as a theory-neutral test of competing consciousness theories, identified the posterior cortical hot zone as a primary locus of conscious content; interactionism interprets this as one likely interface region where consciousness reads and writes physical information.
 
 NCC findings don't favour materialism over interactionism. Both predict the correlations; only interactionism explains why those correlations involve something it's like to have the corresponding experiences.
+
+### Evolutionary Compatibility
+
+The [[evolution-of-consciousness|evolution of consciousness]] poses no special problem for interactionism. If mind is irreducible to matter, its evolutionary history doesn't require explaining how matter *produced* mind. Rather, what evolved was the neural architecture that allows consciousness to *interface* with physical processes.
+
+This resolves a puzzle for materialist accounts: how can natural selection favour phenomenal experience if consciousness is causally inert? The site's answer: consciousness *does* affect physical outcomes (Bidirectional Interaction tenet), so selection can act on it directly. The felt quality of pain motivates avoidance behaviour; the felt quality of pleasure motivates approach. These aren't just functional correlates—they're causal participants in evolutionary fitness.
 
 The [[epiphenomenalism|self-stultification argument]] provides positive motivation: if we can accurately report our experiences, consciousness must cause those reports. This requires mental→physical causation, which interactionism provides and epiphenomenalism denies.
 
@@ -296,9 +310,12 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 ## Further Reading
 
 - [[psychophysical-laws]] — Chalmers' framework for fundamental psychophysical laws and where the site diverges
+- [[evolution-of-consciousness]] — How consciousness evolved and why dualism handles evolutionary emergence better than materialism
 - [[dualism]] — Foundational overview of dualism: varieties, arguments, and relation to site tenets
 - [[objections-to-interactionism]] — Comprehensive treatment of five major objections and responses
 - [[arguments-for-dualism]] — Comprehensive treatment of arguments supporting dualism
+- [[quantum-indeterminacy-free-will]] — How quantum openings support libertarian freedom
+- [[attention-as-interface]] — The hypothesis that attention mediates consciousness's causal influence
 - [[emergence]] — The site's position as strong emergentism with mechanism
 - [[mental-causation]] — The philosophical problem interactionism addresses
 - [[agent-causation]] — The metaphysical framework for how substances exercise causal powers
@@ -322,6 +339,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 - Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies*, 154: 349-360.
 - Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+- Cogitate Consortium. (2023). "An adversarial collaboration to critically evaluate theories of consciousness." *Nature Human Behaviour*, 7, 1935-1949.
 - Descartes, R. (1641). *Meditations on First Philosophy*.
 - Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78.
 - Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
