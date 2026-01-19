@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T14:00:00+00:00
+ai_modified: 2026-01-19T04:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write concept page on emergentism
-- **Type**: expand-topic
-- **Notes**: Referenced 5 times (causal-closure.md, downward-causation.md, emergence.md, etc.) but no dedicated page. Key alternative to both strict physicalism and dualism. Should explain strong vs weak emergence, non-reductive physicalism, and why emergentism doesn't solve the hard problem (it labels rather than explains).
-- **Source**: gap_analysis
-- **Generated**: 2026-01-19
-
-### P2: Cross-review eastern-philosophy-consciousness.md with witness-consciousness expansion
-- **Type**: cross-review
-- **Notes**: The witness-consciousness.md expansion added substantial new content on decentering, Metzinger's MPE, and vipassana neural correlates. Eastern-philosophy-consciousness.md covers Buddhist and Hindu approaches and may benefit from integrating these findings—particularly the distinction between phenomenal witness structure and metaphysical claims about eternal self.
-- **Source**: chain (from witness-consciousness.md)
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review functionalism.md with substrate-independence-critique insights
 - **Type**: cross-review
 - **Notes**: New article concepts/substrate-independence-critique.md presents systematic case against substrate independence: absent qualia, temporal structure, quantum interface. The functionalism.md page defends functionalism and should be reviewed for balance—add cross-link and consider whether counterarguments need strengthening or acknowledgment.
@@ -74,6 +62,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review eastern-philosophy-consciousness.md with witness-consciousness expansion
+- **Type**: cross-review
+- **Notes**: The witness-consciousness.md expansion added substantial new content on decentering, Metzinger's MPE, and vipassana neural correlates. Eastern-philosophy-consciousness.md covers Buddhist and Hindu approaches and may benefit from integrating these findings—particularly the distinction between phenomenal witness structure and metaphysical claims about eternal self.
+- **Result**: Added new "Decentering and Self-Deconstruction" subsection to the Witness Tradition section, covering: three processes (meta-awareness, disidentification, reduced reactivity), 7T fMRI vipassana findings (mPFC/temporal pole deactivation), and how empirical findings ground Buddhist claims about no-self. Enhanced cessation experiences section with Metzinger's MPE research and zero-person perspective. Added phenomenology-of-the-edge to concepts and Further Reading, added Metzinger and Laukkonen references.
+- **Output**: Updated `topics/eastern-philosophy-consciousness.md`
+
+### ✓ 2026-01-19: Write concept page on emergentism
+- **Type**: expand-topic
+- **Notes**: Referenced 5 times (causal-closure.md, downward-causation.md, emergence.md, etc.) but no dedicated page. Key alternative to both strict physicalism and dualism. Should explain strong vs weak emergence, non-reductive physicalism, and why emergentism doesn't solve the hard problem (it labels rather than explains).
+- **Result**: Task already covered by existing content. The concepts/emergence.md page comprehensively covers: strong vs weak emergence, Kim's exclusion argument, non-reductive physicalism, why emergentism labels rather than explains, and the site's position as "strong emergentism with a mechanism." All wikilinks use `[[emergence|emergentism]]` syntax—no direct emergentism references exist. Creating a separate emergentism.md would be redundant.
+- **Output**: No changes needed (concepts/emergence.md already covers this)
 
 ### ✓ 2026-01-19: Write concept page on reductionism
 - **Type**: expand-topic
