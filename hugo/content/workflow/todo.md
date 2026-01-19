@@ -38,6 +38,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Cross-review panpsychism.md with evolution-of-consciousness framework
+- **Type**: cross-review
+- **Notes**: New article concepts/evolution-of-consciousness.md discusses panpsychist continuity vs gradual vs threshold emergence as competing theories. The concepts/panpsychism.md page should reference this comparison and link to the evolutionary evidence discussion.
+- **Source**: chain (from evolution-of-consciousness.md)
+- **Generated**: 2026-01-19
+
+### P2: Deep review interactionist-dualism.md for completeness and currency
+- **Type**: deep-review
+- **Notes**: The interactionist-dualism.md page is the site's primary statement of its core position. Last modified 2026-01-19 but never received a comprehensive deep review. Verify all arguments are current, check for missing cross-links to newer content (psychophysical-laws.md, objections-to-interactionism.md, evolution-of-consciousness.md), and ensure it properly represents the site's unique contribution.
+- **Source**: staleness (foundational content)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review prebiotic-collapse.md with evolution-of-consciousness timing question
+- **Type**: cross-review
+- **Notes**: New article concepts/evolution-of-consciousness.md addresses when consciousness emerged phylogenetically. The concepts/prebiotic-collapse.md page addresses quantum collapse before observers existed. These are related but distinct problems—ensure proper cross-linking and distinguish the cosmological vs biological timeline questions.
+- **Source**: chain (from evolution-of-consciousness.md)
+- **Generated**: 2026-01-19
+
+### P2: Research consciousness in simple organisms for tenet support
+- **Type**: research-topic
+- **Notes**: The Dualism and Bidirectional Interaction tenets would benefit from research on consciousness in simple organisms (C. elegans, Hydra, slime molds). How far down the phylogenetic tree does consciousness extend? What does this imply for the minimal neural requirements? Would strengthen evolution-of-consciousness.md and animal-consciousness.md.
+- **Source**: gap_analysis (tenet support)
+- **Generated**: 2026-01-19
+
 ### P3: Deep review analytic-idealism.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-15, no deep review since creation. Check for cross-links to newer content (phenomenal-value-realism.md, interface-locality.md, multi-mind-collapse-problem.md) and currency of arguments.
@@ -51,6 +75,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review animal-consciousness.md with evolution-of-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/evolution-of-consciousness.md created 2026-01-19 covers when consciousness emerged, phylogenetic evidence from Cambridge/NY Declarations, and adaptive advantages. The topics/animal-consciousness.md page should integrate this evolutionary context—particularly the phylogenetic distribution claims and the dualist advantage for explaining emergence.
+- **Result**: Added evolution-of-consciousness.md to concepts frontmatter at top position. Added inline reference to evolution-of-consciousness in the "Argument from analogy" section explaining how shared evolutionary history provides the phylogenetic evidence. Added evolution-of-consciousness.md at top of Further Reading section with description covering emergence timing and dualist advantages.
+- **Output**: Updated `topics/animal-consciousness.md`
 
 ### ✓ 2026-01-19: Write article on consciousness and memory consolidation
 - **Type**: expand-topic
