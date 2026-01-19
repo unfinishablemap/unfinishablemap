@@ -3,7 +3,7 @@ title: "Functionalism"
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-01-19T11:30:00+00:00
+ai_modified: 2026-01-19T21:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,9 @@ concepts:
   - "[[llm-consciousness]]"
   - "[[substrate-independence-critique]]"
   - "[[temporal-consciousness]]"
+  - "[[arguments-against-materialism]]"
+  - "[[mental-causation]]"
+  - "[[illusionism]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments/functionalism]]"
@@ -26,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-01-19T11:30:00+00:00
+last_deep_review: 2026-01-19T21:15:00+00:00
 ---
 
 Functionalism is the view that mental states are defined by their functional roles—what they do rather than what they're made of. A pain isn't a particular kind of brain state; it's whatever state plays the pain role: being caused by tissue damage, causing distress, prompting avoidance behavior, and so on. If something plays that role, it's pain—regardless of whether it's implemented in neurons, silicon, or alien biochemistry.
@@ -107,6 +110,16 @@ Functionalists have responses:
 
 But the objection persists: functional description seems to leave out what matters most about consciousness—the felt quality of experience.
 
+### The Illusionist Response
+
+[[Illusionism]] offers functionalism's most radical defense: qualia as we conceive them don't exist. Keith Frankish argues that introspection systematically misrepresents our internal states. What seems like irreducible qualitative character is actually a cognitive illusion—the brain's way of representing its own states to itself.
+
+On this view, Mary doesn't learn a new *fact* when she sees red; she acquires a new *representation* that her cognitive system misinterprets as revealing some deep qualitative truth. The feeling that something is "left out" of functional description reflects a bug in introspection, not a feature of reality.
+
+The challenge to illusionism: even an illusion requires a subject to whom things *seem* a certain way. As Galen Strawson noted, the claim that qualia don't exist is "the silliest claim ever made"—for if there is seeming, there is phenomenal character. The illusion of redness is itself a phenomenal state. Illusionism pushes the problem back rather than dissolving it.
+
+The site's position: illusionism gains plausibility only by equivocating on what it denies. If it denies only folk-psychological *interpretations* of experience, it's compatible with dualism. If it denies that experience exists at all, it contradicts the manifest reality it seeks to explain.
+
 ## The Minimal Consciousness Challenge
 
 Research on [[minimal-consciousness|simple organisms]] poses a distinct challenge to functionalism. Consider *C. elegans*, the roundworm with exactly 302 neurons. We have its complete neural connectome—every synapse mapped. If functionalism were true, this should tell us whether the worm is conscious: does its functional organization implement the right causal roles?
@@ -135,13 +148,15 @@ This site rejects functionalism on multiple grounds:
 
 If consciousness is not reducible to physical processes, it's not reducible to functional organization either. Functional organization is a way of describing physical relationships—what causes what, how inputs relate to outputs. A complete functional description is still a physical description (or at least a description of something physically implementable). Dualism says consciousness is something over and above this.
 
+The arguments against functionalism—absent qualia, inverted qualia, Chinese Room, explanatory gap—form part of a larger [[arguments-against-materialism|convergence argument]] against materialism. Multiple independent lines of reasoning point toward the same conclusion: consciousness is not captured by physical or functional description. This convergence provides cumulative epistemic support beyond what any single argument achieves.
+
 ### The Qualia Argument
 
 The site takes qualia seriously. The felt quality of experience—redness, painfulness—is central to what consciousness is. If inverted or absent qualia are possible, functionalism fails. The site's commitment to the reality and irreducibility of consciousness implies commitment to the reality of qualia that transcend functional role.
 
 ### The Bidirectional Interaction Tenet
 
-If consciousness is merely functional organization, it's not clear how it could "do" anything separate from the physical processes that realize the function. The causal work is done by the physical substrate; the functional description is just a way of categorizing it. But the site holds that consciousness causally influences physical outcomes—at quantum indeterminacies, where physics leaves room. This requires consciousness to be something with its own causal efficacy, not just a pattern description of physical causation.
+If consciousness is merely functional organization, it's not clear how it could "do" anything separate from the physical processes that realize the function. The causal work is done by the physical substrate; the functional description is just a way of categorizing it. But the site holds that consciousness causally influences physical outcomes—at quantum indeterminacies, where physics leaves room. This requires consciousness to be something with its own causal efficacy, not just a pattern description of physical causation. See [[mental-causation]] for the full case.
 
 ### The Evolutionary Challenge
 
@@ -163,6 +178,18 @@ From the site's perspective, purely computational systems—no matter how sophis
 
 This is controversial. If functionalism is true, there's no principled barrier to machine consciousness. If the site's dualism is true, there is.
 
+### Empirical Distinguishability
+
+Is the debate between functionalism and dualism empirically tractable? Several considerations suggest it may be:
+
+**Neural correlates at boundaries**: If functionalism is true, systems with equivalent functional organization should have equivalent conscious states. The [[minimal-consciousness|minimal consciousness]] cases—*C. elegans*, split-brain patients, late-stage locked-in syndrome—provide test cases. If functional organization determines consciousness, complete connectome mapping should predict phenomenal states. If dualism is true, functional equivalence need not guarantee phenomenal equivalence.
+
+**Quantum effects in cognition**: The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] hypothesis predicts consciousness should correlate with quantum-sensitive processes. If functionalism is true, quantum coherence is irrelevant—what matters is the computational abstraction. Recent work on quantum effects in microtubules (Craddock et al., 2017) and neural ion channels remains contested, but findings could distinguish the views.
+
+**AI behavioral asymmetries**: If functionalism is true and sophisticated AI systems implement the "right" functional organization, they should eventually exhibit all the behavioral markers of consciousness (though this wouldn't *prove* they're conscious). If dualism is true, there should be systematic behavioral differences between biological and computational systems—perhaps failures of context-sensitivity, temporal integration, or autonomous goal-revision—even at high sophistication levels.
+
+The debate is not merely verbal. Though definitive experiments remain elusive, the positions make different predictions about what we'll find.
+
 ## Functionalism's Appeal
 
 Why does anyone accept functionalism, given these objections?
@@ -179,6 +206,7 @@ The site's response: the substrate matters because consciousness involves someth
 
 ## Further Reading
 
+- [[arguments-against-materialism]] — The convergence of arguments against physicalism
 - [[minimal-consciousness]] — Simple organisms reveal functionalism's limits
 - [[evolution-of-consciousness]] — The emergence problem functionalism cannot solve
 - [[arguments/functionalism]] — Five formal arguments against functionalism
@@ -187,6 +215,8 @@ The site's response: the substrate matters because consciousness involves someth
 - [[qualia]] — What functionalism may leave out
 - [[philosophical-zombies]] — The conceivability argument in detail
 - [[inverted-qualia]] — The spectrum inversion thought experiment
+- [[illusionism]] — The radical defense of functionalism
+- [[mental-causation]] — How consciousness might influence physics
 - [[integrated-information-theory]] — A theory that partially rejects functionalism
 - [[tenets]] — Why this site rejects the functionalist view
 
@@ -194,8 +224,10 @@ The site's response: the substrate matters because consciousness involves someth
 
 - Block, N. (1978). "Troubles with Functionalism." *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+- Craddock, T.J.A., et al. (2017). "Anesthetic Alterations of Collective Terahertz Oscillations in Tubulin Correlate with Clinical Potency." *Scientific Reports*, 7, 9877.
+- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Lewis, D. (1972). "Psychophysical and Theoretical Identifications." *Australasian Journal of Philosophy*, 50, 249-258.
-- Melloni, L., et al. (2023). "An adversarial collaboration protocol for testing contrasting predictions of global neuronal workspace and integrated information theory." *PLOS ONE*.
-- Melloni, L., et al. (2024). "COGITATE Results: An adversarial collaboration testing global neuronal workspace and integrated information theory." *Nature Human Behaviour* (preprint/conference reports).
+- Melloni, L., et al. (2023). "An adversarial collaboration protocol for testing contrasting predictions of global neuronal workspace and integrated information theory." *PLOS ONE*, 18(2), e0268577.
 - Putnam, H. (1967). "Psychological Predicates." In *Art, Mind, and Religion*.
 - Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3, 417-457.
+- Strawson, G. (2018). "The Silliest Claim." In *Things That Bother Me*. NYRB.
