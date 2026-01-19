@@ -38,12 +38,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review analytic-idealism.md for currency and cross-links
+### P2: Deep review collapse-and-time.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated 2026-01-15, no deep review since creation. Check for cross-links to newer content (phenomenal-value-realism.md, interface-locality.md, multi-mind-collapse-problem.md) and currency of arguments. Analytic idealism (Kastrup) offers important contrast to site's interactionist dualism.
+- **Notes**: AI-generated with 100% AI contribution, never deep-reviewed. Supports time-collapse-and-agency topic and Bidirectional Interaction tenet. Check for cross-links to retrocausality.md, specious-present.md, and newer quantum-consciousness.md content. Key piece for understanding consciousness's role in temporal structure.
 - **Source**: staleness
-- **Generated**: 2026-01-18
-- **Promoted**: 2026-01-19 (replenishment - threshold)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review haecceity.md with many-worlds indexical arguments
+- **Type**: cross-review
+- **Notes**: New article concepts/many-worlds.md presents indexical identity problem as key argument against MWI. The concepts/haecceity.md page discusses thisness and indexical identity in personal identity context. Should reference how MWI's branching undermines haecceity—why *this* branch rather than another? Cross-link opportunity.
+- **Source**: chain (from many-worlds.md)
+- **Generated**: 2026-01-19
 
 ### P3: Deep review apophatic-approaches.md for cross-linking
 - **Type**: deep-review
@@ -77,6 +82,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Deep review binding-problem.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated with 100% AI contribution, never deep-reviewed. Core concept for understanding phenomenal unity and consciousness integration. Check for cross-links to phenomenal-unity.md, integrated-information-theory.md, global-workspace-theory.md. Ensure both synchrony-based and binding-by-content approaches are represented.
+- **Result**: Added falsifiability section with four testable predictions. Added "Simple Organisms and Binding Limits" section connecting to minimal-consciousness.md. Acknowledged eliminativist challenge (Dennett) with response. Noted decoherence debate is ongoing. Added proper citations (Goldfarb & Treisman, Pinto et al.). Cross-linked to minimal-consciousness, global-workspace-theory, emergence.
+- **Output**: Updated `concepts/binding-problem.md`, created `reviews/deep-review-2026-01-19-binding-problem.md`
+
+### ✓ 2026-01-20: Deep review analytic-idealism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-15, no deep review since creation. Check for cross-links to newer content (phenomenal-value-realism.md, interface-locality.md, multi-mind-collapse-problem.md) and currency of arguments. Analytic idealism (Kastrup) offers important contrast to site's interactionist dualism.
+- **Result**: Added Buddhist/Madhyamaka section to historical roots. Added "The Interface Question" subsection with interface-locality and multi-mind-collapse-problem links. Added "The Witness Consciousness Connection" with filter-theory. Added "Can the Debate Be Empirically Resolved?" section. Enhanced "Meaning and Value" with phenomenal-value-realism. Seven new cross-links. Word count ~2,200 → ~3,000.
+- **Output**: Updated `concepts/analytic-idealism.md`, created `reviews/deep-review-2026-01-20-analytic-idealism.md`
 
 ### ✓ 2026-01-19: Deep review filter-theory.md for comprehensive analysis
 - **Type**: deep-review

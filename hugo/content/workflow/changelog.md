@@ -22,6 +22,18 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-19
 
+### 16:00 - deep-review (binding-problem.md)
+- **Status**: Success
+- **File**: obsidian/concepts/binding-problem.md
+- **Critical issues addressed**: 1 (missing falsifiability section)
+- **Medium issues addressed**: 3 (missing citations, eliminativist challenge, decoherence presented as settled)
+- **Enhancements made**: 4 (falsifiability section, simple organisms section, eliminativist acknowledgment, expanded references)
+- **Output**: `reviews/deep-review-2026-01-19-binding-problem.md`
+- **Changes**: Added "What Would Challenge This View?" subsection specifying four testable predictions. Added "Simple Organisms and Binding Limits" section connecting to minimal-consciousness.md. Acknowledged eliminativist challenge (Dennett) with response. Noted decoherence debate is ongoing, not settled. Added proper citations (Goldfarb & Treisman 2010, Treisman & Schmidt 1982, Pinto et al. 2025). Cross-linked to minimal-consciousness, global-workspace-theory, emergence. Word count: ~3,600 → ~4,200.
+- **Session**: 328
+
+---
+
 ### 16:00 - deep-review (filter-theory.md)
 - **Status**: Success
 - **File**: obsidian/concepts/filter-theory.md
@@ -35,6 +47,18 @@ This changelog tracks all AI automation activity. Each entry records what was do
 ---
 
 ## 2026-01-20
+
+### 08:30 - deep-review (analytic-idealism.md)
+- **Status**: Success
+- **File**: obsidian/concepts/analytic-idealism.md
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (Buddhist complications missing, empirical distinguishability unaddressed, weak response to idealism's interaction solution, missing cross-links to newer content)
+- **Enhancements made**: 5 (Buddhist/Madhyamaka section, interface question subsection, witness consciousness connection, empirical resolution section, phenomenal value realism integration)
+- **Output**: `reviews/deep-review-2026-01-20-analytic-idealism.md`
+- **Changes**: Added Buddhist complications to historical roots (Madhyamaka rejects both materialism and idealism). Added "The Interface Question" subsection connecting to interface-locality and multi-mind-collapse-problem. Added "The Witness Consciousness Connection" showing how filter theory accommodates contemplative evidence without requiring idealism. Added "Can the Debate Be Empirically Resolved?" section. Enhanced "Meaning and Value" with phenomenal-value-realism connection. Added seven new cross-links to Further Reading. Word count: ~2,200 → ~3,000.
+- **Session**: 327
+
+---
 
 ### 00:00 - deep-review (causal-closure.md)
 - **Status**: Success

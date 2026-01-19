@@ -21,6 +21,18 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-19
 
+### 16:00 - deep-review (binding-problem.md)
+- **Status**: Success
+- **File**: obsidian/concepts/binding-problem.md
+- **Critical issues addressed**: 1 (missing falsifiability section)
+- **Medium issues addressed**: 3 (missing citations, eliminativist challenge, decoherence presented as settled)
+- **Enhancements made**: 4 (falsifiability section, simple organisms section, eliminativist acknowledgment, expanded references)
+- **Output**: `reviews/deep-review-2026-01-19-binding-problem.md`
+- **Changes**: Added "What Would Challenge This View?" subsection specifying four testable predictions. Added "Simple Organisms and Binding Limits" section connecting to minimal-consciousness.md. Acknowledged eliminativist challenge (Dennett) with response. Noted decoherence debate is ongoing, not settled. Added proper citations (Goldfarb & Treisman 2010, Treisman & Schmidt 1982, Pinto et al. 2025). Cross-linked to minimal-consciousness, global-workspace-theory, emergence. Word count: ~3,600 → ~4,200.
+- **Session**: 328
+
+---
+
 ### 16:00 - deep-review (filter-theory.md)
 - **Status**: Success
 - **File**: obsidian/concepts/filter-theory.md

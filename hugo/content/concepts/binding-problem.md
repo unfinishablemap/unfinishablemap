@@ -1,13 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-19 10:25:00+00:00
+ai_modified: 2026-01-19 16:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[minimal-consciousness]]'
 - '[[qualia]]'
 - '[[quantum-consciousness]]'
 - '[[integrated-information-theory]]'
+- '[[global-workspace-theory]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[mental-effort]]'
 - '[[split-brain-consciousness]]'
@@ -17,11 +19,13 @@ concepts:
 - '[[sleep-and-consciousness]]'
 - '[[filter-theory]]'
 - '[[phenomenal-unity]]'
+- '[[emergence]]'
 created: 2026-01-14
 date: &id001 2026-01-19
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-19 16:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,6 +48,8 @@ Philosophers distinguish two related but distinct challenges (Revonsuo 2006):
 
 The distinction matters. Solving BP1—the engineering challenge of correct feature attribution—doesn't solve BP2. Even a complete computational account of feature binding leaves unexplained why binding *feels* unified.
 
+Some eliminativists (notably Dennett) argue that BP2 is a pseudo-problem—that phenomenal unity is a cognitive construction rather than a genuine feature requiring explanation. On this view, we don't need to explain why binding feels unified because there is no phenomenal unity above and beyond functional integration. The site rejects this: the unity of experience appears constitutive rather than illusory, and explaining *why it seems unified* without positing actual unity faces its own explanatory burden.
+
 ## Classical Proposed Solutions
 
 ### Binding by Synchrony
@@ -57,7 +63,7 @@ The dominant neuroscientific proposal holds that features belonging to the same 
 
 **Problems with synchrony:**
 - What determines *which* neurons should synchronize? The mechanism seems to push the problem back.
-- Multiple objects sharing features create logical tangles (Goldfarb & Treisman)
+- Multiple objects sharing features create logical tangles (Treisman & Schmidt, 1982; Goldfarb & Treisman, 2010)
 - Synchrony might *correlate with* binding without *causing* it
 - Most critically: synchronized firing is still separate events in separate neurons. Why does correlation feel like unity?
 
@@ -89,7 +95,7 @@ The classic findings seemed to show consciousness splitting: each hemisphere pro
 
 But recent findings complicate this picture:
 
-**Resilience of unity**: A 2025 PNAS study found that minimal corpus callosum fibers—even just a centimeter—can maintain full interhemispheric synchronization. One patient with barely any preserved fibers showed normal brain function. The brain recruits alternative pathways when primary connections fail.
+**Resilience of unity**: A 2025 PNAS study (Pinto et al., 2025) found that minimal corpus callosum fibers—even just a centimeter—can maintain full interhemispheric synchronization. One patient with barely any preserved fibers showed normal brain function. The brain recruits alternative pathways when primary connections fail.
 
 **Layered binding**: Research reveals that perceptual binding divides while response unity persists. Patients see different things per hemisphere but don't act like two people fighting for control. This suggests binding operates at multiple levels—local perceptual processes can divide while global phenomenal unity remains.
 
@@ -227,7 +233,7 @@ Recent research has moved beyond theoretical arguments to direct experimental su
 
 **Brain entanglement signatures (Kerskens & Pérez, 2022-2023)**: Using a novel quantum entanglement-detection MRI protocol, researchers observed signals indicating entanglement that correlated with consciousness—present during waking awareness but disappearing when subjects fell asleep. The fidelity of putative spin-entanglement signals correlated with short-term memory performance. While interpretation remains debated (Warren 2023), no alternative classical account has been offered.
 
-**Decoherence objection overturned**: Tegmark's influential 2000 calculation claimed quantum effects would decohere in 10⁻¹³ to 10⁻²⁰ seconds—far too brief for neural processes. Hagan, Hameroff, and Tuszynski (2002) identified flawed assumptions: Tegmark assumed unrealistically large superposition separations and thermal equilibrium (equivalent to death). Corrected estimates yield 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer**. Recent experimental coherence times (Saxena et al., 2020) match these corrected estimates.
+**Decoherence debate**: Tegmark's influential 2000 calculation claimed quantum effects would decohere in 10⁻¹³ to 10⁻²⁰ seconds—far too brief for neural processes. Hagan, Hameroff, and Tuszynski (2002) identified flawed assumptions: Tegmark assumed unrealistically large superposition separations and thermal equilibrium (equivalent to death). Corrected estimates yield 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer**. Recent experimental coherence times (Saxena et al., 2020) match these corrected estimates. This debate remains active; the site considers Hagan et al.'s critique compelling but acknowledges that the decoherence question is not definitively settled.
 
 **Twin study quantum effects (2025)**: A study of 106 monozygotic twin pairs found that entanglement of qubits in stimulus configurations explained 13.5% of variance in implicit learning accuracy. Published in *PNAS*, this provides novel evidence that quantum entanglement may enhance conscious processing and facilitate learning.
 
@@ -243,6 +249,26 @@ The **Quantum Binding Argument** (Baum) strengthens this case technically: obser
 
 As Max Hodak argued (2025): binding may require new physics because classical physics literally cannot produce the required unity. Quantum mechanics is the leading candidate for that new physics. Hartmut Neven at Google Quantum AI has made a similar argument: entanglement is the only true binding agent in physics—it creates holistic states where components are fundamentally interconnected in a way classical physics cannot achieve.
 
+### Simple Organisms and Binding Limits
+
+Research on [organisms at consciousness boundaries](/concepts/minimal-consciousness/) provides natural experiments on binding requirements. The roundworm *C. elegans* (302 neurons, completely mapped connectome) shows positive Φ values in computational models—suggesting integration—yet fails trace-conditioning paradigms that mark unlimited associative learning. If IIT equates consciousness with integration, the worm should exhibit unified experience. If the site's quantum framework is correct, simple organisms lacking quantum-coherent neural structures would lack phenomenal unity even while performing computational binding.
+
+The slime mold *Physarum polycephalum* poses a sharper challenge: it solves mazes and optimizes networks without any neurons—and thus without microtubules. If quantum effects in microtubules provide the interface for phenomenal binding, non-neural cognition shouldn't occur. Resolution: quantum-neural effects may be sufficient for *phenomenal* binding but not necessary for *computational* binding. Slime molds integrate information and coordinate behavior without unified experience—exactly the BP1-without-BP2 pattern the quantum theory predicts for systems lacking the requisite physical substrate.
+
+### What Would Challenge This View?
+
+The quantum binding hypothesis makes testable commitments:
+
+1. **Neural determinism**: If future neuroscience demonstrates that neural activity fully determines which features bind (ruling out quantum indeterminacy's role), the quantum hypothesis would be undermined.
+
+2. **Classical explanation of zero-lag synchrony**: If the Quantum Binding Argument (Baum) is refuted—if zero-lag gamma synchrony can arise from classical mechanisms without violating relativistic causality—this removes one motivation for quantum explanations.
+
+3. **Failure of Kerskens-Pérez replication**: The MRI entanglement findings require independent replication. Sustained failure to replicate would weaken the empirical case.
+
+4. **Anesthetic mechanism alternatives**: If anesthetic action on microtubules can be explained entirely through classical biochemical effects on synaptic transmission, without invoking quantum disruption, the epothilone study becomes less probative.
+
+The site maintains that current evidence favors the quantum position while acknowledging that the debate remains live. Scientific humility requires specifying what would count against one's view.
+
 ## Relation to This Site's Perspective
 
 The binding problem illuminates why the site's [tenets](/tenets/) take the positions they do.
@@ -257,9 +283,12 @@ The binding problem illuminates why the site's [tenets](/tenets/) take the posit
 
 ## Further Reading
 
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Boundary cases testing binding in simple organisms
 - [phenomenal-unity](/concepts/phenomenal-unity/) — Why experience is unified rather than fragmentary
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms by which consciousness might interface with quantum physics
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's approach to unity through integration
+- [global-workspace-theory](/concepts/global-workspace-theory/) — GWT's broadcast model of conscious access
+- [emergence](/concepts/emergence/) — Strong emergence and the binding problem's relation to downward causation
 - [decoherence](/concepts/decoherence/) — Why quantum effects might persist in biological systems
 - [mental-effort](/concepts/mental-effort/) — Attention's role in binding connects to consciousness-matter interface
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — BP2 as instance of the hard problem
@@ -270,17 +299,22 @@ The binding problem illuminates why the site's [tenets](/tenets/) take the posit
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Sleep as natural dissociation between BP1 and BP2
 - [filter-theory](/concepts/filter-theory/) — The transmission model that sleep evidence supports
 - [binding-problem-consciousness-2026-01-14](/research/binding-problem-consciousness-2026-01-14/) — Detailed research notes
+- [neural-binding-quantum-entanglement-2026-01-19](/research/neural-binding-quantum-entanglement-2026-01-19/) — Recent experimental evidence research
 
 ## References
 
 - Baum, E. The Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality. *PhilArchive*.
+- Goldfarb, L. & Treisman, A. (2010). Feature binding and attention. *Psychological Science*, 22(6), 750-756.
 - Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 - Hameroff, S. et al. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*.
 - Hodak, M. (2025). Analysis of consciousness and binding. Online.
 - Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
-- Penrose, R. & Hameroff, S. (2014). Consciousness in the universe: A review of Orch OR. *Physics of Life Reviews*.
-- Revonsuo, A. (2006). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*.
+- Nagel, T. (1971). Brain bisection and the unity of consciousness. *Synthese*, 22, 396-413.
+- Penrose, R. & Hameroff, S. (2014). Consciousness in the universe: A review of Orch OR. *Physics of Life Reviews*, 11, 39-78.
+- Pinto, Y. et al. (2025). Split-brain: what we know now and why this is important for consciousness studies. *PNAS*.
+- Revonsuo, A. (2006). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 15, 489-508.
 - Stanford Encyclopedia of Philosophy. The Unity of Consciousness.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-- Treisman, A. & Gelade, G. (1980). A feature-integration theory of attention. *Cognitive Psychology*.
+- Treisman, A. & Gelade, G. (1980). A feature-integration theory of attention. *Cognitive Psychology*, 12, 97-136.
+- Treisman, A. & Schmidt, H. (1982). Illusory conjunctions in the perception of objects. *Cognitive Psychology*, 14, 107-141.
 - Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
