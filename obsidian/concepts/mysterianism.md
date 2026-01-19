@@ -3,11 +3,12 @@ title: "Mysterianism and Cognitive Closure"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-19T03:20:00+00:00
+ai_modified: 2026-01-19T11:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
+  - "[[minimal-consciousness]]"
   - "[[qualia]]"
   - "[[materialism]]"
   - "[[explanatory-gap]]"
@@ -44,6 +45,18 @@ Thomas Nagel anticipated mysterianism in his 1974 paper "What Is It Like to Be a
 Nagel's broader point: objective scientific methods cannot capture subjective experience without loss. To understand consciousness objectively, we would have to abstract away from viewpoints—but viewpoints are precisely what we're trying to understand. The gap isn't merely current ignorance. It's structural.
 
 This leads to what Nagel calls a "conceptual revolution" that may be needed but which we cannot even conceive. We know the current conceptual framework fails. We don't know what would succeed.
+
+## Simple Minds and Complete Knowledge
+
+Research on [[minimal-consciousness|minimal consciousness]]—consciousness in simple organisms—provides striking evidence for cognitive closure. Consider *C. elegans*, the roundworm whose entire nervous system has been mapped: 302 neurons, 8,000 chemical synapses, 890 gap junctions. We possess complete structural knowledge. Yet we cannot determine whether the worm experiences anything at all.
+
+This is McGinn's point made empirically. Complete knowledge of neural architecture doesn't bridge the gap to phenomenal facts. We can describe every synapse, trace every circuit, model every firing pattern—and still cannot answer whether there is something it is like to be *C. elegans*. If complete structural description doesn't reveal consciousness in a 302-neuron organism, why expect it to reveal consciousness in an 86-billion-neuron brain?
+
+The situation is worse than mere ignorance. The Unlimited Associative Learning (UAL) framework offers behavioural criteria for consciousness—but researchers explicitly note that an organism might have phenomenal experience without displaying UAL capacities, or display sophisticated behaviour without experience. We have markers, not detectors. We can identify correlates of consciousness without grasping what consciousness *is*—exactly the situation McGinn predicts if we're cognitively closed to the relevant property.
+
+The *distribution problem*—why does *this* level of complexity produce experience rather than some other?—compounds the mystery. If consciousness emerges at some threshold, the threshold seems arbitrary. Why not at 30 neurons? At 3,000? At none? Any answer presupposes understanding we don't have. The question may not be answerable by beings like us, because we lack conceptual access to whatever makes the difference.
+
+Simple organisms reveal the explanatory gap at its starkest. We map everything and understand nothing about what matters most. This is what cognitive closure looks like from the inside.
 
 ## Problems Versus Mysteries
 
@@ -156,6 +169,7 @@ The site's [[voids]] framework resonates with mysterian themes. McGinn's propert
 
 ## Further Reading
 
+- [[minimal-consciousness]] — Complete neural mapping yet unknowable experience (empirical evidence for cognitive closure)
 - [[phenomenology-of-the-edge]] — What cognitive closure feels like from the inside (edge-experience signatures)
 - [[limits-reveal-structure]] — How cognitive limits reveal cognitive architecture (detailed treatment)
 - [[whether-real]] — Can we know if the voids are genuinely permanent?
