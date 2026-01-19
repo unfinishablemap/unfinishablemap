@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T03:25:00+00:00
+ai_modified: 2026-01-19T03:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
-### P2: Cross-review mysterianism.md considering phenomenology-of-the-edge insights
-- **Type**: cross-review
-- **Notes**: New voids article phenomenology-of-the-edge.md maps edge-experience signatures—ineffability with noesis, ego dissolution, edge-clarity paradox. The mysterianism.md concept page discusses cognitive closure but could integrate the phenomenological evidence—edge-experiences may reveal what cognitive closure feels like from the inside. Add cross-link and consider whether the phenomenological data supports or complicates McGinn's position.
-- **Source**: chain (from phenomenology-of-the-edge.md)
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review agent-causation.md considering consciousness-and-creativity insights
 - **Type**: cross-review
 - **Notes**: New article concepts/consciousness-and-creativity.md argues consciousness both generates (through imagination exploring possibility space) and selects (through attention's quantum Zeno mechanism). The agent-causation.md page discusses libertarian free will but could integrate the creativity evidence—agent causation may operate not just through selection but through genuine generation of novel possibilities. Add cross-link and consider whether the generation/selection synthesis enriches the agent causation framework.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review mysterianism.md with edge-phenomenology insights
+- **Type**: cross-review
+- **Notes**: New voids article phenomenology-of-the-edge.md maps edge-experience signatures—ineffability with noesis, ego dissolution, edge-clarity paradox. The mysterianism.md concept page discusses cognitive closure but could integrate the phenomenological evidence—edge-experiences may reveal what cognitive closure feels like from the inside. Add cross-link and consider whether the phenomenological data supports or complicates McGinn's position.
+- **Result**: Added new "The Phenomenology of Cognitive Closure" section explaining what cognitive limits feel like from the inside. Integrated Metzinger's zero-person perspective, cross-method convergence evidence, and dissolving-insight phenomenon. Added phenomenology-of-the-edge to concepts frontmatter and Further Reading at top (most relevant new addition). The phenomenological evidence supports mysterianism by showing cognitive closure is experientially real and mappable even if not crossable.
+- **Output**: Updated `concepts/mysterianism.md`
 
 ### ✓ 2026-01-19: Cross-review death-and-consciousness.md with altered states framework
 - **Type**: cross-review
