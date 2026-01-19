@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T06:00:00+00:00
+ai_modified: 2026-01-19T20:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -47,6 +47,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: expand-topic
 - **Notes**: Research completed in research/chalmers-psychophysical-laws-2026-01-17.md. Chalmers' framework for fundamental psychophysical laws is referenced in psychophysical-coupling-law.md but deserves fuller treatment. Should explain naturalistic dualism, the difference between supervenience laws and causal laws, and how the site's framework differs (interactionist vs Chalmers' epiphenomenalist tendency). Supports understanding of the theoretical landscape around the site's position.
 - **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
+### P2: Cross-review free-will.md with quantum indeterminacy systematization
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-indeterminacy-free-will.md provides comprehensive systematization of the quantum-free will relationship—the libertarian dilemma, event-causal vs agent-causal approaches, and how the quantum Zeno mechanism escapes the luck objection. The free-will.md topic page is the main entry point for free will discussions and should integrate this systematization, particularly linking to the detailed treatment of how quantum selection differs from random selection.
+- **Source**: chain (from quantum-indeterminacy-free-will.md)
 - **Generated**: 2026-01-19
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness

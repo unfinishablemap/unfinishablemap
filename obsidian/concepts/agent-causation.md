@@ -3,7 +3,7 @@ title: "Agent Causation"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-19T14:15:00+00:00
+ai_modified: 2026-01-19T20:45:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[motor-selection]]"
   - "[[consciousness-and-creativity]]"
   - "[[duration]]"
+  - "[[quantum-indeterminacy-free-will]]"
 related_articles:
   - "[[tenets]]"
   - "[[agent-causation-libertarian-free-will-2026-01-14]]"
@@ -46,6 +47,8 @@ Agent causation—*immanent causation*—is different. The agent, as a persistin
 Event-causal libertarianism (defended by Robert Kane, Mark Balaguer) holds that free actions are caused by mental events—beliefs, desires, intentions—but that these causal processes are nondeterministic. The indeterminism provides openness; the mental event provides causation.
 
 But critics argue this doesn't deliver genuine authorship. If my decision is caused by prior mental events, and I didn't choose those events, how am I the ultimate source? The causal chain still traces back to things outside my control. I'm a conduit for causes, not a source of them.
+
+Significantly, Kane's own position has evolved. His 2024 *The Complex Tapestry of Free Will* explicitly incorporates agent-causal elements, arguing that free action requires agents "exercising teleological guidance control over some of their processes." This represents convergence between event-causal and agent-causal traditions—even defenders of event-causal libertarianism now acknowledge that genuine authorship requires something like agent causation. See [[quantum-indeterminacy-free-will#Event-Causal vs Agent-Causal Approaches|the systematic treatment]] of how this convergence strengthens the libertarian position.
 
 Agent causation answers this challenge. The agent is the source—an "uncaused cause" or "unmoved mover" in the traditional terminology. The regress of causes stops at the agent, who initiates the causal chain through an irreducible capacity to act.
 
@@ -92,6 +95,12 @@ The [[luck-objection|luck objection article]] develops this response across four
 4. **Retrocausal deepening**: If [[retrocausality|selection is atemporal]]—determining which temporal history becomes real—then asking "what about the prior state explains the choice?" misframes the situation. The prior state is part of what consciousness selected.
 
 This differs from the standard agent-causal response ("the agent caused it") by specifying *how* the agent's causation is non-arbitrary. The agent selects based on reasons, with phenomenal engagement, at quantum indeterminacies. The explanatory buck stops at the agent's exercise of causal power—but that exercise is reasons-responsive, not random.
+
+### Where Explanation Terminates
+
+Critics press further: but what explains why consciousness selected A rather than B? The [[quantum-indeterminacy-free-will#Where Explanation Terminates|agent-causal response]]: the agent's exercise of causal power is itself the explanation. Just as physics doesn't explain why the universe exists (taking existence as primitive), agent causation takes the agent's power to select as primitive.
+
+This isn't evasion. Explanation must terminate somewhere. "The agent selected for reasons" is a legitimate terminus—more satisfying than "it randomly happened." The agent is the source because agents are the kind of thing that can be sources. The site's framework strengthens this by showing that selection is phenomenologically distinct from lucky reception (effort vs passivity), neurally distinct (frontal theta signatures), and reasons-responsive rather than arbitrary.
 
 ## Substance Causation and the Site's Framework
 
@@ -270,6 +279,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 
 ## Further Reading
 
+- [[quantum-indeterminacy-free-will]] — Systematic treatment of quantum mechanics and libertarian free will, including Kane's 2024 convergence with agent-causal positions
 - [[consciousness-and-creativity]] — How agents generate possibilities, not just select among them
 - [[free-will]] — The broader free will question and this site's position
 - [[interactionist-dualism]] — How mind and body interact
