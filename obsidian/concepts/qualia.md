@@ -3,11 +3,12 @@ title: "Qualia"
 created: 2026-01-07
 modified: 2026-01-18
 human_modified:
-ai_modified: 2026-01-18T00:15:00+00:00
+ai_modified: 2026-01-19T20:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
+  - "[[minimal-consciousness]]"
   - "[[existentialism]]"
   - "[[functionalism]]"
   - "[[philosophical-zombies]]"
@@ -62,6 +63,29 @@ Qualia resist complete verbal description. How would you explain the taste of co
 ### Directly Apprehensible
 
 Despite being ineffable to others, qualia are immediately known to the one experiencing them. You don't infer that you're in pain—you directly apprehend the painful quality. This direct acquaintance gives qualia a peculiar epistemic status.
+
+## Qualia in Simple Organisms
+
+The question of [[minimal-consciousness|qualia in simple organisms]] sharpens the hard problem in unexpected ways. Consider *C. elegans*, a nematode with exactly 302 neurons. We have mapped its complete connectome—every neuron, every synapse, every gap junction. We know more about its nervous system than any other organism's. Yet we cannot determine whether there is something it is like to be *C. elegans*.
+
+This epistemically impossible situation illuminates qualia's resistance to physical description. If complete structural knowledge of a simple nervous system doesn't tell us whether qualia exist, complete structural knowledge of a complex one won't explain *how* qualia arise. The gap is not about missing physical details—we have all the physical details for *C. elegans*. The gap is about the categorical difference between structure and experience.
+
+### The Distribution Problem for Qualia
+
+If *C. elegans* does have qualia, are they the same kind as ours? Do its 302 neurons produce:
+
+- **Identical qualia** (unlikely—neural implementations differ too much)
+- **Analogous qualia** (the worm's-pain is to the worm as our-pain is to us)
+- **Alien qualia** (qualitative states unimaginable to us)
+- **No qualia** (behavior without experience)
+
+The question has no principled answer because we lack any bridge from neural description to qualitative character. A materialist account needs to explain why *this* neural organization produces *this* quale, but no such explanation exists even for the simplest nervous systems.
+
+### Proto-Qualia and the Combination Problem
+
+Some philosophers propose that simple organisms possess "proto-qualia"—phenomenal properties simpler than human experiences but not absent entirely. This raises the [[combination-problem|combination problem]] in its sharpest form. If *C. elegans* neurons each have micro-qualia, how do 302 micro-experiences combine into whatever unified experience (if any) the worm has? And how do the micro-qualia in human neurons—86 billion of them—combine into the rich qualitative field you're experiencing now?
+
+Slime molds add a further puzzle. *Physarum polycephalum* solves mazes and displays habituation without any neurons whatsoever. If qualia require neurons, slime molds have none. If qualia don't require neurons, what substrate is necessary? The slime mold case suggests that cognition and qualia may fully dissociate—information processing without phenomenal experience. This strengthens the dualist intuition that qualia are not simply what information processing "does" from the inside.
 
 ## Beyond Sensory Qualia
 
@@ -164,6 +188,7 @@ This doesn't solve the hard problem—it doesn't explain *how* qualia arise or w
 
 ## Further Reading
 
+- [[minimal-consciousness]] - Qualia in simple organisms and the distribution problem
 - [[knowledge-argument]] - The knowledge argument (Mary's Room) dramatizing qualia's epistemic distinctness
 - [[inverted-qualia]] - The inverted spectrum argument showing qualia aren't fixed by function
 - [[hard-problem-of-consciousness]] - The broader problem qualia exemplify
