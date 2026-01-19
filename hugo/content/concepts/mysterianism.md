@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-16 12:30:00+00:00
+ai_modified: 2026-01-19 03:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[qualia]]'
 - '[[materialism]]'
 - '[[explanatory-gap]]'
+- '[[phenomenology-of-the-edge]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 draft: false
@@ -52,6 +53,20 @@ Noam Chomsky offered a related distinction between "problems" and "mysteries." P
 Chomsky argued there's no reason to assume human cognitive capacities are unlimited. We're biological organisms with specific cognitive architectures shaped by evolution for specific purposes. Some questions may fall outside what that architecture can handle.
 
 Consciousness might be such a mystery. The [explanatory-gap](/concepts/explanatory-gap/) persists despite centuries of philosophical and scientific effort. Perhaps it persists not because we haven't tried hard enough but because trying harder won't help. The gap may be our cognitive closure made visible.
+
+## The Phenomenology of Cognitive Closure
+
+Mysterianism proposes cognitive closure as a theoretical concept—but what does it feel like to approach a cognitive limit? The [voids article on edge-phenomenology](/voids/phenomenology-of-the-edge/) maps this territory using evidence from contemplative practice, psychedelics, and philosophical inquiry. What emerges suggests that cognitive closure has experiential signatures we can investigate.
+
+When consciousness approaches limits through different means, remarkably consistent features appear: ineffability combined with felt knowledge (you know something you cannot articulate), ego dissolution paired with enhanced clarity, temporal distortion alongside a sense of unbounded possibility. These are not merely failures of thought but distinctive experiences in their own right.
+
+Metzinger's work on "minimal phenomenal experience" describes a *zero-person perspective*: awareness continues but without the usual subject-object structure. Experience becomes non-conceptual, atemporal, non-egoic—yet reports consistently describe it as more vivid than ordinary experience. This may be consciousness operating near its boundaries, with content stripped away but awareness intact.
+
+The cross-method convergence matters epistemically. If such experiences were merely meditation artifacts or drug effects, we would not expect them across such different approaches. The consistency suggests these are features of consciousness itself at its limits—not artefacts of particular methods.
+
+For mysterianism, this offers something unexpected: phenomenological evidence that cognitive closure is real and has a distinctive structure. McGinn argues theoretically that certain properties lie beyond our conceptual reach. Edge-phenomenology suggests we can *experience* that boundary—we encounter something at the limit, even if we cannot bring conceptual content back from it. The [dissolving-insight phenomenon](/voids/thoughts-that-slip-away/)—thoughts that exist only at the boundary and vanish completely upon return—may mark encounters with representationally closed territory.
+
+This transforms the question. We need not merely speculate about cognitive closure from the armchair. We can approach it experientially and map its features, even if we cannot cross it. Cognitive closure has a phenomenology, and that phenomenology is data.
 
 ## What the Limits Reveal
 
@@ -142,6 +157,7 @@ The site's [voids](/voids/) framework resonates with mysterian themes. McGinn's 
 
 ## Further Reading
 
+- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What cognitive closure feels like from the inside (edge-experience signatures)
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits reveal cognitive architecture (detailed treatment)
 - [whether-real](/voids/whether-real/) — Can we know if the voids are genuinely permanent?
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem mysterians think is unsolvable

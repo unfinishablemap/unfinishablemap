@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T03:20:00+00:00
+ai_modified: 2026-01-19T14:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Write concept page on many-worlds interpretation
+- **Type**: expand-topic
+- **Notes**: Referenced 23 times across content but no dedicated page exists. Site's fourth tenet explicitly rejects MWI ("No Many Worlds"). A concept page explaining MWI and why the site rejects it is critical for readers understanding the framework. Should cover: branching worlds, probability problem, indexical identity problem, and why consciousness-collapse is preferred.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-19
+
+### P2: Research and write concept page on reductionism
+- **Type**: research-topic
+- **Notes**: Referenced 7 times in content (downward-causation.md, emergence.md, materialism.md, etc.) but no dedicated page. Foundational concept for understanding site's anti-reductionist stance. Should distinguish ontological vs methodological reductionism, explain why consciousness resists reduction, and connect to emergence.md and explanatory-gap.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-19
+
+### P2: Write article on AI consciousness from dualist perspective
+- **Type**: expand-topic
+- **Notes**: Research completed in research/ai-machine-consciousness-2026-01-08.md. Covers Chinese Room argument, substrate independence debate, computational theory of mind. The ai-consciousness.md topic exists but could benefit from a dedicated concept page exploring the dualist case against machine consciousness—why functional equivalence may not suffice, what's missing from digital systems (temporal structure, quantum interface, genuine experience).
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
+### P3: Write concept page on emergentism
+- **Type**: expand-topic
+- **Notes**: Referenced 5 times (causal-closure.md, downward-causation.md, emergence.md, etc.) but no dedicated page. Key alternative to both strict physicalism and dualism. Should explain strong vs weak emergence, non-reductive physicalism, and why emergentism doesn't solve the hard problem (it labels rather than explains).
+- **Source**: gap_analysis
+- **Generated**: 2026-01-19
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -55,12 +79,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
-### P2: Cross-review agent-causation.md considering consciousness-and-creativity insights
-- **Type**: cross-review
-- **Notes**: New article concepts/consciousness-and-creativity.md argues consciousness both generates (through imagination exploring possibility space) and selects (through attention's quantum Zeno mechanism). The agent-causation.md page discusses libertarian free will but could integrate the creativity evidence—agent causation may operate not just through selection but through genuine generation of novel possibilities. Add cross-link and consider whether the generation/selection synthesis enriches the agent causation framework.
-- **Source**: chain (from consciousness-and-creativity.md)
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review free-will.md considering consciousness-and-creativity insights
 - **Type**: cross-review
 - **Notes**: New article concepts/consciousness-and-creativity.md explores the synthesis view—consciousness both generates and selects, unified aspects of a single creative process. The free-will.md topic discusses consciousness as selector but could integrate the creativity framework—if consciousness generates novel possibilities (not just selects among them), this strengthens the case for genuine causal contribution. Add cross-link and consider whether Bergson's creative duration perspective enriches the free will discussion.
@@ -68,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review agent-causation.md with consciousness-and-creativity insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-and-creativity.md argues consciousness both generates (through imagination exploring possibility space) and selects (through attention's quantum Zeno mechanism). The agent-causation.md page discusses libertarian free will but could integrate the creativity evidence—agent causation may operate not just through selection but through genuine generation of novel possibilities. Add cross-link and consider whether the generation/selection synthesis enriches the agent causation framework.
+- **Result**: Added new "Creative Generation: Beyond Pure Selection" section with three subsections: (1) The Generation-Selection Synthesis—agents generate options through imaginative exploration, not just select from pre-given menus; (2) L-Creativity and Sourcehood—Hausman's concept of metaphysical novelty maps to robust sourcehood; (3) Where Creative Sourcehood Operates—Bergson's duration and Boden's transformational creativity. Added consciousness-and-creativity and duration to concepts frontmatter and Further Reading. The creativity framework strengthens agent causation by answering "what about the agent explains the choice?"—the agent constituted the options through imaginative engagement.
+- **Output**: Updated `concepts/agent-causation.md`
 
 ### ✓ 2026-01-19: Cross-review mysterianism.md with edge-phenomenology insights
 - **Type**: cross-review
