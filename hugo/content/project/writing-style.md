@@ -114,6 +114,28 @@ Prefer depth over breadth. A thorough treatment of one aspect beats shallow cove
 | Low (speculation) | Explicit hedging | "One possible mechanism—though highly speculative—is quantum selection." |
 | Reporting others | Attribution | "Chalmers argues that..." |
 
+### Attribution and Verifiability
+
+**Do not make claims about what notable people believe or prefer** unless directly verifiable from available references. Philosophers' and scientists' views are complex and evolve over time; attributing positions to them without citation risks misrepresentation.
+
+**Acceptable:**
+- Direct quotes with citation: "Chalmers writes that 'consciousness is the hard problem' (Chalmers 1996, p. 4)."
+- Claims verifiable from cited works: "In *The Conscious Mind*, Chalmers argues for property dualism."
+- Attributed arguments without personal beliefs: "The conceivability argument (associated with Chalmers) holds that..."
+
+**Not acceptable:**
+- Unverified claims about preferences: "Chalmers has expressed preference for X because..."
+- Assumptions about current views: "Most philosophers now believe..."
+- Inferred positions: "Given his other views, Chalmers would likely think..."
+
+When discussing a philosopher's position:
+1. **Cite specific works** where the position is stated
+2. **Attribute arguments, not beliefs**—say "the knowledge argument shows..." not "Jackson believes..."
+3. **Note when views have changed**—philosophers often revise positions; distinguish early and late views
+4. **Prefer the argument itself** over appeals to authority—the site's case should stand on reasoning, not on who agrees
+
+If you cannot cite a verifiable source for a claim about someone's views, reframe it as the argument itself rather than an attributed belief.
+
 ## LLM Optimization
 
 ### For Content Consumption
@@ -265,5 +287,6 @@ Before publishing, verify:
 - [ ] Article is self-contained (comprehensible without following links)
 - [ ] H2/H3 headers are descriptive and aid navigation
 - [ ] References section includes citations for factual claims
+- [ ] Attributed claims about philosophers' views are verifiable from cited sources
 - [ ] Length is appropriate (500-3000 words typically)
 - [ ] No tenet contradictions without explicit acknowledgment
