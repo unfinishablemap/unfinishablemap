@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T05:40:00+00:00
+ai_modified: 2026-01-19T05:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,17 +37,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research neural binding mechanisms for quantum entanglement hypothesis
-- **Type**: research-topic
-- **Notes**: The site posits quantum entanglement as a mechanism for phenomenal unity (phenomenal-unity.md, binding-problem.md). Research needed on: (1) Latest findings on neural binding (gamma oscillations, thalamocortical loops), (2) Whether quantum effects could explain binding better than classical mechanisms, (3) Experimental tests that could distinguish quantum from classical binding. Supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-20
-
 ### P2: Cross-review moral-responsibility.md with quantum indeterminacy systematization
 - **Type**: cross-review
 - **Notes**: New article concepts/quantum-indeterminacy-free-will.md provides systematic treatment of how quantum indeterminacy supports libertarian free will, addressing the luck objection and distinguishing agent-causal from event-causal approaches. The moral-responsibility.md concept page discusses how desert requires genuine authorship—integrating the quantum indeterminacy framework could strengthen the case that moral responsibility is metaphysically grounded, not merely pragmatic. Add cross-link.
 - **Source**: chain (from quantum-indeterminacy-free-will.md)
 - **Generated**: 2026-01-20
+
+### P2: Cross-review agent-causation.md with quantum indeterminacy systematization
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-indeterminacy-free-will.md systematizes how agent-causal metaphysics integrates with quantum mechanics—particularly the Kane/O'Connor/Lowe convergence and the quantum Zeno mechanism. The agent-causation.md concept page should reference this synthesis and potentially incorporate the "where explanation terminates" argument for agent causation as primitive. Add cross-link.
+- **Source**: chain (from quantum-indeterminacy-free-will.md)
+- **Generated**: 2026-01-19
+
+### P2: Write concept page on psychophysical laws (Chalmers framework)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/chalmers-psychophysical-laws-2026-01-17.md. Chalmers' framework for fundamental psychophysical laws is referenced in psychophysical-coupling-law.md but deserves fuller treatment. Should explain naturalistic dualism, the difference between supervenience laws and causal laws, and how the site's framework differs (interactionist vs Chalmers' epiphenomenalist tendency). Supports understanding of the theoretical landscape around the site's position.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
@@ -86,6 +92,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Research neural binding mechanisms for quantum entanglement hypothesis
+- **Type**: research-topic
+- **Notes**: The site posits quantum entanglement as a mechanism for phenomenal unity (phenomenal-unity.md, binding-problem.md). Research needed on: (1) Latest findings on neural binding (gamma oscillations, thalamocortical loops), (2) Whether quantum effects could explain binding better than classical mechanisms, (3) Experimental tests that could distinguish quantum from classical binding. Supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
+- **Result**: Comprehensive research covering classical binding mechanisms (gamma synchrony, thalamocortical loops, IIT) vs quantum alternatives (Orch OR, entanglement as binding agent). Found significant 2024-2025 experimental support: (1) Wiest epothilone study—microtubule stabilizer delays anesthesia by 69 seconds (Cohen's d=1.9); (2) Kerskens-Pérez MRI entanglement signatures correlating with consciousness; (3) Tegmark decoherence estimates revised by 7 orders of magnitude. Quantum entanglement uniquely provides ontological holism matching phenomenal unity's structure.
+- **Output**: Created `research/neural-binding-quantum-entanglement-2026-01-19.md`
 
 ### ✓ 2026-01-19: Cross-review luck-objection.md with quantum indeterminacy systematization
 - **Type**: cross-review
