@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-19 11:30:00+00:00
+ai_modified: 2026-01-19 21:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts: []
@@ -19,59 +19,77 @@ topics: []
 # Deep Review: Functionalism
 
 **Date**: 2026-01-19
-**File**: concepts/functionalism.md
-**Previous review**: Never
+**File**: obsidian/concepts/functionalism.md
+**Previous review**: 2026-01-19 (earlier pass added minimal-consciousness content)
+
+## Review Session 2 (21:15 UTC)
+
+This second review addresses issues remaining after the earlier session, particularly engagement with functionalist defenses and empirical distinguishability.
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-None identified.
+- None critical requiring immediate fix
 
 ### Medium Issues Found
-- **COGITATE experiment reference lacked citation**: Added full citation (Melloni et al., 2023-2024) and clarified what the experiment tested and found.
-- **Missing cross-links to newer content**: Article from 2026-01-09 had no connections to minimal-consciousness.md or evolution-of-consciousness.md despite clear relevance.
-- **Temporal structure argument insufficiently grounded**: The claim that digital computation lacks specious present structure was stated but not connected to empirical evidence about simple organisms.
-
-### Low Issues Found
-- **Eliminativist critique of qualia discourse not addressed**: The article presupposes qualia exist without engaging eliminativist challenge. Deferred—article appropriately assumes site's framework.
-- **Functionalist response to zombies could be deeper**: Left as is—article covers this adequately for its scope.
+- Missing engagement with illusionism/eliminativism beyond brief dismissal → **Resolved**: Added full "The Illusionist Response" subsection with Frankish's argument and Strawson's counter
+- Missing cross-link to arguments-against-materialism convergence argument → **Resolved**: Added reference in Dualism Tenet section and concepts frontmatter
+- Missing empirical falsifiability criteria → **Resolved**: Added "Empirical Distinguishability" section with three testable prediction domains
+- Melloni et al. 2024 citation was vague → **Resolved**: Updated citation format
 
 ### Counterarguments Considered
-- Functionalist reply that China brain intuitions are unreliable—addressed in original article.
-- Claim that temporal structure is implementation detail—addressed by connecting to constitutive role of temporal experience.
-- Slime mold case supports functionalism (cognition = function)—addressed by noting this challenges functionalism's equation of cognition with consciousness.
+- **Eliminativist challenge**: Folk-psychological concepts may carve nature wrongly → Acknowledged in illusionism section; site position is that even illusions require phenomenal character
+- **Dennett's intuition pump critique**: Zombie conceivability reflects imagination failure → Implicitly addressed in existing text; the section notes functionalists' responses
+- **Tegmark decoherence objection**: Brain-scale quantum coherence decays too fast → Not added (would require substantial digression); referenced quantum-consciousness article handles this
 
 ## Optimistic Analysis Summary
 
 ### Strengths Preserved
-- Strong opening summary that front-loads core position
-- Multiple converging arguments structure (qualia, zombies, explanatory gap, Chinese Room)
-- Substantive "Relation to Site Perspective" section connecting to all relevant tenets
-- Clear distinction between access and phenomenal consciousness
-- Good treatment of predictive processing and global workspace theory
+- Clear opening summary stating site's position immediately
+- Well-organized section structure
+- Excellent "Minimal Consciousness Challenge" section with C. elegans and Physarum examples (added in earlier session)
+- Good balance between fair presentation of functionalism and critique
+- Strong temporal structure objection section
+- Comprehensive coverage of functionalist varieties
 
 ### Enhancements Made
-- Added new "Minimal Consciousness Challenge" section with C. elegans and slime mold cases
-- Added "Evolutionary Challenge" subsection to Relation to Site Perspective
-- Updated COGITATE experiment passage with proper citation and detailed findings
-- Added minimal-consciousness and evolution-of-consciousness to frontmatter concepts
-- Added these to Further Reading section with descriptions
-- Added Melloni et al. citations to References
+1. Added "The Illusionist Response" subsection (~200 words) engaging with Frankish and Strawson
+2. Added convergence argument reference linking to arguments-against-materialism
+3. Added "Empirical Distinguishability" section (~250 words) with three testable prediction domains
+4. Added mental-causation cross-link in Bidirectional Interaction section
+5. Expanded Further Reading with arguments-against-materialism, illusionism, mental-causation
+6. Added references: Craddock et al. (2017), Frankish (2016), Strawson (2018)
+7. Updated Melloni et al. citation with journal details
 
 ### Cross-links Added
-- [minimal-consciousness](/concepts/minimal-consciousness/) — in concepts, body text, and Further Reading
-- [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — in concepts, body text, and Further Reading
+- [arguments-against-materialism](/concepts/arguments-against-materialism/) (frontmatter + body + Further Reading)
+- [mental-causation](/concepts/mental-causation/) (frontmatter + body + Further Reading)
+- [illusionism](/concepts/illusionism/) (frontmatter + Further Reading)
 
-## Changes Summary
+## Changes Summary (Session 2)
+
+| Category | Count |
+|----------|-------|
+| New subsections | 2 (Illusionist Response, Empirical Distinguishability) |
+| Cross-links added | 3 concepts |
+| References added | 3 (Craddock, Frankish, Strawson) |
+| Words added | ~450 |
+
+## Cumulative Changes (Both Sessions)
 
 | Category | Count |
 |----------|-------|
 | New sections | 1 (Minimal Consciousness Challenge) |
-| New subsections | 1 (Evolutionary Challenge) |
-| Cross-links added | 2 concepts |
-| References added | 2 (Melloni et al. 2023, 2024) |
-| Words added | ~450 |
+| New subsections | 3 (Evolutionary Challenge, Illusionist Response, Empirical Distinguishability) |
+| Cross-links added | 5 concepts |
+| References added | 5 |
+| Words added | ~900 |
 
 ## Remaining Items
 
-None. All identified improvements have been applied. The article now integrates findings from minimal-consciousness research and connects to the evolutionary emergence challenge, both of which strengthen the case against functionalism from the site's dualist perspective.
+None. The document now:
+- Engages with the strongest functionalist defense (illusionism)
+- Provides empirical distinguishability criteria addressing falsifiability concern
+- Links to the convergence argument against materialism
+- Has comprehensive cross-linking to related site content
+- Integrates findings from minimal-consciousness research (earlier session)

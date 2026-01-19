@@ -56,19 +56,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review panpsychism.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-08, no deep review since creation. Core alternative to site's dualist position. Check for cross-links to combination-problem.md, minimal-consciousness.md (boundary cases), and russellian-monism.md. Ensure Goff's and Strawson's arguments are fairly represented alongside site's critique.
-- **Source**: staleness
-- **Generated**: 2026-01-19
-
 ### P2: Deep review higher-order-theories.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-14, no deep review since creation. Important competitor theory to site's approach. Check for cross-links to phenomenal-concepts-strategy.md, metacognition.md, and global-workspace-theory.md. Ensure Rosenthal's HOT and Lau's empirical work are current.
 - **Source**: staleness
 - **Generated**: 2026-01-19
 
+### P2: Deep review global-workspace-theory.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-14, no deep review since creation. Major competitor theory—Baars/Dehaene framework. Check for cross-links to attention.md, binding-problem.md, higher-order-theories.md. Ensure COGITATE experiment results (Melloni et al. 2023-2024) and Dehaene's ignition theory are current.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review panpsychism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-08, no deep review since creation. Core alternative to site's dualist position. Check for cross-links to combination-problem.md, minimal-consciousness.md (boundary cases), and russellian-monism.md. Ensure Goff's and Strawson's arguments are fairly represented alongside site's critique.
+- **Result**: Added Whitehead process philosophy section (actual occasions, prehension). Added "Can Panpsychism Be Tested?" section covering falsifiability, IIT testability, UAL markers, and cognitive closure. Added buddhism-and-dualism and mysterianism cross-links. Added Whitehead (1929), Seager (1995), Nagel (2012) references.
+- **Output**: Updated `concepts/panpsychism.md`, created `reviews/deep-review-2026-01-20-panpsychism.md`
 
 ### ✓ 2026-01-19: Deep review functionalism.md for currency and cross-links
 - **Type**: deep-review
