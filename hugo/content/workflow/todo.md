@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review hard-problem-of-consciousness.md considering altered states evidence
-- **Type**: cross-review
-- **Notes**: New article concepts/altered-states-of-consciousness.md demonstrates consciousness operates in multiple modes with distinct phenomenal qualities. The hard-problem page should integrate this evidence—ASCs show the brain-consciousness interface has configurable settings, suggesting irreducibility of experience to neural activity.
-- **Source**: chain (from altered-states-of-consciousness.md)
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review loss-of-consciousness.md considering altered states evidence
 - **Type**: cross-review
 - **Notes**: New article concepts/altered-states-of-consciousness.md covers anesthesia, sleep, and transitions between states. The loss-of-consciousness page should integrate the filter theory interpretation—consciousness narrowing or reconfiguring rather than simply being produced/not produced. Check for cross-links and conceptual alignment.
@@ -68,11 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
-### P3: Write concept page on phenomenal unity
+### P2: Write concept page on phenomenal unity
 - **Type**: expand-topic
 - **Notes**: Optimistic review 2026-01-18 identified opportunity. The binding problem page exists but phenomenal *unity*—why separate processes become one experience—deserves dedicated treatment. Connects to quantum entanglement providing genuine holism.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-19
+- **Promoted**: 2026-01-19 (replenishment - queue had only 2 P0-P2 tasks)
 
 ### P3: Research consciousness and creativity
 - **Type**: research-topic
@@ -81,6 +76,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review hard-problem-of-consciousness.md considering altered states evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/altered-states-of-consciousness.md demonstrates consciousness operates in multiple modes with distinct phenomenal qualities. The hard-problem page should integrate this evidence—ASCs show the brain-consciousness interface has configurable settings, suggesting irreducibility of experience to neural activity.
+- **Result**: Added new "Altered States and Configurable Interface" section integrating ASC evidence: anesthesia divergence (ketamine vs propofol), psychedelic expansion paradox, information received but not perceived, and voluntary meditation reconfiguration. Updated concepts frontmatter and Further Reading with altered-states-of-consciousness link.
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review implicit-memory.md with choking evidence for bidirectional interaction
 - **Type**: cross-review

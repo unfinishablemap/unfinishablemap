@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T13:30:00+00:00
+ai_modified: 2026-01-19T00:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review hard-problem-of-consciousness.md considering altered states evidence
-- **Type**: cross-review
-- **Notes**: New article concepts/altered-states-of-consciousness.md demonstrates consciousness operates in multiple modes with distinct phenomenal qualities. The hard-problem page should integrate this evidence—ASCs show the brain-consciousness interface has configurable settings, suggesting irreducibility of experience to neural activity.
-- **Source**: chain (from altered-states-of-consciousness.md)
-- **Generated**: 2026-01-19
 
 ### P2: Cross-review loss-of-consciousness.md considering altered states evidence
 - **Type**: cross-review
@@ -81,6 +75,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review hard-problem-of-consciousness.md considering altered states evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/altered-states-of-consciousness.md demonstrates consciousness operates in multiple modes with distinct phenomenal qualities. The hard-problem page should integrate this evidence—ASCs show the brain-consciousness interface has configurable settings, suggesting irreducibility of experience to neural activity.
+- **Result**: Added new "Altered States and Configurable Interface" section integrating ASC evidence: anesthesia divergence (ketamine vs propofol), psychedelic expansion paradox, information received but not perceived, and voluntary meditation reconfiguration. Updated concepts frontmatter and Further Reading with altered-states-of-consciousness link.
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review implicit-memory.md with choking evidence for bidirectional interaction
 - **Type**: cross-review

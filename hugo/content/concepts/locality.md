@@ -1,16 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-07 21:00:00+00:00
+ai_modified: 2026-01-19 13:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[simulation]]'
+- '[[interactionist-dualism]]'
+- '[[quantum-consciousness]]'
+- '[[interface-locality]]'
+- '[[brain-specialness]]'
+- '[[pairing-problem]]'
+- '[[binding-problem]]'
 created: 2026-01-07
-date: &id001 2026-01-07
+date: &id001 2026-01-19
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-19 13:45:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-selecting-neural-patterns]]'
@@ -19,9 +26,9 @@ title: Locality and Mind-Matter Interaction
 topics: []
 ---
 
-The locality problem asks: if consciousness influences quantum events in the brain, where exactly does this happen? This seems to require consciousness to have spatial properties, coordinating across potentially billions of sites. The objection appears strong—until we consider what the universe already accomplishes, what dualism actually implies about the "mind side," and what computational contexts reveal about interaction.
+The locality problem asks: if consciousness influences quantum events in the brain, where exactly does this happen? This seems to require consciousness to have spatial properties, coordinating across potentially billions of sites. The objection appears strong—until we consider what the universe already accomplishes, what [dualism](/archive/arguments/interactionist-dualism/) actually implies about the "mind side," and what computational contexts reveal about interaction.
 
-The concern rests on unstated assumptions about how non-physical causation must work. Examining these assumptions dissolves much of the apparent difficulty.
+The concern rests on unstated assumptions about how non-physical causation must work. Examining these assumptions dissolves much of the apparent difficulty. For the more specific question of why consciousness acts on *this* brain rather than others, see [interface-locality](/concepts/interface-locality/); for what makes brains suitable interfaces at all, see [brain-specialness](/concepts/brain-specialness/).
 
 ## The Objection Stated
 
@@ -49,11 +56,13 @@ If universal physical law can coordinate behaviour across 10^26 metres with zero
 
 ## Response 2: The Mind Side Need Not Be Simple
 
-The locality objection often assumes that the "mind" in dualism must be a simple, point-like thing—a soul that somehow lacks the resources to engage with complex spatial structure. But nothing in dualism requires this.
+The locality objection often assumes that the "mind" in dualism must be a simple, point-like thing—a soul that somehow lacks the resources to engage with complex spatial structure. But nothing in dualism requires this. This assumption underlies the [pairing problem](/concepts/pairing-problem/)—the challenge of explaining what connects *this* mind to *this* body—yet it's an assumption, not a logical necessity.
 
 If physical reality has billions of interacting particles, immensely complex chemistry, and intricate spatial structure, why should the non-physical be simpler? The assumption that mind must be a featureless point reflects an impoverished imagination about what dualism permits.
 
 Consider: if consciousness is not reducible to physics, it may have its own structure—perhaps *more* complex than physical structure, not less. The experienced richness of consciousness already hints at this. A single moment of visual experience contains more differentiated content than any physical description captures.
+
+The [brain specialness](/concepts/brain-specialness/) article develops this further: neural systems may be suitable interfaces precisely because they have the right kind of complexity—representational structure, feedback integration, quantum sensitivity—to engage with a complex mind. The mind-brain pairing isn't arbitrary; it reflects structural correspondence between the non-physical and physical domains.
 
 The mind side of dualism could include:
 - Structure sufficient to engage with distributed physical events
@@ -78,9 +87,11 @@ This doesn't require believing we *are* simulated. It reveals that the locality 
 
 ## The Binding Problem Comparison
 
-The binding problem asks how distributed neural activity produces unified experience. Critics sometimes argue that quantum selection makes this harder—now we need to unify distributed *selections* as well as distributed activity.
+The [binding problem](/concepts/binding-problem/) asks how distributed neural activity produces unified experience. Critics sometimes argue that [quantum selection](/concepts/quantum-consciousness/) makes this harder—now we need to unify distributed *selections* as well as distributed activity.
 
 But the same point applies: the mind side of dualism can have whatever structure it needs. If consciousness is unified (as it phenomenologically appears), then it may engage with distributed physical events *as* a unified process. The puzzle of how distributed physics yields unified experience is the hard problem—it exists regardless of whether quantum selection occurs.
+
+Indeed, quantum entanglement may *help* with binding rather than hinder it. If neural quantum events are entangled, they constitute a single holistic state rather than billions of independent decisions. The quantum framework doesn't merely tolerate coordination—it provides a natural mechanism for it.
 
 Quantum selection doesn't make binding harder; binding is already hard. The question is whether we have any reason to think quantum selection is *additionally* problematic. Given the responses above, we don't.
 
@@ -96,16 +107,21 @@ The responses here don't *prove* that consciousness coordinates quantum events a
 
 3. **The objection is metaphysics-dependent.** Under simulation or computational hypotheses, locality simply isn't a constraint.
 
-The bidirectional interaction tenet survives the locality challenge. It faces other challenges (decoherence, mechanism details), but spatial coordination is not an additional barrier.
+The bidirectional interaction tenet survives the locality challenge. It faces other challenges ([decoherence](/concepts/decoherence/), mechanism details), but spatial coordination is not an additional barrier.
 
 ## Further Reading
 
+- [interface-locality](/concepts/interface-locality/) — Why consciousness acts on *this* brain specifically
+- [brain-specialness](/concepts/brain-specialness/) — What makes neural systems suitable interfaces
+- [pairing-problem](/concepts/pairing-problem/) — Kim's challenge about mind-body connection
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The broader question of whether quantum selection is coherent
 - [simulation](/concepts/simulation/) — How computational framings dissolve locality concerns
+- [binding-problem](/concepts/binding-problem/) — How distributed activity yields unified experience
 - [tenets](/tenets/) — The foundational commitments these concepts serve
 
 ## References
 
 - Chalmers, D. (2022). *Reality+: Virtual Worlds and the Problems of Philosophy*. W.W. Norton.
-- Stapp, H. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+- Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press. [Develops the pairing problem objection to substance dualism]
 - Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
+- Stapp, H. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
