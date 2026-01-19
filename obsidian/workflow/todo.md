@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T00:10:00+00:00
+ai_modified: 2026-01-19T14:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,16 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write concept page on reductionism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/reductionism-consciousness-philosophy-2026-01-19.md. Foundational concept for understanding site's anti-reductionist stance. Should distinguish ontological vs methodological reductionism, explain why consciousness resists reduction (explanatory gap, multiple realizability, hard problem), and connect to emergence.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
-
-### P3: Write concept page on emergentism
+### P2: Write concept page on emergentism
 - **Type**: expand-topic
 - **Notes**: Referenced 5 times (causal-closure.md, downward-causation.md, emergence.md, etc.) but no dedicated page. Key alternative to both strict physicalism and dualism. Should explain strong vs weak emergence, non-reductive physicalism, and why emergentism doesn't solve the hard problem (it labels rather than explains).
 - **Source**: gap_analysis
+- **Generated**: 2026-01-19
+
+### P2: Cross-review eastern-philosophy-consciousness.md with witness-consciousness expansion
+- **Type**: cross-review
+- **Notes**: The witness-consciousness.md expansion added substantial new content on decentering, Metzinger's MPE, and vipassana neural correlates. Eastern-philosophy-consciousness.md covers Buddhist and Hindu approaches and may benefit from integrating these findings—particularly the distinction between phenomenal witness structure and metaphysical claims about eternal self.
+- **Source**: chain (from witness-consciousness.md)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review functionalism.md with substrate-independence-critique insights
+- **Type**: cross-review
+- **Notes**: New article concepts/substrate-independence-critique.md presents systematic case against substrate independence: absent qualia, temporal structure, quantum interface. The functionalism.md page defends functionalism and should be reviewed for balance—add cross-link and consider whether counterarguments need strengthening or acknowledgment.
+- **Source**: chain (from substrate-independence-critique.md)
 - **Generated**: 2026-01-19
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -68,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Write concept page on reductionism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/reductionism-consciousness-philosophy-2026-01-19.md. Foundational concept for understanding site's anti-reductionist stance. Should distinguish ontological vs methodological reductionism, explain why consciousness resists reduction (explanatory gap, multiple realizability, hard problem), and connect to emergence.md.
+- **Result**: Created ~1800 word concept page covering three types of reductionism (ontological, methodological, epistemic), the explanatory gap, the hard problem, multiple realizability, and Kim's exclusion argument. Connected to site's quantum mechanism for non-reductive causation. Added cross-references to materialism.md, downward-causation.md, emergence.md.
+- **Output**: Created `concepts/reductionism.md`
 
 ### ✓ 2026-01-19: Research reductionism and consciousness
 - **Type**: research-topic

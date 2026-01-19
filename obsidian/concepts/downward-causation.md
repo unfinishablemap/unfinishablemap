@@ -3,12 +3,13 @@ title: "Downward Causation"
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-18T12:00:00+00:00
+ai_modified: 2026-01-19T14:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
 concepts:
+  - "[[reductionism]]"
   - "[[mental-causation]]"
   - "[[causal-closure]]"
   - "[[emergence]]"
