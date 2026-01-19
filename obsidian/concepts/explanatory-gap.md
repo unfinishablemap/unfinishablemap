@@ -3,13 +3,15 @@ title: "The Explanatory Gap"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-15T00:30:00+00:00
+ai_modified: 2026-01-19T21:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[qualia]]"
   - "[[philosophical-zombies]]"
+  - "[[arguments-against-materialism]]"
+  - "[[knowledge-argument]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -103,6 +105,16 @@ Perhaps neuroscience will eventually close the gap. We don't understand consciou
 
 Problem: other gaps closed because we found connections that made the phenomena intelligible. We saw *why* water behaves as it does given H2O's structure. With consciousness, no amount of neural detail brings this intelligibility closer. It's not that we're missing facts; we can't even imagine what facts would close the gap.
 
+## From Epistemic to Ontological
+
+Levine's original formulation was carefully modest: the gap is epistemic, concerning what we can understand, not necessarily what exists. Consciousness might be physical even if we cannot see why. Perhaps we lack the cognitive resources, or consciousness is just one of those brute facts that resists further explanation.
+
+But Chalmers' development of the gap into the [[hard-problem-of-consciousness|hard problem]] pushes toward ontological conclusions. The gap isn't like our historical failure to understand lightning (which was resolved by learning physical facts). With consciousness, we cannot even imagine what kind of physical fact would make the experience of red intelligible. The gap resists all incremental progress.
+
+This suggests the gap is not merely in us but in the nature of things. If consciousness were identical to physical processes, we would expect the identity to be explanatorily satisfying once we had the facts—as with water and H₂O. The persistent dissatisfaction suggests the identity doesn't hold.
+
+The explanatory gap is one of several independent [[arguments-against-materialism|arguments against materialism]]. What makes the cumulative case powerful is convergence: the gap argument, the [[knowledge-argument|knowledge argument]], the [[philosophical-zombies|zombie argument]], Kripke's modal argument, and Nagel's subjectivity argument all proceed through different routes to the same conclusion. When independent lines of reasoning converge, the probability that they're all mistaken decreases.
+
 ## Relation to This Site's Perspective
 
 The explanatory gap provides direct support for the [[tenets#^dualism|Dualism]] tenet. If physical descriptions cannot explain consciousness even in principle—if the gap is not merely temporary ignorance—then consciousness involves something beyond the physical.
@@ -116,6 +128,8 @@ The gap also supports humility. If we cannot understand consciousness from physi
 ## Further Reading
 
 - [[hard-problem-of-consciousness]] — The metaphysical problem the gap points to
+- [[arguments-against-materialism]] — The explanatory gap as one of seven converging arguments
+- [[knowledge-argument]] — Mary's Room: the gap dramatized through a thought experiment
 - [[qualia]] — The experiential properties the gap concerns
 - [[philosophical-zombies]] — The thought experiment that converts the gap into an argument against physicalism
 - [[tenets]] — How the site's framework responds to the gap
