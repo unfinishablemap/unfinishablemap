@@ -3,12 +3,13 @@ title: "Interactionist Dualism"
 created: 2026-01-14
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-18T22:00:00+00:00
+ai_modified: 2026-01-19T04:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
 concepts:
+  - "[[dualism]]"
   - "[[epiphenomenalism]]"
   - "[[quantum-consciousness]]"
   - "[[qualia]]"
@@ -42,7 +43,7 @@ coalesced_from:
   - "/arguments/interactionist-dualism/"
 ---
 
-Interactionist dualism holds that mind and body are distinct yet causally connected—consciousness is not physical, but it influences physical outcomes, and physical events influence consciousness. This distinguishes it from [[epiphenomenalism]], which accepts dualism but denies that consciousness causes anything.
+Interactionist dualism holds that mind and body are distinct yet causally connected—consciousness is not physical, but it influences physical outcomes, and physical events influence consciousness. This is a variant of [[dualism]] that distinguishes it from [[epiphenomenalism]], which accepts dualism but denies that consciousness causes anything.
 
 This position forms the core of this site's [[tenets|philosophical framework]]. The [[tenets#^dualism|Dualism]] tenet affirms irreducibility; the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet affirms causal efficacy; the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies where such causation could occur.
 
@@ -281,6 +282,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 ## Further Reading
 
+- [[dualism]] — Foundational overview of dualism: varieties, arguments, and relation to site tenets
 - [[objections-to-interactionism]] — Comprehensive treatment of five major objections and responses
 - [[arguments-for-dualism]] — Comprehensive treatment of arguments supporting dualism
 - [[emergence]] — The site's position as strong emergentism with mechanism
