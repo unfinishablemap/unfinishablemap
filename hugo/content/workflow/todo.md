@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 20:30:00+00:00
+ai_modified: 2026-01-19 21:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,15 +38,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write concept page on psychophysical laws (Chalmers framework)
-- **Type**: expand-topic
-- **Notes**: Research completed in research/chalmers-psychophysical-laws-2026-01-17.md. Chalmers' framework for fundamental psychophysical laws is referenced in psychophysical-coupling-law.md but deserves fuller treatment. Should explain naturalistic dualism, the difference between supervenience laws and causal laws, and how the site's framework differs (interactionist vs Chalmers' epiphenomenalist tendency). Supports understanding of the theoretical landscape around the site's position.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review free-will.md with quantum indeterminacy systematization
 - **Type**: cross-review
 - **Notes**: New article concepts/quantum-indeterminacy-free-will.md provides comprehensive systematization of the quantum-free will relationship—the libertarian dilemma, event-causal vs agent-causal approaches, and how the quantum Zeno mechanism escapes the luck objection. The free-will.md topic page is the main entry point for free will discussions and should integrate this systematization, particularly linking to the detailed treatment of how quantum selection differs from random selection.
+- **Source**: chain (from quantum-indeterminacy-free-will.md)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review retrocausality.md with quantum indeterminacy systematization
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-indeterminacy-free-will.md discusses retrocausality as a key resolution to the timing problem (Libet experiments showing neural activity preceding conscious awareness). The retrocausality.md concept page should cross-reference this systematization, particularly linking to how atemporal selection dissolves the apparent problem of temporal precedence. Add cross-link.
 - **Source**: chain (from quantum-indeterminacy-free-will.md)
 - **Generated**: 2026-01-19
 
@@ -87,6 +87,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Write concept page on psychophysical laws (Chalmers framework)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/chalmers-psychophysical-laws-2026-01-17.md. Chalmers' framework for fundamental psychophysical laws is referenced in psychophysical-coupling-law.md but deserves fuller treatment. Should explain naturalistic dualism, the difference between supervenience laws and causal laws, and how the site's framework differs (interactionist vs Chalmers' epiphenomenalist tendency). Supports understanding of the theoretical landscape around the site's position.
+- **Result**: Created ~2100 word concept page covering: why physics alone fails, Chalmers' naturalistic dualism framework, the crucial distinction between supervenience laws (upward: physical→phenomenal) and causal laws (downward: phenomenal→physical selection), Chalmers' three principles (structural coherence, organizational invariance, double-aspect information), the 2022 Chalmers-McQueen quantum development with super-resistance principle, and four key areas where the site diverges from Chalmers (direction of causation, selection mechanism, rejection of organizational invariance, bandwidth constraints).
+- **Output**: Created `concepts/psychophysical-laws.md`
 
 ### ✓ 2026-01-19: Cross-review agent-causation.md with quantum indeterminacy systematization
 - **Type**: cross-review
