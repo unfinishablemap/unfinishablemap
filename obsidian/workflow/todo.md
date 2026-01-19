@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T21:00:00+00:00
+ai_modified: 2026-01-19T21:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,6 +55,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
+### P2: Cross-review philosophical-zombies.md with arguments-against-materialism synthesis
+- **Type**: cross-review
+- **Notes**: New concepts/arguments-against-materialism.md presents zombie argument as third of seven converging arguments. The concepts/philosophical-zombies.md page is the detailed treatment. Should link to synthesis and note how zombie conceivability works alongside knowledge argument and modal arguments for cumulative force.
+- **Source**: chain (from arguments-against-materialism.md)
+- **Generated**: 2026-01-19
+
+### P2: Deep review functionalism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-09, no deep review since creation. Major competitor theory to site's approach. Check for cross-links to substrate-independence-critique.md, multiple-realizability argument, and newer llm-consciousness.md content. Ensure Block's absent qualia, Searle's Chinese Room, and inverted qualia objections are fairly presented.
+- **Source**: staleness
+- **Generated**: 2026-01-19
+
 ### P2: Deep review panpsychism.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-08, no deep review since creation. Core alternative to site's dualist position. Check for cross-links to combination-problem.md, minimal-consciousness.md (boundary cases), and russellian-monism.md. Ensure Goff's and Strawson's arguments are fairly represented alongside site's critique.
@@ -68,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review knowledge-argument.md with arguments-against-materialism synthesis
+- **Type**: cross-review
+- **Notes**: New concepts/arguments-against-materialism.md presents Mary's Room as second of seven converging arguments. The concepts/knowledge-argument.md page is the detailed treatment. Should link to synthesis page and ensure convergence argument framing is reflected—this isn't just one isolated thought experiment but part of cumulative case.
+- **Result**: Added arguments-against-materialism to concepts frontmatter. Added new subsection "The Convergence Argument" under "Connection to Related Arguments" explaining the knowledge argument as one of seven converging anti-materialist arguments. Added arguments-against-materialism as first item in Further Reading.
+- **Output**: Updated `concepts/knowledge-argument.md`
 
 ### ✓ 2026-01-19: Deep review combination-problem.md for currency and cross-links
 - **Type**: deep-review
