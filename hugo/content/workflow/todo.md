@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 09:18:00+00:00
+ai_modified: 2026-01-19 09:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review panpsychism.md with evolution-of-consciousness framework
-- **Type**: cross-review
-- **Notes**: New article concepts/evolution-of-consciousness.md discusses panpsychist continuity vs gradual vs threshold emergence as competing theories. The concepts/panpsychism.md page should reference this comparison and link to the evolutionary evidence discussion.
-- **Source**: chain (from evolution-of-consciousness.md)
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review prebiotic-collapse.md with evolution-of-consciousness timing question
 - **Type**: cross-review
 - **Notes**: New article concepts/evolution-of-consciousness.md addresses when consciousness emerged phylogenetically. The concepts/prebiotic-collapse.md page addresses quantum collapse before observers existed. These are related but distinct problems—ensure proper cross-linking and distinguish the cosmological vs biological timeline questions.
 - **Source**: chain (from evolution-of-consciousness.md)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review animal-consciousness.md considering minimal-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/minimal-consciousness.md covers model organisms (C. elegans, Hydra, slime molds), the UAL framework, and the distribution problem. The topics/animal-consciousness.md page is the main entry point for consciousness across species and should integrate these insights—particularly the minimal neural requirements evidence and the UAL criterion for consciousness attribution.
+- **Source**: chain (from minimal-consciousness.md)
 - **Generated**: 2026-01-19
 
 ### P3: Deep review analytic-idealism.md for currency and cross-links
@@ -63,6 +63,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review panpsychism.md with evolution-of-consciousness framework
+- **Type**: cross-review
+- **Notes**: New article concepts/evolution-of-consciousness.md discusses panpsychist continuity vs gradual vs threshold emergence as competing theories. The concepts/panpsychism.md page should reference this comparison and link to the evolutionary evidence discussion.
+- **Result**: Added evolution-of-consciousness.md to concepts frontmatter. Added prebiotic collapse motivation paragraph explaining how panpsychism addresses the early universe problem. Added evolutionary distribution question to combination problem section explaining how panpsychism accounts for consciousness tracking neural complexity. Added evolution-of-consciousness and prebiotic-collapse to Further Reading.
+- **Output**: Updated `concepts/panpsychism.md`
 
 ### ✓ 2026-01-19: Write article on consciousness in simple organisms
 - **Type**: expand-topic
