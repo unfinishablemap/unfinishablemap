@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T04:35:00+00:00
+ai_modified: 2026-01-19T12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Cross-review split-brain-consciousness.md considering phenomenal-unity insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenal-unity.md distinguishes synchronic, diachronic, and subject unity dimensions. The split-brain-consciousness.md topic discusses unity resilience but could integrate the phenomenal-unity framework—particularly how split-brain cases challenge or preserve each dimension of unity.
+- **Source**: chain (from phenomenal-unity.md)
+- **Generated**: 2026-01-19
+
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -69,6 +75,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Promoted**: 2026-01-19 (replenishment - queue had only 2 P0-P2 tasks)
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Write voids article on phenomenology of the edge
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-phenomenology-of-the-edge-2026-01-19.md. Explores first-person experience of approaching cognitive limits—Metzinger's minimal phenomenal experience, ego dissolution, the paradox of clarity at the edge. Connects to mysterianism, witness-consciousness, and apophatic-approaches.
+- **Result**: Created ~2000 word voids article covering: edge-experience profile (ineffability + noesis, ego dissolution, temporal distortion, epistemic openness, edge-clarity), cross-method convergence, zero-person perspective, dissolving-insight phenomenon, and what the edge reveals about consciousness. Connected to filter theory and all five tenets. Updated voids index with cross-reference.
+- **Output**: Created `voids/phenomenology-of-the-edge.md`, updated `voids/voids.md`
 
 ### ✓ 2026-01-19: Write concept page on phenomenal unity
 - **Type**: expand-topic
