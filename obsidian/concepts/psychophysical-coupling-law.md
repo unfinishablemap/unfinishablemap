@@ -3,12 +3,13 @@ title: "The Psychophysical Coupling Law"
 created: 2026-01-16
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-17T18:30:00+00:00
+ai_modified: 2026-01-19T21:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
 concepts:
+  - "[[psychophysical-laws]]"
   - "[[quantum-consciousness]]"
   - "[[consciousness-selecting-neural-patterns]]"
   - "[[mental-causation]]"
@@ -46,7 +47,7 @@ Without answers to these questions, "consciousness selects" is promissory—a pl
 
 ## Chalmers' Framework for Psychophysical Laws
 
-Chalmers proposes that consciousness is ontologically fundamental, requiring psychophysical laws to bridge phenomenal and physical domains. Just as physics has fundamental laws relating mass, charge, and spacetime, a complete theory requires psychophysical laws relating phenomenal and physical properties.
+David Chalmers developed the most influential framework for [[psychophysical-laws]], arguing that consciousness is ontologically fundamental and requires new laws to bridge phenomenal and physical domains. His "naturalistic dualism" accepts that consciousness is irreducible to physics while maintaining that mental and physical states relate lawfully—no Cartesian soul violating physical laws, just additional fundamental principles that complete our picture of nature. (See the [[psychophysical-laws|foundational article]] for the full framework, including why physics alone fails and the distinction between supervenience laws and causal laws.)
 
 ### The Three Principles
 
@@ -211,6 +212,7 @@ The site cannot resolve which coupling law is correct—this is an open empirica
 
 ## Further Reading
 
+- [[psychophysical-laws]] — Chalmers' foundational framework for psychophysical laws (supervenience vs causal laws, naturalistic dualism)
 - [[consciousness-selecting-neural-patterns]] — The mechanism the coupling law governs
 - [[quantum-consciousness]] — Major theories of quantum-consciousness interface
 - [[mental-effort]] — The phenomenology Stapp's mechanism requires
