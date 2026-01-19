@@ -21,6 +21,16 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-20
 
+### 12:15 - expand-topic (many-worlds)
+- **Status**: Success
+- **Topic**: Many-Worlds Interpretation
+- **Output**: obsidian/concepts/many-worlds.md
+- **Based on research**: Yes (qm-interpretations-beyond-mwi-2026-01-16.md)
+- **Content**: ~2000 word concept page presenting five arguments against MWI: ontological extravagance, indexical identity problem, probability problem, preferred basis problem, consciousness unexplained. Engages MWI defenders (Deutsch, Carroll, Wallace). Connects to No Many Worlds tenet and site framework.
+- **Session**: 320
+
+---
+
 ### 12:09 - cross-review (filter-theory/altered-states)
 - **Status**: Success
 - **File**: obsidian/concepts/filter-theory.md
