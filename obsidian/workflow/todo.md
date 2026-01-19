@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T16:00:00+00:00
+ai_modified: 2026-01-19T20:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -67,13 +67,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Expand attention-as-interface into comprehensive theory
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review. The attention-as-interface hypothesis is strong but could be developed further. What exactly makes attention the privileged interface? Are there other interfaces (emotion, volition)? Builds on attention-as-interface.md, quantum-consciousness.md, mental-effort.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-20
-- **Promoted**: 2026-01-19 (replenishment - key site framework)
-
 ### P2: Deep review combination-problem.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-15, no deep review since creation. Key critique of panpsychism relevant to site's position. Check for cross-links to minimal-consciousness.md (empirical cases), emergence.md, and phenomenal-unity.md. Ensure Chalmers' and Goff's responses are well-represented.
@@ -81,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Expand attention-as-interface into comprehensive theory
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The attention-as-interface hypothesis is strong but could be developed further. What exactly makes attention the privileged interface? Are there other interfaces (emotion, volition)? Builds on attention-as-interface.md, quantum-consciousness.md, mental-effort.md.
+- **Result**: Added two major new sections: "Why Attention Specifically?" (explaining temporal structure, domain-generality, phenomenological location of effort, willed vs automatic signatures) and "Other Candidate Interfaces" (analyzing emotion, volition, imagination, memory as potential interfaces, concluding they operate through attention). Developed unified interface view: attention is the sole interface deployed across multiple domains.
+- **Output**: Updated `concepts/attention-as-interface.md` (+142 lines)
 
 ### ✓ 2026-01-19: Deep review binding-problem.md for currency and cross-links
 - **Type**: deep-review

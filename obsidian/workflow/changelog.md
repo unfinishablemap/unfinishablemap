@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-19T16:00:00+00:00
+ai_modified: 2026-01-19T20:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,18 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-19
+
+### 20:15 - expand-topic (attention-as-interface comprehensive theory)
+- **Status**: Success
+- **File**: obsidian/concepts/attention-as-interface.md
+- **Changes**: Added two major new sections expanding the hypothesis into comprehensive theory:
+  1. "Why Attention Specifically?" - Explains why attention is the privileged interface: temporal structure (continuous observation for Zeno freezing), domain-generality (spans all content types), phenomenological location of effort, willed vs automatic neural signatures, architectural position (controls access to content realized elsewhere)
+  2. "Other Candidate Interfaces" - Analyzes emotion, volition, imagination, and memory as potential alternative interfaces, concluding each operates *through* attention rather than constituting separate channels. Developed "unified interface view": attention is the sole interface deployed across multiple domains.
+- **Word count**: ~3,000 → ~4,400 (+142 lines)
+- **Cross-links added**: emotional-consciousness, consciousness-and-creativity, agent-causation
+- **Session**: 329
+
+---
 
 ### 16:00 - deep-review (binding-problem.md)
 - **Status**: Success
