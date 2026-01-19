@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-19 06:00:00+00:00
+ai_modified: 2026-01-19 20:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[minimal-consciousness]]'
 - '[[binding-problem]]'
 - '[[qualia]]'
 - '[[quantum-consciousness]]'
@@ -145,6 +146,18 @@ General anesthesia disrupts phenomenal unity—there is no unified experience du
 
 These cases dissociate computational binding from phenomenal binding. The brain can coordinate and process without producing unified experience. Unity requires something beyond coordination—perhaps the quantum binding that anesthetics and deep sleep disrupt.
 
+### Simple Organisms: Testing the Limits of Unity
+
+Research on [organisms at consciousness boundaries](/concepts/minimal-consciousness/) offers natural experiments on whether unity is constitutive of experience or an additional feature that some conscious systems possess.
+
+**Hydra**: The freshwater Hydra has ~900 neurons arranged in a decentralized nerve net—no brain, no ganglia, no central processing. Multiple non-overlapping networks control different behaviors independently. If Hydra has any experience, is it unified? Or does Hydra's distributed architecture produce multiple micro-experiences without phenomenal unity? The Hydra case challenges whether unity requires centralized integration or whether experience can be as distributed as the underlying substrate.
+
+**C. elegans**: The nematode has exactly 302 neurons with completely mapped connectivity. Computational models show positive Phi (integrated information), suggesting some degree of integration. But C. elegans fails trace-conditioning paradigms—a hallmark of unlimited associative learning. If IIT equates consciousness with integration (Φ), the worm should have unified experience. If the UAL framework locates consciousness where unlimited learning emerges, the worm falls short. The tension reveals that integration and phenomenal unity may not perfectly track each other: a system can have measurable integration without demonstrating the behavioral signatures of unified consciousness.
+
+**Slime molds**: *Physarum polycephalum* solves mazes and optimizes networks without any neurons. If cognition can occur without neural substrates, can phenomenal unity? The slime mold case suggests that whatever produces unity, it is not merely information integration—slime molds integrate information across their cellular mass without the structures (microtubules, neurons) that quantum approaches identify with conscious unity.
+
+These boundary cases illuminate why phenomenal unity may require quantum mechanisms. Classical integration happens in Hydra's nerve net and slime mold networks, yet neither shows the behavioral markers of unified consciousness. If quantum entanglement provides genuine holism where classical coordination cannot, simple organisms that lack quantum-coherent neural structures would lack unity even while processing information—which appears to be exactly what we observe.
+
 ## Relation to Site Perspective
 
 Phenomenal unity illuminates why the site's [tenets](/tenets/) take the positions they do.
@@ -159,6 +172,7 @@ Phenomenal unity illuminates why the site's [tenets](/tenets/) take the position
 
 ## Further Reading
 
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Boundary cases testing unity in simple organisms
 - [binding-problem](/concepts/binding-problem/) — The neural challenge of feature binding
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-quantum interface
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's approach through integration

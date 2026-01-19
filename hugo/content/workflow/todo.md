@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write concept page on Buddhist perspectives and dualism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/buddhist-perspectives-meaning-2026-01-06.md. Eastern philosophy offers distinctive perspective on consciousness—no-self doctrine, dependent origination, streams of consciousness. Research identifies 5 article angles including Buddhism and the Hard Problem, No-Self vs Dualism reconciliation, and Eastern/Western responses to nihilism. Would strengthen eastern-philosophy-consciousness.md connections and provide alternative framework for consciousness discussions.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review mysterianism.md with minimal-consciousness findings
 - **Type**: cross-review
 - **Notes**: New article concepts/minimal-consciousness.md covers organisms at consciousness boundaries. The concepts/mysterianism.md page discusses cognitive closure—can we understand consciousness in systems far simpler than us? These boundary cases may inform whether the hard problem is a mystery or merely difficult.
@@ -75,6 +69,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Write concept page on Buddhist perspectives and dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/buddhist-perspectives-meaning-2026-01-06.md. Eastern philosophy offers distinctive perspective on consciousness—no-self doctrine, dependent origination, streams of consciousness. Research identifies 5 article angles including Buddhism and the Hard Problem, No-Self vs Dualism reconciliation, and Eastern/Western responses to nihilism. Would strengthen eastern-philosophy-consciousness.md connections and provide alternative framework for consciousness discussions.
+- **Result**: Created ~1800 word concept page exploring compatibility between Buddhist no-self doctrine and site's dualism tenet. Key insight: Buddhism denies permanent soul-substance (ātman) but not irreducibility of consciousness—compatible with property dualism. Covered: what Buddhism actually denies, what site's dualism requires, karma/bidirectional interaction parallel, Yogācāra and external world tension, comparative advantages of each framework.
+- **Output**: Created `concepts/buddhism-and-dualism.md`
 
 ### ✓ 2026-01-19: Cross-review hard-problem-of-consciousness.md with minimal-consciousness insights
 - **Type**: cross-review
