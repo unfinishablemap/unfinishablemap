@@ -1,9 +1,9 @@
 ---
 title: "The Binding Problem"
 created: 2026-01-14
-modified: 2026-01-18
+modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-18T23:00:00+00:00
+ai_modified: 2026-01-19T04:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,7 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[sleep-and-consciousness]]"
   - "[[filter-theory]]"
+  - "[[phenomenal-unity]]"
 related_articles:
   - "[[tenets]]"
   - "[[binding-problem-consciousness-2026-01-14]]"
@@ -248,6 +249,7 @@ The binding problem illuminates why the site's [[tenets]] take the positions the
 
 ## Further Reading
 
+- [[phenomenal-unity]] — Why experience is unified rather than fragmentary
 - [[quantum-consciousness]] — Mechanisms by which consciousness might interface with quantum physics
 - [[integrated-information-theory]] — IIT's approach to unity through integration
 - [[decoherence]] — Why quantum effects might persist in biological systems

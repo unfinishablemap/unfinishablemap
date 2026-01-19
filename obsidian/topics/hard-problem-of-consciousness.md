@@ -17,6 +17,7 @@ concepts:
   - "[[neural-correlates-of-consciousness]]"
   - "[[temporal-consciousness]]"
   - "[[binding-problem]]"
+  - "[[phenomenal-unity]]"
   - "[[intentionality]]"
   - "[[illusionism]]"
   - "[[predictive-processing]]"
