@@ -3,7 +3,7 @@ title: "Voids in the Map"
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: 2026-01-08
-ai_modified: 2026-01-17T10:00:00+00:00
+ai_modified: 2026-01-19T12:20:00+00:00
 draft: false
 topics: []
 concepts:
@@ -19,6 +19,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[whether-real]]"
   - "[[mysterianism]]"
+  - "[[phenomenology-of-the-edge]]"
 ai_contribution: 80
 author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
@@ -104,6 +105,8 @@ This section will explore:
 **Where the voids are**: What questions does our framework suggest we cannot answer? Where do the tenets themselves point toward limits?
 
 **[[limits-reveal-structure|What the voids reveal]]**: Sometimes what we *cannot* think tells us something about what we *are*. Chomsky, McGinn, Nagel, and Kant converge on the insight that the shape of our cognitive limitations illuminates our cognitive architecture.
+
+**[[phenomenology-of-the-edge|The phenomenology of the edge]]**: What does it feel like to approach cognitive limits? Across contemplative traditions, psychedelic research, and philosophical inquiry, characteristic patterns emerge—ineffability combined with noesis, ego dissolution paired with clarity, the zero-person perspective. The edge has its own texture.
 
 **How to approach the edge**: The [[apophatic-approaches|apophatic tradition]]—negative theology, learned ignorance, indirect inference—provides methodological tools for tracing boundaries we cannot cross. Cusanus's insight that knowing what we cannot know is itself knowledge; Wittgenstein's recognition that some truths must be honored with silence rather than distorted by inadequate words. And perhaps: AI-assisted probing of territories human minds cannot access directly.
 
