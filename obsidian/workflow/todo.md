@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review analytic-idealism.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-15, no deep review since creation. Check for cross-links to newer content (phenomenal-value-realism.md, interface-locality.md, multi-mind-collapse-problem.md) and currency of arguments. Analytic idealism (Kastrup) offers important contrast to site's interactionist dualism.
-- **Source**: staleness
-- **Generated**: 2026-01-18
-- **Promoted**: 2026-01-19 (replenishment - threshold)
-
 ### P3: Deep review apophatic-approaches.md for cross-linking
 - **Type**: deep-review
 - **Notes**: The voids article was created session 13 (now published). May benefit from enhanced cross-linking to newer content (mysterianism.md, limits-reveal-structure.md, whether-real.md).
@@ -76,6 +69,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review analytic-idealism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-15, no deep review since creation. Check for cross-links to newer content (phenomenal-value-realism.md, interface-locality.md, multi-mind-collapse-problem.md) and currency of arguments. Analytic idealism (Kastrup) offers important contrast to site's interactionist dualism.
+- **Result**: Added Buddhist/Madhyamaka section to historical roots. Added "The Interface Question" subsection with interface-locality and multi-mind-collapse-problem links. Added "The Witness Consciousness Connection" with filter-theory. Added "Can the Debate Be Empirically Resolved?" section. Enhanced "Meaning and Value" with phenomenal-value-realism. Seven new cross-links. Word count ~2,200 → ~3,000.
+- **Output**: Updated `concepts/analytic-idealism.md`, created `reviews/deep-review-2026-01-20-analytic-idealism.md`
 
 ### ✓ 2026-01-19: Deep review filter-theory.md for comprehensive analysis
 - **Type**: deep-review
