@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 20:55:00+00:00
+ai_modified: 2026-01-19 21:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -56,9 +56,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review combination-problem.md for currency and cross-links
+### P2: Cross-review philosophical-zombies.md with arguments-against-materialism synthesis
+- **Type**: cross-review
+- **Notes**: New concepts/arguments-against-materialism.md presents zombie argument as third of seven converging arguments. The concepts/philosophical-zombies.md page is the detailed treatment. Should link to synthesis and note how zombie conceivability works alongside knowledge argument and modal arguments for cumulative force.
+- **Source**: chain (from arguments-against-materialism.md)
+- **Generated**: 2026-01-19
+
+### P2: Deep review functionalism.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated 2026-01-15, no deep review since creation. Key critique of panpsychism relevant to site's position. Check for cross-links to minimal-consciousness.md (empirical cases), emergence.md, and phenomenal-unity.md. Ensure Chalmers' and Goff's responses are well-represented.
+- **Notes**: AI-generated 2026-01-09, no deep review since creation. Major competitor theory to site's approach. Check for cross-links to substrate-independence-critique.md, multiple-realizability argument, and newer llm-consciousness.md content. Ensure Block's absent qualia, Searle's Chinese Room, and inverted qualia objections are fairly presented.
 - **Source**: staleness
 - **Generated**: 2026-01-19
 
@@ -75,6 +81,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review knowledge-argument.md with arguments-against-materialism synthesis
+- **Type**: cross-review
+- **Notes**: New concepts/arguments-against-materialism.md presents Mary's Room as second of seven converging arguments. The concepts/knowledge-argument.md page is the detailed treatment. Should link to synthesis page and ensure convergence argument framing is reflected—this isn't just one isolated thought experiment but part of cumulative case.
+- **Result**: Added arguments-against-materialism to concepts frontmatter. Added new subsection "The Convergence Argument" under "Connection to Related Arguments" explaining the knowledge argument as one of seven converging anti-materialist arguments. Added arguments-against-materialism as first item in Further Reading.
+- **Output**: Updated `concepts/knowledge-argument.md`
+
+### ✓ 2026-01-19: Deep review combination-problem.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-15, no deep review since creation. Key critique of panpsychism relevant to site's position. Check for cross-links to minimal-consciousness.md (empirical cases), emergence.md, and phenomenal-unity.md. Ensure Chalmers' and Goff's responses are well-represented.
+- **Result**: Added Buddhist/process philosophy perspective on subject-summing dissolution. Added new "Empirical Distinguishability" subsection with three lines of testable evidence. Added phenomenal-unity, binding-problem, minimal-consciousness cross-links in frontmatter and Further Reading. Added Kerskens & Pérez 2022, Wiest et al. 2024 references.
+- **Output**: Updated `concepts/combination-problem.md`, created `reviews/deep-review-2026-01-19-combination-problem.md`
 
 ### ✓ 2026-01-19: Cross-review voluntary-attention.md with attention-as-interface expansion
 - **Type**: cross-review

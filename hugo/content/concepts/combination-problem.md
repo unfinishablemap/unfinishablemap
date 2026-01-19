@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-15 22:30:00+00:00
+ai_modified: 2026-01-19 21:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,12 +9,15 @@ concepts:
 - '[[russellian-monism]]'
 - '[[qualia]]'
 - '[[interactionist-dualism]]'
+- '[[phenomenal-unity]]'
+- '[[binding-problem]]'
+- '[[minimal-consciousness]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-19 21:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -48,6 +51,8 @@ Sam Coleman (2014) argues subject-summing is demonstrably incoherent. If subject
 - A, B, and C all exist (but then C isn't a *combination* of A and B—it's an addition to them)
 
 Neither option delivers what panpsychism needs: a single unified subject arising from constituent subjects.
+
+Some philosophers respond that the subject-summing problem dissolves if we abandon the assumption of discrete, bounded subjects. Buddhist no-self views suggest subjects are conventional constructs rather than metaphysical atoms. Process philosophers following Whitehead propose that experience is inherently relational—"drops of experience" compound naturally rather than combining across unbridgeable gaps. But most panpsychists accept the reality of subjects and must explain how micro-subjects constitute macro-subjects without eliminating them.
 
 ### The Palette Problem
 
@@ -134,6 +139,18 @@ Instead of combination, the site posits *interaction*. Consciousness interfaces 
 
 The interaction problem—how distinct substances causally influence each other—is dualism's classic challenge. But the [quantum framework](/concepts/causal-closure/) provides a response: consciousness selects among outcomes that physics leaves undetermined, so no physical law is violated. The combination problem has no comparable resolution in sight.
 
+### Empirical Distinguishability
+
+Can we test which problem is more tractable? Several lines of evidence bear on the question:
+
+**Quantum coherence measurements**: If consciousness operates at quantum indeterminacies, we should find quantum effects correlated with consciousness in ways that survive decoherence objections. Recent work (Kerskens & Pérez 2022-2023) reports MRI signals suggesting entanglement that tracks waking consciousness. If confirmed, this supports the interactionist mechanism without providing any evidence for how micro-experiences combine.
+
+**Simple organism studies**: Research on [C. elegans and Hydra](/concepts/minimal-consciousness/) tests panpsychist predictions. If [phenomenal unity](/concepts/phenomenal-unity/) requires the combination of micro-experiences, we should see gradients of unity tracking complexity. But the evidence is ambiguous—302-neuron nematodes show integrated information (positive Phi) yet fail behavioral markers of unified consciousness. The combination mechanism, if real, doesn't manifest in observable correlates.
+
+**Anesthesia and microtubules**: Studies showing that microtubule-stabilizing drugs delay anesthetic-induced unconsciousness (Wiest et al. 2024) support quantum mechanisms for consciousness without implicating micro-experience combination.
+
+The interactionist framework generates specific predictions testable by current methods. Panpsychism's combination proposals remain primarily conceptual, with no clear empirical consequences that would distinguish successful combination from failed combination.
+
 ## What Panpsychism Gets Right
 
 Despite rejecting panpsychism's solution, the site affirms its core insights:
@@ -162,6 +179,9 @@ The combination problem is not an argument *for* the site's framework, but it sh
 
 - [panpsychism](/concepts/panpsychism/) — The view facing this problem
 - [russellian-monism](/concepts/russellian-monism/) — A related framework also facing combination
+- [phenomenal-unity](/concepts/phenomenal-unity/) — Why experience is unified in the first place
+- [binding-problem](/concepts/binding-problem/) — The neural coordination challenge (related but distinct)
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical testing ground in simple organisms
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The alternative avoiding the problem
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem panpsychism aimed to solve
 - [qualia](/concepts/qualia/) — What must combine (or not)
@@ -173,6 +193,8 @@ The combination problem is not an argument *for* the site's framework, but it sh
 - Coleman, S. (2014). The Real Combination Problem. *Erkenntnis*, 79, 19-44.
 - Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
 - James, W. (1890). *The Principles of Psychology*. Henry Holt.
+- Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 - Miller, G. (2018). Can Subjects Be Proper Parts of Subjects? The De-Combination Problem. *Ratio*, 31, 165-176.
 - Seager, W. (1995). Consciousness, Information and Panpsychism. *Journal of Consciousness Studies*, 2(3), 272-288.
 - Seager, W. (2010). Panpsychism, Aggregation and Combinatorial Infusion. *Mind and Matter*, 8(2), 167-184.
+- Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.

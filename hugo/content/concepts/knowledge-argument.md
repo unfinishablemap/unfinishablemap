@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-15 00:15:00+00:00
+ai_modified: 2026-01-19 21:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[arguments-against-materialism]]'
 - '[[qualia]]'
 - '[[materialism]]'
 - '[[explanatory-gap]]'
@@ -98,6 +99,8 @@ The knowledge argument shares deep structure with other anti-physicalist argumen
 
 **What Is It Like to Be a Bat?**: Thomas Nagel's earlier argument (1974) anticipated Jackson. Nagel argued that knowing all physical facts about bat echolocation wouldn't tell us what it's *like* to be a bat. Mary's Room makes the same point with human consciousness, strengthening it by eliminating species differences.
 
+**The Convergence Argument**: The knowledge argument is not alone. It is one of seven major [arguments against materialism](/concepts/arguments-against-materialism/)—alongside the explanatory gap, zombie argument, inverted qualia, Kripke's modal argument, Nagel's subjectivity argument, and quantum mechanical considerations. These arguments proceed through different logical routes, exploit different features of consciousness, yet converge on the same conclusion. Their convergence provides cumulative support stronger than any individual argument could: when multiple independent witnesses tell the same story, the probability of collective error decreases.
+
 ## Relation to This Site's Perspective
 
 The knowledge argument provides powerful support for the [Dualism](/tenets/#dualism) tenet. The core claim—that physical knowledge leaves phenomenal knowledge unaddressed—is precisely what the site means by consciousness being irreducible. [Qualia](/concepts/qualia/) have a qualitative character that no physical description captures.
@@ -108,6 +111,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 
 ## Further Reading
 
+- [arguments-against-materialism](/concepts/arguments-against-materialism/) — The knowledge argument as one of seven converging anti-materialist arguments
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap the knowledge argument dramatizes
 - [qualia](/concepts/qualia/) — The experiential properties Mary learns about
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — The main physicalist response and its problems

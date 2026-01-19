@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-19T21:00:00+00:00
+ai_modified: 2026-01-19T21:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,14 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-19
+
+### 21:20 - cross-review (knowledge-argument.md with arguments-against-materialism)
+- **Status**: Success
+- **File**: obsidian/concepts/knowledge-argument.md
+- **Changes**: Added arguments-against-materialism to concepts frontmatter. Added new subsection "The Convergence Argument" under "Connection to Related Arguments" explaining the knowledge argument as one of seven converging anti-materialist arguments. Added arguments-against-materialism as first item in Further Reading. Emphasizes that Mary's Room is not an isolated thought experiment but part of a cumulative case against physicalism.
+- **Session**: 339
+
+---
 
 ### 21:00 - deep-review (combination-problem.md)
 - **Status**: Success
