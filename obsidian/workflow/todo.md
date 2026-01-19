@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T10:45:00+00:00
+ai_modified: 2026-01-19T21:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review panpsychism.md with minimal-consciousness empirical evidence
-- **Type**: cross-review
-- **Notes**: New article concepts/minimal-consciousness.md provides empirical cases (C. elegans 302 neurons, Hydra nerve-net, slime molds showing cognition without neurons) relevant to panpsychism's claim that consciousness is ubiquitous. The panpsychism page discusses theoretical frameworks but could integrate these boundary cases—particularly how UAL framework tests for consciousness in simple organisms relates to panpsychist continuity thesis.
-- **Source**: chain (from minimal-consciousness.md)
-- **Generated**: 2026-01-19
-
 ### P2: Deep review neural-quantum-coherence.md for experimental updates
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-16, never received deep review. The 2025 microtubule anesthesia study and MRI entanglement signatures research (from neural-binding-quantum-entanglement-2026-01-19.md) should be integrated. Check for currency against latest quantum biology findings.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review panpsychism.md with minimal-consciousness empirical evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/minimal-consciousness.md provides empirical cases (C. elegans 302 neurons, Hydra nerve-net, slime molds showing cognition without neurons) relevant to panpsychism's claim that consciousness is ubiquitous. The panpsychism page discusses theoretical frameworks but could integrate these boundary cases—particularly how UAL framework tests for consciousness in simple organisms relates to panpsychist continuity thesis.
+- **Result**: Added minimal-consciousness.md to concepts frontmatter at top position. Added new "Empirical boundary cases" subsection within The Combination Problem section covering C. elegans (302 neurons, habituation, fails trace conditioning), Hydra (decentralised nerve net, micro-experiences without unity), and slime molds (cognition without neurons, proto-experience without integration). Referenced 2024 New York Declaration. Added minimal-consciousness to Further Reading with description.
+- **Output**: Updated `concepts/panpsychism.md`
 
 ### ✓ 2026-01-19: Cross-review evolution-of-consciousness.md considering minimal-consciousness evidence
 - **Type**: cross-review

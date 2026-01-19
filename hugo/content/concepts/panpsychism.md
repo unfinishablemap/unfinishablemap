@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-19 09:35:00+00:00
+ai_modified: 2026-01-19 21:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[minimal-consciousness]]'
 - '[[evolution-of-consciousness]]'
 - '[[qualia]]'
 - '[[russellian-monism]]'
@@ -70,6 +71,16 @@ This is the *combination problem*. It has several variants:
 **Structural mismatch**: Physics describes discrete particles; consciousness seems to have continuous, spatial structure. How does one give rise to the other?
 
 **The evolutionary distribution question**: If all matter has experiential properties, why does consciousness apparently track neural complexity and behavioural flexibility? The panpsychist answer: what we recognise as "consciousness" is organised, integrated experience. Simple systems have only simple, fragmented experience; complex neural systems achieve the [phenomenal unity](/concepts/phenomenal-unity/) we associate with minds. Evolution didn't create experience—it created the integrating structures that amplify and unify pre-existing experiential properties (see [the emergence question](/concepts/evolution-of-consciousness/#the-emergence-question)).
+
+**Empirical boundary cases**: Research on [minimal consciousness](/concepts/minimal-consciousness/) in simple organisms provides a testing ground for panpsychist continuity. Consider:
+
+- **C. elegans** (302 neurons): Shows habituation, associative learning, and anesthetic responses similar to vertebrates, yet fails trace conditioning—a key criterion for unlimited associative learning. If panpsychism is correct, even this minimal nervous system has some experiential quality, but the 302-neuron nematode cannot unite these micro-experiences into the integrated subjectivity that more complex organisms achieve.
+
+- **Hydra** (900-neuron decentralised nerve net): Multiple non-overlapping neural networks control separate behaviors without central processing. For panpsychism, Hydra suggests experience might be as distributed as its nervous system—micro-experiences without phenomenal unity—or that combination requires centralisation Hydra lacks.
+
+- **Slime molds** (no neurons): *Physarum polycephalum* solves mazes and shows habituation despite having no nervous system. This poses a question: if neurons aren't required for rudimentary cognition, how does panpsychism distinguish cognitive behavior from genuine micro-experience? The panpsychist answer: cognition and consciousness are distinct; slime molds may have proto-experience (qua fundamental property of matter) but lack the integration for what we recognize as unified consciousness.
+
+The 2024 New York Declaration on Animal Consciousness affirms a "realistic possibility" of consciousness in invertebrates—exactly what panpsychism predicts. Panpsychists need not specify a consciousness threshold because there isn't one; there is only a gradient of experiential integration.
 
 Panpsychists have responses. Strawson argues that experiential-from-experiential emergence, while mysterious, is less mysterious than experiential-from-non-experiential emergence. Cosmopsychists (like the later Philip Goff) invert the problem: perhaps the universe as a whole is conscious, and individual minds are dissociated fragments of universal consciousness.
 
@@ -146,6 +157,7 @@ But the site thinks interactionist dualism offers a cleaner solution. Consciousn
 
 ## Further Reading
 
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical cases (C. elegans, Hydra, slime molds) that test panpsychist predictions
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — How panpsychism addresses the evolutionary emergence question
 - [combination-problem](/concepts/combination-problem/) — The central challenge facing panpsychism
 - [russellian-monism](/concepts/russellian-monism/) — The most developed theoretical framework for panpsychism
