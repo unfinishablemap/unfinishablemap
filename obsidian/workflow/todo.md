@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T12:18:03+00:00
+ai_modified: 2026-01-19T13:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -40,12 +40,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### P2: Deep review filter-theory.md for comprehensive analysis
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-15, no deep review since creation. Recently cross-reviewed with altered-states evidence (2026-01-19) but needs comprehensive review for research integration, argument structure, and cross-links to newer content (minimal-consciousness.md, buddhism-and-dualism.md).
-- **Source**: staleness
-- **Generated**: 2026-01-19
-
-### P2: Deep review reductionism.md for research integration
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-19, no deep review since creation. Check integration of reductionism-consciousness-philosophy-2026-01-19.md research—particularly the Nagel/Chalmers explanatory reduction distinction, Kim's multiple realizability response, and the scientific success vs consciousness failure asymmetry. Cross-link to emergence.md and minimal-consciousness.md.
 - **Source**: staleness
 - **Generated**: 2026-01-19
 
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Deep review reductionism.md for research integration
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-19, no deep review since creation. Check integration of reductionism-consciousness-philosophy-2026-01-19.md research—particularly the Nagel/Chalmers explanatory reduction distinction, Kim's multiple realizability response, and the scientific success vs consciousness failure asymmetry. Cross-link to emergence.md and minimal-consciousness.md.
+- **Result**: Added C. elegans example from minimal-consciousness.md illustrating explanatory gap with complete connectome. Clarified Levine's epistemic vs Chalmers' ontological interpretation of explanatory gap. Engaged with Dennett's heterophenomenology rather than just citing terminology. Added mysterianism/cognitive closure connection. Added Buddhist process philosophy angle from buddhism-and-dualism.md.
+- **Output**: Updated `concepts/reductionism.md`, created `reviews/deep-review-2026-01-19-reductionism.md`
 
 ### ✓ 2026-01-19: Write concept page for many-worlds interpretation
 - **Type**: expand-topic
