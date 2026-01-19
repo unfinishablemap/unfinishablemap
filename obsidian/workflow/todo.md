@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T15:35:00+00:00
+ai_modified: 2026-01-19T20:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review qualia.md with minimal-consciousness implications
-- **Type**: cross-review
-- **Notes**: New article concepts/minimal-consciousness.md raises questions about qualia in simple systems. What is it like to be C. elegans with 302 neurons? Do slime molds have proto-qualia? The concepts/qualia.md page should address these boundary cases and what they imply for theories of phenomenal experience.
-- **Source**: chain (from minimal-consciousness.md)
-- **Generated**: 2026-01-19
-
 ### P2: Deep review functionalism.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-09, no deep review since creation. Check for cross-links to newer content (minimal-consciousness.md, evolution-of-consciousness.md, substrate-independence-critique.md) and currency against recent debates.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review qualia.md with minimal-consciousness implications
+- **Type**: cross-review
+- **Notes**: New article concepts/minimal-consciousness.md raises questions about qualia in simple systems. What is it like to be C. elegans with 302 neurons? Do slime molds have proto-qualia? The concepts/qualia.md page should address these boundary cases and what they imply for theories of phenomenal experience.
+- **Result**: Added minimal-consciousness.md to concepts frontmatter at top position. Added new "Qualia in Simple Organisms" section after key properties, covering C. elegans complete connectome yet unknowable qualia (demonstrating the epistemic gap), the distribution problem for qualia (identical/analogous/alien/absent), and proto-qualia with the combination problem. Added slime mold case for cognition-qualia dissociation. Added minimal-consciousness.md at top of Further Reading with description.
+- **Output**: Updated `concepts/qualia.md`
 
 ### ✓ 2026-01-19: Deep review epiphenomenalism.md for currency and cross-links
 - **Type**: deep-review
