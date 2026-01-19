@@ -3,7 +3,7 @@ title: "Implicit Memory and Anoetic Consciousness"
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-17T08:00:00+00:00
+ai_modified: 2026-01-19T00:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,6 +12,7 @@ concepts:
   - "[[semantic-memory]]"
   - "[[attention]]"
   - "[[attention-as-interface]]"
+  - "[[voluntary-attention]]"
   - "[[mental-effort]]"
   - "[[agent-causation]]"
   - "[[embodied-cognition]]"
@@ -70,7 +71,7 @@ When skilled performers face high-pressure situations, a counterintuitive breakd
 
 ### The Explicit Monitoring Theory
 
-Baumeister and Beilock's explicit monitoring theory explains choking: pressure generates anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it.
+Baumeister and Beilock's explicit monitoring theory explains choking: pressure generates anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it. Crucially, this reinvestment involves [[voluntary-attention|willed attention]]—not mere stimulus-driven capture, but internally directed focus on one's own movements. The performer *decides* to attend to their execution, and this decision has causal consequences.
 
 Research confirms this pattern:
 - Highly skilled performers choke more than moderately skilled ones (they have more to disrupt)
@@ -143,6 +144,7 @@ Eliminating consciousness from accounts of skill acquisition can't explain choki
 
 ## Further Reading
 
+- [[voluntary-attention]] - Why choking involves willed attention specifically, and the neural signatures distinguishing it from stimulus-driven capture
 - [[autonoetic-consciousness]] - The highest level of Tulving's hierarchy: self-knowing consciousness enabling mental time travel
 - [[semantic-memory]] - Noetic consciousness and the phenomenology of knowing without re-experiencing
 - [[attention-as-interface]] - How attention mediates consciousness's interaction with neural systems
