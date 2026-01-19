@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 14:20:00+00:00
+ai_modified: 2026-01-20 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -69,13 +69,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P3: Expand attention-as-interface into comprehensive theory
+### P2: Expand attention-as-interface into comprehensive theory
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The attention-as-interface hypothesis is strong but could be developed further. What exactly makes attention the privileged interface? Are there other interfaces (emotion, volition)? Builds on attention-as-interface.md, quantum-consciousness.md, mental-effort.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
+- **Promoted**: 2026-01-19 (replenishment - key site framework)
+
+### P2: Deep review combination-problem.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-15, no deep review since creation. Key critique of panpsychism relevant to site's position. Check for cross-links to minimal-consciousness.md (empirical cases), emergence.md, and phenomenal-unity.md. Ensure Chalmers' and Goff's responses are well-represented.
+- **Source**: staleness
+- **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review causal-closure.md for research integration
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-14, no deep review since creation. Directly supports Minimal Quantum Interaction tenet by addressing the main objection to interactionism. Check for cross-links to quantum-consciousness.md, mental-causation.md, and newer arguments-for-dualism.md content. Ensure Kim's exclusion argument and responses are current.
+- **Result**: Added decoherence challenge response with link to quantum-consciousness.md. Strengthened response to probabilistic causation objection. Added luck objection response with link to luck-objection.md. Added epistemological humility paragraph acknowledging metaphysical assumptions. Expanded Further Reading with luck-objection, mysterianism, explanatory-gap cross-links.
+- **Output**: Updated `concepts/causal-closure.md`, created `reviews/deep-review-2026-01-20-causal-closure.md`
 
 ### ✓ 2026-01-19: Cross-review measurement-problem.md with MWI rejection arguments
 - **Type**: cross-review
