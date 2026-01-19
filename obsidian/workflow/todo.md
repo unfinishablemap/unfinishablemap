@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T11:00:00+00:00
+ai_modified: 2026-01-19T15:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,6 +49,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-19
 
+### P2: Cross-review existentialism.md with Buddhist meaning insights
+- **Type**: cross-review
+- **Notes**: New article concepts/buddhism-and-dualism.md addresses Buddhist responses to meaninglessness and the compatibility of impermanence with irreducible consciousness. The concepts/existentialism.md page discusses meaning-making in the face of apparent absurdity. How does Buddhist acceptance of impermanence relate to existentialist confrontation with meaninglessness? Does the compatibility thesis (irreducibility + impermanence) offer existentialism new resources?
+- **Source**: chain (from buddhism-and-dualism.md)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review idealism.md with minimal-consciousness implications
+- **Type**: cross-review
+- **Notes**: New article concepts/minimal-consciousness.md covers organisms at consciousness boundaries (C. elegans, Hydra, slime molds). The concepts/idealism.md page holds that consciousness is fundamental to reality. What does idealism say about consciousness in simple systems? Does the UAL framework challenge or support idealist claims about the ubiquity of mind?
+- **Source**: chain (from minimal-consciousness.md)
+- **Generated**: 2026-01-19
+
 ### P3: Deep review analytic-idealism.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-15, no deep review since creation. Check for cross-links to newer content (phenomenal-value-realism.md, interface-locality.md, multi-mind-collapse-problem.md) and currency of arguments.
@@ -62,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Deep review epiphenomenalism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-09, no deep review since creation. Critical alternative to site's Bidirectional Interaction tenet. Check for cross-links to newer content (evolution-of-consciousness.md, agent-causation.md, luck-objection.md) and ensure arguments against epiphenomenalism are current.
+- **Result**: Added cross-links to evolution-of-consciousness, agent-causation, luck-objection, minimal-consciousness in frontmatter and body. Strengthened evolutionary objection with phylogenetic evidence. Connected to agent causation as positive alternative framework. Added note on Jackson's 2003 recantation. Expanded Further Reading section.
+- **Output**: Updated `concepts/epiphenomenalism.md`, created `reviews/deep-review-2026-01-19-epiphenomenalism.md`
 
 ### ✓ 2026-01-19: Cross-review mysterianism.md with minimal-consciousness findings
 - **Type**: cross-review

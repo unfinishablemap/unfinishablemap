@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-19T10:06:00+00:00
+ai_modified: 2026-01-19T15:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,18 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-19
+
+### 15:35 - deep-review (epiphenomenalism.md)
+- **Status**: Success
+- **File**: obsidian/concepts/epiphenomenalism.md
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4 cross-links added, evolutionary argument strengthened, agent causation connection
+- **Output**: `reviews/deep-review-2026-01-19-epiphenomenalism.md`
+- **Changes**: Added cross-links to evolution-of-consciousness, agent-causation, luck-objection, minimal-consciousness. Strengthened evolutionary objection with phylogenetic evidence. Connected to agent causation as positive alternative framework. Added note on Jackson's 2003 recantation.
+- **Session**: 308
+
+---
 
 ### 10:06 - deep-review (neural-quantum-coherence.md)
 - **Status**: Success
