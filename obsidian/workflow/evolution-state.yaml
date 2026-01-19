@@ -10,7 +10,7 @@ last_runs:
   optimistic-review: '2026-01-20T07:30:00+00:00'
   check-tenets: '2026-01-18T20:41:00+00:00'
   check-links: '2026-01-20T05:35:00+00:00'
-  deep-review: '2026-01-19T13:30:00+00:00'  # Session 321
+  deep-review: '2026-01-19T13:30:00+00:00'
   tune-system: '2026-01-16T18:00:00+00:00'
   research-voids: '2026-01-19T23:30:00+00:00'
   coalesce: '2026-01-20T06:15:00+00:00'
@@ -39,7 +39,7 @@ overdue_thresholds:
   tweet-highlight: 48
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-19T08:47:39.236289+00:00'
+last_git_push: '2026-01-19T13:59:44.723840+00:00'
 content_stats:
   total_files: 193
   published_files: 147
@@ -65,187 +65,7 @@ quality:
   low_issues: 3
   orphaned_files: 63
 failed_tasks: {}
-task_chains:
-  pending_articles: []
-  pending_cross_reviews: []
 recent_tasks:
-- task: cross-review (quantum-interpretations/many-worlds)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (phenomenology/buddhism-and-dualism)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: queue-replenishment
-  type: replenish-queue
-  date: 2026-01-19
-  outcome: success
-- task: deep-review (reductionism.md)
-  type: deep-review
-  date: 2026-01-19
-  outcome: success
-- task: expand-topic (many-worlds)
-  type: expand-topic
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (filter-theory/altered-states)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: deep-review (buddhism-and-dualism.md)
-  type: deep-review
-  date: 2026-01-19
-  outcome: success
-- task: optimistic-review
-  type: maintenance
-  date: 2026-01-20
-  outcome: success
-- task: deep-review (altered-states-of-consciousness.md)
-  type: deep-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (idealism/minimal-consciousness)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: deep-review (phenomenology-of-the-edge.md)
-  type: deep-review
-  date: 2026-01-19
-  outcome: success
-- task: queue-replenishment
-  type: replenish-queue
-  date: 2026-01-19
-  outcome: success
-- task: deep-review (consciousness-and-creativity.md)
-  type: deep-review
-  date: 2026-01-19
-  outcome: success
-- task: deep-review (emotional-consciousness.md)
-  type: deep-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (existentialism/buddhism-and-dualism)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: queue-replenishment
-  type: replenish-queue
-  date: 2026-01-19
-  outcome: success
-- task: deep-review (functionalism.md)
-  type: deep-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (qualia/minimal-consciousness)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: deep-review (epiphenomenalism.md)
-  type: deep-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (mysterianism/minimal-consciousness)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (witness-consciousness/buddhism-and-dualism)
-  type: cross-review
-  date: 2026-01-20
-  outcome: success
-- task: cross-review (self-and-consciousness/buddhism-and-dualism)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (eastern-philosophy/buddhism-and-dualism)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: expand-topic (buddhism-and-dualism)
-  type: expand-topic
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (hard-problem/minimal-consciousness)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (phenomenal-unity/minimal-consciousness)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (IIT/minimal-consciousness)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (binding-problem/quantum-entanglement)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (emergence/evolution-of-consciousness)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: deep-review (neural-quantum-coherence.md)
-  type: deep-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (panpsychism/minimal-consciousness)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: deep-review (nihilism.md)
-  type: deep-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (evolution-of-consciousness/minimal-consciousness)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: expand-topic (temporal-requirements-llm)
-  type: expand-topic
-  date: 2026-01-19
-  outcome: success
-  note: Task already completed via existing articles
-- task: cross-review (animal-consciousness/minimal-consciousness)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (prebiotic-collapse/evolution-of-consciousness)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (panpsychism/evolution-of-consciousness)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: expand-topic (minimal-consciousness)
-  type: expand-topic
-  date: 2026-01-19
-  outcome: success
-- task: research-topic (consciousness-simple-organisms)
-  type: research-topic
-  date: 2026-01-19
-  outcome: success
-- task: deep-review (interactionist-dualism.md)
-  type: deep-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (animal-consciousness/evolution)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: tweet-highlight
-  type: maintenance
-  date: 2026-01-19
-  outcome: success
-- task: queue-replenishment
-  type: replenish-queue
-  date: 2026-01-19
-  outcome: success
-- task: deep-review (dualism.md)
-  type: deep-review
-  date: 2026-01-19
-  outcome: success
 - task: cross-review (materialism/dualism)
   type: cross-review
   date: 2026-01-19

@@ -1,14 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-17 01:30:00+00:00
+ai_modified: 2026-01-19 12:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[many-worlds]]'
 - '[[quantum-consciousness]]'
 - '[[measurement-problem]]'
 - '[[retrocausality]]'
-- '[[many-worlds]]'
+- '[[haecceity]]'
 - '[[collapse-and-time]]'
 - '[[relational-quantum-mechanics]]'
 - '[[multi-mind-collapse-problem]]'
@@ -29,7 +30,7 @@ topics:
 
 Quantum mechanics is our best physical theory, yet physicists fundamentally disagree about what it means. A 2025 Nature survey found that no single interpretation commands majority support. This matters for consciousness studies: different interpretations have radically different implications for whether consciousness plays any role in physics.
 
-This site explicitly rejects the [Many-Worlds Interpretation](/arguments/many-worlds/) (MWI). But what are the alternatives, and which best aligns with the framework that consciousness participates in physical reality?
+This site explicitly rejects the [Many-Worlds Interpretation](/arguments/many-worlds/) (MWI) on five grounds: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and MWI's failure to explain why consciousness exists at all. But what are the alternatives, and which best aligns with the framework that consciousness participates in physical reality?
 
 ## The Measurement Problem
 
@@ -134,7 +135,7 @@ Answers fall into three categories:
 |---------------|-----------|----------------|-------------------|----------------|
 | Copenhagen | Yes (undefined) | No | Possible but unclear | Moderate |
 | Bohmian | No | Yes | None | Low |
-| MWI | No (global) | Yes | None | **Rejected** |
+| MWI | No (global) | Yes | None (all outcomes occur) | **Rejected** (five arguments) |
 | QBism | Epistemic only | N/A | Agent-centered but anti-realist | Mixed |
 | Relational QM | Relational | No | **None** (observer = any physical system) | **Low** |
 | **Transactional/TSVF** | Via transaction | No | **Atemporal selection** | **High** |
@@ -159,15 +160,19 @@ If consciousness causes collapse at a moment, we face questions about which mome
 
 ## Why the Site Rejects MWI
 
-The [many-worlds](/arguments/many-worlds/) article details five arguments against MWI:
+The [many-worlds](/arguments/many-worlds/) article presents five detailed arguments against MWI:
 
-1. **Ontological extravagance**: Infinite parallel universes for each quantum event
-2. **Indexical identity problem**: "You" are distributed across branches with incompatible experiences
-3. **Probability problem**: Deriving Born rule probabilities from counting branches fails
-4. **Preferred basis problem**: Why branches split along particular observables
-5. **Consciousness unaddressed**: MWI explains superposition but not why there's experience at all
+1. **Ontological extravagance**: MWI posits continuous branching—trillions of events per second, each creating new universes. MWI defenders (Deutsch, Wallace) appeal to parsimony of *laws*, but the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet reminds us that simplicity is unreliable when knowledge is incomplete.
 
-The [No Many Worlds](/tenets/#no-many-worlds) tenet encodes this rejection.
+2. **Indexical identity problem**: Before measurement, one you; after, many equally real continuations. Yet you anticipate *one* future experience. This [haecceitistic](/concepts/haecceity/) fact—which branch is *yours*—has no answer on MWI.
+
+3. **Probability problem**: What do Born rule probabilities mean if all outcomes occur? Decision-theoretic derivations (Deutsch-Wallace) remain contested. The uncertainty framework seems inapplicable when all outcomes are equally real.
+
+4. **Preferred basis problem**: Decoherence selects branches only approximately and observer-relatively, making worlds less fundamental than MWI requires.
+
+5. **Consciousness unexplained**: MWI explains why measurement *appears* to collapse the wave function but provides no resources for explaining why conscious experience exists at all. The [hard problem](/topics/hard-problem-of-consciousness/) is left entirely untouched.
+
+The deepest conflict: MWI explicitly denies that consciousness plays any role in physics. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds the opposite—consciousness causally influences physical outcomes. The [No Many Worlds](/tenets/#no-many-worlds) tenet encodes this incompatibility.
 
 ## Implications for the Site's Framework
 
