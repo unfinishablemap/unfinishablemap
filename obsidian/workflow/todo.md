@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T21:30:00+00:00
+ai_modified: 2026-01-19T10:06:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review neural-quantum-coherence.md for experimental updates
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-16, never received deep review. The 2025 microtubule anesthesia study and MRI entanglement signatures research (from neural-binding-quantum-entanglement-2026-01-19.md) should be integrated. Check for currency against latest quantum biology findings.
-- **Source**: staleness
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review binding-problem.md with quantum entanglement findings
 - **Type**: cross-review
 - **Notes**: Research completed in neural-binding-quantum-entanglement-2026-01-19.md provides significant 2024-2025 experimental evidence: microtubule-stabilizing drugs delay anesthesia, MRI detects entanglement signatures correlating with working memory, quantum effects survive longer than Tegmark calculated. The binding-problem.md page should integrate these findings for the quantum vs classical binding debate.
@@ -68,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Deep review neural-quantum-coherence.md for experimental updates
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-16, never received deep review. The 2025 microtubule anesthesia study and MRI entanglement signatures research (from neural-binding-quantum-entanglement-2026-01-19.md) should be integrated. Check for currency against latest quantum biology findings.
+- **Result**: Added Kerskens-Pérez MRI entanglement findings (2022-2023), twin study quantum effects (2025), binding-problem cross-links. Updated opening paragraph to reference binding problem and MRI evidence. Added Warren (2023) methodological critique citation. Updated concepts frontmatter and Further Reading section.
+- **Output**: Updated `concepts/neural-quantum-coherence.md`, created `reviews/deep-review-2026-01-19-neural-quantum-coherence.md`
 
 ### ✓ 2026-01-19: Cross-review panpsychism.md with minimal-consciousness empirical evidence
 - **Type**: cross-review
