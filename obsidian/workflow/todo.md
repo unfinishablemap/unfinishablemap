@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T20:35:00+00:00
+ai_modified: 2026-01-19T11:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review functionalism.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-09, no deep review since creation. Check for cross-links to newer content (minimal-consciousness.md, evolution-of-consciousness.md, substrate-independence-critique.md) and currency against recent debates.
-- **Source**: staleness
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review existentialism.md with Buddhist meaning insights
 - **Type**: cross-review
 - **Notes**: New article concepts/buddhism-and-dualism.md addresses Buddhist responses to meaninglessness and the compatibility of impermanence with irreducible consciousness. The concepts/existentialism.md page discusses meaning-making in the face of apparent absurdity. How does Buddhist acceptance of impermanence relate to existentialist confrontation with meaninglessness? Does the compatibility thesis (irreducibility + impermanence) offer existentialism new resources?
@@ -68,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Deep review functionalism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-09, no deep review since creation. Check for cross-links to newer content (minimal-consciousness.md, evolution-of-consciousness.md, substrate-independence-critique.md) and currency against recent debates.
+- **Result**: Added new "Minimal Consciousness Challenge" section with C. elegans and slime mold cases illustrating functionalism's limits. Added "Evolutionary Challenge" subsection to Relation to Site Perspective. Updated COGITATE experiment passage with proper citation (Melloni et al. 2023-2024) and detailed findings. Added minimal-consciousness and evolution-of-consciousness to concepts frontmatter and Further Reading.
+- **Output**: Updated `concepts/functionalism.md`, created `reviews/deep-review-2026-01-19-functionalism.md`
 
 ### ✓ 2026-01-19: Cross-review qualia.md with minimal-consciousness implications
 - **Type**: cross-review

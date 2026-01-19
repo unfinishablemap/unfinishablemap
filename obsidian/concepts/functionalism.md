@@ -3,12 +3,14 @@ title: "Functionalism"
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-01-19T04:20:00+00:00
+ai_modified: 2026-01-19T11:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
 concepts:
+  - "[[minimal-consciousness]]"
+  - "[[evolution-of-consciousness]]"
   - "[[qualia]]"
   - "[[integrated-information-theory]]"
   - "[[predictive-processing]]"
@@ -24,6 +26,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-09
 last_curated: null
+last_deep_review: 2026-01-19T11:30:00+00:00
 ---
 
 Functionalism is the view that mental states are defined by their functional roles—what they do rather than what they're made of. A pain isn't a particular kind of brain state; it's whatever state plays the pain role: being caused by tissue damage, causing distress, prompting avoidance behavior, and so on. If something plays that role, it's pain—regardless of whether it's implemented in neurons, silicon, or alien biochemistry.
@@ -75,7 +78,7 @@ PP tells a compelling story about *what* reaches awareness and *how* it gets the
 
 GWT faces the same objection: explaining how information becomes globally available doesn't explain why global availability feels like anything. Ned Block distinguishes "access consciousness" (information being available for reasoning and report) from "phenomenal consciousness" (there being something it's like). GWT may explain access but not phenomenal consciousness.
 
-The 2025 COGITATE experiment—the largest adversarial collaboration in consciousness science—tested predictions of both GWT and IIT. Neither theory's predictions were fully confirmed, suggesting neither captures the whole story.
+The COGITATE experiment (Melloni et al., 2023-2024)—the largest adversarial collaboration in consciousness science—tested competing predictions of GWT and IIT using pre-registered protocols. Neither theory's predictions were fully confirmed. IIT's prediction of sustained posterior activity during maintained perception was partially supported, but GWT's prediction of prefrontal involvement during conscious access was not clearly confirmed. The mixed results suggest neither theory captures the whole story—and notably, both remain silent on why any neural activity should be accompanied by experience.
 
 ## Functionalism and AI
 
@@ -104,6 +107,16 @@ Functionalists have responses:
 
 But the objection persists: functional description seems to leave out what matters most about consciousness—the felt quality of experience.
 
+## The Minimal Consciousness Challenge
+
+Research on [[minimal-consciousness|simple organisms]] poses a distinct challenge to functionalism. Consider *C. elegans*, the roundworm with exactly 302 neurons. We have its complete neural connectome—every synapse mapped. If functionalism were true, this should tell us whether the worm is conscious: does its functional organization implement the right causal roles?
+
+It doesn't. Despite complete structural knowledge, we cannot determine whether *C. elegans* experiences anything. The worm exhibits habituation, responds to anesthetics like vertebrates, and shows positive Phi (integrated information) in computational models. Yet it fails trace-conditioning tests that mark unlimited associative learning. Is there something it's like to be this worm? The functional description cannot answer.
+
+More puzzling still: the slime mold *Physarum polycephalum* solves mazes, optimizes network routes, and displays habituation—with no neurons whatsoever. If functional organization determines consciousness, what determines the functional organization? Slime molds lack neurons but exhibit cognition. Either cognition and consciousness can fully dissociate (challenging functionalism's equation of mind with function), or consciousness requires something about *how* a function is implemented, not just that it is implemented.
+
+The functionalist might reply that slime molds implement a different—simpler—functional organization than conscious systems. But this concedes the point at issue. If we need to know not just *that* a function is implemented but *how* it's implemented and in *what substrate*, then substrate matters. And if substrate matters, functionalism's core insight—that what matters is the role, not the realizer—is compromised.
+
 ## The Hard Problem and Functionalism
 
 The [[hard-problem-of-consciousness|hard problem]] asks: why is there something it's like to be a conscious system? Why isn't all this information processing happening "in the dark"?
@@ -129,6 +142,10 @@ The site takes qualia seriously. The felt quality of experience—redness, painf
 ### The Bidirectional Interaction Tenet
 
 If consciousness is merely functional organization, it's not clear how it could "do" anything separate from the physical processes that realize the function. The causal work is done by the physical substrate; the functional description is just a way of categorizing it. But the site holds that consciousness causally influences physical outcomes—at quantum indeterminacies, where physics leaves room. This requires consciousness to be something with its own causal efficacy, not just a pattern description of physical causation.
+
+### The Evolutionary Challenge
+
+The [[evolution-of-consciousness|evolution of consciousness]] raises a problem functionalism cannot solve. If consciousness is functional organization, we need an account of how experience emerges from physical processes that previously lacked it. But this is precisely what functionalism cannot provide: it tells us *which* functional structures are conscious (by definition) without explaining *why* any functional structure should involve experience. The explanatory gap persists whether we're asking about human brains or ancestral nervous systems. Dualism doesn't require explaining how matter *produces* consciousness; it holds that consciousness interfaces with appropriately structured matter. The evolutionary question becomes where the interface arose, not how experience emerged from its absence.
 
 ### The Temporal Structure Objection
 
@@ -162,6 +179,8 @@ The site's response: the substrate matters because consciousness involves someth
 
 ## Further Reading
 
+- [[minimal-consciousness]] — Simple organisms reveal functionalism's limits
+- [[evolution-of-consciousness]] — The emergence problem functionalism cannot solve
 - [[arguments/functionalism]] — Five formal arguments against functionalism
 - [[substrate-independence-critique]] — Why the substrate matters for consciousness
 - [[ai-consciousness]] — The question of machine minds
@@ -176,5 +195,7 @@ The site's response: the substrate matters because consciousness involves someth
 - Block, N. (1978). "Troubles with Functionalism." *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 - Lewis, D. (1972). "Psychophysical and Theoretical Identifications." *Australasian Journal of Philosophy*, 50, 249-258.
+- Melloni, L., et al. (2023). "An adversarial collaboration protocol for testing contrasting predictions of global neuronal workspace and integrated information theory." *PLOS ONE*.
+- Melloni, L., et al. (2024). "COGITATE Results: An adversarial collaboration testing global neuronal workspace and integrated information theory." *Nature Human Behaviour* (preprint/conference reports).
 - Putnam, H. (1967). "Psychological Predicates." In *Art, Mind, and Religion*.
 - Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3, 417-457.
