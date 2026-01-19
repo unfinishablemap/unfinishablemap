@@ -50,27 +50,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
-### P2: Write article on valence and affective phenomenology
-- **Type**: expand-topic
-- **Notes**: Optimistic review 2026-01-19 identified opportunity. Why do emotions *feel* good or bad? Valence is irreducible phenomenology that deserves dedicated treatment. Builds on phenomenal-value-realism.md, emotional-consciousness.md, qualia.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-19
-- **Promoted**: 2026-01-19 (queue replenishment - strong tenet support for dualism)
-
-### P2: Write article on evolution of consciousness
-- **Type**: expand-topic
-- **Notes**: Optimistic review 2026-01-19 identified opportunity. When did consciousness emerge? What evolutionary pressures favored it? Why do some creatures seem conscious and others not? Connects to animal-consciousness.md and prebiotic-collapse.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-19
-- **Promoted**: 2026-01-20 (queue replenishment - strong tenet support for prebiotic collapse problem)
-
-### P3: Write article on consciousness and memory consolidation
+### P2: Write article on consciousness and memory consolidation
 - **Type**: expand-topic
 - **Notes**: Optimistic review 2026-01-19 identified opportunity. The interface between conscious and unconscious processing during memory consolidation. Why does sleep involve unconsciousness yet produce integrated memories? Builds on sleep-and-consciousness.md, episodic-memory.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-19
+- **Promoted**: 2026-01-19 (queue replenishment - strengthens bidirectional interaction tenet)
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Write article on evolution of consciousness
+- **Type**: expand-topic
+- **Notes**: Optimistic review 2026-01-19 identified opportunity. When did consciousness emerge? What evolutionary pressures favored it? Why do some creatures seem conscious and others not? Connects to animal-consciousness.md and prebiotic-collapse.md.
+- **Result**: Created ~2100 word concept page covering when consciousness emerged (panpsychist continuity vs gradual vs threshold emergence), phylogenetic evidence from Cambridge/NY Declarations, adaptive advantages (flexible response, integration, valenced guidance, self-modelling), the dualist advantage over materialism for explaining emergence, and why consciousness tracks certain neural features. Connects to prebiotic collapse problem and site tenets.
+- **Output**: Created `concepts/evolution-of-consciousness.md`
+
+### ✓ 2026-01-19: Write article on valence and affective phenomenology
+- **Type**: expand-topic
+- **Notes**: Optimistic review 2026-01-19 identified opportunity. Why do emotions *feel* good or bad? Valence is irreducible phenomenology that deserves dedicated treatment. Builds on phenomenal-value-realism.md, emotional-consciousness.md, qualia.md.
+- **Result**: Task was already completed—concepts/emotional-consciousness.md created 2026-01-19 comprehensively covers valence phenomenology including the hedonic vs evaluativist accounts, Panksepp-LeDoux debate, pain asymbolia evidence, connection to moral status, and core affect framework. No additional article needed.
+- **Output**: Already exists: `concepts/emotional-consciousness.md`
 
 ### ✓ 2026-01-20: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
