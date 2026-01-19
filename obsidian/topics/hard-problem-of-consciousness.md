@@ -3,10 +3,11 @@ title: "The Hard Problem of Consciousness"
 created: 2026-01-06
 modified: 2026-01-18
 human_modified:
-ai_modified: 2026-01-19T04:55:00+00:00
+ai_modified: 2026-01-19T22:00:00+00:00
 draft: false
 topics: []
 concepts:
+  - "[[dualism]]"
   - "[[qualia]]"
   - "[[epiphenomenalism]]"
   - "[[functionalism]]"
@@ -399,7 +400,7 @@ This doesn't mean abandoning science. It means recognising that the methods whic
 
 ## Relation to This Site's Perspective
 
-The hard problem is the foundation of this site's [[tenets|Dualism tenet]]. The explanatory gap between physical description and subjective experience remains unbridged. No amount of neurological detail tells us *why* there is something it is like to be conscious.
+The hard problem is the foundation of this site's [[tenets|Dualism tenet]]. The explanatory gap between physical description and subjective experience remains unbridged. No amount of neurological detail tells us *why* there is something it is like to be conscious. For a comprehensive treatment of what [[dualism]] claims, the main varieties (substance vs property), and the four converging arguments (explanatory gap, conceivability, knowledge argument, qualia), see the foundational [[dualism]] page.
 
 This is not a claim that physics is wrong or that we should abandon neuroscience. It is a claim about what physical explanation can and cannot achieve. Mechanism explains mechanism. But experience may require a different kind of understanding—one that takes consciousness seriously as a fundamental feature of reality rather than an embarrassing residue to be explained away.
 
@@ -410,6 +411,7 @@ Whether this specific proposal is correct matters less than the underlying point
 ## Further Reading
 
 ### On This Site
+- [[dualism]] — Foundational overview: what dualism claims, main varieties, and the four converging arguments
 - [[substrate-independence-critique]] — Why the hard problem entails substrate skepticism
 - [[witness-consciousness]] — The subject-object structure revealed by contemplative practice
 - [[psychophysical-coupling-law]] — Chalmers' framework and the site's development of downward laws
