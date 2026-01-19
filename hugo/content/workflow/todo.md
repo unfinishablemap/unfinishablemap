@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Cross-review epiphenomenalism.md with dualism overview and rejection argument
+- **Type**: cross-review
+- **Notes**: New article concepts/dualism.md discusses epiphenomenalism as one of three positions on mind-body interaction (along with interactionism and parallelism), explicitly noting the site rejects it as self-undermining. The epiphenomenalism.md page should reference the foundational dualism page and ensure the rejection argument is consistent across both. Add cross-link.
+- **Source**: chain (from dualism.md)
+- **Generated**: 2026-01-19
+
 ### P2: Cross-review emergence.md with reductionism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/reductionism.md covers ontological reductionism, Kim's exclusion argument, and how the site's quantum framework responds. The emergence.md concept page discusses strong emergence and non-reductive physicalism—integrating explicit reductionism distinctions could clarify why emergentism labels rather than explains. Add cross-link and ensure consistent terminology.
@@ -81,6 +87,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review arguments-for-dualism.md with foundational dualism overview
+- **Type**: cross-review
+- **Notes**: New article concepts/dualism.md provides foundational overview of dualism—what it claims, main varieties, main arguments, objections and responses. The arguments-for-dualism.md page presents the detailed positive case. Should be reviewed for alignment and to ensure it references the foundational page appropriately. Check for redundancy or opportunities to streamline by deferring to dualism.md for overview content.
+- **Result**: Added dualism.md to concepts frontmatter. Updated opening paragraph to reference the dualism overview for "what dualism is" while positioning this page as focused on "the detailed arguments." Added dualism.md to top of Further Reading section with description. No redundancy issues found—the articles serve complementary purposes.
+- **Output**: Updated `concepts/arguments-for-dualism.md`
 
 ### ✓ 2026-01-19: Cross-review hard-problem-of-consciousness.md with reductionism insights
 - **Type**: cross-review
