@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T12:00:00+00:00
+ai_modified: 2026-01-19T12:07:36+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,10 +43,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-19
 
-### P2: Cross-review filter-theory.md with altered-states evidence
+### P2: Cross-review phenomenology.md with Buddhist contemplative insights
 - **Type**: cross-review
-- **Notes**: The concepts/altered-states-of-consciousness.md page extensively applies filter theory to psychedelics, anesthesia, and meditation. The concepts/filter-theory.md page should reference these specific applications—particularly the propofol/ketamine divergence evidence and Huxley's "reducing valve" metaphor as empirical support.
-- **Source**: chain (from altered-states-of-consciousness.md)
+- **Notes**: New article concepts/buddhism-and-dualism.md presents Buddhist contemplative practice as "phenomenological method in practice, predating Husserl by over two millennia." The concepts/phenomenology.md page should acknowledge this Eastern precedent and connect to meditation research (Fox et al. 2012 on skilled observers). This bridges the Western phenomenological tradition with Buddhist first-person methods.
+- **Source**: chain (from buddhism-and-dualism.md)
 - **Generated**: 2026-01-19
 
 ### P3: Deep review analytic-idealism.md for currency and cross-links
@@ -80,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review filter-theory.md with altered-states evidence
+- **Type**: cross-review
+- **Notes**: The concepts/altered-states-of-consciousness.md page extensively applies filter theory to psychedelics, anesthesia, and meditation. The concepts/filter-theory.md page should reference these specific applications—particularly the propofol/ketamine divergence evidence and Huxley's "reducing valve" metaphor as empirical support.
+- **Result**: Added three new evidence sections: The Anesthetic Divergence (propofol vs ketamine producing different experiences despite similar behavioral suppression), Received But Not Perceived (Mashour & Bharioke 2024 on signals reaching brain but not manifesting in consciousness), and Meditative Cessation (voluntary withdrawal as evidence for consciousness using rather than emerging from brain). Updated frontmatter with altered-states-of-consciousness and meditation-and-consciousness-modes at top of concepts. Added Mashour et al. (2024) references.
+- **Output**: Updated `concepts/filter-theory.md`
 
 ### ✓ 2026-01-19: Deep review buddhism-and-dualism.md for research integration
 - **Type**: deep-review
