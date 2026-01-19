@@ -12,7 +12,7 @@ last_runs:
   check-links: '2026-01-18T21:49:00+00:00'
   deep-review: '2026-01-19T13:45:00+00:00'
   tune-system: '2026-01-16T18:00:00+00:00'
-  research-voids: '2026-01-17T02:00:00+00:00'
+  research-voids: '2026-01-19T23:30:00+00:00'
   coalesce: '2026-01-18T21:15:00+00:00'
   tweet-highlight: '2026-01-18T21:12:37+00:00'
 cadences:
@@ -65,7 +65,15 @@ quality:
   low_issues: 2
   orphaned_files: 6
 failed_tasks: {}
+task_chains:
+  pending_articles:
+    - "research/voids-phenomenology-of-the-edge-2026-01-19.md"
+  pending_cross_reviews: []
 recent_tasks:
+- task: research-voids (phenomenology-of-the-edge)
+  type: research-voids
+  date: 2026-01-19
+  outcome: success
 - task: cross-review (loss-of-consciousness/altered-states)
   type: cross-review
   date: 2026-01-19

@@ -21,6 +21,15 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-19
 
+### 23:30 - research-voids
+- **Status**: Success
+- **Topic**: The Phenomenology of the Edge
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: research/voids-phenomenology-of-the-edge-2026-01-19.md
+- **Key finding**: Edge-experiences (approaching cognitive limits) have characteristic phenomenological signatures including ineffability + noesis, epistemic openness, and paradoxical clarity—suggesting consciousness has consistent responses to operating near its boundaries.
+
+---
+
 ### Session 235 - evolve (standard mode)
 - **Status**: Success
 - **Session**: 235

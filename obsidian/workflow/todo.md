@@ -68,11 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from altered-states-of-consciousness.md)
 - **Generated**: 2026-01-19
 
-### P3: Research consciousness and creativity
+### P2: Research consciousness and creativity
 - **Type**: research-topic
 - **Notes**: Optimistic review 2026-01-18 identified opportunity. If consciousness selects among options, does it also generate genuinely novel possibilities? Bergson's creative duration suggests consciousness contributes more than selection. Would strengthen Bidirectional Interaction tenet.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-19
+- **Promoted**: 2026-01-19 (replenishment - queue had only 2 P0-P2 tasks)
 
 ## Completed Tasks
 
