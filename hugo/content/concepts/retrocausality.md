@@ -1,16 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-17 03:25:00+00:00
+ai_modified: 2026-01-19 12:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[quantum-indeterminacy-free-will]]'
 - '[[qualia]]'
 - '[[locality]]'
 - '[[quantum-consciousness]]'
 - '[[libet-experiments]]'
 - '[[collapse-and-time]]'
 - '[[philosophy-of-time]]'
+- '[[motor-selection]]'
 created: 2026-01-07
 date: &id001 2026-01-07
 draft: false
@@ -85,6 +87,8 @@ If this selection operates retrocausally, then:
 
 The readiness potential doesn't precede conscious choice in any causally significant sense—it's part of the package that consciousness selected, including its temporal ordering.
 
+The [systematic treatment of quantum indeterminacy and free will](/concepts/quantum-indeterminacy-free-will/) develops this framework in detail, showing how retrocausality dissolves the temporal ordering problem within the broader context of the [luck objection](/concepts/luck-objection/) response. Consciousness doesn't merely select an outcome—it selects the entire temporal sequence, including the neural preparation that appears to "precede" awareness. This transforms what looks like deterministic prediction into selected history.
+
 ### The Atemporal Selection Model
 
 Cramer's transactional interpretation suggests that quantum transactions are fundamentally atemporal. If consciousness operates at this level, then conscious selection might also be atemporal—not occurring at a moment in linear time but determining which moments become actual.
@@ -114,6 +118,12 @@ Retrocausality complements the specific [quantum consciousness mechanisms](/conc
 **Stapp's quantum Zeno and retrocausality**: Stapp's model proposes that conscious attention acts like repeated quantum observations, stabilizing desired neural patterns. Combined with retrocausality, this suggests attention might work through retrocausal handshakes—the later "observation" events retroactively constraining which neural patterns were ever available. The Zeno freezing operates across time, not merely within it.
 
 Both approaches benefit from retrocausality because it dissolves the Libet objection without requiring consciousness to somehow "speed up" to precede neural preparation.
+
+### Motor Selection: Independent Corroboration
+
+The retrocausal framework gains support from [motor control research](/concepts/motor-selection/). Willed movement shows the same neural signatures as willed attention—frontal theta oscillations, ~300ms deployment time, distinct willed vs instructed signatures. If retrocausal selection operated only in attention, skeptics might dismiss it as interpretation-dependent. But two independent domains showing identical selection architecture suggests the framework captures something real.
+
+Importantly, the Libet challenge to motor control has weakened substantially. Sjöberg (2024) demonstrated that surgical resection of the supplementary motor area—where the readiness potential is generated—doesn't impair voluntary action. Desmurget's double dissociation separates intention (parietal) from execution (premotor). The readiness potential may be preparation for execution, not the decision itself. Retrocausality explains why: consciousness selected the complete motor sequence, including its temporal preparation.
 
 ## Time Ontology and Retrocausality
 
@@ -145,11 +155,14 @@ The Libet experiments don't refute conscious causation; they reveal that conscio
 
 ## Further Reading
 
+- [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Systematic treatment of how quantum indeterminacy supports libertarian free will, including the retrocausal resolution
+- [motor-selection](/concepts/motor-selection/) — Motor control as a second selection domain showing identical architecture
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series, presentism vs eternalism, and how the site reconciles these with retrocausality
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry and why consciousness may be constitutive of time's arrow
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — The site's full treatment of time, collapse, and conscious agency
 - [libet-experiments](/concepts/libet-experiments/) — Detailed treatment of Libet's experiments, Schurger's neural noise critique, and the retrocausal resolution
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific quantum mechanisms (Orch OR, Stapp's Zeno) that retrocausality complements
+- [luck-objection](/concepts/luck-objection/) — Why consciousness-selected outcomes differ from lucky random events
 - [tenets](/tenets/) — The site's foundational commitments, especially Bidirectional Interaction and Minimal Quantum Interaction
 - [locality](/concepts/locality/) — Related concept on how non-local effects work without violating causality
 - [Libet Research Notes](/research/libet-experiments-free-will-2026-01-07/) — Original research notes

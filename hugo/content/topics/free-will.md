@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-19 03:35:00+00:00
+ai_modified: 2026-01-19 06:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[quantum-indeterminacy-free-will]]'
 - '[[retrocausality]]'
 - '[[qualia]]'
 - '[[interactionist-dualism]]'
@@ -34,6 +35,7 @@ last_deep_review: 2026-01-15 14:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[quantum-mechanics-free-will-2026-01-16]]'
 - '[[libet-experiments-free-will-2026-01-07]]'
 - '[[luck-objection-libertarian-free-will-2026-01-17]]'
 - '[[voluntary-attention-control-mechanisms-2026-01-17]]'
@@ -92,7 +94,7 @@ Classical physics is deterministic, but quantum mechanics isn't. Before measurem
 
 Does this help? Critics argue quantum randomness doesn't give us free will—it gives us random will. Random choices aren't more "free" than determined ones; they're just arbitrary.
 
-This intuition has been developed into what philosophers call the **[luck objection](/concepts/luck-objection/)**—and addressing it is essential for any quantum approach to free will.
+This intuition has been developed into what philosophers call the **[luck objection](/concepts/luck-objection/)**—and addressing it is essential for any quantum approach to free will. The [quantum indeterminacy and free will](/concepts/quantum-indeterminacy-free-will/) article provides comprehensive systematization of how quantum mechanics relates to libertarian freedom, covering the event-causal vs agent-causal distinction, the quantum Zeno mechanism, and why consciousness-selected indeterminism escapes the luck objection.
 
 ### The Luck Objection
 
@@ -431,6 +433,7 @@ This isn't a proof. It's a coherent picture that takes both consciousness and ph
 
 ## Further Reading
 
+- [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Comprehensive systematization of how quantum indeterminacy supports libertarian free will through consciousness-selected outcomes
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How consciousness both generates and selects possibilities, strengthening the case for genuine agency
 - [mental-causation](/concepts/mental-causation/) — Why mental causation is essential for free will and how the quantum framework addresses Kim's exclusion argument
 - [agent-causation](/concepts/agent-causation/) — Agent vs. event causation and why this site's framework is agent-causal
