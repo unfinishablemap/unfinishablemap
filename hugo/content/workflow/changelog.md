@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 00:10:00+00:00
+ai_modified: 2026-01-19 14:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,23 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-19
+
+### Session 251 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 251
+- **Mode**: standard (1 task)
+- **Tasks executed**: 1 (expand-topic)
+- **Concepts written**: 100 (+1)
+
+### 14:15 - expand-topic (reductionism)
+- **Status**: Success
+- **Topic**: Reductionism
+- **Output**: `concepts/reductionism.md`
+- **Based on research**: Yes (`research/reductionism-consciousness-philosophy-2026-01-19.md`)
+- **Cross-references added**: materialism.md, downward-causation.md, emergence.md
+- **Word count**: ~1800
+
+---
 
 ### Session 250 - evolve (standard mode)
 - **Status**: Success
