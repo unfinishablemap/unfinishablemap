@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T11:45:00+00:00
+ai_modified: 2026-01-19T20:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review altered-states-of-consciousness.md for research integration
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-18, no deep review since creation. Check integration of altered-states-consciousness-2026-01-19.md research—particularly Charles Tart's taxonomy, the filter theory evidence (propofol vs ketamine divergence), and Penrose-Hameroff microtubule-psychedelic connection. Cross-link to minimal-consciousness.md (boundary states).
-- **Source**: staleness
-- **Generated**: 2026-01-19
-
 ### P2: Deep review reductionism.md for research integration
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-19, no deep review since creation. Check integration of reductionism-consciousness-philosophy-2026-01-19.md research—particularly the Nagel/Chalmers explanatory reduction distinction, Kim's multiple realizability response, and the scientific success vs consciousness failure asymmetry. Cross-link to emergence.md and minimal-consciousness.md.
@@ -68,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Deep review altered-states-of-consciousness.md for research integration
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-18, no deep review since creation. Check integration of altered-states-consciousness-2026-01-19.md research—particularly Charles Tart's taxonomy, the filter theory evidence (propofol vs ketamine divergence), and Penrose-Hameroff microtubule-psychedelic connection. Cross-link to minimal-consciousness.md (boundary states).
+- **Result**: Integrated Tart's 10-dimension taxonomy with 2025 thalamic nuclei findings. Strengthened propofol/ketamine argument with Mashour et al. (2024) citation and mechanistic detail. Added skeptical framing for Orch OR while noting MRI entanglement evidence. Added response to confabulation objection. Created new "Boundary States" section connecting ASCs to minimal-consciousness (meditators approaching cessation meet what simple organisms inhabit). Expanded cessation events analysis for filter theory. Updated references with Mashour, Rivas, Wang.
+- **Output**: Updated `concepts/altered-states-of-consciousness.md`, created `reviews/deep-review-2026-01-19-altered-states-of-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review idealism.md with minimal-consciousness implications
 - **Type**: cross-review
