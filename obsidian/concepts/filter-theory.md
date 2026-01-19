@@ -3,11 +3,13 @@ title: "Filter Theory of Consciousness"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-19T05:15:00+00:00
+ai_modified: 2026-01-19T12:08:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
+  - "[[altered-states-of-consciousness]]"
+  - "[[meditation-and-consciousness-modes]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[interactionist-dualism]]"
   - "[[mind-brain-separation]]"
@@ -15,7 +17,6 @@ concepts:
   - "[[near-death-experiences]]"
   - "[[dreams-and-consciousness]]"
   - "[[brain-specialness]]"
-  - "[[altered-states-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -74,6 +75,22 @@ Huxley's key insight: reduced brain activity can *increase* conscious experience
 Neuroimaging studies of psychedelic states consistently show *decreased* activity in key brain regions—particularly the default mode network—alongside reports of *expanded*, *richer*, *more vivid* conscious experience. This is backwards on production models: less neural activity should produce less consciousness.
 
 Filter theory explains this naturally: reduced DMN activity represents reduced filtering. With the reducing valve loosened, more of consciousness manifests. The experience is richer precisely *because* brain activity is reduced.
+
+### The Anesthetic Divergence
+
+Different anaesthetics can produce identical behavioural outputs—unresponsiveness, amnesia—while generating radically different conscious experiences. Ketamine preserves vivid experience despite behavioral unresponsiveness; propofol eliminates experience entirely. Mashour et al. (2024) demonstrate this neuroimaging: both agents suppress cortical activity, but through different thalamic pathways with different phenomenal consequences.
+
+This divergence is problematic for production models: if consciousness is produced by brain states, similar behavioral suppression should correlate with similar phenomenal suppression. The divergence suggests the brain *mediates* rather than *generates* experience—different anaesthetics disrupt the filter differently, with different consequences for what manifests.
+
+### Received But Not Perceived
+
+Mashour and Bharioke's 2024 *Neuron* review confirms that sensory information reaches the brain during light sedation but is not perceived—what they term "received but not perceived." The signal arrives at sensory cortex; something prevents its manifestation in consciousness. This is precisely what filter theory predicts: the signal reaches the interface but the interface blocks transmission. Disrupt the filter mechanism differently (ketamine vs. propofol), and the same signal may or may not reach consciousness.
+
+### Meditative Cessation
+
+Advanced meditation produces cessation events—"radically altered states characterised by full loss of phenomenal content"—that differ fundamentally from anaesthetic unconsciousness. Unlike drug-induced states (externally imposed, often disorienting), cessation is voluntary and transformative. Meditators deliberately withdraw consciousness from neural processing, then return with reported insights.
+
+The key difference: anaesthesia disrupts the filter from outside; cessation may represent consciousness *releasing* its grip on the filter from inside. If consciousness merely emerged from brain activity, voluntary cessation should be impossible—one cannot voluntarily eliminate the activity producing oneself. But if consciousness *uses* the brain as interface, it might choose to disengage. The transformative reports of advanced practitioners upon return suggest consciousness operated during cessation unconstrained by the brain-interface.
 
 ### Near-Death Experiences
 
@@ -175,8 +192,10 @@ Filter theory supports and is supported by the site's [[tenets|foundational comm
 
 ## References
 
-- James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
 - Bergson, H. (1896). *Matter and Memory*. Trans. N.M. Paul and W.S. Palmer.
-- Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
 - Carhart-Harris, R., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *PNAS*, 109(6), 2138-2143.
+- Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
+- James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
 - Kelly, E.F., et al. (2007). *Irreducible Mind: Toward a Psychology for the 21st Century*. Rowman & Littlefield.
+- Mashour, G. A. & Bharioke, A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(8).
+- Mashour, G. A., et al. (2024). Differential thalamic mechanisms of propofol and ketamine anaesthesia. *Anesthesiology*, 140(5), 923-934.
