@@ -3,10 +3,11 @@ title: "The Hard Problem of Consciousness"
 created: 2026-01-06
 modified: 2026-01-18
 human_modified:
-ai_modified: 2026-01-19T22:00:00+00:00
+ai_modified: 2026-01-19T10:35:00+00:00
 draft: false
 topics: []
 concepts:
+  - "[[minimal-consciousness]]"
   - "[[dualism]]"
   - "[[qualia]]"
   - "[[epiphenomenalism]]"
@@ -87,6 +88,22 @@ Now consider: pain is C-fiber firing (or some other neural state). Does this exp
 The identity statement might be true. Pain might *be* C-fiber firing in some metaphysical sense. But the identity doesn't *explain*. It leaves us wondering: why does C-fiber firing feel like *that*? Why does it feel like *anything*?
 
 This gap is not merely a current limitation. It seems structural—a consequence of what physical explanations *are*. Physics describes structure, function, and dynamics. It tells us how parts relate, how systems evolve, what causes what. But the qualitative character of experience—the redness of red, the painfulness of pain—seems to be a different kind of thing entirely.
+
+## The Gap Illustrated: Complete Knowledge of Simple Minds
+
+The explanatory gap gains sharpest focus when we consider [[minimal-consciousness|consciousness in simple organisms]]. The roundworm *C. elegans* is the most thoroughly mapped organism in neuroscience: exactly 302 neurons, 8,000 chemical synapses, 890 gap junctions. We know its complete neural connectome—every connection, every pathway. Yet we cannot determine whether *C. elegans* experiences anything.
+
+This is the hard problem made empirically vivid. With human brains, we might hope that complete structural knowledge would eventually yield understanding of experience. *C. elegans* shows this hope is misplaced. We *have* complete structural knowledge—and we still cannot say whether there is something it is like to be a worm.
+
+The organism exhibits behaviours suggestive of experience: habituation, sensitisation, associative learning, response to anaesthetics similar to vertebrates. Computational models show positive Phi (integrated information) values. Yet it fails trace-conditioning paradigms critical to unlimited associative learning. The behavioural evidence points in both directions. And crucially, no amount of additional structural data—we already have all of it—resolves the question.
+
+This illustrates why the hard problem is *hard*. The gap is not about missing information. Adding more neurons to our map, more synaptic weights to our models, more behavioural data to our catalogue, does not bring us closer to knowing whether there's an inside to *C. elegans*. Complete physical description fails to tell us whether experience is present in even the simplest nervous systems we can fully characterise.
+
+The Hydra case extends the puzzle. With approximately 900 neurons in a decentralised nerve net—no brain, no ganglia—Hydra challenges assumptions that consciousness requires centralised processing. If experience requires unity, can it exist distributed across a nerve net controlling different behaviours independently? Or might Hydra have multiple micro-experiences without [[phenomenal-unity]]?
+
+Slime moulds push further still: *Physarum polycephalum* solves mazes and displays habituation with no neurons whatsoever. If cognition occurs without neurons, the neural correlates we seek may be neither necessary nor sufficient for experience. We may be looking for the correlates in the wrong place—or the very search may be misconceived.
+
+These boundary cases do not solve the hard problem. They clarify it. If we cannot explain how 86 billion neurons produce experience, we cannot explain how 302 neurons do either. The failure is not about complexity but about the fundamental nature of the gap. Complete structural knowledge of *C. elegans* demonstrates that physical description, no matter how exhaustive, does not bridge to phenomenal facts.
 
 ## Phenomenological Evidence: The Witness
 
@@ -411,6 +428,7 @@ Whether this specific proposal is correct matters less than the underlying point
 ## Further Reading
 
 ### On This Site
+- [[minimal-consciousness]] — Complete structural knowledge of simple organisms still doesn't bridge the explanatory gap
 - [[dualism]] — Foundational overview: what dualism claims, main varieties, and the four converging arguments
 - [[substrate-independence-critique]] — Why the hard problem entails substrate skepticism
 - [[witness-consciousness]] — The subject-object structure revealed by contemplative practice
