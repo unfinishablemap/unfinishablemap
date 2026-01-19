@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T20:30:00+00:00
+ai_modified: 2026-01-19T10:36:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-19
 
-### P2: Cross-review hard-problem-of-consciousness.md with minimal-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article concepts/minimal-consciousness.md provides empirical data on consciousness at its simplest (C. elegans 302 neurons, Hydra nerve nets, slime molds without neurons). The topics/hard-problem-of-consciousness.md page should integrate these cases—particularly what it means for consciousness to exist in such simple systems and how this informs the explanatory gap.
-- **Source**: chain (from minimal-consciousness.md)
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review mysterianism.md with minimal-consciousness findings
 - **Type**: cross-review
 - **Notes**: New article concepts/minimal-consciousness.md covers organisms at consciousness boundaries. The concepts/mysterianism.md page discusses cognitive closure—can we understand consciousness in systems far simpler than us? These boundary cases may inform whether the hard problem is a mystery or merely difficult.
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review hard-problem-of-consciousness.md with minimal-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/minimal-consciousness.md provides empirical data on consciousness at its simplest (C. elegans 302 neurons, Hydra nerve nets, slime molds without neurons). The topics/hard-problem-of-consciousness.md page should integrate these cases—particularly what it means for consciousness to exist in such simple systems and how this informs the explanatory gap.
+- **Result**: Added new "The Gap Illustrated: Complete Knowledge of Simple Minds" section demonstrating the hard problem through C. elegans (complete connectome mapped, still can't determine if it experiences), Hydra (decentralized nerve net), and slime molds (cognition without neurons). Added minimal-consciousness.md to concepts frontmatter at top position and to Further Reading with description.
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review phenomenal-unity.md with minimal-consciousness boundary cases
 - **Type**: cross-review
