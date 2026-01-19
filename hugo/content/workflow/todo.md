@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 10:30:00+00:00
+ai_modified: 2026-01-19 22:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -63,6 +63,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review integrated-information-theory.md with minimal-consciousness Phi evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/minimal-consciousness.md mentions that C. elegans "shows positive Phi (integrated information) values in computational models." The IIT page should reference this empirical application and discuss what minimal Phi means for IIT's consciousness predictions—particularly whether 302 neurons can generate sufficient integration.
+- **Result**: Added new "Empirical Tests: Minimal Phi in Simple Organisms" subsection covering C. elegans computational Phi models, the tension between IIT and UAL frameworks (positive Phi but fails trace conditioning), the binding question (does Phi measure the right integration?), and the quantity vs quality implication (graduated consciousness). Added minimal-consciousness.md to concepts frontmatter and Further Reading.
+- **Output**: Updated `concepts/integrated-information-theory.md`
 
 ### ✓ 2026-01-19: Cross-review binding-problem.md with quantum entanglement findings
 - **Type**: cross-review

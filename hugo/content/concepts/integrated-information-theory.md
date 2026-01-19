@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-19 00:30:00+00:00
+ai_modified: 2026-01-19 10:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[minimal-consciousness]]'
 - '[[qualia]]'
 - '[[panpsychism]]'
 - '[[global-workspace-theory]]'
@@ -67,6 +68,20 @@ The system with the highest phi is the "maximally irreducible conceptual structu
 Any system with non-zero phi is conscious to some degree. This includes not just brains but any integrated information structure. Tononi accepts this implication openly. A photodiode might have minimal phi—and thus minimal experience. The universe might be studded with micro-consciousnesses wherever integration exists.
 
 This isn't a bug for IIT; it's a feature. If consciousness can't emerge from wholly non-conscious matter (the [hard problem](/topics/hard-problem-of-consciousness/)), then perhaps it was always there, varying in degree rather than appearing from nothing.
+
+### Empirical Tests: Minimal Phi in Simple Organisms
+
+IIT's claim that any system with positive Phi is conscious generates testable predictions at life's simplest scales. Computational models of *C. elegans*—the 302-neuron nematode with a fully mapped connectome—show positive Phi values. If IIT is correct, this worm has phenomenal experience. The theory commits to this whether or not it seems intuitively plausible.
+
+But what does minimal Phi predict about minimal consciousness? The *C. elegans* case reveals tensions within IIT:
+
+**Integration without UAL**: *C. elegans* shows positive Phi but fails trace conditioning—a key marker in the Unlimited Associative Learning framework for attributing consciousness. IIT and UAL disagree about the worm's conscious status. IIT says: positive Phi means some experience. UAL says: failing trace conditioning suggests no experience. Both frameworks claim empirical grounding; they reach opposite conclusions.
+
+**The binding question**: IIT's Phi measures integration across the whole system, but *C. elegans* shows relatively modular neural circuits. Does Phi measure the right kind of integration? The worm's connectome is known completely, yet researchers cannot calculate its actual Phi due to computational intractability—they can only estimate it for simplified models.
+
+**Quantity versus quality**: If a 302-neuron worm has positive Phi, its experience would be vastly simpler than human consciousness. IIT predicts this: Phi scales with integration, so minimal neural systems should have minimal experience. But this makes consciousness appear graduated rather than threshold-based—a counterintuitive implication that IIT embraces.
+
+See [minimal-consciousness](/concepts/minimal-consciousness/) for detailed treatment of consciousness in simple organisms and the distribution problem IIT's panpsychism raises.
 
 ### Substrate Matters
 
@@ -148,6 +163,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 
 ## Further Reading
 
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical tests of IIT in simple organisms
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle IIT addresses
 - [panpsychism](/concepts/panpsychism/) — A related view on consciousness's ubiquity
 - [global-workspace-theory](/concepts/global-workspace-theory/) — IIT's main rival, also tested in COGITATE
