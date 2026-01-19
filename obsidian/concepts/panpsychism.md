@@ -3,11 +3,12 @@ title: "Panpsychism"
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-01-15T22:00:00+00:00
+ai_modified: 2026-01-19T09:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
+  - "[[evolution-of-consciousness]]"
   - "[[qualia]]"
   - "[[russellian-monism]]"
   - "[[combination-problem]]"
@@ -41,6 +42,8 @@ If consciousness can't emerge from the non-conscious, panpsychists conclude it m
 
 This is elegant. It solves the hard problem by denying consciousness emerges at all; it was always there. It respects physics by not contradicting anything physics says about matter's behavior. And it's parsimonious in a sense: one kind of stuff (experiential) rather than physicalism's unexplained emergence.
 
+Panpsychism also addresses the [[prebiotic-collapse|prebiotic collapse problem]]: if consciousness participates in quantum measurement, what collapsed wavefunctions before any biological minds existed? For panpsychists, this is no problem—proto-conscious properties were present from the universe's beginning. The [[evolution-of-consciousness|evolutionary emergence of complex minds]] didn't create consciousness from nothing; it organised pre-existing experiential properties into integrated subjects.
+
 ### Russellian Panpsychism and Its Variants
 
 [[russellian-monism|Russellian panpsychism]] (named after Bertrand Russell's insight) provides the most developed theoretical framework for panpsychism. Russell and Eddington observed that physics describes only the *relational* properties of matter—what things do to each other—leaving intrinsic nature unspecified. Mass describes gravitational and inertial behavior; charge describes electromagnetic interactions. But what *is* the stuff that has these dispositions? Physics doesn't say. These hidden intrinsic properties are called *quiddities*.
@@ -64,6 +67,8 @@ This is the *combination problem*. It has several variants:
 **Palette problem**: Electrons presumably have very simple experiences. How do these generate the rich palette of human qualia—colors, sounds, emotions?
 
 **Structural mismatch**: Physics describes discrete particles; consciousness seems to have continuous, spatial structure. How does one give rise to the other?
+
+**The evolutionary distribution question**: If all matter has experiential properties, why does consciousness apparently track neural complexity and behavioural flexibility? The panpsychist answer: what we recognise as "consciousness" is organised, integrated experience. Simple systems have only simple, fragmented experience; complex neural systems achieve the [[phenomenal-unity|phenomenal unity]] we associate with minds. Evolution didn't create experience—it created the integrating structures that amplify and unify pre-existing experiential properties (see [[evolution-of-consciousness#The Emergence Question|the emergence question]]).
 
 Panpsychists have responses. Strawson argues that experiential-from-experiential emergence, while mysterious, is less mysterious than experiential-from-non-experiential emergence. Cosmopsychists (like the later Philip Goff) invert the problem: perhaps the universe as a whole is conscious, and individual minds are dissociated fragments of universal consciousness.
 
@@ -140,9 +145,11 @@ But the site thinks interactionist dualism offers a cleaner solution. Consciousn
 
 ## Further Reading
 
+- [[evolution-of-consciousness]] — How panpsychism addresses the evolutionary emergence question
 - [[combination-problem]] — The central challenge facing panpsychism
 - [[russellian-monism]] — The most developed theoretical framework for panpsychism
 - [[analytic-idealism]] — An alternative anti-physicalist view that claims to avoid the combination problem
+- [[prebiotic-collapse]] — The problem of quantum collapse before biological minds
 - [[hard-problem-of-consciousness]] — The central puzzle both views address
 - [[panpsychism-consciousness-2026-01-08]] — Detailed research notes
 - [[tenets]] — The site's foundational commitments
