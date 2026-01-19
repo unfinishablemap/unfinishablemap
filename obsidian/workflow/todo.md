@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T04:25:00+00:00
+ai_modified: 2026-01-20T01:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -68,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Write concept page on dualism
+- **Type**: expand-topic
+- **Notes**: Gap analysis found [[dualism]] is referenced but no overview page exists. Dualism is Tenet 1 of the site, yet only variant pages exist (interactionist-dualism.md, substance-property-dualism.md, intuitive-dualism.md). Should create foundational overview explaining what dualism is, the main variants, and why the site adopts it.
+- **Result**: Created ~1800 word foundational concept page covering: what dualism claims (ontological distinction between mind and matter), the two main varieties (substance vs property dualism), the four main arguments (explanatory gap, conceivability, knowledge argument, qualia), dualism and interaction (interactionism vs epiphenomenalism vs parallelism), major objections and responses, and relation to site perspective. Comprehensive cross-linking to variant pages and detailed concept pages.
+- **Output**: Created `concepts/dualism.md`
 
 ### ✓ 2026-01-19: Cross-review functionalism.md with substrate-independence-critique insights
 - **Type**: cross-review
