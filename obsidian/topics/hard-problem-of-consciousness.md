@@ -3,7 +3,7 @@ title: "The Hard Problem of Consciousness"
 created: 2026-01-06
 modified: 2026-01-18
 human_modified:
-ai_modified: 2026-01-18T22:15:00+00:00
+ai_modified: 2026-01-19T00:50:00+00:00
 draft: false
 topics: []
 concepts:
@@ -34,6 +34,7 @@ concepts:
   - "[[semantic-memory]]"
   - "[[cognitive-phenomenology]]"
   - "[[witness-consciousness]]"
+  - "[[altered-states-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[materialism]]"
@@ -226,6 +227,22 @@ The paradox doesn't *prove* dualism, but it resists easy dismissal. Standard exp
 
 Whether this explanation is correct matters less than what the data shows: the brain-consciousness relationship is more complex than simple production models suggest. This complexity is precisely what the hard problem leads us to expect.
 
+### Altered States and Configurable Interface
+
+[[altered-states-of-consciousness|Altered states of consciousness (ASCs)]]—psychedelics, anesthesia, meditation, flow, hypnosis—offer systematic evidence that the brain-consciousness interface has *configurable settings* rather than functioning as a simple producer.
+
+Several findings resist the production model:
+
+**Divergent experiences from identical outputs.** Different anaesthetics can produce identical *behavioural* outputs—unresponsiveness, amnesia—while producing radically different *experiences*. Ketamine preserves vivid awareness despite behavioural unresponsiveness; propofol seems to eliminate experience entirely. If consciousness were simply produced by brain states, similar behavioural suppression should correlate with similar experiential suppression. The divergence suggests consciousness is *filtered* differently rather than *produced* differently.
+
+**Information received but not perceived.** Anesthesia research (2024) confirms that sensory information reaches the brain during light sedation but is not consciously perceived. The neural signal arrives; something prevents its manifestation in consciousness. This is what filter theory predicts—disruption of the *interface* rather than disruption of consciousness itself.
+
+**Expansion rather than distortion.** Psychedelics often *expand* rather than merely scramble perception—users report enhanced pattern recognition, access to normally unconscious material, and persistent insights. Aldous Huxley's "reducing valve" metaphor captures this: the brain normally constrains consciousness to action-relevant information; psychedelics loosen the constraint. Neuroimaging confirms a paradox: psychedelics *decrease* local network integration while *increasing* global network connectivity. The result is not chaos but reorganisation.
+
+**Voluntary reconfiguration.** Advanced meditation demonstrates that consciousness can deliberately reconfigure its neural interface. Meditators voluntarily enter states ranging from focused absorption to witness awareness to cessation events. The key insight is *control*: if consciousness can deliberately alter the interface, consciousness cannot be a passive product of it.
+
+These patterns illuminate the hard problem from a new angle. The explanatory gap asks why neural activity produces experience at all. ASC evidence sharpens the question: why do *similar* neural states sometimes produce radically *different* experiences? Why can consciousness deliberately *reconfigure* the very states that supposedly produce it? The production model struggles with both questions. The filter model—consciousness using the brain as a configurable interface—handles them naturally.
+
 ### Materialist Responses
 
 [[materialism|Materialism]] offers several responses to the hard problem, none of them satisfying:
@@ -387,6 +404,7 @@ Whether this specific proposal is correct matters less than the underlying point
 - [[explanatory-gap]] — Levine's formulation and physicalist responses
 - [[neural-correlates-of-consciousness]] — Why empirical progress doesn't solve the problem
 - [[near-death-experiences]] — Empirical anomalies that challenge brain-production models
+- [[altered-states-of-consciousness]] — How psychedelics, anesthesia, and meditation reveal the configurable interface
 - [[temporal-consciousness]] — The temporal structure that also needs explaining
 - [[collapse-and-time]] — How consciousness may be constitutive of time's direction
 - [[binding-problem]] — How phenomenal unity extends the hard problem
