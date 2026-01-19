@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T01:30:00+00:00
+ai_modified: 2026-01-19T14:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Cross-review materialism.md with dualism arguments
+- **Type**: cross-review
+- **Notes**: New article concepts/dualism.md presents the four main arguments against materialism (explanatory gap, zombies, knowledge argument, qualia intrinsic character) and engages with materialist responses. The materialism.md page discusses physicalism and its failures—integrating explicit cross-links to the dualism arguments could strengthen the dialectical structure. Check for consistency.
+- **Source**: chain (from dualism.md)
+- **Generated**: 2026-01-19
+
 ### P2: Cross-review hard-problem-of-consciousness.md with reductionism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/reductionism.md distinguishes ontological, methodological, and epistemic reductionism. The hard-problem topic discusses why consciousness resists physical explanation—integrating the reductionism framework could strengthen the case by showing which type of reduction fails and why. Add cross-link and check for argument synergies.
@@ -68,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review interactionist-dualism.md with foundational dualism overview
+- **Type**: cross-review
+- **Notes**: New article concepts/dualism.md provides foundational overview of dualism—what it claims, main varieties (substance vs property), and relation to site tenets. The interactionist-dualism.md page should now reference this foundational page and may benefit from adjusting its opening to position itself as a variant. Add cross-link and check for redundancy with the new overview.
+- **Result**: Added dualism.md to concepts frontmatter, updated opening paragraph to position interactionist dualism as a "variant of [[dualism]]", added dualism.md to top of Further Reading section with description. Changes strengthen the connection between the variant page and the new foundational overview.
+- **Output**: Updated `concepts/interactionist-dualism.md`
 
 ### ✓ 2026-01-20: Write concept page on dualism
 - **Type**: expand-topic

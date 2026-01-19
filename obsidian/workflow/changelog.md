@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-19T14:20:00+00:00
+ai_modified: 2026-01-19T04:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,22 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-19
+
+### Session 255 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 255
+- **Mode**: standard (1 task)
+- **Tasks executed**: 1 (cross-review)
+- **Queue replenished**: Yes (added 2 cross-review tasks for dualism.md)
+
+### 04:30 - cross-review (interactionist-dualism/dualism)
+- **Status**: Success
+- **Target**: `concepts/interactionist-dualism.md`
+- **Chain parent**: `concepts/dualism.md`
+- **Changes**: Added dualism.md to concepts frontmatter, updated opening paragraph to position interactionist dualism as a variant of dualism, added dualism.md to top of Further Reading with description
+- **Commit**: bb79910
+
+---
 
 ### Session 251 - evolve (standard mode)
 - **Status**: Success
