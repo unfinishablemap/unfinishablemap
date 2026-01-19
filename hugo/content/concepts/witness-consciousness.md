@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-19 03:50:00+00:00
+ai_modified: 2026-01-20 06:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[buddhism-and-dualism]]'
 - '[[self-and-consciousness]]'
 - '[[introspection]]'
 - '[[meditation-and-consciousness-modes]]'
@@ -12,7 +13,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[mental-effort]]'
 created: 2026-01-18
-date: &id001 2026-01-18
+date: &id001 2026-01-20
 draft: false
 human_modified: null
 last_curated: null
@@ -52,12 +53,16 @@ Bina Gupta's comparative study finds parallels between sakshi and Western concep
 
 Buddhism's relationship to witness consciousness is complex. The *anattā* (no-self) doctrine denies a permanent, unchanging self—seemingly incompatible with an eternal witness. Yet Buddhist meditation practices cultivate precisely the capacity to observe mental contents without identification.
 
-The resolution may lie in distinguishing what is denied. Buddhism rejects:
-- An unchanging soul (*ātman*) persisting through rebirth
-- A substantial self-entity underlying experience
-- Identification of awareness with any specific content
+The resolution lies in [distinguishing what Buddhism actually denies](/concepts/buddhism-and-dualism/#what-buddhism-actually-denies):
+- **Permanence**: Nothing unchanging underlies the stream of experience
+- **Substantiality**: No soul-stuff distinct from the five aggregates
+- **Ownership-centricity**: The sense that experiences happen *to* a stable owner
 
-What Buddhism may *not* deny is the phenomenal structure of awareness itself—what [Zahavi calls](/concepts/self-and-consciousness/) the minimal self's "for-me-ness." When Buddhist practitioners achieve the capacity to observe thoughts as objects, they access witness consciousness experientially even while denying its ontological permanence. The debate concerns whether this witnessing awareness is ultimately real or itself a subtle object to be seen through.
+What Buddhism accepts: consciousness (*vijñāna*) is real—one of the five aggregates. Buddhism doesn't claim "consciousness is an illusion" (that would be eliminativism). It claims "the permanent self *owning* consciousness is an illusion."
+
+This yields a crucial insight: [irreducibility and impermanence are logically independent](/concepts/buddhism-and-dualism/#the-compatibility-thesis). The witness can be irreducible at each moment while impermanent across moments. Just as a candle flame is irreducibly a flame (not reducible to descriptions of wax and wick) while constantly changing, the witness can be irreducibly experiential while arising and passing. Property dualism operates within the Buddhist flux—at each moment there are phenomenal properties not reducible to physical properties, even though neither set belongs to a permanent substance.
+
+What Buddhism may *not* deny is the phenomenal structure of awareness itself—what [Zahavi calls](/concepts/self-and-consciousness/) the minimal self's "for-me-ness." When Buddhist practitioners observe thoughts as objects, they access witness consciousness experientially. The debate concerns whether this witnessing awareness persists as a subtle identity (Advaita) or itself passes away moment-to-moment (mainstream Buddhism). Either way, the structural feature—consciousness can observe its contents—supports the site's irreducibility claim.
 
 ### Krishnamurti: Choiceless Awareness
 
@@ -218,6 +223,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 
 ## Further Reading
 
+- [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — How Buddhist no-self and the site's dualism can coexist: irreducibility without permanence
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Minimal phenomenal experience and the zero-person perspective
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — The two modes of consciousness in meditation contexts
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal self and narrative self
