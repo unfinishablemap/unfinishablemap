@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-19 04:15:00+00:00
+ai_modified: 2026-01-19 10:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[buddhism-and-dualism]]'
 - '[[nihilism]]'
 - '[[existentialism]]'
 - '[[neurophenomenology]]'
@@ -160,7 +161,7 @@ The site's Dualism tenet says "consciousness is not reducible to physical proces
 
 This would be a form of property dualism rather than substance dualism. At each moment, there are both physical properties (mass, charge) and phenomenal properties (the felt quality of experience), and the phenomenal properties don't reduce to the physical. But neither set of properties belongs to a permanent substance; both arise and pass dependently.
 
-Buddhism might accept this formulation. The question is whether the site can.
+Buddhism might accept this formulation. The site can too—see [buddhism-and-dualism](/concepts/buddhism-and-dualism/) for detailed analysis showing that Buddhist *anattā* targets only permanence, substantiality, and ownership, not the irreducibility of phenomenal properties. The compatibility thesis: consciousness can be irreducible at each moment while impermanent across moments.
 
 ### No External World?
 
@@ -206,6 +207,7 @@ Eastern philosophy offers several insights the site can integrate:
 
 ## Further Reading
 
+- [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Detailed analysis of compatibility between Buddhist no-self and site's dualism tenet
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Minimal phenomenal experience and the zero-person perspective
 - [witness-consciousness](/concepts/witness-consciousness/) — The sakshi tradition in Advaita Vedanta and Buddhist meditation
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing modes

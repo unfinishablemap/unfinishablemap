@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 10:36:00+00:00
+ai_modified: 2026-01-19 10:51:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -69,6 +69,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review self-and-consciousness.md with Buddhist no-self insights
+- **Type**: cross-review
+- **Notes**: New article concepts/buddhism-and-dualism.md addresses what Buddhism actually denies about selfhood—permanence, substantiality, and ownership-centricity—versus what it accepts about consciousness. The concepts/self-and-consciousness.md page should integrate this nuanced view, distinguishing phenomenal unity from metaphysical self.
+- **Result**: Added buddhism-and-dualism.md to concepts frontmatter at top position. Expanded "What Buddhism Denies" section with detailed analysis of permanence, substantiality, and ownership-centricity. Added new "The Compatibility Thesis" subsection explaining how irreducibility and impermanence are logically independent. Added buddhism-and-dualism.md to Further Reading with description.
+- **Output**: Updated `concepts/self-and-consciousness.md`
+
+### ✓ 2026-01-19: Cross-review eastern-philosophy-consciousness.md with Buddhism and dualism analysis
+- **Type**: cross-review
+- **Notes**: New article concepts/buddhism-and-dualism.md provides detailed analysis of compatibility between Buddhist no-self and irreducible consciousness. The topics/eastern-philosophy-consciousness.md page should reference this reconciliation—particularly the distinction between denying permanent soul-substance vs denying consciousness itself, and the property dualism bridge.
+- **Result**: Added buddhism-and-dualism.md to concepts frontmatter at top position. Added cross-reference to compatibility thesis in the "No Permanent Self" section, clarifying that Buddhist anattā targets only permanence/substantiality/ownership, not irreducibility. Added buddhism-and-dualism.md at top of Further Reading with description.
+- **Output**: Updated `topics/eastern-philosophy-consciousness.md`
 
 ### ✓ 2026-01-19: Write concept page on Buddhist perspectives and dualism
 - **Type**: expand-topic

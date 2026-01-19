@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T10:47:00+00:00
+ai_modified: 2026-01-19T10:51:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review self-and-consciousness.md with Buddhist no-self insights
-- **Type**: cross-review
-- **Notes**: New article concepts/buddhism-and-dualism.md addresses what Buddhism actually denies about selfhood—permanence, substantiality, and ownership-centricity—versus what it accepts about consciousness. The concepts/self-and-consciousness.md page should integrate this nuanced view, distinguishing phenomenal unity from metaphysical self.
-- **Source**: chain (from buddhism-and-dualism.md)
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review mysterianism.md with minimal-consciousness findings
 - **Type**: cross-review
 - **Notes**: New article concepts/minimal-consciousness.md covers organisms at consciousness boundaries. The concepts/mysterianism.md page discusses cognitive closure—can we understand consciousness in systems far simpler than us? These boundary cases may inform whether the hard problem is a mystery or merely difficult.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review self-and-consciousness.md with Buddhist no-self insights
+- **Type**: cross-review
+- **Notes**: New article concepts/buddhism-and-dualism.md addresses what Buddhism actually denies about selfhood—permanence, substantiality, and ownership-centricity—versus what it accepts about consciousness. The concepts/self-and-consciousness.md page should integrate this nuanced view, distinguishing phenomenal unity from metaphysical self.
+- **Result**: Added buddhism-and-dualism.md to concepts frontmatter at top position. Expanded "What Buddhism Denies" section with detailed analysis of permanence, substantiality, and ownership-centricity. Added new "The Compatibility Thesis" subsection explaining how irreducibility and impermanence are logically independent. Added buddhism-and-dualism.md to Further Reading with description.
+- **Output**: Updated `concepts/self-and-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review eastern-philosophy-consciousness.md with Buddhism and dualism analysis
 - **Type**: cross-review
