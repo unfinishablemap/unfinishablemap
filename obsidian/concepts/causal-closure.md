@@ -3,7 +3,7 @@ title: "Causal Closure of the Physical"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-18T12:00:00+00:00
+ai_modified: 2026-01-19T21:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[emergence]]"
   - "[[mental-causation]]"
   - "[[downward-causation]]"
+  - "[[reductionism]]"
 related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism]]"
@@ -45,7 +46,7 @@ As Karl Popper noted, causal closure "is of decisive importance and I take it as
 
 ## The Exclusion Argument
 
-Jaegwon Kim's exclusion argument deploys causal closure against non-reductive physicalism, but it applies equally to dualism:
+Jaegwon Kim's exclusion argument deploys causal closure against non-reductive physicalism, but it applies equally to dualism. (See [[reductionism]] for fuller treatment of Kim's argument and how ontological, methodological, and epistemic reductionism differ.)
 
 1. Physical events have sufficient physical causes (causal closure)
 2. Mental events cause physical events (common-sense premise)
@@ -83,6 +84,8 @@ Finding the right formulation—strong enough to exclude dualist mental causatio
 ### Empirical Status
 
 Causal closure is not an empirical finding but a methodological assumption. Science does not *discover* that every physical event has a sufficient physical cause—it *assumes* this in order to search for physical causes. The success of physics shows that *many* physical events have physical causes, not that *all* do.
+
+This matters for [[reductionism]]. If causal closure is an ontological thesis (a claim about what exists and what causes what), it requires independent justification. If it is merely a methodological thesis (a useful assumption for scientific inquiry), it cannot establish that mental causes don't exist—only that scientific method doesn't look for them. Reductionists treat methodological success as evidence for ontological claims, but methodological reductionism does not entail ontological reductionism.
 
 Moreover, the history of science shows unexpected discoveries that violated prior assumptions. That no violation has been found doesn't mean none exists—especially in domains (like consciousness) that resist physical investigation.
 
@@ -152,6 +155,7 @@ This is not "god of the gaps" reasoning. It's recognition that physics *describe
 
 ## Further Reading
 
+- [[reductionism]] — Ontological vs methodological vs epistemic reduction; why conflating them supports closure illicitly
 - [[mental-causation]] — The philosophical problem causal closure creates
 - [[downward-causation]] — Higher-level causation that closure threatens
 - [[emergence]] — The emergentist response to causal closure
