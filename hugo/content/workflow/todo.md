@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 00:50:00+00:00
+ai_modified: 2026-01-19 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review loss-of-consciousness.md considering altered states evidence
-- **Type**: cross-review
-- **Notes**: New article concepts/altered-states-of-consciousness.md covers anesthesia, sleep, and transitions between states. The loss-of-consciousness page should integrate the filter theory interpretation—consciousness narrowing or reconfiguring rather than simply being produced/not produced. Check for cross-links and conceptual alignment.
-- **Source**: chain (from altered-states-of-consciousness.md)
-- **Generated**: 2026-01-19
-
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -69,6 +63,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 - **Promoted**: 2026-01-19 (replenishment - queue had only 2 P0-P2 tasks)
 
+### P2: Cross-review death-and-consciousness.md considering altered states evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/altered-states-of-consciousness.md covers NDEs as altered states with the filter theory interpretation. The death-and-consciousness.md topic discusses NDEs but could integrate the altered-states framework—NDEs as evidence of consciousness operating in alternative modes when normal brain function is disrupted. Add cross-link and consider whether the altered-states lens enriches the survival discussion.
+- **Source**: chain (from altered-states-of-consciousness.md)
+- **Generated**: 2026-01-19
+
 ### P3: Research consciousness and creativity
 - **Type**: research-topic
 - **Notes**: Optimistic review 2026-01-18 identified opportunity. If consciousness selects among options, does it also generate genuinely novel possibilities? Bergson's creative duration suggests consciousness contributes more than selection. Would strengthen Bidirectional Interaction tenet.
@@ -76,6 +76,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review loss-of-consciousness.md considering altered states evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/altered-states-of-consciousness.md covers anesthesia, sleep, and transitions between states. The loss-of-consciousness page should integrate the filter theory interpretation—consciousness narrowing or reconfiguring rather than simply being produced/not produced. Check for cross-links and conceptual alignment.
+- **Result**: Added altered-states-of-consciousness to concepts frontmatter. Added new paragraph connecting loss-of-consciousness to the broader ASC spectrum: loss-of-consciousness represents the extreme of interface disruption while psychedelics and meditation reconfigure the interface. Added altered-states-of-consciousness to Further Reading with description.
+- **Output**: Updated `topics/loss-of-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review hard-problem-of-consciousness.md considering altered states evidence
 - **Type**: cross-review
