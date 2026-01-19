@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-19T21:20:00+00:00
+ai_modified: 2026-01-19T22:55:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,17 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-19
+
+### 22:55 - deep-review (global-workspace-theory.md)
+- **Status**: Success
+- **File**: obsidian/concepts/global-workspace-theory.md
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing competitor theory links, Block argument without recent support, no empirical distinguishability)
+- **Enhancements made**: Added "Relation to Competing Theories" section (HOT, predictive processing, AST comparisons). Added "Can GWT Be Empirically Distinguished from Dualism?" section with falsifiability analysis. Extended Block overflow argument with Nartker et al. (2025) inattentional blindness evidence. Added 6 new cross-links to frontmatter and Further Reading.
+- **Output**: `reviews/deep-review-2026-01-19-global-workspace-theory.md`
+- **Session**: 344
+
+---
 
 ### 22:50 - deep-review (higher-order-theories.md)
 - **Status**: Success

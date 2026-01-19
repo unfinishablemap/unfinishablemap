@@ -1,25 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-19 04:30:00+00:00
+ai_modified: 2026-01-19 22:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[attention]]'
+- '[[attention-as-interface]]'
+- '[[voluntary-attention]]'
 - '[[functionalism]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[integrated-information-theory]]'
+- '[[higher-order-theories]]'
+- '[[predictive-processing]]'
+- '[[phenomenal-concepts-strategy]]'
 - '[[working-memory]]'
 - '[[episodic-memory]]'
 - '[[semantic-memory]]'
 - '[[implicit-memory]]'
 - '[[autonoetic-consciousness]]'
 - '[[dreams-and-consciousness]]'
+- '[[metacognition]]'
 created: 2026-01-14
-date: &id001 2026-01-14
+date: &id001 2026-01-19
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-19 22:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,6 +72,8 @@ As the Stanford Encyclopedia of Philosophy notes, GWT "provides an account of ac
 
 Ned Block has argued forcefully that these are distinct phenomena. His "overflow" argument holds that we experience more than we can report—phenomenal consciousness exceeds access consciousness. The Sperling experiment suggests we see all twelve letters in a briefly flashed display, even though we can only report four. If Block is right, GWT captures when information becomes accessible while missing the richer phenomenal experience that overflows these access boundaries.
 
+Recent work strengthens Block's case. Nartker et al. (2025) found that "inattentionally blind" participants retain significant visual sensitivity to stimuli they explicitly deny noticing—they can report location, colour, and shape of objects they claim not to have seen. This suggests phenomenal consciousness persists even when the global workspace fails to broadcast information for report. The workspace may be necessary for *access* without being necessary for *experience*.
+
 ## The COGITATE Experiment
 
 The April 2025 COGITATE study represents a landmark event in consciousness research: a seven-year adversarial collaboration where GWT and [IIT](/concepts/integrated-information-theory/) proponents jointly designed experiments to test their theories. The explicit goal was to produce results that could refute one or both theories.
@@ -83,6 +92,30 @@ This outcome supports the [Occam's Razor Has Limits](/tenets/#occams-limits) ten
 COGITATE confirmed that conscious content tracks with posterior cortex (visual, temporal areas) rather than the prefrontal-parietal broadcast network. This has implications beyond laboratory experiments. [Dreaming](/concepts/dreams-and-consciousness/) persists when the posterior hot zone remains active, even during NREM sleep when prefrontal areas are largely offline. If GWT's workspace mechanism were necessary for consciousness, prefrontal deactivation should eliminate experience—yet dreams demonstrate consciousness without full workspace engagement.
 
 The dissociation suggests a refinement: the global workspace may be sufficient for *reportable* consciousness without being necessary for consciousness itself. The filter theory reading remains intact—consciousness may access whatever the posterior cortex provides, with the workspace enabling but not constituting that access.
+
+## Relation to Competing Theories
+
+GWT shares significant territory with other neuroscientific theories while differing in emphasis.
+
+### Higher-Order Theories
+
+[Higher-Order Theories (HOT)](/concepts/higher-order-theories/) and GWT both explain when mental states become conscious by appeal to additional cognitive processing. The difference: HOT requires a higher-order *representation* of the mental state (a thought about the thought), while GWT requires *broadcast* to multiple systems without necessarily representing the state as a mental state.
+
+In practice, the theories often align—global broadcast likely involves metacognitive processes. But they come apart when considering whether consciousness requires explicit self-representation. GWT says no: broadcast suffices. HOT says yes: consciousness requires representation *as* one's own mental state.
+
+The COGITATE results complicate both: if conscious content tracks posterior cortex rather than prefrontal broadcast networks, neither global broadcast nor higher-order representation may be necessary for phenomenal consciousness.
+
+### Predictive Processing
+
+[Predictive processing](/concepts/predictive-processing/) frameworks (Friston, Clark) view the brain as a prediction machine that minimizes surprise. Consciousness enters when predictions and sensory inputs fail to match—prediction error signals demanding attention.
+
+GWT can be integrated with predictive processing: the global workspace might broadcast *prediction errors* that require widespread cognitive engagement. But predictive processing doesn't straightforwardly explain the phenomenal access distinction. Why should minimizing surprise feel like anything? The integration creates a more sophisticated account of *when* states enter the workspace without solving the hard problem of *why* workspace entry generates experience.
+
+### Attention Schema Theory
+
+Michael Graziano's [Attention Schema Theory](/concepts/attention-schema-theory/) holds that consciousness is the brain's simplified model of its own attention processes. The brain represents attention (a real information-processing mechanism) via an internal schema (a simplified model), and this schema is what we call consciousness.
+
+AST complements GWT: the attention schema might determine *which* information enters the workspace. But AST faces the same hard problem objection—representing attention doesn't explain why that representation feels like something.
 
 ## GWT and AI Consciousness
 
@@ -156,9 +189,42 @@ GWT proponents might argue their theory is simpler than dualism—it explains co
 
 GWT explains when and how information becomes accessible. It remains silent on why accessibility feels like anything at all.
 
+## Can GWT Be Empirically Distinguished from Dualism?
+
+A theory's scientific value depends partly on its falsifiability. Can experiments distinguish GWT-as-complete-theory from GWT-as-correlate-description?
+
+### What Would Vindicate GWT Completely?
+
+For GWT to constitute a complete theory of consciousness (not merely describe correlates), it would need to show that:
+
+1. **Broadcast is sufficient**: Every instance of global broadcast produces consciousness
+2. **Broadcast is necessary**: No consciousness occurs without global broadcast
+3. **The hard problem dissolves**: No further "why" question remains once broadcast is explained
+
+Current evidence challenges all three. The COGITATE results suggest broadcast may not be necessary—posterior cortex activity tracks conscious content even without full prefrontal engagement. Block's overflow argument suggests consciousness exceeds broadcast. And the hard problem persists conceptually even when neural mechanisms are perfectly understood.
+
+### What Would Support the Site's Reading?
+
+For GWT-as-correlate (compatible with dualism), evidence would show:
+
+1. **Dissociable components**: Conscious experience can occur without broadcast (dreaming with prefrontal deactivation) and broadcast can occur without full consciousness (subliminal processing that reaches multiple systems)
+2. **Causal influence from consciousness to broadcast**: Attention—proposed as the [interface where consciousness influences physics](/concepts/attention-as-interface/)—selects what enters the workspace, not merely the reverse
+3. **Irreducible phenomenal properties**: Subjects can discriminate phenomenal features (qualia inversions, gradations of experience) that map imperfectly onto workspace dynamics
+
+Current evidence leans toward dissociability. The question is whether this reflects incomplete understanding of GWT or genuine limits to physical explanation.
+
+### The Methodological Impasse
+
+A deeper problem: experiments can only detect consciousness through report, behaviour, or physiological correlates—all of which involve access rather than phenomenal consciousness directly. If phenomenal consciousness *does* overflow access, we have no direct experimental purchase on it.
+
+This methodological constraint cuts both ways. GWT proponents can claim any apparent overflow is actually access-consciousness in disguise. Dualists can claim any apparent correlation leaves phenomenal consciousness unexplained. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet suggests this impasse may be constitutive rather than merely temporary.
+
 ## Further Reading
 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle GWT doesn't address
+- [higher-order-theories](/concepts/higher-order-theories/) — Competitor theory requiring higher-order representation
+- [predictive-processing](/concepts/predictive-processing/) — Prediction-error framework integratable with GWT
+- [attention-as-interface](/concepts/attention-as-interface/) — Attention as the site's proposed mind-matter interface
 - [working-memory](/concepts/working-memory/) — The cognitive system implementing the workspace architecture
 - [episodic-memory](/concepts/episodic-memory/) — Autonoetic consciousness requiring full workspace ignition
 - [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness with intermediate workspace access
@@ -167,8 +233,11 @@ GWT explains when and how information becomes accessible. It remains silent on w
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A rival theory tested alongside GNW
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — The broader research program GWT contributes to
 - [attention](/concepts/attention/) — The gateway to the workspace
+- [voluntary-attention](/concepts/voluntary-attention/) — Endogenous attention control and workspace access
 - [functionalism](/arguments/functionalism/) — The philosophical framework underlying GWT
+- [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Explaining away phenomenal intuitions
 - [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Dreaming without full workspace engagement
+- [metacognition](/concepts/metacognition/) — Self-reflective processes and workspace engagement
 - [global-workspace-theory-2026-01-14](/research/global-workspace-theory-2026-01-14/) — Detailed research notes
 
 ## References
@@ -177,4 +246,5 @@ GWT explains when and how information becomes accessible. It remains silent on w
 - Dehaene, S., Kerszberg, M., & Changeux, J. P. (1998). A neuronal model of a global workspace in effortful cognitive tasks. *PNAS*, 95(24), 14529-14534.
 - Dehaene, S., & Naccache, L. (2001). Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework. *Cognition*, 79(1-2), 1-37.
 - Block, N. (2007). Consciousness, accessibility, and the mesh between psychology and neuroscience. *Behavioral and Brain Sciences*, 30(5-6), 481-499.
+- Nartker, M., et al. (2025). Visual sensitivity in inattentional blindness. *eLife*, 14:e97156.
 - COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.

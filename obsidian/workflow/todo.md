@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T22:50:00+00:00
+ai_modified: 2026-01-19T22:53:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,13 +55,43 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review global-workspace-theory.md for currency and cross-links
+### P2: Deep review self-and-consciousness.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated 2026-01-14, no deep review since creation. Major competitor theory—Baars/Dehaene framework. Check for cross-links to attention.md, binding-problem.md, higher-order-theories.md. Ensure COGITATE experiment results (Melloni et al. 2023-2024) and Dehaene's ignition theory are current.
+- **Notes**: AI-generated 2026-01-14, no deep review since creation. Core concept connecting consciousness to personal identity. Check for cross-links to witness-consciousness.md, autonoetic-consciousness.md, buddhism-and-dualism.md. Ensure Gallagher/Zahavi minimal self analysis and site's indexical emphasis are well-integrated.
 - **Source**: staleness
-- **Generated**: 2026-01-20
+- **Generated**: 2026-01-19
+
+### P2: Deep review emergence.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-15, no deep review since creation. Central concept for understanding site's position on consciousness as strongly emergent. Check for cross-links to downward-causation.md, causal-closure.md, quantum-consciousness.md. Ensure distinction between weak/strong emergence and site's interactionist position are clear.
+- **Source**: staleness
+- **Generated**: 2026-01-19
+
+### P2: Deep review phenomenal-unity.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Important for understanding binding problem and split-brain implications. Check for cross-links to binding-problem.md, split-brain-consciousness.md, combination-problem.md. Key concept for site's view of consciousness as unified experiential field.
+- **Source**: staleness
+- **Generated**: 2026-01-19
+
+### P2: Deep review agent-causation.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Core concept for libertarian free will and site's bidirectional interaction tenet. Check for cross-links to luck-objection.md, quantum-indeterminacy-free-will.md, mental-causation.md. Ensure O'Connor and Chisholm's accounts are well-represented.
+- **Source**: staleness
+- **Generated**: 2026-01-19
+
+### P2: Deep review objections-to-interactionism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Critical for addressing challenges to site's framework. Check for cross-links to causal-closure.md, pairing-problem.md, decoherence.md. Ensure Kim's exclusion argument and site's quantum responses are current and well-argued.
+- **Source**: staleness
+- **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Deep review global-workspace-theory.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-14, no deep review since creation. Major competitor theory—Baars/Dehaene framework. Check for cross-links to attention.md, binding-problem.md, higher-order-theories.md. Ensure COGITATE experiment results (Melloni et al. 2023-2024) and Dehaene's ignition theory are current.
+- **Result**: Added "Relation to Competing Theories" section (HOT, predictive processing, AST comparisons). Added "Can GWT Be Empirically Distinguished from Dualism?" section with falsifiability analysis. Extended Block overflow argument with Nartker et al. (2025) inattentional blindness evidence. Added 6 new cross-links to frontmatter and Further Reading.
+- **Output**: Updated `concepts/global-workspace-theory.md`, created `reviews/deep-review-2026-01-19-global-workspace-theory.md`
 
 ### ✓ 2026-01-19: Deep review higher-order-theories.md for currency and cross-links
 - **Type**: deep-review
