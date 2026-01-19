@@ -3,7 +3,7 @@ title: "Dualism"
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-20T01:30:00+00:00
+ai_modified: 2026-01-19T08:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-19T08:50:00+00:00
 ---
 
 Dualism holds that reality contains more than just physical matter—consciousness or mind is something distinct that cannot be fully explained by physics. This is the first of this site's [[tenets#^dualism|five foundational commitments]]. The position is supported by multiple independent arguments: the [[explanatory-gap]] between physical description and subjective experience, the conceivability of [[philosophical-zombies]], the [[knowledge-argument|knowledge argument]] (Mary's Room), and the intrinsic character of [[qualia]]. These arguments converge on a single conclusion: consciousness has features that physical description cannot capture.
@@ -46,7 +46,7 @@ Dualism comes in two main forms, distinguished by their ontological commitments 
 
 Substance dualism holds that mind and body are different *kinds of thing*—distinct substances. This is the Cartesian view: res cogitans (thinking substance) and res extensa (extended substance) are fundamentally different. Minds are genuine additions to the world's inventory, over and above physical objects.
 
-Modern substance dualists (E.J. Lowe, Dean Zimmerman) accept that mental substances are part of the natural world while maintaining their distinctness from physical matter. David Chalmers has expressed preference for substance dualism because it better handles personal identity—the persisting subject is the consciousness itself, not just a physical system with phenomenal properties.
+Modern substance dualists (E.J. Lowe, Dean Zimmerman) accept that mental substances are part of the natural world while maintaining their distinctness from physical matter. David Chalmers, though initially known for property dualism, has expressed preference for substance dualism in more recent work (Chalmers 2016). Part of his reasoning involves the subject combination problem: property dualism (especially in panpsychist versions) struggles to explain how micro-experiences combine into unified macro-subjects, while substance dualism posits unified subjects from the start.
 
 ### Property Dualism
 
@@ -146,3 +146,4 @@ This framework is not a retreat to mystery. The interaction has a candidate mech
 - Lowe, E. J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
 - Robinson, H. (2020). Substance dualism. *Stanford Encyclopedia of Philosophy*.
 - Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.
+- Chalmers, D.J. (2016). The combination problem for panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives* (pp. 179-214). Oxford University Press.

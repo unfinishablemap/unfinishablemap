@@ -3,7 +3,7 @@ title: "Substance Dualism vs Property Dualism"
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-16T03:15:00+00:00
+ai_modified: 2026-01-19T08:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ Modern substance dualists have resources unavailable to Descartes:
 
 **Naturalistic substance dualism** (E.J. Lowe, Dean Zimmerman) accepts that mental substances are part of the natural world, just not part of the physical world as physics describes it. This avoids the Cartesian separation between nature and mind while preserving genuine ontological distinctness.
 
-David Chalmers, initially a property dualist, has expressed preference for substance dualism in more recent work. He argues it better handles personal identity: if consciousness is just a property of physical systems, what persists through time is the physical system, not the consciousness. Substance dualism makes consciousness itself the persisting subject.
+David Chalmers, initially a property dualist, has expressed preference for substance dualism in more recent work (Chalmers 2016). Part of his reasoning involves the subject combination problem: property dualism (especially panpsychist versions) struggles to explain how micro-experiences combine into unified macro-subjects. Substance dualism avoids this by positing unified mental substances from the start, rather than constructing them from simpler components.
 
 ## Property Dualism
 
@@ -112,7 +112,7 @@ The site's tenets are deliberately neutral between substance and property dualis
 
 The choice between substance and property dualism affects how we think about personal identity, survival, and the metaphysics of mind. These are important questions, but they're downstream of the central commitment: consciousness is real, irreducible, and causally efficacious.
 
-The site follows Chalmers's recent inclination toward substance dualism, partly because it better handles personal identity and partly because property dualism tends to slide toward either panpsychism (with its combination problem) or epiphenomenalism (which the Bidirectional Interaction tenet rejects). But this is a philosophical preference, not a doctrinal requirement.
+The site follows Chalmers's recent inclination toward substance dualism, partly because substance dualism avoids the combination problem and partly because property dualism tends to slide toward either panpsychism (where the combination problem bites) or epiphenomenalism (which the Bidirectional Interaction tenet rejects). But this is a philosophical preference, not a doctrinal requirement.
 
 ## Relation to This Site's Perspective
 
