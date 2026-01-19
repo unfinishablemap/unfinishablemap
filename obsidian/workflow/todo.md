@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T21:15:00+00:00
+ai_modified: 2026-01-19T21:12:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Cross-review philosophical-zombies.md with arguments-against-materialism synthesis
-- **Type**: cross-review
-- **Notes**: New concepts/arguments-against-materialism.md presents zombie argument as third of seven converging arguments. The concepts/philosophical-zombies.md page is the detailed treatment. Should link to synthesis and note how zombie conceivability works alongside knowledge argument and modal arguments for cumulative force.
-- **Source**: chain (from arguments-against-materialism.md)
-- **Generated**: 2026-01-19
-
 ### P2: Deep review functionalism.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-09, no deep review since creation. Major competitor theory to site's approach. Check for cross-links to substrate-independence-critique.md, multiple-realizability argument, and newer llm-consciousness.md content. Ensure Block's absent qualia, Searle's Chinese Room, and inverted qualia objections are fairly presented.
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review philosophical-zombies.md with arguments-against-materialism synthesis
+- **Type**: cross-review
+- **Notes**: New concepts/arguments-against-materialism.md presents zombie argument as third of seven converging arguments. The concepts/philosophical-zombies.md page is the detailed treatment. Should link to synthesis and note how zombie conceivability works alongside knowledge argument and modal arguments for cumulative force.
+- **Result**: Added arguments-against-materialism to concepts frontmatter. Added new "The Convergence Argument" section explaining the zombie argument as one of seven converging anti-materialist arguments, how the convergence provides cumulative epistemic support, and the specific role the zombie argument plays (demonstrating logical independence of physical and phenomenal facts). Added arguments-against-materialism as first item in Further Reading.
+- **Output**: Updated `concepts/philosophical-zombies.md`
 
 ### ✓ 2026-01-19: Cross-review knowledge-argument.md with arguments-against-materialism synthesis
 - **Type**: cross-review
