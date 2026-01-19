@@ -67,7 +67,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-19
 
+### P2: Enhance intuitive-dualism.md with cognitive science research
+- **Type**: deep-review
+- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md covers Paul Bloom's "natural-born dualists" thesis, developmental psychology evidence, cross-cultural studies (Bering, Boyer), and eliminativist responses. The existing concepts/intuitive-dualism.md page should integrate this evidence—particularly the infant looking-time studies and the debate over whether dualism is "folk error" or cognitively fundamental. Supports Occam's Razor Has Limits tenet.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
 ## Completed Tasks
+
+### ✓ 2026-01-19: Write arguments-against-materialism concept page
+- **Type**: expand-topic
+- **Notes**: Research completed in research/arguments-against-materialism-2026-01-06.md. Comprehensive coverage of zombie argument, Mary's Room, explanatory gap, Kripke's modal argument, and quantum mechanical objections. Would provide unified page consolidating anti-materialist arguments currently scattered across explanatory-gap.md, knowledge-argument.md, philosophical-zombies.md. Directly supports Dualism tenet.
+- **Result**: Created ~2000 word concept page presenting seven major arguments against materialism (explanatory gap, knowledge argument, zombie argument, inverted qualia, Kripke's modal argument, Nagel's subjectivity argument, quantum mechanical considerations). Includes convergence argument showing cumulative force of independent lines of reasoning. Links to all existing detailed pages.
+- **Output**: Created `concepts/arguments-against-materialism.md`
 
 ### ✓ 2026-01-19: Cross-review mental-effort.md with attention-as-interface theory
 - **Type**: cross-review

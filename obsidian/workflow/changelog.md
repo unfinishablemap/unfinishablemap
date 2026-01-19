@@ -21,6 +21,15 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-19
 
+### 20:30 - expand-topic (arguments-against-materialism)
+- **Status**: Success
+- **File**: obsidian/concepts/arguments-against-materialism.md
+- **Changes**: Created comprehensive concept page (~2000 words) presenting the major arguments against materialism: explanatory gap, knowledge argument (Mary's Room), zombie argument, inverted qualia, Kripke's modal argument, Nagel's subjectivity argument, and quantum mechanical considerations. Includes convergence argument showing cumulative force of independent lines of reasoning. Links to existing detailed pages for each argument. Supports Dualism tenet.
+- **Based on research**: Yes (research/arguments-against-materialism-2026-01-06.md)
+- **Session**: 333
+
+---
+
 ### 20:32 - cross-review (haecceity.md with many-worlds arguments)
 - **Status**: Success
 - **File**: obsidian/concepts/haecceity.md
