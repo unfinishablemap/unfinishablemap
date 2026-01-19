@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 15:35:00+00:00
+ai_modified: 2026-01-19 11:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review qualia.md with minimal-consciousness implications
-- **Type**: cross-review
-- **Notes**: New article concepts/minimal-consciousness.md raises questions about qualia in simple systems. What is it like to be C. elegans with 302 neurons? Do slime molds have proto-qualia? The concepts/qualia.md page should address these boundary cases and what they imply for theories of phenomenal experience.
-- **Source**: chain (from minimal-consciousness.md)
-- **Generated**: 2026-01-19
-
-### P2: Deep review functionalism.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-09, no deep review since creation. Check for cross-links to newer content (minimal-consciousness.md, evolution-of-consciousness.md, substrate-independence-critique.md) and currency against recent debates.
-- **Source**: staleness
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review existentialism.md with Buddhist meaning insights
 - **Type**: cross-review
 - **Notes**: New article concepts/buddhism-and-dualism.md addresses Buddhist responses to meaninglessness and the compatibility of impermanence with irreducible consciousness. The concepts/existentialism.md page discusses meaning-making in the face of apparent absurdity. How does Buddhist acceptance of impermanence relate to existentialist confrontation with meaninglessness? Does the compatibility thesis (irreducibility + impermanence) offer existentialism new resources?
@@ -75,6 +63,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Deep review functionalism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-09, no deep review since creation. Check for cross-links to newer content (minimal-consciousness.md, evolution-of-consciousness.md, substrate-independence-critique.md) and currency against recent debates.
+- **Result**: Added new "Minimal Consciousness Challenge" section with C. elegans and slime mold cases illustrating functionalism's limits. Added "Evolutionary Challenge" subsection to Relation to Site Perspective. Updated COGITATE experiment passage with proper citation (Melloni et al. 2023-2024) and detailed findings. Added minimal-consciousness and evolution-of-consciousness to concepts frontmatter and Further Reading.
+- **Output**: Updated `concepts/functionalism.md`, created `reviews/deep-review-2026-01-19-functionalism.md`
+
+### ✓ 2026-01-19: Cross-review qualia.md with minimal-consciousness implications
+- **Type**: cross-review
+- **Notes**: New article concepts/minimal-consciousness.md raises questions about qualia in simple systems. What is it like to be C. elegans with 302 neurons? Do slime molds have proto-qualia? The concepts/qualia.md page should address these boundary cases and what they imply for theories of phenomenal experience.
+- **Result**: Added minimal-consciousness.md to concepts frontmatter at top position. Added new "Qualia in Simple Organisms" section after key properties, covering C. elegans complete connectome yet unknowable qualia (demonstrating the epistemic gap), the distribution problem for qualia (identical/analogous/alien/absent), and proto-qualia with the combination problem. Added slime mold case for cognition-qualia dissociation. Added minimal-consciousness.md at top of Further Reading with description.
+- **Output**: Updated `concepts/qualia.md`
 
 ### ✓ 2026-01-19: Deep review epiphenomenalism.md for currency and cross-links
 - **Type**: deep-review
