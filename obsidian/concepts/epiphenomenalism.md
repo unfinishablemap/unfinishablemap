@@ -3,11 +3,12 @@ title: "Epiphenomenalism"
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-01-15T13:45:00+00:00
+ai_modified: 2026-01-19T05:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
+  - "[[dualism]]"
   - "[[qualia]]"
   - "[[mental-causation]]"
   - "[[causal-closure]]"
@@ -24,7 +25,7 @@ last_curated: null
 
 Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing, not even our reports about it. Your experience of pain does not cause you to wince; rather, the brain states that produce the wince also happen to produce pain experience as a side effect. Consciousness, on this view, is steam rising from a locomotive: produced by the engine but playing no role in moving the train.
 
-This site's [[tenets]] explicitly reject epiphenomenalism. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes. Understanding why epiphenomenalism is wrong—and why it remains tempting—clarifies what the site affirms.
+As the foundational [[dualism]] article explains, dualists face a choice between three positions on mind-body relation: [[interactionist-dualism|interactionism]] (mind and body causally interact), epiphenomenalism (body affects mind but not vice versa), and parallelism (no causal connection). This site's [[tenets]] explicitly reject epiphenomenalism. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes. Understanding why epiphenomenalism is wrong—and why it remains tempting—clarifies what the site affirms.
 
 ## The View
 
@@ -133,6 +134,7 @@ The self-stultification problem remains the decisive objection. If epiphenomenal
 
 ## Further Reading
 
+- [[dualism]] — The foundational framework; epiphenomenalism is one of three dualist positions on mind-body interaction
 - [[mental-causation]] — The problem epiphenomenalism claims to solve
 - [[causal-closure]] — The principle that motivates epiphenomenalism
 - [[interactionist-dualism]] — The site's alternative framework
