@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-19 14:20:00+00:00
+ai_modified: 2026-01-19 04:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[dualism]]'
 - '[[reductionism]]'
 - '[[qualia]]'
 - '[[explanatory-gap]]'
@@ -86,7 +87,7 @@ The site's response targets premise 1. The [Minimal Quantum Interaction](/tenets
 
 ## Why Materialism Fails
 
-Several lines of argument suggest materialism cannot accommodate consciousness. These are not merely objections to materialism; they constitute [positive arguments for dualism](/concepts/arguments-for-dualism/) that converge on the same conclusion from independent directions. The 2020 PhilPapers survey found 22% of philosophers accept or lean toward dualism—the second most popular position after materialism itself.
+Several lines of argument suggest materialism cannot accommodate consciousness. These are not merely objections to materialism; they constitute [positive arguments for dualism](/concepts/arguments-for-dualism/) that converge on the same conclusion from independent directions. [Dualism](/concepts/dualism/)—the view that consciousness is ontologically distinct from matter—gains support precisely where materialism fails. The 2020 PhilPapers survey found 22% of philosophers accept or lean toward dualism—the second most popular position after materialism itself.
 
 ### The Explanatory Gap
 
@@ -152,7 +153,7 @@ This site's framework differs from both idealism and materialism. It agrees with
 
 Materialism is the site's primary opponent. Understanding its failure motivates the [tenet framework](/tenets/):
 
-**Dualism** is accepted because materialism fails. Physical descriptions leave the [explanatory gap](/concepts/explanatory-gap/); physical facts don't entail experiential facts; [qualia](/concepts/qualia/) resist physical characterization. Consciousness must be something beyond the physical.
+**[Dualism](/concepts/dualism/)** is accepted because materialism fails. Physical descriptions leave the [explanatory gap](/concepts/explanatory-gap/); physical facts don't entail experiential facts; [qualia](/concepts/qualia/) resist physical characterization. Consciousness must be something beyond the physical. See [dualism](/concepts/dualism/) for the positive case.
 
 **Bidirectional Interaction** is needed because rejecting materialism could lead to [epiphenomenalism](/arguments/epiphenomenalism/)—accepting consciousness is non-physical but denying it does anything. The site rejects this move: consciousness causally influences physical outcomes, or we couldn't even discuss it.
 
@@ -164,6 +165,7 @@ Materialism remains the consensus position in academic philosophy. The site hold
 
 ## Further Reading
 
+- [dualism](/concepts/dualism/) — What dualism claims and its main varieties (foundational overview)
 - [arguments-for-dualism](/concepts/arguments-for-dualism/) — The positive case for dualism (conceivability, knowledge, qualia, unity, intentionality, modal arguments)
 - [knowledge-argument](/concepts/knowledge-argument/) — The knowledge argument (Mary's Room) in detail
 - [explanatory-gap](/concepts/explanatory-gap/) — What physical explanations leave out

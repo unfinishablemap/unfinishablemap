@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T14:00:00+00:00
+ai_modified: 2026-01-19T04:51:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review materialism.md with dualism arguments
-- **Type**: cross-review
-- **Notes**: New article concepts/dualism.md presents the four main arguments against materialism (explanatory gap, zombies, knowledge argument, qualia intrinsic character) and engages with materialist responses. The materialism.md page discusses physicalism and its failures—integrating explicit cross-links to the dualism arguments could strengthen the dialectical structure. Check for consistency.
-- **Source**: chain (from dualism.md)
-- **Generated**: 2026-01-19
 
 ### P2: Cross-review hard-problem-of-consciousness.md with reductionism insights
 - **Type**: cross-review
@@ -92,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review materialism.md with dualism arguments
+- **Type**: cross-review
+- **Notes**: New article concepts/dualism.md presents the four main arguments against materialism (explanatory gap, zombies, knowledge argument, qualia intrinsic character) and engages with materialist responses. The materialism.md page discusses physicalism and its failures—integrating explicit cross-links to the dualism arguments could strengthen the dialectical structure. Check for consistency.
+- **Result**: Added dualism.md to concepts frontmatter. Integrated cross-links in "Why Materialism Fails" section (linking dualism as the view that gains where materialism fails) and "Relation to This Site's Perspective" section (explicit link to dualism.md). Added dualism.md at top of Further Reading with description. Strengthens dialectical structure by making the materialism→dualism relationship bidirectional.
+- **Output**: Updated `concepts/materialism.md`
 
 ### ✓ 2026-01-19: Cross-review interactionist-dualism.md with foundational dualism overview
 - **Type**: cross-review
