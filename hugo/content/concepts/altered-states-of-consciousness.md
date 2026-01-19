@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-18 23:15:00+00:00
+ai_modified: 2026-01-19 20:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[minimal-consciousness]]'
 - '[[filter-theory]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[quantum-consciousness]]'
@@ -14,11 +15,11 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[global-workspace-theory]]'
 created: 2026-01-18
-date: &id001 2026-01-18
+date: &id001 2026-01-19
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-19 20:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,6 +34,8 @@ Altered states of consciousness (ASCs) constitute a diverse family of experience
 ## Defining Altered States
 
 Charles Tart's foundational definition (1969) identifies ASCs as "profound changes in the overall pattern of subjective experiences." This phenomenological approach avoids the question-begging implicit in some neuroscientific definitions that characterise ASCs as "increased tendency to produce misrepresentations." From the site's perspective, some ASCs may involve *less filtered* access to reality rather than error.
+
+Tart's taxonomy identifies ten dimensions along which consciousness can vary: sense of identity, body image, time perception, perception, cognition, memory, affect, sense of meaning, volition, and unconscious processing. ASCs shift multiple dimensions simultaneously—distinguishing them from ordinary variations in mood or attention. The 2025 thalamic nuclei research identified five specific thalamic nuclei orchestrating state transitions, with distinct connectivity patterns across anesthesia, sleep, and disorders of consciousness—neuroimaging confirmation that ASCs represent discrete modes rather than continuous variation.
 
 Key dimensions of alteration include:
 
@@ -52,9 +55,11 @@ Several findings support the filter interpretation:
 
 **Expansion rather than distortion.** Psychedelics don't merely scramble perception—they often *expand* it. Users report insights, enhanced pattern recognition, and access to normally unconscious material. Aldous Huxley's "reducing valve" metaphor captures this: the brain normally constrains consciousness to action-relevant information; psychedelics loosen this constraint.
 
-**Identical outputs, divergent experiences.** Different anaesthetics (propofol vs. ketamine) can produce identical behavioural outputs—unresponsiveness, amnesia—while producing radically different conscious experiences. Ketamine preserves vivid experience despite behavioural unresponsiveness; propofol seems to eliminate experience entirely. If consciousness were simply produced by brain states, similar behavioural outputs should correlate with similar experiences.
+A materialist objection holds that these "insights" are illusory—confabulations that merely *feel* profound without genuine epistemic value. The response: some psychedelic insights prove verifiable (therapeutic breakthroughs, creative solutions), and the expansion hypothesis predicts their *selectivity*—not random confabulation but access to genuinely suppressed information (childhood memories, repressed patterns). Pure confabulation would be random; genuine filter-loosening would be informative. Controlled studies increasingly support the latter.
 
-**Information received but not perceived.** Neuroscience of anesthesia (2024) confirms that sensory information reaches the brain during light sedation but is not perceived. The signal arrives; something prevents its manifestation in consciousness. This is precisely what filter theory predicts—disruption of interface rather than disruption of consciousness itself.
+**Identical outputs, divergent experiences.** Different anaesthetics (propofol vs. ketamine) can produce identical behavioural outputs—unresponsiveness, amnesia—while producing radically different conscious experiences. Ketamine preserves vivid experience despite behavioural unresponsiveness; propofol seems to eliminate experience entirely. Mashour et al. (2024) demonstrate this asymmetry neuroimaging: both agents suppress cortical activity, but through different thalamic pathways with different phenomenal consequences. If consciousness were simply produced by brain states, similar behavioural suppression should correlate with similar phenomenal suppression. The divergence suggests the brain *mediates* rather than *generates* experience.
+
+**Information received but not perceived.** Mashour and Bharioke's 2024 *Neuron* review confirms that sensory information reaches the brain during light sedation but is not perceived—what they term "received but not perceived." The signal arrives; something prevents its manifestation in consciousness. This is precisely what filter theory predicts—disruption of interface rather than disruption of consciousness itself.
 
 ## Specific States and What They Reveal
 
@@ -64,7 +69,7 @@ The REBUS model (Relaxed Beliefs Under Psychedelics) proposes that psychedelics 
 
 Neuroimaging reveals a paradox: psychedelics *decrease* within-network connectivity (especially in the [default mode network](/concepts/neural-correlates-of-consciousness/#the-default-mode-network)) while *increasing* between-network connectivity. The brain becomes simultaneously less integrated locally and more integrated globally.
 
-The Penrose-Hameroff Orch OR theory proposes a quantum mechanism: psychedelic molecules bind to microtubules and induce quantum coherence. If consciousness participates in quantum collapse (as the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes), psychedelics might enhance this participation.
+The Penrose-Hameroff Orch OR theory proposes a quantum mechanism: psychedelic molecules bind to microtubules and induce quantum coherence. If consciousness participates in quantum collapse (as the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes), psychedelics might enhance this participation. This hypothesis remains speculative—quantum coherence in warm biological systems faces the [decoherence](/concepts/decoherence/) objection that thermal noise should destroy superpositions almost instantly. However, 2024 evidence of macroscopic quantum entanglement signatures in living human brains (correlated with conscious states via MRI) suggests the decoherence problem may be less fatal than Tegmark calculated. The mechanism deserves continued investigation rather than dismissal.
 
 ### Flow States
 
@@ -78,15 +83,25 @@ Recent neuroimaging (2025) confirms that hypnosis alters executive control netwo
 
 ### Meditation
 
-Advanced meditation produces states ranging from focused absorption (samadhi) to [witness awareness](/concepts/witness-consciousness/) to cessation events—"radically altered states characterised by full loss of consciousness" that, unlike anaesthetic unconsciousness, are voluntary and transformative.
+Advanced meditation produces states ranging from focused absorption (samadhi) to [witness awareness](/concepts/witness-consciousness/) to cessation events—"radically altered states characterised by full loss of consciousness" that, unlike anaesthetic unconsciousness, are voluntary and transformative. Tantric yoga offers systematic phenomenology of consciousness structures that meditators navigate deliberately.
 
 The voluntariness is crucial. Meditators deliberately alter their brain-consciousness interface through attention training. Longitudinal studies show meditation produces lasting structural brain changes. From the site's framework, this provides evidence for [Bidirectional Interaction](/tenets/#bidirectional-interaction): consciousness can deliberately reconfigure its neural interface through sustained practice.
+
+Cessation events illuminate filter theory directly. Unlike anesthesia (where consciousness appears eliminated) or sleep (where it continues in altered form), meditative cessation involves *deliberate* withdrawal of consciousness from neural processing—then return. The transformation reported by advanced practitioners upon return suggests consciousness operated during cessation in a mode unconstrained by the brain-interface, returning with insights unavailable during normal filtered operation.
 
 ### Near-Death Experiences
 
 A 2024 University of Michigan study found gamma surges in dying patients—localised to the temporal-parietal-occipital junction associated with out-of-body experiences. Rivas et al. (2023) documented 120+ cases with veridical elements—accurate perceptions during apparent unconsciousness.
 
 The empirical status remains contested. Sceptics note the lack of falsifiable predictions; advocates argue that some cases resist conventional explanation. What is clear: these experiences involve altered consciousness precisely when the brain's filtering function is maximally compromised—consistent with filter theory's prediction that reduced filtering allows expanded experience.
+
+## Boundary States: Where ASCs Meet Minimal Consciousness
+
+ASCs map the *upper* boundary of ordinary consciousness—states of expansion, dissolution, or reconfiguration beyond baseline awareness. But consciousness also has a *lower* boundary explored in [minimal-consciousness](/concepts/minimal-consciousness/)—organisms like *C. elegans* (302 neurons) or Hydra (decentralized nerve net) that may possess only the simplest forms of experience.
+
+These boundaries illuminate each other. Advanced meditators approaching cessation report phenomenology that may resemble what simple organisms inhabit continuously: awareness without complex content, presence without elaborate representation. The meditator voluntarily reaches "downward" to consciousness stripped of normal filtering; the nematode may simply exist there.
+
+This raises a question for filter theory: does the filter determine *how much* consciousness manifests or *what kind*? The psychedelic loosens filtering to allow more of Mind at Large through; the minimal organism may lack sophisticated filtering entirely yet manifest only rudimentary experience. The answer may involve what the brain provides beyond filtering—representational structures, attention mechanisms, integration capacities—that shape which aspects of consciousness can manifest through a given interface. A simple nervous system provides a simple interface; a complex one provides a complex interface. Consciousness itself may be the same; its manifestation varies with interface sophistication.
 
 ## Relation to Site Perspective
 
@@ -104,13 +119,14 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 
 ## Further Reading
 
-- [filter-theory](/concepts/filter-theory/)
-- [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)
-- [dreams-and-consciousness](/concepts/dreams-and-consciousness/)
-- [loss-of-consciousness](/topics/loss-of-consciousness/)
-- [witness-consciousness](/concepts/witness-consciousness/)
-- [quantum-consciousness](/concepts/quantum-consciousness/)
-- [near-death-experiences](/concepts/near-death-experiences/)
+- [minimal-consciousness](/concepts/minimal-consciousness/) — The lower boundary of conscious experience
+- [filter-theory](/concepts/filter-theory/) — The theoretical framework for interpreting ASCs
+- [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Voluntary access to altered states
+- [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Consciousness operating without sensory input
+- [loss-of-consciousness](/topics/loss-of-consciousness/) — Anesthesia and the filter interpretation
+- [witness-consciousness](/concepts/witness-consciousness/) — The observer that persists across state changes
+- [quantum-consciousness](/concepts/quantum-consciousness/) — Potential mechanisms for mind-brain interface
+- [near-death-experiences](/concepts/near-death-experiences/) — Enhanced consciousness during brain compromise
 
 ## References
 
@@ -124,4 +140,10 @@ James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
 
 Kelly, E. F. et al. (2007). *Irreducible Mind: Toward a Psychology for the 21st Century*. Rowman & Littlefield.
 
+Mashour, G. A. & Bharioke, A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(8).
+
+Rivas, T., Dirven, A. & Smit, R. (2023). *The Self Does Not Die: Verified Paranormal Phenomena from Near-Death Experiences*. IANDS Publications.
+
 Tart, C. T. (Ed.). (1969). *Altered States of Consciousness*. Wiley.
+
+Wang, H. et al. (2025). Thalamic nuclei orchestrating consciousness through state-specific connectivity. *Communications Biology*, 8, 92.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 11:45:00+00:00
+ai_modified: 2026-01-20 07:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,9 +38,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review altered-states-of-consciousness.md for research integration
+### P2: Deep review buddhism-and-dualism.md for research integration
 - **Type**: deep-review
-- **Notes**: AI-generated 2026-01-18, no deep review since creation. Check integration of altered-states-consciousness-2026-01-19.md research—particularly Charles Tart's taxonomy, the filter theory evidence (propofol vs ketamine divergence), and Penrose-Hameroff microtubule-psychedelic connection. Cross-link to minimal-consciousness.md (boundary states).
+- **Notes**: AI-generated 2026-01-19, no deep review since creation. Check integration of buddhist-perspectives-meaning-2026-01-06.md research—particularly the Yogācāra "consciousness-only" school analysis, dependent origination implications for causation, and the five articles suggested in research (Buddhism and Hard Problem, Mindfulness as First-Person Method). Cross-link to phenomenology.md and meaning-of-life.md.
 - **Source**: staleness
 - **Generated**: 2026-01-19
 
@@ -68,7 +68,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
+### P3: Write article on aesthetic dimension of consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Why does experience have aesthetic quality? Why are some experiences beautiful and others ugly? Would build on phenomenology.md, qualia.md, phenomenal-value-realism.md. Supports Dualism (aesthetic properties resist physical reduction).
+- **Source**: optimistic-review
+- **Generated**: 2026-01-20
+
+### P3: Write article on consciousness and language interface
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-20
+
+### P3: Expand attention-as-interface into comprehensive theory
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The attention-as-interface hypothesis is strong but could be developed further. What exactly makes attention the privileged interface? Are there other interfaces (emotion, volition)? Builds on attention-as-interface.md, quantum-consciousness.md, mental-effort.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-20
+
 ## Completed Tasks
+
+### ✓ 2026-01-19: Deep review altered-states-of-consciousness.md for research integration
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-18, no deep review since creation. Check integration of altered-states-consciousness-2026-01-19.md research—particularly Charles Tart's taxonomy, the filter theory evidence (propofol vs ketamine divergence), and Penrose-Hameroff microtubule-psychedelic connection. Cross-link to minimal-consciousness.md (boundary states).
+- **Result**: Integrated Tart's 10-dimension taxonomy with 2025 thalamic nuclei findings. Strengthened propofol/ketamine argument with Mashour et al. (2024) citation and mechanistic detail. Added skeptical framing for Orch OR while noting MRI entanglement evidence. Added response to confabulation objection. Created new "Boundary States" section connecting ASCs to minimal-consciousness (meditators approaching cessation meet what simple organisms inhabit). Expanded cessation events analysis for filter theory. Updated references with Mashour, Rivas, Wang.
+- **Output**: Updated `concepts/altered-states-of-consciousness.md`, created `reviews/deep-review-2026-01-19-altered-states-of-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review idealism.md with minimal-consciousness implications
 - **Type**: cross-review

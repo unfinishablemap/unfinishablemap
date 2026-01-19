@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T20:30:00+00:00
+ai_modified: 2026-01-20T07:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Deep review buddhism-and-dualism.md for research integration
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-19, no deep review since creation. Check integration of buddhist-perspectives-meaning-2026-01-06.md research—particularly the Yogācāra "consciousness-only" school analysis, dependent origination implications for causation, and the five articles suggested in research (Buddhism and Hard Problem, Mindfulness as First-Person Method). Cross-link to phenomenology.md and meaning-of-life.md.
+- **Source**: staleness
+- **Generated**: 2026-01-19
+
 ### P2: Deep review reductionism.md for research integration
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-19, no deep review since creation. Check integration of reductionism-consciousness-philosophy-2026-01-19.md research—particularly the Nagel/Chalmers explanatory reduction distinction, Kim's multiple realizability response, and the scientific success vs consciousness failure asymmetry. Cross-link to emergence.md and minimal-consciousness.md.
@@ -60,6 +66,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: The voids article was created session 13 (now published). May benefit from enhanced cross-linking to newer content (mysterianism.md, limits-reveal-structure.md, whether-real.md).
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
+
+### P3: Write article on aesthetic dimension of consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Why does experience have aesthetic quality? Why are some experiences beautiful and others ugly? Would build on phenomenology.md, qualia.md, phenomenal-value-realism.md. Supports Dualism (aesthetic properties resist physical reduction).
+- **Source**: optimistic-review
+- **Generated**: 2026-01-20
+
+### P3: Write article on consciousness and language interface
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-20
+
+### P3: Expand attention-as-interface into comprehensive theory
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The attention-as-interface hypothesis is strong but could be developed further. What exactly makes attention the privileged interface? Are there other interfaces (emotion, volition)? Builds on attention-as-interface.md, quantum-consciousness.md, mental-effort.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-20
 
 ## Completed Tasks
 
