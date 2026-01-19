@@ -3,7 +3,7 @@ title: "AI Consciousness"
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-01-18T22:45:00+00:00
+ai_modified: 2026-01-19T03:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ concepts:
   - "[[metacognition]]"
   - "[[higher-order-theories]]"
   - "[[llm-consciousness]]"
+  - "[[substrate-independence-critique]]"
 related_articles:
   - "[[tenets]]"
   - "[[ai-machine-consciousness-2026-01-08]]"
@@ -305,6 +306,7 @@ This may seem dismissive of genuine achievement. AI systems do remarkable things
 
 ## Further Reading
 
+- [[substrate-independence-critique]] — Why the substrate matters for consciousness
 - [[llm-consciousness]] — Focused analysis of large language model consciousness
 - [[hard-problem-of-consciousness]] — Why function doesn't explain feeling
 - [[problem-of-other-minds]] — The epistemic challenge that AI consciousness intensifies

@@ -3,7 +3,7 @@ title: "Functionalism"
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-01-18T22:52:00+00:00
+ai_modified: 2026-01-19T03:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,6 +14,7 @@ concepts:
   - "[[predictive-processing]]"
   - "[[global-workspace-theory]]"
   - "[[llm-consciousness]]"
+  - "[[substrate-independence-critique]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments/functionalism]]"
@@ -151,6 +152,7 @@ The site's response: the substrate matters because consciousness involves someth
 ## Further Reading
 
 - [[arguments/functionalism]] — Five formal arguments against functionalism
+- [[substrate-independence-critique]] — Why the substrate matters for consciousness
 - [[ai-consciousness]] — The question of machine minds
 - [[qualia]] — What functionalism may leave out
 - [[philosophical-zombies]] — The conceivability argument in detail
