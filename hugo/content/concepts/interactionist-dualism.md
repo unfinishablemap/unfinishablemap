@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-19 04:30:00+00:00
+ai_modified: 2026-01-19 06:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
 - /arguments/interactionist-dualism/
 concepts:
+- '[[psychophysical-laws]]'
 - '[[dualism]]'
 - '[[epiphenomenalism]]'
 - '[[quantum-consciousness]]'
@@ -57,6 +58,18 @@ Interactionist dualism makes three claims:
 3. **Bidirectional interaction**: Physical brain states influence conscious experience, and conscious states influence physical brain states
 
 The first claim is shared with all forms of dualism, including epiphenomenalism. The second distinguishes interactionism from epiphenomenal views. The third specifies the nature of the mind-body relation: not mere correlation, not one-way causation, but genuine two-way interaction.
+
+## The Psychophysical Laws Framework
+
+If consciousness is ontologically distinct from physics, their relationship must be specified by fundamental laws—[psychophysical-laws](/concepts/psychophysical-laws/) that bridge the gap between physical and phenomenal domains. David Chalmers developed the most influential framework for such laws, distinguishing two types:
+
+**Supervenience laws** specify which physical states are accompanied by which mental states. Given the physical facts, the mental facts follow. These laws run *upward*: from physics to phenomenology. Chalmers' own framework emphasizes supervenience laws—once you fix all physical facts, psychophysical laws determine what experience (if any) accompanies them.
+
+**Causal laws** (or "selection laws" in this site's terminology) specify how mental states influence which physical states become actual. The mental is input; the physical is output. These laws run *downward*: from phenomenology to physics.
+
+The crucial point for interactionism: supervenience laws alone yield epiphenomenalism. If psychophysical laws only specify what experience accompanies given physical states, consciousness remains causally inert—an epiphenomenal accompaniment to physical processes. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires *causal* laws, not merely supervenience laws. Consciousness doesn't just accompany brain states; it selects among physically underdetermined alternatives.
+
+Chalmers himself tends toward epiphenomenalism—accepting supervenience laws while remaining skeptical of causal laws. The site diverges here. The self-stultification argument (see below) shows that epiphenomenalism is self-undermining, giving positive motivation for causal laws. The [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) page explores what such selection laws must accomplish; the [psychophysical-laws](/concepts/psychophysical-laws/) page explains Chalmers' full framework and where the site departs from it.
 
 ## The Historical Problem
 
@@ -283,6 +296,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 ## Further Reading
 
+- [psychophysical-laws](/concepts/psychophysical-laws/) — Chalmers' framework for fundamental psychophysical laws and where the site diverges
 - [dualism](/concepts/dualism/) — Foundational overview of dualism: varieties, arguments, and relation to site tenets
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Comprehensive treatment of five major objections and responses
 - [arguments-for-dualism](/concepts/arguments-for-dualism/) — Comprehensive treatment of arguments supporting dualism
