@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 23:55:00+00:00
+ai_modified: 2026-01-20 00:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,21 +38,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write concept page on many-worlds interpretation
+### P2: Write concept page on reductionism
 - **Type**: expand-topic
-- **Notes**: Referenced 23 times across content but no dedicated page exists. Site's fourth tenet explicitly rejects MWI ("No Many Worlds"). A concept page explaining MWI and why the site rejects it is critical for readers understanding the framework. Should cover: branching worlds, probability problem, indexical identity problem, and why consciousness-collapse is preferred.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-19
-
-### P2: Research and write concept page on reductionism
-- **Type**: research-topic
-- **Notes**: Referenced 7 times in content (downward-causation.md, emergence.md, materialism.md, etc.) but no dedicated page. Foundational concept for understanding site's anti-reductionist stance. Should distinguish ontological vs methodological reductionism, explain why consciousness resists reduction, and connect to emergence.md and explanatory-gap.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-19
-
-### P2: Write concept page on motor selection and quantum Zeno
-- **Type**: expand-topic
-- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Motor selection complements attention-as-interface—both are candidate sites for consciousness-matter interaction via quantum Zeno mechanism. Would connect motor-selection.md to mental-effort.md, voluntary-attention.md, and Desmurget's parietal cortex findings. Strengthens Bidirectional Interaction tenet.
+- **Notes**: Research completed in research/reductionism-consciousness-philosophy-2026-01-19.md. Foundational concept for understanding site's anti-reductionist stance. Should distinguish ontological vs methodological reductionism, explain why consciousness resists reduction (explanatory gap, multiple realizability, hard problem), and connect to emergence.md.
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-19
 
@@ -81,6 +69,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Research reductionism and consciousness
+- **Type**: research-topic
+- **Notes**: Referenced 7 times in content (downward-causation.md, emergence.md, materialism.md, etc.) but no dedicated page. Foundational concept for understanding site's anti-reductionist stance. Should distinguish ontological vs methodological reductionism, explain why consciousness resists reduction, and connect to emergence.md and explanatory-gap.md.
+- **Result**: Comprehensive research covering three types of reductionism (ontological, methodological, epistemic), Nagel's bridge law model, explanatory gap (Levine), hard problem (Chalmers), multiple realizability (Putnam/Fodor), Kim's exclusion argument, and how site's quantum framework responds. Historical timeline from Democritus to present.
+- **Output**: Created `research/reductionism-consciousness-philosophy-2026-01-19.md`
+
+### ✓ 2026-01-19: Write concept page on motor selection and quantum Zeno
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Motor selection complements attention-as-interface—both are candidate sites for consciousness-matter interaction via quantum Zeno mechanism.
+- **Result**: Task already completed in previous session—concepts/motor-selection.md exists with comprehensive coverage of motor-attention parallel, Libet challenge dissolution, parietal dissociation, basal ganglia selection mechanism.
+- **Output**: Already exists: `concepts/motor-selection.md`
+
+### ✓ 2026-01-19: Write concept page on many-worlds interpretation
+- **Type**: expand-topic
+- **Notes**: Referenced 23 times across content. Site's fourth tenet explicitly rejects MWI ("No Many Worlds").
+- **Result**: Task already completed—arguments/many-worlds.md exists with comprehensive coverage of ontological extravagance, indexical problem, probability problem, preferred basis problem, and why site rejects MWI.
+- **Output**: Already exists: `arguments/many-worlds.md`
 
 ### ✓ 2026-01-19: Expand witness-consciousness concept page
 - **Type**: expand-topic
