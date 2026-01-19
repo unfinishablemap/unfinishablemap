@@ -1,10 +1,11 @@
 ---
 title: "Higher-Order Theories of Consciousness"
 created: 2026-01-14
-modified: 2026-01-14
+modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-18T22:30:00+00:00
+ai_modified: 2026-01-19T22:50:00+00:00
 draft: false
+last_deep_review: 2026-01-19T22:50:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
@@ -14,6 +15,9 @@ concepts:
   - "[[self-reference-paradox]]"
   - "[[global-workspace-theory]]"
   - "[[metacognition]]"
+  - "[[illusionism]]"
+  - "[[phenomenal-concepts-strategy]]"
+  - "[[mental-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[higher-order-theories-consciousness-2026-01-14]]"
@@ -72,6 +76,18 @@ Ned Block argues that "the higher-order approach to consciousness is defunct." H
 
 As Farrell (2018) argues, "ambitious" higher-order theories fail to account for what-it-is-like-ness. We can conceive of creatures with the right higher-order representations who nevertheless lack phenomenal consciousness entirely—[[functionalism|zombies]] with sophisticated metacognition.
 
+### The HOROR Response
+
+Richard Brown's (2025) Higher-Order Representation of a Representation (HOROR) theory attempts to address these objections. HOROR holds that consciousness involves a higher-order state that represents a first-order state *as* having qualitative character. The "as" is crucial: the higher-order state doesn't merely target the first-order state but represents its qualitative nature.
+
+Does HOROR escape the fundamental objection? Critics argue not. If consciousness is constituted by representing states as having qualitative character, the question becomes: why does representing something *as* qualitative produce genuine qualitative experience? The [[phenomenal-concepts-strategy|phenomenal concepts strategy]] faces a similar dilemma. Either the "as qualitative" representation is itself qualitatively conscious—in which case we haven't explained phenomenal consciousness but presupposed it—or it isn't, in which case we still face the hard problem of how non-qualitative representation produces qualitative experience.
+
+### The Illusionist Alternative
+
+[[illusionism|Illusionism]] represents HOT's logical extreme. If consciousness just *is* higher-order representation, and such representation can be illusory, perhaps phenomenal consciousness itself is an illusion. Frankish and Dennett argue we only *seem* to have qualitative experiences; the seeming is itself functional information processing.
+
+HOT theorists typically resist this move. Rosenthal maintains that higher-order representation *constitutes* genuine phenomenal consciousness, not its mere appearance. But the pressure toward illusionism reveals HOT's difficulty: either accept that representing a state as conscious makes it conscious (hard to explain) or accept that we're systematically wrong about our own experience (hard to believe). The illusionist objection that even seeming requires something to do the seeming applies with equal force to HOT.
+
 ## Empirical Dissociation Evidence
 
 Recent neuroscience provides empirical challenges to HOT beyond the philosophical objections. If consciousness just *is* being represented by a higher-order thought, consciousness and [[metacognition]] should not come apart. But they do.
@@ -106,6 +122,28 @@ The empirical picture suggests consciousness and metacognition are related but d
 | aPFC disruption | Present | Impaired | tACS over frontopolar cortex |
 
 First-order theorists (Block, Lamme) explain this naturally: phenomenal consciousness involves sensory processing directly; metacognition provides *access* to that experience. HOT struggles because its core claim—consciousness *is* higher-order representation—predicts the two should be inseparable.
+
+## Can HOT Be Tested?
+
+The dissociation evidence above suggests HOT generates testable predictions—and fails some of them. But defenders argue the theory can accommodate apparent counterexamples. Can we design experiments that would decisively distinguish HOT from first-order theories?
+
+### The Prefrontal Prediction
+
+HOT predicts that disrupting higher-order representations should disrupt consciousness itself. The aPFC studies partially confirm this: disruption impairs *metacognitive accuracy* but not first-order perception. HOT theorists might respond that perception remaining intact shows the higher-order representation persists—only confidence tracking fails.
+
+But this response makes HOT harder to falsify. If any preserved function can be attributed to preserved higher-order representation, and any impairment can be attributed to impaired representation, the theory becomes accommodating rather than predictive.
+
+### Dreaming Without Metacognition
+
+[[dreams-and-consciousness|Dreams]] provide another test case. During non-lucid dreams, we have vivid conscious experience without recognizing that we're dreaming—a metacognitive failure. If consciousness required higher-order thought of the form "I am in mental state M," wouldn't the absence of "I am dreaming" mean we shouldn't be conscious at all during dreams?
+
+HOT theorists might argue unconscious higher-order thoughts persist during dreams, targeting dream experiences without reaching the threshold for explicit metacognitive recognition. But this move again reduces falsifiability—any conscious state gets attributed to an unconscious HOT, testable only by the consciousness it supposedly explains.
+
+### Contemplative Evidence
+
+Buddhist and other contemplative traditions report states of awareness *without* the subject-object structure HOT requires. Advanced meditators describe "choiceless awareness" or "pure consciousness" where the observer-observed distinction dissolves. If these reports are accurate, they describe consciousness without higher-order targeting—the first-order experience is its own awareness rather than being made conscious by a separate meta-representation.
+
+HOT theorists might dismiss such reports as misinterpretation or might claim subtle higher-order processes persist. The disagreement may be unresolvable empirically, which itself suggests HOT operates more as a philosophical framework than an empirical theory.
 
 ## Connection to Self-Reference
 
@@ -143,6 +181,10 @@ HOT might respond that the beliefs *are* accurate because they just *are* the co
 
 HOT operates at the cognitive level without invoking [[tenets#^minimal-quantum-interaction|quantum mechanics]]. If HOT were correct, consciousness would be a classical computational phenomenon—no room for the quantum interface the site proposes. This represents a fundamental disagreement about the level at which mind and matter meet.
 
+The disagreement has empirical implications. HOT predicts consciousness should be fully explicable in terms of classical neural computation—higher-order representations implemented in prefrontal circuits. The site's quantum proposal predicts anomalies: effects of consciousness on physical outcomes that classical HOT cannot accommodate, potentially detectable as correlations between conscious states and quantum measurement outcomes.
+
+HOT's classical framing also affects its treatment of [[mental-causation|mental causation]]. If higher-order thoughts are just neural computations, they inherit whatever causal efficacy neural computations have—but this is garden-variety physical causation, not the distinctive mental causation the site's framework requires. The felt efficacy of conscious effort, attention, and decision would be epiphenomenal: the computation does the work while consciousness watches. HOT thus struggles with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet for reasons beyond its bottom-up framing.
+
 ## Assessment
 
 HOT offers a sophisticated account of the *structure* of consciousness: what distinguishes conscious from unconscious states, how introspection relates to ordinary awareness, why some creatures seem more metacognitively sophisticated than others.
@@ -158,6 +200,9 @@ The hard problem remains hard.
 - [[metacognition]] — The cognitive capacity HOT conflates with consciousness
 - [[self-reference-paradox]] — The recursive structure HOT requires
 - [[functionalism]] — The philosophical framework underlying HOT
+- [[illusionism]] — HOT's logical extreme: phenomenal consciousness as illusion
+- [[phenomenal-concepts-strategy]] — Physicalism's parallel attempt to explain the gap
+- [[mental-causation]] — Where HOT's classical framing creates problems
 - [[ai-consciousness]] — Where HOT's implications meet the site's skepticism
 - [[higher-order-theories-consciousness-2026-01-14]] — Detailed research notes
 
@@ -165,8 +210,9 @@ The hard problem remains hard.
 
 - Armstrong, D. M. (1968). *A Materialist Theory of the Mind*. Routledge.
 - Block, N. (2011). The higher order approach to consciousness is defunct. *Analysis*, 71(3), 419-431.
-- Brown, R. (2025). *Consciousness as Representing One's Mind*. Oxford University Press.
+- Brown, R. (2025). *Consciousness as Representing One's Mind: The Higher-Order Approach to Consciousness Explained*. Oxford University Press.
 - Farrell, J. (2018). Higher-order theories of consciousness and what-it-is-like-ness. *Philosophical Psychology*, 31(8), 1183-1206.
 - Gennaro, R. J. (2012). *The Consciousness Paradox*. MIT Press.
+- Lycan, W. G. (1996). *Consciousness and Experience*. MIT Press.
 - Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach to understanding blindsight. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
 - Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
