@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 20:32:00+00:00
+ai_modified: 2026-01-19 20:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,15 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-19
+
+### 20:40 - deep-review (intuitive-dualism.md cognitive science enhancement)
+- **Status**: Success
+- **File**: obsidian/concepts/intuitive-dualism.md
+- **Changes**: Enhanced with developmental psychology details from cognitive-science-dualism-2026-01-15.md research. Added Chudek et al. (2018) cross-cultural children's study (180 Canadian + Fijian children/adults, agency cue tracking showing early-emerging dualistic inclinations across populations). Added Richert & Harris (2008) brain-mind distinction finding (dualist intuitions suppressed but not eliminated by neuroscience education). Added mental-causation cross-link to concepts frontmatter and Further Reading.
+- **Based on research**: Yes (research/cognitive-science-dualism-2026-01-15.md)
+- **Session**: 334
+
+---
 
 ### 20:30 - expand-topic (arguments-against-materialism)
 - **Status**: Success

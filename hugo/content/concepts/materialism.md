@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-19 04:50:00+00:00
+ai_modified: 2026-01-19 20:40:29+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,6 +13,7 @@ concepts:
 - '[[illusionism]]'
 - '[[knowledge-argument]]'
 - '[[arguments-for-dualism]]'
+- '[[arguments-against-materialism]]'
 - '[[analytic-idealism]]'
 created: 2026-01-14
 date: &id001 2026-01-14
@@ -88,6 +89,8 @@ The site's response targets premise 1. The [Minimal Quantum Interaction](/tenets
 ## Why Materialism Fails
 
 Several lines of argument suggest materialism cannot accommodate consciousness. These are not merely objections to materialism; they constitute [positive arguments for dualism](/concepts/arguments-for-dualism/) that converge on the same conclusion from independent directions. [Dualism](/concepts/dualism/)—the view that consciousness is ontologically distinct from matter—gains support precisely where materialism fails. The 2020 PhilPapers survey found 22% of philosophers accept or lean toward dualism—the second most popular position after materialism itself.
+
+For a comprehensive treatment of these arguments, including Kripke's modal argument, Nagel's subjectivity argument, and the convergence argument showing how independent lines of reasoning reinforce each other, see [arguments-against-materialism](/concepts/arguments-against-materialism/).
 
 ### The Explanatory Gap
 
@@ -165,6 +168,7 @@ Materialism remains the consensus position in academic philosophy. The site hold
 
 ## Further Reading
 
+- [arguments-against-materialism](/concepts/arguments-against-materialism/) — Seven converging arguments against physicalism with the convergence argument
 - [dualism](/concepts/dualism/) — What dualism claims and its main varieties (foundational overview)
 - [arguments-for-dualism](/concepts/arguments-for-dualism/) — The positive case for dualism (conceivability, knowledge, qualia, unity, intentionality, modal arguments)
 - [knowledge-argument](/concepts/knowledge-argument/) — The knowledge argument (Mary's Room) in detail

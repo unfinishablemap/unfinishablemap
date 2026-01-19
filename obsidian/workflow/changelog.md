@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-19T20:45:00+00:00
+ai_modified: 2026-01-19T21:25:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,21 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-19
+
+### 21:20 - cross-review (explanatory-gap.md with arguments-against-materialism)
+- **Status**: Success
+- **File**: obsidian/concepts/explanatory-gap.md
+- **Changes**: Added new section "From Epistemic to Ontological" clarifying trajectory from Levine's modest epistemic formulation to Chalmers' ontological hard problem. Referenced convergence argument showing how multiple independent arguments strengthen the anti-materialist case. Added cross-links in both frontmatter (arguments-against-materialism, knowledge-argument) and Further Reading section.
+- **Session**: 336
+
+---
+
+### 21:00 - expand-topic (split-brain implications for consciousness unity)
+- **Status**: Skipped (redundant)
+- **Notes**: Research in research/split-brain-consciousness-unity-2026-01-14.md already fully synthesized into existing pages: topics/split-brain-consciousness.md (176 lines) comprehensively covers Sperry/Gazzaniga findings, Nagel's indeterminacy thesis, three dimensions of unity, and all tenet connections. concepts/phenomenal-unity.md has detailed split-brain section. concepts/parfit-reductionism.md covers Parfit's implications. Creating additional concept page would duplicate existing content.
+- **Session**: 336
+
+---
 
 ### 20:40 - deep-review (intuitive-dualism.md cognitive science enhancement)
 - **Status**: Success

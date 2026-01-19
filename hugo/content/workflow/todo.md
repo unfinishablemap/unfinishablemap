@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 20:40:00+00:00
+ai_modified: 2026-01-19 21:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -69,6 +69,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review explanatory-gap.md with arguments-against-materialism synthesis
+- **Type**: cross-review
+- **Notes**: New article concepts/arguments-against-materialism.md presents explanatory gap as first of seven converging arguments. The concepts/explanatory-gap.md page is a detailed treatment that should link to the synthesis page. Check that Levine's epistemic vs Chalmers' ontological reading is consistently handled across both pages.
+- **Result**: Added new section "From Epistemic to Ontological" clarifying trajectory from Levine's modest epistemic framing to Chalmers' ontological hard problem. Referenced convergence argument showing how multiple independent arguments strengthen anti-materialist case. Added cross-links in frontmatter and Further Reading.
+- **Output**: Updated `concepts/explanatory-gap.md`
+
+### ✓ 2026-01-19: Write article on split-brain implications for consciousness unity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/split-brain-consciousness-unity-2026-01-14.md. Covers Sperry/Gazzaniga findings, Parfit's implications, and competing interpretations (partial unity vs two minds). Related topic page topics/split-brain-consciousness.md exists but may benefit from dedicated concept page on unity implications. Supports phenomenal-unity.md and challenges/supports dualist positions.
+- **Result**: Task determined redundant. Research already fully synthesized into comprehensive existing pages: topics/split-brain-consciousness.md (176 lines) covers all research findings including Nagel's indeterminacy, three dimensions of unity, and tenet connections. concepts/phenomenal-unity.md has detailed split-brain section. concepts/parfit-reductionism.md covers Parfit's implications. No new page needed.
+- **Output**: None (existing content is complete)
+
+### ✓ 2026-01-19: Cross-review materialism.md with arguments-against-materialism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/arguments-against-materialism.md consolidates seven major arguments against materialism. The concepts/materialism.md page should reference this comprehensive treatment—particularly the convergence argument (multiple independent lines of reasoning pointing to the same conclusion). Check for cross-links and ensure fair representation of materialist responses.
+- **Result**: Added arguments-against-materialism to concepts frontmatter. Added reference to the comprehensive synthesis page in "Why Materialism Fails" section, noting seven converging arguments including Kripke's modal and Nagel's subjectivity. Added as first item in Further Reading section.
+- **Output**: Updated `concepts/materialism.md`
 
 ### ✓ 2026-01-19: Enhance intuitive-dualism.md with cognitive science research
 - **Type**: deep-review
