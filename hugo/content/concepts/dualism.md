@@ -47,7 +47,7 @@ Dualism comes in two main forms, distinguished by their ontological commitments 
 
 Substance dualism holds that mind and body are different *kinds of thing*—distinct substances. This is the Cartesian view: res cogitans (thinking substance) and res extensa (extended substance) are fundamentally different. Minds are genuine additions to the world's inventory, over and above physical objects.
 
-Modern substance dualists (E.J. Lowe, Dean Zimmerman) accept that mental substances are part of the natural world while maintaining their distinctness from physical matter. David Chalmers, though initially known for property dualism, has expressed preference for substance dualism in more recent work (Chalmers 2016). Part of his reasoning involves the subject combination problem: property dualism (especially in panpsychist versions) struggles to explain how micro-experiences combine into unified macro-subjects, while substance dualism posits unified subjects from the start.
+Modern substance dualists (E.J. Lowe, Dean Zimmerman) accept that mental substances are part of the natural world while maintaining their distinctness from physical matter. One consideration favouring substance dualism involves the subject combination problem: property dualism (especially in panpsychist versions) struggles to explain how micro-experiences combine into unified macro-subjects, while substance dualism posits unified subjects from the start.
 
 ### Property Dualism
 
@@ -147,4 +147,3 @@ This framework is not a retreat to mystery. The interaction has a candidate mech
 - Lowe, E. J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
 - Robinson, H. (2020). Substance dualism. *Stanford Encyclopedia of Philosophy*.
 - Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.
-- Chalmers, D.J. (2016). The combination problem for panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives* (pp. 179-214). Oxford University Press.
