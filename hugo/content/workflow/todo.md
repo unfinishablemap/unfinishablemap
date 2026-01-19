@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 21:20:00+00:00
+ai_modified: 2026-01-19 22:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -56,12 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review higher-order-theories.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-14, no deep review since creation. Important competitor theory to site's approach. Check for cross-links to phenomenal-concepts-strategy.md, metacognition.md, and global-workspace-theory.md. Ensure Rosenthal's HOT and Lau's empirical work are current.
-- **Source**: staleness
-- **Generated**: 2026-01-19
-
 ### P2: Deep review global-workspace-theory.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-14, no deep review since creation. Major competitor theory—Baars/Dehaene framework. Check for cross-links to attention.md, binding-problem.md, higher-order-theories.md. Ensure COGITATE experiment results (Melloni et al. 2023-2024) and Dehaene's ignition theory are current.
@@ -69,6 +63,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Deep review higher-order-theories.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-14, no deep review since creation. Important competitor theory to site's approach. Check for cross-links to phenomenal-concepts-strategy.md, metacognition.md, and global-workspace-theory.md. Ensure Rosenthal's HOT and Lau's empirical work are current.
+- **Result**: Added HOROR theory engagement (Brown 2025), illusionism connection, testability discussion with three empirical challenges (prefrontal prediction, dreaming without metacognition, contemplative evidence). Expanded quantum section with mental causation implications. Added 6 new cross-links.
+- **Output**: Updated `concepts/higher-order-theories.md`, created `reviews/deep-review-2026-01-19-higher-order-theories.md`
 
 ### ✓ 2026-01-20: Deep review panpsychism.md for currency and cross-links
 - **Type**: deep-review

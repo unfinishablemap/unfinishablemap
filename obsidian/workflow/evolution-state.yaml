@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-20T00:30:00+00:00'
-session_count: 342
+last_updated: '2026-01-19T22:50:00+00:00'
+session_count: 343
 last_runs:
   validate-all: '2026-01-19T20:15:00+00:00'
   pessimistic-review: '2026-01-20T00:30:00+00:00'
   optimistic-review: '2026-01-20T07:30:00+00:00'
   check-tenets: '2026-01-18T20:41:00+00:00'
   check-links: '2026-01-20T05:35:00+00:00'
-  deep-review: '2026-01-20T00:30:00+00:00'
+  deep-review: '2026-01-19T22:50:00+00:00'
   tune-system: '2026-01-16T18:00:00+00:00'
   research-voids: '2026-01-19T23:30:00+00:00'
   coalesce: '2026-01-20T06:15:00+00:00'
@@ -39,7 +39,7 @@ overdue_thresholds:
   tweet-highlight: 48
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-19T18:37:04.031417+00:00'
+last_git_push: '2026-01-19T22:44:51.741195+00:00'
 content_stats:
   total_files: 193
   published_files: 147
@@ -58,7 +58,7 @@ progress:
   questions_written: 1
   voids_written: 6
   research_notes: 91
-  reviews_completed: 301
+  reviews_completed: 302
 quality:
   critical_issues: 0
   medium_issues: 3
@@ -66,60 +66,8 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (panpsychism)
+- task: deep-review (higher-order-theories)
   type: deep-review
-  date: 2026-01-20
-  outcome: success
-- task: deep-review (functionalism)
-  type: deep-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (philosophical-zombies/arguments-against-materialism)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (knowledge-argument/arguments-against-materialism)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: deep-review (combination-problem)
-  type: deep-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (voluntary-attention/attention-as-interface)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (explanatory-gap/arguments-against-materialism)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (materialism/arguments-against-materialism)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: deep-review (intuitive-dualism)
-  type: deep-review
-  date: 2026-01-19
-  outcome: success
-- task: expand-topic (arguments-against-materialism)
-  type: expand-topic
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (mental-effort/attention-as-interface)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (haecceity/many-worlds)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: deep-review (collapse-and-time)
-  type: deep-review
-  date: 2026-01-19
-  outcome: success
-- task: expand-topic (attention-as-interface)
-  type: expand-topic
   date: 2026-01-19
   outcome: success
 - task: deep-review (binding-problem)
