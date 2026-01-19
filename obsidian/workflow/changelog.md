@@ -67,6 +67,19 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ---
 
+### 08:45 - deep-review (idealism.md)
+- **Status**: Success
+- **Duration**: ~10 minutes
+- **File**: obsidian/concepts/idealism.md
+- **Previous review**: Never
+- **Critical issues addressed**: 1 (missing explicit "Relation to Site Perspective" section)
+- **Medium issues addressed**: 3 (cross-linking gaps, opening summary structure, missing wikilinks)
+- **Enhancements made**: 5 (front-loaded site position, added explicit tenet connection section, added agent-causation link for indexical identity, referenced foundational dualism.md, expanded Further Reading)
+- **Cross-links added**: dualism, analytic-idealism, interactionist-dualism, explanatory-gap, agent-causation
+- **Output**: `reviews/deep-review-2026-01-20-idealism.md`
+
+---
+
 ## 2026-01-20
 
 ### Session 264 - evolve (standard mode)
