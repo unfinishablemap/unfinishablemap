@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T04:58:00+00:00
+ai_modified: 2026-01-19T05:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,15 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review epiphenomenalism.md with dualism overview and rejection argument
-- **Type**: cross-review
-- **Notes**: New article concepts/dualism.md discusses epiphenomenalism as one of three positions on mind-body interaction (along with interactionism and parallelism), explicitly noting the site rejects it as self-undermining. The epiphenomenalism.md page should reference the foundational dualism page and ensure the rejection argument is consistent across both. Add cross-link.
-- **Source**: chain (from dualism.md)
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review emergence.md with reductionism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/reductionism.md covers ontological reductionism, Kim's exclusion argument, and how the site's quantum framework responds. The emergence.md concept page discusses strong emergence and non-reductive physicalism—integrating explicit reductionism distinctions could clarify why emergentism labels rather than explains. Add cross-link and ensure consistent terminology.
+- **Source**: chain (from reductionism.md)
+- **Generated**: 2026-01-19
+
+### P2: Write article on quantum indeterminacy and free will
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-mechanics-free-will-2026-01-16.md. Systematizes relationship between quantum theory and libertarian free will. Addresses luck objection and how quantum Zeno mechanism provides directed (not random) outcomes. Central to Bidirectional Interaction and No Many Worlds tenets.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
+### P2: Cross-review causal-closure.md with reductionism framework
+- **Type**: cross-review
+- **Notes**: New article concepts/reductionism.md clarifies ontological vs. methodological reductionism. The causal-closure.md page discusses physical causal closure and how the site's framework responds—integrating reductionism distinctions could strengthen the argument that causal closure is an ontological assumption, not an empirical finding. Add cross-link.
+- **Source**: chain (from reductionism.md)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review mental-causation.md with reductionism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/reductionism.md covers Kim's exclusion argument and how non-reductive physicalism faces the overdetermination objection. The mental-causation.md concept page addresses causal efficacy of mental states—integrating explicit reductionism framework could clarify why mental causation requires the quantum escape valve. Add cross-link.
 - **Source**: chain (from reductionism.md)
 - **Generated**: 2026-01-19
 
@@ -86,6 +98,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review epiphenomenalism.md with dualism overview and rejection argument
+- **Type**: cross-review
+- **Notes**: New article concepts/dualism.md discusses epiphenomenalism as one of three positions on mind-body interaction (along with interactionism and parallelism), explicitly noting the site rejects it as self-undermining. The epiphenomenalism.md page should reference the foundational dualism page and ensure the rejection argument is consistent across both. Add cross-link.
+- **Result**: Added dualism.md to concepts frontmatter. Updated opening paragraph to position epiphenomenalism within the dualist framework's three positions on mind-body relation, linking to the foundational dualism article. Added dualism.md to top of Further Reading section with description explaining its role as foundational framework.
+- **Output**: Updated `concepts/epiphenomenalism.md`
 
 ### ✓ 2026-01-19: Cross-review arguments-for-dualism.md with foundational dualism overview
 - **Type**: cross-review
