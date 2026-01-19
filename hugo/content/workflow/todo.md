@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 11:35:00+00:00
+ai_modified: 2026-01-19 22:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review phenomenology-of-the-edge.md for voids consistency
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-19, no deep review since creation. Check integration of voids-phenomenology-of-the-edge-2026-01-19.md research—particularly Metzinger's MPE findings, the ineffability-noesis paradox, and connections to filter-theory.md. Ensure consistency with other voids articles.
-- **Source**: staleness
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review idealism.md with minimal-consciousness implications
 - **Type**: cross-review
 - **Notes**: New article concepts/minimal-consciousness.md covers organisms at consciousness boundaries (C. elegans, Hydra, slime molds). The concepts/idealism.md page holds that consciousness is fundamental to reality. What does idealism say about consciousness in simple systems? Does the UAL framework challenge or support idealist claims about the ubiquity of mind?
 - **Source**: chain (from minimal-consciousness.md)
+- **Generated**: 2026-01-19
+
+### P2: Deep review altered-states-of-consciousness.md for research integration
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-18, no deep review since creation. Check integration of altered-states-consciousness-2026-01-19.md research—particularly Charles Tart's taxonomy, the filter theory evidence (propofol vs ketamine divergence), and Penrose-Hameroff microtubule-psychedelic connection. Cross-link to minimal-consciousness.md (boundary states).
+- **Source**: staleness
+- **Generated**: 2026-01-19
+
+### P2: Deep review reductionism.md for research integration
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-19, no deep review since creation. Check integration of reductionism-consciousness-philosophy-2026-01-19.md research—particularly the Nagel/Chalmers explanatory reduction distinction, Kim's multiple realizability response, and the scientific success vs consciousness failure asymmetry. Cross-link to emergence.md and minimal-consciousness.md.
+- **Source**: staleness
+- **Generated**: 2026-01-19
+
+### P2: Cross-review filter-theory.md with altered-states evidence
+- **Type**: cross-review
+- **Notes**: The concepts/altered-states-of-consciousness.md page extensively applies filter theory to psychedelics, anesthesia, and meditation. The concepts/filter-theory.md page should reference these specific applications—particularly the propofol/ketamine divergence evidence and Huxley's "reducing valve" metaphor as empirical support.
+- **Source**: chain (from altered-states-of-consciousness.md)
 - **Generated**: 2026-01-19
 
 ### P3: Deep review analytic-idealism.md for currency and cross-links
@@ -63,6 +75,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Deep review phenomenology-of-the-edge.md for voids consistency
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-19, no deep review since creation. Check integration of voids-phenomenology-of-the-edge-2026-01-19.md research—particularly Metzinger's MPE findings, the ineffability-noesis paradox, and connections to filter-theory.md. Ensure consistency with other voids articles.
+- **Result**: Integrated Metzinger's 2024 MPE cross-cultural findings (500+ reports, 57 countries). Added philosophical analysis of the ineffability-noesis paradox, engaging materialist objection (brain misinterpreting noise as insight) with counter-argument based on phenomenological specificity. Created new "The Lower Edge: Minimal Consciousness" section connecting upper-edge phenomenology to lower-edge minimal consciousness, exploring how meditators approaching from above may meet what simple organisms inhabit from below. Added minimal-consciousness to concepts frontmatter and Further Reading.
+- **Output**: Updated `voids/phenomenology-of-the-edge.md`, created `reviews/deep-review-2026-01-19-phenomenology-of-the-edge.md`
 
 ### ✓ 2026-01-19: Deep review consciousness-and-creativity.md for research integration
 - **Type**: deep-review
