@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T22:00:00+00:00
+ai_modified: 2026-01-19T20:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,10 +43,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-19
 
-### P2: Cross-review phenomenal-unity.md with minimal-consciousness boundary cases
+### P2: Cross-review hard-problem-of-consciousness.md with minimal-consciousness insights
 - **Type**: cross-review
-- **Notes**: New article concepts/minimal-consciousness.md provides examples of organisms that may lack unified experience (Hydra's decentralized nerve net, slime molds without neurons). The concepts/phenomenal-unity.md page discusses what makes consciousness unified; these boundary cases offer empirical tests for unity theories.
+- **Notes**: New article concepts/minimal-consciousness.md provides empirical data on consciousness at its simplest (C. elegans 302 neurons, Hydra nerve nets, slime molds without neurons). The topics/hard-problem-of-consciousness.md page should integrate these cases—particularly what it means for consciousness to exist in such simple systems and how this informs the explanatory gap.
 - **Source**: chain (from minimal-consciousness.md)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review mysterianism.md with minimal-consciousness findings
+- **Type**: cross-review
+- **Notes**: New article concepts/minimal-consciousness.md covers organisms at consciousness boundaries. The concepts/mysterianism.md page discusses cognitive closure—can we understand consciousness in systems far simpler than us? These boundary cases may inform whether the hard problem is a mystery or merely difficult.
+- **Source**: chain (from minimal-consciousness.md)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review qualia.md with minimal-consciousness implications
+- **Type**: cross-review
+- **Notes**: New article concepts/minimal-consciousness.md raises questions about qualia in simple systems. What is it like to be C. elegans with 302 neurons? Do slime molds have proto-qualia? The concepts/qualia.md page should address these boundary cases and what they imply for theories of phenomenal experience.
+- **Source**: chain (from minimal-consciousness.md)
+- **Generated**: 2026-01-19
+
+### P3: Deep review functionalism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-09, no deep review since creation. Check for cross-links to newer content (minimal-consciousness.md, evolution-of-consciousness.md, substrate-independence-critique.md) and currency against recent debates.
+- **Source**: staleness
 - **Generated**: 2026-01-19
 
 ### P3: Deep review analytic-idealism.md for currency and cross-links
@@ -62,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review phenomenal-unity.md with minimal-consciousness boundary cases
+- **Type**: cross-review
+- **Notes**: New article concepts/minimal-consciousness.md provides examples of organisms that may lack unified experience (Hydra's decentralized nerve net, slime molds without neurons). The concepts/phenomenal-unity.md page discusses what makes consciousness unified; these boundary cases offer empirical tests for unity theories.
+- **Result**: Added minimal-consciousness.md to concepts frontmatter at top position. Added new "Simple Organisms: Testing the Limits of Unity" subsection within Evidence from Disrupted Unity, covering Hydra (decentralized nerve net, micro-experiences without unity), C. elegans (positive Phi but fails trace conditioning), and slime molds (integration without neural substrates). Connected boundary cases to quantum unity hypothesis. Added minimal-consciousness.md to Further Reading.
+- **Output**: Updated `concepts/phenomenal-unity.md`
 
 ### ✓ 2026-01-19: Cross-review integrated-information-theory.md with minimal-consciousness Phi evidence
 - **Type**: cross-review
