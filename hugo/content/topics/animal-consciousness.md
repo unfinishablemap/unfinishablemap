@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-19 09:10:24+00:00
+ai_modified: 2026-01-19 09:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[minimal-consciousness]]'
 - '[[evolution-of-consciousness]]'
 - '[[qualia]]'
 - '[[explanatory-gap]]'
@@ -39,6 +40,18 @@ Two major declarations mark growing scientific agreement:
 **The New York Declaration on Animal Consciousness (2024)** — Over 500 scientists and philosophers affirmed "strong scientific support" for consciousness in mammals and birds, with a "realistic possibility" extending to all vertebrates and many invertebrates including cephalopods, crustaceans, and insects. This represents a significant expansion from the Cambridge findings.
 
 These declarations identify *correlates*, not consciousness itself. Neural substrates associated with consciousness in humans are present in many species. Whether correlates constitute or merely accompany consciousness remains the hard problem.
+
+## Minimal Neural Requirements
+
+How little neural complexity can support consciousness? The question presses at the lower boundaries of the New York Declaration's "realistic possibility." Research on [simple organisms](/concepts/minimal-consciousness/) reveals the difficulty of drawing lines:
+
+**C. elegans** (302 neurons): The most completely mapped organism in neuroscience—full connectome, complete synaptic inventory—yet we cannot determine whether it experiences anything. It shows habituation, sensitization, associative learning, and responds to anesthetics like vertebrates. But it fails trace-conditioning paradigms, a critical test for the unlimited associative learning that may mark consciousness.
+
+**Hydra** (900 neurons, decentralized): No brain, no ganglia—just a distributed nerve net. Nerve-free Hydra can survive indefinitely when force-fed but lose prey detection. The nervous system enables specific behaviors rather than creating general experiential capacity. This challenges assumptions that consciousness requires centralized processing.
+
+**Slime molds** (no neurons): *Physarum polycephalum* solves mazes and optimizes network routes without any neurons whatsoever. If cognition and consciousness can fully dissociate, neural complexity may be necessary for consciousness even if not for intelligent behavior.
+
+The **Unlimited Associative Learning (UAL) framework** (Ginsburg & Jablonka) proposes that consciousness emerged when learning became *unlimited*—capable of associating arbitrary stimuli across modalities with arbitrary actions. UAL requires global broadcasting, selective attention, an evaluative system, agency, and self-other distinction. On this criterion, *C. elegans*, Hydra, and slime molds all fall short—they cannot perform trace conditioning or demonstrate unlimited associative learning. This doesn't prove they lack consciousness, but provides the most rigorous empirical marker currently available for the "realistic possibility" the New York Declaration affirms.
 
 ## What Is It Like to Be a Bat?
 
@@ -151,6 +164,7 @@ This isn't failure but recognition. The site's [Occam's Razor Has Limits](/tenet
 
 ## Further Reading
 
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Model organisms at the boundaries: C. elegans, Hydra, slime molds, and the UAL framework
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged, phylogenetic distribution, and why dualism handles evolutionary questions better
 - [emotional-consciousness](/concepts/emotional-consciousness/) — The felt quality of emotions, particularly valence and the Panksepp-LeDoux debate
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemological framework underlying consciousness attribution

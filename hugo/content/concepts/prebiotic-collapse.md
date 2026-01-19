@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-16 15:00:00+00:00
+ai_modified: 2026-01-19 09:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[evolution-of-consciousness]]'
 - '[[quantum-consciousness]]'
 - '[[collapse-and-time]]'
 - '[[measurement-problem]]'
@@ -28,6 +29,18 @@ topics:
 If consciousness participates in quantum collapse, what determined outcomes before conscious observers existed? Star formation, chemical reactions, genetic mutations—all required definite quantum outcomes billions of years before the first mind. This "prebiotic collapse" problem challenges any framework linking consciousness to measurement. The site's resolution separates two claims: collapse is real (per the [No Many Worlds](/tenets/#no-many-worlds) tenet), but consciousness doesn't *cause* collapse universally—it *interfaces* with collapse in neural systems. Objective reduction provides the baseline; consciousness modulates rather than initiates.
 
 This approach preserves prebiotic cosmology while maintaining the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness affects physical outcomes in brains, without requiring cosmic consciousness for early-universe selection.
+
+## Two Distinct Timeline Questions
+
+The prebiotic collapse problem addresses the *cosmological* timeline: what collapsed wavefunctions during the 13.8 billion years before any minds existed? But there's a related question about the *phylogenetic* timeline: when did consciousness emerge in the history of life on Earth?
+
+These are distinct problems:
+
+- **Prebiotic collapse** concerns the period before any life existed—star formation, chemical evolution, early Earth geology. No plausible account places consciousness this early (panpsychism aside), so the question is what *other than consciousness* caused collapse.
+
+- **[Phylogenetic emergence](/concepts/evolution-of-consciousness/)** concerns which organisms in the tree of life are conscious. Did consciousness appear gradually as nervous systems developed? At a threshold? Was it present from the first cells? This question operates within an already-collapsing physics—objective reduction handles the cosmological timeline—and asks where consciousness began to *interface* with that collapse.
+
+The site's framework separates these cleanly. Objective reduction solves prebiotic collapse regardless of when biological consciousness emerged. The evolution of consciousness then becomes the question of when organisms developed neural architectures suitable for consciousness-collapse interfacing—not when collapse itself began to produce definite outcomes.
 
 ## The Problem Stated
 
@@ -111,6 +124,7 @@ The site's commitment is to the *framework* (real collapse + consciousness modul
 
 ## Further Reading
 
+- [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged in the phylogenetic timeline
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-collapse interaction
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric physics and backward causation

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 09:30:00+00:00
+ai_modified: 2026-01-19 09:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review prebiotic-collapse.md with evolution-of-consciousness timing question
+### P2: Cross-review evolution-of-consciousness.md considering minimal-consciousness evidence
 - **Type**: cross-review
-- **Notes**: New article concepts/evolution-of-consciousness.md addresses when consciousness emerged phylogenetically. The concepts/prebiotic-collapse.md page addresses quantum collapse before observers existed. These are related but distinct problems—ensure proper cross-linking and distinguish the cosmological vs biological timeline questions.
-- **Source**: chain (from evolution-of-consciousness.md)
+- **Notes**: New article concepts/minimal-consciousness.md provides concrete empirical cases (C. elegans 302 neurons, Hydra nerve-net, slime molds) for the phylogenetic emergence question. The concepts/evolution-of-consciousness.md page discusses when consciousness emerged but could benefit from specific examples of organisms at the boundaries—particularly the UAL framework and the New York Declaration evidence. Ensure cross-linking and mutual reinforcement.
+- **Source**: chain (from minimal-consciousness.md)
 - **Generated**: 2026-01-19
 
-### P2: Cross-review animal-consciousness.md considering minimal-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article concepts/minimal-consciousness.md covers model organisms (C. elegans, Hydra, slime molds), the UAL framework, and the distribution problem. The topics/animal-consciousness.md page is the main entry point for consciousness across species and should integrate these insights—particularly the minimal neural requirements evidence and the UAL criterion for consciousness attribution.
-- **Source**: chain (from minimal-consciousness.md)
+### P2: Write concept page on Buddhist perspectives and dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/buddhist-perspectives-meaning-2026-01-06.md. Eastern philosophy offers distinctive perspective on consciousness—no-self doctrine, dependent origination, streams of consciousness. Research identifies 5 article angles including Buddhism and the Hard Problem, No-Self vs Dualism reconciliation, and Eastern/Western responses to nihilism. Would strengthen eastern-philosophy-consciousness.md connections and provide alternative framework for consciousness discussions.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
+### P2: Write article on temporal requirements for consciousness (LLM focus)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/temporal-structure-consciousness-2026-01-14.md contains Hoel's December 2025 analysis of why LLMs lack temporal structure for consciousness—frozen weights, no continual learning, discrete vs continuous time. While temporal-consciousness.md exists, this research specifically addresses AI consciousness through the temporal lens. Would strengthen substrate-independence-critique.md and llm-consciousness.md with detailed temporal argument.
+- **Source**: unconsumed_research
 - **Generated**: 2026-01-19
 
 ### P3: Deep review analytic-idealism.md for currency and cross-links
@@ -63,6 +69,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review animal-consciousness.md considering minimal-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/minimal-consciousness.md covers model organisms (C. elegans, Hydra, slime molds), the UAL framework, and the distribution problem. The topics/animal-consciousness.md page is the main entry point for consciousness across species and should integrate these insights—particularly the minimal neural requirements evidence and the UAL criterion for consciousness attribution.
+- **Result**: Added minimal-consciousness.md to concepts frontmatter at top position. Added new "Minimal Neural Requirements" section after Scientific Consensus covering C. elegans (302 neurons, fails trace conditioning), Hydra (decentralized nerve net), slime molds (cognition without neurons), and the UAL framework as empirical criterion. Added minimal-consciousness.md at top of Further Reading with description.
+- **Output**: Updated `topics/animal-consciousness.md`
+
+### ✓ 2026-01-19: Write concept page on cognitive science of dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md. Addresses whether dualism is cognitively natural vs learned—Bloom's "natural-born dualists" vs Barrett's cross-cultural findings showing "intuitive materialism." Key insight: cognitive naturalness doesn't determine metaphysical truth. Directly referenced in tenets.md as support for Occam's Razor Has Limits tenet.
+- **Result**: Task already completed in previous session—concepts/intuitive-dualism.md comprehensively covers all research findings: Bloom's natural-born dualists thesis, Barrett et al.'s cross-cultural challenge showing intuitive materialism, Barlev & Shtulman's learning hypothesis, Bering's simulation constraints, Berent's LLM evidence. Includes full implications for philosophy section.
+- **Output**: Already exists: `concepts/intuitive-dualism.md`
+
+### ✓ 2026-01-19: Cross-review prebiotic-collapse.md with evolution-of-consciousness timing question
+- **Type**: cross-review
+- **Notes**: New article concepts/evolution-of-consciousness.md addresses when consciousness emerged phylogenetically. The concepts/prebiotic-collapse.md page addresses quantum collapse before observers existed. These are related but distinct problems—ensure proper cross-linking and distinguish the cosmological vs biological timeline questions.
+- **Result**: Added evolution-of-consciousness.md to concepts frontmatter at top position. Added new "Two Distinct Timeline Questions" section after the introduction, clarifying the difference between cosmological timeline (prebiotic collapse) and phylogenetic timeline (evolution of consciousness). Added evolution-of-consciousness.md to Further Reading with description.
+- **Output**: Updated `concepts/prebiotic-collapse.md`
 
 ### ✓ 2026-01-19: Cross-review panpsychism.md with evolution-of-consciousness framework
 - **Type**: cross-review
