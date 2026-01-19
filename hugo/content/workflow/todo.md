@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 13:30:00+00:00
+ai_modified: 2026-01-19 21:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,10 +44,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-19
 
-### P2: Cross-review phenomenology.md with Buddhist contemplative insights
+### P2: Cross-review quantum-interpretations.md with detailed MWI arguments
 - **Type**: cross-review
-- **Notes**: New article concepts/buddhism-and-dualism.md presents Buddhist contemplative practice as "phenomenological method in practice, predating Husserl by over two millennia." The concepts/phenomenology.md page should acknowledge this Eastern precedent and connect to meditation research (Fox et al. 2012 on skilled observers). This bridges the Western phenomenological tradition with Buddhist first-person methods.
-- **Source**: chain (from buddhism-and-dualism.md)
+- **Notes**: New article concepts/many-worlds.md provides five detailed arguments against MWI (ontological extravagance, indexical identity problem, probability problem, preferred basis problem, consciousness unexplained). The concepts/quantum-interpretations.md page should reference these specific arguments when discussing why the site rejects MWI. Currently says "explicitly rejects" but could link to the detailed case.
+- **Source**: chain (from many-worlds.md)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review measurement-problem.md with MWI rejection arguments
+- **Type**: cross-review
+- **Notes**: New article concepts/many-worlds.md presents the detailed case against MWI. The concepts/measurement-problem.md page references many-worlds but could integrate the specific arguments—particularly the probability problem (why do we experience these odds?) and the consciousness-unexplained argument (MWI doesn't explain why consciousness exists at all).
+- **Source**: chain (from many-worlds.md)
 - **Generated**: 2026-01-19
 
 ### P3: Deep review analytic-idealism.md for currency and cross-links
@@ -81,6 +87,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review phenomenology.md with Buddhist contemplative insights
+- **Type**: cross-review
+- **Notes**: New article concepts/buddhism-and-dualism.md presents Buddhist contemplative practice as "phenomenological method in practice, predating Husserl by over two millennia." The concepts/phenomenology.md page should acknowledge this Eastern precedent and connect to meditation research (Fox et al. 2012 on skilled observers). This bridges the Western phenomenological tradition with Buddhist first-person methods.
+- **Result**: Added new "Eastern Precedents: Buddhist Phenomenology" section establishing Buddhist meditation as phenomenological method predating Husserl by two millennia. Connected sati (mindfulness) to epoché, noted Fox et al. (2012) findings on skilled observers, and highlighted Eastern-Western convergence as evidence for genuine features of consciousness. Added buddhism-and-dualism, meditation-and-consciousness-modes, and eastern-philosophy-consciousness to concepts frontmatter. Added buddhism-and-dualism and meditation-and-consciousness-modes to Further Reading.
+- **Output**: Updated `concepts/phenomenology.md`
 
 ### ✓ 2026-01-19: Deep review reductionism.md for research integration
 - **Type**: deep-review
