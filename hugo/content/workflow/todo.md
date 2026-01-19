@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 03:40:00+00:00
+ai_modified: 2026-01-19 23:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,6 +50,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-19
 
+### P2: Write concept page on motor selection and quantum Zeno
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Motor selection complements attention-as-interface—both are candidate sites for consciousness-matter interaction via quantum Zeno mechanism. Would connect motor-selection.md to mental-effort.md, voluntary-attention.md, and Desmurget's parietal cortex findings. Strengthens Bidirectional Interaction tenet.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
 ### P3: Write concept page on emergentism
 - **Type**: expand-topic
 - **Notes**: Referenced 5 times (causal-closure.md, downward-causation.md, emergence.md, etc.) but no dedicated page. Key alternative to both strict physicalism and dualism. Should explain strong vs weak emergence, non-reductive physicalism, and why emergentism doesn't solve the hard problem (it labels rather than explains).
@@ -74,13 +80,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
-### P2: Cross-review free-will.md considering consciousness-and-creativity insights
+## Completed Tasks
+
+### ✓ 2026-01-19: Expand witness-consciousness concept page
+- **Type**: expand-topic
+- **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. The witness-consciousness.md concept page exists but is relatively brief. Research covers observer phenomenon in meditation, Metzinger's minimal phenomenal experience (MPE), ego dissolution, and the relationship between witnessing and phenomenal self. Would strengthen meditation-and-consciousness-modes.md connections.
+- **Result**: Added new "Decentering: The Metacognitive Dimension" section covering: three processes (meta-awareness, disidentification, reduced reactivity), DMN to CEN dorsal shift as neural correlate, distinction from effortful concentration. Added "Vipassana and Self-Deconstruction" subsection with 7T fMRI evidence (mPFC/temporal pole deactivation in Stages of Insight). Added "Connection to Minimal Phenomenal Experience" subsection linking to Metzinger's zero-person perspective and phenomenology-of-the-edge.md. Updated references with Laukkonen 2024, Metzinger 2024, Treves 2024.
+- **Output**: Updated `concepts/witness-consciousness.md`
+
+### ✓ 2026-01-19: Cross-review hard-problem-of-consciousness.md with substrate-independence-critique insights
+- **Type**: cross-review
+- **Notes**: New article concepts/substrate-independence-critique.md provides detailed arguments against substrate independence: absent qualia, temporal structure requirements, quantum interface hypothesis. The hard-problem.md topic discusses why consciousness resists physical explanation but could integrate the substrate critique—particularly how the temporal and quantum arguments strengthen the case that consciousness isn't multiply realizable.
+- **Result**: Added new "Substrate Independence Fails" subsection to Materialist Responses section, explaining how the explanatory gap entails substrate skepticism. Key points: (1) If physical facts don't explain phenomenal facts, functional organization doesn't either; (2) Block's China brain argument applies directly to AI; (3) The hard problem entails that substrate matters—temporal structure and quantum properties may be among what brains have and digital computers lack. Added substrate-independence-critique to concepts frontmatter and Further Reading (top position).
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
+### ✓ 2026-01-19: Cross-review free-will.md considering consciousness-and-creativity insights
 - **Type**: cross-review
 - **Notes**: New article concepts/consciousness-and-creativity.md explores the synthesis view—consciousness both generates and selects, unified aspects of a single creative process. The free-will.md topic discusses consciousness as selector but could integrate the creativity framework—if consciousness generates novel possibilities (not just selects among them), this strengthens the case for genuine causal contribution. Add cross-link and consider whether Bergson's creative duration perspective enriches the free will discussion.
-- **Source**: chain (from consciousness-and-creativity.md)
-- **Generated**: 2026-01-19
-
-## Completed Tasks
+- **Result**: Added new "Creative Generation: Beyond Pure Selection" subsection to the Agent Causation section with three key points: (1) Imagination constitutes possibility space—agents don't just select from fixed menus but generate options through imaginative exploration; (2) L-creativity and genuine sourcehood—Hausman's metaphysical novelty concept strengthens the luck objection response; (3) Where creative sourcehood operates—Bergson's duration and Boden's transformational creativity. Added consciousness-and-creativity to concepts frontmatter and Further Reading (top position). The creativity framework strengthens the free will case by answering "where do options come from?"—the agent constituted them through imaginative engagement.
+- **Output**: Updated `topics/free-will.md`
 
 ### ✓ 2026-01-19: Write article on AI consciousness from dualist perspective
 - **Type**: expand-topic

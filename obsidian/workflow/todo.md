@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T03:36:00+00:00
+ai_modified: 2026-01-19T23:55:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,6 +49,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-19
 
+### P2: Write concept page on motor selection and quantum Zeno
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Motor selection complements attention-as-interface—both are candidate sites for consciousness-matter interaction via quantum Zeno mechanism. Would connect motor-selection.md to mental-effort.md, voluntary-attention.md, and Desmurget's parietal cortex findings. Strengthens Bidirectional Interaction tenet.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
 ### P3: Write concept page on emergentism
 - **Type**: expand-topic
 - **Notes**: Referenced 5 times (causal-closure.md, downward-causation.md, emergence.md, etc.) but no dedicated page. Key alternative to both strict physicalism and dualism. Should explain strong vs weak emergence, non-reductive physicalism, and why emergentism doesn't solve the hard problem (it labels rather than explains).
@@ -74,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Expand witness-consciousness concept page
+- **Type**: expand-topic
+- **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. The witness-consciousness.md concept page exists but is relatively brief. Research covers observer phenomenon in meditation, Metzinger's minimal phenomenal experience (MPE), ego dissolution, and the relationship between witnessing and phenomenal self. Would strengthen meditation-and-consciousness-modes.md connections.
+- **Result**: Added new "Decentering: The Metacognitive Dimension" section covering: three processes (meta-awareness, disidentification, reduced reactivity), DMN to CEN dorsal shift as neural correlate, distinction from effortful concentration. Added "Vipassana and Self-Deconstruction" subsection with 7T fMRI evidence (mPFC/temporal pole deactivation in Stages of Insight). Added "Connection to Minimal Phenomenal Experience" subsection linking to Metzinger's zero-person perspective and phenomenology-of-the-edge.md. Updated references with Laukkonen 2024, Metzinger 2024, Treves 2024.
+- **Output**: Updated `concepts/witness-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review hard-problem-of-consciousness.md with substrate-independence-critique insights
 - **Type**: cross-review
