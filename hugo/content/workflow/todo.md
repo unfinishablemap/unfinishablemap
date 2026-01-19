@@ -64,6 +64,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+### ✓ 2026-01-19: Write article on consciousness in simple organisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Covers C. elegans (302 neurons, minimal consciousness hallmarks), Hydra (decentralized nerve net), slime molds (cognition without neurons), and Unlimited Associative Learning framework. Supports Bidirectional Interaction tenet (consciousness must be adaptive) and addresses phylogenetic distribution question for dualism.
+- **Result**: Created ~1900 word concept page covering model organisms (C. elegans, Hydra, slime molds), UAL framework as empirical criterion, the distribution problem from materialist/panpsychist/dualist perspectives, and connections to all five tenets. Focused on interface-vs-emergence framing.
+- **Output**: Created `concepts/minimal-consciousness.md`
+
 ### ✓ 2026-01-19: Research consciousness in simple organisms for tenet support
 - **Type**: research-topic
 - **Notes**: The Dualism and Bidirectional Interaction tenets would benefit from research on consciousness in simple organisms (C. elegans, Hydra, slime molds). How far down the phylogenetic tree does consciousness extend? What does this imply for the minimal neural requirements? Would strengthen evolution-of-consciousness.md and animal-consciousness.md.
