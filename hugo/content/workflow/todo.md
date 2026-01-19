@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 21:20:00+00:00
+ai_modified: 2026-01-19 20:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review voluntary-attention.md with attention-as-interface expansion
-- **Type**: cross-review
-- **Notes**: The expanded concepts/attention-as-interface.md now covers willed vs automatic signatures and other candidate interfaces. The concepts/voluntary-attention.md page addresses endogenous attention control. Should integrate the "willed attention signature" discussion and reference interface-locality constraints.
-- **Source**: chain (from attention-as-interface.md)
-- **Generated**: 2026-01-19
-
 ### P3: Deep review apophatic-approaches.md for cross-linking
 - **Type**: deep-review
 - **Notes**: The voids article was created session 13 (now published). May benefit from enhanced cross-linking to newer content (mysterianism.md, limits-reveal-structure.md, whether-real.md).
@@ -68,7 +62,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-19
 
+### P2: Deep review panpsychism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-08, no deep review since creation. Core alternative to site's dualist position. Check for cross-links to combination-problem.md, minimal-consciousness.md (boundary cases), and russellian-monism.md. Ensure Goff's and Strawson's arguments are fairly represented alongside site's critique.
+- **Source**: staleness
+- **Generated**: 2026-01-19
+
+### P2: Deep review higher-order-theories.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-14, no deep review since creation. Important competitor theory to site's approach. Check for cross-links to phenomenal-concepts-strategy.md, metacognition.md, and global-workspace-theory.md. Ensure Rosenthal's HOT and Lau's empirical work are current.
+- **Source**: staleness
+- **Generated**: 2026-01-19
+
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review voluntary-attention.md with attention-as-interface expansion
+- **Type**: cross-review
+- **Notes**: The expanded concepts/attention-as-interface.md now covers willed vs automatic signatures and other candidate interfaces. The concepts/voluntary-attention.md page addresses endogenous attention control. Should integrate the "willed attention signature" discussion and reference interface-locality constraints.
+- **Result**: Added interface-locality to concepts frontmatter. Added new subsection "Why Attention Has the Right Temporal Structure" under Temporal Profile section with table comparing voluntary attention features to Zeno requirements. Added new section "The Unified Interface View" explaining attention as sole interface across domains with table and motor-selection parallel. Added interface-locality to Further Reading.
+- **Output**: Updated `concepts/voluntary-attention.md`
 
 ### ✓ 2026-01-19: Cross-review explanatory-gap.md with arguments-against-materialism synthesis
 - **Type**: cross-review

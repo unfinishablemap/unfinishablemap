@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-19 00:30:00+00:00
+ai_modified: 2026-01-19 20:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[attention]]'
 - '[[attention-as-interface]]'
+- '[[interface-locality]]'
 - '[[mental-effort]]'
 - '[[agent-causation]]'
 - '[[motor-selection]]'
@@ -151,6 +152,19 @@ If the [quantum Zeno effect](/concepts/mental-effort/) operates through attentio
 
 Voluntary attention can be sustained at will—maintained as long as needed. This sustained engagement is precisely what the Zeno mechanism requires: repeated observation holding desired neural patterns stable against decoherence.
 
+### Why Attention Has the Right Temporal Structure
+
+The [attention-as-interface hypothesis](/concepts/attention-as-interface/#why-attention-specifically) argues that attention is uniquely suited for this role because of its temporal properties:
+
+| Feature | Voluntary Attention | Zeno Requirement |
+|---------|---------------------|------------------|
+| Observation rate | Continuous while sustained | Rapid repeated observation |
+| Deployment time | ~300ms | Time to engage selection |
+| Maintenance | Can be held indefinitely | Sustained freezing |
+| Release | Can be withdrawn at will | Cessation of freezing |
+
+Perception is receptive—it receives what's present—rather than actively maintaining states. Memory retrieval is discrete, not continuous. Attention is the psychological process that *holds* content active over time, which is precisely what Zeno freezing requires. This temporal fit is part of why the site's framework identifies attention as the privileged interface, not merely one interface among many.
+
 ## Relation to Site Perspective
 
 Voluntary attention connects directly to the site's foundational commitments:
@@ -175,6 +189,22 @@ If the Stapp mechanism is correct, voluntary attention is *how* consciousness op
 
 The selection model presupposes real collapse. Voluntary attention selects among possibilities, actualizing one outcome rather than branching into all. If [many-worlds](/tenets/#no-many-worlds) were true, there would be nothing to select—every possibility would occur in some branch.
 
+## The Unified Interface View
+
+The [attention-as-interface hypothesis](/concepts/attention-as-interface/#the-unified-interface-view) argues that attention is the *sole* interface between consciousness and brain—not one interface among several. What seem like alternative interfaces (emotion, volition, imagination, memory) actually operate *through* attention:
+
+| Domain | What Attention Does | Interface Function |
+|--------|---------------------|-------------------|
+| Perception | Selects which sensory content enters full awareness | Perceptual selection |
+| Motor | Selects which action patterns actualize | Motor selection |
+| Memory | Selects which retrieval cues activate | Memory selection |
+| Imagination | Explores possibility space through attentional shifts | Creative selection |
+| Emotion | Biases attention toward valenced content | Valence-guided selection |
+
+Voluntary attention is central to this unified view because it represents the clearest case of consciousness selecting—the willed/instructed distinction marks exactly where consciousness adds something beyond neural computation. The neural signatures of willed attention (frontal theta, bidirectional coherence, additional frontal recruitment) identify the contribution consciousness makes when exercising this interface.
+
+The [motor-selection](/concepts/motor-selection/) research strengthens this view: willed movement shows the same neural signatures as willed attention, suggesting motor volition operates through the same interface rather than a separate channel. Consciousness selects motor patterns the same way it selects perceptual focus—through sustained attention-like observation holding the selected pattern stable.
+
 ## Summary
 
 Voluntary attention is distinct from both automatic attention capture and mere instruction-following. When you freely decide where to direct focus, neural mechanisms engage that don't engage when you follow cues: frontal theta oscillations, bidirectional frontoparietal coherence, additional frontal recruitment.
@@ -185,6 +215,7 @@ This neural distinctiveness matters philosophically. If consciousness contribute
 
 - [attention](/concepts/attention/) — General treatment of attention-consciousness relationship
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal bridge between consciousness and brain
+- [interface-locality](/concepts/interface-locality/) — Why voluntary attention is restricted to brain-based domains
 - [mental-effort](/concepts/mental-effort/) — Phenomenology of effort and the quantum Zeno mechanism
 - [motor-selection](/concepts/motor-selection/) — Parallel evidence from voluntary motor control
 - [agent-causation](/concepts/agent-causation/) — The philosophical framework for conscious initiation
