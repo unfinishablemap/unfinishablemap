@@ -3,11 +3,12 @@ title: "Neural Quantum Coherence"
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-18T20:50:00+00:00
+ai_modified: 2026-01-19T10:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
+  - "[[binding-problem]]"
   - "[[quantum-consciousness]]"
   - "[[decoherence]]"
   - "[[quantum-biology]]"
@@ -15,15 +16,16 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[quantum-superposition-brain-consciousness-2026-01-18]]"
+  - "[[neural-binding-quantum-entanglement-2026-01-19]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-19T10:06:00+00:00
 ---
 
-Can quantum superposition persist in neural tissue long enough to matter for consciousness? Recent experimental evidence (2024-2025) answers with qualified optimism: microtubule-stabilising drugs delay anaesthetic-induced unconsciousness, revised decoherence estimates extend coherence times by seven orders of magnitude beyond initial calculations, and three distinct protective mechanisms have been identified. The debate has shifted from "whether" to "how"—from categorical dismissal to empirical investigation.
+Can quantum superposition persist in neural tissue long enough to matter for consciousness? Recent experimental evidence (2024-2025) answers with qualified optimism: microtubule-stabilising drugs delay anaesthetic-induced unconsciousness, revised decoherence estimates extend coherence times by seven orders of magnitude beyond initial calculations, MRI studies detect entanglement signatures correlating with consciousness, and multiple protective mechanisms have been identified. The debate has shifted from "whether" to "how"—from categorical dismissal to empirical investigation. This matters for the [[binding-problem|binding problem]]: if quantum entanglement provides genuine physical holism—where the whole is irreducible to parts—it may explain how distributed neural processes combine into unified experience.
 
 ## The Challenge
 
@@ -134,6 +136,19 @@ Computer modelling found a specific signature: anaesthetics abolish a 613 THz os
 - These oscillations are specifically disrupted by anaesthetics
 - The disruption correlates with loss of consciousness
 
+### Brain Entanglement Signatures (Kerskens & Pérez, 2022-2023)
+
+Using a novel MRI protocol designed to detect quantum entanglement, researchers observed signals in conscious human subjects that:
+- Mimicked heartbeat-evoked potentials (a known conscious awareness signature)
+- Disappeared when subjects fell asleep
+- Correlated with short-term memory performance
+
+The putative spin-entanglement signal was only present during conscious awareness. While the interpretation remains debated (Warren 2023 questioned the methodology), no alternative classical account has been offered for the observed pattern. If confirmed by replication, this would be direct evidence of macroscopic quantum entanglement correlating with consciousness.
+
+### Twin Study Quantum Effects (2025)
+
+A study of 106 monozygotic twin pairs found that entanglement of qubits in stimulus configurations explained 13.5% of variance in implicit learning accuracy, with the Q coefficient showing up to 31.6% increase in variance across twin responses. This provides novel evidence that quantum entanglement may enhance conscious processing and facilitate learning.
+
 None of this proves that quantum effects cause consciousness, but it establishes that quantum effects exist where the theory predicts and correlate with consciousness as the theory requires.
 
 ## What Coherence Does Not Require
@@ -171,18 +186,22 @@ The evidence doesn't prove quantum consciousness. It removes the categorical obj
 
 ## Further Reading
 
+- [[binding-problem]] — How quantum entanglement may solve phenomenal unity
 - [[quantum-consciousness]] — Quantum consciousness mechanisms including Orch OR and quantum Zeno
 - [[decoherence]] — Why decoherence doesn't solve the measurement problem
 - [[quantum-biology]] — Biological systems exploiting quantum effects
 - [[measurement-problem]] — Why physics leaves outcomes undetermined
 - [[tenets]] — The site's foundational commitments
 - [[quantum-superposition-brain-consciousness-2026-01-18]] — Research notes on 2024-2025 findings
+- [[neural-binding-quantum-entanglement-2026-01-19]] — Research notes on binding and entanglement
 
 ## References
 
 - Fisher, M.P.A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 - Fröhlich, H. (1968). Long-range coherence and energy storage in biological systems. *International Journal of Quantum Chemistry*, 2(5), 641-649.
 - Hagan, S., Hameroff, S., & Tuszynski, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+- Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+- Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain functions". *Journal of Physics Communications*, 7, 048001.
 - Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
 - Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
