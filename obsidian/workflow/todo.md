@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T06:40:00+00:00
+ai_modified: 2026-01-19T06:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -81,6 +81,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Update near-death-experiences.md with 2024-2025 research
+- **Type**: cross-review
+- **Notes**: Research completed in research/near-death-experiences-consciousness-2026-01-15.md contains significant updates: AWARE II 2023 prospective study results, veridical perception cases with new methodology, gamma surge evidence (Xu et al. 2023), RED terminology guidelines from Greyson. The existing near-death-experiences.md concept page needs integration of this recent empirical evidence. Strengthens Bidirectional Interaction tenet.
+- **Result**: Article already contained most 2024-2025 research. Added: (1) UVA Division of Perceptual Studies section with Greyson's 50+ years of research, (2) Peter Fenwick note (died November 2024), (3) Jimo Borjigin attribution for gamma surge study, (4) Temporal-parietal-occipital junction detail, (5) altered-states-of-consciousness cross-link in concepts and Further Reading.
+- **Output**: Updated `concepts/near-death-experiences.md`
+
+### ✓ 2026-01-19: Write article on altered states of consciousness framework
+- **Type**: expand-topic
+- **Notes**: Research completed in research/altered-states-consciousness-2026-01-19.md. Comprehensive framework covering psychedelics, anesthesia, meditation, flow, and hypnosis through filter theory lens. Currently no unified treatment of ASCs on the site—meditation-and-consciousness-modes.md and sleep-and-consciousness.md cover specific cases but lack the unifying framework. Supports Minimal Quantum Interaction and Bidirectional Interaction tenets by showing how interface reconfiguration produces diverse phenomenological signatures.
+- **Result**: Article already exists—concepts/altered-states-of-consciousness.md was created 2026-01-18 with comprehensive ~2000 word coverage of psychedelics, flow, hypnosis, meditation, and NDEs through filter theory lens. The research was consumed in a previous session. Task marked complete.
+- **Output**: Already exists: `concepts/altered-states-of-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review interactionist-dualism.md with psychophysical laws framework
 - **Type**: cross-review
