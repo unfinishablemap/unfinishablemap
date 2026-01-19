@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-18 12:00:00+00:00
+ai_modified: 2026-01-20 05:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,6 +12,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[agent-causation]]'
 - '[[downward-causation]]'
+- '[[reductionism]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 draft: false
@@ -49,7 +50,7 @@ Jaegwon Kim's exclusion argument is the most influential contemporary formulatio
 3. **No systematic overdetermination**: Mental causes don't overdetermine effects alongside physical causes
 4. **Non-reductionism**: Mental properties are not identical to physical properties
 
-From these premises, Kim concludes that mental properties are causally excluded by their physical realizers. Either mental causation doesn't occur ([epiphenomenalism](/arguments/epiphenomenalism/)), or mental properties just *are* physical properties (reductionism).
+From these premises, Kim concludes that mental properties are causally excluded by their physical realizers. Either mental causation doesn't occur ([epiphenomenalism](/arguments/epiphenomenalism/)), or mental properties just *are* physical properties ([reductionism](/concepts/reductionism/)). See [reductionism](/concepts/reductionism/#kims-challenge) for the fuller argument that non-reductive views face a fundamental dilemma.
 
 The dilemma seems stark: deny that consciousness causes anything, or deny that consciousness is anything other than physics.
 
@@ -166,6 +167,7 @@ The site affirms mental causation because denying it undermines everything we th
 
 ## Further Reading
 
+- [reductionism](/concepts/reductionism/) — Why the reductionist alternative to mental causation fails; Kim's exclusion argument and responses
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The cumulative case against epiphenomenalism (five arguments)
 - [causal-closure](/concepts/causal-closure/) — The principle mental causation challenges
 - [downward-causation](/concepts/downward-causation/) — How higher-level properties influence lower-level processes

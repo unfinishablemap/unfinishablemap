@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T05:30:00+00:00
+ai_modified: 2026-01-20T06:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Research neural binding mechanisms for quantum entanglement hypothesis
+- **Type**: research-topic
+- **Notes**: The site posits quantum entanglement as a mechanism for phenomenal unity (phenomenal-unity.md, binding-problem.md). Research needed on: (1) Latest findings on neural binding (gamma oscillations, thalamocortical loops), (2) Whether quantum effects could explain binding better than classical mechanisms, (3) Experimental tests that could distinguish quantum from classical binding. Supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-20
 
 ### P2: Cross-review luck-objection.md with quantum indeterminacy systematization
 - **Type**: cross-review

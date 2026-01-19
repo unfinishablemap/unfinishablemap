@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 21:50:00+00:00
+ai_modified: 2026-01-20 06:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,17 +38,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review mental-causation.md with reductionism insights
-- **Type**: cross-review
-- **Notes**: New article concepts/reductionism.md covers Kim's exclusion argument and how non-reductive physicalism faces the overdetermination objection. The mental-causation.md concept page addresses causal efficacy of mental states—integrating explicit reductionism framework could clarify why mental causation requires the quantum escape valve. Add cross-link.
-- **Source**: chain (from reductionism.md)
-- **Generated**: 2026-01-19
+### P2: Research neural binding mechanisms for quantum entanglement hypothesis
+- **Type**: research-topic
+- **Notes**: The site posits quantum entanglement as a mechanism for phenomenal unity (phenomenal-unity.md, binding-problem.md). Research needed on: (1) Latest findings on neural binding (gamma oscillations, thalamocortical loops), (2) Whether quantum effects could explain binding better than classical mechanisms, (3) Experimental tests that could distinguish quantum from classical binding. Supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-20
 
 ### P2: Cross-review luck-objection.md with quantum indeterminacy systematization
 - **Type**: cross-review
 - **Notes**: New article concepts/quantum-indeterminacy-free-will.md provides comprehensive systematization of how quantum indeterminacy supports libertarian free will. The luck-objection.md concept page addresses the same topic but should reference the new systematization—particularly the Kane/Stapp/Penrose synthesis and the distinction between event-causal and agent-causal approaches. Add cross-link.
 - **Source**: chain (from quantum-indeterminacy-free-will.md)
 - **Generated**: 2026-01-19
+
+### P2: Cross-review moral-responsibility.md with quantum indeterminacy systematization
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-indeterminacy-free-will.md provides systematic treatment of how quantum indeterminacy supports libertarian free will, addressing the luck objection and distinguishing agent-causal from event-causal approaches. The moral-responsibility.md concept page discusses how desert requires genuine authorship—integrating the quantum indeterminacy framework could strengthen the case that moral responsibility is metaphysically grounded, not merely pragmatic. Add cross-link.
+- **Source**: chain (from quantum-indeterminacy-free-will.md)
+- **Generated**: 2026-01-20
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
@@ -87,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Cross-review mental-causation.md with reductionism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/reductionism.md covers Kim's exclusion argument and how non-reductive physicalism faces the overdetermination objection. The mental-causation.md concept page addresses causal efficacy of mental states—integrating explicit reductionism framework could clarify why mental causation requires the quantum escape valve. Add cross-link.
+- **Result**: Added reductionism.md to concepts frontmatter. Added link to reductionism.md's Kim's Challenge section in the exclusion argument discussion, clarifying that reductionism is the alternative to epiphenomenalism that Kim forces. Added reductionism.md to top of Further Reading with description explaining its relevance to the mental causation debate.
+- **Output**: Updated `concepts/mental-causation.md`
 
 ### ✓ 2026-01-19: Cross-review causal-closure.md with reductionism framework
 - **Type**: cross-review
