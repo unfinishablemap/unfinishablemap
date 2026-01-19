@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review agent-causation.md with quantum indeterminacy systematization
-- **Type**: cross-review
-- **Notes**: New article concepts/quantum-indeterminacy-free-will.md systematizes how agent-causal metaphysics integrates with quantum mechanics—particularly the Kane/O'Connor/Lowe convergence and the quantum Zeno mechanism. The agent-causation.md concept page should reference this synthesis and potentially incorporate the "where explanation terminates" argument for agent causation as primitive. Add cross-link.
-- **Source**: chain (from quantum-indeterminacy-free-will.md)
-- **Generated**: 2026-01-19
-
 ### P2: Write concept page on psychophysical laws (Chalmers framework)
 - **Type**: expand-topic
 - **Notes**: Research completed in research/chalmers-psychophysical-laws-2026-01-17.md. Chalmers' framework for fundamental psychophysical laws is referenced in psychophysical-coupling-law.md but deserves fuller treatment. Should explain naturalistic dualism, the difference between supervenience laws and causal laws, and how the site's framework differs (interactionist vs Chalmers' epiphenomenalist tendency). Supports understanding of the theoretical landscape around the site's position.
@@ -92,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review agent-causation.md with quantum indeterminacy systematization
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-indeterminacy-free-will.md systematizes how agent-causal metaphysics integrates with quantum mechanics—particularly the Kane/O'Connor/Lowe convergence and the quantum Zeno mechanism. The agent-causation.md concept page should reference this synthesis and potentially incorporate the "where explanation terminates" argument for agent causation as primitive. Add cross-link.
+- **Result**: Added quantum-indeterminacy-free-will.md to concepts frontmatter. Added paragraph on Kane's 2024 convergence with agent-causal positions to the "Why This Matters" section. Added new "Where Explanation Terminates" subsection explaining how agent causation as primitive terminus is legitimate, linking to the systematic treatment. Added quantum-indeterminacy-free-will.md at top of Further Reading.
+- **Output**: Updated `concepts/agent-causation.md`
 
 ### ✓ 2026-01-19: Cross-review binding-problem.md and phenomenal-unity.md with 2025 quantum entanglement evidence
 - **Type**: cross-review

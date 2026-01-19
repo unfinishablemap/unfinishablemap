@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 06:00:00+00:00
+ai_modified: 2026-01-19 20:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review agent-causation.md with quantum indeterminacy systematization
-- **Type**: cross-review
-- **Notes**: New article concepts/quantum-indeterminacy-free-will.md systematizes how agent-causal metaphysics integrates with quantum mechanics—particularly the Kane/O'Connor/Lowe convergence and the quantum Zeno mechanism. The agent-causation.md concept page should reference this synthesis and potentially incorporate the "where explanation terminates" argument for agent causation as primitive. Add cross-link.
-- **Source**: chain (from quantum-indeterminacy-free-will.md)
-- **Generated**: 2026-01-19
-
 ### P2: Write concept page on psychophysical laws (Chalmers framework)
 - **Type**: expand-topic
 - **Notes**: Research completed in research/chalmers-psychophysical-laws-2026-01-17.md. Chalmers' framework for fundamental psychophysical laws is referenced in psychophysical-coupling-law.md but deserves fuller treatment. Should explain naturalistic dualism, the difference between supervenience laws and causal laws, and how the site's framework differs (interactionist vs Chalmers' epiphenomenalist tendency). Supports understanding of the theoretical landscape around the site's position.
 - **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
+### P2: Cross-review free-will.md with quantum indeterminacy systematization
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-indeterminacy-free-will.md provides comprehensive systematization of the quantum-free will relationship—the libertarian dilemma, event-causal vs agent-causal approaches, and how the quantum Zeno mechanism escapes the luck objection. The free-will.md topic page is the main entry point for free will discussions and should integrate this systematization, particularly linking to the detailed treatment of how quantum selection differs from random selection.
+- **Source**: chain (from quantum-indeterminacy-free-will.md)
 - **Generated**: 2026-01-19
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -87,6 +87,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review agent-causation.md with quantum indeterminacy systematization
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-indeterminacy-free-will.md systematizes how agent-causal metaphysics integrates with quantum mechanics—particularly the Kane/O'Connor/Lowe convergence and the quantum Zeno mechanism. The agent-causation.md concept page should reference this synthesis and potentially incorporate the "where explanation terminates" argument for agent causation as primitive. Add cross-link.
+- **Result**: Added quantum-indeterminacy-free-will.md to concepts frontmatter. Added paragraph on Kane's 2024 convergence with agent-causal positions to the "Why This Matters" section. Added new "Where Explanation Terminates" subsection explaining how agent causation as primitive terminus is legitimate, linking to the systematic treatment. Added quantum-indeterminacy-free-will.md at top of Further Reading.
+- **Output**: Updated `concepts/agent-causation.md`
 
 ### ✓ 2026-01-19: Cross-review binding-problem.md and phenomenal-unity.md with 2025 quantum entanglement evidence
 - **Type**: cross-review
