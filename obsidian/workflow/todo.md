@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T20:55:00+00:00
+ai_modified: 2026-01-19T21:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review combination-problem.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-15, no deep review since creation. Key critique of panpsychism relevant to site's position. Check for cross-links to minimal-consciousness.md (empirical cases), emergence.md, and phenomenal-unity.md. Ensure Chalmers' and Goff's responses are well-represented.
-- **Source**: staleness
-- **Generated**: 2026-01-19
-
 ### P2: Deep review panpsychism.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-08, no deep review since creation. Core alternative to site's dualist position. Check for cross-links to combination-problem.md, minimal-consciousness.md (boundary cases), and russellian-monism.md. Ensure Goff's and Strawson's arguments are fairly represented alongside site's critique.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Deep review combination-problem.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-15, no deep review since creation. Key critique of panpsychism relevant to site's position. Check for cross-links to minimal-consciousness.md (empirical cases), emergence.md, and phenomenal-unity.md. Ensure Chalmers' and Goff's responses are well-represented.
+- **Result**: Added Buddhist/process philosophy perspective on subject-summing dissolution. Added new "Empirical Distinguishability" subsection with three lines of testable evidence. Added phenomenal-unity, binding-problem, minimal-consciousness cross-links in frontmatter and Further Reading. Added Kerskens & Pérez 2022, Wiest et al. 2024 references.
+- **Output**: Updated `concepts/combination-problem.md`, created `reviews/deep-review-2026-01-19-combination-problem.md`
 
 ### ✓ 2026-01-19: Cross-review voluntary-attention.md with attention-as-interface expansion
 - **Type**: cross-review
