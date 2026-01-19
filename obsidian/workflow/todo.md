@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T14:00:00+00:00
+ai_modified: 2026-01-19T03:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-19
 
-### P2: Write article on AI consciousness from dualist perspective
-- **Type**: expand-topic
-- **Notes**: Research completed in research/ai-machine-consciousness-2026-01-08.md. Covers Chinese Room argument, substrate independence debate, computational theory of mind. The ai-consciousness.md topic exists but could benefit from a dedicated concept page exploring the dualist case against machine consciousness—why functional equivalence may not suffice, what's missing from digital systems (temporal structure, quantum interface, genuine experience).
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
-
 ### P3: Write concept page on emergentism
 - **Type**: expand-topic
 - **Notes**: Referenced 5 times (causal-closure.md, downward-causation.md, emergence.md, etc.) but no dedicated page. Key alternative to both strict physicalism and dualism. Should explain strong vs weak emergence, non-reductive physicalism, and why emergentism doesn't solve the hard problem (it labels rather than explains).
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Write article on AI consciousness from dualist perspective
+- **Type**: expand-topic
+- **Notes**: Research completed in research/ai-machine-consciousness-2026-01-08.md. Covers Chinese Room argument, substrate independence debate, computational theory of mind. The ai-consciousness.md topic exists but could benefit from a dedicated concept page exploring the dualist case against machine consciousness—why functional equivalence may not suffice, what's missing from digital systems (temporal structure, quantum interface, genuine experience).
+- **Result**: Created ~2000 word concept page `substrate-independence-critique.md` presenting the dualist case against substrate independence. Covers: functionalist promise and its failure, absent qualia and explanatory gap, temporal structure requirements, quantum interface hypothesis, and the bidirectional test. Updated ai-consciousness.md and functionalism.md with cross-references.
+- **Output**: Created `concepts/substrate-independence-critique.md`, updated `topics/ai-consciousness.md`, `concepts/functionalism.md`
 
 ### ✓ 2026-01-19: Cross-review agent-causation.md with consciousness-and-creativity insights
 - **Type**: cross-review

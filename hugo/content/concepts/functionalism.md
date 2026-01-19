@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-18 22:52:00+00:00
+ai_modified: 2026-01-19 03:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[predictive-processing]]'
 - '[[global-workspace-theory]]'
 - '[[llm-consciousness]]'
+- '[[substrate-independence-critique]]'
 created: 2026-01-09
 date: &id001 2026-01-09
 draft: false
@@ -152,6 +153,7 @@ The site's response: the substrate matters because consciousness involves someth
 ## Further Reading
 
 - [functionalism](/arguments/functionalism/) — Five formal arguments against functionalism
+- [substrate-independence-critique](/concepts/substrate-independence-critique/) — Why the substrate matters for consciousness
 - [ai-consciousness](/topics/ai-consciousness/) — The question of machine minds
 - [qualia](/concepts/qualia/) — What functionalism may leave out
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail

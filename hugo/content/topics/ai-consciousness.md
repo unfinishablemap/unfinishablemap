@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-18 22:45:00+00:00
+ai_modified: 2026-01-19 03:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,6 +19,7 @@ concepts:
 - '[[metacognition]]'
 - '[[higher-order-theories]]'
 - '[[llm-consciousness]]'
+- '[[substrate-independence-critique]]'
 created: 2026-01-08
 date: &id001 2026-01-08
 draft: false
@@ -306,6 +307,7 @@ This may seem dismissive of genuine achievement. AI systems do remarkable things
 
 ## Further Reading
 
+- [substrate-independence-critique](/concepts/substrate-independence-critique/) — Why the substrate matters for consciousness
 - [llm-consciousness](/concepts/llm-consciousness/) — Focused analysis of large language model consciousness
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why function doesn't explain feeling
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic challenge that AI consciousness intensifies
