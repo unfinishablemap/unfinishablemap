@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-19T20:13:53+00:00
+ai_modified: 2026-01-19T20:32:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,14 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-19
+
+### 20:32 - cross-review (haecceity.md with many-worlds arguments)
+- **Status**: Success
+- **File**: obsidian/concepts/haecceity.md
+- **Changes**: Enhanced haecceity.md with stronger cross-links to many-worlds.md. Added reference to five MWI arguments and self-locating uncertainty debate (Deutsch, Carroll response and counter-response) in "The Site's Indexical Emphasis" section. Enhanced "MWI and the Probability Problem" section with anchor link to specific argument and clarification that indexical identity and probability problems both hinge on haecceity.
+- **Session**: 331
+
+---
 
 ### 20:13 - deep-review (collapse-and-time.md)
 - **Status**: Success

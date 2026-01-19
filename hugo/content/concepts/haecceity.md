@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-16 18:00:00+00:00
+ai_modified: 2026-01-19 20:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -75,6 +75,8 @@ This presupposes haecceitism. If anti-haecceitism were true, there would be no f
 
 But the question doesn't seem confused. You will have one sequence of experiences, not two. The felt reality of being *this* observer in *this* branch suggests a haecceitistic fact—that indexical identity is not reducible to qualitative continuity.
 
+The [dedicated MWI critique](/arguments/many-worlds/) develops five arguments against many-worlds, but the indexical identity problem is the one that most directly invokes haecceity. MWI defenders (Deutsch, Carroll) respond via "self-locating uncertainty"—treating pre-measurement uncertainty about which branch you'll find yourself in as analogous to uncertainty about which room you woke up in. But self-locating uncertainty normally involves a single world with indexically uncertain facts. On MWI, there's no fact to be uncertain about—both outcomes are equally real, and "you" end up in both. The uncertainty framework seems inapplicable when all outcomes occur.
+
 ## Self-Locating Beliefs
 
 Epistemologists discuss "self-locating beliefs"—beliefs about where you are in the world, not just what the world is like. These involve essential indexicals.
@@ -117,13 +119,15 @@ This may seem to explain little. But the criticism applies to any theory of indi
 
 ## MWI and the Probability Problem
 
-The [probability problem](/arguments/many-worlds/) for many-worlds connects to haecceity. In many-worlds, after a spin measurement, there are branches with spin-up and branches with spin-down. All exist equally. Why do we observe Born-rule statistics?
+The [probability problem](/arguments/many-worlds/#3-the-probability-problem) for many-worlds connects to haecceity. In many-worlds, after a spin measurement, there are branches with spin-up and branches with spin-down. All exist equally. Why do we observe Born-rule statistics?
 
 Proposed solutions invoke self-locating uncertainty: before looking at the result, you're uncertain which branch you're in. Decision theory allegedly recovers the Born rule from rational constraints on such uncertainty.
 
 But this presupposes that there's a fact about which branch you're in—a haecceitistic fact. If personal identity is purely qualitative (anti-haecceitism), all branches equally contain your continuers. There's no "you" to be uncertain about which branch contains you. The self-locating uncertainty is ill-defined.
 
 Many-worlds theorists who embrace anti-haecceitism must find another route to the Born rule. Many who accept self-locating uncertainty are implicitly haecceitists—accepting that indexical facts are real even when qualitative facts are symmetric.
+
+The broader [MWI critique](/arguments/many-worlds/) identifies four additional problems beyond probability—ontological extravagance, the preferred basis problem, and consciousness remaining unexplained. But the indexical identity problem and the probability problem both hinge on haecceity. If "you" can genuinely end up in multiple branches with equal claim to being you, the very concept of betting on outcomes becomes incoherent. What would you be betting *about*?
 
 ## Objections to Haecceity
 

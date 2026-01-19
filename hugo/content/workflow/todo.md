@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 20:15:00+00:00
+ai_modified: 2026-01-19 20:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review collapse-and-time.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated with 100% AI contribution, never deep-reviewed. Supports time-collapse-and-agency topic and Bidirectional Interaction tenet. Check for cross-links to retrocausality.md, specious-present.md, and newer quantum-consciousness.md content. Key piece for understanding consciousness's role in temporal structure.
-- **Source**: staleness
+### P2: Cross-review mental-effort.md with attention-as-interface theory
+- **Type**: cross-review
+- **Notes**: The expanded concepts/attention-as-interface.md now includes detailed argument for why attention is the privileged interface (temporal structure, domain-generality, phenomenological location of effort). The concepts/mental-effort.md page discusses effort as key indicator of conscious influence. Should reference how attention-as-interface grounds mental effort's causal role via quantum Zeno mechanism.
+- **Source**: chain (from attention-as-interface.md)
 - **Generated**: 2026-01-19
 
-### P2: Cross-review haecceity.md with many-worlds indexical arguments
+### P2: Cross-review voluntary-attention.md with attention-as-interface expansion
 - **Type**: cross-review
-- **Notes**: New article concepts/many-worlds.md presents indexical identity problem as key argument against MWI. The concepts/haecceity.md page discusses thisness and indexical identity in personal identity context. Should reference how MWI's branching undermines haecceity—why *this* branch rather than another? Cross-link opportunity.
-- **Source**: chain (from many-worlds.md)
+- **Notes**: The expanded concepts/attention-as-interface.md now covers willed vs automatic signatures and other candidate interfaces. The concepts/voluntary-attention.md page addresses endogenous attention control. Should integrate the "willed attention signature" discussion and reference interface-locality constraints.
+- **Source**: chain (from attention-as-interface.md)
 - **Generated**: 2026-01-19
 
 ### P3: Deep review apophatic-approaches.md for cross-linking
@@ -75,6 +75,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review haecceity.md with many-worlds indexical arguments
+- **Type**: cross-review
+- **Notes**: New article concepts/many-worlds.md presents indexical identity problem as key argument against MWI. The concepts/haecceity.md page discusses thisness and indexical identity in personal identity context. Should reference how MWI's branching undermines haecceity—why *this* branch rather than another? Cross-link opportunity.
+- **Result**: Enhanced haecceity.md with stronger cross-links to many-worlds.md. Added reference to five MWI arguments and self-locating uncertainty debate in "The Site's Indexical Emphasis" section. Enhanced "MWI and the Probability Problem" section with anchor link to specific argument and clarification of how indexical identity and probability problems both hinge on haecceity.
+- **Output**: Updated `concepts/haecceity.md`
+
+### ✓ 2026-01-19: Deep review collapse-and-time.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated with 100% AI contribution, never deep-reviewed. Supports time-collapse-and-agency topic and Bidirectional Interaction tenet. Check for cross-links to retrocausality.md, specious-present.md, and newer quantum-consciousness.md content. Key piece for understanding consciousness's role in temporal structure.
+- **Result**: Added agent identity across collapse analysis. Expanded MWI section with substantive counter-arguments (Deutsch/Carroll/Wallace positions engaged). Added falsifiability section with testable predictions. Refined Müller et al. citation for accuracy. Cross-linked to specious-present, duration, agent-causation, time-collapse-and-agency.
+- **Output**: Updated `concepts/collapse-and-time.md`, created `reviews/deep-review-2026-01-19-collapse-and-time.md`
 
 ### ✓ 2026-01-19: Expand attention-as-interface into comprehensive theory
 - **Type**: expand-topic

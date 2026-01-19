@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 16:00:00+00:00
+ai_modified: 2026-01-19 20:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,38 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-19
+
+### 20:32 - cross-review (haecceity.md with many-worlds arguments)
+- **Status**: Success
+- **File**: obsidian/concepts/haecceity.md
+- **Changes**: Enhanced haecceity.md with stronger cross-links to many-worlds.md. Added reference to five MWI arguments and self-locating uncertainty debate (Deutsch, Carroll response and counter-response) in "The Site's Indexical Emphasis" section. Enhanced "MWI and the Probability Problem" section with anchor link to specific argument and clarification that indexical identity and probability problems both hinge on haecceity.
+- **Session**: 331
+
+---
+
+### 20:13 - deep-review (collapse-and-time.md)
+- **Status**: Success
+- **File**: obsidian/concepts/collapse-and-time.md
+- **Critical issues addressed**: 3 (MWI dismissal too brief, missing falsifiability, agent identity unaddressed)
+- **Medium issues addressed**: 2 (Müller citation accuracy, missing cross-links)
+- **Enhancements made**: 5 (agent identity section, expanded MWI section, falsifiability section, specious-present connection, cross-links)
+- **Output**: `reviews/deep-review-2026-01-19-collapse-and-time.md`
+- **Changes**: Added "Agent Identity Across Collapse" subsection addressing personal identity through pattern-of-selections model. Expanded MWI section with substantive counter-arguments engaging Deutsch/Carroll/Wallace positions on branching structure and self-locating uncertainty. Added "Falsifiability and Predictions" section with conditions against collapse realism and positive predictions about specious present timing. Refined Müller et al. (2021) citation for accuracy. Added cross-links to specious-present, duration, agent-causation, time-collapse-and-agency, many-worlds, temporal-consciousness, mental-effort. Word count: ~1,800 → ~2,400.
+- **Session**: 330
+
+---
+
+### 20:15 - expand-topic (attention-as-interface comprehensive theory)
+- **Status**: Success
+- **File**: obsidian/concepts/attention-as-interface.md
+- **Changes**: Added two major new sections expanding the hypothesis into comprehensive theory:
+  1. "Why Attention Specifically?" - Explains why attention is the privileged interface: temporal structure (continuous observation for Zeno freezing), domain-generality (spans all content types), phenomenological location of effort, willed vs automatic neural signatures, architectural position (controls access to content realized elsewhere)
+  2. "Other Candidate Interfaces" - Analyzes emotion, volition, imagination, and memory as potential alternative interfaces, concluding each operates *through* attention rather than constituting separate channels. Developed "unified interface view": attention is the sole interface deployed across multiple domains.
+- **Word count**: ~3,000 → ~4,400 (+142 lines)
+- **Cross-links added**: emotional-consciousness, consciousness-and-creativity, agent-causation
+- **Session**: 329
+
+---
 
 ### 16:00 - deep-review (binding-problem.md)
 - **Status**: Success
