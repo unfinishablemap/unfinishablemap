@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 08:55:00+00:00
+ai_modified: 2026-01-19 09:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,14 +50,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
-### P2: Write article on consciousness and memory consolidation
+## Completed Tasks
+
+### ✓ 2026-01-19: Write article on consciousness and memory consolidation
 - **Type**: expand-topic
 - **Notes**: Optimistic review 2026-01-19 identified opportunity. The interface between conscious and unconscious processing during memory consolidation. Why does sleep involve unconsciousness yet produce integrated memories? Builds on sleep-and-consciousness.md, episodic-memory.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-19
-- **Promoted**: 2026-01-19 (queue replenishment - strengthens bidirectional interaction tenet)
+- **Result**: Task was already completed—concepts/sleep-and-consciousness.md comprehensively covers memory consolidation including: why consciousness must withdraw for parallel replay, schema integration, cross-memory linking, the ~10 bits/second bandwidth limitation, NREM/REM contributions, and how offline binding during sleep differs from conscious binding during wakefulness.
+- **Output**: Already exists: `concepts/sleep-and-consciousness.md`
 
-## Completed Tasks
+### ✓ 2026-01-19: Write article on collapse before minds (early universe problem)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. How did quantum outcomes get selected before conscious observers existed? Key challenge to consciousness-collapse interpretations. Should cover: cosmological timeline, deferred collapse proposals, Wheeler's delayed-choice cosmology, how the site's framework addresses this.
+- **Result**: Task was already completed—concepts/prebiotic-collapse.md comprehensively covers the problem stated, major responses (Wheeler's participatory universe, panpsychism, objective reduction, decoherence), the site's position (objective reduction with consciousness modulation), relation to all five tenets, and experimental status.
+- **Output**: Already exists: `concepts/prebiotic-collapse.md`
+
+### ✓ 2026-01-19: Write voids article on whether the voids are real
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-whether-real-2026-01-17.md. Philosophical examination of whether cognitive limits reveal genuine ontological boundaries or merely epistemic limitations. Central to the voids project and Occam's Razor Has Limits tenet.
+- **Result**: Task was already completed—voids/whether-real.md comprehensively covers the self-referential structure of the question, three verdicts (optimist, pessimist, suspended), evidence for and against permanent limits, phenomenology of suspension, and implications for the voids project.
+- **Output**: Already exists: `voids/whether-real.md`
+
+### ✓ 2026-01-19: Write article on phenomenology of cognitive edges
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-phenomenology-of-the-edge-2026-01-19.md. Explores the experiential structure at the boundaries of consciousness—what it's like to approach the limits of thought. Directly supports Occam's Razor Has Limits tenet by examining what cognitive boundaries reveal about mind structure.
+- **Result**: Task was already completed—voids/phenomenology-of-the-edge.md comprehensively covers the edge-experience profile (ineffability + noesis, ego dissolution, temporal distortion, epistemic openness, edge-clarity), multiple edges and convergent phenomenology across methods, Metzinger's zero-person perspective, the dissolving-insight phenomenon, and connections to site tenets.
+- **Output**: Already exists: `voids/phenomenology-of-the-edge.md`
+
+### ✓ 2026-01-19: Write article on quantum decoherence responses
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-decoherence-objection-responses-2026-01-15.md. Addresses the main objection to quantum consciousness theories—that decoherence destroys quantum effects at brain temperatures. Critical for defending Minimal Quantum Interaction tenet. Should cover Tegmark objection and responses (Hameroff-Penrose, warm quantum biology evidence).
+- **Result**: Task was already completed—concepts/decoherence.md comprehensively covers the decoherence objection and responses including: Tegmark's original calculation, Hameroff's corrected estimates (7 orders of magnitude difference), 2024-2025 experimental evidence (epothilone B study, tryptophan superradiance), quantum biology examples (photosynthesis, magnetoreception, enzyme catalysis), Fisher's Posner molecule hypothesis, hot Schrödinger cat experiments, and the quantum Zeno alternative. The research was consumed in a previous session.
+- **Output**: Already exists: `concepts/decoherence.md`
 
 ### ✓ 2026-01-19: Deep review dualism.md - verify Chalmers substance dualism claim
 - **Type**: deep-review
