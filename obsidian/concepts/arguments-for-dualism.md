@@ -3,11 +3,12 @@ title: "Arguments for Dualism"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-18T22:30:00+00:00
+ai_modified: 2026-01-19T05:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
+  - "[[dualism]]"
   - "[[philosophical-zombies]]"
   - "[[knowledge-argument]]"
   - "[[intuitive-dualism]]"
@@ -33,7 +34,7 @@ last_curated: null
 last_deep_review: null
 ---
 
-Dualism—the view that consciousness is not reducible to physical processes—can be defended not just by arguing against materialism but by arguing *for* something distinctive about the mental. Contemporary philosophers have developed several powerful positive arguments. These converge on a single conclusion: there is something about consciousness that physical description cannot capture, and this something is irreducible.
+[[Dualism]]—the view that consciousness is not reducible to physical processes—can be defended not just by arguing against materialism but by arguing *for* something distinctive about the mental. (See [[dualism|the dualism overview]] for what dualism claims and its main varieties; this page focuses on the detailed *arguments*.) Contemporary philosophers have developed several powerful positive arguments. These converge on a single conclusion: there is something about consciousness that physical description cannot capture, and this something is irreducible.
 
 The 2020 PhilPapers survey found that 22% of professional philosophers accept or lean toward dualism—second only to materialism (51%). This is no fringe position. And the arguments sustaining it have only grown stronger as the problems with physicalism have become clearer.
 
@@ -233,6 +234,7 @@ The site does not commit to substance over property dualism. Both support irredu
 
 ## Further Reading
 
+- [[dualism]] — Foundational overview of what dualism is, its main varieties, and key objections
 - [[intuitive-dualism]] — What cognitive science reveals about natural mind-body thinking
 - [[epistemic-advantages-of-dualism]] — The meta-level argument from epistemic humility
 - [[philosophical-zombies]] — The conceivability argument in detail
