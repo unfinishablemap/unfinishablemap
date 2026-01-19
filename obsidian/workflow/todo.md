@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T00:00:00+00:00
+ai_modified: 2026-01-19T16:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Deep review filter-theory.md for comprehensive analysis
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-15, no deep review since creation. Recently cross-reviewed with altered-states evidence (2026-01-19) but needs comprehensive review for research integration, argument structure, and cross-links to newer content (minimal-consciousness.md, buddhism-and-dualism.md).
-- **Source**: staleness
-- **Generated**: 2026-01-19
 
 ### P2: Deep review analytic-idealism.md for currency and cross-links
 - **Type**: deep-review
@@ -82,6 +76,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Deep review filter-theory.md for comprehensive analysis
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-15, no deep review since creation. Recently cross-reviewed with altered-states evidence (2026-01-19) but needs comprehensive review for research integration, argument structure, and cross-links to newer content (minimal-consciousness.md, buddhism-and-dualism.md).
+- **Result**: Corrected psychedelic paradox description (reorganized activity, not less activity). Updated Bergson memory claim with optogenetic evidence nuance. Added new section on simple organisms and filter boundary. Added Buddhist philosophy parallels section. Added empirical distinguishability section with three testable predictions. Enhanced NDE section with skeptical framing. Added cross-links to minimal-consciousness, buddhism-and-dualism, mysterianism.
+- **Output**: Updated `concepts/filter-theory.md`, created `reviews/deep-review-2026-01-19-filter-theory.md`
 
 ### ✓ 2026-01-20: Deep review causal-closure.md for research integration
 - **Type**: deep-review
