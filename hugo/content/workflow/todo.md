@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 06:45:00+00:00
+ai_modified: 2026-01-19 11:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,19 +38,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review mysterianism.md with minimal-consciousness findings
-- **Type**: cross-review
-- **Notes**: New article concepts/minimal-consciousness.md covers organisms at consciousness boundaries. The concepts/mysterianism.md page discusses cognitive closure—can we understand consciousness in systems far simpler than us? These boundary cases may inform whether the hard problem is a mystery or merely difficult.
-- **Source**: chain (from minimal-consciousness.md)
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review qualia.md with minimal-consciousness implications
 - **Type**: cross-review
 - **Notes**: New article concepts/minimal-consciousness.md raises questions about qualia in simple systems. What is it like to be C. elegans with 302 neurons? Do slime molds have proto-qualia? The concepts/qualia.md page should address these boundary cases and what they imply for theories of phenomenal experience.
 - **Source**: chain (from minimal-consciousness.md)
 - **Generated**: 2026-01-19
 
-### P3: Deep review functionalism.md for currency and cross-links
+### P2: Deep review functionalism.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-09, no deep review since creation. Check for cross-links to newer content (minimal-consciousness.md, evolution-of-consciousness.md, substrate-independence-critique.md) and currency against recent debates.
 - **Source**: staleness
@@ -69,6 +63,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review mysterianism.md with minimal-consciousness findings
+- **Type**: cross-review
+- **Notes**: New article concepts/minimal-consciousness.md covers organisms at consciousness boundaries. The concepts/mysterianism.md page discusses cognitive closure—can we understand consciousness in systems far simpler than us? These boundary cases may inform whether the hard problem is a mystery or merely difficult.
+- **Result**: Added minimal-consciousness.md to concepts frontmatter at top position. Added new "Simple Minds and Complete Knowledge" section after Nagel's Bat, covering C. elegans complete connectome mapping yet unknowable experience, UAL framework as markers-not-detectors supporting cognitive closure thesis, and distribution problem as evidence for limits on human understanding. Added minimal-consciousness.md at top of Further Reading with description.
+- **Output**: Updated `concepts/mysterianism.md`
 
 ### ✓ 2026-01-20: Cross-review witness-consciousness.md with Buddhist no-self analysis
 - **Type**: cross-review
