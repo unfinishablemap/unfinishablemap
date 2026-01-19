@@ -3,12 +3,15 @@ title: "Causal Closure of the Physical"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-19T21:45:00+00:00
+ai_modified: 2026-01-20T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
 concepts:
+  - "[[luck-objection]]"
+  - "[[mysterianism]]"
+  - "[[explanatory-gap]]"
   - "[[epiphenomenalism]]"
   - "[[interactionist-dualism]]"
   - "[[materialism]]"
@@ -25,7 +28,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-20T00:00:00+00:00
 ---
 
 Causal closure of the physical is the thesis that every physical event that has a cause has a *sufficient* physical cause. If true, nothing outside the physical realm ever makes a causal difference to what happens physically. This principle underlies the most influential contemporary argument against [[interactionist-dualism]]—and this site's framework depends on its rejection.
@@ -89,6 +92,8 @@ This matters for [[reductionism]]. If causal closure is an ontological thesis (a
 
 Moreover, the history of science shows unexpected discoveries that violated prior assumptions. That no violation has been found doesn't mean none exists—especially in domains (like consciousness) that resist physical investigation.
 
+To be clear: the site's position also involves metaphysical commitments beyond empirical evidence. The claim that consciousness fills quantum gaps is not more empirically supported than the claim that physics is complete. Both positions extrapolate from evidence to metaphysics. The question is which extrapolation better accounts for the full range of phenomena—including the existence of consciousness itself and its apparent causal efficacy.
+
 ### The Quantum Exception
 
 This is the site's primary response: quantum mechanics violates causal closure as standardly formulated.
@@ -97,7 +102,11 @@ In quantum mechanics, physical systems evolve deterministically under the Schrö
 
 This means: *not every physical event has a sufficient physical cause*. When a radioactive atom decays, physics tells us the probability it will decay in the next hour, but nothing physical determines *whether* it will. The physical causes are insufficient. The physical story is incomplete.
 
+**The physicalist response**: Some argue that probabilistic causation is still causation—the wave function causally explains the *distribution* of outcomes even if not each individual one. But this conflates statistical explanation with causal sufficiency. A sufficient cause produces its effect; a probability distribution leaves the actual outcome undetermined. The distribution explains why *some atom* decayed, not why *this atom* did. If nothing physical determines which outcome occurs, physics is causally incomplete at that point.
+
 If consciousness acts at these indeterminacies—selecting among outcomes physics leaves undetermined—it causes physical events without violating any physical law. No energy is injected (the outcomes are among those physics already allows). No overdetermination occurs (physics provides necessary but not sufficient causes).
+
+**The decoherence challenge**: Critics object that quantum coherence cannot survive in warm, wet biological systems—decoherence destroys superpositions before consciousness could select among them. This is a serious empirical challenge, but not decisive. See [[quantum-consciousness#The Decoherence Objection|the decoherence response]] for detailed treatment: decoherence times may be longer than originally calculated (Hameroff's group found seven orders of magnitude longer than Tegmark's estimate), biological systems demonstrably exploit quantum effects (as in avian magnetoreception), and crucially, decoherence doesn't solve the measurement problem—something must still select among the mixture of possible outcomes that decoherence produces.
 
 This argument appears in formal premise-conclusion form in the [[interactionist-dualism|argument for interactionist dualism]]: the closure objection fails because physics does not exclude mental causation at quantum indeterminacies.
 
@@ -129,6 +138,8 @@ Some philosophers accept this and adopt compatibilism: free will just is acting 
 
 This site takes a different route. Quantum indeterminism means physical outcomes are not fully physically determined. If consciousness can bias which indeterminate outcome occurs, it can influence physical events in a way that's neither determined nor random. This provides what libertarian free will requires: genuine alternatives that consciousness selects among.
 
+Critics raise the [[luck-objection|luck objection]]: if the outcome is undetermined, isn't it just random—arbitrary rather than free? The site's response: consciousness *selects* outcomes rather than merely receiving them. The difference between selection and randomness is precisely the difference between a mind acting and physics fluctuating. This isn't a gap in explanation but the place where explanation of a different kind—in terms of reasons, intentions, and phenomenal states—becomes appropriate.
+
 ## Relation to This Site's Perspective
 
 This site *rejects* causal closure as a universal principle. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that physics is not causally complete at quantum indeterminacies. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness acts at these points.
@@ -155,15 +166,18 @@ This is not "god of the gaps" reasoning. It's recognition that physics *describe
 
 ## Further Reading
 
+- [[luck-objection]] — The challenge that undetermined choices are merely random; consciousness-as-selector response
+- [[mysterianism]] — Why the mechanism of mind-matter interaction may exceed human comprehension
 - [[reductionism]] — Ontological vs methodological vs epistemic reduction; why conflating them supports closure illicitly
 - [[mental-causation]] — The philosophical problem causal closure creates
 - [[downward-causation]] — Higher-level causation that closure threatens
 - [[emergence]] — The emergentist response to causal closure
 - [[interactionist-dualism]] — The position that mental causation enables
-- [[quantum-consciousness]] — Mechanisms for consciousness-matter interaction
+- [[quantum-consciousness]] — Mechanisms for consciousness-matter interaction; includes decoherence response
 - [[epiphenomenalism]] — The view accepting closure forces
 - [[free-will]] — Implications for agency
 - [[materialism]] — The worldview closure supports
+- [[explanatory-gap]] — Why physical knowledge leaves phenomenal experience unexplained
 
 ## References
 
