@@ -3,7 +3,7 @@ title: "Emergence"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-19T14:20:00+00:00
+ai_modified: 2026-01-20T00:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,6 +45,8 @@ C.D. Broad established emergence as a distinct philosophical position in 1925. H
 
 Consciousness appears to be strongly emergent. No arrangement of neurons logically entails the presence of experience. This is the [[hard-problem-of-consciousness|hard problem]]—the seeming impossibility of deriving phenomenal facts from physical facts.
 
+The distinction matters because strong emergence denies [[reductionism|ontological reductionism]] while remaining compatible with [[reductionism|methodological reductionism]]. Neuroscience studies the physical substrate; this doesn't commit one to claiming consciousness *is* that substrate.
+
 ## Kim's Exclusion Argument
 
 Jaegwon Kim's exclusion argument is the most influential contemporary challenge to strong emergentism. It runs:
@@ -78,7 +80,7 @@ Three features of consciousness resist reduction:
 
 **Unified awareness.** Physically separated neural networks somehow constitute a single conscious state. The [[binding-problem|binding problem]] has no satisfactory neural solution.
 
-**Qualia.** The qualitative character of experience seems "dimensionally mismatched" with neural complexity. Jackson's [[knowledge-argument|knowledge argument]] and Chalmers' zombie argument suggest phenomenal properties resist physical characterization.
+**Qualia.** The qualitative character of experience seems "dimensionally mismatched" with neural complexity. Jackson's [[knowledge-argument|knowledge argument]] and Chalmers' zombie argument suggest phenomenal properties resist physical characterization. Putnam's [[reductionism#multiple-realizability|multiple realizability]] argument reinforces this—if the same quale can be realized by different physical substrates, qualia cannot be identified with any particular neural state.
 
 **Free will.** Agential experience suggests conscious choice exercises distinctive powers not causally triggered by antecedent conditions. Top-down control over behavior appears inconsistent with determination by parts.
 
@@ -111,7 +113,7 @@ The difference: the site specifies the quantum mechanism they leave abstract. O'
 
 ## Comparing Challenges
 
-Critics sometimes argue that strong emergence merely names the problem without solving it. But the comparison favors the site's position:
+Critics sometimes argue that strong emergence merely names the problem without solving it—a case of what Dennett calls "greedy [[reductionism]]" applied in reverse, expecting a single label to do explanatory work it cannot. But the comparison favors the site's position:
 
 | Framework | Core Challenge |
 |-----------|---------------|
@@ -144,6 +146,7 @@ The site's framework can be understood as *emergentist dualism*—consciousness 
 
 ## Further Reading
 
+- [[reductionism]] — The three types of reductionism and why consciousness resists each
 - [[interactionist-dualism]] — The site's framework as strong emergentism with mechanism
 - [[causal-closure]] — The principle strong emergentism must deny
 - [[downward-causation]] — How emergent properties causally influence lower levels
