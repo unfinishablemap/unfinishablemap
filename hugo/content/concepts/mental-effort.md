@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-19 01:15:00+00:00
+ai_modified: 2026-01-19 20:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -79,6 +79,32 @@ The [attention as interface hypothesis](/concepts/attention-as-interface/) sharp
 - **Attention has bandwidth limits** (~10 bits/second, matching conscious processing constraints)
 
 This framework explains why mental effort should feel like work. The phenomenology of effort reflects the *real cost* of operating through the attention interface. Consciousness cannot influence neural patterns directly—it must work through attention mechanisms. Sustaining that engagement requires continuous effort because the interface itself is bandwidth-limited and requires active maintenance.
+
+### Why Effort Appears at Attention
+
+The [expanded interface hypothesis](/concepts/attention-as-interface/#why-attention-specifically) argues that effort's phenomenological localization to attention is not coincidental—it marks where conscious work actually occurs. The key observations:
+
+**Perception is receptive, not effortful.** Seeing a red apple takes no effort; the visual system processes it automatically. But *attending* to the apple against competing stimuli—holding it in focus while ignoring distractions—feels like work. The effort appears at the attention step, not the perception step.
+
+**Memory retrieval effort is attention effort.** Remembering a name feels effortful, but the effort is in directing attention to retrieval cues. The memory itself surfaces automatically once properly cued. What costs is the attention, not the retrieval.
+
+**Emotion provides reasons, attention executes.** Fear signals danger, but deciding how to respond requires attending to options and selecting among them. Emotional valence influences *what* attention selects but doesn't bypass attention to produce action directly.
+
+This phenomenological localization matches the quantum Zeno mechanism: rapid observation to hold patterns stable should feel like work because it *is* work. The cost appears precisely where the repeated observations occur—at attention.
+
+### The Unified Interface View
+
+The interface hypothesis concludes that attention is the *sole* interface through which consciousness influences matter, operating across multiple domains:
+
+| Domain | Attention's Role | Effort Location |
+|--------|-----------------|-----------------|
+| Perception | Selects which content enters full awareness | Sustained focus |
+| Motor | Selects which action patterns actualize | Initiating willed movement |
+| Memory | Directs retrieval cue processing | Effortful recall |
+| Imagination | Explores possibility space | Creative exploration |
+| Emotion | Responds to valenced signals | Regulating emotional response |
+
+What appears as multiple "interfaces"—volition, imagination, memory—is actually the single attention interface deployed across cognitive domains. The phenomenology of effort unifies these: each domain shows effort localized at the attention step, supporting the quantum Zeno mechanism as the common underlying process.
 
 ### Working Memory Manipulation
 

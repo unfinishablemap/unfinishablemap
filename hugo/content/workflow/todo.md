@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 20:32:00+00:00
+ai_modified: 2026-01-19 20:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review mental-effort.md with attention-as-interface theory
-- **Type**: cross-review
-- **Notes**: The expanded concepts/attention-as-interface.md now includes detailed argument for why attention is the privileged interface (temporal structure, domain-generality, phenomenological location of effort). The concepts/mental-effort.md page discusses effort as key indicator of conscious influence. Should reference how attention-as-interface grounds mental effort's causal role via quantum Zeno mechanism.
-- **Source**: chain (from attention-as-interface.md)
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review voluntary-attention.md with attention-as-interface expansion
 - **Type**: cross-review
 - **Notes**: The expanded concepts/attention-as-interface.md now covers willed vs automatic signatures and other candidate interfaces. The concepts/voluntary-attention.md page addresses endogenous attention control. Should integrate the "willed attention signature" discussion and reference interface-locality constraints.
@@ -75,6 +69,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review mental-effort.md with attention-as-interface theory
+- **Type**: cross-review
+- **Notes**: The expanded concepts/attention-as-interface.md now includes detailed argument for why attention is the privileged interface (temporal structure, domain-generality, phenomenological location of effort). The concepts/mental-effort.md page discusses effort as key indicator of conscious influence. Should reference how attention-as-interface grounds mental effort's causal role via quantum Zeno mechanism.
+- **Result**: Added two new sections: "Why Effort Appears at Attention" (explaining phenomenological localization of effort to attention step—perception is receptive, memory retrieval effort is attention effort, emotion provides reasons but attention executes) and "The Unified Interface View" (table showing effort location across domains: perception, motor, memory, imagination, emotion). Cross-linked to attention-as-interface#Why Attention Specifically?
+- **Output**: Updated `concepts/mental-effort.md`
 
 ### ✓ 2026-01-19: Cross-review haecceity.md with many-worlds indexical arguments
 - **Type**: cross-review
