@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-19T21:25:00+00:00
+ai_modified: 2026-01-19T21:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,17 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-19
+
+### 21:00 - deep-review (combination-problem.md)
+- **Status**: Success
+- **File**: obsidian/concepts/combination-problem.md
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (missing cross-links, no deflationary responses, no empirical distinguishability, missing minimal-consciousness link)
+- **Enhancements made**: Added Buddhist/process philosophy perspective on subject-summing dissolution. Added new "Empirical Distinguishability" subsection with three testable prediction lines. Added phenomenal-unity, binding-problem, minimal-consciousness cross-links. Added recent empirical references (Kerskens & Pérez 2022, Wiest et al. 2024).
+- **Output**: `reviews/deep-review-2026-01-19-combination-problem.md`
+- **Session**: 338
+
+---
 
 ### 21:20 - cross-review (explanatory-gap.md with arguments-against-materialism)
 - **Status**: Success
