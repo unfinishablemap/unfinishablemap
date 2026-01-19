@@ -3,7 +3,7 @@ title: "Mental Causation"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-18T12:00:00+00:00
+ai_modified: 2026-01-20T05:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[agent-causation]]"
   - "[[downward-causation]]"
+  - "[[reductionism]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments/epiphenomenalism]]"
@@ -48,7 +49,7 @@ Jaegwon Kim's exclusion argument is the most influential contemporary formulatio
 3. **No systematic overdetermination**: Mental causes don't overdetermine effects alongside physical causes
 4. **Non-reductionism**: Mental properties are not identical to physical properties
 
-From these premises, Kim concludes that mental properties are causally excluded by their physical realizers. Either mental causation doesn't occur ([[epiphenomenalism]]), or mental properties just *are* physical properties (reductionism).
+From these premises, Kim concludes that mental properties are causally excluded by their physical realizers. Either mental causation doesn't occur ([[epiphenomenalism]]), or mental properties just *are* physical properties ([[reductionism|reductionism]]). See [[reductionism#Kim's Challenge]] for the fuller argument that non-reductive views face a fundamental dilemma.
 
 The dilemma seems stark: deny that consciousness causes anything, or deny that consciousness is anything other than physics.
 
@@ -165,6 +166,7 @@ The site affirms mental causation because denying it undermines everything we th
 
 ## Further Reading
 
+- [[reductionism]] — Why the reductionist alternative to mental causation fails; Kim's exclusion argument and responses
 - [[arguments/epiphenomenalism]] — The cumulative case against epiphenomenalism (five arguments)
 - [[causal-closure]] — The principle mental causation challenges
 - [[downward-causation]] — How higher-level properties influence lower-level processes
