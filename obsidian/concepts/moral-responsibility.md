@@ -3,7 +3,7 @@ title: "Moral Responsibility"
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-16T13:00:00+00:00
+ai_modified: 2026-01-19T05:55:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[mental-causation]]"
   - "[[interactionist-dualism]]"
   - "[[personal-identity]]"
+  - "[[quantum-indeterminacy-free-will]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -69,7 +70,7 @@ This matters for responsibility. If we can't explain why the agent chose A rathe
 
 ### The Luck Objection, Again
 
-The luck objection to libertarian free will applies to moral responsibility. If nothing about the agent explains why they chose to help rather than harm, how do they deserve praise or blame? The difference seems like luck.
+The luck objection to libertarian free will applies to moral responsibility. If nothing about the agent explains why they chose to help rather than harm, how do they deserve praise or blame? The difference seems like luck. See [[quantum-indeterminacy-free-will]] for the full systematization of this challenge and the site's response.
 
 The site's [[free-will#Why the Site's Framework Escapes Luck|response]] addresses this directly. Consciousness-selected indeterminism differs from lucky indeterminism:
 
@@ -80,6 +81,22 @@ The site's [[free-will#Why the Site's Framework Escapes Luck|response]] addresse
 | Basis for desert | Unclear | Agent's genuine authorship |
 
 If selection is reasons-guided, desert is grounded. You deserve blame for the cruel choice because *you* selected cruelty when kindness was available, and you selected it for reasons (malice, indifference) that reflect badly on you.
+
+### The Quantum Zeno Mechanism and Genuine Control
+
+The [[quantum-indeterminacy-free-will#The Quantum Zeno Mechanism in Detail|quantum Zeno mechanism]] provides the physical account of how consciousness selects. Mental effort—sustained attention—acts like repeated quantum measurement, holding selected neural patterns stable against decoherence. This directly grounds the *control* requirement for moral responsibility.
+
+Key features supporting responsibility:
+
+1. **Selection, not randomness**: The agent doesn't receive random outcomes but selects among genuinely open possibilities based on what matters to them
+
+2. **Phenomenology of effort tracks causation**: William James documented that "sustained voluntary attention is a repetition of successive efforts." The felt difficulty of choosing well corresponds to genuine causal engagement—holding the chosen option stable against competing alternatives
+
+3. **Two-domain evidence**: Both [[attention-as-interface|attention]] and [[motor-selection|motor control]] show identical selection architecture (frontal theta oscillations, ~300ms deployment time, distinct willed-vs-instructed signatures). Two independent domains showing the same structure suggests consciousness genuinely selects, not that we merely attribute selection to coincidental outcomes
+
+4. **Kane's convergence**: Robert Kane's 2024 *Complex Tapestry of Free Will* now incorporates agent-causal elements alongside his event-causal framework, arguing free action requires "exercising teleological guidance control over some of their processes." This represents mainstream libertarianism converging on the site's agent-causal position
+
+The control requirement isn't satisfied by mere indeterminism—random processes don't put agents in control. But consciousness-directed selection, operating through the quantum Zeno mechanism, provides exactly what responsibility requires: the agent genuinely determined the outcome from among real alternatives.
 
 ## How Desert Differs Under Agent Causation
 
@@ -178,6 +195,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 
 ## Further Reading
 
+- [[quantum-indeterminacy-free-will]] — Systematization of how quantum indeterminacy supports libertarian free will and responds to the luck objection
 - [[free-will]] — The broader free will question and the site's position
 - [[agent-causation]] — Agent vs. event causation in detail
 - [[ethics-of-consciousness]] — Consciousness as the foundation of moral status
