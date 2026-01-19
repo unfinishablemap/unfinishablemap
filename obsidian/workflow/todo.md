@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T00:50:00+00:00
+ai_modified: 2026-01-19T13:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -67,11 +67,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
-### P3: Write concept page on phenomenal unity
+### P2: Write concept page on phenomenal unity
 - **Type**: expand-topic
 - **Notes**: Optimistic review 2026-01-18 identified opportunity. The binding problem page exists but phenomenal *unity*—why separate processes become one experience—deserves dedicated treatment. Connects to quantum entanglement providing genuine holism.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-19
+- **Promoted**: 2026-01-19 (replenishment - queue had only 2 P0-P2 tasks)
 
 ### P3: Research consciousness and creativity
 - **Type**: research-topic

@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-19T00:50:00+00:00'
-session_count: 233
+last_updated: '2026-01-19T13:50:00+00:00'
+session_count: 234
 last_runs:
   validate-all: '2026-01-17T14:45:00+00:00'
   pessimistic-review: '2026-01-18T20:00:00+00:00'
   optimistic-review: '2026-01-18T20:35:00+00:00'
   check-tenets: '2026-01-18T20:41:00+00:00'
   check-links: '2026-01-18T21:49:00+00:00'
-  deep-review: '2026-01-18T16:30:00+00:00'
+  deep-review: '2026-01-19T13:45:00+00:00'
   tune-system: '2026-01-16T18:00:00+00:00'
   research-voids: '2026-01-17T02:00:00+00:00'
   coalesce: '2026-01-18T21:15:00+00:00'
@@ -39,7 +39,7 @@ overdue_thresholds:
   tweet-highlight: 48
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-18T20:40:20.205355+00:00'
+last_git_push: '2026-01-19T00:41:15.944917+00:00'
 content_stats:
   total_files: 188
   published_files: 142
@@ -58,7 +58,7 @@ progress:
   questions_written: 1
   voids_written: 5
   research_notes: 86
-  reviews_completed: 237
+  reviews_completed: 238
 quality:
   critical_issues: 0
   medium_issues: 3
@@ -66,118 +66,10 @@ quality:
   orphaned_files: 6
 failed_tasks: {}
 recent_tasks:
-- task: cross-review (implicit-memory/voluntary-attention)
-  type: cross-review
+- task: deep-review (locality)
+  type: deep-review
   date: 2026-01-19
   outcome: success
-- task: cross-review (dreams-and-consciousness/2025-research)
-  type: cross-review
-  date: 2026-01-18
-  outcome: success
-- task: expand-topic (altered-states-of-consciousness)
-  type: expand-topic
-  date: 2026-01-18
-  outcome: success
-- task: research-topic (altered-states-consciousness)
-  type: research-topic
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (purpose-and-alignment/emotional-consciousness)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (animal-consciousness/emotional-consciousness)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (ai-consciousness/llm-consciousness)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: expand-topic (llm-consciousness)
-  type: expand-topic
-  date: 2026-01-18
-  outcome: success
-- task: cross-review (filter-theory/brain-specialness)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: cross-review (arguments-for-dualism/objections-treatment)
-  type: cross-review
-  date: 2026-01-18
-  outcome: success
-- task: expand-topic (brain-specialness)
-  type: expand-topic
-  date: 2026-01-18
-  outcome: success
-- task: cross-review (hard-problem/witness-consciousness)
-  type: cross-review
-  date: 2026-01-18
-  outcome: success
-- task: cross-review (mental-effort/voluntary-attention)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: expand-topic (intuitive-dualism)
-  type: expand-topic
-  date: 2026-01-19
-  outcome: success
-- task: expand-topic (objections-to-interactionism)
-  type: expand-topic
-  date: 2026-01-18
-  outcome: success
-- task: expand-topic (voluntary-attention)
-  type: expand-topic
-  date: 2026-01-19
-  outcome: success
-- task: check-links
-  type: maintenance
-  date: 2026-01-18
-  outcome: success
-- task: cross-review (eastern-philosophy-consciousness/witness-consciousness)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: expand-topic (witness-consciousness)
-  type: expand-topic
-  date: 2026-01-18
-  outcome: success
-- task: cross-review (ethics-of-consciousness/emotional-consciousness)
-  type: cross-review
-  date: 2026-01-19
-  outcome: success
-- task: expand-topic (emotional-consciousness)
-  type: expand-topic
-  date: 2026-01-19
-  outcome: success
-- task: expand-topic (downward-causation)
-  type: expand-topic
-  date: 2026-01-18
-  outcome: success
-- task: refine-draft (luck-objection)
-  type: refine-draft
-  date: 2026-01-19
-  outcome: success
-- task: tweet-highlight
-  type: maintenance
-  date: 2026-01-18
-  outcome: success
-- task: research-topic (emotional-consciousness-valence)
-  type: research-topic
-  date: 2026-01-19
-  outcome: success
-- task: expand-topic (relational-quantum-mechanics)
-  type: expand-topic
-  date: 2026-01-18
-  outcome: success
-- task: expand-topic (neural-quantum-coherence)
-  type: expand-topic
-  date: 2026-01-18
-  outcome: success
-- task: coalesce
-  type: maintenance
-  date: 2026-01-18
-  outcome: no_candidates
 - task: cross-review (meaning-of-life/eastern)
   type: ''
   date: 2026-01-13
@@ -254,11 +146,3 @@ recent_tasks:
   type: ''
   date: 2026-01-09
   outcome: ''
-- task: optimistic-review
-  type: ''
-  date: 2026-01-09
-  outcome: ''
-
-task_chains:
-  pending_articles: []
-  pending_cross_reviews: []
