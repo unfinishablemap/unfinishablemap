@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T05:50:00+00:00
+ai_modified: 2026-01-19T05:56:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review moral-responsibility.md with quantum indeterminacy systematization
-- **Type**: cross-review
-- **Notes**: New article concepts/quantum-indeterminacy-free-will.md provides systematic treatment of how quantum indeterminacy supports libertarian free will, addressing the luck objection and distinguishing agent-causal from event-causal approaches. The moral-responsibility.md concept page discusses how desert requires genuine authorship—integrating the quantum indeterminacy framework could strengthen the case that moral responsibility is metaphysically grounded, not merely pragmatic. Add cross-link.
-- **Source**: chain (from quantum-indeterminacy-free-will.md)
-- **Generated**: 2026-01-20
 
 ### P2: Cross-review agent-causation.md with quantum indeterminacy systematization
 - **Type**: cross-review
@@ -92,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review moral-responsibility.md with quantum indeterminacy systematization
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-indeterminacy-free-will.md provides systematic treatment of how quantum indeterminacy supports libertarian free will, addressing the luck objection and distinguishing agent-causal from event-causal approaches. The moral-responsibility.md concept page discusses how desert requires genuine authorship—integrating the quantum indeterminacy framework could strengthen the case that moral responsibility is metaphysically grounded, not merely pragmatic. Add cross-link.
+- **Result**: Added quantum-indeterminacy-free-will.md to concepts frontmatter. Added new "The Quantum Zeno Mechanism and Genuine Control" section explaining how the quantum Zeno mechanism grounds the control requirement for moral responsibility. Key points: selection vs randomness, phenomenology of effort tracks causation (William James quote), two-domain evidence, Kane's 2024 convergence with agent-causal positions. Added quantum-indeterminacy-free-will.md to top of Further Reading.
+- **Output**: Updated `concepts/moral-responsibility.md`
 
 ### ✓ 2026-01-19: Research neural binding mechanisms for quantum entanglement hypothesis
 - **Type**: research-topic
