@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-20 08:45:00+00:00
+ai_modified: 2026-01-19 11:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[minimal-consciousness]]'
 - '[[dualism]]'
 - '[[analytic-idealism]]'
 - '[[interactionist-dualism]]'
@@ -97,6 +98,40 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet emphasizes that indexical id
 
 The site's dualism preserves individual consciousness as genuinely distinct. You're not a fragment of something else; you're a conscious being who interacts with physical reality. When you exercise [agent causation](/concepts/agent-causation/)—originating a genuine causal chain through choice—it is *you* who acts, not a dissociated portion of cosmic mind.
 
+## Simple Organisms and the Ubiquity of Mind
+
+Research on [minimal consciousness](/concepts/minimal-consciousness/)—organisms like *C. elegans* (302 neurons), Hydra (decentralized nerve nets), and slime molds (no neurons at all)—bears differently on idealism than on competing views.
+
+### What Idealism Predicts
+
+If consciousness is fundamental and matter merely appearance, then every organism participates in consciousness. There is no threshold below which experience disappears, because experience is what everything fundamentally *is*. The question becomes not "is this organism conscious?" but "how does universal consciousness appear when localized in this particular form?"
+
+On Kastrup's analytic idealism, a nematode's neural activity isn't generating minimal consciousness—it's how localized consciousness *looks from outside* when taking a very simple form. The distribution problem (why consciousness here but not there?) dissolves. Consciousness is everywhere; what varies is the complexity and dissociation of its manifestations.
+
+### The UAL Challenge
+
+The Unlimited Associative Learning (UAL) framework, proposed by Ginsburg and Jablonka, identifies behavioral markers that may indicate consciousness: global information broadcasting, selective attention, evaluative systems, and unlimited associative capacity. On this framework, *C. elegans*, Hydra, and slime molds all fail the test—they cannot perform trace conditioning or demonstrate unlimited associative learning.
+
+How should idealism respond?
+
+**Option 1: Reject UAL as a consciousness criterion.** Idealism might argue that UAL identifies *complex dissociated consciousness* but misses simpler forms. If universal consciousness can manifest in simple ways, behavioral complexity shouldn't be necessary for *some* form of experience. The worm experiences; it just experiences simply.
+
+**Option 2: Distinguish experience from behavior.** Even if slime molds lack the behavioral signatures UAL requires, they still participate in universal consciousness on idealism's view. The dissociation in simple organisms produces experience too attenuated to generate complex learning behaviors, but experience nonetheless.
+
+### The Slime Mold Puzzle
+
+*Physarum polycephalum* presents an interesting case for idealism. This organism has no neurons, yet solves mazes, optimizes networks, and displays memory. On a dualist view that ties consciousness to neural substrates (like quantum effects in microtubules), slime mold cognition is puzzling—cognition without the right physical interface for consciousness.
+
+Idealism has no such puzzle. If matter is appearance within consciousness, then slime molds—like everything else—are manifestations of mind. Their cognitive abilities without neurons actually *support* idealism: cognition doesn't require special physical substrates because nothing is fundamentally physical. The slime mold's maze-solving is how universal consciousness appears when manifesting as that particular organic pattern.
+
+This gives idealism an advantage the site's framework lacks. Interactionist dualism, committed to consciousness interfacing with matter at specific physical sites (quantum-coherent neural systems), struggles to explain non-neural cognition. Idealism simply says: of course cognition can occur without neurons—neurons are just one appearance of the mental processes that constitute all reality.
+
+### A Dualist Response
+
+The site's framework can respond: cognition and consciousness may dissociate. Slime molds process information (cognition) without phenomenal experience (consciousness). The quantum-neural interface hypothesis concerns where consciousness *interfaces with* matter, not where information processing occurs. Sophisticated behaviors can emerge from non-conscious physical systems; thermostats "sense" temperature without experiencing anything.
+
+But this response concedes something to idealism. If cognition and consciousness can fully dissociate—if an organism can solve mazes, form memories, and optimize networks without any experience whatsoever—then the correlation between behavioral complexity and consciousness weakens. And if behavioral markers unreliably track consciousness, the hard problem becomes even harder.
+
 ## Idealism's Advantages
 
 To be fair, idealism has real strengths:
@@ -133,6 +168,7 @@ If forced to choose between idealism and physicalism, this site would choose ide
 
 ## Further Reading
 
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Consciousness in simple organisms and what it implies for theories of mind
 - [dualism](/concepts/dualism/) — Foundational overview of the site's dualist position
 - [analytic-idealism](/concepts/analytic-idealism/) — Detailed treatment of Kastrup's analytic idealism
 - [panpsychism](/concepts/panpsychism/) — Another view taking consciousness as fundamental

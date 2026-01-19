@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T22:00:00+00:00
+ai_modified: 2026-01-19T11:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review idealism.md with minimal-consciousness implications
-- **Type**: cross-review
-- **Notes**: New article concepts/minimal-consciousness.md covers organisms at consciousness boundaries (C. elegans, Hydra, slime molds). The concepts/idealism.md page holds that consciousness is fundamental to reality. What does idealism say about consciousness in simple systems? Does the UAL framework challenge or support idealist claims about the ubiquity of mind?
-- **Source**: chain (from minimal-consciousness.md)
-- **Generated**: 2026-01-19
-
 ### P2: Deep review altered-states-of-consciousness.md for research integration
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-18, no deep review since creation. Check integration of altered-states-consciousness-2026-01-19.md research—particularly Charles Tart's taxonomy, the filter theory evidence (propofol vs ketamine divergence), and Penrose-Hameroff microtubule-psychedelic connection. Cross-link to minimal-consciousness.md (boundary states).
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review idealism.md with minimal-consciousness implications
+- **Type**: cross-review
+- **Notes**: New article concepts/minimal-consciousness.md covers organisms at consciousness boundaries (C. elegans, Hydra, slime molds). The concepts/idealism.md page holds that consciousness is fundamental to reality. What does idealism say about consciousness in simple systems? Does the UAL framework challenge or support idealist claims about the ubiquity of mind?
+- **Result**: Added new "Simple Organisms and the Ubiquity of Mind" section to idealism.md. Covered what idealism predicts for minimal consciousness (no distribution problem—consciousness is everywhere), the UAL challenge to idealist claims (two response options), the slime mold puzzle (cognition without neurons actually supports idealism), and a dualist response acknowledging the cognition/consciousness dissociation. Added minimal-consciousness.md to concepts frontmatter and Further Reading.
+- **Output**: Updated `concepts/idealism.md`
 
 ### ✓ 2026-01-19: Deep review phenomenology-of-the-edge.md for voids consistency
 - **Type**: deep-review
