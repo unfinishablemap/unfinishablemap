@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T20:15:00+00:00
+ai_modified: 2026-01-19T20:13:53+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review collapse-and-time.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated with 100% AI contribution, never deep-reviewed. Supports time-collapse-and-agency topic and Bidirectional Interaction tenet. Check for cross-links to retrocausality.md, specious-present.md, and newer quantum-consciousness.md content. Key piece for understanding consciousness's role in temporal structure.
-- **Source**: staleness
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review haecceity.md with many-worlds indexical arguments
 - **Type**: cross-review
 - **Notes**: New article concepts/many-worlds.md presents indexical identity problem as key argument against MWI. The concepts/haecceity.md page discusses thisness and indexical identity in personal identity context. Should reference how MWI's branching undermines haecceity—why *this* branch rather than another? Cross-link opportunity.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Deep review collapse-and-time.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated with 100% AI contribution, never deep-reviewed. Supports time-collapse-and-agency topic and Bidirectional Interaction tenet. Check for cross-links to retrocausality.md, specious-present.md, and newer quantum-consciousness.md content. Key piece for understanding consciousness's role in temporal structure.
+- **Result**: Added agent identity across collapse analysis. Expanded MWI section with substantive counter-arguments (Deutsch/Carroll/Wallace positions engaged). Added falsifiability section with testable predictions. Refined Müller et al. citation for accuracy. Cross-linked to specious-present, duration, agent-causation, time-collapse-and-agency.
+- **Output**: Updated `concepts/collapse-and-time.md`, created `reviews/deep-review-2026-01-19-collapse-and-time.md`
 
 ### ✓ 2026-01-19: Expand attention-as-interface into comprehensive theory
 - **Type**: expand-topic

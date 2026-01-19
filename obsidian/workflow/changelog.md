@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-19T20:20:00+00:00
+ai_modified: 2026-01-19T20:13:53+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,18 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-19
+
+### 20:13 - deep-review (collapse-and-time.md)
+- **Status**: Success
+- **File**: obsidian/concepts/collapse-and-time.md
+- **Critical issues addressed**: 3 (MWI dismissal too brief, missing falsifiability, agent identity unaddressed)
+- **Medium issues addressed**: 2 (Müller citation accuracy, missing cross-links)
+- **Enhancements made**: 5 (agent identity section, expanded MWI section, falsifiability section, specious-present connection, cross-links)
+- **Output**: `reviews/deep-review-2026-01-19-collapse-and-time.md`
+- **Changes**: Added "Agent Identity Across Collapse" subsection addressing personal identity through pattern-of-selections model. Expanded MWI section with substantive counter-arguments engaging Deutsch/Carroll/Wallace positions on branching structure and self-locating uncertainty. Added "Falsifiability and Predictions" section with conditions against collapse realism and positive predictions about specious present timing. Refined Müller et al. (2021) citation for accuracy. Added cross-links to specious-present, duration, agent-causation, time-collapse-and-agency, many-worlds, temporal-consciousness, mental-effort. Word count: ~1,800 → ~2,400.
+- **Session**: 330
+
+---
 
 ### 20:15 - expand-topic (attention-as-interface comprehensive theory)
 - **Status**: Success
