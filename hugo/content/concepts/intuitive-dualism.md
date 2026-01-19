@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-19 00:00:00+00:00
+ai_modified: 2026-01-19 20:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[materialism]]'
 - '[[interactionist-dualism]]'
 - '[[philosophical-zombies]]'
+- '[[mental-causation]]'
 created: 2026-01-19
 date: &id001 2026-01-19
 draft: false
@@ -38,6 +39,10 @@ Babies distinguish these early. They find it unremarkable when people move witho
 ### The Evidence for Separate Systems
 
 Infant looking-time studies show that babies expect physical objects to behave differently from animate agents. Children attribute goals to agents but not to objects. By age four, children naturally accept scenarios where minds and bodies separate—body swaps, ghosts, survival after death.
+
+Chudek et al. (2018) tested the "minds switch bodies" intuition across cultures, recruiting 180 Canadian children (ages 2-10) plus Indigenous iTaukei Fijian children and adults. When presented with scenarios where a person's mind might have transferred to another body, participants relied on "agency cues"—body proximity, eye appearance, behavioral continuity—to track identity. Early-emerging dualistic inclinations appeared across both populations, suggesting the intuition isn't merely Western cultural transmission.
+
+Richert and Harris (2008) found that young children treat mental abilities and spiritual qualities as categorically distinct from the physical body. Even after children learn that brains are responsible for thinking and feeling, they continue treating mental states as somehow different from brain states—the dualistic view is present early and is later *suppressed* by explicit neuroscientific knowledge, not eliminated.
 
 Bloom's conclusion: because these cognitive mechanisms operate independently, we can conceive of minds without bodies and bodies without minds. This explains the cross-cultural prevalence of souls, spirits, and afterlife beliefs. Dualism isn't a philosophical discovery but a cognitive default.
 
@@ -136,6 +141,7 @@ Finally, the research illustrates epistemic humility. Cognitive science has reve
 - [tenets](/tenets/) - The site's foundational commitments, including Occam's Razor Has Limits
 - [materialism](/arguments/materialism/) - The physicalist position and its difficulties
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) - The site's positive framework
+- [mental-causation](/concepts/mental-causation/) - How minds interact with physical world (what dualism must explain)
 
 ## References
 

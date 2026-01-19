@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T20:35:00+00:00
+ai_modified: 2026-01-19T20:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -67,13 +67,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-19
 
-### P2: Enhance intuitive-dualism.md with cognitive science research
+## Completed Tasks
+
+### ✓ 2026-01-19: Enhance intuitive-dualism.md with cognitive science research
 - **Type**: deep-review
 - **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md covers Paul Bloom's "natural-born dualists" thesis, developmental psychology evidence, cross-cultural studies (Bering, Boyer), and eliminativist responses. The existing concepts/intuitive-dualism.md page should integrate this evidence—particularly the infant looking-time studies and the debate over whether dualism is "folk error" or cognitively fundamental. Supports Occam's Razor Has Limits tenet.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
-
-## Completed Tasks
+- **Result**: Added Chudek et al. (2018) cross-cultural children's study detail (180 Canadian children + Fijian children/adults, agency cue tracking). Added Richert & Harris (2008) brain-mind distinction finding (dualist intuitions suppressed but not eliminated by neuroscience education). Added mental-causation cross-link to concepts frontmatter and Further Reading.
+- **Output**: Updated `concepts/intuitive-dualism.md`
 
 ### ✓ 2026-01-19: Write arguments-against-materialism concept page
 - **Type**: expand-topic

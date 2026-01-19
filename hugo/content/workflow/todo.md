@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 20:35:00+00:00
+ai_modified: 2026-01-19 20:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -69,6 +69,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Enhance intuitive-dualism.md with cognitive science research
+- **Type**: deep-review
+- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md covers Paul Bloom's "natural-born dualists" thesis, developmental psychology evidence, cross-cultural studies (Bering, Boyer), and eliminativist responses. The existing concepts/intuitive-dualism.md page should integrate this evidence—particularly the infant looking-time studies and the debate over whether dualism is "folk error" or cognitively fundamental. Supports Occam's Razor Has Limits tenet.
+- **Result**: Added Chudek et al. (2018) cross-cultural children's study detail (180 Canadian children + Fijian children/adults, agency cue tracking). Added Richert & Harris (2008) brain-mind distinction finding (dualist intuitions suppressed but not eliminated by neuroscience education). Added mental-causation cross-link to concepts frontmatter and Further Reading.
+- **Output**: Updated `concepts/intuitive-dualism.md`
+
+### ✓ 2026-01-19: Write arguments-against-materialism concept page
+- **Type**: expand-topic
+- **Notes**: Research completed in research/arguments-against-materialism-2026-01-06.md. Comprehensive coverage of zombie argument, Mary's Room, explanatory gap, Kripke's modal argument, and quantum mechanical objections. Would provide unified page consolidating anti-materialist arguments currently scattered across explanatory-gap.md, knowledge-argument.md, philosophical-zombies.md. Directly supports Dualism tenet.
+- **Result**: Created ~2000 word concept page presenting seven major arguments against materialism (explanatory gap, knowledge argument, zombie argument, inverted qualia, Kripke's modal argument, Nagel's subjectivity argument, quantum mechanical considerations). Includes convergence argument showing cumulative force of independent lines of reasoning. Links to all existing detailed pages.
+- **Output**: Created `concepts/arguments-against-materialism.md`
 
 ### ✓ 2026-01-19: Cross-review mental-effort.md with attention-as-interface theory
 - **Type**: cross-review
