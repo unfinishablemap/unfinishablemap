@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-18 23:00:00+00:00
+ai_modified: 2026-01-19 04:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,8 +16,9 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[sleep-and-consciousness]]'
 - '[[filter-theory]]'
+- '[[phenomenal-unity]]'
 created: 2026-01-14
-date: &id001 2026-01-18
+date: &id001 2026-01-19
 draft: false
 human_modified: null
 last_curated: null
@@ -249,6 +250,7 @@ The binding problem illuminates why the site's [tenets](/tenets/) take the posit
 
 ## Further Reading
 
+- [phenomenal-unity](/concepts/phenomenal-unity/) — Why experience is unified rather than fragmentary
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms by which consciousness might interface with quantum physics
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's approach to unity through integration
 - [decoherence](/concepts/decoherence/) — Why quantum effects might persist in biological systems

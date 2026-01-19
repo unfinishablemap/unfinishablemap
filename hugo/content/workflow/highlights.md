@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-01-18T04:16:25.439984'
+ai_modified: '2026-01-19T01:16:36.587635'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-01-18'
+date: '2026-01-19'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-01-18'
+modified: '2026-01-19'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from the site's ongoi
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-01-19: Phenomenal Unity: Why Experience Is One
+
+New concept page explores why consciousness comes as integrated wholes rather than separate streams—and why quantum entanglement may be the only physics that can explain it.
+
+**Type**: new-article  
+**Link**: [phenomenal-unity](/concepts/phenomenal-unity/)
+
+---
+
 ### 2026-01-18: Multi-Mind Collapse Problem
 
 New concept page explains how multiple conscious observers coordinate quantum selections—they don't need to. Each mind modulates only its own brain.
