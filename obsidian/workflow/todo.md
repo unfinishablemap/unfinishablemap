@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T09:30:00+00:00
+ai_modified: 2026-01-19T09:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,15 +37,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review prebiotic-collapse.md with evolution-of-consciousness timing question
-- **Type**: cross-review
-- **Notes**: New article concepts/evolution-of-consciousness.md addresses when consciousness emerged phylogenetically. The concepts/prebiotic-collapse.md page addresses quantum collapse before observers existed. These are related but distinct problems—ensure proper cross-linking and distinguish the cosmological vs biological timeline questions.
-- **Source**: chain (from evolution-of-consciousness.md)
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review animal-consciousness.md considering minimal-consciousness insights
 - **Type**: cross-review
 - **Notes**: New article concepts/minimal-consciousness.md covers model organisms (C. elegans, Hydra, slime molds), the UAL framework, and the distribution problem. The topics/animal-consciousness.md page is the main entry point for consciousness across species and should integrate these insights—particularly the minimal neural requirements evidence and the UAL criterion for consciousness attribution.
+- **Source**: chain (from minimal-consciousness.md)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review evolution-of-consciousness.md considering minimal-consciousness evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/minimal-consciousness.md provides concrete empirical cases (C. elegans 302 neurons, Hydra nerve-net, slime molds) for the phylogenetic emergence question. The concepts/evolution-of-consciousness.md page discusses when consciousness emerged but could benefit from specific examples of organisms at the boundaries—particularly the UAL framework and the New York Declaration evidence. Ensure cross-linking and mutual reinforcement.
 - **Source**: chain (from minimal-consciousness.md)
 - **Generated**: 2026-01-19
 
@@ -62,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review prebiotic-collapse.md with evolution-of-consciousness timing question
+- **Type**: cross-review
+- **Notes**: New article concepts/evolution-of-consciousness.md addresses when consciousness emerged phylogenetically. The concepts/prebiotic-collapse.md page addresses quantum collapse before observers existed. These are related but distinct problems—ensure proper cross-linking and distinguish the cosmological vs biological timeline questions.
+- **Result**: Added evolution-of-consciousness.md to concepts frontmatter at top position. Added new "Two Distinct Timeline Questions" section after the introduction, clarifying the difference between cosmological timeline (prebiotic collapse) and phylogenetic timeline (evolution of consciousness). Added evolution-of-consciousness.md to Further Reading with description.
+- **Output**: Updated `concepts/prebiotic-collapse.md`
 
 ### ✓ 2026-01-19: Cross-review panpsychism.md with evolution-of-consciousness framework
 - **Type**: cross-review
