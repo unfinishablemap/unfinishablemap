@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 04:20:00+00:00
+ai_modified: 2026-01-20 01:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,10 +38,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review functionalism.md with substrate-independence-critique insights
+### P2: Cross-review hard-problem-of-consciousness.md with reductionism insights
 - **Type**: cross-review
-- **Notes**: New article concepts/substrate-independence-critique.md presents systematic case against substrate independence: absent qualia, temporal structure, quantum interface. The functionalism.md page defends functionalism and should be reviewed for balance—add cross-link and consider whether counterarguments need strengthening or acknowledgment.
-- **Source**: chain (from substrate-independence-critique.md)
+- **Notes**: New article concepts/reductionism.md distinguishes ontological, methodological, and epistemic reductionism. The hard-problem topic discusses why consciousness resists physical explanation—integrating the reductionism framework could strengthen the case by showing which type of reduction fails and why. Add cross-link and check for argument synergies.
+- **Source**: chain (from reductionism.md)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review emergence.md with reductionism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/reductionism.md covers ontological reductionism, Kim's exclusion argument, and how the site's quantum framework responds. The emergence.md concept page discusses strong emergence and non-reductive physicalism—integrating explicit reductionism distinctions could clarify why emergentism labels rather than explains. Add cross-link and ensure consistent terminology.
+- **Source**: chain (from reductionism.md)
 - **Generated**: 2026-01-19
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -63,6 +69,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Write concept page on dualism
+- **Type**: expand-topic
+- **Notes**: Gap analysis found [dualism](/concepts/dualism/) is referenced but no overview page exists. Dualism is Tenet 1 of the site, yet only variant pages exist (interactionist-dualism.md, substance-property-dualism.md, intuitive-dualism.md). Should create foundational overview explaining what dualism is, the main variants, and why the site adopts it.
+- **Result**: Created ~1800 word foundational concept page covering: what dualism claims (ontological distinction between mind and matter), the two main varieties (substance vs property dualism), the four main arguments (explanatory gap, conceivability, knowledge argument, qualia), dualism and interaction (interactionism vs epiphenomenalism vs parallelism), major objections and responses, and relation to site perspective. Comprehensive cross-linking to variant pages and detailed concept pages.
+- **Output**: Created `concepts/dualism.md`
+
+### ✓ 2026-01-19: Cross-review functionalism.md with substrate-independence-critique insights
+- **Type**: cross-review
+- **Notes**: New article concepts/substrate-independence-critique.md presents systematic case against substrate independence: absent qualia, temporal structure, quantum interface. The functionalism.md page defends functionalism and should be reviewed for balance—add cross-link and consider whether counterarguments need strengthening or acknowledgment.
+- **Result**: Added new "Temporal Structure Objection" subsection to "Relation to This Site's Perspective" section, covering: specious present and retention/protention, why digital computation lacks temporal binding, Hoel's frozen weights criterion, and link to full argument in substrate-independence-critique.md. The article already had substrate-independence-critique in concepts and Further Reading. Added temporal-consciousness to concepts frontmatter.
+- **Output**: Updated `concepts/functionalism.md`
 
 ### ✓ 2026-01-19: Cross-review eastern-philosophy-consciousness.md with witness-consciousness expansion
 - **Type**: cross-review
