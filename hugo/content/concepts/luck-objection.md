@@ -1,16 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-19 00:00:00+00:00
+ai_modified: 2026-01-19 05:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[quantum-indeterminacy-free-will]]'
 - '[[agent-causation]]'
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
 - '[[retrocausality]]'
 - '[[interactionist-dualism]]'
 - '[[philosophical-zombies]]'
+- '[[motor-selection]]'
 created: 2026-01-18
 date: &id001 2026-01-18
 draft: false
@@ -76,6 +78,10 @@ SFAs form character. By making undetermined character-forming choices, agents be
 
 The indeterminism at SFAs grounds what Kane calls "ultimate responsibility"—the agent, through past undetermined choices, shaped the self that now chooses.
 
+### Kane's 2024 Evolution
+
+Kane's 2024 *Complex Tapestry of Free Will* represents significant development. He now explicitly incorporates agent-causal elements alongside the event-causal framework, arguing that free action requires agents "exercising teleological guidance control over some of their processes." This convergence with [agent-causal](/concepts/agent-causation/) positions suggests the event-causal/agent-causal divide may be less fundamental than previously thought. See [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) for how this convergence integrates with the quantum Zeno mechanism.
+
 ### Criticisms of Kane
 
 Mele objects that dual efforts are phenomenologically implausible. We don't typically experience simultaneous efforts toward incompatible options. The phenomenology of choice is usually single-minded, not divided.
@@ -121,6 +127,12 @@ The [phenomenology of effort](/concepts/mental-effort/) supports the selection p
 But choosing feels effortful. Sustaining attention requires ongoing engagement. William James documented that "sustained voluntary attention is a repetition of successive efforts." The felt cost of concentration corresponds to real causal engagement—consciousness working to hold preferred patterns in place via the [quantum Zeno effect](/concepts/quantum-consciousness/#the-quantum-zeno-effect).
 
 This phenomenology distinguishes selection from luck. Lucky events don't feel like achievements; selections do. The agent knows they're doing something, not merely observing random outcomes.
+
+### Motor Selection: Independent Corroboration
+
+The attention-based quantum Zeno mechanism finds corroboration in [motor control](/concepts/motor-selection/). Willed movement shows the same neural signatures as willed attention: frontal theta oscillations, ~300ms deployment time, and distinct signatures for willed versus instructed action. Two independent domains—attention and motor selection—exhibiting identical selection architecture strengthens the case that consciousness genuinely selects rather than passively receiving random outcomes.
+
+If the luck objection were correct—if quantum indeterminacy merely produced random outcomes—we wouldn't expect two functionally distinct systems to show identical evidence of guided selection. The convergence suggests both domains instantiate the same consciousness-directed selection mechanism.
 
 ### The Zombie Objection and Its Question-Begging Character
 
@@ -196,8 +208,10 @@ Together, these commitments transform quantum indeterminism from a source of luc
 
 ## Further Reading
 
+- [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Comprehensive systematization of how quantum indeterminacy supports libertarian free will, including Kane's 2024 convergence and the motor selection evidence
 - [free-will](/topics/free-will/) — The broader treatment of free will and determinism
 - [agent-causation](/concepts/agent-causation/) — How agents cause actions as substances, not just event chains
+- [motor-selection](/concepts/motor-selection/) — Motor control as a second domain showing identical selection architecture
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and its quantum Zeno mechanism
 - [retrocausality](/concepts/retrocausality/) — How atemporal selection may work
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The broader framework for consciousness-physics interaction
