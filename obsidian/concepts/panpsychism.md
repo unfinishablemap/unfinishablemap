@@ -1,9 +1,9 @@
 ---
 title: "Panpsychism"
 created: 2026-01-08
-modified: 2026-01-08
+modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-19T21:30:00+00:00
+ai_modified: 2026-01-20T00:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,6 +14,8 @@ concepts:
   - "[[russellian-monism]]"
   - "[[combination-problem]]"
   - "[[analytic-idealism]]"
+  - "[[buddhism-and-dualism]]"
+  - "[[mysterianism]]"
 related_articles:
   - "[[tenets]]"
   - "[[panpsychism-consciousness-2026-01-08]]"
@@ -23,6 +25,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-08
 last_curated: null
+last_deep_review: 2026-01-20T00:30:00+00:00
 ---
 
 Panpsychism holds that consciousness is a fundamental and ubiquitous feature of reality—all matter has some experiential quality. An electron doesn't merely have mass and charge; it has something it's like to be that electron. This view has experienced a resurgence in contemporary philosophy of mind, championed by thinkers like Galen Strawson and Philip Goff.
@@ -45,9 +48,17 @@ This is elegant. It solves the hard problem by denying consciousness emerges at 
 
 Panpsychism also addresses the [[prebiotic-collapse|prebiotic collapse problem]]: if consciousness participates in quantum measurement, what collapsed wavefunctions before any biological minds existed? For panpsychists, this is no problem—proto-conscious properties were present from the universe's beginning. The [[evolution-of-consciousness|evolutionary emergence of complex minds]] didn't create consciousness from nothing; it organised pre-existing experiential properties into integrated subjects.
 
+### Whitehead and the Process Tradition
+
+Before contemporary panpsychism, Alfred North Whitehead developed a sophisticated process philosophy that treats experience as fundamental. In *Process and Reality* (1929), Whitehead proposed that reality consists of "actual occasions"—momentary experiential events that perish and give rise to successors. Even the simplest physical process involves "prehension"—a primitive form of experience by which occasions take account of their predecessors.
+
+Whitehead's influence runs through contemporary panpsychism. His rejection of "vacuous actuality" (matter without any experiential aspect) anticipates Strawson's argument that non-experiential matter is incoherent. His "actual occasions" prefigure micro-experiences. The combination problem is implicit in his account of how occasions "synthesize" into complex organisms.
+
+The process tradition suggests panpsychism needn't treat micro-experiences as static properties; they might be dynamic events. This reframes the combination problem: not "how do things combine?" but "how do experiential *processes* flow into unified streams?"
+
 ### Russellian Panpsychism and Its Variants
 
-[[russellian-monism|Russellian panpsychism]] (named after Bertrand Russell's insight) provides the most developed theoretical framework for panpsychism. Russell and Eddington observed that physics describes only the *relational* properties of matter—what things do to each other—leaving intrinsic nature unspecified. Mass describes gravitational and inertial behavior; charge describes electromagnetic interactions. But what *is* the stuff that has these dispositions? Physics doesn't say. These hidden intrinsic properties are called *quiddities*.
+[[russellian-monism|Russellian panpsychism]] (named after Bertrand Russell's insight) provides the most developed theoretical framework for contemporary panpsychism. Russell and Eddington observed that physics describes only the *relational* properties of matter—what things do to each other—leaving intrinsic nature unspecified. Mass describes gravitational and inertial behavior; charge describes electromagnetic interactions. But what *is* the stuff that has these dispositions? Physics doesn't say. These hidden intrinsic properties are called *quiddities*.
 
 Panpsychists propose that consciousness—or something proto-conscious—is what quiddities are. The view splits into two main variants:
 
@@ -138,6 +149,20 @@ However, IIT faces its own version of the combination problem. High-phi systems 
 
 For the site's framework, IIT is instructive but incomplete. It takes consciousness seriously as fundamental (aligning with the Dualism tenet) but identifies it with physical structure rather than treating it as causally efficacious over and above physics (conflicting with Bidirectional Interaction). If consciousness *is* integrated information, it doesn't *do* anything separate from the physical—it *is* the physical in a certain configuration.
 
+## Can Panpsychism Be Tested?
+
+A common objection: panpsychism seems unfalsifiable. If every physical system has experience, and we can't access that experience from outside, how could we ever know panpsychism is false?
+
+**Weak falsifiability**: Panpsychism would be refuted if consciousness demonstrably emerged from wholly non-conscious matter—but this is precisely what panpsychists deny is possible. The hard problem itself is the argument against this scenario.
+
+**Stronger testability via IIT**: Integrated Information Theory generates specific predictions. If we could precisely measure phi in various systems, we could test IIT's panpsychist implications. Systems with zero phi should have no experience. Current measurement limitations make this difficult, but in principle the theory is empirical.
+
+**Behavioral markers**: The UAL (Unlimited Associative Learning) framework offers behavioral tests for consciousness attribution. If panpsychism predicts consciousness wherever there's integration, but UAL markers appear only in certain organisms, we face a tension. Current evidence shows this: C. elegans has positive phi but fails UAL criteria. Either panpsychism is wrong about C. elegans, or UAL is wrong about consciousness markers—or consciousness admits of degrees with UAL detecting only "higher" forms.
+
+**The cognitive closure challenge**: [[mysterianism|Mysterians]] argue we may lack the cognitive equipment to resolve these questions. If the combination problem is permanently beyond human understanding (as McGinn suggests about the mind-body problem generally), then panpsychism's truth or falsity might be beyond our epistemic reach. This doesn't make the question meaningless—just potentially unanswerable by minds like ours.
+
+The honest assessment: panpsychism is difficult to test directly. But this is true of all fundamental positions on consciousness. Physicalism, dualism, and idealism all face the challenge that consciousness is accessible only from the first person. The question is which view best explains what we can observe while remaining coherent about what we cannot.
+
 ## Evaluating the Positions
 
 Panpsychism's advantage is avoiding interaction problems. If consciousness is what matter is, there's no gap for causal influence to cross. But the combination problem is serious, and some find it unintuitive that electrons have experiences.
@@ -161,6 +186,8 @@ But the site thinks interactionist dualism offers a cleaner solution. Consciousn
 - [[combination-problem]] — The central challenge facing panpsychism
 - [[russellian-monism]] — The most developed theoretical framework for panpsychism
 - [[analytic-idealism]] — An alternative anti-physicalist view that claims to avoid the combination problem
+- [[buddhism-and-dualism]] — Buddhist no-self perspectives on subjects and experience
+- [[mysterianism]] — Whether the combination problem exceeds cognitive limits
 - [[prebiotic-collapse]] — The problem of quantum collapse before biological minds
 - [[hard-problem-of-consciousness]] — The central puzzle both views address
 - [[panpsychism-consciousness-2026-01-08]] — Detailed research notes
@@ -168,7 +195,10 @@ But the site thinks interactionist dualism offers a cleaner solution. Consciousn
 
 ## References
 
-- Strawson, G. (2006). Realistic Monism: Why Physicalism Entails Panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
-- Goff, P. (2019). *Galileo's Error: Foundations for a New Science of Consciousness*. Pantheon.
 - Chalmers, D. (2015). Panpsychism and Panprotopsychism. In *Consciousness in the Physical World*. Oxford University Press.
+- Goff, P. (2019). *Galileo's Error: Foundations for a New Science of Consciousness*. Pantheon.
 - Nagel, T. (1979). Panpsychism. In *Mortal Questions*. Cambridge University Press.
+- Nagel, T. (2012). *Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False*. Oxford University Press.
+- Seager, W. (1995). Consciousness, Information and Panpsychism. *Journal of Consciousness Studies*, 2(3), 272-288.
+- Strawson, G. (2006). Realistic Monism: Why Physicalism Entails Panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
+- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
