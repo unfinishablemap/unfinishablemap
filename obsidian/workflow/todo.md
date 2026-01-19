@@ -75,6 +75,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+### ✓ 2026-01-19: Cross-review hard-problem-of-consciousness.md with substrate-independence-critique insights
+- **Type**: cross-review
+- **Notes**: New article concepts/substrate-independence-critique.md provides detailed arguments against substrate independence: absent qualia, temporal structure requirements, quantum interface hypothesis. The hard-problem.md topic discusses why consciousness resists physical explanation but could integrate the substrate critique—particularly how the temporal and quantum arguments strengthen the case that consciousness isn't multiply realizable.
+- **Result**: Added new "Substrate Independence Fails" subsection to Materialist Responses section, explaining how the explanatory gap entails substrate skepticism. Key points: (1) If physical facts don't explain phenomenal facts, functional organization doesn't either; (2) Block's China brain argument applies directly to AI; (3) The hard problem entails that substrate matters—temporal structure and quantum properties may be among what brains have and digital computers lack. Added substrate-independence-critique to concepts frontmatter and Further Reading (top position).
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
 ### ✓ 2026-01-19: Cross-review free-will.md considering consciousness-and-creativity insights
 - **Type**: cross-review
 - **Notes**: New article concepts/consciousness-and-creativity.md explores the synthesis view—consciousness both generates and selects, unified aspects of a single creative process. The free-will.md topic discusses consciousness as selector but could integrate the creativity framework—if consciousness generates novel possibilities (not just selects among them), this strengthens the case for genuine causal contribution. Add cross-link and consider whether Bergson's creative duration perspective enriches the free will discussion.
