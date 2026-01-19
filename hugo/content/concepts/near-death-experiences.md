@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-15 23:50:00+00:00
+ai_modified: 2026-01-19 07:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[altered-states-of-consciousness]]'
 - '[[qualia]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[quantum-consciousness]]'
@@ -47,6 +48,10 @@ The terminology shift matters. "Near-death" suggests the experience might occur 
 
 ## Major Research Studies
 
+### UVA Division of Perceptual Studies
+
+Bruce Greyson at the University of Virginia has documented over 1,000 NDE cases across 50+ years of research—the longest-running systematic investigation. Common findings: experiencers report "mind functioning more clearly and rapidly than usual" during states where normal awareness shouldn't be possible. The phenomenology is remarkably consistent across cultures, age groups, and circumstances.
+
 ### Van Lommel (2001) - The Lancet
 
 The first rigorous prospective study: 344 cardiac arrest survivors across 10 Dutch hospitals. Findings:
@@ -67,11 +72,13 @@ Sam Parnia's multi-center study: 567 cardiac arrests across 25 hospitals, with 2
 
 The EEG finding is significant. Consciousness-consistent brain patterns appeared during CPR when brain function should be deeply suppressed. This doesn't prove consciousness is independent of the brain, but it demonstrates that the brain-consciousness relationship during dying is more complex than expected.
 
-### Gamma Surge Studies (2024)
+### Gamma Surge Studies (2023-2024)
 
-A University of Michigan study documented "end-of-life surge"—previously observed only in rats—in dying humans. Two of four patients showed gamma wave surges in the temporal-parietal junction (regions associated with conscious processing) after life support removal. These patients did not survive to report experiences.
+Jimo Borjigin's University of Michigan team documented the first human evidence of "end-of-life surge"—previously observed only in rats. Two of four dying patients showed gamma wave surges in the temporal-parietal-occipital junction (regions associated with out-of-body experiences and conscious processing) after life support removal. The surges occurred within minutes of cardiac arrest. These patients did not survive to report experiences, so the subjective correlate remains unknown.
 
 The finding is ambiguous. Gamma surges might *cause* NDEs, demonstrating that vivid experience results from final brain activity. Or they might merely *accompany* experiences whose source lies elsewhere. The correlation doesn't establish causation.
+
+Peter Fenwick, a major NDE researcher who died in November 2024, argued throughout his career that such brain activity during dying doesn't explain the coherent narratives and veridical perceptions some experiencers report. The gamma surge provides a neural correlate but leaves the explanatory gap intact.
 
 ## Veridical Perception Cases
 
@@ -125,6 +132,7 @@ The site doesn't claim NDEs prove survival. What they demonstrate is that the br
 
 ## Further Reading
 
+- [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — NDEs as the extreme case of interface reconfiguration
 - [death-and-consciousness](/topics/death-and-consciousness/) — The broader question of consciousness and mortality
 - [filter-theory](/concepts/filter-theory/) — The transmission model that explains the paradox of heightened experience
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms at the consciousness-physics interface

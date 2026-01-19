@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 06:40:00+00:00
+ai_modified: 2026-01-19 06:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review hard-problem-of-consciousness.md with dualism foundational overview
-- **Type**: cross-review
-- **Notes**: New article concepts/dualism.md provides foundational overview of what dualism claims, the main varieties (substance vs property), the four main arguments (explanatory gap, conceivability, knowledge argument, qualia), and relation to site tenets. The hard-problem-of-consciousness.md topic page is the site's primary entry point for why consciousness is philosophically difficult—it should link to the foundational dualism page where the hard problem is presented as the motivating evidence for dualism.
-- **Source**: chain (from dualism.md)
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review personal-identity.md for Parfit treatment completeness
 - **Type**: cross-review
 - **Notes**: The parfit-reductionism.md page was linked from personal-identity.md but the topic page may benefit from fuller engagement with Parfit's arguments now that a dedicated page exists. Check for redundancy or gaps.
@@ -63,11 +57,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
-### P3: Write article on valence and affective phenomenology
+### P2: Write article on valence and affective phenomenology
 - **Type**: expand-topic
 - **Notes**: Optimistic review 2026-01-19 identified opportunity. Why do emotions *feel* good or bad? Valence is irreducible phenomenology that deserves dedicated treatment. Builds on phenomenal-value-realism.md, emotional-consciousness.md, qualia.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-19
+- **Promoted**: 2026-01-19 (queue replenishment - strong tenet support for dualism)
 
 ### P3: Write article on evolution of consciousness
 - **Type**: expand-topic
@@ -82,6 +77,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review hard-problem-of-consciousness.md with dualism foundational overview
+- **Type**: cross-review
+- **Notes**: New article concepts/dualism.md provides foundational overview of what dualism claims, the main varieties (substance vs property), the four main arguments (explanatory gap, conceivability, knowledge argument, qualia), and relation to site tenets. The hard-problem-of-consciousness.md topic page is the site's primary entry point for why consciousness is philosophically difficult—it should link to the foundational dualism page where the hard problem is presented as the motivating evidence for dualism.
+- **Result**: Added dualism.md to concepts frontmatter at top position. Added reference in "Relation to This Site's Perspective" section linking to the foundational dualism page explaining what dualism claims, main varieties, and four converging arguments. Added dualism.md at top of Further Reading section with description.
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
+
+### ✓ 2026-01-19: Update near-death-experiences.md with 2024-2025 research
+- **Type**: cross-review
+- **Notes**: Research completed in research/near-death-experiences-consciousness-2026-01-15.md contains significant updates: AWARE II 2023 prospective study results, veridical perception cases with new methodology, gamma surge evidence (Xu et al. 2023), RED terminology guidelines from Greyson. The existing near-death-experiences.md concept page needs integration of this recent empirical evidence. Strengthens Bidirectional Interaction tenet.
+- **Result**: Article already contained most 2024-2025 research. Added: (1) UVA Division of Perceptual Studies section with Greyson's 50+ years of research, (2) Peter Fenwick note (died November 2024), (3) Jimo Borjigin attribution for gamma surge study, (4) Temporal-parietal-occipital junction detail, (5) altered-states-of-consciousness cross-link in concepts and Further Reading.
+- **Output**: Updated `concepts/near-death-experiences.md`
+
+### ✓ 2026-01-19: Write article on altered states of consciousness framework
+- **Type**: expand-topic
+- **Notes**: Research completed in research/altered-states-consciousness-2026-01-19.md. Comprehensive framework covering psychedelics, anesthesia, meditation, flow, and hypnosis through filter theory lens. Currently no unified treatment of ASCs on the site—meditation-and-consciousness-modes.md and sleep-and-consciousness.md cover specific cases but lack the unifying framework. Supports Minimal Quantum Interaction and Bidirectional Interaction tenets by showing how interface reconfiguration produces diverse phenomenological signatures.
+- **Result**: Article already exists—concepts/altered-states-of-consciousness.md was created 2026-01-18 with comprehensive ~2000 word coverage of psychedelics, flow, hypnosis, meditation, and NDEs through filter theory lens. The research was consumed in a previous session. Task marked complete.
+- **Output**: Already exists: `concepts/altered-states-of-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review interactionist-dualism.md with psychophysical laws framework
 - **Type**: cross-review
