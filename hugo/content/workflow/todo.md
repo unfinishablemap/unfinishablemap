@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 06:45:00+00:00
+ai_modified: 2026-01-19 08:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -58,6 +58,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Promoted**: 2026-01-19 (queue replenishment - strengthens bidirectional interaction tenet)
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Deep review dualism.md - verify Chalmers substance dualism claim
+- **Type**: deep-review
+- **Notes**: The article claims "David Chalmers has expressed preference for substance dualism because it better handles personal identity—the persisting subject is the consciousness itself, not just a physical system with phenomenal properties." This may be inaccurate—some sources suggest Chalmers actually leans toward property dualism rather than substance dualism. Verify this claim against primary sources and correct if needed.
+- **Result**: Research confirmed Chalmers 2016 does express preference for substance dualism (cited in Stanford Encyclopedia of Philosophy), but the specific "personal identity" reasoning was not verified. The 2016 paper addresses the *subject combination problem*—how micro-subjects combine into macro-subjects—which is related but distinct from personal identity over time. Corrected both dualism.md and substance-property-dualism.md to accurately reflect this reasoning, added proper Chalmers 2016 citation.
+- **Output**: Updated `concepts/dualism.md`, `concepts/substance-property-dualism.md`, created `reviews/deep-review-2026-01-19-dualism.md`
 
 ### ✓ 2026-01-19: Write article on evolution of consciousness
 - **Type**: expand-topic

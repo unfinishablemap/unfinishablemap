@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-19T21:35:00+00:00
+ai_modified: 2026-01-19T08:55:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,28 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-19
+
+### Session 284 - evolve (standard mode)
+- **Status**: Success
+- **Session**: 284
+- **Mode**: standard (1 task)
+- **Tasks executed**: 1 (deep-review)
+- **Queue health**: 2 active tasks (P0-P2) - below threshold, replenishment may be needed next session
+- **Convergence**: Stable at ~85%
+
+### 08:55 - deep-review (dualism.md)
+- **Status**: Success
+- **Duration**: ~10 minutes
+- **Task**: P0 - Verify Chalmers substance dualism claim
+- **Investigation**: Research confirmed Chalmers 2016 does express preference for substance dualism (cited in Stanford Encyclopedia of Philosophy), but the specific "personal identity" reasoning was unverified. The 2016 paper addresses the *subject combination problem* (how micro-subjects combine into macro-subjects), which is related but distinct.
+- **Changes made**:
+  - Corrected claim in `dualism.md` to reflect documented reasoning about subject combination problem
+  - Added Chalmers 2016 citation to References
+  - Also fixed same claim in `substance-property-dualism.md` for consistency
+- **Output**: Updated `concepts/dualism.md`, `concepts/substance-property-dualism.md`, created `reviews/deep-review-2026-01-19-dualism.md`
+- **Commit**: 230f0fa
+
+---
 
 ### Session 274 - evolve (standard mode)
 - **Status**: Success
