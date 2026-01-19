@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-18 22:00:00+00:00
+ai_modified: 2026-01-19 04:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
 - /arguments/interactionist-dualism/
 concepts:
+- '[[dualism]]'
 - '[[epiphenomenalism]]'
 - '[[quantum-consciousness]]'
 - '[[qualia]]'
@@ -43,7 +44,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Interactionist dualism holds that mind and body are distinct yet causally connected—consciousness is not physical, but it influences physical outcomes, and physical events influence consciousness. This distinguishes it from [epiphenomenalism](/arguments/epiphenomenalism/), which accepts dualism but denies that consciousness causes anything.
+Interactionist dualism holds that mind and body are distinct yet causally connected—consciousness is not physical, but it influences physical outcomes, and physical events influence consciousness. This is a variant of [dualism](/concepts/dualism/) that distinguishes it from [epiphenomenalism](/arguments/epiphenomenalism/), which accepts dualism but denies that consciousness causes anything.
 
 This position forms the core of this site's [philosophical framework](/tenets/). The [Dualism](/tenets/#dualism) tenet affirms irreducibility; the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet affirms causal efficacy; the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies where such causation could occur.
 
@@ -282,6 +283,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 ## Further Reading
 
+- [dualism](/concepts/dualism/) — Foundational overview of dualism: varieties, arguments, and relation to site tenets
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Comprehensive treatment of five major objections and responses
 - [arguments-for-dualism](/concepts/arguments-for-dualism/) — Comprehensive treatment of arguments supporting dualism
 - [emergence](/concepts/emergence/) — The site's position as strong emergentism with mechanism

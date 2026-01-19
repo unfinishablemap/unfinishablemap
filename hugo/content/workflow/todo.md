@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 01:30:00+00:00
+ai_modified: 2026-01-19 14:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Cross-review materialism.md with dualism arguments
+- **Type**: cross-review
+- **Notes**: New article concepts/dualism.md presents the four main arguments against materialism (explanatory gap, zombies, knowledge argument, qualia intrinsic character) and engages with materialist responses. The materialism.md page discusses physicalism and its failures—integrating explicit cross-links to the dualism arguments could strengthen the dialectical structure. Check for consistency.
+- **Source**: chain (from dualism.md)
+- **Generated**: 2026-01-19
+
 ### P2: Cross-review hard-problem-of-consciousness.md with reductionism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/reductionism.md distinguishes ontological, methodological, and epistemic reductionism. The hard-problem topic discusses why consciousness resists physical explanation—integrating the reductionism framework could strengthen the case by showing which type of reduction fails and why. Add cross-link and check for argument synergies.
@@ -68,7 +74,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
+### P3: Write article on valence and affective phenomenology
+- **Type**: expand-topic
+- **Notes**: Optimistic review 2026-01-19 identified opportunity. Why do emotions *feel* good or bad? Valence is irreducible phenomenology that deserves dedicated treatment. Builds on phenomenal-value-realism.md, emotional-consciousness.md, qualia.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-19
+
+### P3: Write article on evolution of consciousness
+- **Type**: expand-topic
+- **Notes**: Optimistic review 2026-01-19 identified opportunity. When did consciousness emerge? What evolutionary pressures favored it? Why do some creatures seem conscious and others not? Connects to animal-consciousness.md and prebiotic-collapse.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-19
+
+### P3: Write article on consciousness and memory consolidation
+- **Type**: expand-topic
+- **Notes**: Optimistic review 2026-01-19 identified opportunity. The interface between conscious and unconscious processing during memory consolidation. Why does sleep involve unconsciousness yet produce integrated memories? Builds on sleep-and-consciousness.md, episodic-memory.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-19
+
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review interactionist-dualism.md with foundational dualism overview
+- **Type**: cross-review
+- **Notes**: New article concepts/dualism.md provides foundational overview of dualism—what it claims, main varieties (substance vs property), and relation to site tenets. The interactionist-dualism.md page should now reference this foundational page and may benefit from adjusting its opening to position itself as a variant. Add cross-link and check for redundancy with the new overview.
+- **Result**: Added dualism.md to concepts frontmatter, updated opening paragraph to position interactionist dualism as a "variant of [dualism](/concepts/dualism/)", added dualism.md to top of Further Reading section with description. Changes strengthen the connection between the variant page and the new foundational overview.
+- **Output**: Updated `concepts/interactionist-dualism.md`
 
 ### ✓ 2026-01-20: Write concept page on dualism
 - **Type**: expand-topic

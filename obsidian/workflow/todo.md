@@ -73,6 +73,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
+### P3: Write article on valence and affective phenomenology
+- **Type**: expand-topic
+- **Notes**: Optimistic review 2026-01-19 identified opportunity. Why do emotions *feel* good or bad? Valence is irreducible phenomenology that deserves dedicated treatment. Builds on phenomenal-value-realism.md, emotional-consciousness.md, qualia.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-19
+
+### P3: Write article on evolution of consciousness
+- **Type**: expand-topic
+- **Notes**: Optimistic review 2026-01-19 identified opportunity. When did consciousness emerge? What evolutionary pressures favored it? Why do some creatures seem conscious and others not? Connects to animal-consciousness.md and prebiotic-collapse.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-19
+
+### P3: Write article on consciousness and memory consolidation
+- **Type**: expand-topic
+- **Notes**: Optimistic review 2026-01-19 identified opportunity. The interface between conscious and unconscious processing during memory consolidation. Why does sleep involve unconsciousness yet produce integrated memories? Builds on sleep-and-consciousness.md, episodic-memory.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-19
+
 ## Completed Tasks
 
 ### ✓ 2026-01-19: Cross-review interactionist-dualism.md with foundational dualism overview
