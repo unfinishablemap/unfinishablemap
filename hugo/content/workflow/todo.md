@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 04:51:00+00:00
+ai_modified: 2026-01-19 04:58:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review hard-problem-of-consciousness.md with reductionism insights
-- **Type**: cross-review
-- **Notes**: New article concepts/reductionism.md distinguishes ontological, methodological, and epistemic reductionism. The hard-problem topic discusses why consciousness resists physical explanation—integrating the reductionism framework could strengthen the case by showing which type of reduction fails and why. Add cross-link and check for argument synergies.
-- **Source**: chain (from reductionism.md)
-- **Generated**: 2026-01-19
 
 ### P2: Cross-review emergence.md with reductionism insights
 - **Type**: cross-review
@@ -87,6 +81,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review hard-problem-of-consciousness.md with reductionism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/reductionism.md distinguishes ontological, methodological, and epistemic reductionism. The hard-problem topic discusses why consciousness resists physical explanation—integrating the reductionism framework could strengthen the case by showing which type of reduction fails and why. Add cross-link and check for argument synergies.
+- **Result**: Added reductionism.md to concepts frontmatter. Integrated cross-links in the Materialist Responses section: reductive physicalism now links to reductionism page with anchor to explanatory gap section, non-reductive physicalism now references reductionism for epistemic reduction failure. Added reductionism to Further Reading section with description.
+- **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review materialism.md with dualism arguments
 - **Type**: cross-review
