@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 10:06:00+00:00
+ai_modified: 2026-01-19 10:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review binding-problem.md with quantum entanglement findings
-- **Type**: cross-review
-- **Notes**: Research completed in neural-binding-quantum-entanglement-2026-01-19.md provides significant 2024-2025 experimental evidence: microtubule-stabilizing drugs delay anesthesia, MRI detects entanglement signatures correlating with working memory, quantum effects survive longer than Tegmark calculated. The binding-problem.md page should integrate these findings for the quantum vs classical binding debate.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
-
 ### P2: Write concept page on Buddhist perspectives and dualism
 - **Type**: expand-topic
 - **Notes**: Research completed in research/buddhist-perspectives-meaning-2026-01-06.md. Eastern philosophy offers distinctive perspective on consciousness—no-self doctrine, dependent origination, streams of consciousness. Research identifies 5 article angles including Buddhism and the Hard Problem, No-Self vs Dualism reconciliation, and Eastern/Western responses to nihilism. Would strengthen eastern-philosophy-consciousness.md connections and provide alternative framework for consciousness discussions.
 - **Source**: unconsumed_research
+- **Generated**: 2026-01-19
+
+### P2: Cross-review phenomenal-unity.md with minimal-consciousness boundary cases
+- **Type**: cross-review
+- **Notes**: New article concepts/minimal-consciousness.md provides examples of organisms that may lack unified experience (Hydra's decentralized nerve net, slime molds without neurons). The concepts/phenomenal-unity.md page discusses what makes consciousness unified; these boundary cases offer empirical tests for unity theories.
+- **Source**: chain (from minimal-consciousness.md)
 - **Generated**: 2026-01-19
 
 ### P3: Deep review analytic-idealism.md for currency and cross-links
@@ -63,6 +63,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review binding-problem.md with quantum entanglement findings
+- **Type**: cross-review
+- **Notes**: Research completed in neural-binding-quantum-entanglement-2026-01-19.md provides significant 2024-2025 experimental evidence: microtubule-stabilizing drugs delay anesthesia, MRI detects entanglement signatures correlating with working memory, quantum effects survive longer than Tegmark calculated. The binding-problem.md page should integrate these findings for the quantum vs classical binding debate.
+- **Result**: Added Baum's Quantum Binding Argument (zero-lag gamma synchrony requires quantum non-locality) and Neven's entanglement-as-binding-agent argument to strengthen the quantum vs classical binding case. Added Baum reference to References section.
+- **Output**: Updated `concepts/binding-problem.md`
+
+### ✓ 2026-01-19: Cross-review emergence.md with evolution-of-consciousness framework
+- **Type**: cross-review
+- **Notes**: New article concepts/evolution-of-consciousness.md (2026-01-19) discusses gradual vs threshold emergence theories as competing accounts of when consciousness arose. The concepts/emergence.md page covers strong vs weak emergence but should integrate this specific application to consciousness phylogeny—particularly the challenge emergence poses for explaining why certain organisations produce experience.
+- **Result**: Added evolution-of-consciousness.md to concepts frontmatter at top position. Added new paragraph within Strong Emergence section connecting evolutionary emergence of consciousness to the three competing theories (panpsychist continuity, gradual emergence, threshold emergence) and their distinct challenges. Added evolution-of-consciousness.md to Further Reading at top with description.
+- **Output**: Updated `concepts/emergence.md`
 
 ### ✓ 2026-01-19: Deep review neural-quantum-coherence.md for experimental updates
 - **Type**: deep-review

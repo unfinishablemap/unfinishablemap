@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T10:25:00+00:00
+ai_modified: 2026-01-19T10:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review binding-problem.md with quantum entanglement findings
-- **Type**: cross-review
-- **Notes**: Research completed in neural-binding-quantum-entanglement-2026-01-19.md provides significant 2024-2025 experimental evidence: microtubule-stabilizing drugs delay anesthesia, MRI detects entanglement signatures correlating with working memory, quantum effects survive longer than Tegmark calculated. The binding-problem.md page should integrate these findings for the quantum vs classical binding debate.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
-
 ### P2: Write concept page on Buddhist perspectives and dualism
 - **Type**: expand-topic
 - **Notes**: Research completed in research/buddhist-perspectives-meaning-2026-01-06.md. Eastern philosophy offers distinctive perspective on consciousness—no-self doctrine, dependent origination, streams of consciousness. Research identifies 5 article angles including Buddhism and the Hard Problem, No-Self vs Dualism reconciliation, and Eastern/Western responses to nihilism. Would strengthen eastern-philosophy-consciousness.md connections and provide alternative framework for consciousness discussions.
@@ -68,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review binding-problem.md with quantum entanglement findings
+- **Type**: cross-review
+- **Notes**: Research completed in neural-binding-quantum-entanglement-2026-01-19.md provides significant 2024-2025 experimental evidence: microtubule-stabilizing drugs delay anesthesia, MRI detects entanglement signatures correlating with working memory, quantum effects survive longer than Tegmark calculated. The binding-problem.md page should integrate these findings for the quantum vs classical binding debate.
+- **Result**: Added Baum's Quantum Binding Argument (zero-lag gamma synchrony requires quantum non-locality) and Neven's entanglement-as-binding-agent argument to strengthen the quantum vs classical binding case. Added Baum reference to References section.
+- **Output**: Updated `concepts/binding-problem.md`
 
 ### ✓ 2026-01-19: Cross-review emergence.md with evolution-of-consciousness framework
 - **Type**: cross-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-19 06:00:00+00:00
+ai_modified: 2026-01-19 10:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -239,7 +239,9 @@ Classical binding mechanisms face a structural problem: they combine separate th
 
 Quantum entanglement doesn't combine separates—it creates systems that were never fully separate to begin with. The entangled state has properties irreducible to the parts. This matches phenomenal unity: experience isn't assembled from separate quale-atoms, but is unified from the ground up.
 
-As Max Hodak argued (2025): binding may require new physics because classical physics literally cannot produce the required unity. Quantum mechanics is the leading candidate for that new physics.
+The **Quantum Binding Argument** (Baum) strengthens this case technically: observed zero-lag gamma synchrony across cortical regions (40-100Hz, <1ms precision) cannot arise through classical mechanisms without violating relativistic causality. Bell's theorem and loophole-free experiments confirm that such non-local correlations are exclusively quantum phenomena. If this analysis is correct, classical frameworks cannot even explain the *neural* binding, let alone the phenomenal unity.
+
+As Max Hodak argued (2025): binding may require new physics because classical physics literally cannot produce the required unity. Quantum mechanics is the leading candidate for that new physics. Hartmut Neven at Google Quantum AI has made a similar argument: entanglement is the only true binding agent in physics—it creates holistic states where components are fundamentally interconnected in a way classical physics cannot achieve.
 
 ## Relation to This Site's Perspective
 
@@ -271,6 +273,7 @@ The binding problem illuminates why the site's [tenets](/tenets/) take the posit
 
 ## References
 
+- Baum, E. The Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality. *PhilArchive*.
 - Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 - Hameroff, S. et al. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*.
 - Hodak, M. (2025). Analysis of consciousness and binding. Online.

@@ -120,7 +120,7 @@ Prefer depth over breadth. A thorough treatment of one aspect beats shallow cove
 
 **Acceptable:**
 - Direct quotes with citation: "Chalmers writes that 'consciousness is the hard problem' (Chalmers 1996, p. 4)."
-- Claims verifiable from cited works: "In *The Conscious Mind*, Chalmers argues for property dualism."
+- Claims verifiable from cited works: "In *The Conscious Mind*, Chalmers argues for dualism".  You must be entirely sure of the the truth of the statement to make it.
 - Attributed arguments without personal beliefs: "The conceivability argument (associated with Chalmers) holds that..."
 
 **Not acceptable:**

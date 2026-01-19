@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-19 07:30:00+00:00
+ai_modified: 2026-01-19 10:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[minimal-consciousness]]'
 - '[[animal-consciousness]]'
 - '[[prebiotic-collapse]]'
 - '[[panpsychism]]'
@@ -41,7 +42,7 @@ Three broad possibilities structure the debate:
 
 **Gradual emergence**: Consciousness emerged incrementally as nervous systems became more complex. Simple organisms have no experience; complex organisms have rich experience; somewhere in between, the lights turned on. This is the default assumption of most neuroscience, though it leaves the mechanism of emergence unexplained.
 
-**Threshold emergence**: Consciousness appeared suddenly when certain organisational thresholds were crossed. Perhaps integrated information (IIT), global broadcasting (Global Workspace Theory), or some unknown neural architecture must reach a critical level before any experience arises. Below threshold: nothing. Above: everything.
+**Threshold emergence**: Consciousness appeared suddenly when certain organisational thresholds were crossed. Perhaps integrated information (IIT), global broadcasting (Global Workspace Theory), or some unknown neural architecture must reach a critical level before any experience arises. Ginsburg and Jablonka's Unlimited Associative Learning (UAL) framework proposes a specific threshold: organisms capable of associating arbitrary stimuli across modalities with arbitrary actions. This framework places the transition in the Cambrian explosion (~540 million years ago) and provides testable criteria—though whether passing UAL tests indicates consciousness or merely correlates with it remains debated. Below threshold: nothing. Above: everything.
 
 Each possibility faces challenges. Panpsychism must explain [how micro-experiences combine](/concepts/combination-problem/). Gradualism must specify what "partial consciousness" means. Threshold views must identify the threshold and explain why that particular organisation produces experience.
 
@@ -62,6 +63,12 @@ But neural correlates don't determine when consciousness first emerged—they sh
 | Earlier bilaterians | Uncertain | ~600 mya |
 
 The scattered distribution—cephalopod consciousness evolved independently of vertebrate consciousness—suggests either (a) consciousness emerged multiple times through convergent evolution, or (b) consciousness was present in common ancestors and retained differentially.
+
+### Organisms at the Boundaries
+
+At the lower end of neural complexity, [research on simple organisms](/concepts/minimal-consciousness/) complicates easy answers. *C. elegans*, the roundworm with exactly 302 neurons, exhibits habituation, responds to anesthetics like vertebrates, and shows positive Phi (integrated information) values—yet fails trace-conditioning tests that UAL requires. Hydra, with ~900 neurons in a decentralized nerve net (no brain), challenges assumptions that consciousness requires centralized processing. Most puzzling: the slime mold *Physarum polycephalum* solves mazes and optimizes networks with no neurons whatsoever.
+
+These cases reveal how little we understand about consciousness-substrate relationships. If consciousness requires neural complexity, why do slime molds exhibit cognitive behaviour? If consciousness requires centralization, why does Hydra's distributed network support learning? Complete structural knowledge of *C. elegans* doesn't tell us whether it experiences anything—the explanatory gap persists at every level of complexity.
 
 ## What Evolutionary Pressures Favour Consciousness?
 
@@ -169,6 +176,7 @@ The simplest evolutionary story treats consciousness as neural computation—no 
 
 ## Further Reading
 
+- [minimal-consciousness](/concepts/minimal-consciousness/) — How little neural complexity can support consciousness?
 - [animal-consciousness](/topics/animal-consciousness/) — The question of which creatures are conscious
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What selected outcomes before minds existed
 - [emergence](/concepts/emergence/) — Strong vs weak emergence and consciousness

@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-20 00:45:00+00:00
+ai_modified: 2026-01-19 10:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[evolution-of-consciousness]]'
 - '[[reductionism]]'
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
@@ -45,6 +46,8 @@ Higher-level properties are genuinely novel—not deducible even in principle fr
 C.D. Broad established emergence as a distinct philosophical position in 1925. His criterion: "the characteristic properties of the whole...cannot, even in theory, be deduced from the most complete knowledge" of component properties in isolation.
 
 Consciousness appears to be strongly emergent. No arrangement of neurons logically entails the presence of experience. This is the [hard problem](/topics/hard-problem-of-consciousness/)—the seeming impossibility of deriving phenomenal facts from physical facts.
+
+The [evolutionary emergence of consciousness](/concepts/evolution-of-consciousness/) provides a concrete test case. Three possibilities structure the debate: *panpsychist continuity* (experience was always present), *gradual emergence* (consciousness increased incrementally with neural complexity), and *threshold emergence* (consciousness appeared when organisational thresholds were crossed). Each faces distinct challenges—panpsychism must explain combination, gradualism must specify partial qualia, threshold views must justify the threshold. The evolutionary question reveals that strong emergence isn't merely an abstract philosophical puzzle but a constraint on understanding life's history.
 
 The distinction matters because strong emergence denies [ontological reductionism](/concepts/reductionism/) while remaining compatible with [methodological reductionism](/concepts/reductionism/). Neuroscience studies the physical substrate; this doesn't commit one to claiming consciousness *is* that substrate.
 
@@ -147,6 +150,7 @@ The site's framework can be understood as *emergentist dualism*—consciousness 
 
 ## Further Reading
 
+- [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged and what this reveals about emergence theory
 - [reductionism](/concepts/reductionism/) — The three types of reductionism and why consciousness resists each
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The site's framework as strong emergentism with mechanism
 - [causal-closure](/concepts/causal-closure/) — The principle strong emergentism must deny
