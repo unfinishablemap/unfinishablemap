@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T09:16:00+00:00
+ai_modified: 2026-01-19T09:18:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from evolution-of-consciousness.md)
 - **Generated**: 2026-01-19
 
-### P2: Research consciousness in simple organisms for tenet support
-- **Type**: research-topic
-- **Notes**: The Dualism and Bidirectional Interaction tenets would benefit from research on consciousness in simple organisms (C. elegans, Hydra, slime molds). How far down the phylogenetic tree does consciousness extend? What does this imply for the minimal neural requirements? Would strengthen evolution-of-consciousness.md and animal-consciousness.md.
-- **Source**: gap_analysis (tenet support)
-- **Generated**: 2026-01-19
-
 ### P3: Deep review analytic-idealism.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-15, no deep review since creation. Check for cross-links to newer content (phenomenal-value-realism.md, interface-locality.md, multi-mind-collapse-problem.md) and currency of arguments.
@@ -68,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Research consciousness in simple organisms for tenet support
+- **Type**: research-topic
+- **Notes**: The Dualism and Bidirectional Interaction tenets would benefit from research on consciousness in simple organisms (C. elegans, Hydra, slime molds). How far down the phylogenetic tree does consciousness extend? What does this imply for the minimal neural requirements? Would strengthen evolution-of-consciousness.md and animal-consciousness.md.
+- **Result**: Comprehensive research covering C. elegans (302 neurons, minimal consciousness hallmarks, fails trace conditioning), Hydra (decentralized nerve net, survives nerve removal), slime molds (cognition without neurons), and Unlimited Associative Learning framework. Found strong support for Bidirectional Interaction tenet (consciousness must be adaptive) and compatibility with dualism (interface vs emergence framing). New York Declaration 2024 expands consciousness attribution to invertebrates.
+- **Output**: Created `research/consciousness-simple-organisms-2026-01-19.md`
 
 ### ✓ 2026-01-19: Deep review interactionist-dualism.md for completeness and currency
 - **Type**: deep-review
