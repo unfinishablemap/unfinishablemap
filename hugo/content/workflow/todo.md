@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 03:15:00+00:00
+ai_modified: 2026-01-19 03:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -56,19 +56,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-16
 
-### P2: Cross-review death-and-consciousness.md considering altered states evidence
-- **Type**: cross-review
-- **Notes**: New article concepts/altered-states-of-consciousness.md covers NDEs as altered states with the filter theory interpretation. The death-and-consciousness.md topic discusses NDEs but could integrate the altered-states framework—NDEs as evidence of consciousness operating in alternative modes when normal brain function is disrupted. Add cross-link and consider whether the altered-states lens enriches the survival discussion.
-- **Source**: chain (from altered-states-of-consciousness.md)
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review mysterianism.md considering phenomenology-of-the-edge insights
 - **Type**: cross-review
 - **Notes**: New voids article phenomenology-of-the-edge.md maps edge-experience signatures—ineffability with noesis, ego dissolution, edge-clarity paradox. The mysterianism.md concept page discusses cognitive closure but could integrate the phenomenological evidence—edge-experiences may reveal what cognitive closure feels like from the inside. Add cross-link and consider whether the phenomenological data supports or complicates McGinn's position.
 - **Source**: chain (from phenomenology-of-the-edge.md)
 - **Generated**: 2026-01-19
 
+### P2: Cross-review agent-causation.md considering consciousness-and-creativity insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-and-creativity.md argues consciousness both generates (through imagination exploring possibility space) and selects (through attention's quantum Zeno mechanism). The agent-causation.md page discusses libertarian free will but could integrate the creativity evidence—agent causation may operate not just through selection but through genuine generation of novel possibilities. Add cross-link and consider whether the generation/selection synthesis enriches the agent causation framework.
+- **Source**: chain (from consciousness-and-creativity.md)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review free-will.md considering consciousness-and-creativity insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-and-creativity.md explores the synthesis view—consciousness both generates and selects, unified aspects of a single creative process. The free-will.md topic discusses consciousness as selector but could integrate the creativity framework—if consciousness generates novel possibilities (not just selects among them), this strengthens the case for genuine causal contribution. Add cross-link and consider whether Bergson's creative duration perspective enriches the free will discussion.
+- **Source**: chain (from consciousness-and-creativity.md)
+- **Generated**: 2026-01-19
+
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review death-and-consciousness.md with altered states framework
+- **Type**: cross-review
+- **Notes**: New article concepts/altered-states-of-consciousness.md covers NDEs as altered states with the filter theory interpretation. The death-and-consciousness.md topic discusses NDEs but could integrate the altered-states framework—NDEs as evidence of consciousness operating in alternative modes when normal brain function is disrupted. Add cross-link and consider whether the altered-states lens enriches the survival discussion.
+- **Result**: Added altered-states-of-consciousness to concepts frontmatter. Added new paragraph connecting NDEs to the broader ASC spectrum—NDEs as the extreme case of interface reconfiguration, paralleling the psychedelic paradox and flow state paradox. Updated Further Reading with altered-states-of-consciousness at top as most relevant new addition.
+- **Output**: Updated `topics/death-and-consciousness.md`
 
 ### ✓ 2026-01-19: Write article on consciousness and creativity
 - **Type**: expand-topic

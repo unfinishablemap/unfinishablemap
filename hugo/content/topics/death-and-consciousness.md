@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-18 00:15:00+00:00
+ai_modified: 2026-01-19 03:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,6 +14,7 @@ concepts:
 - '[[parfit-reductionism]]'
 - '[[episodic-memory]]'
 - '[[autonoetic-consciousness]]'
+- '[[altered-states-of-consciousness]]'
 created: 2026-01-14
 date: &id001 2026-01-17
 draft: false
@@ -90,7 +91,9 @@ The site's [interactionist-dualism](/archive/arguments/interactionist-dualism/) 
 
 ## Near-Death Experiences
 
-[Near-death experiences](/concepts/near-death-experiences/) (NDEs)—now termed "Recalled Experience of Death" (RED) by a 2022 multidisciplinary consensus—provide intriguing, if contested, evidence for consciousness beyond brain function. The terminology shift matters: RED emphasizes that subjects recall awareness *during* documented physiological death, not merely near it.
+[Near-death experiences](/concepts/near-death-experiences/) (NDEs)—now termed "Recalled Experience of Death" (RED) by a 2022 multidisciplinary consensus—provide intriguing, if contested, evidence for consciousness beyond brain function.
+
+NDEs sit within a broader spectrum of [altered states of consciousness](/concepts/altered-states-of-consciousness/) (ASCs) that reveal how consciousness operates in multiple configurable modes. The ASC framework illuminates NDEs: just as psychedelics loosen the brain's filtering constraints while meditation reconfigures them, NDEs may represent the extreme case—what happens when the filter fails almost entirely. The "paradox of heightened experience" during brain compromise parallels the psychedelic paradox (decreased local connectivity, expanded experience) and flow state paradox (reduced executive control, enhanced performance). Death, on this view, isn't merely the endpoint of consciousness but the ultimate reconfiguration of the brain-consciousness interface—possibly revealing what consciousness is like when maximally unfiltered. The terminology shift matters: RED emphasizes that subjects recall awareness *during* documented physiological death, not merely near it.
 
 Common features include out-of-body perception, life review, encounters with deceased relatives, passage through tunnels toward light, and profound mental clarity. Crucially, approximately 40% of cardiac arrest survivors report some form of awareness during the event—yet only 18% in Van Lommel's landmark study reported full NDEs. Something distinguishes experiencers from non-experiencers, and that something remains unexplained.
 
@@ -167,6 +170,7 @@ What the site claims: given its dualist commitments, survival is a *coherent pos
 
 ## Further Reading
 
+- [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — The broader spectrum within which NDEs sit
 - [near-death-experiences](/concepts/near-death-experiences/) — The evidence from recalled experience of death
 - [filter-theory](/concepts/filter-theory/) — The transmission model that reframes death as disconnection
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Temporary disconnection as a model for death
