@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T10:51:00+00:00
+ai_modified: 2026-01-20T06:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -68,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Cross-review witness-consciousness.md with Buddhist no-self analysis
+- **Type**: cross-review
+- **Notes**: New article concepts/buddhism-and-dualism.md addresses the Buddhist no-self doctrine and its compatibility with irreducible consciousness. The concepts/witness-consciousness.md page discusses the observer that watches mental contents—but Buddhism questions this observer. How does Buddhist anattā relate to the witness concept? Does impermanence of the observer undermine or refine the witness model?
+- **Result**: Added buddhism-and-dualism.md to concepts frontmatter at top position. Expanded the Buddhist Perspectives section with the three specific denials (permanence, substantiality, ownership-centricity) and the compatibility thesis (irreducibility and impermanence are logically independent). Added the candle flame analogy and property dualism bridge. Added buddhism-and-dualism.md at top of Further Reading with description.
+- **Output**: Updated `concepts/witness-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review self-and-consciousness.md with Buddhist no-self insights
 - **Type**: cross-review
