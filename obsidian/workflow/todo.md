@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T06:27:00+00:00
+ai_modified: 2026-01-19T12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,10 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review retrocausality.md with quantum indeterminacy systematization
+### P2: Cross-review psychophysical-coupling-law.md with Chalmers framework
 - **Type**: cross-review
-- **Notes**: New article concepts/quantum-indeterminacy-free-will.md discusses retrocausality as a key resolution to the timing problem (Libet experiments showing neural activity preceding conscious awareness). The retrocausality.md concept page should cross-reference this systematization, particularly linking to how atemporal selection dissolves the apparent problem of temporal precedence. Add cross-link.
-- **Source**: chain (from quantum-indeterminacy-free-will.md)
+- **Notes**: New article concepts/psychophysical-laws.md systematizes Chalmers' framework for psychophysical laws, distinguishing supervenience laws (upward: physical→phenomenal) from causal/selection laws (downward: phenomenal→physical). The psychophysical-coupling-law.md page addresses the site's specific coupling law problem and should reference this foundational framework. Add cross-link and clarify relationship between Chalmers' general framework and the site's specific selection mechanism.
+- **Source**: chain (from psychophysical-laws.md)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review interactionist-dualism.md with psychophysical laws framework
+- **Type**: cross-review
+- **Notes**: New article concepts/psychophysical-laws.md covers Chalmers' naturalistic dualism framework, the distinction between supervenience and causal laws, and the 2022 Chalmers-McQueen quantum development. The interactionist-dualism.md page is the site's primary statement of its position and should integrate this theoretical framework—particularly how psychophysical laws provide the systematic account of how interaction works.
+- **Source**: chain (from psychophysical-laws.md)
 - **Generated**: 2026-01-19
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -80,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review retrocausality.md with quantum indeterminacy systematization
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-indeterminacy-free-will.md discusses retrocausality as a key resolution to the timing problem (Libet experiments showing neural activity preceding conscious awareness). The retrocausality.md concept page should cross-reference this systematization, particularly linking to how atemporal selection dissolves the apparent problem of temporal precedence. Add cross-link.
+- **Result**: Added quantum-indeterminacy-free-will.md to concepts frontmatter at top position. Added motor-selection.md to concepts. Added paragraph linking to systematic treatment and explaining how consciousness selects entire temporal sequences including neural preparation. Added "Motor Selection: Independent Corroboration" subsection with Sjöberg 2024 SMA resection evidence. Updated Further Reading with quantum-indeterminacy-free-will, motor-selection, and luck-objection.
+- **Output**: Updated `concepts/retrocausality.md`
 
 ### ✓ 2026-01-19: Cross-review free-will.md with quantum indeterminacy systematization
 - **Type**: cross-review
