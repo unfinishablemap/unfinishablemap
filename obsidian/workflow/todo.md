@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T05:13:00+00:00
+ai_modified: 2026-01-19T21:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,16 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review causal-closure.md with reductionism framework
-- **Type**: cross-review
-- **Notes**: New article concepts/reductionism.md clarifies ontological vs. methodological reductionism. The causal-closure.md page discusses physical causal closure and how the site's framework responds—integrating reductionism distinctions could strengthen the argument that causal closure is an ontological assumption, not an empirical finding. Add cross-link.
-- **Source**: chain (from reductionism.md)
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review mental-causation.md with reductionism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/reductionism.md covers Kim's exclusion argument and how non-reductive physicalism faces the overdetermination objection. The mental-causation.md concept page addresses causal efficacy of mental states—integrating explicit reductionism framework could clarify why mental causation requires the quantum escape valve. Add cross-link.
 - **Source**: chain (from reductionism.md)
+- **Generated**: 2026-01-19
+
+### P2: Cross-review luck-objection.md with quantum indeterminacy systematization
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-indeterminacy-free-will.md provides comprehensive systematization of how quantum indeterminacy supports libertarian free will. The luck-objection.md concept page addresses the same topic but should reference the new systematization—particularly the Kane/Stapp/Penrose synthesis and the distinction between event-causal and agent-causal approaches. Add cross-link.
+- **Source**: chain (from quantum-indeterminacy-free-will.md)
 - **Generated**: 2026-01-19
 
 ### P3: Cross-review personal-identity.md for Parfit treatment completeness
@@ -86,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Cross-review causal-closure.md with reductionism framework
+- **Type**: cross-review
+- **Notes**: New article concepts/reductionism.md clarifies ontological vs. methodological reductionism. The causal-closure.md page discusses physical causal closure and how the site's framework responds—integrating reductionism distinctions could strengthen the argument that causal closure is an ontological assumption, not an empirical finding. Add cross-link.
+- **Result**: Added reductionism.md to concepts frontmatter. Added parenthetical reference to reductionism in the Exclusion Argument section linking to fuller treatment of Kim's argument and the three types of reductionism. Enhanced Empirical Status section with new paragraph explaining why methodological success doesn't entail ontological claims—causal closure as ontological thesis requires independent justification. Added reductionism.md to top of Further Reading with description.
+- **Output**: Updated `concepts/causal-closure.md`
 
 ### ✓ 2026-01-19: Write article on quantum indeterminacy and free will
 - **Type**: expand-topic
