@@ -3,11 +3,12 @@ title: "Self and Consciousness"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-18T22:00:00+00:00
+ai_modified: 2026-01-19T10:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
+  - "[[buddhism-and-dualism]]"
   - "[[personal-identity]]"
   - "[[phenomenology]]"
   - "[[neurophenomenology]]"
@@ -169,10 +170,15 @@ None of these is a permanent self. Even consciousness is "a stream of momentary 
 
 ### What Buddhism Denies
 
-Buddhist no-self targets specific claims:
-- The existence of an unchanging soul (*ātman*) persisting through rebirth
-- A substantial self-entity underlying experience
-- The narrative self's assumption of robust continuity
+Buddhist no-self targets three specific claims (explored in depth in [[buddhism-and-dualism]]):
+
+**Permanence**: Nothing unchanging underlies the stream of experience. The "self" that seems to persist from moment to moment is actually a continuous process of arising and passing away—like a flame that appears stable but constantly renews itself.
+
+**Substantiality**: There is no soul-stuff distinct from the five aggregates (form, feeling, perception, mental formations, consciousness). What we call "self" is just these aggregates in dynamic interaction—no further entity stands behind them.
+
+**Ownership-centricity**: The sense that experiences happen *to* a stable owner—"my" thoughts, "my" feelings—is a construct that meditation reveals to be empty. Experience happens; ownership is imputed.
+
+Crucially, Buddhism accepts that consciousness (*vijñāna*) is real—it's one of the five aggregates. Buddhism doesn't say "consciousness is an illusion" (that would be eliminativism, which Buddhism rejects). It says "the permanent self *owning* consciousness is an illusion."
 
 But does Buddhism deny the minimal self—the basic first-person givenness Zahavi identifies? This is disputed. Meditation traditions aim to see through the *constructed* self, the narrative and conceptual overlay we mistake for who we really are. What remains after this insight need not be nothing—it might be awareness itself, stripped of identification.
 
@@ -183,7 +189,18 @@ Buddhist and phenomenological analyses share key insights:
 - Both emphasize impermanence (Buddhist *anicca*; Husserlian time-consciousness)
 - Both challenge reified self-conceptions
 
-But they diverge on whether anything persists. Zahavi's minimal self is a *necessary* feature of experience; Buddhism questions whether even this minimal structure is ultimately substantial. The site's framework can accommodate Buddhist insights about the illusory nature of the narrative self while maintaining that phenomenal experience—including its first-personal character—is irreducible.
+But they diverge on whether anything persists. Zahavi's minimal self is a *necessary* feature of experience; Buddhism questions whether even this minimal structure is ultimately substantial.
+
+### The Compatibility Thesis
+
+The site's framework can accommodate Buddhist insights through a key distinction (developed in [[buddhism-and-dualism]]): irreducibility and impermanence are logically independent claims.
+
+1. **Irreducibility** (site's Dualism tenet): Phenomenal properties cannot be reduced to physical properties
+2. **Impermanence** (Buddhist doctrine): No phenomenal properties persist unchanged
+
+Consciousness can be irreducible at each moment while being impermanent across moments. Just as a candle flame is irreducibly a flame (not reducible to descriptions of wax and wick) while constantly changing, consciousness can be irreducibly experiential while constantly arising and passing. This aligns with **property dualism** rather than substance dualism—at each moment there are both physical properties and phenomenal properties, neither requiring permanence.
+
+The phenomenological minimal self fits this picture: it is not a permanent substance but the *form* conscious experience takes at each moment. Buddhism can accept this minimal self exists conventionally while denying it ultimate substantial reality. The site might accept this compromise—first-personal structure doesn't require permanence.
 
 ## The Self and the Hard Problem
 
@@ -215,6 +232,7 @@ The filter theory interprets these findings coherently: the narrative self is co
 
 ## Further Reading
 
+- [[buddhism-and-dualism]] — How Buddhist no-self and the site's irreducibility thesis are compatible
 - [[metacognition]] — The cognitive capacity to monitor one's own mental states
 - [[autonoetic-consciousness]] — Mental time travel and the temporally extended self
 - [[personal-identity]] — How the self persists over time
