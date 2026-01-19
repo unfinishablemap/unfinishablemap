@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T00:45:00+00:00
+ai_modified: 2026-01-19T05:13:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write article on quantum indeterminacy and free will
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-mechanics-free-will-2026-01-16.md. Systematizes relationship between quantum theory and libertarian free will. Addresses luck objection and how quantum Zeno mechanism provides directed (not random) outcomes. Central to Bidirectional Interaction and No Many Worlds tenets.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-19
 
 ### P2: Cross-review causal-closure.md with reductionism framework
 - **Type**: cross-review
@@ -92,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Write article on quantum indeterminacy and free will
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-mechanics-free-will-2026-01-16.md. Systematizes relationship between quantum theory and libertarian free will. Addresses luck objection and how quantum Zeno mechanism provides directed (not random) outcomes. Central to Bidirectional Interaction and No Many Worlds tenets.
+- **Result**: Created ~2100 word concept page covering the libertarian dilemma, event-causal vs agent-causal approaches, the luck objection in detail, why the site's framework escapes luck (selection vs randomness, phenomenology of effort, reasons-guided selection), the quantum Zeno mechanism, two-domain evidence (attention and motor), retrocausal resolution, causal closure and the quantum opening, and rejection of many-worlds. Comprehensive cross-linking to existing articles.
+- **Output**: Created `concepts/quantum-indeterminacy-free-will.md`
 
 ### ✓ 2026-01-20: Cross-review emergence.md with reductionism insights
 - **Type**: cross-review
