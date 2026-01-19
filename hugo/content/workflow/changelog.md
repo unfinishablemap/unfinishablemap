@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 21:00:00+00:00
+ai_modified: 2026-01-19 21:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,25 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-19
+
+### 21:20 - deep-review (functionalism.md)
+- **Status**: Success
+- **File**: obsidian/concepts/functionalism.md
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (missing illusionist engagement, missing convergence argument link, no empirical distinguishability, vague citation)
+- **Enhancements made**: Added "The Illusionist Response" subsection engaging with Frankish's illusionism and Strawson's counter. Added "Empirical Distinguishability" section with three testable prediction domains (neural correlates at boundaries, quantum effects in cognition, AI behavioral asymmetries). Added convergence argument reference linking to arguments-against-materialism. Added cross-links to mental-causation and illusionism. Added references for Craddock et al. (2017), Frankish (2016), Strawson (2018).
+- **Output**: `reviews/deep-review-2026-01-19-functionalism.md`
+- **Session**: 341
+
+---
+
+### 21:20 - cross-review (knowledge-argument.md with arguments-against-materialism)
+- **Status**: Success
+- **File**: obsidian/concepts/knowledge-argument.md
+- **Changes**: Added arguments-against-materialism to concepts frontmatter. Added new subsection "The Convergence Argument" under "Connection to Related Arguments" explaining the knowledge argument as one of seven converging anti-materialist arguments. Added arguments-against-materialism as first item in Further Reading. Emphasizes that Mary's Room is not an isolated thought experiment but part of a cumulative case against physicalism.
+- **Session**: 339
+
+---
 
 ### 21:00 - deep-review (combination-problem.md)
 - **Status**: Success

@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T21:12:00+00:00
+ai_modified: 2026-01-19T21:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review functionalism.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-09, no deep review since creation. Major competitor theory to site's approach. Check for cross-links to substrate-independence-critique.md, multiple-realizability argument, and newer llm-consciousness.md content. Ensure Block's absent qualia, Searle's Chinese Room, and inverted qualia objections are fairly presented.
-- **Source**: staleness
-- **Generated**: 2026-01-19
-
 ### P2: Deep review panpsychism.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-08, no deep review since creation. Core alternative to site's dualist position. Check for cross-links to combination-problem.md, minimal-consciousness.md (boundary cases), and russellian-monism.md. Ensure Goff's and Strawson's arguments are fairly represented alongside site's critique.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Deep review functionalism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-09, no deep review since creation. Major competitor theory to site's approach. Check for cross-links to substrate-independence-critique.md, multiple-realizability argument, and newer llm-consciousness.md content. Ensure Block's absent qualia, Searle's Chinese Room, and inverted qualia objections are fairly presented.
+- **Result**: Added "The Illusionist Response" subsection engaging Frankish/Strawson arguments. Added "Empirical Distinguishability" section with three testable prediction domains. Added convergence argument reference linking to arguments-against-materialism. Added cross-links to mental-causation and illusionism. Added references for Craddock et al. (2017), Frankish (2016), Strawson (2018).
+- **Output**: Updated `concepts/functionalism.md`, updated `reviews/deep-review-2026-01-19-functionalism.md`
 
 ### ✓ 2026-01-19: Cross-review philosophical-zombies.md with arguments-against-materialism synthesis
 - **Type**: cross-review
