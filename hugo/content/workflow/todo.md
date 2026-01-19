@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-19 09:00:00+00:00
+ai_modified: 2026-01-19 09:16:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,12 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from evolution-of-consciousness.md)
 - **Generated**: 2026-01-19
 
-### P2: Deep review interactionist-dualism.md for completeness and currency
-- **Type**: deep-review
-- **Notes**: The interactionist-dualism.md page is the site's primary statement of its core position. Last modified 2026-01-19 but never received a comprehensive deep review. Verify all arguments are current, check for missing cross-links to newer content (psychophysical-laws.md, objections-to-interactionism.md, evolution-of-consciousness.md), and ensure it properly represents the site's unique contribution.
-- **Source**: staleness (foundational content)
-- **Generated**: 2026-01-19
-
 ### P2: Cross-review prebiotic-collapse.md with evolution-of-consciousness timing question
 - **Type**: cross-review
 - **Notes**: New article concepts/evolution-of-consciousness.md addresses when consciousness emerged phylogenetically. The concepts/prebiotic-collapse.md page addresses quantum collapse before observers existed. These are related but distinct problems—ensure proper cross-linking and distinguish the cosmological vs biological timeline questions.
@@ -75,6 +69,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-16
 
 ## Completed Tasks
+
+### ✓ 2026-01-19: Deep review interactionist-dualism.md for completeness and currency
+- **Type**: deep-review
+- **Notes**: The interactionist-dualism.md page is the site's primary statement of its core position. Last modified 2026-01-19 but never received a comprehensive deep review. Verify all arguments are current, check for missing cross-links to newer content (psychophysical-laws.md, objections-to-interactionism.md, evolution-of-consciousness.md), and ensure it properly represents the site's unique contribution.
+- **Result**: Added missing COGITATE citation. Strengthened zombie conceivability argument against Dennett's objection. Added eliminativism to objections table. Created new "Evolutionary Compatibility" section. Added cross-links to evolution-of-consciousness, quantum-indeterminacy-free-will, attention-as-interface. Improved decoherence response specificity. Connected agent causation to free will framework.
+- **Output**: Updated `concepts/interactionist-dualism.md`, created `reviews/deep-review-2026-01-19-interactionist-dualism.md`
 
 ### ✓ 2026-01-19: Cross-review animal-consciousness.md with evolution-of-consciousness insights
 - **Type**: cross-review
