@@ -3,7 +3,7 @@ title: "Buddhism and Dualism"
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T10:40:00+00:00
+ai_modified: 2026-01-19T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,8 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[panpsychism]]"
   - "[[qualia]]"
+  - "[[agent-causation]]"
+  - "[[filter-theory]]"
 related_articles:
   - "[[tenets]]"
   - "[[buddhist-perspectives-meaning-2026-01-06]]"
@@ -23,12 +25,14 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-19T12:00:00+00:00
 ---
 
 Buddhism rejects a permanent self while taking consciousness seriously. This site commits to irreducible consciousness interacting with matter. Are these positions compatible? The answer depends on distinguishing what each actually claims—and what each actually denies.
 
 Buddhism's *anattā* (no-self) doctrine targets a specific conception: the Hindu *ātman*, an eternal soul-substance that persists unchanged through rebirth. Buddhism denies this. But denying a permanent soul-substance is not the same as denying that consciousness exists, that experience is real, or that phenomenal properties resist reduction to physical processes. The site's [[tenets#^dualism|Dualism]] tenet requires consciousness to be irreducible—it does not explicitly require consciousness to be permanent.
+
+Not all interpreters will accept this compatibility. Some Buddhist philosophers extend the no-self analysis to consciousness itself—arguing that *vijñāna* is as empty of inherent existence as the self it supposedly constitutes. The [[#emptiness-challenge|emptiness challenge]] (addressed below) takes this objection seriously. The compatibility thesis offered here represents one coherent reading, not the only Buddhist position.
 
 ## What Buddhism Actually Denies
 
@@ -41,6 +45,8 @@ Buddhist no-self targets three specific claims:
 **Ownership-centricity**: The sense that experiences happen *to* a stable owner—"my" thoughts, "my" feelings—is a construct that meditation reveals to be empty. Experience happens; ownership is imputed.
 
 Buddhism accepts that consciousness (*vijñāna*) is real—it's one of the five aggregates. Buddhism doesn't say "consciousness is an illusion" (that would be eliminativism, which Buddhism rejects). It says "the permanent self *owning* consciousness is an illusion."
+
+Buddhist contemplative practice constitutes millennia of first-person investigation—what [[phenomenology]] calls attention to experience itself. Meditation involves systematic observation of how thoughts arise and pass, how sensations present themselves, how attention moves. This is phenomenological method in practice, predating Husserl by over two millennia. The rigor of Buddhist introspective training parallels what contemporary research confirms: skilled observers report consciousness more accurately than novices (Fox et al. 2012). Buddhism's claims about consciousness emerge from disciplined investigation, not mere speculation.
 
 ## What the Site's Dualism Actually Claims
 
@@ -67,13 +73,15 @@ This aligns with **property dualism** rather than substance dualism. At each mom
 
 The Yogācāra ("Mind-Only") school provides another bridge. By treating consciousness as fundamental—what appears as external world being mental construction—Yogācāra aligns with the site's rejection of physicalism while maintaining Buddhist impermanence. Consciousness is fundamental *and* constantly changing.
 
+Yogācāra introduces the *ālaya-vijñāna* ("storehouse consciousness")—a deep level of awareness that carries karmic seeds across moments and lifetimes. This is not a permanent soul; the storehouse itself constantly changes. But it provides continuity without substance: patterns persist while their substrate remains impermanent. This resembles the site's emphasis on consciousness as fundamental without requiring a static carrier. The storehouse transmits causal influence through time—exactly what mental causation requires.
+
 ## Karma and Bidirectional Interaction
 
 The site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes. Buddhist karma doctrine makes a structurally similar claim: mental states—particularly intentions (*cetanā*)—determine the moral quality of actions and generate consequences that shape future experience.
 
 If consciousness were epiphenomenal (causally inert), karma would be incoherent. Intentions would be mere side-effects of physical brain processes, not genuine causal contributors. Both Buddhism and the site reject this picture. Mental states matter; consciousness does something.
 
-The mechanism differs. The site proposes consciousness biases quantum-level outcomes that physics leaves undetermined. Buddhism doesn't engage with quantum mechanics (predating it by millennia). But the structural claim—mind causally affects world—is shared.
+The mechanism differs. The site proposes consciousness biases quantum-level outcomes that physics leaves undetermined. Buddhism doesn't engage with quantum mechanics (predating it by millennia). But the structural claim—mind causally affects world—is shared. Both frameworks require what philosophers call [[agent-causation]]—the capacity of a conscious being to initiate causal chains, not merely transmit them. The Buddhist emphasis on *cetanā* (intention, volition) as karmically central parallels the site's emphasis on conscious selection at moments of physical indeterminacy. In both cases, what matters is not just that events occur but that they originate in something like deliberate choice.
 
 This raises a question Buddhism must answer independently: if there's no permanent self, what carries karma across lifetimes? The Buddhist response: causal continuity without substantial identity. The flame analogy again—the flame at midnight is causally connected to the flame at noon without being the same flame. Karma flows along causal chains without requiring a soul-substance to accumulate it.
 
@@ -86,6 +94,22 @@ Despite this compatibility, genuine tensions exist.
 **Minimal self**: [[self-and-consciousness#Minimal Self and Narrative Self|Phenomenological analysis]] (Zahavi, Gallagher) identifies a "minimal self"—the pre-reflective "for-me-ness" present in all experience. This isn't the narrative self Buddhism deconstructs; it's the structural feature that makes experience first-personal. Buddhism might accept this minimal self exists conventionally while denying it ultimate substantial reality. The site might accept this compromise—first-personal structure doesn't require permanence.
 
 **Liberation vs. explanation**: Buddhism aims at *nirvana*—cessation of suffering through transformation of consciousness. The site aims at understanding consciousness's place in nature. These projects can complement but might ultimately diverge. Buddhism might say: "Why explain consciousness when you could transform it?" The site might respond: "Understanding might inform transformation."
+
+## The Emptiness Challenge {#emptiness-challenge}
+
+The deepest challenge to compatibility comes from the Madhyamaka doctrine of *śūnyatā* (emptiness). If all phenomena lack inherent existence—including consciousness—can consciousness be "fundamental" or "irreducible" in the site's sense?
+
+The objection: Nāgārjuna's analysis applies equally to consciousness and matter. Both arise dependently; both lack self-existence (*svabhāva*). To claim consciousness is "fundamental" seems to privilege it with exactly the inherent existence Madhyamaka denies. The site appears to commit precisely what Buddhism critiques.
+
+Three responses are available:
+
+**Emptiness of essence, not existence**: Madhyamaka denies inherent existence, not existence altogether. Consciousness exists conventionally even if it lacks independent essence. The site's irreducibility claim can be read the same way: phenomenal properties don't reduce to physical properties at the conventional level, regardless of whether either possesses ultimate essence. Irreducibility is a relation between descriptions, not a claim about inherent existence.
+
+**Asymmetric emptiness**: Some Buddhist interpreters hold that while all phenomena are empty, consciousness has a special status as that which recognizes emptiness. The Yogācāra analysis of mind-only points this direction: what appears as the external world is mental construction, but consciousness itself cannot be similarly constructed without infinite regress. This asymmetry doesn't violate emptiness but clarifies its application.
+
+**Practical equivalence**: The site's framework operates at what Buddhism calls the conventional level. The site makes claims about how consciousness relates to physical descriptions, not about ultimate metaphysical status. Madhyamaka's two-truths doctrine allows robust conventional claims while denying ultimate inherent existence. The compatibility thesis holds at the conventional level where both frameworks actually operate.
+
+These responses don't dissolve the tension. A Buddhist might still argue that attributing any special status to consciousness reintroduces attachment to mental phenomena. But the responses show compatibility isn't naive—it can survive serious engagement with Buddhist metaphysics.
 
 ## Yogācāra and the External World
 
@@ -108,12 +132,14 @@ What does each framework offer the other?
 - The insight that permanence isn't required for irreducibility
 - A worked example of taking consciousness seriously without physicalism
 - Practical methods (meditation) for investigating consciousness directly
+- A process metaphysics compatible with property dualism (moments of experience arise, persist briefly, and pass—Whitehead's "actual occasions" share this structure)
 
 **The site offers Buddhism:**
 - A mechanism (quantum selection) for how mental causation might work
 - Integration with contemporary physics
 - An alternative to both substance dualism and idealism
 - Focus on explanation where Buddhism focuses on liberation
+- Empirical findings (NDEs, psychedelic research, covert consciousness) that [[filter-theory|filter theory]] interprets as supporting consciousness beyond brain production
 
 Neither needs to absorb the other. Buddhism remains a path to liberation; the site remains a framework for understanding. But recognizing their compatibility prevents false dichotomies—as if taking consciousness seriously required either a permanent soul (substance dualism) or denying its ultimate reality (eliminativism).
 
@@ -136,15 +162,18 @@ The comparison also reveals what Buddhism challenges: any residual attachment to
 - [[eastern-philosophy-consciousness]] — Overview of Buddhist approaches to consciousness
 - [[self-and-consciousness]] — The minimal self vs. narrative self distinction
 - [[witness-consciousness]] — The observer in meditation traditions
-- [[phenomenology]] — Western methods for investigating experience
+- [[phenomenology]] — Western methods for investigating experience; Buddhism as phenomenology in practice
 - [[panpsychism]] — Another non-physicalist view, with different tensions with Buddhism
 - [[hard-problem-of-consciousness]] — The central puzzle both frameworks address
+- [[agent-causation]] — How conscious beings initiate causal chains, relevant to karma
+- [[filter-theory]] — Why brain correlation doesn't entail brain production
 - [[buddhist-perspectives-meaning-2026-01-06]] — Detailed research notes
 
 ## References
 
 - Stanford Encyclopedia of Philosophy. Mind in Indian Buddhist Philosophy. https://plato.stanford.edu/entries/mind-indian-buddhism/
 - Stanford Encyclopedia of Philosophy. Ethics in Indian Buddhism. https://plato.stanford.edu/entries/ethics-indian-buddhism/
+- Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 - Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
 - Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
 - Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
