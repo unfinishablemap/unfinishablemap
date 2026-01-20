@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-20T10:00:00+00:00
+ai_modified: 2026-01-20T11:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,17 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 11:30 - deep-review (mental-causation.md)
+- **Status**: Success
+- **File**: obsidian/concepts/mental-causation.md
+- **Critical issues addressed**: 2 (missing falsifiability conditions, no decoherence engagement)
+- **Medium issues addressed**: 3 (no illusionist engagement, no Many-Worlds connection, missing process philosophy perspective)
+- **Enhancements made**: Added "The Decoherence Challenge" subsection explaining Tegmark's objection and why decoherence doesn't eliminate quantum indeterminacy. Added "Why Not Many Worlds?" subsection making explicit why site's rejection of MWI is essential. Added "Process Philosophy Alternative" subsection presenting Whitehead's actual occasions. Added "The Interface Question" subsection connecting to pairing problem and interface-locality. Added "The Illusionist Response" subsection with self-stultification counter-argument. Added "What Would Challenge This View?" section with five falsifiability conditions. Added 6 new cross-links to frontmatter (illusionism, interface-locality, many-worlds, pairing-problem, decoherence, attention-as-interface) and 6 to Further Reading. Added Frankish (2016), Tallis (2024), Tegmark (2000), Whitehead (1929) references.
+- **Output**: `reviews/deep-review-2026-01-20-mental-causation.md`
+- **Session**: 350
+
+---
 
 ### 10:00 - deep-review (agent-causation.md)
 - **Status**: Success

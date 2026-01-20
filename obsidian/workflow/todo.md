@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T10:00:00+00:00
+ai_modified: 2026-01-20T11:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review mental-causation.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-15, no deep review since creation. Core concept for Bidirectional Interaction tenet. Check for cross-links to agent-causation.md, downward-causation.md, quantum-consciousness.md. Ensure Kim's exclusion argument and site's quantum response are well-developed.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review downward-causation.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-18, no deep review since creation. Central to defending Bidirectional Interaction tenet. Check for cross-links to mental-causation.md, emergence.md, causal-closure.md. Ensure Kim's exclusion argument and strong emergence responses are current.
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review mental-causation.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-15, no deep review since creation. Core concept for Bidirectional Interaction tenet. Check for cross-links to agent-causation.md, downward-causation.md, quantum-consciousness.md. Ensure Kim's exclusion argument and site's quantum response are well-developed.
+- **Result**: Added "The Decoherence Challenge" subsection addressing Tegmark's objection. Added "Why Not Many Worlds?" subsection making MWI rejection explicit. Added "Process Philosophy Alternative" with Whitehead's actual occasions. Added "The Interface Question" connecting to pairing problem and interface-locality. Added "The Illusionist Response" with self-stultification counter-argument. Added "What Would Challenge This View?" with five falsifiability conditions. Added 6 new cross-links (illusionism, interface-locality, many-worlds, pairing-problem, decoherence, attention-as-interface). Added Frankish, Tallis, Tegmark, Whitehead references.
+- **Output**: Updated `concepts/mental-causation.md`, created `reviews/deep-review-2026-01-20-mental-causation.md`
 
 ### ✓ 2026-01-20: Deep review agent-causation.md for currency and cross-links
 - **Type**: deep-review
