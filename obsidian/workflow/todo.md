@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T09:00:00+00:00
+ai_modified: 2026-01-20T14:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,6 +43,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-20
 
+### P2: Deep review brain-specialness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, never deep-reviewed. Addresses why consciousness arises in brains but (perhaps) not other physical systems—critical for site's interface-locality hypothesis and Minimal Quantum Interaction tenet. Check for cross-links to interface-locality.md, quantum-biology.md, embodied-cognition.md.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review interface-locality.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, never deep-reviewed. Core concept for understanding why consciousness interfaces at specific brain regions—supports pairing-problem.md response. Check for cross-links to brain-specialness.md, attention-as-interface.md, psychophysical-coupling-law.md.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review metacognition.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, never deep-reviewed. Thinking about thinking—relates to higher-order theories and site's defense of introspective access. Check for cross-links to higher-order-theories.md, introspection.md, self-and-consciousness.md. Ensure prefrontal correlates and epistemic benefits are current.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
 ### P3: Deep review apophatic-approaches.md for cross-linking
 - **Type**: deep-review
 - **Notes**: The voids article was created session 13 (now published). May benefit from enhanced cross-linking to newer content (mysterianism.md, limits-reveal-structure.md, whether-real.md).
@@ -65,6 +83,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review neurophenomenology.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, never deep-reviewed. Francisco Varela's methodology bridging first-person phenomenological methods with third-person neuroscience—foundational for site's defense of introspection and phenomenological evidence. Check for cross-links to phenomenology.md, introspection.md, meditation-and-consciousness-modes.md.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with regress response, heterophenomenology limits, and Tallis self-stultification argument. Added "Process Philosophy and Neurophenomenology" section connecting Whitehead's actual occasions to temporal microstructure, constructed self, and mutual constraint. Added "What Would Challenge This View?" falsifiability section with five conditions. Expanded all five tenet connections including Minimal Quantum Interaction (attention-as-interface, temporal dynamics, decoherence response) and No Many Worlds (phenomenology of singular determinate experience). Added 5 new cross-links (illusionism, meditation-and-consciousness-modes, witness-consciousness, attention-as-interface, decoherence). Added 4 new references (Dennett, Frankish, Tallis, Whitehead).
+- **Output**: reviews/deep-review-2026-01-20-neurophenomenology.md
 
 ### ✓ 2026-01-20: Deep review free-will.md for currency and cross-links
 - **Type**: deep-review
