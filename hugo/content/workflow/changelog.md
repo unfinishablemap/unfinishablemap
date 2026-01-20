@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 18:30:00+00:00
+ai_modified: 2026-01-20 17:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,28 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 17:30 - deep-review (sleep-and-consciousness.md)
+- **Status**: Success
+- **File**: obsidian/concepts/sleep-and-consciousness.md
+- **Critical issues addressed**: 3 (missing Illusionist Challenge section, missing Process Philosophy section, missing "What Would Challenge This View?" section)
+- **Medium issues addressed**: 3 (thin tenet connections especially Minimal Quantum Interaction, missing cross-links to key concepts, missing contemplative evidence)
+- **Enhancements made**: Added "Contemplative Evidence: Sleep Yoga" section covering awareness without content, voluntary disengagement, transformation upon return. Added "The Illusionist Challenge" section with 4 responses (asymmetry of dreamless sleep, regress problem, lucid dreaming as counter-example, contemplative challenge). Added "Process Philosophy Perspective" section (sleep as reconfigured prehension, binding problem reconsidered, why witness can persist, temporal experience in dreams). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded all 5 tenet connections with specific mechanisms (quantum Zeno for Minimal Quantum Interaction, haecceity for No Many Worlds). Added 6 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity, altered-states-of-consciousness). Added 6 new references. Fixed incomplete Nature Neuroscience 2023 citation.
+- **Output**: `reviews/deep-review-2026-01-20-sleep-and-consciousness.md`
+- **Session**: 414
+
+---
+
+### 16:30 - deep-review (episodic-memory.md)
+- **Status**: Success
+- **File**: obsidian/concepts/episodic-memory.md
+- **Critical issues addressed**: 3 (missing illusionist engagement, incomplete tenet coverage—only 4 of 5, no falsifiability conditions)
+- **Medium issues addressed**: 3 (missing Process Philosophy perspective, missing contemplative evidence, thin quantum connection without decoherence acknowledgment)
+- **Enhancements made**: Added "The Illusionist Challenge" section with 3 responses (regress problem, phenomenology of introspection, functional asymmetry). Added "Contemplative Evidence" section (witness consciousness, jhana states, cessation contrast). Added "Process Philosophy Perspective" section (actual occasions and prehension, temporal thickness, concrescence and reconstruction). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" from 4 to all 5 tenets with substantive connections (added Minimal Quantum Interaction via quantum selection in binding, Occam's Razor Has Limits via remember/know phenomenology). Added 7 new cross-links (illusionism, introspection, witness-consciousness, haecceity, decoherence, attention-as-interface, meditation-and-consciousness-modes). Added 5 new references (Tallis, Frankish, Whitehead, Hameroff & Penrose, Stapp).
+- **Output**: `reviews/deep-review-2026-01-20-episodic-memory.md`
+- **Session**: 413
+
+---
 
 ### 18:30 - deep-review (mind-matter-interface.md)
 - **Status**: Success

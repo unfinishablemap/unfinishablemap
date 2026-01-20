@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T16:30:00+00:00
+ai_modified: 2026-01-20T17:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Deep review sleep-and-consciousness.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Covers sleep stages, dreaming, and consciousness—connects to altered states and phenomenal continuity. Check for cross-links to dreams-and-consciousness.md, altered-states-of-consciousness.md, neural-correlates-of-consciousness.md. Supports Dualism via phenomenal presence during sleep.
-- **Source**: staleness
-- **Generated**: 2026-01-20
 
 ### P2: Deep review parfit-reductionism.md for currency and cross-links
 - **Type**: deep-review
@@ -89,6 +83,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review sleep-and-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers sleep stages, dreaming, and consciousness—connects to altered states and phenomenal continuity. Check for cross-links to dreams-and-consciousness.md, altered-states-of-consciousness.md, neural-correlates-of-consciousness.md. Supports Dualism via phenomenal presence during sleep.
+- **Result**: Comprehensive review completed. Added "Contemplative Evidence: Sleep Yoga" section covering awareness without content, voluntary disengagement, and transformation upon return. Added "The Illusionist Challenge" section with four responses (asymmetry of dreamless sleep, regress problem, lucid dreaming as counter-example, contemplative challenge). Added "Process Philosophy Perspective" section (sleep as reconfigured prehension, binding problem reconsidered, why witness can persist, temporal experience in dreams). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded all 5 tenet connections with specific mechanisms (quantum Zeno for Minimal Quantum Interaction, haecceity for No Many Worlds). Added 6 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity, altered-states-of-consciousness). Added 6 new references. Fixed incomplete Nature Neuroscience 2023 citation.
+- **Output**: obsidian/concepts/sleep-and-consciousness.md, obsidian/reviews/deep-review-2026-01-20-sleep-and-consciousness.md
 
 ### ✓ 2026-01-20: Deep review episodic-memory.md for currency and cross-links
 - **Type**: deep-review

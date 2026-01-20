@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 18:30:00+00:00
+ai_modified: 2026-01-20 17:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,15 +38,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review episodic-memory.md for currency and cross-links
+### P2: Deep review parfit-reductionism.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Covers autobiographical memory and re-experiencing—connects to autonoetic consciousness and temporal consciousness. Check for cross-links to autonoetic-consciousness.md, semantic-memory.md, personal-identity.md. Supports Dualism via phenomenal reconstruction.
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers Parfit's reductionist view of personal identity—key contrast to site's haecceity-based position. Check for cross-links to personal-identity.md, haecceity.md, many-worlds.md. Supports No Many Worlds tenet via critique of psychological continuity as sufficient for identity.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
-### P2: Deep review sleep-and-consciousness.md for currency and cross-links
+### P2: Deep review philosophy-of-time.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Covers sleep stages, dreaming, and consciousness—connects to altered states and phenomenal continuity. Check for cross-links to dreams-and-consciousness.md, altered-states-of-consciousness.md, neural-correlates-of-consciousness.md. Supports Dualism via phenomenal presence during sleep.
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers A-theory vs B-theory, presentism, eternalism—foundational for temporal consciousness and collapse timing. Check for cross-links to collapse-and-time.md, specious-present.md, time-collapse-and-agency.md. Supports site framework via connection between real temporal becoming and consciousness.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review semantic-memory.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers noetic consciousness and factual knowledge—contrasts with autonoetic/episodic modes. Check for cross-links to episodic-memory.md, cognitive-phenomenology.md, working-memory.md. Supports Dualism via phenomenology of conceptual understanding.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review animal-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page, never deep-reviewed. Covers non-human consciousness evidence and implications—central to ethics-of-consciousness. Check for cross-links to minimal-consciousness.md, ethics-of-consciousness.md, problem-of-other-minds.md. Supports multiple tenets via consciousness distribution question.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review death-and-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page, never deep-reviewed. Covers death as cessation of consciousness and related philosophical questions. Check for cross-links to personal-identity.md, haecceity.md, near-death-experiences.md. Supports Dualism and No Many Worlds via consciousness as distinct from physical continuity.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
@@ -66,6 +84,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review sleep-and-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers sleep stages, dreaming, and consciousness—connects to altered states and phenomenal continuity. Check for cross-links to dreams-and-consciousness.md, altered-states-of-consciousness.md, neural-correlates-of-consciousness.md. Supports Dualism via phenomenal presence during sleep.
+- **Result**: Comprehensive review completed. Added "Contemplative Evidence: Sleep Yoga" section covering awareness without content, voluntary disengagement, and transformation upon return. Added "The Illusionist Challenge" section with four responses (asymmetry of dreamless sleep, regress problem, lucid dreaming as counter-example, contemplative challenge). Added "Process Philosophy Perspective" section (sleep as reconfigured prehension, binding problem reconsidered, why witness can persist, temporal experience in dreams). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded all 5 tenet connections with specific mechanisms (quantum Zeno for Minimal Quantum Interaction, haecceity for No Many Worlds). Added 6 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity, altered-states-of-consciousness). Added 6 new references. Fixed incomplete Nature Neuroscience 2023 citation.
+- **Output**: obsidian/concepts/sleep-and-consciousness.md, obsidian/reviews/deep-review-2026-01-20-sleep-and-consciousness.md
+
+### ✓ 2026-01-20: Deep review episodic-memory.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers autobiographical memory and re-experiencing—connects to autonoetic consciousness and temporal consciousness. Check for cross-links to autonoetic-consciousness.md, semantic-memory.md, personal-identity.md. Supports Dualism via phenomenal reconstruction.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with three responses (regress problem, phenomenology of introspection, functional asymmetry). Added "Contemplative Evidence" section (witness consciousness, jhana states, cessation contrast). Added "Process Philosophy Perspective" section (actual occasions and prehension, temporal thickness, concrescence and reconstruction). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" from 4 to all 5 tenets with substantive connections (added Minimal Quantum Interaction via quantum selection in binding, Occam's Razor Has Limits via remember/know phenomenology). Added 7 new cross-links (illusionism, introspection, witness-consciousness, haecceity, decoherence, attention-as-interface, meditation-and-consciousness-modes). Added 5 new references.
+- **Output**: obsidian/concepts/episodic-memory.md, obsidian/reviews/deep-review-2026-01-20-episodic-memory.md
 
 ### ✓ 2026-01-20: Deep review mind-matter-interface.md for currency and cross-links
 - **Type**: deep-review
