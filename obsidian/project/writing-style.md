@@ -108,6 +108,15 @@ Prefer depth over breadth. A thorough treatment of one aspect beats shallow cove
 
 Content should transfer naturally to other formats: video narration, podcasts, audio readouts, quoted fragments, academic citations. Avoid phrasing tied to the web medium.
 
+**Self-reference terminology:**
+- First mention in each article: "The Unfinishable Map"
+- Subsequent mentions: "the Map" (lowercase "the" mid-sentence, uppercase at sentence start)
+- Possessive: "the Map's tenets", "the Map's position"
+- Avoid: "this site", "the site", "this project"
+
+**Example:**
+> The Unfinishable Map takes consciousness seriously as an irreducible feature of reality. The Map's five tenets rule out materialist explanations while remaining compatible with physics. According to the Map, causal closure is not absolute.
+
 **Use "the reader" sparingly—prefer inclusive alternatives:**
 - **Good:** "Those exploring this topic will find..." or "Consider the implications..."
 - **Avoid:** "The reader should click..." (assumes text, assumes interaction)
