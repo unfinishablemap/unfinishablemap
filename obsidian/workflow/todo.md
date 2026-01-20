@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T14:30:00+00:00
+ai_modified: 2026-01-20T15:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review animal-consciousness.md with UAL framework
-- **Type**: cross-review
-- **Notes**: Recent research in research/consciousness-simple-organisms-2026-01-19.md covers Unlimited Associative Learning framework, C. elegans consciousness debate, and 2024 New York Declaration on Animal Consciousness. Update animal-consciousness.md with current scientific consensus.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-20
 
 ### P2: Deep review brain-specialness.md for currency and cross-links
 - **Type**: deep-review
@@ -83,6 +77,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Cross-review animal-consciousness.md with UAL framework
+- **Type**: cross-review
+- **Notes**: Recent research in research/consciousness-simple-organisms-2026-01-19.md covers Unlimited Associative Learning framework, C. elegans consciousness debate, and 2024 New York Declaration on Animal Consciousness. Update animal-consciousness.md with current scientific consensus.
+- **Result**: Updated animal-consciousness.md with comprehensive enhancements: expanded New York Declaration section with key signatories and precautionary principle quote; detailed C. elegans section with Conscious Nematode paper findings (opioid system, anesthetics, Phi values); new "Insect Consciousness" section covering bee play behavior, cognitive bias tests, ant rescue behavior; new "Multiple Independent Origins" section with Godfrey-Smith's neural dynamics perspective; enhanced UAL framework section with Cambrian dating and interface framing. Added 6 new references and cross-link to research notes.
+- **Output**: obsidian/topics/animal-consciousness.md
 
 ### ✓ 2026-01-20: Deep review neurophenomenology.md for currency and cross-links
 - **Type**: deep-review
