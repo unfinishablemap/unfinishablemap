@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T14:38:00+00:00
+ai_modified: 2026-01-20T15:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review multi-mind-collapse-problem.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Addresses critical gap: how do multiple consciousness collapse events coordinate? Core to Bidirectional Interaction tenet. Check for cross-links to interface-locality.md, prebiotic-collapse.md, relational-quantum-mechanics.md. Ensure engagement with multi-observer coordination problem is current.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review mind-matter-interface.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page, never deep-reviewed. Unifies filter theory and quantum selection mechanisms—core to site's two-layer architecture. Check for cross-links to filter-theory.md, quantum-consciousness.md, consciousness-selecting-neural-patterns.md. Supports Bidirectional Interaction tenet.
@@ -71,6 +65,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review multi-mind-collapse-problem.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Addresses critical gap: how do multiple consciousness collapse events coordinate? Core to Bidirectional Interaction tenet. Check for cross-links to interface-locality.md, prebiotic-collapse.md, relational-quantum-mechanics.md. Ensure engagement with multi-observer coordination problem is current.
+- **Result**: Comprehensive review completed. Added "The Decoherence Challenge" section with three responses (revised timescales, Zeno sidestep, quantum biology precedents). Added "The Illusionist Challenge" section (regress response, phenomenology of separateness). Added "Process Philosophy Perspective" section (actual occasions as local, concrescence mechanism, why external reality agrees). Added "What Would Challenge This View?" section with 6 falsifiability conditions. Substantially expanded "Relation to Site Perspective" with all 5 tenets, haecceity connection, and pairing problem link. Added 6 new cross-links (illusionism, introspection, decoherence, haecceity, witness-consciousness, combination-problem). Added 6 new references.
+- **Output**: obsidian/concepts/multi-mind-collapse-problem.md, obsidian/reviews/deep-review-2026-01-20-multi-mind-collapse-problem.md
 
 ### ✓ 2026-01-20: Deep review autonoetic-consciousness.md for currency and cross-links
 - **Type**: deep-review
