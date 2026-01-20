@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 15:00:00+00:00
+ai_modified: 2026-01-20 07:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review brain-specialness.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, never deep-reviewed. Addresses why consciousness arises in brains but (perhaps) not other physical systems—critical for site's interface-locality hypothesis and Minimal Quantum Interaction tenet. Check for cross-links to interface-locality.md, quantum-biology.md, embodied-cognition.md.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review interface-locality.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, never deep-reviewed. Core concept for understanding why consciousness interfaces at specific brain regions—supports pairing-problem.md response. Check for cross-links to brain-specialness.md, attention-as-interface.md, psychophysical-coupling-law.md.
@@ -78,6 +72,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review brain-specialness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, never deep-reviewed. Addresses why consciousness arises in brains but (perhaps) not other physical systems—critical for site's interface-locality hypothesis and Minimal Quantum Interaction tenet. Check for cross-links to interface-locality.md, quantum-biology.md, embodied-cognition.md.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with two-level response showing criteria remain relevant regardless of illusionism debate. Added "The Decoherence Challenge" section with three-part response covering Tegmark-Hameroff controversy, quantum biology precedent, and Zeno alternative. Added "Process Philosophy Perspective" section translating five criteria into Whitehead's actual occasions framework. Added "What Would Challenge This View?" section with five falsifiability conditions. Added 4 new cross-links (illusionism, decoherence, introspection, attention-as-interface, quantum-biology) to frontmatter and Further Reading. Added 6 new references.
+- **Output**: obsidian/concepts/brain-specialness.md, reviews/deep-review-2026-01-20-brain-specialness.md
 
 ### ✓ 2026-01-20: Cross-review animal-consciousness.md with UAL framework
 - **Type**: cross-review
