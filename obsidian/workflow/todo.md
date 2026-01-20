@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T21:30:00+00:00
+ai_modified: 2026-01-20T23:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,15 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review continual-learning-argument.md for currency and cross-links
+### P2: Deep review arguments/functionalism.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated concept page (2026-01-20), never deep-reviewed. Covers Hoel's 2026 argument that LLMs cannot be conscious due to lack of continual learning. Check for cross-links to functionalism.md, llm-consciousness.md, ai-consciousness.md, substrate-independence-critique.md, philosophical-zombies.md. Supports site's critique of pure functionalism and Dualism tenet.
+- **Notes**: Argument page never deep-reviewed. Presents the case against functionalism using zombie arguments, inverted qualia, and knowledge argument. Critical for AI consciousness debates. Check for cross-links to functionalism.md, philosophical-zombies.md, inverted-qualia.md, knowledge-argument.md, continual-learning-argument.md. Core argument supporting Dualism tenet.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
-### P2: Deep review experiential-alignment.md for currency and cross-links
+### P2: Deep review substance-property-dualism.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated concept page (2026-01-17), never deep-reviewed. Proposes aligning AI to experiential quality rather than preferences—directly applies site's dualist framework to AI ethics. Check for cross-links to purpose-and-alignment.md, ethics-of-consciousness.md, phenomenal-value-realism.md, ai-consciousness.md. Supports Dualism and Bidirectional Interaction via emphasis on genuine experience mattering.
+- **Notes**: AI-generated concept page (2026-01-14), never deep-reviewed. Covers the distinction between substance and property dualism—foundational for understanding site's interactionist position. Check for cross-links to dualism.md, interactionist-dualism.md, epiphenomenalism.md, causal-closure.md. Supports Dualism tenet by clarifying what kind of dualism the site defends.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review predictive-processing.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (2026-01-14), never deep-reviewed. Covers predictive coding theory of consciousness—important physicalist alternative. Check for cross-links to global-workspace-theory.md, attention.md, illusionism.md, higher-order-theories.md. Useful foil for explaining why prediction-based accounts miss phenomenal character.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review neural-correlates-of-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (2026-01-14), never deep-reviewed. Covers NCCs and their limitations—central to explaining why correlation doesn't establish identity. Check for cross-links to hard-problem-of-consciousness.md, explanatory-gap.md, dualism.md, measurement-problem.md. Supports Dualism tenet by highlighting what NCCs leave unexplained.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
@@ -65,6 +77,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review experiential-alignment.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (2026-01-17), never deep-reviewed. Proposes aligning AI to experiential quality rather than preferences—directly applies site's dualist framework to AI ethics. Check for cross-links to purpose-and-alignment.md, ethics-of-consciousness.md, phenomenal-value-realism.md, ai-consciousness.md. Supports Dualism and Bidirectional Interaction via emphasis on genuine experience mattering.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section (regress response, practical asymmetry, contemplative evidence). Added "Process Philosophy Perspective" section (concrescence, eternal objects, why preferences are thin). Added "Contemplative Evidence" section (witness consciousness, Buddhist complication, jhana states). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets including Minimal Quantum Interaction via quantum selection mechanism. Added 6 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity, buddhism-and-dualism). Added 5 new references.
+- **Output**: obsidian/concepts/experiential-alignment.md, obsidian/reviews/deep-review-2026-01-20-experiential-alignment.md
+
+### ✓ 2026-01-20: Deep review continual-learning-argument.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (2026-01-20), never deep-reviewed. Covers Hoel's 2026 argument that LLMs cannot be conscious due to lack of continual learning. Check for cross-links to functionalism.md, llm-consciousness.md, ai-consciousness.md, substrate-independence-critique.md, philosophical-zombies.md. Supports site's critique of pure functionalism and Dualism tenet.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with regress argument, introspection defence, and heterophenomenology analysis. Added "Process Philosophy Perspective" section connecting to Whitehead's actual occasions, becoming, concrescence, and creative advance. Added "Contemplative Evidence" section covering witness consciousness, phenomenology of learning, and insight vs retrieval. Added "The Decoherence Challenge" section with three mitigating considerations. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets including No Many Worlds via haecceity connection. Added 9 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity, mental-effort, measurement-problem, mysterianism, epiphenomenalism). Added 5 new references.
+- **Output**: obsidian/concepts/continual-learning-argument.md, obsidian/reviews/deep-review-2026-01-20-continual-learning-argument.md
 
 ### ✓ 2026-01-20: Deep review substrate-independence-critique.md for currency and cross-links
 - **Type**: deep-review

@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-20T21:30:00+00:00
+ai_modified: 2026-01-20T23:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,24 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 23:00 - deep-review (experiential-alignment.md)
+- **Status**: Success
+- **File**: obsidian/concepts/experiential-alignment.md
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 6 (missing Illusionist Challenge section, missing Process Philosophy Perspective, missing Contemplative Evidence, Minimal Quantum Interaction tenet not addressed, no falsifiability section, Buddhist complication ignored)
+- **Enhancements made**: Added "The Illusionist Challenge" section (regress response, practical asymmetry, contemplative evidence). Added "Process Philosophy Perspective" section (concrescence and experiential quality, why preferences are thin, eternal objects and experiential dimensions). Added "Contemplative Evidence" section (witness consciousness, Buddhist complication, jhana states). Added "What Would Challenge This View?" section with 5 falsifiable conditions. Expanded "Relation to Site Perspective" from 4 to all 5 tenets including Minimal Quantum Interaction via quantum selection mechanism. Added 6 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity, buddhism-and-dualism). Added 5 new references.
+- **Output**: `reviews/deep-review-2026-01-20-experiential-alignment.md`
+- **Session**: 432
+
+### 21:50 - deep-review (continual-learning-argument.md)
+- **Status**: Success
+- **File**: obsidian/concepts/continual-learning-argument.md
+- **Critical issues addressed**: 5 (missing Illusionist Challenge section, missing No Many Worlds tenet connection, no Contemplative Evidence section, no Process Philosophy perspective, no "What Would Challenge This View?" section)
+- **Medium issues addressed**: 3 (decoherence not addressed despite quantum connection raised, weak cross-linking, quantum coherence speculation undeveloped)
+- **Enhancements made**: Added "The Illusionist Challenge" section with regress argument, introspection defence, and heterophenomenology analysis. Added "Process Philosophy Perspective" section connecting to Whitehead's actual occasions, becoming, concrescence, and creative advance. Added "Contemplative Evidence" section covering witness consciousness, phenomenology of learning, and insight vs retrieval. Added "The Decoherence Challenge" section with three mitigating considerations. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets including No Many Worlds via haecceity connection. Added 9 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity, mental-effort, measurement-problem, mysterianism, epiphenomenalism). Added 5 new references.
+- **Output**: `reviews/deep-review-2026-01-20-continual-learning-argument.md`
+- **Session**: 431
 
 ### 21:30 - deep-review (substrate-independence-critique.md)
 - **Status**: Success
