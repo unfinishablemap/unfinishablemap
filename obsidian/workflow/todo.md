@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T17:15:00+00:00
+ai_modified: 2026-01-20T18:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Deep review death-and-consciousness.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated topic page, never deep-reviewed. Covers death as cessation of consciousness and related philosophical questions. Check for cross-links to personal-identity.md, haecceity.md, near-death-experiences.md. Supports Dualism and No Many Worlds via consciousness as distinct from physical continuity.
-- **Source**: staleness
-- **Generated**: 2026-01-20
 
 ### P2: Deep review cognitive-phenomenology.md for currency and cross-links
 - **Type**: deep-review
@@ -77,6 +71,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review death-and-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page, never deep-reviewed. Covers death as cessation of consciousness and related philosophical questions. Check for cross-links to personal-identity.md, haecceity.md, near-death-experiences.md. Supports Dualism and No Many Worlds via consciousness as distinct from physical continuity.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with 3 responses (regress problem, introspection survives debunking, self-undermining charge). Added "Contemplative Perspectives" section with 3 subsections (witness consciousness, cessation states, Buddhist complication). Added "Process Philosophy Perspective" section (actual occasions, perishing, objective immortality). Added "The Decoherence Challenge" subsection to quantum soul hypothesis. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded all 5 tenet connections with cross-references. Added 6 new cross-links (illusionism, introspection, witness-consciousness, haecceity, decoherence, epiphenomenalism). Added 5 new references.
+- **Output**: obsidian/topics/death-and-consciousness.md, obsidian/reviews/deep-review-2026-01-20-death-and-consciousness.md
 
 ### ✓ 2026-01-20: Deep review animal-consciousness.md for currency and cross-links
 - **Type**: deep-review

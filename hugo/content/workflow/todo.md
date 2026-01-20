@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 17:30:00+00:00
+ai_modified: 2026-01-20 18:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,15 +38,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review animal-consciousness.md for currency and cross-links
+### P2: Deep review cognitive-phenomenology.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated topic page, never deep-reviewed. Covers non-human consciousness evidence and implications—central to ethics-of-consciousness. Check for cross-links to minimal-consciousness.md, ethics-of-consciousness.md, problem-of-other-minds.md. Supports multiple tenets via consciousness distribution question.
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers the phenomenal character of thought itself—whether thinking has irreducible experiential quality beyond sensory imagery. Check for cross-links to phenomenology.md, semantic-memory.md, introspection.md, llm-consciousness.md. Supports Dualism via the non-sensory phenomenology of understanding.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
-### P2: Deep review death-and-consciousness.md for currency and cross-links
+### P2: Deep review implicit-memory.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated topic page, never deep-reviewed. Covers death as cessation of consciousness and related philosophical questions. Check for cross-links to personal-identity.md, haecceity.md, near-death-experiences.md. Supports Dualism and No Many Worlds via consciousness as distinct from physical continuity.
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers non-conscious memory systems (procedural, priming, conditioning). Check for cross-links to episodic-memory.md, semantic-memory.md, working-memory.md, consciousness-selecting-neural-patterns.md. Supports Dualism via the contrast between conscious and non-conscious processing.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review prospective-memory.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers future-oriented memory and intention management. Check for cross-links to episodic-memory.md, autonoetic-consciousness.md, voluntary-attention.md, mental-effort.md. Supports Bidirectional Interaction via the role of conscious intention in maintaining future-directed goals.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
@@ -66,6 +72,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review death-and-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page, never deep-reviewed. Covers death as cessation of consciousness and related philosophical questions. Check for cross-links to personal-identity.md, haecceity.md, near-death-experiences.md. Supports Dualism and No Many Worlds via consciousness as distinct from physical continuity.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with 3 responses (regress problem, introspection survives debunking, self-undermining charge). Added "Contemplative Perspectives" section with 3 subsections (witness consciousness, cessation states, Buddhist complication). Added "Process Philosophy Perspective" section (actual occasions, perishing, objective immortality). Added "The Decoherence Challenge" subsection to quantum soul hypothesis. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded all 5 tenet connections with cross-references. Added 6 new cross-links (illusionism, introspection, witness-consciousness, haecceity, decoherence, epiphenomenalism). Added 5 new references.
+- **Output**: obsidian/topics/death-and-consciousness.md, obsidian/reviews/deep-review-2026-01-20-death-and-consciousness.md
+
+### ✓ 2026-01-20: Deep review animal-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page, never deep-reviewed. Covers non-human consciousness evidence and implications—central to ethics-of-consciousness. Check for cross-links to minimal-consciousness.md, ethics-of-consciousness.md, problem-of-other-minds.md. Supports multiple tenets via consciousness distribution question.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with regress response, evolutionary argument, and contemplative perspectives (Buddhist vijñāna doctrine). Added "Process Philosophy Perspective" section (Whitehead's panexperientialism, why animals satisfy criteria, multiple origins as confirmation). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Substantially expanded all 5 tenet connections with decoherence acknowledgment, haecceity implications, and epiphenomenalism rejection. Added 7 new cross-links (illusionism, introspection, decoherence, witness-consciousness, haecceity, buddhism-and-dualism, epiphenomenalism).
+- **Output**: obsidian/topics/animal-consciousness.md, obsidian/reviews/deep-review-2026-01-20-animal-consciousness.md
 
 ### ✓ 2026-01-20: Deep review semantic-memory.md for currency and cross-links
 - **Type**: deep-review

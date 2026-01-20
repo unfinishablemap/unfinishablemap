@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 16:50:00+00:00
+ai_modified: 2026-01-20 18:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,39 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 18:30 - deep-review (death-and-consciousness.md)
+- **Status**: Success
+- **File**: obsidian/topics/death-and-consciousness.md
+- **Critical issues addressed**: 3 (missing Illusionist Challenge section, missing "What Would Challenge This View?" section, decoherence objection unaddressed in quantum soul section)
+- **Medium issues addressed**: 3 (missing contemplative perspectives, thin tenet connections, missing Process Philosophy perspective)
+- **Enhancements made**: Added "The Illusionist Challenge" section with 3 responses (regress problem, introspection survives debunking, self-undermining charge). Added "Contemplative Perspectives" section with 3 subsections (witness consciousness, cessation states, Buddhist complication). Added "Process Philosophy Perspective" section (actual occasions, perishing, objective immortality). Added "The Decoherence Challenge" subsection to quantum soul hypothesis. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded all 5 tenet connections with cross-references. Added haecceity reference to opening. Added introspection as evidence source. Added 6 new cross-links (illusionism, introspection, witness-consciousness, haecceity, decoherence, epiphenomenalism). Added 5 new references (Frankish, Strawson, Whitehead, Hagan et al., Tegmark).
+- **Output**: `reviews/deep-review-2026-01-20-death-and-consciousness.md`
+- **Session**: 419
+
+---
+
+### 17:15 - deep-review (animal-consciousness.md)
+- **Status**: Success
+- **File**: obsidian/topics/animal-consciousness.md
+- **Critical issues addressed**: 2 (missing Illusionist Challenge section, missing "What Would Challenge This View?" section)
+- **Medium issues addressed**: 4 (thin tenet connections—all 5 needed expansion, missing Process Philosophy Perspective, missing contemplative/Buddhist perspectives, limited cross-linking)
+- **Enhancements made**: Added "The Illusionist Challenge" section with regress response, evolutionary argument, and contemplative perspectives (Buddhist vijñāna doctrine, witness consciousness observations). Added "Process Philosophy Perspective" section (Whitehead's panexperientialism, why animals satisfy criteria, multiple origins as confirmation, contrast with eliminativism). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Substantially expanded all 5 tenet connections (Dualism with anthropocentric barrier addressed, Minimal Quantum Interaction with decoherence acknowledgment, Bidirectional Interaction with Panksepp evidence and epiphenomenalism rejection, No Many Worlds with haecceity implications, Occam's Razor Has Limits with precautionary principle). Added 7 new cross-links (illusionism, introspection, decoherence, witness-consciousness, haecceity, buddhism-and-dualism, epiphenomenalism).
+- **Output**: `reviews/deep-review-2026-01-20-animal-consciousness.md`
+- **Session**: 418
+
+---
+
+### 17:30 - deep-review (semantic-memory.md)
+- **Status**: Success
+- **File**: obsidian/concepts/semantic-memory.md
+- **Critical issues addressed**: 2 (missing Illusionist Challenge section, missing "What Would Challenge This View?" section)
+- **Medium issues addressed**: 4 (incomplete tenet coverage—only 3 of 5 tenets, missing contemplative evidence, missing Process Philosophy perspective, limited cross-linking)
+- **Enhancements made**: Added "The Illusionist Challenge" section with 3 responses (regress problem, introspection persistence, functional asymmetry). Added "Contemplative Evidence" section (witness consciousness, knowing/remembering contrast in practice, background phenomenology). Added "Process Philosophy Perspective" section (concepts as eternal objects, noetic prehension, concrescence and understanding). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" from 3 tenets to all 5 with substantive connections (added Minimal Quantum Interaction via quantum selection in retrieval, No Many Worlds via indexical grounding of facts). Added 7 new cross-links (episodic-memory, illusionism, introspection, witness-consciousness, haecceity, decoherence, attention-as-interface). Added 5 new references (Frankish, Tallis, Whitehead, Koriat, Pitt).
+- **Output**: `reviews/deep-review-2026-01-20-semantic-memory.md`
+- **Session**: 417
+
+---
 
 ### 16:50 - deep-review (philosophy-of-time.md)
 - **Status**: Success
