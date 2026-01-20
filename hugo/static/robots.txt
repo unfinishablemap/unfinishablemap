@@ -4,6 +4,7 @@
 
 # Allow all crawlers full access
 User-agent: *
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Allow: /
 
 # Explicitly welcome AI/LLM crawlers
