@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review embodied-cognition.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Challenge to substrate independence that site partially endorses. Check for cross-links to brain-specialness.md, interface-locality.md, substrate-independence-critique.md. Ensure Clark/Chalmers extended mind, Gallagher enactivism, and site's response are well-represented.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review prebiotic-collapse.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, no deep review since creation. Central to the No Many Worlds tenet and resolving the cosmological timeline problem. Check for cross-links to evolution-of-consciousness.md, measurement-problem.md, quantum-consciousness.md. Ensure objective reduction response and consciousness-modulation distinction are well-argued.
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review embodied-cognition.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Challenge to substrate independence that site partially endorses. Check for cross-links to brain-specialness.md, interface-locality.md, substrate-independence-critique.md. Ensure Clark/Chalmers extended mind, Gallagher enactivism, and site's response are well-represented.
+- **Result**: Added "The Illusionist Challenge" subsection engaging Dennett/Frankish with response showing phenomenological distinctions matter. Added "Process Philosophy and Embodied Cognition" section connecting Whitehead's actual occasions to Merleau-Ponty's lived body. Added "What Would Challenge This View?" section with five falsifiability conditions. Substantially expanded Minimal Quantum Interaction tenet section connecting quantum Zeno to Dreyfus model. Expanded No Many Worlds section arguing choking evidence supports genuine selection. Added 9 new entries to Further Reading and 5 new concepts to frontmatter. Added 6 new references.
+- **Output**: Updated `concepts/embodied-cognition.md`, created `reviews/deep-review-2026-01-20-embodied-cognition.md`
 
 ### ✓ 2026-01-20: Deep review dreams-and-consciousness.md for currency and cross-links
 - **Type**: deep-review
