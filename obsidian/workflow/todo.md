@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T19:50:00+00:00
+ai_modified: 2026-01-20T01:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review decoherence.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Central to site's response to quantum consciousness objections. Check for cross-links to quantum-biology.md, neural-quantum-coherence.md, objections-to-interactionism.md. Ensure Tegmark critique and warm brain response are current with 2024-2025 research (Wiest microtubule study, Kerskens-Pérez MRI).
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review attention.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, no deep review since creation. Foundational concept for site's attention-as-interface hypothesis. Check for cross-links to attention-as-interface.md, voluntary-attention.md, consciousness-selecting-neural-patterns.md. Ensure attention-consciousness distinction and Zeno mechanism connection are well-developed.
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review decoherence.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Central to site's response to quantum consciousness objections. Check for cross-links to quantum-biology.md, neural-quantum-coherence.md, objections-to-interactionism.md. Ensure Tegmark critique and warm brain response are current with 2024-2025 research (Wiest microtubule study, Kerskens-Pérez MRI).
+- **Result**: Added "The Illusionist Challenge" section engaging Dennett/Frankish with response showing illusion problem compounds difficulty. Added "Process Philosophy Perspective" section with Whitehead's actual occasions. Added "What Would Challenge This View?" falsifiability section with five testable conditions. Expanded Quantum Zeno section with attention-as-interface connection. Revised photosynthesis section for accuracy (coherence ~60fs, functional relevance now doubted). Added 4 new cross-links (neural-quantum-coherence, illusionism, attention-as-interface, attention) to frontmatter and 4 to Further Reading.
+- **Output**: Updated `concepts/decoherence.md`, created `reviews/deep-review-2026-01-20-decoherence.md`
 
 ### ✓ 2026-01-20: Deep review pairing-problem.md for currency and cross-links
 - **Type**: deep-review
