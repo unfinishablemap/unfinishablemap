@@ -38,15 +38,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review continual-learning-argument.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page (2026-01-20), never deep-reviewed. Covers Hoel's 2026 argument that LLMs cannot be conscious due to lack of continual learning. Check for cross-links to functionalism.md, llm-consciousness.md, ai-consciousness.md, substrate-independence-critique.md, philosophical-zombies.md. Supports site's critique of pure functionalism and Dualism tenet.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review experiential-alignment.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page (2026-01-17), never deep-reviewed. Proposes aligning AI to experiential quality rather than preferences—directly applies site's dualist framework to AI ethics. Check for cross-links to purpose-and-alignment.md, ethics-of-consciousness.md, phenomenal-value-realism.md, ai-consciousness.md. Supports Dualism and Bidirectional Interaction via emphasis on genuine experience mattering.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review arguments/functionalism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: Argument page never deep-reviewed. Presents the case against functionalism using zombie arguments, inverted qualia, and knowledge argument. Critical for AI consciousness debates. Check for cross-links to functionalism.md, philosophical-zombies.md, inverted-qualia.md, knowledge-argument.md, continual-learning-argument.md. Core argument supporting Dualism tenet.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
@@ -66,6 +66,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review continual-learning-argument.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (2026-01-20), never deep-reviewed. Covers Hoel's 2026 argument that LLMs cannot be conscious due to lack of continual learning. Check for cross-links to functionalism.md, llm-consciousness.md, ai-consciousness.md, substrate-independence-critique.md, philosophical-zombies.md. Supports site's critique of pure functionalism and Dualism tenet.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with regress argument, introspection defence, and heterophenomenology analysis. Added "Process Philosophy Perspective" section connecting to Whitehead's actual occasions, becoming, concrescence, and creative advance. Added "Contemplative Evidence" section covering witness consciousness, phenomenology of learning, and insight vs retrieval. Added "The Decoherence Challenge" section with three mitigating considerations. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets including No Many Worlds via haecceity connection. Added 9 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity, mental-effort, measurement-problem, mysterianism, epiphenomenalism). Added 5 new references.
+- **Output**: obsidian/concepts/continual-learning-argument.md, obsidian/reviews/deep-review-2026-01-20-continual-learning-argument.md
 
 ### ✓ 2026-01-20: Deep review substrate-independence-critique.md for currency and cross-links
 - **Type**: deep-review
