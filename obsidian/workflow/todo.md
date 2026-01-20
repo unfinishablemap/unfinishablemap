@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T16:50:00+00:00
+ai_modified: 2026-01-20T17:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review semantic-memory.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Covers noetic consciousness and factual knowledge—contrasts with autonoetic/episodic modes. Check for cross-links to episodic-memory.md, cognitive-phenomenology.md, working-memory.md. Supports Dualism via phenomenology of conceptual understanding.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review animal-consciousness.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated topic page, never deep-reviewed. Covers non-human consciousness evidence and implications—central to ethics-of-consciousness. Check for cross-links to minimal-consciousness.md, ethics-of-consciousness.md, problem-of-other-minds.md. Supports multiple tenets via consciousness distribution question.
@@ -71,6 +65,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review semantic-memory.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers noetic consciousness and factual knowledge—contrasts with autonoetic/episodic modes. Check for cross-links to episodic-memory.md, cognitive-phenomenology.md, working-memory.md. Supports Dualism via phenomenology of conceptual understanding.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with three responses (regress problem, introspection persistence, functional asymmetry). Added "Contemplative Evidence" section (witness consciousness, knowing/remembering contrast, background phenomenology). Added "Process Philosophy Perspective" section (eternal objects, noetic prehension, concrescence). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" from 3 tenets to all 5 with substantive connections (added Minimal Quantum Interaction via quantum selection in retrieval, No Many Worlds via indexical grounding of facts). Added 7 new cross-links (episodic-memory, illusionism, introspection, witness-consciousness, haecceity, decoherence, attention-as-interface). Added 5 new references.
+- **Output**: obsidian/concepts/semantic-memory.md, obsidian/reviews/deep-review-2026-01-20-semantic-memory.md
 
 ### ✓ 2026-01-20: Deep review philosophy-of-time.md for currency and cross-links
 - **Type**: deep-review
