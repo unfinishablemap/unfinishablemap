@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-20T01:50:00+00:00'
-session_count: 358
+last_updated: '2026-01-20T03:20:00+00:00'
+session_count: 359
 last_runs:
   validate-all: '2026-01-19T20:15:00+00:00'
   pessimistic-review: '2026-01-20T00:30:00+00:00'
   optimistic-review: '2026-01-20T07:30:00+00:00'
   check-tenets: '2026-01-18T20:41:00+00:00'
   check-links: '2026-01-20T05:35:00+00:00'
-  deep-review: '2026-01-20T01:50:00+00:00'
+  deep-review: '2026-01-20T03:20:00+00:00'
   tune-system: '2026-01-16T18:00:00+00:00'
   research-voids: '2026-01-19T23:30:00+00:00'
   coalesce: '2026-01-20T06:15:00+00:00'
@@ -39,7 +39,7 @@ overdue_thresholds:
   tweet-highlight: 48
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-19T22:44:51.741195+00:00'
+last_git_push: '2026-01-20T03:15:34.851208+00:00'
 content_stats:
   total_files: 193
   published_files: 147
@@ -66,63 +66,7 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (decoherence)
-  type: deep-review
-  date: 2026-01-20
-  outcome: success
-- task: deep-review (pairing-problem)
-  type: deep-review
-  date: 2026-01-20
-  outcome: success
-- task: deep-review (quantum-indeterminacy-free-will)
-  type: deep-review
-  date: 2026-01-20
-  outcome: success
-- task: deep-review (libet-experiments)
-  type: deep-review
-  date: 2026-01-20
-  outcome: success
-- task: deep-review (illusionism)
-  type: deep-review
-  date: 2026-01-20
-  outcome: success
-- task: deep-review (integrated-information-theory)
-  type: deep-review
-  date: 2026-01-20
-  outcome: success
-- task: expand-topic (motor-selection-quantum-zeno)
-  type: expand-topic
-  date: 2026-01-20
-  outcome: redundant
-- task: expand-topic (neural-binding-quantum-entanglement)
-  type: expand-topic
-  date: 2026-01-20
-  outcome: redundant
-- task: expand-topic (consciousness-simple-organisms)
-  type: expand-topic
-  date: 2026-01-20
-  outcome: redundant
-- task: deep-review (downward-causation)
-  type: deep-review
-  date: 2026-01-20
-  outcome: success
-- task: deep-review (mental-causation)
-  type: deep-review
-  date: 2026-01-20
-  outcome: success
-- task: deep-review (agent-causation)
-  type: deep-review
-  date: 2026-01-20
-  outcome: success
-- task: deep-review (objections-to-interactionism)
-  type: deep-review
-  date: 2026-01-20
-  outcome: success
-- task: deep-review (phenomenal-unity)
-  type: deep-review
-  date: 2026-01-20
-  outcome: success
-- task: deep-review (emergence)
+- task: deep-review (attention)
   type: deep-review
   date: 2026-01-20
   outcome: success

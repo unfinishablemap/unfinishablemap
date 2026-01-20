@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 12:00:00+00:00
+ai_modified: 2026-01-20 03:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,39 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 03:20 - deep-review (attention.md)
+- **Status**: Success
+- **File**: obsidian/concepts/attention.md
+- **Critical issues addressed**: 3 (missing falsifiability section, decoherence challenge unaddressed, vague citations)
+- **Medium issues addressed**: 2 (mysterian angle missing, process philosophy perspective absent)
+- **Enhancements made**: Added "The Mysterian Angle" subsection connecting to cognitive closure. Added "The Decoherence Challenge" subsection with brief treatment and pointer to decoherence.md. Added "Process Philosophy Perspective" presenting Whitehead's actual occasions as complementary framework. Added comprehensive "What Would Challenge This View?" section with five falsification conditions. Specified previously vague study citations (Brewer et al. 2011 for PCC; Maheshwari & Bhowmik 2020 for alpha-theta). Added 5 new cross-links to frontmatter (decoherence, mysterianism, pairing-problem, agent-causation, many-worlds) and 4 to Further Reading. Added 4 new references (Brewer, Maheshwari, McGinn, Tegmark, Whitehead).
+- **Output**: `reviews/deep-review-2026-01-20-attention.md`
+- **Session**: 359
+
+---
+
+### 01:50 - deep-review (decoherence.md)
+- **Status**: Success
+- **File**: obsidian/concepts/decoherence.md
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (missing illusionism engagement, missing falsifiability section, missing process philosophy connection, incomplete cross-linking, photosynthesis claim overstated)
+- **Enhancements made**: Added "The Illusionist Challenge" section engaging Dennett/Frankish with response showing illusion problem compounds difficulty. Added "Process Philosophy Perspective" section with Whitehead's actual occasions as complementary metaphysics. Added "What Would Challenge This View?" falsifiability section with five testable conditions (quantum biology non-functional, Zeno mechanism insufficient, neural quantum effects ruled out, Many-Worlds proves correct, decoherence solves measurement problem). Expanded Quantum Zeno section with attention-as-interface connection. Revised photosynthesis section for accuracy (coherence ~60fs, functional relevance now doubted). Added 4 new cross-links to frontmatter (neural-quantum-coherence, illusionism, attention-as-interface, attention) and 4 to Further Reading (neural-quantum-coherence, attention-as-interface, illusionism, many-worlds). Added references for Dennett, Frankish, Stapp, Tallis, Whitehead.
+- **Output**: `reviews/deep-review-2026-01-20-decoherence.md`
+- **Session**: 358
+
+---
+
+### 19:50 - deep-review (pairing-problem.md)
+- **Status**: Success
+- **File**: obsidian/concepts/pairing-problem.md
+- **Critical issues addressed**: 2 (missing "Relation to Site Perspective" section, missing falsifiability section)
+- **Medium issues addressed**: 4 (missing interface-locality cross-link, missing objections-to-interactionism cross-link, no illusionism engagement, no decoherence connection)
+- **Enhancements made**: Added "The Illusionist Challenge" section engaging Dennett/Frankish with response showing problem reappears for functional systems. Added "What Would Challenge This View?" section with five falsifiability conditions. Added interface locality connection showing developmental co-construction as pairing mechanism. Added comprehensive "Relation to Site Perspective" section connecting to Minimal Quantum Interaction, Bidirectional Interaction, Dualism, and Occam's Razor Has Limits tenets. Added decoherence connection. Strengthened haecceity discussion with cross-reference to dedicated article. Added 5 new cross-links to frontmatter (interface-locality, objections-to-interactionism, haecceity, illusionism, decoherence) and 5 to Further Reading.
+- **Output**: `reviews/deep-review-2026-01-20-pairing-problem.md`
+- **Session**: 357
+
+---
 
 ### 12:00 - deep-review (quantum-indeterminacy-free-will.md)
 - **Status**: Success

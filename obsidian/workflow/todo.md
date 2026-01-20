@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T01:50:00+00:00
+ai_modified: 2026-01-20T03:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review attention.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Foundational concept for site's attention-as-interface hypothesis. Check for cross-links to attention-as-interface.md, voluntary-attention.md, consciousness-selecting-neural-patterns.md. Ensure attention-consciousness distinction and Zeno mechanism connection are well-developed.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review dreams-and-consciousness.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, no deep review since creation. Important for understanding consciousness without external input. Check for cross-links to altered-states-of-consciousness.md, sleep-and-consciousness.md, filter-theory.md. Ensure lucid dreaming evidence and phenomenal continuity arguments are current.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review attention.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Foundational concept for site's attention-as-interface hypothesis. Check for cross-links to attention-as-interface.md, voluntary-attention.md, consciousness-selecting-neural-patterns.md. Ensure attention-consciousness distinction and Zeno mechanism connection are well-developed.
+- **Result**: Added "The Mysterian Angle" subsection connecting to cognitive closure. Added "The Decoherence Challenge" subsection with brief treatment and pointer to decoherence.md. Added "Process Philosophy Perspective" presenting Whitehead's actual occasions. Added "What Would Challenge This View?" section with five falsification conditions. Specified vague citations (Brewer et al. 2011, Maheshwari & Bhowmik 2020). Added 5 cross-links to frontmatter and 4 to Further Reading.
+- **Output**: Updated `concepts/attention.md`, created `reviews/deep-review-2026-01-20-attention.md`
 
 ### ✓ 2026-01-20: Deep review decoherence.md for currency and cross-links
 - **Type**: deep-review
