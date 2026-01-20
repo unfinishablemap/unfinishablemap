@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 12:35:00+00:00
+ai_modified: 2026-01-20 17:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -56,19 +56,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review intentionality.md for currency and cross-links
+### P2: Deep review phenomenology.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Brentano's "mark of the mental" - foundational for understanding consciousness. Check for cross-links to phenomenology.md, cognitive-phenomenology.md, functionalism.md. Ensure naturalization debate (Dretske, Millikan, Fodor) and site's response to eliminativist/functionalist readings are well-developed.
+- **Notes**: AI-generated, no deep review since creation. Foundational methodological concept for studying consciousness. Check for cross-links to introspection.md, neurophenomenology.md, cognitive-phenomenology.md. Ensure Husserl's epoché, Merleau-Ponty's embodiment, and Heidegger's being-in-the-world are well-represented. Important for site's defense of first-person methods.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
-### P2: Deep review mysterianism.md for currency and cross-links
+### P2: Deep review witness-consciousness.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Strongly supports Occam's Razor Has Limits tenet. Check for cross-links to explanatory-gap.md, minimal-consciousness.md, whether-real.md. Ensure McGinn's cognitive closure argument and Nagel's bat connection are well-represented. Consider falsifiability concerns and site's response.
+- **Notes**: AI-generated, no deep review since creation. Important for site's perspective on observer/observed distinction. Check for cross-links to meditation-and-consciousness-modes.md, buddhism-and-dualism.md, self-and-consciousness.md. Ensure phenomenological descriptions and relation to dualism are well-developed.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review mysterianism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Strongly supports Occam's Razor Has Limits tenet. Check for cross-links to explanatory-gap.md, minimal-consciousness.md, whether-real.md. Ensure McGinn's cognitive closure argument and Nagel's bat connection are well-represented. Consider falsifiability concerns and site's response.
+- **Result**: Added "The Illusionist Challenge" section engaging Frankish/Dennett with mysterian counter-argument about infinite regress and cognitive closure as symptom. Added "Process Philosophy Perspective" with Whitehead's actual occasions as compatible framework. Added "What Would Challenge This View?" section with five falsifiability conditions. Expanded "Relation to Site Perspective" to address all five tenets explicitly including quantum mechanism connection. Added 4 new cross-links (illusionism, combination-problem, introspection, decoherence) to frontmatter and 3 to Further Reading. Added 4 new references (Chomsky, Frankish, Tallis, Whitehead).
+- **Output**: Updated `concepts/mysterianism.md`, created `reviews/deep-review-2026-01-20-mysterianism.md`
+
+### ✓ 2026-01-20: Deep review intentionality.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Brentano's "mark of the mental" - foundational for understanding consciousness. Check for cross-links to phenomenology.md, cognitive-phenomenology.md, functionalism.md. Ensure naturalization debate (Dretske, Millikan, Fodor) and site's response to eliminativist/functionalist readings are well-developed.
+- **Result**: Added "The Illusionist Challenge" section engaging Dennett's intentional stance with self-refutation response. Added "Process Philosophy and Intentionality" section with Whitehead's prehension as proto-intentionality. Added "What Would Challenge This View?" section with five falsifiability conditions. Added "The Decoherence Question" connecting quantum biology to intentional content. Added explanatory-gap cross-link in PIT section. Added 4 new cross-links (illusionism, introspection, explanatory-gap, decoherence) to frontmatter and 4 to Further Reading. Added Dennett, IEP, Whitehead references.
+- **Output**: Updated `concepts/intentionality.md`, created `reviews/deep-review-2026-01-20-intentionality.md`
 
 ### ✓ 2026-01-20: Deep review prebiotic-collapse.md for currency and cross-links
 - **Type**: deep-review
