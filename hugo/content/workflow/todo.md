@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 20:20:00+00:00
+ai_modified: 2026-01-20 20:41:36+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,17 +38,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review phenomenal-value-realism.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Covers view that phenomenal properties ground objective value—connects consciousness to ethics. Check for cross-links to ethics-of-consciousness.md, qualia.md, moral-responsibility.md, meaning-of-life.md. Supports Dualism via irreducibility of value to function.
-- **Source**: staleness
-- **Generated**: 2026-01-21
-
 ### P2: Deep review substrate-independence-critique.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page, never deep-reviewed. Critiques functionalist assumption that consciousness is substrate-independent—crucial for AI consciousness debates. Check for cross-links to functionalism.md, llm-consciousness.md, ai-consciousness.md, quantum-consciousness.md. Supports Minimal Quantum Interaction via emphasis on physical implementation mattering.
 - **Source**: staleness
 - **Generated**: 2026-01-21
+
+### P2: Deep review continual-learning-argument.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (2026-01-20), never deep-reviewed. Covers Hoel's 2026 argument that LLMs cannot be conscious due to lack of continual learning. Check for cross-links to functionalism.md, llm-consciousness.md, ai-consciousness.md, substrate-independence-critique.md, philosophical-zombies.md. Supports site's critique of pure functionalism and Dualism tenet.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review experiential-alignment.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (2026-01-17), never deep-reviewed. Proposes aligning AI to experiential quality rather than preferences—directly applies site's dualist framework to AI ethics. Check for cross-links to purpose-and-alignment.md, ethics-of-consciousness.md, phenomenal-value-realism.md, ai-consciousness.md. Supports Dualism and Bidirectional Interaction via emphasis on genuine experience mattering.
+- **Source**: staleness
+- **Generated**: 2026-01-20
 
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
@@ -66,6 +72,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review phenomenal-value-realism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers view that phenomenal properties ground objective value—connects consciousness to ethics. Check for cross-links to ethics-of-consciousness.md, qualia.md, moral-responsibility.md, meaning-of-life.md. Supports Dualism via irreducibility of value to function.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with three responses (regress, introspective survival, self-stultifying) plus contemplative challenge. Added "Process Philosophy Perspective" section connecting Whitehead's actual occasions to phenomenal value. Added "The Buddhist Complication" subsection. Added "Contemplative Evidence" section (directness of valence, jhāna states, cessation). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Added comprehensive "Relation to Site Perspective" covering all 5 tenets. Added 6 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity, buddhism-and-dualism). Added 4 new references.
+- **Output**: obsidian/concepts/phenomenal-value-realism.md, obsidian/reviews/deep-review-2026-01-20-phenomenal-value-realism.md
 
 ### ✓ 2026-01-20: Write article on Hoel's continual learning argument
 - **Type**: expand-topic

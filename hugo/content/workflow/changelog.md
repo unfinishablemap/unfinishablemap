@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 20:20:00+00:00
+ai_modified: 2026-01-20 20:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,23 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 20:42 - deep-review (phenomenal-value-realism.md)
+- **Status**: Success
+- **File**: obsidian/concepts/phenomenal-value-realism.md
+- **Critical issues addressed**: 3 (missing Illusionist Challenge section, missing "What Would Challenge This View?" section, missing structured "Relation to Site Perspective" covering all 5 tenets)
+- **Medium issues addressed**: 4 (missing cross-links to illusionism/introspection/witness-consciousness/decoherence/buddhism-and-dualism, no Process Philosophy perspective, Buddhist objection unaddressed, no contemplative evidence)
+- **Enhancements made**: Added "The Illusionist Challenge" section with three responses (regress, introspective survival, self-stultifying) plus contemplative challenge. Added "Process Philosophy Perspective" section connecting Whitehead's actual occasions to phenomenal value. Added "The Buddhist Complication" subsection addressing emptiness. Added "Contemplative Evidence" section (directness of valence, jhāna states, cessation). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Added comprehensive "Relation to Site Perspective" covering all 5 tenets. Added 6 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity, buddhism-and-dualism). Added 4 new references (Frankish, Dennett, Tallis, Whitehead).
+- **Output**: `reviews/deep-review-2026-01-20-phenomenal-value-realism.md`
+- **Session**: 429
+
+### 20:31 - expand-topic (continual-learning-argument)
+- **Status**: Success
+- **Topic**: Hoel's continual learning argument against LLM consciousness
+- **Output**: `concepts/continual-learning-argument.md`
+- **Based on research**: `research/hoel-llm-consciousness-continual-learning-2026-01-15.md`
+- **Content**: New article covering Erik Hoel's 2026 paper arguing LLMs cannot be conscious because they lack continual learning. Covers the proximity argument, falsifiability-non-triviality dilemma, and continual learning as a consciousness marker. Connected to all 5 site tenets with analysis of how the argument supports anti-functionalism and bidirectional interaction.
+- **Session**: 428
 
 ### 20:20 - deep-review (attention-schema-theory.md)
 - **Status**: Success
