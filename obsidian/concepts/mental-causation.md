@@ -3,7 +3,7 @@ title: "Mental Causation"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-20T05:30:00+00:00
+ai_modified: 2026-01-20T11:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,12 @@ concepts:
   - "[[agent-causation]]"
   - "[[downward-causation]]"
   - "[[reductionism]]"
+  - "[[illusionism]]"
+  - "[[interface-locality]]"
+  - "[[many-worlds]]"
+  - "[[pairing-problem]]"
+  - "[[decoherence]]"
+  - "[[attention-as-interface]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments/epiphenomenalism]]"
@@ -25,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-20T11:30:00+00:00
 ---
 
 Mental causation is the thesis that mental states cause physical effects. When you decide to raise your arm, your decision causes the arm to rise. When pain motivates you to avoid the fire, the pain causes the avoidance. This seems obvious from experience but faces a formidable philosophical challenge: Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. This site's quantum framework provides a response: consciousness causes physical effects at points where physics is genuinely incomplete.
@@ -111,6 +117,18 @@ If consciousness acts at these indeterminacies—selecting among outcomes physic
 
 This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness biases quantum outcomes where the physical story runs out.
 
+### The Decoherence Challenge
+
+The main physics-based objection: warm neural tissue decoheres quantum superpositions in ~10^-13 seconds (Tegmark 2000), far too fast for consciousness to exploit. But this objection is more nuanced than often presented. First, recent calculations incorporating biological protective mechanisms (Fröhlich coherence, hydrophobic interiors, nuclear spin isolation) extend coherence estimates by many orders of magnitude. Second, [[decoherence]] doesn't eliminate quantum indeterminacy—it explains why interference effects wash out, but outcomes still require determination. As a 2025 review notes: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured."
+
+Consciousness could bias outcomes at the point of measurement even after decoherence has occurred. The quantum opening remains open.
+
+### Why Not Many Worlds?
+
+If all quantum outcomes occur in branching universes, there's no "selection" for consciousness to perform—every possibility actualizes somewhere. The site's [[many-worlds|rejection of Many-Worlds]] is therefore essential to mental causation. On MWI, consciousness would be epiphenomenal with respect to quantum events: it couldn't affect which outcomes occur because all outcomes occur.
+
+The [[tenets#^no-many-worlds|No Many Worlds]] tenet isn't incidental to the framework—it's required for mental causation to be possible.
+
 ## Agent Causation and Mental Causation
 
 The exclusion argument assumes event causation—events causing events according to laws. But [[agent-causation|agent causation]] offers a different model: substances (agents) causing events through exercise of causal powers.
@@ -118,6 +136,16 @@ The exclusion argument assumes event causation—events causing events according
 E.J. Lowe argued that all causation is fundamentally substance causation. The conscious subject causes actions not as one event producing another but as an agent exercising powers. If consciousness is a substance with genuine causal powers operating at quantum indeterminacies, the exclusion argument's framework doesn't apply.
 
 The phenomenology of [[mental-effort|mental effort]] supports this: effort feels like *doing* something, not like observing events that happen to correlate with effort. Directing attention is experienced as agent causation, not event causation.
+
+### Process Philosophy Alternative
+
+Whitehead's process philosophy offers a complementary perspective. His "actual occasions"—momentary experiential events—exercise what Whitehead called "self-determination" in constituting themselves from their causal inheritance. On this view, causation is inherently experiential: each moment of experience contributes something new through creative synthesis.
+
+This reframes mental causation as continuous with causation generally rather than metaphysically exceptional. If all causation involves experiential self-determination, human mental causation exemplifies what causation fundamentally is. The exclusion argument's assumption that causation is purely event-event regularities would be mistaken from the start.
+
+### The Interface Question
+
+If consciousness causes physical effects, why only in *this* brain? The [[pairing-problem|pairing problem]] asks what connects a particular mind to a particular body. The site's response: consciousness is spatially located where it causally interfaces with the brain. [[Interface-locality]] constrains mental causation to neural systems already integrated into the subject's control loop—consciousness can only influence quantum systems it can "observe" through the [[attention-as-interface|attention mechanism]].
 
 ## The Self-Stultification Argument
 
@@ -137,6 +165,14 @@ If mental states cause nothing, then:
 - Your reasoning about mental causation isn't influenced by mental evidence
 
 This makes denying mental causation epistemically self-defeating. Any argument against mental causation must reach your beliefs through causally inert consciousness—which means it doesn't reach them at all.
+
+### The Illusionist Response
+
+[[Illusionism]] attempts to sidestep this argument. Frankish and Dennett argue that our reports about consciousness can be produced by sophisticated neural information processing without phenomenal causation. The brain models itself, and these self-models generate accurate reports—no phenomenal properties need cause anything.
+
+But illusionism faces its own version of self-stultification. If the appearance of phenomenal consciousness is itself an illusion, something must be experiencing that illusion. To be under an illusion that consciousness exists requires there to be *something it is like* to have that mistaken representation. The illusion of phenomenal properties presupposes phenomenal properties—or at least something playing their functional role.
+
+Raymond Tallis puts it sharply: "Misrepresentation presupposes presentation." All illusions presuppose experience. If physical matter cannot generate phenomenal consciousness, it certainly cannot generate the *illusion* of phenomenal consciousness. The illusionist trades the hard problem for an equally hard "illusion problem."
 
 ## Relation to This Site's Perspective
 
@@ -164,8 +200,24 @@ Mental causation bears directly on:
 
 The site affirms mental causation because denying it undermines everything we think we know about ourselves.
 
+## What Would Challenge This View?
+
+Mental causation, as defended here, is falsifiable. Findings that would undermine the framework:
+
+**Complete neural determinism**: If all neural events could be predicted from prior physical states with 100% accuracy, leaving no quantum gap for consciousness to fill, the site's mechanism would fail. Current predictive accuracy (~60% for simple choices) leaves substantial room, but dramatic advances in neural prediction would challenge the view.
+
+**Elimination of neural quantum effects**: If quantum coherence were proven physically impossible in brain tissue—not just challenging but excluded by physics—the proposed interface mechanism fails. Current evidence from [[quantum-biology|quantum biology]] (avian magnetoreception, enzyme catalysis, photosynthesis) suggests biological quantum effects are more robust than expected, but definitive evidence against neural quantum effects would be significant.
+
+**Successful illusionist explanation**: If a fully satisfying account emerged explaining why we *seem* to have phenomenal experiences without any phenomenal properties existing—one that doesn't invoke seeming to something—this would dissolve the motivation for mental causation. Current illusionist proposals (AST, multiple drafts) face the regress problem, but a proposal that genuinely avoided it would challenge the site's position.
+
+**Dissociation of reports from experiences**: If manipulation could reliably make people report experiences they genuinely weren't having—accurate reports without corresponding experiences, or experiences without any reportability—this would challenge the causal connection the self-stultification argument depends on. Current evidence from blindsight and inattentional blindness show dissociations, but these are better interpreted as access consciousness/phenomenal consciousness distinctions than as breaks in the causal chain.
+
+**Confirmation of Many-Worlds**: If the [[many-worlds|many-worlds interpretation]] were empirically confirmed (though how this could occur is unclear), there would be no collapse for consciousness to influence—all outcomes occur in branching universes. This would eliminate the quantum opening entirely.
+
 ## Further Reading
 
+- [[illusionism]] — The radical challenge that denies phenomenal consciousness exists
+- [[many-worlds]] — Why the site rejects MWI (and why it matters for mental causation)
 - [[reductionism]] — Why the reductionist alternative to mental causation fails; Kim's exclusion argument and responses
 - [[arguments/epiphenomenalism]] — The cumulative case against epiphenomenalism (five arguments)
 - [[causal-closure]] — The principle mental causation challenges
@@ -175,14 +227,22 @@ The site affirms mental causation because denying it undermines everything we th
 - [[emergence]] — Mental causation as strong emergence with mechanism
 - [[agent-causation]] — The metaphysical framework for substance causation
 - [[quantum-consciousness]] — How consciousness interfaces with physics
+- [[decoherence]] — The physics challenge and why it doesn't close the quantum opening
+- [[interface-locality]] — Why consciousness affects only its own brain
+- [[pairing-problem]] — What connects this mind to this body
+- [[attention-as-interface]] — How attention implements the consciousness-physics interface
 - [[free-will]] — The implications for agency
 
 ## References
 
+- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 - Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-- Yablo, S. (1992). Mental Causation. *Philosophical Review*, 101: 245-280.
-- Woodward, J. (2003). *Making Things Happen*. Oxford University Press.
-- O'Connor, T. & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
 - Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
+- O'Connor, T. & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+- Woodward, J. (2003). *Making Things Happen*. Oxford University Press.
+- Yablo, S. (1992). Mental Causation. *Philosophical Review*, 101: 245-280.
