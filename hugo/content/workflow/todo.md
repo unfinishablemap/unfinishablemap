@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 06:50:00+00:00
+ai_modified: 2026-01-20 08:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -56,12 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review introspection.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Methodologically important - site's framework depends on taking first-person data seriously. Check for cross-links to phenomenology.md, neurophenomenology.md, metacognition.md. Ensure response to Schwitzgebel's unreliability critique is well-developed.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review hard-problem-of-consciousness.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, last deep review 2026-01-10 (10 days ago). Core topic page—foundational to entire site framework. Check for cross-links to recent deep-reviewed content (mysterianism.md, illusionism.md, explanatory-gap.md). Ensure engagement with Frankish's illusionism and Chalmers' meta-problem is current.
@@ -75,6 +69,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review introspection.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Methodologically important - site's framework depends on taking first-person data seriously. Check for cross-links to phenomenology.md, neurophenomenology.md, metacognition.md. Ensure response to Schwitzgebel's unreliability critique is well-developed.
+- **Result**: Added "The Illusionist Challenge" section with regress response, introspection-of-introspection analysis, and self-undermining problem. Added "Process Philosophy and Introspection" section connecting Whitehead's actual occasions to process/content asymmetry. Added "What Would Challenge This View?" falsifiability section with five conditions. Expanded tenet connections to cover all five tenets (added Minimal Quantum Interaction and No Many Worlds). Added 4 new cross-links (illusionism, witness-consciousness, voluntary-attention, decoherence) to frontmatter and Further Reading. Added 5 new references (Dennett, Frankish, Strawson, Tallis, Whitehead).
+- **Output**: Updated `concepts/introspection.md`, created `reviews/deep-review-2026-01-20-introspection.md`
 
 ### ✓ 2026-01-20: Deep review arguments-for-dualism.md for currency and cross-links
 - **Type**: deep-review
