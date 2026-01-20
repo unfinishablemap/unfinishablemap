@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 17:00:00+00:00
+ai_modified: 2026-01-20 09:46:53+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,15 +38,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review quantum-consciousness.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, never deep-reviewed. Core concept for Minimal Quantum Interaction tenet—covers Orch OR, quantum Zeno, and related theories. Check for cross-links to decoherence.md, neural-quantum-coherence.md, measurement-problem.md. Ensure 2024-2025 research developments are incorporated.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review self-reference-paradox.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: Voids article on self-reference paradoxes in consciousness studies. Never deep-reviewed. Check for cross-links to mysterianism.md, introspection.md, metacognition.md. Core to Occam's Razor Has Limits tenet—explores where attempts to understand consciousness become self-undermining.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review ai-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page, never deep-reviewed. Core topic connecting dualist framework to AI systems. Check for cross-links to llm-consciousness.md, functionalism.md, substrate-independence-critique.md, problem-of-other-minds.md. Ensure engagement with recent LLM consciousness debates (LaMDA, GPT-4) is current.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review personal-identity.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page, never deep-reviewed. Connects personal identity to No Many Worlds tenet via indexical identity. Check for cross-links to haecceity.md, parfit-reductionism.md, death-and-consciousness.md, many-worlds.md. Core for site's anti-reductionist stance on identity.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review thoughts-that-slip-away.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: Voids article, never deep-reviewed. Explores phenomenology of ideas at edge of graspability—highly relevant to apophatic-approaches.md and limits-reveal-structure.md. Check for cross-links to phenomenology-of-the-edge.md, introspection.md, mysterianism.md. Supports Occam's Razor Has Limits tenet.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
@@ -66,6 +78,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review quantum-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, never deep-reviewed. Core concept for Minimal Quantum Interaction tenet—covers Orch OR, quantum Zeno, and related theories. Check for cross-links to decoherence.md, neural-quantum-coherence.md, measurement-problem.md. Ensure 2024-2025 research developments are incorporated.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section engaging Dennett, Frankish, Strawson, Tallis with regress argument, selection problem persistence, and phenomenology of effort responses. Added "Process Philosophy Perspective" section connecting Whitehead's actual occasions to quantum selection framework. Added "What Would Challenge This View?" falsifiability section with five conditions. Expanded "Relation to Site Perspective" from four to all five tenets with substantive connections. Added 4 new cross-links (illusionism, introspection, haecceity, witness-consciousness). Added 5 new references.
+- **Output**: obsidian/concepts/quantum-consciousness.md, obsidian/reviews/deep-review-2026-01-20-quantum-consciousness.md
 
 ### ✓ 2026-01-20: Deep review philosophical-zombies.md for currency and cross-links
 - **Type**: deep-review
