@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T00:00:00+00:00
+ai_modified: 2026-01-21T01:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,17 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review retrocausality.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Covers retrocausality as resolution to Libet timing objection—how consciousness can causally influence events despite neural activity preceding awareness. Check for cross-links to libet-experiments.md, collapse-and-time.md, quantum-indeterminacy-free-will.md. Supports Bidirectional Interaction tenet by dissolving temporal ordering objections.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review inverted-qualia.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page, never deep-reviewed. Covers inverted spectrum thought experiment—Locke's scenario developed by Block, Fodor, Shoemaker as argument against functionalism. Check for cross-links to qualia.md, functionalism.md, knowledge-argument.md, philosophical-zombies.md. Supports Dualism tenet via argument that qualia aren't determined by function alone.
 - **Source**: staleness
 - **Generated**: 2026-01-20
+
+### P2: Deep review attention-schema-theory.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers Graziano's theory that consciousness is the brain's schematic model of attention—important physicalist alternative to address. Check for cross-links to attention.md, attention-as-interface.md, illusionism.md, global-workspace-theory.md. Useful foil for explaining why attention-as-mechanism differs from attention-as-interface.
+- **Source**: staleness
+- **Generated**: 2026-01-21
+
+### P2: Deep review phenomenal-value-realism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers view that phenomenal properties ground objective value—connects consciousness to ethics. Check for cross-links to ethics-of-consciousness.md, qualia.md, moral-responsibility.md, meaning-of-life.md. Supports Dualism via irreducibility of value to function.
+- **Source**: staleness
+- **Generated**: 2026-01-21
+
+### P2: Deep review substrate-independence-critique.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Critiques functionalist assumption that consciousness is substrate-independent—crucial for AI consciousness debates. Check for cross-links to functionalism.md, llm-consciousness.md, ai-consciousness.md, quantum-consciousness.md. Supports Minimal Quantum Interaction via emphasis on physical implementation mattering.
+- **Source**: staleness
+- **Generated**: 2026-01-21
 
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
@@ -65,6 +77,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review retrocausality.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers retrocausality as resolution to Libet timing objection—how consciousness can causally influence events despite neural activity preceding awareness. Check for cross-links to libet-experiments.md, collapse-and-time.md, quantum-indeterminacy-free-will.md. Supports Bidirectional Interaction tenet by dissolving temporal ordering objections.
+- **Result**: Comprehensive review completed. Added "The Decoherence Challenge" section with three mitigating considerations. Added "The Illusionist Challenge" section with three responses (regress problem, introspection survives, functional asymmetry). Added "Contemplative Evidence" section with three subsections (witness consciousness, phenomenology of decision, cessation states). Added "Process Philosophy Perspective" section connecting actual occasions, eternal objects, and concrescence to retrocausal selection. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets with substantive analysis. Added 6 new cross-links (illusionism, decoherence, witness-consciousness, haecceity, introspection, free-will topic). Added 5 new references.
+- **Output**: obsidian/concepts/retrocausality.md, obsidian/reviews/deep-review-2026-01-21-retrocausality.md
 
 ### ✓ 2026-01-21: Deep review duration.md for currency and cross-links
 - **Type**: deep-review
