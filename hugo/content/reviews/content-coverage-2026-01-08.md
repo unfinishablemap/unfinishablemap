@@ -211,7 +211,7 @@ The following existing pages could benefit from additional cross-links:
 
 ## Summary
 
-The site has grown significantly with strong coverage of:
+The Unfinishable Map has grown significantly with strong coverage of:
 - The hard problem and related concepts
 - Major alternatives (panpsychism, idealism)
 - Contemporary issues (AI, free will)

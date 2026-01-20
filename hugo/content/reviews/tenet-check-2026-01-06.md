@@ -26,7 +26,7 @@ topics: []
 
 ## Summary
 
-All content files were checked against the five foundational tenets. No conflicts were found. the site content consistently supports the dualist framework and avoids positions ruled out by the tenets.
+All content files were checked against the five foundational tenets. No conflicts were found. The Unfinishable Map content consistently supports the dualist framework and avoids positions ruled out by the tenets.
 
 The materialism argument (`arguments/materialism.md`) demonstrates strong alignment with all five tenets:
 - Explicitly argues against eliminative and reductive materialism (supporting Dualism)

@@ -28,7 +28,7 @@ topics:
 - '[[personal-identity]]'
 ---
 
-Haecceity (from Latin *haec*, "this") is the quality of being *this* particular thing rather than another qualitatively identical thing. For consciousness, haecceity grounds the difference between being *you* and being someone with your exact properties—a distinction pattern-based theories cannot capture. This concept is central to the site's rejection of [many-worlds interpretation](/arguments/many-worlds/), its treatment of [personal-identity](/topics/personal-identity/), and its response to the [pairing-problem](/concepts/pairing-problem/).
+Haecceity (from Latin *haec*, "this") is the quality of being *this* particular thing rather than another qualitatively identical thing. For consciousness, haecceity grounds the difference between being *you* and being someone with your exact properties—a distinction pattern-based theories cannot capture. This concept is central to The Unfinishable Map's rejection of [many-worlds interpretation](/arguments/many-worlds/), its treatment of [personal-identity](/topics/personal-identity/), and its response to the [pairing-problem](/concepts/pairing-problem/).
 
 ## The Concept
 
@@ -60,7 +60,7 @@ For personal identity, the stakes are high:
 
 ## Why Consciousness Requires Haecceity
 
-The site's [Dualism](/tenets/#dualism) tenet treats consciousness as irreducible to physical processes. This commitment has haecceitistic implications.
+The Map's [Dualism](/tenets/#dualism) tenet treats consciousness as irreducible to physical processes. This commitment has haecceitistic implications.
 
 Consider the [zombie argument](/concepts/philosophical-zombies/): a creature physically identical to you but lacking consciousness is conceivable. If zombies are possible, consciousness is not determined by physical/functional properties. But then what determines that *this* physical system has consciousness while an identical zombie lacks it?
 
@@ -68,7 +68,7 @@ The answer cannot be purely qualitative. By hypothesis, you and your zombie twin
 
 This is haecceity applied to consciousness. The fact that you are conscious is not just a qualitative fact about your brain states—it's the fact that *this* subject exists and experiences.
 
-## the site's Indexical Emphasis
+## the Map's Indexical Emphasis
 
 The [No Many Worlds](/tenets/#no-many-worlds) tenet explicitly invokes indexical identity. The objection to many-worlds isn't merely ontological (too many universes) or probabilistic (the Born rule problem). It's fundamentally about identity:
 
@@ -110,7 +110,7 @@ Anti-haecceitists see survival. You now exist as a computational pattern.
 
 Haecceitists see death and replacement. The simulation is a copy with your qualities. But *you*—this particular conscious subject—ended when your brain stopped.
 
-The site's framework aligns with haecceitism here. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. Your consciousness has a specific causal history—the quantum selections, neural influences, and physical effects constituting your life. A replica's consciousness would begin a new causal history. Even if qualitatively identical at the moment of copying, the replica isn't *this* consciousness with *this* history.
+The Map's framework aligns with haecceitism here. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. Your consciousness has a specific causal history—the quantum selections, neural influences, and physical effects constituting your life. A replica's consciousness would begin a new causal history. Even if qualitatively identical at the moment of copying, the replica isn't *this* consciousness with *this* history.
 
 ## Connection to the Pairing Problem
 
@@ -166,7 +166,7 @@ Buddhist philosophy, particularly Madhyamaka, argues that the self is *sunyata* 
 
 **Response**: The Buddhist analysis may be compatible with a refined haecceitism. The self can be empty of *qualitative* essence while still being *this* particular process. Consider: Buddhist philosophy doesn't deny that *this* person experiences *this* moment—it denies that there's a permanent, unchanging self underlying the experience. But haecceity doesn't require permanence; it requires particularity. *This* stream of experience, however impermanent and constructed, is still distinguishable from *that* stream. The indexical fact remains even if the referent is a process rather than a substance.
 
-This interpretation suggests haecceity may be more about the particularity of experiential processes than about substantial souls—a view potentially compatible with both [Buddhist insights](/concepts/buddhism-and-dualism/) and the site's framework.
+This interpretation suggests haecceity may be more about the particularity of experiential processes than about substantial souls—a view potentially compatible with both [Buddhist insights](/concepts/buddhism-and-dualism/) and the Map's framework.
 
 ## Process Philosophy and Haecceity
 
@@ -192,9 +192,9 @@ The haecceitistic framework would be challenged by:
 
 These challenges remain unmet, but their form clarifies what the haecceitistic commitment claims.
 
-## the site's Commitment
+## the Map's Commitment
 
-The site doesn't explicitly endorse "haecceitism" by name. But its commitments imply haecceity about conscious subjects:
+The Map doesn't explicitly endorse "haecceitism" by name. But its commitments imply haecceity about conscious subjects:
 
 1. **Dualism**: Consciousness isn't reducible to physical/functional properties. Therefore qualitative physical identity doesn't guarantee conscious identity.
 
@@ -204,7 +204,7 @@ The site doesn't explicitly endorse "haecceitism" by name. But its commitments i
 
 4. **Anti-Patternism**: The [personal-identity](/topics/personal-identity/) discussion rejects Parfit's view that personal identity reduces to psychological continuity. What persists is *this* subject, not merely a pattern that could be replicated.
 
-The haecceity concept makes explicit what the site presupposes. Personal identity is not pattern identity. *You* are not interchangeable with a qualitative duplicate. Being this conscious subject is a primitive fact—your haecceity.
+The haecceity concept makes explicit what the Map presupposes. Personal identity is not pattern identity. *You* are not interchangeable with a qualitative duplicate. Being this conscious subject is a primitive fact—your haecceity.
 
 ## Relation to Site Tenets
 

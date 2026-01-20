@@ -74,11 +74,11 @@ last_curated: null
 
 ## Changes Summary
 
-The review transformed a solid article into one that meets the site's current standards for comprehensive engagement with challenges. Key additions:
+The review transformed a solid article into one that meets The Unfinishable Map's current standards for comprehensive engagement with challenges. Key additions:
 
 1. **Illusionist engagement**: Three-part response (regress, heterophenomenology critique, performative contradiction) establishes why illusionism cannot dissolve the personal identity question.
 
-2. **Process philosophy**: Whitehead's actual occasions provide metaphysical grounding for temporal haecceity and connect to the site's quantum selection framework.
+2. **Process philosophy**: Whitehead's actual occasions provide metaphysical grounding for temporal haecceity and connect to the Map's quantum selection framework.
 
 3. **Buddhist engagement**: Shows how refined haecceitism is compatible with anatta by distinguishing haecceity about process from haecceity about substance.
 
@@ -86,7 +86,7 @@ The review transformed a solid article into one that meets the site's current st
 
 5. **Falsifiability**: Five specific conditions that would challenge the view, demonstrating intellectual honesty about the framework's commitments.
 
-6. **Tenet integration**: Systematic connection to all five tenets shows how personal identity exemplifies the site's framework.
+6. **Tenet integration**: Systematic connection to all five tenets shows how personal identity exemplifies the Map's framework.
 
 ## Remaining Items
 

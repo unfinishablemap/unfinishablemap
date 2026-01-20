@@ -19,7 +19,7 @@ title: Testability Ledger
 topics: []
 ---
 
-This ledger tracks what observations would update for or against the site's framework. Several pages claim the framework is falsifiable, but the specific test hooks are scattered. This document consolidates them into a central reference, separating decisive disconfirmers from weak evidence from non-evidence.
+This ledger tracks what observations would update for or against The Unfinishable Map's framework. Several pages claim the framework is falsifiable, but the specific test hooks are scattered. This document consolidates them into a central reference, separating decisive disconfirmers from weak evidence from non-evidence.
 
 The goal is epistemic hygiene: avoiding unfalsifiability accusations by being explicit about what could change our minds.
 
@@ -253,7 +253,7 @@ Each claim has potential disconfirmers.
 | Filter Theory | Production model explaining paradoxical findings | Currently embarrassed by data |
 | Retrocausality | Ruling out time-symmetric QM | Not imminent |
 
-## What Would Update the site's Confidence
+## What Would Update the Map's Confidence
 
 ### High-impact updates possible:
 
@@ -282,7 +282,7 @@ Each claim has potential disconfirmers.
 This ledger should be updated when:
 - Major empirical developments occur in consciousness science
 - New philosophical arguments appear
-- the site's positions shift based on evidence
+- the Map's positions shift based on evidence
 - New test hooks are identified
 
 The purpose is accountability: being explicit about what would change our minds distinguishes principled commitment from dogmatism.

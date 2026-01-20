@@ -30,7 +30,7 @@ last_curated: null
 
 ### Medium Issues Found
 - **Missing Process Philosophy perspective**: Added comprehensive section on memory and actual occasions, concrescence and re-experiencing, and temporal thickness.
-- **Section title inconsistency**: Changed "Relation to this site's Perspective" to "Relation to Site Perspective" for consistency with other articles.
+- **Section title inconsistency**: Changed "Relation to The Unfinishable Map's Perspective" to "Relation to Site Perspective" for consistency with other articles.
 - **Missing cross-links**: Added 7 new concept links to frontmatter (illusionism, introspection, witness-consciousness, decoherence, haecceity, metacognition, episodic-memory).
 
 ### Counterarguments Considered

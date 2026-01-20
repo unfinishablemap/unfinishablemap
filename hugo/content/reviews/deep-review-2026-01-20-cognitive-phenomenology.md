@@ -35,7 +35,7 @@ topics: []
 - **Missing cross-links**: Article lacked links to illusionism, introspection, witness-consciousness, decoherence, haecceity, attention-as-interface. Resolution: Added to concepts frontmatter and Further Reading section.
 
 ### Low Issues Found
-- **Inconsistent "the site" capitalization**: Two instances used lowercase. Resolution: Fixed to "this site".
+- **Inconsistent "The Unfinishable Map" capitalization**: Two instances used lowercase. Resolution: Fixed to "the Map".
 
 ### Counterarguments Considered
 - **Illusionist deflationary account**: Addressed through regress response and introspective reliability asymmetry

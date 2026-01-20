@@ -55,7 +55,7 @@ last_curated: null
 ### Enhancements Made
 1. **Engaged Wolf and Metz more deeply**: Added publication years, specific theory names (fundamentality theory), and noted Wolf's acknowledgment that her view presupposes objective values
 2. **Added "What Would Challenge This View?" section**: Addresses falsifiability concern with four specific conditions that would undermine the position
-3. **Connected to quantum mechanism**: Explained how the site's framework provides the metaphysical grounding existentialists assume
+3. **Connected to quantum mechanism**: Explained how The Unfinishable Map's framework provides the metaphysical grounding existentialists assume
 4. **Added mysterianism connection**: Acknowledged cognitive limits may constrain understanding of consciousness-meaning relationship
 
 ### Cross-links Added

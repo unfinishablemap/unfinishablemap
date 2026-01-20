@@ -24,7 +24,7 @@ topics:
 
 ## Executive Summary
 
-The site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets depend on consciousness selecting among quantum outcomes. This research examines the mechanistic questions: How does attention/intention map to specific neural quantum systems? What are candidate "selection sites" in the brain? What's the information bandwidth? Does selection happen at individual neurons, microtubules, or larger ensembles?
+The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets depend on consciousness selecting among quantum outcomes. This research examines the mechanistic questions: How does attention/intention map to specific neural quantum systems? What are candidate "selection sites" in the brain? What's the information bandwidth? Does selection happen at individual neurons, microtubules, or larger ensembles?
 
 This complements [psychophysical-coupling-problem-2026-01-15](/research/psychophysical-coupling-problem-2026-01-15/), which addressed the conceptual structure of a selection law. Here we focus on neural implementation.
 
@@ -168,7 +168,7 @@ Compare:
 - **Basis selection**: Consciousness picks which observable to measure (weaker but still powerful)
 - **Attention selection**: Consciousness picks what to observe, which (via Zeno) biases outcomes (Stapp's position)
 
-The site's framework is compatible with basis/attention selection. Consciousness doesn't need to directly pick quantum outcomes—it suffices that it picks what to attend to, and attention (via Zeno) holds preferred states.
+The Map's framework is compatible with basis/attention selection. Consciousness doesn't need to directly pick quantum outcomes—it suffices that it picks what to attend to, and attention (via Zeno) holds preferred states.
 
 ## Ensemble vs. Single-Site Selection
 
@@ -252,7 +252,7 @@ The selection mechanism is admittedly complex. But if consciousness is real and 
 
 ## Toward a Research Program
 
-The site's framework would benefit from:
+The Map's framework would benefit from:
 
 1. **Explicit treatment of selection sites**: Add to quantum-consciousness.md coverage of where selection might occur (microtubules, microcolumns, attention networks).
 

@@ -149,7 +149,7 @@ Henry Stapp (b. 1928), theoretical physicist at Lawrence Berkeley Lab, argues th
 
 Based on this research, articles could explore:
 
-1. **"Why Controlling Your Mind Feels Hard: The Phenomenology of Mental Effort"** — Explore the universal human experience that directing attention requires effort. Connect James's phenomenology to the site's framework: *if* effort is real (not epiphenomenal), it suggests consciousness is doing work, consistent with Bidirectional Interaction. Doesn't require commitment to Stapp's specific mechanism.
+1. **"Why Controlling Your Mind Feels Hard: The Phenomenology of Mental Effort"** — Explore the universal human experience that directing attention requires effort. Connect James's phenomenology to The Unfinishable Map's framework: *if* effort is real (not epiphenomenal), it suggests consciousness is doing work, consistent with Bidirectional Interaction. Doesn't require commitment to Stapp's specific mechanism.
 
 2. **"The Quantum Zeno Approach to Free Will"** — Technical article explaining Stapp's mechanism: how rapid repeated "observation" could hold neural states in place, providing a physical mechanism for will. Includes decoherence challenge and ongoing debate. Aligns with Minimal Quantum Interaction.
 
@@ -183,7 +183,7 @@ The original todo asked: "Verify Henry Stapp's claim that it takes effort to con
 
 3. **The phenomenology itself is a clue.** If effort is real—if it genuinely costs something to hold attention on a topic—then something is doing work. Classical physics struggles to explain this: in a deterministic system, the "feeling" of effort would be epiphenomenal. The quantum account offers a mechanism where effort *matters*: more rapid probing holds states more effectively. Whether Stapp's specific proposal is correct, the phenomenology points toward Bidirectional Interaction.
 
-4. **Empirical support comes from unexpected places.** Schwartz's OCD therapy produces measurable brain changes through "self-directed neuroplasticity." Patients learn to refocus attention, and their caudate nucleus metabolism changes. This doesn't prove quantum mechanisms, but it demonstrates that directed mental effort has physical consequences—exactly what the site's tenets predict.
+4. **Empirical support comes from unexpected places.** Schwartz's OCD therapy produces measurable brain changes through "self-directed neuroplasticity." Patients learn to refocus attention, and their caudate nucleus metabolism changes. This doesn't prove quantum mechanisms, but it demonstrates that directed mental effort has physical consequences—exactly what the Map's tenets predict.
 
 ## Citations
 

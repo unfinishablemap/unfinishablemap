@@ -156,7 +156,7 @@ Cognitive phenomenology presupposes a unified thinker. The experience of graspin
 1. There probably is cognitive phenomenology—a distinctive "what it's like" to understanding, insight, and reasoning
 2. This supports phenomenal intentionality theory (PIT)—genuine aboutness requires phenomenal character
 3. This strengthens the AI consciousness skepticism—LLMs process symbols but (likely) lack the phenomenal character required for genuine understanding
-4. But leave room for uncertainty—the debate isn't settled, and the site should acknowledge the strongest conservative arguments
+4. But leave room for uncertainty—the debate isn't settled, and The Unfinishable Map should acknowledge the strongest conservative arguments
 
 **Suggested concept page elements:**
 - The central question (is there experience of thinking itself?)

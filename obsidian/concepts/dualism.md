@@ -28,7 +28,7 @@ last_curated: null
 last_deep_review: 2026-01-19T08:50:00+00:00
 ---
 
-Dualism holds that reality contains more than just physical matter—consciousness or mind is something distinct that cannot be fully explained by physics. This is the first of this site's [[tenets#^dualism|five foundational commitments]]. The position is supported by multiple independent arguments: the [[explanatory-gap]] between physical description and subjective experience, the conceivability of [[philosophical-zombies]], the [[knowledge-argument|knowledge argument]] (Mary's Room), and the intrinsic character of [[qualia]]. These arguments converge on a single conclusion: consciousness has features that physical description cannot capture.
+Dualism holds that reality contains more than just physical matter—consciousness or mind is something distinct that cannot be fully explained by physics. This is the first of The Unfinishable Map's [[tenets#^dualism|five foundational commitments]]. The position is supported by multiple independent arguments: the [[explanatory-gap]] between physical description and subjective experience, the conceivability of [[philosophical-zombies]], the [[knowledge-argument|knowledge argument]] (Mary's Room), and the intrinsic character of [[qualia]]. These arguments converge on a single conclusion: consciousness has features that physical description cannot capture.
 
 ## What Dualism Claims
 
@@ -54,9 +54,9 @@ Property dualism holds that mental properties are genuinely different from physi
 
 This includes positions like naturalistic dualism (Chalmers's early view), where phenomenal properties are fundamental features of nature that arise from physical complexity but don't reduce to physics.
 
-### Which Matters for this site
+### Which Matters for the Map
 
-The site's [[tenets#^dualism|Dualism]] tenet is compatible with either formulation. What matters is the irreducibility claim: consciousness cannot be identified with or derived from physical processes. Both substance and property dualism deliver this. The downstream commitments—[[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]—work with either ontological framework.
+The Map's [[tenets#^dualism|Dualism]] tenet is compatible with either formulation. What matters is the irreducibility claim: consciousness cannot be identified with or derived from physical processes. Both substance and property dualism deliver this. The downstream commitments—[[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]—work with either ontological framework.
 
 ## Arguments for Dualism
 
@@ -86,13 +86,13 @@ For comprehensive treatment, see [[arguments-for-dualism]].
 
 A crucial question for dualism: if mind and matter are distinct, how do they relate? Three main answers:
 
-**[[Interactionist-dualism|Interactionism]]**: Mind and body causally interact. Consciousness influences physical outcomes, and physical events influence consciousness. This is the site's position, specified in the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.
+**[[Interactionist-dualism|Interactionism]]**: Mind and body causally interact. Consciousness influences physical outcomes, and physical events influence consciousness. This is the Map's position, specified in the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.
 
-**[[Epiphenomenalism]]**: Body affects mind, but not vice versa. Consciousness is real but causally inert—along for the ride but not influencing outcomes. the site rejects this because it is self-undermining: if consciousness causes nothing, we cannot trust our reports about consciousness.
+**[[Epiphenomenalism]]**: Body affects mind, but not vice versa. Consciousness is real but causally inert—along for the ride but not influencing outcomes. the Map rejects this because it is self-undermining: if consciousness causes nothing, we cannot trust our reports about consciousness.
 
 **Parallelism**: Mind and body don't interact at all—they run in parallel without causal connection. This faces similar problems to epiphenomenalism and adds unexplained coordination.
 
-The site's framework commits to interactionism, with the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifying where and how: at quantum indeterminacies, consciousness biases otherwise undetermined outcomes without violating conservation laws.
+The Map's framework commits to interactionism, with the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifying where and how: at quantum indeterminacies, consciousness biases otherwise undetermined outcomes without violating conservation laws.
 
 ## Objections to Dualism
 
@@ -102,7 +102,7 @@ If mind is non-physical, how can it causally affect the physical world? Classica
 
 ### The Parsimony Objection
 
-Isn't materialism simpler? Why posit two kinds of thing when one might suffice? the site's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses this: parsimony is unreliable when concepts are inadequate. Materialism is "simpler" only if it explains what needs explaining. A theory that explains mechanisms but not experience achieves economy by ignoring the phenomenon.
+Isn't materialism simpler? Why posit two kinds of thing when one might suffice? the Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses this: parsimony is unreliable when concepts are inadequate. Materialism is "simpler" only if it explains what needs explaining. A theory that explains mechanisms but not experience achieves economy by ignoring the phenomenon.
 
 ### The Neural Correlation Objection
 
@@ -112,30 +112,30 @@ Doesn't neuroscience show that consciousness is just brain activity? Every menta
 
 Paul Bloom argued humans are "natural-born dualists" due to separate cognitive systems for physics and psychology—implying dualism is a cognitive bias to be outgrown. But Barrett et al.'s 2021 cross-cultural study found most people actually default to intuitive *materialism*, expecting mental states to cease at death. The cognitive science is contested, and more fundamentally, cognitive naturalness doesn't determine truth. See [[intuitive-dualism]] for the full debate.
 
-## Relation to this site's Perspective
+## Relation to the Map's Perspective
 
-Dualism is the site's first foundational commitment—the [[tenets#^dualism|Dualism tenet]] states that consciousness is not reducible to physical processes.
+Dualism is the Map's first foundational commitment—the [[tenets#^dualism|Dualism tenet]] states that consciousness is not reducible to physical processes.
 
 This commitment is not arbitrary but grounded in the convergence of arguments: the explanatory gap, conceivability arguments, the knowledge argument, and the intrinsic character of qualia all point the same direction. [[Materialism]] in all its forms—reductive physicalism, functionalism, eliminativism—fails to bridge the gap between physical description and subjective experience.
 
-Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, the site holds [[interactionist-dualism]]—consciousness is distinct *and* causally efficacious. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies the interface: quantum indeterminacies where physics leaves outcomes undetermined.
+Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, the Map holds [[interactionist-dualism]]—consciousness is distinct *and* causally efficacious. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies the interface: quantum indeterminacies where physics leaves outcomes undetermined.
 
 This framework is not a retreat to mystery. The interaction has a candidate mechanism (quantum selection via the Zeno effect or similar). The empirical findings (neural correlates) are predicted and explained. The position is coherent, parsimonious where parsimony matters (not positing unobserved forces), and takes seriously the one thing we know most directly: our own conscious experience.
 
 ## Further Reading
 
-- [[interactionist-dualism]] — the site's position combining dualism with causal interaction
+- [[interactionist-dualism]] — the Map's position combining dualism with causal interaction
 - [[substance-property-dualism]] — The two main ontological frameworks for dualism
 - [[arguments-for-dualism]] — Comprehensive treatment of the positive case
 - [[objections-to-interactionism]] — Major objections and detailed responses
 - [[intuitive-dualism]] — Cognitive science debate on whether dualism is innate or learned
 - [[materialism]] — The view dualism rejects and why
-- [[epiphenomenalism]] — Dualism without interaction (rejected by this site)
+- [[epiphenomenalism]] — Dualism without interaction (rejected by the Map)
 - [[explanatory-gap]] — The structural problem physical description faces
 - [[philosophical-zombies]] — The conceivability argument in detail
 - [[knowledge-argument]] — Mary's Room explained
 - [[qualia]] — The phenomenal properties dualism holds are irreducible
-- [[tenets]] — the site's five foundational commitments
+- [[tenets]] — the Map's five foundational commitments
 
 ## References
 

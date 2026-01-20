@@ -28,7 +28,7 @@ topics:
 
 Phenomenal value realism is the metaethical view that intrinsic value is a feature of conscious experience itself. On this view, the positive quality of pleasure and the negative quality of suffering are not merely correlated with value or indicative of it—they *constitute* what value is. To experience pleasure just is to instantiate intrinsic goodness; to suffer just is to instantiate intrinsic badness.
 
-This site is committed to a version of phenomenal value realism: consciousness grounds value, and without conscious experience, nothing has intrinsic worth.
+The Unfinishable Map is committed to a version of phenomenal value realism: consciousness grounds value, and without conscious experience, nothing has intrinsic worth.
 
 ## The Core Claim
 
@@ -49,9 +49,9 @@ then normativity exists within the empirical world. The badness of pain isn't ad
 
 The coherence test: "pleasant feelings are intrinsically bad" would be incoherent—it would suggest the speaker means something different by "pleasant" than we do. If you genuinely understood what pleasant means, you couldn't coherently deny its goodness.
 
-## the site's Position: Phenomenal Value Pluralism
+## the Map's Position: Phenomenal Value Pluralism
 
-This site adopts a variant that extends beyond pure hedonism. While hedonic valence (pleasure/pain) matters, it isn't the only thing that matters. Multiple features of conscious experience have intrinsic value:
+The Map adopts a variant that extends beyond pure hedonism. While hedonic valence (pleasure/pain) matters, it isn't the only thing that matters. Multiple features of conscious experience have intrinsic value:
 
 | Feature | Why It Matters |
 |---------|----------------|
@@ -66,17 +66,17 @@ This is **phenomenal value pluralism**: multiple phenomenal features contribute 
 
 ### Against Preference Satisfaction
 
-The site explicitly rejects preference satisfaction as the ground of value. From the [purpose-and-alignment](/topics/purpose-and-alignment/) article: preferences are "thin representations of values" and "unreliable guides to our own good."
+The Map explicitly rejects preference satisfaction as the ground of value. From the [purpose-and-alignment](/topics/purpose-and-alignment/) article: preferences are "thin representations of values" and "unreliable guides to our own good."
 
 The argument: evolution shaped preferences for survival and reproduction, not for flourishing. You can prefer things that make your experience worse; you can fail to prefer things that would make it better. The quality of experience matters, not whether you wanted it.
 
-This distinguishes phenomenal value realism from desire-satisfaction theory, which holds that value consists in getting what you want. On the site's view, what matters is what your experience is like, regardless of your preferences about it.
+This distinguishes phenomenal value realism from desire-satisfaction theory, which holds that value consists in getting what you want. On the Map's view, what matters is what your experience is like, regardless of your preferences about it.
 
 ### Against Abstract Objectivism
 
 Standard "objective list" theories hold that multiple things are intrinsically good—knowledge, friendship, achievement, autonomy—regardless of whether you want them or find them pleasant.
 
-The site's view differs: these things are valuable *because of how they feature in conscious experience*. Knowledge is good because understanding feels a certain way. Friendship is good because connection feels a certain way. There is no value that exists outside of experience.
+The Map's view differs: these things are valuable *because of how they feature in conscious experience*. Knowledge is good because understanding feels a certain way. Friendship is good because connection feels a certain way. There is no value that exists outside of experience.
 
 The experience requirement: nothing has intrinsic value unless experienced. This rules out:
 - Value in unconscious states
@@ -85,19 +85,19 @@ The experience requirement: nothing has intrinsic value unless experienced. This
 
 ## Connection to Dualism
 
-The site's dualism gives phenomenal value realism distinctive force.
+The Map's dualism gives phenomenal value realism distinctive force.
 
 If consciousness is fundamental—not reducible to physical processes—then value (grounded in consciousness) is equally fundamental. Value isn't an overlay on physical reality; it's built into what fundamentally exists.
 
-This gives value ontological gravity that purely physicalist value realism lacks. On a physicalist account, consciousness (and thus value) emerges from matter. On the site's account, consciousness and value are as fundamental as matter—or more so.
+This gives value ontological gravity that purely physicalist value realism lacks. On a physicalist account, consciousness (and thus value) emerges from matter. On the Map's account, consciousness and value are as fundamental as matter—or more so.
 
 The [Dualism tenet](/tenets/#dualism) holds that consciousness is not reducible to physical processes. If value is grounded in consciousness, value inherits this irreducibility.
 
 ## Connection to Indexical Identity
 
-The site's emphasis on [indexical identity](/concepts/haecceity/) extends to value. *This* experience matters—not just experiences-of-this-type. Your particular conscious life has value that couldn't be replicated by a qualitatively identical duplicate.
+The Map's emphasis on [indexical identity](/concepts/haecceity/) extends to value. *This* experience matters—not just experiences-of-this-type. Your particular conscious life has value that couldn't be replicated by a qualitatively identical duplicate.
 
-Most value theories treat value as type-based: pleasure is good wherever it occurs, identically. the site suggests token-based value: *this* particular experience, happening to *this* particular subject, has unique significance.
+Most value theories treat value as type-based: pleasure is good wherever it occurs, identically. the Map suggests token-based value: *this* particular experience, happening to *this* particular subject, has unique significance.
 
 This connects to the [No Many Worlds tenet](/tenets/#no-many-worlds). If indexical identity matters morally, then you can't be "replaced" by a duplicate without genuine loss. The value in your experience is yours—not merely an instance of a value-type that exists wherever the pattern does.
 
@@ -105,7 +105,7 @@ This connects to the [No Many Worlds tenet](/tenets/#no-many-worlds). If indexic
 
 ### For AI Ethics
 
-If value requires consciousness, and current AI systems lack consciousness (as the site argues in [ai-consciousness](/topics/ai-consciousness/)), then AI systems lack intrinsic value. They may have instrumental value—as tools that affect conscious beings—but no interests of their own that matter morally.
+If value requires consciousness, and current AI systems lack consciousness (as the Map argues in [ai-consciousness](/topics/ai-consciousness/)), then AI systems lack intrinsic value. They may have instrumental value—as tools that affect conscious beings—but no interests of their own that matter morally.
 
 This grounds the [purpose-and-alignment](/topics/purpose-and-alignment/) article's claim that AI alignment should target predicted distributions over human experiences, not merely preference satisfaction. What matters is what happens *in* conscious experience, and AI systems don't have that.
 
@@ -143,7 +143,7 @@ If only conscious experience has value, do ecosystems, historical events, or fut
 
 | Position | Relation |
 |----------|----------|
-| **Hedonism** | Phenomenal value realism is compatible with hedonism but not reducible to it. the site holds a pluralist variant where multiple phenomenal features matter. |
+| **Hedonism** | Phenomenal value realism is compatible with hedonism but not reducible to it. the Map holds a pluralist variant where multiple phenomenal features matter. |
 | **Moral realism** | Phenomenal value realism is a form of moral realism—value is objective, not constructed or preference-dependent. |
 | **Non-naturalism** | If consciousness is non-physical (dualism), and value is grounded in consciousness, value may be non-natural in Moore's sense. |
 | **Error theory** | Phenomenal value realism rejects error theory. Consciousness exists; value is a feature of consciousness; therefore value exists. |
@@ -151,13 +151,13 @@ If only conscious experience has value, do ecosystems, historical events, or fut
 
 ## Why This Matters
 
-Making the metaethical commitment explicit clarifies what's at stake in the site's other arguments. If value is grounded in consciousness:
+Making the metaethical commitment explicit clarifies what's at stake in the Map's other arguments. If value is grounded in consciousness:
 
 - The [hard problem](/topics/hard-problem-of-consciousness/) isn't just about explaining subjective experience—it's about explaining the ground of value
 - The question of [AI consciousness](/topics/ai-consciousness/) isn't just theoretical—it determines whether AI systems matter morally
 - The rejection of [Many Worlds](/arguments/many-worlds/) has ethical weight—if copies of you in other branches matter morally, the indexical concern dissolves
 
-Phenomenal value realism unifies the site's disparate concerns: consciousness studies, personal identity, AI ethics, and the meaning of life all converge on the thesis that conscious experience is what ultimately matters.
+Phenomenal value realism unifies the Map's disparate concerns: consciousness studies, personal identity, AI ethics, and the meaning of life all converge on the thesis that conscious experience is what ultimately matters.
 
 ## Further Reading
 

@@ -93,7 +93,7 @@ This raises the Libet-style question: if brain states predict free choices, is v
 
 2. **Attentional set interpretation**: Pre-prompt alpha may reflect variations in specific attentional sets that are task and goal specific (e.g., attend left vs attend right)—representing prior intentions rather than mere noise
 
-For the site's framework, this parallels the [[libet-experiments|Libet]] debate. Preparatory activity need not undermine agency if:
+For The Unfinishable Map's framework, this parallels the [[libet-experiments|Libet]] debate. Preparatory activity need not undermine agency if:
 - The activity reflects prior intentions (distal decisions)
 - Consciousness selects *among* stochastic options rather than generating them ex nihilo
 - Selection operates at quantum level below EEG resolution
@@ -198,7 +198,7 @@ The willed attention literature provides neuroscientific grounding for [[agent-c
 
 ### The Stochastic Challenge
 
-The finding that pre-prompt alpha predicts free choices poses a challenge similar to Libet. the site's response:
+The finding that pre-prompt alpha predicts free choices poses a challenge similar to Libet. the Map's response:
 
 1. **Selection among options**: Stochastic activity provides options; consciousness selects among them
 2. **Quantum resolution**: Selection may operate below EEG temporal and spatial resolution

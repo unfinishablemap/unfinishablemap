@@ -21,7 +21,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Research notes on the cognitive science of dualism—what developmental psychology, cross-cultural studies, and cognitive science reveal about humans' natural tendency (or lack thereof) toward mind-body dualism. Gathered to inform the site's Occam's Razor Has Limits tenet and engage with arguments about whether dualism is a "folk error" or cognitively natural.
+Research notes on the cognitive science of dualism—what developmental psychology, cross-cultural studies, and cognitive science reveal about humans' natural tendency (or lack thereof) toward mind-body dualism. Gathered to inform The Unfinishable Map's Occam's Razor Has Limits tenet and engage with arguments about whether dualism is a "folk error" or cognitively natural.
 
 ## 1. Paul Bloom's "Natural-Born Dualists"
 
@@ -114,7 +114,7 @@ Cognitive science of religion proposes that intuitive dualism results from two d
 
 When these systems operate independently, we can conceive agents with minds but no bodies—hence souls, spirits, ghosts.
 
-## 6. Implications for the site's Framework
+## 6. Implications for the Map's Framework
 
 ### Does Cognitive Science Undermine Dualism?
 
@@ -126,7 +126,7 @@ The cognitive science evidence is neutral on whether dualism is *true*—it only
 
 ### Supporting the Occam's Razor Has Limits Tenet
 
-The research actually strengthens the site's fifth tenet in multiple ways:
+The research actually strengthens the Map's fifth tenet in multiple ways:
 
 **1. Even if dualism is folk error, folk errors can be correct**: Folk physics fails at quantum scales, but is largely accurate for everyday objects. Folk dualism might be wrong about details while capturing something real about minds.
 
@@ -144,7 +144,7 @@ The cognitive science of dualism shows that:
 3. Neither intuitive dualism nor intuitive materialism is clearly dominant
 4. The metaphysical question is independent of the cognitive one
 
-The site's position: Take the cognitive evidence seriously as describing human psychology, while maintaining that consciousness's irreducibility is a philosophical conclusion, not a folk intuition to be explained away.
+The Map's position: Take the cognitive evidence seriously as describing human psychology, while maintaining that consciousness's irreducibility is a philosophical conclusion, not a folk intuition to be explained away.
 
 ## Summary Table
 

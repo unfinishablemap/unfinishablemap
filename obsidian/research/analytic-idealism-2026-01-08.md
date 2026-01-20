@@ -24,7 +24,7 @@ last_curated: null
 
 ## Executive Summary
 
-Analytic idealism, developed primarily by Bernardo Kastrup, holds that universal phenomenal consciousness is the fundamental substrate of reality—everything else reduces to patterns within this consciousness. Individual minds are "dissociated alters" of universal consciousness, analogous to dissociative identity disorder. This inverts physicalism: matter is the extrinsic appearance of mental processes, not the other way around. For the site's framework, idealism shares the conviction that consciousness is fundamental but goes further—the site maintains physical reality exists distinctly (dualism), while idealism dismisses matter as mere appearance. The key question is whether the site's Bidirectional Interaction makes sense if there's nothing "physical" for consciousness to interact with.
+Analytic idealism, developed primarily by Bernardo Kastrup, holds that universal phenomenal consciousness is the fundamental substrate of reality—everything else reduces to patterns within this consciousness. Individual minds are "dissociated alters" of universal consciousness, analogous to dissociative identity disorder. This inverts physicalism: matter is the extrinsic appearance of mental processes, not the other way around. For The Unfinishable Map's framework, idealism shares the conviction that consciousness is fundamental but goes further—the Map maintains physical reality exists distinctly (dualism), while idealism dismisses matter as mere appearance. The key question is whether the Map's Bidirectional Interaction makes sense if there's nothing "physical" for consciousness to interact with.
 
 ## Key Sources
 

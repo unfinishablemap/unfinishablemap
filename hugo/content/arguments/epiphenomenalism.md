@@ -27,7 +27,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. the site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet directly contradicts this view. This page presents the cumulative case against epiphenomenalism.
+Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet directly contradicts this view. This page presents the cumulative case against epiphenomenalism.
 
 ## The View Under Attack
 
@@ -168,17 +168,17 @@ Why would anyone accept such a problematic view? The answer is [causal-closure](
 
 If causal closure is true, and if consciousness is not physical, then consciousness cannot cause physical events—physical causes pre-empt mental causes. Epiphenomenalism follows as the least bad option: deny mental causation rather than deny that consciousness exists or reduce it to physics.
 
-The site's response: deny causal closure at quantum indeterminacies. The [measurement-problem](/concepts/measurement-problem/) shows that quantum mechanics does not specify which outcome occurs—it provides probabilities, not determinations. At these points, physics is genuinely incomplete. Consciousness can cause physical events precisely where physics leaves room.
+The Map's response: deny causal closure at quantum indeterminacies. The [measurement-problem](/concepts/measurement-problem/) shows that quantum mechanics does not specify which outcome occurs—it provides probabilities, not determinations. At these points, physics is genuinely incomplete. Consciousness can cause physical events precisely where physics leaves room.
 
 This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness biases quantum outcomes without violating conservation laws. No energy is injected; outcomes physics already permits are selected. This preserves what's true in causal closure (physics explains physical events where physics determines them) while denying what's false (physics determines everything).
 
-## Relation to this site's Perspective
+## Relation to the Map's Perspective
 
-The arguments against epiphenomenalism directly support the site's framework:
+The arguments against epiphenomenalism directly support the Map's framework:
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The self-stultification argument shows consciousness must cause behavior. Our reports about consciousness must be caused by consciousness, or they cannot be trusted. The tenet that consciousness "selects among superposed neural states" follows.
 
-**[Dualism](/tenets/#dualism)**: the site accepts that consciousness is irreducible to physics—a point epiphenomenalism also accepts. But dualism alone doesn't require causation. The arguments here show that dualism must be *interactionist* dualism.
+**[Dualism](/tenets/#dualism)**: the Map accepts that consciousness is irreducible to physics—a point epiphenomenalism also accepts. But dualism alone doesn't require causation. The arguments here show that dualism must be *interactionist* dualism.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The quantum framework provides *how* mental causation occurs without the problems epiphenomenalism tries to avoid. Consciousness doesn't violate causal closure by injecting energy; it operates where causal closure doesn't apply.
 
@@ -192,7 +192,7 @@ The arguments against epiphenomenalism directly support the site's framework:
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The positive case for interaction
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How mental causation could work
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what it shows
-- [tenets](/tenets/) — the site's foundational commitments
+- [tenets](/tenets/) — the Map's foundational commitments
 
 ## References
 

@@ -89,13 +89,13 @@ Libet himself never accepted that his experiments refuted free will. He proposed
 
 This interpretation faces a challenge: couldn't the veto itself be preceded by neural activity? If vetoing is just another brain process, consciousness remains epiphenomenal even for vetoes. Libet acknowledged this but argued no evidence shows vetoes are preceded by RPs.
 
-More fundamentally, the site's framework suggests the initiation/selection distinction may be the key insight. Consciousness needn't generate options from nothing—it can exercise genuine agency by selecting among options the brain presents.
+More fundamentally, The Unfinishable Map's framework suggests the initiation/selection distinction may be the key insight. Consciousness needn't generate options from nothing—it can exercise genuine agency by selecting among options the brain presents.
 
 ### The Veto Regress and Its Resolution
 
 Critics press further: if vetoing is itself a brain process, and that process is preceded by neural activity, consciousness is pushed back again—now we need a "veto of the veto," and so on infinitely. This regress seems to eliminate any role for consciousness.
 
-The site's framework resolves this differently. The regress assumes that causal influence requires temporal precedence—that consciousness must precede what it causes. But if consciousness operates at quantum indeterminacies atemporally (see the retrocausal discussion below), the regress dissolves. Selection doesn't occur "before" or "after" neural activity in the causally significant sense; it determines which temporal sequence becomes actual. There is no infinite chain because selection isn't in the chain—it's what determines there being this chain rather than another.
+The Map's framework resolves this differently. The regress assumes that causal influence requires temporal precedence—that consciousness must precede what it causes. But if consciousness operates at quantum indeterminacies atemporally (see the retrocausal discussion below), the regress dissolves. Selection doesn't occur "before" or "after" neural activity in the causally significant sense; it determines which temporal sequence becomes actual. There is no infinite chain because selection isn't in the chain—it's what determines there being this chain rather than another.
 
 Additionally, the [luck objection](/concepts/luck-objection/) literature shows that the real question isn't *when* selection occurs but *whether* it's guided by reasons rather than arbitrary. If consciousness selects the veto (or the action) based on the agent's values, it isn't arbitrary—even if we can't locate the selection at a precise neural moment.
 
@@ -129,13 +129,13 @@ Three responses:
 
 Daniel Dennett argues that asking "when did the decision occur?" presupposes a Cartesian theatre where consciousness watches neural events. But if consciousness is what the brain does—not something that observes what the brain does—the timing question dissolves. There's no moment when "consciousness decides" because there's no consciousness separate from the neural process to do any deciding.
 
-### the site's Response
+### the Map's Response
 
 The illusionist response faces the same problem as epiphenomenalism: it threatens to be self-refuting. If the appearance of decision-making is wholly constructed by neural processes unconnected to any real deciding, then the decision to adopt illusionism was itself constructed—not genuinely reasoned to. Dennett's arguments against the Cartesian theatre would be products of neural processes that merely *seemed* like reasoning but weren't.
 
 More specifically: why do we discuss Libet experiments at all? Why design studies, interpret data, form theories? If our sense of engaging with these questions is illusory—if there's nothing it's like to think about consciousness that corresponds to actual thinking—the discussions are accidental behaviour, not inquiry. The illusionist cannot coherently claim to have *reasoned* to their position.
 
-The site's framework avoids this: consciousness is real, selection is genuine, and our theories about consciousness connect to actual conscious experience. The Libet findings challenge the *timing* of conscious influence, not its existence. The retrocausal and Zeno frameworks show that temporal ordering may not have the causal significance assumed.
+The Map's framework avoids this: consciousness is real, selection is genuine, and our theories about consciousness connect to actual conscious experience. The Libet findings challenge the *timing* of conscious influence, not its existence. The retrocausal and Zeno frameworks show that temporal ordering may not have the causal significance assumed.
 
 ## Process Philosophy Perspective
 
@@ -145,7 +145,7 @@ On this view, the Libet findings show neural processes that *prepare* possibilit
 
 This dissolves the timing problem differently than retrocausality. There's no "moment of decision" separate from neural processes because the occasion *is* the decision—not an observation of prior neural events but the integration of those events into experiential unity. The RP is part of what the occasion inherits and transforms.
 
-The framework aligns with the site's tenets: consciousness is ontologically primitive (not reducible to physics), causally efficacious (actual occasions determine outcomes), and selective (many become one). Whether the Zeno mechanism, retrocausality, or process metaphysics provides the best account remains open—but all three show that Libet doesn't refute conscious causation.
+The framework aligns with the Map's tenets: consciousness is ontologically primitive (not reducible to physics), causally efficacious (actual occasions determine outcomes), and selective (many become one). Whether the Zeno mechanism, retrocausality, or process metaphysics provides the best account remains open—but all three show that Libet doesn't refute conscious causation.
 
 ## What the Experiments Don't Show
 
@@ -159,7 +159,7 @@ Several common interpretations overreach:
 
 ## Relation to Site Perspective
 
-The Libet experiments engage directly with the site's core commitments.
+The Libet experiments engage directly with the Map's core commitments.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The tenet holds that consciousness causally influences physical outcomes. Libet seems to challenge this—but only if we assume consciousness must *precede* what it causes in linear time. The retrocausal interpretation shows this assumption is optional. Consciousness selecting among quantum possibilities can determine outcomes that include their apparent temporal precursors.
 
@@ -171,7 +171,7 @@ The Libet experiments engage directly with the site's core commitments.
 
 ## What Would Challenge This View?
 
-The site's interpretation of Libet is falsifiable. Evidence against it would include:
+The Map's interpretation of Libet is falsifiable. Evidence against it would include:
 
 **1. Selection fully determined by measurable neural activity.** If prediction accuracy approached 100%—leaving no gap for consciousness to influence—the "selection among options" model would fail. Current 60% accuracy leaves substantial room; if future research with better methods closed this gap entirely, that would be significant.
 
@@ -185,7 +185,7 @@ The site's interpretation of Libet is falsifiable. Evidence against it would inc
 
 **6. Selection indistinguishable from randomness.** If choices at quantum indeterminacies were genuinely random rather than guided by consciousness, the selection model becomes indistinguishable from the [luck objection](/concepts/luck-objection/). The phenomenology of effort and the reasons-responsiveness of choices provide current evidence against randomness, but these could in principle be shown to be post-hoc confabulation.
 
-The site's position is that current evidence supports selection over randomness, that Schurger and Sjöberg have substantially weakened the standard interpretation, and that retrocausal and Zeno frameworks provide coherent mechanisms. But this is empirical territory—future findings could shift the picture.
+The Map's position is that current evidence supports selection over randomness, that Schurger and Sjöberg have substantially weakened the standard interpretation, and that retrocausal and Zeno frameworks provide coherent mechanisms. But this is empirical territory—future findings could shift the picture.
 
 ## Further Reading
 

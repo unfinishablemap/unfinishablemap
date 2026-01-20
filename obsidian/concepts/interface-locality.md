@@ -31,7 +31,7 @@ last_curated: null
 last_deep_review: 2026-01-20T07:30:00+00:00
 ---
 
-If consciousness can bias quantum outcomes in the brain—as the site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds—an obvious question arises: why only in brains? Why can't minds move objects, bias random number generators, or influence distant events?
+If consciousness can bias quantum outcomes in the brain—as The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds—an obvious question arises: why only in brains? Why can't minds move objects, bias random number generators, or influence distant events?
 
 This is the brain specialness problem, and it demands a principled answer. Interface locality provides one: consciousness can only influence quantum systems already integrated into its control loop. This isn't an ad hoc restriction but follows from the nature of the proposed mechanism.
 
@@ -44,7 +44,7 @@ If consciousness can bias quantum outcomes, what stops it from:
 - **Remote viewing**: Accessing information about distant events
 - **Precognition**: Affecting future quantum events retroactively
 
-Decades of parapsychology research claim small but statistically significant effects in some domains. the site cannot simply dismiss this research—but it also cannot endorse claims lacking robust replication without undermining scientific credibility.
+Decades of parapsychology research claim small but statistically significant effects in some domains. the Map cannot simply dismiss this research—but it also cannot endorse claims lacking robust replication without undermining scientific credibility.
 
 The challenge: articulate a boundary that permits brain-internal quantum selection while excluding brain-external effects, and that follows from the mechanism itself rather than being imposed to avoid embarrassment.
 
@@ -112,7 +112,7 @@ The boundary is principled, not arbitrary: consciousness influences what it's co
 
 ## Relation to the Parapsychology Debate
 
-The site's framework makes no prediction about external psychokinesis because:
+The Map's framework makes no prediction about external psychokinesis because:
 
 1. **The mechanism is neural-specific**: The quantum Zeno mechanism operates through attention, which is neurally implemented
 2. **The interface is embodied**: Consciousness interfaces with *its* brain through developmental/evolutionary integration
@@ -148,7 +148,7 @@ The brain specialness boundary doesn't violate parsimony—it's what the mechani
 
 If phenomenal consciousness is an [[illusionism|introspective illusion]], does the interface locality question dissolve? If there's no genuine phenomenal subject, nothing needs explaining about where it can and cannot act.
 
-The site's response: the illusion problem reintroduces the very issues it claims to dissolve. Even on illusionist accounts, *something* generates the illusion of consciousness. That something—whatever neural process creates the appearance of phenomenal states—must still be neurally implemented. The question then becomes: why does this illusion-generating process operate only within one brain?
+The Map's response: the illusion problem reintroduces the very issues it claims to dissolve. Even on illusionist accounts, *something* generates the illusion of consciousness. That something—whatever neural process creates the appearance of phenomenal states—must still be neurally implemented. The question then becomes: why does this illusion-generating process operate only within one brain?
 
 The illusionist cannot simply wave away the locality question. If the brain generates powerful representations of phenomenal states, why are these representations brain-bound? The answer maps onto the same constraints: the representational machinery is neurally realized, the attention mechanisms that process these representations are neurally implemented, and the feedback loops that sustain the illusion operate within neural systems.
 
@@ -210,7 +210,7 @@ Quantum non-locality concerns correlations between measurements, not the ability
 
 **"Some parapsychology studies show small but significant effects."**
 
-Decades of research have produced no reliably replicable effects above statistical noise. The PEAR lab's 28 years of micro-PK research found effect sizes of ~0.0001-0.001—effectively zero for practical purposes. If the site's mechanism extended to external systems, effects should be far more robust. Their absence supports interface locality.
+Decades of research have produced no reliably replicable effects above statistical noise. The PEAR lab's 28 years of micro-PK research found effect sizes of ~0.0001-0.001—effectively zero for practical purposes. If the Map's mechanism extended to external systems, effects should be far more robust. Their absence supports interface locality.
 
 ## Summary
 
@@ -232,7 +232,7 @@ This article addresses why consciousness *doesn't* act externally. The complemen
 - [[psychophysical-coupling-law]] - Constraints on the coupling between mind and brain
 - [[attention]] - How attention implements quantum observation
 - [[attention-as-interface]] - Why attention specifically serves as the interface
-- [[voluntary-attention]] - Willed attention as the site of conscious control
+- [[voluntary-attention]] - Willed attention as the Map of conscious control
 - [[pairing-problem]] - Why this mind pairs with this body
 - [[quantum-consciousness]] - The broader framework for mind-matter interaction
 - [[decoherence]] - The decoherence objection and quantum biology responses

@@ -22,11 +22,11 @@ ai_generated_date: 2026-01-16
 last_curated: null
 ---
 
-Research notes on the relationship between quantum mechanics and libertarian free will. Gathered to strengthen the site's engagement with the philosophical literature on whether quantum indeterminacy helps or hinders free will.
+Research notes on the relationship between quantum mechanics and libertarian free will. Gathered to strengthen The Unfinishable Map's engagement with the philosophical literature on whether quantum indeterminacy helps or hinders free will.
 
 ## Executive Summary
 
-The relationship between quantum mechanics and free will is contested. While quantum theory undermines classical determinism, critics argue that quantum randomness doesn't yield genuine freedom—it yields random will. The "luck objection" holds that indeterminism makes outcomes arbitrary rather than controlled. However, several sophisticated responses exist: Kane's effort-of-will theory where indeterminacy is in the effort itself, agent-causal accounts where substances exercise irreducible powers at indeterminacies, and Stapp's quantum Zeno mechanism where mental effort sustains neural patterns. Key finding for the site: the debate confirms that quantum indeterminacy provides conceptual space for mental causation but requires an account of how consciousness *directs* rather than *randomizes* outcomes—exactly what the site's framework provides.
+The relationship between quantum mechanics and free will is contested. While quantum theory undermines classical determinism, critics argue that quantum randomness doesn't yield genuine freedom—it yields random will. The "luck objection" holds that indeterminism makes outcomes arbitrary rather than controlled. However, several sophisticated responses exist: Kane's effort-of-will theory where indeterminacy is in the effort itself, agent-causal accounts where substances exercise irreducible powers at indeterminacies, and Stapp's quantum Zeno mechanism where mental effort sustains neural patterns. Key finding for the Map: the debate confirms that quantum indeterminacy provides conceptual space for mental causation but requires an account of how consciousness *directs* rather than *randomizes* outcomes—exactly what the Map's framework provides.
 
 ## Key Sources
 
@@ -128,7 +128,7 @@ The relationship between quantum mechanics and free will is contested. While qua
   - Agent causation stops regress at the conscious subject
   - Substance causation is the fundamental form of causation
   - Neo-Aristotelian framework: agents exercise irreducible causal powers
-- **Relation to site tenets**: Strongly aligned. Bidirectional Interaction is agent-causal: consciousness (substance) selects outcomes (causes events). the site specifies quantum mechanism; philosophers provide metaphysical framework.
+- **Relation to site tenets**: Strongly aligned. Bidirectional Interaction is agent-causal: consciousness (substance) selects outcomes (causes events). the Map specifies quantum mechanism; philosophers provide metaphysical framework.
 
 ### Position 4: Quantum Consciousness Mechanisms (Stapp)
 - **Proponents**: Stapp, von Neumann, Wigner (historical), Schwartz
@@ -154,12 +154,12 @@ The relationship between quantum mechanics and free will is contested. While qua
 ### Debate 1: The Luck Objection
 - **Sides**: Critics (Mele, Haji) vs. Libertarians (Kane, O'Connor, Clarke)
 - **Core disagreement**: Does indeterminism undermine rather than enable free will?
-- **Current state**: Ongoing. Kane's effort-based response and O'Connor's substance-causation response remain contested but not refuted. the site's framework offers a resolution: if consciousness *directs* rather than *randomizes* quantum outcomes, luck is irrelevant.
+- **Current state**: Ongoing. Kane's effort-based response and O'Connor's substance-causation response remain contested but not refuted. the Map's framework offers a resolution: if consciousness *directs* rather than *randomizes* quantum outcomes, luck is irrelevant.
 
 ### Debate 2: Where Is Indeterminism Located?
 - **Sides**: Centered accounts (indeterminism at decision) vs. Deliberative accounts (indeterminism in reasoning)
 - **Core disagreement**: Does free will require indeterminism immediately prior to action, or earlier in deliberation?
-- **Current state**: Both have defenders. the site's quantum-selection model is centered: indeterminacy exists at the moment of neural pattern actualization.
+- **Current state**: Both have defenders. the Map's quantum-selection model is centered: indeterminacy exists at the moment of neural pattern actualization.
 
 ### Debate 3: Agent vs. Event Causation
 - **Sides**: O'Connor/Lowe/Hasker (agent-causal) vs. Kane/Ekstrom (event-causal)
@@ -192,15 +192,15 @@ The relationship between quantum mechanics and free will is contested. While qua
 
 Based on this research, site content could:
 
-1. **Strengthen free-will.md's quantum section**: Current coverage is good but could engage more directly with the luck objection and Kane's response. the site's framework answers the luck objection because consciousness *directs* outcomes based on reasons—not randomly.
+1. **Strengthen free-will.md's quantum section**: Current coverage is good but could engage more directly with the luck objection and Kane's response. the Map's framework answers the luck objection because consciousness *directs* outcomes based on reasons—not randomly.
 
-2. **Cross-reference agent-causation.md with Kane's evolution**: Kane's 2024 move toward substance causation validates the site's agent-causal framework. Worth noting this convergence.
+2. **Cross-reference agent-causation.md with Kane's evolution**: Kane's 2024 move toward substance causation validates the Map's agent-causal framework. Worth noting this convergence.
 
-3. **Connect Stapp to site's mechanism**: The Quantum Consciousness page could more explicitly present Stapp's quantum Zeno mechanism as a scientific elaboration of the site's philosophical commitments.
+3. **Connect Stapp to site's mechanism**: The Quantum Consciousness page could more explicitly present Stapp's quantum Zeno mechanism as a scientific elaboration of the Map's philosophical commitments.
 
 When writing or updating articles, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references
-- Background vs. novelty decisions (what to include/omit—the site already covers much of this)
+- Background vs. novelty decisions (what to include/omit—the Map already covers much of this)
 - Tenet alignment requirements
 - LLM optimization (front-load important information)
 

@@ -28,7 +28,7 @@ last_curated: null
 1. **No falsifiability section**: The article presented the quantum mechanism without specifying what evidence would challenge it.
    - **Resolution**: Added comprehensive "What Would Challenge This View?" section with five falsifiability conditions (complete neural determinism, elimination of neural quantum effects, confirmation of Many-Worlds, successful illusionist explanation, violations of Born rule probabilities).
 
-2. **No engagement with Many-Worlds**: the site's No Many Worlds tenet is essential for the quantum mechanism to work, but the article never mentioned MWI.
+2. **No engagement with Many-Worlds**: The Unfinishable Map's No Many Worlds tenet is essential for the quantum mechanism to work, but the article never mentioned MWI.
    - **Resolution**: Added "Why Not Many Worlds?" subsection explaining why MWI rejection matters for downward causation.
 
 3. **Missing decoherence challenge**: The comparison table claimed "testability" but didn't address the standard physics objection (Tegmark's decoherence argument).
@@ -45,8 +45,8 @@ last_curated: null
 2. **Self-stultification argument understated**: Brief mention in "Relation to Site's Perspective" didn't develop the argument's full force.
    - **Resolution**: Expanded the epiphenomenalism response to include epistemic consequences.
 
-3. **Missing attention-as-interface connection**: The article discussed quantum Zeno mechanism but didn't connect to the site's attention-as-interface framework.
-   - **Resolution**: Added "The Interface Mechanism" subsection in the site perspective section.
+3. **Missing attention-as-interface connection**: The article discussed quantum Zeno mechanism but didn't connect to the Map's attention-as-interface framework.
+   - **Resolution**: Added "The Interface Mechanism" subsection in the Map perspective section.
 
 ### Counterarguments Considered
 

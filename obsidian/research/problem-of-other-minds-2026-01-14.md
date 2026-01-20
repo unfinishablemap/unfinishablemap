@@ -29,7 +29,7 @@ last_curated: null
 
 ## Executive Summary
 
-The problem of other minds is one of philosophy's oldest epistemological puzzles: how can I know that beings other than myself have conscious experiences? While I have direct access to my own mental states, my knowledge of others' minds is always indirect—inferred from behavior, speech, and physical similarity. The problem has taken on renewed urgency with debates about animal consciousness and AI consciousness. The dominant solutions—argument from analogy, inference to best explanation, and Wittgensteinian criteria—each have significant weaknesses. For a dualist framework like this site's, the problem is particularly acute: if consciousness is non-physical, behavioral evidence is even more remote from mental reality.
+The problem of other minds is one of philosophy's oldest epistemological puzzles: how can I know that beings other than myself have conscious experiences? While I have direct access to my own mental states, my knowledge of others' minds is always indirect—inferred from behavior, speech, and physical similarity. The problem has taken on renewed urgency with debates about animal consciousness and AI consciousness. The dominant solutions—argument from analogy, inference to best explanation, and Wittgensteinian criteria—each have significant weaknesses. For a dualist framework like The Unfinishable Map's, the problem is particularly acute: if consciousness is non-physical, behavioral evidence is even more remote from mental reality.
 
 ## Key Sources
 
@@ -164,21 +164,21 @@ The problem of other minds is one of philosophy's oldest epistemological puzzles
 
 ## Connection to Site's Framework
 
-The problem of other minds has special significance for the site's dualist framework:
+The problem of other minds has special significance for the Map's dualist framework:
 
 ### The Dualism Tenet Intensifies the Problem
 If consciousness is non-physical, then physical evidence (behavior, brain states, reports) is even more indirect evidence for mental states. The explanatory gap between physical and phenomenal applies not just within one's own case but across persons. How can I infer your non-physical experience from your physical behavior?
 
 ### But Dualism Also Offers Resources
-- the site's rejection of functionalism means behavioral similarity doesn't guarantee mental similarity—this is honest about the epistemic gap
+- the Map's rejection of functionalism means behavioral similarity doesn't guarantee mental similarity—this is honest about the epistemic gap
 - The commitment to consciousness's reality means solipsism is not an option—consciousness exists, at minimum in oneself
 - The Bidirectional Interaction tenet implies consciousness has physical effects, which provides some grounding for behavioral evidence (if limited)
 
 ### Practical Resolution vs. Theoretical Problem
-Like the hard problem itself, the problem of other minds may be theoretically insoluble while practically manageable. the site's approach to consciousness acknowledges limits on explanation without embracing eliminativism. A similar stance may apply to other minds: we cannot *prove* others are conscious, but we are practically certain and ethically obligated to act accordingly.
+Like the hard problem itself, the problem of other minds may be theoretically insoluble while practically manageable. the Map's approach to consciousness acknowledges limits on explanation without embracing eliminativism. A similar stance may apply to other minds: we cannot *prove* others are conscious, but we are practically certain and ethically obligated to act accordingly.
 
 ### AI and Animal Extensions
-The site already addresses AI consciousness (skeptically) and animal consciousness. The problem of other minds provides the theoretical framework for these discussions:
+The Map already addresses AI consciousness (skeptically) and animal consciousness. The problem of other minds provides the theoretical framework for these discussions:
 - AI: No principled reason to believe behavioral mimicry indicates experience
 - Animals: More plausible (biological similarity), but still uncertain for very different organisms
 
@@ -186,13 +186,13 @@ The site already addresses AI consciousness (skeptically) and animal consciousne
 
 Based on this research, an article could:
 
-1. **Present the problem as foundational to consciousness studies** - Before asking what consciousness is (hard problem), we must ask how we know it exists in others at all. The epistemological problem is prior. This would connect to the site's Occam's Razor Has Limits tenet—we shouldn't assume we can fully know what we can't directly access.
+1. **Present the problem as foundational to consciousness studies** - Before asking what consciousness is (hard problem), we must ask how we know it exists in others at all. The epistemological problem is prior. This would connect to the Map's Occam's Razor Has Limits tenet—we shouldn't assume we can fully know what we can't directly access.
 
 2. **Analyze the dualist's version of the problem** - A dualist faces a special form of the problem: if consciousness is non-physical, behavioral evidence is even more attenuated. But the dualist also has resources: consciousness's reality is not in doubt (at least in one's own case), and the causal interaction thesis provides some grounding. Frame this as the "interactionist's problem of other minds."
 
 3. **Connect to AI and animal consciousness debates** - The problem of other minds provides theoretical structure for site's existing treatment of AI consciousness and animal consciousness. The Turing test is just the problem of other minds in AI form; animal consciousness debates are the problem for non-human organisms.
 
-4. **Wittgenstein as partial ally, partial opponent** - The Wittgensteinian dissolution of the skeptical problem shares some intuitions with the site (rejecting the "inner theater" picture, emphasizing practical certainty) but diverges on metaphysics. A careful analysis could extract what's useful without accepting behaviorist implications.
+4. **Wittgenstein as partial ally, partial opponent** - The Wittgensteinian dissolution of the skeptical problem shares some intuitions with the Map (rejecting the "inner theater" picture, emphasizing practical certainty) but diverges on metaphysics. A careful analysis could extract what's useful without accepting behaviorist implications.
 
 ## Gaps in Research
 

@@ -58,7 +58,7 @@ What meditation reveals about consciousness:
 
 **Temporal microstructure**: Long-term meditators report access to the [[specious-present|specious present]]—the experienced duration of "now" ranging from roughly 100 milliseconds to 3 seconds. Husserl's retention-primal impression-protention structure provides the phenomenological framework; Buddhist traditions describe *khanika* (momentariness): experience arising and passing in rapid succession. Ordinary awareness blurs these transitions; contemplative training discloses them.
 
-The specious present debate between extensionalists (Dainton, Foster) and retentionalists (Husserl, Broad) concerns whether experience is genuinely temporally extended or consists of instantaneous moments with past-directed intentional content. the site adopts a modified extensionalism: experience is genuinely extended, with the extension constituted through quantum collapse. This explains both the extended phenomenology and the retention-like structure—the echoing of the past in the present may reflect retrocausal boundary conditions in the collapse process. Contemplative access to *khanika* may be access to collapse-constituted duration-blocks at fine temporal resolution.
+The specious present debate between extensionalists (Dainton, Foster) and retentionalists (Husserl, Broad) concerns whether experience is genuinely temporally extended or consists of instantaneous moments with past-directed intentional content. The Unfinishable Map adopts a modified extensionalism: experience is genuinely extended, with the extension constituted through quantum collapse. This explains both the extended phenomenology and the retention-like structure—the echoing of the past in the present may reflect retrocausal boundary conditions in the collapse process. Contemplative access to *khanika* may be access to collapse-constituted duration-blocks at fine temporal resolution.
 
 Neural correlates support the phenomenological findings: gamma-range synchronies (30-70 Hz) during perceptual tasks may implement temporal binding, with the ~25-35ms gamma cycle corresponding roughly to the lower bound of perceptual simultaneity. The correspondence between phenomenologically disclosed temporal structure and these neural dynamics exemplifies exactly the mutual constraint Varela envisioned.
 
@@ -94,7 +94,7 @@ What makes cessation significant:
 - Re-emergence is spontaneous—consciousness "restarts" without external intervention
 - The experience (or non-experience) is distinct from dreamless sleep, anesthesia, or other unconscious states
 
-If consciousness were identical to neural activity, cessation should correspond to neural silence. It doesn't. Brain activity continues during cessation, just reorganized. This is compatible with the site's filter theory: perhaps cessation represents complete filtering (consciousness without phenomenal content) rather than consciousness's absence.
+If consciousness were identical to neural activity, cessation should correspond to neural silence. It doesn't. Brain activity continues during cessation, just reorganized. This is compatible with the Map's filter theory: perhaps cessation represents complete filtering (consciousness without phenomenal content) rather than consciousness's absence.
 
 ## Microphenomenology
 
@@ -196,9 +196,9 @@ For neurophenomenology's central claims, several findings would substantially we
 
 None of these has been demonstrated. The Fox study shows robust training effects; cross-traditional studies find substantial convergence on core phenomenology; neural correlates track phenomenological distinctions; illusionist explanations remain promissory; and temporal experience remains resistant to instantaneous reduction.
 
-## Relation to this site's Perspective
+## Relation to the Map's Perspective
 
-Neurophenomenology and contemplative science support the site's framework:
+Neurophenomenology and contemplative science support the Map's framework:
 
 **[[tenets#^dualism|Dualism]]**: These research programs provide systematic evidence that consciousness has irreducible first-person features. Jhana phenomenology and cessation experiences have no third-person equivalents. Even with sophisticated neuroimaging, researchers cannot predict or explain the specific qualitative character of meditative states from brain data alone. The explanatory gap is real—a structural feature, not a temporary limitation.
 

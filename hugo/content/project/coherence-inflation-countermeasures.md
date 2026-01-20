@@ -23,7 +23,7 @@ topics: []
 
 This document defines safeguards against "coherence inflation"—the systematic overcommitment that emerges when a single AI system both generates and reviews content optimized for internal consistency. Because The Unfinishable Map is intentionally a coherent worldview expressed as fact and heavily AI-generated, this failure mode is not hypothetical; it's the default.
 
-The countermeasures below are designed to be implementable in the site's automated workflow without requiring constant human oversight.
+The countermeasures below are designed to be implementable in The Unfinishable Map's automated workflow without requiring constant human oversight.
 
 ## The Failure Mode
 
@@ -41,11 +41,11 @@ The result is a worldview that feels increasingly solid while becoming increasin
 
 ### Policy
 
-Every substantive claim in the site should have an implicit confidence level. The [Writing Style Guide](/project/writing-style/) already distinguishes four levels:
+Every substantive claim in the Map should have an implicit confidence level. The [Writing Style Guide](/project/writing-style/) already distinguishes four levels:
 
 | Level | Language Pattern | Treatment |
 |-------|-----------------|-----------|
-| **Tenet-level** | Direct assertion | Core commitments; changing these changes the site |
+| **Tenet-level** | Direct assertion | Core commitments; changing these changes the Map |
 | **Supported argument** | Qualified assertion | Following from tenets; should cite evidence |
 | **Speculation** | Explicit hedging | Provisional; should be flagged as such |
 | **Reporting others** | Attribution | Others' views; no confidence claim implied |
@@ -54,7 +54,7 @@ Every substantive claim in the site should have an implicit confidence level. Th
 
 The `/refine-draft` and `/deep-review` skills should check that:
 
-- High-confidence assertions (direct language) don't creep into areas where the site has only speculative support
+- High-confidence assertions (direct language) don't creep into areas where the Map has only speculative support
 - Low-confidence claims don't get referenced elsewhere as established facts
 - Claims that were speculative in research notes don't become certain when synthesized into articles
 
@@ -62,13 +62,13 @@ The `/refine-draft` and `/deep-review` skills should check that:
 
 When an article makes claims beyond tenet support, it should include an explicit uncertainty acknowledgment:
 
-> *The following is speculative and extends beyond the site's core tenets:*
+> *The following is speculative and extends beyond the Map's core tenets:*
 
 ## Countermeasure 2: Mandatory Steelman Sections
 
 ### Policy
 
-For topics where the site takes a strong position against major alternatives, the article must include a serious steelman of the opposing view before explaining why the site disagrees.
+For topics where the Map takes a strong position against major alternatives, the article must include a serious steelman of the opposing view before explaining why the Map disagrees.
 
 ### Applicable Topics
 
@@ -93,13 +93,13 @@ The `/pessimistic-review` skill should check that opposing views are:
 >
 > [Name] argues that... [Citation]
 >
-> **Why this site Disagrees**: [Response that addresses the actual argument]
+> **Why the Map Disagrees**: [Response that addresses the actual argument]
 
 ## Countermeasure 3: Provenance Tagging for Empirical Claims
 
 ### Policy
 
-Empirical claims (about experiments, studies, statistics, neuroscience findings) must be traceable to sources. the site should distinguish:
+Empirical claims (about experiments, studies, statistics, neuroscience findings) must be traceable to sources. the Map should distinguish:
 
 | Type | Treatment |
 |------|-----------|
@@ -130,7 +130,7 @@ Not:
 
 ### Policy
 
-The site should receive periodic reviews from external AI systems (not the Claude instance generating content) specifically tasked to find:
+The Map should receive periodic reviews from external AI systems (not the Claude instance generating content) specifically tasked to find:
 
 - Claims that have drifted beyond evidence
 - Arguments that beg the question
@@ -266,7 +266,7 @@ The `/evolve` skill should periodically (monthly) generate a coherence health re
 
 These countermeasures serve the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet by embodying the principle: simplicity and coherence are not sufficient for truth. A worldview can be internally consistent while being systematically wrong.
 
-The site's epistemic integrity depends on remaining genuinely falsifiable and open to revision. Coherence inflation would make the site *unfalsifiable in practice* even if nominally falsifiable in principle—objections would get softened, evidence would get filtered, confidence would ratchet up.
+The Map's epistemic integrity depends on remaining genuinely falsifiable and open to revision. Coherence inflation would make the Map *unfalsifiable in practice* even if nominally falsifiable in principle—objections would get softened, evidence would get filtered, confidence would ratchet up.
 
 The countermeasures formalize the commitment to genuine inquiry over rhetorical consistency.
 

@@ -17,13 +17,13 @@ title: Research Notes - Psychophysical Coupling Problem (Selection Law)
 
 ## Executive Summary
 
-The site asserts that consciousness "selects" among quantum outcomes (tenets, free-will, quantum-consciousness), but this claim currently functions as a metaphor rather than a research program. If selection is real, there must be a **psychophysical coupling law**: a stable mapping from conscious contents (intentions, attention states) to which quantum outcomes become actual (or which probability distributions are biased). Without specifying this law—even schematically—"selection" risks being an unfalsifiable placeholder.
+The Unfinishable Map asserts that consciousness "selects" among quantum outcomes (tenets, free-will, quantum-consciousness), but this claim currently functions as a metaphor rather than a research program. If selection is real, there must be a **psychophysical coupling law**: a stable mapping from conscious contents (intentions, attention states) to which quantum outcomes become actual (or which probability distributions are biased). Without specifying this law—even schematically—"selection" risks being an unfalsifiable placeholder.
 
-This research surveys the state of the art on psychophysical laws (Chalmers), conscious processing bandwidth, Stapp's quantum Zeno mechanism, and recent 2024-2025 developments. The goal: identify candidate constraint families for a selection law, clarify what's selectable vs. not selectable, and turn the site's commitment into actionable research questions.
+This research surveys the state of the art on psychophysical laws (Chalmers), conscious processing bandwidth, Stapp's quantum Zeno mechanism, and recent 2024-2025 developments. The goal: identify candidate constraint families for a selection law, clarify what's selectable vs. not selectable, and turn the Map's commitment into actionable research questions.
 
 ## The Problem Stated
 
-The site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes through quantum selection. But what does this mean concretely?
+The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes through quantum selection. But what does this mean concretely?
 
 A psychophysical coupling law would specify:
 1. **Variables on the mental side**: What aspects of conscious experience map to selection? (Attention? Intention? Valence? Effort?)
@@ -43,7 +43,7 @@ Key quote: "Where we have new fundamental properties, we also have new fundament
 
 Chalmers proposes the **principle of organizational invariance**: any two systems with the same fine-grained functional organization will have qualitatively identical experiences. This is a structural constraint on psychophysical laws.
 
-**Limitation for selection**: Chalmers' psychophysical laws concern *which physical states produce which experiences* (upward direction). the site needs laws in the *downward* direction: which conscious states produce which physical selections. Chalmers is largely agnostic on downward causation.
+**Limitation for selection**: Chalmers' psychophysical laws concern *which physical states produce which experiences* (upward direction). the Map needs laws in the *downward* direction: which conscious states produce which physical selections. Chalmers is largely agnostic on downward causation.
 
 ### Stapp on Quantum Selection Mechanism (2007, ongoing)
 
@@ -111,7 +111,7 @@ Based on the research, here are candidate constraints for a psychophysical coupl
 - **Scope**: Only neural systems already integrated into subject's attention loop
 - **What's excluded**: Quantum events outside attention scope; events in others' brains; macroscopic external objects
 
-This aligns with the site's emphasis on attention as interface and explains "brain specialness" (next task).
+This aligns with the Map's emphasis on attention as interface and explains "brain specialness" (next task).
 
 ### Constraint Family 2: Policy-Level Selection
 
@@ -141,7 +141,7 @@ This is the most minimal interpretation of Stapp's Process 1: consciousness choo
 - **Scope**: Indexical selection of which branch/moment one experiences
 - **What's excluded**: Any selection beyond indexical localization
 
-This aligns with the site's No Many Worlds tenet and indexical identity emphasis—consciousness doesn't select outcomes but selects *which outcome is experienced as this one*.
+This aligns with the Map's No Many Worlds tenet and indexical identity emphasis—consciousness doesn't select outcomes but selects *which outcome is experienced as this one*.
 
 ## Key Research Questions
 
@@ -155,7 +155,7 @@ To turn "selection" into a research program:
 
 4. **Can selection experiments be designed?** Random number generator experiments have tried this with mixed results. What would a rigorous test look like given the constraints identified?
 
-5. **What distinguishes selectable from non-selectable quantum events?** the site needs a principled boundary to avoid "mind can bias anything" (the psychokinesis problem).
+5. **What distinguishes selectable from non-selectable quantum events?** the Map needs a principled boundary to avoid "mind can bias anything" (the psychokinesis problem).
 
 ## Relation to Site Tenets
 
@@ -178,7 +178,7 @@ The complexity of a coupling law shouldn't count against it if it explains somet
 
 This research could generate:
 
-1. **Concept page: "Psychophysical Coupling Law"** — Central treatment of what the site's framework requires: a law specifying how conscious states map to physical selections. Present the constraint families as candidates.
+1. **Concept page: "Psychophysical Coupling Law"** — Central treatment of what the Map's framework requires: a law specifying how conscious states map to physical selections. Present the constraint families as candidates.
 
 2. **Section addition to quantum-consciousness.md** — Add explicit treatment of the coupling problem as the next research frontier.
 
@@ -189,17 +189,17 @@ This research could generate:
 - No direct empirical measure of selection bandwidth exists
 - The constraint families are speculative candidates, not established facts
 - Stapp's mechanism is contested (Georgiev critique)
-- the site cannot resolve the physics debate—it can only state its position and acknowledge the challenge
+- the Map cannot resolve the physics debate—it can only state its position and acknowledge the challenge
 
 ## Key Insight
 
-The outer review was correct: the site uses "selection" as a metaphor where it needs a research program. The path forward is:
+The outer review was correct: the Map uses "selection" as a metaphor where it needs a research program. The path forward is:
 
 1. **Acknowledge the coupling problem explicitly** — Don't hide behind metaphor
 2. **Present candidate constraints** — Show what a coupling law might look like
 3. **Connect to bandwidth literature** — The ~10 bits/second limit is a powerful constraint
 4. **Define what's excluded** — A law says what can't happen as much as what can
-5. **Embrace empirical uncertainty** — the site takes a position; it doesn't claim proof
+5. **Embrace empirical uncertainty** — the Map takes a position; it doesn't claim proof
 
 ## Citations
 

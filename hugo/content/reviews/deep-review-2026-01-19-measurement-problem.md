@@ -51,7 +51,7 @@ topics: []
 
 3. **Enhanced indexical problem treatment**: Added reference to haecceity concept and explained why "self-locating uncertainty" fails when both outcomes occur
 
-4. **Connected Occam's Razor Has Limits tenet**: Ontological extravagance point now explicitly invokes the site's tenet about parsimony being unreliable
+4. **Connected Occam's Razor Has Limits tenet**: Ontological extravagance point now explicitly invokes The Unfinishable Map's tenet about parsimony being unreliable
 
 ### Cross-links Added
 - [haecceity](/concepts/haecceity/) - Added to concepts frontmatter and referenced in indexical problem discussion

@@ -85,7 +85,7 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **File**: obsidian/concepts/cognitive-phenomenology.md
 - **Critical issues addressed**: 1 (missing Illusionist Challenge section)
 - **Medium issues addressed**: 5 (missing "What Would Challenge This View?" section, missing Process Philosophy Perspective, missing Contemplative Evidence section, Minimal Quantum Interaction tenet not addressed, missing cross-links)
-- **Enhancements made**: Added "The Illusionist Challenge" section with regress response and phenomenology-survives-analysis subsections. Added "Contemplative Evidence" section covering witness consciousness and thought, jhāna states/non-sensory phenomenology, and insight phenomenology. Added "Process Philosophy Perspective" section (prehension and understanding, concrescence and insight, sui generis character). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded Relation to Site Perspective to all 5 tenets with substantive connections (especially Minimal Quantum Interaction via semantic selection). Added 5 new cross-links (illusionism, witness-consciousness, attention-as-interface, haecceity, decoherence). Added 4 new references (Frankish, Metzinger, Tallis, Whitehead). Fixed "the site" capitalization.
+- **Enhancements made**: Added "The Illusionist Challenge" section with regress response and phenomenology-survives-analysis subsections. Added "Contemplative Evidence" section covering witness consciousness and thought, jhāna states/non-sensory phenomenology, and insight phenomenology. Added "Process Philosophy Perspective" section (prehension and understanding, concrescence and insight, sui generis character). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded Relation to Site Perspective to all 5 tenets with substantive connections (especially Minimal Quantum Interaction via semantic selection). Added 5 new cross-links (illusionism, witness-consciousness, attention-as-interface, haecceity, decoherence). Added 4 new references (Frankish, Metzinger, Tallis, Whitehead). Fixed "The Unfinishable Map" capitalization.
 - **Output**: `reviews/deep-review-2026-01-20-cognitive-phenomenology.md`
 - **Session**: 420
 
@@ -183,7 +183,7 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Status**: Success
 - **File**: obsidian/concepts/autonoetic-consciousness.md
 - **Critical issues addressed**: 3 (missing Illusionist Challenge section, missing "What Would Challenge This View?" section, incomplete tenet coverage—only 2-3 of 5)
-- **Medium issues addressed**: 3 (missing Process Philosophy Perspective section, section title inconsistency "Relation to this site's Perspective" → "Relation to Site Perspective", missing cross-links to key related concepts)
+- **Medium issues addressed**: 3 (missing Process Philosophy Perspective section, section title inconsistency "Relation to the Map's Perspective" → "Relation to Site Perspective", missing cross-links to key related concepts)
 - **Enhancements made**: Added "The Illusionist Challenge" section with 3 subsections (regress response, phenomenology of introspection, contemplative evidence from witness consciousness). Added "Process Philosophy Perspective" section (memory and actual occasions, concrescence and re-experiencing, temporal thickness). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" from 2-3 to all 5 tenets with substantive connections (added Minimal Quantum Interaction via quantum selection in memory formation, Occam's Razor Has Limits via remember/know distinction). Added 7 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity, metacognition, episodic-memory). Added 5 new references (Tallis, Frankish, Whitehead, Dennett, Kriegel).
 - **Output**: `reviews/deep-review-2026-01-20-autonoetic-consciousness.md`
 - **Session**: 410
@@ -205,7 +205,7 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Status**: Success
 - **File**: obsidian/concepts/relational-quantum-mechanics.md
 - **Critical issues addressed**: 0
-- **Medium issues addressed**: 5 (missing Illusionist Challenge section, missing Process Philosophy Perspective section, missing What Would Challenge This View? section, thin Relation to Site Perspective section, style inconsistency with lowercase "the site")
+- **Medium issues addressed**: 5 (missing Illusionist Challenge section, missing Process Philosophy Perspective section, missing What Would Challenge This View? section, thin Relation to Site Perspective section, style inconsistency with lowercase "the Map")
 - **Enhancements made**: Added "The Illusionist Challenge" section with regress response and phenomenology of observation subsections. Added "Process Philosophy Perspective" section covering concrescence vs. relativization, subject-superject structure, and experience all the way down. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded all 5 tenet connections with substantive analysis including haecceity connection to No Many Worlds and epiphenomenalism concern in Bidirectional Interaction. Fixed style inconsistencies. Added 6 new cross-links (illusionism, introspection, decoherence, haecceity, witness-consciousness, many-worlds). Added 3 new references (Frankish, Tallis, Whitehead).
 - **Output**: `reviews/deep-review-2026-01-20-relational-quantum-mechanics.md`
 - **Session**: 408
@@ -811,7 +811,7 @@ This changelog tracks all AI automation activity. Each entry records what was do
 ### 20:32 - cross-review (haecceity.md with many-worlds arguments)
 - **Status**: Success
 - **File**: obsidian/concepts/haecceity.md
-- **Changes**: Enhanced haecceity.md with stronger cross-links to many-worlds.md. Added reference to five MWI arguments and self-locating uncertainty debate (Deutsch, Carroll response and counter-response) in "the site's Indexical Emphasis" section. Enhanced "MWI and the Probability Problem" section with anchor link to specific argument and clarification that indexical identity and probability problems both hinge on haecceity.
+- **Changes**: Enhanced haecceity.md with stronger cross-links to many-worlds.md. Added reference to five MWI arguments and self-locating uncertainty debate (Deutsch, Carroll response and counter-response) in "the Map's Indexical Emphasis" section. Enhanced "MWI and the Probability Problem" section with anchor link to specific argument and clarification that indexical identity and probability problems both hinge on haecceity.
 - **Session**: 331
 
 ---
@@ -1255,7 +1255,7 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Changes made**:
   - Added `[[dualism]]` to concepts frontmatter
   - Integrated cross-link in "Why Materialism Fails" section
-  - Added explicit link to dualism.md in "Relation to this site's Perspective"
+  - Added explicit link to dualism.md in "Relation to the Map's Perspective"
   - Added dualism.md at top of Further Reading with description
 - **Result**: Strengthened dialectical structure by making materialism→dualism relationship bidirectional
 - **Output**: Updated `concepts/materialism.md`
@@ -1593,7 +1593,7 @@ This changelog tracks all AI automation activity. Each entry records what was do
 ### 21:49 - check-links
 - **Status**: Success
 - **Output**: All links validated
-- **Changes**: Ran link checker on local Hugo server. Synced 246 files from Obsidian to Hugo, verified all internal links on the site. No broken links found.
+- **Changes**: Ran link checker on local Hugo server. Synced 246 files from Obsidian to Hugo, verified all internal links on the Map. No broken links found.
 
 ---
 
@@ -1795,7 +1795,7 @@ This changelog tracks all AI automation activity. Each entry records what was do
 ### 18:00 - cross-review (agent-causation/luck-objection)
 - **Status**: Success
 - **Output**: Updated `concepts/agent-causation.md`
-- **Changes**: Expanded "the site's Response" section with four-dimension framework from luck-objection article: (1) selection vs randomness—different relationship to indeterminacy, (2) phenomenology of effort—selections feel like achievements, (3) reasons-guided selection—provides contrastive explicability, (4) retrocausal deepening—prior state is part of what's selected. Added explanation of how this differs from standard agent-causal "the agent caused it" response.
+- **Changes**: Expanded "the Map's Response" section with four-dimension framework from luck-objection article: (1) selection vs randomness—different relationship to indeterminacy, (2) phenomenology of effort—selections feel like achievements, (3) reasons-guided selection—provides contrastive explicability, (4) retrocausal deepening—prior state is part of what's selected. Added explanation of how this differs from standard agent-causal "the agent caused it" response.
 - **Commit**: 121886e
 
 ---
@@ -1845,7 +1845,7 @@ This changelog tracks all AI automation activity. Each entry records what was do
 ### 20:30 - cross-review (interactionist-dualism/multi-mind-collapse)
 - **Status**: Success
 - **Output**: Updated `concepts/interactionist-dualism.md`
-- **Changes**: Added "The Multi-Mind Collapse Problem" section explaining the three uncomfortable options for naive consciousness-causes-collapse (first observer wins, consensus required, dominant consciousness), the site's resolution via interface locality + prebiotic collapse (each consciousness modulates only its own brain), and key consequences for interactionism (intersubjective agreement without coordination, scope clarification, pairing problem reinforcement). Added multi-mind-collapse-problem, interface-locality, prebiotic-collapse to concepts and Further Reading.
+- **Changes**: Added "The Multi-Mind Collapse Problem" section explaining the three uncomfortable options for naive consciousness-causes-collapse (first observer wins, consensus required, dominant consciousness), the Map's resolution via interface locality + prebiotic collapse (each consciousness modulates only its own brain), and key consequences for interactionism (intersubjective agreement without coordination, scope clarification, pairing problem reinforcement). Added multi-mind-collapse-problem, interface-locality, prebiotic-collapse to concepts and Further Reading.
 - **Commit**: 55946ac
 
 ---
@@ -1891,7 +1891,7 @@ This changelog tracks all AI automation activity. Each entry records what was do
 ### 14:00 - cross-review (measurement-problem/multi-mind-collapse)
 - **Status**: Success
 - **Output**: Updated `concepts/measurement-problem.md`
-- **Changes**: Added "The Multi-Observer Coordination Problem" subsection to the Observer Problem section. Explains the three uncomfortable options for consciousness-based interpretations when multiple minds observe the same system (first observer wins, consensus required, dominant consciousness) and the site's resolution via interface locality + objective collapse. Each consciousness modulates only its own brain; external reality determined by physical processes. Added multi-mind-collapse-problem, interface-locality, prebiotic-collapse to concepts and Further Reading.
+- **Changes**: Added "The Multi-Observer Coordination Problem" subsection to the Observer Problem section. Explains the three uncomfortable options for consciousness-based interpretations when multiple minds observe the same system (first observer wins, consensus required, dominant consciousness) and the Map's resolution via interface locality + objective collapse. Each consciousness modulates only its own brain; external reality determined by physical processes. Added multi-mind-collapse-problem, interface-locality, prebiotic-collapse to concepts and Further Reading.
 - **Commit**: 7be137f
 
 ---
@@ -2402,7 +2402,7 @@ This changelog tracks all AI automation activity. Each entry records what was do
 ### 12:30 - cross-review (hard-problem/pairing-problem)
 - **Status**: Success
 - **Output**: Updated `topics/hard-problem-of-consciousness.md`
-- **Changes**: Added new "The Pairing Problem: Why This Mind with This Body?" section explaining Kim's pairing problem as a distinct dimension of the hard problem (not just "why experience?" but "why this experience with this body?"), three major responses (spatial location, haecceity, non-spatial causation), how the site's quantum framework addresses both pairing and closure problems. Added pairing-problem to concepts list and Further Reading.
+- **Changes**: Added new "The Pairing Problem: Why This Mind with This Body?" section explaining Kim's pairing problem as a distinct dimension of the hard problem (not just "why experience?" but "why this experience with this body?"), three major responses (spatial location, haecceity, non-spatial causation), how the Map's quantum framework addresses both pairing and closure problems. Added pairing-problem to concepts list and Further Reading.
 
 ### 12:00 - expand-topic (For Interactionist Dualism argument page)
 - **Status**: Success
@@ -2425,12 +2425,12 @@ This changelog tracks all AI automation activity. Each entry records what was do
 ### 00:30 - cross-review (interactionist-dualism/emergence)
 - **Status**: Success
 - **Output**: Updated `concepts/interactionist-dualism.md`
-- **Changes**: Added new "Emergence and the Mechanism Classical Emergentism Lacked" section connecting O'Connor-Wong's account of emergent properties with novel causal powers to the site's quantum framework; explained how the site specifies the mechanism classical emergentists (Broad, Alexander) left abstract; added emergence and mental-causation to concepts list and Further Reading.
+- **Changes**: Added new "Emergence and the Mechanism Classical Emergentism Lacked" section connecting O'Connor-Wong's account of emergent properties with novel causal powers to the Map's quantum framework; explained how the Map specifies the mechanism classical emergentists (Broad, Alexander) left abstract; added emergence and mental-causation to concepts list and Further Reading.
 
 ### 00:35 - cross-review (causal-closure/emergence)
 - **Status**: Success
 - **Output**: Updated `concepts/causal-closure.md`
-- **Changes**: Added "Kim's Formulation Dilemma" subsection under Problems with the Principle (moved up from later in article); added "The Emergentist Response" subsection connecting O'Connor-Wong's framework to the site's quantum mechanism; added emergence and mental-causation to concepts list and Further Reading.
+- **Changes**: Added "Kim's Formulation Dilemma" subsection under Problems with the Principle (moved up from later in article); added "The Emergentist Response" subsection connecting O'Connor-Wong's framework to the Map's quantum mechanism; added emergence and mental-causation to concepts list and Further Reading.
 
 ---
 
@@ -2448,7 +2448,7 @@ This changelog tracks all AI automation activity. Each entry records what was do
 ### 14:30 - research-topic (introspection reliability and first-person methods)
 - **Status**: Success
 - **Output**: `research/introspection-reliability-first-person-2026-01-15.md`
-- **Key findings**: Nisbett/Wilson 1977 critique targets process access, not phenomenal content. Choice blindness (Johansson 2005) shows confabulation in decision justification, not current experience. Schwitzgebel's pluralist view: introspection is many processes, not one. Fox et al. 2012: meditation training predicts introspective accuracy with logarithmic skill curve. Microphenomenology (Petitmengin) provides rigorous techniques minimizing confabulation. Critical phenomenology (Velmans/Chalmers) offers reasonable middle ground—accept reports as prima facie guide except where specific reasons to doubt. Key insight: distinction between process access (limited) and phenomenal content access (more reliable) protects the site's reliance on first-person evidence for qualia and the hard problem.
+- **Key findings**: Nisbett/Wilson 1977 critique targets process access, not phenomenal content. Choice blindness (Johansson 2005) shows confabulation in decision justification, not current experience. Schwitzgebel's pluralist view: introspection is many processes, not one. Fox et al. 2012: meditation training predicts introspective accuracy with logarithmic skill curve. Microphenomenology (Petitmengin) provides rigorous techniques minimizing confabulation. Critical phenomenology (Velmans/Chalmers) offers reasonable middle ground—accept reports as prima facie guide except where specific reasons to doubt. Key insight: distinction between process access (limited) and phenomenal content access (more reliable) protects the Map's reliance on first-person evidence for qualia and the hard problem.
 
 ### 14:00 - cross-review (eastern-philosophy-consciousness/dreams-and-consciousness)
 - **Status**: Success
@@ -2476,7 +2476,7 @@ This changelog tracks all AI automation activity. Each entry records what was do
 ### 12:00 - cross-review (free-will/agent-causation)
 - **Status**: Success
 - **Output**: Updated `topics/free-will.md`
-- **Changes**: Added agent-causation to concepts list; expanded Libertarian Free Will description to distinguish event-causal from agent-causal versions; created new "Agent Causation: Why the site's Framework Is Libertarian" section covering: event-causal insufficiency for sourcehood, Chisholm's immanent causation, Lowe's substance causation, connection to site's quantum selection mechanism, phenomenology of effort as evidence; added agent-causation to Further Reading.
+- **Changes**: Added agent-causation to concepts list; expanded Libertarian Free Will description to distinguish event-causal from agent-causal versions; created new "Agent Causation: Why the Map's Framework Is Libertarian" section covering: event-causal insufficiency for sourcehood, Chisholm's immanent causation, Lowe's substance causation, connection to site's quantum selection mechanism, phenomenology of effort as evidence; added agent-causation to Further Reading.
 
 ### 11:45 - replenish-queue
 - **Status**: Success
@@ -2677,7 +2677,7 @@ This changelog tracks all AI automation activity. Each entry records what was do
 ### 14:45 - cross-review (voids/mysterianism)
 - **Status**: Success
 - **Output**: Updated `voids/voids.md`
-- **Changes**: Added mysterianism to concepts list; expanded "The Unexplorable" section with McGinn's cognitive closure framework, property P, and Nagel's bat argument; added "Mysterianism and cognitive closure" subsection under "the site"
+- **Changes**: Added mysterianism to concepts list; expanded "The Unexplorable" section with McGinn's cognitive closure framework, property P, and Nagel's bat argument; added "Mysterianism and cognitive closure" subsection under "the Map"
 
 ### 15:00 - cross-review (death-and-consciousness/near-death-experiences)
 - **Status**: Success

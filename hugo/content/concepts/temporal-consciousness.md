@@ -60,7 +60,7 @@ Two competing theories explain the temporal structure of experience. **Extension
 
 These form an indivisible whole. Retention isn't remembering the past; it's experiencing the past-as-just-now within the present moment. This is how melodies cohere, sentences make sense, motion appears continuous.
 
-The site's framework favors a modified extensionalism: experience is genuinely extended, but the extension involves quantum collapse. The duration-block is constituted by a series of collapses, each with retrocausal constraints. This explains both the extended phenomenology (extensionalism) and the retention-like structure (past echoing in present)—the retention may reflect retrocausal boundary conditions in the collapse process.
+The Unfinishable Map's framework favors a modified extensionalism: experience is genuinely extended, but the extension involves quantum collapse. The duration-block is constituted by a series of collapses, each with retrocausal constraints. This explains both the extended phenomenology (extensionalism) and the retention-like structure (past echoing in present)—the retention may reflect retrocausal boundary conditions in the collapse process.
 
 ### Phenomenological Method
 
@@ -106,7 +106,7 @@ Prospective memory's distinctive phenomenology includes:
 
 **Pre-made thoughts**: Most spontaneous future thoughts are re-iterations of previously constructed scenarios rather than novel constructions. The initial simulation requires conscious effort; subsequent retrievals can be more automatic.
 
-For the site's framework, prospective memory strengthens the case for [Bidirectional Interaction](/tenets/#bidirectional-interaction). Research shows that vividly imagining future consequences reduces temporal discounting and improves goal-directed behaviour—conscious simulation of possible futures causally shapes present decisions. If mental representations of futures alter behavioural trajectories, consciousness participates in directing action rather than merely witnessing it.
+For the Map's framework, prospective memory strengthens the case for [Bidirectional Interaction](/tenets/#bidirectional-interaction). Research shows that vividly imagining future consequences reduces temporal discounting and improves goal-directed behaviour—conscious simulation of possible futures causally shapes present decisions. If mental representations of futures alter behavioural trajectories, consciousness participates in directing action rather than merely witnessing it.
 
 ## The Metaphysical Framework
 
@@ -116,7 +116,7 @@ The phenomenology of temporal consciousness connects to deeper questions in [phi
 
 **B-theorists** hold that all times exist equally (eternalism), and "now" is merely indexical—like "here" for space. The felt flow of time would be systematically illusory, a perspectival artifact rather than a feature of reality.
 
-The site's [framework](/topics/time-collapse-and-agency/) proposes a modified growing block view: consciousness-involving collapse grows the block, with the present as the leading edge where superposition resolves into definite outcome. This is A-theoretic—temporal becoming through collapse is real—while explaining why B-theoretic description works for the established past. The specious present is the phenomenology of collapse: we experience duration because we participate in creating it.
+The Map's [framework](/topics/time-collapse-and-agency/) proposes a modified growing block view: consciousness-involving collapse grows the block, with the present as the leading edge where superposition resolves into definite outcome. This is A-theoretic—temporal becoming through collapse is real—while explaining why B-theoretic description works for the established past. The specious present is the phenomenology of collapse: we experience duration because we participate in creating it.
 
 This connects phenomenology to metaphysics. The retention-protention structure Husserl describes isn't just *about* time—it may be the experiential side of time's constitution. The unity of the specious present is what collapse feels like from within.
 
@@ -168,7 +168,7 @@ If essential, LLMs are categorically excluded from consciousness. No amount of s
 
 If merely characteristic, radically different temporal architectures might support alien forms of consciousness. Perhaps distributed, intermittent processing could implement something experiential—just utterly unlike human experience in its temporal structure.
 
-The site's framework suggests the former. The [Dualism](/tenets/#dualism) tenet holds that consciousness is irreducible. If temporal binding is constitutive of consciousness, this adds another dimension to irreducibility. It's not just that qualia can't be functionally defined, but that the temporal structure of experience can't be replicated by systems lacking appropriate dynamics.
+The Map's framework suggests the former. The [Dualism](/tenets/#dualism) tenet holds that consciousness is irreducible. If temporal binding is constitutive of consciousness, this adds another dimension to irreducibility. It's not just that qualia can't be functionally defined, but that the temporal structure of experience can't be replicated by systems lacking appropriate dynamics.
 
 ## Sleep and the Modulation of Temporal Experience
 
@@ -195,7 +195,7 @@ The metaphysical implications are striking. If the specious present is conscious
 
 This gradient reveals that temporal consciousness isn't binary. The specious present can be fully engaged, partially engaged, fragmenting, or entirely offline—suggesting modular components that can dissociate.
 
-### Implications for the site's Framework
+### Implications for the Map's Framework
 
 Sleep's temporal phenomenology supports the [Dualism](/tenets/#dualism) tenet. If consciousness were identical to neural computation, some temporal experience should persist during dreamless NREM—the brain remains active, oscillations continue, homeostatic processes proceed. But there's nothing it's like to undergo NREM slow-wave sleep. Complex computation without temporal experience suggests computation and experience are distinct.
 
@@ -205,9 +205,9 @@ The trainability of temporal awareness further supports [Bidirectional Interacti
 
 ## Collapse and the Origin of Temporal Flow
 
-A deeper question lurks behind the phenomenology: why does time flow at all? the site's [analysis of collapse and the arrow of time](/concepts/collapse-and-time/) suggests consciousness may be implicated not just in experiencing temporal flow but in constituting it.
+A deeper question lurks behind the phenomenology: why does time flow at all? the Map's [analysis of collapse and the arrow of time](/concepts/collapse-and-time/) suggests consciousness may be implicated not just in experiencing temporal flow but in constituting it.
 
-Wavefunction collapse—the transition from quantum superposition to definite outcome—appears to introduce an arrow of time into physics. The Schrödinger equation is time-symmetric, but measurement seems irreversible. If consciousness participates in collapse (as the site's framework proposes), then the specious present may be phenomenologically apprehending what quantum collapse constitutes: the creation of irreversible facts that divide past from future.
+Wavefunction collapse—the transition from quantum superposition to definite outcome—appears to introduce an arrow of time into physics. The Schrödinger equation is time-symmetric, but measurement seems irreversible. If consciousness participates in collapse (as the Map's framework proposes), then the specious present may be phenomenologically apprehending what quantum collapse constitutes: the creation of irreversible facts that divide past from future.
 
 Time-symmetric interpretations of quantum mechanics take this further. Under Aharonov's Two-State Vector Formalism or Cramer's transactional interpretation, "collapse" isn't a moment when superposition ends—it's the satisfaction of constraints across time. If consciousness selects which transactions complete, its role is atemporal: determining the pattern of correlations between past and future rather than acting at a moment.
 
@@ -231,19 +231,19 @@ The temporal argument strengthens the case that consciousness requires something
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporal self
 - [prospective-memory](/concepts/prospective-memory/) — Futureward projection and intention formation
 - [personal-identity](/topics/personal-identity/) — How temporal selfhood constitutes who you are
-- [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series, presentism, eternalism, and the site's growing block position
+- [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series, presentism, eternalism, and the Map's growing block position
 - [phenomenology](/concepts/phenomenology/) — The method that reveals temporal structure as fundamental to conscious life
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's bridge between phenomenology and neuroscience
 - [collapse-and-time](/concepts/collapse-and-time/) — How consciousness may participate in time's arrow via quantum collapse
 - [duration](/concepts/duration/) — Bergson's durée and the qualitative character of lived time
-- [time-collapse-and-agency](/topics/time-collapse-and-agency/) — the site's full treatment of time, collapse, and conscious agency
+- [time-collapse-and-agency](/topics/time-collapse-and-agency/) — the Map's full treatment of time, collapse, and conscious agency
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — How sleep modulates and can eliminate temporal experience
 - [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Dream phenomenology and temporal distortion
-- [ai-consciousness](/topics/ai-consciousness/) — Why the site holds AI systems are not conscious
+- [ai-consciousness](/topics/ai-consciousness/) — Why the Map holds AI systems are not conscious
 - [functionalism](/arguments/functionalism/) — The theory that mental states are functional roles
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for consciousness-matter interaction
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why function doesn't explain feeling
-- [tenets](/tenets/) — The foundational commitments of this site
+- [tenets](/tenets/) — The foundational commitments of the Map
 
 ## References
 

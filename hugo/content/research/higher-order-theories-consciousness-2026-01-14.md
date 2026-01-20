@@ -29,7 +29,7 @@ topics:
 
 ## Executive Summary
 
-Higher-order theories (HOT) of consciousness hold that a mental state becomes conscious when it is represented by a higher-order mental state—either a thought (HOT theory, Rosenthal) or a perception (HOP theory, Armstrong, Lycan). The central claim is that being aware of a mental state is what makes it conscious. While empirically influential and linking consciousness to metacognition and prefrontal cortex activity, HOT faces serious philosophical objections: the "rock" objection (why does thinking about something make it conscious?), the misrepresentation problem (what happens when HOTs target nonexistent states?), concerns about animal and infant consciousness (they likely lack metacognitive sophistication), and most fundamentally, Block and Farrell's arguments that HOT explains only *access* consciousness, not phenomenal consciousness (what-it-is-like-ness). From the site's perspective, HOT is a functionalist theory that fails to address the hard problem—explaining cognitive architecture without explaining why there is something it is like to be conscious.
+Higher-order theories (HOT) of consciousness hold that a mental state becomes conscious when it is represented by a higher-order mental state—either a thought (HOT theory, Rosenthal) or a perception (HOP theory, Armstrong, Lycan). The central claim is that being aware of a mental state is what makes it conscious. While empirically influential and linking consciousness to metacognition and prefrontal cortex activity, HOT faces serious philosophical objections: the "rock" objection (why does thinking about something make it conscious?), the misrepresentation problem (what happens when HOTs target nonexistent states?), concerns about animal and infant consciousness (they likely lack metacognitive sophistication), and most fundamentally, Block and Farrell's arguments that HOT explains only *access* consciousness, not phenomenal consciousness (what-it-is-like-ness). From The Unfinishable Map's perspective, HOT is a functionalist theory that fails to address the hard problem—explaining cognitive architecture without explaining why there is something it is like to be conscious.
 
 ## Key Sources
 
@@ -175,7 +175,7 @@ HOT's AI implications reveal the same problem as with GWT:
 
 ## Relation to Site's Self-Reference Paradox
 
-Interestingly, HOT connects to the site's [self-reference-paradox](/voids/self-reference-paradox/) concept:
+Interestingly, HOT connects to the Map's [self-reference-paradox](/voids/self-reference-paradox/) concept:
 
 - HOT requires consciousness to involve *self-reference*—being aware of one's own mental states
 - This creates potential regress: if conscious HOTs require even higher-order states, where does it end?
@@ -188,7 +188,7 @@ Interestingly, HOT connects to the site's [self-reference-paradox](/voids/self-r
 
 **Conflict**: HOT is a functionalist theory. It identifies phenomenal consciousness with a functional property (being the target of higher-order thought). This is a form of mental-level reduction that conflicts with irreducibility.
 
-**However**: HOT defenders argue it's reduction "in mentalistic terms, not neurophysiology." This is more sophisticated than crude type-identity physicalism. But the site's Dualism tenet rejects any reduction of phenomenal consciousness—whether to neurons or to cognitive functions.
+**However**: HOT defenders argue it's reduction "in mentalistic terms, not neurophysiology." This is more sophisticated than crude type-identity physicalism. But the Map's Dualism tenet rejects any reduction of phenomenal consciousness—whether to neurons or to cognitive functions.
 
 ### Minimal Quantum Interaction Tenet
 
@@ -206,7 +206,7 @@ Interestingly, HOT connects to the site's [self-reference-paradox](/voids/self-r
 
 ### Occam's Razor Has Limits Tenet
 
-**Relevant**: HOT appears simpler than dualism—it explains consciousness in terms of cognitive architecture without positing irreducible properties. But the site responds: HOT explains access consciousness, not phenomenal consciousness. The apparent simplicity is achieved by ignoring what needs to be explained. As Farrell argues, "Ambitious HO theories of consciousness fail" to account for what-it-is-like-ness.
+**Relevant**: HOT appears simpler than dualism—it explains consciousness in terms of cognitive architecture without positing irreducible properties. But the Map responds: HOT explains access consciousness, not phenomenal consciousness. The apparent simplicity is achieved by ignoring what needs to be explained. As Farrell argues, "Ambitious HO theories of consciousness fail" to account for what-it-is-like-ness.
 
 ## Potential Article Angles
 
@@ -216,7 +216,7 @@ Based on this research, an article could:
 
 2. **Use HOT to sharpen the access/phenomenal distinction** - HOT makes the Block distinction vivid. Even if HOT fully explains *access* (which states are available for report), the question remains why there's something it's like to have those states.
 
-3. **Connect to self-reference paradox** - HOT requires self-reference. The regress problem and the calibration problem from the site's voids framework apply. How do we evaluate our metacognition without metacognition?
+3. **Connect to self-reference paradox** - HOT requires self-reference. The regress problem and the calibration problem from the Map's voids framework apply. How do we evaluate our metacognition without metacognition?
 
 4. **Compare with GWT** - Both are leading functionalist theories. GWT emphasizes broadcasting; HOT emphasizes metacognition. Both face the same fundamental objection: they explain cognitive architecture, not phenomenal consciousness.
 

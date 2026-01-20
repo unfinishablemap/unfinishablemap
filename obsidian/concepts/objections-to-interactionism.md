@@ -32,7 +32,7 @@ last_curated: null
 last_deep_review: 2026-01-20T08:50:00+00:00
 ---
 
-[[interactionist-dualism|Interactionist dualism]] faces six major philosophical objections: the [[pairing-problem|pairing problem]], conservation laws, parsimony, the decoherence objection, the evolutionary argument, and Kim's exclusion argument. This page provides comprehensive treatment of each objection and the responses available to the interactionist—particularly within the [[quantum-consciousness|quantum framework]] this site adopts. The key finding: five objections have principled responses, and the sixth (evolution) actually *supports* interactionism against its main rival, [[epiphenomenalism]].
+[[interactionist-dualism|Interactionist dualism]] faces six major philosophical objections: the [[pairing-problem|pairing problem]], conservation laws, parsimony, the decoherence objection, the evolutionary argument, and Kim's exclusion argument. This page provides comprehensive treatment of each objection and the responses available to the interactionist—particularly within the [[quantum-consciousness|quantum framework]] The Unfinishable Map adopts. The key finding: five objections have principled responses, and the sixth (evolution) actually *supports* interactionism against its main rival, [[epiphenomenalism]].
 
 ## The Pairing Problem
 
@@ -62,7 +62,7 @@ If haecceities don't exist, the pairing problem generalizes to all causation. Wh
 
 ### The Quantum Fit
 
-The site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework provides a natural answer. If consciousness interfaces with the brain at quantum indeterminacies in specific neural structures, consciousness is located *where those structures are*. The distinctiveness of consciousness is metaphysical, not spatial—it can be a different kind of thing from matter while still occupying space.
+The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework provides a natural answer. If consciousness interfaces with the brain at quantum indeterminacies in specific neural structures, consciousness is located *where those structures are*. The distinctiveness of consciousness is metaphysical, not spatial—it can be a different kind of thing from matter while still occupying space.
 
 [[interface-locality|Interface locality]] reinforces this: each consciousness can only interface with its own brain because the quantum Zeno mechanism requires the observer-system coupling that exists only within one's neural substrate. You cannot attend to distant quantum systems the way you attend to your own neural states. The pairing is built into the mechanism.
 
@@ -95,7 +95,7 @@ Conservation is local and approximate, not a universal metaphysical truth. Physi
 
 ### Response 3: The Quantum Exception
 
-The site's primary response: at quantum indeterminacies, consciousness selects among possible outcomes without adding energy. The outcomes all have the same energy; consciousness just determines *which* one actualizes.
+The Map's primary response: at quantum indeterminacies, consciousness selects among possible outcomes without adding energy. The outcomes all have the same energy; consciousness just determines *which* one actualizes.
 
 Consider a superposition of two neural firing patterns, each with identical energy. Physics determines that *one* will become actual, with probabilities for each. But physics doesn't determine *which* one actualizes. Consciousness selects without energy injection—the conservation equations are satisfied for every possible outcome.
 
@@ -134,7 +134,7 @@ The phenomenal world is the one thing we know most directly. Physical theories a
 
 ### Response 4: Occam's Razor Has Limits
 
-This is the site's [[tenets#^occams-limits|fifth tenet]]. Parsimony is a methodological heuristic, not a metaphysical truth. It has repeatedly pointed away from truth in the history of science:
+This is the Map's [[tenets#^occams-limits|fifth tenet]]. Parsimony is a methodological heuristic, not a metaphysical truth. It has repeatedly pointed away from truth in the history of science:
 
 - Heliocentrism initially required more epicycles than geocentrism
 - Atomic theory posited invisible entities when continuous matter seemed simpler
@@ -173,7 +173,7 @@ These findings don't prove quantum consciousness but demonstrate that quantum ef
 
 Critically, decoherence does not solve the [[measurement-problem|measurement problem]]. Decoherence explains why interference effects wash out—why we don't see cats both alive and dead. But it doesn't explain why we see *definite* outcomes at all. After decoherence, quantum mechanics still describes the total system as a vast entangled superposition.
 
-If definite outcomes require something beyond decoherence—whether consciousness, objective collapse, or hidden variables—then the question of what selects outcomes remains open. Decoherence establishes preferred bases; it doesn't collapse them. the site's [[tenets#^no-many-worlds|No Many Worlds]] tenet holds that genuine selection occurs. Whatever does the selecting might be consciousness.
+If definite outcomes require something beyond decoherence—whether consciousness, objective collapse, or hidden variables—then the question of what selects outcomes remains open. Decoherence establishes preferred bases; it doesn't collapse them. the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet holds that genuine selection occurs. Whatever does the selecting might be consciousness.
 
 ### Response 4: Non-Computational Selection
 
@@ -199,7 +199,7 @@ William James (1890) first articulated this reasoning. The precise correlation b
 
 The argument has no force against interactionist dualism. Interactionism holds that consciousness causes physical effects—exactly what the evolutionary argument requires. The argument targets only those forms of dualism (epiphenomenalism, parallelism) that deny mental causation.
 
-The site can use this argument *offensively* against epiphenomenalism: if consciousness causes nothing, evolution can't explain the observed correlations. The precise tracking of phenomenal states with fitness-relevant behaviors would be an inexplicable coincidence.
+The Map can use this argument *offensively* against epiphenomenalism: if consciousness causes nothing, evolution can't explain the observed correlations. The precise tracking of phenomenal states with fitness-relevant behaviors would be an inexplicable coincidence.
 
 ### The Epiphenomenalist Response
 
@@ -236,7 +236,7 @@ Mental and physical descriptions may capture the same causal process at differen
 
 ### Response 3: Quantum Insufficiency
 
-The site's primary response: the exclusion argument assumes that physical properties provide *sufficient* causes. But at quantum indeterminacies, P is *not* sufficient for E—physics determines probabilities but not outcomes.
+The Map's primary response: the exclusion argument assumes that physical properties provide *sufficient* causes. But at quantum indeterminacies, P is *not* sufficient for E—physics determines probabilities but not outcomes.
 
 Where physics is genuinely incomplete, mental properties can fill the gap without exclusion. There is no sufficient physical cause to do the excluding. Mental causation operates where physical causation runs out.
 
@@ -246,7 +246,7 @@ This transforms the exclusion argument from a dilemma into a false premise: clos
 
 A parallel structure exists between the exclusion argument and the [[luck-objection|luck objection]] to libertarian free will. The exclusion argument asks: if physical causes are sufficient, what room is there for mental causation? The luck objection asks: if outcomes are indeterminate, how can they be *chosen* rather than random?
 
-The site's response to both: consciousness selects among undetermined possibilities. This is neither redundant (the possibilities are genuinely open) nor arbitrary (consciousness provides direction). The quantum Zeno mechanism offers a model: sustained attention stabilizes certain outcomes, biasing probabilities through repeated "observation" rather than energy injection.
+The Map's response to both: consciousness selects among undetermined possibilities. This is neither redundant (the possibilities are genuinely open) nor arbitrary (consciousness provides direction). The quantum Zeno mechanism offers a model: sustained attention stabilizes certain outcomes, biasing probabilities through repeated "observation" rather than energy injection.
 
 ## What Would Challenge This View?
 
@@ -254,7 +254,7 @@ Interactionism would face serious difficulty if:
 
 1. **Deterministic neural dynamics**: If all neural activity could be predicted from prior physical states with no residual indeterminacy, consciousness would have nowhere to act. Current neuroscience cannot achieve such prediction, but this reflects practical limits rather than principled indeterminacy.
 
-2. **MWI confirmation**: If the [[many-worlds|Many-Worlds interpretation]] were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. the site's No Many Worlds tenet would fail.
+2. **MWI confirmation**: If the [[many-worlds|Many-Worlds interpretation]] were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. the Map's No Many Worlds tenet would fail.
 
 3. **Conservation violations detected**: If mental causation required energy injection, and we observed systematic conservation violations in neural systems, the objection would stand. We observe no such violations—consistent with either epiphenomenalism or selection among equi-energetic outcomes.
 
@@ -273,9 +273,9 @@ These are empirical and interpretive questions, not settled by philosophical arg
 | Evolutionary argument | Epiphenomenalism | *Supports* interactionism—consciousness must cause to be selected | N/A (supports site) |
 | Exclusion argument | Mental causation | Physics is insufficient at quantum indeterminacies; no sufficient cause to exclude | Strong |
 
-## Relation to this site's Perspective
+## Relation to the Map's Perspective
 
-The objections to interactionism motivate rather than undermine the site's framework.
+The objections to interactionism motivate rather than undermine the Map's framework.
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet directly addresses the conservation and exclusion objections: consciousness acts where physics is incomplete, selecting among equi-energetic possibilities that physics leaves undetermined. No energy injection, no competition with sufficient physical causes.
 
@@ -295,13 +295,13 @@ These objections have been taken seriously throughout the history of philosophy.
 - [[mental-causation]] — The phenomenon the exclusion argument challenges
 - [[downward-causation]] — How higher-level properties influence lower-level processes
 - [[epiphenomenalism]] — The view the evolutionary argument targets
-- [[arguments-for-dualism]] — Positive arguments for the site's position
+- [[arguments-for-dualism]] — Positive arguments for the Map's position
 - [[quantum-consciousness]] — The mechanism for mind-matter interface
 - [[decoherence]] — The quantum biology challenge and evidence
 - [[interface-locality]] — Why consciousness can only select within its own brain
 - [[haecceity]] — Primitive "thisness" as pairing relation
 - [[luck-objection]] — Parallel challenge to libertarian free will
-- [[many-worlds]] — The interpretation whose rejection grounds the site's view
+- [[many-worlds]] — The interpretation whose rejection grounds the Map's view
 - [[emergence]] — Strong emergence with mechanism
 - [[objections-to-interactionist-dualism-2026-01-15]] — Research notes for this article
 

@@ -25,7 +25,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Missing explicit "Relation to Site Perspective" section**: The article had content serving this function dispersed throughout but lacked the required section header. Resolution: Added explicit section consolidating the site's position.
+- **Missing explicit "Relation to Site Perspective" section**: The article had content serving this function dispersed throughout but lacked the required section header. Resolution: Added explicit section consolidating The Unfinishable Map's position.
 
 ### Medium Issues Found
 - **Limited cross-linking to newer content**: The article predated `dualism.md` and `analytic-idealism.md` concept pages. Resolution: Added cross-links to both in frontmatter and body text.
@@ -34,7 +34,7 @@ topics: []
 
 ### Counterarguments Considered
 
-**Eliminative Materialist (Churchland)**: The article accepts the explanatory gap without addressing eliminativism's response that folk psychological concepts will be eliminated. *Assessment*: the site's framework explicitly rejects eliminativism via the Dualism tenet; extensive engagement here would dilute focus. The gap argument is presented as motivation, not proof.
+**Eliminative Materialist (Churchland)**: The article accepts the explanatory gap without addressing eliminativism's response that folk psychological concepts will be eliminated. *Assessment*: the Map's framework explicitly rejects eliminativism via the Dualism tenet; extensive engagement here would dilute focus. The gap argument is presented as motivation, not proof.
 
 **Quantum Skeptic (Tegmark)**: Quantum consciousness claims presented without decoherence caveats. *Assessment*: The tenets.md page addresses decoherence objections in detail; this article appropriately refers to quantum mechanisms without relitigating the full debate.
 
@@ -50,8 +50,8 @@ topics: []
 - The "Picture That Emerges" concluding summary effectively frames the choice
 
 ### Enhancements Made
-- Front-loaded the site's position in the opening paragraphs
-- Added explicit "Relation to Site Perspective" section consolidating the site's stance
+- Front-loaded the Map's position in the opening paragraphs
+- Added explicit "Relation to Site Perspective" section consolidating the Map's stance
 - Strengthened indexical identity argument with agent-causation link
 - Added reference to foundational dualism.md article in "Interaction Problem" section
 - Expanded Further Reading with all relevant concept pages

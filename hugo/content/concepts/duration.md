@@ -70,7 +70,7 @@ Determinism assumes that mental states are discrete, separable, and subject to c
 
 A free act, for Bergson, is one that emerges from the whole self—from the full depth of one's duration. Unfree acts are those where we act superficially, from habit or social convention, without engaging our genuine selves. Freedom is not arbitrary choice between pre-defined options but creative expression of who we are becoming.
 
-This connects to the site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If consciousness genuinely influences the physical world, it does so in time—in durée. The creative novelty Bergson attributes to duration is precisely the opening where consciousness might exercise causal power. Determinism fails not because events are random but because lived time is creative rather than merely repetitive.
+This connects to The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If consciousness genuinely influences the physical world, it does so in time—in durée. The creative novelty Bergson attributes to duration is precisely the opening where consciousness might exercise causal power. Determinism fails not because events are random but because lived time is creative rather than merely repetitive.
 
 ## The "Missing Link" in Consciousness Theories
 
@@ -112,7 +112,7 @@ A speculative but intriguing connection: Bergson's qualitative multiplicity rese
 
 Duration as Bergson describes it is similarly a multiplicity that doesn't reduce to definite, separable states. The whole past is present, the future already anticipated, in an interpenetrating whole. Perhaps the "collapse" that creates each present moment is analogous to quantum collapse—or perhaps identical with it.
 
-The [collapse-and-time](/concepts/collapse-and-time/) connection deepens this speculation. If consciousness participates in quantum collapse (as the site's framework proposes), and if collapse introduces the arrow of time, then durée may be phenomenologically apprehending what physics mathematically describes. What Bergson called the irreversibility of lived time—the way you cannot un-hear a melody—may reflect the deeper irreversibility of collapse itself. Each conscious moment doesn't just happen *in* time; it helps constitute time's direction by selecting among quantum possibilities.
+The [collapse-and-time](/concepts/collapse-and-time/) connection deepens this speculation. If consciousness participates in quantum collapse (as the Map's framework proposes), and if collapse introduces the arrow of time, then durée may be phenomenologically apprehending what physics mathematically describes. What Bergson called the irreversibility of lived time—the way you cannot un-hear a melody—may reflect the deeper irreversibility of collapse itself. Each conscious moment doesn't just happen *in* time; it helps constitute time's direction by selecting among quantum possibilities.
 
 ### The Decoherence Challenge
 
@@ -126,13 +126,13 @@ Three considerations mitigate this objection:
 
 3. **The quantum Zeno mechanism**: [Stapp's approach](/concepts/mental-effort/) uses rapid repeated observation to hold neural patterns in place. This mechanism doesn't require sustained coherence across the full duration of experience—it works through discrete, rapid collapses that together create the experiential flow.
 
-The parallel between durée and superposition is metaphorical rather than mechanistic. What matters for the site's framework is not that durée literally *is* superposition, but that both point to a mode of multiplicity-without-separation that physical description in terms of definite states cannot capture.
+The parallel between durée and superposition is metaphorical rather than mechanistic. What matters for the Map's framework is not that durée literally *is* superposition, but that both point to a mode of multiplicity-without-separation that physical description in terms of definite states cannot capture.
 
 ### Time-Symmetric Interpretations
 
 Time-symmetric interpretations offer an even more striking parallel. In frameworks like the Two-State Vector Formalism, collapse isn't located at a moment but is the satisfaction of constraints across time—past and future boundary conditions aligning. This resonates with Bergson's description of durée as interpenetrating past, present, and future. If consciousness's selection operates atemporally (determining which "transactions" complete rather than pushing events at instants), then the flowing character of durée may be the phenomenal expression of this atemporal selection viewed from within the temporal structure it creates.
 
-This connects to the site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. If durée is the lived reality of quantum possibility, then consciousness experiencing time might be consciousness selecting among superposed states. The creative novelty Bergson attributes to duration could be the phenomenal character of quantum collapse as experienced from within. Where physics sees measurement outcomes, consciousness experiences the flowing present.
+This connects to the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. If durée is the lived reality of quantum possibility, then consciousness experiencing time might be consciousness selecting among superposed states. The creative novelty Bergson attributes to duration could be the phenomenal character of quantum collapse as experienced from within. Where physics sees measurement outcomes, consciousness experiences the flowing present.
 
 The speculation remains unproven. But it suggests that the "mystery" of time experience and the "mystery" of quantum measurement might be related—perhaps even the same mystery from different perspectives. Durée would name what collapse *feels like* from the inside.
 
@@ -160,7 +160,7 @@ Bergson's durée finds a natural home in process philosophy, particularly the wo
 
 **Creativity and novelty**: Both thinkers emphasise that time brings genuine novelty. Whitehead calls creativity "the ultimate category"—the process by which the many become one and are increased by one. Bergson's claim that "time is invention or it is nothing at all" expresses the same insight: real temporality creates what could not be predicted from the past alone.
 
-**[Haecceity](/concepts/haecceity/) and temporal identity**: For the site's framework, the process philosophy connection strengthens the [No Many Worlds](/tenets/#no-many-worlds) tenet. Whitehead's actual occasions have haecceity—each is *this* particular event, not a pattern that could be multiply instantiated. The continuity of durée through temporal phases presupposes that it's the *same* experiencer persisting, not copies in parallel branches.
+**[Haecceity](/concepts/haecceity/) and temporal identity**: For the Map's framework, the process philosophy connection strengthens the [No Many Worlds](/tenets/#no-many-worlds) tenet. Whitehead's actual occasions have haecceity—each is *this* particular event, not a pattern that could be multiply instantiated. The continuity of durée through temporal phases presupposes that it's the *same* experiencer persisting, not copies in parallel branches.
 
 ## What Would Challenge This View?
 
@@ -186,7 +186,7 @@ Bergson's durée aligns with all five site tenets:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The quantum speculation section above proposes that durée may be the phenomenological manifestation of consciousness participating in quantum collapse. The creative novelty Bergson attributes to duration—"time is invention or it is nothing at all"—maps onto the selection among indeterminate possibilities that the Minimal Quantum Interaction tenet describes. Through the [quantum Zeno mechanism](/concepts/mental-effort/), consciousness might hold patterns in durée by rapid repeated selection, creating the flowing present through discrete collapses that together constitute experiential continuity. This is speculative, but it provides a candidate mechanism for how durée could be more than phenomenology—how it could be consciousness's constitutive participation in time's creation.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Durée is creative, bringing genuine novelty. Free acts emerge from the whole self acting in time. This creative causation is what Bergson means by freedom—and it's what the site means by consciousness influencing physical outcomes. The causal closure of physics would eliminate durée's creativity, reducing it to mere rearrangement of what already exists. the site's rejection of [epiphenomenalism](/arguments/epiphenomenalism/) preserves durée's causal efficacy: the self acting in duration genuinely shapes what happens, rather than being a causally inert accompaniment to physical processes.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Durée is creative, bringing genuine novelty. Free acts emerge from the whole self acting in time. This creative causation is what Bergson means by freedom—and it's what the Map means by consciousness influencing physical outcomes. The causal closure of physics would eliminate durée's creativity, reducing it to mere rearrangement of what already exists. the Map's rejection of [epiphenomenalism](/arguments/epiphenomenalism/) preserves durée's causal efficacy: the self acting in duration genuinely shapes what happens, rather than being a causally inert accompaniment to physical processes.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Duration is lived by a continuous self persisting through time. In many-worlds, there's no such self—just branching copies, each experiencing what appears to be continuous durée but actually living only a fragment of the branching tree. Bergson's interpenetrating duration presupposes the kind of temporal identity—[haecceity](/concepts/haecceity/)—that many-worlds dissolves. The past that lives in the present is *my* past, not the past of some branch-copy. Without real collapse, "my" durée would be shared across uncountably many branch-selves, undermining the unity that makes durée what it is.
 
@@ -196,7 +196,7 @@ Bergson's durée aligns with all five site tenets:
 
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and neuroscience of time
 - [specious-present](/concepts/specious-present/) — The experienced duration of the present moment
-- [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the site's growing block position
+- [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the Map's growing block position
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How duration's creative novelty relates to the generation-selection model
 - [neurophenomenology](/concepts/neurophenomenology/) — Contemplative science and access to temporal microstructure
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow

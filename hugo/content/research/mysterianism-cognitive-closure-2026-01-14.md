@@ -28,7 +28,7 @@ topics:
 
 ## Executive Summary
 
-Mysterianism (or "new mysterianism") is the philosophical position that the hard problem of consciousness cannot be solved by human minds, not because consciousness is supernatural but because our cognitive architecture is not equipped to grasp the solution. Colin McGinn's 1989 paper "Can We Solve the Mind-Body Problem?" formalized this view through the concept of "cognitive closure"—the idea that certain properties may be closed to particular cognitive systems, like calculus is closed to rats. Thomas Nagel's earlier "What Is It Like to Be a Bat?" (1974) anticipated this by arguing objective methods cannot capture subjective experience. The position occupies interesting middle ground: it takes consciousness seriously (unlike eliminativism) while remaining agnostic about solutions (unlike dualism or physicalism). This aligns with the site's Occam's Razor Has Limits tenet.
+Mysterianism (or "new mysterianism") is the philosophical position that the hard problem of consciousness cannot be solved by human minds, not because consciousness is supernatural but because our cognitive architecture is not equipped to grasp the solution. Colin McGinn's 1989 paper "Can We Solve the Mind-Body Problem?" formalized this view through the concept of "cognitive closure"—the idea that certain properties may be closed to particular cognitive systems, like calculus is closed to rats. Thomas Nagel's earlier "What Is It Like to Be a Bat?" (1974) anticipated this by arguing objective methods cannot capture subjective experience. The position occupies interesting middle ground: it takes consciousness seriously (unlike eliminativism) while remaining agnostic about solutions (unlike dualism or physicalism). This aligns with The Unfinishable Map's Occam's Razor Has Limits tenet.
 
 ## Key Sources
 
@@ -168,11 +168,11 @@ Mysterianism (or "new mysterianism") is the philosophical position that the hard
 
 Based on this research, an article could:
 
-1. **Present mysterianism as a respectable position that takes consciousness seriously** - Unlike eliminativism, mysterians don't deny phenomenal experience. the site could acknowledge mysterianism as an ally against crude physicalism while noting the site's own commitment to Bidirectional Interaction goes further (requiring consciousness to be causally efficacious, not just real).
+1. **Present mysterianism as a respectable position that takes consciousness seriously** - Unlike eliminativism, mysterians don't deny phenomenal experience. the Map could acknowledge mysterianism as an ally against crude physicalism while noting the Map's own commitment to Bidirectional Interaction goes further (requiring consciousness to be causally efficacious, not just real).
 
 2. **Use mysterianism to support Occam's Razor Has Limits** - McGinn's position exemplifies the tenet: our sense of what's "simple" or "solvable" may be cognitively bounded. What looks like physicalism's simplicity may just be our blindness to complexity. This is exactly what the tenet asserts.
 
-3. **Position the site's dualism as going beyond mysterianism** - Mysterianism is officially neutral; the site is not. the site bets that consciousness is irreducible (Dualism tenet) and causally efficacious (Bidirectional Interaction). Mysterianism is compatible with the site's view but doesn't commit to it.
+3. **Position the Map's dualism as going beyond mysterianism** - Mysterianism is officially neutral; the Map is not. the Map bets that consciousness is irreducible (Dualism tenet) and causally efficacious (Bidirectional Interaction). Mysterianism is compatible with the Map's view but doesn't commit to it.
 
 When writing the article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references
@@ -185,13 +185,13 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Owen Flanagan's specific arguments against applying limitative theorems
 - Daniel Stoljar's "ignorance hypothesis" and its relation to mysterianism
 - Recent empirical work on cognitive limits and metacognition
-- Connection to the site's "voids" framework (consciousness as partially void territory)
+- Connection to the Map's "voids" framework (consciousness as partially void territory)
 
 ## Tenet Analysis
 
 **Dualism**: Neutral but compatible. Mysterians don't commit to dualism, but their acknowledgment that consciousness is real and problematic aligns with the tenet's rejection of eliminativism. McGinn accepts there's something to explain—just claims we can't explain it.
 
-**Bidirectional Interaction**: Neutral. Mysterianism doesn't address causal efficacy. the site's commitment to consciousness influencing the physical world goes beyond what mysterianism claims.
+**Bidirectional Interaction**: Neutral. Mysterianism doesn't address causal efficacy. the Map's commitment to consciousness influencing the physical world goes beyond what mysterianism claims.
 
 **Minimal Quantum Interaction**: Neutral. Mysterianism makes no claims about mechanisms.
 
@@ -201,7 +201,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 ## Connection to Voids Framework
 
-The site's "voids" concept (cognitive gaps, unchartable territories) resonates with mysterianism. McGinn's property "P" might be void territory—something that exists but lies beyond our conceptual reach. The difference: the site's voids framework suggests we can map the *edges* of void territory (apophatic approaches), while mysterianism suggests we can't even identify what we're missing.
+The Map's "voids" concept (cognitive gaps, unchartable territories) resonates with mysterianism. McGinn's property "P" might be void territory—something that exists but lies beyond our conceptual reach. The difference: the Map's voids framework suggests we can map the *edges* of void territory (apophatic approaches), while mysterianism suggests we can't even identify what we're missing.
 
 ## Citations
 

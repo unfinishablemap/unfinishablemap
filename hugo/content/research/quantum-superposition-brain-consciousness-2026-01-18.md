@@ -27,7 +27,7 @@ title: Research Notes - Quantum Superposition in the Brain
 
 ## Executive Summary
 
-This research examines whether and how quantum superposition could persist in neural systems long enough for consciousness to select among outcomes, directly supporting the site's Minimal Quantum Interaction tenet. Recent experimental evidence (2024-2025) has significantly strengthened the case for biologically relevant quantum effects: superradiance confirmed in tryptophan networks at room temperature, microtubule-stabilizing drugs delaying anesthetic-induced unconsciousness, and revised decoherence estimates extending coherence times by seven orders of magnitude beyond Tegmark's original calculations. Three main protective mechanisms are proposed: hydrophobic microtubule interiors, metabolic energy pumping (Fröhlich coherence), and nuclear spin isolation (Fisher's Posner molecules). The debate has shifted from "whether" to "how"—from categorical dismissal to empirical investigation.
+This research examines whether and how quantum superposition could persist in neural systems long enough for consciousness to select among outcomes, directly supporting The Unfinishable Map's Minimal Quantum Interaction tenet. Recent experimental evidence (2024-2025) has significantly strengthened the case for biologically relevant quantum effects: superradiance confirmed in tryptophan networks at room temperature, microtubule-stabilizing drugs delaying anesthetic-induced unconsciousness, and revised decoherence estimates extending coherence times by seven orders of magnitude beyond Tegmark's original calculations. Three main protective mechanisms are proposed: hydrophobic microtubule interiors, metabolic energy pumping (Fröhlich coherence), and nuclear spin isolation (Fisher's Posner molecules). The debate has shifted from "whether" to "how"—from categorical dismissal to empirical investigation.
 
 ## Key Sources
 
@@ -203,9 +203,9 @@ This research examines whether and how quantum superposition could persist in ne
 
 Based on this research, an article could:
 
-1. **"Protective Mechanisms for Neural Quantum Coherence"** - Focus on the four main protection mechanisms (hydrophobic interior, Fröhlich pumping, nuclear spin isolation, ordered water) and their empirical status. Would strengthen the site's response to decoherence objections with specific mechanistic details. Aligns with Occam's Razor Has Limits tenet.
+1. **"Protective Mechanisms for Neural Quantum Coherence"** - Focus on the four main protection mechanisms (hydrophobic interior, Fröhlich pumping, nuclear spin isolation, ordered water) and their empirical status. Would strengthen the Map's response to decoherence objections with specific mechanistic details. Aligns with Occam's Razor Has Limits tenet.
 
-2. **"Fisher's Quantum Cognition Hypothesis"** - Dedicated coverage of the Posner molecule approach as an alternative to Orch OR. Different mechanism (nuclear vs electronic), different timescales (hours vs microseconds), different testable predictions. Would broaden the site's coverage beyond Penrose-Hameroff.
+2. **"Fisher's Quantum Cognition Hypothesis"** - Dedicated coverage of the Posner molecule approach as an alternative to Orch OR. Different mechanism (nuclear vs electronic), different timescales (hours vs microseconds), different testable predictions. Would broaden the Map's coverage beyond Penrose-Hameroff.
 
 3. **"The Anesthesia-Consciousness Connection"** - Focus on how anesthetics affect quantum processes in microtubules, the epothilone B study, and what this reveals about consciousness mechanisms. Directly supports Bidirectional Interaction.
 

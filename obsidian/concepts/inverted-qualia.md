@@ -188,7 +188,7 @@ This connects to [[haecceity]]—the "thisness" of individual experience. Your e
 
 ## What Would Challenge This View?
 
-The inverted qualia argument—and this site's reliance on it—would face serious difficulty if:
+The inverted qualia argument—and The Unfinishable Map's reliance on it—would face serious difficulty if:
 
 1. **Functional role necessarily determines qualitative character.** If careful analysis showed that the complete causal role of a state—including all dispositional properties, not just behavioral outputs—logically entailed its qualitative character, then inverted qualia would be inconceivable. This would require showing that any apparent coherent conception of inversion smuggles in functional differences.
 
@@ -204,11 +204,11 @@ None of these conditions are currently met. Functional role continues to seem di
 
 ## Relation to Site Perspective
 
-The inverted qualia argument provides crucial support for multiple [[tenets|foundational commitments]] of this site.
+The inverted qualia argument provides crucial support for multiple [[tenets|foundational commitments]] of the Map.
 
 ### Dualism
 
-The inverted qualia argument directly supports the site's commitment to [[tenets#^dualism|dualism]]. If functionally identical beings can differ in phenomenal character, then phenomenal properties aren't constituted by physical-functional facts. Something beyond physics determines qualia.
+The inverted qualia argument directly supports the Map's commitment to [[tenets#^dualism|dualism]]. If functionally identical beings can differ in phenomenal character, then phenomenal properties aren't constituted by physical-functional facts. Something beyond physics determines qualia.
 
 This connects to the core [[explanatory-gap]] argument: physics describes structure and relations, but the redness of red is not a structure or relation—it's a quality. The inverted qualia scenario dramatizes this gap. We can fully specify Invert and Nonvert's functional organization without determining which experiences which color. The specification leaves the qualitative facts open.
 
@@ -216,7 +216,7 @@ This connects to the core [[explanatory-gap]] argument: physics describes struct
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet raises an interesting question: if qualia can vary independently of function, do they causally differ? If my "red" and your "green" produce exactly the same behavior, do qualia make any difference?
 
-This site's answer is yes—but the effects may be subtle, showing up in aesthetic preferences, emotional valences, or [[introspection|introspective]] reports that resist precise behavioral matching. More fundamentally, if consciousness participates in quantum selection (as the Minimal Quantum Interaction tenet proposes), different qualia might influence selection differently even when the observable behavioral outputs converge. The point where physics leaves outcomes undetermined is also the point where qualitative differences could matter causally.
+The Map's answer is yes—but the effects may be subtle, showing up in aesthetic preferences, emotional valences, or [[introspection|introspective]] reports that resist precise behavioral matching. More fundamentally, if consciousness participates in quantum selection (as the Minimal Quantum Interaction tenet proposes), different qualia might influence selection differently even when the observable behavioral outputs converge. The point where physics leaves outcomes undetermined is also the point where qualitative differences could matter causally.
 
 The epiphenomenalist alternative—that qualia differ without differing causally—faces the self-stultification objection. If my "phenomenal red" never affected any neuron, how did neurons come to produce accurate reports about phenomenal redness? The fact that we discuss inverted qualia at all suggests qualia have causal efficacy. See [[epiphenomenalism]] for the full treatment.
 
@@ -232,7 +232,7 @@ The [[decoherence]] objection—that quantum effects are too brief for conscious
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects to inverted qualia through [[haecceity]]. If all quantum outcomes occur (as MWI holds), then in some branch Invert experiences phenomenal red and in another phenomenal green—and both branches are equally real. The question "what does Invert *actually* experience?" becomes unanswerable or meaningless.
 
-This site holds that the question is meaningful. There is a fact about what Invert experiences, not just what Invert experiences in this or that branch. Inverted qualia scenarios presuppose this: we're asking whether Invert's experience differs from Nonvert's, not whether some branch of Invert differs from some branch of Nonvert. The conceivability of the scenario supports real collapse and genuine indexical facts about experience.
+The Map holds that the question is meaningful. There is a fact about what Invert experiences, not just what Invert experiences in this or that branch. Inverted qualia scenarios presuppose this: we're asking whether Invert's experience differs from Nonvert's, not whether some branch of Invert differs from some branch of Nonvert. The conceivability of the scenario supports real collapse and genuine indexical facts about experience.
 
 ### Occam's Razor Has Limits
 

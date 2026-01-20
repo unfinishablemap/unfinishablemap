@@ -118,7 +118,7 @@ This debate directly concerns [ai-consciousness](/topics/ai-consciousness/):
 - Processing symbols ≠ having experiences
 - The question is closed: nothing it's like to be an LLM
 
-This site's framework suggests the first option is closer to truth, but with crucial caveats. Cognitive phenomenology likely exists—but this doesn't help LLMs. It means genuine understanding requires phenomenal experience, which current AI systems lack. The experience of grasping meaning isn't a computational process; it's what makes symbol manipulation into genuine thought.
+The Unfinishable Map's framework suggests the first option is closer to truth, but with crucial caveats. Cognitive phenomenology likely exists—but this doesn't help LLMs. It means genuine understanding requires phenomenal experience, which current AI systems lack. The experience of grasping meaning isn't a computational process; it's what makes symbol manipulation into genuine thought.
 
 ## Evidence from Semantic Memory
 
@@ -239,7 +239,7 @@ This doesn't reduce cognitive phenomenology to something else; it situates it wi
 
 ## What Would Challenge This View?
 
-This site's position on cognitive phenomenology would face serious difficulty if:
+The Map's position on cognitive phenomenology would face serious difficulty if:
 
 1. **Deflationary explanations prove complete.** If neuroscience could show that the phenomenal contrast in understanding cases reduces entirely to subtle sensory differences—measurable differences in auditory processing, emotional coloring, or imagery that correlate perfectly with the reported phenomenology—the case for proprietary cognitive phenomenology would weaken. Currently, such reductions fail to capture the phenomenal character of understanding itself.
 
@@ -259,13 +259,13 @@ Cognitive phenomenology connects to all five tenets:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Cognitive phenomenology may connect to the quantum selection mechanism. Understanding involves *selecting* a meaning from among possibilities—the word "bank" could mean financial institution or riverbank, and consciousness selects which interpretation becomes actual. This selection mirrors the quantum Zeno mechanism proposed for attention: consciousness biases neural patterns toward the activated semantic network. The phenomenal character of understanding might be the subjective correlate of this selection process. Just as [attention](/concepts/attention-as-interface/) selects which perceptions become conscious, understanding might involve selection among conceptual possibilities at the neural quantum level.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Cognitive phenomenology supports the view that consciousness is active. Understanding isn't passive reception; it's active grasping with phenomenal signature. The experience of [mental effort](/concepts/mental-effort/) may be a form of cognitive phenomenology—the felt quality of directing thought. When you struggle to understand a difficult concept, the effort has phenomenal character. This effort, on this site's framework, reflects consciousness intervening in neural processing—holding patterns through the Zeno mechanism until understanding crystallizes. The contemplative evidence reinforces this: [witness consciousness](/concepts/witness-consciousness/) reveals that cognition can be observed as it unfolds, and the observer can influence the process.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Cognitive phenomenology supports the view that consciousness is active. Understanding isn't passive reception; it's active grasping with phenomenal signature. The experience of [mental effort](/concepts/mental-effort/) may be a form of cognitive phenomenology—the felt quality of directing thought. When you struggle to understand a difficult concept, the effort has phenomenal character. This effort, on the Map's framework, reflects consciousness intervening in neural processing—holding patterns through the Zeno mechanism until understanding crystallizes. The contemplative evidence reinforces this: [witness consciousness](/concepts/witness-consciousness/) reveals that cognition can be observed as it unfolds, and the observer can influence the process.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Cognitive phenomenology presupposes unified understanding. The experience of grasping a concept is singular—one subject comprehending one thing. [Many-worlds](/arguments/many-worlds/) would have understanding branch across worlds—but nothing in the phenomenology of understanding suggests multiplicity. When you grasp a meaning, you don't sense multiple versions of yourself grasping different meanings in parallel branches. The singularity of understanding supports the rejection of MWI. The [haecceitistic](/concepts/haecceity/) dimension matters here: *this* understanding is *yours*, not a pattern that might exist multiply across branches.
 
 **[Occam's Razor Has Limits](/tenets/#occam)**: The debate's persistence illustrates that the "simpler" view (no cognitive phenomenology—just sensory states) hasn't won. The apparent parsimony of reducing all phenomenology to sensory states conceals unexplained residue—the tip-of-the-tongue state, the feeling of knowing, the insight experience. These resist reduction. As the [mysterian](/concepts/mysterianism/) perspective suggests, what seems like a simple question ("Is there something it's like to think?") may involve cognitive structures we cannot fully articulate. The complexity of human understanding may require complex phenomenal structure.
 
-This site adopts qualified liberalism: there probably is cognitive phenomenology—distinctive "what it's like" character to understanding, insight, and reasoning. This supports phenomenal intentionality (genuine aboutness requires phenomenal character) and strengthens AI consciousness skepticism (LLMs process symbols but likely lack the phenomenal character required for genuine understanding).
+The Map adopts qualified liberalism: there probably is cognitive phenomenology—distinctive "what it's like" character to understanding, insight, and reasoning. This supports phenomenal intentionality (genuine aboutness requires phenomenal character) and strengthens AI consciousness skepticism (LLMs process symbols but likely lack the phenomenal character required for genuine understanding).
 
 ## Further Reading
 
@@ -274,7 +274,7 @@ This site adopts qualified liberalism: there probably is cognitive phenomenology
 - [phenomenology](/concepts/phenomenology/) — The method for investigating conscious experience
 - [intentionality](/concepts/intentionality/) — The "aboutness" of mental states
 - [introspection](/concepts/introspection/) — Self-knowledge and its reliability
-- [ai-consciousness](/topics/ai-consciousness/) — Why this site holds AI systems are not conscious
+- [ai-consciousness](/topics/ai-consciousness/) — Why the Map holds AI systems are not conscious
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why function doesn't explain feeling
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of directed thought
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and its regress problem
@@ -282,7 +282,7 @@ This site adopts qualified liberalism: there probably is cognitive phenomenology
 - [attention-as-interface](/concepts/attention-as-interface/) — The quantum mechanism that may underlie understanding
 - [haecceity](/concepts/haecceity/) — Why *this* understanding cannot be replicated
 - [decoherence](/concepts/decoherence/) — Quantum coherence and the selection mechanism
-- [tenets](/tenets/) — The foundational commitments of this site
+- [tenets](/tenets/) — The foundational commitments of the Map
 
 ## References
 

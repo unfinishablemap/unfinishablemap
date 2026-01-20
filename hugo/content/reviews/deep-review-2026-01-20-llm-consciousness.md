@@ -30,7 +30,7 @@ topics: []
 ### Medium Issues Found
 - **Missing "What Would Challenge This View?" section**: Standard for deep-reviewed articles, required for falsifiability. → **Resolved**: Added section with 5 falsifiability conditions.
 - **Missing Process Philosophy Perspective**: Other recently reviewed articles include this framework. → **Resolved**: Added "Process Philosophy Perspective" section with subsections on actual occasions and four reasons LLMs are excluded.
-- **Incomplete tenet coverage**: Original "the site's Position" section covered only 3 of 5 tenets. → **Resolved**: Renamed to "Relation to Site Perspective" and expanded to cover all 5 tenets (Dualism, Minimal Quantum Interaction, Bidirectional Interaction, No Many Worlds, Occam's Razor Has Limits).
+- **Incomplete tenet coverage**: Original "The Unfinishable Map's Position" section covered only 3 of 5 tenets. → **Resolved**: Renamed to "Relation to Site Perspective" and expanded to cover all 5 tenets (Dualism, Minimal Quantum Interaction, Bidirectional Interaction, No Many Worlds, Occam's Razor Has Limits).
 - **Hoel citation date**: Listed as 2026 but arXiv number 2512.12802 suggests December 2025. → **Resolved**: Corrected to 2025.
 
 ### Low Issues Found

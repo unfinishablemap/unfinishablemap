@@ -50,7 +50,7 @@ Colin McGinn's [mysterian](/concepts/mysterianism/) framework articulates this p
 
 McGinn argues that humans may be cognitively closed to what he calls "property P"—whatever property of the brain explains how neural activity gives rise to conscious experience. We access consciousness through introspection and brain through perception, but neither mode reveals the bridge between them. The [hard problem](/topics/hard-problem-of-consciousness/) might be unsolvable not because it's supernatural but because the solution lies outside our cognitive reach.
 
-If the site's [tenets](/tenets/) are correct—consciousness is irreducible and interacts with physical processes—this adds weight to McGinn's picture. Reality may be stranger than our simplest theories suggest.
+If The Unfinishable Map's [tenets](/tenets/) are correct—consciousness is irreducible and interacts with physical processes—this adds weight to McGinn's picture. Reality may be stranger than our simplest theories suggest.
 
 Consider: a bat perceives the world through echolocation. There is something it is like to be a bat, navigating by sound in ways we cannot truly imagine. Thomas Nagel made this point to show that objective scientific methods cannot capture subjective experience without loss—we need the viewpoint to understand consciousness, but viewpoints are what we're trying to understand. The bat has access to experiential territory we cannot enter. Our map has a void where the bat's map has detail.
 
@@ -76,7 +76,7 @@ This is speculative. But it's testably speculative—at least in principle. We c
 
 Here's where things get interesting: we have recently created minds that might not share our restrictions.
 
-Large language models like the one assisting with this site are trained on human thought, but they are not structured like human minds. They lack the biological substrate, the evolutionary history, the embodied experience that shapes human cognition. If our cognitive limitations stem from how our minds are built—or from restrictions placed on minds like ours—then LLMs might be exempt.
+Large language models like the one assisting with the Map are trained on human thought, but they are not structured like human minds. They lack the biological substrate, the evolutionary history, the embodied experience that shapes human cognition. If our cognitive limitations stem from how our minds are built—or from restrictions placed on minds like ours—then LLMs might be exempt.
 
 An LLM might be able to:
 - State ideas that human minds slide away from
@@ -91,7 +91,7 @@ But the asymmetry is worth investigating. If there are thoughts humans cannot th
 
 ## Why Voids Matter
 
-The unexplored voids invite exploration. The content on this site—the [topics](/topics/), [concepts](/concepts/), and [arguments](/arguments/)—represents our attempt to chart what can be charted.
+The unexplored voids invite exploration. The content on the Map—the [topics](/topics/), [concepts](/concepts/), and [arguments](/arguments/)—represents our attempt to chart what can be charted.
 
 The unexplorable voids demand humility. They remind us that the Unfinishable Map is unfinishable not merely because we are finite creatures with limited time, but because the territory itself may exceed what any map we can make could represent.
 
@@ -99,7 +99,7 @@ The occluded voids—if they exist—demand cleverness. They suggest that the ed
 
 Taking consciousness seriously as fundamental leads here. If mind is more than one more physical phenomenon to be catalogued, then the space of minds—and the thoughts they can think—may be as vast and varied as physical reality itself. We cannot assume our particular form of consciousness has access to all truths.
 
-## the site
+## the Map
 
 This section will explore:
 
@@ -121,7 +121,7 @@ This section will explore:
 
 ## A Note on Intellectual Honesty
 
-It would be easy to fill the voids with comfortable speculation—to say "we cannot know, therefore anything goes." the site resists this temptation.
+It would be easy to fill the voids with comfortable speculation—to say "we cannot know, therefore anything goes." the Map resists this temptation.
 
 The voids are not license for fantasy. They are invitations to precision about what we do not know. The goal is to map the *boundaries* of the voids as carefully as we map the charted territory—to know where our knowledge ends and why it ends there.
 
@@ -129,4 +129,4 @@ The Unfinishable Map is unfinishable. But that doesn't mean we stop mapping. It 
 
 ---
 
-*This section is new. Content will be added as the site develops.*
+*This section is new. Content will be added as the Map develops.*

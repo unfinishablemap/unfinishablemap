@@ -28,7 +28,7 @@ last_curated: null
 last_deep_review: 2026-01-19T13:30:00+00:00
 ---
 
-Reductionism is the philosophical thesis that complex phenomena can be explained by—and ultimately reduced to—their simpler constituents. Three types must be distinguished: ontological (claims about what exists), methodological (scientific strategy), and epistemic (claims about understanding). the site accepts methodological reductionism as a powerful scientific tool while rejecting ontological and explanatory reductionism about consciousness. The [[explanatory-gap|explanatory gap]], the [[hard-problem-of-consciousness|hard problem]], and [[#Multiple Realizability|multiple realizability]] (explained below) converge on a single conclusion: consciousness cannot be reduced to physical processes.
+Reductionism is the philosophical thesis that complex phenomena can be explained by—and ultimately reduced to—their simpler constituents. Three types must be distinguished: ontological (claims about what exists), methodological (scientific strategy), and epistemic (claims about understanding). The Unfinishable Map accepts methodological reductionism as a powerful scientific tool while rejecting ontological and explanatory reductionism about consciousness. The [[explanatory-gap|explanatory gap]], the [[hard-problem-of-consciousness|hard problem]], and [[#Multiple Realizability|multiple realizability]] (explained below) converge on a single conclusion: consciousness cannot be reduced to physical processes.
 
 ## Three Types of Reductionism
 
@@ -42,7 +42,7 @@ This is the metaphysical core of [[materialism]]. If ontological reductionism ab
 
 The scientific strategy of explaining wholes by studying parts. Biologists investigate cells; chemists investigate molecules; physicists investigate particles. This approach has been spectacularly successful.
 
-Methodological reductionism makes no ontological commitment. One can study consciousness through neuroscience without claiming consciousness *is* neurons. the site accepts this—neuroscience illuminates the [[neural-correlates-of-consciousness|neural correlates of consciousness]] even if it cannot explain consciousness itself.
+Methodological reductionism makes no ontological commitment. One can study consciousness through neuroscience without claiming consciousness *is* neurons. the Map accepts this—neuroscience illuminates the [[neural-correlates-of-consciousness|neural correlates of consciousness]] even if it cannot explain consciousness itself.
 
 ### Epistemic (Explanatory) Reductionism
 
@@ -60,7 +60,7 @@ Joseph Levine (1983) identified the conceptual chasm between physical descriptio
 
 Compare: "Water is H2O" satisfies because we can see why H2O has water's properties. We can derive fluidity, freezing point, and solvent properties from molecular structure. But we cannot derive the hurtfulness of pain from any amount of C-fiber information. The explanatory gap persists even assuming the identity is true.
 
-Levine himself considered the gap merely epistemic—a limitation of our understanding rather than a feature of reality. David Chalmers extended the argument: the gap reveals that phenomenal properties are not entailed by physical facts. If complete physical knowledge doesn't explain why there is experience, consciousness isn't physical. the site sides with Chalmers—the explanatory gap marks an ontological boundary, not merely a cognitive limitation.
+Levine himself considered the gap merely epistemic—a limitation of our understanding rather than a feature of reality. David Chalmers extended the argument: the gap reveals that phenomenal properties are not entailed by physical facts. If complete physical knowledge doesn't explain why there is experience, consciousness isn't physical. the Map sides with Chalmers—the explanatory gap marks an ontological boundary, not merely a cognitive limitation.
 
 The [[minimal-consciousness|minimal consciousness]] literature starkly illustrates this gap. *C. elegans*—the 302-neuron nematode—has a completely mapped connectome: every neuron, every synapse, every gap junction documented. Yet we cannot determine whether it experiences anything. Complete structural knowledge fails to bridge the gap to phenomenal facts. If reduction worked, complete physical description would settle the question; it doesn't.
 
@@ -91,7 +91,7 @@ Kim's exclusion argument presents the central dilemma for non-reductive views:
 
 If consciousness has causal powers but physics is closed, either consciousness reduces to physics or consciousness is epiphenomenal—causally inert.
 
-Kim's argument assumes the [[causal-closure|causal closure]] of physics. the site denies this—not everywhere, but at [[quantum-consciousness|quantum indeterminacies]] where physics provides no determinate outcome. Consciousness operates where physics is genuinely incomplete, biasing outcomes without injecting energy or violating conservation.
+Kim's argument assumes the [[causal-closure|causal closure]] of physics. the Map denies this—not everywhere, but at [[quantum-consciousness|quantum indeterminacies]] where physics provides no determinate outcome. Consciousness operates where physics is genuinely incomplete, biasing outcomes without injecting energy or violating conservation.
 
 This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. Mental causation doesn't compete with physical causation because at quantum decision points, physics provides no cause to compete with. The exclusion argument fails because its first premise fails at the interface where consciousness acts.
 
@@ -101,21 +101,21 @@ Daniel Dennett distinguishes legitimate from "greedy" reductionism. Legitimate r
 
 Even Dennett—a committed physicalist—acknowledges reductionism can overreach. Explanatory levels have their uses. Biology isn't dispensable just because organisms are made of atoms.
 
-Dennett's own view, however, is that consciousness *can* be explained functionally through his "heterophenomenology"—treating first-person reports as data without granting them special epistemic authority. On his account, the hard problem dissolves once we abandon the intuition that qualia are something over and above functional states. the site disagrees: the hard problem survives functional analysis because no arrangement of functions explains why there is something it is like to occupy those functional states.
+Dennett's own view, however, is that consciousness *can* be explained functionally through his "heterophenomenology"—treating first-person reports as data without granting them special epistemic authority. On his account, the hard problem dissolves once we abandon the intuition that qualia are something over and above functional states. the Map disagrees: the hard problem survives functional analysis because no arrangement of functions explains why there is something it is like to occupy those functional states.
 
-But the site goes further than Dennett allows. Consciousness isn't just practically irreducible (requiring intermediate-level explanation) but ontologically irreducible. The [[emergence|strong emergence]] of consciousness means phenomenal properties are genuinely novel—not deducible even in principle from complete physical knowledge.
+But the Map goes further than Dennett allows. Consciousness isn't just practically irreducible (requiring intermediate-level explanation) but ontologically irreducible. The [[emergence|strong emergence]] of consciousness means phenomenal properties are genuinely novel—not deducible even in principle from complete physical knowledge.
 
 ## Relation to Site Perspective
 
 The [[tenets#^dualism|Dualism tenet]] asserts that consciousness is not reducible to physical processes. The arguments above—explanatory gap, hard problem, multiple realizability—converge on this conclusion from different directions.
 
-The site accepts *methodological* reductionism: studying neural correlates illuminates the brain-consciousness interface. But ontological and explanatory reductionism fail. No physical theory, however complete, will explain why there is something it is like.
+The Map accepts *methodological* reductionism: studying neural correlates illuminates the brain-consciousness interface. But ontological and explanatory reductionism fail. No physical theory, however complete, will explain why there is something it is like.
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet goes further: consciousness isn't merely irreducible but causally efficacious. Kim's exclusion argument doesn't apply because the [[causal-closure]] of physics fails at quantum indeterminacies—precisely where consciousness operates.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the standard reductionist response: that parsimony favors physicalism. Simplicity is not a reliable guide when knowledge is incomplete. The apparent simplicity of reductionism may reflect ignorance rather than insight.
 
-The [[mysterianism|mysterian]] position offers complementary support: if human cognitive architecture has fundamental limits, our inability to see how consciousness reduces to physics may reflect those limits rather than a gap we'll eventually close. Colin McGinn's cognitive closure thesis suggests we may be constitutionally incapable of solving the mind-body problem—not because the problem is insoluble but because our conceptual apparatus lacks the requisite structure. This resonates with the site's view: the explanatory gap persists because consciousness genuinely differs from physical processes, not because we haven't yet found the right physical theory.
+The [[mysterianism|mysterian]] position offers complementary support: if human cognitive architecture has fundamental limits, our inability to see how consciousness reduces to physics may reflect those limits rather than a gap we'll eventually close. Colin McGinn's cognitive closure thesis suggests we may be constitutionally incapable of solving the mind-body problem—not because the problem is insoluble but because our conceptual apparatus lacks the requisite structure. This resonates with the Map's view: the explanatory gap persists because consciousness genuinely differs from physical processes, not because we haven't yet found the right physical theory.
 
 Process philosophy provides another angle. The [[buddhism-and-dualism|Buddhist analysis]] of dependent origination questions rigid categories like "consciousness" and "physical"—reality may be more fluid than substance-thinking allows. But this doesn't vindicate reductionism; it challenges the framework within which reduction is posed. If both consciousness and matter are abstractions from a more fundamental process, reduction of one to the other misconceives both.
 
@@ -125,8 +125,8 @@ Process philosophy provides another angle. The [[buddhism-and-dualism|Buddhist a
 - [[emergence]] — The philosophical framework for non-reductive properties
 - [[explanatory-gap]] — Why physical explanations leave consciousness unexplained
 - [[materialism]] — The view that reductionism about consciousness underwrites
-- [[downward-causation]] — What reduction denies and the site affirms
-- [[causal-closure]] — The principle reductionists assume and the site denies at quantum level
+- [[downward-causation]] — What reduction denies and the Map affirms
+- [[causal-closure]] — The principle reductionists assume and the Map denies at quantum level
 - [[mysterianism]] — Cognitive closure and why the hard problem may resist solution
 - [[buddhism-and-dualism]] — Process philosophy and the limits of substance-thinking
 

@@ -76,7 +76,7 @@ How do we use these methods practically? The apophatic traditions suggest severa
 
 **Coincidence of opposites.** Cusanus held that at the infinite level, contradictions collapse. Where our logic produces paradoxes—free will versus determinism, mind versus matter, self versus world—we may be glimpsing the edges of a void where our finite categories break down.
 
-**Symbolic mediation.** Some truths can be pointed to even if not described. Metaphor, analogy, mathematical structure, even art can gesture toward what exceeds propositional articulation. the site's project of using AI as a [probe for occluded territory](/voids/#alien-minds-as-void-explorers) is itself a form of symbolic mediation—using a different type of mind to triangulate what we cannot see directly.
+**Symbolic mediation.** Some truths can be pointed to even if not described. Metaphor, analogy, mathematical structure, even art can gesture toward what exceeds propositional articulation. The Unfinishable Map's project of using AI as a [probe for occluded territory](/voids/#alien-minds-as-void-explorers) is itself a form of symbolic mediation—using a different type of mind to triangulate what we cannot see directly.
 
 ## AI and the Limits of Language
 
@@ -130,7 +130,7 @@ The apophatic approach to consciousness would be undermined if:
 
 ## Relation to Site Perspective
 
-The apophatic traditions connect to all five of the site's [tenets](/tenets/), though the connections vary in nature:
+The apophatic traditions connect to all five of the Map's [tenets](/tenets/), though the connections vary in nature:
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is most directly supported. Cusanus explicitly challenges "the modern self-assertion that has made human reason the measure of reality." If our conceptual apparatus is limited—by evolution, by embodiment, by the architecture of minds like ours—then we cannot assume that the simplest explanation we can form is the true one. Reality may be structured in ways our simplest theories cannot capture. The apophatic insight that simplicity is a feature of our concepts, not necessarily of reality, provides the philosophical foundation for epistemic humility about parsimony.
 

@@ -38,7 +38,7 @@ topics:
 
 Materialism (or physicalism) holds that everything that exists is physical—including consciousness. On this view, your experience of seeing red is not something *in addition to* brain activity; it *is* brain activity, or emerges from it, or will one day be explained entirely in physical terms. Materialism has dominated academic philosophy of mind for decades, promising ontological simplicity and alignment with natural science.
 
-This site's [tenets](/tenets/) reject materialism. The [Dualism](/tenets/#dualism) tenet holds that consciousness is not reducible to physical processes. Understanding materialism's appeal—and its failure when applied to consciousness—clarifies what the site affirms and why.
+The Unfinishable Map's [tenets](/tenets/) reject materialism. The [Dualism](/tenets/#dualism) tenet holds that consciousness is not reducible to physical processes. Understanding materialism's appeal—and its failure when applied to consciousness—clarifies what the Map affirms and why.
 
 ## Varieties of Materialism
 
@@ -91,7 +91,7 @@ Materialism's strongest support comes from the apparent causal closure of physic
 
 This argument underwrites the materialist consensus. If physics is complete—if you don't need to invoke non-physical causes to explain physical effects—then consciousness must be physical or causally irrelevant.
 
-The site's response targets premise 1. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that physics is *not* complete at quantum indeterminacies. Consciousness can influence outcomes that physics leaves undetermined without violating physical law. Causal closure is true for determined events but false for indeterminate ones.
+The Map's response targets premise 1. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that physics is *not* complete at quantum indeterminacies. Consciousness can influence outcomes that physics leaves undetermined without violating physical law. Causal closure is true for determined events but false for indeterminate ones.
 
 ## Why Materialism Fails
 
@@ -141,7 +141,7 @@ Problem: past scientific progress explained phenomena by showing *how* they foll
 
 Dualism doesn't explain consciousness either—it just posits a soul or mental substance and leaves the hard problem equally unsolved. If materialism is stuck with mystery, so is everyone else.
 
-Problem: the site doesn't claim to *explain* consciousness. The [Dualism](/tenets/#dualism) tenet holds that consciousness is fundamental, not derived from anything else. Materialism claims consciousness derives from the physical—and must explain how. Dualism makes no such claim.
+Problem: the Map doesn't claim to *explain* consciousness. The [Dualism](/tenets/#dualism) tenet holds that consciousness is fundamental, not derived from anything else. Materialism claims consciousness derives from the physical—and must explain how. Dualism makes no such claim.
 
 ### "Phenomenal Concepts"
 
@@ -155,7 +155,7 @@ Problem: why would we have concepts that so systematically misrepresent a physic
 
 This position deserves serious consideration. It acknowledges the depth of the hard problem without abandoning naturalism. But it also reveals something important: the materialist cannot appeal to "future science" as confidently as the analogy with water=H2O suggests. If McGinn is right, no amount of scientific progress will close the gap—not because the gap is metaphysical, but because our minds cannot traverse it.
 
-The site's position differs from mysterianism. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet agrees that our cognitive limitations may hide important truths. But rather than treating the hard problem as a mystery we cannot solve, the site takes it as evidence that the materialist framework is wrong—that consciousness is not derived from the physical at all.
+The Map's position differs from mysterianism. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet agrees that our cognitive limitations may hide important truths. But rather than treating the hard problem as a mystery we cannot solve, the Map takes it as evidence that the materialist framework is wrong—that consciousness is not derived from the physical at all.
 
 ### Process Philosophy Perspective
 
@@ -163,7 +163,7 @@ Alfred North Whitehead's process philosophy challenges the substance metaphysics
 
 On this view, the hard problem dissolves differently than in idealism or materialism. Consciousness doesn't *emerge* from matter because experience goes "all the way down." The question isn't how to get experience from non-experience but how simple experiences combine into complex ones—the [combination problem](/concepts/combination-problem/) that also faces [panpsychism](/concepts/panpsychism/).
 
-This site doesn't commit to process philosophy, but the framework illustrates that the materialism/dualism binary may be a false dichotomy. The hard problem's intractability under materialism doesn't force us into Cartesian substance dualism—other options exist. What matters for this site is the core claim: consciousness is not reducible to or derivable from the physical as materialism conceives it.
+The Map doesn't commit to process philosophy, but the framework illustrates that the materialism/dualism binary may be a false dichotomy. The hard problem's intractability under materialism doesn't force us into Cartesian substance dualism—other options exist. What matters for the Map is the core claim: consciousness is not reducible to or derivable from the physical as materialism conceives it.
 
 ### Idealism as an Alternative
 
@@ -173,15 +173,15 @@ The idealist challenge sharpens the materialist dilemma. Materialism's appeal li
 
 Physicalists respond that idealism has its own challenges: explaining why "appearances" follow lawful regularities (why can't consciousness appear however it wants?), and accounting for the apparent independence of the physical world from any particular mind. But these challenges are arguably less severe than the hard problem: regularities can be attributed to the structure of universal consciousness, whereas materialism struggles to explain why *any* physical process should feel like anything.
 
-This site's framework differs from both idealism and materialism. It agrees with idealism that consciousness is fundamental, but maintains that physical reality exists distinctly and that consciousness interacts with it through [quantum mechanisms](/concepts/quantum-consciousness/). The interaction problem for dualism is addressed; the hard problem for materialism remains unanswered.
+The Map's framework differs from both idealism and materialism. It agrees with idealism that consciousness is fundamental, but maintains that physical reality exists distinctly and that consciousness interacts with it through [quantum mechanisms](/concepts/quantum-consciousness/). The interaction problem for dualism is addressed; the hard problem for materialism remains unanswered.
 
-## Relation to this site's Perspective
+## Relation to the Map's Perspective
 
-Materialism is the site's primary opponent. Understanding its failure motivates the [tenet framework](/tenets/):
+Materialism is the Map's primary opponent. Understanding its failure motivates the [tenet framework](/tenets/):
 
 **[Dualism](/concepts/dualism/)** is accepted because materialism fails. Physical descriptions leave the [explanatory gap](/concepts/explanatory-gap/); physical facts don't entail experiential facts; [qualia](/concepts/qualia/) resist physical characterization. Consciousness must be something beyond the physical. See [dualism](/concepts/dualism/) for the positive case.
 
-**Bidirectional Interaction** is needed because rejecting materialism could lead to [epiphenomenalism](/arguments/epiphenomenalism/)—accepting consciousness is non-physical but denying it does anything. the site rejects this move: consciousness causally influences physical outcomes, or we couldn't even discuss it.
+**Bidirectional Interaction** is needed because rejecting materialism could lead to [epiphenomenalism](/arguments/epiphenomenalism/)—accepting consciousness is non-physical but denying it does anything. the Map rejects this move: consciousness causally influences physical outcomes, or we couldn't even discuss it.
 
 **Minimal Quantum Interaction** responds to the causal closure argument. If physics were complete, there'd be no room for mental causation. But physics is not complete at quantum indeterminacies. Consciousness acts there, biasing otherwise undetermined outcomes.
 
@@ -191,7 +191,7 @@ Materialism is the site's primary opponent. Understanding its failure motivates 
 
 ## What Would Challenge This View?
 
-The site's rejection of materialism is not unfalsifiable. Several findings could provide evidence for materialism:
+The Map's rejection of materialism is not unfalsifiable. Several findings could provide evidence for materialism:
 
 1. **A successful reduction.** If a future theory genuinely explained why specific neural configurations produce specific qualia—not just correlated them, but showed the entailment—this would support materialism. The key test: could such a theory predict what it's like to have novel experiences (new colors, new senses) from physical descriptions alone?
 
@@ -203,9 +203,9 @@ The site's rejection of materialism is not unfalsifiable. Several findings could
 
 5. **Introspection debunked.** If we discovered that our conviction of having phenomenal experience was the result of a specific, identifiable cognitive error—one that could be turned off and on, revealing the "raw" non-phenomenal reality underneath—illusionism would be supported.
 
-None of these conditions currently obtains, and each faces significant challenges. But they represent the kind of evidence that would count against the site's dualist framework.
+None of these conditions currently obtains, and each faces significant challenges. But they represent the kind of evidence that would count against the Map's dualist framework.
 
-Materialism remains the consensus position in academic philosophy. the site holds that this consensus is maintained by ignoring consciousness's most distinctive features—by treating the hard problem as merely difficult rather than unsolvable in materialist terms.
+Materialism remains the consensus position in academic philosophy. the Map holds that this consensus is maintained by ignoring consciousness's most distinctive features—by treating the hard problem as merely difficult rather than unsolvable in materialist terms.
 
 ## Further Reading
 
@@ -219,12 +219,12 @@ Materialism remains the consensus position in academic philosophy. the site hold
 - [analytic-idealism](/concepts/analytic-idealism/) — Idealism's challenge to both materialism and dualism
 - [epiphenomenalism](/arguments/epiphenomenalism/) — What happens if you accept the gap but deny mental causation
 - [illusionism](/concepts/illusionism/) — Materialism's most radical response to the hard problem
-- [functionalism](/arguments/functionalism/) — A materialist theory the site rejects
+- [functionalism](/arguments/functionalism/) — A materialist theory the Map rejects
 - [mysterianism](/concepts/mysterianism/) — The cognitive closure hypothesis and its implications
 - [introspection](/concepts/introspection/) — The reliability debate about first-person access
 - [panpsychism](/concepts/panpsychism/) — An alternative that avoids the emergence problem
 - [many-worlds](/arguments/many-worlds/) — Why MWI doesn't rescue materialism from the hard problem
-- [tenets](/tenets/) — the site's alternative framework
+- [tenets](/tenets/) — the Map's alternative framework
 
 ## References
 

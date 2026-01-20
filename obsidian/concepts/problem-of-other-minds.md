@@ -65,7 +65,7 @@ But psychological concepts, Wittgenstein noted, are learned publicly. I learn wh
 
 This approach dissolves the skeptical problem rather than solving it. The problem seemed to arise because we couldn't access others' private experiences. But if mental concepts are public from the start, there's no hidden realm we're failing to reach.
 
-**Tension with dualism:** Wittgenstein's dissolution sits uneasily with the view that consciousness is a genuine non-physical property. If behavioral criteria fully determine mental concept application, phenomenal properties seem to drop out as irrelevant—a quasi-behaviorist conclusion the site rejects. Yet Wittgenstein's critique of the "inner theater" picture is not identical to denying non-physical consciousness; it targets a specific Cartesian framework that even dualists might question.
+**Tension with dualism:** Wittgenstein's dissolution sits uneasily with the view that consciousness is a genuine non-physical property. If behavioral criteria fully determine mental concept application, phenomenal properties seem to drop out as irrelevant—a quasi-behaviorist conclusion The Unfinishable Map rejects. Yet Wittgenstein's critique of the "inner theater" picture is not identical to denying non-physical consciousness; it targets a specific Cartesian framework that even dualists might question.
 
 ### Perceptual Approach
 
@@ -101,7 +101,7 @@ If consciousness is non-physical, physical evidence is even more indirect. Brain
 
 The connection between mind and body, on the dualist view, is contingent. Bodies don't *necessitate* minds the way hydrogen and oxygen necessitate water. A world with the same physical facts but different (or absent) phenomenal facts is conceivable. But then what grounds the inference from your behavior to your consciousness?
 
-The site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet provides one answer: consciousness causally affects the physical world. If your consciousness influences your behavior, your behavior provides some evidence for your consciousness—not direct access, but genuine indication. The connection isn't logical necessity but causal regularity.
+The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet provides one answer: consciousness causally affects the physical world. If your consciousness influences your behavior, your behavior provides some evidence for your consciousness—not direct access, but genuine indication. The connection isn't logical necessity but causal regularity.
 
 Yet even causal connection leaves room for skepticism. Perhaps your body behaves as if influenced by consciousness without actual consciousness doing the influencing. The zombie scenario remains conceivable.
 
@@ -113,7 +113,7 @@ In everyday life, no one seriously doubts that others are conscious. We instinct
 
 The epistemic situation may be: practical certainty without philosophical proof. We cannot *demonstrate* that others are conscious with the same indubitability we have about our own case. But we can reasonably believe it, act on it, and grant it moral weight.
 
-This parallels the site's stance on consciousness itself. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet acknowledges that some questions outrun our epistemic reach. We don't abandon consciousness as a genuine phenomenon simply because we can't fully explain it. Similarly, we don't treat others as zombies simply because we can't *prove* their consciousness.
+This parallels the Map's stance on consciousness itself. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet acknowledges that some questions outrun our epistemic reach. We don't abandon consciousness as a genuine phenomenon simply because we can't fully explain it. Similarly, we don't treat others as zombies simply because we can't *prove* their consciousness.
 
 ## Extensions: Animals and Machines
 
@@ -125,7 +125,7 @@ This reflects the practical resolution: behavioral evidence (responsiveness, emo
 
 **AI consciousness:** The [[ai-consciousness|AI consciousness]] debate is essentially the problem of other minds applied to machines. The Turing Test operationalizes the question: if a machine is behaviorally indistinguishable from a human, should we attribute it mind? Turing himself noted we might have "just as much reason to suppose that machines think as we have reason to suppose that other people think."
 
-Yet the site's rejection of [[functionalism]] complicates this inference. If consciousness isn't simply information processing, behavioral mimicry doesn't suffice. John Searle's Chinese Room argument makes the point: a system could produce human-like behavior by manipulating symbols according to rules without understanding anything.
+Yet the Map's rejection of [[functionalism]] complicates this inference. If consciousness isn't simply information processing, behavioral mimicry doesn't suffice. John Searle's Chinese Room argument makes the point: a system could produce human-like behavior by manipulating symbols according to rules without understanding anything.
 
 For animals, biological similarity provides grounds for inference—we share the kind of embodied, evolved existence that might be relevant to consciousness. For current AI, this ground is absent. The inference is correspondingly weaker, though not definitively blocked.
 
@@ -133,13 +133,13 @@ For animals, biological similarity provides grounds for inference—we share the
 
 The problem of other minds is epistemological, not metaphysical—it concerns what we can *know*, not what exists. It's compatible with various positions on consciousness's nature.
 
-But the problem has special significance for the site's dualist framework:
+But the problem has special significance for the Map's dualist framework:
 
 **Dualism intensifies the problem** by severing the logical connection between physical facts and mental facts. If consciousness is non-physical, behavioral evidence is more indirect—it indicates consciousness only through contingent causal relations, not logical necessity.
 
 **Dualism also provides resources.** The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet grounds the inference from behavior to mind in causal connection. Consciousness isn't epiphenomenal; it affects the world. Your behavior provides evidence for your consciousness because your consciousness helps produce your behavior.
 
-**The problem supports the site's humility.** The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet acknowledges limits on human knowledge. The problem of other minds exemplifies this: some domains of reality remain permanently beyond direct access. This doesn't make them unreal or unknowable—just knowable in a limited way, through inference rather than direct apprehension.
+**The problem supports the Map's humility.** The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet acknowledges limits on human knowledge. The problem of other minds exemplifies this: some domains of reality remain permanently beyond direct access. This doesn't make them unreal or unknowable—just knowable in a limited way, through inference rather than direct apprehension.
 
 The [[mysterianism|mysterian]] theme recurs: consciousness presents genuine puzzles that may not admit complete solutions. We can map these limits—that's the voids project—without pretending they don't exist.
 

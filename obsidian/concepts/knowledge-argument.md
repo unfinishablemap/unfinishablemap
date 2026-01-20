@@ -144,9 +144,9 @@ The knowledge argument would be undermined by any of the following:
 
 The argument's resilience comes from its simplicity: it makes minimal assumptions (Mary knows physics, sees color, reports learning) and draws a modest conclusion (not all facts are physical). The burden falls on physicalists to explain away an intuition that even trained philosophers struggle to shake.
 
-## Relation to this site's Perspective
+## Relation to The Unfinishable Map's Perspective
 
-The knowledge argument provides powerful support for the [[tenets#^dualism|Dualism]] tenet. The core claim—that physical knowledge leaves phenomenal knowledge unaddressed—is precisely what the site means by consciousness being irreducible. [[Qualia]] have a qualitative character that no physical description captures.
+The knowledge argument provides powerful support for the [[tenets#^dualism|Dualism]] tenet. The core claim—that physical knowledge leaves phenomenal knowledge unaddressed—is precisely what the Map means by consciousness being irreducible. [[Qualia]] have a qualitative character that no physical description captures.
 
 The argument also supports the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. Physicalism appears simpler, but its apparent parsimony fails before the knowledge intuition. When the "simpler" theory conflicts with what nearly everyone recognizes, simplicity is not decisive.
 
@@ -163,7 +163,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [[introspection]] — How Mary recognizes she learned something new
 - [[russellian-monism]] — The structure/intrinsic nature distinction underlying the argument
 - [[materialism]] — The view the argument challenges
-- [[tenets]] — How this site's framework responds
+- [[tenets]] — How the Map's framework responds
 
 ## References
 

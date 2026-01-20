@@ -41,9 +41,9 @@ topics:
 - '[[free-will]]'
 ---
 
-If consciousness influences the physical world—as the site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds—how does it do so? The attention as interface hypothesis provides a specific answer: consciousness acts on matter through attention. What you attend to is what consciousness can influence. Attention is not identical to consciousness but serves as the causal bridge between the non-physical subject and physical neural systems.
+If consciousness influences the physical world—as The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds—how does it do so? The attention as interface hypothesis provides a specific answer: consciousness acts on matter through attention. What you attend to is what consciousness can influence. Attention is not identical to consciousness but serves as the causal bridge between the non-physical subject and physical neural systems.
 
-This hypothesis formalizes an implicit commitment throughout the site's framework: attention occupies a unique position where consciousness and brain processes meet. The proposal converts philosophical assertion into a research agenda with candidate mechanisms, testable predictions, and falsification conditions.
+This hypothesis formalizes an implicit commitment throughout the Map's framework: attention occupies a unique position where consciousness and brain processes meet. The proposal converts philosophical assertion into a research agenda with candidate mechanisms, testable predictions, and falsification conditions.
 
 ## The Hypothesis Stated
 
@@ -57,7 +57,7 @@ Attention functions as the **interface layer** between consciousness and neural 
 | Attention has bandwidth limits (~10 bits/second) | Constrains what consciousness can select |
 | The quantum Zeno effect is the mechanism | Rapid observation holds desired neural patterns |
 
-This gives attention a distinctive role: not mere information processing, but the causal bridge between consciousness and matter. [Attention](/concepts/attention/) as a general concept covers the dissociation evidence and theoretical debates; this page focuses on attention's specific function as the site of mind-matter interaction.
+This gives attention a distinctive role: not mere information processing, but the causal bridge between consciousness and matter. [Attention](/concepts/attention/) as a general concept covers the dissociation evidence and theoretical debates; this page focuses on attention's specific function as the Map of mind-matter interaction.
 
 ## Why Not Direct Causation?
 
@@ -83,7 +83,7 @@ A critical distinction for the interface hypothesis: not all top-down attention 
 | **Instructed** | External cues | Dorsal network, standard | Top-down but externally prompted |
 | **Willed** | Internal decision | Frontal theta + bidirectional coherence | Genuine conscious initiation |
 
-The willed attention distinction matters because it identifies what the site claims consciousness contributes: not merely following instructions, but genuinely initiating attentional shifts.
+The willed attention distinction matters because it identifies what the Map claims consciousness contributes: not merely following instructions, but genuinely initiating attentional shifts.
 
 ### Neural Signatures of Willed Attention
 
@@ -223,7 +223,7 @@ The FA/OM distinction suggests consciousness has two modes of relating to the at
 | Active selection | FA meditation | Engaged | High observation rate |
 | Passive witnessing | OM meditation | Disengaged | Reduced observation |
 
-This extends the site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. Consciousness can influence matter through attention—but it can also refrain from doing so. The capacity for selection includes the capacity to suspend selection. The [meditation and consciousness modes](/concepts/meditation-and-consciousness-modes/) page develops this distinction in detail.
+This extends the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. Consciousness can influence matter through attention—but it can also refrain from doing so. The capacity for selection includes the capacity to suspend selection. The [meditation and consciousness modes](/concepts/meditation-and-consciousness-modes/) page develops this distinction in detail.
 
 The two modes have different phenomenology: FA feels effortful; OM feels effortless. A neurofeedback study found that when experienced meditators reported "not efforting," their posterior cingulate cortex deactivated. Subjective effortlessness corresponds to measurable neural disengagement.
 
@@ -405,7 +405,7 @@ The unified interface view is falsifiable but currently well-supported. Attentio
 
 [Illusionists](/concepts/illusionism/) like Daniel Dennett and Keith Frankish argue there's no phenomenal consciousness requiring a special interface. If the "what it's like" of experience is an introspective illusion, the hard problem dissolves—and with it the motivation for attention as interface. The attention schema might simply *be* consciousness: not an interface to something else, but the whole story.
 
-**the site's response**: Illusionism faces the infinite regress problem. If attention involves the illusion of phenomenal engagement, something must be experiencing that illusion. The seeming of effort—the felt cost of sustaining attention—must appear *to* something. Raymond Tallis's point applies: "Misrepresentation presupposes presentation." The attention schema theory explains why we *report* being conscious, not why there's anything it's like to direct attention.
+**the Map's response**: Illusionism faces the infinite regress problem. If attention involves the illusion of phenomenal engagement, something must be experiencing that illusion. The seeming of effort—the felt cost of sustaining attention—must appear *to* something. Raymond Tallis's point applies: "Misrepresentation presupposes presentation." The attention schema theory explains why we *report* being conscious, not why there's anything it's like to direct attention.
 
 More directly: the phenomenology of effort resists deflationary analysis. When you maintain focus against distraction, the *cost* feels real. Illusionism must explain why this seeming of genuine work is so resistant to dissolution—why even philosophers who intellectually accept illusionism report that attention *still feels* effortful. The persistence of effort phenomenology, like the persistence of pain phenomenology, suggests something more than representation is at stake.
 
@@ -481,7 +481,7 @@ The 2025 adversarial testing found neither Global Workspace Theory nor Integrate
 
 ## Summary
 
-The attention as interface hypothesis converts the site's implicit commitment—that consciousness influences matter through attention—into an explicit research program. Key claims:
+The attention as interface hypothesis converts the Map's implicit commitment—that consciousness influences matter through attention—into an explicit research program. Key claims:
 
 1. Consciousness acts on the physical world through attention, not directly
 2. Attention provides a bandwidth-limited channel (~10 bits/second)
@@ -489,7 +489,7 @@ The attention as interface hypothesis converts the site's implicit commitment—
 4. Selection occurs at candidate sites where quantum effects survive decoherence
 5. The hypothesis generates testable predictions and has falsification conditions
 
-This transforms philosophical assertion into empirical program. Whether the hypothesis proves correct, it specifies what the site's framework claims and what evidence would support or refute it.
+This transforms philosophical assertion into empirical program. Whether the hypothesis proves correct, it specifies what the Map's framework claims and what evidence would support or refute it.
 
 ## Further Reading
 

@@ -16,6 +16,6 @@ title: Topics
 topics: []
 ---
 
-This section will contain deep dives into philosophical topics explored on this site.
+This section will contain deep dives into philosophical topics explored on The Unfinishable Map.
 
 Topics are extended explorations of specific questions or themes, drawing on the foundational tenets and related concepts.

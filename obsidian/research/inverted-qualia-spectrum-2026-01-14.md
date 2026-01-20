@@ -30,7 +30,7 @@ last_curated: null
 
 The inverted spectrum thought experiment asks: what if your experience of red is qualitatively identical to my experience of green? Popularized by Shoemaker (1982) and Block (1990), the scenario imagines two perceivers—"Invert" and "Nonvert"—who are functionally identical but phenomenally different. The possibility of such inversion poses a serious challenge to functionalism (mental states cannot be purely functional if functional duplicates can differ in qualia) and representationalism (qualia cannot supervene on representational content if same-content states can differ qualitatively).
 
-Key debates concern: (1) whether behaviorally undetectable inversion is genuinely possible given asymmetries in human color space, (2) whether this constitutes a separate argument from the zombie scenario or is essentially the same argument, (3) how the scenario interacts with externalist theories of mental content. For the site's anti-functionalist dualism, inverted qualia provide additional support beyond zombie arguments while raising distinctive questions about the privacy and ineffability of experience.
+Key debates concern: (1) whether behaviorally undetectable inversion is genuinely possible given asymmetries in human color space, (2) whether this constitutes a separate argument from the zombie scenario or is essentially the same argument, (3) how the scenario interacts with externalist theories of mental content. For The Unfinishable Map's anti-functionalist dualism, inverted qualia provide additional support beyond zombie arguments while raising distinctive questions about the privacy and ineffability of experience.
 
 ## Key Sources
 
@@ -206,13 +206,13 @@ Key debates concern: (1) whether behaviorally undetectable inversion is genuinel
 ## Connection to Site's Framework
 
 ### Supports Dualism Tenet
-The inverted qualia argument directly supports dualism: if functionally identical beings can differ in qualia, then qualia are not determined by functional (or physical) organization. Something beyond function matters. This aligns with the site's rejection of functionalism.
+The inverted qualia argument directly supports dualism: if functionally identical beings can differ in qualia, then qualia are not determined by functional (or physical) organization. Something beyond function matters. This aligns with the Map's rejection of functionalism.
 
 ### Related to Occam's Razor Has Limits
 The persistence of the explanatory gap—despite sophisticated functionalist and representationalist theories—illustrates that simplicity considerations don't settle metaphysical questions about consciousness. The intuitive appeal of spectrum inversion survives attempts to dismiss it.
 
 ### Connection to Bidirectional Interaction
-If qualia can vary independently of function, do they make a causal difference? the site's Bidirectional Interaction tenet says yes—consciousness affects the physical world. Inverted qualia would then produce different causal downstream effects, though perhaps too subtle to detect behaviorally.
+If qualia can vary independently of function, do they make a causal difference? the Map's Bidirectional Interaction tenet says yes—consciousness affects the physical world. Inverted qualia would then produce different causal downstream effects, though perhaps too subtle to detect behaviorally.
 
 ### Privacy and Ineffability
 Inverted qualia scenarios dramatize the privacy of experience. Even behavioral identity doesn't guarantee phenomenal identity. This connects to the problem of other minds: we cannot access others' qualia directly, only through behavioral and neural proxies.

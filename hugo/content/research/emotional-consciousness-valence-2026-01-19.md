@@ -41,7 +41,7 @@ topics:
 
 ## Executive Summary
 
-Emotional consciousness—the felt quality of emotions—is a contested topic at the intersection of philosophy of mind, affective neuroscience, and ethics. The central questions are: (1) whether emotions require phenomenal consciousness or are merely functional states, (2) what valence (the positive/negative felt quality) actually is, and (3) why valence matters morally. Two major neuroscience camps disagree: Panksepp argued emotions are "primary affective consciousness" arising from subcortical structures, while LeDoux argues emotional *feelings* require cortical higher-order representations. Philosophically, valence is either an intrinsic qualitative property of experience (the hedonic account) or a nonconceptual representation of value (Carruthers' evaluativism). For ethics, valenced consciousness appears central to moral status—"sentientism" holds that the capacity for suffering grounds moral consideration. This research directly supports the site's framework: if valence is an intrinsic phenomenal property, it cannot be reduced to functional states, supporting Dualism; if valenced states do causal work in motivation, this supports Bidirectional Interaction.
+Emotional consciousness—the felt quality of emotions—is a contested topic at the intersection of philosophy of mind, affective neuroscience, and ethics. The central questions are: (1) whether emotions require phenomenal consciousness or are merely functional states, (2) what valence (the positive/negative felt quality) actually is, and (3) why valence matters morally. Two major neuroscience camps disagree: Panksepp argued emotions are "primary affective consciousness" arising from subcortical structures, while LeDoux argues emotional *feelings* require cortical higher-order representations. Philosophically, valence is either an intrinsic qualitative property of experience (the hedonic account) or a nonconceptual representation of value (Carruthers' evaluativism). For ethics, valenced consciousness appears central to moral status—"sentientism" holds that the capacity for suffering grounds moral consideration. This research directly supports The Unfinishable Map's framework: if valence is an intrinsic phenomenal property, it cannot be reduced to functional states, supporting Dualism; if valenced states do causal work in motivation, this supports Bidirectional Interaction.
 
 ## Key Sources
 
@@ -262,14 +262,14 @@ The debate about emotional consciousness maps directly onto the hard problem. If
 If phenomenal experience has "intrinsic value" that explains motivated behavior (as the "Consciousness Matters" paper argues), then consciousness does causal work. Valenced states don't merely correlate with approach/avoidance—they *motivate* it. This aligns with agent causation: the conscious subject evaluates options via valence and selects accordingly. The quantum selection mechanism may operate through valenced assessment—attention is drawn to valued targets.
 
 ### Connection to Phenomenal Value Realism
-The moral significance of valence connects directly to [phenomenal-value-realism](/concepts/phenomenal-value-realism/). If the badness of suffering is objective and intrinsic (not just represented), and if this objective badness grounds moral reasons, then moral facts depend on phenomenal facts. This supports the site's ethics framework: consciousness isn't just morally relevant—its valenced character is the ground of value itself.
+The moral significance of valence connects directly to [phenomenal-value-realism](/concepts/phenomenal-value-realism/). If the badness of suffering is objective and intrinsic (not just represented), and if this objective badness grounds moral reasons, then moral facts depend on phenomenal facts. This supports the Map's ethics framework: consciousness isn't just morally relevant—its valenced character is the ground of value itself.
 
 ### Potential Challenge: LeDoux's HOTEC
-LeDoux's higher-order theory could complicate the site's framework if it implies basic subcortical affects are not genuinely conscious. However, the site can accommodate this by distinguishing:
+LeDoux's higher-order theory could complicate the Map's framework if it implies basic subcortical affects are not genuinely conscious. However, the Map can accommodate this by distinguishing:
 1. Core affect (always present, providing valenced dimension)
 2. Higher-order emotional consciousness (cortical elaboration)
 
-Even if discrete emotional categories require cortical processing, valence itself may be subcortically generated and phenomenally real. the site's framework doesn't require all consciousness to be cortical.
+Even if discrete emotional categories require cortical processing, valence itself may be subcortically generated and phenomenally real. the Map's framework doesn't require all consciousness to be cortical.
 
 ## Gaps in Research
 

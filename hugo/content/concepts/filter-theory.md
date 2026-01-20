@@ -31,7 +31,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by William James, Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain is interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to the site's [interactionist dualism](/archive/arguments/interactionist-dualism/) and explains how [dualism](/tenets/#dualism) can accommodate the empirical findings that seem to support materialism.
+The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by William James, Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain is interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to The Unfinishable Map's [interactionist dualism](/archive/arguments/interactionist-dualism/) and explains how [dualism](/tenets/#dualism) can accommodate the empirical findings that seem to support materialism.
 
 ## The Core Claim
 
@@ -134,7 +134,7 @@ This has implications for the [brain-specialness](/concepts/brain-specialness/) 
 
 ## The Rendering Engine Analogy
 
-The site's [mind-brain-separation](/concepts/mind-brain-separation/) article develops an updated version of filter theory using a video game analogy.
+The Map's [mind-brain-separation](/concepts/mind-brain-separation/) article develops an updated version of filter theory using a video game analogy.
 
 The brain functions like a rendering engine: it computes how things should look based on available data, textures, lighting models. The result is a visual scene. But the scene is not *produced* by the rendering engine alone—it's produced by an interplay between the engine's capabilities and some source of content (game designers, procedural algorithms, or in this case, consciousness).
 
@@ -152,7 +152,7 @@ Filter theory doesn't require locating consciousness spatially. Consciousness mi
 
 ### "What is the mechanism of transmission?"
 
-This is a fair challenge. How does non-physical consciousness interface with physical brain? the site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes one mechanism: consciousness influences quantum indeterminacies in neural systems. At points where physics leaves outcomes undetermined, consciousness selects. This provides the "interface" filter theory requires without violating physical law.
+This is a fair challenge. How does non-physical consciousness interface with physical brain? the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes one mechanism: consciousness influences quantum indeterminacies in neural systems. At points where physics leaves outcomes undetermined, consciousness selects. This provides the "interface" filter theory requires without violating physical law.
 
 ### "Why brains specifically?"
 
@@ -182,7 +182,7 @@ The filter model addresses this through the interface concept. Each brain provid
 
 ## Relation to Site Tenets
 
-Filter theory supports and is supported by the site's [foundational commitments](/tenets/):
+Filter theory supports and is supported by the Map's [foundational commitments](/tenets/):
 
 **[Dualism](/tenets/#dualism)**: Filter theory preserves dualism while explaining tight brain-consciousness correlation. Dependence on the brain doesn't entail identity with the brain or production by the brain. The explanatory gap remains: no neural account explains *why* there is something it is like. Filter theory doesn't close this gap but doesn't pretend to—it reframes the brain's role from producer to interface.
 

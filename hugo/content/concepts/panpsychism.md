@@ -31,7 +31,7 @@ topics:
 
 Panpsychism holds that consciousness is a fundamental and ubiquitous feature of reality—all matter has some experiential quality. An electron doesn't merely have mass and charge; it has something it's like to be that electron. This view has experienced a resurgence in contemporary philosophy of mind, championed by thinkers like Galen Strawson and Philip Goff.
 
-This site shares panpsychism's core insight—consciousness cannot emerge from wholly non-conscious matter—but reaches a different conclusion. Where panpsychism says consciousness *is* matter's intrinsic nature, this site maintains consciousness and matter are distinct but interacting. Understanding both the agreements and disagreements clarifies what's at stake.
+The Unfinishable Map shares panpsychism's core insight—consciousness cannot emerge from wholly non-conscious matter—but reaches a different conclusion. Where panpsychism says consciousness *is* matter's intrinsic nature, the Map maintains consciousness and matter are distinct but interacting. Understanding both the agreements and disagreements clarifies what's at stake.
 
 ## The Anti-Emergence Argument
 
@@ -39,7 +39,7 @@ Panpsychism's central motivation is negative: standard physicalism fails. The [h
 
 How does consciousness arise from unconscious matter? Panpsychists argue it can't—at least not intelligibly. Galen Strawson puts it sharply: "Emergence can't be brute." If consciousness emerges from the non-conscious, there should be some explanation of why it emerges, how the transition works. But no such explanation seems possible. Physical descriptions are third-person; consciousness is first-person. The gap appears unbridgeable.
 
-This site agrees. The [Dualism](/tenets/#dualism) tenet holds that consciousness is not reducible to physical processes precisely because the explanatory gap cannot be closed. Consciousness isn't the sort of thing that emerges from structural arrangements of unconscious matter.
+The Map agrees. The [Dualism](/tenets/#dualism) tenet holds that consciousness is not reducible to physical processes precisely because the explanatory gap cannot be closed. Consciousness isn't the sort of thing that emerges from structural arrangements of unconscious matter.
 
 ## The Panpsychist Solution
 
@@ -97,9 +97,9 @@ Panpsychists have responses. Strawson argues that experiential-from-experiential
 
 But critics note the combination problem is structurally similar to the hard problem it was meant to solve. We're still asking how experience arises from what lacks that experience—just at a different level.
 
-## this site's Alternative: Interactionist Dualism
+## the Map's Alternative: Interactionist Dualism
 
-This site agrees with panpsychism's diagnosis (emergence from non-conscious matter is unintelligible) but offers a different treatment. Rather than saying consciousness is what matter is "from the inside," the site maintains consciousness is *distinct from* matter but *interacts with* it.
+The Map agrees with panpsychism's diagnosis (emergence from non-conscious matter is unintelligible) but offers a different treatment. Rather than saying consciousness is what matter is "from the inside," the Map maintains consciousness is *distinct from* matter but *interacts with* it.
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes this happens at the quantum level—consciousness biases otherwise indeterminate outcomes.
 
@@ -114,11 +114,11 @@ This avoids the combination problem. There's no need to explain how micro-experi
 | Combination problem | Must explain how micro-experiences combine | Doesn't face this problem |
 | Interaction problem | Doesn't face this (no separate substances) | Must explain how distinct substances interact |
 
-The interaction problem—how do distinct substances causally influence each other?—is dualism's classic challenge. the site addresses this via quantum mechanics: consciousness influences outcomes that physics leaves undetermined, so no physical law is violated.
+The interaction problem—how do distinct substances causally influence each other?—is dualism's classic challenge. the Map addresses this via quantum mechanics: consciousness influences outcomes that physics leaves undetermined, so no physical law is violated.
 
 ## What Panpsychism Gets Right
 
-Despite disagreeing on the solution, this site affirms panpsychism's key insights:
+Despite disagreeing on the solution, the Map affirms panpsychism's key insights:
 
 1. **Consciousness is fundamental**: Not emergent from non-conscious stuff, but a basic feature of reality.
 
@@ -138,7 +138,7 @@ Idealism claims to solve the combination problem by inverting it. Rather than as
 
 This puts panpsychism in a difficult position. If the combination problem is as hard as the hard problem it was meant to solve, and idealism avoids it entirely, why not accept idealism? The panpsychist might respond that dissociation at cosmic scale is equally mysterious—DID involves a brain already functioning as a unified system; applying dissociation to universal consciousness is a large extrapolation.
 
-The site's interactionist framework avoids both the combination problem (consciousness doesn't emerge from micro-experiences) and the dissociation problem (individual consciousnesses are genuinely distinct, not fragments of a cosmic mind). But this comes at the cost of the interaction problem, which quantum mechanics may address.
+The Map's interactionist framework avoids both the combination problem (consciousness doesn't emerge from micro-experiences) and the dissociation problem (individual consciousnesses are genuinely distinct, not fragments of a cosmic mind). But this comes at the cost of the interaction problem, which quantum mechanics may address.
 
 ## Integrated Information Theory: A Scientific Panpsychism?
 
@@ -148,7 +148,7 @@ This implies panpsychism: even simple systems like photodiodes have minimal phi 
 
 However, IIT faces its own version of the combination problem. High-phi systems are "more" conscious than low-phi systems, but it remains unclear why integration should produce unified experience rather than just integrated information processing. The phi measure quantifies integration but doesn't explain why integration feels like anything.
 
-For the site's framework, IIT is instructive but incomplete. It takes consciousness seriously as fundamental (aligning with the Dualism tenet) but identifies it with physical structure rather than treating it as causally efficacious over and above physics (conflicting with Bidirectional Interaction). If consciousness *is* integrated information, it doesn't *do* anything separate from the physical—it *is* the physical in a certain configuration.
+For the Map's framework, IIT is instructive but incomplete. It takes consciousness seriously as fundamental (aligning with the Dualism tenet) but identifies it with physical structure rather than treating it as causally efficacious over and above physics (conflicting with Bidirectional Interaction). If consciousness *is* integrated information, it doesn't *do* anything separate from the physical—it *is* the physical in a certain configuration.
 
 ## Can Panpsychism Be Tested?
 
@@ -174,11 +174,11 @@ Both views take consciousness seriously. Both reject physicalist emergence. The 
 
 ## Relation to Site Perspective
 
-This site's framework is closer to dualism than panpsychism, but the two share more than either shares with standard physicalism. The [tenets](/tenets/) establish consciousness as irreducible and causally efficacious—claims panpsychism largely endorses.
+The Map's framework is closer to dualism than panpsychism, but the two share more than either shares with standard physicalism. The [tenets](/tenets/) establish consciousness as irreducible and causally efficacious—claims panpsychism largely endorses.
 
-If forced to choose between panpsychism and standard physicalism, the site would choose panpsychism. Consciousness *is* fundamental; the hard problem *is* insoluble by physicalist means. Panpsychism sees this clearly.
+If forced to choose between panpsychism and standard physicalism, the Map would choose panpsychism. Consciousness *is* fundamental; the hard problem *is* insoluble by physicalist means. Panpsychism sees this clearly.
 
-But the site thinks interactionist dualism offers a cleaner solution. Consciousness influences matter without being identical to it. The quantum level provides room for this influence without violating physics. And we avoid having to say that protons experience anything.
+But the Map thinks interactionist dualism offers a cleaner solution. Consciousness influences matter without being identical to it. The quantum level provides room for this influence without violating physics. And we avoid having to say that protons experience anything.
 
 ## Further Reading
 
@@ -192,7 +192,7 @@ But the site thinks interactionist dualism offers a cleaner solution. Consciousn
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — The problem of quantum collapse before biological minds
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The central puzzle both views address
 - [panpsychism-consciousness-2026-01-08](/research/panpsychism-consciousness-2026-01-08/) — Detailed research notes
-- [tenets](/tenets/) — the site's foundational commitments
+- [tenets](/tenets/) — the Map's foundational commitments
 
 ## References
 

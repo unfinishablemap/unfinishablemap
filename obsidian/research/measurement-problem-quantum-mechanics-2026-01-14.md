@@ -27,7 +27,7 @@ last_curated: null
 
 ## Executive Summary
 
-The measurement problem is the central foundational puzzle in quantum mechanics: why do quantum systems evolve deterministically via the Schrödinger equation yet yield definite, probabilistic outcomes upon measurement? A 2025 comprehensive review notes that "amid the cacophony of competing interpretations, the problem today is not as impenetrable as it once seemed"—yet no consensus has emerged. The problem matters profoundly for the site's framework because it opens a logical space for consciousness to play a role in physics. If collapse is real and its cause unspecified by the formalism, consciousness remains a candidate selector. the site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes exactly this: consciousness biases otherwise indeterminate quantum outcomes.
+The measurement problem is the central foundational puzzle in quantum mechanics: why do quantum systems evolve deterministically via the Schrödinger equation yet yield definite, probabilistic outcomes upon measurement? A 2025 comprehensive review notes that "amid the cacophony of competing interpretations, the problem today is not as impenetrable as it once seemed"—yet no consensus has emerged. The problem matters profoundly for The Unfinishable Map's framework because it opens a logical space for consciousness to play a role in physics. If collapse is real and its cause unspecified by the formalism, consciousness remains a candidate selector. the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes exactly this: consciousness biases otherwise indeterminate quantum outcomes.
 
 ## Key Sources
 
@@ -146,7 +146,7 @@ The measurement problem is the central foundational puzzle in quantum mechanics:
 - **Proponents**: de Broglie, Bohm, Bell, Goldstein
 - **Core claim**: Quantum state is incomplete; particles have definite positions guided by wave function
 - **Key arguments**: Deterministic, realist, empirically equivalent to standard QM; explicitly nonlocal
-- **Relation to site tenets**: Removes the opening for consciousness at collapse; philosophically interesting but not the site's preferred framework
+- **Relation to site tenets**: Removes the opening for consciousness at collapse; philosophically interesting but not the Map's preferred framework
 
 ### Consciousness-Based Interpretations
 - **Proponents**: Wigner (early), Stapp, Penrose-Hameroff (indirectly)

@@ -30,9 +30,9 @@ ai_generated_date: 2026-01-16
 last_curated: null
 ---
 
-If consciousness "selects" quantum outcomes—as the site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds—there must be a psychophysical coupling law: a stable mapping from conscious contents to physical selections. Without specifying this law, even schematically, "selection" remains a metaphor rather than a research program.
+If consciousness "selects" quantum outcomes—as The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds—there must be a psychophysical coupling law: a stable mapping from conscious contents to physical selections. Without specifying this law, even schematically, "selection" remains a metaphor rather than a research program.
 
-David Chalmers argued that consciousness requires new fundamental laws linking phenomenal and physical properties. the site's framework requires a specific kind: laws specifying how mental states (intentions, attention, effort) map to which quantum outcomes become actual. This page articulates the problem and surveys candidate laws.
+David Chalmers argued that consciousness requires new fundamental laws linking phenomenal and physical properties. the Map's framework requires a specific kind: laws specifying how mental states (intentions, attention, effort) map to which quantum outcomes become actual. This page articulates the problem and surveys candidate laws.
 
 ## The Problem Stated
 
@@ -59,15 +59,15 @@ Chalmers proposes three psychophysical principles in "Facing Up to the Problem o
 
 **3. Double-Aspect Information**: Information has both physical and phenomenal aspects. The phenomenal aspect is information's intrinsic nature; the physical aspect is its extrinsic, relational properties. This suggests even simple information processing systems might have simple experiences—approaching panpsychism from information theory.
 
-### the site's Divergence from Organizational Invariance
+### the Map's Divergence from Organizational Invariance
 
-The site's rejection of [[functionalism]] creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. the site's dualism implies that phenomenal properties supervene on more than just functional structure—on the particular conscious subject, with its [[haecceity|haecceity]], not merely on abstract patterns.
+The Map's rejection of [[functionalism]] creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. the Map's dualism implies that phenomenal properties supervene on more than just functional structure—on the particular conscious subject, with its [[haecceity|haecceity]], not merely on abstract patterns.
 
 ### Upward vs. Downward Direction
 
 Crucially, Chalmers' psychophysical laws are primarily *upward* laws: they specify which physical states produce which experiences. The physical state is input; the phenomenal state is output.
 
-The site needs laws for the *downward* direction: which conscious states produce which physical selections. The physical state is output; the phenomenal state (attention, intention, effort) is input. This is where the coupling law becomes essential—it specifies the causal arrow Chalmers' framework leaves underspecified.
+The Map needs laws for the *downward* direction: which conscious states produce which physical selections. The physical state is output; the phenomenal state (attention, intention, effort) is input. This is where the coupling law becomes essential—it specifies the causal arrow Chalmers' framework leaves underspecified.
 
 ### Chalmers and McQueen: Quantum Psychophysical Laws
 
@@ -84,7 +84,7 @@ In "Consciousness and the Collapse of the Wave Function" (2022), Chalmers and Mc
 
 The quantum framework addresses constraints (1) and (2) elegantly: consciousness causes collapse (affecting physical outcomes) without violating closure (collapse is physically underdetermined, leaving room for mental causation).
 
-**Site's position on Chalmers-McQueen**: Their framework is the most sophisticated recent development in consciousness-collapse theories. However, the site prefers Stapp's attention-based mechanism over IIT-based measures for two reasons: (a) IIT's phi measure faces the "wrong results" objection (attributing high consciousness to systems that seem unconscious), and (b) attention provides a phenomenologically grounded variable that maps directly to what we experience as mental effort. The super-resistance principle itself is compatible with Stapp's framework—it explains why conscious states don't superpose regardless of which psychophysical law governs the coupling.
+**Site's position on Chalmers-McQueen**: Their framework is the most sophisticated recent development in consciousness-collapse theories. However, the Map prefers Stapp's attention-based mechanism over IIT-based measures for two reasons: (a) IIT's phi measure faces the "wrong results" objection (attributing high consciousness to systems that seem unconscious), and (b) attention provides a phenomenologically grounded variable that maps directly to what we experience as mental effort. The super-resistance principle itself is compatible with Stapp's framework—it explains why conscious states don't superpose regardless of which psychophysical law governs the coupling.
 
 ## Stapp's Selection Mechanism
 
@@ -164,13 +164,13 @@ This is maximally minimal: consciousness influences what's asked, not what's ans
 
 The law: **Consciousness doesn't cause outcomes; it selects which outcome is "this one."** All branches may exist (as MWI holds), but consciousness is what makes one branch subjectively actual.
 
-This connects to the site's [[tenets#^no-many-worlds|No Many Worlds]] tenet differently than it might seem. If indexical selection is real, then subjective actuality is fundamental—not an illusion of being in one branch among equals.
+This connects to the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet differently than it might seem. If indexical selection is real, then subjective actuality is fundamental—not an illusion of being in one branch among equals.
 
 The coupling: phenomenal presence → experienced branch. This is metaphysically thinner than the other laws: no causation of physical events, only selection of which events are phenomenally present.
 
 ## What's Not Selectable
 
-A coupling law must specify exclusions—what consciousness cannot select. This is crucial for distinguishing the site's position from claims about psychokinesis or "manifestation."
+A coupling law must specify exclusions—what consciousness cannot select. This is crucial for distinguishing the Map's position from claims about psychokinesis or "manifestation."
 
 **Exclusions across all candidate laws**:
 
@@ -198,7 +198,7 @@ If the coupling law restricts selection to attention-controlled neural systems, 
 
 ## Relation to Site Perspective
 
-The psychophysical coupling law is where the site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet becomes concrete. Without a coupling law, bidirectional interaction is an assertion; with one, it's a research program.
+The psychophysical coupling law is where the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet becomes concrete. Without a coupling law, bidirectional interaction is an assertion; with one, it's a research program.
 
 **[[tenets#^dualism|Dualism]]**: The coupling law presupposes mental and physical as distinct variables, lawfully related. Monist frameworks don't need such a law—everything is one kind of stuff.
 
@@ -208,7 +208,7 @@ The psychophysical coupling law is where the site's [[tenets#^bidirectional-inte
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Laws 1-3 assume genuine collapse—consciousness selects what becomes actual. Law 4 (indexical selection) could be compatible with MWI but gives subjective actuality fundamental status. Either way, indexical presence matters.
 
-The site cannot resolve which coupling law is correct—this is an open empirical and philosophical question. What the site can do is articulate the problem clearly and specify what any adequate coupling law must accomplish.
+The Map cannot resolve which coupling law is correct—this is an open empirical and philosophical question. What the Map can do is articulate the problem clearly and specify what any adequate coupling law must accomplish.
 
 ## Further Reading
 
@@ -219,7 +219,7 @@ The site cannot resolve which coupling law is correct—this is an open empirica
 - [[attention]] — The attention-consciousness relationship
 - [[mental-causation]] — How coupling addresses exclusion arguments
 - [[interactionist-dualism]] — The framework requiring coupling laws
-- [[tenets]] — the site's foundational commitments
+- [[tenets]] — the Map's foundational commitments
 
 ## References
 

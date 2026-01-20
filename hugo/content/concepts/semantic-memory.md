@@ -34,7 +34,7 @@ topics:
 
 You know that Paris is the capital of France, that water freezes at 0°C, and that Napoleon lost at Waterloo. This knowledge is simply *available*—you don't mentally travel back to when you learned these facts. You don't re-experience sitting in geography class or reading a history book. The facts are just there, accessible without phenomenal replay. This is semantic memory, accompanied by what Endel Tulving called *noetic consciousness*: knowing without re-experiencing.
 
-Semantic memory matters for the site's framework because it raises a subtle version of the hard problem. Episodic memory's phenomenology is obvious—the vivid re-experiencing, the felt pastness, the double presence of self. Semantic memory seems more "computational"—mere fact storage and retrieval. But closer examination reveals that semantic retrieval has its own phenomenology: the frustration of tip-of-the-tongue states, the feeling of knowing, the qualitative character of understanding itself. If even factual knowledge involves irreducible phenomenology, then no domain of cognition is purely computational.
+Semantic memory matters for The Unfinishable Map's framework because it raises a subtle version of the hard problem. Episodic memory's phenomenology is obvious—the vivid re-experiencing, the felt pastness, the double presence of self. Semantic memory seems more "computational"—mere fact storage and retrieval. But closer examination reveals that semantic retrieval has its own phenomenology: the frustration of tip-of-the-tongue states, the feeling of knowing, the qualitative character of understanding itself. If even factual knowledge involves irreducible phenomenology, then no domain of cognition is purely computational.
 
 ## Tulving's Framework: Three Forms of Consciousness
 
@@ -146,7 +146,7 @@ The irreducibility of noetic phenomenology would be challenged by:
 
 1. **Phenomenology dissolving under analysis.** If careful introspection revealed TOT states or the feeling of knowing to be constructed from simpler, non-phenomenal elements, this would support reductionism. Instead, closer attention intensifies rather than decomposes the phenomenon.
 
-2. **Functionally equivalent systems with different phenomenology.** If we discovered beings with identical semantic memory function (including TOT states and FOK judgments) but lacking any phenomenal character to their knowing, this would suggest phenomenology is separable from the functional architecture. the site predicts this is impossible for systems with the relevant conscious architecture.
+2. **Functionally equivalent systems with different phenomenology.** If we discovered beings with identical semantic memory function (including TOT states and FOK judgments) but lacking any phenomenal character to their knowing, this would suggest phenomenology is separable from the functional architecture. the Map predicts this is impossible for systems with the relevant conscious architecture.
 
 3. **Knowing as fully inferential.** If the feeling of knowing were demonstrated to arise entirely from inference about retrieval success (like a probability estimate), with no intrinsic phenomenal character, this would undermine the noetic phenomenology claim. But introspection consistently reveals FOK as immediately given, not inferred.
 
@@ -170,7 +170,7 @@ Semantic memory and noetic consciousness support all five foundational commitmen
 
 **Cognitive Phenomenology Connection**: This page complements [cognitive-phenomenology](/concepts/cognitive-phenomenology/). Semantic memory provides the empirical territory; cognitive phenomenology provides the philosophical framework. If liberalism about cognitive phenomenology is correct—if understanding itself has proprietary phenomenal character—then semantic memory is phenomenally rich despite lacking the vivid re-experiencing of episodic memory.
 
-The site adopts a qualified position: noetic consciousness involves genuine phenomenology, but it's subtler than autonoetic consciousness. Knowing has qualitative character—the TOT frustration, the FOK confidence, the satisfaction of understanding. These are real phenomenal states, not merely functional access to stored information. This extends the hard problem into semantic memory: explaining the neural correlates of semantic retrieval wouldn't explain why there's something it's like to know.
+The Map adopts a qualified position: noetic consciousness involves genuine phenomenology, but it's subtler than autonoetic consciousness. Knowing has qualitative character—the TOT frustration, the FOK confidence, the satisfaction of understanding. These are real phenomenal states, not merely functional access to stored information. This extends the hard problem into semantic memory: explaining the neural correlates of semantic retrieval wouldn't explain why there's something it's like to know.
 
 ## Further Reading
 

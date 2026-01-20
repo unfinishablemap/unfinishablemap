@@ -30,7 +30,7 @@ None - the document was well-structured and aligned with site tenets.
 1. **Missing illusionism engagement**: Document didn't address the Dennett/Frankish challenge that the entire consciousness framework may be unnecessary.
    - **Resolution**: Added "The Illusionist Challenge" section with response addressing the illusion problem and independence of empirical evidence.
 
-2. **Missing falsifiability section**: Document lacked explicit conditions under which the site's position would need revision.
+2. **Missing falsifiability section**: Document lacked explicit conditions under which The Unfinishable Map's position would need revision.
    - **Resolution**: Added "What Would Challenge This View?" section with five falsifiability conditions.
 
 3. **Missing process philosophy connection**: Whitehead's actual occasions framework was absent.

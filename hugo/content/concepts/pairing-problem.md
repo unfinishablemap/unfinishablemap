@@ -30,7 +30,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The pairing problem challenges substance dualism to explain what connects a particular mind to a particular body. Jaegwon Kim argues that if minds lack spatial location, nothing can ground the relation between *this* mind and *this* body—making [mind-body interaction](/archive/arguments/interactionist-dualism/) unintelligible. This is distinct from the [causal-closure](/concepts/causal-closure/) objection and potentially more fundamental. the site's [interface-locality](/concepts/interface-locality/) framework provides a principled response: consciousness is spatially located where its quantum interface operates, and the pairing is built through developmental co-construction with a particular brain.
+The pairing problem challenges substance dualism to explain what connects a particular mind to a particular body. Jaegwon Kim argues that if minds lack spatial location, nothing can ground the relation between *this* mind and *this* body—making [mind-body interaction](/archive/arguments/interactionist-dualism/) unintelligible. This is distinct from the [causal-closure](/concepts/causal-closure/) objection and potentially more fundamental. The Unfinishable Map's [interface-locality](/concepts/interface-locality/) framework provides a principled response: consciousness is spatially located where its quantum interface operates, and the pairing is built through developmental co-construction with a particular brain.
 
 ## The Problem Stated
 
@@ -52,7 +52,7 @@ This goes beyond causal closure. The closure objection grants that mental causat
 
 ## Why This Matters
 
-The pairing problem reveals that interactionists must say something about the *metaphysics* of mind-body connection, not just the *physics*. Even granting that consciousness could affect physics at quantum indeterminacies (the site's response to causal closure), the question remains: why does *this* consciousness affect *this* brain?
+The pairing problem reveals that interactionists must say something about the *metaphysics* of mind-body connection, not just the *physics*. Even granting that consciousness could affect physics at quantum indeterminacies (the Map's response to causal closure), the question remains: why does *this* consciousness affect *this* brain?
 
 The problem specifically targets substance dualism—the view that minds and bodies are distinct substances. [Property dualism](/concepts/substance-property-dualism/), which treats mental properties as properties of physical systems rather than separate substances, faces no comparable difficulty. Properties of a brain are "paired" with that brain trivially—they're properties of it.
 
@@ -101,9 +101,9 @@ Some philosophers argue that causation doesn't require spatial relations. Consid
 
 If any of these succeed, the pairing problem loses force. The dualist can say: mind-body causation is like these other cases—causal relations hold without spatial grounding.
 
-## the site's Position
+## the Map's Position
 
-This site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework provides a natural response to the pairing problem: consciousness is spatially located where it causally interfaces with the brain.
+The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework provides a natural response to the pairing problem: consciousness is spatially located where it causally interfaces with the brain.
 
 If consciousness influences quantum outcomes in specific neural structures (microtubules, synapses, or other quantum-sensitive regions), consciousness is located *where those structures are*. The mind is paired with the body it occupies.
 
@@ -127,11 +127,11 @@ The [decoherence](/concepts/decoherence/) objection—that quantum coherence can
 
 **Response**: The illusionist challenge relocates rather than solves the problem. Even granting that *what* consciousness is can be functionally characterized, there remains the question of *why* this functional system generates this first-person perspective. The pairing problem reappears as: why does *this* self-modeling generate *this* subjective viewpoint? Two functionally identical systems would generate two viewpoints—but nothing in the functional description explains which is which from the inside.
 
-The illusionist can deny that "from the inside" designates anything real—but this amounts to denying that consciousness exists, which the site's [Dualism tenet](/tenets/#dualism) rejects. The pairing problem persists for anyone who accepts that phenomenal consciousness is genuine.
+The illusionist can deny that "from the inside" designates anything real—but this amounts to denying that consciousness exists, which the Map's [Dualism tenet](/tenets/#dualism) rejects. The pairing problem persists for anyone who accepts that phenomenal consciousness is genuine.
 
 ## What Would Challenge This View?
 
-The site's response to the pairing problem would face serious difficulty if:
+The Map's response to the pairing problem would face serious difficulty if:
 
 1. **Non-spatial causation were incoherent**: If philosophers demonstrated that all causal relations require spatial grounding—that the very concept of causation presupposes spatial proximity—the "accept spatial location" response would be the only option, and other responses would fail.
 
@@ -155,15 +155,15 @@ But property dualism has its own costs:
 2. It leaves personal identity dependent on physical continuity
 3. It may collapse into [epiphenomenalism](/arguments/epiphenomenalism/) if the "properties" have no causal powers beyond the physical base
 
-The site remains neutral between substance and property dualism, but the quantum framework works for both. Whether consciousness is a substance located in the brain or a property of brain states, the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—consciousness causally affecting quantum outcomes—remains coherent.
+The Map remains neutral between substance and property dualism, but the quantum framework works for both. Whether consciousness is a substance located in the brain or a property of brain states, the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—consciousness causally affecting quantum outcomes—remains coherent.
 
 ## Relation to Site Perspective
 
-The pairing problem is central to the site's framework because answering it requires specifying the mind-body interface with precision.
+The pairing problem is central to the Map's framework because answering it requires specifying the mind-body interface with precision.
 
 The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that consciousness influences quantum outcomes without adding energy. This requires consciousness to be *somewhere*—specifically, where the quantum interface operates. The pairing problem thus motivates the spatial location response: consciousness is in the brain because that's where the selection mechanism functions.
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires that consciousness causally affects physical outcomes. The pairing problem asks how *this* consciousness affects *this* brain rather than another. the site's answer: through developmental co-construction and interface locality. The pairing is built, not assigned.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires that consciousness causally affects physical outcomes. The pairing problem asks how *this* consciousness affects *this* brain rather than another. the Map's answer: through developmental co-construction and interface locality. The pairing is built, not assigned.
 
 The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is relevant because critics might dismiss haecceity as an unnecessarily complex addition. But if consciousness is genuine and not reducible to physical processes ([Dualism](/tenets/#dualism)), then some individuation principle is required. Parsimony cannot eliminate what the data demands.
 
@@ -181,7 +181,7 @@ The [objections-to-interactionism](/concepts/objections-to-interactionism/) arti
 - [substance-property-dualism](/concepts/substance-property-dualism/) - The choice between dualist frameworks
 - [quantum-consciousness](/concepts/quantum-consciousness/) - The quantum mechanisms that address both objections
 - [illusionism](/concepts/illusionism/) - The eliminativist challenge to the problem's presuppositions
-- [decoherence](/concepts/decoherence/) - The quantum biology challenge to the site's framework
+- [decoherence](/concepts/decoherence/) - The quantum biology challenge to the Map's framework
 
 ## References
 

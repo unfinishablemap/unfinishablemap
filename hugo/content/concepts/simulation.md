@@ -27,7 +27,7 @@ topics:
 
 The simulation hypothesis proposes that our reality is a computed simulation running on some substrate. This idea, popularised by Nick Bostrom's probability argument and science fiction, has surprising relevance for mind-matter interaction. In simulated contexts, many apparent puzzles about consciousness influencing physics dissolve completely.
 
-This page examines the simulation hypothesis and its implications for the site's [tenets](/tenets/)—particularly bidirectional interaction and the [locality](/concepts/locality/) problem.
+This page examines the simulation hypothesis and its implications for The Unfinishable Map's [tenets](/tenets/)—particularly bidirectional interaction and the [locality](/concepts/locality/) problem.
 
 ## The Hypothesis
 
@@ -112,11 +112,11 @@ A simulation running on physical substrate is still physical—the computer exis
 
 **Consciousness in the simulation only**: The simulated beings are conscious; the simulation substrate is merely computational. This creates an emergence mystery—how does consciousness arise from simulated rather than "real" matter? If consciousness can emerge from simulated physics, why not from base physics directly?
 
-**Consciousness at the substrate level**: The simulators are conscious; we are their computations. This preserves the site's dualism—consciousness is fundamental at base reality—but makes us philosophical zombies with respect to genuine experience. the site's framework resists this: if we experience, we're conscious, regardless of our substrate.
+**Consciousness at the substrate level**: The simulators are conscious; we are their computations. This preserves the Map's dualism—consciousness is fundamental at base reality—but makes us philosophical zombies with respect to genuine experience. the Map's framework resists this: if we experience, we're conscious, regardless of our substrate.
 
 **Consciousness at both levels**: Both simulators and simulated beings are conscious. This may follow if [consciousness depends on quantum effects](/concepts/quantum-consciousness/) that the simulation faithfully implements. The simulation doesn't create pseudo-consciousness; it creates the conditions for genuine consciousness.
 
-The site's framework suggests the third option. If consciousness operates through [quantum measurement](/concepts/measurement-problem/) and the simulation implements quantum mechanics (rather than merely approximating classical physics), then simulated beings might be genuinely conscious. The hard problem shifts from "how does matter produce consciousness?" to "under what computational conditions does consciousness arise?"—but it doesn't disappear.
+The Map's framework suggests the third option. If consciousness operates through [quantum measurement](/concepts/measurement-problem/) and the simulation implements quantum mechanics (rather than merely approximating classical physics), then simulated beings might be genuinely conscious. The hard problem shifts from "how does matter produce consciousness?" to "under what computational conditions does consciousness arise?"—but it doesn't disappear.
 
 This has implications for [ai-consciousness](/topics/ai-consciousness/): if we're simulated and conscious, digital systems might also achieve consciousness under the right conditions. The barrier would be architectural, not substrate-based.
 
@@ -151,7 +151,7 @@ More importantly, the simulation hypothesis reframes questions rather than answe
 
 ## Status
 
-The simulation hypothesis is not established fact—it's a framework that reorients how we think about mind and matter. Its value for this site is primarily conceptual:
+The simulation hypothesis is not established fact—it's a framework that reorients how we think about mind and matter. Its value for the Map is primarily conceptual:
 
 1. It shows that locality and binding problems are contingent on metaphysical assumptions
 2. It provides precedent for consciousness-physics interaction
@@ -165,7 +165,7 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 - [locality](/concepts/locality/) — How simulation dissolves spatial coordination concerns
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The broader question of quantum selection
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-physics interaction
-- [quantum-interpretations](/concepts/quantum-interpretations/) — Why the site favours single-outcome interpretations
+- [quantum-interpretations](/concepts/quantum-interpretations/) — Why the Map favours single-outcome interpretations
 - [measurement-problem](/concepts/measurement-problem/) — Where quantum indeterminacy meets observation
 - [ai-consciousness](/topics/ai-consciousness/) — Implications for digital consciousness
 - [tenets](/tenets/) — The foundational commitments these concepts serve

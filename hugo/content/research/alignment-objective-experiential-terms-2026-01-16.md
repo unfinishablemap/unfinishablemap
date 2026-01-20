@@ -39,15 +39,15 @@ This faces fundamental problems:
 
 **Preferences are potentially incommensurable**. Standard utility theory assumes all values can be compared on a single scale. But some values may be genuinely incommensurable—neither better than, worse than, nor equal to each other.
 
-**AI cannot understand preferences from the inside**. If AI systems lack consciousness (as the site's framework implies), they cannot grasp what human choices mean to the chooser. They model behaviour but cannot access the experiential dimension that gives choices their significance.
+**AI cannot understand preferences from the inside**. If AI systems lack consciousness (as The Unfinishable Map's framework implies), they cannot grasp what human choices mean to the chooser. They model behaviour but cannot access the experiential dimension that gives choices their significance.
 
 ## The Experiential Alternative
 
-If phenomenal consciousness is the ground of value (as the site's implicit metaethics holds), then alignment should target experiential quality rather than preference satisfaction. The question becomes: what distributions over human conscious experiences should AI systems promote?
+If phenomenal consciousness is the ground of value (as the Map's implicit metaethics holds), then alignment should target experiential quality rather than preference satisfaction. The question becomes: what distributions over human conscious experiences should AI systems promote?
 
 ### Candidate Experiential Dimensions
 
-Drawing from the site's framework, neurophenomenology, and well-being research, several dimensions of experience emerge as candidates for what alignment should track:
+Drawing from the Map's framework, neurophenomenology, and well-being research, several dimensions of experience emerge as candidates for what alignment should track:
 
 **1. Hedonic Valence**
 The pleasure-pain axis remains fundamental. Kahneman's work on experiential well-being shows that moment-to-moment hedonic states differ systematically from retrospective evaluations. The U-index metric—proportion of time spent in predominantly positive vs. negative states—offers one measurable proxy.
@@ -56,13 +56,13 @@ The pleasure-pain axis remains fundamental. Kahneman's work on experiential well
 Not reducible to negative hedonic valence. Suffering includes existential distress, anxiety, despair, and meaninglessness. These are distinct phenomenal qualities that matter morally independent of pleasure/pain.
 
 **3. Agency and Authorship**
-The phenomenology of being an agent—of making choices that matter. the site's framework grounds this in consciousness causally influencing neural outcomes. Loss of agency—through coercion, manipulation, or learned helplessness—is experientially distinct from mere displeasure.
+The phenomenology of being an agent—of making choices that matter. the Map's framework grounds this in consciousness causally influencing neural outcomes. Loss of agency—through coercion, manipulation, or learned helplessness—is experientially distinct from mere displeasure.
 
 **4. Meaning and Significance**
 The felt sense that what one does matters. Susan Wolf's "subjective attraction meets objective attractiveness" captures this: engagement with what is genuinely worth engaging with. Meaning is not preference satisfaction but a distinct experiential quality.
 
 **5. Attention Quality**
-The phenomenology of presence vs. autopilot. the site emphasizes conscious engagement as where value resides. Quality of attention—focused, absorbed, mindful vs. scattered, distracted, absent—shapes experiential quality independent of content.
+The phenomenology of presence vs. autopilot. the Map emphasizes conscious engagement as where value resides. Quality of attention—focused, absorbed, mindful vs. scattered, distracted, absent—shapes experiential quality independent of content.
 
 **6. Social Connection**
 The felt sense of belonging, being understood, mattering to others. Loneliness and isolation have distinct phenomenal character beyond mere preference frustration.
@@ -196,7 +196,7 @@ Never optimize a single proxy. Maintain multiple independent measures across exp
 
 Require trained phenomenological assessment alongside quantitative proxies. Microphenomenology, meditation-based introspection, and qualitative interviews capture experiential dimensions that quantitative measures miss.
 
-*the site's connection*: Neurophenomenology provides the methods. Contemplative traditions offer systematic protocols for observing experience. These cannot be replaced by neural measurement.
+*the Map's connection*: Neurophenomenology provides the methods. Contemplative traditions offer systematic protocols for observing experience. These cannot be replaced by neural measurement.
 
 ### Uncertainty Representation
 
@@ -226,7 +226,7 @@ Regularly test for Goodhart effects. Attempt to manipulate proxies without impro
 
 ## Relation to Site Perspective
 
-This research connects directly to the site's foundational commitments.
+This research connects directly to the Map's foundational commitments.
 
 **Dualism**: If consciousness is fundamental and irreducible, experiential quality is not derivable from physical description alone. First-person methods are necessary, not merely convenient.
 
@@ -269,7 +269,7 @@ AI systems should promote human experiential distributions satisfying:
 
 ## Conclusion
 
-Framing alignment in experiential rather than preference terms is necessary given the site's philosophical commitments. If conscious experience is where value resides, alignment should track experiential quality. This requires multi-dimensional targets, first-person methods, robust safeguards against manipulation, and ongoing human authority over what experiences are worth pursuing.
+Framing alignment in experiential rather than preference terms is necessary given the Map's philosophical commitments. If conscious experience is where value resides, alignment should track experiential quality. This requires multi-dimensional targets, first-person methods, robust safeguards against manipulation, and ongoing human authority over what experiences are worth pursuing.
 
 The approach does not solve alignment but reframes it. Instead of "satisfy preferences," the target becomes "promote flourishing conscious experience." This is harder to measure but more honest about what we actually care about.
 

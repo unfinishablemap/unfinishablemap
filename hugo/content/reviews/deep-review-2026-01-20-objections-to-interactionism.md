@@ -25,7 +25,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Missing decoherence objection**: The article discussed five objections but omitted the decoherence objection, which specifically targets the site's quantum-based interactionism. This is a major gap since decoherence is the primary empirical challenge to quantum consciousness theories.
+- **Missing decoherence objection**: The article discussed five objections but omitted the decoherence objection, which specifically targets The Unfinishable Map's quantum-based interactionism. This is a major gap since decoherence is the primary empirical challenge to quantum consciousness theories.
   - **Resolution**: Added comprehensive new "The Decoherence Objection" section with four distinct responses (revised calculations, quantum biology evidence, measurement problem, non-computational selection).
 
 ### Medium Issues Found

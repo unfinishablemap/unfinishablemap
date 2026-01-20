@@ -52,7 +52,7 @@ Altered states of consciousness (ASCs) constitute a diverse family of experience
 - **Type**: Journal Article
 - **Key points**:
   - Proposes ASC as representational notion: "a state in which neurocognitive background mechanisms have increased tendency to produce misrepresentations such as hallucinations, delusions, and memory distortions"
-  - This definition is problematic for the site—it assumes ASCs are *errors* rather than potentially valid modes of consciousness
+  - This definition is problematic for The Unfinishable Map—it assumes ASCs are *errors* rather than potentially valid modes of consciousness
   - Alternative phenomenological definition: states where "subjective experience has changed" from baseline
 - **Tenet alignment**: Conflicts with site framework if ASC content is dismissed as misrepresentation; filter theory would interpret some ASCs as *less filtered* access to reality
 - **Quote**: "An altered state of consciousness is a changed overall pattern of conscious experience."
@@ -196,7 +196,7 @@ Altered states of consciousness (ASCs) constitute a diverse family of experience
   - Different anesthetics produce identical behavioral output with different conscious states
   - NDEs and meditation cessation suggest consciousness can persist with minimal brain activity
   - Correlation proves interface, not production
-- **Relation to site tenets**: Directly aligns with Dualism and Bidirectional Interaction tenets. This is the site's interpretive framework.
+- **Relation to site tenets**: Directly aligns with Dualism and Bidirectional Interaction tenets. This is the Map's interpretive framework.
 
 ### Quantum Consciousness View
 - **Proponents**: Penrose, Hameroff, Stapp
@@ -264,7 +264,7 @@ Based on this research, an article could:
 
 When writing the article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references
-- Background vs. novelty decisions (the site already has substantial coverage of sleep, dreams, meditation—new article should complement rather than duplicate)
+- Background vs. novelty decisions (the Map already has substantial coverage of sleep, dreams, meditation—new article should complement rather than duplicate)
 - Tenet alignment requirements
 - LLM optimization (front-load important information)
 
@@ -277,7 +277,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 ## Relation to Existing Site Content
 
-The site already has substantial coverage of related topics:
+The Map already has substantial coverage of related topics:
 - **[[loss-of-consciousness]]**: Covers anesthesia, coma, disorders of consciousness
 - **[[sleep-and-consciousness]]**: Covers sleep stages, dreaming, offline processing
 - **[[dreams-and-consciousness]]**: Covers REM, lucid dreaming, dream phenomenology

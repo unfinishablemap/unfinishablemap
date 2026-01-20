@@ -76,13 +76,13 @@ The agent-causal answer to "what explains the difference?": The agent explains i
 
 Agent-causalists respond: demanding further explanation assumes event-causal reduction. If agent causation is sui generis, the explanatory buck stops at the agent's exercise of power. The agent *is* the explanation—asking what explains the agent's exercise presupposes that something else must.
 
-## the site's Framework: Selection Is Not Random
+## The Unfinishable Map's Framework: Selection Is Not Random
 
-The site's position strengthens the agent-causal response through the quantum selection mechanism:
+The Map's position strengthens the agent-causal response through the quantum selection mechanism:
 
 ### Not Mere Indeterminism
 
-Standard quantum indeterminism is genuinely random—outcomes are "lucky" in Mele's sense. But the site proposes that consciousness *selects* outcomes rather than merely receiving them. This is a different relationship to indeterminacy:
+Standard quantum indeterminism is genuinely random—outcomes are "lucky" in Mele's sense. But the Map proposes that consciousness *selects* outcomes rather than merely receiving them. This is a different relationship to indeterminacy:
 
 - **Random**: Outcomes within quantum probabilities occur without explanation
 - **Selected**: Consciousness determines which outcome occurs, based on reasons the conscious agent has
@@ -99,7 +99,7 @@ This phenomenology distinguishes selection from luck. Lucky events don't feel li
 
 ### Reasons-Guided Selection
 
-The site's position isn't that consciousness randomly biases quantum outcomes. It's that consciousness selects based on reasons—the same reasons that make actions intelligible. The agent selects A because A serves goals, expresses values, responds to considerations that matter.
+The Map's position isn't that consciousness randomly biases quantum outcomes. It's that consciousness selects based on reasons—the same reasons that make actions intelligible. The agent selects A because A serves goals, expresses values, responds to considerations that matter.
 
 This makes the selection contrastively explicable after all. Why A rather than B? Because the agent had reasons for A. Those reasons didn't *determine* the outcome—alternative possibilities remained genuine—but they *guided* it. Selection is reasons-responsive, not arbitrary.
 
@@ -117,7 +117,7 @@ Derk Pereboom and others argue that event-causal libertarianism faces a "disappe
 
 Agent-causal libertarianism addresses this directly: the agent doesn't disappear because the agent, as substance, is the causal source. The explanation terminates in "the agent caused it," not in prior events.
 
-The site's framework adds mechanism to this answer. The agent—the conscious substance—exercises causal power at quantum indeterminacies. The agent doesn't disappear because consciousness is doing something physics leaves undetermined.
+The Map's framework adds mechanism to this answer. The agent—the conscious substance—exercises causal power at quantum indeterminacies. The agent doesn't disappear because consciousness is doing something physics leaves undetermined.
 
 ## Quantum Selection vs. Luck: Key Distinctions
 
@@ -133,7 +133,7 @@ The site's framework adds mechanism to this answer. The agent—the conscious su
 
 Critics might object: even if consciousness "selects," the selection itself might be lucky. What explains why consciousness selected A rather than B?
 
-The site's response has multiple layers:
+The Map's response has multiple layers:
 
 1. **Reasons**: Consciousness selected A because the agent had reasons for A. This provides contrastive explanation.
 
@@ -145,7 +145,7 @@ The site's response has multiple layers:
 
 ## Implications for Free Will Debates
 
-If the site's framework is correct:
+If the Map's framework is correct:
 
 - **Present luck is avoided**: The agent, through reasons-guided quantum selection, explains which choice occurs
 - **Kane's SFAs are strengthened**: The mechanism for undetermined choice is specified (quantum selection), and the "dual efforts" phenomenology has a physical correlate (competing neural superpositions)
@@ -154,7 +154,7 @@ If the site's framework is correct:
 
 ## What Would Challenge This Response?
 
-The luck objection would succeed against the site's framework if:
+The luck objection would succeed against the Map's framework if:
 
 1. **Consciousness doesn't select**: If quantum outcomes in the brain are genuinely random, not guided by consciousness, the luck objection applies fully.
 

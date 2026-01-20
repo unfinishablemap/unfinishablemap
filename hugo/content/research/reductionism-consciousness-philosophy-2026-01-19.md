@@ -26,7 +26,7 @@ title: Research Notes - Reductionism and Consciousness
 
 ## Executive Summary
 
-Reductionism is the philosophical thesis that complex phenomena can be explained by—and ultimately reduced to—their simpler constituents. Three types must be distinguished: ontological (claims about what exists), methodological (scientific strategy), and epistemic/explanatory (claims about understanding). the site's anti-reductionist stance concerns primarily ontological and explanatory reductionism about consciousness. Key arguments against reducing consciousness to physical processes include: Levine's explanatory gap (physical descriptions don't explain why there is experience), Chalmers' hard problem (functional explanations leave qualia unexplained), and Putnam/Fodor's multiple realizability (same mental state realized by different physical states). Kim's exclusion argument challenges non-reductive views, but the site's quantum framework provides a response by locating consciousness at genuine physical incompleteness.
+Reductionism is the philosophical thesis that complex phenomena can be explained by—and ultimately reduced to—their simpler constituents. Three types must be distinguished: ontological (claims about what exists), methodological (scientific strategy), and epistemic/explanatory (claims about understanding). The Unfinishable Map's anti-reductionist stance concerns primarily ontological and explanatory reductionism about consciousness. Key arguments against reducing consciousness to physical processes include: Levine's explanatory gap (physical descriptions don't explain why there is experience), Chalmers' hard problem (functional explanations leave qualia unexplained), and Putnam/Fodor's multiple realizability (same mental state realized by different physical states). Kim's exclusion argument challenges non-reductive views, but the Map's quantum framework provides a response by locating consciousness at genuine physical incompleteness.
 
 ## Key Sources
 
@@ -205,7 +205,7 @@ Reductionism is the philosophical thesis that complex phenomena can be explained
 
 Based on this research, an article could:
 
-1. **"Reductionism: Types and Limits"** — Concept page distinguishing ontological, methodological, and epistemic reductionism. Explain why the site accepts methodological but rejects ontological reductionism about consciousness. Cover Nagel's bridge law model, the explanatory gap, and multiple realizability. *Strongly aligns with Dualism tenet; provides foundation for understanding site's anti-reductionist stance.*
+1. **"Reductionism: Types and Limits"** — Concept page distinguishing ontological, methodological, and epistemic reductionism. Explain why the Map accepts methodological but rejects ontological reductionism about consciousness. Cover Nagel's bridge law model, the explanatory gap, and multiple realizability. *Strongly aligns with Dualism tenet; provides foundation for understanding site's anti-reductionist stance.*
 
 2. **"Why Consciousness Resists Reduction"** — More focused piece on arguments specific to consciousness: explanatory gap (Levine), hard problem (Chalmers), knowledge argument (Jackson), zombie conceivability. Connect to site's positive proposal—quantum mechanism fills the gap reductionism leaves. *Aligns with Dualism and Bidirectional Interaction tenets.*
 
@@ -222,7 +222,7 @@ This research directly supports:
 - **[emergence](/concepts/emergence/)** — Already covers strong vs weak emergence; reductionism article would be the contrasting concept
 - **[materialism](/arguments/materialism/)** — Reductionism is the explanatory commitment of materialism
 - **[explanatory-gap](/concepts/explanatory-gap/)** — If exists, central to anti-reductionist case
-- **[downward-causation](/concepts/downward-causation/)** — What reductionism denies and the site affirms
+- **[downward-causation](/concepts/downward-causation/)** — What reductionism denies and the Map affirms
 - **[causal-closure](/concepts/causal-closure/)** — The principle reductionists defend and site denies at quantum level
 - **[interactionist-dualism](/archive/arguments/interactionist-dualism/)** — Site's positive alternative to reductionism
 
@@ -271,4 +271,4 @@ Key integration opportunities:
 
 ## Recommended Next Step
 
-Generate a concept page at `obsidian/concepts/reductionism.md` distinguishing the three types of reductionism, explaining why consciousness resists reduction (explanatory gap, multiple realizability, hard problem), and connecting to the site's quantum mechanism for non-reductive causation. The article should be approximately 1500-2000 words.
+Generate a concept page at `obsidian/concepts/reductionism.md` distinguishing the three types of reductionism, explaining why consciousness resists reduction (explanatory gap, multiple realizability, hard problem), and connecting to the Map's quantum mechanism for non-reductive causation. The article should be approximately 1500-2000 words.

@@ -14,7 +14,7 @@ ai_modified: 2026-01-18T12:00:00+00:00
 
 ## Executive Summary
 
-Metacognition—thinking about thinking—occupies a pivotal but contested position in consciousness studies. The research reveals three distinct but interrelated phenomena: (1) metacognitive monitoring (confidence, error detection, feeling of knowing), (2) metacognitive control (using monitoring to regulate behavior), and (3) higher-order representation (the theoretical claim that consciousness requires awareness of one's mental states). The neuroscience converges on prefrontal cortex—particularly anterior PFC/frontopolar cortex—as critical for explicit metacognitive judgments, with fascinating structural connections to lucid dreaming (larger aPFC in lucid dreamers). However, metacognition and phenomenal consciousness may dissociate: blindsight suggests consciousness without metacognitive access; "blind insight" suggests metacognitive discrimination without conscious experience. For the site's framework, metacognition appears to be a cognitive capacity that consciousness *enables* rather than constitutes.
+Metacognition—thinking about thinking—occupies a pivotal but contested position in consciousness studies. The research reveals three distinct but interrelated phenomena: (1) metacognitive monitoring (confidence, error detection, feeling of knowing), (2) metacognitive control (using monitoring to regulate behavior), and (3) higher-order representation (the theoretical claim that consciousness requires awareness of one's mental states). The neuroscience converges on prefrontal cortex—particularly anterior PFC/frontopolar cortex—as critical for explicit metacognitive judgments, with fascinating structural connections to lucid dreaming (larger aPFC in lucid dreamers). However, metacognition and phenomenal consciousness may dissociate: blindsight suggests consciousness without metacognitive access; "blind insight" suggests metacognitive discrimination without conscious experience. For The Unfinishable Map's framework, metacognition appears to be a cognitive capacity that consciousness *enables* rather than constitutes.
 
 ## Key Sources
 
@@ -201,7 +201,7 @@ Based on this research, an article could:
 
 3. **"The Feeling of Knowing"** — Explore metamemory phenomenology (tip-of-tongue, feeling of knowing) as evidence for cognitive phenomenology extending beyond sensory qualia. Already partially covered in semantic-memory.md and cognitive-phenomenology.md—could deepen this.
 
-**Recommended angle**: Option 1 offers the most comprehensive treatment and fills the clearest gap. the site has higher-order-theories.md critiquing HOT but lacks a positive account of metacognition's place in the framework.
+**Recommended angle**: Option 1 offers the most comprehensive treatment and fills the clearest gap. the Map has higher-order-theories.md critiquing HOT but lacks a positive account of metacognition's place in the framework.
 
 When writing the article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references

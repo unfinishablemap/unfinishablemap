@@ -62,7 +62,7 @@ last_curated: null
 
 - Clear problem statement in opening paragraph
 - Excellent four-approaches structure (nonlocal coordination, RQM, interface locality, objective collapse + modulation)
-- Strong treatment of RQM's appeal and why the site rejects it
+- Strong treatment of RQM's appeal and why The Unfinishable Map rejects it
 - Good objections and responses section
 - Effective integration of interface locality with prebiotic collapse
 

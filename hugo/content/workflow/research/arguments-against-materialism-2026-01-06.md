@@ -30,7 +30,7 @@ title: Research Notes - Arguments Against Materialism/Physicalism
 
 ## Executive Summary
 
-This research covers the major philosophical arguments against materialism/physicalism, focusing on the hard problem of consciousness, the zombie argument, Mary's Room, quantum mechanical objections, and the explanatory gap. The arguments share a common structure: they identify aspects of conscious experience that appear logically or metaphysically separable from physical facts, suggesting that consciousness cannot be reduced to or fully explained by physical processes. The research also covers major objections to these arguments and how dualists respond. Nearly all of these arguments strongly align with the site's foundational tenets, particularly the Dualism tenet and the claim that the explanatory gap remains unbridged.
+This research covers the major philosophical arguments against materialism/physicalism, focusing on the hard problem of consciousness, the zombie argument, Mary's Room, quantum mechanical objections, and the explanatory gap. The arguments share a common structure: they identify aspects of conscious experience that appear logically or metaphysically separable from physical facts, suggesting that consciousness cannot be reduced to or fully explained by physical processes. The research also covers major objections to these arguments and how dualists respond. Nearly all of these arguments strongly align with The Unfinishable Map's foundational tenets, particularly the Dualism tenet and the claim that the explanatory gap remains unbridged.
 
 ---
 
@@ -137,7 +137,7 @@ This research covers the major philosophical arguments against materialism/physi
 
 **Notable formulation**: "The really hard problem of consciousness is the problem of experience. When we think and perceive, there is a whir of information-processing, but there is also a subjective aspect."
 
-**Relation to site tenets**: This is the core rationale for the Dualism tenet. the site explicitly states: "The explanatory gap between physical descriptions and subjective experience remains unbridged. No amount of neurological detail tells us *why* there is something it is like to be conscious."
+**Relation to site tenets**: This is the core rationale for the Dualism tenet. the Map explicitly states: "The explanatory gap between physical descriptions and subjective experience remains unbridged. No amount of neurological detail tells us *why* there is something it is like to be conscious."
 
 ---
 
@@ -201,7 +201,7 @@ This research covers the major philosophical arguments against materialism/physi
 
 **Key formulation**: "Psycho-physical identity statements leave a significant explanatory gap."
 
-**Relation to site tenets**: Supports Dualism tenet rationale. the site states the explanatory gap "remains unbridged."
+**Relation to site tenets**: Supports Dualism tenet rationale. the Map states the explanatory gap "remains unbridged."
 
 ---
 
@@ -258,9 +258,9 @@ This research covers the major philosophical arguments against materialism/physi
 **Relation to site tenets**:
 - Directly supports **Minimal Quantum Interaction** tenet: "If consciousness can influence the physical world, it must do so at the quantum level—biasing otherwise indeterminate outcomes without injecting energy or violating conservation laws."
 - Supports **Bidirectional Interaction** tenet: consciousness causally influences physical outcomes
-- Supports **No Many Worlds** tenet: the site rejects MWI, which would eliminate the need for collapse
+- Supports **No Many Worlds** tenet: the Map rejects MWI, which would eliminate the need for collapse
 
-**Caveats**: Von Neumann-Wigner interpretation is now largely discarded. the site explicitly warns against "quantum woo" and treats this as "a constrained philosophical hypothesis about the mind-body problem, not an endorsement of quantum mysticism."
+**Caveats**: Von Neumann-Wigner interpretation is now largely discarded. the Map explicitly warns against "quantum woo" and treats this as "a constrained philosophical hypothesis about the mind-body problem, not an endorsement of quantum mysticism."
 
 ---
 
@@ -295,7 +295,7 @@ This research covers the major philosophical arguments against materialism/physi
 
 **Swinburne's position**: "Persons are essentially pure mental substances whose sameness over time is constituted by a unique 'thisness'."
 
-**Relation to site tenets**: Supports substance dualism version of Dualism tenet. Note: the site's tenet is compatible with property dualism and doesn't require commitment to soul/substance.
+**Relation to site tenets**: Supports substance dualism version of Dualism tenet. Note: the Map's tenet is compatible with property dualism and doesn't require commitment to soul/substance.
 
 ---
 

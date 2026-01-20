@@ -139,11 +139,11 @@ The quantum biology evidence surveyed here strengthens the case that decoherence
 
 [[illusionism|Illusionists]] like Daniel Dennett and Keith Frankish might dismiss the quantum biology debate as solving the wrong problem. If phenomenal consciousness is an introspective illusion—if there's nothing non-physical to explain—then quantum mechanisms have no work to do. The "hard problem" dissolves, and with it the motivation for consciousness-quantum interface theories.
 
-The site's response: illusionism faces its own explanatory burden. The "illusion" of phenomenal consciousness must itself be explained—and the "illusion problem" may be as difficult as the hard problem it claims to dissolve. As Raymond Tallis observes, "Misrepresentation presupposes presentation"—to be under an illusion, something must be experiencing the illusion. [[introspection|Introspective access]] to our mental states, while fallible for causal processes, appears reliable for phenomenal content. The very fact that we discuss consciousness—that information about experience flows into physical behaviour—suggests consciousness has causal efficacy.
+The Unfinishable Map's response: illusionism faces its own explanatory burden. The "illusion" of phenomenal consciousness must itself be explained—and the "illusion problem" may be as difficult as the hard problem it claims to dissolve. As Raymond Tallis observes, "Misrepresentation presupposes presentation"—to be under an illusion, something must be experiencing the illusion. [[introspection|Introspective access]] to our mental states, while fallible for causal processes, appears reliable for phenomenal content. The very fact that we discuss consciousness—that information about experience flows into physical behaviour—suggests consciousness has causal efficacy.
 
 More directly: quantum biology's empirical findings are independent of the illusionism debate. Whether consciousness is "real" or "illusory," the evidence that warm biological systems harness quantum effects stands. Photosynthesis, magnetoreception, and enzyme catalysis demonstrate quantum phenomena in living systems regardless of one's position on phenomenal consciousness. What the evidence challenges is the assumption that biology must be classical.
 
-## Implications for this site's Framework
+## Implications for the Map's Framework
 
 ### Strengthening Minimal Quantum Interaction
 
@@ -153,7 +153,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet pr
 
 2. **Varied timescales**: Different quantum effects have different coherence requirements. Enzyme tunneling is instantaneous; magnetoreception maintains coherence for microseconds. The relevant timescale for consciousness-quantum interaction hasn't been established.
 
-3. **Measurement, not coherence**: the site's framework requires only that consciousness bias outcomes at the moment of measurement—not that it maintain long-lived superpositions. As the [[decoherence]] article explains, decoherence doesn't solve the [[measurement-problem]]—it merely selects preferred bases. Something must still determine which outcome becomes actual.
+3. **Measurement, not coherence**: the Map's framework requires only that consciousness bias outcomes at the moment of measurement—not that it maintain long-lived superpositions. As the [[decoherence]] article explains, decoherence doesn't solve the [[measurement-problem]]—it merely selects preferred bases. Something must still determine which outcome becomes actual.
 
 ### The Measurement Problem Connection
 
@@ -163,7 +163,7 @@ Every quantum biological effect ultimately involves the measurement problem:
 - **Magnetoreception**: Which spin state is measured?
 - **Enzyme catalysis**: Does the particle tunnel or not?
 
-Standard physics provides probabilities for outcomes but doesn't determine which outcome occurs. Quantum biology demonstrates that outcome selection happens constantly in biological systems. Whether consciousness plays any role in neural outcome selection remains the site's central hypothesis.
+Standard physics provides probabilities for outcomes but doesn't determine which outcome occurs. Quantum biology demonstrates that outcome selection happens constantly in biological systems. Whether consciousness plays any role in neural outcome selection remains the Map's central hypothesis.
 
 ### What Quantum Biology Does Not Show
 
@@ -171,7 +171,7 @@ Standard physics provides probabilities for outcomes but doesn't determine which
 
 2. **Long-lived neural coherence**: Whether coherence persists long enough for neural quantum computation remains empirically open.
 
-3. **The specific mechanism**: Neither Orch OR nor QBIT has been confirmed. the site doesn't commit to a specific quantum consciousness mechanism.
+3. **The specific mechanism**: Neither Orch OR nor QBIT has been confirmed. the Map doesn't commit to a specific quantum consciousness mechanism.
 
 ### What Quantum Biology Does Show
 
@@ -183,15 +183,15 @@ Standard physics provides probabilities for outcomes but doesn't determine which
 
 ## Relation to Site Perspective
 
-The site's position on quantum biology connects to all five tenets:
+The Map's position on quantum biology connects to all five tenets:
 
-**[[tenets#^dualism|Dualism]]**: Quantum biology doesn't prove dualism, but it removes a major objection. If consciousness interfaces with physics at quantum indeterminacies—as the site holds—critics often claim such effects couldn't occur in warm biological systems. The evidence surveyed here shows that claim is empirically false.
+**[[tenets#^dualism|Dualism]]**: Quantum biology doesn't prove dualism, but it removes a major objection. If consciousness interfaces with physics at quantum indeterminacies—as the Map holds—critics often claim such effects couldn't occur in warm biological systems. The evidence surveyed here shows that claim is empirically false.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The tenet proposes consciousness biases quantum outcomes without injecting energy. Quantum biology demonstrates the relevant substrate exists: biological systems routinely involve quantum indeterminacies where outcomes are undetermined. Magnetoreception shows evolution can optimise such effects; the question is whether neural systems do likewise.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness causally influences the physical world, it needs a mechanism. Quantum measurement—where physics leaves outcomes genuinely undetermined—provides one. Quantum biology's demonstration that warm systems can harness quantum effects strengthens the case that neural quantum measurement is biologically plausible.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: the site rejects Many-Worlds because it makes consciousness epiphenomenal with respect to outcomes—all branches occur, so "selection" is illusory. Quantum biology matters only if collapse is real. The [[measurement-problem]] remains open; decoherence selects bases but doesn't explain definite outcomes. Consciousness remains a candidate for what determines which outcome becomes actual.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: the Map rejects Many-Worlds because it makes consciousness epiphenomenal with respect to outcomes—all branches occur, so "selection" is illusory. Quantum biology matters only if collapse is real. The [[measurement-problem]] remains open; decoherence selects bases but doesn't explain definite outcomes. Consciousness remains a candidate for what determines which outcome becomes actual.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The assumption that warm biology must be classical seemed parsimonious. Nature proved uncooperative. Birds navigate using quantum entanglement; enzymes accelerate reactions through quantum tunnelling. Simplicity pointed in the wrong direction. The same caution applies to dismissing neural quantum effects: what seems implausible may reflect our ignorance rather than nature's constraints.
 
@@ -213,7 +213,7 @@ This framework doesn't depend on specific decoherence timescales because it does
 
 ## What Would Challenge This View?
 
-The site's position on quantum biology would face serious difficulty if:
+The Map's position on quantum biology would face serious difficulty if:
 
 1. **All biological quantum effects prove non-functional**: If magnetoreception, enzyme catalysis, and other quantum phenomena turn out to be epiphenomenal—byproducts that natural selection never exploited—the analogy to consciousness weakens. Currently, magnetoreception provides strong evidence that evolution *can* optimise quantum coherence for function.
 
@@ -235,8 +235,8 @@ The site's position on quantum biology would face serious difficulty if:
 - [[illusionism]] — The eliminativist challenge to consciousness studies
 - [[introspection]] — Reliability of first-person data
 - [[mysterianism]] — Cognitive closure and the limits of understanding
-- [[many-worlds]] — Why the site rejects Many-Worlds
-- [[tenets]] — the site's foundational commitments including Minimal Quantum Interaction
+- [[many-worlds]] — Why the Map rejects Many-Worlds
+- [[tenets]] — the Map's foundational commitments including Minimal Quantum Interaction
 - [[quantum-biology-consciousness-2026-01-16]] — Research notes on quantum biology evidence
 
 ## References

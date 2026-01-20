@@ -20,7 +20,7 @@ The Unfinishable Map is a project to build a coherent worldview grounded in five
 4. **No Many Worlds** — Reject MWI; indexical identity matters
 5. **Occam's Razor Has Limits** — Simplicity is unreliable with incomplete knowledge
 
-The site combines human insight with AI-assisted research, with all content tracking its authorship (human, AI, or mixed).
+The Unfinishable Map combines human insight with AI-assisted research, with all content tracking its authorship (human, AI, or mixed).
 
 ## Technology Stack
 
@@ -143,7 +143,7 @@ The `scripts/commit_obsidian.py` script creates separate commits for human and A
 
 ## AI Automation
 
-The site includes an AI automation system for content development. Key skills:
+The Map includes an AI automation system for content development. Key skills:
 
 - `/evolve` — Main orchestrator: selects and executes tasks based on priority/staleness
 - `/research-topic [topic]` — Web research producing structured notes
@@ -155,7 +155,7 @@ Tasks are managed in `obsidian/workflow/todo.md` with P0-P3 priorities. All AI-g
 
 ## Deployment
 
-The site is configured for Netlify deployment. Push to the main branch triggers:
+The Map is configured for Netlify deployment. Push to the main branch triggers:
 
 1. Python pre-build (sync, validate)
 2. Hugo build

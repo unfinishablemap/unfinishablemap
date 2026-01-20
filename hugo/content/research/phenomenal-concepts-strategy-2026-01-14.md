@@ -133,9 +133,9 @@ A 2020 PhilPapers survey found 62.4% of philosophers consider the hard problem g
 
 ## Relevance to Site's Framework
 
-The phenomenal concept strategy is directly relevant to the site's [tenets](/tenets/):
+The phenomenal concept strategy is directly relevant to The Unfinishable Map's [tenets](/tenets/):
 
-**Dualism:** PCS is the strongest challenge to dualism. If PCS succeeds, the explanatory gap doesn't indicate an ontological gap, and the main argument for dualism fails. the site should engage PCS carefully rather than dismissing it.
+**Dualism:** PCS is the strongest challenge to dualism. If PCS succeeds, the explanatory gap doesn't indicate an ontological gap, and the main argument for dualism fails. the Map should engage PCS carefully rather than dismissing it.
 
 However, Chalmers's master argument suggests deep problems with PCS. The dilemma—that features explaining the gap can't themselves be physical—points to something special about consciousness that physical explanation cannot capture.
 

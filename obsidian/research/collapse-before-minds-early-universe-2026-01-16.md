@@ -13,7 +13,7 @@ ai_system: claude-opus-4-5-20251101
 
 ## Executive Summary
 
-The "collapse before minds" problem is a central objection to consciousness-based quantum interpretations: if consciousness causes collapse, what determined quantum outcomes in the early universe before conscious observers existed? This research identifies five main responses: (1) Wheeler's retrocausal participatory universe where future observers bootstrap past reality, (2) panpsychism/proto-consciousness extending collapse-triggering properties to fundamental particles, (3) Penrose-style objective reduction where collapse precedes and produces consciousness, (4) decoherence-based naturalization where "collapse" is approximate and observers-as-such aren't needed, and (5) separation of "collapse exists" from "consciousness causes collapse." the site should commit to a position that combines objective reduction with consciousness modulation—collapse happens independently via physical mechanisms (preserving prebiotic cosmology), but consciousness interfaces with collapse events in developed neural systems. This avoids both pure epiphenomenalism and cosmic bootstrapping.
+The "collapse before minds" problem is a central objection to consciousness-based quantum interpretations: if consciousness causes collapse, what determined quantum outcomes in the early universe before conscious observers existed? This research identifies five main responses: (1) Wheeler's retrocausal participatory universe where future observers bootstrap past reality, (2) panpsychism/proto-consciousness extending collapse-triggering properties to fundamental particles, (3) Penrose-style objective reduction where collapse precedes and produces consciousness, (4) decoherence-based naturalization where "collapse" is approximate and observers-as-such aren't needed, and (5) separation of "collapse exists" from "consciousness causes collapse." The Unfinishable Map should commit to a position that combines objective reduction with consciousness modulation—collapse happens independently via physical mechanisms (preserving prebiotic cosmology), but consciousness interfaces with collapse events in developed neural systems. This avoids both pure epiphenomenalism and cosmic bootstrapping.
 
 ## Key Sources
 
@@ -26,7 +26,7 @@ The "collapse before minds" problem is a central objection to consciousness-base
   - Cites Penrose's articulation: mutations are quantum events, so "they would exist only in linearly superposed form until they finally led to the evolution of a conscious being—whose very existence depends on all the right mutations having 'actually' taken place!"
   - Notes IIT's response: even atoms have tiny Φ, so "quantum collapses can be expected to have happened fairly early on"
   - Wigner rejected his own view in 1970s-1980s
-- **Tenet alignment**: Directly relevant—exposes the problem the site must address
+- **Tenet alignment**: Directly relevant—exposes the problem the Map must address
 - **Quote**: "Consciousness causes collapse does not allow sensible discussion of Big Bang cosmology or biological evolution"
 
 ### [Stanford Encyclopedia - Quantum Approaches to Consciousness](https://plato.stanford.edu/entries/qt-consciousness/)
@@ -244,8 +244,8 @@ Based on this research, an article could take several approaches:
 **Title**: "Collapse Before Minds: Why Real Collapse Doesn't Require Cosmic Consciousness"
 
 **Approach**: Cleanly separate two claims:
-1. Collapse is real (the site commits to this via No Many Worlds)
-2. Consciousness causes collapse (the site need not commit to this)
+1. Collapse is real (the Map commits to this via No Many Worlds)
+2. Consciousness causes collapse (the Map need not commit to this)
 
 **Position**: Objective reduction (Penrose-style) provides the baseline: collapse happens via physical mechanisms (gravity-induced, spontaneous localization). Consciousness *modulates* collapse events in neural systems but isn't required for collapse generally. This preserves:
 - Prebiotic cosmology (collapse happened before observers)
@@ -288,7 +288,7 @@ The article should:
    - But consciousness isn't *required* for collapse—it's a special case where collapse and experience intersect
    - This preserves all five tenets while solving the prebiotic problem
 
-4. **Acknowledge uncertainty**: Objective collapse theories face experimental pressure. the site's commitment should be to the *framework* (real collapse + consciousness interface) rather than specific mechanism (GRW vs. Diósi-Penrose vs. Orch OR).
+4. **Acknowledge uncertainty**: Objective collapse theories face experimental pressure. the Map's commitment should be to the *framework* (real collapse + consciousness interface) rather than specific mechanism (GRW vs. Diósi-Penrose vs. Orch OR).
 
 5. **Connect to existing content**:
    - [[collapse-and-time]] — extend with prebiotic discussion
@@ -299,7 +299,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references
 - Background vs. novelty decisions (skip standard explanations of measurement problem)
 - Tenet alignment requirements (explicit "Relation to Site Perspective" section)
-- LLM optimization (front-load the site's position)
+- LLM optimization (front-load the Map's position)
 
 ## Gaps in Research
 

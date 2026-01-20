@@ -14,7 +14,7 @@ ai_system: claude-opus-4-5-20251101
 
 ## Executive Summary
 
-Sleep presents a puzzle for consciousness: why would evolution produce a state where awareness is reduced and organisms become vulnerable to predators? The dominant answer is that sleep serves the brain—specifically, offline memory processing that cannot occur during wakefulness. Recent research (2024-2025) reveals that memory consolidation during sleep operates largely *without* consciousness, even though it shapes what conscious experience will be available upon waking. This creates a fascinating interface between the site's treatment of consciousness and its treatment of memory.
+Sleep presents a puzzle for consciousness: why would evolution produce a state where awareness is reduced and organisms become vulnerable to predators? The dominant answer is that sleep serves the brain—specifically, offline memory processing that cannot occur during wakefulness. Recent research (2024-2025) reveals that memory consolidation during sleep operates largely *without* consciousness, even though it shapes what conscious experience will be available upon waking. This creates a fascinating interface between The Unfinishable Map's treatment of consciousness and its treatment of memory.
 
 Key findings:
 1. **Memory reactivation during NREM sleep is largely unconscious**—multiple memories can be replayed simultaneously without the bottleneck of conscious processing
@@ -113,7 +113,7 @@ Lucid dreaming demonstrates that:
 2. **Prefrontal engagement correlates with reflective awareness**—matching findings from waking consciousness studies
 3. **The "interface" can partially reactivate during sleep**—attention and metacognition return even while the brain remains in REM physiology
 
-For the site's framework, lucid dreaming suggests the consciousness-brain interface can be variably engaged even when the brain is in an offline state. The interface isn't simply "on" or "off"—it has multiple channels and gradations.
+For the Map's framework, lucid dreaming suggests the consciousness-brain interface can be variably engaged even when the brain is in an offline state. The interface isn't simply "on" or "off"—it has multiple channels and gradations.
 
 ## Sleep vs. Anesthesia: Crucial Differences
 
@@ -147,7 +147,7 @@ This happens without the unity and exclusivity characteristic of conscious bindi
 
 ### Implications for Interface Hypothesis
 
-If the site's framework holds that consciousness provides a selection/integration function through attention-mediated quantum effects, sleep presents an interesting case: integration happens, but through a different mechanism—one that doesn't require the consciousness channel.
+If the Map's framework holds that consciousness provides a selection/integration function through attention-mediated quantum effects, sleep presents an interesting case: integration happens, but through a different mechanism—one that doesn't require the consciousness channel.
 
 This could support the interface hypothesis: during waking, consciousness selects among alternatives and integrates through the attention interface. During sleep, the brain performs complementary processing that doesn't require selection (it's not navigating current reality) and can integrate through different, potentially more parallel mechanisms.
 
@@ -163,7 +163,7 @@ Lucid dreaming exemplifies bidirectional interaction during sleep: the lucid dre
 
 ### Minimal Quantum Interaction
 
-The site proposes consciousness operates through attention-mediated quantum selection. During NREM sleep, when attention is offline, the quantum selection mechanism would be disengaged. This may explain why memory consolidation proceeds unconsciously—without the attention interface, there is no selection among alternatives, just parallel replay of established patterns.
+The Map proposes consciousness operates through attention-mediated quantum selection. During NREM sleep, when attention is offline, the quantum selection mechanism would be disengaged. This may explain why memory consolidation proceeds unconsciously—without the attention interface, there is no selection among alternatives, just parallel replay of established patterns.
 
 REM dreaming might represent partial reengagement of the interface—enough to produce phenomenal experience but typically without the metacognitive attention that characterizes waking. Lucid dreaming would then represent fuller reengagement of the attention interface even during REM physiology.
 

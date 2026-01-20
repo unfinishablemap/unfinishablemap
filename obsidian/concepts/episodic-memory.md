@@ -38,7 +38,7 @@ last_deep_review: 2026-01-20T16:30:00+00:00
 
 Episodic memory stores experienced events—your first day at school, yesterday's breakfast, the moment you learned some terrible news. Unlike [[semantic-memory|semantic memory]] (knowing facts) or [[implicit-memory|implicit memory]] (skills and habits), episodic memory is autobiographical: it records what happened *to you*, *when*, and *where*. When you retrieve an episodic memory, you don't merely access information—you re-experience the event, re-inhabiting it with first-person phenomenology. This distinctive relationship between memory and consciousness is what Tulving captured with the term [[autonoetic-consciousness|autonoetic consciousness]].
 
-Episodic memory matters for the site's framework because it reveals that remembering is not data retrieval but re-experiencing. The constructive nature of memory, the role of hippocampal binding, and the phenomenology of "pastness" all suggest that episodic memory is consciousness-constituted in ways purely computational accounts cannot capture. If memories are reconstructed rather than retrieved, and if reconstruction generates phenomenal experience rather than merely accessing stored representations, then memory itself becomes evidence for the irreducibility of consciousness.
+Episodic memory matters for The Unfinishable Map's framework because it reveals that remembering is not data retrieval but re-experiencing. The constructive nature of memory, the role of hippocampal binding, and the phenomenology of "pastness" all suggest that episodic memory is consciousness-constituted in ways purely computational accounts cannot capture. If memories are reconstructed rather than retrieved, and if reconstruction generates phenomenal experience rather than merely accessing stored representations, then memory itself becomes evidence for the irreducibility of consciousness.
 
 ## The Encoding/Retrieval Distinction
 
@@ -101,7 +101,7 @@ This reveals a distinction:
 1. **Computational binding**: Neural operations that integrate distributed information
 2. **Phenomenal binding**: The unified experiential result
 
-Sleep consolidation involves computational binding without phenomenal binding. The same operations that during waking would produce experienced unity proceed during sleep without the experiential product. This supports the site's framework: consciousness isn't identical to binding computation but interfaces with the brain through specific mechanisms (attention, working memory manipulation, global broadcast) that are offline during NREM consolidation.
+Sleep consolidation involves computational binding without phenomenal binding. The same operations that during waking would produce experienced unity proceed during sleep without the experiential product. This supports the Map's framework: consciousness isn't identical to binding computation but interfaces with the brain through specific mechanisms (attention, working memory manipulation, global broadcast) that are offline during NREM consolidation.
 
 ### What Consolidation Reveals
 
@@ -156,7 +156,7 @@ The [[binding-problem|binding problem]] in consciousness asks how distributed ne
 
 If the hippocampus generates unified conscious experience through the same processes that encode unified memories, then memory formation is constitutively linked to consciousness. You don't first have a conscious experience and then store it—the binding that creates the experience and the binding that creates the memory may be identical or intimately related operations.
 
-This convergence supports the site's framework. If consciousness and memory share a binding mechanism, then the hard problem for consciousness is also a problem for memory. The phenomenal character of re-experiencing—the "what it is like" to remember—might be the same mechanism that generated the "what it is like" of the original experience, now reactivated in reconstruction.
+This convergence supports the Map's framework. If consciousness and memory share a binding mechanism, then the hard problem for consciousness is also a problem for memory. The phenomenal character of re-experiencing—the "what it is like" to remember—might be the same mechanism that generated the "what it is like" of the original experience, now reactivated in reconstruction.
 
 ## The Encoding/Retrieval Asymmetry
 
@@ -290,13 +290,13 @@ The irreducibility of memorial phenomenology would be challenged by:
 
 1. **Phenomenology dissolving under analysis.** If careful introspection revealed the pastness quale to be constructed from simpler, non-phenomenal elements, this would support reductionism. Instead, closer attention intensifies rather than decomposes the phenomenon.
 
-2. **Functionally equivalent systems lacking phenomenology.** If we discovered beings that showed all functional signs of episodic memory (cue-dependent retrieval, source memory, remember/know discrimination) but genuinely lacked re-experiencing, this would suggest phenomenology is separable from the functional architecture. the site predicts this is impossible for systems with the relevant conscious architecture.
+2. **Functionally equivalent systems lacking phenomenology.** If we discovered beings that showed all functional signs of episodic memory (cue-dependent retrieval, source memory, remember/know discrimination) but genuinely lacked re-experiencing, this would suggest phenomenology is separable from the functional architecture. the Map predicts this is impossible for systems with the relevant conscious architecture.
 
 3. **Pastness as fully inferential.** If the felt pastness of memories were demonstrated to arise entirely from inference about temporal markers (like timestamps on files), with no intrinsic phenomenal character, this would undermine the quale claim. But introspection consistently reveals pastness as immediately given, not inferred.
 
 4. **Buddhist phenomenology contradicting the view.** If advanced meditators reliably reported that the pastness quale dissolves completely upon close examination (rather than becoming more vivid as an observed property), this would support illusionism about temporal qualia.
 
-5. **Successful artificial episodic memory.** If a computational system demonstrated genuine episodic memory—including remember/know phenomenology—without any quantum or consciousness involvement, this would challenge the proposed connection between binding and phenomenal consciousness. the site predicts such systems would fail to replicate true autonoetic re-experiencing.
+5. **Successful artificial episodic memory.** If a computational system demonstrated genuine episodic memory—including remember/know phenomenology—without any quantum or consciousness involvement, this would challenge the proposed connection between binding and phenomenal consciousness. the Map predicts such systems would fail to replicate true autonoetic re-experiencing.
 
 ## Relation to Site Perspective
 
@@ -312,7 +312,7 @@ Episodic memory supports all five foundational commitments.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The "simpler" computational theory of memory—storage and retrieval of information—fails to account for the phenomenal facts. Adding phenomenology to the theory isn't unnecessary complexity but recognition of what memory actually involves. The remember/know distinction demonstrates that the same information can be accessed with or without experiential re-living, suggesting phenomenology isn't reducible to information content. Dismissing the phenomenology as "less parsimonious" assumes we understand memory well enough to judge what's essential. We don't.
 
-**[[binding-problem|Binding]]**: The hippocampal binding that creates unified episodes may be the same mechanism that creates unified conscious experience. If so, the binding problem for memory and the binding problem for consciousness converge. the site's framework—that consciousness is involved in binding rather than being a byproduct of it—applies to both. Memory would then be not just consciousness-dependent but consciousness-constituted.
+**[[binding-problem|Binding]]**: The hippocampal binding that creates unified episodes may be the same mechanism that creates unified conscious experience. If so, the binding problem for memory and the binding problem for consciousness converge. the Map's framework—that consciousness is involved in binding rather than being a byproduct of it—applies to both. Memory would then be not just consciousness-dependent but consciousness-constituted.
 
 ## Further Reading
 

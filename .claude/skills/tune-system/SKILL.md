@@ -5,7 +5,7 @@ description: Review automation system operation and make conservative adjustment
 
 # Tune System
 
-A meta-review skill that analyzes the automation system's own operation and makes conservative, evidence-based adjustments. Mirrors the site's "Minimal Quantum Interaction" tenet: small, precise interventions with clear justification.
+A meta-review skill that analyzes the automation system's own operation and makes conservative, evidence-based adjustments. Mirrors The Unfinishable Map's "Minimal Quantum Interaction" tenet: small, precise interventions with clear justification.
 
 ## When to Use
 

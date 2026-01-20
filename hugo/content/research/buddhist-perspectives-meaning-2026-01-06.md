@@ -28,7 +28,7 @@ topics: []
 
 ## Executive Summary
 
-Buddhist philosophy offers a distinctive approach to meaning that differs markedly from both Western nihilism and Western dualism. Rather than locating meaning in a cosmic purpose or eternal soul, Buddhism diagnoses the *desire* for such meaning as itself a source of suffering. The path to liberation (nirvana) involves recognizing the impermanence of all phenomena, including the self, and cultivating compassion and wisdom. This creates both tensions and surprising convergences with the site's tenets—particularly around consciousness, the nature of self, and the hard problem.
+Buddhist philosophy offers a distinctive approach to meaning that differs markedly from both Western nihilism and Western dualism. Rather than locating meaning in a cosmic purpose or eternal soul, Buddhism diagnoses the *desire* for such meaning as itself a source of suffering. The path to liberation (nirvana) involves recognizing the impermanence of all phenomena, including the self, and cultivating compassion and wisdom. This creates both tensions and surprising convergences with The Unfinishable Map's tenets—particularly around consciousness, the nature of self, and the hard problem.
 
 ---
 
@@ -106,7 +106,7 @@ Buddhist philosophy offers a distinctive approach to meaning that differs marked
   - The five aggregates (body, feelings, perceptions, mental formations, consciousness) are all impermanent
   - Belief in a permanent self causes attachment and suffering
   - Liberation comes from recognizing non-self
-- **Relation to site tenets**: **Tension with Dualism tenet**. the site commits to consciousness as irreducible; Buddhism denies any permanent conscious self. However, Buddhism doesn't deny consciousness exists—it denies consciousness is a *permanent substance*. This may be compatible with property dualism while conflicting with substance dualism.
+- **Relation to site tenets**: **Tension with Dualism tenet**. the Map commits to consciousness as irreducible; Buddhism denies any permanent conscious self. However, Buddhism doesn't deny consciousness exists—it denies consciousness is a *permanent substance*. This may be compatible with property dualism while conflicting with substance dualism.
 
 ### Yogācāra (Mind-Only) School
 - **Proponents**: Vasubandhu, Asaṅga (4th-5th century CE)
@@ -189,7 +189,7 @@ Buddhist philosophy offers a distinctive approach to meaning that differs marked
 - Yogācāra school treats consciousness as fundamental (partial alignment)
 - Madhyamaka rejects inherent existence of both mind and matter (potential conflict)
 
-**Key question**: Can the site's dualism be formulated as "consciousness is irreducible" without requiring "consciousness is a permanent substance"? If so, Buddhism and site tenets may be more compatible than they first appear.
+**Key question**: Can the Map's dualism be formulated as "consciousness is irreducible" without requiring "consciousness is a permanent substance"? If so, Buddhism and site tenets may be more compatible than they first appear.
 
 ### Minimal Quantum Interaction / Bidirectional Interaction
 **Alignment**: Not directly addressed
@@ -197,7 +197,7 @@ Buddhist philosophy offers a distinctive approach to meaning that differs marked
 - Buddhist emphasis on mental causation (karma) implies mind affects physical outcomes
 - Some contemporary Buddhists (e.g., Dalai Lama in dialogue with physicists) express interest in quantum consciousness theories
 
-**Potential bridge**: Both Buddhism and the site reject epiphenomenalism—both hold that mental states have causal consequences
+**Potential bridge**: Both Buddhism and the Map reject epiphenomenalism—both hold that mental states have causal consequences
 
 ### No Many Worlds
 **Alignment**: Neutral
@@ -219,11 +219,11 @@ Based on this research, articles could explore:
 
 1. **Buddhism and the Hard Problem** - How Buddhist analysis of consciousness relates to Chalmers' hard problem. Buddhism doesn't explain *why* there is experience but offers a path to transform it. Could align with site's acceptance that the explanatory gap may be permanent.
 
-2. **No-Self vs. Dualism: A Reconciliation?** - Explore whether the site's commitment to irreducible consciousness is compatible with Buddhist denial of permanent self. Key move: distinguish "consciousness is real and irreducible" from "consciousness is a permanent substance."
+2. **No-Self vs. Dualism: A Reconciliation?** - Explore whether the Map's commitment to irreducible consciousness is compatible with Buddhist denial of permanent self. Key move: distinguish "consciousness is real and irreducible" from "consciousness is a permanent substance."
 
 3. **Buddhist Ethics and Meaning-Making** - How Buddhism approaches meaning through practice (meditation, ethics, wisdom) rather than metaphysical grounding. Could connect to existentialism article's theme of creating meaning.
 
-4. **Karma and Bidirectional Interaction** - Both Buddhism and the site reject epiphenomenalism. Buddhist doctrine of karma implies mental states causally affect the world. Compare with site's quantum mechanism proposal.
+4. **Karma and Bidirectional Interaction** - Both Buddhism and the Map reject epiphenomenalism. Buddhist doctrine of karma implies mental states causally affect the world. Compare with site's quantum mechanism proposal.
 
 5. **Eastern and Western Responses to Nihilism** - Compare Buddhist and existentialist responses to meaninglessness. Both acknowledge absence of inherent meaning; both propose practical responses rather than despair.
 

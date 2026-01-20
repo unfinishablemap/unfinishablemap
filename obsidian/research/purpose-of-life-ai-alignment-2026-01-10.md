@@ -28,7 +28,7 @@ tag: diversion
 
 ## Executive Summary
 
-AI alignment—the site of ensuring AI systems behave in accordance with human values—implicitly assumes we know what human values are, and ultimately, what purpose humans serve. But this is precisely the question philosophers have debated for millennia. The dominant "preferentist" approach to alignment (learning from human preferences) has been critiqued as inadequate: preferences fail to capture the thick semantic content of human values and may be systematically mistaken about what truly matters. If we cannot correctly align AI without knowing humanity's purpose, and we don't know that purpose, then alignment work may be building on unstable foundations. This creates a surprising connection between ancient philosophical questions about life's meaning and cutting-edge AI safety research.
+AI alignment—The Unfinishable Map of ensuring AI systems behave in accordance with human values—implicitly assumes we know what human values are, and ultimately, what purpose humans serve. But this is precisely the question philosophers have debated for millennia. The dominant "preferentist" approach to alignment (learning from human preferences) has been critiqued as inadequate: preferences fail to capture the thick semantic content of human values and may be systematically mistaken about what truly matters. If we cannot correctly align AI without knowing humanity's purpose, and we don't know that purpose, then alignment work may be building on unstable foundations. This creates a surprising connection between ancient philosophical questions about life's meaning and cutting-edge AI safety research.
 
 ## Key Sources
 
@@ -63,7 +63,7 @@ AI alignment—the site of ensuring AI systems behave in accordance with human v
   - Proposes three principles: (1) AI's objective is to maximize human values, (2) AI is initially uncertain about those values, (3) Human behavior is the best source of information
   - Crucially: Russell clarifies "humans don't know their own preference structure"
   - Uncertainty makes AI deferential and willing to be corrected
-- **Tenet alignment**: The uncertainty principle resonates with the site's epistemological humility
+- **Tenet alignment**: The uncertainty principle resonates with the Map's epistemological humility
 - **Quote**: "The goal is not to build machines whose values are identical to those of humans... I actually believe that that's just fundamentally impossible."
 
 ### Aristotle's Teleology
@@ -85,7 +85,7 @@ AI alignment—the site of ensuring AI systems behave in accordance with human v
   - Camus: absurdism—the confrontation between desire for meaning and universe's silence
   - Sartre: meaning is constructed; Camus: meaning is impossible but we rebel anyway
   - Both reject external/divine sources of meaning
-- **Tenet alignment**: the site's Dualism suggests meaning may have objective grounding that both miss
+- **Tenet alignment**: the Map's Dualism suggests meaning may have objective grounding that both miss
 - **Quote**: "Camus doesn't recommend suicide—that's allowing absurdity to win... he recommends facing the absurdity."
 
 ## Major Positions
@@ -151,7 +151,7 @@ AI alignment—the site of ensuring AI systems behave in accordance with human v
 - Learning from behavior assumes behavior tracks purpose (does it?)
 - Surface convergence may hide deep disagreement about priorities
 
-## Implications for the site
+## Implications for the Map
 
 ### For Tenets
 The Dualism tenet suggests consciousness is fundamental and irreducible. If so:
@@ -180,7 +180,7 @@ A potential article could argue:
 
 1. **"The Purpose Gap: Why AI Alignment Needs Philosophy"** - Argue that AI safety is blocked on the meaning-of-life question. Connect to site's epistemological humility about cognitive limits.
 
-2. **"Aligning AI with What?"** - Survey alignment approaches and show they all presuppose answers to contested questions about human purpose. Argue the site's dualism offers resources (consciousness matters in ways preferences don't capture).
+2. **"Aligning AI with What?"** - Survey alignment approaches and show they all presuppose answers to contested questions about human purpose. Argue the Map's dualism offers resources (consciousness matters in ways preferences don't capture).
 
 3. **"Purpose and Consciousness: What AI Can't Learn"** - If consciousness is irreducible, and purpose is tied to consciousness, then AI systems may be fundamentally unable to learn human purpose from behavior alone.
 

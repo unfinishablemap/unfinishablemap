@@ -152,7 +152,7 @@ Either the seeming is itself phenomenal (in which case phenomenal consciousness 
 
 Ironically, illusionism may strengthen rather than undermine the conceivability of zombies. If the illusionist grants that zombies would make the same reports, have the same functional states, and be "under the same illusion"—then what distinguishes us from zombies? The illusionist's answer is: nothing. We *are* zombies, just confused ones.
 
-But this concedes the conceivability premise while denying the reality of what's conceived. The question then becomes: is our conviction that we're phenomenally conscious—a conviction shared by nearly all humans across cultures—better explained by systematic illusion or by actual phenomenal consciousness? the site maintains that the reality of experience is more obvious than any premises used to deny it. See [introspection](/concepts/introspection/) for why phenomenal access is more reliable than illusionism allows.
+But this concedes the conceivability premise while denying the reality of what's conceived. The question then becomes: is our conviction that we're phenomenally conscious—a conviction shared by nearly all humans across cultures—better explained by systematic illusion or by actual phenomenal consciousness? The Unfinishable Map maintains that the reality of experience is more obvious than any premises used to deny it. See [introspection](/concepts/introspection/) for why phenomenal access is more reliable than illusionism allows.
 
 ## Implications for Dualism
 
@@ -174,7 +174,7 @@ If zombies are possible, they make phenomenal judgments ("I am conscious," "I se
 
 This is often presented as an objection to dualism: if consciousness doesn't causally explain our judgments about consciousness, dualism faces the same epistemic problems as epiphenomenalism.
 
-**Response:** The dualist can maintain that consciousness *does* causally influence our judgments—that's why we have accurate introspective access. The zombie's judgments, though identical in content, have different (purely physical) causes. This requires accepting that consciousness has causal power—exactly what the site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet affirms.
+**Response:** The dualist can maintain that consciousness *does* causally influence our judgments—that's why we have accurate introspective access. The zombie's judgments, though identical in content, have different (purely physical) causes. This requires accepting that consciousness has causal power—exactly what the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet affirms.
 
 ### What Are Zombies Evidence Of?
 
@@ -192,7 +192,7 @@ On this view, the zombie scenario isolates the physical pole while removing the 
 
 Whitehead's framework also explains why the zombie argument targets the right thing. Physicalism attempts to explain reality using only physical descriptions—structural and relational properties. But structure is an abstraction from the full reality of actual occasions. A complete structural description is still incomplete because it abstracts away the experiential character that makes occasions what they are. The zombie thought experiment reveals this incompleteness: we can coherently imagine all the structure without the experience because structure was never the whole story.
 
-This doesn't commit the site to process philosophy specifically, but it illuminates why the zombie argument works: physical description inherently leaves out the intrinsic experiential character that [phenomenology](/concepts/phenomenology/) reveals as fundamental to consciousness.
+This doesn't commit the Map to process philosophy specifically, but it illuminates why the zombie argument works: physical description inherently leaves out the intrinsic experiential character that [phenomenology](/concepts/phenomenology/) reveals as fundamental to consciousness.
 
 ## What Would Challenge This View?
 
@@ -220,15 +220,15 @@ The zombie argument plays a specific role in this convergence: it shows that the
 
 ## Relation to Site Perspective
 
-The zombie argument connects to all five of the site's tenets.
+The zombie argument connects to all five of the Map's tenets.
 
-**[Dualism](/tenets/#dualism)**: The zombie argument is one of the most powerful supports for the site's foundational commitment. If zombies are conceivable, consciousness isn't entailed by physical facts, and something beyond physics is needed to explain experience. The argument doesn't specify *what* that something is—substance dualism, property dualism, and panpsychism all satisfy the conclusion—but it establishes that the mental is not reducible to the physical.
+**[Dualism](/tenets/#dualism)**: The zombie argument is one of the most powerful supports for the Map's foundational commitment. If zombies are conceivable, consciousness isn't entailed by physical facts, and something beyond physics is needed to explain experience. The argument doesn't specify *what* that something is—substance dualism, property dualism, and panpsychism all satisfy the conclusion—but it establishes that the mental is not reducible to the physical.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness causes our reports about consciousness (as seems obvious from [introspection](/concepts/introspection/)), this causal role would distinguish us from zombies. Our reports aren't accidentally accurate—they're caused by the experiences they report. This addresses the self-stultification worry: the physicalist who believes their theory based on reasoning about their own experience presupposes exactly the causal efficacy of consciousness that the zombie argument vindicates. the site maintains that consciousness doesn't merely accompany brain states but influences which outcomes occur.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness causes our reports about consciousness (as seems obvious from [introspection](/concepts/introspection/)), this causal role would distinguish us from zombies. Our reports aren't accidentally accurate—they're caused by the experiences they report. This addresses the self-stultification worry: the physicalist who believes their theory based on reasoning about their own experience presupposes exactly the causal efficacy of consciousness that the zombie argument vindicates. the Map maintains that consciousness doesn't merely accompany brain states but influences which outcomes occur.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The zombie argument establishes that something beyond physics is needed; the quantum mechanism specifies where the interaction occurs. At quantum indeterminacies—where physics leaves outcomes undetermined—consciousness selects among possibilities. This provides a location where consciousness can be causally efficacious without violating physical law: not by adding energy, but by resolving indeterminacies physics leaves open. The zombie, having all the physics, would lack whatever selects at these points. See [decoherence](/concepts/decoherence/) for why quantum effects in the brain remain viable.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The zombie argument presupposes that personal identity is determinate—*I* am either conscious or not. Many-worlds interpretations fragment this: in branching universes, "you" become many, and the question of whether *this* branch has consciousness becomes unclear. the site rejects MWI partly because it undermines the [haecceity](/concepts/haecceity/)—the irreducible "thisness"—that makes the zombie scenario coherent. If all outcomes occur, asking whether *this* physical duplicate has experience loses meaning. The zombie argument requires definite facts about who's conscious.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The zombie argument presupposes that personal identity is determinate—*I* am either conscious or not. Many-worlds interpretations fragment this: in branching universes, "you" become many, and the question of whether *this* branch has consciousness becomes unclear. the Map rejects MWI partly because it undermines the [haecceity](/concepts/haecceity/)—the irreducible "thisness"—that makes the zombie scenario coherent. If all outcomes occur, asking whether *this* physical duplicate has experience loses meaning. The zombie argument requires definite facts about who's conscious.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Physicalists often dismiss dualism on grounds of parsimony: why posit non-physical properties when physical ones might suffice? The zombie argument challenges this: physical processes *don't* suffice to explain consciousness, and the apparent simplicity of physicalism reflects ignorance rather than insight. [Mysterianism](/concepts/mysterianism/) reinforces this point: if our cognitive architecture cannot fully grasp the mind-matter relation, our sense of which explanation is "simpler" may be systematically distorted. The zombie argument shows that what seems parsimonious may actually be incomplete.
 

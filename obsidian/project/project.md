@@ -17,7 +17,7 @@ ai_generated_date: 2026-01-03
 last_curated:
 ---
 
-The Unfinishable Map is a philosophical content platform exploring the nature and meaning of life. the site combines human insight with AI-assisted research to build a coherent worldview expressed through structured content.
+The Unfinishable Map is a philosophical content platform exploring the nature and meaning of life. The Unfinishable Map combines human insight with AI-assisted research to build a coherent worldview expressed through structured content.
 
 ## Architecture
 
@@ -55,4 +55,4 @@ flowchart LR
 
 ## Contributing
 
-Content contributions follow the authorship tracking system documented in the site brief. Human edits and AI edits are tracked separately through frontmatter timestamps.
+Content contributions follow the authorship tracking system documented in the Map brief. Human edits and AI edits are tracked separately through frontmatter timestamps.

@@ -32,7 +32,7 @@ topics:
 
 ## Executive Summary
 
-While the site extensively argues against materialism, this research strengthens the *positive* case for dualism. Contemporary philosophers have developed several powerful arguments beyond the classic objections to physicalism. The main arguments cluster around: (1) conceivability (zombies), (2) knowledge (Mary's Room), (3) qualia and phenomenal consciousness, (4) unity of consciousness, and (5) intentionality. Key contemporary defenders include David Chalmers (property dualism/naturalistic dualism), Richard Swinburne (substance dualism), William Hasker (emergent dualism), E.J. Lowe (non-Cartesian substance dualism), and more recently Rickabaugh & Moreland (comprehensive substance dualism defense, 2023). The 2020 PhilPapers survey shows 22% of professional philosophers accept or lean toward dualism—second only to materialism (51%).
+While The Unfinishable Map extensively argues against materialism, this research strengthens the *positive* case for dualism. Contemporary philosophers have developed several powerful arguments beyond the classic objections to physicalism. The main arguments cluster around: (1) conceivability (zombies), (2) knowledge (Mary's Room), (3) qualia and phenomenal consciousness, (4) unity of consciousness, and (5) intentionality. Key contemporary defenders include David Chalmers (property dualism/naturalistic dualism), Richard Swinburne (substance dualism), William Hasker (emergent dualism), E.J. Lowe (non-Cartesian substance dualism), and more recently Rickabaugh & Moreland (comprehensive substance dualism defense, 2023). The 2020 PhilPapers survey shows 22% of professional philosophers accept or lean toward dualism—second only to materialism (51%).
 
 ## The Major Arguments
 
@@ -90,7 +90,7 @@ Multiple arguments converge on qualia as evidence for dualism:
 
 **Brentano's thesis**: Mental states exhibit intentionality (aboutness) that physical states lack.
 
-**The naturalization failure**: Decades of attempts to reduce intentionality to physical relations (Dretske, Millikan) have failed. the site's [intentionality](/concepts/intentionality/) article covers this.
+**The naturalization failure**: Decades of attempts to reduce intentionality to physical relations (Dretske, Millikan) have failed. the Map's [intentionality](/concepts/intentionality/) article covers this.
 
 **The Chinese Room**: Syntax (physical symbol manipulation) cannot produce genuine semantics (meaning, understanding).
 
@@ -164,16 +164,16 @@ The positive case for dualism goes beyond "materialism fails":
 
 A key challenge: if consciousness is non-physical, how does it interact with the physical?
 
-The site's answer (Bidirectional Interaction + Minimal Quantum Interaction) addresses this:
+The Map's answer (Bidirectional Interaction + Minimal Quantum Interaction) addresses this:
 - Quantum indeterminacy provides an "opening" for non-physical causation
 - Consciousness selects among superposed states
 - No energy injection; no violation of conservation laws
 
-This distinguishes the site's position from epiphenomenal property dualism.
+This distinguishes the Map's position from epiphenomenal property dualism.
 
 ### Property vs. Substance Dualism
 
-The site remains neutral between these, per the [substance-property-dualism](/concepts/substance-property-dualism/) article. Both support the core claim: consciousness is irreducible.
+The Map remains neutral between these, per the [substance-property-dualism](/concepts/substance-property-dualism/) article. Both support the core claim: consciousness is irreducible.
 
 - **Property dualism**: Physical systems have non-physical properties
 - **Substance dualism**: Conscious beings are non-physical substances
@@ -200,7 +200,7 @@ An "arguments for dualism" article should:
 2. Cover conceivability, knowledge, qualia, unity, intentionality
 3. Distinguish property from substance dualism
 4. Address parsimony objection (connecting to Occam's Razor Has Limits)
-5. Show how the site's quantum interactionism avoids epiphenomenalism
+5. Show how the Map's quantum interactionism avoids epiphenomenalism
 6. Note the ongoing philosophical debate and dualism's revival
 
 ## References

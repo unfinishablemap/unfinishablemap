@@ -37,7 +37,7 @@ last_curated: null
 last_deep_review: 2026-01-20T18:30:00+00:00
 ---
 
-Does consciousness survive bodily death? the site's dualist framework makes survival a coherent possibility that materialism forecloses. If consciousness is immaterial and irreducible, nothing in principle prevents it from persisting when the body fails. This doesn't *guarantee* survival—functional dependence on brains might be essential even for non-physical minds. But dualism keeps the question genuinely open in ways materialism cannot. Combined with the site's emphasis on [[personal-identity|indexical identity]]—the view that *you* are irreplaceable rather than a mere pattern—and its concept of [[haecceity|haecceity]] (irreducible thisness), this creates distinctive resources for thinking about death.
+Does consciousness survive bodily death? The Unfinishable Map's dualist framework makes survival a coherent possibility that materialism forecloses. If consciousness is immaterial and irreducible, nothing in principle prevents it from persisting when the body fails. This doesn't *guarantee* survival—functional dependence on brains might be essential even for non-physical minds. But dualism keeps the question genuinely open in ways materialism cannot. Combined with the Map's emphasis on [[personal-identity|indexical identity]]—the view that *you* are irreplaceable rather than a mere pattern—and its concept of [[haecceity|haecceity]] (irreducible thisness), this creates distinctive resources for thinking about death.
 
 ## The Stakes
 
@@ -51,11 +51,11 @@ The distinction matters. [[filter-theory|Filter theory]]—developed by William 
 
 ## The Identity Problem
 
-Any account of survival must address [[personal-identity]]. What makes the consciousness that survives *yours*? This is where the site's commitment to indexical identity becomes relevant.
+Any account of survival must address [[personal-identity]]. What makes the consciousness that survives *yours*? This is where the Map's commitment to indexical identity becomes relevant.
 
 Derek Parfit famously argued that personal identity may have no determinate answer in survival cases, but this doesn't matter—what matters is psychological continuity, which could be preserved by replicas. On this view, a perfect copy of your psychological patterns would preserve everything important about you.
 
-The site rejects this. As discussed in the [[personal-identity]] article, indexical identity—the fact that *this* consciousness is the one having these experiences—matters independently of psychological continuity. A duplicate of you is not you; it's someone new with similar memories. The [[tenets#^no-many-worlds|No Many Worlds tenet]] reflects this: identity questions have determinate answers, and merely similar beings don't inherit your identity.
+The Map rejects this. As discussed in the [[personal-identity]] article, indexical identity—the fact that *this* consciousness is the one having these experiences—matters independently of psychological continuity. A duplicate of you is not you; it's someone new with similar memories. The [[tenets#^no-many-worlds|No Many Worlds tenet]] reflects this: identity questions have determinate answers, and merely similar beings don't inherit your identity.
 
 ### Parfit's "Liberating" View of Death
 
@@ -63,9 +63,9 @@ The site rejects this. As discussed in the [[personal-identity]] article, indexi
 
 Parfit argued this should be "no more distressing than when I am about to lose consciousness in sleep." Since there's no deep self that persists, there's no deep self that is destroyed. Death becomes metaphysically shallow—significant practically, perhaps, but not the loss of anything irreducible.
 
-**Why the site rejects this**: The liberating conclusion follows *only if* reductionism is true. But if identity involves something over and above pattern-continuity—if *you* are a particular conscious subject whose haecceity can't be replicated—then death is the destruction of something unique and irreplaceable. The pattern ends, yes, but so does *you*—the subject who experienced, chose, and cared. That loss is real in a way Parfit's view cannot accommodate.
+**Why the Map rejects this**: The liberating conclusion follows *only if* reductionism is true. But if identity involves something over and above pattern-continuity—if *you* are a particular conscious subject whose haecceity can't be replicated—then death is the destruction of something unique and irreplaceable. The pattern ends, yes, but so does *you*—the subject who experienced, chose, and cared. That loss is real in a way Parfit's view cannot accommodate.
 
-The site's position makes death *worse* than Parfit's view in one sense: you really do cease to exist, not just a pattern. But it also makes death *different*: what's lost is a particular, not a repeatable universal. This explains the deep asymmetry we feel between:
+The Map's position makes death *worse* than Parfit's view in one sense: you really do cease to exist, not just a pattern. But it also makes death *different*: what's lost is a particular, not a repeatable universal. This explains the deep asymmetry we feel between:
 - Our own death (irreversible loss of this subject)
 - A replica's creation (a new subject, however similar)
 
@@ -95,7 +95,7 @@ Consider what Patient KC lost when hippocampal damage destroyed his episodic mem
 
 Death is the permanent loss of this extended self. What dies isn't just a biological organism but the unique perspective from which a particular history was lived and a particular future was anticipated. The binding mechanisms that unified your experiences into a coherent autobiography—the same hippocampal binding that creates each conscious moment—dissolve. Not just the stored memories but the capacity to inhabit them autonoetically ceases.
 
-This sharpens the site's rejection of Parfit. Parfit treats identity as pattern-continuity, which could in principle be duplicated. But the extended self isn't a pattern—it's a phenomenal achievement constituted moment by moment through autonoetic binding. The pastness quale that marks your memories as *yours*, the felt continuity with your past self, the siteion of yourself into future scenarios—these aren't features that could be copied like data. They're constitutive activities of a particular conscious subject.
+This sharpens the Map's rejection of Parfit. Parfit treats identity as pattern-continuity, which could in principle be duplicated. But the extended self isn't a pattern—it's a phenomenal achievement constituted moment by moment through autonoetic binding. The pastness quale that marks your memories as *yours*, the felt continuity with your past self, the siteion of yourself into future scenarios—these aren't features that could be copied like data. They're constitutive activities of a particular conscious subject.
 
 When Patient KC looks at photographs of himself at past events, he knows (semantically) that the person depicted is him, but he cannot re-experience being there. The photographs don't trigger autonoetic consciousness. This is what death would mean for all of us: not merely that the pattern ends, but that the phenomenal inhabitation of a particular life ceases. The subject who remembered being the child, the student, the lover—that subject is gone in a way that no replica, however faithful, could restore.
 
@@ -111,7 +111,7 @@ Substance dualism permits survival most straightforwardly: if consciousness is a
 
 Property dualism is more complex. If consciousness is a non-physical property of physical systems, what happens when those systems cease? The property might require a substrate to instantiate it. Yet if the property is genuinely non-physical, the substrate needn't be material—perhaps consciousness could be re-instantiated in a different medium.
 
-The site's [[interactionist-dualism]] leaves these questions open. What matters is that consciousness is irreducible and causally efficacious. Whether it can exist without its current physical interface is a further question the framework doesn't settle.
+The Map's [[interactionist-dualism]] leaves these questions open. What matters is that consciousness is irreducible and causally efficacious. Whether it can exist without its current physical interface is a further question the framework doesn't settle.
 
 ## Near-Death Experiences
 
@@ -153,7 +153,7 @@ Buddhism complicates simple survival narratives. The *anattā* (no-self) doctrin
 
 Yet Buddhism accepts rebirth. What continues? Not a soul or essence, but a causal stream—like one candle lighting another. This model suggests continuity without identity: something persists, but it's not "you" in the sense of an unchanging subject.
 
-This challenges both materialist denial of survival and dualist affirmation of soul-persistence. Perhaps consciousness continues without *your* consciousness continuing. The haecceity this site defends—your irreducible thisness—might dissolve even as awareness-in-general persists. Whether this counts as "survival" depends on what we're asking about.
+This challenges both materialist denial of survival and dualist affirmation of soul-persistence. Perhaps consciousness continues without *your* consciousness continuing. The haecceity the Map defends—your irreducible thisness—might dissolve even as awareness-in-general persists. Whether this counts as "survival" depends on what we're asking about.
 
 ## Temporary Loss of Consciousness: A Preview of Death?
 
@@ -175,7 +175,7 @@ Hameroff suggests: "It's possible that this quantum information can exist outsid
 
 On this view, NDEs occur when quantum information temporarily separates from the brain during cardiac arrest and returns upon resuscitation. If resuscitation fails, the information might persist elsewhere.
 
-This hypothesis aligns with the site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]]—both propose that consciousness interfaces with physics at the quantum level. Quantum information is conserved rather than destroyed, providing a physical framework for persistence.
+This hypothesis aligns with the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]]—both propose that consciousness interfaces with physics at the quantum level. Quantum information is conserved rather than destroyed, providing a physical framework for persistence.
 
 ### The Decoherence Challenge
 
@@ -204,11 +204,11 @@ On this view, consciousness doesn't survive death as a continuing substance. Eac
 
 This suggests a different kind of "survival"—not the persistence of your conscious subject, but the objective immortality of your achieved experience. Your moments of consciousness become permanent features of reality that all subsequent occasions inherit. You don't continue experiencing, but your experience becomes part of what reality is.
 
-**Implications for this site's framework:**
+**Implications for the Map's framework:**
 
 Process philosophy complicates simple survival claims. If each moment of consciousness perishes by its nature, then "survival" in the sense of continued experiencing may be incoherent. What might continue is the causal influence of your conscious acts—their contribution to subsequent occasions—rather than your perspective itself.
 
-Yet process thought aligns with this site's rejection of Parfit's pattern-view. What matters isn't the pattern but the particular occasions—their haecceity, their *thisness*. Each actual occasion is unique and unrepeatable. When you die, those particular occasions cannot recur, even if qualitatively similar occasions arise elsewhere. The [[haecceity|haecceity]] of your experience—its irreducible particularity—perishes with you.
+Yet process thought aligns with the Map's rejection of Parfit's pattern-view. What matters isn't the pattern but the particular occasions—their haecceity, their *thisness*. Each actual occasion is unique and unrepeatable. When you die, those particular occasions cannot recur, even if qualitatively similar occasions arise elsewhere. The [[haecceity|haecceity]] of your experience—its irreducible particularity—perishes with you.
 
 ## What Survival Would Mean
 
@@ -222,11 +222,11 @@ If survival occurs, what form would it take? Several possibilities:
 
 **Quantum persistence**: Consciousness continues as quantum information distributed through spacetime. Novel framework but faces severe coherence problems.
 
-The site's framework doesn't adjudicate between these. What it does provide is the conceptual space for survival to be meaningful—something materialism forecloses.
+The Map's framework doesn't adjudicate between these. What it does provide is the conceptual space for survival to be meaningful—something materialism forecloses.
 
 ## What Would Challenge This View?
 
-The site's openness to survival would face serious difficulty if:
+The Map's openness to survival would face serious difficulty if:
 
 1. **The illusionist functional explanation proves complete.** If attention schema theory or similar frameworks could fully explain not just *reports* about consciousness but the phenomenology itself—if someone who has directly experienced awareness could be satisfied that their experience is exhaustively explained by functional processes—then survival questions would dissolve. Currently, such explanations seem to leave out what matters most.
 
@@ -234,11 +234,11 @@ The site's openness to survival would face serious difficulty if:
 
 3. **Consciousness proved definitively to be substrate-dependent.** If neuroscience demonstrated not just correlation but necessary identity between consciousness and specific neural processes—if we understood exactly how neurons generate experience—then the filter model would become unmotivated. Currently, correlation is established but the mechanism remains mysterious.
 
-4. **Buddhist-style phenomenology proves universally accessible.** If all meditators, upon sufficient training, discovered that "self" dissolves into impersonal process with nothing to survive—if the sense of being a particular subject proved to be a cognitive illusion that practice can dispel—then the site's haecceity-based survival framework would need revision. Currently, contemplative traditions disagree about what deep practice reveals.
+4. **Buddhist-style phenomenology proves universally accessible.** If all meditators, upon sufficient training, discovered that "self" dissolves into impersonal process with nothing to survive—if the sense of being a particular subject proved to be a cognitive illusion that practice can dispel—then the Map's haecceity-based survival framework would need revision. Currently, contemplative traditions disagree about what deep practice reveals.
 
 5. **Quantum biology fails comprehensively.** If all apparent quantum effects in biological systems were explained by classical mechanisms, and the quantum-consciousness interface proved physically impossible, then the minimal quantum interaction framework would fail. The survival hypothesis would then depend entirely on substance dualism with no physical mechanism—a weaker position.
 
-## Relation to this site's Perspective
+## Relation to the Map's Perspective
 
 **Dualism**: Makes survival coherent by denying that consciousness reduces to neural processes. If the brain is interface rather than generator—as [[filter-theory|filter theory]] suggests—brain death might not be consciousness death. The explanatory gap reveals that consciousness has features physical description cannot capture; those features might persist when their physical correlates cease. [[illusionism|Illusionism]]'s challenge—that consciousness itself is illusory—faces the regress problem: the illusion requires someone to be deceived. That "someone" is what might survive.
 
@@ -246,15 +246,15 @@ The site's openness to survival would face serious difficulty if:
 
 **Bidirectional Interaction**: If consciousness causally influences matter rather than merely observing it, it has genuine efficacy—agency that makes choices matter. The question becomes: can this efficacy persist without a physical interface? The [[epiphenomenalism|epiphenomenalism]] this tenet rejects would make the question moot (an epiphenomenal consciousness has nothing causal to lose), but interactive consciousness has something substantial at stake. Death would end not just experience but genuine causal participation in reality.
 
-**No Many Worlds**: Survival questions have determinate answers. Either *this* consciousness continues or it doesn't—there's no merely statistical or pattern-based survival. This rules out Parfit-style views where replicas preserve "what matters." [[haecceity|Haecceity]]—your irreducible thisness—is what might or might not survive, not a pattern that could be reinstantiated. Many-worlds sidesteps death's significance by treating all branches as equally real; this site takes death seriously as the potential end of a particular unrepeatable perspective. [[witness-consciousness|Witness consciousness]] phenomenology supports this: being *this* awareness is the most immediate fact of experience.
+**No Many Worlds**: Survival questions have determinate answers. Either *this* consciousness continues or it doesn't—there's no merely statistical or pattern-based survival. This rules out Parfit-style views where replicas preserve "what matters." [[haecceity|Haecceity]]—your irreducible thisness—is what might or might not survive, not a pattern that could be reinstantiated. Many-worlds sidesteps death's significance by treating all branches as equally real; the Map takes death seriously as the potential end of a particular unrepeatable perspective. [[witness-consciousness|Witness consciousness]] phenomenology supports this: being *this* awareness is the most immediate fact of experience.
 
 **Occam's Razor Has Limits**: The simplest assumption—consciousness ends with brain function—might be wrong. Our knowledge of consciousness is radically incomplete. The hard problem remains unsolved; [[introspection|introspection]] reveals features neuroscience can't yet explain; contemplative traditions report phenomena (cessation states, witness consciousness) that challenge simple production models. Apparent simplicity shouldn't foreclose inquiry into a domain where our conceptual tools may be fundamentally inadequate.
 
-## What the site Does Not Claim
+## What the Map Does Not Claim
 
 This article doesn't argue that survival *does* occur. The evidence is suggestive but not conclusive. NDEs might have purely neural explanations. Quantum soul hypotheses might be misguided.
 
-What the site claims: given its dualist commitments, survival is a *coherent possibility* in ways that materialism cannot accommodate. The question remains genuinely open. This matters for how we think about death, meaning, and the boundaries of our existence.
+What the Map claims: given its dualist commitments, survival is a *coherent possibility* in ways that materialism cannot accommodate. The question remains genuinely open. This matters for how we think about death, meaning, and the boundaries of our existence.
 
 ## Further Reading
 

@@ -138,7 +138,7 @@ If consciousness can divide within one body, does this support the kind of subje
 
 1. **Empirical constraint:** Split-brain division is observable and bounded. We can examine the patients, test their responses, study their brains. Many Worlds posits infinite invisible copies beyond empirical reach.
 
-2. **Shared causal history:** Both hemispheres in a split-brain patient share continuous physical history and remain in causal contact through subcortical pathways. the site's [[personal-identity#Indexical Identity|indexical identity]] view can accommodate partial division within a single causal history more easily than infinite branching.
+2. **Shared causal history:** Both hemispheres in a split-brain patient share continuous physical history and remain in causal contact through subcortical pathways. The Unfinishable Map's [[personal-identity#Indexical Identity|indexical identity]] view can accommodate partial division within a single causal history more easily than infinite branching.
 
 ### Bidirectional Interaction Tenet
 

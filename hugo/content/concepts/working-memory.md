@@ -30,7 +30,7 @@ topics:
 
 Working memory (WM) is the cognitive system that holds and manipulates information over brief periods—typically seconds. It's what you use when you remember a phone number while dialing, follow a complex argument, or do mental arithmetic. WM has long been considered closely coupled with consciousness: we seem conscious of WM contents, and WM seems to operate on conscious input. Yet recent research complicates this picture, revealing that some WM processes can occur without awareness while others require conscious engagement.
 
-This dissociation matters for understanding how consciousness relates to cognition. the site proposes that [attention functions as the interface](/concepts/attention-as-interface/) between consciousness and neural systems. Working memory may be the neural workspace where this interface operates—the "holding space" consciousness uses when engaging with information.
+This dissociation matters for understanding how consciousness relates to cognition. The Unfinishable Map proposes that [attention functions as the interface](/concepts/attention-as-interface/) between consciousness and neural systems. Working memory may be the neural workspace where this interface operates—the "holding space" consciousness uses when engaging with information.
 
 ## Baddeley's Multicomponent Model
 
@@ -56,7 +56,7 @@ This is supported by "activity-silent" WM research. Traditional theory assumed W
 
 **Manipulation requires consciousness.** The key finding: "Non-conscious, activity-silent maintenance is a genuine phenomenon but should be termed 'activity-silent short-term memory'; when *using* a memory, a reactivation, associated with conscious reportability, is necessary."
 
-This maps onto the site's framework precisely:
+This maps onto the Map's framework precisely:
 - **Storage** might be purely neural—synaptic traces maintaining patterns without consciousness
 - **Use** requires conscious reactivation—bringing content into awareness to manipulate it
 - The [phenomenology of mental effort](/concepts/mental-effort/) may track exactly this distinction: maintenance is easy (often unconscious), manipulation is effortful (requires consciousness)
@@ -75,7 +75,7 @@ The 100ms–5s experienced moment corresponds precisely to WM maintenance capaci
 
 As one researcher puts it: "Working memory provides a temporal bridge between events—both those that are internally generated and environmentally presented—thereby conferring a sense of unity and continuity to conscious experience."
 
-The site's specious-present article proposes modified extensionalism: consciousness genuinely extends over duration-blocks constituted by quantum collapse. WM maintenance could be the neural correlate of this extended phenomenal present. What we experience as "now" may be what working memory feels like from inside.
+The Map's specious-present article proposes modified extensionalism: consciousness genuinely extends over duration-blocks constituted by quantum collapse. WM maintenance could be the neural correlate of this extended phenomenal present. What we experience as "now" may be what working memory feels like from inside.
 
 ## Working Memory and Global Workspace Theory
 
@@ -91,7 +91,7 @@ The prefrontal-parietal network serves as the broadcasting hub. However, the 202
 - **Prefrontal regions** execute control and broadcasting (WM manipulation)
 - **The interface** may be where these systems meet
 
-This aligns with the site's framework. Attention-as-interface operates between consciousness and neural machinery. WM control (prefrontal) executes manipulation, while conscious content (posterior) is what's manipulated. The interface is the connection point.
+This aligns with the Map's framework. Attention-as-interface operates between consciousness and neural machinery. WM control (prefrontal) executes manipulation, while conscious content (posterior) is what's manipulated. The interface is the connection point.
 
 ## Semantic Retrieval and Working Memory
 
@@ -129,7 +129,7 @@ Over time, episodic memories "semanticize"—losing autonoetic richness while re
 
 Semantic knowledge requires minimal WM resources to access. Facts are pre-bound, pre-consolidated, requiring only maintenance-like retrieval. Episodic memories, by contrast, require active reconstruction—manipulation-heavy retrieval that taxes WM capacity. Semanticization reduces the retrieval burden, but at the cost of phenomenological richness.
 
-This trade-off has implications for the site's framework. If consciousness participates more in manipulation than maintenance, then semanticized memories are less consciousness-intensive to access. The phenomenal depth of autonoetic experience correlates with WM demands. As memories become more "computational" (semantic), they become less phenomenally vivid—precisely what dualist intuitions would predict.
+This trade-off has implications for the Map's framework. If consciousness participates more in manipulation than maintenance, then semanticized memories are less consciousness-intensive to access. The phenomenal depth of autonoetic experience correlates with WM demands. As memories become more "computational" (semantic), they become less phenomenally vivid—precisely what dualist intuitions would predict.
 
 ## Connection to Binding
 
@@ -140,7 +140,7 @@ WM binding in the episodic buffer resembles perceptual binding:
 - The hippocampus participates in both (episodic memory binding, scene perception)
 - The [combination problem](/concepts/binding-problem/) applies to both: why unified experience rather than parallel processes?
 
-The site's quantum binding hypothesis could explain both. If binding requires quantum-level integration (as Orch OR proposes), then the episodic buffer and perceptual binding may share mechanisms—both implementing consciousness-constituted unity.
+The Map's quantum binding hypothesis could explain both. If binding requires quantum-level integration (as Orch OR proposes), then the episodic buffer and perceptual binding may share mechanisms—both implementing consciousness-constituted unity.
 
 The [autonoetic consciousness](/concepts/autonoetic-consciousness/) research reinforces this. Tulving proposed that manipulating episodic memories creates autonoetic awareness—consciousness of subjective time. WM provides the workspace for this manipulation, the episodic buffer binds content, and autonoetic consciousness enables mental time travel. The stack connects WM capacity to the phenomenology of temporal selfhood.
 
@@ -150,7 +150,7 @@ Working memory strengthens the [attention-as-interface hypothesis](/concepts/att
 
 **Bidirectional connection**: Attention determines what enters WM, and WM contents guide attention. This bidirectional relationship is precisely where consciousness might exert influence—selecting what to hold and manipulating what's held.
 
-**Bandwidth constraint**: the site's [coupling law research](/concepts/psychophysical-coupling-law/) estimates consciousness's causal bandwidth at ~10 bits/second. This matches WM capacity limitations remarkably well—suggesting both may reflect the same fundamental constraint on consciousness-matter interaction.
+**Bandwidth constraint**: the Map's [coupling law research](/concepts/psychophysical-coupling-law/) estimates consciousness's causal bandwidth at ~10 bits/second. This matches WM capacity limitations remarkably well—suggesting both may reflect the same fundamental constraint on consciousness-matter interaction.
 
 **Effort asymmetry**: The maintenance/manipulation distinction explains why some cognitive processes feel effortful and others don't. [Mental effort](/concepts/mental-effort/) corresponds to conscious manipulation through the interface; passive maintenance operates without consciousness and without effort.
 

@@ -28,7 +28,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-What makes a life meaningful? The question has occupied philosophers since antiquity, generating answers that range from divine purpose to self-created projects to the stark claim that meaning is impossible. this site's framework—built on the conviction that consciousness is fundamental and causally efficacious—suggests a distinctive answer: meaning is grounded neither in God nor in subjective preference alone, but in the intrinsic significance of conscious experience itself.
+What makes a life meaningful? The question has occupied philosophers since antiquity, generating answers that range from divine purpose to self-created projects to the stark claim that meaning is impossible. The Unfinishable Map's framework—built on the conviction that consciousness is fundamental and causally efficacious—suggests a distinctive answer: meaning is grounded neither in God nor in subjective preference alone, but in the intrinsic significance of conscious experience itself.
 
 ## The Landscape of Answers
 
@@ -54,7 +54,7 @@ Thaddeus Metz's *Meaning in Life: An Analytic Study* (2013) offers the most comp
 
 These views preserve objectivity without requiring God—meaning is discovered, not invented, but discovered in nature rather than the supernatural.
 
-The challenge is grounding objective value in a seemingly purposeless universe. Where do these mind-independent values come from? Wolf acknowledges this difficulty; her view "presupposes that there are objective values" without fully explaining their source. Why should physical arrangements possess inherent worth? the site's position (explained below) offers one answer: consciousness itself provides the missing foundation.
+The challenge is grounding objective value in a seemingly purposeless universe. Where do these mind-independent values come from? Wolf acknowledges this difficulty; her view "presupposes that there are objective values" without fully explaining their source. Why should physical arrangements possess inherent worth? the Map's position (explained below) offers one answer: consciousness itself provides the missing foundation.
 
 ### Subjective Naturalism
 
@@ -70,9 +70,9 @@ David Benatar argues existence always involves more harm than non-existence, mak
 
 Recent work distinguishes "Sunny Nihilism" from the traditional negative variety. Iddo Landau's 2025 article "The Implications of Cosmic Meaninglessness" in the *Journal of Philosophy of Life* argues that nihilism's claim—there's no cosmic goal to human life—is descriptive, not evaluative. The absence of cosmic purpose doesn't entail that life is bad or worthless. It might just be neutral.
 
-## this site's Position
+## the Map's Position
 
-The site's framework suggests a fifth option: meaning grounded in consciousness itself.
+The Map's framework suggests a fifth option: meaning grounded in consciousness itself.
 
 ### Consciousness as Foundational
 
@@ -90,7 +90,7 @@ Nihilism often assumes that without cosmic purpose, existence is valueless. But 
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world. We're not passive observers of a predetermined show; our choices shape what happens.
 
-This connects to the [free-will](/topics/free-will/) discussion and the site's treatment of [agent-causation](/concepts/agent-causation/). the site's quantum framework proposes that consciousness influences which neural patterns become actual—not by violating physical law, but by biasing quantum outcomes at moments of genuine indeterminacy. This provides the metaphysical grounding that existentialists assume but never explain: a mechanism by which conscious choice could actually make a difference.
+This connects to the [free-will](/topics/free-will/) discussion and the Map's treatment of [agent-causation](/concepts/agent-causation/). the Map's quantum framework proposes that consciousness influences which neural patterns become actual—not by violating physical law, but by biasing quantum outcomes at moments of genuine indeterminacy. This provides the metaphysical grounding that existentialists assume but never explain: a mechanism by which conscious choice could actually make a difference.
 
 What you do matters because it has real consequences mediated by irreducible consciousness. Your choices aren't epiphenomenal froth; they're causally efficacious interventions in reality.
 
@@ -118,25 +118,25 @@ Buddhism's Four Noble Truths diagnose the human condition: life involves sufferi
 
 This isn't nihilism. Buddhism doesn't say life is meaningless; it says the *quest* for cosmic meaning, when driven by craving, perpetuates suffering. The middle way isn't to deny experience's value or to grasp it desperately, but to engage fully while holding lightly.
 
-This resonates with the site's position that meaning is grounded in consciousness itself. Buddhism agrees that conscious experience is significant—meditation practices presuppose it. But Buddhism adds a nuance: clinging to significance perpetuates suffering, while experiencing it directly, without grasping, transforms both the experience and the experiencer.
+This resonates with the Map's position that meaning is grounded in consciousness itself. Buddhism agrees that conscious experience is significant—meditation practices presuppose it. But Buddhism adds a nuance: clinging to significance perpetuates suffering, while experiencing it directly, without grasping, transforms both the experience and the experiencer.
 
-The site's framework can integrate this insight. If meaning is grounded in the intrinsic significance of conscious experience, then living meaningfully involves fully engaging that experience—being present, not operating on autopilot. Buddhism's emphasis on mindfulness, on direct phenomenological attention, may be the practice through which consciousness-grounded meaning is actually realized, not just theoretically affirmed.
+The Map's framework can integrate this insight. If meaning is grounded in the intrinsic significance of conscious experience, then living meaningfully involves fully engaging that experience—being present, not operating on autopilot. Buddhism's emphasis on mindfulness, on direct phenomenological attention, may be the practice through which consciousness-grounded meaning is actually realized, not just theoretically affirmed.
 
 ## The AI Alignment Connection
 
-Questions about meaning acquire unexpected urgency through [AI alignment research](/topics/purpose-and-alignment/). the site of ensuring AI serves human interests presupposes we know what those interests are. But if we cannot articulate human purpose clearly, AI systems cannot be properly aligned—they would be optimizing for something we cannot fully specify.
+Questions about meaning acquire unexpected urgency through [AI alignment research](/topics/purpose-and-alignment/). the Map of ensuring AI serves human interests presupposes we know what those interests are. But if we cannot articulate human purpose clearly, AI systems cannot be properly aligned—they would be optimizing for something we cannot fully specify.
 
 Standard alignment approaches learn from human preferences, treating choices as revealing values. But preferences are thin representations of meaning. What I choose under conditions of decision fatigue and algorithmic manipulation reveals little about what would fulfil me on reflection. The *preferentist critique* argues that observed behaviour cannot capture the "thick semantic content" of human values—the qualitative dimension of what makes life worth living.
 
 This creates a surprising convergence. AI safety researchers need to understand human purpose, but human purpose is precisely what philosophy has debated inconclusively for millennia. The alignment problem may be partly unsolvable because the meaning-of-life problem remains unsolved.
 
-The site's consciousness-centric framework illuminates why. If consciousness is fundamental and irreducible, then what matters about human life may be tied to features of experience that no behavioural analysis can capture. A preference-learning AI observes inputs and outputs but cannot grasp what it is like to live a human life. It can model choices but not understand why those choices matter from the inside.
+The Map's consciousness-centric framework illuminates why. If consciousness is fundamental and irreducible, then what matters about human life may be tied to features of experience that no behavioural analysis can capture. A preference-learning AI observes inputs and outputs but cannot grasp what it is like to live a human life. It can model choices but not understand why those choices matter from the inside.
 
 This doesn't make alignment impossible, but it suggests a posture of humility. AI systems should support human inquiry into meaning rather than presume to have discovered it. They should be partners in the unfinishable map, not confident optimizers of a utility function we cannot fully articulate.
 
 ## Responding to Nihilism
 
-The site's framework provides resources against the main nihilist arguments.
+The Map's framework provides resources against the main nihilist arguments.
 
 ### Against Cosmic Insignificance
 
@@ -148,9 +148,9 @@ The cosmic insignificance argument appeals to an impersonal "view from nowhere,"
 
 "Objective values don't exist." Error theory holds that all value claims are false because there's nothing in the world for them to be true about.
 
-But conscious experience is not a dubious metaphysical posit—it's the most immediately certain feature of reality. Descartes was right about this much: even radical skepticism cannot doubt that experience exists. If consciousness is fundamental (as the site's dualism holds), then the existence of experience is part of what the world basically is.
+But conscious experience is not a dubious metaphysical posit—it's the most immediately certain feature of reality. Descartes was right about this much: even radical skepticism cannot doubt that experience exists. If consciousness is fundamental (as the Map's dualism holds), then the existence of experience is part of what the world basically is.
 
-Now: *that* consciousness exists is a fact. Whether consciousness *mattering* follows from its existence is a further question. the site's position is that intrinsic properties of experience—its qualitative character, its first-person givenness—constitute a kind of value that error theory cannot coherently deny. The error theorist must assert their claim from *within* conscious experience, using the resources of mind they're claiming don't matter. To say "nothing matters" is to deploy meaning (conceptual content, communicative intent) in the service of denying meaning—a performative tension, if not outright contradiction.
+Now: *that* consciousness exists is a fact. Whether consciousness *mattering* follows from its existence is a further question. the Map's position is that intrinsic properties of experience—its qualitative character, its first-person givenness—constitute a kind of value that error theory cannot coherently deny. The error theorist must assert their claim from *within* conscious experience, using the resources of mind they're claiming don't matter. To say "nothing matters" is to deploy meaning (conceptual content, communicative intent) in the service of denying meaning—a performative tension, if not outright contradiction.
 
 ### Against the Infinity Requirement
 
@@ -174,15 +174,15 @@ This isn't a prescription for any particular lifestyle. It's a framework within 
 
 Any position worth holding should be falsifiable. What would count as evidence against consciousness-grounded meaning?
 
-**If consciousness turned out to be illusory**—if [illusionism](/concepts/illusionism/) were correct and phenomenal experience doesn't really exist—then grounding meaning in consciousness would collapse. the site's framework rejects illusionism, but the rejection bears argumentative weight.
+**If consciousness turned out to be illusory**—if [illusionism](/concepts/illusionism/) were correct and phenomenal experience doesn't really exist—then grounding meaning in consciousness would collapse. the Map's framework rejects illusionism, but the rejection bears argumentative weight.
 
 **If consciousness proved fully reducible to physical processes** without remainder, the special status claimed for it here would be undermined. The hard problem might be dissolved rather than solved, removing consciousness's distinctive foundation-bearing role.
 
 **If meaning attributions showed no correlation with conscious engagement**—if people reported lives as equally meaningful whether or not they were consciously present—that would challenge the claim that conscious experience is where meaning resides.
 
-**If dualism proved untenable**—if the causal closure of physics ruled out mental causation entirely—then the claim that "choices matter" would need radical revision. the site addresses this through its quantum framework, but the empirical question of whether consciousness influences physical outcomes remains open.
+**If dualism proved untenable**—if the causal closure of physics ruled out mental causation entirely—then the claim that "choices matter" would need radical revision. the Map addresses this through its quantum framework, but the empirical question of whether consciousness influences physical outcomes remains open.
 
-These conditions don't currently obtain. But they're not merely hypothetical—they represent ongoing debates in philosophy of mind where the site's position could be wrong.
+These conditions don't currently obtain. But they're not merely hypothetical—they represent ongoing debates in philosophy of mind where the Map's position could be wrong.
 
 ## The Picture That Emerges
 

@@ -77,7 +77,7 @@ We are "naïve realists, who believe they are perceiving reality directly when i
 
 Metzinger's theory is physicalist—he aims to explain how "strong, consciously experienced subjectivity emerge[s] out of objective events in the natural world." However, his detailed phenomenological analysis of self-experience provides rich data that any theory must accommodate.
 
-From the site's perspective: If the PSM is "transparent," this raises questions about what generates the representations. The filter theory could interpret the PSM as consciousness's interface with the brain's self-modeling processes, rather than the brain producing selfhood.
+From The Unfinishable Map's perspective: If the PSM is "transparent," this raises questions about what generates the representations. The filter theory could interpret the PSM as consciousness's interface with the brain's self-modeling processes, rather than the brain producing selfhood.
 
 Source: [MIT Press - Being No One](https://mitpress.mit.edu/9780262633086/being-no-one/), [Scholarpedia](http://www.scholarpedia.org/article/Self_models), [Wikipedia](https://en.wikipedia.org/wiki/Self_model)
 
@@ -111,7 +111,7 @@ However, there are differences:
 
 A 2025 Oxford Academic work explores "Buddhist Physicalism"—whether the Buddhist commitment to non-existence of self means "consciousness must be understood to be subjectless." This opens doors to illusionism about phenomenal consciousness.
 
-The site's position diverges: Buddhism's no-self doctrine concerns the constructed, substantial self, not necessarily the minimal experiential structure. The Dualism tenet can accommodate Buddhist insights about the illusory nature of the narrative self while maintaining that phenomenal experience is irreducible.
+The Map's position diverges: Buddhism's no-self doctrine concerns the constructed, substantial self, not necessarily the minimal experiential structure. The Dualism tenet can accommodate Buddhist insights about the illusory nature of the narrative self while maintaining that phenomenal experience is irreducible.
 
 Source: [1000-Word Philosophy](https://1000wordphilosophy.com/2023/02/25/no-self/), [Stanford Encyclopedia - Mind in Indian Buddhism](https://plato.stanford.edu/entries/mind-indian-buddhism/), [Oxford Academic](https://academic.oup.com/book/60496?login=false)
 
@@ -129,7 +129,7 @@ Property dualism, as articulated by Chalmers, "does not posit the existence of a
 
 A 2023 study argues that "The 'hard problem of consciousness' arises from human psychology"—specifically from "two intuitive biases that lie deep within human psychology: Essentialism and Dualism." We intuitively treat mind and body as distinct.
 
-The site's response: These psychological tendencies may track genuine metaphysical features rather than being mere cognitive errors. The phenomenological analysis of the minimal self reveals structural features of experience that physicalist accounts cannot capture.
+The Map's response: These psychological tendencies may track genuine metaphysical features rather than being mere cognitive errors. The phenomenological analysis of the minimal self reveals structural features of experience that physicalist accounts cannot capture.
 
 Source: [MIT Press Open Mind](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00094/117074/The-Hard-Problem-of-Consciousness-Arises-from), [Stanford Encyclopedia - Dualism](https://plato.stanford.edu/entries/dualism/)
 
@@ -144,11 +144,11 @@ The minimal self analysis supports irreducibility:
 
 ### Connection to Phenomenology and Neurophenomenology
 
-Gallagher and Zahavi work within the phenomenological tradition that the site draws on. The minimal self is precisely what Varela's neurophenomenology aims to correlate with neural processes without reducing.
+Gallagher and Zahavi work within the phenomenological tradition that the Map draws on. The minimal self is precisely what Varela's neurophenomenology aims to correlate with neural processes without reducing.
 
 ### Buddhist Compatibility
 
-The site's framework can accommodate Buddhist insights:
+The Map's framework can accommodate Buddhist insights:
 - The narrative self is indeed constructed—a product of brain processes shaping the interface
 - The minimal self may be what remains when narrative constructions are seen through
 - Liberation from self-attachment need not require denying phenomenal consciousness
@@ -158,7 +158,7 @@ The site's framework can accommodate Buddhist insights:
 1. How does the minimal self relate to the binding problem? Is unity of consciousness constitutive of minimal selfhood?
 2. Does the self persist through loss of consciousness? Filter theory suggests the self (as consciousness) persists while interface is disrupted.
 3. How does Metzinger's transparent self-model relate to the rendering engine analogy in mind-brain-separation.md?
-4. Is the Buddhist "stream of consciousness" compatible with the site's rejection of Many Worlds? (Both emphasize single experiential continuity)
+4. Is the Buddhist "stream of consciousness" compatible with the Map's rejection of Many Worlds? (Both emphasize single experiential continuity)
 
 ## Key Thinkers
 

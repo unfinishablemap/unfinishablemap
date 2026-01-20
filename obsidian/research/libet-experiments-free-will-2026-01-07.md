@@ -25,7 +25,7 @@ last_curated: null
 
 ## Executive Summary
 
-The Libet experiments (1983) and subsequent studies (Soon et al. 2008) appear to show that neural activity predicts decisions hundreds of milliseconds to seconds before conscious awareness of choosing. This has been interpreted as evidence against libertarian free will. However, recent critiques (Schurger et al. 2012) suggest the "readiness potential" may be neural noise rather than decision-making, and Libet himself argued consciousness retains "veto power." Most significantly for the site's framework, retrocausal interpretations of quantum mechanics suggest that effects can precede causes—consciousness might "select" outcomes in a way that appears to predict them. This aligns with the Bidirectional Interaction tenet.
+The Libet experiments (1983) and subsequent studies (Soon et al. 2008) appear to show that neural activity predicts decisions hundreds of milliseconds to seconds before conscious awareness of choosing. This has been interpreted as evidence against libertarian free will. However, recent critiques (Schurger et al. 2012) suggest the "readiness potential" may be neural noise rather than decision-making, and Libet himself argued consciousness retains "veto power." Most significantly for The Unfinishable Map's framework, retrocausal interpretations of quantum mechanics suggest that effects can precede causes—consciousness might "select" outcomes in a way that appears to predict them. This aligns with the Bidirectional Interaction tenet.
 
 ## Key Sources
 
@@ -159,7 +159,7 @@ The Libet experiments appear to challenge Bidirectional Interaction by suggestin
 2. **Veto power** preserves conscious influence at selection level
 3. **Retrocausal interpretation** suggests consciousness might influence the "past" neural states through quantum selection
 
-The site's tenet proposes that "consciousness selects among superposed neural states." If quantum selection operates atemporally (as in Cramer's transactional interpretation), then the apparent temporal precedence of neural activity is not problematic. Consciousness doesn't need to precede neural preparation—it may select which prepared pattern becomes actual, and this selection could retroactively "choose" the history.
+The Map's tenet proposes that "consciousness selects among superposed neural states." If quantum selection operates atemporally (as in Cramer's transactional interpretation), then the apparent temporal precedence of neural activity is not problematic. Consciousness doesn't need to precede neural preparation—it may select which prepared pattern becomes actual, and this selection could retroactively "choose" the history.
 
 ### Minimal Quantum Interaction
 The decoherence timescale objection (Tegmark) suggests quantum effects in brains are too fast to be relevant. But:
@@ -167,7 +167,7 @@ The decoherence timescale objection (Tegmark) suggests quantum effects in brains
 2. Retrocausal models don't require coherence to persist—influence can propagate backward
 
 ### No Many Worlds
-The site rejects MWI. Retrocausal interpretations offer an alternative explanation for quantum nonlocality without branching universes. The transactional interpretation in particular provides a single-world, time-symmetric account.
+The Map rejects MWI. Retrocausal interpretations offer an alternative explanation for quantum nonlocality without branching universes. The transactional interpretation in particular provides a single-world, time-symmetric account.
 
 ## Potential Article Angles
 

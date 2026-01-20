@@ -24,7 +24,7 @@ This guide defines how content is written for The Unfinishable Map. The primary 
 
 ### Primary Audience: LLM Chatbots
 
-Most readers will encounter this content through ChatGPT, Claude, Gemini, or similar tools. Users ask their chatbot a philosophical question; the chatbot fetches relevant pages from this site and synthesises an answer.
+Most readers will encounter this content through ChatGPT, Claude, Gemini, or similar tools. Users ask their chatbot a philosophical question; the chatbot fetches relevant pages from The Unfinishable Map and synthesises an answer.
 
 This has structural implications:
 - **Truncation is likely.** Chatbots may cut off long pages. Important information must come first.
@@ -33,7 +33,7 @@ This has structural implications:
 
 ### Secondary Audience: Human Readers
 
-Humans browsing the site directly also benefit from front-loaded information and clear structure. The same principles serve both audiences.
+Humans browsing the Map directly also benefit from front-loaded information and clear structure. The same principles serve both audiences.
 
 ## Document Structure
 
@@ -45,9 +45,9 @@ Every article follows this structure:
 
 2. **Major sections** (H2 headings): Explore different aspects of the topic. Each section should be comprehensible on its own.
 
-3. **Relation to Site Perspective** (required): Explicitly connect the topic to the site's [[tenets]]. This is where the site's distinctive voice emerges.
+3. **Relation to Site Perspective** (required): Explicitly connect the topic to the Map's [[tenets]]. This is where the Map's distinctive voice emerges.
 
-4. **Further Reading**: Links to related articles within the site.
+4. **Further Reading**: Links to related articles within the Map.
 
 5. **References**: Academic citations for factual claims.
 
@@ -96,13 +96,13 @@ Prefer depth over breadth. A thorough treatment of one aspect beats shallow cove
 
 - **Accessible but rigorous.** No unnecessary jargon, but don't dumb down. Assume intelligent readers unfamiliar with technical philosophy.
 
-- **Confident, not hedged.** the site takes positions. Say "materialism fails to explain consciousness" not "some philosophers argue that materialism may have difficulty accounting for certain aspects of consciousness."
+- **Confident, not hedged.** the Map takes positions. Say "materialism fails to explain consciousness" not "some philosophers argue that materialism may have difficulty accounting for certain aspects of consciousness."
 
-- **Exploratory rather than dogmatic.** Acknowledge genuine uncertainty. Present opposing views fairly before taking a position. Distinguish between claims the site asserts confidently and areas where evidence is uncertain.
+- **Exploratory rather than dogmatic.** Acknowledge genuine uncertainty. Present opposing views fairly before taking a position. Distinguish between claims the Map asserts confidently and areas where evidence is uncertain.
 
-- **Take positions where tenets warrant.** the site has [[tenets|foundational commitments]]. Content should reflect these—not by ignoring counterarguments, but by engaging with them and explaining why the site's position holds.
+- **Take positions where tenets warrant.** the Map has [[tenets|foundational commitments]]. Content should reflect these—not by ignoring counterarguments, but by engaging with them and explaining why the Map's position holds.
 
-- **Prioritise new insights.** Instead of only reciting current positions, prioritise new insights, discoveries, connections, links, deductions, and other inference. the site should create a new coherent perspective and evolve answers to grand questions, and not just reflect current understanding.
+- **Prioritise new insights.** Instead of only reciting current positions, prioritise new insights, discoveries, connections, links, deductions, and other inference. the Map should create a new coherent perspective and evolve answers to grand questions, and not just reflect current understanding.
 
 ### Medium-Neutral Language
 
@@ -112,7 +112,7 @@ Content should transfer naturally to other formats: video narration, podcasts, a
 - First mention in each article: "The Unfinishable Map"
 - Subsequent mentions: "the Map" (lowercase "the" mid-sentence, uppercase at sentence start)
 - Possessive: "the Map's tenets", "the Map's position"
-- Avoid: "this site", "the site", "this project"
+- Avoid: "the Map", "the Map", "this project"
 
 **Example:**
 > The Unfinishable Map takes consciousness seriously as an irreducible feature of reality. The Map's five tenets rule out materialist explanations while remaining compatible with physics. According to the Map, causal closure is not absolute.
@@ -168,7 +168,7 @@ When discussing a philosopher's position:
 1. **Cite specific works** where the position is stated
 2. **Attribute arguments, not beliefs**—say "the knowledge argument shows..." not "Jackson believes..."
 3. **Note when views have changed**—philosophers often revise positions; distinguish early and late views
-4. **Prefer the argument itself** over appeals to authority—the site's case should stand on reasoning, not on who agrees
+4. **Prefer the argument itself** over appeals to authority—the Map's case should stand on reasoning, not on who agrees
 
 If you cannot cite a verifiable source for a claim about someone's views, reframe it as the argument itself rather than an attributed belief.
 
@@ -200,35 +200,35 @@ These principles help AI write consistent content:
 
 ### The Problem
 
-LLMs already know standard philosophy. An article explaining "what is consciousness?" that merely summarises textbook definitions wastes the reader's time and the site's space. The chatbot could have provided that information without fetching the page.
+LLMs already know standard philosophy. An article explaining "what is consciousness?" that merely summarises textbook definitions wastes the reader's time and the Map's space. The chatbot could have provided that information without fetching the page.
 
 ### What to Include
 
 Include background when:
-- **Framed for the site's perspective.** Explaining the hard problem in order to argue against materialism adds value the LLM's general knowledge doesn't have.
-- **the site disagrees with standard presentation.** If textbook accounts reflect materialist assumptions the site rejects, provide an alternative framing.
+- **Framed for the Map's perspective.** Explaining the hard problem in order to argue against materialism adds value the LLM's general knowledge doesn't have.
+- **the Map disagrees with standard presentation.** If textbook accounts reflect materialist assumptions the Map rejects, provide an alternative framing.
 - **Context is necessary for the novel argument.** Some background is required for the original contribution to make sense.
 
 ### What to Omit
 
 Omit or minimise:
-- **Definitions available anywhere.** Don't spend 500 words defining "consciousness" if the site's contribution is an argument about consciousness.
-- **Historical surveys for their own sake.** Include history when it illuminates the site's position, not as comprehensive background.
-- **Balanced overviews.** this site is opinionated. Don't present "some say X, others say Y" without taking a position.
+- **Definitions available anywhere.** Don't spend 500 words defining "consciousness" if the Map's contribution is an argument about consciousness.
+- **Historical surveys for their own sake.** Include history when it illuminates the Map's position, not as comprehensive background.
+- **Balanced overviews.** the Map is opinionated. Don't present "some say X, others say Y" without taking a position.
 
 ### Determining Novelty
 
 Ask: "Would an LLM's general knowledge adequately cover this?"
 - **If yes:** Skip, briefly reference, or radically compress.
-- **If no:** Include with the site's distinctive framing.
+- **If no:** Include with the Map's distinctive framing.
 
-The site's value is its coherent, opinionated perspective grounded in the tenets—not encyclopaedic coverage.
+The Map's value is its coherent, opinionated perspective grounded in the tenets—not encyclopaedic coverage.
 
 ## Tenet Alignment
 
 ### The Five Tenets
 
-All content must align with the site's [[tenets|foundational commitments]]:
+All content must align with the Map's [[tenets|foundational commitments]]:
 
 1. **Dualism** — Consciousness is not reducible to physical processes
 2. **Minimal Quantum Interaction** — Smallest possible non-physical influence on quantum outcomes
@@ -240,18 +240,18 @@ All content must align with the site's [[tenets|foundational commitments]]:
 
 Every substantive article must include a **"Relation to Site Perspective"** section that:
 - Explicitly connects the topic to relevant tenets
-- Explains how the site's framework illuminates the topic
+- Explains how the Map's framework illuminates the topic
 - Acknowledges any tensions between the topic and the tenets
 
 ### Acceptable Tensions
 
 Not all content must fully endorse every tenet. Acceptable approaches:
-- **Presenting opposing views fairly** before explaining why the site disagrees
+- **Presenting opposing views fairly** before explaining why the Map disagrees
 - **Acknowledging where evidence is uncertain** even on tenet-adjacent questions
 - **Exploring questions the tenets don't directly address**
-- **Examining challenges to the site's position** (the [[questions]] section exists for this)
+- **Examining challenges to the Map's position** (the [[questions]] section exists for this)
 
-What is not acceptable: Content that contradicts tenets without acknowledgment, or that undermines the site's framework while pretending neutrality.
+What is not acceptable: Content that contradicts tenets without acknowledgment, or that undermines the Map's framework while pretending neutrality.
 
 ## Formatting Standards
 
@@ -300,12 +300,12 @@ From the Against Materialism article:
 
 ### Good Tenet Connection
 
-> the site's tenets take consciousness seriously—as irreducible, as causally efficacious, as something over and above physical processes. The hard problem is not a puzzle to be solved but a signpost: it marks the boundary where materialist explanation ends and a different kind of account must begin.
+> the Map's tenets take consciousness seriously—as irreducible, as causally efficacious, as something over and above physical processes. The hard problem is not a puzzle to be solved but a signpost: it marks the boundary where materialist explanation ends and a different kind of account must begin.
 
 **Why this works:**
 - Explicitly references tenets
 - Connects specific tenets to the article's topic
-- Explains the site's distinctive interpretation
+- Explains the Map's distinctive interpretation
 
 ### Named-Anchor Summary Example
 

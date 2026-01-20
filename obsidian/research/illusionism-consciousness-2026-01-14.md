@@ -114,11 +114,11 @@ Recent developments (2024-2026):
 
 ## Relevance to Site's Framework
 
-Illusionism is directly relevant to the site's [[tenets]]:
+Illusionism is directly relevant to The Unfinishable Map's [[tenets]]:
 
-**Dualism**: Illusionism is the most radical challenge to dualism. If there *are* no phenomenal properties, there's nothing non-physical to explain. However, the objections suggest illusionism may be incoherent or self-defeating. the site's commitment to taking consciousness seriously opposes illusionism directly.
+**Dualism**: Illusionism is the most radical challenge to dualism. If there *are* no phenomenal properties, there's nothing non-physical to explain. However, the objections suggest illusionism may be incoherent or self-defeating. the Map's commitment to taking consciousness seriously opposes illusionism directly.
 
-**Bidirectional Interaction**: If illusionism is true, there's no consciousness to interact with matter. But the phenomenology of mental effort and attention—central to the site's framework—seems undeniable. Illusionism asks us to deny the very experiences that make mind-matter interaction seem evident.
+**Bidirectional Interaction**: If illusionism is true, there's no consciousness to interact with matter. But the phenomenology of mental effort and attention—central to the Map's framework—seems undeniable. Illusionism asks us to deny the very experiences that make mind-matter interaction seem evident.
 
 **Occam's Razor Has Limits**: Illusionism might seem parsimonious—no new ontological categories needed. But it may achieve only apparent simplicity by refusing to explain what needs explaining. As the infinite regress objection suggests, eliminating phenomenal consciousness may create harder problems than it solves.
 
@@ -147,4 +147,4 @@ Illusionism is directly relevant to the site's [[tenets]]:
 
 5. **Soft illusionism** (misrepresentation of real processes) may be more defensible than hard illusionism (no referent at all), but both face the self-evidence objection.
 
-6. **For the site**: illusionism represents the strongest challenge to taking consciousness seriously. Engaging it directly—and showing why it fails—strengthens the case for dualism.
+6. **For the Map**: illusionism represents the strongest challenge to taking consciousness seriously. Engaging it directly—and showing why it fails—strengthens the case for dualism.

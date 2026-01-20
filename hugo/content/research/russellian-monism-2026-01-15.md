@@ -22,7 +22,7 @@ title: Research Notes - Russellian Monism
 
 ## Executive Summary
 
-Russellian monism is an increasingly prominent theory of mind arguing that physics describes only the relational/dispositional structure of matter, leaving its intrinsic nature—quiddities—unexplained. These quiddities, the theory proposes, account for consciousness. The view attempts a middle path: avoiding dualism's interaction problem (by integrating consciousness into physical causation) while avoiding physicalism's hard problem (by denying that structure alone determines consciousness). Key variants include panpsychist Russellian monism (quiddities are phenomenal properties) and panprotopsychist Russellian monism (quiddities are non-phenomenal but constitute consciousness). The combination problem—how micro-level properties constitute macro-level consciousness—remains the principal objection. For the site's framework, Russellian monism shares key insights (physics is silent on intrinsic nature) but its monist commitment may conflict with the site's interactionist dualism; the combination problem and certain structural features make it arguably no better than dualism despite claiming to avoid it.
+Russellian monism is an increasingly prominent theory of mind arguing that physics describes only the relational/dispositional structure of matter, leaving its intrinsic nature—quiddities—unexplained. These quiddities, the theory proposes, account for consciousness. The view attempts a middle path: avoiding dualism's interaction problem (by integrating consciousness into physical causation) while avoiding physicalism's hard problem (by denying that structure alone determines consciousness). Key variants include panpsychist Russellian monism (quiddities are phenomenal properties) and panprotopsychist Russellian monism (quiddities are non-phenomenal but constitute consciousness). The combination problem—how micro-level properties constitute macro-level consciousness—remains the principal objection. For The Unfinishable Map's framework, Russellian monism shares key insights (physics is silent on intrinsic nature) but its monist commitment may conflict with the Map's interactionist dualism; the combination problem and certain structural features make it arguably no better than dualism despite claiming to avoid it.
 
 ## Key Sources
 
@@ -96,7 +96,7 @@ Russellian monism is an increasingly prominent theory of mind arguing that physi
   - Argues Russellian monism requires brute "grounding laws" connecting quiddities to consciousness
   - These laws are "no better than the brute psychophysical laws of dualism"
   - Conclusion: Russellian monism claims to avoid dualism's costs but actually inherits them
-- **Tenet alignment**: This criticism supports the site's preference for explicit interactionist dualism over disguised dualism
+- **Tenet alignment**: This criticism supports the Map's preference for explicit interactionist dualism over disguised dualism
 - **Quote**: "Though called a physicalist view, it seems to have many of the vices of dualism. Where dualism requires psychophysical laws, this view requires exactly parallel special, brute 'grounding laws.'"
 
 ## Major Positions
@@ -150,7 +150,7 @@ Russellian monism is an increasingly prominent theory of mind arguing that physi
 - **Sides**: Panpsychists say quiddities are phenomenal; panprotopsychists say they're not but ground phenomenality
 - **Core disagreement**: Whether non-phenomenal properties can intelligibly constitute phenomenal properties
 - **Current state**: Strawson argues panprotopsychism faces Descartes's problem of how non-experiential becomes experiential. Chalmers argues panprotopsychism faces "revenge" conceivability arguments.
-- **Site position**: Both face problems the site's explicit dualism avoids
+- **Site position**: Both face problems the Map's explicit dualism avoids
 
 ## Historical Timeline
 
@@ -171,13 +171,13 @@ Russellian monism is an increasingly prominent theory of mind arguing that physi
 
 Based on this research, an article could:
 
-1. **Sympathetic critique (aligns with site tenets)**: Present Russellian monism as sharing the site's insight that physics is silent on intrinsic nature, but argue that its attempt to avoid dualism fails. The combination problem, the need for brute grounding laws, and the conceivability objections mean Russellian monism inherits dualism's costs without its benefits (unified mental subjects, clear ontology). Site's interactionist dualism is cleaner.
+1. **Sympathetic critique (aligns with site tenets)**: Present Russellian monism as sharing the Map's insight that physics is silent on intrinsic nature, but argue that its attempt to avoid dualism fails. The combination problem, the need for brute grounding laws, and the conceivability objections mean Russellian monism inherits dualism's costs without its benefits (unified mental subjects, clear ontology). Site's interactionist dualism is cleaner.
 
 2. **Middle-ground position (more neutral)**: Survey Russellian monism as a sophisticated attempt to solve the mind-body problem. Cover Russell/Eddington historical roots, panpsychist vs panprotopsychist variants, combination problem. Note that Chalmers considers it promising but unresolved. Connect to site's framework: shares key insights but site prefers explicit dualism.
 
-3. **Comparison with site's framework (most useful for site integration)**: Focus on what Russellian monism gets right from the site's perspective (physics structural only, consciousness irreducible) and where it diverges (monist vs dualist, combination problem). Show how the site's tenets—especially Minimal Quantum Interaction and Bidirectional Interaction—provide cleaner solutions.
+3. **Comparison with site's framework (most useful for site integration)**: Focus on what Russellian monism gets right from the Map's perspective (physics structural only, consciousness irreducible) and where it diverges (monist vs dualist, combination problem). Show how the Map's tenets—especially Minimal Quantum Interaction and Bidirectional Interaction—provide cleaner solutions.
 
-**Recommended angle**: Option 3, since substance-property-dualism.md already briefly mentions Russellian monism. A dedicated article could expand the comparison and defend the site's preference for explicit interactionist dualism.
+**Recommended angle**: Option 3, since substance-property-dualism.md already briefly mentions Russellian monism. A dedicated article could expand the comparison and defend the Map's preference for explicit interactionist dualism.
 
 When writing the article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique—Russellian monism has multiple variants that need clear forward-referencing

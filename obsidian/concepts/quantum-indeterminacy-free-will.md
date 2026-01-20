@@ -35,7 +35,7 @@ last_deep_review: 2026-01-20T12:00:00+00:00
 
 Quantum mechanics provides the only genuine indeterminacy in fundamental physics—and this creates logical space for libertarian free will that determinism forecloses. The relationship is contested: critics argue that quantum randomness yields "random will" rather than "free will," no better than determinism. This page systematizes how quantum indeterminacy supports free will when combined with consciousness as selector, answering the [[luck-objection|luck objection]] through the [[quantum-consciousness|quantum Zeno mechanism]] and [[agent-causation|agent-causal]] metaphysics.
 
-The site's position: quantum indeterminacy provides the *opening* for mental causation; consciousness provides the *direction*. Neither alone suffices. Indeterminacy without direction is mere randomness; direction without indeterminacy reduces to determinism. Together, they ground genuine freedom.
+The Unfinishable Map's position: quantum indeterminacy provides the *opening* for mental causation; consciousness provides the *direction*. Neither alone suffices. Indeterminacy without direction is mere randomness; direction without indeterminacy reduces to determinism. Together, they ground genuine freedom.
 
 ## The Libertarian Dilemma
 
@@ -65,7 +65,7 @@ His 2024 *Complex Tapestry of Free Will* explicitly incorporates agent-causal el
 
 ### Agent-Causal Libertarianism
 
-The site's framework is [[agent-causation|agent-causal]]. Roderick Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). E.J. Lowe argued that all causation is fundamentally substance causation—agents exercising powers—with event causation being derivative shorthand.
+The Map's framework is [[agent-causation|agent-causal]]. Roderick Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). E.J. Lowe argued that all causation is fundamentally substance causation—agents exercising powers—with event causation being derivative shorthand.
 
 On this view, the agent as persisting substance directly causes actions. Quantum indeterminacy provides the opening; the agent provides the selection. The explanatory buck stops at the agent's exercise of causal power, which is reasons-responsive rather than arbitrary.
 
@@ -85,9 +85,9 @@ Mele sharpened this into two distinct problems:
 
 Remote luck affects compatibilists and libertarians equally—everyone's character has unchosen origins. Present luck is the specifically libertarian problem: if nothing about the agent differs across possible worlds, what makes the outcome the agent's rather than a random fluctuation?
 
-## Why the site's Framework Escapes Luck
+## Why the Map's Framework Escapes Luck
 
-The site's response distinguishes *lucky indeterminism* from *consciousness-selected indeterminism*:
+The Map's response distinguishes *lucky indeterminism* from *consciousness-selected indeterminism*:
 
 | Feature | Lucky Indeterminism | Consciousness-Selected Indeterminism |
 |---------|---------------------|--------------------------------------|
@@ -173,13 +173,13 @@ Quantum indeterminacy provides the response. At quantum measurement events, phys
 
 This transforms Kim's exclusion argument. Mental causation doesn't compete with physical causation—it operates where physical causation runs out. Consciousness selects among outcomes physics leaves open. There's no overdetermination and no exclusion.
 
-The site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet formalizes this: consciousness biases otherwise indeterminate quantum outcomes without injecting energy or violating conservation laws. The smallest possible non-physical influence on physical outcomes.
+The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet formalizes this: consciousness biases otherwise indeterminate quantum outcomes without injecting energy or violating conservation laws. The smallest possible non-physical influence on physical outcomes.
 
 ## Many-Worlds: The Alternative Rejected
 
 The [[many-worlds|many-worlds interpretation]] offers escape from the measurement problem by denying collapse occurs at all. Every quantum possibility actualizes in branching universes; we find ourselves in one branch.
 
-The site's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects this for several reasons:
+The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects this for several reasons:
 
 1. **Ontological extravagance**: Uncountably infinite universes to avoid explaining why one outcome occurs
 2. **The indexical problem**: Why am I *this* observer and not another? MWI provides no answer.
@@ -194,7 +194,7 @@ If collapse is real and consciousness participates in it, the quantum opening fo
 
 [[Illusionism]]—the view that phenomenal consciousness is an illusion constructed by neural processes—offers a different interpretation of the phenomenology of effort. On this view, the feeling of choosing is constructed post-hoc; there is no genuine selection, only the appearance of it. Dennett argues we lack a Cartesian theatre where consciousness watches and selects; "consciousness" is just what the brain does.
 
-The site's response: illusionism is self-undermining. If the appearance of reasoning is wholly constructed by neural processes unconnected to any real reasoning, then the decision to adopt illusionism was itself constructed—not genuinely reasoned to. The illusionist cannot coherently claim to have *reasoned* to their position without presupposing the phenomenal engagement they deny.
+The Map's response: illusionism is self-undermining. If the appearance of reasoning is wholly constructed by neural processes unconnected to any real reasoning, then the decision to adopt illusionism was itself constructed—not genuinely reasoned to. The illusionist cannot coherently claim to have *reasoned* to their position without presupposing the phenomenal engagement they deny.
 
 More specifically: the phenomenology of effort provides evidence precisely because it distinguishes selection from passive reception. If all phenomenology were illusion, there would be no distinction between hard choices and easy ones, between deliberation and reflex. But there is such a distinction—phenomenologically, neurally, and behaviourally. The [[agent-causation#The Choking Phenomenon as Evidence|choking phenomenon]] provides non-verbal evidence: skilled performance degrades when attention is deployed, regardless of how we theorize about phenomenology. Something is happening beyond mere illusion.
 
@@ -232,7 +232,7 @@ The framework is falsifiable. Findings that would undermine it:
 
 **Solving the hard problem materialistically**: If a compelling account of why physical processes give rise to subjective experience emerged, the motivation for dualism—and thus for consciousness as a separate causal factor—would weaken.
 
-**Many-worlds empirical confirmation**: If the [[many-worlds|many-worlds interpretation]] were empirically confirmed, there would be no collapse for consciousness to influence—all outcomes occur in branching universes. the site's [[tenets#^no-many-worlds|No Many Worlds]] rejection is foundational to this picture.
+**Many-worlds empirical confirmation**: If the [[many-worlds|many-worlds interpretation]] were empirically confirmed, there would be no collapse for consciousness to influence—all outcomes occur in branching universes. the Map's [[tenets#^no-many-worlds|No Many Worlds]] rejection is foundational to this picture.
 
 **Selection indistinguishable from randomness**: If choices at quantum indeterminacies were genuinely random rather than guided by consciousness—showing no correlation with reasons, values, or phenomenal effort—the selection model collapses into the luck objection it claims to escape.
 
@@ -251,7 +251,7 @@ This isn't proof—it's coherent integration of quantum mechanics, consciousness
 
 ## Relation to Site Perspective
 
-This article systematizes the relationship between quantum theory and the site's core tenets:
+This article systematizes the relationship between quantum theory and the Map's core tenets:
 
 **[[tenets#^dualism|Dualism]]**: Free will requires consciousness to be more than physics—otherwise, "consciousness selects" collapses into "physics determines." The hard problem motivates dualism; dualism makes agent causation coherent.
 
@@ -265,15 +265,15 @@ The convergence of Kane's event-causal libertarianism (now incorporating agent-c
 
 ## Further Reading
 
-- [[free-will]] — The broader free will question and this site's position
+- [[free-will]] — The broader free will question and the Map's position
 - [[luck-objection]] — Detailed treatment of the central challenge to libertarian free will
-- [[agent-causation]] — Agent vs event causation and why the site's framework is agent-causal
+- [[agent-causation]] — Agent vs event causation and why the Map's framework is agent-causal
 - [[quantum-consciousness]] — Specific quantum mechanisms (Stapp, Penrose-Hameroff)
 - [[attention-as-interface]] — How attention may mediate consciousness-matter interaction
 - [[mental-effort]] — The phenomenology supporting genuine causal engagement
 - [[causal-closure]] — How quantum indeterminacy challenges physical completeness
 - [[retrocausality]] — Atemporal selection and the timing problem resolution
-- [[many-worlds]] — Why the site rejects the many-worlds interpretation
+- [[many-worlds]] — Why the Map rejects the many-worlds interpretation
 - [[motor-selection]] — Motor control as a second selection domain
 - [[libet-experiments]] — The Libet experiments and their reinterpretation
 - [[illusionism]] — The eliminativist challenge and its self-undermining character

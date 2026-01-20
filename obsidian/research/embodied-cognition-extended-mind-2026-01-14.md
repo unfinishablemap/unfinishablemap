@@ -28,7 +28,7 @@ last_curated: null
 
 ## Executive Summary
 
-Embodied cognition and the extended mind thesis represent a major challenge to traditional cognitive science and Cartesian dualism. The 4E approach (embodied, embedded, enacted, extended) argues that cognition does not occur solely in the brain but is deeply dependent on the body and environment. Andy Clark and David Chalmers' "extended mind" thesis (1998) argues that cognitive processes can literally extend into notebooks, devices, and tools. While these theories explicitly oppose Cartesian substance dualism, their relationship to property dualism and the hard problem of consciousness is more complex. Importantly, embodied cognition's phenomenological roots (Husserl, Merleau-Ponty) emphasize first-person experience, and the enactive approach explicitly leaves room for irreducible consciousness. For the site's framework, embodied cognition can be accommodated by the filter theory: the body shapes how consciousness interfaces with the world, without the body generating consciousness. The grounding problem in AI research provides indirect support for dualism—disembodied AI systems struggle with understanding precisely because they lack the embodied, phenomenal engagement with the world that consciousness provides.
+Embodied cognition and the extended mind thesis represent a major challenge to traditional cognitive science and Cartesian dualism. The 4E approach (embodied, embedded, enacted, extended) argues that cognition does not occur solely in the brain but is deeply dependent on the body and environment. Andy Clark and David Chalmers' "extended mind" thesis (1998) argues that cognitive processes can literally extend into notebooks, devices, and tools. While these theories explicitly oppose Cartesian substance dualism, their relationship to property dualism and the hard problem of consciousness is more complex. Importantly, embodied cognition's phenomenological roots (Husserl, Merleau-Ponty) emphasize first-person experience, and the enactive approach explicitly leaves room for irreducible consciousness. For The Unfinishable Map's framework, embodied cognition can be accommodated by the filter theory: the body shapes how consciousness interfaces with the world, without the body generating consciousness. The grounding problem in AI research provides indirect support for dualism—disembodied AI systems struggle with understanding precisely because they lack the embodied, phenomenal engagement with the world that consciousness provides.
 
 ## Key Sources
 
@@ -176,7 +176,7 @@ On the surface, embodied cognition challenges any form of dualism by insisting o
 
 ### Filter Theory Accommodation
 
-The site's [[mind-brain-separation]] article proposes that the brain filters/shapes consciousness rather than producing it. Embodied cognition can be accommodated within this framework:
+The Map's [[mind-brain-separation]] article proposes that the brain filters/shapes consciousness rather than producing it. Embodied cognition can be accommodated within this framework:
 
 - The body (including brain) provides the **interface** through which consciousness engages the world
 - Embodied skills and sensorimotor knowledge are how consciousness **operates through** the body
@@ -193,7 +193,7 @@ The grounding problem in AI research provides indirect support for dualism:
 - Even embodied robots show limited transfer to novel situations
 - This may be because computation alone—whether in silicon or neurons—lacks the phenomenal dimension that grounds meaning
 
-The site's framework would predict this: if consciousness is not identical to computation, then computational systems (however sophisticated) will lack the semantic grounding that comes from phenomenal experience.
+The Map's framework would predict this: if consciousness is not identical to computation, then computational systems (however sophisticated) will lack the semantic grounding that comes from phenomenal experience.
 
 ### Tenet-Specific Analysis
 
@@ -228,7 +228,7 @@ The site's framework would predict this: if consciousness is not identical to co
 
 Based on this research, an article could:
 
-1. **Focus on compatibility**: Show how embodied cognition can be accommodated within the site's filter theory framework. Body shapes how consciousness interfaces with world without producing consciousness. Aligns with Dualism and Bidirectional Interaction tenets.
+1. **Focus on compatibility**: Show how embodied cognition can be accommodated within the Map's filter theory framework. Body shapes how consciousness interfaces with world without producing consciousness. Aligns with Dualism and Bidirectional Interaction tenets.
 
 2. **Focus on AI implications**: Use the grounding problem to argue that computation alone—whether in brains or machines—is insufficient for consciousness. Embodiment helps but doesn't solve the hard problem, suggesting something non-computational is involved.
 

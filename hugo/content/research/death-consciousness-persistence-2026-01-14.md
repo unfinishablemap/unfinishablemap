@@ -16,7 +16,7 @@ title: Research Notes - Death, Consciousness, and Personal Persistence
 
 ## Executive Summary
 
-The question of whether consciousness survives bodily death sits at the intersection of metaphysics, philosophy of mind, and personal identity theory. Dualism opens the logical possibility of survival since immaterial minds could persist independently, but does not guarantee it—functional dependence on bodies might be essential. the site's existing personal-identity article already rejects Parfit's reductionism on grounds that indexical identity matters; this research extends that framework to the survival question. Key finding: the site's commitment to non-reducible consciousness and indexical uniqueness provides stronger resources for survival than materialist alternatives, though survival remains an open question rather than a commitment.
+The question of whether consciousness survives bodily death sits at the intersection of metaphysics, philosophy of mind, and personal identity theory. Dualism opens the logical possibility of survival since immaterial minds could persist independently, but does not guarantee it—functional dependence on bodies might be essential. The Unfinishable Map's existing personal-identity article already rejects Parfit's reductionism on grounds that indexical identity matters; this research extends that framework to the survival question. Key finding: the Map's commitment to non-reducible consciousness and indexical uniqueness provides stronger resources for survival than materialist alternatives, though survival remains an open question rather than a commitment.
 
 ## Key Sources
 
@@ -222,7 +222,7 @@ The question of whether consciousness survives bodily death sits at the intersec
 
 Based on this research, an article could:
 
-1. **Death and the Irreducible Self** — Argue that the site's commitment to non-reducible consciousness and indexical identity (from personal-identity article) provides distinctive resources for the survival question. Unlike Parfit's view (where replicas preserve what matters), or materialist views (where brain death ends consciousness), dualist interactionism leaves survival as a genuine open question. The article would NOT commit to survival but show why dualism makes it coherent in ways materialism cannot. Connect to No Many Worlds (indexical identity) and Dualism tenets.
+1. **Death and the Irreducible Self** — Argue that the Map's commitment to non-reducible consciousness and indexical identity (from personal-identity article) provides distinctive resources for the survival question. Unlike Parfit's view (where replicas preserve what matters), or materialist views (where brain death ends consciousness), dualist interactionism leaves survival as a genuine open question. The article would NOT commit to survival but show why dualism makes it coherent in ways materialism cannot. Connect to No Many Worlds (indexical identity) and Dualism tenets.
 
 2. **Near-Death Experiences and the Hard Problem** — Frame NDEs as a test case for consciousness theories. The paradox of heightened experience during brain compromise creates difficulties for materialist accounts. Whether or not NDEs prove survival, they deepen the hard problem: how can consciousness be vivid when its supposed neural substrate is failing? This connects to Dualism and Bidirectional Interaction tenets.
 

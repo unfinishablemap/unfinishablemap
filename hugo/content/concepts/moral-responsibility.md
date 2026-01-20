@@ -31,7 +31,7 @@ topics:
 - '[[ethics-of-consciousness]]'
 ---
 
-Moral responsibility requires that agents deserve praise or blame for their actions. If an agent couldn't have done otherwise, or wasn't the genuine source of their choice, holding them responsible seems unjust. the site's [agent-causal](/concepts/agent-causation/) framework grounds moral responsibility differently than compatibilism does: agents are genuine sources of action through [quantum selection](/concepts/quantum-consciousness/), making desert metaphysically robust rather than merely pragmatic.
+Moral responsibility requires that agents deserve praise or blame for their actions. If an agent couldn't have done otherwise, or wasn't the genuine source of their choice, holding them responsible seems unjust. The Unfinishable Map's [agent-causal](/concepts/agent-causation/) framework grounds moral responsibility differently than compatibilism does: agents are genuine sources of action through [quantum selection](/concepts/quantum-consciousness/), making desert metaphysically robust rather than merely pragmatic.
 
 This has practical implications. If agents truly author their choices—not as links in deterministic chains but as initiators of causal sequences—then blame and praise track something real about the agent. Moral responsibility isn't a useful fiction but a response to genuine facts about who caused what.
 
@@ -77,9 +77,9 @@ This matters for responsibility. If we can't explain why the agent chose A rathe
 
 ### The Luck Objection, Again
 
-The luck objection to libertarian free will applies to moral responsibility. If nothing about the agent explains why they chose to help rather than harm, how do they deserve praise or blame? The difference seems like luck. See [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) for the full systematization of this challenge and the site's response.
+The luck objection to libertarian free will applies to moral responsibility. If nothing about the agent explains why they chose to help rather than harm, how do they deserve praise or blame? The difference seems like luck. See [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) for the full systematization of this challenge and the Map's response.
 
-The site's [response](/topics/free-will/#why-the-sites-framework-escapes-luck) addresses this directly. Consciousness-selected indeterminism differs from lucky indeterminism:
+The Map's [response](/topics/free-will/#why-the-maps-framework-escapes-luck) addresses this directly. Consciousness-selected indeterminism differs from lucky indeterminism:
 
 | Feature | Lucky Indeterminism | Consciousness-Selected |
 |---------|---------------------|------------------------|
@@ -101,7 +101,7 @@ Key features supporting responsibility:
 
 3. **Two-domain evidence**: Both [attention](/concepts/attention-as-interface/) and [motor control](/concepts/motor-selection/) show identical selection architecture (frontal theta oscillations, ~300ms deployment time, distinct willed-vs-instructed signatures). Two independent domains showing the same structure suggests consciousness genuinely selects, not that we merely attribute selection to coincidental outcomes
 
-4. **Kane's convergence**: Robert Kane's 2024 *Complex Tapestry of Free Will* now incorporates agent-causal elements alongside his event-causal framework, arguing free action requires "exercising teleological guidance control over some of their processes." This represents mainstream libertarianism converging on the site's agent-causal position
+4. **Kane's convergence**: Robert Kane's 2024 *Complex Tapestry of Free Will* now incorporates agent-causal elements alongside his event-causal framework, arguing free action requires "exercising teleological guidance control over some of their processes." This represents mainstream libertarianism converging on the Map's agent-causal position
 
 The control requirement isn't satisfied by mere indeterminism—random processes don't put agents in control. But consciousness-directed selection, operating through the quantum Zeno mechanism, provides exactly what responsibility requires: the agent genuinely determined the outcome from among real alternatives.
 
@@ -151,7 +151,7 @@ Responsible agents know what they're doing. Consciousness provides this: you exp
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: If consciousness is irreducible to physical processes, conscious agents aren't merely complex physical systems. They're substances capable of genuine causal origination. This grounds the metaphysics of agent causation. Without dualism, "agent causation" collapses into a description of complex physical processes—and desert becomes a pragmatic fiction rather than metaphysical reality. The [illusionist](/concepts/illusionism/) challenge directly targets this foundation: if phenomenal consciousness is illusory, the phenomenology of effort that grounds desert loses its evidential force. the site's response—that illusions are still experiences—depends on dualism being true.
+**[Dualism](/tenets/#dualism)**: If consciousness is irreducible to physical processes, conscious agents aren't merely complex physical systems. They're substances capable of genuine causal origination. This grounds the metaphysics of agent causation. Without dualism, "agent causation" collapses into a description of complex physical processes—and desert becomes a pragmatic fiction rather than metaphysical reality. The [illusionist](/concepts/illusionism/) challenge directly targets this foundation: if phenomenal consciousness is illusory, the phenomenology of effort that grounds desert loses its evidential force. the Map's response—that illusions are still experiences—depends on dualism being true.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Consciousness causally influences the physical world. Mental causation is real, not epiphenomenal. This is essential for moral responsibility: if consciousness caused nothing, holding conscious agents responsible for physical outcomes would be incoherent. The wrongdoer's conscious choice must actually cause the harm for desert to attach. [Mental causation](/concepts/mental-causation/) provides what responsibility requires—the agent's phenomenal engagement shapes what happens, not merely observes it. The phenomenology of effort supports bidirectional interaction: if attention merely watched decisions unfold, effort would be epiphenomenal decoration. That difficult choices feel difficult—and that this feeling tracks genuine cognitive load—suggests consciousness does something.
 
@@ -280,12 +280,12 @@ Moral responsibility under agent causation:
 - Character responsibility reflects self-creation through choices
 - Consciousness is essential: agency requires experience of alternatives, effort, and self-knowledge
 
-This framework respects the ordinary intuition that people deserve praise and blame because they really did what they did—not because treating them as if they did has good consequences. Whether that intuition is correct, the site's framework provides a metaphysics that vindicates it.
+This framework respects the ordinary intuition that people deserve praise and blame because they really did what they did—not because treating them as if they did has good consequences. Whether that intuition is correct, the Map's framework provides a metaphysics that vindicates it.
 
 ## Further Reading
 
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Systematization of how quantum indeterminacy supports libertarian free will and responds to the luck objection
-- [free-will](/topics/free-will/) — The broader free will question and the site's position
+- [free-will](/topics/free-will/) — The broader free will question and the Map's position
 - [agent-causation](/concepts/agent-causation/) — Agent vs. event causation in detail
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Consciousness as the foundation of moral status
 - [mental-causation](/concepts/mental-causation/) — How consciousness can cause physical effects

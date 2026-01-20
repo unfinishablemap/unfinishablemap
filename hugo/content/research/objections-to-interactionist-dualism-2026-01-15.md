@@ -23,7 +23,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Research notes on the strongest philosophical objections to interactionist dualism beyond causal closure. Gathered to strengthen engagement with critics and identify responses the site should develop.
+Research notes on the strongest philosophical objections to interactionist dualism beyond causal closure. Gathered to strengthen engagement with critics and identify responses The Unfinishable Map should develop.
 
 ## 1. Kim's Pairing Problem
 
@@ -51,7 +51,7 @@ Kim objects: what prevents two intrinsically indiscernible souls from occupying 
 
 ### Assessment
 
-The pairing problem is distinct from and potentially stronger than causal closure objections. Even granting that consciousness could affect physics at quantum indeterminacies, the question remains: why does *this* consciousness affect *this* body? the site should address this explicitly.
+The pairing problem is distinct from and potentially stronger than causal closure objections. Even granting that consciousness could affect physics at quantum indeterminacies, the question remains: why does *this* consciousness affect *this* body? the Map should address this explicitly.
 
 **Potential response**: The quantum interactionist can hold that minds are spatially located (in the brain region where quantum effects occur) without abandoning dualism. The distinctiveness of consciousness is metaphysical, not spatial.
 
@@ -80,7 +80,7 @@ David Papineau (2001) develops this as an argument *for* causal closure rather t
 
 **2. Energy Types Aren't Specified**: Conservation laws don't dictate *what kinds* of energy exist. If "psychic energy" exists and operates conservatively (transforms rather than appearing/disappearing), no violation occurs. Tim O'Connor suggests consciousness might *redirect* energy without adding it.
 
-**3. Quantum Exception**: At quantum indeterminacies, consciousness could select among possible outcomes without adding energy. The outcomes all have the same energy; consciousness just determines *which* one actualizes. This is the site's primary response via Minimal Quantum Interaction.
+**3. Quantum Exception**: At quantum indeterminacies, consciousness could select among possible outcomes without adding energy. The outcomes all have the same energy; consciousness just determines *which* one actualizes. This is the Map's primary response via Minimal Quantum Interaction.
 
 **4. Conservation is Local**: Robins Collins (2011) argues conservation isn't ubiquitous in physics. Energy isn't conserved in general relativity (no global time symmetry), in quantum field theory (vacuum fluctuations), or in the expanding universe. Conservation is local and approximate.
 
@@ -109,11 +109,11 @@ Physicalism is simpler than dualism, therefore preferable by Occam's Razor.
 
 **3. Consciousness as Datum**: If consciousness is real and irreducible (which experience suggests), then ignoring it isn't parsimony—it's ignoring evidence. Parsimony means not multiplying entities *beyond necessity*. If consciousness cannot be reduced to physics, its acknowledgment is necessary.
 
-**4. Occam's Razor Has Limits**: This is the site's fifth tenet. Parsimony is a methodological heuristic, not a metaphysical truth. It can mislead when we lack complete information. The apparent simplicity of physicalism may reflect our ignorance rather than reality.
+**4. Occam's Razor Has Limits**: This is the Map's fifth tenet. Parsimony is a methodological heuristic, not a metaphysical truth. It can mislead when we lack complete information. The apparent simplicity of physicalism may reflect our ignorance rather than reality.
 
 ### Assessment
 
-The parsimony objection is weak if consciousness really is irreducible. One cannot achieve parsimony by ignoring evidence. the site should emphasize that apparent simplicity doesn't guarantee truth, and that the hard problem gives strong evidence consciousness isn't physical.
+The parsimony objection is weak if consciousness really is irreducible. One cannot achieve parsimony by ignoring evidence. the Map should emphasize that apparent simplicity doesn't guarantee truth, and that the hard problem gives strong evidence consciousness isn't physical.
 
 ## 4. Evolutionary Argument
 
@@ -129,7 +129,7 @@ Often presented as objecting to dualism, this argument actually targets *epiphen
 
 ### Key Point
 
-This argument *supports* the site's position. Interactionist dualism holds that consciousness causes physical effects—exactly what the evolutionary argument requires. The argument targets only those forms of dualism (epiphenomenalism, parallelism) that deny mental causation.
+This argument *supports* the Map's position. Interactionist dualism holds that consciousness causes physical effects—exactly what the evolutionary argument requires. The argument targets only those forms of dualism (epiphenomenalism, parallelism) that deny mental causation.
 
 ### Epiphenomenalist Response
 
@@ -139,7 +139,7 @@ Frank Jackson suggests consciousness might be a "spandrel"—a by-product of neu
 
 ### Assessment
 
-This objection has no force against interactionist dualism. the site can use it *offensively* against epiphenomenalism: if consciousness doesn't cause behavior, evolution can't explain the observed correlations.
+This objection has no force against interactionist dualism. the Map can use it *offensively* against epiphenomenalism: if consciousness doesn't cause behavior, evolution can't explain the observed correlations.
 
 ## 5. The Exclusion Argument (Beyond Causal Closure)
 
@@ -164,7 +164,7 @@ Kim calls this "causal drainage"—efficacy drains from higher levels to lower l
 
 **3. Interventionism (Woodward)**: Causes are factors whose manipulation would change effects. Mental properties can satisfy this criterion even alongside physical realizers.
 
-**4. Quantum Insufficiency**: the site's response. At quantum indeterminacies, P is *not* sufficient for E—physics determines probabilities but not outcomes. M can be causally relevant without competing with sufficient physical causes.
+**4. Quantum Insufficiency**: the Map's response. At quantum indeterminacies, P is *not* sufficient for E—physics determines probabilities but not outcomes. M can be causally relevant without competing with sufficient physical causes.
 
 ### Assessment
 

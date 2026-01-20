@@ -31,7 +31,7 @@ last_curated: null
 
 ## Executive Summary
 
-The "specious present" names the experienced duration of the present moment—not the mathematical instant but the lived interval within which succession and change appear unified. This concept, developed by E.R. Clay and popularized by William James, became central to Husserl's phenomenology of time-consciousness and remains crucial for contemporary consciousness science. Duration estimates range from ~100ms to 3 seconds depending on methodology. Two competing theories—extensionalism (experiences are genuinely temporally extended) and retentionalism (momentary experiences contain retained past content)—remain unresolved. Francisco Varela's neurophenomenology connects these philosophical frameworks to empirical research, proposing that meditation reveals temporal microstructure normally below conscious threshold. For the site's framework, the specious present may be the phenomenological manifestation of consciousness's constitutive role in time—what collapse feels like from within.
+The "specious present" names the experienced duration of the present moment—not the mathematical instant but the lived interval within which succession and change appear unified. This concept, developed by E.R. Clay and popularized by William James, became central to Husserl's phenomenology of time-consciousness and remains crucial for contemporary consciousness science. Duration estimates range from ~100ms to 3 seconds depending on methodology. Two competing theories—extensionalism (experiences are genuinely temporally extended) and retentionalism (momentary experiences contain retained past content)—remain unresolved. Francisco Varela's neurophenomenology connects these philosophical frameworks to empirical research, proposing that meditation reveals temporal microstructure normally below conscious threshold. For The Unfinishable Map's framework, the specious present may be the phenomenological manifestation of consciousness's constitutive role in time—what collapse feels like from within.
 
 ## Key Sources
 
@@ -115,20 +115,20 @@ The "specious present" names the experienced duration of the present moment—no
 - **Tenet alignment**: Supports Occam's Razor Has Limits (contemplative traditions reveal structure science ignores)
 - **Key finding**: First-person methods provide systematic access to temporal phenomenology
 
-## Synthesis for the site
+## Synthesis for the Map
 
 ### The Specious Present as Collapse Phenomenology
 
-The site's framework proposes consciousness participates in quantum collapse, and collapse constitutes time's arrow. The specious present may be the phenomenological manifestation of this:
+The Map's framework proposes consciousness participates in quantum collapse, and collapse constitutes time's arrow. The specious present may be the phenomenological manifestation of this:
 
 1. **Duration matches collapse timing**: Revised microtubule coherence estimates (~10-100μs) multiplied by multiple collapse events could produce the ~100-750ms specious present
 2. **Retention-protention structure parallels quantum constraints**: If collapse involves retrocausal boundary conditions (TSVF), the tripartite structure of now (past-echoing, present, future-anticipating) may reflect the atemporal selection that determines outcomes
-3. **Flow isn't illusion**: B-theory eternalists treat temporal flow as illusory. the site's framework treats it as real—the experiential side of time's constitution through collapse
+3. **Flow isn't illusion**: B-theory eternalists treat temporal flow as illusory. the Map's framework treats it as real—the experiential side of time's constitution through collapse
 4. **Contemplative access**: Meditators accessing temporal microstructure may be observing collapse more directly, which explains why cessation (no collapse = no time) eliminates temporal experience entirely
 
-### Extensionalism vs. Retentionalism from the site's Perspective
+### Extensionalism vs. Retentionalism from the Map's Perspective
 
-The site needn't definitively resolve this debate, but the framework favors a modified extensionalism:
+The Map needn't definitively resolve this debate, but the framework favors a modified extensionalism:
 
 - **Experience is genuinely extended**: Not instantaneous consciousness with retained content, but temporal parts that unfold
 - **But extension involves collapse**: The duration-block is constituted by a series of collapses, each with retrocausal constraints

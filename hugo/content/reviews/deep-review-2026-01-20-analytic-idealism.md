@@ -82,9 +82,9 @@ None. All identified issues addressed.
 
 The deep review enhanced the article's engagement with:
 1. Buddhist critiques of idealism (avoiding conflation with Advaita)
-2. the site's newer framework articles on interface locality and multi-mind coordination
+2. The Unfinishable Map's newer framework articles on interface locality and multi-mind coordination
 3. Empirical distinguishability between dualism and idealism
 4. Filter theory as a dualist alternative to idealist interpretations of contemplative evidence
 5. Value theory implications through phenomenal value realism
 
-Word count increased from ~2200 to ~3000 words. The article now provides stronger arguments for the site's preference for dualism while engaging more fairly with idealism's strongest points.
+Word count increased from ~2200 to ~3000 words. The article now provides stronger arguments for the Map's preference for dualism while engaging more fairly with idealism's strongest points.

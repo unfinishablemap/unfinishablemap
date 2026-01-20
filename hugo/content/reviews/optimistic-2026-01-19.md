@@ -16,7 +16,7 @@ title: Optimistic Review - 2026-01-19
 
 ## Executive Summary
 
-The site has achieved remarkable maturity since the last optimistic review. The addition of foundational pages on dualism, reductionism, and substrate independence critique creates a complete argumentative architecture from first principles through specific applications. Recent work on consciousness-and-creativity and phenomenal-unity demonstrates sophisticated integration of continental philosophy (Bergson, Husserl) with analytic arguments and empirical neuroscience. The coverage is now comprehensive enough that most philosophical queries about dualism and consciousness would find substantive, well-linked content.
+The Unfinishable Map has achieved remarkable maturity since the last optimistic review. The addition of foundational pages on dualism, reductionism, and substrate independence critique creates a complete argumentative architecture from first principles through specific applications. Recent work on consciousness-and-creativity and phenomenal-unity demonstrates sophisticated integration of continental philosophy (Bergson, Husserl) with analytic arguments and empirical neuroscience. The coverage is now comprehensive enough that most philosophical queries about dualism and consciousness would find substantive, well-linked content.
 
 ## Praise from Sympathetic Philosophers
 
@@ -38,9 +38,9 @@ The consciousness-and-creativity.md page extends the quantum selection framework
 
 ### The Phenomenologist (Nagel)
 
-The site increasingly centers first-person phenomenology as both data and constraint. The altered-states-of-consciousness.md page treats ASCs as revealing rather than distorting—"some ASCs may involve *less filtered* access to reality rather than error." This phenomenological open-mindedness is refreshing.
+The Map increasingly centers first-person phenomenology as both data and constraint. The altered-states-of-consciousness.md page treats ASCs as revealing rather than distorting—"some ASCs may involve *less filtered* access to reality rather than error." This phenomenological open-mindedness is refreshing.
 
-The temporal consciousness treatment throughout the site is sophisticated: the specious present, Husserl's retention/protention, Bergson's durée, and the neurological correlates are integrated rather than siloed. The substrate-independence-critique's argument that digital computation lacks genuine retention—"the 'state' at t₁ is replaced by the state at t₂; nothing spans both"—shows how phenomenological analysis constrains mechanism.
+The temporal consciousness treatment throughout the Map is sophisticated: the specious present, Husserl's retention/protention, Bergson's durée, and the neurological correlates are integrated rather than siloed. The substrate-independence-critique's argument that digital computation lacks genuine retention—"the 'state' at t₁ is replaced by the state at t₂; nothing spans both"—shows how phenomenological analysis constrains mechanism.
 
 The treatment of phenomenal unity as conceptually distinct from the binding problem ("The binding problem is a neural engineering puzzle. Phenomenal unity is a philosophical puzzle about the nature of experience") prevents category conflation that weakens many consciousness discussions.
 
@@ -62,7 +62,7 @@ This connects creativity to freedom in a way that avoids mere randomness. The ag
 
 ### The Mysterian (McGinn)
 
-The site maintains appropriate epistemic humility. The tenets page acknowledges "Occam's Razor Has Limits"—parsimony arguments against dualism may reflect "ignorance rather than insight."
+The Map maintains appropriate epistemic humility. The tenets page acknowledges "Occam's Razor Has Limits"—parsimony arguments against dualism may reflect "ignorance rather than insight."
 
 The phenomenology-of-the-edge.md voids article (referenced in recent work) maps what cognitive limits feel like from the inside. The altered-states-of-consciousness.md page treats psychedelic experiences as potentially revelatory rather than automatically dismissing them as distortion.
 
@@ -77,8 +77,8 @@ The reductionism.md distinction between "explanatory reduction fails" and "consc
 
 ### reductionism.md
 - **Strongest point**: The clear distinction between ontological, methodological, and epistemic reductionism—accepting methodological while rejecting the others
-- **Notable quote**: "the site accepts *methodological* reductionism: studying neural correlates illuminates the brain-consciousness interface. But ontological and explanatory reductionism fail."
-- **Why it works**: Shows the site isn't anti-science, just anti-eliminativism
+- **Notable quote**: "the Map accepts *methodological* reductionism: studying neural correlates illuminates the brain-consciousness interface. But ontological and explanatory reductionism fail."
+- **Why it works**: Shows the Map isn't anti-science, just anti-eliminativism
 
 ### substrate-independence-critique.md
 - **Strongest point**: The temporal structure argument—digital computation lacks the specious present's genuine retention/protention
@@ -101,7 +101,7 @@ The reductionism.md distinction between "explanatory reduction fails" and "consc
 
 #### Valence and Affective Phenomenology
 - **Builds on**: phenomenal-value-realism.md, qualia.md, ethics-of-consciousness.md, emotional-consciousness.md
-- **Would address**: Why do emotions *feel* good or bad? Valence is irreducible phenomenology that deserves dedicated treatment beyond the passing mentions throughout the site
+- **Would address**: Why do emotions *feel* good or bad? Valence is irreducible phenomenology that deserves dedicated treatment beyond the passing mentions throughout the Map
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Extends the hard problem to affective states; supports Dualism by showing another dimension of irreducibility
 
@@ -165,7 +165,7 @@ The reductionism.md distinction between "explanatory reduction fails" and "consc
 
 ## Quality Assessment
 
-The site has reached a maturity where:
+The Map has reached a maturity where:
 - Core arguments are fully articulated and cross-linked
 - Recent additions (dualism.md, reductionism.md) fill conceptual gaps
 - Empirical and philosophical content are well-integrated

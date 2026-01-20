@@ -26,7 +26,7 @@ topics: []
 
 ## Executive Summary
 
-Multiple serious proposals exist for how consciousness might interact with the physical world at the quantum level. The main approaches are: (1) Penrose-Hameroff's Orchestrated Objective Reduction (Orch OR) via microtubules, (2) Stapp's Quantum Zeno Effect at synapses, and (3) von Neumann-Wigner consciousness-causes-collapse interpretations. All face the decoherence objection—that quantum coherence in warm, wet brains decays too quickly. Recent 2024-2025 research provides some experimental support for quantum effects in biological systems. These mechanisms directly support the site's Minimal Quantum Interaction tenet.
+Multiple serious proposals exist for how consciousness might interact with the physical world at the quantum level. The main approaches are: (1) Penrose-Hameroff's Orchestrated Objective Reduction (Orch OR) via microtubules, (2) Stapp's Quantum Zeno Effect at synapses, and (3) von Neumann-Wigner consciousness-causes-collapse interpretations. All face the decoherence objection—that quantum coherence in warm, wet brains decays too quickly. Recent 2024-2025 research provides some experimental support for quantum effects in biological systems. These mechanisms directly support The Unfinishable Map's Minimal Quantum Interaction tenet.
 
 ## Key Mechanisms
 

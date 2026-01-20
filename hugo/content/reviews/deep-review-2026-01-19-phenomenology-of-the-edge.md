@@ -32,7 +32,7 @@ topics: []
 - **Missing connection to minimal-consciousness.md**: The task notes explicitly requested this connection. Resolution: Added a new "The Lower Edge: Minimal Consciousness" section exploring how edge-phenomenology from above and minimal consciousness from below may meet at the same territory.
 
 ### Medium Issues Found
-- The AI-assisted exploration suggestion could use more careful framing given the site's position on AI consciousness. Retained as is—the section already acknowledges AI lacks first-person access.
+- The AI-assisted exploration suggestion could use more careful framing given The Unfinishable Map's position on AI consciousness. Retained as is—the section already acknowledges AI lacks first-person access.
 - The Buddhist philosopher persona noted that Buddhist concepts are used instrumentally without engaging Buddhist metaphysics. This is acceptable for a voids article focused on phenomenology rather than metaphysics.
 
 ### Counterarguments Considered

@@ -47,7 +47,7 @@ Otherwise, apply this priority order (favour voids and topics over concepts):
    - Background material that other articles will reference
    - A technical idea that serves as building block, not destination
 
-**Default to topics** when uncertain. the site has many concepts but fewer topics exploring what those concepts mean for the big questions.
+**Default to topics** when uncertain. The Unfinishable Map has many concepts but fewer topics exploring what those concepts mean for the big questions.
 
 Use kebab-case for filenames (e.g., `hard-problem-of-consciousness.md`).
 
@@ -70,7 +70,7 @@ Before writing, review `obsidian/project/writing-style.md` for:
 Before writing, review `obsidian/tenets/tenets.md` and ensure the article will:
 - Not contradict any tenet
 - Not endorse positions that tenets "rule out"
-- Acknowledge the site's perspective where relevant
+- Acknowledge the Map's perspective where relevant
 
 ### 5. Generate Article
 
@@ -111,7 +111,7 @@ last_curated:
 
 ## Relation to Site Perspective
 
-[How this topic connects to the site's tenets - be explicit]
+[How this topic connects to the Map's tenets - be explicit]
 
 ## Further Reading
 

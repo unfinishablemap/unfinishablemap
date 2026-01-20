@@ -26,7 +26,7 @@ title: Research Notes - Meditation and the Observer-Witness Phenomenon
 
 ## Executive Summary
 
-The "observer" or "witness" (Sanskrit: *sakshi*) phenomenon in meditation refers to a state where practitioners experience themselves as passive observers of mental contents—thoughts, sensations, emotions—rather than active interveners. Neuroscience reveals distinct brain signatures: reduced default mode network activity (less self-referential processing), decreased medial prefrontal cortex engagement, and different EEG patterns for effortful versus effortless attention. Critically, research distinguishes "open monitoring" meditation (broad passive awareness) from "focused attention" meditation (active concentration on an object). The effortless or "do nothing" state correlates with theta/alpha activity and posterior cingulate deactivation, while effortful concentration shows gamma and frontal engagement. This distinction maps intriguingly onto the site's framework: passive witnessing may represent consciousness disengaging from selection, while active attention represents consciousness operating through the quantum Zeno mechanism.
+The "observer" or "witness" (Sanskrit: *sakshi*) phenomenon in meditation refers to a state where practitioners experience themselves as passive observers of mental contents—thoughts, sensations, emotions—rather than active interveners. Neuroscience reveals distinct brain signatures: reduced default mode network activity (less self-referential processing), decreased medial prefrontal cortex engagement, and different EEG patterns for effortful versus effortless attention. Critically, research distinguishes "open monitoring" meditation (broad passive awareness) from "focused attention" meditation (active concentration on an object). The effortless or "do nothing" state correlates with theta/alpha activity and posterior cingulate deactivation, while effortful concentration shows gamma and frontal engagement. This distinction maps intriguingly onto The Unfinishable Map's framework: passive witnessing may represent consciousness disengaging from selection, while active attention represents consciousness operating through the quantum Zeno mechanism.
 
 ## Key Sources
 
@@ -194,7 +194,7 @@ The "observer" or "witness" (Sanskrit: *sakshi*) phenomenon in meditation refers
 ## Synthesis: Relation to Site Framework
 
 ### The Selection-Among-Options Model
-The site holds that consciousness selects among options the brain presents. How does the observer/witness phenomenon fit?
+The Map holds that consciousness selects among options the brain presents. How does the observer/witness phenomenon fit?
 
 **Hypothesis 1: Witness State = Suspended Selection**
 In meditation, consciousness temporarily suspends its selecting function. The brain still generates options (thoughts arise), but consciousness doesn't engage—it merely witnesses without choosing. This explains:
@@ -215,7 +215,7 @@ Early meditation requires effort (FA, concentration). Advanced practice achieves
 This explains the paradox: teachers say meditation is "effortless," yet beginners struggle. Initial effort trains the brain; later effortlessness reflects trained brain requiring less intervention.
 
 ### Neural Correlates as Evidence
-The neuroscience supports the site's framework in several ways:
+The neuroscience supports the Map's framework in several ways:
 
 1. **Effortful attention has distinct signature** (frontal theta, alpha-theta coupling, gamma)—matches quantum Zeno prediction that effort does real work
 
@@ -228,9 +228,9 @@ The neuroscience supports the site's framework in several ways:
 The two signatures (effortful/effortless) may mark the difference between consciousness actively using the attention interface vs. consciousness observing without engaging that interface.
 
 ### The Krishnamurti Challenge
-Krishnamurti's "choiceless awareness" poses a deeper challenge: if true freedom is choicelessness, doesn't the site's emphasis on selection perpetuate bondage?
+Krishnamurti's "choiceless awareness" poses a deeper challenge: if true freedom is choicelessness, doesn't the Map's emphasis on selection perpetuate bondage?
 
-Possible response: Krishnamurti describes a state beyond ordinary selfhood—where the constructed ego (which makes problematic choices) dissolves. What remains may still select, but without the egocentric bias that creates suffering. the site's framework describes consciousness's capacity to select; Krishnamurti describes what selection looks like when the distorting lens of ego is removed.
+Possible response: Krishnamurti describes a state beyond ordinary selfhood—where the constructed ego (which makes problematic choices) dissolves. What remains may still select, but without the egocentric bias that creates suffering. the Map's framework describes consciousness's capacity to select; Krishnamurti describes what selection looks like when the distorting lens of ego is removed.
 
 Alternatively: selection is consciousness's interface with physics, not its essence. Consciousness *can* select (Bidirectional Interaction), but isn't *only* selecting. The witness mode reveals what consciousness is apart from its interface function.
 

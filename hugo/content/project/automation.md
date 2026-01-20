@@ -18,7 +18,7 @@ title: AI Automation System
 topics: []
 ---
 
-This site uses scheduled AI automation to develop content over time. The system is designed to converge toward a comprehensive philosophical compendium while maintaining human oversight and alignment with the site's [tenets](/tenets/).
+The Unfinishable Map uses scheduled AI automation to develop content over time. The system is designed to converge toward a comprehensive philosophical compendium while maintaining human oversight and alignment with the Map's [tenets](/tenets/).
 
 ## How It Works
 

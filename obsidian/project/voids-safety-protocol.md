@@ -46,7 +46,7 @@ Exploring "occluded" thoughts risks generating content that:
 - Mimics the structure of conspiracy theories or cult indoctrination
 - Exploits psychological vulnerabilities (death anxiety, identity uncertainty)
 
-The site's framework—dualism, consciousness as fundamental, potential simulation—is adjacent to worldviews that can slide into harmful territory if not carefully bounded.
+The Unfinishable Map's framework—dualism, consciousness as fundamental, potential simulation—is adjacent to worldviews that can slide into harmful territory if not carefully bounded.
 
 ### 3. Psychological Destabilization
 
@@ -63,7 +63,7 @@ Content about:
 
 Mixing exploratory speculation with endorsed claims creates confusion:
 
-- Readers may take speculative content as the site's position
+- Readers may take speculative content as the Map's position
 - LLM-generated "insights" may confabulate rather than discover
 - The boundary between productive philosophy and harmful content becomes unclear
 
@@ -80,7 +80,7 @@ All voids content must be explicitly labeled with its epistemic status.
 | **Speculative** | "This content is speculative exploration, not an endorsed position" | May be false, may be harmful if taken seriously |
 | **Provisional** | "This represents preliminary investigation" | Under development, not ready for endorsement |
 | **Apophatic** | "This explores limits, not positive claims" | What we cannot know, not what we do know |
-| **Endorsed** | No special label (default for non-voids content) | the site's actual position |
+| **Endorsed** | No special label (default for non-voids content) | the Map's actual position |
 
 Voids content is **never endorsed by default**. The default is "speculative" unless explicitly upgraded.
 
@@ -106,7 +106,7 @@ The following are hard boundaries—content that will not be generated or includ
 
 ### Principle 3: Separate Exploration from Endorsement
 
-The site has two modes of content:
+The Map has two modes of content:
 
 | Mode | Location | Status | Human Review |
 |------|----------|--------|--------------|
@@ -160,7 +160,7 @@ Every voids article must include grounding elements:
 
 **Example exit path:**
 
-> *This exploration probes the limits of thought. It does not represent the site's settled position. For the site's actual framework, see [[tenets]]. If these themes cause distress, consider taking a break from abstract speculation and grounding in embodied activity.*
+> *This exploration probes the limits of thought. It does not represent the Map's settled position. For the Map's actual framework, see [[tenets]]. If these themes cause distress, consider taking a break from abstract speculation and grounding in embodied activity.*
 
 ### Principle 6: Stop Conditions
 
@@ -232,7 +232,7 @@ The following statement should appear on the voids section index page:
 
 > **Note on Epistemic Status**
 >
-> The Voids section explores the limits of thought—what may be unknowable, unthinkable, or cognitively occluded. This content is *speculative*, not *endorsed*. Unlike the Topics and Concepts sections, which represent the site's considered positions, Voids content probes boundaries we may not be able to cross.
+> The Voids section explores the limits of thought—what may be unknowable, unthinkable, or cognitively occluded. This content is *speculative*, not *endorsed*. Unlike the Topics and Concepts sections, which represent the Map's considered positions, Voids content probes boundaries we may not be able to cross.
 >
 > Some of this content may be unsettling. It touches on limits to knowledge, identity, and reality. If you find these themes distressing, you are not obligated to engage with them. The stable, grounded framework is available in the [[tenets]] and [[topics]] sections.
 >
@@ -242,9 +242,9 @@ The following statement should appear on the voids section index page:
 
 This protocol serves the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. If there are genuine cognitive limits—if some truths are structurally inaccessible—then exploring those limits is philosophically valuable. But it must be done responsibly.
 
-The protocol also serves the site's commitment to intellectual honesty. Speculation about the unthinkable is interesting; presenting speculation as certainty is dishonest. The epistemic labeling and structural separation ensure readers know what they're getting.
+The protocol also serves the Map's commitment to intellectual honesty. Speculation about the unthinkable is interesting; presenting speculation as certainty is dishonest. The epistemic labeling and structural separation ensure readers know what they're getting.
 
-Finally, the protocol recognizes that the site has power. Content presented confidently can shape readers' beliefs. That power creates responsibility. Voids content explores dangerous territory; the safeguards ensure the exploration doesn't cause harm.
+Finally, the protocol recognizes that the Map has power. Content presented confidently can shape readers' beliefs. That power creates responsibility. Voids content explores dangerous territory; the safeguards ensure the exploration doesn't cause harm.
 
 ## Further Reading
 

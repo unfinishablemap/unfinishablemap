@@ -36,7 +36,7 @@ ai_generated_date: 2026-01-14
 last_curated: null
 ---
 
-Global Workspace Theory (GWT) is one of the most influential neuroscientific theories of consciousness. It explains *when* information becomes conscious—when it is broadcast globally across the brain—but not *why* this broadcast feels like anything. From this site's perspective, GWT provides a valuable description of [[neural-correlates-of-consciousness|neural correlates]] without solving the [[hard-problem-of-consciousness|hard problem]].
+Global Workspace Theory (GWT) is one of the most influential neuroscientific theories of consciousness. It explains *when* information becomes conscious—when it is broadcast globally across the brain—but not *why* this broadcast feels like anything. From The Unfinishable Map's perspective, GWT provides a valuable description of [[neural-correlates-of-consciousness|neural correlates]] without solving the [[hard-problem-of-consciousness|hard problem]].
 
 ## The Theory
 
@@ -120,7 +120,7 @@ AST complements GWT: the attention schema might determine *which* information en
 
 GWT has direct implications for machine consciousness. If consciousness *is* global broadcast—the functional role of making information widely available—then AI systems implementing this architecture could be conscious. Some researchers have argued that Large Language Agents, with their ability to integrate information across many modules, might satisfy GWT's criteria.
 
-This is precisely where the site's framework diverges most sharply. The [[functionalism|absent qualia objection]] applies: a system could implement global broadcast without phenomenal experience. A nation of people, each simulating a neuron in a workspace architecture, would implement the same functional organization as a conscious brain. Is the nation conscious?
+This is precisely where the Map's framework diverges most sharply. The [[functionalism|absent qualia objection]] applies: a system could implement global broadcast without phenomenal experience. A nation of people, each simulating a neuron in a workspace architecture, would implement the same functional organization as a conscious brain. Is the nation conscious?
 
 Site's [[ai-consciousness|AI consciousness skepticism]] rests on dualism, not denial that AI can implement workspace functions. The question is whether functional implementation suffices for experience.
 
@@ -132,7 +132,7 @@ The global workspace is essentially a form of [[working-memory|working memory]] 
 - **Phonological loop and visuospatial sketchpad**: Domain-specific stores that feed content to the workspace
 - **Episodic buffer**: A binding mechanism that integrates multimodal representations and "makes them available to conscious awareness"
 
-The episodic buffer is particularly significant. It performs the binding that GWT's ignition broadcasts globally. Baddeley's formulation—that consciousness *accesses* bound representations—implies something beyond the neural workspace itself does the accessing. This aligns with the site's dualism: the workspace provides content, but consciousness accesses it.
+The episodic buffer is particularly significant. It performs the binding that GWT's ignition broadcasts globally. Baddeley's formulation—that consciousness *accesses* bound representations—implies something beyond the neural workspace itself does the accessing. This aligns with the Map's dualism: the workspace provides content, but consciousness accesses it.
 
 Recent research reveals a telling asymmetry: **maintenance can be unconscious while manipulation requires consciousness**. Activity-silent working memory shows information can be held in synaptic traces without awareness; when you need to *use* that information, conscious reactivation is necessary. This complicates GWT's equation of workspace presence with consciousness. Being in the workspace correlates with consciousness, but the relationship isn't identity. Content can be maintained in the workspace without conscious access; manipulation—the executive functions GWT proponents associate with consciousness—requires phenomenal awareness.
 
@@ -164,9 +164,9 @@ However, this functional account faces the same hard problem objection. GWT expl
 
 ### Filter Theory Integration
 
-From the site's perspective, the memory system hierarchy reveals *where* consciousness interfaces with cognition. Implicit memory shows consciousness can delegate—procedural systems run without continuous conscious engagement. But the [[implicit-memory#Choking Under Pressure: Evidence for Bidirectional Interaction|choking phenomenon]] proves the interface remains: when consciousness re-engages with automatized skills, it causally disrupts them.
+From the Map's perspective, the memory system hierarchy reveals *where* consciousness interfaces with cognition. Implicit memory shows consciousness can delegate—procedural systems run without continuous conscious engagement. But the [[implicit-memory#Choking Under Pressure: Evidence for Bidirectional Interaction|choking phenomenon]] proves the interface remains: when consciousness re-engages with automatized skills, it causally disrupts them.
 
-The workspace may be the neural correlate of the interface between consciousness and memory systems. Consciousness doesn't *enter* the workspace; it *accesses* what the workspace makes available. This reading preserves GWT's empirical insights while maintaining the site's dualist commitment: the workspace describes neural architecture; consciousness is what experiences the content that architecture provides.
+The workspace may be the neural correlate of the interface between consciousness and memory systems. Consciousness doesn't *enter* the workspace; it *accesses* what the workspace makes available. This reading preserves GWT's empirical insights while maintaining the Map's dualist commitment: the workspace describes neural architecture; consciousness is what experiences the content that architecture provides.
 
 ## Relation to Site Perspective
 
@@ -174,11 +174,11 @@ The workspace may be the neural correlate of the interface between consciousness
 
 GWT is compatible with [[tenets#^dualism|Dualism]] if read as describing neural correlates rather than constituting consciousness. Interactionist dualism predicts that consciousness will have reliable correlates—the physical interface where mind and brain meet. GWT may describe this interface without claiming to explain phenomenal consciousness.
 
-The site's [[attention|attention article]] notes that attention serves as the "gateway" to the workspace. This connects with Stapp's proposal that attention is where consciousness influences physics through the quantum Zeno effect. GWT provides mainstream neuroscience context for this idea.
+The Map's [[attention|attention article]] notes that attention serves as the "gateway" to the workspace. This connects with Stapp's proposal that attention is where consciousness influences physics through the quantum Zeno effect. GWT provides mainstream neuroscience context for this idea.
 
 ### Tension
 
-GWT is typically presented as a physicalist/functionalist theory. It identifies consciousness with global broadcast rather than treating broadcast as the physical correlate of a distinct mental phenomenon. This conflicts with the site's commitment to irreducibility.
+GWT is typically presented as a physicalist/functionalist theory. It identifies consciousness with global broadcast rather than treating broadcast as the physical correlate of a distinct mental phenomenon. This conflicts with the Map's commitment to irreducibility.
 
 More subtly, GWT frames the flow as bottom-up: sensory information competes for workspace access through neural dynamics. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness *selects* which information achieves ignition—it doesn't merely observe the winner of neural competition. These views could be compatible if consciousness biases which information wins, but GWT proponents don't typically frame it this way.
 
@@ -202,7 +202,7 @@ For GWT to constitute a complete theory of consciousness (not merely describe co
 
 Current evidence challenges all three. The COGITATE results suggest broadcast may not be necessary—posterior cortex activity tracks conscious content even without full prefrontal engagement. Block's overflow argument suggests consciousness exceeds broadcast. And the hard problem persists conceptually even when neural mechanisms are perfectly understood.
 
-### What Would Support the site's Reading?
+### What Would Support the Map's Reading?
 
 For GWT-as-correlate (compatible with dualism), evidence would show:
 
@@ -223,7 +223,7 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [[hard-problem-of-consciousness]] — The puzzle GWT doesn't address
 - [[higher-order-theories]] — Competitor theory requiring higher-order representation
 - [[predictive-processing]] — Prediction-error framework integratable with GWT
-- [[attention-as-interface]] — Attention as the site's proposed mind-matter interface
+- [[attention-as-interface]] — Attention as the Map's proposed mind-matter interface
 - [[working-memory]] — The cognitive system implementing the workspace architecture
 - [[episodic-memory]] — Autonoetic consciousness requiring full workspace ignition
 - [[semantic-memory]] — Noetic consciousness with intermediate workspace access

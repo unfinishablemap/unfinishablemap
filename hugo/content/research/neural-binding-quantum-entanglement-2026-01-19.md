@@ -157,7 +157,7 @@ This research examines the neural binding problem—how distributed brain proces
   - 40 Hz oscillations present in wakefulness and dreaming, absent in deep sleep
   - Specific loops provide content; nonspecific loops provide unity
   - MEG reveals global 40 Hz activity during conscious perception
-- **Relation to site tenets**: Partially aligns—provides mechanism for *correlation* but not *phenomenal* unity. the site accepts this as part of the neural correlates without claiming it explains unity.
+- **Relation to site tenets**: Partially aligns—provides mechanism for *correlation* but not *phenomenal* unity. The Unfinishable Map accepts this as part of the neural correlates without claiming it explains unity.
 
 ### Integrated Information Theory (IIT)
 - **Proponents**: Giulio Tononi
@@ -166,7 +166,7 @@ This research examines the neural binding problem—how distributed brain proces
   - Phi captures intrinsic cause-effect power
   - Unity follows from irreducibility of integrated information
   - Provides quantitative measure
-- **Relation to site tenets**: Neutral/conflicting—reframes rather than solves the puzzle. the site's [binding-problem](/concepts/binding-problem/) article notes: "Saying unity equals integration doesn't explain *why* information integration produces phenomenal unity."
+- **Relation to site tenets**: Neutral/conflicting—reframes rather than solves the puzzle. the Map's [binding-problem](/concepts/binding-problem/) article notes: "Saying unity equals integration doesn't explain *why* information integration produces phenomenal unity."
 
 ### Quantum Microtubule Hypothesis (Orch OR)
 - **Proponents**: Roger Penrose, Stuart Hameroff
@@ -202,7 +202,7 @@ This research examines the neural binding problem—how distributed brain proces
 ### Whether Unity Is Real or Illusory
 - **Sides**: Realists about unity (most philosophers, Bayne, Chalmers) vs. illusionists (Dennett)
 - **Core disagreement**: Is phenomenal unity a genuine feature of experience or an illusion created by parallel drafts?
-- **Current state**: Most philosophers reject Dennett's position. the site's [phenomenal-unity](/concepts/phenomenal-unity/) article argues unity appears constitutive rather than contingent—not a feature added to experience but what makes something an experience at all.
+- **Current state**: Most philosophers reject Dennett's position. the Map's [phenomenal-unity](/concepts/phenomenal-unity/) article argues unity appears constitutive rather than contingent—not a feature added to experience but what makes something an experience at all.
 
 ## Historical Timeline
 
@@ -227,11 +227,11 @@ This research examines the neural binding problem—how distributed brain proces
 
 Based on this research, an article could:
 
-1. **Synthesize the quantum binding case** — the site's [binding-problem](/concepts/binding-problem/) and [phenomenal-unity](/concepts/phenomenal-unity/) pages already make the quantum argument well. A new article could focus specifically on the *experimental evidence* accumulating since 2022: the Kerskens-Pérez MRI studies, the Wiest epothilone experiments, the twin studies. This would update the empirical support for positions the site already holds philosophically. Aligns with Minimal Quantum Interaction and Bidirectional Interaction tenets.
+1. **Synthesize the quantum binding case** — the Map's [binding-problem](/concepts/binding-problem/) and [phenomenal-unity](/concepts/phenomenal-unity/) pages already make the quantum argument well. A new article could focus specifically on the *experimental evidence* accumulating since 2022: the Kerskens-Pérez MRI studies, the Wiest epothilone experiments, the twin studies. This would update the empirical support for positions the Map already holds philosophically. Aligns with Minimal Quantum Interaction and Bidirectional Interaction tenets.
 
-2. **Address classical mechanisms more fully** — While the site critiques classical mechanisms for failing to explain phenomenal unity, it could develop fuller engagement with thalamocortical resonance (Llinás) specifically. The 40 Hz oscillation research is sophisticated; the site could acknowledge its explanatory power for *correlation* while maintaining that phenomenal *unity* requires more. This would strengthen the argument by engaging the strongest classical alternative.
+2. **Address classical mechanisms more fully** — While the Map critiques classical mechanisms for failing to explain phenomenal unity, it could develop fuller engagement with thalamocortical resonance (Llinás) specifically. The 40 Hz oscillation research is sophisticated; the Map could acknowledge its explanatory power for *correlation* while maintaining that phenomenal *unity* requires more. This would strengthen the argument by engaging the strongest classical alternative.
 
-3. **Experimental tests to distinguish theories** — Focus on what would *decide* between quantum and classical binding. Neven's brain-quantum computer coupling proposal; the fruit fly/organoid experiments; xenon studies. the site could discuss what evidence would challenge the quantum position (decisive neural determinism, ruling out brain quantum effects, effort-selection dissociation). Aligns with Occam's Razor Has Limits—showing that apparent classical simplicity fails if classical mechanisms cannot produce unity.
+3. **Experimental tests to distinguish theories** — Focus on what would *decide* between quantum and classical binding. Neven's brain-quantum computer coupling proposal; the fruit fly/organoid experiments; xenon studies. the Map could discuss what evidence would challenge the quantum position (decisive neural determinism, ruling out brain quantum effects, effort-selection dissociation). Aligns with Occam's Razor Has Limits—showing that apparent classical simplicity fails if classical mechanisms cannot produce unity.
 
 When writing the article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references

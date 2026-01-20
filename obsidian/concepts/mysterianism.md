@@ -92,7 +92,7 @@ The key inversion: what we cannot think is as informative about cognitive archit
 
 This transforms mysterianism from pessimism into method. If we map *where* thought systematically fails—where concepts refuse to form, where the same problems remain mysteries across cultures and centuries—we trace the shape of human cognition itself. Cognitive closure isn't just what blocks us; it's what defines us.
 
-For the site's [[voids]] framework, this is crucial. Mapping void territory (the unthinkable) becomes a way of mapping mind territory (the thinker). The blindspot isn't empty absence—it's structured absence, revealing architecture by silhouette.
+For The Unfinishable Map's [[voids]] framework, this is crucial. Mapping void territory (the unthinkable) becomes a way of mapping mind territory (the thinker). The blindspot isn't empty absence—it's structured absence, revealing architecture by silhouette.
 
 ## Can We Know If the Limits Are Real?
 
@@ -115,7 +115,7 @@ Three positions emerge:
 
 **The Suspended**: The question itself may be formally undecidable. A sufficiently deep cognitive closure would hide itself. Both verification (solving the problem) and falsification (proving permanent closure) seem blocked. This isn't agnosticism from laziness but from logical necessity.
 
-For the site's purposes, the suspended position has a virtue: recognising that we cannot determine whether limits are permanent mandates epistemic humility. If we cannot know what we cannot know, we cannot assume our current best theories are close to final truth.
+For the Map's purposes, the suspended position has a virtue: recognising that we cannot determine whether limits are permanent mandates epistemic humility. If we cannot know what we cannot know, we cannot assume our current best theories are close to final truth.
 
 ## Temporary Versus Permanent
 
@@ -157,7 +157,7 @@ This doesn't dissolve the hard problem but relocates it. The question becomes: h
 
 Whitehead's approach suggests cognitive closure might be domain-specific. We may be closed with respect to property "P" (how neurons generate consciousness) while being open to understanding consciousness as fundamental. The closure concerns *reduction*, not *understanding* tout court. This preserves mysterian humility while allowing progress through different conceptual routes.
 
-The site's tenets align broadly with this: consciousness is fundamental (Dualism), not emergent from non-experiential matter. Mysterianism may be correct about reductive explanation while leaving room for non-reductive understanding.
+The Map's tenets align broadly with this: consciousness is fundamental (Dualism), not emergent from non-experiential matter. Mysterianism may be correct about reductive explanation while leaving room for non-reductive understanding.
 
 ## What Would Challenge This View?
 
@@ -195,23 +195,23 @@ If McGinn's argument works, why doesn't it apply everywhere? Why think conscious
 
 The mysterian response: we succeed with properties that fall within our cognitive reach. Consciousness happens to fall outside it. This isn't surprising—some properties must fall outside any finite cognitive architecture. The question is which ones. The persistence of the hard problem suggests consciousness is among them.
 
-## Relation to this site's Perspective
+## Relation to the Map's Perspective
 
 Mysterianism connects to all five tenets, though the connections vary in nature:
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: This is the strongest alignment. McGinn's position exemplifies exactly what the tenet asserts: our sense of which explanations are "simple" may reflect cognitive limitations rather than ontological facts. When physicalism seems simpler than dualism, that may mean only that we're closed to the complexity involved. Mysterianism provides the conceptual foundation for epistemic humility about parsimony.
 
-**[[tenets#^dualism|Dualism]]**: Mysterianism is officially neutral—but compatible. Mysterians accept that consciousness is real and requires explanation, aligning with the rejection of eliminativism. McGinn doesn't commit to dualism, but his acknowledgment that introspection and perception reveal different aspects of reality resonates with dualist intuitions. the site goes further, treating irreducibility as a commitment rather than remaining agnostic.
+**[[tenets#^dualism|Dualism]]**: Mysterianism is officially neutral—but compatible. Mysterians accept that consciousness is real and requires explanation, aligning with the rejection of eliminativism. McGinn doesn't commit to dualism, but his acknowledgment that introspection and perception reveal different aspects of reality resonates with dualist intuitions. the Map goes further, treating irreducibility as a commitment rather than remaining agnostic.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Here the site departs from pure mysterianism. Where mysterians suggest we cannot know how mind relates to matter, the site proposes that consciousness causally influences the physical world. This is a substantive commitment that mysterians would consider exceeding our cognitive warrant. However, mysterian humility doesn't preclude making working hypotheses—it only warns against overconfidence.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Here the Map departs from pure mysterianism. Where mysterians suggest we cannot know how mind relates to matter, the Map proposes that consciousness causally influences the physical world. This is a substantive commitment that mysterians would consider exceeding our cognitive warrant. However, mysterian humility doesn't preclude making working hypotheses—it only warns against overconfidence.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The quantum mechanism might seem to contradict mysterianism—if we can specify *how* consciousness interfaces with matter, haven't we partially solved the problem McGinn thinks is closed? Not necessarily. the site proposes consciousness biases quantum outcomes without claiming to explain *why* there's something it's like to do so. The hard problem—why there's phenomenal experience at all—remains mysterious even if we understand the causal interface. Compare: we understand how eyes detect light without understanding why seeing feels like something.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The quantum mechanism might seem to contradict mysterianism—if we can specify *how* consciousness interfaces with matter, haven't we partially solved the problem McGinn thinks is closed? Not necessarily. the Map proposes consciousness biases quantum outcomes without claiming to explain *why* there's something it's like to do so. The hard problem—why there's phenomenal experience at all—remains mysterious even if we understand the causal interface. Compare: we understand how eyes detect light without understanding why seeing feels like something.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Mysterianism provides indirect support here. Many-worlds interpretations eliminate collapse and thus any role for consciousness in physics. If we reject many-worlds partly because it makes indexical identity inexplicable ("why am I this observer?"), we're already invoking something like mysterian intuitions—the question seems meaningful even though physics provides no resources to answer it.
 
-**the site's approach**: this site goes further than mysterianism in making specific commitments. Where mysterians remain agnostic about consciousness's nature, the site commits to irreducibility and causal efficacy. These commitments might be wrong—mysterianism warns that certainty exceeds our cognitive warrant. But the site's tenets are presented as commitments, not proofs. Mysterianism's humility is compatible with tentative positions. We can acknowledge our limits while still making our best guesses.
+**the Map's approach**: the Map goes further than mysterianism in making specific commitments. Where mysterians remain agnostic about consciousness's nature, the Map commits to irreducibility and causal efficacy. These commitments might be wrong—mysterianism warns that certainty exceeds our cognitive warrant. But the Map's tenets are presented as commitments, not proofs. Mysterianism's humility is compatible with tentative positions. We can acknowledge our limits while still making our best guesses.
 
-The site's [[voids]] framework resonates with mysterian themes. McGinn's property "P" might be void territory—something that exists but lies beyond our conceptual reach. The difference: the voids framework suggests we can map the *edges* of void territory through apophatic methods, tracing what we cannot think. This is more optimistic than McGinn, who suggests we can't even identify what we're missing. The edge-phenomenology research (see [[phenomenology-of-the-edge]]) provides empirical grounding for this more optimistic possibility.
+The Map's [[voids]] framework resonates with mysterian themes. McGinn's property "P" might be void territory—something that exists but lies beyond our conceptual reach. The difference: the voids framework suggests we can map the *edges* of void territory through apophatic methods, tracing what we cannot think. This is more optimistic than McGinn, who suggests we can't even identify what we're missing. The edge-phenomenology research (see [[phenomenology-of-the-edge]]) provides empirical grounding for this more optimistic possibility.
 
 ## Further Reading
 
@@ -226,8 +226,8 @@ The site's [[voids]] framework resonates with mysterian themes. McGinn's propert
 - [[combination-problem]] — Panpsychism's version of the mystery (relocating rather than solving)
 - [[introspection]] — Whether first-person access can reveal what McGinn's "property P" might be
 - [[decoherence]] — Quantum coherence objections and why they don't dissolve the mystery
-- [[voids]] — the site's framework for approaching cognitive limits
-- [[tenets]] — How this site's commitments compare with mysterian neutrality
+- [[voids]] — the Map's framework for approaching cognitive limits
+- [[tenets]] — How the Map's commitments compare with mysterian neutrality
 
 ## References
 

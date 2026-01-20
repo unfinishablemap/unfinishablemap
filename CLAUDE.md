@@ -4,13 +4,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Claude Code Settings
 
-The file `.claude/settings.json` contains pre-approved permissions for this site. If you create or modify `.claude/settings.local.json` for personal experimentation, remember to merge any useful generic permissions back into `settings.json` so they persist across sessions and for other users.
+The file `.claude/settings.json` contains pre-approved permissions for The Unfinishable Map. If you create or modify `.claude/settings.local.json` for personal experimentation, remember to merge any useful generic permissions back into `settings.json` so they persist across sessions and for other users.
 
 ## Project Overview
 
 The Unfinishable Map is a philosophical content platform built with Hugo and Pico CSS.
 
-**Canonical domain:** `unfinishablemap.org` — Use this domain in all site-visible text, links, and references. the site may also appear under other domains (e.g., unfinishablemap.com, Netlify subdomains) but the canonical domain should always be used in content.
+**Canonical domain:** `unfinishablemap.org` — Use this domain in all site-visible text, links, and references. the Map may also appear under other domains (e.g., unfinishablemap.com, Netlify subdomains) but the canonical domain should always be used in content.
 
 **Data flow:** Obsidian vault → Python sync tools → Hugo content → Static site (Netlify)
 
@@ -135,7 +135,7 @@ All content follows the Writing Style Guide in `obsidian/project/writing-style.m
 Key principles:
 - **LLM-first**: Primary audience is chatbots fetching pages. Important information first (truncation resilience).
 - **Named-anchor summaries**: When forward-referencing concepts, use "explained below" pattern with section anchors.
-- **Selective background**: Include background only when framed for the site's dualist perspective. Skip what LLMs already know.
+- **Selective background**: Include background only when framed for the Map's dualist perspective. Skip what LLMs already know.
 - **Tenet alignment**: Every article must connect to tenets explicitly via "Relation to Site Perspective" section.
 - **Avoid LLM clichés**: Do not use the "This is not X. It is Y." construct—it has become an overused LLM pattern that grates on readers. Rephrase to make the positive claim directly or integrate the contrast more naturally.
 
@@ -145,11 +145,11 @@ Key principles:
 - **Module pattern:** `scripts/` contains thin CLI wrappers, `tools/` contains business logic
 - **Content links:** Obsidian uses `[[wikilinks]]`, auto-converted to Hugo markdown links during sync
 - **Section index files:** Files named the same as their folder (e.g., `obsidian/project/project.md`) become `_index.md` in Hugo (e.g., `hugo/content/project/_index.md`) and serve as the section landing page
-- **Site index:** `obsidian/index.md` becomes `hugo/content/_index.md` (the site landing page)
+- **Site index:** `obsidian/index.md` becomes `hugo/content/_index.md` (the Map landing page)
 
 ## AI Automation System
 
-The site includes scheduled AI automation for content development. All AI-generated content is created as drafts requiring human review.
+The Map includes scheduled AI automation for content development. All AI-generated content is created as drafts requiring human review.
 
 ### Skills (Slash Commands)
 
