@@ -56,12 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review near-death-experiences.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Important evidence often cited for dualism (NDEs, veridical perceptions during cardiac arrest). Check for cross-links to filter-theory.md, altered-states-of-consciousness.md, dualism.md. Ensure scientific evidence (AWARE studies, van Lommel) and site's cautious interpretation are current.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review minimal-consciousness.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, no deep review since creation. Connects to evolution-of-consciousness.md and animal-consciousness.md. Check for cross-links to consciousness-simple-organisms research, phenomenal-unity.md. Ensure site's treatment of minimal phenomenal experience and borderline cases is well-developed.
@@ -75,6 +69,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review near-death-experiences.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Important evidence often cited for dualism (NDEs, veridical perceptions during cardiac arrest). Check for cross-links to filter-theory.md, altered-states-of-consciousness.md, dualism.md. Ensure scientific evidence (AWARE studies, van Lommel) and site's cautious interpretation are current.
+- **Result**: Added "The Illusionist Challenge" subsection engaging Dennett/Frankish with counter-arguments about illusion problem and introspective reliability. Added "The Mysterian Angle" presenting cognitive closure perspective. Added "Process Philosophy Perspective" with Whitehead's actual occasions. Expanded No Many Worlds tenet connection with MWI engagement and haecceity link. Added Minimal Quantum Interaction tenet section. Added "What Would Challenge This View?" section with five falsifiability conditions. Added 5 new cross-links (illusionism, introspection, mysterianism, haecceity, many-worlds) to frontmatter and Further Reading. Added 4 new references.
+- **Output**: Updated `concepts/near-death-experiences.md`, created `reviews/deep-review-2026-01-20-near-death-experiences.md`
 
 ### ✓ 2026-01-20: Deep review evolution-of-consciousness.md for currency and cross-links
 - **Type**: deep-review
