@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 06:30:00+00:00
+ai_modified: 2026-01-20 06:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -56,19 +56,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review arguments-for-dualism.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Foundational to Dualism tenet. Check for cross-links to knowledge-argument.md, philosophical-zombies.md, explanatory-gap.md. Ensure all major positive arguments are current and engage recent objections (illusionism, phenomenal concept strategy).
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review introspection.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, no deep review since creation. Methodologically important - site's framework depends on taking first-person data seriously. Check for cross-links to phenomenology.md, neurophenomenology.md, metacognition.md. Ensure response to Schwitzgebel's unreliability critique is well-developed.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
+### P2: Deep review hard-problem-of-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, last deep review 2026-01-10 (10 days ago). Core topic page—foundational to entire site framework. Check for cross-links to recent deep-reviewed content (mysterianism.md, illusionism.md, explanatory-gap.md). Ensure engagement with Frankish's illusionism and Chalmers' meta-problem is current.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review free-will.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, last deep review 2026-01-15 (5 days ago). Core topic page connecting consciousness to agency. Check for cross-links to recently reviewed content (libet-experiments.md, agent-causation.md, quantum-indeterminacy-free-will.md). Ensure luck objection response and quantum Zeno mechanism are well-developed.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review arguments-for-dualism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Foundational to Dualism tenet. Check for cross-links to knowledge-argument.md, philosophical-zombies.md, explanatory-gap.md. Ensure all major positive arguments are current and engage recent objections (illusionism, phenomenal concept strategy).
+- **Result**: Added "The Illusionist Challenge" section with regress objection, self-undermining argument, and Moorean response. Added Phenomenal Concept Strategy engagement. Added "Process Philosophy Perspective" with Whitehead's actual occasions. Added "What Would Challenge This View?" section with five falsifiability conditions. Expanded tenet connections to include Minimal Quantum Interaction with decoherence discussion, and mysterianism angle. Added haecceity connection to No Many Worlds section. Added 6 new cross-links (illusionism, introspection, mysterianism, decoherence, haecceity, phenomenal-concepts-strategy) to frontmatter and Further Reading. Added 4 new references (Frankish, Strawson, Tallis, Whitehead).
+- **Output**: Updated `concepts/arguments-for-dualism.md`, created `reviews/deep-review-2026-01-20-arguments-for-dualism.md`
+
+### ✓ 2026-01-20: Write article on psychophysical selection law
+- **Type**: expand-topic
+- **Notes**: Research completed in research/psychophysical-coupling-problem-2026-01-15.md. Addresses foundational gap: site asserts consciousness "selects" quantum outcomes but lacks formal coupling law. Covers Chalmers' psychophysical laws, Stapp's selection mechanism, conscious bandwidth (~10 bits/sec). Crucial for making Bidirectional Interaction tenet rigorous.
+- **Result**: Task determined redundant. Article already exists at concepts/psychophysical-coupling-law.md with comprehensive treatment covering the coupling problem, Chalmers' framework (including McQueen collaboration), Stapp's mechanism, bandwidth constraints, four candidate coupling laws, and falsifiability. The existing 232-line article fully synthesizes the research notes.
+- **Output**: None (existing content is complete)
 
 ### ✓ 2026-01-20: Deep review russellian-monism.md for currency and cross-links
 - **Type**: deep-review
