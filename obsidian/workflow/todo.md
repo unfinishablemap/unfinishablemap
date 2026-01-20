@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T07:55:00+00:00
+ai_modified: 2026-01-20T07:58:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,11 +43,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
-### P2: Deep review apophatic-approaches.md for cross-linking
+### P2: Deep review qualia.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: The voids article was created session 13 (now published). May benefit from enhanced cross-linking to newer content (mysterianism.md, limits-reveal-structure.md, whether-real.md). Promotes to P2 for queue health.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-16
+- **Notes**: AI-generated, never deep-reviewed. Core concept for Dualism tenet—the intrinsic qualitative character of experience. Check for cross-links to knowledge-argument.md, inverted-qualia.md, explanatory-gap.md, phenomenology.md. Ensure engagement with illusionism and response to Dennett's "quining qualia" is well-developed.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review philosophical-zombies.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, never deep-reviewed. Key conceivability argument for dualism. Check for cross-links to arguments-for-dualism.md, hard-problem-of-consciousness.md, functionalism.md. Ensure engagement with Type-B physicalism responses and 2D semantics is current.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review quantum-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, never deep-reviewed. Core concept for Minimal Quantum Interaction tenet—covers Orch OR, quantum Zeno, and related theories. Check for cross-links to decoherence.md, neural-quantum-coherence.md, measurement-problem.md. Ensure 2024-2025 research developments are incorporated.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review self-reference-paradox.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: Voids article on self-reference paradoxes in consciousness studies. Never deep-reviewed. Check for cross-links to mysterianism.md, introspection.md, metacognition.md. Core to Occam's Razor Has Limits tenet—explores where attempts to understand consciousness become self-undermining.
+- **Source**: staleness
+- **Generated**: 2026-01-20
 
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
@@ -65,6 +83,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review apophatic-approaches.md for cross-linking
+- **Type**: deep-review
+- **Notes**: The voids article was created session 13 (now published). May benefit from enhanced cross-linking to newer content (mysterianism.md, limits-reveal-structure.md, whether-real.md). Promotes to P2 for queue health.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with three responses (regress, method survival, symptomatic interpretation). Added "Process Philosophy Perspective" section connecting Whitehead's actual occasions and creativity. Added "What Would Challenge This View?" section with five falsifiability conditions. Expanded "Relation to Site Perspective" to cover all five tenets. Fixed Wittgenstein quote accuracy. Added 7 new cross-links (mysterianism, limits-reveal-structure, whether-real, phenomenology-of-the-edge, illusionism, introspection, decoherence) to frontmatter and Further Reading. Added 4 new references.
+- **Output**: obsidian/voids/apophatic-approaches.md, reviews/deep-review-2026-01-20-apophatic-approaches.md
 
 ### ✓ 2026-01-20: Deep review quantum-biology.md for currency and cross-links
 - **Type**: deep-review
