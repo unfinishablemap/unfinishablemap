@@ -111,21 +111,21 @@ Some see this as cultural decline—the loss of meaning structures that once gav
 
 Popular culture oscillates between pessimistic nihilism (the sense that everything is meaningless and we should despair) and optimistic nihilism (the sense that since nothing matters cosmically, we are free to define our own meaning). Both acknowledge the same premise; they differ only in response.
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
-this project's [[tenets]] take positions that resist at least some forms of nihilism.
+this site's [[tenets]] take positions that resist at least some forms of nihilism.
 
-**Against moral nihilism**: The tenets express commitments—chosen starting points that shape exploration. While they are "not proven," they are also not arbitrary. the project treats questions of consciousness, meaning, and value as genuinely important, not as mere preferences. More substantively, if [[qualia]] are real—if there is genuinely something it is like to experience—then some states are intrinsically better or worse than others. The agony of severe pain is not merely *dispreferred*; it is bad in itself. [[phenomenal-value-realism|Phenomenal value realism]] suggests that conscious experience provides the grounding for objective value that moral nihilism claims doesn't exist.
+**Against moral nihilism**: The tenets express commitments—chosen starting points that shape exploration. While they are "not proven," they are also not arbitrary. the site treats questions of consciousness, meaning, and value as genuinely important, not as mere preferences. More substantively, if [[qualia]] are real—if there is genuinely something it is like to experience—then some states are intrinsically better or worse than others. The agony of severe pain is not merely *dispreferred*; it is bad in itself. [[phenomenal-value-realism|Phenomenal value realism]] suggests that conscious experience provides the grounding for objective value that moral nihilism claims doesn't exist.
 
 **Against epistemological nihilism**: The tenets assume we can know things, including things about consciousness and its relationship to the physical world. The discussions of dualism, quantum mechanics, and philosophy of mind presuppose that inquiry can make progress.
 
-**Existential nihilism is more complex**: the project does not explicitly affirm or deny cosmic meaning. The tenets take consciousness seriously—as irreducible, as causally efficacious, as something over and above physical processes. If consciousness is real and matters in the universe, this may ground a kind of meaning that pure existential nihilism denies.
+**Existential nihilism is more complex**: the site does not explicitly affirm or deny cosmic meaning. The tenets take consciousness seriously—as irreducible, as causally efficacious, as something over and above physical processes. If consciousness is real and matters in the universe, this may ground a kind of meaning that pure existential nihilism denies.
 
 The [[tenets#^dualism|Dualism tenet]] holds that consciousness is not reducible to physical processes. If true, consciousness is something genuinely extra in the universe—not an illusion, not "mere" physics wearing a different label. This suggests the universe contains more than the nihilist's empty mechanism.
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] holds that consciousness causally influences the physical world. If true, what we experience and choose makes a real difference to how things unfold. This is not yet cosmic *purpose*, but it is at least cosmic *efficacy*—consciousness matters in the causal order.
 
-Whether these commitments defeat existential nihilism depends on questions this project does not settle: whether consciousness *should* exist, whether its presence constitutes meaning, whether meaning requires more than causal relevance. But they at least complicate the nihilist picture of a universe indifferent to mind.
+Whether these commitments defeat existential nihilism depends on questions this site does not settle: whether consciousness *should* exist, whether its presence constitutes meaning, whether meaning requires more than causal relevance. But they at least complicate the nihilist picture of a universe indifferent to mind.
 
 The [[mysterianism|mysterian]] position adds a note of humility here. If there are principled limits to what human cognition can understand about consciousness and its significance, then confident pronouncements of nihilism may exceed what we can know. Perhaps meaning exists in ways we cannot fully articulate, or perhaps the question itself has presuppositions we cannot examine. The nihilist claims to see the void; the mysterian asks whether our cognitive searchlight can illuminate the entire territory.
 
@@ -136,7 +136,7 @@ The [[mysterianism|mysterian]] position adds a note of humility here. If there a
 - [[eastern-philosophy-consciousness]] - Buddhist approaches to meaning and consciousness
 - [[phenomenal-value-realism]] - Why conscious experience grounds objective value
 - [[free-will]] - The metaphysics of choice and why choices matter
-- [[tenets]] - this project's foundational commitments
+- [[tenets]] - this site's foundational commitments
 
 ## References
 

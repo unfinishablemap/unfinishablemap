@@ -50,7 +50,7 @@ Embodied cognition rests on several interconnected claims:
 
 ## Phenomenological Roots
 
-Embodied cognition draws heavily on [phenomenology](/concepts/phenomenology/). Merleau-Ponty's analysis of the "lived body" is foundational. The body is neither mere matter (an object among objects) nor pure mind (a thinking substance). It is the project where consciousness and world interpenetrate.
+Embodied cognition draws heavily on [phenomenology](/concepts/phenomenology/). Merleau-Ponty's analysis of the "lived body" is foundational. The body is neither mere matter (an object among objects) nor pure mind (a thinking substance). It is the site where consciousness and world interpenetrate.
 
 Consider bodily skill. An expert typist doesn't consciously locate keys—the hands "know" where they are. A pianist's fingers find notes through acquired habit, not explicit representation. Merleau-Ponty calls this "motor intentionality": bodily knowledge that is meaningful but not intellectually represented.
 
@@ -114,7 +114,7 @@ The strongest version of embodied cognition is enactivism, developed by Francisc
 
 Thompson's *Mind in Life* (2007) argues for continuity between life and mind: where there is life, there is proto-mind. A cognitive being's world "is not a prespecified, external realm...but a relational domain enacted or brought forth."
 
-Crucially, enactivists like Thompson and Varela don't eliminate consciousness. They treat experience as central data requiring first-person methods (hence Varela's [neurophenomenology](/concepts/neurophenomenology/)). This aligns more with the project's framework than with eliminative materialism.
+Crucially, enactivists like Thompson and Varela don't eliminate consciousness. They treat experience as central data requiring first-person methods (hence Varela's [neurophenomenology](/concepts/neurophenomenology/)). This aligns more with the site's framework than with eliminative materialism.
 
 ## The AI Grounding Problem
 
@@ -124,11 +124,11 @@ The "grounding problem" asks: how do symbols acquire meaning? A computer can man
 
 Embodied cognition suggests the solution is physical interaction. A robot that navigates, manipulates objects, and learns through embodied action might achieve genuine understanding where pure language models cannot.
 
-Yet even embodied robots struggle. They transfer poorly to novel situations; their "understanding" remains brittle. the project's framework suggests an explanation: if consciousness isn't identical to computation (whether in silicon or neurons), then computational systems—however sophisticated—will lack the semantic grounding that comes from phenomenal experience. Embodiment helps but doesn't suffice because the missing ingredient isn't physical interaction but consciousness itself.
+Yet even embodied robots struggle. They transfer poorly to novel situations; their "understanding" remains brittle. the site's framework suggests an explanation: if consciousness isn't identical to computation (whether in silicon or neurons), then computational systems—however sophisticated—will lack the semantic grounding that comes from phenomenal experience. Embodiment helps but doesn't suffice because the missing ingredient isn't physical interaction but consciousness itself.
 
 ## Compatibility with Filter Theory
 
-the project's [mind-brain-separation](/concepts/mind-brain-separation/) article proposes that the brain filters or shapes consciousness rather than producing it. Embodied cognition can be accommodated within this framework:
+the site's [mind-brain-separation](/concepts/mind-brain-separation/) article proposes that the brain filters or shapes consciousness rather than producing it. Embodied cognition can be accommodated within this framework:
 
 The body (including brain) provides the **interface** through which consciousness engages the world. Embodied skills and sensorimotor knowledge describe how consciousness **operates through** the body. The body constrains and shapes experience without necessarily generating it.
 
@@ -144,7 +144,7 @@ The lived body that Merleau-Ponty describes—neither pure matter nor pure mind�
 
 This perspective illuminates embodied skill. The expert's absorbed performance isn't the elimination of experience but its distribution—micro-experiences in fingers, muscles, and perceptual systems coordinating without requiring representation in a central consciousness. The choking phenomenon occurs when central consciousness *re-appropriates* what had been delegated, disrupting the distributed experiential coordination.
 
-Importantly, Whitehead's framework preserves what matters for dualism: experience as fundamental, not as emergent from non-experiential matter. the project's [Dualism tenet](/tenets/#dualism) is compatible with process philosophy—both reject the claim that consciousness reduces to physical description. What process philosophy adds is a way of understanding embodiment without falling into either Cartesian separation or materialist reduction.
+Importantly, Whitehead's framework preserves what matters for dualism: experience as fundamental, not as emergent from non-experiential matter. the site's [Dualism tenet](/tenets/#dualism) is compatible with process philosophy—both reject the claim that consciousness reduces to physical description. What process philosophy adds is a way of understanding embodiment without falling into either Cartesian separation or materialist reduction.
 
 ## What Would Challenge This View?
 
@@ -160,9 +160,9 @@ The compatibility between embodied cognition and dualism would be undermined if:
 
 5. **The phenomenological tradition proves reducible.** Merleau-Ponty's "lived body" seems irreducible to third-person description. But if systematic translation of phenomenological categories into neural-functional terms succeeds without residue, the argument that embodied cognition supports property dualism weakens.
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
-Embodied cognition's relationship to the project's tenets requires careful analysis:
+Embodied cognition's relationship to the site's tenets requires careful analysis:
 
 **[Dualism](/tenets/#dualism)**: Embodied cognition explicitly opposes Cartesian substance dualism—the view that mind is an entirely separate substance from body. However, property dualism—the view that phenomenal properties are irreducible even if mind depends on body—remains untouched. The phenomenological tradition embedded in enactivism actually supports irreducibility of experience. Merleau-Ponty rejected eliminativism as firmly as he rejected Cartesian dualism.
 

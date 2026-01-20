@@ -30,7 +30,7 @@ topics: []
 
 ## Executive Summary
 
-The new content shows strong engagement with philosophical counterpositions and good integration with site tenets. Three medium-severity issues emerge: (1) the quantum consciousness article claims supporting evidence that overstates current science, (2) the purpose-and-alignment article makes a novel argument connecting AI alignment to consciousness that deserves more rigorous defence, and (3) the Eastern philosophy article may concede too much to Buddhist no-self doctrine given the project's dualist commitments.
+The new content shows strong engagement with philosophical counterpositions and good integration with site tenets. Three medium-severity issues emerge: (1) the quantum consciousness article claims supporting evidence that overstates current science, (2) the purpose-and-alignment article makes a novel argument connecting AI alignment to consciousness that deserves more rigorous defence, and (3) the Eastern philosophy article may concede too much to Buddhist no-self doctrine given the site's dualist commitments.
 
 ## Critiques by Philosopher
 
@@ -56,7 +56,7 @@ The new content shows strong engagement with philosophical counterpositions and 
 *On purpose-and-alignment.md*: "You claim consciousness is where 'purpose resides' but this is not testable. An AI alignment researcher could reasonably ask: what prediction does this make? If we cannot distinguish an aligned AI from a misaligned one based on this criterion, it's not a useful contribution to alignment research."
 
 ### The Buddhist Philosopher (Nagarjuna)
-*On eastern-philosophy-consciousness.md*: "Your article engages seriously with Buddhism but ultimately tries to rescue a permanent self by switching from substance dualism to property dualism. This is still grasping. If phenomenal properties 'arise and pass dependently,' what is the entity that *has* these properties? You cannot escape anattā by relabelling. the project's attempt to be both dualist and impermanence-friendly is conceptually unstable."
+*On eastern-philosophy-consciousness.md*: "Your article engages seriously with Buddhism but ultimately tries to rescue a permanent self by switching from substance dualism to property dualism. This is still grasping. If phenomenal properties 'arise and pass dependently,' what is the entity that *has* these properties? You cannot escape anattā by relabelling. the site's attempt to be both dualist and impermanence-friendly is conceptually unstable."
 
 *On functionalism.md*: "You reject functionalism for leaving out qualia. But qualia themselves are empty—arising dependently, without inherent existence. Your critique presupposes a kind of phenomenal realism that is itself a form of clinging."
 
@@ -79,16 +79,16 @@ The new content shows strong engagement with philosophical counterpositions and 
 ### Issue 3: Buddhist Accommodation May Undermine Dualism
 - **File**: `topics/eastern-philosophy-consciousness.md`
 - **Location**: "Points of Tension - No Permanent Self" section
-- **Problem**: The article suggests dualism could be compatible with Buddhist impermanence by switching to property dualism rather than substance dualism. But this may concede too much. If there's no permanent subject of experience, what exactly is irreducible about consciousness? the project's other articles assume there's a "you" that persists and matters. Buddhist anattā undermines this.
+- **Problem**: The article suggests dualism could be compatible with Buddhist impermanence by switching to property dualism rather than substance dualism. But this may concede too much. If there's no permanent subject of experience, what exactly is irreducible about consciousness? the site's other articles assume there's a "you" that persists and matters. Buddhist anattā undermines this.
 - **Severity**: Medium
-- **Recommendation**: Either strengthen the case for substance dualism (there *is* a permanent experiencer even if Buddhism denies it) or acknowledge this as genuine tension the project hasn't resolved. The current formulation tries to have it both ways.
+- **Recommendation**: Either strengthen the case for substance dualism (there *is* a permanent experiencer even if Buddhism denies it) or acknowledge this as genuine tension the site hasn't resolved. The current formulation tries to have it both ways.
 
 ### Issue 4: Dennett's Response to Zombies Not Engaged
 - **File**: `concepts/functionalism.md`
 - **Location**: "The Absent Qualia Objection" section
 - **Problem**: The article mentions functionalist responses to zombies but doesn't engage with Dennett's specific argument that zombies are not genuinely conceivable. Dennett argues we only think we can imagine zombies because we don't understand consciousness; once we do, zombie scenarios will seem as confused as they are.
 - **Severity**: Low-Medium
-- **Recommendation**: Add a sentence acknowledging Dennett's position and explain why the project finds conceivability arguments compelling despite his objection.
+- **Recommendation**: Add a sentence acknowledging Dennett's position and explain why the site finds conceivability arguments compelling despite his objection.
 
 ## Counterarguments to Address
 
@@ -100,12 +100,12 @@ The new content shows strong engagement with philosophical counterpositions and 
 ### Cognitive Closure Is Unfalsifiable
 - **Current content says**: Some voids may be genuinely unexplorable due to cognitive architecture
 - **A critic would argue**: This is conveniently unfalsifiable. Any failure to explain consciousness can be attributed to cognitive closure rather than inadequate theory.
-- **Suggested response**: Acknowledge the falsifiability concern but note that cognitive closure is a *hypothesis*, not a conclusion. the project remains open to the possibility that consciousness is explicable; it simply doesn't assume it.
+- **Suggested response**: Acknowledge the falsifiability concern but note that cognitive closure is a *hypothesis*, not a conclusion. the site remains open to the possibility that consciousness is explicable; it simply doesn't assume it.
 
 ### Buddhist No-Self Challenges Indexical Identity
 - **Current content says**: The No Many Worlds tenet relies on indexical identity mattering
 - **A critic would argue**: If Buddhism is right that the self is a convention, not a substance, then "why am I this branch and not another?" is a confused question—there is no persistent "I" to be in any branch.
-- **Suggested response**: the project could engage with this directly: perhaps indexical identity doesn't require substance, only continuity of experience. But this needs development.
+- **Suggested response**: the site could engage with this directly: perhaps indexical identity doesn't require substance, only continuity of experience. But this needs development.
 
 ## Unsupported Claims
 
@@ -120,7 +120,7 @@ The new content shows strong engagement with philosophical counterpositions and 
 | Current | Issue | Suggested |
 |---------|-------|-----------|
 | "Recent research suggests biology may have mechanisms to maintain coherence longer than expected" | Vague appeal to authority | Specify which research and how long |
-| "This is precisely what preference-learning systems cannot access" | Too confident | "This is what preference-learning systems seem unable to access, if the project's framework is correct" |
+| "This is precisely what preference-learning systems cannot access" | Too confident | "This is what preference-learning systems seem unable to access, if the site's framework is correct" |
 
 ## Strengths (Brief)
 
@@ -144,7 +144,7 @@ Despite criticisms, the new content represents significant improvement:
 | Preferentist critique tu quoque | Low-Medium | New |
 | Cognitive closure unfalsifiable | Low | Existing pattern |
 
-**Overall assessment**: the project continues to grow in sophistication. The new articles engage seriously with opposing views and don't shy from tension. The main risk is in the quantum consciousness article, which may overstate empirical support and thereby undermine credibility. The purpose-and-alignment article is interesting but needs tighter argument if it's to be more than speculation.
+**Overall assessment**: the site continues to grow in sophistication. The new articles engage seriously with opposing views and don't shy from tension. The main risk is in the quantum consciousness article, which may overstate empirical support and thereby undermine credibility. The purpose-and-alignment article is interesting but needs tighter argument if it's to be more than speculation.
 
 **Recommended actions**:
 1. Qualify the quantum evidence claims in quantum-consciousness.md

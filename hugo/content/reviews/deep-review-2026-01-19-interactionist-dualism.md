@@ -78,7 +78,7 @@ Six sympathetic philosopher personas examined the document:
 
 ## Summary
 
-This deep review addressed a foundational article (the project's primary statement of its core position) that had never received comprehensive review. Key improvements:
+This deep review addressed a foundational article (the site's primary statement of its core position) that had never received comprehensive review. Key improvements:
 
 1. Added missing COGITATE citation
 2. Strengthened zombie conceivability argument against Dennett's objection
@@ -88,4 +88,4 @@ This deep review addressed a foundational article (the project's primary stateme
 6. Improved decoherence response specificity
 7. Connected agent causation to free will framework
 
-The article remains well-structured with appropriate epistemic humility while defending the project's position.
+The article remains well-structured with appropriate epistemic humility while defending the site's position.

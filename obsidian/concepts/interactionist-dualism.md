@@ -49,7 +49,7 @@ coalesced_from:
 
 Interactionist dualism holds that mind and body are distinct yet causally connected—consciousness is not physical, but it influences physical outcomes, and physical events influence consciousness. This is a variant of [[dualism]] that distinguishes it from [[epiphenomenalism]], which accepts dualism but denies that consciousness causes anything.
 
-This position forms the core of this project's [[tenets|philosophical framework]]. The [[tenets#^dualism|Dualism]] tenet affirms irreducibility; the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet affirms causal efficacy; the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies where such causation could occur.
+This position forms the core of this site's [[tenets|philosophical framework]]. The [[tenets#^dualism|Dualism]] tenet affirms irreducibility; the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet affirms causal efficacy; the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies where such causation could occur.
 
 ## The Core Position
 
@@ -67,11 +67,11 @@ If consciousness is ontologically distinct from physics, their relationship must
 
 **Supervenience laws** specify which physical states are accompanied by which mental states. Given the physical facts, the mental facts follow. These laws run *upward*: from physics to phenomenology. Chalmers' own framework emphasizes supervenience laws—once you fix all physical facts, psychophysical laws determine what experience (if any) accompanies them.
 
-**Causal laws** (or "selection laws" in this project's terminology) specify how mental states influence which physical states become actual. The mental is input; the physical is output. These laws run *downward*: from phenomenology to physics.
+**Causal laws** (or "selection laws" in this site's terminology) specify how mental states influence which physical states become actual. The mental is input; the physical is output. These laws run *downward*: from phenomenology to physics.
 
 The crucial point for interactionism: supervenience laws alone yield epiphenomenalism. If psychophysical laws only specify what experience accompanies given physical states, consciousness remains causally inert—an epiphenomenal accompaniment to physical processes. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires *causal* laws, not merely supervenience laws. Consciousness doesn't just accompany brain states; it selects among physically underdetermined alternatives.
 
-Chalmers himself tends toward epiphenomenalism—accepting supervenience laws while remaining skeptical of causal laws. the project diverges here. The self-stultification argument (see below) shows that epiphenomenalism is self-undermining, giving positive motivation for causal laws. The [[psychophysical-coupling-law]] page explores what such selection laws must accomplish; the [[psychophysical-laws]] page explains Chalmers' full framework and where the project departs from it.
+Chalmers himself tends toward epiphenomenalism—accepting supervenience laws while remaining skeptical of causal laws. the site diverges here. The self-stultification argument (see below) shows that epiphenomenalism is self-undermining, giving positive motivation for causal laws. The [[psychophysical-coupling-law]] page explores what such selection laws must accomplish; the [[psychophysical-laws]] page explains Chalmers' full framework and where the site departs from it.
 
 ## The Historical Problem
 
@@ -144,7 +144,7 @@ The contemporary version of the interaction problem centers on [[causal-closure|
 
 These premises are jointly inconsistent. Kim concludes that mental properties must be either identical to physical properties (reductionism) or causally inert ([[epiphenomenalism]]). This is the central argument against interactionism.
 
-the project's response: reject premise 1. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that physics is *not* causally closed at quantum indeterminacies. At these points, physics specifies probabilities but not outcomes. The physical story is incomplete, leaving room for consciousness to select among possibilities without adding energy or violating conservation laws.
+the site's response: reject premise 1. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that physics is *not* causally closed at quantum indeterminacies. At these points, physics specifies probabilities but not outcomes. The physical story is incomplete, leaving room for consciousness to select among possibilities without adding energy or violating conservation laws.
 
 Kim's argument fails at quantum indeterminacies because there is no sufficient physical cause to exclude mental causation. Physics provides necessary but not sufficient causes—the probabilities but not which outcome actualizes. Consciousness fills a genuine gap rather than competing with complete physical causes.
 
@@ -158,7 +158,7 @@ For physical causation, spatial relations provide the answer. The billiard ball 
 
 **The spatial location response**: Many contemporary dualists (Hasker, Zimmerman) accept that minds are spatially located—specifically, in the brain region where they interact. M1 is paired with B1 because M1 occupies B1's brain. This dissolves the pairing problem while maintaining that minds are ontologically distinct from bodies.
 
-This response fits naturally with the project's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework. If consciousness interfaces with the brain at quantum indeterminacies in specific neural structures, consciousness is located *where those structures are*. The distinctiveness of consciousness is metaphysical, not spatial—it can be a different kind of thing from matter while still occupying space.
+This response fits naturally with the site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework. If consciousness interfaces with the brain at quantum indeterminacies in specific neural structures, consciousness is located *where those structures are*. The distinctiveness of consciousness is metaphysical, not spatial—it can be a different kind of thing from matter while still occupying space.
 
 **Alternative responses**: Andrew Bailey, Joshua Rasmussen, and Luke Van Horn argue that haecceities (primitive "thisness") could ground pairing relations without spatial location. If haecceities exist for physical objects too, the pairing problem generalizes to all causation and isn't specifically a problem for dualism.
 
@@ -172,7 +172,7 @@ Three uncomfortable options arise for naive consciousness-causes-collapse:
 2. **Consensus required**—but this requires either nonlocal coordination or indefinite superposition while awaiting agreement
 3. **Dominant consciousness**—but this requires an arbitrary measure of consciousness intensity
 
-the project's resolution combines [[interface-locality]] with [[prebiotic-collapse]]: each consciousness interfaces only with its own brain, modulating collapse locally. External systems collapse through objective physical processes. No coordination is needed because each mind operates on its own substrate.
+the site's resolution combines [[interface-locality]] with [[prebiotic-collapse]]: each consciousness interfaces only with its own brain, modulating collapse locally. External systems collapse through objective physical processes. No coordination is needed because each mind operates on its own substrate.
 
 This resolution emerges naturally from the mechanism itself. Attention—the proposed interface—is neurally implemented. You cannot attend to distant quantum systems the way you attend to your own neural states. The quantum Zeno effect, operating through repeated observation, requires the observer-system coupling that only exists within one's own brain.
 
@@ -212,7 +212,7 @@ Key features:
 - Makes specific empirical predictions about microtubule behavior
 - Recent research (2024-2025) finds quantum effects in biological systems at room temperature, though debate continues
 
-Both proposals share what this project requires: consciousness biasing otherwise indeterminate quantum outcomes without violating physical law.
+Both proposals share what this site requires: consciousness biasing otherwise indeterminate quantum outcomes without violating physical law.
 
 ## The Decoherence Objection
 
@@ -224,7 +224,7 @@ Responses vary:
 - **General**: Decoherence calculations assume isolated systems and specific environmental coupling. Biological systems may exploit noise-assisted quantum effects, as demonstrated in photosynthetic energy transfer.
 - **Crucially**: Decoherence explains *basis selection*—why we see definite states rather than superpositions—but doesn't explain why *this particular* outcome occurs rather than another. As the [[decoherence]] page details, "the system still remains in a mixture of possible outcomes." Consciousness could bias which outcome actualizes even after decoherence has eliminated superposition.
 
-This remains an active empirical question. the project takes no position on which quantum mechanism is correct, only that *some* such interface exists.
+This remains an active empirical question. the site takes no position on which quantum mechanism is correct, only that *some* such interface exists.
 
 ## Agent Causation: The Metaphysical Framework
 
@@ -246,7 +246,7 @@ Interactionist dualism can be understood as a form of strong [[emergence]]—con
 
 Classical British emergentists (Broad, Alexander) accepted similar conclusions but had no mechanism to offer. They accepted strong emergence with "natural piety"—brute facts about what higher-level properties do, without explanation of how. This left their position vulnerable to Kim's exclusion argument: if physics is causally complete, emergent properties have no room to operate.
 
-the project's quantum framework provides what classical emergentism lacked: *where* and *how* emergent causation operates. Kim argues that emergent properties face exclusion by their physical realizers. The quantum response: at quantum indeterminacies, there is no sufficient physical realizer to do the excluding. Physics provides necessary but not sufficient causes. Consciousness fills the genuine gap.
+the site's quantum framework provides what classical emergentism lacked: *where* and *how* emergent causation operates. Kim argues that emergent properties face exclusion by their physical realizers. The quantum response: at quantum indeterminacies, there is no sufficient physical realizer to do the excluding. Physics provides necessary but not sufficient causes. Consciousness fills the genuine gap.
 
 ## Property Dualism vs. Substance Dualism
 
@@ -258,7 +258,7 @@ Interactionism is compatible with different dualist ontologies (see [[substance-
 
 The distinction matters less than it might seem for interactionism's viability. Both agree that consciousness is not reducible to physics and that mental properties are genuinely different from physical properties. Chalmers himself now expresses preference for substance dualism, partly because it better handles personal identity and partly because property dualism tends toward either panpsychism (with its combination problem) or epiphenomenalism.
 
-this project is compatible with either formulation. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet), not the precise metaphysical structure underlying them.
+this site is compatible with either formulation. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet), not the precise metaphysical structure underlying them.
 
 ## Objections and Responses
 
@@ -274,9 +274,9 @@ For comprehensive treatment of objections, see [[objections-to-interactionism]].
 | **Decoherence**: Quantum coherence in brains decoheres too fast | Decoherence doesn't solve the measurement problem—consciousness may bias outcomes even after decoherence |
 | **Eliminativism**: "Consciousness" may be a folk concept that fails to carve nature at the joints | The concept refers to something we know more directly than any other fact—what it is like to experience. Eliminativism about *that* is incoherent. |
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
-Interactionist dualism is not just *compatible* with this project's tenets—it *is* the project's position, stated in contemporary terms.
+Interactionist dualism is not just *compatible* with this site's tenets—it *is* the site's position, stated in contemporary terms.
 
 The [[tenets#^dualism|Dualism]] tenet affirms that consciousness is not reducible to physical processes. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet affirms that consciousness causally influences the physical world. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies where and how: at quantum indeterminacies, biasing otherwise undetermined outcomes.
 
@@ -295,7 +295,7 @@ NCC findings don't favour materialism over interactionism. Both predict the corr
 
 The [[evolution-of-consciousness|evolution of consciousness]] poses no special problem for interactionism. If mind is irreducible to matter, its evolutionary history doesn't require explaining how matter *produced* mind. Rather, what evolved was the neural architecture that allows consciousness to *interface* with physical processes.
 
-This resolves a puzzle for materialist accounts: how can natural selection favour phenomenal experience if consciousness is causally inert? the project's answer: consciousness *does* affect physical outcomes (Bidirectional Interaction tenet), so selection can act on it directly. The felt quality of pain motivates avoidance behaviour; the felt quality of pleasure motivates approach. These aren't just functional correlates—they're causal participants in evolutionary fitness.
+This resolves a puzzle for materialist accounts: how can natural selection favour phenomenal experience if consciousness is causally inert? the site's answer: consciousness *does* affect physical outcomes (Bidirectional Interaction tenet), so selection can act on it directly. The felt quality of pain motivates avoidance behaviour; the felt quality of pleasure motivates approach. These aren't just functional correlates—they're causal participants in evolutionary fitness.
 
 The [[epiphenomenalism|self-stultification argument]] provides positive motivation: if we can accurately report our experiences, consciousness must cause those reports. This requires mental→physical causation, which interactionism provides and epiphenomenalism denies.
 
@@ -309,21 +309,21 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 ## Further Reading
 
-- [[psychophysical-laws]] — Chalmers' framework for fundamental psychophysical laws and where the project diverges
+- [[psychophysical-laws]] — Chalmers' framework for fundamental psychophysical laws and where the site diverges
 - [[evolution-of-consciousness]] — How consciousness evolved and why dualism handles evolutionary emergence better than materialism
 - [[dualism]] — Foundational overview of dualism: varieties, arguments, and relation to site tenets
 - [[objections-to-interactionism]] — Comprehensive treatment of five major objections and responses
 - [[arguments-for-dualism]] — Comprehensive treatment of arguments supporting dualism
 - [[quantum-indeterminacy-free-will]] — How quantum openings support libertarian freedom
 - [[attention-as-interface]] — The hypothesis that attention mediates consciousness's causal influence
-- [[emergence]] — the project's position as strong emergentism with mechanism
+- [[emergence]] — the site's position as strong emergentism with mechanism
 - [[mental-causation]] — The philosophical problem interactionism addresses
 - [[agent-causation]] — The metaphysical framework for how substances exercise causal powers
-- [[tenets]] — the project's foundational commitments
+- [[tenets]] — the site's foundational commitments
 - [[quantum-consciousness]] — Detailed treatment of quantum mechanisms
 - [[neural-correlates-of-consciousness]] — Empirical findings compatible with interactionism
 - [[substance-property-dualism]] — The ontological options for dualism
-- [[epiphenomenalism]] — The view this project rejects
+- [[epiphenomenalism]] — The view this site rejects
 - [[materialism]] — The case against the main alternative
 - [[philosophical-zombies]] — The conceivability argument in detail
 - [[knowledge-argument]] — Mary's Room explained

@@ -27,7 +27,7 @@ last_curated: null
 - None identified
 
 ### Medium Issues Found
-1. **Penrose-Lucas argument handling**: The article mentioned the argument as controversial but didn't explain why the project still invokes it despite being "rejected by most scholars."
+1. **Penrose-Lucas argument handling**: The article mentioned the argument as controversial but didn't explain why the site still invokes it despite being "rejected by most scholars."
    - **Resolution**: Added acknowledgment that critics note it may conflate consistent with complete, while explaining the intuition it articulates remains valuable regardless of whether the specific mechanism is correct.
 
 2. **Neural correlates lacking 2024 research detail**: The research notes contained significant 2024 findings (theta/gamma wave distinctions, causal vs correlational DMN role) not integrated into the article.

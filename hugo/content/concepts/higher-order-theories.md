@@ -29,7 +29,7 @@ topics:
 - '[[ai-consciousness]]'
 ---
 
-Higher-Order Theories (HOT) propose that a mental state becomes conscious when we become aware of it through a higher-order mental state—a thought or perception *about* the first-order state. The theory offers an influential account of what distinguishes conscious from unconscious mental processes, but faces the fundamental objection that it explains *access* to mental states without explaining *why* this access feels like anything. From this project's perspective, HOT describes cognitive architecture rather than phenomenal consciousness.
+Higher-Order Theories (HOT) propose that a mental state becomes conscious when we become aware of it through a higher-order mental state—a thought or perception *about* the first-order state. The theory offers an influential account of what distinguishes conscious from unconscious mental processes, but faces the fundamental objection that it explains *access* to mental states without explaining *why* this access feels like anything. From this site's perspective, HOT describes cognitive architecture rather than phenomenal consciousness.
 
 ## The Core Idea
 
@@ -148,7 +148,7 @@ HOT theorists might dismiss such reports as misinterpretation or might claim sub
 
 ## Connection to Self-Reference
 
-HOT connects to this project's [self-reference-paradox](/voids/self-reference-paradox/) in interesting ways. The theory requires consciousness to be inherently self-referential—awareness involves being aware of one's own states. This creates familiar puzzles:
+HOT connects to this site's [self-reference-paradox](/voids/self-reference-paradox/) in interesting ways. The theory requires consciousness to be inherently self-referential—awareness involves being aware of one's own states. This creates familiar puzzles:
 
 1. **The Regress Problem**: If conscious thoughts require higher-order thoughts, do those require still higher thoughts? HOT avoids infinite regress by allowing unconscious higher-order representations, but the solution feels stipulative.
 
@@ -162,13 +162,13 @@ Like [Global Workspace Theory](/concepts/global-workspace-theory/), HOT has dire
 
 Recent research has explored implementing HOT mechanisms in artificial agents. If an AI can represent that it is in a certain computational state—model its own modeling—HOT suggests it might be conscious.
 
-the project's response parallels its critique of GWT: [functional implementation](/arguments/functionalism/) doesn't guarantee phenomenal consciousness. An AI could have sophisticated self-models without there being anything it's like to be that AI. The [absent qualia objection](/topics/ai-consciousness/) applies with equal force to metacognitive computation.
+the site's response parallels its critique of GWT: [functional implementation](/arguments/functionalism/) doesn't guarantee phenomenal consciousness. An AI could have sophisticated self-models without there being anything it's like to be that AI. The [absent qualia objection](/topics/ai-consciousness/) applies with equal force to metacognitive computation.
 
 ## Relation to Site Perspective
 
 ### The Access/Phenomenal Gap
 
-HOT and this project agree that consciousness involves self-awareness in some form. But HOT identifies consciousness *with* higher-order representation, while the project treats self-awareness as a *condition* for consciousness without explaining it.
+HOT and this site agree that consciousness involves self-awareness in some form. But HOT identifies consciousness *with* higher-order representation, while the site treats self-awareness as a *condition* for consciousness without explaining it.
 
 The difference matters. HOT is functionalist—it says consciousness is the functional role of being represented by higher-order states. This conflicts with [Dualism's](/tenets/#dualism) claim that consciousness is irreducible to functional organization.
 
@@ -180,11 +180,11 @@ HOT might respond that the beliefs *are* accurate because they just *are* the co
 
 ### Quantum Considerations
 
-HOT operates at the cognitive level without invoking [quantum mechanics](/tenets/#minimal-quantum-interaction). If HOT were correct, consciousness would be a classical computational phenomenon—no room for the quantum interface the project proposes. This represents a fundamental disagreement about the level at which mind and matter meet.
+HOT operates at the cognitive level without invoking [quantum mechanics](/tenets/#minimal-quantum-interaction). If HOT were correct, consciousness would be a classical computational phenomenon—no room for the quantum interface the site proposes. This represents a fundamental disagreement about the level at which mind and matter meet.
 
-The disagreement has empirical implications. HOT predicts consciousness should be fully explicable in terms of classical neural computation—higher-order representations implemented in prefrontal circuits. the project's quantum proposal predicts anomalies: effects of consciousness on physical outcomes that classical HOT cannot accommodate, potentially detectable as correlations between conscious states and quantum measurement outcomes.
+The disagreement has empirical implications. HOT predicts consciousness should be fully explicable in terms of classical neural computation—higher-order representations implemented in prefrontal circuits. the site's quantum proposal predicts anomalies: effects of consciousness on physical outcomes that classical HOT cannot accommodate, potentially detectable as correlations between conscious states and quantum measurement outcomes.
 
-HOT's classical framing also affects its treatment of [mental causation](/concepts/mental-causation/). If higher-order thoughts are just neural computations, they inherit whatever causal efficacy neural computations have—but this is garden-variety physical causation, not the distinctive mental causation the project's framework requires. The felt efficacy of conscious effort, attention, and decision would be epiphenomenal: the computation does the work while consciousness watches. HOT thus struggles with the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet for reasons beyond its bottom-up framing.
+HOT's classical framing also affects its treatment of [mental causation](/concepts/mental-causation/). If higher-order thoughts are just neural computations, they inherit whatever causal efficacy neural computations have—but this is garden-variety physical causation, not the distinctive mental causation the site's framework requires. The felt efficacy of conscious effort, attention, and decision would be epiphenomenal: the computation does the work while consciousness watches. HOT thus struggles with the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet for reasons beyond its bottom-up framing.
 
 ## Assessment
 
@@ -204,7 +204,7 @@ The hard problem remains hard.
 - [illusionism](/concepts/illusionism/) — HOT's logical extreme: phenomenal consciousness as illusion
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Physicalism's parallel attempt to explain the gap
 - [mental-causation](/concepts/mental-causation/) — Where HOT's classical framing creates problems
-- [ai-consciousness](/topics/ai-consciousness/) — Where HOT's implications meet the project's skepticism
+- [ai-consciousness](/topics/ai-consciousness/) — Where HOT's implications meet the site's skepticism
 - [higher-order-theories-consciousness-2026-01-14](/research/higher-order-theories-consciousness-2026-01-14/) — Detailed research notes
 
 ## References

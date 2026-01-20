@@ -157,7 +157,7 @@ Animal consciousness presents the "other minds" problem in its most severe form�
   - UAL includes learning novel compound stimuli, trace conditioning, flexible revaluation
   - These capacities require "minimal consciousness"
   - Provides empirically testable markers
-- **Relation to site tenets**: Partially aligns—provides behavioral markers but doesn't explain why UAL should involve consciousness. the project would argue UAL may *indicate* consciousness but doesn't constitute it.
+- **Relation to site tenets**: Partially aligns—provides behavioral markers but doesn't explain why UAL should involve consciousness. the site would argue UAL may *indicate* consciousness but doesn't constitute it.
 
 ### Animal Rights Sentientism (Singer, Regan)
 - **Proponents**: Peter Singer, Tom Regan
@@ -223,7 +223,7 @@ Based on this research, an article could:
 
 1. **Dualism and Animal Minds: No Anthropocentric Barrier** — Argue that dualism is better positioned than materialism to take animal consciousness seriously. Materialism struggles with the hard problem in humans; it faces the same problem with animals. Dualism, by contrast, holds that consciousness is irreducible—and this applies equally to any conscious being. The historical association of Cartesian dualism with animal denial was contingent on Descartes' specific arguments, not on dualism per se. Contemporary dualism has no anthropocentric commitment. This aligns with Dualism and Bidirectional Interaction tenets.
 
-2. **The Voids Framework Applied to Animal Minds** — Animal consciousness represents a "void" in our knowledge—partially accessible, perhaps ultimately inaccessible. We can observe behavior and neural correlates but cannot directly access the subjective experience of being a bat, octopus, or crow. This connects to the project's voids framework (thoughts that slip away, apophatic approaches) and Occam's Razor Has Limits tenet—we cannot dismiss animal consciousness simply because it's hard to study.
+2. **The Voids Framework Applied to Animal Minds** — Animal consciousness represents a "void" in our knowledge—partially accessible, perhaps ultimately inaccessible. We can observe behavior and neural correlates but cannot directly access the subjective experience of being a bat, octopus, or crow. This connects to the site's voids framework (thoughts that slip away, apophatic approaches) and Occam's Razor Has Limits tenet—we cannot dismiss animal consciousness simply because it's hard to study.
 
 When writing the article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references

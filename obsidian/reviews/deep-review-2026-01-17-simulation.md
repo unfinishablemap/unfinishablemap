@@ -24,7 +24,7 @@ last_curated: null
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-1. **No engagement with consciousness in simulating layer**: Added "The Meta-Problem: Where Is Consciousness?" section addressing three possibilities and the project's position.
+1. **No engagement with consciousness in simulating layer**: Added "The Meta-Problem: Where Is Consciousness?" section addressing three possibilities and the site's position.
 2. **Category confusion about physicality**: Section now explicitly acknowledges that simulation substrate is physical.
 3. **Missing topics/concepts frontmatter**: Added ai-consciousness, hard-problem-of-consciousness to topics; quantum-consciousness, measurement-problem, quantum-interpretations to concepts.
 

@@ -20,7 +20,7 @@ ai_generated_date: 2026-01-17
 last_curated: null
 ---
 
-Research notes on semantic memory (general factual knowledge) and its relationship to consciousness. Complements the project's coverage of autonoetic consciousness (episodic memory) with noetic consciousness (semantic memory).
+Research notes on semantic memory (general factual knowledge) and its relationship to consciousness. Complements the site's coverage of autonoetic consciousness (episodic memory) with noetic consciousness (semantic memory).
 
 ## Key Findings
 
@@ -110,7 +110,7 @@ A **component process model** proposes that memory types rely on different weigh
 
 ### Is Noetic Consciousness Phenomenal?
 
-A key question for the project: Does semantic memory involve irreducible phenomenology, or is it merely functional access without qualitative character?
+A key question for the site: Does semantic memory involve irreducible phenomenology, or is it merely functional access without qualitative character?
 
 **Arguments for phenomenal noetic consciousness:**
 1. TOT and FOK states have distinctive qualitative character
@@ -142,7 +142,7 @@ If noetic consciousness involves irreducible phenomenology (TOT feels like somet
 
 ### Relation to Autonoetic Coverage
 
-the project now covers:
+the site now covers:
 - **Autonoetic** (episodic): [[autonoetic-consciousness]]
 - **Prospective**: [[prospective-memory]]
 - **Working memory**: [[working-memory]]
@@ -155,7 +155,7 @@ Adding semantic/noetic coverage would complete the picture. Key themes:
 
 ### Cognitive Phenomenology Connection
 
-Semantic memory research converges with the [[cognitive-phenomenology|cognitive phenomenology]] debate. If the project's "qualified liberalism" about cognitive phenomenology is correct (understanding involves proprietary phenomenal character), then semantic memory is phenomenally rich despite lacking the dramatic features of episodic re-experiencing.
+Semantic memory research converges with the [[cognitive-phenomenology|cognitive phenomenology]] debate. If the site's "qualified liberalism" about cognitive phenomenology is correct (understanding involves proprietary phenomenal character), then semantic memory is phenomenally rich despite lacking the dramatic features of episodic re-experiencing.
 
 ### AI Consciousness Implications
 

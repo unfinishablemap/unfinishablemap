@@ -25,7 +25,7 @@ ai_generated_date: 2026-01-18
 last_curated: null
 ---
 
-Motor control provides a second domain—beyond attention—where consciousness might select among neural options through the quantum Zeno mechanism. Recent neuroscience reveals striking parallels: willed movements engage frontal theta oscillations just as willed attention does, voluntary action takes approximately 300ms to initiate (matching willed attention deployment), and neural systems distinguish "willed" from "instructed" motor action with different signatures. The challenge from Libet's experiments—that the brain "decides" before we're aware—has been substantially weakened by evidence that the readiness potential is noise rather than decision. Motor selection strengthens the project's framework by extending quantum Zeno from one domain to two.
+Motor control provides a second domain—beyond attention—where consciousness might select among neural options through the quantum Zeno mechanism. Recent neuroscience reveals striking parallels: willed movements engage frontal theta oscillations just as willed attention does, voluntary action takes approximately 300ms to initiate (matching willed attention deployment), and neural systems distinguish "willed" from "instructed" motor action with different signatures. The challenge from Libet's experiments—that the brain "decides" before we're aware—has been substantially weakened by evidence that the readiness potential is noise rather than decision. Motor selection strengthens the site's framework by extending quantum Zeno from one domain to two.
 
 ## The Attention-Motor Parallel
 
@@ -83,7 +83,7 @@ This is a double dissociation: parietal regions produce the experience of intent
 
 ### Selection vs Execution
 
-This dissociation maps directly onto the project's framework. Consciousness contributes at the *selection* level—choosing what to do—not at the *execution* level—how to do it. The parietal cortex, where intention emerges, is part of the posterior "hot zone" that recent research associates with conscious content. The premotor cortex executes selected patterns without requiring consciousness for each muscle command.
+This dissociation maps directly onto the site's framework. Consciousness contributes at the *selection* level—choosing what to do—not at the *execution* level—how to do it. The parietal cortex, where intention emerges, is part of the posterior "hot zone" that recent research associates with conscious content. The premotor cortex executes selected patterns without requiring consciousness for each muscle command.
 
 This explains why we experience choosing to reach for a cup but don't experience choosing the firing patterns of individual motor neurons. Consciousness operates at the level of action selection; execution is delegated to automatic systems. The quantum Zeno mechanism would operate at the selection interface, not the execution machinery.
 
@@ -118,7 +118,7 @@ The longer timeline for willed versus automatic action reflects real selection, 
 
 ## The Basal Ganglia Selection Mechanism
 
-The basal ganglia offer another candidate site for motor selection—and their architecture maps remarkably well onto the project's framework.
+The basal ganglia offer another candidate site for motor selection—and their architecture maps remarkably well onto the site's framework.
 
 ### The Brake-Release Model
 
@@ -169,13 +169,13 @@ Disrupted efference copy produces pathological experiences—alien hand syndrome
 
 ### Interface Confirmation
 
-From the project's perspective, efference copy may be how consciousness "reads" whether selection succeeded. The selection mechanism operates at the decision point; efference copy provides feedback about whether the selected action occurred as intended. This closes the loop: consciousness selects, the brain executes, and the match between intention and outcome confirms agency.
+From the site's perspective, efference copy may be how consciousness "reads" whether selection succeeded. The selection mechanism operates at the decision point; efference copy provides feedback about whether the selected action occurred as intended. This closes the loop: consciousness selects, the brain executes, and the match between intention and outcome confirms agency.
 
 ## Relation to Site Perspective
 
 ### Dualism
 
-The dissociation between intention (parietal) and execution (premotor) supports the project's [[tenets#^dualism|Dualism]] tenet. If consciousness were identical to neural processing, there would be no principled distinction between experiencing intention and executing movement—both would be "just neurons." The double dissociation suggests something contributes to intention that is not identical to motor execution machinery.
+The dissociation between intention (parietal) and execution (premotor) supports the site's [[tenets#^dualism|Dualism]] tenet. If consciousness were identical to neural processing, there would be no principled distinction between experiencing intention and executing movement—both would be "just neurons." The double dissociation suggests something contributes to intention that is not identical to motor execution machinery.
 
 ### Minimal Quantum Interaction
 

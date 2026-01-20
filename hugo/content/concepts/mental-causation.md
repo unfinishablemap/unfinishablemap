@@ -35,7 +35,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Mental causation is the thesis that mental states cause physical effects. When you decide to raise your arm, your decision causes the arm to rise. When pain motivates you to avoid the fire, the pain causes the avoidance. This seems obvious from experience but faces a formidable philosophical challenge: Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. this project's quantum framework provides a response: consciousness causes physical effects at points where physics is genuinely incomplete.
+Mental causation is the thesis that mental states cause physical effects. When you decide to raise your arm, your decision causes the arm to rise. When pain motivates you to avoid the fire, the pain causes the avoidance. This seems obvious from experience but faces a formidable philosophical challenge: Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. this site's quantum framework provides a response: consciousness causes physical effects at points where physics is genuinely incomplete.
 
 ## The Problem
 
@@ -110,7 +110,7 @@ This requires denying causal closure: the physical story is insufficient because
 
 ### The Quantum Opening
 
-this project's response: deny causal closure at quantum indeterminacies.
+this site's response: deny causal closure at quantum indeterminacies.
 
 Quantum mechanics specifies probabilities but not which outcome actualizes. When a radioactive atom decays, physics determines the probability but not the moment. The physical causes are genuinely insufficient. Causal closure fails.
 
@@ -126,7 +126,7 @@ Consciousness could bias outcomes at the point of measurement even after decoher
 
 ### Why Not Many Worlds?
 
-If all quantum outcomes occur in branching universes, there's no "selection" for consciousness to perform—every possibility actualizes somewhere. the project's [rejection of Many-Worlds](/arguments/many-worlds/) is therefore essential to mental causation. On MWI, consciousness would be epiphenomenal with respect to quantum events: it couldn't affect which outcomes occur because all outcomes occur.
+If all quantum outcomes occur in branching universes, there's no "selection" for consciousness to perform—every possibility actualizes somewhere. the site's [rejection of Many-Worlds](/arguments/many-worlds/) is therefore essential to mental causation. On MWI, consciousness would be epiphenomenal with respect to quantum events: it couldn't affect which outcomes occur because all outcomes occur.
 
 The [No Many Worlds](/tenets/#no-many-worlds) tenet isn't incidental to the framework—it's required for mental causation to be possible.
 
@@ -146,7 +146,7 @@ This reframes mental causation as continuous with causation generally rather tha
 
 ### The Interface Question
 
-If consciousness causes physical effects, why only in *this* brain? The [pairing problem](/concepts/pairing-problem/) asks what connects a particular mind to a particular body. the project's response: consciousness is spatially located where it causally interfaces with the brain. [Interface-locality](/concepts/interface-locality/) constrains mental causation to neural systems already integrated into the subject's control loop—consciousness can only influence quantum systems it can "observe" through the [attention mechanism](/concepts/attention-as-interface/).
+If consciousness causes physical effects, why only in *this* brain? The [pairing problem](/concepts/pairing-problem/) asks what connects a particular mind to a particular body. the site's response: consciousness is spatially located where it causally interfaces with the brain. [Interface-locality](/concepts/interface-locality/) constrains mental causation to neural systems already integrated into the subject's control loop—consciousness can only influence quantum systems it can "observe" through the [attention mechanism](/concepts/attention-as-interface/).
 
 ## The Self-Stultification Argument
 
@@ -175,17 +175,17 @@ But illusionism faces its own version of self-stultification. If the appearance 
 
 Raymond Tallis puts it sharply: "Misrepresentation presupposes presentation." All illusions presuppose experience. If physical matter cannot generate phenomenal consciousness, it certainly cannot generate the *illusion* of phenomenal consciousness. The illusionist trades the hard problem for an equally hard "illusion problem."
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
-Mental causation is central to this project's framework.
+Mental causation is central to this site's framework.
 
-**Bidirectional Interaction**: the project's [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) explicitly affirms that consciousness causally influences physical outcomes. Mental causation isn't a philosophical curiosity but a foundational commitment.
+**Bidirectional Interaction**: the site's [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) explicitly affirms that consciousness causally influences physical outcomes. Mental causation isn't a philosophical curiosity but a foundational commitment.
 
 **The Quantum Resolution**: The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) provides the mechanism. Consciousness acts where physics is incomplete—at quantum indeterminacies. This respects the spirit of causal closure (physics explains what physics determines) while denying its letter (physics doesn't determine everything).
 
-**Strong Emergence**: the project's position can be understood as strong [emergentism](/concepts/emergence/) with a mechanism. Classical emergentists affirmed mental causation but couldn't explain it. The quantum framework specifies *where* and *how*: at indeterminacies, through biasing probabilities.
+**Strong Emergence**: the site's position can be understood as strong [emergentism](/concepts/emergence/) with a mechanism. Classical emergentists affirmed mental causation but couldn't explain it. The quantum framework specifies *where* and *how*: at indeterminacies, through biasing probabilities.
 
-**Against Epiphenomenalism**: The [self-stultification argument](/arguments/epiphenomenalism/) shows mental causation must occur. If consciousness causes nothing, we can't rationally believe anything about consciousness—including epiphenomenalism. the project takes this seriously: mental causation isn't optional.
+**Against Epiphenomenalism**: The [self-stultification argument](/arguments/epiphenomenalism/) shows mental causation must occur. If consciousness causes nothing, we can't rationally believe anything about consciousness—including epiphenomenalism. the site takes this seriously: mental causation isn't optional.
 
 **Agent Causation**: The [agent-causal framework](/concepts/agent-causation/) provides the metaphysics. Mental causation isn't event→event but agent→event. The conscious subject exercises causal powers at quantum openings. This addresses Kim's exclusion argument by rejecting its event-causal assumptions.
 
@@ -199,17 +199,17 @@ Mental causation bears directly on:
 
 **Rationality**: If reasoning about consciousness isn't caused by consciousness, our beliefs about consciousness float free of evidence. Self-knowledge becomes impossible.
 
-the project affirms mental causation because denying it undermines everything we think we know about ourselves.
+the site affirms mental causation because denying it undermines everything we think we know about ourselves.
 
 ## What Would Challenge This View?
 
 Mental causation, as defended here, is falsifiable. Findings that would undermine the framework:
 
-**Complete neural determinism**: If all neural events could be predicted from prior physical states with 100% accuracy, leaving no quantum gap for consciousness to fill, the project's mechanism would fail. Current predictive accuracy (~60% for simple choices) leaves substantial room, but dramatic advances in neural prediction would challenge the view.
+**Complete neural determinism**: If all neural events could be predicted from prior physical states with 100% accuracy, leaving no quantum gap for consciousness to fill, the site's mechanism would fail. Current predictive accuracy (~60% for simple choices) leaves substantial room, but dramatic advances in neural prediction would challenge the view.
 
 **Elimination of neural quantum effects**: If quantum coherence were proven physically impossible in brain tissue—not just challenging but excluded by physics—the proposed interface mechanism fails. Current evidence from [quantum biology](/concepts/quantum-biology/) (avian magnetoreception, enzyme catalysis, photosynthesis) suggests biological quantum effects are more robust than expected, but definitive evidence against neural quantum effects would be significant.
 
-**Successful illusionist explanation**: If a fully satisfying account emerged explaining why we *seem* to have phenomenal experiences without any phenomenal properties existing—one that doesn't invoke seeming to something—this would dissolve the motivation for mental causation. Current illusionist proposals (AST, multiple drafts) face the regress problem, but a proposal that genuinely avoided it would challenge the project's position.
+**Successful illusionist explanation**: If a fully satisfying account emerged explaining why we *seem* to have phenomenal experiences without any phenomenal properties existing—one that doesn't invoke seeming to something—this would dissolve the motivation for mental causation. Current illusionist proposals (AST, multiple drafts) face the regress problem, but a proposal that genuinely avoided it would challenge the site's position.
 
 **Dissociation of reports from experiences**: If manipulation could reliably make people report experiences they genuinely weren't having—accurate reports without corresponding experiences, or experiences without any reportability—this would challenge the causal connection the self-stultification argument depends on. Current evidence from blindsight and inattentional blindness show dissociations, but these are better interpreted as access consciousness/phenomenal consciousness distinctions than as breaks in the causal chain.
 
@@ -218,7 +218,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 ## Further Reading
 
 - [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness exists
-- [many-worlds](/arguments/many-worlds/) — Why the project rejects MWI (and why it matters for mental causation)
+- [many-worlds](/arguments/many-worlds/) — Why the site rejects MWI (and why it matters for mental causation)
 - [reductionism](/concepts/reductionism/) — Why the reductionist alternative to mental causation fails; Kim's exclusion argument and responses
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The cumulative case against epiphenomenalism (five arguments)
 - [causal-closure](/concepts/causal-closure/) — The principle mental causation challenges

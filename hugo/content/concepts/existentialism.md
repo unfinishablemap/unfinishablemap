@@ -92,23 +92,23 @@ Camus: "The struggle itself toward the heights is enough to fill a man's heart."
 
 The challenge is to create meaning without pretending it was there all along—to own one's values as choices rather than discoveries.
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
-Existentialism's emphasis on meaning-creation might seem to conflict with this project's commitment to dualism and objective reality. If consciousness is real and irreducible, as the [Dualism tenet](/tenets/) holds, doesn't that suggest meaning might be more than mere human projection?
+Existentialism's emphasis on meaning-creation might seem to conflict with this site's commitment to dualism and objective reality. If consciousness is real and irreducible, as the [Dualism tenet](/tenets/) holds, doesn't that suggest meaning might be more than mere human projection?
 
 The relationship is complex. Several points of contact:
 
-**Consciousness as irreducible**: Existentialism, particularly in Sartre, takes consciousness seriously as fundamentally different from things. The pour-soi (being-for-itself, consciousness) is radically distinct from the en-soi (being-in-itself, things). This phenomenological distinction resonates with dualist commitments to the irreducibility of mind—though Sartre himself did not endorse substance dualism, his insistence that consciousness cannot be reduced to thinghood aligns with the project's core claim.
+**Consciousness as irreducible**: Existentialism, particularly in Sartre, takes consciousness seriously as fundamentally different from things. The pour-soi (being-for-itself, consciousness) is radically distinct from the en-soi (being-in-itself, things). This phenomenological distinction resonates with dualist commitments to the irreducibility of mind—though Sartre himself did not endorse substance dualism, his insistence that consciousness cannot be reduced to thinghood aligns with the site's core claim.
 
-**Freedom and causation**: If consciousness causally influences the physical world, as the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) proposes, then existentialist claims about human freedom gain metaphysical grounding. We are not merely determined by physical processes—consciousness has genuine causal efficacy. the project's quantum framework provides what existentialism assumes but never explains: a mechanism by which conscious choice could actually make a difference to physical outcomes.
+**Freedom and causation**: If consciousness causally influences the physical world, as the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) proposes, then existentialist claims about human freedom gain metaphysical grounding. We are not merely determined by physical processes—consciousness has genuine causal efficacy. the site's quantum framework provides what existentialism assumes but never explains: a mechanism by which conscious choice could actually make a difference to physical outcomes.
 
 **Against scientism**: Existentialists resist reducing human existence to scientific description. This aligns with the [Occam's Razor Has Limits tenet](/tenets/#occams-limits)—the view that simple physicalist explanations may miss what matters most about consciousness and meaning.
 
-**Authentic choice in one world**: The [No Many Worlds tenet](/tenets/#no-many-worlds) has particular relevance for existentialism. If Many-Worlds were true, every possible choice occurs in some branch—the self that chose authentically coexists with the self that fled into bad faith. The existentialist emphasis on the weight of choice, on decisions that cannot be undone, presupposes that choices genuinely select one outcome from among possibilities rather than actualizing all possibilities simultaneously. the project's rejection of MWI preserves what existentialism requires: choices that matter because they are truly singular.
+**Authentic choice in one world**: The [No Many Worlds tenet](/tenets/#no-many-worlds) has particular relevance for existentialism. If Many-Worlds were true, every possible choice occurs in some branch—the self that chose authentically coexists with the self that fled into bad faith. The existentialist emphasis on the weight of choice, on decisions that cannot be undone, presupposes that choices genuinely select one outcome from among possibilities rather than actualizing all possibilities simultaneously. the site's rejection of MWI preserves what existentialism requires: choices that matter because they are truly singular.
 
-**Free will and [Personal Identity](/topics/personal-identity/)**: Existentialist self-creation connects to the project's treatment of [personal-identity](/topics/personal-identity/). If you are this unrepeatable conscious being rather than an interchangeable pattern, then authentic existence acquires deeper significance—you are not merely choosing a role but constituting a unique perspective that cannot be replicated. The [free will](/topics/free-will/) discussion explores how quantum indeterminacy might provide the physical basis for the libertarian freedom existentialists assume.
+**Free will and [Personal Identity](/topics/personal-identity/)**: Existentialist self-creation connects to the site's treatment of [personal-identity](/topics/personal-identity/). If you are this unrepeatable conscious being rather than an interchangeable pattern, then authentic existence acquires deeper significance—you are not merely choosing a role but constituting a unique perspective that cannot be replicated. The [free will](/topics/free-will/) discussion explores how quantum indeterminacy might provide the physical basis for the libertarian freedom existentialists assume.
 
-However, tensions remain. Existentialism historically emerged from atheist and agnostic commitments. Sartre's ontology, despite describing consciousness as pour-soi, remained materialist in its overall metaphysics—he did not believe in a separate mental substance. the project's dualism is stronger than anything Sartre would have endorsed. Additionally, existentialism's emphasis on meaning-*creation* may sit uneasily with views that hold certain things objectively matter. the project's tenets take positions (dualism, bidirectional interaction) that existentialists might see as attempts to ground meaning externally.
+However, tensions remain. Existentialism historically emerged from atheist and agnostic commitments. Sartre's ontology, despite describing consciousness as pour-soi, remained materialist in its overall metaphysics—he did not believe in a separate mental substance. the site's dualism is stronger than anything Sartre would have endorsed. Additionally, existentialism's emphasis on meaning-*creation* may sit uneasily with views that hold certain things objectively matter. the site's tenets take positions (dualism, bidirectional interaction) that existentialists might see as attempts to ground meaning externally.
 
 Perhaps the synthesis is this: even if consciousness is real and irreducible, and even if it genuinely matters in the universe, we still face choices about what to do with our existence. The facts of consciousness don't determine our values. Existentialism's insights about freedom, authenticity, and responsibility remain relevant—perhaps more so—within a dualist framework that takes conscious choice seriously as causally efficacious.
 
@@ -134,7 +134,7 @@ This reframing addresses Buddhism's critique of existentialist "clinging" to sel
 
 It also addresses the existentialist's fear of Buddhist "dissolution." If consciousness is irreducible at each moment (as the [Dualism tenet](/tenets/#dualism) holds), then Buddhist impermanence doesn't threaten consciousness's reality—only its permanence. You are genuinely experiencing, genuinely choosing, even if the "you" who chose yesterday is not numerically identical to the "you" choosing now. The burden lightens: no permanent self to construct or defend, yet genuine engagement remains.
 
-the project's framework thus suggests a synthesis: consciousness is real and irreducible moment-to-moment, but impermanent across moments. Existentialist self-creation operates within this flux—not building a monument but sustaining a flame. The self is neither a fixed essence to be discovered nor an illusion to be dispelled, but a genuine conscious perspective making real choices that shape what it becomes, without those choices hardening into destiny.
+the site's framework thus suggests a synthesis: consciousness is real and irreducible moment-to-moment, but impermanent across moments. Existentialist self-creation operates within this flux—not building a monument but sustaining a flame. The self is neither a fixed essence to be discovered nor an illusion to be dispelled, but a genuine conscious perspective making real choices that shape what it becomes, without those choices hardening into destiny.
 
 ## Further Reading
 
@@ -144,7 +144,7 @@ the project's framework thus suggests a synthesis: consciousness is real and irr
 - [free-will](/topics/free-will/) - The metaphysics of choice and agency
 - [personal-identity](/topics/personal-identity/) - What constitutes the self across time
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) - Buddhist alternatives to existentialist self-creation
-- [tenets](/tenets/) - this project's foundational commitments
+- [tenets](/tenets/) - this site's foundational commitments
 
 ## References
 

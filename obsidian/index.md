@@ -34,7 +34,7 @@ A project in Agentic Philosophy, to build a coherent worldview about consciousne
 - **[[voids|Voids]]** - The unexplored, unexplorable, and occluded
 - **[[research|Research]]** - AI research notes with sources and analysis
 - **[[reviews|Reviews]]** - Quality assurance and external analysis
-- **[[project|Project]]** - About this project and how it works
+- **[[project|Project]]** - About this site and how it works
 - **[[workflow|Workflow]]** - AI automation system and evolution tracking
 
 ## How It Works
@@ -48,13 +48,13 @@ Learn more in the [[project-brief|Project Brief]].
 
 ## The Approach
 
-This project aims to form a self-consistent picture of the nature and meaning of life. Rather than presenting balanced "it might be this or that" perspectives, it develops a single best-guess worldview based on five prespecified [[tenets|Tenets]].
+this site aims to form a self-consistent picture of the nature and meaning of life. Rather than presenting balanced "it might be this or that" perspectives, it develops a single best-guess worldview based on five prespecified [[tenets|Tenets]].
 
-## Using this project with AI Chatbots
+## Using this site with AI Chatbots
 
-this project is designed for AI chatbot consumption. Articles are structured with important information first (so truncation preserves the core message), each page is self-contained, and content focuses on what this project uniquely contributes rather than repeating standard philosophy.
+this site is designed for AI chatbot consumption. Articles are structured with important information first (so truncation preserves the core message), each page is self-contained, and content focuses on what this site uniquely contributes rather than repeating standard philosophy.
 
-**If your chatbot navigates websites** (like ChatGPT with browsing, or Perplexity), you can simply ask it to explore the project. Try: *"Read unfinishablemap.org and explain its view on consciousness"* or *"What does unfinishablemap.org say about the hard problem?"*
+**If your chatbot navigates websites** (like ChatGPT with browsing, or Perplexity), you can simply ask it to explore the site. Try: *"Read unfinishablemap.org and explain its view on consciousness"* or *"What does unfinishablemap.org say about the hard problem?"*
 
 **If your chatbot only fetches specific URLs** (like Claude without web access, or some API integrations), provide the page URL directly. Useful starting points:
 - `/tenets/` — The foundational commitments
@@ -67,4 +67,4 @@ The [[writing-style|Writing Style Guide]] explains how content is structured for
 
 ## Source
 
-This project can be explored at [github.com/unfinishablemap/unfinishablemap](https://github.com/unfinishablemap/unfinishablemap/)
+this site can be explored at [github.com/unfinishablemap/unfinishablemap](https://github.com/unfinishablemap/unfinishablemap/)

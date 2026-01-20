@@ -74,7 +74,7 @@ Metzinger's work on "minimal phenomenal experience" (MPE) introduces a striking 
 
 This is not unconsciousness. Reports consistently describe it as awareness—often described as more vivid or real than ordinary experience—but without the self who is usually aware. The witness remains; the witnessed continues; but the usual sense of a self doing the witnessing dissolves.
 
-For the project's [[tenets#^dualism|dualist]] framework, this is significant. If consciousness can operate in a mode stripped of all content yet remain aware, this suggests consciousness is not identical with its contents or with the self-model normally present. The zero-person perspective may reveal consciousness in its minimal form—what remains when everything else is subtracted.
+For the site's [[tenets#^dualism|dualist]] framework, this is significant. If consciousness can operate in a mode stripped of all content yet remain aware, this suggests consciousness is not identical with its contents or with the self-model normally present. The zero-person perspective may reveal consciousness in its minimal form—what remains when everything else is subtracted.
 
 ## The Dissolving-Insight Phenomenon
 
@@ -110,7 +110,7 @@ The distribution problem (are qualia in simple systems identical to ours, analog
 
 ## Relation to Site Perspective
 
-The phenomenology of the edge supports several of the project's [[tenets]]:
+The phenomenology of the edge supports several of the site's [[tenets]]:
 
 **Dualism.** If consciousness can operate in a minimal mode stripped of content yet remain vividly aware, this challenges views that identify consciousness with information processing or neural activity. The zero-person perspective suggests consciousness is something over and above its typical contents—precisely what dualism claims.
 

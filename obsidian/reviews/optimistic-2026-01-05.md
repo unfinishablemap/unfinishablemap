@@ -13,13 +13,13 @@ ai_system: claude-opus-4-5-20251101
 
 ## Executive Summary
 
-The tenets page is a genuinely strong foundation for a philosophical compendium. It takes clear positions, acknowledges its axiomatic nature, and structures arguments well. The "Rules out" sections are particularly valuable for defining the intellectual space. The project has significant expansion potential, with natural paths from tenets to topics to concepts forming a coherent web.
+The tenets page is a genuinely strong foundation for a philosophical compendium. It takes clear positions, acknowledges its axiomatic nature, and structures arguments well. The "Rules out" sections are particularly valuable for defining the intellectual space. the site has significant expansion potential, with natural paths from tenets to topics to concepts forming a coherent web.
 
 ## Content Strengths
 
 ### Tenets Page
 
-- **Strongest point**: The explicit acknowledgment that these are "chosen starting points" rather than proven conclusions. This intellectual honesty is rare and positions the project well against accusations of dogmatism.
+- **Strongest point**: The explicit acknowledgment that these are "chosen starting points" rather than proven conclusions. This intellectual honesty is rare and positions the site well against accusations of dogmatism.
 - **Notable quote**: "They are not proven—they are chosen starting points that shape the exploration."
 - **Why it works**: Sets appropriate epistemic humility while still committing to substantive positions.
 
@@ -50,7 +50,7 @@ The tenets page is a genuinely strong foundation for a philosophical compendium.
 
 #### The Hard Problem of Consciousness
 - **Builds on**: Dualism tenet's mention of explanatory gap
-- **Would address**: Central philosophical question the project revolves around
+- **Would address**: Central philosophical question the site revolves around
 - **Estimated scope**: Long article (2000-3000 words)
 - **Tenet alignment**: Directly supports Dualism; foundation for all other tenets
 - **Suggested approach**: Survey positions (physicalism, dualism, panpsychism, illusionism), explain why tenets reject some
@@ -59,7 +59,7 @@ The tenets page is a genuinely strong foundation for a philosophical compendium.
 - **Builds on**: Minimal Quantum Interaction and Bidirectional Interaction tenets
 - **Would address**: Historical and contemporary interactionist theories
 - **Estimated scope**: Medium article (1000-1500 words)
-- **Tenet alignment**: Provides context for the project's specific form of interactionism
+- **Tenet alignment**: Provides context for the site's specific form of interactionism
 - **Suggested approach**: Descartes → modern proposals (Stapp, Penrose-Hameroff)
 
 #### Quantum Mechanics and Consciousness (Overview)
@@ -122,7 +122,7 @@ The tenets page is a genuinely strong foundation for a philosophical compendium.
 
 ## Architecture Opportunity
 
-the project could develop a clear hierarchy:
+the site could develop a clear hierarchy:
 
 ```
 Tenets (foundational axioms)

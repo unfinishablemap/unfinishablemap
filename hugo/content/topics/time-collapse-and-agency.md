@@ -33,13 +33,13 @@ topics:
 - '[[free-will]]'
 ---
 
-the project's framework makes interconnected claims about time, quantum collapse, and conscious agency that together form a distinctive metaphysics. Free will operates through retrocausal or atemporal quantum selection. Collapse introduces time's arrow into otherwise time-symmetric physics. Consciousness doesn't merely experience time—it may help constitute temporal structure through its role in collapse. These threads weave together: if consciousness selects among quantum outcomes, and collapse creates temporal asymmetry, then agency and time's direction are fundamentally linked.
+the site's framework makes interconnected claims about time, quantum collapse, and conscious agency that together form a distinctive metaphysics. Free will operates through retrocausal or atemporal quantum selection. Collapse introduces time's arrow into otherwise time-symmetric physics. Consciousness doesn't merely experience time—it may help constitute temporal structure through its role in collapse. These threads weave together: if consciousness selects among quantum outcomes, and collapse creates temporal asymmetry, then agency and time's direction are fundamentally linked.
 
-This consolidation addresses a tension: the project uses retrocausality to resolve the Libet problem (neural activity preceding conscious awareness) but also treats collapse as introducing irreversibility. How can selection be atemporal if collapse is irreversible? What metaphysics of time does this framework actually imply?
+This consolidation addresses a tension: the site uses retrocausality to resolve the Libet problem (neural activity preceding conscious awareness) but also treats collapse as introducing irreversibility. How can selection be atemporal if collapse is irreversible? What metaphysics of time does this framework actually imply?
 
 ## The Framework's Temporal Commitments
 
-the project's [tenets](/tenets/) make several claims bearing on time:
+the site's [tenets](/tenets/) make several claims bearing on time:
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** holds that consciousness causally influences the physical world. This influence must occur *in* or *across* time—agents make choices that affect what happens.
 
@@ -61,11 +61,11 @@ Philosophy of time offers three major positions:
 
 **Growing block** theory holds that past and present exist, but the future doesn't yet. The block grows as time passes, with the present as its leading edge.
 
-the project's framework sits uncomfortably with all three.
+the site's framework sits uncomfortably with all three.
 
 **Against pure presentism**: Retrocausality requires the past to be causally accessible in some sense. If past events are simply gone, backward causation has nothing to influence. The transactional interpretation describes offer waves from the past and confirmation waves from the future meeting in atemporal handshakes. This requires past and future to be "there" in some metaphysical sense.
 
-**Against pure eternalism**: If all times exist equally and the block is static, collapse seems illusory. Definite outcomes at t₂ were "always" in the block; superpositions at t₁ simply hadn't yet been measured from our perspective. But the project requires real collapse—genuine transition from possibility to actuality, not mere discovery of pre-existing facts.
+**Against pure eternalism**: If all times exist equally and the block is static, collapse seems illusory. Definite outcomes at t₂ were "always" in the block; superpositions at t₁ simply hadn't yet been measured from our perspective. But the site requires real collapse—genuine transition from possibility to actuality, not mere discovery of pre-existing facts.
 
 **The growing block's promise**: Real collapse could be the mechanism by which the block grows. The present moment is where superpositions resolve into definite facts, adding to the determinate past. This preserves both retrocausal accessibility (the past exists) and genuine temporal becoming (the future doesn't yet).
 
@@ -100,13 +100,13 @@ This dissolves the apparent paradox. Retrocausality operates within the physics 
 
 ## The Phenomenology of Temporal Agency
 
-If consciousness constitutes time through collapse, what should this feel like? the project's framework predicts:
+If consciousness constitutes time through collapse, what should this feel like? the site's framework predicts:
 
 **The [specious present](/concepts/specious-present/)**: [Temporal experience](/concepts/temporal-consciousness/) has duration—roughly 100 milliseconds to 3 seconds depending on methodology—within which we experience succession as unified. This isn't clock-time (which has durationless instants) but lived time.
 
 The debate between extensionalists (Dainton, Foster) and retentionalists (Husserl, Broad) about the specious present bears directly on the framework. Extensionalists hold that experience is genuinely temporally extended—has parts at different times. Retentionalists hold that each moment is instantaneous but contains the past as intentional content (retention) and anticipates the future (protention).
 
-the project adopts a modified extensionalism: experience is genuinely extended, with the extension constituted through quantum collapse. Each collapse creates a "moment"; the specious present is the experiential horizon within which recent collapses remain unified. This explains both the extended phenomenology (extensionalism) and the retention-like structure (retentionalism)—the echoing of the past in the present reflects retrocausal boundary conditions in the collapse process.
+the site adopts a modified extensionalism: experience is genuinely extended, with the extension constituted through quantum collapse. Each collapse creates a "moment"; the specious present is the experiential horizon within which recent collapses remain unified. This explains both the extended phenomenology (extensionalism) and the retention-like structure (retentionalism)—the echoing of the past in the present reflects retrocausal boundary conditions in the collapse process.
 
 If consciousness is actively constituting temporal structure, the specious present may be the phenomenology of this constitutive activity. We experience duration because we're creating duration. The variation in duration estimates (100ms-3s) may reflect multiple components—a core perceptual window where collapses unify, embedded in a broader experiential horizon where constraints propagate.
 
@@ -152,7 +152,7 @@ The framework offers three responses:
 
 **The structural point.** Even if consciousness were "merely" an introspective representation (as illusionists claim), the question of how collapse introduces temporal asymmetry remains physical. The arrow of time is independent of whether we correctly interpret our phenomenology. What the framework adds is that consciousness-involving collapse may be *how* the arrow emerges—not that consciousness *seems* to experience an arrow but that its participation in collapse *creates* one. This is a claim about physics, not about the accuracy of phenomenal reports.
 
-**The selection remains.** Illusionism doesn't eliminate the need for selection at quantum indeterminacies. Even if there's no phenomenal consciousness, *something* must determine which outcomes become actual. the project's framework proposes that whatever performs this selection—call it consciousness, call it information processing, call it what you will—is implicated in temporal structure through its collapse-constitutive role. The phenomenology is evidence for this role, not its only support.
+**The selection remains.** Illusionism doesn't eliminate the need for selection at quantum indeterminacies. Even if there's no phenomenal consciousness, *something* must determine which outcomes become actual. the site's framework proposes that whatever performs this selection—call it consciousness, call it information processing, call it what you will—is implicated in temporal structure through its collapse-constitutive role. The phenomenology is evidence for this role, not its only support.
 
 ## Process Philosophy Perspective
 
@@ -233,11 +233,11 @@ This synthesis strengthens and deepens each of the five tenets:
 - [duration](/concepts/duration/) — Bergson's qualitative time and the phenomenology of flow
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Broader treatment of time in consciousness
 - [specious-present](/concepts/specious-present/) — The experienced duration of "now" and the extensionalism debate
-- [free-will](/topics/free-will/) — the project's account of libertarian agency
+- [free-will](/topics/free-will/) — the site's account of libertarian agency
 - [agent-causation](/concepts/agent-causation/) — The agent as ultimate source of action
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse remains unexplained
 - [decoherence](/concepts/decoherence/) — The decoherence objection and biological quantum effects
-- [illusionism](/concepts/illusionism/) — The eliminativist challenge and the project's response
+- [illusionism](/concepts/illusionism/) — The eliminativist challenge and the site's response
 - [introspection](/concepts/introspection/) — First-person methods and temporal phenomenology
 - [haecceity](/concepts/haecceity/) — Indexical identity and why *this* consciousness matters
 - [witness-consciousness](/concepts/witness-consciousness/) — Suspended selection in contemplative practice

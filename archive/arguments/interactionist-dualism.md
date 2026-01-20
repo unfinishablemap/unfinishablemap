@@ -175,7 +175,7 @@ Together, they support the full interactionist position: consciousness is irredu
 
 **Objection** (Kim): If minds are non-spatial, what pairs *this* mind with *this* body? Physical causation depends on spatial relations.
 
-**Response**: Minds have spatial location—in the brain regions where they causally interact. the project's framework locates consciousness where quantum effects occur. This preserves dualism (minds are ontologically distinct) while granting spatial presence (minds occupy brain space).
+**Response**: Minds have spatial location—in the brain regions where they causally interact. the site's framework locates consciousness where quantum effects occur. This preserves dualism (minds are ontologically distinct) while granting spatial presence (minds occupy brain space).
 
 ### Conservation Laws
 
@@ -201,9 +201,9 @@ Together, they support the full interactionist position: consciousness is irredu
 
 **Response**: Decoherence explains why macroscopic superpositions don't persist; it doesn't explain why specific outcomes occur. Consciousness may influence which classical state emerges from decoherence, not maintain coherence across neural timescales.
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
-The arguments directly support the project's foundational [[tenets]]:
+The arguments directly support the site's foundational [[tenets]]:
 
 **[[tenets#^dualism|Dualism]]**: Arguments 1-5 establish that consciousness has properties physics cannot capture.
 

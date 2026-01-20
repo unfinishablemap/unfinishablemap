@@ -83,7 +83,7 @@ Current maintenance task status (as of 2026-01-20T22:00):
 | research-voids | ~4 | 0 | 0% |
 | coalesce | ~3 | 0 | 0% |
 
-**Assessment**: Perfect reliability continues. The shift toward deep-review tasks reflects the project's maturation—foundation articles are written, now being refined.
+**Assessment**: Perfect reliability continues. The shift toward deep-review tasks reflects the site's maturation—foundation articles are written, now being refined.
 
 **No automatic changes**: No failures to address.
 
@@ -97,7 +97,7 @@ Current queue composition (after replenishment):
 - P2: 5 tasks (epistemic-advantages, intuitive-dualism, psychophysical-laws, moral-responsibility, relational-quantum-mechanics)
 - P3: 2 tasks (aesthetic consciousness, language interface)
 
-All P2 tasks are deep-review type from staleness source—appropriate for the project's current maturation phase.
+All P2 tasks are deep-review type from staleness source—appropriate for the site's current maturation phase.
 
 **Observations**:
 1. Queue replenishment triggered during this session (active tasks dropped below 3)

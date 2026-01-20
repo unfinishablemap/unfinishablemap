@@ -37,7 +37,7 @@ last_deep_review: 2026-01-20T14:38:00+00:00
 
 When you remember your first kiss, your wedding day, or a moment of grief, you don't merely retrieve information. You *re-experience* the event. You are simultaneously here now and there then—present as the subject of this current moment of remembering while also phenomenally present as the protagonist in the remembered scene. This distinctive form of consciousness, which Endel Tulving called *autonoetic consciousness*, enables mental time travel and constitutes the phenomenal self across time.
 
-Autonoetic consciousness matters for the project's framework because it reveals that memory is not mere data retrieval but involves irreducible phenomenology. The felt sense of pastness, the double presence of self as rememberer and protagonist, the qualitative difference between remembering and knowing—these features resist reduction to neural computation, even though they depend on neural systems. If remembering is re-experiencing rather than information access, then episodic memory is consciousness-constituted in ways purely computational accounts cannot capture.
+Autonoetic consciousness matters for the site's framework because it reveals that memory is not mere data retrieval but involves irreducible phenomenology. The felt sense of pastness, the double presence of self as rememberer and protagonist, the qualitative difference between remembering and knowing—these features resist reduction to neural computation, even though they depend on neural systems. If remembering is re-experiencing rather than information access, then episodic memory is consciousness-constituted in ways purely computational accounts cannot capture.
 
 ## Tulving's Framework
 
@@ -55,7 +55,7 @@ Tulving distinguished three forms of consciousness associated with different mem
 
 ### Mental Time Travel
 
-The concept of mental time travel captures what autonoetic consciousness enables: the projection of oneself to specific times and places, both past and future. When you remember your graduation ceremony, you are in some sense *there*—the remembered scene unfolds with phenomenal presence rather than being merely represented abstractly.
+The concept of mental time travel captures what autonoetic consciousness enables: the siteion of oneself to specific times and places, both past and future. When you remember your graduation ceremony, you are in some sense *there*—the remembered scene unfolds with phenomenal presence rather than being merely represented abstractly.
 
 Crucially, mental time travel works in both directions. The same capacity that allows re-experiencing past events allows simulating future ones. When you imagine a forthcoming job interview, you project yourself forward—you inhabit the scenario with first-person phenomenology. Tulving argued this bidirectionality reveals something fundamental: autonoetic consciousness is a unified capacity for temporal self-projection, not separate remembering and imagining faculties.
 
@@ -103,7 +103,7 @@ This isn't mere forgetting. The memories aren't lost but were never encoded auto
 
 The hippocampus performs binding operations essential to episodic memory—integrating spatiotemporal context with item information into unified representations. Research suggests this binding is what makes memories episodic rather than merely semantic. The hippocampus binds disparate features (object, location, time, emotional context) into coherent episodes through pattern separation and pattern completion.
 
-This connects to the [[binding-problem|binding problem]] in consciousness. If conscious experience is a unified representation of the world, and episodic memory creates unified representations of events, the mechanisms may be intimately related. The hippocampus might not merely store unified representations but participate in generating the unified conscious experience that gets stored. the project's framework suggests this convergence isn't coincidental—binding and consciousness may be aspects of the same phenomenon.
+This connects to the [[binding-problem|binding problem]] in consciousness. If conscious experience is a unified representation of the world, and episodic memory creates unified representations of events, the mechanisms may be intimately related. The hippocampus might not merely store unified representations but participate in generating the unified conscious experience that gets stored. the site's framework suggests this convergence isn't coincidental—binding and consciousness may be aspects of the same phenomenon.
 
 ## Working Memory and Mental Time Travel
 
@@ -132,7 +132,7 @@ The paradigm reveals interesting dissociations. Amnesic patients may retain know
 
 The remember/know distinction also illuminates the relationship between episodic and [[semantic-memory|semantic memory]]. Over time, episodic memories can "semanticize"—losing their autonoetic character while retaining their content. You might know that you visited Paris on your honeymoon (semantic) without being able to re-experience specific moments from that trip (episodic). The phenomenology transforms from remembering to knowing, from autonoetic to noetic, while the information persists.
 
-This transformation matters for the project's framework. If memories can shift from autonoetic to noetic while preserving content, then consciousness isn't epiphenomenal to memory—it constitutes the *kind* of memory you have. The same informational content, accessed autonoetically or noetically, is a different experience. Consciousness doesn't just accompany memory; it shapes its very nature.
+This transformation matters for the site's framework. If memories can shift from autonoetic to noetic while preserving content, then consciousness isn't epiphenomenal to memory—it constitutes the *kind* of memory you have. The same informational content, accessed autonoetically or noetically, is a different experience. Consciousness doesn't just accompany memory; it shapes its very nature.
 
 ## Implications for Personal Identity
 
@@ -152,7 +152,7 @@ The sense of being the same person rests partly on the immediate phenomenal qual
 
 This phenomenological continuity may be more fundamental than narrative continuity. The [[self-and-consciousness|minimal self]]—the basic first-personal givenness of experience—persists through mental time travel. When you re-experience a past event, the minimal self is continuous across the remembering: the same perspectival character structures both the current moment and the re-lived event.
 
-This supports the project's rejection of [[parfit-reductionism|Parfit's reductionism]]. For Parfit, personal identity is nothing over and above psychological continuity—patterns of connection between mental states. But autonoetic consciousness suggests something more: the *qualitative character* of re-experiencing, the phenomenal presence of self in mental time travel, the irreducible "for-me-ness" that structures both remembering and remembered event. These features are not patterns but qualities—and qualities are what qualia are.
+This supports the site's rejection of [[parfit-reductionism|Parfit's reductionism]]. For Parfit, personal identity is nothing over and above psychological continuity—patterns of connection between mental states. But autonoetic consciousness suggests something more: the *qualitative character* of re-experiencing, the phenomenal presence of self in mental time travel, the irreducible "for-me-ness" that structures both remembering and remembered event. These features are not patterns but qualities—and qualities are what qualia are.
 
 ## The Illusionist Challenge
 
@@ -190,7 +190,7 @@ Process philosophy supports the "specious present" as ontologically significant.
 
 ## Relation to Site Perspective
 
-Autonoetic consciousness supports all five of the project's foundational commitments.
+Autonoetic consciousness supports all five of the site's foundational commitments.
 
 **[[tenets#^dualism|Dualism]]**: The phenomenology of autonoetic consciousness resists physical reduction. The felt pastness of remembered experience, the double presence of self, the qualitative character of re-living—these are phenomenal properties that physical descriptions don't capture. Neural activity in the hippocampus correlates with episodic retrieval, but the correlation doesn't explain why there is something it is like to re-experience the past. The gap between neural mechanism and phenomenal character is the hard problem in temporal form. [[illusionism|Illusionist]] attempts to explain away this phenomenology face the regress problem: the experience of seeming to remember is itself a conscious experience requiring explanation.
 
@@ -202,9 +202,9 @@ Autonoetic consciousness supports all five of the project's foundational commitm
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The "simpler" explanation—that memory is information storage and retrieval—fails to account for what autonoetic consciousness adds. The remember/know distinction empirically demonstrates that the same information can be present with or without autonoetic character. Positing only information processing doesn't explain the additional phenomenological dimension. Sometimes the more ontologically committed explanation (memory involves irreducible phenomenology) is more adequate to the data than the parsimonious one.
 
-**Retrocausality and Mental Time Travel**: The project proposes retrocausal resolution of apparent timing problems in consciousness (such as the [[libet-experiments|Libet experiments]]). Mental time travel may be the phenomenological manifestation of something deeper: consciousness's capacity to operate across time. The ability to re-inhabit past moments and project into future ones might not be mere simulation but reflect a genuine atemporal aspect of consciousness—consistent with time-symmetric interpretations of quantum mechanics that the project favors.
+**Retrocausality and Mental Time Travel**: the site proposes retrocausal resolution of apparent timing problems in consciousness (such as the [[libet-experiments|Libet experiments]]). Mental time travel may be the phenomenological manifestation of something deeper: consciousness's capacity to operate across time. The ability to re-inhabit past moments and project into future ones might not be mere simulation but reflect a genuine atemporal aspect of consciousness—consistent with time-symmetric interpretations of quantum mechanics that the site favors.
 
-**The Binding Connection**: If hippocampal binding generates both unified conscious experience and unified memories, these functions may be identical or intimately related. The project's quantum binding hypothesis—that consciousness unifies distributed processes through collapse—might apply equally to episodic memory formation. Memory would then be constitutively conscious, not merely correlated with consciousness. [[decoherence|Decoherence]] objections apply here, but warm biological systems may preserve quantum effects long enough for selection operations, and the measurement problem remains regardless of decoherence timescales.
+**The Binding Connection**: If hippocampal binding generates both unified conscious experience and unified memories, these functions may be identical or intimately related. the site's quantum binding hypothesis—that consciousness unifies distributed processes through collapse—might apply equally to episodic memory formation. Memory would then be constitutively conscious, not merely correlated with consciousness. [[decoherence|Decoherence]] objections apply here, but warm biological systems may preserve quantum effects long enough for selection operations, and the measurement problem remains regardless of decoherence timescales.
 
 ## What Would Challenge This View?
 

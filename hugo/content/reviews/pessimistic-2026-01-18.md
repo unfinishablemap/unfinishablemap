@@ -28,13 +28,13 @@ topics: []
 
 ## Executive Summary
 
-The reviewed articles are well-structured and integrate smoothly with site tenets. However, three medium-severity concerns emerge: (1) the luck-objection response relies heavily on phenomenology that critics find question-begging, (2) the multi-mind-collapse resolution may be too convenient—limiting consciousness's scope precisely where it would create problems, and (3) the metacognition-consciousness dissociation argument may prove too much, undermining the reliability of the introspection the project elsewhere depends upon.
+The reviewed articles are well-structured and integrate smoothly with site tenets. However, three medium-severity concerns emerge: (1) the luck-objection response relies heavily on phenomenology that critics find question-begging, (2) the multi-mind-collapse resolution may be too convenient—limiting consciousness's scope precisely where it would create problems, and (3) the metacognition-consciousness dissociation argument may prove too much, undermining the reliability of the introspection the site elsewhere depends upon.
 
 ## Critiques by Philosopher
 
 ### The Eliminative Materialist (Patricia Churchland)
 
-*On concepts/metacognition.md*: "You argue that metacognition is dissociable from consciousness, using blindsight and blind insight as evidence. But this dissociation cuts both ways. If our metacognitive reports about consciousness are unreliable—as your dissociation evidence shows—why should we trust introspective reports about consciousness itself? You cite Fox 2012 showing meditation improves introspective accuracy, but accuracy about *what*? Neural states you're misinterpreting as non-physical? The entire metacognition article undermines the epistemic foundation the project's dualism requires."
+*On concepts/metacognition.md*: "You argue that metacognition is dissociable from consciousness, using blindsight and blind insight as evidence. But this dissociation cuts both ways. If our metacognitive reports about consciousness are unreliable—as your dissociation evidence shows—why should we trust introspective reports about consciousness itself? You cite Fox 2012 showing meditation improves introspective accuracy, but accuracy about *what*? Neural states you're misinterpreting as non-physical? The entire metacognition article undermines the epistemic foundation the site's dualism requires."
 
 *On concepts/sleep-and-consciousness.md*: "You say sleep shows consciousness 'isn't binary' and operates in 'gradations.' Wonderful—this is exactly what neuroscience predicts. Consciousness is brain activity, and brain activity has degrees. Your filter theory interpretation—that the 'interface' partially disengages—adds explanatory machinery without predictive advantage. Occam's razor cuts against you, not for you."
 
@@ -73,16 +73,16 @@ The reviewed articles are well-structured and integrate smoothly with site tenet
 ### Issue 1: Self-Undermining Metacognition Argument
 - **File**: `concepts/metacognition.md`
 - **Location**: Throughout, especially "Metacognition vs. Consciousness: The Dissociation Evidence"
-- **Problem**: The article argues that metacognitive reports about consciousness can be unreliable (blind insight, dissociation evidence). But the project elsewhere relies heavily on introspective access to consciousness as evidence for its views. If metacognition dissociates from consciousness, our reports about consciousness—including reports that consciousness is non-physical—may be systematically mistaken. The argument proves too much.
+- **Problem**: The article argues that metacognitive reports about consciousness can be unreliable (blind insight, dissociation evidence). But the site elsewhere relies heavily on introspective access to consciousness as evidence for its views. If metacognition dissociates from consciousness, our reports about consciousness—including reports that consciousness is non-physical—may be systematically mistaken. The argument proves too much.
 - **Severity**: Medium
-- **Recommendation**: Add a section addressing this tension. Possible response: dissociation evidence shows metacognition can fail to track consciousness, not that it typically does. Trained introspection (meditation) improves reliability. the project's claims don't depend on perfect introspective access, only on access being generally reliable for trained observers.
+- **Recommendation**: Add a section addressing this tension. Possible response: dissociation evidence shows metacognition can fail to track consciousness, not that it typically does. Trained introspection (meditation) improves reliability. the site's claims don't depend on perfect introspective access, only on access being generally reliable for trained observers.
 
 ### Issue 2: Phenomenology-Dependent Response to Luck Objection
 - **File**: `concepts/luck-objection.md`
 - **Location**: "The Phenomenology of Effort" section
 - **Problem**: The core response to the luck objection is: selection feels different from random reception; effort distinguishes genuine choice from lucky outcome. But critics like Dennett deny that phenomenology tracks causation. Zombies or zimbos would have the same phenomenology without the causal efficacy. The response assumes what's contested—that phenomenology reflects real causal processes.
 - **Severity**: Medium
-- **Recommendation**: Strengthen the argument by engaging with the zombie objection to phenomenology-based reasoning. Possible response: the project's dualism already rejects zombies' conceivability (consciousness is fundamental, not epiphenomenal), so zombie-based objections to phenomenology are question-begging from the project's perspective. Make this dialectical structure explicit.
+- **Recommendation**: Strengthen the argument by engaging with the zombie objection to phenomenology-based reasoning. Possible response: the site's dualism already rejects zombies' conceivability (consciousness is fundamental, not epiphenomenal), so zombie-based objections to phenomenology are question-begging from the site's perspective. Make this dialectical structure explicit.
 
 ### Issue 3: Convenient Boundary-Drawing in Multi-Mind Resolution
 - **File**: `concepts/multi-mind-collapse-problem.md`
@@ -94,21 +94,21 @@ The reviewed articles are well-structured and integrate smoothly with site tenet
 ### Issue 4: IIT Citation Inconsistency
 - **File**: `concepts/sleep-and-consciousness.md`
 - **Location**: "Why Slow Waves Disrupt Consciousness" section
-- **Problem**: The article cites IIT's bistability explanation for consciousness loss during slow-wave sleep. But the project elsewhere notes COGITATE challenged IIT's predictions. Using IIT when convenient while criticising it elsewhere creates inconsistency.
+- **Problem**: The article cites IIT's bistability explanation for consciousness loss during slow-wave sleep. But the site elsewhere notes COGITATE challenged IIT's predictions. Using IIT when convenient while criticising it elsewhere creates inconsistency.
 - **Severity**: Low
-- **Recommendation**: Acknowledge the tension. Possible framing: "IIT offers one explanation for slow-wave disruption—bistability fragments integration. the project doesn't endorse IIT's identity claim (consciousness = integrated information), but its description of what happens during slow-wave sleep is empirically grounded independently of the theory's metaphysical commitments."
+- **Recommendation**: Acknowledge the tension. Possible framing: "IIT offers one explanation for slow-wave disruption—bistability fragments integration. the site doesn't endorse IIT's identity claim (consciousness = integrated information), but its description of what happens during slow-wave sleep is empirically grounded independently of the theory's metaphysical commitments."
 
 ## Counterarguments to Address
 
 ### Phenomenology and Causation
 - **Current content says**: The felt effort of attention proves selection is causally real, not merely random reception
 - **A critic would argue**: Phenomenology doesn't track causation. Epiphenomenal qualia would feel identical to causally efficacious qualia. You can't infer from "feels effortful" to "causally does something"
-- **Suggested response**: Integrate the response to epiphenomenalism from the arguments section. the project rejects epiphenomenalism for reasons independent of the luck objection—self-stultification, evolutionary implausibility. Given epiphenomenalism's rejection, phenomenology can be trusted as tracking real causal engagement.
+- **Suggested response**: Integrate the response to epiphenomenalism from the arguments section. the site rejects epiphenomenalism for reasons independent of the luck objection—self-stultification, evolutionary implausibility. Given epiphenomenalism's rejection, phenomenology can be trusted as tracking real causal engagement.
 
 ### Decoherence Timescales
 - **Current content says**: Consciousness selects among quantum alternatives via the quantum Zeno effect
 - **A critic would argue**: Show me the calculations. Neural decoherence is femtoseconds; decision-making is hundreds of milliseconds. How does coherence persist?
-- **Suggested response**: the project should engage more explicitly with Tegmark's critique and recent protective mechanism evidence (microtubule coherence, nuclear spin effects). Consider adding a subsection to quantum-consciousness.md addressing decoherence objections systematically.
+- **Suggested response**: the site should engage more explicitly with Tegmark's critique and recent protective mechanism evidence (microtubule coherence, nuclear spin effects). Consider adding a subsection to quantum-consciousness.md addressing decoherence objections systematically.
 
 ### Interface Locality as Ad Hoc
 - **Current content says**: Consciousness can only affect its own brain because the attention mechanism is neurally implemented
@@ -134,10 +134,10 @@ The reviewed articles are well-structured and integrate smoothly with site tenet
 
 ## Strengths (Brief)
 
-Despite criticisms, these articles represent substantial development of the project's framework:
+Despite criticisms, these articles represent substantial development of the site's framework:
 
 - **Metacognition article** provides crucial distinction that strengthens the case against HOT theories while supporting first-order views
-- **Sleep article** offers the most systematic treatment of consciousness gradations on the project, with empirical grounding
+- **Sleep article** offers the most systematic treatment of consciousness gradations on the site, with empirical grounding
 - **Luck objection article** engages seriously with the hardest objection to libertarian free will
 - **Multi-mind article** addresses a real problem for quantum-consciousness frameworks that many proponents ignore
 

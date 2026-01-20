@@ -165,7 +165,7 @@ Near-death experiences (NDEs) are vivid cognitive events reported by individuals
 
 Based on this research, an article could:
 
-1. **Evidence-focused approach (aligns with Dualism and Occam's Razor Has Limits)**: Present NDEs as evidence challenging the brain-production model of consciousness. Emphasize the paradox of heightened cognition during severe cerebral ischemia, the failure of materialist explanations to account for all features, and why the project's dualist framework makes NDEs intelligible.
+1. **Evidence-focused approach (aligns with Dualism and Occam's Razor Has Limits)**: Present NDEs as evidence challenging the brain-production model of consciousness. Emphasize the paradox of heightened cognition during severe cerebral ischemia, the failure of materialist explanations to account for all features, and why the site's dualist framework makes NDEs intelligible.
 
 2. **Methodological approach (neutral)**: Survey the state of NDE research—terminology, prospective studies, veridical perception tests—without strong philosophical commitments. This would expand the existing death-and-consciousness.md treatment with more empirical detail.
 

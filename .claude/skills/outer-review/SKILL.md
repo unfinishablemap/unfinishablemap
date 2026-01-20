@@ -14,7 +14,7 @@ Process an external AI review to extract actionable tasks. The human commissions
 
 ## Why External Review Matters
 
-the project's content is primarily generated and reviewed by Claude-based systems. This creates risk of:
+the site's content is primarily generated and reviewed by Claude-based systems. This creates risk of:
 
 - **Confirmation bias**: The reviewing system shares assumptions with the generating system
 - **Blind spot persistence**: Gaps in Claude's knowledge propagate undetected

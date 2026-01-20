@@ -27,7 +27,7 @@ last_curated: null
 
 ## Executive Summary
 
-The reviewed articles present the project's core positions clearly and with good cross-referencing. However, three medium-severity concerns emerge: (1) the creativity article's claim that imagination "constitutes" possibilities risks collapsing into idealism, (2) the substrate-independence critique's temporal structure argument applies equally to brains (sequential neural firing), and (3) multiple articles rely on "the arguments converge" as evidence, but convergence of bad arguments proves nothing.
+The reviewed articles present the site's core positions clearly and with good cross-referencing. However, three medium-severity concerns emerge: (1) the creativity article's claim that imagination "constitutes" possibilities risks collapsing into idealism, (2) the substrate-independence critique's temporal structure argument applies equally to brains (sequential neural firing), and (3) multiple articles rely on "the arguments converge" as evidence, but convergence of bad arguments proves nothing.
 
 ## Critiques by Philosopher
 
@@ -93,7 +93,7 @@ The reviewed articles present the project's core positions clearly and with good
 ### Issue 4: Quantum Indeterminacy as Causal Gap
 - **File**: `concepts/reductionism.md`
 - **Location**: "Kim's Challenge" section
-- **Problem**: The response to Kim's exclusion argument claims physics "leaves outcomes undetermined" at quantum indeterminacies. But quantum mechanics provides probabilistic determination—the wave function specifies exact probabilities for each outcome. Claiming consciousness "biases" these probabilities amounts to saying consciousness changes the physics. This isn't operating where physics is "incomplete" but operating where physics makes specific predictions. the project needs to address whether consciousness violates quantum mechanical probability predictions.
+- **Problem**: The response to Kim's exclusion argument claims physics "leaves outcomes undetermined" at quantum indeterminacies. But quantum mechanics provides probabilistic determination—the wave function specifies exact probabilities for each outcome. Claiming consciousness "biases" these probabilities amounts to saying consciousness changes the physics. This isn't operating where physics is "incomplete" but operating where physics makes specific predictions. the site needs to address whether consciousness violates quantum mechanical probability predictions.
 - **Severity**: Medium
 - **Recommendation**: Distinguish between "outcome undetermined" and "probability distribution specified." Acknowledge that if consciousness biases outcomes, the statistical distribution of results would differ from quantum mechanical predictions—and address why we don't observe this deviation.
 
@@ -136,12 +136,12 @@ The reviewed articles present the project's core positions clearly and with good
 
 Despite criticisms, these articles succeed in several ways:
 
-1. **Clear structure**: All four articles follow the project template with front-loaded summaries, good section organization, and explicit "Relation to Site Perspective" sections.
+1. **Clear structure**: All four articles follow the site template with front-loaded summaries, good section organization, and explicit "Relation to Site Perspective" sections.
 
 2. **Comprehensive cross-linking**: The articles form a well-integrated network, with appropriate wikilinks to related concepts and parent topics.
 
 3. **Engagement with opponents**: The dualism.md and substrate-independence-critique.md articles directly address the strongest objections (interaction problem, parsimony). This intellectual honesty strengthens the overall case.
 
-4. **Appropriate tentativeness where warranted**: The substrate critique's conclusion—"Whether any artificial substrate could host consciousness is a harder question the project doesn't pretend to answer"—models appropriate epistemic humility.
+4. **Appropriate tentativeness where warranted**: The substrate critique's conclusion—"Whether any artificial substrate could host consciousness is a harder question the site doesn't pretend to answer"—models appropriate epistemic humility.
 
 5. **Bergson integration**: The consciousness-and-creativity article successfully bridges analytic philosophy of mind with Bergsonian metaphysics. This is distinctive and adds value beyond standard treatments.

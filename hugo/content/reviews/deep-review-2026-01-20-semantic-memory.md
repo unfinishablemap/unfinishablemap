@@ -39,7 +39,7 @@ topics: []
 - **Limited cross-linking**: Only 8 cross-links in Further Reading despite rich connections available. **Resolution**: Added 7 new cross-links (episodic-memory, illusionism, introspection, witness-consciousness, haecceity, decoherence, attention-as-interface).
 
 ### Style Issues Found
-- **Capitalization error** on line 115: "the project" at sentence start should be "The project". **Resolution**: Fixed in new content.
+- **Capitalization error** on line 115: "the site" at sentence start should be "the site". **Resolution**: Fixed in new content.
 
 ### Counterarguments Considered
 - **Eliminative materialist**: TOT states could be explained functionally without phenomenology. **Response**: Added functional asymmetry argument—FOK reliably predicts retrieval success, which evolution wouldn't produce for mere misrepresentations.

@@ -368,7 +368,7 @@ The mental effort framework would face serious difficulty if:
 
 ## Relation to Site Perspective
 
-The phenomenology of mental effort aligns remarkably with what the project's tenets predict:
+The phenomenology of mental effort aligns remarkably with what the site's tenets predict:
 
 **[[tenets#^dualism|Dualism]]**: If effort is real—not just what neural computation feels like—then consciousness contributes something beyond the physical. The quantum Zeno mechanism specifies *how*: consciousness holds patterns through repeated selection, and this selection feels like work because it *is* work. The willed/instructed distinction provides neural evidence: something changes in the brain when genuine decision occurs versus mere implementation. That something may be consciousness engaging at the selection point.
 
@@ -376,11 +376,11 @@ The phenomenology of mental effort aligns remarkably with what the project's ten
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The neuroplasticity evidence shows downward causation in action. Mental effort changes brain structure. Schwartz's OCD patients *thought* their way to altered brain metabolism—the caudate nucleus literally changed through directed attention. Whatever the mechanism, information flows from mind to matter. The phenomenology of effort is the first-person evidence for what the neuroimaging confirms third-personally.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: If all quantum outcomes occur in branching universes, what does "effort" select? In many-worlds, the branch where you focused and the branch where you didn't both exist equally. Effort would be the illusion of choosing what was never chosen. But effort phenomenology is precisely one of singular determination: you attend *here*, and the alternatives fade. The felt singularity of effortful selection—the sense that *this* pattern is held and alternatives are not—supports the project's rejection of interpretations where all outcomes are equally real. Effort implies genuine selection, not mere branching.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: If all quantum outcomes occur in branching universes, what does "effort" select? In many-worlds, the branch where you focused and the branch where you didn't both exist equally. Effort would be the illusion of choosing what was never chosen. But effort phenomenology is precisely one of singular determination: you attend *here*, and the alternatives fade. The felt singularity of effortful selection—the sense that *this* pattern is held and alternatives are not—supports the site's rejection of interpretations where all outcomes are equally real. Effort implies genuine selection, not mere branching.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The materialist can dismiss effort phenomenology as "what computation feels like"—simpler than positing consciousness as selector. But this parsimony ignores the datum it purports to explain. Why does *this* computation feel like work? Why does sustained attention have a different phenomenal character from passive perception? The effort/effortlessness distinction is phenomenologically obvious and universally reported. Explaining it away as "just how things seem" trades simplicity for explanatory vacancy. The quantum Zeno account may be less parsimonious, but it actually explains the correspondence between phenomenology and mechanism.
 
-The project doesn't commit to Stapp's specific proposal over other quantum consciousness mechanisms. But the phenomenology of effort provides a datum any account must explain. If controlling attention genuinely costs something, something must be doing the paying.
+the site doesn't commit to Stapp's specific proposal over other quantum consciousness mechanisms. But the phenomenology of effort provides a datum any account must explain. If controlling attention genuinely costs something, something must be doing the paying.
 
 ## Further Reading
 

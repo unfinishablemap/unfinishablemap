@@ -78,4 +78,4 @@ The article was strong in its core thesis (irreducibility doesn't require perman
 2. Acknowledgment that the compatibility reading is contestable
 3. Stronger integration with related site content (phenomenology, agent-causation, filter-theory)
 
-These have been addressed. The article now presents a more defensible compatibility thesis while acknowledging genuine Buddhist challenges to the project's framework.
+These have been addressed. The article now presents a more defensible compatibility thesis while acknowledging genuine Buddhist challenges to the site's framework.

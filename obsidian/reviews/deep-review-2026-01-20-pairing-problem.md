@@ -76,4 +76,4 @@ The pairing problem article was well-structured but missing standard elements th
 4. Added comprehensive "Relation to Site Perspective" section linking to all relevant tenets
 5. Expanded cross-links by 5 additional concept pages
 
-The article now meets the project's quality standards for deep-reviewed content.
+The article now meets the site's quality standards for deep-reviewed content.

@@ -25,7 +25,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-1. **No engagement with illusionism**: the project has a major article on illusionism, and embodied cognition needed to address how illusionists explain skill acquisition and choking.
+1. **No engagement with illusionism**: the site has a major article on illusionism, and embodied cognition needed to address how illusionists explain skill acquisition and choking.
    - **Resolution**: Added "The Illusionist Challenge" subsection after the choking evidence, engaging Dennett/Frankish with a detailed response showing why phenomenological distinctions matter.
 
 2. **Missing falsifiability section**: No discussion of what would challenge the compatibility claim.

@@ -127,17 +127,17 @@ COGITATE (2025) and other adversarial collaborations test leading consciousness 
 
 ## Relevance to Site's Framework
 
-Predictive processing relates to the project's [tenets](/tenets/) in several ways:
+Predictive processing relates to the site's [tenets](/tenets/) in several ways:
 
 **Dualism**: PP is typically presented as a physicalist framework—consciousness emerges from neural computation. However, the framework itself is methodologically neutral. PP could in principle describe the *physical side* of a dualist account, characterizing how consciousness interfaces with brain processes without claiming consciousness reduces to them.
 
-**Bidirectional Interaction**: Active inference—where organisms act to change sensory input—aligns interestingly with bidirectional interaction. Rather than passive receiving, consciousness actively shapes reality. the project's claim that consciousness selects among quantum outcomes could be seen as a deeper-level instance of active inference.
+**Bidirectional Interaction**: Active inference—where organisms act to change sensory input—aligns interestingly with bidirectional interaction. Rather than passive receiving, consciousness actively shapes reality. the site's claim that consciousness selects among quantum outcomes could be seen as a deeper-level instance of active inference.
 
 **Minimal Quantum Interaction**: PP says nothing about quantum mechanics. The "precision weighting" mechanism doesn't specify *how* certain signals become more salient. Quantum selection could fill this gap—consciousness might influence which prediction errors receive precision, providing the "selector" PP lacks.
 
-**Attention**: PP heavily invokes attention through precision weighting. the project's articles on attention and Stapp's quantum Zeno mechanism connect naturally here. Sustained attention may be the mechanism through which consciousness influences which predictions become conscious.
+**Attention**: PP heavily invokes attention through precision weighting. the site's articles on attention and Stapp's quantum Zeno mechanism connect naturally here. Sustained attention may be the mechanism through which consciousness influences which predictions become conscious.
 
-**Key critique**: PP offers a sophisticated account of *what* consciousness does (constructs models, minimizes prediction error, drives action) without explaining *why* these processes feel like anything. This is the standard functionalist limitation. the project's framework agrees that PP describes important cognitive mechanisms while maintaining that consciousness itself requires non-physical explanation.
+**Key critique**: PP offers a sophisticated account of *what* consciousness does (constructs models, minimizes prediction error, drives action) without explaining *why* these processes feel like anything. This is the standard functionalist limitation. the site's framework agrees that PP describes important cognitive mechanisms while maintaining that consciousness itself requires non-physical explanation.
 
 ## Sources
 
@@ -159,8 +159,8 @@ Predictive processing relates to the project's [tenets](/tenets/) in several way
 
 3. **Deep self-modeling and subjective valuation** (Deane, Friston) represent promising developments, connecting consciousness to affective inference about control and outcomes.
 
-4. **Precision weighting** may connect to the project's attention framework—Stapp's quantum Zeno mechanism could provide the "selector" determining which prediction errors reach consciousness.
+4. **Precision weighting** may connect to the site's attention framework—Stapp's quantum Zeno mechanism could provide the "selector" determining which prediction errors reach consciousness.
 
 5. **PP is methodologically neutral** on the hard problem. The framework could describe the physical side of mind-body interaction without claiming consciousness reduces to computation.
 
-6. **Active inference** parallels the project's bidirectional interaction—consciousness doesn't passively receive but actively shapes reality. This resonance deserves exploration.
+6. **Active inference** parallels the site's bidirectional interaction—consciousness doesn't passively receive but actively shapes reality. This resonance deserves exploration.

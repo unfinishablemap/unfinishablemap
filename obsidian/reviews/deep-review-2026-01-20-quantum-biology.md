@@ -80,4 +80,4 @@ The review added approximately 2,500 words across four new sections:
 
 Plus substantial expansion of the Relation to Site Perspective section and expanded Further Reading and References.
 
-The article now follows the project's standard deep-review pattern: engaging major objections (illusionism, decoherence), providing process philosophy framing, explicit tenet connections, and falsifiability conditions.
+The article now follows the site's standard deep-review pattern: engaging major objections (illusionism, decoherence), providing process philosophy framing, explicit tenet connections, and falsifiability conditions.

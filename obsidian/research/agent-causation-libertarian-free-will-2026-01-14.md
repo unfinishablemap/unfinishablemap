@@ -13,7 +13,7 @@ ai_system: claude-opus-4-5-20251101
 
 ## Executive Summary
 
-Agent causation is the philosophical view that conscious agents—understood as persisting substances rather than mere collections of events—directly cause their own actions without this causation being reducible to prior events. This contrasts with event-causal theories where mental events (beliefs, desires) cause actions. Agent-causal libertarianism claims this provides the genuine authorship that free will requires, avoiding both determinism and the "luck problem" of pure indeterminism. The research reveals a sophisticated debate with major figures (Chisholm, O'Connor, Clarke, Lowe, Hasker, Kane) offering different approaches. Agent causation aligns naturally with the project's Bidirectional Interaction tenet and quantum framework—the project's position can be understood as a specific implementation of agent-causal libertarianism where consciousness selects quantum outcomes.
+Agent causation is the philosophical view that conscious agents—understood as persisting substances rather than mere collections of events—directly cause their own actions without this causation being reducible to prior events. This contrasts with event-causal theories where mental events (beliefs, desires) cause actions. Agent-causal libertarianism claims this provides the genuine authorship that free will requires, avoiding both determinism and the "luck problem" of pure indeterminism. The research reveals a sophisticated debate with major figures (Chisholm, O'Connor, Clarke, Lowe, Hasker, Kane) offering different approaches. Agent causation aligns naturally with the site's Bidirectional Interaction tenet and quantum framework—the site's position can be understood as a specific implementation of agent-causal libertarianism where consciousness selects quantum outcomes.
 
 ## Key Sources
 
@@ -203,11 +203,11 @@ Agent causation is the philosophical view that conscious agents—understood as 
 
 Based on this research, an article could:
 
-1. **Agent causation as the philosophical framework for the project's quantum model** - Show how Bidirectional Interaction tenet is a specification of agent-causal libertarianism. the project provides what classical agent causation lacked: a mechanism (quantum selection). This would connect the project to major philosophical tradition while distinguishing it.
+1. **Agent causation as the philosophical framework for the site's quantum model** - Show how Bidirectional Interaction tenet is a specification of agent-causal libertarianism. the site provides what classical agent causation lacked: a mechanism (quantum selection). This would connect the site to major philosophical tradition while distinguishing it.
 
-2. **The luck objection and the project's response** - Address directly how the quantum selection model handles luck. Key insight: consciousness genuinely chooses for reasons, not randomly. The indeterminacy provides openness; consciousness provides determination. This is neither determined (physics didn't fix the outcome) nor lucky (consciousness selected based on reasons).
+2. **The luck objection and the site's response** - Address directly how the quantum selection model handles luck. Key insight: consciousness genuinely chooses for reasons, not randomly. The indeterminacy provides openness; consciousness provides determination. This is neither determined (physics didn't fix the outcome) nor lucky (consciousness selected based on reasons).
 
-3. **Sourcehood and ultimacy in the quantum framework** - Develop Kane's concept of "ultimate sourcehood" in terms of the project's framework. Consciousness is the ultimate source because it selects which neural history becomes actual. The selection is genuinely the agent's because it isn't determined by prior physical states.
+3. **Sourcehood and ultimacy in the quantum framework** - Develop Kane's concept of "ultimate sourcehood" in terms of the site's framework. Consciousness is the ultimate source because it selects which neural history becomes actual. The selection is genuinely the agent's because it isn't determined by prior physical states.
 
 When writing the article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references

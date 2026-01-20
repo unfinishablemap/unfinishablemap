@@ -50,7 +50,7 @@ last_deep_review: 2026-01-20T09:48:55+00:00
 
 Several serious scientific proposals attempt to explain how consciousness might interact with the physical world at the quantum level. These aren't "quantum mysticism" but rigorous theories developed by physicists and neuroscientists. They propose specific mechanisms by which consciousness could influence brain activity without violating physical law.
 
-this project's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet aligns with these approaches: consciousness operates at quantum indeterminacies, biasing otherwise undetermined outcomes without injecting energy or violating conservation laws. Understanding the specific proposals—and their challenges—clarifies what the tenet means concretely.
+this site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet aligns with these approaches: consciousness operates at quantum indeterminacies, biasing otherwise undetermined outcomes without injecting energy or violating conservation laws. Understanding the specific proposals—and their challenges—clarifies what the tenet means concretely.
 
 ## The Quantum Opening
 
@@ -62,7 +62,7 @@ This is the opening for mental causation. At quantum indeterminacies, physical c
 
 The measurement problem creates logical space for consciousness at collapse—something must select among possibilities, and physics doesn't specify what. This transforms the exclusion argument: rather than mental causes being crowded out by physical causes, mental causes operate precisely where physical causation runs out.
 
-the project's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the alternative: that all outcomes occur in branching universes and consciousness just "finds itself" in one branch. The [[many-worlds|Against Many-Worlds]] argument page details five arguments against this interpretation: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and that consciousness has no role. If collapse is real and outcomes are genuinely undetermined until selected, something must do the selecting. Consciousness is a candidate.
+the site's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the alternative: that all outcomes occur in branching universes and consciousness just "finds itself" in one branch. The [[many-worlds|Against Many-Worlds]] argument page details five arguments against this interpretation: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and that consciousness has no role. If collapse is real and outcomes are genuinely undetermined until selected, something must do the selecting. Consciousness is a candidate.
 
 ## Orchestrated Objective Reduction (Orch OR)
 
@@ -174,7 +174,7 @@ Four candidate coupling laws emerge: attention-bounded selection (James-Stapp), 
 
 ### Tenet Alignment
 
-Stapp's approach may be the closest match to the project's tenets. It explicitly describes consciousness biasing indeterminate outcomes without violating conservation laws, at the quantum level where physics leaves room.
+Stapp's approach may be the closest match to the site's tenets. It explicitly describes consciousness biasing indeterminate outcomes without violating conservation laws, at the quantum level where physics leaves room.
 
 ### Motor Selection: A Second Domain
 
@@ -338,13 +338,13 @@ Despite differences, quantum consciousness theories agree on several points:
 
 4. **Many Worlds is rejected.** These theories assume collapse is real—outcomes are genuinely selected, not merely branched into. See the [[many-worlds|argument against many-worlds]] for why this matters: MWI eliminates the role for consciousness by having all outcomes occur, making consciousness epiphenomenal with respect to quantum events.
 
-These shared features align with the project's tenets.
+These shared features align with the site's tenets.
 
 ## The Prebiotic Collapse Problem
 
 A serious objection to consciousness-collapse theories: if consciousness is required for collapse, what determined outcomes before conscious observers existed? Stars formed, chemistry proceeded, mutations accumulated—all before the first mind. This [[prebiotic-collapse|prebiotic collapse problem]] threatens to make quantum consciousness theories cosmologically incoherent.
 
-the project resolves this by separating two claims:
+the site resolves this by separating two claims:
 
 1. **Collapse is real.** The universe has a single actual history with definite quantum outcomes, not an eternal superposition of all possibilities. This is the [[tenets#^no-many-worlds|No Many Worlds]] commitment.
 
@@ -364,7 +364,7 @@ The prebiotic problem thus doesn't refute quantum consciousness theories—it re
 
 A related objection: if consciousness causes collapse, whose consciousness counts when multiple observers are involved? If Alice and Bob both measure a quantum system, and Alice's consciousness collapses it to outcome A while Bob's consciousness collapses it to outcome B, what actually happens? This [[multi-mind-collapse-problem|multi-mind collapse problem]] seems to require either nonlocal coordination between minds (violating locality) or some arbitrary priority rule (whose collapse "wins").
 
-the project's resolution follows from the same [[interface-locality]] principle that addresses the brain-boundary question. Consciousness can only modulate collapse within neural systems already integrated into its control loop. Alice's consciousness selects among Alice's neural patterns; Bob's consciousness selects among Bob's. Neither can affect the other's brain or external quantum systems.
+the site's resolution follows from the same [[interface-locality]] principle that addresses the brain-boundary question. Consciousness can only modulate collapse within neural systems already integrated into its control loop. Alice's consciousness selects among Alice's neural patterns; Bob's consciousness selects among Bob's. Neither can affect the other's brain or external quantum systems.
 
 For shared observations, the [[prebiotic-collapse|objective-collapse-plus-modulation]] framework applies:
 
@@ -408,7 +408,7 @@ Daniel Dennett's heterophenomenology offers to study consciousness scientificall
 
 **Phenomenology of effort persists.** Illusionism must explain why selection *seems* effortful. If there's no genuine phenomenology of effort, the correlation between reported effort and neural signatures (frontal theta, ACC activation) becomes mysterious. Why would mere "representations of effort" track actual neural selection processes so precisely? The simpler explanation: effort feels effortful because it is—consciousness genuinely engages in selection, and that engagement has phenomenal character.
 
-**Introspective access.** the project's framework relies on [[introspection|introspective access]] to phenomenal states. While illusionists dispute the reliability of introspection about qualia, the project responds that introspection about *current phenomenal states* differs from introspection about *cognitive processes*. I may be wrong about why I chose A over B, but I cannot be wrong that there is something it is like to deliberate. The distinction between process-access and content-access is crucial here.
+**Introspective access.** the site's framework relies on [[introspection|introspective access]] to phenomenal states. While illusionists dispute the reliability of introspection about qualia, the site responds that introspection about *current phenomenal states* differs from introspection about *cognitive processes*. I may be wrong about why I chose A over B, but I cannot be wrong that there is something it is like to deliberate. The distinction between process-access and content-access is crucial here.
 
 The quantum opening doesn't depend on any particular theory of what consciousness *is*—only on the recognition that selection happens and physics doesn't explain it. Illusionism may complicate the metaphysics but doesn't close the quantum opening.
 
@@ -448,7 +448,7 @@ Whitehead's insight is that experience and selection are not additions to physic
 
 This avoids both emergentism's "where does experience come from?" problem and eliminativism's denial of experience. Experience doesn't emerge from non-experiential matter—it's there from the beginning, at every level. What emerges is the *organization* that enables human-level consciousness to influence quantum events coherently.
 
-Process philosophy thus supports the project's framework metaphysically. If Whitehead is right, the quantum opening isn't a peculiar loophole exploited by consciousness—it's where the experiential aspect of reality that was always there becomes visible to physics.
+Process philosophy thus supports the site's framework metaphysically. If Whitehead is right, the quantum opening isn't a peculiar loophole exploited by consciousness—it's where the experiential aspect of reality that was always there becomes visible to physics.
 
 ## What Would Challenge This View?
 
@@ -456,19 +456,19 @@ The quantum consciousness framework makes commitments that could, in principle, 
 
 1. **Definitive closure of quantum coherence in neural tissue.** If future research conclusively demonstrates that no quantum coherence persists in the brain at any relevant timescale—accounting for all protective mechanisms (nuclear spins, microtubule interiors, metabolic pumping)—the framework loses its physical substrate. Current evidence runs the other way, but the question is empirical.
 
-2. **Success of strong AI without quantum effects.** If classical computers achieve genuine consciousness (not merely behavioral mimicry, but systems we have strong reason to believe are phenomenally conscious), this would suggest consciousness doesn't require quantum selection. the project's [[ai-consciousness|AI consciousness]] page argues this won't happen, but the prediction is testable.
+2. **Success of strong AI without quantum effects.** If classical computers achieve genuine consciousness (not merely behavioral mimicry, but systems we have strong reason to believe are phenomenally conscious), this would suggest consciousness doesn't require quantum selection. the site's [[ai-consciousness|AI consciousness]] page argues this won't happen, but the prediction is testable.
 
 3. **Discovery that decoherence *does* eliminate indeterminacy.** If physicists demonstrated that decoherence produces genuine determinism (not just apparent determinism through loss of interference), the "quantum opening" would close. Current physics says decoherence doesn't select outcomes, but interpretations evolve.
 
 4. **Evidence that attention doesn't track quantum processes.** If the correlation between attention signatures (frontal theta, ACC activation) and reported selection effort were shown to be spurious, or if these signatures operated on timescales incompatible with quantum selection, the Stapp mechanism would be undermined.
 
-5. **Success of illusionist explanations.** If illusionism successfully explained all phenomenological data without residue—including why consciousness *seems* unified, why effort *seems* effortful, and why the illusion itself exists—the motivation for quantum consciousness theories would diminish. the project predicts this won't succeed, but the debate continues.
+5. **Success of illusionist explanations.** If illusionism successfully explained all phenomenological data without residue—including why consciousness *seems* unified, why effort *seems* effortful, and why the illusion itself exists—the motivation for quantum consciousness theories would diminish. the site predicts this won't succeed, but the debate continues.
 
 The framework is committed to these empirical claims. It could be wrong.
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
-the project's tenets don't commit to any specific quantum consciousness mechanism. They hold that:
+the site's tenets don't commit to any specific quantum consciousness mechanism. They hold that:
 
 1. **Dualism**: Consciousness is irreducible to physical processes. Quantum consciousness theories honor this by placing consciousness at a point where physics genuinely runs out—the selection of quantum outcomes.
 
@@ -480,11 +480,11 @@ the project's tenets don't commit to any specific quantum consciousness mechanis
 
 5. **Occam's Razor Has Limits**: The simplicity of "consciousness is just brain activity" doesn't make it true if brain activity can't explain selection. Quantum consciousness theories accept complexity where the phenomenon demands it.
 
-Both Orch OR and Stapp's quantum Zeno approach are compatible with these commitments. the project remains agnostic about which (if either) is correct. What matters is that *some* such mechanism exists—that consciousness has a point of entry into physics at the quantum level.
+Both Orch OR and Stapp's quantum Zeno approach are compatible with these commitments. the site remains agnostic about which (if either) is correct. What matters is that *some* such mechanism exists—that consciousness has a point of entry into physics at the quantum level.
 
 ### Strong Emergence with a Mechanism
 
-the project's position can be understood as strong [[emergence|emergentism]] that specifies its mechanism. Classical emergentists (Broad, Alexander, O'Connor and Wong) affirmed that consciousness has genuinely novel causal powers not reducible to physical constituents—this is [[mental-causation|mental causation]]. But they couldn't explain *how* such powers operate without violating physical law.
+the site's position can be understood as strong [[emergence|emergentism]] that specifies its mechanism. Classical emergentists (Broad, Alexander, O'Connor and Wong) affirmed that consciousness has genuinely novel causal powers not reducible to physical constituents—this is [[mental-causation|mental causation]]. But they couldn't explain *how* such powers operate without violating physical law.
 
 Quantum consciousness theories provide the mechanism. Mental causation operates at quantum indeterminacies, where physics provides necessary but not sufficient causes. This respects the spirit of causal closure (physics explains what physics determines) while denying its letter (physics doesn't determine everything). Consciousness's "novel causal powers" consist in selecting among quantum outcomes—exactly where selection is needed and physics offers none.
 
@@ -500,7 +500,7 @@ The decoherence objection remains the most serious challenge. If quantum coheren
 - [[psychophysical-coupling-law]] — What a coupling law between mind and physics must specify
 - [[interface-locality]] — Why consciousness can only select quantum outcomes in its own brain
 - [[attention-as-interface]] — Formalizes attention as the interface layer for consciousness-matter interaction
-- [[many-worlds]] — Why the project rejects the many-worlds interpretation
+- [[many-worlds]] — Why the site rejects the many-worlds interpretation
 - [[mental-causation]] — Why quantum consciousness theories address the exclusion problem
 - [[causal-closure]] — The principle that quantum indeterminacy allows consciousness to challenge
 - [[emergence]] — How the quantum framework provides strong emergentism with a mechanism
@@ -514,14 +514,14 @@ The decoherence objection remains the most serious challenge. If quantum coheren
 - [[quantum-biology]] — Biological systems exploiting quantum effects (photosynthesis, magnetoreception, enzymes)
 - [[retrocausality]] — Another quantum approach to consciousness-physics interface
 - [[collapse-and-time]] — How consciousness may be constitutive of temporal structure
-- [[prebiotic-collapse]] — How the project resolves the "collapse before minds" problem
+- [[prebiotic-collapse]] — How the site resolves the "collapse before minds" problem
 - [[multi-mind-collapse-problem]] — How multiple observers are reconciled under interface locality
 - [[locality]] — Addresses spatial objections to quantum consciousness
 - [[illusionism]] — The challenge that consciousness might be illusory
 - [[introspection]] — First-person access to phenomenal states
 - [[haecceity]] — Why indexical identity matters for No Many Worlds
 - [[witness-consciousness]] — The phenomenology of non-engaged awareness
-- [[tenets]] — the project's foundational commitments
+- [[tenets]] — the site's foundational commitments
 - [[quantum-consciousness-mechanisms-2026-01-08]] — Detailed research notes
 - [[quantum-superposition-brain-consciousness-2026-01-18]] — 2024-2025 experimental findings research notes
 

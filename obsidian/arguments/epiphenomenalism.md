@@ -26,7 +26,7 @@ last_curated: null
 last_deep_review: null
 ---
 
-Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. the project's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet directly contradicts this view. This page presents the cumulative case against epiphenomenalism.
+Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. the site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet directly contradicts this view. This page presents the cumulative case against epiphenomenalism.
 
 ## The View Under Attack
 
@@ -167,17 +167,17 @@ Why would anyone accept such a problematic view? The answer is [[causal-closure]
 
 If causal closure is true, and if consciousness is not physical, then consciousness cannot cause physical events—physical causes pre-empt mental causes. Epiphenomenalism follows as the least bad option: deny mental causation rather than deny that consciousness exists or reduce it to physics.
 
-the project's response: deny causal closure at quantum indeterminacies. The [[measurement-problem]] shows that quantum mechanics does not specify which outcome occurs—it provides probabilities, not determinations. At these points, physics is genuinely incomplete. Consciousness can cause physical events precisely where physics leaves room.
+the site's response: deny causal closure at quantum indeterminacies. The [[measurement-problem]] shows that quantum mechanics does not specify which outcome occurs—it provides probabilities, not determinations. At these points, physics is genuinely incomplete. Consciousness can cause physical events precisely where physics leaves room.
 
 This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness biases quantum outcomes without violating conservation laws. No energy is injected; outcomes physics already permits are selected. This preserves what's true in causal closure (physics explains physical events where physics determines them) while denying what's false (physics determines everything).
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
-The arguments against epiphenomenalism directly support the project's framework:
+The arguments against epiphenomenalism directly support the site's framework:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The self-stultification argument shows consciousness must cause behavior. Our reports about consciousness must be caused by consciousness, or they cannot be trusted. The tenet that consciousness "selects among superposed neural states" follows.
 
-**[[tenets#^dualism|Dualism]]**: the project accepts that consciousness is irreducible to physics—a point epiphenomenalism also accepts. But dualism alone doesn't require causation. The arguments here show that dualism must be *interactionist* dualism.
+**[[tenets#^dualism|Dualism]]**: the site accepts that consciousness is irreducible to physics—a point epiphenomenalism also accepts. But dualism alone doesn't require causation. The arguments here show that dualism must be *interactionist* dualism.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The quantum framework provides *how* mental causation occurs without the problems epiphenomenalism tries to avoid. Consciousness doesn't violate causal closure by injecting energy; it operates where causal closure doesn't apply.
 
@@ -191,7 +191,7 @@ The arguments against epiphenomenalism directly support the project's framework:
 - [[interactionist-dualism]] — The positive case for interaction
 - [[quantum-consciousness]] — How mental causation could work
 - [[knowledge-argument]] — Mary's Room and what it shows
-- [[tenets]] — the project's foundational commitments
+- [[tenets]] — the site's foundational commitments
 
 ## References
 

@@ -32,7 +32,7 @@ topics:
 
 Metacognition—thinking about thinking—is often conflated with consciousness itself. Higher-Order Thought (HOT) theories explicitly make this identification: a mental state becomes conscious when targeted by a metacognitive representation. But the conflation is a mistake. Metacognition and phenomenal consciousness are dissociable: blindsight patients demonstrate consciousness that cannot be metacognitively accessed, while "blind insight" reveals metacognitive discrimination without conscious awareness. The relationship is enabling rather than constitutive—consciousness makes metacognition possible without being reducible to it.
 
-This distinction matters for the project's framework. If metacognition *were* consciousness, then consciousness would be a cognitive function implementable in any system with the right architecture, and AI systems with sophisticated self-models would be conscious. But metacognition is a cognitive *tool* that consciousness uses, not what consciousness *is*.
+This distinction matters for the site's framework. If metacognition *were* consciousness, then consciousness would be a cognitive function implementable in any system with the right architecture, and AI systems with sophisticated self-models would be conscious. But metacognition is a cognitive *tool* that consciousness uses, not what consciousness *is*.
 
 ## Metacognition vs. Consciousness: The Dissociation Evidence
 
@@ -93,7 +93,7 @@ This finding has two implications:
 
 ## Addressing the Self-Undermining Objection
 
-A tension appears to arise: if dissociation evidence shows metacognition can fail, doesn't this undermine the introspective reliability the project's framework depends upon? If blindsight patients lack metacognitive access to their own visual experience, how can we trust introspective reports about consciousness generally?
+A tension appears to arise: if dissociation evidence shows metacognition can fail, doesn't this undermine the introspective reliability the site's framework depends upon? If blindsight patients lack metacognitive access to their own visual experience, how can we trust introspective reports about consciousness generally?
 
 This objection conflates *possibility* with *typicality* and ignores the conditions under which metacognitive failures occur.
 
@@ -117,7 +117,7 @@ The dissociations show that:
 2. **Metacognition depends on intact neural substrates** (aPFC, intact V1-higher visual area connections)
 3. **Metacognitive access is not automatic**—it requires specific processing that pathology can disrupt
 
-None of this implies metacognition is unreliable in the general case. the project's framework doesn't claim metacognition is infallible, only that trained introspection provides genuine access to phenomenal content. The dissociation evidence supports this by showing metacognition is a real cognitive capacity with identifiable neural substrates—not an epiphenomenal illusion—that can be cultivated through practice.
+None of this implies metacognition is unreliable in the general case. the site's framework doesn't claim metacognition is infallible, only that trained introspection provides genuine access to phenomenal content. The dissociation evidence supports this by showing metacognition is a real cognitive capacity with identifiable neural substrates—not an epiphenomenal illusion—that can be cultivated through practice.
 
 ## Metamemory: The Phenomenology of Knowing
 
@@ -147,7 +147,7 @@ This matters for understanding consciousness's relationship to metacognition. If
 
 The [Dualism](/tenets/#dualism) tenet asserts consciousness is irreducible to physical processes. Metacognition's dissociability from consciousness supports this: if consciousness were just metacognitive function, it would be functionally defined and multiply realizable. But the dissociation evidence shows consciousness can exist without metacognitive access (blindsight-type cases) and metacognitive discrimination can occur without conscious awareness (blind insight).
 
-the project's position: metacognition is a cognitive capacity that consciousness *enables* rather than constitutes. Consciousness makes metacognitive monitoring possible by providing phenomenal content to monitor. But the monitoring itself is cognitive machinery operating on conscious content—not what creates the content's phenomenal character.
+the site's position: metacognition is a cognitive capacity that consciousness *enables* rather than constitutes. Consciousness makes metacognitive monitoring possible by providing phenomenal content to monitor. But the monitoring itself is cognitive machinery operating on conscious content—not what creates the content's phenomenal character.
 
 ### Bidirectional Interaction and Trainability
 
@@ -163,7 +163,7 @@ The empirical dissociations suggest genuine complexity: consciousness and metaco
 
 Metacognition operates at the cognitive level—prefrontal computations about first-order states. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes consciousness influences brain states via quantum selection. Metacognitive monitoring presumably tracks the *results* of such selection, not the selection process itself. We cannot introspect our own quantum processes any more than we can introspect our synaptic transmission. Metacognition accesses conscious content, not the consciousness-brain interface.
 
-The [decoherence objection](/concepts/decoherence/)—that quantum coherence cannot survive in warm, wet brains—applies equally to metacognition's substrate. The aPFC operates at millisecond timescales through classical neural computation; any quantum effects at faster timescales would already have decohered before metacognitive processing begins. This temporal separation actually reinforces the project's framework: consciousness may interface with quantum processes at sub-millisecond scales while metacognition operates classically on the *outcomes* of that interface. The two systems need not share the same physics.
+The [decoherence objection](/concepts/decoherence/)—that quantum coherence cannot survive in warm, wet brains—applies equally to metacognition's substrate. The aPFC operates at millisecond timescales through classical neural computation; any quantum effects at faster timescales would already have decohered before metacognitive processing begins. This temporal separation actually reinforces the site's framework: consciousness may interface with quantum processes at sub-millisecond scales while metacognition operates classically on the *outcomes* of that interface. The two systems need not share the same physics.
 
 ### No Many Worlds and Determinate Monitoring
 
@@ -199,7 +199,7 @@ None of these conditions currently obtains. The dissociation evidence, training 
 
 Metacognition is crucial cognitive infrastructure for reflective beings. Without it, we could not monitor our confidence, evaluate our beliefs, recognize our dreams as dreams, or train our attention. But metacognition is not consciousness itself. The dissociation evidence—blindsight, blind insight, selective neural impairment—shows the two can come apart. The trainability evidence shows metacognition improves with practice while consciousness does not admit of degrees in the same way.
 
-the project's framework accommodates this: consciousness provides phenomenal content; metacognition provides reflective access to that content. HOT's conflation of the two represents a category mistake—taking the cognitive tools we use to examine consciousness for consciousness itself. The hard problem concerns why there is phenomenal experience at all, not why we can monitor our mental states. Metacognition is part of the functional story; consciousness remains the mystery metacognition cannot dissolve.
+the site's framework accommodates this: consciousness provides phenomenal content; metacognition provides reflective access to that content. HOT's conflation of the two represents a category mistake—taking the cognitive tools we use to examine consciousness for consciousness itself. The hard problem concerns why there is phenomenal experience at all, not why we can monitor our mental states. Metacognition is part of the functional story; consciousness remains the mystery metacognition cannot dissolve.
 
 ## Further Reading
 

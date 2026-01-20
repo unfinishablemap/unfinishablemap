@@ -23,7 +23,7 @@ last_curated: null
 
 ## Quantum Biology Overview
 
-Quantum biology investigates non-trivial quantum effects in biological systems. While classical physics governs most biological processes, several phenomena appear to require quantum mechanical explanations. This research explores the major examples and their implications for the project's framework.
+Quantum biology investigates non-trivial quantum effects in biological systems. While classical physics governs most biological processes, several phenomena appear to require quantum mechanical explanations. This research explores the major examples and their implications for the site's framework.
 
 ## Established Quantum Biological Effects
 
@@ -150,7 +150,7 @@ Frontiers in Human Neuroscience (2025) reported new insights into macroscopic qu
   - Olfaction
   - Brain microtubules
 
-## Implications for the project's Framework
+## Implications for the site's Framework
 
 ### Strengthening the Minimal Quantum Interaction Tenet
 
@@ -158,7 +158,7 @@ Frontiers in Human Neuroscience (2025) reported new insights into macroscopic qu
 
 2. **Enzyme tunneling analogy**: If enzymes routinely use quantum tunneling to accelerate reactions by factors of 10¹⁷, the claim that quantum effects cannot influence neural processing is weakened.
 
-3. **Decoherence is not the end**: Even when coherence is short-lived (as in photosynthesis), quantum effects can still be functional. the project's framework requires only that consciousness bias outcomes at measurement—not that it maintain long-lived superpositions.
+3. **Decoherence is not the end**: Even when coherence is short-lived (as in photosynthesis), quantum effects can still be functional. the site's framework requires only that consciousness bias outcomes at measurement—not that it maintain long-lived superpositions.
 
 ### The Measurement Problem Remains Open
 

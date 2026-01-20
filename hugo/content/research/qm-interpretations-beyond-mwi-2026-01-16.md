@@ -26,7 +26,7 @@ topics:
 
 ## Executive Summary
 
-the project explicitly rejects [Many-Worlds Interpretation](/arguments/many-worlds/) (MWI) but should engage more thoroughly with alternative QM interpretations. This research surveys Bohmian mechanics, QBism, relational QM, transactional/TSVF interpretations, and objective collapse theories (GRW/CSL)—clarifying which leave room for consciousness-as-selector, which treat collapse as physical law, and which treat it as epistemic.
+the site explicitly rejects [Many-Worlds Interpretation](/arguments/many-worlds/) (MWI) but should engage more thoroughly with alternative QM interpretations. This research surveys Bohmian mechanics, QBism, relational QM, transactional/TSVF interpretations, and objective collapse theories (GRW/CSL)—clarifying which leave room for consciousness-as-selector, which treat collapse as physical law, and which treat it as epistemic.
 
 A 2025 Nature survey found that only 36% of physicists favor Copenhagen, with no interpretation commanding majority support. The interpretive landscape remains genuinely open.
 
@@ -41,7 +41,7 @@ A 2025 Nature survey found that only 36% of physicists favor Copenhagen, with no
 
 **Relation to consciousness:** The original Copenhagen view avoided the question by requiring classical apparatus. Von Neumann and Wigner later suggested consciousness might be the collapse trigger, but this isn't standard Copenhagen.
 
-**Site compatibility:** Moderate. Copenhagen leaves the measurement problem unsolved, creating logical space for consciousness. But Copenhagen's instrumentalism conflicts with the project's realist commitments.
+**Site compatibility:** Moderate. Copenhagen leaves the measurement problem unsolved, creating logical space for consciousness. But Copenhagen's instrumentalism conflicts with the site's realist commitments.
 
 ### 2. Bohmian Mechanics (Pilot-Wave Theory)
 
@@ -58,7 +58,7 @@ A 2025 Nature survey found that only 36% of physicists favor Copenhagen, with no
 
 **Relation to consciousness:** **Minimal to none.** Bohmian mechanics is explicitly designed to eliminate the observer from physics. There is no collapse for consciousness to participate in. The measurement problem dissolves because particles always have positions; we just don't know them.
 
-**Site compatibility:** **Low.** If Bohmian mechanics is correct, the project's Minimal Quantum Interaction tenet has no work to do. Consciousness cannot select outcomes because outcomes are determined by the pilot wave. Free will would require a different mechanism.
+**Site compatibility:** **Low.** If Bohmian mechanics is correct, the site's Minimal Quantum Interaction tenet has no work to do. Consciousness cannot select outcomes because outcomes are determined by the pilot wave. Free will would require a different mechanism.
 
 **Potential reconciliation:** Some have suggested consciousness might influence initial conditions or the pilot wave itself, but this goes beyond standard Bohmian mechanics.
 
@@ -78,8 +78,8 @@ A 2025 Nature survey found that only 36% of physicists favor Copenhagen, with no
 **Relation to consciousness:** **Paradoxical.** On one hand, QBism makes agents central—only agents have quantum states (beliefs). On the other hand, QBism denies quantum states are real, so there's nothing for consciousness to collapse. The agent's experience of measurement is epistemically fundamental but ontologically not explained.
 
 **Site compatibility:** **Mixed.**
-- *Against:* QBism's anti-realism conflicts with the project's commitment to real conscious states
-- *For:* QBism's agent-centrality echoes the project's phenomenological emphasis
+- *Against:* QBism's anti-realism conflicts with the site's commitment to real conscious states
+- *For:* QBism's agent-centrality echoes the site's phenomenological emphasis
 - QBism sidesteps consciousness questions rather than answering them
 
 ### 4. Relational Quantum Mechanics (RQM)
@@ -95,9 +95,9 @@ A 2025 Nature survey found that only 36% of physicists favor Copenhagen, with no
 - Takes quantum theory's relationality as fundamental rather than problematic
 - Related to QBism but more realist about the relations themselves
 
-**Relation to consciousness:** **Unclear.** RQM makes all physical facts relational but doesn't specify what counts as an "observer." If any physical system can be an observer, consciousness is not privileged. If consciousness is required, RQM supports something like the project's view.
+**Relation to consciousness:** **Unclear.** RQM makes all physical facts relational but doesn't specify what counts as an "observer." If any physical system can be an observer, consciousness is not privileged. If consciousness is required, RQM supports something like the site's view.
 
-**Site compatibility:** **Moderate.** RQM's emphasis on relations over absolutes could align with the project's rejection of view-from-nowhere physicalism. But RQM's typical interpretation doesn't require consciousness specifically.
+**Site compatibility:** **Moderate.** RQM's emphasis on relations over absolutes could align with the site's rejection of view-from-nowhere physicalism. But RQM's typical interpretation doesn't require consciousness specifically.
 
 ### 5. Transactional Interpretation (TI) and Two-State Vector Formalism (TSVF)
 
@@ -115,12 +115,12 @@ A 2025 Nature survey found that only 36% of physicists favor Copenhagen, with no
 
 **Key differences:** TI provides a physical mechanism (transaction handshake) while TSVF is more formal. TI eliminates observer-dependence; TSVF is compatible with various ontologies.
 
-**Relation to consciousness:** **Significant for the project.**
-- Retrocausality is already central to the project's treatment of free will and the Libet problem
+**Relation to consciousness:** **Significant for the site.**
+- Retrocausality is already central to the site's treatment of free will and the Libet problem
 - Time-symmetric interpretations allow consciousness to select "which transaction completes" atemporally
 - Consciousness need not cause collapse *at* a moment—it participates in determining which correlations hold across time
 
-**Site compatibility:** **High.** Time-symmetric interpretations align with the project's use of retrocausality to resolve the Libet problem. The [collapse-and-time](/concepts/collapse-and-time/) page already draws on this framework. TI/TSVF provide the physics for "atemporal selection."
+**Site compatibility:** **High.** Time-symmetric interpretations align with the site's use of retrocausality to resolve the Libet problem. The [collapse-and-time](/concepts/collapse-and-time/) page already draws on this framework. TI/TSVF provide the physics for "atemporal selection."
 
 ### 6. Objective Collapse Theories (GRW, CSL, Penrose)
 
@@ -147,7 +147,7 @@ A 2025 Nature survey found that only 36% of physicists favor Copenhagen, with no
 **Site compatibility:** **Moderate to High.**
 - Standard GRW/CSL don't require consciousness, but they're compatible with consciousness having a role
 - Consciousness-integrated CSL variants align closely with Minimal Quantum Interaction
-- Penrose's view—collapse produces rather than is caused by consciousness—differs from the project's Bidirectional Interaction but could be integrated
+- Penrose's view—collapse produces rather than is caused by consciousness—differs from the site's Bidirectional Interaction but could be integrated
 
 ### Summary Table: Interpretations and Consciousness
 
@@ -161,13 +161,13 @@ A 2025 Nature survey found that only 36% of physicists favor Copenhagen, with no
 | GRW/CSL | Physical process | None (standard) / Modulation (variants) | Moderate-High |
 | Penrose OR | Gravitational | Constituted by collapse | Moderate |
 
-## Recommendations for the project
+## Recommendations for the site
 
 ### Explicitly Position Against Bohmian Mechanics
 
-Bohmian mechanics is the main deterministic alternative to collapse interpretations. the project should acknowledge it and explain why it's not preferred:
+Bohmian mechanics is the main deterministic alternative to collapse interpretations. the site should acknowledge it and explain why it's not preferred:
 
-1. **Determinism conflicts with free will phenomenology.** the project takes the phenomenology of effort and choice seriously. Bohmian determinism makes this illusory.
+1. **Determinism conflicts with free will phenomenology.** the site takes the phenomenology of effort and choice seriously. Bohmian determinism makes this illusory.
 
 2. **Non-locality problems.** Bohmian mechanics requires faster-than-light influences, creating tension with relativity that collapse interpretations avoid.
 
@@ -175,7 +175,7 @@ Bohmian mechanics is the main deterministic alternative to collapse interpretati
 
 ### Develop the TI/TSVF Connection
 
-the project already uses retrocausality for free will but hasn't explicitly connected to TI/TSVF foundations:
+the site already uses retrocausality for free will but hasn't explicitly connected to TI/TSVF foundations:
 
 1. Add a concept page on transactional interpretation
 2. Clarify how "atemporal selection" relates to physical transactions
@@ -183,25 +183,25 @@ the project already uses retrocausality for free will but hasn't explicitly conn
 
 ### Engage QBism's Challenge
 
-QBism is influential and agent-centered. the project should:
+QBism is influential and agent-centered. the site should:
 
 1. Acknowledge QBism's phenomenological orientation as partially aligned
 2. Critique QBism's anti-realism about quantum states
-3. Show how the project's realism preserves what's valuable in agent-centrality
+3. Show how the site's realism preserves what's valuable in agent-centrality
 
 ### Clarify the GRW/CSL Relationship
 
-Objective collapse theories provide an alternative "consciousness doesn't cause collapse" story. the project should:
+Objective collapse theories provide an alternative "consciousness doesn't cause collapse" story. the site should:
 
 1. Acknowledge that collapse could be physical (GRW/CSL/Penrose)
 2. Explain why consciousness-integrated variants are preferred—they explain *why* collapse produces experience, not just that it does
-3. Note that the project's position is compatible with either "consciousness causes collapse" or "consciousness modulates collapse"
+3. Note that the site's position is compatible with either "consciousness causes collapse" or "consciousness modulates collapse"
 
 ## Key Insight
 
-The interpretive landscape remains genuinely open. The 2025 Nature survey found only 24% of physicists were confident their preferred interpretation was correct. the project's position—consciousness participates in collapse—is not ruled out by physics. The question is which interpretation best explains both quantum phenomena and the existence of consciousness.
+The interpretive landscape remains genuinely open. The 2025 Nature survey found only 24% of physicists were confident their preferred interpretation was correct. the site's position—consciousness participates in collapse—is not ruled out by physics. The question is which interpretation best explains both quantum phenomena and the existence of consciousness.
 
-the project's advantage: it takes consciousness seriously as explanatory target, not just as philosophical add-on. Interpretations that eliminate consciousness (Bohmian) or treat it as purely epistemic (QBism) don't explain why consciousness exists at all. the project's framework does.
+the site's advantage: it takes consciousness seriously as explanatory target, not just as philosophical add-on. Interpretations that eliminate consciousness (Bohmian) or treat it as purely epistemic (QBism) don't explain why consciousness exists at all. the site's framework does.
 
 ## Sources
 

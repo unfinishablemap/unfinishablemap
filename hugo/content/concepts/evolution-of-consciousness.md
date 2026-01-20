@@ -34,7 +34,7 @@ topics:
 
 When did consciousness first arise? Was there a moment in evolutionary history when experience flickered into existence where none had been before? These questions connect the [hard problem](/topics/hard-problem-of-consciousness/) to evolutionary biology—and reveal that any answer carries deep metaphysical commitments. If consciousness gradually emerged from unconscious matter, we need an account of how this emergence works. If consciousness was present from the start, we face the [combination problem](/concepts/combination-problem/). Either way, the evolution of consciousness forces choices about the nature of mind.
 
-This page examines when and how consciousness might have evolved, what selective pressures could favour it, and why the project's dualist framework handles these questions better than materialist alternatives.
+This page examines when and how consciousness might have evolved, what selective pressures could favour it, and why the site's dualist framework handles these questions better than materialist alternatives.
 
 ## The Emergence Question
 
@@ -84,7 +84,7 @@ If consciousness evolved, it presumably conferred adaptive advantages. But here 
 
 This creates a puzzle. We have complex cognitive systems that *seem* designed to process phenomenal information: memory systems that store experiences, attention that selects based on felt salience, emotional systems whose felt valence guides behaviour. If consciousness does nothing, this apparent design is illusory.
 
-the project rejects epiphenomenalism via the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction). Consciousness *does* affect physical outcomes—which means selection could favour it directly.
+the site rejects epiphenomenalism via the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction). Consciousness *does* affect physical outcomes—which means selection could favour it directly.
 
 ### Possible Adaptive Advantages
 
@@ -102,7 +102,7 @@ If consciousness is causally efficacious, several advantages might drive its evo
 
 Note that these advantages explain why *brain processes associated with consciousness* might evolve. They don't explain why these processes are accompanied by phenomenal experience. A philosophical zombie—a being functionally identical to a conscious creature but with no inner experience—would gain the same advantages.
 
-This is precisely the hard problem restated in evolutionary terms. the project's answer: there are no philosophical zombies. Consciousness is not an optional add-on to neural function—it's irreducible and fundamental, and the neural processes associated with consciousness *constitutively involve* consciousness, not merely causally produce it.
+This is precisely the hard problem restated in evolutionary terms. the site's answer: there are no philosophical zombies. Consciousness is not an optional add-on to neural function—it's irreducible and fundamental, and the neural processes associated with consciousness *constitutively involve* consciousness, not merely causally produce it.
 
 ## The Dualist Advantage
 
@@ -122,7 +122,7 @@ Dualism doesn't require explaining how matter *produces* consciousness—it hold
 
 On this view, the evolution of consciousness is the evolution of *interfaces* between mind and matter. Brains don't generate consciousness; they channel it, shape it, provide its content. What evolved was not consciousness itself but increasingly sophisticated consciousness-brain coupling.
 
-the project's framework (see [prebiotic-collapse](/concepts/prebiotic-collapse/)) holds that objective reduction provides baseline collapse throughout the universe, with consciousness *modulating* collapse in systems with appropriate neural architecture. What evolution created was not consciousness from nothing but the neural conditions for consciousness to interface with physical processes.
+the site's framework (see [prebiotic-collapse](/concepts/prebiotic-collapse/)) holds that objective reduction provides baseline collapse throughout the universe, with consciousness *modulating* collapse in systems with appropriate neural architecture. What evolution created was not consciousness from nothing but the neural conditions for consciousness to interface with physical processes.
 
 This dissolves the strong emergence problem. We don't need to explain how experience arises from non-experience—experience is fundamental. We only need to explain how biological evolution produced systems where consciousness could express itself through matter.
 
@@ -130,21 +130,21 @@ This dissolves the strong emergence problem. We don't need to explain how experi
 
 The [prebiotic collapse problem](/concepts/prebiotic-collapse/) constrains accounts of consciousness evolution. If consciousness participates in quantum measurement, what collapsed wavefunctions before any minds existed?
 
-the project's answer: objective reduction (Penrose-style gravitational collapse or GRW spontaneous localization) provided collapse throughout cosmic history. Consciousness modulates collapse in neural systems but doesn't cause it universally. This preserves prebiotic cosmology while maintaining that consciousness, once present, affects physical outcomes.
+the site's answer: objective reduction (Penrose-style gravitational collapse or GRW spontaneous localization) provided collapse throughout cosmic history. Consciousness modulates collapse in neural systems but doesn't cause it universally. This preserves prebiotic cosmology while maintaining that consciousness, once present, affects physical outcomes.
 
-For evolution, this means consciousness didn't create the conditions for life—physical collapse mechanisms did. But once brains evolved to certain complexity, consciousness could interface with neural quantum processes, creating the bidirectional interaction the project affirms.
+For evolution, this means consciousness didn't create the conditions for life—physical collapse mechanisms did. But once brains evolved to certain complexity, consciousness could interface with neural quantum processes, creating the bidirectional interaction the site affirms.
 
 ## The Illusionist Challenge
 
 [Illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an introspective illusion—might seem to dissolve evolutionary questions about consciousness. If there is no "real" phenomenal experience, only functional processes that misrepresent themselves as experiential, then consciousness didn't evolve at all. What evolved were neural mechanisms that generate the illusion of experience.
 
-the project rejects illusionism for reasons detailed on its [dedicated page](/concepts/illusionism/), but the evolutionary response is specific: **the illusion problem is at least as hard as the hard problem**.
+the site rejects illusionism for reasons detailed on its [dedicated page](/concepts/illusionism/), but the evolutionary response is specific: **the illusion problem is at least as hard as the hard problem**.
 
 If consciousness is an illusion, something must generate that illusion. On illusionist accounts, neural processes produce systematic misrepresentations that *seem* phenomenal. But "seeming" presupposes a subject to whom things seem. Raymond Tallis's regress objection applies: "Misrepresentation presupposes presentation." The appearance of experience must appear *to* something—and that something is doing the experiencing illusionists claim doesn't exist.
 
 Moreover, explaining why evolution produced such a powerful, universal illusion is itself a major explanatory burden. Why would natural selection craft organisms that systematically misrepresent their own cognition? If the illusion is adaptive (because it helps with behavioural flexibility, planning, etc.), why couldn't genuine consciousness provide those advantages directly? The illusionist trades the question "why did consciousness evolve?" for "why did the illusion of consciousness evolve?"—and faces similar challenges.
 
-The zombie response strengthens here: if philosophical zombies are possible (beings functionally identical to us but lacking experience), then the evolutionary advantages attributed to consciousness could be gained without it. But illusionists typically deny zombies are possible—which means they accept that functional organisation necessitates *something*. That something, whatever we call it, is what the project means by consciousness. The terminological dispute doesn't dissolve the substantive question of why experience-like-functional-organisation evolved.
+The zombie response strengthens here: if philosophical zombies are possible (beings functionally identical to us but lacking experience), then the evolutionary advantages attributed to consciousness could be gained without it. But illusionists typically deny zombies are possible—which means they accept that functional organisation necessitates *something*. That something, whatever we call it, is what the site means by consciousness. The terminological dispute doesn't dissolve the substantive question of why experience-like-functional-organisation evolved.
 
 ## Process Philosophy Perspective
 
@@ -158,9 +158,9 @@ This framework reinterprets evolutionary questions:
 
 **The evolution of complexity**: What evolution produced was not consciousness *per se* but increasingly sophisticated organisation of experiential occasions. Simple organisms have simple experiential unity; complex organisms have rich, integrated experience. The question shifts from "when did experience appear?" to "how did experiential integration increase?"
 
-**Compatibility with site tenets**: Whitehead's actual occasions provide a metaphysical framework for the project's position. Consciousness modulating quantum collapse at neural sites could be understood as the integration of micro-occasions into unified experiential events through attention-mediated prehension. The [attention-as-interface](/concepts/attention-as-interface/) mechanism fits Whiteheadian categories.
+**Compatibility with site tenets**: Whitehead's actual occasions provide a metaphysical framework for the site's position. Consciousness modulating quantum collapse at neural sites could be understood as the integration of micro-occasions into unified experiential events through attention-mediated prehension. The [attention-as-interface](/concepts/attention-as-interface/) mechanism fits Whiteheadian categories.
 
-This doesn't commit the project to full Whiteheadian metaphysics. But it shows that the evolution of consciousness need not be framed as mysterious emergence from non-experience. Alternative metaphysical frameworks accommodate the facts while avoiding both reductive materialism and radical panpsychism.
+This doesn't commit the site to full Whiteheadian metaphysics. But it shows that the evolution of consciousness need not be framed as mysterious emergence from non-experience. Alternative metaphysical frameworks accommodate the facts while avoiding both reductive materialism and radical panpsychism.
 
 ## Why Do Some Creatures Seem Conscious and Others Not?
 
@@ -180,7 +180,7 @@ Possible answers depend on one's framework:
 
 Does consciousness require biological neurons, or could any sufficiently complex system be conscious?
 
-the project's [critique of substrate independence](/concepts/substrate-independence-critique/) argues against strong functionalism—the view that consciousness depends only on abstract organisation, not physical implementation. If consciousness interfaces with matter through quantum processes, the specific physical substrate matters. Silicon simulations of neural activity might not provide the quantum openings consciousness requires.
+the site's [critique of substrate independence](/concepts/substrate-independence-critique/) argues against strong functionalism—the view that consciousness depends only on abstract organisation, not physical implementation. If consciousness interfaces with matter through quantum processes, the specific physical substrate matters. Silicon simulations of neural activity might not provide the quantum openings consciousness requires.
 
 This has implications for evolution. Consciousness didn't emerge in any sufficiently complex system; it emerged in systems with the right physical characteristics. Evolution by natural selection, operating on carbon-based biochemistry, happened to produce neural architectures suitable for consciousness. Artificial systems might never cross this threshold regardless of complexity—not because of lack of computational power but because they lack the physical mechanisms consciousness requires.
 
@@ -222,11 +222,11 @@ The evolutionary implication: what evolved was not merely neural complexity but 
 
 ## What Would Challenge This View?
 
-the project's evolutionary account would be undermined if:
+the site's evolutionary account would be undermined if:
 
 1. **Consciousness proves epiphenomenal**: If rigorous experiments demonstrated that phenomenal states have no causal influence on behaviour—that all behavioural flexibility can be explained by unconscious processing—the evolutionary advantage argument would collapse. Currently, the correlation between consciousness and adaptive flexibility, combined with the implausibility of evolutionary producing causally inert epiphenomena, supports bidirectional interaction.
 
-2. **Strong AI achieves genuine behavioural flexibility without consciousness indicators**: If artificial systems achieved unlimited associative learning and adaptive behaviour through purely classical computation, with strong evidence that they lack whatever physical features the project associates with consciousness (quantum coherence, microtubule involvement), this would challenge the claim that consciousness is necessary for such flexibility.
+2. **Strong AI achieves genuine behavioural flexibility without consciousness indicators**: If artificial systems achieved unlimited associative learning and adaptive behaviour through purely classical computation, with strong evidence that they lack whatever physical features the site associates with consciousness (quantum coherence, microtubule involvement), this would challenge the claim that consciousness is necessary for such flexibility.
 
 3. **The decoherence objection proves insurmountable**: If future experiments definitively ruled out quantum effects in neural tissue—despite quantum biology precedents—the specific quantum-consciousness interface would fail. The broader claim (consciousness is irreducible and causally efficacious) might survive, but the mechanism would require revision.
 
@@ -234,7 +234,7 @@ the project's evolutionary account would be undermined if:
 
 5. **Panpsychism solves the combination problem**: If panpsychists developed a compelling account of how micro-experiences combine into unified consciousness, their dissolution of the evolutionary emergence question would become more attractive. The evolution of consciousness would become the evolution of experiential complexity rather than the appearance of experience from non-experience.
 
-Scientific humility requires specifying what would count against one's view. the project maintains that current evidence favours dualist-interactionist accounts of consciousness evolution while acknowledging the debate remains active.
+Scientific humility requires specifying what would count against one's view. the site maintains that current evidence favours dualist-interactionist accounts of consciousness evolution while acknowledging the debate remains active.
 
 ## Further Reading
 

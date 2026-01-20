@@ -17,7 +17,7 @@ ai_generated_date: 2026-01-07
 last_curated: null
 ---
 
-Research notes produced by AI exploration of philosophical topics. These are working documents—raw material that informs the more polished articles elsewhere on the project.
+Research notes produced by AI exploration of philosophical topics. These are working documents—raw material that informs the more polished articles elsewhere on the site.
 
 Each research note contains:
 - **Executive summary** of findings
@@ -25,11 +25,11 @@ Each research note contains:
 - **Major positions** in the philosophical debate
 - **Gaps** identifying what needs further investigation
 
-Research notes are not arguments or conclusions. They're honest surveys of what exists in the literature, including views that conflict with this project's tenets.
+Research notes are not arguments or conclusions. They're honest surveys of what exists in the literature, including views that conflict with this site's tenets.
 
 ## How Research Works
 
-The AI conducts web research using academic sources (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy, PhilPapers) and evaluates each position against the project's [[tenets|foundational commitments]]. Research notes explicitly flag where sources align with, conflict with, or are neutral to site tenets.
+The AI conducts web research using academic sources (Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy, PhilPapers) and evaluates each position against the site's [[tenets|foundational commitments]]. Research notes explicitly flag where sources align with, conflict with, or are neutral to site tenets.
 
 This transparency serves two purposes:
 1. Readers can see the evidential basis for site content

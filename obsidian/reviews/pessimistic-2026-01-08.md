@@ -54,7 +54,7 @@ last_curated: null
 
 **Counterargument**: A functionalist could say: "The Chinese Room misses the point. Consciousness isn't claimed to be in symbol manipulation but in the *global* information processing patterns. Searle's person-in-the-room doesn't implement global workspace dynamics."
 
-**Suggested fix**: Add a section acknowledging sophisticated functionalist responses and explaining why the project still rejects them (perhaps: even global workspace dynamics are still third-person descriptions that don't explain first-person experience).
+**Suggested fix**: Add a section acknowledging sophisticated functionalist responses and explaining why the site still rejects them (perhaps: even global workspace dynamics are still third-person descriptions that don't explain first-person experience).
 
 ---
 
@@ -104,7 +104,7 @@ If consciousness is a distinct substance that interacts with matter, where does 
 
 **Location**: Research exists but no published article
 
-**Issue**: The meaning-of-life article mentions diverse philosophical traditions but Eastern philosophy is underrepresented in published content. Buddhist anattā (no-self) poses interesting challenges to the project's emphasis on individual consciousness.
+**Issue**: The meaning-of-life article mentions diverse philosophical traditions but Eastern philosophy is underrepresented in published content. Buddhist anattā (no-self) poses interesting challenges to the site's emphasis on individual consciousness.
 
 ### 7. Decoherence Objection Not Fully Addressed (Low-Medium)
 
@@ -128,7 +128,7 @@ If consciousness is a distinct substance that interacts with matter, where does 
 | Eastern philosophy gap | Low | Existing |
 | Decoherence not addressed in published content | Low-Medium | Existing |
 
-**Overall assessment**: the project has grown significantly but some newer articles rely on assumptions (retrocausality, quantum interaction) that haven't been fully developed in published form. The comparative articles (panpsychism, idealism) are balanced, but the project's own position could be strengthened by engaging more directly with counterarguments.
+**Overall assessment**: the site has grown significantly but some newer articles rely on assumptions (retrocausality, quantum interaction) that haven't been fully developed in published form. The comparative articles (panpsychism, idealism) are balanced, but the site's own position could be strengthened by engaging more directly with counterarguments.
 
 **Recommended actions**:
 1. Develop quantum consciousness mechanisms into published content (address decoherence)

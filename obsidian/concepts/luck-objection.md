@@ -28,7 +28,7 @@ last_curated: null
 
 The luck objection is the most persistent challenge to libertarian free will. While much philosophical debate focuses on whether determinism threatens freedom, a long line of philosophers argue that *indeterminism* is equally fatal. If choices aren't causally predetermined, they must be random—and random choices aren't more "free" than determined ones. They're just arbitrary.
 
-this project's framework provides a distinctive response: consciousness *selects* quantum outcomes rather than merely receiving them. This transforms the relationship to indeterminacy from passive luck to active choice.
+this site's framework provides a distinctive response: consciousness *selects* quantum outcomes rather than merely receiving them. This transforms the relationship to indeterminacy from passive luck to active choice.
 
 ## The Problem Stated
 
@@ -101,13 +101,13 @@ Agent-causalists respond: demanding further explanation assumes event-causal red
 
 But this response, while coherent, leaves critics feeling that the luck objection has been answered by stipulation rather than argument. The agent-causalist says "the agent explains it"; the critic asks "but how?"; the agent-causalist says "primitively." This exchange can feel like an impasse.
 
-## the project's Framework: Selection Is Not Random
+## the site's Framework: Selection Is Not Random
 
-this project's position strengthens the agent-causal response by specifying how consciousness exercises causal power at quantum indeterminacies. The key distinction:
+this site's position strengthens the agent-causal response by specifying how consciousness exercises causal power at quantum indeterminacies. The key distinction:
 
 ### Not Mere Indeterminism
 
-Standard quantum indeterminism is genuinely random—outcomes within probabilities occur without explanation. But the project proposes that consciousness *selects* outcomes rather than merely receiving them. This is a different relationship to indeterminacy:
+Standard quantum indeterminism is genuinely random—outcomes within probabilities occur without explanation. But the site proposes that consciousness *selects* outcomes rather than merely receiving them. This is a different relationship to indeterminacy:
 
 | Feature | Lucky Indeterminism | Consciousness-Selected Indeterminism |
 |---------|---------------------|--------------------------------------|
@@ -137,7 +137,7 @@ If the luck objection were correct—if quantum indeterminacy merely produced ra
 
 A critic might object: "Phenomenology proves nothing. A [[philosophical-zombies|philosophical zombie]]—physically identical to you but lacking experience—would report the same 'felt effort' while having no actual phenomenology. Your introspective evidence could be misleading."
 
-This objection is question-begging against the project's framework. the project's [[tenets#^dualism|Dualism]] tenet already rejects that zombies are possible. If consciousness is irreducible to physical processes—as the project maintains—then beings physically identical to us cannot lack experience. The zombie scenario is not merely implausible; it is incoherent given dualist commitments.
+This objection is question-begging against the site's framework. the site's [[tenets#^dualism|Dualism]] tenet already rejects that zombies are possible. If consciousness is irreducible to physical processes—as the site maintains—then beings physically identical to us cannot lack experience. The zombie scenario is not merely implausible; it is incoherent given dualist commitments.
 
 The dialectical situation:
 
@@ -146,15 +146,15 @@ The dialectical situation:
 | Physicalism | Conceivably possible | Phenomenology might be epiphenomenal |
 | Site's Dualism | Impossible | Phenomenology tracks real causal activity |
 
-If one accepts physicalism, the zombie objection has force—phenomenological reports might not track anything causally relevant. But the luck objection is *already* situated within the debate about libertarian free will, which the project defends from a dualist foundation. Invoking zombies against the phenomenology argument requires the objector to assume physicalism—the very view the project rejects.
+If one accepts physicalism, the zombie objection has force—phenomenological reports might not track anything causally relevant. But the luck objection is *already* situated within the debate about libertarian free will, which the site defends from a dualist foundation. Invoking zombies against the phenomenology argument requires the objector to assume physicalism—the very view the site rejects.
 
-Put differently: the zombie objection says "your felt effort might not be real effort." the project's response is "we have independent reasons to hold that consciousness is real and causally efficacious (the arguments for dualism, the rejection of epiphenomenalism). Given those commitments, phenomenology *is* evidential." The objector who presses the zombie point is not engaging with the project's position but assuming its negation.
+Put differently: the zombie objection says "your felt effort might not be real effort." the site's response is "we have independent reasons to hold that consciousness is real and causally efficacious (the arguments for dualism, the rejection of epiphenomenalism). Given those commitments, phenomenology *is* evidential." The objector who presses the zombie point is not engaging with the site's position but assuming its negation.
 
-This doesn't mean the phenomenology argument is circular. the project's dualism rests on independent considerations—the [[hard-problem-of-consciousness|hard problem]], the [[explanatory-gap|explanatory gap]], the [[knowledge-argument|knowledge argument]]. Those arguments establish that consciousness is irreducible. *Given* that foundation, phenomenological evidence about the nature of choice (effortful vs. passive) provides genuine data about how consciousness operates.
+This doesn't mean the phenomenology argument is circular. the site's dualism rests on independent considerations—the [[hard-problem-of-consciousness|hard problem]], the [[explanatory-gap|explanatory gap]], the [[knowledge-argument|knowledge argument]]. Those arguments establish that consciousness is irreducible. *Given* that foundation, phenomenological evidence about the nature of choice (effortful vs. passive) provides genuine data about how consciousness operates.
 
 ### Reasons-Guided Selection
 
-the project's position isn't that consciousness randomly biases quantum outcomes. It's that consciousness selects based on reasons—the same reasons that make actions intelligible. The agent selects A because A serves goals, expresses values, responds to considerations that matter.
+the site's position isn't that consciousness randomly biases quantum outcomes. It's that consciousness selects based on reasons—the same reasons that make actions intelligible. The agent selects A because A serves goals, expresses values, responds to considerations that matter.
 
 This makes the selection contrastively explicable. Why A rather than B? Because the agent had reasons for A. Those reasons didn't *determine* the outcome—alternative possibilities remained genuine—but they *guided* it. Selection is reasons-responsive, not arbitrary.
 
@@ -182,9 +182,9 @@ The response has multiple layers:
 
 ## What Would Make the Luck Objection Succeed?
 
-The luck objection would succeed against the project's framework if:
+The luck objection would succeed against the site's framework if:
 
-1. **Consciousness doesn't select**: If quantum outcomes in the brain are genuinely random, not guided by consciousness, the luck objection applies fully. the project's position depends on consciousness having genuine causal influence.
+1. **Consciousness doesn't select**: If quantum outcomes in the brain are genuinely random, not guided by consciousness, the luck objection applies fully. the site's position depends on consciousness having genuine causal influence.
 
 2. **Selection isn't reasons-responsive**: If consciousness biases outcomes but not based on reasons, the selection is arbitrary—just a different kind of luck. Genuine authorship requires that choices reflect what matters to the agent.
 
@@ -194,9 +194,9 @@ The luck objection would succeed against the project's framework if:
 
 ## Relation to Site Perspective
 
-The luck objection directly challenges this project's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—that consciousness causally influences the physical world. If that influence is random rather than guided, it provides no more freedom than determinism.
+The luck objection directly challenges this site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—that consciousness causally influences the physical world. If that influence is random rather than guided, it provides no more freedom than determinism.
 
-the project's response depends on several commitments:
+the site's response depends on several commitments:
 
 - **[[tenets#^dualism|Dualism]]**: Consciousness is ontologically distinct, capable of genuine causation
 - **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The mechanism works through quantum indeterminacies

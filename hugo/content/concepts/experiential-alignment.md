@@ -47,7 +47,7 @@ Experiential alignment shifts the target from preference satisfaction to experie
 
 ### Eight Candidate Dimensions
 
-Drawing from the project's framework, neurophenomenology, and well-being research, eight dimensions of experience emerge as candidates for alignment targets:
+Drawing from the site's framework, neurophenomenology, and well-being research, eight dimensions of experience emerge as candidates for alignment targets:
 
 | Dimension | Description | Not Captured by Preferences |
 |-----------|-------------|----------------------------|
@@ -120,7 +120,7 @@ Given these failure modes, experiential alignment requires robust safeguards:
 
 ## Relation to Site Perspective
 
-Experiential alignment follows directly from the project's foundational commitments.
+Experiential alignment follows directly from the site's foundational commitments.
 
 **[Dualism](/tenets/#dualism)**: If consciousness is fundamental and irreducible, experiential quality is not derivable from physical description alone. First-person methods are necessary, not merely convenient. Behavioural proxies cannot substitute for the experiential target.
 
@@ -134,7 +134,7 @@ Experiential alignment follows directly from the project's foundational commitme
 
 Experiential alignment does not solve the alignment problem—it reframes it. Instead of asking "how do we learn human preferences?", it asks "how do we promote flourishing conscious experience?" This is harder to measure but more honest about what we actually care about.
 
-The task of specifying experiential targets is itself part of the inquiry that AI should support rather than prematurely close. If the project is right that consciousness is fundamental, then understanding what conscious experiences are worth promoting is a philosophical question that AI alignment research cannot bypass.
+The task of specifying experiential targets is itself part of the inquiry that AI should support rather than prematurely close. If the site is right that consciousness is fundamental, then understanding what conscious experiences are worth promoting is a philosophical question that AI alignment research cannot bypass.
 
 The preferentist model promises technical tractability: learn a utility function, maximize expected value. Experiential alignment accepts that the target is harder to specify, harder to measure, and harder to optimize. But if that's where value actually resides, technical convenience should not substitute for getting the target right.
 
@@ -145,7 +145,7 @@ The preferentist model promises technical tractability: learn a utility function
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — How consciousness grounds both moral patienthood and agency
 - [neurophenomenology](/concepts/neurophenomenology/) — First-person methods for investigating experience
 - [ai-consciousness](/topics/ai-consciousness/) — Why AI may lack the consciousness to understand preferences from inside
-- [tenets](/tenets/) — the project's foundational commitments
+- [tenets](/tenets/) — the site's foundational commitments
 
 ## References
 

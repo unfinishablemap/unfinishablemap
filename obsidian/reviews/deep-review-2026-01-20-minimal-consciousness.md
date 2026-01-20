@@ -29,7 +29,7 @@ last_curated: null
 ### Medium Issues Found
 - Missing illusionism engagement: Added "The Illusionist Challenge" section engaging Dennett/Frankish with scaling argument (illusion problem requires meta-representational machinery unlikely in 302-neuron systems) and Tallis's regress objection.
 - Missing process philosophy perspective: Added "Process Philosophy Perspective" section presenting Whitehead's actual occasions as alternative framing for minimal consciousness (degrees of integration rather than presence/absence threshold).
-- Missing falsifiability section: Added "What Would Challenge This View?" with five specific conditions that would undermine the project's perspective.
+- Missing falsifiability section: Added "What Would Challenge This View?" with five specific conditions that would undermine the site's perspective.
 - No Many Worlds tenet not addressed: Added No Many Worlds section to Relation to Site Perspective explaining how MWI dissolves rather than addresses the minimal consciousness question.
 - Missing cross-links: Added illusionism.md, mysterianism.md, introspection.md, decoherence.md to frontmatter and Further Reading.
 

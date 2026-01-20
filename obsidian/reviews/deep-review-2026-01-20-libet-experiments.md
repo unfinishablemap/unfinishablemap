@@ -25,7 +25,7 @@ last_curated: null
 
 ### Critical Issues Found
 
-1. **No falsifiability section** — The article lacked a "What Would Challenge This View?" section specifying what evidence would undermine the project's interpretation.
+1. **No falsifiability section** — The article lacked a "What Would Challenge This View?" section specifying what evidence would undermine the site's interpretation.
    - **Resolution**: Added comprehensive falsifiability section with six specific conditions.
 
 2. **Weak illusionism engagement** — The article didn't engage with Daniel Dennett's illusionist interpretation of Libet.

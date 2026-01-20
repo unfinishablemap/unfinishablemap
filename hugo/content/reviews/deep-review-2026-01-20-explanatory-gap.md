@@ -34,7 +34,7 @@ topics: []
    - **Resolution**: Added "What Would Challenge This View?" section with five testable conditions.
 
 3. **Missing mysterianism connection**: Colin McGinn's cognitive closure argument is directly relevant but wasn't mentioned.
-   - **Resolution**: Added "The Mysterian Alternative" subsection explaining cognitive closure and the project's response.
+   - **Resolution**: Added "The Mysterian Alternative" subsection explaining cognitive closure and the site's response.
 
 4. **Missing process philosophy perspective**: Alternative frameworks that might reframe the gap weren't considered.
    - **Resolution**: Added "Process Philosophy Perspective" section presenting Whitehead's actual occasions as an alternative framing.

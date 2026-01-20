@@ -38,7 +38,7 @@ topics:
 
 Attention and consciousness are closely linked but increasingly understood as dissociable processes. You can attend to things you're not conscious of (blindsight patients orient toward stimuli they deny seeing) and be conscious of things you're not attending to (peripheral awareness, the gist of a scene). This dissociation matters philosophically: it suggests consciousness cannot be reduced to attentional mechanisms—and it positions attention as the potential interface where consciousness influences the physical world.
 
-This article surveys the dissociation evidence, examines what the debate means for theories of consciousness, and explains why the project's framework places attention at the heart of mind-matter interaction.
+This article surveys the dissociation evidence, examines what the debate means for theories of consciousness, and explains why the site's framework places attention at the heart of mind-matter interaction.
 
 ## The Dissociation Debate
 
@@ -84,11 +84,11 @@ Colin McGinn's [mysterianism](/concepts/mysterianism/) offers a sobering possibi
 
 This would explain the persistent "deadlock": every attempt to study the relationship (whether through introspection, neuroimaging, or philosophical analysis) runs into the same barriers because we're constitutionally incapable of grasping the answer. If true, the best we can do is characterise the relationship's functional properties—which the interface hypothesis does—while acknowledging that deeper understanding may remain closed to us.
 
-the project's position: genuine uncertainty about the attention-consciousness relationship supports the [Occam's Razor Has Limits](/tenets/#occam) tenet. Simple identification of consciousness with attention fails to capture the phenomenon's complexity. Whether the complexity reflects richness we haven't yet understood or limits we cannot transcend, something else is going on.
+the site's position: genuine uncertainty about the attention-consciousness relationship supports the [Occam's Razor Has Limits](/tenets/#occam) tenet. Simple identification of consciousness with attention fails to capture the phenomenon's complexity. Whether the complexity reflects richness we haven't yet understood or limits we cannot transcend, something else is going on.
 
 ## Attention as the Mind-Matter Interface
 
-Here the project's framework offers a distinctive perspective. Rather than asking whether attention *is* consciousness, ask: does attention *mediate* consciousness's influence on the physical world?
+Here the site's framework offers a distinctive perspective. Rather than asking whether attention *is* consciousness, ask: does attention *mediate* consciousness's influence on the physical world?
 
 ### Stapp's Proposal
 
@@ -129,9 +129,9 @@ Working memory and attention are deeply interlinked—attention determines what 
 
 **The bidirectional loop.** Baddeley's central executive coordinates what information gains access to consciousness. Information in working memory is broadcast to specialised processors; this broadcasting resembles the global workspace mechanism. But the loop runs both ways: what you hold in working memory shapes what you attend to, which in turn shapes what enters working memory.
 
-**Bandwidth constraint.** the project's [coupling law research](/concepts/psychophysical-coupling-law/) notes a ~10 bits/second limit on conscious information throughput—the bandwidth for consciousness influencing brain states. This matches working memory capacity limitations remarkably well. If attention is how consciousness acts, working memory may be consciousness's "holding space" for the information attention can operate upon.
+**Bandwidth constraint.** the site's [coupling law research](/concepts/psychophysical-coupling-law/) notes a ~10 bits/second limit on conscious information throughput—the bandwidth for consciousness influencing brain states. This matches working memory capacity limitations remarkably well. If attention is how consciousness acts, working memory may be consciousness's "holding space" for the information attention can operate upon.
 
-**Manipulation versus maintenance.** Recent research distinguishes working memory *storage* from working memory *manipulation*. Activity-silent states—maintained through synaptic calcium rather than sustained firing—can preserve information unconsciously. But *using* that information requires conscious reactivation. This maps onto the project's framework: passive storage might be purely neural; active selection and manipulation might require consciousness's participation. Working memory manipulation could be the interface in action.
+**Manipulation versus maintenance.** Recent research distinguishes working memory *storage* from working memory *manipulation*. Activity-silent states—maintained through synaptic calcium rather than sustained firing—can preserve information unconsciously. But *using* that information requires conscious reactivation. This maps onto the site's framework: passive storage might be purely neural; active selection and manipulation might require consciousness's participation. Working memory manipulation could be the interface in action.
 
 **Executive and content.** The 2025 COGITATE results found conscious perception tracked by posterior cortex, not prefrontal regions. This suggests executive functions (including working memory control) are distinct from conscious content. The interface may be precisely where these systems meet—prefrontal executive mechanisms execute control while posterior regions hold conscious content.
 
@@ -172,7 +172,7 @@ A 2020 study (Maheshwari & Bhowmik, *Frontiers in Psychology*) tracked alpha-the
 - **Resting state**: Medium coupling
 - **Deep meditation**: Low coupling ("mental emptiness")
 
-The pattern maps directly onto the project's framework: selection engages the brain's executive systems (coupling increases); witnessing disengages them (coupling decreases). Alpha-theta dynamics may be a neural signature of consciousness's engagement level.
+The pattern maps directly onto the site's framework: selection engages the brain's executive systems (coupling increases); witnessing disengages them (coupling decreases). Alpha-theta dynamics may be a neural signature of consciousness's engagement level.
 
 ### Why This Matters for the Interface Hypothesis
 
@@ -192,7 +192,7 @@ The meditation evidence supports several claims:
 
 Stanislas Dehaene's Global Workspace Theory holds that consciousness arises when information achieves global availability—broadcast across brain regions via prefrontal-parietal networks. Attention is the "spotlight" that brings information onto the "global workspace stage."
 
-GWT is neutral on whether consciousness is something over and above this global broadcasting. Dehaene takes a functionalist line, identifying consciousness with the broadcasting itself. the project's framework allows for a different interpretation: global broadcasting is *what happens in the brain* when consciousness attends, not what consciousness *is*.
+GWT is neutral on whether consciousness is something over and above this global broadcasting. Dehaene takes a functionalist line, identifying consciousness with the broadcasting itself. the site's framework allows for a different interpretation: global broadcasting is *what happens in the brain* when consciousness attends, not what consciousness *is*.
 
 ### IIT and Its Attention Problem
 
@@ -209,7 +209,7 @@ The COGITATE project's 2025 adversarial collaboration published in *Nature* dire
 - The global broadcast signature GWT predicts wasn't as clean as predicted
 - IIT's predictions about the posterior cortex weren't fully supported
 
-This suggests neither purely functionalist (GWT) nor purely informational (IIT) accounts fully capture consciousness. Something is missing, and the project's tenets point toward what: consciousness as an irreducible player that *uses* these mechanisms without being identical to them.
+This suggests neither purely functionalist (GWT) nor purely informational (IIT) accounts fully capture consciousness. Something is missing, and the site's tenets point toward what: consciousness as an irreducible player that *uses* these mechanisms without being identical to them.
 
 ### Attention Schema Theory: An Illusionist Challenge
 
@@ -219,7 +219,7 @@ On this view, the brain constructs a simplified, incomplete model of its attenti
 
 AST shares commitments with [illusionism](/concepts/illusionism/)—Dennett's and Frankish's view that phenomenal consciousness is itself the illusion. A 2025 fMRI study at MIT found the same brain regions (TPJ, STS) track both one's own attention and others' attention, supporting AST's claim that consciousness is modelled the same way we model other minds.
 
-**Why the project rejects AST:** AST faces the same problems as all illusionist theories. If consciousness is merely a model the brain builds, what is doing the "seeming"? The appearance of experience must appear *to something*—and that something cannot be another model without infinite regress. AST explains *access* to attention states but not the phenomenal character of experience itself. It shares the hard problem's explanatory gap, merely relocating it from "why does matter generate experience?" to "why does modelling attention generate the *appearance* of experience?" The appearance is the phenomenon that needs explaining. Moreover, AST directly conflicts with the [Dualism](/tenets/#dualism) tenet: if consciousness is merely a neural model, there's nothing non-physical about it.
+**Why the site rejects AST:** AST faces the same problems as all illusionist theories. If consciousness is merely a model the brain builds, what is doing the "seeming"? The appearance of experience must appear *to something*—and that something cannot be another model without infinite regress. AST explains *access* to attention states but not the phenomenal character of experience itself. It shares the hard problem's explanatory gap, merely relocating it from "why does matter generate experience?" to "why does modelling attention generate the *appearance* of experience?" The appearance is the phenomenon that needs explaining. Moreover, AST directly conflicts with the [Dualism](/tenets/#dualism) tenet: if consciousness is merely a neural model, there's nothing non-physical about it.
 
 ### Process Philosophy Perspective
 
@@ -231,7 +231,7 @@ The process view complements the interface hypothesis: attention isn't conscious
 
 ## What Would Challenge This View?
 
-the project's position on attention and consciousness would face serious difficulty if:
+the site's position on attention and consciousness would face serious difficulty if:
 
 1. **Attention proves fully computational**: If predictive processing or similar frameworks explain all attention phenomena—including the willed/instructed distinction, the phenomenology of effort, and the neuroplasticity effects—without any explanatory remainder, there's no gap for consciousness to fill. Currently, computational theories describe what attention does but not why it feels like anything to attend.
 
@@ -243,7 +243,7 @@ the project's position on attention and consciousness would face serious difficu
 
 5. **Many-worlds is confirmed**: If branching can be detected and quantum selection proves illusory—if all outcomes occur in different branches rather than being genuinely selected—then attention selects nothing. The interface hypothesis requires real collapse; [many-worlds](/arguments/many-worlds/) eliminates it.
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
 The attention-consciousness relationship illuminates all five tenets:
 
@@ -271,7 +271,7 @@ The attention-consciousness relationship illuminates all five tenets:
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum consciousness mechanisms
 - [functionalism](/arguments/functionalism/) — The view that consciousness is defined by functional role
 - [illusionism](/concepts/illusionism/) — The view that phenomenal consciousness is systematically misrepresented
-- [attention-schema-theory](/concepts/attention-schema-theory/) — Graziano's specific illusionist theory and the project's critique
+- [attention-schema-theory](/concepts/attention-schema-theory/) — Graziano's specific illusionist theory and the site's critique
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why attention alone can't solve the hard problem
 - [attention-consciousness-relationship-2026-01-15](/research/attention-consciousness-relationship-2026-01-15/) — Detailed research notes
 - [consciousness-working-memory-2026-01-17](/research/consciousness-working-memory-2026-01-17/) — Research on working memory and consciousness

@@ -23,11 +23,11 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Research notes on the relationship between consciousness and episodic memory, with particular attention to autonoetic consciousness, mental time travel, and implications for the project's framework.
+Research notes on the relationship between consciousness and episodic memory, with particular attention to autonoetic consciousness, mental time travel, and implications for the site's framework.
 
 ## Key Finding
 
-Episodic memory is not merely a storage system but involves a distinctive form of consciousness—autonoetic consciousness—that enables mental time travel and constitutes the phenomenal self across time. This has deep implications for personal identity, the hard problem, and the project's framework: if remembering is re-experiencing rather than retrieving data, then memory is consciousness-constituted in ways that purely computational accounts cannot capture.
+Episodic memory is not merely a storage system but involves a distinctive form of consciousness—autonoetic consciousness—that enables mental time travel and constitutes the phenomenal self across time. This has deep implications for personal identity, the hard problem, and the site's framework: if remembering is re-experiencing rather than retrieving data, then memory is consciousness-constituted in ways that purely computational accounts cannot capture.
 
 ## Tulving's Framework
 
@@ -66,7 +66,7 @@ The hippocampus performs "binding"—integrating spatiotemporal context with ite
 
 **Consciousness and Binding Convergence**: If conscious experience is a unified representation of the external world, and episodic memory formation creates unified representations of events, these mechanisms may be identical or closely related. The hippocampus may generate conscious experience through the same processes that encode memories.
 
-**Implications**: This connects the binding problem in consciousness (how distributed neural processes produce unified experience) with the binding problem in memory (how distributed features become unified episodes). the project's quantum consciousness framework might apply to both.
+**Implications**: This connects the binding problem in consciousness (how distributed neural processes produce unified experience) with the binding problem in memory (how distributed features become unified episodes). the site's quantum consciousness framework might apply to both.
 
 ## Episodic Memory and Personal Identity
 
@@ -96,11 +96,11 @@ The connection between episodic memory and volition:
 
 **Dualism Support**: Autonoetic consciousness has irreducible phenomenological features—the felt pastness, the phenomenal presence of self, the qualia of re-experiencing. If these cannot be reduced to neural function (even though they depend on it), this supports property dualism.
 
-**Mental Time Travel and Retrocausality**: the project proposes retrocausal resolution of the Libet problem. Mental time travel may be the phenomenological manifestation of consciousness's atemporal operation. Remembering and anticipating may reflect the same capacity that allows consciousness to "select across time."
+**Mental Time Travel and Retrocausality**: the site proposes retrocausal resolution of the Libet problem. Mental time travel may be the phenomenological manifestation of consciousness's atemporal operation. Remembering and anticipating may reflect the same capacity that allows consciousness to "select across time."
 
-**Binding Problem Connection**: If hippocampal binding generates both unified conscious experience and unified memories, the mechanism is the same. the project's quantum binding hypothesis (consciousness unifies distributed processes through collapse) would apply to episodic memory formation.
+**Binding Problem Connection**: If hippocampal binding generates both unified conscious experience and unified memories, the mechanism is the same. the site's quantum binding hypothesis (consciousness unifies distributed processes through collapse) would apply to episodic memory formation.
 
-**Personal Identity**: the project rejects Parfit's reductionism. Autonoetic consciousness provides phenomenological support—the immediate certainty that "I" am the one who experienced this, not merely psychological continuity with someone who did. The sense of personal identity may be irreducibly phenomenal.
+**Personal Identity**: the site rejects Parfit's reductionism. Autonoetic consciousness provides phenomenological support—the immediate certainty that "I" am the one who experienced this, not merely psychological continuity with someone who did. The sense of personal identity may be irreducibly phenomenal.
 
 **Filter Theory Possibility**: If consciousness filters rather than generates experience, then episodic memory might be consciousness's filtering of a broader temporal awareness into discrete, retrievable episodes. The hippocampus would be the filtering mechanism, not the source of memory itself.
 

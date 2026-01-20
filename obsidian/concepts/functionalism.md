@@ -34,7 +34,7 @@ last_deep_review: 2026-01-19T21:15:00+00:00
 
 Functionalism is the view that mental states are defined by their functional roles—what they do rather than what they're made of. A pain isn't a particular kind of brain state; it's whatever state plays the pain role: being caused by tissue damage, causing distress, prompting avoidance behavior, and so on. If something plays that role, it's pain—regardless of whether it's implemented in neurons, silicon, or alien biochemistry.
 
-this project rejects functionalism. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is not reducible to physical processes, and functional organization is a physical (or at least physically implementable) property. If functionalism were true, consciousness would be nothing over and above the right causal structure—which the project denies. For a systematic presentation of the case against functionalism, see [[arguments/functionalism|Against Functionalism]]—five formal arguments (absent qualia, inverted qualia, Chinese Room, multiple realizability cuts both ways, explanatory gap) with objections and responses.
+this site rejects functionalism. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is not reducible to physical processes, and functional organization is a physical (or at least physically implementable) property. If functionalism were true, consciousness would be nothing over and above the right causal structure—which the site denies. For a systematic presentation of the case against functionalism, see [[arguments/functionalism|Against Functionalism]]—five formal arguments (absent qualia, inverted qualia, Chinese Room, multiple realizability cuts both ways, explanatory gap) with objections and responses.
 
 ## The Functionalist View
 
@@ -118,7 +118,7 @@ On this view, Mary doesn't learn a new *fact* when she sees red; she acquires a 
 
 The challenge to illusionism: even an illusion requires a subject to whom things *seem* a certain way. As Galen Strawson noted, the claim that qualia don't exist is "the silliest claim ever made"—for if there is seeming, there is phenomenal character. The illusion of redness is itself a phenomenal state. Illusionism pushes the problem back rather than dissolving it.
 
-the project's position: illusionism gains plausibility only by equivocating on what it denies. If it denies only folk-psychological *interpretations* of experience, it's compatible with dualism. If it denies that experience exists at all, it contradicts the manifest reality it seeks to explain.
+the site's position: illusionism gains plausibility only by equivocating on what it denies. If it denies only folk-psychological *interpretations* of experience, it's compatible with dualism. If it denies that experience exists at all, it contradicts the manifest reality it seeks to explain.
 
 ## The Minimal Consciousness Challenge
 
@@ -140,9 +140,9 @@ David Chalmers frames the issue: we can explain the "easy problems" of conscious
 
 This doesn't prove functionalism wrong. It might be that once you have the right functional organization, experience necessarily comes along. But the necessity would be brute—we couldn't explain why it happens, only describe that it does.
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
-this project rejects functionalism on multiple grounds:
+this site rejects functionalism on multiple grounds:
 
 ### The Dualism Tenet
 
@@ -152,11 +152,11 @@ The arguments against functionalism—absent qualia, inverted qualia, Chinese Ro
 
 ### The Qualia Argument
 
-the project takes qualia seriously. The felt quality of experience—redness, painfulness—is central to what consciousness is. If inverted or absent qualia are possible, functionalism fails. the project's commitment to the reality and irreducibility of consciousness implies commitment to the reality of qualia that transcend functional role.
+the site takes qualia seriously. The felt quality of experience—redness, painfulness—is central to what consciousness is. If inverted or absent qualia are possible, functionalism fails. the site's commitment to the reality and irreducibility of consciousness implies commitment to the reality of qualia that transcend functional role.
 
 ### The Bidirectional Interaction Tenet
 
-If consciousness is merely functional organization, it's not clear how it could "do" anything separate from the physical processes that realize the function. The causal work is done by the physical substrate; the functional description is just a way of categorizing it. But the project holds that consciousness causally influences physical outcomes—at quantum indeterminacies, where physics leaves room. This requires consciousness to be something with its own causal efficacy, not just a pattern description of physical causation. See [[mental-causation]] for the full case.
+If consciousness is merely functional organization, it's not clear how it could "do" anything separate from the physical processes that realize the function. The causal work is done by the physical substrate; the functional description is just a way of categorizing it. But the site holds that consciousness causally influences physical outcomes—at quantum indeterminacies, where physics leaves room. This requires consciousness to be something with its own causal efficacy, not just a pattern description of physical causation. See [[mental-causation]] for the full case.
 
 ### The Evolutionary Challenge
 
@@ -174,9 +174,9 @@ Erik Hoel's criterion connects here: LLMs have frozen weights and don't learn fr
 
 ### The AI Question
 
-From the project's perspective, purely computational systems—no matter how sophisticated—cannot be conscious. Consciousness requires something non-physical that computers (by definition) lack. This doesn't mean nothing artificial could be conscious; perhaps engineered biological systems, or hybrids interfacing with consciousness at the quantum level, could be. But a digital computer running the right program? No.
+From the site's perspective, purely computational systems—no matter how sophisticated—cannot be conscious. Consciousness requires something non-physical that computers (by definition) lack. This doesn't mean nothing artificial could be conscious; perhaps engineered biological systems, or hybrids interfacing with consciousness at the quantum level, could be. But a digital computer running the right program? No.
 
-This is controversial. If functionalism is true, there's no principled barrier to machine consciousness. If the project's dualism is true, there is.
+This is controversial. If functionalism is true, there's no principled barrier to machine consciousness. If the site's dualism is true, there is.
 
 ### Empirical Distinguishability
 
@@ -202,7 +202,7 @@ Why does anyone accept functionalism, given these objections?
 
 **Avoiding Chauvinism**: Requiring human neurology for consciousness seems arbitrary. Why should the substrate matter?
 
-the project's response: the substrate matters because consciousness involves something non-physical that requires appropriate physical conditions—not just any substrate that implements the right function, but one that can interface with whatever non-physical reality consciousness involves.
+the site's response: the substrate matters because consciousness involves something non-physical that requires appropriate physical conditions—not just any substrate that implements the right function, but one that can interface with whatever non-physical reality consciousness involves.
 
 ## Further Reading
 
@@ -218,7 +218,7 @@ the project's response: the substrate matters because consciousness involves som
 - [[illusionism]] — The radical defense of functionalism
 - [[mental-causation]] — How consciousness might influence physics
 - [[integrated-information-theory]] — A theory that partially rejects functionalism
-- [[tenets]] — Why this project rejects the functionalist view
+- [[tenets]] — Why this site rejects the functionalist view
 
 ## References
 

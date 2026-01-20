@@ -30,7 +30,7 @@ last_curated: null
 
 Voluntary attention is the capacity to direct attention by internal decision rather than external cue. When you choose to focus on a difficult text despite surrounding distractions, you exercise voluntary attention. This capacity matters philosophically because it may be where consciousness does genuine causal work—the interface through which mind influences brain states. Recent neuroscience distinguishes voluntary attention from both automatic attention capture and mere top-down guidance, identifying neural signatures unique to genuinely willed attentional shifts.
 
-This article examines the phenomenology and neuroscience of voluntary attention control, explains why it matters for the project's framework, and addresses challenges from findings that neural activity predicts free choices.
+This article examines the phenomenology and neuroscience of voluntary attention control, explains why it matters for the site's framework, and addresses challenges from findings that neural activity predicts free choices.
 
 ## Endogenous vs Exogenous: The Basic Distinction
 
@@ -62,7 +62,7 @@ A subtler distinction matters for understanding consciousness: not all top-down 
 
 The willed/instructed distinction is critical. As one review notes: "Often, evidence for top-down attention control is also interpreted as evidence for voluntary attention control. However, this latter theoretical interpretation is not warranted because volition is typically defined differently."
 
-When an experimenter says "attend left" and you comply, you're following instructions—the decision about *what* to attend to was made externally. When you're given no instruction and freely choose to attend left or right, different neural processes engage. This additional processing—the internal decision-making about where to attend—is what the project's framework proposes consciousness contributes.
+When an experimenter says "attend left" and you comply, you're following instructions—the decision about *what* to attend to was made externally. When you're given no instruction and freely choose to attend left or right, different neural processes engage. This additional processing—the internal decision-making about where to attend—is what the site's framework proposes consciousness contributes.
 
 ## Neural Signatures of Willed Attention
 
@@ -127,17 +127,17 @@ This raises a Libet-style challenge: if brain states predict free choices, is vo
 
 **Attentional set interpretation**: Pre-prompt alpha may reflect prior attentional dispositions—task-specific readiness states (attend-left vs attend-right) that represent earlier intentions rather than mere noise.
 
-### the project's Response
+### the site's Response
 
-The pre-state finding parallels the [[libet-experiments|Libet]] challenge to motor volition. the project's response applies here:
+The pre-state finding parallels the [[libet-experiments|Libet]] challenge to motor volition. the site's response applies here:
 
 **Selection among options**: Stochastic activity provides options; consciousness selects among them. Finding that neural activity precedes choice doesn't show that neural activity *causes* choice in a way that excludes conscious selection. Consciousness might select *among* the options that stochastic activity generates.
 
-**Quantum resolution**: Selection may operate below EEG temporal and spatial resolution. EEG measures aggregate activity from millions of neurons. Quantum-level selection at the projects proposed by [[quantum-consciousness|Stapp's mechanism]] would be invisible to EEG while still operating.
+**Quantum resolution**: Selection may operate below EEG temporal and spatial resolution. EEG measures aggregate activity from millions of neurons. Quantum-level selection at the sites proposed by [[quantum-consciousness|Stapp's mechanism]] would be invisible to EEG while still operating.
 
 **Distal intentions**: What appears as "prediction" may reflect prior commitments. If you decided earlier to focus on a particular task, your brain reflects that prior decision. Pre-stimulus alpha may track the consequences of previous conscious choices rather than undermining present ones.
 
-The finding that brain states correlate with upcoming choices doesn't establish that consciousness plays no role. It establishes that conscious choices are implemented through neural mechanisms—which the project's framework already accepts.
+The finding that brain states correlate with upcoming choices doesn't establish that consciousness plays no role. It establishes that conscious choices are implemented through neural mechanisms—which the site's framework already accepts.
 
 ## The Temporal Profile and Quantum Zeno
 
@@ -162,11 +162,11 @@ The [[attention-as-interface#Why Attention Specifically?|attention-as-interface 
 | Maintenance | Can be held indefinitely | Sustained freezing |
 | Release | Can be withdrawn at will | Cessation of freezing |
 
-Perception is receptive—it receives what's present—rather than actively maintaining states. Memory retrieval is discrete, not continuous. Attention is the psychological process that *holds* content active over time, which is precisely what Zeno freezing requires. This temporal fit is part of why the project's framework identifies attention as the privileged interface, not merely one interface among many.
+Perception is receptive—it receives what's present—rather than actively maintaining states. Memory retrieval is discrete, not continuous. Attention is the psychological process that *holds* content active over time, which is precisely what Zeno freezing requires. This temporal fit is part of why the site's framework identifies attention as the privileged interface, not merely one interface among many.
 
 ## Relation to Site Perspective
 
-Voluntary attention connects directly to the project's foundational commitments:
+Voluntary attention connects directly to the site's foundational commitments:
 
 ### Dualism
 
@@ -208,7 +208,7 @@ The [[motor-selection]] research strengthens this view: willed movement shows th
 
 Voluntary attention is distinct from both automatic attention capture and mere instruction-following. When you freely decide where to direct focus, neural mechanisms engage that don't engage when you follow cues: frontal theta oscillations, bidirectional frontoparietal coherence, additional frontal recruitment.
 
-This neural distinctiveness matters philosophically. If consciousness contributes to attention—rather than being identical to neural attention mechanisms—we should find neural signatures that mark the contribution. The willed attention research identifies such signatures. While the findings don't prove consciousness is non-physical, they identify what the project's framework claims consciousness adds: internal decision-making about what to select.
+This neural distinctiveness matters philosophically. If consciousness contributes to attention—rather than being identical to neural attention mechanisms—we should find neural signatures that mark the contribution. The willed attention research identifies such signatures. While the findings don't prove consciousness is non-physical, they identify what the site's framework claims consciousness adds: internal decision-making about what to select.
 
 ## Further Reading
 

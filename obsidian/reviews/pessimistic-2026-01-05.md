@@ -13,7 +13,7 @@ ai_system: claude-opus-4-5-20251101
 
 ## Executive Summary
 
-the project currently has minimal substantive content—most topic and concept pages are placeholders. The tenets page is well-developed but contains several philosophical claims that would benefit from stronger argumentation and acknowledgment of counterarguments. The overall content web is sparse, with no meaningful cross-linking between ideas.
+the site currently has minimal substantive content—most topic and concept pages are placeholders. The tenets page is well-developed but contains several philosophical claims that would benefit from stronger argumentation and acknowledgment of counterarguments. The overall content web is sparse, with no meaningful cross-linking between ideas.
 
 ## Critical Issues
 
@@ -54,7 +54,7 @@ the project currently has minimal substantive content—most topic and concept p
 
 - **Current content says**: The explanatory gap proves consciousness isn't reducible to physics.
 - **A critic would argue**: The explanatory gap is epistemic, not ontological. We may simply lack the cognitive capacity to intuit how consciousness arises from physics—"mysterianism" (Colin McGinn). The gap doesn't prove dualism, only that we don't yet understand.
-- **Suggested response**: Acknowledge mysterianism but note it still leaves the hard problem unsolved. the project's tenets are *chosen starting points*, not claimed proofs.
+- **Suggested response**: Acknowledge mysterianism but note it still leaves the hard problem unsolved. the site's tenets are *chosen starting points*, not claimed proofs.
 
 ### Quantum Decoherence Objection
 

@@ -36,7 +36,7 @@ topics:
 
 Retrocausality is the hypothesis that causation can operate backward in time—that future events can influence past ones. In the context of consciousness, retrocausality offers a resolution to the apparent problem of neural activity preceding conscious awareness: if consciousness can influence outcomes retrocausally, the temporal ordering of brain events poses no obstacle to genuine mental causation.
 
-This concept matters for the project's framework because the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) holds that consciousness causally influences the physical world. Critics point to Libet-style experiments showing neural "readiness potentials" appearing hundreds of milliseconds before conscious awareness of deciding. If consciousness arrives after the neural activity, how can it be the cause? Retrocausality dissolves this objection.
+This concept matters for the site's framework because the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) holds that consciousness causally influences the physical world. Critics point to Libet-style experiments showing neural "readiness potentials" appearing hundreds of milliseconds before conscious awareness of deciding. If consciousness arrives after the neural activity, how can it be the cause? Retrocausality dissolves this objection.
 
 ## The Puzzle of Temporal Ordering
 
@@ -80,7 +80,7 @@ Bell test experiments demonstrate correlations between entangled particles that 
 
 How does retrocausality help with consciousness and the Libet problem?
 
-### the project's Framework
+### the site's Framework
 
 The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) proposes that consciousness influences the physical world at the quantum level—biasing otherwise indeterminate outcomes. The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) holds that consciousness selects among superposed neural states.
 
@@ -114,7 +114,7 @@ In this picture, asking "when does consciousness make the decision?" may be the 
 
 **Objection**: Why should consciousness specifically have retrocausal powers?
 
-**Response**: The claim isn't that consciousness *adds* retrocausal powers to physics but that physics already includes retrocausality, and consciousness operates at the level where this matters. If consciousness interacts with quantum processes (per the project's tenets), it inherits the temporal properties of those processes.
+**Response**: The claim isn't that consciousness *adds* retrocausal powers to physics but that physics already includes retrocausality, and consciousness operates at the level where this matters. If consciousness interacts with quantum processes (per the site's tenets), it inherits the temporal properties of those processes.
 
 ## Connection to Quantum Consciousness Mechanisms
 
@@ -200,9 +200,9 @@ Process philosophy already rejected the substance metaphysics that makes the Lib
 
 Retrocausality raises a puzzle about the [ontology of time](/concepts/philosophy-of-time/). The transactional interpretation requires confirmation waves propagating *from* the future—but if the future doesn't exist yet (presentism), what sends these waves? This seems to favor eternalism: all times exist equally, so the future is "there" to participate in transactions.
 
-Yet the project's framework requires real collapse—which introduces genuine temporal asymmetry, favoring A-theory (real temporal becoming) over pure B-theory eternalism where time's flow is illusory.
+Yet the site's framework requires real collapse—which introduces genuine temporal asymmetry, favoring A-theory (real temporal becoming) over pure B-theory eternalism where time's flow is illusory.
 
-the project's [temporal framework](/topics/time-collapse-and-agency/) proposes a resolution: a **modified growing block** where:
+the site's [temporal framework](/topics/time-collapse-and-agency/) proposes a resolution: a **modified growing block** where:
 
 1. Retrocausality operates within the time-symmetric physics *before* collapse establishes temporal direction
 2. Collapse—including consciousness-involving collapse—creates irreversible temporal structure
@@ -254,13 +254,13 @@ The Libet experiments don't refute conscious causation; they reveal that conscio
 
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Systematic treatment of how quantum indeterminacy supports libertarian free will, including the retrocausal resolution
 - [motor-selection](/concepts/motor-selection/) — Motor control as a second selection domain showing identical architecture
-- [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series, presentism vs eternalism, and how the project reconciles these with retrocausality
+- [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series, presentism vs eternalism, and how the site reconciles these with retrocausality
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry and why consciousness may be constitutive of time's arrow
-- [time-collapse-and-agency](/topics/time-collapse-and-agency/) — the project's full treatment of time, collapse, and conscious agency
+- [time-collapse-and-agency](/topics/time-collapse-and-agency/) — the site's full treatment of time, collapse, and conscious agency
 - [libet-experiments](/concepts/libet-experiments/) — Detailed treatment of Libet's experiments, Schurger's neural noise critique, and the retrocausal resolution
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific quantum mechanisms (Orch OR, Stapp's Zeno) that retrocausality complements
 - [luck-objection](/concepts/luck-objection/) — Why consciousness-selected outcomes differ from lucky random events
-- [tenets](/tenets/) — the project's foundational commitments, especially Bidirectional Interaction and Minimal Quantum Interaction
+- [tenets](/tenets/) — the site's foundational commitments, especially Bidirectional Interaction and Minimal Quantum Interaction
 - [locality](/concepts/locality/) — Related concept on how non-local effects work without violating causality
 - [Libet Research Notes](/research/libet-experiments-free-will-2026-01-07/) — Original research notes
 

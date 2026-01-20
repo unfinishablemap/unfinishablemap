@@ -183,7 +183,7 @@ For edge-phenomenology specifically, AI might:
 - Map the "shape" of cognitive limits by analyzing what fails versus succeeds
 - Approach edges differently if not bound by same biological architecture
 
-However, AI lacks the first-person access that makes edge-experiences meaningful. An AI can analyze reports of MPE but cannot have MPE (if consciousness requires biological substrate, per the project's framework).
+However, AI lacks the first-person access that makes edge-experiences meaningful. An AI can analyze reports of MPE but cannot have MPE (if consciousness requires biological substrate, per the site's framework).
 
 ## Connection to Tenets
 

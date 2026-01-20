@@ -30,7 +30,7 @@ topics:
 
 ## Executive Summary
 
-This research investigates whether consciousness merely selects among pre-existing options or genuinely generates novel possibilities. The question matters for the project's Bidirectional Interaction tenet: if consciousness only selects, its causal contribution is narrower than if it also creates. Bergson's philosophy of creative duration provides the strongest case for consciousness as generator of novelty. Contemporary neuroscience reveals creativity involves dynamic switching between default mode (spontaneous generation) and executive control (selection/evaluation) networks. Philosophically, the debate centers on whether genuine "metaphysical novelty" requires libertarian free will or whether psychological novelty suffices. The research suggests a synthesis: consciousness may both generate (through imagination's exploration of possibility space) and select (through attention's quantum Zeno mechanism)—these may be two aspects of a single creative process rather than competing accounts.
+This research investigates whether consciousness merely selects among pre-existing options or genuinely generates novel possibilities. The question matters for the site's Bidirectional Interaction tenet: if consciousness only selects, its causal contribution is narrower than if it also creates. Bergson's philosophy of creative duration provides the strongest case for consciousness as generator of novelty. Contemporary neuroscience reveals creativity involves dynamic switching between default mode (spontaneous generation) and executive control (selection/evaluation) networks. Philosophically, the debate centers on whether genuine "metaphysical novelty" requires libertarian free will or whether psychological novelty suffices. The research suggests a synthesis: consciousness may both generate (through imagination's exploration of possibility space) and select (through attention's quantum Zeno mechanism)—these may be two aspects of a single creative process rather than competing accounts.
 
 ## Key Sources
 
@@ -221,7 +221,7 @@ Argue that the apparent tension between "generation" and "selection" views disso
 - Imagination explores possibility space (generation aspect)
 - Attention actualizes specific possibilities (selection aspect)
 - Both are exercises of the same consciousness
-- the project's quantum Zeno framework handles the selection side
+- the site's quantum Zeno framework handles the selection side
 - Bergson's duration and Husserl's imagination handle the generation side
 - **Tenet connection**: Strengthens Bidirectional Interaction by showing consciousness contributes both exploration and actualization
 
@@ -259,7 +259,7 @@ Integrate Bergson's philosophy with quantum consciousness:
 
 ## Relation to Site Framework
 
-The research strongly supports extending the project's model:
+The research strongly supports extending the site's model:
 
 **Current model**: Consciousness selects among quantum-superposed neural patterns via attention (Zeno mechanism)
 

@@ -52,9 +52,9 @@ Here is the critical point that discussions of decoherence often obscure: **deco
 
 Decoherence explains why we don't observe superpositions—interference effects wash out. But it doesn't explain why we see *definite* outcomes at all. After decoherence, standard quantum mechanics still describes the total system (particle plus environment) as a vast entangled superposition. The appearance of definite outcomes requires something more. As a 2025 comprehensive review puts it: "the problem of outcomes is still open."
 
-As the Stanford Encyclopedia of Philosophy states: "Decoherence as such does not provide a solution to the measurement problem, at least not unless it is combined with an appropriate foundational approach." The dedicated [[measurement-problem|measurement problem article]] explores the various interpretations (Copenhagen, Many-Worlds, GRW, Bohmian, consciousness-based) and why the project rejects Many-Worlds while remaining open to consciousness-based approaches.
+As the Stanford Encyclopedia of Philosophy states: "Decoherence as such does not provide a solution to the measurement problem, at least not unless it is combined with an appropriate foundational approach." The dedicated [[measurement-problem|measurement problem article]] explores the various interpretations (Copenhagen, Many-Worlds, GRW, Bohmian, consciousness-based) and why the site rejects Many-Worlds while remaining open to consciousness-based approaches.
 
-This matters for the project's perspective. If decoherence fully explained measurements, consciousness would have no role. But decoherence merely establishes preferred bases—it doesn't collapse them. Something must select which outcome occurs. The [[tenets#^no-many-worlds|No Many Worlds]] tenet holds that outcomes are genuinely selected, not merely experienced in branching universes. Consciousness remains a candidate for what does the selecting.
+This matters for the site's perspective. If decoherence fully explained measurements, consciousness would have no role. But decoherence merely establishes preferred bases—it doesn't collapse them. Something must select which outcome occurs. The [[tenets#^no-many-worlds|No Many Worlds]] tenet holds that outcomes are genuinely selected, not merely experienced in branching universes. Consciousness remains a candidate for what does the selecting.
 
 ## The Tegmark-Hameroff Debate
 
@@ -130,7 +130,7 @@ This shifts the question from "can coherence survive?" to "can selection cycles 
 
 [[illusionism|Illusionists]] like Daniel Dennett and Keith Frankish might dismiss the entire quantum consciousness framework as unnecessary. If consciousness is an introspective illusion—if there's nothing phenomenal that needs explaining—then there's no work for quantum mechanics to do at the mind-matter interface. The apparent "hard problem" dissolves, and with it the motivation for seeking consciousness-physics interaction.
 
-the project's response: illusionism faces its own explanatory burden. The "illusion" of phenomenal consciousness must itself be explained—and this "illusion problem" may be as difficult as the hard problem it was meant to dissolve. As Raymond Tallis observes, "Misrepresentation presupposes presentation"—to be under an illusion, something must be experiencing the illusion. Illusionism appears to invoke experience while denying it.
+the site's response: illusionism faces its own explanatory burden. The "illusion" of phenomenal consciousness must itself be explained—and this "illusion problem" may be as difficult as the hard problem it was meant to dissolve. As Raymond Tallis observes, "Misrepresentation presupposes presentation"—to be under an illusion, something must be experiencing the illusion. Illusionism appears to invoke experience while denying it.
 
 More directly: the decoherence debate is independent of the illusionism debate. Even if consciousness were "merely" an introspective representation (as illusionists claim), the question of whether biological systems can sustain quantum effects remains empirical. The evidence surveyed here—photosynthesis, magnetoreception, enzyme catalysis—stands regardless of one's position on the hard problem. What the evidence challenges is the assumption that warm, wet systems must be classical.
 
@@ -144,7 +144,7 @@ Whitehead's framework doesn't depend on specific decoherence timescales because 
 
 ## What Would Challenge This View?
 
-the project's position on decoherence would face serious difficulty if:
+the site's position on decoherence would face serious difficulty if:
 
 1. **Quantum biology proves non-functional**: If all biological quantum effects turn out to be epiphenomenal—mere side effects that natural selection never exploited—the analogy between quantum navigation (magnetoreception) and quantum consciousness weakens. Currently, magnetoreception provides strong evidence that evolution *can* optimise quantum coherence for function.
 
@@ -152,13 +152,13 @@ the project's position on decoherence would face serious difficulty if:
 
 3. **Neural quantum effects are conclusively ruled out**: If experiments definitively demonstrate that no quantum effects survive in neural tissue—not in microtubules, not in nuclear spins, not anywhere—the physical basis for quantum consciousness collapses. Current evidence is mixed but increasingly favourable; a decisive negative result would require major revision.
 
-4. **Many-Worlds proves correct**: If the [[many-worlds]] interpretation were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. The measurement problem dissolves differently, and consciousness has no role in determining outcomes. the project's [[tenets#^no-many-worlds|No Many Worlds]] tenet would fail.
+4. **Many-Worlds proves correct**: If the [[many-worlds]] interpretation were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. The measurement problem dissolves differently, and consciousness has no role in determining outcomes. the site's [[tenets#^no-many-worlds|No Many Worlds]] tenet would fail.
 
 5. **Decoherence solves the measurement problem**: If a fully satisfactory account of definite outcomes emerges that requires only decoherence (no consciousness, no objective collapse, no hidden variables), the logical opening for consciousness at collapse closes. Current physics doesn't provide this—decoherence selects bases, not outcomes—but future developments could change the landscape.
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
-the project's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness influences quantum outcomes without injecting energy. The decoherence objection challenges whether quantum effects can persist long enough in the brain for this to work.
+the site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness influences quantum outcomes without injecting energy. The decoherence objection challenges whether quantum effects can persist long enough in the brain for this to work.
 
 This research suggests three responses:
 
@@ -168,7 +168,7 @@ This research suggests three responses:
 
 **Third**, the Zeno mechanism offers a path that doesn't require coherence to survive. Rapid attentional observation could maintain states without sustained superposition.
 
-The decoherence objection is a serious empirical challenge, not a philosophical refutation. Recent experiments have weakened it considerably. The quantum-classical boundary keeps receding, and no principled barrier has been found. the project's tenets remain defensible: consciousness operating at quantum indeterminacies is not ruled out by current physics.
+The decoherence objection is a serious empirical challenge, not a philosophical refutation. Recent experiments have weakened it considerably. The quantum-classical boundary keeps receding, and no principled barrier has been found. the site's tenets remain defensible: consciousness operating at quantum indeterminacies is not ruled out by current physics.
 
 The [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] tenet is relevant here. We assumed warm macroscopic systems must be classical because that matched our intuitions and simplified our models. Nature is proving less accommodating. Simplicity is a heuristic, not a guarantee.
 
@@ -182,7 +182,7 @@ The [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] tenet is releva
 - [[illusionism]] — The eliminativist challenge to consciousness studies
 - [[many-worlds]] — Arguments against the interpretation that dissolves the measurement problem differently
 - [[interactionist-dualism]] — The broader framework
-- [[tenets]] — the project's foundational commitments
+- [[tenets]] — the site's foundational commitments
 - [[decoherence-macroscopic-superposition-2026-01-14]] — Detailed research notes
 
 ## References

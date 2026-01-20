@@ -28,7 +28,7 @@ last_curated: null
 
 ## Executive Summary
 
-The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the most influential arguments against physicalism. Using the "Mary's Room" thought experiment, it argues that complete physical knowledge is insufficient for knowing what experiences are like—therefore non-physical facts exist. While Jackson himself later rejected the argument, it remains actively debated. Major physicalist responses include Lewis's ability hypothesis (Mary gains know-how, not propositional knowledge) and the phenomenal concepts strategy (Mary gains new concepts for old facts). The argument strongly supports the project's Dualism tenet and connects directly to the explanatory gap literature.
+The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the most influential arguments against physicalism. Using the "Mary's Room" thought experiment, it argues that complete physical knowledge is insufficient for knowing what experiences are like—therefore non-physical facts exist. While Jackson himself later rejected the argument, it remains actively debated. Major physicalist responses include Lewis's ability hypothesis (Mary gains know-how, not propositional knowledge) and the phenomenal concepts strategy (Mary gains new concepts for old facts). The argument strongly supports the site's Dualism tenet and connects directly to the explanatory gap literature.
 
 ## Key Sources
 
@@ -71,7 +71,7 @@ The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the 
   - Complete physical knowledge leaves phenomenal knowledge unaddressed
   - The learning claim is intuitively compelling
   - If physicalism were true, Mary would already know everything about color experience
-- **Relation to site tenets**: Strongly supports Dualism tenet. The argument directly establishes that physical facts cannot capture what the project calls qualia—the qualitative character of experience that the project holds to be irreducible.
+- **Relation to site tenets**: Strongly supports Dualism tenet. The argument directly establishes that physical facts cannot capture what the site calls qualia—the qualitative character of experience that the site holds to be irreducible.
 
 ### The Ability Hypothesis (Physicalist Response)
 - **Proponents**: David Lewis (1983, 1988), Laurence Nemirow (1980, 1990)
@@ -89,7 +89,7 @@ The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the 
   - Phenomenal concepts are recognitional/demonstrative, requiring experience for acquisition
   - Same fact, different conceptualization (like "water" and "H₂O")
   - Explains the cognitive significance of Mary's discovery without dualism
-- **Relation to site tenets**: Conflicts with Dualism but represents the "most sophisticated physicalist response." the project's treatment of phenomenal-concepts-strategy engages this through Chalmers's master argument dilemma.
+- **Relation to site tenets**: Conflicts with Dualism but represents the "most sophisticated physicalist response." the site's treatment of phenomenal-concepts-strategy engages this through Chalmers's master argument dilemma.
 
 ### Chalmers's Two-Dimensional Defense
 - **Proponents**: David Chalmers (1996, 2003, 2009)
@@ -98,7 +98,7 @@ The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the 
   - Primary intensions of phenomenal and physical concepts differ
   - If (P & ¬Q) is conceivable, zombies are metaphysically possible
   - The conceivability-possibility link establishes dualism
-- **Relation to site tenets**: Strongly supports Dualism. Chalmers's framework provides the formal apparatus connecting the knowledge argument to the zombie argument and conceivability arguments the project already endorses.
+- **Relation to site tenets**: Strongly supports Dualism. Chalmers's framework provides the formal apparatus connecting the knowledge argument to the zombie argument and conceivability arguments the site already endorses.
 
 ### Jackson's Later Physicalism (Self-Rejection)
 - **Proponents**: Jackson (1995 postscript, 2003, 2007, 2019, 2023)
@@ -107,7 +107,7 @@ The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the 
   - Epiphenomenalism (which his original argument implied) makes knowledge of qualia impossible
   - Strong representationalism explains phenomenal character in physical terms
   - No suitable referent exists for "like this" in phenomenal reports
-- **Relation to site tenets**: Jackson's rejection conflicts with Dualism, but the project notes his self-refutation doesn't undermine the argument's force—others (Chalmers, Nida-Rümelin) continue to defend it. In 2023 Jackson still acknowledged "the argument should be addressed really seriously if you are a physicalist."
+- **Relation to site tenets**: Jackson's rejection conflicts with Dualism, but the site notes his self-refutation doesn't undermine the argument's force—others (Chalmers, Nida-Rümelin) continue to defend it. In 2023 Jackson still acknowledged "the argument should be addressed really seriously if you are a physicalist."
 
 ## Key Debates
 
@@ -146,11 +146,11 @@ The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the 
 
 Based on this research, an article could:
 
-1. **Present the argument as a cornerstone of the project's Dualism tenet** - The knowledge argument provides intuitive and philosophical support for consciousness being irreducible. Connect to existing explanatory-gap and qualia articles. This approach would align strongly with all tenets by showing physicalism's failure to capture what matters about consciousness.
+1. **Present the argument as a cornerstone of the site's Dualism tenet** - The knowledge argument provides intuitive and philosophical support for consciousness being irreducible. Connect to existing explanatory-gap and qualia articles. This approach would align strongly with all tenets by showing physicalism's failure to capture what matters about consciousness.
 
-2. **Engage the phenomenal concepts strategy seriously before rejecting it** - Given that the project already has a phenomenal-concepts-strategy article, the knowledge argument article could show how Chalmers's master argument dilemma applies: PCS either fails to explain Mary's situation or concedes something non-physical. This strengthens the project's position.
+2. **Engage the phenomenal concepts strategy seriously before rejecting it** - Given that the site already has a phenomenal-concepts-strategy article, the knowledge argument article could show how Chalmers's master argument dilemma applies: PCS either fails to explain Mary's situation or concedes something non-physical. This strengthens the site's position.
 
-3. **Use Jackson's self-rejection as illustrative rather than decisive** - The fact that the argument's creator rejected it, yet acknowledged it requires serious engagement, shows the argument's force. the project could note that Jackson's epiphenomenalism worry actually supports Bidirectional Interaction tenet: if epiphenomenalism makes knowledge of qualia impossible, consciousness must be causally efficacious.
+3. **Use Jackson's self-rejection as illustrative rather than decisive** - The fact that the argument's creator rejected it, yet acknowledged it requires serious engagement, shows the argument's force. the site could note that Jackson's epiphenomenalism worry actually supports Bidirectional Interaction tenet: if epiphenomenalism makes knowledge of qualia impossible, consciousness must be causally efficacious.
 
 When writing the article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references

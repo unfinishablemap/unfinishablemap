@@ -24,7 +24,7 @@ last_curated: null
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Missing "What Would Challenge This View?" section**: Added comprehensive falsifiability section with five specific conditions that would undermine the project's interpretation.
+- **Missing "What Would Challenge This View?" section**: Added comprehensive falsifiability section with five specific conditions that would undermine the site's interpretation.
 
 ### Medium Issues Found
 - **No illusionist engagement**: Added "The Illusionist Challenge" subsection addressing Dennett/Frankish objections and providing counter-arguments about the illusion problem and introspective reliability.
@@ -48,7 +48,7 @@ last_curated: null
 ### Enhancements Made
 - **Process Philosophy Perspective**: Added new section presenting Whitehead's actual occasions framework and how it illuminates NDEs without classical Cartesian dualism.
 - **Expanded Minimal Quantum Interaction tenet**: Added discussion of how quantum interface might become more fluid during brain compromise.
-- **Falsifiability section**: Five specific testable conditions that would challenge the project's interpretation.
+- **Falsifiability section**: Five specific testable conditions that would challenge the site's interpretation.
 
 ### Cross-links Added
 - [[illusionism]] - strongest materialist challenge

@@ -29,7 +29,7 @@ topics:
 
 Functionalism holds that mental states are defined by their functional roles—what they do rather than what they're made of. Pain is whatever state plays the pain role: caused by tissue damage, producing avoidance behavior, generating distress. On this view, consciousness is multiply realizable: the same mental state could occur in neurons, silicon, or alien biochemistry, provided the functional organization is right.
 
-the project's [Dualism](/tenets/#dualism) tenet rejects this. Consciousness is not reducible to functional organization—something beyond causal structure determines whether and how experience occurs. This page presents five arguments against functionalism.
+the site's [Dualism](/tenets/#dualism) tenet rejects this. Consciousness is not reducible to functional organization—something beyond causal structure determines whether and how experience occurs. This page presents five arguments against functionalism.
 
 ## Argument 1: The Absent Qualia Argument
 
@@ -131,7 +131,7 @@ Why should other functional roles be different? Why should playing the "pain rol
 
 ### The Substrate May Matter
 
-the project's framework suggests consciousness requires specific physical conditions—not just any substrate that implements the right function. Quantum-level interactions, particular biological structures, or other physical features may be necessary for mind-matter interface.
+the site's framework suggests consciousness requires specific physical conditions—not just any substrate that implements the right function. Quantum-level interactions, particular biological structures, or other physical features may be necessary for mind-matter interface.
 
 If so, multiple realizability is false for consciousness. A digital computer running the "right program" wouldn't be conscious, because it lacks the physical features that enable consciousness to interact with matter. Function alone is insufficient.
 
@@ -187,7 +187,7 @@ Many useful scientific frameworks are incomplete or false at deeper levels. Newt
 
 ## Relation to Site Perspective
 
-The arguments against functionalism directly support the project's framework.
+The arguments against functionalism directly support the site's framework.
 
 ### The Dualism Tenet
 
@@ -197,13 +197,13 @@ If consciousness is not reducible to physical processes, it's not reducible to f
 
 If consciousness is merely functional organization, it's not clear how it could "do" anything separate from the physical processes that realize the function. The causal work is done by the substrate; the functional description is just a way of categorizing it.
 
-But the project holds that consciousness causally influences physical outcomes—at quantum indeterminacies, where physics leaves room. This requires consciousness to be something with its own causal efficacy, not just a pattern description of physical causation.
+But the site holds that consciousness causally influences physical outcomes—at quantum indeterminacies, where physics leaves room. This requires consciousness to be something with its own causal efficacy, not just a pattern description of physical causation.
 
 ### The AI Consciousness Question
 
-From the project's perspective, purely computational systems—no matter how sophisticated—cannot be conscious. Consciousness requires something computers lack. This doesn't mean nothing artificial could be conscious; perhaps engineered biological systems or quantum hybrids could be. But a digital computer running the right program? No.
+From the site's perspective, purely computational systems—no matter how sophisticated—cannot be conscious. Consciousness requires something computers lack. This doesn't mean nothing artificial could be conscious; perhaps engineered biological systems or quantum hybrids could be. But a digital computer running the right program? No.
 
-If functionalism is true, there's no barrier to machine consciousness. If the project's dualism is true, there is. The Chinese Room argument suggests the barrier is real.
+If functionalism is true, there's no barrier to machine consciousness. If the site's dualism is true, there is. The Chinese Room argument suggests the barrier is real.
 
 ## Conclusion
 
@@ -217,7 +217,7 @@ Functionalism fails on multiple fronts:
 
 These arguments converge on a single conclusion: consciousness is not a matter of functional organization. What it's like to be conscious—the felt quality of experience—is not captured by causal structure. Something else determines whether and how experience occurs.
 
-the project's framework takes this seriously. Consciousness is irreducible to physics and to function. It interacts with physical systems through quantum-level mechanisms that function-based theories cannot capture. The failure of functionalism points toward dualism—not as dogma, but as the view that takes consciousness most seriously.
+the site's framework takes this seriously. Consciousness is irreducible to physics and to function. It interacts with physical systems through quantum-level mechanisms that function-based theories cannot capture. The failure of functionalism points toward dualism—not as dogma, but as the view that takes consciousness most seriously.
 
 ## Further Reading
 

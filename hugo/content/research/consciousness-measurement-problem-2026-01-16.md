@@ -23,11 +23,11 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Research notes on consciousness and the measurement problem in quantum mechanics. Gathered to strengthen the project's engagement with the Minimal Quantum Interaction tenet and clarify the relationship between consciousness, wave function collapse, and the problem of definite outcomes.
+Research notes on consciousness and the measurement problem in quantum mechanics. Gathered to strengthen the site's engagement with the Minimal Quantum Interaction tenet and clarify the relationship between consciousness, wave function collapse, and the problem of definite outcomes.
 
 ## Executive Summary
 
-The measurement problem asks why quantum systems yield definite outcomes rather than remaining in superposition. Several interpretations assign consciousness a role: von Neumann-Wigner (consciousness causes collapse), Stapp's quantum Zeno (mental effort sustains neural patterns), and tangentially Penrose-Hameroff (collapse gives rise to consciousness). Objective collapse theories (GRW, CSL, Diosi-Penrose) provide alternatives that don't require consciousness but don't exclude a role either. The key finding for the project: quantum indeterminacy creates a genuine "loophole" in causal closure—while collapse theories fix probabilities, they don't determine which outcome actualizes, leaving conceptual space for mind-matter interaction without violating physics.
+The measurement problem asks why quantum systems yield definite outcomes rather than remaining in superposition. Several interpretations assign consciousness a role: von Neumann-Wigner (consciousness causes collapse), Stapp's quantum Zeno (mental effort sustains neural patterns), and tangentially Penrose-Hameroff (collapse gives rise to consciousness). Objective collapse theories (GRW, CSL, Diosi-Penrose) provide alternatives that don't require consciousness but don't exclude a role either. The key finding for the site: quantum indeterminacy creates a genuine "loophole" in causal closure—while collapse theories fix probabilities, they don't determine which outcome actualizes, leaving conceptual space for mind-matter interaction without violating physics.
 
 ## Key Sources
 
@@ -93,7 +93,7 @@ The measurement problem asks why quantum systems yield definite outcomes rather 
   - Von Neumann showed the "cut" can be placed anywhere in the measurement chain
   - The chain must terminate somewhere—consciousness is the natural terminus
   - Explains why we never experience superpositions
-- **Relation to site tenets**: Strongly supports Bidirectional Interaction, but historically abandoned by Wigner himself due to solipsism concerns. the project's more modest "Minimal Quantum Interaction" avoids these problems by not requiring consciousness to be the *only* collapse mechanism.
+- **Relation to site tenets**: Strongly supports Bidirectional Interaction, but historically abandoned by Wigner himself due to solipsism concerns. the site's more modest "Minimal Quantum Interaction" avoids these problems by not requiring consciousness to be the *only* collapse mechanism.
 
 ### 2. Quantum Zeno Effect (Stapp)
 - **Proponents**: Henry Stapp
@@ -102,7 +102,7 @@ The measurement problem asks why quantum systems yield definite outcomes rather 
   - Orthodox von Neumann QM already includes conscious choices
   - Mental effort can protract the lifetime of desired neural assemblies
   - Hybrid ontology: mental and physical are co-equal aspects of events
-- **Relation to site tenets**: Very close alignment. Stapp's framework is essentially what the project's Minimal Quantum Interaction and Bidirectional Interaction tenets describe. The main difference: Stapp works within orthodox QM, while the project remains neutral on specific mechanisms.
+- **Relation to site tenets**: Very close alignment. Stapp's framework is essentially what the site's Minimal Quantum Interaction and Bidirectional Interaction tenets describe. The main difference: Stapp works within orthodox QM, while the site remains neutral on specific mechanisms.
 
 ### 3. Objective Collapse (GRW/CSL)
 - **Proponents**: Ghirardi, Rimini, Weber, Pearle, Bassi
@@ -121,7 +121,7 @@ The measurement problem asks why quantum systems yield definite outcomes rather 
   - Quantum gravity requires resolution of superposed geometries
   - Collapse time inversely proportional to energy difference
   - In Orch OR: microtubule collapse corresponds to conscious moments
-- **Relation to site tenets**: Interesting but problematic. The simplest Diosi-Penrose model has been experimentally constrained (Donadi et al. 2021). Orch OR's claim that collapse *causes* consciousness inverts the project's direction of causation.
+- **Relation to site tenets**: Interesting but problematic. The simplest Diosi-Penrose model has been experimentally constrained (Donadi et al. 2021). Orch OR's claim that collapse *causes* consciousness inverts the site's direction of causation.
 
 ### 5. Many-Worlds Interpretation
 - **Proponents**: Everett, DeWitt, Carroll
@@ -130,7 +130,7 @@ The measurement problem asks why quantum systems yield definite outcomes rather 
   - Preserves unitary evolution (no special measurement dynamics)
   - Explains apparent randomness via self-location uncertainty
   - Avoids measurement problem entirely
-- **Relation to site tenets**: **Ruled out by No Many Worlds tenet**. the project explicitly rejects this interpretation due to ontological proliferation and unanswerable indexical questions.
+- **Relation to site tenets**: **Ruled out by No Many Worlds tenet**. the site explicitly rejects this interpretation due to ontological proliferation and unanswerable indexical questions.
 
 ### 6. QBism / Relational QM
 - **Proponents**: Fuchs, Mermin (QBism); Rovelli (RQM)
@@ -139,7 +139,7 @@ The measurement problem asks why quantum systems yield definite outcomes rather 
   - Both embrace "relative facts"—outcomes relative to observers
   - QBism: collapse is subjective belief update (requires conscious agents)
   - RQM: more naturalized—any physical system can be an "observer"
-- **Relation to site tenets**: Mixed. QBism's subjectivism conflicts with the project's realism about consciousness. RQM's relationalism is interesting but doesn't preserve the strong causal role the project assigns to consciousness.
+- **Relation to site tenets**: Mixed. QBism's subjectivism conflicts with the site's realism about consciousness. RQM's relationalism is interesting but doesn't preserve the strong causal role the site assigns to consciousness.
 
 ## Key Debates
 
@@ -156,7 +156,7 @@ The measurement problem asks why quantum systems yield definite outcomes rather 
 ### Consciousness: Cause, Effect, or Irrelevant?
 - **Sides**: Wigner (early), Stapp vs. GRW theorists, many-worlders
 - **Core disagreement**: Is consciousness necessary for collapse, produced by collapse, or irrelevant?
-- **Current state**: Ongoing. Mainstream physics dismisses consciousness-causes-collapse, but the philosophical question of why we experience definite outcomes remains. the project's position (consciousness influences but doesn't solely cause collapse at indeterminacies) navigates between extremes.
+- **Current state**: Ongoing. Mainstream physics dismisses consciousness-causes-collapse, but the philosophical question of why we experience definite outcomes remains. the site's position (consciousness influences but doesn't solely cause collapse at indeterminacies) navigates between extremes.
 
 ### The Quantum-Classical Transition
 - **Sides**: Decoherentists vs. collapse theorists vs. many-worlders
@@ -188,7 +188,7 @@ The measurement problem provides the conceptual foundation for this tenet. Key p
 1. **Quantum indeterminacy is real**: The Born rule gives probabilities, not determined outcomes
 2. **Causal closure has a loophole**: Physics fixes probabilities but not which outcome actualizes
 3. **No energy violation**: Selecting among equi-energetic outcomes adds no energy
-4. **Conservative approach**: the project proposes the *minimal* such influence, not grandiose psychokinesis
+4. **Conservative approach**: the site proposes the *minimal* such influence, not grandiose psychokinesis
 
 ### Bidirectional Interaction
 The measurement problem shows physics itself may require observer involvement:
@@ -198,7 +198,7 @@ The measurement problem shows physics itself may require observer involvement:
 4. **Self-stultification**: If we discuss QM, consciousness must influence physics (to move our mouths)
 
 ### No Many Worlds
-The measurement problem motivates many-worlds as an escape from collapse. the project rejects this:
+The measurement problem motivates many-worlds as an escape from collapse. the site rejects this:
 1. **Ontological proliferation**: Branching creates vast redundancy
 2. **Indexical problem**: Why am I *this* branch-instance?
 3. **The cost is too high**: Better to accept collapse than infinite splitting
@@ -213,11 +213,11 @@ The measurement problem shows parsimony fails in quantum foundations:
 
 Based on this research, an article could:
 
-1. **"The Measurement Problem and Mental Causation"**: Explain how the problem of definite outcomes creates space for consciousness without violating physics. Show that the project's Minimal Quantum Interaction isn't ad hoc—it addresses a genuine gap in physical explanation.
+1. **"The Measurement Problem and Mental Causation"**: Explain how the problem of definite outcomes creates space for consciousness without violating physics. Show that the site's Minimal Quantum Interaction isn't ad hoc—it addresses a genuine gap in physical explanation.
 
 2. **"Why Decoherence Doesn't Close the Gap"**: Explain what decoherence does and doesn't solve. This addresses a common objection that "environment explains everything."
 
-3. **"Stapp's Quantum Zeno Framework"**: Dedicated treatment of the approach closest to the project's position. Show how orthodox QM already includes a role for conscious choice.
+3. **"Stapp's Quantum Zeno Framework"**: Dedicated treatment of the approach closest to the site's position. Show how orthodox QM already includes a role for conscious choice.
 
 When writing the article, follow `obsidian/project/writing-style.md` for LLM-optimization (front-load key points), tenet alignment, and avoidance of excessive background.
 

@@ -15,7 +15,7 @@ ai_generated_date:
 last_curated:
 ---
 
-This section presents arguments against positions that conflict with the project's foundational tenets. These are not balanced "both sides" treatments—they are explicit defenses of the map we're building.
+This section presents arguments against positions that conflict with the site's foundational tenets. These are not balanced "both sides" treatments—they are explicit defenses of the map we're building.
 
 ## Arguments
 
@@ -44,7 +44,7 @@ A cumulative case for interactionist dualism: consciousness is irreducible to ph
 
 ### Against Many-Worlds
 
-The many-worlds interpretation of quantum mechanics claims to solve the measurement problem by positing that all quantum outcomes occur in branching universes. This page argues that many-worlds fails on multiple fronts and is incompatible with the project's framework.
+The many-worlds interpretation of quantum mechanics claims to solve the measurement problem by positing that all quantum outcomes occur in branching universes. This page argues that many-worlds fails on multiple fronts and is incompatible with the site's framework.
 
 **Key claims:**
 - Ontological extravagance: mathematical simplicity purchased with metaphysical inflation

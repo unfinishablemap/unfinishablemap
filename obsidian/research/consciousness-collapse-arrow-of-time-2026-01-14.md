@@ -35,7 +35,7 @@ last_curated: null
 
 ## Executive Summary
 
-The relationship between wavefunction collapse and the arrow of time is one of the deepest unsolved problems in physics. Quantum mechanics' fundamental equations are time-symmetric—they work equally well forward or backward—yet measurement appears to introduce irreversibility. If consciousness causes or participates in collapse (per the project's tenets), this has direct implications for whether collapse defines an independent arrow of time. Key findings: (1) Collapse does appear to break time-reversal symmetry, but whether this constitutes a fundamental arrow independent of thermodynamics remains debated. (2) Time-symmetric interpretations (Aharonov's TSVF, Cramer's transactional interpretation) treat collapse as emerging from boundary conditions at both past and future. (3) The "un-collapse" question reveals deep tension: decoherence is theoretically reversible but practically irreversible. (4) The Many-Worlds interpretation avoids the arrow-of-time problem by denying collapse occurs at all. (5) Penrose's objective reduction theory explicitly connects collapse to time asymmetry through gravitational effects.
+The relationship between wavefunction collapse and the arrow of time is one of the deepest unsolved problems in physics. Quantum mechanics' fundamental equations are time-symmetric—they work equally well forward or backward—yet measurement appears to introduce irreversibility. If consciousness causes or participates in collapse (per the site's tenets), this has direct implications for whether collapse defines an independent arrow of time. Key findings: (1) Collapse does appear to break time-reversal symmetry, but whether this constitutes a fundamental arrow independent of thermodynamics remains debated. (2) Time-symmetric interpretations (Aharonov's TSVF, Cramer's transactional interpretation) treat collapse as emerging from boundary conditions at both past and future. (3) The "un-collapse" question reveals deep tension: decoherence is theoretically reversible but practically irreversible. (4) The Many-Worlds interpretation avoids the arrow-of-time problem by denying collapse occurs at all. (5) Penrose's objective reduction theory explicitly connects collapse to time asymmetry through gravitational effects.
 
 ## Key Sources
 
@@ -245,7 +245,7 @@ GRW-style collapse theories introduce time asymmetry that is *not* derived from 
 
 Penrose argues gravity is "the root of the arrow of time"—gravitational effects in collapse introduce irreversibility. This would be independent of thermodynamics in mechanism but may trace to the same cosmological origin.
 
-**For the project**: If consciousness participates in collapse, and collapse defines an arrow, then consciousness is implicated in temporal directionality—not just experiencing it but helping constitute it.
+**For the site**: If consciousness participates in collapse, and collapse defines an arrow, then consciousness is implicated in temporal directionality—not just experiencing it but helping constitute it.
 
 ### (2) If consciousness selects outcomes at collapse, does this inherently distinguish past from future?
 
@@ -255,7 +255,7 @@ Under standard collapse interpretations, the selection creates an irreversible t
 
 However, under time-symmetric interpretations (TSVF, transactional), the picture is subtler. Consciousness's "selection" might be atemporal—determining which transaction completes across time rather than at a moment. The apparent past-future distinction would emerge from the pattern of selections rather than being fundamental.
 
-**For the project**: This connects directly to the retrocausality article. If consciousness selects atemporally, the Libet objection dissolves—consciousness need not temporally precede the neural activity it shapes.
+**For the site**: This connects directly to the retrocausality article. If consciousness selects atemporally, the Libet objection dissolves—consciousness need not temporally precede the neural activity it shapes.
 
 ### (3) What would "un-collapse" even mean—superposition restoration?
 
@@ -269,7 +269,7 @@ However, under time-symmetric interpretations (TSVF, transactional), the picture
 
 - **Experimental nuance**: Weak measurements show partial "uncollapse" is possible—a probabilistic return toward superposition. The ratio of collapse to uncollapse probability defines an arrow of time for that process.
 
-**For the project**: If collapse is real and consciousness participates, then consciousness's choices are genuinely irreversible—they actualize one possibility and exclude others permanently. This gives consciousness a kind of creative power over what becomes real.
+**For the site**: If collapse is real and consciousness participates, then consciousness's choices are genuinely irreversible—they actualize one possibility and exclude others permanently. This gives consciousness a kind of creative power over what becomes real.
 
 ### (4) Does the time-symmetry of quantum equations conflict with irreversible collapse?
 
@@ -285,9 +285,9 @@ The Schrödinger equation is time-symmetric—run it backward and it's still val
 - **TSVF/Transactional**: Collapse is not a moment but a boundary-constraint satisfaction. Time-symmetry is preserved fundamentally; asymmetry is perspectival.
 - **Decoherence**: Asymmetry comes from environment, not collapse itself. Time-symmetry is preserved but hidden in practice.
 
-**For the project**: The tension is real and represents a genuine gap in physics—exactly the opening the project's framework exploits for consciousness's role.
+**For the site**: The tension is real and represents a genuine gap in physics—exactly the opening the site's framework exploits for consciousness's role.
 
-### (5) How does this relate to the project's rejection of Many Worlds (where collapse doesn't occur)?
+### (5) How does this relate to the site's rejection of Many Worlds (where collapse doesn't occur)?
 
 **Answer: Directly and foundationally.**
 
@@ -298,7 +298,7 @@ But Many-Worlds is rejected by the No Many Worlds tenet because:
 - It provides no resources for consciousness to play a selecting role
 - It dissolves the measurement problem rather than solving it
 
-the project's framework requires collapse to be real because that's where consciousness acts (per Minimal Quantum Interaction and Bidirectional Interaction). If collapse is real, it introduces time asymmetry. If consciousness participates in collapse, consciousness is connected to the emergence of temporal direction.
+the site's framework requires collapse to be real because that's where consciousness acts (per Minimal Quantum Interaction and Bidirectional Interaction). If collapse is real, it introduces time asymmetry. If consciousness participates in collapse, consciousness is connected to the emergence of temporal direction.
 
 The rejection of Many-Worlds is thus not arbitrary—it's necessary for the framework to have any traction. Only if collapse is real does consciousness have a role; only if consciousness has a role can the hard problem be addressed through mind-matter interaction.
 
@@ -308,7 +308,7 @@ Based on this research, an article could:
 
 1. **"Collapse and the Arrow of Time: Why Consciousness May Constitute Temporality"** — Argue that if consciousness participates in collapse, and collapse introduces time asymmetry, then conscious observation is not merely within time but constitutive of it. This would strengthen the Bidirectional Interaction tenet by showing consciousness's causal role extends to the structure of temporal experience itself. *Risk*: Potentially overreaching; would need careful hedging.
 
-2. **"Time-Symmetric Quantum Mechanics and Consciousness: A Deeper Harmony"** — Explore how time-symmetric interpretations (TSVF, transactional) actually support the project's framework more elegantly than collapse-realism. Consciousness's selection would be atemporal, making the Libet problem irrelevant and giving consciousness a kind of transcendence over linear time. *Advantage*: Connects to and extends retrocausality article.
+2. **"Time-Symmetric Quantum Mechanics and Consciousness: A Deeper Harmony"** — Explore how time-symmetric interpretations (TSVF, transactional) actually support the site's framework more elegantly than collapse-realism. Consciousness's selection would be atemporal, making the Libet problem irrelevant and giving consciousness a kind of transcendence over linear time. *Advantage*: Connects to and extends retrocausality article.
 
 3. **"What Un-Collapse Reveals About Consciousness's Role"** — Focus on the question of irreversibility. If collapse cannot be undone, then consciousness's selections are genuinely creative—actualizing one possibility and permanently excluding others. This would give consciousness a unique status as the source of factuality. *Philosophical depth*: Connects to free will and responsibility discussions.
 

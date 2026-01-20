@@ -22,7 +22,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Research notes on emergence in consciousness studies, covering the strong/weak emergence distinction, Kim's causal exclusion argument, and implications for the project's anti-reductionist framework.
+Research notes on emergence in consciousness studies, covering the strong/weak emergence distinction, Kim's causal exclusion argument, and implications for the site's anti-reductionist framework.
 
 ## Key Findings
 
@@ -103,31 +103,31 @@ Three dimensions of consciousness resist reduction:
 
 **Fodor's multiple realizability:** Mental states can be realized by different physical states across organisms, blocking straightforward reduction of psychological to physical theories.
 
-### Emergence and the project's Framework
+### Emergence and the site's Framework
 
 **Compatibility:**
 
-the project's framework is best understood as a form of strong emergentism—consciousness has causal powers that are genuinely novel and not reducible to physical processes. Key alignments:
+the site's framework is best understood as a form of strong emergentism—consciousness has causal powers that are genuinely novel and not reducible to physical processes. Key alignments:
 
 1. **Dualism tenet:** Consciousness is not reducible to physical processes—this *is* strong emergence.
 
-2. **Causal closure rejection:** the project explicitly rejects causal closure via the Minimal Quantum Interaction tenet. This is precisely what strong emergentism requires.
+2. **Causal closure rejection:** the site explicitly rejects causal closure via the Minimal Quantum Interaction tenet. This is precisely what strong emergentism requires.
 
-3. **Bidirectional Interaction:** the project affirms downward causation—consciousness causally influences physical outcomes.
+3. **Bidirectional Interaction:** the site affirms downward causation—consciousness causally influences physical outcomes.
 
-4. **Quantum opening:** Unlike classical emergentism, the project specifies *where* strong emergence operates: at quantum indeterminacies where physics is incomplete.
+4. **Quantum opening:** Unlike classical emergentism, the site specifies *where* strong emergence operates: at quantum indeterminacies where physics is incomplete.
 
 **Important distinction:**
 
-the project's position is stronger than most weak emergentist positions but differs from classical British emergentism in providing a *mechanism* for how non-physical causation operates. The quantum framework answers how downward causation could occur without violating conservation laws—consciousness selects among outcomes physics leaves undetermined, not injecting energy but biasing probabilities.
+the site's position is stronger than most weak emergentist positions but differs from classical British emergentism in providing a *mechanism* for how non-physical causation operates. The quantum framework answers how downward causation could occur without violating conservation laws—consciousness selects among outcomes physics leaves undetermined, not injecting energy but biasing probabilities.
 
 **O'Connor-Wong connection:**
 
-O'Connor and Wong's account of emergent properties with novel causal powers aligns closely with the project's framework. Their "structural triggering conditions" parallel how quantum indeterminacies in neural systems provide openings for consciousness to act. The difference: the project specifies the quantum mechanism they leave abstract.
+O'Connor and Wong's account of emergent properties with novel causal powers aligns closely with the site's framework. Their "structural triggering conditions" parallel how quantum indeterminacies in neural systems provide openings for consciousness to act. The difference: the site specifies the quantum mechanism they leave abstract.
 
 ### Why Emergence Language Matters
 
-The emergence framework provides vocabulary for articulating the project's position to philosophically sophisticated audiences:
+The emergence framework provides vocabulary for articulating the site's position to philosophically sophisticated audiences:
 
 - "Strong emergence" signals irreducibility without requiring classical substance dualism
 - "Downward causation" names what the Bidirectional Interaction tenet affirms
@@ -141,9 +141,9 @@ An article could usefully:
 1. Explain weak vs. strong emergence distinction
 2. Present consciousness as the paradigm strongly emergent phenomenon
 3. Address Kim's exclusion argument
-4. Show how the project's quantum framework resolves the exclusion problem
+4. Show how the site's quantum framework resolves the exclusion problem
 5. Connect to O'Connor-Wong's account of emergent causal powers
-6. Distinguish the project's position from:
+6. Distinguish the site's position from:
    - Weak emergentism (which preserves physicalism)
    - Classical British emergentism (which lacked mechanism)
    - Panpsychism (different route to mental causation)

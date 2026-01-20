@@ -39,7 +39,7 @@ topics:
 
 Agent causation holds that conscious agents—understood as persisting substances rather than collections of events—directly cause their actions. The agent is the causal source, not reducible to prior mental events like beliefs and desires. This positions agents as initiators of causal chains, not merely links in chains that stretch back before their existence.
 
-this project's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is essentially agent-causal: consciousness genuinely selects outcomes. the project's framework specifies *how* this selection occurs—through quantum indeterminacies—while agent-causal philosophy provides the conceptual framework for *what* is happening: substances exercising irreducible causal powers.
+this site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is essentially agent-causal: consciousness genuinely selects outcomes. the site's framework specifies *how* this selection occurs—through quantum indeterminacies—while agent-causal philosophy provides the conceptual framework for *what* is happening: substances exercising irreducible causal powers.
 
 ## The Distinction: Agent vs. Event Causation
 
@@ -85,9 +85,9 @@ Agent-causal libertarians respond that the agent *does* explain the difference. 
 
 Critics find this unsatisfying. "The agent caused it" seems to push the explanatory question back rather than answer it. What about the agent explains why they caused A rather than B?
 
-### the project's Response
+### the site's Response
 
-the project's framework strengthens the agent-causal response. Consciousness doesn't randomly select quantum outcomes—it genuinely *chooses* based on reasons. The selection is neither determined (physics didn't fix the outcome) nor lucky (consciousness selected based on what matters to it).
+the site's framework strengthens the agent-causal response. Consciousness doesn't randomly select quantum outcomes—it genuinely *chooses* based on reasons. The selection is neither determined (physics didn't fix the outcome) nor lucky (consciousness selected based on what matters to it).
 
 The [luck objection article](/concepts/luck-objection/) develops this response across four dimensions:
 
@@ -105,21 +105,21 @@ This differs from the standard agent-causal response ("the agent caused it") by 
 
 Critics press further: but what explains why consciousness selected A rather than B? The [agent-causal response](/concepts/quantum-indeterminacy-free-will/#where-explanation-terminates): the agent's exercise of causal power is itself the explanation. Just as physics doesn't explain why the universe exists (taking existence as primitive), agent causation takes the agent's power to select as primitive.
 
-This isn't evasion. Explanation must terminate somewhere. "The agent selected for reasons" is a legitimate terminus—more satisfying than "it randomly happened." The agent is the source because agents are the kind of thing that can be sources. the project's framework strengthens this by showing that selection is phenomenologically distinct from lucky reception (effort vs passivity), neurally distinct (frontal theta signatures), and reasons-responsive rather than arbitrary.
+This isn't evasion. Explanation must terminate somewhere. "The agent selected for reasons" is a legitimate terminus—more satisfying than "it randomly happened." The agent is the source because agents are the kind of thing that can be sources. the site's framework strengthens this by showing that selection is phenomenologically distinct from lucky reception (effort vs passivity), neurally distinct (frontal theta signatures), and reasons-responsive rather than arbitrary.
 
-## Substance Causation and the project's Framework
+## Substance Causation and the site's Framework
 
 Lowe and O'Connor's substance causation view has profound implications. If all causation is fundamentally substances exercising powers, then consciousness causing physical events isn't metaphysically exceptional—it's how causation works generally.
 
 This reframes the [causal closure objection](/archive/arguments/interactionist-dualism/#the-causal-closure-argument). The objection assumes event causation is fundamental: every physical event must have a prior physical event cause. But if substance causation is fundamental, this assumption fails. Physics describes regularities in what substances do; it doesn't prove substances are exclusively physical.
 
-the project's quantum mechanism specifies *where* agent causation interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. The agent—the conscious substance—selects among quantum possibilities. This isn't consciousness "adding" to physical causation; it's consciousness exercising the same kind of causal power that all substances exercise, at points where physics doesn't determine the outcome.
+the site's quantum mechanism specifies *where* agent causation interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. The agent—the conscious substance—selects among quantum possibilities. This isn't consciousness "adding" to physical causation; it's consciousness exercising the same kind of causal power that all substances exercise, at points where physics doesn't determine the outcome.
 
 This framework also addresses the [pairing problem](/concepts/pairing-problem/)—what connects *this* mind to *this* body? If consciousness interfaces with physics at specific quantum-sensitive neural structures, consciousness is spatially located where those structures are. The mind is paired with the body it causally affects. Agent causation doesn't float freely; it operates through particular physical interfaces.
 
 ### The Decoherence Challenge
 
-The main physics-based objection: warm neural tissue decoheres quantum superpositions in ~10^-13 seconds (Tegmark 2000), far too fast for the 300ms attention deployment to exploit. But this calculation assumes quantum effects must persist at scales comparable to neural computation. the project's mechanism requires only that consciousness biases which quantum outcome actualizes at the moment of decoherence—not that coherence persists for macroscopic durations. Additionally, quantum biology has revealed coherence effects in warm biological systems (avian magnetoreception, photosynthetic energy transfer) that Tegmark's original calculations ruled out, suggesting the decoherence timescales may be revisable. See [decoherence](/concepts/decoherence/) for the fuller engagement.
+The main physics-based objection: warm neural tissue decoheres quantum superpositions in ~10^-13 seconds (Tegmark 2000), far too fast for the 300ms attention deployment to exploit. But this calculation assumes quantum effects must persist at scales comparable to neural computation. the site's mechanism requires only that consciousness biases which quantum outcome actualizes at the moment of decoherence—not that coherence persists for macroscopic durations. Additionally, quantum biology has revealed coherence effects in warm biological systems (avian magnetoreception, photosynthetic energy transfer) that Tegmark's original calculations ruled out, suggesting the decoherence timescales may be revisable. See [decoherence](/concepts/decoherence/) for the fuller engagement.
 
 ## Agent Causation and Sourcehood
 
@@ -127,7 +127,7 @@ Robert Kane emphasizes *sourcehood* as the core requirement for free will: the a
 
 Agent causation provides sourcehood directly. The agent is the source because the agent, as substance, initiates the causal chain. Prior events influence but don't determine; the agent determines by exercising irreducible causal power.
 
-the project's framework satisfies both of Kane's conditions for free will:
+the site's framework satisfies both of Kane's conditions for free will:
 - **Sourcehood**: Consciousness is the ultimate source because it selects which quantum outcome becomes actual
 - **Alternative possibilities**: Multiple outcomes were genuinely possible until selection occurred
 
@@ -187,7 +187,7 @@ The third finding parallels the [Libet experiments](/concepts/libet-experiments/
 
 ### The Selection-Among-Options Resolution
 
-the project's framework accommodates predictive neural states through the selection-among-options model. Pre-prompt alpha activity doesn't generate choices from nothing—it establishes the options available for selection. Stochastic neural fluctuations create a menu; consciousness selects from that menu.
+the site's framework accommodates predictive neural states through the selection-among-options model. Pre-prompt alpha activity doesn't generate choices from nothing—it establishes the options available for selection. Stochastic neural fluctuations create a menu; consciousness selects from that menu.
 
 This differs from both:
 - **Libertarian ex nihilo**: Choice created from nothing (vulnerable to luck objection)
@@ -300,13 +300,13 @@ Agent causation is falsifiable. Findings that would undermine the framework:
 
 **Solving the hard problem materialistically**: If a compelling account of why physical processes give rise to subjective experience emerged, the motivation for treating consciousness as a separate causal factor would diminish. The explanatory gap has persisted despite decades of materialist effort.
 
-**Many-worlds empirical confirmation**: If the [many-worlds interpretation](/arguments/many-worlds/) were empirically confirmed (though how this could occur is unclear), there would be no collapse for consciousness to influence—all outcomes occur in branching universes. the project's rejection of MWI is foundational to the agent-causal picture.
+**Many-worlds empirical confirmation**: If the [many-worlds interpretation](/arguments/many-worlds/) were empirically confirmed (though how this could occur is unclear), there would be no collapse for consciousness to influence—all outcomes occur in branching universes. the site's rejection of MWI is foundational to the agent-causal picture.
 
 ## Relation to Site Perspective
 
-Agent causation is the philosophical tradition to which this project belongs. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—that consciousness causally influences the physical world—is a claim of agent causation: the conscious subject, as substance, causes physical events.
+Agent causation is the philosophical tradition to which this site belongs. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—that consciousness causally influences the physical world—is a claim of agent causation: the conscious subject, as substance, causes physical events.
 
-What the project adds is mechanism. Traditional agent causation lacked an account of *where* or *how* the agent interfaces with the physical world. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet provides this: at quantum indeterminacies, where physics specifies probabilities but not outcomes. The [quantum consciousness mechanisms](/concepts/quantum-consciousness/) (Stapp, Penrose-Hameroff) describe how this might work in detail.
+What the site adds is mechanism. Traditional agent causation lacked an account of *where* or *how* the agent interfaces with the physical world. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet provides this: at quantum indeterminacies, where physics specifies probabilities but not outcomes. The [quantum consciousness mechanisms](/concepts/quantum-consciousness/) (Stapp, Penrose-Hameroff) describe how this might work in detail.
 
 The [Dualism](/tenets/#dualism) tenet is also essential. Agent causation requires the agent to be ontologically distinct from physical events—otherwise, "agent causation" collapses into event causation. Substance dualism provides this: consciousness is a substance that exercises causal powers, not a property of physical substances. Even property dualism can support agent causation if the mental properties are genuinely irreducible and causally efficacious—though substance dualism makes the agent-causal picture more natural.
 
@@ -316,14 +316,14 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main 
 
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Systematic treatment of quantum mechanics and libertarian free will, including Kane's 2024 convergence with agent-causal positions
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How agents generate possibilities, not just select among them
-- [free-will](/topics/free-will/) — The broader free will question and this project's position
+- [free-will](/topics/free-will/) — The broader free will question and this site's position
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — How mind and body interact
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interface
 - [mental-effort](/concepts/mental-effort/) — The phenomenology supporting agent causation
 - [mental-causation](/concepts/mental-causation/) — The broader problem of how mind causes physical effects
 - [downward-causation](/concepts/downward-causation/) — How higher-level properties influence lower-level processes
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body
-- [many-worlds](/arguments/many-worlds/) — Why the project rejects the many-worlds interpretation (and why it matters for agent causation)
+- [many-worlds](/arguments/many-worlds/) — Why the site rejects the many-worlds interpretation (and why it matters for agent causation)
 - [duration](/concepts/duration/) — Bergson's creative time as the medium of genuine novelty
 - [retrocausality](/concepts/retrocausality/) — How atemporal selection deepens sourcehood
 - [implicit-memory](/concepts/implicit-memory/) — Skill delegation, choking phenomenon, and evidence for causal efficacy

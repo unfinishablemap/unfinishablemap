@@ -59,7 +59,7 @@ None. The article was well-structured and philosophically sound.
 
 3. **Buddhist analysis**: Unusually nuanced treatment of śūnyatā and the Middle Way, correctly distinguishing emptiness from nihilism.
 
-4. **"Cosmic efficacy" distinction**: The phrase in the project perspective section distinguishes efficacy from purpose—a useful conceptual move that was preserved.
+4. **"Cosmic efficacy" distinction**: The phrase in the site perspective section distinguishes efficacy from purpose—a useful conceptual move that was preserved.
 
 5. **Nietzsche section**: Accurate and well-framed treatment of Nietzsche's diagnosis vs. advocacy.
 

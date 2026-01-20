@@ -24,11 +24,11 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Research notes on the relationship between consciousness and working memory, with focus on temporal consciousness, attention mechanisms, and the project's interface framework.
+Research notes on the relationship between consciousness and working memory, with focus on temporal consciousness, attention mechanisms, and the site's interface framework.
 
 ## Overview
 
-Working memory (WM) has traditionally been viewed as closely coupled with consciousness—WM operates on conscious input, and we are conscious of WM contents. However, recent research complicates this picture, showing that unconscious information can be maintained in WM and that WM mechanisms may operate without conscious awareness. This research is relevant to the project's attention-as-interface hypothesis and temporal consciousness framework.
+Working memory (WM) has traditionally been viewed as closely coupled with consciousness—WM operates on conscious input, and we are conscious of WM contents. However, recent research complicates this picture, showing that unconscious information can be maintained in WM and that WM mechanisms may operate without conscious awareness. This research is relevant to the site's attention-as-interface hypothesis and temporal consciousness framework.
 
 ## Key Concepts
 
@@ -43,7 +43,7 @@ The dominant model (Baddeley & Hitch, 1974; updated through 2025) proposes:
 
 The episodic buffer is particularly relevant—Baddeley assumes retrieval from the buffer occurs through conscious awareness. The buffer is "capable of storing bound features and making them available to conscious awareness but not itself responsible for the process of binding."
 
-**Relevance to site**: The binding question in WM mirrors the binding problem in consciousness. If the episodic buffer binds features and makes them available to consciousness, what does the binding? the project's proposal: consciousness participates in binding constitutively.
+**Relevance to site**: The binding question in WM mirrors the binding problem in consciousness. If the episodic buffer binds features and makes them available to consciousness, what does the binding? the site's proposal: consciousness participates in binding constitutively.
 
 ### Working Memory and the Specious Present
 
@@ -57,7 +57,7 @@ The 100ms–5s window corresponds to both the specious present and WM maintenanc
 
 "Working memory provides a temporal bridge between events—both those that are internally generated and environmentally presented—thereby conferring a sense of unity and continuity to conscious experience."
 
-**Relevance to site**: The specious present may be phenomenology of WM at work. the project's specious-present article proposes modified extensionalism—consciousness extends over duration-blocks constituted by collapse. WM maintenance could be the neural correlate of this extended phenomenal present.
+**Relevance to site**: The specious present may be phenomenology of WM at work. the site's specious-present article proposes modified extensionalism—consciousness extends over duration-blocks constituted by collapse. WM maintenance could be the neural correlate of this extended phenomenal present.
 
 ## Working Memory and Global Workspace Theory
 
@@ -99,7 +99,7 @@ This suggests:
 2. *Use* requires conscious reactivation
 3. Consciousness may be necessary for the executive manipulation of WM contents even if maintenance doesn't require it
 
-**Relevance to site**: The distinction between maintenance (possibly unconscious) and manipulation (requiring consciousness) maps onto the project's framework. Passive storage might be purely neural; active selection and manipulation might require consciousness's participation. The attention-as-interface hypothesis implies consciousness acts through attention on neural patterns—WM manipulation could be this interface in action.
+**Relevance to site**: The distinction between maintenance (possibly unconscious) and manipulation (requiring consciousness) maps onto the site's framework. Passive storage might be purely neural; active selection and manipulation might require consciousness's participation. The attention-as-interface hypothesis implies consciousness acts through attention on neural patterns—WM manipulation could be this interface in action.
 
 ## Prefrontal Cortex and Executive Functions
 
@@ -122,7 +122,7 @@ This connects WM to temporal self-consciousness:
 - Episodic buffer enables multimodal binding
 - Autonoetic consciousness enables mental time travel
 
-the project's autonoetic-consciousness article notes hippocampal binding operates for both episodic memory and scene perception. WM may be the active workspace where bound episodic content becomes available for manipulation and mental time travel.
+the site's autonoetic-consciousness article notes hippocampal binding operates for both episodic memory and scene perception. WM may be the active workspace where bound episodic content becomes available for manipulation and mental time travel.
 
 ## Implications for Site Framework
 
@@ -132,7 +132,7 @@ The WM–attention link strengthens the interface hypothesis:
 - Attention determines what enters WM
 - WM contents guide attention
 - This bidirectional relationship is where consciousness may exert influence
-- The ~10 bits/second bandwidth constraint noted in the project's coupling law research matches WM capacity limitations
+- The ~10 bits/second bandwidth constraint noted in the site's coupling law research matches WM capacity limitations
 
 ### Temporal Consciousness
 
@@ -153,15 +153,15 @@ WM binding (episodic buffer) and perceptual binding may share mechanisms:
 
 Miller (neuroscientist) claims: "Working memory is what we use when we think. It is the contents of consciousness, not just the thoughts but what we do with them."
 
-But the project would qualify this: WM contents correlate with consciousness, but WM manipulation may be how consciousness acts on neural content rather than being consciousness itself. The distinction between having conscious content and manipulating conscious content matters.
+But the site would qualify this: WM contents correlate with consciousness, but WM manipulation may be how consciousness acts on neural content rather than being consciousness itself. The distinction between having conscious content and manipulating conscious content matters.
 
 ## Research Questions for Site
 
-1. **Does mental effort in WM manipulation differ from attention alone?** the project links mental effort to consciousness's causal influence. WM manipulation feels effortful—is this the phenomenology of the interface at work?
+1. **Does mental effort in WM manipulation differ from attention alone?** the site links mental effort to consciousness's causal influence. WM manipulation feels effortful—is this the phenomenology of the interface at work?
 
 2. **What happens to WM in altered states?** Meditation, psychedelics, anesthesia all alter both WM and consciousness. Filter theory would predict dissociations—WM capacity might remain while conscious access changes.
 
-3. **How does WM relate to quantum timescales?** WM operates over seconds; quantum effects at nanoseconds. How does the project's minimal quantum interaction scale up to WM timescales? The activity-silent hypothesis (synaptic calcium ~1s) may be relevant—what happens at the synaptic level during WM maintenance?
+3. **How does WM relate to quantum timescales?** WM operates over seconds; quantum effects at nanoseconds. How does the site's minimal quantum interaction scale up to WM timescales? The activity-silent hypothesis (synaptic calcium ~1s) may be relevant—what happens at the synaptic level during WM maintenance?
 
 4. **Is there WM in dreams?** Dream phenomenology includes experienced duration but limited executive function. How does this bear on the WM–consciousness relationship?
 

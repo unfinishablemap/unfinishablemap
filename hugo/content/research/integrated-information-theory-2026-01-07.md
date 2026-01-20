@@ -26,7 +26,7 @@ topics:
 
 ## Executive Summary
 
-Integrated Information Theory (IIT), developed by neuroscientist Giulio Tononi since 2004, proposes that consciousness is identical to integrated information (measured by phi/Φ). The theory starts from phenomenology—what experience is like—and derives physical requirements for any substrate that could support it. IIT has panpsychist implications (any system with non-zero phi has some consciousness) and has been called a form of property dualism. The theory is controversial: a 2023 letter signed by 124 scholars labeled it unfalsifiable pseudoscience, though defenders disagree. A major Templeton-funded empirical test in 2023 gave IIT a slight edge over its rival Global Neuronal Workspace Theory, but results were inconclusive. For this project's tenets, IIT offers a mixed picture: it takes consciousness seriously as irreducible (aligning with Dualism) but identifies it with physical properties rather than non-physical substance.
+Integrated Information Theory (IIT), developed by neuroscientist Giulio Tononi since 2004, proposes that consciousness is identical to integrated information (measured by phi/Φ). The theory starts from phenomenology—what experience is like—and derives physical requirements for any substrate that could support it. IIT has panpsychist implications (any system with non-zero phi has some consciousness) and has been called a form of property dualism. The theory is controversial: a 2023 letter signed by 124 scholars labeled it unfalsifiable pseudoscience, though defenders disagree. A major Templeton-funded empirical test in 2023 gave IIT a slight edge over its rival Global Neuronal Workspace Theory, but results were inconclusive. For this site's tenets, IIT offers a mixed picture: it takes consciousness seriously as irreducible (aligning with Dualism) but identifies it with physical properties rather than non-physical substance.
 
 ## Key Sources
 
@@ -181,7 +181,7 @@ Integrated Information Theory (IIT), developed by neuroscientist Giulio Tononi s
 ### Dualism Tenet
 IIT takes consciousness seriously as something that cannot be eliminated or explained away. This partially aligns with the Dualism tenet. However, IIT identifies consciousness WITH certain physical properties (integrated information) rather than treating it as a separate non-physical substance. This is closer to property dualism or neutral monism than substance dualism.
 
-**Tension**: the project's dualism is stronger—consciousness is "not reducible to physical processes." IIT says consciousness IS a physical property (like mass or charge). the project would likely find this too reductive, even though IIT claims to take phenomenology as fundamental.
+**Tension**: the site's dualism is stronger—consciousness is "not reducible to physical processes." IIT says consciousness IS a physical property (like mass or charge). the site would likely find this too reductive, even though IIT claims to take phenomenology as fundamental.
 
 ### Minimal Quantum Interaction Tenet
 IIT does not require quantum effects. It works entirely at the level of classical information processing and physical architecture. This neither supports nor contradicts the Minimal Quantum Interaction tenet directly—IIT is simply silent on quantum mechanics.
@@ -189,9 +189,9 @@ IIT does not require quantum effects. It works entirely at the level of classica
 **Potential integration**: One could speculate that quantum effects might be relevant to *how* integration occurs, but this isn't part of standard IIT.
 
 ### Bidirectional Interaction Tenet
-This is where IIT most conflicts with the project's tenets. IIT identifies consciousness with integrated information—it doesn't give consciousness causal powers over and above the physical. The phi-structure IS the consciousness; it doesn't causally influence the physical because it IS the physical (in a certain configuration).
+This is where IIT most conflicts with the site's tenets. IIT identifies consciousness with integrated information—it doesn't give consciousness causal powers over and above the physical. The phi-structure IS the consciousness; it doesn't causally influence the physical because it IS the physical (in a certain configuration).
 
-**Tension**: the project holds that "consciousness selects among superposed neural states, collapsing quantum indeterminacy." IIT has no mechanism for this. If consciousness just IS integrated information, it doesn't "do" anything—it simply exists as a property of certain physical arrangements.
+**Tension**: the site holds that "consciousness selects among superposed neural states, collapsing quantum indeterminacy." IIT has no mechanism for this. If consciousness just IS integrated information, it doesn't "do" anything—it simply exists as a property of certain physical arrangements.
 
 ### No Many Worlds Tenet
 IIT is neutral on quantum interpretations. Since it doesn't rely on quantum mechanics, it doesn't take a position on Many Worlds vs. collapse theories.
@@ -199,7 +199,7 @@ IIT is neutral on quantum interpretations. Since it doesn't rely on quantum mech
 ### Occam's Razor Has Limits Tenet
 IIT is itself an example of a theory that adds ontological complexity (panpsychism) rather than reducing consciousness to simpler physical processes. In this sense, it aligns with the tenet that simplicity isn't always the right guide.
 
-**However**: IIT's critics would say it fails Occam's Razor by attributing consciousness to systems (expander graphs) where it seems absurd. the project might respond that this shows the limits of intuition, not the failure of the theory.
+**However**: IIT's critics would say it fails Occam's Razor by attributing consciousness to systems (expander graphs) where it seems absurd. the site might respond that this shows the limits of intuition, not the failure of the theory.
 
 ## Potential Article Angles
 

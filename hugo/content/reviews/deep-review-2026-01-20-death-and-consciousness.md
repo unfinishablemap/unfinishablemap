@@ -51,7 +51,7 @@ topics: []
 
 ### Strengths Preserved
 
-- Excellent Parfit engagement with clear explanation of why the project rejects his "liberating" view
+- Excellent Parfit engagement with clear explanation of why the site rejects his "liberating" view
 - Patient KC case study powerfully illustrating what autonoetic loss means
 - Calibrated epistemic claims ("doesn't prove survival")
 - Strong filter theory presentation

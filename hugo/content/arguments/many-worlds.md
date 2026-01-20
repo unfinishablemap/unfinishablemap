@@ -26,7 +26,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The many-worlds interpretation (MWI) of quantum mechanics holds that every quantum measurement causes the universe to branch, with all possible outcomes occurring in different branches. the project's [No Many Worlds](/tenets/#no-many-worlds) tenet explicitly rejects this interpretation. This page presents the arguments why.
+The many-worlds interpretation (MWI) of quantum mechanics holds that every quantum measurement causes the universe to branch, with all possible outcomes occurring in different branches. the site's [No Many Worlds](/tenets/#no-many-worlds) tenet explicitly rejects this interpretation. This page presents the arguments why.
 
 ## The Interpretation
 
@@ -60,7 +60,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet warns against naive
 
 **Conclusion**: Many-worlds cannot account for indexical identity.
 
-This is the project's central objection. When you make a measurement, many-worlds says you split into branches. In one branch you see spin-up; in another, spin-down. But you only experience one outcome. Which you?
+This is the site's central objection. When you make a measurement, many-worlds says you split into branches. In one branch you see spin-up; in another, spin-down. But you only experience one outcome. Which you?
 
 The many-worlds theorist says the question is confused: both branches are equally real, both contain persons derived from you, and there is no fact about which one is "really" you. The branching happened; the question of which branch you're in is answered by observation—you're in the one you observe.
 
@@ -128,7 +128,7 @@ Many-worlds proponents sometimes suggest the interpretation dissolves the measur
 
 Neither question was "why do we experience outcomes?" The hard problem remains untouched. Indeed, many-worlds sharpens it: if there are infinitely many versions of you having infinitely many experiences, why is your experience this one? The unity of consciousness—your experience of being a single subject—finds no explanation in a theory that fragments subjects across branches.
 
-the project's framework proposes that consciousness plays a role at quantum measurement—selecting among outcomes physics leaves undetermined. Many-worlds eliminates this role entirely: there is nothing for consciousness to select because everything happens. But if consciousness has no role in physics, how does it report on physics? The [epiphenomenalism](/arguments/epiphenomenalism/) worry resurfaces in new form.
+the site's framework proposes that consciousness plays a role at quantum measurement—selecting among outcomes physics leaves undetermined. Many-worlds eliminates this role entirely: there is nothing for consciousness to select because everything happens. But if consciousness has no role in physics, how does it report on physics? The [epiphenomenalism](/arguments/epiphenomenalism/) worry resurfaces in new form.
 
 ## The Cumulative Case
 
@@ -156,7 +156,7 @@ Despite these problems, many-worlds has prominent defenders. Why?
 
 These are real virtues. But virtues in the context of physics are not virtues in the context of metaphysics. A theory can be mathematically beautiful, empirically adequate, and metaphysically disastrous. Many-worlds may be such a theory.
 
-## Alternatives the project Prefers
+## Alternatives the site Prefers
 
 The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets commit to collapse interpretations—views where measurement produces genuine transitions from superposition to definite outcome.
 
@@ -170,9 +170,9 @@ Within this family:
 
 All these preserve what many-worlds discards: definite outcomes that actually occur. The measurement problem remains a problem—but an honest problem is better than a solution that costs personal identity.
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
-The [No Many Worlds](/tenets/#no-many-worlds) tenet is not arbitrary. It follows from the project's commitments:
+The [No Many Worlds](/tenets/#no-many-worlds) tenet is not arbitrary. It follows from the site's commitments:
 
 **[Dualism](/tenets/#dualism)**: Consciousness is irreducible to physics. But many-worlds treats consciousness as epiphenomenal—everything happens regardless of what consciousness does.
 
@@ -182,7 +182,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet is not arbitrary. It follows
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Parsimony cannot be applied naively. But many-worlds makes the mirror error—claiming simplicity while postulating infinite ontology.
 
-the project's framework requires that quantum measurement is real—that definite outcomes genuinely occur and that consciousness plays a role in their occurrence. Many-worlds denies all of this. The interpretations are incompatible.
+the site's framework requires that quantum measurement is real—that definite outcomes genuinely occur and that consciousness plays a role in their occurrence. Many-worlds denies all of this. The interpretations are incompatible.
 
 ## Further Reading
 
@@ -192,7 +192,7 @@ the project's framework requires that quantum measurement is real—that definit
 - [personal-identity](/topics/personal-identity/) — Why identity matters for quantum interpretation
 - [parfit-reductionism](/concepts/parfit-reductionism/) — Parallel problems with identity reductionism
 - [binding-problem](/concepts/binding-problem/) — The unity of consciousness that branching threatens
-- [tenets](/tenets/) — the project's foundational commitments
+- [tenets](/tenets/) — the site's foundational commitments
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The positive case for the alternative
 
 ## References

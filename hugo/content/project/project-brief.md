@@ -18,7 +18,7 @@ topics: []
 
 ## Aim
 
-The aim of this project is to form a self-consistent picture of the nature and meaning of life.  Is will not create a balanced picture saying it might be this, it might be this; it will for a single best-guess picture.  For convenience of language, this will be expressed as if fact.
+The aim of this site is to form a self-consistent picture of the nature and meaning of life.  Is will not create a balanced picture saying it might be this, it might be this; it will for a single best-guess picture.  For convenience of language, this will be expressed as if fact.
 
 ## Method
 
@@ -33,9 +33,9 @@ It will use a combination of human input and steering, and LLM-based research.  
 
 ## Generated content
 
-The outputs of the project will be:
+The outputs of the site will be:
 
-*  A static web site designed for search by LLM-based tools.  This is the primary output and users are expect to query the project by referring their chat system to it (ChatGPT, Clause, Gemini, Grok) and making queries in their chat system.
+*  A static web site designed for search by LLM-based tools.  This is the primary output and users are expect to query the site by referring their chat system to it (ChatGPT, Clause, Gemini, Grok) and making queries in their chat system.
 * A static web site designed for human browsing and review.
 * Project content and history in Git format. [Github](https://github.com/unfinishablemap/unfinishablemap)
 

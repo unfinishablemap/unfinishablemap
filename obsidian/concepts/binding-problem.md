@@ -47,7 +47,7 @@ Philosophers distinguish two related but distinct challenges (Revonsuo 2006):
 
 The distinction matters. Solving BP1—the engineering challenge of correct feature attribution—doesn't solve BP2. Even a complete computational account of feature binding leaves unexplained why binding *feels* unified.
 
-Some eliminativists (notably Dennett) argue that BP2 is a pseudo-problem—that phenomenal unity is a cognitive construction rather than a genuine feature requiring explanation. On this view, we don't need to explain why binding feels unified because there is no phenomenal unity above and beyond functional integration. the project rejects this: the unity of experience appears constitutive rather than illusory, and explaining *why it seems unified* without positing actual unity faces its own explanatory burden.
+Some eliminativists (notably Dennett) argue that BP2 is a pseudo-problem—that phenomenal unity is a cognitive construction rather than a genuine feature requiring explanation. On this view, we don't need to explain why binding feels unified because there is no phenomenal unity above and beyond functional integration. the site rejects this: the unity of experience appears constitutive rather than illusory, and explaining *why it seems unified* without positing actual unity faces its own explanatory burden.
 
 ## Classical Proposed Solutions
 
@@ -72,7 +72,7 @@ Anne Treisman's influential theory proposes that attention acts as the "glue" bi
 
 **Key evidence:** Illusory conjunctions—misbindings like seeing a blue circle when presented with a blue square and yellow circle—occur under divided attention. Brief presentations increase binding errors. Spatial attention prevents misbinding.
 
-**Implications for consciousness:** Attention is necessary but perhaps not sufficient for binding. This connects to the project's interest in [[mental-effort]]—if attention is effortful and effortful attention is how consciousness interfaces with matter, then attention's role in binding is no coincidence.
+**Implications for consciousness:** Attention is necessary but perhaps not sufficient for binding. This connects to the site's interest in [[mental-effort]]—if attention is effortful and effortful attention is how consciousness interfaces with matter, then attention's role in binding is no coincidence.
 
 ### Global Workspace Theory
 
@@ -128,7 +128,7 @@ The phenomenology of episodic memory provides evidence that BP2—the combinatio
 
 ### The Convergence Argument
 
-the project proposes that the appearance of binding mechanisms in both perception and memory is not coincidental. If quantum binding generates phenomenal unity (as the quantum alternative section argues), then the same mechanism that unifies perceptual experience would unify memory formation. This explains why:
+the site proposes that the appearance of binding mechanisms in both perception and memory is not coincidental. If quantum binding generates phenomenal unity (as the quantum alternative section argues), then the same mechanism that unifies perceptual experience would unify memory formation. This explains why:
 
 1. **Hippocampal damage impairs both**: Damage to the hippocampus impairs both scene perception and episodic memory, as if the same binding capacity underlies both.
 
@@ -136,7 +136,7 @@ the project proposes that the appearance of binding mechanisms in both perceptio
 
 3. **Autonoetic consciousness requires binding**: Mental time travel presupposes that past experiences were unified (otherwise, what would you be traveling *to*?). The capacity for autonoetic consciousness depends on prior binding having occurred—suggesting binding and consciousness are inseparable.
 
-This convergence supports the project's framework: consciousness isn't an add-on to neural computation but participates constitutively in both perception and memory through the binding that makes experience unified.
+This convergence supports the site's framework: consciousness isn't an add-on to neural computation but participates constitutively in both perception and memory through the binding that makes experience unified.
 
 ## Sleep: Binding Without Consciousness
 
@@ -156,7 +156,7 @@ This is BP1 without BP2. The brain's binding machinery runs, but binding's pheno
 
 ### What Sleep Reveals
 
-The dissociation supports the project's position that phenomenal unity isn't *produced by* binding operations but *added to them* by consciousness:
+The dissociation supports the site's position that phenomenal unity isn't *produced by* binding operations but *added to them* by consciousness:
 
 **Contrast with waking binding**: During waking, attention-mediated binding produces both correct feature assignment (BP1) and phenomenal unity (BP2). We experience the integrated result. The two seem inseparable.
 
@@ -232,7 +232,7 @@ Recent research has moved beyond theoretical arguments to direct experimental su
 
 **Brain entanglement signatures (Kerskens & Pérez, 2022-2023)**: Using a novel quantum entanglement-detection MRI protocol, researchers observed signals indicating entanglement that correlated with consciousness—present during waking awareness but disappearing when subjects fell asleep. The fidelity of putative spin-entanglement signals correlated with short-term memory performance. While interpretation remains debated (Warren 2023), no alternative classical account has been offered.
 
-**Decoherence debate**: Tegmark's influential 2000 calculation claimed quantum effects would decohere in 10⁻¹³ to 10⁻²⁰ seconds—far too brief for neural processes. Hagan, Hameroff, and Tuszynski (2002) identified flawed assumptions: Tegmark assumed unrealistically large superposition separations and thermal equilibrium (equivalent to death). Corrected estimates yield 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer**. Recent experimental coherence times (Saxena et al., 2020) match these corrected estimates. This debate remains active; the project considers Hagan et al.'s critique compelling but acknowledges that the decoherence question is not definitively settled.
+**Decoherence debate**: Tegmark's influential 2000 calculation claimed quantum effects would decohere in 10⁻¹³ to 10⁻²⁰ seconds—far too brief for neural processes. Hagan, Hameroff, and Tuszynski (2002) identified flawed assumptions: Tegmark assumed unrealistically large superposition separations and thermal equilibrium (equivalent to death). Corrected estimates yield 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer**. Recent experimental coherence times (Saxena et al., 2020) match these corrected estimates. This debate remains active; the site considers Hagan et al.'s critique compelling but acknowledges that the decoherence question is not definitively settled.
 
 **Twin study quantum effects (2025)**: A study of 106 monozygotic twin pairs found that entanglement of qubits in stimulus configurations explained 13.5% of variance in implicit learning accuracy. Published in *PNAS*, this provides novel evidence that quantum entanglement may enhance conscious processing and facilitate learning.
 
@@ -250,7 +250,7 @@ As Max Hodak argued (2025): binding may require new physics because classical ph
 
 ### Simple Organisms and Binding Limits
 
-Research on [[minimal-consciousness|organisms at consciousness boundaries]] provides natural experiments on binding requirements. The roundworm *C. elegans* (302 neurons, completely mapped connectome) shows positive Φ values in computational models—suggesting integration—yet fails trace-conditioning paradigms that mark unlimited associative learning. If IIT equates consciousness with integration, the worm should exhibit unified experience. If the project's quantum framework is correct, simple organisms lacking quantum-coherent neural structures would lack phenomenal unity even while performing computational binding.
+Research on [[minimal-consciousness|organisms at consciousness boundaries]] provides natural experiments on binding requirements. The roundworm *C. elegans* (302 neurons, completely mapped connectome) shows positive Φ values in computational models—suggesting integration—yet fails trace-conditioning paradigms that mark unlimited associative learning. If IIT equates consciousness with integration, the worm should exhibit unified experience. If the site's quantum framework is correct, simple organisms lacking quantum-coherent neural structures would lack phenomenal unity even while performing computational binding.
 
 The slime mold *Physarum polycephalum* poses a sharper challenge: it solves mazes and optimizes networks without any neurons—and thus without microtubules. If quantum effects in microtubules provide the interface for phenomenal binding, non-neural cognition shouldn't occur. Resolution: quantum-neural effects may be sufficient for *phenomenal* binding but not necessary for *computational* binding. Slime molds integrate information and coordinate behavior without unified experience—exactly the BP1-without-BP2 pattern the quantum theory predicts for systems lacking the requisite physical substrate.
 
@@ -266,11 +266,11 @@ The quantum binding hypothesis makes testable commitments:
 
 4. **Anesthetic mechanism alternatives**: If anesthetic action on microtubules can be explained entirely through classical biochemical effects on synaptic transmission, without invoking quantum disruption, the epothilone study becomes less probative.
 
-the project maintains that current evidence favors the quantum position while acknowledging that the debate remains live. Scientific humility requires specifying what would count against one's view.
+the site maintains that current evidence favors the quantum position while acknowledging that the debate remains live. Scientific humility requires specifying what would count against one's view.
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
-The binding problem illuminates why the project's [[tenets]] take the positions they do.
+The binding problem illuminates why the site's [[tenets]] take the positions they do.
 
 **Dualism**: The combination version of the binding problem (BP2) is a version of the hard problem. Explaining how features computationally combine doesn't explain why combination feels unified. Something more than computation seems required.
 

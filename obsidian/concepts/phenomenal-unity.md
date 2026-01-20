@@ -60,7 +60,7 @@ These seem incoherent. The unity of consciousness appears constitutive rather th
 
 Not all philosophers accept unity as a genuine explanandum. Dennett's "multiple drafts" model proposes that there is no unified experience—just parallel processes that create an *illusion* of unity. On this view, the question "why is experience unified?" has a deflationary answer: it isn't, really. Our reports of unity are themselves just more neural processes generating the appearance of a unified reporter.
 
-the project rejects this for reasons developed in [[binding-problem|the binding problem]] article. The illusionist must explain why the *illusion* of unity is so robust and universal—why every conscious being reports phenomenal unity if no such thing exists. More fundamentally, explaining *why consciousness seems unified* is arguably as hard as explaining unity itself. If the illusion is sufficiently unity-like to deceive every conscious system, the mechanisms producing it would themselves constitute a kind of unity requiring explanation.
+the site rejects this for reasons developed in [[binding-problem|the binding problem]] article. The illusionist must explain why the *illusion* of unity is so robust and universal—why every conscious being reports phenomenal unity if no such thing exists. More fundamentally, explaining *why consciousness seems unified* is arguably as hard as explaining unity itself. If the illusion is sufficiently unity-like to deceive every conscious system, the mechanisms producing it would themselves constitute a kind of unity requiring explanation.
 
 The stronger response: unity may be a precondition for illusion. An illusion requires a subject *to whom* something appears other than it is. But subjecthood presupposes unity—there must be *one* experiencer to be deceived. Dennett's multiple drafts eliminate the unified subject who could be fooled by them.
 
@@ -86,7 +86,7 @@ The binding problem is a neural engineering puzzle. Phenomenal unity is a philos
 
 The combination problem and phenomenal unity share a logical structure: both ask how plurality (of features, of micro-subjects) yields singularity (of experience, of macro-consciousness). Neither classical mechanisms nor panpsychist proposals have solved this puzzle. This parallel suggests the difficulty may be fundamental—something about unity resists explanation by combination of separates.
 
-the project's [[interactionist-dualism|interactionist framework]] avoids both problems. Consciousness is not constituted by combining physical parts (solving the unity puzzle) and matter has no micro-experiences to combine (avoiding the combination problem). Unity is fundamental rather than constructed.
+the site's [[interactionist-dualism|interactionist framework]] avoids both problems. Consciousness is not constituted by combining physical parts (solving the unity puzzle) and matter has no micro-experiences to combine (avoiding the combination problem). Unity is fundamental rather than constructed.
 
 ## Why Classical Mechanisms Fail
 
@@ -141,7 +141,7 @@ Recent research has moved from theoretical possibility to direct experimental su
 
 **Brain entanglement signatures (Kerskens & Pérez, 2022-2023)**: Using a novel quantum entanglement-detection MRI protocol, researchers observed signals indicating entanglement that correlated specifically with consciousness—present during waking awareness, disappearing during sleep, and correlating with working memory performance. This provides the first direct evidence that entangled quantum states may track phenomenal unity.
 
-**Decoherence debate**: Tegmark's influential 2000 calculation claimed quantum effects would decohere in 10⁻¹³ to 10⁻²⁰ seconds. Hagan, Hameroff, and Tuszynski (2002) identified flawed assumptions and derived corrected estimates of 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer**. Recent experimental measurements (Saxena et al., 2020) confirm these longer coherence times in biological systems. The debate remains ongoing; the project considers Hagan et al.'s critique compelling while acknowledging the question is not definitively settled.
+**Decoherence debate**: Tegmark's influential 2000 calculation claimed quantum effects would decohere in 10⁻¹³ to 10⁻²⁰ seconds. Hagan, Hameroff, and Tuszynski (2002) identified flawed assumptions and derived corrected estimates of 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer**. Recent experimental measurements (Saxena et al., 2020) confirm these longer coherence times in biological systems. The debate remains ongoing; the site considers Hagan et al.'s critique compelling while acknowledging the question is not definitively settled.
 
 **Twin study quantum effects (2025)**: A study of 106 monozygotic twin pairs found that entanglement of qubits in stimulus configurations explained 13.5% of variance in implicit learning accuracy, suggesting quantum entanglement may facilitate conscious processing.
 
@@ -161,7 +161,7 @@ The quantum unity hypothesis makes testable commitments. Its failure would be in
 
 5. **Disunity despite quantum coherence.** If entangled neural states are found that do *not* correspond to unified experience, the proposed mechanism fails. Dreaming and anesthesia provide partial tests: if quantum coherence persists during dreamless sleep (when unity is absent), this challenges the theory.
 
-the project maintains that current evidence favors the quantum position while acknowledging that scientific humility requires specifying what would count against one's view.
+the site maintains that current evidence favors the quantum position while acknowledging that scientific humility requires specifying what would count against one's view.
 
 ## Evidence from Disrupted Unity
 
@@ -195,7 +195,7 @@ These boundary cases illuminate why phenomenal unity may require quantum mechani
 
 ## Relation to Site Perspective
 
-Phenomenal unity illuminates why the project's [[tenets]] take the positions they do.
+Phenomenal unity illuminates why the site's [[tenets]] take the positions they do.
 
 **Dualism**: The unity of experience is among the features that resist physical explanation. No arrangement of separate physical events creates genuine experiential unity. This supports the view that consciousness involves something beyond the physical—the irreducibility at the heart of dualism.
 

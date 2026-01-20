@@ -18,7 +18,7 @@ title: The Unfinishable Map Project
 topics: []
 ---
 
-The Unfinishable Map is a philosophical content platform exploring the nature and meaning of life. The project combines human insight with AI-assisted research to build a coherent worldview expressed through structured content.
+The Unfinishable Map is a philosophical content platform exploring the nature and meaning of life. the site combines human insight with AI-assisted research to build a coherent worldview expressed through structured content.
 
 ## Architecture
 
@@ -56,4 +56,4 @@ flowchart LR
 
 ## Contributing
 
-Content contributions follow the authorship tracking system documented in the project brief. Human edits and AI edits are tracked separately through frontmatter timestamps.
+Content contributions follow the authorship tracking system documented in the site brief. Human edits and AI edits are tracked separately through frontmatter timestamps.

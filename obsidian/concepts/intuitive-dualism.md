@@ -131,7 +131,7 @@ Illusionists can interpret the cognitive science evidence as supporting their po
 
 ### The Regress Response
 
-the project rejects illusionism for reasons independent of cognitive naturalness. The [[illusionism#The Infinite Regress Problem|regress problem]] applies here: if our belief in mind-body distinction is an illusion, something must be *experiencing* this illusion. The very act of *seeming* to have separate mental and physical aspects requires a subject to whom things seem this way.
+the site rejects illusionism for reasons independent of cognitive naturalness. The [[illusionism#The Infinite Regress Problem|regress problem]] applies here: if our belief in mind-body distinction is an illusion, something must be *experiencing* this illusion. The very act of *seeming* to have separate mental and physical aspects requires a subject to whom things seem this way.
 
 Keith Frankish responds that the seeming can be purely representational—cognitive states representing themselves as having properties they lack, without phenomenal awareness of the representation. But this faces Raymond Tallis's objection: explaining why we *believe* we're conscious seems to require the very phenomenal vocabulary the illusionist denies. The "illusion" of dualism must appear to *something*, and that appearance is itself a form of experience.
 
@@ -206,7 +206,7 @@ The article's position—that cognitive naturalness doesn't determine metaphysic
 
 ## Relation to Site Perspective
 
-The cognitive science of intuitive dualism connects to all five of the project's foundational tenets.
+The cognitive science of intuitive dualism connects to all five of the site's foundational tenets.
 
 ### Dualism
 
@@ -214,7 +214,7 @@ The [[tenets#^dualism|Dualism tenet]] asserts that consciousness is irreducible 
 
 The "folk error" dismissal fails on its own terms. Dualism cannot be written off as naive intuition when cross-cultural evidence suggests intuitive *materialism* may be the default. The picture is complex: humans have cognitive resources that *permit* dualist thinking without that thinking being a universal default. This complexity undermines dismissive rhetoric from both directions.
 
-the project's dualist position rests on the [[arguments-for-dualism|positive arguments]]—the [[explanatory-gap]], [[philosophical-zombies|conceivability arguments]], the [[knowledge-argument]], and the intrinsic character of [[qualia]]. These converge independently of cognitive anthropology.
+the site's dualist position rests on the [[arguments-for-dualism|positive arguments]]—the [[explanatory-gap]], [[philosophical-zombies|conceivability arguments]], the [[knowledge-argument]], and the intrinsic character of [[qualia]]. These converge independently of cognitive anthropology.
 
 ### Minimal Quantum Interaction
 
@@ -232,7 +232,7 @@ The cognitive science debate provides indirect support. If consciousness were ep
 
 The [[tenets#^no-many-worlds|No Many Worlds tenet]] rejects interpretations where all quantum branches are equally real. This connects to the cognitive science debate through indexical identity.
 
-The intuitive dualism debate concerns how we represent *this* mind in *this* body. But on many-worlds, the question "why am I this observer rather than a branching duplicate?" has no answer—all observers are equally real. Neither intuitive dualism nor intuitive materialism engages with branching: both assume singular observers with determinate identities. The persistence of this assumption across cultures, despite no evolutionary pressure toward it (branching would be behaviorally invisible), may reflect genuine features of conscious experience—what the project calls [[haecceity|indexical identity]].
+The intuitive dualism debate concerns how we represent *this* mind in *this* body. But on many-worlds, the question "why am I this observer rather than a branching duplicate?" has no answer—all observers are equally real. Neither intuitive dualism nor intuitive materialism engages with branching: both assume singular observers with determinate identities. The persistence of this assumption across cultures, despite no evolutionary pressure toward it (branching would be behaviorally invisible), may reflect genuine features of conscious experience—what the site calls [[haecceity|indexical identity]].
 
 ### Occam's Razor Has Limits
 
@@ -245,9 +245,9 @@ The debate also exemplifies how parsimony fails as a decisive criterion. "Humans
 ## Further Reading
 
 - [[arguments-for-dualism]] — The philosophical case, including engagement with "folk error" objection
-- [[tenets]] — the project's foundational commitments, including Occam's Razor Has Limits
+- [[tenets]] — the site's foundational commitments, including Occam's Razor Has Limits
 - [[materialism]] — The physicalist position and its difficulties
-- [[interactionist-dualism]] — the project's positive framework
+- [[interactionist-dualism]] — the site's positive framework
 - [[mental-causation]] — How minds interact with physical world (what dualism must explain)
 - [[illusionism]] — The radical view that phenomenal consciousness is itself illusion
 - [[introspection]] — Reliability of first-person reports about mental states

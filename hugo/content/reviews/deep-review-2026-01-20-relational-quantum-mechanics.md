@@ -32,7 +32,7 @@ topics: []
 - **Missing Process Philosophy Perspective section**: Added section covering concrescence vs. relativization, subject-superject structure, and experience all the way down
 - **Missing What Would Challenge This View? section**: Added with 5 falsifiability conditions
 - **Relation to Site Perspective section needed expansion**: Expanded from brief paragraphs to substantive coverage of all 5 tenets with deeper analysis
-- **Style inconsistency**: Fixed lowercase "the project" instances to "This project"
+- **Style inconsistency**: Fixed lowercase "the site" instances to "this site"
 
 ### Counterarguments Considered
 - Illusionist argument that RQM succeeds because consciousness is illusory → Addressed via regress response (Tallis)
@@ -84,7 +84,7 @@ This deep review transformed the article from a solid introduction to RQM into a
 
 2. **Provides process philosophy framing**: Whitehead's actual occasions framework illuminates what RQM's relativization sacrifices—genuine concrescence, the subject-superject temporal asymmetry, and experience pervading reality.
 
-3. **Establishes falsifiability**: The "What Would Challenge This View?" section provides 5 conditions that would require revising the project's position on RQM.
+3. **Establishes falsifiability**: The "What Would Challenge This View?" section provides 5 conditions that would require revising the site's position on RQM.
 
 4. **Deepens tenet connections**: Each tenet now receives substantive treatment explaining not just that RQM conflicts but *why* and *how* the conflict reveals incompatible commitments.
 

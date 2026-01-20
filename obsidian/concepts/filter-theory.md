@@ -30,7 +30,7 @@ last_curated: null
 last_deep_review: 2026-01-19T16:00:00+00:00
 ---
 
-The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by William James, Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain is interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to the project's [[interactionist-dualism|interactionist dualism]] and explains how [[tenets#^dualism|dualism]] can accommodate the empirical findings that seem to support materialism.
+The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by William James, Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain is interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to the site's [[interactionist-dualism|interactionist dualism]] and explains how [[tenets#^dualism|dualism]] can accommodate the empirical findings that seem to support materialism.
 
 ## The Core Claim
 
@@ -133,7 +133,7 @@ This has implications for the [[brain-specialness]] question. Not just *any* com
 
 ## The Rendering Engine Analogy
 
-the project's [[mind-brain-separation]] article develops an updated version of filter theory using a video game analogy.
+the site's [[mind-brain-separation]] article develops an updated version of filter theory using a video game analogy.
 
 The brain functions like a rendering engine: it computes how things should look based on available data, textures, lighting models. The result is a visual scene. But the scene is not *produced* by the rendering engine alone—it's produced by an interplay between the engine's capabilities and some source of content (game designers, procedural algorithms, or in this case, consciousness).
 
@@ -151,7 +151,7 @@ Filter theory doesn't require locating consciousness spatially. Consciousness mi
 
 ### "What is the mechanism of transmission?"
 
-This is a fair challenge. How does non-physical consciousness interface with physical brain? the project's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes one mechanism: consciousness influences quantum indeterminacies in neural systems. At points where physics leaves outcomes undetermined, consciousness selects. This provides the "interface" filter theory requires without violating physical law.
+This is a fair challenge. How does non-physical consciousness interface with physical brain? the site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes one mechanism: consciousness influences quantum indeterminacies in neural systems. At points where physics leaves outcomes undetermined, consciousness selects. This provides the "interface" filter theory requires without violating physical law.
 
 ### "Why brains specifically?"
 
@@ -181,7 +181,7 @@ The filter model addresses this through the interface concept. Each brain provid
 
 ## Relation to Site Tenets
 
-Filter theory supports and is supported by the project's [[tenets|foundational commitments]]:
+Filter theory supports and is supported by the site's [[tenets|foundational commitments]]:
 
 **[[tenets#^dualism|Dualism]]**: Filter theory preserves dualism while explaining tight brain-consciousness correlation. Dependence on the brain doesn't entail identity with the brain or production by the brain. The explanatory gap remains: no neural account explains *why* there is something it is like. Filter theory doesn't close this gap but doesn't pretend to—it reframes the brain's role from producer to interface.
 

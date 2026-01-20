@@ -26,7 +26,7 @@ last_curated: null
 
 ## Executive Summary
 
-Panpsychism holds that consciousness is a fundamental and ubiquitous feature of reality—all matter has some experiential quality. Major proponents include Galen Strawson (who argues physicalism *entails* panpsychism) and Philip Goff (who emphasizes parsimony arguments). The main challenge is the "combination problem": how do micro-experiences combine into unified macro-consciousness? For the project's dualist framework, panpsychism presents an interesting comparison—both reject consciousness emerging from wholly non-conscious matter, but they differ on whether matter itself is experiential. the project's tenets may be compatible with a modified panpsychism where consciousness influences but isn't identical to all matter.
+Panpsychism holds that consciousness is a fundamental and ubiquitous feature of reality—all matter has some experiential quality. Major proponents include Galen Strawson (who argues physicalism *entails* panpsychism) and Philip Goff (who emphasizes parsimony arguments). The main challenge is the "combination problem": how do micro-experiences combine into unified macro-consciousness? For the site's dualist framework, panpsychism presents an interesting comparison—both reject consciousness emerging from wholly non-conscious matter, but they differ on whether matter itself is experiential. the site's tenets may be compatible with a modified panpsychism where consciousness influences but isn't identical to all matter.
 
 ## Key Sources
 
@@ -142,7 +142,7 @@ A modified position might work: consciousness is fundamental (agreeing with panp
 
 ## Potential Article Angles
 
-1. **Panpsychism vs. Interactionist Dualism**: Compare the project's framework with panpsychism, showing they share the anti-emergence insight but differ on monism vs. dualism. Argue site's approach avoids combination problem while maintaining consciousness's causal efficacy.
+1. **Panpsychism vs. Interactionist Dualism**: Compare the site's framework with panpsychism, showing they share the anti-emergence insight but differ on monism vs. dualism. Argue site's approach avoids combination problem while maintaining consciousness's causal efficacy.
 
 2. **IIT and Site Tenets**: Analyze where Integrated Information Theory aligns (consciousness fundamental) and conflicts (phi = consciousness, potential MWI acceptance) with site's tenets.
 

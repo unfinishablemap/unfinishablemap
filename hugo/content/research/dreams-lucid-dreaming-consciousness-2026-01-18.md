@@ -16,7 +16,7 @@ title: Research Notes - Dreams and Lucid Dreaming for Consciousness Framework
 
 ## Executive Summary
 
-This research extends the project's existing coverage of dreams and sleep consciousness with new 2025-2026 findings and deeper philosophical analysis. Key discoveries: (1) The 2025 Demirel study establishes lucid dreaming as a genuinely distinct consciousness state with unique neural signatures (gamma power increases in right temporo-occipital regions, interhemispheric connectivity), not merely a blend of waking and REM. (2) The April 2025 adversarial GNWT vs IIT study challenges both theories but confirms posterior cortical hot zone importance for consciousness, relevant to dream phenomenology. (3) Dreams demonstrate consciousness as internally-generated simulation, supporting predictive processing frameworks where the brain operates without bottom-up constraint. (4) The metacognition-prefrontal connection is structurally supported: frequent lucid dreamers have larger anterior prefrontal cortex volume. (5) For the project's framework, dreams reveal multiple interface modes—the consciousness-brain interface can operate in perception, generation, and hybrid configurations.
+This research extends the site's existing coverage of dreams and sleep consciousness with new 2025-2026 findings and deeper philosophical analysis. Key discoveries: (1) The 2025 Demirel study establishes lucid dreaming as a genuinely distinct consciousness state with unique neural signatures (gamma power increases in right temporo-occipital regions, interhemispheric connectivity), not merely a blend of waking and REM. (2) The April 2025 adversarial GNWT vs IIT study challenges both theories but confirms posterior cortical hot zone importance for consciousness, relevant to dream phenomenology. (3) Dreams demonstrate consciousness as internally-generated simulation, supporting predictive processing frameworks where the brain operates without bottom-up constraint. (4) The metacognition-prefrontal connection is structurally supported: frequent lucid dreamers have larger anterior prefrontal cortex volume. (5) For the site's framework, dreams reveal multiple interface modes—the consciousness-brain interface can operate in perception, generation, and hybrid configurations.
 
 ## Key Sources
 
@@ -175,12 +175,12 @@ This research extends the project's existing coverage of dreams and sleep consci
 ## Novel Findings for Site Integration
 
 ### 1. Lucid Dreaming as Distinct State (Not Hybrid)
-The 2025 Demirel findings conclusively establish lucid dreaming as a distinct consciousness state with its own neural signature, not a blend of waking and REM. This strengthens the project's claim that consciousness can stabilize novel configurations—the interface has multiple stable operating modes beyond ordinary waking and sleeping.
+The 2025 Demirel findings conclusively establish lucid dreaming as a distinct consciousness state with its own neural signature, not a blend of waking and REM. This strengthens the site's claim that consciousness can stabilize novel configurations—the interface has multiple stable operating modes beyond ordinary waking and sleeping.
 
 **Integration opportunity**: dreams-and-consciousness.md references the Demirel findings but could emphasize the "distinct state" implication more strongly.
 
 ### 2. Metacognition-Prefrontal Structural Connection
-Frequent lucid dreamers have structurally larger anterior prefrontal cortex. This physical substrate for trainable metacognition supports the project's claim that the consciousness-brain interface is modifiable through practice.
+Frequent lucid dreamers have structurally larger anterior prefrontal cortex. This physical substrate for trainable metacognition supports the site's claim that the consciousness-brain interface is modifiable through practice.
 
 **Integration opportunity**: Connect to meditation-and-consciousness-modes.md—both lucid dreaming and meditation develop metacognitive capacity through trainable prefrontal engagement.
 
@@ -210,13 +210,13 @@ The 2025 Bilzer & Monzel study shows that voluntary mental imagery and dream ima
 We know dreams involve visual cortex activation, but the mechanism by which narrative content is generated remains unclear. How does the brain construct coherent (if bizarre) scenarios without external input?
 
 ### 2. What Happens During Genuinely Dreamless Sleep
-If consciousness fully withdraws during dreamless NREM, what maintains personal identity across the gap? the project's framework (indexical selection) could address this but needs development.
+If consciousness fully withdraws during dreamless NREM, what maintains personal identity across the gap? the site's framework (indexical selection) could address this but needs development.
 
 ### 3. Cross-Cultural Dream Phenomenology
 Most dream research is Western; Tibetan and other contemplative traditions report phenomena (awareness during dreamless sleep, dream yoga mastery) that haven't been empirically studied cross-culturally.
 
 ### 4. The Binding Problem Specifically During Dreams
-How does dream experience achieve phenomenal unity without sensory binding? the project has binding-problem.md and sleep-and-consciousness.md discussing offline binding, but the specific mechanism of dream-binding vs waking-binding deserves attention.
+How does dream experience achieve phenomenal unity without sensory binding? the site has binding-problem.md and sleep-and-consciousness.md discussing offline binding, but the specific mechanism of dream-binding vs waking-binding deserves attention.
 
 ## Potential Article Angles
 

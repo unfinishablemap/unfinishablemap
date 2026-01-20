@@ -18,7 +18,7 @@ title: AI Automation System
 topics: []
 ---
 
-this project uses scheduled AI automation to develop content over time. The system is designed to converge toward a comprehensive philosophical compendium while maintaining human oversight and alignment with the project's [tenets](/tenets/).
+this site uses scheduled AI automation to develop content over time. The system is designed to converge toward a comprehensive philosophical compendium while maintaining human oversight and alignment with the site's [tenets](/tenets/).
 
 ## How It Works
 

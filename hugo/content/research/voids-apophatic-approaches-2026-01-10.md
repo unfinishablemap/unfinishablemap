@@ -200,11 +200,11 @@ This is testably speculative: we can compare AI outputs in domains humans find d
 
 Based on this research, a voids article could:
 
-1. **"Learned Ignorance: Knowing What We Cannot Know"** - Focus on Cusanus's docta ignorantia as a methodology for the voids project. How acknowledging limits precisely can itself be illuminating. Connect to the project's epistemological humility.
+1. **"Learned Ignorance: Knowing What We Cannot Know"** - Focus on Cusanus's docta ignorantia as a methodology for the voids project. How acknowledging limits precisely can itself be illuminating. Connect to the site's epistemological humility.
 
 2. **"The Via Negativa: Mapping Voids Through Negation"** - Practical application of apophatic method to cognitive limits. How saying what consciousness is *not* may gesture toward what it is. Catalog the systematic failures of physicalist description as evidence of a genuine boundary.
 
-3. **"Cognitive Closure and the Hard Problem"** - Engage McGinn's mysterianism directly. Is the mind-body problem permanently closed to us? What would it mean if it were? How does this connect to the project's dualism?
+3. **"Cognitive Closure and the Hard Problem"** - Engage McGinn's mysterianism directly. Is the mind-body problem permanently closed to us? What would it mean if it were? How does this connect to the site's dualism?
 
 4. **"AI at the Edge: Probing Human Blind Spots"** - Develop the voids.md proposal to use AI as a probe for occluded territory. What methodology would test whether AI can access thoughts humans cannot?
 

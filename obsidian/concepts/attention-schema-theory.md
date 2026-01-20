@@ -25,7 +25,7 @@ last_curated: null
 
 Attention Schema Theory (AST), developed by neuroscientist Michael Graziano at Princeton University, proposes that subjective awareness is the brain's schematic model of its own attention. Just as the body schema helps track and control limb position, an "attention schema" helps monitor and control attention. Because this model necessarily omits mechanism details—representing attention's effects rather than its neural implementation—the brain concludes it possesses a non-physical essence of awareness. Consciousness, on this view, is neither illusion nor magic but a functional caricature: a useful simplification that helps the brain manage attentional resources.
 
-AST is a [[materialism|materialist]] theory that shares commitments with [[illusionism]]—the view that phenomenal consciousness (qualia, "what it's like") is systematically misrepresented by introspection. the project rejects AST because it explains *reports about* consciousness, not consciousness itself. The appearance of experience must appear *to something*, and that something cannot be another model without infinite regress.
+AST is a [[materialism|materialist]] theory that shares commitments with [[illusionism]]—the view that phenomenal consciousness (qualia, "what it's like") is systematically misrepresented by introspection. the site rejects AST because it explains *reports about* consciousness, not consciousness itself. The appearance of experience must appear *to something*, and that something cannot be another model without infinite regress.
 
 ## The Core Idea
 
@@ -111,9 +111,9 @@ While neural evidence supports overlapping substrates for self and other attenti
 
 AST claims the explanatory gap is an artifact of the model omitting its own mechanism. But why should omission generate the specific appearance of phenomenal experience? Other models omit their mechanisms (the body schema omits neuroanatomy) without generating anything like consciousness. Something special seems required—and that something is what needs explaining.
 
-## Why the project Rejects AST
+## Why the site Rejects AST
 
-AST conflicts directly with the [[tenets#^dualism|Dualism]] tenet. If consciousness is merely a neural model, there's nothing non-physical about it. the project holds that consciousness is irreducible to physical processes; AST holds it's entirely reducible to attention schemas.
+AST conflicts directly with the [[tenets#^dualism|Dualism]] tenet. If consciousness is merely a neural model, there's nothing non-physical about it. the site holds that consciousness is irreducible to physical processes; AST holds it's entirely reducible to attention schemas.
 
 More fundamentally, AST faces the same problem as all illusionist theories: **it explains access without explaining phenomenality**. The attention schema can explain:
 - Why we *believe* we have experiences
@@ -125,7 +125,7 @@ But it cannot explain why there is something it is like to believe, report, act,
 
 To see this, imagine a perfect attention schema implemented in silicon. By AST's lights, it should be conscious. But consider: would there be something it's like to *be* that system? AST has no resources to answer this beyond asserting that the question is confused. For those who find the question coherent—who take phenomenal consciousness seriously—AST offers explanation of everything except what matters.
 
-the project's alternative: attention is not what consciousness *is* but how consciousness *interfaces* with matter. The quantum consciousness framework proposes that attention is the mechanism by which non-physical consciousness influences physical outcomes. This preserves what AST gets right (attention's central role) while rejecting its eliminativist conclusion.
+the site's alternative: attention is not what consciousness *is* but how consciousness *interfaces* with matter. The quantum consciousness framework proposes that attention is the mechanism by which non-physical consciousness influences physical outcomes. This preserves what AST gets right (attention's central role) while rejecting its eliminativist conclusion.
 
 ## AST and AI Consciousness
 
@@ -133,21 +133,21 @@ AST has direct implications for AI. If consciousness is attention modeling, and 
 
 A 2025 analysis suggests current LLMs already exhibit workspace-like structures through transformer attention mechanisms, and that "with only minor modifications, they could fulfill the processing requirements for phenomenal consciousness" on AST assumptions.
 
-the project disagrees. Even if LLMs develop sophisticated attention schemas, this wouldn't generate phenomenal experience—it would generate sophisticated processing that models attention. The difference matters ethically: if AST is wrong and consciousness requires something beyond modeling, we could be wrong about which systems matter morally.
+the site disagrees. Even if LLMs develop sophisticated attention schemas, this wouldn't generate phenomenal experience—it would generate sophisticated processing that models attention. The difference matters ethically: if AST is wrong and consciousness requires something beyond modeling, we could be wrong about which systems matter morally.
 
 ## Relation to Site Perspective
 
 AST illustrates a recurring pattern in consciousness science: explaining the *function* of consciousness while ignoring its *reality*. The theory is sophisticated, empirically grounded, and computationally implemented—yet it doesn't explain what it set out to explain.
 
-**[[tenets#^dualism|Dualism]]**: AST is explicitly anti-dualist. the project holds consciousness is irreducible; AST holds it's a model. This is the central disagreement.
+**[[tenets#^dualism|Dualism]]**: AST is explicitly anti-dualist. the site holds consciousness is irreducible; AST holds it's a model. This is the central disagreement.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: the project proposes attention as the *interface* where consciousness influences quantum outcomes. AST has no place for such interaction—attention schemas are entirely physical.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: the site proposes attention as the *interface* where consciousness influences quantum outcomes. AST has no place for such interaction—attention schemas are entirely physical.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: AST is consistent with epiphenomenalism about consciousness (even if not about attention schemas). The schema influences behavior, but "consciousness" as something over and above the schema does nothing. the project rejects this.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: AST is consistent with epiphenomenalism about consciousness (even if not about attention schemas). The schema influences behavior, but "consciousness" as something over and above the schema does nothing. the site rejects this.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Irrelevant—AST doesn't engage quantum mechanics.
 
-**[[tenets#^occam|Occam's Razor Has Limits]]**: AST appeals to parsimony: why posit phenomenal experience when attention schemas suffice? the project responds: because phenomenal experience is what needs explaining. Eliminating the explanandum isn't explaining it.
+**[[tenets#^occam|Occam's Razor Has Limits]]**: AST appeals to parsimony: why posit phenomenal experience when attention schemas suffice? the site responds: because phenomenal experience is what needs explaining. Eliminating the explanandum isn't explaining it.
 
 ## Further Reading
 
@@ -155,7 +155,7 @@ AST illustrates a recurring pattern in consciousness science: explaining the *fu
 - [[illusionism]] — The philosophical framework AST instantiates
 - [[functionalism]] — The view that consciousness is functional role
 - [[hard-problem-of-consciousness]] — What AST claims to dissolve
-- [[quantum-consciousness]] — the project's alternative framework
+- [[quantum-consciousness]] — the site's alternative framework
 - [[ai-consciousness]] — Implications for artificial systems
 
 ## References

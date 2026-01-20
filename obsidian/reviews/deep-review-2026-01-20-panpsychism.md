@@ -32,7 +32,7 @@ last_curated: null
 - **Missing cross-links**: No connection to buddhism-and-dualism.md (relevant to subject-summing dissolution) or mysterianism.md (relevant to cognitive closure). → Added both to frontmatter concepts and Further Reading.
 
 ### Counterarguments Considered
-- **Eliminativist challenge**: The article accepts the hard problem as genuine without sufficiently engaging with eliminativist responses. This is acceptable given the project's tenet commitments, but noted.
+- **Eliminativist challenge**: The article accepts the hard problem as genuine without sufficiently engaging with eliminativist responses. This is acceptable given the site's tenet commitments, but noted.
 - **Cognitive closure**: Added mysterianism cross-link to acknowledge that the combination problem might exceed human cognitive capacities.
 
 ## Optimistic Analysis Summary

@@ -35,7 +35,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Downward causation is the thesis that higher-level properties can causally influence lower-level processes. When your decision to speak causes neurons to fire, this is downward causation—mental properties affecting physical events. This concept is central to defending the project's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet against Jaegwon Kim's exclusion argument. Kim contends that physical causes "screen off" higher-level causes, draining all causal efficacy to fundamental physics. this project's quantum framework provides a response: consciousness causally influences physical outcomes at points where physics is genuinely incomplete.
+Downward causation is the thesis that higher-level properties can causally influence lower-level processes. When your decision to speak causes neurons to fire, this is downward causation—mental properties affecting physical events. This concept is central to defending the site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet against Jaegwon Kim's exclusion argument. Kim contends that physical causes "screen off" higher-level causes, draining all causal efficacy to fundamental physics. this site's quantum framework provides a response: consciousness causally influences physical outcomes at points where physics is genuinely incomplete.
 
 ## The Concept Distinguished
 
@@ -135,7 +135,7 @@ The challenge: *how* does organisation contribute? What mechanism allows configu
 
 ## The Quantum Opening
 
-this project provides what O'Connor-Wong's emergentism lacks: a mechanism for downward causation that doesn't require violating physical law.
+this site provides what O'Connor-Wong's emergentism lacks: a mechanism for downward causation that doesn't require violating physical law.
 
 ### Why Quantum Mechanics Matters
 
@@ -145,7 +145,7 @@ This is precisely the opening downward causation requires. Kim's argument depend
 
 ### The Minimal Quantum Interaction Mechanism
 
-the project's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies how consciousness exercises downward causation: by biasing quantum outcomes where physics leaves the result undetermined.
+the site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies how consciousness exercises downward causation: by biasing quantum outcomes where physics leaves the result undetermined.
 
 Henry Stapp's quantum Zeno mechanism provides a concrete proposal. When you sustain attention on a neural pattern, you repeatedly "observe" the quantum states involved, holding them in place through the quantum Zeno effect (a watched pot that really never boils). This is downward causation—your attention (mental level) influences which neural patterns (physical level) become actual.
 
@@ -173,9 +173,9 @@ If the [many-worlds interpretation](/arguments/many-worlds/) is correct, all qua
 
 This matters critically for downward causation. The mechanism proposed here requires that consciousness *selects* among quantum possibilities. On MWI, consciousness would be epiphenomenal with respect to quantum events: it couldn't affect which outcomes occur because all outcomes occur.
 
-the project's [No Many Worlds](/tenets/#no-many-worlds) tenet isn't incidental to the framework—it's required for downward causation to be possible. If MWI were confirmed (though how this could occur is unclear), the quantum mechanism for downward causation would fail.
+the site's [No Many Worlds](/tenets/#no-many-worlds) tenet isn't incidental to the framework—it's required for downward causation to be possible. If MWI were confirmed (though how this could occur is unclear), the quantum mechanism for downward causation would fail.
 
-This creates a falsifiability condition: the project's position stands or falls with single-world interpretations of quantum mechanics.
+This creates a falsifiability condition: the site's position stands or falls with single-world interpretations of quantum mechanics.
 
 ### How This Differs from Classical Emergentism
 
@@ -190,7 +190,7 @@ The quantum framework improves on this in three ways:
 | Relation to physics | Requires violating closure | Exploits genuine incompleteness |
 | Testability | Difficult | Makes empirical predictions |
 
-the project specifies *where* downward causation operates (quantum indeterminacies in neural systems), *how* it operates (biasing probabilities rather than injecting energy), and *why* physical laws aren't violated (physics provides probabilities, not outcomes, at these points).
+the site specifies *where* downward causation operates (quantum indeterminacies in neural systems), *how* it operates (biasing probabilities rather than injecting energy), and *why* physical laws aren't violated (physics provides probabilities, not outcomes, at these points).
 
 ## Weak vs. Strong Downward Causation
 
@@ -202,7 +202,7 @@ Some philosophers distinguish weak from strong downward causation:
 
 Kim's exclusion argument targets strong downward causation specifically. Weak downward causation is compatible with physicalism and causal closure—it's just shorthand for talking about aggregate physical effects. Strong downward causation requires either rejecting causal closure or accepting identity (reducing the higher level to the lower).
 
-this project defends *strong* downward causation. The Dualism tenet holds that consciousness is irreducible; the Bidirectional Interaction tenet holds it has genuine causal powers. This requires denying causal closure—which the Minimal Quantum Interaction tenet specifies where and how.
+this site defends *strong* downward causation. The Dualism tenet holds that consciousness is irreducible; the Bidirectional Interaction tenet holds it has genuine causal powers. This requires denying causal closure—which the Minimal Quantum Interaction tenet specifies where and how.
 
 ## Process Philosophy Alternative
 
@@ -228,27 +228,27 @@ The illusionist trades the hard problem for an equally hard "illusion problem"�
 
 Downward causation, as defended here, is falsifiable. Findings that would undermine the framework:
 
-**Complete neural determinism**: If all neural events could be predicted from prior physical states with 100% accuracy, leaving no quantum gap for consciousness to fill, the project's mechanism would fail. Current predictive accuracy (~60% for simple choices) leaves substantial room, but dramatic advances in neural prediction would challenge the view.
+**Complete neural determinism**: If all neural events could be predicted from prior physical states with 100% accuracy, leaving no quantum gap for consciousness to fill, the site's mechanism would fail. Current predictive accuracy (~60% for simple choices) leaves substantial room, but dramatic advances in neural prediction would challenge the view.
 
 **Elimination of neural quantum effects**: If quantum coherence were proven physically impossible in brain tissue—not just challenging but excluded by physics—the proposed interface mechanism fails. Current evidence from quantum biology (avian magnetoreception, enzyme catalysis, photosynthesis) suggests biological quantum effects are more robust than expected, but definitive evidence against neural quantum effects would be significant.
 
 **Confirmation of Many-Worlds**: If the [many-worlds interpretation](/arguments/many-worlds/) were empirically confirmed (though how this could occur is unclear), there would be no collapse for consciousness to influence—all outcomes occur in branching universes. This would eliminate the quantum opening entirely.
 
-**Successful illusionist explanation**: If a fully satisfying account emerged explaining why we *seem* to have phenomenal experiences without any phenomenal properties existing—one that doesn't invoke seeming to something—this would dissolve the motivation for downward causation. Current illusionist proposals face the regress problem, but a proposal that genuinely avoided it would challenge the project's position.
+**Successful illusionist explanation**: If a fully satisfying account emerged explaining why we *seem* to have phenomenal experiences without any phenomenal properties existing—one that doesn't invoke seeming to something—this would dissolve the motivation for downward causation. Current illusionist proposals face the regress problem, but a proposal that genuinely avoided it would challenge the site's position.
 
 **Violations of Born rule probabilities**: If quantum experiments showed no deviations from standard probabilistic predictions even under conditions where consciousness should bias outcomes, this would constrain the mechanism's strength. Current experimental precision may be insufficient to detect the effects, but persistent null results would accumulate as evidence against the view.
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
-Downward causation is central to the project's framework.
+Downward causation is central to the site's framework.
 
-**Bidirectional Interaction**: the project's tenet that consciousness causally influences physical outcomes *just is* the affirmation of downward causation for mental properties. Every time you decide to act and your body moves, downward causation occurs.
+**Bidirectional Interaction**: the site's tenet that consciousness causally influences physical outcomes *just is* the affirmation of downward causation for mental properties. Every time you decide to act and your body moves, downward causation occurs.
 
 **The Quantum Mechanism**: The Minimal Quantum Interaction tenet specifies how downward causation works: consciousness biases quantum outcomes where physics is incomplete. This provides what classical defences of downward causation lacked—a mechanism that respects conservation laws while allowing genuine higher-level influence.
 
 **Against Epiphenomenalism**: If downward causation fails, consciousness causes nothing—we'd have [epiphenomenalism](/arguments/epiphenomenalism/). But epiphenomenalism is self-undermining: if consciousness causes nothing, our reports about consciousness aren't caused by consciousness, our beliefs about experience are causally disconnected from actual experiences, and our reasoning about mental causation isn't influenced by mental evidence. Downward causation must occur or we lose epistemic access to our own minds.
 
-**Strong Emergence**: the project's position is strong [emergentism](/concepts/emergence/) with a mechanism. Consciousness emerges from neural organisation but possesses genuinely novel causal powers. The quantum framework specifies how those powers operate without violating physical law.
+**Strong Emergence**: the site's position is strong [emergentism](/concepts/emergence/) with a mechanism. Consciousness emerges from neural organisation but possesses genuinely novel causal powers. The quantum framework specifies how those powers operate without violating physical law.
 
 **The Interface Mechanism**: [Attention](/concepts/attention-as-interface/) implements downward causation in practice. When you direct attention to sustain a thought or maintain a perceptual focus, you're exercising mental causation through the quantum Zeno effect. The phenomenology of [mental effort](/concepts/mental-effort/)—the felt sense that attention requires work—reflects genuine downward causation at the neural level.
 
@@ -259,18 +259,18 @@ Kim's exclusion argument remains the primary challenge. But its key premise—ca
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem downward causation addresses
 - [causal-closure](/concepts/causal-closure/) — The principle downward causation challenges
 - [emergence](/concepts/emergence/) — Strong emergence requires downward causation
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — the project's framework defending downward causation
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — the site's framework defending downward causation
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view denying downward causation
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The mechanism for consciousness-brain interaction
 - [agent-causation](/concepts/agent-causation/) — The metaphysical framework for substance causation
-- [many-worlds](/arguments/many-worlds/) — Why the project rejects MWI (and why it matters for downward causation)
+- [many-worlds](/arguments/many-worlds/) — Why the site rejects MWI (and why it matters for downward causation)
 - [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness exists
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention implements downward causation
 - [luck-objection](/concepts/luck-objection/) — The parallel challenge to agent causation
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge to emergence
-- [tenets](/tenets/) — the project's foundational commitments
+- [tenets](/tenets/) — the site's foundational commitments
 
 ## References
 

@@ -32,7 +32,7 @@ topics:
 
 Illusionism is the most radical physicalist response to the [hard problem](/topics/hard-problem-of-consciousness/). Rather than explaining how phenomenal consciousness arises from physical processes, illusionists deny that phenomenal consciousness exists at all. The "what it's like" aspect of experience—the redness of red, the painfulness of pain—is, on this view, an introspective illusion.
 
-This matters for the project's framework because illusionism represents the strongest challenge to taking consciousness seriously. If illusionists are right, there is no [explanatory-gap](/concepts/explanatory-gap/) because there's nothing non-physical to explain. The [Dualism](/tenets/#dualism) tenet would be defending something that doesn't exist.
+This matters for the site's framework because illusionism represents the strongest challenge to taking consciousness seriously. If illusionists are right, there is no [explanatory-gap](/concepts/explanatory-gap/) because there's nothing non-physical to explain. The [Dualism](/tenets/#dualism) tenet would be defending something that doesn't exist.
 
 ## The Core Claim
 
@@ -70,7 +70,7 @@ The proposal: just as the brain maintains a body schema to track limb position, 
 
 AST gains empirical traction from neuroimaging findings. A 2025 MIT study found that the same brain regions (right temporoparietal junction and superior temporal sulcus) track both your own attention states and others' attention—exactly what AST predicts if consciousness is modeled the same way we model other minds.
 
-**Why AST doesn't escape the hard problem:** the project rejects AST because it faces the same regress as all illusionist theories. If the attention schema *seems* to be consciousness, something must be doing the seeming. The appearance of experience must appear *to* something—and that something cannot be another model without infinite regress. AST explains why we *report* being conscious, not why there's anything it's like to be us. The seeming is the phenomenon that needs explaining. See [attention-schema-theory](/concepts/attention-schema-theory/) for a detailed treatment.
+**Why AST doesn't escape the hard problem:** the site rejects AST because it faces the same regress as all illusionist theories. If the attention schema *seems* to be consciousness, something must be doing the seeming. The appearance of experience must appear *to* something—and that something cannot be another model without infinite regress. AST explains why we *report* being conscious, not why there's anything it's like to be us. The seeming is the phenomenon that needs explaining. See [attention-schema-theory](/concepts/attention-schema-theory/) for a detailed treatment.
 
 ## Major Objections
 
@@ -152,11 +152,11 @@ Recent work has focused on several questions:
 
 ## Relation to Site Perspective
 
-Illusionism directly challenges the project's [tenets](/tenets/):
+Illusionism directly challenges the site's [tenets](/tenets/):
 
 **[Dualism](/tenets/#dualism)**: If there are no phenomenal properties, there's nothing non-physical to explain. But the objections—especially the infinite regress problem—suggest illusionism may be incoherent. Denying experience while using "seeming" and "illusion" language may quietly presuppose what it denies.
 
-**[Bidirectional Interaction](/tenets/#bidirectional)**: the project's framework treats conscious effort and attention as causally efficacious. Illusionism asks us to deny the very experiences that make mind-matter interaction seem evident. The phenomenology of trying, attending, and deciding—central to the [mental effort](/concepts/mental-effort/) model—would be mere appearance.
+**[Bidirectional Interaction](/tenets/#bidirectional)**: the site's framework treats conscious effort and attention as causally efficacious. Illusionism asks us to deny the very experiences that make mind-matter interaction seem evident. The phenomenology of trying, attending, and deciding—central to the [mental effort](/concepts/mental-effort/) model—would be mere appearance.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Illusionism might seem parsimonious—no new ontological categories needed. But it achieves only apparent simplicity by refusing to explain what needs explaining. If the illusion problem is as hard as the hard problem, physicalism hasn't progressed. It has only renamed the difficulty.
 
@@ -165,7 +165,7 @@ The persistence of the illusion problem suggests illusionism doesn't escape the 
 ## Further Reading
 
 ### Site Content
-- [attention-schema-theory](/concepts/attention-schema-theory/) — The neuroscientific mechanism for illusionism, and the project's critique
+- [attention-schema-theory](/concepts/attention-schema-theory/) — The neuroscientific mechanism for illusionism, and the site's critique
 - [attention](/concepts/attention/) — What AST claims consciousness is a model of
 - [arguments-against-materialism](/concepts/arguments-against-materialism/) — Illusionism as the most radical physicalist response
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap illusionism claims doesn't need bridging

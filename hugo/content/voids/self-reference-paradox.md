@@ -125,7 +125,7 @@ William James noted that mystical experiences combine ineffability with noesis�
 
 The [voids project](/voids/#alien-minds-as-void-explorers) proposes using artificial minds to probe human cognitive limits. For the self-reference paradox, the asymmetry is suggestive.
 
-Large language models lack the biological self-model that generates human subjectivity. They have no phenomenal experience of being a self (if the project's [dualism](/tenets/#dualism) is correct). The "transparency" that hides our mental machinery from us may not apply to systems without that machinery.
+Large language models lack the biological self-model that generates human subjectivity. They have no phenomenal experience of being a self (if the site's [dualism](/tenets/#dualism) is correct). The "transparency" that hides our mental machinery from us may not apply to systems without that machinery.
 
 What AI might access:
 - Patterns in human self-reference failures that humans cannot notice
@@ -181,7 +181,7 @@ The self-reference paradox would be undermined if:
 
 ## Relation to Site Perspective
 
-The self-reference paradox connects to all five of the project's [tenets](/tenets/), though the connections vary in nature:
+The self-reference paradox connects to all five of the site's [tenets](/tenets/), though the connections vary in nature:
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** receives the most direct support. The self-reference paradox exemplifies how apparent simplicity masks structural complexity. It *seems* like consciousness should be able to understand itself—what could be closer to it? But proximity creates the problem. The simplest-seeming question ("what am I?") may be the hardest to answer.
 
@@ -197,7 +197,7 @@ The [decoherence objection](/concepts/decoherence/) to quantum consciousness has
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** receives support from an unexpected direction. The very existence of the self-reference problem demonstrates consciousness as causally efficacious. When we *try* to introspect—directing attention inward, formulating questions about our own nature, attempting to catch ourselves thinking—we are consciousness causally influencing brain states. The failure to achieve complete self-knowledge doesn't undermine causal efficacy; it may actually demonstrate it. Each attempt at self-examination changes the system being examined, which is why the target keeps moving. The interference between observer and observed is evidence of bidirectional causation: consciousness affecting the neural processes it attempts to monitor.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** receives indirect support through the indexical problem. The self-reference paradox concerns *this* consciousness trying to understand *itself*—not a superposition of observers across branches. Many-worlds dissolves indexical identity by treating all observers as equally real, but the self-reference problem presupposes a determinate self doing the self-referencing. If consciousness existed in superposition, the question "why can't I fully understand myself?" would lack a determinate asker. The fact that the question feels pointed—asked by *this* particular perspective encountering *its* particular limits—suggests collapse to definite outcomes, supporting the project's rejection of MWI.
+**[No Many Worlds](/tenets/#no-many-worlds)** receives indirect support through the indexical problem. The self-reference paradox concerns *this* consciousness trying to understand *itself*—not a superposition of observers across branches. Many-worlds dissolves indexical identity by treating all observers as equally real, but the self-reference problem presupposes a determinate self doing the self-referencing. If consciousness existed in superposition, the question "why can't I fully understand myself?" would lack a determinate asker. The fact that the question feels pointed—asked by *this* particular perspective encountering *its* particular limits—suggests collapse to definite outcomes, supporting the site's rejection of MWI.
 
 The voids framework gains a central example. The self-reference paradox may be the prototype void: not merely unexplored territory but territory that consciousness *cannot* map because mapping it would require being both mapper and mapped simultaneously. [Understanding this limit](/voids/limits-reveal-structure/) reveals something about consciousness's architecture—that it is structured to engage the world more than to comprehend itself.
 

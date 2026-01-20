@@ -31,7 +31,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Emergence is the philosophical concept that higher-level properties arise from lower-level processes yet are not straightforwardly predictable from them. Consciousness is the paradigm case of a property that resists reduction—David Chalmers calls it "the paradigm of a strongly emergent phenomenon." this project's framework is best understood as a form of strong emergentism that specifies where and how consciousness exercises novel causal powers: at [quantum indeterminacies](/concepts/quantum-consciousness/) where physics is genuinely incomplete.
+Emergence is the philosophical concept that higher-level properties arise from lower-level processes yet are not straightforwardly predictable from them. Consciousness is the paradigm case of a property that resists reduction—David Chalmers calls it "the paradigm of a strongly emergent phenomenon." this site's framework is best understood as a form of strong emergentism that specifies where and how consciousness exercises novel causal powers: at [quantum indeterminacies](/concepts/quantum-consciousness/) where physics is genuinely incomplete.
 
 ## Weak vs. Strong Emergence
 
@@ -68,7 +68,7 @@ For strong emergentists—and dualists—this forces a choice: deny that conscio
 
 Kim himself diagnosed the dilemma facing his own argument: the causal closure principle must be neither too strong (begging the question by assuming physicalism) nor too weak (trivially allowing mental causation). Finding this balance proves difficult.
 
-the project resolves this by denying causal closure—not everywhere, but at the specific points where physics is genuinely incomplete. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet identifies quantum indeterminacy as this opening.
+the site resolves this by denying causal closure—not everywhere, but at the specific points where physics is genuinely incomplete. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet identifies quantum indeterminacy as this opening.
 
 ## Downward Causation
 
@@ -80,7 +80,7 @@ Their view requires rejecting causal closure:
 
 > "If one decides to act in the world—perhaps making up one's mind to switch on an electric kettle—strongly emergent consciousness (higher level) is imagined to downwardly cause a resultant state of (lower level) molecular motion."
 
-This is precisely what the project's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet affirms—consciousness causally influences physical outcomes.
+This is precisely what the site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet affirms—consciousness causally influences physical outcomes.
 
 ## Why Consciousness Is the Paradigm Case
 
@@ -94,11 +94,11 @@ Three features of consciousness resist reduction:
 
 Each of these features—unity, qualitative character, agency—is what strong emergence would predict and what weak emergence cannot explain.
 
-## the project's Position: Strong Emergence with a Mechanism
+## the site's Position: Strong Emergence with a Mechanism
 
 Classical British emergentists like Broad and Alexander affirmed strong emergence but couldn't specify how it operated. They accepted it with "natural piety"—brute facts to be acknowledged rather than explained.
 
-the project advances beyond this. The [quantum framework](/archive/arguments/interactionist-dualism/) provides what classical emergentism lacked: a mechanism for how non-physical causation operates without violating conservation laws.
+the site advances beyond this. The [quantum framework](/archive/arguments/interactionist-dualism/) provides what classical emergentism lacked: a mechanism for how non-physical causation operates without violating conservation laws.
 
 **The mechanism:** Consciousness selects among outcomes physics leaves undetermined. Quantum mechanics specifies probabilities but not which outcome actualizes. The Minimal Quantum Interaction tenet locates consciousness's influence here—biasing probabilities rather than injecting energy.
 
@@ -113,15 +113,15 @@ This differs from:
 
 The quantum framework answers Kim's exclusion argument: mental causation operates where physics is genuinely incomplete. No physical law is violated because no physical law determines which quantum outcome occurs.
 
-## O'Connor-Wong and the project's Framework
+## O'Connor-Wong and the site's Framework
 
-O'Connor and Wong's account of emergent properties with novel causal powers aligns closely with the project's framework. Their "structural triggering conditions" parallel how quantum indeterminacies in neural systems provide openings for consciousness to act.
+O'Connor and Wong's account of emergent properties with novel causal powers aligns closely with the site's framework. Their "structural triggering conditions" parallel how quantum indeterminacies in neural systems provide openings for consciousness to act.
 
-The difference: the project specifies the quantum mechanism they leave abstract. O'Connor and Wong acknowledge that strongly emergent properties require "something outside the purely physical domain." the project identifies what that something is and where it operates.
+The difference: the site specifies the quantum mechanism they leave abstract. O'Connor and Wong acknowledge that strongly emergent properties require "something outside the purely physical domain." the site identifies what that something is and where it operates.
 
 ## Comparing Challenges
 
-Critics sometimes argue that strong emergence merely names the problem without solving it—a case of what Dennett calls "greedy [reductionism](/concepts/reductionism/)" applied in reverse, expecting a single label to do explanatory work it cannot. But the comparison favors the project's position:
+Critics sometimes argue that strong emergence merely names the problem without solving it—a case of what Dennett calls "greedy [reductionism](/concepts/reductionism/)" applied in reverse, expecting a single label to do explanatory work it cannot. But the comparison favors the site's position:
 
 | Framework | Core Challenge |
 |-----------|---------------|
@@ -129,7 +129,7 @@ Critics sometimes argue that strong emergence merely names the problem without s
 | Panpsychism | [combination-problem](/concepts/combination-problem/): how do micro-experiences combine? |
 | Strong emergentism | Exclusion problem: how does mental causation work? |
 
-the project has a response to the exclusion problem—the quantum mechanism. This comparison isn't entirely fair to competitors—panpsychists have developed sophisticated responses to combination (Goff's cosmopsychism, Seager's microexperiential combinatorialism) and physicalists continue refining functionalist accounts. But the quantum framework offers something these alternatives lack: a *mechanism* that interfaces with known physics rather than requiring brute psychophysical correlations or fundamental revision of our ontology.
+the site has a response to the exclusion problem—the quantum mechanism. This comparison isn't entirely fair to competitors—panpsychists have developed sophisticated responses to combination (Goff's cosmopsychism, Seager's microexperiential combinatorialism) and physicalists continue refining functionalist accounts. But the quantum framework offers something these alternatives lack: a *mechanism* that interfaces with known physics rather than requiring brute psychophysical correlations or fundamental revision of our ontology.
 
 ## Can Strong Emergence Be Tested?
 
@@ -147,24 +147,24 @@ Strong emergence isn't empirically proven, but neither is it empirically immune.
 
 ## Why This Matters
 
-Emergence language provides vocabulary for articulating the project's position to philosophically sophisticated audiences:
+Emergence language provides vocabulary for articulating the site's position to philosophically sophisticated audiences:
 
 - "Strong emergence" signals irreducibility without requiring classical substance dualism
 - "Downward causation" names what the Bidirectional Interaction tenet affirms
 - "Kim's exclusion argument" identifies the main challenge the quantum framework addresses
 - "Novel causal powers" describes what consciousness possesses
 
-the project's framework can be understood as *emergentist dualism*—consciousness strongly emerges from physical organization but exercises genuinely distinct causal powers through the quantum opening.
+the site's framework can be understood as *emergentist dualism*—consciousness strongly emerges from physical organization but exercises genuinely distinct causal powers through the quantum opening.
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
-**Dualism:** the project's position is precisely strong emergentism—consciousness has properties and powers not deducible from physics. This is what the Dualism tenet affirms.
+**Dualism:** the site's position is precisely strong emergentism—consciousness has properties and powers not deducible from physics. This is what the Dualism tenet affirms.
 
-**Bidirectional Interaction:** Strong emergence requires downward causation. the project specifies the mechanism: consciousness selects among quantum-undetermined outcomes.
+**Bidirectional Interaction:** Strong emergence requires downward causation. the site specifies the mechanism: consciousness selects among quantum-undetermined outcomes.
 
 **Minimal Quantum Interaction:** This tenet identifies where strong emergence operates—at the level physics leaves genuinely open.
 
-**Occam's Razor Has Limits:** Both weak and strong emergence proposals face deep challenges. the project argues that consciousness's irreducibility reflects a genuine ontological fact, not merely our current ignorance.
+**Occam's Razor Has Limits:** Both weak and strong emergence proposals face deep challenges. the site argues that consciousness's irreducibility reflects a genuine ontological fact, not merely our current ignorance.
 
 ## Further Reading
 
@@ -172,7 +172,7 @@ the project's framework can be understood as *emergentist dualism*—consciousne
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem strong emergence addresses
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged and what this reveals about emergence theory
 - [reductionism](/concepts/reductionism/) — The three types of reductionism and why consciousness resists each
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — the project's framework as strong emergentism with mechanism
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — the site's framework as strong emergentism with mechanism
 - [causal-closure](/concepts/causal-closure/) — The principle strong emergentism must deny
 - [downward-causation](/concepts/downward-causation/) — How emergent properties causally influence lower levels
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reduction
@@ -181,7 +181,7 @@ the project's framework can be understood as *emergentist dualism*—consciousne
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical constraints from simple organisms
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The mechanism for downward causation
-- [tenets](/tenets/) — the project's foundational commitments
+- [tenets](/tenets/) — the site's foundational commitments
 
 ## References
 

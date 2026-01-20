@@ -51,7 +51,7 @@ last_curated: null
 
 Free will is the capacity to have done otherwise—to be the genuine author of one's choices rather than a puppet of prior causes. The question of whether we possess it ranks among philosophy's most contested. Neuroscience has added empirical data to what was once purely philosophical debate, and quantum mechanics has complicated the picture of physical determinism that once seemed to rule free will out.
 
-this project's framework offers a distinctive position: consciousness genuinely influences physical outcomes through quantum-level selection, and retrocausal mechanisms may explain how this works without violating the temporal ordering that seems to challenge it.
+this site's framework offers a distinctive position: consciousness genuinely influences physical outcomes through quantum-level selection, and retrocausal mechanisms may explain how this works without violating the temporal ordering that seems to challenge it.
 
 ## The Traditional Problem
 
@@ -61,7 +61,7 @@ This presents three options:
 
 **Hard Determinism**: Free will is an illusion. We feel like we choose, but our choices are determined by prior causes we neither chose nor control. Neuroscientists like Sam Harris embrace this view.
 
-**Libertarian Free Will**: We possess a capacity to initiate causal chains not fully determined by prior physical states. This seems to require something non-physical—a soul, perhaps—that can intervene in the physical order. Libertarianism comes in two varieties: *event-causal* libertarianism holds that mental events (beliefs, desires) cause actions through nondeterministic processes; *[[agent-causation|agent-causal]]* libertarianism holds that the agent as a persisting substance directly causes actions, irreducible to prior mental events. this project's framework is agent-causal—consciousness is the source, not merely a link in event chains.
+**Libertarian Free Will**: We possess a capacity to initiate causal chains not fully determined by prior physical states. This seems to require something non-physical—a soul, perhaps—that can intervene in the physical order. Libertarianism comes in two varieties: *event-causal* libertarianism holds that mental events (beliefs, desires) cause actions through nondeterministic processes; *[[agent-causation|agent-causal]]* libertarianism holds that the agent as a persisting substance directly causes actions, irreducible to prior mental events. this site's framework is agent-causal—consciousness is the source, not merely a link in event chains.
 
 **Compatibilism**: Free will is compatible with determinism because "free" doesn't mean "uncaused." It means acting from your own desires without external coercion. Modern compatibilists like Harry Frankfurt add sophistication: free will requires acting from desires you endorse on reflection—"second-order" desires about what you want to want. This captures something real about autonomous agency. Yet compatibilism leaves untouched the question that haunts: could the person who "chose" their desires and reflective endorsements have chosen otherwise? The feeling that genuine freedom requires something more than compatibilism provides motivates the search for a deeper account.
 
@@ -111,9 +111,9 @@ Alfred Mele sharpens this into two distinct problems:
 
 Present luck is the more devastating challenge for libertarianism specifically. Remote luck affects compatibilists too—everyone's character has unchosen origins. But present luck seems unique to indeterminism: if the choice is undetermined at the moment, what makes it *the agent's* rather than a random fluctuation?
 
-### Why the project's Framework Escapes Luck
+### Why the site's Framework Escapes Luck
 
-Standard quantum indeterminism is genuinely random—outcomes within probabilities occur without explanation. But the project proposes that consciousness *selects* outcomes rather than merely receiving them. This is a different relationship to indeterminacy:
+Standard quantum indeterminism is genuinely random—outcomes within probabilities occur without explanation. But the site proposes that consciousness *selects* outcomes rather than merely receiving them. This is a different relationship to indeterminacy:
 
 | Feature | Lucky Indeterminism | Consciousness-Selected Indeterminism |
 |---------|---------------------|--------------------------------------|
@@ -130,7 +130,7 @@ Furthermore, selection is reasons-guided, not arbitrary. Consciousness selects A
 
 Critics might press: even if consciousness "selects," what explains why consciousness selected A rather than B? The [[agent-causation|agent-causal]] response: the agent's exercise of causal power *is* the explanation. Asking what explains the agent's selection presupposes event-causal reduction. If agent causation is sui generis, the explanatory buck stops at the agent.
 
-But this assumes consciousness has no role in determining which outcome occurs. the project's framework proposes something different.
+But this assumes consciousness has no role in determining which outcome occurs. the site's framework proposes something different.
 
 ### The Decoherence Challenge
 
@@ -148,9 +148,9 @@ This is a serious challenge, but not necessarily fatal. Several lines of respons
 
 The question is empirical, not philosophical. [[quantum-consciousness|Quantum Consciousness Mechanisms]] and [[decoherence]] explore this challenge and the responses in detail. For present purposes: the decoherence objection is a challenge to be overcome, not a proof of impossibility.
 
-## the project's Position: Consciousness Selects Quantum Outcomes
+## the site's Position: Consciousness Selects Quantum Outcomes
 
-the project's commitment to [[interactionist-dualism]] provides the philosophical foundation for genuine free will. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences the physical world. Combined with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]—which proposes that consciousness biases otherwise indeterminate quantum outcomes—this suggests a picture where:
+the site's commitment to [[interactionist-dualism]] provides the philosophical foundation for genuine free will. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences the physical world. Combined with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]—which proposes that consciousness biases otherwise indeterminate quantum outcomes—this suggests a picture where:
 
 1. The brain prepares multiple possible action patterns (superposed neural states)
 2. Consciousness selects which pattern becomes actual
@@ -175,7 +175,7 @@ The readiness potential doesn't precede conscious choice in any causally signifi
 
 Free will requires [[mental-causation]]—the thesis that mental states cause physical effects. When you decide to raise your arm, your decision must cause the arm to rise. If consciousness causes nothing, free will is an elaborate illusion.
 
-The challenge is Jaegwon Kim's exclusion argument: if physical events have sufficient physical causes, mental causes seem excluded. Either consciousness is identical to brain states (reducing free will to physics) or consciousness causes nothing ([[epiphenomenalism]]). the project's quantum framework responds: physics provides *necessary but not sufficient* causes at quantum indeterminacies. [[causal-closure|Causal closure]] fails precisely where consciousness acts.
+The challenge is Jaegwon Kim's exclusion argument: if physical events have sufficient physical causes, mental causes seem excluded. Either consciousness is identical to brain states (reducing free will to physics) or consciousness causes nothing ([[epiphenomenalism]]). the site's quantum framework responds: physics provides *necessary but not sufficient* causes at quantum indeterminacies. [[causal-closure|Causal closure]] fails precisely where consciousness acts.
 
 But [[epiphenomenalism|epiphenomenalism]] faces a deeper problem: self-stultification. If conscious states have no causal influence, your belief that you're conscious isn't caused by actually being conscious—it's caused by whatever physical processes produce the belief. Your beliefs about consciousness would be causally disconnected from your conscious experiences.
 
@@ -183,15 +183,15 @@ This is more than epistemic trouble—it's self-undermining. Any argument *again
 
 The very fact that we're having this debate—that we form beliefs about consciousness based on conscious experience—suggests consciousness does something. Our beliefs aren't disconnected from what they're about. See [[mental-causation]] for the full argument.
 
-## Agent Causation: Why the project's Framework Is Libertarian
+## Agent Causation: Why the site's Framework Is Libertarian
 
-the project's position isn't just that free will exists—it's that free will requires [[agent-causation|agent causation]]. This distinction matters.
+the site's position isn't just that free will exists—it's that free will requires [[agent-causation|agent causation]]. This distinction matters.
 
 Event-causal libertarianism (defended by Robert Kane and Mark Balaguer) holds that mental events—beliefs, desires, intentions—cause actions, but these causal processes are nondeterministic. Quantum indeterminacy provides the openness. But critics argue this doesn't deliver genuine authorship: if my decision is caused by prior mental events I didn't choose, how am I the *ultimate* source? The causal chain still traces back to things outside my control.
 
 Agent causation answers differently. The agent—as a persisting substance, not a collection of events—directly causes the action. Roderick Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event), arguing that free action requires the latter. When I decide to raise my hand, it's not that "a decision event" caused "a raising event"; rather, *I* caused the raising. The agent is ontologically prior to the events.
 
-This is precisely what the project's framework claims. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness—the subject, the agent—causally influences physical outcomes. The quantum selection mechanism specifies *how*; agent-causal philosophy provides the conceptual framework for *what* is happening: substances exercising irreducible causal powers.
+This is precisely what the site's framework claims. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness—the subject, the agent—causally influences physical outcomes. The quantum selection mechanism specifies *how*; agent-causal philosophy provides the conceptual framework for *what* is happening: substances exercising irreducible causal powers.
 
 E.J. Lowe's argument is especially relevant: if all causation is fundamentally substance causation—agents exercising powers—then consciousness causing physical events isn't metaphysically exceptional. It's how causation works generally. This reframes the causal closure objection: physics describes regularities in what substances do; it doesn't prove substances are exclusively physical.
 
@@ -213,7 +213,7 @@ This enriches the agent-causal picture. The agent isn't merely a selector among 
 
 ## The Capacity to Suspend Selection
 
-the project's framework emphasizes that consciousness *selects*—it chooses among quantum possibilities. But [[meditation-and-consciousness-modes|meditation research]] reveals an additional dimension: consciousness can also *refrain from selecting*. This extends what free will means.
+the site's framework emphasizes that consciousness *selects*—it chooses among quantum possibilities. But [[meditation-and-consciousness-modes|meditation research]] reveals an additional dimension: consciousness can also *refrain from selecting*. This extends what free will means.
 
 ### Witness Mode as an Aspect of Agency
 
@@ -291,7 +291,7 @@ Two interpretations:
 1. **Neural noise**: Stochastic fluctuations bias choices—volition is partly random
 2. **Attentional sets**: Pre-prompt alpha reflects task-specific intentions already formed
 
-The second interpretation aligns with the project's framework. Selection operates *among* stochastic options rather than generating outcomes from nothing. Prior intentions (distal agency) shape which options are available. The preparatory activity may reflect the brain preparing possibilities for consciousness to select among—consistent with [[#the project's Position: Consciousness Selects Quantum Outcomes|the project's model]].
+The second interpretation aligns with the site's framework. Selection operates *among* stochastic options rather than generating outcomes from nothing. Prior intentions (distal agency) shape which options are available. The preparatory activity may reflect the brain preparing possibilities for consciousness to select among—consistent with [[#the site's Position: Consciousness Selects Quantum Outcomes|the site's model]].
 
 ### Phenomenology Matches Neuroscience
 
@@ -355,7 +355,7 @@ Two domains showing the same selection architecture strengthen the case that con
 
 ## What Free Will Requires
 
-On the project's framework, free will requires:
+On the site's framework, free will requires:
 
 1. **Consciousness as non-physical**: If consciousness were reducible to physical processes, it would be subject to the same deterministic (or randomly indeterministic) laws. The [[tenets#^dualism|Dualism]] tenet provides this, and [[interactionist-dualism]] explains how such non-physical consciousness can still causally engage with the physical world.
 
@@ -375,7 +375,7 @@ The neuroplasticity evidence strengthens this picture. Jeffrey Schwartz's OCD re
 
 Dennett's "heterophenomenology" is similar: first-person reports are data to be explained, not privileged access to mental facts. When you report that decision feels effortful, you're providing evidence about what your brain represents, not about what's really happening in consciousness. The brain might produce such representations regardless of whether anything phenomenal occurs.
 
-**the project's responses:**
+**the site's responses:**
 
 1. **Self-stultification.** If the sense of effort is illusory, why does it reliably track cognitive load? Easy tasks feel easy; hard tasks feel hard. Illusionism must explain why effort-seeming correlates so precisely with neural demand if there's no underlying causal connection. Coincidence seems implausible.
 
@@ -389,11 +389,11 @@ Dennett's "heterophenomenology" is similar: first-person reports are data to be 
 
 Free will is intimately connected to [[personal-identity]]. If you are the author of your choices, there must be a *you* doing the authoring—a persisting conscious being whose choices constitute a life.
 
-the project's framework provides this connection. The [[tenets#^no-many-worlds|No Many Worlds]] tenet emphasizes indexical identity: *this* conscious being matters, not just any being with the same psychological profile. When you make a choice, it's not just that "a choice was made" somewhere in the multiverse—*you* made it, and that's the only choice that happened.
+the site's framework provides this connection. The [[tenets#^no-many-worlds|No Many Worlds]] tenet emphasizes indexical identity: *this* conscious being matters, not just any being with the same psychological profile. When you make a choice, it's not just that "a choice was made" somewhere in the multiverse—*you* made it, and that's the only choice that happened.
 
 This transforms how we understand free will. On Parfit's reductionist view of personal identity, there's nothing more to being you than instantiating certain psychological patterns. But patterns don't make choices—consciousnesses do. If you're interchangeable with any replica sharing your psychology, then "your" choices don't belong to you in any deep sense. They belong to whoever happens to instantiate the pattern.
 
-But if this project is right—if you are an unrepeatable conscious being with a unique causal history of quantum selections—then your choices are genuinely *yours*. Each decision adds to a particular causal chain that constitutes your life. The consciousness doing the selecting right now is the same one that selected yesterday and will select tomorrow. This continuity grounds authorship.
+But if this site is right—if you are an unrepeatable conscious being with a unique causal history of quantum selections—then your choices are genuinely *yours*. Each decision adds to a particular causal chain that constitutes your life. The consciousness doing the selecting right now is the same one that selected yesterday and will select tomorrow. This continuity grounds authorship.
 
 The connection runs both ways. Free will requires persistent identity: there must be a *you* across time for choices to belong to. And persistent identity, on this framework, is partly constituted by the causal history of choices: *you* are the consciousness that made *those* selections.
 
@@ -405,7 +405,7 @@ This matters practically. Compatibilist desert is ultimately pragmatic—holding
 
 ## What Would Challenge This Framework?
 
-A framework that explains too much risks explaining nothing. What findings would challenge the project's picture?
+A framework that explains too much risks explaining nothing. What findings would challenge the site's picture?
 
 **Decisive neural determinism**: If neuroscience demonstrated that all decisions can be predicted from prior brain states with 100% accuracy at timescales ruling out quantum effects, this would undermine quantum-based free will. Current predictive accuracy (around 60% in choice prediction studies) leaves ample room for genuine indeterminacy.
 
@@ -442,7 +442,7 @@ Research shows that [[prospective-memory#Episodic Future Thinking|episodic futur
 - Improves goal-directed behaviour
 - Enhances delay of gratification
 
-If conscious simulation of future scenarios shapes present choices, consciousness participates in directing action exactly as the project's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet proposes. Mental representations of possible futures alter behavioural trajectories. This is mental causation in action.
+If conscious simulation of future scenarios shapes present choices, consciousness participates in directing action exactly as the site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet proposes. Mental representations of possible futures alter behavioural trajectories. This is mental causation in action.
 
 Patient KC provides striking evidence: after brain damage affecting episodic memory systems, he lost both pastward and futureward mental time travel. When asked what he would do tomorrow, his mind was "blank." The double deficit confirms that bidirectional temporal projection shares a common foundation—autonoetic consciousness—and that damage to this capacity disrupts both remembering and planning.
 
@@ -454,9 +454,9 @@ Each actual occasion has both a *physical pole* (receiving influences from the p
 
 This reframes the free will debate. The question isn't whether decisions are caused or uncaused but whether they involve genuine novelty. On Whitehead's view, every actual occasion introduces novelty through its subjective synthesis. The creative advance—the addition of something genuinely new—is the fundamental character of reality, not an exception requiring special explanation.
 
-**Relevance to the project's framework:**
+**Relevance to the site's framework:**
 
-- **Creative synthesis parallels selection.** What the project calls "consciousness selecting among quantum possibilities" Whitehead would describe as actual occasions exercising their mental pole—introducing subjective aim that shapes which potentials become actual.
+- **Creative synthesis parallels selection.** What the site calls "consciousness selecting among quantum possibilities" Whitehead would describe as actual occasions exercising their mental pole—introducing subjective aim that shapes which potentials become actual.
 
 - **The locus is the same.** Both frameworks locate agency at indeterminate junctures where multiple outcomes remain possible. Whitehead's "real potentials" are the quantum possibilities consciousness selects among.
 
@@ -493,7 +493,7 @@ Free will stands at the intersection of all five tenets:
 - [[quantum-indeterminacy-free-will]] — Comprehensive systematization of how quantum indeterminacy supports libertarian free will through consciousness-selected outcomes
 - [[consciousness-and-creativity]] — How consciousness both generates and selects possibilities, strengthening the case for genuine agency
 - [[mental-causation]] — Why mental causation is essential for free will and how the quantum framework addresses Kim's exclusion argument
-- [[agent-causation]] — Agent vs. event causation and why this project's framework is agent-causal
+- [[agent-causation]] — Agent vs. event causation and why this site's framework is agent-causal
 - [[moral-responsibility]] — How agent causation grounds desert differently than compatibilism
 - [[libet-experiments]] — The Libet experiments in detail: original findings, critiques, and the retrocausal resolution
 - [[prospective-memory]] — How distal intentions and future simulation support agent causation

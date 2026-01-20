@@ -207,7 +207,7 @@ The cumulative case against materialism would be undermined if:
 
 These arguments collectively support the [[tenets#^dualism|Dualism tenet]]: consciousness is not reducible to physical processes. The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] reminds us that materialism's apparent simplicity may reflect ignorance rather than insight—the "simpler" view may be wrong.
 
-the project doesn't rest on dismissing materialist responses but on the accumulated weight of evidence. When the best physicalist accounts either deny the obvious (that experience exists) or concede they can't explain what they claim to identify (Type-B physicalism), the alternative deserves serious consideration.
+the site doesn't rest on dismissing materialist responses but on the accumulated weight of evidence. When the best physicalist accounts either deny the obvious (that experience exists) or concede they can't explain what they claim to identify (Type-B physicalism), the alternative deserves serious consideration.
 
 The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects directly to these arguments. MWI attempts to dissolve the measurement problem without collapse—but this trades one mystery for another. The indexical identity problem ("why am I this observer?") becomes unanswerable. If consciousness genuinely selects outcomes rather than merely observing all of them in parallel branches, then MWI's apparent simplicity masks a failure to explain what needs explaining.
 
@@ -224,7 +224,7 @@ Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]
 - [[mysterianism]] – Cognitive closure as alternative interpretation
 - [[introspection]] – Reliability of phenomenal reports
 - [[decoherence]] – The quantum objection and its limits
-- [[many-worlds]] – Why the project rejects MWI
+- [[many-worlds]] – Why the site rejects MWI
 - [[arguments-for-dualism]] – Positive case for the alternative
 - [[causal-closure]] – The main objection to dualism and its limits
 - [[hard-problem-of-consciousness]] – The central challenge

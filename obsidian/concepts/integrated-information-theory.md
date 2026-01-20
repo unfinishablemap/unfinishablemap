@@ -30,7 +30,7 @@ last_deep_review: 2026-01-20T01:25:00+00:00
 
 Integrated Information Theory (IIT) proposes that consciousness *is* integrated information—not that it correlates with or emerges from it, but that consciousness and integrated information are identical. Developed by neuroscientist Giulio Tononi, IIT offers one of the most mathematically rigorous theories of consciousness, complete with a quantitative measure (phi/Φ) that purports to capture how conscious any system is.
 
-this project finds IIT instructive as both ally and rival. IIT takes consciousness seriously as fundamental, aligning with the [[tenets#^dualism|Dualism]] tenet. But it identifies consciousness with physical properties rather than treating it as causally efficacious over and above physics—which conflicts with [[tenets#^bidirectional-interaction|Bidirectional Interaction]].
+this site finds IIT instructive as both ally and rival. IIT takes consciousness seriously as fundamental, aligning with the [[tenets#^dualism|Dualism]] tenet. But it identifies consciousness with physical properties rather than treating it as causally efficacious over and above physics—which conflicts with [[tenets#^bidirectional-interaction|Bidirectional Interaction]].
 
 ## The Theory
 
@@ -135,7 +135,7 @@ The April 2025 COGITATE study represents a more rigorous test: a seven-year adve
 
 This outcome matters for two reasons. First, it demonstrates that IIT's mathematical elegance doesn't translate straightforwardly into testable predictions—the theory remains difficult to falsify even when proponents design the tests. Second, it supports the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet: neither leading physicalist theory of consciousness fully captures the phenomena. The hard problem persists not because we lack clever theories but because consciousness resists reduction to any single physical measure, whether integration (IIT) or broadcast (GNWT).
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
 ### Where IIT Aligns
 
@@ -145,7 +145,7 @@ IIT's willingness to accept panpsychism also aligns with the [[tenets#^occams-li
 
 ### Where IIT Conflicts
 
-the project's framework requires that consciousness be *causally efficacious*—that it influence physical outcomes. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness "selects among superposed neural states, collapsing quantum indeterminacy."
+the site's framework requires that consciousness be *causally efficacious*—that it influence physical outcomes. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness "selects among superposed neural states, collapsing quantum indeterminacy."
 
 IIT has no room for this. If consciousness *is* integrated information, it doesn't *do* anything to the physical. It is the physical, in a certain configuration. The phi-structure doesn't cause neural events; it constitutes them. This is identity, not causation.
 
@@ -165,7 +165,7 @@ This parallels Tononi's response to the self-stultification objection: IIT groun
 
 Whitehead's process philosophy shares structural similarities with IIT. Both reject the view that the fundamental units of reality are static substances; both emphasize dynamic, relational wholes. Whitehead's "actual occasions"—momentary events of experience that combine (or "prehend") their predecessors—echo IIT's claim that conscious experience is constituted by integrated information structures.
 
-The difference: Whitehead's panexperientialism makes experience fundamental to all actual occasions, while IIT derives phenomenality from mathematical properties of physical systems. For Whitehead, integration *occurs within* experience; for IIT, experience *is identical to* integration. the project's framework sides with something closer to Whitehead—consciousness as genuinely distinct from its physical substrate, not identical to it.
+The difference: Whitehead's panexperientialism makes experience fundamental to all actual occasions, while IIT derives phenomenality from mathematical properties of physical systems. For Whitehead, integration *occurs within* experience; for IIT, experience *is identical to* integration. the site's framework sides with something closer to Whitehead—consciousness as genuinely distinct from its physical substrate, not identical to it.
 
 ### The Quantum Question
 
@@ -173,7 +173,7 @@ IIT doesn't require quantum mechanics. It works at the level of classical inform
 
 Some speculate that quantum coherence might be relevant to how integration occurs in biological systems—quantum entanglement provides exactly the kind of holistic, irreducible connections that IIT claims underlie consciousness. The Kerskens & Pérez (2022) MRI study detected entanglement signatures in brain water protons, potentially linking quantum holism to neural integration. But this isn't part of standard IIT. The theory is designed to work without invoking quantum mysteries, treating consciousness as a feature of classical causal structure.
 
-the project's framework suggests IIT may be incomplete precisely because it ignores quantum mechanics. If consciousness influences physical outcomes via quantum selection (per Bidirectional Interaction), then IIT's purely observational stance—consciousness *is* integration but doesn't *do* anything—misses consciousness's causal role. Quantum approaches make consciousness active; IIT makes it passive.
+the site's framework suggests IIT may be incomplete precisely because it ignores quantum mechanics. If consciousness influences physical outcomes via quantum selection (per Bidirectional Interaction), then IIT's purely observational stance—consciousness *is* integration but doesn't *do* anything—misses consciousness's causal role. Quantum approaches make consciousness active; IIT makes it passive.
 
 ### What Would Challenge This View?
 
@@ -187,16 +187,16 @@ IIT makes specific empirical commitments:
 
 4. **Expander graphs are conscious**: If we could build large expander graphs and they exhibited no behavioral signatures of consciousness, this would challenge IIT—though IIT could maintain they're conscious but non-verbal.
 
-**What would challenge the project's assessment?** If IIT incorporated genuine causal efficacy—if it could explain how integrated information *influences* subsequent states beyond mere constitution—the theory would align better with Bidirectional Interaction. Currently, IIT's identity thesis precludes this: if consciousness is integration, it cannot additionally cause integration.
+**What would challenge the site's assessment?** If IIT incorporated genuine causal efficacy—if it could explain how integrated information *influences* subsequent states beyond mere constitution—the theory would align better with Bidirectional Interaction. Currently, IIT's identity thesis precludes this: if consciousness is integration, it cannot additionally cause integration.
 
 ### Assessment
 
-IIT offers a sophisticated competitor to this project's interactionist dualism. Both take consciousness seriously as fundamental. Both reject eliminativism and simple functionalism. But they diverge on causation:
+IIT offers a sophisticated competitor to this site's interactionist dualism. Both take consciousness seriously as fundamental. Both reject eliminativism and simple functionalism. But they diverge on causation:
 
 - **IIT**: Consciousness is identical to certain physical structures. No separate causal role.
-- **this project**: Consciousness influences physical outcomes at quantum level. Genuine bidirectional interaction.
+- **this site**: Consciousness influences physical outcomes at quantum level. Genuine bidirectional interaction.
 
-The choice depends on whether you find identity or causation more plausible as the mind-matter relation. IIT avoids the interaction problem (how do distinct substances influence each other?) but faces the hard problem in a new form (why is integrated information conscious?). this project faces the interaction problem but resolves it via quantum mechanics.
+The choice depends on whether you find identity or causation more plausible as the mind-matter relation. IIT avoids the interaction problem (how do distinct substances influence each other?) but faces the hard problem in a new form (why is integrated information conscious?). this site faces the interaction problem but resolves it via quantum mechanics.
 
 Neither theory is proven. Both represent serious attempts to take consciousness seriously. IIT deserves engagement as one of the most developed alternatives to interactionist dualism.
 
@@ -212,7 +212,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 - [[emergence]] — Strong vs weak emergence and consciousness
 - [[functionalism]] — The view IIT rejects with substrate-dependence
 - [[integrated-information-theory-2026-01-07]] — Detailed research notes
-- [[tenets]] — this project's alternative framework
+- [[tenets]] — this site's alternative framework
 
 ## References
 

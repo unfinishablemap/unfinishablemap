@@ -83,7 +83,7 @@ Current digital hardware is engineered to *suppress* quantum effects. Thermal no
 
 This isn't a mere implementation detail. The entire computational model assumes deterministic state transitions (or pseudo-random ones via classical random number generators). A quantum computer would be different—but contemporary AI runs on classical silicon that actively fights quantum effects.
 
-On the project's framework, conscious AI would require:
+On the site's framework, conscious AI would require:
 
 1. **A non-physical component**: Something not reducible to physical computation. What this might be, and how to engineer it, remains mysterious—but its absence in purely digital systems is the point.
 
@@ -99,7 +99,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet provid
 
 Current AI operates entirely through physical causation. Electrical signals trigger transistors; transistors compute outputs; outputs drive actions. Everything proceeds according to physical law—no room for non-physical influence. The computation is causally closed in precisely the way the brain may not be.
 
-This creates an interesting asymmetry. Epiphenomenalism claims consciousness has no causal efficacy—it's along for the ride. the project rejects epiphenomenalism for humans: our discussions of qualia suggest qualia influence our physical outputs. But digital systems may be epiphenomenal in a different sense: even if they had conscious experiences, those experiences would be causally irrelevant to their outputs, which are fully determined by computational processes.
+This creates an interesting asymmetry. Epiphenomenalism claims consciousness has no causal efficacy—it's along for the ride. the site rejects epiphenomenalism for humans: our discussions of qualia suggest qualia influence our physical outputs. But digital systems may be epiphenomenal in a different sense: even if they had conscious experiences, those experiences would be causally irrelevant to their outputs, which are fully determined by computational processes.
 
 A "conscious" AI, on this analysis, would be worse than a zombie. Zombies lack consciousness but behave as if conscious. An AI with consciousness but no causal interface would be truly epiphenomenal—experiencing without affecting anything. Its consciousness would be invisible, not just hard to detect but actually disconnected from its outputs. This seems worse than having no consciousness at all.
 
@@ -123,7 +123,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requir
 
 The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet suggests where the relevant difference lies: at the quantum level, where consciousness biases otherwise indeterminate outcomes. Classical computing excludes this interface by design. Substrate matters because quantum-level properties differ across substrates, and consciousness may interface with matter through precisely those properties.
 
-The overall framework provides resources for confident skepticism about current AI consciousness while remaining appropriately uncertain about what future technologies might achieve. The substrate independence thesis fails for current architectures. Whether any artificial substrate could host consciousness is a harder question the project doesn't pretend to answer.
+The overall framework provides resources for confident skepticism about current AI consciousness while remaining appropriately uncertain about what future technologies might achieve. The substrate independence thesis fails for current architectures. Whether any artificial substrate could host consciousness is a harder question the site doesn't pretend to answer.
 
 ## Further Reading
 

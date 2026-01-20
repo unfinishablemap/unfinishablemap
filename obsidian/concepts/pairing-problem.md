@@ -29,7 +29,7 @@ last_curated: null
 last_deep_review: 2026-01-20T19:45:00+00:00
 ---
 
-The pairing problem challenges substance dualism to explain what connects a particular mind to a particular body. Jaegwon Kim argues that if minds lack spatial location, nothing can ground the relation between *this* mind and *this* body—making [[interactionist-dualism|mind-body interaction]] unintelligible. This is distinct from the [[causal-closure]] objection and potentially more fundamental. the project's [[interface-locality]] framework provides a principled response: consciousness is spatially located where its quantum interface operates, and the pairing is built through developmental co-construction with a particular brain.
+The pairing problem challenges substance dualism to explain what connects a particular mind to a particular body. Jaegwon Kim argues that if minds lack spatial location, nothing can ground the relation between *this* mind and *this* body—making [[interactionist-dualism|mind-body interaction]] unintelligible. This is distinct from the [[causal-closure]] objection and potentially more fundamental. the site's [[interface-locality]] framework provides a principled response: consciousness is spatially located where its quantum interface operates, and the pairing is built through developmental co-construction with a particular brain.
 
 ## The Problem Stated
 
@@ -51,7 +51,7 @@ This goes beyond causal closure. The closure objection grants that mental causat
 
 ## Why This Matters
 
-The pairing problem reveals that interactionists must say something about the *metaphysics* of mind-body connection, not just the *physics*. Even granting that consciousness could affect physics at quantum indeterminacies (the project's response to causal closure), the question remains: why does *this* consciousness affect *this* brain?
+The pairing problem reveals that interactionists must say something about the *metaphysics* of mind-body connection, not just the *physics*. Even granting that consciousness could affect physics at quantum indeterminacies (the site's response to causal closure), the question remains: why does *this* consciousness affect *this* brain?
 
 The problem specifically targets substance dualism—the view that minds and bodies are distinct substances. [[substance-property-dualism|Property dualism]], which treats mental properties as properties of physical systems rather than separate substances, faces no comparable difficulty. Properties of a brain are "paired" with that brain trivially—they're properties of it.
 
@@ -100,9 +100,9 @@ Some philosophers argue that causation doesn't require spatial relations. Consid
 
 If any of these succeed, the pairing problem loses force. The dualist can say: mind-body causation is like these other cases—causal relations hold without spatial grounding.
 
-## the project's Position
+## the site's Position
 
-this project's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework provides a natural response to the pairing problem: consciousness is spatially located where it causally interfaces with the brain.
+this site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework provides a natural response to the pairing problem: consciousness is spatially located where it causally interfaces with the brain.
 
 If consciousness influences quantum outcomes in specific neural structures (microtubules, synapses, or other quantum-sensitive regions), consciousness is located *where those structures are*. The mind is paired with the body it occupies.
 
@@ -126,11 +126,11 @@ The [[decoherence]] objection—that quantum coherence cannot persist in warm br
 
 **Response**: The illusionist challenge relocates rather than solves the problem. Even granting that *what* consciousness is can be functionally characterized, there remains the question of *why* this functional system generates this first-person perspective. The pairing problem reappears as: why does *this* self-modeling generate *this* subjective viewpoint? Two functionally identical systems would generate two viewpoints—but nothing in the functional description explains which is which from the inside.
 
-The illusionist can deny that "from the inside" designates anything real—but this amounts to denying that consciousness exists, which the project's [[tenets#^dualism|Dualism tenet]] rejects. The pairing problem persists for anyone who accepts that phenomenal consciousness is genuine.
+The illusionist can deny that "from the inside" designates anything real—but this amounts to denying that consciousness exists, which the site's [[tenets#^dualism|Dualism tenet]] rejects. The pairing problem persists for anyone who accepts that phenomenal consciousness is genuine.
 
 ## What Would Challenge This View?
 
-the project's response to the pairing problem would face serious difficulty if:
+the site's response to the pairing problem would face serious difficulty if:
 
 1. **Non-spatial causation were incoherent**: If philosophers demonstrated that all causal relations require spatial grounding—that the very concept of causation presupposes spatial proximity—the "accept spatial location" response would be the only option, and other responses would fail.
 
@@ -154,15 +154,15 @@ But property dualism has its own costs:
 2. It leaves personal identity dependent on physical continuity
 3. It may collapse into [[epiphenomenalism]] if the "properties" have no causal powers beyond the physical base
 
-the project remains neutral between substance and property dualism, but the quantum framework works for both. Whether consciousness is a substance located in the brain or a property of brain states, the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—consciousness causally affecting quantum outcomes—remains coherent.
+the site remains neutral between substance and property dualism, but the quantum framework works for both. Whether consciousness is a substance located in the brain or a property of brain states, the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—consciousness causally affecting quantum outcomes—remains coherent.
 
 ## Relation to Site Perspective
 
-The pairing problem is central to the project's framework because answering it requires specifying the mind-body interface with precision.
+The pairing problem is central to the site's framework because answering it requires specifying the mind-body interface with precision.
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that consciousness influences quantum outcomes without adding energy. This requires consciousness to be *somewhere*—specifically, where the quantum interface operates. The pairing problem thus motivates the spatial location response: consciousness is in the brain because that's where the selection mechanism functions.
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires that consciousness causally affects physical outcomes. The pairing problem asks how *this* consciousness affects *this* brain rather than another. the project's answer: through developmental co-construction and interface locality. The pairing is built, not assigned.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires that consciousness causally affects physical outcomes. The pairing problem asks how *this* consciousness affects *this* brain rather than another. the site's answer: through developmental co-construction and interface locality. The pairing is built, not assigned.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is relevant because critics might dismiss haecceity as an unnecessarily complex addition. But if consciousness is genuine and not reducible to physical processes ([[tenets#^dualism|Dualism]]), then some individuation principle is required. Parsimony cannot eliminate what the data demands.
 
@@ -180,7 +180,7 @@ The [[objections-to-interactionism]] article provides comprehensive treatment of
 - [[substance-property-dualism]] - The choice between dualist frameworks
 - [[quantum-consciousness]] - The quantum mechanisms that address both objections
 - [[illusionism]] - The eliminativist challenge to the problem's presuppositions
-- [[decoherence]] - The quantum biology challenge to the project's framework
+- [[decoherence]] - The quantum biology challenge to the site's framework
 
 ## References
 

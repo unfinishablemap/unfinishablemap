@@ -28,7 +28,7 @@ Decoherence—the loss of quantum coherence through environmental interaction—
   - Does NOT solve the measurement problem; explains why we don't see superpositions but not why we see definite outcomes
   - Remains "interpretation-neutral"—works with Everett, pilot-wave, collapse theories
   - Dust particle (10⁻⁵ cm) achieves interference suppression in microseconds
-- **Tenet alignment**: Neutral—decoherence is compatible with collapse interpretations the project favors
+- **Tenet alignment**: Neutral—decoherence is compatible with collapse interpretations the site favors
 - **Quote**: "Decoherence as such does not provide a solution to the measurement problem, at least not unless it combined with an appropriate foundational approach."
 
 ### Wiest (2025) - A quantum microtubule substrate of consciousness
@@ -121,7 +121,7 @@ Decoherence—the loss of quantum coherence through environmental interaction—
 ### Does Decoherence Solve the Measurement Problem?
 - **Sides**: Physicists who think decoherence dissolves quantum weirdness vs. philosophers who argue it relocates rather than solves the problem
 - **Core disagreement**: Whether environmental entanglement selecting preferred bases constitutes an explanation of definite outcomes
-- **Current state**: SEP is clear: decoherence does NOT solve measurement problem alone. Still requires interpretation (Everett, collapse, pilot-wave). This is important for the project—decoherence doesn't eliminate the need for collapse or consciousness's role.
+- **Current state**: SEP is clear: decoherence does NOT solve measurement problem alone. Still requires interpretation (Everett, collapse, pilot-wave). This is important for the site—decoherence doesn't eliminate the need for collapse or consciousness's role.
 
 ### Tegmark vs. Hameroff on Brain Coherence Times
 - **Sides**: Tegmark (femtosecond decoherence) vs. Hameroff group (10⁻⁵ to 10⁻⁴ seconds after corrections)
@@ -174,7 +174,7 @@ The original todo asked: "Schrödinger's cat was warm and macroscopic yet in a s
 1. Schrödinger's cat was a thought experiment, not a claim that cats *can* be superposed. In practice, macroscopic objects decohere almost instantly (quadrillions of years to delocalize a 10kg box by 1µm—and that's without decoherence events).
 2. BUT: The boundary keeps moving. 7,000-atom nanoparticles, hot cat states at 1.8K, photosynthetic complexes—all show quantum effects where classical intuition said "impossible."
 3. Neural coherence times remain disputed. Tegmark: femtoseconds. Hameroff: microseconds to 100 microseconds after corrections. Neither confirmed experimentally in living brains.
-4. the project's position is defensible: decoherence is a challenge, not a refutation. New experiments (hot cats, quantum biology) suggest biology may have tools to manage decoherence that weren't anticipated. The Zeno mechanism may sidestep the objection entirely.
+4. the site's position is defensible: decoherence is a challenge, not a refutation. New experiments (hot cats, quantum biology) suggest biology may have tools to manage decoherence that weren't anticipated. The Zeno mechanism may sidestep the objection entirely.
 
 ## Citations
 

@@ -72,7 +72,7 @@ The CLI will confirm success or report rate limiting.
 - Genuinely interesting to a general audience
 - Understandable without deep context
 - Engaging enough to click through
-- Connected to the project's philosophical mission
+- Connected to the site's philosophical mission
 
 **Skip these (not highlight-worthy):**
 - Routine maintenance (validate-all, check-links)

@@ -225,7 +225,7 @@ def calculate_convergence(state: EvolutionState) -> float:
     """
     Calculate convergence score (0.0 to 1.0).
 
-    Measures how close the project is to being "complete" based on:
+    Measures how close the site is to being "complete" based on:
     - Content breadth (topics, concepts, arguments written)
     - Quality (issues from reviews)
     - Completeness (no placeholders)

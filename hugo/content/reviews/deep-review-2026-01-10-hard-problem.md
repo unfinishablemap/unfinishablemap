@@ -61,4 +61,4 @@ None. The article is well-structured and makes its arguments clearly.
 
 ## Remaining Items
 
-None. Article is now well-connected to the project's concept network and includes engagement with the mysterian position that the hard problem may mark a genuine cognitive limit.
+None. Article is now well-connected to the site's concept network and includes engagement with the mysterian position that the hard problem may mark a genuine cognitive limit.

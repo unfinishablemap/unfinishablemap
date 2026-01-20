@@ -24,7 +24,7 @@ last_curated: null
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Missing "Relation to Site Perspective" section**: Document had "this project's Position" but didn't follow standard format or cover all five tenets. Resolution: Restructured into proper "Relation to Site Perspective" with explicit subsections for each tenet.
+- **Missing "Relation to Site Perspective" section**: Document had "this site's Position" but didn't follow standard format or cover all five tenets. Resolution: Restructured into proper "Relation to Site Perspective" with explicit subsections for each tenet.
 - **No "What Would Challenge This View?" section**: Standard for deep-reviewed articles. Resolution: Added comprehensive falsifiability section with five conditions.
 - **Missing engagement with illusionism**: Document didn't address the illusionist challenge to AI consciousness claims. Resolution: Added "The Illusionist Challenge" section with four-part response.
 - **Missing decoherence discussion**: Quantum arguments referenced Minimal Quantum Interaction but didn't engage with decoherence objection for AI hardware. Resolution: Added "The Decoherence Challenge" section explaining why silicon faces different constraints.
@@ -80,7 +80,7 @@ The review substantially expanded the article from approximately 334 lines to ov
 
 4. **Restructured Relation to Site Perspective**: Explicit subsections for all five tenets with substantive connections rather than superficial mentions.
 
-5. **Falsifiability section**: Five conditions that would weaken the project's skepticism, with explanation of why none has occurred.
+5. **Falsifiability section**: Five conditions that would weaken the site's skepticism, with explanation of why none has occurred.
 
 ## Remaining Items
 

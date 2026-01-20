@@ -15,7 +15,7 @@ ai_generated_date:
 last_curated:
 ---
 
-This section will contain deep dives into philosophical topics explored on this project.
+This section will contain deep dives into philosophical topics explored on this site.
 
 Topics are extended explorations of specific questions or themes, drawing on the foundational tenets and related concepts.
 

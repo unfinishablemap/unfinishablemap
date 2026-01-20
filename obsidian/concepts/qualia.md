@@ -174,7 +174,7 @@ But functionalism struggles with the thought experiments above. If inverted qual
 
 The absent qualia objection sharpens the point. Philosopher Ned Block imagined the population of China organized to replicate a human brain's functional organization, with each person playing the role of a neuron and communicating by two-way radio. The system would be functionally identical to a conscious brain. But would there be something it's like to be China? Would qualitative experience emerge from people passing messages? The intuition that it would not—that the system would be a "blockhead" with no inner life—suggests that consciousness requires more than functional organization.
 
-Block called this the "absent qualia" problem: a system could implement the right functions yet lack qualia entirely. If so, functional organization is not sufficient for conscious experience. this project's framework agrees: consciousness requires something over and above functional structure—something that functional descriptions, however complete, cannot capture.
+Block called this the "absent qualia" problem: a system could implement the right functions yet lack qualia entirely. If so, functional organization is not sufficient for conscious experience. this site's framework agrees: consciousness requires something over and above functional structure—something that functional descriptions, however complete, cannot capture.
 
 ## The Phenomenal Concepts Strategy
 
@@ -208,7 +208,7 @@ Process philosophy doesn't dissolve the hard problem; it reframes it. The questi
 
 ## What Would Challenge This View?
 
-the project's position on qualia would face serious difficulty if:
+the site's position on qualia would face serious difficulty if:
 
 1. **Illusionism becomes coherent.** If a formulation of illusionism could be stated without presupposing phenomenal consciousness—without using "seeming," "appearing," or any language implying a subject of experience—the self-stultification objection would weaken. Currently no such formulation exists.
 
@@ -222,9 +222,9 @@ the project's position on qualia would face serious difficulty if:
 
 None of these conditions are currently met. The explanatory gap persists across decades of neuroscientific advance; inverted qualia remain conceivable; the zombie argument stands; and [[introspection]] research distinguishes process from content reliability.
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
-Qualia provide central support for the project's [[tenets|foundational commitments]].
+Qualia provide central support for the site's [[tenets|foundational commitments]].
 
 ### Dualism
 
@@ -274,7 +274,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[semantic-memory]] - How cognitive qualia appear in memory retrieval
 - [[emotional-consciousness]] - Affective qualia and why valence feels good or bad
 - [[combination-problem]] - How micro-experiences combine into unified consciousness
-- [[tenets]] - this project's foundational commitments, especially Dualism
+- [[tenets]] - this site's foundational commitments, especially Dualism
 - [[materialism]] - The view challenged by the existence of qualia
 
 ## References

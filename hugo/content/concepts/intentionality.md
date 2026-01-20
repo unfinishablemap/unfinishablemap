@@ -40,7 +40,7 @@ Franz Brentano reintroduced the concept to modern philosophy in 1874, claiming t
 
 This methodological approach shows why Brentano was right: consciousness is never empty. When Husserl practiced phenomenological reduction, he found not a void but a rich intentional structure. Every perception, thought, memory, and emotion is directed toward something. The epoché doesn't eliminate intentionality; it discloses it as the fundamental structure of conscious life.
 
-The phenomenological tradition also reveals the connection between intentionality and first-person irreducibility. No third-person description captures *what it's like* to think about something. Physical neuroscience might identify which neurons fire when you think about Paris, but it cannot capture the *aboutness*—the way Paris itself shows up in your experience as a meaningful object. This supports both Brentano's thesis and the project's [Dualism](/tenets/#dualism) commitment.
+The phenomenological tradition also reveals the connection between intentionality and first-person irreducibility. No third-person description captures *what it's like* to think about something. Physical neuroscience might identify which neurons fire when you think about Paris, but it cannot capture the *aboutness*—the way Paris itself shows up in your experience as a meaningful object. This supports both Brentano's thesis and the site's [Dualism](/tenets/#dualism) commitment.
 
 ## Brentano's Thesis
 
@@ -66,7 +66,7 @@ Since Brentano, many philosophers have tried to naturalize intentionality—to e
 
 **Informational theories** encounter the problem that mere correlation isn't representation. A tree ring carries information about annual rainfall, but doesn't *represent* rainfall—it's not *about* anything. What distinguishes genuine intentionality from mere information-carrying?
 
-No naturalistic theory has achieved consensus. As the Internet Encyclopedia of Philosophy notes, "Brentano was deeply pessimistic about the possibility of explaining intentionality in physical terms... no one has succeeded in refuting Brentano's thesis." This supports the project's [Occam's Razor Has Limits](/tenets/#occam) tenet: the "simpler" physical explanations don't work.
+No naturalistic theory has achieved consensus. As the Internet Encyclopedia of Philosophy notes, "Brentano was deeply pessimistic about the possibility of explaining intentionality in physical terms... no one has succeeded in refuting Brentano's thesis." This supports the site's [Occam's Razor Has Limits](/tenets/#occam) tenet: the "simpler" physical explanations don't work.
 
 ## Phenomenal Intentionality Theory
 
@@ -112,7 +112,7 @@ The relationship between intentionality and consciousness remains contested, but
 
 **If they're independent** (separatism), then we have two mysteries rather than one. Why do minds have both subjective character *and* directedness toward objects?
 
-For this project's purposes, the first option is most compatible with the tenets. Consciousness is the more fundamental phenomenon. Its irreducibility implies intentionality's irreducibility. And both support the rejection of [materialism](/arguments/materialism/).
+For this site's purposes, the first option is most compatible with the tenets. Consciousness is the more fundamental phenomenon. Its irreducibility implies intentionality's irreducibility. And both support the rejection of [materialism](/arguments/materialism/).
 
 ## The Illusionist Challenge
 
@@ -132,7 +132,7 @@ The intentionality debate has direct bearing on whether AI systems can be consci
 
 Recent work acknowledges a distinction between mental and linguistic intentionality. LLM outputs may be meaningful in a linguistic sense—they function as meaningful utterances because they participate in a linguistic system created by minds. But this borrowed meaning is not the same as the LLM *understanding* what it says.
 
-the project's position aligns with skepticism: [AI consciousness](/topics/ai-consciousness/) is unlikely given current architectures because those architectures lack whatever it is that grounds original intentionality. Computational sophistication is not a path to aboutness.
+the site's position aligns with skepticism: [AI consciousness](/topics/ai-consciousness/) is unlikely given current architectures because those architectures lack whatever it is that grounds original intentionality. Computational sophistication is not a path to aboutness.
 
 ## Process Philosophy and Intentionality
 
@@ -146,11 +146,11 @@ This connects to intentionality in several ways:
 
 **Objective immortality**: Past occasions are "objectively immortal" in the sense that they remain available for prehension by subsequent occasions. The aboutness of thought toward past events is then not a mysterious relation to what no longer exists, but a continuation of the way experience always incorporates its predecessors.
 
-This matters for the project's perspective because process philosophy provides a framework where intentionality is not an anomaly in nature but an intensification of something pervasive. The alternative to naturalizing intentionality isn't necessarily dualism but might be a different ontology where experience-like properties are fundamental.
+This matters for the site's perspective because process philosophy provides a framework where intentionality is not an anomaly in nature but an intensification of something pervasive. The alternative to naturalizing intentionality isn't necessarily dualism but might be a different ontology where experience-like properties are fundamental.
 
 ## What Would Challenge This View?
 
-the project's position on intentionality—that it's irreducible to physical description and grounded in phenomenal consciousness—would face serious challenge if any of the following occurred:
+the site's position on intentionality—that it's irreducible to physical description and grounded in phenomenal consciousness—would face serious challenge if any of the following occurred:
 
 1. **Successful naturalization**: If a naturalistic theory of intentionality achieved consensus—explaining content determination, handling the disjunction problem, and accounting for novel thoughts—the case for irreducibility would weaken. The persistent failure of such projects is evidence, not proof.
 
@@ -164,13 +164,13 @@ the project's position on intentionality—that it's irreducible to physical des
 
 ## The Decoherence Question
 
-If consciousness grounds intentionality (PIT), and if the project's framework holds that consciousness interfaces with quantum processes ([Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)), then intentionality becomes indirectly connected to quantum mechanics. When we intend something—direct our thoughts toward an object—this intentional act may be part of what shapes quantum selection in neural systems.
+If consciousness grounds intentionality (PIT), and if the site's framework holds that consciousness interfaces with quantum processes ([Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)), then intentionality becomes indirectly connected to quantum mechanics. When we intend something—direct our thoughts toward an object—this intentional act may be part of what shapes quantum selection in neural systems.
 
 The [decoherence objection](/concepts/decoherence/) applies here as elsewhere: critics argue quantum coherence cannot survive long enough in warm brains to matter. But as discussed in the decoherence article, this objection faces complications from quantum biology research and the unresolved measurement problem. If consciousness does influence neural quantum states, intentional content might be among the factors that shape which outcomes actualize.
 
-This remains speculative—the project holds it as a possibility consistent with the tenets, not an established fact.
+This remains speculative—the site holds it as a possibility consistent with the tenets, not an established fact.
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
 Intentionality connects to all five foundational tenets:
 

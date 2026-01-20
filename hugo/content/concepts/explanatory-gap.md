@@ -124,7 +124,7 @@ This suggests the gap is not merely in us but in the nature of things. If consci
 
 [Mysterianism](/concepts/mysterianism/) (see Colin McGinn) offers a middle path: perhaps the gap is real but reflects human cognitive limitations rather than consciousness being non-physical. On this view, there *is* a property of the brain that explains consciousness, but humans are "cognitively closed" to it—as permanently unable to grasp the mind-brain connection as rats are to grasp calculus.
 
-This position takes the gap seriously while remaining agnostic about its ultimate significance. the project's response: even granting cognitive closure, the gap argument provides evidence for the current conclusion. If we cannot know whether the gap is epistemic or ontological, we should track the evidence we have—and the convergence of multiple independent arguments pointing to consciousness being irreducible tips the balance toward dualism as the better working hypothesis. See [mysterianism](/concepts/mysterianism/) for extended discussion.
+This position takes the gap seriously while remaining agnostic about its ultimate significance. the site's response: even granting cognitive closure, the gap argument provides evidence for the current conclusion. If we cannot know whether the gap is epistemic or ontological, we should track the evidence we have—and the convergence of multiple independent arguments pointing to consciousness being irreducible tips the balance toward dualism as the better working hypothesis. See [mysterianism](/concepts/mysterianism/) for extended discussion.
 
 ### The Introspection Question
 
@@ -158,9 +158,9 @@ The gap argument would be weakened or refuted if:
 
 Currently, none of these conditions are close to being met. The gap persists across decades of neuroscientific advance, suggesting it reflects something deep about the relationship between physical and phenomenal—or about human cognitive architecture.
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
-The explanatory gap provides direct support for the [Dualism](/tenets/#dualism) tenet. If physical descriptions cannot explain consciousness even in principle—if the gap is not merely temporary ignorance—then consciousness involves something beyond the physical. the project takes the gap as evidence that consciousness is fundamental, not derived. Physical facts may correlate with conscious facts (neural correlates of consciousness) and may even lawfully determine them. But they don't *explain* them in the way physical explanations typically work.
+The explanatory gap provides direct support for the [Dualism](/tenets/#dualism) tenet. If physical descriptions cannot explain consciousness even in principle—if the gap is not merely temporary ignorance—then consciousness involves something beyond the physical. the site takes the gap as evidence that consciousness is fundamental, not derived. Physical facts may correlate with conscious facts (neural correlates of consciousness) and may even lawfully determine them. But they don't *explain* them in the way physical explanations typically work.
 
 ### Minimal Quantum Interaction
 
@@ -191,7 +191,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [mysterianism](/concepts/mysterianism/) — The cognitive closure alternative: the gap as human limitation
 - [introspection](/concepts/introspection/) — How we know about the gap in the first place
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A theory attempting to bridge the gap
-- [tenets](/tenets/) — How the project's framework responds to the gap
+- [tenets](/tenets/) — How the site's framework responds to the gap
 
 ## References
 

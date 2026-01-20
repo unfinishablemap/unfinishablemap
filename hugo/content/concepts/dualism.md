@@ -29,7 +29,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Dualism holds that reality contains more than just physical matter—consciousness or mind is something distinct that cannot be fully explained by physics. This is the first of this project's [five foundational commitments](/tenets/#dualism). The position is supported by multiple independent arguments: the [explanatory-gap](/concepts/explanatory-gap/) between physical description and subjective experience, the conceivability of [philosophical-zombies](/concepts/philosophical-zombies/), the [knowledge argument](/concepts/knowledge-argument/) (Mary's Room), and the intrinsic character of [qualia](/concepts/qualia/). These arguments converge on a single conclusion: consciousness has features that physical description cannot capture.
+Dualism holds that reality contains more than just physical matter—consciousness or mind is something distinct that cannot be fully explained by physics. This is the first of this site's [five foundational commitments](/tenets/#dualism). The position is supported by multiple independent arguments: the [explanatory-gap](/concepts/explanatory-gap/) between physical description and subjective experience, the conceivability of [philosophical-zombies](/concepts/philosophical-zombies/), the [knowledge argument](/concepts/knowledge-argument/) (Mary's Room), and the intrinsic character of [qualia](/concepts/qualia/). These arguments converge on a single conclusion: consciousness has features that physical description cannot capture.
 
 ## What Dualism Claims
 
@@ -55,9 +55,9 @@ Property dualism holds that mental properties are genuinely different from physi
 
 This includes positions like naturalistic dualism (Chalmers's early view), where phenomenal properties are fundamental features of nature that arise from physical complexity but don't reduce to physics.
 
-### Which Matters for this project
+### Which Matters for this site
 
-the project's [Dualism](/tenets/#dualism) tenet is compatible with either formulation. What matters is the irreducibility claim: consciousness cannot be identified with or derived from physical processes. Both substance and property dualism deliver this. The downstream commitments—[Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)—work with either ontological framework.
+the site's [Dualism](/tenets/#dualism) tenet is compatible with either formulation. What matters is the irreducibility claim: consciousness cannot be identified with or derived from physical processes. Both substance and property dualism deliver this. The downstream commitments—[Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)—work with either ontological framework.
 
 ## Arguments for Dualism
 
@@ -87,13 +87,13 @@ For comprehensive treatment, see [arguments-for-dualism](/concepts/arguments-for
 
 A crucial question for dualism: if mind and matter are distinct, how do they relate? Three main answers:
 
-**[Interactionism](/archive/arguments/interactionist-dualism/)**: Mind and body causally interact. Consciousness influences physical outcomes, and physical events influence consciousness. This is the project's position, specified in the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.
+**[Interactionism](/archive/arguments/interactionist-dualism/)**: Mind and body causally interact. Consciousness influences physical outcomes, and physical events influence consciousness. This is the site's position, specified in the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.
 
-**[Epiphenomenalism](/arguments/epiphenomenalism/)**: Body affects mind, but not vice versa. Consciousness is real but causally inert—along for the ride but not influencing outcomes. the project rejects this because it is self-undermining: if consciousness causes nothing, we cannot trust our reports about consciousness.
+**[Epiphenomenalism](/arguments/epiphenomenalism/)**: Body affects mind, but not vice versa. Consciousness is real but causally inert—along for the ride but not influencing outcomes. the site rejects this because it is self-undermining: if consciousness causes nothing, we cannot trust our reports about consciousness.
 
 **Parallelism**: Mind and body don't interact at all—they run in parallel without causal connection. This faces similar problems to epiphenomenalism and adds unexplained coordination.
 
-the project's framework commits to interactionism, with the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifying where and how: at quantum indeterminacies, consciousness biases otherwise undetermined outcomes without violating conservation laws.
+the site's framework commits to interactionism, with the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifying where and how: at quantum indeterminacies, consciousness biases otherwise undetermined outcomes without violating conservation laws.
 
 ## Objections to Dualism
 
@@ -103,7 +103,7 @@ If mind is non-physical, how can it causally affect the physical world? Classica
 
 ### The Parsimony Objection
 
-Isn't materialism simpler? Why posit two kinds of thing when one might suffice? the project's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses this: parsimony is unreliable when concepts are inadequate. Materialism is "simpler" only if it explains what needs explaining. A theory that explains mechanisms but not experience achieves economy by ignoring the phenomenon.
+Isn't materialism simpler? Why posit two kinds of thing when one might suffice? the site's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses this: parsimony is unreliable when concepts are inadequate. Materialism is "simpler" only if it explains what needs explaining. A theory that explains mechanisms but not experience achieves economy by ignoring the phenomenon.
 
 ### The Neural Correlation Objection
 
@@ -113,30 +113,30 @@ Doesn't neuroscience show that consciousness is just brain activity? Every menta
 
 Paul Bloom argued humans are "natural-born dualists" due to separate cognitive systems for physics and psychology—implying dualism is a cognitive bias to be outgrown. But Barrett et al.'s 2021 cross-cultural study found most people actually default to intuitive *materialism*, expecting mental states to cease at death. The cognitive science is contested, and more fundamentally, cognitive naturalness doesn't determine truth. See [intuitive-dualism](/concepts/intuitive-dualism/) for the full debate.
 
-## Relation to this project's Perspective
+## Relation to this site's Perspective
 
-Dualism is the project's first foundational commitment—the [Dualism tenet](/tenets/#dualism) states that consciousness is not reducible to physical processes.
+Dualism is the site's first foundational commitment—the [Dualism tenet](/tenets/#dualism) states that consciousness is not reducible to physical processes.
 
 This commitment is not arbitrary but grounded in the convergence of arguments: the explanatory gap, conceivability arguments, the knowledge argument, and the intrinsic character of qualia all point the same direction. [Materialism](/arguments/materialism/) in all its forms—reductive physicalism, functionalism, eliminativism—fails to bridge the gap between physical description and subjective experience.
 
-Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, the project holds [interactionist-dualism](/archive/arguments/interactionist-dualism/)—consciousness is distinct *and* causally efficacious. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies the interface: quantum indeterminacies where physics leaves outcomes undetermined.
+Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, the site holds [interactionist-dualism](/archive/arguments/interactionist-dualism/)—consciousness is distinct *and* causally efficacious. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies the interface: quantum indeterminacies where physics leaves outcomes undetermined.
 
 This framework is not a retreat to mystery. The interaction has a candidate mechanism (quantum selection via the Zeno effect or similar). The empirical findings (neural correlates) are predicted and explained. The position is coherent, parsimonious where parsimony matters (not positing unobserved forces), and takes seriously the one thing we know most directly: our own conscious experience.
 
 ## Further Reading
 
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — the project's position combining dualism with causal interaction
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — the site's position combining dualism with causal interaction
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The two main ontological frameworks for dualism
 - [arguments-for-dualism](/concepts/arguments-for-dualism/) — Comprehensive treatment of the positive case
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Major objections and detailed responses
 - [intuitive-dualism](/concepts/intuitive-dualism/) — Cognitive science debate on whether dualism is innate or learned
 - [materialism](/arguments/materialism/) — The view dualism rejects and why
-- [epiphenomenalism](/arguments/epiphenomenalism/) — Dualism without interaction (rejected by this project)
+- [epiphenomenalism](/arguments/epiphenomenalism/) — Dualism without interaction (rejected by this site)
 - [explanatory-gap](/concepts/explanatory-gap/) — The structural problem physical description faces
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room explained
 - [qualia](/concepts/qualia/) — The phenomenal properties dualism holds are irreducible
-- [tenets](/tenets/) — the project's five foundational commitments
+- [tenets](/tenets/) — the site's five foundational commitments
 
 ## References
 

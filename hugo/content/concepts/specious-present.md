@@ -32,7 +32,7 @@ topics:
 
 The specious present is the experienced duration of the present moment—not the mathematical instant of physics but the lived interval within which succession and change appear unified. When you hear a melody, you don't experience isolated tones but phrases, progressions, resolutions. This temporal thickness of experience, ranging from roughly 100 milliseconds to 3 seconds depending on methodology, is fundamental to what consciousness is.
 
-The concept, named by E.R. Clay and developed by William James, became central to Husserl's [phenomenology](/concepts/phenomenology/) of time-consciousness and remains crucial for understanding why consciousness might resist computational replication. For the project's framework, the specious present may be the phenomenological manifestation of consciousness's constitutive role in time—what quantum collapse feels like from within.
+The concept, named by E.R. Clay and developed by William James, became central to Husserl's [phenomenology](/concepts/phenomenology/) of time-consciousness and remains crucial for understanding why consciousness might resist computational replication. For the site's framework, the specious present may be the phenomenological manifestation of consciousness's constitutive role in time—what quantum collapse feels like from within.
 
 ## The Concept
 
@@ -82,7 +82,7 @@ Crucially, retention isn't remembering. It's experiencing the past-as-just-now w
 
 The difference matters for understanding consciousness. For extensionalism, consciousness has genuine temporal parts—the experience of C, then E, then G are distinct experiential phases that overlap. For retentionalism, each momentary experience is complete in itself but contains the whole temporal sequence as intentional content.
 
-the project's framework favors a modified extensionalism: experience is genuinely extended, but the extension involves quantum collapse. The duration-block is constituted by a series of collapses, each with retrocausal constraints. This explains both the extended phenomenology (extensionalism) and the retention-like structure (past echoing in present)—the retention may reflect retrocausal boundary conditions in the collapse process.
+the site's framework favors a modified extensionalism: experience is genuinely extended, but the extension involves quantum collapse. The duration-block is constituted by a series of collapses, each with retrocausal constraints. This explains both the extended phenomenology (extensionalism) and the retention-like structure (past echoing in present)—the retention may reflect retrocausal boundary conditions in the collapse process.
 
 ## Varela's Neurophenomenology
 
@@ -104,9 +104,9 @@ Working memory provides a promising neural correlate for the specious present. T
 
 **The temporal bridge.** Working memory "provides a temporal bridge between events—both those that are internally generated and environmentally presented—thereby conferring a sense of unity and continuity to conscious experience." This is precisely what the specious present does phenomenologically: it binds successive moments into a unified experiential present. WM's integrative function may implement what phenomenology describes.
 
-**Episodic buffer and binding.** Baddeley's episodic buffer—a limited-capacity store for integrated multimodal representations "accessed by conscious awareness"—performs binding across modalities and time. The buffer stores bound features and makes them available to consciousness without itself performing the binding. This raises the question the project's framework addresses: what does the binding? If consciousness participates constitutively in binding (as the [binding problem](/concepts/binding-problem/) analysis suggests), WM's episodic buffer may be where this participation is observable.
+**Episodic buffer and binding.** Baddeley's episodic buffer—a limited-capacity store for integrated multimodal representations "accessed by conscious awareness"—performs binding across modalities and time. The buffer stores bound features and makes them available to consciousness without itself performing the binding. This raises the question the site's framework addresses: what does the binding? If consciousness participates constitutively in binding (as the [binding problem](/concepts/binding-problem/) analysis suggests), WM's episodic buffer may be where this participation is observable.
 
-**Bandwidth constraint.** the project's [coupling law research](/concepts/psychophysical-coupling-law/) notes a ~10 bits/second limit on conscious information throughput. This matches both working memory capacity and the specious present's duration. The constraint may reflect consciousness's interface bandwidth: how much information can be held in the extended "now" is limited by how much consciousness can engage with at once.
+**Bandwidth constraint.** the site's [coupling law research](/concepts/psychophysical-coupling-law/) notes a ~10 bits/second limit on conscious information throughput. This matches both working memory capacity and the specious present's duration. The constraint may reflect consciousness's interface bandwidth: how much information can be held in the extended "now" is limited by how much consciousness can engage with at once.
 
 **Manipulation requires consciousness.** Recent research distinguishes working memory storage (which can be unconscious through activity-silent synaptic mechanisms) from working memory manipulation (which requires conscious reactivation). This supports the idea that the specious present isn't just information maintenance but involves consciousness actively—manipulating, selecting, binding the contents of the moment.
 
@@ -114,7 +114,7 @@ The specious present may be what working memory *feels like from inside*—the p
 
 ## Connection to Quantum Consciousness
 
-the project's framework proposes consciousness participates in [quantum collapse](/concepts/quantum-consciousness/), and [collapse constitutes time's arrow](/concepts/collapse-and-time/). The specious present may be the phenomenological manifestation:
+the site's framework proposes consciousness participates in [quantum collapse](/concepts/quantum-consciousness/), and [collapse constitutes time's arrow](/concepts/collapse-and-time/). The specious present may be the phenomenological manifestation:
 
 ### Duration Matches Collapse Timing
 
@@ -126,7 +126,7 @@ If collapse involves retrocausal boundary conditions (as in the transactional in
 
 ### Flow Isn't Illusion
 
-B-theory eternalists treat temporal flow as illusory—all times exist equally, and our sense of "now" moving is a persistent mistake. the project's framework disagrees: flow is real, the experiential side of time's constitution through collapse. The specious present isn't how the brain represents atemporal reality; it's how consciousness experiences its participation in time's creation.
+B-theory eternalists treat temporal flow as illusory—all times exist equally, and our sense of "now" moving is a persistent mistake. the site's framework disagrees: flow is real, the experiential side of time's constitution through collapse. The specious present isn't how the brain represents atemporal reality; it's how consciousness experiences its participation in time's creation.
 
 ### Cessation as Negative Evidence
 
@@ -138,7 +138,7 @@ LLMs process sequentially without specious presents. Each token prediction is co
 
 If the specious present is merely characteristic of biological consciousness (an implementation detail), this might not matter. But if temporal binding is constitutive of consciousness—if you need genuinely extended experience to be conscious at all—then AI systems as currently architected are categorically excluded.
 
-the project's position: the specious present isn't just how consciousness happens to work in humans; it's evidence that consciousness constitutes time rather than merely representing it. This places the specious present at the heart of why [AI consciousness](/topics/ai-consciousness/) is unlikely given current architectures.
+the site's position: the specious present isn't just how consciousness happens to work in humans; it's evidence that consciousness constitutes time rather than merely representing it. This places the specious present at the heart of why [AI consciousness](/topics/ai-consciousness/) is unlikely given current architectures.
 
 ## Relation to Site Perspective
 
@@ -156,7 +156,7 @@ The specious present connects to multiple tenets:
 
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Broader treatment of time in consciousness
 - [duration](/concepts/duration/) — Bergson's concept of lived time
-- [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the project's position
+- [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the site's position
 - [phenomenology](/concepts/phenomenology/) — First-person method for investigating temporal structure
 - [neurophenomenology](/concepts/neurophenomenology/) — Bridging phenomenology and neuroscience
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse may constitute time's arrow
