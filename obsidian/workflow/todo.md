@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T08:30:00+00:00
+ai_modified: 2026-01-20T20:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review attention-schema-theory.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Covers Graziano's theory that consciousness is the brain's schematic model of attention—important physicalist alternative to address. Check for cross-links to attention.md, attention-as-interface.md, illusionism.md, global-workspace-theory.md. Useful foil for explaining why attention-as-mechanism differs from attention-as-interface.
-- **Source**: staleness
-- **Generated**: 2026-01-21
-
 ### P2: Deep review phenomenal-value-realism.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page, never deep-reviewed. Covers view that phenomenal properties ground objective value—connects consciousness to ethics. Check for cross-links to ethics-of-consciousness.md, qualia.md, moral-responsibility.md, meaning-of-life.md. Supports Dualism via irreducibility of value to function.
@@ -71,6 +65,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review attention-schema-theory.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers Graziano's theory that consciousness is the brain's schematic model of attention—important physicalist alternative to address. Check for cross-links to attention.md, attention-as-interface.md, illusionism.md, global-workspace-theory.md. Useful foil for explaining why attention-as-mechanism differs from attention-as-interface.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with regress response, contemplative evidence, and self-stultification concern. Added "Process Philosophy Perspective" section covering why models cannot generate experience, concrescence vs. caricature, and prehension alternative. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Added "The Haecceity Problem" subsection addressing indexical identity. Expanded "Relation to Site Perspective" to all 5 tenets with substantive analysis. Added 8 new cross-links (witness-consciousness, introspection, haecceity, mental-effort, decoherence, attention-as-interface, global-workspace-theory, many-worlds).
+- **Output**: obsidian/concepts/attention-schema-theory.md, obsidian/reviews/deep-review-2026-01-20-attention-schema-theory.md
 
 ### ✓ 2026-01-20: Deep review inverted-qualia.md for currency and cross-links
 - **Type**: deep-review
