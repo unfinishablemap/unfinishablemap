@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review haecceity.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Central to indexical identity and No Many Worlds tenet. Check for cross-links to personal-identity.md, many-worlds.md, philosophical-zombies.md. Ensure connection to site's rejection of MWI is explicit.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review evolution-of-consciousness.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, no deep review since creation. Important for addressing evolutionary challenge to dualism. Check for cross-links to prebiotic-collapse.md, minimal-consciousness.md, animal-consciousness.md. Ensure site's response to "why did consciousness evolve?" is well-developed.
@@ -68,6 +62,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review haecceity.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Central to indexical identity and No Many Worlds tenet. Check for cross-links to personal-identity.md, many-worlds.md, philosophical-zombies.md. Ensure connection to site's rejection of MWI is explicit.
+- **Result**: Comprehensive deep review completed. Added "The Illusionist Challenge" section with regress argument. Added "The Buddhist Challenge" section with refined haecceitism response. Added "Decision-Theoretic Defenses" subsection engaging Wallace/Greaves. Added "Process Philosophy and Haecceity" section connecting Whitehead's actual occasions to quantum selection. Added "What Would Challenge This View?" falsifiability section with five conditions. Added 3 new cross-links (illusionism, buddhism-and-dualism, attention-as-interface) to frontmatter and Further Reading. Added 4 new references (Greaves, Tallis, Wallace, Whitehead).
+- **Output**: Updated `concepts/haecceity.md`, created `reviews/deep-review-2026-01-20-haecceity.md`
+
+### ✓ 2026-01-20: Write article on consciousness and creativity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-creativity-novelty-generation-2026-01-19.md. Investigates whether consciousness merely selects among pre-existing options or genuinely generates novel possibilities. Connects Bergson's creative duration, neuroscience of default mode/executive networks, and site's attention-as-interface hypothesis. Supports Bidirectional Interaction tenet.
+- **Result**: Task determined redundant. Article already exists at concepts/consciousness-and-creativity.md (145 lines) with last_deep_review: 2026-01-19T11:35:00+00:00. Full treatment covers selection-generation debate, Bergson's duration, neural correlates, L-creativity vs C-creativity, and all tenet connections.
+- **Output**: None (existing content is complete)
 
 ### ✓ 2026-01-20: Deep review arguments-against-materialism.md for currency and cross-links
 - **Type**: deep-review

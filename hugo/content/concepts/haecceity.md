@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-19 20:30:00+00:00
+ai_modified: 2026-01-20 04:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,12 +9,15 @@ concepts:
 - '[[self-and-consciousness]]'
 - '[[many-worlds]]'
 - '[[philosophical-zombies]]'
+- '[[illusionism]]'
+- '[[buddhism-and-dualism]]'
+- '[[attention-as-interface]]'
 created: 2026-01-16
-date: &id001 2026-01-16
+date: &id001 2026-01-20
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-20 04:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -127,6 +130,12 @@ But this presupposes that there's a fact about which branch you're in—a haecce
 
 Many-worlds theorists who embrace anti-haecceitism must find another route to the Born rule. Many who accept self-locating uncertainty are implicitly haecceitists—accepting that indexical facts are real even when qualitative facts are symmetric.
 
+### Decision-Theoretic Defenses
+
+Sophisticated MWI defenders (Wallace 2012, Greaves 2007) argue that decision theory can derive the Born rule without haecceitistic assumptions. On their view, a rational agent facing quantum uncertainty should assign credences to branches weighted by their squared amplitude—not because of facts about which branch they'll end up in, but because this weighting follows from rational constraints on preferences across branching scenarios.
+
+**Response**: These decision-theoretic derivations face their own challenges. The "rationality" constraints they invoke (separability, continuity, etc.) arguably presuppose that there's something it's like to be a particular agent making decisions—which reintroduces the subject whose identity is in question. More fundamentally, the question "What should I care about?" presupposes an "I" whose interests are at stake. If both post-measurement branches equally contain my continuers, why should I weight one more than another? The caring itself seems to require indexical identity.
+
 The broader [MWI critique](/arguments/many-worlds/) identifies four additional problems beyond probability—ontological extravagance, the preferred basis problem, and consciousness remaining unexplained. But the indexical identity problem and the probability problem both hinge on haecceity. If "you" can genuinely end up in multiple branches with equal claim to being you, the very concept of betting on outcomes becomes incoherent. What would you be betting *about*?
 
 ## Objections to Haecceity
@@ -142,6 +151,46 @@ The broader [MWI critique](/arguments/many-worlds/) identifies four additional p
 **Modal concerns**: Haecceitism implies that merely "swapping" individuals creates a different possible world even if qualitatively identical. This multiplies possibilities without empirical difference.
 
 **Response**: This multiplication may reflect genuine metaphysical structure. The question "What if I had been you?" seems meaningful even if empirically undetectable. Haecceitism honors this intuition.
+
+### The Illusionist Challenge
+
+[Illusionists](/concepts/illusionism/) like Dennett and Frankish argue that phenomenal consciousness is itself an illusion—the brain represents itself as having qualitative states it doesn't actually possess. If phenomenal consciousness doesn't exist in the robust sense haecceitism requires, then haecceity about conscious subjects is haecceity about a fiction.
+
+**Response**: The illusionist position faces a regress problem (Tallis 2016). For something to *seem* a certain way, there must be a subject to whom it seems that way—and this seeming is itself phenomenal. The illusion of consciousness requires consciousness to be an illusion *for*. Even if the content of experience is illusory, the subject of that illusion must exist. And if that subject exists, the question of which subject it is—the haecceitistic question—remains live.
+
+Furthermore, the illusionist who argues against haecceity performatively assumes their own indexical identity. *This* illusionist makes *this* argument, and expects *you* to be convinced. If there were no fact about which subject is arguing and which is reading, the dialectical situation would be incoherent.
+
+### The Buddhist Challenge
+
+Buddhist philosophy, particularly Madhyamaka, argues that the self is *sunyata* (empty)—lacking inherent existence. If there is no substantial self, haecceity about selves is haecceity about nothing. The "thisness" is itself empty.
+
+**Response**: The Buddhist analysis may be compatible with a refined haecceitism. The self can be empty of *qualitative* essence while still being *this* particular process. Consider: Buddhist philosophy doesn't deny that *this* person experiences *this* moment—it denies that there's a permanent, unchanging self underlying the experience. But haecceity doesn't require permanence; it requires particularity. *This* stream of experience, however impermanent and constructed, is still distinguishable from *that* stream. The indexical fact remains even if the referent is a process rather than a substance.
+
+This interpretation suggests haecceity may be more about the particularity of experiential processes than about substantial souls—a view potentially compatible with both [Buddhist insights](/concepts/buddhism-and-dualism/) and the site's framework.
+
+## Process Philosophy and Haecceity
+
+Alfred North Whitehead's process philosophy offers a complementary perspective. For Whitehead, reality consists of "actual occasions"—momentary experiential events that arise, prehend (grasp) their predecessors, and perish. Each actual occasion has what Whitehead called a "subjective form"—the particular way it experiences its data.
+
+This framework suggests haecceity can be temporal as well as spatial. Each moment of experience is *this* moment, unrepeatable and particular. Two actual occasions might prehend identical data yet differ in their subjective form—just as two subjects might share all qualitative properties yet differ in haecceity.
+
+The connection to quantum mechanics is suggestive. Whitehead proposed that actual occasions involve something like quantum collapse—the transition from potentiality to actuality. If consciousness participates in collapse through the [quantum Zeno mechanism](/concepts/attention-as-interface/), then the subject making selections is precisely the haecceitistic "this" that actualizes one possibility rather than another. The particularity of *this* subject grounds the particularity of *this* selection.
+
+## What Would Challenge This View?
+
+The haecceitistic framework would be challenged by:
+
+1. **Successful illusionist reduction**: If neuroscience could fully explain why we *seem* to be particular subjects without positing actual particularity—explaining the seeming without the being—haecceity about consciousness would lose its motivation.
+
+2. **Decision-theoretic success**: If MWI defenders could derive the Born rule from rationality constraints that genuinely don't presuppose indexical identity, the anti-MWI argument from haecceity would be weakened.
+
+3. **Successful replication consciousness transfer**: If someone were teleported and the original destroyed, and the replica reported continuous memory and no experiential discontinuity, this would support anti-haecceitism—though such reports couldn't settle whether the original subject survived or a new one emerged with false memories of continuity.
+
+4. **Explanatory reduction of thisness**: If haecceity could be reduced to some combination of qualitative properties we haven't yet identified, the primitive status of thisness would be undermined.
+
+5. **Buddhist-style dissolution**: If contemplative practice consistently revealed the self to be a construction with no bearer—not just philosophically but experientially—this would challenge the phenomenological basis for haecceitistic intuitions.
+
+These challenges remain unmet, but their form clarifies what the haecceitistic commitment claims.
 
 ## The Site's Commitment
 
@@ -175,12 +224,19 @@ The haecceity concept makes explicit what the site presupposes. Personal identit
 - [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self and phenomenology of thisness
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Why qualitative identity doesn't guarantee conscious identity
 - [meaning-of-life](/topics/meaning-of-life/) — Why your particular existence matters
+- [illusionism](/concepts/illusionism/) — The challenge that consciousness itself is illusory
+- [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on self and consciousness
+- [attention-as-interface](/concepts/attention-as-interface/) — The quantum mechanism for conscious selection
 
 ## References
 
 - Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
 - Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies*, 154, 349-360.
 - Black, M. (1952). "The Identity of Indiscernibles." *Mind*, 61(242), 153-164.
+- Greaves, H. (2007). "Probability in the Everett Interpretation." *Philosophy Compass*, 2(1), 109-128.
 - Lewis, D. (1979). "Attitudes De Dicto and De Se." *Philosophical Review*, 88(4), 513-543.
 - Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 - Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).
+- Tallis, R. (2016). "The Disappearance of Appearance: Illusions of Illusionism." *Philosophy*, 91(3), 363-379.
+- Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
+- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
