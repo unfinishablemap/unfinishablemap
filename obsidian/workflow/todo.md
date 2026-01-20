@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T19:30:00+00:00
+ai_modified: 2026-01-20T21:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,15 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review implicit-memory.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Covers non-conscious memory systems (procedural, priming, conditioning). Check for cross-links to episodic-memory.md, semantic-memory.md, working-memory.md, consciousness-selecting-neural-patterns.md. Supports Dualism via the contrast between conscious and non-conscious processing.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review prospective-memory.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page, never deep-reviewed. Covers future-oriented memory and intention management. Check for cross-links to episodic-memory.md, autonoetic-consciousness.md, voluntary-attention.md, mental-effort.md. Supports Bidirectional Interaction via the role of conscious intention in maintaining future-directed goals.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review duration.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers Bergson's durée concept—qualitative lived time vs. spatialized clock time. Check for cross-links to temporal-consciousness.md, specious-present.md, phenomenology.md, philosophy-of-time.md. Supports Dualism via the irreducibility of experienced duration to physical time.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review retrocausality.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers retrocausality as resolution to Libet timing objection—how consciousness can causally influence events despite neural activity preceding awareness. Check for cross-links to libet-experiments.md, collapse-and-time.md, quantum-indeterminacy-free-will.md. Supports Bidirectional Interaction tenet by dissolving temporal ordering objections.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review inverted-qualia.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers inverted spectrum thought experiment—Locke's scenario developed by Block, Fodor, Shoemaker as argument against functionalism. Check for cross-links to qualia.md, functionalism.md, knowledge-argument.md, philosophical-zombies.md. Supports Dualism tenet via argument that qualia aren't determined by function alone.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
@@ -65,6 +77,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review implicit-memory.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers non-conscious memory systems (procedural, priming, conditioning). Check for cross-links to episodic-memory.md, semantic-memory.md, working-memory.md, consciousness-selecting-neural-patterns.md. Supports Dualism via the contrast between conscious and non-conscious processing.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with regress response, asymmetry point, and contemplative evidence (samskara, witness consciousness). Added "Process Philosophy Perspective" section connecting Whitehead's actual occasions to automaticity, concrescence, and haecceity. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded all 5 tenet connections with decoherence acknowledgment, haecceity link, and negative evidence emphasis. Added 8 new cross-links (episodic-memory, working-memory, illusionism, introspection, witness-consciousness, haecceity, decoherence, consciousness-selecting-neural-patterns). Added 8 references.
+- **Output**: obsidian/concepts/implicit-memory.md, obsidian/reviews/deep-review-2026-01-20-implicit-memory.md
 
 ### ✓ 2026-01-20: Deep review cognitive-phenomenology.md for currency and cross-links
 - **Type**: deep-review

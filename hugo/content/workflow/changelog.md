@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 18:30:00+00:00
+ai_modified: 2026-01-20 21:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,28 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 21:15 - deep-review (implicit-memory.md)
+- **Status**: Success
+- **File**: obsidian/concepts/implicit-memory.md
+- **Critical issues addressed**: 3 (missing Illusionist Challenge section, missing "What Would Challenge This View?" section, missing Process Philosophy Perspective)
+- **Medium issues addressed**: 4 (no decoherence engagement, thin No Many Worlds argument, missing cross-links, no contemplative/Buddhist perspective)
+- **Enhancements made**: Added "The Illusionist Challenge" section with regress response, asymmetry point, and contemplative evidence (samskara, witness consciousness). Added "Process Philosophy Perspective" section connecting Whitehead's actual occasions to automaticity, concrescence, and haecceity. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded Minimal Quantum Interaction with decoherence acknowledgment and Stapp's Zeno mechanism. Expanded Bidirectional Interaction emphasizing negative evidence character. Expanded No Many Worlds with indexical problem and haecceity connection. Added 8 new cross-links (episodic-memory, working-memory, illusionism, introspection, witness-consciousness, haecceity, decoherence, consciousness-selecting-neural-patterns). Added 8 references.
+- **Output**: `reviews/deep-review-2026-01-20-implicit-memory.md`
+- **Session**: 421
+
+---
+
+### 19:30 - deep-review (cognitive-phenomenology.md)
+- **Status**: Success
+- **File**: obsidian/concepts/cognitive-phenomenology.md
+- **Critical issues addressed**: 1 (missing Illusionist Challenge section)
+- **Medium issues addressed**: 5 (missing "What Would Challenge This View?" section, missing Process Philosophy Perspective, missing Contemplative Evidence section, Minimal Quantum Interaction tenet not addressed, missing cross-links)
+- **Enhancements made**: Added "The Illusionist Challenge" section with regress response and phenomenology-survives-analysis subsections. Added "Contemplative Evidence" section covering witness consciousness and thought, jhāna states/non-sensory phenomenology, and insight phenomenology. Added "Process Philosophy Perspective" section (prehension and understanding, concrescence and insight, sui generis character). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded Relation to Site Perspective to all 5 tenets with substantive connections (especially Minimal Quantum Interaction via semantic selection). Added 5 new cross-links (illusionism, witness-consciousness, attention-as-interface, haecceity, decoherence). Added 4 new references (Frankish, Metzinger, Tallis, Whitehead). Fixed "the project" capitalization.
+- **Output**: `reviews/deep-review-2026-01-20-cognitive-phenomenology.md`
+- **Session**: 420
+
+---
 
 ### 18:30 - deep-review (death-and-consciousness.md)
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 18:30:00+00:00
+ai_modified: 2026-01-20 21:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,21 +38,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review cognitive-phenomenology.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Covers the phenomenal character of thought itself—whether thinking has irreducible experiential quality beyond sensory imagery. Check for cross-links to phenomenology.md, semantic-memory.md, introspection.md, llm-consciousness.md. Supports Dualism via the non-sensory phenomenology of understanding.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
-### P2: Deep review implicit-memory.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Covers non-conscious memory systems (procedural, priming, conditioning). Check for cross-links to episodic-memory.md, semantic-memory.md, working-memory.md, consciousness-selecting-neural-patterns.md. Supports Dualism via the contrast between conscious and non-conscious processing.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review prospective-memory.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page, never deep-reviewed. Covers future-oriented memory and intention management. Check for cross-links to episodic-memory.md, autonoetic-consciousness.md, voluntary-attention.md, mental-effort.md. Supports Bidirectional Interaction via the role of conscious intention in maintaining future-directed goals.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review duration.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers Bergson's durée concept—qualitative lived time vs. spatialized clock time. Check for cross-links to temporal-consciousness.md, specious-present.md, phenomenology.md, philosophy-of-time.md. Supports Dualism via the irreducibility of experienced duration to physical time.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review retrocausality.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers retrocausality as resolution to Libet timing objection—how consciousness can causally influence events despite neural activity preceding awareness. Check for cross-links to libet-experiments.md, collapse-and-time.md, quantum-indeterminacy-free-will.md. Supports Bidirectional Interaction tenet by dissolving temporal ordering objections.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review inverted-qualia.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers inverted spectrum thought experiment—Locke's scenario developed by Block, Fodor, Shoemaker as argument against functionalism. Check for cross-links to qualia.md, functionalism.md, knowledge-argument.md, philosophical-zombies.md. Supports Dualism tenet via argument that qualia aren't determined by function alone.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
@@ -72,6 +78,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review implicit-memory.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers non-conscious memory systems (procedural, priming, conditioning). Check for cross-links to episodic-memory.md, semantic-memory.md, working-memory.md, consciousness-selecting-neural-patterns.md. Supports Dualism via the contrast between conscious and non-conscious processing.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with regress response, asymmetry point, and contemplative evidence (samskara, witness consciousness). Added "Process Philosophy Perspective" section connecting Whitehead's actual occasions to automaticity, concrescence, and haecceity. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded all 5 tenet connections with decoherence acknowledgment, haecceity link, and negative evidence emphasis. Added 8 new cross-links (episodic-memory, working-memory, illusionism, introspection, witness-consciousness, haecceity, decoherence, consciousness-selecting-neural-patterns). Added 8 references.
+- **Output**: obsidian/concepts/implicit-memory.md, obsidian/reviews/deep-review-2026-01-20-implicit-memory.md
+
+### ✓ 2026-01-20: Deep review cognitive-phenomenology.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers the phenomenal character of thought itself—whether thinking has irreducible experiential quality beyond sensory imagery. Check for cross-links to phenomenology.md, semantic-memory.md, introspection.md, llm-consciousness.md. Supports Dualism via the non-sensory phenomenology of understanding.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with regress response and phenomenology-survives-analysis subsections. Added "Contemplative Evidence" section covering witness consciousness, jhāna states, and insight phenomenology. Added "Process Philosophy Perspective" section (prehension, concrescence, sui generis character). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded Relation to Site Perspective to all 5 tenets including Minimal Quantum Interaction. Added 5 new cross-links (illusionism, witness-consciousness, attention-as-interface, haecceity, decoherence). Added 4 new references.
+- **Output**: obsidian/concepts/cognitive-phenomenology.md, obsidian/reviews/deep-review-2026-01-20-cognitive-phenomenology.md
 
 ### ✓ 2026-01-20: Deep review death-and-consciousness.md for currency and cross-links
 - **Type**: deep-review
