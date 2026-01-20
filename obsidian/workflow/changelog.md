@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-20T12:35:00+00:00
+ai_modified: 2026-01-20T03:55:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,17 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 03:50 - deep-review (intentionality.md)
+- **Status**: Success
+- **File**: obsidian/concepts/intentionality.md
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (missing illusionism engagement, no falsifiability section, missing process philosophy, no decoherence connection, missing IEP citation)
+- **Enhancements made**: Added "The Illusionist Challenge" section engaging Dennett's intentional stance with self-refutation response, introspection question, and binding problem parallel. Added "Process Philosophy and Intentionality" section with Whitehead's prehension as proto-intentionality. Added "What Would Challenge This View?" section with five falsifiability conditions. Added "The Decoherence Question" connecting quantum biology to intentional content. Added explanatory-gap cross-link in PIT section. Added 4 new cross-links (illusionism, introspection, explanatory-gap, decoherence) to frontmatter and 4 to Further Reading. Added 3 new references (Dennett, IEP, Whitehead).
+- **Output**: `reviews/deep-review-2026-01-20-intentionality.md`
+- **Session**: 364
+
+---
 
 ### 12:30 - deep-review (prebiotic-collapse.md)
 - **Status**: Success
