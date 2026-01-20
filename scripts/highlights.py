@@ -5,7 +5,14 @@ import argparse
 import sys
 from pathlib import Path
 
-from tools.highlights import add_highlight, can_add_today, get_latest_date, trim_highlights
+from tools.highlights import (
+    add_highlight,
+    can_add_today,
+    get_latest_date,
+    parse_highlights,
+    post_tweet,
+    trim_highlights,
+)
 
 HIGHLIGHTS_FILE = Path("obsidian/workflow/highlights.md")
 
@@ -77,10 +84,44 @@ def cmd_trim(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_tweet_latest(args: argparse.Namespace) -> int:
+    """Tweet the most recent highlight."""
+    if not HIGHLIGHTS_FILE.exists():
+        print(f"Error: {HIGHLIGHTS_FILE} does not exist", file=sys.stderr)
+        return 1
+
+    highlights = parse_highlights(HIGHLIGHTS_FILE)
+
+    if not highlights:
+        print("No highlights found")
+        return 1
+
+    latest = highlights[0]
+    print(f"Tweeting: {latest['title']}")
+    print(f"Description: {latest['description']}")
+    if latest["link"]:
+        print(f"Link: {latest['link']}")
+
+    result = post_tweet(
+        title=latest["title"],
+        description=latest["description"],
+        link=latest["link"],
+        dry_run=args.dry_run,
+    )
+
+    if result["success"]:
+        if result["url"]:
+            print(f"Tweeted: {result['url']}")
+        else:
+            print("Tweet formatted (dry run)")
+        return 0
+    else:
+        print(f"Tweet failed: {result['error']}", file=sys.stderr)
+        return 1
+
+
 def cmd_list(args: argparse.Namespace) -> int:
     """List all highlights."""
-    from tools.highlights import parse_highlights
-
     if not HIGHLIGHTS_FILE.exists():
         print(f"Error: {HIGHLIGHTS_FILE} does not exist", file=sys.stderr)
         return 1
@@ -142,6 +183,14 @@ def main() -> int:
     # list command
     subparsers.add_parser("list", help="List all highlights")
 
+    # tweet-latest command
+    tweet_parser = subparsers.add_parser("tweet-latest", help="Tweet the most recent highlight")
+    tweet_parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Format tweet but don't actually post",
+    )
+
     args = parser.parse_args()
 
     if args.command is None:
@@ -153,6 +202,7 @@ def main() -> int:
         "check": cmd_check,
         "trim": cmd_trim,
         "list": cmd_list,
+        "tweet-latest": cmd_tweet_latest,
     }
 
     return commands[args.command](args)
