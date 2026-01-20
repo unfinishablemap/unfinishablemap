@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 22:12:00+00:00
+ai_modified: 2026-01-21 00:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review neural-correlates-of-consciousness.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page (2026-01-14), never deep-reviewed. Covers NCCs and their limitations—central to explaining why correlation doesn't establish identity. Check for cross-links to hard-problem-of-consciousness.md, explanatory-gap.md, dualism.md, measurement-problem.md. Supports Dualism tenet by highlighting what NCCs leave unexplained.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review eastern-philosophy-consciousness.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated topic page (2026-01-09), never deep-reviewed. Covers Buddhist and Eastern approaches to consciousness—key dialogue partner for site's Western dualism. Check for cross-links to buddhism-and-dualism.md, witness-consciousness.md, self-and-consciousness.md, meditation-and-consciousness-modes.md. Important for demonstrating site engages cross-cultural perspectives.
@@ -78,6 +72,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review neural-correlates-of-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (2026-01-14), never deep-reviewed. Covers NCCs and their limitations—central to explaining why correlation doesn't establish identity. Check for cross-links to hard-problem-of-consciousness.md, explanatory-gap.md, dualism.md, measurement-problem.md. Supports Dualism tenet by highlighting what NCCs leave unexplained.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with regress response and NCC neutrality analysis. Added "Contemplative Evidence and NCC" section covering observer problem and witness consciousness reports. Added "Process Philosophy Perspective" section (Whitehead's actual occasions, why NCCs are correlations not identities, concrescence and neural integration). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets with substantive analysis including explanatory gap argument for Dualism and indexical identity problem for No Many Worlds. Added 6 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity, explanatory-gap). Added 5 new references.
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md, obsidian/reviews/deep-review-2026-01-21-neural-correlates-of-consciousness.md
 
 ### ✓ 2026-01-20: Deep review predictive-processing.md for currency and cross-links
 - **Type**: deep-review

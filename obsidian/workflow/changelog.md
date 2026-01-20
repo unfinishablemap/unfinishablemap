@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-20T22:15:00+00:00
+ai_modified: 2026-01-21T00:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -18,6 +18,17 @@ last_curated:
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-21
+
+### 00:30 - deep-review (neural-correlates-of-consciousness.md)
+- **Status**: Success
+- **File**: obsidian/concepts/neural-correlates-of-consciousness.md
+- **Critical issues addressed**: 2 (missing illusionism engagement, no falsifiability section)
+- **Medium issues addressed**: 3 (incomplete tenet coverage—only 4 of 5 briefly, no process philosophy perspective, no contemplative evidence connecting to witness consciousness)
+- **Enhancements made**: Added "The Illusionist Challenge" section with regress response and NCC neutrality analysis. Added "Contemplative Evidence and NCC" section covering observer problem and what contemplatives report about witness consciousness. Added "Process Philosophy Perspective" section (Whitehead's actual occasions, why NCCs are correlations not identities, concrescence and neural integration). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" from ~150 words to ~700 words covering all 5 tenets with substantive analysis including explanatory gap argument for Dualism and indexical identity problem for No Many Worlds. Added 6 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity, explanatory-gap). Added 5 new references (Dennett, Frankish, Levine, Tallis, Whitehead).
+- **Output**: `reviews/deep-review-2026-01-21-neural-correlates-of-consciousness.md`
+- **Session**: 436
 
 ## 2026-01-20
 
