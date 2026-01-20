@@ -151,7 +151,7 @@ The framework offers three responses:
 
 **The structural point.** Even if consciousness were "merely" an introspective representation (as illusionists claim), the question of how collapse introduces temporal asymmetry remains physical. The arrow of time is independent of whether we correctly interpret our phenomenology. What the framework adds is that consciousness-involving collapse may be *how* the arrow emerges—not that consciousness *seems* to experience an arrow but that its participation in collapse *creates* one. This is a claim about physics, not about the accuracy of phenomenal reports.
 
-**The selection remains.** Illusionism doesn't eliminate the need for selection at quantum indeterminacies. Even if there's no phenomenal consciousness, *something* must determine which outcomes become actual. the Map's framework proposes that whatever performs this selection—call it consciousness, call it information processing, call it what you will—is implicated in temporal structure through its collapse-constitutive role. The phenomenology is evidence for this role, not its only support.
+**The selection remains.** Illusionism doesn't eliminate the need for selection at quantum indeterminacies. Even if there's no phenomenal consciousness, *something* must determine which outcomes become actual. The Map's framework proposes that whatever performs this selection—call it consciousness, call it information processing, call it what you will—is implicated in temporal structure through its collapse-constitutive role. The phenomenology is evidence for this role, not its only support.
 
 ## Process Philosophy Perspective
 

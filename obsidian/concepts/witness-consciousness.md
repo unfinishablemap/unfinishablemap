@@ -234,7 +234,7 @@ If the witness observes thoughts, what observes the witness? Must there be a wit
 
 If the witness only observes, isn't it causally inert? Doesn't this commit to [[epiphenomenalism]]—consciousness as mere spectator?
 
-**Response**: The witness mode is one mode among others. Consciousness *can* witness without intervening, but it need not always do so. The capacity for witnessing does not eliminate the capacity for selection. the Map's framework holds that consciousness influences matter through attention; it also holds that consciousness can suspend this influence. Neither mode alone exhausts what consciousness is.
+**Response**: The witness mode is one mode among others. Consciousness *can* witness without intervening, but it need not always do so. The capacity for witnessing does not eliminate the capacity for selection. The Map's framework holds that consciousness influences matter through attention; it also holds that consciousness can suspend this influence. Neither mode alone exhausts what consciousness is.
 
 ### The Reification Concern
 

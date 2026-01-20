@@ -116,7 +116,7 @@ Recent developments (2024-2026):
 
 Illusionism is directly relevant to The Unfinishable Map's [[tenets]]:
 
-**Dualism**: Illusionism is the most radical challenge to dualism. If there *are* no phenomenal properties, there's nothing non-physical to explain. However, the objections suggest illusionism may be incoherent or self-defeating. the Map's commitment to taking consciousness seriously opposes illusionism directly.
+**Dualism**: Illusionism is the most radical challenge to dualism. If there *are* no phenomenal properties, there's nothing non-physical to explain. However, the objections suggest illusionism may be incoherent or self-defeating. The Map's commitment to taking consciousness seriously opposes illusionism directly.
 
 **Bidirectional Interaction**: If illusionism is true, there's no consciousness to interact with matter. But the phenomenology of mental effort and attention—central to the Map's framework—seems undeniable. Illusionism asks us to deny the very experiences that make mind-matter interaction seem evident.
 

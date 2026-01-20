@@ -92,7 +92,7 @@ The measurement problem asks why quantum systems yield definite outcomes rather 
   - Von Neumann showed the "cut" can be placed anywhere in the measurement chain
   - The chain must terminate somewhere—consciousness is the natural terminus
   - Explains why we never experience superpositions
-- **Relation to site tenets**: Strongly supports Bidirectional Interaction, but historically abandoned by Wigner himself due to solipsism concerns. the Map's more modest "Minimal Quantum Interaction" avoids these problems by not requiring consciousness to be the *only* collapse mechanism.
+- **Relation to site tenets**: Strongly supports Bidirectional Interaction, but historically abandoned by Wigner himself due to solipsism concerns. The Map's more modest "Minimal Quantum Interaction" avoids these problems by not requiring consciousness to be the *only* collapse mechanism.
 
 ### 2. Quantum Zeno Effect (Stapp)
 - **Proponents**: Henry Stapp
@@ -129,7 +129,7 @@ The measurement problem asks why quantum systems yield definite outcomes rather 
   - Preserves unitary evolution (no special measurement dynamics)
   - Explains apparent randomness via self-location uncertainty
   - Avoids measurement problem entirely
-- **Relation to site tenets**: **Ruled out by No Many Worlds tenet**. the Map explicitly rejects this interpretation due to ontological proliferation and unanswerable indexical questions.
+- **Relation to site tenets**: **Ruled out by No Many Worlds tenet**. The Map explicitly rejects this interpretation due to ontological proliferation and unanswerable indexical questions.
 
 ### 6. QBism / Relational QM
 - **Proponents**: Fuchs, Mermin (QBism); Rovelli (RQM)
@@ -155,7 +155,7 @@ The measurement problem asks why quantum systems yield definite outcomes rather 
 ### Consciousness: Cause, Effect, or Irrelevant?
 - **Sides**: Wigner (early), Stapp vs. GRW theorists, many-worlders
 - **Core disagreement**: Is consciousness necessary for collapse, produced by collapse, or irrelevant?
-- **Current state**: Ongoing. Mainstream physics dismisses consciousness-causes-collapse, but the philosophical question of why we experience definite outcomes remains. the Map's position (consciousness influences but doesn't solely cause collapse at indeterminacies) navigates between extremes.
+- **Current state**: Ongoing. Mainstream physics dismisses consciousness-causes-collapse, but the philosophical question of why we experience definite outcomes remains. The Map's position (consciousness influences but doesn't solely cause collapse at indeterminacies) navigates between extremes.
 
 ### The Quantum-Classical Transition
 - **Sides**: Decoherentists vs. collapse theorists vs. many-worlders
@@ -197,7 +197,7 @@ The measurement problem shows physics itself may require observer involvement:
 4. **Self-stultification**: If we discuss QM, consciousness must influence physics (to move our mouths)
 
 ### No Many Worlds
-The measurement problem motivates many-worlds as an escape from collapse. the Map rejects this:
+The measurement problem motivates many-worlds as an escape from collapse. The Map rejects this:
 1. **Ontological proliferation**: Branching creates vast redundancy
 2. **Indexical problem**: Why am I *this* branch-instance?
 3. **The cost is too high**: Better to accept collapse than infinite splitting

@@ -98,7 +98,7 @@ The `/pessimistic-review` skill should check that opposing views are:
 
 ### Policy
 
-Empirical claims (about experiments, studies, statistics, neuroscience findings) must be traceable to sources. the Map should distinguish:
+Empirical claims (about experiments, studies, statistics, neuroscience findings) must be traceable to sources. The Map should distinguish:
 
 | Type | Treatment |
 |------|-----------|

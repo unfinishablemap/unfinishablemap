@@ -71,7 +71,7 @@ If consciousness is ontologically distinct from physics, their relationship must
 
 The crucial point for interactionism: supervenience laws alone yield epiphenomenalism. If psychophysical laws only specify what experience accompanies given physical states, consciousness remains causally inert—an epiphenomenal accompaniment to physical processes. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires *causal* laws, not merely supervenience laws. Consciousness doesn't just accompany brain states; it selects among physically underdetermined alternatives.
 
-Chalmers himself tends toward epiphenomenalism—accepting supervenience laws while remaining skeptical of causal laws. the Map diverges here. The self-stultification argument (see below) shows that epiphenomenalism is self-undermining, giving positive motivation for causal laws. The [[psychophysical-coupling-law]] page explores what such selection laws must accomplish; the [[psychophysical-laws]] page explains Chalmers' full framework and where the Map departs from it.
+Chalmers himself tends toward epiphenomenalism—accepting supervenience laws while remaining skeptical of causal laws. The Map diverges here. The self-stultification argument (see below) shows that epiphenomenalism is self-undermining, giving positive motivation for causal laws. The [[psychophysical-coupling-law]] page explores what such selection laws must accomplish; the [[psychophysical-laws]] page explains Chalmers' full framework and where the Map departs from it.
 
 ## The Historical Problem
 
@@ -224,7 +224,7 @@ Responses vary:
 - **General**: Decoherence calculations assume isolated systems and specific environmental coupling. Biological systems may exploit noise-assisted quantum effects, as demonstrated in photosynthetic energy transfer.
 - **Crucially**: Decoherence explains *basis selection*—why we see definite states rather than superpositions—but doesn't explain why *this particular* outcome occurs rather than another. As the [[decoherence]] page details, "the system still remains in a mixture of possible outcomes." Consciousness could bias which outcome actualizes even after decoherence has eliminated superposition.
 
-This remains an active empirical question. the Map takes no position on which quantum mechanism is correct, only that *some* such interface exists.
+This remains an active empirical question. The Map takes no position on which quantum mechanism is correct, only that *some* such interface exists.
 
 ## Agent Causation: The Metaphysical Framework
 

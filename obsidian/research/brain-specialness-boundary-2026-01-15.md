@@ -28,7 +28,7 @@ If consciousness can bias quantum outcomes in the brain, what stops it from:
 - Accessing information about distant events (telepathy, remote viewing)
 - Affecting future quantum events retroactively (precognition)
 
-Parapsychology research claims to find small but statistically significant effects in some of these domains. the Map cannot simply dismiss this research—but it also cannot endorse it without undermining its scientific credibility.
+Parapsychology research claims to find small but statistically significant effects in some of these domains. The Map cannot simply dismiss this research—but it also cannot endorse it without undermining its scientific credibility.
 
 The challenge: articulate a boundary that:
 1. Permits brain-internal quantum selection (as the framework requires)
@@ -179,14 +179,14 @@ Arguments that it doesn't:
 - Physical conservation laws would be violated by macroscopic PK
 - the Map's mechanism (attention → Zeno effect → neural states) doesn't extend to external systems
 
-### the Map's Position
+### The Map's Position
 
 **Proposed stance**: the Map's framework makes no prediction about external PK because:
 
 1. The mechanism is **neural-specific**: The quantum Zeno mechanism operates through attention, which is neurally implemented
 2. The interface is **embodied**: Consciousness interfaces with *its* brain through developmental/evolutionary integration
 3. **Absence of evidence** suggests external effects, if any, are below detection threshold
-4. the Map **remains agnostic** on external PK—it doesn't claim to disprove it, but doesn't require or predict it
+4. The Map **remains agnostic** on external PK—it doesn't claim to disprove it, but doesn't require or predict it
 
 This is intellectually honest: the framework predicts neural selection, not universal PK. External PK would require additional mechanisms the framework doesn't specify.
 

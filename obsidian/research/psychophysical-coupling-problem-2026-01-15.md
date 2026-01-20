@@ -40,7 +40,7 @@ Key quote: "Where we have new fundamental properties, we also have new fundament
 
 Chalmers proposes the **principle of organizational invariance**: any two systems with the same fine-grained functional organization will have qualitatively identical experiences. This is a structural constraint on psychophysical laws.
 
-**Limitation for selection**: Chalmers' psychophysical laws concern *which physical states produce which experiences* (upward direction). the Map needs laws in the *downward* direction: which conscious states produce which physical selections. Chalmers is largely agnostic on downward causation.
+**Limitation for selection**: Chalmers' psychophysical laws concern *which physical states produce which experiences* (upward direction). The Map needs laws in the *downward* direction: which conscious states produce which physical selections. Chalmers is largely agnostic on downward causation.
 
 ### Stapp on Quantum Selection Mechanism (2007, ongoing)
 

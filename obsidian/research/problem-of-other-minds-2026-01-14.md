@@ -175,7 +175,7 @@ If consciousness is non-physical, then physical evidence (behavior, brain states
 - The Bidirectional Interaction tenet implies consciousness has physical effects, which provides some grounding for behavioral evidence (if limited)
 
 ### Practical Resolution vs. Theoretical Problem
-Like the hard problem itself, the problem of other minds may be theoretically insoluble while practically manageable. the Map's approach to consciousness acknowledges limits on explanation without embracing eliminativism. A similar stance may apply to other minds: we cannot *prove* others are conscious, but we are practically certain and ethically obligated to act accordingly.
+Like the hard problem itself, the problem of other minds may be theoretically insoluble while practically manageable. The Map's approach to consciousness acknowledges limits on explanation without embracing eliminativism. A similar stance may apply to other minds: we cannot *prove* others are conscious, but we are practically certain and ethically obligated to act accordingly.
 
 ### AI and Animal Extensions
 The Map already addresses AI consciousness (skeptically) and animal consciousness. The problem of other minds provides the theoretical framework for these discussions:

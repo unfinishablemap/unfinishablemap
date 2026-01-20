@@ -165,7 +165,7 @@ This framework preserves what AST gets right (attention's central role in consci
 
 ## Why the Map Rejects AST
 
-AST conflicts directly with the [[tenets#^dualism|Dualism]] tenet. If consciousness is merely a neural model, there's nothing non-physical about it. the Map holds that consciousness is irreducible to physical processes; AST holds it's entirely reducible to attention schemas.
+AST conflicts directly with the [[tenets#^dualism|Dualism]] tenet. If consciousness is merely a neural model, there's nothing non-physical about it. The Map holds that consciousness is irreducible to physical processes; AST holds it's entirely reducible to attention schemas.
 
 More fundamentally, AST faces the same problem as all illusionist theories: **it explains access without explaining phenomenality**. The attention schema can explain:
 - Why we *believe* we have experiences
@@ -209,11 +209,11 @@ The Map's critique of AST would face serious difficulty if:
 
 AST illustrates a recurring pattern in consciousness science: explaining the *function* of consciousness while ignoring its *reality*. The theory is sophisticated, empirically grounded, and computationally implemented—yet it doesn't explain what it set out to explain.
 
-**[[tenets#^dualism|Dualism]]**: AST is explicitly anti-dualist. the Map holds consciousness is irreducible; AST holds it's a model. This is the central disagreement. The regress problem—that seeming presupposes a subject—provides the Map's primary response. The attention schema might track attention states, but tracking is not experiencing. Something must be the subject for whom tracking occurs.
+**[[tenets#^dualism|Dualism]]**: AST is explicitly anti-dualist. The Map holds consciousness is irreducible; AST holds it's a model. This is the central disagreement. The regress problem—that seeming presupposes a subject—provides the Map's primary response. The attention schema might track attention states, but tracking is not experiencing. Something must be the subject for whom tracking occurs.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: the Map proposes attention as the *interface* where consciousness influences quantum outcomes. AST has no place for such interaction—attention schemas are entirely physical. Yet the [[decoherence|decoherence challenge]] applies differently: AST doesn't need quantum coherence because it doesn't invoke quantum mechanisms. This makes AST compatible with physicalist interpretations of quantum mechanics while leaving the Map's alternative viable if decoherence objections can be met.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: AST is consistent with epiphenomenalism about consciousness (even if not about attention schemas). The schema influences behavior, but "consciousness" as something over and above the schema does nothing. the Map rejects this. The phenomenology of effort—feeling that attention costs something—supports bidirectional interaction. If effort were mere representation, why would evolution produce the misleading sense that we're working? On the Map's view, effort feels real because it *is* real engagement.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: AST is consistent with epiphenomenalism about consciousness (even if not about attention schemas). The schema influences behavior, but "consciousness" as something over and above the schema does nothing. The Map rejects this. The phenomenology of effort—feeling that attention costs something—supports bidirectional interaction. If effort were mere representation, why would evolution produce the misleading sense that we're working? On the Map's view, effort feels real because it *is* real engagement.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: AST doesn't engage quantum mechanics, making this tenet seemingly irrelevant. But there's a deeper connection: AST is compatible with [[many-worlds|Many-Worlds]] in a way the Map isn't. If consciousness is a functional pattern, branching poses no special problem—the pattern continues in each branch. The Map's rejection of MWI involves [[haecceity]]: *this* consciousness matters, not merely a pattern that could be copied. AST's treatment of consciousness as pattern makes it indifferent to branching.
 

@@ -165,7 +165,7 @@ This parallels Tononi's response to the self-stultification objection: IIT groun
 
 Whitehead's process philosophy shares structural similarities with IIT. Both reject the view that the fundamental units of reality are static substances; both emphasize dynamic, relational wholes. Whitehead's "actual occasions"—momentary events of experience that combine (or "prehend") their predecessors—echo IIT's claim that conscious experience is constituted by integrated information structures.
 
-The difference: Whitehead's panexperientialism makes experience fundamental to all actual occasions, while IIT derives phenomenality from mathematical properties of physical systems. For Whitehead, integration *occurs within* experience; for IIT, experience *is identical to* integration. the Map's framework sides with something closer to Whitehead—consciousness as genuinely distinct from its physical substrate, not identical to it.
+The difference: Whitehead's panexperientialism makes experience fundamental to all actual occasions, while IIT derives phenomenality from mathematical properties of physical systems. For Whitehead, integration *occurs within* experience; for IIT, experience *is identical to* integration. The Map's framework sides with something closer to Whitehead—consciousness as genuinely distinct from its physical substrate, not identical to it.
 
 ### The Quantum Question
 
@@ -196,7 +196,7 @@ IIT offers a sophisticated competitor to the Map's interactionist dualism. Both 
 - **IIT**: Consciousness is identical to certain physical structures. No separate causal role.
 - **the Map**: Consciousness influences physical outcomes at quantum level. Genuine bidirectional interaction.
 
-The choice depends on whether you find identity or causation more plausible as the mind-matter relation. IIT avoids the interaction problem (how do distinct substances influence each other?) but faces the hard problem in a new form (why is integrated information conscious?). the Map faces the interaction problem but resolves it via quantum mechanics.
+The choice depends on whether you find identity or causation more plausible as the mind-matter relation. IIT avoids the interaction problem (how do distinct substances influence each other?) but faces the hard problem in a new form (why is integrated information conscious?). The Map faces the interaction problem but resolves it via quantum mechanics.
 
 Neither theory is proven. Both represent serious attempts to take consciousness seriously. IIT deserves engagement as one of the most developed alternatives to interactionist dualism.
 

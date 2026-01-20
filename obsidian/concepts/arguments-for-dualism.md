@@ -157,7 +157,7 @@ Several responses bear on this:
 
 **Hidden complexity**: Physicalist theories often smuggle in consciousness-like concepts—information, function, representation—while claiming parsimony. The real question is whether these concepts can be understood without implicit appeal to the mental.
 
-**Historical precedent**: Atomic theory was less parsimonious than continuous matter. Quantum mechanics is less parsimonious than classical physics. Parsimony alone doesn't track truth. the Map's [[tenets#^occam|Occam's Razor Has Limits]] tenet exists for this reason.
+**Historical precedent**: Atomic theory was less parsimonious than continuous matter. Quantum mechanics is less parsimonious than classical physics. Parsimony alone doesn't track truth. The Map's [[tenets#^occam|Occam's Razor Has Limits]] tenet exists for this reason.
 
 ## The Meta-Level Argument: Epistemic Humility
 
@@ -244,7 +244,7 @@ William James observed that pleasures correlate precisely with survival benefits
 | Causal exclusion | Physics insufficient at indeterminacies; no sufficient cause to exclude | Strong |
 | Evolutionary argument | *Supports* interactionism against epiphenomenalism | N/A |
 
-These responses show interactionist dualism can address its critics systematically. the Map's quantum framework provides principled answers that purely Cartesian dualism lacked. Notably, the evolutionary argument—often presented as an objection to dualism—actually targets only [[epiphenomenalism]] and *supports* the Map's interactionist position: consciousness must cause behavior for evolution to explain the precision of valence-fitness correlations.
+These responses show interactionist dualism can address its critics systematically. The Map's quantum framework provides principled answers that purely Cartesian dualism lacked. Notably, the evolutionary argument—often presented as an objection to dualism—actually targets only [[epiphenomenalism]] and *supports* the Map's interactionist position: consciousness must cause behavior for evolution to explain the precision of valence-fitness correlations.
 
 ## Process Philosophy Perspective
 
@@ -270,7 +270,7 @@ The Map's commitment to dualism would require revision if:
 
 5. **Personal identity survived branching.** If compelling arguments showed that identity is preserved across many-worlds branching—that there's no "fact of the matter" about which branch is "this" one—the unity and identity arguments would require reformulation.
 
-These conditions are falsifiable in principle. the Map's dualism isn't dogma but a position responsive to evidence and argument.
+These conditions are falsifiable in principle. The Map's dualism isn't dogma but a position responsive to evidence and argument.
 
 ## Relation to the Map's Perspective
 

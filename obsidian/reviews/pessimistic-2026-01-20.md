@@ -93,7 +93,7 @@ The reviewed articles present The Unfinishable Map's core positions clearly and 
 ### Issue 4: Quantum Indeterminacy as Causal Gap
 - **File**: `concepts/reductionism.md`
 - **Location**: "Kim's Challenge" section
-- **Problem**: The response to Kim's exclusion argument claims physics "leaves outcomes undetermined" at quantum indeterminacies. But quantum mechanics provides probabilistic determination—the wave function specifies exact probabilities for each outcome. Claiming consciousness "biases" these probabilities amounts to saying consciousness changes the physics. This isn't operating where physics is "incomplete" but operating where physics makes specific predictions. the Map needs to address whether consciousness violates quantum mechanical probability predictions.
+- **Problem**: The response to Kim's exclusion argument claims physics "leaves outcomes undetermined" at quantum indeterminacies. But quantum mechanics provides probabilistic determination—the wave function specifies exact probabilities for each outcome. Claiming consciousness "biases" these probabilities amounts to saying consciousness changes the physics. This isn't operating where physics is "incomplete" but operating where physics makes specific predictions. The Map needs to address whether consciousness violates quantum mechanical probability predictions.
 - **Severity**: Medium
 - **Recommendation**: Distinguish between "outcome undetermined" and "probability distribution specified." Acknowledge that if consciousness biases outcomes, the statistical distribution of results would differ from quantum mechanical predictions—and address why we don't observe this deviation.
 

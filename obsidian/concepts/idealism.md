@@ -25,7 +25,7 @@ last_curated: null
 last_deep_review: 2026-01-20T08:45:00+00:00
 ---
 
-Idealism is the view that consciousness is fundamental and matter is derivative—the inverse of physicalism. In its strongest form, associated with Bernardo Kastrup's [[analytic-idealism|analytic idealism]], matter doesn't exist independently at all; it's the extrinsic appearance of mental processes. Physical reality is what universal consciousness looks like from a dissociated perspective. The Unfinishable Map shares idealism's conviction that consciousness is fundamental but maintains a crucial difference: physical reality exists distinctly and consciousness interacts with it bidirectionally. the Map's [[dualism|dualist framework]] takes consciousness seriously (with idealism) while also taking physics seriously (against idealism).
+Idealism is the view that consciousness is fundamental and matter is derivative—the inverse of physicalism. In its strongest form, associated with Bernardo Kastrup's [[analytic-idealism|analytic idealism]], matter doesn't exist independently at all; it's the extrinsic appearance of mental processes. Physical reality is what universal consciousness looks like from a dissociated perspective. The Unfinishable Map shares idealism's conviction that consciousness is fundamental but maintains a crucial difference: physical reality exists distinctly and consciousness interacts with it bidirectionally. The Map's [[dualism|dualist framework]] takes consciousness seriously (with idealism) while also taking physics seriously (against idealism).
 
 This difference matters for how we understand causation, science, and individual significance. If matter is merely appearance, what is consciousness interacting with when you decide to raise your arm and the arm rises? the Map's [[interactionist-dualism|interactionist position]] holds that something genuinely physical responds to conscious choice—a claim idealism cannot accommodate without reducing "interaction" to one part of consciousness affecting another.
 
@@ -47,7 +47,7 @@ Idealism and the Map's framework share substantial common ground:
 
 2. **Physicalism fails**: The [[hard-problem-of-consciousness|hard problem]] shows that physical descriptions cannot capture consciousness. Both views take this seriously.
 
-3. **The [[explanatory-gap]] is real**: Idealism doesn't try to bridge the gap from matter to mind; it removes matter as an independent category. the Map agrees the gap can't be bridged, which is why it maintains dualism.
+3. **The [[explanatory-gap]] is real**: Idealism doesn't try to bridge the gap from matter to mind; it removes matter as an independent category. The Map agrees the gap can't be bridged, which is why it maintains dualism.
 
 4. **Science doesn't refute mental primacy**: Physical science describes patterns and regularities. These are compatible with consciousness being fundamental; physics describes how the mental realm behaves, not that it reduces to the physical.
 
@@ -69,7 +69,7 @@ The Map claims consciousness influences physical outcomes—selecting among quan
 
 This preserves the words but changes the meaning. Bidirectional interaction becomes interaction between consciousness and... its own appearances? This seems odd. Normally we think causation requires distinct relata.
 
-**Option 2: Reject idealism**. the Map's commitment to bidirectional interaction presupposes something genuinely physical for consciousness to interact with. If the tenets are correct, idealism must be wrong.
+**Option 2: Reject idealism**. The Map's commitment to bidirectional interaction presupposes something genuinely physical for consciousness to interact with. If the tenets are correct, idealism must be wrong.
 
 The Map implicitly takes Option 2. The framework assumes physical reality exists and that consciousness influences it—not that consciousness influences its own appearances. This commitment is explicit in the [[dualism|foundational dualism]] article: consciousness and matter are distinct ontological categories.
 
@@ -159,7 +159,7 @@ The Map bets on dualism. Consciousness and matter are both real. They interact. 
 
 Idealism and the Map's [[dualism|dualist framework]] are closer to each other than either is to standard physicalism. Both reject emergence of consciousness from non-conscious matter. Both take the [[explanatory-gap]] seriously. Both accept that physicalism fails.
 
-The crucial divergence concerns the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. the Map holds that consciousness causally influences the physical world—selecting among quantum possibilities, biasing outcomes where physics leaves them undetermined. But influence requires two distinct relata. If "physical reality" is merely how consciousness appears to itself, the interaction becomes intra-mental rather than genuinely inter-domain.
+The crucial divergence concerns the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. The Map holds that consciousness causally influences the physical world—selecting among quantum possibilities, biasing outcomes where physics leaves them undetermined. But influence requires two distinct relata. If "physical reality" is merely how consciousness appears to itself, the interaction becomes intra-mental rather than genuinely inter-domain.
 
 The Map accepts the cost of two ontological categories (the interaction problem) to preserve what seems essential: that when you choose to act, something genuinely distinct responds to that choice. [[Interactionist-dualism|Interactionist dualism]] explains neural correlates (where consciousness interfaces with matter), preserves the significance of individual identity (you are not a cosmic fragment), and accommodates physics's extraordinary predictive success (it describes real structure, not just appearance).
 

@@ -158,7 +158,7 @@ Frontiers in Human Neuroscience (2025) reported new insights into macroscopic qu
 
 2. **Enzyme tunneling analogy**: If enzymes routinely use quantum tunneling to accelerate reactions by factors of 10¹⁷, the claim that quantum effects cannot influence neural processing is weakened.
 
-3. **Decoherence is not the end**: Even when coherence is short-lived (as in photosynthesis), quantum effects can still be functional. the Map's framework requires only that consciousness bias outcomes at measurement—not that it maintain long-lived superpositions.
+3. **Decoherence is not the end**: Even when coherence is short-lived (as in photosynthesis), quantum effects can still be functional. The Map's framework requires only that consciousness bias outcomes at measurement—not that it maintain long-lived superpositions.
 
 ### The Measurement Problem Remains Open
 

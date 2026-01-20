@@ -116,7 +116,7 @@ The dissociations show that:
 2. **Metacognition depends on intact neural substrates** (aPFC, intact V1-higher visual area connections)
 3. **Metacognitive access is not automatic**—it requires specific processing that pathology can disrupt
 
-None of this implies metacognition is unreliable in the general case. the Map's framework doesn't claim metacognition is infallible, only that trained introspection provides genuine access to phenomenal content. The dissociation evidence supports this by showing metacognition is a real cognitive capacity with identifiable neural substrates—not an epiphenomenal illusion—that can be cultivated through practice.
+None of this implies metacognition is unreliable in the general case. The Map's framework doesn't claim metacognition is infallible, only that trained introspection provides genuine access to phenomenal content. The dissociation evidence supports this by showing metacognition is a real cognitive capacity with identifiable neural substrates—not an epiphenomenal illusion—that can be cultivated through practice.
 
 ## Metamemory: The Phenomenology of Knowing
 

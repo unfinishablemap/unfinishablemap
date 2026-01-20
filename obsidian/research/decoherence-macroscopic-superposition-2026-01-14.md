@@ -171,7 +171,7 @@ The original todo asked: "Schrödinger's cat was warm and macroscopic yet in a s
 1. Schrödinger's cat was a thought experiment, not a claim that cats *can* be superposed. In practice, macroscopic objects decohere almost instantly (quadrillions of years to delocalize a 10kg box by 1µm—and that's without decoherence events).
 2. BUT: The boundary keeps moving. 7,000-atom nanoparticles, hot cat states at 1.8K, photosynthetic complexes—all show quantum effects where classical intuition said "impossible."
 3. Neural coherence times remain disputed. Tegmark: femtoseconds. Hameroff: microseconds to 100 microseconds after corrections. Neither confirmed experimentally in living brains.
-4. the Map's position is defensible: decoherence is a challenge, not a refutation. New experiments (hot cats, quantum biology) suggest biology may have tools to manage decoherence that weren't anticipated. The Zeno mechanism may sidestep the objection entirely.
+4. The Map's position is defensible: decoherence is a challenge, not a refutation. New experiments (hot cats, quantum biology) suggest biology may have tools to manage decoherence that weren't anticipated. The Zeno mechanism may sidestep the objection entirely.
 
 ## Citations
 

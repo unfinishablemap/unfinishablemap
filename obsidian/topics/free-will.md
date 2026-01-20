@@ -61,7 +61,7 @@ This presents three options:
 
 **Hard Determinism**: Free will is an illusion. We feel like we choose, but our choices are determined by prior causes we neither chose nor control. Neuroscientists like Sam Harris embrace this view.
 
-**Libertarian Free Will**: We possess a capacity to initiate causal chains not fully determined by prior physical states. This seems to require something non-physical—a soul, perhaps—that can intervene in the physical order. Libertarianism comes in two varieties: *event-causal* libertarianism holds that mental events (beliefs, desires) cause actions through nondeterministic processes; *[[agent-causation|agent-causal]]* libertarianism holds that the agent as a persisting substance directly causes actions, irreducible to prior mental events. the Map's framework is agent-causal—consciousness is the source, not merely a link in event chains.
+**Libertarian Free Will**: We possess a capacity to initiate causal chains not fully determined by prior physical states. This seems to require something non-physical—a soul, perhaps—that can intervene in the physical order. Libertarianism comes in two varieties: *event-causal* libertarianism holds that mental events (beliefs, desires) cause actions through nondeterministic processes; *[[agent-causation|agent-causal]]* libertarianism holds that the agent as a persisting substance directly causes actions, irreducible to prior mental events. The Map's framework is agent-causal—consciousness is the source, not merely a link in event chains.
 
 **Compatibilism**: Free will is compatible with determinism because "free" doesn't mean "uncaused." It means acting from your own desires without external coercion. Modern compatibilists like Harry Frankfurt add sophistication: free will requires acting from desires you endorse on reflection—"second-order" desires about what you want to want. This captures something real about autonomous agency. Yet compatibilism leaves untouched the question that haunts: could the person who "chose" their desires and reflective endorsements have chosen otherwise? The feeling that genuine freedom requires something more than compatibilism provides motivates the search for a deeper account.
 
@@ -130,7 +130,7 @@ Furthermore, selection is reasons-guided, not arbitrary. Consciousness selects A
 
 Critics might press: even if consciousness "selects," what explains why consciousness selected A rather than B? The [[agent-causation|agent-causal]] response: the agent's exercise of causal power *is* the explanation. Asking what explains the agent's selection presupposes event-causal reduction. If agent causation is sui generis, the explanatory buck stops at the agent.
 
-But this assumes consciousness has no role in determining which outcome occurs. the Map's framework proposes something different.
+But this assumes consciousness has no role in determining which outcome occurs. The Map's framework proposes something different.
 
 ### The Decoherence Challenge
 
@@ -148,7 +148,7 @@ This is a serious challenge, but not necessarily fatal. Several lines of respons
 
 The question is empirical, not philosophical. [[quantum-consciousness|Quantum Consciousness Mechanisms]] and [[decoherence]] explore this challenge and the responses in detail. For present purposes: the decoherence objection is a challenge to be overcome, not a proof of impossibility.
 
-## the Map's Position: Consciousness Selects Quantum Outcomes
+## The Map's Position: Consciousness Selects Quantum Outcomes
 
 The Map's commitment to [[interactionist-dualism]] provides the philosophical foundation for genuine free will. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences the physical world. Combined with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]—which proposes that consciousness biases otherwise indeterminate quantum outcomes—this suggests a picture where:
 
@@ -175,7 +175,7 @@ The readiness potential doesn't precede conscious choice in any causally signifi
 
 Free will requires [[mental-causation]]—the thesis that mental states cause physical effects. When you decide to raise your arm, your decision must cause the arm to rise. If consciousness causes nothing, free will is an elaborate illusion.
 
-The challenge is Jaegwon Kim's exclusion argument: if physical events have sufficient physical causes, mental causes seem excluded. Either consciousness is identical to brain states (reducing free will to physics) or consciousness causes nothing ([[epiphenomenalism]]). the Map's quantum framework responds: physics provides *necessary but not sufficient* causes at quantum indeterminacies. [[causal-closure|Causal closure]] fails precisely where consciousness acts.
+The challenge is Jaegwon Kim's exclusion argument: if physical events have sufficient physical causes, mental causes seem excluded. Either consciousness is identical to brain states (reducing free will to physics) or consciousness causes nothing ([[epiphenomenalism]]). The Map's quantum framework responds: physics provides *necessary but not sufficient* causes at quantum indeterminacies. [[causal-closure|Causal closure]] fails precisely where consciousness acts.
 
 But [[epiphenomenalism|epiphenomenalism]] faces a deeper problem: self-stultification. If conscious states have no causal influence, your belief that you're conscious isn't caused by actually being conscious—it's caused by whatever physical processes produce the belief. Your beliefs about consciousness would be causally disconnected from your conscious experiences.
 

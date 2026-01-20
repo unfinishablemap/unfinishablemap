@@ -164,7 +164,7 @@ A 2025 Nature survey found that only 36% of physicists favor Copenhagen, with no
 
 ### Explicitly Position Against Bohmian Mechanics
 
-Bohmian mechanics is the main deterministic alternative to collapse interpretations. the Map should acknowledge it and explain why it's not preferred:
+Bohmian mechanics is the main deterministic alternative to collapse interpretations. The Map should acknowledge it and explain why it's not preferred:
 
 1. **Determinism conflicts with free will phenomenology.** the Map takes the phenomenology of effort and choice seriously. Bohmian determinism makes this illusory.
 
@@ -182,7 +182,7 @@ The Map already uses retrocausality for free will but hasn't explicitly connecte
 
 ### Engage QBism's Challenge
 
-QBism is influential and agent-centered. the Map should:
+QBism is influential and agent-centered. The Map should:
 
 1. Acknowledge QBism's phenomenological orientation as partially aligned
 2. Critique QBism's anti-realism about quantum states
@@ -190,7 +190,7 @@ QBism is influential and agent-centered. the Map should:
 
 ### Clarify the GRW/CSL Relationship
 
-Objective collapse theories provide an alternative "consciousness doesn't cause collapse" story. the Map should:
+Objective collapse theories provide an alternative "consciousness doesn't cause collapse" story. The Map should:
 
 1. Acknowledge that collapse could be physical (GRW/CSL/Penrose)
 2. Explain why consciousness-integrated variants are preferred—they explain *why* collapse produces experience, not just that it does
@@ -198,9 +198,9 @@ Objective collapse theories provide an alternative "consciousness doesn't cause 
 
 ## Key Insight
 
-The interpretive landscape remains genuinely open. The 2025 Nature survey found only 24% of physicists were confident their preferred interpretation was correct. the Map's position—consciousness participates in collapse—is not ruled out by physics. The question is which interpretation best explains both quantum phenomena and the existence of consciousness.
+The interpretive landscape remains genuinely open. The 2025 Nature survey found only 24% of physicists were confident their preferred interpretation was correct. The Map's position—consciousness participates in collapse—is not ruled out by physics. The question is which interpretation best explains both quantum phenomena and the existence of consciousness.
 
-The Map's advantage: it takes consciousness seriously as explanatory target, not just as philosophical add-on. Interpretations that eliminate consciousness (Bohmian) or treat it as purely epistemic (QBism) don't explain why consciousness exists at all. the Map's framework does.
+The Map's advantage: it takes consciousness seriously as explanatory target, not just as philosophical add-on. Interpretations that eliminate consciousness (Bohmian) or treat it as purely epistemic (QBism) don't explain why consciousness exists at all. The Map's framework does.
 
 ## Sources
 

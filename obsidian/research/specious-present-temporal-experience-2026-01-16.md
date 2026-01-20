@@ -123,7 +123,7 @@ The Map's framework proposes consciousness participates in quantum collapse, and
 
 1. **Duration matches collapse timing**: Revised microtubule coherence estimates (~10-100μs) multiplied by multiple collapse events could produce the ~100-750ms specious present
 2. **Retention-protention structure parallels quantum constraints**: If collapse involves retrocausal boundary conditions (TSVF), the tripartite structure of now (past-echoing, present, future-anticipating) may reflect the atemporal selection that determines outcomes
-3. **Flow isn't illusion**: B-theory eternalists treat temporal flow as illusory. the Map's framework treats it as real—the experiential side of time's constitution through collapse
+3. **Flow isn't illusion**: B-theory eternalists treat temporal flow as illusory. The Map's framework treats it as real—the experiential side of time's constitution through collapse
 4. **Contemplative access**: Meditators accessing temporal microstructure may be observing collapse more directly, which explains why cessation (no collapse = no time) eliminates temporal experience entirely
 
 ### Extensionalism vs. Retentionalism from the Map's Perspective

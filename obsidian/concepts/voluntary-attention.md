@@ -127,9 +127,9 @@ This raises a Libet-style challenge: if brain states predict free choices, is vo
 
 **Attentional set interpretation**: Pre-prompt alpha may reflect prior attentional dispositions—task-specific readiness states (attend-left vs attend-right) that represent earlier intentions rather than mere noise.
 
-### the Map's Response
+### The Map's Response
 
-The pre-state finding parallels the [[libet-experiments|Libet]] challenge to motor volition. the Map's response applies here:
+The pre-state finding parallels the [[libet-experiments|Libet]] challenge to motor volition. The Map's response applies here:
 
 **Selection among options**: Stochastic activity provides options; consciousness selects among them. Finding that neural activity precedes choice doesn't show that neural activity *causes* choice in a way that excludes conscious selection. Consciousness might select *among* the options that stochastic activity generates.
 

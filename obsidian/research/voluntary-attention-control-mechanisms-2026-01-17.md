@@ -198,7 +198,7 @@ The willed attention literature provides neuroscientific grounding for [[agent-c
 
 ### The Stochastic Challenge
 
-The finding that pre-prompt alpha predicts free choices poses a challenge similar to Libet. the Map's response:
+The finding that pre-prompt alpha predicts free choices poses a challenge similar to Libet. The Map's response:
 
 1. **Selection among options**: Stochastic activity provides options; consciousness selects among them
 2. **Quantum resolution**: Selection may operate below EEG temporal and spatial resolution

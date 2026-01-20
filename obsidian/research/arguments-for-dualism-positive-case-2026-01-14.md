@@ -89,7 +89,7 @@ Multiple arguments converge on qualia as evidence for dualism:
 
 **Brentano's thesis**: Mental states exhibit intentionality (aboutness) that physical states lack.
 
-**The naturalization failure**: Decades of attempts to reduce intentionality to physical relations (Dretske, Millikan) have failed. the Map's [[intentionality]] article covers this.
+**The naturalization failure**: Decades of attempts to reduce intentionality to physical relations (Dretske, Millikan) have failed. The Map's [[intentionality]] article covers this.
 
 **The Chinese Room**: Syntax (physical symbol manipulation) cannot produce genuine semantics (meaning, understanding).
 

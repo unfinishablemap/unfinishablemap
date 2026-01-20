@@ -100,7 +100,7 @@ Some philosophers argue that causation doesn't require spatial relations. Consid
 
 If any of these succeed, the pairing problem loses force. The dualist can say: mind-body causation is like these other cases—causal relations hold without spatial grounding.
 
-## the Map's Position
+## The Map's Position
 
 The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework provides a natural response to the pairing problem: consciousness is spatially located where it causally interfaces with the brain.
 
@@ -162,7 +162,7 @@ The pairing problem is central to the Map's framework because answering it requi
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that consciousness influences quantum outcomes without adding energy. This requires consciousness to be *somewhere*—specifically, where the quantum interface operates. The pairing problem thus motivates the spatial location response: consciousness is in the brain because that's where the selection mechanism functions.
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires that consciousness causally affects physical outcomes. The pairing problem asks how *this* consciousness affects *this* brain rather than another. the Map's answer: through developmental co-construction and interface locality. The pairing is built, not assigned.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires that consciousness causally affects physical outcomes. The pairing problem asks how *this* consciousness affects *this* brain rather than another. The Map's answer: through developmental co-construction and interface locality. The pairing is built, not assigned.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is relevant because critics might dismiss haecceity as an unnecessarily complex addition. But if consciousness is genuine and not reducible to physical processes ([[tenets#^dualism|Dualism]]), then some individuation principle is required. Parsimony cannot eliminate what the data demands.
 

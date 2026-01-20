@@ -268,7 +268,7 @@ LeDoux's higher-order theory could complicate the Map's framework if it implies 
 1. Core affect (always present, providing valenced dimension)
 2. Higher-order emotional consciousness (cortical elaboration)
 
-Even if discrete emotional categories require cortical processing, valence itself may be subcortically generated and phenomenally real. the Map's framework doesn't require all consciousness to be cortical.
+Even if discrete emotional categories require cortical processing, valence itself may be subcortically generated and phenomenally real. The Map's framework doesn't require all consciousness to be cortical.
 
 ## Gaps in Research
 

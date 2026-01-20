@@ -116,7 +116,7 @@ Quantum mechanics reintroduces temporal asymmetry. The Schrödinger equation is 
 
 **Time-symmetric interpretations**: [[retrocausality|Retrocausal]] frameworks (transactional interpretation, TSVF) describe quantum events as transactions between past and future boundary conditions. This challenges both presentism (future must exist to send backward-propagating waves) and simple eternalism (the transaction "completes" in some sense).
 
-## the Map's Position
+## The Map's Position
 
 The Map's [[time-collapse-and-agency|temporal framework]] proposes:
 

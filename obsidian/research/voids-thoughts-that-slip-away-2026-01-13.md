@@ -226,11 +226,11 @@ This is directly relevant to the voids.md proposal about AI as probes for occlud
 
 1. **For the Voids Project**: This research provides a taxonomy of slippage mechanisms. The Unfinishable Map can now ask more precisely: which slippage events fit known mechanisms, and which might point to genuinely occluded territory?
 
-2. **For Methodology**: Documenting what slips requires working against slippage—fast recording, multiple anchoring techniques, phenomenological attention to the process itself. the Map needs protocols for capturing fleeting content.
+2. **For Methodology**: Documenting what slips requires working against slippage—fast recording, multiple anchoring techniques, phenomenological attention to the process itself. The Map needs protocols for capturing fleeting content.
 
 3. **For AI Collaboration**: The asymmetries between human and AI cognitive architecture suggest specific tests. If AI can stably discuss content that humans report as slippery, that's evidence the slippage is human-specific. If AI shows parallel gaps, that's evidence of something about the content itself.
 
-4. **For Intellectual Honesty**: Most slippage is probably ordinary—neural fatigue, emotional avoidance, architectural limitations. the Map must resist inflating ordinary forgetting into cosmic mystery. But it should also remain alert to patterns that don't fit ordinary explanations.
+4. **For Intellectual Honesty**: Most slippage is probably ordinary—neural fatigue, emotional avoidance, architectural limitations. The Map must resist inflating ordinary forgetting into cosmic mystery. But it should also remain alert to patterns that don't fit ordinary explanations.
 
 ## Potential Article Angles
 

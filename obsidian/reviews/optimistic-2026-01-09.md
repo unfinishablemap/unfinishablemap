@@ -19,11 +19,11 @@ The Unfinishable Map has developed into a coherent philosophical resource that t
 
 ### The Property Dualist (Chalmers)
 
-The hard-problem-of-consciousness article would warm Chalmers' heart. It presents his zombie argument clearly and defends the conceivability-to-possibility move against the standard objection. the Map doesn't merely cite Chalmers—it *deploys* his arguments:
+The hard-problem-of-consciousness article would warm Chalmers' heart. It presents his zombie argument clearly and defends the conceivability-to-possibility move against the standard objection. The Map doesn't merely cite Chalmers—it *deploys* his arguments:
 
 > "With other a posteriori identities—water and H₂O, heat and molecular motion—the appearance of contingency reflects our ignorance. We didn't *know* water's microstructure, so we could imagine water without hydrogen and oxygen. But we do know consciousness from the inside."
 
-This asymmetry argument is often overlooked. the Map brings it into focus.
+This asymmetry argument is often overlooked. The Map brings it into focus.
 
 The qualia article similarly excels at making the intrinsic/private/ineffable distinction clear and connecting it to concrete thought experiments. Mary's Room isn't just mentioned—it's used to do argumentative work.
 
@@ -47,9 +47,9 @@ The AI consciousness article's deployment of the Chinese Room argument shows the
 
 ### The Process Philosopher (Whitehead)
 
-The panpsychism comparison article shows nuanced understanding of the options. the Map agrees with panpsychism's core insight ("Emergence from non-conscious matter is unintelligible") while offering an alternative solution. This isn't crude substance dualism—it's a view that takes both consciousness and physics seriously without reducing either to the other.
+The panpsychism comparison article shows nuanced understanding of the options. The Map agrees with panpsychism's core insight ("Emergence from non-conscious matter is unintelligible") while offering an alternative solution. This isn't crude substance dualism—it's a view that takes both consciousness and physics seriously without reducing either to the other.
 
-The idealism article similarly engages Kastrup's analytic idealism fairly before explaining disagreements. the Map positions itself in the landscape of mind-centric philosophies rather than pretending to be unique.
+The idealism article similarly engages Kastrup's analytic idealism fairly before explaining disagreements. The Map positions itself in the landscape of mind-centric philosophies rather than pretending to be unique.
 
 ### The Libertarian Free Will Defender (Kane)
 
@@ -61,7 +61,7 @@ The self-undermining argument against epiphenomenalism ("If consciousness were t
 
 ### The Mysterian (McGinn)
 
-The tenets article's fifth tenet—Occam's Razor Has Limits—shows exactly the epistemic humility McGinn recommends. the Map doesn't claim to have solved the hard problem:
+The tenets article's fifth tenet—Occam's Razor Has Limits—shows exactly the epistemic humility McGinn recommends. The Map doesn't claim to have solved the hard problem:
 
 > "When confronting the hard problem of consciousness, we face a domain where our conceptual tools may be fundamentally inadequate. Dismissing dualism because materialism seems 'simpler' assumes we understand enough to judge simplicity. We may not."
 

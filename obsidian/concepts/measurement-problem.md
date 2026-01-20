@@ -85,9 +85,9 @@ All outcomes occur. The universe branches at every quantum event; all branches a
 
 4. **The preferred basis problem**: Branch ontology depends on environment-relative decoherence, reintroducing observer-dependence.
 
-5. **Consciousness unaddressed**: MWI is fundamentally incompatible with [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. the Map holds that consciousness participates in determining physical outcomes—that mental causation is real. MWI explicitly denies this: consciousness plays no role in the physics; all outcomes occur regardless. The hard problem remains; the unity of experience is unexplained by branching.
+5. **Consciousness unaddressed**: MWI is fundamentally incompatible with [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. The Map holds that consciousness participates in determining physical outcomes—that mental causation is real. MWI explicitly denies this: consciousness plays no role in the physics; all outcomes occur regardless. The hard problem remains; the unity of experience is unexplained by branching.
 
-Many-worlds dissolves the measurement problem by denying single outcomes rather than explaining them. the Map holds that the measurement problem is real and that consciousness is a candidate for what resolves it.
+Many-worlds dissolves the measurement problem by denying single outcomes rather than explaining them. The Map holds that the measurement problem is real and that consciousness is a candidate for what resolves it.
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 

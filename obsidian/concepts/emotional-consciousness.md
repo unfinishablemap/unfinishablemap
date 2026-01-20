@@ -138,7 +138,7 @@ This connects to [[agent-causation]]: the conscious subject evaluates options vi
 
 ### The Selection Mechanism
 
-Core affect—the constant background of felt valence and arousal—may be the medium through which consciousness evaluates options. the Map's framework proposes that consciousness selects among quantum-superposed neural alternatives. Valenced experience could be how this selection happens: options that feel good are stabilised; options that feel bad are avoided. The quantum Zeno mechanism operates through valenced assessment.
+Core affect—the constant background of felt valence and arousal—may be the medium through which consciousness evaluates options. The Map's framework proposes that consciousness selects among quantum-superposed neural alternatives. Valenced experience could be how this selection happens: options that feel good are stabilised; options that feel bad are avoided. The quantum Zeno mechanism operates through valenced assessment.
 
 This connects to [[attention-as-interface]] and [[mental-effort]]: attention is drawn to valued targets, and the "effort" of concentration has affective quality. Willed attention isn't phenomenally neutral—it involves something more like subtle satisfaction when successful and frustration when blocked.
 

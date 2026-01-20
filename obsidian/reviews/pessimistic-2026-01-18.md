@@ -74,7 +74,7 @@ The reviewed articles are well-structured and integrate smoothly with site tenet
 - **Location**: Throughout, especially "Metacognition vs. Consciousness: The Dissociation Evidence"
 - **Problem**: The article argues that metacognitive reports about consciousness can be unreliable (blind insight, dissociation evidence). But the Map elsewhere relies heavily on introspective access to consciousness as evidence for its views. If metacognition dissociates from consciousness, our reports about consciousness—including reports that consciousness is non-physical—may be systematically mistaken. The argument proves too much.
 - **Severity**: Medium
-- **Recommendation**: Add a section addressing this tension. Possible response: dissociation evidence shows metacognition can fail to track consciousness, not that it typically does. Trained introspection (meditation) improves reliability. the Map's claims don't depend on perfect introspective access, only on access being generally reliable for trained observers.
+- **Recommendation**: Add a section addressing this tension. Possible response: dissociation evidence shows metacognition can fail to track consciousness, not that it typically does. Trained introspection (meditation) improves reliability. The Map's claims don't depend on perfect introspective access, only on access being generally reliable for trained observers.
 
 ### Issue 2: Phenomenology-Dependent Response to Luck Objection
 - **File**: `concepts/luck-objection.md`
@@ -95,14 +95,14 @@ The reviewed articles are well-structured and integrate smoothly with site tenet
 - **Location**: "Why Slow Waves Disrupt Consciousness" section
 - **Problem**: The article cites IIT's bistability explanation for consciousness loss during slow-wave sleep. But the Map elsewhere notes COGITATE challenged IIT's predictions. Using IIT when convenient while criticising it elsewhere creates inconsistency.
 - **Severity**: Low
-- **Recommendation**: Acknowledge the tension. Possible framing: "IIT offers one explanation for slow-wave disruption—bistability fragments integration. the Map doesn't endorse IIT's identity claim (consciousness = integrated information), but its description of what happens during slow-wave sleep is empirically grounded independently of the theory's metaphysical commitments."
+- **Recommendation**: Acknowledge the tension. Possible framing: "IIT offers one explanation for slow-wave disruption—bistability fragments integration. The Map doesn't endorse IIT's identity claim (consciousness = integrated information), but its description of what happens during slow-wave sleep is empirically grounded independently of the theory's metaphysical commitments."
 
 ## Counterarguments to Address
 
 ### Phenomenology and Causation
 - **Current content says**: The felt effort of attention proves selection is causally real, not merely random reception
 - **A critic would argue**: Phenomenology doesn't track causation. Epiphenomenal qualia would feel identical to causally efficacious qualia. You can't infer from "feels effortful" to "causally does something"
-- **Suggested response**: Integrate the response to epiphenomenalism from the arguments section. the Map rejects epiphenomenalism for reasons independent of the luck objection—self-stultification, evolutionary implausibility. Given epiphenomenalism's rejection, phenomenology can be trusted as tracking real causal engagement.
+- **Suggested response**: Integrate the response to epiphenomenalism from the arguments section. The Map rejects epiphenomenalism for reasons independent of the luck objection—self-stultification, evolutionary implausibility. Given epiphenomenalism's rejection, phenomenology can be trusted as tracking real causal engagement.
 
 ### Decoherence Timescales
 - **Current content says**: Consciousness selects among quantum alternatives via the quantum Zeno effect

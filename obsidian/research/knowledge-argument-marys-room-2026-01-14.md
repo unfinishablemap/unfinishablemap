@@ -150,7 +150,7 @@ Based on this research, an article could:
 
 2. **Engage the phenomenal concepts strategy seriously before rejecting it** - Given that the Map already has a phenomenal-concepts-strategy article, the knowledge argument article could show how Chalmers's master argument dilemma applies: PCS either fails to explain Mary's situation or concedes something non-physical. This strengthens the Map's position.
 
-3. **Use Jackson's self-rejection as illustrative rather than decisive** - The fact that the argument's creator rejected it, yet acknowledged it requires serious engagement, shows the argument's force. the Map could note that Jackson's epiphenomenalism worry actually supports Bidirectional Interaction tenet: if epiphenomenalism makes knowledge of qualia impossible, consciousness must be causally efficacious.
+3. **Use Jackson's self-rejection as illustrative rather than decisive** - The fact that the argument's creator rejected it, yet acknowledged it requires serious engagement, shows the argument's force. The Map could note that Jackson's epiphenomenalism worry actually supports Bidirectional Interaction tenet: if epiphenomenalism makes knowledge of qualia impossible, consciousness must be causally efficacious.
 
 When writing the article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references

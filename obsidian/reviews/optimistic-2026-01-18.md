@@ -21,7 +21,7 @@ The Unfinishable Map has developed into a sophisticated, well-integrated framewo
 
 The Map exemplifies what taking the hard problem seriously looks like. The hard-problem-of-consciousness.md article (408 lines) is a tour de force—comprehensive treatment of the explanatory gap, zombie arguments, Mary's Room, temporal phenomenology, the binding problem, and intentionality. Rather than dismissing the hard problem as confused, the Map builds an entire framework around acknowledging its force.
 
-The treatment of Chalmers' psychophysical laws framework is particularly sophisticated, engaging with structural coherence, organizational invariance, and double-aspect information theory while noting their limitations. the Map doesn't merely cite Chalmers but builds on his work—developing the *downward* direction of psychophysical coupling that Chalmers' principles leave schematic.
+The treatment of Chalmers' psychophysical laws framework is particularly sophisticated, engaging with structural coherence, organizational invariance, and double-aspect information theory while noting their limitations. The Map doesn't merely cite Chalmers but builds on his work—developing the *downward* direction of psychophysical coupling that Chalmers' principles leave schematic.
 
 The acknowledgment that "the gap becomes informative rather than merely frustrating—a boundary that shows us something about what consciousness is" reflects deep understanding of what's at stake.
 

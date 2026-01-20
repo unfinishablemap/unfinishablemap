@@ -103,7 +103,7 @@ Analytic idealism and the Map share significant common ground:
 
 The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] holds that consciousness causally influences physical outcomes. But if "physical reality" is just appearance—patterns within consciousness—what is consciousness interacting with?
 
-On analytic idealism, "consciousness influences matter" would mean "consciousness influences how it appears to itself." This seems to dissolve rather than explain the interaction. When you decide to raise your arm, and the arm rises, something happens between decision and movement. the Map interprets this as consciousness causing physical events. Idealism interprets it as consciousness appearing to itself differently—but why would one pattern of appearing (decision) necessitate another pattern (arm movement)?
+On analytic idealism, "consciousness influences matter" would mean "consciousness influences how it appears to itself." This seems to dissolve rather than explain the interaction. When you decide to raise your arm, and the arm rises, something happens between decision and movement. The Map interprets this as consciousness causing physical events. Idealism interprets it as consciousness appearing to itself differently—but why would one pattern of appearing (decision) necessitate another pattern (arm movement)?
 
 The regularity of physical law becomes puzzling on idealism. If matter is just appearance, why can't consciousness appear however it wants? Why must arm-raising be preceded by neural activity? The idealist answer—that universal consciousness has its own nature that constrains appearances—begins to sound like physical reality by another name.
 
@@ -117,7 +117,7 @@ On idealism, these questions transform. If there is no physical substrate, what 
 
 The Map's [[tenets#^no-many-worlds|No Many Worlds tenet]] emphasizes indexical identity—*this* conscious being matters, not just any being with similar psychology. But if individual minds are dissociations of universal consciousness, individual identity is derivative, perhaps illusory.
 
-This conflicts with the Map's emphasis on personal significance. If you're ultimately identical with universal consciousness, your particular choices and experiences are ripples on a cosmic surface. the Map maintains that *you*—this particular conscious being—genuinely choose and genuinely matter.
+This conflicts with the Map's emphasis on personal significance. If you're ultimately identical with universal consciousness, your particular choices and experiences are ripples on a cosmic surface. The Map maintains that *you*—this particular conscious being—genuinely choose and genuinely matter.
 
 ### What Idealism Gets Right
 
@@ -129,7 +129,7 @@ Analytic idealism correctly identifies that:
 
 3. **Brain correlation doesn't prove brain production.** The brain correlating with consciousness doesn't mean the brain produces consciousness. Correlation is symmetric; causation claims require additional argument. (See [[filter-theory]] for this argument developed.)
 
-These points support the Map's framework without requiring idealism's denial of physical reality. the Map agrees consciousness is fundamental but holds it influences a genuinely distinct physical world through [[quantum-consciousness|quantum mechanisms]].
+These points support the Map's framework without requiring idealism's denial of physical reality. The Map agrees consciousness is fundamental but holds it influences a genuinely distinct physical world through [[quantum-consciousness|quantum mechanisms]].
 
 ### The Witness Consciousness Connection
 
@@ -157,7 +157,7 @@ The choice between dualism and idealism affects how we think about:
 
 **Freedom**: If individual minds are dissociations, and dissociations ultimately reunify, individual choices may be less significant than on dualism, where *you* genuinely originate causal chains through [[agent-causation]].
 
-**Meaning and Value**: the Map's [[phenomenal-value-realism|phenomenal value realism]] holds that value is grounded in conscious experience. Both idealism and dualism can accommodate this—value exists in consciousness on either view. But on idealism, *individual* experience is derivative from universal consciousness. If [[phenomenal-value-realism#Connection to Indexical Identity|indexical identity carries value]]—if *your* experience matters distinctly from experiences-of-your-type—then idealism's subordination of individual to cosmic consciousness has ethical implications. the Map's emphasis on token-based value (this particular experience) sits uncomfortably with idealism's type-based ontology (patterns in universal consciousness).
+**Meaning and Value**: the Map's [[phenomenal-value-realism|phenomenal value realism]] holds that value is grounded in conscious experience. Both idealism and dualism can accommodate this—value exists in consciousness on either view. But on idealism, *individual* experience is derivative from universal consciousness. If [[phenomenal-value-realism#Connection to Indexical Identity|indexical identity carries value]]—if *your* experience matters distinctly from experiences-of-your-type—then idealism's subordination of individual to cosmic consciousness has ethical implications. The Map's emphasis on token-based value (this particular experience) sits uncomfortably with idealism's type-based ontology (patterns in universal consciousness).
 
 The Map's position: take consciousness seriously (with idealism) while also taking physics seriously (against idealism). The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet provides a mechanism—consciousness influences outcomes physics leaves undetermined—without denying that physics describes something real.
 

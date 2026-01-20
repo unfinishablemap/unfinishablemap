@@ -125,7 +125,7 @@ Consciousness could bias outcomes at the point of measurement even after decoher
 
 ### Why Not Many Worlds?
 
-If all quantum outcomes occur in branching universes, there's no "selection" for consciousness to perform—every possibility actualizes somewhere. the Map's [[many-worlds|rejection of Many-Worlds]] is therefore essential to mental causation. On MWI, consciousness would be epiphenomenal with respect to quantum events: it couldn't affect which outcomes occur because all outcomes occur.
+If all quantum outcomes occur in branching universes, there's no "selection" for consciousness to perform—every possibility actualizes somewhere. The Map's [[many-worlds|rejection of Many-Worlds]] is therefore essential to mental causation. On MWI, consciousness would be epiphenomenal with respect to quantum events: it couldn't affect which outcomes occur because all outcomes occur.
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet isn't incidental to the framework—it's required for mental causation to be possible.
 
@@ -145,7 +145,7 @@ This reframes mental causation as continuous with causation generally rather tha
 
 ### The Interface Question
 
-If consciousness causes physical effects, why only in *this* brain? The [[pairing-problem|pairing problem]] asks what connects a particular mind to a particular body. the Map's response: consciousness is spatially located where it causally interfaces with the brain. [[Interface-locality]] constrains mental causation to neural systems already integrated into the subject's control loop—consciousness can only influence quantum systems it can "observe" through the [[attention-as-interface|attention mechanism]].
+If consciousness causes physical effects, why only in *this* brain? The [[pairing-problem|pairing problem]] asks what connects a particular mind to a particular body. The Map's response: consciousness is spatially located where it causally interfaces with the brain. [[Interface-locality]] constrains mental causation to neural systems already integrated into the subject's control loop—consciousness can only influence quantum systems it can "observe" through the [[attention-as-interface|attention mechanism]].
 
 ## The Self-Stultification Argument
 
@@ -184,7 +184,7 @@ Mental causation is central to the Map's framework.
 
 **Strong Emergence**: the Map's position can be understood as strong [[emergence|emergentism]] with a mechanism. Classical emergentists affirmed mental causation but couldn't explain it. The quantum framework specifies *where* and *how*: at indeterminacies, through biasing probabilities.
 
-**Against Epiphenomenalism**: The [[epiphenomenalism|self-stultification argument]] shows mental causation must occur. If consciousness causes nothing, we can't rationally believe anything about consciousness—including epiphenomenalism. the Map takes this seriously: mental causation isn't optional.
+**Against Epiphenomenalism**: The [[epiphenomenalism|self-stultification argument]] shows mental causation must occur. If consciousness causes nothing, we can't rationally believe anything about consciousness—including epiphenomenalism. The Map takes this seriously: mental causation isn't optional.
 
 **Agent Causation**: The [[agent-causation|agent-causal framework]] provides the metaphysics. Mental causation isn't event→event but agent→event. The conscious subject exercises causal powers at quantum openings. This addresses Kim's exclusion argument by rejecting its event-causal assumptions.
 

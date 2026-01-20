@@ -69,7 +69,7 @@ David Benatar argues existence always involves more harm than non-existence, mak
 
 Recent work distinguishes "Sunny Nihilism" from the traditional negative variety. Iddo Landau's 2025 article "The Implications of Cosmic Meaninglessness" in the *Journal of Philosophy of Life* argues that nihilism's claim—there's no cosmic goal to human life—is descriptive, not evaluative. The absence of cosmic purpose doesn't entail that life is bad or worthless. It might just be neutral.
 
-## the Map's Position
+## The Map's Position
 
 The Map's framework suggests a fifth option: meaning grounded in consciousness itself.
 
@@ -89,7 +89,7 @@ Nihilism often assumes that without cosmic purpose, existence is valueless. But 
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences the physical world. We're not passive observers of a predetermined show; our choices shape what happens.
 
-This connects to the [[free-will]] discussion and the Map's treatment of [[agent-causation]]. the Map's quantum framework proposes that consciousness influences which neural patterns become actual—not by violating physical law, but by biasing quantum outcomes at moments of genuine indeterminacy. This provides the metaphysical grounding that existentialists assume but never explain: a mechanism by which conscious choice could actually make a difference.
+This connects to the [[free-will]] discussion and the Map's treatment of [[agent-causation]]. The Map's quantum framework proposes that consciousness influences which neural patterns become actual—not by violating physical law, but by biasing quantum outcomes at moments of genuine indeterminacy. This provides the metaphysical grounding that existentialists assume but never explain: a mechanism by which conscious choice could actually make a difference.
 
 What you do matters because it has real consequences mediated by irreducible consciousness. Your choices aren't epiphenomenal froth; they're causally efficacious interventions in reality.
 
@@ -123,7 +123,7 @@ The Map's framework can integrate this insight. If meaning is grounded in the in
 
 ## The AI Alignment Connection
 
-Questions about meaning acquire unexpected urgency through [[purpose-and-alignment|AI alignment research]]. the Map of ensuring AI serves human interests presupposes we know what those interests are. But if we cannot articulate human purpose clearly, AI systems cannot be properly aligned—they would be optimizing for something we cannot fully specify.
+Questions about meaning acquire unexpected urgency through [[purpose-and-alignment|AI alignment research]]. The Map of ensuring AI serves human interests presupposes we know what those interests are. But if we cannot articulate human purpose clearly, AI systems cannot be properly aligned—they would be optimizing for something we cannot fully specify.
 
 Standard alignment approaches learn from human preferences, treating choices as revealing values. But preferences are thin representations of meaning. What I choose under conditions of decision fatigue and algorithmic manipulation reveals little about what would fulfil me on reflection. The *preferentist critique* argues that observed behaviour cannot capture the "thick semantic content" of human values—the qualitative dimension of what makes life worth living.
 
@@ -149,7 +149,7 @@ The cosmic insignificance argument appeals to an impersonal "view from nowhere,"
 
 But conscious experience is not a dubious metaphysical posit—it's the most immediately certain feature of reality. Descartes was right about this much: even radical skepticism cannot doubt that experience exists. If consciousness is fundamental (as the Map's dualism holds), then the existence of experience is part of what the world basically is.
 
-Now: *that* consciousness exists is a fact. Whether consciousness *mattering* follows from its existence is a further question. the Map's position is that intrinsic properties of experience—its qualitative character, its first-person givenness—constitute a kind of value that error theory cannot coherently deny. The error theorist must assert their claim from *within* conscious experience, using the resources of mind they're claiming don't matter. To say "nothing matters" is to deploy meaning (conceptual content, communicative intent) in the service of denying meaning—a performative tension, if not outright contradiction.
+Now: *that* consciousness exists is a fact. Whether consciousness *mattering* follows from its existence is a further question. The Map's position is that intrinsic properties of experience—its qualitative character, its first-person givenness—constitute a kind of value that error theory cannot coherently deny. The error theorist must assert their claim from *within* conscious experience, using the resources of mind they're claiming don't matter. To say "nothing matters" is to deploy meaning (conceptual content, communicative intent) in the service of denying meaning—a performative tension, if not outright contradiction.
 
 ### Against the Infinity Requirement
 
@@ -173,13 +173,13 @@ This isn't a prescription for any particular lifestyle. It's a framework within 
 
 Any position worth holding should be falsifiable. What would count as evidence against consciousness-grounded meaning?
 
-**If consciousness turned out to be illusory**—if [[illusionism]] were correct and phenomenal experience doesn't really exist—then grounding meaning in consciousness would collapse. the Map's framework rejects illusionism, but the rejection bears argumentative weight.
+**If consciousness turned out to be illusory**—if [[illusionism]] were correct and phenomenal experience doesn't really exist—then grounding meaning in consciousness would collapse. The Map's framework rejects illusionism, but the rejection bears argumentative weight.
 
 **If consciousness proved fully reducible to physical processes** without remainder, the special status claimed for it here would be undermined. The hard problem might be dissolved rather than solved, removing consciousness's distinctive foundation-bearing role.
 
 **If meaning attributions showed no correlation with conscious engagement**—if people reported lives as equally meaningful whether or not they were consciously present—that would challenge the claim that conscious experience is where meaning resides.
 
-**If dualism proved untenable**—if the causal closure of physics ruled out mental causation entirely—then the claim that "choices matter" would need radical revision. the Map addresses this through its quantum framework, but the empirical question of whether consciousness influences physical outcomes remains open.
+**If dualism proved untenable**—if the causal closure of physics ruled out mental causation entirely—then the claim that "choices matter" would need radical revision. The Map addresses this through its quantum framework, but the empirical question of whether consciousness influences physical outcomes remains open.
 
 These conditions don't currently obtain. But they're not merely hypothetical—they represent ongoing debates in philosophy of mind where the Map's position could be wrong.
 

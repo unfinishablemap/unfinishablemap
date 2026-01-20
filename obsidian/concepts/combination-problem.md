@@ -119,7 +119,7 @@ Chalmers acknowledges this: "The combination problem is perhaps the hardest prob
 
 The structurally similar challenge at a different level suggests that the gap between physical and phenomenal may be irreducible—whether we posit consciousness at the bottom or not.
 
-## the Map's Alternative
+## The Map's Alternative
 
 The Map's [[interactionist-dualism|interactionist framework]] avoids the combination problem entirely.
 

@@ -128,7 +128,7 @@ The relationship between quantum mechanics and free will is contested. While qua
   - Agent causation stops regress at the conscious subject
   - Substance causation is the fundamental form of causation
   - Neo-Aristotelian framework: agents exercise irreducible causal powers
-- **Relation to site tenets**: Strongly aligned. Bidirectional Interaction is agent-causal: consciousness (substance) selects outcomes (causes events). the Map specifies quantum mechanism; philosophers provide metaphysical framework.
+- **Relation to site tenets**: Strongly aligned. Bidirectional Interaction is agent-causal: consciousness (substance) selects outcomes (causes events). The Map specifies quantum mechanism; philosophers provide metaphysical framework.
 
 ### Position 4: Quantum Consciousness Mechanisms (Stapp)
 - **Proponents**: Stapp, von Neumann, Wigner (historical), Schwartz
@@ -154,12 +154,12 @@ The relationship between quantum mechanics and free will is contested. While qua
 ### Debate 1: The Luck Objection
 - **Sides**: Critics (Mele, Haji) vs. Libertarians (Kane, O'Connor, Clarke)
 - **Core disagreement**: Does indeterminism undermine rather than enable free will?
-- **Current state**: Ongoing. Kane's effort-based response and O'Connor's substance-causation response remain contested but not refuted. the Map's framework offers a resolution: if consciousness *directs* rather than *randomizes* quantum outcomes, luck is irrelevant.
+- **Current state**: Ongoing. Kane's effort-based response and O'Connor's substance-causation response remain contested but not refuted. The Map's framework offers a resolution: if consciousness *directs* rather than *randomizes* quantum outcomes, luck is irrelevant.
 
 ### Debate 2: Where Is Indeterminism Located?
 - **Sides**: Centered accounts (indeterminism at decision) vs. Deliberative accounts (indeterminism in reasoning)
 - **Core disagreement**: Does free will require indeterminism immediately prior to action, or earlier in deliberation?
-- **Current state**: Both have defenders. the Map's quantum-selection model is centered: indeterminacy exists at the moment of neural pattern actualization.
+- **Current state**: Both have defenders. The Map's quantum-selection model is centered: indeterminacy exists at the moment of neural pattern actualization.
 
 ### Debate 3: Agent vs. Event Causation
 - **Sides**: O'Connor/Lowe/Hasker (agent-causal) vs. Kane/Ekstrom (event-causal)
@@ -192,7 +192,7 @@ The relationship between quantum mechanics and free will is contested. While qua
 
 Based on this research, site content could:
 
-1. **Strengthen free-will.md's quantum section**: Current coverage is good but could engage more directly with the luck objection and Kane's response. the Map's framework answers the luck objection because consciousness *directs* outcomes based on reasons—not randomly.
+1. **Strengthen free-will.md's quantum section**: Current coverage is good but could engage more directly with the luck objection and Kane's response. The Map's framework answers the luck objection because consciousness *directs* outcomes based on reasons—not randomly.
 
 2. **Cross-reference agent-causation.md with Kane's evolution**: Kane's 2024 move toward substance causation validates the Map's agent-causal framework. Worth noting this convergence.
 

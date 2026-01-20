@@ -32,7 +32,7 @@ last_curated: null
 
 If consciousness "selects" quantum outcomes—as The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds—there must be a psychophysical coupling law: a stable mapping from conscious contents to physical selections. Without specifying this law, even schematically, "selection" remains a metaphor rather than a research program.
 
-David Chalmers argued that consciousness requires new fundamental laws linking phenomenal and physical properties. the Map's framework requires a specific kind: laws specifying how mental states (intentions, attention, effort) map to which quantum outcomes become actual. This page articulates the problem and surveys candidate laws.
+David Chalmers argued that consciousness requires new fundamental laws linking phenomenal and physical properties. The Map's framework requires a specific kind: laws specifying how mental states (intentions, attention, effort) map to which quantum outcomes become actual. This page articulates the problem and surveys candidate laws.
 
 ## The Problem Stated
 
@@ -59,9 +59,9 @@ Chalmers proposes three psychophysical principles in "Facing Up to the Problem o
 
 **3. Double-Aspect Information**: Information has both physical and phenomenal aspects. The phenomenal aspect is information's intrinsic nature; the physical aspect is its extrinsic, relational properties. This suggests even simple information processing systems might have simple experiences—approaching panpsychism from information theory.
 
-### the Map's Divergence from Organizational Invariance
+### The Map's Divergence from Organizational Invariance
 
-The Map's rejection of [[functionalism]] creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. the Map's dualism implies that phenomenal properties supervene on more than just functional structure—on the particular conscious subject, with its [[haecceity|haecceity]], not merely on abstract patterns.
+The Map's rejection of [[functionalism]] creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. The Map's dualism implies that phenomenal properties supervene on more than just functional structure—on the particular conscious subject, with its [[haecceity|haecceity]], not merely on abstract patterns.
 
 ### Upward vs. Downward Direction
 

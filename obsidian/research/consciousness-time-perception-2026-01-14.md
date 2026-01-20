@@ -198,7 +198,7 @@ Based on this research, given existing temporal-consciousness.md coverage, new a
 
 1. **Bergson's Durée and the Map's Tenets**: Deep dive into Bergson's qualitative multiplicity, how durée escapes mechanistic causality, and how this supports Dualism and Bidirectional Interaction. Not yet covered.
 
-2. **Embodied Time: Interoception and Temporal Experience**: How bodily signals (heartbeat, breathing) shape time perception; the insula's role; implications for disembodied AI. the Map lacks treatment of embodiment and time.
+2. **Embodied Time: Interoception and Temporal Experience**: How bodily signals (heartbeat, breathing) shape time perception; the insula's role; implications for disembodied AI. The Map lacks treatment of embodiment and time.
 
 3. **The Time Consciousness Gap in Consciousness Theories**: Expand on Kent & Wittmann's critique—how IIT and GNWT miss experienced duration; what this reveals about materialism's limitations.
 

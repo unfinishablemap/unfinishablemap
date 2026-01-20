@@ -105,7 +105,7 @@ Buddhist philosophy offers a distinctive approach to meaning that differs marked
   - The five aggregates (body, feelings, perceptions, mental formations, consciousness) are all impermanent
   - Belief in a permanent self causes attachment and suffering
   - Liberation comes from recognizing non-self
-- **Relation to site tenets**: **Tension with Dualism tenet**. the Map commits to consciousness as irreducible; Buddhism denies any permanent conscious self. However, Buddhism doesn't deny consciousness exists—it denies consciousness is a *permanent substance*. This may be compatible with property dualism while conflicting with substance dualism.
+- **Relation to site tenets**: **Tension with Dualism tenet**. The Map commits to consciousness as irreducible; Buddhism denies any permanent conscious self. However, Buddhism doesn't deny consciousness exists—it denies consciousness is a *permanent substance*. This may be compatible with property dualism while conflicting with substance dualism.
 
 ### Yogācāra (Mind-Only) School
 - **Proponents**: Vasubandhu, Asaṅga (4th-5th century CE)

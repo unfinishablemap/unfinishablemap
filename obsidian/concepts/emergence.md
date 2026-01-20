@@ -93,7 +93,7 @@ Three features of consciousness resist reduction:
 
 Each of these features—unity, qualitative character, agency—is what strong emergence would predict and what weak emergence cannot explain.
 
-## the Map's Position: Strong Emergence with a Mechanism
+## The Map's Position: Strong Emergence with a Mechanism
 
 Classical British emergentists like Broad and Alexander affirmed strong emergence but couldn't specify how it operated. They accepted it with "natural piety"—brute facts to be acknowledged rather than explained.
 
@@ -159,11 +159,11 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 
 **Dualism:** the Map's position is precisely strong emergentism—consciousness has properties and powers not deducible from physics. This is what the Dualism tenet affirms.
 
-**Bidirectional Interaction:** Strong emergence requires downward causation. the Map specifies the mechanism: consciousness selects among quantum-undetermined outcomes.
+**Bidirectional Interaction:** Strong emergence requires downward causation. The Map specifies the mechanism: consciousness selects among quantum-undetermined outcomes.
 
 **Minimal Quantum Interaction:** This tenet identifies where strong emergence operates—at the level physics leaves genuinely open.
 
-**Occam's Razor Has Limits:** Both weak and strong emergence proposals face deep challenges. the Map argues that consciousness's irreducibility reflects a genuine ontological fact, not merely our current ignorance.
+**Occam's Razor Has Limits:** Both weak and strong emergence proposals face deep challenges. The Map argues that consciousness's irreducibility reflects a genuine ontological fact, not merely our current ignorance.
 
 ## Further Reading
 

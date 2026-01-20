@@ -79,7 +79,7 @@ Bell test experiments demonstrate correlations between entangled particles that 
 
 How does retrocausality help with consciousness and the Libet problem?
 
-### the Map's Framework
+### The Map's Framework
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] proposes that consciousness influences the physical world at the quantum level—biasing otherwise indeterminate outcomes. The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] holds that consciousness selects among superposed neural states.
 

@@ -173,7 +173,7 @@ These findings don't prove quantum consciousness but demonstrate that quantum ef
 
 Critically, decoherence does not solve the [[measurement-problem|measurement problem]]. Decoherence explains why interference effects wash out—why we don't see cats both alive and dead. But it doesn't explain why we see *definite* outcomes at all. After decoherence, quantum mechanics still describes the total system as a vast entangled superposition.
 
-If definite outcomes require something beyond decoherence—whether consciousness, objective collapse, or hidden variables—then the question of what selects outcomes remains open. Decoherence establishes preferred bases; it doesn't collapse them. the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet holds that genuine selection occurs. Whatever does the selecting might be consciousness.
+If definite outcomes require something beyond decoherence—whether consciousness, objective collapse, or hidden variables—then the question of what selects outcomes remains open. Decoherence establishes preferred bases; it doesn't collapse them. The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet holds that genuine selection occurs. Whatever does the selecting might be consciousness.
 
 ### Response 4: Non-Computational Selection
 
@@ -254,7 +254,7 @@ Interactionism would face serious difficulty if:
 
 1. **Deterministic neural dynamics**: If all neural activity could be predicted from prior physical states with no residual indeterminacy, consciousness would have nowhere to act. Current neuroscience cannot achieve such prediction, but this reflects practical limits rather than principled indeterminacy.
 
-2. **MWI confirmation**: If the [[many-worlds|Many-Worlds interpretation]] were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. the Map's No Many Worlds tenet would fail.
+2. **MWI confirmation**: If the [[many-worlds|Many-Worlds interpretation]] were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. The Map's No Many Worlds tenet would fail.
 
 3. **Conservation violations detected**: If mental causation required energy injection, and we observed systematic conservation violations in neural systems, the objection would stand. We observe no such violations—consistent with either epiphenomenalism or selection among equi-energetic outcomes.
 

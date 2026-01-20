@@ -189,7 +189,7 @@ If thoughts have genuine intentionality—if they're truly *about* things—then
 No direct connection, but: if intentionality requires consciousness, and consciousness operates at quantum indeterminacies (as the Map proposes), then intentional states may be where quantum selection happens. The "about what" of a thought may influence which quantum outcome actualizes.
 
 ### No Many Worlds
-Original intentionality presupposes a unified subject who intends. In many-worlds, every quantum branch contains a "copy" that intends differently. This fragments intentionality—no single subject bears the intentional relation. the Map's rejection of many-worlds preserves the unity required for genuine aboutness.
+Original intentionality presupposes a unified subject who intends. In many-worlds, every quantum branch contains a "copy" that intends differently. This fragments intentionality—no single subject bears the intentional relation. The Map's rejection of many-worlds preserves the unity required for genuine aboutness.
 
 ### Occam's Razor Has Limits
 The repeated failure of naturalization projects exemplifies this tenet. Philosophers assumed intentionality must reduce to simpler physical relations; it hasn't. The "simpler" causal and teleological theories fail to capture what intentionality is. This suggests our concepts of "simple" may be inadequate when dealing with mind.

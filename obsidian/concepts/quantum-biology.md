@@ -171,7 +171,7 @@ Standard physics provides probabilities for outcomes but doesn't determine which
 
 2. **Long-lived neural coherence**: Whether coherence persists long enough for neural quantum computation remains empirically open.
 
-3. **The specific mechanism**: Neither Orch OR nor QBIT has been confirmed. the Map doesn't commit to a specific quantum consciousness mechanism.
+3. **The specific mechanism**: Neither Orch OR nor QBIT has been confirmed. The Map doesn't commit to a specific quantum consciousness mechanism.
 
 ### What Quantum Biology Does Show
 

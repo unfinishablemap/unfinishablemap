@@ -130,13 +130,13 @@ Predictive processing relates to The Unfinishable Map's [[tenets]] in several wa
 
 **Dualism**: PP is typically presented as a physicalist framework—consciousness emerges from neural computation. However, the framework itself is methodologically neutral. PP could in principle describe the *physical side* of a dualist account, characterizing how consciousness interfaces with brain processes without claiming consciousness reduces to them.
 
-**Bidirectional Interaction**: Active inference—where organisms act to change sensory input—aligns interestingly with bidirectional interaction. Rather than passive receiving, consciousness actively shapes reality. the Map's claim that consciousness selects among quantum outcomes could be seen as a deeper-level instance of active inference.
+**Bidirectional Interaction**: Active inference—where organisms act to change sensory input—aligns interestingly with bidirectional interaction. Rather than passive receiving, consciousness actively shapes reality. The Map's claim that consciousness selects among quantum outcomes could be seen as a deeper-level instance of active inference.
 
 **Minimal Quantum Interaction**: PP says nothing about quantum mechanics. The "precision weighting" mechanism doesn't specify *how* certain signals become more salient. Quantum selection could fill this gap—consciousness might influence which prediction errors receive precision, providing the "selector" PP lacks.
 
-**Attention**: PP heavily invokes attention through precision weighting. the Map's articles on attention and Stapp's quantum Zeno mechanism connect naturally here. Sustained attention may be the mechanism through which consciousness influences which predictions become conscious.
+**Attention**: PP heavily invokes attention through precision weighting. The Map's articles on attention and Stapp's quantum Zeno mechanism connect naturally here. Sustained attention may be the mechanism through which consciousness influences which predictions become conscious.
 
-**Key critique**: PP offers a sophisticated account of *what* consciousness does (constructs models, minimizes prediction error, drives action) without explaining *why* these processes feel like anything. This is the standard functionalist limitation. the Map's framework agrees that PP describes important cognitive mechanisms while maintaining that consciousness itself requires non-physical explanation.
+**Key critique**: PP offers a sophisticated account of *what* consciousness does (constructs models, minimizes prediction error, drives action) without explaining *why* these processes feel like anything. This is the standard functionalist limitation. The Map's framework agrees that PP describes important cognitive mechanisms while maintaining that consciousness itself requires non-physical explanation.
 
 ## Sources
 

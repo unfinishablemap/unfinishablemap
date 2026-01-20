@@ -26,7 +26,7 @@ last_curated: null
 
 ## Executive Summary
 
-Panpsychism holds that consciousness is a fundamental and ubiquitous feature of reality—all matter has some experiential quality. Major proponents include Galen Strawson (who argues physicalism *entails* panpsychism) and Philip Goff (who emphasizes parsimony arguments). The main challenge is the "combination problem": how do micro-experiences combine into unified macro-consciousness? For The Unfinishable Map's dualist framework, panpsychism presents an interesting comparison—both reject consciousness emerging from wholly non-conscious matter, but they differ on whether matter itself is experiential. the Map's tenets may be compatible with a modified panpsychism where consciousness influences but isn't identical to all matter.
+Panpsychism holds that consciousness is a fundamental and ubiquitous feature of reality—all matter has some experiential quality. Major proponents include Galen Strawson (who argues physicalism *entails* panpsychism) and Philip Goff (who emphasizes parsimony arguments). The main challenge is the "combination problem": how do micro-experiences combine into unified macro-consciousness? For The Unfinishable Map's dualist framework, panpsychism presents an interesting comparison—both reject consciousness emerging from wholly non-conscious matter, but they differ on whether matter itself is experiential. The Map's tenets may be compatible with a modified panpsychism where consciousness influences but isn't identical to all matter.
 
 ## Key Sources
 

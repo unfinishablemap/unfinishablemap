@@ -207,11 +207,11 @@ The interface locality constraint isn't added to avoid the multi-mind problem—
 
 Though the Map rejects RQM's core claim, Rovelli's framework offers useful insights:
 
-**Perspectivalism about intermediate states.** Before two observers interact, their relative states need not agree. the Map can accept a limited version: before Alice and Bob communicate, their brain states (including which neural patterns their consciousnesses have selected) need not be compared. Agreement is verified only through physical interaction, at which point objective collapse has already produced shared facts.
+**Perspectivalism about intermediate states.** Before two observers interact, their relative states need not agree. The Map can accept a limited version: before Alice and Bob communicate, their brain states (including which neural patterns their consciousnesses have selected) need not be compared. Agreement is verified only through physical interaction, at which point objective collapse has already produced shared facts.
 
 **Locality via perspectival independence.** RQM claims to preserve locality because relative facts at one location don't constrain relative facts at another. Interface locality achieves something similar: Alice's neural modulation doesn't constrain Bob's, preserving both locality and mental causation.
 
-**The analogy with relativity.** RQM draws on special relativity's lesson that velocity is always relative. the Map can draw a different lesson: just as an object's velocity is relative to a reference frame, consciousness's causal reach is relative to its embodiment. Neither extends to arbitrary locations.
+**The analogy with relativity.** RQM draws on special relativity's lesson that velocity is always relative. The Map can draw a different lesson: just as an object's velocity is relative to a reference frame, consciousness's causal reach is relative to its embodiment. Neither extends to arbitrary locations.
 
 ## Relation to Site Perspective
 

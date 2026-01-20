@@ -61,7 +61,7 @@ The [[causal-closure|causal closure of physics]] provides the main motivation fo
 
 The first premise—causal closure—claims that physics is complete. You don't need to invoke anything non-physical to explain physical events; the physical story is sufficient by itself. If this is true, what room is there for consciousness to do anything?
 
-Epiphenomenalists accept the argument and draw the epiphenomenalist horn of the dilemma. Materialists reject premise 2. the Map rejects premise 1—the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that consciousness influences quantum outcomes that physics leaves undetermined. At quantum indeterminacies, physics provides *necessary* but not *sufficient* causes, leaving room for mental causation without exclusion.
+Epiphenomenalists accept the argument and draw the epiphenomenalist horn of the dilemma. Materialists reject premise 2. The Map rejects premise 1—the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that consciousness influences quantum outcomes that physics leaves undetermined. At quantum indeterminacies, physics provides *necessary* but not *sufficient* causes, leaving room for mental causation without exclusion.
 
 ### The Explanatory Gap
 
@@ -136,7 +136,7 @@ Consciousness is fundamental and ubiquitous, so it cannot be epiphenomenal—it'
 
 Epiphenomenalism is a coherent view that solves some problems (no mysterious mental→physical causation) while creating others (self-stultification, evolutionary mystery). Its plausibility depends entirely on accepting strong causal closure of physics.
 
-If you believe physics is complete—that every physical event has a sufficient physical cause—then you're pushed toward either identity theory (consciousness *is* physical) or epiphenomenalism (consciousness causes nothing). the Map rejects this dichotomy by rejecting strong closure: physics is not complete at quantum indeterminacies, and that's where consciousness acts.
+If you believe physics is complete—that every physical event has a sufficient physical cause—then you're pushed toward either identity theory (consciousness *is* physical) or epiphenomenalism (consciousness causes nothing). The Map rejects this dichotomy by rejecting strong closure: physics is not complete at quantum indeterminacies, and that's where consciousness acts.
 
 The self-stultification problem remains the decisive objection. If epiphenomenalism is true, no one can rationally believe it—because their belief wouldn't be caused by the evidence. This doesn't prove epiphenomenalism false, but it shows that anyone who claims to believe it on the basis of evidence must be wrong about something.
 

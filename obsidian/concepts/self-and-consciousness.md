@@ -208,7 +208,7 @@ The Map's framework can accommodate Buddhist insights through a key distinction 
 
 Consciousness can be irreducible at each moment while being impermanent across moments. Just as a candle flame is irreducibly a flame (not reducible to descriptions of wax and wick) while constantly changing, consciousness can be irreducibly experiential while constantly arising and passing. This aligns with **property dualism** rather than substance dualism—at each moment there are both physical properties and phenomenal properties, neither requiring permanence. Whitehead's process philosophy offers a parallel framework: "actual occasions" of experience arise and perish, each with its own phenomenal character, creating causal chains without requiring a persistent substance. Buddhist *khanika* (momentariness) and Whitehead's actual occasions converge on this insight.
 
-The phenomenological minimal self fits this picture: it is not a permanent substance but the *form* conscious experience takes at each moment. Buddhism can accept this minimal self exists conventionally while denying it ultimate substantial reality. the Map might accept this compromise—first-personal structure doesn't require permanence.
+The phenomenological minimal self fits this picture: it is not a permanent substance but the *form* conscious experience takes at each moment. Buddhism can accept this minimal self exists conventionally while denying it ultimate substantial reality. The Map might accept this compromise—first-personal structure doesn't require permanence.
 
 ## The Self and the Hard Problem
 

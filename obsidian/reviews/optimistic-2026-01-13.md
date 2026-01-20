@@ -23,7 +23,7 @@ Chalmers would appreciate how the hard-problem-of-consciousness article has evol
 
 > "With other a posteriori identities—water and H₂O, heat and molecular motion—the appearance of contingency reflects our ignorance... But we do know consciousness from the inside. When we conceive of zombies, we're not filling in gaps in our knowledge; we're positively envisioning a scenario where all the physics is present and experience is absent."
 
-The new connection to apophatic methodology adds depth. McGinn's cognitive closure isn't mysticism but "naturalism about the limits of naturalism"—a position Chalmers respects even where he disagrees. the Map now engages the question of whether the hard problem might be *unsolvable* rather than merely unsolved.
+The new connection to apophatic methodology adds depth. McGinn's cognitive closure isn't mysticism but "naturalism about the limits of naturalism"—a position Chalmers respects even where he disagrees. The Map now engages the question of whether the hard problem might be *unsolvable* rather than merely unsolved.
 
 ### The Quantum Mind Theorist (Stapp)
 
@@ -43,7 +43,7 @@ The apophatic-approaches article extends this with genuine methodological sophis
 
 ### The Process Philosopher (Whitehead)
 
-Whitehead would appreciate the panpsychism comparison article's fair treatment of his intellectual descendants. the Map agrees with the anti-emergence argument while reaching different conclusions. The new IIT section added to the panpsychism article shows nuanced engagement:
+Whitehead would appreciate the panpsychism comparison article's fair treatment of his intellectual descendants. The Map agrees with the anti-emergence argument while reaching different conclusions. The new IIT section added to the panpsychism article shows nuanced engagement:
 
 > "IIT provides what traditional panpsychism lacks—a mathematical measure of consciousness and testable predictions... However, IIT faces its own version of the combination problem."
 

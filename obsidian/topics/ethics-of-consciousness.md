@@ -53,11 +53,11 @@ Several philosophical traditions converge on consciousness as the foundation of 
 
 **Buddhist ethics**: The first precept—*ahimsa* (non-harming)—applies to all sentient beings. Buddhism grounds ethics in the reduction of *dukkha* (suffering), which presupposes experiencers who suffer. Despite rejecting permanent selfhood, Buddhism maintains that moment-to-moment consciousness streams bear moral weight. The Jataka tales extend moral consideration to animals precisely because they experience.
 
-The convergence is striking: traditions disagreeing about almost everything else—including whether selves exist, whether God grounds morality, whether consequences or intentions matter—agree that consciousness is what makes ethics possible. the Map's [[tenets#^dualism|dualism]] strengthens this: if consciousness is irreducible to physical processes—if there's genuinely "something it is like" to be conscious—then that something grounds moral significance in a way physicalism struggles to explain.
+The convergence is striking: traditions disagreeing about almost everything else—including whether selves exist, whether God grounds morality, whether consequences or intentions matter—agree that consciousness is what makes ethics possible. The Map's [[tenets#^dualism|dualism]] strengthens this: if consciousness is irreducible to physical processes—if there's genuinely "something it is like" to be conscious—then that something grounds moral significance in a way physicalism struggles to explain.
 
 ## Moral Responsibility: Agent Causation and Desert
 
-Consciousness grounds not only moral *patienthood* (who can be harmed) but also moral *responsibility* (who can be praised or blamed). the Map's framework provides distinctive grounding for both.
+Consciousness grounds not only moral *patienthood* (who can be harmed) but also moral *responsibility* (who can be praised or blamed). The Map's framework provides distinctive grounding for both.
 
 If agents genuinely originate their choices through [[agent-causation|agent causation]]—exercising irreducible causal power rather than being links in deterministic chains—then [[moral-responsibility|moral responsibility]] has metaphysical backing. Desert becomes more than a useful social fiction: the wrongdoer who exercised causal power to harm when kindness was available genuinely deserves blame. This differs from compatibilist desert, which treats responsibility as pragmatically useful regardless of whether anyone "really" deserves anything.
 
@@ -136,7 +136,7 @@ Rather than all-or-nothing patienthood, weight moral consideration by confidence
 
 This allows graded responses. High-confidence conscious beings get strong protections; edge cases get proportionate consideration; confident non-conscious systems get none.
 
-### the Map's Position
+### The Map's Position
 
 The Map's framework shapes moral uncertainty differently than functionalism would:
 
@@ -290,7 +290,7 @@ Valence sentientists say no: without the capacity for suffering, there's nothing
 
 The Map's [[phenomenal-value-realism]] aligns with a sophisticated valence sentientism: not just pleasure and pain, but multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value. All, however, are features of *felt* experience. The philosophical Vulcan, if genuinely without any valenced states, would lack the features that make experience valuable or disvaluable.
 
-### the Map's View Shapes Suffering's Distribution
+### The Map's View Shapes Suffering's Distribution
 
 **Animals**: If conscious, animals can suffer. Factory farming involves vast quantities of real suffering.
 

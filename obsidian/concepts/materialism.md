@@ -180,7 +180,7 @@ Materialism is the Map's primary opponent. Understanding its failure motivates t
 
 **[[Dualism]]** is accepted because materialism fails. Physical descriptions leave the [[explanatory-gap|explanatory gap]]; physical facts don't entail experiential facts; [[qualia]] resist physical characterization. Consciousness must be something beyond the physical. See [[dualism]] for the positive case.
 
-**Bidirectional Interaction** is needed because rejecting materialism could lead to [[epiphenomenalism]]—accepting consciousness is non-physical but denying it does anything. the Map rejects this move: consciousness causally influences physical outcomes, or we couldn't even discuss it.
+**Bidirectional Interaction** is needed because rejecting materialism could lead to [[epiphenomenalism]]—accepting consciousness is non-physical but denying it does anything. The Map rejects this move: consciousness causally influences physical outcomes, or we couldn't even discuss it.
 
 **Minimal Quantum Interaction** responds to the causal closure argument. If physics were complete, there'd be no room for mental causation. But physics is not complete at quantum indeterminacies. Consciousness acts there, biasing otherwise undetermined outcomes.
 
@@ -204,7 +204,7 @@ The Map's rejection of materialism is not unfalsifiable. Several findings could 
 
 None of these conditions currently obtains, and each faces significant challenges. But they represent the kind of evidence that would count against the Map's dualist framework.
 
-Materialism remains the consensus position in academic philosophy. the Map holds that this consensus is maintained by ignoring consciousness's most distinctive features—by treating the hard problem as merely difficult rather than unsolvable in materialist terms.
+Materialism remains the consensus position in academic philosophy. The Map holds that this consensus is maintained by ignoring consciousness's most distinctive features—by treating the hard problem as merely difficult rather than unsolvable in materialist terms.
 
 ## Further Reading
 

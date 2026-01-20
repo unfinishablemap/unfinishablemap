@@ -103,7 +103,7 @@ This isn't mere forgetting. The memories aren't lost but were never encoded auto
 
 The hippocampus performs binding operations essential to episodic memory—integrating spatiotemporal context with item information into unified representations. Research suggests this binding is what makes memories episodic rather than merely semantic. The hippocampus binds disparate features (object, location, time, emotional context) into coherent episodes through pattern separation and pattern completion.
 
-This connects to the [[binding-problem|binding problem]] in consciousness. If conscious experience is a unified representation of the world, and episodic memory creates unified representations of events, the mechanisms may be intimately related. The hippocampus might not merely store unified representations but participate in generating the unified conscious experience that gets stored. the Map's framework suggests this convergence isn't coincidental—binding and consciousness may be aspects of the same phenomenon.
+This connects to the [[binding-problem|binding problem]] in consciousness. If conscious experience is a unified representation of the world, and episodic memory creates unified representations of events, the mechanisms may be intimately related. The hippocampus might not merely store unified representations but participate in generating the unified conscious experience that gets stored. The Map's framework suggests this convergence isn't coincidental—binding and consciousness may be aspects of the same phenomenon.
 
 ## Working Memory and Mental Time Travel
 
@@ -204,7 +204,7 @@ Autonoetic consciousness supports all five of the Map's foundational commitments
 
 **Retrocausality and Mental Time Travel**: the Map proposes retrocausal resolution of apparent timing problems in consciousness (such as the [[libet-experiments|Libet experiments]]). Mental time travel may be the phenomenological manifestation of something deeper: consciousness's capacity to operate across time. The ability to re-inhabit past moments and project into future ones might not be mere simulation but reflect a genuine atemporal aspect of consciousness—consistent with time-symmetric interpretations of quantum mechanics that the Map favors.
 
-**The Binding Connection**: If hippocampal binding generates both unified conscious experience and unified memories, these functions may be identical or intimately related. the Map's quantum binding hypothesis—that consciousness unifies distributed processes through collapse—might apply equally to episodic memory formation. Memory would then be constitutively conscious, not merely correlated with consciousness. [[decoherence|Decoherence]] objections apply here, but warm biological systems may preserve quantum effects long enough for selection operations, and the measurement problem remains regardless of decoherence timescales.
+**The Binding Connection**: If hippocampal binding generates both unified conscious experience and unified memories, these functions may be identical or intimately related. The Map's quantum binding hypothesis—that consciousness unifies distributed processes through collapse—might apply equally to episodic memory formation. Memory would then be constitutively conscious, not merely correlated with consciousness. [[decoherence|Decoherence]] objections apply here, but warm biological systems may preserve quantum effects long enough for selection operations, and the measurement problem remains regardless of decoherence timescales.
 
 ## What Would Challenge This View?
 

@@ -167,11 +167,11 @@ Mysterianism (or "new mysterianism") is the philosophical position that the hard
 
 Based on this research, an article could:
 
-1. **Present mysterianism as a respectable position that takes consciousness seriously** - Unlike eliminativism, mysterians don't deny phenomenal experience. the Map could acknowledge mysterianism as an ally against crude physicalism while noting the Map's own commitment to Bidirectional Interaction goes further (requiring consciousness to be causally efficacious, not just real).
+1. **Present mysterianism as a respectable position that takes consciousness seriously** - Unlike eliminativism, mysterians don't deny phenomenal experience. The Map could acknowledge mysterianism as an ally against crude physicalism while noting the Map's own commitment to Bidirectional Interaction goes further (requiring consciousness to be causally efficacious, not just real).
 
 2. **Use mysterianism to support Occam's Razor Has Limits** - McGinn's position exemplifies the tenet: our sense of what's "simple" or "solvable" may be cognitively bounded. What looks like physicalism's simplicity may just be our blindness to complexity. This is exactly what the tenet asserts.
 
-3. **Position the Map's dualism as going beyond mysterianism** - Mysterianism is officially neutral; the Map is not. the Map bets that consciousness is irreducible (Dualism tenet) and causally efficacious (Bidirectional Interaction). Mysterianism is compatible with the Map's view but doesn't commit to it.
+3. **Position the Map's dualism as going beyond mysterianism** - Mysterianism is officially neutral; the Map is not. The Map bets that consciousness is irreducible (Dualism tenet) and causally efficacious (Bidirectional Interaction). Mysterianism is compatible with the Map's view but doesn't commit to it.
 
 When writing the article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references
@@ -190,7 +190,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 **Dualism**: Neutral but compatible. Mysterians don't commit to dualism, but their acknowledgment that consciousness is real and problematic aligns with the tenet's rejection of eliminativism. McGinn accepts there's something to explain—just claims we can't explain it.
 
-**Bidirectional Interaction**: Neutral. Mysterianism doesn't address causal efficacy. the Map's commitment to consciousness influencing the physical world goes beyond what mysterianism claims.
+**Bidirectional Interaction**: Neutral. Mysterianism doesn't address causal efficacy. The Map's commitment to consciousness influencing the physical world goes beyond what mysterianism claims.
 
 **Minimal Quantum Interaction**: Neutral. Mysterianism makes no claims about mechanisms.
 

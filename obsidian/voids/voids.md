@@ -98,7 +98,7 @@ The occluded voids—if they exist—demand cleverness. They suggest that the ed
 
 Taking consciousness seriously as fundamental leads here. If mind is more than one more physical phenomenon to be catalogued, then the space of minds—and the thoughts they can think—may be as vast and varied as physical reality itself. We cannot assume our particular form of consciousness has access to all truths.
 
-## the Map
+## The Map
 
 This section will explore:
 

@@ -162,7 +162,7 @@ The answer: physics is *almost* complete. Quantum indeterminacies are tiny. The 
 
 What causal closure's failure allows is *small* deviations from purely physical expectations—deviations that could influence which of several superposed neural states becomes actual. These deviations would be statistically invisible in any physical measurement yet could make all the difference for agency and thought.
 
-This is not "god of the gaps" reasoning. It's recognition that physics *describes* a gap—the gap between quantum probabilities and definite outcomes—and asks what fills it. the Map's answer: consciousness.
+This is not "god of the gaps" reasoning. It's recognition that physics *describes* a gap—the gap between quantum probabilities and definite outcomes—and asks what fills it. The Map's answer: consciousness.
 
 ## Further Reading
 

@@ -134,7 +134,7 @@ This research covers the major philosophical arguments against materialism/physi
 
 **Notable formulation**: "The really hard problem of consciousness is the problem of experience. When we think and perceive, there is a whir of information-processing, but there is also a subjective aspect."
 
-**Relation to site tenets**: This is the core rationale for the Dualism tenet. the Map explicitly states: "The explanatory gap between physical descriptions and subjective experience remains unbridged. No amount of neurological detail tells us *why* there is something it is like to be conscious."
+**Relation to site tenets**: This is the core rationale for the Dualism tenet. The Map explicitly states: "The explanatory gap between physical descriptions and subjective experience remains unbridged. No amount of neurological detail tells us *why* there is something it is like to be conscious."
 
 ---
 
@@ -198,7 +198,7 @@ This research covers the major philosophical arguments against materialism/physi
 
 **Key formulation**: "Psycho-physical identity statements leave a significant explanatory gap."
 
-**Relation to site tenets**: Supports Dualism tenet rationale. the Map states the explanatory gap "remains unbridged."
+**Relation to site tenets**: Supports Dualism tenet rationale. The Map states the explanatory gap "remains unbridged."
 
 ---
 
@@ -257,7 +257,7 @@ This research covers the major philosophical arguments against materialism/physi
 - Supports **Bidirectional Interaction** tenet: consciousness causally influences physical outcomes
 - Supports **No Many Worlds** tenet: the Map rejects MWI, which would eliminate the need for collapse
 
-**Caveats**: Von Neumann-Wigner interpretation is now largely discarded. the Map explicitly warns against "quantum woo" and treats this as "a constrained philosophical hypothesis about the mind-body problem, not an endorsement of quantum mysticism."
+**Caveats**: Von Neumann-Wigner interpretation is now largely discarded. The Map explicitly warns against "quantum woo" and treats this as "a constrained philosophical hypothesis about the mind-body problem, not an endorsement of quantum mysticism."
 
 ---
 

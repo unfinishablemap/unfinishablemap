@@ -56,7 +56,7 @@ The 100ms–5s window corresponds to both the specious present and WM maintenanc
 
 "Working memory provides a temporal bridge between events—both those that are internally generated and environmentally presented—thereby conferring a sense of unity and continuity to conscious experience."
 
-**Relevance to site**: The specious present may be phenomenology of WM at work. the Map's specious-present article proposes modified extensionalism—consciousness extends over duration-blocks constituted by collapse. WM maintenance could be the neural correlate of this extended phenomenal present.
+**Relevance to site**: The specious present may be phenomenology of WM at work. The Map's specious-present article proposes modified extensionalism—consciousness extends over duration-blocks constituted by collapse. WM maintenance could be the neural correlate of this extended phenomenal present.
 
 ## Working Memory and Global Workspace Theory
 

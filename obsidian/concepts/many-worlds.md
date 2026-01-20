@@ -80,7 +80,7 @@ The standard MWI strategy uses decision theory: rational agents should weight ou
 
 **The MWI response**: Decision-theoretic derivations (Deutsch-Wallace) claim to show that rational agents *must* weight outcomes by Born rule probabilities, given certain axioms about rational preference under branching.
 
-**The counter-response**: These derivations are contested. Critics (Kent, Albert, Loewer) argue the axioms are question-begging or insufficiently motivated. the Map of deriving probability from non-probabilistic branching may be fundamentally misguided.
+**The counter-response**: These derivations are contested. Critics (Kent, Albert, Loewer) argue the axioms are question-begging or insufficiently motivated. The Map of deriving probability from non-probabilistic branching may be fundamentally misguided.
 
 ### 4. The Preferred Basis Problem
 
@@ -143,7 +143,7 @@ Despite these objections, MWI attracts substantial support among physicists and 
 
 **Determinism**: The wave function evolves deterministically. Apparent randomness is perspectival.
 
-These are genuine virtues. the Map rejects MWI not because it's obviously wrong but because its costs—particularly for identity and meaning—outweigh its benefits.
+These are genuine virtues. The Map rejects MWI not because it's obviously wrong but because its costs—particularly for identity and meaning—outweigh its benefits.
 
 ## What Would Challenge This View?
 
