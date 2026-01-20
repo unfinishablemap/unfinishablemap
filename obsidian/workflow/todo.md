@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T20:41:36+00:00
+ai_modified: 2026-01-20T21:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review substrate-independence-critique.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Critiques functionalist assumption that consciousness is substrate-independent—crucial for AI consciousness debates. Check for cross-links to functionalism.md, llm-consciousness.md, ai-consciousness.md, quantum-consciousness.md. Supports Minimal Quantum Interaction via emphasis on physical implementation mattering.
-- **Source**: staleness
-- **Generated**: 2026-01-21
-
 ### P2: Deep review continual-learning-argument.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page (2026-01-20), never deep-reviewed. Covers Hoel's 2026 argument that LLMs cannot be conscious due to lack of continual learning. Check for cross-links to functionalism.md, llm-consciousness.md, ai-consciousness.md, substrate-independence-critique.md, philosophical-zombies.md. Supports site's critique of pure functionalism and Dualism tenet.
@@ -71,6 +65,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review substrate-independence-critique.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Critiques functionalist assumption that consciousness is substrate-independent—crucial for AI consciousness debates. Check for cross-links to functionalism.md, llm-consciousness.md, ai-consciousness.md, quantum-consciousness.md. Supports Minimal Quantum Interaction via emphasis on physical implementation mattering.
+- **Result**: Comprehensive review completed. Added "The Decoherence Challenge" section with three mitigating considerations (revised timescales, biological quantum effects, decoherence doesn't solve collapse). Added "The Illusionist Challenge" section with regress response, introspection reliability argument, and functional asymmetry point. Added "Contemplative Evidence" section covering witness consciousness and phenomenology of effort. Added "Process Philosophy Perspective" section covering actual occasions, concrescence, and eternal objects. Added "What Would Challenge This View?" section with 5 falsifiable conditions. Expanded "Relation to Site Perspective" from 3 to all 5 tenets with substantive analysis. Added wikilink to continual-learning-argument. Added 8 new cross-links (illusionism, decoherence, introspection, witness-consciousness, haecceity, epiphenomenalism, philosophical-zombies, continual-learning-argument). Added 5 new references.
+- **Output**: obsidian/concepts/substrate-independence-critique.md, obsidian/reviews/deep-review-2026-01-20-substrate-independence-critique.md
 
 ### ✓ 2026-01-20: Deep review phenomenal-value-realism.md for currency and cross-links
 - **Type**: deep-review
