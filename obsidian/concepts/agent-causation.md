@@ -3,7 +3,7 @@ title: "Agent Causation"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-19T20:45:00+00:00
+ai_modified: 2026-01-20T10:00:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -19,6 +19,10 @@ concepts:
   - "[[consciousness-and-creativity]]"
   - "[[duration]]"
   - "[[quantum-indeterminacy-free-will]]"
+  - "[[many-worlds]]"
+  - "[[pairing-problem]]"
+  - "[[downward-causation]]"
+  - "[[mental-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[agent-causation-libertarian-free-will-2026-01-14]]"
@@ -29,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-20T10:00:00+00:00
 ---
 
 Agent causation holds that conscious agents—understood as persisting substances rather than collections of events—directly cause their actions. The agent is the causal source, not reducible to prior mental events like beliefs and desires. This positions agents as initiators of causal chains, not merely links in chains that stretch back before their existence.
@@ -110,6 +114,12 @@ This reframes the [[interactionist-dualism#The Causal Closure Argument|causal cl
 
 The site's quantum mechanism specifies *where* agent causation interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. The agent—the conscious substance—selects among quantum possibilities. This isn't consciousness "adding" to physical causation; it's consciousness exercising the same kind of causal power that all substances exercise, at points where physics doesn't determine the outcome.
 
+This framework also addresses the [[pairing-problem|pairing problem]]—what connects *this* mind to *this* body? If consciousness interfaces with physics at specific quantum-sensitive neural structures, consciousness is spatially located where those structures are. The mind is paired with the body it causally affects. Agent causation doesn't float freely; it operates through particular physical interfaces.
+
+### The Decoherence Challenge
+
+The main physics-based objection: warm neural tissue decoheres quantum superpositions in ~10^-13 seconds (Tegmark 2000), far too fast for the 300ms attention deployment to exploit. But this calculation assumes quantum effects must persist at scales comparable to neural computation. The site's mechanism requires only that consciousness biases which quantum outcome actualizes at the moment of decoherence—not that coherence persists for macroscopic durations. Additionally, quantum biology has revealed coherence effects in warm biological systems (avian magnetoreception, photosynthetic energy transfer) that Tegmark's original calculations ruled out, suggesting the decoherence timescales may be revisable. See [[decoherence]] for the fuller engagement.
+
 ## Agent Causation and Sourcehood
 
 Robert Kane emphasizes *sourcehood* as the core requirement for free will: the agent must be the ultimate source of their actions, not merely a link in causal chains originating elsewhere. This condition is satisfied if the agent is an "uncaused cause"—but event-causal libertarianism struggles to provide this.
@@ -133,6 +143,8 @@ The [[implicit-memory|implicit memory]] framework resolves this tension. Tulving
 The "choking under pressure" phenomenon provides striking support for agent causation. When skilled performers consciously attend to automatized actions, performance degrades. The expert golfer thinking about their swing, the concert pianist monitoring finger placement—both perform worse than when acting unreflectively.
 
 This degradation proves consciousness isn't epiphenomenal. If attention were causally inert, attending to skills couldn't interfere with them. The fact that conscious engagement *disrupts* procedural execution demonstrates causal efficacy—precisely what agent causation claims. Consciousness doesn't merely observe action; it can intervene, sometimes unhelpfully.
+
+The illusionist might respond: felt effort is itself illusory—there's neural competition but no phenomenal causation. But this response faces the self-stultification problem: if phenomenal effort is illusory, the illusionist's argument about effort doesn't track anything real. The very discussion of effort becomes accidentally correlated with its subject matter. Choking provides non-verbal behavioural evidence: skilled performance degrades when attention is deployed, regardless of how we conceptualize the phenomenology.
 
 ### Anoetic Consciousness and Continuous Subjecthood
 
@@ -267,6 +279,28 @@ This gives agent causation temporal depth. The agent isn't source just at the mo
 
 Margaret Boden's "transformational creativity"—producing what was "downright impossible" within the previous framework—provides the clearest case. You cannot select a rule-change from within the old rule-system; the agent must both generate the new rules and recognize their value. This is agent causation in its strongest form: the agent as source of the very framework within which selection occurs.
 
+### Process Philosophy and Actual Occasions
+
+Whitehead's process philosophy offers a complementary perspective. His "actual occasions"—momentary experiential events—exercise what Whitehead called "self-determination" in constituting themselves from their causal inheritance. Each occasion prehends (grasps) its predecessors and creatively synthesizes something new. This isn't substance causation in the Aristotelian sense but a different metaphysical picture where causation is inherently experiential and creative.
+
+The process view illuminates agent causation from an unexpected direction. If all causation involves experiential self-determination (panexperientialism), then human agent causation is continuous with causation generally rather than metaphysically exceptional. Consciousness doesn't mysteriously intervene in physical causation—it exemplifies what causation fundamentally is. This weakens the objection that agent causation is ad hoc while preserving its core insight: genuine novelty enters the world through experiential synthesis.
+
+## What Would Challenge This View?
+
+Agent causation is falsifiable. Findings that would undermine the framework:
+
+**Complete neural prediction**: If all decisions could be predicted from prior brain states with 100% accuracy, at timescales ruling out quantum effects, there would be no "gap" for consciousness to fill. Current predictive accuracy (~60% for simple choices) leaves substantial room.
+
+**Elimination of quantum effects in neural tissue**: If quantum coherence were proven physically impossible in brain tissue—not just challenging but excluded—the proposed interface mechanism fails. Current evidence from quantum biology (avian magnetoreception, enzyme catalysis, photosynthesis) suggests biological quantum effects are more robust than expected.
+
+**Dissociation of effort and outcome**: If sustained mental effort could be shown to have no correlation with decision outcomes—feeling hard when choices are actually easy, feeling easy when choices are actually hard—the phenomenological support collapses. Current evidence shows the opposite: difficult decisions feel effortful and engage distinctive neural signatures.
+
+**No willed/instructed distinction**: If the neural signatures for willed and instructed attention turned out to be identical, the claim that consciousness adds something beyond physical prompts would weaken significantly. Current research robustly distinguishes the two.
+
+**Solving the hard problem materialistically**: If a compelling account of why physical processes give rise to subjective experience emerged, the motivation for treating consciousness as a separate causal factor would diminish. The explanatory gap has persisted despite decades of materialist effort.
+
+**Many-worlds empirical confirmation**: If the [[many-worlds|many-worlds interpretation]] were empirically confirmed (though how this could occur is unclear), there would be no collapse for consciousness to influence—all outcomes occur in branching universes. The site's rejection of MWI is foundational to the agent-causal picture.
+
 ## Relation to Site Perspective
 
 Agent causation is the philosophical tradition to which this site belongs. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—that consciousness causally influences the physical world—is a claim of agent causation: the conscious subject, as substance, causes physical events.
@@ -285,11 +319,16 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 - [[interactionist-dualism]] — How mind and body interact
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interface
 - [[mental-effort]] — The phenomenology supporting agent causation
+- [[mental-causation]] — The broader problem of how mind causes physical effects
+- [[downward-causation]] — How higher-level properties influence lower-level processes
+- [[pairing-problem]] — What connects this mind to this body
+- [[many-worlds]] — Why the site rejects the many-worlds interpretation (and why it matters for agent causation)
 - [[duration]] — Bergson's creative time as the medium of genuine novelty
 - [[retrocausality]] — How atemporal selection deepens sourcehood
 - [[implicit-memory]] — Skill delegation, choking phenomenon, and evidence for causal efficacy
 - [[attention-as-interface]] — How attention may be consciousness's causal pathway
 - [[motor-selection]] — Motor control as second domain supporting agent causation
+- [[decoherence]] — The challenge from quantum decoherence timescales
 - [[agent-causation-libertarian-free-will-2026-01-14]] — Detailed research notes
 - [[voluntary-attention-control-mechanisms-2026-01-17]] — Neural signatures of willed attention
 - [[motor-control-quantum-zeno-2026-01-18]] — Motor control and quantum Zeno research
@@ -304,7 +343,10 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 - Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 - Hausman, C.R. (1984). *A Discourse on Novelty and Creation*. SUNY Press.
 - Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
+- Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.
 - Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
 - O'Connor, T. (2000). *Persons and Causes*. Oxford University Press.
 - Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 - Sjöberg, R.L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
+- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
