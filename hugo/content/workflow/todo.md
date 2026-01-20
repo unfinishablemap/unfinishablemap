@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 03:20:00+00:00
+ai_modified: 2026-01-20 11:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -56,19 +56,43 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review dreams-and-consciousness.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Important for understanding consciousness without external input. Check for cross-links to altered-states-of-consciousness.md, sleep-and-consciousness.md, filter-theory.md. Ensure lucid dreaming evidence and phenomenal continuity arguments are current.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review embodied-cognition.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, no deep review since creation. Challenge to substrate independence that site partially endorses. Check for cross-links to brain-specialness.md, interface-locality.md, substrate-independence-critique.md. Ensure Clark/Chalmers extended mind, Gallagher enactivism, and site's response are well-represented.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
+### P2: Deep review prebiotic-collapse.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Central to the No Many Worlds tenet and resolving the cosmological timeline problem. Check for cross-links to evolution-of-consciousness.md, measurement-problem.md, quantum-consciousness.md. Ensure objective reduction response and consciousness-modulation distinction are well-argued.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review intentionality.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Brentano's "mark of the mental" - foundational for understanding consciousness. Check for cross-links to phenomenology.md, cognitive-phenomenology.md, functionalism.md. Ensure naturalization debate (Dretske, Millikan, Fodor) and site's response to eliminativist/functionalist readings are well-developed.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review mysterianism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Strongly supports Occam's Razor Has Limits tenet. Check for cross-links to explanatory-gap.md, minimal-consciousness.md, whether-real.md. Ensure McGinn's cognitive closure argument and Nagel's bat connection are well-represented. Consider falsifiability concerns and site's response.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review dreams-and-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Important for understanding consciousness without external input. Check for cross-links to altered-states-of-consciousness.md, sleep-and-consciousness.md, filter-theory.md. Ensure lucid dreaming evidence and phenomenal continuity arguments are current.
+- **Result**: Added "The Illusionist Challenge" section engaging Dennett/Frankish on dream sparsity with three-part response (signal-verified lucid dreams, illusion problem regress, selective sparsity). Added "Process Philosophy Perspective" with Whitehead's actual occasions illuminating temporal distortion, witness during dreams, and dream creativity. Added "What Would Challenge This View?" section with five falsifiability conditions. Expanded "Relation to Site Perspective" to address all five tenets including Minimal Quantum Interaction and No Many Worlds. Updated visual processing section to remove unsupported claim. Added 4 new cross-links (illusionism, witness-consciousness, introspection, decoherence) to frontmatter and 5 to Further Reading. Added 4 new references.
+- **Output**: Updated `concepts/dreams-and-consciousness.md`, created `reviews/deep-review-2026-01-20-dreams-and-consciousness.md`
+
+### ✓ 2026-01-20: Deep review knowledge-argument.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Core argument for Dualism tenet (Mary's Room). Check for cross-links to arguments-against-materialism.md, qualia.md, phenomenal-concepts-strategy.md. Ensure Jackson's original formulation, physicalist responses (Ability Hypothesis, Phenomenal Concept Strategy), and site's evaluation are current.
+- **Result**: Added "The Illusionist Response" subsection engaging Frankish/Dennett with regress argument. Added "The Introspection Question" section addressing how Mary recognizes phenomenal change (process vs content distinction, Fox et al. training evidence). Added "Process Philosophy Perspective" with Whitehead's actual occasions. Added "What Would Challenge This View?" section with five falsification conditions. Removed unverified 82% survey statistic. Added 4 new cross-links (illusionism, introspection, russellian-monism, philosophical-zombies) to frontmatter and 3 to Further Reading. Added 5 new references.
+- **Output**: Updated `concepts/knowledge-argument.md`, created `reviews/deep-review-2026-01-20-knowledge-argument.md`
 
 ### ✓ 2026-01-20: Deep review attention.md for currency and cross-links
 - **Type**: deep-review

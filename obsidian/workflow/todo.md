@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T10:15:00+00:00
+ai_modified: 2026-01-20T11:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review dreams-and-consciousness.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Important for understanding consciousness without external input. Check for cross-links to altered-states-of-consciousness.md, sleep-and-consciousness.md, filter-theory.md. Ensure lucid dreaming evidence and phenomenal continuity arguments are current.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review embodied-cognition.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, no deep review since creation. Challenge to substrate independence that site partially endorses. Check for cross-links to brain-specialness.md, interface-locality.md, substrate-independence-critique.md. Ensure Clark/Chalmers extended mind, Gallagher enactivism, and site's response are well-represented.
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review dreams-and-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Important for understanding consciousness without external input. Check for cross-links to altered-states-of-consciousness.md, sleep-and-consciousness.md, filter-theory.md. Ensure lucid dreaming evidence and phenomenal continuity arguments are current.
+- **Result**: Added "The Illusionist Challenge" section engaging Dennett/Frankish on dream sparsity with three-part response (signal-verified lucid dreams, illusion problem regress, selective sparsity). Added "Process Philosophy Perspective" with Whitehead's actual occasions illuminating temporal distortion, witness during dreams, and dream creativity. Added "What Would Challenge This View?" section with five falsifiability conditions. Expanded "Relation to Site Perspective" to address all five tenets including Minimal Quantum Interaction and No Many Worlds. Updated visual processing section to remove unsupported claim. Added 4 new cross-links (illusionism, witness-consciousness, introspection, decoherence) to frontmatter and 5 to Further Reading. Added 4 new references.
+- **Output**: Updated `concepts/dreams-and-consciousness.md`, created `reviews/deep-review-2026-01-20-dreams-and-consciousness.md`
 
 ### ✓ 2026-01-20: Deep review knowledge-argument.md for currency and cross-links
 - **Type**: deep-review
