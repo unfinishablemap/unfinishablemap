@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T08:45:00+00:00
+ai_modified: 2026-01-20T10:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review agent-causation.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Core concept for libertarian free will and site's bidirectional interaction tenet. Check for cross-links to luck-objection.md, quantum-indeterminacy-free-will.md, mental-causation.md. Ensure O'Connor and Chisholm's accounts are well-represented.
-- **Source**: staleness
-- **Generated**: 2026-01-19
-
 ### P2: Deep review mental-causation.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-15, no deep review since creation. Core concept for Bidirectional Interaction tenet. Check for cross-links to agent-causation.md, downward-causation.md, quantum-consciousness.md. Ensure Kim's exclusion argument and site's quantum response are well-developed.
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review agent-causation.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Core concept for libertarian free will and site's bidirectional interaction tenet. Check for cross-links to luck-objection.md, quantum-indeterminacy-free-will.md, mental-causation.md. Ensure O'Connor and Chisholm's accounts are well-represented.
+- **Result**: Added "What Would Challenge This View?" section with six falsifiability conditions. Added "The Decoherence Challenge" subsection addressing Tegmark's objection with quantum biology counter-evidence. Added illusionism engagement paragraph with self-stultification response. Added "Process Philosophy and Actual Occasions" subsection presenting Whitehead's panexperientialism. Added pairing-problem connection to spatial location. Added 5 new cross-links (many-worlds, pairing-problem, downward-causation, mental-causation, decoherence).
+- **Output**: Updated `concepts/agent-causation.md`, created `reviews/deep-review-2026-01-20-agent-causation.md`
 
 ### ✓ 2026-01-20: Deep review objections-to-interactionism.md for currency and cross-links
 - **Type**: deep-review
