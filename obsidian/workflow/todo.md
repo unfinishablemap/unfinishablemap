@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T03:20:00+00:00
+ai_modified: 2026-01-20T10:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -67,7 +67,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
+### P2: Deep review prebiotic-collapse.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Central to the No Many Worlds tenet and resolving the cosmological timeline problem. Check for cross-links to evolution-of-consciousness.md, measurement-problem.md, quantum-consciousness.md. Ensure objective reduction response and consciousness-modulation distinction are well-argued.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review intentionality.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Brentano's "mark of the mental" - foundational for understanding consciousness. Check for cross-links to phenomenology.md, cognitive-phenomenology.md, functionalism.md. Ensure naturalization debate (Dretske, Millikan, Fodor) and site's response to eliminativist/functionalist readings are well-developed.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review mysterianism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Strongly supports Occam's Razor Has Limits tenet. Check for cross-links to explanatory-gap.md, minimal-consciousness.md, whether-real.md. Ensure McGinn's cognitive closure argument and Nagel's bat connection are well-represented. Consider falsifiability concerns and site's response.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review knowledge-argument.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Core argument for Dualism tenet (Mary's Room). Check for cross-links to arguments-against-materialism.md, qualia.md, phenomenal-concepts-strategy.md. Ensure Jackson's original formulation, physicalist responses (Ability Hypothesis, Phenomenal Concept Strategy), and site's evaluation are current.
+- **Result**: Added "The Illusionist Response" subsection engaging Frankish/Dennett with regress argument. Added "The Introspection Question" section addressing how Mary recognizes phenomenal change (process vs content distinction, Fox et al. training evidence). Added "Process Philosophy Perspective" with Whitehead's actual occasions. Added "What Would Challenge This View?" section with five falsification conditions. Removed unverified 82% survey statistic. Added 4 new cross-links (illusionism, introspection, russellian-monism, philosophical-zombies) to frontmatter and 3 to Further Reading. Added 5 new references.
+- **Output**: Updated `concepts/knowledge-argument.md`, created `reviews/deep-review-2026-01-20-knowledge-argument.md`
 
 ### ✓ 2026-01-20: Deep review attention.md for currency and cross-links
 - **Type**: deep-review
