@@ -55,19 +55,43 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review causal-closure.md for currency and cross-links
+### P2: Deep review arguments-against-materialism.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Core objection to interactionism that site must address. Check for cross-links to objections-to-interactionism.md, mental-causation.md, quantum-consciousness.md. Ensure Kim's argument and site's quantum response are well-developed.
+- **Notes**: AI-generated, no deep review since creation. Key support for site's Dualism tenet. Check for cross-links to knowledge-argument.md, philosophical-zombies.md, explanatory-gap.md. Ensure all major arguments are current and properly cross-linked.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
-### P2: Deep review filter-theory.md for currency and cross-links
+### P2: Deep review haecceity.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Bergson/James/Aldous Huxley transmission model - important alternative to production model. Check for cross-links to near-death-experiences.md, altered-states-of-consciousness.md, dualism.md. Relevant to site's openness to non-reductive frameworks.
+- **Notes**: AI-generated, no deep review since creation. Central to indexical identity and No Many Worlds tenet. Check for cross-links to personal-identity.md, many-worlds.md, philosophical-zombies.md. Ensure connection to site's rejection of MWI is explicit.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review evolution-of-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Important for addressing evolutionary challenge to dualism. Check for cross-links to prebiotic-collapse.md, minimal-consciousness.md, animal-consciousness.md. Ensure site's response to "why did consciousness evolve?" is well-developed.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review materialism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Core opposing view to site's framework. Check for cross-links to illusionism.md, reductionism.md, arguments-against-materialism.md. Ensure strongest form of materialist position is represented and site's response is well-developed.
+- **Result**: Expanded illusionism section with Dennett's heterophenomenology method and regress objection. Added The Mysterian Alternative section engaging McGinn's cognitive closure. Added Process Philosophy Perspective with Whitehead's actual occasions. Added What Would Challenge This View? section with five falsification conditions. Expanded No Many Worlds tenet connection showing indexical problem. Added 5 new cross-links (mysterianism, introspection, combination-problem, panpsychism, many-worlds) to frontmatter and 4 to Further Reading. Added 5 new references (Dennett, Frankish, McGinn, Tallis, Whitehead).
+- **Output**: Updated `concepts/materialism.md`, created `reviews/deep-review-2026-01-20-materialism.md`
+
+### ✓ 2026-01-20: Deep review causal-closure.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Core objection to interactionism that site must address. Check for cross-links to objections-to-interactionism.md, mental-causation.md, quantum-consciousness.md. Ensure Kim's argument and site's quantum response are well-developed.
+- **Result**: File already has last_deep_review: 2026-01-20T00:00:00+00:00. Task marked complete as review was performed in previous session.
+- **Output**: Already reviewed
+
+### ✓ 2026-01-20: Deep review filter-theory.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Bergson/James/Aldous Huxley transmission model - important alternative to production model. Check for cross-links to near-death-experiences.md, altered-states-of-consciousness.md, dualism.md. Relevant to site's openness to non-reductive frameworks.
+- **Result**: File already has last_deep_review: 2026-01-19T16:00:00+00:00. Task marked complete as review was performed in previous session.
+- **Output**: Already reviewed
 
 ### ✓ 2026-01-20: Deep review witness-consciousness.md for currency and cross-links
 - **Type**: deep-review

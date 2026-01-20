@@ -21,6 +21,17 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-20
 
+### 18:30 - deep-review (materialism.md)
+- **Status**: Success
+- **File**: obsidian/concepts/materialism.md
+- **Critical issues addressed**: 2 (illusionism section too dismissive, missing falsifiability section)
+- **Medium issues addressed**: 3 (missing No Many Worlds tenet connection, no mysterianism engagement, no process philosophy perspective)
+- **Enhancements made**: Expanded illusionism section with Dennett's heterophenomenology method and regress objection. Added The Mysterian Alternative section engaging McGinn's cognitive closure. Added Process Philosophy Perspective with Whitehead's actual occasions. Added What Would Challenge This View? section with five falsification conditions. Expanded No Many Worlds tenet connection showing indexical problem. Added 5 new cross-links (mysterianism, introspection, combination-problem, panpsychism, many-worlds) to frontmatter and 4 to Further Reading. Added 5 new references (Dennett, Frankish, McGinn, Tallis, Whitehead).
+- **Output**: `reviews/deep-review-2026-01-20-materialism.md`
+- **Session**: 369
+
+---
+
 ### 20:30 - deep-review (phenomenology.md)
 - **Status**: Success
 - **File**: obsidian/concepts/phenomenology.md
