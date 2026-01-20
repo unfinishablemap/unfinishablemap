@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T00:21:00+00:00
+ai_modified: 2026-01-20T00:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review emergence.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-15, no deep review since creation. Central concept for understanding site's position on consciousness as strongly emergent. Check for cross-links to downward-causation.md, causal-closure.md, quantum-consciousness.md. Ensure distinction between weak/strong emergence and site's interactionist position are clear.
-- **Source**: staleness
-- **Generated**: 2026-01-19
-
 ### P2: Deep review phenomenal-unity.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, no deep review since creation. Important for understanding binding problem and split-brain implications. Check for cross-links to binding-problem.md, split-brain-consciousness.md, combination-problem.md. Key concept for site's view of consciousness as unified experiential field.
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review emergence.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-15, no deep review since creation. Central concept for understanding site's position on consciousness as strongly emergent. Check for cross-links to downward-causation.md, causal-closure.md, quantum-consciousness.md. Ensure distinction between weak/strong emergence and site's interactionist position are clear.
+- **Result**: Added "Can Strong Emergence Be Tested?" section with three testable prediction domains (neural correlates, conservation law tests, anaesthetic evidence). Softened comparison table to acknowledge panpsychist progress (Goff's cosmopsychism, Seager's microexperiential combinatorialism). Enhanced binding problem discussion. Added minimal-consciousness research reference to evolutionary emergence. Added 4 new cross-links to frontmatter and 5 to Further Reading.
+- **Output**: Updated `concepts/emergence.md`, created `reviews/deep-review-2026-01-20-emergence.md`
 
 ### ✓ 2026-01-20: Deep review self-and-consciousness.md for currency and cross-links
 - **Type**: deep-review
