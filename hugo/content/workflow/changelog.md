@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 12:16:00+00:00
+ai_modified: 2026-01-20 15:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -20,7 +20,53 @@ topics: []
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
+## 2026-01-20
+
+### 14:30 - deep-review (relational-quantum-mechanics.md)
+- **Status**: Success
+- **File**: obsidian/concepts/relational-quantum-mechanics.md
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (missing Illusionist Challenge section, missing Process Philosophy Perspective section, missing What Would Challenge This View? section, thin Relation to Site Perspective section, style inconsistency with lowercase "the project")
+- **Enhancements made**: Added "The Illusionist Challenge" section with regress response and phenomenology of observation subsections. Added "Process Philosophy Perspective" section covering concrescence vs. relativization, subject-superject structure, and experience all the way down. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded all 5 tenet connections with substantive analysis including haecceity connection to No Many Worlds and epiphenomenalism concern in Bidirectional Interaction. Fixed style inconsistencies. Added 6 new cross-links (illusionism, introspection, decoherence, haecceity, witness-consciousness, many-worlds). Added 3 new references (Frankish, Tallis, Whitehead).
+- **Output**: `reviews/deep-review-2026-01-20-relational-quantum-mechanics.md`
+- **Session**: 408
+
+---
+
+### 14:30 - deep-review (moral-responsibility.md)
+- **Status**: Success
+- **File**: obsidian/concepts/moral-responsibility.md
+- **Critical issues addressed**: 3 (no Illusionist Challenge section, no Decoherence Challenge section, no "What Would Challenge This View?" section)
+- **Medium issues addressed**: 3 (thin tenet connections lacking illusionism/decoherence/haecceity engagement, no Process Philosophy perspective, no Buddhist engagement in objections)
+- **Enhancements made**: Added "The Illusionist Challenge" section with three responses (regress, self-stultification, performative contradiction) plus contemplative challenge. Added "The Decoherence Challenge" section with three responses (disputed calculations, biological quantum effects, Zeno doesn't require sustained coherence). Added "Process Philosophy Perspective" section connecting Whitehead's actual occasions, concrescence, and creativity to desert. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded all 5 tenet connections to include cross-references to illusionism, decoherence, haecceity, quantum-biology. Added Buddhist objection to Objections section. Added 6 new cross-links (illusionism, introspection, decoherence, haecceity, witness-consciousness, buddhism-and-dualism). Added 6 new references (Dennett, Frankish, Hagan et al., Tallis, Tegmark, Whitehead).
+- **Output**: `reviews/deep-review-2026-01-20-moral-responsibility.md`
+- **Session**: 407
+
+---
+
+### 12:45 - deep-review (mental-effort.md)
+- **Status**: Success
+- **File**: obsidian/concepts/mental-effort.md
+- **Critical issues addressed**: 4 (no illusionist engagement, missing process philosophy perspective, no falsifiability section, incomplete tenet coverage - only 3 of 5)
+- **Medium issues addressed**: 2 (thin decoherence response, missing contemplative witness connection)
+- **Enhancements made**: Added "The Illusionist Challenge" section with regress response, phenomenology survives analysis, and functional point subsections. Added "Process Philosophy Perspective" section connecting Whitehead's actual occasions to selection mechanism (effort as selection, why effort should feel like work, effortless states in process terms). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded decoherence response from 2 paragraphs to comprehensive 4-part treatment. Expanded "Relation to Site Perspective" from 3 tenets to all 5 with substantive connections (especially No Many Worlds and Occam's Razor Has Limits). Added 5 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity). Added 5 new references.
+- **Output**: `reviews/deep-review-2026-01-20-mental-effort.md`
+- **Session**: 406
+
+---
+
 ## 2026-01-21
+
+### 15:30 - deep-review (consciousness-selecting-neural-patterns.md)
+- **Status**: Success
+- **File**: obsidian/concepts/consciousness-selecting-neural-patterns.md
+- **Critical issues addressed**: 2 (no decoherence engagement - major objection unaddressed, no illusionist challenge section)
+- **Medium issues addressed**: 4 (incomplete tenet coverage - only 3 of 5 addressed, no process philosophy perspective, no "What Would Challenge This View?" section, missing cross-links to recently reviewed content)
+- **Enhancements made**: Added "The Decoherence Challenge" section with three responses (disputed calculations, measurement problem persists, Zeno sidestep). Added "The Illusionist Challenge" section with three responses (regress problem, phenomenology of effort, measurable effects). Added "Process Philosophy Perspective" connecting Whitehead's actual occasions, decision, and concrescence to selection mechanism. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded all 5 tenet connections including haecceity link for No Many Worlds. Added 6 new cross-links (decoherence, illusionism, introspection, voluntary-attention, witness-consciousness, haecceity). Added 8 new references.
+- **Output**: `reviews/deep-review-2026-01-20-consciousness-selecting-neural-patterns.md`
+- **Session**: 405
+
+---
 
 ### 12:16 - deep-review (intuitive-dualism.md)
 - **Status**: Success

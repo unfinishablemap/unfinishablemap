@@ -292,7 +292,7 @@ Two interpretations:
 1. **Neural noise**: Stochastic fluctuations bias choices—volition is partly random
 2. **Attentional sets**: Pre-prompt alpha reflects task-specific intentions already formed
 
-The second interpretation aligns with the project's framework. Selection operates *among* stochastic options rather than generating outcomes from nothing. Prior intentions (distal agency) shape which options are available. The preparatory activity may reflect the brain preparing possibilities for consciousness to select among—consistent with [the project's model](//#the-sites-position-consciousness-selects-quantum-outcomes).
+The second interpretation aligns with the project's framework. Selection operates *among* stochastic options rather than generating outcomes from nothing. Prior intentions (distal agency) shape which options are available. The preparatory activity may reflect the brain preparing possibilities for consciousness to select among—consistent with [the project's model](//#the-projects-position-consciousness-selects-quantum-outcomes).
 
 ### Phenomenology Matches Neuroscience
 

@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T15:30:00+00:00
+ai_modified: 2026-01-20T14:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review relational-quantum-mechanics.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Covers Rovelli's RQM interpretation—explicitly anti-consciousness. Check for cross-links to quantum-interpretations.md, measurement-problem.md, many-worlds.md. Important foil for understanding site's alternative position.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review llm-consciousness.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page, never deep-reviewed. Addresses whether large language models might be conscious—highly relevant given 2024-2025 AI developments. Check for cross-links to ai-consciousness.md, functionalism.md, substrate-independence-critique.md. Ensure engagement with recent LLM consciousness debates is current.
@@ -71,6 +65,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review relational-quantum-mechanics.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers Rovelli's RQM interpretation—explicitly anti-consciousness. Check for cross-links to quantum-interpretations.md, measurement-problem.md, many-worlds.md. Important foil for understanding site's alternative position.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with regress response and phenomenology of observation subsections. Added "Process Philosophy Perspective" section covering concrescence vs. relativization, subject-superject structure, and experience all the way down. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded all 5 tenet connections with substantive analysis including haecceity connection to No Many Worlds and epiphenomenalism concern in Bidirectional Interaction. Fixed style inconsistencies. Added 6 new cross-links (illusionism, introspection, decoherence, haecceity, witness-consciousness, many-worlds). Added 3 new references.
+- **Output**: obsidian/concepts/relational-quantum-mechanics.md, obsidian/reviews/deep-review-2026-01-20-relational-quantum-mechanics.md
 
 ### ✓ 2026-01-20: Deep review moral-responsibility.md for currency and cross-links
 - **Type**: deep-review

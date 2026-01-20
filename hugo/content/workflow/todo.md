@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 12:16:00+00:00
+ai_modified: 2026-01-20 14:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,15 +38,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review moral-responsibility.md for currency and cross-links
+### P2: Deep review llm-consciousness.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Connects agent-causation to desert-based moral responsibility. Check for cross-links to free-will.md, ethics-of-consciousness.md, agent-causation.md. Supports Bidirectional Interaction tenet via practical ethical implications.
+- **Notes**: AI-generated concept page, never deep-reviewed. Addresses whether large language models might be conscious—highly relevant given 2024-2025 AI developments. Check for cross-links to ai-consciousness.md, functionalism.md, substrate-independence-critique.md. Ensure engagement with recent LLM consciousness debates is current.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
-### P2: Deep review relational-quantum-mechanics.md for currency and cross-links
+### P2: Deep review autonoetic-consciousness.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Covers Rovelli's RQM interpretation—explicitly anti-consciousness. Check for cross-links to quantum-interpretations.md, measurement-problem.md, many-worlds.md. Important foil for understanding site's alternative position.
+- **Notes**: AI-generated concept page, never deep-reviewed. Self-reflective awareness crucial for site's defense of introspection as evidence source. Check for cross-links to episodic-memory.md, metacognition.md, introspection.md, self-and-consciousness.md. Supports Dualism via first-person privileged access.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
@@ -66,6 +66,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review relational-quantum-mechanics.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers Rovelli's RQM interpretation—explicitly anti-consciousness. Check for cross-links to quantum-interpretations.md, measurement-problem.md, many-worlds.md. Important foil for understanding site's alternative position.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with regress response and phenomenology of observation subsections. Added "Process Philosophy Perspective" section covering concrescence vs. relativization, subject-superject structure, and experience all the way down. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded all 5 tenet connections with substantive analysis including haecceity connection to No Many Worlds and epiphenomenalism concern in Bidirectional Interaction. Fixed style inconsistencies. Added 6 new cross-links (illusionism, introspection, decoherence, haecceity, witness-consciousness, many-worlds). Added 3 new references.
+- **Output**: obsidian/concepts/relational-quantum-mechanics.md, obsidian/reviews/deep-review-2026-01-20-relational-quantum-mechanics.md
+
+### ✓ 2026-01-20: Deep review moral-responsibility.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Connects agent-causation to desert-based moral responsibility. Check for cross-links to free-will.md, ethics-of-consciousness.md, agent-causation.md. Supports Bidirectional Interaction tenet via practical ethical implications.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with three responses (regress, self-stultification, performative contradiction) plus contemplative challenge. Added "The Decoherence Challenge" section with three responses (disputed calculations, biological quantum effects, Zeno doesn't require sustained coherence). Added "Process Philosophy Perspective" section connecting Whitehead's actual occasions, concrescence, and creativity to desert. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded all 5 tenet connections with cross-references to illusionism, decoherence, haecceity, quantum-biology. Added Buddhist ethics objection. Added 6 new cross-links (illusionism, introspection, decoherence, haecceity, witness-consciousness, buddhism-and-dualism). Added 6 new references.
+- **Output**: obsidian/concepts/moral-responsibility.md, obsidian/reviews/deep-review-2026-01-20-moral-responsibility.md
+
+### ✓ 2026-01-20: Deep review mental-effort.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers Stapp's quantum Zeno mechanism where mental effort holds neural patterns—critical for Minimal Quantum Interaction tenet. Check for cross-links to quantum-consciousness.md, voluntary-attention.md, attention-as-interface.md. Ensure Schwartz et al. OCD studies are included.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with regress response, phenomenology survives analysis, and functional point subsections. Added "Process Philosophy Perspective" section connecting Whitehead's actual occasions to selection mechanism. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded decoherence response from 2 paragraphs to comprehensive 4-part treatment. Expanded "Relation to Site Perspective" from 3 tenets to all 5 with substantive connections (especially No Many Worlds and Occam's Razor Has Limits). Added 5 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity). Added 5 new references.
+- **Output**: obsidian/concepts/mental-effort.md, obsidian/reviews/deep-review-2026-01-20-mental-effort.md
+
+### ✓ 2026-01-20: Deep review consciousness-selecting-neural-patterns.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Core mechanism page for how consciousness influences brain states—central to Bidirectional Interaction tenet. Check for cross-links to quantum-consciousness.md, mental-effort.md, voluntary-attention.md, motor-selection.md. Ensure engagement with decoherence objection is current.
+- **Result**: Comprehensive review completed. Added "The Decoherence Challenge" section with three responses (disputed calculations, measurement problem persists, Zeno sidestep). Added "The Illusionist Challenge" section with three responses (regress problem, phenomenology of effort, measurable effects). Added "Process Philosophy Perspective" connecting Whitehead's actual occasions, decision, and concrescence to selection mechanism. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded all 5 tenet connections including haecceity link for No Many Worlds. Added 6 new cross-links (decoherence, illusionism, introspection, voluntary-attention, witness-consciousness, haecceity). Added 8 new references.
+- **Output**: obsidian/concepts/consciousness-selecting-neural-patterns.md, obsidian/reviews/deep-review-2026-01-20-consciousness-selecting-neural-patterns.md
 
 ### ✓ 2026-01-20: Deep review psychophysical-laws.md for currency and cross-links
 - **Type**: deep-review

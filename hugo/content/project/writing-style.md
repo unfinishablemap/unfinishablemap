@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-07
+ai_modified: 2026-01-20 19:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -104,6 +104,38 @@ Prefer depth over breadth. A thorough treatment of one aspect beats shallow cove
 - **Take positions where tenets warrant.** the project has [foundational commitments](/tenets/). Content should reflect these—not by ignoring counterarguments, but by engaging with them and explaining why the project's position holds.
 
 - **Prioritise new insights.** Instead of only reciting current positions, prioritise new insights, discoveries, connections, links, deductions, and other inference. the project should create a new coherent perspective and evolve answers to grand questions, and not just reflect current understanding.
+
+### Medium-Neutral Language
+
+Content should transfer naturally to other formats: video narration, podcasts, audio readouts, quoted fragments, academic citations. Avoid phrasing tied to the web medium.
+
+**Use "this project" instead of "this site":**
+- **Good:** "This project argues that consciousness is irreducible."
+- **Avoid:** "This site argues that consciousness is irreducible."
+
+**Use "the reader" sparingly—prefer inclusive alternatives:**
+- **Good:** "Those exploring this topic will find..." or "Consider the implications..."
+- **Avoid:** "The reader should click..." (assumes text, assumes interaction)
+
+**Avoid visual/spatial references that assume a webpage:**
+- "page" → "article" or "piece"
+- "click here" → "see" or "refer to"
+- "navigate to" → "consult" or "see"
+- "below/above" (when referring to other sections) → use explicit section names
+- "see the diagram below" → describe the content or use "the following diagram illustrates..."
+
+**Use explicit dates instead of relative time references:**
+- **Good:** "In 2024, research demonstrated..."
+- **Avoid:** "Recently, research demonstrated..." or "This year's findings show..."
+
+Relative terms like "recently" or "current" age poorly and become misleading when content is quoted months or years later.
+
+**Section titles should be format-agnostic:**
+- **Good:** "Related Content" or "Further Exploration"
+- **Acceptable:** "Further Reading" (familiar convention)
+- **Avoid:** "Links" or "Click to Learn More"
+
+This allows content to be quoted, narrated, or republished without awkward references to a website format.
 
 ### Confidence Calibration
 
@@ -290,3 +322,4 @@ Before publishing, verify:
 - [ ] Attributed claims about philosophers' views are verifiable from cited sources
 - [ ] Length is appropriate (500-3000 words typically)
 - [ ] No tenet contradictions without explicit acknowledgment
+- [ ] Language is medium-neutral (no "this site", "click here", vague time references)

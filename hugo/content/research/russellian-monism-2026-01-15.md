@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-15
-date: '2026-01-14'
+date: '2026-01-20'
 draft: false
 related_articles: []
 title: Research Notes - Russellian Monism
