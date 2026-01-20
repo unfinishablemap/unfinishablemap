@@ -1,9 +1,9 @@
 ---
 title: "Mysterianism and Cognitive Closure"
 created: 2026-01-15
-modified: 2026-01-15
+modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-19T11:10:00+00:00
+ai_modified: 2026-01-20T17:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,10 @@ concepts:
   - "[[materialism]]"
   - "[[explanatory-gap]]"
   - "[[phenomenology-of-the-edge]]"
+  - "[[illusionism]]"
+  - "[[combination-problem]]"
+  - "[[introspection]]"
+  - "[[decoherence]]"
 related_articles:
   - "[[tenets]]"
   - "[[mysterianism-cognitive-closure-2026-01-14]]"
@@ -23,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-20T17:30:00+00:00
 ---
 
 Mysterianism is the view that the [[hard-problem-of-consciousness|hard problem of consciousness]] cannot be solved by human minds—not because consciousness is supernatural but because our cognitive architecture lacks the resources to grasp the solution. Colin McGinn formalized this position in 1989 through the concept of "cognitive closure": just as rats cannot do calculus and dogs cannot understand quantum mechanics, humans may be permanently unable to understand how consciousness relates to the brain. The solution might exist; we just can't reach it.
@@ -135,6 +139,42 @@ The position has several attractive features:
 
 **Neutral on ontology**. Mysterianism doesn't require commitment to physicalism or dualism. The solution might be physicalist (some natural property P explains consciousness) or dualist (consciousness is irreducible) or something we can't conceive. All positions remain open.
 
+## The Illusionist Challenge
+
+[[illusionism|Illusionism]] offers a radical alternative to mysterianism: rather than accepting that consciousness is real but inexplicable, illusionists deny that phenomenal consciousness exists at all. The hard problem dissolves because there's nothing to explain.
+
+Mysterianism and illusionism represent opposite responses to the same difficulty. Facing the explanatory gap, mysterians say "we cannot solve this problem"; illusionists say "there is no problem to solve." Both acknowledge that standard physicalist strategies have failed. They differ on diagnosis.
+
+**The mysterian counter-argument**: Illusionism faces the infinite regress problem—"misrepresentation presupposes presentation." To be under an illusion that you're conscious, something must be experiencing that illusion. The "illusion problem" (explaining why we believe we're conscious) may be as hard as the hard problem itself. Mysterianism at least doesn't compound the difficulty by invoking experience to deny experience.
+
+More subtly, illusionism might itself be a symptom of cognitive closure. Unable to see how consciousness relates to matter, we face a choice: accept the mystery or deny there's anything to explain. Illusionism may be what cognitive closure *feels like* from the inside—an inability to grasp the solution, misinterpreted as evidence that no solution is needed. If McGinn is right, we should predict that some thinkers would respond to closure this way.
+
+## Process Philosophy Perspective
+
+Alfred North Whitehead's process philosophy offers a framework compatible with mysterianism but pointing beyond it. For Whitehead, experience ("prehension") is fundamental to reality—not something that emerges mysteriously from non-experiential matter. Each "actual occasion" has a subjective aspect; the physical and experiential are two sides of the same process.
+
+This doesn't dissolve the hard problem but relocates it. The question becomes: how do micro-experiences combine into unified human consciousness? (The [[combination-problem|combination problem]].) But this may be a more tractable mystery than bridging a gap between utterly non-experiential matter and experience.
+
+Whitehead's approach suggests cognitive closure might be domain-specific. We may be closed with respect to property "P" (how neurons generate consciousness) while being open to understanding consciousness as fundamental. The closure concerns *reduction*, not *understanding* tout court. This preserves mysterian humility while allowing progress through different conceptual routes.
+
+The site's tenets align broadly with this: consciousness is fundamental (Dualism), not emergent from non-experiential matter. Mysterianism may be correct about reductive explanation while leaving room for non-reductive understanding.
+
+## What Would Challenge This View?
+
+Mysterianism would be undermined if:
+
+1. **Neuroscience produces genuine explanatory progress.** Not mere correlations—which mysterians accept—but transparent understanding of *why* neural activity feels like something. If someone finds property "P" and we can grasp it, cognitive closure is falsified. The test: can we derive phenomenal facts from physical facts in a way that satisfies, not just predicts?
+
+2. **Artificial consciousness proves achievable and explicable.** If we build conscious machines and understand exactly how their consciousness arises from their architecture—not just that it does, but *why*—this suggests the problem was engineering, not cognitive closure.
+
+3. **The hard problem dissolves upon conceptual revision.** Not denial (illusionism) but genuine dissolution—a new framework that makes the problem disappear the way vitalism's mysteries dissolved. The framework would need to show *why* the old problem seemed hard, satisfying both phenomenological constraints and scientific standards.
+
+4. **Contemplative investigation reveals the mechanism.** Some contemplative traditions claim direct insight into consciousness's nature. If such insight proves communicable and scientifically fruitful—yielding predictions and explanations—this would challenge McGinn's claim that introspection cannot reveal property "P."
+
+5. **Cross-cultural convergence on solutions.** If independent intellectual traditions arrive at compatible solutions to the mind-body problem, this suggests the problem is solvable despite its difficulty. Persistent divergence supports mysterianism; convergence challenges it.
+
+**Why these conditions haven't been met:** After millennia of philosophical investigation and decades of neuroscience, the hard problem remains as puzzling as ever. This doesn't *prove* permanent closure—absence of evidence isn't evidence of absence—but the track record favors mysterian humility.
+
 ## Criticisms
 
 ### The Defeatism Objection
@@ -157,15 +197,21 @@ The mysterian response: we succeed with properties that fall within our cognitiv
 
 ## Relation to This Site's Perspective
 
-Mysterianism aligns strongly with the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. McGinn's position exemplifies exactly what the tenet asserts: our sense of which explanations are "simple" may reflect cognitive limitations rather than ontological facts. When physicalism seems simpler than dualism, that may mean only that we're closed to the complexity involved.
+Mysterianism connects to all five tenets, though the connections vary in nature:
 
-On [[tenets#^dualism|Dualism]], mysterianism is officially neutral—but compatible. Mysterians accept that consciousness is real and requires explanation, aligning with the rejection of eliminativism. McGinn doesn't commit to dualism, but his acknowledgment that introspection and perception reveal different aspects of reality resonates with dualist intuitions.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: This is the strongest alignment. McGinn's position exemplifies exactly what the tenet asserts: our sense of which explanations are "simple" may reflect cognitive limitations rather than ontological facts. When physicalism seems simpler than dualism, that may mean only that we're closed to the complexity involved. Mysterianism provides the conceptual foundation for epistemic humility about parsimony.
 
-This site goes further than mysterianism. Where mysterians remain agnostic about consciousness's nature, the site commits to irreducibility (Dualism) and causal efficacy ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]). Where mysterians suggest we cannot know how mind relates to matter, the site proposes [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] as a mechanism.
+**[[tenets#^dualism|Dualism]]**: Mysterianism is officially neutral—but compatible. Mysterians accept that consciousness is real and requires explanation, aligning with the rejection of eliminativism. McGinn doesn't commit to dualism, but his acknowledgment that introspection and perception reveal different aspects of reality resonates with dualist intuitions. The site goes further, treating irreducibility as a commitment rather than remaining agnostic.
 
-These commitments might be wrong—mysterianism warns that certainty exceeds our cognitive warrant. But the site's tenets are presented as commitments, not proofs. Mysterianism's humility is compatible with tentative positions. We can acknowledge our limits while still making our best guesses.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Here the site departs from pure mysterianism. Where mysterians suggest we cannot know how mind relates to matter, the site proposes that consciousness causally influences the physical world. This is a substantive commitment that mysterians would consider exceeding our cognitive warrant. However, mysterian humility doesn't preclude making working hypotheses—it only warns against overconfidence.
 
-The site's [[voids]] framework resonates with mysterian themes. McGinn's property "P" might be void territory—something that exists but lies beyond our conceptual reach. The difference: the voids framework suggests we can map the *edges* of void territory through apophatic methods, tracing what we cannot think. Mysterianism is more pessimistic, suggesting we can't even identify what we're missing.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The quantum mechanism might seem to contradict mysterianism—if we can specify *how* consciousness interfaces with matter, haven't we partially solved the problem McGinn thinks is closed? Not necessarily. The site proposes consciousness biases quantum outcomes without claiming to explain *why* there's something it's like to do so. The hard problem—why there's phenomenal experience at all—remains mysterious even if we understand the causal interface. Compare: we understand how eyes detect light without understanding why seeing feels like something.
+
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Mysterianism provides indirect support here. Many-worlds interpretations eliminate collapse and thus any role for consciousness in physics. If we reject many-worlds partly because it makes indexical identity inexplicable ("why am I this observer?"), we're already invoking something like mysterian intuitions—the question seems meaningful even though physics provides no resources to answer it.
+
+**The site's approach**: This site goes further than mysterianism in making specific commitments. Where mysterians remain agnostic about consciousness's nature, the site commits to irreducibility and causal efficacy. These commitments might be wrong—mysterianism warns that certainty exceeds our cognitive warrant. But the site's tenets are presented as commitments, not proofs. Mysterianism's humility is compatible with tentative positions. We can acknowledge our limits while still making our best guesses.
+
+The site's [[voids]] framework resonates with mysterian themes. McGinn's property "P" might be void territory—something that exists but lies beyond our conceptual reach. The difference: the voids framework suggests we can map the *edges* of void territory through apophatic methods, tracing what we cannot think. This is more optimistic than McGinn, who suggests we can't even identify what we're missing. The edge-phenomenology research (see [[phenomenology-of-the-edge]]) provides empirical grounding for this more optimistic possibility.
 
 ## Further Reading
 
@@ -176,15 +222,22 @@ The site's [[voids]] framework resonates with mysterian themes. McGinn's propert
 - [[hard-problem-of-consciousness]] — The problem mysterians think is unsolvable
 - [[explanatory-gap]] — The conceptual gap that may reflect cognitive closure
 - [[qualia]] — The subjective properties at the heart of the mystery
-- [[illusionism]] — The rival view that consciousness isn't real
+- [[illusionism]] — The rival view that consciousness isn't real (see "Illusionist Challenge" section above)
+- [[combination-problem]] — Panpsychism's version of the mystery (relocating rather than solving)
+- [[introspection]] — Whether first-person access can reveal what McGinn's "property P" might be
+- [[decoherence]] — Quantum coherence objections and why they don't dissolve the mystery
 - [[voids]] — The site's framework for approaching cognitive limits
 - [[tenets]] — How this site's commitments compare with mysterian neutrality
 
 ## References
 
 - Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
+- Chomsky, N. (1976). *Reflections on Language*. Pantheon Books.
 - Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown and Company.
 - Flanagan, O. (1991). *The Science of the Mind*. MIT Press.
+- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
 - McGinn, C. (1999). *The Mysterious Flame: Conscious Minds in a Material World*. Basic Books.
 - Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
+- Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
+- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
