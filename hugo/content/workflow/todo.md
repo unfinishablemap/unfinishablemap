@@ -56,19 +56,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review minimal-consciousness.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Connects to evolution-of-consciousness.md and animal-consciousness.md. Check for cross-links to consciousness-simple-organisms research, phenomenal-unity.md. Ensure site's treatment of minimal phenomenal experience and borderline cases is well-developed.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review russellian-monism.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, no deep review since creation. Important alternative position (Strawson, Chalmers) that shares some features with site's dualism. Check for cross-links to panpsychism.md, combination-problem.md, qualia.md. Ensure site's evaluation (why Russellian monism may not fully resolve hard problem) is well-developed.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
+### P2: Deep review arguments-for-dualism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Foundational to Dualism tenet. Check for cross-links to knowledge-argument.md, philosophical-zombies.md, explanatory-gap.md. Ensure all major positive arguments are current and engage recent objections (illusionism, phenomenal concept strategy).
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review introspection.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Methodologically important - site's framework depends on taking first-person data seriously. Check for cross-links to phenomenology.md, neurophenomenology.md, metacognition.md. Ensure response to Schwitzgebel's unreliability critique is well-developed.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review minimal-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Connects to evolution-of-consciousness.md and animal-consciousness.md. Check for cross-links to consciousness-simple-organisms research, phenomenal-unity.md. Ensure site's treatment of minimal phenomenal experience and borderline cases is well-developed.
+- **Result**: Added "The Illusionist Challenge" section with scaling argument (illusion problem requires meta-representational machinery unlikely in 302-neuron systems) and Tallis regress objection. Added mysterian angle linking C. elegans complete-knowledge paradox to cognitive closure. Added "Process Philosophy Perspective" with Whitehead's actual occasions as alternative to sharp threshold models. Added "What Would Challenge This View?" section with five falsifiability conditions. Added No Many Worlds tenet to Relation to Site Perspective. Added 4 new cross-links (illusionism, mysterianism, introspection, decoherence) to frontmatter and Further Reading. Added 4 new references.
+- **Output**: Updated `concepts/minimal-consciousness.md`, created `reviews/deep-review-2026-01-20-minimal-consciousness.md`
+
+### ✓ 2026-01-20: Deep review many-worlds.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Central to No Many Worlds tenet. Check for cross-links to haecceity.md, personal-identity.md, quantum-interpretations.md. Ensure site's rejection of MWI (indexical identity concerns, probability problems, consciousness-selection argument) is well-developed and engages strongest defenses.
+- **Result**: Added "The Illusionist Challenge" section showing indexical problem persists for illusionists (regress argument, representation still has indexical character). Added "Process Philosophy Perspective" with Whitehead's actual occasions (concrescence requires definiteness, haecceity non-transferable). Added "What Would Challenge This View?" section with five falsifiability conditions. Expanded "Relation to Site Perspective" to cover all five tenets explicitly. Added decoherence wikilink in consciousness section. Removed unverifiable Nature Physics survey claim. Added 4 new cross-links (illusionism, decoherence, introspection, mental-causation) to frontmatter and 4 to Further Reading. Added 3 new references.
+- **Output**: Updated `concepts/many-worlds.md`, created `reviews/deep-review-2026-01-20-many-worlds.md`
 
 ### ✓ 2026-01-20: Deep review near-death-experiences.md for currency and cross-links
 - **Type**: deep-review

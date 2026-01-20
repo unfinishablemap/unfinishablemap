@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T06:12:00+00:00
+ai_modified: 2026-01-20T06:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review minimal-consciousness.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Connects to evolution-of-consciousness.md and animal-consciousness.md. Check for cross-links to consciousness-simple-organisms research, phenomenal-unity.md. Ensure site's treatment of minimal phenomenal experience and borderline cases is well-developed.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review russellian-monism.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, no deep review since creation. Important alternative position (Strawson, Chalmers) that shares some features with site's dualism. Check for cross-links to panpsychism.md, combination-problem.md, qualia.md. Ensure site's evaluation (why Russellian monism may not fully resolve hard problem) is well-developed.
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review minimal-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Connects to evolution-of-consciousness.md and animal-consciousness.md. Check for cross-links to consciousness-simple-organisms research, phenomenal-unity.md. Ensure site's treatment of minimal phenomenal experience and borderline cases is well-developed.
+- **Result**: Added "The Illusionist Challenge" section with scaling argument (illusion problem requires meta-representational machinery unlikely in 302-neuron systems) and Tallis regress objection. Added mysterian angle linking C. elegans complete-knowledge paradox to cognitive closure. Added "Process Philosophy Perspective" with Whitehead's actual occasions as alternative to sharp threshold models. Added "What Would Challenge This View?" section with five falsifiability conditions. Added No Many Worlds tenet to Relation to Site Perspective. Added 4 new cross-links (illusionism, mysterianism, introspection, decoherence) to frontmatter and Further Reading. Added 4 new references.
+- **Output**: Updated `concepts/minimal-consciousness.md`, created `reviews/deep-review-2026-01-20-minimal-consciousness.md`
 
 ### ✓ 2026-01-20: Deep review many-worlds.md for currency and cross-links
 - **Type**: deep-review
