@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T18:00:00+00:00
+ai_modified: 2026-01-20T04:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review arguments-against-materialism.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Key support for site's Dualism tenet. Check for cross-links to knowledge-argument.md, philosophical-zombies.md, explanatory-gap.md. Ensure all major arguments are current and properly cross-linked.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review haecceity.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, no deep review since creation. Central to indexical identity and No Many Worlds tenet. Check for cross-links to personal-identity.md, many-worlds.md, philosophical-zombies.md. Ensure connection to site's rejection of MWI is explicit.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review arguments-against-materialism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Key support for site's Dualism tenet. Check for cross-links to knowledge-argument.md, philosophical-zombies.md, explanatory-gap.md. Ensure all major arguments are current and properly cross-linked.
+- **Result**: Expanded illusionism engagement with Frankish/Dennett illusion problem and Tallis regress objection. Added Phenomenal Concept Strategy treatment. Added full Decoherence Objection section with Tegmark debate, quantum biology evidence, and measurement problem clarification. Added Many-Worlds Dissolution subsection connecting to No Many Worlds tenet and haecceity. Added Process Philosophy Perspective with Whitehead's actual occasions. Added Mysterian Alternative interpretation under Convergence Argument. Added Introspection Question section with process/content distinction. Added What Would Challenge This View? section with 5 falsification conditions. Added 6 new cross-links (illusionism, mysterianism, introspection, decoherence, many-worlds, haecceity) to frontmatter and 6 to Further Reading. Added 7 new references.
+- **Output**: Updated `concepts/arguments-against-materialism.md`, created `reviews/deep-review-2026-01-20-arguments-against-materialism.md`
 
 ### ✓ 2026-01-20: Deep review materialism.md for currency and cross-links
 - **Type**: deep-review

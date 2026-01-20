@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-20T17:30:00+00:00
+ai_modified: 2026-01-20T04:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,17 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 04:30 - deep-review (arguments-against-materialism.md)
+- **Status**: Success
+- **File**: obsidian/concepts/arguments-against-materialism.md
+- **Critical issues addressed**: 3 (illusionism engagement too brief, no decoherence engagement in quantum section, no falsifiability section)
+- **Medium issues addressed**: 3 (no MWI engagement, missing mysterianism alternative, introspection reliability unaddressed)
+- **Enhancements made**: Expanded illusionism section with Frankish/Dennett illusion problem and Tallis regress objection. Added Phenomenal Concept Strategy treatment. Added full Decoherence Objection section with Tegmark debate, quantum biology evidence, and measurement problem clarification. Added Many-Worlds Dissolution subsection connecting to No Many Worlds tenet and haecceity. Added Process Philosophy Perspective with Whitehead's actual occasions. Added Mysterian Alternative interpretation under Convergence Argument. Added Introspection Question section with process/content distinction. Added What Would Challenge This View? section with 5 falsification conditions. Added 6 new cross-links (illusionism, mysterianism, introspection, decoherence, many-worlds, haecceity) to frontmatter and 6 to Further Reading. Added 7 new references.
+- **Output**: `reviews/deep-review-2026-01-20-arguments-against-materialism.md`
+- **Session**: 370
+
+---
 
 ### 18:30 - deep-review (materialism.md)
 - **Status**: Success
