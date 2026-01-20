@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 21:30:00+00:00
+ai_modified: 2026-01-20 22:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -47,6 +47,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### P2: Deep review intuitive-dualism.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page, never deep-reviewed. Explores psychological evidence that dualism is the default human stance—supports naturalness of site's framework. Check for cross-links to dualism.md, cognitive-phenomenology.md, problem-of-other-minds.md. Supports Dualism tenet via developmental/cognitive evidence.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review psychophysical-laws.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers Chalmers' fundamental psychophysical laws connecting experience to physics. Check for cross-links to psychophysical-coupling-law.md, interactionist-dualism.md, integrated-information-theory.md. Core for site's position that new laws bridge the explanatory gap.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review moral-responsibility.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Connects agent-causation to desert-based moral responsibility. Check for cross-links to free-will.md, ethics-of-consciousness.md, agent-causation.md. Supports Bidirectional Interaction tenet via practical ethical implications.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review relational-quantum-mechanics.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers Rovelli's RQM interpretation—explicitly anti-consciousness. Check for cross-links to quantum-interpretations.md, measurement-problem.md, many-worlds.md. Important foil for understanding site's alternative position.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
