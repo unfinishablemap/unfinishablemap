@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T04:30:00+00:00
+ai_modified: 2026-01-20T06:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,13 +55,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review evolution-of-consciousness.md for currency and cross-links
+### P2: Deep review near-death-experiences.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Important for addressing evolutionary challenge to dualism. Check for cross-links to prebiotic-collapse.md, minimal-consciousness.md, animal-consciousness.md. Ensure site's response to "why did consciousness evolve?" is well-developed.
+- **Notes**: AI-generated, no deep review since creation. Important evidence often cited for dualism (NDEs, veridical perceptions during cardiac arrest). Check for cross-links to filter-theory.md, altered-states-of-consciousness.md, dualism.md. Ensure scientific evidence (AWARE studies, van Lommel) and site's cautious interpretation are current.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review minimal-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Connects to evolution-of-consciousness.md and animal-consciousness.md. Check for cross-links to consciousness-simple-organisms research, phenomenal-unity.md. Ensure site's treatment of minimal phenomenal experience and borderline cases is well-developed.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review russellian-monism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Important alternative position (Strawson, Chalmers) that shares some features with site's dualism. Check for cross-links to panpsychism.md, combination-problem.md, qualia.md. Ensure site's evaluation (why Russellian monism may not fully resolve hard problem) is well-developed.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review evolution-of-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Important for addressing evolutionary challenge to dualism. Check for cross-links to prebiotic-collapse.md, minimal-consciousness.md, animal-consciousness.md. Ensure site's response to "why did consciousness evolve?" is well-developed.
+- **Result**: Comprehensive deep review completed. Added "The Illusionist Challenge" section with regress argument and evolutionary response. Added "Process Philosophy Perspective" section presenting Whitehead's actual occasions as alternative framing. Added "The Decoherence Challenge" section addressing quantum coherence in biological systems. Added "What Would Challenge This View?" section with five falsifiability conditions. Added 4 new cross-links (illusionism, decoherence, attention-as-interface, quantum-consciousness) to frontmatter and Further Reading. Added 6 new references.
+- **Output**: Updated `concepts/evolution-of-consciousness.md`, created `reviews/deep-review-2026-01-20-evolution-of-consciousness.md`
+
+### ✓ 2026-01-20: Write article synthesizing quantum binding evidence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md. Recent experimental evidence (Kerskens-Pérez MRI entanglement, 2024 epothilone microtubule study, Baum's quantum binding argument) supports quantum mechanisms in neural binding. Would enhance binding-problem.md with empirical support. Supports Minimal Quantum Interaction tenet.
+- **Result**: Task determined redundant. Article already exists at concepts/binding-problem.md with last_deep_review: 2026-01-19T16:00:00+00:00. The existing 320-line article already synthesizes all 2024-2025 quantum binding evidence including Wiest epothilone study, Kerskens-Pérez MRI entanglement, Baum Quantum Binding Argument, and twin study. Full treatment with experimental evidence, theoretical framework, and falsifiability conditions already present.
+- **Output**: None (existing content is complete)
 
 ### ✓ 2026-01-20: Deep review haecceity.md for currency and cross-links
 - **Type**: deep-review
