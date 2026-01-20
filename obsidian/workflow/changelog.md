@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-20T20:42:00+00:00
+ai_modified: 2026-01-20T21:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,15 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 21:30 - deep-review (substrate-independence-critique.md)
+- **Status**: Success
+- **File**: obsidian/concepts/substrate-independence-critique.md
+- **Critical issues addressed**: 4 (missing Illusionist Challenge section, inadequate decoherence treatment, no falsifiability conditions, missing Process Philosophy perspective)
+- **Medium issues addressed**: 3 (incomplete tenet coverage—only 3 of 5, missing contemplative evidence, sparse cross-linking)
+- **Enhancements made**: Added "The Decoherence Challenge" section with three mitigating considerations (revised timescales, biological quantum effects, decoherence doesn't solve collapse). Added "The Illusionist Challenge" section with regress response, introspection reliability argument, and functional asymmetry point. Added "Contemplative Evidence" section covering witness consciousness and phenomenology of effort. Added "Process Philosophy Perspective" section covering actual occasions, concrescence, and eternal objects. Added "What Would Challenge This View?" section with 5 falsifiable conditions. Expanded "Relation to Site Perspective" from 3 to all 5 tenets with substantive analysis. Added wikilink to continual-learning-argument. Added 8 new cross-links (illusionism, decoherence, introspection, witness-consciousness, haecceity, epiphenomenalism, philosophical-zombies, continual-learning-argument). Added 5 new references.
+- **Output**: `reviews/deep-review-2026-01-20-substrate-independence-critique.md`
+- **Session**: 430
 
 ### 20:42 - deep-review (phenomenal-value-realism.md)
 - **Status**: Success
