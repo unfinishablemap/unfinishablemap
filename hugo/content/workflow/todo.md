@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 09:35:00+00:00
+ai_modified: 2026-01-20 17:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review philosophical-zombies.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, never deep-reviewed. Key conceivability argument for dualism. Check for cross-links to arguments-for-dualism.md, hard-problem-of-consciousness.md, functionalism.md. Ensure engagement with Type-B physicalism responses and 2D semantics is current.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review quantum-consciousness.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, never deep-reviewed. Core concept for Minimal Quantum Interaction tenet—covers Orch OR, quantum Zeno, and related theories. Check for cross-links to decoherence.md, neural-quantum-coherence.md, measurement-problem.md. Ensure 2024-2025 research developments are incorporated.
@@ -72,6 +66,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review philosophical-zombies.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, never deep-reviewed. Key conceivability argument for dualism. Check for cross-links to arguments-for-dualism.md, hard-problem-of-consciousness.md, functionalism.md. Ensure engagement with Type-B physicalism responses and 2D semantics is current.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with Dennett's heterophenomenology, regress objection (Tallis), and analysis of why illusionism may strengthen zombie conceivability. Added "The Two-Dimensional Response" subsection on 2D semantics with scrutability thesis response. Added "Process Philosophy Perspective" section (Whitehead's actual occasions). Added "What Would Challenge This View?" section with five falsifiability conditions. Expanded "Relation to Site Perspective" from 3 to all 5 tenets. Added 6 cross-links (illusionism, introspection, phenomenology, mysterianism, decoherence, haecceity). Added 4 new references.
+- **Output**: obsidian/concepts/philosophical-zombies.md, obsidian/reviews/deep-review-2026-01-20-philosophical-zombies.md
 
 ### ✓ 2026-01-20: Deep review qualia.md for currency and cross-links
 - **Type**: deep-review
