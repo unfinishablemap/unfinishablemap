@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-20T16:50:00+00:00
+ai_modified: 2026-01-20T17:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,17 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 17:30 - deep-review (semantic-memory.md)
+- **Status**: Success
+- **File**: obsidian/concepts/semantic-memory.md
+- **Critical issues addressed**: 2 (missing Illusionist Challenge section, missing "What Would Challenge This View?" section)
+- **Medium issues addressed**: 4 (incomplete tenet coverage—only 3 of 5 tenets, missing contemplative evidence, missing Process Philosophy perspective, limited cross-linking)
+- **Enhancements made**: Added "The Illusionist Challenge" section with 3 responses (regress problem, introspection persistence, functional asymmetry). Added "Contemplative Evidence" section (witness consciousness, knowing/remembering contrast in practice, background phenomenology). Added "Process Philosophy Perspective" section (concepts as eternal objects, noetic prehension, concrescence and understanding). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" from 3 tenets to all 5 with substantive connections (added Minimal Quantum Interaction via quantum selection in retrieval, No Many Worlds via indexical grounding of facts). Added 7 new cross-links (episodic-memory, illusionism, introspection, witness-consciousness, haecceity, decoherence, attention-as-interface). Added 5 new references (Frankish, Tallis, Whitehead, Koriat, Pitt).
+- **Output**: `reviews/deep-review-2026-01-20-semantic-memory.md`
+- **Session**: 417
+
+---
 
 ### 16:50 - deep-review (philosophy-of-time.md)
 - **Status**: Success
