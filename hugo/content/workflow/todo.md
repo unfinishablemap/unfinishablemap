@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Cross-review animal-consciousness.md with UAL framework
+- **Type**: cross-review
+- **Notes**: Recent research in research/consciousness-simple-organisms-2026-01-19.md covers Unlimited Associative Learning framework, C. elegans consciousness debate, and 2024 New York Declaration on Animal Consciousness. Update animal-consciousness.md with current scientific consensus.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-20
+
 ### P3: Deep review apophatic-approaches.md for cross-linking
 - **Type**: deep-review
 - **Notes**: The voids article was created session 13 (now published). May benefit from enhanced cross-linking to newer content (mysterianism.md, limits-reveal-structure.md, whether-real.md).
@@ -57,17 +63,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 
-### P2: Deep review free-will.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, last deep review 2026-01-15 (5 days ago). Core topic page connecting consciousness to agency. Check for cross-links to recently reviewed content (libet-experiments.md, agent-causation.md, quantum-indeterminacy-free-will.md). Ensure luck objection response and quantum Zeno mechanism are well-developed.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
-
-
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review free-will.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, last deep review 2026-01-15 (5 days ago). Core topic page connecting consciousness to agency. Check for cross-links to recently reviewed content (libet-experiments.md, agent-causation.md, quantum-indeterminacy-free-will.md). Ensure luck objection response and quantum Zeno mechanism are well-developed.
+- **Result**: Comprehensive review completed. Expanded decoherence section with four response strategies (Tegmark critique, biological quantum effects, measurement problem distinction, Zeno mechanism). Added substantive illusionist engagement (Frankish, Dennett) with four site responses. Added new process philosophy section connecting Whitehead's actual occasions to selection framework. Added dedicated "Relation to Site Perspective" section connecting to all five tenets. Added cross-links to decoherence, introspection, haecceity, illusionism.
+- **Output**: reviews/deep-review-2026-01-20-free-will.md
+
+### ✓ 2026-01-20: Cross-review attention.md with voluntary attention research
+- **Type**: cross-review
+- **Notes**: Recent research in research/voluntary-attention-control-mechanisms-2026-01-17.md covers willed attention, frontal theta oscillations, and stochastic pre-states. Update attention.md and attention-as-interface.md with these findings. Critical for Bidirectional Interaction tenet mechanism.
+- **Result**: Task determined redundant. All three attention articles already fully synthesize this research: attention.md (297 lines, last_deep_review: 2026-01-20T03:20:00+00:00), voluntary-attention.md (234 lines), and attention-as-interface.md (540 lines, last_deep_review: 2026-01-20T20:30:00+00:00). Content on willed attention distinction, frontal theta oscillations, bidirectional frontoparietal coherence, stochastic pre-states, and salience network switching is comprehensive.
+- **Output**: None (existing content is complete)
+
+### ✓ 2026-01-20: Write article on reductionism and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/reductionism-consciousness-philosophy-2026-01-19.md. Covers ontological, methodological, and epistemic reductionism; explains why each fails for consciousness. Essential foundation for Dualism tenet—articulates why mental properties cannot be reduced to physical.
+- **Result**: Task determined redundant. Article already exists at concepts/reductionism.md (146 lines) with last_deep_review: 2026-01-19T13:30:00+00:00. Comprehensive treatment covers three types of reductionism, why consciousness resists reduction (explanatory gap, hard problem, multiple realizability), Kim's challenge with quantum response, greedy reductionism, and all tenet connections. Research notes fully synthesized.
+- **Output**: None (existing content is complete)
+
+### ✓ 2026-01-20: Write article on cognitive phenomenology
+- **Type**: expand-topic
+- **Notes**: Research completed in research/cognitive-phenomenology-thinking-experience-2026-01-17.md. Covers the phenomenology of thought—whether understanding, judging, and reasoning have distinctive qualitative character beyond sensory imagery. Foundational for site's position that consciousness includes irreducible mental properties. Supports Dualism tenet.
+- **Result**: Task determined redundant. Article already exists at concepts/cognitive-phenomenology.md (196 lines). Comprehensive treatment covers understanding experience, self-knowledge argument, ambiguity resolution, sudden insight, phenomenal intentionality, AI consciousness implications, semantic memory evidence (TOT/FOK), and all five tenet connections. Research notes fully synthesized.
+- **Output**: None (existing content is complete)
 
 ### ✓ 2026-01-20: Deep review hard-problem-of-consciousness.md for currency and cross-links
 - **Type**: deep-review

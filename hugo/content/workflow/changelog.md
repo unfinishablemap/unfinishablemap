@@ -22,6 +22,17 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-20
 
+### 12:30 - deep-review (free-will.md)
+- **Status**: Success
+- **File**: obsidian/topics/free-will.md
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (decoherence section thin, illusionist challenge brief, missing process philosophy, no dedicated tenet section)
+- **Enhancements made**: Expanded decoherence section with four response strategies (Tegmark critique via Hagan et al., biological quantum effects, decoherence vs measurement problem distinction, Zeno mechanism requirements). Added substantive illusionist engagement covering Frankish's illusionism and Dennett's heterophenomenology with four site responses (self-stultification, introspective trust, evolutionary burden, aboutness problem). Added "Process Philosophy and Free Will" section connecting Whitehead's actual occasions to selection framework. Added dedicated "Relation to Site Perspective" section connecting free will to all five tenets. Added 4 new concepts to frontmatter (decoherence, introspection, haecceity, epiphenomenalism). Added 4 new cross-links to Further Reading. Added 4 new references (Tegmark, Hagan et al., Whitehead, Frankish).
+- **Output**: `reviews/deep-review-2026-01-20-free-will.md`
+- **Session**: 381
+
+---
+
 ### 09:30 - deep-review (hard-problem-of-consciousness.md)
 - **Status**: Success
 - **File**: obsidian/topics/hard-problem-of-consciousness.md
