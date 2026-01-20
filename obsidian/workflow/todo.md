@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T00:32:00+00:00
+ai_modified: 2026-01-20T08:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -61,13 +61,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-19
 
-### P2: Deep review objections-to-interactionism.md for currency and cross-links
+### P2: Deep review mental-causation.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Critical for addressing challenges to site's framework. Check for cross-links to causal-closure.md, pairing-problem.md, decoherence.md. Ensure Kim's exclusion argument and site's quantum responses are current and well-argued.
+- **Notes**: AI-generated 2026-01-15, no deep review since creation. Core concept for Bidirectional Interaction tenet. Check for cross-links to agent-causation.md, downward-causation.md, quantum-consciousness.md. Ensure Kim's exclusion argument and site's quantum response are well-developed.
 - **Source**: staleness
-- **Generated**: 2026-01-19
+- **Generated**: 2026-01-20
+
+### P2: Deep review downward-causation.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-18, no deep review since creation. Central to defending Bidirectional Interaction tenet. Check for cross-links to mental-causation.md, emergence.md, causal-closure.md. Ensure Kim's exclusion argument and strong emergence responses are current.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review quantum-indeterminacy-free-will.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-19, no deep review since creation. Key integration of quantum mechanics with free will. Check for cross-links to luck-objection.md, agent-causation.md, attention-as-interface.md. Ensure luck objection response and quantum Zeno mechanism are well-argued.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review pairing-problem.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Major objection to interactionist dualism. Check for cross-links to objections-to-interactionism.md, interface-locality.md, brain-specialness.md. Ensure Kim's formulation and site's locality-based response are current.
+- **Source**: staleness
+- **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review objections-to-interactionism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Critical for addressing challenges to site's framework. Check for cross-links to causal-closure.md, pairing-problem.md, decoherence.md. Ensure Kim's exclusion argument and site's quantum responses are current and well-argued.
+- **Result**: Added comprehensive new "Decoherence Objection" section with four responses (revised calculations, quantum biology evidence, measurement problem, non-computational selection). Added "What Would Challenge This View?" falsifiability section with four testable conditions. Added "Connection to the Luck Objection" subsection showing parallel structure. Updated summary table from 5 to 6 objections. Added 4 new cross-links to frontmatter (decoherence, haecceity, pairing-problem, luck-objection) and 4 to Further Reading. Added Tegmark (2000) and Kerskens & Pérez references.
+- **Output**: Updated `concepts/objections-to-interactionism.md`, created `reviews/deep-review-2026-01-20-objections-to-interactionism.md`
 
 ### ✓ 2026-01-20: Deep review phenomenal-unity.md for currency and cross-links
 - **Type**: deep-review

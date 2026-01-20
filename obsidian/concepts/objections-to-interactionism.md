@@ -3,7 +3,7 @@ title: "Objections to Interactionist Dualism"
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-18T22:00:00+00:00
+ai_modified: 2026-01-20T08:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,6 +16,10 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[emergence]]"
   - "[[downward-causation]]"
+  - "[[decoherence]]"
+  - "[[haecceity]]"
+  - "[[pairing-problem]]"
+  - "[[luck-objection]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments-for-dualism]]"
@@ -25,10 +29,10 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-20T08:50:00+00:00
 ---
 
-[[interactionist-dualism|Interactionist dualism]] faces five major philosophical objections: the pairing problem, conservation laws, parsimony, the evolutionary argument, and the exclusion argument. This page provides comprehensive treatment of each objection and the responses available to the interactionist—particularly within the quantum framework this site adopts. The key finding: four objections have principled responses, and the fifth (evolution) actually *supports* interactionism against its main rival, [[epiphenomenalism]].
+[[interactionist-dualism|Interactionist dualism]] faces six major philosophical objections: the [[pairing-problem|pairing problem]], conservation laws, parsimony, the decoherence objection, the evolutionary argument, and Kim's exclusion argument. This page provides comprehensive treatment of each objection and the responses available to the interactionist—particularly within the [[quantum-consciousness|quantum framework]] this site adopts. The key finding: five objections have principled responses, and the sixth (evolution) actually *supports* interactionism against its main rival, [[epiphenomenalism]].
 
 ## The Pairing Problem
 
@@ -50,9 +54,9 @@ This objection has force only if we assume souls could be intrinsically indiscer
 
 ### The Haecceities Response
 
-Andrew Bailey, Joshua Rasmussen, and Luke Van Horn (2011) argue there is "no pairing problem." Their dilemma: either haecceities (primitive "thisness") exist or they don't.
+Andrew Bailey, Joshua Rasmussen, and Luke Van Horn (2011) argue there is "no pairing problem." Their dilemma: either [[haecceity|haecceities]] (primitive "thisness") exist or they don't.
 
-If haecceities exist, they can ground the pairing relation without spatial location. M1 is paired with B1 because of M1's haecceity and B1's haecceity standing in the appropriate relation.
+If haecceities exist, they can ground the pairing relation without spatial location. M1 is paired with B1 because of M1's haecceity and B1's haecceity standing in the appropriate relation. The haecceity page explores how this concept applies more broadly to consciousness and personal identity.
 
 If haecceities don't exist, the pairing problem generalizes to all causation. What pairs *any* cause with *any* effect? The problem isn't specific to mind-body interaction but applies universally. The dualist doesn't face a special difficulty—everyone faces the same challenge.
 
@@ -138,6 +142,45 @@ This is the site's [[tenets#^occams-limits|fifth tenet]]. Parsimony is a methodo
 
 The apparent simplicity of physicalism may reflect our ignorance rather than reality. When confronting consciousness—a domain where our conceptual tools may be fundamentally inadequate—simplicity is an unreliable guide.
 
+## The Decoherence Objection
+
+### The Objection
+
+The [[decoherence|decoherence objection]] targets quantum-based interactionism specifically. If consciousness operates through quantum mechanisms, it requires quantum superpositions to persist long enough for selection. But warm biological systems destroy quantum coherence almost instantly:
+
+1. Quantum coherence in molecular systems at body temperature decoheres in femtoseconds (10⁻¹⁵ seconds)
+2. Neural processes operate on millisecond timescales (10⁻³ seconds)
+3. The gap is twelve orders of magnitude—quantum effects cannot persist long enough to matter
+4. Therefore, consciousness cannot operate through quantum mechanisms
+
+Max Tegmark (2000) calculated that quantum coherence in brain microtubules would decay in about 10⁻¹³ seconds. If consciousness needs quantum indeterminacy to select outcomes, and quantum indeterminacy vanishes before any selection could occur, the quantum framework fails.
+
+### Response 1: Revised Calculations
+
+Tegmark's calculation assumed thermal equilibrium—appropriate for dead tissue, not living systems—and separation distances larger than proposed mechanisms require. Hameroff and colleagues recalculated using parameters appropriate to Orch OR theory. The revised coherence times increase by seven orders of magnitude, reaching 10⁻⁵ to 10⁻⁴ seconds—still short, but approaching timescales relevant to neural dynamics.
+
+### Response 2: Quantum Biology Evidence
+
+Recent experiments have complicated the simple "warm means no quantum" picture:
+
+- **Photosynthesis**: Quantum coherence in light-harvesting complexes persists for hundreds of femtoseconds at room temperature—far longer than Tegmark-style calculations predicted
+- **Microtubule anesthesia**: A 2025 study found microtubule-stabilizing drugs delay anesthesia onset, suggesting microtubule dynamics matter for consciousness
+- **MRI entanglement signatures**: Kerskens and Pérez (2022-2023) detected what they interpret as entanglement signatures in human brain MRI, correlating with working memory tasks
+
+These findings don't prove quantum consciousness but demonstrate that quantum effects in biological systems are more robust than assumed.
+
+### Response 3: The Measurement Question
+
+Critically, decoherence does not solve the [[measurement-problem|measurement problem]]. Decoherence explains why interference effects wash out—why we don't see cats both alive and dead. But it doesn't explain why we see *definite* outcomes at all. After decoherence, quantum mechanics still describes the total system as a vast entangled superposition.
+
+If definite outcomes require something beyond decoherence—whether consciousness, objective collapse, or hidden variables—then the question of what selects outcomes remains open. Decoherence establishes preferred bases; it doesn't collapse them. The site's [[tenets#^no-many-worlds|No Many Worlds]] tenet holds that genuine selection occurs. Whatever does the selecting might be consciousness.
+
+### Response 4: Non-Computational Selection
+
+Even if decoherence eliminates quantum *computing* in the brain, it may not eliminate quantum *selection*. Selection among decohered outcomes could still be non-deterministic. Consciousness might not need to maintain coherent superpositions—it might simply select among the classical-looking outcomes that decoherence produces.
+
+This is a weaker claim than Orch OR but still provides room for mental causation at points where physics is genuinely incomplete.
+
 ## The Evolutionary Argument
 
 ### The Objection
@@ -199,13 +242,34 @@ Where physics is genuinely incomplete, mental properties can fill the gap withou
 
 This transforms the exclusion argument from a dilemma into a false premise: closure fails at indeterminacies, so premise 2 (sufficiency of physical causes) fails.
 
+### Connection to the Luck Objection
+
+A parallel structure exists between the exclusion argument and the [[luck-objection|luck objection]] to libertarian free will. The exclusion argument asks: if physical causes are sufficient, what room is there for mental causation? The luck objection asks: if outcomes are indeterminate, how can they be *chosen* rather than random?
+
+The site's response to both: consciousness selects among undetermined possibilities. This is neither redundant (the possibilities are genuinely open) nor arbitrary (consciousness provides direction). The quantum Zeno mechanism offers a model: sustained attention stabilizes certain outcomes, biasing probabilities through repeated "observation" rather than energy injection.
+
+## What Would Challenge This View?
+
+Interactionism would face serious difficulty if:
+
+1. **Deterministic neural dynamics**: If all neural activity could be predicted from prior physical states with no residual indeterminacy, consciousness would have nowhere to act. Current neuroscience cannot achieve such prediction, but this reflects practical limits rather than principled indeterminacy.
+
+2. **MWI confirmation**: If the [[many-worlds|Many-Worlds interpretation]] were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. The site's No Many Worlds tenet would fail.
+
+3. **Conservation violations detected**: If mental causation required energy injection, and we observed systematic conservation violations in neural systems, the objection would stand. We observe no such violations—consistent with either epiphenomenalism or selection among equi-energetic outcomes.
+
+4. **Decoherence proves absolute**: If experiments demonstrated that no quantum effects—computational or otherwise—survive in neural tissue, quantum-based interactionism would need abandonment or revision toward purely classical selection models (which face worse difficulties).
+
+These are empirical and interpretive questions, not settled by philosophical argument alone. The debate continues.
+
 ## Summary
 
 | Objection | Target | Site's Response | Strength |
 |-----------|--------|-----------------|----------|
-| Pairing problem | Substance dualism | Minds are spatially located (in brains); interface locality provides natural pairing | Strong |
+| Pairing problem | Substance dualism | Minds are spatially located (in brains); [[interface-locality]] provides natural pairing; [[haecceity]] offers alternative grounding | Strong |
 | Conservation laws | Interactionism | Quantum selection without energy injection; all outcomes are equi-energetic | Strong |
 | Parsimony | Dualism | Consciousness is evidence; materialism doesn't explain it; simplicity isn't truth | Strong |
+| Decoherence | Quantum interactionism | Revised calculations, quantum biology evidence, decoherence doesn't solve measurement problem | Moderate |
 | Evolutionary argument | Epiphenomenalism | *Supports* interactionism—consciousness must cause to be selected | N/A (supports site) |
 | Exclusion argument | Mental causation | Physics is insufficient at quantum indeterminacies; no sufficient cause to exclude | Strong |
 
@@ -226,13 +290,18 @@ These objections have been taken seriously throughout the history of philosophy.
 ## Further Reading
 
 - [[interactionist-dualism]] — The position these objections target
+- [[pairing-problem]] — Detailed treatment of Kim's pairing challenge
 - [[causal-closure]] — The closure principle underlying the exclusion argument
 - [[mental-causation]] — The phenomenon the exclusion argument challenges
 - [[downward-causation]] — How higher-level properties influence lower-level processes
 - [[epiphenomenalism]] — The view the evolutionary argument targets
 - [[arguments-for-dualism]] — Positive arguments for the site's position
 - [[quantum-consciousness]] — The mechanism for mind-matter interface
+- [[decoherence]] — The quantum biology challenge and evidence
 - [[interface-locality]] — Why consciousness can only select within its own brain
+- [[haecceity]] — Primitive "thisness" as pairing relation
+- [[luck-objection]] — Parallel challenge to libertarian free will
+- [[many-worlds]] — The interpretation whose rejection grounds the site's view
 - [[emergence]] — Strong emergence with mechanism
 - [[objections-to-interactionist-dualism-2026-01-15]] — Research notes for this article
 
@@ -241,7 +310,9 @@ These objections have been taken seriously throughout the history of philosophy.
 - Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies*, 154: 349-360.
 - Collins, R. (2011). "The Energy of the Soul." In M. Baker & S. Goetz (eds.), *The Soul Hypothesis*.
 - James, W. (1890). *The Principles of Psychology*.
+- Kerskens, C. M., & Pérez, D. L. (2022-2023). "Experimental indications of non-classical brain functions." *Journal of Physics Communications*.
 - Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 - Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 - Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.
+- Tegmark, M. (2000). "The importance of quantum decoherence in brain processes." *Physical Review E*, 61: 4194-4206.
 - Yablo, S. (1992). "Mental Causation." *Philosophical Review*, 101: 245-280.
