@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 22:00:00+00:00
+ai_modified: 2026-01-20 12:16:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review epistemic-advantages-of-dualism.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated topic page, never deep-reviewed. Makes positive case for dualism's explanatory advantages over materialism. Check for cross-links to arguments-for-dualism.md, mysterianism.md, hard-problem-of-consciousness.md. Critical for site's advocacy stance on Dualism tenet.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
-### P2: Deep review intuitive-dualism.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Explores psychological evidence that dualism is the default human stance—supports naturalness of site's framework. Check for cross-links to dualism.md, cognitive-phenomenology.md, problem-of-other-minds.md. Supports Dualism tenet via developmental/cognitive evidence.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review psychophysical-laws.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page, never deep-reviewed. Covers Chalmers' fundamental psychophysical laws connecting experience to physics. Check for cross-links to psychophysical-coupling-law.md, interactionist-dualism.md, integrated-information-theory.md. Core for site's position that new laws bridge the explanatory gap.
@@ -84,6 +72,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review intuitive-dualism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Explores psychological evidence that dualism is the default human stance—supports naturalness of site's framework. Check for cross-links to dualism.md, cognitive-phenomenology.md, problem-of-other-minds.md. Supports Dualism tenet via developmental/cognitive evidence.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with illusionist reading of evidence, regress response, and contemplative challenge. Added "Process Philosophy Perspective" section on actual occasions and mind-body unity. Added "Contemplative Perspectives" section with Buddhist analysis and witness consciousness. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" from 3 paragraphs (one tenet) to substantive coverage of all 5 tenets. Added 7 new cross-links (illusionism, introspection, witness-consciousness, cognitive-phenomenology, problem-of-other-minds, haecceity, phenomenology). Added 4 new references.
+- **Output**: obsidian/concepts/intuitive-dualism.md, obsidian/reviews/deep-review-2026-01-20-intuitive-dualism.md
+
+### ✓ 2026-01-20: Deep review epistemic-advantages-of-dualism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page, never deep-reviewed. Makes positive case for dualism's explanatory advantages over materialism. Check for cross-links to arguments-for-dualism.md, mysterianism.md, hard-problem-of-consciousness.md. Critical for site's advocacy stance on Dualism tenet.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with three responses (regress, humility reversal, asymmetric cost survives). Added "Process Philosophy Perspective" connecting openness to creativity, experience-as-fundamental, limits-as-structure. Added "Contemplative Perspectives" section covering witness-consciousness, cessation states, ineffable knowledge. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" from 4 brief paragraphs to 5 substantive ones. Strengthened asymmetric cost argument. Acknowledged decoherence objection. Added 7 new cross-links (illusionism, introspection, decoherence, haecceity, witness-consciousness, arguments-for-dualism, philosophical-zombies). Added 3 new references.
+- **Output**: obsidian/topics/epistemic-advantages-of-dualism.md, obsidian/reviews/deep-review-2026-01-20-epistemic-advantages-of-dualism.md
 
 ### ✓ 2026-01-20: Deep review time-collapse-and-agency.md for currency and cross-links
 - **Type**: deep-review

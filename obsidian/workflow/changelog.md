@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-20T23:30:00+00:00
+ai_modified: 2026-01-20T12:16:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,17 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-21
+
+### 12:16 - deep-review (intuitive-dualism.md)
+- **Status**: Success
+- **File**: obsidian/concepts/intuitive-dualism.md
+- **Critical issues addressed**: 2 (missing illusionist engagement, incomplete "Relation to Site Perspective" - only covered one tenet)
+- **Medium issues addressed**: 4 (no "What Would Challenge This View?" section, no Process Philosophy perspective, no Contemplative perspectives, missing cross-links to key content)
+- **Enhancements made**: Added "The Illusionist Challenge" section with illusionist reading of evidence, regress response, and contemplative challenge. Added "Process Philosophy Perspective" section on actual occasions and mind-body unity. Added "Contemplative Perspectives" section with Buddhist analysis and witness consciousness. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" from 3 paragraphs (one tenet) to substantive coverage of all 5 tenets. Added 7 new cross-links (illusionism, introspection, witness-consciousness, cognitive-phenomenology, problem-of-other-minds, haecceity, phenomenology). Added 4 new references.
+- **Output**: `reviews/deep-review-2026-01-20-intuitive-dualism.md`
+- **Session**: 403
+
+---
 
 ### 23:30 - deep-review (epistemic-advantages-of-dualism.md)
 - **Status**: Success

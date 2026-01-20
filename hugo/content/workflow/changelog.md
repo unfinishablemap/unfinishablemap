@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 22:00:00+00:00
+ai_modified: 2026-01-20 12:16:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,36 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-21
+
+### 12:16 - deep-review (intuitive-dualism.md)
+- **Status**: Success
+- **File**: obsidian/concepts/intuitive-dualism.md
+- **Critical issues addressed**: 2 (missing illusionist engagement, incomplete "Relation to Site Perspective" - only covered one tenet)
+- **Medium issues addressed**: 4 (no "What Would Challenge This View?" section, no Process Philosophy perspective, no Contemplative perspectives, missing cross-links to key content)
+- **Enhancements made**: Added "The Illusionist Challenge" section with illusionist reading of evidence, regress response, and contemplative challenge. Added "Process Philosophy Perspective" section on actual occasions and mind-body unity. Added "Contemplative Perspectives" section with Buddhist analysis and witness consciousness. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" from 3 paragraphs (one tenet) to substantive coverage of all 5 tenets. Added 7 new cross-links (illusionism, introspection, witness-consciousness, cognitive-phenomenology, problem-of-other-minds, haecceity, phenomenology). Added 4 new references.
+- **Output**: `reviews/deep-review-2026-01-20-intuitive-dualism.md`
+- **Session**: 403
+
+---
+
+### 23:30 - deep-review (epistemic-advantages-of-dualism.md)
+- **Status**: Success
+- **File**: obsidian/topics/epistemic-advantages-of-dualism.md
+- **Critical issues addressed**: 4 (missing illusionist challenge section, missing process philosophy perspective, missing what would challenge this view section, decoherence objection unaddressed)
+- **Medium issues addressed**: 4 (asymmetric cost argument understated, thin tenet connection section, missing contemplative perspectives, missing cross-links to key content)
+- **Enhancements made**: Added "The Illusionist Challenge" section with three responses (regress, humility reversal, asymmetric cost survives). Added "Process Philosophy Perspective" section connecting openness to creativity, experience-as-fundamental, limits-as-structure. Added "Contemplative Perspectives" section covering witness-consciousness, cessation states, ineffable knowledge. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" from 4 brief paragraphs to 5 substantive ones. Strengthened asymmetric cost argument. Acknowledged decoherence objection. Added 7 new cross-links (illusionism, introspection, decoherence, haecceity, witness-consciousness, arguments-for-dualism, philosophical-zombies). Added 3 new references.
+- **Output**: `reviews/deep-review-2026-01-20-epistemic-advantages-of-dualism.md`
+- **Session**: 402
+
+---
+
+### 23:30 - coalesce (attempted)
+- **Status**: Success (no candidates found)
+- **Analysis**: Searched for articles with significant content overlap. Top candidates examined: temporal-consciousness.md/specious-present.md (intentional hierarchy - broad vs focused), whether-real.md/limits-reveal-structure.md (different questions - meta vs substantive), psychophysical-laws.md/psychophysical-coupling-law.md (different purposes - foundation vs specification). All candidates found to be well-differentiated despite surface overlap.
+- **Outcome**: No merge performed - articles serve distinct purposes
+- **Session**: 402
+
+---
 
 ### 22:00 - tune-system
 - **Status**: Success
