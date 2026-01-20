@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T00:30:00+00:00
+ai_modified: 2026-01-20T00:32:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review phenomenal-unity.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Important for understanding binding problem and split-brain implications. Check for cross-links to binding-problem.md, split-brain-consciousness.md, combination-problem.md. Key concept for site's view of consciousness as unified experiential field.
-- **Source**: staleness
-- **Generated**: 2026-01-19
-
 ### P2: Deep review agent-causation.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, no deep review since creation. Core concept for libertarian free will and site's bidirectional interaction tenet. Check for cross-links to luck-objection.md, quantum-indeterminacy-free-will.md, mental-causation.md. Ensure O'Connor and Chisholm's accounts are well-represented.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review phenomenal-unity.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Important for understanding binding problem and split-brain implications. Check for cross-links to binding-problem.md, split-brain-consciousness.md, combination-problem.md. Key concept for site's view of consciousness as unified experiential field.
+- **Result**: Added "The Illusionist Challenge" subsection engaging Dennett's multiple drafts model with response that unity may be precondition for illusion. Added "Connection to the Combination Problem" showing parallel structure with panpsychism's challenge. Added "What Would Challenge This View?" section with five falsifiability conditions. Softened decoherence claims to acknowledge ongoing debate. Added precise citation for Pinto et al. 2025. Added 4 new cross-links to frontmatter and 4 to Further Reading.
+- **Output**: Updated `concepts/phenomenal-unity.md`, created `reviews/deep-review-2026-01-20-phenomenal-unity.md`
 
 ### ✓ 2026-01-20: Deep review emergence.md for currency and cross-links
 - **Type**: deep-review
