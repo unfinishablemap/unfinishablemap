@@ -2,18 +2,18 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-20T22:00:00+00:00'
-session_count: 401
+last_updated: '2026-01-20T23:30:00+00:00'
+session_count: 402
 last_runs:
   validate-all: '2026-01-19T20:15:00+00:00'
   pessimistic-review: '2026-01-21T01:00:00+00:00'
   optimistic-review: '2026-01-20T07:30:00+00:00'
   check-tenets: '2026-01-18T20:41:00+00:00'
   check-links: '2026-01-20T05:35:00+00:00'
-  deep-review: '2026-01-20T21:30:00+00:00'
+  deep-review: '2026-01-20T23:30:00+00:00'
   tune-system: '2026-01-20T22:00:00+00:00'
   research-voids: '2026-01-19T23:30:00+00:00'
-  coalesce: '2026-01-20T06:15:00+00:00'
+  coalesce: '2026-01-20T23:30:00+00:00'
   tweet-highlight: '2026-01-20T12:00:00+00:00'
 cadences:
   validate-all: 24
@@ -58,7 +58,7 @@ progress:
   questions_written: 1
   voids_written: 6
   research_notes: 91
-  reviews_completed: 355
+  reviews_completed: 356
 quality:
   critical_issues: 2
   medium_issues: 6
@@ -66,6 +66,14 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: deep-review (epistemic-advantages-of-dualism)
+  type: deep-review
+  date: 2026-01-20
+  outcome: success
+- task: coalesce (no candidates)
+  type: coalesce
+  date: 2026-01-20
+  outcome: success
 - task: tune-system
   type: tune-system
   date: 2026-01-20

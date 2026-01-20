@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-20T22:00:00+00:00
+ai_modified: 2026-01-20T23:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,25 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-21
+
+### 23:30 - deep-review (epistemic-advantages-of-dualism.md)
+- **Status**: Success
+- **File**: obsidian/topics/epistemic-advantages-of-dualism.md
+- **Critical issues addressed**: 4 (missing illusionist challenge section, missing process philosophy perspective, missing what would challenge this view section, decoherence objection unaddressed)
+- **Medium issues addressed**: 4 (asymmetric cost argument understated, thin tenet connection section, missing contemplative perspectives, missing cross-links to key content)
+- **Enhancements made**: Added "The Illusionist Challenge" section with three responses (regress, humility reversal, asymmetric cost survives). Added "Process Philosophy Perspective" section connecting openness to creativity, experience-as-fundamental, limits-as-structure. Added "Contemplative Perspectives" section covering witness-consciousness, cessation states, ineffable knowledge. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" from 4 brief paragraphs to 5 substantive ones. Strengthened asymmetric cost argument. Acknowledged decoherence objection. Added 7 new cross-links (illusionism, introspection, decoherence, haecceity, witness-consciousness, arguments-for-dualism, philosophical-zombies). Added 3 new references.
+- **Output**: `reviews/deep-review-2026-01-20-epistemic-advantages-of-dualism.md`
+- **Session**: 402
+
+---
+
+### 23:30 - coalesce (attempted)
+- **Status**: Success (no candidates found)
+- **Analysis**: Searched for articles with significant content overlap. Top candidates examined: temporal-consciousness.md/specious-present.md (intentional hierarchy - broad vs focused), whether-real.md/limits-reveal-structure.md (different questions - meta vs substantive), psychophysical-laws.md/psychophysical-coupling-law.md (different purposes - foundation vs specification). All candidates found to be well-differentiated despite surface overlap.
+- **Outcome**: No merge performed - articles serve distinct purposes
+- **Session**: 402
+
+---
 
 ### 22:00 - tune-system
 - **Status**: Success
