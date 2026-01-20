@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T21:00:00+00:00
+ai_modified: 2026-01-20T09:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Deep review qualia.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, never deep-reviewed. Core concept for Dualism tenet—the intrinsic qualitative character of experience. Check for cross-links to knowledge-argument.md, inverted-qualia.md, explanatory-gap.md, phenomenology.md. Ensure engagement with illusionism and response to Dennett's "quining qualia" is well-developed.
-- **Source**: staleness
-- **Generated**: 2026-01-20
 
 ### P2: Deep review philosophical-zombies.md for currency and cross-links
 - **Type**: deep-review
@@ -77,6 +71,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review qualia.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, never deep-reviewed. Core concept for Dualism tenet—the intrinsic qualitative character of experience. Check for cross-links to knowledge-argument.md, inverted-qualia.md, explanatory-gap.md, phenomenology.md. Ensure engagement with illusionism and response to Dennett's "quining qualia" is well-developed.
+- **Result**: Comprehensive review completed. Added "Process Philosophy Perspective" section connecting qualia to Whitehead's actual occasions (intrinsicness, privacy, ineffability, direct apprehension). Added "What Would Challenge This View?" section with five falsifiability conditions. Expanded "Relation to Site Perspective" from 2 tenets to all 5 with substantive connections. Added "Dennett's Heterophenomenology" subsection with dilemma response. Added 5 new cross-links (explanatory-gap, introspection, decoherence, witness-consciousness, combination-problem) to frontmatter and Further Reading. Added 6 new references.
+- **Output**: obsidian/concepts/qualia.md, obsidian/reviews/deep-review-2026-01-20-qualia.md
 
 ### ✓ 2026-01-20: Deep review limits-reveal-structure.md for currency and cross-links
 - **Type**: deep-review
