@@ -21,6 +21,17 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-20
 
+### 03:45 - deep-review (embodied-cognition.md)
+- **Status**: Success
+- **File**: obsidian/concepts/embodied-cognition.md
+- **Critical issues addressed**: 3 (no illusionism engagement, missing falsifiability section, missing Whitehead/process philosophy)
+- **Medium issues addressed**: 3 (missing cross-links, incomplete tenet coverage, citation gaps)
+- **Enhancements made**: Added "The Illusionist Challenge" subsection engaging Dennett/Frankish with response showing phenomenological distinctions matter. Added "Process Philosophy and Embodied Cognition" section connecting Whitehead's actual occasions to Merleau-Ponty's lived body. Added "What Would Challenge This View?" section with five falsifiability conditions. Substantially expanded Minimal Quantum Interaction tenet section connecting quantum Zeno to Dreyfus model. Expanded No Many Worlds section arguing choking evidence supports genuine selection. Added 9 new entries to Further Reading and 5 new concepts to frontmatter. Added 6 new references (Baumeister, Beilock, Dennett, Dreyfus, Frankish, Whitehead).
+- **Output**: `reviews/deep-review-2026-01-20-embodied-cognition.md`
+- **Session**: 362
+
+---
+
 ### 03:20 - deep-review (attention.md)
 - **Status**: Success
 - **File**: obsidian/concepts/attention.md
