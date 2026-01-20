@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T22:15:00+00:00
+ai_modified: 2026-01-20T22:12:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,15 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review predictive-processing.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page (2026-01-14), never deep-reviewed. Covers predictive coding theory of consciousness—important physicalist alternative. Check for cross-links to global-workspace-theory.md, attention.md, illusionism.md, higher-order-theories.md. Useful foil for explaining why prediction-based accounts miss phenomenal character.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review neural-correlates-of-consciousness.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page (2026-01-14), never deep-reviewed. Covers NCCs and their limitations—central to explaining why correlation doesn't establish identity. Check for cross-links to hard-problem-of-consciousness.md, explanatory-gap.md, dualism.md, measurement-problem.md. Supports Dualism tenet by highlighting what NCCs leave unexplained.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review eastern-philosophy-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page (2026-01-09), never deep-reviewed. Covers Buddhist and Eastern approaches to consciousness—key dialogue partner for site's Western dualism. Check for cross-links to buddhism-and-dualism.md, witness-consciousness.md, self-and-consciousness.md, meditation-and-consciousness-modes.md. Important for demonstrating site engages cross-cultural perspectives.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review loss-of-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page (2026-01-15), never deep-reviewed. Covers anesthesia, coma, and filter/transmission theory. Check for cross-links to neural-correlates-of-consciousness.md, altered-states-of-consciousness.md, sleep-and-consciousness.md, filter-theory.md. Supports Dualism tenet via filter interpretation of neural damage.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review purpose-and-alignment.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page (2026-01-13), never deep-reviewed. Connects meaning-of-life philosophy to AI alignment—unique site contribution. Check for cross-links to experiential-alignment.md, phenomenal-value-realism.md, ethics-of-consciousness.md, nihilism.md. Supports site framework by showing alignment depends on consciousness questions.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
@@ -65,6 +77,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review predictive-processing.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (2026-01-14), never deep-reviewed. Covers predictive coding theory of consciousness—important physicalist alternative. Check for cross-links to global-workspace-theory.md, attention.md, illusionism.md, higher-order-theories.md. Useful foil for explaining why prediction-based accounts miss phenomenal character.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with four responses (regress problem, introspection survives debunking, contemplative challenge, functional asymmetry). Added "Process Philosophy Perspective" section connecting PP to Whitehead's prehension, concrescence, and eternal objects. Added "Contemplative Evidence" section covering real-time prediction observation, precision modulation, witness consciousness, and cessation states. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets with substantive analysis including decoherence challenge response. Added 8 new cross-links (illusionism, introspection, witness-consciousness, attention-as-interface, decoherence, haecceity, many-worlds, meditation-and-consciousness-modes). Added 3 new references.
+- **Output**: obsidian/concepts/predictive-processing.md, obsidian/reviews/deep-review-2026-01-20-predictive-processing.md
 
 ### ✓ 2026-01-20: Deep review substance-property-dualism.md for currency and cross-links
 - **Type**: deep-review

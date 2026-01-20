@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 22:00:00+00:00
+ai_modified: 2026-01-20 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,24 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 22:15 - deep-review (predictive-processing.md)
+- **Status**: Success
+- **File**: obsidian/concepts/predictive-processing.md
+- **Critical issues addressed**: 4 (missing illusionism engagement, no falsifiability section, no contemplative evidence, incomplete tenet coverage—only 3 of 5)
+- **Medium issues addressed**: 3 (no Process Philosophy perspective, missing decoherence acknowledgment, haecceity/No Many Worlds not addressed)
+- **Enhancements made**: Added "The Illusionist Challenge" section with four responses (regress problem, introspection survives debunking, contemplative challenge, functional asymmetry). Added "Process Philosophy Perspective" section connecting PP to Whitehead's prehension, concrescence, and eternal objects. Added "Contemplative Evidence" section covering real-time prediction observation, precision modulation, witness consciousness, and cessation states. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" from ~250 words to ~650 words covering all 5 tenets including decoherence challenge response. Added 8 new cross-links (illusionism, introspection, witness-consciousness, attention-as-interface, decoherence, haecceity, many-worlds, meditation-and-consciousness-modes). Added 3 new references (Frankish, Whitehead, Fox et al.).
+- **Output**: `reviews/deep-review-2026-01-20-predictive-processing.md`
+- **Session**: 435
+
+### 22:10 - deep-review (substance-property-dualism.md)
+- **Status**: Success
+- **File**: obsidian/concepts/substance-property-dualism.md
+- **Critical issues addressed**: 3 (unverifiable Chalmers 2016 citation, missing illusionism engagement, missing decoherence discussion)
+- **Medium issues addressed**: 4 (no falsifiability section, missing contemplative evidence, missing process philosophy perspective, thin tenet coverage)
+- **Enhancements made**: Added "The Illusionist Challenge" section with three responses (regress problem, introspection survives, contemplative challenge). Added "The Decoherence Challenge" section with Tegmark objection and three mitigations. Added "Contemplative Evidence" section (witness consciousness, Buddhist complication). Added "Process Philosophy Perspective" section (actual occasions, concrescence). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets with substantive analysis. Fixed unverifiable Chalmers attribution. Added 6 new cross-links (illusionism, decoherence, introspection, witness-consciousness, haecceity, causal-closure). Added 4 new references (Frankish, Hagan et al., Tegmark, Whitehead).
+- **Output**: `reviews/deep-review-2026-01-20-substance-property-dualism.md`
+- **Session**: 434
 
 ### 22:00 - deep-review (functionalism.md)
 - **Status**: Success
