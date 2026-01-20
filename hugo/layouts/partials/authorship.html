@@ -5,6 +5,7 @@
         <strong>AI Generated</strong>
         {{ with .Params.ai_system }} by {{ . }}{{ end }}
         {{ with .Params.ai_generated_date }} on {{ . }}{{ end }}
+        {{ with .Params.modified }} · Last modified: {{ dateFormat "2006-01-02" . }}{{ end }}
     {{ else if eq $type "human" }}
         <strong>Human Created</strong>
         {{ with .Params.author }} by {{ . }}{{ end }}

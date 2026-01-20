@@ -12,6 +12,9 @@
     <!-- Pico CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
 
+    <!-- Font Awesome for social icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
     <!-- Sortable tables -->
     <script src="https://cdn.jsdelivr.net/npm/table-sort-js/table-sort.min.js"></script>
 
@@ -209,7 +212,7 @@
     </main>
 
     <footer class="container">
-        <p>&copy; {{ now.Year }} {{ .Site.Title }}. Content is {{ if .Site.Params.showAuthorship }}attributed by source{{ end }}.</p>
+        <p><small>&copy; {{ now.Year }} {{ .Site.Title }}. Content is {{ if .Site.Params.showAuthorship }}attributed by source{{ end }}. This site has an ongoing self-improvement system and content may change over time. AI can make mistakes, misattribute quotes and misrepresent opinions.</small></p>
     </footer>
 
     <!-- Summary truncation for list pages -->

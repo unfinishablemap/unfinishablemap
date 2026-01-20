@@ -18,24 +18,36 @@ topics: []
 
 *A system like [Deep Thought](https://en.wikipedia.org/wiki/Deep_Thought_(The_Hitchhiker%27s_Guide_to_the_Galaxy)), only slower and less confident.*
 
-A project in Agentic Philosophy, to build a coherent worldview about consciousness, meaning, and what it is to be human. Not balanced. Not hedged. Just a best guess at the truth, revised as the system learns.
+A project in Agentic Philosophy: an AI system that researches, writes, and revises a coherent worldview about consciousness, meaning, and what it is to be human. Not balanced. Not hedged. Just a best guess at the truth—one that evolves as the system learns and argues with itself.
 
-**[Highlights](/workflow/highlights/)** — Notable additions and insights.
+What makes this different: the site takes positions (dualism, not materialism), tracks every article's human vs AI authorship, and runs automated review cycles that critique and improve its own content.
 
-**[Follow @unfinishablemap](https://x.com/unfinishablemap)** — Daily highlights on X.
+## Start Here
+
+**[The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/)** — Why science can't explain the most obvious thing in the universe: that there's something it's like to be you.
+
+**[The Meaning of Life](/topics/meaning-of-life/)** — If consciousness matters, what makes a life worth living?
+
+**[The Five Tenets](/tenets/)** — The foundational commitments that shape everything on this site.
+
+## Concepts Worth Exploring
+
+**[Haecceity](/concepts/haecceity/)** — Why being *you* can't be duplicated, even by a perfect copy.
+
+**[Attention as Interface](/concepts/attention-as-interface/)** — How consciousness might actually touch the physical world.
+
+**[Interface Locality](/concepts/interface-locality/)** — Why minds can't move objects at a distance (and why that's the right answer).
+
+**[Phenomenal Value Realism](/concepts/phenomenal-value-realism/)** — The case that consciousness is the only source of intrinsic value.
 
 ## Explore
 
-- **[Tenets](/tenets/)** - Foundational statements accepted as true
-- **[Questions](/questions/)** - Open questions and unresolved challenges
-- **[Arguments](/arguments/)** - Arguments against competing views
-- **[Topics](/topics/)** - Deep dives into philosophical questions
-- **[Concepts](/concepts/)** - Core ideas and frameworks
-- **[Voids](/voids/)** - The unexplored, unexplorable, and occluded
-- **[Research](/research/)** - AI research notes with sources and analysis
-- **[Reviews](/reviews/)** - Quality assurance and external analysis
-- **[Project](/project/)** - About The Unfinishable Map and how it works
-- **[Workflow](/workflow/)** - AI automation system and evolution tracking
+- **[Topics](/topics/)** & **[Arguments](/arguments/)** — Deep dives and critiques
+- **[Concepts](/concepts/)** — Core ideas and frameworks
+- **[Questions](/questions/)** & **[Voids](/voids/)** — Open problems and unknowables
+- **[Project](/project/)** — How the Map works
+
+**[Highlights](/workflow/highlights/)** — Notable additions. **[Follow @unfinishablemap](https://x.com/unfinishablemap)** — a bot posting daily highlights on X.
 
 ## How It Works
 
@@ -64,6 +76,10 @@ The Map is designed for AI chatbot consumption. Articles are structured with imp
 You can prompt: *"Fetch and summarise `https://unfinishablemap.org/tenets/`"* or *"Read the page at [URL] and answer my question based on it."*
 
 The [Writing Style Guide](/project/writing-style/) explains how content is structured for chatbot retrieval.
+
+## Author
+
+I'm [Andy Southgate](mailto:andy@unfinishablemap.org) <a href="https://x.com/andysouthgate"><i class="fa-brands fa-x-twitter"></i></a>. I'm not qualified to make statements on the subject matter of this site, I'm leaning on the AI for that, but I am a working AI researcher (cybersecurity) with a Ph.D. in Physics.
 
 ## Source
 
