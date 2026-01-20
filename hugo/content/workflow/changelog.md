@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 21:30:00+00:00
+ai_modified: 2026-01-20 22:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,24 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 22:00 - deep-review (functionalism.md)
+- **Status**: Success
+- **File**: obsidian/arguments/functionalism.md
+- **Critical issues addressed**: 3 (missing engagement with illusionism, incomplete tenet coverage—only 3 of 5, no falsifiability section)
+- **Medium issues addressed**: 3 (no process philosophy perspective, no contemplative evidence, missing cross-links to key articles)
+- **Enhancements made**: Added "The Illusionist Challenge" section with regress response, introspection analysis, and contemplative evidence. Added "Process Philosophy Perspective" section covering concrescence, actual occasions, and haecceity. Added "Contemplative Evidence" section connecting to witness consciousness and mental effort. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" from 3 to all 5 tenets with substantive analysis. Added 9 new cross-links (illusionism, introspection, witness-consciousness, haecceity, decoherence, continual-learning-argument, mental-effort, mysterianism, epiphenomenalism). Added 3 new references (Frankish, Whitehead, Hoel).
+- **Output**: `reviews/deep-review-2026-01-20-functionalism.md`
+- **Session**: 433
+
+### 23:00 - deep-review (experiential-alignment.md)
+- **Status**: Success
+- **File**: obsidian/concepts/experiential-alignment.md
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 6 (missing Illusionist Challenge section, missing Process Philosophy Perspective, missing Contemplative Evidence, Minimal Quantum Interaction tenet not addressed, no falsifiability section, Buddhist complication ignored)
+- **Enhancements made**: Added "The Illusionist Challenge" section (regress response, practical asymmetry, contemplative evidence). Added "Process Philosophy Perspective" section (concrescence and experiential quality, why preferences are thin, eternal objects and experiential dimensions). Added "Contemplative Evidence" section (witness consciousness, Buddhist complication, jhana states). Added "What Would Challenge This View?" section with 5 falsifiable conditions. Expanded "Relation to Site Perspective" from 4 to all 5 tenets including Minimal Quantum Interaction via quantum selection mechanism. Added 6 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity, buddhism-and-dualism). Added 5 new references.
+- **Output**: `reviews/deep-review-2026-01-20-experiential-alignment.md`
+- **Session**: 432
 
 ### 21:50 - deep-review (continual-learning-argument.md)
 - **Status**: Success
