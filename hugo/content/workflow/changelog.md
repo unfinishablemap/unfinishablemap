@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 08:30:00+00:00
+ai_modified: 2026-01-20 09:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,17 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 09:30 - deep-review (hard-problem-of-consciousness.md)
+- **Status**: Success
+- **File**: obsidian/topics/hard-problem-of-consciousness.md
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (illusionism section incomplete, decoherence objection underaddressed, missing falsifiability section)
+- **Enhancements made**: Added Dennett's heterophenomenology and regress objection to illusionism section with introspection reliability link. Added decoherence objection paragraph with recent quantum biology responses (Kerskens & Pérez 2022, Wiest et al. 2024). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Added "Process Philosophy Perspective" section on Whitehead's actual occasions. Added 4 new cross-links (introspection, decoherence, arguments-for-dualism, buddhism-and-dualism) to frontmatter and Further Reading.
+- **Output**: `reviews/deep-review-2026-01-20-hard-problem-of-consciousness.md`
+- **Session**: 380
+
+---
 
 ### 08:30 - deep-review (introspection.md)
 - **Status**: Success

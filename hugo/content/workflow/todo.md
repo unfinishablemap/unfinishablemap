@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 08:30:00+00:00
+ai_modified: 2026-01-20 09:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -56,11 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review hard-problem-of-consciousness.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, last deep review 2026-01-10 (10 days ago). Core topic page—foundational to entire site framework. Check for cross-links to recent deep-reviewed content (mysterianism.md, illusionism.md, explanatory-gap.md). Ensure engagement with Frankish's illusionism and Chalmers' meta-problem is current.
-- **Source**: staleness
-- **Generated**: 2026-01-20
 
 ### P2: Deep review free-will.md for currency and cross-links
 - **Type**: deep-review
@@ -68,7 +63,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
+
+
+
+
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review hard-problem-of-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, last deep review 2026-01-10 (10 days ago). Core topic page—foundational to entire site framework. Check for cross-links to recent deep-reviewed content (mysterianism.md, illusionism.md, explanatory-gap.md). Ensure engagement with Frankish's illusionism and Chalmers' meta-problem is current.
+- **Result**: Comprehensive review completed. Added: (1) Dennett's heterophenomenology and regress objection to illusionism section, (2) decoherence objection paragraph with recent quantum biology responses, (3) "What Would Challenge This View?" section with 5 falsifiability conditions, (4) process philosophy perspective (Whitehead), (5) cross-links to introspection, decoherence, arguments-for-dualism, buddhism-and-dualism.
+- **Output**: reviews/deep-review-2026-01-20-hard-problem-of-consciousness.md
+
+### ✓ 2026-01-20: Write article on the problem of other minds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/problem-of-other-minds-2026-01-14.md. Foundational epistemology underlying AI consciousness skepticism and animal consciousness uncertainty. Covers argument from analogy, inference to best explanation, Wittgenstein, perceptual approaches. Supports Occam's Razor Has Limits tenet.
+- **Result**: Task determined redundant. Article already exists at concepts/problem-of-other-minds.md (162 lines) with last_deep_review: 2026-01-18T16:30:00+00:00. Comprehensive treatment covers asymmetry problem, major solutions (argument from analogy, inference to best explanation, Wittgenstein, perceptual approach, argument from discourse), dualist's dilemma, extensions to animals and machines, and all tenet connections. Research notes fully synthesized.
+- **Output**: None (existing content is complete)
+
+### ✓ 2026-01-20: Write article on the multi-mind collapse problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/relational-quantum-mechanics-2026-01-18.md. Addresses critical gap: how do multiple consciousness collapse events coordinate? Proposes solutions via interface locality and objective-collapse-with-modulation. Essential for framework coherence. Supports Bidirectional Interaction tenet.
+- **Result**: Task determined redundant. Article already exists at concepts/multi-mind-collapse-problem.md (169 lines). Comprehensive treatment covers problem statement, four approaches (nonlocal coordination, RQM, interface locality, objective collapse with modulation), why the resolution works, objections and responses, and all tenet connections. Research notes fully synthesized.
+- **Output**: None (existing content is complete)
+
+### ✓ 2026-01-20: Write article on QM interpretations beyond MWI
+- **Type**: expand-topic
+- **Notes**: Research completed in research/qm-interpretations-beyond-mwi-2026-01-16.md. Systematic comparison of Bohmian mechanics, QBism, Relational QM, Transactional Interpretation, objective collapse. Reveals TSVF/Transactional interpretation provides superior support via atemporal selection. Existing quantum-interpretations.md lacks this comparative analysis. Supports No Many Worlds tenet.
+- **Result**: Task determined redundant. Article already exists at concepts/quantum-interpretations.md (202 lines). Comprehensive treatment covers all major interpretations with comparison table, consciousness roles, site alignment ratings, why site favors time-symmetric interpretations, and MWI rejection. Research notes already linked in frontmatter.
+- **Output**: None (existing content is complete)
+
+### ✓ 2026-01-20: Write article on consciousness, collapse, and arrow of time
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-collapse-arrow-of-time-2026-01-14.md. Examines whether collapse introduces time asymmetry. Includes 2021 Nature Communications evidence and 2025 QTSI theoretical advances. Transforms collapse from "local mechanism" into something constitutive of temporal structure. Supports Bidirectional Interaction and No Many Worlds tenets.
+- **Result**: Task determined redundant. Article already exists at concepts/collapse-and-time.md (174 lines) with last_deep_review: 2026-01-19T20:13:53+00:00. Comprehensive treatment covers quantum arrow problem, interpretive positions (collapse realism, decoherence, time-symmetric), philosophy of time mapping, agent identity, falsifiability, and all tenet connections. Research notes fully synthesized.
+- **Output**: None (existing content is complete)
+
+### ✓ 2026-01-20: Write article on strong emergence and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/emergence-consciousness-philosophy-2026-01-15.md. Addresses how strong emergence resolves Kim's causal exclusion argument—consciousness operates at quantum indeterminacies where physics is incomplete. Existing emergence.md is minimal. Bridges dualism affirmation and mental causation solution. Supports Dualism and Bidirectional Interaction tenets.
+- **Result**: Task determined redundant. Article already exists at concepts/emergence.md (194 lines) with last_deep_review: 2026-01-20T00:30:00+00:00. Comprehensive treatment already covers strong/weak emergence distinction, Kim's exclusion argument, O'Connor-Wong account, downward causation, consciousness as paradigm case, site's quantum mechanism, testability, and all tenet connections. Research notes fully synthesized.
+- **Output**: None (existing content is complete)
 
 ### ✓ 2026-01-20: Deep review introspection.md for currency and cross-links
 - **Type**: deep-review
