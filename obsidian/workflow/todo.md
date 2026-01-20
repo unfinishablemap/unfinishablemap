@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T18:30:00+00:00
+ai_modified: 2026-01-20T19:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review cognitive-phenomenology.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Covers the phenomenal character of thought itself—whether thinking has irreducible experiential quality beyond sensory imagery. Check for cross-links to phenomenology.md, semantic-memory.md, introspection.md, llm-consciousness.md. Supports Dualism via the non-sensory phenomenology of understanding.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review implicit-memory.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page, never deep-reviewed. Covers non-conscious memory systems (procedural, priming, conditioning). Check for cross-links to episodic-memory.md, semantic-memory.md, working-memory.md, consciousness-selecting-neural-patterns.md. Supports Dualism via the contrast between conscious and non-conscious processing.
@@ -71,6 +65,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review cognitive-phenomenology.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers the phenomenal character of thought itself—whether thinking has irreducible experiential quality beyond sensory imagery. Check for cross-links to phenomenology.md, semantic-memory.md, introspection.md, llm-consciousness.md. Supports Dualism via the non-sensory phenomenology of understanding.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with regress response and phenomenology-survives-analysis subsections. Added "Contemplative Evidence" section covering witness consciousness, jhāna states, and insight phenomenology. Added "Process Philosophy Perspective" section (prehension, concrescence, sui generis character). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded Relation to Site Perspective to all 5 tenets including Minimal Quantum Interaction. Added 5 new cross-links (illusionism, witness-consciousness, attention-as-interface, haecceity, decoherence). Added 4 new references.
+- **Output**: obsidian/concepts/cognitive-phenomenology.md, obsidian/reviews/deep-review-2026-01-20-cognitive-phenomenology.md
 
 ### ✓ 2026-01-20: Deep review death-and-consciousness.md for currency and cross-links
 - **Type**: deep-review
