@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T14:30:00+00:00
+ai_modified: 2026-01-20T15:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,15 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review llm-consciousness.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Addresses whether large language models might be conscious—highly relevant given 2024-2025 AI developments. Check for cross-links to ai-consciousness.md, functionalism.md, substrate-independence-critique.md. Ensure engagement with recent LLM consciousness debates is current.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review autonoetic-consciousness.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page, never deep-reviewed. Self-reflective awareness crucial for site's defense of introspection as evidence source. Check for cross-links to episodic-memory.md, metacognition.md, introspection.md, self-and-consciousness.md. Supports Dualism via first-person privileged access.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review multi-mind-collapse-problem.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Addresses critical gap: how do multiple consciousness collapse events coordinate? Core to Bidirectional Interaction tenet. Check for cross-links to interface-locality.md, prebiotic-collapse.md, relational-quantum-mechanics.md. Ensure engagement with multi-observer coordination problem is current.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review mind-matter-interface.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Unifies filter theory and quantum selection mechanisms—core to site's two-layer architecture. Check for cross-links to filter-theory.md, quantum-consciousness.md, consciousness-selecting-neural-patterns.md. Supports Bidirectional Interaction tenet.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review episodic-memory.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers autobiographical memory and re-experiencing—connects to autonoetic consciousness and temporal consciousness. Check for cross-links to autonoetic-consciousness.md, semantic-memory.md, personal-identity.md. Supports Dualism via phenomenal reconstruction.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
@@ -65,6 +77,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review llm-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Addresses whether large language models might be conscious—highly relevant given 2024-2025 AI developments. Check for cross-links to ai-consciousness.md, functionalism.md, substrate-independence-critique.md. Ensure engagement with recent LLM consciousness debates is current.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with 4 subsections (regress, architecture, contemplative evidence, bidirectional implication). Added "Process Philosophy Perspective" section (actual occasions, becoming vs calculation, combination problem). Added "The Haecceity Problem" section on multiple instantiability. Added "The Decoherence Context" section on silicon engineering. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets. Added 8 new cross-links (illusionism, introspection, decoherence, haecceity, witness-consciousness, combination-problem, substrate-independence-critique, hard-problem-of-consciousness). Added 5 new references.
+- **Output**: obsidian/concepts/llm-consciousness.md, obsidian/reviews/deep-review-2026-01-20-llm-consciousness.md
 
 ### ✓ 2026-01-20: Deep review relational-quantum-mechanics.md for currency and cross-links
 - **Type**: deep-review
