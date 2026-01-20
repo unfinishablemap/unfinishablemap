@@ -21,6 +21,15 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-20
 
+### 22:10 - deep-review (substance-property-dualism.md)
+- **Status**: Success
+- **File**: obsidian/concepts/substance-property-dualism.md
+- **Critical issues addressed**: 3 (unverifiable Chalmers 2016 citation, missing illusionism engagement, missing decoherence discussion)
+- **Medium issues addressed**: 4 (no falsifiability section, missing contemplative evidence, missing process philosophy perspective, thin tenet coverage)
+- **Enhancements made**: Added "The Illusionist Challenge" section with three responses (regress problem, introspection survives, contemplative challenge). Added "The Decoherence Challenge" section with Tegmark objection and three mitigations. Added "Contemplative Evidence" section (witness consciousness, Buddhist complication). Added "Process Philosophy Perspective" section (actual occasions, concrescence). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets with substantive analysis. Fixed unverifiable Chalmers attribution. Added 6 new cross-links (illusionism, decoherence, introspection, witness-consciousness, haecceity, causal-closure). Added 4 new references (Frankish, Hagan et al., Tegmark, Whitehead).
+- **Output**: `reviews/deep-review-2026-01-20-substance-property-dualism.md`
+- **Session**: 434
+
 ### 22:00 - deep-review (functionalism.md)
 - **Status**: Success
 - **File**: obsidian/arguments/functionalism.md
