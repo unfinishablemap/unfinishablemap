@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 07:58:00+00:00
+ai_modified: 2026-01-20 09:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review limits-reveal-structure.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: Voids article exploring how cognitive limits reveal structure rather than mere ignorance. Never deep-reviewed. Check for cross-links to mysterianism.md, apophatic-approaches.md, whether-real.md, phenomenology-of-the-edge.md. Core to Occam's Razor Has Limits tenet—argues limits are informative.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
-### P2: Deep review qualia.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, never deep-reviewed. Core concept for Dualism tenet—the intrinsic qualitative character of experience. Check for cross-links to knowledge-argument.md, inverted-qualia.md, explanatory-gap.md, phenomenology.md. Ensure engagement with illusionism and response to Dennett's "quining qualia" is well-developed.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review philosophical-zombies.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, never deep-reviewed. Key conceivability argument for dualism. Check for cross-links to arguments-for-dualism.md, hard-problem-of-consciousness.md, functionalism.md. Ensure engagement with Type-B physicalism responses and 2D semantics is current.
@@ -84,6 +72,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review qualia.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, never deep-reviewed. Core concept for Dualism tenet—the intrinsic qualitative character of experience. Check for cross-links to knowledge-argument.md, inverted-qualia.md, explanatory-gap.md, phenomenology.md. Ensure engagement with illusionism and response to Dennett's "quining qualia" is well-developed.
+- **Result**: Comprehensive review completed. Added "Process Philosophy Perspective" section connecting qualia to Whitehead's actual occasions (intrinsicness, privacy, ineffability, direct apprehension). Added "What Would Challenge This View?" section with five falsifiability conditions. Expanded "Relation to Site Perspective" from 2 tenets to all 5 with substantive connections. Added "Dennett's Heterophenomenology" subsection with dilemma response. Added 5 new cross-links (explanatory-gap, introspection, decoherence, witness-consciousness, combination-problem) to frontmatter and Further Reading. Added 6 new references.
+- **Output**: obsidian/concepts/qualia.md, obsidian/reviews/deep-review-2026-01-20-qualia.md
+
+### ✓ 2026-01-20: Deep review limits-reveal-structure.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: Voids article exploring how cognitive limits reveal structure rather than mere ignorance. Never deep-reviewed. Check for cross-links to mysterianism.md, apophatic-approaches.md, whether-real.md, phenomenology-of-the-edge.md. Core to Occam's Razor Has Limits tenet—argues limits are informative.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with three responses (regress, representational closure, symptomatic interpretation). Added "Process Philosophy Perspective" section connecting Whitehead's actual occasions to limits-as-selection, architecture-as-process, and creativity-and-closure. Added "What Would Challenge This View?" section with five falsifiability conditions. Expanded "Relation to Site Perspective" to cover all five tenets explicitly. Added 5 new cross-links (phenomenology-of-the-edge, whether-real, illusionism, introspection, decoherence) to frontmatter and Further Reading. Added 4 new references (Frankish, Kriegel, Whitehead, Dennett).
+- **Output**: obsidian/voids/limits-reveal-structure.md, obsidian/reviews/deep-review-2026-01-20-limits-reveal-structure.md
 
 ### ✓ 2026-01-20: Deep review apophatic-approaches.md for cross-linking
 - **Type**: deep-review
