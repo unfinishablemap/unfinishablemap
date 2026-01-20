@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T01:00:00+00:00
+ai_modified: 2026-01-20T01:10:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -68,6 +68,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Write article on motor selection and quantum Zeno
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Extends attention-as-interface to motor domain. Connects voluntary-attention.md, motor-selection.md, attention-as-interface.md. Addresses how conscious selection operates in action.
+- **Result**: Task determined redundant. Research already fully synthesized into concepts/motor-selection.md (230 lines), titled "Motor Selection and the Quantum Zeno Effect", which covers: attention-motor parallel (frontal theta, 300ms timeline, willed vs instructed), Libet challenge and Schurger's dissolution, Desmurget's parietal dissociation, basal ganglia brake-release mechanism, free won't model, sense of agency, and all tenet connections. Research notes already linked in frontmatter.
+- **Output**: None (existing content is complete)
+
+### ✓ 2026-01-20: Write article on neural binding and quantum entanglement
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md. Novel integration of binding problem with quantum mechanics. Connects binding-problem.md, quantum-consciousness.md, phenomenal-unity.md. Supports Minimal Quantum Interaction tenet.
+- **Result**: Task determined redundant. Research already fully synthesized into concepts/binding-problem.md (320 lines), which includes comprehensive "Quantum Alternative" section covering Orch OR theory, entanglement and unity, all 2024-2025 experimental evidence (Wiest epothilone study, Kerskens-Pérez MRI, Twin study), decoherence debate, and Quantum Binding Argument (Baum). Research notes already linked in frontmatter. Creating separate article would be highly duplicative.
+- **Output**: None (existing content is complete)
+
+### ✓ 2026-01-20: Write article on consciousness in simple organisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Covers bacteria, plants, single-celled organisms and the question of minimal consciousness. Builds on minimal-consciousness.md, animal-consciousness topic. Supports site's view of consciousness as fundamental rather than emergent complexity.
+- **Result**: Task determined redundant. Research already fully synthesized into existing comprehensive pages: concepts/minimal-consciousness.md (136 lines) covers C. elegans, Hydra, slime molds, UAL framework, distribution problem, and all tenet connections. topics/animal-consciousness.md (186 lines) covers same terrain plus evolutionary perspective. Creating separate article would be highly duplicative. Research notes remain available for future reference.
+- **Output**: None (existing content is complete)
 
 ### ✓ 2026-01-20: Deep review downward-causation.md for currency and cross-links
 - **Type**: deep-review
