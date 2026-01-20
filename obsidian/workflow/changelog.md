@@ -19,6 +19,19 @@ last_curated:
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
+## 2026-01-20
+
+### 12:45 - deep-review (mental-effort.md)
+- **Status**: Success
+- **File**: obsidian/concepts/mental-effort.md
+- **Critical issues addressed**: 4 (no illusionist engagement, missing process philosophy perspective, no falsifiability section, incomplete tenet coverage - only 3 of 5)
+- **Medium issues addressed**: 2 (thin decoherence response, missing contemplative witness connection)
+- **Enhancements made**: Added "The Illusionist Challenge" section with regress response, phenomenology survives analysis, and functional point subsections. Added "Process Philosophy Perspective" section connecting Whitehead's actual occasions to selection mechanism (effort as selection, why effort should feel like work, effortless states in process terms). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded decoherence response from 2 paragraphs to comprehensive 4-part treatment. Expanded "Relation to Site Perspective" from 3 tenets to all 5 with substantive connections (especially No Many Worlds and Occam's Razor Has Limits). Added 5 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity). Added 5 new references.
+- **Output**: `reviews/deep-review-2026-01-20-mental-effort.md`
+- **Session**: 406
+
+---
+
 ## 2026-01-21
 
 ### 15:30 - deep-review (consciousness-selecting-neural-patterns.md)

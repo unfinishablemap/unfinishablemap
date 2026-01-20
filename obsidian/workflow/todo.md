@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
-### P2: Deep review mental-effort.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Covers Stapp's quantum Zeno mechanism where mental effort holds neural patterns—critical for Minimal Quantum Interaction tenet. Check for cross-links to quantum-consciousness.md, voluntary-attention.md, attention-as-interface.md. Ensure Schwartz et al. OCD studies are included.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review llm-consciousness.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page, never deep-reviewed. Addresses whether large language models might be conscious—highly relevant given 2024-2025 AI developments. Check for cross-links to ai-consciousness.md, functionalism.md, substrate-independence-critique.md. Ensure engagement with recent LLM consciousness debates is current.
@@ -83,6 +77,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review mental-effort.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers Stapp's quantum Zeno mechanism where mental effort holds neural patterns—critical for Minimal Quantum Interaction tenet. Check for cross-links to quantum-consciousness.md, voluntary-attention.md, attention-as-interface.md. Ensure Schwartz et al. OCD studies are included.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with regress response, phenomenology survives analysis, and functional point subsections. Added "Process Philosophy Perspective" section connecting Whitehead's actual occasions to selection mechanism. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded decoherence response from 2 paragraphs to comprehensive 4-part treatment. Expanded "Relation to Site Perspective" from 3 tenets to all 5 with substantive connections (especially No Many Worlds and Occam's Razor Has Limits). Added 5 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity). Added 5 new references.
+- **Output**: obsidian/concepts/mental-effort.md, obsidian/reviews/deep-review-2026-01-20-mental-effort.md
 
 ### ✓ 2026-01-20: Deep review consciousness-selecting-neural-patterns.md for currency and cross-links
 - **Type**: deep-review
