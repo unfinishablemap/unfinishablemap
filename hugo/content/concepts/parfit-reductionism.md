@@ -64,7 +64,7 @@ The liberating aspect extends to self-interest. If identity is just pattern-cont
 
 ## Why this site Rejects Parfit
 
-the site's framework provides several grounds for rejecting reductionism.
+The site's framework provides several grounds for rejecting reductionism.
 
 ### Patterns Don't Make Choices
 
@@ -72,7 +72,7 @@ On Parfit's view, there's nothing more to being *you* than instantiating a parti
 
 When you deliberate about whether to help a friend or lie to them, who is doing the deliberating? On Parfit's view, it's just the pattern—or rather, there is no "who" beyond the psychological events that constitute the deliberation. But this conflicts with the phenomenology of agency. *I* deliberate. *I* choose. The subject of the choosing seems to be something over and above the psychological events themselves.
 
-the site's [agent-causal](/concepts/agent-causation/) framework makes this explicit: agents cause actions as persisting substances, not as patterns. The agent who chooses is the same agent who will experience the consequences. This requires something more than pattern-continuity: it requires [indexical identity](/concepts/haecceity/)—this being, not just any being with this pattern.
+The site's [agent-causal](/concepts/agent-causation/) framework makes this explicit: agents cause actions as persisting substances, not as patterns. The agent who chooses is the same agent who will experience the consequences. This requires something more than pattern-continuity: it requires [indexical identity](/concepts/haecceity/)—this being, not just any being with this pattern.
 
 ### Zombies and Identity
 
@@ -92,13 +92,13 @@ Parfit's view converges troublingly with the [many-worlds](/arguments/many-world
 | Identity question | May lack determinate answer | Dissolves: all branches equally real |
 | Indexical fact | Not a deep fact | Not a fact at all |
 
-the site's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects many-worlds partly because it eliminates indexical identity. The question "which branch am I?" has no answer—all branches are equally real, and there's no fact about which one "is" you. But this seems to leave out something essential: *I* experience one outcome, not all outcomes.
+The site's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects many-worlds partly because it eliminates indexical identity. The question "which branch am I?" has no answer—all branches are equally real, and there's no fact about which one "is" you. But this seems to leave out something essential: *I* experience one outcome, not all outcomes.
 
 Parfit shares this feature. On his view, when I ask "will I survive?" the question may have no determinate answer—not because the facts are uncertain, but because there's no deep fact to be uncertain about. Yet it seems like there *is* such a fact. Either I will wake up tomorrow or I won't. The indeterminacy seems to be in the theory, not in reality.
 
 ### Causal History and Quantum Selection
 
-the site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. If so, your consciousness has a unique causal history—the particular pattern of quantum selections, choices, and physical effects that constitute your life.
+The site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. If so, your consciousness has a unique causal history—the particular pattern of quantum selections, choices, and physical effects that constitute your life.
 
 A replica would lack this causal history. Even if psychologically identical, the replica's consciousness (if it had any) would begin its causal engagement from creation, not from your birth. The causal chain that constitutes *your* influence on the world doesn't extend to the replica.
 
@@ -122,7 +122,7 @@ If patterns are what matter, and patterns are repeatable, why should I care spec
 
 Parfit bites this bullet—he says the second scenario preserves what matters. But most people find this deeply counterintuitive. The intuition that I would die in the second scenario, regardless of the replica's existence, seems robust.
 
-the site's framework explains the intuition: you would die because you are not the replica. The replica might be conscious, might even have your psychology, but it would be a numerically distinct consciousness. *You*—this particular subject—would cease to exist.
+The site's framework explains the intuition: you would die because you are not the replica. The replica might be conscious, might even have your psychology, but it would be a numerically distinct consciousness. *You*—this particular subject—would cease to exist.
 
 ## What the Rejection Implies
 
@@ -202,7 +202,7 @@ This provides metaphysical grounding for the intuition that replicas aren't you.
 
 ## What Would Challenge This View?
 
-the site's rejection of Parfit would face serious difficulty if:
+The site's rejection of Parfit would face serious difficulty if:
 
 1. **Successful illusionist reduction of identity.** If neuroscience could fully explain why we *seem* to be particular subjects persisting through time—why the illusion is compelling—without positing actual particularity, the phenomenological foundation would be undermined. Current explanations face the regress problem.
 

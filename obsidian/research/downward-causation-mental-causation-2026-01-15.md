@@ -142,7 +142,7 @@ Quantum mechanics may provide what dualists need: genuine physical incompletenes
 
 ### Downward Causation and the site's Framework
 
-the site's Bidirectional Interaction tenet explicitly affirms downward causation—consciousness causally influences physical outcomes.
+The site's Bidirectional Interaction tenet explicitly affirms downward causation—consciousness causally influences physical outcomes.
 
 **Key alignment with O'Connor-Wong**: Their account of emergent properties with novel causal powers closely matches the site's framework. Their "structural triggering conditions" parallel how quantum indeterminacies in neural systems provide openings for consciousness to act. the site specifies the quantum mechanism they leave abstract.
 

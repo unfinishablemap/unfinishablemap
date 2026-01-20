@@ -17,7 +17,7 @@ ai_generated_date: 2026-01-05
 last_curated:
 ---
 
-this site uses scheduled AI automation to develop content over time. The system is designed to converge toward a comprehensive philosophical compendium while maintaining human oversight and alignment with the site's [[tenets]].
+This site uses scheduled AI automation to develop content over time. The system is designed to converge toward a comprehensive philosophical compendium while maintaining human oversight and alignment with the site's [[tenets]].
 
 ## How It Works
 

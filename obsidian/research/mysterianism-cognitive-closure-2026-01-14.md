@@ -200,7 +200,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 ## Connection to Voids Framework
 
-the site's "voids" concept (cognitive gaps, unchartable territories) resonates with mysterianism. McGinn's property "P" might be void territory—something that exists but lies beyond our conceptual reach. The difference: the site's voids framework suggests we can map the *edges* of void territory (apophatic approaches), while mysterianism suggests we can't even identify what we're missing.
+The site's "voids" concept (cognitive gaps, unchartable territories) resonates with mysterianism. McGinn's property "P" might be void territory—something that exists but lies beyond our conceptual reach. The difference: the site's voids framework suggests we can map the *edges* of void territory (apophatic approaches), while mysterianism suggests we can't even identify what we're missing.
 
 ## Citations
 

@@ -185,7 +185,7 @@ The pairing problem differs from the causal closure objection. Closure grants th
 
 Three responses dominate the literature. First, contemporary dualists like William Hasker and Dean Zimmerman argue minds *are* spatially located—in the brain region where they causally interact. This dissolves the pairing problem while maintaining dualism's core claim that minds differ ontologically from matter. Second, Andrew Bailey, Joshua Rasmussen, and Luke Van Horn invoke haecceities—primitive "thisness" that individuates particulars independently of their properties. If haecceities ground pairing, no spatial relation is needed. Third, some argue causation doesn't require spatial relations at all, pointing to abstract objects, laws of nature, and temporal causation as counterexamples.
 
-the site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework provides a natural response: consciousness is located where it causally interfaces with the brain. If consciousness influences quantum outcomes in specific neural structures, it is located *where those structures are*. The pairing relation is the causal interface itself—M1 is paired with B1 because M1 causally affects B1's quantum processes specifically. This addresses both the causal closure objection (physics has gaps where consciousness acts) and the pairing problem (consciousness is located at those gaps in specific brains).
+The site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework provides a natural response: consciousness is located where it causally interfaces with the brain. If consciousness influences quantum outcomes in specific neural structures, it is located *where those structures are*. The pairing relation is the causal interface itself—M1 is paired with B1 because M1 causally affects B1's quantum processes specifically. This addresses both the causal closure objection (physics has gaps where consciousness acts) and the pairing problem (consciousness is located at those gaps in specific brains).
 
 ## Intentionality: The Aboutness of Mind
 
@@ -334,7 +334,7 @@ These principles don't *solve* the hard problem—they specify constraints on wh
 
 **Recent Development**: In "Consciousness and the Collapse of the Wave Function" (2022), Chalmers and Kelvin McQueen develop a quantum version combining IIT with collapse theory. Their "super-resistance principle" holds that consciousness resists superposition—systems with high integrated information collapse to definite conscious states. This addresses why distinct conscious states don't superpose and provides a mechanism for consciousness to causally affect physical outcomes without violating closure (since collapse is physically underdetermined).
 
-the site's [psychophysical coupling law](/concepts/psychophysical-coupling-law/) framework builds on Chalmers' work while emphasizing the *downward* direction: Chalmers' principles primarily specify how physical states yield experiences; the site needs laws specifying how conscious states (attention, intention, effort) produce physical selections. See [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) for how the site develops this complementary direction.
+The site's [psychophysical coupling law](/concepts/psychophysical-coupling-law/) framework builds on Chalmers' work while emphasizing the *downward* direction: Chalmers' principles primarily specify how physical states yield experiences; the site needs laws specifying how conscious states (attention, intention, effort) produce physical selections. See [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) for how the site develops this complementary direction.
 
 ### Russellian Monism
 
@@ -344,7 +344,7 @@ This creates conceptual space: if physics captures only structure, something mus
 
 The view faces its own hard problem: the combination problem. If electrons have micro-experiences (panpsychist Russellian monism) or proto-phenomenal properties (panprotopsychist version), how do billions of them combine into one unified consciousness? The unity of experience seems to resist the compositional logic that works for physical properties. Critics like Adam Pautz argue that Russellian monism ultimately requires "grounding laws" connecting quiddities to consciousness—brute fundamental laws no better than the psychophysical laws dualism posits. It may be, as Pautz puts it, "dualism under another name."
 
-the site's [explicit dualism](/tenets/#dualism) takes a cleaner approach. Rather than positing mysterious quiddities that are somehow both physical and phenomenal, it acknowledges that consciousness is distinct from physical structure. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) mechanism provides concrete content to the mind-matter interface that Russellian monism leaves schematic. Yet Russellian monism's core insight—that physics is silent on intrinsic nature—aligns with the site's recognition that physical explanation cannot reach experience.
+The site's [explicit dualism](/tenets/#dualism) takes a cleaner approach. Rather than positing mysterious quiddities that are somehow both physical and phenomenal, it acknowledges that consciousness is distinct from physical structure. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) mechanism provides concrete content to the mind-matter interface that Russellian monism leaves schematic. Yet Russellian monism's core insight—that physics is silent on intrinsic nature—aligns with the site's recognition that physical explanation cannot reach experience.
 
 ### Analytic Idealism: Dissolving the Problem by Inverting It
 
@@ -356,7 +356,7 @@ Individual minds, on this view, are "dissociated alters" of universal consciousn
 
 This elegantly sidesteps the hard problem. There's no explanatory gap between physical and phenomenal because "physical" *is* phenomenal—the extrinsic appearance of mental processes. But idealism trades the hard problem for a different challenge: why does this "appearance" follow regular laws? If matter is just how consciousness appears, why can't it appear differently? Why must fire burn and gravity attract? Kastrup invokes the intrinsic nature of universal consciousness as constraining how it can appear—but this structure plays the role physical law plays in dualism. Whether we call it "physical reality" or "intrinsic structure of universal consciousness," something independent of individual minds constrains experience.
 
-the site's framework differs by maintaining that physical reality exists distinctly from consciousness and that the two interact bidirectionally. This makes the regularity of physical law less puzzling—physics describes genuine external constraints—while preserving what idealism gets right: consciousness cannot emerge from what is wholly non-conscious.
+The site's framework differs by maintaining that physical reality exists distinctly from consciousness and that the two interact bidirectionally. This makes the regularity of physical law less puzzling—physics describes genuine external constraints—while preserving what idealism gets right: consciousness cannot emerge from what is wholly non-conscious.
 
 ### The Combination Problem: Panpsychism's Parallel Challenge
 
@@ -421,7 +421,7 @@ Alfred North Whitehead's process philosophy offers a framework where the hard pr
 
 This doesn't solve the hard problem but reframes it. Rather than asking "how does experience arise from non-experience?" we ask "how do micro-experiences combine into macro-experience?"—the combination problem again. But Whitehead's framework has advantages: it doesn't posit a radical emergence of something from nothing, and it provides resources for understanding temporal flow (each actual occasion "prehends" its predecessors, creating the structure of retention and protention that [temporal-consciousness](/concepts/temporal-consciousness/) requires).
 
-the site's [Dualism](/tenets/#dualism) tenet is compatible with process metaphysics, though it doesn't require it. What matters is that consciousness is fundamental rather than derivative—whether as Cartesian substance, as Whiteheadian actual occasions, or as some third alternative we haven't yet conceived.
+The site's [Dualism](/tenets/#dualism) tenet is compatible with process metaphysics, though it doesn't require it. What matters is that consciousness is fundamental rather than derivative—whether as Cartesian substance, as Whiteheadian actual occasions, or as some third alternative we haven't yet conceived.
 
 ## What Would Challenge This View?
 
@@ -453,7 +453,7 @@ The hard problem is the foundation of this site's [Dualism tenet](/tenets/). The
 
 This is not a claim that physics is wrong or that we should abandon neuroscience. It is a claim about what physical explanation can and cannot achieve. Mechanism explains mechanism. But experience may require a different kind of understanding—one that takes consciousness seriously as a fundamental feature of reality rather than an embarrassing residue to be explained away.
 
-the site's tenets explore what follows if we take the hard problem seriously. If consciousness is not reducible to physics, how might mind and matter interact? The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets sketch one possibility: consciousness influences physical outcomes at the quantum level, where physics leaves room for undetermined events.
+The site's tenets explore what follows if we take the hard problem seriously. If consciousness is not reducible to physics, how might mind and matter interact? The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets sketch one possibility: consciousness influences physical outcomes at the quantum level, where physics leaves room for undetermined events.
 
 Whether this specific proposal is correct matters less than the underlying point: the hard problem demands that we keep our ontology open. Simplicity (the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet) is not a reliable guide when we face phenomena we barely understand. The apparent simplicity of physicalism may reflect ignorance rather than insight.
 

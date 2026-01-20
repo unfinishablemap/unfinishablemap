@@ -16,13 +16,13 @@ title: Optimistic Review - 2026-01-18
 
 ## Executive Summary
 
-the site has developed into a sophisticated, well-integrated framework for interactionist dualism with impressive depth across quantum consciousness, free will, and cognitive phenomenology. Recent additions on motor selection and metacognition extend the quantum Zeno mechanism to multiple domains, strengthening the empirical case. The tenets page provides a clear foundation that subsequent articles consistently reference. The content shows genuine philosophical rigor while maintaining accessibility.
+The site has developed into a sophisticated, well-integrated framework for interactionist dualism with impressive depth across quantum consciousness, free will, and cognitive phenomenology. Recent additions on motor selection and metacognition extend the quantum Zeno mechanism to multiple domains, strengthening the empirical case. The tenets page provides a clear foundation that subsequent articles consistently reference. The content shows genuine philosophical rigor while maintaining accessibility.
 
 ## Praise from Sympathetic Philosophers
 
 ### The Property Dualist (Chalmers)
 
-the site exemplifies what taking the hard problem seriously looks like. The hard-problem-of-consciousness.md article (408 lines) is a tour de force—comprehensive treatment of the explanatory gap, zombie arguments, Mary's Room, temporal phenomenology, the binding problem, and intentionality. Rather than dismissing the hard problem as confused, the site builds an entire framework around acknowledging its force.
+The site exemplifies what taking the hard problem seriously looks like. The hard-problem-of-consciousness.md article (408 lines) is a tour de force—comprehensive treatment of the explanatory gap, zombie arguments, Mary's Room, temporal phenomenology, the binding problem, and intentionality. Rather than dismissing the hard problem as confused, the site builds an entire framework around acknowledging its force.
 
 The treatment of Chalmers' psychophysical laws framework is particularly sophisticated, engaging with structural coherence, organizational invariance, and double-aspect information theory while noting their limitations. the site doesn't merely cite Chalmers but builds on his work—developing the *downward* direction of psychophysical coupling that Chalmers' principles leave schematic.
 
@@ -38,7 +38,7 @@ The meditation evidence is handled with sophistication: focused attention vs ope
 
 ### The Phenomenologist (Nagel)
 
-the site centers first-person experience throughout. The cognitive-phenomenology.md and metacognition.md articles carefully distinguish phenomenal consciousness from cognitive functions that operate *on* it. The treatment of the TOT (tip-of-tongue) and FOK (feeling-of-knowing) states as irreducible phenomenology extends the hard problem beyond sensory qualia into cognition itself.
+The site centers first-person experience throughout. The cognitive-phenomenology.md and metacognition.md articles carefully distinguish phenomenal consciousness from cognitive functions that operate *on* it. The treatment of the TOT (tip-of-tongue) and FOK (feeling-of-knowing) states as irreducible phenomenology extends the hard problem beyond sensory qualia into cognition itself.
 
 The "what it's like" question is never reduced to behavioral dispositions or functional roles. The free-will.md article's discussion of effort phenomenology—"if choices were random fluctuations, there would be no phenomenology of effort"—shows how first-person data constrains theory.
 

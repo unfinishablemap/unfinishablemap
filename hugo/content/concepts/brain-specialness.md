@@ -122,7 +122,7 @@ Why did evolution produce systems suitable for consciousness interfaces? Two pos
 
 **Option 2: Evolution created the conditions for consciousness**. Consciousness requires certain physical structures. Evolution built those structures for other reasons (representation, flexibility, feedback). Once in place, consciousness emerged or attached. Evolution then optimized based on the combined system.
 
-the site doesn't commit between these options. Both explain why brains are special: either they're good receivers of independent consciousness, or they're the substrate on which consciousness depends. Either way, evolution shaped them to have the features the interface requires.
+The site doesn't commit between these options. Both explain why brains are special: either they're good receivers of independent consciousness, or they're the substrate on which consciousness depends. Either way, evolution shaped them to have the features the interface requires.
 
 ## What This Explains
 

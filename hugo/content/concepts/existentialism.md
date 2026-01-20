@@ -134,7 +134,7 @@ This reframing addresses Buddhism's critique of existentialist "clinging" to sel
 
 It also addresses the existentialist's fear of Buddhist "dissolution." If consciousness is irreducible at each moment (as the [Dualism tenet](/tenets/#dualism) holds), then Buddhist impermanence doesn't threaten consciousness's reality—only its permanence. You are genuinely experiencing, genuinely choosing, even if the "you" who chose yesterday is not numerically identical to the "you" choosing now. The burden lightens: no permanent self to construct or defend, yet genuine engagement remains.
 
-the site's framework thus suggests a synthesis: consciousness is real and irreducible moment-to-moment, but impermanent across moments. Existentialist self-creation operates within this flux—not building a monument but sustaining a flame. The self is neither a fixed essence to be discovered nor an illusion to be dispelled, but a genuine conscious perspective making real choices that shape what it becomes, without those choices hardening into destiny.
+The site's framework thus suggests a synthesis: consciousness is real and irreducible moment-to-moment, but impermanent across moments. Existentialist self-creation operates within this flux—not building a monument but sustaining a flame. The self is neither a fixed essence to be discovered nor an illusion to be dispelled, but a genuine conscious perspective making real choices that shape what it becomes, without those choices hardening into destiny.
 
 ## Further Reading
 

@@ -226,7 +226,7 @@ The attention-consciousness relationship remains one of the most contested topic
 
 ## Potential Article Angles
 
-the site's existing attention.md is comprehensive and well-aligned with tenets. Rather than a new article, this research supports:
+The site's existing attention.md is comprehensive and well-aligned with tenets. Rather than a new article, this research supports:
 
 1. **Updating attention.md** with 2025 adversarial testing results—the finding that neither GWT nor IIT was vindicated supports the site's position that simple theories don't capture consciousness.
 

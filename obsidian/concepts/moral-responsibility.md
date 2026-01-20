@@ -78,7 +78,7 @@ This matters for responsibility. If we can't explain why the agent chose A rathe
 
 The luck objection to libertarian free will applies to moral responsibility. If nothing about the agent explains why they chose to help rather than harm, how do they deserve praise or blame? The difference seems like luck. See [[quantum-indeterminacy-free-will]] for the full systematization of this challenge and the site's response.
 
-the site's [[free-will#Why the site's Framework Escapes Luck|response]] addresses this directly. Consciousness-selected indeterminism differs from lucky indeterminism:
+The site's [[free-will#Why the site's Framework Escapes Luck|response]] addresses this directly. Consciousness-selected indeterminism differs from lucky indeterminism:
 
 | Feature | Lucky Indeterminism | Consciousness-Selected |
 |---------|---------------------|------------------------|

@@ -122,7 +122,7 @@ The structurally similar challenge at a different level suggests that the gap be
 
 ## this site's Alternative
 
-the site's [interactionist framework](/archive/arguments/interactionist-dualism/) avoids the combination problem entirely.
+The site's [interactionist framework](/archive/arguments/interactionist-dualism/) avoids the combination problem entirely.
 
 On this view, matter does not have micro-experiences. Consciousness is not ubiquitous but *distinct*—a separate ontological category that interacts with matter rather than constituting it. There's no need to explain how micro-experiences combine because there are no micro-experiences.
 

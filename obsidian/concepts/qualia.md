@@ -208,7 +208,7 @@ Process philosophy doesn't dissolve the hard problem; it reframes it. The questi
 
 ## What Would Challenge This View?
 
-the site's position on qualia would face serious difficulty if:
+The site's position on qualia would face serious difficulty if:
 
 1. **Illusionism becomes coherent.** If a formulation of illusionism could be stated without presupposing phenomenal consciousness—without using "seeming," "appearing," or any language implying a subject of experience—the self-stultification objection would weaken. Currently no such formulation exists.
 

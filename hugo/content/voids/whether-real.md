@@ -83,7 +83,7 @@ Three responses preserve the voids framework:
 
 **Illusionism may be a symptom.** The illusionist move—denying the phenomenon rather than explaining it—might itself be what cognitive closure looks like from the inside. Unable to see how consciousness relates to matter, we face a choice: accept the mystery or deny there's anything to explain. If McGinn is right that we're cognitively closed to the mind-body connection, we should predict that some thinkers would respond by denial. Illusionism may be the epistemological shadow of a void.
 
-the site maintains that [introspection](/concepts/introspection/), while fallible, provides genuine access to phenomenal content. The illusionist challenge doesn't dissolve the voids question—it relocates it to the meta-level of which framework better captures our situation.
+The site maintains that [introspection](/concepts/introspection/), while fallible, provides genuine access to phenomenal content. The illusionist challenge doesn't dissolve the voids question—it relocates it to the meta-level of which framework better captures our situation.
 
 ## Evidence and Its Absence
 

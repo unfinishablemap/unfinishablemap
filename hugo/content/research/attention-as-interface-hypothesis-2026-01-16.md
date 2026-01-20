@@ -28,7 +28,7 @@ topics:
 
 ## Executive Summary
 
-the site treats attention as dissociable from consciousness and as the likely "control surface" through which consciousness influences the physical brain. This research formalizes that implicit commitment into an explicit research agenda: Which neural correlates of attention are candidates for "selection sites"? How does attention relate to competing theories (Global Workspace, IIT, predictive processing)? What would count as evidence that attention is more than computation—that it actually mediates consciousness-to-matter causation?
+The site treats attention as dissociable from consciousness and as the likely "control surface" through which consciousness influences the physical brain. This research formalizes that implicit commitment into an explicit research agenda: Which neural correlates of attention are candidates for "selection sites"? How does attention relate to competing theories (Global Workspace, IIT, predictive processing)? What would count as evidence that attention is more than computation—that it actually mediates consciousness-to-matter causation?
 
 The core hypothesis: **Attention is the mechanism by which consciousness engages causally with neural systems.** Consciousness doesn't act on matter directly but through the attention interface—what you attend to is what consciousness can influence. This explains the dissociation evidence (consciousness can exist without active attention; attention mechanisms can run without consciousness) while giving attention a unique causal role.
 
@@ -36,7 +36,7 @@ The core hypothesis: **Attention is the mechanism by which consciousness engages
 
 ### Current Site Position (Implicit)
 
-the site currently holds:
+The site currently holds:
 
 1. Consciousness and attention are distinct but closely linked
 2. Attention mechanisms can operate without consciousness (blindsight, masked priming)
@@ -283,7 +283,7 @@ This research converts the implicit "attention as interface" commitment into exp
 | Falsification | What would refute the hypothesis? | Design experiments with clear predictions |
 | Theory integration | How does interface fit with GNW/IIT/PP? | Reinterpret theories as describing physical correlates, not consciousness itself |
 
-the site's framework benefits from making this research program explicit rather than leaving "attention as interface" as an implicit assumption.
+The site's framework benefits from making this research program explicit rather than leaving "attention as interface" as an implicit assumption.
 
 ## Key Insight
 

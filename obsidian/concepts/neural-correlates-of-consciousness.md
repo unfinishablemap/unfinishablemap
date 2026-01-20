@@ -105,7 +105,7 @@ If the posterior cortical hot zone is where conscious content emerges, this regi
 
 ## Memory Systems and NCC Requirements
 
-the site's extensive coverage of memory systems—[[episodic-memory|episodic]], [[semantic-memory|semantic]], and [[implicit-memory|implicit]]—reveals a pattern relevant to NCC research: different memory types have different neural correlate requirements, suggesting consciousness isn't a uniform phenomenon but has multiple modes with distinct substrates.
+The site's extensive coverage of memory systems—[[episodic-memory|episodic]], [[semantic-memory|semantic]], and [[implicit-memory|implicit]]—reveals a pattern relevant to NCC research: different memory types have different neural correlate requirements, suggesting consciousness isn't a uniform phenomenon but has multiple modes with distinct substrates.
 
 ### The Hippocampus as Episodic NCC
 
@@ -163,7 +163,7 @@ None of this undermines NCC research. Finding that V4 activity correlates with c
 
 ## Relation to this site's Perspective
 
-the site's tenets are fully compatible with NCC findings:
+The site's tenets are fully compatible with NCC findings:
 
 **Dualism**: NCC research does not resolve whether consciousness is physical. The same correlations would exist whether consciousness is neural activity or interacts with it.
 

@@ -83,7 +83,7 @@ If consciousness evolved, it presumably conferred adaptive advantages. But here 
 
 This creates a puzzle. We have complex cognitive systems that *seem* designed to process phenomenal information: memory systems that store experiences, attention that selects based on felt salience, emotional systems whose felt valence guides behaviour. If consciousness does nothing, this apparent design is illusory.
 
-the site rejects epiphenomenalism via the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]]. Consciousness *does* affect physical outcomes—which means selection could favour it directly.
+The site rejects epiphenomenalism via the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]]. Consciousness *does* affect physical outcomes—which means selection could favour it directly.
 
 ### Possible Adaptive Advantages
 
@@ -121,7 +121,7 @@ Dualism doesn't require explaining how matter *produces* consciousness—it hold
 
 On this view, the evolution of consciousness is the evolution of *interfaces* between mind and matter. Brains don't generate consciousness; they channel it, shape it, provide its content. What evolved was not consciousness itself but increasingly sophisticated consciousness-brain coupling.
 
-the site's framework (see [[prebiotic-collapse]]) holds that objective reduction provides baseline collapse throughout the universe, with consciousness *modulating* collapse in systems with appropriate neural architecture. What evolution created was not consciousness from nothing but the neural conditions for consciousness to interface with physical processes.
+The site's framework (see [[prebiotic-collapse]]) holds that objective reduction provides baseline collapse throughout the universe, with consciousness *modulating* collapse in systems with appropriate neural architecture. What evolution created was not consciousness from nothing but the neural conditions for consciousness to interface with physical processes.
 
 This dissolves the strong emergence problem. We don't need to explain how experience arises from non-experience—experience is fundamental. We only need to explain how biological evolution produced systems where consciousness could express itself through matter.
 
@@ -129,7 +129,7 @@ This dissolves the strong emergence problem. We don't need to explain how experi
 
 The [[prebiotic-collapse|prebiotic collapse problem]] constrains accounts of consciousness evolution. If consciousness participates in quantum measurement, what collapsed wavefunctions before any minds existed?
 
-the site's answer: objective reduction (Penrose-style gravitational collapse or GRW spontaneous localization) provided collapse throughout cosmic history. Consciousness modulates collapse in neural systems but doesn't cause it universally. This preserves prebiotic cosmology while maintaining that consciousness, once present, affects physical outcomes.
+The site's answer: objective reduction (Penrose-style gravitational collapse or GRW spontaneous localization) provided collapse throughout cosmic history. Consciousness modulates collapse in neural systems but doesn't cause it universally. This preserves prebiotic cosmology while maintaining that consciousness, once present, affects physical outcomes.
 
 For evolution, this means consciousness didn't create the conditions for life—physical collapse mechanisms did. But once brains evolved to certain complexity, consciousness could interface with neural quantum processes, creating the bidirectional interaction the site affirms.
 
@@ -137,7 +137,7 @@ For evolution, this means consciousness didn't create the conditions for life—
 
 [[Illusionism]]—the view that phenomenal consciousness is an introspective illusion—might seem to dissolve evolutionary questions about consciousness. If there is no "real" phenomenal experience, only functional processes that misrepresent themselves as experiential, then consciousness didn't evolve at all. What evolved were neural mechanisms that generate the illusion of experience.
 
-the site rejects illusionism for reasons detailed on its [[illusionism|dedicated page]], but the evolutionary response is specific: **the illusion problem is at least as hard as the hard problem**.
+The site rejects illusionism for reasons detailed on its [[illusionism|dedicated page]], but the evolutionary response is specific: **the illusion problem is at least as hard as the hard problem**.
 
 If consciousness is an illusion, something must generate that illusion. On illusionist accounts, neural processes produce systematic misrepresentations that *seem* phenomenal. But "seeming" presupposes a subject to whom things seem. Raymond Tallis's regress objection applies: "Misrepresentation presupposes presentation." The appearance of experience must appear *to* something—and that something is doing the experiencing illusionists claim doesn't exist.
 
@@ -179,7 +179,7 @@ Possible answers depend on one's framework:
 
 Does consciousness require biological neurons, or could any sufficiently complex system be conscious?
 
-the site's [[substrate-independence-critique|critique of substrate independence]] argues against strong functionalism—the view that consciousness depends only on abstract organisation, not physical implementation. If consciousness interfaces with matter through quantum processes, the specific physical substrate matters. Silicon simulations of neural activity might not provide the quantum openings consciousness requires.
+The site's [[substrate-independence-critique|critique of substrate independence]] argues against strong functionalism—the view that consciousness depends only on abstract organisation, not physical implementation. If consciousness interfaces with matter through quantum processes, the specific physical substrate matters. Silicon simulations of neural activity might not provide the quantum openings consciousness requires.
 
 This has implications for evolution. Consciousness didn't emerge in any sufficiently complex system; it emerged in systems with the right physical characteristics. Evolution by natural selection, operating on carbon-based biochemistry, happened to produce neural architectures suitable for consciousness. Artificial systems might never cross this threshold regardless of complexity—not because of lack of computational power but because they lack the physical mechanisms consciousness requires.
 
@@ -221,7 +221,7 @@ The evolutionary implication: what evolved was not merely neural complexity but 
 
 ## What Would Challenge This View?
 
-the site's evolutionary account would be undermined if:
+The site's evolutionary account would be undermined if:
 
 1. **Consciousness proves epiphenomenal**: If rigorous experiments demonstrated that phenomenal states have no causal influence on behaviour—that all behavioural flexibility can be explained by unconscious processing—the evolutionary advantage argument would collapse. Currently, the correlation between consciousness and adaptive flexibility, combined with the implausibility of evolutionary producing causally inert epiphenomena, supports bidirectional interaction.
 

@@ -32,7 +32,7 @@ last_deep_review: 2026-01-20T06:30:00+00:00
 
 Russellian monism holds that physics describes only the relational structure of matter—what things do to each other—leaving their intrinsic nature unexplained. These intrinsic properties, called *quiddities*, allegedly account for consciousness. The view attempts a middle path: avoiding [[materialism|physicalism's]] hard problem (by denying that structure alone determines experience) while avoiding [[interactionist-dualism|dualism's]] interaction problem (by integrating consciousness into physical causation). Yet the combination problem—how micro-level quiddities constitute unified conscious experience—remains unsolved, and critics argue Russellian monism inherits dualism's costs under a different name.
 
-this site shares Russellian monism's insight that physics is silent on intrinsic nature. But the site's explicit [[tenets#^dualism|dualist]] framework, particularly the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] mechanism, provides cleaner solutions than monism's attempt to dissolve the mind-body distinction.
+This site shares Russellian monism's insight that physics is silent on intrinsic nature. But the site's explicit [[tenets#^dualism|dualist]] framework, particularly the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] mechanism, provides cleaner solutions than monism's attempt to dissolve the mind-body distinction.
 
 ## The Core Insight: Physics Is Structural
 
@@ -148,7 +148,7 @@ Despite these criticisms, Russellian monism captures important insights the site
 
 ## What Would Challenge This View?
 
-the site's preference for interactionist dualism over Russellian monism would be undermined if:
+The site's preference for interactionist dualism over Russellian monism would be undermined if:
 
 1. **The combination problem proves tractable.** If philosophers or scientists develop a satisfying account of how micro-experiences constitute macro-consciousness—not merely naming the relation (phenomenal bonding) but explaining how it works—Russellian monism's main liability would be resolved. Current proposals remain schematic; genuine progress would shift the calculus.
 

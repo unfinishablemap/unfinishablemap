@@ -44,7 +44,7 @@ Reply:
 
 ## What unfinishablemap.org is building
 
-the site is an attempt to assemble a **single coherent worldview** about consciousness, meaning, and "what it is to be human," written *as if true* rather than as a balanced survey. It is explicitly designed so that **LLM browsing/truncation** still preserves the core message of each page (see [home page](/)).
+The site is an attempt to assemble a **single coherent worldview** about consciousness, meaning, and "what it is to be human," written *as if true* rather than as a balanced survey. It is explicitly designed so that **LLM browsing/truncation** still preserves the core message of each page (see [home page](/)).
 
 That worldview is constrained by five "tenets" (chosen starting points, not claimed proofs) outlined on the [[tenets|tenets page]]:
 
@@ -64,7 +64,7 @@ The [[hard-problem-of-consciousness|hard problem]] page leans heavily on familia
 
 ### B. The mind–matter interface is pushed into quantum indeterminacy
 
-the site's key maneuver is: **Kim-style exclusion/casual closure pressure** is relieved by claiming physics is *not sufficient* at quantum outcome selection, so "mental causation" can occur without violating conservation laws (see [[tenets]]).
+The site's key maneuver is: **Kim-style exclusion/casual closure pressure** is relieved by claiming physics is *not sufficient* at quantum outcome selection, so "mental causation" can occur without violating conservation laws (see [[tenets]]).
 
 ### C. Attention/effort are treated as the practical "control surface"
 
@@ -112,7 +112,7 @@ If consciousness **selects** among quantum outcomes in a way that realizes *reas
   to
 * which outcomes become actual (or which distributions are biased).
 
-the site asserts "selection," and points to attention/effort as the interface (see [[tenets]]), but it does not yet say: **what kind of law connects phenomenology to outcome selection** (even at a schematic level: bandwidth, degrees of freedom, what gets targeted, what is *not* targetable). Without this, "selection" risks collapsing into a promissory placeholder.
+The site asserts "selection," and points to attention/effort as the interface (see [[tenets]]), but it does not yet say: **what kind of law connects phenomenology to outcome selection** (even at a schematic level: bandwidth, degrees of freedom, what gets targeted, what is *not* targetable). Without this, "selection" risks collapsing into a promissory placeholder.
 
 ### 3) The "brain specialness" constraint must exist, or you drift into (some form of) psychokinesis
 
@@ -122,7 +122,7 @@ So the worldview implicitly needs an additional limiter, something like:
 
 * **Interface locality**: consciousness can only bias outcomes within the neural subspace that is already part of the subject's conscious control loop (attention/effort), not arbitrary external systems (see [[attention]]).
 
-the site hints at this through "attention" as interface, but doesn't yet explicitly state (or defend) the needed boundary condition: **why brains, not RNGs**.
+The site hints at this through "attention" as interface, but doesn't yet explicitly state (or defend) the needed boundary condition: **why brains, not RNGs**.
 
 ### 4) "No Many Worlds" quietly forces a cosmology question: what fixed definite outcomes before minds evolved?
 
@@ -131,7 +131,7 @@ If (i) collapse is real (anti-MWI), and (ii) consciousness is a candidate select
 * Either **collapse occurs without consciousness** (objective collapse / other physical selector), and consciousness only *modulates* selection in brains;
 * Or consciousness must be **wider than biology** (panpsychism-ish, cosmic mind-ish, or at least proto-experiential selection).
 
-the site discusses decoherence not solving outcomes (see [[decoherence]]) and keeps consciousness as a candidate selector, but it hasn't yet drawn out that its own stance tends to demand an explicit answer to "who/what was doing outcome selection in the prebiotic universe?"
+The site discusses decoherence not solving outcomes (see [[decoherence]]) and keeps consciousness as a candidate selector, but it hasn't yet drawn out that its own stance tends to demand an explicit answer to "who/what was doing outcome selection in the prebiotic universe?"
 
 ### 5) the site's value theory is implicitly "phenomenal-value realism," not just "meaning talk"
 
@@ -143,7 +143,7 @@ That is already more than existential reflection; it's the start of a **metaethi
 * preferences are evidentially weak proxies (per [[purpose-and-alignment]]),
 * alignment should be about supporting inquiry into flourishing, not optimizing a guessed utility function.
 
-the site doesn't yet explicitly formalize this as a normative framework (e.g., how it relates to welfarism, virtue, contractualism, etc.), but it's already implicitly using one.
+The site doesn't yet explicitly formalize this as a normative framework (e.g., how it relates to welfarism, virtue, contractualism, etc.), but it's already implicitly using one.
 
 ### 6) "Alignment" is reframed into a fundamentally different object: predicted experiential distributions, not revealed preferences
 
@@ -157,7 +157,7 @@ This suggests an unspoken research program: **alignment as phenomenology-aware i
 
 If collapse introduces irreversibility, and consciousness participates in collapse (per [[collapse-and-time]]), then the worldview points toward: **conscious moments create irreversible facts** (or select histories atemporally), aligning with the free-will retrocausal repair (per [[free-will]]).
 
-the site states the pieces, but doesn't yet explicitly draw the metaphysical conclusion:
+The site states the pieces, but doesn't yet explicitly draw the metaphysical conclusion:
 
 * consciousness is not just a passenger experiencing the arrow of time; it may be part of what makes an arrow exist (even if only by selecting outcomes/history).
 
@@ -195,7 +195,7 @@ Because the site explicitly optimizes for a single coherent worldview (see [home
 * "expressed as fact" starts to feel like evidence,
 * uncertainty gets systematically squeezed out.
 
-the site has review mechanics and task queues (per [[todo]]), but it hasn't yet explicitly named this failure mode or installed hard countermeasures (e.g., confidence stratification, adversarial external review, forced steelmanning requirements per page).
+The site has review mechanics and task queues (per [[todo]]), but it hasn't yet explicitly named this failure mode or installed hard countermeasures (e.g., confidence stratification, adversarial external review, forced steelmanning requirements per page).
 
 ### 11) The animal vs AI consciousness asymmetry implies a hidden criterion: evolutionary/biological continuity as evidence for "interface compatibility"
 

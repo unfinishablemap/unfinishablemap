@@ -112,7 +112,7 @@ However, there are differences:
 
 A 2025 Oxford Academic work explores "Buddhist Physicalism"—whether the Buddhist commitment to non-existence of self means "consciousness must be understood to be subjectless." This opens doors to illusionism about phenomenal consciousness.
 
-the site's position diverges: Buddhism's no-self doctrine concerns the constructed, substantial self, not necessarily the minimal experiential structure. The Dualism tenet can accommodate Buddhist insights about the illusory nature of the narrative self while maintaining that phenomenal experience is irreducible.
+The site's position diverges: Buddhism's no-self doctrine concerns the constructed, substantial self, not necessarily the minimal experiential structure. The Dualism tenet can accommodate Buddhist insights about the illusory nature of the narrative self while maintaining that phenomenal experience is irreducible.
 
 Source: [1000-Word Philosophy](https://1000wordphilosophy.com/2023/02/25/no-self/), [Stanford Encyclopedia - Mind in Indian Buddhism](https://plato.stanford.edu/entries/mind-indian-buddhism/), [Oxford Academic](https://academic.oup.com/book/60496?login=false)
 
@@ -130,7 +130,7 @@ Property dualism, as articulated by Chalmers, "does not posit the existence of a
 
 A 2023 study argues that "The 'hard problem of consciousness' arises from human psychology"—specifically from "two intuitive biases that lie deep within human psychology: Essentialism and Dualism." We intuitively treat mind and body as distinct.
 
-the site's response: These psychological tendencies may track genuine metaphysical features rather than being mere cognitive errors. The phenomenological analysis of the minimal self reveals structural features of experience that physicalist accounts cannot capture.
+The site's response: These psychological tendencies may track genuine metaphysical features rather than being mere cognitive errors. The phenomenological analysis of the minimal self reveals structural features of experience that physicalist accounts cannot capture.
 
 Source: [MIT Press Open Mind](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00094/117074/The-Hard-Problem-of-Consciousness-Arises-from), [Stanford Encyclopedia - Dualism](https://plato.stanford.edu/entries/dualism/)
 
@@ -149,7 +149,7 @@ Gallagher and Zahavi work within the phenomenological tradition that the site dr
 
 ### Buddhist Compatibility
 
-the site's framework can accommodate Buddhist insights:
+The site's framework can accommodate Buddhist insights:
 - The narrative self is indeed constructed—a product of brain processes shaping the interface
 - The minimal self may be what remains when narrative constructions are seen through
 - Liberation from self-attachment need not require denying phenomenal consciousness

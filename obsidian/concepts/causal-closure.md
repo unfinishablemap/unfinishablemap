@@ -58,7 +58,7 @@ Jaegwon Kim's exclusion argument deploys causal closure against non-reductive ph
 
 For dualists who reject identity, the argument forces a choice: deny that mental events cause anything ([[epiphenomenalism]]), or deny causal closure.
 
-this site denies causal closure.
+This site denies causal closure.
 
 ## Why Causal Closure Seems Plausible
 
@@ -122,7 +122,7 @@ On this view, causal closure fails because organization adds something genuinely
 
 Classical British emergentists (Broad, Alexander) affirmed this position but lacked a mechanism. They accepted strong emergence with "natural piety"—brute facts to be acknowledged. This left their position vulnerable to Kim's exclusion argument.
 
-the site's quantum framework strengthens emergentism by specifying where and how emergent causation operates: at quantum indeterminacies, where physics provides probabilities but not outcomes. This transforms the emergentist response from mere assertion to a mechanism: consciousness fills a genuine gap in physical determination.
+The site's quantum framework strengthens emergentism by specifying where and how emergent causation operates: at quantum indeterminacies, where physics provides probabilities but not outcomes. This transforms the emergentist response from mere assertion to a mechanism: consciousness fills a genuine gap in physical determination.
 
 ### Arguments from Reason
 
@@ -136,13 +136,13 @@ The connection to [[free-will]] is immediate. If every physical event has a suff
 
 Some philosophers accept this and adopt compatibilism: free will just is acting on desires (whatever causes those desires). Others accept hard determinism: free will is an illusion.
 
-this site takes a different route. Quantum indeterminism means physical outcomes are not fully physically determined. If consciousness can bias which indeterminate outcome occurs, it can influence physical events in a way that's neither determined nor random. This provides what libertarian free will requires: genuine alternatives that consciousness selects among.
+This site takes a different route. Quantum indeterminism means physical outcomes are not fully physically determined. If consciousness can bias which indeterminate outcome occurs, it can influence physical events in a way that's neither determined nor random. This provides what libertarian free will requires: genuine alternatives that consciousness selects among.
 
 Critics raise the [[luck-objection|luck objection]]: if the outcome is undetermined, isn't it just random—arbitrary rather than free? the site's response: consciousness *selects* outcomes rather than merely receiving them. The difference between selection and randomness is precisely the difference between a mind acting and physics fluctuating. This isn't a gap in explanation but the place where explanation of a different kind—in terms of reasons, intentions, and phenomenal states—becomes appropriate.
 
 ## Relation to this site's Perspective
 
-this site *rejects* causal closure as a universal principle. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that physics is not causally complete at quantum indeterminacies. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness acts at these points.
+This site *rejects* causal closure as a universal principle. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that physics is not causally complete at quantum indeterminacies. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness acts at these points.
 
 This rejection is not arbitrary but principled:
 
@@ -152,7 +152,7 @@ This rejection is not arbitrary but principled:
 
 3. **Self-stultification** shows that denying mental causation undermines rational thought. If consciousness causes nothing, our beliefs about consciousness (including the belief in [[epiphenomenalism]]) are causally disconnected from actual experiences.
 
-the site doesn't claim certainty about *how* consciousness interfaces with quantum events—that remains an open empirical question addressed by [[quantum-consciousness|quantum consciousness research]]. But it holds that such interface is possible because causal closure fails where physics is fundamentally indeterminate.
+The site doesn't claim certainty about *how* consciousness interfaces with quantum events—that remains an open empirical question addressed by [[quantum-consciousness|quantum consciousness research]]. But it holds that such interface is possible because causal closure fails where physics is fundamentally indeterminate.
 
 ## The Coherence of Rejection
 

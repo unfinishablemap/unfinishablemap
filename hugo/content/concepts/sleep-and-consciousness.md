@@ -241,7 +241,7 @@ Sleep illuminates each of the site's [tenets](/tenets/):
 
 ## What Would Challenge This View?
 
-the site's interpretation of sleep and consciousness would face serious difficulty if:
+The site's interpretation of sleep and consciousness would face serious difficulty if:
 
 1. **The posterior hot zone correlation breaks down.** The argument that consciousness depends on posterior cortical dynamics—not global sleep stage—requires this correlation to hold. If future research showed that dreaming occurs without posterior hot zone activation, or that hot zone activity without dreaming is common, the dissociation argument weakens. Currently, the correlation is robust across studies, but new methodologies (higher-resolution EEG, better dream detection) could reveal it was artefactual.
 

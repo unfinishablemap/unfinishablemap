@@ -96,7 +96,7 @@ Quantum selection doesn't make binding harder; binding is already hard. The ques
 
 ## Relation to Site Perspective
 
-the site's [[tenets]] commit to bidirectional interaction: consciousness causally influences physical outcomes. The locality objection is one challenge to this commitment.
+The site's [[tenets]] commit to bidirectional interaction: consciousness causally influences physical outcomes. The locality objection is one challenge to this commitment.
 
 The responses here don't *prove* that consciousness coordinates quantum events across the brain. They show that:
 

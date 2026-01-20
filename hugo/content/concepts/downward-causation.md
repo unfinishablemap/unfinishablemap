@@ -135,7 +135,7 @@ The challenge: *how* does organisation contribute? What mechanism allows configu
 
 ## The Quantum Opening
 
-this site provides what O'Connor-Wong's emergentism lacks: a mechanism for downward causation that doesn't require violating physical law.
+This site provides what O'Connor-Wong's emergentism lacks: a mechanism for downward causation that doesn't require violating physical law.
 
 ### Why Quantum Mechanics Matters
 
@@ -145,7 +145,7 @@ This is precisely the opening downward causation requires. Kim's argument depend
 
 ### The Minimal Quantum Interaction Mechanism
 
-the site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies how consciousness exercises downward causation: by biasing quantum outcomes where physics leaves the result undetermined.
+The site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies how consciousness exercises downward causation: by biasing quantum outcomes where physics leaves the result undetermined.
 
 Henry Stapp's quantum Zeno mechanism provides a concrete proposal. When you sustain attention on a neural pattern, you repeatedly "observe" the quantum states involved, holding them in place through the quantum Zeno effect (a watched pot that really never boils). This is downward causation—your attention (mental level) influences which neural patterns (physical level) become actual.
 
@@ -173,7 +173,7 @@ If the [many-worlds interpretation](/arguments/many-worlds/) is correct, all qua
 
 This matters critically for downward causation. The mechanism proposed here requires that consciousness *selects* among quantum possibilities. On MWI, consciousness would be epiphenomenal with respect to quantum events: it couldn't affect which outcomes occur because all outcomes occur.
 
-the site's [No Many Worlds](/tenets/#no-many-worlds) tenet isn't incidental to the framework—it's required for downward causation to be possible. If MWI were confirmed (though how this could occur is unclear), the quantum mechanism for downward causation would fail.
+The site's [No Many Worlds](/tenets/#no-many-worlds) tenet isn't incidental to the framework—it's required for downward causation to be possible. If MWI were confirmed (though how this could occur is unclear), the quantum mechanism for downward causation would fail.
 
 This creates a falsifiability condition: the site's position stands or falls with single-world interpretations of quantum mechanics.
 
@@ -190,7 +190,7 @@ The quantum framework improves on this in three ways:
 | Relation to physics | Requires violating closure | Exploits genuine incompleteness |
 | Testability | Difficult | Makes empirical predictions |
 
-the site specifies *where* downward causation operates (quantum indeterminacies in neural systems), *how* it operates (biasing probabilities rather than injecting energy), and *why* physical laws aren't violated (physics provides probabilities, not outcomes, at these points).
+The site specifies *where* downward causation operates (quantum indeterminacies in neural systems), *how* it operates (biasing probabilities rather than injecting energy), and *why* physical laws aren't violated (physics provides probabilities, not outcomes, at these points).
 
 ## Weak vs. Strong Downward Causation
 
@@ -202,7 +202,7 @@ Some philosophers distinguish weak from strong downward causation:
 
 Kim's exclusion argument targets strong downward causation specifically. Weak downward causation is compatible with physicalism and causal closure—it's just shorthand for talking about aggregate physical effects. Strong downward causation requires either rejecting causal closure or accepting identity (reducing the higher level to the lower).
 
-this site defends *strong* downward causation. The Dualism tenet holds that consciousness is irreducible; the Bidirectional Interaction tenet holds it has genuine causal powers. This requires denying causal closure—which the Minimal Quantum Interaction tenet specifies where and how.
+This site defends *strong* downward causation. The Dualism tenet holds that consciousness is irreducible; the Bidirectional Interaction tenet holds it has genuine causal powers. This requires denying causal closure—which the Minimal Quantum Interaction tenet specifies where and how.
 
 ## Process Philosophy Alternative
 

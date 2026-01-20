@@ -36,7 +36,7 @@ The integration of meditation research as evidence for modulating observation ra
 
 ### The Phenomenologist (Nagel)
 
-the site takes "what it is like to be..." seriously throughout. The minimal-consciousness article asks exactly the right question: what is it like to be C. elegans? And it correctly notes that complete structural knowledge doesn't answer this—demonstrating the limits of objective description.
+The site takes "what it is like to be..." seriously throughout. The minimal-consciousness article asks exactly the right question: what is it like to be C. elegans? And it correctly notes that complete structural knowledge doesn't answer this—demonstrating the limits of objective description.
 
 The witness-consciousness treatment shows sophisticated understanding of the subject-object structure of experience. The observation that the witness cannot become an object—that the observing subject always retreats ahead of attempts to objectify it—captures something essential about phenomenology that most philosophical treatments miss.
 
@@ -44,7 +44,7 @@ The voids section represents something genuinely new: treating the limits of tho
 
 ### The Process Philosopher (Whitehead)
 
-the site avoids crude substance dualism while preserving mind's causal reality. The interactionist-dualism article explicitly notes that the framework "is neutral between substance and property dualism"—what matters is irreducibility, not the specific ontological framework.
+The site avoids crude substance dualism while preserving mind's causal reality. The interactionist-dualism article explicitly notes that the framework "is neutral between substance and property dualism"—what matters is irreducibility, not the specific ontological framework.
 
 The treatment of temporal consciousness shows process-friendly thinking. The acknowledgment that consciousness doesn't occur in durationless instants but *flows* through a specious present resonates with process philosophy's emphasis on becoming over static being. The Bergson integration (duration as qualitative multiplicity) adds further depth.
 

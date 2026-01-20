@@ -144,7 +144,7 @@ The cognitive science of dualism shows that:
 3. Neither intuitive dualism nor intuitive materialism is clearly dominant
 4. The metaphysical question is independent of the cognitive one
 
-the site's position: Take the cognitive evidence seriously as describing human psychology, while maintaining that consciousness's irreducibility is a philosophical conclusion, not a folk intuition to be explained away.
+The site's position: Take the cognitive evidence seriously as describing human psychology, while maintaining that consciousness's irreducibility is a philosophical conclusion, not a folk intuition to be explained away.
 
 ## Summary Table
 

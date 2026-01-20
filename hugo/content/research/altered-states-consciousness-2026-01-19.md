@@ -278,7 +278,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 ## Relation to Existing Site Content
 
-the site already has substantial coverage of related topics:
+The site already has substantial coverage of related topics:
 - **[loss-of-consciousness](/topics/loss-of-consciousness/)**: Covers anesthesia, coma, disorders of consciousness
 - **[sleep-and-consciousness](/concepts/sleep-and-consciousness/)**: Covers sleep stages, dreaming, offline processing
 - **[dreams-and-consciousness](/concepts/dreams-and-consciousness/)**: Covers REM, lucid dreaming, dream phenomenology

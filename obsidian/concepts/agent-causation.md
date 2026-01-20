@@ -38,7 +38,7 @@ last_deep_review: 2026-01-20T10:00:00+00:00
 
 Agent causation holds that conscious agents—understood as persisting substances rather than collections of events—directly cause their actions. The agent is the causal source, not reducible to prior mental events like beliefs and desires. This positions agents as initiators of causal chains, not merely links in chains that stretch back before their existence.
 
-this site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet is essentially agent-causal: consciousness genuinely selects outcomes. the site's framework specifies *how* this selection occurs—through quantum indeterminacies—while agent-causal philosophy provides the conceptual framework for *what* is happening: substances exercising irreducible causal powers.
+This site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet is essentially agent-causal: consciousness genuinely selects outcomes. the site's framework specifies *how* this selection occurs—through quantum indeterminacies—while agent-causal philosophy provides the conceptual framework for *what* is happening: substances exercising irreducible causal powers.
 
 ## The Distinction: Agent vs. Event Causation
 
@@ -86,7 +86,7 @@ Critics find this unsatisfying. "The agent caused it" seems to push the explanat
 
 ### the site's Response
 
-the site's framework strengthens the agent-causal response. Consciousness doesn't randomly select quantum outcomes—it genuinely *chooses* based on reasons. The selection is neither determined (physics didn't fix the outcome) nor lucky (consciousness selected based on what matters to it).
+The site's framework strengthens the agent-causal response. Consciousness doesn't randomly select quantum outcomes—it genuinely *chooses* based on reasons. The selection is neither determined (physics didn't fix the outcome) nor lucky (consciousness selected based on what matters to it).
 
 The [[luck-objection|luck objection article]] develops this response across four dimensions:
 
@@ -112,7 +112,7 @@ Lowe and O'Connor's substance causation view has profound implications. If all c
 
 This reframes the [[interactionist-dualism#The Causal Closure Argument|causal closure objection]]. The objection assumes event causation is fundamental: every physical event must have a prior physical event cause. But if substance causation is fundamental, this assumption fails. Physics describes regularities in what substances do; it doesn't prove substances are exclusively physical.
 
-the site's quantum mechanism specifies *where* agent causation interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. The agent—the conscious substance—selects among quantum possibilities. This isn't consciousness "adding" to physical causation; it's consciousness exercising the same kind of causal power that all substances exercise, at points where physics doesn't determine the outcome.
+The site's quantum mechanism specifies *where* agent causation interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. The agent—the conscious substance—selects among quantum possibilities. This isn't consciousness "adding" to physical causation; it's consciousness exercising the same kind of causal power that all substances exercise, at points where physics doesn't determine the outcome.
 
 This framework also addresses the [[pairing-problem|pairing problem]]—what connects *this* mind to *this* body? If consciousness interfaces with physics at specific quantum-sensitive neural structures, consciousness is spatially located where those structures are. The mind is paired with the body it causally affects. Agent causation doesn't float freely; it operates through particular physical interfaces.
 
@@ -126,7 +126,7 @@ Robert Kane emphasizes *sourcehood* as the core requirement for free will: the a
 
 Agent causation provides sourcehood directly. The agent is the source because the agent, as substance, initiates the causal chain. Prior events influence but don't determine; the agent determines by exercising irreducible causal power.
 
-the site's framework satisfies both of Kane's conditions for free will:
+The site's framework satisfies both of Kane's conditions for free will:
 - **Sourcehood**: Consciousness is the ultimate source because it selects which quantum outcome becomes actual
 - **Alternative possibilities**: Multiple outcomes were genuinely possible until selection occurred
 
@@ -186,7 +186,7 @@ The third finding parallels the [[libet-experiments|Libet experiments]]: if neur
 
 ### The Selection-Among-Options Resolution
 
-the site's framework accommodates predictive neural states through the selection-among-options model. Pre-prompt alpha activity doesn't generate choices from nothing—it establishes the options available for selection. Stochastic neural fluctuations create a menu; consciousness selects from that menu.
+The site's framework accommodates predictive neural states through the selection-among-options model. Pre-prompt alpha activity doesn't generate choices from nothing—it establishes the options available for selection. Stochastic neural fluctuations create a menu; consciousness selects from that menu.
 
 This differs from both:
 - **Libertarian ex nihilo**: Choice created from nothing (vulnerable to luck objection)

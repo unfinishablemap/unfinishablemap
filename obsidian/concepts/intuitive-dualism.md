@@ -131,7 +131,7 @@ Illusionists can interpret the cognitive science evidence as supporting their po
 
 ### The Regress Response
 
-the site rejects illusionism for reasons independent of cognitive naturalness. The [[illusionism#The Infinite Regress Problem|regress problem]] applies here: if our belief in mind-body distinction is an illusion, something must be *experiencing* this illusion. The very act of *seeming* to have separate mental and physical aspects requires a subject to whom things seem this way.
+The site rejects illusionism for reasons independent of cognitive naturalness. The [[illusionism#The Infinite Regress Problem|regress problem]] applies here: if our belief in mind-body distinction is an illusion, something must be *experiencing* this illusion. The very act of *seeming* to have separate mental and physical aspects requires a subject to whom things seem this way.
 
 Keith Frankish responds that the seeming can be purely representational—cognitive states representing themselves as having properties they lack, without phenomenal awareness of the representation. But this faces Raymond Tallis's objection: explaining why we *believe* we're conscious seems to require the very phenomenal vocabulary the illusionist denies. The "illusion" of dualism must appear to *something*, and that appearance is itself a form of experience.
 
@@ -214,7 +214,7 @@ The [[tenets#^dualism|Dualism tenet]] asserts that consciousness is irreducible 
 
 The "folk error" dismissal fails on its own terms. Dualism cannot be written off as naive intuition when cross-cultural evidence suggests intuitive *materialism* may be the default. The picture is complex: humans have cognitive resources that *permit* dualist thinking without that thinking being a universal default. This complexity undermines dismissive rhetoric from both directions.
 
-the site's dualist position rests on the [[arguments-for-dualism|positive arguments]]—the [[explanatory-gap]], [[philosophical-zombies|conceivability arguments]], the [[knowledge-argument]], and the intrinsic character of [[qualia]]. These converge independently of cognitive anthropology.
+The site's dualist position rests on the [[arguments-for-dualism|positive arguments]]—the [[explanatory-gap]], [[philosophical-zombies|conceivability arguments]], the [[knowledge-argument]], and the intrinsic character of [[qualia]]. These converge independently of cognitive anthropology.
 
 ### Minimal Quantum Interaction
 

@@ -166,7 +166,7 @@ Lucid dreaming exemplifies bidirectional interaction during sleep: the lucid dre
 
 ### Minimal Quantum Interaction
 
-the site proposes consciousness operates through attention-mediated quantum selection. During NREM sleep, when attention is offline, the quantum selection mechanism would be disengaged. This may explain why memory consolidation proceeds unconsciously—without the attention interface, there is no selection among alternatives, just parallel replay of established patterns.
+The site proposes consciousness operates through attention-mediated quantum selection. During NREM sleep, when attention is offline, the quantum selection mechanism would be disengaged. This may explain why memory consolidation proceeds unconsciously—without the attention interface, there is no selection among alternatives, just parallel replay of established patterns.
 
 REM dreaming might represent partial reengagement of the interface—enough to produce phenomenal experience but typically without the metacognitive attention that characterizes waking. Lucid dreaming would then represent fuller reengagement of the attention interface even during REM physiology.
 

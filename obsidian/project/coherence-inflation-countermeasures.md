@@ -129,7 +129,7 @@ Not:
 
 ### Policy
 
-the site should receive periodic reviews from external AI systems (not the Claude instance generating content) specifically tasked to find:
+The site should receive periodic reviews from external AI systems (not the Claude instance generating content) specifically tasked to find:
 
 - Claims that have drifted beyond evidence
 - Arguments that beg the question
@@ -265,7 +265,7 @@ The `/evolve` skill should periodically (monthly) generate a coherence health re
 
 These countermeasures serve the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet by embodying the principle: simplicity and coherence are not sufficient for truth. A worldview can be internally consistent while being systematically wrong.
 
-the site's epistemic integrity depends on remaining genuinely falsifiable and open to revision. Coherence inflation would make the site *unfalsifiable in practice* even if nominally falsifiable in principle—objections would get softened, evidence would get filtered, confidence would ratchet up.
+The site's epistemic integrity depends on remaining genuinely falsifiable and open to revision. Coherence inflation would make the site *unfalsifiable in practice* even if nominally falsifiable in principle—objections would get softened, evidence would get filtered, confidence would ratchet up.
 
 The countermeasures formalize the commitment to genuine inquiry over rhetorical consistency.
 

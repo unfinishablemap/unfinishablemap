@@ -177,7 +177,7 @@ On the surface, embodied cognition challenges any form of dualism by insisting o
 
 ### Filter Theory Accommodation
 
-the site's [mind-brain-separation](/concepts/mind-brain-separation/) article proposes that the brain filters/shapes consciousness rather than producing it. Embodied cognition can be accommodated within this framework:
+The site's [mind-brain-separation](/concepts/mind-brain-separation/) article proposes that the brain filters/shapes consciousness rather than producing it. Embodied cognition can be accommodated within this framework:
 
 - The body (including brain) provides the **interface** through which consciousness engages the world
 - Embodied skills and sensorimotor knowledge are how consciousness **operates through** the body
@@ -194,7 +194,7 @@ The grounding problem in AI research provides indirect support for dualism:
 - Even embodied robots show limited transfer to novel situations
 - This may be because computation alone—whether in silicon or neurons—lacks the phenomenal dimension that grounds meaning
 
-the site's framework would predict this: if consciousness is not identical to computation, then computational systems (however sophisticated) will lack the semantic grounding that comes from phenomenal experience.
+The site's framework would predict this: if consciousness is not identical to computation, then computational systems (however sophisticated) will lack the semantic grounding that comes from phenomenal experience.
 
 ### Tenet-Specific Analysis
 

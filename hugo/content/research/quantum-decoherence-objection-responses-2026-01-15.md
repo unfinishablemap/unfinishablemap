@@ -160,7 +160,7 @@ Recent experimental findings (2025):
 
 ### Strengthening the site's Position
 
-the site could emphasize:
+The site could emphasize:
 
 1. **Minimal intervention**: The tenet specifies *minimal* quantum interaction. Consciousness needn't maintain coherent superpositions—it needs only to bias collapse outcomes at individual measurement events.
 

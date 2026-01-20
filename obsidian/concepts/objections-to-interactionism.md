@@ -62,7 +62,7 @@ If haecceities don't exist, the pairing problem generalizes to all causation. Wh
 
 ### The Quantum Fit
 
-the site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework provides a natural answer. If consciousness interfaces with the brain at quantum indeterminacies in specific neural structures, consciousness is located *where those structures are*. The distinctiveness of consciousness is metaphysical, not spatial—it can be a different kind of thing from matter while still occupying space.
+The site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework provides a natural answer. If consciousness interfaces with the brain at quantum indeterminacies in specific neural structures, consciousness is located *where those structures are*. The distinctiveness of consciousness is metaphysical, not spatial—it can be a different kind of thing from matter while still occupying space.
 
 [[interface-locality|Interface locality]] reinforces this: each consciousness can only interface with its own brain because the quantum Zeno mechanism requires the observer-system coupling that exists only within one's neural substrate. You cannot attend to distant quantum systems the way you attend to your own neural states. The pairing is built into the mechanism.
 
@@ -95,7 +95,7 @@ Conservation is local and approximate, not a universal metaphysical truth. Physi
 
 ### Response 3: The Quantum Exception
 
-the site's primary response: at quantum indeterminacies, consciousness selects among possible outcomes without adding energy. The outcomes all have the same energy; consciousness just determines *which* one actualizes.
+The site's primary response: at quantum indeterminacies, consciousness selects among possible outcomes without adding energy. The outcomes all have the same energy; consciousness just determines *which* one actualizes.
 
 Consider a superposition of two neural firing patterns, each with identical energy. Physics determines that *one* will become actual, with probabilities for each. But physics doesn't determine *which* one actualizes. Consciousness selects without energy injection—the conservation equations are satisfied for every possible outcome.
 
@@ -199,7 +199,7 @@ William James (1890) first articulated this reasoning. The precise correlation b
 
 The argument has no force against interactionist dualism. Interactionism holds that consciousness causes physical effects—exactly what the evolutionary argument requires. The argument targets only those forms of dualism (epiphenomenalism, parallelism) that deny mental causation.
 
-the site can use this argument *offensively* against epiphenomenalism: if consciousness causes nothing, evolution can't explain the observed correlations. The precise tracking of phenomenal states with fitness-relevant behaviors would be an inexplicable coincidence.
+The site can use this argument *offensively* against epiphenomenalism: if consciousness causes nothing, evolution can't explain the observed correlations. The precise tracking of phenomenal states with fitness-relevant behaviors would be an inexplicable coincidence.
 
 ### The Epiphenomenalist Response
 
@@ -236,7 +236,7 @@ Mental and physical descriptions may capture the same causal process at differen
 
 ### Response 3: Quantum Insufficiency
 
-the site's primary response: the exclusion argument assumes that physical properties provide *sufficient* causes. But at quantum indeterminacies, P is *not* sufficient for E—physics determines probabilities but not outcomes.
+The site's primary response: the exclusion argument assumes that physical properties provide *sufficient* causes. But at quantum indeterminacies, P is *not* sufficient for E—physics determines probabilities but not outcomes.
 
 Where physics is genuinely incomplete, mental properties can fill the gap without exclusion. There is no sufficient physical cause to do the excluding. Mental causation operates where physical causation runs out.
 
@@ -246,7 +246,7 @@ This transforms the exclusion argument from a dilemma into a false premise: clos
 
 A parallel structure exists between the exclusion argument and the [[luck-objection|luck objection]] to libertarian free will. The exclusion argument asks: if physical causes are sufficient, what room is there for mental causation? The luck objection asks: if outcomes are indeterminate, how can they be *chosen* rather than random?
 
-the site's response to both: consciousness selects among undetermined possibilities. This is neither redundant (the possibilities are genuinely open) nor arbitrary (consciousness provides direction). The quantum Zeno mechanism offers a model: sustained attention stabilizes certain outcomes, biasing probabilities through repeated "observation" rather than energy injection.
+The site's response to both: consciousness selects among undetermined possibilities. This is neither redundant (the possibilities are genuinely open) nor arbitrary (consciousness provides direction). The quantum Zeno mechanism offers a model: sustained attention stabilizes certain outcomes, biasing probabilities through repeated "observation" rather than energy injection.
 
 ## What Would Challenge This View?
 

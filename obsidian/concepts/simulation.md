@@ -115,7 +115,7 @@ A simulation running on physical substrate is still physical—the computer exis
 
 **Consciousness at both levels**: Both simulators and simulated beings are conscious. This may follow if [[quantum-consciousness|consciousness depends on quantum effects]] that the simulation faithfully implements. The simulation doesn't create pseudo-consciousness; it creates the conditions for genuine consciousness.
 
-the site's framework suggests the third option. If consciousness operates through [[measurement-problem|quantum measurement]] and the simulation implements quantum mechanics (rather than merely approximating classical physics), then simulated beings might be genuinely conscious. The hard problem shifts from "how does matter produce consciousness?" to "under what computational conditions does consciousness arise?"—but it doesn't disappear.
+The site's framework suggests the third option. If consciousness operates through [[measurement-problem|quantum measurement]] and the simulation implements quantum mechanics (rather than merely approximating classical physics), then simulated beings might be genuinely conscious. The hard problem shifts from "how does matter produce consciousness?" to "under what computational conditions does consciousness arise?"—but it doesn't disappear.
 
 This has implications for [[ai-consciousness]]: if we're simulated and conscious, digital systems might also achieve consciousness under the right conditions. The barrier would be architectural, not substrate-based.
 

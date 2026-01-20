@@ -202,7 +202,7 @@ Retrocausality raises a puzzle about the [ontology of time](/concepts/philosophy
 
 Yet the site's framework requires real collapse—which introduces genuine temporal asymmetry, favoring A-theory (real temporal becoming) over pure B-theory eternalism where time's flow is illusory.
 
-the site's [temporal framework](/topics/time-collapse-and-agency/) proposes a resolution: a **modified growing block** where:
+The site's [temporal framework](/topics/time-collapse-and-agency/) proposes a resolution: a **modified growing block** where:
 
 1. Retrocausality operates within the time-symmetric physics *before* collapse establishes temporal direction
 2. Collapse—including consciousness-involving collapse—creates irreversible temporal structure

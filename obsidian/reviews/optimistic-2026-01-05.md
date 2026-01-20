@@ -122,7 +122,7 @@ The tenets page is a genuinely strong foundation for a philosophical compendium.
 
 ## Architecture Opportunity
 
-the site could develop a clear hierarchy:
+The site could develop a clear hierarchy:
 
 ```
 Tenets (foundational axioms)

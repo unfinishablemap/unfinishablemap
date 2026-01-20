@@ -146,7 +146,7 @@ Second, the relevant simplicity is not ontological but explanatory. A theory is 
 
 Third, we are in no position to judge simplicity when we don't understand the domain. Consciousness is the one thing we know most directly, yet we have no theory of it. Our concepts may be inadequate. Our intuitions about what is "simple" may reflect ignorance rather than insight. The apparent simplicity of materialism may be the simplicity of not having a theory—the simplicity of looking where the light is good rather than where the keys were lost.
 
-the site's tenets state it directly: "Dismissing dualism because materialism seems 'simpler' assumes we understand enough to judge simplicity. We may not. The apparent simplicity of physicalism could reflect ignorance rather than insight."
+The site's tenets state it directly: "Dismissing dualism because materialism seems 'simpler' assumes we understand enough to judge simplicity. We may not. The apparent simplicity of physicalism could reflect ignorance rather than insight."
 
 ## Conclusion
 

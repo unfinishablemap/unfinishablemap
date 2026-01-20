@@ -110,7 +110,7 @@ Merleau-Ponty wrote that body memory is "an impressive refutation of the dualism
 
 ### The Interface Response
 
-the site's framework accommodates this insight without abandoning dualism. The point isn't that consciousness floats free of the body—clearly it doesn't. The point is that consciousness *interfaces* with bodily systems at specific sites and can modulate their operation.
+The site's framework accommodates this insight without abandoning dualism. The point isn't that consciousness floats free of the body—clearly it doesn't. The point is that consciousness *interfaces* with bodily systems at specific sites and can modulate their operation.
 
 Body memory reveals *where* the interface operates, not that consciousness is identical to the body. The expert's embodied skill represents successful delegation: consciousness has calibrated the procedural system and now need not intervene. But the retention of override capacity—shown precisely by choking when attention re-engages—reveals the interface remains operative.
 

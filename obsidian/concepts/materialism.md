@@ -37,7 +37,7 @@ last_deep_review: 2026-01-20T18:30:00+00:00
 
 Materialism (or physicalism) holds that everything that exists is physical—including consciousness. On this view, your experience of seeing red is not something *in addition to* brain activity; it *is* brain activity, or emerges from it, or will one day be explained entirely in physical terms. Materialism has dominated academic philosophy of mind for decades, promising ontological simplicity and alignment with natural science.
 
-this site's [[tenets]] reject materialism. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is not reducible to physical processes. Understanding materialism's appeal—and its failure when applied to consciousness—clarifies what the site affirms and why.
+This site's [[tenets]] reject materialism. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is not reducible to physical processes. Understanding materialism's appeal—and its failure when applied to consciousness—clarifies what the site affirms and why.
 
 ## Varieties of Materialism
 
@@ -90,7 +90,7 @@ Materialism's strongest support comes from the apparent causal closure of physic
 
 This argument underwrites the materialist consensus. If physics is complete—if you don't need to invoke non-physical causes to explain physical effects—then consciousness must be physical or causally irrelevant.
 
-the site's response targets premise 1. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that physics is *not* complete at quantum indeterminacies. Consciousness can influence outcomes that physics leaves undetermined without violating physical law. Causal closure is true for determined events but false for indeterminate ones.
+The site's response targets premise 1. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that physics is *not* complete at quantum indeterminacies. Consciousness can influence outcomes that physics leaves undetermined without violating physical law. Causal closure is true for determined events but false for indeterminate ones.
 
 ## Why Materialism Fails
 
@@ -154,7 +154,7 @@ Problem: why would we have concepts that so systematically misrepresent a physic
 
 This position deserves serious consideration. It acknowledges the depth of the hard problem without abandoning naturalism. But it also reveals something important: the materialist cannot appeal to "future science" as confidently as the analogy with water=H2O suggests. If McGinn is right, no amount of scientific progress will close the gap—not because the gap is metaphysical, but because our minds cannot traverse it.
 
-the site's position differs from mysterianism. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet agrees that our cognitive limitations may hide important truths. But rather than treating the hard problem as a mystery we cannot solve, the site takes it as evidence that the materialist framework is wrong—that consciousness is not derived from the physical at all.
+The site's position differs from mysterianism. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet agrees that our cognitive limitations may hide important truths. But rather than treating the hard problem as a mystery we cannot solve, the site takes it as evidence that the materialist framework is wrong—that consciousness is not derived from the physical at all.
 
 ### Process Philosophy Perspective
 
@@ -162,7 +162,7 @@ Alfred North Whitehead's process philosophy challenges the substance metaphysics
 
 On this view, the hard problem dissolves differently than in idealism or materialism. Consciousness doesn't *emerge* from matter because experience goes "all the way down." The question isn't how to get experience from non-experience but how simple experiences combine into complex ones—the [[combination-problem|combination problem]] that also faces [[panpsychism]].
 
-this site doesn't commit to process philosophy, but the framework illustrates that the materialism/dualism binary may be a false dichotomy. The hard problem's intractability under materialism doesn't force us into Cartesian substance dualism—other options exist. What matters for this site is the core claim: consciousness is not reducible to or derivable from the physical as materialism conceives it.
+This site doesn't commit to process philosophy, but the framework illustrates that the materialism/dualism binary may be a false dichotomy. The hard problem's intractability under materialism doesn't force us into Cartesian substance dualism—other options exist. What matters for this site is the core claim: consciousness is not reducible to or derivable from the physical as materialism conceives it.
 
 ### Idealism as an Alternative
 
@@ -172,7 +172,7 @@ The idealist challenge sharpens the materialist dilemma. Materialism's appeal li
 
 Physicalists respond that idealism has its own challenges: explaining why "appearances" follow lawful regularities (why can't consciousness appear however it wants?), and accounting for the apparent independence of the physical world from any particular mind. But these challenges are arguably less severe than the hard problem: regularities can be attributed to the structure of universal consciousness, whereas materialism struggles to explain why *any* physical process should feel like anything.
 
-this site's framework differs from both idealism and materialism. It agrees with idealism that consciousness is fundamental, but maintains that physical reality exists distinctly and that consciousness interacts with it through [[quantum-consciousness|quantum mechanisms]]. The interaction problem for dualism is addressed; the hard problem for materialism remains unanswered.
+This site's framework differs from both idealism and materialism. It agrees with idealism that consciousness is fundamental, but maintains that physical reality exists distinctly and that consciousness interacts with it through [[quantum-consciousness|quantum mechanisms]]. The interaction problem for dualism is addressed; the hard problem for materialism remains unanswered.
 
 ## Relation to this site's Perspective
 
@@ -190,7 +190,7 @@ Materialism is the site's primary opponent. Understanding its failure motivates 
 
 ## What Would Challenge This View?
 
-the site's rejection of materialism is not unfalsifiable. Several findings could provide evidence for materialism:
+The site's rejection of materialism is not unfalsifiable. Several findings could provide evidence for materialism:
 
 1. **A successful reduction.** If a future theory genuinely explained why specific neural configurations produce specific qualia—not just correlated them, but showed the entailment—this would support materialism. The key test: could such a theory predict what it's like to have novel experiences (new colors, new senses) from physical descriptions alone?
 

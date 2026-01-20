@@ -79,7 +79,7 @@ Agent-causalists respond: demanding further explanation assumes event-causal red
 
 ## the site's Framework: Selection Is Not Random
 
-the site's position strengthens the agent-causal response through the quantum selection mechanism:
+The site's position strengthens the agent-causal response through the quantum selection mechanism:
 
 ### Not Mere Indeterminism
 
@@ -100,7 +100,7 @@ This phenomenology distinguishes selection from luck. Lucky events don't feel li
 
 ### Reasons-Guided Selection
 
-the site's position isn't that consciousness randomly biases quantum outcomes. It's that consciousness selects based on reasons—the same reasons that make actions intelligible. The agent selects A because A serves goals, expresses values, responds to considerations that matter.
+The site's position isn't that consciousness randomly biases quantum outcomes. It's that consciousness selects based on reasons—the same reasons that make actions intelligible. The agent selects A because A serves goals, expresses values, responds to considerations that matter.
 
 This makes the selection contrastively explicable after all. Why A rather than B? Because the agent had reasons for A. Those reasons didn't *determine* the outcome—alternative possibilities remained genuine—but they *guided* it. Selection is reasons-responsive, not arbitrary.
 
@@ -118,7 +118,7 @@ Derk Pereboom and others argue that event-causal libertarianism faces a "disappe
 
 Agent-causal libertarianism addresses this directly: the agent doesn't disappear because the agent, as substance, is the causal source. The explanation terminates in "the agent caused it," not in prior events.
 
-the site's framework adds mechanism to this answer. The agent—the conscious substance—exercises causal power at quantum indeterminacies. The agent doesn't disappear because consciousness is doing something physics leaves undetermined.
+The site's framework adds mechanism to this answer. The agent—the conscious substance—exercises causal power at quantum indeterminacies. The agent doesn't disappear because consciousness is doing something physics leaves undetermined.
 
 ## Quantum Selection vs. Luck: Key Distinctions
 
@@ -134,7 +134,7 @@ the site's framework adds mechanism to this answer. The agent—the conscious su
 
 Critics might object: even if consciousness "selects," the selection itself might be lucky. What explains why consciousness selected A rather than B?
 
-the site's response has multiple layers:
+The site's response has multiple layers:
 
 1. **Reasons**: Consciousness selected A because the agent had reasons for A. This provides contrastive explanation.
 

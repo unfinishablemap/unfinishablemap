@@ -143,7 +143,7 @@ If noetic consciousness involves irreducible phenomenology (TOT feels like somet
 
 ### Relation to Autonoetic Coverage
 
-the site now covers:
+The site now covers:
 - **Autonoetic** (episodic): [autonoetic-consciousness](/concepts/autonoetic-consciousness/)
 - **Prospective**: [prospective-memory](/concepts/prospective-memory/)
 - **Working memory**: [working-memory](/concepts/working-memory/)

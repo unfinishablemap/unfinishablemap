@@ -62,7 +62,7 @@ Russell acknowledges that humans "don't know their own preference structure." Hi
 
 ## What Consciousness Adds
 
-the site's framework suggests a deeper issue. If consciousness is fundamental and irreducible—not merely an emergent property of information processing—then human purpose may be tied to consciousness in ways that preferences cannot capture.
+The site's framework suggests a deeper issue. If consciousness is fundamental and irreducible—not merely an emergent property of information processing—then human purpose may be tied to consciousness in ways that preferences cannot capture.
 
 A preference-learning AI treats humans as behavioural systems. It observes inputs (stimuli) and outputs (choices) and infers a utility function. But on the site's view, what matters about humans is not the behavioural mapping but the conscious experience underlying it. Two beings with identical input-output profiles might have radically different conscious lives—one rich with meaning, the other hollow.
 

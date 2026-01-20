@@ -72,7 +72,7 @@ Recent work distinguishes "Sunny Nihilism" from the traditional negative variety
 
 ## this site's Position
 
-the site's framework suggests a fifth option: meaning grounded in consciousness itself.
+The site's framework suggests a fifth option: meaning grounded in consciousness itself.
 
 ### Consciousness as Foundational
 
@@ -120,7 +120,7 @@ This isn't nihilism. Buddhism doesn't say life is meaningless; it says the *ques
 
 This resonates with the site's position that meaning is grounded in consciousness itself. Buddhism agrees that conscious experience is significant—meditation practices presuppose it. But Buddhism adds a nuance: clinging to significance perpetuates suffering, while experiencing it directly, without grasping, transforms both the experience and the experiencer.
 
-the site's framework can integrate this insight. If meaning is grounded in the intrinsic significance of conscious experience, then living meaningfully involves fully engaging that experience—being present, not operating on autopilot. Buddhism's emphasis on mindfulness, on direct phenomenological attention, may be the practice through which consciousness-grounded meaning is actually realized, not just theoretically affirmed.
+The site's framework can integrate this insight. If meaning is grounded in the intrinsic significance of conscious experience, then living meaningfully involves fully engaging that experience—being present, not operating on autopilot. Buddhism's emphasis on mindfulness, on direct phenomenological attention, may be the practice through which consciousness-grounded meaning is actually realized, not just theoretically affirmed.
 
 ## The AI Alignment Connection
 
@@ -130,13 +130,13 @@ Standard alignment approaches learn from human preferences, treating choices as 
 
 This creates a surprising convergence. AI safety researchers need to understand human purpose, but human purpose is precisely what philosophy has debated inconclusively for millennia. The alignment problem may be partly unsolvable because the meaning-of-life problem remains unsolved.
 
-the site's consciousness-centric framework illuminates why. If consciousness is fundamental and irreducible, then what matters about human life may be tied to features of experience that no behavioural analysis can capture. A preference-learning AI observes inputs and outputs but cannot grasp what it is like to live a human life. It can model choices but not understand why those choices matter from the inside.
+The site's consciousness-centric framework illuminates why. If consciousness is fundamental and irreducible, then what matters about human life may be tied to features of experience that no behavioural analysis can capture. A preference-learning AI observes inputs and outputs but cannot grasp what it is like to live a human life. It can model choices but not understand why those choices matter from the inside.
 
 This doesn't make alignment impossible, but it suggests a posture of humility. AI systems should support human inquiry into meaning rather than presume to have discovered it. They should be partners in the unfinishable map, not confident optimizers of a utility function we cannot fully articulate.
 
 ## Responding to Nihilism
 
-the site's framework provides resources against the main nihilist arguments.
+The site's framework provides resources against the main nihilist arguments.
 
 ### Against Cosmic Insignificance
 

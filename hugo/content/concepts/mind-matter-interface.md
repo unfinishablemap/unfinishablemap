@@ -35,7 +35,7 @@ topics:
 - '[[free-will]]'
 ---
 
-the site employs two major frameworks for understanding consciousness's relationship to the physical world: [filter theory](/concepts/filter-theory/) (James, Bergson, Huxley) and [quantum selection mechanisms](/concepts/quantum-consciousness/) (Stapp, Penrose-Hameroff). These might appear to be separate explanatory strategies—even incompatible ones. Filter theory treats consciousness as something the brain *receives* or *transmits*; quantum selection treats consciousness as something that *acts* on quantum outcomes. One is about correlation without production; the other is about causal efficacy.
+The site employs two major frameworks for understanding consciousness's relationship to the physical world: [filter theory](/concepts/filter-theory/) (James, Bergson, Huxley) and [quantum selection mechanisms](/concepts/quantum-consciousness/) (Stapp, Penrose-Hameroff). These might appear to be separate explanatory strategies—even incompatible ones. Filter theory treats consciousness as something the brain *receives* or *transmits*; quantum selection treats consciousness as something that *acts* on quantum outcomes. One is about correlation without production; the other is about causal efficacy.
 
 This article argues these frameworks are complementary layers of a unified model. Together they explain both why brain-consciousness correlation doesn't entail production *and* how consciousness can be causally efficacious without violating physical law.
 

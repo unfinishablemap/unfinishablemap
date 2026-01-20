@@ -29,7 +29,7 @@ topics:
 
 The luck objection is the most persistent challenge to libertarian free will. While much philosophical debate focuses on whether determinism threatens freedom, a long line of philosophers argue that *indeterminism* is equally fatal. If choices aren't causally predetermined, they must be random—and random choices aren't more "free" than determined ones. They're just arbitrary.
 
-this site's framework provides a distinctive response: consciousness *selects* quantum outcomes rather than merely receiving them. This transforms the relationship to indeterminacy from passive luck to active choice.
+This site's framework provides a distinctive response: consciousness *selects* quantum outcomes rather than merely receiving them. This transforms the relationship to indeterminacy from passive luck to active choice.
 
 ## The Problem Stated
 
@@ -104,7 +104,7 @@ But this response, while coherent, leaves critics feeling that the luck objectio
 
 ## the site's Framework: Selection Is Not Random
 
-this site's position strengthens the agent-causal response by specifying how consciousness exercises causal power at quantum indeterminacies. The key distinction:
+This site's position strengthens the agent-causal response by specifying how consciousness exercises causal power at quantum indeterminacies. The key distinction:
 
 ### Not Mere Indeterminism
 
@@ -155,7 +155,7 @@ This doesn't mean the phenomenology argument is circular. the site's dualism res
 
 ### Reasons-Guided Selection
 
-the site's position isn't that consciousness randomly biases quantum outcomes. It's that consciousness selects based on reasons—the same reasons that make actions intelligible. The agent selects A because A serves goals, expresses values, responds to considerations that matter.
+The site's position isn't that consciousness randomly biases quantum outcomes. It's that consciousness selects based on reasons—the same reasons that make actions intelligible. The agent selects A because A serves goals, expresses values, responds to considerations that matter.
 
 This makes the selection contrastively explicable. Why A rather than B? Because the agent had reasons for A. Those reasons didn't *determine* the outcome—alternative possibilities remained genuine—but they *guided* it. Selection is reasons-responsive, not arbitrary.
 
@@ -197,7 +197,7 @@ The luck objection would succeed against the site's framework if:
 
 The luck objection directly challenges this site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—that consciousness causally influences the physical world. If that influence is random rather than guided, it provides no more freedom than determinism.
 
-the site's response depends on several commitments:
+The site's response depends on several commitments:
 
 - **[Dualism](/tenets/#dualism)**: Consciousness is ontologically distinct, capable of genuine causation
 - **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The mechanism works through quantum indeterminacies

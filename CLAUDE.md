@@ -149,7 +149,7 @@ Key principles:
 
 ## AI Automation System
 
-the site includes scheduled AI automation for content development. All AI-generated content is created as drafts requiring human review.
+The site includes scheduled AI automation for content development. All AI-generated content is created as drafts requiring human review.
 
 ### Skills (Slash Commands)
 

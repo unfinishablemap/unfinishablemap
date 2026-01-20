@@ -216,7 +216,7 @@ This connects to the core [[explanatory-gap]] argument: physics describes struct
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet raises an interesting question: if qualia can vary independently of function, do they causally differ? If my "red" and your "green" produce exactly the same behavior, do qualia make any difference?
 
-this site's answer is yes—but the effects may be subtle, showing up in aesthetic preferences, emotional valences, or [[introspection|introspective]] reports that resist precise behavioral matching. More fundamentally, if consciousness participates in quantum selection (as the Minimal Quantum Interaction tenet proposes), different qualia might influence selection differently even when the observable behavioral outputs converge. The point where physics leaves outcomes undetermined is also the point where qualitative differences could matter causally.
+This site's answer is yes—but the effects may be subtle, showing up in aesthetic preferences, emotional valences, or [[introspection|introspective]] reports that resist precise behavioral matching. More fundamentally, if consciousness participates in quantum selection (as the Minimal Quantum Interaction tenet proposes), different qualia might influence selection differently even when the observable behavioral outputs converge. The point where physics leaves outcomes undetermined is also the point where qualitative differences could matter causally.
 
 The epiphenomenalist alternative—that qualia differ without differing causally—faces the self-stultification objection. If my "phenomenal red" never affected any neuron, how did neurons come to produce accurate reports about phenomenal redness? The fact that we discuss inverted qualia at all suggests qualia have causal efficacy. See [[epiphenomenalism]] for the full treatment.
 
@@ -232,7 +232,7 @@ The [[decoherence]] objection—that quantum effects are too brief for conscious
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects to inverted qualia through [[haecceity]]. If all quantum outcomes occur (as MWI holds), then in some branch Invert experiences phenomenal red and in another phenomenal green—and both branches are equally real. The question "what does Invert *actually* experience?" becomes unanswerable or meaningless.
 
-this site holds that the question is meaningful. There is a fact about what Invert experiences, not just what Invert experiences in this or that branch. Inverted qualia scenarios presuppose this: we're asking whether Invert's experience differs from Nonvert's, not whether some branch of Invert differs from some branch of Nonvert. The conceivability of the scenario supports real collapse and genuine indexical facts about experience.
+This site holds that the question is meaningful. There is a fact about what Invert experiences, not just what Invert experiences in this or that branch. Inverted qualia scenarios presuppose this: we're asking whether Invert's experience differs from Nonvert's, not whether some branch of Invert differs from some branch of Nonvert. The conceivability of the scenario supports real collapse and genuine indexical facts about experience.
 
 ### Occam's Razor Has Limits
 

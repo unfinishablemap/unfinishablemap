@@ -28,7 +28,7 @@ topics:
 
 Phenomenal value realism is the metaethical view that intrinsic value is a feature of conscious experience itself. On this view, the positive quality of pleasure and the negative quality of suffering are not merely correlated with value or indicative of it—they *constitute* what value is. To experience pleasure just is to instantiate intrinsic goodness; to suffer just is to instantiate intrinsic badness.
 
-this site is committed to a version of phenomenal value realism: consciousness grounds value, and without conscious experience, nothing has intrinsic worth.
+This site is committed to a version of phenomenal value realism: consciousness grounds value, and without conscious experience, nothing has intrinsic worth.
 
 ## The Core Claim
 
@@ -51,7 +51,7 @@ The coherence test: "pleasant feelings are intrinsically bad" would be incoheren
 
 ## the site's Position: Phenomenal Value Pluralism
 
-this site adopts a variant that extends beyond pure hedonism. While hedonic valence (pleasure/pain) matters, it isn't the only thing that matters. Multiple features of conscious experience have intrinsic value:
+This site adopts a variant that extends beyond pure hedonism. While hedonic valence (pleasure/pain) matters, it isn't the only thing that matters. Multiple features of conscious experience have intrinsic value:
 
 | Feature | Why It Matters |
 |---------|----------------|
@@ -66,7 +66,7 @@ This is **phenomenal value pluralism**: multiple phenomenal features contribute 
 
 ### Against Preference Satisfaction
 
-the site explicitly rejects preference satisfaction as the ground of value. From the [purpose-and-alignment](/topics/purpose-and-alignment/) article: preferences are "thin representations of values" and "unreliable guides to our own good."
+The site explicitly rejects preference satisfaction as the ground of value. From the [purpose-and-alignment](/topics/purpose-and-alignment/) article: preferences are "thin representations of values" and "unreliable guides to our own good."
 
 The argument: evolution shaped preferences for survival and reproduction, not for flourishing. You can prefer things that make your experience worse; you can fail to prefer things that would make it better. The quality of experience matters, not whether you wanted it.
 
@@ -76,7 +76,7 @@ This distinguishes phenomenal value realism from desire-satisfaction theory, whi
 
 Standard "objective list" theories hold that multiple things are intrinsically good—knowledge, friendship, achievement, autonomy—regardless of whether you want them or find them pleasant.
 
-the site's view differs: these things are valuable *because of how they feature in conscious experience*. Knowledge is good because understanding feels a certain way. Friendship is good because connection feels a certain way. There is no value that exists outside of experience.
+The site's view differs: these things are valuable *because of how they feature in conscious experience*. Knowledge is good because understanding feels a certain way. Friendship is good because connection feels a certain way. There is no value that exists outside of experience.
 
 The experience requirement: nothing has intrinsic value unless experienced. This rules out:
 - Value in unconscious states
@@ -85,7 +85,7 @@ The experience requirement: nothing has intrinsic value unless experienced. This
 
 ## Connection to Dualism
 
-the site's dualism gives phenomenal value realism distinctive force.
+The site's dualism gives phenomenal value realism distinctive force.
 
 If consciousness is fundamental—not reducible to physical processes—then value (grounded in consciousness) is equally fundamental. Value isn't an overlay on physical reality; it's built into what fundamentally exists.
 
@@ -95,7 +95,7 @@ The [Dualism tenet](/tenets/#dualism) holds that consciousness is not reducible 
 
 ## Connection to Indexical Identity
 
-the site's emphasis on [indexical identity](/concepts/haecceity/) extends to value. *This* experience matters—not just experiences-of-this-type. Your particular conscious life has value that couldn't be replicated by a qualitatively identical duplicate.
+The site's emphasis on [indexical identity](/concepts/haecceity/) extends to value. *This* experience matters—not just experiences-of-this-type. Your particular conscious life has value that couldn't be replicated by a qualitatively identical duplicate.
 
 Most value theories treat value as type-based: pleasure is good wherever it occurs, identically. the site suggests token-based value: *this* particular experience, happening to *this* particular subject, has unique significance.
 

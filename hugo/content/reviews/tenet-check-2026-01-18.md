@@ -52,7 +52,7 @@ The framework carefully distinguishes legitimate quantum consciousness research 
 
 **Status: Fully Aligned** ✓
 
-the site consistently rejects epiphenomenalism:
+The site consistently rejects epiphenomenalism:
 - `epiphenomenalism.md` contains powerful "Self-Stultification Problem" showing epiphenomenalism undermines itself
 - `filter-theory.md` explicitly provides bidirectionality: brain-to-consciousness and consciousness-to-brain
 - `emergence.md` articulates quantum mechanism for downward causation
@@ -64,7 +64,7 @@ the site consistently rejects epiphenomenalism:
 
 **Status: Fully Aligned** ✓
 
-the site's rejection of MWI is clear:
+The site's rejection of MWI is clear:
 - `quantum-interpretations.md` explicitly lists "No Many Worlds" as foundational commitment
 - `quantum-consciousness.md` explains consciousness plays a role only if collapse is real
 - `personal-identity.md` and `meaning-of-life.md` use indexical identity (from No MWI) to ground meaning
@@ -75,7 +75,7 @@ the site's rejection of MWI is clear:
 
 **Status: Fully Aligned** ✓
 
-the site consistently challenges naive applications of parsimony:
+The site consistently challenges naive applications of parsimony:
 - `arguments-for-dualism.md` dedicates substantial space to the parsimony objection
 - `mysterianism.md` explicitly supports the tenet via McGinn's cognitive closure
 - All files invoking parsimony do so to *challenge* simplicity-based arguments, not endorse them
@@ -141,4 +141,4 @@ All concept files pass alignment checks. Particularly strong alignment in:
 
 ## Conclusion
 
-the site maintains excellent tenet alignment. Content is philosophically rigorous, opposing views are treated fairly, and the framework is internally consistent. The three notes identify minor presentation improvements, not compliance issues.
+The site maintains excellent tenet alignment. Content is philosophically rigorous, opposing views are treated fairly, and the framework is internally consistent. The three notes identify minor presentation improvements, not compliance issues.

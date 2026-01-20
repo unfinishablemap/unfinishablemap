@@ -153,7 +153,7 @@ None of this proves that quantum effects cause consciousness, but it establishes
 
 ## What Coherence Does Not Require
 
-the site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness biases quantum outcomes without injecting energy. This requires consciousness to influence the selection among quantum possibilities—but it may not require sustained coherence.
+The site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness biases quantum outcomes without injecting energy. This requires consciousness to influence the selection among quantum possibilities—but it may not require sustained coherence.
 
 Henry Stapp's [[quantum-consciousness#quantum-zeno-effect-stapp|quantum Zeno mechanism]] offers an alternative that sidesteps the coherence problem entirely. Rapid repeated mental "observations" can maintain neural patterns without requiring coherence to survive *between* observations. The observations happen faster than decoherence acts.
 
@@ -170,7 +170,7 @@ The coherence question thus divides quantum consciousness proposals:
 
 ## Relation to Site Perspective
 
-the site's tenets don't require proving that quantum coherence persists for any specific duration. They require:
+The site's tenets don't require proving that quantum coherence persists for any specific duration. They require:
 
 1. **Dualism**: Consciousness is not reducible to physical processes. Neural quantum coherence is compatible with dualism but doesn't prove it.
 

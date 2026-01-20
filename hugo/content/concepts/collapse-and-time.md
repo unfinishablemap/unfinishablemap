@@ -77,7 +77,7 @@ The debate over collapse maps onto traditional [philosophy of time](/concepts/ph
 
 **Time-symmetric interpretations complicate both.** If transactions are constrained by future and past boundaries jointly, simple presentism fails (future must exist to provide constraints), but so does simple eternalism (the transaction "completing" implies something about temporal becoming). The TSVF framework suggests that what fundamentally exists might be the pattern of correlations, with both A-series and B-series as partial perspectives.
 
-the site's framework proposes a **modified growing block**. Past and present exist; the future doesn't yet. The "growth" of the block *is* collapse—the resolution of quantum superposition into definite history. Consciousness participates in this growth through its role in collapse. The present is where superpositions resolve; the past is accumulated collapsed structure; the future awaits selection.
+The site's framework proposes a **modified growing block**. Past and present exist; the future doesn't yet. The "growth" of the block *is* collapse—the resolution of quantum superposition into definite history. Consciousness participates in this growth through its role in collapse. The present is where superpositions resolve; the past is accumulated collapsed structure; the future awaits selection.
 
 This isn't growth *in* time but the *constitution of* time. The flow we experience is what time-constitution feels like from within. The [specious present](/concepts/specious-present/)—the experienced duration of "now"—may be the phenomenological manifestation of consciousness's constitutive role, not merely a neural representation of external time.
 
@@ -107,7 +107,7 @@ The Many-Worlds interpretation sidesteps collapse and time asymmetry entirely. T
 
 MWI defenders (Deutsch, Carroll, Wallace) argue that temporal asymmetry emerges from branching structure: the number of branches increases over time due to the thermodynamic arrow, and self-locating uncertainty explains the phenomenology of flow. On this view, you experience time passing because you're constantly discovering which branch you're in.
 
-the site rejects this for several reasons. First, the "discovery" model treats temporal experience as epistemic—learning where you are—rather than constitutive. But the phenomenology of temporal flow isn't discovery; it's creation. The future doesn't feel like a region we haven't visited yet; it feels open, genuinely undetermined. MWI converts this openness into illusion.
+The site rejects this for several reasons. First, the "discovery" model treats temporal experience as epistemic—learning where you are—rather than constitutive. But the phenomenology of temporal flow isn't discovery; it's creation. The future doesn't feel like a region we haven't visited yet; it feels open, genuinely undetermined. MWI converts this openness into illusion.
 
 Second, the branching structure presupposes what it purports to explain. Why do branches increase rather than decrease? The answer traces to the Past Hypothesis (low-entropy initial conditions), which MWI inherits from thermodynamics rather than explaining. The quantum arrow doesn't reduce to branching; it's assumed in setting up the branches.
 

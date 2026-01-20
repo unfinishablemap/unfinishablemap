@@ -22,7 +22,7 @@ The Unfinishable Map has developed into a remarkably coherent philosophical fram
 
 ### The Property Dualist (Chalmers)
 
-the site takes the explanatory gap with appropriate seriousness. The hard-problem-of-consciousness article is exemplary—it doesn't merely gesture at the gap but systematically works through why each materialist response fails. The zombie argument receives careful treatment that distinguishes the epistemic situation from other a posteriori identities. Chalmers would particularly appreciate:
+The site takes the explanatory gap with appropriate seriousness. The hard-problem-of-consciousness article is exemplary—it doesn't merely gesture at the gap but systematically works through why each materialist response fails. The zombie argument receives careful treatment that distinguishes the epistemic situation from other a posteriori identities. Chalmers would particularly appreciate:
 
 - The comparison table showing how different frameworks face parallel challenges (hard problem, combination problem, regularity problem, interaction problem)
 - Recognition that NCC findings are metaphysically neutral
@@ -33,7 +33,7 @@ the site takes the explanatory gap with appropriate seriousness. The hard-proble
 
 ### The Quantum Mind Theorist (Stapp)
 
-the site engages Stapp's work with unusual sophistication. The quantum-consciousness article doesn't just mention the quantum Zeno effect but explains *why* it's philosophically relevant—it provides a mechanism without new physics. Stapp would praise:
+The site engages Stapp's work with unusual sophistication. The quantum-consciousness article doesn't just mention the quantum Zeno effect but explains *why* it's philosophically relevant—it provides a mechanism without new physics. Stapp would praise:
 
 - The distinction between Orch OR and quantum Zeno approaches, showing both share core commitments while differing in mechanism
 - Recognition that the Zeno mechanism sidesteps decoherence by not requiring sustained coherence
@@ -44,7 +44,7 @@ the site engages Stapp's work with unusual sophistication. The quantum-conscious
 
 ### The Phenomenologist (Nagel)
 
-the site centers first-person experience without becoming mysterian in a defeatist sense. Nagel would appreciate:
+The site centers first-person experience without becoming mysterian in a defeatist sense. Nagel would appreciate:
 
 - The temporal-consciousness material on the specious present—this is what it's like to be a conscious being in time
 - The introspection article's engagement with reliability concerns while defending first-person methods

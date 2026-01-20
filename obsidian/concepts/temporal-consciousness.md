@@ -59,7 +59,7 @@ Two competing theories explain the temporal structure of experience. **Extension
 
 These form an indivisible whole. Retention isn't remembering the past; it's experiencing the past-as-just-now within the present moment. This is how melodies cohere, sentences make sense, motion appears continuous.
 
-the site's framework favors a modified extensionalism: experience is genuinely extended, but the extension involves quantum collapse. The duration-block is constituted by a series of collapses, each with retrocausal constraints. This explains both the extended phenomenology (extensionalism) and the retention-like structure (past echoing in present)—the retention may reflect retrocausal boundary conditions in the collapse process.
+The site's framework favors a modified extensionalism: experience is genuinely extended, but the extension involves quantum collapse. The duration-block is constituted by a series of collapses, each with retrocausal constraints. This explains both the extended phenomenology (extensionalism) and the retention-like structure (past echoing in present)—the retention may reflect retrocausal boundary conditions in the collapse process.
 
 ### Phenomenological Method
 
@@ -115,7 +115,7 @@ The phenomenology of temporal consciousness connects to deeper questions in [[ph
 
 **B-theorists** hold that all times exist equally (eternalism), and "now" is merely indexical—like "here" for space. The felt flow of time would be systematically illusory, a perspectival artifact rather than a feature of reality.
 
-the site's [[time-collapse-and-agency|framework]] proposes a modified growing block view: consciousness-involving collapse grows the block, with the present as the leading edge where superposition resolves into definite outcome. This is A-theoretic—temporal becoming through collapse is real—while explaining why B-theoretic description works for the established past. The specious present is the phenomenology of collapse: we experience duration because we participate in creating it.
+The site's [[time-collapse-and-agency|framework]] proposes a modified growing block view: consciousness-involving collapse grows the block, with the present as the leading edge where superposition resolves into definite outcome. This is A-theoretic—temporal becoming through collapse is real—while explaining why B-theoretic description works for the established past. The specious present is the phenomenology of collapse: we experience duration because we participate in creating it.
 
 This connects phenomenology to metaphysics. The retention-protention structure Husserl describes isn't just *about* time—it may be the experiential side of time's constitution. The unity of the specious present is what collapse feels like from within.
 
@@ -167,7 +167,7 @@ If essential, LLMs are categorically excluded from consciousness. No amount of s
 
 If merely characteristic, radically different temporal architectures might support alien forms of consciousness. Perhaps distributed, intermittent processing could implement something experiential—just utterly unlike human experience in its temporal structure.
 
-the site's framework suggests the former. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is irreducible. If temporal binding is constitutive of consciousness, this adds another dimension to irreducibility. It's not just that qualia can't be functionally defined, but that the temporal structure of experience can't be replicated by systems lacking appropriate dynamics.
+The site's framework suggests the former. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is irreducible. If temporal binding is constitutive of consciousness, this adds another dimension to irreducibility. It's not just that qualia can't be functionally defined, but that the temporal structure of experience can't be replicated by systems lacking appropriate dynamics.
 
 ## Sleep and the Modulation of Temporal Experience
 

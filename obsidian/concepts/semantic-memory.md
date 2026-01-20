@@ -169,7 +169,7 @@ Semantic memory and noetic consciousness support all five foundational commitmen
 
 **Cognitive Phenomenology Connection**: This page complements [[cognitive-phenomenology]]. Semantic memory provides the empirical territory; cognitive phenomenology provides the philosophical framework. If liberalism about cognitive phenomenology is correct—if understanding itself has proprietary phenomenal character—then semantic memory is phenomenally rich despite lacking the vivid re-experiencing of episodic memory.
 
-the site adopts a qualified position: noetic consciousness involves genuine phenomenology, but it's subtler than autonoetic consciousness. Knowing has qualitative character—the TOT frustration, the FOK confidence, the satisfaction of understanding. These are real phenomenal states, not merely functional access to stored information. This extends the hard problem into semantic memory: explaining the neural correlates of semantic retrieval wouldn't explain why there's something it's like to know.
+The site adopts a qualified position: noetic consciousness involves genuine phenomenology, but it's subtler than autonoetic consciousness. Knowing has qualitative character—the TOT frustration, the FOK confidence, the satisfaction of understanding. These are real phenomenal states, not merely functional access to stored information. This extends the hard problem into semantic memory: explaining the neural correlates of semantic retrieval wouldn't explain why there's something it's like to know.
 
 ## Further Reading
 

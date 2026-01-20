@@ -56,7 +56,7 @@ Peter Carruthers argues valence is a nonconceptual representation of value, not 
 - **Outward-directed attention**: During emotion, attention typically focuses on external objects, not inner states. Fear is about the threat, not about one's feeling of fear.
 - **Uniform structure**: Valence has the same basic structure across diverse states (pains, pleasures, emotions, moods). If valence were an intrinsic property, we'd expect more qualitative diversity.
 
-this site favours the hedonic account. Pain asymbolia demonstrates that representation and felt quality come apart. The explanatory gap is as wide for "why does pain feel bad?" as for "why does red look red?" Evaluativism may explain attention direction, but it doesn't explain why the badness is *felt*.
+This site favours the hedonic account. Pain asymbolia demonstrates that representation and felt quality come apart. The explanatory gap is as wide for "why does pain feel bad?" as for "why does red look red?" Evaluativism may explain attention direction, but it doesn't explain why the badness is *felt*.
 
 ## The Subcortical-Cortical Debate
 
@@ -84,7 +84,7 @@ On this view, the subcortical amygdala produces behavioural responses to threats
 
 ### Resolution for this site
 
-the site's framework can accommodate both views. What matters is whether emotional consciousness, wherever it arises, has irreducible phenomenal character. Even if LeDoux is right that conscious fear requires cortical processing, the felt badness of fear remains unexplained by higher-order representation alone. A representation *of* an emotional state doesn't explain why there's something it's like to have that state.
+The site's framework can accommodate both views. What matters is whether emotional consciousness, wherever it arises, has irreducible phenomenal character. Even if LeDoux is right that conscious fear requires cortical processing, the felt badness of fear remains unexplained by higher-order representation alone. A representation *of* an emotional state doesn't explain why there's something it's like to have that state.
 
 The subcortical-cortical debate concerns the neural mechanisms of emotional consciousness, not whether such consciousness exists. Both sides accept that emotional feelings are real phenomenal states—they dispute only where in the brain these states are generated.
 
@@ -112,7 +112,7 @@ Chalmers' "philosophical Vulcan" thought experiment tests the distinction: imagi
 
 Valence sentientists say no: without the capacity for suffering, there's nothing to protect and no interests to consider. Broad sentientists say yes: the mere fact of experience creates moral significance, even absent pleasure or pain.
 
-this site's [[phenomenal-value-realism]] aligns with valence sentientism while extending it: not just valenced experience, but multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value. All, however, are features of conscious experience. There is no value outside of consciousness.
+This site's [[phenomenal-value-realism]] aligns with valence sentientism while extending it: not just valenced experience, but multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value. All, however, are features of conscious experience. There is no value outside of consciousness.
 
 ### Simple Organisms and Valence
 

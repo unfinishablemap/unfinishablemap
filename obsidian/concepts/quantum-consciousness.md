@@ -50,7 +50,7 @@ last_deep_review: 2026-01-20T09:48:55+00:00
 
 Several serious scientific proposals attempt to explain how consciousness might interact with the physical world at the quantum level. These aren't "quantum mysticism" but rigorous theories developed by physicists and neuroscientists. They propose specific mechanisms by which consciousness could influence brain activity without violating physical law.
 
-this site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet aligns with these approaches: consciousness operates at quantum indeterminacies, biasing otherwise undetermined outcomes without injecting energy or violating conservation laws. Understanding the specific proposals—and their challenges—clarifies what the tenet means concretely.
+This site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet aligns with these approaches: consciousness operates at quantum indeterminacies, biasing otherwise undetermined outcomes without injecting energy or violating conservation laws. Understanding the specific proposals—and their challenges—clarifies what the tenet means concretely.
 
 ## The Quantum Opening
 
@@ -62,7 +62,7 @@ This is the opening for mental causation. At quantum indeterminacies, physical c
 
 The measurement problem creates logical space for consciousness at collapse—something must select among possibilities, and physics doesn't specify what. This transforms the exclusion argument: rather than mental causes being crowded out by physical causes, mental causes operate precisely where physical causation runs out.
 
-the site's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the alternative: that all outcomes occur in branching universes and consciousness just "finds itself" in one branch. The [[many-worlds|Against Many-Worlds]] argument page details five arguments against this interpretation: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and that consciousness has no role. If collapse is real and outcomes are genuinely undetermined until selected, something must do the selecting. Consciousness is a candidate.
+The site's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the alternative: that all outcomes occur in branching universes and consciousness just "finds itself" in one branch. The [[many-worlds|Against Many-Worlds]] argument page details five arguments against this interpretation: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and that consciousness has no role. If collapse is real and outcomes are genuinely undetermined until selected, something must do the selecting. Consciousness is a candidate.
 
 ## Orchestrated Objective Reduction (Orch OR)
 
@@ -344,7 +344,7 @@ These shared features align with the site's tenets.
 
 A serious objection to consciousness-collapse theories: if consciousness is required for collapse, what determined outcomes before conscious observers existed? Stars formed, chemistry proceeded, mutations accumulated—all before the first mind. This [[prebiotic-collapse|prebiotic collapse problem]] threatens to make quantum consciousness theories cosmologically incoherent.
 
-the site resolves this by separating two claims:
+The site resolves this by separating two claims:
 
 1. **Collapse is real.** The universe has a single actual history with definite quantum outcomes, not an eternal superposition of all possibilities. This is the [[tenets#^no-many-worlds|No Many Worlds]] commitment.
 
@@ -364,7 +364,7 @@ The prebiotic problem thus doesn't refute quantum consciousness theories—it re
 
 A related objection: if consciousness causes collapse, whose consciousness counts when multiple observers are involved? If Alice and Bob both measure a quantum system, and Alice's consciousness collapses it to outcome A while Bob's consciousness collapses it to outcome B, what actually happens? This [[multi-mind-collapse-problem|multi-mind collapse problem]] seems to require either nonlocal coordination between minds (violating locality) or some arbitrary priority rule (whose collapse "wins").
 
-the site's resolution follows from the same [[interface-locality]] principle that addresses the brain-boundary question. Consciousness can only modulate collapse within neural systems already integrated into its control loop. Alice's consciousness selects among Alice's neural patterns; Bob's consciousness selects among Bob's. Neither can affect the other's brain or external quantum systems.
+The site's resolution follows from the same [[interface-locality]] principle that addresses the brain-boundary question. Consciousness can only modulate collapse within neural systems already integrated into its control loop. Alice's consciousness selects among Alice's neural patterns; Bob's consciousness selects among Bob's. Neither can affect the other's brain or external quantum systems.
 
 For shared observations, the [[prebiotic-collapse|objective-collapse-plus-modulation]] framework applies:
 
@@ -468,7 +468,7 @@ The framework is committed to these empirical claims. It could be wrong.
 
 ## Relation to this site's Perspective
 
-the site's tenets don't commit to any specific quantum consciousness mechanism. They hold that:
+The site's tenets don't commit to any specific quantum consciousness mechanism. They hold that:
 
 1. **Dualism**: Consciousness is irreducible to physical processes. Quantum consciousness theories honor this by placing consciousness at a point where physics genuinely runs out—the selection of quantum outcomes.
 
@@ -484,7 +484,7 @@ Both Orch OR and Stapp's quantum Zeno approach are compatible with these commitm
 
 ### Strong Emergence with a Mechanism
 
-the site's position can be understood as strong [[emergence|emergentism]] that specifies its mechanism. Classical emergentists (Broad, Alexander, O'Connor and Wong) affirmed that consciousness has genuinely novel causal powers not reducible to physical constituents—this is [[mental-causation|mental causation]]. But they couldn't explain *how* such powers operate without violating physical law.
+The site's position can be understood as strong [[emergence|emergentism]] that specifies its mechanism. Classical emergentists (Broad, Alexander, O'Connor and Wong) affirmed that consciousness has genuinely novel causal powers not reducible to physical constituents—this is [[mental-causation|mental causation]]. But they couldn't explain *how* such powers operate without violating physical law.
 
 Quantum consciousness theories provide the mechanism. Mental causation operates at quantum indeterminacies, where physics provides necessary but not sufficient causes. This respects the spirit of causal closure (physics explains what physics determines) while denying its letter (physics doesn't determine everything). Consciousness's "novel causal powers" consist in selecting among quantum outcomes—exactly where selection is needed and physics offers none.
 

@@ -138,7 +138,7 @@ This "[multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/)" gen
 - **Consensus required**: But this requires either nonlocal coordination between minds or indefinite superposition until all observers agree.
 - **Dominant consciousness**: But this requires an unmeasurable hierarchy of observer "strength."
 
-the site's resolution combines [interface-locality](/concepts/interface-locality/) with [objective collapse](/concepts/prebiotic-collapse/). Consciousness doesn't cause collapse universally—it *modulates* collapse specifically within neural systems. External reality (the photon's position) is determined by physical objective collapse. Each consciousness then modulates only its own brain's response to that already-determined external fact.
+The site's resolution combines [interface-locality](/concepts/interface-locality/) with [objective collapse](/concepts/prebiotic-collapse/). Consciousness doesn't cause collapse universally—it *modulates* collapse specifically within neural systems. External reality (the photon's position) is determined by physical objective collapse. Each consciousness then modulates only its own brain's response to that already-determined external fact.
 
 This dissolves the coordination problem: Alice's consciousness affects Alice's neural patterns; Bob's affects Bob's. There is no point where their selections must be reconciled because they operate on entirely different substrates. Agreement between observers reflects the fact that external reality was determined by physics, not that multiple consciousnesses somehow coordinated their selections.
 
@@ -160,7 +160,7 @@ This loophole has important features:
 
 3. **The right location**: The causal closure objection to [interactionist-dualism](/archive/arguments/interactionist-dualism/) assumes physics is closed. But at measurement, it isn't. This is precisely where non-physical causes *could* operate without conflicting with physical law.
 
-the site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness exploits this loophole—biasing quantum outcomes in ways that physics permits but doesn't determine.
+The site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness exploits this loophole—biasing quantum outcomes in ways that physics permits but doesn't determine.
 
 ## Relation to Site Perspective
 

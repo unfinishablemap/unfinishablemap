@@ -134,7 +134,7 @@ This has implications for the [brain-specialness](/concepts/brain-specialness/) 
 
 ## The Rendering Engine Analogy
 
-the site's [mind-brain-separation](/concepts/mind-brain-separation/) article develops an updated version of filter theory using a video game analogy.
+The site's [mind-brain-separation](/concepts/mind-brain-separation/) article develops an updated version of filter theory using a video game analogy.
 
 The brain functions like a rendering engine: it computes how things should look based on available data, textures, lighting models. The result is a visual scene. But the scene is not *produced* by the rendering engine alone—it's produced by an interplay between the engine's capabilities and some source of content (game designers, procedural algorithms, or in this case, consciousness).
 

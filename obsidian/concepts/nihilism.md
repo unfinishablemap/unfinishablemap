@@ -113,7 +113,7 @@ Popular culture oscillates between pessimistic nihilism (the sense that everythi
 
 ## Relation to this site's Perspective
 
-this site's [[tenets]] take positions that resist at least some forms of nihilism.
+This site's [[tenets]] take positions that resist at least some forms of nihilism.
 
 **Against moral nihilism**: The tenets express commitments—chosen starting points that shape exploration. While they are "not proven," they are also not arbitrary. the site treats questions of consciousness, meaning, and value as genuinely important, not as mere preferences. More substantively, if [[qualia]] are real—if there is genuinely something it is like to experience—then some states are intrinsically better or worse than others. The agony of severe pain is not merely *dispreferred*; it is bad in itself. [[phenomenal-value-realism|Phenomenal value realism]] suggests that conscious experience provides the grounding for objective value that moral nihilism claims doesn't exist.
 

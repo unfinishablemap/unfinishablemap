@@ -210,7 +210,7 @@ The following existing pages could benefit from additional cross-links:
 
 ## Summary
 
-the site has grown significantly with strong coverage of:
+The site has grown significantly with strong coverage of:
 - The hard problem and related concepts
 - Major alternatives (panpsychism, idealism)
 - Contemporary issues (AI, free will)

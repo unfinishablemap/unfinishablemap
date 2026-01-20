@@ -150,7 +150,7 @@ Chalmers provides the *philosophical* framework for psychophysical laws; the sit
 - Chalmers: Experience supervenes on certain physical conditions (supervenience law)
 - Site: Conscious attention determines which physical conditions actualize (selection law)
 
-the site should explicitly position itself as developing the *downward* half of psychophysical law theory. Chalmers explains how physics yields experience; the site explains how experience selects physics.
+The site should explicitly position itself as developing the *downward* half of psychophysical law theory. Chalmers explains how physics yields experience; the site explains how experience selects physics.
 
 ## Key Sources
 

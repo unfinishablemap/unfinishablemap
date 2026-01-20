@@ -127,7 +127,7 @@ If consciousness is not reducible to physical processes, meaning might be ground
 If consciousness causally influences physical outcomes, then conscious choices genuinely matter—they shape reality. This grounds a form of objective significance: what we do has real consequences mediated by irreducible consciousness.
 
 ### No Many Worlds and Uniqueness
-the site's rejection of MWI implies each conscious decision has unique significance—there's no branch where you chose differently. This supports meaning grounded in unrepeatable choices.
+The site's rejection of MWI implies each conscious decision has unique significance—there's no branch where you chose differently. This supports meaning grounded in unrepeatable choices.
 
 ## Potential Article Angles
 

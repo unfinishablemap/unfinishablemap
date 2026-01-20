@@ -17,7 +17,7 @@ title: Research Notes - Brain Specialness Boundary (Why Not Psychokinesis)
 
 ## Executive Summary
 
-the site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) + [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets risk an embarrassing implication: if consciousness can bias quantum outcomes, why only in brains? Why can't consciousness move objects, predict the future, or affect random number generators at a distance?
+The site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) + [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets risk an embarrassing implication: if consciousness can bias quantum outcomes, why only in brains? Why can't consciousness move objects, predict the future, or affect random number generators at a distance?
 
 This is the **brain specialness problem**: the site needs a principled boundary that permits consciousness to influence neural quantum events while ruling out parapsychological effects that lack empirical support and violate the site's commitment to scientific respectability.
 

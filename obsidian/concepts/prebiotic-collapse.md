@@ -43,7 +43,7 @@ These are distinct problems:
 
 - **[[evolution-of-consciousness|Phylogenetic emergence]]** concerns which organisms in the tree of life are conscious. Did consciousness appear gradually as nervous systems developed? At a threshold? Was it present from the first cells? This question operates within an already-collapsing physics—objective reduction handles the cosmological timeline—and asks where consciousness began to *interface* with that collapse.
 
-the site's framework separates these cleanly. Objective reduction solves prebiotic collapse regardless of when biological consciousness emerged. The evolution of consciousness then becomes the question of when organisms developed neural architectures suitable for consciousness-collapse interfacing—not when collapse itself began to produce definite outcomes.
+The site's framework separates these cleanly. Objective reduction solves prebiotic collapse regardless of when biological consciousness emerged. The evolution of consciousness then becomes the question of when organisms developed neural architectures suitable for consciousness-collapse interfacing—not when collapse itself began to produce definite outcomes.
 
 ## The Problem Stated
 
@@ -99,7 +99,7 @@ Moreover, MWI eliminates the causal role for consciousness entirely. the site ho
 
 ## the site's Position: Objective Reduction with Consciousness Modulation
 
-the site separates two claims that often get conflated:
+The site separates two claims that often get conflated:
 
 1. **Collapse is real.** Quantum measurement produces definite outcomes; the universe has a single actual history, not an eternal superposition of all possibilities. (This is the No Many Worlds commitment.)
 
@@ -145,7 +145,7 @@ This preserves:
 
 [[Illusionism]]—the view that phenomenal consciousness is itself an introspective illusion—might seem to dissolve the prebiotic problem from a different direction. If there is no "real" consciousness, only functional processes that misrepresent themselves as experiential, then there's nothing non-physical to participate in collapse. The problem assumes consciousness is real; illusionism denies the premise.
 
-the site rejects illusionism for reasons detailed on its [[illusionism|dedicated page]], but the response here is specific: **the illusion problem compounds the prebiotic challenge rather than dissolving it**.
+The site rejects illusionism for reasons detailed on its [[illusionism|dedicated page]], but the response here is specific: **the illusion problem compounds the prebiotic challenge rather than dissolving it**.
 
 If consciousness is an illusion, something must generate that illusion. On illusionist accounts, neural processes produce systematic misrepresentations that seem phenomenal. But this explanation itself requires collapse during the prebiotic era—the neural systems that generate the illusion evolved through quantum events (mutations, molecular interactions) that required definite outcomes. The illusionist cannot escape into "it's all illusion" because the very existence of the illusion-generating system presupposes the cosmological timeline the prebiotic problem addresses.
 
@@ -193,7 +193,7 @@ Objective collapse theories face empirical pressure but remain viable:
 
 **Quantum biology support**: The August 2024 epothilone B study in rats—showing that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness—provides indirect support for consciousness-quantum interaction at neural sites. If microtubule integrity affects consciousness, the interface exists.
 
-the site's commitment is to the *framework* (real collapse + consciousness modulation at neural sites) rather than a specific mechanism. If GRW is ruled out, Penrose-style gravitational collapse or an unknown alternative could still provide objective reduction. What matters is that collapse is real and that consciousness interfaces with collapse in brains—not which specific physical process underlies objective reduction.
+The site's commitment is to the *framework* (real collapse + consciousness modulation at neural sites) rather than a specific mechanism. If GRW is ruled out, Penrose-style gravitational collapse or an unknown alternative could still provide objective reduction. What matters is that collapse is real and that consciousness interfaces with collapse in brains—not which specific physical process underlies objective reduction.
 
 ## Further Reading
 

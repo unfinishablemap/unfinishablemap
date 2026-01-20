@@ -144,7 +144,7 @@ The contemporary version of the interaction problem centers on [[causal-closure|
 
 These premises are jointly inconsistent. Kim concludes that mental properties must be either identical to physical properties (reductionism) or causally inert ([[epiphenomenalism]]). This is the central argument against interactionism.
 
-the site's response: reject premise 1. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that physics is *not* causally closed at quantum indeterminacies. At these points, physics specifies probabilities but not outcomes. The physical story is incomplete, leaving room for consciousness to select among possibilities without adding energy or violating conservation laws.
+The site's response: reject premise 1. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that physics is *not* causally closed at quantum indeterminacies. At these points, physics specifies probabilities but not outcomes. The physical story is incomplete, leaving room for consciousness to select among possibilities without adding energy or violating conservation laws.
 
 Kim's argument fails at quantum indeterminacies because there is no sufficient physical cause to exclude mental causation. Physics provides necessary but not sufficient causes—the probabilities but not which outcome actualizes. Consciousness fills a genuine gap rather than competing with complete physical causes.
 
@@ -172,7 +172,7 @@ Three uncomfortable options arise for naive consciousness-causes-collapse:
 2. **Consensus required**—but this requires either nonlocal coordination or indefinite superposition while awaiting agreement
 3. **Dominant consciousness**—but this requires an arbitrary measure of consciousness intensity
 
-the site's resolution combines [[interface-locality]] with [[prebiotic-collapse]]: each consciousness interfaces only with its own brain, modulating collapse locally. External systems collapse through objective physical processes. No coordination is needed because each mind operates on its own substrate.
+The site's resolution combines [[interface-locality]] with [[prebiotic-collapse]]: each consciousness interfaces only with its own brain, modulating collapse locally. External systems collapse through objective physical processes. No coordination is needed because each mind operates on its own substrate.
 
 This resolution emerges naturally from the mechanism itself. Attention—the proposed interface—is neurally implemented. You cannot attend to distant quantum systems the way you attend to your own neural states. The quantum Zeno effect, operating through repeated observation, requires the observer-system coupling that only exists within one's own brain.
 
@@ -246,7 +246,7 @@ Interactionist dualism can be understood as a form of strong [[emergence]]—con
 
 Classical British emergentists (Broad, Alexander) accepted similar conclusions but had no mechanism to offer. They accepted strong emergence with "natural piety"—brute facts about what higher-level properties do, without explanation of how. This left their position vulnerable to Kim's exclusion argument: if physics is causally complete, emergent properties have no room to operate.
 
-the site's quantum framework provides what classical emergentism lacked: *where* and *how* emergent causation operates. Kim argues that emergent properties face exclusion by their physical realizers. The quantum response: at quantum indeterminacies, there is no sufficient physical realizer to do the excluding. Physics provides necessary but not sufficient causes. Consciousness fills the genuine gap.
+The site's quantum framework provides what classical emergentism lacked: *where* and *how* emergent causation operates. Kim argues that emergent properties face exclusion by their physical realizers. The quantum response: at quantum indeterminacies, there is no sufficient physical realizer to do the excluding. Physics provides necessary but not sufficient causes. Consciousness fills the genuine gap.
 
 ## Property Dualism vs. Substance Dualism
 
@@ -258,7 +258,7 @@ Interactionism is compatible with different dualist ontologies (see [[substance-
 
 The distinction matters less than it might seem for interactionism's viability. Both agree that consciousness is not reducible to physics and that mental properties are genuinely different from physical properties. Chalmers himself now expresses preference for substance dualism, partly because it better handles personal identity and partly because property dualism tends toward either panpsychism (with its combination problem) or epiphenomenalism.
 
-this site is compatible with either formulation. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet), not the precise metaphysical structure underlying them.
+This site is compatible with either formulation. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet), not the precise metaphysical structure underlying them.
 
 ## Objections and Responses
 

@@ -194,7 +194,7 @@ The "observer" or "witness" (Sanskrit: *sakshi*) phenomenon in meditation refers
 ## Synthesis: Relation to Site Framework
 
 ### The Selection-Among-Options Model
-the site holds that consciousness selects among options the brain presents. How does the observer/witness phenomenon fit?
+The site holds that consciousness selects among options the brain presents. How does the observer/witness phenomenon fit?
 
 **Hypothesis 1: Witness State = Suspended Selection**
 In meditation, consciousness temporarily suspends its selecting function. The brain still generates options (thoughts arise), but consciousness doesn't engage—it merely witnesses without choosing. This explains:

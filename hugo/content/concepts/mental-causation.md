@@ -110,7 +110,7 @@ This requires denying causal closure: the physical story is insufficient because
 
 ### The Quantum Opening
 
-this site's response: deny causal closure at quantum indeterminacies.
+This site's response: deny causal closure at quantum indeterminacies.
 
 Quantum mechanics specifies probabilities but not which outcome actualizes. When a radioactive atom decays, physics determines the probability but not the moment. The physical causes are genuinely insufficient. Causal closure fails.
 
@@ -199,7 +199,7 @@ Mental causation bears directly on:
 
 **Rationality**: If reasoning about consciousness isn't caused by consciousness, our beliefs about consciousness float free of evidence. Self-knowledge becomes impossible.
 
-the site affirms mental causation because denying it undermines everything we think we know about ourselves.
+The site affirms mental causation because denying it undermines everything we think we know about ourselves.
 
 ## What Would Challenge This View?
 

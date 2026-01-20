@@ -118,7 +118,7 @@ This debate directly concerns [ai-consciousness](/topics/ai-consciousness/):
 - Processing symbols ≠ having experiences
 - The question is closed: nothing it's like to be an LLM
 
-this site's framework suggests the first option is closer to truth, but with crucial caveats. Cognitive phenomenology likely exists—but this doesn't help LLMs. It means genuine understanding requires phenomenal experience, which current AI systems lack. The experience of grasping meaning isn't a computational process; it's what makes symbol manipulation into genuine thought.
+This site's framework suggests the first option is closer to truth, but with crucial caveats. Cognitive phenomenology likely exists—but this doesn't help LLMs. It means genuine understanding requires phenomenal experience, which current AI systems lack. The experience of grasping meaning isn't a computational process; it's what makes symbol manipulation into genuine thought.
 
 ## Evidence from Semantic Memory
 
@@ -239,7 +239,7 @@ This doesn't reduce cognitive phenomenology to something else; it situates it wi
 
 ## What Would Challenge This View?
 
-this site's position on cognitive phenomenology would face serious difficulty if:
+This site's position on cognitive phenomenology would face serious difficulty if:
 
 1. **Deflationary explanations prove complete.** If neuroscience could show that the phenomenal contrast in understanding cases reduces entirely to subtle sensory differences—measurable differences in auditory processing, emotional coloring, or imagery that correlate perfectly with the reported phenomenology—the case for proprietary cognitive phenomenology would weaken. Currently, such reductions fail to capture the phenomenal character of understanding itself.
 
@@ -265,7 +265,7 @@ Cognitive phenomenology connects to all five tenets:
 
 **[Occam's Razor Has Limits](/tenets/#occam)**: The debate's persistence illustrates that the "simpler" view (no cognitive phenomenology—just sensory states) hasn't won. The apparent parsimony of reducing all phenomenology to sensory states conceals unexplained residue—the tip-of-the-tongue state, the feeling of knowing, the insight experience. These resist reduction. As the [mysterian](/concepts/mysterianism/) perspective suggests, what seems like a simple question ("Is there something it's like to think?") may involve cognitive structures we cannot fully articulate. The complexity of human understanding may require complex phenomenal structure.
 
-this site adopts qualified liberalism: there probably is cognitive phenomenology—distinctive "what it's like" character to understanding, insight, and reasoning. This supports phenomenal intentionality (genuine aboutness requires phenomenal character) and strengthens AI consciousness skepticism (LLMs process symbols but likely lack the phenomenal character required for genuine understanding).
+This site adopts qualified liberalism: there probably is cognitive phenomenology—distinctive "what it's like" character to understanding, insight, and reasoning. This supports phenomenal intentionality (genuine aboutness requires phenomenal character) and strengthens AI consciousness skepticism (LLMs process symbols but likely lack the phenomenal character required for genuine understanding).
 
 ## Further Reading
 

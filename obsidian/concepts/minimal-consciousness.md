@@ -106,7 +106,7 @@ Why do some organisms have consciousness and others not? This is the *distributi
 
 [[Illusionism]]—the view that phenomenal consciousness is an introspective illusion—might seem to dissolve the minimal consciousness debate entirely. If there is no "what it's like" even in humans, the question of whether nematodes or Hydra have experience becomes vacuous. On this view, we should ask only about functional capacities, not about phenomenal properties that don't exist.
 
-the site rejects illusionism for reasons detailed on its [[illusionism|dedicated page]], but the minimal consciousness literature provides a specific response: **the illusion problem scales with complexity**.
+The site rejects illusionism for reasons detailed on its [[illusionism|dedicated page]], but the minimal consciousness literature provides a specific response: **the illusion problem scales with complexity**.
 
 If consciousness is an illusion, the brain generates systematic misrepresentations that *seem* phenomenal. But this illusion-generating machinery presumably requires some neural complexity. A 302-neuron system like *C. elegans* seems an implausible candidate for generating the sophisticated introspective misrepresentations illusionism requires. Either the worm is not under the illusion of consciousness (in which case there's a threshold for the illusion, raising the same questions as thresholds for consciousness itself), or the illusion requires far less machinery than consciousness realists assume (raising the question of why evolution would build elaborate illusion-generators at such minimal complexity).
 
@@ -154,7 +154,7 @@ This perspective doesn't commit the site to full Whiteheadian metaphysics. But i
 
 ## What Would Challenge This View?
 
-the site's perspective on minimal consciousness would be undermined if:
+The site's perspective on minimal consciousness would be undermined if:
 
 1. **Complete neural mapping revealed consciousness mechanisms**: If mapping *C. elegans* completely eventually enabled us to determine whether it experiences anything—through some property we currently don't measure—this would challenge the claim that structural knowledge cannot bridge the explanatory gap. Currently, complete connectome knowledge tells us nothing about phenomenal facts.
 

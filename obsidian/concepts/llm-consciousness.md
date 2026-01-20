@@ -224,7 +224,7 @@ This connects to the broader point: consciousness isn't just information process
 
 ## What Would Challenge This View?
 
-the site's skepticism about LLM consciousness would be substantially weakened if:
+The site's skepticism about LLM consciousness would be substantially weakened if:
 
 1. **Functionalism explained qualia.** If a compelling functionalist account emerged that genuinely bridged the [[hard-problem-of-consciousness|explanatory gap]]—not just asserting that functional organization produces experience but showing *why* it must—the site's dualism would lose its primary motivation. So far, all functionalist accounts change the subject (explaining access consciousness, not phenomenal consciousness) or appeal to future science. A genuine solution would undermine the framework that excludes LLMs.
 

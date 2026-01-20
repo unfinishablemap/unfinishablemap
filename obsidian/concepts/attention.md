@@ -83,7 +83,7 @@ Colin McGinn's [[mysterianism]] offers a sobering possibility: the attention-con
 
 This would explain the persistent "deadlock": every attempt to study the relationship (whether through introspection, neuroimaging, or philosophical analysis) runs into the same barriers because we're constitutionally incapable of grasping the answer. If true, the best we can do is characterise the relationship's functional properties—which the interface hypothesis does—while acknowledging that deeper understanding may remain closed to us.
 
-the site's position: genuine uncertainty about the attention-consciousness relationship supports the [[tenets#^occam|Occam's Razor Has Limits]] tenet. Simple identification of consciousness with attention fails to capture the phenomenon's complexity. Whether the complexity reflects richness we haven't yet understood or limits we cannot transcend, something else is going on.
+The site's position: genuine uncertainty about the attention-consciousness relationship supports the [[tenets#^occam|Occam's Razor Has Limits]] tenet. Simple identification of consciousness with attention fails to capture the phenomenon's complexity. Whether the complexity reflects richness we haven't yet understood or limits we cannot transcend, something else is going on.
 
 ## Attention as the Mind-Matter Interface
 
@@ -230,7 +230,7 @@ The process view complements the interface hypothesis: attention isn't conscious
 
 ## What Would Challenge This View?
 
-the site's position on attention and consciousness would face serious difficulty if:
+The site's position on attention and consciousness would face serious difficulty if:
 
 1. **Attention proves fully computational**: If predictive processing or similar frameworks explain all attention phenomena—including the willed/instructed distinction, the phenomenology of effort, and the neuroplasticity effects—without any explanatory remainder, there's no gap for consciousness to fill. Currently, computational theories describe what attention does but not why it feels like anything to attend.
 

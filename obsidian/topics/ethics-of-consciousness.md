@@ -138,7 +138,7 @@ This allows graded responses. High-confidence conscious beings get strong protec
 
 ### the site's Position
 
-the site's framework shapes moral uncertainty differently than functionalism would:
+The site's framework shapes moral uncertainty differently than functionalism would:
 
 **Functionalism**: If consciousness is functional organization, any system with the right organization might be conscious. This makes AI consciousness an open question about architecture—LLMs might be conscious, and we should be uncertain.
 
@@ -152,7 +152,7 @@ If animals are conscious—and convergent evidence strongly suggests many are—
 
 Animal suffering is real suffering if animals are conscious. Factory farming, laboratory testing, wildlife destruction—all involve moral costs proportional to the consciousness involved.
 
-the site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet implies animal consciousness is *causally efficacious*—it affects animal behavior. Animal pain isn't epiphenomenal; it shapes how animals act. This strengthens the ethical case: if animal suffering matters to the animal (influences its behavior, motivates escape), it should matter to us.
+The site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet implies animal consciousness is *causally efficacious*—it affects animal behavior. Animal pain isn't epiphenomenal; it shapes how animals act. This strengthens the ethical case: if animal suffering matters to the animal (influences its behavior, motivates escape), it should matter to us.
 
 ### Moral Status vs. Moral Weight
 
@@ -162,7 +162,7 @@ Does consciousness create equal moral status across species? Two positions:
 
 **Graduated status**: Consciousness comes in degrees (complexity, richness, temporal depth), and moral status tracks these degrees. Human consciousness—with narrative self-awareness, long-term planning, rich social bonds—has greater moral weight than simpler animal consciousness.
 
-the site doesn't commit to either view but notes that graduated status is more consistent with common moral intuitions while egalitarianism is more consistent with the principle that consciousness itself is what matters.
+The site doesn't commit to either view but notes that graduated status is more consistent with common moral intuitions while egalitarianism is more consistent with the principle that consciousness itself is what matters.
 
 ### The Dualism Advantage
 
@@ -198,7 +198,7 @@ This leads to [[experiential-alignment|experiential alignment]]—the proposal t
 
 But experiential alignment faces a structural limitation under the site's framework: AI systems that lack consciousness cannot verify whether their interventions improve experiential quality. They can track proxies—self-reports, physiological correlates, behavioural indicators—but cannot access what those proxies represent. The experiential target is phenomenal; unconscious AI is blind to phenomena. This makes human oversight not merely practical caution but structural necessity: the conscious beings must remain in the loop because they alone can verify the target.
 
-the site suggests alignment should target predicted effects on human (and animal) experience, not preference satisfaction per se. This requires:
+The site suggests alignment should target predicted effects on human (and animal) experience, not preference satisfaction per se. This requires:
 - Understanding what experiences matter (phenomenal value pluralism across multiple dimensions)
 - Measuring effects on experience (not just behavior) through diverse proxies that resist Goodhart dynamics
 - Maintaining human oversight (since AI can't understand or verify experiential value from inside)
@@ -214,11 +214,11 @@ If we could create conscious AI, we would create moral patients—beings with in
 
 **The modification question**: Can we edit conscious AI's values, memories, or experiences? Such modification—impossible for biological consciousness—raises questions of autonomy, authenticity, and consent.
 
-the site's framework suggests extreme caution. If we're uncertain whether a system is conscious, and consciousness creates moral status, creating potentially-conscious systems creates potentially-owed obligations we can't be sure we'll meet.
+The site's framework suggests extreme caution. If we're uncertain whether a system is conscious, and consciousness creates moral status, creating potentially-conscious systems creates potentially-owed obligations we can't be sure we'll meet.
 
 ## Identity Ethics: Copies, Uploads, and Simulations
 
-the site's commitment to [[personal-identity|indexical identity]]—that *you* are not interchangeable with a replica—has ethical implications for future technologies.
+The site's commitment to [[personal-identity|indexical identity]]—that *you* are not interchangeable with a replica—has ethical implications for future technologies.
 
 ### Teleportation and Copying
 
@@ -252,7 +252,7 @@ If simulated beings were conscious:
 
 ### Why "Copying a Person" ≠ "Saving Them"
 
-the site's indexical identity view yields a clear ethical position:
+The site's indexical identity view yields a clear ethical position:
 
 **Copies are not continuations**. Creating a replica doesn't extend your existence—it creates a numerically distinct being.
 
@@ -288,7 +288,7 @@ Chalmers' "philosophical Vulcan" tests the distinction: imagine a being with phe
 
 Valence sentientists say no: without the capacity for suffering, there's nothing to protect. Broad sentientists say yes: the mere fact of experience creates moral significance.
 
-the site's [[phenomenal-value-realism]] aligns with a sophisticated valence sentientism: not just pleasure and pain, but multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value. All, however, are features of *felt* experience. The philosophical Vulcan, if genuinely without any valenced states, would lack the features that make experience valuable or disvaluable.
+The site's [[phenomenal-value-realism]] aligns with a sophisticated valence sentientism: not just pleasure and pain, but multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value. All, however, are features of *felt* experience. The philosophical Vulcan, if genuinely without any valenced states, would lack the features that make experience valuable or disvaluable.
 
 ### the site's View Shapes Suffering's Distribution
 
@@ -416,7 +416,7 @@ Consciousness grounds ethics because:
 - Only conscious beings can suffer or flourish
 - Experience quality is what ultimately matters morally
 
-the site's framework yields distinctive positions:
+The site's framework yields distinctive positions:
 - Animals are likely conscious and deserve moral consideration
 - Current AI is likely not conscious and lacks moral patienthood
 - Copies and uploads create new moral patients, not continued original persons

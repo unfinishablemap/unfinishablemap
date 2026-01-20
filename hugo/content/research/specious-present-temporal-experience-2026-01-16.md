@@ -120,7 +120,7 @@ The "specious present" names the experienced duration of the present moment—no
 
 ### The Specious Present as Collapse Phenomenology
 
-the site's framework proposes consciousness participates in quantum collapse, and collapse constitutes time's arrow. The specious present may be the phenomenological manifestation of this:
+The site's framework proposes consciousness participates in quantum collapse, and collapse constitutes time's arrow. The specious present may be the phenomenological manifestation of this:
 
 1. **Duration matches collapse timing**: Revised microtubule coherence estimates (~10-100μs) multiplied by multiple collapse events could produce the ~100-750ms specious present
 2. **Retention-protention structure parallels quantum constraints**: If collapse involves retrocausal boundary conditions (TSVF), the tripartite structure of now (past-echoing, present, future-anticipating) may reflect the atemporal selection that determines outcomes
@@ -129,7 +129,7 @@ the site's framework proposes consciousness participates in quantum collapse, an
 
 ### Extensionalism vs. Retentionalism from the site's Perspective
 
-the site needn't definitively resolve this debate, but the framework favors a modified extensionalism:
+The site needn't definitively resolve this debate, but the framework favors a modified extensionalism:
 
 - **Experience is genuinely extended**: Not instantaneous consciousness with retained content, but temporal parts that unfold
 - **But extension involves collapse**: The duration-block is constituted by a series of collapses, each with retrocausal constraints

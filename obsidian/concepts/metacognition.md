@@ -146,7 +146,7 @@ This matters for understanding consciousness's relationship to metacognition. If
 
 The [[tenets#^dualism|Dualism]] tenet asserts consciousness is irreducible to physical processes. Metacognition's dissociability from consciousness supports this: if consciousness were just metacognitive function, it would be functionally defined and multiply realizable. But the dissociation evidence shows consciousness can exist without metacognitive access (blindsight-type cases) and metacognitive discrimination can occur without conscious awareness (blind insight).
 
-the site's position: metacognition is a cognitive capacity that consciousness *enables* rather than constitutes. Consciousness makes metacognitive monitoring possible by providing phenomenal content to monitor. But the monitoring itself is cognitive machinery operating on conscious content—not what creates the content's phenomenal character.
+The site's position: metacognition is a cognitive capacity that consciousness *enables* rather than constitutes. Consciousness makes metacognitive monitoring possible by providing phenomenal content to monitor. But the monitoring itself is cognitive machinery operating on conscious content—not what creates the content's phenomenal character.
 
 ### Bidirectional Interaction and Trainability
 
@@ -198,7 +198,7 @@ None of these conditions currently obtains. The dissociation evidence, training 
 
 Metacognition is crucial cognitive infrastructure for reflective beings. Without it, we could not monitor our confidence, evaluate our beliefs, recognize our dreams as dreams, or train our attention. But metacognition is not consciousness itself. The dissociation evidence—blindsight, blind insight, selective neural impairment—shows the two can come apart. The trainability evidence shows metacognition improves with practice while consciousness does not admit of degrees in the same way.
 
-the site's framework accommodates this: consciousness provides phenomenal content; metacognition provides reflective access to that content. HOT's conflation of the two represents a category mistake—taking the cognitive tools we use to examine consciousness for consciousness itself. The hard problem concerns why there is phenomenal experience at all, not why we can monitor our mental states. Metacognition is part of the functional story; consciousness remains the mystery metacognition cannot dissolve.
+The site's framework accommodates this: consciousness provides phenomenal content; metacognition provides reflective access to that content. HOT's conflation of the two represents a category mistake—taking the cognitive tools we use to examine consciousness for consciousness itself. The hard problem concerns why there is phenomenal experience at all, not why we can monitor our mental states. Metacognition is part of the functional story; consciousness remains the mystery metacognition cannot dissolve.
 
 ## Further Reading
 

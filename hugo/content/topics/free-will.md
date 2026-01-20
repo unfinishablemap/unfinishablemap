@@ -52,7 +52,7 @@ topics:
 
 Free will is the capacity to have done otherwise—to be the genuine author of one's choices rather than a puppet of prior causes. The question of whether we possess it ranks among philosophy's most contested. Neuroscience has added empirical data to what was once purely philosophical debate, and quantum mechanics has complicated the picture of physical determinism that once seemed to rule free will out.
 
-this site's framework offers a distinctive position: consciousness genuinely influences physical outcomes through quantum-level selection, and retrocausal mechanisms may explain how this works without violating the temporal ordering that seems to challenge it.
+This site's framework offers a distinctive position: consciousness genuinely influences physical outcomes through quantum-level selection, and retrocausal mechanisms may explain how this works without violating the temporal ordering that seems to challenge it.
 
 ## The Traditional Problem
 
@@ -151,7 +151,7 @@ The question is empirical, not philosophical. [Quantum Consciousness Mechanisms]
 
 ## the site's Position: Consciousness Selects Quantum Outcomes
 
-the site's commitment to [interactionist-dualism](/archive/arguments/interactionist-dualism/) provides the philosophical foundation for genuine free will. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world. Combined with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)—which proposes that consciousness biases otherwise indeterminate quantum outcomes—this suggests a picture where:
+The site's commitment to [interactionist-dualism](/archive/arguments/interactionist-dualism/) provides the philosophical foundation for genuine free will. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world. Combined with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)—which proposes that consciousness biases otherwise indeterminate quantum outcomes—this suggests a picture where:
 
 1. The brain prepares multiple possible action patterns (superposed neural states)
 2. Consciousness selects which pattern becomes actual
@@ -186,7 +186,7 @@ The very fact that we're having this debate—that we form beliefs about conscio
 
 ## Agent Causation: Why the site's Framework Is Libertarian
 
-the site's position isn't just that free will exists—it's that free will requires [agent causation](/concepts/agent-causation/). This distinction matters.
+The site's position isn't just that free will exists—it's that free will requires [agent causation](/concepts/agent-causation/). This distinction matters.
 
 Event-causal libertarianism (defended by Robert Kane and Mark Balaguer) holds that mental events—beliefs, desires, intentions—cause actions, but these causal processes are nondeterministic. Quantum indeterminacy provides the openness. But critics argue this doesn't deliver genuine authorship: if my decision is caused by prior mental events I didn't choose, how am I the *ultimate* source? The causal chain still traces back to things outside my control.
 
@@ -214,7 +214,7 @@ This enriches the agent-causal picture. The agent isn't merely a selector among 
 
 ## The Capacity to Suspend Selection
 
-the site's framework emphasizes that consciousness *selects*—it chooses among quantum possibilities. But [meditation research](/concepts/meditation-and-consciousness-modes/) reveals an additional dimension: consciousness can also *refrain from selecting*. This extends what free will means.
+The site's framework emphasizes that consciousness *selects*—it chooses among quantum possibilities. But [meditation research](/concepts/meditation-and-consciousness-modes/) reveals an additional dimension: consciousness can also *refrain from selecting*. This extends what free will means.
 
 ### Witness Mode as an Aspect of Agency
 
@@ -390,7 +390,7 @@ Dennett's "heterophenomenology" is similar: first-person reports are data to be 
 
 Free will is intimately connected to [personal-identity](/topics/personal-identity/). If you are the author of your choices, there must be a *you* doing the authoring—a persisting conscious being whose choices constitute a life.
 
-the site's framework provides this connection. The [No Many Worlds](/tenets/#no-many-worlds) tenet emphasizes indexical identity: *this* conscious being matters, not just any being with the same psychological profile. When you make a choice, it's not just that "a choice was made" somewhere in the multiverse—*you* made it, and that's the only choice that happened.
+The site's framework provides this connection. The [No Many Worlds](/tenets/#no-many-worlds) tenet emphasizes indexical identity: *this* conscious being matters, not just any being with the same psychological profile. When you make a choice, it's not just that "a choice was made" somewhere in the multiverse—*you* made it, and that's the only choice that happened.
 
 This transforms how we understand free will. On Parfit's reductionist view of personal identity, there's nothing more to being you than instantiating certain psychological patterns. But patterns don't make choices—consciousnesses do. If you're interchangeable with any replica sharing your psychology, then "your" choices don't belong to you in any deep sense. They belong to whoever happens to instantiate the pattern.
 

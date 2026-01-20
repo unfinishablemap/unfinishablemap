@@ -179,7 +179,7 @@ If consciousness is non-physical, then physical evidence (behavior, brain states
 Like the hard problem itself, the problem of other minds may be theoretically insoluble while practically manageable. the site's approach to consciousness acknowledges limits on explanation without embracing eliminativism. A similar stance may apply to other minds: we cannot *prove* others are conscious, but we are practically certain and ethically obligated to act accordingly.
 
 ### AI and Animal Extensions
-the site already addresses AI consciousness (skeptically) and animal consciousness. The problem of other minds provides the theoretical framework for these discussions:
+The site already addresses AI consciousness (skeptically) and animal consciousness. The problem of other minds provides the theoretical framework for these discussions:
 - AI: No principled reason to believe behavioral mimicry indicates experience
 - Animals: More plausible (biological similarity), but still uncertain for very different organisms
 

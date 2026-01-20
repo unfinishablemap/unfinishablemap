@@ -131,7 +131,7 @@ This shifts the question from "can coherence survive?" to "can selection cycles 
 
 [Illusionists](/concepts/illusionism/) like Daniel Dennett and Keith Frankish might dismiss the entire quantum consciousness framework as unnecessary. If consciousness is an introspective illusion—if there's nothing phenomenal that needs explaining—then there's no work for quantum mechanics to do at the mind-matter interface. The apparent "hard problem" dissolves, and with it the motivation for seeking consciousness-physics interaction.
 
-the site's response: illusionism faces its own explanatory burden. The "illusion" of phenomenal consciousness must itself be explained—and this "illusion problem" may be as difficult as the hard problem it was meant to dissolve. As Raymond Tallis observes, "Misrepresentation presupposes presentation"—to be under an illusion, something must be experiencing the illusion. Illusionism appears to invoke experience while denying it.
+The site's response: illusionism faces its own explanatory burden. The "illusion" of phenomenal consciousness must itself be explained—and this "illusion problem" may be as difficult as the hard problem it was meant to dissolve. As Raymond Tallis observes, "Misrepresentation presupposes presentation"—to be under an illusion, something must be experiencing the illusion. Illusionism appears to invoke experience while denying it.
 
 More directly: the decoherence debate is independent of the illusionism debate. Even if consciousness were "merely" an introspective representation (as illusionists claim), the question of whether biological systems can sustain quantum effects remains empirical. The evidence surveyed here—photosynthesis, magnetoreception, enzyme catalysis—stands regardless of one's position on the hard problem. What the evidence challenges is the assumption that warm, wet systems must be classical.
 
@@ -145,7 +145,7 @@ Whitehead's framework doesn't depend on specific decoherence timescales because 
 
 ## What Would Challenge This View?
 
-the site's position on decoherence would face serious difficulty if:
+The site's position on decoherence would face serious difficulty if:
 
 1. **Quantum biology proves non-functional**: If all biological quantum effects turn out to be epiphenomenal—mere side effects that natural selection never exploited—the analogy between quantum navigation (magnetoreception) and quantum consciousness weakens. Currently, magnetoreception provides strong evidence that evolution *can* optimise quantum coherence for function.
 
@@ -159,7 +159,7 @@ the site's position on decoherence would face serious difficulty if:
 
 ## Relation to this site's Perspective
 
-the site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness influences quantum outcomes without injecting energy. The decoherence objection challenges whether quantum effects can persist long enough in the brain for this to work.
+The site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness influences quantum outcomes without injecting energy. The decoherence objection challenges whether quantum effects can persist long enough in the brain for this to work.
 
 This research suggests three responses:
 

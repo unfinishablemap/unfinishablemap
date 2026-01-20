@@ -73,7 +73,7 @@ This directly contradicts the site's [[tenets#^bidirectional-interaction|Bidirec
 
 ### 3. Interface Locality
 
-the site's [[interface-locality]] concept offers a different resolution: consciousness can only influence quantum outcomes within neural systems already integrated into its control loop.
+The site's [[interface-locality]] concept offers a different resolution: consciousness can only influence quantum outcomes within neural systems already integrated into its control loop.
 
 This boundary follows from the proposed mechanism itself:
 
@@ -87,7 +87,7 @@ Under interface locality, there is no multi-mind coordination problem for the sa
 
 ### 4. Objective Collapse with Consciousness Modulation
 
-the site's [[prebiotic-collapse]] resolution extends interface locality with a crucial addition: consciousness doesn't cause all collapse; it modulates collapse specifically in brains.
+The site's [[prebiotic-collapse]] resolution extends interface locality with a crucial addition: consciousness doesn't cause all collapse; it modulates collapse specifically in brains.
 
 Physical mechanisms—gravitational self-collapse (Penrose), spontaneous localization (GRW), or unknown processes—provide the baseline. Collapse happens throughout the universe without observers. Stars form, chemistry proceeds, dice land face-up, all through physical processes that produce definite outcomes.
 

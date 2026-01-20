@@ -381,7 +381,7 @@ The phenomenology of mental effort aligns remarkably with what the site's tenets
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The materialist can dismiss effort phenomenology as "what computation feels like"—simpler than positing consciousness as selector. But this parsimony ignores the datum it purports to explain. Why does *this* computation feel like work? Why does sustained attention have a different phenomenal character from passive perception? The effort/effortlessness distinction is phenomenologically obvious and universally reported. Explaining it away as "just how things seem" trades simplicity for explanatory vacancy. The quantum Zeno account may be less parsimonious, but it actually explains the correspondence between phenomenology and mechanism.
 
-the site doesn't commit to Stapp's specific proposal over other quantum consciousness mechanisms. But the phenomenology of effort provides a datum any account must explain. If controlling attention genuinely costs something, something must be doing the paying.
+The site doesn't commit to Stapp's specific proposal over other quantum consciousness mechanisms. But the phenomenology of effort provides a datum any account must explain. If controlling attention genuinely costs something, something must be doing the paying.
 
 ## Further Reading
 

@@ -159,7 +159,7 @@ The Libet experiments appear to challenge Bidirectional Interaction by suggestin
 2. **Veto power** preserves conscious influence at selection level
 3. **Retrocausal interpretation** suggests consciousness might influence the "past" neural states through quantum selection
 
-the site's tenet proposes that "consciousness selects among superposed neural states." If quantum selection operates atemporally (as in Cramer's transactional interpretation), then the apparent temporal precedence of neural activity is not problematic. Consciousness doesn't need to precede neural preparation—it may select which prepared pattern becomes actual, and this selection could retroactively "choose" the history.
+The site's tenet proposes that "consciousness selects among superposed neural states." If quantum selection operates atemporally (as in Cramer's transactional interpretation), then the apparent temporal precedence of neural activity is not problematic. Consciousness doesn't need to precede neural preparation—it may select which prepared pattern becomes actual, and this selection could retroactively "choose" the history.
 
 ### Minimal Quantum Interaction
 The decoherence timescale objection (Tegmark) suggests quantum effects in brains are too fast to be relevant. But:
@@ -167,7 +167,7 @@ The decoherence timescale objection (Tegmark) suggests quantum effects in brains
 2. Retrocausal models don't require coherence to persist—influence can propagate backward
 
 ### No Many Worlds
-the site rejects MWI. Retrocausal interpretations offer an alternative explanation for quantum nonlocality without branching universes. The transactional interpretation in particular provides a single-world, time-symmetric account.
+The site rejects MWI. Retrocausal interpretations offer an alternative explanation for quantum nonlocality without branching universes. The transactional interpretation in particular provides a single-world, time-symmetric account.
 
 ## Potential Article Angles
 

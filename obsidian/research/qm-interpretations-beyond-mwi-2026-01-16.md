@@ -25,7 +25,7 @@ last_curated: null
 
 ## Executive Summary
 
-the site explicitly rejects [[many-worlds|Many-Worlds Interpretation]] (MWI) but should engage more thoroughly with alternative QM interpretations. This research surveys Bohmian mechanics, QBism, relational QM, transactional/TSVF interpretations, and objective collapse theories (GRW/CSL)—clarifying which leave room for consciousness-as-selector, which treat collapse as physical law, and which treat it as epistemic.
+The site explicitly rejects [[many-worlds|Many-Worlds Interpretation]] (MWI) but should engage more thoroughly with alternative QM interpretations. This research surveys Bohmian mechanics, QBism, relational QM, transactional/TSVF interpretations, and objective collapse theories (GRW/CSL)—clarifying which leave room for consciousness-as-selector, which treat collapse as physical law, and which treat it as epistemic.
 
 A 2025 Nature survey found that only 36% of physicists favor Copenhagen, with no interpretation commanding majority support. The interpretive landscape remains genuinely open.
 
@@ -174,7 +174,7 @@ Bohmian mechanics is the main deterministic alternative to collapse interpretati
 
 ### Develop the TI/TSVF Connection
 
-the site already uses retrocausality for free will but hasn't explicitly connected to TI/TSVF foundations:
+The site already uses retrocausality for free will but hasn't explicitly connected to TI/TSVF foundations:
 
 1. Add a concept page on transactional interpretation
 2. Clarify how "atemporal selection" relates to physical transactions
@@ -200,7 +200,7 @@ Objective collapse theories provide an alternative "consciousness doesn't cause 
 
 The interpretive landscape remains genuinely open. The 2025 Nature survey found only 24% of physicists were confident their preferred interpretation was correct. the site's position—consciousness participates in collapse—is not ruled out by physics. The question is which interpretation best explains both quantum phenomena and the existence of consciousness.
 
-the site's advantage: it takes consciousness seriously as explanatory target, not just as philosophical add-on. Interpretations that eliminate consciousness (Bohmian) or treat it as purely epistemic (QBism) don't explain why consciousness exists at all. the site's framework does.
+The site's advantage: it takes consciousness seriously as explanatory target, not just as philosophical add-on. Interpretations that eliminate consciousness (Bohmian) or treat it as purely epistemic (QBism) don't explain why consciousness exists at all. the site's framework does.
 
 ## Sources
 

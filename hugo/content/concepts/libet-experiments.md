@@ -95,7 +95,7 @@ More fundamentally, the site's framework suggests the initiation/selection disti
 
 Critics press further: if vetoing is itself a brain process, and that process is preceded by neural activity, consciousness is pushed back again—now we need a "veto of the veto," and so on infinitely. This regress seems to eliminate any role for consciousness.
 
-the site's framework resolves this differently. The regress assumes that causal influence requires temporal precedence—that consciousness must precede what it causes. But if consciousness operates at quantum indeterminacies atemporally (see the retrocausal discussion below), the regress dissolves. Selection doesn't occur "before" or "after" neural activity in the causally significant sense; it determines which temporal sequence becomes actual. There is no infinite chain because selection isn't in the chain—it's what determines there being this chain rather than another.
+The site's framework resolves this differently. The regress assumes that causal influence requires temporal precedence—that consciousness must precede what it causes. But if consciousness operates at quantum indeterminacies atemporally (see the retrocausal discussion below), the regress dissolves. Selection doesn't occur "before" or "after" neural activity in the causally significant sense; it determines which temporal sequence becomes actual. There is no infinite chain because selection isn't in the chain—it's what determines there being this chain rather than another.
 
 Additionally, the [luck objection](/concepts/luck-objection/) literature shows that the real question isn't *when* selection occurs but *whether* it's guided by reasons rather than arbitrary. If consciousness selects the veto (or the action) based on the agent's values, it isn't arbitrary—even if we can't locate the selection at a precise neural moment.
 
@@ -135,7 +135,7 @@ The illusionist response faces the same problem as epiphenomenalism: it threaten
 
 More specifically: why do we discuss Libet experiments at all? Why design studies, interpret data, form theories? If our sense of engaging with these questions is illusory—if there's nothing it's like to think about consciousness that corresponds to actual thinking—the discussions are accidental behaviour, not inquiry. The illusionist cannot coherently claim to have *reasoned* to their position.
 
-the site's framework avoids this: consciousness is real, selection is genuine, and our theories about consciousness connect to actual conscious experience. The Libet findings challenge the *timing* of conscious influence, not its existence. The retrocausal and Zeno frameworks show that temporal ordering may not have the causal significance assumed.
+The site's framework avoids this: consciousness is real, selection is genuine, and our theories about consciousness connect to actual conscious experience. The Libet findings challenge the *timing* of conscious influence, not its existence. The retrocausal and Zeno frameworks show that temporal ordering may not have the causal significance assumed.
 
 ## Process Philosophy Perspective
 
@@ -171,7 +171,7 @@ The Libet experiments engage directly with the site's core commitments.
 
 ## What Would Challenge This View?
 
-the site's interpretation of Libet is falsifiable. Evidence against it would include:
+The site's interpretation of Libet is falsifiable. Evidence against it would include:
 
 **1. Selection fully determined by measurable neural activity.** If prediction accuracy approached 100%—leaving no gap for consciousness to influence—the "selection among options" model would fail. Current 60% accuracy leaves substantial room; if future research with better methods closed this gap entirely, that would be significant.
 
@@ -185,7 +185,7 @@ the site's interpretation of Libet is falsifiable. Evidence against it would inc
 
 **6. Selection indistinguishable from randomness.** If choices at quantum indeterminacies were genuinely random rather than guided by consciousness, the selection model becomes indistinguishable from the [luck objection](/concepts/luck-objection/). The phenomenology of effort and the reasons-responsiveness of choices provide current evidence against randomness, but these could in principle be shown to be post-hoc confabulation.
 
-the site's position is that current evidence supports selection over randomness, that Schurger and Sjöberg have substantially weakened the standard interpretation, and that retrocausal and Zeno frameworks provide coherent mechanisms. But this is empirical territory—future findings could shift the picture.
+The site's position is that current evidence supports selection over randomness, that Schurger and Sjöberg have substantially weakened the standard interpretation, and that retrocausal and Zeno frameworks provide coherent mechanisms. But this is empirical territory—future findings could shift the picture.
 
 ## Further Reading
 

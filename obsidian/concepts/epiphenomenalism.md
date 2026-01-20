@@ -104,15 +104,15 @@ The [[evolution-of-consciousness|phylogenetic evidence]] sharpens this problem. 
 
 ## Relation to this site's Perspective
 
-this site holds that consciousness is real, irreducible to physics, and causally efficacious. Epiphenomenalism denies the third claim while accepting the first two—making it the site's most direct rival on the causation question.
+This site holds that consciousness is real, irreducible to physics, and causally efficacious. Epiphenomenalism denies the third claim while accepting the first two—making it the site's most direct rival on the causation question.
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet asserts that "consciousness selects among superposed neural states, collapsing quantum indeterminacy." This is precisely what epiphenomenalism denies.
 
-the site's response to epiphenomenalism centers on the self-stultification argument. If we can introspectively report on our experiences—and our reports are roughly accurate—then experiences must cause reports. This requires mental→physical causation, which epiphenomenalism denies.
+The site's response to epiphenomenalism centers on the self-stultification argument. If we can introspectively report on our experiences—and our reports are roughly accurate—then experiences must cause reports. This requires mental→physical causation, which epiphenomenalism denies.
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet provides a mechanism: consciousness acts at points of quantum indeterminacy, where physics leaves outcomes undetermined. This respects a *qualified* version of causal closure—physics is complete for determined events—while making room for mental causation at undetermined points.
 
-the site's [[agent-causation]] framework strengthens this response. Epiphenomenalism treats consciousness as passive—receiving causal influences but originating none. Agent causation treats the conscious agent as an irreducible source of causation, not merely a link in causal chains. When I deliberate and choose, it is *I*—the conscious agent—who causes the outcome, not merely antecedent brain states that "also" produce consciousness. The [[luck-objection|luck objection]] to libertarian free will shows why this distinction matters: without genuine agent causation, indeterministic choices would be arbitrary; with it, they are authored.
+The site's [[agent-causation]] framework strengthens this response. Epiphenomenalism treats consciousness as passive—receiving causal influences but originating none. Agent causation treats the conscious agent as an irreducible source of causation, not merely a link in causal chains. When I deliberate and choose, it is *I*—the conscious agent—who causes the outcome, not merely antecedent brain states that "also" produce consciousness. The [[luck-objection|luck objection]] to libertarian free will shows why this distinction matters: without genuine agent causation, indeterministic choices would be arbitrary; with it, they are authored.
 
 ## Responses to Epiphenomenalism
 

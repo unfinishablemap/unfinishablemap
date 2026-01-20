@@ -109,7 +109,7 @@ But the site goes further than Dennett allows. Consciousness isn't just practica
 
 The [[tenets#^dualism|Dualism tenet]] asserts that consciousness is not reducible to physical processes. The arguments above—explanatory gap, hard problem, multiple realizability—converge on this conclusion from different directions.
 
-the site accepts *methodological* reductionism: studying neural correlates illuminates the brain-consciousness interface. But ontological and explanatory reductionism fail. No physical theory, however complete, will explain why there is something it is like.
+The site accepts *methodological* reductionism: studying neural correlates illuminates the brain-consciousness interface. But ontological and explanatory reductionism fail. No physical theory, however complete, will explain why there is something it is like.
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet goes further: consciousness isn't merely irreducible but causally efficacious. Kim's exclusion argument doesn't apply because the [[causal-closure]] of physics fails at quantum indeterminacies—precisely where consciousness operates.
 

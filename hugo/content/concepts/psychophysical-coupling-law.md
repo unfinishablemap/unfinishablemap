@@ -62,13 +62,13 @@ Chalmers proposes three psychophysical principles in "Facing Up to the Problem o
 
 ### the site's Divergence from Organizational Invariance
 
-the site's rejection of [functionalism](/arguments/functionalism/) creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. the site's dualism implies that phenomenal properties supervene on more than just functional structure—on the particular conscious subject, with its [haecceity](/concepts/haecceity/), not merely on abstract patterns.
+The site's rejection of [functionalism](/arguments/functionalism/) creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. the site's dualism implies that phenomenal properties supervene on more than just functional structure—on the particular conscious subject, with its [haecceity](/concepts/haecceity/), not merely on abstract patterns.
 
 ### Upward vs. Downward Direction
 
 Crucially, Chalmers' psychophysical laws are primarily *upward* laws: they specify which physical states produce which experiences. The physical state is input; the phenomenal state is output.
 
-the site needs laws for the *downward* direction: which conscious states produce which physical selections. The physical state is output; the phenomenal state (attention, intention, effort) is input. This is where the coupling law becomes essential—it specifies the causal arrow Chalmers' framework leaves underspecified.
+The site needs laws for the *downward* direction: which conscious states produce which physical selections. The physical state is output; the phenomenal state (attention, intention, effort) is input. This is where the coupling law becomes essential—it specifies the causal arrow Chalmers' framework leaves underspecified.
 
 ### Chalmers and McQueen: Quantum Psychophysical Laws
 
@@ -209,7 +209,7 @@ The psychophysical coupling law is where the site's [Bidirectional Interaction](
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Laws 1-3 assume genuine collapse—consciousness selects what becomes actual. Law 4 (indexical selection) could be compatible with MWI but gives subjective actuality fundamental status. Either way, indexical presence matters.
 
-the site cannot resolve which coupling law is correct—this is an open empirical and philosophical question. What the site can do is articulate the problem clearly and specify what any adequate coupling law must accomplish.
+The site cannot resolve which coupling law is correct—this is an open empirical and philosophical question. What the site can do is articulate the problem clearly and specify what any adequate coupling law must accomplish.
 
 ## Further Reading
 

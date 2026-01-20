@@ -103,7 +103,7 @@ If any of these succeed, the pairing problem loses force. The dualist can say: m
 
 ## the site's Position
 
-this site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework provides a natural response to the pairing problem: consciousness is spatially located where it causally interfaces with the brain.
+This site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework provides a natural response to the pairing problem: consciousness is spatially located where it causally interfaces with the brain.
 
 If consciousness influences quantum outcomes in specific neural structures (microtubules, synapses, or other quantum-sensitive regions), consciousness is located *where those structures are*. The mind is paired with the body it occupies.
 
@@ -131,7 +131,7 @@ The illusionist can deny that "from the inside" designates anything real—but t
 
 ## What Would Challenge This View?
 
-the site's response to the pairing problem would face serious difficulty if:
+The site's response to the pairing problem would face serious difficulty if:
 
 1. **Non-spatial causation were incoherent**: If philosophers demonstrated that all causal relations require spatial grounding—that the very concept of causation presupposes spatial proximity—the "accept spatial location" response would be the only option, and other responses would fail.
 
@@ -155,7 +155,7 @@ But property dualism has its own costs:
 2. It leaves personal identity dependent on physical continuity
 3. It may collapse into [epiphenomenalism](/arguments/epiphenomenalism/) if the "properties" have no causal powers beyond the physical base
 
-the site remains neutral between substance and property dualism, but the quantum framework works for both. Whether consciousness is a substance located in the brain or a property of brain states, the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—consciousness causally affecting quantum outcomes—remains coherent.
+The site remains neutral between substance and property dualism, but the quantum framework works for both. Whether consciousness is a substance located in the brain or a property of brain states, the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—consciousness causally affecting quantum outcomes—remains coherent.
 
 ## Relation to Site Perspective
 

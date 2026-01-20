@@ -60,7 +60,7 @@ These seem incoherent. The unity of consciousness appears constitutive rather th
 
 Not all philosophers accept unity as a genuine explanandum. Dennett's "multiple drafts" model proposes that there is no unified experience—just parallel processes that create an *illusion* of unity. On this view, the question "why is experience unified?" has a deflationary answer: it isn't, really. Our reports of unity are themselves just more neural processes generating the appearance of a unified reporter.
 
-the site rejects this for reasons developed in [[binding-problem|the binding problem]] article. The illusionist must explain why the *illusion* of unity is so robust and universal—why every conscious being reports phenomenal unity if no such thing exists. More fundamentally, explaining *why consciousness seems unified* is arguably as hard as explaining unity itself. If the illusion is sufficiently unity-like to deceive every conscious system, the mechanisms producing it would themselves constitute a kind of unity requiring explanation.
+The site rejects this for reasons developed in [[binding-problem|the binding problem]] article. The illusionist must explain why the *illusion* of unity is so robust and universal—why every conscious being reports phenomenal unity if no such thing exists. More fundamentally, explaining *why consciousness seems unified* is arguably as hard as explaining unity itself. If the illusion is sufficiently unity-like to deceive every conscious system, the mechanisms producing it would themselves constitute a kind of unity requiring explanation.
 
 The stronger response: unity may be a precondition for illusion. An illusion requires a subject *to whom* something appears other than it is. But subjecthood presupposes unity—there must be *one* experiencer to be deceived. Dennett's multiple drafts eliminate the unified subject who could be fooled by them.
 
@@ -86,7 +86,7 @@ The binding problem is a neural engineering puzzle. Phenomenal unity is a philos
 
 The combination problem and phenomenal unity share a logical structure: both ask how plurality (of features, of micro-subjects) yields singularity (of experience, of macro-consciousness). Neither classical mechanisms nor panpsychist proposals have solved this puzzle. This parallel suggests the difficulty may be fundamental—something about unity resists explanation by combination of separates.
 
-the site's [[interactionist-dualism|interactionist framework]] avoids both problems. Consciousness is not constituted by combining physical parts (solving the unity puzzle) and matter has no micro-experiences to combine (avoiding the combination problem). Unity is fundamental rather than constructed.
+The site's [[interactionist-dualism|interactionist framework]] avoids both problems. Consciousness is not constituted by combining physical parts (solving the unity puzzle) and matter has no micro-experiences to combine (avoiding the combination problem). Unity is fundamental rather than constructed.
 
 ## Why Classical Mechanisms Fail
 
@@ -161,7 +161,7 @@ The quantum unity hypothesis makes testable commitments. Its failure would be in
 
 5. **Disunity despite quantum coherence.** If entangled neural states are found that do *not* correspond to unified experience, the proposed mechanism fails. Dreaming and anesthesia provide partial tests: if quantum coherence persists during dreamless sleep (when unity is absent), this challenges the theory.
 
-the site maintains that current evidence favors the quantum position while acknowledging that scientific humility requires specifying what would count against one's view.
+The site maintains that current evidence favors the quantum position while acknowledging that scientific humility requires specifying what would count against one's view.
 
 ## Evidence from Disrupted Unity
 

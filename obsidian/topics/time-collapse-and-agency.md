@@ -32,13 +32,13 @@ last_curated: null
 last_deep_review: 2026-01-20T21:30:00+00:00
 ---
 
-the site's framework makes interconnected claims about time, quantum collapse, and conscious agency that together form a distinctive metaphysics. Free will operates through retrocausal or atemporal quantum selection. Collapse introduces time's arrow into otherwise time-symmetric physics. Consciousness doesn't merely experience time—it may help constitute temporal structure through its role in collapse. These threads weave together: if consciousness selects among quantum outcomes, and collapse creates temporal asymmetry, then agency and time's direction are fundamentally linked.
+The site's framework makes interconnected claims about time, quantum collapse, and conscious agency that together form a distinctive metaphysics. Free will operates through retrocausal or atemporal quantum selection. Collapse introduces time's arrow into otherwise time-symmetric physics. Consciousness doesn't merely experience time—it may help constitute temporal structure through its role in collapse. These threads weave together: if consciousness selects among quantum outcomes, and collapse creates temporal asymmetry, then agency and time's direction are fundamentally linked.
 
 This consolidation addresses a tension: the site uses retrocausality to resolve the Libet problem (neural activity preceding conscious awareness) but also treats collapse as introducing irreversibility. How can selection be atemporal if collapse is irreversible? What metaphysics of time does this framework actually imply?
 
 ## The Framework's Temporal Commitments
 
-the site's [[tenets]] make several claims bearing on time:
+The site's [[tenets]] make several claims bearing on time:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** holds that consciousness causally influences the physical world. This influence must occur *in* or *across* time—agents make choices that affect what happens.
 
@@ -60,7 +60,7 @@ Philosophy of time offers three major positions:
 
 **Growing block** theory holds that past and present exist, but the future doesn't yet. The block grows as time passes, with the present as its leading edge.
 
-the site's framework sits uncomfortably with all three.
+The site's framework sits uncomfortably with all three.
 
 **Against pure presentism**: Retrocausality requires the past to be causally accessible in some sense. If past events are simply gone, backward causation has nothing to influence. The transactional interpretation describes offer waves from the past and confirmation waves from the future meeting in atemporal handshakes. This requires past and future to be "there" in some metaphysical sense.
 
@@ -105,7 +105,7 @@ If consciousness constitutes time through collapse, what should this feel like? 
 
 The debate between extensionalists (Dainton, Foster) and retentionalists (Husserl, Broad) about the specious present bears directly on the framework. Extensionalists hold that experience is genuinely temporally extended—has parts at different times. Retentionalists hold that each moment is instantaneous but contains the past as intentional content (retention) and anticipates the future (protention).
 
-the site adopts a modified extensionalism: experience is genuinely extended, with the extension constituted through quantum collapse. Each collapse creates a "moment"; the specious present is the experiential horizon within which recent collapses remain unified. This explains both the extended phenomenology (extensionalism) and the retention-like structure (retentionalism)—the echoing of the past in the present reflects retrocausal boundary conditions in the collapse process.
+The site adopts a modified extensionalism: experience is genuinely extended, with the extension constituted through quantum collapse. Each collapse creates a "moment"; the specious present is the experiential horizon within which recent collapses remain unified. This explains both the extended phenomenology (extensionalism) and the retention-like structure (retentionalism)—the echoing of the past in the present reflects retrocausal boundary conditions in the collapse process.
 
 If consciousness is actively constituting temporal structure, the specious present may be the phenomenology of this constitutive activity. We experience duration because we're creating duration. The variation in duration estimates (100ms-3s) may reflect multiple components—a core perceptual window where collapses unify, embedded in a broader experiential horizon where constraints propagate.
 

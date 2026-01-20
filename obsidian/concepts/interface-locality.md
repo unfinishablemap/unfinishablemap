@@ -112,7 +112,7 @@ The boundary is principled, not arbitrary: consciousness influences what it's co
 
 ## Relation to the Parapsychology Debate
 
-the site's framework makes no prediction about external psychokinesis because:
+The site's framework makes no prediction about external psychokinesis because:
 
 1. **The mechanism is neural-specific**: The quantum Zeno mechanism operates through attention, which is neurally implemented
 2. **The interface is embodied**: Consciousness interfaces with *its* brain through developmental/evolutionary integration
@@ -148,7 +148,7 @@ The brain specialness boundary doesn't violate parsimony—it's what the mechani
 
 If phenomenal consciousness is an [[illusionism|introspective illusion]], does the interface locality question dissolve? If there's no genuine phenomenal subject, nothing needs explaining about where it can and cannot act.
 
-the site's response: the illusion problem reintroduces the very issues it claims to dissolve. Even on illusionist accounts, *something* generates the illusion of consciousness. That something—whatever neural process creates the appearance of phenomenal states—must still be neurally implemented. The question then becomes: why does this illusion-generating process operate only within one brain?
+The site's response: the illusion problem reintroduces the very issues it claims to dissolve. Even on illusionist accounts, *something* generates the illusion of consciousness. That something—whatever neural process creates the appearance of phenomenal states—must still be neurally implemented. The question then becomes: why does this illusion-generating process operate only within one brain?
 
 The illusionist cannot simply wave away the locality question. If the brain generates powerful representations of phenomenal states, why are these representations brain-bound? The answer maps onto the same constraints: the representational machinery is neurally realized, the attention mechanisms that process these representations are neurally implemented, and the feedback loops that sustain the illusion operate within neural systems.
 

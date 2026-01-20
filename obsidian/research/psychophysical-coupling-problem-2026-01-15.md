@@ -14,13 +14,13 @@ ai_system: claude-opus-4-5-20251101
 
 ## Executive Summary
 
-the site asserts that consciousness "selects" among quantum outcomes (tenets, free-will, quantum-consciousness), but this claim currently functions as a metaphor rather than a research program. If selection is real, there must be a **psychophysical coupling law**: a stable mapping from conscious contents (intentions, attention states) to which quantum outcomes become actual (or which probability distributions are biased). Without specifying this law—even schematically—"selection" risks being an unfalsifiable placeholder.
+The site asserts that consciousness "selects" among quantum outcomes (tenets, free-will, quantum-consciousness), but this claim currently functions as a metaphor rather than a research program. If selection is real, there must be a **psychophysical coupling law**: a stable mapping from conscious contents (intentions, attention states) to which quantum outcomes become actual (or which probability distributions are biased). Without specifying this law—even schematically—"selection" risks being an unfalsifiable placeholder.
 
 This research surveys the state of the art on psychophysical laws (Chalmers), conscious processing bandwidth, Stapp's quantum Zeno mechanism, and recent 2024-2025 developments. The goal: identify candidate constraint families for a selection law, clarify what's selectable vs. not selectable, and turn the site's commitment into actionable research questions.
 
 ## The Problem Stated
 
-the site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes through quantum selection. But what does this mean concretely?
+The site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes through quantum selection. But what does this mean concretely?
 
 A psychophysical coupling law would specify:
 1. **Variables on the mental side**: What aspects of conscious experience map to selection? (Attention? Intention? Valence? Effort?)

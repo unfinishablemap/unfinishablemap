@@ -52,7 +52,7 @@ The tenets' other commitments (Bidirectional Interaction, Minimal Quantum Intera
 
 The document anticipates "quantum woo" objections but doesn't address the decoherence objection: quantum superpositions decohere extremely rapidly in warm, wet environments like brains. Tegmark calculated decoherence times on the order of 10^-13 seconds for neural processes—far too fast for macroscopic quantum effects to matter.
 
-the site now has content on quantum mechanics and consciousness (retrocausality article, Penrose-Hameroff in research notes) that could support a response.
+The site now has content on quantum mechanics and consciousness (retrocausality article, Penrose-Hameroff in research notes) that could support a response.
 
 **Possible responses to mention**:
 1. The question isn't whether coherence persists but whether consciousness influences which classical state emerges

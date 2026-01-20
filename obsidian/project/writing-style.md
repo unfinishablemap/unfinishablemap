@@ -213,7 +213,7 @@ Ask: "Would an LLM's general knowledge adequately cover this?"
 - **If yes:** Skip, briefly reference, or radically compress.
 - **If no:** Include with the site's distinctive framing.
 
-the site's value is its coherent, opinionated perspective grounded in the tenets—not encyclopaedic coverage.
+The site's value is its coherent, opinionated perspective grounded in the tenets—not encyclopaedic coverage.
 
 ## Tenet Alignment
 

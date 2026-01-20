@@ -126,7 +126,7 @@ Even if continual learning is necessary for consciousness, it's likely not suffi
 
 ### 3. LLM Consciousness Could Exist at Different Level
 
-the site's framework is agnostic about *where* quantum consciousness could exist. If LLMs were run on hardware that supported quantum coherence (hypothetically), the proximity argument might not apply—the conscious LLM would differ from the lookup table at the quantum level even if functionally equivalent at the classical level.
+The site's framework is agnostic about *where* quantum consciousness could exist. If LLMs were run on hardware that supported quantum coherence (hypothetically), the proximity argument might not apply—the conscious LLM would differ from the lookup table at the quantum level even if functionally equivalent at the classical level.
 
 ## Conclusion
 

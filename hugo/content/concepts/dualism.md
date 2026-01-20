@@ -57,7 +57,7 @@ This includes positions like naturalistic dualism (Chalmers's early view), where
 
 ### Which Matters for this site
 
-the site's [Dualism](/tenets/#dualism) tenet is compatible with either formulation. What matters is the irreducibility claim: consciousness cannot be identified with or derived from physical processes. Both substance and property dualism deliver this. The downstream commitments—[Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)—work with either ontological framework.
+The site's [Dualism](/tenets/#dualism) tenet is compatible with either formulation. What matters is the irreducibility claim: consciousness cannot be identified with or derived from physical processes. Both substance and property dualism deliver this. The downstream commitments—[Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)—work with either ontological framework.
 
 ## Arguments for Dualism
 
@@ -93,7 +93,7 @@ A crucial question for dualism: if mind and matter are distinct, how do they rel
 
 **Parallelism**: Mind and body don't interact at all—they run in parallel without causal connection. This faces similar problems to epiphenomenalism and adds unexplained coordination.
 
-the site's framework commits to interactionism, with the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifying where and how: at quantum indeterminacies, consciousness biases otherwise undetermined outcomes without violating conservation laws.
+The site's framework commits to interactionism, with the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifying where and how: at quantum indeterminacies, consciousness biases otherwise undetermined outcomes without violating conservation laws.
 
 ## Objections to Dualism
 

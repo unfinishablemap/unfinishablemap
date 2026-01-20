@@ -56,7 +56,7 @@ Any account of survival must address [personal-identity](/topics/personal-identi
 
 Derek Parfit famously argued that personal identity may have no determinate answer in survival cases, but this doesn't matter—what matters is psychological continuity, which could be preserved by replicas. On this view, a perfect copy of your psychological patterns would preserve everything important about you.
 
-the site rejects this. As discussed in the [personal-identity](/topics/personal-identity/) article, indexical identity—the fact that *this* consciousness is the one having these experiences—matters independently of psychological continuity. A duplicate of you is not you; it's someone new with similar memories. The [No Many Worlds tenet](/tenets/#no-many-worlds) reflects this: identity questions have determinate answers, and merely similar beings don't inherit your identity.
+The site rejects this. As discussed in the [personal-identity](/topics/personal-identity/) article, indexical identity—the fact that *this* consciousness is the one having these experiences—matters independently of psychological continuity. A duplicate of you is not you; it's someone new with similar memories. The [No Many Worlds tenet](/tenets/#no-many-worlds) reflects this: identity questions have determinate answers, and merely similar beings don't inherit your identity.
 
 ### Parfit's "Liberating" View of Death
 
@@ -66,7 +66,7 @@ Parfit argued this should be "no more distressing than when I am about to lose c
 
 **Why the site rejects this**: The liberating conclusion follows *only if* reductionism is true. But if identity involves something over and above pattern-continuity—if *you* are a particular conscious subject whose haecceity can't be replicated—then death is the destruction of something unique and irreplaceable. The pattern ends, yes, but so does *you*—the subject who experienced, chose, and cared. That loss is real in a way Parfit's view cannot accommodate.
 
-the site's position makes death *worse* than Parfit's view in one sense: you really do cease to exist, not just a pattern. But it also makes death *different*: what's lost is a particular, not a repeatable universal. This explains the deep asymmetry we feel between:
+The site's position makes death *worse* than Parfit's view in one sense: you really do cease to exist, not just a pattern. But it also makes death *different*: what's lost is a particular, not a repeatable universal. This explains the deep asymmetry we feel between:
 - Our own death (irreversible loss of this subject)
 - A replica's creation (a new subject, however similar)
 
@@ -112,7 +112,7 @@ Substance dualism permits survival most straightforwardly: if consciousness is a
 
 Property dualism is more complex. If consciousness is a non-physical property of physical systems, what happens when those systems cease? The property might require a substrate to instantiate it. Yet if the property is genuinely non-physical, the substrate needn't be material—perhaps consciousness could be re-instantiated in a different medium.
 
-the site's [interactionist-dualism](/archive/arguments/interactionist-dualism/) leaves these questions open. What matters is that consciousness is irreducible and causally efficacious. Whether it can exist without its current physical interface is a further question the framework doesn't settle.
+The site's [interactionist-dualism](/archive/arguments/interactionist-dualism/) leaves these questions open. What matters is that consciousness is irreducible and causally efficacious. Whether it can exist without its current physical interface is a further question the framework doesn't settle.
 
 ## Near-Death Experiences
 
@@ -223,11 +223,11 @@ If survival occurs, what form would it take? Several possibilities:
 
 **Quantum persistence**: Consciousness continues as quantum information distributed through spacetime. Novel framework but faces severe coherence problems.
 
-the site's framework doesn't adjudicate between these. What it does provide is the conceptual space for survival to be meaningful—something materialism forecloses.
+The site's framework doesn't adjudicate between these. What it does provide is the conceptual space for survival to be meaningful—something materialism forecloses.
 
 ## What Would Challenge This View?
 
-the site's openness to survival would face serious difficulty if:
+The site's openness to survival would face serious difficulty if:
 
 1. **The illusionist functional explanation proves complete.** If attention schema theory or similar frameworks could fully explain not just *reports* about consciousness but the phenomenology itself—if someone who has directly experienced awareness could be satisfied that their experience is exhaustively explained by functional processes—then survival questions would dissolve. Currently, such explanations seem to leave out what matters most.
 

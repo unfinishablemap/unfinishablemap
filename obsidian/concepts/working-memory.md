@@ -74,7 +74,7 @@ The 100ms–5s experienced moment corresponds precisely to WM maintenance capaci
 
 As one researcher puts it: "Working memory provides a temporal bridge between events—both those that are internally generated and environmentally presented—thereby conferring a sense of unity and continuity to conscious experience."
 
-the site's specious-present article proposes modified extensionalism: consciousness genuinely extends over duration-blocks constituted by quantum collapse. WM maintenance could be the neural correlate of this extended phenomenal present. What we experience as "now" may be what working memory feels like from inside.
+The site's specious-present article proposes modified extensionalism: consciousness genuinely extends over duration-blocks constituted by quantum collapse. WM maintenance could be the neural correlate of this extended phenomenal present. What we experience as "now" may be what working memory feels like from inside.
 
 ## Working Memory and Global Workspace Theory
 
@@ -139,7 +139,7 @@ WM binding in the episodic buffer resembles perceptual binding:
 - The hippocampus participates in both (episodic memory binding, scene perception)
 - The [[binding-problem|combination problem]] applies to both: why unified experience rather than parallel processes?
 
-the site's quantum binding hypothesis could explain both. If binding requires quantum-level integration (as Orch OR proposes), then the episodic buffer and perceptual binding may share mechanisms—both implementing consciousness-constituted unity.
+The site's quantum binding hypothesis could explain both. If binding requires quantum-level integration (as Orch OR proposes), then the episodic buffer and perceptual binding may share mechanisms—both implementing consciousness-constituted unity.
 
 The [[autonoetic-consciousness|autonoetic consciousness]] research reinforces this. Tulving proposed that manipulating episodic memories creates autonoetic awareness—consciousness of subjective time. WM provides the workspace for this manipulation, the episodic buffer binds content, and autonoetic consciousness enables mental time travel. The stack connects WM capacity to the phenomenology of temporal selfhood.
 

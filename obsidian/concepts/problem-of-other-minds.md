@@ -101,7 +101,7 @@ If consciousness is non-physical, physical evidence is even more indirect. Brain
 
 The connection between mind and body, on the dualist view, is contingent. Bodies don't *necessitate* minds the way hydrogen and oxygen necessitate water. A world with the same physical facts but different (or absent) phenomenal facts is conceivable. But then what grounds the inference from your behavior to your consciousness?
 
-the site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet provides one answer: consciousness causally affects the physical world. If your consciousness influences your behavior, your behavior provides some evidence for your consciousness—not direct access, but genuine indication. The connection isn't logical necessity but causal regularity.
+The site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet provides one answer: consciousness causally affects the physical world. If your consciousness influences your behavior, your behavior provides some evidence for your consciousness—not direct access, but genuine indication. The connection isn't logical necessity but causal regularity.
 
 Yet even causal connection leaves room for skepticism. Perhaps your body behaves as if influenced by consciousness without actual consciousness doing the influencing. The zombie scenario remains conceivable.
 

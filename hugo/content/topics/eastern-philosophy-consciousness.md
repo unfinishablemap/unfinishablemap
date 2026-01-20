@@ -31,7 +31,7 @@ topics:
 
 Eastern philosophical traditions—particularly Buddhism—offer a distinctive approach to consciousness that both challenges and illuminates this site's perspective. Where Western philosophy often asks "what *is* consciousness?" and "how does it relate to matter?", Buddhism asks "what does clinging to consciousness cause?" and "how can we transform our relationship to experience?"
 
-this site finds Buddhism instructive as both ally and provocateur. Buddhism takes consciousness seriously, rejecting the eliminativism that dismisses experience as illusion. But Buddhism also denies a permanent self—the very thing Western dualism often invokes. The tension is productive: it forces clarity about what the site's [Dualism](/tenets/#dualism) tenet actually requires.
+This site finds Buddhism instructive as both ally and provocateur. Buddhism takes consciousness seriously, rejecting the eliminativism that dismisses experience as illusion. But Buddhism also denies a permanent self—the very thing Western dualism often invokes. The tension is productive: it forces clarity about what the site's [Dualism](/tenets/#dualism) tenet actually requires.
 
 ## Buddhism's Approach to Consciousness
 
@@ -153,11 +153,11 @@ The Dalai Lama emphasizes dream yoga's existential significance: "Training durin
 
 ### No Permanent Self
 
-the site's dualism requires something non-physical that is consciousness. Buddhism denies any permanent, substantial self.
+The site's dualism requires something non-physical that is consciousness. Buddhism denies any permanent, substantial self.
 
 But how much does this conflict actually amount to?
 
-the site's Dualism tenet says "consciousness is not reducible to physical processes." It doesn't explicitly require a *permanent* conscious substance. Perhaps consciousness can be irreducible while still being impermanent—arising and passing away moment to moment, but never reducible to physical processes at any moment.
+The site's Dualism tenet says "consciousness is not reducible to physical processes." It doesn't explicitly require a *permanent* conscious substance. Perhaps consciousness can be irreducible while still being impermanent—arising and passing away moment to moment, but never reducible to physical processes at any moment.
 
 This would be a form of property dualism rather than substance dualism. At each moment, there are both physical properties (mass, charge) and phenomenal properties (the felt quality of experience), and the phenomenal properties don't reduce to the physical. But neither set of properties belongs to a permanent substance; both arise and pass dependently.
 
@@ -167,7 +167,7 @@ Buddhism might accept this formulation. the site can too—see [buddhism-and-dua
 
 Yogācāra's "mind-only" thesis conflicts with the site's commitment to bidirectional interaction. If there's no external physical world, what is consciousness interacting *with*?
 
-the site requires two relata—consciousness and physical reality—for interaction. Yogācāra has only one: mind. What appears as physical is mental construction.
+The site requires two relata—consciousness and physical reality—for interaction. Yogācāra has only one: mind. What appears as physical is mental construction.
 
 But not all Buddhist schools are Yogācāra. Madhyamaka accepts conventional physical reality while denying inherent existence to both mind and matter. And even Yogācāra acknowledges the *appearance* of physicality, which might be enough for the interaction to be phenomenologically real even if metaphysically one-sided.
 
@@ -175,7 +175,7 @@ But not all Buddhist schools are Yogācāra. Madhyamaka accepts conventional phy
 
 Buddhism's ultimate goal is liberation (*nirvana*)—freedom from suffering through transformation of consciousness. It's a practical project, not primarily an explanatory one.
 
-the site's project is different: to understand consciousness and its place in nature. Buddhism might see this as missing the point. Why explain consciousness when you could transform it?
+The site's project is different: to understand consciousness and its place in nature. Buddhism might see this as missing the point. Why explain consciousness when you could transform it?
 
 This tension may be productive rather than destructive. the site can acknowledge that understanding consciousness isn't the only worthwhile project while still pursuing it. Buddhism can acknowledge that theoretical clarity might support practice.
 

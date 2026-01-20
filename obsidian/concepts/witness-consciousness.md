@@ -99,7 +99,7 @@ These observations don't prove dualism, but they reveal features of experience t
 
 ## The Witness and the Selector
 
-this site's framework emphasizes consciousness as *selector*—choosing among options the brain presents through the [[attention-as-interface|attention interface]]. The witness concept raises a question: if consciousness is fundamentally a selector, how can it also be a passive observer?
+This site's framework emphasizes consciousness as *selector*—choosing among options the brain presents through the [[attention-as-interface|attention interface]]. The witness concept raises a question: if consciousness is fundamentally a selector, how can it also be a passive observer?
 
 ### Two Modes, Not Two Consciousnesses
 
@@ -210,7 +210,7 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet gains support here. Many-wor
 
 ## What Would Challenge This View?
 
-the site's position on witness consciousness would face serious difficulty if:
+The site's position on witness consciousness would face serious difficulty if:
 
 1. **Contemplative claims prove unreliable across traditions.** The phenomenological evidence for witness consciousness comes largely from contemplative practice. If different traditions reported radically different phenomenologies—if Buddhist insight meditation revealed something incompatible with Advaita witness practice—the claim to be accessing a universal structure of awareness would weaken. Currently, cross-tradition convergence (on effortlessness, detachment, cessation of self-narrative) supports the reliability of these reports.
 

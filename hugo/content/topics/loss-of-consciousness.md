@@ -175,7 +175,7 @@ This suggests the brain *prepares* for consciousness rather than *producing* it�
 
 ## Relation to Site Perspective
 
-the site's [tenets](/tenets/) include both [dualism](/tenets/#dualism)—consciousness is not reducible to physical processes—and [bidirectional interaction](/tenets/#bidirectional-interaction)—consciousness causally influences the physical world. Loss of consciousness evidence supports both commitments.
+The site's [tenets](/tenets/) include both [dualism](/tenets/#dualism)—consciousness is not reducible to physical processes—and [bidirectional interaction](/tenets/#bidirectional-interaction)—consciousness causally influences the physical world. Loss of consciousness evidence supports both commitments.
 
 **Dualism**: The filter theory interpretation of brain-consciousness correlation preserves dualism while explaining why consciousness depends on brain function. Dependence does not entail identity. The radio depends on its circuitry but the broadcast originates elsewhere.
 

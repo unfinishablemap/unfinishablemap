@@ -164,7 +164,7 @@ None of these has been demonstrated. The Fox study shows training effects; metac
 
 ## Relation to Site Perspective
 
-the site relies heavily on phenomenological evidence. The [[tenets#^dualism|Dualism]] tenet asserts that consciousness is irreducible to physical processes—a claim that ultimately rests on the recognition that experience has features (qualitative character, unity, intentionality) that no physical description captures. Can this foundation bear weight if introspection is unreliable?
+The site relies heavily on phenomenological evidence. The [[tenets#^dualism|Dualism]] tenet asserts that consciousness is irreducible to physical processes—a claim that ultimately rests on the recognition that experience has features (qualitative character, unity, intentionality) that no physical description captures. Can this foundation bear weight if introspection is unreliable?
 
 The critique's scope is narrower than it appears. Nisbett and Wilson's target is causal process access, not phenomenal content. the site's claims about consciousness concern *what it is like* to have experience—precisely the domain where even critics acknowledge some access. Choice blindness reveals we confabulate decision justifications; it doesn't show we're wrong that visual experience exists.
 

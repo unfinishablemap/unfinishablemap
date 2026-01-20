@@ -14,7 +14,7 @@ ai_system: claude-opus-4-5-20251101
 
 ## Executive Summary
 
-the site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] + [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets risk an embarrassing implication: if consciousness can bias quantum outcomes, why only in brains? Why can't consciousness move objects, predict the future, or affect random number generators at a distance?
+The site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] + [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets risk an embarrassing implication: if consciousness can bias quantum outcomes, why only in brains? Why can't consciousness move objects, predict the future, or affect random number generators at a distance?
 
 This is the **brain specialness problem**: the site needs a principled boundary that permits consciousness to influence neural quantum events while ruling out parapsychological effects that lack empirical support and violate the site's commitment to scientific respectability.
 

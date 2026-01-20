@@ -129,7 +129,7 @@ The phenomenology of episodic memory provides evidence that BP2—the combinatio
 
 ### The Convergence Argument
 
-the site proposes that the appearance of binding mechanisms in both perception and memory is not coincidental. If quantum binding generates phenomenal unity (as the quantum alternative section argues), then the same mechanism that unifies perceptual experience would unify memory formation. This explains why:
+The site proposes that the appearance of binding mechanisms in both perception and memory is not coincidental. If quantum binding generates phenomenal unity (as the quantum alternative section argues), then the same mechanism that unifies perceptual experience would unify memory formation. This explains why:
 
 1. **Hippocampal damage impairs both**: Damage to the hippocampus impairs both scene perception and episodic memory, as if the same binding capacity underlies both.
 
@@ -267,7 +267,7 @@ The quantum binding hypothesis makes testable commitments:
 
 4. **Anesthetic mechanism alternatives**: If anesthetic action on microtubules can be explained entirely through classical biochemical effects on synaptic transmission, without invoking quantum disruption, the epothilone study becomes less probative.
 
-the site maintains that current evidence favors the quantum position while acknowledging that the debate remains live. Scientific humility requires specifying what would count against one's view.
+The site maintains that current evidence favors the quantum position while acknowledging that the debate remains live. Scientific humility requires specifying what would count against one's view.
 
 ## Relation to this site's Perspective
 

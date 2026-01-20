@@ -168,7 +168,7 @@ Why would anyone accept such a problematic view? The answer is [causal-closure](
 
 If causal closure is true, and if consciousness is not physical, then consciousness cannot cause physical events—physical causes pre-empt mental causes. Epiphenomenalism follows as the least bad option: deny mental causation rather than deny that consciousness exists or reduce it to physics.
 
-the site's response: deny causal closure at quantum indeterminacies. The [measurement-problem](/concepts/measurement-problem/) shows that quantum mechanics does not specify which outcome occurs—it provides probabilities, not determinations. At these points, physics is genuinely incomplete. Consciousness can cause physical events precisely where physics leaves room.
+The site's response: deny causal closure at quantum indeterminacies. The [measurement-problem](/concepts/measurement-problem/) shows that quantum mechanics does not specify which outcome occurs—it provides probabilities, not determinations. At these points, physics is genuinely incomplete. Consciousness can cause physical events precisely where physics leaves room.
 
 This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness biases quantum outcomes without violating conservation laws. No energy is injected; outcomes physics already permits are selected. This preserves what's true in causal closure (physics explains physical events where physics determines them) while denying what's false (physics determines everything).
 

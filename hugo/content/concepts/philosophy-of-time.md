@@ -35,7 +35,7 @@ topics:
 
 Philosophy of time asks fundamental questions about time's nature: Does the past exist? Is there an objective present? Does time flow, or is "flow" an illusion? These questions matter for consciousness because the relationship between subjective temporal experience and physical time remains deeply puzzling. If consciousness participates in [quantum collapse](/concepts/collapse-and-time/)—and collapse introduces time's arrow—then consciousness may be implicated in the structure of time itself, not merely a passenger traveling through it.
 
-this site's framework proposes that consciousness helps constitute temporal structure through its role in collapse. To understand this proposal, we need the conceptual apparatus philosophers have developed for thinking about time.
+This site's framework proposes that consciousness helps constitute temporal structure through its role in collapse. To understand this proposal, we need the conceptual apparatus philosophers have developed for thinking about time.
 
 ## McTaggart's A-Series and B-Series
 
@@ -119,7 +119,7 @@ Quantum mechanics reintroduces temporal asymmetry. The Schrödinger equation is 
 
 ## the site's Position
 
-the site's [temporal framework](/topics/time-collapse-and-agency/) proposes:
+The site's [temporal framework](/topics/time-collapse-and-agency/) proposes:
 
 1. **Collapse is real** (not merely decoherence)—the [No Many Worlds](/tenets/#no-many-worlds) tenet requires this
 2. **Collapse introduces time's arrow**—irreversibility emerges through measurement, not just entropy
@@ -185,7 +185,7 @@ Whatever the correct metaphysics, temporal *experience* has distinctive features
 
 These phenomenological features don't decisively settle metaphysics (B-theorists explain them as illusions or indexical effects), but they constrain adequate theories. A metaphysics that dismisses temporal phenomenology as mere confusion must explain why the confusion is so systematic and universal.
 
-the site's framework predicts temporal phenomenology: if consciousness constitutes temporal structure through collapse, the specious present is the phenomenology of this constitutive activity. We experience duration because we create duration. Flow isn't illusion; it's what time-constitution feels like.
+The site's framework predicts temporal phenomenology: if consciousness constitutes temporal structure through collapse, the specious present is the phenomenology of this constitutive activity. We experience duration because we create duration. Flow isn't illusion; it's what time-constitution feels like.
 
 ## Contemplative Evidence
 

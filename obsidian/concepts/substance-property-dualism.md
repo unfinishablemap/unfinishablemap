@@ -26,7 +26,7 @@ last_curated: null
 
 Dualism comes in two main varieties: substance dualism and property dualism. The first holds that mind and body are different *kinds of thing*—distinct substances. The second holds that mental properties are genuinely different from physical properties, without positing separate substances. Both reject [[materialism|materialism's]] claim that everything is ultimately physical, but they disagree about the underlying metaphysical structure.
 
-this site's [[tenets#^dualism|Dualism]] tenet is compatible with either formulation. What matters philosophically is that consciousness is irreducible to physics and that mental properties are genuinely novel—not the precise ontological framework that grounds this irreducibility.
+This site's [[tenets#^dualism|Dualism]] tenet is compatible with either formulation. What matters philosophically is that consciousness is irreducible to physics and that mental properties are genuinely novel—not the precise ontological framework that grounds this irreducibility.
 
 ## Substance Dualism
 
@@ -104,7 +104,7 @@ Substance dualists respond in three ways: (1) accepting that minds are spatially
 
 ## Which Does this site Hold?
 
-the site's tenets are deliberately neutral between substance and property dualism. What the tenets require:
+The site's tenets are deliberately neutral between substance and property dualism. What the tenets require:
 
 - **Dualism**: Consciousness is not reducible to physical processes. (Either version delivers this.)
 - **Bidirectional Interaction**: Consciousness causally influences physical outcomes. (Either version permits this—though property dualism must avoid the epiphenomenalist temptation.)
@@ -112,7 +112,7 @@ the site's tenets are deliberately neutral between substance and property dualis
 
 The choice between substance and property dualism affects how we think about personal identity, survival, and the metaphysics of mind. These are important questions, but they're downstream of the central commitment: consciousness is real, irreducible, and causally efficacious.
 
-the site follows Chalmers's recent inclination toward substance dualism, partly because substance dualism avoids the combination problem and partly because property dualism tends to slide toward either panpsychism (where the combination problem bites) or epiphenomenalism (which the Bidirectional Interaction tenet rejects). But this is a philosophical preference, not a doctrinal requirement.
+The site follows Chalmers's recent inclination toward substance dualism, partly because substance dualism avoids the combination problem and partly because property dualism tends to slide toward either panpsychism (where the combination problem bites) or epiphenomenalism (which the Bidirectional Interaction tenet rejects). But this is a philosophical preference, not a doctrinal requirement.
 
 ## Relation to this site's Perspective
 

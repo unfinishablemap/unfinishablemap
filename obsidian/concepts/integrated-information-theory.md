@@ -30,7 +30,7 @@ last_deep_review: 2026-01-20T01:25:00+00:00
 
 Integrated Information Theory (IIT) proposes that consciousness *is* integrated information—not that it correlates with or emerges from it, but that consciousness and integrated information are identical. Developed by neuroscientist Giulio Tononi, IIT offers one of the most mathematically rigorous theories of consciousness, complete with a quantitative measure (phi/Φ) that purports to capture how conscious any system is.
 
-this site finds IIT instructive as both ally and rival. IIT takes consciousness seriously as fundamental, aligning with the [[tenets#^dualism|Dualism]] tenet. But it identifies consciousness with physical properties rather than treating it as causally efficacious over and above physics—which conflicts with [[tenets#^bidirectional-interaction|Bidirectional Interaction]].
+This site finds IIT instructive as both ally and rival. IIT takes consciousness seriously as fundamental, aligning with the [[tenets#^dualism|Dualism]] tenet. But it identifies consciousness with physical properties rather than treating it as causally efficacious over and above physics—which conflicts with [[tenets#^bidirectional-interaction|Bidirectional Interaction]].
 
 ## The Theory
 
@@ -145,7 +145,7 @@ IIT's willingness to accept panpsychism also aligns with the [[tenets#^occams-li
 
 ### Where IIT Conflicts
 
-the site's framework requires that consciousness be *causally efficacious*—that it influence physical outcomes. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness "selects among superposed neural states, collapsing quantum indeterminacy."
+The site's framework requires that consciousness be *causally efficacious*—that it influence physical outcomes. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness "selects among superposed neural states, collapsing quantum indeterminacy."
 
 IIT has no room for this. If consciousness *is* integrated information, it doesn't *do* anything to the physical. It is the physical, in a certain configuration. The phi-structure doesn't cause neural events; it constitutes them. This is identity, not causation.
 
@@ -173,7 +173,7 @@ IIT doesn't require quantum mechanics. It works at the level of classical inform
 
 Some speculate that quantum coherence might be relevant to how integration occurs in biological systems—quantum entanglement provides exactly the kind of holistic, irreducible connections that IIT claims underlie consciousness. The Kerskens & Pérez (2022) MRI study detected entanglement signatures in brain water protons, potentially linking quantum holism to neural integration. But this isn't part of standard IIT. The theory is designed to work without invoking quantum mysteries, treating consciousness as a feature of classical causal structure.
 
-the site's framework suggests IIT may be incomplete precisely because it ignores quantum mechanics. If consciousness influences physical outcomes via quantum selection (per Bidirectional Interaction), then IIT's purely observational stance—consciousness *is* integration but doesn't *do* anything—misses consciousness's causal role. Quantum approaches make consciousness active; IIT makes it passive.
+The site's framework suggests IIT may be incomplete precisely because it ignores quantum mechanics. If consciousness influences physical outcomes via quantum selection (per Bidirectional Interaction), then IIT's purely observational stance—consciousness *is* integration but doesn't *do* anything—misses consciousness's causal role. Quantum approaches make consciousness active; IIT makes it passive.
 
 ### What Would Challenge This View?
 

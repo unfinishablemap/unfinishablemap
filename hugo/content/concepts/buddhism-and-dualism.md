@@ -78,7 +78,7 @@ Yogācāra introduces the *ālaya-vijñāna* ("storehouse consciousness")—a de
 
 ## Karma and Bidirectional Interaction
 
-the site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. Buddhist karma doctrine makes a structurally similar claim: mental states—particularly intentions (*cetanā*)—determine the moral quality of actions and generate consequences that shape future experience.
+The site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. Buddhist karma doctrine makes a structurally similar claim: mental states—particularly intentions (*cetanā*)—determine the moral quality of actions and generate consequences that shape future experience.
 
 If consciousness were epiphenomenal (causally inert), karma would be incoherent. Intentions would be mere side-effects of physical brain processes, not genuine causal contributors. Both Buddhism and the site reject this picture. Mental states matter; consciousness does something.
 

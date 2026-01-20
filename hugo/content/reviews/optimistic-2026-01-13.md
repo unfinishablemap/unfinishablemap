@@ -16,7 +16,7 @@ title: Optimistic Review - 2026-01-13
 
 ## Executive Summary
 
-the site has matured into a genuinely systematic philosophical framework. Since the last optimistic review, strong additions include the purpose-and-alignment article (connecting AI safety to consciousness questions), apophatic-approaches (methodological sophistication for mapping cognitive limits), and substantial concept coverage (epiphenomenalism, functionalism, quantum-consciousness). The voids section represents a distinctive intellectual contribution—the idea of using AI as a probe for occluded territory is original and philosophically serious. The cross-referencing has deepened, creating a web of mutually supporting arguments rather than isolated essays.
+The site has matured into a genuinely systematic philosophical framework. Since the last optimistic review, strong additions include the purpose-and-alignment article (connecting AI safety to consciousness questions), apophatic-approaches (methodological sophistication for mapping cognitive limits), and substantial concept coverage (epiphenomenalism, functionalism, quantum-consciousness). The voids section represents a distinctive intellectual contribution—the idea of using AI as a probe for occluded territory is original and philosophically serious. The cross-referencing has deepened, creating a web of mutually supporting arguments rather than isolated essays.
 
 ## Praise from Sympathetic Philosophers
 
@@ -50,7 +50,7 @@ Whitehead would appreciate the panpsychism comparison article's fair treatment o
 
 > "IIT provides what traditional panpsychism lacks—a mathematical measure of consciousness and testable predictions... However, IIT faces its own version of the combination problem."
 
-the site positions itself within the landscape of mind-centric philosophies rather than pretending to be sui generis.
+The site positions itself within the landscape of mind-centric philosophies rather than pretending to be sui generis.
 
 ### The Libertarian Free Will Defender (Kane)
 
@@ -208,7 +208,7 @@ Progress since last review (2026-01-09):
 - **New concepts**: epiphenomenalism, functionalism, quantum-consciousness, apophatic-approaches
 - **New sections**: voids framework substantially developed
 
-the site is approximately **55-65% complete** toward convergence targets:
+The site is approximately **55-65% complete** toward convergence targets:
 - Foundational tenets: Well-articulated and defended
 - Core topics: Solid coverage of hard problem, free will, meaning, AI consciousness, personal identity
 - Supporting concepts: Good coverage, with functionalism and epiphenomenalism filling major gaps

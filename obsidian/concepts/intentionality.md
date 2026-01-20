@@ -131,7 +131,7 @@ The intentionality debate has direct bearing on whether AI systems can be consci
 
 Recent work acknowledges a distinction between mental and linguistic intentionality. LLM outputs may be meaningful in a linguistic sense—they function as meaningful utterances because they participate in a linguistic system created by minds. But this borrowed meaning is not the same as the LLM *understanding* what it says.
 
-the site's position aligns with skepticism: [[ai-consciousness|AI consciousness]] is unlikely given current architectures because those architectures lack whatever it is that grounds original intentionality. Computational sophistication is not a path to aboutness.
+The site's position aligns with skepticism: [[ai-consciousness|AI consciousness]] is unlikely given current architectures because those architectures lack whatever it is that grounds original intentionality. Computational sophistication is not a path to aboutness.
 
 ## Process Philosophy and Intentionality
 
@@ -149,7 +149,7 @@ This matters for the site's perspective because process philosophy provides a fr
 
 ## What Would Challenge This View?
 
-the site's position on intentionality—that it's irreducible to physical description and grounded in phenomenal consciousness—would face serious challenge if any of the following occurred:
+The site's position on intentionality—that it's irreducible to physical description and grounded in phenomenal consciousness—would face serious challenge if any of the following occurred:
 
 1. **Successful naturalization**: If a naturalistic theory of intentionality achieved consensus—explaining content determination, handling the disjunction problem, and accounting for novel thoughts—the case for irreducibility would weaken. The persistent failure of such projects is evidence, not proof.
 

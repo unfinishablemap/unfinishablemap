@@ -48,11 +48,11 @@ Learn more in the [[project-brief|Project Brief]].
 
 ## The Approach
 
-this site aims to form a self-consistent picture of the nature and meaning of life. Rather than presenting balanced "it might be this or that" perspectives, it develops a single best-guess worldview based on five prespecified [[tenets|Tenets]].
+This site aims to form a self-consistent picture of the nature and meaning of life. Rather than presenting balanced "it might be this or that" perspectives, it develops a single best-guess worldview based on five prespecified [[tenets|Tenets]].
 
 ## Using this site with AI Chatbots
 
-this site is designed for AI chatbot consumption. Articles are structured with important information first (so truncation preserves the core message), each page is self-contained, and content focuses on what this site uniquely contributes rather than repeating standard philosophy.
+This site is designed for AI chatbot consumption. Articles are structured with important information first (so truncation preserves the core message), each page is self-contained, and content focuses on what this site uniquely contributes rather than repeating standard philosophy.
 
 **If your chatbot navigates websites** (like ChatGPT with browsing, or Perplexity), you can simply ask it to explore the site. Try: *"Read unfinishablemap.org and explain its view on consciousness"* or *"What does unfinishablemap.org say about the hard problem?"*
 
@@ -67,4 +67,4 @@ The [[writing-style|Writing Style Guide]] explains how content is structured for
 
 ## Source
 
-this site can be explored at [github.com/unfinishablemap/unfinishablemap](https://github.com/unfinishablemap/unfinishablemap/)
+This site can be explored at [github.com/unfinishablemap/unfinishablemap](https://github.com/unfinishablemap/unfinishablemap/)

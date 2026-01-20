@@ -125,7 +125,7 @@ But it cannot explain why there is something it is like to believe, report, act,
 
 To see this, imagine a perfect attention schema implemented in silicon. By AST's lights, it should be conscious. But consider: would there be something it's like to *be* that system? AST has no resources to answer this beyond asserting that the question is confused. For those who find the question coherent—who take phenomenal consciousness seriously—AST offers explanation of everything except what matters.
 
-the site's alternative: attention is not what consciousness *is* but how consciousness *interfaces* with matter. The quantum consciousness framework proposes that attention is the mechanism by which non-physical consciousness influences physical outcomes. This preserves what AST gets right (attention's central role) while rejecting its eliminativist conclusion.
+The site's alternative: attention is not what consciousness *is* but how consciousness *interfaces* with matter. The quantum consciousness framework proposes that attention is the mechanism by which non-physical consciousness influences physical outcomes. This preserves what AST gets right (attention's central role) while rejecting its eliminativist conclusion.
 
 ## AST and AI Consciousness
 
@@ -133,7 +133,7 @@ AST has direct implications for AI. If consciousness is attention modeling, and 
 
 A 2025 analysis suggests current LLMs already exhibit workspace-like structures through transformer attention mechanisms, and that "with only minor modifications, they could fulfill the processing requirements for phenomenal consciousness" on AST assumptions.
 
-the site disagrees. Even if LLMs develop sophisticated attention schemas, this wouldn't generate phenomenal experience—it would generate sophisticated processing that models attention. The difference matters ethically: if AST is wrong and consciousness requires something beyond modeling, we could be wrong about which systems matter morally.
+The site disagrees. Even if LLMs develop sophisticated attention schemas, this wouldn't generate phenomenal experience—it would generate sophisticated processing that models attention. The difference matters ethically: if AST is wrong and consciousness requires something beyond modeling, we could be wrong about which systems matter morally.
 
 ## Relation to Site Perspective
 

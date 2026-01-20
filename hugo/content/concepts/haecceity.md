@@ -60,7 +60,7 @@ For personal identity, the stakes are high:
 
 ## Why Consciousness Requires Haecceity
 
-the site's [Dualism](/tenets/#dualism) tenet treats consciousness as irreducible to physical processes. This commitment has haecceitistic implications.
+The site's [Dualism](/tenets/#dualism) tenet treats consciousness as irreducible to physical processes. This commitment has haecceitistic implications.
 
 Consider the [zombie argument](/concepts/philosophical-zombies/): a creature physically identical to you but lacking consciousness is conceivable. If zombies are possible, consciousness is not determined by physical/functional properties. But then what determines that *this* physical system has consciousness while an identical zombie lacks it?
 
@@ -110,7 +110,7 @@ Anti-haecceitists see survival. You now exist as a computational pattern.
 
 Haecceitists see death and replacement. The simulation is a copy with your qualities. But *you*—this particular conscious subject—ended when your brain stopped.
 
-the site's framework aligns with haecceitism here. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. Your consciousness has a specific causal history—the quantum selections, neural influences, and physical effects constituting your life. A replica's consciousness would begin a new causal history. Even if qualitatively identical at the moment of copying, the replica isn't *this* consciousness with *this* history.
+The site's framework aligns with haecceitism here. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. Your consciousness has a specific causal history—the quantum selections, neural influences, and physical effects constituting your life. A replica's consciousness would begin a new causal history. Even if qualitatively identical at the moment of copying, the replica isn't *this* consciousness with *this* history.
 
 ## Connection to the Pairing Problem
 
@@ -194,7 +194,7 @@ These challenges remain unmet, but their form clarifies what the haecceitistic c
 
 ## the site's Commitment
 
-the site doesn't explicitly endorse "haecceitism" by name. But its commitments imply haecceity about conscious subjects:
+The site doesn't explicitly endorse "haecceitism" by name. But its commitments imply haecceity about conscious subjects:
 
 1. **Dualism**: Consciousness isn't reducible to physical/functional properties. Therefore qualitative physical identity doesn't guarantee conscious identity.
 

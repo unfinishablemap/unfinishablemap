@@ -138,7 +138,7 @@ Whitehead's framework suggests a third option: experience is ubiquitous, and col
 
 ## What Would Challenge This View?
 
-this site's position on RQM would need revision if:
+This site's position on RQM would need revision if:
 
 1. **RQM solves the hard problem.** If a satisfying account emerged of why relative facts between physical systems are accompanied by phenomenal experience—if the intersubjectivity solution (cross-perspective links) could explain not just physical agreement but qualitative experience—RQM would become more attractive. Currently, RQM ignores the hard problem rather than solving it.
 
@@ -176,7 +176,7 @@ The deeper point: RQM's parsimony is achieved by restriction of scope, not by ge
 
 Relational quantum mechanics offers a coherent interpretation where quantum facts are relative to observers, and "observer" means any physical system. It dissolves the measurement problem and avoids multi-observer paradoxes—but only by eliminating consciousness's special role.
 
-this site rejects this trade-off. Understanding consciousness as causally efficacious matters more than interpretive elegance. But engaging with RQM clarifies what the site's framework adds beyond bare quantum mechanics: a commitment to consciousness as real, irreducible, and causally effective—not merely another physical system among many.
+This site rejects this trade-off. Understanding consciousness as causally efficacious matters more than interpretive elegance. But engaging with RQM clarifies what the site's framework adds beyond bare quantum mechanics: a commitment to consciousness as real, irreducible, and causally effective—not merely another physical system among many.
 
 ## Further Reading
 

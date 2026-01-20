@@ -202,7 +202,7 @@ But they diverge on whether anything persists. Zahavi's minimal self is a *neces
 
 ### The Compatibility Thesis
 
-the site's framework can accommodate Buddhist insights through a key distinction (developed in [buddhism-and-dualism](/concepts/buddhism-and-dualism/)): irreducibility and impermanence are logically independent claims.
+The site's framework can accommodate Buddhist insights through a key distinction (developed in [buddhism-and-dualism](/concepts/buddhism-and-dualism/)): irreducibility and impermanence are logically independent claims.
 
 1. **Irreducibility** (site's Dualism tenet): Phenomenal properties cannot be reduced to physical properties
 2. **Impermanence** (Buddhist doctrine): No phenomenal properties persist unchanged

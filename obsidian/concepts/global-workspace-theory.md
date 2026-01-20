@@ -174,7 +174,7 @@ The workspace may be the neural correlate of the interface between consciousness
 
 GWT is compatible with [[tenets#^dualism|Dualism]] if read as describing neural correlates rather than constituting consciousness. Interactionist dualism predicts that consciousness will have reliable correlates—the physical interface where mind and brain meet. GWT may describe this interface without claiming to explain phenomenal consciousness.
 
-the site's [[attention|attention article]] notes that attention serves as the "gateway" to the workspace. This connects with Stapp's proposal that attention is where consciousness influences physics through the quantum Zeno effect. GWT provides mainstream neuroscience context for this idea.
+The site's [[attention|attention article]] notes that attention serves as the "gateway" to the workspace. This connects with Stapp's proposal that attention is where consciousness influences physics through the quantum Zeno effect. GWT provides mainstream neuroscience context for this idea.
 
 ### Tension
 

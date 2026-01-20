@@ -158,7 +158,7 @@ This doesn't dissolve the hard problem but relocates it. The question becomes: h
 
 Whitehead's approach suggests cognitive closure might be domain-specific. We may be closed with respect to property "P" (how neurons generate consciousness) while being open to understanding consciousness as fundamental. The closure concerns *reduction*, not *understanding* tout court. This preserves mysterian humility while allowing progress through different conceptual routes.
 
-the site's tenets align broadly with this: consciousness is fundamental (Dualism), not emergent from non-experiential matter. Mysterianism may be correct about reductive explanation while leaving room for non-reductive understanding.
+The site's tenets align broadly with this: consciousness is fundamental (Dualism), not emergent from non-experiential matter. Mysterianism may be correct about reductive explanation while leaving room for non-reductive understanding.
 
 ## What Would Challenge This View?
 
@@ -212,7 +212,7 @@ Mysterianism connects to all five tenets, though the connections vary in nature:
 
 **the site's approach**: this site goes further than mysterianism in making specific commitments. Where mysterians remain agnostic about consciousness's nature, the site commits to irreducibility and causal efficacy. These commitments might be wrong—mysterianism warns that certainty exceeds our cognitive warrant. But the site's tenets are presented as commitments, not proofs. Mysterianism's humility is compatible with tentative positions. We can acknowledge our limits while still making our best guesses.
 
-the site's [voids](/voids/) framework resonates with mysterian themes. McGinn's property "P" might be void territory—something that exists but lies beyond our conceptual reach. The difference: the voids framework suggests we can map the *edges* of void territory through apophatic methods, tracing what we cannot think. This is more optimistic than McGinn, who suggests we can't even identify what we're missing. The edge-phenomenology research (see [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)) provides empirical grounding for this more optimistic possibility.
+The site's [voids](/voids/) framework resonates with mysterian themes. McGinn's property "P" might be void territory—something that exists but lies beyond our conceptual reach. The difference: the voids framework suggests we can map the *edges* of void territory through apophatic methods, tracing what we cannot think. This is more optimistic than McGinn, who suggests we can't even identify what we're missing. The edge-phenomenology research (see [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)) provides empirical grounding for this more optimistic possibility.
 
 ## Further Reading
 

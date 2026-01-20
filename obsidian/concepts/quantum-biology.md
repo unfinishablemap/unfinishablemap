@@ -139,7 +139,7 @@ The quantum biology evidence surveyed here strengthens the case that decoherence
 
 [[illusionism|Illusionists]] like Daniel Dennett and Keith Frankish might dismiss the quantum biology debate as solving the wrong problem. If phenomenal consciousness is an introspective illusion—if there's nothing non-physical to explain—then quantum mechanisms have no work to do. The "hard problem" dissolves, and with it the motivation for consciousness-quantum interface theories.
 
-the site's response: illusionism faces its own explanatory burden. The "illusion" of phenomenal consciousness must itself be explained—and the "illusion problem" may be as difficult as the hard problem it claims to dissolve. As Raymond Tallis observes, "Misrepresentation presupposes presentation"—to be under an illusion, something must be experiencing the illusion. [[introspection|Introspective access]] to our mental states, while fallible for causal processes, appears reliable for phenomenal content. The very fact that we discuss consciousness—that information about experience flows into physical behaviour—suggests consciousness has causal efficacy.
+The site's response: illusionism faces its own explanatory burden. The "illusion" of phenomenal consciousness must itself be explained—and the "illusion problem" may be as difficult as the hard problem it claims to dissolve. As Raymond Tallis observes, "Misrepresentation presupposes presentation"—to be under an illusion, something must be experiencing the illusion. [[introspection|Introspective access]] to our mental states, while fallible for causal processes, appears reliable for phenomenal content. The very fact that we discuss consciousness—that information about experience flows into physical behaviour—suggests consciousness has causal efficacy.
 
 More directly: quantum biology's empirical findings are independent of the illusionism debate. Whether consciousness is "real" or "illusory," the evidence that warm biological systems harness quantum effects stands. Photosynthesis, magnetoreception, and enzyme catalysis demonstrate quantum phenomena in living systems regardless of one's position on phenomenal consciousness. What the evidence challenges is the assumption that biology must be classical.
 
@@ -183,7 +183,7 @@ Standard physics provides probabilities for outcomes but doesn't determine which
 
 ## Relation to Site Perspective
 
-the site's position on quantum biology connects to all five tenets:
+The site's position on quantum biology connects to all five tenets:
 
 **[[tenets#^dualism|Dualism]]**: Quantum biology doesn't prove dualism, but it removes a major objection. If consciousness interfaces with physics at quantum indeterminacies—as the site holds—critics often claim such effects couldn't occur in warm biological systems. The evidence surveyed here shows that claim is empirically false.
 
@@ -213,7 +213,7 @@ This framework doesn't depend on specific decoherence timescales because it does
 
 ## What Would Challenge This View?
 
-the site's position on quantum biology would face serious difficulty if:
+The site's position on quantum biology would face serious difficulty if:
 
 1. **All biological quantum effects prove non-functional**: If magnetoreception, enzyme catalysis, and other quantum phenomena turn out to be epiphenomenal—byproducts that natural selection never exploited—the analogy to consciousness weakens. Currently, magnetoreception provides strong evidence that evolution *can* optimise quantum coherence for function.
 

@@ -148,7 +148,7 @@ These are genuine virtues. this site rejects MWI not because it's obviously wron
 
 ## What Would Challenge This View?
 
-the site's rejection of MWI is principled but not dogmatic. Conditions that would significantly weaken the case against MWI:
+The site's rejection of MWI is principled but not dogmatic. Conditions that would significantly weaken the case against MWI:
 
 1. **Resolution of the probability problem.** If the Deutsch-Wallace decision-theoretic derivation were shown to be compelling—if rational agents under branching *must* weight outcomes by Born probabilities without question-begging axioms—the probability objection would lose force.
 

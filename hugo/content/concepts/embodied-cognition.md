@@ -128,7 +128,7 @@ Yet even embodied robots struggle. They transfer poorly to novel situations; the
 
 ## Compatibility with Filter Theory
 
-the site's [mind-brain-separation](/concepts/mind-brain-separation/) article proposes that the brain filters or shapes consciousness rather than producing it. Embodied cognition can be accommodated within this framework:
+The site's [mind-brain-separation](/concepts/mind-brain-separation/) article proposes that the brain filters or shapes consciousness rather than producing it. Embodied cognition can be accommodated within this framework:
 
 The body (including brain) provides the **interface** through which consciousness engages the world. Embodied skills and sensorimotor knowledge describe how consciousness **operates through** the body. The body constrains and shapes experience without necessarily generating it.
 

@@ -68,7 +68,7 @@ For strong emergentists—and dualists—this forces a choice: deny that conscio
 
 Kim himself diagnosed the dilemma facing his own argument: the causal closure principle must be neither too strong (begging the question by assuming physicalism) nor too weak (trivially allowing mental causation). Finding this balance proves difficult.
 
-the site resolves this by denying causal closure—not everywhere, but at the specific points where physics is genuinely incomplete. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet identifies quantum indeterminacy as this opening.
+The site resolves this by denying causal closure—not everywhere, but at the specific points where physics is genuinely incomplete. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet identifies quantum indeterminacy as this opening.
 
 ## Downward Causation
 
@@ -98,7 +98,7 @@ Each of these features—unity, qualitative character, agency—is what strong e
 
 Classical British emergentists like Broad and Alexander affirmed strong emergence but couldn't specify how it operated. They accepted it with "natural piety"—brute facts to be acknowledged rather than explained.
 
-the site advances beyond this. The [quantum framework](/archive/arguments/interactionist-dualism/) provides what classical emergentism lacked: a mechanism for how non-physical causation operates without violating conservation laws.
+The site advances beyond this. The [quantum framework](/archive/arguments/interactionist-dualism/) provides what classical emergentism lacked: a mechanism for how non-physical causation operates without violating conservation laws.
 
 **The mechanism:** Consciousness selects among outcomes physics leaves undetermined. Quantum mechanics specifies probabilities but not which outcome actualizes. The Minimal Quantum Interaction tenet locates consciousness's influence here—biasing probabilities rather than injecting energy.
 
@@ -129,7 +129,7 @@ Critics sometimes argue that strong emergence merely names the problem without s
 | Panpsychism | [combination-problem](/concepts/combination-problem/): how do micro-experiences combine? |
 | Strong emergentism | Exclusion problem: how does mental causation work? |
 
-the site has a response to the exclusion problem—the quantum mechanism. This comparison isn't entirely fair to competitors—panpsychists have developed sophisticated responses to combination (Goff's cosmopsychism, Seager's microexperiential combinatorialism) and physicalists continue refining functionalist accounts. But the quantum framework offers something these alternatives lack: a *mechanism* that interfaces with known physics rather than requiring brute psychophysical correlations or fundamental revision of our ontology.
+The site has a response to the exclusion problem—the quantum mechanism. This comparison isn't entirely fair to competitors—panpsychists have developed sophisticated responses to combination (Goff's cosmopsychism, Seager's microexperiential combinatorialism) and physicalists continue refining functionalist accounts. But the quantum framework offers something these alternatives lack: a *mechanism* that interfaces with known physics rather than requiring brute psychophysical correlations or fundamental revision of our ontology.
 
 ## Can Strong Emergence Be Tested?
 
@@ -154,7 +154,7 @@ Emergence language provides vocabulary for articulating the site's position to p
 - "Kim's exclusion argument" identifies the main challenge the quantum framework addresses
 - "Novel causal powers" describes what consciousness possesses
 
-the site's framework can be understood as *emergentist dualism*—consciousness strongly emerges from physical organization but exercises genuinely distinct causal powers through the quantum opening.
+The site's framework can be understood as *emergentist dualism*—consciousness strongly emerges from physical organization but exercises genuinely distinct causal powers through the quantum opening.
 
 ## Relation to this site's Perspective
 

@@ -82,7 +82,7 @@ Crucially, retention isn't remembering. It's experiencing the past-as-just-now w
 
 The difference matters for understanding consciousness. For extensionalism, consciousness has genuine temporal parts—the experience of C, then E, then G are distinct experiential phases that overlap. For retentionalism, each momentary experience is complete in itself but contains the whole temporal sequence as intentional content.
 
-the site's framework favors a modified extensionalism: experience is genuinely extended, but the extension involves quantum collapse. The duration-block is constituted by a series of collapses, each with retrocausal constraints. This explains both the extended phenomenology (extensionalism) and the retention-like structure (past echoing in present)—the retention may reflect retrocausal boundary conditions in the collapse process.
+The site's framework favors a modified extensionalism: experience is genuinely extended, but the extension involves quantum collapse. The duration-block is constituted by a series of collapses, each with retrocausal constraints. This explains both the extended phenomenology (extensionalism) and the retention-like structure (past echoing in present)—the retention may reflect retrocausal boundary conditions in the collapse process.
 
 ## Varela's Neurophenomenology
 
@@ -114,7 +114,7 @@ The specious present may be what working memory *feels like from inside*—the p
 
 ## Connection to Quantum Consciousness
 
-the site's framework proposes consciousness participates in [quantum collapse](/concepts/quantum-consciousness/), and [collapse constitutes time's arrow](/concepts/collapse-and-time/). The specious present may be the phenomenological manifestation:
+The site's framework proposes consciousness participates in [quantum collapse](/concepts/quantum-consciousness/), and [collapse constitutes time's arrow](/concepts/collapse-and-time/). The specious present may be the phenomenological manifestation:
 
 ### Duration Matches Collapse Timing
 
@@ -138,7 +138,7 @@ LLMs process sequentially without specious presents. Each token prediction is co
 
 If the specious present is merely characteristic of biological consciousness (an implementation detail), this might not matter. But if temporal binding is constitutive of consciousness—if you need genuinely extended experience to be conscious at all—then AI systems as currently architected are categorically excluded.
 
-the site's position: the specious present isn't just how consciousness happens to work in humans; it's evidence that consciousness constitutes time rather than merely representing it. This places the specious present at the heart of why [AI consciousness](/topics/ai-consciousness/) is unlikely given current architectures.
+The site's position: the specious present isn't just how consciousness happens to work in humans; it's evidence that consciousness constitutes time rather than merely representing it. This places the specious present at the heart of why [AI consciousness](/topics/ai-consciousness/) is unlikely given current architectures.
 
 ## Relation to Site Perspective
 

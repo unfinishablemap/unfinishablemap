@@ -163,7 +163,7 @@ The positive case for dualism goes beyond "materialism fails":
 
 A key challenge: if consciousness is non-physical, how does it interact with the physical?
 
-the site's answer (Bidirectional Interaction + Minimal Quantum Interaction) addresses this:
+The site's answer (Bidirectional Interaction + Minimal Quantum Interaction) addresses this:
 - Quantum indeterminacy provides an "opening" for non-physical causation
 - Consciousness selects among superposed states
 - No energy injection; no violation of conservation laws
@@ -172,7 +172,7 @@ This distinguishes the site's position from epiphenomenal property dualism.
 
 ### Property vs. Substance Dualism
 
-the site remains neutral between these, per the [[substance-property-dualism]] article. Both support the core claim: consciousness is irreducible.
+The site remains neutral between these, per the [[substance-property-dualism]] article. Both support the core claim: consciousness is irreducible.
 
 - **Property dualism**: Physical systems have non-physical properties
 - **Substance dualism**: Conscious beings are non-physical substances

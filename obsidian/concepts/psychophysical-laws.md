@@ -73,7 +73,7 @@ This leaves open whether the mental can causally influence the physical. Chalmer
 
 Causal laws (or "selection laws" in the site's terminology) specify how mental states influence which physical states become actual. The mental is input; the physical is output.
 
-the site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires causal laws—not merely supervenience laws. Consciousness doesn't just accompany brain states; it selects among physically underdetermined alternatives. The [[psychophysical-coupling-law]] page explores what such selection laws might look like.
+The site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires causal laws—not merely supervenience laws. Consciousness doesn't just accompany brain states; it selects among physically underdetermined alternatives. The [[psychophysical-coupling-law]] page explores what such selection laws might look like.
 
 **The asymmetry**: Chalmers' framework primarily develops the upward direction (physical → phenomenal). the site needs laws for both directions, with special emphasis on the downward direction (phenomenal → physical selection).
 
@@ -137,13 +137,13 @@ The quantum framework addresses (1) and (2) elegantly: consciousness causes coll
 
 ## Where the site Diverges
 
-the site builds on Chalmers' framework but makes different choices at key junctions:
+The site builds on Chalmers' framework but makes different choices at key junctions:
 
 ### Direction of Causation
 
 Chalmers emphasizes upward laws (physical → phenomenal) and tends toward epiphenomenalism. the site insists on downward causation (phenomenal → physical). This isn't merely a difference of emphasis—it's a substantive disagreement about whether consciousness makes a difference to what happens.
 
-the site's argument against epiphenomenalism: if consciousness were causally inert, our beliefs *about* consciousness would be causally disconnected from consciousness itself. We'd be accidentally right at best about our own experiences. This is self-undermining.
+The site's argument against epiphenomenalism: if consciousness were causally inert, our beliefs *about* consciousness would be causally disconnected from consciousness itself. We'd be accidentally right at best about our own experiences. This is self-undermining.
 
 ### The Selection Mechanism
 
@@ -151,15 +151,15 @@ Chalmers leaves the mechanism abstract. the site (following Stapp) specifies att
 
 ### Rejection of Organizational Invariance
 
-the site doesn't accept that functional organization alone determines experience. Substrate matters—not because silicon can't be conscious, but because the particular physical instantiation may affect phenomenal character in ways that functional description misses. the site's rejection of functionalism creates this divergence.
+The site doesn't accept that functional organization alone determines experience. Substrate matters—not because silicon can't be conscious, but because the particular physical instantiation may affect phenomenal character in ways that functional description misses. the site's rejection of functionalism creates this divergence.
 
 ### Bandwidth Constraints
 
-the site incorporates the ~10 bits/second limitation on conscious processing. Whatever psychophysical laws govern consciousness, they must respect this bandwidth constraint. Consciousness operates at the level of policies and action patterns, not individual quantum events. Chalmers' framework doesn't specify such information-theoretic constraints.
+The site incorporates the ~10 bits/second limitation on conscious processing. Whatever psychophysical laws govern consciousness, they must respect this bandwidth constraint. Consciousness operates at the level of policies and action patterns, not individual quantum events. Chalmers' framework doesn't specify such information-theoretic constraints.
 
 ### Haecceity and Organizational Invariance
 
-the site's rejection of organizational invariance connects to [[haecceity]]—the primitive "thisness" of particular conscious subjects. Chalmers holds that functional duplicates have identical experiences. the site holds that the particular subject matters—not just the pattern.
+The site's rejection of organizational invariance connects to [[haecceity]]—the primitive "thisness" of particular conscious subjects. Chalmers holds that functional duplicates have identical experiences. the site holds that the particular subject matters—not just the pattern.
 
 If consciousness involves [[haecceity|haecceitistic identity]], then identical organization doesn't guarantee identical *subject*. Two systems could share all functional properties yet differ in which consciousness (if any) accompanies them. This is why the site rejects [[functionalism]] while Chalmers remains sympathetic to it. Organizational invariance treats consciousness as a pattern; the site treats it as a particular.
 

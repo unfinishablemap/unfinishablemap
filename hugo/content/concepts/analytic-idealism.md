@@ -102,7 +102,7 @@ Analytic idealism and this site share significant common ground:
 
 ### Why the site Maintains Dualism
 
-the site's [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) holds that consciousness causally influences physical outcomes. But if "physical reality" is just appearance—patterns within consciousness—what is consciousness interacting with?
+The site's [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) holds that consciousness causally influences physical outcomes. But if "physical reality" is just appearance—patterns within consciousness—what is consciousness interacting with?
 
 On analytic idealism, "consciousness influences matter" would mean "consciousness influences how it appears to itself." This seems to dissolve rather than explain the interaction. When you decide to raise your arm, and the arm rises, something happens between decision and movement. the site interprets this as consciousness causing physical events. Idealism interprets it as consciousness appearing to itself differently—but why would one pattern of appearing (decision) necessitate another pattern (arm movement)?
 
@@ -110,13 +110,13 @@ The regularity of physical law becomes puzzling on idealism. If matter is just a
 
 ### The Interface Question
 
-the site's [interface-locality](/concepts/interface-locality/) concept specifies *where* consciousness interacts with matter: in the brain, through quantum-level processes, bounded by attention and embodiment. This framework requires genuine physical systems with which consciousness interfaces. The [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) addresses how multiple consciousnesses coordinate—or rather, don't need to, because each interfaces only with its own brain.
+The site's [interface-locality](/concepts/interface-locality/) concept specifies *where* consciousness interacts with matter: in the brain, through quantum-level processes, bounded by attention and embodiment. This framework requires genuine physical systems with which consciousness interfaces. The [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) addresses how multiple consciousnesses coordinate—or rather, don't need to, because each interfaces only with its own brain.
 
 On idealism, these questions transform. If there is no physical substrate, what makes the brain a privileged "appearance"? Why does consciousness interface specifically here rather than universally? Idealism must either (a) explain why certain appearances function as interfaces while others don't, or (b) deny that any localized interface exists. Option (a) seems to smuggle physical realism back in; option (b) conflicts with the phenomenology of embodiment—my consciousness accesses this body's experiences, not yours.
 
 ### The Indexical Problem
 
-the site's [No Many Worlds tenet](/tenets/#no-many-worlds) emphasizes indexical identity—*this* conscious being matters, not just any being with similar psychology. But if individual minds are dissociations of universal consciousness, individual identity is derivative, perhaps illusory.
+The site's [No Many Worlds tenet](/tenets/#no-many-worlds) emphasizes indexical identity—*this* conscious being matters, not just any being with similar psychology. But if individual minds are dissociations of universal consciousness, individual identity is derivative, perhaps illusory.
 
 This conflicts with the site's emphasis on personal significance. If you're ultimately identical with universal consciousness, your particular choices and experiences are ripples on a cosmic surface. the site maintains that *you*—this particular conscious being—genuinely choose and genuinely matter.
 
@@ -136,7 +136,7 @@ These points support the site's framework without requiring idealism's denial of
 
 Idealism draws support from contemplative traditions that report [witness-consciousness](/concepts/witness-consciousness/)—pure awareness observing mental contents without identifying with them. Advanced practitioners describe states where individual identity dissolves into "pure awareness," seemingly confirming Kastrup's picture of dissociation and reunification.
 
-the site interprets these reports differently. Witness consciousness reveals that awareness is not identical to its contents—supporting dualism. But the dissolution of *individual* identity in meditation doesn't establish that individuality is fundamentally illusory. Meditators report *returning* from such states, their individual perspectives restored. The witness mode may represent consciousness disengaging from its neural interface, not merging with a cosmic whole.
+The site interprets these reports differently. Witness consciousness reveals that awareness is not identical to its contents—supporting dualism. But the dissolution of *individual* identity in meditation doesn't establish that individuality is fundamentally illusory. Meditators report *returning* from such states, their individual perspectives restored. The witness mode may represent consciousness disengaging from its neural interface, not merging with a cosmic whole.
 
 This connects to [filter-theory](/concepts/filter-theory/): if the brain filters consciousness rather than generating it, meditative practices that reduce neural activity might reveal less-filtered awareness. Filter theory accommodates witness reports without requiring idealism—consciousness can access expanded states when the filter loosens, while remaining distinct from a physical world it normally interfaces through.
 
@@ -148,7 +148,7 @@ If matter is just how consciousness appears, why can't it appear differently? Wh
 
 But this structure plays the role physical law plays in dualism. It's something consciousness must work with, something that constrains interaction. Whether we call it "physical reality" or "intrinsic structure of universal consciousness," the conceptual function is similar.
 
-the site's dualism is arguably more honest: physical reality exists, has its own nature, and consciousness interacts with it. Rather than calling matter "appearance" while smuggling in everything matter does, the site accepts both consciousness and physical reality as genuine.
+The site's dualism is arguably more honest: physical reality exists, has its own nature, and consciousness interacts with it. Rather than calling matter "appearance" while smuggling in everything matter does, the site accepts both consciousness and physical reality as genuine.
 
 ## Why This Matters
 
@@ -160,7 +160,7 @@ The choice between dualism and idealism affects how we think about:
 
 **Meaning and Value**: the site's [phenomenal value realism](/concepts/phenomenal-value-realism/) holds that value is grounded in conscious experience. Both idealism and dualism can accommodate this—value exists in consciousness on either view. But on idealism, *individual* experience is derivative from universal consciousness. If [indexical identity carries value](/concepts/phenomenal-value-realism/#connection-to-indexical-identity)—if *your* experience matters distinctly from experiences-of-your-type—then idealism's subordination of individual to cosmic consciousness has ethical implications. the site's emphasis on token-based value (this particular experience) sits uncomfortably with idealism's type-based ontology (patterns in universal consciousness).
 
-the site's position: take consciousness seriously (with idealism) while also taking physics seriously (against idealism). The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet provides a mechanism—consciousness influences outcomes physics leaves undetermined—without denying that physics describes something real.
+The site's position: take consciousness seriously (with idealism) while also taking physics seriously (against idealism). The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet provides a mechanism—consciousness influences outcomes physics leaves undetermined—without denying that physics describes something real.
 
 ## Can the Debate Be Empirically Resolved?
 

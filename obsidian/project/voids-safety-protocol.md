@@ -46,7 +46,7 @@ Exploring "occluded" thoughts risks generating content that:
 - Mimics the structure of conspiracy theories or cult indoctrination
 - Exploits psychological vulnerabilities (death anxiety, identity uncertainty)
 
-the site's framework—dualism, consciousness as fundamental, potential simulation—is adjacent to worldviews that can slide into harmful territory if not carefully bounded.
+The site's framework—dualism, consciousness as fundamental, potential simulation—is adjacent to worldviews that can slide into harmful territory if not carefully bounded.
 
 ### 3. Psychological Destabilization
 
@@ -106,7 +106,7 @@ The following are hard boundaries—content that will not be generated or includ
 
 ### Principle 3: Separate Exploration from Endorsement
 
-the site has two modes of content:
+The site has two modes of content:
 
 | Mode | Location | Status | Human Review |
 |------|----------|--------|--------------|

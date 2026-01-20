@@ -124,7 +124,7 @@ The result is not certainty about animal consciousness but a significant asymmet
 
 [Higher-order thought (HOT) theories](/concepts/higher-order-theories/) create particular difficulties for animal consciousness. Peter Carruthers argues that phenomenal consciousness requires higher-order representations—thoughts about one's own mental states. If animals lack such metacognition, they would lack phenomenal consciousness despite complex behavior.
 
-this site rejects HOT theories for reasons independent of the animal question. As discussed in the [higher-order-theories](/concepts/higher-order-theories/) article, HOT theories fail to explain phenomenal consciousness even in humans. Ned Block's "defunct" critique demonstrates that HOT addresses only access consciousness, not the felt quality of experience. The rock objection shows HOT cannot distinguish genuine consciousness from higher-order representations of nothing.
+This site rejects HOT theories for reasons independent of the animal question. As discussed in the [higher-order-theories](/concepts/higher-order-theories/) article, HOT theories fail to explain phenomenal consciousness even in humans. Ned Block's "defunct" critique demonstrates that HOT addresses only access consciousness, not the felt quality of experience. The rock objection shows HOT cannot distinguish genuine consciousness from higher-order representations of nothing.
 
 If HOT fails as a theory of human consciousness, its verdict on animals is irrelevant. But the debate illustrates a broader point: one's theory of consciousness determines what one says about animal minds. the site's dualist framework—where consciousness is irreducible and not constituted by functional organization—has no principled reason to exclude animals.
 
@@ -231,7 +231,7 @@ Alfred North Whitehead's process philosophy offers a framework that naturally ac
 
 ## What Would Challenge This View?
 
-the site's position on animal consciousness could be undermined by specific discoveries:
+The site's position on animal consciousness could be undermined by specific discoveries:
 
 1. **Successful illusionist explanation**: If neuroscience identified a mechanism that generates the *illusion* of phenomenal consciousness without invoking phenomenal properties at any level, this would challenge the regress argument. The mechanism would need to explain not just human introspective reports but the entire convergent pattern of consciousness-indicating behavior across species.
 

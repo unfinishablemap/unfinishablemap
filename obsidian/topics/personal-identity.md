@@ -35,7 +35,7 @@ last_deep_review: 2026-01-20T14:30:00+00:00
 
 What makes you *you*? Not just at this moment, but across time—what connects the person reading this sentence to the child you once were and the person you'll be tomorrow? The persistence question is literally a matter of life and death: it determines the conditions under which you survive or cease to exist.
 
-this site's framework provides a distinctive answer. The [[tenets#^no-many-worlds|No Many Worlds]] tenet's emphasis on indexical identity—that *this* conscious being matters, not just the pattern it instantiates—commits us to a view where personal identity is real and significant, not reducible to mere psychological or biological continuity.
+This site's framework provides a distinctive answer. The [[tenets#^no-many-worlds|No Many Worlds]] tenet's emphasis on indexical identity—that *this* conscious being matters, not just the pattern it instantiates—commits us to a view where personal identity is real and significant, not reducible to mere psychological or biological continuity.
 
 ## The Standard Positions
 
@@ -95,7 +95,7 @@ On [[parfit-reductionism|Parfit's "reductionist" view]], personal identity consi
 
 ## Why this site Disagrees
 
-this site cannot accept Parfit's reductionism. The tenets commit us to a stronger view of personal identity.
+This site cannot accept Parfit's reductionism. The tenets commit us to a stronger view of personal identity.
 
 ### The No Many Worlds Connection
 
@@ -185,7 +185,7 @@ This suggests illusionism is self-undermining when applied to personal identity.
 
 ## The Decoherence Challenge
 
-the site's framework connects personal identity to quantum selection—*this* consciousness making *these* selections at quantum indeterminacies. But [[decoherence]] poses a challenge: quantum coherence in warm biological systems supposedly decays in femtoseconds, far too fast for neural processes.
+The site's framework connects personal identity to quantum selection—*this* consciousness making *these* selections at quantum indeterminacies. But [[decoherence]] poses a challenge: quantum coherence in warm biological systems supposedly decays in femtoseconds, far too fast for neural processes.
 
 ### Why Decoherence Doesn't Dissolve Identity
 
@@ -259,7 +259,7 @@ This grounds a stronger sense of individual meaning. You're not just a pattern t
 
 ## What Would Challenge This View?
 
-the site's account of personal identity would be challenged by:
+The site's account of personal identity would be challenged by:
 
 1. **Successful illusionist reduction**: If neuroscience could fully explain why we *seem* to be particular subjects persisting through time—why the illusion is so compelling—without positing actual particularity, the view's phenomenological foundation would be undermined. Attention Schema Theory attempts this but faces the regress problem.
 

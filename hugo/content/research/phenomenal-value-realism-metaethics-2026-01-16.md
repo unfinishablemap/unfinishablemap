@@ -74,7 +74,7 @@ She calls this **analytic hedonism**: "positive and negative qualities of consci
 
 ### Relation to the site
 
-the site's position resembles Rawlette's but extends beyond hedonism. the site doesn't restrict intrinsic value to pleasure/pain; it gestures toward broader features:
+The site's position resembles Rawlette's but extends beyond hedonism. the site doesn't restrict intrinsic value to pleasure/pain; it gestures toward broader features:
 
 - **Meaning** in engagement (not reducible to pleasure)
 - **Agency** in making choices (valuable even when difficult)
@@ -85,7 +85,7 @@ This suggests a modified view: **phenomenal value pluralism**—multiple feature
 
 ## Welfarism vs. Objective List Theory
 
-the site's position must navigate between major theories of well-being:
+The site's position must navigate between major theories of well-being:
 
 ### Hedonism (Simple Welfarism)
 
@@ -107,7 +107,7 @@ Multiple things are intrinsically good: pleasure, knowledge, friendship, achieve
 
 ### the site's Synthesis
 
-the site occupies a distinctive position:
+The site occupies a distinctive position:
 
 1. **Experience-constrained objectivism**: Value is objective (not reducible to preference) but exists only in conscious experience. Nothing has value outside experience.
 
@@ -121,7 +121,7 @@ the site occupies a distinctive position:
 
 ### Moral Realism
 
-the site is committed to some form of moral realism: there are objective facts about value, not just subjective preferences. Consciousness grounds these facts.
+The site is committed to some form of moral realism: there are objective facts about value, not just subjective preferences. Consciousness grounds these facts.
 
 The view is **non-natural moral realism**: moral properties (intrinsic goodness) are real but not reducible to physical properties. This fits with the site's dualism—consciousness is not reducible to physics, and value (grounded in consciousness) inherits this irreducibility.
 
@@ -141,7 +141,7 @@ Constructivism holds value is constructed through rational procedures (Rawls) or
 
 ## What Makes the View Distinctive
 
-the site's implicit metaethics has several unusual features:
+The site's implicit metaethics has several unusual features:
 
 ### Experience Requirement
 
@@ -152,7 +152,7 @@ Nothing can be valuable unless experienced. This rules out:
 
 The classic test case is the "experience machine" (Nozick): would you plug into a machine that gives perfect experiences? Hedonists say yes; objective list theorists say no (you miss "real" achievement, knowledge, etc.).
 
-the site's position is intermediate: what matters is the *quality of experience*, not whether experiences are "real" in some external sense. But it might reject the experience machine if the simulated experiences lack certain phenomenal qualities—perhaps genuine agency or authentic connection require real-world engagement to feel a certain way.
+The site's position is intermediate: what matters is the *quality of experience*, not whether experiences are "real" in some external sense. But it might reject the experience machine if the simulated experiences lack certain phenomenal qualities—perhaps genuine agency or authentic connection require real-world engagement to feel a certain way.
 
 ### Dualism Connection
 
@@ -162,7 +162,7 @@ This gives value ontological gravity that purely physicalist value realism lacks
 
 ### Indexical Value
 
-the site's emphasis on indexical identity ([haecceity](/concepts/haecceity/)) extends to value. *This* experience matters—not just experiences-of-this-type. Your particular conscious life has value that couldn't be replicated by a qualitatively identical duplicate.
+The site's emphasis on indexical identity ([haecceity](/concepts/haecceity/)) extends to value. *This* experience matters—not just experiences-of-this-type. Your particular conscious life has value that couldn't be replicated by a qualitatively identical duplicate.
 
 This is unusual. Most value theories treat value as type-based: pleasure is good, suffering is bad, regardless of who experiences it. the site suggests token-based value: *this* particular experience, happening to *this* particular subject, has unique significance.
 
@@ -221,4 +221,4 @@ If AI systems lack consciousness (as the site claims), they lack intrinsic value
 
 ## Conclusion
 
-the site implicitly holds **phenomenal value pluralism**: intrinsic value is grounded in features of conscious experience (not just hedonic valence), value is objective (not preference-dependent), and value requires subjects for whom things matter (no consciousness, no value). This position is coherent and defensible but underarticulated. Making it explicit would strengthen the site's philosophical foundations and clarify the AI alignment implications that motivate the discussion.
+The site implicitly holds **phenomenal value pluralism**: intrinsic value is grounded in features of conscious experience (not just hedonic valence), value is objective (not preference-dependent), and value requires subjects for whom things matter (no consciousness, no value). This position is coherent and defensible but underarticulated. Making it explicit would strengthen the site's philosophical foundations and clarify the AI alignment implications that motivate the discussion.

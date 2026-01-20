@@ -175,7 +175,7 @@ This meta-level argument complements the object-level arguments above. Even if o
 
 If consciousness is non-physical, how does it interact with the physical? This challenge confronts any dualism that wants to be more than epiphenomenal.
 
-the site's answer combines [[tenets#^bidirectional-interaction|Bidirectional Interaction]] with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]:
+The site's answer combines [[tenets#^bidirectional-interaction|Bidirectional Interaction]] with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]:
 
 - Quantum indeterminacy provides an "opening" for non-physical causation
 - Where physics leaves outcomes undetermined, consciousness selects among possibilities
@@ -254,11 +254,11 @@ On this view, the unity of consciousness reflects the unity of actual occasions.
 
 Whitehead's framework also addresses the parsimony objection differently. Rather than adding mental substances to a physical world, it recognizes experience as intrinsic to events at all scales—what the intrinsic nature argument points toward. The physical-only picture is an abstraction from richer experiential reality, not the fundamental level.
 
-the site doesn't commit to process philosophy, but its insights illuminate why the dualist arguments work: they reveal features of experience—unity, intrinsic character, intentionality—that physical description abstracts away.
+The site doesn't commit to process philosophy, but its insights illuminate why the dualist arguments work: they reveal features of experience—unity, intrinsic character, intentionality—that physical description abstracts away.
 
 ## What Would Challenge This View?
 
-the site's commitment to dualism would require revision if:
+The site's commitment to dualism would require revision if:
 
 1. **Consciousness were fully explained functionally.** If a complete functional account showed *why* certain functions feel like something—not just *that* they correlate with experience—the explanatory gap would close.
 
@@ -286,7 +286,7 @@ The positive arguments for dualism directly support the site's foundational comm
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The quantum framework provides what classical dualism lacked: a principled location for mind-matter interaction. [[Decoherence]] objections don't close this door—as detailed in [[quantum-consciousness]], decoherence selects preferred bases but doesn't explain why we see *definite* outcomes. The measurement problem remains open, and consciousness remains a candidate for what resolves it.
 
-the site does not commit to substance over property dualism. Both support irreducibility. What matters is the conclusion: consciousness is not nothing more than physical processes, and it plays a genuine causal role in the world.
+The site does not commit to substance over property dualism. Both support irreducibility. What matters is the conclusion: consciousness is not nothing more than physical processes, and it plays a genuine causal role in the world.
 
 ## Further Reading
 

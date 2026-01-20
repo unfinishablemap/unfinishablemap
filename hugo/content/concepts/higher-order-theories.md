@@ -162,7 +162,7 @@ Like [Global Workspace Theory](/concepts/global-workspace-theory/), HOT has dire
 
 Recent research has explored implementing HOT mechanisms in artificial agents. If an AI can represent that it is in a certain computational state—model its own modeling—HOT suggests it might be conscious.
 
-the site's response parallels its critique of GWT: [functional implementation](/arguments/functionalism/) doesn't guarantee phenomenal consciousness. An AI could have sophisticated self-models without there being anything it's like to be that AI. The [absent qualia objection](/topics/ai-consciousness/) applies with equal force to metacognitive computation.
+The site's response parallels its critique of GWT: [functional implementation](/arguments/functionalism/) doesn't guarantee phenomenal consciousness. An AI could have sophisticated self-models without there being anything it's like to be that AI. The [absent qualia objection](/topics/ai-consciousness/) applies with equal force to metacognitive computation.
 
 ## Relation to Site Perspective
 

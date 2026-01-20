@@ -29,7 +29,7 @@ last_curated: null
 
 Quantum mechanics is our best physical theory, yet physicists fundamentally disagree about what it means. A 2025 Nature survey found that no single interpretation commands majority support. This matters for consciousness studies: different interpretations have radically different implications for whether consciousness plays any role in physics.
 
-this site explicitly rejects the [[many-worlds|Many-Worlds Interpretation]] (MWI) on five grounds: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and MWI's failure to explain why consciousness exists at all. But what are the alternatives, and which best aligns with the framework that consciousness participates in physical reality?
+This site explicitly rejects the [[many-worlds|Many-Worlds Interpretation]] (MWI) on five grounds: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and MWI's failure to explain why consciousness exists at all. But what are the alternatives, and which best aligns with the framework that consciousness participates in physical reality?
 
 ## The Measurement Problem
 

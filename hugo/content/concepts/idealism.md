@@ -54,7 +54,7 @@ Idealism and this site's framework share substantial common ground:
 
 ## The Crucial Disagreement
 
-the site parts ways with idealism on a fundamental question: Does physical reality exist independently of consciousness, or is it merely appearance?
+The site parts ways with idealism on a fundamental question: Does physical reality exist independently of consciousness, or is it merely appearance?
 
 **Idealism's answer**: No independent physical reality. "Matter" is how universal consciousness appears to its dissociated portions. The brain doesn't exist apart from being experienced/perceived; it's appearance through and through.
 
@@ -64,7 +64,7 @@ This isn't a minor disagreement. It affects how we understand causation, science
 
 ## The Interaction Problem Under Idealism
 
-the site claims consciousness influences physical outcomes—selecting among quantum possibilities, for instance. But if idealism is true, what does this mean?
+The site claims consciousness influences physical outcomes—selecting among quantum possibilities, for instance. But if idealism is true, what does this mean?
 
 **Option 1: Reinterpret interaction**. Perhaps "consciousness influences physical outcomes" just means "universal consciousness's patterns evolve in certain ways when local dissociated portions make choices." The "physical" is just the appearance of this evolution.
 
@@ -72,7 +72,7 @@ This preserves the words but changes the meaning. Bidirectional interaction beco
 
 **Option 2: Reject idealism**. the site's commitment to bidirectional interaction presupposes something genuinely physical for consciousness to interact with. If the tenets are correct, idealism must be wrong.
 
-the site implicitly takes Option 2. The framework assumes physical reality exists and that consciousness influences it—not that consciousness influences its own appearances. This commitment is explicit in the [foundational dualism](/concepts/dualism/) article: consciousness and matter are distinct ontological categories.
+The site implicitly takes Option 2. The framework assumes physical reality exists and that consciousness influences it—not that consciousness influences its own appearances. This commitment is explicit in the [foundational dualism](/concepts/dualism/) article: consciousness and matter are distinct ontological categories.
 
 ## Why Not Idealism?
 
@@ -96,7 +96,7 @@ Interactionist dualism has a straightforward answer: physical reality exists ind
 
 The [No Many Worlds](/tenets/#no-many-worlds) tenet emphasizes that indexical identity matters—*this* conscious being, *this* choice. Idealism's treatment of individual consciousness as "dissociated alters" of universal consciousness risks undermining this. If you're fundamentally just a localized pattern in universal mind, does your individual identity have ultimate significance?
 
-the site's dualism preserves individual consciousness as genuinely distinct. You're not a fragment of something else; you're a conscious being who interacts with physical reality. When you exercise [agent causation](/concepts/agent-causation/)—originating a genuine causal chain through choice—it is *you* who acts, not a dissociated portion of cosmic mind.
+The site's dualism preserves individual consciousness as genuinely distinct. You're not a fragment of something else; you're a conscious being who interacts with physical reality. When you exercise [agent causation](/concepts/agent-causation/)—originating a genuine causal chain through choice—it is *you* who acts, not a dissociated portion of cosmic mind.
 
 ## Simple Organisms and the Ubiquity of Mind
 
@@ -128,7 +128,7 @@ This gives idealism an advantage the site's framework lacks. Interactionist dual
 
 ### A Dualist Response
 
-the site's framework can respond: cognition and consciousness may dissociate. Slime molds process information (cognition) without phenomenal experience (consciousness). The quantum-neural interface hypothesis concerns where consciousness *interfaces with* matter, not where information processing occurs. Sophisticated behaviors can emerge from non-conscious physical systems; thermostats "sense" temperature without experiencing anything.
+The site's framework can respond: cognition and consciousness may dissociate. Slime molds process information (cognition) without phenomenal experience (consciousness). The quantum-neural interface hypothesis concerns where consciousness *interfaces with* matter, not where information processing occurs. Sophisticated behaviors can emerge from non-conscious physical systems; thermostats "sense" temperature without experiencing anything.
 
 But this response concedes something to idealism. If cognition and consciousness can fully dissociate—if an organism can solve mazes, form memories, and optimize networks without any experience whatsoever—then the correlation between behavioral complexity and consciousness weakens. And if behavioral markers unreliably track consciousness, the hard problem becomes even harder.
 
@@ -142,7 +142,7 @@ To be fair, idealism has real strengths:
 
 **Parsimony**: One kind of stuff (mental) is arguably simpler than two kinds (mental and physical).
 
-the site accepts the hard problem's force and avoids it via dualism—consciousness doesn't emerge from matter because it's a distinct category. The interaction problem is addressed via quantum mechanics: consciousness influences outcomes physics leaves undetermined. Parsimony is sacrificed, but the site considers this cost worth paying to preserve causal interaction and the independent reality of physics.
+The site accepts the hard problem's force and avoids it via dualism—consciousness doesn't emerge from matter because it's a distinct category. The interaction problem is addressed via quantum mechanics: consciousness influences outcomes physics leaves undetermined. Parsimony is sacrificed, but the site considers this cost worth paying to preserve causal interaction and the independent reality of physics.
 
 ## The Picture That Emerges
 
@@ -154,7 +154,7 @@ Idealism and this site agree on consciousness's fundamental importance. But they
 
 The choice depends on how one weighs the various puzzles. If the hard problem seems paramount and interaction seems less problematic, idealism attracts. If bidirectional causation seems essential and dissociative metaphors seem strained, interactionist dualism attracts.
 
-this site bets on dualism. Consciousness and matter are both real. They interact. The quantum level provides the mechanism. And physical science's success reflects genuine insight into independently existing physical structure.
+This site bets on dualism. Consciousness and matter are both real. They interact. The quantum level provides the mechanism. And physical science's success reflects genuine insight into independently existing physical structure.
 
 ## Relation to Site Perspective
 
@@ -162,7 +162,7 @@ Idealism and this site's [dualist framework](/concepts/dualism/) are closer to e
 
 The crucial divergence concerns the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. this site holds that consciousness causally influences the physical world—selecting among quantum possibilities, biasing outcomes where physics leaves them undetermined. But influence requires two distinct relata. If "physical reality" is merely how consciousness appears to itself, the interaction becomes intra-mental rather than genuinely inter-domain.
 
-the site accepts the cost of two ontological categories (the interaction problem) to preserve what seems essential: that when you choose to act, something genuinely distinct responds to that choice. [Interactionist dualism](/archive/arguments/interactionist-dualism/) explains neural correlates (where consciousness interfaces with matter), preserves the significance of individual identity (you are not a cosmic fragment), and accommodates physics's extraordinary predictive success (it describes real structure, not just appearance).
+The site accepts the cost of two ontological categories (the interaction problem) to preserve what seems essential: that when you choose to act, something genuinely distinct responds to that choice. [Interactionist dualism](/archive/arguments/interactionist-dualism/) explains neural correlates (where consciousness interfaces with matter), preserves the significance of individual identity (you are not a cosmic fragment), and accommodates physics's extraordinary predictive success (it describes real structure, not just appearance).
 
 If forced to choose between idealism and physicalism, this site would choose idealism—better to take consciousness seriously and struggle with its implications than to deny or deflate the one thing we know most directly. But the site believes a third option exists: dualism that takes both consciousness and physics seriously as genuinely distinct and genuinely interacting domains.
 

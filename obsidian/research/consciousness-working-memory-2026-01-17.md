@@ -121,7 +121,7 @@ This connects WM to temporal self-consciousness:
 - Episodic buffer enables multimodal binding
 - Autonoetic consciousness enables mental time travel
 
-the site's autonoetic-consciousness article notes hippocampal binding operates for both episodic memory and scene perception. WM may be the active workspace where bound episodic content becomes available for manipulation and mental time travel.
+The site's autonoetic-consciousness article notes hippocampal binding operates for both episodic memory and scene perception. WM may be the active workspace where bound episodic content becomes available for manipulation and mental time travel.
 
 ## Implications for Site Framework
 

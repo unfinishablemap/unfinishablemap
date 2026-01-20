@@ -107,7 +107,7 @@ Three dimensions of consciousness resist reduction:
 
 **Compatibility:**
 
-the site's framework is best understood as a form of strong emergentism—consciousness has causal powers that are genuinely novel and not reducible to physical processes. Key alignments:
+The site's framework is best understood as a form of strong emergentism—consciousness has causal powers that are genuinely novel and not reducible to physical processes. Key alignments:
 
 1. **Dualism tenet:** Consciousness is not reducible to physical processes—this *is* strong emergence.
 
@@ -119,7 +119,7 @@ the site's framework is best understood as a form of strong emergentism—consci
 
 **Important distinction:**
 
-the site's position is stronger than most weak emergentist positions but differs from classical British emergentism in providing a *mechanism* for how non-physical causation operates. The quantum framework answers how downward causation could occur without violating conservation laws—consciousness selects among outcomes physics leaves undetermined, not injecting energy but biasing probabilities.
+The site's position is stronger than most weak emergentist positions but differs from classical British emergentism in providing a *mechanism* for how non-physical causation operates. The quantum framework answers how downward causation could occur without violating conservation laws—consciousness selects among outcomes physics leaves undetermined, not injecting energy but biasing probabilities.
 
 **O'Connor-Wong connection:**
 

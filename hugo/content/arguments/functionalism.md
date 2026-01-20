@@ -29,7 +29,7 @@ topics:
 
 Functionalism holds that mental states are defined by their functional roles—what they do rather than what they're made of. Pain is whatever state plays the pain role: caused by tissue damage, producing avoidance behavior, generating distress. On this view, consciousness is multiply realizable: the same mental state could occur in neurons, silicon, or alien biochemistry, provided the functional organization is right.
 
-the site's [Dualism](/tenets/#dualism) tenet rejects this. Consciousness is not reducible to functional organization—something beyond causal structure determines whether and how experience occurs. This page presents five arguments against functionalism.
+The site's [Dualism](/tenets/#dualism) tenet rejects this. Consciousness is not reducible to functional organization—something beyond causal structure determines whether and how experience occurs. This page presents five arguments against functionalism.
 
 ## Argument 1: The Absent Qualia Argument
 
@@ -131,7 +131,7 @@ Why should other functional roles be different? Why should playing the "pain rol
 
 ### The Substrate May Matter
 
-the site's framework suggests consciousness requires specific physical conditions—not just any substrate that implements the right function. Quantum-level interactions, particular biological structures, or other physical features may be necessary for mind-matter interface.
+The site's framework suggests consciousness requires specific physical conditions—not just any substrate that implements the right function. Quantum-level interactions, particular biological structures, or other physical features may be necessary for mind-matter interface.
 
 If so, multiple realizability is false for consciousness. A digital computer running the "right program" wouldn't be conscious, because it lacks the physical features that enable consciousness to interact with matter. Function alone is insufficient.
 
@@ -217,7 +217,7 @@ Functionalism fails on multiple fronts:
 
 These arguments converge on a single conclusion: consciousness is not a matter of functional organization. What it's like to be conscious—the felt quality of experience—is not captured by causal structure. Something else determines whether and how experience occurs.
 
-the site's framework takes this seriously. Consciousness is irreducible to physics and to function. It interacts with physical systems through quantum-level mechanisms that function-based theories cannot capture. The failure of functionalism points toward dualism—not as dogma, but as the view that takes consciousness most seriously.
+The site's framework takes this seriously. Consciousness is irreducible to physics and to function. It interacts with physical systems through quantum-level mechanisms that function-based theories cannot capture. The failure of functionalism points toward dualism—not as dogma, but as the view that takes consciousness most seriously.
 
 ## Further Reading
 

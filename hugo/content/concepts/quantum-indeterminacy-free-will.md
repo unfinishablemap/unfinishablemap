@@ -36,7 +36,7 @@ topics:
 
 Quantum mechanics provides the only genuine indeterminacy in fundamental physics—and this creates logical space for libertarian free will that determinism forecloses. The relationship is contested: critics argue that quantum randomness yields "random will" rather than "free will," no better than determinism. This page systematizes how quantum indeterminacy supports free will when combined with consciousness as selector, answering the [luck objection](/concepts/luck-objection/) through the [quantum Zeno mechanism](/concepts/quantum-consciousness/) and [agent-causal](/concepts/agent-causation/) metaphysics.
 
-the site's position: quantum indeterminacy provides the *opening* for mental causation; consciousness provides the *direction*. Neither alone suffices. Indeterminacy without direction is mere randomness; direction without indeterminacy reduces to determinism. Together, they ground genuine freedom.
+The site's position: quantum indeterminacy provides the *opening* for mental causation; consciousness provides the *direction*. Neither alone suffices. Indeterminacy without direction is mere randomness; direction without indeterminacy reduces to determinism. Together, they ground genuine freedom.
 
 ## The Libertarian Dilemma
 
@@ -66,7 +66,7 @@ His 2024 *Complex Tapestry of Free Will* explicitly incorporates agent-causal el
 
 ### Agent-Causal Libertarianism
 
-the site's framework is [agent-causal](/concepts/agent-causation/). Roderick Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). E.J. Lowe argued that all causation is fundamentally substance causation—agents exercising powers—with event causation being derivative shorthand.
+The site's framework is [agent-causal](/concepts/agent-causation/). Roderick Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). E.J. Lowe argued that all causation is fundamentally substance causation—agents exercising powers—with event causation being derivative shorthand.
 
 On this view, the agent as persisting substance directly causes actions. Quantum indeterminacy provides the opening; the agent provides the selection. The explanatory buck stops at the agent's exercise of causal power, which is reasons-responsive rather than arbitrary.
 
@@ -88,7 +88,7 @@ Remote luck affects compatibilists and libertarians equally—everyone's charact
 
 ## Why the site's Framework Escapes Luck
 
-the site's response distinguishes *lucky indeterminism* from *consciousness-selected indeterminism*:
+The site's response distinguishes *lucky indeterminism* from *consciousness-selected indeterminism*:
 
 | Feature | Lucky Indeterminism | Consciousness-Selected Indeterminism |
 |---------|---------------------|--------------------------------------|
@@ -174,13 +174,13 @@ Quantum indeterminacy provides the response. At quantum measurement events, phys
 
 This transforms Kim's exclusion argument. Mental causation doesn't compete with physical causation—it operates where physical causation runs out. Consciousness selects among outcomes physics leaves open. There's no overdetermination and no exclusion.
 
-the site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet formalizes this: consciousness biases otherwise indeterminate quantum outcomes without injecting energy or violating conservation laws. The smallest possible non-physical influence on physical outcomes.
+The site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet formalizes this: consciousness biases otherwise indeterminate quantum outcomes without injecting energy or violating conservation laws. The smallest possible non-physical influence on physical outcomes.
 
 ## Many-Worlds: The Alternative Rejected
 
 The [many-worlds interpretation](/arguments/many-worlds/) offers escape from the measurement problem by denying collapse occurs at all. Every quantum possibility actualizes in branching universes; we find ourselves in one branch.
 
-the site's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects this for several reasons:
+The site's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects this for several reasons:
 
 1. **Ontological extravagance**: Uncountably infinite universes to avoid explaining why one outcome occurs
 2. **The indexical problem**: Why am I *this* observer and not another? MWI provides no answer.
@@ -195,7 +195,7 @@ If collapse is real and consciousness participates in it, the quantum opening fo
 
 [Illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an illusion constructed by neural processes—offers a different interpretation of the phenomenology of effort. On this view, the feeling of choosing is constructed post-hoc; there is no genuine selection, only the appearance of it. Dennett argues we lack a Cartesian theatre where consciousness watches and selects; "consciousness" is just what the brain does.
 
-the site's response: illusionism is self-undermining. If the appearance of reasoning is wholly constructed by neural processes unconnected to any real reasoning, then the decision to adopt illusionism was itself constructed—not genuinely reasoned to. The illusionist cannot coherently claim to have *reasoned* to their position without presupposing the phenomenal engagement they deny.
+The site's response: illusionism is self-undermining. If the appearance of reasoning is wholly constructed by neural processes unconnected to any real reasoning, then the decision to adopt illusionism was itself constructed—not genuinely reasoned to. The illusionist cannot coherently claim to have *reasoned* to their position without presupposing the phenomenal engagement they deny.
 
 More specifically: the phenomenology of effort provides evidence precisely because it distinguishes selection from passive reception. If all phenomenology were illusion, there would be no distinction between hard choices and easy ones, between deliberation and reflex. But there is such a distinction—phenomenologically, neurally, and behaviourally. The [choking phenomenon](/concepts/agent-causation/#the-choking-phenomenon-as-evidence) provides non-verbal evidence: skilled performance degrades when attention is deployed, regardless of how we theorize about phenomenology. Something is happening beyond mere illusion.
 

@@ -299,7 +299,7 @@ But Many-Worlds is rejected by the No Many Worlds tenet because:
 - It provides no resources for consciousness to play a selecting role
 - It dissolves the measurement problem rather than solving it
 
-the site's framework requires collapse to be real because that's where consciousness acts (per Minimal Quantum Interaction and Bidirectional Interaction). If collapse is real, it introduces time asymmetry. If consciousness participates in collapse, consciousness is connected to the emergence of temporal direction.
+The site's framework requires collapse to be real because that's where consciousness acts (per Minimal Quantum Interaction and Bidirectional Interaction). If collapse is real, it introduces time asymmetry. If consciousness participates in collapse, consciousness is connected to the emergence of temporal direction.
 
 The rejection of Many-Worlds is thus not arbitrary—it's necessary for the framework to have any traction. Only if collapse is real does consciousness have a role; only if consciousness has a role can the hard problem be addressed through mind-matter interaction.
 
