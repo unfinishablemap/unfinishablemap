@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 08:45:00+00:00
+ai_modified: 2026-01-20 01:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -56,24 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review agent-causation.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Core concept for libertarian free will and site's bidirectional interaction tenet. Check for cross-links to luck-objection.md, quantum-indeterminacy-free-will.md, mental-causation.md. Ensure O'Connor and Chisholm's accounts are well-represented.
-- **Source**: staleness
-- **Generated**: 2026-01-19
-
-### P2: Deep review mental-causation.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-15, no deep review since creation. Core concept for Bidirectional Interaction tenet. Check for cross-links to agent-causation.md, downward-causation.md, quantum-consciousness.md. Ensure Kim's exclusion argument and site's quantum response are well-developed.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
-### P2: Deep review downward-causation.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-18, no deep review since creation. Central to defending Bidirectional Interaction tenet. Check for cross-links to mental-causation.md, emergence.md, causal-closure.md. Ensure Kim's exclusion argument and strong emergence responses are current.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review quantum-indeterminacy-free-will.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-19, no deep review since creation. Key integration of quantum mechanics with free will. Check for cross-links to luck-objection.md, agent-causation.md, attention-as-interface.md. Ensure luck objection response and quantum Zeno mechanism are well-argued.
@@ -87,6 +69,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review downward-causation.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-18, no deep review since creation. Central to defending Bidirectional Interaction tenet. Check for cross-links to mental-causation.md, emergence.md, causal-closure.md. Ensure Kim's exclusion argument and strong emergence responses are current.
+- **Result**: Added "What Would Challenge This View?" section with five falsifiability conditions. Added "Why Not Many Worlds?" subsection explaining why MWI rejection matters. Added "The Decoherence Challenge" subsection with three-part response. Added "The Illusionist Challenge" section with regress argument response. Added "Process Philosophy Alternative" section presenting Whitehead's actual occasions. Expanded epiphenomenalism response with epistemic consequences. Added 6 new cross-links to frontmatter and 7 to Further Reading.
+- **Output**: Updated `concepts/downward-causation.md`, created `reviews/deep-review-2026-01-20-downward-causation.md`
+
+### ✓ 2026-01-20: Deep review mental-causation.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-15, no deep review since creation. Core concept for Bidirectional Interaction tenet. Check for cross-links to agent-causation.md, downward-causation.md, quantum-consciousness.md. Ensure Kim's exclusion argument and site's quantum response are well-developed.
+- **Result**: Added "The Decoherence Challenge" subsection addressing Tegmark's objection. Added "Why Not Many Worlds?" subsection making MWI rejection explicit. Added "Process Philosophy Alternative" with Whitehead's actual occasions. Added "The Interface Question" connecting to pairing problem and interface-locality. Added "The Illusionist Response" with self-stultification counter-argument. Added "What Would Challenge This View?" with five falsifiability conditions. Added 6 new cross-links (illusionism, interface-locality, many-worlds, pairing-problem, decoherence, attention-as-interface). Added Frankish, Tallis, Tegmark, Whitehead references.
+- **Output**: Updated `concepts/mental-causation.md`, created `reviews/deep-review-2026-01-20-mental-causation.md`
+
+### ✓ 2026-01-20: Deep review agent-causation.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Core concept for libertarian free will and site's bidirectional interaction tenet. Check for cross-links to luck-objection.md, quantum-indeterminacy-free-will.md, mental-causation.md. Ensure O'Connor and Chisholm's accounts are well-represented.
+- **Result**: Added "What Would Challenge This View?" section with six falsifiability conditions. Added "The Decoherence Challenge" subsection addressing Tegmark's objection with quantum biology counter-evidence. Added illusionism engagement paragraph with self-stultification response. Added "Process Philosophy and Actual Occasions" subsection presenting Whitehead's panexperientialism. Added pairing-problem connection to spatial location. Added 5 new cross-links (many-worlds, pairing-problem, downward-causation, mental-causation, decoherence).
+- **Output**: Updated `concepts/agent-causation.md`, created `reviews/deep-review-2026-01-20-agent-causation.md`
 
 ### ✓ 2026-01-20: Deep review objections-to-interactionism.md for currency and cross-links
 - **Type**: deep-review

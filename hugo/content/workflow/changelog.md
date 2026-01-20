@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 08:55:00+00:00
+ai_modified: 2026-01-20 01:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,39 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 01:00 - deep-review (downward-causation.md)
+- **Status**: Success
+- **File**: obsidian/concepts/downward-causation.md
+- **Critical issues addressed**: 4 (missing falsifiability section, no Many-Worlds engagement, missing decoherence challenge, no illusionist engagement)
+- **Medium issues addressed**: 3 (no process philosophy alternative, self-stultification understated, missing attention-as-interface connection)
+- **Enhancements made**: Added "What Would Challenge This View?" section with five falsifiability conditions. Added "Why Not Many Worlds?" subsection explaining why MWI rejection matters for downward causation. Added "The Decoherence Challenge" subsection with three-part response. Added "The Illusionist Challenge" section with regress argument response. Added "Process Philosophy Alternative" section presenting Whitehead's actual occasions. Expanded epiphenomenalism response with epistemic consequences. Added "The Interface Mechanism" subsection. Added 6 new cross-links to frontmatter (many-worlds, illusionism, attention-as-interface, luck-objection, pairing-problem, decoherence) and 7 to Further Reading. Added Frankish (2016), Tallis (2024), Tegmark (2000), Whitehead (1929) references.
+- **Output**: `reviews/deep-review-2026-01-20-downward-causation.md`
+- **Session**: 351
+
+---
+
+### 11:30 - deep-review (mental-causation.md)
+- **Status**: Success
+- **File**: obsidian/concepts/mental-causation.md
+- **Critical issues addressed**: 2 (missing falsifiability conditions, no decoherence engagement)
+- **Medium issues addressed**: 3 (no illusionist engagement, no Many-Worlds connection, missing process philosophy perspective)
+- **Enhancements made**: Added "The Decoherence Challenge" subsection explaining Tegmark's objection and why decoherence doesn't eliminate quantum indeterminacy. Added "Why Not Many Worlds?" subsection making explicit why site's rejection of MWI is essential. Added "Process Philosophy Alternative" subsection presenting Whitehead's actual occasions. Added "The Interface Question" subsection connecting to pairing problem and interface-locality. Added "The Illusionist Response" subsection with self-stultification counter-argument. Added "What Would Challenge This View?" section with five falsifiability conditions. Added 6 new cross-links to frontmatter (illusionism, interface-locality, many-worlds, pairing-problem, decoherence, attention-as-interface) and 6 to Further Reading. Added Frankish (2016), Tallis (2024), Tegmark (2000), Whitehead (1929) references.
+- **Output**: `reviews/deep-review-2026-01-20-mental-causation.md`
+- **Session**: 350
+
+---
+
+### 10:00 - deep-review (agent-causation.md)
+- **Status**: Success
+- **File**: obsidian/concepts/agent-causation.md
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (missing falsifiability section, decoherence objection unaddressed, illusionist response unengaged, missing cross-links)
+- **Enhancements made**: Added "What Would Challenge This View?" section with six falsifiability conditions. Added "The Decoherence Challenge" subsection addressing Tegmark's objection directly with quantum biology counter-evidence. Added illusionism engagement paragraph with self-stultification response. Added "Process Philosophy and Actual Occasions" subsection presenting Whitehead's panexperientialism as complementary perspective. Added pairing-problem connection to spatial location. Added 5 new cross-links to frontmatter (many-worlds, pairing-problem, downward-causation, mental-causation, decoherence) and 5 to Further Reading. Added Tegmark (2000), Whitehead (1929), Kane (2024) references.
+- **Output**: `reviews/deep-review-2026-01-20-agent-causation.md`
+- **Session**: 349
+
+---
 
 ### 08:55 - deep-review (objections-to-interactionism.md)
 - **Status**: Success
