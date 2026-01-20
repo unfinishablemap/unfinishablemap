@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-19 00:30:00+00:00
+ai_modified: 2026-01-20 01:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,11 +11,16 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[motor-selection]]'
 - '[[agent-causation]]'
+- '[[voluntary-attention]]'
+- '[[luck-objection]]'
+- '[[decoherence]]'
+- '[[illusionism]]'
 created: 2026-01-14
-date: &id001 2026-01-14
+date: &id001 2026-01-20
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-20 01:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,6 +91,14 @@ This interpretation faces a challenge: couldn't the veto itself be preceded by n
 
 More fundamentally, the site's framework suggests the initiation/selection distinction may be the key insight. Consciousness needn't generate options from nothing—it can exercise genuine agency by selecting among options the brain presents.
 
+### The Veto Regress and Its Resolution
+
+Critics press further: if vetoing is itself a brain process, and that process is preceded by neural activity, consciousness is pushed back again—now we need a "veto of the veto," and so on infinitely. This regress seems to eliminate any role for consciousness.
+
+The site's framework resolves this differently. The regress assumes that causal influence requires temporal precedence—that consciousness must precede what it causes. But if consciousness operates at quantum indeterminacies atemporally (see the retrocausal discussion below), the regress dissolves. Selection doesn't occur "before" or "after" neural activity in the causally significant sense; it determines which temporal sequence becomes actual. There is no infinite chain because selection isn't in the chain—it's what determines there being this chain rather than another.
+
+Additionally, the [luck objection](/concepts/luck-objection/) literature shows that the real question isn't *when* selection occurs but *whether* it's guided by reasons rather than arbitrary. If consciousness selects the veto (or the action) based on the agent's values, it isn't arbitrary—even if we can't locate the selection at a precise neural moment.
+
 ## The Retrocausal Resolution
 
 The timing problem—consciousness seeming to arrive "too late"—assumes linear causation. But if consciousness operates at the quantum level, and quantum mechanics permits [retrocausal](/concepts/retrocausality/) influences, the problem dissolves.
@@ -97,6 +110,42 @@ The timing problem—consciousness seeming to arrive "too late"—assumes linear
 **Application to Libet**: If consciousness selects among quantum possibilities atemporally, it doesn't need to precede the neural preparation in linear time. The selection determines which temporal sequence becomes real—including the RP that "preceded" it. What we see as neural activity predicting the decision is actually the selected history.
 
 The RP doesn't precede conscious choice in any causally significant sense. It's part of the package consciousness selected, including its temporal ordering.
+
+### The Decoherence Challenge
+
+The retrocausal resolution requires quantum effects to be relevant at neural decision-making timescales. A common objection: [decoherence](/concepts/decoherence/) destroys quantum coherence in femtoseconds in warm biological systems—far too fast for the millisecond timescales of neural decisions.
+
+Three responses:
+
+**First**, decoherence doesn't solve the measurement problem. Even granting rapid decoherence, something must select which outcome becomes actual. Decoherence explains why we don't see superpositions; it doesn't explain why we see *definite* outcomes. The role for consciousness at the point of selection remains open.
+
+**Second**, the [quantum Zeno mechanism](/concepts/quantum-consciousness/#the-quantum-zeno-effect) may sidestep decoherence entirely. Rapid repeated observation can hold states stable against decoherence. If consciousness operates through Zeno freezing rather than maintained superposition, short coherence times don't matter—observations happen faster than decoherence can act.
+
+**Third**, recent quantum biology research shows biological systems can maintain coherence far longer than expected. Photosynthesis, magnetoreception, and enzyme catalysis all exploit quantum effects in warm conditions. The categorical objection—that biology cannot use quantum mechanics—is empirically refuted.
+
+## The Illusionist Response
+
+[Illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an illusion—interprets Libet differently. On this view, the experiments show exactly what we should expect: the brain constructs the *appearance* of decision-making after the fact. We don't experience decisions because we make them; we experience decisions because the brain generates a post-hoc narrative of agency.
+
+Daniel Dennett argues that asking "when did the decision occur?" presupposes a Cartesian theatre where consciousness watches neural events. But if consciousness is what the brain does—not something that observes what the brain does—the timing question dissolves. There's no moment when "consciousness decides" because there's no consciousness separate from the neural process to do any deciding.
+
+### The Site's Response
+
+The illusionist response faces the same problem as epiphenomenalism: it threatens to be self-refuting. If the appearance of decision-making is wholly constructed by neural processes unconnected to any real deciding, then the decision to adopt illusionism was itself constructed—not genuinely reasoned to. Dennett's arguments against the Cartesian theatre would be products of neural processes that merely *seemed* like reasoning but weren't.
+
+More specifically: why do we discuss Libet experiments at all? Why design studies, interpret data, form theories? If our sense of engaging with these questions is illusory—if there's nothing it's like to think about consciousness that corresponds to actual thinking—the discussions are accidental behaviour, not inquiry. The illusionist cannot coherently claim to have *reasoned* to their position.
+
+The site's framework avoids this: consciousness is real, selection is genuine, and our theories about consciousness connect to actual conscious experience. The Libet findings challenge the *timing* of conscious influence, not its existence. The retrocausal and Zeno frameworks show that temporal ordering may not have the causal significance assumed.
+
+## Process Philosophy Perspective
+
+Alfred North Whitehead's process philosophy offers a different framing. For Whitehead, reality consists of "actual occasions"—momentary experiential events that synthesize data from past occasions and contribute to future ones. Decision is not something a substance does; it is what actual occasions *are*—the process of many possibilities becoming one actuality.
+
+On this view, the Libet findings show neural processes that *prepare* possibilities for the actual occasion of decision. The RP isn't "the decision happening before consciousness"—it's the causal context from which the occasion of decision arises. The occasion itself is experiential: it's the synthesis of possibilities into definite outcome.
+
+This dissolves the timing problem differently than retrocausality. There's no "moment of decision" separate from neural processes because the occasion *is* the decision—not an observation of prior neural events but the integration of those events into experiential unity. The RP is part of what the occasion inherits and transforms.
+
+The framework aligns with the site's tenets: consciousness is ontologically primitive (not reducible to physics), causally efficacious (actual occasions determine outcomes), and selective (many become one). Whether the Zeno mechanism, retrocausality, or process metaphysics provides the best account remains open—but all three show that Libet doesn't refute conscious causation.
 
 ## What the Experiments Don't Show
 
@@ -120,12 +169,34 @@ The Libet experiments engage directly with the site's core commitments.
 
 **Against [epiphenomenalism](/arguments/epiphenomenalism/)**: If consciousness were epiphenomenal, our beliefs about consciousness would be produced by neural processes unconnected to consciousness itself. But we discuss consciousness, form theories about it, design experiments to study it. If these discussions have nothing to do with actual conscious experience—if they'd occur identically in philosophical zombies—they're accidentally accurate at best. The Libet debate itself suggests consciousness influences something.
 
+## What Would Challenge This View?
+
+The site's interpretation of Libet is falsifiable. Evidence against it would include:
+
+**1. Selection fully determined by measurable neural activity.** If prediction accuracy approached 100%—leaving no gap for consciousness to influence—the "selection among options" model would fail. Current 60% accuracy leaves substantial room; if future research with better methods closed this gap entirely, that would be significant.
+
+**2. Veto preceded by readiness potentials.** If vetoing an action were reliably preceded by RPs—just like initiating action—Libet's veto model would collapse. The regress objection would become empirical rather than merely philosophical. Current evidence suggests vetoes don't show RPs, but this needs more investigation.
+
+**3. Retrocausality ruled out empirically.** If future physics conclusively established time-asymmetric causation with no backward influences, the retrocausal resolution would fail. Price's arguments that time-symmetric physics implies some retrocausality would need refutation.
+
+**4. Decoherence too fast even for Zeno mechanism.** If decoherence at candidate selection sites operates faster than any attentional observation could occur, the Zeno pathway would fail. Current quantum biology suggests biological systems can maintain coherence longer than expected, but direct measurement in neural tissue would be decisive.
+
+**5. SMA resection patients lack sense of agency.** Sjöberg's finding that SMA resection patients retain voluntary movement is striking. If replication showed these patients actually lack genuine sense of agency—experiencing movement as automatic rather than willed—the dissociation evidence would be undermined.
+
+**6. Selection indistinguishable from randomness.** If choices at quantum indeterminacies were genuinely random rather than guided by consciousness, the selection model becomes indistinguishable from the [luck objection](/concepts/luck-objection/). The phenomenology of effort and the reasons-responsiveness of choices provide current evidence against randomness, but these could in principle be shown to be post-hoc confabulation.
+
+The site's position is that current evidence supports selection over randomness, that Schurger and Sjöberg have substantially weakened the standard interpretation, and that retrocausal and Zeno frameworks provide coherent mechanisms. But this is empirical territory—future findings could shift the picture.
+
 ## Further Reading
 
 - [free-will](/topics/free-will/) — The broader philosophical context
 - [motor-selection](/concepts/motor-selection/) — Extending the selection framework from attention to motor control
+- [voluntary-attention](/concepts/voluntary-attention/) — The willed/instructed distinction and stochastic pre-state challenge
+- [luck-objection](/concepts/luck-objection/) — Why indeterminism doesn't reduce selection to randomness
 - [retrocausality](/concepts/retrocausality/) — How backward causation resolves the timing problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness at the quantum level
+- [decoherence](/concepts/decoherence/) — The decoherence challenge and biological quantum effects
+- [illusionism](/concepts/illusionism/) — The eliminativist interpretation and its problems
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view these experiments seem to support, and its problems
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework that makes conscious selection coherent
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of conscious causation

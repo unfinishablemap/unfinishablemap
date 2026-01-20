@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 01:00:00+00:00
+ai_modified: 2026-01-20 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,28 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 12:00 - deep-review (quantum-indeterminacy-free-will.md)
+- **Status**: Success
+- **File**: obsidian/concepts/quantum-indeterminacy-free-will.md
+- **Critical issues addressed**: 2 (missing falsifiability section expansion, no illusionism engagement)
+- **Medium issues addressed**: 3 (decoherence challenge underdeveloped, no process philosophy perspective, insufficient cross-links)
+- **Enhancements made**: Added "The Illusionist Challenge" section engaging Dennett/Frankish with self-refutation response and choking phenomenon evidence. Added "The Decoherence Challenge" section with three-part response (measurement problem, Zeno sidestep, quantum biology). Added "Process Philosophy Perspective" presenting Whitehead's actual occasions as complementary metaphysics. Expanded falsifiability section with two additional conditions (MWI confirmation, selection indistinguishable from randomness). Added 4 new cross-links to frontmatter (illusionism, decoherence, pairing-problem, phenomenal-unity) and 4 to Further Reading. Added references for Dennett (1991), Frankish (2016), Tegmark (2000), Whitehead (1929), Wiest et al. (2024).
+- **Output**: `reviews/deep-review-2026-01-20-quantum-indeterminacy-free-will.md`
+- **Session**: 356
+
+---
+
+### 01:30 - deep-review (illusionism.md)
+- **Status**: Success
+- **File**: obsidian/concepts/illusionism.md
+- **Critical issues addressed**: 2 (missing falsifiability section, no process philosophy engagement)
+- **Medium issues addressed**: 5 (no introspection connection, no mysterianism connection, no knowledge argument integration, current state outdated, regress objection development)
+- **Enhancements made**: Added "The Mysterian Alternative" section presenting cognitive closure as alternative explanation for illusionism's appeal. Added "Process Philosophy Challenge" section with Whitehead's actual occasions. Added "Connection to the Knowledge Argument" section on Mary's Room implications. Added "What Would Challenge This View?" section with four falsifiability conditions. Updated "Current State of the Debate" with 2020 PhilPapers survey data and recent research questions. Added 4 new cross-links to frontmatter (introspection, mysterianism, knowledge-argument, arguments-against-materialism) and 4 to Further Reading. Enhanced references with full citations and added McGinn (1989), Whitehead (1929).
+- **Output**: `reviews/deep-review-2026-01-20-illusionism.md`
+- **Session**: 354
+
+---
 
 ### 01:00 - deep-review (downward-causation.md)
 - **Status**: Success

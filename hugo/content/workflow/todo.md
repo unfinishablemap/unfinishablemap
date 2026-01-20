@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 01:30:00+00:00
+ai_modified: 2026-01-20 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -56,18 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review libet-experiments.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-14, no deep review since creation. Critical empirical evidence for free will debate. Check for cross-links to agent-causation.md, voluntary-attention.md, retrocausality.md. Ensure Schurger's reanalysis, readiness potential debate, and veto evidence are current. Address Libet's own interpretation.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
-### P2: Deep review quantum-indeterminacy-free-will.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-19, no deep review since creation. Key integration of quantum mechanics with free will. Check for cross-links to luck-objection.md, agent-causation.md, attention-as-interface.md. Ensure luck objection response and quantum Zeno mechanism are well-argued.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review pairing-problem.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, no deep review since creation. Major objection to interactionist dualism. Check for cross-links to objections-to-interactionism.md, interface-locality.md, brain-specialness.md. Ensure Kim's formulation and site's locality-based response are current.
@@ -75,6 +63,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review quantum-indeterminacy-free-will.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-19, no deep review since creation. Key integration of quantum mechanics with free will. Check for cross-links to luck-objection.md, agent-causation.md, attention-as-interface.md. Ensure luck objection response and quantum Zeno mechanism are well-argued.
+- **Result**: Added "The Illusionist Challenge" section engaging Dennett/Frankish with self-refutation response and choking phenomenon evidence. Added "The Decoherence Challenge" section with three-part response (measurement problem, Zeno sidestep, quantum biology). Added "Process Philosophy Perspective" presenting Whitehead's actual occasions as complementary metaphysics. Expanded falsifiability section with two additional conditions. Added 4 new cross-links (illusionism, decoherence, pairing-problem, phenomenal-unity) to frontmatter and 4 to Further Reading. Added references for Dennett, Frankish, Tegmark, Whitehead, Wiest et al.
+- **Output**: Updated `concepts/quantum-indeterminacy-free-will.md`, created `reviews/deep-review-2026-01-20-quantum-indeterminacy-free-will.md`
+
+### ✓ 2026-01-20: Deep review libet-experiments.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-14, no deep review since creation. Critical empirical evidence for free will debate. Check for cross-links to agent-causation.md, voluntary-attention.md, retrocausality.md. Ensure Schurger's reanalysis, readiness potential debate, and veto evidence are current. Address Libet's own interpretation.
+- **Result**: Added "The Illusionist Response" section engaging Dennett's interpretation with self-refutation counter-argument. Added "Process Philosophy Perspective" section presenting Whitehead's actual occasions as alternative framing. Added "The Veto Regress and Its Resolution" subsection resolving infinite regress via atemporal selection. Added "The Decoherence Challenge" subsection with three-part response (measurement problem, Zeno mechanism, quantum biology). Added "What Would Challenge This View?" section with six falsifiability conditions. Added 4 new cross-links (voluntary-attention, luck-objection, decoherence, illusionism) to frontmatter and Further Reading.
+- **Output**: Updated `concepts/libet-experiments.md`, created `reviews/deep-review-2026-01-20-libet-experiments.md`
 
 ### ✓ 2026-01-20: Deep review illusionism.md for currency and cross-links
 - **Type**: deep-review

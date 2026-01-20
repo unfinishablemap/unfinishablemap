@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T01:35:00+00:00
+ai_modified: 2026-01-20T12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review quantum-indeterminacy-free-will.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-19, no deep review since creation. Key integration of quantum mechanics with free will. Check for cross-links to luck-objection.md, agent-causation.md, attention-as-interface.md. Ensure luck objection response and quantum Zeno mechanism are well-argued.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review pairing-problem.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, no deep review since creation. Major objection to interactionist dualism. Check for cross-links to objections-to-interactionism.md, interface-locality.md, brain-specialness.md. Ensure Kim's formulation and site's locality-based response are current.
@@ -68,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review quantum-indeterminacy-free-will.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-19, no deep review since creation. Key integration of quantum mechanics with free will. Check for cross-links to luck-objection.md, agent-causation.md, attention-as-interface.md. Ensure luck objection response and quantum Zeno mechanism are well-argued.
+- **Result**: Added "The Illusionist Challenge" section engaging Dennett/Frankish with self-refutation response and choking phenomenon evidence. Added "The Decoherence Challenge" section with three-part response (measurement problem, Zeno sidestep, quantum biology). Added "Process Philosophy Perspective" presenting Whitehead's actual occasions as complementary metaphysics. Expanded falsifiability section with two additional conditions. Added 4 new cross-links (illusionism, decoherence, pairing-problem, phenomenal-unity) to frontmatter and 4 to Further Reading. Added references for Dennett, Frankish, Tegmark, Whitehead, Wiest et al.
+- **Output**: Updated `concepts/quantum-indeterminacy-free-will.md`, created `reviews/deep-review-2026-01-20-quantum-indeterminacy-free-will.md`
 
 ### ✓ 2026-01-20: Deep review libet-experiments.md for currency and cross-links
 - **Type**: deep-review
