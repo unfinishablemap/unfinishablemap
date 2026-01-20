@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review illusionism.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-14, no deep review since creation. Major challenge to site's framework (Frankish/Dennett). Check for cross-links to phenomenal-concepts-strategy.md, qualia.md, knowledge-argument.md. Ensure self-stultification objection and introspection arguments are well-developed. Compare with eliminative materialism.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review libet-experiments.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-14, no deep review since creation. Critical empirical evidence for free will debate. Check for cross-links to agent-causation.md, voluntary-attention.md, retrocausality.md. Ensure Schurger's reanalysis, readiness potential debate, and veto evidence are current. Address Libet's own interpretation.
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review illusionism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-14, no deep review since creation. Major challenge to site's framework (Frankish/Dennett). Check for cross-links to phenomenal-concepts-strategy.md, qualia.md, knowledge-argument.md. Ensure self-stultification objection and introspection arguments are well-developed. Compare with eliminative materialism.
+- **Result**: Added "The Mysterian Alternative" section presenting cognitive closure as alternative explanation for illusionism's appeal. Added "Process Philosophy Challenge" section with Whitehead's actual occasions. Added "Connection to the Knowledge Argument" section on Mary's Room implications. Added "What Would Challenge This View?" section with four falsifiability conditions. Updated "Current State of the Debate" with 2020 PhilPapers survey and recent research questions. Added 4 new cross-links (introspection, mysterianism, knowledge-argument, arguments-against-materialism). Enhanced references with full citations.
+- **Output**: Updated `concepts/illusionism.md`, created `reviews/deep-review-2026-01-20-illusionism.md`
 
 ### ✓ 2026-01-20: Deep review integrated-information-theory.md for currency and cross-links
 - **Type**: deep-review
