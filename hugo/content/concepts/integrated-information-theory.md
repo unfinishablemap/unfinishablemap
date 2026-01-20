@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-19 10:30:00+00:00
+ai_modified: 2026-01-20 01:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,11 +9,17 @@ concepts:
 - '[[qualia]]'
 - '[[panpsychism]]'
 - '[[global-workspace-theory]]'
+- '[[phenomenal-unity]]'
+- '[[binding-problem]]'
+- '[[illusionism]]'
+- '[[emergence]]'
+- '[[functionalism]]'
 created: 2026-01-09
 date: &id001 2026-01-09
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-20 01:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -38,8 +44,10 @@ IIT begins with axioms—self-evident truths about experience that anyone can ve
 1. **Existence**: Consciousness exists. Each experience is actual.
 2. **Composition**: Experience is structured—it contains distinctions, relations, multiple components.
 3. **Information**: Each experience is specific—it is *this* experience and not any of the countless others it could have been.
-4. **Integration**: Experience is unified—it cannot be decomposed into independent components.
+4. **Integration**: Experience is unified—it cannot be decomposed into independent components. This directly addresses the [phenomenal unity](/concepts/phenomenal-unity/) question.
 5. **Exclusion**: Experience is definite—it has particular borders, a specific content.
+
+IIT 4.0 (2023) implicitly adds a sixth consideration: experience flows through time, connecting the integration axiom to temporal structure.
 
 These aren't claims about the brain. They're claims about what any conscious experience involves.
 
@@ -85,9 +93,11 @@ See [minimal-consciousness](/concepts/minimal-consciousness/) for detailed treat
 
 ### Substrate Matters
 
-Unlike functionalism, IIT holds that physical substrate matters. Two systems could perform identical functions but have different phi—and thus different consciousness—depending on their architecture. A feed-forward network and a recurrent network processing the same information might have vastly different experiences (or none at all for the feed-forward case).
+Unlike [functionalism](/arguments/functionalism/), IIT holds that physical substrate matters. Two systems could perform identical functions but have different phi—and thus different consciousness—depending on their architecture. A feed-forward network and a recurrent network processing the same information might have vastly different experiences (or none at all for the feed-forward case).
 
 This distinguishes IIT from theories that say "consciousness is computation." For IIT, consciousness is *integrated* information, and integration depends on physical structure, not just logical function.
+
+This has implications for the [binding problem](/concepts/binding-problem/). IIT claims to dissolve it: the binding problem asks how distributed features combine into unified experience; IIT answers that consciousness *just is* integration, so unified experience exists wherever integration exists. The problem becomes measuring integration, not explaining unity. Critics respond that this trades one mystery for another—*why* integration should be identical to phenomenal unity remains unexplained.
 
 ### What's Unconscious
 
@@ -144,11 +154,41 @@ The self-undermining argument against epiphenomenalism—that we couldn't reliab
 
 IIT might respond that the beliefs are accurate because consciousness *is* the physical structure doing the believing. But this seems to collapse the explanatory gap rather than bridge it. We wanted to know why physical arrangements are *accompanied* by experience; IIT's answer is that they *are* experience. This may be true, but it doesn't explain the connection—it asserts it.
 
+### The Illusionist Challenge
+
+[Illusionists](/concepts/illusionism/) like Frankish and Dennett argue that consciousness as IIT conceives it—intrinsic, unified, qualitative experience—doesn't exist. There is no phenomenal integration to explain; we only *think* there is due to our cognitive architecture misrepresenting its own processes.
+
+IIT has a stronger response here than most consciousness theories. The axioms don't assume consciousness has any particular character that could be illusory—they describe what any experience, however minimal, must be like. If you have *any* experience at all, the axioms apply. The illusionist must deny not just qualia-rich phenomenality but any inner life whatsoever, a more radical commitment than many illusionists embrace.
+
+This parallels Tononi's response to the self-stultification objection: IIT grounds itself in immediate phenomenal acquaintance, not in theoretical claims that could be mistaken. You cannot be wrong that there is something it is like to be you right now. But this response presupposes phenomenal consciousness exists—exactly what illusionists deny.
+
+### Process Philosophy Resonance
+
+Whitehead's process philosophy shares structural similarities with IIT. Both reject the view that the fundamental units of reality are static substances; both emphasize dynamic, relational wholes. Whitehead's "actual occasions"—momentary events of experience that combine (or "prehend") their predecessors—echo IIT's claim that conscious experience is constituted by integrated information structures.
+
+The difference: Whitehead's panexperientialism makes experience fundamental to all actual occasions, while IIT derives phenomenality from mathematical properties of physical systems. For Whitehead, integration *occurs within* experience; for IIT, experience *is identical to* integration. The site's framework sides with something closer to Whitehead—consciousness as genuinely distinct from its physical substrate, not identical to it.
+
 ### The Quantum Question
 
 IIT doesn't require quantum mechanics. It works at the level of classical information and physical architecture. This neither supports nor contradicts the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet directly—IIT is simply silent on quantum effects.
 
-Some speculate that quantum coherence might be relevant to how integration occurs in biological systems. But this isn't part of standard IIT. The theory is designed to work without invoking quantum mysteries.
+Some speculate that quantum coherence might be relevant to how integration occurs in biological systems—quantum entanglement provides exactly the kind of holistic, irreducible connections that IIT claims underlie consciousness. The Kerskens & Pérez (2022) MRI study detected entanglement signatures in brain water protons, potentially linking quantum holism to neural integration. But this isn't part of standard IIT. The theory is designed to work without invoking quantum mysteries, treating consciousness as a feature of classical causal structure.
+
+The site's framework suggests IIT may be incomplete precisely because it ignores quantum mechanics. If consciousness influences physical outcomes via quantum selection (per Bidirectional Interaction), then IIT's purely observational stance—consciousness *is* integration but doesn't *do* anything—misses consciousness's causal role. Quantum approaches make consciousness active; IIT makes it passive.
+
+### What Would Challenge This View?
+
+IIT makes specific empirical commitments:
+
+1. **Phi should correlate with consciousness level**: Anesthesia, sleep, and brain lesions that reduce Phi should proportionally reduce consciousness. This is largely supported, though measuring Phi in complex systems remains intractable.
+
+2. **Posterior cortex primacy**: IIT predicts that posterior cortex (with high integration) is the primary seat of consciousness, while prefrontal cortex (more modular) contributes less. COGITATE findings were mixed here.
+
+3. **Feed-forward systems lack consciousness**: A purely feed-forward network, regardless of complexity, should have zero Phi and zero consciousness. This could be tested with artificial systems if we had independent consciousness measures.
+
+4. **Expander graphs are conscious**: If we could build large expander graphs and they exhibited no behavioral signatures of consciousness, this would challenge IIT—though IIT could maintain they're conscious but non-verbal.
+
+**What would challenge the site's assessment?** If IIT incorporated genuine causal efficacy—if it could explain how integrated information *influences* subsequent states beyond mere constitution—the theory would align better with Bidirectional Interaction. Currently, IIT's identity thesis precludes this: if consciousness is integration, it cannot additionally cause integration.
 
 ### Assessment
 
@@ -163,10 +203,15 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 
 ## Further Reading
 
+- [phenomenal-unity](/concepts/phenomenal-unity/) — The unity IIT claims to explain via integration
+- [binding-problem](/concepts/binding-problem/) — The related puzzle of how features combine
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical tests of IIT in simple organisms
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle IIT addresses
 - [panpsychism](/concepts/panpsychism/) — A related view on consciousness's ubiquity
+- [illusionism](/concepts/illusionism/) — The challenge IIT must answer
 - [global-workspace-theory](/concepts/global-workspace-theory/) — IIT's main rival, also tested in COGITATE
+- [emergence](/concepts/emergence/) — Strong vs weak emergence and consciousness
+- [functionalism](/arguments/functionalism/) — The view IIT rejects with substrate-dependence
 - [integrated-information-theory-2026-01-07](/research/integrated-information-theory-2026-01-07/) — Detailed research notes
 - [tenets](/tenets/) — This site's alternative framework
 
@@ -178,4 +223,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 - Albantakis, L., et al. (2023). Integrated information theory (IIT) 4.0. *PLOS Computational Biology*, 19(10), e1011465.
 - Aaronson, S. (2014). Why I am not an integrated information theorist (or, the unconscious expander). *Shtetl-Optimized*.
 - COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
+- Kerskens, C. M., & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
+- Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 - Internet Encyclopedia of Philosophy. Integrated Information Theory of Consciousness.

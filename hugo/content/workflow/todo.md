@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 01:00:00+00:00
+ai_modified: 2026-01-20 01:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -56,6 +56,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
+### P2: Deep review illusionism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-14, no deep review since creation. Major challenge to site's framework (Frankish/Dennett). Check for cross-links to phenomenal-concepts-strategy.md, qualia.md, knowledge-argument.md. Ensure self-stultification objection and introspection arguments are well-developed. Compare with eliminative materialism.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review libet-experiments.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-14, no deep review since creation. Critical empirical evidence for free will debate. Check for cross-links to agent-causation.md, voluntary-attention.md, retrocausality.md. Ensure Schurger's reanalysis, readiness potential debate, and veto evidence are current. Address Libet's own interpretation.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
 ### P2: Deep review quantum-indeterminacy-free-will.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-19, no deep review since creation. Key integration of quantum mechanics with free will. Check for cross-links to luck-objection.md, agent-causation.md, attention-as-interface.md. Ensure luck objection response and quantum Zeno mechanism are well-argued.
@@ -69,6 +81,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review integrated-information-theory.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-09, no deep review since creation. Major competitor theory (Tononi/Koch). Check for cross-links to binding-problem.md, phenomenal-unity.md, qualia.md. Ensure IIT axioms, phi measurement, and site's critique (why IIT may be incomplete for dualist framework) are well-developed. Key comparison needed with global workspace theory.
+- **Result**: Added "The Illusionist Challenge" section engaging Frankish/Dennett with IIT's response and counter-response. Added "Process Philosophy Resonance" subsection comparing Whitehead's actual occasions to IIT. Added "What Would Challenge This View?" falsifiability section with four testable predictions. Enhanced quantum section with Kerskens & Pérez (2022) entanglement research. Added binding problem connection in substrate section. Added IIT 4.0 temporal consideration. Added 5 new cross-links to frontmatter and 5 to Further Reading. Added 4 new references.
+- **Output**: Updated `concepts/integrated-information-theory.md`, created `reviews/deep-review-2026-01-20-integrated-information-theory.md`
+
+### ✓ 2026-01-20: Write article on motor selection and quantum Zeno
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Extends attention-as-interface to motor domain. Connects voluntary-attention.md, motor-selection.md, attention-as-interface.md. Addresses how conscious selection operates in action.
+- **Result**: Task determined redundant. Research already fully synthesized into concepts/motor-selection.md (230 lines), titled "Motor Selection and the Quantum Zeno Effect", which covers: attention-motor parallel (frontal theta, 300ms timeline, willed vs instructed), Libet challenge and Schurger's dissolution, Desmurget's parietal dissociation, basal ganglia brake-release mechanism, free won't model, sense of agency, and all tenet connections. Research notes already linked in frontmatter.
+- **Output**: None (existing content is complete)
+
+### ✓ 2026-01-20: Write article on neural binding and quantum entanglement
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md. Novel integration of binding problem with quantum mechanics. Connects binding-problem.md, quantum-consciousness.md, phenomenal-unity.md. Supports Minimal Quantum Interaction tenet.
+- **Result**: Task determined redundant. Research already fully synthesized into concepts/binding-problem.md (320 lines), which includes comprehensive "Quantum Alternative" section covering Orch OR theory, entanglement and unity, all 2024-2025 experimental evidence (Wiest epothilone study, Kerskens-Pérez MRI, Twin study), decoherence debate, and Quantum Binding Argument (Baum). Research notes already linked in frontmatter. Creating separate article would be highly duplicative.
+- **Output**: None (existing content is complete)
+
+### ✓ 2026-01-20: Write article on consciousness in simple organisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Covers bacteria, plants, single-celled organisms and the question of minimal consciousness. Builds on minimal-consciousness.md, animal-consciousness topic. Supports site's view of consciousness as fundamental rather than emergent complexity.
+- **Result**: Task determined redundant. Research already fully synthesized into existing comprehensive pages: concepts/minimal-consciousness.md (136 lines) covers C. elegans, Hydra, slime molds, UAL framework, distribution problem, and all tenet connections. topics/animal-consciousness.md (186 lines) covers same terrain plus evolutionary perspective. Creating separate article would be highly duplicative. Research notes remain available for future reference.
+- **Output**: None (existing content is complete)
 
 ### ✓ 2026-01-20: Deep review downward-causation.md for currency and cross-links
 - **Type**: deep-review

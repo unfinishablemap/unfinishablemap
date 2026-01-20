@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T01:10:00+00:00
+ai_modified: 2026-01-20T01:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,6 +55,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
+### P2: Deep review illusionism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-14, no deep review since creation. Major challenge to site's framework (Frankish/Dennett). Check for cross-links to phenomenal-concepts-strategy.md, qualia.md, knowledge-argument.md. Ensure self-stultification objection and introspection arguments are well-developed. Compare with eliminative materialism.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review libet-experiments.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-14, no deep review since creation. Critical empirical evidence for free will debate. Check for cross-links to agent-causation.md, voluntary-attention.md, retrocausality.md. Ensure Schurger's reanalysis, readiness potential debate, and veto evidence are current. Address Libet's own interpretation.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
 ### P2: Deep review quantum-indeterminacy-free-will.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-19, no deep review since creation. Key integration of quantum mechanics with free will. Check for cross-links to luck-objection.md, agent-causation.md, attention-as-interface.md. Ensure luck objection response and quantum Zeno mechanism are well-argued.
@@ -68,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review integrated-information-theory.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-09, no deep review since creation. Major competitor theory (Tononi/Koch). Check for cross-links to binding-problem.md, phenomenal-unity.md, qualia.md. Ensure IIT axioms, phi measurement, and site's critique (why IIT may be incomplete for dualist framework) are well-developed. Key comparison needed with global workspace theory.
+- **Result**: Added "The Illusionist Challenge" section engaging Frankish/Dennett with IIT's response and counter-response. Added "Process Philosophy Resonance" subsection comparing Whitehead's actual occasions to IIT. Added "What Would Challenge This View?" falsifiability section with four testable predictions. Enhanced quantum section with Kerskens & Pérez (2022) entanglement research. Added binding problem connection in substrate section. Added IIT 4.0 temporal consideration. Added 5 new cross-links to frontmatter and 5 to Further Reading. Added 4 new references.
+- **Output**: Updated `concepts/integrated-information-theory.md`, created `reviews/deep-review-2026-01-20-integrated-information-theory.md`
 
 ### ✓ 2026-01-20: Write article on motor selection and quantum Zeno
 - **Type**: expand-topic
