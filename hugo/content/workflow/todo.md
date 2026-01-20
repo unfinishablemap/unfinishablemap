@@ -56,12 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review phenomenology.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Foundational methodological concept for studying consciousness. Check for cross-links to introspection.md, neurophenomenology.md, cognitive-phenomenology.md. Ensure Husserl's epoché, Merleau-Ponty's embodiment, and Heidegger's being-in-the-world are well-represented. Important for site's defense of first-person methods.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review witness-consciousness.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, no deep review since creation. Important for site's perspective on observer/observed distinction. Check for cross-links to meditation-and-consciousness-modes.md, buddhism-and-dualism.md, self-and-consciousness.md. Ensure phenomenological descriptions and relation to dualism are well-developed.
@@ -81,6 +75,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review phenomenology.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Foundational methodological concept for studying consciousness. Check for cross-links to introspection.md, neurophenomenology.md, cognitive-phenomenology.md. Ensure Husserl's epoché, Merleau-Ponty's embodiment, and Heidegger's being-in-the-world are well-represented. Important for site's defense of first-person methods.
+- **Result**: Added "The Illusionist Challenge" section engaging Frankish/Dennett with self-stultification response and contemplative evidence. Added "Process Philosophy Perspective" with Whitehead's actual occasions illuminating temporal consciousness and intentionality. Added "What Would Challenge This View?" section with five falsifiability conditions. Expanded "Relation to Site Perspective" to cover all five tenets including Minimal Quantum Interaction (temporal microstructure) and No Many Worlds (indexical identity). Added 4 new cross-links (illusionism, specious-present, voluntary-attention, decoherence) to frontmatter and 5 to Further Reading. Added 5 new references (Frankish, Gallagher & Zahavi, Tallis, Whitehead, Zahavi).
+- **Output**: Updated `concepts/phenomenology.md`, created `reviews/deep-review-2026-01-20-phenomenology.md`
 
 ### ✓ 2026-01-20: Deep review explanatory-gap.md for currency and cross-links
 - **Type**: deep-review
