@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T22:30:00+00:00
+ai_modified: 2026-01-21T03:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,17 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review loss-of-consciousness.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated topic page (2026-01-15), never deep-reviewed. Covers anesthesia, coma, and filter/transmission theory. Check for cross-links to neural-correlates-of-consciousness.md, altered-states-of-consciousness.md, sleep-and-consciousness.md, filter-theory.md. Supports Dualism tenet via filter interpretation of neural damage.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review purpose-and-alignment.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated topic page (2026-01-13), never deep-reviewed. Connects meaning-of-life philosophy to AI alignment—unique site contribution. Check for cross-links to experiential-alignment.md, phenomenal-value-realism.md, ethics-of-consciousness.md, nihilism.md. Supports site framework by showing alignment depends on consciousness questions.
 - **Source**: staleness
 - **Generated**: 2026-01-20
+
+### P2: Deep review existentialism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (2026-01-06), deep-reviewed 2026-01-14 (6 days ago). Covers Sartre, Kierkegaard, Camus on freedom and meaning-creation. Check for cross-links to free-will.md, meaning-of-life.md, agent-causation.md. Oldest review in concepts—may need updates on illusionist challenge, process philosophy, and falsifiability sections now standard in recent reviews.
+- **Source**: staleness
+- **Generated**: 2026-01-21
+
+### P2: Deep review meaning-of-life.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page (2026-01-08), deep-reviewed 2026-01-15 (5 days ago). Core topic connecting consciousness to meaning. Check for cross-links to phenomenal-value-realism.md, existentialism.md, nihilism.md, purpose-and-alignment.md. May need updates on illusionist challenge section, process philosophy perspective, and falsifiability criteria.
+- **Source**: staleness
+- **Generated**: 2026-01-21
+
+### P2: Deep review split-brain-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page (2026-01-14), deep-reviewed 2026-01-16 (4 days ago). Covers Sperry-Gazzaniga experiments and unity of consciousness. Check for cross-links to binding-problem.md, phenomenal-unity.md, haecceity.md. May need updates on illusionist challenge, process philosophy perspective, and falsifiability sections.
+- **Source**: staleness
+- **Generated**: 2026-01-21
 
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
@@ -65,6 +77,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review loss-of-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page (2026-01-15), never deep-reviewed. Covers anesthesia, coma, and filter/transmission theory. Check for cross-links to neural-correlates-of-consciousness.md, altered-states-of-consciousness.md, sleep-and-consciousness.md, filter-theory.md. Supports Dualism tenet via filter interpretation of neural damage.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with regress response, ketamine response, and introspection evidence subsections. Added "Contemplative Evidence" section covering witness consciousness during sleep transitions, cessation states, and Buddhist perspectives. Added "Process Philosophy Perspective" section connecting Whitehead's actual occasions to interface function. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets with substantive analysis. Added 5 new cross-links (illusionism, decoherence, witness-consciousness, introspection, haecceity). Added 5 new references.
+- **Output**: obsidian/topics/loss-of-consciousness.md, obsidian/reviews/deep-review-2026-01-21-loss-of-consciousness.md
 
 ### ✓ 2026-01-20: Deep review eastern-philosophy-consciousness.md for currency and cross-links
 - **Type**: deep-review
