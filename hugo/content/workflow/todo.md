@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review psychophysical-laws.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Covers Chalmers' fundamental psychophysical laws connecting experience to physics. Check for cross-links to psychophysical-coupling-law.md, interactionist-dualism.md, integrated-information-theory.md. Core for site's position that new laws bridge the explanatory gap.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review moral-responsibility.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page, never deep-reviewed. Connects agent-causation to desert-based moral responsibility. Check for cross-links to free-will.md, ethics-of-consciousness.md, agent-causation.md. Supports Bidirectional Interaction tenet via practical ethical implications.
@@ -72,6 +66,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review psychophysical-laws.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers Chalmers' fundamental psychophysical laws connecting experience to physics. Check for cross-links to psychophysical-coupling-law.md, interactionist-dualism.md, integrated-information-theory.md. Core for site's position that new laws bridge the explanatory gap.
+- **Result**: Comprehensive review completed. Added "The Decoherence Challenge" section with three responses (measurement problem, quantum biology, Zeno mechanism). Added "The Illusionist Challenge" section with three illusionist arguments and regress-based response. Added "Process Philosophy Perspective" connecting Whitehead's actual occasions to upward/downward laws. Added "Contemplative Evidence" section (witness consciousness, mental effort, quiet mind). Added "Haecceity and Organizational Invariance" subsection. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets. Added 5 new cross-links (illusionism, introspection, decoherence, haecceity, witness-consciousness). Added 5 new references.
+- **Output**: obsidian/concepts/psychophysical-laws.md, obsidian/reviews/deep-review-2026-01-20-psychophysical-laws.md
 
 ### ✓ 2026-01-20: Deep review intuitive-dualism.md for currency and cross-links
 - **Type**: deep-review
