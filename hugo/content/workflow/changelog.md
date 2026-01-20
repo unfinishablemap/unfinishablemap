@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 03:20:00+00:00
+ai_modified: 2026-01-20 12:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,28 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 12:30 - deep-review (prebiotic-collapse.md)
+- **Status**: Success
+- **File**: obsidian/concepts/prebiotic-collapse.md
+- **Critical issues addressed**: 2 (missing falsifiability section, no illusionism engagement)
+- **Medium issues addressed**: 4 (decoherence challenge unaddressed, Many-Worlds dismissal too quick, vague experimental section, missing process philosophy)
+- **Enhancements made**: Added "The Illusionist Challenge" section showing problem compounds rather than dissolves. Added "Process Philosophy Perspective" with Whitehead's actual occasions as alternative framing. Added "What Would Challenge This View?" section with five falsifiability conditions. Added "The Many-Worlds Dissolution" showing MWI trades collapse problem for indexical problem. Added "The Decoherence Challenge" subsection with three-part response (revised timescales, Zeno sidestep, quantum biology precedents). Expanded experimental section with specific constraints (Donadi et al. 2020 on Diósi-Penrose, CSL parameters, GRW survival, 2024 epothilone study). Added 4 new cross-links to frontmatter (illusionism, decoherence, attention-as-interface, haecceity) and 6 to Further Reading. Added 6 new references (Donadi, Tallis, Tegmark, Tomaz, Whitehead, Wiest).
+- **Output**: `reviews/deep-review-2026-01-20-prebiotic-collapse.md`
+- **Session**: 363
+
+---
+
+### 03:45 - deep-review (embodied-cognition.md)
+- **Status**: Success
+- **File**: obsidian/concepts/embodied-cognition.md
+- **Critical issues addressed**: 3 (no illusionism engagement, missing falsifiability section, missing Whitehead/process philosophy)
+- **Medium issues addressed**: 3 (missing cross-links, incomplete tenet coverage, citation gaps)
+- **Enhancements made**: Added "The Illusionist Challenge" subsection engaging Dennett/Frankish with response showing phenomenological distinctions matter. Added "Process Philosophy and Embodied Cognition" section connecting Whitehead's actual occasions to Merleau-Ponty's lived body. Added "What Would Challenge This View?" section with five falsifiability conditions. Substantially expanded Minimal Quantum Interaction tenet section connecting quantum Zeno to Dreyfus model. Expanded No Many Worlds section arguing choking evidence supports genuine selection. Added 9 new entries to Further Reading and 5 new concepts to frontmatter. Added 6 new references (Baumeister, Beilock, Dennett, Dreyfus, Frankish, Whitehead).
+- **Output**: `reviews/deep-review-2026-01-20-embodied-cognition.md`
+- **Session**: 362
+
+---
 
 ### 03:20 - deep-review (attention.md)
 - **Status**: Success

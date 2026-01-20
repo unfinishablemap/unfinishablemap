@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T11:30:00+00:00
+ai_modified: 2026-01-20T12:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review prebiotic-collapse.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Central to the No Many Worlds tenet and resolving the cosmological timeline problem. Check for cross-links to evolution-of-consciousness.md, measurement-problem.md, quantum-consciousness.md. Ensure objective reduction response and consciousness-modulation distinction are well-argued.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review intentionality.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, no deep review since creation. Brentano's "mark of the mental" - foundational for understanding consciousness. Check for cross-links to phenomenology.md, cognitive-phenomenology.md, functionalism.md. Ensure naturalization debate (Dretske, Millikan, Fodor) and site's response to eliminativist/functionalist readings are well-developed.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review prebiotic-collapse.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Central to the No Many Worlds tenet and resolving the cosmological timeline problem. Check for cross-links to evolution-of-consciousness.md, measurement-problem.md, quantum-consciousness.md. Ensure objective reduction response and consciousness-modulation distinction are well-argued.
+- **Result**: Added "The Illusionist Challenge" section showing problem compounds rather than dissolves. Added "Process Philosophy Perspective" with Whitehead's actual occasions. Added "What Would Challenge This View?" section with five falsifiability conditions. Added "The Many-Worlds Dissolution" showing MWI trades collapse problem for indexical problem. Added "The Decoherence Challenge" subsection with three-part response. Expanded experimental section with specific Donadi, CSL, GRW constraints and 2024 epothilone study. Added 4 new cross-links (illusionism, decoherence, attention-as-interface, haecceity) to frontmatter and 6 to Further Reading. Added 6 new references.
+- **Output**: Updated `concepts/prebiotic-collapse.md`, created `reviews/deep-review-2026-01-20-prebiotic-collapse.md`
 
 ### ✓ 2026-01-20: Deep review embodied-cognition.md for currency and cross-links
 - **Type**: deep-review
