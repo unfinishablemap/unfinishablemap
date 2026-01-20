@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T17:30:00+00:00
+ai_modified: 2026-01-20T22:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Deep review parfit-reductionism.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Covers Parfit's reductionist view of personal identity—key contrast to site's haecceity-based position. Check for cross-links to personal-identity.md, haecceity.md, many-worlds.md. Supports No Many Worlds tenet via critique of psychological continuity as sufficient for identity.
-- **Source**: staleness
-- **Generated**: 2026-01-20
 
 ### P2: Deep review philosophy-of-time.md for currency and cross-links
 - **Type**: deep-review
@@ -83,6 +77,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review parfit-reductionism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers Parfit's reductionist view of personal identity—key contrast to site's haecceity-based position. Check for cross-links to personal-identity.md, haecceity.md, many-worlds.md. Supports No Many Worlds tenet via critique of psychological continuity as sufficient for identity.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with three subsections (regress response, self-undermining problem, contemplative evidence). Added "Process Philosophy Perspective" section (temporal haecceity, concrescence and identity, why patterns don't persist). Added "The Decoherence Context" subsection to quantum selection section. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Substantially expanded "Relation to Site Perspective" from 4 brief paragraphs to 5 substantive ones covering all tenets including Minimal Quantum Interaction. Added 5 new cross-links (illusionism, introspection, witness-consciousness, decoherence, buddhism-and-dualism). Added 5 new references.
+- **Output**: obsidian/concepts/parfit-reductionism.md, obsidian/reviews/deep-review-2026-01-20-parfit-reductionism.md
 
 ### ✓ 2026-01-20: Deep review sleep-and-consciousness.md for currency and cross-links
 - **Type**: deep-review
