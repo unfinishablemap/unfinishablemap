@@ -29,7 +29,7 @@ The tenets document is foundational and largely well-constructed. The five tenet
 
 **Strengths**: Clear structure, honest about commitments being chosen rather than proven, good anticipation of obvious objections (quantum woo, epiphenomenalism).
 
-**Areas for enhancement**: Could benefit from cross-links to new concept pages, clarification of which type of dualism is endorsed, and addressing additional objections the site's content now enables.
+**Areas for enhancement**: Could benefit from cross-links to new concept pages, clarification of which type of dualism is endorsed, and addressing additional objections the project's content now enables.
 
 ## Pessimistic Analysis
 
@@ -45,7 +45,7 @@ This is deliberately vague, covering both substance dualism (mind and matter are
 
 The tenets' other commitments (Bidirectional Interaction, Minimal Quantum Interaction) seem to lean toward a more robust form of dualism where consciousness has genuine causal power. Pure property dualism sometimes treats mental properties as causally inert.
 
-**Suggestion**: Consider clarifying that the site endorses something stronger than epiphenomenal property dualism—mental properties have genuine causal efficacy. This might be called "interactionist property dualism" or could be framed as accepting substance dualism's causal claims while remaining agnostic about whether there's a separate mental substance.
+**Suggestion**: Consider clarifying that the project endorses something stronger than epiphenomenal property dualism—mental properties have genuine causal efficacy. This might be called "interactionist property dualism" or could be framed as accepting substance dualism's causal claims while remaining agnostic about whether there's a separate mental substance.
 
 ### Issue 2: Decoherence Objection Not Addressed
 **Severity**: Medium
@@ -53,7 +53,7 @@ The tenets' other commitments (Bidirectional Interaction, Minimal Quantum Intera
 
 The document anticipates "quantum woo" objections but doesn't address the decoherence objection: quantum superpositions decohere extremely rapidly in warm, wet environments like brains. Tegmark calculated decoherence times on the order of 10^-13 seconds for neural processes—far too fast for macroscopic quantum effects to matter.
 
-The site now has content on quantum mechanics and consciousness (retrocausality article, Penrose-Hameroff in research notes) that could support a response.
+the project now has content on quantum mechanics and consciousness (retrocausality article, Penrose-Hameroff in research notes) that could support a response.
 
 **Possible responses to mention**:
 1. The question isn't whether coherence persists but whether consciousness influences which classical state emerges
@@ -99,7 +99,7 @@ This isn't a grab-bag of claims but a thought-through position.
 ### Strength 3: Anticipates Objections
 - "Not to be confused with quantum woo" preempts the most common dismissal
 - The epiphenomenalism response is developed at length
-- "Rules out" sections make clear what the site rejects
+- "Rules out" sections make clear what the project rejects
 
 ### Strength 4: "Rules Out" Clarity
 Each tenet explicitly states what it excludes. This makes the framework falsifiable and shows intellectual honesty about its commitments.
@@ -131,10 +131,10 @@ Add to Minimal Quantum Interaction:
 ### Enhancement 3: Clarify Dualism Type
 Add to Dualism definition:
 
-> The site remains agnostic about whether this requires a separate mental substance (substance dualism) or whether the physical can have irreducibly mental properties (property dualism). What matters is that mental properties have genuine causal efficacy—the site rejects any view where consciousness is causally inert.
+> the project remains agnostic about whether this requires a separate mental substance (substance dualism) or whether the physical can have irreducibly mental properties (property dualism). What matters is that mental properties have genuine causal efficacy—the project rejects any view where consciousness is causally inert.
 
 ### Enhancement 4: Add Section Links to Index
-Consider adding anchor links to the site index or tenets section for easy navigation to specific tenets.
+Consider adding anchor links to the project index or tenets section for easy navigation to specific tenets.
 
 ## Quality Metrics
 

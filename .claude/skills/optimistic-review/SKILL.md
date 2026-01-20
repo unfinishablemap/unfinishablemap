@@ -27,7 +27,7 @@ Otherwise, review all non-draft content in:
 
 ### 2. Multi-Perspective Strength Analysis
 
-Review the content from perspectives of philosophers who would be sympathetic to or aligned with the site's tenets. For each, adopt their worldview and identify what resonates.
+Review the content from perspectives of philosophers who would be sympathetic to or aligned with the project's tenets. For each, adopt their worldview and identify what resonates.
 
 #### Supportive Personas
 

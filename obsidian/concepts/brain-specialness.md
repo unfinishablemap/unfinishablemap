@@ -37,7 +37,7 @@ This question has two parts. First, what features does a physical system need to
 
 ## Five Criteria for an Interface
 
-Drawing on the site's [[filter-theory|filter]] and [[quantum-consciousness|quantum selection]] frameworks, a physical system can serve as a consciousness interface only if it meets five criteria:
+Drawing on the project's [[filter-theory|filter]] and [[quantum-consciousness|quantum selection]] frameworks, a physical system can serve as a consciousness interface only if it meets five criteria:
 
 ### 1. Quantum Sensitivity
 
@@ -57,7 +57,7 @@ The brain isn't merely quantum in the trivial sense that everything is quantum. 
 
 The system must support internal representations—states that stand for possibilities, model outcomes, encode alternatives.
 
-Consciousness on the site's framework doesn't cause arbitrary physical effects; it selects among represented alternatives. This requires a system that represents alternatives in the first place. You cannot choose between A and B unless A and B are somehow encoded as options.
+Consciousness on the project's framework doesn't cause arbitrary physical effects; it selects among represented alternatives. This requires a system that represents alternatives in the first place. You cannot choose between A and B unless A and B are somehow encoded as options.
 
 Neural systems are representational engines. They model:
 - Motor plans before execution
@@ -79,7 +79,7 @@ Systems without attention mechanisms cannot implement Zeno-style selection. A th
 
 The system must integrate outcomes back into representations—closing the loop between action and perception, selection and consequence.
 
-On the site's framework, consciousness doesn't blindly poke at quantum events. It selects goal-directedly, which requires knowing what goals are being pursued and whether selection succeeded. This requires feedback: sensory systems that report outcomes, comparison mechanisms that evaluate success, adjustment processes that update representations.
+On the project's framework, consciousness doesn't blindly poke at quantum events. It selects goal-directedly, which requires knowing what goals are being pursued and whether selection succeeded. This requires feedback: sensory systems that report outcomes, comparison mechanisms that evaluate success, adjustment processes that update representations.
 
 Neural systems have extensive feedback architecture:
 - Motor efference copies predict action outcomes
@@ -121,7 +121,7 @@ Why did evolution produce systems suitable for consciousness interfaces? Two pos
 
 **Option 2: Evolution created the conditions for consciousness**. Consciousness requires certain physical structures. Evolution built those structures for other reasons (representation, flexibility, feedback). Once in place, consciousness emerged or attached. Evolution then optimized based on the combined system.
 
-The site doesn't commit between these options. Both explain why brains are special: either they're good receivers of independent consciousness, or they're the substrate on which consciousness depends. Either way, evolution shaped them to have the features the interface requires.
+the project doesn't commit between these options. Both explain why brains are special: either they're good receivers of independent consciousness, or they're the substrate on which consciousness depends. Either way, evolution shaped them to have the features the interface requires.
 
 ## What This Explains
 
@@ -139,7 +139,7 @@ Brain specialness explains several puzzling features:
 
 **"These criteria seem suspiciously tailored to brains."**
 
-The criteria derive from the site's framework (filter theory + quantum selection), not from a desire to explain brain specialness. Filter theory requires something to filter (representational structure). Quantum selection requires quantum sensitivity and attention-like mechanisms. Bidirectional interaction requires feedback. The pairing problem requires developmental history. The criteria follow from the framework; that they pick out brains is a consequence, not the starting point.
+The criteria derive from the project's framework (filter theory + quantum selection), not from a desire to explain brain specialness. Filter theory requires something to filter (representational structure). Quantum selection requires quantum sensitivity and attention-like mechanisms. Bidirectional interaction requires feedback. The pairing problem requires developmental history. The criteria follow from the framework; that they pick out brains is a consequence, not the starting point.
 
 **"Thermostats have feedback—why aren't they conscious interfaces?"**
 
@@ -151,7 +151,7 @@ The criteria are matters of degree. Complex nervous systems meet the criteria mo
 
 **"This doesn't explain why these criteria matter for consciousness specifically."**
 
-Correct. The criteria explain what makes something a *suitable interface*—they don't explain why consciousness exists in the first place or why these criteria rather than others matter. That would require solving the [[hard-problem-of-consciousness|hard problem]]. The site remains agnostic on ultimate origins while being specific about interface requirements.
+Correct. The criteria explain what makes something a *suitable interface*—they don't explain why consciousness exists in the first place or why these criteria rather than others matter. That would require solving the [[hard-problem-of-consciousness|hard problem]]. the project remains agnostic on ultimate origins while being specific about interface requirements.
 
 ## The Illusionist Challenge
 
@@ -161,7 +161,7 @@ Correct. The criteria explain what makes something a *suitable interface*—they
 
 First, the five criteria describe features that make certain physical systems suitable for behavioural control regardless of whether one accepts phenomenal consciousness. Representational structure, attention mechanisms, and feedback integration matter for sophisticated adaptive behaviour whether or not that behaviour is accompanied by subjective experience. If illusionists are right, brains are still "special" in the functional sense—they're where the illusion occurs.
 
-Second, [[illusionism]] faces its own explanatory burden. The "illusion" of phenomenal consciousness must itself be explained—and this illusion problem may be as difficult as the hard problem it was meant to dissolve. As Raymond Tallis observes, "Misrepresentation presupposes presentation"—to be under an illusion, something must be experiencing the illusion. The site holds that this regress reveals phenomenal consciousness as ineliminable. But even if one disagrees, the criteria offered here describe where the "illusion machinery" would have to operate. Illusionism doesn't make the question of brain specialness go away; it reframes it as "what makes certain physical systems generate compelling illusions of consciousness?" The answer would invoke the same criteria: representational structure, metacognitive monitoring, feedback integration.
+Second, [[illusionism]] faces its own explanatory burden. The "illusion" of phenomenal consciousness must itself be explained—and this illusion problem may be as difficult as the hard problem it was meant to dissolve. As Raymond Tallis observes, "Misrepresentation presupposes presentation"—to be under an illusion, something must be experiencing the illusion. the project holds that this regress reveals phenomenal consciousness as ineliminable. But even if one disagrees, the criteria offered here describe where the "illusion machinery" would have to operate. Illusionism doesn't make the question of brain specialness go away; it reframes it as "what makes certain physical systems generate compelling illusions of consciousness?" The answer would invoke the same criteria: representational structure, metacognitive monitoring, feedback integration.
 
 The key point: the criteria are independent of the illusionism debate. They describe what evolution built that permits sophisticated cognition—whether that cognition involves genuine phenomenal consciousness or elaborate self-misrepresentation.
 
@@ -237,7 +237,7 @@ This complements [[interface-locality]], which explains why consciousness *doesn
 - [[quantum-consciousness]] — Quantum selection mechanisms
 - [[attention]] — How attention implements observation
 - [[attention-as-interface]] — The quantum Zeno mechanism for mind-body interaction
-- [[illusionism]] — The eliminativist challenge and the site's response
+- [[illusionism]] — The eliminativist challenge and the project's response
 - [[decoherence]] — The decoherence objection and why it doesn't solve the measurement problem
 - [[introspection]] — First-person access to consciousness and its reliability
 - [[quantum-biology]] — Evidence that biology can harness quantum effects

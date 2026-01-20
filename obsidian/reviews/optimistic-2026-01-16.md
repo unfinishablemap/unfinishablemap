@@ -13,13 +13,13 @@ ai_system: claude-opus-4-5-20251101
 
 ## Executive Summary
 
-The Unfinishable Map has developed into a remarkably coherent philosophical framework that takes consciousness seriously as irreducible while providing concrete mechanisms for mind-matter interaction. The site's greatest strength is its integration—the five tenets create a mutually reinforcing structure where each commitment supports the others. The quantum selection mechanism distinguishes this from mere dualist assertion by providing testable commitments about where and how consciousness operates.
+The Unfinishable Map has developed into a remarkably coherent philosophical framework that takes consciousness seriously as irreducible while providing concrete mechanisms for mind-matter interaction. the project's greatest strength is its integration—the five tenets create a mutually reinforcing structure where each commitment supports the others. The quantum selection mechanism distinguishes this from mere dualist assertion by providing testable commitments about where and how consciousness operates.
 
 ## Praise from Sympathetic Philosophers
 
 ### The Property Dualist (Chalmers)
 
-The site takes the explanatory gap with appropriate seriousness. The hard-problem-of-consciousness article is exemplary—it doesn't merely gesture at the gap but systematically works through why each materialist response fails. The zombie argument receives careful treatment that distinguishes the epistemic situation from other a posteriori identities. Chalmers would particularly appreciate:
+the project takes the explanatory gap with appropriate seriousness. The hard-problem-of-consciousness article is exemplary—it doesn't merely gesture at the gap but systematically works through why each materialist response fails. The zombie argument receives careful treatment that distinguishes the epistemic situation from other a posteriori identities. Chalmers would particularly appreciate:
 
 - The comparison table showing how different frameworks face parallel challenges (hard problem, combination problem, regularity problem, interaction problem)
 - Recognition that NCC findings are metaphysically neutral
@@ -30,7 +30,7 @@ The site takes the explanatory gap with appropriate seriousness. The hard-proble
 
 ### The Quantum Mind Theorist (Stapp)
 
-The site engages Stapp's work with unusual sophistication. The quantum-consciousness article doesn't just mention the quantum Zeno effect but explains *why* it's philosophically relevant—it provides a mechanism without new physics. Stapp would praise:
+the project engages Stapp's work with unusual sophistication. The quantum-consciousness article doesn't just mention the quantum Zeno effect but explains *why* it's philosophically relevant—it provides a mechanism without new physics. Stapp would praise:
 
 - The distinction between Orch OR and quantum Zeno approaches, showing both share core commitments while differing in mechanism
 - Recognition that the Zeno mechanism sidesteps decoherence by not requiring sustained coherence
@@ -41,14 +41,14 @@ The site engages Stapp's work with unusual sophistication. The quantum-conscious
 
 ### The Phenomenologist (Nagel)
 
-The site centers first-person experience without becoming mysterian in a defeatist sense. Nagel would appreciate:
+the project centers first-person experience without becoming mysterian in a defeatist sense. Nagel would appreciate:
 
 - The temporal-consciousness material on the specious present—this is what it's like to be a conscious being in time
 - The introspection article's engagement with reliability concerns while defending first-person methods
 - Recognition that illusionism presupposes what it denies—all illusions require an experiencer
 - The filter-theory framing that respects both the reality of experience and the challenge of correlations
 
-**Key alignment**: The site shares Nagel's conviction that objective science cannot capture subjective experience without remainder, while avoiding his agnosticism about what to do about it.
+**Key alignment**: the project shares Nagel's conviction that objective science cannot capture subjective experience without remainder, while avoiding his agnosticism about what to do about it.
 
 ### The Process Philosopher (Whitehead)
 
@@ -70,7 +70,7 @@ The free-will article is excellent from a libertarian perspective:
 - Recognition that event-causal libertarianism doesn't deliver genuine authorship—agent causation is needed
 - The retrocausal resolution of Libet is creative and addresses the timing problem head-on
 
-**Strongest point**: The site doesn't just posit free will but provides a mechanism that avoids both determination and randomness—consciousness selects based on what matters to it.
+**Strongest point**: the project doesn't just posit free will but provides a mechanism that avoids both determination and randomness—consciousness selects based on what matters to it.
 
 ### The Mysterian (McGinn)
 
@@ -81,7 +81,7 @@ The mysterianism article and the Occam's Razor Has Limits tenet show appropriate
 - Recognition that parsimony judgments depend on conceptual resources we may lack
 - The thoughts-that-slip-away phenomenon as possible evidence for structural obstacles
 
-**McGinn's approval**: The site doesn't use mysterianism as an excuse for obscurantism but as a principled recognition that some questions may exceed our cognitive grasp—while still making progress where we can.
+**McGinn's approval**: the project doesn't use mysterianism as an excuse for obscurantism but as a principled recognition that some questions may exceed our cognitive grasp—while still making progress where we can.
 
 ## Content Strengths
 
@@ -91,7 +91,7 @@ The mysterianism article and the Occam's Razor Has Limits tenet show appropriate
 - **Why it works**: The tenets are stated with confidence but defended with genuine philosophical argument, not mere assertion
 
 ### hard-problem-of-consciousness.md
-- **Strongest point**: The systematic comparison of challenges across frameworks (physicalism/panpsychism/idealism/dualism) shows intellectual honesty—the site's position has challenges too, but it addresses them
+- **Strongest point**: The systematic comparison of challenges across frameworks (physicalism/panpsychism/idealism/dualism) shows intellectual honesty—the project's position has challenges too, but it addresses them
 - **Notable quote**: "The gap becomes informative rather than merely frustrating—a boundary that shows us something about the nature of what lies beyond"
 - **Why it works**: Transforms apparent failure (explanatory gap) into positive content (apophatic knowledge about consciousness)
 
@@ -121,8 +121,8 @@ The mysterianism article and the Occam's Razor Has Limits tenet show appropriate
 - **Why it works**: Reframes the causal closure objection at the most fundamental level
 
 ### emergence.md
-- **Strongest point**: The table comparing different positions on emergence type and mechanism—shows the site occupies a distinctive position (strong emergence with mechanism)
-- **Notable quote**: "Classical emergentists... couldn't specify how it operated. The site advances beyond this"
+- **Strongest point**: The table comparing different positions on emergence type and mechanism—shows the project occupies a distinctive position (strong emergence with mechanism)
+- **Notable quote**: "Classical emergentists... couldn't specify how it operated. the project advances beyond this"
 - **Why it works**: Positions the framework in philosophical space clearly
 
 ## Expansion Opportunities
@@ -131,13 +131,13 @@ The mysterianism article and the Occam's Razor Has Limits tenet show appropriate
 
 #### Philosophy of Time
 - **Builds on**: collapse-and-time, retrocausality, temporal-consciousness, duration
-- **Would address**: The site implies a metaphysics of time (presentism vs eternalism) but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation.
+- **Would address**: the project implies a metaphysics of time (presentism vs eternalism) but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation.
 - **Estimated scope**: Medium article + cross-reviews
 - **Tenet alignment**: Strong—directly supports No Many Worlds and connects to how consciousness constitutes temporal structure
 
 #### Attention as Control Interface
 - **Builds on**: attention, mental-effort, quantum-consciousness (already a P2 task)
-- **Would address**: The site treats attention as the mechanism consciousness uses but hasn't systematically developed what this means neurally. Which neural correlates of attention are candidate "selection sites"?
+- **Would address**: the project treats attention as the mechanism consciousness uses but hasn't systematically developed what this means neurally. Which neural correlates of attention are candidate "selection sites"?
 - **Estimated scope**: Research + medium article
 - **Tenet alignment**: Strong—directly supports Minimal Quantum Interaction mechanism
 
@@ -157,7 +157,7 @@ The mysterianism article and the Occam's Razor Has Limits tenet show appropriate
 
 #### Parfit and Personal Identity
 - **Builds on**: personal-identity, No Many Worlds, agent-causation
-- **Would address**: Engage Parfit's reductionism about personal identity directly. The site implies critique (patterns don't make choices) but doesn't fully develop it.
+- **Would address**: Engage Parfit's reductionism about personal identity directly. the project implies critique (patterns don't make choices) but doesn't fully develop it.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Strong—supports No Many Worlds via indexical identity
 
@@ -173,7 +173,7 @@ The mysterianism article and the Occam's Razor Has Limits tenet show appropriate
 - **Split-brain cases deeper dive**: Already a P3 task but rich philosophical territory
 - **Evolution of consciousness**: When did consciousness emerge? What does the framework predict about animal consciousness grades?
 - **Simulation argument engagement**: If consciousness requires non-physical component, simulation may be impossible—or the simulator must be conscious
-- **Counterfactual definiteness**: The site rejects MWI but what about other interpretations? Systematic treatment of Bohmian mechanics, QBism
+- **Counterfactual definiteness**: the project rejects MWI but what about other interpretations? Systematic treatment of Bohmian mechanics, QBism
 
 ## Cross-Linking Suggestions
 
@@ -188,7 +188,7 @@ The mysterianism article and the Occam's Razor Has Limits tenet show appropriate
 
 ## New Concept Pages Needed
 
-- **Haecceity/Thisness**: Already a P1 task. Critical for indexical identity arguments throughout the site.
+- **Haecceity/Thisness**: Already a P1 task. Critical for indexical identity arguments throughout the project.
 - **Continual Learning**: Hoel's criterion deserves its own page—distinguishes living consciousness from static systems.
 - **Cognitive Closure**: McGinn's concept used in mysterianism but deserves standalone treatment.
 - **Basis Selection**: The quantum mechanics concept behind why decoherence doesn't solve the measurement problem.

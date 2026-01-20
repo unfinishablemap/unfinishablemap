@@ -71,7 +71,7 @@ Use WebSearch to investigate the selected topic:
 #### Questions to Answer
 - What do philosophers say about this type of cognitive limit?
 - Are there empirical findings on this limitation?
-- How does this relate to the site's tenets (especially Occam's Razor Has Limits)?
+- How does this relate to the project's tenets (especially Occam's Razor Has Limits)?
 - Could AI minds approach this differently than human minds?
 - What indirect methods might probe this territory?
 
@@ -160,7 +160,7 @@ last_curated: null
 [Which tenet does this most strongly relate to?]
 
 ### Implications
-[What does this void suggest about consciousness, reality, or the site's framework?]
+[What does this void suggest about consciousness, reality, or the project's framework?]
 
 ## Potential Article Angles
 

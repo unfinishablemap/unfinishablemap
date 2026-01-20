@@ -30,7 +30,7 @@ last_curated: null
 
 ## Executive Summary
 
-Neurophenomenology, pioneered by Francisco Varela (1946-2001), provides a rigorous methodology for integrating first-person phenomenological reports with third-person neuroscience. Building on Varela's insight that consciousness research requires "mutual constraints" between subjective experience and neural data, recent advances (2024-2025) have developed sophisticated frameworks including "deep computational neurophenomenology" using Bayesian mechanics and "generative neurophenomenology" emphasizing intersubjective dimensions. Contemplative traditions, particularly Buddhist meditation, offer systematic training for first-person observation. Recent neuroscience of advanced meditation (jhana states, non-dual awareness, cessation experiences) reveals that consciousness has structures accessible only through trained introspection—structures that remain invisible to third-person methods alone. This strongly supports the site's Dualism and Occam's Razor Has Limits tenets: first-person data cannot be eliminated or reduced to physical descriptions.
+Neurophenomenology, pioneered by Francisco Varela (1946-2001), provides a rigorous methodology for integrating first-person phenomenological reports with third-person neuroscience. Building on Varela's insight that consciousness research requires "mutual constraints" between subjective experience and neural data, recent advances (2024-2025) have developed sophisticated frameworks including "deep computational neurophenomenology" using Bayesian mechanics and "generative neurophenomenology" emphasizing intersubjective dimensions. Contemplative traditions, particularly Buddhist meditation, offer systematic training for first-person observation. Recent neuroscience of advanced meditation (jhana states, non-dual awareness, cessation experiences) reveals that consciousness has structures accessible only through trained introspection—structures that remain invisible to third-person methods alone. This strongly supports the project's Dualism and Occam's Razor Has Limits tenets: first-person data cannot be eliminated or reduced to physical descriptions.
 
 ## Key Sources
 
@@ -246,7 +246,7 @@ Based on this research, an article on neurophenomenology could:
 
 3. **Focus on advanced states**: Jhana, cessation, non-dual awareness as data for consciousness theories. Challenges materialist accounts while requiring careful interpretation.
 
-The writing style guide's LLM-first principle suggests front-loading the core insight: neurophenomenology demonstrates that rigorous first-person investigation is necessary for consciousness science, not merely supplementary. This directly supports the site's anti-reductionist framework.
+The writing style guide's LLM-first principle suggests front-loading the core insight: neurophenomenology demonstrates that rigorous first-person investigation is necessary for consciousness science, not merely supplementary. This directly supports the project's anti-reductionist framework.
 
 ## Citations
 

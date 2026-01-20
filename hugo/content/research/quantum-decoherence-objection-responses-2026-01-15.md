@@ -156,11 +156,11 @@ Recent experimental findings (2025):
 
 2. **Does coherence serve consciousness?** Even if quantum coherence occurs in neurons, it might not be causally relevant to experience.
 
-3. **What timescales does consciousness require?** The site's Minimal Quantum Interaction tenet requires only that consciousness bias quantum outcomes—not necessarily that it maintain large-scale coherence.
+3. **What timescales does consciousness require?** the project's Minimal Quantum Interaction tenet requires only that consciousness bias quantum outcomes—not necessarily that it maintain large-scale coherence.
 
-### Strengthening the Site's Position
+### Strengthening the project's Position
 
-The site could emphasize:
+the project could emphasize:
 
 1. **Minimal intervention**: The tenet specifies *minimal* quantum interaction. Consciousness needn't maintain coherent superpositions—it needs only to bias collapse outcomes at individual measurement events.
 

@@ -75,9 +75,9 @@ The slime mold case divides researchers sharply:
 
 **Skeptics** maintain these behaviors are biochemical reactions, however sophisticated. Maze-solving follows nutrient gradients; no phenomenal experience is required.
 
-For the site's framework, slime molds present a puzzle. If [quantum effects in microtubules](/concepts/quantum-consciousness/) provide the interface for consciousness, organisms without neurons (and thus without microtubules) shouldn't exhibit cognitive behaviors—yet they do. This suggests either that quantum neural interfaces are sufficient but not necessary for cognition, or that cognition and consciousness can fully dissociate.
+For the project's framework, slime molds present a puzzle. If [quantum effects in microtubules](/concepts/quantum-consciousness/) provide the interface for consciousness, organisms without neurons (and thus without microtubules) shouldn't exhibit cognitive behaviors—yet they do. This suggests either that quantum neural interfaces are sufficient but not necessary for cognition, or that cognition and consciousness can fully dissociate.
 
-The [decoherence objection](/concepts/decoherence/)—that quantum coherence cannot survive in warm biological systems—applies differently to organisms of varying complexity. In single-celled organisms without neurons, the question of quantum consciousness interfaces may not arise at all. Slime molds may process information through entirely classical biochemical mechanisms while lacking the quantum-coherent structures that, on the site's view, enable consciousness to interface with matter. This would explain sophisticated cognition without phenomenal experience.
+The [decoherence objection](/concepts/decoherence/)—that quantum coherence cannot survive in warm biological systems—applies differently to organisms of varying complexity. In single-celled organisms without neurons, the question of quantum consciousness interfaces may not arise at all. Slime molds may process information through entirely classical biochemical mechanisms while lacking the quantum-coherent structures that, on the project's view, enable consciousness to interface with matter. This would explain sophisticated cognition without phenomenal experience.
 
 ## The Unlimited Associative Learning Framework
 
@@ -101,13 +101,13 @@ Why do some organisms have consciousness and others not? This is the *distributi
 
 **For panpsychists:** If proto-consciousness is fundamental, there is no distribution problem for *whether* organisms are conscious—all are, to some degree. But the [combination problem](/concepts/combination-problem/) remains: how do micro-experiences in simple organisms (or their components) combine into unified phenomenal fields?
 
-**For dualists:** The question becomes: where does consciousness *interface* rather than where does it *emerge*? The site's framework suggests consciousness is fundamental but interfaces with matter only where appropriate physical structures exist—perhaps quantum-coherent neural systems, perhaps other substrates. Simple organisms help map the interface conditions.
+**For dualists:** The question becomes: where does consciousness *interface* rather than where does it *emerge*? the project's framework suggests consciousness is fundamental but interfaces with matter only where appropriate physical structures exist—perhaps quantum-coherent neural systems, perhaps other substrates. Simple organisms help map the interface conditions.
 
 ## The Illusionist Challenge
 
 [Illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an introspective illusion—might seem to dissolve the minimal consciousness debate entirely. If there is no "what it's like" even in humans, the question of whether nematodes or Hydra have experience becomes vacuous. On this view, we should ask only about functional capacities, not about phenomenal properties that don't exist.
 
-The site rejects illusionism for reasons detailed on its [dedicated page](/concepts/illusionism/), but the minimal consciousness literature provides a specific response: **the illusion problem scales with complexity**.
+the project rejects illusionism for reasons detailed on its [dedicated page](/concepts/illusionism/), but the minimal consciousness literature provides a specific response: **the illusion problem scales with complexity**.
 
 If consciousness is an illusion, the brain generates systematic misrepresentations that *seem* phenomenal. But this illusion-generating machinery presumably requires some neural complexity. A 302-neuron system like *C. elegans* seems an implausible candidate for generating the sophisticated introspective misrepresentations illusionism requires. Either the worm is not under the illusion of consciousness (in which case there's a threshold for the illusion, raising the same questions as thresholds for consciousness itself), or the illusion requires far less machinery than consciousness realists assume (raising the question of why evolution would build elaborate illusion-generators at such minimal complexity).
 
@@ -127,13 +127,13 @@ The simple organism literature reveals how little we understand about consciousn
 
 ## Relation to Site Perspective
 
-**Dualism**: The hard problem applies equally to nematodes and humans. If we cannot explain how 86 billion neurons produce experience, we cannot explain how 302 neurons do either. The failure is not about complexity but about the fundamental nature of consciousness. This supports the site's position that consciousness is irreducible to physical processes—the explanatory gap is not a puzzle awaiting solution but a marker of category difference.
+**Dualism**: The hard problem applies equally to nematodes and humans. If we cannot explain how 86 billion neurons produce experience, we cannot explain how 302 neurons do either. The failure is not about complexity but about the fundamental nature of consciousness. This supports the project's position that consciousness is irreducible to physical processes—the explanatory gap is not a puzzle awaiting solution but a marker of category difference.
 
 **Minimal Quantum Interaction**: The slime mold case challenges quantum-neural accounts. If consciousness interfaces with matter through quantum effects in microtubules, non-neural cognition is puzzling. Resolution: quantum effects may be sufficient for consciousness but not necessary for cognition. Slime molds process information without phenomenal experience; neural organisms with the right quantum-coherent structures both process information and interface with consciousness.
 
 **Bidirectional Interaction**: The UAL framework strongly supports the view that consciousness is adaptive. If consciousness were epiphenomenal—along for the ride but causally inert—its correlation with flexible, unlimited learning would be inexplicable. Why would evolution produce epiphenomenal consciousness precisely where behavioral flexibility is greatest? The simpler explanation: consciousness causally contributes to behavioral flexibility, which is why they correlate.
 
-**No Many Worlds**: If the Many-Worlds Interpretation were correct, every possible outcome of quantum measurements would be realised in some branch. But this dissolves rather than addresses the question of minimal consciousness. In MWI, there are branches where *C. elegans* exhibits consciousness-indicating behaviours and branches where it doesn't—all equally real. The question "is this worm conscious?" has no determinate answer because "this worm" fragments across branches. The site's rejection of MWI preserves the coherence of asking about particular organisms. Real collapse means definite facts about which organisms are conscious, even if we cannot determine those facts from outside.
+**No Many Worlds**: If the Many-Worlds Interpretation were correct, every possible outcome of quantum measurements would be realised in some branch. But this dissolves rather than addresses the question of minimal consciousness. In MWI, there are branches where *C. elegans* exhibits consciousness-indicating behaviours and branches where it doesn't—all equally real. The question "is this worm conscious?" has no determinate answer because "this worm" fragments across branches. the project's rejection of MWI preserves the coherence of asking about particular organisms. Real collapse means definite facts about which organisms are conscious, even if we cannot determine those facts from outside.
 
 **Occam's Razor Has Limits**: The New York Declaration explicitly rejects requiring certainty before moral consideration—"if there's a realistic possibility of conscious experience in an animal, it is irresponsible to ignore that possibility." Parsimony cannot settle questions about consciousness distribution. The simplest theory (no consciousness in invertebrates) may be wrong, and the stakes of being wrong are moral stakes.
 
@@ -151,21 +151,21 @@ This framework reinterprets the minimal consciousness question:
 
 **The combination problem reframes**: The difficulty shifts from "how does consciousness appear from non-consciousness?" to "how do micro-occasions combine into unified experience?" This is the [combination problem](/concepts/combination-problem/)—still challenging, but perhaps more tractable than explaining consciousness from nothing.
 
-This perspective doesn't commit the site to full Whiteheadian metaphysics. But it shows that the minimal consciousness debate need not be framed as finding a threshold where the lights turn on. Alternative frameworks accommodate gradations of experiential complexity that may better fit the biological evidence.
+This perspective doesn't commit the project to full Whiteheadian metaphysics. But it shows that the minimal consciousness debate need not be framed as finding a threshold where the lights turn on. Alternative frameworks accommodate gradations of experiential complexity that may better fit the biological evidence.
 
 ## What Would Challenge This View?
 
-The site's perspective on minimal consciousness would be undermined if:
+the project's perspective on minimal consciousness would be undermined if:
 
 1. **Complete neural mapping revealed consciousness mechanisms**: If mapping *C. elegans* completely eventually enabled us to determine whether it experiences anything—through some property we currently don't measure—this would challenge the claim that structural knowledge cannot bridge the explanatory gap. Currently, complete connectome knowledge tells us nothing about phenomenal facts.
 
-2. **UAL proved necessary and sufficient for consciousness**: If the Unlimited Associative Learning framework turned out to be both necessary (nothing below the threshold is conscious) and sufficient (everything above is conscious), the threshold would be empirically determined. This would support certain functionalist approaches over the site's dualism. Currently, UAL is a marker, not a mechanism.
+2. **UAL proved necessary and sufficient for consciousness**: If the Unlimited Associative Learning framework turned out to be both necessary (nothing below the threshold is conscious) and sufficient (everything above is conscious), the threshold would be empirically determined. This would support certain functionalist approaches over the project's dualism. Currently, UAL is a marker, not a mechanism.
 
 3. **Illusionism explained minimal complexity illusions**: If illusionists provided a compelling account of how the illusion of consciousness could be generated by 302 neurons—or why the illusion doesn't extend to such systems—this would address the scaling challenge. Currently, the illusion problem seems to require substantial meta-representational machinery.
 
 4. **Panpsychism solved the combination problem**: If panpsychists developed a compelling account of how micro-experiences combine into unified consciousness, their dissolution of the emergence question would become more attractive. The minimal consciousness cases would become questions about integration rather than presence. Currently, the combination problem remains as difficult as the hard problem.
 
-5. **Quantum effects proved irrelevant to consciousness**: If definitive experiments ruled out quantum involvement in consciousness (perhaps through quantum biology ruling out relevant coherence in neural tissue), the site's mechanism for consciousness-matter interface would require revision. The broader claim—consciousness is irreducible and the hard problem is real—might survive, but the specific quantum framework would not.
+5. **Quantum effects proved irrelevant to consciousness**: If definitive experiments ruled out quantum involvement in consciousness (perhaps through quantum biology ruling out relevant coherence in neural tissue), the project's mechanism for consciousness-matter interface would require revision. The broader claim—consciousness is irreducible and the hard problem is real—might survive, but the specific quantum framework would not.
 
 ## Further Reading
 

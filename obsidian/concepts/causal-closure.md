@@ -31,7 +31,7 @@ last_curated: null
 last_deep_review: 2026-01-20T00:00:00+00:00
 ---
 
-Causal closure of the physical is the thesis that every physical event that has a cause has a *sufficient* physical cause. If true, nothing outside the physical realm ever makes a causal difference to what happens physically. This principle underlies the most influential contemporary argument against [[interactionist-dualism]]—and this site's framework depends on its rejection.
+Causal closure of the physical is the thesis that every physical event that has a cause has a *sufficient* physical cause. If true, nothing outside the physical realm ever makes a causal difference to what happens physically. This principle underlies the most influential contemporary argument against [[interactionist-dualism]]—and this project's framework depends on its rejection.
 
 ## The Principle Stated
 
@@ -58,7 +58,7 @@ Jaegwon Kim's exclusion argument deploys causal closure against non-reductive ph
 
 For dualists who reject identity, the argument forces a choice: deny that mental events cause anything ([[epiphenomenalism]]), or deny causal closure.
 
-This site denies causal closure.
+this project denies causal closure.
 
 ## Why Causal Closure Seems Plausible
 
@@ -92,11 +92,11 @@ This matters for [[reductionism]]. If causal closure is an ontological thesis (a
 
 Moreover, the history of science shows unexpected discoveries that violated prior assumptions. That no violation has been found doesn't mean none exists—especially in domains (like consciousness) that resist physical investigation.
 
-To be clear: the site's position also involves metaphysical commitments beyond empirical evidence. The claim that consciousness fills quantum gaps is not more empirically supported than the claim that physics is complete. Both positions extrapolate from evidence to metaphysics. The question is which extrapolation better accounts for the full range of phenomena—including the existence of consciousness itself and its apparent causal efficacy.
+To be clear: the project's position also involves metaphysical commitments beyond empirical evidence. The claim that consciousness fills quantum gaps is not more empirically supported than the claim that physics is complete. Both positions extrapolate from evidence to metaphysics. The question is which extrapolation better accounts for the full range of phenomena—including the existence of consciousness itself and its apparent causal efficacy.
 
 ### The Quantum Exception
 
-This is the site's primary response: quantum mechanics violates causal closure as standardly formulated.
+This is the project's primary response: quantum mechanics violates causal closure as standardly formulated.
 
 In quantum mechanics, physical systems evolve deterministically under the Schrödinger equation—until measurement. At measurement, the system "collapses" from superposition to a definite state. Physics specifies the *probabilities* of outcomes but not *which* outcome occurs. The theory is fundamentally stochastic.
 
@@ -122,7 +122,7 @@ On this view, causal closure fails because organization adds something genuinely
 
 Classical British emergentists (Broad, Alexander) affirmed this position but lacked a mechanism. They accepted strong emergence with "natural piety"—brute facts to be acknowledged. This left their position vulnerable to Kim's exclusion argument.
 
-The site's quantum framework strengthens emergentism by specifying where and how emergent causation operates: at quantum indeterminacies, where physics provides probabilities but not outcomes. This transforms the emergentist response from mere assertion to a mechanism: consciousness fills a genuine gap in physical determination.
+the project's quantum framework strengthens emergentism by specifying where and how emergent causation operates: at quantum indeterminacies, where physics provides probabilities but not outcomes. This transforms the emergentist response from mere assertion to a mechanism: consciousness fills a genuine gap in physical determination.
 
 ### Arguments from Reason
 
@@ -136,13 +136,13 @@ The connection to [[free-will]] is immediate. If every physical event has a suff
 
 Some philosophers accept this and adopt compatibilism: free will just is acting on desires (whatever causes those desires). Others accept hard determinism: free will is an illusion.
 
-This site takes a different route. Quantum indeterminism means physical outcomes are not fully physically determined. If consciousness can bias which indeterminate outcome occurs, it can influence physical events in a way that's neither determined nor random. This provides what libertarian free will requires: genuine alternatives that consciousness selects among.
+this project takes a different route. Quantum indeterminism means physical outcomes are not fully physically determined. If consciousness can bias which indeterminate outcome occurs, it can influence physical events in a way that's neither determined nor random. This provides what libertarian free will requires: genuine alternatives that consciousness selects among.
 
-Critics raise the [[luck-objection|luck objection]]: if the outcome is undetermined, isn't it just random—arbitrary rather than free? The site's response: consciousness *selects* outcomes rather than merely receiving them. The difference between selection and randomness is precisely the difference between a mind acting and physics fluctuating. This isn't a gap in explanation but the place where explanation of a different kind—in terms of reasons, intentions, and phenomenal states—becomes appropriate.
+Critics raise the [[luck-objection|luck objection]]: if the outcome is undetermined, isn't it just random—arbitrary rather than free? the project's response: consciousness *selects* outcomes rather than merely receiving them. The difference between selection and randomness is precisely the difference between a mind acting and physics fluctuating. This isn't a gap in explanation but the place where explanation of a different kind—in terms of reasons, intentions, and phenomenal states—becomes appropriate.
 
-## Relation to This Site's Perspective
+## Relation to this project's Perspective
 
-This site *rejects* causal closure as a universal principle. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that physics is not causally complete at quantum indeterminacies. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness acts at these points.
+this project *rejects* causal closure as a universal principle. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that physics is not causally complete at quantum indeterminacies. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness acts at these points.
 
 This rejection is not arbitrary but principled:
 
@@ -152,7 +152,7 @@ This rejection is not arbitrary but principled:
 
 3. **Self-stultification** shows that denying mental causation undermines rational thought. If consciousness causes nothing, our beliefs about consciousness (including the belief in [[epiphenomenalism]]) are causally disconnected from actual experiences.
 
-The site doesn't claim certainty about *how* consciousness interfaces with quantum events—that remains an open empirical question addressed by [[quantum-consciousness|quantum consciousness research]]. But it holds that such interface is possible because causal closure fails where physics is fundamentally indeterminate.
+the project doesn't claim certainty about *how* consciousness interfaces with quantum events—that remains an open empirical question addressed by [[quantum-consciousness|quantum consciousness research]]. But it holds that such interface is possible because causal closure fails where physics is fundamentally indeterminate.
 
 ## The Coherence of Rejection
 
@@ -162,7 +162,7 @@ The answer: physics is *almost* complete. Quantum indeterminacies are tiny. The 
 
 What causal closure's failure allows is *small* deviations from purely physical expectations—deviations that could influence which of several superposed neural states becomes actual. These deviations would be statistically invisible in any physical measurement yet could make all the difference for agency and thought.
 
-This is not "god of the gaps" reasoning. It's recognition that physics *describes* a gap—the gap between quantum probabilities and definite outcomes—and asks what fills it. The site's answer: consciousness.
+This is not "god of the gaps" reasoning. It's recognition that physics *describes* a gap—the gap between quantum probabilities and definite outcomes—and asks what fills it. the project's answer: consciousness.
 
 ## Further Reading
 

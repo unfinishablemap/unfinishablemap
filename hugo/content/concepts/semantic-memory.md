@@ -27,7 +27,7 @@ topics:
 
 You know that Paris is the capital of France, that water freezes at 0°C, and that Napoleon lost at Waterloo. This knowledge is simply *available*—you don't mentally travel back to when you learned these facts. You don't re-experience sitting in geography class or reading a history book. The facts are just there, accessible without phenomenal replay. This is semantic memory, accompanied by what Endel Tulving called *noetic consciousness*: knowing without re-experiencing.
 
-Semantic memory matters for the site's framework because it raises a subtle version of the hard problem. Episodic memory's phenomenology is obvious—the vivid re-experiencing, the felt pastness, the double presence of self. Semantic memory seems more "computational"—mere fact storage and retrieval. But closer examination reveals that semantic retrieval has its own phenomenology: the frustration of tip-of-the-tongue states, the feeling of knowing, the qualitative character of understanding itself. If even factual knowledge involves irreducible phenomenology, then no domain of cognition is purely computational.
+Semantic memory matters for the project's framework because it raises a subtle version of the hard problem. Episodic memory's phenomenology is obvious—the vivid re-experiencing, the felt pastness, the double presence of self. Semantic memory seems more "computational"—mere fact storage and retrieval. But closer examination reveals that semantic retrieval has its own phenomenology: the frustration of tip-of-the-tongue states, the feeling of knowing, the qualitative character of understanding itself. If even factual knowledge involves irreducible phenomenology, then no domain of cognition is purely computational.
 
 ## Tulving's Framework: Three Forms of Consciousness
 
@@ -113,7 +113,7 @@ Semantic memory and noetic consciousness connect to several foundational commitm
 
 **Cognitive Phenomenology Connection**: This page complements [cognitive-phenomenology](/concepts/cognitive-phenomenology/). Semantic memory provides the empirical territory; cognitive phenomenology provides the philosophical framework. If liberalism about cognitive phenomenology is correct—if understanding itself has proprietary phenomenal character—then semantic memory is phenomenally rich despite lacking the vivid re-experiencing of episodic memory.
 
-The site adopts a qualified position: noetic consciousness involves genuine phenomenology, but it's subtler than autonoetic consciousness. Knowing has qualitative character—the TOT frustration, the FOK confidence, the satisfaction of understanding. These are real phenomenal states, not merely functional access to stored information. This extends the hard problem into semantic memory: explaining the neural correlates of semantic retrieval wouldn't explain why there's something it's like to know.
+the project adopts a qualified position: noetic consciousness involves genuine phenomenology, but it's subtler than autonoetic consciousness. Knowing has qualitative character—the TOT frustration, the FOK confidence, the satisfaction of understanding. These are real phenomenal states, not merely functional access to stored information. This extends the hard problem into semantic memory: explaining the neural correlates of semantic retrieval wouldn't explain why there's something it's like to know.
 
 ## Further Reading
 

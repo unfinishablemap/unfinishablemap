@@ -135,7 +135,7 @@ This explains why destroying brain regions destroys specific capacities (damaged
 
 ## Relation to Site Perspective
 
-The site's [tenets](/tenets/) include [dualism](/tenets/#dualism)—consciousness is not reducible to physical processes—and [bidirectional interaction](/tenets/#bidirectional-interaction)—consciousness causally influences the physical world. The division of faculties supports both.
+the project's [tenets](/tenets/) include [dualism](/tenets/#dualism)—consciousness is not reducible to physical processes—and [bidirectional interaction](/tenets/#bidirectional-interaction)—consciousness causally influences the physical world. The division of faculties supports both.
 
 **Dualism**: Qualia and phenomenal unity appear irreducibly mental. The binding problem's intractability after decades of research suggests the answer will not be found in neural mechanisms alone. The filter theory explains brain-consciousness correlation without identity.
 

@@ -107,7 +107,7 @@ Replenishment source breakdown (from state):
 2. P3 tasks are accumulating from optimistic reviews but not being promoted. This is by design—human approval needed.
 3. Research consumption is excellent—most research is being synthesized into articles quickly.
 
-**Assessment**: Queue health is excellent. The balance of task sources has shifted from gap analysis (67% in first tune) to a mix including external review and optimistic expansion. This reflects the site's maturation from building foundations to refinement and extension.
+**Assessment**: Queue health is excellent. The balance of task sources has shifted from gap analysis (67% in first tune) to a mix including external review and optimistic expansion. This reflects the project's maturation from building foundations to refinement and extension.
 
 **No automatic changes**: System functioning as designed.
 
@@ -127,7 +127,7 @@ Replenishment source breakdown (from state):
 
 **Assessment**: The system is successfully resolving raised issues. The decoherence objection—flagged in both early pessimistic reviews—was systematically addressed through research (session 99), cross-reviews (sessions 100-101), and integration into multiple articles. The MWI critique was strengthened with a dedicated argument page.
 
-Two new medium issues emerged in the latest pessimistic review (Born rule, property dualism pairing). These represent normal philosophical discourse rather than system failures—the site is engaging sophisticated counterarguments.
+Two new medium issues emerged in the latest pessimistic review (Born rule, property dualism pairing). These represent normal philosophical discourse rather than system failures—the project is engaging sophisticated counterarguments.
 
 **No automatic changes**: Issue resolution is working. New issues are being identified and queued appropriately.
 
@@ -153,7 +153,7 @@ Progress trajectory (selected checkpoints):
 
 **Assessment**: Original convergence targets have been exceeded substantially. The concepts section grew from 8 to 58—nearly 4x the original target. This reflects natural scope expansion as the framework developed depth. Quality metrics remain within targets (0 critical, 3 medium).
 
-**Recommendation**: Consider whether convergence targets should be updated for the next phase of development, or whether the site is approaching completion of its initial scope.
+**Recommendation**: Consider whether convergence targets should be updated for the next phase of development, or whether the project is approaching completion of its initial scope.
 
 ## Changes Applied (Tier 1)
 
@@ -188,7 +188,7 @@ Progress trajectory (selected checkpoints):
 ### 3. Address Dennett Zombie Response Pattern
 
 - **Proposed change**: Create P2 task to strengthen engagement with Dennett's conceivability critique
-- **Rationale**: This issue has been flagged in two consecutive pessimistic reviews (2026-01-13, 2026-01-16). While not blocking, it represents a gap in the site's engagement with a major critic.
+- **Rationale**: This issue has been flagged in two consecutive pessimistic reviews (2026-01-13, 2026-01-16). While not blocking, it represents a gap in the project's engagement with a major critic.
 - **Risk**: Low
 - **To approve**: Add to todo.md Active Tasks
 

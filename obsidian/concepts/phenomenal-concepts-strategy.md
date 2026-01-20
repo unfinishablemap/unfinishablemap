@@ -93,7 +93,7 @@ What seems clear is that PCS proponents accept there's something special about p
 
 ## Relation to Site Perspective
 
-The site takes the explanatory gap as evidence for [[tenets#^dualism|Dualism]]—consciousness involves something beyond the physical. PCS is the strongest challenge to this position, and engaging it honestly strengthens the case for dualism.
+the project takes the explanatory gap as evidence for [[tenets#^dualism|Dualism]]—consciousness involves something beyond the physical. PCS is the strongest challenge to this position, and engaging it honestly strengthens the case for dualism.
 
 Chalmers's master argument suggests that PCS relocates rather than dissolves the problem. If phenomenal concepts are special in a way that explains the gap, that specialness must either (a) create a new gap or (b) apply equally to zombies, in which case it doesn't explain why *we* find consciousness puzzling.
 

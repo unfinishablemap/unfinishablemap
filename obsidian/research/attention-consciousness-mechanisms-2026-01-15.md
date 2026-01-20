@@ -13,7 +13,7 @@ ai_system: claude-opus-4-5-20251101
 
 ## Executive Summary
 
-The attention-consciousness relationship remains one of the most contested topics in consciousness science. While strong agreement exists that attention without consciousness is possible (blindsight, masked priming), whether attention is necessary for consciousness continues to generate fierce debate. Global Neuronal Workspace Theory (Dehaene, Baars) treats attention as the spotlight selecting what enters the "global workspace" of consciousness. Integrated Information Theory has been criticized for neglecting attention entirely. Attention Schema Theory (Graziano) treats consciousness as a model the brain builds of its own attention. The site's existing attention.md covers the dissociation debate well; this research focuses on mechanisms and recent developments, particularly the 2025 adversarial testing of GWT vs. IIT and the ongoing "overflow" debate about whether phenomenal consciousness exceeds attentional access.
+The attention-consciousness relationship remains one of the most contested topics in consciousness science. While strong agreement exists that attention without consciousness is possible (blindsight, masked priming), whether attention is necessary for consciousness continues to generate fierce debate. Global Neuronal Workspace Theory (Dehaene, Baars) treats attention as the spotlight selecting what enters the "global workspace" of consciousness. Integrated Information Theory has been criticized for neglecting attention entirely. Attention Schema Theory (Graziano) treats consciousness as a model the brain builds of its own attention. the project's existing attention.md covers the dissociation debate well; this research focuses on mechanisms and recent developments, particularly the 2025 adversarial testing of GWT vs. IIT and the ongoing "overflow" debate about whether phenomenal consciousness exceeds attentional access.
 
 ## Key Sources
 
@@ -226,9 +226,9 @@ The attention-consciousness relationship remains one of the most contested topic
 
 ## Potential Article Angles
 
-The site's existing attention.md is comprehensive and well-aligned with tenets. Rather than a new article, this research supports:
+the project's existing attention.md is comprehensive and well-aligned with tenets. Rather than a new article, this research supports:
 
-1. **Updating attention.md** with 2025 adversarial testing results—the finding that neither GWT nor IIT was vindicated supports the site's position that simple theories don't capture consciousness.
+1. **Updating attention.md** with 2025 adversarial testing results—the finding that neither GWT nor IIT was vindicated supports the project's position that simple theories don't capture consciousness.
 
 2. **Deepening the Stapp mechanism section** with quantum Zeno details and responses to decoherence objections.
 

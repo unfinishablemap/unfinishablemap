@@ -30,7 +30,7 @@ last_curated: null
 last_deep_review: 2026-01-20T06:12:00+00:00
 ---
 
-The Many-Worlds Interpretation (MWI) holds that quantum measurement never collapses the wave function. Instead, every possible outcome occurs—the universe splits into branches, one for each possibility. This site explicitly rejects MWI in the [[tenets#^no-many-worlds|No Many Worlds]] tenet. The rejection is not merely aesthetic but principled: MWI raises unanswerable questions about identity, dissolves the meaning of probability, and fails to explain why consciousness exists at all.
+The Many-Worlds Interpretation (MWI) holds that quantum measurement never collapses the wave function. Instead, every possible outcome occurs—the universe splits into branches, one for each possibility. this project explicitly rejects MWI in the [[tenets#^no-many-worlds|No Many Worlds]] tenet. The rejection is not merely aesthetic but principled: MWI raises unanswerable questions about identity, dissolves the meaning of probability, and fails to explain why consciousness exists at all.
 
 ## What MWI Claims
 
@@ -100,7 +100,7 @@ Every interpretation faces the [[hard-problem-of-consciousness|hard problem]]. B
 
 Why do branches contain conscious observers rather than philosophical zombies? The wave function evolves unitarily; nothing in that evolution distinguishes conscious from unconscious processes. MWI is consistent with consciousness but doesn't explain it.
 
-**For this site**: The framework holds that consciousness participates in determining physical outcomes ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]). MWI explicitly denies this—consciousness plays no role in the physics; all outcomes occur regardless. This fundamental incompatibility motivates the tenet-level rejection.
+**For this project**: The framework holds that consciousness participates in determining physical outcomes ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]). MWI explicitly denies this—consciousness plays no role in the physics; all outcomes occur regardless. This fundamental incompatibility motivates the tenet-level rejection.
 
 ## The Illusionist Challenge
 
@@ -143,17 +143,17 @@ Despite these objections, MWI attracts substantial support among physicists and 
 
 **Determinism**: The wave function evolves deterministically. Apparent randomness is perspectival.
 
-These are genuine virtues. This site rejects MWI not because it's obviously wrong but because its costs—particularly for identity and meaning—outweigh its benefits.
+These are genuine virtues. this project rejects MWI not because it's obviously wrong but because its costs—particularly for identity and meaning—outweigh its benefits.
 
 ## What Would Challenge This View?
 
-The site's rejection of MWI is principled but not dogmatic. Conditions that would significantly weaken the case against MWI:
+the project's rejection of MWI is principled but not dogmatic. Conditions that would significantly weaken the case against MWI:
 
 1. **Resolution of the probability problem.** If the Deutsch-Wallace decision-theoretic derivation were shown to be compelling—if rational agents under branching *must* weight outcomes by Born probabilities without question-begging axioms—the probability objection would lose force.
 
 2. **An account of indexical identity.** If MWI defenders could explain why the question "Which branch am I in?" is confused in a way that dissolves rather than relocates the puzzle, the indexical objection would need revision. This would require showing why the phenomenology of singular anticipation is illusory in a deeper sense than illusionism typically claims.
 
-3. **Consciousness without selection.** If a compelling account of consciousness emerged that required no role in determining outcomes—if the hard problem were solved in a way compatible with epiphenomenalism—the site's bidirectional interaction commitment would need reconsideration, and MWI would become more tenable.
+3. **Consciousness without selection.** If a compelling account of consciousness emerged that required no role in determining outcomes—if the hard problem were solved in a way compatible with epiphenomenalism—the project's bidirectional interaction commitment would need reconsideration, and MWI would become more tenable.
 
 4. **Empirical tests favoring MWI.** Though interpretations are often considered empirically equivalent, some differ in edge cases. If experiments (perhaps involving quantum cosmology or decoherence-free subspaces) produced results uniquely predicted by MWI, empirical pressure would mount.
 

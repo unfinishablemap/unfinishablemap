@@ -16,7 +16,7 @@ title: Open Questions
 topics: []
 ---
 
-This section explores unresolved questions arising from the site's foundational tenets. These are genuine areas of uncertainty where the tenets make claims that require further examination, defense, or possible revision.
+This section explores unresolved questions arising from the project's foundational tenets. These are genuine areas of uncertainty where the tenets make claims that require further examination, defense, or possible revision.
 
 ## Questions
 

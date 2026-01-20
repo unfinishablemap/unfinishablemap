@@ -169,17 +169,17 @@ The 2025 Demirel findings characterized lucid dreaming as a distinct consciousne
 
 This proves the interface is trainable. With practice, lucid dreamers learn to engage metacognitive channels during REM—a state where these channels are normally suppressed. The boundary between sleep states is plastic; consciousness can stabilize novel configurations through training.
 
-For the site's framework, this has implications for understanding [meditation](/concepts/meditation-and-consciousness-modes/) and other interface-training practices. If the interface can be reactivated during sleep through practice, the same mechanisms may underlie contemplative development during waking.
+For the project's framework, this has implications for understanding [meditation](/concepts/meditation-and-consciousness-modes/) and other interface-training practices. If the interface can be reactivated during sleep through practice, the same mechanisms may underlie contemplative development during waking.
 
 ## Relation to Site Perspective
 
-Sleep illuminates each of the site's [tenets](/tenets/):
+Sleep illuminates each of the project's [tenets](/tenets/):
 
 **[Dualism](/tenets/#dualism)**: Sleep shows that identical brain patterns can correlate with presence or absence of experience depending on slow-wave distribution. This dissociation between neural activity and conscious presence supports distinguishing consciousness from neural computation. The same gross EEG pattern produces dreamless sleep in one person and vivid dreaming in another.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Lucid dreaming exemplifies bidirectional interaction during sleep. The lucid dreamer influences dream content through intention despite REM physiology normally suppressing voluntary control. Consciousness operates causally on experience even when the brain is in an offline state.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The site proposes consciousness operates through attention-mediated quantum selection. During NREM, when attention is offline, this mechanism would disengage. Memory consolidation proceeds without conscious involvement because the selection mechanism isn't operating. REM partially reengages the mechanism (producing experience) without engaging prefrontal control (explaining lack of lucidity).
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: the project proposes consciousness operates through attention-mediated quantum selection. During NREM, when attention is offline, this mechanism would disengage. Memory consolidation proceeds without conscious involvement because the selection mechanism isn't operating. REM partially reengages the mechanism (producing experience) without engaging prefrontal control (explaining lack of lucidity).
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Dreamless sleep raises a question: where is the indexical "I" when consciousness fully withdraws? Time vanishes entirely—seven hours of dreamless sleep can feel instantaneous. If consciousness provides indexical localization in reality (selecting which branch is experienced as actual), dreamless sleep may be a state where no selection occurs because the selection mechanism is completely offline.
 

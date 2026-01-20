@@ -27,7 +27,7 @@ last_curated: null
 last_deep_review: null
 ---
 
-The site employs two major frameworks for understanding consciousness's relationship to the physical world: [[filter-theory|filter theory]] (James, Bergson, Huxley) and [[quantum-consciousness|quantum selection mechanisms]] (Stapp, Penrose-Hameroff). These might appear to be separate explanatory strategies—even incompatible ones. Filter theory treats consciousness as something the brain *receives* or *transmits*; quantum selection treats consciousness as something that *acts* on quantum outcomes. One is about correlation without production; the other is about causal efficacy.
+the project employs two major frameworks for understanding consciousness's relationship to the physical world: [[filter-theory|filter theory]] (James, Bergson, Huxley) and [[quantum-consciousness|quantum selection mechanisms]] (Stapp, Penrose-Hameroff). These might appear to be separate explanatory strategies—even incompatible ones. Filter theory treats consciousness as something the brain *receives* or *transmits*; quantum selection treats consciousness as something that *acts* on quantum outcomes. One is about correlation without production; the other is about causal efficacy.
 
 This article argues these frameworks are complementary layers of a unified model. Together they explain both why brain-consciousness correlation doesn't entail production *and* how consciousness can be causally efficacious without violating physical law.
 
@@ -42,7 +42,7 @@ Filter theory and quantum selection seem to pull in different directions:
 | **Explains** | Correlation without identity | Causal efficacy without violation |
 | **Direction** | Brain → consciousness (constraining) | Consciousness → brain (selecting) |
 
-Read separately, these frameworks invite different questions. Filter theory asks: where does consciousness *come from* if not the brain? Quantum selection asks: where does consciousness *act* on the brain? But the site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires *both* directions—brain constrains consciousness, consciousness influences brain. The two frameworks address different halves of this bidirectional relationship.
+Read separately, these frameworks invite different questions. Filter theory asks: where does consciousness *come from* if not the brain? Quantum selection asks: where does consciousness *act* on the brain? But the project's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires *both* directions—brain constrains consciousness, consciousness influences brain. The two frameworks address different halves of this bidirectional relationship.
 
 ## The Two-Layer Architecture
 
@@ -54,7 +54,7 @@ Consciousness exists independently of any particular brain. The brain does not g
 
 James's prism analogy captures it: white light exists prior to and independent of the prism. The prism doesn't create colors—it reveals them by separating what was already there. Similarly, consciousness doesn't originate in neural tissue. Neural structure *shapes* and *constrains* how consciousness manifests at this location, through this body.
 
-What is consciousness independent of brains? The site doesn't commit to a specific answer. Options include:
+What is consciousness independent of brains? the project doesn't commit to a specific answer. Options include:
 
 - **Mind at Large** (Huxley): A cosmic or universal consciousness that individual brains filter
 - **Fundamental aspect**: Consciousness as a basic feature of reality, like mass or charge
@@ -218,7 +218,7 @@ Together they explain:
 - Independence and interaction
 - Brain specificity without brain production
 
-This unified model is the site's most complete answer to how consciousness relates to the physical world. It preserves dualism while explaining mind-brain correlation. It enables mental causation while respecting physical law. It treats consciousness as real, irreducible, and efficacious—exactly what the tenets require.
+This unified model is the project's most complete answer to how consciousness relates to the physical world. It preserves dualism while explaining mind-brain correlation. It enables mental causation while respecting physical law. It treats consciousness as real, irreducible, and efficacious—exactly what the tenets require.
 
 ## Further Reading
 
@@ -228,7 +228,7 @@ This unified model is the site's most complete answer to how consciousness relat
 - [[mind-brain-separation]] — The rendering engine analogy
 - [[mental-causation]] — Why selection addresses the exclusion problem
 - [[interactionist-dualism]] — The philosophical framework
-- [[tenets]] — The site's foundational commitments
+- [[tenets]] — the project's foundational commitments
 
 ## References
 

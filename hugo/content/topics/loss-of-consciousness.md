@@ -111,7 +111,7 @@ During sleep, binding happens without this experiential unity. Multiple memories
 1. **Computational binding**: Neural operations that integrate distributed information
 2. **Phenomenal binding**: The unified experiential result
 
-Computational binding can proceed without phenomenal binding. This dissociation supports the site's distinction between brain processes and consciousness—binding is a neural operation, but phenomenal unity is something additional that binding alone doesn't guarantee.
+Computational binding can proceed without phenomenal binding. This dissociation supports the project's distinction between brain processes and consciousness—binding is a neural operation, but phenomenal unity is something additional that binding alone doesn't guarantee.
 
 ## Covert Consciousness: Awareness Without Expression
 
@@ -149,7 +149,7 @@ The pattern across memory systems follows Tulving's consciousness hierarchy:
 
 This hierarchy suggests that consciousness doesn't simply switch on and off. Rather, the interface has multiple channels or layers, each with different vulnerability thresholds. The deeper, more evolutionarily ancient forms of consciousness (anoetic) are more robust; the more sophisticated forms (autonoetic) are more fragile.
 
-This observation supports the site's framework in a specific way: if consciousness were identical to a particular neural process, we'd expect it to disappear uniformly when that process is disrupted. Instead, we observe layered degradation—exactly what the filter theory predicts when an interface with multiple channels is partially blocked.
+This observation supports the project's framework in a specific way: if consciousness were identical to a particular neural process, we'd expect it to disappear uniformly when that process is disrupted. Instead, we observe layered degradation—exactly what the filter theory predicts when an interface with multiple channels is partially blocked.
 
 ## The Vanishing of Time
 
@@ -175,7 +175,7 @@ This suggests the brain *prepares* for consciousness rather than *producing* it�
 
 ## Relation to Site Perspective
 
-The site's [tenets](/tenets/) include both [dualism](/tenets/#dualism)—consciousness is not reducible to physical processes—and [bidirectional interaction](/tenets/#bidirectional-interaction)—consciousness causally influences the physical world. Loss of consciousness evidence supports both commitments.
+the project's [tenets](/tenets/) include both [dualism](/tenets/#dualism)—consciousness is not reducible to physical processes—and [bidirectional interaction](/tenets/#bidirectional-interaction)—consciousness causally influences the physical world. Loss of consciousness evidence supports both commitments.
 
 **Dualism**: The filter theory interpretation of brain-consciousness correlation preserves dualism while explaining why consciousness depends on brain function. Dependence does not entail identity. The radio depends on its circuitry but the broadcast originates elsewhere.
 

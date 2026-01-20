@@ -27,13 +27,13 @@ last_curated: null
 
 Consciousness appears to have at least two distinct modes of operation. In one mode—active selection—consciousness engages with the brain through attention, choosing among competing neural patterns and holding desired states stable through [[mental-effort|mental effort]]. In another mode—passive witnessing—consciousness observes without intervening, allowing mental contents to arise and pass without selection. Meditation traditions have discovered and cultivated both modes, and neuroscience confirms they have distinct brain signatures.
 
-This distinction extends the site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. Consciousness can causally influence the physical world—but it can also refrain from doing so. The capacity for selection includes the capacity to suspend selection.
+This distinction extends the project's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. Consciousness can causally influence the physical world—but it can also refrain from doing so. The capacity for selection includes the capacity to suspend selection.
 
 ## The Two Modes
 
 ### Active Selection
 
-Active selection is the mode emphasized throughout this site. Consciousness attends to something, and this [[attention-as-interface|attention]] influences which neural patterns persist. The mechanism is the [[quantum-consciousness|quantum Zeno effect]]: rapid observation holds quantum states stable against decoherence, allowing consciousness to bias which possibilities become actual.
+Active selection is the mode emphasized throughout this project. Consciousness attends to something, and this [[attention-as-interface|attention]] influences which neural patterns persist. The mechanism is the [[quantum-consciousness|quantum Zeno effect]]: rapid observation holds quantum states stable against decoherence, allowing consciousness to bias which possibilities become actual.
 
 Phenomenologically, this mode feels effortful. Sustained concentration on a difficult task, resisting distraction, holding an intention stable—all require what we call mental effort. This is not metaphor; effort does real work. Jeffrey Schwartz's OCD therapy demonstrates that directed attention produces measurable neuroplasticity. Attention is the interface through which consciousness acts on matter.
 
@@ -45,7 +45,7 @@ The neural signature of active selection includes:
 
 ### Passive Witnessing
 
-Passive witnessing is the mode that meditation traditions describe but that this site has not previously addressed. In this mode, consciousness observes mental contents—thoughts, sensations, emotions—without engaging with them. The observer does not select, judge, or intervene. Contents arise and pass like clouds crossing the sky.
+Passive witnessing is the mode that meditation traditions describe but that this project has not previously addressed. In this mode, consciousness observes mental contents—thoughts, sensations, emotions—without engaging with them. The observer does not select, judge, or intervene. Contents arise and pass like clouds crossing the sky.
 
 This mode has its own distinct phenomenology. Advanced meditators describe "effortless awareness," "open presence," or what Sanskrit tradition calls *sakshi*—the witness-self. Krishnamurti called it "choiceless awareness": perception without preference or compulsion.
 
@@ -98,7 +98,7 @@ The pattern is clear: effortful cognition shows strong alpha-theta coupling; eff
 
 ## The Advaita Paradox
 
-The witness mode raises a philosophical puzzle for this site's framework. If consciousness is fundamentally a selector—if [[tenets#^bidirectional-interaction|Bidirectional Interaction]] is essential—how can consciousness also be a non-interfering witness?
+The witness mode raises a philosophical puzzle for this project's framework. If consciousness is fundamentally a selector—if [[tenets#^bidirectional-interaction|Bidirectional Interaction]] is essential—how can consciousness also be a non-interfering witness?
 
 Advaita Vedanta tradition emphasizes the witness aspect. The *sakshi* (witness-self) is described as:
 - Pure awareness that observes without acting
@@ -118,7 +118,7 @@ Bidirectional interaction describes a *capacity*, not a compulsion. Consciousnes
 
 ### Effortless Awareness After Effortful Training
 
-There is a developmental dimension. Beginners find meditation effortful; advanced practitioners describe effortlessness. How do we explain this transition within the site's framework?
+There is a developmental dimension. Beginners find meditation effortful; advanced practitioners describe effortlessness. How do we explain this transition within the project's framework?
 
 Early meditation requires constant selection: noticing distraction, redirecting attention, choosing to maintain focus. The brain's automatic processes pull attention away; the meditator selects to override them. This is quantum Zeno at work—effort holds the meditative pattern stable against the brain's tendency to wander.
 
@@ -143,7 +143,7 @@ The witness does not become unconscious—awareness persists. But awareness with
 
 Jiddu Krishnamurti posed the sharpest version of the challenge: he claimed "choiceless awareness" is the only true freedom, and that any technique—including meditation methods—perpetuates the chooser and thus bondage.
 
-If Krishnamurti is right that choicelessness is fundamental, doesn't the site's emphasis on selection miss something important?
+If Krishnamurti is right that choicelessness is fundamental, doesn't the project's emphasis on selection miss something important?
 
 Two responses:
 

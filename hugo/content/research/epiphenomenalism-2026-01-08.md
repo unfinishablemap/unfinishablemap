@@ -25,7 +25,7 @@ topics: []
 
 ## Executive Summary
 
-Epiphenomenalism holds that mental events are caused by physical events but have no causal effects on anything—not even other mental events. This makes consciousness a passive byproduct of neural processes. While counterintuitive, the view has serious philosophical defenders and remains relevant to consciousness debates, particularly regarding the hard problem. The site's Bidirectional Interaction tenet directly opposes epiphenomenalism.
+Epiphenomenalism holds that mental events are caused by physical events but have no causal effects on anything—not even other mental events. This makes consciousness a passive byproduct of neural processes. While counterintuitive, the view has serious philosophical defenders and remains relevant to consciousness debates, particularly regarding the hard problem. the project's Bidirectional Interaction tenet directly opposes epiphenomenalism.
 
 ## Key Sources
 
@@ -70,7 +70,7 @@ Epiphenomenalism holds that mental events are caused by physical events but have
 - **Proponents**: Stapp, Eccles, site tenets
 - **Core claim**: Consciousness causally influences physical outcomes
 - **Key arguments**: We report conscious states; these reports are caused by the states they report
-- **Relation to site tenets**: This is the site's position via Bidirectional Interaction
+- **Relation to site tenets**: This is the project's position via Bidirectional Interaction
 
 ## Key Debates
 
@@ -110,7 +110,7 @@ Based on this research, an article could:
 
 1. **Present and critique epiphenomenalism** - Explain the view fairly, then show why Bidirectional Interaction is preferable. Emphasize the self-stultification problem as central.
 
-2. **Frame as foil for site position** - Use epiphenomenalism to clarify what the site rejects and why. The tenets already mention it; a dedicated page can elaborate.
+2. **Frame as foil for site position** - Use epiphenomenalism to clarify what the project rejects and why. The tenets already mention it; a dedicated page can elaborate.
 
 When writing the article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references

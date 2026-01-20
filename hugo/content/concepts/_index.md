@@ -16,6 +16,6 @@ title: Concepts
 topics: []
 ---
 
-This section will contain definitions and explanations of core philosophical concepts referenced throughout the site.
+This section will contain definitions and explanations of core philosophical concepts referenced throughout the project.
 
 Concepts provide the building blocks for topic discussions—terms, frameworks, and ideas that recur across multiple explorations.

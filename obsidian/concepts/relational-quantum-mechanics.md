@@ -26,7 +26,7 @@ last_deep_review: null
 
 Relational quantum mechanics (RQM) is Carlo Rovelli's interpretation of quantum mechanics in which physical properties exist only as relations between systems, not as intrinsic features of things. There is no "view from nowhere"—all quantum facts are relative to specific observers, where "observer" means any physical system, not necessarily a conscious one. RQM explicitly removes any special role for consciousness in quantum measurement.
 
-This interpretation directly conflicts with the site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. Understanding why RQM works—and what it sacrifices to work—clarifies what's at stake in adopting a consciousness-based alternative.
+This interpretation directly conflicts with the project's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. Understanding why RQM works—and what it sacrifices to work—clarifies what's at stake in adopting a consciousness-based alternative.
 
 ## The Core Idea
 
@@ -62,19 +62,19 @@ Rovelli is explicit: "There is nothing subjective, idealistic, or mentalistic, i
 
 The consequence: RQM provides no mechanism for [[mental-causation]]. If any physical interaction is a "measurement," then a rock measuring a photon is equivalent to a physicist measuring one. Consciousness adds nothing. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—the claim that consciousness causally influences physical outcomes—has no place in RQM's framework.
 
-For this site, that's the deal-breaker. RQM dissolves the measurement problem by dissolving the observer—making "observer" mean any physical system rather than a conscious subject. This elegantly avoids the [[multi-mind-collapse-problem]], but only by denying that consciousness matters at all.
+For this project, that's the deal-breaker. RQM dissolves the measurement problem by dissolving the observer—making "observer" mean any physical system rather than a conscious subject. This elegantly avoids the [[multi-mind-collapse-problem]], but only by denying that consciousness matters at all.
 
 ## Why Understanding RQM Matters
 
 Even for those who reject RQM, engaging with it clarifies what's at stake:
 
-**The price of consciousness-causes-collapse.** RQM shows there's a coherent interpretation where consciousness plays no role. Choosing a consciousness-based framework isn't forced by quantum mechanics—it's a philosophical commitment. Understanding RQM helps distinguish what quantum mechanics requires from what the site's tenets add.
+**The price of consciousness-causes-collapse.** RQM shows there's a coherent interpretation where consciousness plays no role. Choosing a consciousness-based framework isn't forced by quantum mechanics—it's a philosophical commitment. Understanding RQM helps distinguish what quantum mechanics requires from what the project's tenets add.
 
-**The multi-observer problem.** RQM's treatment of multiple observers (each with valid but relative perspectives) illuminates the challenges consciousness-causes-collapse faces. If Alice's consciousness collapses the wavefunction and Bob's does too, how are their selections reconciled? RQM dissolves this by relativizing collapse to each observer. The site's alternative—[[interface-locality]]—achieves something similar by different means: each consciousness modulates only its own brain.
+**The multi-observer problem.** RQM's treatment of multiple observers (each with valid but relative perspectives) illuminates the challenges consciousness-causes-collapse faces. If Alice's consciousness collapses the wavefunction and Bob's does too, how are their selections reconciled? RQM dissolves this by relativizing collapse to each observer. the project's alternative—[[interface-locality]]—achieves something similar by different means: each consciousness modulates only its own brain.
 
-**Lessons for perspectivalism.** RQM's insight that intermediate states needn't be coordinated until observers interact has value even within a different framework. The site can accept that before Alice and Bob communicate, their brain states (modulated by their respective consciousnesses) needn't be compared. Agreement is verified only through physical interaction.
+**Lessons for perspectivalism.** RQM's insight that intermediate states needn't be coordinated until observers interact has value even within a different framework. the project can accept that before Alice and Bob communicate, their brain states (modulated by their respective consciousnesses) needn't be compared. Agreement is verified only through physical interaction.
 
-**The locality puzzle.** RQM claims locality through perspectival independence. The site's framework achieves locality differently: consciousness influences only local neural systems, not distant quantum events. Comparing these strategies clarifies what "locality" requires when consciousness is involved.
+**The locality puzzle.** RQM claims locality through perspectival independence. the project's framework achieves locality differently: consciousness influences only local neural systems, not distant quantum events. Comparing these strategies clarifies what "locality" requires when consciousness is involved.
 
 ## RQM vs. Consciousness-Causes-Collapse: A Comparison
 
@@ -90,13 +90,13 @@ Even for those who reject RQM, engaging with it clarifies what's at stake:
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]:** RQM is compatible with physicalism—it requires no non-physical elements. The site's dualism finds no support here. However, RQM's emphasis on observer-relativity shares something with the site's rejection of "view from nowhere" physicalism, even if RQM doesn't draw dualist conclusions.
+**[[tenets#^dualism|Dualism]]:** RQM is compatible with physicalism—it requires no non-physical elements. the project's dualism finds no support here. However, RQM's emphasis on observer-relativity shares something with the project's rejection of "view from nowhere" physicalism, even if RQM doesn't draw dualist conclusions.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]:** RQM eliminates the need for any special interaction—consciousness plays no role in collapse. This directly conflicts with the tenet's proposal that consciousness biases quantum outcomes.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]:** **Direct conflict.** RQM explicitly removes consciousness from physics. If RQM is correct, consciousness cannot influence physical outcomes through quantum mechanisms. The site's central claim—that consciousness participates in determining quantum outcomes—fails.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]:** **Direct conflict.** RQM explicitly removes consciousness from physics. If RQM is correct, consciousness cannot influence physical outcomes through quantum mechanisms. the project's central claim—that consciousness participates in determining quantum outcomes—fails.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]:** RQM also rejects many-worlds, treating collapse (relative to each observer) as real. Here the site and RQM agree: we don't branch into multiple copies.
+**[[tenets#^no-many-worlds|No Many Worlds]]:** RQM also rejects many-worlds, treating collapse (relative to each observer) as real. Here the project and RQM agree: we don't branch into multiple copies.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]:** RQM might seem simpler—no need for consciousness in physics. But simplicity isn't truth. RQM's elegance doesn't explain why consciousness exists or why physical processes are accompanied by experience. It solves the measurement problem while ignoring the hard problem.
 
@@ -104,15 +104,15 @@ Even for those who reject RQM, engaging with it clarifies what's at stake:
 
 Relational quantum mechanics offers a coherent interpretation where quantum facts are relative to observers, and "observer" means any physical system. It dissolves the measurement problem and avoids multi-observer paradoxes—but only by eliminating consciousness's special role.
 
-The site rejects this trade-off. Understanding consciousness as causally efficacious matters more than interpretive elegance. But engaging with RQM clarifies what the site's framework adds beyond bare quantum mechanics: a commitment to consciousness as real, irreducible, and causally effective—not merely another physical system among many.
+the project rejects this trade-off. Understanding consciousness as causally efficacious matters more than interpretive elegance. But engaging with RQM clarifies what the project's framework adds beyond bare quantum mechanics: a commitment to consciousness as real, irreducible, and causally effective—not merely another physical system among many.
 
 ## Further Reading
 
 - [[quantum-interpretations]] — Survey of interpretations and their consciousness implications
-- [[multi-mind-collapse-problem]] — How the site handles multiple conscious observers
+- [[multi-mind-collapse-problem]] — How the project handles multiple conscious observers
 - [[interface-locality]] — Why consciousness can only affect its own brain
 - [[measurement-problem]] — The puzzle RQM dissolves
-- [[quantum-consciousness]] — Mechanisms the site endorses
+- [[quantum-consciousness]] — Mechanisms the project endorses
 
 ## References
 

@@ -28,7 +28,7 @@ last_curated: null
 
 ## Executive Summary
 
-Attention and consciousness are closely linked but increasingly understood as dissociable processes. The debate centers on whether attention is necessary for consciousness (equivalency views) or whether they can occur independently (dissociationist views). Recent evidence from inattentional blindness, blindsight, and peripheral awareness studies suggests neither strict necessity nor sufficiency holds. Key findings: (1) blindsight demonstrates attention without consciousness; (2) peripheral awareness and gist perception suggest consciousness without focused attention; (3) theoretical models (Global Workspace Theory, predictive processing, Prinz's AIR theory) give attention central but not exclusive role. Crucially for the site's tenets, Stapp's quantum Zeno mechanism places attention at the heart of consciousness-matter interaction—sustained attention as repeated observation that stabilizes quantum states.
+Attention and consciousness are closely linked but increasingly understood as dissociable processes. The debate centers on whether attention is necessary for consciousness (equivalency views) or whether they can occur independently (dissociationist views). Recent evidence from inattentional blindness, blindsight, and peripheral awareness studies suggests neither strict necessity nor sufficiency holds. Key findings: (1) blindsight demonstrates attention without consciousness; (2) peripheral awareness and gist perception suggest consciousness without focused attention; (3) theoretical models (Global Workspace Theory, predictive processing, Prinz's AIR theory) give attention central but not exclusive role. Crucially for the project's tenets, Stapp's quantum Zeno mechanism places attention at the heart of consciousness-matter interaction—sustained attention as repeated observation that stabilizes quantum states.
 
 ## Key Sources
 
@@ -229,7 +229,7 @@ Based on this research, an article could:
 
 When writing any article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references
-- Background vs. novelty decisions (the site has mental-effort.md and quantum-consciousness.md that cover Stapp basics)
+- Background vs. novelty decisions (the project has mental-effort.md and quantum-consciousness.md that cover Stapp basics)
 - Tenet alignment requirements
 - LLM optimization (front-load important information)
 

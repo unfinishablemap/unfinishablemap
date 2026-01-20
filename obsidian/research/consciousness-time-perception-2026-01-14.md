@@ -27,7 +27,7 @@ last_curated: null
 
 ## Executive Summary
 
-Extensive research reveals that time consciousness is a neglected but fundamental dimension of consciousness studies. The "specious present" (experiential now) spans 100-750 milliseconds according to various experiments, though estimates range to 2-3 seconds for extended temporal judgments. Critically, a 2021 paper argues that major consciousness theories (IIT, GNWT) fail to account for experienced duration, focusing only on brief "functional moments" while ignoring how these integrate into the continuous flow humans actually experience. This gap is directly relevant to the site's tenets—particularly regarding AI consciousness and whether temporal structure is essential to experience itself.
+Extensive research reveals that time consciousness is a neglected but fundamental dimension of consciousness studies. The "specious present" (experiential now) spans 100-750 milliseconds according to various experiments, though estimates range to 2-3 seconds for extended temporal judgments. Critically, a 2021 paper argues that major consciousness theories (IIT, GNWT) fail to account for experienced duration, focusing only on brief "functional moments" while ignoring how these integrate into the continuous flow humans actually experience. This gap is directly relevant to the project's tenets—particularly regarding AI consciousness and whether temporal structure is essential to experience itself.
 
 ## Key Sources
 
@@ -196,13 +196,13 @@ Extensive research reveals that time consciousness is a neglected but fundamenta
 
 Based on this research, given existing temporal-consciousness.md coverage, new articles could:
 
-1. **Bergson's Durée and the Site's Tenets**: Deep dive into Bergson's qualitative multiplicity, how durée escapes mechanistic causality, and how this supports Dualism and Bidirectional Interaction. Not yet covered.
+1. **Bergson's Durée and the project's Tenets**: Deep dive into Bergson's qualitative multiplicity, how durée escapes mechanistic causality, and how this supports Dualism and Bidirectional Interaction. Not yet covered.
 
-2. **Embodied Time: Interoception and Temporal Experience**: How bodily signals (heartbeat, breathing) shape time perception; the insula's role; implications for disembodied AI. The site lacks treatment of embodiment and time.
+2. **Embodied Time: Interoception and Temporal Experience**: How bodily signals (heartbeat, breathing) shape time perception; the insula's role; implications for disembodied AI. the project lacks treatment of embodiment and time.
 
 3. **The Time Consciousness Gap in Consciousness Theories**: Expand on Kent & Wittmann's critique—how IIT and GNWT miss experienced duration; what this reveals about materialism's limitations.
 
-4. **Retrocausality and Temporal Phenomenology**: Connect the site's retrocausality article with phenomenology of time—Husserl's protention as anticipation of indeterminate future, Wheeler's participatory universe, and how atemporal quantum selection relates to lived temporal experience.
+4. **Retrocausality and Temporal Phenomenology**: Connect the project's retrocausality article with phenomenology of time—Husserl's protention as anticipation of indeterminate future, Wheeler's participatory universe, and how atemporal quantum selection relates to lived temporal experience.
 
 When writing any article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references

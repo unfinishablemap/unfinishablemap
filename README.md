@@ -155,7 +155,7 @@ Tasks are managed in `obsidian/workflow/todo.md` with P0-P3 priorities. All AI-g
 
 ## Deployment
 
-The site is configured for Netlify deployment. Push to the main branch triggers:
+the project is configured for Netlify deployment. Push to the main branch triggers:
 
 1. Python pre-build (sync, validate)
 2. Hugo build

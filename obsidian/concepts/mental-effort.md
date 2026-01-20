@@ -287,9 +287,9 @@ This analysis nuances rather than contradicts the effort = work equation:
 
 The quantum Zeno mechanism explains effortful attention. But consciousness is not limited to selection—it can also observe without selecting. A complete account must accommodate both modes.
 
-## Relation to This Site's Perspective
+## Relation to this project's Perspective
 
-The phenomenology of mental effort aligns remarkably with what the site's tenets predict:
+The phenomenology of mental effort aligns remarkably with what the project's tenets predict:
 
 **[[tenets#^dualism|Dualism]]**: If effort is real—not just what neural computation feels like—then consciousness contributes something beyond the physical. The quantum Zeno mechanism specifies *how*.
 
@@ -297,7 +297,7 @@ The phenomenology of mental effort aligns remarkably with what the site's tenets
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The neuroplasticity evidence shows downward causation in action. Mental effort changes brain structure. Whatever the mechanism, information flows from mind to matter.
 
-The site doesn't commit to Stapp's specific proposal over other quantum consciousness mechanisms. But the phenomenology of effort provides a datum any account must explain. If controlling attention genuinely costs something, something must be doing the paying.
+the project doesn't commit to Stapp's specific proposal over other quantum consciousness mechanisms. But the phenomenology of effort provides a datum any account must explain. If controlling attention genuinely costs something, something must be doing the paying.
 
 ## Further Reading
 

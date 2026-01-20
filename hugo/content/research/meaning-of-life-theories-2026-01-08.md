@@ -27,7 +27,7 @@ topics:
 
 ## Executive Summary
 
-Philosophical theories on life's meaning divide into four major camps: supernaturalism (meaning requires God or soul), objective naturalism (meaning grounded in mind-independent values), subjective naturalism (meaning derived from personal attitudes), and nihilism (no meaning is possible). Recent work in the *Journal of Philosophy of Life* (2025) distinguishes "Sunny Nihilism" from traditional negative nihilism, arguing the absence of cosmic purpose needn't imply negative evaluation of life. For the site's framework, the key question is whether the tenets' commitment to consciousness as fundamental provides grounds for objective meaning that neither supernaturalism nor standard naturalism captures.
+Philosophical theories on life's meaning divide into four major camps: supernaturalism (meaning requires God or soul), objective naturalism (meaning grounded in mind-independent values), subjective naturalism (meaning derived from personal attitudes), and nihilism (no meaning is possible). Recent work in the *Journal of Philosophy of Life* (2025) distinguishes "Sunny Nihilism" from traditional negative nihilism, arguing the absence of cosmic purpose needn't imply negative evaluation of life. For the project's framework, the key question is whether the tenets' commitment to consciousness as fundamental provides grounds for objective meaning that neither supernaturalism nor standard naturalism captures.
 
 ## Key Sources
 
@@ -40,7 +40,7 @@ Philosophical theories on life's meaning divide into four major camps: supernatu
   - Susan Wolf's influential formulation: "Meaning arises when subjective attraction meets objective attractiveness"
   - Recent work emphasizes narrative structure—how life's parts relate as wholes
 - **Tenet alignment**: Site's framework could ground objective meaning in consciousness itself, avoiding both supernaturalist and standard naturalist positions
-- **Quote**: "Only God can ground objective moral values required for meaning" (supernaturalist view the site would reject)
+- **Quote**: "Only God can ground objective moral values required for meaning" (supernaturalist view the project would reject)
 
 ### Journal of Philosophy of Life (2025)
 - **URL**: [philosophyoflife.org](https://www.philosophyoflife.org/jpl202501.pdf)
@@ -49,7 +49,7 @@ Philosophical theories on life's meaning divide into four major camps: supernatu
   - Distinguishes "Sunny Nihilism" and "Neutral Nihilism" from traditional negative nihilism
   - Argues nihilism is descriptive (no cosmic goal) not evaluative (life is bad)
   - Many misinterpret nihilism by confusing absence of cosmic purpose with negative evaluation
-- **Tenet alignment**: Neutral with tenets—the site could accept no cosmic goal while maintaining consciousness has intrinsic value
+- **Tenet alignment**: Neutral with tenets—the project could accept no cosmic goal while maintaining consciousness has intrinsic value
 
 ### Wikipedia - Existential Nihilism
 - **URL**: [wikipedia.org](https://en.wikipedia.org/wiki/Existential_nihilism)
@@ -127,11 +127,11 @@ If consciousness is not reducible to physical processes, meaning might be ground
 If consciousness causally influences physical outcomes, then conscious choices genuinely matter—they shape reality. This grounds a form of objective significance: what we do has real consequences mediated by irreducible consciousness.
 
 ### No Many Worlds and Uniqueness
-The site's rejection of MWI implies each conscious decision has unique significance—there's no branch where you chose differently. This supports meaning grounded in unrepeatable choices.
+the project's rejection of MWI implies each conscious decision has unique significance—there's no branch where you chose differently. This supports meaning grounded in unrepeatable choices.
 
 ## Potential Article Angles
 
-1. **Consciousness-Grounded Meaning**: Argue that the site's framework grounds objective meaning without supernaturalism by locating value in consciousness itself. Neither God nor physical arrangements, but the irreducible reality of experience provides significance.
+1. **Consciousness-Grounded Meaning**: Argue that the project's framework grounds objective meaning without supernaturalism by locating value in consciousness itself. Neither God nor physical arrangements, but the irreducible reality of experience provides significance.
 
 2. **The Bidirectional Response to Nihilism**: Use the Bidirectional Interaction tenet to respond to cosmic insignificance arguments. If consciousness shapes physical outcomes, we aren't negligible observers but constitutive participants.
 

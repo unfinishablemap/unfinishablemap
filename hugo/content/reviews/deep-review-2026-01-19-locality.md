@@ -29,7 +29,7 @@ topics: []
 - **Sparse concepts frontmatter**: Only listed simulation; missing interactionist-dualism, quantum-consciousness, and other core concepts. → Expanded concepts list.
 
 ### Medium Issues Found
-- **Response 2 underdeveloped**: The claim that "the mind side can have whatever structure it needs" was stated but not connected to the site's more developed treatment. → Added reference to brain-specialness.md's five criteria.
+- **Response 2 underdeveloped**: The claim that "the mind side can have whatever structure it needs" was stated but not connected to the project's more developed treatment. → Added reference to brain-specialness.md's five criteria.
 - **No engagement with pairing problem**: This is the more fundamental challenge. → Added explicit mention and link to pairing-problem.md.
 - **Binding problem section thin**: Didn't connect to the actual binding-problem.md page or mention how quantum entanglement might help. → Added entanglement point and wikilink.
 
@@ -65,4 +65,4 @@ topics: []
 
 ## Remaining Items
 
-None. All critical and medium issues addressed. The article now properly connects to the site's more developed treatments of related problems and serves as an appropriate introduction to the locality concern.
+None. All critical and medium issues addressed. The article now properly connects to the project's more developed treatments of related problems and serves as an appropriate introduction to the locality concern.

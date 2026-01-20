@@ -82,7 +82,7 @@ Several possibilities become thinkable under dualism that materialism excludes b
 
 **Extended consciousness or field effects.** [[Filter-theory]] and related models suggest consciousness might not be strictly bounded by the skull. If so, the implications for individuality, privacy, and connection between minds become live questions rather than dismissed speculations.
 
-**Value properties of consciousness itself.** The site's [[phenomenal-value-realism|phenomenal value realism]] holds that experiential qualities have intrinsic normative significance. This metaethical position requires consciousness to be more than computational processing—it requires qualia to be real and value-constituting. Materialists who eliminate qualia also eliminate the ground for this kind of value realism.
+**Value properties of consciousness itself.** the project's [[phenomenal-value-realism|phenomenal value realism]] holds that experiential qualities have intrinsic normative significance. This metaethical position requires consciousness to be more than computational processing—it requires qualia to be real and value-constituting. Materialists who eliminate qualia also eliminate the ground for this kind of value realism.
 
 ## The Argument from Epistemic Humility
 
@@ -152,7 +152,7 @@ The epistemic humility argument for dualism would be undermined if:
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: This article articulates why the site's dualist commitment is epistemically well-motivated even apart from specific arguments. Dualism is the epistemically humble stance—the one that closes fewer doors prematurely. The [[arguments-for-dualism|positive arguments for dualism]] provide object-level support; this article provides meta-level support through the logic of precaution under uncertainty.
+**[[tenets#^dualism|Dualism]]**: This article articulates why the project's dualist commitment is epistemically well-motivated even apart from specific arguments. Dualism is the epistemically humble stance—the one that closes fewer doors prematurely. The [[arguments-for-dualism|positive arguments for dualism]] provide object-level support; this article provides meta-level support through the logic of precaution under uncertainty.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The argument directly invokes this tenet. If simplicity is an unreliable guide when knowledge is incomplete, then materialism's claim to be simpler provides weak support for its truth. The [[mysterianism|mysterian]] analysis strengthens this: if we're cognitively closed to the mind-body connection, apparent simplicity may reflect our limitations rather than reality's structure.
 
@@ -160,7 +160,7 @@ The epistemic humility argument for dualism would be undermined if:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The asymmetric cost argument gains force from considering what we miss if consciousness has genuine causal powers. If materialism is correct, consciousness is epiphenomenal or illusory. If dualism is correct and consciousness causes physical effects, understanding that causation matters for everything from moral responsibility to the design of AI systems. Keeping bidirectional interaction on the table is not just metaphysically interesting but practically urgent.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The epistemic humility argument has a structural parallel in physics. Many-worlds eliminates collapse and the measurement problem by positing all outcomes occur—a parsimony move that purchases simplicity by multiplying entities infinitely. The site rejects this: accepting apparent complexity (real collapse, definite outcomes, [[haecceity|indexical identity]]) proves more honest than eliminative moves that deny what experience suggests. The same logic applies to consciousness: accepting its apparent reality is more epistemically responsible than denying it for theoretical convenience.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The epistemic humility argument has a structural parallel in physics. Many-worlds eliminates collapse and the measurement problem by positing all outcomes occur—a parsimony move that purchases simplicity by multiplying entities infinitely. the project rejects this: accepting apparent complexity (real collapse, definite outcomes, [[haecceity|indexical identity]]) proves more honest than eliminative moves that deny what experience suggests. The same logic applies to consciousness: accepting its apparent reality is more epistemically responsible than denying it for theoretical convenience.
 
 ## The Practical Upshot
 
@@ -175,7 +175,7 @@ The price of this openness is entertaining possibilities that may turn out to be
 
 ## Further Reading
 
-- [[tenets]] — The site's foundational commitments
+- [[tenets]] — the project's foundational commitments
 - [[arguments-for-dualism]] — Positive arguments for dualism (complements this meta-level epistemic argument)
 - [[materialism]] — The position this article critiques
 - [[mysterianism]] — Why we may have cognitive limits on understanding consciousness

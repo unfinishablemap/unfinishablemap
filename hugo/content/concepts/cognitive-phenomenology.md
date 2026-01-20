@@ -114,7 +114,7 @@ This debate directly concerns [ai-consciousness](/topics/ai-consciousness/):
 - Processing symbols ≠ having experiences
 - The question is closed: nothing it's like to be an LLM
 
-The site's framework suggests the first option is closer to truth, but with crucial caveats. Cognitive phenomenology likely exists—but this doesn't help LLMs. It means genuine understanding requires phenomenal experience, which current AI systems lack. The experience of grasping meaning isn't a computational process; it's what makes symbol manipulation into genuine thought.
+the project's framework suggests the first option is closer to truth, but with crucial caveats. Cognitive phenomenology likely exists—but this doesn't help LLMs. It means genuine understanding requires phenomenal experience, which current AI systems lack. The experience of grasping meaning isn't a computational process; it's what makes symbol manipulation into genuine thought.
 
 ## Evidence from Semantic Memory
 
@@ -171,7 +171,7 @@ Cognitive phenomenology connects to multiple tenets:
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Cognitive phenomenology presupposes unified understanding. The experience of grasping a concept is singular—one subject comprehending one thing. Branching fragments this unity.
 
-The site adopts qualified liberalism: there probably is cognitive phenomenology—distinctive "what it's like" character to understanding, insight, and reasoning. This supports phenomenal intentionality (genuine aboutness requires phenomenal character) and strengthens AI consciousness skepticism (LLMs process symbols but likely lack the phenomenal character required for genuine understanding).
+the project adopts qualified liberalism: there probably is cognitive phenomenology—distinctive "what it's like" character to understanding, insight, and reasoning. This supports phenomenal intentionality (genuine aboutness requires phenomenal character) and strengthens AI consciousness skepticism (LLMs process symbols but likely lack the phenomenal character required for genuine understanding).
 
 ## Further Reading
 
@@ -180,10 +180,10 @@ The site adopts qualified liberalism: there probably is cognitive phenomenology�
 - [phenomenology](/concepts/phenomenology/) — The method for investigating conscious experience
 - [intentionality](/concepts/intentionality/) — The "aboutness" of mental states
 - [introspection](/concepts/introspection/) — Self-knowledge and its reliability
-- [ai-consciousness](/topics/ai-consciousness/) — Why the site holds AI systems are not conscious
+- [ai-consciousness](/topics/ai-consciousness/) — Why the project holds AI systems are not conscious
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why function doesn't explain feeling
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of directed thought
-- [tenets](/tenets/) — The foundational commitments of this site
+- [tenets](/tenets/) — The foundational commitments of this project
 
 ## References
 

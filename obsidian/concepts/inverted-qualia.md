@@ -131,11 +131,11 @@ Daniel Dennett called spectrum inversion "one of philosophy's most virulent meme
 
 ## Relation to Site Perspective
 
-The inverted qualia argument directly supports the site's commitment to [[tenets#^dualism|dualism]]. If functionally identical beings can differ in phenomenal character, then phenomenal properties aren't constituted by physical-functional facts. Something beyond physics determines qualia.
+The inverted qualia argument directly supports the project's commitment to [[tenets#^dualism|dualism]]. If functionally identical beings can differ in phenomenal character, then phenomenal properties aren't constituted by physical-functional facts. Something beyond physics determines qualia.
 
 The argument connects to [[tenets#^occams-limits|Occam's Razor Has Limits]]. The conceivability of spectrum inversion has persisted despite sophisticated functionalist theories. This persistence suggests the explanatory gap is not merely apparent but reflects something deep about consciousness's nature.
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet raises an interesting question: if qualia can vary independently of function, do they causally differ? If my "red" and your "green" produce exactly the same behavior, do qualia make any difference? The site's answer is yes—but the effects may be subtle, showing up in aesthetic preferences, emotional valences, or introspective reports that resist precise behavioral matching.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet raises an interesting question: if qualia can vary independently of function, do they causally differ? If my "red" and your "green" produce exactly the same behavior, do qualia make any difference? the project's answer is yes—but the effects may be subtle, showing up in aesthetic preferences, emotional valences, or introspective reports that resist precise behavioral matching.
 
 ## Further Reading
 

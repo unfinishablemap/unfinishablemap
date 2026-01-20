@@ -28,7 +28,7 @@ topics: []
 
 ## Executive Summary
 
-These four articles represent the site's core philosophical commitments. They are comprehensive and well-cross-referenced, but critical examination reveals three structural vulnerabilities: (1) the quantum mechanism is asserted as *the* location of interaction without adequately defending why alternatives fail, (2) the "convergence" rhetoric masks potential circularity—many "independent" arguments rely on the same conceivability intuitions, and (3) the refutations of illusionism consistently rely on "regress" objections that illusionists have addressed. The articles also share a pattern of presenting the site's framework as the only viable option when the actual logical landscape is more open.
+These four articles represent the project's core philosophical commitments. They are comprehensive and well-cross-referenced, but critical examination reveals three structural vulnerabilities: (1) the quantum mechanism is asserted as *the* location of interaction without adequately defending why alternatives fail, (2) the "convergence" rhetoric masks potential circularity—many "independent" arguments rely on the same conceivability intuitions, and (3) the refutations of illusionism consistently rely on "regress" objections that illusionists have addressed. The articles also share a pattern of presenting the project's framework as the only viable option when the actual logical landscape is more open.
 
 ## Critiques by Philosopher
 
@@ -74,14 +74,14 @@ These four articles represent the site's core philosophical commitments. They ar
 
 - **Files**: `concepts/qualia.md`, `concepts/philosophical-zombies.md`, `topics/ai-consciousness.md`
 - **Location**: Illusionism responses throughout
-- **Problem**: All three articles deploy the same "regress objection" against illusionism: to be under an illusion, something must experience the illusion, so phenomenal consciousness isn't eliminated. But illusionists have responses. Frankish argues that "seeming" doesn't require phenomenal properties—a system can represent-as-X without there being a "what it's like" to the representing. The articles don't engage with this reply; they assert that all representation presupposes experience without argument. If illusionism has coherent formulations that avoid the regress, the site's confident dismissal is premature.
+- **Problem**: All three articles deploy the same "regress objection" against illusionism: to be under an illusion, something must experience the illusion, so phenomenal consciousness isn't eliminated. But illusionists have responses. Frankish argues that "seeming" doesn't require phenomenal properties—a system can represent-as-X without there being a "what it's like" to the representing. The articles don't engage with this reply; they assert that all representation presupposes experience without argument. If illusionism has coherent formulations that avoid the regress, the project's confident dismissal is premature.
 - **Severity**: High
 - **Recommendation**: Engage with specific illusionist responses to the regress objection. Frankish's quasi-phenomenal properties, for instance, are designed precisely to block this move. Show why these attempts fail rather than assuming they do.
 
 ### Issue 2: Convergence Claim Overstated
 
 - **Files**: `concepts/philosophical-zombies.md`, `concepts/qualia.md`
-- **Location**: "The Convergence Argument" section (zombies), "Relation to This Site's Perspective" (qualia)
+- **Location**: "The Convergence Argument" section (zombies), "Relation to this project's Perspective" (qualia)
 - **Problem**: Both articles emphasize that "multiple independent arguments converge" on dualism. But how independent are they? The zombie argument, knowledge argument, and explanatory gap argument all depend on the same core intuition: that we can conceptually separate structural/functional descriptions from qualitative character. This is one intuition expressed in three ways, not three independent discoveries. An eliminativist who denies the intuition defeats all three. The convergence provides less confirmation than claimed because the arguments share an epistemic base.
 - **Severity**: Medium
 - **Recommendation**: Acknowledge the shared epistemic base. Argue that the *intuition* is reliable rather than pretending independent arguments confirm each other. Convergence from a single well-grounded intuition is fine; claiming three independent confirmations is misleading.
@@ -106,7 +106,7 @@ These four articles represent the site's core philosophical commitments. They ar
 
 - **Files**: All four articles
 - **Location**: "Process Philosophy Perspective" sections
-- **Problem**: Each article includes a Whitehead section that doesn't do argumentative work. The sections claim that Whitehead's framework "illuminates" why the site's position is correct, but they're post-hoc interpretations rather than independent support. If someone doesn't already accept dualism, Whitehead's actual occasions won't convince them—the framework is itself a form of panexperientialism that presupposes experiential primitives. These sections feel like appeals to philosophical authority rather than arguments.
+- **Problem**: Each article includes a Whitehead section that doesn't do argumentative work. The sections claim that Whitehead's framework "illuminates" why the project's position is correct, but they're post-hoc interpretations rather than independent support. If someone doesn't already accept dualism, Whitehead's actual occasions won't convince them—the framework is itself a form of panexperientialism that presupposes experiential primitives. These sections feel like appeals to philosophical authority rather than arguments.
 - **Severity**: Low
 - **Recommendation**: Either (a) remove these sections and save space, (b) explain why Whitehead's framework is independently motivated (not just compatible with dualism), or (c) move them to a dedicated "Connections to Process Philosophy" article for readers who find that framework illuminating.
 
@@ -115,7 +115,7 @@ These four articles represent the site's core philosophical commitments. They ar
 ### On the Self-Stultification Argument
 - **Current content says**: Epiphenomenalism is self-undermining because if consciousness is causally inert, our beliefs about consciousness can't be caused by consciousness.
 - **A critic would argue**: This confuses token causation with type causation. The *token* brain state that is my belief about pain might be caused by the *token* brain state that is my pain—no ghostly causation needed. The causal relevance of consciousness is grounded in the identity: the same physical state is both the pain and the cause of the belief. Epiphenomenalism about *non-physical* qualia doesn't prevent physical states from causing accurate reports.
-- **Suggested response**: Distinguish the site's target more carefully. Is the argument against epiphenomenalism about non-physical properties, or against any view that denies mental causation? If the former, the critic's response shows we need an argument that non-physical properties are causally relevant. If the latter, the argument proves too little—physicalists grant mental causation under physical identity.
+- **Suggested response**: Distinguish the project's target more carefully. Is the argument against epiphenomenalism about non-physical properties, or against any view that denies mental causation? If the former, the critic's response shows we need an argument that non-physical properties are causally relevant. If the latter, the argument proves too little—physicalists grant mental causation under physical identity.
 
 ### On the Conceivability-Possibility Link
 - **Current content says**: If zombies are conceivable, they're metaphysically possible. Conceivability is evidence of possibility.
@@ -141,8 +141,8 @@ These four articles represent the site's core philosophical commitments. They ar
 | Current | Issue | Suggested |
 |---------|-------|-----------|
 | "The redness is *right there*, being experienced" (qualia.md) | Rhetorical flourish, not argument | "The apparent immediacy of qualia grounds their epistemic weight" |
-| "Consciousness doesn't just accompany brain states; it selects among physically underdetermined alternatives" (interactionist.md) | States mechanism as fact | "The site's framework proposes that consciousness selects..." |
-| "There's nothing it's like to be a large language model, however fluently it converses" (ai-consciousness.md) | Asserts what's at issue | "If the site's framework is correct, LLMs lack experience regardless of behavioral sophistication" |
+| "Consciousness doesn't just accompany brain states; it selects among physically underdetermined alternatives" (interactionist.md) | States mechanism as fact | "the project's framework proposes that consciousness selects..." |
+| "There's nothing it's like to be a large language model, however fluently it converses" (ai-consciousness.md) | Asserts what's at issue | "If the project's framework is correct, LLMs lack experience regardless of behavioral sophistication" |
 | "Eliminativism about *that* is incoherent" (interactionist.md) | Too dismissive | "Eliminativism about immediate experience faces the challenge of explaining what grounds our universal conviction that we experience" |
 
 ## Strengths (Brief)
@@ -157,6 +157,6 @@ Despite criticisms, these articles succeed in important ways:
 
 4. **Engagement with contemporary work**: The AI consciousness article engages with Hoel's 2025 proximity argument and continual learning criteria. The framework is not frozen in 1990s debates.
 
-5. **Clear structure**: All four articles follow the site template with front-loaded summaries, explicit section headings, and tenet connection sections. They model good LLM-optimized writing.
+5. **Clear structure**: All four articles follow the project template with front-loaded summaries, explicit section headings, and tenet connection sections. They model good LLM-optimized writing.
 
 6. **Fair presentation of opponents**: Dennett, Frankish, Tegmark, and others receive substantive treatment rather than straw-man dismissals. The disagreements are genuine, not manufactured.

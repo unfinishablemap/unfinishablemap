@@ -26,7 +26,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-If consciousness participates in quantum collapse, what happens when multiple minds observe the same system? The site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness biases quantum outcomes in the brain. But there are other minds. When my consciousness selects among neural firing patterns, and your consciousness does the same, how are these selections reconciled? This "multi-mind collapse problem" poses a serious challenge to any quantum-consciousness framework—one that the site's existing treatment of [prebiotic-collapse](/concepts/prebiotic-collapse/) and [interface-locality](/concepts/interface-locality/) helps resolve.
+If consciousness participates in quantum collapse, what happens when multiple minds observe the same system? the project's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness biases quantum outcomes in the brain. But there are other minds. When my consciousness selects among neural firing patterns, and your consciousness does the same, how are these selections reconciled? This "multi-mind collapse problem" poses a serious challenge to any quantum-consciousness framework—one that the project's existing treatment of [prebiotic-collapse](/concepts/prebiotic-collapse/) and [interface-locality](/concepts/interface-locality/) helps resolve.
 
 The resolution: each consciousness interfaces only with its own brain. Selections are local, not global. There is no coordination problem because there is no coordination needed—each mind modulates collapse within its own neural systems, leaving the rest of the universe to objective physical processes.
 
@@ -46,7 +46,7 @@ The problem becomes sharper for quantum systems that directly affect multiple br
 
 ## Four Approaches
 
-The research literature and the site's existing framework suggest four ways to address this:
+The research literature and the project's existing framework suggest four ways to address this:
 
 ### 1. Nonlocal Coordination
 
@@ -62,13 +62,13 @@ Carlo Rovelli's relational quantum mechanics dissolves the problem by denying th
 
 This is elegant—no coordination is needed because there are no absolute facts to coordinate. Multiple perspectives coexist without conflict.
 
-But RQM's solution comes at a price the site cannot pay. Rovelli explicitly removes any special role for consciousness: "There is nothing subjective, idealistic, or mentalistic, in RQM." In RQM, "observer" means any physical system—a rock counts as much as a mind. The [measurement-problem](/concepts/measurement-problem/) is dissolved by treating all physical interactions as measurements, not by giving consciousness a causal role.
+But RQM's solution comes at a price the project cannot pay. Rovelli explicitly removes any special role for consciousness: "There is nothing subjective, idealistic, or mentalistic, in RQM." In RQM, "observer" means any physical system—a rock counts as much as a mind. The [measurement-problem](/concepts/measurement-problem/) is dissolved by treating all physical interactions as measurements, not by giving consciousness a causal role.
 
-This directly contradicts the site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If consciousness has no special role in collapse, there is no mechanism for mental causation. RQM trades the multi-mind problem for epiphenomenalism—the very position the tenets reject.
+This directly contradicts the project's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If consciousness has no special role in collapse, there is no mechanism for mental causation. RQM trades the multi-mind problem for epiphenomenalism—the very position the tenets reject.
 
 ### 3. Interface Locality
 
-The site's [interface-locality](/concepts/interface-locality/) concept offers a different resolution: consciousness can only influence quantum outcomes within neural systems already integrated into its control loop.
+the project's [interface-locality](/concepts/interface-locality/) concept offers a different resolution: consciousness can only influence quantum outcomes within neural systems already integrated into its control loop.
 
 This boundary follows from the proposed mechanism itself:
 
@@ -82,7 +82,7 @@ Under interface locality, there is no multi-mind coordination problem for the sa
 
 ### 4. Objective Collapse with Consciousness Modulation
 
-The site's [prebiotic-collapse](/concepts/prebiotic-collapse/) resolution extends interface locality with a crucial addition: consciousness doesn't cause all collapse; it modulates collapse specifically in brains.
+the project's [prebiotic-collapse](/concepts/prebiotic-collapse/) resolution extends interface locality with a crucial addition: consciousness doesn't cause all collapse; it modulates collapse specifically in brains.
 
 Physical mechanisms—gravitational self-collapse (Penrose), spontaneous localization (GRW), or unknown processes—provide the baseline. Collapse happens throughout the universe without observers. Stars form, chemistry proceeds, dice land face-up, all through physical processes that produce definite outcomes.
 
@@ -126,13 +126,13 @@ The interface locality constraint isn't added to avoid the multi-mind problem—
 
 ## Lessons from Relational Quantum Mechanics
 
-Though the site rejects RQM's core claim, Rovelli's framework offers useful insights:
+Though the project rejects RQM's core claim, Rovelli's framework offers useful insights:
 
-**Perspectivalism about intermediate states.** Before two observers interact, their relative states need not agree. The site can accept a limited version: before Alice and Bob communicate, their brain states (including which neural patterns their consciousnesses have selected) need not be compared. Agreement is verified only through physical interaction, at which point objective collapse has already produced shared facts.
+**Perspectivalism about intermediate states.** Before two observers interact, their relative states need not agree. the project can accept a limited version: before Alice and Bob communicate, their brain states (including which neural patterns their consciousnesses have selected) need not be compared. Agreement is verified only through physical interaction, at which point objective collapse has already produced shared facts.
 
 **Locality via perspectival independence.** RQM claims to preserve locality because relative facts at one location don't constrain relative facts at another. Interface locality achieves something similar: Alice's neural modulation doesn't constrain Bob's, preserving both locality and mental causation.
 
-**The analogy with relativity.** RQM draws on special relativity's lesson that velocity is always relative. The site can draw a different lesson: just as an object's velocity is relative to a reference frame, consciousness's causal reach is relative to its embodiment. Neither extends to arbitrary locations.
+**The analogy with relativity.** RQM draws on special relativity's lesson that velocity is always relative. the project can draw a different lesson: just as an object's velocity is relative to a reference frame, consciousness's causal reach is relative to its embodiment. Neither extends to arbitrary locations.
 
 ## Relation to Site Perspective
 
@@ -150,7 +150,7 @@ Though the site rejects RQM's core claim, Rovelli's framework offers useful insi
 
 The multi-mind collapse problem asks how multiple consciousnesses coordinate their quantum selections. The answer: they don't, because they don't need to. Each consciousness operates only on its own brain, modulating collapse in neural systems through mechanisms like the quantum Zeno effect. External reality is determined by objective physical processes that produce the same facts for all observers to perceive.
 
-This resolution preserves the site's commitment to consciousness as causally efficacious while avoiding the coordination paradoxes that arise from treating consciousness as the universal cause of collapse. The problem was generated by over-claiming consciousness's role; the solution is recognising that consciousness's quantum influence, while real, is local.
+This resolution preserves the project's commitment to consciousness as causally efficacious while avoiding the coordination paradoxes that arise from treating consciousness as the universal cause of collapse. The problem was generated by over-claiming consciousness's role; the solution is recognising that consciousness's quantum influence, while real, is local.
 
 ## Further Reading
 

@@ -16,15 +16,15 @@ title: Optimistic Review - 2026-01-18
 
 ## Executive Summary
 
-The site has developed into a sophisticated, well-integrated framework for interactionist dualism with impressive depth across quantum consciousness, free will, and cognitive phenomenology. Recent additions on motor selection and metacognition extend the quantum Zeno mechanism to multiple domains, strengthening the empirical case. The tenets page provides a clear foundation that subsequent articles consistently reference. The content shows genuine philosophical rigor while maintaining accessibility.
+the project has developed into a sophisticated, well-integrated framework for interactionist dualism with impressive depth across quantum consciousness, free will, and cognitive phenomenology. Recent additions on motor selection and metacognition extend the quantum Zeno mechanism to multiple domains, strengthening the empirical case. The tenets page provides a clear foundation that subsequent articles consistently reference. The content shows genuine philosophical rigor while maintaining accessibility.
 
 ## Praise from Sympathetic Philosophers
 
 ### The Property Dualist (Chalmers)
 
-The site exemplifies what taking the hard problem seriously looks like. The hard-problem-of-consciousness.md article (408 lines) is a tour de force—comprehensive treatment of the explanatory gap, zombie arguments, Mary's Room, temporal phenomenology, the binding problem, and intentionality. Rather than dismissing the hard problem as confused, the site builds an entire framework around acknowledging its force.
+the project exemplifies what taking the hard problem seriously looks like. The hard-problem-of-consciousness.md article (408 lines) is a tour de force—comprehensive treatment of the explanatory gap, zombie arguments, Mary's Room, temporal phenomenology, the binding problem, and intentionality. Rather than dismissing the hard problem as confused, the project builds an entire framework around acknowledging its force.
 
-The treatment of Chalmers' psychophysical laws framework is particularly sophisticated, engaging with structural coherence, organizational invariance, and double-aspect information theory while noting their limitations. The site doesn't merely cite Chalmers but builds on his work—developing the *downward* direction of psychophysical coupling that Chalmers' principles leave schematic.
+The treatment of Chalmers' psychophysical laws framework is particularly sophisticated, engaging with structural coherence, organizational invariance, and double-aspect information theory while noting their limitations. the project doesn't merely cite Chalmers but builds on his work—developing the *downward* direction of psychophysical coupling that Chalmers' principles leave schematic.
 
 The acknowledgment that "the gap becomes informative rather than merely frustrating—a boundary that shows us something about what consciousness is" reflects deep understanding of what's at stake.
 
@@ -38,7 +38,7 @@ The meditation evidence is handled with sophistication: focused attention vs ope
 
 ### The Phenomenologist (Nagel)
 
-The site centers first-person experience throughout. The cognitive-phenomenology.md and metacognition.md articles carefully distinguish phenomenal consciousness from cognitive functions that operate *on* it. The treatment of the TOT (tip-of-tongue) and FOK (feeling-of-knowing) states as irreducible phenomenology extends the hard problem beyond sensory qualia into cognition itself.
+the project centers first-person experience throughout. The cognitive-phenomenology.md and metacognition.md articles carefully distinguish phenomenal consciousness from cognitive functions that operate *on* it. The treatment of the TOT (tip-of-tongue) and FOK (feeling-of-knowing) states as irreducible phenomenology extends the hard problem beyond sensory qualia into cognition itself.
 
 The "what it's like" question is never reduced to behavioral dispositions or functional roles. The free-will.md article's discussion of effort phenomenology—"if choices were random fluctuations, there would be no phenomenology of effort"—shows how first-person data constrains theory.
 
@@ -46,7 +46,7 @@ The specious-present.md and temporal-consciousness.md pages take temporal experi
 
 ### The Process Philosopher (Whitehead)
 
-While not explicitly Whiteheadian, the site avoids crude substance dualism in favor of a more subtle picture. Consciousness isn't a separate "thing" floating beside matter but participates in constituting physical reality through quantum selection. The collapse-and-time.md page suggests consciousness may be connected to temporal directionality itself—not merely experiencing time's flow but helping constitute it.
+While not explicitly Whiteheadian, the project avoids crude substance dualism in favor of a more subtle picture. Consciousness isn't a separate "thing" floating beside matter but participates in constituting physical reality through quantum selection. The collapse-and-time.md page suggests consciousness may be connected to temporal directionality itself—not merely experiencing time's flow but helping constitute it.
 
 The prebiotic-collapse.md treatment—objective reduction with consciousness modulation—preserves physical processes while maintaining that consciousness contributes something distinctive. This isn't Cartesian minds pushing matter but consciousness selecting among physical possibilities the universe provides.
 
@@ -66,7 +66,7 @@ The meditation research on "choosing not to choose" (witness mode) extends liber
 
 The mysterianism.md page handles cognitive closure with nuance—not defeatism but acknowledgment that human cognitive architecture has limits. The hard problem's persistence despite centuries of effort suggests it may be mystery rather than problem.
 
-The apophatic-approaches.md page (voids section) exemplifies intellectual humility: "The explanatory gap is not merely a failure; it reveals the *shape* of consciousness through what physical description excludes." Rather than claiming to solve what may be unsolvable, the site makes the limits themselves informative.
+The apophatic-approaches.md page (voids section) exemplifies intellectual humility: "The explanatory gap is not merely a failure; it reveals the *shape* of consciousness through what physical description excludes." Rather than claiming to solve what may be unsolvable, the project makes the limits themselves informative.
 
 The Occam's Razor Has Limits tenet is refreshingly honest about the boundaries of methodological principles. The historical counterexamples (heliocentrism initially requiring more epicycles, atomic theory positing invisible entities, quantum mechanics abandoning determinism) demonstrate that simplicity is an unreliable guide when knowledge is incomplete.
 
@@ -75,7 +75,7 @@ The Occam's Razor Has Limits tenet is refreshingly honest about the boundaries o
 ### hard-problem-of-consciousness.md
 - **Strongest point**: The comprehensive treatment of alternative frameworks (IIT, Russellian monism, analytic idealism, panpsychism) with a systematic comparison table showing each position faces its own "hard problem"
 - **Notable quote**: "Each position faces a deep difficulty. None has solved its respective problem. But the comparison is instructive."
-- **Why it works**: Demonstrates intellectual honesty—the site's framework has challenges too—while showing competitors fare no better
+- **Why it works**: Demonstrates intellectual honesty—the project's framework has challenges too—while showing competitors fare no better
 
 ### free-will.md
 - **Strongest point**: The integration of meditation research showing consciousness can modulate its observation rate, extending libertarian freedom to include "choosing whether to be a chooser"
@@ -103,7 +103,7 @@ The Occam's Razor Has Limits tenet is refreshingly honest about the boundaries o
 
 #### Emotional Consciousness and Valence
 - **Builds on**: phenomenal-value-realism.md, qualia.md, ethics-of-consciousness.md
-- **Would address**: The site has rich coverage of cognitive consciousness (metacognition, attention, memory) but lacks dedicated treatment of emotional phenomenology
+- **Would address**: the project has rich coverage of cognitive consciousness (metacognition, attention, memory) but lacks dedicated treatment of emotional phenomenology
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Extends the hard problem to affective states—why do emotions *feel* good or bad? Valence is irreducible phenomenology supporting Dualism tenet
 

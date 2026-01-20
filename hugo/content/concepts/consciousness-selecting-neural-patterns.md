@@ -30,7 +30,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Consciousness-selecting neural patterns is the proposed mechanism by which consciousness influences physical brain activity. Rather than consciousness passively observing neural events or being epiphenomenal, this framework proposes that consciousness selects which quantum possibilities become actual neural firing patterns. This implements the site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenets concretely.
+Consciousness-selecting neural patterns is the proposed mechanism by which consciousness influences physical brain activity. Rather than consciousness passively observing neural events or being epiphenomenal, this framework proposes that consciousness selects which quantum possibilities become actual neural firing patterns. This implements the project's [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenets concretely.
 
 The core claim: when neural systems exist in quantum superposition—multiple possible firing patterns coexisting—consciousness determines which pattern actualizes. This selection occurs at the quantum level, where physics leaves outcomes genuinely undetermined. Consciousness doesn't violate physical law; it completes it by selecting what physics leaves open.
 
@@ -146,13 +146,13 @@ This is the minimal interpretation of Stapp's Process 1: consciousness chooses w
 - **Mental variable**: The "now" of conscious awareness
 - **Physical variable**: Which moment becomes actual (selected atemporally)
 
-This connects to the site's [No Many Worlds](/tenets/#no-many-worlds) tenet—consciousness selects which outcome is experienced as "this one" rather than causing outcomes directly.
+This connects to the project's [No Many Worlds](/tenets/#no-many-worlds) tenet—consciousness selects which outcome is experienced as "this one" rather than causing outcomes directly.
 
 These constraint families are developed in detail as candidate coupling laws in [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/), where they are evaluated against the ~10 bits/second bandwidth constraint that empirically limits what selection can accomplish.
 
 ## Relation to Site Perspective
 
-Consciousness-selecting neural patterns implements three of the site's five tenets:
+Consciousness-selecting neural patterns implements three of the project's five tenets:
 
 **Minimal Quantum Interaction**: Selection operates at quantum indeterminacies without injecting energy or violating conservation laws. Consciousness shapes which pre-existing possibility actualizes. The "minimal" constraint is satisfied: no mysterious forces, no physical law violations, just selection where physics leaves room.
 
@@ -174,7 +174,7 @@ The remaining tenets are compatible:
 
 **Timing and retrocausality**: If selection is atemporal—operating outside linear time—how does it relate to the subjective flow of experience?
 
-**The coupling law**: What psychophysical laws govern selection? The site proposes the mechanism but acknowledges that the detailed mapping from conscious states to physical selections remains to be specified. See [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) for four candidate coupling laws (attention-bounded, policy-level, basis-choice, and indexical) and the bandwidth constraints any coupling law must respect.
+**The coupling law**: What psychophysical laws govern selection? the project proposes the mechanism but acknowledges that the detailed mapping from conscious states to physical selections remains to be specified. See [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) for four candidate coupling laws (attention-bounded, policy-level, basis-choice, and indexical) and the bandwidth constraints any coupling law must respect.
 
 ## Further Reading
 
@@ -187,7 +187,7 @@ The remaining tenets are compatible:
 - [causal-closure](/concepts/causal-closure/) — The principle selection challenges
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse creates logical space for consciousness
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The philosophical framework selection implements
-- [tenets](/tenets/) — The site's foundational commitments
+- [tenets](/tenets/) — the project's foundational commitments
 
 ## References
 

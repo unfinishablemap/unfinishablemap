@@ -30,7 +30,7 @@ topics: []
 
 ### Medium Issues Found
 - **No illusionist engagement**: Added subsection "The Illusionist Response" with the self-stultification counter-argument (misrepresentation presupposes presentation)
-- **No Many-Worlds connection**: Added "Why Not Many Worlds?" subsection explaining why the site's rejection of MWI is essential for mental causation
+- **No Many-Worlds connection**: Added "Why Not Many Worlds?" subsection explaining why the project's rejection of MWI is essential for mental causation
 - **Missing process philosophy perspective**: Added subsection on Whitehead's "actual occasions" as alternative framing where all causation is experiential
 
 ### Counterarguments Considered

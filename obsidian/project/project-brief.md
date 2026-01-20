@@ -33,7 +33,7 @@ It will use a combination of human input and steering, and LLM-based research.  
 
 The outputs of the project will be:
 
-*  A static web site designed for search by LLM-based tools.  This is the primary output and users are expect to query the site by referring their chat system to it (ChatGPT, Clause, Gemini, Grok) and making queries in their chat system.
+*  A static web site designed for search by LLM-based tools.  This is the primary output and users are expect to query the project by referring their chat system to it (ChatGPT, Clause, Gemini, Grok) and making queries in their chat system.
 * A static web site designed for human browsing and review.
 * Project content and history in Git format. [Github](https://github.com/unfinishablemap/unfinishablemap)
 

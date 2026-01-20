@@ -23,7 +23,7 @@ ai_system: claude-opus-4-5-20251101
 
 ## Executive Summary
 
-Implicit memory—encompassing procedural skills, priming, and conditioning—presents a fascinating challenge for consciousness studies. Tulving's "anoetic consciousness" accompanies procedural memory: awareness without knowing, action without reflection. The Dreyfus model charts skill acquisition from rule-bound novice to intuitive expert, with consciousness receding as automaticity develops. Crucially, conscious attention to automatized skills *degrades* performance ("choking under pressure"), suggesting consciousness and procedural execution operate differently. Embodied cognition theorists use implicit memory to challenge Cartesian dualism, but the site's framework can integrate these insights: consciousness may function as an interface that delegates to procedural systems, withdrawing attention once skills are established. The phenomenology of skills becoming automatic—and the negative effects of conscious interference—provides evidence for bidirectional interaction at the attention interface.
+Implicit memory—encompassing procedural skills, priming, and conditioning—presents a fascinating challenge for consciousness studies. Tulving's "anoetic consciousness" accompanies procedural memory: awareness without knowing, action without reflection. The Dreyfus model charts skill acquisition from rule-bound novice to intuitive expert, with consciousness receding as automaticity develops. Crucially, conscious attention to automatized skills *degrades* performance ("choking under pressure"), suggesting consciousness and procedural execution operate differently. Embodied cognition theorists use implicit memory to challenge Cartesian dualism, but the project's framework can integrate these insights: consciousness may function as an interface that delegates to procedural systems, withdrawing attention once skills are established. The phenomenology of skills becoming automatic—and the negative effects of conscious interference—provides evidence for bidirectional interaction at the attention interface.
 
 ## Key Sources
 
@@ -129,7 +129,7 @@ Implicit memory—encompassing procedural skills, priming, and conditioning—pr
   - Implicit skills are neither purely mental nor purely physical
   - Conscious experience depends on implicit sensorimotor mastery
   - Phenomenology eliminates both entity and attribute dualism
-- **Relation to site tenets**: *Apparently* conflicts with dualism, but compatible with interface hypothesis. The site doesn't claim consciousness is disembodied—it interacts *through* the body at specific interfaces. Body memory shows *where* the interface operates, not that there's no consciousness distinct from body.
+- **Relation to site tenets**: *Apparently* conflicts with dualism, but compatible with interface hypothesis. the project doesn't claim consciousness is disembodied—it interacts *through* the body at specific interfaces. Body memory shows *where* the interface operates, not that there's no consciousness distinct from body.
 
 ### Explicit Monitoring Theory (Choking)
 - **Proponents**: Baumeister, Beilock, Masters
@@ -216,7 +216,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 ## Gaps in Research
 
-- **Quantum connection**: No direct research on whether procedural execution involves quantum processes. The site's quantum mechanism focuses on attention; is procedural memory "outside" this mechanism?
+- **Quantum connection**: No direct research on whether procedural execution involves quantum processes. the project's quantum mechanism focuses on attention; is procedural memory "outside" this mechanism?
 - **AI implications**: LLMs can implement procedural-like processes but lack phenomenology. What does this mean for anoetic consciousness?
 - **Developmental transition**: How does the anoetic → noetic → autonoetic hierarchy develop ontogenetically? Relevant to childhood amnesia.
 - **Meditation and skills**: Do contemplative practices alter the relationship between consciousness and procedural memory? Potential neurophenomenology connection.
@@ -231,7 +231,7 @@ The research supports several site positions:
 
 3. **Against eliminativism**: Even Tulving's "anoetic" consciousness has phenomenal character. There's no cognitive domain without some form of experience.
 
-4. **Nuanced dualism**: Embodied cognition challenges crude substance dualism but supports the site's interface framework. Body memory isn't refutation—it's evidence of *where* the interface operates.
+4. **Nuanced dualism**: Embodied cognition challenges crude substance dualism but supports the project's interface framework. Body memory isn't refutation—it's evidence of *where* the interface operates.
 
 ## Citations
 

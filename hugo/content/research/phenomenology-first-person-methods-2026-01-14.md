@@ -30,7 +30,7 @@ topics:
 
 ## Executive Summary
 
-Phenomenology is the philosophical tradition most committed to first-person investigation of consciousness. Founded by Edmund Husserl (1859-1938) and developed by Heidegger, Merleau-Ponty, and Sartre, it provides systematic methods for exploring consciousness from within. The core method—epoché or "bracketing"—suspends assumptions about the external world to attend to the structures of experience itself. For the site's dualist framework, phenomenology offers powerful support: it demonstrates that consciousness has an intricate first-person structure that cannot be captured by third-person physical descriptions. The intentionality of consciousness (its directedness toward objects), the temporal flow of experience, and the embodied character of perception all point to irreducible features of mind that materialist accounts struggle to accommodate.
+Phenomenology is the philosophical tradition most committed to first-person investigation of consciousness. Founded by Edmund Husserl (1859-1938) and developed by Heidegger, Merleau-Ponty, and Sartre, it provides systematic methods for exploring consciousness from within. The core method—epoché or "bracketing"—suspends assumptions about the external world to attend to the structures of experience itself. For the project's dualist framework, phenomenology offers powerful support: it demonstrates that consciousness has an intricate first-person structure that cannot be captured by third-person physical descriptions. The intentionality of consciousness (its directedness toward objects), the temporal flow of experience, and the embodied character of perception all point to irreducible features of mind that materialist accounts struggle to accommodate.
 
 ## Key Concepts
 
@@ -52,7 +52,7 @@ The fundamental insight: consciousness is always consciousness *of* something—
 - The "noema" (Husserl) is the object-as-intended, distinct from actual objects
 - Intentionality reveals consciousness's active, meaning-conferring character
 
-This connects directly to the site's [intentionality](/concepts/intentionality/) article and supports the Dualism tenet: intentionality has resisted naturalization because the "aboutness" of mental states cannot be reduced to physical relations.
+This connects directly to the project's [intentionality](/concepts/intentionality/) article and supports the Dualism tenet: intentionality has resisted naturalization because the "aboutness" of mental states cannot be reduced to physical relations.
 
 ### The Major Figures
 

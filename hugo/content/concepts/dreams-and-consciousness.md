@@ -265,7 +265,7 @@ The process perspective doesn't require that dreams involve quantum effects (tho
 
 ## Relation to Site Perspective
 
-Dreams bear directly on the site's [tenets](/tenets/):
+Dreams bear directly on the project's [tenets](/tenets/):
 
 **[Dualism](/tenets/#dualism)**: Dreams demonstrate consciousness generating experiential worlds independently of external input. The hard problem persists: why does any neural activity feel like anything? Dreams make this question more pressing, not less. The brain generates elaborate experience during sleep—but "generates" slides between the computational (which we understand) and the phenomenal (which remains mysterious).
 
@@ -273,7 +273,7 @@ Dreams bear directly on the site's [tenets](/tenets/):
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If consciousness operates through attention-mediated quantum effects during waking, what happens during dreams? The [interface hypothesis](/concepts/attention-as-interface/) suggests dreams represent a mode where the quantum selection mechanism operates differently—still active but with altered parameters. The phenomenology of lucid dreaming as "interface reactivation" (prefrontal regions coming back online) maps onto this framework: ordinary dreams involve partial interface operation; lucidity restores fuller interface engagement. This makes testable predictions: lucid dreams should show neural signatures closer to waking attention patterns, which recent research confirms.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The site's rejection of Many-Worlds has implications for dream phenomenology. If all quantum outcomes occur in parallel branches, there would be versions of us dreaming every possible dream—the question "why am I having *this* dream?" would be as meaningless as "why am I *this* branch?" The felt singularity of each dream—this particular narrative unfolding rather than another—makes intuitive sense only if dream events are genuinely selected rather than all occurring in parallel. Dream yoga's emphasis on recognizing the constructed nature of dream experience supports taking indexical questions seriously rather than dismissing them.
+**[No Many Worlds](/tenets/#no-many-worlds)**: the project's rejection of Many-Worlds has implications for dream phenomenology. If all quantum outcomes occur in parallel branches, there would be versions of us dreaming every possible dream—the question "why am I having *this* dream?" would be as meaningless as "why am I *this* branch?" The felt singularity of each dream—this particular narrative unfolding rather than another—makes intuitive sense only if dream events are genuinely selected rather than all occurring in parallel. Dream yoga's emphasis on recognizing the constructed nature of dream experience supports taking indexical questions seriously rather than dismissing them.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Tibetan dream yoga, developed over a millennium through systematic first-person investigation, reveals aspects of consciousness inaccessible to third-person neuroscience. Dismissing this tradition because it's not "scientific" applies Occam's Razor to domains where its reliability is unknown. Similarly, the [introspective reports](/concepts/introspection/) of lucid dreamers—consistent across cultures and centuries—constitute evidence that cannot be captured by external measurement alone.
 

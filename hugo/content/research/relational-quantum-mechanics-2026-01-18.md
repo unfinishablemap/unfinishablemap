@@ -29,7 +29,7 @@ topics:
 
 ## Executive Summary
 
-Relational Quantum Mechanics (RQM), developed by Carlo Rovelli since 1996, proposes that quantum states are not absolute properties of systems but relations between systems. There is no "view from nowhere"—all facts are relative to specific observers (where "observer" means any physical system, not necessarily conscious). This research explores whether RQM resolves the multi-observer collapse problem raised in the site's framework, and evaluates its implications for consciousness-causes-collapse approaches like Stapp's. The key finding: RQM explicitly removes any special role for consciousness, treating measurement as ordinary physical interaction. This conflicts directly with the site's tenets. However, RQM's treatment of locality and multi-observer scenarios reveals important considerations for any quantum-consciousness framework dealing with multiple minds.
+Relational Quantum Mechanics (RQM), developed by Carlo Rovelli since 1996, proposes that quantum states are not absolute properties of systems but relations between systems. There is no "view from nowhere"—all facts are relative to specific observers (where "observer" means any physical system, not necessarily conscious). This research explores whether RQM resolves the multi-observer collapse problem raised in the project's framework, and evaluates its implications for consciousness-causes-collapse approaches like Stapp's. The key finding: RQM explicitly removes any special role for consciousness, treating measurement as ordinary physical interaction. This conflicts directly with the project's tenets. However, RQM's treatment of locality and multi-observer scenarios reveals important considerations for any quantum-consciousness framework dealing with multiple minds.
 
 ## Key Sources
 
@@ -107,7 +107,7 @@ Relational Quantum Mechanics (RQM), developed by Carlo Rovelli since 1996, propo
   1. Measurement problem requires something to select outcomes
   2. Von Neumann's infinite regress requires a final non-physical observer
   3. Intentionality and subjective experience are fundamental features of observation
-- **Relation to site tenets**: **Aligns with** Bidirectional Interaction and Minimal Quantum Interaction. The site's framework follows this tradition via Stapp's quantum Zeno approach.
+- **Relation to site tenets**: **Aligns with** Bidirectional Interaction and Minimal Quantum Interaction. the project's framework follows this tradition via Stapp's quantum Zeno approach.
 
 ### QBism (Quantum Bayesianism)
 - **Proponents**: Christopher Fuchs, Ruediger Schack, David Mermin
@@ -127,7 +127,7 @@ Relational Quantum Mechanics (RQM), developed by Carlo Rovelli since 1996, propo
 - **The problem**: If consciousness causes collapse, and there are multiple conscious minds, how are their selections reconciled? When two minds observe the same quantum system, do they each cause collapse independently? Does one collapse affect all minds (nonlocality)? Or can multiple independent collapses coexist?
 - **RQM's answer**: There is no problem because there is no absolute collapse. Each observer has their own relative state. When observer A measures a system, it collapses *relative to A*. When observer B measures, it collapses *relative to B*. The two need not agree until they interact.
 - **Core disagreement**: RQM dissolves the problem by relativizing facts; consciousness-causes-collapse must explain how multiple minds coordinate.
-- **Current state**: RQM claims resolution via perspectivalism. Consciousness-causes-collapse theories (like Stapp's) don't fully address this. The site's framework inherits this open problem.
+- **Current state**: RQM claims resolution via perspectivalism. Consciousness-causes-collapse theories (like Stapp's) don't fully address this. the project's framework inherits this open problem.
 
 ### Wigner's Friend
 - **Sides**: RQM (consistent via relativization) vs. objective collapse views (paradoxical)
@@ -180,7 +180,7 @@ Multiple independent perspectives can coexist:
 - **Problem**: Explicitly removes consciousness's special role—contradicts site tenets
 
 ### Option 3: Interface Locality (Potential Site Position)
-The site's [interface-locality](/concepts/interface-locality/) concept may help:
+the project's [interface-locality](/concepts/interface-locality/) concept may help:
 - Each consciousness interfaces only with "its" brain
 - Collapses are local to specific neural systems
 - No mind can affect distant systems without physical mediation
@@ -198,9 +198,9 @@ Compatible with site's [prebiotic-collapse](/concepts/prebiotic-collapse/) resol
 
 Based on this research, an article could:
 
-1. **"Against Relational Quantum Mechanics from Dualism"**: Argue that RQM fails because it explicitly removes the role of consciousness that the site's tenets require. While RQM elegantly dissolves measurement problems, it does so by denying what the site affirms: that consciousness is special. The price is too high for dualists.
+1. **"Against Relational Quantum Mechanics from Dualism"**: Argue that RQM fails because it explicitly removes the role of consciousness that the project's tenets require. While RQM elegantly dissolves measurement problems, it does so by denying what the project affirms: that consciousness is special. The price is too high for dualists.
 
-2. **"The Multi-Mind Collapse Problem"**: Develop the problem of coordinating multiple conscious observers in consciousness-causes-collapse frameworks. Survey options: nonlocal coordination, interface locality, objective-collapse-plus-modulation. Argue that the site's framework (consciousness modulates collapse locally) resolves the problem better than pure consciousness-causes-collapse.
+2. **"The Multi-Mind Collapse Problem"**: Develop the problem of coordinating multiple conscious observers in consciousness-causes-collapse frameworks. Survey options: nonlocal coordination, interface locality, objective-collapse-plus-modulation. Argue that the project's framework (consciousness modulates collapse locally) resolves the problem better than pure consciousness-causes-collapse.
 
 3. **"Lessons from Relational Quantum Mechanics"**: Even rejecting RQM's core claim, extract useful insights: (a) the legitimacy of multiple perspectives prior to interaction, (b) the analogy with special relativity's reference frames, (c) the common-cause treatment of EPR correlations. These might inform how a consciousness-based framework handles multi-observer scenarios.
 
@@ -220,7 +220,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - **Penrose's objective reduction**: How does Orch OR handle multi-observer scenarios? If collapse is gravitational, it's presumably observer-independent.
 - **Stapp on multiple minds**: Has Stapp explicitly addressed the multi-mind coordination problem?
 - **Empirical tests**: Are there proposed experiments that distinguish RQM from consciousness-causes-collapse?
-- **Buddhist philosophy**: The site's existing Buddhist content might connect to RQM's "no view from nowhere" claim.
+- **Buddhist philosophy**: the project's existing Buddhist content might connect to RQM's "no view from nowhere" claim.
 
 ## Citations
 

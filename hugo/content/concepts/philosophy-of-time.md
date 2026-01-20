@@ -28,7 +28,7 @@ topics:
 
 Philosophy of time asks fundamental questions about time's nature: Does the past exist? Is there an objective present? Does time flow, or is "flow" an illusion? These questions matter for consciousness because the relationship between subjective temporal experience and physical time remains deeply puzzling. If consciousness participates in [quantum collapse](/concepts/collapse-and-time/)—and collapse introduces time's arrow—then consciousness may be implicated in the structure of time itself, not merely a passenger traveling through it.
 
-This site's framework proposes that consciousness helps constitute temporal structure through its role in collapse. To understand this proposal, we need the conceptual apparatus philosophers have developed for thinking about time.
+this project's framework proposes that consciousness helps constitute temporal structure through its role in collapse. To understand this proposal, we need the conceptual apparatus philosophers have developed for thinking about time.
 
 ## McTaggart's A-Series and B-Series
 
@@ -110,9 +110,9 @@ Quantum mechanics reintroduces temporal asymmetry. The Schrödinger equation is 
 
 **Time-symmetric interpretations**: [Retrocausal](/concepts/retrocausality/) frameworks (transactional interpretation, TSVF) describe quantum events as transactions between past and future boundary conditions. This challenges both presentism (future must exist to send backward-propagating waves) and simple eternalism (the transaction "completes" in some sense).
 
-## The Site's Position
+## the project's Position
 
-The site's [temporal framework](/topics/time-collapse-and-agency/) proposes:
+the project's [temporal framework](/topics/time-collapse-and-agency/) proposes:
 
 1. **Collapse is real** (not merely decoherence)—the [No Many Worlds](/tenets/#no-many-worlds) tenet requires this
 2. **Collapse introduces time's arrow**—irreversibility emerges through measurement, not just entropy
@@ -142,7 +142,7 @@ Whatever the correct metaphysics, temporal *experience* has distinctive features
 
 These phenomenological features don't decisively settle metaphysics (B-theorists explain them as illusions or indexical effects), but they constrain adequate theories. A metaphysics that dismisses temporal phenomenology as mere confusion must explain why the confusion is so systematic and universal.
 
-The site's framework predicts temporal phenomenology: if consciousness constitutes temporal structure through collapse, the specious present is the phenomenology of this constitutive activity. We experience duration because we create duration. Flow isn't illusion; it's what time-constitution feels like.
+the project's framework predicts temporal phenomenology: if consciousness constitutes temporal structure through collapse, the specious present is the phenomenology of this constitutive activity. We experience duration because we create duration. Flow isn't illusion; it's what time-constitution feels like.
 
 ## Relation to Site Perspective
 
@@ -160,7 +160,7 @@ Philosophy of time connects to all five tenets:
 
 ## Further Reading
 
-- [time-collapse-and-agency](/topics/time-collapse-and-agency/) — The site's full treatment of time, collapse, and conscious agency
+- [time-collapse-and-agency](/topics/time-collapse-and-agency/) — the project's full treatment of time, collapse, and conscious agency
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric physics and backward causation
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and phenomenology of time

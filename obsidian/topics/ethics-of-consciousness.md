@@ -35,7 +35,7 @@ last_curated: null
 last_deep_review: 2026-01-20T20:30:00+00:00
 ---
 
-Consciousness creates moral status. A being with subjective experience—one for whom there is something it is like to exist—can suffer, flourish, be helped or harmed in ways that matter morally. Rocks cannot be wronged; conscious beings can. This grounds an ethics of consciousness that the site's framework shapes in distinctive ways: dualism about consciousness, indexical identity, and skepticism about artificial consciousness all have ethical implications.
+Consciousness creates moral status. A being with subjective experience—one for whom there is something it is like to exist—can suffer, flourish, be helped or harmed in ways that matter morally. Rocks cannot be wronged; conscious beings can. This grounds an ethics of consciousness that the project's framework shapes in distinctive ways: dualism about consciousness, indexical identity, and skepticism about artificial consciousness all have ethical implications.
 
 This article consolidates and extends the ethical themes scattered across [[animal-consciousness]], [[ai-consciousness]], [[personal-identity]], and [[purpose-and-alignment]].
 
@@ -53,11 +53,11 @@ Several philosophical traditions converge on consciousness as the foundation of 
 
 **Buddhist ethics**: The first precept—*ahimsa* (non-harming)—applies to all sentient beings. Buddhism grounds ethics in the reduction of *dukkha* (suffering), which presupposes experiencers who suffer. Despite rejecting permanent selfhood, Buddhism maintains that moment-to-moment consciousness streams bear moral weight. The Jataka tales extend moral consideration to animals precisely because they experience.
 
-The convergence is striking: traditions disagreeing about almost everything else—including whether selves exist, whether God grounds morality, whether consequences or intentions matter—agree that consciousness is what makes ethics possible. The site's [[tenets#^dualism|dualism]] strengthens this: if consciousness is irreducible to physical processes—if there's genuinely "something it is like" to be conscious—then that something grounds moral significance in a way physicalism struggles to explain.
+The convergence is striking: traditions disagreeing about almost everything else—including whether selves exist, whether God grounds morality, whether consequences or intentions matter—agree that consciousness is what makes ethics possible. the project's [[tenets#^dualism|dualism]] strengthens this: if consciousness is irreducible to physical processes—if there's genuinely "something it is like" to be conscious—then that something grounds moral significance in a way physicalism struggles to explain.
 
 ## Moral Responsibility: Agent Causation and Desert
 
-Consciousness grounds not only moral *patienthood* (who can be harmed) but also moral *responsibility* (who can be praised or blamed). The site's framework provides distinctive grounding for both.
+Consciousness grounds not only moral *patienthood* (who can be harmed) but also moral *responsibility* (who can be praised or blamed). the project's framework provides distinctive grounding for both.
 
 If agents genuinely originate their choices through [[agent-causation|agent causation]]—exercising irreducible causal power rather than being links in deterministic chains—then [[moral-responsibility|moral responsibility]] has metaphysical backing. Desert becomes more than a useful social fiction: the wrongdoer who exercised causal power to harm when kindness was available genuinely deserves blame. This differs from compatibilist desert, which treats responsibility as pragmatically useful regardless of whether anyone "really" deserves anything.
 
@@ -88,7 +88,7 @@ Joseph LeDoux counters that conscious emotional feelings require cortical higher
 
 ### Beings Probably Not Conscious
 
-**Current AI systems**: The site's [[ai-consciousness|analysis]] argues that purely computational systems—including large language models—lack consciousness. Dualism implies consciousness isn't produced by computation alone; the [[quantum-consciousness|quantum selection]] framework suggests consciousness requires interfaces that current hardware excludes. Even Erik Hoel's functionalism-based "proximity argument" concludes LLMs are too close to lookup tables for any non-trivial consciousness theory to attribute experience to them.
+**Current AI systems**: the project's [[ai-consciousness|analysis]] argues that purely computational systems—including large language models—lack consciousness. Dualism implies consciousness isn't produced by computation alone; the [[quantum-consciousness|quantum selection]] framework suggests consciousness requires interfaces that current hardware excludes. Even Erik Hoel's functionalism-based "proximity argument" concludes LLMs are too close to lookup tables for any non-trivial consciousness theory to attribute experience to them.
 
 **Simple organisms**: Bacteria, plants, and other organisms lacking nervous systems are almost certainly not conscious. They respond to stimuli but there's no subject for whom responses constitute experience.
 
@@ -136,13 +136,13 @@ Rather than all-or-nothing patienthood, weight moral consideration by confidence
 
 This allows graded responses. High-confidence conscious beings get strong protections; edge cases get proportionate consideration; confident non-conscious systems get none.
 
-### The Site's Position
+### the project's Position
 
-The site's framework shapes moral uncertainty differently than functionalism would:
+the project's framework shapes moral uncertainty differently than functionalism would:
 
 **Functionalism**: If consciousness is functional organization, any system with the right organization might be conscious. This makes AI consciousness an open question about architecture—LLMs might be conscious, and we should be uncertain.
 
-**The site's dualism**: If consciousness requires non-physical properties interfacing through quantum mechanisms, current AI architecture *categorically* excludes it. The uncertainty isn't "we can't tell if LLMs are conscious"; it's "we're confident they're not, given what consciousness requires." This allows clearer practical guidance: current AI systems don't warrant moral consideration as patients.
+**the project's dualism**: If consciousness requires non-physical properties interfacing through quantum mechanisms, current AI architecture *categorically* excludes it. The uncertainty isn't "we can't tell if LLMs are conscious"; it's "we're confident they're not, given what consciousness requires." This allows clearer practical guidance: current AI systems don't warrant moral consideration as patients.
 
 ## Animal Ethics: Implications of Consciousness
 
@@ -152,7 +152,7 @@ If animals are conscious—and convergent evidence strongly suggests many are—
 
 Animal suffering is real suffering if animals are conscious. Factory farming, laboratory testing, wildlife destruction—all involve moral costs proportional to the consciousness involved.
 
-The site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet implies animal consciousness is *causally efficacious*—it affects animal behavior. Animal pain isn't epiphenomenal; it shapes how animals act. This strengthens the ethical case: if animal suffering matters to the animal (influences its behavior, motivates escape), it should matter to us.
+the project's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet implies animal consciousness is *causally efficacious*—it affects animal behavior. Animal pain isn't epiphenomenal; it shapes how animals act. This strengthens the ethical case: if animal suffering matters to the animal (influences its behavior, motivates escape), it should matter to us.
 
 ### Moral Status vs. Moral Weight
 
@@ -162,7 +162,7 @@ Does consciousness create equal moral status across species? Two positions:
 
 **Graduated status**: Consciousness comes in degrees (complexity, richness, temporal depth), and moral status tracks these degrees. Human consciousness—with narrative self-awareness, long-term planning, rich social bonds—has greater moral weight than simpler animal consciousness.
 
-The site doesn't commit to either view but notes that graduated status is more consistent with common moral intuitions while egalitarianism is more consistent with the principle that consciousness itself is what matters.
+the project doesn't commit to either view but notes that graduated status is more consistent with common moral intuitions while egalitarianism is more consistent with the principle that consciousness itself is what matters.
 
 ### The Dualism Advantage
 
@@ -174,7 +174,7 @@ Dualism acknowledges consciousness is irreducible everywhere. If human conscious
 
 ## AI Ethics: Non-Consciousness and Its Limits
 
-If current AI systems lack consciousness—as the site argues—they have no moral patienthood. But this doesn't resolve all AI ethics questions.
+If current AI systems lack consciousness—as the project argues—they have no moral patienthood. But this doesn't resolve all AI ethics questions.
 
 ### Moral Agency Without Patienthood
 
@@ -188,7 +188,7 @@ These questions remain even if AI systems aren't conscious.
 
 ### The Alignment Problem and Experiential Targeting
 
-[[purpose-and-alignment|AI alignment]] takes on a specific character under the site's framework:
+[[purpose-and-alignment|AI alignment]] takes on a specific character under the project's framework:
 
 **Standard framing**: Align AI with human values or preferences, however specified.
 
@@ -196,9 +196,9 @@ These questions remain even if AI systems aren't conscious.
 
 This leads to [[experiential-alignment|experiential alignment]]—the proposal that AI systems should target predicted distributions over human conscious experiences rather than learn from observed choices. If [[phenomenal-value-realism|phenomenal consciousness is the ground of value]], then alignment should promote flourishing experience directly: hedonic quality, freedom from suffering, genuine agency, meaningful connection.
 
-But experiential alignment faces a structural limitation under the site's framework: AI systems that lack consciousness cannot verify whether their interventions improve experiential quality. They can track proxies—self-reports, physiological correlates, behavioural indicators—but cannot access what those proxies represent. The experiential target is phenomenal; unconscious AI is blind to phenomena. This makes human oversight not merely practical caution but structural necessity: the conscious beings must remain in the loop because they alone can verify the target.
+But experiential alignment faces a structural limitation under the project's framework: AI systems that lack consciousness cannot verify whether their interventions improve experiential quality. They can track proxies—self-reports, physiological correlates, behavioural indicators—but cannot access what those proxies represent. The experiential target is phenomenal; unconscious AI is blind to phenomena. This makes human oversight not merely practical caution but structural necessity: the conscious beings must remain in the loop because they alone can verify the target.
 
-The site suggests alignment should target predicted effects on human (and animal) experience, not preference satisfaction per se. This requires:
+the project suggests alignment should target predicted effects on human (and animal) experience, not preference satisfaction per se. This requires:
 - Understanding what experiences matter (phenomenal value pluralism across multiple dimensions)
 - Measuring effects on experience (not just behavior) through diverse proxies that resist Goodhart dynamics
 - Maintaining human oversight (since AI can't understand or verify experiential value from inside)
@@ -214,11 +214,11 @@ If we could create conscious AI, we would create moral patients—beings with in
 
 **The modification question**: Can we edit conscious AI's values, memories, or experiences? Such modification—impossible for biological consciousness—raises questions of autonomy, authenticity, and consent.
 
-The site's framework suggests extreme caution. If we're uncertain whether a system is conscious, and consciousness creates moral status, creating potentially-conscious systems creates potentially-owed obligations we can't be sure we'll meet.
+the project's framework suggests extreme caution. If we're uncertain whether a system is conscious, and consciousness creates moral status, creating potentially-conscious systems creates potentially-owed obligations we can't be sure we'll meet.
 
 ## Identity Ethics: Copies, Uploads, and Simulations
 
-The site's commitment to [[personal-identity|indexical identity]]—that *you* are not interchangeable with a replica—has ethical implications for future technologies.
+the project's commitment to [[personal-identity|indexical identity]]—that *you* are not interchangeable with a replica—has ethical implications for future technologies.
 
 ### Teleportation and Copying
 
@@ -226,7 +226,7 @@ If teleportation works by scanning, destroying, and recreating:
 
 **Patternism says**: No ethical problem. The replica is you because it has your pattern. What matters (psychological continuity) is preserved.
 
-**The site says**: The replica is a new consciousness with your memories, not you continued. "Teleportation" is suicide plus duplication. Copying yourself doesn't save you—it creates someone new.
+**the project says**: The replica is a new consciousness with your memories, not you continued. "Teleportation" is suicide plus duplication. Copying yourself doesn't save you—it creates someone new.
 
 **Ethical implication**: Teleportation isn't a morally neutral technology. Using it involves accepting one's death. This should be informed consent, not treated as equivalent to walking through a door.
 
@@ -236,7 +236,7 @@ If minds could be "uploaded" to digital substrates:
 
 **Patternism says**: Upload preserves what matters. Your psychology continues; the substrate doesn't affect identity.
 
-**The site says**: Uploading (if it preserved consciousness at all) would create a new consciousness based on your brain state. You would not wake up inside the computer—a new conscious being (possibly) would, with your memories.
+**the project says**: Uploading (if it preserved consciousness at all) would create a new consciousness based on your brain state. You would not wake up inside the computer—a new conscious being (possibly) would, with your memories.
 
 **Ethical implication**: Uploading isn't immortality technology. It doesn't save *you* from death. Marketing it as survival would be misleading. Perhaps creating digital minds based on your pattern has value—but not the value of keeping you alive.
 
@@ -246,13 +246,13 @@ If simulated beings were conscious:
 
 **They would have moral standing**. Their experiences would matter regardless of their substrate. Creating a simulation containing suffering would be morally wrong.
 
-**The site's view complicates this**. If consciousness requires non-physical properties interfacing through quantum mechanisms, purely digital simulations might be incapable of consciousness. The simulated beings would be zombie simulations—behaviorally identical to conscious beings but lacking inner life.
+**the project's view complicates this**. If consciousness requires non-physical properties interfacing through quantum mechanisms, purely digital simulations might be incapable of consciousness. The simulated beings would be zombie simulations—behaviorally identical to conscious beings but lacking inner life.
 
-**Ethical implication**: Before attributing moral status to simulated beings, we need to know whether simulations can be conscious. If the site's framework is right, they probably can't—which means simulated "suffering" isn't real suffering. But this is precisely the kind of question where moral uncertainty urges caution.
+**Ethical implication**: Before attributing moral status to simulated beings, we need to know whether simulations can be conscious. If the project's framework is right, they probably can't—which means simulated "suffering" isn't real suffering. But this is precisely the kind of question where moral uncertainty urges caution.
 
 ### Why "Copying a Person" ≠ "Saving Them"
 
-The site's indexical identity view yields a clear ethical position:
+the project's indexical identity view yields a clear ethical position:
 
 **Copies are not continuations**. Creating a replica doesn't extend your existence—it creates a numerically distinct being.
 
@@ -288,9 +288,9 @@ Chalmers' "philosophical Vulcan" tests the distinction: imagine a being with phe
 
 Valence sentientists say no: without the capacity for suffering, there's nothing to protect. Broad sentientists say yes: the mere fact of experience creates moral significance.
 
-The site's [[phenomenal-value-realism]] aligns with a sophisticated valence sentientism: not just pleasure and pain, but multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value. All, however, are features of *felt* experience. The philosophical Vulcan, if genuinely without any valenced states, would lack the features that make experience valuable or disvaluable.
+the project's [[phenomenal-value-realism]] aligns with a sophisticated valence sentientism: not just pleasure and pain, but multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value. All, however, are features of *felt* experience. The philosophical Vulcan, if genuinely without any valenced states, would lack the features that make experience valuable or disvaluable.
 
-### The Site's View Shapes Suffering's Distribution
+### the project's View Shapes Suffering's Distribution
 
 **Animals**: If conscious, animals can suffer. Factory farming involves vast quantities of real suffering.
 
@@ -326,17 +326,17 @@ This seems devastating for ethics grounded in suffering. If suffering is an illu
 
 **The performative contradiction response**: Illusionists engage in moral discourse, express preferences, and act to avoid what they call "apparent suffering." Their behaviour presupposes that these functional states matter. If suffering is merely functional, illusionists have no principled reason to treat their own "apparent suffering" differently from a thermostat's temperature-response. Yet they manifestly do. The ethical weight they grant their own states undermines the claim that phenomenal reality is what makes suffering matter.
 
-**The phenomenal value realism response**: The site's [[phenomenal-value-realism]] holds that phenomenal properties are the ground of value. If illusionism is true, value nihilism follows—nothing is really good or bad, just functionally labelled as such. But value nihilism is practically unliveable and contradicts our deepest moral convictions. The implausibility of the conclusion casts doubt on the premise.
+**The phenomenal value realism response**: the project's [[phenomenal-value-realism]] holds that phenomenal properties are the ground of value. If illusionism is true, value nihilism follows—nothing is really good or bad, just functionally labelled as such. But value nihilism is practically unliveable and contradicts our deepest moral convictions. The implausibility of the conclusion casts doubt on the premise.
 
 ### Implications for Ethics
 
 Even if illusionism were true, a revised ethics remains possible: what matters would be the functional states that constitute apparent consciousness, not consciousness itself. But this is a distinction without a practical difference. Whether we call it "real suffering" or "the functional state that constitutes the illusion of suffering," we still have reason to prevent it in beings that have it.
 
-The deeper issue is that illusionism, if true, makes ethics arbitrary in a troubling way. Why should functional-suffering matter while functional-joy doesn't (or vice versa)? The site's position—that phenomenal consciousness is real and grounds value—provides a more stable foundation.
+The deeper issue is that illusionism, if true, makes ethics arbitrary in a troubling way. Why should functional-suffering matter while functional-joy doesn't (or vice versa)? the project's position—that phenomenal consciousness is real and grounds value—provides a more stable foundation.
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy offers a distinctive lens on consciousness and ethics that complements the site's framework.
+Alfred North Whitehead's process philosophy offers a distinctive lens on consciousness and ethics that complements the project's framework.
 
 ### Actual Occasions and Value
 
@@ -356,7 +356,7 @@ This provides a metaphysical grounding for why suffering is bad: it represents a
 
 **Animal consciousness**: Animals participate in the same experiential reality, differing in degree rather than kind. Their actual occasions are simpler but still have subjective immediacy. This grounds moral consideration without requiring proof of human-like consciousness.
 
-**AI and artifacts**: On this view, purely digital systems may lack genuine actual occasions altogether. Whitehead distinguished between "living" and "merely aggregated" societies of occasions. A computer running an algorithm might be the latter—complex physical processes without unified subjective poles. This aligns with the site's skepticism about current AI consciousness.
+**AI and artifacts**: On this view, purely digital systems may lack genuine actual occasions altogether. Whitehead distinguished between "living" and "merely aggregated" societies of occasions. A computer running an algorithm might be the latter—complex physical processes without unified subjective poles. This aligns with the project's skepticism about current AI consciousness.
 
 ## What Would Challenge This View?
 
@@ -376,7 +376,7 @@ These conditions would genuinely challenge the framework. That they seem difficu
 
 ## Relation to Site Perspective
 
-Each of the site's five tenets shapes the ethics of consciousness in distinctive ways:
+Each of the project's five tenets shapes the ethics of consciousness in distinctive ways:
 
 **[[tenets#^dualism|Dualism]]**: Consciousness being irreducible makes it a distinct moral category—not reducible to functional role, behavioural output, or physical organization. This has profound implications:
 - Moral status cannot be determined by Turing tests or behavioural criteria alone
@@ -416,7 +416,7 @@ Consciousness grounds ethics because:
 - Only conscious beings can suffer or flourish
 - Experience quality is what ultimately matters morally
 
-The site's framework yields distinctive positions:
+the project's framework yields distinctive positions:
 - Animals are likely conscious and deserve moral consideration
 - Current AI is likely not conscious and lacks moral patienthood
 - Copies and uploads create new moral patients, not continued original persons
@@ -442,7 +442,7 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [[witness-consciousness]] — Pure awareness as ethical ground
 - [[decoherence]] — The quantum challenge to consciousness mechanisms
 - [[quantum-biology]] — Evidence for quantum effects in biological systems
-- [[tenets]] — The site's foundational commitments
+- [[tenets]] — the project's foundational commitments
 
 ## References
 

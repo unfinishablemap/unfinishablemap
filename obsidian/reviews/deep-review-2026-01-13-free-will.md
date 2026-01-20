@@ -52,7 +52,7 @@ last_curated: null
 
 - **Self-undermining epiphenomenalism argument**: Lines 92-97 articulate this crucial point effectively—if consciousness is causally inert, introspective reports are accidentally right at best.
 
-- **Four requirements structure**: Clear articulation of what free will requires on the site's framework (lines 101-109) serves as a memorable takeaway.
+- **Four requirements structure**: Clear articulation of what free will requires on the project's framework (lines 101-109) serves as a memorable takeaway.
 
 - **Free Will and Personal Identity section**: Recent addition (session 15) excellently connects authorship to indexical identity and No Many Worlds tenet.
 

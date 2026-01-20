@@ -31,7 +31,7 @@ tag: diversion
 
 AI alignment—the project of ensuring artificial intelligence serves human interests—faces a problem that philosophers have debated for millennia: we do not know what human interests ultimately are. The dominant approach learns from human preferences, but preferences may not track what truly matters. If we cannot align AI without knowing humanity's purpose, and we lack clarity on that purpose, then alignment may be building on unstable foundations.
 
-This creates a surprising connection between ancient questions about life's meaning and cutting-edge AI safety research. The site's framework—particularly its commitment to consciousness as fundamental and its skepticism about simple explanations—illuminates this connection in ways that standard approaches miss.
+This creates a surprising connection between ancient questions about life's meaning and cutting-edge AI safety research. the project's framework—particularly its commitment to consciousness as fundamental and its skepticism about simple explanations—illuminates this connection in ways that standard approaches miss.
 
 ## The Alignment Assumption
 
@@ -61,11 +61,11 @@ Russell acknowledges that humans "don't know their own preference structure." Hi
 
 ## What Consciousness Adds
 
-The site's framework suggests a deeper issue. If consciousness is fundamental and irreducible—not merely an emergent property of information processing—then human purpose may be tied to consciousness in ways that preferences cannot capture.
+the project's framework suggests a deeper issue. If consciousness is fundamental and irreducible—not merely an emergent property of information processing—then human purpose may be tied to consciousness in ways that preferences cannot capture.
 
-A preference-learning AI treats humans as behavioural systems. It observes inputs (stimuli) and outputs (choices) and infers a utility function. But on the site's view, what matters about humans is not the behavioural mapping but the conscious experience underlying it. Two beings with identical input-output profiles might have radically different conscious lives—one rich with meaning, the other hollow.
+A preference-learning AI treats humans as behavioural systems. It observes inputs (stimuli) and outputs (choices) and infers a utility function. But on the project's view, what matters about humans is not the behavioural mapping but the conscious experience underlying it. Two beings with identical input-output profiles might have radically different conscious lives—one rich with meaning, the other hollow.
 
-If [[ai-consciousness|AI systems lack consciousness]] (as the site's framework implies), then they cannot understand human purpose from the inside. They can model behaviour, predict choices, and optimize for preference satisfaction. But they cannot grasp what it is like to be human, and therefore cannot grasp what human flourishing actually involves.
+If [[ai-consciousness|AI systems lack consciousness]] (as the project's framework implies), then they cannot understand human purpose from the inside. They can model behaviour, predict choices, and optimize for preference satisfaction. But they cannot grasp what it is like to be human, and therefore cannot grasp what human flourishing actually involves.
 
 This is not a claim that alignment is impossible. It is a claim that alignment approaches treating humans as preference-maximizing systems may miss what matters most.
 
@@ -85,7 +85,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly. T
 
 The [[tenets#^dualism|Dualism]] tenet adds depth. If consciousness is irreducible, then human purpose may be tied to features of experience that no behavioural analysis can capture. The "what it is like" of conscious life—its qualitative character—may be where purpose resides, and that is precisely what preference-learning systems cannot access.
 
-This connects to the site's treatment of [[voids]]—territories that may be unchartable. Human purpose might be partially in this category. Not because the question is meaningless, but because our conceptual resources may be inadequate to fully articulate it. [[apophatic-approaches|Apophatic methods]]—knowing what purpose is *not*—may be as important as positive specification.
+This connects to the project's treatment of [[voids]]—territories that may be unchartable. Human purpose might be partially in this category. Not because the question is meaningless, but because our conceptual resources may be inadequate to fully articulate it. [[apophatic-approaches|Apophatic methods]]—knowing what purpose is *not*—may be as important as positive specification.
 
 The practical upshot: AI systems should be designed with humility about human purpose, not confidence. They should be corrigible not merely because values are hard to specify, but because values may be impossible to fully specify. The goal is not an AI that optimizes for human flourishing, but an AI that supports human inquiry into what flourishing means—a partner in the unfinishable map rather than a solver of a problem we have not solved ourselves.
 
@@ -121,8 +121,8 @@ The research on [[emotional-consciousness#Core Affect and Emotional Construction
 - [[experiential-alignment]] — The alternative framework targeting experiential quality
 - [[phenomenal-value-realism]] — The metaethical grounding for consciousness-based value
 - [[ethics-of-consciousness]] — The broader ethical framework for consciousness
-- [[meaning-of-life]] — The site's treatment of philosophical approaches to life's meaning
-- [[ai-consciousness]] — Why the site holds that AI systems lack consciousness
+- [[meaning-of-life]] — the project's treatment of philosophical approaches to life's meaning
+- [[ai-consciousness]] — Why the project holds that AI systems lack consciousness
 - [[voids]] — On the limits of what can be known or mapped
 - [[tenets]] — The foundational commitments underlying this analysis
 

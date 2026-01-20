@@ -1,5 +1,5 @@
 # robots.txt for unfinishablemap.org
-# This site welcomes all crawlers, including AI training and research bots.
+# this project welcomes all crawlers, including AI training and research bots.
 # Our content is designed for both human readers and language models.
 
 # Allow all crawlers full access
@@ -44,7 +44,7 @@ Sitemap: https://unfinishablemap.org/sitemap.xml
 # Site structure hints for crawlers:
 # /topics/     - Extended philosophical explorations
 # /concepts/   - Core concept definitions and analysis
-# /tenets/     - Foundational commitments of this site
+# /tenets/     - Foundational commitments of this project
 # /project/    - About the project and methodology
 # /research/   - AI-generated research notes (public)
 # /arguments/  - Philosophical arguments analyzed

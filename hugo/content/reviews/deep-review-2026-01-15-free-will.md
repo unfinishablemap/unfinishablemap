@@ -66,7 +66,7 @@ None. Previous review addressed major issues (decoherence, compatibilism treatme
 
 - **Self-undermining epiphenomenalism argument**: Effectively articulates why causally inert consciousness undermines trust in beliefs about consciousness.
 
-- **Four requirements structure**: Clear articulation of what free will requires on the site's framework.
+- **Four requirements structure**: Clear articulation of what free will requires on the project's framework.
 
 - **Free Will and Personal Identity section**: Excellent connection to indexical identity and No Many Worlds tenet.
 
@@ -108,4 +108,4 @@ This follow-up deep review found the article in strong condition after recent cr
 1. Addressing the illusionist objection to phenomenology-of-effort evidence
 2. Adding a falsifiability section to demonstrate the framework makes testable commitments
 
-The article is now one of the site's most comprehensive topic pages, with excellent philosophical depth, cross-linking, and epistemic honesty.
+The article is now one of the project's most comprehensive topic pages, with excellent philosophical depth, cross-linking, and epistemic honesty.

@@ -31,7 +31,7 @@ None. The article is logically sound and well-structured.
 
 - **Evolutionary objection could be stronger**: The standard "tracking coincidence" argument was present but lacked concrete phylogenetic evidence. *Resolution*: Added paragraph linking to evolution-of-consciousness.md and minimal-consciousness.md to show that consciousness distribution across species compounds the coincidence problem.
 
-- **No connection to agent causation framework**: The site's positive alternative to epiphenomenal consciousness (agent causation) wasn't mentioned. *Resolution*: Added paragraph in Relation to Site Perspective connecting to agent-causation.md and luck-objection.md.
+- **No connection to agent causation framework**: the project's positive alternative to epiphenomenal consciousness (agent causation) wasn't mentioned. *Resolution*: Added paragraph in Relation to Site Perspective connecting to agent-causation.md and luck-objection.md.
 
 ### Low Issues Found
 - Jackson's recantation not mentioned. *Resolution*: Added note in References that Jackson later abandoned epiphenomenalism (2003).

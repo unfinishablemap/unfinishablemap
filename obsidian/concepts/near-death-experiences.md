@@ -31,7 +31,7 @@ last_curated: null
 last_deep_review: 2026-01-20T06:20:00+00:00
 ---
 
-Near-death experiences (NDEs) are vivid cognitive events reported by approximately 40% of cardiac arrest survivors. Research has accelerated significantly since 2022, with standardized terminology, multi-site prospective studies, and EEG evidence showing consciousness-consistent brain activity during CPR. The key finding: people report heightened, coherent experiences during severe cerebral ischemia—when brain function should be deeply compromised. This doesn't prove consciousness survives death, but it challenges simple brain-production models and supports the site's [[tenets#^dualism|Dualism]] and [[tenets#^occams-limits|Occam's Razor Has Limits]] tenets.
+Near-death experiences (NDEs) are vivid cognitive events reported by approximately 40% of cardiac arrest survivors. Research has accelerated significantly since 2022, with standardized terminology, multi-site prospective studies, and EEG evidence showing consciousness-consistent brain activity during CPR. The key finding: people report heightened, coherent experiences during severe cerebral ischemia—when brain function should be deeply compromised. This doesn't prove consciousness survives death, but it challenges simple brain-production models and supports the project's [[tenets#^dualism|Dualism]] and [[tenets#^occams-limits|Occam's Razor Has Limits]] tenets.
 
 The evidence is contested but cannot be easily dismissed. Van Lommel's landmark 2001 study found only 18% of cardiac arrest survivors reported NDEs—paradoxical if NDEs are purely physiological responses to anoxia, since nearly all patients experienced the same physiological state. Something distinguishes experiencers from non-experiencers, and that something remains unexplained.
 
@@ -140,9 +140,9 @@ On this view, NDEs don't require explaining how consciousness "survives" brain f
 
 Whitehead's framework also explains the transformation effects. Each actual occasion inherits from its predecessors; the NDE becomes part of the experiencer's ongoing process of becoming, shaping all subsequent occasions. The profundity of the experience—unfiltered access to aspects of consciousness normally constrained—reverberates through the person's subsequent life, explaining why transformation effects persist for decades.
 
-This isn't dualism in the classical Cartesian sense—Whitehead doesn't posit two separate substances. But it shares the site's core commitment: taking experience seriously as metaphysically fundamental rather than explaining it away.
+This isn't dualism in the classical Cartesian sense—Whitehead doesn't posit two separate substances. But it shares the project's core commitment: taking experience seriously as metaphysically fundamental rather than explaining it away.
 
-## Relation to This Site's Perspective
+## Relation to this project's Perspective
 
 NDEs align with multiple site tenets:
 
@@ -158,11 +158,11 @@ The [[many-worlds|many-worlds interpretation]] would say all possible NDE outcom
 
 **Minimal Quantum Interaction**: If consciousness interfaces with the brain at quantum indeterminacies, what happens when brain function is severely compromised? One possibility: the quantum interface becomes more fluid as normal neural constraints dissolve, allowing consciousness greater range of engagement. The gamma surges observed during dying might represent consciousness-physics interaction freed from ordinary filtering. This remains speculative, but the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet provides a framework for thinking about how consciousness might operate during brain compromise—not as something dependent on neural function but as something that normally engages *through* neural quantum states.
 
-The site doesn't claim NDEs prove survival. What they demonstrate is that the brain-consciousness relationship is more complex than simple production models suggest. Consciousness may not be the output of neural computation. It may be something that neural systems participate in without fully determining.
+the project doesn't claim NDEs prove survival. What they demonstrate is that the brain-consciousness relationship is more complex than simple production models suggest. Consciousness may not be the output of neural computation. It may be something that neural systems participate in without fully determining.
 
 ## What Would Challenge This View?
 
-The site's interpretation of NDEs would face serious difficulty if:
+the project's interpretation of NDEs would face serious difficulty if:
 
 1. **Systematic failures of veridical perception**: If large prospective studies with proper controls consistently fail to produce any verified veridical perceptions—and future AWARE-style studies continue showing zero hits on hidden targets—the strongest evidence for consciousness operating independently during NDEs would be undermined. Current failures could reflect methodological limitations (few survivors, fewer positioned to see targets), but continued failure across many studies would shift the burden.
 
@@ -174,7 +174,7 @@ The site's interpretation of NDEs would face serious difficulty if:
 
 5. **Cross-cultural divergence in core features**: If careful cross-cultural studies showed that NDE phenomenology diverges radically across cultures—that the "common core" reflects Western bias rather than genuine structure—this would suggest cultural construction rather than access to a universal dimension of consciousness.
 
-None of these would definitively refute dualism, but they would significantly weaken the case that NDEs specifically support the site's framework.
+None of these would definitively refute dualism, but they would significantly weaken the case that NDEs specifically support the project's framework.
 
 ## Further Reading
 

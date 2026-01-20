@@ -80,7 +80,7 @@ Perhaps the quantum selection model is too reductive. Consciousness might intera
 
 ## Status of This Question
 
-**Open.** The consciousness-selects-neural-patterns proposal faces serious empirical and conceptual challenges. It is not obviously incoherent, but neither is it well-supported by current evidence. The site's commitment to bidirectional interaction may need to be held more tentatively, or grounded in a different mechanism than quantum selection.
+**Open.** The consciousness-selects-neural-patterns proposal faces serious empirical and conceptual challenges. It is not obviously incoherent, but neither is it well-supported by current evidence. the project's commitment to bidirectional interaction may need to be held more tentatively, or grounded in a different mechanism than quantum selection.
 
 ## Related Questions
 

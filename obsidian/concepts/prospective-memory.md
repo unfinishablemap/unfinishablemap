@@ -27,7 +27,7 @@ last_deep_review: null
 
 When you leave home intending to buy milk, something must hold that intention during your commute so it "pops" into awareness when you pass the shop. This is prospective memory (PM)—remembering to perform planned actions in the future. Unlike retrospective memory (remembering what happened), PM is about remembering what to do. The capacity to maintain intentions across time, simulate future scenarios, and execute delayed plans represents a distinctively conscious form of cognition that connects intimately to free will and agency.
 
-Prospective memory matters for the site's framework because it complements [[autonoetic-consciousness|autonoetic consciousness]]'s pastward mental time travel with futureward projection. If consciousness enables bidirectional temporal self-projection, this isn't merely a capacity for episodic replay but an active power to shape future action. The phenomenology of intention formation, the "pop" of prospective retrieval, and the causal influence of future simulation on present decisions all suggest consciousness participates in directing behaviour—not merely witnessing it.
+Prospective memory matters for the project's framework because it complements [[autonoetic-consciousness|autonoetic consciousness]]'s pastward mental time travel with futureward projection. If consciousness enables bidirectional temporal self-projection, this isn't merely a capacity for episodic replay but an active power to shape future action. The phenomenology of intention formation, the "pop" of prospective retrieval, and the causal influence of future simulation on present decisions all suggest consciousness participates in directing behaviour—not merely witnessing it.
 
 ## Types of Prospective Memory
 
@@ -118,7 +118,7 @@ EFT isn't mere idle imagination—it causally influences behaviour. Research sho
 - Improves goal-directed behaviour
 - Enhances delay of gratification
 
-If conscious simulation of future scenarios causally shapes present decisions, then consciousness participates in directing action in exactly the way the site's framework proposes. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims consciousness causally influences the physical world. Future simulation provides a clear case: mental representations of possible futures alter behavioural trajectories in the present.
+If conscious simulation of future scenarios causally shapes present decisions, then consciousness participates in directing action in exactly the way the project's framework proposes. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims consciousness causally influences the physical world. Future simulation provides a clear case: mental representations of possible futures alter behavioural trajectories in the present.
 
 ## Working Memory and Future Simulation
 
@@ -139,7 +139,7 @@ Prospective memory and future-oriented consciousness support several foundationa
 
 **[[tenets#^dualism|Dualism]]**: The phenomenology of future simulation involves irreducible qualia. The felt sense of futuricity, the self projected forward, the possibility character of imagined events—these are phenomenal properties that physical description doesn't capture. Neural activity in prefrontal cortex and hippocampus correlates with future thinking, but the correlation doesn't explain why there is something it is like to imagine tomorrow. The gap between neural mechanism and phenomenal character persists in both temporal directions.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If conscious future simulation causally influences present decisions, consciousness participates in shaping action. The evidence that EFT reduces temporal discounting and improves goal-directed behaviour suggests mental representations of possible futures alter behavioural trajectories. This is precisely the downward causation the site's framework proposes.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If conscious future simulation causally influences present decisions, consciousness participates in shaping action. The evidence that EFT reduces temporal discounting and improves goal-directed behaviour suggests mental representations of possible futures alter behavioural trajectories. This is precisely the downward causation the project's framework proposes.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Future simulation presupposes that only one future will actualise. When you imagine alternative futures and choose among them, the deliberation makes sense only if the alternatives are genuinely exclusive. A many-worlds framework where all possibilities branch would undermine the coherence of prospective planning—why deliberate if all options will occur? The phenomenology of intention formation, with its sense of selecting among genuine possibilities, presupposes a single-history metaphysics.
 

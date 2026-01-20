@@ -123,7 +123,7 @@ EFT requires working memory resources:
 
 The maintenance/manipulation asymmetry applies: constructing future simulations (manipulation) requires conscious engagement; storing intentions (maintenance) may be more automatic. This connects to why PM failures often involve failing to *retrieve* the intention rather than failing to *store* it.
 
-### Implications for the Site Framework
+### Implications for the project Framework
 
 **[Dualism](/tenets/#dualism)**: EFT phenomenology involves irreducible qualia—the felt sense of futurity, the self projected forward, the possibility character of imagined events. Physical description of hippocampal-prefrontal activity doesn't capture what it's like to imagine tomorrow.
 

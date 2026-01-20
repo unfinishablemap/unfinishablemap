@@ -28,7 +28,7 @@ last_curated: null
 last_deep_review: 2026-01-19T20:13:53+00:00
 ---
 
-Wavefunction collapse—the transition from quantum superposition to definite outcome—appears to introduce an arrow of time into physics. The Schrödinger equation runs equally well forward or backward, yet measurement seems irreversible. If consciousness participates in collapse (as this site's framework proposes), then consciousness may be connected to temporal directionality itself—not merely experiencing time's flow but helping constitute it. Time-symmetric interpretations of quantum mechanics offer an even more striking possibility: consciousness's "selection" at collapse might be atemporal, determining which outcomes become actual across time rather than at a moment.
+Wavefunction collapse—the transition from quantum superposition to definite outcome—appears to introduce an arrow of time into physics. The Schrödinger equation runs equally well forward or backward, yet measurement seems irreversible. If consciousness participates in collapse (as this project's framework proposes), then consciousness may be connected to temporal directionality itself—not merely experiencing time's flow but helping constitute it. Time-symmetric interpretations of quantum mechanics offer an even more striking possibility: consciousness's "selection" at collapse might be atemporal, determining which outcomes become actual across time rather than at a moment.
 
 This connects directly to the [[retrocausality|retrocausal]] resolution of the Libet problem. If consciousness operates outside linear time when selecting outcomes, questions about whether neural activity precedes or follows conscious intention dissolve. The relationship isn't temporal—it's constitutive.
 
@@ -76,7 +76,7 @@ The debate over collapse maps onto traditional [[philosophy-of-time|philosophy o
 
 **Time-symmetric interpretations complicate both.** If transactions are constrained by future and past boundaries jointly, simple presentism fails (future must exist to provide constraints), but so does simple eternalism (the transaction "completing" implies something about temporal becoming). The TSVF framework suggests that what fundamentally exists might be the pattern of correlations, with both A-series and B-series as partial perspectives.
 
-The site's framework proposes a **modified growing block**. Past and present exist; the future doesn't yet. The "growth" of the block *is* collapse—the resolution of quantum superposition into definite history. Consciousness participates in this growth through its role in collapse. The present is where superpositions resolve; the past is accumulated collapsed structure; the future awaits selection.
+the project's framework proposes a **modified growing block**. Past and present exist; the future doesn't yet. The "growth" of the block *is* collapse—the resolution of quantum superposition into definite history. Consciousness participates in this growth through its role in collapse. The present is where superpositions resolve; the past is accumulated collapsed structure; the future awaits selection.
 
 This isn't growth *in* time but the *constitution of* time. The flow we experience is what time-constitution feels like from within. The [[specious-present|specious present]]—the experienced duration of "now"—may be the phenomenological manifestation of consciousness's constitutive role, not merely a neural representation of external time.
 
@@ -106,11 +106,11 @@ The Many-Worlds interpretation sidesteps collapse and time asymmetry entirely. T
 
 MWI defenders (Deutsch, Carroll, Wallace) argue that temporal asymmetry emerges from branching structure: the number of branches increases over time due to the thermodynamic arrow, and self-locating uncertainty explains the phenomenology of flow. On this view, you experience time passing because you're constantly discovering which branch you're in.
 
-The site rejects this for several reasons. First, the "discovery" model treats temporal experience as epistemic—learning where you are—rather than constitutive. But the phenomenology of temporal flow isn't discovery; it's creation. The future doesn't feel like a region we haven't visited yet; it feels open, genuinely undetermined. MWI converts this openness into illusion.
+the project rejects this for several reasons. First, the "discovery" model treats temporal experience as epistemic—learning where you are—rather than constitutive. But the phenomenology of temporal flow isn't discovery; it's creation. The future doesn't feel like a region we haven't visited yet; it feels open, genuinely undetermined. MWI converts this openness into illusion.
 
 Second, the branching structure presupposes what it purports to explain. Why do branches increase rather than decrease? The answer traces to the Past Hypothesis (low-entropy initial conditions), which MWI inherits from thermodynamics rather than explaining. The quantum arrow doesn't reduce to branching; it's assumed in setting up the branches.
 
-Third, as detailed in the [[many-worlds|Against Many-Worlds]] page, MWI faces the indexical identity problem: if all outcomes occur, what determines which outcome *I* experience? Carroll's "self-locating uncertainty" answer treats branch-identity as primitive—but this is exactly what needs explaining. The site's [[tenets#^no-many-worlds|No Many Worlds]] tenet holds that indexical identity matters because consciousness is what makes *this* outcome actual, not merely observed.
+Third, as detailed in the [[many-worlds|Against Many-Worlds]] page, MWI faces the indexical identity problem: if all outcomes occur, what determines which outcome *I* experience? Carroll's "self-locating uncertainty" answer treats branch-identity as primitive—but this is exactly what needs explaining. the project's [[tenets#^no-many-worlds|No Many Worlds]] tenet holds that indexical identity matters because consciousness is what makes *this* outcome actual, not merely observed.
 
 Only if collapse is real does consciousness have a role. Only if collapse introduces asymmetry does that role connect to temporal experience.
 
@@ -139,11 +139,11 @@ The connection between collapse and time strengthens multiple tenets:
 
 **[[tenets#^dualism|Dualism]]**: If consciousness participates in collapse, and collapse introduces time asymmetry, then consciousness is not merely a passive observer of time but a constituent of temporal structure. This deepens dualism beyond the hard problem—consciousness isn't just qualitatively different from matter; it's implicated in the fundamental structure of physical reality.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The collapse mechanism provides the site for consciousness-matter interaction. Time-symmetric interpretations suggest this interaction operates atemporally—consciousness doesn't push physical systems at a moment but constrains which transactions complete across time. This is even more minimal than energy injection: it's constraint satisfaction.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The collapse mechanism provides the project for consciousness-matter interaction. Time-symmetric interpretations suggest this interaction operates atemporally—consciousness doesn't push physical systems at a moment but constrains which transactions complete across time. This is even more minimal than energy injection: it's constraint satisfaction.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Retrocausal frameworks make bidirectional interaction natural rather than paradoxical. If fundamental physics is time-symmetric, backward causation (from future to past) has the same status as forward causation. Consciousness influencing the past isn't stranger than consciousness influencing the future—both are selection among possible transactions.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Rejecting MWI is essential for collapse to be real. If all outcomes occur, there's no selection, no irreversibility, no arrow introduced by measurement. The site's framework requires collapse realism to give consciousness traction.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Rejecting MWI is essential for collapse to be real. If all outcomes occur, there's no selection, no irreversibility, no arrow introduced by measurement. the project's framework requires collapse realism to give consciousness traction.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The arrow of time is among the deepest unsolved problems in physics. Claims that decoherence "solves" the measurement problem, or that thermodynamics "explains" all arrows, rely on simplifying assumptions (materialism, no fundamental collapse) that may be wrong. The full picture may require consciousness in ways we don't yet understand.
 

@@ -154,7 +154,7 @@ None of this proves that quantum effects cause consciousness, but it establishes
 
 ## What Coherence Does Not Require
 
-The site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness biases quantum outcomes without injecting energy. This requires consciousness to influence the selection among quantum possibilities—but it may not require sustained coherence.
+the project's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness biases quantum outcomes without injecting energy. This requires consciousness to influence the selection among quantum possibilities—but it may not require sustained coherence.
 
 Henry Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) offers an alternative that sidesteps the coherence problem entirely. Rapid repeated mental "observations" can maintain neural patterns without requiring coherence to survive *between* observations. The observations happen faster than decoherence acts.
 
@@ -171,7 +171,7 @@ The coherence question thus divides quantum consciousness proposals:
 
 ## Relation to Site Perspective
 
-The site's tenets don't require proving that quantum coherence persists for any specific duration. They require:
+the project's tenets don't require proving that quantum coherence persists for any specific duration. They require:
 
 1. **Dualism**: Consciousness is not reducible to physical processes. Neural quantum coherence is compatible with dualism but doesn't prove it.
 
@@ -192,7 +192,7 @@ The evidence doesn't prove quantum consciousness. It removes the categorical obj
 - [decoherence](/concepts/decoherence/) — Why decoherence doesn't solve the measurement problem
 - [quantum-biology](/concepts/quantum-biology/) — Biological systems exploiting quantum effects
 - [measurement-problem](/concepts/measurement-problem/) — Why physics leaves outcomes undetermined
-- [tenets](/tenets/) — The site's foundational commitments
+- [tenets](/tenets/) — the project's foundational commitments
 - [quantum-superposition-brain-consciousness-2026-01-18](/research/quantum-superposition-brain-consciousness-2026-01-18/) — Research notes on 2024-2025 findings
 - [neural-binding-quantum-entanglement-2026-01-19](/research/neural-binding-quantum-entanglement-2026-01-19/) — Research notes on binding and entanglement
 

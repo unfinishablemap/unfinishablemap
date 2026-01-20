@@ -17,9 +17,9 @@ title: Research Notes - Brain Specialness Boundary (Why Not Psychokinesis)
 
 ## Executive Summary
 
-The site's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) + [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets risk an embarrassing implication: if consciousness can bias quantum outcomes, why only in brains? Why can't consciousness move objects, predict the future, or affect random number generators at a distance?
+the project's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) + [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets risk an embarrassing implication: if consciousness can bias quantum outcomes, why only in brains? Why can't consciousness move objects, predict the future, or affect random number generators at a distance?
 
-This is the **brain specialness problem**: the site needs a principled boundary that permits consciousness to influence neural quantum events while ruling out parapsychological effects that lack empirical support and violate the site's commitment to scientific respectability.
+This is the **brain specialness problem**: the project needs a principled boundary that permits consciousness to influence neural quantum events while ruling out parapsychological effects that lack empirical support and violate the project's commitment to scientific respectability.
 
 This research examines candidate boundary conditions and their justifications. The key insight: **interface locality**—consciousness can only influence quantum systems already integrated into its control loop (attention, motor planning), not arbitrary external systems. This isn't an ad hoc restriction but follows from the nature of the proposed mechanism.
 
@@ -31,7 +31,7 @@ If consciousness can bias quantum outcomes in the brain, what stops it from:
 - Accessing information about distant events (telepathy, remote viewing)
 - Affecting future quantum events retroactively (precognition)
 
-Parapsychology research claims to find small but statistically significant effects in some of these domains. The site cannot simply dismiss this research—but it also cannot endorse it without undermining its scientific credibility.
+Parapsychology research claims to find small but statistically significant effects in some of these domains. the project cannot simply dismiss this research—but it also cannot endorse it without undermining its scientific credibility.
 
 The challenge: articulate a boundary that:
 1. Permits brain-internal quantum selection (as the framework requires)
@@ -55,7 +55,7 @@ The challenge: articulate a boundary that:
 
 A 2024 IONS paper reviews "theories of non-local consciousness" that reject the constraint this research seeks to establish. These theories propose consciousness "extends beyond the body and the brain and need not be restricted by our usual notions."
 
-**Relevance**: The site's framework is NOT a non-local consciousness theory. It proposes a specific, local interface: consciousness biases quantum outcomes in the brain's attention-controlled systems. This is crucial for avoiding the slide into parapsychology.
+**Relevance**: the project's framework is NOT a non-local consciousness theory. It proposes a specific, local interface: consciousness biases quantum outcomes in the brain's attention-controlled systems. This is crucial for avoiding the slide into parapsychology.
 
 ### Stapp on Mind-Brain Locality
 
@@ -168,9 +168,9 @@ Filter theory likewise implies embodiment: consciousness is "filtered" or "recei
 
 ## The Parapsychology Problem
 
-### Why the Site Can't Simply Ignore PK Research
+### Why the project Can't Simply Ignore PK Research
 
-If the site's framework is correct, some form of PK *should* exist—at least within the brain. The question is whether it extends beyond the brain.
+If the project's framework is correct, some form of PK *should* exist—at least within the brain. The question is whether it extends beyond the brain.
 
 Arguments that it might:
 - If consciousness can bias quantum outcomes, why exactly at the neural boundary?
@@ -180,16 +180,16 @@ Arguments that it might:
 Arguments that it doesn't:
 - Decades of PK research show no reliable, replicable effects
 - Physical conservation laws would be violated by macroscopic PK
-- The site's mechanism (attention → Zeno effect → neural states) doesn't extend to external systems
+- the project's mechanism (attention → Zeno effect → neural states) doesn't extend to external systems
 
-### The Site's Position
+### the project's Position
 
-**Proposed stance**: The site's framework makes no prediction about external PK because:
+**Proposed stance**: the project's framework makes no prediction about external PK because:
 
 1. The mechanism is **neural-specific**: The quantum Zeno mechanism operates through attention, which is neurally implemented
 2. The interface is **embodied**: Consciousness interfaces with *its* brain through developmental/evolutionary integration
 3. **Absence of evidence** suggests external effects, if any, are below detection threshold
-4. The site **remains agnostic** on external PK—it doesn't claim to disprove it, but doesn't require or predict it
+4. the project **remains agnostic** on external PK—it doesn't claim to disprove it, but doesn't require or predict it
 
 This is intellectually honest: the framework predicts neural selection, not universal PK. External PK would require additional mechanisms the framework doesn't specify.
 
@@ -210,7 +210,7 @@ This research could support:
 
 1. **New section in tenets.md**: Under Minimal Quantum Interaction, add explicit acknowledgment of the brain specialness constraint and its justification
 
-2. **Concept page: "Why Not Psychokinesis"**: Full treatment of how the site's framework implies brain-local selection without implying universal PK
+2. **Concept page: "Why Not Psychokinesis"**: Full treatment of how the project's framework implies brain-local selection without implying universal PK
 
 3. **FAQ-style article**: Addressing the obvious question "If mind affects matter, why can't I move objects with my mind?"
 
@@ -235,18 +235,18 @@ The brain specialness boundary doesn't violate parsimony—it's what the mechani
 
 - No direct empirical test distinguishes neural selection from external PK
 - The boundary is principled but not proven—it's what the framework predicts, not what experiments confirm
-- Parapsychology research remains contested; the site takes a position (skepticism) but can't definitively resolve the debate
+- Parapsychology research remains contested; the project takes a position (skepticism) but can't definitively resolve the debate
 - The mechanism doesn't explain *why* attention evolved to implement quantum observation
 
 ## Summary
 
-**The brain specialness problem is real**: If the site claims consciousness biases quantum outcomes, it must explain why only in brains.
+**The brain specialness problem is real**: If the project claims consciousness biases quantum outcomes, it must explain why only in brains.
 
 **The answer is mechanistic, not ad hoc**: The quantum Zeno mechanism operates through attention, which is neurally implemented. Consciousness can only bias outcomes in systems it can observe (attend to), and it can only attend to what's within its control loop—its own brain.
 
 **The boundary follows from embodiment**: Consciousness is embodied in a particular brain through development and evolution. This embodiment creates the interface. There's no interface with external systems.
 
-**The site should be explicit**: Add language to tenets.md and related articles acknowledging this constraint and explaining why it follows from the framework rather than being imposed to avoid parapsychology.
+**the project should be explicit**: Add language to tenets.md and related articles acknowledging this constraint and explaining why it follows from the framework rather than being imposed to avoid parapsychology.
 
 ## Citations
 

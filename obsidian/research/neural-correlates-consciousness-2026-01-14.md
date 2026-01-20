@@ -28,7 +28,7 @@ last_curated: null
 
 ## Executive Summary
 
-Neural correlates of consciousness (NCC) research seeks to identify the minimum neural mechanisms sufficient for any specific conscious experience. Major figures include Christof Koch, Giulio Tononi, and Stanislas Dehaene. Recent empirical findings, especially from the Templeton-funded COGITATE adversarial collaboration (results published in Nature, April 2025), have challenged both leading theories—Integrated Information Theory (IIT) and Global Neuronal Workspace Theory (GNWT). The data favors the "posterior cortical hot zone" as the primary seat of visual consciousness, rather than frontal regions as GNWT predicted. For this site's tenets, NCC research is philosophically important but neutral: finding correlations between neural activity and consciousness does not resolve whether consciousness *is* neural activity or merely *correlates* with it. The site's [[interactionist-dualism]] can accommodate NCC findings while maintaining that consciousness is not reducible to these correlates.
+Neural correlates of consciousness (NCC) research seeks to identify the minimum neural mechanisms sufficient for any specific conscious experience. Major figures include Christof Koch, Giulio Tononi, and Stanislas Dehaene. Recent empirical findings, especially from the Templeton-funded COGITATE adversarial collaboration (results published in Nature, April 2025), have challenged both leading theories—Integrated Information Theory (IIT) and Global Neuronal Workspace Theory (GNWT). The data favors the "posterior cortical hot zone" as the primary seat of visual consciousness, rather than frontal regions as GNWT predicted. For this project's tenets, NCC research is philosophically important but neutral: finding correlations between neural activity and consciousness does not resolve whether consciousness *is* neural activity or merely *correlates* with it. the project's [[interactionist-dualism]] can accommodate NCC findings while maintaining that consciousness is not reducible to these correlates.
 
 ## Key Sources
 
@@ -171,7 +171,7 @@ As the Stanford Encyclopedia notes: "Interactionism actually predicts that menta
 
 ### The Interface Question
 
-NCC research may help locate the *interface* between consciousness and brain—where interaction occurs. For the site's tenets:
+NCC research may help locate the *interface* between consciousness and brain—where interaction occurs. For the project's tenets:
 
 - The posterior cortical hot zone could be where consciousness "reads" sensory information
 - Quantum effects in these regions (if present) could be where consciousness "writes" back
@@ -209,7 +209,7 @@ NCC findings are consistent with bidirectional interaction:
 - Mental→physical: Conscious attention modulates neural activity (top-down causation); whether this is mere physical→physical or involves mental causation is unresolved
 
 ### No Many Worlds Tenet
-NCC research is silent on quantum interpretations. However, if consciousness involves quantum collapse (as the site's framework suggests), NCC research might eventually identify where collapse occurs.
+NCC research is silent on quantum interpretations. However, if consciousness involves quantum collapse (as the project's framework suggests), NCC research might eventually identify where collapse occurs.
 
 ### Occam's Razor Has Limits Tenet
 The existence of 200+ theories of consciousness, with the two most prominent both challenged by COGITATE, suggests consciousness is not easily explained. This supports humility about the "simpler" materialist explanation.

@@ -33,7 +33,7 @@ Altered states of consciousness (ASCs) constitute a diverse family of experience
 
 ## Defining Altered States
 
-Charles Tart's foundational definition (1969) identifies ASCs as "profound changes in the overall pattern of subjective experiences." This phenomenological approach avoids the question-begging implicit in some neuroscientific definitions that characterise ASCs as "increased tendency to produce misrepresentations." From the site's perspective, some ASCs may involve *less filtered* access to reality rather than error.
+Charles Tart's foundational definition (1969) identifies ASCs as "profound changes in the overall pattern of subjective experiences." This phenomenological approach avoids the question-begging implicit in some neuroscientific definitions that characterise ASCs as "increased tendency to produce misrepresentations." From the project's perspective, some ASCs may involve *less filtered* access to reality rather than error.
 
 Tart's taxonomy identifies ten dimensions along which consciousness can vary: sense of identity, body image, time perception, perception, cognition, memory, affect, sense of meaning, volition, and unconscious processing. ASCs shift multiple dimensions simultaneously—distinguishing them from ordinary variations in mood or attention. The 2025 thalamic nuclei research identified five specific thalamic nuclei orchestrating state transitions, with distinct connectivity patterns across anesthesia, sleep, and disorders of consciousness—neuroimaging confirmation that ASCs represent discrete modes rather than continuous variation.
 
@@ -79,13 +79,13 @@ Filter theory resolves the paradox. Flow involves consciousness *releasing* acti
 
 ### Hypnosis
 
-Recent neuroimaging (2025) confirms that hypnosis alters executive control network integration, corresponding to altered subjective sense of agency. Highly hypnotisable individuals show increased anterior default mode network activity. The key insight: altered sense of agency maps directly to altered neural patterns, but the direction of causation remains open. From the site's perspective, hypnotic suggestion may work by consciousness voluntarily reconfiguring its interface rather than brain states simply overriding consciousness.
+Recent neuroimaging (2025) confirms that hypnosis alters executive control network integration, corresponding to altered subjective sense of agency. Highly hypnotisable individuals show increased anterior default mode network activity. The key insight: altered sense of agency maps directly to altered neural patterns, but the direction of causation remains open. From the project's perspective, hypnotic suggestion may work by consciousness voluntarily reconfiguring its interface rather than brain states simply overriding consciousness.
 
 ### Meditation
 
 Advanced meditation produces states ranging from focused absorption (samadhi) to [witness awareness](/concepts/witness-consciousness/) to cessation events—"radically altered states characterised by full loss of consciousness" that, unlike anaesthetic unconsciousness, are voluntary and transformative. Tantric yoga offers systematic phenomenology of consciousness structures that meditators navigate deliberately.
 
-The voluntariness is crucial. Meditators deliberately alter their brain-consciousness interface through attention training. Longitudinal studies show meditation produces lasting structural brain changes. From the site's framework, this provides evidence for [Bidirectional Interaction](/tenets/#bidirectional-interaction): consciousness can deliberately reconfigure its neural interface through sustained practice.
+The voluntariness is crucial. Meditators deliberately alter their brain-consciousness interface through attention training. Longitudinal studies show meditation produces lasting structural brain changes. From the project's framework, this provides evidence for [Bidirectional Interaction](/tenets/#bidirectional-interaction): consciousness can deliberately reconfigure its neural interface through sustained practice.
 
 Cessation events illuminate filter theory directly. Unlike anesthesia (where consciousness appears eliminated) or sleep (where it continues in altered form), meditative cessation involves *deliberate* withdrawal of consciousness from neural processing—then return. The transformation reported by advanced practitioners upon return suggests consciousness operated during cessation in a mode unconstrained by the brain-interface, returning with insights unavailable during normal filtered operation.
 
@@ -105,7 +105,7 @@ This raises a question for filter theory: does the filter determine *how much* c
 
 ## Relation to Site Perspective
 
-Altered states illuminate the site's [tenets](/tenets/) from multiple angles:
+Altered states illuminate the project's [tenets](/tenets/) from multiple angles:
 
 **Dualism:** ASCs demonstrate that consciousness has modes and configurations that cannot be straightforwardly mapped to brain states. The same behavioural output can mask different experiences; similar brain changes can produce opposite subjective effects.
 
@@ -113,7 +113,7 @@ Altered states illuminate the site's [tenets](/tenets/) from multiple angles:
 
 **Bidirectional Interaction:** Flow states and meditation demonstrate that consciousness can deliberately release control or reconfigure its interface—something impossible if consciousness were merely produced by, rather than interacting with, brain processes.
 
-**No Many Worlds:** The site's rejection of many-worlds is consistent with ASC phenomenology: altered states feel like different modes of *this* consciousness, not glimpses into parallel selves.
+**No Many Worlds:** the project's rejection of many-worlds is consistent with ASC phenomenology: altered states feel like different modes of *this* consciousness, not glimpses into parallel selves.
 
 The filter theory provides a unified framework: ASCs reveal different configurations of the brain-consciousness interface, not different productions by different brain states.
 

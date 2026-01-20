@@ -33,7 +33,7 @@ last_deep_review: 2026-01-19T14:15:00+00:00
 
 The measurement problem is the central foundational puzzle in quantum mechanics—and it creates the logical opening for consciousness to play a role in physics. Quantum systems evolve deterministically according to the Schrödinger equation, forming superpositions of all possible states. Yet measurement yields a single, definite outcome. What causes this transition? The mathematics doesn't say. As J.S. Bell framed it: "Either the wavefunction...is not everything, or it is not right."
 
-This matters for consciousness studies because no interpretation has closed the gap at collapse. If collapse is real and its cause unspecified by the formalism, consciousness remains a candidate selector. The site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes exactly this: consciousness biases otherwise indeterminate quantum outcomes.
+This matters for consciousness studies because no interpretation has closed the gap at collapse. If collapse is real and its cause unspecified by the formalism, consciousness remains a candidate selector. the project's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes exactly this: consciousness biases otherwise indeterminate quantum outcomes.
 
 ## The Problem Stated
 
@@ -85,9 +85,9 @@ All outcomes occur. The universe branches at every quantum event; all branches a
 
 4. **The preferred basis problem**: Branch ontology depends on environment-relative decoherence, reintroducing observer-dependence.
 
-5. **Consciousness unaddressed**: MWI is fundamentally incompatible with [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. The site holds that consciousness participates in determining physical outcomes—that mental causation is real. MWI explicitly denies this: consciousness plays no role in the physics; all outcomes occur regardless. The hard problem remains; the unity of experience is unexplained by branching.
+5. **Consciousness unaddressed**: MWI is fundamentally incompatible with [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. the project holds that consciousness participates in determining physical outcomes—that mental causation is real. MWI explicitly denies this: consciousness plays no role in the physics; all outcomes occur regardless. The hard problem remains; the unity of experience is unexplained by branching.
 
-Many-worlds dissolves the measurement problem by denying single outcomes rather than explaining them. The site holds that the measurement problem is real and that consciousness is a candidate for what resolves it.
+Many-worlds dissolves the measurement problem by denying single outcomes rather than explaining them. the project holds that the measurement problem is real and that consciousness is a candidate for what resolves it.
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
@@ -99,13 +99,13 @@ The wave function undergoes real, physical collapse according to modified dynami
 
 Particles always have definite positions, guided by the wave function through a "pilot wave." The measurement problem vanishes because particles never lack definite properties—we simply don't know them until measurement.
 
-**Relation to site tenets:** Bohmian mechanics removes the opening for consciousness at collapse. It's deterministic throughout; the wave function guides particles mechanically. Philosophically interesting but not the site's preferred framework.
+**Relation to site tenets:** Bohmian mechanics removes the opening for consciousness at collapse. It's deterministic throughout; the wave function guides particles mechanically. Philosophically interesting but not the project's preferred framework.
 
 ### Consciousness-Based Interpretations
 
 Conscious observation precipitates collapse. Von Neumann showed mathematically that collapse could be placed anywhere in the measurement chain—including at the observer's consciousness. Wigner briefly championed this view in 1961.
 
-**Relation to site tenets:** **Most aligned** with [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]. However, the site prefers Stapp's quantum Zeno mechanism—where attention acts as repeated observation—over von Neumann-Wigner style consciousness-collapse. The Zeno approach uses orthodox quantum mechanics without adding consciousness as a fundamental force.
+**Relation to site tenets:** **Most aligned** with [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]. However, the project prefers Stapp's quantum Zeno mechanism—where attention acts as repeated observation—over von Neumann-Wigner style consciousness-collapse. The Zeno approach uses orthodox quantum mechanics without adding consciousness as a fundamental force.
 
 #### Stapp's Quantum Zeno Framework
 
@@ -113,7 +113,7 @@ Henry Stapp developed the most sophisticated consciousness-based approach within
 
 The mechanism works as follows: persistent probing of a neural state produces the same "answer" repeatedly from the physical world, effectively sustaining that state against decoherence. Ion channels in synaptic walls serve as sites where consciousness interfaces with brain dynamics. This isn't consciousness *causing* collapse from outside physics, but consciousness *selecting* among quantum possibilities through attentional focus—the orthodox "Heisenberg choice" already built into von Neumann's formalism.
 
-Stapp's framework treats mental and physical as co-equal aspects of reality. As he summarizes orthodox quantum mechanics: "these events [are] instigated by choices made by conscious agents." The site's position is essentially a philosophical elaboration of Stapp's scientific framework.
+Stapp's framework treats mental and physical as co-equal aspects of reality. As he summarizes orthodox quantum mechanics: "these events [are] instigated by choices made by conscious agents." the project's position is essentially a philosophical elaboration of Stapp's scientific framework.
 
 ## The Observer Problem
 
@@ -137,7 +137,7 @@ This "[[multi-mind-collapse-problem]]" generates several uncomfortable options:
 - **Consensus required**: But this requires either nonlocal coordination between minds or indefinite superposition until all observers agree.
 - **Dominant consciousness**: But this requires an unmeasurable hierarchy of observer "strength."
 
-The site's resolution combines [[interface-locality]] with [[prebiotic-collapse|objective collapse]]. Consciousness doesn't cause collapse universally—it *modulates* collapse specifically within neural systems. External reality (the photon's position) is determined by physical objective collapse. Each consciousness then modulates only its own brain's response to that already-determined external fact.
+the project's resolution combines [[interface-locality]] with [[prebiotic-collapse|objective collapse]]. Consciousness doesn't cause collapse universally—it *modulates* collapse specifically within neural systems. External reality (the photon's position) is determined by physical objective collapse. Each consciousness then modulates only its own brain's response to that already-determined external fact.
 
 This dissolves the coordination problem: Alice's consciousness affects Alice's neural patterns; Bob's affects Bob's. There is no point where their selections must be reconciled because they operate on entirely different substrates. Agreement between observers reflects the fact that external reality was determined by physics, not that multiple consciousnesses somehow coordinated their selections.
 
@@ -159,17 +159,17 @@ This loophole has important features:
 
 3. **The right location**: The causal closure objection to [[interactionist-dualism]] assumes physics is closed. But at measurement, it isn't. This is precisely where non-physical causes *could* operate without conflicting with physical law.
 
-The site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness exploits this loophole—biasing quantum outcomes in ways that physics permits but doesn't determine.
+the project's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness exploits this loophole—biasing quantum outcomes in ways that physics permits but doesn't determine.
 
 ## Relation to Site Perspective
 
-The measurement problem directly supports the site's framework:
+The measurement problem directly supports the project's framework:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The measurement problem creates logical space for consciousness at collapse. Physics leaves outcomes undetermined; something must select among possibilities. Consciousness is a candidate selector that doesn't violate conservation laws if it merely biases already-indeterminate outcomes.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness selects among superposed states, it causally influences the physical world. This is precisely what the measurement problem permits—an unspecified cause of definite outcomes.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The site rejects many-worlds for its indexical problems. The measurement problem is *real*—not to be dissolved by claiming all outcomes occur. We experience single outcomes; an adequate interpretation must explain why.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: the project rejects many-worlds for its indexical problems. The measurement problem is *real*—not to be dissolved by claiming all outcomes occur. We experience single outcomes; an adequate interpretation must explain why.
 
 **[[tenets#^dualism|Dualism]]**: That physics cannot specify what causes collapse suggests something beyond physics is involved. This doesn't prove dualism, but it removes the strongest objection—that physics is causally closed. At measurement, physics is explicitly open.
 
@@ -187,7 +187,7 @@ The measurement problem directly supports the site's framework:
 - [[multi-mind-collapse-problem]] — How multiple observers' collapses are reconciled
 - [[interface-locality]] — Why consciousness can only select within its own brain
 - [[prebiotic-collapse]] — What collapsed outcomes before minds existed
-- [[tenets]] — The site's foundational commitments
+- [[tenets]] — the project's foundational commitments
 
 ## References
 

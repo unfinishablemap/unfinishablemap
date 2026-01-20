@@ -86,7 +86,7 @@ Consciousness emerged separately in:
 
 Godfrey-Smith argues that features of vertebrate brain architecture traditionally "viewed as inessential" for consciousness may indeed be inessential. What matters are large-scale dynamic patterns, not specific anatomical structures. The conservation of dynamic patterns despite wildly divergent brain architectures suggests consciousness depends on *how* neural activity is organized, not *where* it occurs.
 
-This multiple-origins framework supports the site's dualist position: if consciousness interfaces with physical systems rather than being produced by specific structures, we should expect it to appear wherever the relevant organizational properties exist—regardless of phylogenetic lineage.
+This multiple-origins framework supports the project's dualist position: if consciousness interfaces with physical systems rather than being produced by specific structures, we should expect it to appear wherever the relevant organizational properties exist—regardless of phylogenetic lineage.
 
 ## The Agnostic Challenge
 
@@ -116,9 +116,9 @@ The result is not certainty about animal consciousness but a significant asymmet
 
 [Higher-order thought (HOT) theories](/concepts/higher-order-theories/) create particular difficulties for animal consciousness. Peter Carruthers argues that phenomenal consciousness requires higher-order representations—thoughts about one's own mental states. If animals lack such metacognition, they would lack phenomenal consciousness despite complex behavior.
 
-This site rejects HOT theories for reasons independent of the animal question. As discussed in the [higher-order-theories](/concepts/higher-order-theories/) article, HOT theories fail to explain phenomenal consciousness even in humans. Ned Block's "defunct" critique demonstrates that HOT addresses only access consciousness, not the felt quality of experience. The rock objection shows HOT cannot distinguish genuine consciousness from higher-order representations of nothing.
+this project rejects HOT theories for reasons independent of the animal question. As discussed in the [higher-order-theories](/concepts/higher-order-theories/) article, HOT theories fail to explain phenomenal consciousness even in humans. Ned Block's "defunct" critique demonstrates that HOT addresses only access consciousness, not the felt quality of experience. The rock objection shows HOT cannot distinguish genuine consciousness from higher-order representations of nothing.
 
-If HOT fails as a theory of human consciousness, its verdict on animals is irrelevant. But the debate illustrates a broader point: one's theory of consciousness determines what one says about animal minds. The site's dualist framework—where consciousness is irreducible and not constituted by functional organization—has no principled reason to exclude animals.
+If HOT fails as a theory of human consciousness, its verdict on animals is irrelevant. But the debate illustrates a broader point: one's theory of consciousness determines what one says about animal minds. the project's dualist framework—where consciousness is irreducible and not constituted by functional organization—has no principled reason to exclude animals.
 
 ## Dualism and Animal Minds: No Anthropocentric Barrier
 
@@ -146,7 +146,7 @@ Jaak Panksepp and Joseph LeDoux represent opposing positions on where emotional 
 
 **LeDoux's higher-order theory**: LeDoux argues subcortical circuits produce "defensive survival circuits" without conscious fear. Conscious emotional feelings require cortical higher-order representations. On this view, animals may respond to threats behaviorally without phenomenally experiencing fear.
 
-For this site's purposes, Panksepp's evidence is significant. If mammals without cortex still display emotional behavior, the neural substrate for emotional consciousness may be ancient and widespread—extending to any creature with subcortical limbic structures. This supports animal consciousness more strongly than functional similarity alone.
+For this project's purposes, Panksepp's evidence is significant. If mammals without cortex still display emotional behavior, the neural substrate for emotional consciousness may be ancient and widespread—extending to any creature with subcortical limbic structures. This supports animal consciousness more strongly than functional similarity alone.
 
 ### Pain Asymbolia and Animal Suffering
 
@@ -167,17 +167,17 @@ Chalmers' "philosophical Vulcan" thought experiment clarifies the distinction: i
 
 Valence sentientists say no: without the capacity for suffering, there's nothing to protect. Broad sentientists say yes: the mere fact of experience creates moral significance. Most animal welfare frameworks implicitly adopt valence sentientism—the focus is on preventing suffering rather than protecting consciousness per se.
 
-This connects consciousness to ethics. If animal suffering is real suffering, it matters morally regardless of whether we can verify it scientifically. The site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet implies that consciousness is causally efficacious—it *does* something. If animal consciousness matters morally, it must be real and effective, not an epiphenomenal shadow.
+This connects consciousness to ethics. If animal suffering is real suffering, it matters morally regardless of whether we can verify it scientifically. the project's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet implies that consciousness is causally efficacious—it *does* something. If animal consciousness matters morally, it must be real and effective, not an epiphenomenal shadow.
 
 Peter Singer's utilitarian ethics and Tom Regan's rights-based approach both assume animal sentience and derive ethical implications. The philosophical question of animal consciousness isn't merely academic—it grounds our treatment of billions of creatures.
 
 ## The Void of Animal Experience
 
-Animal consciousness represents a kind of [void](/voids/) in the site's framework—territory that may be partially accessible through inference but ultimately escapes full comprehension. We can observe behavior, map neural correlates, trace evolutionary lineages. But the subjective experience of being a bat, feeling echolocation as a perceptual modality, remains beyond human imagination.
+Animal consciousness represents a kind of [void](/voids/) in the project's framework—territory that may be partially accessible through inference but ultimately escapes full comprehension. We can observe behavior, map neural correlates, trace evolutionary lineages. But the subjective experience of being a bat, feeling echolocation as a perceptual modality, remains beyond human imagination.
 
-This isn't failure but recognition. The site's [Occam's Razor Has Limits](/tenets/#occams-razor) tenet acknowledges that some questions may exceed our cognitive reach. We cannot dismiss animal consciousness simply because it's hard to verify. That would confuse epistemic limitation with metaphysical fact.
+This isn't failure but recognition. the project's [Occam's Razor Has Limits](/tenets/#occams-razor) tenet acknowledges that some questions may exceed our cognitive reach. We cannot dismiss animal consciousness simply because it's hard to verify. That would confuse epistemic limitation with metaphysical fact.
 
-## Relation to This Site's Perspective
+## Relation to this project's Perspective
 
 **Dualism**: Animal consciousness poses no special problem for dualism—it poses the *same* problem as human consciousness. If consciousness is irreducible, it is irreducible in bats and cephalopods as in humans. The hard problem applies universally.
 
@@ -185,7 +185,7 @@ This isn't failure but recognition. The site's [Occam's Razor Has Limits](/tenet
 
 **Bidirectional Interaction**: If consciousness causally influences behavior, animal consciousness should too. The behavioral flexibility of many species—problem-solving, tool use, social navigation—is exactly what we'd expect if consciousness shapes action rather than merely observing it.
 
-**No Many Worlds**: Questions about what animal experience is *like* presuppose that there is a determinate fact about animal phenomenology. This aligns with the site's rejection of views where consciousness fragments into parallel streams without determinate content.
+**No Many Worlds**: Questions about what animal experience is *like* presuppose that there is a determinate fact about animal phenomenology. This aligns with the project's rejection of views where consciousness fragments into parallel streams without determinate content.
 
 **Occam's Razor Has Limits**: The simplest explanation of animal behavior might be unconscious mechanism. But simplicity misleads when our knowledge is incomplete. Convergent evidence from evolution, neuroscience, and behavior makes animal consciousness more plausible than its denial—even if we cannot fully comprehend alien phenomenologies.
 

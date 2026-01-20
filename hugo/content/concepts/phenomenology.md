@@ -55,7 +55,7 @@ These methods seem technical, but they serve a simple purpose: attending careful
 
 **Martin Heidegger (1889-1976)** shifted focus from consciousness to *Dasein*—"being-there," the mode of existence peculiar to humans. He emphasized practical engagement over theoretical reflection. Before we explicitly think about objects, we encounter them as tools, obstacles, invitations for action. This "being-in-the-world" is more fundamental than subject-object duality.
 
-**Maurice Merleau-Ponty (1908-1961)** developed embodied phenomenology. The "lived body" is neither mere matter nor pure mind—it is the site where consciousness and world interpenetrate. Perception involves active bodily engagement: we reach, orient, move through a world structured by our bodily capacities. This "primacy of perception" grounds higher cognition in pre-reflective bodily skill.
+**Maurice Merleau-Ponty (1908-1961)** developed embodied phenomenology. The "lived body" is neither mere matter nor pure mind—it is the project where consciousness and world interpenetrate. Perception involves active bodily engagement: we reach, orient, move through a world structured by our bodily capacities. This "primacy of perception" grounds higher cognition in pre-reflective bodily skill.
 
 **Jean-Paul Sartre (1905-1980)** developed phenomenological ontology. All consciousness involves pre-reflective self-awareness—not explicit self-knowledge but a transparent "being-aware" that accompanies every experience. Consciousness is characterized by radical freedom and what Sartre called *néant* (nothingness)—the capacity to step back from what is given and imagine alternatives.
 
@@ -78,7 +78,7 @@ Husserl's analysis of temporal experience reveals consciousness's synthetic acti
 
 Physical time is a sequence of instants. Experienced time is structured by meaning, anticipation, and memory interpenetrating in the living present. The "specious present" extends beyond the mathematical instant.
 
-This analysis connects to the site's [temporal-consciousness](/concepts/temporal-consciousness/) and [duration](/concepts/duration/) articles. Bergson's *durée* and Husserl's time-consciousness converge: experienced time cannot be reconstructed from sequences of instantaneous states. Time as lived differs from time as measured.
+This analysis connects to the project's [temporal-consciousness](/concepts/temporal-consciousness/) and [duration](/concepts/duration/) articles. Bergson's *durée* and Husserl's time-consciousness converge: experienced time cannot be reconstructed from sequences of instantaneous states. Time as lived differs from time as measured.
 
 ## Merleau-Ponty and the Body
 
@@ -86,7 +86,7 @@ Merleau-Ponty's work offers resources for understanding the [mind-brain relation
 
 Consider bodily skill. An experienced typist doesn't consciously locate keys; the hands "know" where they are. A pianist's fingers find the notes through acquired habit, not explicit representation. This "motor intentionality" is neither pure mind (it's bodily) nor pure mechanism (it's meaningful).
 
-For the site's framework, Merleau-Ponty's analysis supports a filter interpretation. The body shapes and conditions conscious experience—it structures what we perceive, how we move, what possibilities appear. But this shaping role need not mean the body *produces* consciousness. The lived body might be where consciousness interfaces with the physical world, not where consciousness originates.
+For the project's framework, Merleau-Ponty's analysis supports a filter interpretation. The body shapes and conditions conscious experience—it structures what we perceive, how we move, what possibilities appear. But this shaping role need not mean the body *produces* consciousness. The lived body might be where consciousness interfaces with the physical world, not where consciousness originates.
 
 ## The Phenomenology of Selfhood
 
@@ -96,13 +96,13 @@ Contemporary phenomenologists Shaun Gallagher and Dan Zahavi identify this basic
 
 The minimal self should not be confused with the narrative self—the story we construct about who we are. The narrative self emerges through reflection, memory, and social interaction. The minimal self is more basic: it is the very form conscious experience takes. Even before any self-story develops, even in experiences we don't subsequently remember, there is a subject having the experience.
 
-Why this matters for the site's framework:
+Why this matters for the project's framework:
 
 1. **The minimal self is disclosed through phenomenology.** It is not a theoretical posit but something revealed when we attend carefully to experience. The epoché strips away assumptions and reveals this basic structure.
 
 2. **The minimal self resists elimination.** Attempts to explain away the first-person perspective (as in eliminative materialism) founder on the fact that every experience is *someone's* experience. The very act of eliminating the self presupposes a self doing the eliminating.
 
-3. **Personal identity may persist where narrative identity fragments.** If the minimal self is more fundamental than the narrative self, then *this* first-person perspective might persist even when memory and self-narrative are severely disrupted—supporting the site's emphasis on indexical identity.
+3. **Personal identity may persist where narrative identity fragments.** If the minimal self is more fundamental than the narrative self, then *this* first-person perspective might persist even when memory and self-narrative are severely disrupted—supporting the project's emphasis on indexical identity.
 
 ## The Reliability Objection and Its Response
 
@@ -144,7 +144,7 @@ Francisco Varela pioneered *[neurophenomenology](/concepts/neurophenomenology/)*
 
 The method involves training subjects in phenomenological observation (often through contemplative practices), then correlating their refined reports with neural measurements. The goal: explanations that honor both perspectives without reducing one to the other.
 
-Recent developments (2025) include "deep computational neurophenomenology," using Bayesian mechanics to formalize first-person/third-person integration, and "generative neurophenomenology," emphasizing intersubjective dimensions. These frameworks acknowledge what the site's tenets assert: understanding consciousness requires methods that go beyond third-person physical description.
+Recent developments (2025) include "deep computational neurophenomenology," using Bayesian mechanics to formalize first-person/third-person integration, and "generative neurophenomenology," emphasizing intersubjective dimensions. These frameworks acknowledge what the project's tenets assert: understanding consciousness requires methods that go beyond third-person physical description.
 
 ## Phenomenology and the Hard Problem
 
@@ -198,9 +198,9 @@ Phenomenology's claims about first-person irreducibility could be undermined if:
 
 5. **The process/content distinction collapses.** If the critique of introspection could be extended from causal processes to phenomenal content—if we systematically confabulate not just *why* we made choices but *what* we're currently experiencing—phenomenology's evidential base would erode. But choice blindness and Nisbett-Wilson studies specifically target process access while leaving content access intact.
 
-## Relation to This Site's Perspective
+## Relation to this project's Perspective
 
-Phenomenology supports all five of the site's foundational commitments:
+Phenomenology supports all five of the project's foundational commitments:
 
 **[Dualism](/tenets/#dualism)**: Phenomenology provides systematic evidence that consciousness has irreducible first-person features. Intentionality cannot be naturalized (Brentano's thesis remains unrefuted). The temporal structure of experience differs from physical time. The qualitative character of perception is disclosed only to the subject. These features resist capture in physical terms. The [illusionist](/concepts/illusionism/) attempt to explain this away founders on self-stultification: denying phenomenal consciousness requires invoking phenomenal consciousness.
 
@@ -208,7 +208,7 @@ Phenomenology supports all five of the site's foundational commitments:
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Phenomenology reveals consciousness as active, not passive. Husserl's analyses show how consciousness constitutes meaningful objects through synthetic activity. Merleau-Ponty's motor intentionality shows consciousness shaping action. The phenomenology of [voluntary attention](/concepts/voluntary-attention/)—the felt experience of directing awareness—provides first-person evidence for the causal efficacy of mind. If consciousness merely accompanied physical processes without influencing them, these constitutive and directive features would be inexplicable.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Phenomenology's disclosure of temporal microstructure connects to the site's quantum framework. Husserl's analysis of the specious present—the extended "now" with retention and protention—may reflect the fundamental timescale at which consciousness interfaces with quantum processes. The [specious present](/concepts/specious-present/) debate between extensionalism and retentionalism concerns whether experience is genuinely temporally extended. The site's position—that temporal extension is constituted through quantum collapse—makes phenomenological findings about time-consciousness directly relevant to the mechanism of mind-matter interaction.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Phenomenology's disclosure of temporal microstructure connects to the project's quantum framework. Husserl's analysis of the specious present—the extended "now" with retention and protention—may reflect the fundamental timescale at which consciousness interfaces with quantum processes. The [specious present](/concepts/specious-present/) debate between extensionalism and retentionalism concerns whether experience is genuinely temporally extended. the project's position—that temporal extension is constituted through quantum collapse—makes phenomenological findings about time-consciousness directly relevant to the mechanism of mind-matter interaction.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Phenomenology's emphasis on indexical identity supports the rejection of Many-Worlds. The phenomenological reduction reveals a first-person perspective that is irreducibly *this* perspective—not one among countless copies in branching universes. The question "why am I *this* observer rather than another?" is not dissolved by phenomenological investigation; it is sharpened. The minimal self disclosed by the epoché is singular, not multiplied. This makes the Many-Worlds interpretation's evasion of selection through multiplication philosophically suspect: phenomenology reveals exactly the kind of indexical fact that MWI cannot accommodate.
 

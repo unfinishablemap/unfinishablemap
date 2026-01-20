@@ -26,7 +26,7 @@ last_curated: null
 
 Dualism comes in two main varieties: substance dualism and property dualism. The first holds that mind and body are different *kinds of thing*—distinct substances. The second holds that mental properties are genuinely different from physical properties, without positing separate substances. Both reject [[materialism|materialism's]] claim that everything is ultimately physical, but they disagree about the underlying metaphysical structure.
 
-This site's [[tenets#^dualism|Dualism]] tenet is compatible with either formulation. What matters philosophically is that consciousness is irreducible to physics and that mental properties are genuinely novel—not the precise ontological framework that grounds this irreducibility.
+this project's [[tenets#^dualism|Dualism]] tenet is compatible with either formulation. What matters philosophically is that consciousness is irreducible to physics and that mental properties are genuinely novel—not the precise ontological framework that grounds this irreducibility.
 
 ## Substance Dualism
 
@@ -48,7 +48,7 @@ These objections pushed many philosophers toward alternatives: parallelism, [[ep
 
 Modern substance dualists have resources unavailable to Descartes:
 
-**Quantum mechanics** provides openings where conservation laws don't rule out mental causation. At quantum indeterminacies, physics specifies probabilities but not outcomes. Consciousness could select among possibilities without injecting energy—which is exactly what the site's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes.
+**Quantum mechanics** provides openings where conservation laws don't rule out mental causation. At quantum indeterminacies, physics specifies probabilities but not outcomes. Consciousness could select among possibilities without injecting energy—which is exactly what the project's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes.
 
 **Naturalistic substance dualism** (E.J. Lowe, Dean Zimmerman) accepts that mental substances are part of the natural world, just not part of the physical world as physics describes it. This avoids the Cartesian separation between nature and mind while preserving genuine ontological distinctness.
 
@@ -68,7 +68,7 @@ Unlike substance dualism, property dualism doesn't posit a separate mental subst
 
 **[[russellian-monism|Russellian monism]]** (some classify this as property dualism) holds that physics describes only the *relational* or *dispositional* properties of matter—what things do, not what they are intrinsically. Consciousness might be (or be grounded in) the intrinsic nature of physical reality that physics doesn't capture. This makes phenomenal properties more fundamental than physical properties, while preserving a single underlying reality.
 
-However, critics like Adam Pautz argue that Russellian monism is effectively "dualism under another name." It requires brute psychophysical laws connecting quiddities (intrinsic properties) to consciousness—structurally similar to the brute laws dualism posits. Russellian monism claims to avoid dualism's interaction problem by making consciousness "part of" physical reality, but the integration remains schematic. This site's explicit dualism with its quantum interaction mechanism offers clearer theoretical content.
+However, critics like Adam Pautz argue that Russellian monism is effectively "dualism under another name." It requires brute psychophysical laws connecting quiddities (intrinsic properties) to consciousness—structurally similar to the brute laws dualism posits. Russellian monism claims to avoid dualism's interaction problem by making consciousness "part of" physical reality, but the integration remains schematic. this project's explicit dualism with its quantum interaction mechanism offers clearer theoretical content.
 
 **Emergent dualism** holds that mental properties emerge from physical complexity in ways that cannot be predicted or explained from physical theory alone. The emergence is ontological, not merely epistemic—mental properties are genuinely novel additions when complex systems arise.
 
@@ -84,7 +84,7 @@ It also preserves the intuition that consciousness is closely tied to brains. A 
 
 Both substance and property dualism share the central insight: [[materialism]] fails to account for consciousness. The knowledge argument (Mary's Room), conceivability arguments (zombies), and the intrinsic character of qualia all point toward something beyond physics. Whether you package this as separate substances or irreducible properties, you're affirming that the physical story leaves something out.
 
-Both views are compatible with [[interactionist-dualism|interactionism]]—though historically, property dualists have sometimes been attracted to epiphenomenalism (mental properties are real but causally inert). The site's framework requires causal efficacy, which either ontology can accommodate.
+Both views are compatible with [[interactionist-dualism|interactionism]]—though historically, property dualists have sometimes been attracted to epiphenomenalism (mental properties are real but causally inert). the project's framework requires causal efficacy, which either ontology can accommodate.
 
 ### Where They Differ
 
@@ -96,15 +96,15 @@ Both views are compatible with [[interactionist-dualism|interactionism]]—thoug
 
 Property dualism avoids this problem trivially. Mental properties are properties *of* brains; they're "paired" with their brains by definition—a property of X is automatically connected to X. The question of pairing doesn't arise.
 
-Substance dualists respond in three ways: (1) accepting that minds are spatially located in the brain where they causally interact (Hasker, Zimmerman); (2) invoking haecceities—primitive "thisness" that grounds pairing without spatial relations (Bailey, Rasmussen, Van Horn); or (3) denying that causation requires spatial relations at all. The site's quantum framework naturally supports the first response: consciousness is located where it interfaces with neural quantum processes.
+Substance dualists respond in three ways: (1) accepting that minds are spatially located in the brain where they causally interact (Hasker, Zimmerman); (2) invoking haecceities—primitive "thisness" that grounds pairing without spatial relations (Bailey, Rasmussen, Van Horn); or (3) denying that causation requires spatial relations at all. the project's quantum framework naturally supports the first response: consciousness is located where it interfaces with neural quantum processes.
 
 **On the combination problem**: Property dualism (especially Russellian monism) faces pressure toward [[panpsychism]]—if phenomenal properties are fundamental, they might be everywhere. But panpsychism faces the combination problem: how do micro-experiences combine into unified consciousness? Substance dualism avoids this by positing unified mental substances from the start.
 
-**On parsimony**: Property dualism seems more parsimonious—same objects, different properties, rather than entirely new objects. But as the site's [[tenets#^occam|Occam's Razor Has Limits]] tenet notes, parsimony is a treacherous guide when our concepts may be inadequate.
+**On parsimony**: Property dualism seems more parsimonious—same objects, different properties, rather than entirely new objects. But as the project's [[tenets#^occam|Occam's Razor Has Limits]] tenet notes, parsimony is a treacherous guide when our concepts may be inadequate.
 
-## Which Does This Site Hold?
+## Which Does this project Hold?
 
-The site's tenets are deliberately neutral between substance and property dualism. What the tenets require:
+the project's tenets are deliberately neutral between substance and property dualism. What the tenets require:
 
 - **Dualism**: Consciousness is not reducible to physical processes. (Either version delivers this.)
 - **Bidirectional Interaction**: Consciousness causally influences physical outcomes. (Either version permits this—though property dualism must avoid the epiphenomenalist temptation.)
@@ -112,11 +112,11 @@ The site's tenets are deliberately neutral between substance and property dualis
 
 The choice between substance and property dualism affects how we think about personal identity, survival, and the metaphysics of mind. These are important questions, but they're downstream of the central commitment: consciousness is real, irreducible, and causally efficacious.
 
-The site follows Chalmers's recent inclination toward substance dualism, partly because substance dualism avoids the combination problem and partly because property dualism tends to slide toward either panpsychism (where the combination problem bites) or epiphenomenalism (which the Bidirectional Interaction tenet rejects). But this is a philosophical preference, not a doctrinal requirement.
+the project follows Chalmers's recent inclination toward substance dualism, partly because substance dualism avoids the combination problem and partly because property dualism tends to slide toward either panpsychism (where the combination problem bites) or epiphenomenalism (which the Bidirectional Interaction tenet rejects). But this is a philosophical preference, not a doctrinal requirement.
 
-## Relation to This Site's Perspective
+## Relation to this project's Perspective
 
-The substance/property distinction matters less than it might seem for the site's core commitments:
+The substance/property distinction matters less than it might seem for the project's core commitments:
 
 **[[tenets#^dualism|Dualism]]**: Both versions satisfy this tenet. The claim is that consciousness is not reducible to physical processes—whether because it's a separate substance or an irreducible property type.
 
@@ -129,10 +129,10 @@ The substance/property distinction matters less than it might seem for the site'
 ## Further Reading
 
 - [[russellian-monism]] — A sophisticated middle position that may be dualism under another name
-- [[interactionist-dualism]] — The site's position combining dualism with causal interaction
+- [[interactionist-dualism]] — the project's position combining dualism with causal interaction
 - [[pairing-problem]] — Kim's challenge to substance dualism that property dualism avoids
 - [[materialism]] — The view both dualist positions reject
-- [[epiphenomenalism]] — Property dualism's temptation that the site refuses
+- [[epiphenomenalism]] — Property dualism's temptation that the project refuses
 - [[qualia]] — The phenomenal properties that dualism holds are irreducible
 - [[hard-problem-of-consciousness]] — The problem that motivates dualism in both forms
 

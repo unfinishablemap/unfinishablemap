@@ -25,7 +25,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Research notes on the philosophical literature on downward causation and mental causation, focusing on Kim's causal exclusion argument, responses to it, and how the site's quantum framework addresses these challenges.
+Research notes on the philosophical literature on downward causation and mental causation, focusing on Kim's causal exclusion argument, responses to it, and how the project's quantum framework addresses these challenges.
 
 ## Key Findings
 
@@ -141,19 +141,19 @@ Quantum mechanics may provide what dualists need: genuine physical incompletenes
 3. **Decoherence objection**: Quantum effects are suppressed in warm, wet brains.
    - **Response**: The question isn't whether coherence persists but which classical outcome emerges. Stapp's quantum Zeno mechanism operates through attention modulating which quantum states are observed.
 
-### Downward Causation and the Site's Framework
+### Downward Causation and the project's Framework
 
-The site's Bidirectional Interaction tenet explicitly affirms downward causation—consciousness causally influences physical outcomes.
+the project's Bidirectional Interaction tenet explicitly affirms downward causation—consciousness causally influences physical outcomes.
 
-**Key alignment with O'Connor-Wong**: Their account of emergent properties with novel causal powers closely matches the site's framework. Their "structural triggering conditions" parallel how quantum indeterminacies in neural systems provide openings for consciousness to act. The site specifies the quantum mechanism they leave abstract.
+**Key alignment with O'Connor-Wong**: Their account of emergent properties with novel causal powers closely matches the project's framework. Their "structural triggering conditions" parallel how quantum indeterminacies in neural systems provide openings for consciousness to act. the project specifies the quantum mechanism they leave abstract.
 
-**Difference from classical emergentism**: British emergentists (Broad, Alexander) affirmed downward causation but couldn't explain it. They accepted it with "natural piety"—brute facts. The site provides a mechanism: consciousness biases probabilities at quantum indeterminacies.
+**Difference from classical emergentism**: British emergentists (Broad, Alexander) affirmed downward causation but couldn't explain it. They accepted it with "natural piety"—brute facts. the project provides a mechanism: consciousness biases probabilities at quantum indeterminacies.
 
-### Kim's Dilemma and the Site's Response
+### Kim's Dilemma and the project's Response
 
 Kim presents a choice: deny mental causation (epiphenomenalism) or deny causal closure.
 
-**The site's answer**: Deny causal closure—but at the specific points where physics is genuinely incomplete. The Minimal Quantum Interaction tenet locates this opening at quantum indeterminacies.
+**the project's answer**: Deny causal closure—but at the specific points where physics is genuinely incomplete. The Minimal Quantum Interaction tenet locates this opening at quantum indeterminacies.
 
 This is neither:
 - Full causal closure (which excludes mental causation)
@@ -195,7 +195,7 @@ The article could add:
 - The problem's structure
 - Kim's exclusion argument
 - Major responses
-- How the site's framework addresses it
+- How the project's framework addresses it
 
 **Overdetermination**: Why systematic overdetermination seems problematic and when it might be acceptable.
 

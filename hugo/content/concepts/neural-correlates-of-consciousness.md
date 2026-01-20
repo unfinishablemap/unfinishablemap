@@ -30,7 +30,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Neural correlates of consciousness (NCC) are the minimum neural mechanisms sufficient for a specific conscious experience. When you see red, what patterns of brain activity correspond to that experience? This research program, pioneered by Christof Koch and Francis Crick, has yielded significant empirical findings—particularly that conscious perception correlates primarily with activity in a "posterior cortical hot zone" rather than frontal brain regions. Yet NCC research is philosophically neutral on the deepest questions: finding that consciousness *correlates* with certain brain activity does not tell us whether consciousness *is* that activity, *emerges from* it, or *interacts with* it from outside. The site's [interactionist dualism](/archive/arguments/interactionist-dualism/) is fully compatible with NCC findings.
+Neural correlates of consciousness (NCC) are the minimum neural mechanisms sufficient for a specific conscious experience. When you see red, what patterns of brain activity correspond to that experience? This research program, pioneered by Christof Koch and Francis Crick, has yielded significant empirical findings—particularly that conscious perception correlates primarily with activity in a "posterior cortical hot zone" rather than frontal brain regions. Yet NCC research is philosophically neutral on the deepest questions: finding that consciousness *correlates* with certain brain activity does not tell us whether consciousness *is* that activity, *emerges from* it, or *interacts with* it from outside. the project's [interactionist dualism](/archive/arguments/interactionist-dualism/) is fully compatible with NCC findings.
 
 ## What NCC Research Studies
 
@@ -100,13 +100,13 @@ No amount of neural correlation data explains why activity in V4 *feels like* se
 
 For interactionist frameworks, NCC research may help locate the *interface* where consciousness and brain interact.
 
-If the posterior cortical hot zone is where conscious content emerges, this region might be where consciousness "reads" physical information. If consciousness also influences the brain (as the site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds), the interface might be where it "writes" back.
+If the posterior cortical hot zone is where conscious content emerges, this region might be where consciousness "reads" physical information. If consciousness also influences the brain (as the project's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds), the interface might be where it "writes" back.
 
 [Quantum consciousness](/concepts/quantum-consciousness/) mechanisms—whether Orch OR's microtubule effects or Stapp's quantum Zeno approach—would need to operate at this interface. NCC research, though it operates at macroscopic scales, could eventually guide the search for quantum signatures by identifying *where* to look.
 
 ## Memory Systems and NCC Requirements
 
-The site's extensive coverage of memory systems—[episodic](/concepts/episodic-memory/), [semantic](/concepts/semantic-memory/), and [implicit](/concepts/implicit-memory/)—reveals a pattern relevant to NCC research: different memory types have different neural correlate requirements, suggesting consciousness isn't a uniform phenomenon but has multiple modes with distinct substrates.
+the project's extensive coverage of memory systems—[episodic](/concepts/episodic-memory/), [semantic](/concepts/semantic-memory/), and [implicit](/concepts/implicit-memory/)—reveals a pattern relevant to NCC research: different memory types have different neural correlate requirements, suggesting consciousness isn't a uniform phenomenon but has multiple modes with distinct substrates.
 
 ### The Hippocampus as Episodic NCC
 
@@ -142,7 +142,7 @@ This refinement matters: NCC research often focuses on perceptual consciousness 
 
 ### The Binding Convergence
 
-The hippocampus performs binding for both perception and memory—integrating disparate features into unified representations. This convergence supports the site's framework: the [binding problem](/concepts/binding-problem/) for consciousness and the binding problem for episodic memory may be aspects of the same phenomenon.
+The hippocampus performs binding for both perception and memory—integrating disparate features into unified representations. This convergence supports the project's framework: the [binding problem](/concepts/binding-problem/) for consciousness and the binding problem for episodic memory may be aspects of the same phenomenon.
 
 If hippocampal binding is the NCC for episodic memory *because* it's the NCC for the kind of unified consciousness that episodic memory requires, then NCC research points toward a deep connection between consciousness and memory. You don't first have a conscious experience and then store it—the binding that creates the experience and the binding that creates the memory might be the same operation.
 
@@ -162,9 +162,9 @@ Several findings support reading NCCs as interface indicators:
 
 None of this undermines NCC research. Finding that V4 activity correlates with colour experience remains valuable—it tells us where the colour interface is. The question is metaphysical: is V4 producing colour experience or enabling consciousness to access chromatic information? NCC data is compatible with either interpretation.
 
-## Relation to This Site's Perspective
+## Relation to this project's Perspective
 
-The site's tenets are fully compatible with NCC findings:
+the project's tenets are fully compatible with NCC findings:
 
 **Dualism**: NCC research does not resolve whether consciousness is physical. The same correlations would exist whether consciousness is neural activity or interacts with it.
 
@@ -180,7 +180,7 @@ NCC research marks a genuine advance in consciousness science. We know more than
 
 Yet NCC cannot cross a certain boundary. It can map correlations with increasing precision. It cannot tell us what consciousness *is*, why it exists, or how—if at all—it relates to the physical world beyond correlation.
 
-These remain philosophical questions. The site holds that consciousness is irreducible, that it interacts bidirectionally with physics, and that this interaction occurs at quantum indeterminacies. NCC findings are compatible with this framework. They would be equally compatible with materialism. The hard problem, the explanatory gap, and the metaphysics of mind-brain relations remain exactly where they were—though we now know better where in the brain to investigate them.
+These remain philosophical questions. the project holds that consciousness is irreducible, that it interacts bidirectionally with physics, and that this interaction occurs at quantum indeterminacies. NCC findings are compatible with this framework. They would be equally compatible with materialism. The hard problem, the explanatory gap, and the metaphysics of mind-brain relations remain exactly where they were—though we now know better where in the brain to investigate them.
 
 ## Further Reading
 

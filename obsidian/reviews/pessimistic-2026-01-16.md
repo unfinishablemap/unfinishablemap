@@ -42,7 +42,7 @@ The new argument pages are well-structured and present compelling cases against 
 *On arguments/many-worlds.md*: "The indexical problem you raise—'why am I this branch rather than another?'—commits the same error as vitalism asking 'why am I this organism?' The question presupposes a pre-existing 'I' that gets assigned to a branch. But the 'I' just *is* what exists in that branch. There's no mystery here, only philosophical confusion."
 
 ### The Quantum Skeptic (Max Tegmark)
-*On arguments/many-worlds.md*: "Your argument 5 says consciousness 'is not addressed' by many-worlds. But this is equally true of collapse interpretations! Copenhagen doesn't explain consciousness either. You're holding MWI to a higher standard than its competitors. The site's alternative—consciousness causes collapse—is *worse* on this count because it requires a specific physical mechanism no one has found. At least MWI doesn't posit new physics."
+*On arguments/many-worlds.md*: "Your argument 5 says consciousness 'is not addressed' by many-worlds. But this is equally true of collapse interpretations! Copenhagen doesn't explain consciousness either. You're holding MWI to a higher standard than its competitors. the project's alternative—consciousness causes collapse—is *worse* on this count because it requires a specific physical mechanism no one has found. At least MWI doesn't posit new physics."
 
 *On concepts/pairing-problem.md*: "The 'quantum framework provides a natural response' claim is wishful thinking. What specific quantum structures implement this mind-body pairing? Microtubules? If so, show me the calculations. The 'consciousness is located where it causally interfaces' response just relocates the mystery—you've replaced 'what pairs minds with bodies?' with 'what makes these particular quantum processes consciousness-involving?'"
 
@@ -68,14 +68,14 @@ The new argument pages are well-structured and present compelling cases against 
 - **Location**: "Objections and Responses" section, response to "Zombies Aren't Really Conceivable"
 - **Problem**: The response claims we have "direct epistemic access" to what we're conceiving and that zombie scenarios contain "no contradiction." But this doesn't address the strongest version of the objection: that conceivability intuitions are unreliable precisely *about* consciousness. Dennett and others argue we can't coherently imagine zombies; we only think we can because we don't fully grasp the physical facts.
 - **Severity**: Medium
-- **Recommendation**: Engage more substantively with the "zombies aren't conceivable" position. Acknowledge that if consciousness just *is* functional organization (which physicalists claim), then zombies would be as inconceivable as "water that isn't H₂O." The site's response should explain why the cases differ—perhaps that with consciousness we have first-person access that we lacked with water.
+- **Recommendation**: Engage more substantively with the "zombies aren't conceivable" position. Acknowledge that if consciousness just *is* functional organization (which physicalists claim), then zombies would be as inconceivable as "water that isn't H₂O." the project's response should explain why the cases differ—perhaps that with consciousness we have first-person access that we lacked with water.
 
 ### Issue 2: Born Rule Derivations Not Substantively Addressed
 - **File**: `arguments/many-worlds.md`
 - **Location**: "The Probability Problem" section
 - **Problem**: The article mentions decision-theoretic derivations but dismisses them as "ingenious but controversial" without explaining what the controversy is. Wallace's book-length treatment has convinced many philosophers of physics. Simply noting that "critics argue they smuggle in assumptions" without specifying which assumptions is weak engagement.
 - **Severity**: Medium
-- **Recommendation**: Either substantively engage with the decision-theoretic approach (explain what it claims, what its key assumptions are, and why the site finds those assumptions problematic) or acknowledge this is an open technical debate where reasonable people disagree. The current treatment is too dismissive.
+- **Recommendation**: Either substantively engage with the decision-theoretic approach (explain what it claims, what its key assumptions are, and why the project finds those assumptions problematic) or acknowledge this is an open technical debate where reasonable people disagree. The current treatment is too dismissive.
 
 ### Issue 3: Property Dualism's Pairing "Triviality" Claim Too Quick
 - **File**: `concepts/pairing-problem.md`
@@ -96,7 +96,7 @@ The new argument pages are well-structured and present compelling cases against 
 ### Decision-Theoretic Probability in Many-Worlds
 - **Current content says**: Derivations "smuggle in assumptions equivalent to what they're trying to prove"
 - **A critic would argue**: Show me which assumption is problematic. Wallace derives caring about branches from self-locating uncertainty plus standard rationality. You can't just gesture at "controversy."
-- **Suggested response**: Engage specifically with the "self-locating uncertainty" premise. The site might argue: this premise presupposes there's something it's like to be uncertain about your branch-location—presupposing experience where MWI claims to explain it. But this needs spelling out.
+- **Suggested response**: Engage specifically with the "self-locating uncertainty" premise. the project might argue: this premise presupposes there's something it's like to be uncertain about your branch-location—presupposing experience where MWI claims to explain it. But this needs spelling out.
 
 ### Introspective Reliability in Functionalism Critique
 - **Current content says**: We "positively grasp" zombie scenarios through "direct epistemic access"
@@ -126,16 +126,16 @@ The new argument pages are well-structured and present compelling cases against 
 
 ## Strengths (Brief)
 
-Despite criticisms, the new argument pages significantly strengthen the site:
+Despite criticisms, the new argument pages significantly strengthen the project:
 
 1. **Formal argument structure**: Each page presents numbered premises and conclusions, making the logic explicit and criticizable. This is philosophically rigorous.
 
 2. **Objections sections**: Each page anticipates and responds to obvious counterarguments. This shows engagement rather than one-sided advocacy.
 
-3. **Tenet integration**: Each page explicitly connects to the site's commitments, showing how the arguments support the framework rather than floating free.
+3. **Tenet integration**: Each page explicitly connects to the project's commitments, showing how the arguments support the framework rather than floating free.
 
 4. **Academic sourcing**: Key positions are attributed to named philosophers with citations. This grounds the discussion in the literature.
 
 5. **Interconnection**: The pages cross-reference each other and related concept pages, building a coherent web of argument.
 
-The pages would be stronger with more substantive engagement with the best technical responses (especially decision theory for MWI), but they represent solid philosophical work that advances the site's mission.
+The pages would be stronger with more substantive engagement with the best technical responses (especially decision theory for MWI), but they represent solid philosophical work that advances the project's mission.

@@ -30,7 +30,7 @@ last_curated: null
 
 ## Executive Summary
 
-Intentionality—the "aboutness" or directedness of mental states toward objects—was identified by Brentano as the defining mark of the mental. The relationship between intentionality and phenomenal consciousness remains deeply contested. Phenomenal Intentionality Theory (PIT) argues consciousness grounds intentionality; naturalists attempt to reduce intentionality to causal or teleological relations. Searle's Chinese Room argument suggests syntax alone cannot produce semantics—genuine intentionality requires consciousness. Recent debates about LLMs revive these questions: do language models have genuine aboutness or merely derived intentionality borrowed from their training data? The tension between attempts to naturalize intentionality and arguments that intentionality is irreducible directly parallels the site's core commitment to dualism.
+Intentionality—the "aboutness" or directedness of mental states toward objects—was identified by Brentano as the defining mark of the mental. The relationship between intentionality and phenomenal consciousness remains deeply contested. Phenomenal Intentionality Theory (PIT) argues consciousness grounds intentionality; naturalists attempt to reduce intentionality to causal or teleological relations. Searle's Chinese Room argument suggests syntax alone cannot produce semantics—genuine intentionality requires consciousness. Recent debates about LLMs revive these questions: do language models have genuine aboutness or merely derived intentionality borrowed from their training data? The tension between attempts to naturalize intentionality and arguments that intentionality is irreducible directly parallels the project's core commitment to dualism.
 
 ## Key Sources
 
@@ -117,7 +117,7 @@ Intentionality—the "aboutness" or directedness of mental states toward objects
   - Information-carrying states exhibit intentionality
   - Biological function determines representational content
   - Natural selection grounds semantic normativity
-- **Relation to site tenets**: **Conflicts with Dualism**—attempts to reduce intentionality to physical relations. However, the failure of these attempts supports the site's position.
+- **Relation to site tenets**: **Conflicts with Dualism**—attempts to reduce intentionality to physical relations. However, the failure of these attempts supports the project's position.
 
 ### Searle's Biological Naturalism
 - **Proponents**: John Searle
@@ -186,10 +186,10 @@ PIT goes further: if intentionality derives from phenomenal consciousness, and p
 If thoughts have genuine intentionality—if they're truly *about* things—then consciousness can meaningfully engage with the world. The Chinese Room argument suggests that systems without intentionality (computers running programs) cannot genuinely understand or engage with content. If consciousness provides original intentionality, and intentionality is required for genuine engagement, then consciousness is not epiphenomenal—it does real cognitive work.
 
 ### Minimal Quantum Interaction
-No direct connection, but: if intentionality requires consciousness, and consciousness operates at quantum indeterminacies (as the site proposes), then intentional states may be where quantum selection happens. The "about what" of a thought may influence which quantum outcome actualizes.
+No direct connection, but: if intentionality requires consciousness, and consciousness operates at quantum indeterminacies (as the project proposes), then intentional states may be where quantum selection happens. The "about what" of a thought may influence which quantum outcome actualizes.
 
 ### No Many Worlds
-Original intentionality presupposes a unified subject who intends. In many-worlds, every quantum branch contains a "copy" that intends differently. This fragments intentionality—no single subject bears the intentional relation. The site's rejection of many-worlds preserves the unity required for genuine aboutness.
+Original intentionality presupposes a unified subject who intends. In many-worlds, every quantum branch contains a "copy" that intends differently. This fragments intentionality—no single subject bears the intentional relation. the project's rejection of many-worlds preserves the unity required for genuine aboutness.
 
 ### Occam's Razor Has Limits
 The repeated failure of naturalization projects exemplifies this tenet. Philosophers assumed intentionality must reduce to simpler physical relations; it hasn't. The "simpler" causal and teleological theories fail to capture what intentionality is. This suggests our concepts of "simple" may be inadequate when dealing with mind.
@@ -198,13 +198,13 @@ The repeated failure of naturalization projects exemplifies this tenet. Philosop
 
 Based on this research, an article could:
 
-1. **"Intentionality: Why Minds Are About Things"** — Introduce Brentano's thesis, the phenomenal intentionality debate, and why the site holds consciousness is required for genuine aboutness. Key connection: if intentionality requires consciousness, and consciousness is irreducible, this doubly supports the Dualism tenet.
+1. **"Intentionality: Why Minds Are About Things"** — Introduce Brentano's thesis, the phenomenal intentionality debate, and why the project holds consciousness is required for genuine aboutness. Key connection: if intentionality requires consciousness, and consciousness is irreducible, this doubly supports the Dualism tenet.
 
 2. **"Original vs. Derived Intentionality and AI"** — Apply the Searle distinction to LLM debates. LLMs have derived intentionality at best; their outputs mean something only because human minds invested language with meaning. Strengthens the AI consciousness discussion already on site.
 
 3. **"Why Naturalization Fails"** — Survey Dretske, Fodor, Millikan and show why none succeeds. The failure supports Occam's Razor Has Limits: the "simple" physical story leaves intentionality unexplained.
 
-**Recommended angle for first article:** Option 1—a foundational treatment of intentionality connecting it to consciousness and site tenets. This fills a gap: the site discusses AI consciousness, functionalism, qualia, but lacks dedicated treatment of intentionality as such. The article should:
+**Recommended angle for first article:** Option 1—a foundational treatment of intentionality connecting it to consciousness and site tenets. This fills a gap: the project discusses AI consciousness, functionalism, qualia, but lacks dedicated treatment of intentionality as such. The article should:
 - Define intentionality and its history (Brentano, Husserl, Searle)
 - Present the phenomenal intentionality thesis
 - Connect to the hard problem (if consciousness grounds intentionality, explaining intentionality requires solving the hard problem)

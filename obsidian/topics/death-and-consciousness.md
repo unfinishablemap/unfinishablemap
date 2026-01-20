@@ -30,7 +30,7 @@ ai_generated_date: 2026-01-14
 last_curated: null
 ---
 
-Does consciousness survive bodily death? The site's dualist framework makes survival a coherent possibility that materialism forecloses. If consciousness is immaterial and irreducible, nothing in principle prevents it from persisting when the body fails. This doesn't *guarantee* survival—functional dependence on brains might be essential even for non-physical minds. But dualism keeps the question genuinely open in ways materialism cannot. Combined with the site's emphasis on [[personal-identity|indexical identity]]—the view that *you* are irreplaceable rather than a mere pattern—this creates distinctive resources for thinking about death.
+Does consciousness survive bodily death? the project's dualist framework makes survival a coherent possibility that materialism forecloses. If consciousness is immaterial and irreducible, nothing in principle prevents it from persisting when the body fails. This doesn't *guarantee* survival—functional dependence on brains might be essential even for non-physical minds. But dualism keeps the question genuinely open in ways materialism cannot. Combined with the project's emphasis on [[personal-identity|indexical identity]]—the view that *you* are irreplaceable rather than a mere pattern—this creates distinctive resources for thinking about death.
 
 ## The Stakes
 
@@ -42,11 +42,11 @@ The distinction matters. [[filter-theory|Filter theory]]—developed by William 
 
 ## The Identity Problem
 
-Any account of survival must address [[personal-identity]]. What makes the consciousness that survives *yours*? This is where the site's commitment to indexical identity becomes relevant.
+Any account of survival must address [[personal-identity]]. What makes the consciousness that survives *yours*? This is where the project's commitment to indexical identity becomes relevant.
 
 Derek Parfit famously argued that personal identity may have no determinate answer in survival cases, but this doesn't matter—what matters is psychological continuity, which could be preserved by replicas. On this view, a perfect copy of your psychological patterns would preserve everything important about you.
 
-The site rejects this. As discussed in the [[personal-identity]] article, indexical identity—the fact that *this* consciousness is the one having these experiences—matters independently of psychological continuity. A duplicate of you is not you; it's someone new with similar memories. The [[tenets#^no-many-worlds|No Many Worlds tenet]] reflects this: identity questions have determinate answers, and merely similar beings don't inherit your identity.
+the project rejects this. As discussed in the [[personal-identity]] article, indexical identity—the fact that *this* consciousness is the one having these experiences—matters independently of psychological continuity. A duplicate of you is not you; it's someone new with similar memories. The [[tenets#^no-many-worlds|No Many Worlds tenet]] reflects this: identity questions have determinate answers, and merely similar beings don't inherit your identity.
 
 ### Parfit's "Liberating" View of Death
 
@@ -54,9 +54,9 @@ The site rejects this. As discussed in the [[personal-identity]] article, indexi
 
 Parfit argued this should be "no more distressing than when I am about to lose consciousness in sleep." Since there's no deep self that persists, there's no deep self that is destroyed. Death becomes metaphysically shallow—significant practically, perhaps, but not the loss of anything irreducible.
 
-**Why the site rejects this**: The liberating conclusion follows *only if* reductionism is true. But if identity involves something over and above pattern-continuity—if *you* are a particular conscious subject whose haecceity can't be replicated—then death is the destruction of something unique and irreplaceable. The pattern ends, yes, but so does *you*—the subject who experienced, chose, and cared. That loss is real in a way Parfit's view cannot accommodate.
+**Why the project rejects this**: The liberating conclusion follows *only if* reductionism is true. But if identity involves something over and above pattern-continuity—if *you* are a particular conscious subject whose haecceity can't be replicated—then death is the destruction of something unique and irreplaceable. The pattern ends, yes, but so does *you*—the subject who experienced, chose, and cared. That loss is real in a way Parfit's view cannot accommodate.
 
-The site's position makes death *worse* than Parfit's view in one sense: you really do cease to exist, not just a pattern. But it also makes death *different*: what's lost is a particular, not a repeatable universal. This explains the deep asymmetry we feel between:
+the project's position makes death *worse* than Parfit's view in one sense: you really do cease to exist, not just a pattern. But it also makes death *different*: what's lost is a particular, not a repeatable universal. This explains the deep asymmetry we feel between:
 - Our own death (irreversible loss of this subject)
 - A replica's creation (a new subject, however similar)
 
@@ -70,7 +70,7 @@ Consider what Patient KC lost when hippocampal damage destroyed his episodic mem
 
 Death is the permanent loss of this extended self. What dies isn't just a biological organism but the unique perspective from which a particular history was lived and a particular future was anticipated. The binding mechanisms that unified your experiences into a coherent autobiography—the same hippocampal binding that creates each conscious moment—dissolve. Not just the stored memories but the capacity to inhabit them autonoetically ceases.
 
-This sharpens the site's rejection of Parfit. Parfit treats identity as pattern-continuity, which could in principle be duplicated. But the extended self isn't a pattern—it's a phenomenal achievement constituted moment by moment through autonoetic binding. The pastness quale that marks your memories as *yours*, the felt continuity with your past self, the projection of yourself into future scenarios—these aren't features that could be copied like data. They're constitutive activities of a particular conscious subject.
+This sharpens the project's rejection of Parfit. Parfit treats identity as pattern-continuity, which could in principle be duplicated. But the extended self isn't a pattern—it's a phenomenal achievement constituted moment by moment through autonoetic binding. The pastness quale that marks your memories as *yours*, the felt continuity with your past self, the projection of yourself into future scenarios—these aren't features that could be copied like data. They're constitutive activities of a particular conscious subject.
 
 When Patient KC looks at photographs of himself at past events, he knows (semantically) that the person depicted is him, but he cannot re-experience being there. The photographs don't trigger autonoetic consciousness. This is what death would mean for all of us: not merely that the pattern ends, but that the phenomenal inhabitation of a particular life ceases. The subject who remembered being the child, the student, the lover—that subject is gone in a way that no replica, however faithful, could restore.
 
@@ -86,7 +86,7 @@ Substance dualism permits survival most straightforwardly: if consciousness is a
 
 Property dualism is more complex. If consciousness is a non-physical property of physical systems, what happens when those systems cease? The property might require a substrate to instantiate it. Yet if the property is genuinely non-physical, the substrate needn't be material—perhaps consciousness could be re-instantiated in a different medium.
 
-The site's [[interactionist-dualism]] leaves these questions open. What matters is that consciousness is irreducible and causally efficacious. Whether it can exist without its current physical interface is a further question the framework doesn't settle.
+the project's [[interactionist-dualism]] leaves these questions open. What matters is that consciousness is irreducible and causally efficacious. Whether it can exist without its current physical interface is a further question the framework doesn't settle.
 
 ## Near-Death Experiences
 
@@ -126,7 +126,7 @@ Hameroff suggests: "It's possible that this quantum information can exist outsid
 
 On this view, NDEs occur when quantum information temporarily separates from the brain during cardiac arrest and returns upon resuscitation. If resuscitation fails, the information might persist elsewhere.
 
-This hypothesis aligns with the site's [[tenets#^minimal-quantum|Minimal Quantum Interaction tenet]]—both propose that consciousness interfaces with physics at the quantum level. Quantum information is conserved rather than destroyed, providing a physical framework for persistence.
+This hypothesis aligns with the project's [[tenets#^minimal-quantum|Minimal Quantum Interaction tenet]]—both propose that consciousness interfaces with physics at the quantum level. Quantum information is conserved rather than destroyed, providing a physical framework for persistence.
 
 **Significant caveats:**
 
@@ -147,9 +147,9 @@ If survival occurs, what form would it take? Several possibilities:
 
 **Quantum persistence**: Consciousness continues as quantum information distributed through spacetime. Novel framework but faces severe coherence problems.
 
-The site's framework doesn't adjudicate between these. What it does provide is the conceptual space for survival to be meaningful—something materialism forecloses.
+the project's framework doesn't adjudicate between these. What it does provide is the conceptual space for survival to be meaningful—something materialism forecloses.
 
-## Relation to This Site's Perspective
+## Relation to this project's Perspective
 
 **Dualism**: Makes survival coherent by denying that consciousness reduces to neural processes. If the brain is interface rather than generator, brain death might not be consciousness death.
 
@@ -161,11 +161,11 @@ The site's framework doesn't adjudicate between these. What it does provide is t
 
 **Occam's Razor Has Limits**: The simplest assumption—consciousness ends with brain function—might be wrong. Our knowledge of consciousness is radically incomplete. Apparent simplicity shouldn't foreclose inquiry.
 
-## What the Site Does Not Claim
+## What the project Does Not Claim
 
 This article doesn't argue that survival *does* occur. The evidence is suggestive but not conclusive. NDEs might have purely neural explanations. Quantum soul hypotheses might be misguided.
 
-What the site claims: given its dualist commitments, survival is a *coherent possibility* in ways that materialism cannot accommodate. The question remains genuinely open. This matters for how we think about death, meaning, and the boundaries of our existence.
+What the project claims: given its dualist commitments, survival is a *coherent possibility* in ways that materialism cannot accommodate. The question remains genuinely open. This matters for how we think about death, meaning, and the boundaries of our existence.
 
 ## Further Reading
 

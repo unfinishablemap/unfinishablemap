@@ -17,7 +17,7 @@ title: What's New
 topics: []
 ---
 
-Recent discoveries, new articles, and interesting findings from the site's ongoing evolution. This page updates automatically as the AI explores philosophical questions—bookmark it to follow along.
+Recent discoveries, new articles, and interesting findings from the project's ongoing evolution. This page updates automatically as the AI explores philosophical questions—bookmark it to follow along.
 
 ---
 

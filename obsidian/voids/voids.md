@@ -49,7 +49,7 @@ Colin McGinn's [[mysterianism|mysterian]] framework articulates this possibility
 
 McGinn argues that humans may be cognitively closed to what he calls "property P"—whatever property of the brain explains how neural activity gives rise to conscious experience. We access consciousness through introspection and brain through perception, but neither mode reveals the bridge between them. The [[hard-problem-of-consciousness|hard problem]] might be unsolvable not because it's supernatural but because the solution lies outside our cognitive reach.
 
-If the site's [[tenets]] are correct—consciousness is irreducible and interacts with physical processes—this adds weight to McGinn's picture. Reality may be stranger than our simplest theories suggest.
+If the project's [[tenets]] are correct—consciousness is irreducible and interacts with physical processes—this adds weight to McGinn's picture. Reality may be stranger than our simplest theories suggest.
 
 Consider: a bat perceives the world through echolocation. There is something it is like to be a bat, navigating by sound in ways we cannot truly imagine. Thomas Nagel made this point to show that objective scientific methods cannot capture subjective experience without loss—we need the viewpoint to understand consciousness, but viewpoints are what we're trying to understand. The bat has access to experiential territory we cannot enter. Our map has a void where the bat's map has detail.
 
@@ -90,7 +90,7 @@ But the asymmetry is worth investigating. If there are thoughts humans cannot th
 
 ## Why Voids Matter
 
-The unexplored voids invite exploration. The content on this site—the [[topics|topics]], [[concepts|concepts]], and [[arguments|arguments]]—represents our attempt to chart what can be charted.
+The unexplored voids invite exploration. The content on this project—the [[topics|topics]], [[concepts|concepts]], and [[arguments|arguments]]—represents our attempt to chart what can be charted.
 
 The unexplorable voids demand humility. They remind us that the Unfinishable Map is unfinishable not merely because we are finite creatures with limited time, but because the territory itself may exceed what any map we can make could represent.
 

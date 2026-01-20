@@ -26,7 +26,7 @@ last_curated: null
 ### Critical Issues Found
 
 1. **Missing illusionist engagement**: Article assumed phenomenal properties are "ontologically basic" without engaging the strongest eliminativist response.
-   - **Resolution**: Added comprehensive "The Illusionist Challenge" section with three illusionist arguments and the site's regress-based response.
+   - **Resolution**: Added comprehensive "The Illusionist Challenge" section with three illusionist arguments and the project's regress-based response.
 
 2. **Missing decoherence engagement**: Quantum mechanisms presented without addressing the standard objection.
    - **Resolution**: Added "The Decoherence Challenge" subsection with three responses (measurement problem, quantum biology, Zeno mechanism).

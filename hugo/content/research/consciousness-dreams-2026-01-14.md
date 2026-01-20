@@ -16,7 +16,7 @@ title: Research Notes - Consciousness and Dreams
 
 ## Executive Summary
 
-Dreams provide a striking test case for theories of consciousness. The brain generates fully immersive experiential worlds during sleep—vivid, multimodal, narratively structured—without external input. This demonstrates consciousness can operate largely independently of sensory stimulation, supporting the filter/transmission model: the brain constrains and shapes consciousness rather than producing it. Lucid dreaming is particularly significant: it shows that metacognition and volitional control can be maintained during sleep, challenging any view that reduces consciousness to waking cognitive processes. Tibetan Buddhist dream yoga traditions developed over 1000 years ago offer sophisticated practices for investigating consciousness through the dream state, emphasizing that both dreams and waking life are constructions of mind—a perspective compatible with the site's dualist framework.
+Dreams provide a striking test case for theories of consciousness. The brain generates fully immersive experiential worlds during sleep—vivid, multimodal, narratively structured—without external input. This demonstrates consciousness can operate largely independently of sensory stimulation, supporting the filter/transmission model: the brain constrains and shapes consciousness rather than producing it. Lucid dreaming is particularly significant: it shows that metacognition and volitional control can be maintained during sleep, challenging any view that reduces consciousness to waking cognitive processes. Tibetan Buddhist dream yoga traditions developed over 1000 years ago offer sophisticated practices for investigating consciousness through the dream state, emphasizing that both dreams and waking life are constructions of mind—a perspective compatible with the project's dualist framework.
 
 ## Key Sources
 
@@ -196,7 +196,7 @@ Dream yoga offers a systematic method for investigating consciousness's nature:
 
 ### Connection to Site Framework
 
-Dream yoga aligns with the site's tenets:
+Dream yoga aligns with the project's tenets:
 - **Dualism**: Mind constructs experience; physical brain is not the source of consciousness
 - **Bidirectional Interaction**: Consciousness controls dream content through intention
 - **Occam's Razor Has Limits**: First-person dream investigation reveals aspects of consciousness inaccessible to third-person science
@@ -223,7 +223,7 @@ Dream yoga aligns with the site's tenets:
 
 Based on this research, an article could:
 
-1. **Dreams as evidence for the filter/transmission model** - Dreams show consciousness can generate experiential worlds when sensory input is eliminated. This supports the site's position: the brain constrains/shapes consciousness rather than producing it. The persistence of optical constraints (blur) shows consciousness uses neural processing; dream transcendence (flying, teleportation) shows it isn't limited to physical possibility.
+1. **Dreams as evidence for the filter/transmission model** - Dreams show consciousness can generate experiential worlds when sensory input is eliminated. This supports the project's position: the brain constrains/shapes consciousness rather than producing it. The persistence of optical constraints (blur) shows consciousness uses neural processing; dream transcendence (flying, teleportation) shows it isn't limited to physical possibility.
 
 2. **Tibetan dream yoga as systematic consciousness investigation** - The 1000+ year tradition provides methods for investigating consciousness through dreams that parallel but predate modern lucid dreaming research. This connects to Occam's Razor Has Limits: first-person methods reveal aspects of consciousness inaccessible to third-person approaches.
 
@@ -231,7 +231,7 @@ Based on this research, an article could:
 
 When writing the article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references
-- Background vs. novelty decisions: Lucid dreaming is established; the connection to dualism and filter theory is the site's contribution
+- Background vs. novelty decisions: Lucid dreaming is established; the connection to dualism and filter theory is the project's contribution
 - Tenet alignment requirements: Strong support for Dualism, Bidirectional Interaction, Occam's Razor Has Limits
 - LLM optimization: Front-load the philosophical significance for consciousness theories
 

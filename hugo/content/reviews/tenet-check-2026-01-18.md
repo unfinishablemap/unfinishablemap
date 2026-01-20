@@ -19,7 +19,7 @@ title: Tenet Alignment Check - 2026-01-18
 
 ## Summary
 
-All site content aligns with the five foundational tenets. No direct contradictions or implicit conflicts were found. The site demonstrates sophisticated, internally consistent application of its commitments. Opposing views (materialism, illusionism, epiphenomenalism, MWI) are presented fairly and clearly marked as positions the site rejects, with substantive arguments against each.
+All site content aligns with the five foundational tenets. No direct contradictions or implicit conflicts were found. the project demonstrates sophisticated, internally consistent application of its commitments. Opposing views (materialism, illusionism, epiphenomenalism, MWI) are presented fairly and clearly marked as positions the project rejects, with substantive arguments against each.
 
 Three minor notes identify areas where clarification could strengthen presentation, but these are not compliance issues.
 
@@ -52,7 +52,7 @@ The framework carefully distinguishes legitimate quantum consciousness research 
 
 **Status: Fully Aligned** ✓
 
-The site consistently rejects epiphenomenalism:
+the project consistently rejects epiphenomenalism:
 - `epiphenomenalism.md` contains powerful "Self-Stultification Problem" showing epiphenomenalism undermines itself
 - `filter-theory.md` explicitly provides bidirectionality: brain-to-consciousness and consciousness-to-brain
 - `emergence.md` articulates quantum mechanism for downward causation
@@ -64,7 +64,7 @@ The site consistently rejects epiphenomenalism:
 
 **Status: Fully Aligned** ✓
 
-The site's rejection of MWI is clear:
+the project's rejection of MWI is clear:
 - `quantum-interpretations.md` explicitly lists "No Many Worlds" as foundational commitment
 - `quantum-consciousness.md` explains consciousness plays a role only if collapse is real
 - `personal-identity.md` and `meaning-of-life.md` use indexical identity (from No MWI) to ground meaning
@@ -75,7 +75,7 @@ The site's rejection of MWI is clear:
 
 **Status: Fully Aligned** ✓
 
-The site consistently challenges naive applications of parsimony:
+the project consistently challenges naive applications of parsimony:
 - `arguments-for-dualism.md` dedicates substantial space to the parsimony objection
 - `mysterianism.md` explicitly supports the tenet via McGinn's cognitive closure
 - All files invoking parsimony do so to *challenge* simplicity-based arguments, not endorse them
@@ -88,14 +88,14 @@ The site consistently challenges naive applications of parsimony:
 
 **File**: `quantum-consciousness.md`
 **Observation**: The file (470+ lines) contains significant speculation on mechanisms with varying empirical support.
-**Clarification**: The file properly notes the site "remains agnostic about mechanism" but this caveat appears late. Consider adding earlier explicit statement of mechanism agnosticism.
+**Clarification**: The file properly notes the project "remains agnostic about mechanism" but this caveat appears late. Consider adding earlier explicit statement of mechanism agnosticism.
 **Assessment**: Not a violation—pedagogically reasonable to explain proposals before caveating.
 
 ### Note 2: Mysterianism Connection
 
 **File**: `mysterianism.md`
-**Observation**: Doesn't explicitly connect to how the site moves beyond mysterianism (through quantum framework).
-**Clarification**: Could add sentence noting that while mysterians claim unsolvability, this site proposes a solution via quantum interaction.
+**Observation**: Doesn't explicitly connect to how the project moves beyond mysterianism (through quantum framework).
+**Clarification**: Could add sentence noting that while mysterians claim unsolvability, this project proposes a solution via quantum interaction.
 **Assessment**: Not a violation—the connection is implicit but could be made explicit.
 
 ### Note 3: Filter Theory and Selection
@@ -141,4 +141,4 @@ All concept files pass alignment checks. Particularly strong alignment in:
 
 ## Conclusion
 
-The site maintains excellent tenet alignment. Content is philosophically rigorous, opposing views are treated fairly, and the framework is internally consistent. The three notes identify minor presentation improvements, not compliance issues.
+the project maintains excellent tenet alignment. Content is philosophically rigorous, opposing views are treated fairly, and the framework is internally consistent. The three notes identify minor presentation improvements, not compliance issues.

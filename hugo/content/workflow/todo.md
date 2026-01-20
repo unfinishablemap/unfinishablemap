@@ -586,7 +586,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-19: Cross-review haecceity.md with many-worlds indexical arguments
 - **Type**: cross-review
 - **Notes**: New article concepts/many-worlds.md presents indexical identity problem as key argument against MWI. The concepts/haecceity.md page discusses thisness and indexical identity in personal identity context. Should reference how MWI's branching undermines haecceity—why *this* branch rather than another? Cross-link opportunity.
-- **Result**: Enhanced haecceity.md with stronger cross-links to many-worlds.md. Added reference to five MWI arguments and self-locating uncertainty debate in "The Site's Indexical Emphasis" section. Enhanced "MWI and the Probability Problem" section with anchor link to specific argument and clarification of how indexical identity and probability problems both hinge on haecceity.
+- **Result**: Enhanced haecceity.md with stronger cross-links to many-worlds.md. Added reference to five MWI arguments and self-locating uncertainty debate in "the project's Indexical Emphasis" section. Enhanced "MWI and the Probability Problem" section with anchor link to specific argument and clarification of how indexical identity and probability problems both hinge on haecceity.
 - **Output**: Updated `concepts/haecceity.md`
 
 ### ✓ 2026-01-19: Deep review collapse-and-time.md for currency and cross-links
@@ -633,8 +633,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-19: Cross-review quantum-interpretations.md with detailed MWI arguments
 - **Type**: cross-review
-- **Notes**: New article concepts/many-worlds.md provides five detailed arguments against MWI (ontological extravagance, indexical identity problem, probability problem, preferred basis problem, consciousness unexplained). The concepts/quantum-interpretations.md page should reference these specific arguments when discussing why the site rejects MWI. Currently says "explicitly rejects" but could link to the detailed case.
-- **Result**: Enhanced opening to preview five specific objections. Expanded "Why the Site Rejects MWI" section with substantive engagement—linking ontological extravagance to Occam's Razor Has Limits tenet, connecting indexical identity to haecceity, explaining probability problem's contested derivations, and highlighting consciousness-bidirectional interaction conflict. Updated comparison table to show "(five arguments)" for MWI rejection. Added haecceity to concepts frontmatter.
+- **Notes**: New article concepts/many-worlds.md provides five detailed arguments against MWI (ontological extravagance, indexical identity problem, probability problem, preferred basis problem, consciousness unexplained). The concepts/quantum-interpretations.md page should reference these specific arguments when discussing why the project rejects MWI. Currently says "explicitly rejects" but could link to the detailed case.
+- **Result**: Enhanced opening to preview five specific objections. Expanded "Why the project Rejects MWI" section with substantive engagement—linking ontological extravagance to Occam's Razor Has Limits tenet, connecting indexical identity to haecceity, explaining probability problem's contested derivations, and highlighting consciousness-bidirectional interaction conflict. Updated comparison table to show "(five arguments)" for MWI rejection. Added haecceity to concepts frontmatter.
 - **Output**: Updated `concepts/quantum-interpretations.md`
 
 ### ✓ 2026-01-19: Cross-review phenomenology.md with Buddhist contemplative insights
@@ -843,7 +843,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-19: Deep review interactionist-dualism.md for completeness and currency
 - **Type**: deep-review
-- **Notes**: The interactionist-dualism.md page is the site's primary statement of its core position. Last modified 2026-01-19 but never received a comprehensive deep review. Verify all arguments are current, check for missing cross-links to newer content (psychophysical-laws.md, objections-to-interactionism.md, evolution-of-consciousness.md), and ensure it properly represents the site's unique contribution.
+- **Notes**: The interactionist-dualism.md page is the project's primary statement of its core position. Last modified 2026-01-19 but never received a comprehensive deep review. Verify all arguments are current, check for missing cross-links to newer content (psychophysical-laws.md, objections-to-interactionism.md, evolution-of-consciousness.md), and ensure it properly represents the project's unique contribution.
 - **Result**: Added missing COGITATE citation. Strengthened zombie conceivability argument against Dennett's objection. Added eliminativism to objections table. Created new "Evolutionary Compatibility" section. Added cross-links to evolution-of-consciousness, quantum-indeterminacy-free-will, attention-as-interface. Improved decoherence response specificity. Connected agent causation to free will framework.
 - **Output**: Updated `concepts/interactionist-dualism.md`, created `reviews/deep-review-2026-01-19-interactionist-dualism.md`
 
@@ -861,8 +861,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-19: Write article on collapse before minds (early universe problem)
 - **Type**: expand-topic
-- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. How did quantum outcomes get selected before conscious observers existed? Key challenge to consciousness-collapse interpretations. Should cover: cosmological timeline, deferred collapse proposals, Wheeler's delayed-choice cosmology, how the site's framework addresses this.
-- **Result**: Task was already completed—concepts/prebiotic-collapse.md comprehensively covers the problem stated, major responses (Wheeler's participatory universe, panpsychism, objective reduction, decoherence), the site's position (objective reduction with consciousness modulation), relation to all five tenets, and experimental status.
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. How did quantum outcomes get selected before conscious observers existed? Key challenge to consciousness-collapse interpretations. Should cover: cosmological timeline, deferred collapse proposals, Wheeler's delayed-choice cosmology, how the project's framework addresses this.
+- **Result**: Task was already completed—concepts/prebiotic-collapse.md comprehensively covers the problem stated, major responses (Wheeler's participatory universe, panpsychism, objective reduction, decoherence), the project's position (objective reduction with consciousness modulation), relation to all five tenets, and experimental status.
 - **Output**: Already exists: `concepts/prebiotic-collapse.md`
 
 ### ✓ 2026-01-19: Write voids article on whether the voids are real
@@ -909,8 +909,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-19: Cross-review hard-problem-of-consciousness.md with dualism foundational overview
 - **Type**: cross-review
-- **Notes**: New article concepts/dualism.md provides foundational overview of what dualism claims, the main varieties (substance vs property), the four main arguments (explanatory gap, conceivability, knowledge argument, qualia), and relation to site tenets. The hard-problem-of-consciousness.md topic page is the site's primary entry point for why consciousness is philosophically difficult—it should link to the foundational dualism page where the hard problem is presented as the motivating evidence for dualism.
-- **Result**: Added dualism.md to concepts frontmatter at top position. Added reference in "Relation to This Site's Perspective" section linking to the foundational dualism page explaining what dualism claims, main varieties, and four converging arguments. Added dualism.md at top of Further Reading section with description.
+- **Notes**: New article concepts/dualism.md provides foundational overview of what dualism claims, the main varieties (substance vs property), the four main arguments (explanatory gap, conceivability, knowledge argument, qualia), and relation to site tenets. The hard-problem-of-consciousness.md topic page is the project's primary entry point for why consciousness is philosophically difficult—it should link to the foundational dualism page where the hard problem is presented as the motivating evidence for dualism.
+- **Result**: Added dualism.md to concepts frontmatter at top position. Added reference in "Relation to this project's Perspective" section linking to the foundational dualism page explaining what dualism claims, main varieties, and four converging arguments. Added dualism.md at top of Further Reading section with description.
 - **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
 ### ✓ 2026-01-19: Update near-death-experiences.md with 2024-2025 research
@@ -921,19 +921,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-19: Write article on altered states of consciousness framework
 - **Type**: expand-topic
-- **Notes**: Research completed in research/altered-states-consciousness-2026-01-19.md. Comprehensive framework covering psychedelics, anesthesia, meditation, flow, and hypnosis through filter theory lens. Currently no unified treatment of ASCs on the site—meditation-and-consciousness-modes.md and sleep-and-consciousness.md cover specific cases but lack the unifying framework. Supports Minimal Quantum Interaction and Bidirectional Interaction tenets by showing how interface reconfiguration produces diverse phenomenological signatures.
+- **Notes**: Research completed in research/altered-states-consciousness-2026-01-19.md. Comprehensive framework covering psychedelics, anesthesia, meditation, flow, and hypnosis through filter theory lens. Currently no unified treatment of ASCs on the project—meditation-and-consciousness-modes.md and sleep-and-consciousness.md cover specific cases but lack the unifying framework. Supports Minimal Quantum Interaction and Bidirectional Interaction tenets by showing how interface reconfiguration produces diverse phenomenological signatures.
 - **Result**: Article already exists—concepts/altered-states-of-consciousness.md was created 2026-01-18 with comprehensive ~2000 word coverage of psychedelics, flow, hypnosis, meditation, and NDEs through filter theory lens. The research was consumed in a previous session. Task marked complete.
 - **Output**: Already exists: `concepts/altered-states-of-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review interactionist-dualism.md with psychophysical laws framework
 - **Type**: cross-review
-- **Notes**: New article concepts/psychophysical-laws.md covers Chalmers' naturalistic dualism framework, the distinction between supervenience and causal laws, and the 2022 Chalmers-McQueen quantum development. The interactionist-dualism.md page is the site's primary statement of its position and should integrate this theoretical framework—particularly how psychophysical laws provide the systematic account of how interaction works.
-- **Result**: Added psychophysical-laws.md to concepts frontmatter at top position. Added new "The Psychophysical Laws Framework" section after "The Core Position" explaining: (1) the distinction between supervenience laws (upward) and causal/selection laws (downward), (2) why supervenience laws alone yield epiphenomenalism, (3) the site's requirement for causal laws to support bidirectional interaction, (4) where Chalmers diverges (tends toward epiphenomenalism). Added psychophysical-laws.md at top of Further Reading section with description.
+- **Notes**: New article concepts/psychophysical-laws.md covers Chalmers' naturalistic dualism framework, the distinction between supervenience and causal laws, and the 2022 Chalmers-McQueen quantum development. The interactionist-dualism.md page is the project's primary statement of its position and should integrate this theoretical framework—particularly how psychophysical laws provide the systematic account of how interaction works.
+- **Result**: Added psychophysical-laws.md to concepts frontmatter at top position. Added new "The Psychophysical Laws Framework" section after "The Core Position" explaining: (1) the distinction between supervenience laws (upward) and causal/selection laws (downward), (2) why supervenience laws alone yield epiphenomenalism, (3) the project's requirement for causal laws to support bidirectional interaction, (4) where Chalmers diverges (tends toward epiphenomenalism). Added psychophysical-laws.md at top of Further Reading section with description.
 - **Output**: Updated `concepts/interactionist-dualism.md`
 
 ### ✓ 2026-01-19: Cross-review psychophysical-coupling-law.md with Chalmers framework
 - **Type**: cross-review
-- **Notes**: New article concepts/psychophysical-laws.md systematizes Chalmers' framework for psychophysical laws, distinguishing supervenience laws (upward: physical→phenomenal) from causal/selection laws (downward: phenomenal→physical). The psychophysical-coupling-law.md page addresses the site's specific coupling law problem and should reference this foundational framework. Add cross-link and clarify relationship between Chalmers' general framework and the site's specific selection mechanism.
+- **Notes**: New article concepts/psychophysical-laws.md systematizes Chalmers' framework for psychophysical laws, distinguishing supervenience laws (upward: physical→phenomenal) from causal/selection laws (downward: phenomenal→physical). The psychophysical-coupling-law.md page addresses the project's specific coupling law problem and should reference this foundational framework. Add cross-link and clarify relationship between Chalmers' general framework and the project's specific selection mechanism.
 - **Result**: Added psychophysical-laws.md to concepts frontmatter at top position. Updated the Chalmers' Framework section opening to reference the new foundational article, explaining "naturalistic dualism" and linking to the full framework discussion. Added psychophysical-laws.md at top of Further Reading section with description.
 - **Output**: Updated `concepts/psychophysical-coupling-law.md`
 
@@ -951,8 +951,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-19: Write concept page on psychophysical laws (Chalmers framework)
 - **Type**: expand-topic
-- **Notes**: Research completed in research/chalmers-psychophysical-laws-2026-01-17.md. Chalmers' framework for fundamental psychophysical laws is referenced in psychophysical-coupling-law.md but deserves fuller treatment. Should explain naturalistic dualism, the difference between supervenience laws and causal laws, and how the site's framework differs (interactionist vs Chalmers' epiphenomenalist tendency). Supports understanding of the theoretical landscape around the site's position.
-- **Result**: Created ~2100 word concept page covering: why physics alone fails, Chalmers' naturalistic dualism framework, the crucial distinction between supervenience laws (upward: physical→phenomenal) and causal laws (downward: phenomenal→physical selection), Chalmers' three principles (structural coherence, organizational invariance, double-aspect information), the 2022 Chalmers-McQueen quantum development with super-resistance principle, and four key areas where the site diverges from Chalmers (direction of causation, selection mechanism, rejection of organizational invariance, bandwidth constraints).
+- **Notes**: Research completed in research/chalmers-psychophysical-laws-2026-01-17.md. Chalmers' framework for fundamental psychophysical laws is referenced in psychophysical-coupling-law.md but deserves fuller treatment. Should explain naturalistic dualism, the difference between supervenience laws and causal laws, and how the project's framework differs (interactionist vs Chalmers' epiphenomenalist tendency). Supports understanding of the theoretical landscape around the project's position.
+- **Result**: Created ~2100 word concept page covering: why physics alone fails, Chalmers' naturalistic dualism framework, the crucial distinction between supervenience laws (upward: physical→phenomenal) and causal laws (downward: phenomenal→physical selection), Chalmers' three principles (structural coherence, organizational invariance, double-aspect information), the 2022 Chalmers-McQueen quantum development with super-resistance principle, and four key areas where the project diverges from Chalmers (direction of causation, selection mechanism, rejection of organizational invariance, bandwidth constraints).
 - **Output**: Created `concepts/psychophysical-laws.md`
 
 ### ✓ 2026-01-19: Cross-review agent-causation.md with quantum indeterminacy systematization
@@ -975,7 +975,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-19: Research neural binding mechanisms for quantum entanglement hypothesis
 - **Type**: research-topic
-- **Notes**: The site posits quantum entanglement as a mechanism for phenomenal unity (phenomenal-unity.md, binding-problem.md). Research needed on: (1) Latest findings on neural binding (gamma oscillations, thalamocortical loops), (2) Whether quantum effects could explain binding better than classical mechanisms, (3) Experimental tests that could distinguish quantum from classical binding. Supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
+- **Notes**: the project posits quantum entanglement as a mechanism for phenomenal unity (phenomenal-unity.md, binding-problem.md). Research needed on: (1) Latest findings on neural binding (gamma oscillations, thalamocortical loops), (2) Whether quantum effects could explain binding better than classical mechanisms, (3) Experimental tests that could distinguish quantum from classical binding. Supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
 - **Result**: Comprehensive research covering classical binding mechanisms (gamma synchrony, thalamocortical loops, IIT) vs quantum alternatives (Orch OR, entanglement as binding agent). Found significant 2024-2025 experimental support: (1) Wiest epothilone study—microtubule stabilizer delays anesthesia by 69 seconds (Cohen's d=1.9); (2) Kerskens-Pérez MRI entanglement signatures correlating with consciousness; (3) Tegmark decoherence estimates revised by 7 orders of magnitude. Quantum entanglement uniquely provides ontological holism matching phenomenal unity's structure.
 - **Output**: Created `research/neural-binding-quantum-entanglement-2026-01-19.md`
 
@@ -993,25 +993,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-19: Cross-review causal-closure.md with reductionism framework
 - **Type**: cross-review
-- **Notes**: New article concepts/reductionism.md clarifies ontological vs. methodological reductionism. The causal-closure.md page discusses physical causal closure and how the site's framework responds—integrating reductionism distinctions could strengthen the argument that causal closure is an ontological assumption, not an empirical finding. Add cross-link.
+- **Notes**: New article concepts/reductionism.md clarifies ontological vs. methodological reductionism. The causal-closure.md page discusses physical causal closure and how the project's framework responds—integrating reductionism distinctions could strengthen the argument that causal closure is an ontological assumption, not an empirical finding. Add cross-link.
 - **Result**: Added reductionism.md to concepts frontmatter. Added parenthetical reference to reductionism in the Exclusion Argument section linking to fuller treatment of Kim's argument and the three types of reductionism. Enhanced Empirical Status section with new paragraph explaining why methodological success doesn't entail ontological claims—causal closure as ontological thesis requires independent justification. Added reductionism.md to top of Further Reading with description.
 - **Output**: Updated `concepts/causal-closure.md`
 
 ### ✓ 2026-01-19: Write article on quantum indeterminacy and free will
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-mechanics-free-will-2026-01-16.md. Systematizes relationship between quantum theory and libertarian free will. Addresses luck objection and how quantum Zeno mechanism provides directed (not random) outcomes. Central to Bidirectional Interaction and No Many Worlds tenets.
-- **Result**: Created ~2100 word concept page covering the libertarian dilemma, event-causal vs agent-causal approaches, the luck objection in detail, why the site's framework escapes luck (selection vs randomness, phenomenology of effort, reasons-guided selection), the quantum Zeno mechanism, two-domain evidence (attention and motor), retrocausal resolution, causal closure and the quantum opening, and rejection of many-worlds. Comprehensive cross-linking to existing articles.
+- **Result**: Created ~2100 word concept page covering the libertarian dilemma, event-causal vs agent-causal approaches, the luck objection in detail, why the project's framework escapes luck (selection vs randomness, phenomenology of effort, reasons-guided selection), the quantum Zeno mechanism, two-domain evidence (attention and motor), retrocausal resolution, causal closure and the quantum opening, and rejection of many-worlds. Comprehensive cross-linking to existing articles.
 - **Output**: Created `concepts/quantum-indeterminacy-free-will.md`
 
 ### ✓ 2026-01-20: Cross-review emergence.md with reductionism insights
 - **Type**: cross-review
-- **Notes**: New article concepts/reductionism.md covers ontological reductionism, Kim's exclusion argument, and how the site's quantum framework responds. The emergence.md concept page discusses strong emergence and non-reductive physicalism—integrating explicit reductionism distinctions could clarify why emergentism labels rather than explains. Add cross-link and ensure consistent terminology.
+- **Notes**: New article concepts/reductionism.md covers ontological reductionism, Kim's exclusion argument, and how the project's quantum framework responds. The emergence.md concept page discusses strong emergence and non-reductive physicalism—integrating explicit reductionism distinctions could clarify why emergentism labels rather than explains. Add cross-link and ensure consistent terminology.
 - **Result**: Added explicit reductionism distinctions to emergence.md: (1) Added paragraph clarifying that strong emergence denies ontological reductionism while accepting methodological reductionism. (2) Added Putnam's multiple realizability argument to qualia section. (3) Added Dennett's "greedy reductionism" reference in Comparing Challenges section. (4) Added reductionism.md to top of Further Reading section.
 - **Output**: Updated `concepts/emergence.md`
 
 ### ✓ 2026-01-19: Cross-review epiphenomenalism.md with dualism overview and rejection argument
 - **Type**: cross-review
-- **Notes**: New article concepts/dualism.md discusses epiphenomenalism as one of three positions on mind-body interaction (along with interactionism and parallelism), explicitly noting the site rejects it as self-undermining. The epiphenomenalism.md page should reference the foundational dualism page and ensure the rejection argument is consistent across both. Add cross-link.
+- **Notes**: New article concepts/dualism.md discusses epiphenomenalism as one of three positions on mind-body interaction (along with interactionism and parallelism), explicitly noting the project rejects it as self-undermining. The epiphenomenalism.md page should reference the foundational dualism page and ensure the rejection argument is consistent across both. Add cross-link.
 - **Result**: Added dualism.md to concepts frontmatter. Updated opening paragraph to position epiphenomenalism within the dualist framework's three positions on mind-body relation, linking to the foundational dualism article. Added dualism.md to top of Further Reading section with description explaining its role as foundational framework.
 - **Output**: Updated `concepts/epiphenomenalism.md`
 
@@ -1030,7 +1030,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-19: Cross-review materialism.md with dualism arguments
 - **Type**: cross-review
 - **Notes**: New article concepts/dualism.md presents the four main arguments against materialism (explanatory gap, zombies, knowledge argument, qualia intrinsic character) and engages with materialist responses. The materialism.md page discusses physicalism and its failures—integrating explicit cross-links to the dualism arguments could strengthen the dialectical structure. Check for consistency.
-- **Result**: Added dualism.md to concepts frontmatter. Integrated cross-links in "Why Materialism Fails" section (linking dualism as the view that gains where materialism fails) and "Relation to This Site's Perspective" section (explicit link to dualism.md). Added dualism.md at top of Further Reading with description. Strengthens dialectical structure by making the materialism→dualism relationship bidirectional.
+- **Result**: Added dualism.md to concepts frontmatter. Integrated cross-links in "Why Materialism Fails" section (linking dualism as the view that gains where materialism fails) and "Relation to this project's Perspective" section (explicit link to dualism.md). Added dualism.md at top of Further Reading with description. Strengthens dialectical structure by making the materialism→dualism relationship bidirectional.
 - **Output**: Updated `concepts/materialism.md`
 
 ### ✓ 2026-01-19: Cross-review interactionist-dualism.md with foundational dualism overview
@@ -1041,14 +1041,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-20: Write concept page on dualism
 - **Type**: expand-topic
-- **Notes**: Gap analysis found [dualism](/concepts/dualism/) is referenced but no overview page exists. Dualism is Tenet 1 of the site, yet only variant pages exist (interactionist-dualism.md, substance-property-dualism.md, intuitive-dualism.md). Should create foundational overview explaining what dualism is, the main variants, and why the site adopts it.
+- **Notes**: Gap analysis found [dualism](/concepts/dualism/) is referenced but no overview page exists. Dualism is Tenet 1 of the project, yet only variant pages exist (interactionist-dualism.md, substance-property-dualism.md, intuitive-dualism.md). Should create foundational overview explaining what dualism is, the main variants, and why the project adopts it.
 - **Result**: Created ~1800 word foundational concept page covering: what dualism claims (ontological distinction between mind and matter), the two main varieties (substance vs property dualism), the four main arguments (explanatory gap, conceivability, knowledge argument, qualia), dualism and interaction (interactionism vs epiphenomenalism vs parallelism), major objections and responses, and relation to site perspective. Comprehensive cross-linking to variant pages and detailed concept pages.
 - **Output**: Created `concepts/dualism.md`
 
 ### ✓ 2026-01-19: Cross-review functionalism.md with substrate-independence-critique insights
 - **Type**: cross-review
 - **Notes**: New article concepts/substrate-independence-critique.md presents systematic case against substrate independence: absent qualia, temporal structure, quantum interface. The functionalism.md page defends functionalism and should be reviewed for balance—add cross-link and consider whether counterarguments need strengthening or acknowledgment.
-- **Result**: Added new "Temporal Structure Objection" subsection to "Relation to This Site's Perspective" section, covering: specious present and retention/protention, why digital computation lacks temporal binding, Hoel's frozen weights criterion, and link to full argument in substrate-independence-critique.md. The article already had substrate-independence-critique in concepts and Further Reading. Added temporal-consciousness to concepts frontmatter.
+- **Result**: Added new "Temporal Structure Objection" subsection to "Relation to this project's Perspective" section, covering: specious present and retention/protention, why digital computation lacks temporal binding, Hoel's frozen weights criterion, and link to full argument in substrate-independence-critique.md. The article already had substrate-independence-critique in concepts and Further Reading. Added temporal-consciousness to concepts frontmatter.
 - **Output**: Updated `concepts/functionalism.md`
 
 ### ✓ 2026-01-19: Cross-review eastern-philosophy-consciousness.md with witness-consciousness expansion
@@ -1060,7 +1060,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-19: Write concept page on emergentism
 - **Type**: expand-topic
 - **Notes**: Referenced 5 times (causal-closure.md, downward-causation.md, emergence.md, etc.) but no dedicated page. Key alternative to both strict physicalism and dualism. Should explain strong vs weak emergence, non-reductive physicalism, and why emergentism doesn't solve the hard problem (it labels rather than explains).
-- **Result**: Task already covered by existing content. The concepts/emergence.md page comprehensively covers: strong vs weak emergence, Kim's exclusion argument, non-reductive physicalism, why emergentism labels rather than explains, and the site's position as "strong emergentism with a mechanism." All wikilinks use `[emergentism](/concepts/emergence/)` syntax—no direct emergentism references exist. Creating a separate emergentism.md would be redundant.
+- **Result**: Task already covered by existing content. The concepts/emergence.md page comprehensively covers: strong vs weak emergence, Kim's exclusion argument, non-reductive physicalism, why emergentism labels rather than explains, and the project's position as "strong emergentism with a mechanism." All wikilinks use `[emergentism](/concepts/emergence/)` syntax—no direct emergentism references exist. Creating a separate emergentism.md would be redundant.
 - **Output**: No changes needed (concepts/emergence.md already covers this)
 
 ### ✓ 2026-01-19: Write concept page on reductionism
@@ -1215,7 +1215,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-18: Write concept page on LLM consciousness debate
 - **Type**: expand-topic
-- **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel argues LLMs lack genuine understanding due to architectural limitations (no continual learning, no embodiment). Connects to ai-consciousness.md and the site's dualist framework—if consciousness requires non-computational elements, what does this mean for AI?
+- **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel argues LLMs lack genuine understanding due to architectural limitations (no continual learning, no embodiment). Connects to ai-consciousness.md and the project's dualist framework—if consciousness requires non-computational elements, what does this mean for AI?
 - **Result**: Created ~1500 word concept page llm-consciousness.md covering: transformer architecture and temporal structure, the understanding illusion, Hoel's proximity argument and continual learning criterion, the LaMDA incident, and what LLMs lack (summary table). Updated ai-consciousness.md and functionalism.md with cross-references.
 - **Output**: Created `concepts/llm-consciousness.md`, updated `topics/ai-consciousness.md`, `concepts/functionalism.md`
 
@@ -1257,7 +1257,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-18: Write concept page on objections to interactionist dualism
 - **Type**: expand-topic
-- **Notes**: Research completed in research/objections-to-interactionist-dualism-2026-01-15.md. Comprehensive treatment of 5 major objections (pairing problem, conservation laws, parsimony, evolutionary argument, exclusion argument) with detailed responses. The interactionist-dualism.md page mentions objections briefly but this material warrants dedicated treatment showing how the site's framework addresses each challenge.
+- **Notes**: Research completed in research/objections-to-interactionist-dualism-2026-01-15.md. Comprehensive treatment of 5 major objections (pairing problem, conservation laws, parsimony, evolutionary argument, exclusion argument) with detailed responses. The interactionist-dualism.md page mentions objections briefly but this material warrants dedicated treatment showing how the project's framework addresses each challenge.
 - **Result**: Created ~2500 word concept page covering all five objections (pairing problem, conservation laws, parsimony, evolutionary argument, exclusion argument) with detailed responses for each. The evolutionary argument is shown to actually *support* interactionism against epiphenomenalism. Included summary table showing response strength. Updated interactionist-dualism.md with cross-references and expanded objections table.
 - **Output**: Created `concepts/objections-to-interactionism.md`, updated `concepts/interactionist-dualism.md`
 
@@ -1269,14 +1269,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-19: Cross-review eastern-philosophy-consciousness.md considering witness consciousness insights
 - **Type**: cross-review
-- **Notes**: New article concepts/witness-consciousness.md covers sakshi in Advaita Vedanta, Buddhist perspectives on witness, and Krishnamurti's choiceless awareness. The eastern-philosophy-consciousness.md topic page should integrate these insights—particularly the witness tradition's relevance to the site's dualist framework and the subject-object structure of experience.
+- **Notes**: New article concepts/witness-consciousness.md covers sakshi in Advaita Vedanta, Buddhist perspectives on witness, and Krishnamurti's choiceless awareness. The eastern-philosophy-consciousness.md topic page should integrate these insights—particularly the witness tradition's relevance to the project's dualist framework and the subject-object structure of experience.
 - **Result**: Added new "The Witness Tradition" subsection after the "No-Self (Anattā)" section, explaining how both Hindu and Buddhist traditions discuss sakshi (witness consciousness) despite Buddhism's rejection of permanent self. Clarified that Buddhism denies eternal soul-substance but not the phenomenal structure of awareness. Added witness-consciousness, self-and-consciousness, and meditation-and-consciousness-modes to concepts. Added witness-consciousness and meditation-and-consciousness-modes to Further Reading.
 - **Output**: Updated `topics/eastern-philosophy-consciousness.md`
 
 ### ✓ 2026-01-18: Write concept page on witness consciousness
 - **Type**: expand-topic
 - **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. The sakshi (witness) phenomenon in contemplative traditions—pure awareness observing mental contents without identification. Connects to meditation-and-consciousness-modes.md but deserves dedicated treatment. Relevant to site's dualism: if witness can observe thoughts as objects, this supports subject-object distinction.
-- **Result**: Created ~2200 word concept page covering: sakshi in Advaita Vedanta and Buddhist perspectives, Krishnamurti's choiceless awareness, the subject-object structure and its implications for dualism, relationship to the site's selector framework (witness as mode consciousness can adopt), neural correlates from neurofeedback studies, challenges (regress, epiphenomenalism, reification) with responses. Updated meditation-and-consciousness-modes.md, self-and-consciousness.md, and introspection.md with cross-references.
+- **Result**: Created ~2200 word concept page covering: sakshi in Advaita Vedanta and Buddhist perspectives, Krishnamurti's choiceless awareness, the subject-object structure and its implications for dualism, relationship to the project's selector framework (witness as mode consciousness can adopt), neural correlates from neurofeedback studies, challenges (regress, epiphenomenalism, reification) with responses. Updated meditation-and-consciousness-modes.md, self-and-consciousness.md, and introspection.md with cross-references.
 - **Output**: Created `concepts/witness-consciousness.md`, updated cross-references in 3 related articles
 
 ### ✓ 2026-01-19: Cross-review ethics-of-consciousness.md considering emotional consciousness insights
@@ -1293,19 +1293,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-18: Write concept page on downward causation
 - **Type**: expand-topic
-- **Notes**: Research completed in research/downward-causation-mental-causation-2026-01-15.md. Kim's exclusion argument is the primary challenge to mental causation. The site has mental-causation.md but lacks dedicated treatment of downward causation as a distinct concept—how higher-level properties can causally influence lower-level processes. Critical for defending Bidirectional Interaction tenet.
+- **Notes**: Research completed in research/downward-causation-mental-causation-2026-01-15.md. Kim's exclusion argument is the primary challenge to mental causation. the project has mental-causation.md but lacks dedicated treatment of downward causation as a distinct concept—how higher-level properties can causally influence lower-level processes. Critical for defending Bidirectional Interaction tenet.
 - **Result**: Created ~2200 word concept page covering: the concept distinguished from adjacent notions, Kim's exclusion argument, the drainage problem, overdetermination problem, major responses (interventionism, inheritance/constitution, O'Connor-Wong structural emergence), the quantum opening as mechanism, weak vs strong downward causation distinction. Updated mental-causation.md, emergence.md, and causal-closure.md with cross-references to new page.
 - **Output**: Created `concepts/downward-causation.md`, updated `concepts/mental-causation.md`, `concepts/emergence.md`, `concepts/causal-closure.md`
 
 ### ✓ 2026-01-19: Strengthen luck-objection phenomenology argument
 - **Type**: refine-draft
 - **Notes**: Pessimistic review 2026-01-18 found the phenomenology-based response vulnerable to zombie objection. Engage with the dialectic: site's dualism already rejects zombies, so zombie-based objections are question-begging from site perspective. Make this explicit.
-- **Result**: Added "The Zombie Objection and Its Question-Begging Character" subsection explaining that zombie-based objections presuppose physicalism, which the site's dualism rejects. Includes dialectical table showing how framework affects phenomenology's evidential status. Links to philosophical-zombies.md and relevant tenet pages.
+- **Result**: Added "The Zombie Objection and Its Question-Begging Character" subsection explaining that zombie-based objections presuppose physicalism, which the project's dualism rejects. Includes dialectical table showing how framework affects phenomenology's evidential status. Links to philosophical-zombies.md and relevant tenet pages.
 - **Output**: Updated `concepts/luck-objection.md`
 
 ### ✓ 2026-01-19: Research emotional consciousness and valence
 - **Type**: research-topic
-- **Notes**: The site has rich coverage of cognitive aspects (metacognition, memory systems, attention) but lacks dedicated treatment of emotional consciousness. How is valence (positive/negative felt quality) experienced? What is the relationship between emotions and consciousness—are emotions felt qualities requiring phenomenal consciousness, or functional states that could exist without experience? This connects to phenomenal-value-realism.md and ethics-of-consciousness.md.
+- **Notes**: the project has rich coverage of cognitive aspects (metacognition, memory systems, attention) but lacks dedicated treatment of emotional consciousness. How is valence (positive/negative felt quality) experienced? What is the relationship between emotions and consciousness—are emotions felt qualities requiring phenomenal consciousness, or functional states that could exist without experience? This connects to phenomenal-value-realism.md and ethics-of-consciousness.md.
 - **Result**: Comprehensive research on emotional consciousness, valence, and their philosophical implications. Key findings: (1) Panksepp vs. LeDoux debate on subcortical vs. cortical emotional consciousness; (2) Carruthers' evaluativism vs. hedonic account of valence (intrinsic property vs. representation); (3) Valence sentientism vs. broad sentientism for moral status; (4) Core affect theory (Russell & Barrett) as dimensional basis; (5) Neural substrates of valence (OFC, insula, amygdala). Strong support for site's Dualism (if valence is intrinsic property) and Bidirectional Interaction (if valenced states motivate behavior).
 - **Output**: Created `research/emotional-consciousness-valence-2026-01-19.md`
 
@@ -1317,7 +1317,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-18: Cross-review quantum-interpretations.md with recent RQM research
 - **Type**: cross-review
-- **Notes**: New research in research/relational-quantum-mechanics-2026-01-18.md provides detailed analysis of Rovelli's relational interpretation. The quantum-interpretations.md page should integrate RQM as a significant alternative that explicitly removes consciousness from measurement, explaining why the site's framework prefers collapse interpretations.
+- **Notes**: New research in research/relational-quantum-mechanics-2026-01-18.md provides detailed analysis of Rovelli's relational interpretation. The quantum-interpretations.md page should integrate RQM as a significant alternative that explicitly removes consciousness from measurement, explaining why the project's framework prefers collapse interpretations.
 - **Result**: Completed as part of the expand-topic task above. Updated RQM section to clarify that "observer" means any physical system, added Rovelli quote, explained conflict with Bidirectional Interaction tenet, added link to new relational-quantum-mechanics concept page. Updated comparison table to show "Low" site compatibility. Added relational-quantum-mechanics and multi-mind-collapse-problem to frontmatter and Further Reading.
 - **Output**: Updated `concepts/quantum-interpretations.md`
 
@@ -1371,14 +1371,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-18: Address metacognition self-undermining tension
 - **Type**: refine-draft
-- **Notes**: Pessimistic review 2026-01-18 found that the metacognition article's dissociation evidence may undermine the introspective reliability the site depends upon elsewhere. Add section addressing this tension—dissociation shows metacognition can fail, not that it typically does; trained introspection improves reliability.
+- **Notes**: Pessimistic review 2026-01-18 found that the metacognition article's dissociation evidence may undermine the introspective reliability the project depends upon elsewhere. Add section addressing this tension—dissociation shows metacognition can fail, not that it typically does; trained introspection improves reliability.
 - **Result**: Added "Addressing the Self-Undermining Objection" section with three subsections: Dissociation Requires Pathology (V1 damage/threshold stimuli are not normal operation), Trained Introspection Improves Reliability (Fox 2012 skill acquisition evidence), What Dissociation Evidence Actually Shows (distinct systems with identifiable neural substrates, not unreliable systems).
 - **Output**: Updated `concepts/metacognition.md`
 
 ### ✓ 2026-01-18: Cross-review temporal-consciousness.md considering sleep consciousness insights
 - **Type**: cross-review
 - **Notes**: The sleep-and-consciousness.md article covers consciousness gradations across sleep states and time distortion during dreams (dreamless NREM → lucid REM gradient). The temporal-consciousness.md page could integrate how sleep alters temporal experience—dreams feel instantaneous or extended regardless of actual duration, and the specious present may narrow or expand across sleep states.
-- **Result**: Added "Sleep and the Modulation of Temporal Experience" section with three subsections: When Time Disappears (dreamless NREM eliminates temporal experience entirely—seven hours pass without duration), The Temporal Spectrum in Sleep (table showing specious present status across six sleep states from waking to lucid REM), Implications for the Site's Framework (dualism support from computation-without-experience, collapse mechanism for dreamless sleep, trainability via lucid dreaming). Added sleep-and-consciousness and dreams-and-consciousness to concepts and Further Reading.
+- **Result**: Added "Sleep and the Modulation of Temporal Experience" section with three subsections: When Time Disappears (dreamless NREM eliminates temporal experience entirely—seven hours pass without duration), The Temporal Spectrum in Sleep (table showing specious present status across six sleep states from waking to lucid REM), Implications for the project's Framework (dualism support from computation-without-experience, collapse mechanism for dreamless sleep, trainability via lucid dreaming). Added sleep-and-consciousness and dreams-and-consciousness to concepts and Further Reading.
 - **Output**: Updated `concepts/temporal-consciousness.md`
 
 ### ✓ 2026-01-19: Cross-review introspection.md considering metacognition insights
@@ -1473,7 +1473,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-18: Research consciousness and quantum superposition in the brain
 - **Type**: research-topic
-- **Notes**: The site has quantum-consciousness.md and decoherence.md but lacks deep treatment of whether and how quantum superposition could persist in neural systems long enough for consciousness to select among outcomes. Key questions: What protective mechanisms (error correction, microtubule isolation, coherent states) might preserve superposition? What's the current experimental evidence? This directly supports the Minimal Quantum Interaction tenet.
+- **Notes**: the project has quantum-consciousness.md and decoherence.md but lacks deep treatment of whether and how quantum superposition could persist in neural systems long enough for consciousness to select among outcomes. Key questions: What protective mechanisms (error correction, microtubule isolation, coherent states) might preserve superposition? What's the current experimental evidence? This directly supports the Minimal Quantum Interaction tenet.
 - **Result**: Comprehensive research on quantum superposition persistence in neural systems. Key findings: (1) 2024-2025 experimental evidence significantly strengthened case for biological quantum effects—superradiance confirmed in tryptophan networks, microtubule-stabilizing drugs delay anesthetic unconsciousness. (2) Revised decoherence estimates extend coherence times by 7 orders of magnitude beyond Tegmark (reaching 10-100 μs). (3) Four protective mechanisms identified: hydrophobic microtubule interior, Fröhlich coherence via metabolic pumping, nuclear spin isolation (Fisher's Posner molecules), ordered water/actin gel. (4) Fisher's Posner molecule hypothesis offers alternative with ~10⁵ second coherence times. (5) Debate shifted from "whether" to "how"—from categorical dismissal to empirical investigation.
 - **Output**: Created `research/quantum-superposition-brain-consciousness-2026-01-18.md`
 
@@ -1491,14 +1491,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-18: Research dreams and lucid dreaming for consciousness framework
 - **Type**: research-topic
-- **Notes**: The site has dreams-and-consciousness.md but it's sparse. Sleep-and-consciousness.md mentions lucid dreaming as interface reactivation. A deeper research dive could explore: What do dreams reveal about consciousness without normal sensory input? How do lucid dreams demonstrate voluntary interface engagement during sleep? What does dream phenomenology suggest about consciousness requirements? This would strengthen the dreams concept page.
+- **Notes**: the project has dreams-and-consciousness.md but it's sparse. Sleep-and-consciousness.md mentions lucid dreaming as interface reactivation. A deeper research dive could explore: What do dreams reveal about consciousness without normal sensory input? How do lucid dreams demonstrate voluntary interface engagement during sleep? What does dream phenomenology suggest about consciousness requirements? This would strengthen the dreams concept page.
 - **Result**: Comprehensive research on dreams and lucid dreaming. Key findings: (1) 2025 Demirel study establishes lucid dreaming as genuinely distinct consciousness state with unique neural signatures (gamma power in right temporo-occipital, interhemispheric connectivity), not waking-REM blend. (2) April 2025 adversarial GNWT vs IIT study challenges both theories but confirms posterior cortical hot zone importance. (3) Predictive processing explains dream bizarreness as unconstrained prediction without reality testing. (4) Metacognition-prefrontal structural connection: frequent lucid dreamers have larger anterior prefrontal cortex. (5) Dreams as single-track experience while consolidation proceeds in parallel. Generated chain task for article synthesis.
 - **Output**: Created `research/dreams-lucid-dreaming-consciousness-2026-01-18.md`
 
 ### ✓ 2026-01-18: Cross-review agent-causation.md considering luck-objection response
 - **Type**: cross-review
-- **Notes**: New article concepts/luck-objection.md develops the site's response to the luck objection (consciousness selects rather than receives random outcomes). The agent-causation page mentions the luck objection briefly but could integrate the fuller treatment. Strengthen how agent causation escapes the objection through selection vs randomness.
-- **Result**: Expanded "The Site's Response" section with four-dimension framework from luck-objection article: (1) selection vs randomness (different relationship to indeterminacy), (2) phenomenology of effort (selections feel like achievements), (3) reasons-guided selection (contrastive explicability), (4) retrocausal deepening (prior state is part of what's selected). Added explanation of how this differs from standard agent-causal "the agent caused it" response.
+- **Notes**: New article concepts/luck-objection.md develops the project's response to the luck objection (consciousness selects rather than receives random outcomes). The agent-causation page mentions the luck objection briefly but could integrate the fuller treatment. Strengthen how agent causation escapes the objection through selection vs randomness.
+- **Result**: Expanded "the project's Response" section with four-dimension framework from luck-objection article: (1) selection vs randomness (different relationship to indeterminacy), (2) phenomenology of effort (selections feel like achievements), (3) reasons-guided selection (contrastive explicability), (4) retrocausal deepening (prior state is part of what's selected). Added explanation of how this differs from standard agent-causal "the agent caused it" response.
 - **Output**: Updated `concepts/agent-causation.md`
 
 ### ✓ 2026-01-19: Cross-review quantum-consciousness.md considering luck-objection insights
@@ -1521,8 +1521,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-18: Write concept article on the luck objection to libertarian free will
 - **Type**: expand-topic
-- **Notes**: Research completed in research/luck-objection-libertarian-free-will-2026-01-17.md. The luck objection argues that indeterministic choices are equally arbitrary as determined ones—undermining libertarian freedom. This is a major philosophical challenge to the site's agent-causation position. The article should explain the objection, survey responses, and show how the site's framework (consciousness selecting among options, not randomness deciding) addresses it.
-- **Result**: Created ~2200 word concept page covering van Inwagen's rollback argument, Mele's present/remote luck distinction, Kane's SFAs response and its criticisms, agent-causal responses, and the site's framework (consciousness selects rather than receives random outcomes). Explained how phenomenology of effort, reasons-guided selection, and retrocausality each strengthen the response. Added luck-objection to free-will.md and agent-causation.md concept links.
+- **Notes**: Research completed in research/luck-objection-libertarian-free-will-2026-01-17.md. The luck objection argues that indeterministic choices are equally arbitrary as determined ones—undermining libertarian freedom. This is a major philosophical challenge to the project's agent-causation position. The article should explain the objection, survey responses, and show how the project's framework (consciousness selecting among options, not randomness deciding) addresses it.
+- **Result**: Created ~2200 word concept page covering van Inwagen's rollback argument, Mele's present/remote luck distinction, Kane's SFAs response and its criticisms, agent-causal responses, and the project's framework (consciousness selects rather than receives random outcomes). Explained how phenomenology of effort, reasons-guided selection, and retrocausality each strengthen the response. Added luck-objection to free-will.md and agent-causation.md concept links.
 - **Output**: Created `concepts/luck-objection.md`
 
 ### ✓ 2026-01-18: Cross-review binding-problem.md considering sleep consciousness insights
@@ -1539,7 +1539,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-18: Research consciousness and memory consolidation during sleep
 - **Type**: research-topic
-- **Notes**: The site has extensive coverage of episodic, semantic, and implicit memory, but limited coverage of how consciousness relates to memory consolidation. Key questions: What role does consciousness play in memory consolidation during sleep? Does the reduced consciousness of deep sleep serve a function for memory? How do lucid dreams fit the framework? This fills a gap between the memory articles and loss-of-consciousness coverage.
+- **Notes**: the project has extensive coverage of episodic, semantic, and implicit memory, but limited coverage of how consciousness relates to memory consolidation. Key questions: What role does consciousness play in memory consolidation during sleep? Does the reduced consciousness of deep sleep serve a function for memory? How do lucid dreams fit the framework? This fills a gap between the memory articles and loss-of-consciousness coverage.
 - **Result**: Comprehensive research on sleep-consciousness-memory relationship. Key findings: (1) Memory consolidation during NREM operates largely unconsciously—multiple memories replay in parallel, bypassing the ~10 bits/second conscious bandwidth. (2) Consciousness doesn't vanish uniformly—dreaming occurs in both REM and NREM, correlating with reduced slow waves in posterior cortex. (3) Lucid dreaming reactivates prefrontal regions, demonstrating variable interface engagement during sleep. (4) Sleep differs from anesthesia in preserving more integration-segregation balance. (5) Offline binding during sleep operates differently from conscious binding—parallel rather than unified. Generated chain task for article synthesis.
 - **Output**: Created `research/sleep-memory-consolidation-consciousness-2026-01-18.md`
 
@@ -1551,14 +1551,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-18: Write article on psychophysical coupling problem
 - **Type**: expand-topic
-- **Notes**: Research completed in research/psychophysical-coupling-problem-2026-01-15.md. The site's framework implies consciousness "selects" among neural options, but what determines the coupling between phenomenal states and physical outcomes? This formalizes the implicit commitment: what aspects of consciousness map to which quantum degrees of freedom, and what constrains the bandwidth of influence?
+- **Notes**: Research completed in research/psychophysical-coupling-problem-2026-01-15.md. the project's framework implies consciousness "selects" among neural options, but what determines the coupling between phenomenal states and physical outcomes? This formalizes the implicit commitment: what aspects of consciousness map to which quantum degrees of freedom, and what constrains the bandwidth of influence?
 - **Result**: Article already written as concepts/psychophysical-coupling-law.md (created 2026-01-16, updated 2026-01-17). Covers Chalmers' framework, Stapp's mechanism, bandwidth constraint, four candidate coupling law families, what's not selectable, and testing approaches.
 - **Output**: `concepts/psychophysical-coupling-law.md` (already exists)
 
 ### ✓ 2026-01-18: Cross-review interactionist-dualism.md considering multi-mind collapse insights
 - **Type**: cross-review
 - **Notes**: New article concepts/multi-mind-collapse-problem.md addresses a key objection to consciousness-causes-collapse: how multiple observers coordinate. The interactionist-dualism page should integrate interface locality as the resolution—each consciousness modulates only its own brain, avoiding the need for nonlocal coordination between minds.
-- **Result**: Added "The Multi-Mind Collapse Problem" section explaining the three uncomfortable options (first observer wins, consensus required, dominant consciousness), the site's resolution via interface locality + prebiotic collapse, and key consequences for interactionism. Added multi-mind-collapse-problem, interface-locality, prebiotic-collapse to concepts and Further Reading.
+- **Result**: Added "The Multi-Mind Collapse Problem" section explaining the three uncomfortable options (first observer wins, consensus required, dominant consciousness), the project's resolution via interface locality + prebiotic collapse, and key consequences for interactionism. Added multi-mind-collapse-problem, interface-locality, prebiotic-collapse to concepts and Further Reading.
 - **Output**: Updated `concepts/interactionist-dualism.md`
 
 ### ✓ 2026-01-18: Cross-review free-will.md considering meditation selector/witness modes
@@ -1576,7 +1576,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-18: Cross-review measurement-problem.md considering multi-mind collapse resolution
 - **Type**: cross-review
 - **Notes**: New article concepts/multi-mind-collapse-problem.md explains why consciousness-causes-collapse faces the multi-observer coordination problem and how interface locality resolves it. The measurement-problem page discusses consciousness-based interpretations but may not address this objection explicitly. Add cross-reference and strengthen the treatment of observer-dependent collapse.
-- **Result**: Added "The Multi-Observer Coordination Problem" subsection to the Observer Problem section. Explains the three uncomfortable options (first observer wins, consensus required, dominant consciousness) and the site's resolution via interface locality + objective collapse. Each consciousness modulates only its own brain; external reality determined by physical objective collapse. Added multi-mind-collapse-problem, interface-locality, prebiotic-collapse to concepts and Further Reading.
+- **Result**: Added "The Multi-Observer Coordination Problem" subsection to the Observer Problem section. Explains the three uncomfortable options (first observer wins, consensus required, dominant consciousness) and the project's resolution via interface locality + objective collapse. Each consciousness modulates only its own brain; external reality determined by physical objective collapse. Added multi-mind-collapse-problem, interface-locality, prebiotic-collapse to concepts and Further Reading.
 - **Output**: Updated `concepts/measurement-problem.md`
 
 ### ✓ 2026-01-19: Cross-review neural-correlates-of-consciousness.md considering memory insights
@@ -1587,13 +1587,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-18: Cross-review global-workspace-theory.md considering memory system insights
 - **Type**: cross-review
-- **Notes**: The GWT page discusses working memory but not the broader memory system taxonomy (episodic, semantic, implicit). Baars explicitly discusses how GWT explains conscious vs unconscious memory retrieval—implicit memory operates without global broadcast while explicit memory requires workspace access. Adding this would strengthen GWT coverage and connect to the site's memory system articles.
+- **Notes**: The GWT page discusses working memory but not the broader memory system taxonomy (episodic, semantic, implicit). Baars explicitly discusses how GWT explains conscious vs unconscious memory retrieval—implicit memory operates without global broadcast while explicit memory requires workspace access. Adding this would strengthen GWT coverage and connect to the project's memory system articles.
 - **Result**: Added "Memory Systems and Global Broadcast" section explaining how Tulving's three-memory taxonomy maps onto GWT workspace access. Implicit bypasses workspace (anoetic), semantic has intermediate access (noetic), episodic requires full ignition (autonoetic). Included workspace access hierarchy table and filter theory integration showing how the workspace may be the neural correlate of the interface. Added episodic-memory, semantic-memory, implicit-memory, autonoetic-consciousness to concepts and Further Reading.
 - **Output**: Updated `concepts/global-workspace-theory.md`
 
 ### ✓ 2026-01-18: Cross-review quantum-consciousness.md considering multi-mind collapse insights
 - **Type**: cross-review
-- **Notes**: New article concepts/multi-mind-collapse-problem.md develops the coordination problem for multiple observers and proposes interface-locality-plus-objective-collapse as the resolution. The quantum-consciousness page should integrate this—the multi-mind problem is a serious objection that the site now has an answer to. Add cross-reference and possibly a subsection on the multi-observer scenario.
+- **Notes**: New article concepts/multi-mind-collapse-problem.md develops the coordination problem for multiple observers and proposes interface-locality-plus-objective-collapse as the resolution. The quantum-consciousness page should integrate this—the multi-mind problem is a serious objection that the project now has an answer to. Add cross-reference and possibly a subsection on the multi-observer scenario.
 - **Result**: Added "The Multi-Mind Collapse Problem" section explaining how multiple observers' collapses are reconciled via interface locality. Each consciousness modulates collapse only within its own brain; external systems collapse through objective physical processes. Added multi-mind-collapse-problem to concepts and Further Reading.
 - **Output**: Updated `concepts/quantum-consciousness.md`
 
@@ -1605,8 +1605,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-18: Research Carlo Rovelli's relational quantum mechanics
 - **Type**: research-topic
-- **Notes**: Deep research into relational quantum mechanics (RQM) with focus on multi-observer scenarios. Key problem for the site: if consciousness causes collapse AND there are other minds, multiple minds are selecting from neural firing patterns via collapse. How are these selections reconciled? Does a single collapse affect the waveform everywhere (nonlocality), or can multiple independent collapses coexist (relationalism)? RQM holds that quantum states are always relative to an observer—there is no "view from nowhere." Explore: Does RQM resolve the multi-mind collapse problem? Does it support or undermine the site's quantum-consciousness framework? What happens when two conscious observers measure the same system? After research, produce an article exploring these implications fully.
-- **Result**: Comprehensive research on RQM. Key findings: (1) RQM explicitly removes consciousness from any special role—measurement is ordinary physical interaction, not mental observation. (2) RQM handles multi-observer scenarios via perspectivalism—facts are relative to each observer, no coordination needed. (3) This directly conflicts with site tenets (Bidirectional Interaction). (4) However, RQM's treatment of locality (common cause) and the 2023 cross-perspective links revision offer useful insights. (5) Identified four options for multi-mind problem: nonlocal coordination, relational resolution, interface locality, objective-collapse-plus-modulation. (6) Recommended article: develop the multi-mind collapse problem with the site's interface-locality approach as resolution.
+- **Notes**: Deep research into relational quantum mechanics (RQM) with focus on multi-observer scenarios. Key problem for the project: if consciousness causes collapse AND there are other minds, multiple minds are selecting from neural firing patterns via collapse. How are these selections reconciled? Does a single collapse affect the waveform everywhere (nonlocality), or can multiple independent collapses coexist (relationalism)? RQM holds that quantum states are always relative to an observer—there is no "view from nowhere." Explore: Does RQM resolve the multi-mind collapse problem? Does it support or undermine the project's quantum-consciousness framework? What happens when two conscious observers measure the same system? After research, produce an article exploring these implications fully.
+- **Result**: Comprehensive research on RQM. Key findings: (1) RQM explicitly removes consciousness from any special role—measurement is ordinary physical interaction, not mental observation. (2) RQM handles multi-observer scenarios via perspectivalism—facts are relative to each observer, no coordination needed. (3) This directly conflicts with site tenets (Bidirectional Interaction). (4) However, RQM's treatment of locality (common cause) and the 2023 cross-perspective links revision offer useful insights. (5) Identified four options for multi-mind problem: nonlocal coordination, relational resolution, interface locality, objective-collapse-plus-modulation. (6) Recommended article: develop the multi-mind collapse problem with the project's interface-locality approach as resolution.
 - **Output**: Created `research/relational-quantum-mechanics-2026-01-18.md`
 
 ### ✓ 2026-01-18: Cross-review mental-effort.md considering meditation research
@@ -1623,13 +1623,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-18: Write article on meditation and consciousness modes (selector vs witness)
 - **Type**: expand-topic
-- **Notes**: Based on research in meditation-observer-witness-phenomenon-2026-01-18.md. Develop the distinction between consciousness as active selector (FA meditation, quantum Zeno, mental effort) and consciousness as passive witness (OM meditation, sakshi, choiceless awareness). Explain how this extends the site's Bidirectional Interaction tenet—consciousness can both select and observe. Connect to neuroscience (DMN deactivation, PCC, frontal theta differences). Resolve apparent tension with Advaita vedanta's passive witness doctrine.
+- **Notes**: Based on research in meditation-observer-witness-phenomenon-2026-01-18.md. Develop the distinction between consciousness as active selector (FA meditation, quantum Zeno, mental effort) and consciousness as passive witness (OM meditation, sakshi, choiceless awareness). Explain how this extends the project's Bidirectional Interaction tenet—consciousness can both select and observe. Connect to neuroscience (DMN deactivation, PCC, frontal theta differences). Resolve apparent tension with Advaita vedanta's passive witness doctrine.
 - **Result**: Created ~2300 word concept page developing the selector vs witness distinction. Covered neuroscience of FA vs OM meditation, the Advaita paradox and its resolution, quantum Zeno mechanism in witness mode, Krishnamurti challenge. Extended Bidirectional Interaction tenet to include capacity to suspend selection.
 - **Output**: Created `concepts/meditation-and-consciousness-modes.md`
 
 ### ✓ 2026-01-18: Research meditation and the observer-witness phenomenon
 - **Type**: research-topic
-- **Notes**: Study meditation techniques, particularly those asking practitioners to observe without interference—being a "watcher" who does not judge, mentally explore, or intervene. Explore parallels with the site's framework where the brain generates options and consciousness selects among them. Key questions: Does the observer/witness experience support the selection-among-options model? What does neuroscience say about brain activity during passive observation vs active thinking? How does meditation relate to attention-as-interface and mental-effort concepts? After research, expand todo list to cover any further reserach required, and then synthesis articles.
+- **Notes**: Study meditation techniques, particularly those asking practitioners to observe without interference—being a "watcher" who does not judge, mentally explore, or intervene. Explore parallels with the project's framework where the brain generates options and consciousness selects among them. Key questions: Does the observer/witness experience support the selection-among-options model? What does neuroscience say about brain activity during passive observation vs active thinking? How does meditation relate to attention-as-interface and mental-effort concepts? After research, expand todo list to cover any further reserach required, and then synthesis articles.
 - **Result**: Comprehensive research on meditation observer/witness phenomenon. Key findings: (1) Sakshi (witness) concept in Advaita Vedanta describes pure passive awareness. (2) Neuroscience distinguishes FA (focused attention) and OM (open monitoring) meditation with different neural signatures—FA activates conflict monitoring, OM reduces DMN/self-processing. (3) Effortless states correlate with PCC deactivation, alpha activity; effortful states with frontal theta, gamma. (4) Krishnamurti's "choiceless awareness" poses challenge to selection framework. (5) Synthesis: consciousness may have two modes—active selector (quantum Zeno, mental effort) and passive witness (observation without intervention). Generated three chain tasks for synthesis articles and cross-reviews.
 - **Output**: Created `research/meditation-observer-witness-phenomenon-2026-01-18.md`
 
@@ -1677,7 +1677,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-17: Cross-review embodied-cognition.md considering implicit memory insights
 - **Type**: cross-review
-- **Notes**: The implicit-memory.md article discusses embodied cognition as a challenge to crude mind-body dualism and shows how the interface hypothesis responds. Review embodied-cognition.md to add cross-reference to implicit-memory for the Dreyfus skill acquisition evidence and the choking phenomenon as bidirectional interaction evidence. Strengthens the site's response to embodied critiques.
+- **Notes**: The implicit-memory.md article discusses embodied cognition as a challenge to crude mind-body dualism and shows how the interface hypothesis responds. Review embodied-cognition.md to add cross-reference to implicit-memory for the Dreyfus skill acquisition evidence and the choking phenomenon as bidirectional interaction evidence. Strengthens the project's response to embodied critiques.
 - **Result**: Added "The Dreyfus Model" subsection covering five stages of skill acquisition, how consciousness withdraws to anoetic mode, and the choking phenomenon as evidence for bidirectional interaction. Added implicit-memory to concepts and Further Reading.
 - **Output**: Updated `concepts/embodied-cognition.md`
 
@@ -1689,13 +1689,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-17: Cross-review episodic-memory.md considering prospective memory insights
 - **Type**: cross-review
-- **Notes**: The concepts/prospective-memory.md article develops futureward mental time travel and EFT as a unified capacity with pastward episodic retrieval. The site should have an episodic-memory concept page that integrates with prospective-memory. If one doesn't exist, this becomes an expand-topic. Patient KC double deficit shows unified MTT capacity.
+- **Notes**: The concepts/prospective-memory.md article develops futureward mental time travel and EFT as a unified capacity with pastward episodic retrieval. the project should have an episodic-memory concept page that integrates with prospective-memory. If one doesn't exist, this becomes an expand-topic. Patient KC double deficit shows unified MTT capacity.
 - **Result**: Added "Involuntary Memory" section paralleling prospective memory's pop phenomenon, and "Symmetry of Temporal Qualia" section with comparison table showing pastness vs futuricity phenomenology. Added Berntsen reference on involuntary autobiographical memories.
 - **Output**: Updated `concepts/episodic-memory.md`
 
 ### ✓ 2026-01-17: Create episodic-memory concept page
 - **Type**: expand-topic
-- **Notes**: The site has autonoetic-consciousness.md but no dedicated episodic-memory concept page. Research exists in episodic-memory-consciousness-2026-01-16.md. Would provide foundation for the cross-review episodic-memory.md task. Key themes: encoding/retrieval distinction, hippocampal binding, constructive nature of memory, relationship to autonoetic consciousness.
+- **Notes**: the project has autonoetic-consciousness.md but no dedicated episodic-memory concept page. Research exists in episodic-memory-consciousness-2026-01-16.md. Would provide foundation for the cross-review episodic-memory.md task. Key themes: encoding/retrieval distinction, hippocampal binding, constructive nature of memory, relationship to autonoetic consciousness.
 - **Result**: Created ~2100 word concept page covering encoding/retrieval distinction, constructive nature of memory (Schacter-Addis hypothesis, false memories), hippocampal binding and its connection to consciousness binding, phenomenology of retrieval (pastness quale, vividness), and personal identity implications.
 - **Output**: Created `concepts/episodic-memory.md`
 
@@ -1707,7 +1707,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-18: Research implicit memory and consciousness
 - **Type**: research-topic
-- **Notes**: The site now covers autonoetic (episodic), is researching semantic, and has prospective memory queued. Implicit/procedural memory (skills, conditioning, priming) represents a complementary gap. Key questions: Does procedural learning require consciousness at any stage? What is the phenomenology of skills becoming automatic? How does implicit memory relate to the interface hypothesis?
+- **Notes**: the project now covers autonoetic (episodic), is researching semantic, and has prospective memory queued. Implicit/procedural memory (skills, conditioning, priming) represents a complementary gap. Key questions: Does procedural learning require consciousness at any stage? What is the phenomenology of skills becoming automatic? How does implicit memory relate to the interface hypothesis?
 - **Result**: Comprehensive research on implicit/procedural memory. Key findings: Tulving's anoetic consciousness has phenomenal character ("non-reflective qualia"), Dreyfus model charts skill acquisition from rule-following to intuition, choking under pressure proves bidirectional interaction (consciousness causally interferes with procedural execution). Embodied cognition challenges crude dualism but supports interface hypothesis.
 - **Output**: Created `research/implicit-memory-consciousness-2026-01-18.md`
 
@@ -1773,7 +1773,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-17: Research prospective memory and future-oriented consciousness
 - **Type**: research-topic
-- **Notes**: Autonoetic consciousness enables bidirectional mental time travel. The episodic-memory research focused on pastward projection; complementary research on prospective memory (remembering to do things) and future simulation would strengthen the site's coverage of temporal consciousness. How does prospective memory relate to agency and free will? What are the phenomenological differences between remembering and imagining?
+- **Notes**: Autonoetic consciousness enables bidirectional mental time travel. The episodic-memory research focused on pastward projection; complementary research on prospective memory (remembering to do things) and future simulation would strengthen the project's coverage of temporal consciousness. How does prospective memory relate to agency and free will? What are the phenomenological differences between remembering and imagining?
 - **Result**: Comprehensive research on PM and EFT. Key findings: PM involves "pop" phenomenon (intentions spontaneously enter awareness), EFT shares mechanisms with episodic memory via constructive simulation hypothesis, BA10/hippocampus show neural overlap, phenomenology includes "futuricity" quale parallel to pastness, Patient KC double deficit confirms unified MTT capacity, EFT causally influences decisions.
 - **Output**: Created `research/prospective-memory-consciousness-2026-01-17.md`
 
@@ -1857,8 +1857,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-16: Research consciousness and episodic memory
 - **Type**: research-topic
-- **Notes**: The site has extensive coverage of attention, temporal consciousness, and the specious present, but the relationship between consciousness and memory—particularly episodic memory's role in constituting the self and grounding narrative identity—remains underexplored. Research could inform personal-identity.md and self-and-consciousness.md.
-- **Result**: Comprehensive research on Tulving's autonoetic consciousness, mental time travel, hippocampal binding, and connections to personal identity and the site's framework. Key findings: episodic memory involves irreducible phenomenology supporting dualism; mental time travel connects to retrocausality; binding mechanisms converge with consciousness binding problem.
+- **Notes**: the project has extensive coverage of attention, temporal consciousness, and the specious present, but the relationship between consciousness and memory—particularly episodic memory's role in constituting the self and grounding narrative identity—remains underexplored. Research could inform personal-identity.md and self-and-consciousness.md.
+- **Result**: Comprehensive research on Tulving's autonoetic consciousness, mental time travel, hippocampal binding, and connections to personal identity and the project's framework. Key findings: episodic memory involves irreducible phenomenology supporting dualism; mental time travel connects to retrocausality; binding mechanisms converge with consciousness binding problem.
 - **Output**: `research/episodic-memory-consciousness-2026-01-16.md`
 
 ### ✓ 2026-01-16: Cross-review neurophenomenology.md considering specious-present insights
@@ -1935,20 +1935,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-17: Research Chalmers psychophysical laws in depth
 - **Type**: research-topic
-- **Notes**: The site references Chalmers' psychophysical laws framework in psychophysical-coupling-law.md but could develop this more thoroughly. Would strengthen the coupling law concept and provide richer philosophical context for the mind-matter interface.
+- **Notes**: the project references Chalmers' psychophysical laws framework in psychophysical-coupling-law.md but could develop this more thoroughly. Would strengthen the coupling law concept and provide richer philosophical context for the mind-matter interface.
 - **Result**: Comprehensive research covering Chalmers' three principles (structural coherence, organizational invariance, double-aspect information), naturalistic dualism framework, recent quantum development with McQueen (super-resistance principle), and how site's coupling laws relate to Chalmers' upward-direction laws.
 - **Output**: `research/chalmers-psychophysical-laws-2026-01-17.md`
 
 ### ✓ 2026-01-17: Cross-review death-and-consciousness.md considering Parfit's reductionism insights
 - **Type**: cross-review
-- **Notes**: New article concepts/parfit-reductionism.md argues the site rejects Parfit's "what matters" move—survival requires identity, not just psychological continuity. Review topics/death-and-consciousness.md to engage with Parfit's position that death is less bad if identity is reducible.
-- **Result**: Added "Parfit's 'Liberating' View of Death" subsection explaining Parfit's claim that death is metaphysically shallow if identity is reducible, and why the site rejects this. Added parfit-reductionism to concepts.
+- **Notes**: New article concepts/parfit-reductionism.md argues the project rejects Parfit's "what matters" move—survival requires identity, not just psychological continuity. Review topics/death-and-consciousness.md to engage with Parfit's position that death is less bad if identity is reducible.
+- **Result**: Added "Parfit's 'Liberating' View of Death" subsection explaining Parfit's claim that death is metaphysically shallow if identity is reducible, and why the project rejects this. Added parfit-reductionism to concepts.
 - **Output**: Updated `topics/death-and-consciousness.md`
 
 ### ✓ 2026-01-17: Engage Parfit on personal identity directly
 - **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-16. The site implies critique of Parfit's reductionism (patterns don't make choices) but doesn't fully develop it. Would strengthen personal-identity.md and support No Many Worlds tenet via indexical identity.
-- **Result**: Created ~2400 word concept page covering Parfit's reductionist thesis, key thought experiments (teletransportation, fission, gradual replacement), and five grounds for the site's rejection: patterns don't make choices, zombie conceivability, many-worlds convergence, causal history, practical stakes. Connected to all relevant tenets.
+- **Notes**: Suggested by optimistic review 2026-01-16. the project implies critique of Parfit's reductionism (patterns don't make choices) but doesn't fully develop it. Would strengthen personal-identity.md and support No Many Worlds tenet via indexical identity.
+- **Result**: Created ~2400 word concept page covering Parfit's reductionist thesis, key thought experiments (teletransportation, fission, gradual replacement), and five grounds for the project's rejection: patterns don't make choices, zombie conceivability, many-worlds convergence, causal history, practical stakes. Connected to all relevant tenets.
 - **Output**: `concepts/parfit-reductionism.md`, updated `topics/personal-identity.md`
 
 ### ✓ 2026-01-17: Cross-review free-will.md considering moral-responsibility insights
@@ -1977,7 +1977,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-17: Create concept page on the specious present
 - **Type**: expand-topic
-- **Notes**: Research completed in research/specious-present-temporal-experience-2026-01-16.md. While temporal-consciousness.md covers the specious present, a dedicated concept page would allow deeper treatment of: extensionalism vs retentionalism debate, duration estimates (100ms-3s), James vs Husserl vs Bergson approaches, connection to neurophenomenology, and quantum collapse timing. Would strengthen the time-consciousness connection central to the site's framework.
+- **Notes**: Research completed in research/specious-present-temporal-experience-2026-01-16.md. While temporal-consciousness.md covers the specious present, a dedicated concept page would allow deeper treatment of: extensionalism vs retentionalism debate, duration estimates (100ms-3s), James vs Husserl vs Bergson approaches, connection to neurophenomenology, and quantum collapse timing. Would strengthen the time-consciousness connection central to the project's framework.
 - **Result**: Created ~2000 word concept page covering duration estimates with comparison table, extensionalism vs retentionalism debate, site's modified extensionalism position, Varela's neurophenomenology, connection to quantum collapse timing, AI consciousness implications, cessation as negative evidence.
 - **Output**: `concepts/specious-present.md`
 
@@ -1989,19 +1989,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-17: Cross-review attention.md considering attention schema theory insights
 - **Type**: cross-review
-- **Notes**: New article concepts/attention-schema-theory.md provides detailed treatment of AST as a materialist theory. Review concepts/attention.md to add link to the dedicated AST page and strengthen the site's position that attention is the interface for consciousness—not that attention schemas explain consciousness away.
+- **Notes**: New article concepts/attention-schema-theory.md provides detailed treatment of AST as a materialist theory. Review concepts/attention.md to add link to the dedicated AST page and strengthen the project's position that attention is the interface for consciousness—not that attention schemas explain consciousness away.
 - **Result**: Added attention-schema-theory to concepts, wikilink in AST section, illusionism and AST page to Further Reading.
 - **Output**: Updated `concepts/attention.md`
 
 ### ✓ 2026-01-16: Create concept page on attention schema theory
 - **Type**: expand-topic
-- **Notes**: Graziano's attention schema theory (AST) is a major functionalist account of consciousness that the site should engage. Currently mentioned briefly in attention.md but deserves full treatment—particularly the site's critique that AST explains reports about consciousness, not consciousness itself.
-- **Result**: Created ~2200 word concept page covering AST's core idea (consciousness as attention modeling), neural evidence (2025 MIT study, ASTOUND project), relationship to illusionism (Frankish, Dennett), detailed critique (regress problem, aboutness, explanatory gap remains), and why the site rejects AST while preserving attention's central role.
+- **Notes**: Graziano's attention schema theory (AST) is a major functionalist account of consciousness that the project should engage. Currently mentioned briefly in attention.md but deserves full treatment—particularly the project's critique that AST explains reports about consciousness, not consciousness itself.
+- **Result**: Created ~2200 word concept page covering AST's core idea (consciousness as attention modeling), neural evidence (2025 MIT study, ASTOUND project), relationship to illusionism (Frankish, Dennett), detailed critique (regress problem, aboutness, explanatory gap remains), and why the project rejects AST while preserving attention's central role.
 - **Output**: `concepts/attention-schema-theory.md`
 
 ### ✓ 2026-01-16: Research specious present and temporal experience
 - **Type**: research-topic
-- **Notes**: The site's philosophy-of-time.md and temporal-consciousness.md reference the specious present but could develop it further. Key questions: What is the specious present exactly (James, Husserl)? How does it relate to quantum collapse timing? What are the phenomenological investigations (Varela, microphenomenology)? Would strengthen the consciousness-time connection.
+- **Notes**: the project's philosophy-of-time.md and temporal-consciousness.md reference the specious present but could develop it further. Key questions: What is the specious present exactly (James, Husserl)? How does it relate to quantum collapse timing? What are the phenomenological investigations (Varela, microphenomenology)? Would strengthen the consciousness-time connection.
 - **Result**: Comprehensive research covering extensionalism vs retentionalism debate, duration estimates (100ms-3s range), Varela's neurophenomenology of time, contemplative access to temporal microstructure, and connection to quantum collapse phenomenology. Key finding: specious present may be phenomenological manifestation of consciousness's constitutive role in time.
 - **Output**: `research/specious-present-temporal-experience-2026-01-16.md`
 
@@ -2026,7 +2026,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-17: Cross-review collapse-and-time.md considering philosophy-of-time insights
 - **Type**: cross-review
 - **Notes**: New article concepts/philosophy-of-time.md provides systematic framework for time ontology. Review concepts/collapse-and-time.md to add references to A-theory/B-theory distinction and how site's position relates to standard positions in philosophy of time.
-- **Result**: Added new "Collapse and the Philosophy of Time" section connecting collapse interpretations to McTaggart's A-series/B-series, explaining how collapse realism supports A-theory while decoherence supports B-theory, and the site's modified growing block proposal.
+- **Result**: Added new "Collapse and the Philosophy of Time" section connecting collapse interpretations to McTaggart's A-series/B-series, explaining how collapse realism supports A-theory while decoherence supports B-theory, and the project's modified growing block proposal.
 - **Output**: Updated `concepts/collapse-and-time.md`
 
 ### ✓ 2026-01-17: Create voids article on whether cognitive limits are real
@@ -2043,7 +2043,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-17: Cross-review retrocausality.md considering philosophy-of-time insights
 - **Type**: cross-review
-- **Notes**: New article concepts/philosophy-of-time.md discusses how retrocausality might favor eternalism/block universe while collapse favors presentism. Review concepts/retrocausality.md to engage with this tension and explain how the site reconciles retrocausal selection with consciousness-constituted time.
+- **Notes**: New article concepts/philosophy-of-time.md discusses how retrocausality might favor eternalism/block universe while collapse favors presentism. Review concepts/retrocausality.md to engage with this tension and explain how the project reconciles retrocausal selection with consciousness-constituted time.
 - **Result**: Added new "Time Ontology and Retrocausality" section explaining how retrocausality seems to require eternalism but site reconciles via modified growing block—retrocausality operates on superposed possibilities, not ontologically existing future facts. Added philosophy-of-time and time-collapse-and-agency to concepts and Further Reading.
 - **Output**: Updated `concepts/retrocausality.md`
 
@@ -2055,7 +2055,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-17: Create concept page on philosophy of time and consciousness
 - **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-16. The site implies a metaphysics of time but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation. Would strengthen collapse-and-time.md and retrocausality.md.
+- **Notes**: Suggested by optimistic review 2026-01-16. the project implies a metaphysics of time but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation. Would strengthen collapse-and-time.md and retrocausality.md.
 - **Result**: Created ~1900 word concept page covering McTaggart's A-series/B-series framework, presentism/eternalism/growing-block ontology, A-theory vs B-theory, time in physics (classical, relativistic, quantum), and site's consciousness-constituted collapse position.
 - **Output**: `concepts/philosophy-of-time.md`
 
@@ -2097,7 +2097,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-16: Create concept page on psychophysical coupling law
 - **Type**: expand-topic
-- **Notes**: Research completed in research/psychophysical-coupling-problem-2026-01-15.md. The site asserts consciousness "selects" quantum outcomes but this is metaphorical without specifying the coupling law. Research identifies four candidate constraint families: attention-bounded (~10 bits/sec), policy-level, basis-choice, temporal/indexical. Would formalize "selection" from metaphor into research program.
+- **Notes**: Research completed in research/psychophysical-coupling-problem-2026-01-15.md. the project asserts consciousness "selects" quantum outcomes but this is metaphorical without specifying the coupling law. Research identifies four candidate constraint families: attention-bounded (~10 bits/sec), policy-level, basis-choice, temporal/indexical. Would formalize "selection" from metaphor into research program.
 - **Result**: Created ~2000 word concept page formalizing the coupling problem. Four candidate laws: attention-bounded selection, policy-level selection, basis-choice selection, and indexical selection. Bandwidth constraint (~10 bits/second) shapes what selection can accomplish. Connected to all five tenets.
 - **Output**: `concepts/psychophysical-coupling-law.md`
 
@@ -2121,7 +2121,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-16: Cross-review tenets.md considering prebiotic collapse insights
 - **Type**: cross-review
-- **Notes**: New article concepts/prebiotic-collapse.md commits the site to objective-reduction-with-consciousness-modulation. Review tenets/tenets.md to strengthen No Many Worlds and Minimal Quantum Interaction tenets with explicit prebiotic problem response.
+- **Notes**: New article concepts/prebiotic-collapse.md commits the project to objective-reduction-with-consciousness-modulation. Review tenets/tenets.md to strengthen No Many Worlds and Minimal Quantum Interaction tenets with explicit prebiotic problem response.
 - **Result**: Added new "The prebiotic collapse problem" paragraph to No Many Worlds tenet explaining the objection and site's resolution. Links to prebiotic-collapse concept page and quantum-consciousness section. Clarifies that physical mechanisms provide baseline collapse while consciousness modulates outcomes in neural systems.
 - **Output**: Updated `tenets/tenets.md`
 
@@ -2133,7 +2133,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-16: Add coherence inflation countermeasures to generation workflow
 - **Type**: build-tool
-- **Notes**: Because the site is intentionally a single worldview expressed as fact and heavily AI-generated, add hard constraints: (1) per-claim confidence metadata, (2) mandatory steelman sections for key opponents, (3) provenance tagging for empirical claims, (4) periodic external red-team reviews, (5) detection of circular citation loops across pages.
+- **Notes**: Because the project is intentionally a single worldview expressed as fact and heavily AI-generated, add hard constraints: (1) per-claim confidence metadata, (2) mandatory steelman sections for key opponents, (3) provenance tagging for empirical claims, (4) periodic external red-team reviews, (5) detection of circular citation loops across pages.
 - **Result**: Created comprehensive protocol document with seven countermeasures: confidence stratification, mandatory steelman sections, provenance tagging, external red-team reviews, circular citation detection, freshness tracking, and explicit uncertainty propagation. Includes implementation details for workflow integration.
 - **Output**: `project/coherence-inflation-countermeasures.md`
 
@@ -2151,14 +2151,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-17: Create concept page on phenomenal value realism / metaethics
 - **Type**: expand-topic
-- **Notes**: Research completed in research/phenomenal-value-realism-metaethics-2026-01-16.md. The site implicitly treats conscious experience as the ground of value but doesn't name this metaethical position. Should cover Rawlette's analytic hedonism, phenomenal value pluralism, and comparison with welfarism/desire theory. Would formalize the implicit commitment and strengthen ethics-of-consciousness.md.
+- **Notes**: Research completed in research/phenomenal-value-realism-metaethics-2026-01-16.md. the project implicitly treats conscious experience as the ground of value but doesn't name this metaethical position. Should cover Rawlette's analytic hedonism, phenomenal value pluralism, and comparison with welfarism/desire theory. Would formalize the implicit commitment and strengthen ethics-of-consciousness.md.
 - **Result**: Created ~1900 word concept page covering Rawlette's analytic hedonism, the is-ought bridge, site's phenomenal value pluralism (beyond hedonism), connection to dualism and indexical identity, implications for AI/animal ethics/meaning, objections and responses.
 - **Output**: `concepts/phenomenal-value-realism.md`
 
 ### ✓ 2026-01-17: Cross-review free-will.md with luck objection research
 - **Type**: cross-review
 - **Notes**: Research completed in research/luck-objection-libertarian-free-will-2026-01-17.md covers van Inwagen's rollback argument and Mele's present/remote luck distinction. Review topics/free-will.md to add explicit engagement with the luck objection—this is the main challenge to libertarian free will that the quantum selection framework must address.
-- **Result**: Added new "The Luck Objection" and "Why the Site's Framework Escapes Luck" sections. Covers van Inwagen's rollback argument, Mele's present/remote luck distinction, comparison table (lucky vs selected indeterminism), connection to phenomenology of effort and agent causation.
+- **Result**: Added new "The Luck Objection" and "Why the project's Framework Escapes Luck" sections. Covers van Inwagen's rollback argument, Mele's present/remote luck distinction, comparison table (lucky vs selected indeterminism), connection to phenomenology of effort and agent causation.
 - **Output**: Updated `topics/free-will.md`
 
 ### ✓ 2026-01-16: Formalize the "attention as interface" hypothesis into a mechanistic research agenda
@@ -2170,7 +2170,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-16: Develop a dedicated topic on "Time, collapse, and agency"
 - **Type**: expand-topic
 - **Notes**: Free will uses retrocausality/atemporal selection; collapse is linked to the arrow of time. Consolidate: what metaphysics of time is implied (presentism/eternalism/relational), how "selection across time" avoids contradictions, and what phenomenology of temporal experience (durée/specious present) would be predicted by the framework. Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
-- **Result**: Created comprehensive topic consolidating the site's temporal commitments. Addresses presentism vs eternalism (proposes growing-block with consciousness-constituted collapse), explains how atemporal selection reconciles with irreversibility, maps phenomenology predictions (specious present, possibility narrowing, effort, durée), strengthens free-will arguments, and lists falsification conditions.
+- **Result**: Created comprehensive topic consolidating the project's temporal commitments. Addresses presentism vs eternalism (proposes growing-block with consciousness-constituted collapse), explains how atemporal selection reconciles with irreversibility, maps phenomenology predictions (specious present, possibility narrowing, effort, durée), strengthens free-will arguments, and lists falsification conditions.
 - **Output**: `topics/time-collapse-and-agency.md`
 
 ### ✓ 2026-01-16: Build testability ledger for the framework
@@ -2181,7 +2181,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-16: Create Ethics of consciousness as a core topic
 - **Type**: expand-topic
-- **Notes**: The site already touches animal consciousness, AI non-consciousness, and identity non-patternism. Consolidate into an ethics topic: moral patienthood, suffering/valence, moral uncertainty policy, simulation ethics under dualism, and why "copying a person" is not "saving them."
+- **Notes**: the project already touches animal consciousness, AI non-consciousness, and identity non-patternism. Consolidate into an ethics topic: moral patienthood, suffering/valence, moral uncertainty policy, simulation ethics under dualism, and why "copying a person" is not "saving them."
 - **Result**: Created ~3000 word topic page covering foundation of consciousness-based ethics, moral patienthood (who counts), moral uncertainty (precautionary principle vs weighted consideration), animal ethics, AI ethics, identity ethics (copies, uploads, simulations), and suffering as moral core. Connected to all five tenets.
 - **Output**: `topics/ethics-of-consciousness.md`
 
@@ -2193,7 +2193,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-16: Research QM interpretations beyond MWI
 - **Type**: research-topic
-- **Notes**: Anti-MWI is explicit; the site should also clearly position itself vs Bohmian mechanics, QBism, relational QM, objective collapse (GRW/CSL), and transactional/TSVF approaches—especially because retrocausality plays a big role in free will. Clarify: which interpretations leave room for consciousness-as-selector vs selector-as-physical-law vs "collapse is epistemic only."
+- **Notes**: Anti-MWI is explicit; the project should also clearly position itself vs Bohmian mechanics, QBism, relational QM, objective collapse (GRW/CSL), and transactional/TSVF approaches—especially because retrocausality plays a big role in free will. Clarify: which interpretations leave room for consciousness-as-selector vs selector-as-physical-law vs "collapse is epistemic only."
 - **Result**: Comprehensive research covering 6 major interpretations (Copenhagen, Bohmian, QBism, relational QM, TI/TSVF, GRW/CSL). Key finding: TI/TSVF align strongly with site's retrocausality framework. Bohmian mechanics conflicts with free will phenomenology. QBism is agent-centered but anti-realist. Provides recommendations for site positioning.
 - **Output**: `research/qm-interpretations-beyond-mwi-2026-01-16.md`
 
@@ -2217,13 +2217,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-17: Research the luck objection to libertarian free will
 - **Type**: research-topic
-- **Notes**: The luck objection (van Inwagen, Mele) argues that indeterminism makes actions random rather than free. Kane's response appeals to self-forming actions; agent-causation theorists appeal to substance causation. How does the site's quantum selection framework address this? Is consciousness-directed selection different from mere randomness? Would strengthen free-will.md and agent-causation.md.
+- **Notes**: The luck objection (van Inwagen, Mele) argues that indeterminism makes actions random rather than free. Kane's response appeals to self-forming actions; agent-causation theorists appeal to substance causation. How does the project's quantum selection framework address this? Is consciousness-directed selection different from mere randomness? Would strengthen free-will.md and agent-causation.md.
 - **Result**: Comprehensive research covering van Inwagen's rollback argument, Mele's present/remote luck distinction, Kane's SFAs and dual efforts response, agent-causal responses (O'Connor, Lowe, Chisholm). Key contribution: how site's quantum selection framework addresses the objection—reasons-guided selection is distinct from mere randomness; phenomenology of effort distinguishes selection from luck.
 - **Output**: `research/luck-objection-libertarian-free-will-2026-01-17.md`
 
 ### ✓ 2026-01-17: Research consciousness-selecting mechanisms in detail
 - **Type**: research-topic
-- **Notes**: The site's Minimal Quantum Interaction and Bidirectional Interaction tenets depend on consciousness selecting among quantum outcomes. But what would the detailed mechanism look like? Key questions: How does attention/intention map to specific neural quantum systems? What's the information bandwidth? Does selection happen at individual neurons, microtubules, or larger ensembles? Would strengthen quantum-consciousness.md and support the P2 task for consciousness-selecting-neural-patterns concept page.
+- **Notes**: the project's Minimal Quantum Interaction and Bidirectional Interaction tenets depend on consciousness selecting among quantum outcomes. But what would the detailed mechanism look like? Key questions: How does attention/intention map to specific neural quantum systems? What's the information bandwidth? Does selection happen at individual neurons, microtubules, or larger ensembles? Would strengthen quantum-consciousness.md and support the P2 task for consciousness-selecting-neural-patterns concept page.
 - **Result**: Comprehensive research covering candidate selection sites (microtubules/Orch OR, spintronic coherence/QBIT, ion channels, cortical microcolumns, attention networks), 2025 experimental support, bandwidth constraints (~10 bits/second implies coarse-grained policy-level selection), how attention maps to quantum systems via Stapp's Zeno mechanism, ensemble vs single-site selection, brain specialness boundary.
 - **Output**: `research/consciousness-selecting-mechanisms-detail-2026-01-17.md`
 
@@ -2236,12 +2236,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-16: Create concept page for quantum-biology
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-biology-consciousness-2026-01-16.md. Covers photosynthesis FMO complex, avian magnetoreception (Jan 2026 Princeton JACS), enzyme tunneling, quantum olfaction. Would provide empirical grounding for Minimal Quantum Interaction tenet and strengthen decoherence objection response.
-- **Result**: Created dedicated concept page covering established quantum biological effects (photosynthesis, avian magnetoreception, enzyme tunneling, olfaction), brain quantum theories (Orch OR, QBIT), and implications for the site's framework. Key argument: quantum biology removes the categorical "warm, wet, and noisy" objection without itself proving consciousness involves quantum effects. Defensive role for Minimal Quantum Interaction tenet.
+- **Result**: Created dedicated concept page covering established quantum biological effects (photosynthesis, avian magnetoreception, enzyme tunneling, olfaction), brain quantum theories (Orch OR, QBIT), and implications for the project's framework. Key argument: quantum biology removes the categorical "warm, wet, and noisy" objection without itself proving consciousness involves quantum effects. Defensive role for Minimal Quantum Interaction tenet.
 - **Output**: `concepts/quantum-biology.md`
 
 ### ✓ 2026-01-16: Create dedicated concept page on haecceity and indexical identity
 - **Type**: expand-topic
-- **Notes**: The site leans heavily on indexical identity in anti-MWI and personal identity, but doesn't name the metaphysical commitment. Build a page explaining haecceitism, self-locating facts, and how "this subject" differs from pattern-identity. Connect to pairing problem, personal identity, teleportation/uploading cases, and MWI probability/indexical puzzles.
+- **Notes**: the project leans heavily on indexical identity in anti-MWI and personal identity, but doesn't name the metaphysical commitment. Build a page explaining haecceitism, self-locating facts, and how "this subject" differs from pattern-identity. Connect to pairing problem, personal identity, teleportation/uploading cases, and MWI probability/indexical puzzles.
 - **Result**: Created ~2000 word concept page covering Duns Scotus's haecceity concept, haecceitism vs anti-haecceitism debate, why consciousness requires haecceity (zombie argument connection), self-locating beliefs, teleportation/uploading implications, connection to pairing problem and MWI probability problem. Connected to site's dualism, no-many-worlds, and bidirectional interaction tenets.
 - **Output**: `concepts/haecceity.md`
 
@@ -2253,19 +2253,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-16: Address "collapse before minds" (early-universe outcome selection)
 - **Type**: research-topic
-- **Notes**: No Many Worlds + real outcome selection creates a prebiotic cosmology pressure: what selected outcomes before observers? Options: objective collapse with consciousness modulation; panpsychist/proto-experiential selection; cosmic consciousness; other. Create a dedicated treatment that cleanly separates "collapse exists" from "consciousness causes collapse," and states which version the site commits to (or why it stays agnostic). Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+- **Notes**: No Many Worlds + real outcome selection creates a prebiotic cosmology pressure: what selected outcomes before observers? Options: objective collapse with consciousness modulation; panpsychist/proto-experiential selection; cosmic consciousness; other. Create a dedicated treatment that cleanly separates "collapse exists" from "consciousness causes collapse," and states which version the project commits to (or why it stays agnostic). Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
 - **Result**: Comprehensive research covering five major responses to the prebiotic problem: (1) Wheeler's participatory universe (retrocausal bootstrapping), (2) panpsychism/proto-experiential selection, (3) Penrose-style objective reduction (collapse precedes consciousness), (4) decoherence naturalization, (5) separation of "collapse exists" from "consciousness causes collapse." Recommended site position: objective reduction with consciousness modulation—collapse happens via physical mechanisms (preserving prebiotic cosmology) but consciousness interfaces with collapse in developed neural systems.
 - **Output**: `research/collapse-before-minds-early-universe-2026-01-16.md`
 
 ### ✓ 2026-01-15: Research psychophysical coupling problem ("selection law")
 - **Type**: research-topic
-- **Notes**: The site repeatedly says consciousness "selects" among quantum outcomes (tenets; free will; quantum consciousness). Make explicit that this requires a psychophysical coupling law: what variables in conscious experience map to what selectable degrees of freedom? What is the bandwidth? What is not selectable? Propose candidate constraint families (e.g., selection only within attention-controlled neural subspaces; only policy-level not micro-level; only basis-choice not amplitude). Aim: turn "selection" from metaphor into a research program. Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+- **Notes**: the project repeatedly says consciousness "selects" among quantum outcomes (tenets; free will; quantum consciousness). Make explicit that this requires a psychophysical coupling law: what variables in conscious experience map to what selectable degrees of freedom? What is the bandwidth? What is not selectable? Propose candidate constraint families (e.g., selection only within attention-controlled neural subspaces; only policy-level not micro-level; only basis-choice not amplitude). Aim: turn "selection" from metaphor into a research program. Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
 - **Result**: Comprehensive research identifying the coupling problem and proposing four candidate constraint families: (1) Attention-bounded selection (~10 bits/second bandwidth), (2) Policy-level selection (coarse alternatives only), (3) Basis-choice selection (choosing the question, not the answer), (4) Temporal/indexical selection. Integrated 2024-2025 research on conscious processing bandwidth, Chalmers on psychophysical laws, Stapp on quantum selection, and recent quantum consciousness developments.
 - **Output**: `research/psychophysical-coupling-problem-2026-01-15.md`
 
 ### ✓ 2026-01-15: Research brain specialness boundary (why not psychokinesis)
 - **Type**: research-topic
-- **Notes**: Minimal Quantum Interaction + Bidirectional Interaction risks sliding into "mind can bias any quantum event." The site rejects woo, but needs an explicit limiter: why is the interface restricted to brains (or to systems already integrated into the subject's control loop)? Produce a principled boundary condition and show how it avoids both epiphenomenalism and parapsychology-by-implication. Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
+- **Notes**: Minimal Quantum Interaction + Bidirectional Interaction risks sliding into "mind can bias any quantum event." the project rejects woo, but needs an explicit limiter: why is the interface restricted to brains (or to systems already integrated into the subject's control loop)? Produce a principled boundary condition and show how it avoids both epiphenomenalism and parapsychology-by-implication. Refer to the source of this task obsidian/reviews/outer-review-2026-01-15-site-chatgpt-5-2-pro.md also.
 - **Result**: Research establishing four principled boundary conditions: (1) Interface locality—only systems within neural control loop, (2) Control loop integration—selection requires awareness of alternatives, (3) Developmental/evolutionary integration—only systems the brain grew with, (4) Attention scope—only what can be attended. Key insight: the boundary follows mechanistically from Stapp's Process 1 model, not from ad hoc restriction. The quantum Zeno mechanism operates through attention, which is neurally implemented; consciousness can only bias what it observes.
 - **Output**: `research/brain-specialness-boundary-2026-01-15.md`
 
@@ -2295,7 +2295,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-15: Research quantum decoherence objection responses in detail
 - **Type**: research-topic
-- **Notes**: The decoherence objection is mentioned in tenets.md and quantum-consciousness.md but responses could be more specific. What exactly do the "hot cat" experiments show? How does Orch OR address decoherence specifically? What timescales are actually needed for consciousness-related quantum effects? Would strengthen the site's response to this major objection.
+- **Notes**: The decoherence objection is mentioned in tenets.md and quantum-consciousness.md but responses could be more specific. What exactly do the "hot cat" experiments show? How does Orch OR address decoherence specifically? What timescales are actually needed for consciousness-related quantum effects? Would strengthen the project's response to this major objection.
 - **Result**: Comprehensive research covering Tegmark-Hameroff debate (7 orders of magnitude difference in estimates), protective mechanisms (Debye layer, actin gel, hydrophobic interior), revised timescales (10⁻⁷s with faster dynamics), biological quantum effects (photosynthesis, avian magnetoreception with Jan 2026 Princeton JACS paper), hot cat experiments (1.8K demonstration), 1,400-second coherence record. Key finding: decoherence doesn't eliminate quantum indeterminacy—consciousness could bias outcomes at measurement even after decoherence.
 - **Output**: `research/quantum-decoherence-objection-responses-2026-01-15.md`
 
@@ -2319,7 +2319,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-16: Research arXiv paper 2512.12802 and evaluate against site tenets
 - **Type**: research-topic
-- **Notes**: Research the paper at https://web3.arxiv.org/abs/2512.12802 and evaluate how it stands up to the site's perspective on consciousness and dualism. Assess alignment or tension with the five tenets.
+- **Notes**: Research the paper at https://web3.arxiv.org/abs/2512.12802 and evaluate how it stands up to the project's perspective on consciousness and dualism. Assess alignment or tension with the five tenets.
 - **Result**: Analyzed Erik Hoel's "A Disproof of Large Language Model Consciousness" which argues continual learning is necessary for consciousness. Found mostly aligned with site tenets: anti-functionalism (proximity argument), consciousness as causal (implicit support for Bidirectional Interaction), skepticism of simple parsimony (supports Occam's Razor Has Limits). Orthogonal treatment of quantum mechanisms.
 - **Output**: `research/hoel-llm-consciousness-continual-learning-2026-01-16.md`
 
@@ -2331,7 +2331,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-15: Cross-review personal-identity.md considering many-worlds argument
 - **Type**: cross-review
-- **Notes**: New argument page arguments/many-worlds.md presents five arguments against MWI including the indexical problem (Argument 2). Review topics/personal-identity.md to add explicit link to the many-worlds argument page and strengthen the "Why This Site Disagrees" section with reference to the formal argument structure.
+- **Notes**: New argument page arguments/many-worlds.md presents five arguments against MWI including the indexical problem (Argument 2). Review topics/personal-identity.md to add explicit link to the many-worlds argument page and strengthen the "Why this project Disagrees" section with reference to the formal argument structure.
 - **Result**: Added many-worlds to concepts; expanded No Many Worlds Connection section with link to formal argument page and detailed explanation of indexical problem; added many-worlds to Further Reading.
 - **Output**: Updated `topics/personal-identity.md`
 
@@ -2343,7 +2343,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-15: Create argument page "Against Epiphenomenalism"
 - **Type**: expand-topic
-- **Notes**: The arguments section targets 5 pages but currently has only 2 (Against Materialism, For Interactionist Dualism). Epiphenomenalism is a major alternative to interactionism that the site's Bidirectional Interaction tenet directly rejects. Should cover: self-stultification argument (if consciousness is causally inert, our reports about it are accidentally right at best), evolutionary argument (phenomenal states must do something to have been selected), knowledge argument implications (Mary learns something causally relevant). Draw from epiphenomenalism.md and mental-causation.md.
+- **Notes**: The arguments section targets 5 pages but currently has only 2 (Against Materialism, For Interactionist Dualism). Epiphenomenalism is a major alternative to interactionism that the project's Bidirectional Interaction tenet directly rejects. Should cover: self-stultification argument (if consciousness is causally inert, our reports about it are accidentally right at best), evolutionary argument (phenomenal states must do something to have been selected), knowledge argument implications (Mary learns something causally relevant). Draw from epiphenomenalism.md and mental-causation.md.
 - **Result**: Created ~2000 word argument page with five arguments (self-stultification, evolutionary objection, knowledge argument reversed, introspection problem, self-knowledge problem). Connected to all five tenets and linked to quantum framework response.
 - **Output**: `arguments/epiphenomenalism.md`, updated `arguments/arguments.md`
 
@@ -2355,13 +2355,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-15: Cross-review measurement-problem.md considering many-worlds argument
 - **Type**: cross-review
-- **Notes**: New argument page arguments/many-worlds.md covers the measurement problem from an anti-MWI perspective. Review concepts/measurement-problem.md to add explicit engagement with MWI as a proposed solution and why the site rejects it—this strengthens the No Many Worlds tenet.
+- **Notes**: New argument page arguments/many-worlds.md covers the measurement problem from an anti-MWI perspective. Review concepts/measurement-problem.md to add explicit engagement with MWI as a proposed solution and why the project rejects it—this strengthens the No Many Worlds tenet.
 - **Result**: Added many-worlds to related_articles; expanded MWI subsection with link to five detailed arguments; added many-worlds to Further Reading.
 - **Output**: Updated `concepts/measurement-problem.md`
 
 ### ✓ 2026-01-15: Create argument page "Against Many Worlds"
 - **Type**: expand-topic
-- **Notes**: The No Many Worlds tenet needs a dedicated argument page in the arguments section. Should cover: ontological proliferation, indexical identity problems, probability interpretation issues, and why the site prefers collapse interpretations. Would strengthen the arguments section (currently only 1 of 5 target pages).
+- **Notes**: The No Many Worlds tenet needs a dedicated argument page in the arguments section. Should cover: ontological proliferation, indexical identity problems, probability interpretation issues, and why the project prefers collapse interpretations. Would strengthen the arguments section (currently only 1 of 5 target pages).
 - **Result**: Created ~2300 word argument page with five arguments (ontological extravagance, indexical identity problem, probability problem, preferred basis problem, consciousness unaddressed) structured with premises and conclusions. Added objections and responses, connected to all five tenets.
 - **Output**: `arguments/many-worlds.md`, updated `arguments/arguments.md`
 
@@ -2386,7 +2386,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-15: Cross-review hard-problem-of-consciousness.md considering pairing-problem insights
 - **Type**: cross-review
 - **Notes**: New article concepts/pairing-problem.md presents Kim's challenge that mind-body pairing is unintelligible without spatial relations. Review topics/hard-problem-of-consciousness.md to add pairing problem as another dimension of the hard problem—not just "why experience?" but "why *this* experience with *this* body?"
-- **Result**: Added new "The Pairing Problem: Why This Mind with This Body?" section explaining Kim's challenge as a distinct dimension of the hard problem, three major responses (spatial location, haecceity, non-spatial causation), and how the site's quantum framework addresses both pairing and closure problems. Added pairing-problem to concepts list and Further Reading.
+- **Result**: Added new "The Pairing Problem: Why This Mind with This Body?" section explaining Kim's challenge as a distinct dimension of the hard problem, three major responses (spatial location, haecceity, non-spatial causation), and how the project's quantum framework addresses both pairing and closure problems. Added pairing-problem to concepts list and Further Reading.
 - **Output**: Updated `topics/hard-problem-of-consciousness.md`
 
 ### ✓ 2026-01-16: Cross-review substance-property-dualism.md considering pairing-problem insights
@@ -2403,19 +2403,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-16: Research quantum mechanics and free will
 - **Type**: research-topic
-- **Notes**: The site connects quantum indeterminacy with libertarian free will but could engage more deeply with this philosophical literature. Key topics: Does quantum randomness help free will or hurt it? How do libertarians respond to the "luck objection"? What role does agent causation play in quantum approaches? Robert Kane, Peter van Inwagen, and recent work on quantum approaches to free will.
-- **Result**: Comprehensive research covering the luck objection, event-causal vs agent-causal libertarianism, Kane's 2024 evolution toward substance causation, van Inwagen's consequence and mind arguments, Mele's soft libertarianism, Stapp's quantum Zeno mechanism, and O'Connor/Lowe on substance causation. Key finding: the debate confirms quantum indeterminacy provides conceptual space for mental causation but requires an account of how consciousness directs rather than randomizes outcomes—exactly what the site's framework provides.
+- **Notes**: the project connects quantum indeterminacy with libertarian free will but could engage more deeply with this philosophical literature. Key topics: Does quantum randomness help free will or hurt it? How do libertarians respond to the "luck objection"? What role does agent causation play in quantum approaches? Robert Kane, Peter van Inwagen, and recent work on quantum approaches to free will.
+- **Result**: Comprehensive research covering the luck objection, event-causal vs agent-causal libertarianism, Kane's 2024 evolution toward substance causation, van Inwagen's consequence and mind arguments, Mele's soft libertarianism, Stapp's quantum Zeno mechanism, and O'Connor/Lowe on substance causation. Key finding: the debate confirms quantum indeterminacy provides conceptual space for mental causation but requires an account of how consciousness directs rather than randomizes outcomes—exactly what the project's framework provides.
 - **Output**: `research/quantum-mechanics-free-will-2026-01-16.md`
 
 ### ✓ 2026-01-16: Create concept page on the pairing problem
 - **Type**: expand-topic
 - **Notes**: Kim's pairing problem (Kim 2005) is a distinct challenge to substance dualism—what pairs a particular mind with a particular body if minds lack spatial location? Research in objections-to-interactionist-dualism covers this but deserves dedicated treatment given its significance. Should include Bailey/Rasmussen/Van Horn haecceity response and spatial location response.
-- **Result**: Created ~2000 word concept page covering the problem statement, Kim's principle (causation requires spatial relations), three major responses (spatial location of minds, haecceity response, non-spatial causation), and how the site's quantum framework addresses the problem by locating consciousness where it causally interfaces with the brain.
+- **Result**: Created ~2000 word concept page covering the problem statement, Kim's principle (causation requires spatial relations), three major responses (spatial location of minds, haecceity response, non-spatial causation), and how the project's quantum framework addresses the problem by locating consciousness where it causally interfaces with the brain.
 - **Output**: `concepts/pairing-problem.md`
 
 ### ✓ 2026-01-16: Research consciousness and the measurement problem
 - **Type**: research-topic
-- **Notes**: The site's Minimal Quantum Interaction tenet depends on consciousness playing a role at quantum collapse. What does contemporary philosophy of physics say about the measurement problem and its solutions? Key questions: What interpretations preserve a role for consciousness? How do objective collapse theories (GRW, Penrose OR) differ from consciousness-based collapse? What does the "problem of definite outcomes" reveal about physical completeness?
+- **Notes**: the project's Minimal Quantum Interaction tenet depends on consciousness playing a role at quantum collapse. What does contemporary philosophy of physics say about the measurement problem and its solutions? Key questions: What interpretations preserve a role for consciousness? How do objective collapse theories (GRW, Penrose OR) differ from consciousness-based collapse? What does the "problem of definite outcomes" reveal about physical completeness?
 - **Result**: Comprehensive research covering the measurement problem (problem of definite outcomes), five major positions (consciousness-causes-collapse, Stapp's quantum Zeno, GRW/CSL objective collapse, Penrose-Diosi gravitational collapse, many-worlds), and how quantum indeterminacy creates a loophole in causal closure. Key finding: decoherence explains basis selection but not single-outcome selection—leaving conceptual space for mental causation at indeterminacies.
 - **Output**: `research/consciousness-measurement-problem-2026-01-16.md`
 
@@ -2457,7 +2457,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-15: Research objections to interactionist dualism
 - **Type**: research-topic
-- **Notes**: The site has strong positive arguments for dualism but could engage more deeply with the strongest objections. Research the strongest contemporary objections beyond causal closure: conservation laws (Papineau), pairing problem (Kim), evolutionary arguments, parsimony arguments. Would strengthen interactionist-dualism.md and arguments-for-dualism.md by engaging opponents directly.
+- **Notes**: the project has strong positive arguments for dualism but could engage more deeply with the strongest objections. Research the strongest contemporary objections beyond causal closure: conservation laws (Papineau), pairing problem (Kim), evolutionary arguments, parsimony arguments. Would strengthen interactionist-dualism.md and arguments-for-dualism.md by engaging opponents directly.
 - **Result**: Comprehensive research covering 5 major objections: Kim's pairing problem (spatial location), conservation laws (Papineau), parsimony/simplicity, evolutionary argument (actually supports interactionism), and exclusion argument. Includes responses and assessment for each.
 - **Output**: `research/objections-to-interactionist-dualism-2026-01-15.md`
 
@@ -2523,25 +2523,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-15: Write article on mental causation
 - **Type**: expand-topic
-- **Notes**: Research completed in research/downward-causation-mental-causation-2026-01-15.md. Covers Kim's causal exclusion argument, responses (Yablo's proportionality, interventionism, emergentism, inheritance solutions), overdetermination problem, and how the site's quantum framework addresses these challenges. Would provide dedicated treatment of a central problem for dualism.
+- **Notes**: Research completed in research/downward-causation-mental-causation-2026-01-15.md. Covers Kim's causal exclusion argument, responses (Yablo's proportionality, interventionism, emergentism, inheritance solutions), overdetermination problem, and how the project's quantum framework addresses these challenges. Would provide dedicated treatment of a central problem for dualism.
 - **Result**: Created ~1900 word article covering the exclusion problem, Kim's argument structure, overdetermination, supervenience drainage, major responses (interventionism, inheritance, strong emergence, quantum opening), agent causation, and the self-stultification argument for mental causation.
 - **Output**: `concepts/mental-causation.md`
 
 ### ✓ 2026-01-15: Cross-review interactionist-dualism.md considering emergence insights
 - **Type**: cross-review
-- **Notes**: The emergence research in research/emergence-consciousness-philosophy-2026-01-15.md connects the site's framework to O'Connor-Wong's account of emergent properties with novel causal powers. Review concepts/interactionist-dualism.md to add this philosophical context—the quantum mechanism provides what classical emergentism lacked.
+- **Notes**: The emergence research in research/emergence-consciousness-philosophy-2026-01-15.md connects the project's framework to O'Connor-Wong's account of emergent properties with novel causal powers. Review concepts/interactionist-dualism.md to add this philosophical context—the quantum mechanism provides what classical emergentism lacked.
 - **Result**: Added new "Emergence and the Mechanism Classical Emergentism Lacked" section connecting interactionist dualism to O'Connor-Wong's account, explaining how the quantum framework provides what classical emergentism couldn't specify. Added emergence and mental-causation to concepts list and Further Reading.
 - **Output**: Updated `concepts/interactionist-dualism.md`
 
 ### ✓ 2026-01-15: Cross-review causal-closure.md considering emergence insights
 - **Type**: cross-review
 - **Notes**: Kim's causal exclusion argument (from research/emergence-consciousness-philosophy-2026-01-15.md) is the main philosophical challenge to mental causation. Review concepts/causal-closure.md to engage more explicitly with Kim's argument and show how the quantum framework addresses it.
-- **Result**: Added "Kim's Formulation Dilemma" subsection and "The Emergentist Response" section connecting causal closure to O'Connor-Wong's emergentism and the site's quantum mechanism. Added emergence and mental-causation to concepts list and Further Reading.
+- **Result**: Added "Kim's Formulation Dilemma" subsection and "The Emergentist Response" section connecting causal closure to O'Connor-Wong's emergentism and the project's quantum mechanism. Added emergence and mental-causation to concepts list and Further Reading.
 - **Output**: Updated `concepts/causal-closure.md`
 
 ### ✓ 2026-01-15: Research downward causation and mental causation
 - **Type**: research-topic
-- **Notes**: The site's Bidirectional Interaction tenet depends on downward causation—consciousness influencing physical events. But the philosophical literature on mental causation (Kim, Papineau, Yablo) presents serious challenges. Key questions: Does the causal closure of physics rule out mental causation? What is overdetermination and how can dualism avoid it? How does supervenience relate to causation? Would strengthen interactionist-dualism.md and causal-closure.md.
+- **Notes**: the project's Bidirectional Interaction tenet depends on downward causation—consciousness influencing physical events. But the philosophical literature on mental causation (Kim, Papineau, Yablo) presents serious challenges. Key questions: Does the causal closure of physics rule out mental causation? What is overdetermination and how can dualism avoid it? How does supervenience relate to causation? Would strengthen interactionist-dualism.md and causal-closure.md.
 - **Source**: gap_analysis
 - **Result**: Comprehensive research covering Kim's causal exclusion argument, the causal closure principle, overdetermination problem, supervenience and drainage, major responses (Yablo's proportionality, interventionism, emergentism, inheritance/constitution solutions), the quantum opening for mental causation, and O'Connor-Wong's emergent causal powers.
 - **Output**: `research/downward-causation-mental-causation-2026-01-15.md`
@@ -2555,9 +2555,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-15: Write article on emergence and consciousness
 - **Type**: expand-topic
-- **Notes**: Research completed in research/emergence-consciousness-philosophy-2026-01-15.md. Covers strong vs weak emergence, Kim's causal exclusion argument, O'Connor-Wong on emergent properties with novel causal powers, and how the site's quantum framework addresses these challenges. Key finding: the site's position is a form of strong emergentism that specifies the quantum mechanism classical emergentists lacked. Would strengthen the conceptual infrastructure supporting the Dualism and Bidirectional Interaction tenets.
+- **Notes**: Research completed in research/emergence-consciousness-philosophy-2026-01-15.md. Covers strong vs weak emergence, Kim's causal exclusion argument, O'Connor-Wong on emergent properties with novel causal powers, and how the project's quantum framework addresses these challenges. Key finding: the project's position is a form of strong emergentism that specifies the quantum mechanism classical emergentists lacked. Would strengthen the conceptual infrastructure supporting the Dualism and Bidirectional Interaction tenets.
 - **Source**: chain (from emergence research)
-- **Result**: Created ~2000 word article covering weak vs strong emergence distinction, Kim's exclusion argument, downward causation, O'Connor-Wong's emergent causal powers, why consciousness is the paradigm case, and how the site provides a mechanism (quantum selection) that classical emergentism lacked.
+- **Result**: Created ~2000 word article covering weak vs strong emergence distinction, Kim's exclusion argument, downward causation, O'Connor-Wong's emergent causal powers, why consciousness is the paradigm case, and how the project provides a mechanism (quantum selection) that classical emergentism lacked.
 - **Output**: `concepts/emergence.md`
 
 ### ✓ 2026-01-15: Create concept page for the combination problem
@@ -2597,14 +2597,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-15: Update attention.md with 2025 adversarial testing results
 - **Type**: refine-draft
-- **Notes**: The 2025 Nature adversarial collaboration testing GWT vs. IIT found neither theory clearly vindicated—"results critically challenge key tenets of both theories." This supports the site's Occam's Razor Has Limits position. Also add critique of IIT's attention neglect (2025 Erkenntnis paper) and Attention Schema Theory as an illusionist position conflicting with Dualism. Research completed in research/attention-consciousness-mechanisms-2026-01-15.md.
+- **Notes**: The 2025 Nature adversarial collaboration testing GWT vs. IIT found neither theory clearly vindicated—"results critically challenge key tenets of both theories." This supports the project's Occam's Razor Has Limits position. Also add critique of IIT's attention neglect (2025 Erkenntnis paper) and Attention Schema Theory as an illusionist position conflicting with Dualism. Research completed in research/attention-consciousness-mechanisms-2026-01-15.md.
 - **Source**: chain (from attention research)
 - **Result**: Added "Major Theories of Attention and Consciousness" section with IIT's attention problem, 2025 adversarial testing results, and Attention Schema Theory critique. Added illusionism and IIT to concepts list.
 - **Output**: Updated `concepts/attention.md`
 
 ### ✓ 2026-01-15: Research attention and consciousness mechanisms
 - **Type**: research-topic
-- **Notes**: The site has concepts/attention.md covering attention-consciousness relationships, but lacks deep engagement with contemporary theories: Global Neuronal Workspace attention mechanisms, IIT's information integration, attention schema theory (Graziano), and how the site's quantum framework relates to attention-as-selection. Would strengthen mental-effort.md and quantum-consciousness.md.
+- **Notes**: the project has concepts/attention.md covering attention-consciousness relationships, but lacks deep engagement with contemporary theories: Global Neuronal Workspace attention mechanisms, IIT's information integration, attention schema theory (Graziano), and how the project's quantum framework relates to attention-as-selection. Would strengthen mental-effort.md and quantum-consciousness.md.
 - **Source**: gap_analysis
 - **Result**: Comprehensive research covering 2025 adversarial testing of GWT vs. IIT (neither vindicated), Attention Schema Theory critique (conflicts with Dualism), overflow debate (Block vs. sparse view), dissociation evidence (Koch, Tsuchiya), and Stapp's quantum Zeno mechanism with decoherence responses. Key finding: existing attention.md is comprehensive; research supports updating it with 2025 results and adding AST critique.
 - **Output**: `research/attention-consciousness-mechanisms-2026-01-15.md`
@@ -2613,19 +2613,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: expand-topic
 - **Notes**: Research completed in research/introspection-reliability-first-person-2026-01-15.md. Covers Nisbett/Wilson critique (process vs content access), choice blindness (Johansson), Schwitzgebel's skepticism, training effects (Fox et al.), microphenomenology (Petitmengin), and critical phenomenology (Velmans/Chalmers). Key finding: phenomenal content access may be more reliable than process access; training improves accuracy logarithmically. Would address a key materialist objection and strengthen phenomenology.md.
 - **Source**: chain (from research-topic)
-- **Result**: Created ~2000 word article covering the case against introspection (Nisbett/Wilson, choice blindness, Schwitzgebel), the process/content distinction, training effects (Fox study), microphenomenology (Petitmengin), and critical phenomenology (Velmans/Chalmers). Addressed how the critique's scope protects the site's phenomenological evidence.
+- **Result**: Created ~2000 word article covering the case against introspection (Nisbett/Wilson, choice blindness, Schwitzgebel), the process/content distinction, training effects (Fox study), microphenomenology (Petitmengin), and critical phenomenology (Velmans/Chalmers). Addressed how the critique's scope protects the project's phenomenological evidence.
 - **Output**: `concepts/introspection.md`
 
 ### ✓ 2026-01-15: Deep review free-will.md for comprehensiveness
 - **Type**: deep-review
-- **Notes**: free-will.md is one of the site's oldest and most-referenced topic pages. It hasn't received a comprehensive review since existentialism.md was deep-reviewed (session 48). Check for: outdated arguments, missing cross-links to newer content (libet-experiments.md, retrocausality.md, mental-effort.md), tenet alignment, and philosophical accuracy.
+- **Notes**: free-will.md is one of the project's oldest and most-referenced topic pages. It hasn't received a comprehensive review since existentialism.md was deep-reviewed (session 48). Check for: outdated arguments, missing cross-links to newer content (libet-experiments.md, retrocausality.md, mental-effort.md), tenet alignment, and philosophical accuracy.
 - **Source**: staleness (long since last deep review)
 - **Result**: Addressed illusionist objection to phenomenology-of-effort evidence; added "What Would Challenge This Framework?" section articulating falsifiability conditions; added illusionism to concepts list.
 - **Output**: Updated `topics/free-will.md`, created `workflow/reviews/deep-review-2026-01-15-free-will.md`
 
 ### ✓ 2026-01-15: Research introspection reliability and first-person methods
 - **Type**: research-topic
-- **Notes**: The site relies heavily on first-person evidence (phenomenology, neurophenomenology, introspective reports about qualia). But critics challenge introspection's reliability (Schwitzgebel, Nisbett & Wilson). Key questions: How reliable is introspection? When does it succeed and fail? How do trained introspectors (meditators, phenomenologists) compare to untrained? Would strengthen phenomenology.md and address a key materialist objection.
+- **Notes**: the project relies heavily on first-person evidence (phenomenology, neurophenomenology, introspective reports about qualia). But critics challenge introspection's reliability (Schwitzgebel, Nisbett & Wilson). Key questions: How reliable is introspection? When does it succeed and fail? How do trained introspectors (meditators, phenomenologists) compare to untrained? Would strengthen phenomenology.md and address a key materialist objection.
 - **Source**: gap_analysis
 - **Result**: Comprehensive research covering Nisbett/Wilson critique, choice blindness (Johansson), Schwitzgebel's skepticism, Fox et al. training effects, microphenomenology (Petitmengin), critical phenomenology (Velmans/Chalmers). Key finding: process access is limited but phenomenal content access may be more reliable; training improves accuracy logarithmically.
 - **Output**: `research/introspection-reliability-first-person-2026-01-15.md`
@@ -2653,9 +2653,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-15: Cross-review free-will.md considering agent-causation insights
 - **Type**: cross-review
-- **Notes**: New article concepts/agent-causation.md covers agent vs event causation, Chisholm/O'Connor/Clarke/Lowe/Hasker, and how the site's quantum selection framework implements agent causation. Review topics/free-will.md for opportunities to strengthen the philosophical grounding of libertarian free will with agent-causal concepts.
+- **Notes**: New article concepts/agent-causation.md covers agent vs event causation, Chisholm/O'Connor/Clarke/Lowe/Hasker, and how the project's quantum selection framework implements agent causation. Review topics/free-will.md for opportunities to strengthen the philosophical grounding of libertarian free will with agent-causal concepts.
 - **Source**: chain (from agent-causation.md)
-- **Result**: Added agent-causation to concepts list; distinguished event-causal from agent-causal libertarianism in Traditional Problem section; created new "Agent Causation: Why the Site's Framework Is Libertarian" section; connected phenomenology of effort to agent-causal picture; added agent-causation to Further Reading.
+- **Result**: Added agent-causation to concepts list; distinguished event-causal from agent-causal libertarianism in Traditional Problem section; created new "Agent Causation: Why the project's Framework Is Libertarian" section; connected phenomenology of effort to agent-causal picture; added agent-causation to Further Reading.
 - **Output**: Updated `topics/free-will.md`
 
 ### ✓ 2026-01-15: Write article on dreams and consciousness
@@ -2688,7 +2688,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-14: Research agent causation and libertarian free will
 - **Type**: research-topic
-- **Notes**: The site's Bidirectional Interaction tenet implies libertarian free will—consciousness genuinely selects outcomes. But the philosophical literature on agent causation (Chisholm, O'Connor, Clarke) isn't yet engaged. Key questions: How does agent causation differ from event causation? What's the relationship between downward causation and agent causation? How do contemporary libertarians (Kane, Balaguer) handle the luck objection? Would strengthen free-will.md and interactionist-dualism.md.
+- **Notes**: the project's Bidirectional Interaction tenet implies libertarian free will—consciousness genuinely selects outcomes. But the philosophical literature on agent causation (Chisholm, O'Connor, Clarke) isn't yet engaged. Key questions: How does agent causation differ from event causation? What's the relationship between downward causation and agent causation? How do contemporary libertarians (Kane, Balaguer) handle the luck objection? Would strengthen free-will.md and interactionist-dualism.md.
 - **Source**: gap_analysis
 - **Result**: Comprehensive research covering major agent-causal theorists (Chisholm, O'Connor, Clarke, Lowe, Hasker), luck objection and responses, event vs substance causation debate. Key finding: site's quantum selection framework can be understood as implementing agent-causal libertarianism.
 - **Output**: `research/agent-causation-libertarian-free-will-2026-01-14.md`
@@ -3012,7 +3012,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-14: Explore consciousness, collapse, and the arrow of time
 - **Type**: research-topic
-- **Notes**: Explore whether 'consciousness causes collapse' is relevant to the arrow of time. In a time-reversed scenario, would we see an un-collapse, and is that disallowed or non-physical? This connects to the retrocausality article and the Bidirectional Interaction tenet. Key questions: (1) Does wavefunction collapse define time's arrow independently of entropy? (2) If consciousness selects outcomes at collapse, does this inherently distinguish past from future? (3) What would "un-collapse" even mean—superposition restoration? (4) Does the time-symmetry of quantum equations conflict with irreversible collapse? (5) How does this relate to the site's rejection of Many Worlds (where collapse doesn't occur)?
+- **Notes**: Explore whether 'consciousness causes collapse' is relevant to the arrow of time. In a time-reversed scenario, would we see an un-collapse, and is that disallowed or non-physical? This connects to the retrocausality article and the Bidirectional Interaction tenet. Key questions: (1) Does wavefunction collapse define time's arrow independently of entropy? (2) If consciousness selects outcomes at collapse, does this inherently distinguish past from future? (3) What would "un-collapse" even mean—superposition restoration? (4) Does the time-symmetry of quantum equations conflict with irreversible collapse? (5) How does this relate to the project's rejection of Many Worlds (where collapse doesn't occur)?
 - **Source**: manual
 - **Generated**: 2026-01-14
 - **Result**: Comprehensive research covering relationship between collapse and time asymmetry, time-symmetric interpretations (TSVF, transactional), Penrose OR theory and gravity-time connection, the un-collapse question, and alignment with all five tenets. Key finding: collapse does break time-reversal symmetry, and if consciousness participates in collapse, consciousness is implicated in temporal directionality itself. Strong connection to retrocausality article—time-symmetric interpretations suggest consciousness's selection may be atemporal.
@@ -3108,7 +3108,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-14: Research the knowledge argument (Mary's Room)
 - **Type**: research-topic
-- **Notes**: The knowledge argument (Frank Jackson's Mary thought experiment) is referenced repeatedly across the site—in materialism.md, explanatory-gap.md, philosophical-zombies.md, and tenets.md—but has no dedicated treatment. One of the strongest arguments for dualism. Research should cover: Jackson's original formulation, type-A and type-B physicalist responses (phenomenal concepts strategy, ability hypothesis), Jackson's own later rejection, and why the argument remains compelling despite responses.
+- **Notes**: The knowledge argument (Frank Jackson's Mary thought experiment) is referenced repeatedly across the project—in materialism.md, explanatory-gap.md, philosophical-zombies.md, and tenets.md—but has no dedicated treatment. One of the strongest arguments for dualism. Research should cover: Jackson's original formulation, type-A and type-B physicalist responses (phenomenal concepts strategy, ability hypothesis), Jackson's own later rejection, and why the argument remains compelling despite responses.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
 - **Result**: Comprehensive research covering Jackson's 1982/1986 formulation, Lewis/Nemirow ability hypothesis, phenomenal concepts strategy (Loar, Papineau), Chalmers's two-dimensional defense, Jackson's 2003 self-rejection, and 2024 developments (Alter's book). Key finding: argument strongly supports Dualism tenet; ability hypothesis widely considered inadequate; phenomenal concepts strategy faces Chalmers's master argument dilemma.
@@ -3132,7 +3132,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-15: Research near-death experiences and consciousness
 - **Type**: research-topic
-- **Notes**: Near-death experiences are mentioned in death-and-consciousness.md as empirical data relevant to survival questions, but the site lacks systematic treatment of NDE research. Key topics: veridical perception during cardiac arrest, AWARE studies, Parnia's 2024/2025 research, materialist vs dualist interpretations. Directly relevant to site's framework on consciousness independence.
+- **Notes**: Near-death experiences are mentioned in death-and-consciousness.md as empirical data relevant to survival questions, but the project lacks systematic treatment of NDE research. Key topics: veridical perception during cardiac arrest, AWARE studies, Parnia's 2024/2025 research, materialist vs dualist interpretations. Directly relevant to site's framework on consciousness independence.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-14
 - **Result**: Comprehensive research covering Van Lommel's 2001 Lancet study, AWARE II results (2023), 2022 RED terminology guidelines, gamma wave evidence (2024), veridical perception cases (Pam Reynolds, Maria's shoe), materialist explanations (ketamine, hypoxia, REM intrusion), and philosophical implications. Key finding: ~40% of cardiac arrest survivors report awareness; evidence challenges simple brain-production models but doesn't prove survival.
@@ -3180,7 +3180,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-14: Cross-review hard-problem-of-consciousness.md considering illusionism insights
 - **Type**: cross-review
-- **Notes**: New article concepts/illusionism.md covers the radical physicalist denial of phenomenal consciousness, the illusion problem, and critiques (infinite regress, Moorean argument). Review topics/hard-problem-of-consciousness.md for opportunities to reference illusionism as the strongest physicalist challenge and contrast with the site's position.
+- **Notes**: New article concepts/illusionism.md covers the radical physicalist denial of phenomenal consciousness, the illusion problem, and critiques (infinite regress, Moorean argument). Review topics/hard-problem-of-consciousness.md for opportunities to reference illusionism as the strongest physicalist challenge and contrast with the project's position.
 - **Source**: chain (from illusionism.md)
 - **Generated**: 2026-01-14
 - **Result**: Added illusionism to concepts list; expanded illusionism treatment in Materialist Responses section with Frankish/Dennett overview, the illusion problem, Tallis's infinite regress objection, and Chalmers's meta-problem dilemma; added illusionism to Further Reading

@@ -28,7 +28,7 @@ topics:
 
 ## Executive Summary
 
-The site treats attention as dissociable from consciousness and as the likely "control surface" through which consciousness influences the physical brain. This research formalizes that implicit commitment into an explicit research agenda: Which neural correlates of attention are candidates for "selection sites"? How does attention relate to competing theories (Global Workspace, IIT, predictive processing)? What would count as evidence that attention is more than computation—that it actually mediates consciousness-to-matter causation?
+the project treats attention as dissociable from consciousness and as the likely "control surface" through which consciousness influences the physical brain. This research formalizes that implicit commitment into an explicit research agenda: Which neural correlates of attention are candidates for "selection sites"? How does attention relate to competing theories (Global Workspace, IIT, predictive processing)? What would count as evidence that attention is more than computation—that it actually mediates consciousness-to-matter causation?
 
 The core hypothesis: **Attention is the mechanism by which consciousness engages causally with neural systems.** Consciousness doesn't act on matter directly but through the attention interface—what you attend to is what consciousness can influence. This explains the dissociation evidence (consciousness can exist without active attention; attention mechanisms can run without consciousness) while giving attention a unique causal role.
 
@@ -36,7 +36,7 @@ The core hypothesis: **Attention is the mechanism by which consciousness engages
 
 ### Current Site Position (Implicit)
 
-The site currently holds:
+the project currently holds:
 
 1. Consciousness and attention are distinct but closely linked
 2. Attention mechanisms can operate without consciousness (blindsight, masked priming)
@@ -130,7 +130,7 @@ If attention is the interface, where in the brain does interface occur? Research
 
 **Interface interpretation**: IIT measures what's conscious (Φ structure) but doesn't explain how attention modulates conscious content. If attention is the interface, IIT describes the conscious side; the interface hypothesis describes how consciousness engages with physical outcomes.
 
-**Tension**: IIT's panpsychist implications (any system with Φ > 0 has some consciousness) conflict with the site's dualism. But IIT's focus on posterior cortex as the seat of consciousness is compatible with attention (frontoparietal) being a separate interface mechanism.
+**Tension**: IIT's panpsychist implications (any system with Φ > 0 has some consciousness) conflict with the project's dualism. But IIT's focus on posterior cortex as the seat of consciousness is compatible with attention (frontoparietal) being a separate interface mechanism.
 
 ### Predictive Processing
 
@@ -148,7 +148,7 @@ If attention is the interface, where in the brain does interface occur? Research
 
 **Role of attention**: Central—consciousness *is* the model of attention.
 
-**Why rejected**: AST is illusionist—treats consciousness as a model rather than a fundamental feature. This conflicts with the site's [Dualism](/tenets/#dualism) tenet. AST explains access to attention states but not the phenomenal character of experience. The hard problem remains: why does modeling attention feel like anything?
+**Why rejected**: AST is illusionist—treats consciousness as a model rather than a fundamental feature. This conflicts with the project's [Dualism](/tenets/#dualism) tenet. AST explains access to attention states but not the phenomenal character of experience. The hard problem remains: why does modeling attention feel like anything?
 
 **What AST gets right**: The insight that the brain models its own attention is valuable. The rejection is of the *deflationary* conclusion, not the descriptive claim about attention modeling.
 
@@ -283,11 +283,11 @@ This research converts the implicit "attention as interface" commitment into exp
 | Falsification | What would refute the hypothesis? | Design experiments with clear predictions |
 | Theory integration | How does interface fit with GNW/IIT/PP? | Reinterpret theories as describing physical correlates, not consciousness itself |
 
-The site's framework benefits from making this research program explicit rather than leaving "attention as interface" as an implicit assumption.
+the project's framework benefits from making this research program explicit rather than leaving "attention as interface" as an implicit assumption.
 
 ## Key Insight
 
-The outer review correctly identified that attention plays a special role in the site's framework—dissociable from consciousness yet central to how consciousness acts. Formalizing this as the "interface hypothesis" clarifies what's being claimed and what evidence would support or refute it.
+The outer review correctly identified that attention plays a special role in the project's framework—dissociable from consciousness yet central to how consciousness acts. Formalizing this as the "interface hypothesis" clarifies what's being claimed and what evidence would support or refute it.
 
 The hypothesis sits at the intersection of:
 - Neuroscience (attention networks, consciousness correlates)

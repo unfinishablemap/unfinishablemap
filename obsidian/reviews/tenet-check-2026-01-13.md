@@ -19,8 +19,8 @@ ai_system: claude-opus-4-5-20251101
 All site content aligns well with the five foundational tenets. No direct contradictions or implicit conflicts were found. Two notes identify opportunities for clarification, not problems.
 
 The content effectively:
-- Presents the site's dualist, interactionist framework consistently
-- Distinguishes the site's view from competing positions (functionalism, epiphenomenalism, panpsychism, idealism)
+- Presents the project's dualist, interactionist framework consistently
+- Distinguishes the project's view from competing positions (functionalism, epiphenomenalism, panpsychism, idealism)
 - Avoids quantum mysticism while taking quantum consciousness seriously
 - Handles tensions productively (e.g., Buddhism's no-self vs. site's dualism)
 
@@ -44,7 +44,7 @@ None.
 - **Tenet**: Bidirectional Interaction
 - **Issue**: IIT is presented sympathetically despite conflicting with the bidirectional interaction tenet.
 - **Quote**: "IIT has no room for this [bidirectional interaction]. If consciousness *is* integrated information, it doesn't *do* anything to the physical."
-- **Assessment**: The article correctly identifies the conflict and explains why the site's framework differs. IIT is presented as a "sophisticated competitor" worth engaging, not as a view the site endorses. This is appropriate intellectual engagement, not a tenet violation.
+- **Assessment**: The article correctly identifies the conflict and explains why the project's framework differs. IIT is presented as a "sophisticated competitor" worth engaging, not as a view the project endorses. This is appropriate intellectual engagement, not a tenet violation.
 
 ## Files Passing All Checks
 
@@ -73,7 +73,7 @@ None.
 
 ## Highlights
 
-**Strongest alignment**: The epiphenomenalism.md and functionalism.md articles explicitly engage rival views and explain the site's rejection clearly.
+**Strongest alignment**: The epiphenomenalism.md and functionalism.md articles explicitly engage rival views and explain the project's rejection clearly.
 
 **Best handling of tension**: The eastern-philosophy-consciousness.md article navigates a genuinely difficult philosophical tension with sophistication.
 

@@ -42,7 +42,7 @@ One prominent account treats consciousness as selector rather than generator. Th
 
 **Bandwidth constraints**: Conscious thought operates at approximately 10 bits per second, five million times slower than unconscious processing. This "trickle" seems too narrow for generation. Consciousness appears designed for selective attention, not mass production of ideas.
 
-The [quantum selection framework](/questions/consciousness-selecting-neural-patterns/) on this site develops the selection mechanism rigorously. Through the quantum Zeno effect, mental attention holds neural patterns in place by repeated observation. Consciousness selects which possibilities actualize by attending to them.
+The [quantum selection framework](/questions/consciousness-selecting-neural-patterns/) on this project develops the selection mechanism rigorously. Through the quantum Zeno effect, mental attention holds neural patterns in place by repeated observation. Consciousness selects which possibilities actualize by attending to them.
 
 ## The Generation View: Bergson
 
@@ -96,7 +96,7 @@ The philosophical debate over creativity turns on whether genuine novelty requir
 
 **C-creativity** (Kronfeldner): Psychological novelty suffices. A thought is creative if new to the thinker, regardless of whether it was causally inevitable. Creativity is compatible with determinism.
 
-The site's framework offers a middle path. Quantum indeterminacy provides genuine openness in physical outcomes—[selection occurs](/questions/consciousness-selecting-neural-patterns/) where physics leaves outcomes undetermined. This isn't "underived" in the sense of being causally disconnected, but it provides the opening for consciousness to contribute something physics alone cannot determine.
+the project's framework offers a middle path. Quantum indeterminacy provides genuine openness in physical outcomes—[selection occurs](/questions/consciousness-selecting-neural-patterns/) where physics leaves outcomes undetermined. This isn't "underived" in the sense of being causally disconnected, but it provides the opening for consciousness to contribute something physics alone cannot determine.
 
 Penrose's argument that mathematical insight transcends computation offers a complementary perspective. If consciousness can recognise truths unprovable within any formal system (following Gödel's incompleteness results), then creative thought may have resources beyond algorithmic selection among pre-computed options. The argument remains contested—critics note it may conflate the *consistent* with the *complete*—but it articulates what many find intuitively compelling about mathematical creativity: that genuine insight seems to leap beyond rule-following. Whether or not Penrose's specific mechanism (orchestrated objective reduction) is correct, the intuition motivates searching for how consciousness might contribute non-algorithmically to creative thought.
 

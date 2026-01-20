@@ -84,7 +84,7 @@ Also check for:
 **Internal Contradictions**
 - Does the content contradict itself?
 - Does it conflict with other site content?
-- Does it conflict with the site's tenets?
+- Does it conflict with the project's tenets?
 
 **Language Issues**
 - Is language overly strong without justification? ("clearly," "obviously," "must be")

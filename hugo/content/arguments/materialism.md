@@ -89,7 +89,7 @@ This is deeply strange. When you say "I am having a red experience," what makes 
 
 Chalmers puts it this way: "The very fact that we discuss consciousness proves it is not epiphenomenal. An epiphenomenon—causally inert by definition—could not influence the neurons that move our mouths or type our words. Yet here we are, talking about qualia. The conversation itself is evidence of downward causation."
 
-This is a serious problem for the materialist. If consciousness is physical, the zombie is not conceivable. If consciousness is non-physical but epiphenomenal, we could not talk about it. If consciousness is non-physical and causally relevant, materialism is false and we need a mechanism for mental causation. The site's tenets take this third option seriously.
+This is a serious problem for the materialist. If consciousness is physical, the zombie is not conceivable. If consciousness is non-physical but epiphenomenal, we could not talk about it. If consciousness is non-physical and causally relevant, materialism is false and we need a mechanism for mental causation. the project's tenets take this third option seriously.
 
 ## Quantum Mechanics Is Not Causally Closed
 
@@ -147,7 +147,7 @@ Second, the relevant simplicity is not ontological but explanatory. A theory is 
 
 Third, we are in no position to judge simplicity when we don't understand the domain. Consciousness is the one thing we know most directly, yet we have no theory of it. Our concepts may be inadequate. Our intuitions about what is "simple" may reflect ignorance rather than insight. The apparent simplicity of materialism may be the simplicity of not having a theory—the simplicity of looking where the light is good rather than where the keys were lost.
 
-The site's tenets state it directly: "Dismissing dualism because materialism seems 'simpler' assumes we understand enough to judge simplicity. We may not. The apparent simplicity of physicalism could reflect ignorance rather than insight."
+the project's tenets state it directly: "Dismissing dualism because materialism seems 'simpler' assumes we understand enough to judge simplicity. We may not. The apparent simplicity of physicalism could reflect ignorance rather than insight."
 
 ## Conclusion
 
@@ -155,4 +155,4 @@ Materialism fails to account for consciousness. The hard problem shows that phys
 
 None of this proves dualism. What it shows is that materialism—in all its forms—does not work. The most certain fact we have, the fact of our own experience, remains unexplained by the materialist worldview. If we take consciousness seriously, we must look elsewhere.
 
-The tenets of this site take consciousness seriously. They commit to dualism not as a dogma but as a working hypothesis: that consciousness is not reducible to physical processes, that it causally influences the brain at the quantum level, and that the measurement problem provides the interface where mind and matter meet. These claims are speculative but coherent, and they respect what materialism dismisses—the reality of experience.
+The tenets of this project take consciousness seriously. They commit to dualism not as a dogma but as a working hypothesis: that consciousness is not reducible to physical processes, that it causally influences the brain at the quantum level, and that the measurement problem provides the interface where mind and matter meet. These claims are speculative but coherent, and they respect what materialism dismisses—the reality of experience.

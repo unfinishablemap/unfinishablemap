@@ -25,7 +25,7 @@ last_curated: null
 last_deep_review: 2026-01-19T21:00:00+00:00
 ---
 
-The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James called this "the most peculiar puzzle" of the mind-dust theory, and it remains unsolved. This site's [[interactionist-dualism|interactionist framework]] avoids the problem entirely by denying that matter has micro-experiences in the first place.
+The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James called this "the most peculiar puzzle" of the mind-dust theory, and it remains unsolved. this project's [[interactionist-dualism|interactionist framework]] avoids the problem entirely by denying that matter has micro-experiences in the first place.
 
 ## The Problem Stated
 
@@ -119,13 +119,13 @@ Chalmers acknowledges this: "The combination problem is perhaps the hardest prob
 
 The structurally similar challenge at a different level suggests that the gap between physical and phenomenal may be irreducible—whether we posit consciousness at the bottom or not.
 
-## This Site's Alternative
+## this project's Alternative
 
-The site's [[interactionist-dualism|interactionist framework]] avoids the combination problem entirely.
+the project's [[interactionist-dualism|interactionist framework]] avoids the combination problem entirely.
 
 On this view, matter does not have micro-experiences. Consciousness is not ubiquitous but *distinct*—a separate ontological category that interacts with matter rather than constituting it. There's no need to explain how micro-experiences combine because there are no micro-experiences.
 
-Instead of combination, the site posits *interaction*. Consciousness interfaces with the brain at [[quantum-consciousness|quantum indeterminacies]], biasing otherwise undetermined outcomes. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies the locus; the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet affirms the causal relation.
+Instead of combination, the project posits *interaction*. Consciousness interfaces with the brain at [[quantum-consciousness|quantum indeterminacies]], biasing otherwise undetermined outcomes. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies the locus; the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet affirms the causal relation.
 
 ### Comparing the Problems
 
@@ -152,7 +152,7 @@ The interactionist framework generates specific predictions testable by current 
 
 ## What Panpsychism Gets Right
 
-Despite rejecting panpsychism's solution, the site affirms its core insights:
+Despite rejecting panpsychism's solution, the project affirms its core insights:
 
 1. **Consciousness is fundamental**: Not a late emergence but a basic feature of reality (the [[tenets#^dualism|Dualism]] tenet).
 
@@ -162,17 +162,17 @@ Despite rejecting panpsychism's solution, the site affirms its core insights:
 
 The disagreement is about *how* consciousness is fundamental—as the intrinsic nature of all matter (panpsychism), or as a distinct category that interacts with matter (interactionism).
 
-## Relation to This Site's Perspective
+## Relation to this project's Perspective
 
-The combination problem strengthens the case for the site's framework:
+The combination problem strengthens the case for the project's framework:
 
 **Dualism**: If both physicalism (hard problem) and panpsychism (combination problem) face intractable challenges, interactionist dualism may offer a cleaner ontology.
 
-**Minimal Quantum Interaction**: The site's mechanism avoids combination entirely. Consciousness doesn't arise from parts—it interfaces with matter at a specifiable level.
+**Minimal Quantum Interaction**: the project's mechanism avoids combination entirely. Consciousness doesn't arise from parts—it interfaces with matter at a specifiable level.
 
 **Occam's Razor Has Limits**: The combination problem exemplifies the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. Panpsychism seemed simpler than dualism (one kind of stuff), but its combination problem proves no less difficult than dualism's interaction problem.
 
-The combination problem is not an argument *for* the site's framework, but it shows that alternatives face challenges at least as severe. Interactionism's problems may be empirical and tractable; panpsychism's may be conceptual and permanent.
+The combination problem is not an argument *for* the project's framework, but it shows that alternatives face challenges at least as severe. Interactionism's problems may be empirical and tractable; panpsychism's may be conceptual and permanent.
 
 ## Further Reading
 
@@ -184,7 +184,7 @@ The combination problem is not an argument *for* the site's framework, but it sh
 - [[interactionist-dualism]] — The alternative avoiding the problem
 - [[hard-problem-of-consciousness]] — The problem panpsychism aimed to solve
 - [[qualia]] — What must combine (or not)
-- [[tenets]] — The site's foundational commitments
+- [[tenets]] — the project's foundational commitments
 
 ## References
 

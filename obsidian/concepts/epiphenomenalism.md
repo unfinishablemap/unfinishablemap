@@ -29,7 +29,7 @@ last_deep_review: 2026-01-19T15:30:00+00:00
 
 Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing, not even our reports about it. Your experience of pain does not cause you to wince; rather, the brain states that produce the wince also happen to produce pain experience as a side effect. Consciousness, on this view, is steam rising from a locomotive: produced by the engine but playing no role in moving the train.
 
-As the foundational [[dualism]] article explains, dualists face a choice between three positions on mind-body relation: [[interactionist-dualism|interactionism]] (mind and body causally interact), epiphenomenalism (body affects mind but not vice versa), and parallelism (no causal connection). This site's [[tenets]] explicitly reject epiphenomenalism. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes. Understanding why epiphenomenalism is wrong—and why it remains tempting—clarifies what the site affirms.
+As the foundational [[dualism]] article explains, dualists face a choice between three positions on mind-body relation: [[interactionist-dualism|interactionism]] (mind and body causally interact), epiphenomenalism (body affects mind but not vice versa), and parallelism (no causal connection). this project's [[tenets]] explicitly reject epiphenomenalism. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes. Understanding why epiphenomenalism is wrong—and why it remains tempting—clarifies what the project affirms.
 
 ## The View
 
@@ -61,7 +61,7 @@ The [[causal-closure|causal closure of physics]] provides the main motivation fo
 
 The first premise—causal closure—claims that physics is complete. You don't need to invoke anything non-physical to explain physical events; the physical story is sufficient by itself. If this is true, what room is there for consciousness to do anything?
 
-Epiphenomenalists accept the argument and draw the epiphenomenalist horn of the dilemma. Materialists reject premise 2. This site rejects premise 1—the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that consciousness influences quantum outcomes that physics leaves undetermined. At quantum indeterminacies, physics provides *necessary* but not *sufficient* causes, leaving room for mental causation without exclusion.
+Epiphenomenalists accept the argument and draw the epiphenomenalist horn of the dilemma. Materialists reject premise 2. this project rejects premise 1—the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that consciousness influences quantum outcomes that physics leaves undetermined. At quantum indeterminacies, physics provides *necessary* but not *sufficient* causes, leaving room for mental causation without exclusion.
 
 ### The Explanatory Gap
 
@@ -84,7 +84,7 @@ The problem generalizes. If epiphenomenalism is true, then:
 - Your experiences don't cause your reports about your experiences
 - Your conclusion that epiphenomenalism is true is causally disconnected from any mental evidence
 
-As the site's tenets put it:
+As the project's tenets put it:
 
 > If consciousness were truly epiphenomenal, then our beliefs *about* consciousness would be causally disconnected from our actual conscious states. Our reports about the redness of red or the painfulness of pain would be produced by brain states that have no causal connection to the experiences themselves.
 
@@ -102,21 +102,21 @@ But this leaves unexplained why consciousness *tracks* adaptive features. It wou
 
 The [[evolution-of-consciousness|phylogenetic evidence]] sharpens this problem. Consciousness appears widely distributed across the animal kingdom—mammals, birds, cephalopods, perhaps even [[minimal-consciousness|organisms with just a few hundred neurons]]. The tracking is remarkably precise: across vastly different lineages, consciousness accompanies exactly those neural structures associated with adaptive, flexible behaviour. The epiphenomenalist must explain this as cosmic coincidence. The interactionist explanation is simpler: consciousness is distributed where it is because it *does* something—it guides behaviour toward survival.
 
-## Relation to This Site's Perspective
+## Relation to this project's Perspective
 
-This site holds that consciousness is real, irreducible to physics, and causally efficacious. Epiphenomenalism denies the third claim while accepting the first two—making it the site's most direct rival on the causation question.
+this project holds that consciousness is real, irreducible to physics, and causally efficacious. Epiphenomenalism denies the third claim while accepting the first two—making it the project's most direct rival on the causation question.
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet asserts that "consciousness selects among superposed neural states, collapsing quantum indeterminacy." This is precisely what epiphenomenalism denies.
 
-The site's response to epiphenomenalism centers on the self-stultification argument. If we can introspectively report on our experiences—and our reports are roughly accurate—then experiences must cause reports. This requires mental→physical causation, which epiphenomenalism denies.
+the project's response to epiphenomenalism centers on the self-stultification argument. If we can introspectively report on our experiences—and our reports are roughly accurate—then experiences must cause reports. This requires mental→physical causation, which epiphenomenalism denies.
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet provides a mechanism: consciousness acts at points of quantum indeterminacy, where physics leaves outcomes undetermined. This respects a *qualified* version of causal closure—physics is complete for determined events—while making room for mental causation at undetermined points.
 
-The site's [[agent-causation]] framework strengthens this response. Epiphenomenalism treats consciousness as passive—receiving causal influences but originating none. Agent causation treats the conscious agent as an irreducible source of causation, not merely a link in causal chains. When I deliberate and choose, it is *I*—the conscious agent—who causes the outcome, not merely antecedent brain states that "also" produce consciousness. The [[luck-objection|luck objection]] to libertarian free will shows why this distinction matters: without genuine agent causation, indeterministic choices would be arbitrary; with it, they are authored.
+the project's [[agent-causation]] framework strengthens this response. Epiphenomenalism treats consciousness as passive—receiving causal influences but originating none. Agent causation treats the conscious agent as an irreducible source of causation, not merely a link in causal chains. When I deliberate and choose, it is *I*—the conscious agent—who causes the outcome, not merely antecedent brain states that "also" produce consciousness. The [[luck-objection|luck objection]] to libertarian free will shows why this distinction matters: without genuine agent causation, indeterministic choices would be arbitrary; with it, they are authored.
 
 ## Responses to Epiphenomenalism
 
-### From Interactionism (This Site)
+### From Interactionism (this project)
 
 Consciousness does cause things—but at the quantum level, where its influence is indistinguishable from randomness and doesn't violate physical law. The self-stultification problem shows consciousness must be causally connected to our reports; quantum mechanics shows where such connection could occur.
 
@@ -136,7 +136,7 @@ Consciousness is fundamental and ubiquitous, so it cannot be epiphenomenal—it'
 
 Epiphenomenalism is a coherent view that solves some problems (no mysterious mental→physical causation) while creating others (self-stultification, evolutionary mystery). Its plausibility depends entirely on accepting strong causal closure of physics.
 
-If you believe physics is complete—that every physical event has a sufficient physical cause—then you're pushed toward either identity theory (consciousness *is* physical) or epiphenomenalism (consciousness causes nothing). The site rejects this dichotomy by rejecting strong closure: physics is not complete at quantum indeterminacies, and that's where consciousness acts.
+If you believe physics is complete—that every physical event has a sufficient physical cause—then you're pushed toward either identity theory (consciousness *is* physical) or epiphenomenalism (consciousness causes nothing). the project rejects this dichotomy by rejecting strong closure: physics is not complete at quantum indeterminacies, and that's where consciousness acts.
 
 The self-stultification problem remains the decisive objection. If epiphenomenalism is true, no one can rationally believe it—because their belief wouldn't be caused by the evidence. This doesn't prove epiphenomenalism false, but it shows that anyone who claims to believe it on the basis of evidence must be wrong about something.
 
@@ -148,8 +148,8 @@ The self-stultification problem remains the decisive objection. If epiphenomenal
 - [[dualism]] — The foundational framework; epiphenomenalism is one of three dualist positions on mind-body interaction
 - [[mental-causation]] — The problem epiphenomenalism claims to solve
 - [[causal-closure]] — The principle that motivates epiphenomenalism
-- [[interactionist-dualism]] — The site's alternative framework
-- [[tenets]] — The site's foundational commitments against epiphenomenalism
+- [[interactionist-dualism]] — the project's alternative framework
+- [[tenets]] — the project's foundational commitments against epiphenomenalism
 - [[hard-problem-of-consciousness]] — The context for debates about consciousness
 - [[minimal-consciousness]] — Evidence of consciousness in simple organisms; challenges the tracking coincidence
 - [[epiphenomenalism-2026-01-08]] — Detailed research notes

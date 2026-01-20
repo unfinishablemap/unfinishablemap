@@ -25,7 +25,7 @@ last_curated: null
 
 ### Critical Issues Found
 - **Illusionism section too dismissive**: The original treatment didn't engage seriously with Dennett's heterophenomenological method or the sophisticated version of the position. Resolution: Expanded section with Dennett's actual methodology and added the regress objection with explicit argument structure.
-- **Missing falsifiability section**: The article presented the site's position without acknowledging what evidence could count against it. Resolution: Added "What Would Challenge This View?" section with five specific falsification conditions.
+- **Missing falsifiability section**: The article presented the project's position without acknowledging what evidence could count against it. Resolution: Added "What Would Challenge This View?" section with five specific falsification conditions.
 
 ### Medium Issues Found
 - **Missing No Many Worlds tenet connection**: The Relation to Site Perspective section covered only four of five tenets. Resolution: Added explicit discussion of how MWI relates to materialism and why it doesn't rescue physicalism from the hard problem.
@@ -35,7 +35,7 @@ last_curated: null
 ### Counterarguments Considered
 - **Dennett's heterophenomenology**: Addressed by presenting the method fairly before offering the regress objection.
 - **MWI eliminates need for consciousness at collapse**: Addressed by showing the indexical problem merely relocates rather than solves the hard problem.
-- **Cognitive closure alternative**: Presented McGinn's view as deserving serious consideration while explaining why the site takes the explanatory gap as evidence against materialism rather than as cognitive limitation.
+- **Cognitive closure alternative**: Presented McGinn's view as deserving serious consideration while explaining why the project takes the explanatory gap as evidence against materialism rather than as cognitive limitation.
 
 ## Optimistic Analysis Summary
 

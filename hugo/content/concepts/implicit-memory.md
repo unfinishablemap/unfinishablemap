@@ -30,7 +30,7 @@ topics:
 
 When you ride a bicycle, tie your shoes, or type on a keyboard, you act without reflective awareness. The skill executes smoothly; you don't observe yourself executing it. You don't mentally replay the lessons where you learned, nor do you consciously retrieve rules about pedal pressure or keystroke sequences. The knowledge is simply expressed in fluent action. This is implicit memory—knowledge that shows in performance rather than conscious recollection.
 
-Implicit memory matters for the site's framework because it reveals consciousness as an *interface* that can delegate to procedural systems. Endel Tulving associated implicit memory with *anoetic consciousness*: awareness without self-knowledge, action without reflection. Crucially, when consciousness forcibly re-engages with automatized skills—when you attend to your typing or think about your footwork—performance typically *degrades*. This "choking under pressure" phenomenon provides direct evidence for [bidirectional interaction](/concepts/mental-causation/): consciousness causally affects procedural execution, sometimes disruptively. If consciousness were epiphenomenal, attending to skills couldn't interfere with them.
+Implicit memory matters for the project's framework because it reveals consciousness as an *interface* that can delegate to procedural systems. Endel Tulving associated implicit memory with *anoetic consciousness*: awareness without self-knowledge, action without reflection. Crucially, when consciousness forcibly re-engages with automatized skills—when you attend to your typing or think about your footwork—performance typically *degrades*. This "choking under pressure" phenomenon provides direct evidence for [bidirectional interaction](/concepts/mental-causation/): consciousness causally affects procedural execution, sometimes disruptively. If consciousness were epiphenomenal, attending to skills couldn't interfere with them.
 
 ## Tulving's Anoetic Consciousness
 
@@ -102,7 +102,7 @@ Merleau-Ponty wrote that body memory is "an impressive refutation of the dualism
 
 ### The Interface Response
 
-The site's framework accommodates this insight without abandoning dualism. The point isn't that consciousness floats free of the body—clearly it doesn't. The point is that consciousness *interfaces* with bodily systems at specific sites and can modulate their operation.
+the project's framework accommodates this insight without abandoning dualism. The point isn't that consciousness floats free of the body—clearly it doesn't. The point is that consciousness *interfaces* with bodily systems at specific sites and can modulate their operation.
 
 Body memory reveals *where* the interface operates, not that consciousness is identical to the body. The expert's embodied skill represents successful delegation: consciousness has calibrated the procedural system and now need not intervene. But the retention of override capacity—shown precisely by choking when attention re-engages—reveals the interface remains operative.
 
@@ -120,7 +120,7 @@ A deeper question: does implicit learning occur without *any* form of awareness?
 
 ### The Interpretation
 
-Some interpret this as evidence for genuinely unconscious cognition—processing without any experiential dimension. But the site's framework, following Tulving, suggests caution. "Implicit" may describe *access* rather than *phenomenology*. The learning may involve anoetic consciousness—experiential but non-reflective—rather than no experience at all.
+Some interpret this as evidence for genuinely unconscious cognition—processing without any experiential dimension. But the project's framework, following Tulving, suggests caution. "Implicit" may describe *access* rather than *phenomenology*. The learning may involve anoetic consciousness—experiential but non-reflective—rather than no experience at all.
 
 The distinction matters. If implicit learning has phenomenal character, however unreflective, then consciousness pervades cognition more deeply than functionalist accounts suggest. There may be no purely computational cognitive processing—every operation occurs within some experiential mode, even if not the self-aware mode we ordinarily call "conscious."
 

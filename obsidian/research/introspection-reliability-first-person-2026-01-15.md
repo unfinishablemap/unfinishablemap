@@ -13,7 +13,7 @@ ai_system: claude-opus-4-5-20251101
 
 ## Executive Summary
 
-The reliability of introspection is hotly contested. Nisbett and Wilson's classic 1977 study argues we have no access to the *causes* of our behavior—only to our current mental *contents*. Choice blindness experiments (Johansson) show people confabulate explanations for decisions they never made. Schwitzgebel argues introspection is unreliable across many domains. However, research on trained meditators (Fox et al. 2012) shows meditation experience predicts introspective accuracy with a logarithmic learning curve. Microphenomenology (Petitmengin) provides rigorous interview techniques that minimize confabulation. The debate illuminates a crucial distinction: introspection may fail for causal processes while succeeding for current phenomenal states, and training may dramatically improve reliability. This matters for the site's framework because it relies heavily on first-person phenomenological evidence.
+The reliability of introspection is hotly contested. Nisbett and Wilson's classic 1977 study argues we have no access to the *causes* of our behavior—only to our current mental *contents*. Choice blindness experiments (Johansson) show people confabulate explanations for decisions they never made. Schwitzgebel argues introspection is unreliable across many domains. However, research on trained meditators (Fox et al. 2012) shows meditation experience predicts introspective accuracy with a logarithmic learning curve. Microphenomenology (Petitmengin) provides rigorous interview techniques that minimize confabulation. The debate illuminates a crucial distinction: introspection may fail for causal processes while succeeding for current phenomenal states, and training may dramatically improve reliability. This matters for the project's framework because it relies heavily on first-person phenomenological evidence.
 
 ## Key Sources
 
@@ -211,12 +211,12 @@ Based on this research, an article could:
 
 1. **"The Reliability of Introspection"** - Comprehensive concept page covering the debate. Would strengthen phenomenology.md by addressing the key objection. Aligns with Occam's Razor Has Limits (dismissing introspection may be premature) and Dualism (first-person data are irreducible).
 
-2. **"Training and First-Person Methods"** - Focus on how contemplative training improves introspective accuracy. Would connect to neurophenomenology.md and eastern-philosophy-consciousness.md. Emphasizes that the site's reliance on phenomenological evidence is methodologically defensible when properly conducted.
+2. **"Training and First-Person Methods"** - Focus on how contemplative training improves introspective accuracy. Would connect to neurophenomenology.md and eastern-philosophy-consciousness.md. Emphasizes that the project's reliance on phenomenological evidence is methodologically defensible when properly conducted.
 
 Key insights for any article:
 - The Nisbett/Wilson critique targets *process* access, not *qualia* or *phenomenal content*
 - Choice blindness involves *decision justification*, not *current experience*
-- The site's claims about consciousness (qualia, hard problem) concern phenomenal states, not causal processes
+- the project's claims about consciousness (qualia, hard problem) concern phenomenal states, not causal processes
 - Training effects suggest introspection is improvable, not fundamentally broken
 - Microphenomenology provides specific techniques to improve reliability
 - Critical phenomenology (Velmans/Chalmers) offers reasonable middle ground
@@ -231,15 +231,15 @@ Key insights for any article:
 
 ## Relation to Site Framework
 
-This research is directly relevant to the site's methodology. Key conclusions:
+This research is directly relevant to the project's methodology. Key conclusions:
 
-**For the Dualism tenet**: The critique of introspection targets causal process access, not phenomenal qualities. The site's claims about qualia, the hard problem, and the irreducibility of experience concern *what it is like* to have conscious states—precisely the domain where even skeptics (Wilson) acknowledge introspection has some access. The phenomenal/causal distinction protects the site's core arguments.
+**For the Dualism tenet**: The critique of introspection targets causal process access, not phenomenal qualities. the project's claims about qualia, the hard problem, and the irreducibility of experience concern *what it is like* to have conscious states—precisely the domain where even skeptics (Wilson) acknowledge introspection has some access. The phenomenal/causal distinction protects the project's core arguments.
 
 **For Occam's Razor Has Limits**: Dismissing two millennia of contemplative investigation as "merely subjective" may reflect methodological blindness rather than parsimony. The training effects literature suggests that apparent unreliability reflects *untrained* introspection. Properly conducted first-person investigation may reveal genuine features of consciousness invisible to third-person methods.
 
 **For Bidirectional Interaction**: The debate about whether introspection modifies its target (Prinz, Comte objection) is relevant. If attention affects experience, this supports rather than undermines the idea that consciousness has causal efficacy. The "contamination" worry becomes evidence for bidirectional interaction.
 
-**Recommended framing**: The site should acknowledge introspective limitations while maintaining that:
+**Recommended framing**: the project should acknowledge introspective limitations while maintaining that:
 1. Phenomenal content access is more reliable than process access
 2. Training improves reliability
 3. Rigorous methods (microphenomenology, epoché) address known failure modes

@@ -124,7 +124,7 @@ Some philosophers have interpreted split-brain cases as supporting dualist views
 
 ### Relevance to No Many Worlds Tenet
 
-The site's commitment to indexical identity (rejecting Many Worlds' multiplication of subjects) must grapple with apparent evidence that subjects can divide within a single body. Two possible responses:
+the project's commitment to indexical identity (rejecting Many Worlds' multiplication of subjects) must grapple with apparent evidence that subjects can divide within a single body. Two possible responses:
 
 1. **Unity view**: Consciousness remains fundamentally unified despite perceptual division; split-brain doesn't create multiple subjects
 2. **Principled division**: Even if division occurs, it differs from branching because the two streams share causal history and remain in one physical world

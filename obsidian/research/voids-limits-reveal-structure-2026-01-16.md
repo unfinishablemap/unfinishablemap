@@ -36,7 +36,7 @@ last_curated: null
 
 ## Executive Summary
 
-This research explores a profound inversion: instead of treating cognitive limits as obstacles to overcome, philosophers from Kant through Chomsky have argued that the *shape* of our limitations reveals the *structure* of our minds. Chomsky's problems/mysteries distinction, McGinn's cognitive closure, Nagel's "view from nowhere" tensions, and evolutionary epistemology all converge on a single insight—that what we *cannot* think is as informative about our cognitive architecture as what we *can* think. For the site's voids framework, this suggests a methodological opportunity: mapping the contours of unthinkable territory may illuminate what kind of beings we are.
+This research explores a profound inversion: instead of treating cognitive limits as obstacles to overcome, philosophers from Kant through Chomsky have argued that the *shape* of our limitations reveals the *structure* of our minds. Chomsky's problems/mysteries distinction, McGinn's cognitive closure, Nagel's "view from nowhere" tensions, and evolutionary epistemology all converge on a single insight—that what we *cannot* think is as informative about our cognitive architecture as what we *can* think. For the project's voids framework, this suggests a methodological opportunity: mapping the contours of unthinkable territory may illuminate what kind of beings we are.
 
 ## Key Sources
 
@@ -103,7 +103,7 @@ This research explores a profound inversion: instead of treating cognitive limit
   - Brain "fills in" the blind spot—we don't perceive the gap
   - Husserl: "Life-world" of experience is the "grounding soil" of science
   - Crisis comes from "forgetting its primacy"
-- **Tenet alignment**: Supports the site's emphasis on first-person perspective
+- **Tenet alignment**: Supports the project's emphasis on first-person perspective
 - **Quote**: "Just as our brain provides us with the illusion that there is no visual blind spot, so our rational intelligence hides the blind spot."
 
 ## The Void

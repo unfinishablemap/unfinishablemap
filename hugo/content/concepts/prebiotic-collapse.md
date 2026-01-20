@@ -30,7 +30,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-If consciousness participates in quantum collapse, what determined outcomes before conscious observers existed? Star formation, chemical reactions, genetic mutations—all required definite quantum outcomes billions of years before the first mind. This "prebiotic collapse" problem challenges any framework linking consciousness to measurement. The site's resolution separates two claims: collapse is real (per the [No Many Worlds](/tenets/#no-many-worlds) tenet), but consciousness doesn't *cause* collapse universally—it *interfaces* with collapse in neural systems. Objective reduction provides the baseline; consciousness modulates rather than initiates.
+If consciousness participates in quantum collapse, what determined outcomes before conscious observers existed? Star formation, chemical reactions, genetic mutations—all required definite quantum outcomes billions of years before the first mind. This "prebiotic collapse" problem challenges any framework linking consciousness to measurement. the project's resolution separates two claims: collapse is real (per the [No Many Worlds](/tenets/#no-many-worlds) tenet), but consciousness doesn't *cause* collapse universally—it *interfaces* with collapse in neural systems. Objective reduction provides the baseline; consciousness modulates rather than initiates.
 
 This approach preserves prebiotic cosmology while maintaining the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness affects physical outcomes in brains, without requiring cosmic consciousness for early-universe selection.
 
@@ -44,7 +44,7 @@ These are distinct problems:
 
 - **[Phylogenetic emergence](/concepts/evolution-of-consciousness/)** concerns which organisms in the tree of life are conscious. Did consciousness appear gradually as nervous systems developed? At a threshold? Was it present from the first cells? This question operates within an already-collapsing physics—objective reduction handles the cosmological timeline—and asks where consciousness began to *interface* with that collapse.
 
-The site's framework separates these cleanly. Objective reduction solves prebiotic collapse regardless of when biological consciousness emerged. The evolution of consciousness then becomes the question of when organisms developed neural architectures suitable for consciousness-collapse interfacing—not when collapse itself began to produce definite outcomes.
+the project's framework separates these cleanly. Objective reduction solves prebiotic collapse regardless of when biological consciousness emerged. The evolution of consciousness then becomes the question of when organisms developed neural architectures suitable for consciousness-collapse interfacing—not when collapse itself began to produce definite outcomes.
 
 ## The Problem Stated
 
@@ -66,7 +66,7 @@ John Archibald Wheeler proposed the most radical solution: the universe *did* re
 
 Delayed-choice experiments confirm that measurement choices made *after* a photon's path determine its earlier behavior. Wheeler extended this cosmologically: the universe exists as a quantum superposition of possible histories, with conscious observation selecting which history becomes actual—not moment by moment, but across the entire temporal span.
 
-This resonates with the site's [retrocausality](/concepts/retrocausality/) framework but extends further. Wheeler later softened his position, acknowledging "ordinary matter and radiation play the dominant roles." The participatory universe remains philosophically coherent but highly speculative.
+This resonates with the project's [retrocausality](/concepts/retrocausality/) framework but extends further. Wheeler later softened his position, acknowledging "ordinary matter and radiation play the dominant roles." The participatory universe remains philosophically coherent but highly speculative.
 
 ### 2. Panpsychism and Proto-Experience
 
@@ -88,7 +88,7 @@ Under this view, consciousness doesn't cause collapse; it *emerges from* or *int
 
 The mainstream physics response denies that collapse is a real process requiring explanation. [Decoherence](/concepts/decoherence/)—the spreading of quantum coherence into environmental degrees of freedom—explains why macroscopic objects don't exhibit superposition. Collapse is apparent, not fundamental.
 
-But decoherence alone doesn't solve the [measurement problem](/concepts/measurement-problem/). As a 2025 comprehensive review notes: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Decoherence paired with Many Worlds claims no selection happens—all outcomes occur. But the site's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects this, leaving the question of what selects outcomes unanswered.
+But decoherence alone doesn't solve the [measurement problem](/concepts/measurement-problem/). As a 2025 comprehensive review notes: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Decoherence paired with Many Worlds claims no selection happens—all outcomes occur. But the project's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects this, leaving the question of what selects outcomes unanswered.
 
 ### 5. The Many-Worlds Dissolution
 
@@ -96,11 +96,11 @@ The [Many-Worlds Interpretation](/arguments/many-worlds/) claims to dissolve the
 
 This is not a solution but a different problem. MWI trades the prebiotic collapse question for the [indexical identity question](/concepts/haecceity/): why am I *this* observer in *this* branch? If all branches are equally real and all observers equally exist, the question of "which outcome" merely relocates to "which me." The explanatory burden shifts from physics to metaphysics without genuine progress.
 
-Moreover, MWI eliminates the causal role for consciousness entirely. The site holds that consciousness participates in determining physical outcomes—that [mental-causation](/concepts/mental-causation/) is real. MWI explicitly denies this: outcomes occur regardless of consciousness; the appearance of selection is illusion. Far from solving the prebiotic problem, MWI dissolves the framework within which consciousness matters at all.
+Moreover, MWI eliminates the causal role for consciousness entirely. the project holds that consciousness participates in determining physical outcomes—that [mental-causation](/concepts/mental-causation/) is real. MWI explicitly denies this: outcomes occur regardless of consciousness; the appearance of selection is illusion. Far from solving the prebiotic problem, MWI dissolves the framework within which consciousness matters at all.
 
-## The Site's Position: Objective Reduction with Consciousness Modulation
+## the project's Position: Objective Reduction with Consciousness Modulation
 
-The site separates two claims that often get conflated:
+the project separates two claims that often get conflated:
 
 1. **Collapse is real.** Quantum measurement produces definite outcomes; the universe has a single actual history, not an eternal superposition of all possibilities. (This is the No Many Worlds commitment.)
 
@@ -146,7 +146,7 @@ This preserves:
 
 [Illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is itself an introspective illusion—might seem to dissolve the prebiotic problem from a different direction. If there is no "real" consciousness, only functional processes that misrepresent themselves as experiential, then there's nothing non-physical to participate in collapse. The problem assumes consciousness is real; illusionism denies the premise.
 
-The site rejects illusionism for reasons detailed on its [dedicated page](/concepts/illusionism/), but the response here is specific: **the illusion problem compounds the prebiotic challenge rather than dissolving it**.
+the project rejects illusionism for reasons detailed on its [dedicated page](/concepts/illusionism/), but the response here is specific: **the illusion problem compounds the prebiotic challenge rather than dissolving it**.
 
 If consciousness is an illusion, something must generate that illusion. On illusionist accounts, neural processes produce systematic misrepresentations that seem phenomenal. But this explanation itself requires collapse during the prebiotic era—the neural systems that generate the illusion evolved through quantum events (mutations, molecular interactions) that required definite outcomes. The illusionist cannot escape into "it's all illusion" because the very existence of the illusion-generating system presupposes the cosmological timeline the prebiotic problem addresses.
 
@@ -166,13 +166,13 @@ This framework reinterprets the prebiotic collapse problem:
 
 **Consciousness as high-grade experience**: What we call consciousness is highly integrated, complex experience—not a different kind of thing from prebiotic occasions but a sophisticated organisation of the same fundamental process. The evolution of consciousness was the evolution of experiential complexity, not the emergence of experience from non-experience.
 
-This doesn't commit the site to full Whiteheadian metaphysics. But it shows an alternative to the sharp consciousness/no-consciousness divide that generates the prebiotic problem. If experience is a matter of degree rather than kind, the bootstrapping worry softens—there was always *something* experiential, however minimal, in the quantum selection process.
+This doesn't commit the project to full Whiteheadian metaphysics. But it shows an alternative to the sharp consciousness/no-consciousness divide that generates the prebiotic problem. If experience is a matter of degree rather than kind, the bootstrapping worry softens—there was always *something* experiential, however minimal, in the quantum selection process.
 
 ## What Would Challenge This View?
 
 The objective-reduction-plus-modulation framework would be undermined if:
 
-1. **All objective collapse theories are ruled out experimentally.** The site's commitment is to the framework (real collapse + consciousness modulation at neural sites) rather than a specific mechanism. But if experiments definitively ruled out all objective collapse theories—GRW, CSL, Penrose—the framework would need revision. Current evidence constrains but doesn't eliminate these theories.
+1. **All objective collapse theories are ruled out experimentally.** the project's commitment is to the framework (real collapse + consciousness modulation at neural sites) rather than a specific mechanism. But if experiments definitively ruled out all objective collapse theories—GRW, CSL, Penrose—the framework would need revision. Current evidence constrains but doesn't eliminate these theories.
 
 2. **Many Worlds proves empirically distinguishable and correct.** If MWI made novel predictions that were confirmed while collapse theories failed, the framework's foundation (real collapse) would be undermined. So far, MWI and collapse theories make identical predictions for all feasible experiments.
 
@@ -180,7 +180,7 @@ The objective-reduction-plus-modulation framework would be undermined if:
 
 4. **Panpsychism solves the combination problem.** If panpsychists developed a compelling account of how micro-experiences combine into unified consciousness, their dissolution of the prebiotic problem (experience was always present) would become more attractive. Currently, the combination problem makes panpsychism as problematic as the alternatives.
 
-5. **Retrocausal frameworks become standard physics.** If Wheeler's participatory universe—with future observers selecting past outcomes—became the consensus interpretation, the site's objective-reduction baseline would be unnecessary. Consciousness would cause collapse after all, just across temporal spans rather than at moments.
+5. **Retrocausal frameworks become standard physics.** If Wheeler's participatory universe—with future observers selecting past outcomes—became the consensus interpretation, the project's objective-reduction baseline would be unnecessary. Consciousness would cause collapse after all, just across temporal spans rather than at moments.
 
 ## Experimental Status
 
@@ -194,7 +194,7 @@ Objective collapse theories face empirical pressure but remain viable:
 
 **Quantum biology support**: The August 2024 epothilone B study in rats—showing that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness—provides indirect support for consciousness-quantum interaction at neural sites. If microtubule integrity affects consciousness, the interface exists.
 
-The site's commitment is to the *framework* (real collapse + consciousness modulation at neural sites) rather than a specific mechanism. If GRW is ruled out, Penrose-style gravitational collapse or an unknown alternative could still provide objective reduction. What matters is that collapse is real and that consciousness interfaces with collapse in brains—not which specific physical process underlies objective reduction.
+the project's commitment is to the *framework* (real collapse + consciousness modulation at neural sites) rather than a specific mechanism. If GRW is ruled out, Penrose-style gravitational collapse or an unknown alternative could still provide objective reduction. What matters is that collapse is real and that consciousness interfaces with collapse in brains—not which specific physical process underlies objective reduction.
 
 ## Further Reading
 

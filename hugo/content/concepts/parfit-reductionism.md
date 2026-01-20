@@ -25,7 +25,7 @@ topics:
 
 Derek Parfit's reductionism about personal identity holds that identity consists in nothing over and above bodily and psychological continuity. There is no further fact—no separate entity like a soul or ego—that persists through time. What matters for practical purposes isn't identity itself but "Relation R": psychological connectedness and continuity with the right kind of cause.
 
-This view, developed primarily in *Reasons and Persons* (1984), transformed philosophical debate about personal identity. This site rejects it. The commitment to [indexical identity](/tenets/#no-many-worlds) and [dualism](/tenets/#dualism) implies that *you* are something over and above any pattern, and that patterns don't make choices—consciousnesses do.
+This view, developed primarily in *Reasons and Persons* (1984), transformed philosophical debate about personal identity. this project rejects it. The commitment to [indexical identity](/tenets/#no-many-worlds) and [dualism](/tenets/#dualism) implies that *you* are something over and above any pattern, and that patterns don't make choices—consciousnesses do.
 
 ## Parfit's Core Claims
 
@@ -57,9 +57,9 @@ Parfit found his view liberating: if personal identity is less deep than we thou
 
 The liberating aspect extends to self-interest. If identity is just pattern-continuity, and patterns can overlap, then strict self-interest dissolves into concern for whoever continues my patterns. Parfit held this was "like the liberation that... comes from giving up the belief that one's nation is in some special way superior to other nations."
 
-## Why This Site Rejects Parfit
+## Why this project Rejects Parfit
 
-The site's framework provides several grounds for rejecting reductionism.
+the project's framework provides several grounds for rejecting reductionism.
 
 ### Patterns Don't Make Choices
 
@@ -67,7 +67,7 @@ On Parfit's view, there's nothing more to being *you* than instantiating a parti
 
 When you deliberate about whether to help a friend or lie to them, who is doing the deliberating? On Parfit's view, it's just the pattern—or rather, there is no "who" beyond the psychological events that constitute the deliberation. But this conflicts with the phenomenology of agency. *I* deliberate. *I* choose. The subject of the choosing seems to be something over and above the psychological events themselves.
 
-The site's [agent-causal](/concepts/agent-causation/) framework makes this explicit: agents cause actions as persisting substances, not as patterns. The agent who chooses is the same agent who will experience the consequences. This requires something more than pattern-continuity: it requires [indexical identity](/concepts/haecceity/)—this being, not just any being with this pattern.
+the project's [agent-causal](/concepts/agent-causation/) framework makes this explicit: agents cause actions as persisting substances, not as patterns. The agent who chooses is the same agent who will experience the consequences. This requires something more than pattern-continuity: it requires [indexical identity](/concepts/haecceity/)—this being, not just any being with this pattern.
 
 ### Zombies and Identity
 
@@ -87,13 +87,13 @@ Parfit's view converges troublingly with the [many-worlds](/arguments/many-world
 | Identity question | May lack determinate answer | Dissolves: all branches equally real |
 | Indexical fact | Not a deep fact | Not a fact at all |
 
-The site's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects many-worlds partly because it eliminates indexical identity. The question "which branch am I?" has no answer—all branches are equally real, and there's no fact about which one "is" you. But this seems to leave out something essential: *I* experience one outcome, not all outcomes.
+the project's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects many-worlds partly because it eliminates indexical identity. The question "which branch am I?" has no answer—all branches are equally real, and there's no fact about which one "is" you. But this seems to leave out something essential: *I* experience one outcome, not all outcomes.
 
 Parfit shares this feature. On his view, when I ask "will I survive?" the question may have no determinate answer—not because the facts are uncertain, but because there's no deep fact to be uncertain about. Yet it seems like there *is* such a fact. Either I will wake up tomorrow or I won't. The indeterminacy seems to be in the theory, not in reality.
 
 ### Causal History and Quantum Selection
 
-The site's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. If so, your consciousness has a unique causal history—the particular pattern of quantum selections, choices, and physical effects that constitute your life.
+the project's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. If so, your consciousness has a unique causal history—the particular pattern of quantum selections, choices, and physical effects that constitute your life.
 
 A replica would lack this causal history. Even if psychologically identical, the replica's consciousness (if it had any) would begin its causal engagement from creation, not from your birth. The causal chain that constitutes *your* influence on the world doesn't extend to the replica.
 
@@ -109,11 +109,11 @@ If patterns are what matter, and patterns are repeatable, why should I care spec
 
 Parfit bites this bullet—he says the second scenario preserves what matters. But most people find this deeply counterintuitive. The intuition that I would die in the second scenario, regardless of the replica's existence, seems robust.
 
-The site's framework explains the intuition: you would die because you are not the replica. The replica might be conscious, might even have your psychology, but it would be a numerically distinct consciousness. *You*—this particular subject—would cease to exist.
+the project's framework explains the intuition: you would die because you are not the replica. The replica might be conscious, might even have your psychology, but it would be a numerically distinct consciousness. *You*—this particular subject—would cease to exist.
 
 ## What the Rejection Implies
 
-Rejecting Parfit commits the site to several substantive claims:
+Rejecting Parfit commits the project to several substantive claims:
 
 ### Identity as a Deep Fact
 
@@ -131,7 +131,7 @@ This is consistent with various metaphysical views: substance dualism (the soul 
 
 If identity is a deep fact, death is the loss of something real—not just the ending of a pattern. When you die, *you* cease to exist. This makes death worse than Parfit suggests: it's not merely the ending of a sequence but the destruction of a particular.
 
-This needn't be depressing. The site's dualism leaves open whether consciousness can survive bodily death. And the meaningfulness of life doesn't depend on its eternal continuation. But it does take death seriously in a way Parfit's view doesn't.
+This needn't be depressing. the project's dualism leaves open whether consciousness can survive bodily death. And the meaningfulness of life doesn't depend on its eternal continuation. But it does take death seriously in a way Parfit's view doesn't.
 
 ### Against Replication "Survival"
 
@@ -159,13 +159,13 @@ These conclusions are counterintuitive to some technologists but follow from tak
 
 **"Non-reductionism is obscurantist."** The hard problem of consciousness is enough to motivate non-reductionism. If we can't explain why there's something it's like to be you in physical terms, we shouldn't expect to reduce identity to physical terms either.
 
-**"Parfit's view is more ethical—it reduces excessive self-concern."** The site doesn't deny that we should care about others. But grounding this care on the dissolution of identity seems to rest it on error. We can care about others while also recognizing that we are particular beings with particular identities.
+**"Parfit's view is more ethical—it reduces excessive self-concern."** the project doesn't deny that we should care about others. But grounding this care on the dissolution of identity seems to rest it on error. We can care about others while also recognizing that we are particular beings with particular identities.
 
 **"Thought experiments are unreliable guides to metaphysics."** Perhaps. But Parfit's argument *relies* on thought experiments. If we reject them for anti-reductionism, we should reject them for reductionism too.
 
 ## Summary
 
-Parfit's reductionism offers a deflationary view of personal identity: there's no deep fact, just patterns and their continuation. The site rejects this:
+Parfit's reductionism offers a deflationary view of personal identity: there's no deep fact, just patterns and their continuation. the project rejects this:
 
 - Patterns don't make choices; consciousnesses do
 - Zombie conceivability shows identity involves something beyond continuity
@@ -173,14 +173,14 @@ Parfit's reductionism offers a deflationary view of personal identity: there's n
 - Causal history gives content to indexical identity
 - Practical stakes (death, replication) warrant taking identity seriously
 
-*You* are something over and above any pattern. That's what the site's tenets commit us to, and what Parfit's elegant deflationism asks us to surrender.
+*You* are something over and above any pattern. That's what the project's tenets commit us to, and what Parfit's elegant deflationism asks us to surrender.
 
 ## Further Reading
 
 - [personal-identity](/topics/personal-identity/) — The broader question of what makes you you
 - [haecceity](/concepts/haecceity/) — Indexical identity and why *this* being matters
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Why consciousness isn't reducible
-- [many-worlds](/arguments/many-worlds/) — Why the site rejects many-worlds (parallel concerns)
+- [many-worlds](/arguments/many-worlds/) — Why the project rejects many-worlds (parallel concerns)
 - [agent-causation](/concepts/agent-causation/) — Why agents, not patterns, cause actions
 - [death-and-consciousness](/topics/death-and-consciousness/) — What survival requires
 
