@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-19T22:53:00+00:00
+ai_modified: 2026-01-20T00:21:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review self-and-consciousness.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated 2026-01-14, no deep review since creation. Core concept connecting consciousness to personal identity. Check for cross-links to witness-consciousness.md, autonoetic-consciousness.md, buddhism-and-dualism.md. Ensure Gallagher/Zahavi minimal self analysis and site's indexical emphasis are well-integrated.
-- **Source**: staleness
-- **Generated**: 2026-01-19
-
 ### P2: Deep review emergence.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated 2026-01-15, no deep review since creation. Central concept for understanding site's position on consciousness as strongly emergent. Check for cross-links to downward-causation.md, causal-closure.md, quantum-consciousness.md. Ensure distinction between weak/strong emergence and site's interactionist position are clear.
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-19
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review self-and-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated 2026-01-14, no deep review since creation. Core concept connecting consciousness to personal identity. Check for cross-links to witness-consciousness.md, autonoetic-consciousness.md, buddhism-and-dualism.md. Ensure Gallagher/Zahavi minimal self analysis and site's indexical emphasis are well-integrated.
+- **Result**: Added "The Transparency Objection" subsection strengthening response to Metzinger. Added "Can the Minimal Self Be Tested?" section addressing falsifiability and methodological circularity. Added Whitehead process philosophy connection to Buddhist compatibility thesis. Enhanced No Many Worlds section with haecceity connection and functionalist response. Added witness-consciousness, minimal-consciousness, and haecceity cross-links.
+- **Output**: Updated `concepts/self-and-consciousness.md`, created `reviews/deep-review-2026-01-20-self-and-consciousness.md`
 
 ### ✓ 2026-01-19: Deep review global-workspace-theory.md for currency and cross-links
 - **Type**: deep-review
