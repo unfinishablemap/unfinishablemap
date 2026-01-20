@@ -3,7 +3,7 @@ title: "Arguments for Dualism"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-19T05:15:00+00:00
+ai_modified: 2026-01-20T06:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,12 @@ concepts:
   - "[[causal-closure]]"
   - "[[mental-causation]]"
   - "[[objections-to-interactionism]]"
+  - "[[illusionism]]"
+  - "[[introspection]]"
+  - "[[mysterianism]]"
+  - "[[decoherence]]"
+  - "[[haecceity]]"
+  - "[[phenomenal-concepts-strategy]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments-for-dualism-positive-case-2026-01-14]]"
@@ -31,7 +37,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-20T06:45:00+00:00
 ---
 
 [[Dualism]]—the view that consciousness is not reducible to physical processes—can be defended not just by arguing against materialism but by arguing *for* something distinctive about the mental. (See [[dualism|the dualism overview]] for what dualism claims and its main varieties; this page focuses on the detailed *arguments*.) Contemporary philosophers have developed several powerful positive arguments. These converge on a single conclusion: there is something about consciousness that physical description cannot capture, and this something is irreducible.
@@ -178,6 +184,28 @@ The site's answer combines [[tenets#^bidirectional-interaction|Bidirectional Int
 
 This distinguishes the site's position from epiphenomenal property dualism. Consciousness doesn't merely accompany physical processes; it shapes which possibilities become actual.
 
+## The Illusionist Challenge
+
+The strongest materialist response to these arguments isn't to explain consciousness physically but to deny that phenomenal consciousness exists at all. [[Illusionism]], defended by Keith Frankish and Daniel Dennett, holds that the "what it's like" aspect of experience is an introspective misrepresentation. If correct, the dualist arguments lose their target.
+
+### Why Illusionism Fails
+
+Illusionism trades the hard problem for the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious. But this trade is not favorable for three reasons:
+
+**The Regress Objection**: Raymond Tallis argues that "misrepresentation presupposes presentation." To be under an illusion, something must experience the illusion. There must be *something it's like* to mistakenly believe consciousness is phenomenal. Illusionism invokes experience to deny experience—incoherence at its foundation.
+
+**Self-Undermining**: If [[introspection]] is so radically unreliable that it invents phenomenal consciousness wholesale, why trust it for the philosophical reasoning that leads to illusionism? The illusionist arrives at their position through introspection and reasoning about their own experience. The position cannot be rationally held by someone who distrusts the very faculties that produced it.
+
+**The Moorean Response**: We know we're conscious with more certainty than we know any philosophical theory is correct. The existence of phenomenal pain is more obvious than any premises used to deny it. Denying the obvious to preserve materialism is methodological desperation.
+
+The [[illusionism]] article details these objections further. The point here: illusionism doesn't weaken the dualist arguments—it simply changes the subject from "what explains consciousness?" to "why do we believe we're conscious?" The second question is no easier, and answering it still requires accounting for *seeming*, which is itself phenomenal.
+
+### The Phenomenal Concept Strategy
+
+A more sophisticated materialist response is the [[phenomenal-concepts-strategy]]: Mary learns no new *facts* but acquires new *concepts* or *recognitional abilities*. Physical knowledge exhausts the facts; phenomenal concepts just provide new ways of grasping them.
+
+The problem: this strategy must explain why phenomenal concepts are special—why they're not deducible from physical concepts. But explaining that special status seems to require something non-physical about their referents. The phenomenal concept strategy works only if phenomenal concepts are cognitively isolated from physical concepts, and that isolation is precisely what the knowledge argument reveals.
+
 ## Major Objections and Responses
 
 A fair assessment of dualism must engage the strongest objections. Five major challenges merit attention. For comprehensive treatment of each objection with detailed responses, see [[objections-to-interactionism]]. Below is a summary.
@@ -218,29 +246,61 @@ William James observed that pleasures correlate precisely with survival benefits
 
 These responses show interactionist dualism can address its critics systematically. The site's quantum framework provides principled answers that purely Cartesian dualism lacked. Notably, the evolutionary argument—often presented as an objection to dualism—actually targets only [[epiphenomenalism]] and *supports* the site's interactionist position: consciousness must cause behavior for evolution to explain the precision of valence-fitness correlations.
 
+## Process Philosophy Perspective
+
+Alfred North Whitehead's process philosophy offers a complementary framing of dualism's core insights. Where substance dualism posits two kinds of *things* (mental and physical), process philosophy posits two aspects of *events*—actual occasions that have both experiential and physical poles.
+
+On this view, the unity of consciousness reflects the unity of actual occasions. Each moment of experience is a creative synthesis—a "concrescence"—that cannot be decomposed into separate parts. The binding problem dissolves because unity isn't *produced* by combining separate elements; it's the fundamental character of experiential events.
+
+Whitehead's framework also addresses the parsimony objection differently. Rather than adding mental substances to a physical world, it recognizes experience as intrinsic to events at all scales—what the intrinsic nature argument points toward. The physical-only picture is an abstraction from richer experiential reality, not the fundamental level.
+
+The site doesn't commit to process philosophy, but its insights illuminate why the dualist arguments work: they reveal features of experience—unity, intrinsic character, intentionality—that physical description abstracts away.
+
+## What Would Challenge This View?
+
+The site's commitment to dualism would require revision if:
+
+1. **Consciousness were fully explained functionally.** If a complete functional account showed *why* certain functions feel like something—not just *that* they correlate with experience—the explanatory gap would close.
+
+2. **Conceivability failed as a guide to possibility.** If clear cases emerged where conceivability diverged radically from metaphysical possibility for phenomenal concepts (not just for natural kind concepts like "water"), the conceivability argument would weaken.
+
+3. **Introspection proved systematically unreliable.** If we had strong independent evidence that introspective access to phenomenal properties was radically mistaken—evidence not itself relying on introspection—illusionism would gain traction.
+
+4. **Quantum coherence were definitively ruled out in brains.** If neural systems were proven incapable of sustaining any quantum effects relevant to information processing, the site's interaction mechanism would need replacement. (Note: this wouldn't refute dualism itself, only the specific quantum mechanism.)
+
+5. **Personal identity survived branching.** If compelling arguments showed that identity is preserved across many-worlds branching—that there's no "fact of the matter" about which branch is "this" one—the unity and identity arguments would require reformulation.
+
+These conditions are falsifiable in principle. The site's dualism isn't dogma but a position responsive to evidence and argument.
+
 ## Relation to This Site's Perspective
 
 The positive arguments for dualism directly support the site's foundational commitments:
 
 **[[tenets#^dualism|Dualism]]**: The arguments converge—conceivability, knowledge, qualia, unity, intentionality all point to something irreducible about consciousness. This isn't merely that materialism fails; it's that consciousness has features requiring dualist explanation.
 
-**[[tenets#^occam|Occam's Razor Has Limits]]**: The parsimony objection assumes we have adequate concepts to judge simplicity. But if consciousness introduces genuinely novel features—features physics cannot describe—then materialist "simplicity" is achieved by ignoring the evidence.
+**[[tenets#^occam|Occam's Razor Has Limits]]**: The parsimony objection assumes we have adequate concepts to judge simplicity. But if consciousness introduces genuinely novel features—features physics cannot describe—then materialist "simplicity" is achieved by ignoring the evidence. [[Mysterianism]] strengthens this point: if our cognitive architecture cannot fully grasp the mind-matter relation, apparent simplicity may reflect our limitations rather than reality's structure.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The fact that we discuss consciousness is itself evidence. An epiphenomenon couldn't influence the neurons that produce speech and writing. The positive arguments support not just dualism but interactionist dualism: consciousness matters for behavior.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The unity and personal identity arguments presuppose a single subject. Many-worlds fragments this: in branching universes, "you" become many, and personal identity dissolves. The dualist picture requires definite outcomes and definite subjects.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The unity and personal identity arguments presuppose a single subject with [[haecceity]]—irreducible "thisness" that cannot be duplicated. Many-worlds fragments this: in branching universes, "you" become many, and personal identity dissolves. The dualist picture requires definite outcomes and definite subjects.
+
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The quantum framework provides what classical dualism lacked: a principled location for mind-matter interaction. [[Decoherence]] objections don't close this door—as detailed in [[quantum-consciousness]], decoherence selects preferred bases but doesn't explain why we see *definite* outcomes. The measurement problem remains open, and consciousness remains a candidate for what resolves it.
 
 The site does not commit to substance over property dualism. Both support irreducibility. What matters is the conclusion: consciousness is not nothing more than physical processes, and it plays a genuine causal role in the world.
 
 ## Further Reading
 
 - [[dualism]] — Foundational overview of what dualism is, its main varieties, and key objections
+- [[illusionism]] — The strongest materialist response and why it fails
+- [[mysterianism]] — The cognitive closure hypothesis and its implications
 - [[intuitive-dualism]] — What cognitive science reveals about natural mind-body thinking
 - [[epistemic-advantages-of-dualism]] — The meta-level argument from epistemic humility
 - [[philosophical-zombies]] — The conceivability argument in detail
 - [[knowledge-argument]] — Mary's Room and what it shows
+- [[phenomenal-concepts-strategy]] — The physicalist response to the knowledge argument
 - [[qualia]] — The qualitative features at issue
 - [[intentionality]] — Aboutness and its resistance to naturalization
+- [[introspection]] — The reliability of first-person access
 - [[binding-problem]] — Why unity poses a problem for physicalism
 - [[explanatory-gap]] — The space between physical and phenomenal
 - [[interactionist-dualism]] — How mind and matter interact
@@ -248,6 +308,9 @@ The site does not commit to substance over property dualism. Both support irredu
 - [[causal-closure]] — The causal closure challenge and responses
 - [[mental-causation]] — The exclusion argument and how to answer it
 - [[epiphenomenalism]] — What happens if dualism abandons causal efficacy
+- [[quantum-consciousness]] — The quantum mechanism for mind-matter interaction
+- [[decoherence]] — Why decoherence doesn't close the quantum opening
+- [[haecceity]] — Irreducible "thisness" and personal identity
 - [[objections-to-interactionism]] — Comprehensive treatment of the five major objections with detailed responses
 - [[arguments-for-dualism-positive-case-2026-01-14]] — Research notes on this topic
 - [[objections-to-interactionist-dualism-2026-01-15]] — Research on objections and responses
@@ -255,10 +318,14 @@ The site does not commit to substance over property dualism. Both support irredu
 ## References
 
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
-- Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.
+- Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
+- Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
+- Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 - Lowe, E.J. (1996). *Subjects of Experience*. Cambridge University Press.
 - Rickabaugh, B. & Moreland, J.P. (2023). *The Substance of Consciousness*. Wiley-Blackwell.
-- Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
+- Strawson, G. (2006). Realistic monism: Why physicalism entails panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
+- Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.
+- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
+- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 - Bourget, D. & Chalmers, D. (2023). Philosophers on philosophy. *Philosophical Studies*.
