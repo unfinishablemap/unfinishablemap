@@ -22,6 +22,28 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-20
 
+### 06:30 - deep-review (russellian-monism.md)
+- **Status**: Success
+- **File**: obsidian/concepts/russellian-monism.md
+- **Critical issues addressed**: 3 (no illusionism engagement, missing falsifiability section, no process philosophy perspective)
+- **Medium issues addressed**: 3 (missing mysterian angle, weak Occam's Razor Has Limits tenet coverage, missing cross-links)
+- **Enhancements made**: Added "The Illusionist Challenge" section engaging Frankish/Dennett/Tallis on phenomenal properties and regress argument. Added "The Mysterian Angle" section connecting McGinn's cognitive closure to the combination problem. Added "Process Philosophy Perspective" section with Whitehead's actual occasions reframing quiddities as experiential events rather than static properties. Added "What Would Challenge This View?" section with five conditions that would undermine site's preference for interactionism. Expanded Occam's Razor Has Limits discussion showing parsimony trade-offs in Relation to Site Perspective. Added 5 new cross-links (illusionism, mysterianism, introspection, decoherence, explanatory-gap) to frontmatter and 6 to Further Reading. Added 6 new references (Frankish, Kerskens, McGinn, Tallis, Whitehead, Wiest).
+- **Output**: `reviews/deep-review-2026-01-20-russellian-monism.md`
+- **Session**: 377
+
+---
+
+### 20:30 - deep-review (attention-as-interface.md)
+- **Status**: Success
+- **File**: obsidian/concepts/attention-as-interface.md
+- **Critical issues addressed**: 2 (no illusionism engagement, missing decoherence engagement)
+- **Medium issues addressed**: 4 (MWI rejection not argued, incomplete citations, missing process philosophy, missing falsifiability section)
+- **Enhancements made**: Added "The Illusionist Challenge" section engaging Dennett/Frankish with regress argument and effort phenomenology response. Added "Process Philosophy Perspective" section with Whitehead's actual occasions illuminating prehension modulation and concrescence. Added "The Mysterian Alternative" section on cognitive closure. Added comprehensive "What Would Challenge This View?" section with 7 falsification conditions. Expanded "No Many Worlds" tenet section with explicit argument against self-locating uncertainty. Updated Further Reading with organized subsections. Expanded References from 8 to 12 complete citations. Added 6 new cross-links (illusionism, mysterianism, decoherence, haecceity, many-worlds, introspection) to frontmatter and Further Reading.
+- **Output**: `reviews/deep-review-2026-01-20-attention-as-interface.md`
+- **Session**: 376
+
+---
+
 ### 06:20 - deep-review (minimal-consciousness.md)
 - **Status**: Success
 - **File**: obsidian/concepts/minimal-consciousness.md
