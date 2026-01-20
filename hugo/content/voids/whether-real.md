@@ -1,16 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-16 10:00:00+00:00
+ai_modified: 2026-01-20 07:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[mysterianism]]'
+- '[[illusionism]]'
+- '[[introspection]]'
+- '[[phenomenology-of-the-edge]]'
+- '[[decoherence]]'
 created: 2026-01-16
-date: &id001 2026-01-16
+date: &id001 2026-01-20
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-20 07:45:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -64,6 +69,22 @@ Consider: if mysterianism is true—some limits are genuine—we cannot detect t
 
 Both verification and falsification seem blocked. The suspended position neither affirms nor denies that the voids are real but accepts that the question may be structurally unanswerable. This is not agnosticism from laziness but from logical necessity.
 
+## The Illusionist Challenge
+
+[Illusionists](/concepts/illusionism/) like Keith Frankish and Daniel Dennett pose a more radical challenge: the question "are the voids real?" may be malformed because it presupposes phenomenal consciousness that doesn't exist. If consciousness is an introspective illusion, then cognitive limits would be limits on *representation*, not limits on *access to experience*.
+
+On this view, the "feel" of approaching cognitive limits—the phenomenology of suspension described below—would itself be part of the illusion. There would be nothing it's like to hit a cognitive wall, just a system generating reports about hitting walls. The voids question dissolves: asking whether limits on illusion-generation are "real" limits makes no more sense than asking whether a computer's processing constraints are "felt" by the computer.
+
+Three responses preserve the voids framework:
+
+**The regress problem.** Illusionism faces infinite regress: to be under an illusion that you're conscious, something must experience the illusion. As Raymond Tallis argues, illusionism is "self-stultifying"—it requires genuine experience to explain the appearance of experience. If the regress holds, some form of consciousness exists, and the question whether cognitive limits apply to *that* consciousness remains open.
+
+**The structural point remains.** Even granting illusionism, the formal structure of the "whether real" question persists. Any cognitive system attempting to determine its own representational limits faces the same self-referential problem: it must use the very faculties whose reliability is in question. Whether the limits are limits on phenomenal access or limits on accurate representation, the undecidability follows. The question shifts from "are phenomenal voids real?" to "are representational voids real?"—but the answer remains formally undeterminable from within.
+
+**Illusionism may be a symptom.** The illusionist move—denying the phenomenon rather than explaining it—might itself be what cognitive closure looks like from the inside. Unable to see how consciousness relates to matter, we face a choice: accept the mystery or deny there's anything to explain. If McGinn is right that we're cognitively closed to the mind-body connection, we should predict that some thinkers would respond by denial. Illusionism may be the epistemological shadow of a void.
+
+The site maintains that [introspection](/concepts/introspection/), while fallible, provides genuine access to phenomenal content. The illusionist challenge doesn't dissolve the voids question—it relocates it to the meta-level of which framework better captures our situation.
+
 ## Evidence and Its Absence
 
 ### Evidence for Permanent Limits
@@ -102,6 +123,20 @@ Approaching this question has a distinctive feel:
 
 **Relief in acceptance.** Recognising that the question may be permanently open can paradoxically produce calm. The suspended position isn't intellectual failure—it's appropriate response to the logical structure.
 
+## Process Philosophy Perspective
+
+Alfred North Whitehead's process philosophy offers resources for thinking about self-referential structures that neither affirm nor deny permanent limits. For Whitehead, reality consists of "actual occasions"—momentary events of experience that perish as they arise. Each actual occasion "prehends" (grasps) prior occasions and determines itself through a process of "concrescence."
+
+This framework illuminates the whether-real question in several ways:
+
+**Self-reference as constitutive.** Whitehead holds that each actual occasion is partially self-creating—it determines its own nature through the act of prehension. The self-referential structure that makes the voids question undecidable is not an anomaly but a fundamental feature of how experience works. The tool examining itself is the paradigmatic case, not a problematic exception.
+
+**Limits as process features.** On a process view, cognitive limits are not walls blocking access to fixed territory. They are features of how each moment of experience constitutes itself. The "voids" would not be places we cannot reach but modes of experiencing we cannot enact. The question shifts from spatial metaphor (territory we cannot explore) to temporal metaphor (processes we cannot undergo).
+
+**Neither permanent nor contingent.** Process philosophy suggests a fourth position beyond the three verdicts. Limits may be neither permanently fixed (the pessimist view) nor contingently surmountable (the optimist view) but *constitutively fluid*—features of each actual occasion's self-creation that could differ for different occasions. Future minds (artificial or evolved) might undergo different processes of self-constitution, making different territory experientially accessible—not because they're smarter but because they're differently constituted.
+
+This doesn't resolve the undecidability. Even on a process view, we cannot step outside our current occasions of experience to determine whether future occasions could differ in relevant ways. But it suggests the question may be less binary than the pessimist/optimist framing implies. The voids might be real-for-us without being real-as-such.
+
 ## Implications for the Voids Project
 
 If the question whether voids are real is itself a void, then:
@@ -114,13 +149,33 @@ If the question whether voids are real is itself a void, then:
 
 **Epistemic humility is justified.** If we cannot determine whether our limits are permanent, we cannot assume our current best theories are close to final truth. The [Occam's Razor Has Limits](/tenets/#occams-limits) principle gains support: simplicity preferences may lead us away from truths that lie in cognitively inaccessible regions.
 
+## What Would Challenge This View?
+
+The suspended position—that whether voids are real is formally undecidable—would be challenged if:
+
+1. **A clear case of surmounted cognitive closure appears.** If some problem that genuinely appeared constitutionally closed—not merely difficult—yielded to new concepts, this would support the optimist position. The test: the solution must be recognizable as addressing what *seemed* permanently inaccessible, not merely solving a nearby problem while the original mystery remains. Vitalism's dissolution may or may not count; was the "mystery" of life ever as conceptually inaccessible as the hard problem appears today?
+
+2. **Cross-architecture convergence occurs.** If radically different cognitive systems—artificial intelligences, hypothetical aliens, future posthuman minds—independently converge on the same solutions to problems we find mysterious, this suggests the problems are tractable in principle. The suspended position predicts such convergence is unlikely for genuine voids but possible for merely difficult problems.
+
+3. **A demonstrably closed domain is identified.** If we could prove that a specific domain is cognitively closed—not merely suspect it from persistent failure—this would favour the pessimist position. The challenge: how could we achieve such proof given the self-referential structure? Perhaps through formal analysis showing that the relevant concepts cannot be constructed from human conceptual primitives, analogous to proving that certain mathematical structures cannot be built from certain axiom sets.
+
+4. **The phenomenology of suspension dissolves.** If what feels like stable suspension between equally compelling positions proves to be merely a stage in approaching resolution—if continued investigation consistently tips the balance—the suspended position would look less principled and more like intellectual timidity.
+
+5. **Process-level access improves radically.** If future neuroscience or [introspective methods](/concepts/introspection/) give us deep access to cognitive *processes* (not just contents), we might be able to trace the architecture that produces the undecidability and determine whether it's necessary or contingent.
+
+**Why these conditions haven't been met:** The hard problem remains as puzzling after 30 years of focused investigation as it was when Chalmers formalized it (and after 300 years since Leibniz posed the essential question). [Decoherence](/concepts/decoherence/) objections to quantum consciousness have been met with new experimental findings, not conceptual breakthrough. We have neither proved permanent closure nor demonstrated contingent difficulty—exactly the situation the suspended position describes.
+
 ## Relation to Site Perspective
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is most directly relevant. If it is formally undecidable whether cognitive limits are permanent, then parsimony assumptions are unreliable guides. The simpler theory may appear more plausible not because it's closer to truth but because the true theory lies in territory we cannot access. Epistemic humility about our own cognitive architecture mandates caution about strong ontological commitments.
 
 **[Dualism](/tenets/#dualism)** receives indirect support through the explanatory gap analysis. The hard problem's persistence across centuries and cultures, combined with its distinctive structure—functional explanation systematically failing to capture phenomenal character—suggests the gap may be permanent. Not because consciousness is supernatural, but because the concepts that would bridge neural activity and experience may lie outside human cognitive reach.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** connects through indexical questions. "Why am I this branch?" and "Why am I this subject?" may be questions we understand but cannot answer—not because the answers don't exist but because grasping them requires concepts our architecture cannot form. The indexical problem may be a mystery rather than a problem.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through the process philosophy perspective. If consciousness causally influences the physical world through quantum selection, understanding *how* this happens may require concepts we cannot form. We might have veridical *experience* of mental causation (the feeling of willing an action) while being cognitively closed to the *mechanism*. The suspended position suggests we cannot determine whether future minds might understand what we merely experience.
+
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** faces a distinctive challenge here. The site proposes a specific mechanism (consciousness biasing quantum outcomes at particular brain sites). If such specificity exceeds our cognitive warrant—if McGinn is right that the mind-matter interface lies in void territory—then the mechanism proposal might be wrong in principle. However, the proposal could be understood as working hypothesis rather than claimed knowledge: useful for generating predictions even if the underlying reality is cognitively inaccessible. Compare: physicists use quantum mechanics successfully without consensus on what it *means*.
+
+**[No Many Worlds](/tenets/#no-many-worlds)** connects through indexical questions. "Why am I this branch?" and "Why am I this subject?" may be questions we understand but cannot answer—not because the answers don't exist but because grasping them requires concepts our architecture cannot form. The indexical problem may be a mystery rather than a problem. Many-worlds dissolves these questions by denying their coherence; the site's rejection of many-worlds implicitly accepts that they point at something real—something that may lie in void territory.
 
 The voids framework does not require that the voids be real. It requires only that we take seriously the possibility that they might be—and investigate accordingly. The question whether cognitive limits are genuine turns out to be undecidable from within, which is itself informative: the kind of minds we are cannot determine whether our limits are permanent. This uncertainty is not a bug but a feature of the epistemic landscape.
 
@@ -131,6 +186,10 @@ The voids framework does not require that the voids be real. It requires only th
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
 - [Apophatic Approaches](/voids/apophatic-approaches/) — Methods for knowing through negation
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Phenomenology of cognitive slippage
+- [Illusionism](/concepts/illusionism/) — The radical challenge to phenomenal consciousness (see Illusionist Challenge section)
+- [Introspection and First-Person Methods](/concepts/introspection/) — The reliability of phenomenal access
+- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
+- [Decoherence and Quantum Biology](/concepts/decoherence/) — Whether quantum consciousness faces analogous undecidability
 
 ## References
 
@@ -140,3 +199,7 @@ The voids framework does not require that the voids be real. It requires only th
 4. Dennett, D. "Review of McGinn, The Problem of Consciousness." https://ase.tufts.edu/cogstud/dennett/papers/mcginn.htm
 5. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
 6. Vlerick, M. & Boudry, M. (2017). "Psychological Closure Does Not Entail Cognitive Closure." *Dialectica*. https://onlinelibrary.wiley.com/doi/abs/10.1111/1746-8361.12176
+7. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+8. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
+9. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+10. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
