@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-20T00:21:00+00:00
+ai_modified: 2026-01-20T00:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,17 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 00:30 - deep-review (emergence.md)
+- **Status**: Success
+- **File**: obsidian/concepts/emergence.md
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (comparison table oversimplified, no falsifiability section, binding problem claim overstated)
+- **Enhancements made**: Added "Can Strong Emergence Be Tested?" section with three testable prediction domains (neural correlates, conservation law tests, anaesthetic evidence). Softened comparison table to acknowledge panpsychist progress (Goff's cosmopsychism, Seager's microexperiential combinatorialism). Enhanced binding problem discussion to acknowledge proposed solutions while maintaining critique. Added minimal-consciousness research reference to evolutionary emergence. Added 4 new cross-links to frontmatter (mental-causation, phenomenal-unity, binding-problem, minimal-consciousness) and 5 to Further Reading.
+- **Output**: `reviews/deep-review-2026-01-20-emergence.md`
+- **Session**: 346
+
+---
 
 ### 00:21 - deep-review (self-and-consciousness.md)
 - **Status**: Success
