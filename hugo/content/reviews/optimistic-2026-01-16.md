@@ -125,7 +125,7 @@ The mysterianism article and the Occam's Razor Has Limits tenet show appropriate
 
 ### emergence.md
 - **Strongest point**: The table comparing different positions on emergence type and mechanism—shows the Map occupies a distinctive position (strong emergence with mechanism)
-- **Notable quote**: "Classical emergentists... couldn't specify how it operated. the Map advances beyond this"
+- **Notable quote**: "Classical emergentists... couldn't specify how it operated. The Map advances beyond this"
 - **Why it works**: Positions the framework in philosophical space clearly
 
 ## Expansion Opportunities
@@ -160,7 +160,7 @@ The mysterianism article and the Occam's Razor Has Limits tenet show appropriate
 
 #### Parfit and Personal Identity
 - **Builds on**: personal-identity, No Many Worlds, agent-causation
-- **Would address**: Engage Parfit's reductionism about personal identity directly. the Map implies critique (patterns don't make choices) but doesn't fully develop it.
+- **Would address**: Engage Parfit's reductionism about personal identity directly. The Map implies critique (patterns don't make choices) but doesn't fully develop it.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Strong—supports No Many Worlds via indexical identity
 

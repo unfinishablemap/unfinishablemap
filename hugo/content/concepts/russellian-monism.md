@@ -127,7 +127,7 @@ For the Map's framework, Whitehead's insight matters: if experience is fundament
 
 Despite these criticisms, Russellian monism captures important insights the Map endorses:
 
-**Physics is incomplete**: The core observation—that physics describes structure without intrinsic nature—is correct and important. the Map's framework agrees: physics doesn't explain why there is something it is like to be conscious.
+**Physics is incomplete**: The core observation—that physics describes structure without intrinsic nature—is correct and important. The Map's framework agrees: physics doesn't explain why there is something it is like to be conscious.
 
 **Consciousness is irreducible**: Russellian monism takes the [hard problem](/topics/hard-problem-of-consciousness/) seriously rather than explaining it away. Whatever quiddities are, they're not reducible to structural-relational properties. This aligns with the Map's [Dualism](/tenets/#dualism) tenet.
 
@@ -137,15 +137,15 @@ Despite these criticisms, Russellian monism captures important insights the Map 
 
 ## Relation to the Map's Perspective
 
-**Dualism**: Russellian monism is officially a form of monism—one kind of stuff with different aspects. But its commitment to phenomenal properties irreducible to structure makes it closer to property dualism in practice. the Map's explicit dualism is cleaner.
+**Dualism**: Russellian monism is officially a form of monism—one kind of stuff with different aspects. But its commitment to phenomenal properties irreducible to structure makes it closer to property dualism in practice. The Map's explicit dualism is cleaner.
 
 **Minimal Quantum Interaction**: the Map proposes consciousness influences quantum outcomes. Russellian monism doesn't specify a mechanism—quiddities are simply "part of" physical reality. The quantum proposal gives concrete content to the mind-matter interface.
 
-**Bidirectional Interaction**: the Map holds that consciousness causally influences the physical world. Russellian monism claims quiddities "play indispensable roles in physical causation," but this remains schematic. the Map's framework specifies *how*: selection among quantum superpositions.
+**Bidirectional Interaction**: the Map holds that consciousness causally influences the physical world. Russellian monism claims quiddities "play indispensable roles in physical causation," but this remains schematic. The Map's framework specifies *how*: selection among quantum superpositions.
 
-**No Many Worlds**: Russellian monism is officially neutral on quantum interpretations, but its combination problem echoes branching-worlds issues. If consciousness is everywhere and combines, individuation becomes puzzling. the Map's rejection of [Many Worlds](/tenets/#no-many-worlds) and commitment to indexical identity provides clearer resources for understanding individual consciousness.
+**No Many Worlds**: Russellian monism is officially neutral on quantum interpretations, but its combination problem echoes branching-worlds issues. If consciousness is everywhere and combines, individuation becomes puzzling. The Map's rejection of [Many Worlds](/tenets/#no-many-worlds) and commitment to indexical identity provides clearer resources for understanding individual consciousness.
 
-**Occam's Razor Has Limits**: Both the Map and Russellian monism agree that apparent simplicity is an unreliable guide. the Map applies this more consistently: if physicalism's simplicity is illusory, so may be monism's. The combination problem demonstrates that parsimony in ontology (one kind of stuff) can generate complexity in explanation (how quiddities constitute unified consciousness). The [tenet](/tenets/#occams-limits) warns against this trade-off: apparent simplicity that creates explanatory obscurity represents false economy.
+**Occam's Razor Has Limits**: Both the Map and Russellian monism agree that apparent simplicity is an unreliable guide. The Map applies this more consistently: if physicalism's simplicity is illusory, so may be monism's. The combination problem demonstrates that parsimony in ontology (one kind of stuff) can generate complexity in explanation (how quiddities constitute unified consciousness). The [tenet](/tenets/#occams-limits) warns against this trade-off: apparent simplicity that creates explanatory obscurity represents false economy.
 
 ## What Would Challenge This View?
 
@@ -157,7 +157,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 
 3. **Panprotopsychism resolves the revenge problem.** Chalmers's distinction between panpsychism (quiddities are phenomenal) and panprotopsychism (quiddities constitute the phenomenal when organised) faces Chalmers's own "revenge" argument: if protophenomenal properties aren't phenomenal, protophenomenal zombies seem conceivable. If this objection proves answerable—if protophenomenal properties differ relevantly from structural properties—panprotopsychism gains plausibility as a middle path.
 
-4. **Introspection proves unreliable about qualia.** Russellian monism relies on [introspection](/concepts/introspection/) as our access to quiddities—we know intrinsic nature directly through phenomenal experience. If Schwitzgebel's critiques prove more damaging than the Map allows—if we systematically misrepresent even basic phenomenal properties—Russellian monism's epistemological foundation weakens. the Map would face parallel challenges, since dualism also depends on taking phenomenal evidence seriously.
+4. **Introspection proves unreliable about qualia.** Russellian monism relies on [introspection](/concepts/introspection/) as our access to quiddities—we know intrinsic nature directly through phenomenal experience. If Schwitzgebel's critiques prove more damaging than the Map allows—if we systematically misrepresent even basic phenomenal properties—Russellian monism's epistemological foundation weakens. The Map would face parallel challenges, since dualism also depends on taking phenomenal evidence seriously.
 
 5. **Grounding laws prove more explanatory than interaction laws.** Both frameworks posit fundamental psychophysical laws. Russellian monism's grounding laws specify which quiddity configurations yield which experiences; dualism's interaction laws specify how consciousness influences physical outcomes. If grounding laws generate richer predictions or better integrate with physics, Russellian monism would look more promising than the Map currently acknowledges.
 

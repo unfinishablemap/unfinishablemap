@@ -153,7 +153,7 @@ The arguments against functionalism—absent qualia, inverted qualia, Chinese Ro
 
 ### The Qualia Argument
 
-The Map takes qualia seriously. The felt quality of experience—redness, painfulness—is central to what consciousness is. If inverted or absent qualia are possible, functionalism fails. the Map's commitment to the reality and irreducibility of consciousness implies commitment to the reality of qualia that transcend functional role.
+The Map takes qualia seriously. The felt quality of experience—redness, painfulness—is central to what consciousness is. If inverted or absent qualia are possible, functionalism fails. The Map's commitment to the reality and irreducibility of consciousness implies commitment to the reality of qualia that transcend functional role.
 
 ### The Bidirectional Interaction Tenet
 

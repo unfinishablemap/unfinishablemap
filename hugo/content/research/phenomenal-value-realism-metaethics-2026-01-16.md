@@ -24,7 +24,7 @@ topics:
 
 This research explores how The Unfinishable Map's implicit value theory—that conscious experience is the ground of intrinsic value—relates to established metaethical positions. The task originated from an external review noting that the Map "implicitly treats conscious experience as the ground of value" without explicitly locating this commitment in metaethics.
 
-## the Map's Implicit Position
+## The Map's Implicit Position
 
 Across multiple pages, the Map presupposes a distinctive value theory:
 
@@ -74,7 +74,7 @@ She calls this **analytic hedonism**: "positive and negative qualities of consci
 
 ### Relation to the Map
 
-The Map's position resembles Rawlette's but extends beyond hedonism. the Map doesn't restrict intrinsic value to pleasure/pain; it gestures toward broader features:
+The Map's position resembles Rawlette's but extends beyond hedonism. The Map doesn't restrict intrinsic value to pleasure/pain; it gestures toward broader features:
 
 - **Meaning** in engagement (not reducible to pleasure)
 - **Agency** in making choices (valuable even when difficult)
@@ -91,13 +91,13 @@ The Map's position must navigate between major theories of well-being:
 
 Only pleasure is intrinsically good; only pain is intrinsically bad. Well-being consists entirely in the balance of pleasant over unpleasant experiences.
 
-**Problem for the Map**: The meaning-of-life article claims that "authentic choice" and "connection with what matters" are valuable even when not pleasant. the Map seems committed to more than hedonic value.
+**Problem for the Map**: The meaning-of-life article claims that "authentic choice" and "connection with what matters" are valuable even when not pleasant. The Map seems committed to more than hedonic value.
 
 ### Desire Satisfaction Theory
 
 What's good for you is getting what you want. Well-being consists in desire fulfillment.
 
-**Problem for the Map**: The purpose-and-alignment article explicitly rejects this—preferences are "unreliable guides to our own good." Evolution shaped preferences for survival, not flourishing. the Map cannot ground value in desire.
+**Problem for the Map**: The purpose-and-alignment article explicitly rejects this—preferences are "unreliable guides to our own good." Evolution shaped preferences for survival, not flourishing. The Map cannot ground value in desire.
 
 ### Objective List Theory
 
@@ -105,7 +105,7 @@ Multiple things are intrinsically good: pleasure, knowledge, friendship, achieve
 
 **Problem for the Map**: Standard objective list theory doesn't privilege consciousness. The list items are good independently of being experienced. But the Map claims value is grounded *in* conscious experience—not just correlated with it.
 
-### the Map's Synthesis
+### The Map's Synthesis
 
 The Map occupies a distinctive position:
 
@@ -129,15 +129,15 @@ Alternatively, the view might be **analytic naturalism**: moral properties are i
 
 ### Against Error Theory
 
-Error theory holds all moral claims are false because nothing has value. the Map's response: consciousness exists, and its qualitative character constitutes value. Error theory must deny that pleasure is good—but this seems to misunderstand what "good" means.
+Error theory holds all moral claims are false because nothing has value. The Map's response: consciousness exists, and its qualitative character constitutes value. Error theory must deny that pleasure is good—but this seems to misunderstand what "good" means.
 
 ### Against Non-Cognitivism
 
-Non-cognitivism holds moral claims don't state facts; they express attitudes. the Map's response: the claim "suffering is bad" is not merely an expression of my dislike of suffering. It states something objectively true about the phenomenal quality of suffering.
+Non-cognitivism holds moral claims don't state facts; they express attitudes. The Map's response: the claim "suffering is bad" is not merely an expression of my dislike of suffering. It states something objectively true about the phenomenal quality of suffering.
 
 ### Against Constructivism
 
-Constructivism holds value is constructed through rational procedures (Rawls) or evolves through social practices (Korsgaard). the Map's response: value is discovered in experience, not constructed by reason or society. Consciousness was valuable before humans developed moral frameworks.
+Constructivism holds value is constructed through rational procedures (Rawls) or evolves through social practices (Korsgaard). The Map's response: value is discovered in experience, not constructed by reason or society. Consciousness was valuable before humans developed moral frameworks.
 
 ## What Makes the View Distinctive
 
@@ -164,7 +164,7 @@ This gives value ontological gravity that purely physicalist value realism lacks
 
 The Map's emphasis on indexical identity ([haecceity](/concepts/haecceity/)) extends to value. *This* experience matters—not just experiences-of-this-type. Your particular conscious life has value that couldn't be replicated by a qualitatively identical duplicate.
 
-This is unusual. Most value theories treat value as type-based: pleasure is good, suffering is bad, regardless of who experiences it. the Map suggests token-based value: *this* particular experience, happening to *this* particular subject, has unique significance.
+This is unusual. Most value theories treat value as type-based: pleasure is good, suffering is bad, regardless of who experiences it. The Map suggests token-based value: *this* particular experience, happening to *this* particular subject, has unique significance.
 
 ## Challenges to Address
 
@@ -204,7 +204,7 @@ If AI systems lack consciousness (as the Map claims), they lack intrinsic value 
 
 3. **Address the scope problem**: What has value besides human conscious experience? Animals? AI? Ecosystems? the Map discusses animal consciousness but doesn't fully address value implications.
 
-4. **Connect to welfarism debates**: Position the view relative to objective list theories and desire satisfaction theories. the Map rejects preference-tracking; how does it handle objective goods that aren't experienced?
+4. **Connect to welfarism debates**: Position the view relative to objective list theories and desire satisfaction theories. The Map rejects preference-tracking; how does it handle objective goods that aren't experienced?
 
 5. **Engage critics**: G.E. Moore's "Open Question Argument" challenges analytic reductions of goodness. Rawlette has responses; the Map could engage.
 

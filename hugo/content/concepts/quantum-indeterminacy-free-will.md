@@ -233,7 +233,7 @@ The framework is falsifiable. Findings that would undermine it:
 
 **Solving the hard problem materialistically**: If a compelling account of why physical processes give rise to subjective experience emerged, the motivation for dualism—and thus for consciousness as a separate causal factor—would weaken.
 
-**Many-worlds empirical confirmation**: If the [many-worlds interpretation](/arguments/many-worlds/) were empirically confirmed, there would be no collapse for consciousness to influence—all outcomes occur in branching universes. the Map's [No Many Worlds](/tenets/#no-many-worlds) rejection is foundational to this picture.
+**Many-worlds empirical confirmation**: If the [many-worlds interpretation](/arguments/many-worlds/) were empirically confirmed, there would be no collapse for consciousness to influence—all outcomes occur in branching universes. The Map's [No Many Worlds](/tenets/#no-many-worlds) rejection is foundational to this picture.
 
 **Selection indistinguishable from randomness**: If choices at quantum indeterminacies were genuinely random rather than guided by consciousness—showing no correlation with reasons, values, or phenomenal effort—the selection model collapses into the luck objection it claims to escape.
 

@@ -97,7 +97,7 @@ The new argument pages are well-structured and present compelling cases against 
 ### Decision-Theoretic Probability in Many-Worlds
 - **Current content says**: Derivations "smuggle in assumptions equivalent to what they're trying to prove"
 - **A critic would argue**: Show me which assumption is problematic. Wallace derives caring about branches from self-locating uncertainty plus standard rationality. You can't just gesture at "controversy."
-- **Suggested response**: Engage specifically with the "self-locating uncertainty" premise. the Map might argue: this premise presupposes there's something it's like to be uncertain about your branch-location—presupposing experience where MWI claims to explain it. But this needs spelling out.
+- **Suggested response**: Engage specifically with the "self-locating uncertainty" premise. The Map might argue: this premise presupposes there's something it's like to be uncertain about your branch-location—presupposing experience where MWI claims to explain it. But this needs spelling out.
 
 ### Introspective Reliability in Functionalism Critique
 - **Current content says**: We "positively grasp" zombie scenarios through "direct epistemic access"

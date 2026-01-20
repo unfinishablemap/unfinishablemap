@@ -103,7 +103,7 @@ The pages don't just argue "consciousness exists." They also insist:
 * identity is a **further fact** (indexical uniqueness, per [personal-identity](/topics/personal-identity/)),
 * branching/patternism is unacceptable (anti-MWI + anti-Parfit).
 
-That combination implicitly commits the worldview to something close to **haecceitism about subjects** (a primitive "thisness" of the experiencing subject), even if it avoids that label. the Map gestures at indexicality, but doesn't yet foreground that it's taking on the metaphysical costs of "primitive subject identity" as an explicit doctrine.
+That combination implicitly commits the worldview to something close to **haecceitism about subjects** (a primitive "thisness" of the experiencing subject), even if it avoids that label. The Map gestures at indexicality, but doesn't yet foreground that it's taking on the metaphysical costs of "primitive subject identity" as an explicit doctrine.
 
 ### 2) A "psychophysical coupling law" is required, not optional
 

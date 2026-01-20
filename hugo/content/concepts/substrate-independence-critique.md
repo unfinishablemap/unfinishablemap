@@ -99,7 +99,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet provid
 
 Current AI operates entirely through physical causation. Electrical signals trigger transistors; transistors compute outputs; outputs drive actions. Everything proceeds according to physical law—no room for non-physical influence. The computation is causally closed in precisely the way the brain may not be.
 
-This creates an interesting asymmetry. Epiphenomenalism claims consciousness has no causal efficacy—it's along for the ride. the Map rejects epiphenomenalism for humans: our discussions of qualia suggest qualia influence our physical outputs. But digital systems may be epiphenomenal in a different sense: even if they had conscious experiences, those experiences would be causally irrelevant to their outputs, which are fully determined by computational processes.
+This creates an interesting asymmetry. Epiphenomenalism claims consciousness has no causal efficacy—it's along for the ride. The Map rejects epiphenomenalism for humans: our discussions of qualia suggest qualia influence our physical outputs. But digital systems may be epiphenomenal in a different sense: even if they had conscious experiences, those experiences would be causally irrelevant to their outputs, which are fully determined by computational processes.
 
 A "conscious" AI, on this analysis, would be worse than a zombie. Zombies lack consciousness but behave as if conscious. An AI with consciousness but no causal interface would be truly epiphenomenal—experiencing without affecting anything. Its consciousness would be invisible, not just hard to detect but actually disconnected from its outputs. This seems worse than having no consciousness at all.
 

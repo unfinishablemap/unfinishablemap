@@ -102,7 +102,7 @@ If consciousness is causally efficacious, several advantages might drive its evo
 
 Note that these advantages explain why *brain processes associated with consciousness* might evolve. They don't explain why these processes are accompanied by phenomenal experience. A philosophical zombie—a being functionally identical to a conscious creature but with no inner experience—would gain the same advantages.
 
-This is precisely the hard problem restated in evolutionary terms. the Map's answer: there are no philosophical zombies. Consciousness is not an optional add-on to neural function—it's irreducible and fundamental, and the neural processes associated with consciousness *constitutively involve* consciousness, not merely causally produce it.
+This is precisely the hard problem restated in evolutionary terms. The Map's answer: there are no philosophical zombies. Consciousness is not an optional add-on to neural function—it's irreducible and fundamental, and the neural processes associated with consciousness *constitutively involve* consciousness, not merely causally produce it.
 
 ## The Dualist Advantage
 
@@ -234,7 +234,7 @@ The Map's evolutionary account would be undermined if:
 
 5. **Panpsychism solves the combination problem**: If panpsychists developed a compelling account of how micro-experiences combine into unified consciousness, their dissolution of the evolutionary emergence question would become more attractive. The evolution of consciousness would become the evolution of experiential complexity rather than the appearance of experience from non-experience.
 
-Scientific humility requires specifying what would count against one's view. the Map maintains that current evidence favours dualist-interactionist accounts of consciousness evolution while acknowledging the debate remains active.
+Scientific humility requires specifying what would count against one's view. The Map maintains that current evidence favours dualist-interactionist accounts of consciousness evolution while acknowledging the debate remains active.
 
 ## Further Reading
 

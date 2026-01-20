@@ -153,7 +153,7 @@ The Map's position on decoherence would face serious difficulty if:
 
 3. **Neural quantum effects are conclusively ruled out**: If experiments definitively demonstrate that no quantum effects survive in neural tissue—not in microtubules, not in nuclear spins, not anywhere—the physical basis for quantum consciousness collapses. Current evidence is mixed but increasingly favourable; a decisive negative result would require major revision.
 
-4. **Many-Worlds proves correct**: If the [many-worlds](/arguments/many-worlds/) interpretation were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. The measurement problem dissolves differently, and consciousness has no role in determining outcomes. the Map's [No Many Worlds](/tenets/#no-many-worlds) tenet would fail.
+4. **Many-Worlds proves correct**: If the [many-worlds](/arguments/many-worlds/) interpretation were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. The measurement problem dissolves differently, and consciousness has no role in determining outcomes. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet would fail.
 
 5. **Decoherence solves the measurement problem**: If a fully satisfactory account of definite outcomes emerges that requires only decoherence (no consciousness, no objective collapse, no hidden variables), the logical opening for consciousness at collapse closes. Current physics doesn't provide this—decoherence selects bases, not outcomes—but future developments could change the landscape.
 
@@ -169,7 +169,7 @@ This research suggests three responses:
 
 **Third**, the Zeno mechanism offers a path that doesn't require coherence to survive. Rapid attentional observation could maintain states without sustained superposition.
 
-The decoherence objection is a serious empirical challenge, not a philosophical refutation. Recent experiments have weakened it considerably. The quantum-classical boundary keeps receding, and no principled barrier has been found. the Map's tenets remain defensible: consciousness operating at quantum indeterminacies is not ruled out by current physics.
+The decoherence objection is a serious empirical challenge, not a philosophical refutation. Recent experiments have weakened it considerably. The quantum-classical boundary keeps receding, and no principled barrier has been found. The Map's tenets remain defensible: consciousness operating at quantum indeterminacies is not ruled out by current physics.
 
 The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is relevant here. We assumed warm macroscopic systems must be classical because that matched our intuitions and simplified our models. Nature is proving less accommodating. Simplicity is a heuristic, not a guarantee.
 

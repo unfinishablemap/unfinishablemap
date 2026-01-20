@@ -131,13 +131,13 @@ PP relates to The Unfinishable Map's [tenets](/tenets/) in several ways:
 
 **[Dualism](/tenets/#dualism)**: PP is typically physicalist—consciousness emerges from neural computation. But the framework is methodologically neutral. PP could describe the *physical side* of mind-body interaction without claiming consciousness reduces to computation.
 
-**[Bidirectional Interaction](/tenets/#bidirectional)**: Active inference—organisms acting to change sensory input—resonates with bidirectional interaction. Consciousness doesn't passively receive but actively shapes reality. the Map's claim that consciousness selects among quantum outcomes could be a deeper-level instance of active inference.
+**[Bidirectional Interaction](/tenets/#bidirectional)**: Active inference—organisms acting to change sensory input—resonates with bidirectional interaction. Consciousness doesn't passively receive but actively shapes reality. The Map's claim that consciousness selects among quantum outcomes could be a deeper-level instance of active inference.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum)**: PP says nothing about quantum mechanics. Precision weighting doesn't specify *how* certain signals become salient. Quantum selection could fill this gap—consciousness might influence which prediction errors receive precision, providing the "selector" PP lacks.
 
-**[Attention](/concepts/attention/)**: PP heavily invokes attention through precision weighting. the Map's articles on attention and Stapp's quantum Zeno mechanism connect naturally. Sustained attention may be how consciousness influences which predictions become conscious.
+**[Attention](/concepts/attention/)**: PP heavily invokes attention through precision weighting. The Map's articles on attention and Stapp's quantum Zeno mechanism connect naturally. Sustained attention may be how consciousness influences which predictions become conscious.
 
-**The functionalist limitation**: PP describes important cognitive mechanisms while leaving open whether consciousness requires non-physical explanation. the Map agrees PP captures much about cognition while maintaining the [explanatory-gap](/concepts/explanatory-gap/) remains unbridged.
+**The functionalist limitation**: PP describes important cognitive mechanisms while leaving open whether consciousness requires non-physical explanation. The Map agrees PP captures much about cognition while maintaining the [explanatory-gap](/concepts/explanatory-gap/) remains unbridged.
 
 ## Further Reading
 

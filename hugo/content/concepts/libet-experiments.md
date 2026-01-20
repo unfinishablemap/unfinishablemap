@@ -129,7 +129,7 @@ Three responses:
 
 Daniel Dennett argues that asking "when did the decision occur?" presupposes a Cartesian theatre where consciousness watches neural events. But if consciousness is what the brain does—not something that observes what the brain does—the timing question dissolves. There's no moment when "consciousness decides" because there's no consciousness separate from the neural process to do any deciding.
 
-### the Map's Response
+### The Map's Response
 
 The illusionist response faces the same problem as epiphenomenalism: it threatens to be self-refuting. If the appearance of decision-making is wholly constructed by neural processes unconnected to any real deciding, then the decision to adopt illusionism was itself constructed—not genuinely reasoned to. Dennett's arguments against the Cartesian theatre would be products of neural processes that merely *seemed* like reasoning but weren't.
 

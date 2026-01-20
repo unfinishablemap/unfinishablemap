@@ -291,7 +291,7 @@ The article should:
    - But consciousness isn't *required* for collapse—it's a special case where collapse and experience intersect
    - This preserves all five tenets while solving the prebiotic problem
 
-4. **Acknowledge uncertainty**: Objective collapse theories face experimental pressure. the Map's commitment should be to the *framework* (real collapse + consciousness interface) rather than specific mechanism (GRW vs. Diósi-Penrose vs. Orch OR).
+4. **Acknowledge uncertainty**: Objective collapse theories face experimental pressure. The Map's commitment should be to the *framework* (real collapse + consciousness interface) rather than specific mechanism (GRW vs. Diósi-Penrose vs. Orch OR).
 
 5. **Connect to existing content**:
    - [collapse-and-time](/concepts/collapse-and-time/) — extend with prebiotic discussion

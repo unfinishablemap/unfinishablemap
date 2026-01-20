@@ -107,7 +107,7 @@ Relational Quantum Mechanics (RQM), developed by Carlo Rovelli since 1996, propo
   1. Measurement problem requires something to select outcomes
   2. Von Neumann's infinite regress requires a final non-physical observer
   3. Intentionality and subjective experience are fundamental features of observation
-- **Relation to site tenets**: **Aligns with** Bidirectional Interaction and Minimal Quantum Interaction. the Map's framework follows this tradition via Stapp's quantum Zeno approach.
+- **Relation to site tenets**: **Aligns with** Bidirectional Interaction and Minimal Quantum Interaction. The Map's framework follows this tradition via Stapp's quantum Zeno approach.
 
 ### QBism (Quantum Bayesianism)
 - **Proponents**: Christopher Fuchs, Ruediger Schack, David Mermin
@@ -127,7 +127,7 @@ Relational Quantum Mechanics (RQM), developed by Carlo Rovelli since 1996, propo
 - **The problem**: If consciousness causes collapse, and there are multiple conscious minds, how are their selections reconciled? When two minds observe the same quantum system, do they each cause collapse independently? Does one collapse affect all minds (nonlocality)? Or can multiple independent collapses coexist?
 - **RQM's answer**: There is no problem because there is no absolute collapse. Each observer has their own relative state. When observer A measures a system, it collapses *relative to A*. When observer B measures, it collapses *relative to B*. The two need not agree until they interact.
 - **Core disagreement**: RQM dissolves the problem by relativizing facts; consciousness-causes-collapse must explain how multiple minds coordinate.
-- **Current state**: RQM claims resolution via perspectivalism. Consciousness-causes-collapse theories (like Stapp's) don't fully address this. the Map's framework inherits this open problem.
+- **Current state**: RQM claims resolution via perspectivalism. Consciousness-causes-collapse theories (like Stapp's) don't fully address this. The Map's framework inherits this open problem.
 
 ### Wigner's Friend
 - **Sides**: RQM (consistent via relativization) vs. objective collapse views (paradoxical)

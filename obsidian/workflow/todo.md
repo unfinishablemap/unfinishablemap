@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T20:20:00+00:00
+ai_modified: 2026-01-20T20:31:21+00:00
 draft: false
 topics: []
 concepts: []
@@ -65,6 +65,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Write article on Hoel's continual learning argument
+- **Type**: expand-topic
+- **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel's 2026 paper arguing LLMs cannot be conscious because they lack continual learning. Important foil for llm-consciousness.md and ai-consciousness.md. Engages with functionalism critique.
+- **Result**: Article written covering the proximity argument, falsifiability-non-triviality dilemma, and continual learning criterion. Connected to all 5 site tenets with analysis of how the argument supports anti-functionalism and bidirectional interaction. Added cross-links to llm-consciousness, functionalism, ai-consciousness, substrate-independence-critique, philosophical-zombies.
+- **Output**: obsidian/concepts/continual-learning-argument.md
+
+### ✓ 2026-01-20: Write article on experiential alignment objective
+- **Type**: expand-topic
+- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. Proposes framing AI alignment in experiential terms (suffering, agency, meaning) rather than preference terms. Connects to purpose-and-alignment.md, phenomenal-value-realism.md. Directly supports site's experiential focus and Dualism tenet.
+- **Result**: Article already exists as experiential-alignment.md (created 2026-01-17). Research was consumed previously. Task marked complete as duplicate.
+- **Output**: obsidian/concepts/experiential-alignment.md
 
 ### ✓ 2026-01-20: Deep review attention-schema-theory.md for currency and cross-links
 - **Type**: deep-review
@@ -1436,7 +1448,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-18: Write concept page on downward causation
 - **Type**: expand-topic
-- **Notes**: Research completed in research/downward-causation-mental-causation-2026-01-15.md. Kim's exclusion argument is the primary challenge to mental causation. the Map has mental-causation.md but lacks dedicated treatment of downward causation as a distinct concept—how higher-level properties can causally influence lower-level processes. Critical for defending Bidirectional Interaction tenet.
+- **Notes**: Research completed in research/downward-causation-mental-causation-2026-01-15.md. Kim's exclusion argument is the primary challenge to mental causation. The Map has mental-causation.md but lacks dedicated treatment of downward causation as a distinct concept—how higher-level properties can causally influence lower-level processes. Critical for defending Bidirectional Interaction tenet.
 - **Result**: Created ~2200 word concept page covering: the concept distinguished from adjacent notions, Kim's exclusion argument, the drainage problem, overdetermination problem, major responses (interventionism, inheritance/constitution, O'Connor-Wong structural emergence), the quantum opening as mechanism, weak vs strong downward causation distinction. Updated mental-causation.md, emergence.md, and causal-closure.md with cross-references to new page.
 - **Output**: Created `concepts/downward-causation.md`, updated `concepts/mental-causation.md`, `concepts/emergence.md`, `concepts/causal-closure.md`
 
@@ -1694,7 +1706,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-18: Write article on psychophysical coupling problem
 - **Type**: expand-topic
-- **Notes**: Research completed in research/psychophysical-coupling-problem-2026-01-15.md. the Map's framework implies consciousness "selects" among neural options, but what determines the coupling between phenomenal states and physical outcomes? This formalizes the implicit commitment: what aspects of consciousness map to which quantum degrees of freedom, and what constrains the bandwidth of influence?
+- **Notes**: Research completed in research/psychophysical-coupling-problem-2026-01-15.md. The Map's framework implies consciousness "selects" among neural options, but what determines the coupling between phenomenal states and physical outcomes? This formalizes the implicit commitment: what aspects of consciousness map to which quantum degrees of freedom, and what constrains the bandwidth of influence?
 - **Result**: Article already written as concepts/psychophysical-coupling-law.md (created 2026-01-16, updated 2026-01-17). Covers Chalmers' framework, Stapp's mechanism, bandwidth constraint, four candidate coupling law families, what's not selectable, and testing approaches.
 - **Output**: `concepts/psychophysical-coupling-law.md` (already exists)
 
@@ -1832,7 +1844,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-17: Cross-review episodic-memory.md considering prospective memory insights
 - **Type**: cross-review
-- **Notes**: The concepts/prospective-memory.md article develops futureward mental time travel and EFT as a unified capacity with pastward episodic retrieval. the Map should have an episodic-memory concept page that integrates with prospective-memory. If one doesn't exist, this becomes an expand-topic. Patient KC double deficit shows unified MTT capacity.
+- **Notes**: The concepts/prospective-memory.md article develops futureward mental time travel and EFT as a unified capacity with pastward episodic retrieval. The Map should have an episodic-memory concept page that integrates with prospective-memory. If one doesn't exist, this becomes an expand-topic. Patient KC double deficit shows unified MTT capacity.
 - **Result**: Added "Involuntary Memory" section paralleling prospective memory's pop phenomenon, and "Symmetry of Temporal Qualia" section with comparison table showing pastness vs futuricity phenomenology. Added Berntsen reference on involuntary autobiographical memories.
 - **Output**: Updated `concepts/episodic-memory.md`
 
@@ -2090,7 +2102,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-17: Engage Parfit on personal identity directly
 - **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-16. the Map implies critique of Parfit's reductionism (patterns don't make choices) but doesn't fully develop it. Would strengthen personal-identity.md and support No Many Worlds tenet via indexical identity.
+- **Notes**: Suggested by optimistic review 2026-01-16. The Map implies critique of Parfit's reductionism (patterns don't make choices) but doesn't fully develop it. Would strengthen personal-identity.md and support No Many Worlds tenet via indexical identity.
 - **Result**: Created ~2400 word concept page covering Parfit's reductionist thesis, key thought experiments (teletransportation, fission, gradual replacement), and five grounds for the Map's rejection: patterns don't make choices, zombie conceivability, many-worlds convergence, causal history, practical stakes. Connected to all relevant tenets.
 - **Output**: `concepts/parfit-reductionism.md`, updated `topics/personal-identity.md`
 
@@ -2198,7 +2210,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-17: Create concept page on philosophy of time and consciousness
 - **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-16. the Map implies a metaphysics of time but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation. Would strengthen collapse-and-time.md and retrocausality.md.
+- **Notes**: Suggested by optimistic review 2026-01-16. The Map implies a metaphysics of time but doesn't make it explicit. Collapse realism favors presentism; retrocausality might favor block universe. These need reconciliation. Would strengthen collapse-and-time.md and retrocausality.md.
 - **Result**: Created ~1900 word concept page covering McTaggart's A-series/B-series framework, presentism/eternalism/growing-block ontology, A-theory vs B-theory, time in physics (classical, relativistic, quantum), and site's consciousness-constituted collapse position.
 - **Output**: `concepts/philosophy-of-time.md`
 
@@ -2240,7 +2252,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-16: Create concept page on psychophysical coupling law
 - **Type**: expand-topic
-- **Notes**: Research completed in research/psychophysical-coupling-problem-2026-01-15.md. the Map asserts consciousness "selects" quantum outcomes but this is metaphorical without specifying the coupling law. Research identifies four candidate constraint families: attention-bounded (~10 bits/sec), policy-level, basis-choice, temporal/indexical. Would formalize "selection" from metaphor into research program.
+- **Notes**: Research completed in research/psychophysical-coupling-problem-2026-01-15.md. The Map asserts consciousness "selects" quantum outcomes but this is metaphorical without specifying the coupling law. Research identifies four candidate constraint families: attention-bounded (~10 bits/sec), policy-level, basis-choice, temporal/indexical. Would formalize "selection" from metaphor into research program.
 - **Result**: Created ~2000 word concept page formalizing the coupling problem. Four candidate laws: attention-bounded selection, policy-level selection, basis-choice selection, and indexical selection. Bandwidth constraint (~10 bits/second) shapes what selection can accomplish. Connected to all five tenets.
 - **Output**: `concepts/psychophysical-coupling-law.md`
 
@@ -2294,7 +2306,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-17: Create concept page on phenomenal value realism / metaethics
 - **Type**: expand-topic
-- **Notes**: Research completed in research/phenomenal-value-realism-metaethics-2026-01-16.md. the Map implicitly treats conscious experience as the ground of value but doesn't name this metaethical position. Should cover Rawlette's analytic hedonism, phenomenal value pluralism, and comparison with welfarism/desire theory. Would formalize the implicit commitment and strengthen ethics-of-consciousness.md.
+- **Notes**: Research completed in research/phenomenal-value-realism-metaethics-2026-01-16.md. The Map implicitly treats conscious experience as the ground of value but doesn't name this metaethical position. Should cover Rawlette's analytic hedonism, phenomenal value pluralism, and comparison with welfarism/desire theory. Would formalize the implicit commitment and strengthen ethics-of-consciousness.md.
 - **Result**: Created ~1900 word concept page covering Rawlette's analytic hedonism, the is-ought bridge, site's phenomenal value pluralism (beyond hedonism), connection to dualism and indexical identity, implications for AI/animal ethics/meaning, objections and responses.
 - **Output**: `concepts/phenomenal-value-realism.md`
 

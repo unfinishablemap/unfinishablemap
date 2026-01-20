@@ -127,7 +127,7 @@ Answers fall into three categories:
 - **Consciousness-integrated CSL** (Kremnizer-Ranchin, Okon-Sebastian): Integrated information (Φ) affects collapse rate. Consciousness modulates collapse rather than causing it.
 - **Penrose-Hameroff:** Objective reduction occurs at gravitational threshold, but consciousness is what the reduction *produces*. Collapse constitutes consciousness rather than being caused by it.
 
-**Site compatibility:** Moderate to High. the Map's position is compatible with either "consciousness causes collapse" or "consciousness modulates collapse." What matters is that consciousness participates in determining definite outcomes—whether as cause, modulator, or constitutive process.
+**Site compatibility:** Moderate to High. The Map's position is compatible with either "consciousness causes collapse" or "consciousness modulates collapse." What matters is that consciousness participates in determining definite outcomes—whether as cause, modulator, or constitutive process.
 
 ## Comparison Table
 
@@ -178,7 +178,7 @@ The deepest conflict: MWI explicitly denies that consciousness plays any role in
 
 The interpretive landscape remains genuinely open. This gives the Map's position—consciousness participates in determining quantum outcomes—legitimate standing. The question is not whether physics rules this out (it doesn't) but which interpretation best explains both quantum phenomena and the existence of consciousness.
 
-Interpretations that eliminate consciousness (Bohmian mechanics, MWI) or treat it as purely epistemic (QBism) don't explain why consciousness exists. the Map's framework takes consciousness as explanatory target, not philosophical afterthought.
+Interpretations that eliminate consciousness (Bohmian mechanics, MWI) or treat it as purely epistemic (QBism) don't explain why consciousness exists. The Map's framework takes consciousness as explanatory target, not philosophical afterthought.
 
 ## Further Reading
 

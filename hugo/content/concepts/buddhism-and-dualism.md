@@ -31,7 +31,7 @@ topics:
 
 Buddhism rejects a permanent self while taking consciousness seriously. The Unfinishable Map commits to irreducible consciousness interacting with matter. Are these positions compatible? The answer depends on distinguishing what each actually claims—and what each actually denies.
 
-Buddhism's *anattā* (no-self) doctrine targets a specific conception: the Hindu *ātman*, an eternal soul-substance that persists unchanged through rebirth. Buddhism denies this. But denying a permanent soul-substance is not the same as denying that consciousness exists, that experience is real, or that phenomenal properties resist reduction to physical processes. the Map's [Dualism](/tenets/#dualism) tenet requires consciousness to be irreducible—it does not explicitly require consciousness to be permanent.
+Buddhism's *anattā* (no-self) doctrine targets a specific conception: the Hindu *ātman*, an eternal soul-substance that persists unchanged through rebirth. Buddhism denies this. But denying a permanent soul-substance is not the same as denying that consciousness exists, that experience is real, or that phenomenal properties resist reduction to physical processes. The Map's [Dualism](/tenets/#dualism) tenet requires consciousness to be irreducible—it does not explicitly require consciousness to be permanent.
 
 Not all interpreters will accept this compatibility. Some Buddhist philosophers extend the no-self analysis to consciousness itself—arguing that *vijñāna* is as empty of inherent existence as the self it supposedly constitutes. The [emptiness challenge](//#emptiness-challenge) (addressed below) takes this objection seriously. The compatibility thesis offered here represents one coherent reading, not the only Buddhist position.
 
@@ -82,7 +82,7 @@ The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet 
 
 If consciousness were epiphenomenal (causally inert), karma would be incoherent. Intentions would be mere side-effects of physical brain processes, not genuine causal contributors. Both Buddhism and the Map reject this picture. Mental states matter; consciousness does something.
 
-The mechanism differs. the Map proposes consciousness biases quantum-level outcomes that physics leaves undetermined. Buddhism doesn't engage with quantum mechanics (predating it by millennia). But the structural claim—mind causally affects world—is shared. Both frameworks require what philosophers call [agent-causation](/concepts/agent-causation/)—the capacity of a conscious being to initiate causal chains, not merely transmit them. The Buddhist emphasis on *cetanā* (intention, volition) as karmically central parallels the Map's emphasis on conscious selection at moments of physical indeterminacy. In both cases, what matters is not just that events occur but that they originate in something like deliberate choice.
+The mechanism differs. The Map proposes consciousness biases quantum-level outcomes that physics leaves undetermined. Buddhism doesn't engage with quantum mechanics (predating it by millennia). But the structural claim—mind causally affects world—is shared. Both frameworks require what philosophers call [agent-causation](/concepts/agent-causation/)—the capacity of a conscious being to initiate causal chains, not merely transmit them. The Buddhist emphasis on *cetanā* (intention, volition) as karmically central parallels the Map's emphasis on conscious selection at moments of physical indeterminacy. In both cases, what matters is not just that events occur but that they originate in something like deliberate choice.
 
 This raises a question Buddhism must answer independently: if there's no permanent self, what carries karma across lifetimes? The Buddhist response: causal continuity without substantial identity. The flame analogy again—the flame at midnight is causally connected to the flame at noon without being the same flame. Karma flows along causal chains without requiring a soul-substance to accumulate it.
 
@@ -90,31 +90,31 @@ This raises a question Buddhism must answer independently: if there's no permane
 
 Despite this compatibility, genuine tensions exist.
 
-**The witness problem**: Buddhist meditation reveals [witness-consciousness](/concepts/witness-consciousness/)—the capacity to observe thoughts as objects without identification. This seems to require an observer distinct from what's observed. Some Buddhist schools (especially Advaita-influenced interpretations) lean toward a persistent witness; mainstream Buddhism denies any observer persists. the Map takes no official position, but the phenomenology of witnessing—consciousness observing its own contents—supports the irreducibility claim.
+**The witness problem**: Buddhist meditation reveals [witness-consciousness](/concepts/witness-consciousness/)—the capacity to observe thoughts as objects without identification. This seems to require an observer distinct from what's observed. Some Buddhist schools (especially Advaita-influenced interpretations) lean toward a persistent witness; mainstream Buddhism denies any observer persists. The Map takes no official position, but the phenomenology of witnessing—consciousness observing its own contents—supports the irreducibility claim.
 
-**Minimal self**: [Phenomenological analysis](/concepts/self-and-consciousness/#minimal-self-and-narrative-self) (Zahavi, Gallagher) identifies a "minimal self"—the pre-reflective "for-me-ness" present in all experience. This isn't the narrative self Buddhism deconstructs; it's the structural feature that makes experience first-personal. Buddhism might accept this minimal self exists conventionally while denying it ultimate substantial reality. the Map might accept this compromise—first-personal structure doesn't require permanence.
+**Minimal self**: [Phenomenological analysis](/concepts/self-and-consciousness/#minimal-self-and-narrative-self) (Zahavi, Gallagher) identifies a "minimal self"—the pre-reflective "for-me-ness" present in all experience. This isn't the narrative self Buddhism deconstructs; it's the structural feature that makes experience first-personal. Buddhism might accept this minimal self exists conventionally while denying it ultimate substantial reality. The Map might accept this compromise—first-personal structure doesn't require permanence.
 
-**Liberation vs. explanation**: Buddhism aims at *nirvana*—cessation of suffering through transformation of consciousness. the Map aims at understanding consciousness's place in nature. These projects can complement but might ultimately diverge. Buddhism might say: "Why explain consciousness when you could transform it?" the Map might respond: "Understanding might inform transformation."
+**Liberation vs. explanation**: Buddhism aims at *nirvana*—cessation of suffering through transformation of consciousness. The Map aims at understanding consciousness's place in nature. These projects can complement but might ultimately diverge. Buddhism might say: "Why explain consciousness when you could transform it?" the Map might respond: "Understanding might inform transformation."
 
 ## The Emptiness Challenge {#emptiness-challenge}
 
 The deepest challenge to compatibility comes from the Madhyamaka doctrine of *śūnyatā* (emptiness). If all phenomena lack inherent existence—including consciousness—can consciousness be "fundamental" or "irreducible" in the Map's sense?
 
-The objection: Nāgārjuna's analysis applies equally to consciousness and matter. Both arise dependently; both lack self-existence (*svabhāva*). To claim consciousness is "fundamental" seems to privilege it with exactly the inherent existence Madhyamaka denies. the Map appears to commit precisely what Buddhism critiques.
+The objection: Nāgārjuna's analysis applies equally to consciousness and matter. Both arise dependently; both lack self-existence (*svabhāva*). To claim consciousness is "fundamental" seems to privilege it with exactly the inherent existence Madhyamaka denies. The Map appears to commit precisely what Buddhism critiques.
 
 Three responses are available:
 
-**Emptiness of essence, not existence**: Madhyamaka denies inherent existence, not existence altogether. Consciousness exists conventionally even if it lacks independent essence. the Map's irreducibility claim can be read the same way: phenomenal properties don't reduce to physical properties at the conventional level, regardless of whether either possesses ultimate essence. Irreducibility is a relation between descriptions, not a claim about inherent existence.
+**Emptiness of essence, not existence**: Madhyamaka denies inherent existence, not existence altogether. Consciousness exists conventionally even if it lacks independent essence. The Map's irreducibility claim can be read the same way: phenomenal properties don't reduce to physical properties at the conventional level, regardless of whether either possesses ultimate essence. Irreducibility is a relation between descriptions, not a claim about inherent existence.
 
 **Asymmetric emptiness**: Some Buddhist interpreters hold that while all phenomena are empty, consciousness has a special status as that which recognizes emptiness. The Yogācāra analysis of mind-only points this direction: what appears as the external world is mental construction, but consciousness itself cannot be similarly constructed without infinite regress. This asymmetry doesn't violate emptiness but clarifies its application.
 
-**Practical equivalence**: the Map's framework operates at what Buddhism calls the conventional level. the Map makes claims about how consciousness relates to physical descriptions, not about ultimate metaphysical status. Madhyamaka's two-truths doctrine allows robust conventional claims while denying ultimate inherent existence. The compatibility thesis holds at the conventional level where both frameworks actually operate.
+**Practical equivalence**: the Map's framework operates at what Buddhism calls the conventional level. The Map makes claims about how consciousness relates to physical descriptions, not about ultimate metaphysical status. Madhyamaka's two-truths doctrine allows robust conventional claims while denying ultimate inherent existence. The compatibility thesis holds at the conventional level where both frameworks actually operate.
 
 These responses don't dissolve the tension. A Buddhist might still argue that attributing any special status to consciousness reintroduces attachment to mental phenomena. But the responses show compatibility isn't naive—it can survive serious engagement with Buddhist metaphysics.
 
 ## Yogācāra and the External World
 
-One tension requires separate treatment. the Map's Bidirectional Interaction assumes two relata: consciousness and physical reality. Yogācāra denies physical reality exists independently of consciousness. What is consciousness interacting *with* if everything is mind?
+One tension requires separate treatment. The Map's Bidirectional Interaction assumes two relata: consciousness and physical reality. Yogācāra denies physical reality exists independently of consciousness. What is consciousness interacting *with* if everything is mind?
 
 Several responses are available:
 

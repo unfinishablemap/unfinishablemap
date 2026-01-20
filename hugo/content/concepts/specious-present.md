@@ -126,7 +126,7 @@ If collapse involves retrocausal boundary conditions (as in the transactional in
 
 ### Flow Isn't Illusion
 
-B-theory eternalists treat temporal flow as illusory—all times exist equally, and our sense of "now" moving is a persistent mistake. the Map's framework disagrees: flow is real, the experiential side of time's constitution through collapse. The specious present isn't how the brain represents atemporal reality; it's how consciousness experiences its participation in time's creation.
+B-theory eternalists treat temporal flow as illusory—all times exist equally, and our sense of "now" moving is a persistent mistake. The Map's framework disagrees: flow is real, the experiential side of time's constitution through collapse. The specious present isn't how the brain represents atemporal reality; it's how consciousness experiences its participation in time's creation.
 
 ### Cessation as Negative Evidence
 

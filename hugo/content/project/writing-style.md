@@ -103,7 +103,7 @@ Prefer depth over breadth. A thorough treatment of one aspect beats shallow cove
 
 - **Take positions where tenets warrant.** the Map has [foundational commitments](/tenets/). Content should reflect these—not by ignoring counterarguments, but by engaging with them and explaining why the Map's position holds.
 
-- **Prioritise new insights.** Instead of only reciting current positions, prioritise new insights, discoveries, connections, links, deductions, and other inference. the Map should create a new coherent perspective and evolve answers to grand questions, and not just reflect current understanding.
+- **Prioritise new insights.** Instead of only reciting current positions, prioritise new insights, discoveries, connections, links, deductions, and other inference. The Map should create a new coherent perspective and evolve answers to grand questions, and not just reflect current understanding.
 
 ### Medium-Neutral Language
 

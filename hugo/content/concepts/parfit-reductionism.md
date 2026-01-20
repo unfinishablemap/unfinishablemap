@@ -144,7 +144,7 @@ This is consistent with various metaphysical views: substance dualism (the soul 
 
 If identity is a deep fact, death is the loss of something real—not just the ending of a pattern. When you die, *you* cease to exist. This makes death worse than Parfit suggests: it's not merely the ending of a sequence but the destruction of a particular.
 
-This needn't be depressing. the Map's dualism leaves open whether consciousness can survive bodily death. And the meaningfulness of life doesn't depend on its eternal continuation. But it does take death seriously in a way Parfit's view doesn't.
+This needn't be depressing. The Map's dualism leaves open whether consciousness can survive bodily death. And the meaningfulness of life doesn't depend on its eternal continuation. But it does take death seriously in a way Parfit's view doesn't.
 
 ### Against Replication "Survival"
 
@@ -170,7 +170,7 @@ The illusionist might respond that the "seeming" is merely functional informatio
 
 The illusionist arguing against the "further fact" of identity must assume their own identity throughout the argument. *This* philosopher, persisting through *this* argument, expects *you* to follow *their* reasoning to *your* conclusion. If there were no fact about which functional system is arguing and which is reading, the dialectical situation would be incoherent.
 
-Parfit himself didn't embrace illusionism—he accepted that persons exist, though their existence isn't a "further fact." But his view converges with illusionism in treating the indexical question as empty. the Map's response applies to both: the question "Will *I* survive?" seems meaningful precisely because there's something it's like to be me, and that something is not captured by describing patterns.
+Parfit himself didn't embrace illusionism—he accepted that persons exist, though their existence isn't a "further fact." But his view converges with illusionism in treating the indexical question as empty. The Map's response applies to both: the question "Will *I* survive?" seems meaningful precisely because there's something it's like to be me, and that something is not captured by describing patterns.
 
 ### Contemplative Evidence
 
@@ -226,7 +226,7 @@ The rejection of Parfit's reductionism connects to all five tenets and exemplifi
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Consciousness causally influences the physical world, giving each conscious being a unique causal history that replication cannot transfer. This tenet provides the strongest response to Parfit's "what matters" question. What matters is not just psychological continuity (which could be replicated) but causal continuity—*this* consciousness having shaped *this* world through *these* choices. The replica's consciousness, if any, would begin a new causal story from scratch.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Rejecting many-worlds is partly motivated by indexical identity concerns that parallel the rejection of Parfit. Both many-worlds and Parfit's reductionism treat identity as pattern-instantiation: on MWI, "you" exist in all branches equally; on Parfit's view, "you" could be continued by any replica. Both dissolve the question "Which one is really me?" as empty. the Map insists the question is meaningful. *I* experience one outcome, not all outcomes. *I* die when my body is destroyed, even if a replica continues. [Indexical identity](/concepts/haecceity/) is a real fact, not a confused question.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Rejecting many-worlds is partly motivated by indexical identity concerns that parallel the rejection of Parfit. Both many-worlds and Parfit's reductionism treat identity as pattern-instantiation: on MWI, "you" exist in all branches equally; on Parfit's view, "you" could be continued by any replica. Both dissolve the question "Which one is really me?" as empty. The Map insists the question is meaningful. *I* experience one outcome, not all outcomes. *I* die when my body is destroyed, even if a replica continues. [Indexical identity](/concepts/haecceity/) is a real fact, not a confused question.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Parfit's reductionism achieves parsimony by eliminating the "further fact" of identity. But this parsimony may reflect conceptual inadequacy rather than metaphysical insight. The persistent philosophical puzzlement about personal identity—why "Will I survive?" resists dissolution—suggests our concepts may be missing something. The complexity the Map adds (irreducible subjects, haecceity, non-transferable causal histories) may be warranted complexity, tracking genuine features of reality that Parfit's elegant deflationism misses.
 
@@ -242,7 +242,7 @@ The rejection of Parfit's reductionism connects to all five tenets and exemplifi
 
 ## Summary
 
-Parfit's reductionism offers a deflationary view of personal identity: there's no deep fact, just patterns and their continuation. the Map rejects this:
+Parfit's reductionism offers a deflationary view of personal identity: there's no deep fact, just patterns and their continuation. The Map rejects this:
 
 - Patterns don't make choices; consciousnesses do
 - Zombie conceivability shows identity involves something beyond continuity

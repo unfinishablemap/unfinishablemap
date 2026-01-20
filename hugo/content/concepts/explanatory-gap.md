@@ -160,7 +160,7 @@ Currently, none of these conditions are close to being met. The gap persists acr
 
 ## Relation to the Map's Perspective
 
-The explanatory gap provides direct support for the [Dualism](/tenets/#dualism) tenet. If physical descriptions cannot explain consciousness even in principle—if the gap is not merely temporary ignorance—then consciousness involves something beyond the physical. the Map takes the gap as evidence that consciousness is fundamental, not derived. Physical facts may correlate with conscious facts (neural correlates of consciousness) and may even lawfully determine them. But they don't *explain* them in the way physical explanations typically work.
+The explanatory gap provides direct support for the [Dualism](/tenets/#dualism) tenet. If physical descriptions cannot explain consciousness even in principle—if the gap is not merely temporary ignorance—then consciousness involves something beyond the physical. The Map takes the gap as evidence that consciousness is fundamental, not derived. Physical facts may correlate with conscious facts (neural correlates of consciousness) and may even lawfully determine them. But they don't *explain* them in the way physical explanations typically work.
 
 ### Minimal Quantum Interaction
 

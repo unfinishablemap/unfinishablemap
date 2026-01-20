@@ -32,7 +32,7 @@ topics:
 
 AI alignment—The Unfinishable Map of ensuring artificial intelligence serves human interests—faces a problem that philosophers have debated for millennia: we do not know what human interests ultimately are. The dominant approach learns from human preferences, but preferences may not track what truly matters. If we cannot align AI without knowing humanity's purpose, and we lack clarity on that purpose, then alignment may be building on unstable foundations.
 
-This creates a surprising connection between ancient questions about life's meaning and cutting-edge AI safety research. the Map's framework—particularly its commitment to consciousness as fundamental and its skepticism about simple explanations—illuminates this connection in ways that standard approaches miss.
+This creates a surprising connection between ancient questions about life's meaning and cutting-edge AI safety research. The Map's framework—particularly its commitment to consciousness as fundamental and its skepticism about simple explanations—illuminates this connection in ways that standard approaches miss.
 
 ## The Alignment Assumption
 

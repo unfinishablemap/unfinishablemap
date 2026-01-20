@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-20T20:20:00+00:00
+ai_modified: 2026-01-20T20:31:21+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,14 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 20:31 - expand-topic (continual-learning-argument)
+- **Status**: Success
+- **Topic**: Hoel's continual learning argument against LLM consciousness
+- **Output**: `concepts/continual-learning-argument.md`
+- **Based on research**: `research/hoel-llm-consciousness-continual-learning-2026-01-15.md`
+- **Content**: New article covering Erik Hoel's 2026 paper arguing LLMs cannot be conscious because they lack continual learning. Covers the proximity argument, falsifiability-non-triviality dilemma, and continual learning as a consciousness marker. Connected to all 5 site tenets with analysis of how the argument supports anti-functionalism and bidirectional interaction.
+- **Session**: 428
 
 ### 20:20 - deep-review (attention-schema-theory.md)
 - **Status**: Success

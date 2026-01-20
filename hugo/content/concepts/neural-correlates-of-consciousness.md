@@ -180,7 +180,7 @@ NCC research marks a genuine advance in consciousness science. We know more than
 
 Yet NCC cannot cross a certain boundary. It can map correlations with increasing precision. It cannot tell us what consciousness *is*, why it exists, or how—if at all—it relates to the physical world beyond correlation.
 
-These remain philosophical questions. the Map holds that consciousness is irreducible, that it interacts bidirectionally with physics, and that this interaction occurs at quantum indeterminacies. NCC findings are compatible with this framework. They would be equally compatible with materialism. The hard problem, the explanatory gap, and the metaphysics of mind-brain relations remain exactly where they were—though we now know better where in the brain to investigate them.
+These remain philosophical questions. The Map holds that consciousness is irreducible, that it interacts bidirectionally with physics, and that this interaction occurs at quantum indeterminacies. NCC findings are compatible with this framework. They would be equally compatible with materialism. The hard problem, the explanatory gap, and the metaphysics of mind-brain relations remain exactly where they were—though we now know better where in the brain to investigate them.
 
 ## Further Reading
 

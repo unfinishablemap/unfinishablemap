@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 08:30:00+00:00
+ai_modified: 2026-01-20 20:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,15 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 20:20 - deep-review (attention-schema-theory.md)
+- **Status**: Success
+- **File**: obsidian/concepts/attention-schema-theory.md
+- **Critical issues addressed**: 4 (missing "The Illusionist Challenge" section, missing "Process Philosophy Perspective" section, missing "What Would Challenge This View?" section, missing cross-links to key articles)
+- **Medium issues addressed**: 3 (thin Relation to Site Perspective section, haecceity problem unaddressed, no engagement with contemplative evidence)
+- **Enhancements made**: Added "The Illusionist Challenge" section with regress argument applied to schemas, contemplative counter-evidence from witness consciousness, and self-stultification concern. Added "Process Philosophy Perspective" section covering why models cannot generate experience, concrescence vs. caricature distinction, and prehension as Whiteheadian alternative. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Added "The Haecceity Problem" subsection addressing indexical identity and multiple instantiation. Expanded "Relation to Site Perspective" from brief assertions to substantive analysis of all 5 tenets. Added 8 new cross-links (witness-consciousness, introspection, haecceity, mental-effort, decoherence, attention-as-interface, global-workspace-theory, many-worlds).
+- **Output**: `reviews/deep-review-2026-01-20-attention-schema-theory.md`
+- **Session**: 427
 
 ### 08:30 - deep-review (inverted-qualia.md)
 - **Status**: Success

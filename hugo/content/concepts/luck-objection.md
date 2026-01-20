@@ -102,7 +102,7 @@ Agent-causalists respond: demanding further explanation assumes event-causal red
 
 But this response, while coherent, leaves critics feeling that the luck objection has been answered by stipulation rather than argument. The agent-causalist says "the agent explains it"; the critic asks "but how?"; the agent-causalist says "primitively." This exchange can feel like an impasse.
 
-## the Map's Framework: Selection Is Not Random
+## The Map's Framework: Selection Is Not Random
 
 The Map's position strengthens the agent-causal response by specifying how consciousness exercises causal power at quantum indeterminacies. The key distinction:
 
@@ -138,7 +138,7 @@ If the luck objection were correct—if quantum indeterminacy merely produced ra
 
 A critic might object: "Phenomenology proves nothing. A [philosophical zombie](/concepts/philosophical-zombies/)—physically identical to you but lacking experience—would report the same 'felt effort' while having no actual phenomenology. Your introspective evidence could be misleading."
 
-This objection is question-begging against the Map's framework. the Map's [Dualism](/tenets/#dualism) tenet already rejects that zombies are possible. If consciousness is irreducible to physical processes—as the Map maintains—then beings physically identical to us cannot lack experience. The zombie scenario is not merely implausible; it is incoherent given dualist commitments.
+This objection is question-begging against the Map's framework. The Map's [Dualism](/tenets/#dualism) tenet already rejects that zombies are possible. If consciousness is irreducible to physical processes—as the Map maintains—then beings physically identical to us cannot lack experience. The zombie scenario is not merely implausible; it is incoherent given dualist commitments.
 
 The dialectical situation:
 
@@ -151,7 +151,7 @@ If one accepts physicalism, the zombie objection has force—phenomenological re
 
 Put differently: the zombie objection says "your felt effort might not be real effort." the Map's response is "we have independent reasons to hold that consciousness is real and causally efficacious (the arguments for dualism, the rejection of epiphenomenalism). Given those commitments, phenomenology *is* evidential." The objector who presses the zombie point is not engaging with the Map's position but assuming its negation.
 
-This doesn't mean the phenomenology argument is circular. the Map's dualism rests on independent considerations—the [hard problem](/topics/hard-problem-of-consciousness/), the [explanatory gap](/concepts/explanatory-gap/), the [knowledge argument](/concepts/knowledge-argument/). Those arguments establish that consciousness is irreducible. *Given* that foundation, phenomenological evidence about the nature of choice (effortful vs. passive) provides genuine data about how consciousness operates.
+This doesn't mean the phenomenology argument is circular. The Map's dualism rests on independent considerations—the [hard problem](/topics/hard-problem-of-consciousness/), the [explanatory gap](/concepts/explanatory-gap/), the [knowledge argument](/concepts/knowledge-argument/). Those arguments establish that consciousness is irreducible. *Given* that foundation, phenomenological evidence about the nature of choice (effortful vs. passive) provides genuine data about how consciousness operates.
 
 ### Reasons-Guided Selection
 
@@ -185,7 +185,7 @@ The response has multiple layers:
 
 The luck objection would succeed against the Map's framework if:
 
-1. **Consciousness doesn't select**: If quantum outcomes in the brain are genuinely random, not guided by consciousness, the luck objection applies fully. the Map's position depends on consciousness having genuine causal influence.
+1. **Consciousness doesn't select**: If quantum outcomes in the brain are genuinely random, not guided by consciousness, the luck objection applies fully. The Map's position depends on consciousness having genuine causal influence.
 
 2. **Selection isn't reasons-responsive**: If consciousness biases outcomes but not based on reasons, the selection is arbitrary—just a different kind of luck. Genuine authorship requires that choices reflect what matters to the agent.
 

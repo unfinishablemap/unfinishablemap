@@ -215,7 +215,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet pr
 
 ### Why Decoherence Matters Differently for AI
 
-In biological systems, the decoherence objection claims that quantum coherence cannot survive in warm, wet environments. the Map's response (detailed in the [tenets](/tenets/)) notes that this calculation is disputed, that biological quantum effects demonstrably exist (avian magnetoreception, photosynthesis), and that decoherence doesn't solve the measurement problem anyway.
+In biological systems, the decoherence objection claims that quantum coherence cannot survive in warm, wet environments. The Map's response (detailed in the [tenets](/tenets/)) notes that this calculation is disputed, that biological quantum effects demonstrably exist (avian magnetoreception, photosynthesis), and that decoherence doesn't solve the measurement problem anyway.
 
 For AI systems, the situation is categorically different:
 
@@ -409,7 +409,7 @@ The Map's skepticism about AI consciousness would be substantially weakened if:
 
 5. **Biological consciousness proved purely computational.** If neuroscience demonstrated that biological consciousness requires nothing quantum or non-physical—that classical neural computation suffices and quantum effects are irrelevant—the barrier to AI consciousness would be substrate specificity alone. Searle's biological naturalism would gain support over dualism, and the question would become whether silicon can implement the relevant biological computations.
 
-None of these has occurred. The explanatory gap remains unbridged, IIT remains practically unfalsifiable, AI reports echo training data, and the quantum-biological interface remains plausible (cryptochrome, microtubules). the Map's skepticism remains well-founded given current evidence.
+None of these has occurred. The explanatory gap remains unbridged, IIT remains practically unfalsifiable, AI reports echo training data, and the quantum-biological interface remains plausible (cryptochrome, microtubules). The Map's skepticism remains well-founded given current evidence.
 
 ## Further Reading
 

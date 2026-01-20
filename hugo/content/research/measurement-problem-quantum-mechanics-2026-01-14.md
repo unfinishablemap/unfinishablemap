@@ -28,7 +28,7 @@ topics:
 
 ## Executive Summary
 
-The measurement problem is the central foundational puzzle in quantum mechanics: why do quantum systems evolve deterministically via the Schrödinger equation yet yield definite, probabilistic outcomes upon measurement? A 2025 comprehensive review notes that "amid the cacophony of competing interpretations, the problem today is not as impenetrable as it once seemed"—yet no consensus has emerged. The problem matters profoundly for The Unfinishable Map's framework because it opens a logical space for consciousness to play a role in physics. If collapse is real and its cause unspecified by the formalism, consciousness remains a candidate selector. the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes exactly this: consciousness biases otherwise indeterminate quantum outcomes.
+The measurement problem is the central foundational puzzle in quantum mechanics: why do quantum systems evolve deterministically via the Schrödinger equation yet yield definite, probabilistic outcomes upon measurement? A 2025 comprehensive review notes that "amid the cacophony of competing interpretations, the problem today is not as impenetrable as it once seemed"—yet no consensus has emerged. The problem matters profoundly for The Unfinishable Map's framework because it opens a logical space for consciousness to play a role in physics. If collapse is real and its cause unspecified by the formalism, consciousness remains a candidate selector. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes exactly this: consciousness biases otherwise indeterminate quantum outcomes.
 
 ## Key Sources
 

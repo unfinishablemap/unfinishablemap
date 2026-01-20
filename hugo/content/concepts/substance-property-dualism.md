@@ -69,7 +69,7 @@ Unlike substance dualism, property dualism doesn't posit a separate mental subst
 
 **[Russellian monism](/concepts/russellian-monism/)** (some classify this as property dualism) holds that physics describes only the *relational* or *dispositional* properties of matter—what things do, not what they are intrinsically. Consciousness might be (or be grounded in) the intrinsic nature of physical reality that physics doesn't capture. This makes phenomenal properties more fundamental than physical properties, while preserving a single underlying reality.
 
-However, critics like Adam Pautz argue that Russellian monism is effectively "dualism under another name." It requires brute psychophysical laws connecting quiddities (intrinsic properties) to consciousness—structurally similar to the brute laws dualism posits. Russellian monism claims to avoid dualism's interaction problem by making consciousness "part of" physical reality, but the integration remains schematic. the Map's explicit dualism with its quantum interaction mechanism offers clearer theoretical content.
+However, critics like Adam Pautz argue that Russellian monism is effectively "dualism under another name." It requires brute psychophysical laws connecting quiddities (intrinsic properties) to consciousness—structurally similar to the brute laws dualism posits. Russellian monism claims to avoid dualism's interaction problem by making consciousness "part of" physical reality, but the integration remains schematic. The Map's explicit dualism with its quantum interaction mechanism offers clearer theoretical content.
 
 **Emergent dualism** holds that mental properties emerge from physical complexity in ways that cannot be predicted or explained from physical theory alone. The emergence is ontological, not merely epistemic—mental properties are genuinely novel additions when complex systems arise.
 
@@ -85,7 +85,7 @@ It also preserves the intuition that consciousness is closely tied to brains. A 
 
 Both substance and property dualism share the central insight: [materialism](/arguments/materialism/) fails to account for consciousness. The knowledge argument (Mary's Room), conceivability arguments (zombies), and the intrinsic character of qualia all point toward something beyond physics. Whether you package this as separate substances or irreducible properties, you're affirming that the physical story leaves something out.
 
-Both views are compatible with [interactionism](/archive/arguments/interactionist-dualism/)—though historically, property dualists have sometimes been attracted to epiphenomenalism (mental properties are real but causally inert). the Map's framework requires causal efficacy, which either ontology can accommodate.
+Both views are compatible with [interactionism](/archive/arguments/interactionist-dualism/)—though historically, property dualists have sometimes been attracted to epiphenomenalism (mental properties are real but causally inert). The Map's framework requires causal efficacy, which either ontology can accommodate.
 
 ### Where They Differ
 
@@ -97,7 +97,7 @@ Both views are compatible with [interactionism](/archive/arguments/interactionis
 
 Property dualism avoids this problem trivially. Mental properties are properties *of* brains; they're "paired" with their brains by definition—a property of X is automatically connected to X. The question of pairing doesn't arise.
 
-Substance dualists respond in three ways: (1) accepting that minds are spatially located in the brain where they causally interact (Hasker, Zimmerman); (2) invoking haecceities—primitive "thisness" that grounds pairing without spatial relations (Bailey, Rasmussen, Van Horn); or (3) denying that causation requires spatial relations at all. the Map's quantum framework naturally supports the first response: consciousness is located where it interfaces with neural quantum processes.
+Substance dualists respond in three ways: (1) accepting that minds are spatially located in the brain where they causally interact (Hasker, Zimmerman); (2) invoking haecceities—primitive "thisness" that grounds pairing without spatial relations (Bailey, Rasmussen, Van Horn); or (3) denying that causation requires spatial relations at all. The Map's quantum framework naturally supports the first response: consciousness is located where it interfaces with neural quantum processes.
 
 **On the combination problem**: Property dualism (especially Russellian monism) faces pressure toward [panpsychism](/concepts/panpsychism/)—if phenomenal properties are fundamental, they might be everywhere. But panpsychism faces the combination problem: how do micro-experiences combine into unified consciousness? Substance dualism avoids this by positing unified mental substances from the start.
 

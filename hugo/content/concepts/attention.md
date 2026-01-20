@@ -192,7 +192,7 @@ The meditation evidence supports several claims:
 
 Stanislas Dehaene's Global Workspace Theory holds that consciousness arises when information achieves global availability—broadcast across brain regions via prefrontal-parietal networks. Attention is the "spotlight" that brings information onto the "global workspace stage."
 
-GWT is neutral on whether consciousness is something over and above this global broadcasting. Dehaene takes a functionalist line, identifying consciousness with the broadcasting itself. the Map's framework allows for a different interpretation: global broadcasting is *what happens in the brain* when consciousness attends, not what consciousness *is*.
+GWT is neutral on whether consciousness is something over and above this global broadcasting. Dehaene takes a functionalist line, identifying consciousness with the broadcasting itself. The Map's framework allows for a different interpretation: global broadcasting is *what happens in the brain* when consciousness attends, not what consciousness *is*.
 
 ### IIT and Its Attention Problem
 

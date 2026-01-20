@@ -35,7 +35,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Downward causation is the thesis that higher-level properties can causally influence lower-level processes. When your decision to speak causes neurons to fire, this is downward causation—mental properties affecting physical events. This concept is central to defending The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet against Jaegwon Kim's exclusion argument. Kim contends that physical causes "screen off" higher-level causes, draining all causal efficacy to fundamental physics. the Map's quantum framework provides a response: consciousness causally influences physical outcomes at points where physics is genuinely incomplete.
+Downward causation is the thesis that higher-level properties can causally influence lower-level processes. When your decision to speak causes neurons to fire, this is downward causation—mental properties affecting physical events. This concept is central to defending The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet against Jaegwon Kim's exclusion argument. Kim contends that physical causes "screen off" higher-level causes, draining all causal efficacy to fundamental physics. The Map's quantum framework provides a response: consciousness causally influences physical outcomes at points where physics is genuinely incomplete.
 
 ## The Concept Distinguished
 

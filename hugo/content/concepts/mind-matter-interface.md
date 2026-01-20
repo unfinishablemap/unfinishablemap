@@ -229,7 +229,7 @@ The two-layer model would be undermined if:
 
 3. **The psychedelic paradox reversed**: If reduced brain activity consistently produced reduced experience, filter theory's distinctive prediction would fail. Currently, the pattern (reduced activity → expanded experience) holds across multiple contexts.
 
-4. **MWI proved correct**: If the Many-Worlds Interpretation were established, genuine selection would be illusory—all possibilities would occur in different branches. the Map rejects MWI for independent reasons (see [many-worlds](/arguments/many-worlds/)), but confirming MWI would undermine Layer 2.
+4. **MWI proved correct**: If the Many-Worlds Interpretation were established, genuine selection would be illusory—all possibilities would occur in different branches. The Map rejects MWI for independent reasons (see [many-worlds](/arguments/many-worlds/)), but confirming MWI would undermine Layer 2.
 
 5. **Selection proved illusory**: If apparent choices turned out to be post-hoc confabulations—consciousness merely registering decisions already made—Layer 2's causal efficacy claim would fail. Libet-style experiments initially seemed to show this, but Schurger's stochastic reinterpretation and subsequent research have substantially weakened this challenge.
 

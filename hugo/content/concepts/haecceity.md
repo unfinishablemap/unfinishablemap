@@ -68,7 +68,7 @@ The answer cannot be purely qualitative. By hypothesis, you and your zombie twin
 
 This is haecceity applied to consciousness. The fact that you are conscious is not just a qualitative fact about your brain states—it's the fact that *this* subject exists and experiences.
 
-## the Map's Indexical Emphasis
+## The Map's Indexical Emphasis
 
 The [No Many Worlds](/tenets/#no-many-worlds) tenet explicitly invokes indexical identity. The objection to many-worlds isn't merely ontological (too many universes) or probabilistic (the Born rule problem). It's fundamentally about identity:
 
@@ -192,7 +192,7 @@ The haecceitistic framework would be challenged by:
 
 These challenges remain unmet, but their form clarifies what the haecceitistic commitment claims.
 
-## the Map's Commitment
+## The Map's Commitment
 
 The Map doesn't explicitly endorse "haecceitism" by name. But its commitments imply haecceity about conscious subjects:
 

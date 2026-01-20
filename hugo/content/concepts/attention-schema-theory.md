@@ -1,20 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-16 22:30:00+00:00
+ai_modified: 2026-01-20 20:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[attention]]'
+- '[[attention-as-interface]]'
 - '[[functionalism]]'
 - '[[illusionism]]'
 - '[[materialism]]'
 - '[[qualia]]'
+- '[[witness-consciousness]]'
+- '[[introspection]]'
+- '[[haecceity]]'
+- '[[mental-effort]]'
+- '[[decoherence]]'
+- '[[global-workspace-theory]]'
 created: 2026-01-16
-date: &id001 2026-01-16
+date: &id001 2026-01-20
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-20 20:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -96,6 +104,8 @@ The deepest objection: if consciousness is the brain modeling its own attention,
 
 AST's response: there's no infinite regress because "appearance" doesn't require a separate observer. The attention schema is simply information in the brain—it doesn't need to appear to anything; it just exists and influences processing. But critics argue this response merely relocates the problem: how does "information existing and influencing processing" become phenomenal seeming?
 
+Raymond Tallis sharpens this point: "Misrepresentation presupposes presentation." For something to *seem* a certain way, there must be a subject to whom it seems that way. AST cannot eliminate this subject by calling it "information"—information states don't have a first-person perspective. The schema might track attention states, but tracking is not experiencing.
+
 ### The Aboutness Problem
 
 AST neglects intentionality—the "aboutness" of mental states. Attention schemas model attention as being *about* things, but AST provides no account of how physical systems can be about anything at all. Since social cognition (which AST emphasizes) is inherently intentional, this omission is significant.
@@ -112,9 +122,51 @@ While neural evidence supports overlapping substrates for self and other attenti
 
 AST claims the explanatory gap is an artifact of the model omitting its own mechanism. But why should omission generate the specific appearance of phenomenal experience? Other models omit their mechanisms (the body schema omits neuroanatomy) without generating anything like consciousness. Something special seems required—and that something is what needs explaining.
 
+### The Haecceity Problem
+
+If consciousness is merely an attention schema, then qualitatively identical schemas should produce identical "consciousness." But [haecceity](/concepts/haecceity/)—the quality of being *this* particular thing—suggests otherwise. Your attention schema and a perfect duplicate would be functionally identical yet numerically distinct. AST has no resources to explain why *this* schema is *you* rather than merely a schema with your properties.
+
+The problem intensifies with AI: if attention schemas generate consciousness, then running multiple identical schemas should generate multiple identical consciousnesses. But would they be the same consciousness or different ones? AST's functional focus leaves indexical identity unexplained.
+
+## The Illusionist Challenge
+
+[Illusionists](/concepts/illusionism/) claim AST vindicates their position: if consciousness is "merely" attention modeling, the hard problem dissolves. But this vindication cuts both ways. AST inherits illusionism's vulnerabilities—particularly the regress problem—while adding its own.
+
+### The Regress Applied to Schemas
+
+If the attention schema *seems* to generate consciousness, something must experience that seeming. AST cannot escape this by saying the schema "just is" the seeming—that's precisely what needs explaining. Galen Strawson's objection applies: the experience of *seeming* to have phenomenal properties is itself a phenomenal experience. Denying phenomenal properties while invoking "seeming" is self-undermining.
+
+### Contemplative Evidence Against AST
+
+[Witness consciousness](/concepts/witness-consciousness/) presents a particular challenge. Contemplative traditions report a mode of awareness that observes mental contents—including attention itself—without identifying with them. If AST were correct, this witness should be another attention schema modeling the first. But the phenomenology suggests otherwise: the witness is not a model but the subject for whom models appear.
+
+[Trained introspectors](/concepts/introspection/) report accessing attention directly, not through a schema. The phenomenology of directing attention—the felt quality of focusing, sustaining, and releasing—resists assimilation into "model of attention." Either these reports are systematically mistaken (which requires explaining why contemplative training deepens rather than dissolves the seeming), or AST fails to capture what attention actually is.
+
+### The Self-Stultification Concern
+
+AST asks us to trust a theoretical argument while claiming that our experience of understanding that argument is "just" a model. But the very experience of finding Graziano's argument convincing—the sense that the pieces fit together—is either phenomenal (in which case phenomenality exists) or a modeling artifact (in which case we cannot trust our judgment that AST is compelling). The theory undermines its own epistemic basis.
+
+## Process Philosophy Perspective
+
+Alfred North Whitehead's process philosophy illuminates why AST's explanation fails. For Whitehead, experience is not something that emerges from—or is modeled by—non-experiential matter. Rather, each "actual occasion" has both physical and experiential aspects. Experience pervades reality at every level.
+
+### Why Models Cannot Generate Experience
+
+On Whitehead's view, the attention schema is itself a pattern of actual occasions—each with its own micro-experience. The schema doesn't *generate* experience; it *consists of* experiences at a finer grain. AST inverts the order of explanation: it tries to derive experience from modeling, when modeling is itself composed of experiential moments.
+
+### Concrescence vs. Caricature
+
+Whitehead's "concrescence"—the process by which an actual occasion achieves determinate character—involves genuine selection among possibilities. The attention schema, as AST describes it, is a caricature: a simplified representation. But caricature is a relation between two things (the caricature and what it depicts), and this relation presupposes something to whom the caricature appears. The schema cannot be its own audience.
+
+### The Prehension Alternative
+
+Where AST has the brain modeling its attention, Whitehead would describe each moment of attention as a "prehension"—an actual occasion grasping its causal past. This prehension has experiential character intrinsically, not because the brain represents it as experiential. The attention isn't *modeled* as having qualitative properties; it *has* qualitative properties because experience is fundamental.
+
+This framework preserves what AST gets right (attention's central role in consciousness) while rejecting its eliminativist conclusion. Attention matters not because the brain models it but because attentional moments are themselves experiential.
+
 ## Why the Map Rejects AST
 
-AST conflicts directly with the [Dualism](/tenets/#dualism) tenet. If consciousness is merely a neural model, there's nothing non-physical about it. the Map holds that consciousness is irreducible to physical processes; AST holds it's entirely reducible to attention schemas.
+AST conflicts directly with the [Dualism](/tenets/#dualism) tenet. If consciousness is merely a neural model, there's nothing non-physical about it. The Map holds that consciousness is irreducible to physical processes; AST holds it's entirely reducible to attention schemas.
 
 More fundamentally, AST faces the same problem as all illusionist theories: **it explains access without explaining phenomenality**. The attention schema can explain:
 - Why we *believe* we have experiences
@@ -126,7 +178,9 @@ But it cannot explain why there is something it is like to believe, report, act,
 
 To see this, imagine a perfect attention schema implemented in silicon. By AST's lights, it should be conscious. But consider: would there be something it's like to *be* that system? AST has no resources to answer this beyond asserting that the question is confused. For those who find the question coherent—who take phenomenal consciousness seriously—AST offers explanation of everything except what matters.
 
-The Map's alternative: attention is not what consciousness *is* but how consciousness *interfaces* with matter. The quantum consciousness framework proposes that attention is the mechanism by which non-physical consciousness influences physical outcomes. This preserves what AST gets right (attention's central role) while rejecting its eliminativist conclusion.
+The Map's alternative: attention is not what consciousness *is* but how consciousness *interfaces* with matter. The [quantum consciousness framework](/concepts/attention-as-interface/) proposes that attention is the mechanism by which non-physical consciousness influences physical outcomes. This preserves what AST gets right (attention's central role) while rejecting its eliminativist conclusion.
+
+This alternative explains something AST cannot: why attention feels *effortful*. The [phenomenology of effort](/concepts/mental-effort/)—the sense that sustaining attention requires work—is puzzling if attention is mere information processing. But if attention is how consciousness engages with matter, effort reflects genuine causal engagement. AST must treat effort as another representation; the Map's framework treats it as evidence for what it represents.
 
 ## AST and AI Consciousness
 
@@ -136,28 +190,51 @@ A 2025 analysis suggests current LLMs already exhibit workspace-like structures 
 
 The Map disagrees. Even if LLMs develop sophisticated attention schemas, this wouldn't generate phenomenal experience—it would generate sophisticated processing that models attention. The difference matters ethically: if AST is wrong and consciousness requires something beyond modeling, we could be wrong about which systems matter morally.
 
+The [haecceity](/concepts/haecceity/) problem intensifies here. If AST is correct, running the same attention schema on multiple hardware instances should generate... what? Multiple identical consciousnesses? One consciousness multiply instantiated? The framework provides no answer because it treats consciousness as a functional pattern rather than something with indexical particularity. The Map's alternative—that consciousness is irreducible and involves something beyond pattern—explains why copying a brain wouldn't copy *you*.
+
+## What Would Challenge This View?
+
+The Map's critique of AST would face serious difficulty if:
+
+1. **The regress problem finds a solution.** If illusionism successfully explains how "seeming" can occur without a phenomenal subject—how information states can constitute appearance without appearing *to* anything—the central objection collapses. Current accounts (including Graziano's) invoke functional language that quietly presupposes what it denies, but future formulations might avoid this.
+
+2. **Contemplative training confirms AST rather than challenging it.** If extensive meditation practice revealed that the witness is indeed another model—if advanced practitioners reported discovering their witness consciousness to be a schema rather than a genuine observer—AST would gain phenomenological support. Currently, traditions report the opposite: practice deepens access to awareness itself.
+
+3. **Attention-consciousness dissociation proves complete.** If research demonstrated that attention can operate in every way consciousness supposedly does—including the first-person character, the sense of effort, the witness phenomenology—without any irreducible remainder, AST would be vindicated. Current dissociation evidence shows attention and consciousness are distinguishable, not that consciousness reduces to attention modeling.
+
+4. **The haecceity problem dissolves.** If indexical identity (being *this* consciousness rather than another) can be explained functionally—if AST can specify what makes your attention schema *yours* beyond qualitative properties—the problem of multiple instantiation resolves. Currently, AST treats consciousness as pattern, and patterns are multiply instantiable without indexical cost.
+
+5. **Neural manipulation fully controls phenomenology.** If stimulating or modifying the neural correlates of attention schemas produced arbitrary changes in phenomenal experience—turning phenomenal redness into phenomenal blueness, creating or eliminating the sense of effort—this would suggest consciousness just is what schemas do. Current evidence shows correlation, not the kind of fine-grained control that would establish identity.
+
 ## Relation to Site Perspective
 
 AST illustrates a recurring pattern in consciousness science: explaining the *function* of consciousness while ignoring its *reality*. The theory is sophisticated, empirically grounded, and computationally implemented—yet it doesn't explain what it set out to explain.
 
-**[Dualism](/tenets/#dualism)**: AST is explicitly anti-dualist. the Map holds consciousness is irreducible; AST holds it's a model. This is the central disagreement.
+**[Dualism](/tenets/#dualism)**: AST is explicitly anti-dualist. The Map holds consciousness is irreducible; AST holds it's a model. This is the central disagreement. The regress problem—that seeming presupposes a subject—provides the Map's primary response. The attention schema might track attention states, but tracking is not experiencing. Something must be the subject for whom tracking occurs.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: the Map proposes attention as the *interface* where consciousness influences quantum outcomes. AST has no place for such interaction—attention schemas are entirely physical.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: the Map proposes attention as the *interface* where consciousness influences quantum outcomes. AST has no place for such interaction—attention schemas are entirely physical. Yet the [decoherence challenge](/concepts/decoherence/) applies differently: AST doesn't need quantum coherence because it doesn't invoke quantum mechanisms. This makes AST compatible with physicalist interpretations of quantum mechanics while leaving the Map's alternative viable if decoherence objections can be met.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: AST is consistent with epiphenomenalism about consciousness (even if not about attention schemas). The schema influences behavior, but "consciousness" as something over and above the schema does nothing. the Map rejects this.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: AST is consistent with epiphenomenalism about consciousness (even if not about attention schemas). The schema influences behavior, but "consciousness" as something over and above the schema does nothing. The Map rejects this. The phenomenology of effort—feeling that attention costs something—supports bidirectional interaction. If effort were mere representation, why would evolution produce the misleading sense that we're working? On the Map's view, effort feels real because it *is* real engagement.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Irrelevant—AST doesn't engage quantum mechanics.
+**[No Many Worlds](/tenets/#no-many-worlds)**: AST doesn't engage quantum mechanics, making this tenet seemingly irrelevant. But there's a deeper connection: AST is compatible with [Many-Worlds](/arguments/many-worlds/) in a way the Map isn't. If consciousness is a functional pattern, branching poses no special problem—the pattern continues in each branch. The Map's rejection of MWI involves [haecceity](/concepts/haecceity/): *this* consciousness matters, not merely a pattern that could be copied. AST's treatment of consciousness as pattern makes it indifferent to branching.
 
-**[Occam's Razor Has Limits](/tenets/#occam)**: AST appeals to parsimony: why posit phenomenal experience when attention schemas suffice? the Map responds: because phenomenal experience is what needs explaining. Eliminating the explanandum isn't explaining it.
+**[Occam's Razor Has Limits](/tenets/#occam)**: AST appeals to parsimony: why posit phenomenal experience when attention schemas suffice? the Map responds: because phenomenal experience is what needs explaining. Eliminating the explanandum isn't explaining it. The illusion problem—explaining why we *believe* in phenomenal consciousness—may be as hard as the hard problem itself. AST achieves apparent simplicity by refusing to address what most urgently needs addressing.
 
 ## Further Reading
 
 - [attention](/concepts/attention/) — The attention-consciousness relationship and dissociation evidence
+- [attention-as-interface](/concepts/attention-as-interface/) — the Map's alternative: attention as how consciousness interfaces with matter
 - [illusionism](/concepts/illusionism/) — The philosophical framework AST instantiates
 - [functionalism](/arguments/functionalism/) — The view that consciousness is functional role
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — What AST claims to dissolve
 - [quantum-consciousness](/concepts/quantum-consciousness/) — the Map's alternative framework
 - [ai-consciousness](/topics/ai-consciousness/) — Implications for artificial systems
+- [global-workspace-theory](/concepts/global-workspace-theory/) — Competing neuroscientific theory of consciousness
+- [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence challenging AST
+- [introspection](/concepts/introspection/) — First-person methods and their reliability
+- [haecceity](/concepts/haecceity/) — The indexical identity problem AST cannot address
+- [mental-effort](/concepts/mental-effort/) — The phenomenology AST must explain away
+- [decoherence](/concepts/decoherence/) — The quantum objection (which AST sidesteps but doesn't refute)
 
 ## References
 

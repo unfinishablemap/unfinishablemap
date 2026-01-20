@@ -181,7 +181,7 @@ Integrated Information Theory (IIT), developed by neuroscientist Giulio Tononi s
 ### Dualism Tenet
 IIT takes consciousness seriously as something that cannot be eliminated or explained away. This partially aligns with the Dualism tenet. However, IIT identifies consciousness WITH certain physical properties (integrated information) rather than treating it as a separate non-physical substance. This is closer to property dualism or neutral monism than substance dualism.
 
-**Tension**: the Map's dualism is stronger—consciousness is "not reducible to physical processes." IIT says consciousness IS a physical property (like mass or charge). the Map would likely find this too reductive, even though IIT claims to take phenomenology as fundamental.
+**Tension**: the Map's dualism is stronger—consciousness is "not reducible to physical processes." IIT says consciousness IS a physical property (like mass or charge). The Map would likely find this too reductive, even though IIT claims to take phenomenology as fundamental.
 
 ### Minimal Quantum Interaction Tenet
 IIT does not require quantum effects. It works entirely at the level of classical information processing and physical architecture. This neither supports nor contradicts the Minimal Quantum Interaction tenet directly—IIT is simply silent on quantum mechanics.
@@ -199,7 +199,7 @@ IIT is neutral on quantum interpretations. Since it doesn't rely on quantum mech
 ### Occam's Razor Has Limits Tenet
 IIT is itself an example of a theory that adds ontological complexity (panpsychism) rather than reducing consciousness to simpler physical processes. In this sense, it aligns with the tenet that simplicity isn't always the right guide.
 
-**However**: IIT's critics would say it fails Occam's Razor by attributing consciousness to systems (expander graphs) where it seems absurd. the Map might respond that this shows the limits of intuition, not the failure of the theory.
+**However**: IIT's critics would say it fails Occam's Razor by attributing consciousness to systems (expander graphs) where it seems absurd. The Map might respond that this shows the limits of intuition, not the failure of the theory.
 
 ## Potential Article Angles
 

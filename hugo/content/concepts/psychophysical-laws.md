@@ -76,7 +76,7 @@ Causal laws (or "selection laws" in the Map's terminology) specify how mental st
 
 The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires causal laws—not merely supervenience laws. Consciousness doesn't just accompany brain states; it selects among physically underdetermined alternatives. The [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) page explores what such selection laws might look like.
 
-**The asymmetry**: Chalmers' framework primarily develops the upward direction (physical → phenomenal). the Map needs laws for both directions, with special emphasis on the downward direction (phenomenal → physical selection).
+**The asymmetry**: Chalmers' framework primarily develops the upward direction (physical → phenomenal). The Map needs laws for both directions, with special emphasis on the downward direction (phenomenal → physical selection).
 
 ## Chalmers' Three Principles
 
@@ -100,7 +100,7 @@ Chalmers defends this through the "fading qualia" thought experiment: gradually 
 
 Information has two aspects: physical and phenomenal. Where information exists in physical processing, it also has a phenomenal character. This suggests that wherever information is processed, some form of experience may be present—approaching panpsychism from information theory.
 
-**Relation to IIT**: This principle anticipates [Integrated Information Theory](/concepts/integrated-information-theory/), which identifies consciousness with integrated information (phi). the Map is skeptical of IIT's specific measures but the general connection between information and experience remains relevant.
+**Relation to IIT**: This principle anticipates [Integrated Information Theory](/concepts/integrated-information-theory/), which identifies consciousness with integrated information (phi). The Map is skeptical of IIT's specific measures but the general connection between information and experience remains relevant.
 
 ## The Quantum Development
 
@@ -142,17 +142,17 @@ The Map builds on Chalmers' framework but makes different choices at key junctio
 
 ### Direction of Causation
 
-Chalmers emphasizes upward laws (physical → phenomenal) and tends toward epiphenomenalism. the Map insists on downward causation (phenomenal → physical). This isn't merely a difference of emphasis—it's a substantive disagreement about whether consciousness makes a difference to what happens.
+Chalmers emphasizes upward laws (physical → phenomenal) and tends toward epiphenomenalism. The Map insists on downward causation (phenomenal → physical). This isn't merely a difference of emphasis—it's a substantive disagreement about whether consciousness makes a difference to what happens.
 
 The Map's argument against epiphenomenalism: if consciousness were causally inert, our beliefs *about* consciousness would be causally disconnected from consciousness itself. We'd be accidentally right at best about our own experiences. This is self-undermining.
 
 ### The Selection Mechanism
 
-Chalmers leaves the mechanism abstract. the Map (following Stapp) specifies attention as the mental variable and quantum Zeno maintenance as the mechanism. Conscious attention holds desired neural patterns actual through repeated observation—not by injecting energy, but by affecting which quantum possibilities become actual.
+Chalmers leaves the mechanism abstract. The Map (following Stapp) specifies attention as the mental variable and quantum Zeno maintenance as the mechanism. Conscious attention holds desired neural patterns actual through repeated observation—not by injecting energy, but by affecting which quantum possibilities become actual.
 
 ### Rejection of Organizational Invariance
 
-The Map doesn't accept that functional organization alone determines experience. Substrate matters—not because silicon can't be conscious, but because the particular physical instantiation may affect phenomenal character in ways that functional description misses. the Map's rejection of functionalism creates this divergence.
+The Map doesn't accept that functional organization alone determines experience. Substrate matters—not because silicon can't be conscious, but because the particular physical instantiation may affect phenomenal character in ways that functional description misses. The Map's rejection of functionalism creates this divergence.
 
 ### Bandwidth Constraints
 
@@ -160,7 +160,7 @@ The Map incorporates the ~10 bits/second limitation on conscious processing. Wha
 
 ### Haecceity and Organizational Invariance
 
-The Map's rejection of organizational invariance connects to [haecceity](/concepts/haecceity/)—the primitive "thisness" of particular conscious subjects. Chalmers holds that functional duplicates have identical experiences. the Map holds that the particular subject matters—not just the pattern.
+The Map's rejection of organizational invariance connects to [haecceity](/concepts/haecceity/)—the primitive "thisness" of particular conscious subjects. Chalmers holds that functional duplicates have identical experiences. The Map holds that the particular subject matters—not just the pattern.
 
 If consciousness involves [haecceitistic identity](/concepts/haecceity/), then identical organization doesn't guarantee identical *subject*. Two systems could share all functional properties yet differ in which consciousness (if any) accompanies them. This is why the Map rejects [functionalism](/arguments/functionalism/) while Chalmers remains sympathetic to it. Organizational invariance treats consciousness as a pattern; the Map treats it as a particular.
 
@@ -176,7 +176,7 @@ If consciousness involves [haecceitistic identity](/concepts/haecceity/), then i
 
 **Third**, parsimony favours eliminating psychophysical laws rather than positing them. If neuroscience can eventually explain why we *believe* we're conscious without invoking phenomenal properties, the additional ontological commitment is unnecessary.
 
-### the Map's Response
+### The Map's Response
 
 The illusionist position faces a regress problem, as [Raymond Tallis observes](/concepts/introspection/): "misrepresentation presupposes presentation." For something to *seem* phenomenally conscious, there must be a subject to whom it seems that way. This seeming is itself experiential. The "illusion" of consciousness requires consciousness to be an illusion *for*—and that consciousness cannot be another illusion without infinite regress.
 
@@ -214,7 +214,7 @@ Psychophysical laws are where the Map's tenets become theoretically precise.
 
 **[Dualism](/tenets/#dualism)** requires psychophysical laws by definition. If consciousness is ontologically distinct from physics, something must specify how they relate.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** requires that these laws run in both directions—not just upward supervenience, but downward selection. the Map's [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) articulates what such selection laws must accomplish.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** requires that these laws run in both directions—not just upward supervenience, but downward selection. The Map's [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) articulates what such selection laws must accomplish.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains what kind of psychophysical laws are admissible. Consciousness biases quantum outcomes without violating conservation laws—the smallest intervention physics permits.
 

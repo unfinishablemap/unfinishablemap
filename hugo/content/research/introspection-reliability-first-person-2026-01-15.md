@@ -236,7 +236,7 @@ Key insights for any article:
 
 This research is directly relevant to the Map's methodology. Key conclusions:
 
-**For the Dualism tenet**: The critique of introspection targets causal process access, not phenomenal qualities. the Map's claims about qualia, the hard problem, and the irreducibility of experience concern *what it is like* to have conscious states—precisely the domain where even skeptics (Wilson) acknowledge introspection has some access. The phenomenal/causal distinction protects the Map's core arguments.
+**For the Dualism tenet**: The critique of introspection targets causal process access, not phenomenal qualities. The Map's claims about qualia, the hard problem, and the irreducibility of experience concern *what it is like* to have conscious states—precisely the domain where even skeptics (Wilson) acknowledge introspection has some access. The phenomenal/causal distinction protects the Map's core arguments.
 
 **For Occam's Razor Has Limits**: Dismissing two millennia of contemplative investigation as "merely subjective" may reflect methodological blindness rather than parsimony. The training effects literature suggests that apparent unreliability reflects *untrained* introspection. Properly conducted first-person investigation may reveal genuine features of consciousness invisible to third-person methods.
 

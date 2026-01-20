@@ -49,7 +49,7 @@ then normativity exists within the empirical world. The badness of pain isn't ad
 
 The coherence test: "pleasant feelings are intrinsically bad" would be incoherent—it would suggest the speaker means something different by "pleasant" than we do. If you genuinely understood what pleasant means, you couldn't coherently deny its goodness.
 
-## the Map's Position: Phenomenal Value Pluralism
+## The Map's Position: Phenomenal Value Pluralism
 
 The Map adopts a variant that extends beyond pure hedonism. While hedonic valence (pleasure/pain) matters, it isn't the only thing that matters. Multiple features of conscious experience have intrinsic value:
 
@@ -97,7 +97,7 @@ The [Dualism tenet](/tenets/#dualism) holds that consciousness is not reducible 
 
 The Map's emphasis on [indexical identity](/concepts/haecceity/) extends to value. *This* experience matters—not just experiences-of-this-type. Your particular conscious life has value that couldn't be replicated by a qualitatively identical duplicate.
 
-Most value theories treat value as type-based: pleasure is good wherever it occurs, identically. the Map suggests token-based value: *this* particular experience, happening to *this* particular subject, has unique significance.
+Most value theories treat value as type-based: pleasure is good wherever it occurs, identically. The Map suggests token-based value: *this* particular experience, happening to *this* particular subject, has unique significance.
 
 This connects to the [No Many Worlds tenet](/tenets/#no-many-worlds). If indexical identity matters morally, then you can't be "replaced" by a duplicate without genuine loss. The value in your experience is yours—not merely an instance of a value-type that exists wherever the pattern does.
 
@@ -143,7 +143,7 @@ If only conscious experience has value, do ecosystems, historical events, or fut
 
 | Position | Relation |
 |----------|----------|
-| **Hedonism** | Phenomenal value realism is compatible with hedonism but not reducible to it. the Map holds a pluralist variant where multiple phenomenal features matter. |
+| **Hedonism** | Phenomenal value realism is compatible with hedonism but not reducible to it. The Map holds a pluralist variant where multiple phenomenal features matter. |
 | **Moral realism** | Phenomenal value realism is a form of moral realism—value is objective, not constructed or preference-dependent. |
 | **Non-naturalism** | If consciousness is non-physical (dualism), and value is grounded in consciousness, value may be non-natural in Moore's sense. |
 | **Error theory** | Phenomenal value realism rejects error theory. Consciousness exists; value is a feature of consciousness; therefore value exists. |

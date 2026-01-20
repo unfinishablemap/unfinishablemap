@@ -56,7 +56,7 @@ The new content shows strong engagement with philosophical counterpositions and 
 *On purpose-and-alignment.md*: "You claim consciousness is where 'purpose resides' but this is not testable. An AI alignment researcher could reasonably ask: what prediction does this make? If we cannot distinguish an aligned AI from a misaligned one based on this criterion, it's not a useful contribution to alignment research."
 
 ### The Buddhist Philosopher (Nagarjuna)
-*On eastern-philosophy-consciousness.md*: "Your article engages seriously with Buddhism but ultimately tries to rescue a permanent self by switching from substance dualism to property dualism. This is still grasping. If phenomenal properties 'arise and pass dependently,' what is the entity that *has* these properties? You cannot escape anattā by relabelling. the Map's attempt to be both dualist and impermanence-friendly is conceptually unstable."
+*On eastern-philosophy-consciousness.md*: "Your article engages seriously with Buddhism but ultimately tries to rescue a permanent self by switching from substance dualism to property dualism. This is still grasping. If phenomenal properties 'arise and pass dependently,' what is the entity that *has* these properties? You cannot escape anattā by relabelling. The Map's attempt to be both dualist and impermanence-friendly is conceptually unstable."
 
 *On functionalism.md*: "You reject functionalism for leaving out qualia. But qualia themselves are empty—arising dependently, without inherent existence. Your critique presupposes a kind of phenomenal realism that is itself a form of clinging."
 
@@ -100,7 +100,7 @@ The new content shows strong engagement with philosophical counterpositions and 
 ### Cognitive Closure Is Unfalsifiable
 - **Current content says**: Some voids may be genuinely unexplorable due to cognitive architecture
 - **A critic would argue**: This is conveniently unfalsifiable. Any failure to explain consciousness can be attributed to cognitive closure rather than inadequate theory.
-- **Suggested response**: Acknowledge the falsifiability concern but note that cognitive closure is a *hypothesis*, not a conclusion. the Map remains open to the possibility that consciousness is explicable; it simply doesn't assume it.
+- **Suggested response**: Acknowledge the falsifiability concern but note that cognitive closure is a *hypothesis*, not a conclusion. The Map remains open to the possibility that consciousness is explicable; it simply doesn't assume it.
 
 ### Buddhist No-Self Challenges Indexical Identity
 - **Current content says**: The No Many Worlds tenet relies on indexical identity mattering

@@ -161,7 +161,7 @@ The Map's Dualism tenet says "consciousness is not reducible to physical process
 
 This would be a form of property dualism rather than substance dualism. At each moment, there are both physical properties (mass, charge) and phenomenal properties (the felt quality of experience), and the phenomenal properties don't reduce to the physical. But neither set of properties belongs to a permanent substance; both arise and pass dependently.
 
-Buddhism might accept this formulation. the Map can too—see [buddhism-and-dualism](/concepts/buddhism-and-dualism/) for detailed analysis showing that Buddhist *anattā* targets only permanence, substantiality, and ownership, not the irreducibility of phenomenal properties. The compatibility thesis: consciousness can be irreducible at each moment while impermanent across moments.
+Buddhism might accept this formulation. The Map can too—see [buddhism-and-dualism](/concepts/buddhism-and-dualism/) for detailed analysis showing that Buddhist *anattā* targets only permanence, substantiality, and ownership, not the irreducibility of phenomenal properties. The compatibility thesis: consciousness can be irreducible at each moment while impermanent across moments.
 
 ### No External World?
 
@@ -177,7 +177,7 @@ Buddhism's ultimate goal is liberation (*nirvana*)—freedom from suffering thro
 
 The Map's project is different: to understand consciousness and its place in nature. Buddhism might see this as missing the point. Why explain consciousness when you could transform it?
 
-This tension may be productive rather than destructive. the Map can acknowledge that understanding consciousness isn't the only worthwhile project while still pursuing it. Buddhism can acknowledge that theoretical clarity might support practice.
+This tension may be productive rather than destructive. The Map can acknowledge that understanding consciousness isn't the only worthwhile project while still pursuing it. Buddhism can acknowledge that theoretical clarity might support practice.
 
 ## Eastern Approaches to Meaning
 

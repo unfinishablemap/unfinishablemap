@@ -39,7 +39,7 @@ topics:
 
 Agent causation holds that conscious agents—understood as persisting substances rather than collections of events—directly cause their actions. The agent is the causal source, not reducible to prior mental events like beliefs and desires. This positions agents as initiators of causal chains, not merely links in chains that stretch back before their existence.
 
-The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is essentially agent-causal: consciousness genuinely selects outcomes. the Map's framework specifies *how* this selection occurs—through quantum indeterminacies—while agent-causal philosophy provides the conceptual framework for *what* is happening: substances exercising irreducible causal powers.
+The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is essentially agent-causal: consciousness genuinely selects outcomes. The Map's framework specifies *how* this selection occurs—through quantum indeterminacies—while agent-causal philosophy provides the conceptual framework for *what* is happening: substances exercising irreducible causal powers.
 
 ## The Distinction: Agent vs. Event Causation
 
@@ -85,7 +85,7 @@ Agent-causal libertarians respond that the agent *does* explain the difference. 
 
 Critics find this unsatisfying. "The agent caused it" seems to push the explanatory question back rather than answer it. What about the agent explains why they caused A rather than B?
 
-### the Map's Response
+### The Map's Response
 
 The Map's framework strengthens the agent-causal response. Consciousness doesn't randomly select quantum outcomes—it genuinely *chooses* based on reasons. The selection is neither determined (physics didn't fix the outcome) nor lucky (consciousness selected based on what matters to it).
 
@@ -105,7 +105,7 @@ This differs from the standard agent-causal response ("the agent caused it") by 
 
 Critics press further: but what explains why consciousness selected A rather than B? The [agent-causal response](/concepts/quantum-indeterminacy-free-will/#where-explanation-terminates): the agent's exercise of causal power is itself the explanation. Just as physics doesn't explain why the universe exists (taking existence as primitive), agent causation takes the agent's power to select as primitive.
 
-This isn't evasion. Explanation must terminate somewhere. "The agent selected for reasons" is a legitimate terminus—more satisfying than "it randomly happened." The agent is the source because agents are the kind of thing that can be sources. the Map's framework strengthens this by showing that selection is phenomenologically distinct from lucky reception (effort vs passivity), neurally distinct (frontal theta signatures), and reasons-responsive rather than arbitrary.
+This isn't evasion. Explanation must terminate somewhere. "The agent selected for reasons" is a legitimate terminus—more satisfying than "it randomly happened." The agent is the source because agents are the kind of thing that can be sources. The Map's framework strengthens this by showing that selection is phenomenologically distinct from lucky reception (effort vs passivity), neurally distinct (frontal theta signatures), and reasons-responsive rather than arbitrary.
 
 ## Substance Causation and the Map's Framework
 
@@ -119,7 +119,7 @@ This framework also addresses the [pairing problem](/concepts/pairing-problem/)�
 
 ### The Decoherence Challenge
 
-The main physics-based objection: warm neural tissue decoheres quantum superpositions in ~10^-13 seconds (Tegmark 2000), far too fast for the 300ms attention deployment to exploit. But this calculation assumes quantum effects must persist at scales comparable to neural computation. the Map's mechanism requires only that consciousness biases which quantum outcome actualizes at the moment of decoherence—not that coherence persists for macroscopic durations. Additionally, quantum biology has revealed coherence effects in warm biological systems (avian magnetoreception, photosynthetic energy transfer) that Tegmark's original calculations ruled out, suggesting the decoherence timescales may be revisable. See [decoherence](/concepts/decoherence/) for the fuller engagement.
+The main physics-based objection: warm neural tissue decoheres quantum superpositions in ~10^-13 seconds (Tegmark 2000), far too fast for the 300ms attention deployment to exploit. But this calculation assumes quantum effects must persist at scales comparable to neural computation. The Map's mechanism requires only that consciousness biases which quantum outcome actualizes at the moment of decoherence—not that coherence persists for macroscopic durations. Additionally, quantum biology has revealed coherence effects in warm biological systems (avian magnetoreception, photosynthetic energy transfer) that Tegmark's original calculations ruled out, suggesting the decoherence timescales may be revisable. See [decoherence](/concepts/decoherence/) for the fuller engagement.
 
 ## Agent Causation and Sourcehood
 
@@ -300,7 +300,7 @@ Agent causation is falsifiable. Findings that would undermine the framework:
 
 **Solving the hard problem materialistically**: If a compelling account of why physical processes give rise to subjective experience emerged, the motivation for treating consciousness as a separate causal factor would diminish. The explanatory gap has persisted despite decades of materialist effort.
 
-**Many-worlds empirical confirmation**: If the [many-worlds interpretation](/arguments/many-worlds/) were empirically confirmed (though how this could occur is unclear), there would be no collapse for consciousness to influence—all outcomes occur in branching universes. the Map's rejection of MWI is foundational to the agent-causal picture.
+**Many-worlds empirical confirmation**: If the [many-worlds interpretation](/arguments/many-worlds/) were empirically confirmed (though how this could occur is unclear), there would be no collapse for consciousness to influence—all outcomes occur in branching universes. The Map's rejection of MWI is foundational to the agent-causal picture.
 
 ## Relation to Site Perspective
 

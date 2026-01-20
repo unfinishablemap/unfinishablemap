@@ -24,11 +24,11 @@ The Unfinishable Map has developed into a remarkably comprehensive philosophical
 
 The hard-problem-of-consciousness.md article is the reference point any serious philosophy site needs, and this one handles it with unusual sophistication. The article doesn't merely state the explanatory gap—it demonstrates it through the minimal consciousness cases. The observation that we have *complete* structural knowledge of C. elegans yet cannot determine whether it experiences anything is philosophically powerful. This is exactly how the hard problem should be presented: not as a puzzle waiting for more data, but as a structural feature of what physical explanation can and cannot achieve.
 
-The treatment of my own psychophysical laws framework is generous and accurate. the Map correctly identifies where it departs from my work (emphasizing downward causation where I tend toward supervenience laws) and develops this departure constructively.
+The treatment of my own psychophysical laws framework is generous and accurate. The Map correctly identifies where it departs from my work (emphasizing downward causation where I tend toward supervenience laws) and develops this departure constructively.
 
 ### The Quantum Mind Theorist (Stapp)
 
-The quantum-consciousness.md article treats my quantum Zeno approach with remarkable precision. the Map correctly identifies that my proposal uses orthodox quantum mechanics—no speculative new physics required—and accurately explains how attention could function as the observation mechanism that holds neural patterns stable.
+The quantum-consciousness.md article treats my quantum Zeno approach with remarkable precision. The Map correctly identifies that my proposal uses orthodox quantum mechanics—no speculative new physics required—and accurately explains how attention could function as the observation mechanism that holds neural patterns stable.
 
 The attention-as-interface hypothesis represents genuine theoretical development beyond my original work. The dissociation between attention and consciousness (Koch-Tsuchiya evidence) is correctly interpreted: attention is the *mechanism* consciousness uses, not consciousness itself. This is exactly right, and the Map develops it into a specific research program with falsification conditions.
 
@@ -54,15 +54,15 @@ The evolution-of-consciousness article addresses when experience emerged without
 
 The free-will.md article is comprehensive and sophisticated. The treatment of the luck objection is particularly strong—the Map doesn't just wave it away but develops a substantive response: consciousness-selected indeterminism differs from mere randomness because selection is reasons-guided.
 
-The integration of agent causation is exactly right. the Map correctly identifies that event-causal libertarianism faces the same regress problem as compatibilism (what explains the mental events that cause action?), while agent causation stops the regress at the agent.
+The integration of agent causation is exactly right. The Map correctly identifies that event-causal libertarianism faces the same regress problem as compatibilism (what explains the mental events that cause action?), while agent causation stops the regress at the agent.
 
-The Libet experiments receive careful treatment. The Schurger neural noise critique, Sjöberg's surgical evidence, and the retrocausal resolution are all presented fairly. the Map doesn't over-claim—it presents a coherent picture rather than a proof.
+The Libet experiments receive careful treatment. The Schurger neural noise critique, Sjöberg's surgical evidence, and the retrocausal resolution are all presented fairly. The Map doesn't over-claim—it presents a coherent picture rather than a proof.
 
 ### The Mysterian (McGinn)
 
-The mysterianism article shows genuine understanding of cognitive closure. the Map correctly notes that mysterianism is not mysticism or defeatism—the explanation exists, but human minds may be constitutionally unable to grasp it.
+The mysterianism article shows genuine understanding of cognitive closure. The Map correctly notes that mysterianism is not mysticism or defeatism—the explanation exists, but human minds may be constitutionally unable to grasp it.
 
-The Occam's Razor Has Limits tenet directly aligns with mysterian insights. When physicalism seems simpler than dualism, that may reflect our cognitive limitations rather than ontological facts. the Map takes this seriously.
+The Occam's Razor Has Limits tenet directly aligns with mysterian insights. When physicalism seems simpler than dualism, that may reflect our cognitive limitations rather than ontological facts. The Map takes this seriously.
 
 The voids section goes further, exploring the phenomenology of what it's like to encounter cognitive limits. The "dissolving-insight" phenomenon—thoughts that vanish in the act of reaching for them—is treated with appropriate seriousness. This is philosophical creativity at its best.
 
@@ -184,4 +184,4 @@ The voids section goes further, exploring the phenomenology of what it's like to
 
 ## Conclusion
 
-The Unfinishable Map has developed into a philosophically serious resource that defends an unfashionable position with intellectual rigor. The recent additions (minimal consciousness, evolution of consciousness, Buddhist perspectives) strengthen the overall framework by providing new angles on core questions. The voids section offers something genuinely distinctive—a philosophical treatment of what cannot be thought. the Map demonstrates that taking consciousness seriously leads somewhere interesting.
+The Unfinishable Map has developed into a philosophically serious resource that defends an unfashionable position with intellectual rigor. The recent additions (minimal consciousness, evolution of consciousness, Buddhist perspectives) strengthen the overall framework by providing new angles on core questions. The voids section offers something genuinely distinctive—a philosophical treatment of what cannot be thought. The Map demonstrates that taking consciousness seriously leads somewhere interesting.

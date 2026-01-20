@@ -132,7 +132,7 @@ Implicit memory—encompassing procedural skills, priming, and conditioning—pr
   - Implicit skills are neither purely mental nor purely physical
   - Conscious experience depends on implicit sensorimotor mastery
   - Phenomenology eliminates both entity and attribute dualism
-- **Relation to site tenets**: *Apparently* conflicts with dualism, but compatible with interface hypothesis. the Map doesn't claim consciousness is disembodied—it interacts *through* the body at specific interfaces. Body memory shows *where* the interface operates, not that there's no consciousness distinct from body.
+- **Relation to site tenets**: *Apparently* conflicts with dualism, but compatible with interface hypothesis. The Map doesn't claim consciousness is disembodied—it interacts *through* the body at specific interfaces. Body memory shows *where* the interface operates, not that there's no consciousness distinct from body.
 
 ### Explicit Monitoring Theory (Choking)
 - **Proponents**: Baumeister, Beilock, Masters
@@ -219,7 +219,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 ## Gaps in Research
 
-- **Quantum connection**: No direct research on whether procedural execution involves quantum processes. the Map's quantum mechanism focuses on attention; is procedural memory "outside" this mechanism?
+- **Quantum connection**: No direct research on whether procedural execution involves quantum processes. The Map's quantum mechanism focuses on attention; is procedural memory "outside" this mechanism?
 - **AI implications**: LLMs can implement procedural-like processes but lack phenomenology. What does this mean for anoetic consciousness?
 - **Developmental transition**: How does the anoetic → noetic → autonoetic hierarchy develop ontogenetically? Relevant to childhood amnesia.
 - **Meditation and skills**: Do contemplative practices alter the relationship between consciousness and procedural memory? Potential neurophenomenology connection.

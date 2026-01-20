@@ -113,7 +113,7 @@ Physicalism is simpler than dualism, therefore preferable by Occam's Razor.
 
 ### Assessment
 
-The parsimony objection is weak if consciousness really is irreducible. One cannot achieve parsimony by ignoring evidence. the Map should emphasize that apparent simplicity doesn't guarantee truth, and that the hard problem gives strong evidence consciousness isn't physical.
+The parsimony objection is weak if consciousness really is irreducible. One cannot achieve parsimony by ignoring evidence. The Map should emphasize that apparent simplicity doesn't guarantee truth, and that the hard problem gives strong evidence consciousness isn't physical.
 
 ## 4. Evolutionary Argument
 
@@ -139,7 +139,7 @@ Frank Jackson suggests consciousness might be a "spandrel"—a by-product of neu
 
 ### Assessment
 
-This objection has no force against interactionist dualism. the Map can use it *offensively* against epiphenomenalism: if consciousness doesn't cause behavior, evolution can't explain the observed correlations.
+This objection has no force against interactionist dualism. The Map can use it *offensively* against epiphenomenalism: if consciousness doesn't cause behavior, evolution can't explain the observed correlations.
 
 ## 5. The Exclusion Argument (Beyond Causal Closure)
 

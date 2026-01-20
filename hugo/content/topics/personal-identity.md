@@ -140,7 +140,7 @@ Psychological continuity matters, but as evidence of something deeper. Your memo
 
 How does this handle fission? If your brain were split and each hemisphere continued separately, neither resulting person would be you on this view. Your consciousness—the particular conscious perspective that makes you you—cannot split. One or both of the resulting consciousnesses would be new, not continuations of yours.
 
-This aligns with Parfit's conclusion (neither is you) but for different reasons. Parfit says neither is you because identity can't "branch"—it's a logical truth. the Map says neither is you because your consciousness is a particular that can't divide like physical stuff.
+This aligns with Parfit's conclusion (neither is you) but for different reasons. Parfit says neither is you because identity can't "branch"—it's a logical truth. The Map says neither is you because your consciousness is a particular that can't divide like physical stuff.
 
 The resulting people might have your memories and psychology. They might even believe they're you. But belief doesn't make it so. The unique conscious perspective that constituted you would have ended, replaced by two new ones.
 
@@ -284,7 +284,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Your consciousness doesn't merely observe physical processes—it influences them. This gives your conscious history causal efficacy. The choices you've made, the selections you've performed, constitute *your* life in a way that couldn't be transferred to a replica. Even a perfect copy would be starting its causal contribution from scratch.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The rejection of many-worlds is grounded partly in personal identity concerns. If all quantum branches are equally real, the question "Which branch am I in?" has no answer—yet it seems meaningful. the Map's commitment to definite outcomes and indexical facts about which observer you are supports [haecceitistic](/concepts/haecceity/) personal identity. On MWI, you'd be interchangeable with your branching copies; rejecting MWI preserves your uniqueness.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The rejection of many-worlds is grounded partly in personal identity concerns. If all quantum branches are equally real, the question "Which branch am I in?" has no answer—yet it seems meaningful. The Map's commitment to definite outcomes and indexical facts about which observer you are supports [haecceitistic](/concepts/haecceity/) personal identity. On MWI, you'd be interchangeable with your branching copies; rejecting MWI preserves your uniqueness.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Anti-haecceitists might appeal to parsimony—why posit primitive "thisness" when psychological continuity suffices? But parsimony fails when our concepts are inadequate to the phenomenon. The persistent philosophical puzzlement about personal identity—why the question "Will I survive?" resists dissolution—suggests our concepts may be missing something. The haecceitistic framework honors this puzzlement rather than explaining it away.
 

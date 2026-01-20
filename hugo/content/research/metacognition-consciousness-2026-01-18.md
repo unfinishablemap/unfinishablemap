@@ -204,7 +204,7 @@ Based on this research, an article could:
 
 3. **"The Feeling of Knowing"** — Explore metamemory phenomenology (tip-of-tongue, feeling of knowing) as evidence for cognitive phenomenology extending beyond sensory qualia. Already partially covered in semantic-memory.md and cognitive-phenomenology.md—could deepen this.
 
-**Recommended angle**: Option 1 offers the most comprehensive treatment and fills the clearest gap. the Map has higher-order-theories.md critiquing HOT but lacks a positive account of metacognition's place in the framework.
+**Recommended angle**: Option 1 offers the most comprehensive treatment and fills the clearest gap. The Map has higher-order-theories.md critiquing HOT but lacks a positive account of metacognition's place in the framework.
 
 When writing the article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references

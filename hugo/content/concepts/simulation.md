@@ -112,7 +112,7 @@ A simulation running on physical substrate is still physical—the computer exis
 
 **Consciousness in the simulation only**: The simulated beings are conscious; the simulation substrate is merely computational. This creates an emergence mystery—how does consciousness arise from simulated rather than "real" matter? If consciousness can emerge from simulated physics, why not from base physics directly?
 
-**Consciousness at the substrate level**: The simulators are conscious; we are their computations. This preserves the Map's dualism—consciousness is fundamental at base reality—but makes us philosophical zombies with respect to genuine experience. the Map's framework resists this: if we experience, we're conscious, regardless of our substrate.
+**Consciousness at the substrate level**: The simulators are conscious; we are their computations. This preserves the Map's dualism—consciousness is fundamental at base reality—but makes us philosophical zombies with respect to genuine experience. The Map's framework resists this: if we experience, we're conscious, regardless of our substrate.
 
 **Consciousness at both levels**: Both simulators and simulated beings are conscious. This may follow if [consciousness depends on quantum effects](/concepts/quantum-consciousness/) that the simulation faithfully implements. The simulation doesn't create pseudo-consciousness; it creates the conditions for genuine consciousness.
 

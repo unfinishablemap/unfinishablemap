@@ -96,11 +96,11 @@ Even for those who reject RQM, engaging with it clarifies what's at stake:
 
 **The price of consciousness-causes-collapse.** RQM shows there's a coherent interpretation where consciousness plays no role. Choosing a consciousness-based framework isn't forced by quantum mechanics—it's a philosophical commitment. Understanding RQM helps distinguish what quantum mechanics requires from what the Map's tenets add.
 
-**The multi-observer problem.** RQM's treatment of multiple observers (each with valid but relative perspectives) illuminates the challenges consciousness-causes-collapse faces. If Alice's consciousness collapses the wavefunction and Bob's does too, how are their selections reconciled? RQM dissolves this by relativizing collapse to each observer. the Map's alternative—[interface-locality](/concepts/interface-locality/)—achieves something similar by different means: each consciousness modulates only its own brain.
+**The multi-observer problem.** RQM's treatment of multiple observers (each with valid but relative perspectives) illuminates the challenges consciousness-causes-collapse faces. If Alice's consciousness collapses the wavefunction and Bob's does too, how are their selections reconciled? RQM dissolves this by relativizing collapse to each observer. The Map's alternative—[interface-locality](/concepts/interface-locality/)—achieves something similar by different means: each consciousness modulates only its own brain.
 
-**Lessons for perspectivalism.** RQM's insight that intermediate states needn't be coordinated until observers interact has value even within a different framework. the Map can accept that before Alice and Bob communicate, their brain states (modulated by their respective consciousnesses) needn't be compared. Agreement is verified only through physical interaction.
+**Lessons for perspectivalism.** RQM's insight that intermediate states needn't be coordinated until observers interact has value even within a different framework. The Map can accept that before Alice and Bob communicate, their brain states (modulated by their respective consciousnesses) needn't be compared. Agreement is verified only through physical interaction.
 
-**The locality puzzle.** RQM claims locality through perspectival independence. the Map's framework achieves locality differently: consciousness influences only local neural systems, not distant quantum events. Comparing these strategies clarifies what "locality" requires when consciousness is involved.
+**The locality puzzle.** RQM claims locality through perspectival independence. The Map's framework achieves locality differently: consciousness influences only local neural systems, not distant quantum events. Comparing these strategies clarifies what "locality" requires when consciousness is involved.
 
 ## RQM vs. Consciousness-Causes-Collapse: A Comparison
 
@@ -152,7 +152,7 @@ The Map's position on RQM would need revision if:
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism):** RQM is compatible with physicalism—it requires no non-physical elements. the Map's dualism finds no support here. However, RQM's emphasis on observer-relativity shares something with the Map's rejection of "view from nowhere" physicalism, even if RQM doesn't draw dualist conclusions.
+**[Dualism](/tenets/#dualism):** RQM is compatible with physicalism—it requires no non-physical elements. The Map's dualism finds no support here. However, RQM's emphasis on observer-relativity shares something with the Map's rejection of "view from nowhere" physicalism, even if RQM doesn't draw dualist conclusions.
 
 The deeper issue: RQM's relativization applies to *physical* properties. The phenomenal character of being an observer—what it's like to see the measurement result—is neither relative nor absolute on RQM because RQM doesn't address it at all. Dualism asserts that this phenomenal dimension exists and matters. RQM's silence on phenomenology is not neutrality; it's exclusion. By treating observers as purely physical systems, RQM assumes away the dualist's central datum.
 
@@ -160,13 +160,13 @@ The deeper issue: RQM's relativization applies to *physical* properties. The phe
 
 Note, however, that RQM faces its own version of the "how does collapse happen?" question. Saying collapse is relative to observers doesn't explain *why* each observer-relative fact takes the value it does. The tenet proposes that consciousness biases outcomes; RQM says facts simply are relative to physical systems. But RQM provides no mechanism for the relative facts to arise—it treats them as brute. The minimal quantum interaction proposal at least offers a story about why outcomes occur as they do.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction):** **Direct conflict.** RQM explicitly removes consciousness from physics. If RQM is correct, consciousness cannot influence physical outcomes through quantum mechanisms. the Map's central claim—that consciousness participates in determining quantum outcomes—fails.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction):** **Direct conflict.** RQM explicitly removes consciousness from physics. If RQM is correct, consciousness cannot influence physical outcomes through quantum mechanisms. The Map's central claim—that consciousness participates in determining quantum outcomes—fails.
 
 The [epiphenomenalism concern](/arguments/epiphenomenalism/) cuts both ways, however. RQM makes consciousness epiphenomenal by default—experience accompanies physical interactions (if it exists at all) but plays no causal role. The same considerations that make epiphenomenalism problematic for dualists apply here: why do we talk about consciousness if it does nothing? The bidirectional interaction tenet addresses this by giving consciousness genuine causal work. RQM leaves the explanatory gap unexplained.
 
 **[No Many Worlds](/tenets/#no-many-worlds):** RQM also rejects many-worlds, treating collapse (relative to each observer) as real. Here the Map and RQM agree: we don't branch into multiple copies.
 
-But the agreement is superficial. RQM's rejection of MWI stems from denying that the wave function represents reality—it's a calculational tool. the Map's rejection stems from the [indexical identity problem](/concepts/haecceity/): the meaningfulness of asking "which branch am I in?" presupposes something RQM cannot accommodate—that being *this* observer is a genuine fact, not merely a relative one. RQM and the Map reject MWI for different reasons, and those reasons reveal incompatible commitments about the nature of observers.
+But the agreement is superficial. RQM's rejection of MWI stems from denying that the wave function represents reality—it's a calculational tool. The Map's rejection stems from the [indexical identity problem](/concepts/haecceity/): the meaningfulness of asking "which branch am I in?" presupposes something RQM cannot accommodate—that being *this* observer is a genuine fact, not merely a relative one. RQM and the Map reject MWI for different reasons, and those reasons reveal incompatible commitments about the nature of observers.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits):** RQM might seem simpler—no need for consciousness in physics. But simplicity isn't truth. RQM's elegance doesn't explain why consciousness exists or why physical processes are accompanied by experience. It solves the measurement problem while ignoring the hard problem.
 

@@ -145,9 +145,9 @@ Quantum mechanics may provide what dualists need: genuine physical incompletenes
 
 The Map's Bidirectional Interaction tenet explicitly affirms downward causation—consciousness causally influences physical outcomes.
 
-**Key alignment with O'Connor-Wong**: Their account of emergent properties with novel causal powers closely matches the Map's framework. Their "structural triggering conditions" parallel how quantum indeterminacies in neural systems provide openings for consciousness to act. the Map specifies the quantum mechanism they leave abstract.
+**Key alignment with O'Connor-Wong**: Their account of emergent properties with novel causal powers closely matches the Map's framework. Their "structural triggering conditions" parallel how quantum indeterminacies in neural systems provide openings for consciousness to act. The Map specifies the quantum mechanism they leave abstract.
 
-**Difference from classical emergentism**: British emergentists (Broad, Alexander) affirmed downward causation but couldn't explain it. They accepted it with "natural piety"—brute facts. the Map provides a mechanism: consciousness biases probabilities at quantum indeterminacies.
+**Difference from classical emergentism**: British emergentists (Broad, Alexander) affirmed downward causation but couldn't explain it. They accepted it with "natural piety"—brute facts. The Map provides a mechanism: consciousness biases probabilities at quantum indeterminacies.
 
 ### Kim's Dilemma and the Map's Response
 

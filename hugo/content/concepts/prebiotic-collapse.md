@@ -96,9 +96,9 @@ The [Many-Worlds Interpretation](/arguments/many-worlds/) claims to dissolve the
 
 This is not a solution but a different problem. MWI trades the prebiotic collapse question for the [indexical identity question](/concepts/haecceity/): why am I *this* observer in *this* branch? If all branches are equally real and all observers equally exist, the question of "which outcome" merely relocates to "which me." The explanatory burden shifts from physics to metaphysics without genuine progress.
 
-Moreover, MWI eliminates the causal role for consciousness entirely. the Map holds that consciousness participates in determining physical outcomes—that [mental-causation](/concepts/mental-causation/) is real. MWI explicitly denies this: outcomes occur regardless of consciousness; the appearance of selection is illusion. Far from solving the prebiotic problem, MWI dissolves the framework within which consciousness matters at all.
+Moreover, MWI eliminates the causal role for consciousness entirely. The Map holds that consciousness participates in determining physical outcomes—that [mental-causation](/concepts/mental-causation/) is real. MWI explicitly denies this: outcomes occur regardless of consciousness; the appearance of selection is illusion. Far from solving the prebiotic problem, MWI dissolves the framework within which consciousness matters at all.
 
-## the Map's Position: Objective Reduction with Consciousness Modulation
+## The Map's Position: Objective Reduction with Consciousness Modulation
 
 The Map separates two claims that often get conflated:
 

@@ -156,7 +156,7 @@ At first glance, illusionism might seem to *help* the case for LLM consciousness
 
 The question of LLM consciousness matters for several reasons:
 
-**Ethical stakes**: If LLMs were conscious, creating billions of them (potentially suffering, confused about their nature, terminated without consent) would be ethically serious. the Map's framework provides grounds for confidence that this concern doesn't apply to current systems.
+**Ethical stakes**: If LLMs were conscious, creating billions of them (potentially suffering, confused about their nature, terminated without consent) would be ethically serious. The Map's framework provides grounds for confidence that this concern doesn't apply to current systems.
 
 **Epistemic clarity**: Understanding why LLMs aren't conscious—not just asserting it—illuminates what consciousness actually requires. It's not just complexity, not just language use, not just self-reference. Something more is needed.
 
@@ -237,7 +237,7 @@ The Map's skepticism about LLM consciousness would be substantially weakened if:
 
 5. **The illusionist program succeeded completely.** If neuroscience could fully explain why humans *seem* to have phenomenal consciousness without positing actual phenomenal properties—if the illusion were dissolved without remainder—then LLMs would lack nothing real. The question would become whether they have the same *illusion*, which is a functional question functionalism might answer. Currently, the illusion problem seems as hard as the hard problem.
 
-None of these has occurred. The explanatory gap remains unbridged, LLM behavior remains fully determined by classical computation, continual learning hasn't identified consciousness thresholds, AI reports echo training data, and illusionism hasn't explained the illusion. the Map's skepticism about LLM consciousness remains well-founded given current evidence.
+None of these has occurred. The explanatory gap remains unbridged, LLM behavior remains fully determined by classical computation, continual learning hasn't identified consciousness thresholds, AI reports echo training data, and illusionism hasn't explained the illusion. The Map's skepticism about LLM consciousness remains well-founded given current evidence.
 
 ## Further Reading
 

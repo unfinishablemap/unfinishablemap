@@ -89,7 +89,7 @@ A crucial question for dualism: if mind and matter are distinct, how do they rel
 
 **[Interactionism](/archive/arguments/interactionist-dualism/)**: Mind and body causally interact. Consciousness influences physical outcomes, and physical events influence consciousness. This is the Map's position, specified in the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.
 
-**[Epiphenomenalism](/arguments/epiphenomenalism/)**: Body affects mind, but not vice versa. Consciousness is real but causally inert—along for the ride but not influencing outcomes. the Map rejects this because it is self-undermining: if consciousness causes nothing, we cannot trust our reports about consciousness.
+**[Epiphenomenalism](/arguments/epiphenomenalism/)**: Body affects mind, but not vice versa. Consciousness is real but causally inert—along for the ride but not influencing outcomes. The Map rejects this because it is self-undermining: if consciousness causes nothing, we cannot trust our reports about consciousness.
 
 **Parallelism**: Mind and body don't interact at all—they run in parallel without causal connection. This faces similar problems to epiphenomenalism and adds unexplained coordination.
 

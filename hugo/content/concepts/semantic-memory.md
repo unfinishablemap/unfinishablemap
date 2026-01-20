@@ -146,7 +146,7 @@ The irreducibility of noetic phenomenology would be challenged by:
 
 1. **Phenomenology dissolving under analysis.** If careful introspection revealed TOT states or the feeling of knowing to be constructed from simpler, non-phenomenal elements, this would support reductionism. Instead, closer attention intensifies rather than decomposes the phenomenon.
 
-2. **Functionally equivalent systems with different phenomenology.** If we discovered beings with identical semantic memory function (including TOT states and FOK judgments) but lacking any phenomenal character to their knowing, this would suggest phenomenology is separable from the functional architecture. the Map predicts this is impossible for systems with the relevant conscious architecture.
+2. **Functionally equivalent systems with different phenomenology.** If we discovered beings with identical semantic memory function (including TOT states and FOK judgments) but lacking any phenomenal character to their knowing, this would suggest phenomenology is separable from the functional architecture. The Map predicts this is impossible for systems with the relevant conscious architecture.
 
 3. **Knowing as fully inferential.** If the feeling of knowing were demonstrated to arise entirely from inference about retrieval success (like a probability estimate), with no intrinsic phenomenal character, this would undermine the noetic phenomenology claim. But introspection consistently reveals FOK as immediately given, not inferred.
 

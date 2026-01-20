@@ -111,7 +111,7 @@ The Map rejects this for several reasons. First, the "discovery" model treats te
 
 Second, the branching structure presupposes what it purports to explain. Why do branches increase rather than decrease? The answer traces to the Past Hypothesis (low-entropy initial conditions), which MWI inherits from thermodynamics rather than explaining. The quantum arrow doesn't reduce to branching; it's assumed in setting up the branches.
 
-Third, as detailed in the [Against Many-Worlds](/arguments/many-worlds/) page, MWI faces the indexical identity problem: if all outcomes occur, what determines which outcome *I* experience? Carroll's "self-locating uncertainty" answer treats branch-identity as primitive—but this is exactly what needs explaining. the Map's [No Many Worlds](/tenets/#no-many-worlds) tenet holds that indexical identity matters because consciousness is what makes *this* outcome actual, not merely observed.
+Third, as detailed in the [Against Many-Worlds](/arguments/many-worlds/) page, MWI faces the indexical identity problem: if all outcomes occur, what determines which outcome *I* experience? Carroll's "self-locating uncertainty" answer treats branch-identity as primitive—but this is exactly what needs explaining. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet holds that indexical identity matters because consciousness is what makes *this* outcome actual, not merely observed.
 
 Only if collapse is real does consciousness have a role. Only if collapse introduces asymmetry does that role connect to temporal experience.
 
@@ -144,7 +144,7 @@ The connection between collapse and time strengthens multiple tenets:
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Retrocausal frameworks make bidirectional interaction natural rather than paradoxical. If fundamental physics is time-symmetric, backward causation (from future to past) has the same status as forward causation. Consciousness influencing the past isn't stranger than consciousness influencing the future—both are selection among possible transactions.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Rejecting MWI is essential for collapse to be real. If all outcomes occur, there's no selection, no irreversibility, no arrow introduced by measurement. the Map's framework requires collapse realism to give consciousness traction.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Rejecting MWI is essential for collapse to be real. If all outcomes occur, there's no selection, no irreversibility, no arrow introduced by measurement. The Map's framework requires collapse realism to give consciousness traction.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The arrow of time is among the deepest unsolved problems in physics. Claims that decoherence "solves" the measurement problem, or that thermodynamics "explains" all arrows, rely on simplifying assumptions (materialism, no fundamental collapse) that may be wrong. The full picture may require consciousness in ways we don't yet understand.
 

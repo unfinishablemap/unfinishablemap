@@ -457,13 +457,13 @@ The quantum consciousness framework makes commitments that could, in principle, 
 
 1. **Definitive closure of quantum coherence in neural tissue.** If future research conclusively demonstrates that no quantum coherence persists in the brain at any relevant timescale—accounting for all protective mechanisms (nuclear spins, microtubule interiors, metabolic pumping)—the framework loses its physical substrate. Current evidence runs the other way, but the question is empirical.
 
-2. **Success of strong AI without quantum effects.** If classical computers achieve genuine consciousness (not merely behavioral mimicry, but systems we have strong reason to believe are phenomenally conscious), this would suggest consciousness doesn't require quantum selection. the Map's [AI consciousness](/topics/ai-consciousness/) page argues this won't happen, but the prediction is testable.
+2. **Success of strong AI without quantum effects.** If classical computers achieve genuine consciousness (not merely behavioral mimicry, but systems we have strong reason to believe are phenomenally conscious), this would suggest consciousness doesn't require quantum selection. The Map's [AI consciousness](/topics/ai-consciousness/) page argues this won't happen, but the prediction is testable.
 
 3. **Discovery that decoherence *does* eliminate indeterminacy.** If physicists demonstrated that decoherence produces genuine determinism (not just apparent determinism through loss of interference), the "quantum opening" would close. Current physics says decoherence doesn't select outcomes, but interpretations evolve.
 
 4. **Evidence that attention doesn't track quantum processes.** If the correlation between attention signatures (frontal theta, ACC activation) and reported selection effort were shown to be spurious, or if these signatures operated on timescales incompatible with quantum selection, the Stapp mechanism would be undermined.
 
-5. **Success of illusionist explanations.** If illusionism successfully explained all phenomenological data without residue—including why consciousness *seems* unified, why effort *seems* effortful, and why the illusion itself exists—the motivation for quantum consciousness theories would diminish. the Map predicts this won't succeed, but the debate continues.
+5. **Success of illusionist explanations.** If illusionism successfully explained all phenomenological data without residue—including why consciousness *seems* unified, why effort *seems* effortful, and why the illusion itself exists—the motivation for quantum consciousness theories would diminish. The Map predicts this won't succeed, but the debate continues.
 
 The framework is committed to these empirical claims. It could be wrong.
 
@@ -481,7 +481,7 @@ The Map's tenets don't commit to any specific quantum consciousness mechanism. T
 
 5. **Occam's Razor Has Limits**: The simplicity of "consciousness is just brain activity" doesn't make it true if brain activity can't explain selection. Quantum consciousness theories accept complexity where the phenomenon demands it.
 
-Both Orch OR and Stapp's quantum Zeno approach are compatible with these commitments. the Map remains agnostic about which (if either) is correct. What matters is that *some* such mechanism exists—that consciousness has a point of entry into physics at the quantum level.
+Both Orch OR and Stapp's quantum Zeno approach are compatible with these commitments. The Map remains agnostic about which (if either) is correct. What matters is that *some* such mechanism exists—that consciousness has a point of entry into physics at the quantum level.
 
 ### Strong Emergence with a Mechanism
 

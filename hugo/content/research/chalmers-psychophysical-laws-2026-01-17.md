@@ -80,7 +80,7 @@ Chalmers defends this through the "fading qualia" thought experiment: Imagine gr
 
 **Critiques**: Danko Georgiev (2024) argues the principle makes consciousness epiphenomenal—a "meaningless spectator of its own drama." If only functional organization matters, and functional organization is multiply realizable, then the specific phenomenal qualities seem causally inert. Ned Block (2023) objects that defining pathology as supervening on fine-grained functional organization is question-begging.
 
-**Relation to site**: the Map's rejection of [functionalism](/arguments/functionalism/) creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. the Map's dualism implies that phenomenal properties supervene on more than just functional structure.
+**Relation to site**: the Map's rejection of [functionalism](/arguments/functionalism/) creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. The Map's dualism implies that phenomenal properties supervene on more than just functional structure.
 
 ### 3. The Double-Aspect Theory of Information
 
@@ -90,7 +90,7 @@ Following Bateson, Chalmers defines information as "a difference that makes a di
 
 **Speculative extension**: If all information has a phenomenal aspect, even simple information processing systems (thermostats) might have simple experiences. This approaches panpsychism from information theory rather than traditional metaphysics.
 
-**Relation to site**: This connects to IIT's identification of consciousness with integrated information. the Map is skeptical of IIT but the double-aspect theory is more general. It doesn't require consciousness to *be* information—only that information has a phenomenal aspect alongside its physical aspect.
+**Relation to site**: This connects to IIT's identification of consciousness with integrated information. The Map is skeptical of IIT but the double-aspect theory is more general. It doesn't require consciousness to *be* information—only that information has a phenomenal aspect alongside its physical aspect.
 
 ## Recent Development: Quantum Psychophysical Laws
 
@@ -136,11 +136,11 @@ The quantum framework addresses (1) and (2) elegantly: consciousness causes coll
 
 ### Where the Map Goes Beyond Chalmers
 
-1. **Directionality**: Chalmers' psychophysical laws are primarily *upward*—physical states yield experiences. the Map emphasizes *downward* causation—consciousness selecting among physically underdetermined outcomes. the Map needs coupling laws for the downward direction.
+1. **Directionality**: Chalmers' psychophysical laws are primarily *upward*—physical states yield experiences. The Map emphasizes *downward* causation—consciousness selecting among physically underdetermined outcomes. The Map needs coupling laws for the downward direction.
 
-2. **Selection vs. Supervenience**: Chalmers' laws are supervenience laws (experience accompanies physical states). the Map's laws are selection laws (consciousness chooses which physical states become actual). This is a stronger causal claim.
+2. **Selection vs. Supervenience**: Chalmers' laws are supervenience laws (experience accompanies physical states). The Map's laws are selection laws (consciousness chooses which physical states become actual). This is a stronger causal claim.
 
-3. **Attention as mechanism**: Chalmers leaves the mechanism abstract. the Map (following Stapp) specifies attention as the mental variable and quantum Zeno maintenance as the mechanism.
+3. **Attention as mechanism**: Chalmers leaves the mechanism abstract. The Map (following Stapp) specifies attention as the mental variable and quantum Zeno maintenance as the mechanism.
 
 4. **Bandwidth constraint**: the Map incorporates the ~10 bits/second limitation on conscious processing. Chalmers' framework doesn't specify information-theoretic constraints on psychophysical coupling.
 
@@ -168,4 +168,4 @@ The Map should explicitly position itself as developing the *downward* half of p
 
 3. **Address organizational invariance**: the Map should explicitly explain why it doesn't accept organizational invariance given its rejection of functionalism. The answer involves consciousness being more than organization—haecceity, phenomenal properties that don't reduce to function.
 
-4. **Engage the quantum development**: Chalmers and McQueen's super-resistance principle is directly relevant to the Map's framework. the Map should acknowledge this as a sophisticated version of consciousness-collapse theories while explaining why the Map prefers Stapp's approach (attention-based rather than IIT-based).
+4. **Engage the quantum development**: Chalmers and McQueen's super-resistance principle is directly relevant to the Map's framework. The Map should acknowledge this as a sophisticated version of consciousness-collapse theories while explaining why the Map prefers Stapp's approach (attention-based rather than IIT-based).

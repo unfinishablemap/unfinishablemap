@@ -124,7 +124,7 @@ The "grounding problem" asks: how do symbols acquire meaning? A computer can man
 
 Embodied cognition suggests the solution is physical interaction. A robot that navigates, manipulates objects, and learns through embodied action might achieve genuine understanding where pure language models cannot.
 
-Yet even embodied robots struggle. They transfer poorly to novel situations; their "understanding" remains brittle. the Map's framework suggests an explanation: if consciousness isn't identical to computation (whether in silicon or neurons), then computational systems—however sophisticated—will lack the semantic grounding that comes from phenomenal experience. Embodiment helps but doesn't suffice because the missing ingredient isn't physical interaction but consciousness itself.
+Yet even embodied robots struggle. They transfer poorly to novel situations; their "understanding" remains brittle. The Map's framework suggests an explanation: if consciousness isn't identical to computation (whether in silicon or neurons), then computational systems—however sophisticated—will lack the semantic grounding that comes from phenomenal experience. Embodiment helps but doesn't suffice because the missing ingredient isn't physical interaction but consciousness itself.
 
 ## Compatibility with Filter Theory
 
@@ -144,7 +144,7 @@ The lived body that Merleau-Ponty describes—neither pure matter nor pure mind�
 
 This perspective illuminates embodied skill. The expert's absorbed performance isn't the elimination of experience but its distribution—micro-experiences in fingers, muscles, and perceptual systems coordinating without requiring representation in a central consciousness. The choking phenomenon occurs when central consciousness *re-appropriates* what had been delegated, disrupting the distributed experiential coordination.
 
-Importantly, Whitehead's framework preserves what matters for dualism: experience as fundamental, not as emergent from non-experiential matter. the Map's [Dualism tenet](/tenets/#dualism) is compatible with process philosophy—both reject the claim that consciousness reduces to physical description. What process philosophy adds is a way of understanding embodiment without falling into either Cartesian separation or materialist reduction.
+Importantly, Whitehead's framework preserves what matters for dualism: experience as fundamental, not as emergent from non-experiential matter. The Map's [Dualism tenet](/tenets/#dualism) is compatible with process philosophy—both reject the claim that consciousness reduces to physical description. What process philosophy adds is a way of understanding embodiment without falling into either Cartesian separation or materialist reduction.
 
 ## What Would Challenge This View?
 

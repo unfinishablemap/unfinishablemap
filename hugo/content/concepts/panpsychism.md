@@ -97,7 +97,7 @@ Panpsychists have responses. Strawson argues that experiential-from-experiential
 
 But critics note the combination problem is structurally similar to the hard problem it was meant to solve. We're still asking how experience arises from what lacks that experience—just at a different level.
 
-## the Map's Alternative: Interactionist Dualism
+## The Map's Alternative: Interactionist Dualism
 
 The Map agrees with panpsychism's diagnosis (emergence from non-conscious matter is unintelligible) but offers a different treatment. Rather than saying consciousness is what matter is "from the inside," the Map maintains consciousness is *distinct from* matter but *interacts with* it.
 
@@ -114,7 +114,7 @@ This avoids the combination problem. There's no need to explain how micro-experi
 | Combination problem | Must explain how micro-experiences combine | Doesn't face this problem |
 | Interaction problem | Doesn't face this (no separate substances) | Must explain how distinct substances interact |
 
-The interaction problem—how do distinct substances causally influence each other?—is dualism's classic challenge. the Map addresses this via quantum mechanics: consciousness influences outcomes that physics leaves undetermined, so no physical law is violated.
+The interaction problem—how do distinct substances causally influence each other?—is dualism's classic challenge. The Map addresses this via quantum mechanics: consciousness influences outcomes that physics leaves undetermined, so no physical law is violated.
 
 ## What Panpsychism Gets Right
 

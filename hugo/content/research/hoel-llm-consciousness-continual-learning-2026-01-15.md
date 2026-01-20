@@ -96,7 +96,7 @@ Hoel's argument that contemporary consciousness theories often fail formal rigor
 
 ### 1. The Proximity Argument Strengthens Anti-Functionalism
 
-Hoel's proximity argument—that LLMs are "too close" to obviously non-conscious systems in substitution space—provides a novel formal argument against functionalism. the Map's [functionalism](/arguments/functionalism/) article could incorporate this: even if we can't prove zombies exist, we can prove that functionalism would attribute consciousness to systems (lookup tables) that clearly lack it.
+Hoel's proximity argument—that LLMs are "too close" to obviously non-conscious systems in substitution space—provides a novel formal argument against functionalism. The Map's [functionalism](/arguments/functionalism/) article could incorporate this: even if we can't prove zombies exist, we can prove that functionalism would attribute consciousness to systems (lookup tables) that clearly lack it.
 
 ### 2. Continual Learning as a Consciousness Marker
 
@@ -118,11 +118,11 @@ The contrast between static LLMs (fixed weights after training) and dynamic biol
 
 ### 1. Mechanism Gap
 
-Hoel identifies a *marker* (continual learning) without explaining the *mechanism* by which learning produces consciousness. the Map might argue that quantum-level processes provide the missing mechanism—continual learning might be necessary because it maintains the quantum coherence required for consciousness.
+Hoel identifies a *marker* (continual learning) without explaining the *mechanism* by which learning produces consciousness. The Map might argue that quantum-level processes provide the missing mechanism—continual learning might be necessary because it maintains the quantum coherence required for consciousness.
 
 ### 2. Insufficient for Full Consciousness Account
 
-Even if continual learning is necessary for consciousness, it's likely not sufficient. A thermostat that "learns" optimal temperature settings isn't conscious. the Map's framework adds the further requirement of quantum-level mind-matter interaction.
+Even if continual learning is necessary for consciousness, it's likely not sufficient. A thermostat that "learns" optimal temperature settings isn't conscious. The Map's framework adds the further requirement of quantum-level mind-matter interaction.
 
 ### 3. LLM Consciousness Could Exist at Different Level
 

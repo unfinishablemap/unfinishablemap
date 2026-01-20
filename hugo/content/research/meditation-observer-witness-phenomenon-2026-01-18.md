@@ -230,7 +230,7 @@ The two signatures (effortful/effortless) may mark the difference between consci
 ### The Krishnamurti Challenge
 Krishnamurti's "choiceless awareness" poses a deeper challenge: if true freedom is choicelessness, doesn't the Map's emphasis on selection perpetuate bondage?
 
-Possible response: Krishnamurti describes a state beyond ordinary selfhood—where the constructed ego (which makes problematic choices) dissolves. What remains may still select, but without the egocentric bias that creates suffering. the Map's framework describes consciousness's capacity to select; Krishnamurti describes what selection looks like when the distorting lens of ego is removed.
+Possible response: Krishnamurti describes a state beyond ordinary selfhood—where the constructed ego (which makes problematic choices) dissolves. What remains may still select, but without the egocentric bias that creates suffering. The Map's framework describes consciousness's capacity to select; Krishnamurti describes what selection looks like when the distorting lens of ego is removed.
 
 Alternatively: selection is consciousness's interface with physics, not its essence. Consciousness *can* select (Bidirectional Interaction), but isn't *only* selecting. The witness mode reveals what consciousness is apart from its interface function.
 

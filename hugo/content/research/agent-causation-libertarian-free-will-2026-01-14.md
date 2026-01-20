@@ -206,7 +206,7 @@ Agent causation is the philosophical view that conscious agents—understood as 
 
 Based on this research, an article could:
 
-1. **Agent causation as the philosophical framework for the Map's quantum model** - Show how Bidirectional Interaction tenet is a specification of agent-causal libertarianism. the Map provides what classical agent causation lacked: a mechanism (quantum selection). This would connect the Map to major philosophical tradition while distinguishing it.
+1. **Agent causation as the philosophical framework for the Map's quantum model** - Show how Bidirectional Interaction tenet is a specification of agent-causal libertarianism. The Map provides what classical agent causation lacked: a mechanism (quantum selection). This would connect the Map to major philosophical tradition while distinguishing it.
 
 2. **The luck objection and the Map's response** - Address directly how the quantum selection model handles luck. Key insight: consciousness genuinely chooses for reasons, not randomly. The indeterminacy provides openness; consciousness provides determination. This is neither determined (physics didn't fix the outcome) nor lucky (consciousness selected based on reasons).
 

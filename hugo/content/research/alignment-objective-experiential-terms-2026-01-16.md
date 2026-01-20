@@ -56,13 +56,13 @@ The pleasure-pain axis remains fundamental. Kahneman's work on experiential well
 Not reducible to negative hedonic valence. Suffering includes existential distress, anxiety, despair, and meaninglessness. These are distinct phenomenal qualities that matter morally independent of pleasure/pain.
 
 **3. Agency and Authorship**
-The phenomenology of being an agent—of making choices that matter. the Map's framework grounds this in consciousness causally influencing neural outcomes. Loss of agency—through coercion, manipulation, or learned helplessness—is experientially distinct from mere displeasure.
+The phenomenology of being an agent—of making choices that matter. The Map's framework grounds this in consciousness causally influencing neural outcomes. Loss of agency—through coercion, manipulation, or learned helplessness—is experientially distinct from mere displeasure.
 
 **4. Meaning and Significance**
 The felt sense that what one does matters. Susan Wolf's "subjective attraction meets objective attractiveness" captures this: engagement with what is genuinely worth engaging with. Meaning is not preference satisfaction but a distinct experiential quality.
 
 **5. Attention Quality**
-The phenomenology of presence vs. autopilot. the Map emphasizes conscious engagement as where value resides. Quality of attention—focused, absorbed, mindful vs. scattered, distracted, absent—shapes experiential quality independent of content.
+The phenomenology of presence vs. autopilot. The Map emphasizes conscious engagement as where value resides. Quality of attention—focused, absorbed, mindful vs. scattered, distracted, absent—shapes experiential quality independent of content.
 
 **6. Social Connection**
 The felt sense of belonging, being understood, mattering to others. Loneliness and isolation have distinct phenomenal character beyond mere preference frustration.

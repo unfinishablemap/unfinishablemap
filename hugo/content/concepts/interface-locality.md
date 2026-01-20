@@ -45,7 +45,7 @@ If consciousness can bias quantum outcomes, what stops it from:
 - **Remote viewing**: Accessing information about distant events
 - **Precognition**: Affecting future quantum events retroactively
 
-Decades of parapsychology research claim small but statistically significant effects in some domains. the Map cannot simply dismiss this research—but it also cannot endorse claims lacking robust replication without undermining scientific credibility.
+Decades of parapsychology research claim small but statistically significant effects in some domains. The Map cannot simply dismiss this research—but it also cannot endorse claims lacking robust replication without undermining scientific credibility.
 
 The challenge: articulate a boundary that permits brain-internal quantum selection while excluding brain-external effects, and that follows from the mechanism itself rather than being imposed to avoid embarrassment.
 
