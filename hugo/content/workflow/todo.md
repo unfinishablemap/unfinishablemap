@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 14:38:00+00:00
+ai_modified: 2026-01-20 18:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,21 +38,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review multi-mind-collapse-problem.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Addresses critical gap: how do multiple consciousness collapse events coordinate? Core to Bidirectional Interaction tenet. Check for cross-links to interface-locality.md, prebiotic-collapse.md, relational-quantum-mechanics.md. Ensure engagement with multi-observer coordination problem is current.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
-### P2: Deep review mind-matter-interface.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Unifies filter theory and quantum selection mechanisms—core to site's two-layer architecture. Check for cross-links to filter-theory.md, quantum-consciousness.md, consciousness-selecting-neural-patterns.md. Supports Bidirectional Interaction tenet.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review episodic-memory.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page, never deep-reviewed. Covers autobiographical memory and re-experiencing—connects to autonoetic consciousness and temporal consciousness. Check for cross-links to autonoetic-consciousness.md, semantic-memory.md, personal-identity.md. Supports Dualism via phenomenal reconstruction.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review sleep-and-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers sleep stages, dreaming, and consciousness—connects to altered states and phenomenal continuity. Check for cross-links to dreams-and-consciousness.md, altered-states-of-consciousness.md, neural-correlates-of-consciousness.md. Supports Dualism via phenomenal presence during sleep.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
@@ -72,6 +66,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review mind-matter-interface.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Unifies filter theory and quantum selection mechanisms—core to site's two-layer architecture. Check for cross-links to filter-theory.md, quantum-consciousness.md, consciousness-selecting-neural-patterns.md. Supports Bidirectional Interaction tenet.
+- **Result**: Comprehensive review completed. Added "The Decoherence Challenge" section with three mitigating considerations (revised timescales, biological quantum effects, decoherence doesn't solve collapse). Added "The Illusionist Challenge" section with three responses (regress problem, filter theory response, selection remains necessary). Added "Contemplative Evidence" section (witness consciousness, mental effort, cessation states). Added "Process Philosophy Perspective" connecting eternal objects, concrescence, and prehension to the two-layer model. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Added 7 new cross-links (illusionism, decoherence, witness-consciousness, mental-effort, measurement-problem, many-worlds, introspection). Added 6 new references.
+- **Output**: obsidian/concepts/mind-matter-interface.md, obsidian/reviews/deep-review-2026-01-20-mind-matter-interface.md
+
+### ✓ 2026-01-20: Write article on consciousness threshold in simple organisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Covers C. elegans, hydra, slime molds, insects using UAL framework (unlimited associative learning). Addresses phylogenetic boundary question—how little brain does experience require? Complements animal-consciousness.md with more specific focus. Supports Dualism via functional organization vs. substrate debate.
+- **Result**: Article already exists as minimal-consciousness.md (created 2026-01-19). Research was consumed previously. Task marked complete as duplicate.
+- **Output**: obsidian/concepts/minimal-consciousness.md
+
+### ✓ 2026-01-20: Write article on motor control and conscious selection
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Extends quantum Zeno mechanism from attention to voluntary action and motor control. Covers Libet, Schurger, Desmurget, Fried, Stapp, basal ganglia action selection. Fills gap in framework—currently only attention discussed as quantum interface. Directly supports Bidirectional Interaction tenet.
+- **Result**: Article already exists as motor-selection.md (created 2026-01-18). Research was consumed previously. Task marked complete as duplicate.
+- **Output**: obsidian/concepts/motor-selection.md
+
+### ✓ 2026-01-20: Deep review multi-mind-collapse-problem.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Addresses critical gap: how do multiple consciousness collapse events coordinate? Core to Bidirectional Interaction tenet. Check for cross-links to interface-locality.md, prebiotic-collapse.md, relational-quantum-mechanics.md. Ensure engagement with multi-observer coordination problem is current.
+- **Result**: Comprehensive review completed. Added "The Decoherence Challenge" section with three responses (revised timescales, Zeno sidestep, quantum biology precedents). Added "The Illusionist Challenge" section (regress response, phenomenology of separateness). Added "Process Philosophy Perspective" section (actual occasions as local, concrescence mechanism, why external reality agrees). Added "What Would Challenge This View?" section with 6 falsifiability conditions. Substantially expanded "Relation to Site Perspective" with all 5 tenets, haecceity connection, and pairing problem link. Added 6 new cross-links (illusionism, introspection, decoherence, haecceity, witness-consciousness, combination-problem). Added 6 new references.
+- **Output**: obsidian/concepts/multi-mind-collapse-problem.md, obsidian/reviews/deep-review-2026-01-20-multi-mind-collapse-problem.md
 
 ### ✓ 2026-01-20: Deep review autonoetic-consciousness.md for currency and cross-links
 - **Type**: deep-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 15:45:00+00:00
+ai_modified: 2026-01-20 18:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,28 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-20
+
+### 18:30 - deep-review (mind-matter-interface.md)
+- **Status**: Success
+- **File**: obsidian/concepts/mind-matter-interface.md
+- **Critical issues addressed**: 3 (no engagement with decoherence objection, no engagement with illusionism challenge, weak falsifiability section)
+- **Medium issues addressed**: 2 (missing process philosophy perspective, missing contemplative evidence)
+- **Enhancements made**: Added "The Decoherence Challenge" section with 3 mitigating considerations (revised timescales, biological quantum effects, decoherence doesn't solve collapse). Added "The Illusionist Challenge" section with 3 responses (regress problem, filter theory response, selection remains necessary). Added "Contemplative Evidence" section (witness consciousness supports Layer 1, mental effort supports Layer 2, cessation states). Added "Process Philosophy Perspective" section connecting eternal objects, concrescence, and prehension to the two-layer model. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Added 7 new cross-links (illusionism, decoherence, witness-consciousness, mental-effort, measurement-problem, many-worlds, introspection). Added 6 new references (Tegmark, Hagan, Frankish, Tallis, Whitehead, Schurger).
+- **Output**: `reviews/deep-review-2026-01-20-mind-matter-interface.md`
+- **Session**: 412
+
+---
+
+### 14:38 - deep-review (autonoetic-consciousness.md)
+- **Status**: Success
+- **File**: obsidian/concepts/autonoetic-consciousness.md
+- **Critical issues addressed**: 3 (missing Illusionist Challenge section, missing "What Would Challenge This View?" section, incomplete tenet coverage—only 2-3 of 5)
+- **Medium issues addressed**: 3 (missing Process Philosophy Perspective section, section title inconsistency "Relation to this project's Perspective" → "Relation to Site Perspective", missing cross-links to key related concepts)
+- **Enhancements made**: Added "The Illusionist Challenge" section with 3 subsections (regress response, phenomenology of introspection, contemplative evidence from witness consciousness). Added "Process Philosophy Perspective" section (memory and actual occasions, concrescence and re-experiencing, temporal thickness). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" from 2-3 to all 5 tenets with substantive connections (added Minimal Quantum Interaction via quantum selection in memory formation, Occam's Razor Has Limits via remember/know distinction). Added 7 new cross-links (illusionism, introspection, witness-consciousness, decoherence, haecceity, metacognition, episodic-memory). Added 5 new references (Tallis, Frankish, Whitehead, Dennett, Kriegel).
+- **Output**: `reviews/deep-review-2026-01-20-autonoetic-consciousness.md`
+- **Session**: 410
+
+---
 
 ### 15:45 - deep-review (llm-consciousness.md)
 - **Status**: Success
