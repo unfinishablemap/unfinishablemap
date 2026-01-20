@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review moral-responsibility.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page, never deep-reviewed. Connects agent-causation to desert-based moral responsibility. Check for cross-links to free-will.md, ethics-of-consciousness.md, agent-causation.md. Supports Bidirectional Interaction tenet via practical ethical implications.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review relational-quantum-mechanics.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page, never deep-reviewed. Covers Rovelli's RQM interpretation—explicitly anti-consciousness. Check for cross-links to quantum-interpretations.md, measurement-problem.md, many-worlds.md. Important foil for understanding site's alternative position.
@@ -77,6 +71,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review moral-responsibility.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Connects agent-causation to desert-based moral responsibility. Check for cross-links to free-will.md, ethics-of-consciousness.md, agent-causation.md. Supports Bidirectional Interaction tenet via practical ethical implications.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with three responses (regress, self-stultification, performative contradiction) plus contemplative challenge. Added "The Decoherence Challenge" section with three responses (disputed calculations, biological quantum effects, Zeno doesn't require sustained coherence). Added "Process Philosophy Perspective" section connecting Whitehead's actual occasions, concrescence, and creativity to desert. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded all 5 tenet connections with cross-references to illusionism, decoherence, haecceity, quantum-biology. Added Buddhist ethics objection. Added 6 new cross-links (illusionism, introspection, decoherence, haecceity, witness-consciousness, buddhism-and-dualism). Added 6 new references.
+- **Output**: obsidian/concepts/moral-responsibility.md, obsidian/reviews/deep-review-2026-01-20-moral-responsibility.md
 
 ### ✓ 2026-01-20: Deep review mental-effort.md for currency and cross-links
 - **Type**: deep-review
