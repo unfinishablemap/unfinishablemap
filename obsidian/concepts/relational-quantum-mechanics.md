@@ -1,9 +1,9 @@
 ---
 title: "Relational Quantum Mechanics"
 created: 2026-01-18
-modified: 2026-01-18
+modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-18T21:00:00+00:00
+ai_modified: 2026-01-20T14:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,11 @@ concepts:
   - "[[quantum-interpretations]]"
   - "[[multi-mind-collapse-problem]]"
   - "[[locality]]"
+  - "[[illusionism]]"
+  - "[[introspection]]"
+  - "[[decoherence]]"
+  - "[[haecceity]]"
+  - "[[witness-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[relational-quantum-mechanics-2026-01-18]]"
@@ -21,7 +26,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-20T14:30:00+00:00
 ---
 
 Relational quantum mechanics (RQM) is Carlo Rovelli's interpretation of quantum mechanics in which physical properties exist only as relations between systems, not as intrinsic features of things. There is no "view from nowhere"—all quantum facts are relative to specific observers, where "observer" means any physical system, not necessarily a conscious one. RQM explicitly removes any special role for consciousness in quantum measurement.
@@ -64,17 +69,37 @@ The consequence: RQM provides no mechanism for [[mental-causation]]. If any phys
 
 For this project, that's the deal-breaker. RQM dissolves the measurement problem by dissolving the observer—making "observer" mean any physical system rather than a conscious subject. This elegantly avoids the [[multi-mind-collapse-problem]], but only by denying that consciousness matters at all.
 
+## The Illusionist Challenge
+
+[[illusionism|Illusionists]] like Daniel Dennett and Keith Frankish might view RQM as a natural ally. If phenomenal consciousness is an introspective illusion—if there's nothing it's *like* to be a conscious observer in any metaphysically significant sense—then RQM's dismissal of consciousness's special role costs nothing. The apparent "deal-breaker" dissolves because there was never anything special about consciousness to begin with.
+
+The illusionist can argue: RQM's success shows we don't *need* consciousness to play a role in physics. Consciousness-causes-collapse theories posit an interaction between consciousness and quantum mechanics precisely because they take the hard problem seriously. But if the hard problem is based on an illusion, the motivation for such theories evaporates. RQM becomes the natural choice.
+
+### The Regress Response
+
+The illusionist alliance with RQM faces a difficulty. To say consciousness plays no role in collapse requires explaining why we *believe* it does—why the hard problem *seems* compelling. This "illusion problem" may be as difficult as the hard problem itself.
+
+Raymond Tallis's objection applies: "Misrepresentation presupposes presentation." For consciousness to *seem* special—for the question "why am I this observer rather than any physical system?" to feel meaningful—something must be doing the seeming. That something cannot be explained as "just another relative fact" without circularity. RQM's relativization works for physical observables; it's unclear how to relativize the phenomenology of being a particular observer.
+
+### The Phenomenology of Observation
+
+[[introspection|Introspective access]] to observation itself poses a challenge. When you observe a quantum measurement outcome, there is phenomenology involved—the experience of seeing the result. RQM says this experience is "just" the physical interaction between your sensory systems and the measured system. But this doesn't explain why the interaction is accompanied by experience at all.
+
+The contemplative literature on [[witness-consciousness]] suggests that trained observers can access the structure of observation itself—the subject-object relation prior to specific contents. If this phenomenology is reliable, it reveals something RQM's framework cannot capture: the qualitative character of being an observer, not merely functioning as one.
+
+RQM's elegance comes from treating observation as a purely physical relation. But the phenomenology of observation—accessible through [[introspection]] and refined through contemplative practice—suggests observation involves more than physical interaction.
+
 ## Why Understanding RQM Matters
 
 Even for those who reject RQM, engaging with it clarifies what's at stake:
 
 **The price of consciousness-causes-collapse.** RQM shows there's a coherent interpretation where consciousness plays no role. Choosing a consciousness-based framework isn't forced by quantum mechanics—it's a philosophical commitment. Understanding RQM helps distinguish what quantum mechanics requires from what the project's tenets add.
 
-**The multi-observer problem.** RQM's treatment of multiple observers (each with valid but relative perspectives) illuminates the challenges consciousness-causes-collapse faces. If Alice's consciousness collapses the wavefunction and Bob's does too, how are their selections reconciled? RQM dissolves this by relativizing collapse to each observer. the project's alternative—[[interface-locality]]—achieves something similar by different means: each consciousness modulates only its own brain.
+**The multi-observer problem.** RQM's treatment of multiple observers (each with valid but relative perspectives) illuminates the challenges consciousness-causes-collapse faces. If Alice's consciousness collapses the wavefunction and Bob's does too, how are their selections reconciled? RQM dissolves this by relativizing collapse to each observer. This project's alternative—[[interface-locality]]—achieves something similar by different means: each consciousness modulates only its own brain.
 
-**Lessons for perspectivalism.** RQM's insight that intermediate states needn't be coordinated until observers interact has value even within a different framework. the project can accept that before Alice and Bob communicate, their brain states (modulated by their respective consciousnesses) needn't be compared. Agreement is verified only through physical interaction.
+**Lessons for perspectivalism.** RQM's insight that intermediate states needn't be coordinated until observers interact has value even within a different framework. This project can accept that before Alice and Bob communicate, their brain states (modulated by their respective consciousnesses) needn't be compared. Agreement is verified only through physical interaction.
 
-**The locality puzzle.** RQM claims locality through perspectival independence. the project's framework achieves locality differently: consciousness influences only local neural systems, not distant quantum events. Comparing these strategies clarifies what "locality" requires when consciousness is involved.
+**The locality puzzle.** RQM claims locality through perspectival independence. This project's framework achieves locality differently: consciousness influences only local neural systems, not distant quantum events. Comparing these strategies clarifies what "locality" requires when consciousness is involved.
 
 ## RQM vs. Consciousness-Causes-Collapse: A Comparison
 
@@ -88,31 +113,83 @@ Even for those who reject RQM, engaging with it clarifies what's at stake:
 | Explains consciousness? | No (not its goal) | Aims to give consciousness causal role |
 | Site compatibility | **Conflicts with Bidirectional Interaction** | **Aligns with tenets** |
 
+## Process Philosophy Perspective
+
+Alfred North Whitehead's process philosophy illuminates what RQM sacrifices. For Whitehead, reality consists of "actual occasions"—momentary events of experience that arise, achieve definiteness through "concrescence," and perish. Each actual occasion has both physical and experiential aspects; experience pervades reality at every level.
+
+### Concrescence vs. Relativization
+
+Whitehead's concept of concrescence—the process by which an actual occasion becomes definite—stands in tension with RQM's relativization. For Whitehead, definiteness is *achieved*, not merely *relative*. An actual occasion doesn't have properties relative to this or that observer; it becomes a specific thing through its own internal process.
+
+RQM says properties are relative to observers, with no "view from nowhere." Whitehead would agree there's no view from nowhere—but not because all facts are relative. Rather, there's no view from nowhere because every view *is* somewhere: each actual occasion is a perspective that becomes definite through its own subjective process. The lack of a view from nowhere reflects the ubiquity of perspectives, not the relativity of facts.
+
+### The Subject-Superject Structure
+
+Whitehead describes each actual occasion as a "subject-superject"—it is a subject *during* its becoming and a superject (object for others) *after* it achieves satisfaction. RQM lacks this temporal asymmetry. On RQM, facts are relative to observers at all times; there's no moment of genuine becoming where relativity gives way to definiteness.
+
+This connects to the [[measurement-problem|measurement problem]]. RQM claims to dissolve the problem by making collapse relative—but Whitehead would say this merely redescribes the problem. Something must account for why each actual occasion achieves the definiteness it does. Relativizing collapse to observers doesn't explain the achieving.
+
+### Experience All the Way Down
+
+For Whitehead, experience is not confined to conscious subjects. Each actual occasion—down to the most elementary level—has its own "droplet of experience." This differs radically from both RQM (where "observer" is physical but not experiential) and consciousness-causes-collapse (where consciousness is rare and special).
+
+Whitehead's framework suggests a third option: experience is ubiquitous, and collapse reflects the achievement of definiteness in each moment of experience. This preserves the insight that something real happens at "measurement" while avoiding both RQM's elimination of experience and consciousness-causes-collapse's confinement of experience to special systems. The [[combination-problem]] becomes the central challenge: how do micro-experiences combine into unified consciousness?
+
+## What Would Challenge This View?
+
+This project's position on RQM would need revision if:
+
+1. **RQM solves the hard problem.** If a satisfying account emerged of why relative facts between physical systems are accompanied by phenomenal experience—if the intersubjectivity solution (cross-perspective links) could explain not just physical agreement but qualitative experience—RQM would become more attractive. Currently, RQM ignores the hard problem rather than solving it.
+
+2. **[[decoherence]] proves sufficient.** If decoherence could explain not just the suppression of interference effects but the emergence of definite outcomes, the role for consciousness at collapse would diminish. RQM's appeal lies partly in not requiring any special collapse mechanism. But [[decoherence|decoherence doesn't solve the measurement problem]]—it selects preferred bases without explaining why we see specific outcomes.
+
+3. **Contemplative reports prove unreliable.** The phenomenology of observation—the sense that being an observer involves something beyond physical interaction—supports consciousness-causes-collapse over RQM. If this phenomenology were shown to be systematically misleading (as illusionists claim), RQM's dismissal of observer specialness would lose its cost.
+
+4. **[[haecceity|Indexical identity]] proves illusory.** RQM handles multiple observers by relativizing facts to each. This works if there's no deep fact about *which* observer you are. If indexical identity—the haecceitistic fact of being *this* subject—proves reducible to physical relations, RQM's treatment of observers as mere physical systems becomes more defensible.
+
+5. **The intersubjectivity problem gets solved.** Peter Lewis's solipsism objection holds that RQM cannot ground knowledge of anything beyond immediate experience. If Rovelli and Adlam's "cross-perspective links" can be shown to fully recover intersubjective knowledge without invoking anything beyond physical relations, a major objection to RQM falls.
+
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]:** RQM is compatible with physicalism—it requires no non-physical elements. the project's dualism finds no support here. However, RQM's emphasis on observer-relativity shares something with the project's rejection of "view from nowhere" physicalism, even if RQM doesn't draw dualist conclusions.
+**[[tenets#^dualism|Dualism]]:** RQM is compatible with physicalism—it requires no non-physical elements. This project's dualism finds no support here. However, RQM's emphasis on observer-relativity shares something with the project's rejection of "view from nowhere" physicalism, even if RQM doesn't draw dualist conclusions.
+
+The deeper issue: RQM's relativization applies to *physical* properties. The phenomenal character of being an observer—what it's like to see the measurement result—is neither relative nor absolute on RQM because RQM doesn't address it at all. Dualism asserts that this phenomenal dimension exists and matters. RQM's silence on phenomenology is not neutrality; it's exclusion. By treating observers as purely physical systems, RQM assumes away the dualist's central datum.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]:** RQM eliminates the need for any special interaction—consciousness plays no role in collapse. This directly conflicts with the tenet's proposal that consciousness biases quantum outcomes.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]:** **Direct conflict.** RQM explicitly removes consciousness from physics. If RQM is correct, consciousness cannot influence physical outcomes through quantum mechanisms. the project's central claim—that consciousness participates in determining quantum outcomes—fails.
+Note, however, that RQM faces its own version of the "how does collapse happen?" question. Saying collapse is relative to observers doesn't explain *why* each observer-relative fact takes the value it does. The tenet proposes that consciousness biases outcomes; RQM says facts simply are relative to physical systems. But RQM provides no mechanism for the relative facts to arise—it treats them as brute. The minimal quantum interaction proposal at least offers a story about why outcomes occur as they do.
+
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]:** **Direct conflict.** RQM explicitly removes consciousness from physics. If RQM is correct, consciousness cannot influence physical outcomes through quantum mechanisms. This project's central claim—that consciousness participates in determining quantum outcomes—fails.
+
+The [[epiphenomenalism|epiphenomenalism concern]] cuts both ways, however. RQM makes consciousness epiphenomenal by default—experience accompanies physical interactions (if it exists at all) but plays no causal role. The same considerations that make epiphenomenalism problematic for dualists apply here: why do we talk about consciousness if it does nothing? The bidirectional interaction tenet addresses this by giving consciousness genuine causal work. RQM leaves the explanatory gap unexplained.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]:** RQM also rejects many-worlds, treating collapse (relative to each observer) as real. Here the project and RQM agree: we don't branch into multiple copies.
 
+But the agreement is superficial. RQM's rejection of MWI stems from denying that the wave function represents reality—it's a calculational tool. This project's rejection stems from the [[haecceity|indexical identity problem]]: the meaningfulness of asking "which branch am I in?" presupposes something RQM cannot accommodate—that being *this* observer is a genuine fact, not merely a relative one. RQM and this project reject MWI for different reasons, and those reasons reveal incompatible commitments about the nature of observers.
+
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]:** RQM might seem simpler—no need for consciousness in physics. But simplicity isn't truth. RQM's elegance doesn't explain why consciousness exists or why physical processes are accompanied by experience. It solves the measurement problem while ignoring the hard problem.
+
+The deeper point: RQM's parsimony is achieved by restriction of scope, not by genuine explanation. Refusing to address the hard problem is not the same as showing it doesn't exist. A theory of physics that ignores consciousness appears simpler only because it excludes the most complex phenomenon. If consciousness exists and is irreducible (as the dualism tenet holds), RQM's simplicity is illusory—it covers only part of reality.
 
 ## Summary
 
 Relational quantum mechanics offers a coherent interpretation where quantum facts are relative to observers, and "observer" means any physical system. It dissolves the measurement problem and avoids multi-observer paradoxes—but only by eliminating consciousness's special role.
 
-the project rejects this trade-off. Understanding consciousness as causally efficacious matters more than interpretive elegance. But engaging with RQM clarifies what the project's framework adds beyond bare quantum mechanics: a commitment to consciousness as real, irreducible, and causally effective—not merely another physical system among many.
+This project rejects this trade-off. Understanding consciousness as causally efficacious matters more than interpretive elegance. But engaging with RQM clarifies what the project's framework adds beyond bare quantum mechanics: a commitment to consciousness as real, irreducible, and causally effective—not merely another physical system among many.
 
 ## Further Reading
 
 - [[quantum-interpretations]] — Survey of interpretations and their consciousness implications
+- [[many-worlds]] — The interpretation both RQM and this project reject, for different reasons
 - [[multi-mind-collapse-problem]] — How the project handles multiple conscious observers
 - [[interface-locality]] — Why consciousness can only affect its own brain
 - [[measurement-problem]] — The puzzle RQM dissolves
 - [[quantum-consciousness]] — Mechanisms the project endorses
+- [[illusionism]] — The eliminativist position that finds RQM congenial
+- [[introspection]] — First-person methods for investigating observer experience
+- [[witness-consciousness]] — The phenomenology of observation RQM cannot capture
+- [[haecceity]] — Why indexical identity matters for quantum interpretations
+- [[decoherence]] — What decoherence does and doesn't explain about measurement
 
 ## References
 
@@ -121,4 +198,7 @@ the project rejects this trade-off. Understanding consciousness as causally effi
 - Lewis, P. J. (2024). A dilemma for relational quantum mechanics. *Principia*.
 - Laudisa, F. (2019). Open problems in relational quantum mechanics. *Journal for General Philosophy of Science*, 50(2), 215-230.
 - Pienaar, J. (2019). Comment on "The notion of locality in relational quantum mechanics." *Foundations of Physics*, 49(12), 1404-1412.
+- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 - Stanford Encyclopedia of Philosophy. "Relational Quantum Mechanics." https://plato.stanford.edu/entries/qm-relational/
