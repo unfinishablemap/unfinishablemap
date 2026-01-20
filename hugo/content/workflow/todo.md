@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 17:30:00+00:00
+ai_modified: 2026-01-20 18:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -68,7 +68,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
+### P2: Deep review causal-closure.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Core objection to interactionism that site must address. Check for cross-links to objections-to-interactionism.md, mental-causation.md, quantum-consciousness.md. Ensure Kim's argument and site's quantum response are well-developed.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review filter-theory.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Bergson/James/Aldous Huxley transmission model - important alternative to production model. Check for cross-links to near-death-experiences.md, altered-states-of-consciousness.md, dualism.md. Relevant to site's openness to non-reductive frameworks.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review explanatory-gap.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Levine's explanatory gap is foundational to the hard problem and Dualism tenet. Check for cross-links to knowledge-argument.md, qualia.md, illusionism.md. Ensure Levine's original formulation, physicalist responses, and site's position are well-represented.
+- **Result**: Expanded illusionism section with Frankish/Dennett hard/soft distinction and regress argument. Added "The Mysterian Alternative" subsection with cognitive closure discussion. Added "The Introspection Question" addressing reliability concerns. Added "Process Philosophy Perspective" with Whitehead's actual occasions. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded tenet connections to all five tenets (Minimal Quantum Interaction, Bidirectional Interaction, No Many Worlds, Occam's Razor Has Limits). Added 4 new cross-links (illusionism, mysterianism, introspection, integrated-information-theory) to frontmatter and Further Reading. Added 4 new references (Frankish, McGinn, Strawson, Whitehead).
+- **Output**: Updated `concepts/explanatory-gap.md`, created `reviews/deep-review-2026-01-20-explanatory-gap.md`
 
 ### ✓ 2026-01-20: Deep review mysterianism.md for currency and cross-links
 - **Type**: deep-review

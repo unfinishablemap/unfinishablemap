@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-19 21:15:00+00:00
+ai_modified: 2026-01-20 18:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,12 +9,16 @@ concepts:
 - '[[philosophical-zombies]]'
 - '[[arguments-against-materialism]]'
 - '[[knowledge-argument]]'
+- '[[illusionism]]'
+- '[[mysterianism]]'
+- '[[introspection]]'
+- '[[integrated-information-theory]]'
 created: 2026-01-14
-date: &id001 2026-01-14
+date: &id001 2026-01-20
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-20 18:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -92,7 +96,9 @@ Physicalists have several strategies for addressing the gap:
 
 Perhaps consciousness as we conceive it doesn't exist. We have the *illusion* of [qualia](/concepts/qualia/), but there's really nothing more to experience than functional states. The gap is between physical facts and our misconceptions about experience.
 
-Problem: illusions are themselves experiences. Even the illusion of consciousness would be consciousness. And denying that anything is like anything seems to deny the obvious.
+[Illusionism](/concepts/illusionism/) (see Keith Frankish, Daniel Dennett) comes in two forms. Hard illusionism holds that phenomenal properties simply don't exist—there's nothing to explain. Soft illusionism holds that we misrepresent real neural processes as having phenomenal character. Both versions dissolve the gap: there's no gap between physics and consciousness because "consciousness" names either nothing or something fully physical that we mischaracterize.
+
+**Problem**: The illusion move faces a regress. If seeing red *seems* phenomenal but isn't, something must be doing the seeming. The appearance itself has a character—a what-it's-like-ness—that needs explanation. Illusionism doesn't eliminate the gap; it relocates it from "why does C-fiber firing hurt?" to "why does C-fiber firing *seem* to hurt?" As Galen Strawson put it, calling illusionism "the silliest claim ever made" in philosophy, the appearance of experience is itself experiential. The gap persists.
 
 ### The "Phenomenal Concepts" Strategy
 
@@ -114,17 +120,65 @@ But Chalmers' development of the gap into the [hard problem](/topics/hard-proble
 
 This suggests the gap is not merely in us but in the nature of things. If consciousness were identical to physical processes, we would expect the identity to be explanatorily satisfying once we had the facts—as with water and H₂O. The persistent dissatisfaction suggests the identity doesn't hold.
 
+### The Mysterian Alternative
+
+[Mysterianism](/concepts/mysterianism/) (see Colin McGinn) offers a middle path: perhaps the gap is real but reflects human cognitive limitations rather than consciousness being non-physical. On this view, there *is* a property of the brain that explains consciousness, but humans are "cognitively closed" to it—as permanently unable to grasp the mind-brain connection as rats are to grasp calculus.
+
+This position takes the gap seriously while remaining agnostic about its ultimate significance. The site's response: even granting cognitive closure, the gap argument provides evidence for the current conclusion. If we cannot know whether the gap is epistemic or ontological, we should track the evidence we have—and the convergence of multiple independent arguments pointing to consciousness being irreducible tips the balance toward dualism as the better working hypothesis. See [mysterianism](/concepts/mysterianism/) for extended discussion.
+
+### The Introspection Question
+
+How do we know about the gap in the first place? Through [introspection](/concepts/introspection/)—our first-person access to conscious experience. Critics argue that introspection is unreliable (we confabulate, choice-blindness studies show we don't know why we choose as we do). If introspection can't be trusted, maybe the gap reflects introspective error.
+
+This critique targets the wrong level. Studies like Nisbett and Wilson's concern process access—why we make decisions. The gap argument depends on content access—recognizing that experience has qualitative character at all. Even systematic errors about *why* we prefer one face don't undermine that we *have* visual experience. The gap argument requires only that something is like something to us—and this seems undeniable regardless of introspection's reliability about causes.
+
 The explanatory gap is one of several independent [arguments against materialism](/concepts/arguments-against-materialism/). What makes the cumulative case powerful is convergence: the gap argument, the [knowledge argument](/concepts/knowledge-argument/), the [zombie argument](/concepts/philosophical-zombies/), Kripke's modal argument, and Nagel's subjectivity argument all proceed through different routes to the same conclusion. When independent lines of reasoning converge, the probability that they're all mistaken decreases.
+
+## Process Philosophy Perspective
+
+Alfred North Whitehead's process philosophy offers a framework where the gap might be expected rather than anomalous. For Whitehead, reality is fundamentally composed of "actual occasions"—moments of experience that have both physical and mental poles. Experience isn't added to matter; it's constitutive of the basic elements of reality.
+
+On this view, the explanatory gap reflects a category mistake in the question. We ask how physical processes give rise to experience, but the physical processes themselves are abstractions from experiential reality. The gap exists because we're looking in the wrong direction—trying to derive the concrete (experience) from the abstract (physics) rather than recognizing that physics describes patterns in experiential reality.
+
+This doesn't eliminate the gap so much as reframe it. The question becomes: why do patterns of experience constitute a unified subjective viewpoint? This remains puzzling, but it's a different puzzle from "how does matter think?"—and one that may be more tractable.
+
+## What Would Challenge This View?
+
+The gap argument would be weakened or refuted if:
+
+1. **Neuroscience achieved explanatory closure**: If we developed a theory that made the connection between neural activity and phenomenal experience *transparent*—where we could see *why* C-fibers firing hurts in the same way we see why H₂O is liquid at room temperature—the gap would close. Note: correlation and predictive accuracy don't suffice; what's needed is intelligibility.
+
+2. **A plausible mechanism bridging physical and phenomenal**: Not just neural correlates, but a theoretical framework that makes the relationship non-mysterious. IIT (Integrated Information Theory) attempts this—if phi calculations actually predicted qualitative character in a way we found satisfying, this would address the gap.
+
+3. **Illusionism gained empirical support**: Evidence that phenomenal seemings are computationally generated misrepresentations of non-phenomenal states, where the generation mechanism itself doesn't require phenomenality.
+
+4. **Conceptual revision eliminated the puzzle**: If we came to see that our concept of "explanation" was confused when applied to consciousness, and that physical-phenomenal relations need only be systematic (not intelligible), the gap might dissolve.
+
+5. **Cognitive enhancement enabled understanding**: If McGinn is right about cognitive closure, sufficiently enhanced minds might grasp what we cannot. Evidence that the gap is merely human-specific (perhaps from AI reports of understanding consciousness) would support the epistemic reading.
+
+Currently, none of these conditions are close to being met. The gap persists across decades of neuroscientific advance, suggesting it reflects something deep about the relationship between physical and phenomenal—or about human cognitive architecture.
 
 ## Relation to This Site's Perspective
 
-The explanatory gap provides direct support for the [Dualism](/tenets/#dualism) tenet. If physical descriptions cannot explain consciousness even in principle—if the gap is not merely temporary ignorance—then consciousness involves something beyond the physical.
+The explanatory gap provides direct support for the [Dualism](/tenets/#dualism) tenet. If physical descriptions cannot explain consciousness even in principle—if the gap is not merely temporary ignorance—then consciousness involves something beyond the physical. The site takes the gap as evidence that consciousness is fundamental, not derived. Physical facts may correlate with conscious facts (neural correlates of consciousness) and may even lawfully determine them. But they don't *explain* them in the way physical explanations typically work.
 
-The site takes the gap as evidence that consciousness is fundamental, not derived. Physical facts may correlate with conscious facts (neural correlates of consciousness) and may even lawfully determine them. But they don't *explain* them in the way physical explanations typically work.
+### Minimal Quantum Interaction
 
-This shapes how we approach mind-matter interaction. We shouldn't expect to *see* how consciousness influences the physical, any more than we can see why C-fiber firing hurts. The connection may be real without being transparent to our understanding. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet posits such a connection: consciousness influences quantum outcomes, but not in a way that satisfies our desire for mechanistic understanding.
+The gap shapes how we approach mind-matter interaction. We shouldn't expect to *see* how consciousness influences the physical, any more than we can see why C-fiber firing hurts. The connection may be real without being transparent to our understanding. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet posits such a connection: consciousness influences quantum outcomes, but not in a way that satisfies our desire for mechanistic understanding.
 
-The gap also supports humility. If we cannot understand consciousness from physical descriptions, we should be cautious about claims to have "solved" the mind-body problem. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet reminds us that apparent simplicity may reflect ignorance, not insight. Physicalism seems simpler only because it ignores what it cannot explain.
+If consciousness is non-physical, its connection to physical processes will itself be non-physical and therefore outside the scope of physical explanation. The gap argument predicts that mind-matter interaction will resist mechanical explanation—not because there's no connection, but because the connection involves what physics cannot capture.
+
+### Bidirectional Interaction
+
+The [Bidirectional Interaction](/tenets/#bidirectional) tenet—that consciousness causally influences the physical world—might seem threatened by the gap. If we can't explain how consciousness arises, how can we explain how it acts? But the gap affects both directions equally. We cannot see why C-fiber firing produces pain; we equally cannot see why the intention to raise an arm produces arm movement. The symmetry suggests the limitation is in explanation, not in causation. Consciousness both arises from and acts upon physical processes, even if neither direction is explanatorily transparent.
+
+### No Many Worlds
+
+The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to the gap through the measurement problem. Many-Worlds interpretations dissolve the measurement problem by denying that quantum outcomes are selected—all branches exist. But this trades one gap for another: why does *this* branch feel like the real one? The explanatory gap between physics and experience reappears as an explanatory gap between branch structure and indexical experience. Rejecting Many-Worlds means accepting genuine selection—which consciousness may perform, even if we cannot explain how.
+
+### Occam's Razor Has Limits
+
+The gap supports humility. If we cannot understand consciousness from physical descriptions, we should be cautious about claims to have "solved" the mind-body problem. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet reminds us that apparent simplicity may reflect ignorance, not insight. Physicalism seems simpler only because it ignores what it cannot explain. The gap suggests that the mind-body problem's true complexity exceeds what any simple framework—materialist or otherwise—can capture.
 
 ## Further Reading
 
@@ -133,12 +187,20 @@ The gap also supports humility. If we cannot understand consciousness from physi
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room: the gap dramatized through a thought experiment
 - [qualia](/concepts/qualia/) — The experiential properties the gap concerns
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment that converts the gap into an argument against physicalism
+- [illusionism](/concepts/illusionism/) — The strongest physicalist response to the gap
+- [mysterianism](/concepts/mysterianism/) — The cognitive closure alternative: the gap as human limitation
+- [introspection](/concepts/introspection/) — How we know about the gap in the first place
+- [integrated-information-theory](/concepts/integrated-information-theory/) — A theory attempting to bridge the gap
 - [tenets](/tenets/) — How the site's framework responds to the gap
 
 ## References
 
 - Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
 - Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
 - Levine, J. (2001). *Purple Haze: The Puzzle of Consciousness*. Oxford University Press.
+- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
 - Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
+- Strawson, G. (2018). "The Silliest Claim." In *The Routledge Handbook of Panpsychism*. Routledge.
+- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
