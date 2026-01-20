@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T06:30:00+00:00
+ai_modified: 2026-01-20T06:12:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -67,7 +67,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
+### P2: Deep review arguments-for-dualism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Foundational to Dualism tenet. Check for cross-links to knowledge-argument.md, philosophical-zombies.md, explanatory-gap.md. Ensure all major positive arguments are current and engage recent objections (illusionism, phenomenal concept strategy).
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review introspection.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Methodologically important - site's framework depends on taking first-person data seriously. Check for cross-links to phenomenology.md, neurophenomenology.md, metacognition.md. Ensure response to Schwitzgebel's unreliability critique is well-developed.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review many-worlds.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Central to No Many Worlds tenet. Check for cross-links to haecceity.md, personal-identity.md, quantum-interpretations.md. Ensure site's rejection of MWI (indexical identity concerns, probability problems, consciousness-selection argument) is well-developed and engages strongest defenses.
+- **Result**: Added "The Illusionist Challenge" section showing indexical problem persists for illusionists (regress argument, representation still has indexical character). Added "Process Philosophy Perspective" with Whitehead's actual occasions (concrescence requires definiteness, haecceity non-transferable). Added "What Would Challenge This View?" section with five falsifiability conditions. Expanded "Relation to Site Perspective" to cover all five tenets explicitly. Added decoherence wikilink in consciousness section. Removed unverifiable Nature Physics survey claim. Added 4 new cross-links (illusionism, decoherence, introspection, mental-causation) to frontmatter and 4 to Further Reading. Added 3 new references.
+- **Output**: Updated `concepts/many-worlds.md`, created `reviews/deep-review-2026-01-20-many-worlds.md`
 
 ### ✓ 2026-01-20: Deep review near-death-experiences.md for currency and cross-links
 - **Type**: deep-review
