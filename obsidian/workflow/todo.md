@@ -37,15 +37,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review personal-identity.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated topic page, never deep-reviewed. Connects personal identity to No Many Worlds tenet via indexical identity. Check for cross-links to haecceity.md, parfit-reductionism.md, death-and-consciousness.md, many-worlds.md. Core for site's anti-reductionist stance on identity.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review thoughts-that-slip-away.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: Voids article, never deep-reviewed. Explores phenomenology of ideas at edge of graspability—highly relevant to apophatic-approaches.md and limits-reveal-structure.md. Check for cross-links to phenomenology-of-the-edge.md, introspection.md, mysterianism.md. Supports Occam's Razor Has Limits tenet.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review ethics-of-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page, never deep-reviewed. Explores moral implications of consciousness framework—connects to animal consciousness, AI ethics, and phenomenal value realism. Check for cross-links to animal-consciousness.md, ai-consciousness.md, phenomenal-value-realism.md, moral-responsibility.md. Supports multiple tenets by establishing ethical stakes.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review time-collapse-and-agency.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page, never deep-reviewed. Explores intersection of temporal consciousness, quantum collapse, and free will—core site synthesis. Check for cross-links to collapse-and-time.md, free-will.md, specious-present.md, retrocausality.md. Directly supports Bidirectional Interaction and No Many Worlds tenets.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review epistemic-advantages-of-dualism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page, never deep-reviewed. Makes positive case for dualism's explanatory advantages over materialism. Check for cross-links to arguments-for-dualism.md, mysterianism.md, hard-problem-of-consciousness.md. Critical for site's advocacy stance on Dualism tenet.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review intuitive-dualism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Explores psychological evidence that dualism is the default human stance—supports naturalness of site's framework. Check for cross-links to dualism.md, cognitive-phenomenology.md, problem-of-other-minds.md. Supports Dualism tenet via developmental/cognitive evidence.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
@@ -65,6 +83,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review personal-identity.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page, never deep-reviewed. Connects personal identity to No Many Worlds tenet via indexical identity. Check for cross-links to haecceity.md, parfit-reductionism.md, death-and-consciousness.md, many-worlds.md. Core for site's anti-reductionist stance on identity.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with three-part response (regress, heterophenomenology critique, performative contradiction). Added "The Decoherence Challenge" section with three mitigating considerations (revised timescales, measurement problem remains, Zeno mechanism). Added "Process Philosophy Perspective" with Whitehead's actual occasions (temporal haecceity, concrescence, creative advance). Added "The Buddhist Perspective" section showing compatibility with refined haecceitism. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Added comprehensive "Relation to Site Perspective" section connecting to all 5 tenets. Added 6 new cross-links (illusionism, introspection, decoherence, buddhism-and-dualism, haecceity, witness-consciousness). Added 6 new references.
+- **Output**: obsidian/topics/personal-identity.md, obsidian/reviews/deep-review-2026-01-20-personal-identity.md
 
 ### ✓ 2026-01-20: Deep review ai-consciousness.md for currency and cross-links
 - **Type**: deep-review
