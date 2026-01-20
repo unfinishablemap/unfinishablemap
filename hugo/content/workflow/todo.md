@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 12:00:00+00:00
+ai_modified: 2026-01-20 19:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -56,13 +56,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Deep review pairing-problem.md for currency and cross-links
+### P2: Deep review decoherence.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated, no deep review since creation. Major objection to interactionist dualism. Check for cross-links to objections-to-interactionism.md, interface-locality.md, brain-specialness.md. Ensure Kim's formulation and site's locality-based response are current.
+- **Notes**: AI-generated, no deep review since creation. Central to site's response to quantum consciousness objections. Check for cross-links to quantum-biology.md, neural-quantum-coherence.md, objections-to-interactionism.md. Ensure Tegmark critique and warm brain response are current with 2024-2025 research (Wiest microtubule study, Kerskens-Pérez MRI).
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review attention.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Foundational concept for site's attention-as-interface hypothesis. Check for cross-links to attention-as-interface.md, voluntary-attention.md, consciousness-selecting-neural-patterns.md. Ensure attention-consciousness distinction and Zeno mechanism connection are well-developed.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review dreams-and-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Important for understanding consciousness without external input. Check for cross-links to altered-states-of-consciousness.md, sleep-and-consciousness.md, filter-theory.md. Ensure lucid dreaming evidence and phenomenal continuity arguments are current.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review embodied-cognition.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Challenge to substrate independence that site partially endorses. Check for cross-links to brain-specialness.md, interface-locality.md, substrate-independence-critique.md. Ensure Clark/Chalmers extended mind, Gallagher enactivism, and site's response are well-represented.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review pairing-problem.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, no deep review since creation. Major objection to interactionist dualism. Check for cross-links to objections-to-interactionism.md, interface-locality.md, brain-specialness.md. Ensure Kim's formulation and site's locality-based response are current.
+- **Result**: Added "The Illusionist Challenge" section engaging Dennett/Frankish with response showing problem reappears for functional systems. Added "What Would Challenge This View?" section with five falsifiability conditions. Added interface locality connection showing developmental co-construction as pairing mechanism. Added comprehensive "Relation to Site Perspective" section connecting to all relevant tenets. Added decoherence connection. Added 5 new cross-links (interface-locality, objections-to-interactionism, haecceity, illusionism, decoherence) to frontmatter and 5 to Further Reading.
+- **Output**: Updated `concepts/pairing-problem.md`, created `reviews/deep-review-2026-01-20-pairing-problem.md`
 
 ### ✓ 2026-01-20: Deep review quantum-indeterminacy-free-will.md for currency and cross-links
 - **Type**: deep-review
