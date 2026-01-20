@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-16 23:50:00+00:00
+ai_modified: 2026-01-20 07:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,12 +11,17 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[attention]]'
 - '[[brain-specialness]]'
+- '[[attention-as-interface]]'
+- '[[illusionism]]'
+- '[[decoherence]]'
+- '[[introspection]]'
+- '[[voluntary-attention]]'
 created: 2026-01-16
-date: &id001 2026-01-16
+date: &id001 2026-01-20
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-20 07:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -140,11 +145,65 @@ Compatible: the selection is real (not branching), but spatially bounded. Outcom
 ### Occam's Razor Has Limits
 The brain specialness boundary doesn't violate parsimony—it's what the mechanism predicts. Universal PK would be less parsimonious without additional justification.
 
+## The Illusionist Challenge
+
+If phenomenal consciousness is an [introspective illusion](/concepts/illusionism/), does the interface locality question dissolve? If there's no genuine phenomenal subject, nothing needs explaining about where it can and cannot act.
+
+The site's response: the illusion problem reintroduces the very issues it claims to dissolve. Even on illusionist accounts, *something* generates the illusion of consciousness. That something—whatever neural process creates the appearance of phenomenal states—must still be neurally implemented. The question then becomes: why does this illusion-generating process operate only within one brain?
+
+The illusionist cannot simply wave away the locality question. If the brain generates powerful representations of phenomenal states, why are these representations brain-bound? The answer maps onto the same constraints: the representational machinery is neurally realized, the attention mechanisms that process these representations are neurally implemented, and the feedback loops that sustain the illusion operate within neural systems.
+
+Interface locality holds whether consciousness is real or illusory. The causal processes are brain-local either way. Frankish's "illusion problem" faces its own locality constraint—the illusion happens *here*, in this brain, not everywhere. See [introspection](/concepts/introspection/) for the regress argument against illusionism.
+
+## The Decoherence Challenge
+
+A prior objection: does quantum selection in the brain even occur? Tegmark's (2000) calculations suggested neural quantum coherence decays in ~10⁻¹³ seconds—far too fast for any selection process.
+
+Recent developments complicate this picture:
+
+1. **Revised calculations**: Hameroff's response showed Tegmark assumed incorrect parameters. Corrected models yield coherence times of 10⁻⁵ to 10⁻⁴ seconds—sufficient for attention-timescale selection.
+
+2. **2024 experimental evidence**: The epothilone B study found microtubule-stabilizing drugs significantly delayed anaesthesia onset, directly testing Orch OR predictions about microtubule-consciousness relationships.
+
+3. **Alternative mechanisms**: Fisher's Posner molecule hypothesis proposes nuclear spin coherence lasting ~10⁵ seconds, bypassing thermal decoherence entirely.
+
+4. **The quantum Zeno sidestep**: [Attention-based selection](/concepts/attention-as-interface/) may not require long coherence times. Rapid repeated observation (attention) could hold states against decoherence rather than requiring pre-existing coherence to persist.
+
+The decoherence objection assumes consciousness needs long-lived superpositions. The quantum Zeno mechanism suggests consciousness actively *creates* the conditions for selection through observation density. The brain's attention mechanisms provide the infrastructure for such observation.
+
+See [decoherence](/concepts/decoherence/) for comprehensive treatment of the decoherence debate and recent quantum biology findings.
+
+## Process Philosophy Perspective
+
+Alfred North Whitehead's process philosophy illuminates why interface locality must hold. On Whitehead's view, consciousness consists of "actual occasions"—momentary experiential events that inherit from predecessors and contribute to successors. Each occasion is both subject (experiencing) and superject (contributing to what follows).
+
+This framework makes interface locality natural rather than puzzling. An actual occasion can only prehend (take in) what is causally available to it—what prior occasions have contributed. A moment of consciousness in *this* brain inherits from prior neural occasions in *this* brain, not from distant quantum events with no causal pathway to it.
+
+The developmental constraint becomes particularly clear: the pattern of inheritance that constitutes a mind is built through development. Each conscious occasion arises from a specific lineage of prior occasions—a lineage that is spatially located in neural tissue. "Remote influence" would require prehending occasions with which there is no inheritance relationship, which is incoherent on process terms.
+
+Whitehead's actual occasions are inherently local: each occasion has a definite spatiotemporal location and inherits from spatiotemporally adjacent predecessors. Consciousness cannot act at a distance because experience itself is constituted by local inheritance.
+
+## What Would Challenge This View?
+
+Interface locality could be falsified by:
+
+1. **Robust external PK effects**: Reliably replicable influence on external random number generators, with effect sizes comparable to internal motor effects, would demand mechanism extension.
+
+2. **Demonstrated remote influence**: If consciousness could verifiably affect quantum outcomes at distances beyond neural reach, the brain-specialness boundary would need revision.
+
+3. **Attention-independent selection**: If consciousness could demonstrably select outcomes in neural systems outside attention's scope, the attention-mechanism constraint would fail.
+
+4. **Cross-brain effects**: If one consciousness could demonstrably influence another brain's quantum states without physical intermediary, the developmental-integration constraint would need rethinking.
+
+5. **Meditator external effects**: If advanced meditators showed robust ability to influence external systems beyond chance, this would challenge the embodiment constraint.
+
+Current evidence does not support any of these. PEAR lab's extensive research found effect sizes indistinguishable from noise. The boundary remains empirically supported.
+
 ## Objections and Responses
 
 **"This seems conveniently designed to avoid testability."**
 
-The boundary follows from the mechanism's structure, not from a desire to avoid tests. If attention implements quantum observation, and attention is neurally realized, then selection is neurally bounded. The restriction is a prediction, not an excuse.
+The boundary follows from the mechanism's structure, not from a desire to avoid tests. If attention implements quantum observation, and attention is neurally realized, then selection is neurally bounded. The restriction is a prediction, not an excuse. The falsifiability conditions above specify what would challenge the view.
 
 **"Quantum non-locality suggests consciousness might not be spatially constrained."**
 
@@ -173,5 +232,18 @@ This article addresses why consciousness *doesn't* act externally. The complemen
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) - The proposed mechanism for selection
 - [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) - Constraints on the coupling between mind and brain
 - [attention](/concepts/attention/) - How attention implements quantum observation
+- [attention-as-interface](/concepts/attention-as-interface/) - Why attention specifically serves as the interface
+- [voluntary-attention](/concepts/voluntary-attention/) - Willed attention as the site of conscious control
 - [pairing-problem](/concepts/pairing-problem/) - Why this mind pairs with this body
 - [quantum-consciousness](/concepts/quantum-consciousness/) - The broader framework for mind-matter interaction
+- [decoherence](/concepts/decoherence/) - The decoherence objection and quantum biology responses
+- [illusionism](/concepts/illusionism/) - The illusionist challenge and why it doesn't dissolve the locality question
+
+## References
+
+- Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+- Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
+- Jahn, R. G., & Dunne, B. J. (2005). The PEAR proposition. *Journal of Scientific Exploration*, 19(2), 195-245.
+- Fisher, M. P. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
+- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

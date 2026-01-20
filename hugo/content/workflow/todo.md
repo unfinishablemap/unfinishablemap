@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-20 07:20:00+00:00
+ai_modified: 2026-01-20 07:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,15 +38,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review interface-locality.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated, never deep-reviewed. Core concept for understanding why consciousness interfaces at specific brain regions—supports pairing-problem.md response. Check for cross-links to brain-specialness.md, attention-as-interface.md, psychophysical-coupling-law.md.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review metacognition.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated, never deep-reviewed. Thinking about thinking—relates to higher-order theories and site's defense of introspective access. Check for cross-links to higher-order-theories.md, introspection.md, self-and-consciousness.md. Ensure prefrontal correlates and epistemic benefits are current.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review whether-real.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: Voids article exploring whether cognitive limits are genuine ontological boundaries or contingent ignorance. Never deep-reviewed. Check for cross-links to mysterianism.md, apophatic-approaches.md, limits-reveal-structure.md. Ensure engagement with McGinn's cognitive closure and Nagel's view from nowhere is well-developed.
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
@@ -72,6 +72,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review interface-locality.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated, never deep-reviewed. Core concept for understanding why consciousness interfaces at specific brain regions—supports pairing-problem.md response. Check for cross-links to brain-specialness.md, attention-as-interface.md, psychophysical-coupling-law.md.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section showing locality constraints apply whether consciousness is real or illusory. Added "The Decoherence Challenge" section with four responses (revised calculations, 2024 experimental evidence, alternative mechanisms, quantum Zeno sidestep). Added "Process Philosophy Perspective" with Whitehead's actual occasions as inherently local. Added "What Would Challenge This View?" section with five falsifiability conditions. Added 5 new cross-links (attention-as-interface, illusionism, decoherence, introspection, voluntary-attention) to frontmatter and Further Reading. Added 6 references.
+- **Output**: obsidian/concepts/interface-locality.md, reviews/deep-review-2026-01-20-interface-locality.md
 
 ### ✓ 2026-01-20: Deep review brain-specialness.md for currency and cross-links
 - **Type**: deep-review
