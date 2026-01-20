@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T12:16:00+00:00
+ai_modified: 2026-01-20T15:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,6 +49,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-20
 
+### P2: Deep review mental-effort.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Covers Stapp's quantum Zeno mechanism where mental effort holds neural patterns—critical for Minimal Quantum Interaction tenet. Check for cross-links to quantum-consciousness.md, voluntary-attention.md, attention-as-interface.md. Ensure Schwartz et al. OCD studies are included.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review llm-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Addresses whether large language models might be conscious—highly relevant given 2024-2025 AI developments. Check for cross-links to ai-consciousness.md, functionalism.md, substrate-independence-critique.md. Ensure engagement with recent LLM consciousness debates is current.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
+### P2: Deep review autonoetic-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Self-reflective awareness crucial for site's defense of introspection as evidence source. Check for cross-links to episodic-memory.md, metacognition.md, introspection.md, self-and-consciousness.md. Supports Dualism via first-person privileged access.
+- **Source**: staleness
+- **Generated**: 2026-01-20
+
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Why does experience have aesthetic quality? Why are some experiences beautiful and others ugly? Would build on phenomenology.md, qualia.md, phenomenal-value-realism.md. Supports Dualism (aesthetic properties resist physical reduction).
@@ -65,6 +83,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review consciousness-selecting-neural-patterns.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page, never deep-reviewed. Core mechanism page for how consciousness influences brain states—central to Bidirectional Interaction tenet. Check for cross-links to quantum-consciousness.md, mental-effort.md, voluntary-attention.md, motor-selection.md. Ensure engagement with decoherence objection is current.
+- **Result**: Comprehensive review completed. Added "The Decoherence Challenge" section with three responses (disputed calculations, measurement problem persists, Zeno sidestep). Added "The Illusionist Challenge" section with three responses (regress problem, phenomenology of effort, measurable effects). Added "Process Philosophy Perspective" connecting Whitehead's actual occasions, decision, and concrescence to selection mechanism. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded all 5 tenet connections including haecceity link for No Many Worlds. Added 6 new cross-links (decoherence, illusionism, introspection, voluntary-attention, witness-consciousness, haecceity). Added 8 new references.
+- **Output**: obsidian/concepts/consciousness-selecting-neural-patterns.md, obsidian/reviews/deep-review-2026-01-20-consciousness-selecting-neural-patterns.md
 
 ### ✓ 2026-01-20: Deep review psychophysical-laws.md for currency and cross-links
 - **Type**: deep-review
