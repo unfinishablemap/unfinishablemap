@@ -3,7 +3,7 @@ title: "Downward Causation"
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-19T14:20:00+00:00
+ai_modified: 2026-01-20T01:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,12 @@ concepts:
   - "[[epiphenomenalism]]"
   - "[[quantum-consciousness]]"
   - "[[agent-causation]]"
+  - "[[many-worlds]]"
+  - "[[illusionism]]"
+  - "[[attention-as-interface]]"
+  - "[[luck-objection]]"
+  - "[[pairing-problem]]"
+  - "[[decoherence]]"
 related_articles:
   - "[[tenets]]"
   - "[[downward-causation-mental-causation-2026-01-15]]"
@@ -25,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-20T01:00:00+00:00
 ---
 
 Downward causation is the thesis that higher-level properties can causally influence lower-level processes. When your decision to speak causes neurons to fire, this is downward causation—mental properties affecting physical events. This concept is central to defending the site's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet against Jaegwon Kim's exclusion argument. Kim contends that physical causes "screen off" higher-level causes, draining all causal efficacy to fundamental physics. This site's quantum framework provides a response: consciousness causally influences physical outcomes at points where physics is genuinely incomplete.
@@ -150,6 +156,26 @@ Key features:
 
 **Answers Kim**: The exclusion argument fails at quantum indeterminacies because its key premise—causal closure—fails there. Physics is genuinely incomplete at measurement.
 
+### The Decoherence Challenge
+
+The main physics-based objection: warm neural tissue decoheres quantum superpositions in ~10^-13 seconds (Tegmark 2000), far too fast for consciousness to exploit. But this objection is more nuanced than often presented.
+
+First, recent calculations incorporating biological protective mechanisms (Fröhlich coherence, hydrophobic interiors, nuclear spin isolation) extend coherence estimates by many orders of magnitude. Hameroff's group found seven orders of magnitude longer than Tegmark's estimate. Second, [[decoherence]] doesn't eliminate quantum indeterminacy—it explains why interference effects wash out, but outcomes still require determination. As a 2025 review notes: "the problem of outcomes is still open."
+
+Third, the quantum Zeno mechanism may sidestep decoherence entirely. If consciousness operates through rapid repeated observation events rather than maintained superposition, decoherence times may not matter—the observations happen faster than decoherence can act.
+
+The decoherence objection is a serious empirical challenge, not a philosophical refutation. The quantum opening for downward causation remains open.
+
+### Why Not Many Worlds?
+
+If the [[many-worlds|many-worlds interpretation]] is correct, all quantum outcomes occur in branching universes. There's no "selection" for consciousness to perform—every possibility actualises somewhere.
+
+This matters critically for downward causation. The mechanism proposed here requires that consciousness *selects* among quantum possibilities. On MWI, consciousness would be epiphenomenal with respect to quantum events: it couldn't affect which outcomes occur because all outcomes occur.
+
+The site's [[tenets#^no-many-worlds|No Many Worlds]] tenet isn't incidental to the framework—it's required for downward causation to be possible. If MWI were confirmed (though how this could occur is unclear), the quantum mechanism for downward causation would fail.
+
+This creates a falsifiability condition: the site's position stands or falls with single-world interpretations of quantum mechanics.
+
 ### How This Differs from Classical Emergentism
 
 British emergentists affirmed downward causation but couldn't explain it. They accepted it with "natural piety"—brute facts about what higher-level properties do, without explaining how. This left them vulnerable to exclusion arguments.
@@ -177,6 +203,40 @@ Kim's exclusion argument targets strong downward causation specifically. Weak do
 
 This site defends *strong* downward causation. The Dualism tenet holds that consciousness is irreducible; the Bidirectional Interaction tenet holds it has genuine causal powers. This requires denying causal closure—which the Minimal Quantum Interaction tenet specifies where and how.
 
+## Process Philosophy Alternative
+
+Alfred North Whitehead's process philosophy offers a complementary framework for understanding downward causation. His "actual occasions"—momentary experiential events—exercise what Whitehead called "self-determination" in constituting themselves from their causal inheritance.
+
+On this view, causation is inherently experiential: each moment of experience contributes something new through creative synthesis. The apparent opposition between physical and mental causation dissolves because *all* causation involves experiential self-determination at some level.
+
+This reframes downward causation as continuous with causation generally rather than metaphysically exceptional. If all causation involves experiential self-determination, human mental causation exemplifies what causation fundamentally is. The exclusion argument's assumption that causation is purely event-event regularities would be mistaken from the start.
+
+Process philosophy resonates with aspects of panpsychism but avoids the full [[combination-problem|combination problem]] by treating higher-level experiences as *novel* actual occasions rather than mere aggregates of micro-experiences. The organisation doesn't combine pre-existing experiences but creates conditions for new experiential events to occur.
+
+## The Illusionist Challenge
+
+[[Illusionism]] poses a radical challenge to downward causation. If phenomenal consciousness is an illusion—if there are no genuine qualia, only representations *as if* there were—then there's nothing non-physical to exercise downward causation in the first place.
+
+Dennett and Frankish argue that our reports about consciousness can be produced by sophisticated neural information processing without phenomenal causation. The brain models itself, generating "accurate" reports about experience without any non-physical properties doing causal work.
+
+But illusionism faces a regress problem. If the appearance of phenomenal consciousness is itself an illusion, something must be experiencing that illusion. To be under an illusion that consciousness exists requires there to be *something it is like* to have that mistaken representation. Raymond Tallis puts it sharply: "Misrepresentation presupposes presentation." All illusions presuppose experience.
+
+The illusionist trades the hard problem for an equally hard "illusion problem"—and the illusion problem seems to require downward causation just as much as the original. Whatever produces our "illusion" of phenomenal consciousness must influence our verbal reports and philosophical discussions. If that production is purely physical, the reports should be about neural states, not phenomenal properties. If something non-physical shapes the content of our reports, that's downward causation.
+
+## What Would Challenge This View?
+
+Downward causation, as defended here, is falsifiable. Findings that would undermine the framework:
+
+**Complete neural determinism**: If all neural events could be predicted from prior physical states with 100% accuracy, leaving no quantum gap for consciousness to fill, the site's mechanism would fail. Current predictive accuracy (~60% for simple choices) leaves substantial room, but dramatic advances in neural prediction would challenge the view.
+
+**Elimination of neural quantum effects**: If quantum coherence were proven physically impossible in brain tissue—not just challenging but excluded by physics—the proposed interface mechanism fails. Current evidence from quantum biology (avian magnetoreception, enzyme catalysis, photosynthesis) suggests biological quantum effects are more robust than expected, but definitive evidence against neural quantum effects would be significant.
+
+**Confirmation of Many-Worlds**: If the [[many-worlds|many-worlds interpretation]] were empirically confirmed (though how this could occur is unclear), there would be no collapse for consciousness to influence—all outcomes occur in branching universes. This would eliminate the quantum opening entirely.
+
+**Successful illusionist explanation**: If a fully satisfying account emerged explaining why we *seem* to have phenomenal experiences without any phenomenal properties existing—one that doesn't invoke seeming to something—this would dissolve the motivation for downward causation. Current illusionist proposals face the regress problem, but a proposal that genuinely avoided it would challenge the site's position.
+
+**Violations of Born rule probabilities**: If quantum experiments showed no deviations from standard probabilistic predictions even under conditions where consciousness should bias outcomes, this would constrain the mechanism's strength. Current experimental precision may be insufficient to detect the effects, but persistent null results would accumulate as evidence against the view.
+
 ## Relation to This Site's Perspective
 
 Downward causation is central to the site's framework.
@@ -185,9 +245,11 @@ Downward causation is central to the site's framework.
 
 **The Quantum Mechanism**: The Minimal Quantum Interaction tenet specifies how downward causation works: consciousness biases quantum outcomes where physics is incomplete. This provides what classical defences of downward causation lacked—a mechanism that respects conservation laws while allowing genuine higher-level influence.
 
-**Against Epiphenomenalism**: If downward causation fails, consciousness causes nothing—we'd have [[epiphenomenalism]]. But epiphenomenalism is self-undermining (if consciousness causes nothing, our reports about consciousness aren't caused by consciousness). Downward causation must occur.
+**Against Epiphenomenalism**: If downward causation fails, consciousness causes nothing—we'd have [[epiphenomenalism]]. But epiphenomenalism is self-undermining: if consciousness causes nothing, our reports about consciousness aren't caused by consciousness, our beliefs about experience are causally disconnected from actual experiences, and our reasoning about mental causation isn't influenced by mental evidence. Downward causation must occur or we lose epistemic access to our own minds.
 
 **Strong Emergence**: The site's position is strong [[emergence|emergentism]] with a mechanism. Consciousness emerges from neural organisation but possesses genuinely novel causal powers. The quantum framework specifies how those powers operate without violating physical law.
+
+**The Interface Mechanism**: [[Attention-as-interface|Attention]] implements downward causation in practice. When you direct attention to sustain a thought or maintain a perceptual focus, you're exercising mental causation through the quantum Zeno effect. The phenomenology of [[mental-effort|mental effort]]—the felt sense that attention requires work—reflects genuine downward causation at the neural level.
 
 Kim's exclusion argument remains the primary challenge. But its key premise—causal closure—fails at quantum indeterminacies. Physics provides probabilities but not outcomes. Consciousness fills this genuine gap, exercising downward causation precisely where physics runs out.
 
@@ -200,14 +262,25 @@ Kim's exclusion argument remains the primary challenge. But its key premise—ca
 - [[epiphenomenalism]] — The view denying downward causation
 - [[quantum-consciousness]] — The mechanism for consciousness-brain interaction
 - [[agent-causation]] — The metaphysical framework for substance causation
+- [[many-worlds]] — Why the site rejects MWI (and why it matters for downward causation)
+- [[illusionism]] — The radical challenge that denies phenomenal consciousness exists
+- [[decoherence]] — The physics challenge and why it doesn't close the quantum opening
+- [[attention-as-interface]] — How attention implements downward causation
+- [[luck-objection]] — The parallel challenge to agent causation
+- [[pairing-problem]] — What connects this mind to this body
+- [[combination-problem]] — Panpsychism's parallel challenge to emergence
 - [[tenets]] — The site's foundational commitments
 
 ## References
 
 - Campbell, D. T. (1974). "'Downward causation' in hierarchically organised biological systems." In F. J. Ayala & T. Dobzhansky (Eds.), *Studies in the Philosophy of Biology*. Macmillan.
+- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 - Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 - O'Connor, T. & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 - Woodward, J. (2003). *Making Things Happen*. Oxford University Press.
 - Yablo, S. (1992). Mental Causation. *Philosophical Review*, 101: 245-280.
