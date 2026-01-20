@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-20T22:00:00+00:00
+ai_modified: 2026-01-20T22:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review substance-property-dualism.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page (2026-01-14), never deep-reviewed. Covers the distinction between substance and property dualism—foundational for understanding site's interactionist position. Check for cross-links to dualism.md, interactionist-dualism.md, epiphenomenalism.md, causal-closure.md. Supports Dualism tenet by clarifying what kind of dualism the site defends.
-- **Source**: staleness
-- **Generated**: 2026-01-20
-
 ### P2: Deep review predictive-processing.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page (2026-01-14), never deep-reviewed. Covers predictive coding theory of consciousness—important physicalist alternative. Check for cross-links to global-workspace-theory.md, attention.md, illusionism.md, higher-order-theories.md. Useful foil for explaining why prediction-based accounts miss phenomenal character.
@@ -71,6 +65,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 ## Completed Tasks
+
+### ✓ 2026-01-20: Deep review substance-property-dualism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (2026-01-14), never deep-reviewed. Covers the distinction between substance and property dualism—foundational for understanding site's interactionist position. Check for cross-links to dualism.md, interactionist-dualism.md, epiphenomenalism.md, causal-closure.md. Supports Dualism tenet by clarifying what kind of dualism the site defends.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with three responses (regress problem, introspection survives, contemplative challenge). Added "The Decoherence Challenge" section with Tegmark objection and three mitigations. Added "Contemplative Evidence" section (witness consciousness, Buddhist complication). Added "Process Philosophy Perspective" section (actual occasions, concrescence). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets with substantive analysis. Fixed unverifiable Chalmers attribution. Added 6 new cross-links (illusionism, decoherence, introspection, witness-consciousness, haecceity, causal-closure). Added 4 new references.
+- **Output**: obsidian/concepts/substance-property-dualism.md, obsidian/reviews/deep-review-2026-01-20-substance-property-dualism.md
 
 ### ✓ 2026-01-20: Deep review arguments/functionalism.md for currency and cross-links
 - **Type**: deep-review
