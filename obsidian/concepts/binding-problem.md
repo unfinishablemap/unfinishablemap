@@ -3,7 +3,7 @@ title: "The Binding Problem"
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T16:00:00+00:00
+ai_modified: 2026-01-21T04:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ related_articles:
   - "[[tenets]]"
   - "[[binding-problem-consciousness-2026-01-14]]"
   - "[[neural-binding-quantum-entanglement-2026-01-19]]"
+  - "[[quantum-binding-and-phenomenal-unity]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -214,7 +215,7 @@ This aligns with Nagel's analysis of split-brain cases: the question "how many u
 
 ## The Quantum Alternative
 
-Here classical approaches reach their limit. All propose mechanisms where separate processes *interact* or *correlate*—but interaction between distinct entities doesn't make them *one* entity. Classical physics cannot produce objective wholes; large-scale phenomena reduce to local interactions.
+Here classical approaches reach their limit. All propose mechanisms where separate processes *interact* or *correlate*—but interaction between distinct entities doesn't make them *one* entity. Classical physics cannot produce objective wholes; large-scale phenomena reduce to local interactions. For a detailed treatment of this argument, see [[quantum-binding-and-phenomenal-unity]].
 
 Quantum mechanics offers something different: **entanglement provides mandatory and irreducible holism.**
 
@@ -299,6 +300,7 @@ The binding problem illuminates why the Map's [[tenets]] take the positions they
 - [[filter-theory]] — The transmission model that sleep evidence supports
 - [[binding-problem-consciousness-2026-01-14]] — Detailed research notes
 - [[neural-binding-quantum-entanglement-2026-01-19]] — Recent experimental evidence research
+- [[quantum-binding-and-phenomenal-unity]] — Focused argument that entanglement explains unity
 
 ## References
 
