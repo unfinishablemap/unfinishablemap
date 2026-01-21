@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review concepts/specious-present.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Covers the phenomenology of temporal experience—James's specious present and duration of "now." Check for cross-links to temporal-consciousness.md, duration.md, philosophy-of-time.md, collapse-and-time.md. Supports Dualism via irreducibility of lived temporality.
-- **Source**: staleness
-- **Generated**: 2026-01-21
-
 ### P2: Deep review concepts/voluntary-attention.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Covers the capacity to direct attention through internal decision—foundational to attention-as-interface hypothesis supporting Bidirectional Interaction tenet. Check for cross-links to mental-causation.md, agent-causation.md, motor-selection.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review concepts/specious-present.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Covers the phenomenology of temporal experience—James's specious present and duration of "now." Check for cross-links to temporal-consciousness.md, duration.md, philosophy-of-time.md, collapse-and-time.md. Supports Dualism via irreducibility of lived temporality.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with regress response, contemplative challenge, and asymmetry of error arguments. Added "Process Philosophy Perspective" section covering actual occasions, prehension/retention parallels, concrescence/collapse connection, and haecceity. Added "The Decoherence Challenge" subsection with three mitigating considerations. Added "Contemplative Evidence" section with khanika, witness consciousness, and cessation states. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets with substantive analysis. Added 5 new cross-links (illusionism, witness-consciousness, introspection, haecceity, decoherence). Added 5 new references.
+- **Output**: obsidian/concepts/specious-present.md, obsidian/reviews/deep-review-2026-01-21-specious-present.md
 
 ### ✓ 2026-01-21: Deep review arguments/epiphenomenalism.md for currency and cross-links
 - **Type**: deep-review
