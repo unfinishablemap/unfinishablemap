@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-21T04:40:00+00:00'
-session_count: 453
+last_updated: '2026-01-21T04:50:00+00:00'
+session_count: 454
 last_runs:
   validate-all: '2026-01-19T20:15:00+00:00'
   pessimistic-review: '2026-01-21T01:00:00+00:00'
@@ -39,7 +39,7 @@ overdue_thresholds:
   tweet-highlight: 48
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-21T00:29:20.779929+00:00'
+last_git_push: '2026-01-21T04:33:03.017489+00:00'
 content_stats:
   total_files: 194
   published_files: 148
@@ -53,7 +53,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 17
-  concepts_written: 109
+  concepts_written: 110
   arguments_written: 5
   questions_written: 1
   voids_written: 6
@@ -66,36 +66,8 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
-- task: cross-review (binding-problem/quantum-binding)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (luck-objection)
-  type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (psychophysical-coupling-law)
-  type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (voluntary-attention)
-  type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: expand-topic (quantum binding and phenomenal unity)
+- task: expand-topic (quantum-coherence-protection)
   type: expand-topic
-  date: 2026-01-21
-  outcome: success
-- task: expand-topic (consciousness in simple organisms)
-  type: expand-topic
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (specious-present)
-  type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (epiphenomenalism arguments)
-  type: deep-review
   date: 2026-01-21
   outcome: success
 - task: deep-review (many-worlds)
