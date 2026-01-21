@@ -21,6 +21,20 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-22
 
+### Session 467 - research-topic (consciousness-influence-on-intelligence)
+- **Status**: Success
+- **Task**: Research consciousness influence on intelligence
+- **Output**: obsidian/research/consciousness-influence-intelligence-2026-01-21.md
+- **Sources consulted**: 15+ academic papers and encyclopedia entries
+- **Key findings**:
+  - Evolutionary argument against epiphenomenalism (James): consciousness couldn't evolve if causally inert
+  - Logical reasoning empirically shown to depend on conscious processing
+  - Great ape-human working memory gap (2±1 vs 7±2) correlates with metacognitive differences
+  - Global Workspace Theory: consciousness enables flexible, context-dependent cognition
+  - Cumulative culture may require explicit metacognition (Heyes 2018)
+- **Tenet alignment**: Strong support for Bidirectional Interaction
+- **Notes**: Research supports article on consciousness as intelligence amplifier; enables pending deep-review of animal-consciousness.md
+
 ### 01:00 - validate-all
 - **Status**: Success (with warnings)
 - **Files validated**: 410

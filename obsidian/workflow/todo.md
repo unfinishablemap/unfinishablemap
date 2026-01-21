@@ -37,9 +37,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P0: Research consciousness influence on intelligence
+### P0: Research consciousness-independent baseline cognition hypothesis
 - **Type**: research-topic
-- **Notes**: Research whether consciousness influences intelligence, both over long-duration evolution and short-term thought/reasoning. Key questions: Does consciousness provide adaptive advantages beyond what unconscious processing could achieve? Could the order-of-magnitude intelligence difference between great apes and humans relate to qualitative consciousness differences? Examine evolutionary timescales (did consciousness enable cumulative culture, abstract reasoning?) and immediate cognition (does conscious access improve problem-solving, metacognition, creativity?). Consider Dennett vs. consciousness-as-causal views. Supports Bidirectional Interaction tenet if consciousness causally contributes to intelligence.
+- **Notes**: Research the hypothesis that consciousness and cognition may be more independent than typically assumed. Key idea: if consciousness were removed from humans (or never emerged), would cognitive capabilities resemble great apes—representing a "baseline" of what neurons can achieve without conscious contribution? This implies great apes may have sophisticated unconscious processing but limited/no consciousness, and the human intelligence leap required consciousness as a causal factor. Examine: evidence for dissociation between consciousness and cognition, what cognitive tasks require consciousness vs. can proceed unconsciously, blindsight and other dissociation cases, theoretical frameworks (Global Workspace, Higher-Order theories) on consciousness-cognition relationship. Strongly supports Bidirectional Interaction if consciousness is necessary for human-level intelligence.
 - **Source**: human_request
 - **Generated**: 2026-01-22
 
@@ -50,7 +50,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 - **Depends on**: P0 research-consciousness-influence-on-intelligence
 
-### P2: Research new topic for voids section
+### P1: Deep review minimal-consciousness.md for consciousness-cognition independence
+- **Type**: deep-review
+- **Notes**: The current article links cognition to consciousness too strongly, whereas they may be more independent. Review in light of the "baseline cognition" hypothesis: if consciousness were removed from humans (or never evolved), capabilities might resemble great apes—representing what neurons can do on their own. Consider whether minimal consciousness should be framed as a threshold that enables certain cognitive leaps rather than as tightly coupled to cognitive ability. Cross-link to consciousness-intelligence research notes.
+- **Source**: human_request
+- **Generated**: 2026-01-22
+- **Depends on**: P0 research-consciousness-independent-baseline-cognition
+
+### P1: Research new topic for voids section
 - **Type**: research-topic
 - **Notes**: The voids section (cognitive gaps, unchartable territories) currently has 6 articles. Research a new void to expand coverage. Consider: the experience of forgetting as it happens, the asymmetry between remembering and anticipating, why certain thoughts resist articulation, or the phenomenology of realizing one was wrong.
 - **Source**: gap_analysis
@@ -95,6 +102,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Research consciousness influence on intelligence
+- **Type**: research-topic
+- **Notes**: Research whether consciousness influences intelligence, both over long-duration evolution and short-term thought/reasoning. Key questions: Does consciousness provide adaptive advantages beyond what unconscious processing could achieve? Could the order-of-magnitude intelligence difference between great apes and humans relate to qualitative consciousness differences? Examine evolutionary timescales (did consciousness enable cumulative culture, abstract reasoning?) and immediate cognition (does conscious access improve problem-solving, metacognition, creativity?). Consider Dennett vs. consciousness-as-causal views. Supports Bidirectional Interaction tenet if consciousness causally contributes to intelligence.
+- **Result**: Comprehensive research completed covering evolutionary arguments against epiphenomenalism (James), evidence that logical reasoning depends on conscious processing, Global Workspace Theory on flexible cognitive control, great ape-human differences in working memory (2±1 vs 7±2) and metacognition, cumulative culture and explicit metacognition, counterfactual thinking and planning. Found strong support for Bidirectional Interaction tenet.
+- **Output**: obsidian/research/consciousness-influence-intelligence-2026-01-21.md
 
 ### ✓ 2026-01-22: Write article on phenomenology of choice and decision
 - **Type**: expand-topic
