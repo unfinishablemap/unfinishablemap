@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 10:35:00+00:00
+ai_modified: 2026-01-21 11:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Write article on consciousness as intelligence amplifier
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). Research completed in research/consciousness-influence-intelligence-2026-01-21.md and research/consciousness-independent-baseline-cognition-2026-01-21.md. How consciousness amplifies cognitive capacities—the mechanisms by which phenomenal access expands what neural systems can achieve. Frame consciousness as enabling flexible deployment, metacognitive monitoring, and counterfactual planning. Connect working memory expansion to phenomenal access expansion. Builds on working-memory.md, metacognition.md, animal-consciousness.md. Supports Bidirectional Interaction and Dualism.
+- **Source**: chain (from consciousness-intelligence research)
+- **Generated**: 2026-01-21
+
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Why does experience have aesthetic quality? Why are some experiences beautiful and others ugly? Would build on phenomenology.md, qualia.md, phenomenal-value-realism.md. Supports Dualism (aesthetic properties resist physical reduction).
@@ -54,12 +60,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### P3: Write article on consciousness and mathematical understanding
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-21. Penrose's arguments about non-algorithmic mathematical insight. What is the phenomenology of mathematical understanding? Does mathematical insight provide evidence for non-computability of consciousness? Builds on cognitive-phenomenology.md, mysterianism.md. Supports Dualism.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-21
-
-### P3: Write article on consciousness as intelligence amplifier
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). How consciousness amplifies cognitive capacities—the mechanisms by which phenomenal access expands what neural systems can achieve. Frame consciousness as enabling flexible deployment, metacognitive monitoring, and counterfactual planning. Connect working memory expansion to phenomenal access expansion. Builds on working-memory.md, metacognition.md, animal-consciousness.md. Supports Bidirectional Interaction and Dualism.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-21
 
@@ -88,6 +88,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Write concept page for epistemic emotions
+- **Type**: expand-topic
+- **Notes**: Referenced in voids/phenomenology-of-error-recognition.md but no corresponding article exists. Epistemic emotions (curiosity, doubt, certainty, confusion, the feeling of knowing) are central to understanding how consciousness evaluates its own cognitive states. Builds on metacognition.md, cognitive-phenomenology.md, introspection.md. Supports Dualism (epistemic phenomenology resists functional reduction) and Bidirectional Interaction (epistemic feelings guide cognitive processes).
+- **Result**: Article written (~3200 words) covering core epistemic emotions (curiosity, doubt, certainty/feeling of knowing, confusion, surprise, insight), relationship to metacognition, contemplative perspectives, process philosophy framework, and comprehensive tenet coverage. Added cross-links to metacognition, cognitive-phenomenology, introspection, phenomenology-of-error-recognition, phenomenology-of-choice, illusionism, working-memory, attention.
+- **Output**: obsidian/concepts/epistemic-emotions.md
 
 ### ✓ 2026-01-21: Cross-review introspection.md considering error-recognition insights
 - **Type**: cross-review
