@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 15:55:00+00:00
+ai_modified: 2026-01-21 15:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -64,12 +64,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Cross-review metacognition.md considering metarepresentation insights
-- **Type**: cross-review
-- **Notes**: New article concepts/metarepresentation.md (2026-01-21) distinguishes metacognition from metarepresentation—knowing-that-you-know requires representing representations *as* representations. May strengthen concepts/metacognition.md with this three-level analysis and the Jourdain Hypothesis (apes may have metacognition without metarepresentation). Check for cross-links and conceptual refinement.
-- **Source**: chain (from metarepresentation.md)
-- **Generated**: 2026-01-21
-
 ### P2: Cross-review minimal-consciousness.md considering metarepresentation insights
 - **Type**: cross-review
 - **Notes**: New article concepts/metarepresentation.md (2026-01-21) argues metarepresentation may require phenomenal consciousness. May strengthen concepts/minimal-consciousness.md by clarifying the minimal/metarepresentational distinction—even minimal consciousness may differ from metarepresentational consciousness. Check for cross-links and whether the consciousness-as-amplifier thesis applies to this distinction.
@@ -83,6 +77,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review metacognition.md considering metarepresentation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/metarepresentation.md (2026-01-21) distinguishes metacognition from metarepresentation—knowing-that-you-know requires representing representations *as* representations. May strengthen concepts/metacognition.md with this three-level analysis and the Jourdain Hypothesis (apes may have metacognition without metarepresentation). Check for cross-links and conceptual refinement.
+- **Result**: Added new "Metacognition vs. Metarepresentation: A Critical Distinction" section (~400 words) covering the three-level analysis (first-order representation, second-order representation, metarepresentation proper) and the Jourdain Hypothesis (apes have culture but may not know they have culture). Clarified how animals may have metacognition without metarepresentation. Added metarepresentation to concepts frontmatter and top of Further Reading. Added Whiten (2015) reference.
+- **Output**: obsidian/concepts/metacognition.md
 
 ### ✓ 2026-01-21: Cross-review mental-effort.md considering phenomenology-of-choice insights
 - **Type**: cross-review

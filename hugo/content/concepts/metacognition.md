@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-21 10:10:00+00:00
+ai_modified: 2026-01-21 15:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[witness-consciousness]]'
 - '[[phenomenology-of-error-recognition]]'
+- '[[metarepresentation]]'
 created: 2026-01-18
 date: &id001 2026-01-18
 draft: false
@@ -169,6 +170,28 @@ Templer and Hampton (2021) review the evidence: primates show robust metacogniti
 
 This matters for understanding consciousness's relationship to metacognition. If even rodents can monitor their uncertainty, metacognition is not a uniquely human or uniquely conscious capacity—it's a cognitive function that consciousness can use but doesn't constitute.
 
+## Metacognition vs. Metarepresentation: A Critical Distinction
+
+The animal evidence points toward a crucial distinction: metacognition and [metarepresentation](/concepts/metarepresentation/) are not the same capacity. Understanding this distinction clarifies what consciousness enables at different levels.
+
+### Three Levels of Self-Reference
+
+Consider three nested levels:
+
+1. **First-order representation**: Representing the world (knowing there are nuts in the tree)
+2. **Second-order representation**: Representing one's first-order representations (uncertainty monitoring, confidence judgments)
+3. **Metarepresentation proper**: Representing representations *as* representations—knowing that beliefs are beliefs, that knowledge is knowledge, that one's view of the world is a view
+
+Metacognition—as evidenced in rats, primates, and other animals—may operate at level two without reaching level three. Animals can monitor their uncertainty and adjust behaviour strategically. But this monitoring might be procedural: functional states that guide behaviour without explicit representation of themselves as mental states.
+
+### The Jourdain Hypothesis
+
+Andrew Whiten (2015) articulates what might be called the Jourdain Hypothesis, after Molière's character who discovered he had been speaking prose all his life without knowing it. Great apes may have culture—tool-use traditions, grooming patterns, food preferences that vary between groups—but not *know* they have culture.
+
+The apes possess metacognition: they monitor uncertainty, seek information strategically, recognise themselves in mirrors. But they may lack metarepresentation: the ability to represent their practices *as practices*, their knowledge *as knowledge*, their beliefs *as beliefs*. The distinction explains why great ape cultures persist but rarely accumulate: without representing practices as modifiable representations, deliberate improvement is impossible.
+
+This dissociation—metacognition without metarepresentation—reinforces the Map's framework. Metacognition is a cognitive capacity widespread in the animal kingdom. Metarepresentation may require the expanded phenomenal workspace that distinguishes human consciousness, particularly the [working memory](/concepts/working-memory/) capacity to hold multiple representational levels simultaneously. Rats can monitor uncertainty; only humans seem to know they have minds that could be wrong.
+
 ## Relation to Site Perspective
 
 ### Dualism and the Enabling Relation
@@ -231,6 +254,7 @@ The Map's framework accommodates this: consciousness provides phenomenal content
 
 ## Further Reading
 
+- [metarepresentation](/concepts/metarepresentation/) — The critical distinction between monitoring cognition and representing representations as representations
 - [higher-order-theories](/concepts/higher-order-theories/) — The view that confuses metacognition with consciousness
 - [introspection](/concepts/introspection/) — Metacognition's role in first-person methods
 - [lucid-dreaming-and-consciousness](/topics/lucid-dreaming-and-consciousness/) — Metacognition in altered states; state-independence evidence
@@ -256,3 +280,4 @@ The Map's framework accommodates this: consciousness provides phenomenal content
 - Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
 - Templer, V.L., & Hampton, R.R. (2021). Slow progress with the most widely used animal model. *Animal Behavior and Cognition*, 6(4), 273-287.
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+- Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
