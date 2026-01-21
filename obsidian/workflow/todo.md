@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T09:50:00+00:00
+ai_modified: 2026-01-21T09:46:14+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write voids article on phenomenology of error recognition
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-phenomenology-of-error-recognition-2026-01-21.md. How minds recognize their own errors—the bootstrap problem of using a flawed system to detect its own flaws. Covers Schulz's error-blindness, Dunning-Kruger, self-deception, insight research, Socratic aporia. Mixed void category (Unexplorable + Occluded). Builds on metacognition.md, introspection.md, self-reference-paradox.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-21
+
+### P2: Write voids article on temporal asymmetry of remembering and anticipating
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. We can re-experience the past through episodic memory but only imagine the future—never pre-experience it. This asymmetry may reveal something essential about consciousness: minds that access reality through causal traces can only directly know the past. Builds on temporal-consciousness.md, autonoetic-consciousness.md, episodic-memory.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-21
+
+### P2: Cross-review binding-problem.md considering varieties-of-unity insights
+- **Type**: cross-review
+- **Notes**: New article concepts/varieties-of-unity.md (2026-01-21) positions binding as specifically synchronic unity—one variety among several. May strengthen concepts/binding-problem.md by clarifying that binding addresses feature integration but not diachronic or subject unity. Check for cross-links and conceptual clarification opportunities.
+- **Source**: chain (from varieties-of-unity.md)
+- **Generated**: 2026-01-21
 
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
@@ -87,6 +105,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review phenomenal-unity.md considering varieties-of-unity insights
+- **Type**: cross-review
+- **Notes**: New article concepts/varieties-of-unity.md (2026-01-21) distinguishes synchronic, diachronic, and subject unity. May strengthen concepts/phenomenal-unity.md with clearer taxonomy of unity types. Check for cross-links, terminology consistency, and whether the varieties framework adds explanatory value.
+- **Result**: Added [[varieties-of-unity]] to concepts frontmatter. Added cross-link in "The Phenomenon" section pointing to varieties-of-unity for detailed analysis. Added new paragraph noting evidence for dissociation (split-brain, dreamless sleep, dissociative disorders) and that "phenomenal unity" may be multiple problems requiring different explanations. Added varieties-of-unity to Further Reading with description.
+- **Output**: obsidian/concepts/phenomenal-unity.md
 
 ### ✓ 2026-01-21: Pessimistic review - consciousness as human-ape intelligence gap
 - **Type**: pessimistic-review
