@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-21T03:00:00+00:00
+ai_modified: 2026-01-21T04:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,26 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-21
+
+### 04:35 - cross-review (binding-problem.md)
+- **Status**: Success
+- **File**: obsidian/concepts/binding-problem.md
+- **Chain parent**: topics/quantum-binding-and-phenomenal-unity.md
+- **Previous review**: 2026-01-19T16:00:00+00:00
+- **Changes**: Added cross-link to quantum-binding-and-phenomenal-unity in The Quantum Alternative section, Further Reading, and related_articles frontmatter
+- **Notes**: binding-problem.md already had comprehensive quantum binding coverage—this cross-review adds direct navigation to the focused topic page
+- **Commit**: 3d2858f
+
+### 04:28 - validate-all
+- **Status**: Success (with warnings)
+- **Files validated**: 407
+- **Errors**: None
+- **Warnings**: 3
+  - `archive/_index.md`: Missing recommended fields (created, concepts)
+  - `workflow/highlights.md`: AI-authored content should specify ai_system
+- **Link check**: All links OK
+- **Orphaned content**: None detected
+- **Stale drafts**: None (0 drafts in site)
 
 ### 03:00 - deep-review (luck-objection.md)
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 01:08:00+00:00
+ai_modified: 2026-01-21 04:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,22 +38,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review concepts/luck-objection.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Covers the luck objection to libertarian free will—critical challenge that site's quantum selection mechanism must address. Check for cross-links to agent-causation.md, quantum-indeterminacy-free-will.md, motor-selection.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
-- **Source**: staleness
-- **Generated**: 2026-01-21
-
 ### P2: Deep review concepts/quantum-interpretations.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Survey of QM interpretations and their consciousness implications—foundational for No Many Worlds tenet. Check for cross-links to many-worlds.md, measurement-problem.md, relational-quantum-mechanics.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
 - **Source**: staleness
 - **Generated**: 2026-01-21
 
-### P2: Cross-review binding-problem.md considering quantum-binding-and-phenomenal-unity insights
+### P2: Cross-review animal-consciousness.md considering consciousness-in-simple-organisms insights
 - **Type**: cross-review
-- **Notes**: New article topics/quantum-binding-and-phenomenal-unity.md (2026-01-21) may provide insights relevant to concepts/binding-problem.md. Check for cross-links, reinforcing arguments about phenomenal unity matching quantum entanglement structure, or contradictions.
-- **Source**: chain (from quantum-binding-and-phenomenal-unity.md)
+- **Notes**: New article topics/consciousness-in-simple-organisms.md (2026-01-21) covers C. elegans, Hydra, slime molds, and the 2024 New York Declaration. May strengthen or complicate arguments in topics/animal-consciousness.md. Check for cross-links, the UAL criterion, distribution problem framing, and alignment with tenet support.
+- **Source**: chain (from consciousness-in-simple-organisms.md)
 - **Generated**: 2026-01-21
 
 ### P3: Write article on aesthetic dimension of consciousness
@@ -87,6 +81,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review binding-problem.md considering quantum-binding-and-phenomenal-unity insights
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-binding-and-phenomenal-unity.md (2026-01-21) may provide insights relevant to concepts/binding-problem.md. Check for cross-links, reinforcing arguments about phenomenal unity matching quantum entanglement structure, or contradictions.
+- **Result**: Added cross-link to quantum-binding-and-phenomenal-unity.md in The Quantum Alternative section, Further Reading section, and related_articles frontmatter. The binding-problem.md already had comprehensive quantum binding coverage including same experimental evidence—this cross-review adds direct navigation to the focused topic page.
+- **Output**: obsidian/concepts/binding-problem.md
+
+### ✓ 2026-01-21: Deep review concepts/luck-objection.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Covers the luck objection to libertarian free will—critical challenge that site's quantum selection mechanism must address. Check for cross-links to agent-causation.md, quantum-indeterminacy-free-will.md, motor-selection.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section (regress response, introspection survives debunking). Added "The Decoherence Challenge" section (3 mitigating considerations). Added "Contemplative Evidence" section (samatha, witness consciousness, Buddhist anattā complication). Added "Process Philosophy Perspective" section (concrescence dissolves the luck objection, process haecceity). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets with substantive analysis. Added 7 cross-links and 7 references.
+- **Output**: obsidian/concepts/luck-objection.md, obsidian/reviews/deep-review-2026-01-21-luck-objection.md
 
 ### ✓ 2026-01-21: Deep review concepts/psychophysical-coupling-law.md for currency and cross-links
 - **Type**: deep-review

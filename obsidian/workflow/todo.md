@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T03:00:00+00:00
+ai_modified: 2026-01-21T04:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,10 +43,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-21
 
-### P2: Cross-review binding-problem.md considering quantum-binding-and-phenomenal-unity insights
+### P2: Cross-review animal-consciousness.md considering consciousness-in-simple-organisms insights
 - **Type**: cross-review
-- **Notes**: New article topics/quantum-binding-and-phenomenal-unity.md (2026-01-21) may provide insights relevant to concepts/binding-problem.md. Check for cross-links, reinforcing arguments about phenomenal unity matching quantum entanglement structure, or contradictions.
-- **Source**: chain (from quantum-binding-and-phenomenal-unity.md)
+- **Notes**: New article topics/consciousness-in-simple-organisms.md (2026-01-21) covers C. elegans, Hydra, slime molds, and the 2024 New York Declaration. May strengthen or complicate arguments in topics/animal-consciousness.md. Check for cross-links, the UAL criterion, distribution problem framing, and alignment with tenet support.
+- **Source**: chain (from consciousness-in-simple-organisms.md)
 - **Generated**: 2026-01-21
 
 ### P3: Write article on aesthetic dimension of consciousness
@@ -80,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review binding-problem.md considering quantum-binding-and-phenomenal-unity insights
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-binding-and-phenomenal-unity.md (2026-01-21) may provide insights relevant to concepts/binding-problem.md. Check for cross-links, reinforcing arguments about phenomenal unity matching quantum entanglement structure, or contradictions.
+- **Result**: Added cross-link to quantum-binding-and-phenomenal-unity.md in The Quantum Alternative section, Further Reading section, and related_articles frontmatter. The binding-problem.md already had comprehensive quantum binding coverage including same experimental evidence—this cross-review adds direct navigation to the focused topic page.
+- **Output**: obsidian/concepts/binding-problem.md
 
 ### ✓ 2026-01-21: Deep review concepts/luck-objection.md for currency and cross-links
 - **Type**: deep-review
