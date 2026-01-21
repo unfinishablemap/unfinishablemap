@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T00:05:00+00:00
+ai_modified: 2026-01-21T23:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -67,8 +67,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
+### P3: Write article on phenomenology of choice and decision
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-21. The qualitative character of choosing—what is it like to decide? Differs from observing decisions happen. Builds on free-will.md, agent-causation.md, mental-effort.md. Supports Bidirectional Interaction and quantum selection mechanism.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-21
 
+### P3: Write article on consciousness and mathematical understanding
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-21. Penrose's arguments about non-algorithmic mathematical insight. What is the phenomenology of mathematical understanding? Does mathematical insight provide evidence for non-computability of consciousness? Builds on cognitive-phenomenology.md, mysterianism.md. Supports Dualism.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-21
 
+### P3: Write article on varieties of unity in consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-21. Different kinds of unity—synchronic (binding), diachronic (personal identity), phenomenal. How do these relate? Are they the same phenomenon or distinct? Builds on binding-problem.md, phenomenal-unity.md, self-and-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-21
 
 ## Completed Tasks
 
