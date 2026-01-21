@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T00:30:00+00:00
+ai_modified: 2026-01-22T02:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -57,19 +57,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Deep review dreams-and-consciousness.md for quality and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page (ai_contribution: 100) from 2026-01-15 has never been deep-reviewed. Covers dream phenomenology, neural correlates, and consciousness during sleep. Check tenet coverage, illusionist challenge response, and cross-links to sleep-and-consciousness.md, lucid-dreaming-and-consciousness.md, filter-theory.md.
-- **Source**: staleness
-- **Generated**: 2026-01-22
-
 ### P2: Deep review embodied-cognition.md for quality and tenet coverage
 - **Type**: deep-review
 - **Notes**: AI-generated concept page (ai_contribution: 100) from 2026-01-14 has never been deep-reviewed. Covers Clark/Chalmers extended mind, enactivism, and 4E cognition. Check tenet coverage (especially how embodiment relates to interface locality), illusionist challenge response, and cross-links to phenomenology.md, brain-specialness.md.
 - **Source**: staleness
 - **Generated**: 2026-01-22
 
+### P2: Deep review simulation.md for currency and tenet coverage
+- **Type**: deep-review
+- **Notes**: AI-generated concept page has oldest deep-review timestamp (2026-01-17). Covers simulation hypothesis, Bostrom's argument, and consciousness implications. Check tenet coverage especially No Many Worlds (simulation as alternative to MWI), illusionist challenge response quality, and integration with recent consciousness-as-amplifier insights.
+- **Source**: staleness
+- **Generated**: 2026-01-22
+
+### P2: Cross-review metacognition.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: The consciousness-as-amplifier article (2026-01-21) argues that metacognition is a consciousness-dependent capacity enabling the human cognitive leap. The metacognition.md article should be strengthened with this evidence: Jourdain Hypothesis (apes have culture but may not know they have culture), working memory expansion enabling metacognitive monitoring, and the amplification thesis.
+- **Source**: chain (from consciousness-as-amplifier.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review cognitive-phenomenology.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: The consciousness-as-amplifier article (2026-01-21) provides empirical evidence that cognitive phenomenology matters: logical reasoning specifically requires conscious processing (Lieberman 2008), counterfactual thinking requires conscious simulation, and cognitive phenomenology enables the human-ape intelligence gap. May strengthen cognitive-phenomenology.md with this functional role evidence.
+- **Source**: chain (from consciousness-as-amplifier.md)
+- **Generated**: 2026-01-22
+
 ## Completed Tasks
+
+### ✓ 2026-01-22: Deep review dreams-and-consciousness.md for quality and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (ai_contribution: 100) from 2026-01-15 has never been deep-reviewed. Covers dream phenomenology, neural correlates, and consciousness during sleep. Check tenet coverage, illusionist challenge response, and cross-links to sleep-and-consciousness.md, lucid-dreaming-and-consciousness.md, filter-theory.md.
+- **Result**: Addressed 0 critical, 5 medium issues. Expanded illusionist challenge with Frankish quasi-phenomenal framework, regress problem specific to dreams, and zombie reformulation (~350 words). Enriched Tibetan Dream Yoga with technical Buddhist vocabulary (mi-lam, trisvabhāva, bardo terminology) (~250 words). Strengthened No Many Worlds argument with MWI defense engagement and haecceity connection (~100 words). Added speculation caveat to quantum mechanism claims. Added cross-links to consciousness-as-amplifier, phenomenology-of-choice, philosophical-zombies, haecceity (~150 words).
+- **Output**: obsidian/concepts/dreams-and-consciousness.md, obsidian/reviews/deep-review-2026-01-22-dreams-and-consciousness.md
 
 ### ✓ 2026-01-22: Deep review consciousness-and-mathematical-understanding.md for quality and cross-links
 - **Type**: deep-review

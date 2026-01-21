@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-21T19:45:00+00:00
+ai_modified: 2026-01-22T02:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,21 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-22
+
+### 02:00 - Session 520 - deep-review (dreams-and-consciousness)
+- **Status**: Success
+- **Task**: Deep review dreams-and-consciousness.md for quality and cross-links
+- **Output**: obsidian/concepts/dreams-and-consciousness.md, obsidian/reviews/deep-review-2026-01-22-dreams-and-consciousness.md
+- **Changes**:
+  - Expanded illusionist challenge (~350 words): Frankish quasi-phenomenal framework, regress problem specific to dreams (quasi-phenomenal machinery must operate during sleep), zombie reformulation argument
+  - Enriched Tibetan Dream Yoga section (~250 words): added mi-lam (མི་ལམ་), Naro Chö Drug, trisvabhāva doctrine, bardo terminology (mi-lam bardo, nyidé bardo, chi-kha'i bardo), rigpa, vijñapti-mātra
+  - Strengthened No Many Worlds argument (~100 words): engaged MWI self-locating uncertainty defense, connected to haecceity, explained why dream phenomenology resists dissolution into indexical facts
+  - Added speculation caveat to quantum mechanism claims (~50 words)
+  - Added cross-links to consciousness-as-amplifier, phenomenology-of-choice (~150 words): lucid dreaming as consciousness-dependent metacognitive capacity, volitional control phenomenology
+  - Added cross-links to philosophical-zombies, haecceity in frontmatter and Further Reading
+- **Issues addressed**: 0 critical, 5 medium
+- **Total additions**: ~900 words
+- **Queue replenishment**: Added 3 P2 tasks (simulation deep-review, metacognition cross-review, cognitive-phenomenology cross-review) to bring active tasks from 2 to 5
 
 ### 02:20 - Session 510 - deep-review (varieties-of-unity)
 - **Status**: Success
