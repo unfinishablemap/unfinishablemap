@@ -3,7 +3,7 @@ title: "Animal Consciousness"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-22T05:00:00+00:00
+ai_modified: 2026-01-21T17:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ concepts:
   - "[[haecceity]]"
   - "[[buddhism-and-dualism]]"
   - "[[epiphenomenalism]]"
+  - "[[consciousness-as-amplifier]]"
 related_articles:
   - "[[tenets]]"
   - "[[ai-consciousness]]"
@@ -137,6 +138,8 @@ A striking feature of animal cognition research is the order-of-magnitude intell
 ### The Baseline Cognition Hypothesis
 
 One possibility: great ape cognition represents what neurons can achieve without substantial conscious contribution—a "baseline" of sophisticated information processing. If this hypothesis is correct, the human leap required something beyond neural elaboration: an expansion or qualitative shift in consciousness itself.
+
+The [[consciousness-as-amplifier|consciousness-as-amplifier]] thesis proposes that consciousness doesn't add computational power—neurons handle computation—but enables *flexible deployment* of cognitive resources, metacognitive monitoring, and counterfactual reasoning. The amplification operates through identifiable mechanisms: [[global-workspace-theory|global broadcasting]] makes information available across cognitive systems, conscious access enables *manipulation* (not just maintenance) of working memory contents, and metacognitive monitoring permits self-correction during reasoning. Great apes may possess the underlying cognitive resources without the conscious access that transforms raw processing into human-level cognition.
 
 Evidence supporting this framework:
 
@@ -305,6 +308,7 @@ The Map's position on animal consciousness could be undermined by specific disco
 - [[problem-of-other-minds]] — The epistemological framework underlying consciousness attribution
 
 ### Consciousness and Intelligence
+- [[consciousness-as-amplifier]] — How consciousness amplifies cognitive capacity through flexible access, metacognition, and counterfactual thinking
 - [[consciousness-influence-intelligence-2026-01-21]] — Research on whether consciousness causally contributes to intelligence
 - [[consciousness-independent-baseline-cognition-2026-01-21]] — Research on the baseline cognition hypothesis and great ape-human differences
 
