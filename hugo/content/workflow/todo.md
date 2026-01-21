@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 21:50:00+00:00
+ai_modified: 2026-01-22 08:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -58,19 +58,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Deep review problem-of-other-minds.md for currency and tenet coverage
-- **Type**: deep-review
-- **Notes**: AI-generated concept page has oldest deep-review timestamp (2026-01-18). Covers epistemological problem of knowing other minds exist. Check tenet coverage, illusionist challenge response quality, and integration with recent consciousness-as-amplifier insights (which discuss great ape consciousness evidence).
-- **Source**: staleness
+### P2: Cross-review global-workspace-theory.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: The consciousness-as-amplifier article (2026-01-21) builds heavily on Global Workspace Theory as a mechanistic framework—GWT explains *how* information becomes globally accessible, amplification explains *why* this matters for intelligence. The global-workspace-theory.md article should be strengthened with the amplification perspective: how global broadcast enables flexible deployment of cognitive resources, metacognitive monitoring, and cumulative culture.
+- **Source**: chain (from consciousness-as-amplifier.md)
 - **Generated**: 2026-01-22
 
-### P2: Cross-review evolution-of-consciousness.md considering consciousness-as-amplifier insights
+### P2: Cross-review animal-consciousness.md considering consciousness-as-amplifier insights
 - **Type**: cross-review
-- **Notes**: The consciousness-as-amplifier article (2026-01-21) provides evidence that consciousness causally contributed to the human cognitive leap—relevant to evolutionary discussions. May strengthen concepts/evolution-of-consciousness.md with the baseline cognition hypothesis, Jourdain Hypothesis, and working memory expansion evidence.
+- **Notes**: The consciousness-as-amplifier article (2026-01-21) discusses great ape baseline cognition and the Jourdain Hypothesis (apes may have culture without knowing they have culture). The animal-consciousness.md article should be strengthened with this amplification framework: procedural vs declarative metacognition, working memory capacity differences, and implications for animal phenomenology.
 - **Source**: chain (from consciousness-as-amplifier.md)
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review evolution-of-consciousness.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: The consciousness-as-amplifier article (2026-01-21) provides evidence that consciousness causally contributed to the human cognitive leap—relevant to evolutionary discussions. May strengthen concepts/evolution-of-consciousness.md with the baseline cognition hypothesis, Jourdain Hypothesis, and working memory expansion evidence.
+- **Result**: Added explicit "baseline cognition hypothesis" framing (~150 words) explaining that great apes represent sophisticated baseline cognition with systematic pattern of success/failure mapping to consciousness-dependent vs consciousness-independent capacities. Added training evidence paragraph (~100 words) citing Fox et al. (2012) meditator study showing that consciousness is trainable and therefore a target for evolutionary selection. Added Fox et al. reference to References section.
+- **Output**: obsidian/concepts/evolution-of-consciousness.md
+
+### ✓ 2026-01-22: Deep review problem-of-other-minds.md for currency and tenet coverage
+- **Type**: deep-review
+- **Notes**: AI-generated concept page has oldest deep-review timestamp (2026-01-18). Covers epistemological problem of knowing other minds exist. Check tenet coverage, illusionist challenge response quality, and integration with recent consciousness-as-amplifier insights (which discuss great ape consciousness evidence).
+- **Result**: Addressed 2 critical issues (missing illusionist engagement, missing falsifiability section), 4 medium issues. Added "The Illusionist Challenge" section (~500 words) with Frankish quasi-phenomenal response, regress at meta-level, discourse evidence, specificity problem. Added "Process Philosophy Perspective" (~350 words) with Whitehead's actual occasions and prehension. Added "Buddhist Contemplative Perspective" (~400 words) with anattā, vijñāna, śūnyatā, karuṇā practices, tonglen. Added "What Would Challenge This View?" (~350 words). Expanded No Many Worlds argument (~250 words) with haecceity and indexical identity. Added consciousness-as-amplifier integration (~150 words).
+- **Output**: obsidian/concepts/problem-of-other-minds.md, obsidian/reviews/deep-review-2026-01-22-problem-of-other-minds.md
 
 ### ✓ 2026-01-21: Cross-review working-memory.md considering consciousness-as-amplifier insights
 - **Type**: cross-review

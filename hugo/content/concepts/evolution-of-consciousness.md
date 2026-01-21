@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-21 18:40:00+00:00
+ai_modified: 2026-01-22 08:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -103,11 +103,15 @@ If consciousness is causally efficacious, several advantages might drive its evo
 
 The [amplification hypothesis](/concepts/consciousness-as-amplifier/) provides the strongest positive case for why consciousness was selected. The human-great ape intelligence gap—approximately tenfold despite only 1-2% genetic difference—tracks consciousness-dependent capacities systematically.
 
+The **baseline cognition hypothesis** frames great apes as representing what sophisticated neural systems can achieve without substantial conscious amplification. This isn't to deny great ape consciousness—they likely have genuine phenomenal experience—but proposes their consciousness differs qualitatively from human consciousness in ways that limit cognitive amplification. The systematic pattern of where great apes succeed (tool use, social cognition, procedural metacognition) and where they fail (logical reasoning, cumulative culture, counterfactual thinking) maps precisely onto the distinction between consciousness-independent and consciousness-dependent capacities.
+
 **Working memory expansion**: Chimpanzee working memory holds approximately 2±1 items compared to the human 7±2 (Tomasello 2010). This three-to-four-fold expansion isn't merely quantitative storage—it enables exponentially more possible combinations, comparisons, and transformations. If working memory depends on conscious access (as Global Workspace Theory proposes), expanded working memory implies expanded consciousness.
 
 **The Jourdain Hypothesis**: Whiten (2015) argues that great apes have culture—tool-use traditions, grooming patterns, vocalisations that vary between groups—but may not *know* they have culture. They express cultural traditions without representing these as "our way of doing things" subject to deliberate modification. Cumulative culture requires metarepresentation: treating knowledge *as* knowledge that can be improved and taught. This metarepresentational capacity may require phenomenal consciousness, not merely functional processing.
 
 **Logical reasoning specificity**: Lieberman et al. (2008) demonstrated that rule-based logical reasoning specifically depends on conscious processing. Cognitive load disrupting conscious attention impaired logical reasoning; disrupting unconscious processes did not. Unconscious processing excels at pattern recognition and associative learning, but explicit rule-following—"if P then Q, P, therefore Q"—requires conscious manipulation of representations.
+
+**Training enhances conscious capacities**: If consciousness were epiphenomenal, training attention and metacognition should have no effect—you cannot improve causally inert processes through practice. Yet Fox et al. (2012) demonstrated that meditators with extensive practice show dramatically better introspective accuracy than novices. Contemplative traditions worldwide report that sustained attention to conscious states improves metacognitive monitoring, flexible response, and cognitive control. This trainability supports the evolutionary argument: consciousness that can be improved through experience provides a target for selection.
 
 The gap is not random. Great apes show precisely the pattern expected if consciousness causally amplifies cognitive capacity: sophisticated within the baseline (tool use, social cognition, procedural metacognition), limited precisely where consciousness appears required (logical reasoning, metarepresentation, cumulative culture, counterfactual thinking). This systematic pattern requires explanation. The simplest explanation: consciousness does the amplifying work.
 
@@ -269,6 +273,7 @@ Scientific humility requires specifying what would count against one's view. The
 
 - Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
 - Chalmers, D. (2006). Strong and Weak Emergence. In P. Clayton & P. Davies (Eds.), *The Re-Emergence of Emergence*. Oxford University Press.
+- Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 - Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 - Godfrey-Smith, P. (2020). *Metazoa: Animal Life and the Birth of the Mind*. Farrar, Straus and Giroux.
