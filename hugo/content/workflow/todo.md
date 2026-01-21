@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 18:45:00+00:00
+ai_modified: 2026-01-21 18:36:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -64,19 +64,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Deep review working-memory.md for tenet coverage and cross-links
+### P2: Deep review varieties-of-unity.md for tenet coverage and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-17 has never been deep-reviewed. Check tenet coverage (especially Bidirectional Interaction via attention-as-interface), illusionist challenge response, and cross-links to consciousness-as-amplifier.md, global-workspace-theory.md, and mental-effort.md.
+- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-21 has never been deep-reviewed. Check all 5 tenet coverage (especially Process Philosophy perspective on synchronic/diachronic unity), illusionist challenge response, and cross-links to witness-consciousness.md, meditation-and-consciousness-modes.md.
 - **Source**: staleness
 - **Generated**: 2026-01-21
 
-### P2: Deep review epistemic-emotions.md for quality and tenet alignment
+### P2: Deep review consciousness-as-amplifier.md for tenet coverage and illusionist response
 - **Type**: deep-review
-- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-21 has never been deep-reviewed. Check comprehensive tenet coverage, illusionist challenge response quality (epistemic emotions are a strong case against illusionism), and cross-links to cognitive-phenomenology.md and metacognition.md.
+- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-21 presenting consciousness-intelligence thesis. Check tenet coverage completeness, illusionist challenge response (could consciousness-dependent capacities be explained by quasi-phenomenal states?), and cross-links to metarepresentation.md, working-memory.md.
 - **Source**: staleness
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review epistemic-emotions.md for quality and tenet alignment
+- **Type**: deep-review
+- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-21 has never been deep-reviewed. Check comprehensive tenet coverage, illusionist challenge response quality (epistemic emotions are a strong case against illusionism), and cross-links to cognitive-phenomenology.md and metacognition.md.
+- **Result**: Addressed 2 critical issues (weak No Many Worlds argument misunderstanding MWI decoherence, illusionist engagement lacking Frankish detail), 4 medium issues (missing cross-link to emotional-consciousness, quantum mechanism too speculative, missing Buddhist vedanā analysis, missing philosophical-zombies cross-link). Rewrote No Many Worlds argument around indexical identity problem (~200 words). Expanded illusionist section with Frankish's quasi-phenomenal framework and why regress still stands (~300 words). Added vedanā analysis connecting epistemic emotions to pleasant/unpleasant framework (~150 words). Added timescale qualification to quantum section (~100 words).
+- **Output**: obsidian/concepts/epistemic-emotions.md, obsidian/reviews/deep-review-2026-01-21-epistemic-emotions.md
 
 ### ✓ 2026-01-21: Deep review mind-brain-separation.md for quality
 - **Type**: deep-review
