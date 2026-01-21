@@ -3,7 +3,7 @@ title: "Neural Quantum Coherence"
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-19T10:06:00+00:00
+ai_modified: 2026-01-21T06:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[decoherence]]"
   - "[[quantum-biology]]"
   - "[[measurement-problem]]"
+  - "[[quantum-coherence-protection]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-superposition-brain-consciousness-2026-01-18]]"
@@ -60,7 +61,7 @@ The Fisher estimate is not a revision of Tegmark but an entirely different mecha
 
 ## Protective Mechanisms
 
-Four mechanisms may protect quantum coherence in neural tissue. None has been definitively confirmed in living neurons, but each has theoretical and experimental support.
+Four mechanisms may protect quantum coherence in neural tissue. None has been definitively confirmed in living neurons, but each has theoretical and experimental support. See [[quantum-coherence-protection|Quantum Coherence Protection in Neural Systems]] for detailed treatment of each mechanism, including illusionist challenge responses, contemplative evidence, and process philosophy perspectives.
 
 ### Hydrophobic Microtubule Interior
 
@@ -186,6 +187,7 @@ The evidence doesn't prove quantum consciousness. It removes the categorical obj
 
 ## Further Reading
 
+- [[quantum-coherence-protection]] — Detailed analysis of four protection mechanisms with illusionist and process philosophy responses
 - [[binding-problem]] — How quantum entanglement may solve phenomenal unity
 - [[quantum-consciousness]] — Quantum consciousness mechanisms including Orch OR and quantum Zeno
 - [[decoherence]] — Why decoherence doesn't solve the measurement problem
