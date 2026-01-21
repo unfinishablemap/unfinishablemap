@@ -3,7 +3,7 @@ title: "Mysterianism and Cognitive Closure"
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T17:30:00+00:00
+ai_modified: 2026-01-21T19:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[combination-problem]]"
   - "[[introspection]]"
   - "[[decoherence]]"
+  - "[[consciousness-and-mathematical-understanding]]"
 related_articles:
   - "[[tenets]]"
   - "[[mysterianism-cognitive-closure-2026-01-14]]"
@@ -69,6 +70,18 @@ Noam Chomsky offered a related distinction between "problems" and "mysteries." P
 Chomsky argued there's no reason to assume human cognitive capacities are unlimited. We're biological organisms with specific cognitive architectures shaped by evolution for specific purposes. Some questions may fall outside what that architecture can handle.
 
 Consciousness might be such a mystery. The [[explanatory-gap]] persists despite centuries of philosophical and scientific effort. Perhaps it persists not because we haven't tried hard enough but because trying harder won't help. The gap may be our cognitive closure made visible.
+
+## Mathematical Understanding and Cognitive Closure
+
+[[consciousness-and-mathematical-understanding|Mathematical understanding]] provides striking evidence for cognitive limits of a particular kind. Roger Penrose argued that mathematicians can recognise truths that no formal system can prove—the Gödel sentence G is true, and we can see this, even though the formal system containing G cannot derive it. If Penrose is right, mathematical insight transcends computation.
+
+This connects to mysterianism in two ways:
+
+**Evidence for non-computational capacities**: If mathematical understanding involves grasping necessities that formal systems cannot capture, our minds do something beyond rule-following. This doesn't directly support cognitive closure about consciousness—but it demonstrates that human cognition has features that resist computational description. We access truths in ways we cannot fully articulate as algorithms. The phenomenology of mathematical insight—the "aha" moment, the sense of *seeing* necessity—may be irreducibly conscious in ways that parallel the irreducibility mysterians attribute to phenomenal experience generally.
+
+**Limits even in successful understanding**: The regress in Penrose's argument is telling. For any formal system F, we can see its Gödel sentence is true using some larger system F'. But then F' has its own unprovable truth G'. This suggests mathematical understanding cannot be captured by *any* fixed algorithm—it perpetually exceeds formalisation. If even our successful cognitive capacities resist complete explication, how much more might our attempts to understand consciousness itself exceed our grasp?
+
+Mathematical understanding is thus a case where we succeed—we do grasp mathematical truths—while remaining unable to explain how. We understand mathematics without understanding how we understand mathematics. This parallels the mysterian suggestion about consciousness: something real happens (we're conscious), but the mechanism by which it happens may be cognitively closed to us. The difference is that mathematical understanding is a capacity we exercise successfully, while understanding consciousness is a capacity we don't seem to have at all.
 
 ## The Phenomenology of Cognitive Closure
 
@@ -215,6 +228,7 @@ The Map's [[voids]] framework resonates with mysterian themes. McGinn's property
 
 ## Further Reading
 
+- [[consciousness-and-mathematical-understanding]] — Mathematical insight as evidence for non-computational cognition and cognitive limits
 - [[minimal-consciousness]] — Complete neural mapping yet unknowable experience (empirical evidence for cognitive closure)
 - [[phenomenology-of-the-edge]] — What cognitive closure feels like from the inside (edge-experience signatures)
 - [[limits-reveal-structure]] — How cognitive limits reveal cognitive architecture (detailed treatment)
