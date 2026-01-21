@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-19 10:06:00+00:00
+ai_modified: 2026-01-21 06:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[decoherence]]'
 - '[[quantum-biology]]'
 - '[[measurement-problem]]'
+- '[[quantum-coherence-protection]]'
 created: 2026-01-18
 date: &id001 2026-01-18
 draft: false
@@ -61,7 +62,7 @@ The Fisher estimate is not a revision of Tegmark but an entirely different mecha
 
 ## Protective Mechanisms
 
-Four mechanisms may protect quantum coherence in neural tissue. None has been definitively confirmed in living neurons, but each has theoretical and experimental support.
+Four mechanisms may protect quantum coherence in neural tissue. None has been definitively confirmed in living neurons, but each has theoretical and experimental support. See [Quantum Coherence Protection in Neural Systems](/concepts/quantum-coherence-protection/) for detailed treatment of each mechanism, including illusionist challenge responses, contemplative evidence, and process philosophy perspectives.
 
 ### Hydrophobic Microtubule Interior
 
@@ -187,6 +188,7 @@ The evidence doesn't prove quantum consciousness. It removes the categorical obj
 
 ## Further Reading
 
+- [quantum-coherence-protection](/concepts/quantum-coherence-protection/) — Detailed analysis of four protection mechanisms with illusionist and process philosophy responses
 - [binding-problem](/concepts/binding-problem/) — How quantum entanglement may solve phenomenal unity
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum consciousness mechanisms including Orch OR and quantum Zeno
 - [decoherence](/concepts/decoherence/) — Why decoherence doesn't solve the measurement problem
