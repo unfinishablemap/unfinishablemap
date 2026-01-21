@@ -38,23 +38,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review concepts/voluntary-attention.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Covers the capacity to direct attention through internal decision—foundational to attention-as-interface hypothesis supporting Bidirectional Interaction tenet. Check for cross-links to mental-causation.md, agent-causation.md, motor-selection.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
-- **Source**: staleness
-- **Generated**: 2026-01-21
-
 ### P2: Deep review concepts/psychophysical-coupling-law.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Critical architecture piece articulating how conscious contents map to physical selections. Supports the core mechanism of the Map's framework. Check for cross-links to consciousness-selecting-neural-patterns.md, mental-causation.md, interactionist-dualism.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
 - **Source**: staleness
 - **Generated**: 2026-01-21
-
-### P2: Write article on collapse before minds (early universe problem)
-- **Type**: expand-topic
-- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Addresses central objection to consciousness-collapse: what determined outcomes before observers? Five responses examined: Wheeler's retrocausality, panpsychism, objective reduction, decoherence, separation strategies. Recommends combining objective reduction with consciousness modulation. Critical for defending Minimal Quantum Interaction tenet.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-22
 
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
@@ -87,6 +75,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review concepts/voluntary-attention.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Covers the capacity to direct attention through internal decision—foundational to attention-as-interface hypothesis supporting Bidirectional Interaction tenet. Check for cross-links to mental-causation.md, agent-causation.md, motor-selection.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
+- **Result**: Comprehensive review completed. Added "The Decoherence Challenge" section (3 responses: revised timescales, Zeno operates faster, biological precedent). Added "The Illusionist Challenge" section (regress response, introspective reliability, functional asymmetry). Added "Contemplative Evidence" section (samatha, witness-consciousness, Buddhist complications). Added "Process Philosophy Perspective" section (actual occasions, concrescence, process haecceity). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets including Occam's Razor Has Limits. Expanded MWI response to address decision theory and haecceity.
+- **Output**: obsidian/concepts/voluntary-attention.md, obsidian/reviews/deep-review-2026-01-21-voluntary-attention.md
+
+### ✓ 2026-01-21: Write article on collapse before minds (early universe problem)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Addresses central objection to consciousness-collapse: what determined outcomes before observers? Five responses examined: Wheeler's retrocausality, panpsychism, objective reduction, decoherence, separation strategies. Recommends combining objective reduction with consciousness modulation. Critical for defending Minimal Quantum Interaction tenet.
+- **Result**: Article already exists as obsidian/concepts/prebiotic-collapse.md (~2200 words). Comprehensive coverage of all recommended angles including objective reduction with consciousness modulation position, illusionist challenge, process philosophy perspective, decoherence challenge, and falsifiability conditions. Task marked complete as research was already consumed.
+- **Output**: obsidian/concepts/prebiotic-collapse.md (existing)
 
 ### ✓ 2026-01-21: Write article on neural binding and quantum entanglement
 - **Type**: expand-topic
