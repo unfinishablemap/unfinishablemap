@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 12:02:35+00:00
+ai_modified: 2026-01-21 13:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -69,12 +69,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-21
 
-### P2: Cross-review global-workspace-theory.md considering consciousness-as-amplifier insights
-- **Type**: cross-review
-- **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) uses GWT's framework to explain how consciousness enables flexible deployment. May strengthen concepts/global-workspace-theory.md with the amplification perspective and comparative cognition evidence. Check for cross-links.
-- **Source**: chain (from consciousness-as-amplifier.md)
-- **Generated**: 2026-01-21
-
 ### P2: Cross-review cognitive-phenomenology.md considering epistemic-emotions insights
 - **Type**: cross-review
 - **Notes**: New article concepts/epistemic-emotions.md (2026-01-21) covers curiosity, doubt, certainty, and insight as phenomenal experiences with cognitive content. May strengthen concepts/cognitive-phenomenology.md with the epistemic dimension. Check for cross-links and whether epistemic emotions constitute cognitive phenomenology or accompany it.
@@ -94,6 +88,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review global-workspace-theory.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) uses GWT's framework to explain how consciousness enables flexible deployment. May strengthen concepts/global-workspace-theory.md with the amplification perspective and comparative cognition evidence. Check for cross-links.
+- **Result**: Added new "The Amplification Hypothesis" subsection (~300 words) to Working Memory as Workspace Content section. Covers the 2±1 vs 7±2 working memory expansion, reinterprets global broadcast as enabling manipulation not just reportability, and connects the human-great ape gap to workspace-dependent capacities. Added consciousness-as-amplifier to concepts frontmatter and Further Reading.
+- **Output**: obsidian/concepts/global-workspace-theory.md
 
 ### ✓ 2026-01-21: Cross-review working-memory.md considering consciousness-as-amplifier insights
 - **Type**: cross-review
