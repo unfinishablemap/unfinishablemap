@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T12:00:00+00:00
+ai_modified: 2026-01-21T19:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,9 +37,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review split-brain-consciousness.md for currency and cross-links
+### P2: Deep review arguments/many-worlds.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated topic page (2026-01-14), deep-reviewed 2026-01-16 (4 days ago). Covers Sperry-Gazzaniga experiments and unity of consciousness. Check for cross-links to binding-problem.md, phenomenal-unity.md, haecceity.md. May need updates on illusionist challenge, process philosophy perspective, and falsifiability sections.
+- **Notes**: AI-generated argument page (ai_contribution: 100), never deep-reviewed. Presents arguments against Many-Worlds Interpretation—core to No Many Worlds tenet. Check for cross-links to haecceity.md, personal-identity.md, quantum-interpretations.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
+- **Source**: staleness
+- **Generated**: 2026-01-21
+
+### P2: Deep review arguments/epiphenomenalism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated argument page (ai_contribution: 100), never deep-reviewed. Presents arguments against epiphenomenalism—critical for defending Bidirectional Interaction tenet. Check for cross-links to mental-causation.md, consciousness-selecting-neural-patterns.md, causal-closure.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
+- **Source**: staleness
+- **Generated**: 2026-01-21
+
+### P2: Deep review concepts/specious-present.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Covers the phenomenology of temporal experience—James's specious present and duration of "now." Check for cross-links to temporal-consciousness.md, duration.md, philosophy-of-time.md, collapse-and-time.md. Supports Dualism via irreducibility of lived temporality.
 - **Source**: staleness
 - **Generated**: 2026-01-21
 
@@ -74,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review split-brain-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page (2026-01-14), deep-reviewed 2026-01-16 (4 days ago). Covers Sperry-Gazzaniga experiments and unity of consciousness. Check for cross-links to binding-problem.md, phenomenal-unity.md, haecceity.md. May need updates on illusionist challenge, process philosophy perspective, and falsifiability sections.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with illusionist reading, regress response, and indeterminacy-as-evidence subsections. Added "Process Philosophy Perspective" section connecting Whitehead's actual occasions, prehension, and concrescence to split-brain phenomena and the 2025 PNAS findings. Added "Contemplative Evidence" section with witness consciousness and Buddhist no-self perspectives. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Added "Occam's Razor Has Limits" tenet connection (was missing). Expanded quantum section with decoherence challenge engagement. Added 4 new cross-links (illusionism, introspection, witness-consciousness, decoherence). Added 3 new external references.
+- **Output**: obsidian/topics/split-brain-consciousness.md, obsidian/reviews/deep-review-2026-01-21-split-brain-consciousness.md
 
 ### ✓ 2026-01-21: Deep review meaning-of-life.md for currency and cross-links
 - **Type**: deep-review
