@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T21:35:00+00:00
+ai_modified: 2026-01-21T19:23:19+00:00
 draft: false
 topics: []
 concepts: []
@@ -57,19 +57,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Deep review quantum-binding-and-phenomenal-unity.md for quality and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated topic page (ai_contribution: 100) from 2026-01-21 has never been deep-reviewed. Covers Baum's quantum binding argument, zero-lag gamma synchrony, and 2022-2025 experimental evidence. Check tenet coverage (especially Process Philosophy perspective on concrescence and binding), illusionist challenge response, and cross-links to binding-problem.md, phenomenal-unity.md, neural-quantum-coherence.md.
-- **Source**: staleness
-- **Generated**: 2026-01-22
-
 ### P2: Deep review consciousness-in-simple-organisms.md for quality and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated topic page (ai_contribution: 100) has never been deep-reviewed. Covers UAL framework, C. elegans, Hydra, slime molds, and minimal neural requirements for consciousness. Check tenet coverage, illusionist challenge response quality, and cross-links to minimal-consciousness.md, animal-consciousness.md, neural-correlates-of-consciousness.md.
 - **Source**: staleness
 - **Generated**: 2026-01-22
 
+### P2: Deep review autonoetic-consciousness.md for quality and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (ai_contribution: 100) from 2026-01-17 has never been deep-reviewed. Covers Tulving's autonoetic awareness, mental time travel, and self-projection. Check tenet coverage (especially Process Philosophy perspective on temporal self-extension), illusionist challenge response, and cross-links to episodic-memory.md, temporal-consciousness.md, personal-identity.md.
+- **Source**: staleness
+- **Generated**: 2026-01-22
+
+### P2: Deep review dreams-and-consciousness.md for quality and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (ai_contribution: 100) from 2026-01-15 has never been deep-reviewed. Covers dream phenomenology, neural correlates, and consciousness during sleep. Check tenet coverage, illusionist challenge response, and cross-links to sleep-and-consciousness.md, lucid-dreaming-and-consciousness.md, filter-theory.md.
+- **Source**: staleness
+- **Generated**: 2026-01-22
+
+### P2: Deep review embodied-cognition.md for quality and tenet coverage
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (ai_contribution: 100) from 2026-01-14 has never been deep-reviewed. Covers Clark/Chalmers extended mind, enactivism, and 4E cognition. Check tenet coverage (especially how embodiment relates to interface locality), illusionist challenge response, and cross-links to phenomenology.md, brain-specialness.md.
+- **Source**: staleness
+- **Generated**: 2026-01-22
+
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review quantum-binding-and-phenomenal-unity.md for quality and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page (ai_contribution: 100) from 2026-01-21 has never been deep-reviewed. Covers Baum's quantum binding argument, zero-lag gamma synchrony, and 2022-2025 experimental evidence. Check tenet coverage (especially Process Philosophy perspective on concrescence and binding), illusionist challenge response, and cross-links to binding-problem.md, phenomenal-unity.md, neural-quantum-coherence.md.
+- **Result**: Addressed 0 critical, 5 medium, 2 low issues. Strengthened Twin Study citation with preprint status and caution (~100 words). Expanded Warren (2023) engagement with methodological details (~50 words). Enriched Buddhist contemplative section with jhāna, arūpa-samāpatti, rigpa, turīya, kenshō, sākṣin terminology (~150 words). Added decoherence-only interpretation response to No Many Worlds argument (~150 words). Strengthened illusionist section with Frankish's quasi-phenomenal framework and zombie reformulation (~200 words). Added cross-links to phenomenology-of-choice, consciousness-as-amplifier, illusionism, philosophical-zombies. Added Schlosshauer and Warren references.
+- **Output**: obsidian/topics/quantum-binding-and-phenomenal-unity.md, obsidian/reviews/deep-review-2026-01-21-quantum-binding-and-phenomenal-unity.md
 
 ### ✓ 2026-01-21: Cross-review cognitive-phenomenology.md considering consciousness-and-mathematical-understanding insights
 - **Type**: cross-review
