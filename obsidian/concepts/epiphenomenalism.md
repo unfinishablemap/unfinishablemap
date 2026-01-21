@@ -3,7 +3,7 @@ title: "Epiphenomenalism"
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-01-19T15:30:00+00:00
+ai_modified: 2026-01-21T16:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
   - "[[minimal-consciousness]]"
+  - "[[consciousness-as-amplifier]]"
 related_articles:
   - "[[tenets]]"
   - "[[epiphenomenalism-2026-01-08]]"
@@ -102,6 +103,24 @@ But this leaves unexplained why consciousness *tracks* adaptive features. It wou
 
 The [[evolution-of-consciousness|phylogenetic evidence]] sharpens this problem. Consciousness appears widely distributed across the animal kingdom—mammals, birds, cephalopods, perhaps even [[minimal-consciousness|organisms with just a few hundred neurons]]. The tracking is remarkably precise: across vastly different lineages, consciousness accompanies exactly those neural structures associated with adaptive, flexible behaviour. The epiphenomenalist must explain this as cosmic coincidence. The interactionist explanation is simpler: consciousness is distributed where it is because it *does* something—it guides behaviour toward survival.
 
+### The Amplification Evidence
+
+The [[consciousness-as-amplifier|consciousness-as-amplifier hypothesis]] strengthens the evolutionary objection with empirical specificity. If consciousness is epiphenomenal, the great ape-human intelligence gap—approximately ten-fold despite only 1-2% genetic difference—becomes inexplicable. Great apes possess sophisticated neural systems. Why can't those systems achieve human-level cognition?
+
+The gap isn't random. It systematically tracks capacities that appear to require conscious processing:
+
+**Working memory**: Chimpanzee working memory holds approximately 2±1 items; human working memory holds 7±2. This three-to-four-fold expansion isn't mere storage—it's the capacity for simultaneous comparison, manipulation, and flexible combination. If working memory depends on conscious access (as [[global-workspace-theory|Global Workspace Theory]] suggests), the expansion implies consciousness contributes something.
+
+**Logical reasoning**: Lieberman et al. (2008) demonstrated that rule-based logical reasoning specifically depends on conscious processing. Cognitive load disrupting conscious attention impairs logical reasoning; disrupting unconscious processes does not. If consciousness were epiphenomenal, logical reasoning should proceed regardless of conscious interference—it should be the underlying neural processes that matter. The data suggest otherwise.
+
+**Metarepresentation**: Great apes have culture—tool-use traditions, grooming patterns, vocalisations varying between groups. But as Whiten (2015) argues, they may not *know* they have culture. They cannot represent their knowledge *as* knowledge, treat beliefs as objects of thought, deliberately transmit traditions as "our way of doing things." This metarepresentational capacity enables cumulative culture—genuine innovation building on prior innovations. It appears to require phenomenal consciousness, not merely functional processing.
+
+**Counterfactual thinking**: The Bischof-Köhler hypothesis suggests animals cannot act on drive states they don't currently experience. A sated animal won't store food for future hunger. Humans transcend this through conscious simulation—imagining being hungry tomorrow while full today. Without conscious representation of counterfactual states, planning horizons remain limited.
+
+The pattern is too systematic for coincidence. Epiphenomenalism predicts no correlation between consciousness and cognitive capacity—if consciousness causes nothing, its presence or absence should be irrelevant to what neural systems achieve. Instead, we find precise correspondence: consciousness appears where it would matter if it were causal, and is limited where those limits would appear if consciousness were doing the causal work. A 2024 review in *Neuroscience of Consciousness* put it directly: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics leads to causally impotent conscious experiences in direct contradiction to evolutionary theory."
+
+The epiphenomenalist must claim this correspondence is coincidence—that causally inert consciousness just happens to track exactly those capacities that distinguish human from great ape cognition, while having no causal connection to them. This strains credulity beyond breaking.
+
 ## Relation to the Map's Perspective
 
 The Map holds that consciousness is real, irreducible to physics, and causally efficacious. Epiphenomenalism denies the third claim while accepting the first two—making it the Map's most direct rival on the causation question.
@@ -142,6 +161,7 @@ The self-stultification problem remains the decisive objection. If epiphenomenal
 
 ## Further Reading
 
+- [[consciousness-as-amplifier]] — Empirical evidence that consciousness amplifies cognitive capacity; the strongest evolutionary argument against epiphenomenalism
 - [[evolution-of-consciousness]] — Why consciousness appears distributed across species; challenges the "mere byproduct" response
 - [[agent-causation]] — The positive framework for mental causation that epiphenomenalism denies
 - [[luck-objection]] — Why genuine authorship requires more than passive reception of indeterminacy
@@ -160,4 +180,7 @@ The self-stultification problem remains the decisive objection. If epiphenomenal
 - Huxley, T.H. (1874). "On the Hypothesis that Animals are Automata, and its History."
 - Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136. (Note: Jackson later recanted epiphenomenalism, arguing in 2003 that his earlier arguments rested on a mistake about the nature of phenomenal concepts.)
 - Kim, J. (1989). "The Myth of Nonreductive Materialism." *Proceedings of the APA*, 63, 31-47.
+- Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+- PMC10817314. (2024). Evolution of Consciousness. *Neuroscience of Consciousness*.
 - Robinson, W.S. (2004). *Understanding Phenomenal Consciousness*. Cambridge University Press.
+- Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
