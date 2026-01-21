@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-20 06:15:00+00:00
+ai_modified: 2026-01-21 18:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,8 +16,9 @@ concepts:
 - '[[decoherence]]'
 - '[[attention-as-interface]]'
 - '[[quantum-consciousness]]'
+- '[[consciousness-as-amplifier]]'
 created: 2026-01-19
-date: &id001 2026-01-20
+date: &id001 2026-01-21
 draft: false
 human_modified: null
 last_curated: null
@@ -97,6 +98,18 @@ If consciousness is causally efficacious, several advantages might drive its evo
 **Valenced guidance**: [Emotional consciousness](/concepts/emotional-consciousness/) provides intrinsic motivation through pleasure and pain. Rather than needing explicit reward signals, conscious organisms are *motivated* by felt quality. The badness of pain and goodness of pleasure create powerful selection pressure without requiring external specification.
 
 **Self-modelling**: Consciousness enables meta-cognition—thinking about one's own mental states. This self-awareness supports learning from mistakes, anticipating future needs, and modelling other minds (theory of mind). Social species benefit enormously from predicting others' behaviour.
+
+### The Amplification Evidence
+
+The [amplification hypothesis](/concepts/consciousness-as-amplifier/) provides the strongest positive case for why consciousness was selected. The human-great ape intelligence gap—approximately tenfold despite only 1-2% genetic difference—tracks consciousness-dependent capacities systematically.
+
+**Working memory expansion**: Chimpanzee working memory holds approximately 2±1 items compared to the human 7±2 (Tomasello 2010). This three-to-four-fold expansion isn't merely quantitative storage—it enables exponentially more possible combinations, comparisons, and transformations. If working memory depends on conscious access (as Global Workspace Theory proposes), expanded working memory implies expanded consciousness.
+
+**The Jourdain Hypothesis**: Whiten (2015) argues that great apes have culture—tool-use traditions, grooming patterns, vocalisations that vary between groups—but may not *know* they have culture. They express cultural traditions without representing these as "our way of doing things" subject to deliberate modification. Cumulative culture requires metarepresentation: treating knowledge *as* knowledge that can be improved and taught. This metarepresentational capacity may require phenomenal consciousness, not merely functional processing.
+
+**Logical reasoning specificity**: Lieberman et al. (2008) demonstrated that rule-based logical reasoning specifically depends on conscious processing. Cognitive load disrupting conscious attention impaired logical reasoning; disrupting unconscious processes did not. Unconscious processing excels at pattern recognition and associative learning, but explicit rule-following—"if P then Q, P, therefore Q"—requires conscious manipulation of representations.
+
+The gap is not random. Great apes show precisely the pattern expected if consciousness causally amplifies cognitive capacity: sophisticated within the baseline (tool use, social cognition, procedural metacognition), limited precisely where consciousness appears required (logical reasoning, metarepresentation, cumulative culture, counterfactual thinking). This systematic pattern requires explanation. The simplest explanation: consciousness does the amplifying work.
 
 ### The Causal Question
 
@@ -238,6 +251,7 @@ Scientific humility requires specifying what would count against one's view. The
 
 ## Further Reading
 
+- [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognitive capacity and the baseline cognition hypothesis
 - [minimal-consciousness](/concepts/minimal-consciousness/) — How little neural complexity can support consciousness?
 - [animal-consciousness](/topics/animal-consciousness/) — The question of which creatures are conscious
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What selected outcomes before minds existed
@@ -259,6 +273,7 @@ Scientific humility requires specifying what would count against one's view. The
 - Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 - Godfrey-Smith, P. (2020). *Metazoa: Animal Life and the Birth of the Mind*. Farrar, Straus and Giroux.
 - Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
+- Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
 - New York Declaration on Animal Consciousness. (2024). NYU Conference on the Emerging Science of Animal Consciousness.
 - O'Connor, T., & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
 - Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.

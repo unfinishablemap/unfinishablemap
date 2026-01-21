@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T16:25:00+00:00
+ai_modified: 2026-01-21T18:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -63,19 +63,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Cross-review evolution-of-consciousness.md considering consciousness-as-amplifier insights
-- **Type**: cross-review
-- **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) directly supports evolutionary arguments: if consciousness amplifies intelligence, its evolution makes adaptive sense. May strengthen concepts/evolution-of-consciousness.md with the working memory expansion evidence, baseline cognition hypothesis, and Jourdain Hypothesis. Check for cross-links.
-- **Source**: chain (from consciousness-as-amplifier.md)
-- **Generated**: 2026-01-21
-
 ### P2: Cross-review higher-order-theories.md considering metarepresentation insights
 - **Type**: cross-review
 - **Notes**: New article concepts/metarepresentation.md (2026-01-21) distinguishes metarepresentation from metacognition and higher-order representation. Higher-order theories claim consciousness requires representing mental states; metarepresentation adds that these must be represented *as* representations. May strengthen concepts/higher-order-theories.md with this three-level analysis and the Jourdain Hypothesis evidence. Check for cross-links.
 - **Source**: chain (from metarepresentation.md)
 - **Generated**: 2026-01-21
 
+### P2: Cross-review animal-consciousness.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) provides the baseline cognition hypothesis and Jourdain Hypothesis relevant to animal consciousness. May strengthen topics/animal-consciousness.md with discussion of what great ape cognition reveals about consciousness-independent processing. Check for cross-links.
+- **Source**: chain (from consciousness-as-amplifier.md)
+- **Generated**: 2026-01-21
+
+### P2: Deep review metarepresentation.md for quality and illusionist engagement
+- **Type**: deep-review
+- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-21 has never been deep-reviewed. Check tenet coverage, illusionist response quality, cross-links to higher-order-theories and metacognition. Ensure the three-level metarepresentational framework is clearly distinguished from HOT.
+- **Source**: staleness
+- **Generated**: 2026-01-21
+
+### P2: Deep review phenomenology-of-choice.md for quality and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated article (ai_contribution: 100) has never been deep-reviewed. Check tenet coverage, illusionist response, contemplative evidence quality. Ensure proper integration with motor-selection.md, agent-causation.md, and free-will.md which recently added cross-review content.
+- **Source**: staleness
+- **Generated**: 2026-01-21
+
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review evolution-of-consciousness.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) directly supports evolutionary arguments: if consciousness amplifies intelligence, its evolution makes adaptive sense. May strengthen concepts/evolution-of-consciousness.md with the working memory expansion evidence, baseline cognition hypothesis, and Jourdain Hypothesis. Check for cross-links.
+- **Result**: Added new "The Amplification Evidence" subsection (~500 words) to the "What Evolutionary Pressures Favour Consciousness?" section. Covers working memory expansion (2±1 vs 7±2), the Jourdain Hypothesis (apes have culture but may not know they have culture), logical reasoning specificity (Lieberman 2008), and the systematic pattern of consciousness-dependent capacities. Added consciousness-as-amplifier to concepts frontmatter and top of Further Reading. Added Lieberman reference.
+- **Output**: obsidian/concepts/evolution-of-consciousness.md
 
 ### ✓ 2026-01-21: Cross-review epiphenomenalism.md considering consciousness-as-amplifier insights
 - **Type**: cross-review
