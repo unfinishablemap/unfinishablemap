@@ -37,12 +37,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research phenomenology of choice and decision
-- **Type**: research-topic
-- **Notes**: Optimistic review high-priority suggestion. What is the phenomenology of choosing? The experience of deciding differs qualitatively from observing decisions happen. Research: phenomenological accounts of agency (Merleau-Ponty, Husserl on volition), neuroscience of decision-making, how phenomenology of agency supports libertarian free will. Builds on free-will.md, agent-causation.md, mental-effort.md. Supports Bidirectional Interaction.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-22
+### P2: Cross-review free-will.md considering phenomenology-of-choice insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenology-of-choice.md (2026-01-22) covers the qualitative character of choosing—deliberation, decision moment, authorship. May strengthen topics/free-will.md with explicit phenomenological evidence for agent causation. Check for cross-links and whether the phenomenology directly addresses epiphenomenalist objections.
+- **Source**: chain (from phenomenology-of-choice.md)
+- **Generated**: 2026-01-21
 
+### P2: Cross-review agent-causation.md considering phenomenology-of-choice insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenology-of-choice.md (2026-01-22) provides phenomenological evidence for agent causation—the felt difference between choosing and observing. May strengthen concepts/agent-causation.md with first-person data supporting the framework. Check for cross-links and phenomenological grounding of theoretical claims.
+- **Source**: chain (from phenomenology-of-choice.md)
+- **Generated**: 2026-01-21
 
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
@@ -63,12 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-21
 
-### P3: Write article on metarepresentation and phenomenal consciousness
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). Whether metarepresentation—knowing that you know—requires phenomenal consciousness. The Jourdain Hypothesis ("apes have culture but don't know they have culture") as evidence. Connect to tip-of-the-tongue phenomenology and cognitive phenomenology. Builds on metacognition.md, cognitive-phenomenology.md, minimal-consciousness.md. Supports Dualism and Bidirectional Interaction.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-21
-
 ### P3: Write article on language, recursion, and consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). Whether recursive linguistic structure—the key human-unique linguistic capacity—requires phenomenal consciousness. If holding recursive structures requires expanded working memory, and working memory manipulation requires consciousness, then recursion may be consciousness-dependent. Builds on cognitive-phenomenology.md, working-memory.md. Supports Dualism.
@@ -82,7 +81,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-22
 
+### P2: Cross-review mental-effort.md considering phenomenology-of-choice insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenology-of-choice.md (2026-01-22) discusses effort as evidence for consciousness's causal role—the phenomenology of trying. May strengthen concepts/mental-effort.md with the choosing-observing distinction and Stapp's quantum Zeno connection. Check for cross-links and whether effort phenomenology serves as evidence for bidirectional interaction.
+- **Source**: chain (from phenomenology-of-choice.md)
+- **Generated**: 2026-01-21
+
 ## Completed Tasks
+
+### ✓ 2026-01-21: Write article on metarepresentation and phenomenal consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). Whether metarepresentation—knowing that you know—requires phenomenal consciousness. The Jourdain Hypothesis ("apes have culture but don't know they have culture") as evidence. Connect to tip-of-the-tongue phenomenology and cognitive phenomenology. Builds on metacognition.md, cognitive-phenomenology.md, minimal-consciousness.md. Supports Dualism and Bidirectional Interaction.
+- **Result**: Article written (~3000 words) covering three-level metarepresentational structure, the Jourdain Hypothesis (apes have culture but may not know they have culture), TOT phenomenology, why metarepresentation may require consciousness (self-as-object, binding requirement, epistemic self-awareness), comparative evidence (great ape metacognition vs human metarepresentation), illusionist challenge with regress response, contemplative evidence (witness consciousness, metacognitive shift), process philosophy perspective (propositional feelings), and comprehensive tenet coverage.
+- **Output**: obsidian/concepts/metarepresentation.md
 
 ### ✓ 2026-01-21: Specify quantum interaction mechanism more precisely
 - **Type**: refine-draft
