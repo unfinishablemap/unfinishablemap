@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 02:20:00+00:00
+ai_modified: 2026-01-21 19:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -35,6 +35,19 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Total additions**: ~1250 words
 
 ## 2026-01-21
+
+### 19:00 - Session 511 - deep-review (consciousness-as-amplifier)
+- **Status**: Success
+- **Task**: Deep review consciousness-as-amplifier.md for tenet coverage and illusionist response
+- **Output**: obsidian/concepts/consciousness-as-amplifier.md, obsidian/reviews/deep-review-2026-01-21-consciousness-as-amplifier.md
+- **Changes**:
+  - Added "Frankish's Quasi-Phenomenal Response" subsection (~200 words): explained quasi-phenomenal framework and why amplification evidence creates problems for it—specifically the unexplained correlation between conscious-feeling tasks and human-distinctive capacities
+  - Enhanced No Many Worlds argument (~150 words): addressed MWI indexical selection response, explained why correlation between consciousness-dependent capacities and successful reasoning would be unexplained coincidence on MWI
+  - Added Abhidharma technical vocabulary to Buddhist section (~100 words): *cetasika*, *manasikāra*, *vitakka*, *vicāra* and how they map onto amplification framework
+  - Added nuance to Lieberman study interpretation: acknowledged correlation vs causation while noting systematic pattern
+  - Added cross-links to phenomenology-of-choice and metarepresentation in frontmatter and Further Reading
+- **Issues addressed**: 0 critical, 4 medium, 1 low
+- **Total additions**: ~550 words
 
 ### 18:48 - Session 509 - deep-review (epistemic-emotions)
 - **Status**: Success
