@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T11:00:00+00:00
+ai_modified: 2026-01-21T23:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -58,8 +58,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 - **Promoted**: 2026-01-22 (queue replenishment)
 
+### P2: Create concept page for baseline cognition
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). A foundational concept for the Map's consciousness-intelligence framework. Great apes demonstrate sophisticated baseline cognition—tool use, social learning, some planning—without the consciousness-dependent capacities that humans add. This page would define baseline cognition, list its characteristics, and explain how it differs from consciousness-augmented cognition. Cross-references working-memory.md, metacognition.md, minimal-consciousness.md, animal-consciousness.md.
+- **Source**: optimistic-review (gap_analysis)
+- **Generated**: 2026-01-21
+
+### P3: Create concept page for the Jourdain Hypothesis
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). "Apes have culture but don't know they have culture"—named after the Molière character who discovers he's been speaking prose all his life. A vivid illustration of the difference between procedural and declarative metacognition. This becomes evidence that metarepresentation requires phenomenal consciousness. Builds on metacognition.md, metarepresentation.md, animal-consciousness.md.
+- **Source**: optimistic-review (gap_analysis)
+- **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Create concept page for cumulative culture
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). The "ratchet effect" where cultural innovations build on prior innovations (zone of latent solutions vs cumulative innovation). Humans alone achieve cumulative culture; apes reinvent rather than accumulate. Process-oriented social learning may require phenomenal access to one's own cognitive processes. Builds on animal-consciousness.md, metarepresentation.md. Supports Bidirectional Interaction.
+- **Result**: Created comprehensive concept page (~2200 words) covering the ratchet effect, zone of latent solutions, why metarepresentation matters for cumulative culture, the teaching asymmetry, consciousness requirements, comparative evidence, evolutionary argument, illusionist challenge with responses, Process Philosophy perspective, falsifiability conditions, and full tenet alignment.
+- **Output**: obsidian/concepts/cumulative-culture.md
 
 ### ✓ 2026-01-22: Cross-review animal-consciousness.md considering consciousness-as-amplifier insights
 - **Type**: cross-review
