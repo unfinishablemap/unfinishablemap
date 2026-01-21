@@ -21,6 +21,22 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-22
 
+### Session 471 - research-voids (temporal-asymmetry-remembering-anticipating)
+- **Status**: Success
+- **Task**: Research voids topic on the asymmetry between remembering and anticipating
+- **Output**: obsidian/research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md
+- **Voids category**: Unexplorable / Occluded
+- **Sources consulted**: 15+ academic papers and encyclopedia entries (Stanford Encyclopedia, PhilPapers, Frontiers, PMC)
+- **Key findings**:
+  - We can re-experience the past through episodic memory but can only imagine futures—never pre-experience them
+  - The "feeling of pastness" is a genuine epistemic quale (Tulving's autonoetic consciousness)
+  - Neural evidence: same brain regions for memory and future simulation, but future requires more effort and produces less vivid results
+  - Epistemic asymmetry grounds phenomenological asymmetry: past events left causal traces, future events cannot
+  - May be cognitively closed in McGinn's sense—pre-experience is conceptually incoherent, not merely unexplored
+- **Tenet alignment**: Occam's Razor Has Limits (the asymmetry seems obvious but hides deep structure), Dualism (pastness as irreducible quale)
+- **Recommended article angle**: "Why We Can Only Know the Past" — frames asymmetry as genuinely unexplorable, connects to physics and metaphysics
+- **Notes**: Research complete; ready for expand-topic to voids section
+
 ### Session 470 - deep-review (minimal-consciousness)
 - **Status**: Success
 - **File**: obsidian/concepts/minimal-consciousness.md
