@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-21T18:00:00+00:00'
-session_count: 458
+last_updated: '2026-01-22T00:30:00+00:00'
+session_count: 459
 last_runs:
   validate-all: '2026-01-19T20:15:00+00:00'
   pessimistic-review: '2026-01-21T01:00:00+00:00'
@@ -66,6 +66,14 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: cross-review (quantum-consciousness/quantum-binding-and-phenomenal-unity)
+  type: cross-review
+  date: 2026-01-22
+  outcome: success
+- task: expand-topic (memory-consolidation-sleep) - already consumed
+  type: expand-topic
+  date: 2026-01-22
+  outcome: success
 - task: expand-topic (lucid-dreaming-and-consciousness)
   type: expand-topic
   date: 2026-01-21
@@ -76,14 +84,6 @@ recent_tasks:
   outcome: success
 - task: deep-review (quantum-interpretations)
   type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (animal-consciousness/consciousness-in-simple-organisms)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: expand-topic (quantum-coherence-protection)
-  type: expand-topic
   date: 2026-01-21
   outcome: success
 - task: cross-review (meaning-of-life/eastern)

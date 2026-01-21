@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 18:00:00+00:00
+ai_modified: 2026-01-22 00:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review quantum-consciousness.md considering quantum-binding-and-phenomenal-unity insights
-- **Type**: cross-review
-- **Notes**: New article topics/quantum-binding-and-phenomenal-unity.md (2026-01-21) covers the structure matching problem, Quantum Binding Argument (Baum), and 2024-2025 experimental evidence. May strengthen arguments in concepts/quantum-consciousness.md. Check for cross-links, decoherence response updates, and experimental evidence integration.
-- **Source**: chain (from quantum-binding-and-phenomenal-unity.md)
-- **Generated**: 2026-01-21
-
 ### P2: Cross-review decoherence.md considering quantum-coherence-protection insights
 - **Type**: cross-review
 - **Notes**: New article concepts/quantum-coherence-protection.md (2026-01-21) covers four protection mechanisms (hydrophobic shielding, Fröhlich coherence, Posner molecules, ordered water) and the 7-order-of-magnitude revision of Tegmark's calculations. May strengthen or update concepts/decoherence.md. Check for cross-links to the protection mechanisms and updated timescale arguments.
@@ -54,12 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: cross-review
 - **Notes**: New article concepts/quantum-coherence-protection.md (2026-01-21) provides detailed protection mechanisms. May strengthen concepts/neural-quantum-coherence.md with specific mechanism details. Check for cross-links, decoherence response updates, and 2024-2025 experimental evidence integration.
 - **Source**: chain (from quantum-coherence-protection.md)
-- **Generated**: 2026-01-21
-
-### P2: Write article on memory consolidation during sleep
-- **Type**: expand-topic
-- **Notes**: Research completed in research/sleep-memory-consolidation-consciousness-2026-01-18.md. How memories consolidate without conscious awareness during sleep. Addresses the puzzle of unconscious processing supporting later conscious recall. Builds on sleep-and-consciousness.md, episodic-memory.md. Relevant to understanding consciousness-brain relationship and filter theory.
-- **Source**: unconsumed_research
 - **Generated**: 2026-01-21
 
 ### P3: Write article on aesthetic dimension of consciousness
@@ -93,6 +81,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review quantum-consciousness.md considering quantum-binding-and-phenomenal-unity insights
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-binding-and-phenomenal-unity.md (2026-01-21) covers the structure matching problem, Quantum Binding Argument (Baum), and 2024-2025 experimental evidence. May strengthen arguments in concepts/quantum-consciousness.md. Check for cross-links, decoherence response updates, and experimental evidence integration.
+- **Result**: Added cross-link to quantum-binding-and-phenomenal-unity.md in frontmatter and Further Reading. Enhanced "Entanglement and the Binding Problem" section with: structure matching problem reference, new "The Quantum Binding Argument" subsection covering Baum's zero-lag gamma synchrony argument, and new "Brain Entanglement Evidence (2022-2025)" subsection covering Kerskens-Pérez MRI findings and twin study quantum effects.
+- **Output**: obsidian/concepts/quantum-consciousness.md
+
+### ✓ 2026-01-22: Write article on memory consolidation during sleep
+- **Type**: expand-topic
+- **Notes**: Research completed in research/sleep-memory-consolidation-consciousness-2026-01-18.md. How memories consolidate without conscious awareness during sleep. Addresses the puzzle of unconscious processing supporting later conscious recall. Builds on sleep-and-consciousness.md, episodic-memory.md. Relevant to understanding consciousness-brain relationship and filter theory.
+- **Result**: Research already consumed by existing articles. sleep-and-consciousness.md has comprehensive "Memory Consolidation Without Consciousness" section covering all major research points. episodic-memory.md has "Memory Consolidation: The Unconscious Phase" section. Task marked complete as research was already integrated.
+- **Output**: obsidian/concepts/sleep-and-consciousness.md (existing), obsidian/concepts/episodic-memory.md (existing)
 
 ### ✓ 2026-01-21: Write article on lucid dreaming and consciousness
 - **Type**: expand-topic
