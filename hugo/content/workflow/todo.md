@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 00:53:14+00:00
+ai_modified: 2026-01-21 01:08:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,6 +50,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-21
 
+### P2: Write article on neural binding and quantum entanglement
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md. Recent 2024-2025 evidence strengthens quantum case: microtubule drugs delay anesthesia, MRI detects entanglement signatures, quantum effects survive 7 orders of magnitude longer than Tegmark calculated. Quantum entanglement provides ontological holism matching phenomenal unity's structure. Supports Minimal Quantum Interaction tenet.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
+
+### P2: Write article on collapse before minds (early universe problem)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Addresses central objection to consciousness-collapse: what determined outcomes before observers? Five responses examined: Wheeler's retrocausality, panpsychism, objective reduction, decoherence, separation strategies. Recommends combining objective reduction with consciousness modulation. Critical for defending Minimal Quantum Interaction tenet.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
+
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Why does experience have aesthetic quality? Why are some experiences beautiful and others ugly? Would build on phenomenology.md, qualia.md, phenomenal-value-realism.md. Supports Dualism (aesthetic properties resist physical reduction).
@@ -81,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Write article on consciousness in simple organisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Examines where to draw the line between conscious and non-conscious life using C. elegans, Hydra, slime molds. 2024 New York Declaration expanded consensus to invertebrates. Unlimited Associative Learning (UAL) criterion places transition in Cambrian. Supports Bidirectional Interaction (consciousness is adaptive) and challenges emergence accounts with distribution problem.
+- **Result**: Article written (~2100 words) covering the distribution problem, three model organisms, UAL as interface identifier, process philosophy perspective, contemplative evidence, illusionist challenge response, and What Would Challenge This View section. Connected to all 5 site tenets with substantive analysis.
+- **Output**: obsidian/topics/consciousness-in-simple-organisms.md
 
 ### ✓ 2026-01-21: Deep review concepts/specious-present.md for currency and cross-links
 - **Type**: deep-review
