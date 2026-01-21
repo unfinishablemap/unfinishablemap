@@ -21,6 +21,17 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-21
 
+### 01:30 - deep-review (voluntary-attention.md)
+- **Status**: Success
+- **File**: obsidian/concepts/voluntary-attention.md
+- **Previous review**: Never
+- **Critical issues addressed**: 3 (added Decoherence Challenge section, Illusionist Challenge section, What Would Challenge This View? section)
+- **Medium issues addressed**: 4 (added Process Philosophy Perspective, Contemplative Evidence section, expanded Relation to Site Perspective to all 5 tenets, expanded MWI response)
+- **Enhancements**: Regress argument against illusionism, introspective reliability defense, functional asymmetry point, samatha/witness-consciousness evidence, Whitehead's actual occasions and process haecceity framework, 5 falsifiability conditions
+- **Cross-links added**: 6 (illusionism, introspection, witness-consciousness, haecceity, decoherence, mental-causation)
+- **References added**: 5 (Tegmark 2000, Hagan et al. 2002, Tallis 2024, Whitehead 1929, corrected COGITATE citation)
+- **Output**: `reviews/deep-review-2026-01-21-voluntary-attention.md`
+
 ### 01:20 - expand-topic (quantum binding and phenomenal unity)
 - **Status**: Success
 - **Topic**: Quantum Binding and Phenomenal Unity
