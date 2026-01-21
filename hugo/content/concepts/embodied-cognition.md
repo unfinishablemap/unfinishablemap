@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-20 03:45:00+00:00
+ai_modified: 2026-01-22 11:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,12 +15,14 @@ concepts:
 - '[[brain-specialness]]'
 - '[[interface-locality]]'
 - '[[witness-consciousness]]'
+- '[[consciousness-as-amplifier]]'
+- '[[phenomenology-of-choice]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 03:45:00+00:00
+last_deep_review: 2026-01-22 11:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,7 +95,19 @@ The response: this explanation still requires that *something* does the seeming.
 
 Dennett might respond that the distinctions are representational: the brain represents itself as "effortfully attending" in one mode and "absorbed" in another, with different functional consequences. But this relocates rather than dissolves the problem. Why should representing oneself as effortfully attending *degrade* performance while representing oneself as absorbed does not? The functional difference tracks a phenomenological difference—the very distinction illusionism claims is empty.
 
+The eliminativist might push further: perhaps "absorbed" and "self-monitoring" are themselves folk psychological categories destined for elimination. Future neuroscience might replace these with purely neural-computational descriptions that don't reference phenomenology at all. But the choking literature *uses* these categories predictively—subjects told to focus on outcomes versus mechanics show different performance profiles. If the categories were merely folk artifacts with no referent, such manipulations shouldn't work systematically. The phenomenological vocabulary tracks something real about cognitive organization, even if that something eventually receives a different description.
+
 This phenomenological heritage is significant. Merleau-Ponty, like Husserl, treated lived experience as irreducible. He rejected both Cartesian dualism (mind as separate substance) and reductive materialism (mind as nothing but body). The lived body is a third term. This leaves space for property dualism even while rejecting substance dualism.
+
+### The Amplification Connection
+
+The [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) hypothesis illuminates the Dreyfus progression. If consciousness amplifies intelligence through flexible deployment, metacognitive monitoring, and working memory manipulation, skill acquisition involves learning *when* amplification helps and when it interferes.
+
+The novice requires constant amplification—conscious attention directing each movement, metacognitive monitoring checking each result. This is cognitively expensive but necessary when procedural systems haven't yet learned the patterns. The expert has trained procedural systems to handle execution; consciousness withdraws to meta-level oversight—monitoring for anomalies, ready to re-engage, but not micromanaging.
+
+Choking represents inappropriate amplification. The expert, under pressure, re-engages conscious monitoring at the execution level. But procedural systems optimised without such interference now receive it, like a driver who suddenly starts thinking about clutch mechanics. The amplification that helped the novice *hurts* the expert because it operates at the wrong level.
+
+This connects to the [phenomenology of choice](/concepts/phenomenology-of-choice/). The expert in flow isn't experiencing *less*—they're experiencing differently. The felt distinction between observing automatic action and effortfully directing each movement maps onto different relationships between consciousness and procedural systems. Both involve phenomenal consciousness; they differ in what consciousness is doing.
 
 ## The Extended Mind Debate
 
@@ -146,6 +160,20 @@ This perspective illuminates embodied skill. The expert's absorbed performance i
 
 Importantly, Whitehead's framework preserves what matters for dualism: experience as fundamental, not as emergent from non-experiential matter. The Map's [Dualism tenet](/tenets/#dualism) is compatible with process philosophy—both reject the claim that consciousness reduces to physical description. What process philosophy adds is a way of understanding embodiment without falling into either Cartesian separation or materialist reduction.
 
+## Buddhist Phenomenology of Embodied Skill
+
+Buddhist contemplative traditions provide detailed phenomenological analysis of the body-mind relationship that parallels and extends Western embodied cognition.
+
+The Pāli *nāmarūpa* (name-and-form) describes the psychophysical complex as an interdependent whole—neither pure mind nor pure matter. *Nāma* (mental phenomena) and *rūpa* (physical form) co-arise; neither can function without the other. This rejects both Cartesian separation and reductive collapse. The lived body of phenomenology corresponds to the *kāya* in contemplative practice—the body as experienced from within, distinct from the physical body (*rūpa-kāya*) as object.
+
+The *jhāna* (meditative absorption) literature maps skill acquisition phenomenologically. Early jhānas involve effortful direction of attention (*vitakka*, applied thought) and sustained evaluation (*vicāra*, sustained thought). As concentration deepens, these factors drop away—absorption becomes effortless, the meditator doesn't *apply* attention but *abides* in awareness. This parallels the Dreyfus progression from deliberate rule-following to absorbed expertise.
+
+Crucially, the advanced stages aren't unconscious. The *jhāna* factors change: *pīti* (rapture) and *sukha* (pleasure) give way to *upekkhā* (equanimity) and *ekaggatā* (one-pointedness). Phenomenal character transforms rather than disappears. Similarly, the absorbed pianist isn't experiencing nothing—they're experiencing a different mode of consciousness-body integration.
+
+The Theravāda analysis of *kāyagatāsati* (mindfulness of body) explicitly trains the transition between reflective and absorbed attention. The meditator learns to observe bodily sensations with detached attention, then to rest in non-interfering awareness. This is exactly the skill the choking literature suggests athletes need: the ability to maintain consciousness without disrupting automatised execution.
+
+Zen's *shikantaza* ("just sitting") represents the expert mode: no technique being applied, no steps being followed, yet alert presence throughout. The Zen master's *mushin* (no-mind) isn't absence of consciousness but consciousness without the self-interference that characterises effortful attention. The body acts; consciousness witnesses without grasping. This is the phenomenological state that choking disrupts—and that contemplative training protects.
+
 ## What Would Challenge This View?
 
 The compatibility between embodied cognition and dualism would be undermined if:
@@ -172,12 +200,18 @@ Embodied cognition's relationship to the Map's tenets requires careful analysis:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum)**: Embodied cognition is often presented as neutral on quantum mechanisms, but the connection runs deeper. The [attention-as-interface](/concepts/attention-as-interface/) model proposes that consciousness influences neural activity through the [quantum Zeno effect](/concepts/quantum-consciousness/#quantum-zeno-effect)—repeated observation holding selected patterns stable. The Dreyfus model's distinction between absorbed and reflective attention may map onto this: absorbed flow allows procedural systems to operate without Zeno stabilisation, while reflective self-monitoring activates the Zeno mechanism inappropriately on processes that work better without it. The body provides the quantum-sensitive substrate; embodied skill acquisition tunes which processes remain under conscious selection and which are delegated.
 
+This connection remains speculative. The timescales involved—quantum coherence at femtoseconds to microseconds, neural processes at milliseconds—present a challenge. However, the quantum Zeno effect operates cumulatively: many rapid "observations" can bias outcomes at slower timescales. And the phenomenological mapping—absorbed versus reflective attention correlating with different patterns of neural selection—holds regardless of whether the underlying mechanism is quantum or classical. The key point is that embodied cognition reveals *where* consciousness interfaces with motor systems; the exact nature of that interface remains open.
+
 **[No Many Worlds](/tenets/#no-mwi)**: The choking evidence gains force against Many-Worlds interpretations. If all branches occur, then every golf swing succeeds in some branch and fails in others—"choking" would just be indexical bad luck in branch selection. But the phenomenon's systematic structure—predictable by phenomenological variables, trainable through attention management—suggests genuine selection, not random branch assignment. That conscious attention systematically degrades automatised performance implies consciousness does something specific, not just passively experiences whichever branch it ends up in.
+
+The MWI defender might invoke "self-locating uncertainty": before the branch split, you genuinely don't know which branch you'll find yourself in afterward. The feeling of selection is just the epistemic transition from uncertainty to determinate experience. But this doesn't explain the *predictability* of choking. If outcomes were merely revealed rather than selected, why would attention management training reduce choking rates? Training would shift probability mass across branches—you'd be more likely to find yourself in a success branch—but this reintroduces a selection-like dynamic that MWI claims to eliminate. The training works because consciousness does something, not because it passively discovers where it ended up.
 
 The key point: embodied cognition challenges a specific historical position (Cartesian substance dualism) without refuting dualism as such. Showing that cognition is embodied doesn't show that consciousness is purely physical. The hard problem persists: explaining how bodily interaction produces subjective experience is just as difficult as explaining how brain computation does.
 
 ## Further Reading
 
+- [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognition, illuminating the Dreyfus progression
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The felt distinction between absorbed action and deliberate control
 - [phenomenology](/concepts/phenomenology/) — The philosophical tradition grounding embodied cognition
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The filter theory that can accommodate embodiment
 - [intentionality](/concepts/intentionality/) — Motor intentionality and the directedness of embodied action

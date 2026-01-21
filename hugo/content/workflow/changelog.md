@@ -22,6 +22,20 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-22
 
+### 11:00 - Session 521 - deep-review (embodied-cognition)
+- **Status**: Success
+- **Task**: Deep review embodied-cognition.md for quality and tenet coverage
+- **Output**: obsidian/concepts/embodied-cognition.md, obsidian/reviews/deep-review-2026-01-22-embodied-cognition.md
+- **Changes**:
+  - Added "The Amplification Connection" subsection (~300 words): integrated consciousness-as-amplifier hypothesis, explained inappropriate amplification in choking, connected to phenomenology-of-choice
+  - Added "Buddhist Phenomenology of Embodied Skill" section (~400 words): nāmarūpa analysis, jhāna progression parallels to Dreyfus model, kāyagatāsati training, Zen mushin and shikantaza
+  - Added timescale caveat to quantum mechanism section (~100 words): acknowledged speculative nature, noted cumulative Zeno effects
+  - Strengthened illusionism response (~100 words): addressed eliminativist rejection of phenomenological categories, noted predictive success of absorbed/self-monitoring distinction
+  - Strengthened No Many Worlds argument (~100 words): engaged self-locating uncertainty interpretation, explained why training effects undermine passive discovery view
+  - Added cross-links to consciousness-as-amplifier, phenomenology-of-choice in frontmatter and Further Reading
+- **Issues addressed**: 0 critical, 3 medium, 2 low
+- **Total additions**: ~1000 words
+
 ### 02:00 - Session 520 - deep-review (dreams-and-consciousness)
 - **Status**: Success
 - **Task**: Deep review dreams-and-consciousness.md for quality and cross-links

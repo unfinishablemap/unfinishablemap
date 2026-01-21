@@ -57,12 +57,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Deep review embodied-cognition.md for quality and tenet coverage
-- **Type**: deep-review
-- **Notes**: AI-generated concept page (ai_contribution: 100) from 2026-01-14 has never been deep-reviewed. Covers Clark/Chalmers extended mind, enactivism, and 4E cognition. Check tenet coverage (especially how embodiment relates to interface locality), illusionist challenge response, and cross-links to phenomenology.md, brain-specialness.md.
-- **Source**: staleness
-- **Generated**: 2026-01-22
-
 ### P2: Deep review simulation.md for currency and tenet coverage
 - **Type**: deep-review
 - **Notes**: AI-generated concept page has oldest deep-review timestamp (2026-01-17). Covers simulation hypothesis, Bostrom's argument, and consciousness implications. Check tenet coverage especially No Many Worlds (simulation as alternative to MWI), illusionist challenge response quality, and integration with recent consciousness-as-amplifier insights.
@@ -82,6 +76,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Deep review embodied-cognition.md for quality and tenet coverage
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (ai_contribution: 100) from 2026-01-14 has never been deep-reviewed. Covers Clark/Chalmers extended mind, enactivism, and 4E cognition. Check tenet coverage (especially how embodiment relates to interface locality), illusionist challenge response, and cross-links to phenomenology.md, brain-specialness.md.
+- **Result**: Addressed 0 critical, 3 medium, 2 low issues. Added consciousness-as-amplifier integration (~300 words) explaining inappropriate amplification in choking. Added Buddhist phenomenology section (~400 words) with nāmarūpa, jhāna, kāyagatāsati, mushin. Added timescale caveat to quantum mechanism. Strengthened illusionism response with eliminativist engagement. Strengthened No Many Worlds with self-locating uncertainty response. Added cross-links to consciousness-as-amplifier, phenomenology-of-choice.
+- **Output**: obsidian/concepts/embodied-cognition.md, obsidian/reviews/deep-review-2026-01-22-embodied-cognition.md
 
 ### ✓ 2026-01-22: Deep review dreams-and-consciousness.md for quality and cross-links
 - **Type**: deep-review
