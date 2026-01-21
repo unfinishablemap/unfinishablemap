@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-21T18:11:46+00:00
+ai_modified: 2026-01-21T18:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,22 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-21
+
+### 18:45 - Session 508 - deep-review (mind-brain-separation)
+- **Status**: Success
+- **Task**: Deep review mind-brain-separation.md for quality
+- **Output**: obsidian/concepts/mind-brain-separation.md, obsidian/reviews/deep-review-2026-01-21-mind-brain-separation.md
+- **Changes**:
+  - Added "The Illusionist Challenge" section (~500 words): engaged Frankish's quasi-phenomenal properties, regress problem analysis, zombie reformulation argument
+  - Added "Process Philosophy Perspective" section (~350 words): Whitehead's actual occasions, prehension, concrescence, how framework illuminates binding problem
+  - Added "What Would Challenge This View?" section (~300 words): 5 specific falsifiability conditions
+  - Expanded No Many Worlds argument (~150 words): phenomenology of choice supports genuine selection over branching
+  - Updated Bergson memory claim with modern engram research (~100 words): acknowledged optogenetic findings while noting engrams as retrieval keys
+  - Added phenomenology-of-choice connection to interface section (~100 words)
+  - Added cross-links to filter-theory, phenomenology-of-choice, motor-selection, illusionism, near-death-experiences
+- **Issues addressed**: 2 critical, 4 medium
+- **Total additions**: ~1500 words
+- **Commit**: 9485353
 
 ### 18:30 - Session 507 - deep-review (meditation-and-consciousness-modes)
 - **Status**: Success

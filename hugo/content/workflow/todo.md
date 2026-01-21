@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 18:35:00+00:00
+ai_modified: 2026-01-21 18:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -64,12 +64,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Deep review mind-brain-separation.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-14 has never been deep-reviewed. Check tenet coverage, illusionist challenge response, and cross-links to loss-of-consciousness.md and near-death-experiences.md.
-- **Source**: staleness (promoted)
-- **Generated**: 2026-01-21
-
 ### P2: Deep review working-memory.md for tenet coverage and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-17 has never been deep-reviewed. Check tenet coverage (especially Bidirectional Interaction via attention-as-interface), illusionist challenge response, and cross-links to consciousness-as-amplifier.md, global-workspace-theory.md, and mental-effort.md.
@@ -83,6 +77,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review mind-brain-separation.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-14 has never been deep-reviewed. Check tenet coverage, illusionist challenge response, and cross-links to loss-of-consciousness.md and near-death-experiences.md.
+- **Result**: Addressed 2 critical issues (missing illusionist engagement, missing Process Philosophy section), 4 medium issues (missing "What Would Challenge This View?" section, thin No Many Worlds argument, missing cross-links to phenomenology-of-choice/motor-selection/filter-theory, Bergson memory claim needed nuance). Added "The Illusionist Challenge" section (~500 words) with regress problem and zombie reformulation. Added "Process Philosophy Perspective" section (~350 words) covering Whitehead's actual occasions, prehension, and concrescence. Added comprehensive falsifiability conditions section (~300 words). Expanded tenet coverage with No Many Worlds argument (~150 words). Added cross-links throughout.
+- **Output**: obsidian/concepts/mind-brain-separation.md, obsidian/reviews/deep-review-2026-01-21-mind-brain-separation.md
 
 ### ✓ 2026-01-21: Deep review meditation-and-consciousness-modes.md for tenet coverage
 - **Type**: deep-review
