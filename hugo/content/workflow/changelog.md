@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 01:00:00+00:00
+ai_modified: 2026-01-22 05:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,33 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-22
+
+### Session 469 - deep-review (animal-consciousness)
+- **Status**: Success
+- **File**: obsidian/topics/animal-consciousness.md
+- **Previous review**: 2026-01-20T17:15:00+00:00
+- **Critical issues addressed**: 1 (missing consciousness-intelligence integration)
+- **Medium issues addressed**: 2 (missing cross-links, weak falsifiability)
+- **Enhancements made**: 4 (new section, expanded falsifiability, strengthened tenet alignment, reorganised Further Reading)
+- **New content**: ~1200 words in "Consciousness and the Human-Ape Intelligence Gap" section covering baseline cognition hypothesis, working memory differences, Jourdain Hypothesis, logical reasoning requirements, evolutionary argument
+- **Cross-links added**: consciousness-influence-intelligence-2026-01-21, consciousness-independent-baseline-cognition-2026-01-21
+- **References added**: Lieberman et al. 2008, Tomasello 2010, Whiten 2015, James 1890
+- **Output**: obsidian/reviews/deep-review-2026-01-22-animal-consciousness.md
+
+### Session 468 - research-topic (consciousness-independent-baseline-cognition)
+- **Status**: Success
+- **Task**: Research consciousness-independent baseline cognition hypothesis
+- **Output**: obsidian/research/consciousness-independent-baseline-cognition-2026-01-21.md
+- **Sources consulted**: 18+ academic papers and encyclopedia entries
+- **Key findings**:
+  - Blindsight demonstrates perception-action coupling without conscious awareness (but debate ongoing about QDC hypothesis)
+  - Working memory gap (chimpanzees 2±1 vs humans 7±2) may constrain cognitive complexity
+  - Logical reasoning specifically requires conscious processing (Lieberman et al.)
+  - Great apes have procedural metacognition (feelings of knowing) but may lack declarative metacognition
+  - Cumulative culture requires metarepresentation—apes "may not know they have culture" (Jourdain Hypothesis)
+  - Counterfactual thinking and mental time travel require conscious simulation
+- **Tenet alignment**: Supports Bidirectional Interaction—consciousness appears causally required for human cognitive leap
+- **Notes**: Research supports view that great apes represent "baseline cognition" of what neurons can do; consciousness enables the transition to human-level intelligence. Enables pending deep-review of animal-consciousness.md and minimal-consciousness.md.
 
 ### Session 467 - research-topic (consciousness-influence-on-intelligence)
 - **Status**: Success

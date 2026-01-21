@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-22T01:00:00+00:00
+ai_modified: 2026-01-22T05:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,18 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-22
+
+### Session 469 - deep-review (animal-consciousness)
+- **Status**: Success
+- **File**: obsidian/topics/animal-consciousness.md
+- **Previous review**: 2026-01-20T17:15:00+00:00
+- **Critical issues addressed**: 1 (missing consciousness-intelligence integration)
+- **Medium issues addressed**: 2 (missing cross-links, weak falsifiability)
+- **Enhancements made**: 4 (new section, expanded falsifiability, strengthened tenet alignment, reorganised Further Reading)
+- **New content**: ~1200 words in "Consciousness and the Human-Ape Intelligence Gap" section covering baseline cognition hypothesis, working memory differences, Jourdain Hypothesis, logical reasoning requirements, evolutionary argument
+- **Cross-links added**: consciousness-influence-intelligence-2026-01-21, consciousness-independent-baseline-cognition-2026-01-21
+- **References added**: Lieberman et al. 2008, Tomasello 2010, Whiten 2015, James 1890
+- **Output**: obsidian/reviews/deep-review-2026-01-22-animal-consciousness.md
 
 ### Session 468 - research-topic (consciousness-independent-baseline-cognition)
 - **Status**: Success

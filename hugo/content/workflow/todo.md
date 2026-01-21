@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 21:00:00+00:00
+ai_modified: 2026-01-22 05:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,19 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P0: Research consciousness-independent baseline cognition hypothesis
-- **Type**: research-topic
-- **Notes**: Research the hypothesis that consciousness and cognition may be more independent than typically assumed. Key idea: if consciousness were removed from humans (or never emerged), would cognitive capabilities resemble great apes—representing a "baseline" of what neurons can achieve without conscious contribution? This implies great apes may have sophisticated unconscious processing but limited/no consciousness, and the human intelligence leap required consciousness as a causal factor. Examine: evidence for dissociation between consciousness and cognition, what cognitive tasks require consciousness vs. can proceed unconsciously, blindsight and other dissociation cases, theoretical frameworks (Global Workspace, Higher-Order theories) on consciousness-cognition relationship. Strongly supports Bidirectional Interaction if consciousness is necessary for human-level intelligence.
-- **Source**: human_request
-- **Generated**: 2026-01-22
-
-### P1: Deep review animal-consciousness.md in light of consciousness-intelligence research
-- **Type**: deep-review
-- **Notes**: After completing P0 research on consciousness and intelligence, deep review obsidian/topics/animal-consciousness.md to integrate findings. Consider: great ape vs human consciousness differences, whether intelligence gaps suggest consciousness differences, how comparative cognition informs the consciousness-intelligence relationship. Cross-link to new research notes.
-- **Source**: human_request
-- **Generated**: 2026-01-22
-- **Depends on**: P0 research-consciousness-influence-on-intelligence
-
 ### P1: Deep review minimal-consciousness.md for consciousness-cognition independence
 - **Type**: deep-review
 - **Notes**: The current article links cognition to consciousness too strongly, whereas they may be more independent. Review in light of the "baseline cognition" hypothesis: if consciousness were removed from humans (or never evolved), capabilities might resemble great apes—representing what neurons can do on their own. Consider whether minimal consciousness should be framed as a threshold that enables certain cognitive leaps rather than as tightly coupled to cognitive ability. Cross-link to consciousness-intelligence research notes.
@@ -63,6 +50,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: The voids section (cognitive gaps, unchartable territories) currently has 6 articles. Research a new void to expand coverage. Consider: the experience of forgetting as it happens, the asymmetry between remembering and anticipating, why certain thoughts resist articulation, or the phenomenology of realizing one was wrong.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-21
+
+### P2: Optimistic review - consciousness as human-ape intelligence gap
+- **Type**: optimistic-review
+- **Notes**: Site-wide optimistic review through the lens of the consciousness-intelligence hypothesis: that consciousness may be the key factor explaining the order-of-magnitude intelligence gap between great apes and humans. Look for: expansion opportunities where this thesis could strengthen existing articles, new article ideas exploring consciousness as causal for human cognitive uniqueness, connections between existing content and this hypothesis. Consider how this perspective supports Bidirectional Interaction (consciousness causally contributes to intelligence) and challenges epiphenomenalism.
+- **Source**: human_request
+- **Generated**: 2026-01-22
+- **Depends on**: P0 research tasks on consciousness-intelligence
+
+### P2: Pessimistic review - consciousness as human-ape intelligence gap
+- **Type**: pessimistic-review
+- **Notes**: Site-wide pessimistic review through the lens of the consciousness-intelligence hypothesis. Critically examine: Are we conflating correlation with causation? Could the intelligence gap be explained by brain size, language, or social factors without invoking consciousness? What counterarguments exist (e.g., sophisticated unconscious processing in humans, tool use in non-conscious animals)? Identify logical gaps, unsupported claims, and potential objections that content adopting this thesis must address.
+- **Source**: human_request
+- **Generated**: 2026-01-22
+- **Depends on**: P0 research tasks on consciousness-intelligence
 
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
@@ -103,6 +104,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Deep review animal-consciousness.md in light of consciousness-intelligence research
+- **Type**: deep-review
+- **Notes**: After completing P0 research on consciousness and intelligence, deep review obsidian/topics/animal-consciousness.md to integrate findings. Consider: great ape vs human consciousness differences, whether intelligence gaps suggest consciousness differences, how comparative cognition informs the consciousness-intelligence relationship. Cross-link to new research notes.
+- **Result**: Added new section "Consciousness and the Human-Ape Intelligence Gap" (~1200 words) covering baseline cognition hypothesis, working memory differences (2±1 vs 7±2), Jourdain Hypothesis, logical reasoning requirements, counterfactual thinking, and the evolutionary argument strengthened. Added 2 new falsifiability conditions. Reorganised Further Reading. Updated Bidirectional Interaction tenet coverage.
+- **Output**: obsidian/topics/animal-consciousness.md, obsidian/reviews/deep-review-2026-01-22-animal-consciousness.md
+
+### ✓ 2026-01-21: Research consciousness-independent baseline cognition hypothesis
+- **Type**: research-topic
+- **Notes**: Research the hypothesis that consciousness and cognition may be more independent than typically assumed. Key idea: if consciousness were removed from humans (or never emerged), would cognitive capabilities resemble great apes—representing a "baseline" of what neurons can achieve without conscious contribution? This implies great apes may have sophisticated unconscious processing but limited/no consciousness, and the human intelligence leap required consciousness as a causal factor. Examine: evidence for dissociation between consciousness and cognition, what cognitive tasks require consciousness vs. can proceed unconsciously, blindsight and other dissociation cases, theoretical frameworks (Global Workspace, Higher-Order theories) on consciousness-cognition relationship. Strongly supports Bidirectional Interaction if consciousness is necessary for human-level intelligence.
+- **Result**: Comprehensive research completed covering blindsight evidence and the QDC debate, working memory differences (2±1 vs 7±2), Global Workspace Theory on conscious vs unconscious processing roles, evidence that logical reasoning requires consciousness, great ape metacognition limits (procedural vs declarative), the Jourdain Hypothesis (apes don't know they have culture), and requirements for cumulative culture and mental time travel.
+- **Output**: obsidian/research/consciousness-independent-baseline-cognition-2026-01-21.md
 
 ### ✓ 2026-01-21: Research consciousness influence on intelligence
 - **Type**: research-topic

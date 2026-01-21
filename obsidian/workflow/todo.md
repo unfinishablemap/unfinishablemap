@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T21:00:00+00:00
+ai_modified: 2026-01-22T05:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,13 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P1: Deep review animal-consciousness.md in light of consciousness-intelligence research
-- **Type**: deep-review
-- **Notes**: After completing P0 research on consciousness and intelligence, deep review obsidian/topics/animal-consciousness.md to integrate findings. Consider: great ape vs human consciousness differences, whether intelligence gaps suggest consciousness differences, how comparative cognition informs the consciousness-intelligence relationship. Cross-link to new research notes.
-- **Source**: human_request
-- **Generated**: 2026-01-22
-- **Depends on**: P0 research-consciousness-influence-on-intelligence
 
 ### P1: Deep review minimal-consciousness.md for consciousness-cognition independence
 - **Type**: deep-review
@@ -110,6 +103,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Deep review animal-consciousness.md in light of consciousness-intelligence research
+- **Type**: deep-review
+- **Notes**: After completing P0 research on consciousness and intelligence, deep review obsidian/topics/animal-consciousness.md to integrate findings. Consider: great ape vs human consciousness differences, whether intelligence gaps suggest consciousness differences, how comparative cognition informs the consciousness-intelligence relationship. Cross-link to new research notes.
+- **Result**: Added new section "Consciousness and the Human-Ape Intelligence Gap" (~1200 words) covering baseline cognition hypothesis, working memory differences (2±1 vs 7±2), Jourdain Hypothesis, logical reasoning requirements, counterfactual thinking, and the evolutionary argument strengthened. Added 2 new falsifiability conditions. Reorganised Further Reading. Updated Bidirectional Interaction tenet coverage.
+- **Output**: obsidian/topics/animal-consciousness.md, obsidian/reviews/deep-review-2026-01-22-animal-consciousness.md
 
 ### ✓ 2026-01-21: Research consciousness-independent baseline cognition hypothesis
 - **Type**: research-topic
