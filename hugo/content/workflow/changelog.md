@@ -22,6 +22,17 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-21
 
+### 01:30 - deep-review (psychophysical-coupling-law.md)
+- **Status**: Success
+- **File**: obsidian/concepts/psychophysical-coupling-law.md
+- **Previous review**: Never
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 6 (added Decoherence Challenge section, Illusionist Challenge section, Contemplative Evidence section, Process Philosophy Perspective section, What Would Challenge This View? section, expanded Relation to Site Perspective to all 5 tenets)
+- **Enhancements**: Three responses to decoherence objection, three responses to illusionism, phenomenology of attention from meditation, effort-selection mapping, Buddhist no-self complication, concrescence as selection framework, 5 falsifiability conditions
+- **Cross-links added**: 5 (decoherence, illusionism, introspection, witness-consciousness, mental-effort)
+- **References added**: 3 (Tegmark 2000, Hameroff & Penrose 2014, Whitehead 1929)
+- **Output**: `reviews/deep-review-2026-01-21-psychophysical-coupling-law.md`
+
 ### 01:30 - deep-review (voluntary-attention.md)
 - **Status**: Success
 - **File**: obsidian/concepts/voluntary-attention.md
