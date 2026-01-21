@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-22 06:00:00+00:00
+ai_modified: 2026-01-21 17:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,8 @@ concepts:
 - '[[introspection]]'
 - '[[decoherence]]'
 - '[[witness-consciousness]]'
+- '[[metarepresentation]]'
+- '[[consciousness-as-amplifier]]'
 created: 2026-01-19
 date: &id001 2026-01-20
 draft: false
@@ -111,6 +113,20 @@ If this baseline hypothesis is correct, key findings illuminate what consciousne
 **Logical reasoning**: Empirical research (Lieberman et al. 2008) demonstrates that rule-based logical reasoning specifically requires conscious processing. Cognitive load disrupting consciousness impairs reasoning; disrupting unconscious processes does not. Great apes can learn associations but cannot follow abstract logical rules—precisely the pattern expected if consciousness enables rule-following.
 
 **Metarepresentation**: Great apes have culture but may not *know* they have culture. The "Jourdain Hypothesis" (Whiten 2015) proposes that apes lack metarepresentations—knowing that they know, representing knowledge as knowledge. Cumulative culture requires this: modifying and transmitting practices as practices. Metarepresentation may depend on phenomenal consciousness, not merely functional states.
+
+### The Three-Level Framework
+
+The [metarepresentation literature](/concepts/metarepresentation/) distinguishes three nested levels of representation:
+
+1. **First-order representation**: Representing the world (e.g., knowing there's food nearby)
+2. **Second-order representation**: Representing your first-order representations (e.g., uncertainty monitoring, strategic information-seeking)
+3. **Metarepresentation proper**: Representing your representations *as* representations—knowing that your belief is a belief, that your knowledge could be wrong
+
+This distinction matters for minimal consciousness because organisms can exhibit second-order states without metarepresentation. *C. elegans* shows habituation and sensitisation—arguably second-order adjustments to its own states. But it shows no evidence of representing those adjustments *as* adjustments, as the kind of thing that could be examined or modified.
+
+The framework suggests minimal consciousness might suffice for second-order processing while full metarepresentation requires something more—the phenomenal "standing back" that allows representations to become objects of awareness. If so, the minimal consciousness threshold and the metarepresentational threshold are distinct. An organism might cross into genuine phenomenal experience while remaining unable to represent that experience as experience.
+
+This has ethical implications. If *C. elegans* has minimal consciousness—even without metarepresentation—it matters morally. The worm cannot know it suffers (that would require metarepresentation), but it might suffer nonetheless. The three-level framework clarifies what's at stake: moral consideration depends on consciousness, not on metarepresentation.
 
 ### Implications for Minimal Consciousness
 
@@ -227,6 +243,8 @@ The Map's perspective on minimal consciousness would be undermined if:
 ## Further Reading
 
 ### Core Concepts
+- [metarepresentation](/concepts/metarepresentation/) — Why representing representations may require consciousness, and how the three-level framework applies to minimal consciousness
+- [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The baseline cognition hypothesis and what consciousness adds to neural processing
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When did consciousness first emerge?
 - [animal-consciousness](/topics/animal-consciousness/) — Evidence for consciousness across species, including the human-ape intelligence gap
 - [panpsychism](/concepts/panpsychism/) — The view that consciousness is fundamental
