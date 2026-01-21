@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-20 17:30:00+00:00
+ai_modified: 2026-01-21 21:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,6 +29,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[sleep-memory-consolidation-consciousness-2026-01-18]]'
+- '[[lucid-dreaming-and-consciousness]]'
 title: Sleep and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -166,7 +167,7 @@ The interface framework offers an answer. Consciousness doesn't simply "happen" 
 
 ## Lucid Dreaming as Interface Reactivation
 
-[Lucid dreaming](/concepts/dreams-and-consciousness/#lucid-dreaming-a-distinct-state) demonstrates that the consciousness interface can reactivate during sleep through training. Prefrontal regions normally quiescent during REM come back online, restoring metacognitive awareness while preserving dream immersion.
+[Lucid dreaming](/topics/lucid-dreaming-and-consciousness/) demonstrates that the consciousness interface can reactivate during sleep through training—consciousness can voluntarily modulate its own mode of operation while the body sleeps, proving the brain-consciousness interface admits multiple stable configurations. Prefrontal regions normally quiescent during REM come back online, restoring metacognitive awareness while preserving dream immersion.
 
 The 2025 Demirel findings characterized lucid dreaming as a distinct consciousness state:
 - Beta/gamma resonance across cortical areas
@@ -264,6 +265,7 @@ The Map's interpretation of sleep and consciousness would face serious difficult
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and how sleep evidence bears on it
 - [introspection](/concepts/introspection/) — First-person access and its reliability across states
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer that may persist through sleep yoga
+- [lucid-dreaming-and-consciousness](/topics/lucid-dreaming-and-consciousness/) — Lucid dreaming as a distinct consciousness state
 - [decoherence](/concepts/decoherence/) — Quantum Zeno mechanism and sleep state transitions
 - [haecceity](/concepts/haecceity/) — Indexical identity through the sleep-wake gap
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Sleep within the broader taxonomy of ASCs

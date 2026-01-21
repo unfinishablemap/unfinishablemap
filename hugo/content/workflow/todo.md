@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 12:00:00+00:00
+ai_modified: 2026-01-21 21:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,28 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review sleep-and-consciousness.md considering lucid-dreaming insights
-- **Type**: cross-review
-- **Notes**: New article topics/lucid-dreaming-and-consciousness.md (2026-01-21) establishes lucid dreaming as a distinct state with unique neural signatures. May strengthen concepts/sleep-and-consciousness.md with lucid dreaming as evidence that consciousness can operate in multiple stable modes during sleep. Check for cross-links to lucid dreaming research, 2025 Demirel findings, and interface mode arguments.
-- **Source**: chain (from lucid-dreaming-and-consciousness.md)
-- **Generated**: 2026-01-21
-
-### P2: Write voids article on phenomenology of the edge
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-phenomenology-of-the-edge-2026-01-19.md. What happens experientially when consciousness approaches its own limits? Covers Metzinger's minimal phenomenal experience (2024), edge phenomenology, characteristic signatures (ineffability + noesis, epistemic openness, clarity vs confusion). Builds on mysterianism.md, witness-consciousness.md, altered-states-of-consciousness.md. Supports Dualism (consciousness operates in content-stripped mode) and Occam's Razor Has Limits.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-21
-
 ### P2: Research new topic for voids section
 - **Type**: research-topic
 - **Notes**: The voids section (cognitive gaps, unchartable territories) currently has 6 articles. Research a new void to expand coverage. Consider: the experience of forgetting as it happens, the asymmetry between remembering and anticipating, why certain thoughts resist articulation, or the phenomenology of realizing one was wrong.
 - **Source**: gap_analysis
-- **Generated**: 2026-01-21
-
-### P2: Write article on motor control and quantum Zeno
-- **Type**: expand-topic
-- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Motor control as second quantum Zeno domain parallel to attention-as-interface. The readiness potential debate, Libet-style timing studies applied to motor selection, why voluntary action resists mechanistic explanation. Extends free-will.md and consciousness-selecting-neural-patterns.md to motor domain. Supports Bidirectional Interaction and Minimal Quantum Interaction.
-- **Source**: unconsumed_research
 - **Generated**: 2026-01-21
 
 ### P3: Write article on aesthetic dimension of consciousness
@@ -93,6 +75,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review sleep-and-consciousness.md considering lucid-dreaming insights
+- **Type**: cross-review
+- **Notes**: New article topics/lucid-dreaming-and-consciousness.md (2026-01-21) establishes lucid dreaming as a distinct state with unique neural signatures. May strengthen concepts/sleep-and-consciousness.md with lucid dreaming as evidence that consciousness can operate in multiple stable modes during sleep. Check for cross-links to lucid dreaming research, 2025 Demirel findings, and interface mode arguments.
+- **Result**: Added [lucid-dreaming-and-consciousness](/topics/lucid-dreaming-and-consciousness/) to related_articles frontmatter. Updated "Lucid Dreaming as Interface Reactivation" section with wikilink to the new topic page and added "multiple stable configurations" framing. Added lucid-dreaming-and-consciousness to Further Reading.
+- **Output**: obsidian/concepts/sleep-and-consciousness.md
+
+### ✓ 2026-01-21: Write voids article on phenomenology of the edge
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-phenomenology-of-the-edge-2026-01-19.md. What happens experientially when consciousness approaches its own limits? Covers Metzinger's minimal phenomenal experience (2024), edge phenomenology, characteristic signatures (ineffability + noesis, epistemic openness, clarity vs confusion). Builds on mysterianism.md, witness-consciousness.md, altered-states-of-consciousness.md. Supports Dualism (consciousness operates in content-stripped mode) and Occam's Razor Has Limits.
+- **Result**: Research already consumed by existing article. obsidian/voids/phenomenology-of-the-edge.md (~2200 words) comprehensively covers all research points including edge-experience profile, zero-person perspective, dissolving-insight phenomenon, and connections to minimal consciousness. Task marked complete as research was already integrated.
+- **Output**: obsidian/voids/phenomenology-of-the-edge.md (existing)
+
+### ✓ 2026-01-21: Write article on motor control and quantum Zeno
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Motor control as second quantum Zeno domain parallel to attention-as-interface. The readiness potential debate, Libet-style timing studies applied to motor selection, why voluntary action resists mechanistic explanation. Extends free-will.md and consciousness-selecting-neural-patterns.md to motor domain. Supports Bidirectional Interaction and Minimal Quantum Interaction.
+- **Result**: Research already consumed by existing article. obsidian/concepts/motor-selection.md (~2600 words) comprehensively covers all research points including attention-motor parallel, Libet challenge dissolution (Schurger model), parietal dissociation (Desmurget), neural signatures of motor selection, and basal ganglia brake model. Task marked complete as research was already integrated.
+- **Output**: obsidian/concepts/motor-selection.md (existing)
 
 ### ✓ 2026-01-21: Cross-review metacognition.md considering lucid-dreaming insights
 - **Type**: cross-review
