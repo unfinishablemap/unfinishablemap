@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Deep review minimal-consciousness.md for consciousness-cognition independence
-- **Type**: deep-review
-- **Notes**: The current article links cognition to consciousness too strongly, whereas they may be more independent. Review in light of the "baseline cognition" hypothesis: if consciousness were removed from humans (or never evolved), capabilities might resemble great apes—representing what neurons can do on their own. Consider whether minimal consciousness should be framed as a threshold that enables certain cognitive leaps rather than as tightly coupled to cognitive ability. Cross-link to consciousness-intelligence research notes.
-- **Source**: human_request
-- **Generated**: 2026-01-22
-- **Depends on**: P0 research-consciousness-independent-baseline-cognition
-
 ### P1: Research new topic for voids section
 - **Type**: research-topic
 - **Notes**: The voids section (cognitive gaps, unchartable territories) currently has 6 articles. Research a new void to expand coverage. Consider: the experience of forgetting as it happens, the asymmetry between remembering and anticipating, why certain thoughts resist articulation, or the phenomenology of realizing one was wrong.
@@ -104,6 +97,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Deep review minimal-consciousness.md for consciousness-cognition independence
+- **Type**: deep-review
+- **Notes**: The current article links cognition to consciousness too strongly, whereas they may be more independent. Review in light of the "baseline cognition" hypothesis: if consciousness were removed from humans (or never evolved), capabilities might resemble great apes—representing what neurons can do on their own. Consider whether minimal consciousness should be framed as a threshold that enables certain cognitive leaps rather than as tightly coupled to cognitive ability. Cross-link to consciousness-intelligence research notes.
+- **Result**: Added new "Consciousness and Cognitive Capacity" section (~750 words) presenting baseline cognition hypothesis, working memory differences, logical reasoning requirements, metarepresentation, and implications for model organisms. Added "Contemplative Perspectives" section (~450 words) covering MPE, witness consciousness, and Buddhist aggregates. Expanded Bidirectional Interaction tenet. Reorganised Further Reading. Cross-linked to research notes.
+- **Output**: obsidian/concepts/minimal-consciousness.md, obsidian/reviews/deep-review-2026-01-22-minimal-consciousness.md
 
 ### ✓ 2026-01-22: Deep review animal-consciousness.md in light of consciousness-intelligence research
 - **Type**: deep-review

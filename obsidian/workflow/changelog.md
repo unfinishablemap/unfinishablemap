@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-22T05:00:00+00:00
+ai_modified: 2026-01-22T06:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,21 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-22
+
+### Session 470 - deep-review (minimal-consciousness)
+- **Status**: Success
+- **File**: obsidian/concepts/minimal-consciousness.md
+- **Previous review**: 2026-01-20T06:20:00+00:00
+- **Task context**: P1 task to review in light of consciousness-cognition independence research
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (tight cognition-consciousness linking, missing contemplative section, missing research cross-links, weak Bidirectional Interaction)
+- **Enhancements made**: 5 (new Consciousness and Cognitive Capacity section, new Contemplative Perspectives section, expanded Bidirectional Interaction, reorganised Further Reading, added references)
+- **New content**: ~1200 words across two new sections
+  - "Consciousness and Cognitive Capacity" covering baseline cognition hypothesis, working memory, logical reasoning, metarepresentation, implications for model organisms
+  - "Contemplative Perspectives" covering minimal phenomenal experience, witness consciousness, Buddhist aggregates
+- **Cross-links added**: consciousness-independent-baseline-cognition-2026-01-21, consciousness-influence-intelligence-2026-01-21, witness-consciousness
+- **References added**: Baars 1988, Lieberman et al. 2008, Metzinger 2024, Whiten 2015
+- **Output**: obsidian/reviews/deep-review-2026-01-22-minimal-consciousness.md
 
 ### Session 469 - deep-review (animal-consciousness)
 - **Status**: Success
