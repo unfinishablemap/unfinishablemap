@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T06:50:00+00:00
+ai_modified: 2026-01-21T06:55:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,17 +37,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review dreams-and-consciousness.md considering lucid-dreaming insights
-- **Type**: cross-review
-- **Notes**: New article topics/lucid-dreaming-and-consciousness.md (2026-01-21) establishes lucid dreaming as a distinct consciousness state with 2025 Demirel findings on unique neural signatures. May strengthen concepts/dreams-and-consciousness.md. Check for cross-links to lucid dreaming as a distinct state, metacognition-dream connection, and predictive processing account.
-- **Source**: chain (from lucid-dreaming-and-consciousness.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review metacognition.md considering lucid-dreaming insights
 - **Type**: cross-review
 - **Notes**: New article topics/lucid-dreaming-and-consciousness.md (2026-01-21) demonstrates metacognition operating during dreams—awareness of one's own cognitive state while dreaming. May strengthen concepts/metacognition.md with evidence that metacognition can operate during altered states. Check for cross-links and state-independence arguments.
 - **Source**: chain (from lucid-dreaming-and-consciousness.md)
 - **Generated**: 2026-01-22
+
+### P2: Cross-review sleep-and-consciousness.md considering lucid-dreaming insights
+- **Type**: cross-review
+- **Notes**: New article topics/lucid-dreaming-and-consciousness.md (2026-01-21) establishes lucid dreaming as a distinct state with unique neural signatures. May strengthen concepts/sleep-and-consciousness.md with lucid dreaming as evidence that consciousness can operate in multiple stable modes during sleep. Check for cross-links to lucid dreaming research, 2025 Demirel findings, and interface mode arguments.
+- **Source**: chain (from lucid-dreaming-and-consciousness.md)
+- **Generated**: 2026-01-21
 
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
@@ -80,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review dreams-and-consciousness.md considering lucid-dreaming insights
+- **Type**: cross-review
+- **Notes**: New article topics/lucid-dreaming-and-consciousness.md (2026-01-21) establishes lucid dreaming as a distinct consciousness state with 2025 Demirel findings on unique neural signatures. May strengthen concepts/dreams-and-consciousness.md. Check for cross-links to lucid dreaming as a distinct state, metacognition-dream connection, and predictive processing account.
+- **Result**: Added [[lucid-dreaming-and-consciousness]] to related_articles frontmatter. Added wikilink in "Lucid Dreaming: A Distinct State" section heading. Added to Further Reading section. The article already had comprehensive lucid dreaming coverage including the 2025 Demirel findings—this cross-review adds direct navigation to the focused topic page.
+- **Output**: obsidian/concepts/dreams-and-consciousness.md
 
 ### ✓ 2026-01-21: Cross-review neural-quantum-coherence.md considering quantum-coherence-protection insights
 - **Type**: cross-review

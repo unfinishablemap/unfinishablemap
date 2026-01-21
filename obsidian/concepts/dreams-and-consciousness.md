@@ -3,7 +3,7 @@ title: "Dreams and Consciousness"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-20T11:30:00+00:00
+ai_modified: 2026-01-21T07:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ concepts:
   - "[[decoherence]]"
 related_articles:
   - "[[tenets]]"
+  - "[[lucid-dreaming-and-consciousness]]"
   - "[[consciousness-dreams-2026-01-14]]"
   - "[[dreams-lucid-dreaming-consciousness-2026-01-18]]"
 ai_contribution: 100
@@ -130,7 +131,7 @@ The bottleneck also explains why dreams feel temporally extended. Signal-verifie
 
 ## Lucid Dreaming: A Distinct State
 
-The 2025 research from Demirel and colleagues at the Donders Center for Cognitive Neuroimaging established lucid dreaming as a genuinely distinct consciousness state—not a blend of waking and REM, but "the emergence of a stable third phase marked by recursive symbolic awareness."
+The 2025 research from Demirel and colleagues at the Donders Center for Cognitive Neuroimaging established [[lucid-dreaming-and-consciousness|lucid dreaming]] as a genuinely distinct consciousness state—not a blend of waking and REM, but "the emergence of a stable third phase marked by recursive symbolic awareness."
 
 This matters because it proves consciousness can stabilize novel operating modes. Ordinary waking and ordinary REM are not the only stable configurations; intermediate states are possible, and consciousness can learn to inhabit them through training.
 
@@ -294,6 +295,7 @@ The filter theory interpretation of dreams would face serious difficulties if:
 
 ## Further Reading
 
+- [[lucid-dreaming-and-consciousness]] — Dedicated treatment of lucid dreaming as distinct consciousness state
 - [[sleep-and-consciousness]] — The broader context of consciousness gradations during sleep
 - [[attention-as-interface]] — The interface hypothesis explaining dream states
 - [[filter-theory]] — The transmission model that dream evidence supports
