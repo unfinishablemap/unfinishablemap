@@ -3,7 +3,7 @@ title: "Philosophical Zombies"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-20T17:00:00+00:00
+ai_modified: 2026-01-21T12:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -141,15 +141,27 @@ Daniel Dennett proposes treating first-person reports as data about "how things 
 
 Dennett argues that our sense of having ineffable, intrinsic qualitative properties results from limitations in our cognitive access to our own states—we can't fully articulate what's happening, so we posit mysterious "qualia" to fill the gap. But this mysteriousness reflects our ignorance, not a genuine ontological category.
 
-### The Regress Objection
+### The Regress Objection and Frankish's Response
 
 Raymond Tallis argues that illusionism compounds rather than solves the problem. "Misrepresentation presupposes presentation"—to be under an illusion, something must experience the illusion. If the zombie makes reports about seeming to be conscious, what is doing the "seeming"?
 
-Either the seeming is itself phenomenal (in which case phenomenal consciousness hasn't been eliminated) or it's not (in which case we need to explain how non-phenomenal seeming produces universal conviction that consciousness exists). The second option generates infinite regress: the meta-seeming that we seem to be conscious must itself be explained.
+Keith Frankish offers a sophisticated response through his theory of "quasi-phenomenal properties." These are non-phenomenal physical properties that introspection *misrepresents* as phenomenal. Crucially, Frankish argues that the misrepresentation itself doesn't require phenomenal consciousness—it's a purely functional process. The system represents its own states as having qualitative properties, but this representing is information processing, not phenomenal experiencing.
+
+On this view, both humans and zombies would have quasi-phenomenal properties—the same neural states misrepresented as phenomenal. There would be no difference between us. The "seeming" that constitutes consciousness is entirely a matter of how the brain models itself, and this modelling can be captured functionally.
+
+### Why the Regress Objection Persists
+
+The Map maintains that Frankish's response doesn't fully escape the regress, for three reasons:
+
+**The specific character problem.** Frankish must explain why introspection represents *these particular* physical states as having *this specific* qualitative character. Why does the neural correlate of experiencing red produce representations *as of redness* rather than blueness or no quale at all? Calling the representation "functional" doesn't explain its specific content. The seeming-to-be-red has a character that needs accounting for, and "misrepresentation" relocates rather than dissolves this explanatory demand.
+
+**The conceivability survives.** If quasi-phenomenal properties are purely functional, we can still coherently conceive of a being with all the same functional representations—the same introspective "misrepresentations"—who nonetheless lacks whatever makes those representations *seem* some way. The zombie with identical quasi-phenomenal properties would make identical reports. But can we conceive of that zombie having its representations without there being anything it's like to have them? If we can, the conceivability argument regenerates at the level of the seeming itself. If we can't—if the functional representations necessarily generate genuine seeming—then something important has been conceded about the connection between function and experience.
+
+**Contemplative evidence.** Trained introspective attention typically refines phenomenal access rather than revealing it as empty. If the seeming of qualia were mere misrepresentation, we might expect careful scrutiny to dissolve it—as prolonged attention dissolves some cognitive illusions. Instead, contemplatives report increasingly subtle phenomenal distinctions. The seeming deepens under investigation, which better fits reality than illusion.
 
 ### Why Illusionism Strengthens the Zombie Argument
 
-Ironically, illusionism may strengthen rather than undermine the conceivability of zombies. If the illusionist grants that zombies would make the same reports, have the same functional states, and be "under the same illusion"—then what distinguishes us from zombies? The illusionist's answer is: nothing. We *are* zombies, just confused ones.
+Ironically, illusionism may strengthen rather than undermine the conceivability of zombies. If the illusionist grants that zombies would make the same reports, have the same functional states, have identical quasi-phenomenal properties, and be "under the same illusion"—then what distinguishes us from zombies? The illusionist's answer is: nothing. We *are* zombies, just confused ones.
 
 But this concedes the conceivability premise while denying the reality of what's conceived. The question then becomes: is our conviction that we're phenomenally conscious—a conviction shared by nearly all humans across cultures—better explained by systematic illusion or by actual phenomenal consciousness? The Unfinishable Map maintains that the reality of experience is more obvious than any premises used to deny it. See [[introspection]] for why phenomenal access is more reliable than illusionism allows.
 

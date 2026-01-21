@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T09:00:00+00:00
+ai_modified: 2026-01-21T12:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,11 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Strengthen illusionism responses across core articles
-- **Type**: refine-draft
-- **Notes**: Pessimistic review 2026-01-21 identified critical issue: the regress objection against illusionism is deployed but illusionist responses (Frankish's quasi-phenomenal properties) are not engaged. Target: qualia.md, philosophical-zombies.md, ai-consciousness.md. Engage specifically with Frankish's quasi-phenomenal seemings and show why they don't dissolve the regress.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-22
 
 ### P2: Specify quantum interaction mechanism more precisely
 - **Type**: refine-draft
@@ -94,6 +89,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Strengthen illusionism responses across core articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-21 identified critical issue: the regress objection against illusionism is deployed but illusionist responses (Frankish's quasi-phenomenal properties) are not engaged. Target: qualia.md, philosophical-zombies.md, ai-consciousness.md. Engage specifically with Frankish's quasi-phenomenal seemings and show why they don't dissolve the regress.
+- **Result**: Added substantial new sections engaging with Frankish's quasi-phenomenal properties in all three target articles. In qualia.md: added "Frankish's Quasi-Phenomenal Properties" subsection and "Why the Regress Objection Still Stands" with three arguments (explanatory relocation, zombie reformulation, phenomenology of seeming). In philosophical-zombies.md: expanded regress section to include Frankish's response and added "Why the Regress Objection Persists" with three counter-arguments. In ai-consciousness.md: restructured illusionism section to introduce quasi-phenomenal framework and explain why it doesn't help AI consciousness arguments.
+- **Output**: obsidian/concepts/qualia.md, obsidian/concepts/philosophical-zombies.md, obsidian/topics/ai-consciousness.md
 
 ### ✓ 2026-01-21: Deep review quantum-coherence-protection.md for currency and cross-links
 - **Type**: deep-review
