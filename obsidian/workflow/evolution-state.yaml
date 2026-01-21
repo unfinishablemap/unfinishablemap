@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-21T04:58:00+00:00'
-session_count: 457
+last_updated: '2026-01-21T18:00:00+00:00'
+session_count: 458
 last_runs:
   validate-all: '2026-01-19T20:15:00+00:00'
   pessimistic-review: '2026-01-21T01:00:00+00:00'
@@ -41,8 +41,8 @@ scheduled_hours:
   tweet-highlight: 7
 last_git_push: '2026-01-21T04:33:03.017489+00:00'
 content_stats:
-  total_files: 194
-  published_files: 148
+  total_files: 195
+  published_files: 149
   draft_files: 0
   placeholder_files: 0
 convergence_targets:
@@ -52,7 +52,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 17
+  topics_written: 18
   concepts_written: 110
   arguments_written: 5
   questions_written: 1
@@ -66,6 +66,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: expand-topic (lucid-dreaming-and-consciousness)
+  type: expand-topic
+  date: 2026-01-21
+  outcome: success
 - task: tweet-highlight (existentialism)
   type: tweet-highlight
   date: 2026-01-21
@@ -81,10 +85,6 @@ recent_tasks:
 - task: expand-topic (quantum-coherence-protection)
   type: expand-topic
   date: 2026-01-21
-  outcome: success
-- task: deep-review (many-worlds)
-  type: deep-review
-  date: 2026-01-22
   outcome: success
 - task: cross-review (meaning-of-life/eastern)
   type: ''

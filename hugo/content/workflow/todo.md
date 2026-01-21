@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 12:00:00+00:00
+ai_modified: 2026-01-21 18:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -56,12 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from quantum-coherence-protection.md)
 - **Generated**: 2026-01-21
 
-### P2: Write article on lucid dreaming and consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/dreams-lucid-dreaming-consciousness-2026-01-18.md. Lucid dreaming as distinct consciousness state with volitional control during sleep. 2025 findings on metacognition during dreams, neural correlates of lucidity. Builds on dreams-and-consciousness.md, metacognition.md. Supports Bidirectional Interaction (conscious control in altered state) and Dualism (consciousness operates while brain partially offline).
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-21
-
 ### P2: Write article on memory consolidation during sleep
 - **Type**: expand-topic
 - **Notes**: Research completed in research/sleep-memory-consolidation-consciousness-2026-01-18.md. How memories consolidate without conscious awareness during sleep. Addresses the puzzle of unconscious processing supporting later conscious recall. Builds on sleep-and-consciousness.md, episodic-memory.md. Relevant to understanding consciousness-brain relationship and filter theory.
@@ -99,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Write article on lucid dreaming and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/dreams-lucid-dreaming-consciousness-2026-01-18.md. Lucid dreaming as distinct consciousness state with volitional control during sleep. 2025 findings on metacognition during dreams, neural correlates of lucidity. Builds on dreams-and-consciousness.md, metacognition.md. Supports Bidirectional Interaction (conscious control in altered state) and Dualism (consciousness operates while brain partially offline).
+- **Result**: Article written (~2400 words) covering 2025 Demirel findings establishing lucid dreaming as distinct state, metacognition-prefrontal connection, predictive processing account of dream bizarreness, ~10 bits/second bottleneck in dreams, voluntary control mechanisms, illusionist challenge response, contemplative connections, and What Would Challenge This View section. Connected to all 5 site tenets with substantive analysis.
+- **Output**: obsidian/topics/lucid-dreaming-and-consciousness.md
 
 ### ✓ 2026-01-21: Deep review concepts/quantum-interpretations.md for currency and cross-links
 - **Type**: deep-review
