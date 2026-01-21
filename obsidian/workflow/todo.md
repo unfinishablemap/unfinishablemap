@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T15:54:00+00:00
+ai_modified: 2026-01-21T17:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -63,9 +63,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Cross-review minimal-consciousness.md considering metarepresentation insights
+### P2: Cross-review epiphenomenalism.md considering consciousness-as-amplifier insights
 - **Type**: cross-review
-- **Notes**: New article concepts/metarepresentation.md (2026-01-21) argues metarepresentation may require phenomenal consciousness. May strengthen concepts/minimal-consciousness.md by clarifying the minimal/metarepresentational distinction—even minimal consciousness may differ from metarepresentational consciousness. Check for cross-links and whether the consciousness-as-amplifier thesis applies to this distinction.
+- **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) provides the strongest argument against epiphenomenalism: consciousness amplifies intelligence, explaining the great ape-human gap. May strengthen concepts/epiphenomenalism.md with the evolutionary argument (consciousness couldn't have evolved if causally inert) and the baseline cognition hypothesis. Check for cross-links.
+- **Source**: chain (from consciousness-as-amplifier.md)
+- **Generated**: 2026-01-21
+
+### P2: Cross-review evolution-of-consciousness.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) directly supports evolutionary arguments: if consciousness amplifies intelligence, its evolution makes adaptive sense. May strengthen concepts/evolution-of-consciousness.md with the working memory expansion evidence, baseline cognition hypothesis, and Jourdain Hypothesis. Check for cross-links.
+- **Source**: chain (from consciousness-as-amplifier.md)
+- **Generated**: 2026-01-21
+
+### P2: Cross-review higher-order-theories.md considering metarepresentation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/metarepresentation.md (2026-01-21) distinguishes metarepresentation from metacognition and higher-order representation. Higher-order theories claim consciousness requires representing mental states; metarepresentation adds that these must be represented *as* representations. May strengthen concepts/higher-order-theories.md with this three-level analysis and the Jourdain Hypothesis evidence. Check for cross-links.
 - **Source**: chain (from metarepresentation.md)
 - **Generated**: 2026-01-21
 
@@ -76,6 +88,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review minimal-consciousness.md considering metarepresentation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/metarepresentation.md (2026-01-21) argues metarepresentation may require phenomenal consciousness. May strengthen concepts/minimal-consciousness.md by clarifying the minimal/metarepresentational distinction—even minimal consciousness may differ from metarepresentational consciousness. Check for cross-links and whether the consciousness-as-amplifier thesis applies to this distinction.
+- **Result**: Added new "The Three-Level Framework" subsection (~400 words) explaining the distinction between first-order, second-order, and metarepresentation proper. Clarified that organisms can have minimal consciousness (second-order processing) without metarepresentation, and that moral consideration depends on consciousness, not metarepresentation. Added metarepresentation and consciousness-as-amplifier to concepts frontmatter. Added both articles to Further Reading section.
+- **Output**: obsidian/concepts/minimal-consciousness.md
 
 ### ✓ 2026-01-21: Cross-review metacognition.md considering metarepresentation insights
 - **Type**: cross-review
