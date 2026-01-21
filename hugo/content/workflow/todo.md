@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 19:23:19+00:00
+ai_modified: 2026-01-21 21:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -58,12 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Deep review consciousness-in-simple-organisms.md for quality and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated topic page (ai_contribution: 100) has never been deep-reviewed. Covers UAL framework, C. elegans, Hydra, slime molds, and minimal neural requirements for consciousness. Check tenet coverage, illusionist challenge response quality, and cross-links to minimal-consciousness.md, animal-consciousness.md, neural-correlates-of-consciousness.md.
-- **Source**: staleness
-- **Generated**: 2026-01-22
-
 ### P2: Deep review autonoetic-consciousness.md for quality and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page (ai_contribution: 100) from 2026-01-17 has never been deep-reviewed. Covers Tulving's autonoetic awareness, mental time travel, and self-projection. Check tenet coverage (especially Process Philosophy perspective on temporal self-extension), illusionist challenge response, and cross-links to episodic-memory.md, temporal-consciousness.md, personal-identity.md.
@@ -83,6 +77,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review consciousness-in-simple-organisms.md for quality and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page (ai_contribution: 100) has never been deep-reviewed. Covers UAL framework, C. elegans, Hydra, slime molds, and minimal neural requirements for consciousness. Check tenet coverage, illusionist challenge response quality, and cross-links to minimal-consciousness.md, animal-consciousness.md, neural-correlates-of-consciousness.md.
+- **Result**: Addressed 0 critical, 4 medium issues. Expanded illusionist challenge section with Frankish's quasi-phenomenal framework, scaling problem, and zombie reformulation (~400 words). Strengthened No Many Worlds argument with haecceity and indexical identity (~150 words). Enhanced Buddhist contemplative section with vijñāna/prajñā distinction, jhāna phenomenology, and Abhidharma analysis (~350 words). Added cross-links to philosophical-zombies, consciousness-as-amplifier, phenomenology-of-choice.
+- **Output**: obsidian/topics/consciousness-in-simple-organisms.md, obsidian/reviews/deep-review-2026-01-21-consciousness-in-simple-organisms.md
 
 ### ✓ 2026-01-21: Deep review quantum-binding-and-phenomenal-unity.md for quality and cross-links
 - **Type**: deep-review
