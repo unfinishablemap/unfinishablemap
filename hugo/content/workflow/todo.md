@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 12:30:00+00:00
+ai_modified: 2026-01-21 15:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review free-will.md considering phenomenology-of-choice insights
-- **Type**: cross-review
-- **Notes**: New article concepts/phenomenology-of-choice.md (2026-01-22) covers the qualitative character of choosing—deliberation, decision moment, authorship. May strengthen topics/free-will.md with explicit phenomenological evidence for agent causation. Check for cross-links and whether the phenomenology directly addresses epiphenomenalist objections.
-- **Source**: chain (from phenomenology-of-choice.md)
-- **Generated**: 2026-01-21
 
 ### P2: Cross-review agent-causation.md considering phenomenology-of-choice insights
 - **Type**: cross-review
@@ -83,6 +77,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review free-will.md considering phenomenology-of-choice insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenology-of-choice.md (2026-01-22) covers the qualitative character of choosing—deliberation, decision moment, authorship. May strengthen topics/free-will.md with explicit phenomenological evidence for agent causation. Check for cross-links and whether the phenomenology directly addresses epiphenomenalist objections.
+- **Result**: Added phenomenology-of-choice to concepts frontmatter. Added cross-links in agent causation section (linking to experiential structure of choice) and witness mode section (linking to phenomenology of not-choosing). Added new subsection "Phenomenological Evidence Against Epiphenomenalism" (~250 words) explaining how the choosing-vs-observing distinction and contemplative evidence strengthen the case for genuine selection. Added to Further Reading.
+- **Output**: obsidian/topics/free-will.md
 
 ### ✓ 2026-01-22: Deep review lucid-dreaming-and-consciousness.md for currency and cross-links
 - **Type**: deep-review

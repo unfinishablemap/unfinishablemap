@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-22 10:30:00+00:00
+ai_modified: 2026-01-21 16:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -156,7 +156,7 @@ The Map's interpretation of lucid dreaming would face difficulty if:
 
 **Dualism**: Lucid dreaming supports the [Dualism](/tenets/#dualism) tenet by demonstrating that consciousness can add capacities (metacognition, voluntary control) to an ongoing conscious state (the dream). The dream was conscious before lucidity; becoming lucid adds something further—proof that consciousness isn't simply identical to whatever brain activity happens to be occurring.
 
-**Minimal Quantum Interaction**: The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness influences physical processes through minimal intervention in quantum outcomes. Dream control might operate through mechanisms analogous to the [quantum Zeno effect](/quantum-zeno-effect/)—sustained attention stabilising certain neural patterns against decoherence while allowing others to dissipate. The dreamer's intention to fly, for instance, would bias which of many possible dream-trajectories becomes actual, not by overriding neural activity but by selecting among genuinely indeterminate alternatives at quantum branching points. The incomplete reliability of dream control fits this model: consciousness influences outcomes within the margin quantum indeterminacy allows, but cannot override the brain's bulk classical dynamics. When dream-generating machinery has strong momentum toward one narrative, minimal quantum intervention may be insufficient to redirect it.
+**Minimal Quantum Interaction**: The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness influences physical processes through minimal intervention in quantum outcomes. Dream control might operate through mechanisms analogous to the [quantum Zeno effect](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp)—sustained attention stabilising certain neural patterns against decoherence while allowing others to dissipate. The dreamer's intention to fly, for instance, would bias which of many possible dream-trajectories becomes actual, not by overriding neural activity but by selecting among genuinely indeterminate alternatives at quantum branching points. The incomplete reliability of dream control fits this model: consciousness influences outcomes within the margin quantum indeterminacy allows, but cannot override the brain's bulk classical dynamics. When dream-generating machinery has strong momentum toward one narrative, minimal quantum intervention may be insufficient to redirect it.
 
 **Bidirectional Interaction**: The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet receives direct support. Lucid dreamers exert causal influence over dream content through intention. This influence is demonstrable: dreamers can execute pre-agreed actions (eye signal patterns) while remaining asleep. Consciousness during lucid dreams is not epiphenomenal observation but causal participation.
 
