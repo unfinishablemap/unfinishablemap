@@ -42,26 +42,12 @@
   [context.production.environment]
     HUGO_ENV = "production"
 
-# Headers for API section
-[[headers]]
-  for = "/api/*"
-  [headers.values]
-    Access-Control-Allow-Origin = "*"
-    Content-Type = "text/html; charset=utf-8"
-    X-Content-Type-Options = "nosniff"
-
 # JSON output headers
 [[headers]]
   for = "/*.json"
   [headers.values]
     Access-Control-Allow-Origin = "*"
     Content-Type = "application/json; charset=utf-8"
-
-# Redirects
-[[redirects]]
-  from = "/api"
-  to = "/api/"
-  status = 301
 
 # Custom 404
 [[redirects]]

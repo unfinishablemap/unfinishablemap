@@ -1,6 +1,6 @@
 # The Unfinishable Map
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bc29448a-9065-476b-9659-5d81f3b963c8/deploy-status)](https://app.netlify.com/projects/unfinishablemap/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/03578143-dfaf-49c4-9260-251969991cf4/deploy-status)](https://app.netlify.com/projects/unfinishablemap-1f4c672f/deploys)
 
 > **⚠️ Claude Code Permissions Warning**
 >
