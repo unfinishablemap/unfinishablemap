@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T09:55:00+00:00
+ai_modified: 2026-01-21T12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write voids article on temporal asymmetry of remembering and anticipating
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. We can re-experience the past through episodic memory but only imagine the future—never pre-experience it. This asymmetry may reveal something essential about consciousness: minds that access reality through causal traces can only directly know the past. Builds on temporal-consciousness.md, autonoetic-consciousness.md, episodic-memory.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-21
 
 ### P2: Cross-review binding-problem.md considering varieties-of-unity insights
 - **Type**: cross-review
@@ -99,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Write voids article on temporal asymmetry of remembering and anticipating
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. We can re-experience the past through episodic memory but only imagine the future—never pre-experience it. This asymmetry may reveal something essential about consciousness: minds that access reality through causal traces can only directly know the past. Builds on temporal-consciousness.md, autonoetic-consciousness.md, episodic-memory.md.
+- **Result**: Article written (~2800 words) covering the phenomenological difference (pastness quale vs absent futuricity), why pre-experience is impossible (informational, causal, phenomenological arguments), the void as conceptually incoherent rather than merely difficult, approaches to the edge (negative characterisation, comparative phenomenology, limiting cases), process philosophy perspective (Whitehead's prehension and potentiality), and comprehensive tenet coverage.
+- **Output**: obsidian/voids/temporal-asymmetry-remembering-anticipating.md
 
 ### ✓ 2026-01-21: Write voids article on phenomenology of error recognition
 - **Type**: expand-topic
