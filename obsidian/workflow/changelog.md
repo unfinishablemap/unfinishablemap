@@ -21,6 +21,28 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-21
 
+### 17:00 - Tenet Alignment Check (complete)
+- **Status**: Success
+- **Task**: Comprehensive check of all 133 content files (18 topics + 115 concepts) for alignment with 5 foundational tenets
+- **Output**: obsidian/reviews/tenet-check-2026-01-21.md (updated)
+- **Result**: All files pass. 0 errors, 0 warnings, 0 notes
+- **Key findings**:
+  - All topic and concept files support the dualist framework
+  - Opposing views (illusionism, materialism, MWI, functionalism, epiphenomenalism) are discussed but consistently critiqued
+  - Most substantive articles include explicit "Relation to Site Perspective" or "Relation to Site Tenets" sections
+  - Strong coverage of all 5 tenets across the collection
+  - Particularly well-aligned articles: inverted-qualia.md (addresses all 5 tenets explicitly), near-death-experiences.md (supports filter theory), epiphenomenalism.md (self-stultification argument)
+
+### 16:45 - Tenet Alignment Check (topics)
+- **Status**: Success
+- **Task**: Check all 18 files in obsidian/topics/ for alignment with 5 foundational tenets
+- **Output**: obsidian/reviews/tenet-check-2026-01-21.md
+- **Result**: All files pass. 0 errors, 0 warnings, 0 notes
+- **Key findings**:
+  - All topic files include explicit "Relation to Site Perspective" sections
+  - Opposing views (illusionism, materialism, MWI) are discussed but consistently critiqued
+  - Strong coverage of all 5 tenets across the collection
+
 ### 16:20 - Session 498 - deep-review (motor-selection)
 - **Status**: Success
 - **Task**: Deep review motor-selection.md and integrate quantum Zeno motor control research
