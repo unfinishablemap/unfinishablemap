@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T21:00:00+00:00
+ai_modified: 2026-01-21T21:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -57,12 +57,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Cross-review cognitive-phenomenology.md considering consciousness-and-mathematical-understanding insights
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-and-mathematical-understanding.md (2026-01-21) presents mathematical understanding as evidence for cognitive phenomenology—the "aha" moment, seeing necessity, understanding vs verification. May strengthen concepts/cognitive-phenomenology.md with this powerful case study. Check for cross-links.
-- **Source**: chain (from consciousness-and-mathematical-understanding.md)
-- **Generated**: 2026-01-21
-
 ### P2: Deep review quantum-binding-and-phenomenal-unity.md for quality and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated topic page (ai_contribution: 100) from 2026-01-21 has never been deep-reviewed. Covers Baum's quantum binding argument, zero-lag gamma synchrony, and 2022-2025 experimental evidence. Check tenet coverage (especially Process Philosophy perspective on concrescence and binding), illusionist challenge response, and cross-links to binding-problem.md, phenomenal-unity.md, neural-quantum-coherence.md.
@@ -76,6 +70,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review cognitive-phenomenology.md considering consciousness-and-mathematical-understanding insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-mathematical-understanding.md (2026-01-21) presents mathematical understanding as evidence for cognitive phenomenology—the "aha" moment, seeing necessity, understanding vs verification. May strengthen concepts/cognitive-phenomenology.md with this powerful case study. Check for cross-links.
+- **Result**: Added consciousness-and-mathematical-understanding to concepts frontmatter. Added new "The Mathematical Understanding Case" section (~500 words) covering the three phenomenal stages (verification → understanding → insight), success coupling between phenomenology and performance, and the Chinese Room extended to mathematics. Added cross-reference in Sudden Insight section to mathematical article. Added consciousness-and-mathematical-understanding to top of Further Reading.
+- **Output**: obsidian/concepts/cognitive-phenomenology.md
 
 ### ✓ 2026-01-21: Cross-review mysterianism.md considering consciousness-and-mathematical-understanding insights
 - **Type**: cross-review

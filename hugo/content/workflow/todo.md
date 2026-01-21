@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 21:00:00+00:00
+ai_modified: 2026-01-21 21:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -71,6 +71,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review cognitive-phenomenology.md considering consciousness-and-mathematical-understanding insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-mathematical-understanding.md (2026-01-21) presents mathematical understanding as evidence for cognitive phenomenology—the "aha" moment, seeing necessity, understanding vs verification. May strengthen concepts/cognitive-phenomenology.md with this powerful case study. Check for cross-links.
+- **Result**: Added consciousness-and-mathematical-understanding to concepts frontmatter. Added new "The Mathematical Understanding Case" section (~500 words) covering the three phenomenal stages (verification → understanding → insight), success coupling between phenomenology and performance, and the Chinese Room extended to mathematics. Added cross-reference in Sudden Insight section to mathematical article. Added consciousness-and-mathematical-understanding to top of Further Reading.
+- **Output**: obsidian/concepts/cognitive-phenomenology.md
+
+### ✓ 2026-01-21: Cross-review mysterianism.md considering consciousness-and-mathematical-understanding insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-mathematical-understanding.md (2026-01-21) covers Penrose's Gödelian argument and mathematical insight phenomenology. May strengthen concepts/mysterianism.md with mathematical evidence for cognitive closure—if mathematical understanding transcends computation, this supports mysterian claims about explanatory limits. Check for cross-links and whether the phenomenology of mathematical insight provides new arguments for mysterianism.
+- **Result**: Added consciousness-and-mathematical-understanding to concepts frontmatter. Added new "Mathematical Understanding and Cognitive Closure" section (~350 words) explaining how Penrose's Gödelian argument supports mysterianism in two ways: (1) evidence for non-computational capacities in mathematical insight, and (2) the regress showing even successful understanding perpetually exceeds formalisation. Added consciousness-and-mathematical-understanding to top of Further Reading.
+- **Output**: obsidian/concepts/mysterianism.md
 
 ### ✓ 2026-01-21: Write article on consciousness and mathematical understanding
 - **Type**: expand-topic

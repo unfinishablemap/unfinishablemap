@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-21 12:15:00+00:00
+ai_modified: 2026-01-21 21:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,6 +16,7 @@ concepts:
 - '[[decoherence]]'
 - '[[haecceity]]'
 - '[[epistemic-emotions]]'
+- '[[consciousness-and-mathematical-understanding]]'
 created: 2026-01-16
 date: &id001 2026-01-20
 draft: false
@@ -62,9 +63,43 @@ Hearing the word "bank" and understanding it as a financial institution versus a
 
 Charles Siewert discusses "aha" moments—sudden realizations, remembering where you left your keys. The insight seems to have phenomenal character that precedes any accompanying imagery or emotional response. The sensory states (if any) occur *after* the cognitive event.
 
+[Mathematical insight](/topics/consciousness-and-mathematical-understanding/) provides the paradigm case: mathematicians report sudden solutions arriving fully formed, often after periods of unconscious processing. Henri Poincaré described mathematical breakthroughs appearing while boarding buses or waking from sleep—ideas being "given" rather than calculated. The phenomenal character of mathematical insight is widely attested and notably distinct from mechanical verification.
+
 ### Expert Perception
 
 Susanna Siegel argues experts perceive differently than novices. An ornithologist seeing a bird species has a different phenomenal experience than a non-expert seeing the same bird—despite identical sensory stimulation. The cognitive difference (conceptual knowledge) produces phenomenal difference.
+
+## The Mathematical Understanding Case
+
+[Mathematical understanding](/topics/consciousness-and-mathematical-understanding/) provides uniquely compelling evidence for cognitive phenomenology because the phenomenal stages are so clearly delineated.
+
+### Three Phenomenal Stages
+
+When you work through a mathematical proof, three distinct phenomenal stages can be identified:
+
+**Verification**: Checking each step follows from previous steps. This stage could plausibly be mechanical—pattern matching, rule application. The phenomenology is one of tracking: "yes, this follows, that follows."
+
+**Understanding**: Grasping *why* the proof works. The logical necessity becomes visible. Often this involves seeing the proof as a whole rather than step-by-step—understanding how the pieces fit together. The phenomenology shifts to one of *seeing*: the necessity reveals itself.
+
+**Insight**: In creative mathematics, understanding sometimes arrives suddenly—the "aha" moment when a solution appears. Mathematicians describe this as discovery rather than construction, as if the truth was *there* and they found it. The phenomenology is of *receiving* or *encountering*.
+
+Each stage has distinctive phenomenal character. The transition from mechanical verification to genuine understanding is phenomenally marked—you can usually tell when you've crossed it. And the difference cannot be sensory: the same symbols on the page, the same inner speech rehearsing the steps, yet the experience is qualitatively different.
+
+### Success Coupling
+
+Mathematical understanding exhibits tight coupling between phenomenology and performance. When people report having genuinely understood a proof, they typically can:
+- Apply the insight to related problems
+- Extend the proof to new cases
+- Detect errors in similar arguments
+- Explain the proof to others without rote repetition
+
+This coupling is significant. If the apparent phenomenal difference between verifying and understanding were introspective confabulation—a merely functional difference misrepresented as phenomenal—we would not expect it to track genuine cognitive achievement so reliably. The phenomenology of understanding predicts success in ways the phenomenology of mere verification does not.
+
+### The Chinese Room Extended
+
+John Searle's Chinese Room has a mathematical extension that sharpens the cognitive phenomenology point. Imagine someone following Peano arithmetic rules to derive theorems. They produce true mathematical statements—but do they understand mathematics? They derive "2+2=4" without grasping *why* two and two make four.
+
+This extends to proof-checking systems. A computer can verify that a proof is valid—confirming each step follows the rules—without understanding what makes it work. Verification without understanding is possible precisely because understanding involves something beyond symbol manipulation: the cognitive phenomenology that makes necessity *visible*.
 
 ## Arguments Against Cognitive Phenomenology
 
@@ -301,6 +336,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 
 ## Further Reading
 
+- [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) — Mathematical insight as paradigm case for cognitive phenomenology
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Curiosity, doubt, certainty, and other feelings about knowing
 - [semantic-memory](/concepts/semantic-memory/) — TOT/FOK phenomenology and noetic consciousness
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — The contrast between remembering and knowing
