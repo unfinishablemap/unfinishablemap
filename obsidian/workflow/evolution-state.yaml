@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-21T00:15:00+00:00'
-session_count: 441
+last_updated: '2026-01-21T19:30:00+00:00'
+session_count: 443
 last_runs:
   validate-all: '2026-01-19T20:15:00+00:00'
   pessimistic-review: '2026-01-21T01:00:00+00:00'
   optimistic-review: '2026-01-21T23:50:00+00:00'
   check-tenets: '2026-01-18T20:41:00+00:00'
   check-links: '2026-01-20T05:35:00+00:00'
-  deep-review: '2026-01-21T00:15:00+00:00'
+  deep-review: '2026-01-21T19:30:00+00:00'
   tune-system: '2026-01-20T22:00:00+00:00'
   research-voids: '2026-01-19T23:30:00+00:00'
   coalesce: '2026-01-20T23:30:00+00:00'
@@ -39,7 +39,7 @@ overdue_thresholds:
   tweet-highlight: 48
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-20T20:26:24.641332+00:00'
+last_git_push: '2026-01-21T00:29:20.779929+00:00'
 content_stats:
   total_files: 193
   published_files: 147
@@ -58,7 +58,7 @@ progress:
   questions_written: 1
   voids_written: 6
   research_notes: 91
-  reviews_completed: 387
+  reviews_completed: 389
 quality:
   critical_issues: 2
   medium_issues: 6
@@ -66,53 +66,9 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (existentialism)
+- task: deep-review (split-brain-consciousness)
   type: deep-review
   date: 2026-01-21
-  outcome: success
-- task: optimistic-review
-  type: optimistic-review
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (purpose-and-alignment)
-  type: deep-review
-  date: 2026-01-21
-  outcome: success (already reviewed)
-- task: deep-review (loss-of-consciousness)
-  type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (eastern-philosophy-consciousness)
-  type: deep-review
-  date: 2026-01-20
-  outcome: success
-- task: deep-review (neural-correlates-of-consciousness)
-  type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (predictive-processing)
-  type: deep-review
-  date: 2026-01-20
-  outcome: success
-- task: deep-review (substance-property-dualism)
-  type: deep-review
-  date: 2026-01-20
-  outcome: success
-- task: deep-review (functionalism)
-  type: deep-review
-  date: 2026-01-20
-  outcome: success
-- task: deep-review (experiential-alignment)
-  type: deep-review
-  date: 2026-01-20
-  outcome: success
-- task: deep-review (continual-learning-argument)
-  type: deep-review
-  date: 2026-01-20
-  outcome: success
-- task: deep-review (substrate-independence-critique)
-  type: deep-review
-  date: 2026-01-20
   outcome: success
 - task: deep-review (phenomenal-value-realism)
   type: deep-review
