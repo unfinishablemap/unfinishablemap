@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 09:55:00+00:00
+ai_modified: 2026-01-21 10:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,16 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-22
+
+### Session 479 - cross-review (binding-problem/varieties-of-unity)
+- **Status**: Success
+- **Task**: Cross-review binding-problem.md considering varieties-of-unity insights
+- **Output**: obsidian/concepts/binding-problem.md
+- **Changes**:
+  - Added clarification that binding addresses specifically synchronic unity
+  - Added cross-link to varieties-of-unity.md for diachronic and subject unity
+  - Added varieties-of-unity to frontmatter concepts and Further Reading
+- **Key insight**: The varieties-of-unity article positions binding as one type of unity among several, strengthening the binding-problem article's framing
 
 ### Session 477 - expand-topic (phenomenology-of-error-recognition)
 - **Status**: Success

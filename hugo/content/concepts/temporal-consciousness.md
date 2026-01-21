@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-18 16:00:00+00:00
+ai_modified: 2026-01-21 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,6 +28,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[temporal-structure-consciousness-2026-01-14]]'
+- '[[temporal-asymmetry-remembering-anticipating]]'
 title: Temporal Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -82,6 +83,8 @@ While the specious present captures temporal consciousness within a brief window
 
 When you remember your wedding or imagine your retirement, you don't merely access information about those times. You *inhabit* them from a first-person perspective. There's a phenomenal quality of *being there then*—you're simultaneously here now remembering and there then experiencing. This "double presence of self" creates a bridge across temporal distances far exceeding the specious present.
 
+Yet this inhabitation is asymmetric. Memory carries what De Brigard calls the "feeling of pastness"—a genuine epistemic quale that marks the event as having-happened, not inferred from content but immediately present in the experience. Future simulation lacks any equivalent "feeling of futuricity" with comparable phenomenal weight. We construct possible futures; we contact the actual past. This [asymmetry between remembering and anticipating](/voids/temporal-asymmetry-remembering-anticipating/) may reveal something fundamental about consciousness: minds embedded in causal webs can access reality only through traces that past events leave. The future, having caused nothing yet, provides no traces to contact.
+
 The connection to temporal consciousness is threefold:
 
 **The specious present grounds mental time travel.** You can re-experience the past because the past exists phenomenally—retention gives you purchase on what's just-past, and autonoetic memory extends this to the distant past. Without the specious present's basic structure of past-echoing-in-present, mental time travel would lack its anchor.
@@ -100,7 +103,7 @@ The "extended present" that emerges from working memory research encompasses not
 
 Prospective memory's distinctive phenomenology includes:
 
-**Futuricity**: Just as remembered events carry a felt sense of pastness (a temporal quale marking them as having occurred), imagined future events carry what might be called futuricity—the phenomenal marker of projected possibility. The modal status differs: memories represent what happened; future simulations represent what might happen.
+**Futuricity**: Just as remembered events carry a felt sense of pastness (a temporal quale marking them as having occurred), imagined future events carry what might be called futuricity—the phenomenal marker of projected possibility. The modal status differs: memories represent what happened; future simulations represent what might happen. Crucially, the pastness quale marks causal contact with actual events; futuricity marks only projection toward possibilities. See [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) for analysis of why this asymmetry may be conceptually necessary rather than merely contingent.
 
 **The "pop" phenomenon**: Intentions formed earlier spontaneously enter awareness when triggered by contextual cues. You're walking home thinking about something else, and suddenly "buy milk" appears. Consciousness bookends the process—conscious intention formation, conscious retrieval—while something unconscious bridges the temporal gap.
 
@@ -229,6 +232,7 @@ The temporal argument strengthens the case that consciousness requires something
 
 - [specious-present](/concepts/specious-present/) — Dedicated treatment of the experienced duration of the present moment
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporal self
+- [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why we can re-experience the past but only imagine the future
 - [prospective-memory](/concepts/prospective-memory/) — Futureward projection and intention formation
 - [personal-identity](/topics/personal-identity/) — How temporal selfhood constitutes who you are
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series, presentism, eternalism, and the Map's growing block position

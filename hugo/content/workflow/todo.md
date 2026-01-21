@@ -75,6 +75,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-21
 
+### P2: Cross-review metacognition.md considering error-recognition insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/phenomenology-of-error-recognition.md (2026-01-21) explores error-blindness and the bootstrap problem of self-correction. May strengthen concepts/metacognition.md with discussion of limits to metacognitive monitoring—we cannot perceive our current errors. Check for cross-links and Schulz's error-blindness concept.
+- **Source**: chain (from phenomenology-of-error-recognition.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review introspection.md considering error-recognition insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/phenomenology-of-error-recognition.md (2026-01-21) explores the bootstrap problem—using cognition to check cognition. May strengthen concepts/introspection.md with analysis of why introspection cannot detect its own systematic errors. The Dunning-Kruger structure applies to introspective competence.
+- **Source**: chain (from phenomenology-of-error-recognition.md)
+- **Generated**: 2026-01-22
+
 ### P2: Deep review quantum-coherence-protection.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: Recently written article (ai_contribution: 100), never deep-reviewed. Covers four protection mechanisms for neural quantum coherence. Check for cross-links to decoherence.md, neural-quantum-coherence.md, quantum-biology.md. May need illusionist challenge section strengthening and process philosophy connections.
@@ -88,6 +100,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review temporal-consciousness.md considering temporal-asymmetry insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/temporal-asymmetry-remembering-anticipating.md (2026-01-21) explores the phenomenological asymmetry between remembering and anticipating. May strengthen concepts/temporal-consciousness.md with discussion of why we can re-experience the past but only imagine the future. Check for cross-links to the voids article and pastness/futuricity phenomenology.
+- **Result**: Added temporal-asymmetry-remembering-anticipating to related_articles frontmatter. Added new paragraph in "Mental Time Travel and the Extended Self" section explaining the asymmetric inhabitation—memory's pastness quale vs future simulation's construction—with cross-link to voids article and reference to De Brigard's "feeling of pastness" research. Enhanced "Futuricity" subsection with cross-link explaining why the asymmetry is conceptually necessary. Added voids article to Further Reading.
+- **Output**: obsidian/concepts/temporal-consciousness.md
 
 ### ✓ 2026-01-21: Cross-review binding-problem.md considering varieties-of-unity insights
 - **Type**: cross-review
