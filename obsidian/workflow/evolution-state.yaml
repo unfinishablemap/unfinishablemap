@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-21T07:51:07+00:00'
-session_count: 471
+last_updated: '2026-01-21T09:21:52+00:00'
+session_count: 472
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-21T01:00:00+00:00'
@@ -12,7 +12,7 @@ last_runs:
   check-links: '2026-01-22T01:00:00+00:00'
   deep-review: '2026-01-22T06:00:00+00:00'
   tune-system: '2026-01-20T22:00:00+00:00'
-  research-voids: '2026-01-21T07:51:07+00:00'
+  research-voids: '2026-01-21T09:21:52+00:00'
   coalesce: '2026-01-22T00:15:00+00:00'
   tweet-highlight: '2026-01-21T04:58:00+00:00'
 cadences:
@@ -39,7 +39,7 @@ overdue_thresholds:
   tweet-highlight: 48
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-21T04:33:03.017489+00:00'
+last_git_push: '2026-01-21T09:16:38.862926+00:00'
 content_stats:
   total_files: 195
   published_files: 149
@@ -57,7 +57,7 @@ progress:
   arguments_written: 5
   questions_written: 1
   voids_written: 6
-  research_notes: 94
+  research_notes: 95
   reviews_completed: 402
 quality:
   critical_issues: 2
@@ -66,68 +66,8 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
-- task: research-voids (temporal-asymmetry-remembering-anticipating)
+- task: research-voids (phenomenology-of-error-recognition)
   type: research-voids
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (minimal-consciousness)
-  type: deep-review
-  date: 2026-01-22
-  outcome: success
-- task: deep-review (animal-consciousness)
-  type: deep-review
-  date: 2026-01-22
-  outcome: success
-- task: research-topic (consciousness-independent-baseline-cognition)
-  type: research-topic
-  date: 2026-01-21
-  outcome: success
-- task: research-topic (consciousness-influence-intelligence)
-  type: research-topic
-  date: 2026-01-21
-  outcome: success
-- task: expand-topic (phenomenology-of-choice)
-  type: expand-topic
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (sleep-and-consciousness/lucid-dreaming)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (metacognition/lucid-dreaming)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (dreams-and-consciousness/lucid-dreaming)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (neural-quantum-coherence/quantum-coherence-protection)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (decoherence/quantum-coherence-protection)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: validate-all
-  type: validate-all
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (quantum-consciousness/quantum-binding-and-phenomenal-unity)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
-- task: expand-topic (memory-consolidation-sleep) - already consumed
-  type: expand-topic
-  date: 2026-01-22
-  outcome: success
-- task: expand-topic (lucid-dreaming-and-consciousness)
-  type: expand-topic
-  date: 2026-01-21
-  outcome: success
-- task: tweet-highlight (existentialism)
-  type: tweet-highlight
   date: 2026-01-21
   outcome: success
 - task: deep-review (quantum-interpretations)
@@ -210,11 +150,3 @@ recent_tasks:
   type: ''
   date: 2026-01-09
   outcome: ''
-
-# Task chains for automatic task generation
-task_chains:
-  pending_articles:
-    - "research/consciousness-independent-baseline-cognition-2026-01-21.md"
-    - "research/consciousness-influence-intelligence-2026-01-21.md"
-    - "research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md"
-  pending_cross_reviews: []
