@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T12:00:00+00:00
+ai_modified: 2026-01-21T10:10:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review binding-problem.md considering varieties-of-unity insights
-- **Type**: cross-review
-- **Notes**: New article concepts/varieties-of-unity.md (2026-01-21) positions binding as specifically synchronic unity—one variety among several. May strengthen concepts/binding-problem.md by clarifying that binding addresses feature integration but not diachronic or subject unity. Check for cross-links and conceptual clarification opportunities.
-- **Source**: chain (from varieties-of-unity.md)
-- **Generated**: 2026-01-21
 
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
@@ -93,6 +87,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review binding-problem.md considering varieties-of-unity insights
+- **Type**: cross-review
+- **Notes**: New article concepts/varieties-of-unity.md (2026-01-21) positions binding as specifically synchronic unity—one variety among several. May strengthen concepts/binding-problem.md by clarifying that binding addresses feature integration but not diachronic or subject unity. Check for cross-links and conceptual clarification opportunities.
+- **Result**: Added clarification in opening section that binding addresses specifically synchronic unity, with cross-link to varieties-of-unity.md for diachronic and subject unity. Added varieties-of-unity to frontmatter concepts and Further Reading section.
+- **Output**: obsidian/concepts/binding-problem.md
 
 ### ✓ 2026-01-21: Write voids article on temporal asymmetry of remembering and anticipating
 - **Type**: expand-topic

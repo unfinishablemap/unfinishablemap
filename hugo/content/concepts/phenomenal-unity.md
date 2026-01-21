@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-20 00:32:00+00:00
+ai_modified: 2026-01-21 09:46:14+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,7 @@ concepts:
 - '[[emergence]]'
 - '[[downward-causation]]'
 - '[[agent-causation]]'
+- '[[varieties-of-unity]]'
 created: 2026-01-19
 date: &id001 2026-01-20
 draft: false
@@ -36,7 +37,7 @@ Phenomenal unity is the fact that conscious experiences come as integrated whole
 
 ## The Phenomenon
 
-Phenomenal unity refers to the way conscious contents are bound together in experience. It has several dimensions:
+Phenomenal unity refers to the way conscious contents are bound together in experience. It has several dimensions (see [varieties-of-unity](/concepts/varieties-of-unity/) for detailed analysis):
 
 **Synchronic unity**: At any moment, all your experiences belong to one consciousness. Visual perception, auditory sensation, emotional feeling, and cognitive thought are unified rather than isolated. There is something it is like to have *all of them together*.
 
@@ -44,7 +45,7 @@ Phenomenal unity refers to the way conscious contents are bound together in expe
 
 **Subject unity**: All experiences are had by a single subject—by *you*. There is no experience that belongs to no one. The unity of the experiencer is prior to and presupposed by the unity of experiences.
 
-These dimensions are conceptually separable but phenomenologically intertwined. Normal waking consciousness exhibits all three simultaneously.
+These dimensions are conceptually separable but phenomenologically intertwined. Normal waking consciousness exhibits all three simultaneously. Crucially, evidence suggests they can dissociate: split-brain patients may retain subject unity while losing some synchronic unity; dreamless sleep eliminates diachronic flow while (arguably) preserving subject unity; dissociative disorders disrupt ownership without affecting perceptual binding. This dissociability suggests that "phenomenal unity" may not be one problem but several—possibly requiring different explanations.
 
 ## Why Unity Is Puzzling
 
@@ -208,6 +209,7 @@ Phenomenal unity illuminates why the Map's [tenets](/tenets/) take the positions
 
 ## Further Reading
 
+- [varieties-of-unity](/concepts/varieties-of-unity/) — Taxonomy of synchronic, diachronic, and subject unity with evidence for dissociation
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge to explaining unity
 - [emergence](/concepts/emergence/) — Phenomenal unity as paradigm case of strong emergence
 - [binding-problem](/concepts/binding-problem/) — The neural challenge of feature binding
