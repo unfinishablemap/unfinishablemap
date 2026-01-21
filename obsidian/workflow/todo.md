@@ -57,12 +57,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Deep review simulation.md for currency and tenet coverage
-- **Type**: deep-review
-- **Notes**: AI-generated concept page has oldest deep-review timestamp (2026-01-17). Covers simulation hypothesis, Bostrom's argument, and consciousness implications. Check tenet coverage especially No Many Worlds (simulation as alternative to MWI), illusionist challenge response quality, and integration with recent consciousness-as-amplifier insights.
-- **Source**: staleness
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review metacognition.md considering consciousness-as-amplifier insights
 - **Type**: cross-review
 - **Notes**: The consciousness-as-amplifier article (2026-01-21) argues that metacognition is a consciousness-dependent capacity enabling the human cognitive leap. The metacognition.md article should be strengthened with this evidence: Jourdain Hypothesis (apes have culture but may not know they have culture), working memory expansion enabling metacognitive monitoring, and the amplification thesis.
@@ -76,6 +70,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review simulation.md for currency and tenet coverage
+- **Type**: deep-review
+- **Notes**: AI-generated concept page has oldest deep-review timestamp (2026-01-17). Covers simulation hypothesis, Bostrom's argument, and consciousness implications. Check tenet coverage especially No Many Worlds (simulation as alternative to MWI), illusionist challenge response quality, and integration with recent consciousness-as-amplifier insights.
+- **Result**: Addressed 2 critical issues (missing falsifiability section, missing illusionist engagement), 5 medium issues. Added "The Illusionist Challenge" section (~400 words) with Frankish's quasi-phenomenal framework and zombie reformulation. Added "Process Philosophy Perspective" section (~400 words) covering simulated prehension and concrescence. Added "Buddhist Contemplative Perspective" (~350 words) with māyā, Yogācāra, śūnyatā analysis. Added "What Would Challenge This View?" section (~350 words) with five falsifiability conditions. Expanded No Many Worlds argument (~200 words) with MWI defense engagement and haecceity connection. Added timescale caveat to quantum mechanism. Revised predictions table for accuracy.
+- **Output**: obsidian/concepts/simulation.md, obsidian/reviews/deep-review-2026-01-21-simulation.md
 
 ### ✓ 2026-01-22: Deep review embodied-cognition.md for quality and tenet coverage
 - **Type**: deep-review
