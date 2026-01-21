@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-20 12:45:00+00:00
+ai_modified: 2026-01-21 15:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,6 +20,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[decoherence]]'
 - '[[haecceity]]'
+- '[[phenomenology-of-choice]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -97,6 +98,26 @@ The [expanded interface hypothesis](/concepts/attention-as-interface/#why-attent
 **Emotion provides reasons, attention executes.** Fear signals danger, but deciding how to respond requires attending to options and selecting among them. Emotional valence influences *what* attention selects but doesn't bypass attention to produce action directly.
 
 This phenomenological localization matches the quantum Zeno mechanism: rapid observation to hold patterns stable should feel like work because it *is* work. The cost appears precisely where the repeated observations occur—at attention.
+
+### Choosing vs Observing: The Core Distinction
+
+The [phenomenology of choice](/concepts/phenomenology-of-choice/) sharpens the effort analysis by clarifying what kind of experience effort phenomenology tracks. The fundamental distinction is between *active* and *passive* phenomenology:
+
+| Feature | Observation | Choice |
+|---------|-------------|--------|
+| Effort | None | Present (varying degrees) |
+| Temporal orientation | Receptive | Directive |
+| Counterfactual status | Fixed at arrival | Open until selection |
+| Authorship | Absent | Present |
+
+When observing a coin flip, you experience the outcome as *happening to* you—no sense of effort, no feeling that you determined which face landed up. When choosing between options, the experience is different: you participate in determining the outcome. The selection feels like something you *do*, not something that happens.
+
+This choosing-observing distinction extends to a three-level agency structure:
+1. **Selecting** among options—the paradigm case of effortful engagement
+2. **Refraining** from selection—active non-choosing, maintaining openness against the pull toward resolution
+3. **Meta-choosing**—deciding *whether* to enter selecting mode at all
+
+Each level has distinctive phenomenology, and each involves effort when consciously undertaken. The phenomenology of effort thus marks something richer than simple selection—it tracks consciousness's multi-level capacity to engage with or withhold from the selection process.
 
 ### The Unified Interface View
 
@@ -385,6 +406,7 @@ The Map doesn't commit to Stapp's specific proposal over other quantum conscious
 
 ## Further Reading
 
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The choosing-observing distinction and three-level agency structure
 - [attention](/concepts/attention/) — The attention-consciousness dissociation and why it matters for effort
 - [voluntary-attention](/concepts/voluntary-attention/) — The willed/instructed distinction and neural signatures of genuine choice
 - [attention-as-interface](/concepts/attention-as-interface/) — Formalises attention as the interface layer between consciousness and neural systems

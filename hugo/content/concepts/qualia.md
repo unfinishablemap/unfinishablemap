@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-20 09:35:00+00:00
+ai_modified: 2026-01-21 12:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -153,7 +153,23 @@ The [materialist](/arguments/materialism/) faces a dilemma:
 
 [Illusionism](/concepts/illusionism/) represents the most radical physicalist strategy against qualia. Keith Frankish and Daniel Dennett argue that qualia—the intrinsic, private, ineffable properties described above—do not actually exist. We *seem* to have experiences with these properties, but this seeming is itself a misrepresentation. There are no phenomenal properties, only representations *as if* there were.
 
-This trades the hard problem for an "illusion problem": explaining why the illusion of qualia is so compelling. But critics note that all illusions presuppose experience. To be under an illusion, something must be experiencing the illusion. Raymond Tallis argues this makes illusionism incoherent—invoking experience to deny experience.
+This trades the hard problem for an "illusion problem": explaining why the illusion of qualia is so compelling. Critics deploy a regress objection: all illusions presuppose experience—to be under an illusion, something must be experiencing the illusion. Raymond Tallis argues this makes illusionism incoherent—invoking experience to deny experience.
+
+#### Frankish's Quasi-Phenomenal Properties
+
+Frankish responds with his theory of "quasi-phenomenal properties." These are non-phenomenal physical properties—perhaps complex, functionally characterised states—that introspection *misrepresents* as phenomenal. When you seem to experience the redness of red, what's actually happening is that your introspective mechanisms represent certain neural states as having intrinsic qualitative properties. But this representation is itself just functional information processing, not a phenomenal experience of an illusion.
+
+The key move: Frankish denies that "seeming" requires phenomenal properties. A system can represent-as-qualitative without there being a "what it's like" to the representing. The introspective misrepresentation that generates the illusion is itself purely functional—a matter of how the brain models its own states—not a phenomenal seeming that would regenerate the hard problem.
+
+#### Why the Regress Objection Still Stands
+
+The Map maintains the regress objection succeeds despite Frankish's response, for three reasons:
+
+**The explanatory relocation problem.** Frankish's quasi-phenomenal properties are whatever introspection misrepresents as phenomenal. But this relocates rather than dissolves the puzzle. *Why* does introspection represent these particular physical states as having the specific qualitative character they seem to have? Why does quasi-phenomenal redness produce representations *as of* redness rather than blueness or no colour at all? The seeming-to-be-red has a specific character that needs explaining, and calling it "misrepresentation" doesn't make that character less puzzling.
+
+**The zombie reformulation.** If Frankish's account is correct, [zombies](/concepts/philosophical-zombies/) would have identical quasi-phenomenal properties and identical introspective misrepresentations. They would make the same reports about qualia and be "under the same illusion." But here the conceivability argument resurfaces: we can coherently conceive of a being with all these functional representations who nonetheless lacks the seeming itself. The question isn't whether the *representation of qualia* exists—it's whether the *seeming* that the representation purportedly generates can itself be non-phenomenal. When I seem to see red, is there genuinely nothing it's like to have that seeming? If there is, phenomenal consciousness hasn't been eliminated.
+
+**The phenomenology of seeming.** Contemplative traditions report that introspective training refines and deepens phenomenal access rather than dissolving it. If quasi-phenomenal properties were mere misrepresentations, we might expect careful attention to reveal their emptiness—as prolonged inspection reveals optical illusions to be illusions. Instead, trained introspection reveals increasingly subtle phenomenal distinctions. The seeming persists and deepens under scrutiny, which better fits its being real than illusory.
 
 Galen Strawson called illusionism "the silliest claim ever made" in philosophy. The existence of experience seems undeniable even if its *contents* might be illusory. A phenomenal experience need not be *veridical* to exist. The belief that I'm seeing a pink elephant may be mistaken, but not that I'm having *some* experience.
 

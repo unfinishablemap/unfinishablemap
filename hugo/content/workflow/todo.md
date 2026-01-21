@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 18:00:00+00:00
+ai_modified: 2026-01-21 15:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -64,12 +64,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Cross-review mental-effort.md considering phenomenology-of-choice insights
-- **Type**: cross-review
-- **Notes**: New article concepts/phenomenology-of-choice.md (2026-01-22) discusses effort as evidence for consciousness's causal role—the phenomenology of trying. May strengthen concepts/mental-effort.md with the choosing-observing distinction and Stapp's quantum Zeno connection. Check for cross-links and whether effort phenomenology serves as evidence for bidirectional interaction.
-- **Source**: chain (from phenomenology-of-choice.md)
-- **Generated**: 2026-01-21
-
 ### P2: Cross-review metacognition.md considering metarepresentation insights
 - **Type**: cross-review
 - **Notes**: New article concepts/metarepresentation.md (2026-01-21) distinguishes metacognition from metarepresentation—knowing-that-you-know requires representing representations *as* representations. May strengthen concepts/metacognition.md with this three-level analysis and the Jourdain Hypothesis (apes may have metacognition without metarepresentation). Check for cross-links and conceptual refinement.
@@ -89,6 +83,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review mental-effort.md considering phenomenology-of-choice insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenology-of-choice.md (2026-01-22) discusses effort as evidence for consciousness's causal role—the phenomenology of trying. May strengthen concepts/mental-effort.md with the choosing-observing distinction and Stapp's quantum Zeno connection. Check for cross-links and whether effort phenomenology serves as evidence for bidirectional interaction.
+- **Result**: Added phenomenology-of-choice to concepts frontmatter. Added new "Choosing vs Observing: The Core Distinction" subsection (~300 words) with choosing/observing comparison table, explanation of active vs passive phenomenology, and three-level agency structure (selecting, refraining, meta-choosing). Added phenomenology-of-choice to top of Further Reading.
+- **Output**: obsidian/concepts/mental-effort.md
 
 ### ✓ 2026-01-21: Cross-review agent-causation.md considering phenomenology-of-choice insights
 - **Type**: cross-review

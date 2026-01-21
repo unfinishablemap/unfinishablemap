@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-20 10:00:00+00:00
+ai_modified: 2026-01-21 18:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,6 +20,7 @@ concepts:
 - '[[pairing-problem]]'
 - '[[downward-causation]]'
 - '[[mental-causation]]'
+- '[[phenomenology-of-choice]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 draft: false
@@ -93,7 +94,7 @@ The [luck objection article](/concepts/luck-objection/) develops this response a
 
 1. **Selection vs randomness**: Lucky indeterminism involves passive reception of random outcomes; consciousness-selected indeterminism involves active choosing. The relationship to indeterminacy is fundamentally different.
 
-2. **Phenomenology of effort**: Random processes don't feel like anything in particular—certainly not like work. But choosing feels effortful. The [phenomenology of effort](/concepts/mental-effort/)—sustained attention requiring ongoing engagement—distinguishes selection from luck. Lucky events don't feel like achievements; selections do.
+2. **Phenomenology of effort**: Random processes don't feel like anything in particular—certainly not like work. But choosing feels effortful. The [phenomenology of effort](/concepts/mental-effort/)—sustained attention requiring ongoing engagement—distinguishes selection from luck. The [phenomenology-of-choice](/concepts/phenomenology-of-choice/) article develops this distinction systematically: deliberation involves felt weight of options, the moment of decision has a characteristic "settling" quality, and authorship follows as retrospective recognition of genuine selection. Lucky events don't feel like achievements; selections do.
 
 3. **Reasons-guided selection**: Consciousness selects based on reasons—the same reasons that make actions intelligible. Why A rather than B? Because the agent had reasons for A. This makes selection contrastively explicable, unlike pure chance.
 
@@ -202,6 +203,8 @@ The 300ms deployment time becomes interpretable: consciousness needs that durati
 First-person experience distinguishes willed from captured attention. When a loud noise draws attention, there's a sense of being *pulled*—you didn't do it, it happened to you. When you choose to focus on a difficult text, you experience *directing*—active engagement that feels like it originates from you.
 
 This phenomenological distinction maps onto the neural distinction between ventral (capture) and dorsal (voluntary) attention networks. The experience of agency corresponds to actual mechanistic differences in how attention is deployed. Agent causation predicts exactly this: there should be phenomenological markers of genuine agency that correspond to real causal differences.
+
+The [phenomenology-of-choice](/concepts/phenomenology-of-choice/) article develops this contrast across the full arc of decision-making: deliberation involves options as "felt possibilities" with qualitative weight; the decision moment has a characteristic "settling" when alternatives collapse to actuality; and authorship follows as ownership of the outcome. Contemplative practice refines these distinctions further—meditators can separate the *arising* of intention from its *endorsement*, revealing structure that ordinary introspection misses. Even "not-choosing"—deliberately maintaining openness—has distinctive phenomenology, suggesting three levels of agency: selecting, refraining from selecting, and choosing whether to enter selecting mode at all.
 
 ## Motor Selection: The Second Domain
 
@@ -314,6 +317,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main 
 
 ## Further Reading
 
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The qualitative character of choosing: deliberation, decision, authorship
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Systematic treatment of quantum mechanics and libertarian free will, including Kane's 2024 convergence with agent-causal positions
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How agents generate possibilities, not just select among them
 - [free-will](/topics/free-will/) — The broader free will question and the Map's position
