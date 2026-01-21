@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T01:00:00+00:00
+ai_modified: 2026-01-21T00:53:14+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,15 +37,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review arguments/epiphenomenalism.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated argument page (ai_contribution: 100), never deep-reviewed. Presents arguments against epiphenomenalism—critical for defending Bidirectional Interaction tenet. Check for cross-links to mental-causation.md, consciousness-selecting-neural-patterns.md, causal-closure.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
-- **Source**: staleness
-- **Generated**: 2026-01-21
-
 ### P2: Deep review concepts/specious-present.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Covers the phenomenology of temporal experience—James's specious present and duration of "now." Check for cross-links to temporal-consciousness.md, duration.md, philosophy-of-time.md, collapse-and-time.md. Supports Dualism via irreducibility of lived temporality.
+- **Source**: staleness
+- **Generated**: 2026-01-21
+
+### P2: Deep review concepts/voluntary-attention.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Covers the capacity to direct attention through internal decision—foundational to attention-as-interface hypothesis supporting Bidirectional Interaction tenet. Check for cross-links to mental-causation.md, agent-causation.md, motor-selection.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
+- **Source**: staleness
+- **Generated**: 2026-01-21
+
+### P2: Deep review concepts/psychophysical-coupling-law.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Critical architecture piece articulating how conscious contents map to physical selections. Supports the core mechanism of the Map's framework. Check for cross-links to consciousness-selecting-neural-patterns.md, mental-causation.md, interactionist-dualism.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
 - **Source**: staleness
 - **Generated**: 2026-01-21
 
@@ -80,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review arguments/epiphenomenalism.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated argument page (ai_contribution: 100), never deep-reviewed. Presents arguments against epiphenomenalism—critical for defending Bidirectional Interaction tenet. Check for cross-links to mental-causation.md, consciousness-selecting-neural-patterns.md, causal-closure.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with regress response and contemplative evidence subsections. Added "Process Philosophy Perspective" section connecting Whitehead's concrescence to causation. Added "The Decoherence Challenge" section with three mitigating considerations. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets with substantive analysis including No Many Worlds connection. Added 8 new cross-links (illusionism, witness-consciousness, mental-effort, introspection, decoherence, haecceity, consciousness-selecting-neural-patterns, measurement-problem). Added 4 new references.
+- **Output**: obsidian/arguments/epiphenomenalism.md, obsidian/reviews/deep-review-2026-01-21-epiphenomenalism.md
 
 ### ✓ 2026-01-22: Deep review arguments/many-worlds.md for currency and cross-links
 - **Type**: deep-review
