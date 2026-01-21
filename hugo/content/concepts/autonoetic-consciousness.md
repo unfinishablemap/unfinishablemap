@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-20 14:38:00+00:00
+ai_modified: 2026-01-21 19:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,12 +21,14 @@ concepts:
 - '[[haecceity]]'
 - '[[metacognition]]'
 - '[[episodic-memory]]'
+- '[[phenomenology-of-choice]]'
+- '[[consciousness-as-amplifier]]'
 created: 2026-01-17
 date: &id001 2026-01-17
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 14:38:00+00:00
+last_deep_review: 2026-01-21 19:33:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +58,7 @@ Tulving distinguished three forms of consciousness associated with different mem
 
 ### Mental Time Travel
 
-The concept of mental time travel captures what autonoetic consciousness enables: the siteion of oneself to specific times and places, both past and future. When you remember your graduation ceremony, you are in some sense *there*—the remembered scene unfolds with phenomenal presence rather than being merely represented abstractly.
+The concept of mental time travel captures what autonoetic consciousness enables: the projection of oneself to specific times and places, both past and future. When you remember your graduation ceremony, you are in some sense *there*—the remembered scene unfolds with phenomenal presence rather than being merely represented abstractly.
 
 Crucially, mental time travel works in both directions. The same capacity that allows re-experiencing past events allows simulating future ones. When you imagine a forthcoming job interview, you project yourself forward—you inhabit the scenario with first-person phenomenology. Tulving argued this bidirectionality reveals something fundamental: autonoetic consciousness is a unified capacity for temporal self-projection, not separate remembering and imagining faculties.
 
@@ -159,17 +161,33 @@ This supports the Map's rejection of [Parfit's reductionism](/concepts/parfit-re
 
 [Illusionism](/concepts/illusionism/) claims that phenomenal consciousness is an illusion—we represent ourselves as having qualia, but no such properties exist. Applied to autonoetic consciousness, the illusionist might argue: the "felt pastness" and "double presence" are introspective misrepresentations of functional states, not genuine phenomenal properties.
 
+### Frankish's Quasi-Phenomenal Response
+
+Keith Frankish's sophisticated illusionism offers the most developed version of this challenge. Rather than crudely denying that memory feels like anything, Frankish proposes that autonoetic consciousness involves "quasi-phenomenal properties"—representations that *seem* to have phenomenal character without actually having it. The felt pastness, the double presence, the qualitative character of re-experiencing would all be quasi-phenomenal: real as representations, illusory as intrinsic properties.
+
+The challenge is significant. Perhaps the brain simply tags retrieved memories with a "pastness marker" and we introspectively misinterpret this functional tagging as a genuine phenomenal property. The pastness would be like the visual system's depth perception—a useful construction, not a direct apprehension of reality.
+
 ### The Regress Response
 
 The illusionist account faces a familiar regress. If felt pastness is an illusion, what is the *experience* of having that illusion like? The meta-representation of pastness must itself be something—either genuinely phenomenal (conceding the point) or another representation requiring explanation. Raymond Tallis's "Aping Mankind" presses this objection: eliminativism about consciousness cannot eliminate the phenomenon of seeming, which is itself a conscious phenomenon.
+
+Against Frankish specifically: quasi-phenomenal properties require actual properties to *seem* to be phenomenal. For there to be an appearance of pastness, there must be an appearing—and appearing is experiential. The zombie reformulation sharpens this: could a philosophical zombie have quasi-phenomenal pastness representations? If yes, those representations would themselves need explanation (why does functional pastness-tagging generate even quasi-phenomenal seeming?). If no, then zombies with identical functional organization would lack quasi-phenomenal properties, which concedes that quasi-phenomenal properties require genuine phenomenal grounding.
 
 ### Phenomenology of [Introspection](/concepts/introspection/)
 
 When you remember a past event, [introspection](/concepts/introspection/) reveals a distinctive structure: you are simultaneously here-now and there-then. The illusionist must explain why this structure persists under careful examination. If pastness were merely a timestamp on retrieved information, why does it feel different from knowing a fact? The remember/know distinction empirically captures this difference—and the difference is in the phenomenology, not the information content.
 
+Crucially, the remember/know paradigm shows that subjects can reliably distinguish autonoetic from noetic access to *the same information*. If pastness were only a functional marker, why would it be so reliably detectable as phenomenally distinct from knowing? The discrimination's robustness suggests it tracks a real phenomenal difference, not a constructed artifact.
+
 ### Contemplative Evidence
 
-[Witness consciousness](/concepts/witness-consciousness/) traditions provide relevant evidence. Experienced meditators report that memory phenomena can be observed arising and passing in awareness—the sense of pastness is *noticed*, not inferred. If pastness were not phenomenally present, there would be nothing to notice. The contemplative data suggests autonoetic consciousness is not a cognitive confabulation but a genuine mode of awareness accessible to trained introspection.
+[Witness consciousness](/concepts/witness-consciousness/) traditions provide substantial evidence. Experienced meditators report that memory phenomena can be observed arising and passing in awareness—the sense of pastness is *noticed*, not inferred. If pastness were not phenomenally present, there would be nothing to notice.
+
+Buddhist phenomenology offers technical precision. In *sati* (mindfulness) practice, meditators observe the arising of memories with their temporal markers intact—the pastness appears as a phenomenal quality of the memory-content, distinguishable from present-moment awareness. Jhāna states provide contrast: in deep absorption, autobiographical memories cease arising, and meditators report that the contrast upon emergence highlights the pastness quale's distinctive character. The pastness wasn't merely absent in jhāna—it returns as a recognizable phenomenal property.
+
+The Abhidharma tradition's analysis of *cetasika* (mental factors) identifies *sañña* (perception/recognition) as carrying temporal markers. When a memory arises, *sañña* includes the "having-happened" quality as part of its phenomenal structure—not as separate cognition but as an aspect of the perceptual experience itself. This contemplative phenomenology aligns with Tulving's empirical findings: pastness is immediately given, not inferred.
+
+The contemplative data suggests autonoetic consciousness is not a cognitive confabulation but a genuine mode of awareness accessible to trained introspection.
 
 ## Process Philosophy Perspective
 
@@ -189,6 +207,14 @@ Whitehead's concept of "concrescence"—the process by which an occasion achieve
 
 Process philosophy supports the "specious present" as ontologically significant. Each actual occasion has temporal thickness—it includes its immediate past as internally constitutive. Autonoetic consciousness may be the subjective experience of this temporal thickness extended: the capacity to prehend not just the immediate past but distant occasions, maintaining their experiential character rather than abstracting from it.
 
+### Convergence with Buddhist Mind-Moments
+
+Whitehead's actual occasions parallel the Buddhist concept of *cittakkhana* (mind-moments). The Abhidharma tradition holds that consciousness arises in discrete pulses, each inheriting from its predecessor through *bhavaṅga* (the life-continuum)—a process remarkably similar to Whiteheadian prehension. Both frameworks reject a substantial, enduring self while affirming continuity through inheritance.
+
+The parallel illuminates autonoetic consciousness. In Buddhist analysis, memory (*sati*) doesn't involve an enduring self retrieving stored data but rather present mind-moments prehending (or "inheriting the imprint of") past mind-moments. The pastness quale would be the phenomenal mark of this prehensive inheritance—the way present experience bears the character of what it prehends. The double presence of self (rememberer and protagonist) dissolves on this analysis: there are two series of mind-moments, one past and one present, with the present series prehending the past series in a special way that includes its first-personal character.
+
+This convergence supports the Map's framework: two independent philosophical traditions, one Western (process philosophy) and one Eastern (Abhidharma), arrived at similar structures for understanding temporal experience. The probability of independent convergence on a false structure is low; the convergence is evidence that something like prehension or mind-moment inheritance is real.
+
 ## Relation to Site Perspective
 
 Autonoetic consciousness supports all five of the Map's foundational commitments.
@@ -199,7 +225,11 @@ Autonoetic consciousness supports all five of the Map's foundational commitments
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Autonoetic consciousness demonstrates bidirectional causation. The physical brain enables memory retrieval (upward causation), but the *act* of remembering—choosing to dwell on or turn away from a memory—influences subsequent neural states (downward causation). The ability to intentionally recall, suppress, or reframe memories shows consciousness actively shaping the brain's activity, not merely passively receiving it.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Autonoetic consciousness involves irreducibly indexical content. When you remember an event, you remember it as having happened to *you*—this particular subject, not merely someone psychologically continuous with you. The phenomenology of mental time travel presupposes that "I was there" has determinate content. A many-worlds framework where identity branches and fragments would undermine the coherence of autonoetic experience: who is remembering which branch? This connects to [haecceity](/concepts/haecceity/)—the "thisness" of being this particular experiencer—which autonoetic consciousness both presupposes and reinforces.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Autonoetic consciousness involves irreducibly indexical content. When you remember an event, you remember it as having happened to *you*—this particular subject, not merely someone psychologically continuous with you. The phenomenology of mental time travel presupposes that "I was there" has determinate content. A many-worlds framework where identity branches and fragments would undermine the coherence of autonoetic experience: who is remembering which branch?
+
+The MWI defender might respond that identity within each branch remains perfectly coherent—each branch-copy has determinate memories of a determinate past. But this misses the phenomenological point. Autonoetic consciousness doesn't merely represent that events occurred; it involves re-experiencing them *as mine*. The pastness quale marks not just temporal location but personal ownership. If at every quantum event my identity bifurcated, there would be no fact about which memories are *truly* mine versus memories of my former self who became someone else at the branching. The phenomenology of autonoetic re-experiencing presupposes singular identity—that I am *the* person who was there, not merely *a* person who inherits apparent memories from an increasingly distant common ancestor.
+
+This connects to [haecceity](/concepts/haecceity/)—the "thisness" of being this particular experiencer—which autonoetic consciousness both presupposes and reinforces. The [phenomenology of choice](/concepts/phenomenology-of-choice/) likewise requires singular identity: when you remember choosing, you remember *you* selecting among options, not the branching of selves into copies who each believe they chose.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The "simpler" explanation—that memory is information storage and retrieval—fails to account for what autonoetic consciousness adds. The remember/know distinction empirically demonstrates that the same information can be present with or without autonoetic character. Positing only information processing doesn't explain the additional phenomenological dimension. Sometimes the more ontologically committed explanation (memory involves irreducible phenomenology) is more adequate to the data than the parsimonious one.
 
@@ -223,6 +253,8 @@ Five findings would require revision:
 
 ## Further Reading
 
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How autonoetic recall connects to the phenomenology of choosing
+- [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Working memory manipulation and the consciousness-cognition interface
 - [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness and the phenomenology of knowing
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The qualitative character of thought itself
 - [working-memory](/concepts/working-memory/) — The cognitive workspace for mental time travel

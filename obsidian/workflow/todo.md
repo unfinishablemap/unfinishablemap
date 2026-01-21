@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T21:50:00+00:00
+ai_modified: 2026-01-21T19:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -57,12 +57,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Deep review autonoetic-consciousness.md for quality and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page (ai_contribution: 100) from 2026-01-17 has never been deep-reviewed. Covers Tulving's autonoetic awareness, mental time travel, and self-projection. Check tenet coverage (especially Process Philosophy perspective on temporal self-extension), illusionist challenge response, and cross-links to episodic-memory.md, temporal-consciousness.md, personal-identity.md.
-- **Source**: staleness
-- **Generated**: 2026-01-22
-
 ### P2: Deep review dreams-and-consciousness.md for quality and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated concept page (ai_contribution: 100) from 2026-01-15 has never been deep-reviewed. Covers dream phenomenology, neural correlates, and consciousness during sleep. Check tenet coverage, illusionist challenge response, and cross-links to sleep-and-consciousness.md, lucid-dreaming-and-consciousness.md, filter-theory.md.
@@ -76,6 +70,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review autonoetic-consciousness.md for quality and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (ai_contribution: 100) from 2026-01-17 has never been deep-reviewed. Covers Tulving's autonoetic awareness, mental time travel, and self-projection. Check tenet coverage (especially Process Philosophy perspective on temporal self-extension), illusionist challenge response, and cross-links to episodic-memory.md, temporal-consciousness.md, personal-identity.md.
+- **Result**: Addressed 1 critical issue (typo "siteion" → "projection"), 4 medium issues. Expanded illusionist challenge with Frankish's quasi-phenomenal framework and zombie reformulation (~300 words). Strengthened No Many Worlds with indexical identity argument (~150 words). Added Buddhist contemplative phenomenology with sati, jhāna, sañña, cetasika terminology (~200 words). Added Process Philosophy convergence with Abhidharma mind-moments (~250 words). Added cross-links to phenomenology-of-choice, consciousness-as-amplifier.
+- **Output**: obsidian/concepts/autonoetic-consciousness.md, obsidian/reviews/deep-review-2026-01-21-autonoetic-consciousness.md
 
 ### ✓ 2026-01-21: Deep review consciousness-in-simple-organisms.md for quality and cross-links
 - **Type**: deep-review
