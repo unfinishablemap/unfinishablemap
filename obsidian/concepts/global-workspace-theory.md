@@ -3,7 +3,7 @@ title: "Global Workspace Theory"
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-21T13:45:00+00:00
+ai_modified: 2026-01-22T10:30:00+00:00
 draft: false
 last_deep_review: 2026-01-19T22:55:00+00:00
 topics:
@@ -27,6 +27,7 @@ concepts:
   - "[[dreams-and-consciousness]]"
   - "[[metacognition]]"
   - "[[consciousness-as-amplifier]]"
+  - "[[metarepresentation]]"
 related_articles:
   - "[[tenets]]"
   - "[[global-workspace-theory-2026-01-14]]"
@@ -150,8 +151,20 @@ This framing reinterprets GWT's central claim. The global broadcast isn't merely
 - **Cross-domain integration**: Information in the spotlight can inform motor planning, verbal report, memory encoding, and emotional evaluation simultaneously
 - **Flexible recombination**: Multiple items held consciously can be combined into novel structures
 - **Metacognitive monitoring**: Conscious access enables evaluating one's own cognitive processes
+- **Counterfactual simulation**: Holding actual and imagined scenarios in the workspace for comparison
+- **Cumulative culture**: Representing knowledge *as* knowledge that can be improved and transmitted
 
 The systematic pattern in the human-great ape gap supports this reading. Great apes show precisely the limitations expected if consciousness amplifies through the workspace: sophisticated within domain-specific modules, limited precisely where global broadcast is required—logical reasoning, counterfactual thinking, cumulative culture.
+
+### Broadcast as Enabling Metarepresentation
+
+The Jourdain Hypothesis (Whiten 2015) captures a crucial distinction: great apes have culture—tool-use traditions, grooming patterns, vocalisations that vary between groups—but may not *know* they have culture. They express cultural traditions without representing these as "our way of doing things" subject to deliberate modification. Cumulative culture, which distinguishes human cognitive achievement, requires [[metarepresentation|metarepresentation]]: treating knowledge as knowledge that can be improved and taught.
+
+Global broadcast may be what enables this metarepresentational capacity. When information achieves workspace ignition, it becomes available not just to action systems but to *reasoning* systems—including systems that take representations as their objects. The workspace doesn't just broadcast content; it broadcasts content in a format that other cognitive processes can treat as content, enabling the "thinking about thinking" that metarepresentation requires.
+
+This explains why logical reasoning specifically requires conscious processing. Lieberman et al. (2008) demonstrated that cognitive load disrupting conscious attention impairs rule-based logical reasoning while leaving pattern recognition intact. Logical reasoning requires holding premises in the workspace, applying inference rules to them, and deriving conclusions—a manipulation that workspace broadcast enables. Pattern recognition, operating within specialised modules, doesn't require this global availability.
+
+The GWT framework thus offers a mechanism for why consciousness amplifies: the workspace enables not just access but *access to access*—the recursive representational capacity that distinguishes human cognition from the sophisticated but non-metarepresentational cognition of great apes.
 
 ## Memory Systems and Global Broadcast
 
@@ -253,13 +266,16 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [[dreams-and-consciousness]] — Dreaming without full workspace engagement
 - [[metacognition]] — Self-reflective processes and workspace engagement
 - [[consciousness-as-amplifier]] — The amplification hypothesis connecting workspace access to cognitive enhancement
+- [[metarepresentation]] — How workspace broadcast may enable representing representations as representations
 - [[global-workspace-theory-2026-01-14]] — Detailed research notes
 
 ## References
 
 - Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
+- Block, N. (2007). Consciousness, accessibility, and the mesh between psychology and neuroscience. *Behavioral and Brain Sciences*, 30(5-6), 481-499.
+- COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
 - Dehaene, S., Kerszberg, M., & Changeux, J. P. (1998). A neuronal model of a global workspace in effortful cognitive tasks. *PNAS*, 95(24), 14529-14534.
 - Dehaene, S., & Naccache, L. (2001). Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework. *Cognition*, 79(1-2), 1-37.
-- Block, N. (2007). Consciousness, accessibility, and the mesh between psychology and neuroscience. *Behavioral and Brain Sciences*, 30(5-6), 481-499.
+- Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
 - Nartker, M., et al. (2025). Visual sensitivity in inattentional blindness. *eLife*, 14:e97156.
-- COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
+- Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
