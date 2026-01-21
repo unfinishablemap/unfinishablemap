@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-20 17:15:00+00:00
+ai_modified: 2026-01-21 04:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -31,6 +31,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[ai-consciousness]]'
+- '[[consciousness-in-simple-organisms]]'
 - '[[animal-consciousness-2026-01-14]]'
 title: Animal Consciousness
 topics:
@@ -51,7 +52,7 @@ These declarations identify *correlates*, not consciousness itself. Neural subst
 
 ## Minimal Neural Requirements
 
-How little neural complexity can support consciousness? The question presses at the lower boundaries of the New York Declaration's "realistic possibility." Research on [simple organisms](/concepts/minimal-consciousness/) reveals the difficulty of drawing lines:
+How little neural complexity can support consciousness? The question presses at the lower boundaries of the New York Declaration's "realistic possibility." Research on [simple organisms](/topics/consciousness-in-simple-organisms/) reveals the difficulty of drawing lines (see also the dedicated topic page on [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)):
 
 **C. elegans** (302 neurons): The most completely mapped organism in neuroscience—full connectome (8000 chemical synapses, 890 gap junctions), complete synaptic inventory—yet we cannot determine whether it experiences anything. The 2023 paper "The Conscious Nematode" (Becerra et al.) documents remarkable parallels with vertebrates: habituation, sensitization, associative learning, transgenerational memory, an endogenous opioid system related to mammalian pain pathways, and responses to anesthetics (isoflurane, ketamine) similar to vertebrates. Simplified computational models show positive Phi (integrated information) values. Yet C. elegans fails trace-conditioning paradigms—a critical gap for the unlimited associative learning framework. Its exploratory behavior resembles a "biased random walk" rather than goal-directed navigation.
 
@@ -257,6 +258,7 @@ The Map's position on animal consciousness could be undermined by specific disco
 
 ## Further Reading
 
+- [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — The distribution problem: C. elegans, Hydra, slime molds, and the interface dualism framing
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Model organisms at the boundaries: C. elegans, Hydra, slime molds, and the UAL framework
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged, phylogenetic distribution, and why dualism handles evolutionary questions better
 - [emotional-consciousness](/concepts/emotional-consciousness/) — The felt quality of emotions, particularly valence and the Panksepp-LeDoux debate

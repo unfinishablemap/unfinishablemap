@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T04:52:00+00:00
+ai_modified: 2026-01-21T04:55:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-21
 
-### P2: Cross-review animal-consciousness.md considering consciousness-in-simple-organisms insights
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-in-simple-organisms.md (2026-01-21) covers C. elegans, Hydra, slime molds, and the 2024 New York Declaration. May strengthen or complicate arguments in topics/animal-consciousness.md. Check for cross-links, the UAL criterion, distribution problem framing, and alignment with tenet support.
-- **Source**: chain (from consciousness-in-simple-organisms.md)
-- **Generated**: 2026-01-21
-
 ### P2: Cross-review quantum-consciousness.md considering quantum-binding-and-phenomenal-unity insights
 - **Type**: cross-review
 - **Notes**: New article topics/quantum-binding-and-phenomenal-unity.md (2026-01-21) covers the structure matching problem, Quantum Binding Argument (Baum), and 2024-2025 experimental evidence. May strengthen arguments in concepts/quantum-consciousness.md. Check for cross-links, decoherence response updates, and experimental evidence integration.
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review animal-consciousness.md considering consciousness-in-simple-organisms insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-in-simple-organisms.md (2026-01-21) covers C. elegans, Hydra, slime molds, and the 2024 New York Declaration. May strengthen or complicate arguments in topics/animal-consciousness.md. Check for cross-links, the UAL criterion, distribution problem framing, and alignment with tenet support.
+- **Result**: Added cross-link to consciousness-in-simple-organisms.md in Minimal Neural Requirements section, Further Reading section, and related_articles frontmatter. The animal-consciousness.md article already had comprehensive simple organism coverage—this cross-review adds direct navigation to the focused topic page which introduces the "distribution problem" framing and interface dualism position.
+- **Output**: obsidian/topics/animal-consciousness.md
 
 ### ✓ 2026-01-21: Write article on quantum coherence protection mechanisms
 - **Type**: expand-topic
