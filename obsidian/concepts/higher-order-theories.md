@@ -3,7 +3,7 @@ title: "Higher-Order Theories of Consciousness"
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T22:50:00+00:00
+ai_modified: 2026-01-21T19:30:00+00:00
 draft: false
 last_deep_review: 2026-01-19T22:50:00+00:00
 topics:
@@ -15,6 +15,7 @@ concepts:
   - "[[self-reference-paradox]]"
   - "[[global-workspace-theory]]"
   - "[[metacognition]]"
+  - "[[metarepresentation]]"
   - "[[illusionism]]"
   - "[[phenomenal-concepts-strategy]]"
   - "[[mental-causation]]"
@@ -52,6 +53,20 @@ D.M. Armstrong and William Lycan proposed that consciousness involves an "inner 
 
 Lycan has since retreated from HOP, now favoring attention-based accounts. But the core insight remains: consciousness seems to require some form of self-awareness.
 
+## The Metarepresentational Distinction
+
+[[metarepresentation|Recent analysis]] distinguishes three levels of mental representation:
+
+1. **First-order**: Representing the world (seeing a tree)
+2. **Second-order**: Representing one's representations (believing you see a tree)
+3. **Metarepresentation proper**: Representing representations *as* representations—grasping that your perception is a perception, that it could be mistaken, that others might perceive differently
+
+HOT theories primarily target the second level: consciousness arises when a mental state becomes the target of a higher-order thought. But the metarepresentational distinction suggests this may conflate two different phenomena. Second-order states might operate procedurally—functional states guiding behaviour without explicit understanding that beliefs are beliefs, perceptions are perceptions.
+
+The Jourdain Hypothesis (Whiten 2015) provides evidence for this distinction. Great apes show sophisticated metacognition: uncertainty monitoring, strategic information-seeking, adjusting confidence. Yet they appear to lack metarepresentation—they don't seem to understand that their knowledge *is* knowledge, that their practices *are* practices subject to modification. They may "speak prose without knowing it."
+
+If metarepresentation requires phenomenal consciousness—as the evidence suggests—then HOT has the explanatory order reversed. Rather than higher-order representation *constituting* consciousness, consciousness may be what *enables* genuine metarepresentation. The ape who monitors uncertainty without understanding that uncertainty is a mental state has second-order processing without metarepresentation. What distinguishes human metacognition isn't just more sophisticated representation but the phenomenal capacity to take mental states as objects.
+
 ## The Philosophical Objections
 
 ### The Rock Objection
@@ -68,7 +83,9 @@ What happens when a higher-order thought targets a mental state that doesn't exi
 
 Animals and infants likely lack the metacognitive sophistication to have genuine higher-order thoughts about their mental states. Yet they seem clearly conscious. If HOT is right, we face an uncomfortable choice: deny consciousness to babies and dogs, or stretch "thought" beyond recognition.
 
-Recent defenders argue that many animals possess the relevant metacognitive capacities. But the objection points to a deeper issue: HOT seems to make consciousness depend on cognitive sophistication rather than being a more fundamental feature of mental life.
+Recent defenders argue that many animals possess the relevant metacognitive capacities. But the [[metarepresentation|metarepresentational distinction]] complicates this response. Great apes demonstrate sophisticated second-order cognition—uncertainty monitoring, strategic information-seeking—without apparent metarepresentation. They don't seem to represent their beliefs *as* beliefs. If HOT requires genuine metarepresentation (understanding that mental states are mental states), great apes lack it despite having consciousness. If HOT requires only second-order states (functionally monitoring one's cognitive states), it becomes unclear why such monitoring should constitute phenomenal experience rather than merely accompany it.
+
+The objection points to a deeper issue: HOT seems to make consciousness depend on cognitive sophistication rather than being a more fundamental feature of mental life.
 
 ### Block's Critique
 
@@ -195,6 +212,7 @@ The hard problem remains hard.
 
 ## Further Reading
 
+- [[metarepresentation]] — The three-level distinction HOT may conflate
 - [[hard-problem-of-consciousness]] — The puzzle HOT doesn't solve
 - [[global-workspace-theory]] — A complementary functionalist theory
 - [[metacognition]] — The cognitive capacity HOT conflates with consciousness
@@ -216,3 +234,4 @@ The hard problem remains hard.
 - Lycan, W. G. (1996). *Consciousness and Experience*. MIT Press.
 - Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach to understanding blindsight. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
 - Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
+- Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

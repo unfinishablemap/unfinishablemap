@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T18:45:00+00:00
+ai_modified: 2026-01-21T19:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -63,12 +63,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Cross-review higher-order-theories.md considering metarepresentation insights
-- **Type**: cross-review
-- **Notes**: New article concepts/metarepresentation.md (2026-01-21) distinguishes metarepresentation from metacognition and higher-order representation. Higher-order theories claim consciousness requires representing mental states; metarepresentation adds that these must be represented *as* representations. May strengthen concepts/higher-order-theories.md with this three-level analysis and the Jourdain Hypothesis evidence. Check for cross-links.
-- **Source**: chain (from metarepresentation.md)
-- **Generated**: 2026-01-21
-
 ### P2: Cross-review animal-consciousness.md considering consciousness-as-amplifier insights
 - **Type**: cross-review
 - **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) provides the baseline cognition hypothesis and Jourdain Hypothesis relevant to animal consciousness. May strengthen topics/animal-consciousness.md with discussion of what great ape cognition reveals about consciousness-independent processing. Check for cross-links.
@@ -88,6 +82,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review higher-order-theories.md considering metarepresentation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/metarepresentation.md (2026-01-21) distinguishes metarepresentation from metacognition and higher-order representation. Higher-order theories claim consciousness requires representing mental states; metarepresentation adds that these must be represented *as* representations. May strengthen concepts/higher-order-theories.md with this three-level analysis and the Jourdain Hypothesis evidence. Check for cross-links.
+- **Result**: Added new "The Metarepresentational Distinction" section (~300 words) explaining the three-level analysis (first-order, second-order, metarepresentation proper) and the Jourdain Hypothesis evidence. Expanded "Animal and Infant Consciousness" objection to explain how metarepresentation complicates HOT's response to this objection. Added metarepresentation to concepts frontmatter and top of Further Reading. Added Whiten (2015) reference.
+- **Output**: obsidian/concepts/higher-order-theories.md
 
 ### ✓ 2026-01-21: Cross-review evolution-of-consciousness.md considering consciousness-as-amplifier insights
 - **Type**: cross-review
