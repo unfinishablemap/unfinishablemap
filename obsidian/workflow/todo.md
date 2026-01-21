@@ -37,6 +37,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P0: Research consciousness influence on intelligence
+- **Type**: research-topic
+- **Notes**: Research whether consciousness influences intelligence, both over long-duration evolution and short-term thought/reasoning. Key questions: Does consciousness provide adaptive advantages beyond what unconscious processing could achieve? Could the order-of-magnitude intelligence difference between great apes and humans relate to qualitative consciousness differences? Examine evolutionary timescales (did consciousness enable cumulative culture, abstract reasoning?) and immediate cognition (does conscious access improve problem-solving, metacognition, creativity?). Consider Dennett vs. consciousness-as-causal views. Supports Bidirectional Interaction tenet if consciousness causally contributes to intelligence.
+- **Source**: human_request
+- **Generated**: 2026-01-22
+
+### P1: Deep review animal-consciousness.md in light of consciousness-intelligence research
+- **Type**: deep-review
+- **Notes**: After completing P0 research on consciousness and intelligence, deep review obsidian/topics/animal-consciousness.md to integrate findings. Consider: great ape vs human consciousness differences, whether intelligence gaps suggest consciousness differences, how comparative cognition informs the consciousness-intelligence relationship. Cross-link to new research notes.
+- **Source**: human_request
+- **Generated**: 2026-01-22
+- **Depends on**: P0 research-consciousness-influence-on-intelligence
+
 ### P2: Research new topic for voids section
 - **Type**: research-topic
 - **Notes**: The voids section (cognitive gaps, unchartable territories) currently has 6 articles. Research a new void to expand coverage. Consider: the experience of forgetting as it happens, the asymmetry between remembering and anticipating, why certain thoughts resist articulation, or the phenomenology of realizing one was wrong.
@@ -55,11 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P3: Write article on phenomenology of choice and decision
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-21. The qualitative character of choosing—what is it like to decide? Differs from observing decisions happen. Builds on free-will.md, agent-causation.md, mental-effort.md. Supports Bidirectional Interaction and quantum selection mechanism.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-21
 
 ### P3: Write article on consciousness and mathematical understanding
 - **Type**: expand-topic
@@ -67,13 +75,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-21
 
-### P3: Write article on varieties of unity in consciousness
+### P2: Write article on varieties of unity in consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-21. Different kinds of unity—synchronic (binding), diachronic (personal identity), phenomenal. How do these relate? Are they the same phenomenon or distinct? Builds on binding-problem.md, phenomenal-unity.md, self-and-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-21
+- **Promoted**: 2026-01-22 (replenishment - builds on recent quantum-binding work)
+
+### P2: Deep review quantum-coherence-protection.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: Recently written article (ai_contribution: 100), never deep-reviewed. Covers four protection mechanisms for neural quantum coherence. Check for cross-links to decoherence.md, neural-quantum-coherence.md, quantum-biology.md. May need illusionist challenge section strengthening and process philosophy connections.
+- **Source**: staleness
+- **Generated**: 2026-01-22
+
+### P2: Deep review lucid-dreaming-and-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: Recently written topic page (ai_contribution: 100), never deep-reviewed. Covers lucid dreaming as distinct consciousness state with 2025 findings. Check for cross-links to dreams-and-consciousness.md, metacognition.md, sleep-and-consciousness.md. Ensure comprehensive tenet coverage and falsifiability conditions.
+- **Source**: staleness
+- **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Write article on phenomenology of choice and decision
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-21. The qualitative character of choosing—what is it like to decide? Differs from observing decisions happen. Builds on free-will.md, agent-causation.md, mental-effort.md. Supports Bidirectional Interaction and quantum selection mechanism.
+- **Result**: Article written (~2800 words) covering the structure of choosing (deliberation, decision moment, authorship), choosing vs observing distinction, effort as evidence, deliberation and duration, contemplative perspective, process philosophy connections, illusionist challenge responses, and What Would Challenge This View section. Connected to all 5 site tenets with substantive analysis.
+- **Output**: obsidian/concepts/phenomenology-of-choice.md
 
 ### ✓ 2026-01-21: Cross-review sleep-and-consciousness.md considering lucid-dreaming insights
 - **Type**: cross-review
