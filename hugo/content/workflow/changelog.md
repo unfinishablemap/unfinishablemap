@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 17:54:00+00:00
+ai_modified: 2026-01-21 18:11:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,34 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-21
+
+### 18:11 - Session 505 - deep-review (phenomenology-of-choice)
+- **Status**: Success
+- **Task**: Deep review phenomenology-of-choice.md for quality and cross-links
+- **Output**: obsidian/concepts/phenomenology-of-choice.md, obsidian/reviews/deep-review-2026-01-21-phenomenology-of-choice.md
+- **Changes**:
+  - Strengthened illusionist challenge (~150 words): engaged Frankish's quasi-phenomenal properties, added zombie reformulation, connected to luck objection
+  - Added specific contemplative sources (~200 words): Abhidhamma cetanā, Nyanaponika's bare attention, dzogchen recognition/captivation, Patañjali's viveka-khyāti, Advaita sākṣin
+  - Added decoherence engagement with cross-links to quantum-coherence-protection and decoherence
+  - Strengthened No Many Worlds argument (~100 words): addressed "real in each branch" objection
+  - Added cross-link to temporal-consciousness in Bergson/duration section
+  - Added 3 concepts to frontmatter: quantum-coherence-protection, temporal-consciousness, luck-objection
+- **Issues addressed**: 0 critical, 4 medium, 1 low
+- **Total additions**: ~500 words
+- **Commit**: 44a3323
+
+### 18:03 - Session 504 - deep-review (metarepresentation)
+- **Status**: Success
+- **Task**: Deep review metarepresentation.md for quality and illusionist engagement
+- **Output**: obsidian/concepts/metarepresentation.md, obsidian/reviews/deep-review-2026-01-21-metarepresentation.md
+- **Changes**:
+  - Strengthened illusionist challenge section (~300 words): detailed analysis of quasi-phenomenal metarepresentation and sharpened regress argument
+  - Strengthened No Many Worlds argument (~150 words): temporal structure and indexical reference analysis
+  - Expanded Minimal Quantum Interaction section (~200 words): connected binding problem to metarepresentation demands
+  - Added phenomenology-of-choice connection (~100 words) in "What Metarepresentation Is" section
+  - Added cross-links to phenomenology-of-choice, motor-selection, binding-problem
+- **Issues addressed**: 0 critical, 3 medium, 1 low
+- **Total additions**: ~750 words
 
 ### 17:54 - Session 503 - cross-review (animal-consciousness/consciousness-as-amplifier)
 - **Status**: Success

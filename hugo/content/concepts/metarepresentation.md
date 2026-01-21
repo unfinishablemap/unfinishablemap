@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-21 14:00:00+00:00
+ai_modified: 2026-01-21 18:03:47+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,12 +16,15 @@ concepts:
 - '[[decoherence]]'
 - '[[witness-consciousness]]'
 - '[[semantic-memory]]'
+- '[[phenomenology-of-choice]]'
+- '[[motor-selection]]'
+- '[[binding-problem]]'
 created: 2026-01-21
 date: &id001 2026-01-21
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-21 18:03:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,6 +48,8 @@ Metarepresentation involves three nested levels:
 3. **Metarepresentation proper**: Representing your representations *as* representations—knowing that your belief is a belief, that your knowledge is knowledge, that your perception might differ from reality
 
 The third level is crucial. Many animals show evidence of second-order states: uncertainty monitoring, strategic information-seeking, adjusting confidence. But these might operate procedurally—functional states that guide behaviour without explicit representation of themselves as mental states. Metarepresentation requires treating your mental states as the kind of thing that *can* be represented, examined, and evaluated.
+
+The [phenomenology of deliberate choice](/concepts/phenomenology-of-choice/) illustrates this structure. When you genuinely choose between options, you represent your possible actions as possible actions—not merely act on the strongest impulse but stand back from the options, recognise them as alternatives you could take, and select among them. This choosing-as-metarepresentation distinguishes human deliberation from sophisticated animal behaviour. The ape may have preferences; the human recognises having preferences and can take them as objects of further evaluation.
 
 ### The Jourdain Hypothesis
 
@@ -144,7 +149,16 @@ More specifically, illusionism must explain:
 2. **Epistemic emotions**: The felt quality of certainty, doubt, insight. These concern metacognitive states; reducing them to functional processing still requires explaining why they feel like anything.
 3. **The developmental trajectory**: Why do metarepresentational capacities emerge with expanded consciousness? If consciousness is illusory, the correlation is coincidental.
 
-Keith Frankish's quasi-phenomenal account proposes that what seems like phenomenal consciousness is actually a representation of phenomenal-seeming properties. But this move doesn't help with metarepresentation. Quasi-phenomenal properties would be second-order—representations of how things seem. Metarepresentation requires representing *those* representations. The regress doesn't terminate; it merely relocates.
+Keith Frankish's quasi-phenomenal account proposes that what seems like phenomenal consciousness is actually a representation of phenomenal-seeming properties. But this move creates a specific problem for metarepresentation.
+
+Consider the structure of quasi-phenomenal metarepresentation. On Frankish's view, when you "know that you know," you would be:
+1. Having a first-order state (representing the world)
+2. Having a quasi-phenomenal representation of that state (representing it as seeming conscious)
+3. Having a *further* quasi-phenomenal representation of that quasi-phenomenal state (representing your knowing-seeming as itself seeming conscious)
+
+But what makes level (3) seem like genuine knowing-that-you-know rather than mere functional self-monitoring? The quasi-phenomenal framework must answer: it *seems* like knowing-that-you-know because the system represents it as having that quasi-phenomenal character. Yet this generates the very metarepresentational structure it was meant to explain. The seeming of knowing-that-you-know requires representing your representations-of-seeming as representations-of-seeming—precisely the metarepresentational capacity at issue.
+
+The regress problem sharpens: either quasi-phenomenal properties are themselves phenomenally conscious (undermining illusionism), or they aren't (leaving unexplained why metarepresentation should feel like anything). The illusion of metarepresentation would require metarepresenting the illusion—using the capacity to explain it away.
 
 ## Contemplative Evidence
 
@@ -202,11 +216,23 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet claims
 
 ### Minimal Quantum Interaction
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes consciousness influences neural states through quantum selection. Metarepresentation might require the phenomenal unity that quantum binding could provide: holding multiple representational levels in integrated awareness simultaneously. Whether the mechanism is quantum or classical, the key claim—that metarepresentation requires something consciousness provides—is consistent with consciousness operating through physical influence at the neural level.
+The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes consciousness influences neural states through quantum selection. Metarepresentation creates a specific demand this framework addresses: the binding of multiple representational levels into unified awareness.
+
+When you know that you know, three distinct contents must be bound simultaneously: the first-order representation, the second-order representation of it, and the awareness of their relationship. Classical binding mechanisms face the [combination problem](/concepts/binding-problem/): how do separate neural processes produce unified experience? Metarepresentation intensifies this challenge by requiring not just binding of simultaneous contents but binding of hierarchically nested contents.
+
+The quantum Zeno framework offers a mechanism. Through sustained attention, consciousness might maintain coherence across the neural substrates of different representational levels—preventing the decoherence that would fragment the hierarchical structure into separate, unrelated processes. The "standing back" that metarepresentation requires could be understood as attentional selection operating on quantum superpositions of representational states, collapsing them into the unified structure where I recognise my representation as mine.
+
+This account faces the standard [decoherence objection](/concepts/decoherence/): can quantum coherence survive at the timescales required? The metarepresentational demand is stringent—not merely binding simultaneous contents but maintaining coherence across the temporal structure of taking-one's-thoughts-as-objects. The objection doesn't show the account is false, but it identifies where empirical investigation must focus.
 
 ### No Many Worlds
 
-The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects interpretations where consciousness fragments across branches. Metarepresentation presupposes a unified subject: *I* represent *my* representations. If consciousness branched, metarepresentation would fragment—there would be no unified "I" to do the metarepresenting. The phenomenal unity metarepresentation requires supports determinacy over branching.
+The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects interpretations where consciousness fragments across branches. Metarepresentation presupposes a unified subject: *I* represent *my* representations. This unity requirement creates a specific problem for many-worlds interpretations.
+
+Metarepresentation involves a temporal structure: at t1 you have a belief; at t2 you represent that belief as a belief. If consciousness branches at quantum events between t1 and t2, which post-branch descendant owns the t1 belief? On MWI, all branches are equally real—but metarepresentation requires identifying *this* representation as *mine*. The indexical "I" in "I know that I know" cannot coherently refer to multiple branch-descendants simultaneously.
+
+Consider the structure of self-improvement through metarepresentation. To deliberately modify your cognitive habits, you must: (1) identify your current practice, (2) evaluate it as yours and as modifiable, (3) implement change. If branching occurs during this process, the deliberate improvement fragments across branches in ways that break the self-referential loop. The branch that evaluates is not the same subject as the branch that implements—yet metarepresentation requires continuous self-reference.
+
+The phenomenal unity metarepresentation requires supports determinacy over branching: a singular subject whose representations remain *its own* across the temporal structure of self-reflection.
 
 ### Occam's Razor Has Limits
 
@@ -225,6 +251,9 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The phenomenology of knowing
 - [illusionism](/concepts/illusionism/) — The challenge and its regress problem
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative cultivation of metarepresentation
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The "standing back" structure in deliberation
+- [motor-selection](/concepts/motor-selection/) — Choosing among action patterns as metarepresentation
+- [binding-problem](/concepts/binding-problem/) — Why unified metarepresentation requires binding
 - [consciousness-independent-baseline-cognition-2026-01-21](/research/consciousness-independent-baseline-cognition-2026-01-21/) — Research notes on baseline cognition
 
 ## References

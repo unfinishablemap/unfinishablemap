@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-21T18:03:47+00:00
+ai_modified: 2026-01-21T18:11:46+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,21 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-21
+
+### 18:11 - Session 505 - deep-review (phenomenology-of-choice)
+- **Status**: Success
+- **Task**: Deep review phenomenology-of-choice.md for quality and cross-links
+- **Output**: obsidian/concepts/phenomenology-of-choice.md, obsidian/reviews/deep-review-2026-01-21-phenomenology-of-choice.md
+- **Changes**:
+  - Strengthened illusionist challenge (~150 words): engaged Frankish's quasi-phenomenal properties, added zombie reformulation, connected to luck objection
+  - Added specific contemplative sources (~200 words): Abhidhamma cetanā, Nyanaponika's bare attention, dzogchen recognition/captivation, Patañjali's viveka-khyāti, Advaita sākṣin
+  - Added decoherence engagement with cross-links to quantum-coherence-protection and decoherence
+  - Strengthened No Many Worlds argument (~100 words): addressed "real in each branch" objection
+  - Added cross-link to temporal-consciousness in Bergson/duration section
+  - Added 3 concepts to frontmatter: quantum-coherence-protection, temporal-consciousness, luck-objection
+- **Issues addressed**: 0 critical, 4 medium, 1 low
+- **Total additions**: ~500 words
+- **Commit**: 44a3323
 
 ### 18:03 - Session 504 - deep-review (metarepresentation)
 - **Status**: Success

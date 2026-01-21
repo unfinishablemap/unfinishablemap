@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T18:03:47+00:00
+ai_modified: 2026-01-21T18:08:32+00:00
 draft: false
 topics: []
 concepts: []
@@ -63,22 +63,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Deep review phenomenology-of-choice.md for quality and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated article (ai_contribution: 100) has never been deep-reviewed. Check tenet coverage, illusionist response, contemplative evidence quality. Ensure proper integration with motor-selection.md, agent-causation.md, and free-will.md which recently added cross-review content.
-- **Source**: staleness
-- **Generated**: 2026-01-21
-
 ### P2: Deep review meditation-and-consciousness-modes.md for tenet coverage
 - **Type**: deep-review
 - **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-18 has never been deep-reviewed. Check tenet coverage (especially Process Philosophy and No Many Worlds), illusionist response quality, and cross-links to witness-consciousness.md, attention.md, and phenomenology.md.
 - **Source**: staleness
 - **Generated**: 2026-01-21
 
-### P3: Deep review temporal-consciousness.md for currency
+### P2: Deep review temporal-consciousness.md for currency and voids integration
 - **Type**: deep-review
-- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-15 has never been deep-reviewed. Check tenet coverage, cross-links to specious-present.md, philosophy-of-time.md, and duration.md. May need updates based on recent voids research on temporal asymmetry.
-- **Source**: staleness
+- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-15 has never been deep-reviewed. Check tenet coverage, cross-links to specious-present.md, philosophy-of-time.md, and duration.md. Integrate insights from recent voids research on temporal asymmetry (research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md). Promoted from P3 due to research availability.
+- **Source**: staleness (promoted)
 - **Generated**: 2026-01-21
 
 ### P3: Deep review mind-brain-separation.md for quality
@@ -88,6 +82,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review phenomenology-of-choice.md for quality and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated article (ai_contribution: 100) has never been deep-reviewed. Check tenet coverage, illusionist response, contemplative evidence quality. Ensure proper integration with motor-selection.md, agent-causation.md, and free-will.md which recently added cross-review content.
+- **Result**: Addressed 0 critical, 4 medium, 1 low issues. Strengthened illusionist challenge with Frankish's quasi-phenomenal response and zombie reformulation (~150 words). Added specific Buddhist and Hindu contemplative sources (~200 words): Abhidhamma cetanā, Nyanaponika's bare attention, dzogchen, Patañjali's viveka-khyāti, Advaita sākṣin. Added decoherence engagement with cross-links. Strengthened No Many Worlds argument against "real in each branch" objection (~100 words). Added cross-links to luck-objection, quantum-coherence-protection, temporal-consciousness.
+- **Output**: obsidian/concepts/phenomenology-of-choice.md, obsidian/reviews/deep-review-2026-01-21-phenomenology-of-choice.md
 
 ### ✓ 2026-01-21: Deep review metarepresentation.md for quality and illusionist engagement
 - **Type**: deep-review

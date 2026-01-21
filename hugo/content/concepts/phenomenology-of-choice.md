@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-22 01:30:00+00:00
+ai_modified: 2026-01-21 18:10:40+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,12 +19,15 @@ concepts:
 - '[[haecceity]]'
 - '[[decoherence]]'
 - '[[quantum-indeterminacy-free-will]]'
+- '[[quantum-coherence-protection]]'
+- '[[temporal-consciousness]]'
+- '[[luck-objection]]'
 created: 2026-01-22
 date: &id001 2026-01-22
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-21 18:10:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,6 +61,8 @@ This settling can be gradual or sudden:
 Both patterns share the same structure: genuine openness followed by determinate actualisation. But they differ phenomenologically. Gradual decisions feel less effortful; sudden decisions often feel more *willed*, as though the agent intervened at the decisive moment.
 
 The [retrocausal](/concepts/retrocausality/) dimension adds complexity. If selection operates atemporally—determining which history becomes real—the phenomenology of deciding "now" may be how atemporal selection manifests to time-bound consciousness. The feeling of sudden resolution might mark the point where consciousness engages with quantum indeterminacy.
+
+The [decoherence objection](/concepts/decoherence/)—that quantum coherence cannot survive in warm neural tissue—is addressed through [protection mechanisms](/concepts/quantum-coherence-protection/) that may shield relevant superpositions. More fundamentally, consciousness may operate at the point of *outcome selection* after decoherence has selected the measurement basis, biasing which eigenstate becomes actual without requiring sustained coherence.
 
 ### Authorship: The Sense of Agency
 
@@ -129,7 +134,7 @@ James observed that "sustained voluntary attention is a repetition of successive
 
 ## Deliberation and Duration
 
-Henri Bergson's concept of [durée](/concepts/duration/) illuminates the phenomenology of deliberation. Choosing unfolds in lived time—qualitative duration where past and present interpenetrate—not the spatialized clock-time of physics.
+Henri Bergson's concept of [durée](/concepts/duration/) illuminates the phenomenology of deliberation. Choosing unfolds in lived time—qualitative duration where past and present interpenetrate—not the spatialized clock-time of physics. This connects to broader questions about [temporal-consciousness](/concepts/temporal-consciousness/)—how the structure of time-experience shapes what consciousness can do.
 
 ### Why Choices Resist Determination
 
@@ -158,6 +163,10 @@ This separation is illuminating:
 - The *endorsement* of intentions involves conscious contribution
 
 What appears in ordinary experience as a single act of choosing may contain two distinguishable phases. The meditator sees the structure more clearly.
+
+Buddhist sources describe this with precision. The Abhidhamma tradition distinguishes *cetanā* (intention/volition) from the arising of mental factors that precede it. Theravāda meditation manuals describe observing intention arise in the gap between stimulus and response—what Nyanaponika Thera called "bare attention" revealing the construction of volition. The Tibetan *dzogchen* tradition similarly distinguishes recognising thoughts from being captured by them; the moment of recognition creates space for non-compulsive response.
+
+Hindu sources offer parallel accounts. Patañjali's *Yoga Sūtras* describe *viveka-khyāti*—discriminative awareness—as the capacity to witness the arising of mental modifications (*vṛtti*) without automatic identification. The *sākṣin* (witness-self) of Advaita Vedānta observes intentions arise without being their author, yet endorsement occurs through what Śaṅkara calls *adhyāsa*—the superimposition of agency onto what is witnessed.
 
 ### Effortless Choice
 
@@ -209,6 +218,14 @@ If the phenomenology of effort is illusory, what is the *seeming* of effort? The
 
 The illusionist typically opts for the second: seemings are functional states without phenomenal properties. But this faces Raymond Tallis's point: "misrepresentation presupposes presentation." To seem one way rather than another, there must be something it's like to seem.
 
+### Frankish's Quasi-Phenomenal Response
+
+Keith Frankish responds that "seemings" are *quasi-phenomenal*—they have functional properties that explain why we judge choosing to feel different from observing without requiring genuine phenomenal consciousness. The brain represents effort, openness, and authorship through functional states that ground our introspective reports.
+
+But quasi-phenomenal properties face the same regress. What grounds the *representation* of effort? Either representing effort itself feels like something (relocating phenomenality to the representational system) or it doesn't (leaving the compellingness of the representation unexplained). The zombie reformulation makes this vivid: a philosophical zombie—functionally identical but phenomenally empty—would have the same quasi-phenomenal representations of effort. Yet we judge that *our* experience of choosing differs from passive reception in a way no functional duplicate could capture.
+
+The [luck objection](/concepts/luck-objection/) reveals another problem for the illusionist: if choice is mere reception of randomly determined outcomes plus representational gloss, why does choosing feel like an achievement while lucky outcomes don't? The phenomenology of effort—the sense of genuine contribution—distinguishes selection from luck in a way mere representation cannot explain.
+
 ### Why Phenomenology Tracks Reality
 
 The correlation between felt difficulty and actual cognitive load is striking. Hard tasks feel hard; easy tasks feel easy. If phenomenology were causally disconnected from cognitive engagement, this correlation would be coincidental.
@@ -248,7 +265,9 @@ The phenomenology of choice aligns directly with what the Map's tenets predict:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The phenomenology is consistent with selection at quantum indeterminacies. Choosing feels like biasing outcomes, not injecting energy. The [quantum Zeno mechanism](/concepts/mental-effort/) explains why sustained attention should feel effortful: rapid observation events require continuous engagement. The phenomenology matches what minimal interaction predicts.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The phenomenology of choice presupposes singular actualisation. When you choose A, you experience A as *the* outcome—not as one branch among equals. The felt openness of alternatives before decision and their felt closure after matches collapse rather than branching. If all outcomes occurred in different worlds, the phenomenology of resolution—alternatives becoming merely counterfactual—would be illusory. The [indexical sense](/concepts/haecceity/) that *this* decision is happening to *you* becomes meaningless if all decisions happen to all copies.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The phenomenology of choice presupposes singular actualisation. When you choose A, you experience A as *the* outcome—not as one branch among equals. The felt openness of alternatives before decision and their felt closure after matches collapse rather than branching.
+
+The many-worlds defender might respond that the phenomenology is real *in each branch*—you genuinely experience choosing A in one branch and choosing B in another. But this response relocates the puzzle rather than dissolving it. The pre-decision phenomenology of openness—both options felt as genuinely possible—would then represent not genuine metaphysical openness but mere epistemic uncertainty about which branch you'll find yourself in. The felt *weight* of deliberation, the sense that *this* decision matters, becomes mysterious if all outcomes are equally realised. More pressingly, the [indexical sense](/concepts/haecceity/) that *this* decision is happening to *you* requires an answer many-worlds cannot provide: why *this* branch? The question seems meaningful; many-worlds makes it unanswerable.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Eliminating the phenomenology of choice would be simpler—call it representational and move on. But this parsimony purchases explanatory vacancy. Why does choosing feel different from observing? Why does effort correlate with difficulty? Why do contemplatives report refined rather than dissolved phenomenology of decision? A framework that takes the phenomenology seriously—even at the cost of ontological complexity—explains what elimination merely dismisses.
 

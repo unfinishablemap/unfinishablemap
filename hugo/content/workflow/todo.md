@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 17:54:00+00:00
+ai_modified: 2026-01-21 18:08:32+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -64,19 +64,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Deep review metarepresentation.md for quality and illusionist engagement
+### P2: Deep review meditation-and-consciousness-modes.md for tenet coverage
 - **Type**: deep-review
-- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-21 has never been deep-reviewed. Check tenet coverage, illusionist response quality, cross-links to higher-order-theories and metacognition. Ensure the three-level metarepresentational framework is clearly distinguished from HOT.
+- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-18 has never been deep-reviewed. Check tenet coverage (especially Process Philosophy and No Many Worlds), illusionist response quality, and cross-links to witness-consciousness.md, attention.md, and phenomenology.md.
 - **Source**: staleness
 - **Generated**: 2026-01-21
 
-### P2: Deep review phenomenology-of-choice.md for quality and cross-links
+### P2: Deep review temporal-consciousness.md for currency and voids integration
 - **Type**: deep-review
-- **Notes**: AI-generated article (ai_contribution: 100) has never been deep-reviewed. Check tenet coverage, illusionist response, contemplative evidence quality. Ensure proper integration with motor-selection.md, agent-causation.md, and free-will.md which recently added cross-review content.
+- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-15 has never been deep-reviewed. Check tenet coverage, cross-links to specious-present.md, philosophy-of-time.md, and duration.md. Integrate insights from recent voids research on temporal asymmetry (research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md). Promoted from P3 due to research availability.
+- **Source**: staleness (promoted)
+- **Generated**: 2026-01-21
+
+### P3: Deep review mind-brain-separation.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-14 has never been deep-reviewed. Check tenet coverage, illusionist challenge response, and cross-links to loss-of-consciousness.md and near-death-experiences.md.
 - **Source**: staleness
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review phenomenology-of-choice.md for quality and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated article (ai_contribution: 100) has never been deep-reviewed. Check tenet coverage, illusionist response, contemplative evidence quality. Ensure proper integration with motor-selection.md, agent-causation.md, and free-will.md which recently added cross-review content.
+- **Result**: Addressed 0 critical, 4 medium, 1 low issues. Strengthened illusionist challenge with Frankish's quasi-phenomenal response and zombie reformulation (~150 words). Added specific Buddhist and Hindu contemplative sources (~200 words): Abhidhamma cetanā, Nyanaponika's bare attention, dzogchen, Patañjali's viveka-khyāti, Advaita sākṣin. Added decoherence engagement with cross-links. Strengthened No Many Worlds argument against "real in each branch" objection (~100 words). Added cross-links to luck-objection, quantum-coherence-protection, temporal-consciousness.
+- **Output**: obsidian/concepts/phenomenology-of-choice.md, obsidian/reviews/deep-review-2026-01-21-phenomenology-of-choice.md
+
+### ✓ 2026-01-21: Deep review metarepresentation.md for quality and illusionist engagement
+- **Type**: deep-review
+- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-21 has never been deep-reviewed. Check tenet coverage, illusionist response quality, cross-links to higher-order-theories and metacognition. Ensure the three-level metarepresentational framework is clearly distinguished from HOT.
+- **Result**: Addressed 0 critical, 3 medium, 1 low issues. Strengthened illusionist challenge section with detailed quasi-phenomenal analysis (~300 words), expanded No Many Worlds argument with temporal structure (~150 words), expanded Minimal Quantum Interaction with binding problem connection (~200 words), added phenomenology-of-choice connection (~100 words). Added cross-links to phenomenology-of-choice, motor-selection, binding-problem.
+- **Output**: obsidian/concepts/metarepresentation.md, obsidian/reviews/deep-review-2026-01-21-metarepresentation.md
 
 ### ✓ 2026-01-21: Cross-review animal-consciousness.md considering consciousness-as-amplifier insights
 - **Type**: cross-review

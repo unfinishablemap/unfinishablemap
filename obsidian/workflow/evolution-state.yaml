@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-21T18:03:47+00:00'
-session_count: 504
+last_updated: '2026-01-21T18:11:46+00:00'
+session_count: 505
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-21T09:50:00+00:00'
   optimistic-review: '2026-01-21T09:45:00+00:00'
   check-tenets: '2026-01-21T21:30:00+00:00'
   check-links: '2026-01-22T01:00:00+00:00'
-  deep-review: '2026-01-21T18:03:47+00:00'
+  deep-review: '2026-01-21T18:11:46+00:00'
   tune-system: '2026-01-20T22:00:00+00:00'
   research-voids: '2026-01-21T09:21:52+00:00'
   coalesce: '2026-01-22T00:15:00+00:00'
@@ -39,7 +39,7 @@ overdue_thresholds:
   tweet-highlight: 48
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-21T13:59:44.797304+00:00'
+last_git_push: '2026-01-21T18:06:59.975915+00:00'
 content_stats:
   total_files: 198
   published_files: 152
@@ -58,7 +58,7 @@ progress:
   questions_written: 1
   voids_written: 8
   research_notes: 95
-  reviews_completed: 414
+  reviews_completed: 415
 quality:
   critical_issues: 0
   medium_issues: 6
@@ -66,48 +66,8 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (metarepresentation)
+- task: deep-review (phenomenology-of-choice)
   type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (animal-consciousness/consciousness-as-amplifier)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: check-tenets
-  type: maintenance
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (higher-order-theories/metarepresentation)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (evolution-of-consciousness/consciousness-as-amplifier)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (epiphenomenalism/consciousness-as-amplifier)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (motor-selection)
-  type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (minimal-consciousness/metarepresentation)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (metacognition/metarepresentation)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (mental-effort/phenomenology-of-choice)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (agent-causation/phenomenology-of-choice)
-  type: cross-review
   date: 2026-01-21
   outcome: success
 - task: cross-review (free-will/phenomenology-of-choice)
