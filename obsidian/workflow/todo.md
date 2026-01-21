@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T01:00:00+00:00
+ai_modified: 2026-01-21T05:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review decoherence.md considering quantum-coherence-protection insights
-- **Type**: cross-review
-- **Notes**: New article concepts/quantum-coherence-protection.md (2026-01-21) covers four protection mechanisms (hydrophobic shielding, Fröhlich coherence, Posner molecules, ordered water) and the 7-order-of-magnitude revision of Tegmark's calculations. May strengthen or update concepts/decoherence.md. Check for cross-links to the protection mechanisms and updated timescale arguments.
-- **Source**: chain (from quantum-coherence-protection.md)
-- **Generated**: 2026-01-21
 
 ### P2: Cross-review neural-quantum-coherence.md considering quantum-coherence-protection insights
 - **Type**: cross-review
@@ -92,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review decoherence.md considering quantum-coherence-protection insights
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-coherence-protection.md (2026-01-21) covers four protection mechanisms (hydrophobic shielding, Fröhlich coherence, Posner molecules, ordered water) and the 7-order-of-magnitude revision of Tegmark's calculations. May strengthen or update concepts/decoherence.md. Check for cross-links to the protection mechanisms and updated timescale arguments.
+- **Result**: Added cross-link to quantum-coherence-protection.md in frontmatter and Further Reading. Added inline mention of the four protection mechanisms and cumulative effects in the Tegmark-Hameroff debate section.
+- **Output**: obsidian/concepts/decoherence.md
 
 ### ✓ 2026-01-22: Cross-review quantum-consciousness.md considering quantum-binding-and-phenomenal-unity insights
 - **Type**: cross-review
