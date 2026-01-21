@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T04:00:00+00:00
+ai_modified: 2026-01-22T08:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -57,13 +57,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Cross-review evolution-of-consciousness.md considering consciousness-as-amplifier insights
+### P2: Cross-review global-workspace-theory.md considering consciousness-as-amplifier insights
 - **Type**: cross-review
-- **Notes**: The consciousness-as-amplifier article (2026-01-21) provides evidence that consciousness causally contributed to the human cognitive leap—relevant to evolutionary discussions. May strengthen concepts/evolution-of-consciousness.md with the baseline cognition hypothesis, Jourdain Hypothesis, and working memory expansion evidence.
+- **Notes**: The consciousness-as-amplifier article (2026-01-21) builds heavily on Global Workspace Theory as a mechanistic framework—GWT explains *how* information becomes globally accessible, amplification explains *why* this matters for intelligence. The global-workspace-theory.md article should be strengthened with the amplification perspective: how global broadcast enables flexible deployment of cognitive resources, metacognitive monitoring, and cumulative culture.
+- **Source**: chain (from consciousness-as-amplifier.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review animal-consciousness.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: The consciousness-as-amplifier article (2026-01-21) discusses great ape baseline cognition and the Jourdain Hypothesis (apes may have culture without knowing they have culture). The animal-consciousness.md article should be strengthened with this amplification framework: procedural vs declarative metacognition, working memory capacity differences, and implications for animal phenomenology.
 - **Source**: chain (from consciousness-as-amplifier.md)
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review evolution-of-consciousness.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: The consciousness-as-amplifier article (2026-01-21) provides evidence that consciousness causally contributed to the human cognitive leap—relevant to evolutionary discussions. May strengthen concepts/evolution-of-consciousness.md with the baseline cognition hypothesis, Jourdain Hypothesis, and working memory expansion evidence.
+- **Result**: Added explicit "baseline cognition hypothesis" framing (~150 words) explaining that great apes represent sophisticated baseline cognition with systematic pattern of success/failure mapping to consciousness-dependent vs consciousness-independent capacities. Added training evidence paragraph (~100 words) citing Fox et al. (2012) meditator study showing that consciousness is trainable and therefore a target for evolutionary selection. Added Fox et al. reference to References section.
+- **Output**: obsidian/concepts/evolution-of-consciousness.md
 
 ### ✓ 2026-01-22: Deep review problem-of-other-minds.md for currency and tenet coverage
 - **Type**: deep-review
