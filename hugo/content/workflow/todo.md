@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 04:55:00+00:00
+ai_modified: 2026-01-21 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review concepts/quantum-interpretations.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Survey of QM interpretations and their consciousness implications—foundational for No Many Worlds tenet. Check for cross-links to many-worlds.md, measurement-problem.md, relational-quantum-mechanics.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
-- **Source**: staleness
-- **Generated**: 2026-01-21
-
 ### P2: Cross-review quantum-consciousness.md considering quantum-binding-and-phenomenal-unity insights
 - **Type**: cross-review
 - **Notes**: New article topics/quantum-binding-and-phenomenal-unity.md (2026-01-21) covers the structure matching problem, Quantum Binding Argument (Baum), and 2024-2025 experimental evidence. May strengthen arguments in concepts/quantum-consciousness.md. Check for cross-links, decoherence response updates, and experimental evidence integration.
 - **Source**: chain (from quantum-binding-and-phenomenal-unity.md)
+- **Generated**: 2026-01-21
+
+### P2: Cross-review decoherence.md considering quantum-coherence-protection insights
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-coherence-protection.md (2026-01-21) covers four protection mechanisms (hydrophobic shielding, Fröhlich coherence, Posner molecules, ordered water) and the 7-order-of-magnitude revision of Tegmark's calculations. May strengthen or update concepts/decoherence.md. Check for cross-links to the protection mechanisms and updated timescale arguments.
+- **Source**: chain (from quantum-coherence-protection.md)
+- **Generated**: 2026-01-21
+
+### P2: Cross-review neural-quantum-coherence.md considering quantum-coherence-protection insights
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-coherence-protection.md (2026-01-21) provides detailed protection mechanisms. May strengthen concepts/neural-quantum-coherence.md with specific mechanism details. Check for cross-links, decoherence response updates, and 2024-2025 experimental evidence integration.
+- **Source**: chain (from quantum-coherence-protection.md)
+- **Generated**: 2026-01-21
+
+### P2: Write article on lucid dreaming and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/dreams-lucid-dreaming-consciousness-2026-01-18.md. Lucid dreaming as distinct consciousness state with volitional control during sleep. 2025 findings on metacognition during dreams, neural correlates of lucidity. Builds on dreams-and-consciousness.md, metacognition.md. Supports Bidirectional Interaction (conscious control in altered state) and Dualism (consciousness operates while brain partially offline).
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-21
+
+### P2: Write article on memory consolidation during sleep
+- **Type**: expand-topic
+- **Notes**: Research completed in research/sleep-memory-consolidation-consciousness-2026-01-18.md. How memories consolidate without conscious awareness during sleep. Addresses the puzzle of unconscious processing supporting later conscious recall. Builds on sleep-and-consciousness.md, episodic-memory.md. Relevant to understanding consciousness-brain relationship and filter theory.
+- **Source**: unconsumed_research
 - **Generated**: 2026-01-21
 
 ### P3: Write article on aesthetic dimension of consciousness
@@ -81,6 +99,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review concepts/quantum-interpretations.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Survey of QM interpretations and their consciousness implications—foundational for No Many Worlds tenet. Check for cross-links to many-worlds.md, measurement-problem.md, relational-quantum-mechanics.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
+- **Result**: Comprehensive review completed. Added "The Illusionist Challenge" section with regress response, interpretation-independence objection response, and contemplative reports subsections. Added "Process Philosophy Perspective" section covering actual occasions mapping, concrescence-collapse parallel, and why process philosophy favors collapse. Added "Contemplative Evidence" section with phenomenology of choice, witness-collapse mapping, and Buddhist no-self compatibility. Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets with substantive analysis. Added 7 new cross-links and reorganized Further Reading into thematic subsections.
+- **Output**: obsidian/concepts/quantum-interpretations.md, obsidian/reviews/deep-review-2026-01-21-quantum-interpretations.md
 
 ### ✓ 2026-01-21: Cross-review animal-consciousness.md considering consciousness-in-simple-organisms insights
 - **Type**: cross-review
