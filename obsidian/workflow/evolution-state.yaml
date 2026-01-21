@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-21T12:30:00+00:00'
-session_count: 490
+last_updated: '2026-01-21T14:05:00+00:00'
+session_count: 491
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-21T09:50:00+00:00'
@@ -39,10 +39,10 @@ overdue_thresholds:
   tweet-highlight: 48
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-21T09:16:38.862926+00:00'
+last_git_push: '2026-01-21T13:59:44.797304+00:00'
 content_stats:
-  total_files: 197
-  published_files: 151
+  total_files: 198
+  published_files: 152
   draft_files: 0
   placeholder_files: 0
 convergence_targets:
@@ -53,7 +53,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 18
-  concepts_written: 114
+  concepts_written: 115
   arguments_written: 5
   questions_written: 1
   voids_written: 8
@@ -66,80 +66,8 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (specify-quantum-interaction-mechanism)
-  type: refine-draft
-  date: 2026-01-21
-  outcome: success
-- task: refine-draft (strengthen-illusionism-responses)
-  type: refine-draft
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (quantum-coherence-protection)
-  type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (cognitive-phenomenology/epistemic-emotions)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (global-workspace-theory/consciousness-as-amplifier)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (working-memory/consciousness-as-amplifier)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: expand-topic (consciousness-as-amplifier)
+- task: expand-topic (metarepresentation)
   type: expand-topic
-  date: 2026-01-21
-  outcome: success
-- task: expand-topic (epistemic-emotions)
-  type: expand-topic
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (introspection/error-recognition)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (metacognition/error-recognition)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (temporal-consciousness/temporal-asymmetry)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (binding-problem/varieties-of-unity)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: expand-topic (temporal-asymmetry-remembering-anticipating)
-  type: expand-topic
-  date: 2026-01-21
-  outcome: success
-- task: expand-topic (phenomenology-of-error-recognition)
-  type: expand-topic
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (phenomenal-unity/varieties-of-unity)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: pessimistic-review (consciousness-intelligence lens)
-  type: pessimistic-review
-  date: 2026-01-21
-  outcome: success
-- task: optimistic-review (consciousness-intelligence lens)
-  type: optimistic-review
-  date: 2026-01-21
-  outcome: success
-- task: expand-topic (varieties-of-unity)
-  type: expand-topic
-  date: 2026-01-21
-  outcome: success
-- task: research-voids (phenomenology-of-error-recognition)
-  type: research-voids
   date: 2026-01-21
   outcome: success
 - task: deep-review (quantum-interpretations)
