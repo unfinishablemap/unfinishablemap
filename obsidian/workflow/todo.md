@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T02:00:00+00:00
+ai_modified: 2026-01-21T21:52:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -57,19 +57,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Cross-review metacognition.md considering consciousness-as-amplifier insights
-- **Type**: cross-review
-- **Notes**: The consciousness-as-amplifier article (2026-01-21) argues that metacognition is a consciousness-dependent capacity enabling the human cognitive leap. The metacognition.md article should be strengthened with this evidence: Jourdain Hypothesis (apes have culture but may not know they have culture), working memory expansion enabling metacognitive monitoring, and the amplification thesis.
-- **Source**: chain (from consciousness-as-amplifier.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review cognitive-phenomenology.md considering consciousness-as-amplifier insights
 - **Type**: cross-review
 - **Notes**: The consciousness-as-amplifier article (2026-01-21) provides empirical evidence that cognitive phenomenology matters: logical reasoning specifically requires conscious processing (Lieberman 2008), counterfactual thinking requires conscious simulation, and cognitive phenomenology enables the human-ape intelligence gap. May strengthen cognitive-phenomenology.md with this functional role evidence.
 - **Source**: chain (from consciousness-as-amplifier.md)
 - **Generated**: 2026-01-22
 
+### P2: Cross-review working-memory.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: The consciousness-as-amplifier article (2026-01-21) presents working memory expansion (2±1 → 7±2 items) as a key mechanism for consciousness-enabled intelligence. The working-memory.md article should be strengthened with this amplification evidence: how expanded WM enables metacognition, counterfactual thinking, and cumulative culture. Check for cross-links.
+- **Source**: chain (from consciousness-as-amplifier.md)
+- **Generated**: 2026-01-22
+
+### P2: Deep review problem-of-other-minds.md for currency and tenet coverage
+- **Type**: deep-review
+- **Notes**: AI-generated concept page has oldest deep-review timestamp (2026-01-18). Covers epistemological problem of knowing other minds exist. Check tenet coverage, illusionist challenge response quality, and integration with recent consciousness-as-amplifier insights (which discuss great ape consciousness evidence).
+- **Source**: staleness
+- **Generated**: 2026-01-22
+
+### P2: Cross-review evolution-of-consciousness.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: The consciousness-as-amplifier article (2026-01-21) provides evidence that consciousness causally contributed to the human cognitive leap—relevant to evolutionary discussions. May strengthen concepts/evolution-of-consciousness.md with the baseline cognition hypothesis, Jourdain Hypothesis, and working memory expansion evidence.
+- **Source**: chain (from consciousness-as-amplifier.md)
+- **Generated**: 2026-01-22
+
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review metacognition.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: The consciousness-as-amplifier article (2026-01-21) argues that metacognition is a consciousness-dependent capacity enabling the human cognitive leap. The metacognition.md article should be strengthened with this evidence: Jourdain Hypothesis (apes have culture but may not know they have culture), working memory expansion enabling metacognitive monitoring, and the amplification thesis.
+- **Result**: Added new "Metacognition in the Amplification Framework" section (~350 words) explaining metacognition's role in the consciousness-as-amplifier hypothesis. Connected working memory expansion to metacognitive capacity. Added consciousness-as-amplifier to concepts frontmatter and top of Further Reading with description.
+- **Output**: obsidian/concepts/metacognition.md
 
 ### ✓ 2026-01-21: Deep review simulation.md for currency and tenet coverage
 - **Type**: deep-review

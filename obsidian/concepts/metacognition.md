@@ -3,7 +3,7 @@ title: "Metacognition and Consciousness"
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-21T15:52:00+00:00
+ai_modified: 2026-01-21T21:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +20,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[phenomenology-of-error-recognition]]"
   - "[[metarepresentation]]"
+  - "[[consciousness-as-amplifier]]"
 related_articles:
   - "[[tenets]]"
   - "[[metacognition-consciousness-2026-01-18]]"
@@ -191,6 +192,16 @@ The apes possess metacognition: they monitor uncertainty, seek information strat
 
 This dissociation—metacognition without metarepresentation—reinforces the Map's framework. Metacognition is a cognitive capacity widespread in the animal kingdom. Metarepresentation may require the expanded phenomenal workspace that distinguishes human consciousness, particularly the [[working-memory|working memory]] capacity to hold multiple representational levels simultaneously. Rats can monitor uncertainty; only humans seem to know they have minds that could be wrong.
 
+### Metacognition in the Amplification Framework
+
+The [[consciousness-as-amplifier|consciousness-as-amplifier]] hypothesis provides a broader framework for understanding metacognition's place in the architecture of mind. Consciousness amplifies intelligence—not by adding computational power, but by enabling flexible deployment, metacognitive monitoring, and counterfactual reasoning. Great apes represent sophisticated "baseline cognition"—what neurons achieve without substantial conscious contribution—while humans show capacities that require consciousness as amplifier.
+
+Metacognition is central to this amplification. The research evidence (Lieberman et al. 2008) demonstrates that logical reasoning specifically requires conscious processing. Cognitive load disrupting conscious attention impairs logical reasoning; disrupting unconscious processing does not. But metacognitive monitoring—the ability to recognise when reasoning goes wrong, adjust strategies, and evaluate one's own cognitive states—depends on conscious access. You cannot metacognitively evaluate processes you're unaware of.
+
+The working memory expansion from great ape 2±1 items to human 7±2 items may underlie this metacognitive amplification. If working memory depends on conscious access (as [[global-workspace-theory|Global Workspace Theory]] suggests), expanded working memory implies expanded consciousness. More items held simultaneously enables more complex metacognitive operations: comparing multiple beliefs, evaluating chains of reasoning, monitoring different aspects of performance at once.
+
+The training evidence supports this amplification framework. Meditators with thousands of hours of practice show dramatically better introspective accuracy than novices (Fox et al. 2012). If metacognition were merely computational—a function implementable without consciousness—such training should be impossible. But conscious attention to conscious states improves metacognitive capacity, suggesting genuine causal involvement. Consciousness doesn't merely *correlate* with enhanced metacognition; it *enables* the enhancement through deliberate practice.
+
 ## Relation to Site Perspective
 
 ### Dualism and the Enabling Relation
@@ -253,6 +264,7 @@ The Map's framework accommodates this: consciousness provides phenomenal content
 
 ## Further Reading
 
+- [[consciousness-as-amplifier]] — How consciousness enables the human cognitive leap through metacognition and other capacities
 - [[metarepresentation]] — The critical distinction between monitoring cognition and representing representations as representations
 - [[higher-order-theories]] — The view that confuses metacognition with consciousness
 - [[introspection]] — Metacognition's role in first-person methods
