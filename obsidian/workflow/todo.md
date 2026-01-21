@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T17:54:00+00:00
+ai_modified: 2026-01-21T18:03:47+00:00
 draft: false
 topics: []
 concepts: []
@@ -63,19 +63,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Deep review metarepresentation.md for quality and illusionist engagement
-- **Type**: deep-review
-- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-21 has never been deep-reviewed. Check tenet coverage, illusionist response quality, cross-links to higher-order-theories and metacognition. Ensure the three-level metarepresentational framework is clearly distinguished from HOT.
-- **Source**: staleness
-- **Generated**: 2026-01-21
-
 ### P2: Deep review phenomenology-of-choice.md for quality and cross-links
 - **Type**: deep-review
 - **Notes**: AI-generated article (ai_contribution: 100) has never been deep-reviewed. Check tenet coverage, illusionist response, contemplative evidence quality. Ensure proper integration with motor-selection.md, agent-causation.md, and free-will.md which recently added cross-review content.
 - **Source**: staleness
 - **Generated**: 2026-01-21
 
+### P2: Deep review meditation-and-consciousness-modes.md for tenet coverage
+- **Type**: deep-review
+- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-18 has never been deep-reviewed. Check tenet coverage (especially Process Philosophy and No Many Worlds), illusionist response quality, and cross-links to witness-consciousness.md, attention.md, and phenomenology.md.
+- **Source**: staleness
+- **Generated**: 2026-01-21
+
+### P3: Deep review temporal-consciousness.md for currency
+- **Type**: deep-review
+- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-15 has never been deep-reviewed. Check tenet coverage, cross-links to specious-present.md, philosophy-of-time.md, and duration.md. May need updates based on recent voids research on temporal asymmetry.
+- **Source**: staleness
+- **Generated**: 2026-01-21
+
+### P3: Deep review mind-brain-separation.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-14 has never been deep-reviewed. Check tenet coverage, illusionist challenge response, and cross-links to loss-of-consciousness.md and near-death-experiences.md.
+- **Source**: staleness
+- **Generated**: 2026-01-21
+
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review metarepresentation.md for quality and illusionist engagement
+- **Type**: deep-review
+- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-21 has never been deep-reviewed. Check tenet coverage, illusionist response quality, cross-links to higher-order-theories and metacognition. Ensure the three-level metarepresentational framework is clearly distinguished from HOT.
+- **Result**: Addressed 0 critical, 3 medium, 1 low issues. Strengthened illusionist challenge section with detailed quasi-phenomenal analysis (~300 words), expanded No Many Worlds argument with temporal structure (~150 words), expanded Minimal Quantum Interaction with binding problem connection (~200 words), added phenomenology-of-choice connection (~100 words). Added cross-links to phenomenology-of-choice, motor-selection, binding-problem.
+- **Output**: obsidian/concepts/metarepresentation.md, obsidian/reviews/deep-review-2026-01-21-metarepresentation.md
 
 ### ✓ 2026-01-21: Cross-review animal-consciousness.md considering consciousness-as-amplifier insights
 - **Type**: cross-review
