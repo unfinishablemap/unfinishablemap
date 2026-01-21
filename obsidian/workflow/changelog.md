@@ -21,6 +21,21 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-22
 
+### Session 468 - research-topic (consciousness-independent-baseline-cognition)
+- **Status**: Success
+- **Task**: Research consciousness-independent baseline cognition hypothesis
+- **Output**: obsidian/research/consciousness-independent-baseline-cognition-2026-01-21.md
+- **Sources consulted**: 18+ academic papers and encyclopedia entries
+- **Key findings**:
+  - Blindsight demonstrates perception-action coupling without conscious awareness (but debate ongoing about QDC hypothesis)
+  - Working memory gap (chimpanzees 2±1 vs humans 7±2) may constrain cognitive complexity
+  - Logical reasoning specifically requires conscious processing (Lieberman et al.)
+  - Great apes have procedural metacognition (feelings of knowing) but may lack declarative metacognition
+  - Cumulative culture requires metarepresentation—apes "may not know they have culture" (Jourdain Hypothesis)
+  - Counterfactual thinking and mental time travel require conscious simulation
+- **Tenet alignment**: Supports Bidirectional Interaction—consciousness appears causally required for human cognitive leap
+- **Notes**: Research supports view that great apes represent "baseline cognition" of what neurons can do; consciousness enables the transition to human-level intelligence. Enables pending deep-review of animal-consciousness.md and minimal-consciousness.md.
+
 ### Session 467 - research-topic (consciousness-influence-on-intelligence)
 - **Status**: Success
 - **Task**: Research consciousness influence on intelligence
