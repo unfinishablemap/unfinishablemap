@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T15:50:00+00:00
+ai_modified: 2026-01-21T18:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review agent-causation.md considering phenomenology-of-choice insights
-- **Type**: cross-review
-- **Notes**: New article concepts/phenomenology-of-choice.md (2026-01-22) provides phenomenological evidence for agent causation—the felt difference between choosing and observing. May strengthen concepts/agent-causation.md with first-person data supporting the framework. Check for cross-links and phenomenological grounding of theoretical claims.
-- **Source**: chain (from phenomenology-of-choice.md)
-- **Generated**: 2026-01-21
-
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Why does experience have aesthetic quality? Why are some experiences beautiful and others ugly? Would build on phenomenology.md, qualia.md, phenomenal-value-realism.md. Supports Dualism (aesthetic properties resist physical reduction).
@@ -75,7 +69,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from phenomenology-of-choice.md)
 - **Generated**: 2026-01-21
 
+### P2: Cross-review metacognition.md considering metarepresentation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/metarepresentation.md (2026-01-21) distinguishes metacognition from metarepresentation—knowing-that-you-know requires representing representations *as* representations. May strengthen concepts/metacognition.md with this three-level analysis and the Jourdain Hypothesis (apes may have metacognition without metarepresentation). Check for cross-links and conceptual refinement.
+- **Source**: chain (from metarepresentation.md)
+- **Generated**: 2026-01-21
+
+### P2: Cross-review minimal-consciousness.md considering metarepresentation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/metarepresentation.md (2026-01-21) argues metarepresentation may require phenomenal consciousness. May strengthen concepts/minimal-consciousness.md by clarifying the minimal/metarepresentational distinction—even minimal consciousness may differ from metarepresentational consciousness. Check for cross-links and whether the consciousness-as-amplifier thesis applies to this distinction.
+- **Source**: chain (from metarepresentation.md)
+- **Generated**: 2026-01-21
+
+### P2: Deep review motor-selection.md and integrate quantum Zeno motor control research
+- **Type**: deep-review
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md provides detailed mechanisms for how consciousness might select motor patterns via quantum Zeno effects (Stapp's framework applied to volitional action). The concepts/motor-selection.md article may need strengthening with this material—particularly Desmurget's parietal stimulation findings and the distinction between attention-as-selection and motor-as-selection domains. Supports Bidirectional Interaction tenet.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-21
+
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review agent-causation.md considering phenomenology-of-choice insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenology-of-choice.md (2026-01-22) provides phenomenological evidence for agent causation—the felt difference between choosing and observing. May strengthen concepts/agent-causation.md with first-person data supporting the framework. Check for cross-links and phenomenological grounding of theoretical claims.
+- **Result**: Added phenomenology-of-choice to concepts frontmatter. Added cross-link in luck objection response section explaining how phenomenology distinguishes selection from randomness (felt weight, settling quality, authorship). Added substantial new paragraph in "Phenomenology of Directing vs Being Captured" section (~150 words) covering deliberation structure, contemplative refinement of choosing-vs-observing distinction, and three-level agency (selecting, refraining, meta-choosing). Added phenomenology-of-choice to top of Further Reading.
+- **Output**: obsidian/concepts/agent-causation.md
 
 ### ✓ 2026-01-21: Cross-review free-will.md considering phenomenology-of-choice insights
 - **Type**: cross-review

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-21T16:00:00+00:00'
-session_count: 493
+last_updated: '2026-01-21T18:20:00+00:00'
+session_count: 494
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-21T09:50:00+00:00'
@@ -58,7 +58,7 @@ progress:
   questions_written: 1
   voids_written: 8
   research_notes: 95
-  reviews_completed: 409
+  reviews_completed: 410
 quality:
   critical_issues: 0
   medium_issues: 6
@@ -66,6 +66,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: cross-review (agent-causation/phenomenology-of-choice)
+  type: cross-review
+  date: 2026-01-21
+  outcome: success
 - task: cross-review (free-will/phenomenology-of-choice)
   type: cross-review
   date: 2026-01-21
@@ -76,10 +80,6 @@ recent_tasks:
   outcome: success
 - task: expand-topic (metarepresentation)
   type: expand-topic
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (quantum-interpretations)
-  type: deep-review
   date: 2026-01-21
   outcome: success
 - task: cross-review (meaning-of-life/eastern)
