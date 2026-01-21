@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-20 19:30:00+00:00
+ai_modified: 2026-01-21 12:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[decoherence]]'
 - '[[haecceity]]'
+- '[[epistemic-emotions]]'
 created: 2026-01-16
 date: &id001 2026-01-20
 draft: false
@@ -149,6 +150,37 @@ The remember/know paradigm operationalises this: when recognising an item, subje
 
 Tulving's framework suggests cognitive phenomenology isn't just the experience of active thinking but also the experience of having knowledge—the "background phenomenology" of conceptual capacities ready for deployment.
 
+## Evidence from Epistemic Emotions
+
+[Epistemic emotions](/concepts/epistemic-emotions/)—curiosity, doubt, certainty, confusion, surprise, insight—provide strong evidence for cognitive phenomenology because they are emotions specifically *about* cognitive states. Unlike fear (directed at threats) or joy (directed at positive events), epistemic emotions concern our position as knowers.
+
+### Why Epistemic Emotions Matter
+
+The conservativist about cognitive phenomenology must reduce all phenomenology to sensory states. But epistemic emotions resist this reduction in systematic ways:
+
+**Curiosity** involves a phenomenal pull toward unknown information. The feeling cannot reduce to anticipatory pleasure (which curiosity includes) because curiosity is *about* knowledge-gaps. The "wanting to know" has phenomenal character that the "wanting" of other desires lacks.
+
+**Doubt** involves holding a belief and its negation in phenomenal tension. The destabilisation of certainty has its own character—neither the content of the belief nor any accompanying bodily anxiety captures what doubt *feels like* from inside.
+
+**The feeling of knowing** (already discussed above) has phenomenal character distinct from actual retrieval. The epistemic-emotions framework situates this within a broader taxonomy: certainty is one epistemic emotion among several, each with proprietary phenomenology.
+
+**Confusion** is particularly revealing. The Map's analysis distinguishes confusion (active failure to integrate) from simple not-understanding (lacking relevant knowledge). Confusion involves experienced cognitive load—the sense of struggling. This phenomenal quality cannot reduce to sensory frustration because it is specifically *about* understanding failing. A conservativist would need to explain why confusion about mathematics feels different from confusion about art without reference to cognitive phenomenology.
+
+### The Metacognitive Structure
+
+Epistemic emotions have a layered structure:
+1. First-order cognition (beliefs about the world)
+2. Second-order monitoring (awareness of those beliefs)
+3. Epistemic emotions (affective responses to the monitoring)
+
+This metacognitive character makes them strong candidates for proprietary cognitive phenomenology. The feeling of certainty is not about an object in the world; it's about *your relationship to knowledge*. Sensory states are first-order; epistemic emotions are third-order. Reducing third-order phenomenology to first-order sensory states faces a structural mismatch.
+
+### Contemplative Corroboration
+
+Contemplative traditions distinguish epistemic emotions with precision ordinary language lacks. The Socratic concept of *aporia*—productive confusion—is phenomenally distinct from ordinary confusion. Zen practice cultivates "great doubt" as a transformative state. These traditions report that epistemic emotions have rich phenomenal structure that becomes more apparent with training—the opposite of what we would expect if they were introspective artifacts.
+
+The epistemic emotions evidence strengthens the case that cognitive phenomenology exists and is accessible to trained introspection. If epistemic emotions have irreducible phenomenal character—and they demonstrably do—then at minimum some cognitive phenomenology exists, even if the status of "pure understanding" remains contested.
+
 ## Evidence from Unusual Cases
 
 ### Aphantasia
@@ -269,6 +301,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 
 ## Further Reading
 
+- [epistemic-emotions](/concepts/epistemic-emotions/) — Curiosity, doubt, certainty, and other feelings about knowing
 - [semantic-memory](/concepts/semantic-memory/) — TOT/FOK phenomenology and noetic consciousness
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — The contrast between remembering and knowing
 - [phenomenology](/concepts/phenomenology/) — The method for investigating conscious experience

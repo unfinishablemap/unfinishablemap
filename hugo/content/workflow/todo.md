@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 13:50:00+00:00
+ai_modified: 2026-01-22 09:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,6 +38,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Research phenomenology of choice and decision
+- **Type**: research-topic
+- **Notes**: Optimistic review high-priority suggestion. What is the phenomenology of choosing? The experience of deciding differs qualitatively from observing decisions happen. Research: phenomenological accounts of agency (Merleau-Ponty, Husserl on volition), neuroscience of decision-making, how phenomenology of agency supports libertarian free will. Builds on free-will.md, agent-causation.md, mental-effort.md. Supports Bidirectional Interaction.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-22
+
+### P2: Strengthen illusionism responses across core articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-21 identified critical issue: the regress objection against illusionism is deployed but illusionist responses (Frankish's quasi-phenomenal properties) are not engaged. Target: qualia.md, philosophical-zombies.md, ai-consciousness.md. Engage specifically with Frankish's quasi-phenomenal seemings and show why they don't dissolve the regress.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-22
+
+### P2: Specify quantum interaction mechanism more precisely
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-21 identified critical issue: interactionist-dualism.md doesn't adequately explain how consciousness could "bias" quantum outcomes without violating quantum statistics. Either: (a) accept unfalsifiability and explain why it doesn't undermine the theory, (b) specify what statistical signature biasing would leave, or (c) distinguish "selecting among equally probable outcomes" from "biasing probabilities."
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-22
+
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Why does experience have aesthetic quality? Why are some experiences beautiful and others ugly? Would build on phenomenology.md, qualia.md, phenomenal-value-realism.md. Supports Dualism (aesthetic properties resist physical reduction).
@@ -69,17 +87,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-21
 
-### P2: Cross-review cognitive-phenomenology.md considering epistemic-emotions insights
-- **Type**: cross-review
-- **Notes**: New article concepts/epistemic-emotions.md (2026-01-21) covers curiosity, doubt, certainty, and insight as phenomenal experiences with cognitive content. May strengthen concepts/cognitive-phenomenology.md with the epistemic dimension. Check for cross-links and whether epistemic emotions constitute cognitive phenomenology or accompany it.
-- **Source**: chain (from epistemic-emotions.md)
-- **Generated**: 2026-01-21
-
-### P2: Deep review quantum-coherence-protection.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: Recently written article (ai_contribution: 100), never deep-reviewed. Covers four protection mechanisms for neural quantum coherence. Check for cross-links to decoherence.md, neural-quantum-coherence.md, quantum-biology.md. May need illusionist challenge section strengthening and process philosophy connections.
-- **Source**: staleness
-- **Generated**: 2026-01-22
 
 ### P2: Deep review lucid-dreaming-and-consciousness.md for currency and cross-links
 - **Type**: deep-review
@@ -88,6 +95,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review quantum-coherence-protection.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: Recently written article (ai_contribution: 100), never deep-reviewed. Covers four protection mechanisms for neural quantum coherence. Check for cross-links to decoherence.md, neural-quantum-coherence.md, quantum-biology.md. May need illusionist challenge section strengthening and process philosophy connections.
+- **Result**: Addressed two critical issues: (1) timescale gap between microsecond coherence and millisecond neural processing—added new subsection with quantum Zeno and cumulative selection responses; (2) weak illusionist response—expanded to engage Frankish's quasi-phenomenal properties with refined regress and zombie reformulation arguments. Added cross-link to mental-effort.md.
+- **Output**: obsidian/concepts/quantum-coherence-protection.md, obsidian/reviews/deep-review-2026-01-21-quantum-coherence-protection.md
+
+### ✓ 2026-01-21: Cross-review cognitive-phenomenology.md considering epistemic-emotions insights
+- **Type**: cross-review
+- **Notes**: New article concepts/epistemic-emotions.md (2026-01-21) covers curiosity, doubt, certainty, and insight as phenomenal experiences with cognitive content. May strengthen concepts/cognitive-phenomenology.md with the epistemic dimension. Check for cross-links and whether epistemic emotions constitute cognitive phenomenology or accompany it.
+- **Result**: Added new "Evidence from Epistemic Emotions" section (~600 words) with three subsections: Why Epistemic Emotions Matter, The Metacognitive Structure, and Contemplative Corroboration. Analysis shows epistemic emotions provide strong evidence for cognitive phenomenology because they are specifically *about* cognitive states (metacognitive). Added epistemic-emotions to concepts frontmatter and Further Reading.
+- **Output**: obsidian/concepts/cognitive-phenomenology.md
 
 ### ✓ 2026-01-21: Cross-review global-workspace-theory.md considering consciousness-as-amplifier insights
 - **Type**: cross-review

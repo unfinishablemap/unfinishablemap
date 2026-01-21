@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-21 04:45:00+00:00
+ai_modified: 2026-01-21 12:21:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,12 +14,13 @@ concepts:
 - '[[introspection]]'
 - '[[witness-consciousness]]'
 - '[[haecceity]]'
+- '[[mental-effort]]'
 created: 2026-01-21
 date: &id001 2026-01-21
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-21 12:21:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,9 +37,17 @@ Four distinct mechanisms have been proposed for protecting quantum coherence in 
 
 Max Tegmark's influential 2000 calculation claimed quantum coherence in brain microtubules would decay in approximately 10⁻¹³ seconds—far too brief for neural processes operating on millisecond timescales. This became the standard objection to [quantum consciousness theories](/concepts/quantum-consciousness/). If superpositions collapse in femtoseconds, consciousness cannot influence quantum outcomes.
 
-The calculation assumed thermal equilibrium—appropriate for dead tissue, not living systems—and separation distances larger than actual proposals specify. Hagan, Hameroff, and Tuszynski (2002) challenged these assumptions directly. Their corrected calculation extended coherence times by seven orders of magnitude, reaching 10⁻⁵ to 10⁻⁴ seconds. With revised timescale requirements based on faster microtubule dynamics, coherence times of 10⁻⁷ seconds may suffice for the quantum Zeno mechanism.
+The calculation assumed thermal equilibrium—appropriate for dead tissue, not living systems—and separation distances larger than actual proposals specify. Hagan, Hameroff, and Tuszynski (2002) challenged these assumptions directly. Their corrected calculation extended coherence times by seven orders of magnitude, reaching 10⁻⁵ to 10⁻⁴ seconds.
 
-This reframing matters. The debate is no longer about whether quantum effects are categorically impossible in brains but about which protection mechanisms operate and for how long.
+### The Remaining Timescale Gap
+
+Critics note that even microsecond coherence times remain three orders of magnitude below the millisecond timescales of neural firing. Two responses address this:
+
+**Quantum Zeno mechanism**: Stapp's [mental effort](/concepts/mental-effort/) framework doesn't require coherence to persist for milliseconds continuously. Repeated attentional probing on sub-millisecond timescales—the quantum Zeno effect—could refresh superpositions faster than decoherence destroys them. What matters is whether attention can "catch" quantum states before they decohere, not whether coherence persists passively.
+
+**Cumulative selection**: If consciousness selects among quantum alternatives many times per second rather than once per neural firing event, even microsecond coherence windows provide sufficient opportunity. The question shifts from "how long does coherence last?" to "how fast can selection operate?"
+
+This reframing matters. The debate is no longer about whether quantum effects are categorically impossible in brains but about whether protection mechanisms provide sufficient windows for quantum selection.
 
 ## Mechanism 1: Hydrophobic Microtubule Interior
 
@@ -108,13 +117,17 @@ The combination could extend effective coherence times far beyond what any singl
 
 [Illusionists](/concepts/illusionism/) argue that quantum coherence protection, even if real, doesn't establish that consciousness *is* quantum mechanical—it only shows that quantum effects could influence neural processing. Consciousness might still be a functional property that could be realized without quantum mechanics.
 
-Three responses:
+Keith Frankish's sophisticated formulation deserves direct engagement. He proposes "quasi-phenomenal properties"—functional states that represent experiences as having phenomenal qualities without those qualities actually existing. On this view, we don't experience redness; we represent ourselves as experiencing redness, and this representation is what needs explaining.
 
-**The regress problem**: If consciousness were merely functional computation, what explains the fact that we can meaningfully discuss the difference between phenomenal experience and functional processing? The illusionist must explain not just consciousness but our ability to recognize the explanatory gap. This recognition is itself a functional state, which (on illusionism) should have no privileged access to phenomenal facts. Yet it does.
+Four responses:
 
-**Introspection survives debunking**: The illusionist claim that qualia are illusions depends on introspective reports about the character of experience. But if introspection is systematically unreliable about what experience is like, why trust the introspective reports that motivate illusionism in the first place? [Introspection](/concepts/introspection/) about experience remains evidence about experience.
+**The regress problem, refined**: Frankish's quasi-phenomenal seemings must themselves be experienced to influence behaviour. If my representation of "seeming red" affects my reports, something must instantiate that representation. What is it like for a system to represent-as-red without anything being experienced? Either the representation involves a qualitative state (and we're back to phenomenal properties) or it doesn't—in which case, why do we distinguish representing-as-red from representing-as-blue? The discrimination requires a difference that, if not phenomenal, has no explanatory purchase.
 
-**Functional asymmetry**: Quantum selection mechanisms could explain why certain neural configurations produce reportable phenomenal states while functionally similar classical configurations do not. The quantum-classical distinction tracks a phenomenal distinction that pure functionalism cannot accommodate.
+**The zombie reformulation**: Illusionism implies that philosophical zombies would be under the "same illusion" we are—they too would represent-as-experiencing without experiencing. But this makes the conceivability argument stronger, not weaker. The illusionist has specified precisely what zombies would be: systems with quasi-phenomenal properties but no phenomenal properties. If such systems are conceivable (as illusionism requires), then phenomenal properties are not identical to quasi-phenomenal ones.
+
+**Introspection survives debunking**: The illusionist claim that qualia are illusions depends on introspective reports about the character of experience. But if [introspection](/concepts/introspection/) is systematically unreliable about what experience is like, why trust the introspective reports that motivate illusionism in the first place? Introspection about experience remains evidence about experience.
+
+**Functional asymmetry**: Quantum selection mechanisms could explain why certain neural configurations produce reportable phenomenal states while functionally similar classical configurations do not. If consciousness selects among quantum possibilities, the physical signature of this selection—however subtle—distinguishes conscious from non-conscious processing in ways functional specification alone cannot capture.
 
 ## Contemplative Evidence
 
@@ -181,6 +194,7 @@ The assumption that warm biology must be classical—and therefore that quantum 
 - [quantum-biology](/concepts/quantum-biology/) — Proven quantum effects in biology
 - [neural-quantum-coherence](/concepts/neural-quantum-coherence/) — Coherence in neural systems
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Quantum entanglement and the binding problem
+- [mental-effort](/concepts/mental-effort/) — Stapp's quantum Zeno framework for voluntary attention
 
 ## References
 
