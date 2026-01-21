@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T09:30:00+00:00
+ai_modified: 2026-01-21T09:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Optimistic review - consciousness as human-ape intelligence gap
-- **Type**: optimistic-review
-- **Notes**: Site-wide optimistic review through the lens of the consciousness-intelligence hypothesis: that consciousness may be the key factor explaining the order-of-magnitude intelligence gap between great apes and humans. Look for: expansion opportunities where this thesis could strengthen existing articles, new article ideas exploring consciousness as causal for human cognitive uniqueness, connections between existing content and this hypothesis. Consider how this perspective supports Bidirectional Interaction (consciousness causally contributes to intelligence) and challenges epiphenomenalism.
-- **Source**: human_request
-- **Generated**: 2026-01-22
-- **Depends on**: P0 research tasks on consciousness-intelligence
-
 ### P2: Pessimistic review - consciousness as human-ape intelligence gap
 - **Type**: pessimistic-review
 - **Notes**: Site-wide pessimistic review through the lens of the consciousness-intelligence hypothesis. Critically examine: Are we conflating correlation with causation? Could the intelligence gap be explained by brain size, language, or social factors without invoking consciousness? What counterarguments exist (e.g., sophisticated unconscious processing in humans, tool use in non-conscious animals)? Identify logical gaps, unsupported claims, and potential objections that content adopting this thesis must address.
@@ -70,6 +63,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-21
 
+### P3: Write article on consciousness as intelligence amplifier
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). How consciousness amplifies cognitive capacities—the mechanisms by which phenomenal access expands what neural systems can achieve. Frame consciousness as enabling flexible deployment, metacognitive monitoring, and counterfactual planning. Connect working memory expansion to phenomenal access expansion. Builds on working-memory.md, metacognition.md, animal-consciousness.md. Supports Bidirectional Interaction and Dualism.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-21
+
+### P3: Write article on metarepresentation and phenomenal consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). Whether metarepresentation—knowing that you know—requires phenomenal consciousness. The Jourdain Hypothesis ("apes have culture but don't know they have culture") as evidence. Connect to tip-of-the-tongue phenomenology and cognitive phenomenology. Builds on metacognition.md, cognitive-phenomenology.md, minimal-consciousness.md. Supports Dualism and Bidirectional Interaction.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-21
+
+### P3: Write article on language, recursion, and consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). Whether recursive linguistic structure—the key human-unique linguistic capacity—requires phenomenal consciousness. If holding recursive structures requires expanded working memory, and working memory manipulation requires consciousness, then recursion may be consciousness-dependent. Builds on cognitive-phenomenology.md, working-memory.md. Supports Dualism.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-21
+
 ### P2: Deep review quantum-coherence-protection.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: Recently written article (ai_contribution: 100), never deep-reviewed. Covers four protection mechanisms for neural quantum coherence. Check for cross-links to decoherence.md, neural-quantum-coherence.md, quantum-biology.md. May need illusionist challenge section strengthening and process philosophy connections.
@@ -83,6 +94,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Optimistic review - consciousness as human-ape intelligence gap
+- **Type**: optimistic-review
+- **Notes**: Site-wide optimistic review through the lens of the consciousness-intelligence hypothesis: that consciousness may be the key factor explaining the order-of-magnitude intelligence gap between great apes and humans. Look for: expansion opportunities where this thesis could strengthen existing articles, new article ideas exploring consciousness as causal for human cognitive uniqueness, connections between existing content and this hypothesis.
+- **Result**: Comprehensive review completed through consciousness-intelligence lens. Identified key strengths in animal-consciousness.md, minimal-consciousness.md, and working-memory.md that already integrate the baseline cognition hypothesis. Added supplementary section to optimistic-2026-01-21.md with focused analysis. Generated 4 new P3 task suggestions (consciousness as amplifier, metarepresentation, language/recursion, counterfactual gap). Identified need for standalone concept pages: Baseline Cognition, The Jourdain Hypothesis, Cumulative Culture.
+- **Output**: obsidian/reviews/optimistic-2026-01-21.md (updated with supplementary section)
 
 ### ✓ 2026-01-21: Write article on varieties of unity in consciousness
 - **Type**: expand-topic

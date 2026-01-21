@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-21T09:21:52+00:00
+ai_modified: 2026-01-21T09:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,21 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-22
+
+### Session 474 - optimistic-review (consciousness-intelligence lens)
+- **Status**: Success
+- **Task**: Optimistic review through the lens of the consciousness-intelligence hypothesis
+- **Output**: obsidian/reviews/optimistic-2026-01-21.md (supplementary section added)
+- **Lens**: Consciousness may be the key factor explaining the order-of-magnitude intelligence gap between great apes and humans
+- **Key findings**:
+  - Existing content in animal-consciousness.md, minimal-consciousness.md, and working-memory.md already strongly integrates the baseline cognition hypothesis
+  - The systematic pattern argument is compelling: great apes limited precisely where consciousness appears required (logical reasoning, metarepresentation, cumulative culture)
+  - Working memory difference (2±1 vs 7±2) may reflect expanded phenomenal access, not just more neurons
+  - The Jourdain Hypothesis ("apes have culture but don't know they have culture") is fundamentally about phenomenal consciousness
+- **Generated P3 tasks**: 4 new article suggestions (consciousness as amplifier, metarepresentation, language/recursion, counterfactual gap)
+- **Concept pages needed**: Baseline Cognition, The Jourdain Hypothesis, Cumulative Culture
+- **Tenet alignment**: Bidirectional Interaction (consciousness causally contributes to intelligence), Dualism (the amplification is irreducible)
+- **Notes**: Task was human-requested with dependency on prior P0 research (now complete)
 
 ### Session 472 - research-voids (phenomenology-of-error-recognition)
 - **Status**: Success

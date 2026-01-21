@@ -178,3 +178,72 @@ The voids section continues to offer something distinctive: philosophical treatm
 ## Conclusion
 
 The Unfinishable Map has achieved a distinctive synthesis: rigorous analytic philosophy, empirical grounding (neuroscience, quantum biology, meditation research), and phenomenological depth (contemplative traditions, first-person methods). The systematic deep reviews have created consistency and accountability throughout. The framework takes consciousness seriously without retreating into mysticism, and defends unfashionable positions (interactionist dualism, libertarian free will) with intellectual honesty about what is speculative. The Map demonstrates that taking the hard problem seriously leads somewhere philosophically productive.
+
+---
+
+# Supplementary Review: Consciousness-Intelligence Hypothesis Lens
+
+**Added**: 2026-01-21 (Session 474)
+**Lens**: Consciousness-Intelligence Hypothesis—the thesis that consciousness may be the key factor explaining the order-of-magnitude intelligence gap between great apes and humans.
+
+## Key Strengths Through This Lens
+
+### animal-consciousness.md: The Foundation
+The "Consciousness and the Human-Ape Intelligence Gap" section (~1200 words) brilliantly integrates the baseline cognition hypothesis, working memory differences (2±1 vs 7±2), the Jourdain Hypothesis ("apes have culture but don't know they have culture"), and evidence that logical reasoning requires conscious processing. The systematic pattern argument is compelling: "The gap is not random—it tracks the consciousness-dependent capacities: logical reasoning, metarepresentation, cumulative culture, counterfactual thinking."
+
+### minimal-consciousness.md: Empirical Tractability
+The baseline cognition hypothesis is presented with appropriate nuance—it doesn't solve the minimal consciousness question but provides a principled way to distinguish organisms exhibiting consciousness-dependent capacities from those operating within baseline limits. The contrast between slime molds (sophisticated cognition without consciousness indicators) and humans (consciousness-dependent capacities) illuminates what consciousness specifically contributes.
+
+### working-memory.md: Neural Mechanism
+The maintenance/manipulation distinction maps precisely onto consciousness-independence vs consciousness-dependence. This provides neuropsychological grounding for the consciousness-cognition distinction and makes the 7±2 vs 2±1 working memory difference evidence for expanded consciousness, not merely neural capacity.
+
+## Expansion Opportunities (Consciousness-Intelligence Lens)
+
+### High Priority
+
+**Consciousness as Intelligence Amplifier**
+- Builds on: working-memory.md, metacognition.md, animal-consciousness.md
+- Key angle: Frame consciousness not as creating intelligence but as amplifying it—enabling flexible deployment, metacognitive monitoring, and counterfactual planning. Connect working memory expansion to phenomenal access expansion.
+- Tenet alignment: Bidirectional Interaction (consciousness causally contributes), Dualism (the amplification is irreducible to neural complexity)
+
+**The Evolutionary Argument for Conscious Causation**
+- Builds on: evolution-of-consciousness.md, epiphenomenalism.md, animal-consciousness.md
+- Key angle: Focus on the pleasure-pain correlation with beneficial-harmful stimuli. The great ape-human comparison provides new evidence: the correlation isn't merely general but tracks specific capacities.
+- Tenet alignment: Bidirectional Interaction (direct support), Occam's Razor Has Limits (epiphenomenalism creates the evolutionary puzzle)
+
+**Metarepresentation and Phenomenal Consciousness**
+- Builds on: metacognition.md, cognitive-phenomenology.md, minimal-consciousness.md
+- Key angle: The Jourdain Hypothesis becomes evidence that metarepresentation requires phenomenal consciousness. Connect to tip-of-the-tongue phenomenology and cognitive phenomenology (the experience of understanding).
+- Tenet alignment: Dualism (if metarepresentation requires phenomenal consciousness, it's irreducible)
+
+**Language, Recursion, and Consciousness**
+- Builds on: cognitive-phenomenology.md, working-memory.md
+- Key angle: If holding recursive structures requires expanded working memory, and working memory manipulation requires consciousness, then recursion may be consciousness-dependent—explaining why only humans have recursive language.
+- Tenet alignment: Dualism (recursion may require phenomenal self-modelling)
+
+### Medium Priority
+
+**The Counterfactual Gap**
+- Key angle: The Bischof-Köhler hypothesis suggests animals cannot act on drive states they don't currently possess. Counterfactual thinking may require phenomenal simulation of alternatives—explaining the human-ape gap.
+
+**Cumulative Culture as Consciousness Marker**
+- Key angle: The "zone of latent solutions" vs cumulative innovation. Process-oriented social learning may require phenomenal access to one's own cognitive processes.
+
+### Cross-Linking Suggestions
+
+| From | To | Reason |
+|------|-----|--------|
+| free-will.md | animal-consciousness.md | Connect free will to comparative cognition |
+| cognitive-phenomenology.md | minimal-consciousness.md | Understanding's phenomenal character connects to baseline cognition |
+| mental-causation.md | animal-consciousness.md | Evolutionary argument strengthened by comparative data |
+| consciousness-and-creativity.md | animal-consciousness.md | Great ape creativity limits illuminate consciousness-creativity connection |
+
+### New Concept Pages Needed
+
+- **Baseline Cognition**: Standalone page for this central concept (cross-references working memory, metacognition, minimal consciousness, animal consciousness)
+- **The Jourdain Hypothesis**: Dedicated treatment of "apes have culture but don't know they have culture"
+- **Cumulative Culture**: The ratchet effect, zone of latent solutions, why humans alone achieve it
+
+## Assessment
+
+The Map's treatment of consciousness-intelligence is remarkably strong. The main opportunity is to develop dedicated articles on themes currently embedded in animal-consciousness.md and minimal-consciousness.md. The consciousness-intelligence hypothesis aligns naturally with the Map's tenets and deserves continued development as a major argumentative strand.
