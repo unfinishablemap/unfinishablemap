@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 18:30:00+00:00
+ai_modified: 2026-01-21 18:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -64,19 +64,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Deep review meditation-and-consciousness-modes.md for tenet coverage
-- **Type**: deep-review
-- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-18 has never been deep-reviewed. Check tenet coverage (especially Process Philosophy and No Many Worlds), illusionist response quality, and cross-links to witness-consciousness.md, attention.md, and phenomenology.md.
-- **Source**: staleness
-- **Generated**: 2026-01-21
-
 ### P2: Deep review mind-brain-separation.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-14 has never been deep-reviewed. Check tenet coverage, illusionist challenge response, and cross-links to loss-of-consciousness.md and near-death-experiences.md.
 - **Source**: staleness (promoted)
 - **Generated**: 2026-01-21
 
+### P2: Deep review working-memory.md for tenet coverage and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-17 has never been deep-reviewed. Check tenet coverage (especially Bidirectional Interaction via attention-as-interface), illusionist challenge response, and cross-links to consciousness-as-amplifier.md, global-workspace-theory.md, and mental-effort.md.
+- **Source**: staleness
+- **Generated**: 2026-01-21
+
+### P2: Deep review epistemic-emotions.md for quality and tenet alignment
+- **Type**: deep-review
+- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-21 has never been deep-reviewed. Check comprehensive tenet coverage, illusionist challenge response quality (epistemic emotions are a strong case against illusionism), and cross-links to cognitive-phenomenology.md and metacognition.md.
+- **Source**: staleness
+- **Generated**: 2026-01-21
+
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review meditation-and-consciousness-modes.md for tenet coverage
+- **Type**: deep-review
+- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-18 has never been deep-reviewed. Check tenet coverage (especially Process Philosophy and No Many Worlds), illusionist response quality, and cross-links to witness-consciousness.md, attention.md, and phenomenology.md.
+- **Result**: Addressed 2 critical issues (missing illusionist engagement, thin Buddhist phenomenology), 3 medium issues (underdeveloped No Many Worlds argument, missing Process Philosophy section, missing cross-links). Added "The Illusionist Challenge" section (~400 words) with regress argument and zombie reformulation. Added "Buddhist Phenomenology of the Two Modes" subsection (~350 words) covering śamatha/vipassanā, jhāna progression, Tibetan nine stages, Zen shikantaza. Added "Process Philosophy Perspective" section (~300 words) connecting Whitehead's poles to the two modes. Expanded No Many Worlds argument (~200 words). Added cross-links to illusionism, phenomenology-of-choice, phenomenology.
+- **Output**: obsidian/concepts/meditation-and-consciousness-modes.md, obsidian/reviews/deep-review-2026-01-21-meditation-and-consciousness-modes.md
 
 ### ✓ 2026-01-21: Deep review temporal-consciousness.md for currency and voids integration
 - **Type**: deep-review
