@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-01-20T17:00:00+00:00'
+ai_modified: '2026-01-21T00:20:26.738349'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-01-20'
+modified: '2026-01-21'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-01-21: Existentialism Meets Dualism
+
+Deep review: Sartre's pour-soi structure—consciousness as radically different from things—anticipates the regress problem illusionism faces. The witness who observes cannot itself become the witnessed.
+
+**Type**: insight  
+**Link**: [[existentialism]]
+
+---
+
 ### 2026-01-20: Zombies and the Illusionist's Dilemma
 
 Deep review of philosophical zombies reveals why illusionism may strengthen rather than undermine the conceivability argument—if zombies would be "under the same illusion," what distinguishes us from them?
