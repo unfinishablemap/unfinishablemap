@@ -3,7 +3,7 @@ title: "Global Workspace Theory"
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T22:55:00+00:00
+ai_modified: 2026-01-21T13:45:00+00:00
 draft: false
 last_deep_review: 2026-01-19T22:55:00+00:00
 topics:
@@ -26,6 +26,7 @@ concepts:
   - "[[autonoetic-consciousness]]"
   - "[[dreams-and-consciousness]]"
   - "[[metacognition]]"
+  - "[[consciousness-as-amplifier]]"
 related_articles:
   - "[[tenets]]"
   - "[[global-workspace-theory-2026-01-14]]"
@@ -138,6 +139,20 @@ Recent research reveals a telling asymmetry: **maintenance can be unconscious wh
 
 The 2025 COGITATE results reinforce this. Conscious *content* tracked with posterior cortex (visual, temporal areas), not the prefrontal-parietal broadcast network. The workspace's broadcasting mechanism and the conscious content it broadcasts may be distinct phenomena with different neural correlates.
 
+### The Amplification Hypothesis
+
+The global workspace may do more than explain *when* information becomes accessible—it may explain *how* [[consciousness-as-amplifier|consciousness amplifies cognition]]. The amplification hypothesis proposes that consciousness doesn't add computational power (neurons handle computation) but enables flexible deployment of what neural systems can already do.
+
+Comparative evidence illuminates this. Chimpanzee working memory holds approximately 2±1 items compared to the human 7±2. If working memory depends on conscious access via the global workspace (as GWT suggests), this three-to-four-fold expansion implies expanded consciousness. The additional capacity enables holding multiple representations simultaneously for comparison, manipulation, and flexible combination—operations that transform cognition.
+
+This framing reinterprets GWT's central claim. The global broadcast isn't merely making information reportable—it's making information *manipulable*. The workspace enables:
+
+- **Cross-domain integration**: Information in the spotlight can inform motor planning, verbal report, memory encoding, and emotional evaluation simultaneously
+- **Flexible recombination**: Multiple items held consciously can be combined into novel structures
+- **Metacognitive monitoring**: Conscious access enables evaluating one's own cognitive processes
+
+The systematic pattern in the human-great ape gap supports this reading. Great apes show precisely the limitations expected if consciousness amplifies through the workspace: sophisticated within domain-specific modules, limited precisely where global broadcast is required—logical reasoning, counterfactual thinking, cumulative culture.
+
 ## Memory Systems and Global Broadcast
 
 Baars explicitly addressed how GWT explains the difference between conscious and unconscious memory. The global workspace provides a framework for understanding why some memories require conscious access while others operate automatically—a distinction mapped by Tulving's three-memory taxonomy.
@@ -237,6 +252,7 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [[phenomenal-concepts-strategy]] — Explaining away phenomenal intuitions
 - [[dreams-and-consciousness]] — Dreaming without full workspace engagement
 - [[metacognition]] — Self-reflective processes and workspace engagement
+- [[consciousness-as-amplifier]] — The amplification hypothesis connecting workspace access to cognitive enhancement
 - [[global-workspace-theory-2026-01-14]] — Detailed research notes
 
 ## References
