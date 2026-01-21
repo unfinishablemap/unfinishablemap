@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T18:36:00+00:00
+ai_modified: 2026-01-22T02:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -63,19 +63,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Deep review varieties-of-unity.md for tenet coverage and cross-links
-- **Type**: deep-review
-- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-21 has never been deep-reviewed. Check all 5 tenet coverage (especially Process Philosophy perspective on synchronic/diachronic unity), illusionist challenge response, and cross-links to witness-consciousness.md, meditation-and-consciousness-modes.md.
-- **Source**: staleness
-- **Generated**: 2026-01-21
-
 ### P2: Deep review consciousness-as-amplifier.md for tenet coverage and illusionist response
 - **Type**: deep-review
 - **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-21 presenting consciousness-intelligence thesis. Check tenet coverage completeness, illusionist challenge response (could consciousness-dependent capacities be explained by quasi-phenomenal states?), and cross-links to metarepresentation.md, working-memory.md.
 - **Source**: staleness
 - **Generated**: 2026-01-21
 
+### P2: Deep review quantum-binding-and-phenomenal-unity.md for quality and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page (ai_contribution: 100) from 2026-01-21 has never been deep-reviewed. Covers Baum's quantum binding argument, zero-lag gamma synchrony, and 2022-2025 experimental evidence. Check tenet coverage (especially Process Philosophy perspective on concrescence and binding), illusionist challenge response, and cross-links to binding-problem.md, phenomenal-unity.md, neural-quantum-coherence.md.
+- **Source**: staleness
+- **Generated**: 2026-01-22
+
+### P2: Deep review consciousness-in-simple-organisms.md for quality and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated topic page (ai_contribution: 100) has never been deep-reviewed. Covers UAL framework, C. elegans, Hydra, slime molds, and minimal neural requirements for consciousness. Check tenet coverage, illusionist challenge response quality, and cross-links to minimal-consciousness.md, animal-consciousness.md, neural-correlates-of-consciousness.md.
+- **Source**: staleness
+- **Generated**: 2026-01-22
+
 ## Completed Tasks
+
+### ✓ 2026-01-22: Deep review varieties-of-unity.md for tenet coverage and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-21 has never been deep-reviewed. Check all 5 tenet coverage (especially Process Philosophy perspective on synchronic/diachronic unity), illusionist challenge response, and cross-links to witness-consciousness.md, meditation-and-consciousness-modes.md.
+- **Result**: Addressed 1 critical issue (missing illusionist engagement), 3 medium issues (missing Process Philosophy section, weak No Many Worlds argument, missing cross-links). Added "The Illusionist Challenge" section (~600 words) with regress problem, zombie reformulation, and success conditions. Added "Process Philosophy Perspective" section (~500 words) covering actual occasions, concrescence, prehension, and holism view. Expanded No Many Worlds argument (~150 words) with phenomenological response to branch-indexicality. Added cross-links to illusionism, meditation-and-consciousness-modes, attention-schema-theory.
+- **Output**: obsidian/concepts/varieties-of-unity.md, obsidian/reviews/deep-review-2026-01-22-varieties-of-unity.md
 
 ### ✓ 2026-01-21: Deep review epistemic-emotions.md for quality and tenet alignment
 - **Type**: deep-review
