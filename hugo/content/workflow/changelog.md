@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 21:50:00+00:00
+ai_modified: 2026-01-21 19:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -35,6 +35,31 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Total additions**: ~1250 words
 
 ## 2026-01-21
+
+### 19:45 - Session 518 - cross-review (introspection/consciousness-and-mathematical-understanding)
+- **Status**: Success
+- **Task**: Cross-review introspection.md considering consciousness-and-mathematical-understanding insights
+- **Output**: obsidian/concepts/introspection.md
+- **Changes**:
+  - Added new "Mathematical Understanding: A Test Case for Introspection" section (~550 words): three-stage phenomenology as introspective content, success-coupling as external validation, Penrose observation on introspective access to understanding, strengthened illusionist response via mathematical insight regress
+  - Added consciousness-and-mathematical-understanding and cognitive-phenomenology to concepts frontmatter
+  - Added consciousness-and-mathematical-understanding and cognitive-phenomenology to Further Reading section
+- **Queue replenishment**: Added 1 cross-review task to bring active tasks to 3
+
+### 19:35 - Session 517 - deep-review (autonoetic-consciousness)
+- **Status**: Success
+- **Task**: Deep review autonoetic-consciousness.md for quality and cross-links
+- **Output**: obsidian/concepts/autonoetic-consciousness.md, obsidian/reviews/deep-review-2026-01-21-autonoetic-consciousness.md
+- **Changes**:
+  - Fixed typo: "siteion" → "projection"
+  - Expanded illusionist challenge section (~300 words): Frankish's quasi-phenomenal framework, zombie reformulation, regress applied specifically to pastness representation
+  - Strengthened No Many Worlds argument (~150 words): indexical identity response to "coherent within branch" objection, singular identity presupposed by autonoetic re-experiencing
+  - Enhanced Buddhist contemplative section (~200 words): sati practice, jhāna contrast, Abhidharma sañña and cetasika analysis
+  - Added Process Philosophy convergence with Abhidharma (~250 words): mind-moments parallel to actual occasions, prehension parallel to bhavaṅga inheritance
+  - Expanded remember/know paradigm (~100 words) as evidence against illusionism
+  - Added cross-links to phenomenology-of-choice, consciousness-as-amplifier in frontmatter and Further Reading
+- **Issues addressed**: 1 critical, 4 medium
+- **Total additions**: ~1000 words
 
 ### 21:50 - Session 516 - deep-review (consciousness-in-simple-organisms)
 - **Status**: Success
