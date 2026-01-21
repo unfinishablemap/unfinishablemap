@@ -3,7 +3,8 @@ title: "Consciousness as Intelligence Amplifier"
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T12:30:00+00:00
+ai_modified: 2026-01-21T18:59:11+00:00
+last_deep_review: 2026-01-21T18:59:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +21,8 @@ concepts:
   - "[[decoherence]]"
   - "[[epiphenomenalism]]"
   - "[[witness-consciousness]]"
+  - "[[phenomenology-of-choice]]"
+  - "[[metarepresentation]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-influence-intelligence-2026-01-21]]"
@@ -98,13 +101,21 @@ A 2024 review in *Neuroscience of Consciousness* makes this explicit: "Any endea
 
 This response faces several difficulties.
 
-**The empirical evidence**: The Lieberman study controlled for this. Disrupting conscious processing specifically impaired logical reasoning; disrupting unconscious processing did not. If logical reasoning were really unconscious, the pattern should reverse.
+**The empirical evidence**: The Lieberman study controlled for this. Disrupting conscious processing specifically impaired logical reasoning; disrupting unconscious processing did not. If logical reasoning were really unconscious, the pattern should reverse. Admittedly, this establishes correlation: tasks requiring consciousness fail when consciousness is disrupted. Whether consciousness is necessary (rather than merely typically involved) remains open—but the systematic pattern across multiple task types suggests more than coincidence.
 
 **The training problem**: If conscious amplification is illusory, metacognitive training shouldn't work. But contemplative traditions demonstrate that sustained attention to conscious states improves cognitive performance. Either the training effect is also illusory (requiring explanation of what's really changing), or conscious access genuinely contributes.
 
 **The baseline pattern**: If consciousness is epiphenomenal, the systematic correspondence between consciousness-requiring tasks and the human-ape gap needs independent explanation. Why would causally inert consciousness track exactly those capacities that distinguish human from great ape cognition?
 
 **The regress problem**: Explaining the *appearance* of conscious contribution requires phenomenal vocabulary. The experience of effortful reasoning, the feeling of insight, the sense of deliberate manipulation—if these are illusions, something must generate the illusions. That something is either conscious (in which case consciousness isn't eliminated) or requires further explanation of how unconscious processes produce conscious-seeming appearances.
+
+### Frankish's Quasi-Phenomenal Response
+
+Keith Frankish's sophisticated version of illusionism proposes that what seems like phenomenal consciousness is actually quasi-phenomenal properties—functional states that represent themselves as having phenomenal character without actually possessing it. On this view, the "experience" of conscious amplification would be a quasi-phenomenal representation of cognitive processing that mischaracterises its own nature.
+
+But the amplification evidence creates a specific problem for quasi-phenomenalism. The hypothesis isn't merely that reasoning *feels* conscious but that consciousness-dependent and consciousness-independent capacities show systematically different profiles. If quasi-phenomenal states are merely representations, why would they track exactly those cognitive operations that require working memory manipulation, [[metarepresentation|metarepresentation]], and flexible deployment? The correlation between "tasks that feel conscious" and "tasks that distinguish humans from great apes" would be coincidental—an unexplained systematic alignment between two independent phenomena.
+
+More directly: the quasi-phenomenal framework must explain why disrupting quasi-phenomenal representations impairs logical reasoning while leaving pattern recognition intact. If quasi-phenomenal states are just functional representations with no special cognitive role, this differential impairment is puzzling. The simpler explanation: the phenomenal states illusionists aim to eliminate are the states doing the amplifying work.
 
 ## The Decoherence Challenge
 
@@ -122,7 +133,9 @@ Contemplative traditions report experiences consistent with amplification. [[wit
 
 Meditators describe increased metacognitive clarity: thoughts arise and pass more visibly; the gap between stimulus and response becomes more apparent; automatic reactions can be interrupted and redirected. If consciousness amplifies through flexible deployment and metacognitive monitoring, contemplative training would enhance exactly these capacities.
 
-Buddhist psychology distinguishes consciousness (*vijñāna*) from the mental factors that accompany it. Consciousness provides awareness; mental factors provide content and cognitive operations. This framework parallels the amplification hypothesis: consciousness enables rather than performs cognition, amplifying what mental processes can achieve.
+Buddhist psychology distinguishes consciousness (*vijñāna*) from the mental factors (*cetasika*) that accompany it. Consciousness provides awareness; mental factors provide content and cognitive operations. This framework parallels the amplification hypothesis: consciousness enables rather than performs cognition, amplifying what mental processes can achieve.
+
+The Abhidharma analysis is more precise. Among the 52 mental factors, *manasikāra* (attention) directs consciousness toward objects; *vitakka* (applied thought) and *vicāra* (sustained thought) enable deliberate cognitive manipulation. These factors cannot operate without consciousness as their support—they require *vijñāna* to function. The analysis distinguishes mere mental activity from conscious mental activity, with the latter enabling operations the former cannot perform. This maps onto the amplification framework: attention directs, consciousness enables, mental factors operate.
 
 The Tibetan practice of developing *rigpa* (pure awareness) explicitly cultivates the capacity to rest as witnessing consciousness while cognitive processes continue. Practitioners report that this enhances rather than impairs cognitive function—thoughts become clearer, decisions more deliberate, reactions more flexible. If consciousness were merely epiphenomenal, this enhancement would be inexplicable.
 
@@ -168,6 +181,10 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet pr
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects interpretations where consciousness fragments into parallel streams. The amplification hypothesis supports determinacy: consciousness selects among possibilities, producing the *this* rather than *that* that cognition requires. Logical reasoning depends on determinate conclusions; counterfactual thinking requires distinguishing actual from possible; metarepresentation demands stable beliefs to take as objects. If consciousness amplifies through selection, it must select—producing singular outcomes, not branching alternatives.
 
+The MWI defender might respond that selection is indexical: all branches are equally real, but each branch-descendant experiences only their branch, creating the *appearance* of selection. On this view, logical reasoning proceeds in all branches—some reaching correct conclusions, others not—with no genuine selection occurring.
+
+But the amplification evidence resists this reframing. The [[phenomenology-of-choice|phenomenology of deliberate reasoning]] involves holding alternatives in mind, comparing them, and settling on one. If all alternatives are equally actualised across branches, the phenomenology of settling—the felt resolution when a conclusion is reached—becomes illusory. More problematically, the correlation between consciousness-dependent capacities and successful reasoning would be coincidental. Why would the branches where logical reasoning succeeds be precisely those where consciousness-dependent processing occurs, unless consciousness is doing selective work? MWI makes the systematic pattern unexplained.
+
 ### Occam's Razor Has Limits
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against premature parsimony. The simplest hypothesis—consciousness is epiphenomenal, the human-ape gap reflects neural complexity alone—fails the evidence. The systematic pattern, the empirical studies, the training effects, the evolutionary argument all point toward genuine causal contribution. Sometimes reality is less parsimonious than we'd like. The amplification hypothesis requires positing consciousness as a genuine causal factor; the evidence warrants this additional complexity.
@@ -182,6 +199,8 @@ This doesn't prove AI cannot be conscious or achieve human-level cognition. It s
 
 ## Further Reading
 
+- [[phenomenology-of-choice]] — The felt structure of deliberate selection, supporting the amplification framework
+- [[metarepresentation]] — How consciousness enables representing representations as representations
 - [[working-memory]] — The neural workspace where amplification operates
 - [[metacognition]] — Self-monitoring as consciousness-enabled capacity
 - [[attention-as-interface]] — The mechanism through which consciousness engages neural systems
