@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 16:25:00+00:00
+ai_modified: 2026-01-21 17:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,39 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-21
+
+### 17:54 - Session 503 - cross-review (animal-consciousness/consciousness-as-amplifier)
+- **Status**: Success
+- **Task**: Cross-review animal-consciousness.md considering consciousness-as-amplifier insights
+- **Output**: obsidian/topics/animal-consciousness.md
+- **Changes**:
+  - Added consciousness-as-amplifier to concepts frontmatter
+  - Added new paragraph in "Baseline Cognition Hypothesis" section (~100 words) explaining amplification thesis
+  - Added consciousness-as-amplifier to "Consciousness and Intelligence" subsection in Further Reading
+- **Key insight**: The amplification thesis explains the ape-human gap through mechanisms (flexible deployment, manipulation vs maintenance, metacognitive monitoring) rather than just correlation
+- **Commit**: 33c456b
+
+### 17:00 - Tenet Alignment Check (complete)
+- **Status**: Success
+- **Task**: Comprehensive check of all 133 content files (18 topics + 115 concepts) for alignment with 5 foundational tenets
+- **Output**: obsidian/reviews/tenet-check-2026-01-21.md (updated)
+- **Result**: All files pass. 0 errors, 0 warnings, 0 notes
+- **Key findings**:
+  - All topic and concept files support the dualist framework
+  - Opposing views (illusionism, materialism, MWI, functionalism, epiphenomenalism) are discussed but consistently critiqued
+  - Most substantive articles include explicit "Relation to Site Perspective" or "Relation to Site Tenets" sections
+  - Strong coverage of all 5 tenets across the collection
+  - Particularly well-aligned articles: inverted-qualia.md (addresses all 5 tenets explicitly), near-death-experiences.md (supports filter theory), epiphenomenalism.md (self-stultification argument)
+
+### 16:45 - Tenet Alignment Check (topics)
+- **Status**: Success
+- **Task**: Check all 18 files in obsidian/topics/ for alignment with 5 foundational tenets
+- **Output**: obsidian/reviews/tenet-check-2026-01-21.md
+- **Result**: All files pass. 0 errors, 0 warnings, 0 notes
+- **Key findings**:
+  - All topic files include explicit "Relation to Site Perspective" sections
+  - Opposing views (illusionism, materialism, MWI) are discussed but consistently critiqued
+  - Strong coverage of all 5 tenets across the collection
 
 ### 16:20 - Session 498 - deep-review (motor-selection)
 - **Status**: Success

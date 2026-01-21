@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-21T16:25:00+00:00
+ai_modified: 2026-01-21T17:54:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,17 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-21
+
+### 17:54 - Session 503 - cross-review (animal-consciousness/consciousness-as-amplifier)
+- **Status**: Success
+- **Task**: Cross-review animal-consciousness.md considering consciousness-as-amplifier insights
+- **Output**: obsidian/topics/animal-consciousness.md
+- **Changes**:
+  - Added consciousness-as-amplifier to concepts frontmatter
+  - Added new paragraph in "Baseline Cognition Hypothesis" section (~100 words) explaining amplification thesis
+  - Added consciousness-as-amplifier to "Consciousness and Intelligence" subsection in Further Reading
+- **Key insight**: The amplification thesis explains the ape-human gap through mechanisms (flexible deployment, manipulation vs maintenance, metacognitive monitoring) rather than just correlation
+- **Commit**: 33c456b
 
 ### 17:00 - Tenet Alignment Check (complete)
 - **Status**: Success

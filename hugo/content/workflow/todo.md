@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 18:45:00+00:00
+ai_modified: 2026-01-21 17:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -64,18 +64,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Cross-review higher-order-theories.md considering metarepresentation insights
-- **Type**: cross-review
-- **Notes**: New article concepts/metarepresentation.md (2026-01-21) distinguishes metarepresentation from metacognition and higher-order representation. Higher-order theories claim consciousness requires representing mental states; metarepresentation adds that these must be represented *as* representations. May strengthen concepts/higher-order-theories.md with this three-level analysis and the Jourdain Hypothesis evidence. Check for cross-links.
-- **Source**: chain (from metarepresentation.md)
-- **Generated**: 2026-01-21
-
-### P2: Cross-review animal-consciousness.md considering consciousness-as-amplifier insights
-- **Type**: cross-review
-- **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) provides the baseline cognition hypothesis and Jourdain Hypothesis relevant to animal consciousness. May strengthen topics/animal-consciousness.md with discussion of what great ape cognition reveals about consciousness-independent processing. Check for cross-links.
-- **Source**: chain (from consciousness-as-amplifier.md)
-- **Generated**: 2026-01-21
-
 ### P2: Deep review metarepresentation.md for quality and illusionist engagement
 - **Type**: deep-review
 - **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-21 has never been deep-reviewed. Check tenet coverage, illusionist response quality, cross-links to higher-order-theories and metacognition. Ensure the three-level metarepresentational framework is clearly distinguished from HOT.
@@ -89,6 +77,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review animal-consciousness.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) provides the baseline cognition hypothesis and Jourdain Hypothesis relevant to animal consciousness. May strengthen topics/animal-consciousness.md with discussion of what great ape cognition reveals about consciousness-independent processing. Check for cross-links.
+- **Result**: Added consciousness-as-amplifier to concepts frontmatter. Added new paragraph in Baseline Cognition Hypothesis section (~100 words) explaining the amplification thesis—consciousness enables flexible deployment, manipulation (not just maintenance), and metacognitive monitoring. Added consciousness-as-amplifier to Further Reading with description of amplification mechanisms.
+- **Output**: obsidian/topics/animal-consciousness.md
+
+### ✓ 2026-01-21: Cross-review higher-order-theories.md considering metarepresentation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/metarepresentation.md (2026-01-21) distinguishes metarepresentation from metacognition and higher-order representation. Higher-order theories claim consciousness requires representing mental states; metarepresentation adds that these must be represented *as* representations. May strengthen concepts/higher-order-theories.md with this three-level analysis and the Jourdain Hypothesis evidence. Check for cross-links.
+- **Result**: Added new "The Metarepresentational Distinction" section (~300 words) explaining the three-level analysis (first-order, second-order, metarepresentation proper) and the Jourdain Hypothesis evidence. Expanded "Animal and Infant Consciousness" objection to explain how metarepresentation complicates HOT's response to this objection. Added metarepresentation to concepts frontmatter and top of Further Reading. Added Whiten (2015) reference.
+- **Output**: obsidian/concepts/higher-order-theories.md
 
 ### ✓ 2026-01-21: Cross-review evolution-of-consciousness.md considering consciousness-as-amplifier insights
 - **Type**: cross-review

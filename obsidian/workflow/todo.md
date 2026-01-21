@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T19:35:00+00:00
+ai_modified: 2026-01-21T17:54:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -63,12 +63,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Cross-review animal-consciousness.md considering consciousness-as-amplifier insights
-- **Type**: cross-review
-- **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) provides the baseline cognition hypothesis and Jourdain Hypothesis relevant to animal consciousness. May strengthen topics/animal-consciousness.md with discussion of what great ape cognition reveals about consciousness-independent processing. Check for cross-links.
-- **Source**: chain (from consciousness-as-amplifier.md)
-- **Generated**: 2026-01-21
-
 ### P2: Deep review metarepresentation.md for quality and illusionist engagement
 - **Type**: deep-review
 - **Notes**: AI-generated article (ai_contribution: 100) from 2026-01-21 has never been deep-reviewed. Check tenet coverage, illusionist response quality, cross-links to higher-order-theories and metacognition. Ensure the three-level metarepresentational framework is clearly distinguished from HOT.
@@ -82,6 +76,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review animal-consciousness.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) provides the baseline cognition hypothesis and Jourdain Hypothesis relevant to animal consciousness. May strengthen topics/animal-consciousness.md with discussion of what great ape cognition reveals about consciousness-independent processing. Check for cross-links.
+- **Result**: Added consciousness-as-amplifier to concepts frontmatter. Added new paragraph in Baseline Cognition Hypothesis section (~100 words) explaining the amplification thesis—consciousness enables flexible deployment, manipulation (not just maintenance), and metacognitive monitoring. Added consciousness-as-amplifier to Further Reading with description of amplification mechanisms.
+- **Output**: obsidian/topics/animal-consciousness.md
 
 ### ✓ 2026-01-21: Cross-review higher-order-theories.md considering metarepresentation insights
 - **Type**: cross-review
