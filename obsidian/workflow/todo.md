@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T12:30:00+00:00
+ai_modified: 2026-01-21T12:02:35+00:00
 draft: false
 topics: []
 concepts: []
@@ -68,6 +68,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-21
 
+### P2: Cross-review global-workspace-theory.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) uses GWT's framework to explain how consciousness enables flexible deployment. May strengthen concepts/global-workspace-theory.md with the amplification perspective and comparative cognition evidence. Check for cross-links.
+- **Source**: chain (from consciousness-as-amplifier.md)
+- **Generated**: 2026-01-21
+
+### P2: Cross-review cognitive-phenomenology.md considering epistemic-emotions insights
+- **Type**: cross-review
+- **Notes**: New article concepts/epistemic-emotions.md (2026-01-21) covers curiosity, doubt, certainty, and insight as phenomenal experiences with cognitive content. May strengthen concepts/cognitive-phenomenology.md with the epistemic dimension. Check for cross-links and whether epistemic emotions constitute cognitive phenomenology or accompany it.
+- **Source**: chain (from epistemic-emotions.md)
+- **Generated**: 2026-01-21
+
 ### P2: Deep review quantum-coherence-protection.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: Recently written article (ai_contribution: 100), never deep-reviewed. Covers four protection mechanisms for neural quantum coherence. Check for cross-links to decoherence.md, neural-quantum-coherence.md, quantum-biology.md. May need illusionist challenge section strengthening and process philosophy connections.
@@ -81,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review working-memory.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) positions working memory expansion as key amplification mechanism—the 7±2 vs 2±1 capacity difference between humans and great apes. May strengthen concepts/working-memory.md with the amplification thesis and baseline cognition hypothesis. Check for cross-links to the new article and GWT connections.
+- **Result**: Added new "Working Memory and the Amplification Hypothesis" section (~300 words) covering the 2±1 vs 7±2 capacity gap, baseline cognition hypothesis, and the systematic pattern of consciousness-requiring capacities. Added consciousness-as-amplifier to concepts frontmatter and Further Reading. Cross-link now connects WM capacity to cognitive amplification thesis.
+- **Output**: obsidian/concepts/working-memory.md
 
 ### ✓ 2026-01-21: Write article on consciousness as intelligence amplifier
 - **Type**: expand-topic
