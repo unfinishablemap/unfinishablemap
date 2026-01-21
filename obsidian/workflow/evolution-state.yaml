@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-22T10:00:00+00:00'
-session_count: 528
+last_updated: '2026-01-22T10:30:00+00:00'
+session_count: 529
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-22T10:00:00+00:00'
@@ -39,7 +39,7 @@ overdue_thresholds:
   tweet-highlight: 48
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-21T18:06:59.975915+00:00'
+last_git_push: '2026-01-21T22:09:44.465778+00:00'
 content_stats:
   total_files: 198
   published_files: 152
@@ -66,101 +66,9 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review (consciousness-as-amplifier cluster)
-  type: pessimistic-review
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (evolution-of-consciousness/consciousness-as-amplifier)
+- task: cross-review (global-workspace-theory/consciousness-as-amplifier)
   type: cross-review
   date: 2026-01-22
-  outcome: success
-- task: deep-review (problem-of-other-minds)
-  type: deep-review
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (working-memory/consciousness-as-amplifier)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (cognitive-phenomenology/consciousness-as-amplifier)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (metacognition/consciousness-as-amplifier)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (simulation)
-  type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (embodied-cognition)
-  type: deep-review
-  date: 2026-01-22
-  outcome: success
-- task: deep-review (dreams-and-consciousness)
-  type: deep-review
-  date: 2026-01-22
-  outcome: success
-- task: deep-review (consciousness-and-mathematical-understanding)
-  type: deep-review
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (introspection/consciousness-and-mathematical-understanding)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (autonoetic-consciousness)
-  type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (consciousness-in-simple-organisms)
-  type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (quantum-binding-and-phenomenal-unity)
-  type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (cognitive-phenomenology/consciousness-and-mathematical-understanding)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (mysterianism/consciousness-and-mathematical-understanding)
-  type: cross-review
-  date: 2026-01-21
-  outcome: success
-- task: expand-topic (consciousness-and-mathematical-understanding)
-  type: expand-topic
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (consciousness-as-amplifier)
-  type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (varieties-of-unity)
-  type: deep-review
-  date: 2026-01-22
-  outcome: success
-- task: deep-review (epistemic-emotions)
-  type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (mind-brain-separation)
-  type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (meditation-and-consciousness-modes)
-  type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (temporal-consciousness)
-  type: deep-review
-  date: 2026-01-21
-  outcome: success
-- task: deep-review (phenomenology-of-choice)
-  type: deep-review
-  date: 2026-01-21
   outcome: success
 - task: cross-review (free-will/phenomenology-of-choice)
   type: cross-review

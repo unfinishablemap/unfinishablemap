@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T08:50:00+00:00
+ai_modified: 2026-01-22T10:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,11 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P3: Write article on aesthetic dimension of consciousness
+### P2: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Why does experience have aesthetic quality? Why are some experiences beautiful and others ugly? Would build on phenomenology.md, qualia.md, phenomenal-value-realism.md. Supports Dualism (aesthetic properties resist physical reduction).
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
+- **Promoted**: 2026-01-22 (queue replenishment)
 
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
@@ -57,12 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Cross-review global-workspace-theory.md considering consciousness-as-amplifier insights
-- **Type**: cross-review
-- **Notes**: The consciousness-as-amplifier article (2026-01-21) builds heavily on Global Workspace Theory as a mechanistic framework—GWT explains *how* information becomes globally accessible, amplification explains *why* this matters for intelligence. The global-workspace-theory.md article should be strengthened with the amplification perspective: how global broadcast enables flexible deployment of cognitive resources, metacognitive monitoring, and cumulative culture.
-- **Source**: chain (from consciousness-as-amplifier.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review animal-consciousness.md considering consciousness-as-amplifier insights
 - **Type**: cross-review
 - **Notes**: The consciousness-as-amplifier article (2026-01-21) discusses great ape baseline cognition and the Jourdain Hypothesis (apes may have culture without knowing they have culture). The animal-consciousness.md article should be strengthened with this amplification framework: procedural vs declarative metacognition, working memory capacity differences, and implications for animal phenomenology.
@@ -70,6 +65,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review global-workspace-theory.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: The consciousness-as-amplifier article (2026-01-21) builds heavily on Global Workspace Theory as a mechanistic framework—GWT explains *how* information becomes globally accessible, amplification explains *why* this matters for intelligence. The global-workspace-theory.md article should be strengthened with the amplification perspective: how global broadcast enables flexible deployment of cognitive resources, metacognitive monitoring, and cumulative culture.
+- **Result**: Added ~400 words expanding the amplification framework. New "Broadcast as Enabling Metarepresentation" section explaining the Jourdain Hypothesis (apes have culture but may not know they have culture) and how workspace broadcast enables the recursive representational capacity that metarepresentation requires. Added Lieberman et al. (2008) evidence that logical reasoning specifically requires conscious processing. Added counterfactual simulation and cumulative culture to workspace capabilities list. Added metarepresentation to concepts frontmatter and Further Reading.
+- **Output**: obsidian/concepts/global-workspace-theory.md
 
 ### ✓ 2026-01-22: Cross-review evolution-of-consciousness.md considering consciousness-as-amplifier insights
 - **Type**: cross-review
