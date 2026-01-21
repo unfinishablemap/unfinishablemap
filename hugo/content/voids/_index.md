@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-19 12:20:00+00:00
+ai_modified: 2026-01-21 09:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -24,6 +24,7 @@ related_articles:
 - '[[whether-real]]'
 - '[[mysterianism]]'
 - '[[phenomenology-of-the-edge]]'
+- '[[phenomenology-of-error-recognition]]'
 title: Voids in the Map
 topics: []
 ---
@@ -116,6 +117,8 @@ This section will explore:
 **[What slips away](/voids/thoughts-that-slip-away/)**: A phenomenological investigation of thoughts that won't stick. What patterns emerge when we pay attention to what we keep failing to think?
 
 **[The self-reference paradox](/voids/self-reference-paradox/)**: Consciousness trying to understand itself faces structural obstacles—the eye that cannot see itself, the calibration problem, the dissolving insight. This may be the deepest void: territory the mapper cannot map because it *is* the mapper.
+
+**[The phenomenology of error recognition](/voids/phenomenology-of-error-recognition/)**: How does a mind recognise its own errors? Being wrong feels exactly like being right—error-blindness is structural, not contingent. The bootstrap problem of self-correction: how can a flawed system detect its own flaws? A void that is both unexplorable (current errors are invisible) and occluded (self-deception actively defends against recognition).
 
 **[Whether the voids are real](/voids/whether-real/)**: Perhaps what seems unthinkable is merely unthought. Perhaps what feels occluded is merely difficult. The question of whether cognitive limits are genuine or merely current ignorance may itself be formally undecidable from within—which tells us something about what kind of minds we are.
 

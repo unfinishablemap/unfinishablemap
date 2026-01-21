@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 09:45:00+00:00
+ai_modified: 2026-01-21 09:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Pessimistic review - consciousness as human-ape intelligence gap
-- **Type**: pessimistic-review
-- **Notes**: Site-wide pessimistic review through the lens of the consciousness-intelligence hypothesis. Critically examine: Are we conflating correlation with causation? Could the intelligence gap be explained by brain size, language, or social factors without invoking consciousness? What counterarguments exist (e.g., sophisticated unconscious processing in humans, tool use in non-conscious animals)? Identify logical gaps, unsupported claims, and potential objections that content adopting this thesis must address.
-- **Source**: human_request
-- **Generated**: 2026-01-22
-- **Depends on**: P0 research tasks on consciousness-intelligence
+### P2: Write voids article on temporal asymmetry of remembering and anticipating
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. We can re-experience the past through episodic memory but only imagine the future—never pre-experience it. This asymmetry may reveal something essential about consciousness: minds that access reality through causal traces can only directly know the past. Builds on temporal-consciousness.md, autonoetic-consciousness.md, episodic-memory.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-21
+
+### P2: Cross-review binding-problem.md considering varieties-of-unity insights
+- **Type**: cross-review
+- **Notes**: New article concepts/varieties-of-unity.md (2026-01-21) positions binding as specifically synchronic unity—one variety among several. May strengthen concepts/binding-problem.md by clarifying that binding addresses feature integration but not diachronic or subject unity. Check for cross-links and conceptual clarification opportunities.
+- **Source**: chain (from varieties-of-unity.md)
+- **Generated**: 2026-01-21
 
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
@@ -95,6 +100,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Write voids article on phenomenology of error recognition
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-phenomenology-of-error-recognition-2026-01-21.md. How minds recognize their own errors—the bootstrap problem of using a flawed system to detect its own flaws. Covers Schulz's error-blindness, Dunning-Kruger, self-deception, insight research, Socratic aporia. Mixed void category (Unexplorable + Occluded). Builds on metacognition.md, introspection.md, self-reference-paradox.md.
+- **Result**: Article written (~3200 words) covering error-blindness (Schulz), the bootstrap problem of self-correction, retroactive constitution of error (Žižek), phenomenology of the recognition moment, self-deception as occluded territory, aporia and Socratic elenchus, and contemplative perspectives (satori, avidyā). Mixed void category. Full tenet coverage with substantial analysis of each.
+- **Output**: obsidian/voids/phenomenology-of-error-recognition.md
+
+### ✓ 2026-01-21: Cross-review phenomenal-unity.md considering varieties-of-unity insights
+- **Type**: cross-review
+- **Notes**: New article concepts/varieties-of-unity.md (2026-01-21) distinguishes synchronic, diachronic, and subject unity. May strengthen concepts/phenomenal-unity.md with clearer taxonomy of unity types. Check for cross-links, terminology consistency, and whether the varieties framework adds explanatory value.
+- **Result**: Added [varieties-of-unity](/concepts/varieties-of-unity/) to concepts frontmatter. Added cross-link in "The Phenomenon" section pointing to varieties-of-unity for detailed analysis. Added new paragraph noting evidence for dissociation (split-brain, dreamless sleep, dissociative disorders) and that "phenomenal unity" may be multiple problems requiring different explanations. Added varieties-of-unity to Further Reading with description.
+- **Output**: obsidian/concepts/phenomenal-unity.md
+
+### ✓ 2026-01-21: Pessimistic review - consciousness as human-ape intelligence gap
+- **Type**: pessimistic-review
+- **Notes**: Site-wide pessimistic review through the lens of the consciousness-intelligence hypothesis. Critically examine: Are we conflating correlation with causation? Could the intelligence gap be explained by brain size, language, or social factors without invoking consciousness? What counterarguments exist (e.g., sophisticated unconscious processing in humans, tool use in non-conscious animals)? Identify logical gaps, unsupported claims, and potential objections that content adopting this thesis must address.
+- **Result**: Comprehensive critical review completed through consciousness-intelligence lens. Examined thesis from 6 philosopher perspectives (Churchland, Dennett, Tegmark, Deutsch, Popper, Nagarjuna). Identified 5 critical issues: (1) correlation-causation conflation, (2) circularity in identifying "consciousness-requiring" capacities, (3) working memory alternative explanations, (4) Jourdain Hypothesis circularity, (5) quantum mechanism disconnect from evolutionary story. Provided 4 counterarguments to address (social learning, language confound, computational resources, great ape ToM evidence). Made 6 recommendations for strengthening the thesis.
+- **Output**: obsidian/reviews/pessimistic-2026-01-21.md (supplementary section added)
 
 ### ✓ 2026-01-21: Optimistic review - consciousness as human-ape intelligence gap
 - **Type**: optimistic-review
