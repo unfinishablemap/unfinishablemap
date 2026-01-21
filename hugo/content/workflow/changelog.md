@@ -22,6 +22,17 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-21
 
+### 23:30 - deep-review (specious-present.md)
+- **Status**: Success
+- **File**: obsidian/concepts/specious-present.md
+- **Previous review**: Never
+- **Critical issues addressed**: 3 (added Illusionist Challenge section, Process Philosophy Perspective, What Would Challenge This View? section)
+- **Medium issues addressed**: 4 (added Decoherence Challenge subsection, Contemplative Evidence section, expanded Relation to Site Perspective to all 5 tenets, added cross-links)
+- **Enhancements**: Regress response to illusionism, contemplative challenge, asymmetry of error argument, Whitehead's actual occasions and concrescence framework, khanika/witness-consciousness/cessation evidence, 5 falsifiability conditions
+- **Cross-links added**: 5 (illusionism, witness-consciousness, introspection, haecceity, decoherence)
+- **References added**: 5 (Dennett 1991, Frankish 2016, Strawson 2009, Tallis 2024, Whitehead 1929)
+- **Output**: `concepts/specious-present.md`, `reviews/deep-review-2026-01-21-specious-present.md`
+
 ### 00:57 - evolve (session 446)
 - **Status**: Success
 - **Mode**: default
