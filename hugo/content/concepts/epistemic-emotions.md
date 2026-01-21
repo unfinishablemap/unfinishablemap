@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-21 11:46:00+00:00
+ai_modified: 2026-01-21 18:48:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,11 +13,14 @@ concepts:
 - '[[illusionism]]'
 - '[[working-memory]]'
 - '[[attention]]'
+- '[[emotional-consciousness]]'
+- '[[philosophical-zombies]]'
 created: 2026-01-21
 date: &id001 2026-01-21
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-21 18:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,9 +136,15 @@ If these states have irreducible phenomenal character, then cognitive phenomenol
 
 [Illusionists](/concepts/illusionism/) argue that epistemic emotions, like all phenomenal states, are introspective illusions. On this view, what seems like the "feel" of curiosity is actually just functional states misrepresented to ourselves as having qualitative character.
 
-The illusionist must explain why epistemic emotions seem to have distinct phenomenologies that we can reliably discriminate. Curiosity *feels* different from doubt, which *feels* different from confusion. If these are merely functional states without phenomenal character, why do they seem qualitatively distinct?
+Keith Frankish's quasi-phenomenal framework offers the most sophisticated illusionist response. On his account, epistemic emotions have "quasi-phenomenal properties"—introspectable functional properties that we systematically misrepresent as having phenomenal character. The distinctive "feel" of curiosity would be the quasi-phenomenal signature of information-gap detection coupled with approach motivation; doubt would be the quasi-phenomenal character of reduced confidence triggering search routines.
 
-The regress problem applies here. For curiosity to *seem* qualitatively distinct requires something to which it seems that way. This "seeming" is itself phenomenal (there is something it is like for curiosity to seem curious) or the explanation has not begun. Illusionism about epistemic emotions faces the same regress as illusionism generally.
+This framework explains discriminability: curiosity quasi-feels different from doubt because they have different functional signatures that introspection tracks. The quasi-phenomenal properties are real—they're the functional states we introspect—what's illusory is our interpretation of them as having intrinsic qualitative character.
+
+**Why the regress still stands:** The quasi-phenomenal move relocates rather than dissolves the problem. For curiosity to quasi-seem curious, something must register the quasi-seeming. If that registering is itself quasi-phenomenal, we need a further level to register *it*—and so on. The regress terminates only when something actually seems some way to something. At that point, phenomenal consciousness has been reintroduced.
+
+The tip-of-the-tongue state sharpens this. The TOT experience isn't just functional retrieval failure—there is something it is like to feel a word hovering just out of reach. A quasi-phenomenal TOT would be a state that *quasi-seems* frustrating without any actual frustration. But quasi-seeming-frustrated still involves seeming somehow, and that "somehow" has phenomenal character.
+
+The [zombie reformulation](/concepts/philosophical-zombies/) applies: a functional duplicate performing epistemic processing would have all the quasi-phenomenal properties Frankish describes—yet by hypothesis would lack any experience at all. If quasi-phenomenal curiosity is indistinguishable from phenomenal curiosity, the concept of quasi-phenomenality does no explanatory work. If they are distinguishable, the distinction reintroduces phenomenal consciousness.
 
 ## Epistemic Emotions and Decision
 
@@ -156,6 +165,8 @@ Contemplative traditions describe epistemic emotions with particular precision, 
 **Doubt** in Chan/Zen practice is deliberately cultivated through koans. The "great doubt" (daigi) is a heightened state where certainty about fundamental assumptions collapses. This is not ordinary doubt but its intensification to the point of existential crisis—after which insight (kensho) may occur.
 
 **Witness consciousness** observes epistemic emotions without identification. The meditator notices curiosity arising without being curious, notices doubt without doubting. This meta-perspective reveals epistemic emotions as mental events rather than properties of the world—phenomena to be observed rather than acted upon automatically.
+
+**Vedanā and epistemic affect.** The Buddhist concept of vedanā (feeling-tone) offers a framework for understanding the affective dimension of epistemic emotions. All mental states have vedanā—pleasant, unpleasant, or neutral. Curiosity has pleasant vedanā (the anticipatory pleasure of potential discovery); confusion and doubt have unpleasant vedanā (the discomfort that motivates resolution); certainty typically has pleasant vedanā (the satisfaction of knowing). This analysis separates the cognitive content (what the emotion is about) from the affective character (how it feels in the pleasant/unpleasant dimension), suggesting epistemic emotions are composites of cognitive evaluation and vedanā. The dependent origination of epistemic emotions—how they arise from conditions including prior mental states, attention, and context—illuminates why the same cognitive situation can produce different epistemic phenomenology depending on background conditions.
 
 These contemplative reports suggest epistemic emotions have richer structure than casual introspection reveals. Training expands awareness of what is phenomenally present, consistent with the claim that introspective reliability improves with practice.
 
@@ -185,9 +196,13 @@ The satisfaction of insight does motivational work: it rewards successful cognit
 
 ### Minimal Quantum Interaction
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet may connect to epistemic emotions through the selection mechanism. If consciousness influences quantum outcomes in neural systems, epistemic emotions might reflect this selection process. Certainty may be the phenomenal correlate of resolved superposition—the subjective experience of collapse to a definite state. Doubt might reflect maintained superposition—consciousness holding multiple possibilities without selection.
+The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet offers a speculative but suggestive framework for epistemic emotions. If consciousness influences quantum outcomes in neural systems through attention-mediated selection (as Stapp's quantum Zeno model proposes), epistemic emotions might be phenomenal correlates of this selection process at the cognitive level.
 
-The insight experience is particularly suggestive. Insights arrive suddenly, from "elsewhere," with immediate certainty. This temporal structure matches what quantum selection might produce: unconscious processing prepares superposed possibilities; consciousness selects; the selection appears in awareness as discontinuous insight. The "aha" quality may be what selection *feels like* from inside.
+This connection is necessarily indirect—epistemic emotions operate at timescales (seconds to minutes) far longer than individual quantum events (nanoseconds to microseconds). The relationship would be statistical: many quantum selection events underlying a single episode of doubt or certainty, with the phenomenal character reflecting the aggregate pattern rather than individual collapses.
+
+The insight experience is particularly suggestive. Insights arrive suddenly, from "elsewhere," with immediate certainty. This temporal structure matches what quantum selection might produce: unconscious processing prepares multiple candidate solutions in superposition; consciousness selects among them; the selection appears in awareness as discontinuous insight. The "aha" quality would then be the subjective experience of large-scale neural pattern selection—not a single quantum event but the phenomenal character of a resolved cognitive state.
+
+This proposal remains speculative. The mechanism linking quantum selection to cognitive-level phenomenology is underspecified, and the timescale bridging problem is significant. The tenet's support here is more about compatibility than confirmation: epistemic emotions are consistent with minimal quantum interaction, though not evidence for it independent of other arguments.
 
 ### Occam's Razor Has Limits
 
@@ -197,9 +212,13 @@ Certainty itself demonstrates Occam's limits. We often feel certain about things
 
 ### No Many Worlds
 
-The [No Many Worlds](/tenets/#no-many-worlds) tenet receives support from the determinacy of epistemic emotions. We experience definite doubt, definite certainty, definite insight—not superpositions of epistemic states. If consciousness existed in quantum superposition (as Many-Worlds implies), we might expect phenomenology of epistemic indeterminacy—feeling curious-and-not-curious, certain-and-uncertain. No contemplative tradition reports such states.
+The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to epistemic emotions through the indexical structure of knowing. When doubt resolves into certainty—when you move from "this might be true" to "I know this is true"—you don't experience accessing one among infinitely many equally real knowledge-states. The phenomenology is of *this* determination mattering, *this* resolution being yours.
 
-When insight occurs, it is *this* insight—not a superposition of the solution and its alternatives. The indexical singularity of epistemic emotions fits better with collapse interpretations where consciousness participates in selecting definite outcomes than with Many-Worlds where all outcomes equally occur.
+Many-Worlds defenders argue that decoherence ensures each branch has determinate states, so the objection misses the mark. But the deeper issue concerns indexical identity. If every possibility is equally real, what makes *your* certainty yours rather than one among countless branch-relative certainties? The felt authority of insight—the sense that you have found the answer—presupposes that finding matters in a way that branching undermines.
+
+Consider insight specifically. The "aha" moment has phenomenal character of genuine discovery—something was unknown, now it is known, and this transition is real. In Many-Worlds, the transition occurs in some branches while alternative insights occur in others; no insight is privileged over its alternatives. Yet the phenomenology of insight involves precisely this privilege—the sense that the discovered truth is *the* truth, not merely *a* truth in *this* branch.
+
+The No Many Worlds tenet doesn't claim MWI is mathematically inconsistent—it claims MWI makes indexical facts (who I am, what I know, why my knowing matters) unintelligible. Epistemic emotions presuppose that knowledge acquisition is genuinely singular, not branch-relative.
 
 ## What Would Challenge This View?
 
@@ -219,6 +238,7 @@ None of these conditions currently obtains. The phenomenal character of epistemi
 
 ## Further Reading
 
+- [emotional-consciousness](/concepts/emotional-consciousness/) — The phenomenology of emotion more broadly
 - [metacognition](/concepts/metacognition/) — The cognitive capacity enabling epistemic self-monitoring
 - [introspection](/concepts/introspection/) — First-person access to epistemic states
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has phenomenal character
@@ -226,6 +246,7 @@ None of these conditions currently obtains. The phenomenal character of epistemi
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The felt quality of deciding
 - [working-memory](/concepts/working-memory/) — Where epistemic emotions interface with cognitive capacity
 - [illusionism](/concepts/illusionism/) — The challenge that epistemic phenomenology is illusion
+- [philosophical-zombies](/concepts/philosophical-zombies/) — Why functional duplicates without experience pose problems
 - [attention](/concepts/attention/) — How epistemic emotions direct cognitive resources
 - [witness-consciousness](/concepts/witness-consciousness/) — Observing epistemic emotions without identification
 
