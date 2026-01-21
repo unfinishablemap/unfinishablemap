@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T21:50:00+00:00
+ai_modified: 2026-01-22T04:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -57,12 +57,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Deep review problem-of-other-minds.md for currency and tenet coverage
-- **Type**: deep-review
-- **Notes**: AI-generated concept page has oldest deep-review timestamp (2026-01-18). Covers epistemological problem of knowing other minds exist. Check tenet coverage, illusionist challenge response quality, and integration with recent consciousness-as-amplifier insights (which discuss great ape consciousness evidence).
-- **Source**: staleness
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review evolution-of-consciousness.md considering consciousness-as-amplifier insights
 - **Type**: cross-review
 - **Notes**: The consciousness-as-amplifier article (2026-01-21) provides evidence that consciousness causally contributed to the human cognitive leap—relevant to evolutionary discussions. May strengthen concepts/evolution-of-consciousness.md with the baseline cognition hypothesis, Jourdain Hypothesis, and working memory expansion evidence.
@@ -70,6 +64,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Deep review problem-of-other-minds.md for currency and tenet coverage
+- **Type**: deep-review
+- **Notes**: AI-generated concept page has oldest deep-review timestamp (2026-01-18). Covers epistemological problem of knowing other minds exist. Check tenet coverage, illusionist challenge response quality, and integration with recent consciousness-as-amplifier insights (which discuss great ape consciousness evidence).
+- **Result**: Addressed 2 critical issues (missing illusionist engagement, missing falsifiability section), 4 medium issues. Added "The Illusionist Challenge" section (~500 words) with Frankish quasi-phenomenal response, regress at meta-level, discourse evidence, specificity problem. Added "Process Philosophy Perspective" (~350 words) with Whitehead's actual occasions and prehension. Added "Buddhist Contemplative Perspective" (~400 words) with anattā, vijñāna, śūnyatā, karuṇā practices, tonglen. Added "What Would Challenge This View?" (~350 words). Expanded No Many Worlds argument (~250 words) with haecceity and indexical identity. Added consciousness-as-amplifier integration (~150 words).
+- **Output**: obsidian/concepts/problem-of-other-minds.md, obsidian/reviews/deep-review-2026-01-22-problem-of-other-minds.md
 
 ### ✓ 2026-01-21: Cross-review working-memory.md considering consciousness-as-amplifier insights
 - **Type**: cross-review
