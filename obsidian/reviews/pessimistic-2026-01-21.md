@@ -159,3 +159,202 @@ Despite criticisms, these articles succeed in important ways:
 5. **Clear structure**: All four articles follow the Map template with front-loaded summaries, explicit section headings, and tenet connection sections. They model good LLM-optimized writing.
 
 6. **Fair presentation of opponents**: Dennett, Frankish, Tegmark, and others receive substantive treatment rather than straw-man dismissals. The disagreements are genuine, not manufactured.
+
+---
+
+# Supplementary Review: Consciousness-Intelligence Hypothesis Lens
+
+**Added**: 2026-01-21 (Session 475)
+**Lens**: The consciousness-intelligence hypothesis—the thesis that consciousness explains the order-of-magnitude intelligence gap between great apes and humans.
+**Content reviewed**: animal-consciousness.md, minimal-consciousness.md, working-memory.md, metacognition.md, and related research notes
+
+## Executive Summary
+
+The consciousness-intelligence hypothesis is presented as a compelling argument for Bidirectional Interaction, but critical analysis reveals significant vulnerabilities. The thesis conflates correlation with causation, underestimates the explanatory power of alternative accounts (social learning, cultural scaffolding, language), and relies on a questionable assumption that we can identify which cognitive capacities "require" consciousness. The working memory differences (2±1 vs 7±2) may have causes other than consciousness expansion, and the "baseline cognition" framework risks unfalsifiability by defining "consciousness-requiring" capacities circularly. These issues don't refute the Map's position but identify gaps that stronger critics will exploit.
+
+## Critiques by Philosopher (Consciousness-Intelligence Focus)
+
+### The Eliminative Materialist (Patricia Churchland)
+
+This consciousness-intelligence thesis is folk psychology masquerading as evolutionary theory. The entire framework assumes consciousness is a natural kind that can be present in varying degrees across species—but this assumption is precisely what neuroscience should teach us to question.
+
+The claim that "logical reasoning requires consciousness" (citing Lieberman et al. 2008) conflates consciousness with *reportability*. What that study actually showed is that cognitive load impairs explicit reasoning—which could equally mean that *attention* or *working memory resources* are required, not phenomenal consciousness per se. The leap from "cognitive load impairs reasoning" to "phenomenal consciousness is required" is exactly the kind of folk-psychological inference that eliminativism warns against.
+
+The great ape-human comparison is infected with the same conceptual confusion. When you say apes lack "metarepresentation" and this shows they lack a type of consciousness, you're using 20th-century cognitive psychology vocabulary as if it carved nature at its joints. Neuroscience will eventually replace these folk categories with genuinely explanatory neural mechanisms. The "consciousness" in your hypothesis may turn out to be nothing more than prefrontal executive function—entirely physical, entirely explicable without irreducible phenomenal properties.
+
+**Key vulnerability**: The entire framework depends on consciousness being a unified phenomenon that admits of degrees and causes specific cognitive capacities. If consciousness is instead a cluster of dissociable neural processes (as most neuroscience suggests), the explanatory unity of "consciousness explains human intelligence" dissolves.
+
+### The Hard-Nosed Physicalist (Daniel Dennett)
+
+You're inflating an intuition pump into a metaphysical commitment. The "baseline cognition" hypothesis sounds scientific but actually performs a sleight of hand: it defines certain cognitive capacities as "consciousness-requiring" and then treats it as evidence for consciousness that humans have those capacities. This is circular.
+
+Consider: you claim great apes lack cumulative culture because they lack metarepresentation, which requires phenomenal consciousness. But what's the evidence that metarepresentation requires phenomenal consciousness rather than, say, language, expanded working memory, or sophisticated social learning mechanisms? The inference is: "I cannot imagine how metarepresentation could work without consciousness, therefore consciousness is required." This is an argument from intuition, not evidence.
+
+The working memory difference (2±1 vs 7±2) is real and important. But why think this reflects "expanded consciousness" rather than simply expanded computational resources? You assert that "working memory depends on conscious access" (citing Global Workspace Theory)—but GWT is a *functional* theory that treats consciousness as a computational phenomenon. If you accept GWT's framing, you've already conceded that consciousness is functionally defined, which means AI systems with the right architecture could be conscious. But you reject AI consciousness elsewhere. Which is it?
+
+The Jourdain Hypothesis ("apes have culture but don't know they have culture") is charming but reveals the circularity. How do we know apes don't know they have culture? Because they lack cumulative culture. Why do they lack cumulative culture? Because they don't know they have culture. The explanation is a closed loop.
+
+**Key vulnerability**: The argument depends on treating "consciousness" as doing causal work that could equally be attributed to computational properties (working memory capacity, attention, executive function). The phenomenal aspect is explanatorily idle.
+
+### The Quantum Skeptic (Max Tegmark)
+
+Let me get this straight: you're claiming that consciousness—operating through quantum effects in microtubules—is what produces the intelligence difference between humans and great apes. But have you done the math?
+
+The decoherence timescale for quantum superpositions in warm, wet neural tissue is on the order of 10^-13 seconds (femtoseconds). The cognitive processes you're talking about—working memory maintenance, logical reasoning, metarepresentation—operate on timescales of hundreds of milliseconds to seconds. That's 10-15 orders of magnitude slower than quantum coherence could persist.
+
+The research notes mention that "Tegmark's calculations are disputed." Yes, by about seven orders of magnitude in the most optimistic revisions. But seven orders of magnitude still leaves quantum coherence decaying at microsecond timescales—far too fast for the cognitive phenomena you're invoking.
+
+If consciousness works through "quantum selection" of neural patterns, the selection would have to happen trillions of times per second for each thought. The bandwidth implied is absurd. Your ~10 bits/second coupling law estimate doesn't help—it's 10^13 times too slow to keep up with decoherence.
+
+The consciousness-intelligence hypothesis adds nothing to the quantum picture. Great apes and humans have similar neural tissue, similar microtubules, similar decoherence environments. If quantum effects are what matters, why the difference?
+
+**Key vulnerability**: The quantum mechanism has nothing to say about species differences. Both species have neurons with microtubules. The quantum story is completely decoupled from the evolutionary story.
+
+### The Many-Worlds Defender (David Deutsch)
+
+Your rejection of Many-Worlds is doing significant work in this framework, but you haven't earned it.
+
+You claim that "real collapse means definite facts about which organisms are conscious." But Many-Worlds has definite facts too—there are definite facts about each branch, including which organisms in that branch exhibit intelligent behavior. The appearance that there's a single determinate answer about "whether this ape is conscious" is an indexical illusion; there are multiple versions of the ape across branches, each with its own determinate properties.
+
+Your consciousness-intelligence thesis actually creates a problem for collapse theories that Many-Worlds avoids. If consciousness collapses quantum states to produce intelligence, and great apes have less consciousness than humans, why do they collapse quantum states at all? Either collapse happens (in which case apes have it too), or it doesn't (in which case humans don't have it either). The "degree of consciousness" story makes no sense for binary collapse events.
+
+Many-Worlds, by contrast, explains the intelligence difference without invoking mysterious consciousness-caused collapse. In all branches, humans have the neural architecture for sophisticated cognition. The ape-human difference is purely computational—working memory, neural connectivity, developmental plasticity. No collapse, no consciousness as causal agent, no problem.
+
+**Key vulnerability**: The No Many Worlds tenet isn't independently motivated in this context—it's assumed because it's needed to make consciousness causally efficacious. But Many-Worlds explains the same phenomena without consciousness doing any causal work.
+
+### The Empiricist (Karl Popper's Ghost)
+
+What experiment could prove this consciousness-intelligence hypothesis wrong?
+
+You offer falsifiability conditions in animal-consciousness.md, but they're not about the consciousness-intelligence link specifically. You say the view would be challenged if "great apes achieving human-level cognition without consciousness expansion"—but how would we *detect* whether consciousness expanded? You've explicitly acknowledged we cannot directly access animal phenomenology.
+
+The same problem infects the working memory argument. You predict that "working memory expansion should produce consciousness-linked cognitive gains." But the gains are identified by the same capacities (logical reasoning, metarepresentation) that you already defined as consciousness-dependent. The prediction is: if working memory expands, consciousness-dependent capacities should appear. But which capacities count as consciousness-dependent? The ones that require expanded working memory. This isn't prediction; it's definitional.
+
+The "baseline cognition" concept is particularly problematic. What counts as "baseline"? Whatever great apes can do. What exceeds baseline? Whatever humans can do that great apes can't. This isn't an empirical hypothesis; it's a relabeling of the explanandum.
+
+Genuine falsification would require:
+1. A consciousness measure independent of the cognitive capacities being explained
+2. An intervention that changes consciousness level and observes cognitive effects
+3. Cases where the predicted correlation fails
+
+None of these is available. The hypothesis is, as I would say, not even wrong.
+
+**Key vulnerability**: The thesis cannot be tested independently of the capacities it purports to explain. All evidence is consistent with the alternative explanation that *neural computational resources* (not consciousness) explain the difference.
+
+### The Buddhist Philosopher (Nagarjuna)
+
+You cling to consciousness as a *thing* that can be present in varying degrees and *cause* specific effects. But this reifies what should be empty.
+
+The Jourdain Hypothesis is revealing. You say apes have culture but don't *know* they have culture—implying a permanent self that could know or not know. But Buddhist analysis shows the self you're trying to preserve is itself constructed, moment to moment, without inherent existence.
+
+More deeply: your framework treats consciousness as if it were a substance that could be *more* or *less* present. But consciousness in Buddhist analysis is not a thing—it is a process, dependently arising, empty of self-nature. The question "does this ape have phenomenal consciousness?" presupposes that phenomenal consciousness is a determinate property an organism either has or lacks. This presupposition is what must be questioned.
+
+The working memory expansion you celebrate may simply be the ego's expanded capacity for grasping—more complex constructions of self, more elaborate delusions of permanence. From the Buddhist perspective, human "metarepresentation" is the capacity for deeper self-deception, not a mark of genuine cognitive advance. We know we have culture, yes—but what we "know" is a construction that reinforces attachment.
+
+**Key vulnerability**: The entire framework assumes that "more consciousness" is better or causally more powerful. But consciousness without wisdom is just elaborated confusion. The human-ape gap may be a gap in *delusion complexity*, not a gap in whatever ultimately matters.
+
+## Critical Issues (Consciousness-Intelligence Focus)
+
+### Issue 6: The Correlation-Causation Problem
+- **File**: animal-consciousness.md, minimal-consciousness.md
+- **Location**: "Consciousness and the Human-Ape Intelligence Gap" sections
+- **Problem**: The inference from "consciousness correlates with human-unique capacities" to "consciousness causes human-unique capacities" is not established. Correlation evidence is presented as if it demonstrated causation.
+- **Severity**: High
+- **Recommendation**: Explicitly acknowledge the correlational nature of the evidence and address alternative explanations (language, social learning, cultural scaffolding, developmental plasticity) that could explain the same correlations.
+
+### Issue 7: Circularity in "Consciousness-Requiring" Capacities
+- **File**: animal-consciousness.md, minimal-consciousness.md
+- **Location**: Baseline cognition hypothesis
+- **Problem**: "Consciousness-requiring capacities" are identified as those humans have and great apes lack. This risks circularity: the evidence that consciousness is causally important is that humans have capacities apes lack, but the only evidence these capacities "require" consciousness is that consciousness correlates with having them.
+- **Severity**: High
+- **Recommendation**: Provide independent criteria for what makes a capacity consciousness-requiring. The Lieberman study on logical reasoning is a start, but more direct evidence is needed for metarepresentation and cumulative culture claims.
+
+### Issue 8: Working Memory Alternative
+- **File**: working-memory.md, animal-consciousness.md
+- **Location**: 2±1 vs 7±2 comparison
+- **Problem**: The working memory difference is attributed to "expanded consciousness," but alternative explanations (neural developmental differences, language-based rehearsal, prefrontal elaboration) are not adequately addressed. Working memory expansion could be purely computational.
+- **Severity**: Medium
+- **Recommendation**: Address the possibility that working memory differences have purely neural explanations. The maintenance/manipulation distinction suggests that manipulation requires consciousness, but great apes presumably *can* manipulate—just fewer items.
+
+### Issue 9: The Jourdain Hypothesis Circularity
+- **File**: animal-consciousness.md, minimal-consciousness.md
+- **Location**: Discussion of Whiten 2015
+- **Problem**: "Apes have culture but don't know they have culture" is asserted based on their lacking cumulative culture, but cumulative culture is then explained by their not knowing they have culture. The argument is circular.
+- **Severity**: Medium
+- **Recommendation**: Provide independent evidence that apes lack metarepresentation. The behavioral absence of cumulative culture cannot itself establish absence of metarepresentational capacity.
+
+### Issue 10: The Quantum Mechanism Disconnect
+- **File**: Various (via tenets integration)
+- **Location**: Throughout consciousness-intelligence discussion
+- **Problem**: The Map's proposed mechanism (quantum selection) is completely disconnected from the evolutionary story. Both species have neurons with microtubules. The quantum framework has no resources to explain species differences.
+- **Severity**: Medium
+- **Recommendation**: Either develop a story about how quantum mechanisms differ between species, or acknowledge that the consciousness-intelligence thesis is independent of the quantum mechanism claims.
+
+## Counterarguments to Address (Consciousness-Intelligence Focus)
+
+### Social Learning and Cultural Scaffolding
+- **Current content says**: Consciousness enables cumulative culture through metarepresentation
+- **A critic would argue**: Cumulative culture requires high-fidelity social learning, teaching, and normative enforcement—all of which are social mechanisms that don't require invoking consciousness. Language enables cumulative culture by allowing *explicit* transmission, but explicitness isn't the same as phenomenal consciousness.
+- **Suggested response**: Distinguish between necessary and sufficient conditions. Social mechanisms may be necessary but insufficient; consciousness might provide the additional factor. Address why sophisticated social learning (which apes have) fails to produce cumulative culture without consciousness.
+
+### Language as the Key Difference
+- **Current content says**: Recursion may require expanded working memory which requires consciousness
+- **A critic would argue**: Language is the obvious human unique capacity. Language enables explicit instruction, cumulative knowledge, and metarepresentation through *linguistic* encoding. The consciousness-intelligence thesis may be capturing effects of language, not consciousness per se.
+- **Suggested response**: Address whether language requires consciousness (as claimed) or whether language and consciousness are independent factors both contributing to human intelligence. The current framework risks conflating language effects with consciousness effects.
+
+### Computational Resources Without Consciousness
+- **Current content says**: Working memory expansion reflects consciousness expansion
+- **A critic would argue**: Working memory capacity is determined by neural resources—prefrontal cortex size, synaptic density, myelination patterns. These computational factors could explain human-ape differences without invoking phenomenal consciousness. AI systems with large working memory capacity aren't conscious.
+- **Suggested response**: Distinguish between computational capacity and phenomenal access. Argue that the *manipulation* aspect of working memory (which the Map claims requires consciousness) can't be replicated by mere capacity expansion. But this requires evidence that manipulation differs qualitatively from maintenance.
+
+### Great Ape Theory of Mind
+- **Current content says**: Apes lack full metarepresentation
+- **A critic would argue**: Recent research shows great apes understand false beliefs, track others' mental states, and engage in tactical deception. This suggests significant metarepresentational capacity—perhaps humans just have *more* of what apes already have, making the difference quantitative rather than qualitative.
+- **Suggested response**: Address the recent theory-of-mind evidence in great apes. The current treatment focuses on cumulative culture but doesn't engage with the strongest evidence for ape metarepresentation.
+
+## Unsupported Claims (Consciousness-Intelligence Focus)
+
+| Claim | Location | Needed Support |
+|-------|----------|----------------|
+| "Working memory depends on conscious access" | animal-consciousness.md, working-memory.md | Direct evidence that manipulation (not just attention) requires phenomenal consciousness, not just reportability |
+| "Logical reasoning specifically requires conscious processing" | multiple files | Evidence distinguishing phenomenal consciousness from cognitive access/attention/reportability |
+| "Metarepresentation requires phenomenal consciousness" | animal-consciousness.md | Argument that linguistic or computational metarepresentation is insufficient |
+| "The gap tracks consciousness-dependent capacities" | animal-consciousness.md | Independent criteria for consciousness-dependence that avoid circularity |
+| "Cumulative culture requires metarepresentation" | animal-consciousness.md | Evidence ruling out high-fidelity social learning as sufficient |
+
+## Language Improvements (Consciousness-Intelligence Focus)
+
+| Current | Issue | Suggested |
+|---------|-------|-----------|
+| "consciousness causally enables certain cognitive capacities" | Too strong; correlation shown | "consciousness correlates with certain cognitive capacities, possibly causally" |
+| "precisely the pattern we'd expect if consciousness causally enables" | Confirmation bias | "consistent with the hypothesis that consciousness enables, though other explanations exist" |
+| "The gap is not random—it tracks" | Implies causation | "The gap correlates with capacities that may be consciousness-dependent" |
+| "This systematic pattern would be unexplained coincidence if consciousness were epiphenomenal" | False dichotomy | "This pattern is more naturally explained by consciousness having causal efficacy, though neural resource explanations remain possible" |
+
+## Strengths (Consciousness-Intelligence Focus)
+
+Despite these criticisms, the consciousness-intelligence thesis has genuine strengths:
+
+1. **Empirical grounding**: The working memory difference (2±1 vs 7±2) is robustly documented, and the Lieberman et al. study on conscious processing and reasoning provides direct experimental evidence.
+
+2. **Integration with evolutionary theory**: The evolutionary argument against epiphenomenalism is strengthened by the consciousness-intelligence correlation—if consciousness tracks adaptive capacities precisely, epiphenomenalism faces a serious coincidence problem.
+
+3. **Falsifiability conditions provided**: The article identifies specific findings that would challenge the view, showing intellectual honesty.
+
+4. **Process philosophy integration**: The Whiteheadian framing offers a coherent metaphysical framework where consciousness is constitutive of complex becoming.
+
+5. **Multi-level analysis**: The thesis connects neuroscience (working memory), comparative cognition (great apes), evolutionary theory, and philosophy of mind into a unified framework.
+
+## Summary of Recommendations (Consciousness-Intelligence Focus)
+
+1. **Acknowledge correlational limits explicitly**: The strongest criticism is correlation-causation confusion. Preempt by acknowledging this directly.
+
+2. **Develop independent criteria for consciousness-requiring capacities**: Without this, the argument risks circularity.
+
+3. **Engage with computational alternatives**: The working memory difference could be computational, not phenomenal. Address this head-on.
+
+4. **Connect quantum mechanism to evolutionary story**: Currently these are independent threads. Either integrate them or acknowledge their independence.
+
+5. **Address the language confound**: Language is the elephant in the room. The thesis needs to distinguish consciousness effects from language effects.
+
+6. **Strengthen the Jourdain Hypothesis**: Provide non-circular evidence for ape metarepresentational limits.
