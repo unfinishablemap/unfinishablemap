@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 00:30:00+00:00
+ai_modified: 2026-01-22 01:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -49,6 +49,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: New article concepts/quantum-coherence-protection.md (2026-01-21) provides detailed protection mechanisms. May strengthen concepts/neural-quantum-coherence.md with specific mechanism details. Check for cross-links, decoherence response updates, and 2024-2025 experimental evidence integration.
 - **Source**: chain (from quantum-coherence-protection.md)
 - **Generated**: 2026-01-21
+
+### P2: Cross-review dreams-and-consciousness.md considering lucid-dreaming insights
+- **Type**: cross-review
+- **Notes**: New article topics/lucid-dreaming-and-consciousness.md (2026-01-21) establishes lucid dreaming as a distinct consciousness state with 2025 Demirel findings on unique neural signatures. May strengthen concepts/dreams-and-consciousness.md. Check for cross-links to lucid dreaming as a distinct state, metacognition-dream connection, and predictive processing account.
+- **Source**: chain (from lucid-dreaming-and-consciousness.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review metacognition.md considering lucid-dreaming insights
+- **Type**: cross-review
+- **Notes**: New article topics/lucid-dreaming-and-consciousness.md (2026-01-21) demonstrates metacognition operating during dreams—awareness of one's own cognitive state while dreaming. May strengthen concepts/metacognition.md with evidence that metacognition can operate during altered states. Check for cross-links and state-independence arguments.
+- **Source**: chain (from lucid-dreaming-and-consciousness.md)
+- **Generated**: 2026-01-22
 
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic

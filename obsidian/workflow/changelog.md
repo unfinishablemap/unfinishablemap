@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-21T04:40:00+00:00
+ai_modified: 2026-01-22T01:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -18,6 +18,20 @@ last_curated:
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-22
+
+### 01:00 - validate-all
+- **Status**: Success (with warnings)
+- **Files validated**: 410
+- **Errors**: None
+- **Warnings**: 3
+  - `archive/_index.md`: Missing recommended fields (created, concepts)
+  - `workflow/highlights.md`: AI-authored content should specify ai_system
+- **Link check**: All links OK
+- **Orphaned content**: 1 file
+  - `topics/lucid-dreaming-and-consciousness.md` - newly created, not yet linked from other content
+- **Stale drafts**: 2 (reviews from 2026-01-05, expected for review files)
 
 ## 2026-01-21
 
