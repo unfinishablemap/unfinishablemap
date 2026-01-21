@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-21 21:30:00+00:00
+ai_modified: 2026-01-22 06:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,7 @@ concepts:
 - '[[haecceity]]'
 - '[[epistemic-emotions]]'
 - '[[consciousness-and-mathematical-understanding]]'
+- '[[consciousness-as-amplifier]]'
 created: 2026-01-16
 date: &id001 2026-01-20
 draft: false
@@ -216,6 +217,30 @@ Contemplative traditions distinguish epistemic emotions with precision ordinary 
 
 The epistemic emotions evidence strengthens the case that cognitive phenomenology exists and is accessible to trained introspection. If epistemic emotions have irreducible phenomenal character—and they demonstrably do—then at minimum some cognitive phenomenology exists, even if the status of "pure understanding" remains contested.
 
+## Evidence from the Amplification Thesis
+
+The [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) hypothesis provides unexpected empirical support for cognitive phenomenology. If consciousness merely accompanied cognition without contributing to it, the existence of cognitive phenomenology would be puzzling—an epiphenomenal add-on. But if consciousness *amplifies* cognition, then cognitive phenomenology reflects something functionally significant.
+
+### Logical Reasoning Specifically Requires Consciousness
+
+Lieberman et al. (2008) demonstrated that rule-based logical reasoning depends specifically on conscious processing, while pattern recognition and associative learning do not. Cognitive load disrupting conscious attention impairs logical reasoning; disrupting unconscious processes leaves it intact. This asymmetry suggests that the experience of reasoning—following "if P then Q, P, therefore Q"—involves phenomenal character that matters.
+
+If logical reasoning were phenomenally empty (conservatism), we would expect it to proceed unconsciously like pattern recognition. The finding that conscious access is specifically required for rule-following supports the liberalist view: there is something it is like to reason logically, and this phenomenal character isn't incidental to the process.
+
+### Manipulation Versus Maintenance
+
+The amplification framework distinguishes *maintaining* information (which can be unconscious) from *manipulating* it (which requires consciousness). Synaptic traces can hold patterns without active firing, but comparing items, rearranging representations, or combining concepts into novel structures requires conscious access.
+
+This maps onto the cognitive phenomenology debate. The conservativist claims thinking reduces to sensory accompaniments. But the manipulation evidence suggests otherwise: the active work of thinking—comparing, combining, restructuring—has phenomenal character because it requires phenomenal access. The experience of manipulating representations is the subjective correlate of amplification at work.
+
+### The Metarepresentation Connection
+
+The amplification hypothesis emphasizes [metarepresentation](/concepts/metarepresentation/): representing representations *as* representations. Great apes have procedural metacognition—feelings of knowing that guide behaviour. Humans additionally have declarative metacognition—taking beliefs as objects of thought, knowing that we know.
+
+This declarative capacity requires cognitive phenomenology. To think about a thought, you must experience the thought as thought—not merely undergo it. The phenomenal character of metarepresentation is precisely what cognitive phenomenology claims: a proprietary "what it's like" to cognition that cannot reduce to the sensory character of the original thought's content.
+
+The human-ape gap tracks consciousness-dependent capacities. Great apes show limitations exactly where cognitive phenomenology seems required: logical reasoning, metarepresentation, counterfactual thinking, cumulative culture. This systematic pattern supports the liberalist position: cognitive phenomenology isn't epiphenomenal; it enables the cognitive operations that distinguish human minds.
+
 ## Evidence from Unusual Cases
 
 ### Aphantasia
@@ -336,6 +361,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 
 ## Further Reading
 
+- [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Empirical evidence that consciousness enables rather than merely accompanies cognition
 - [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) — Mathematical insight as paradigm case for cognitive phenomenology
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Curiosity, doubt, certainty, and other feelings about knowing
 - [semantic-memory](/concepts/semantic-memory/) — TOT/FOK phenomenology and noetic consciousness

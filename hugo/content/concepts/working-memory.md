@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-21 18:40:00+00:00
+ai_modified: 2026-01-21 21:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -122,6 +122,16 @@ But they lack capacities tied to WM manipulation:
 - Counterfactual thinking extending beyond immediate need-states
 
 This systematic pattern suggests WM capacity constrains which cognitive operations consciousness can perform. The "magic number" 7±2 may reflect not arbitrary neural limitation but the interface bandwidth between consciousness and the neural workspace—how much information consciousness can simultaneously manipulate through the attention interface.
+
+### How Expanded Capacity Enables Amplification
+
+The consciousness-as-amplifier framework identifies three specific mechanisms through which expanded WM enables distinctively human cognition:
+
+**Metacognitive monitoring.** [Metacognition](/concepts/metacognition/) requires holding both a cognitive state and a representation *of* that state simultaneously—knowing that you know. With 2±1 capacity, this is precarious: representing your current belief consumes most available slots, leaving little room to evaluate it. With 7±2 capacity, you can hold a belief, its supporting evidence, alternative possibilities, and your confidence level—all simultaneously available for comparison. The expansion enables not just monitoring but *manipulating* your own cognitive processes: adjusting strategies based on error detection, deliberately shifting attention when current approaches fail. Empirical evidence (Fox et al. 2012) shows meditators improve introspective accuracy through training—demonstrating that conscious attention to conscious states enhances metacognitive capacity.
+
+**Counterfactual thinking.** The Bischof-Köhler hypothesis proposes animals cannot act on drive states they don't currently possess. A sated animal won't store food for future hunger because it cannot hold both its current state and a counterfactual future state in working memory simultaneously. Human WM expansion enables holding present circumstances alongside multiple imagined alternatives: "what if I had chosen differently?", "what might happen if I do X?", "how would this look from another perspective?" Each counterfactual requires maintaining both actual and imagined scenarios for comparison—impossible with minimal capacity, routine with expanded bandwidth.
+
+**Cumulative culture.** Whiten (2015) argues great apes have culture but may not *know* they have culture—they express traditions without representing these as "our way of doing things" subject to improvement. Cumulative culture requires [metarepresentation](/concepts/metarepresentation/): treating knowledge as knowledge that can be refined and taught. This demands holding the current method, the improved method, and the relationship between them (why the new way is better). It requires comparing across time: how we did it before, how we do it now, how we might do it in future. The expansion from 2±1 to 7±2 items makes this three-way comparison tractable, enabling the "ratchet" of cultural accumulation that transforms human cognition across generations.
 
 ## Semantic Retrieval and Working Memory
 

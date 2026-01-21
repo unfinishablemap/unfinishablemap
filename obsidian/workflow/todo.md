@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T06:00:00+00:00
+ai_modified: 2026-01-21T21:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -57,12 +57,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Cross-review working-memory.md considering consciousness-as-amplifier insights
-- **Type**: cross-review
-- **Notes**: The consciousness-as-amplifier article (2026-01-21) presents working memory expansion (2±1 → 7±2 items) as a key mechanism for consciousness-enabled intelligence. The working-memory.md article should be strengthened with this amplification evidence: how expanded WM enables metacognition, counterfactual thinking, and cumulative culture. Check for cross-links.
-- **Source**: chain (from consciousness-as-amplifier.md)
-- **Generated**: 2026-01-22
-
 ### P2: Deep review problem-of-other-minds.md for currency and tenet coverage
 - **Type**: deep-review
 - **Notes**: AI-generated concept page has oldest deep-review timestamp (2026-01-18). Covers epistemological problem of knowing other minds exist. Check tenet coverage, illusionist challenge response quality, and integration with recent consciousness-as-amplifier insights (which discuss great ape consciousness evidence).
@@ -76,6 +70,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review working-memory.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: The consciousness-as-amplifier article (2026-01-21) presents working memory expansion (2±1 → 7±2 items) as a key mechanism for consciousness-enabled intelligence. The working-memory.md article should be strengthened with this amplification evidence: how expanded WM enables metacognition, counterfactual thinking, and cumulative culture. Check for cross-links.
+- **Result**: Added new "How Expanded Capacity Enables Amplification" subsection (~450 words) explaining three mechanisms: (1) Metacognitive monitoring—how 7±2 enables holding belief plus evaluation simultaneously, with Fox et al. (2012) training evidence; (2) Counterfactual thinking—how expanded capacity enables holding present and imagined scenarios for comparison (Bischof-Köhler hypothesis); (3) Cumulative culture—how metarepresentation requires three-way comparison of old method, new method, and relationship between them (Whiten 2015). Added cross-links to metacognition and metarepresentation.
+- **Output**: obsidian/concepts/working-memory.md
 
 ### ✓ 2026-01-22: Cross-review cognitive-phenomenology.md considering consciousness-as-amplifier insights
 - **Type**: cross-review
