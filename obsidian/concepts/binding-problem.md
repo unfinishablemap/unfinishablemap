@@ -3,7 +3,7 @@ title: "The Binding Problem"
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-21T04:35:00+00:00
+ai_modified: 2026-01-21T10:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ concepts:
   - "[[filter-theory]]"
   - "[[phenomenal-unity]]"
   - "[[emergence]]"
+  - "[[varieties-of-unity]]"
 related_articles:
   - "[[tenets]]"
   - "[[binding-problem-consciousness-2026-01-14]]"
@@ -37,6 +38,8 @@ last_deep_review: 2026-01-19T16:00:00+00:00
 ---
 
 The binding problem asks how distributed neural processes—each handling different features like color, shape, and motion in separate brain regions—combine into unified conscious experience. When you see a red apple moving across a table, color is processed in V4, shape in the inferotemporal cortex, motion in MT/V5. Yet your experience is of *one* red moving apple, not three separate features. Classical neural mechanisms struggle to explain this unity. Quantum approaches may succeed precisely because quantum entanglement provides genuine physical holism—the whole is irreducible to parts.
+
+Strictly speaking, binding addresses *synchronic* unity—the binding of features within a single moment of experience. Consciousness also exhibits [[varieties-of-unity|diachronic unity]] (how moments connect through time) and subject unity (that all experiences belong to one subject). These may be related but distinct problems; evidence suggests they can dissociate. The binding problem as traditionally framed concerns why features at a moment feel like one experience rather than parallel processes.
 
 ## The Two Binding Problems
 
@@ -301,6 +304,7 @@ The binding problem illuminates why the Map's [[tenets]] take the positions they
 - [[binding-problem-consciousness-2026-01-14]] — Detailed research notes
 - [[neural-binding-quantum-entanglement-2026-01-19]] — Recent experimental evidence research
 - [[quantum-binding-and-phenomenal-unity]] — Focused argument that entanglement explains unity
+- [[varieties-of-unity]] — Distinguishing synchronic, diachronic, and subject unity
 
 ## References
 
