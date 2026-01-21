@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-21
 
-### P2: Write article on neural binding and quantum entanglement
-- **Type**: expand-topic
-- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md. Recent 2024-2025 evidence strengthens quantum case: microtubule drugs delay anesthesia, MRI detects entanglement signatures, quantum effects survive 7 orders of magnitude longer than Tegmark calculated. Quantum entanglement provides ontological holism matching phenomenal unity's structure. Supports Minimal Quantum Interaction tenet.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-22
-
 ### P2: Write article on collapse before minds (early universe problem)
 - **Type**: expand-topic
 - **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Addresses central objection to consciousness-collapse: what determined outcomes before observers? Five responses examined: Wheeler's retrocausality, panpsychism, objective reduction, decoherence, separation strategies. Recommends combining objective reduction with consciousness modulation. Critical for defending Minimal Quantum Interaction tenet.
@@ -92,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Write article on neural binding and quantum entanglement
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md. Recent 2024-2025 evidence strengthens quantum case: microtubule drugs delay anesthesia, MRI detects entanglement signatures, quantum effects survive 7 orders of magnitude longer than Tegmark calculated. Quantum entanglement provides ontological holism matching phenomenal unity's structure. Supports Minimal Quantum Interaction tenet.
+- **Result**: Article written (~2400 words) covering the structure matching problem, decoherence debate with 7-order-of-magnitude correction, 2024-2025 experimental evidence (epothilone study, Kerskens-Pérez MRI, twin study), Quantum Binding Argument (Baum), process philosophy perspective, contemplative evidence, and What Would Challenge This View section. Connected to all 5 site tenets with substantive analysis.
+- **Output**: obsidian/topics/quantum-binding-and-phenomenal-unity.md
 
 ### ✓ 2026-01-21: Write article on consciousness in simple organisms
 - **Type**: expand-topic
