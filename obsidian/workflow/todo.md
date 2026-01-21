@@ -37,10 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review concepts/psychophysical-coupling-law.md for currency and cross-links
+### P2: Deep review concepts/luck-objection.md for currency and cross-links
 - **Type**: deep-review
-- **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Critical architecture piece articulating how conscious contents map to physical selections. Supports the core mechanism of the Map's framework. Check for cross-links to consciousness-selecting-neural-patterns.md, mental-causation.md, interactionist-dualism.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
+- **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Covers the luck objection to libertarian free will—critical challenge that site's quantum selection mechanism must address. Check for cross-links to agent-causation.md, quantum-indeterminacy-free-will.md, motor-selection.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
 - **Source**: staleness
+- **Generated**: 2026-01-21
+
+### P2: Deep review concepts/quantum-interpretations.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Survey of QM interpretations and their consciousness implications—foundational for No Many Worlds tenet. Check for cross-links to many-worlds.md, measurement-problem.md, relational-quantum-mechanics.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
+- **Source**: staleness
+- **Generated**: 2026-01-21
+
+### P2: Cross-review binding-problem.md considering quantum-binding-and-phenomenal-unity insights
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-binding-and-phenomenal-unity.md (2026-01-21) may provide insights relevant to concepts/binding-problem.md. Check for cross-links, reinforcing arguments about phenomenal unity matching quantum entanglement structure, or contradictions.
+- **Source**: chain (from quantum-binding-and-phenomenal-unity.md)
 - **Generated**: 2026-01-21
 
 ### P3: Write article on aesthetic dimension of consciousness
@@ -74,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Deep review concepts/psychophysical-coupling-law.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (ai_contribution: 100), never deep-reviewed. Critical architecture piece articulating how conscious contents map to physical selections. Supports the core mechanism of the Map's framework. Check for cross-links to consciousness-selecting-neural-patterns.md, mental-causation.md, interactionist-dualism.md. May need illusionist challenge section, process philosophy perspective, and falsifiability conditions.
+- **Result**: Comprehensive review completed. Added "The Decoherence Challenge" section (3 responses: disputed timescales, Zeno operates faster, biological precedents). Added "The Illusionist Challenge" section (regress response, introspection survives, functional asymmetry). Added "Contemplative Evidence" section (phenomenology of attention, effort-selection mapping, Buddhist no-self complication). Added "Process Philosophy Perspective" section (concrescence as selection, eternal objects, why process philosophy dissolves interaction problem). Added "What Would Challenge This View?" section with 5 falsifiability conditions. Expanded "Relation to Site Perspective" to all 5 tenets with substantive analysis.
+- **Output**: obsidian/concepts/psychophysical-coupling-law.md, obsidian/reviews/deep-review-2026-01-21-psychophysical-coupling-law.md
 
 ### ✓ 2026-01-21: Deep review concepts/voluntary-attention.md for currency and cross-links
 - **Type**: deep-review
