@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T10:10:00+00:00
+ai_modified: 2026-01-21T10:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -74,12 +74,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-21
 
-### P2: Cross-review introspection.md considering error-recognition insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/phenomenology-of-error-recognition.md (2026-01-21) explores the bootstrap problem—using cognition to check cognition. May strengthen concepts/introspection.md with analysis of why introspection cannot detect its own systematic errors. The Dunning-Kruger structure applies to introspective competence.
-- **Source**: chain (from phenomenology-of-error-recognition.md)
-- **Generated**: 2026-01-22
-
 ### P2: Deep review quantum-coherence-protection.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: Recently written article (ai_contribution: 100), never deep-reviewed. Covers four protection mechanisms for neural quantum coherence. Check for cross-links to decoherence.md, neural-quantum-coherence.md, quantum-biology.md. May need illusionist challenge section strengthening and process philosophy connections.
@@ -93,6 +87,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review introspection.md considering error-recognition insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/phenomenology-of-error-recognition.md (2026-01-21) explores the bootstrap problem—using cognition to check cognition. May strengthen concepts/introspection.md with analysis of why introspection cannot detect its own systematic errors. The Dunning-Kruger structure applies to introspective competence.
+- **Result**: Added new "Error-Blindness: A Structural Limit on Introspection" section (~300 words) covering Schulz's insight, the bootstrap problem of introspection, Dunning-Kruger structure for introspective competence, and how contemplative training develops awareness of introspective limitations. Added phenomenology-of-error-recognition to concepts frontmatter and Further Reading.
+- **Output**: obsidian/concepts/introspection.md
 
 ### ✓ 2026-01-21: Cross-review metacognition.md considering error-recognition insights
 - **Type**: cross-review

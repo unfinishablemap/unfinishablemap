@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 10:10:00+00:00
+ai_modified: 2026-01-21 10:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -75,18 +75,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-21
 
-### P2: Cross-review metacognition.md considering error-recognition insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/phenomenology-of-error-recognition.md (2026-01-21) explores error-blindness and the bootstrap problem of self-correction. May strengthen concepts/metacognition.md with discussion of limits to metacognitive monitoring—we cannot perceive our current errors. Check for cross-links and Schulz's error-blindness concept.
-- **Source**: chain (from phenomenology-of-error-recognition.md)
-- **Generated**: 2026-01-22
-
-### P2: Cross-review introspection.md considering error-recognition insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/phenomenology-of-error-recognition.md (2026-01-21) explores the bootstrap problem—using cognition to check cognition. May strengthen concepts/introspection.md with analysis of why introspection cannot detect its own systematic errors. The Dunning-Kruger structure applies to introspective competence.
-- **Source**: chain (from phenomenology-of-error-recognition.md)
-- **Generated**: 2026-01-22
-
 ### P2: Deep review quantum-coherence-protection.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: Recently written article (ai_contribution: 100), never deep-reviewed. Covers four protection mechanisms for neural quantum coherence. Check for cross-links to decoherence.md, neural-quantum-coherence.md, quantum-biology.md. May need illusionist challenge section strengthening and process philosophy connections.
@@ -100,6 +88,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review introspection.md considering error-recognition insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/phenomenology-of-error-recognition.md (2026-01-21) explores the bootstrap problem—using cognition to check cognition. May strengthen concepts/introspection.md with analysis of why introspection cannot detect its own systematic errors. The Dunning-Kruger structure applies to introspective competence.
+- **Result**: Added new "Error-Blindness: A Structural Limit on Introspection" section (~300 words) covering Schulz's insight, the bootstrap problem of introspection, Dunning-Kruger structure for introspective competence, and how contemplative training develops awareness of introspective limitations. Added phenomenology-of-error-recognition to concepts frontmatter and Further Reading.
+- **Output**: obsidian/concepts/introspection.md
+
+### ✓ 2026-01-21: Cross-review metacognition.md considering error-recognition insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/phenomenology-of-error-recognition.md (2026-01-21) explores error-blindness and the bootstrap problem of self-correction. May strengthen concepts/metacognition.md with discussion of limits to metacognitive monitoring—we cannot perceive our current errors. Check for cross-links and Schulz's error-blindness concept.
+- **Result**: Added new "Error-Blindness: A Structural Limit" section (~450 words) covering Schulz's insight that being wrong has no phenomenal marker, the Dunning-Kruger structure as inescapable limitation, the bootstrap problem of self-correction, and implications for metacognitive training—improved introspection sharpens access to phenomenal content but cannot create a quale for error. Added phenomenology-of-error-recognition to concepts frontmatter and Further Reading.
+- **Output**: obsidian/concepts/metacognition.md
 
 ### ✓ 2026-01-22: Cross-review temporal-consciousness.md considering temporal-asymmetry insights
 - **Type**: cross-review
