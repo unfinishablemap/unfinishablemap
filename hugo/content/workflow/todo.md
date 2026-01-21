@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 10:15:00+00:00
+ai_modified: 2026-01-22 11:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -52,20 +52,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 
-### P3: Write article on language, recursion, and consciousness
+### P2: Write article on language, recursion, and consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). Whether recursive linguistic structure—the key human-unique linguistic capacity—requires phenomenal consciousness. If holding recursive structures requires expanded working memory, and working memory manipulation requires consciousness, then recursion may be consciousness-dependent. Builds on cognitive-phenomenology.md, working-memory.md. Supports Dualism.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-21
+- **Promoted**: 2026-01-22 (queue replenishment)
 
-
-### P2: Cross-review animal-consciousness.md considering consciousness-as-amplifier insights
-- **Type**: cross-review
-- **Notes**: The consciousness-as-amplifier article (2026-01-21) discusses great ape baseline cognition and the Jourdain Hypothesis (apes may have culture without knowing they have culture). The animal-consciousness.md article should be strengthened with this amplification framework: procedural vs declarative metacognition, working memory capacity differences, and implications for animal phenomenology.
-- **Source**: chain (from consciousness-as-amplifier.md)
-- **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review animal-consciousness.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: The consciousness-as-amplifier article (2026-01-21) discusses great ape baseline cognition and the Jourdain Hypothesis (apes may have culture without knowing they have culture). The animal-consciousness.md article should be strengthened with this amplification framework: procedural vs declarative metacognition, working memory capacity differences, and implications for animal phenomenology.
+- **Result**: Cross-review found integration already complete. Article includes full "Consciousness and the Human-Ape Intelligence Gap" section (~1200 words) covering baseline cognition hypothesis, working memory expansion (2±1 vs 7±2), Jourdain Hypothesis, procedural vs declarative metacognition distinction, and implications for animal phenomenology. Links to consciousness-as-amplifier present in concepts frontmatter and Further Reading. Research notes linked. Deep review completed 2026-01-22T05:00 UTC.
+- **Output**: obsidian/topics/animal-consciousness.md (no additional edits needed)
 
 ### ✓ 2026-01-22: Cross-review global-workspace-theory.md considering consciousness-as-amplifier insights
 - **Type**: cross-review
