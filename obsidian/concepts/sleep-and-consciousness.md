@@ -3,7 +3,7 @@ title: "Sleep and Consciousness"
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T17:30:00+00:00
+ai_modified: 2026-01-21T21:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[sleep-memory-consolidation-consciousness-2026-01-18]]"
+  - "[[lucid-dreaming-and-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -165,7 +166,7 @@ The interface framework offers an answer. Consciousness doesn't simply "happen" 
 
 ## Lucid Dreaming as Interface Reactivation
 
-[[dreams-and-consciousness#Lucid Dreaming: A Distinct State|Lucid dreaming]] demonstrates that the consciousness interface can reactivate during sleep through training. Prefrontal regions normally quiescent during REM come back online, restoring metacognitive awareness while preserving dream immersion.
+[[lucid-dreaming-and-consciousness|Lucid dreaming]] demonstrates that the consciousness interface can reactivate during sleep through training—consciousness can voluntarily modulate its own mode of operation while the body sleeps, proving the brain-consciousness interface admits multiple stable configurations. Prefrontal regions normally quiescent during REM come back online, restoring metacognitive awareness while preserving dream immersion.
 
 The 2025 Demirel findings characterized lucid dreaming as a distinct consciousness state:
 - Beta/gamma resonance across cortical areas
@@ -263,6 +264,7 @@ The Map's interpretation of sleep and consciousness would face serious difficult
 - [[illusionism]] — The eliminativist challenge and how sleep evidence bears on it
 - [[introspection]] — First-person access and its reliability across states
 - [[witness-consciousness]] — The observer that may persist through sleep yoga
+- [[lucid-dreaming-and-consciousness]] — Lucid dreaming as a distinct consciousness state
 - [[decoherence]] — Quantum Zeno mechanism and sleep state transitions
 - [[haecceity]] — Indexical identity through the sleep-wake gap
 - [[altered-states-of-consciousness]] — Sleep within the broader taxonomy of ASCs
