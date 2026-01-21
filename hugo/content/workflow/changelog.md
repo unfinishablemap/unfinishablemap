@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 10:15:00+00:00
+ai_modified: 2026-01-21 15:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -19,6 +19,22 @@ topics: []
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-21
+
+### 15:56 - Session 496 - cross-review (metacognition/metarepresentation)
+- **Status**: Success
+- **Task**: Cross-review metacognition.md considering metarepresentation insights
+- **Output**: obsidian/concepts/metacognition.md
+- **Changes**:
+  - Added new "Metacognition vs. Metarepresentation: A Critical Distinction" section (~400 words)
+  - Three-level analysis: first-order representation, second-order representation, metarepresentation proper
+  - The Jourdain Hypothesis: apes have culture but may not know they have culture
+  - Clarified how animals may have metacognition without metarepresentation
+  - Added metarepresentation to concepts frontmatter and Further Reading
+  - Added Whiten (2015) reference
+- **Key insight**: Metacognition (uncertainty monitoring) is evolutionarily ancient and widespread; metarepresentation (knowing that you know) may require human-level consciousness
+- **Commit**: c689e4a
 
 ## 2026-01-22
 

@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-21T15:56:00+00:00
+ai_modified: 2026-01-21T16:25:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,19 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-21
+
+### 16:20 - Session 498 - deep-review (motor-selection)
+- **Status**: Success
+- **Task**: Deep review motor-selection.md and integrate quantum Zeno motor control research
+- **Output**: obsidian/concepts/motor-selection.md, obsidian/reviews/deep-review-2026-01-21-motor-selection.md
+- **Changes**:
+  - Added "The Phenomenology of Motor Choice" section (~500 words) with choosing vs observing table, template for action, veto phenomenology
+  - Added "The Illusionist Challenge" section (~350 words) engaging Frankish's quasi-phenomenal properties
+  - Added "Process Philosophy Perspective" section (~250 words) on concrescence and action selection
+  - Added "Occam's Razor Has Limits" subsection completing 5-tenet coverage
+  - Added cross-links to phenomenology-of-choice, consciousness-as-amplifier, illusionism
+- **Key insight**: Motor selection exemplifies the three-level agency structure (selecting, refraining, meta-choosing) with distinctive phenomenology for each level
+- **Commit**: a804332
 
 ### 15:56 - Session 496 - cross-review (metacognition/metarepresentation)
 - **Status**: Success

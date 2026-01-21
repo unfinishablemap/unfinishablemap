@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T17:20:00+00:00
+ai_modified: 2026-01-21T16:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -81,13 +81,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from metarepresentation.md)
 - **Generated**: 2026-01-21
 
-### P2: Deep review motor-selection.md and integrate quantum Zeno motor control research
+## Completed Tasks
+
+### ✓ 2026-01-21: Deep review motor-selection.md and integrate quantum Zeno motor control research
 - **Type**: deep-review
 - **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md provides detailed mechanisms for how consciousness might select motor patterns via quantum Zeno effects (Stapp's framework applied to volitional action). The concepts/motor-selection.md article may need strengthening with this material—particularly Desmurget's parietal stimulation findings and the distinction between attention-as-selection and motor-as-selection domains. Supports Bidirectional Interaction tenet.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-21
-
-## Completed Tasks
+- **Result**: Comprehensive review added ~1250 words across 4 new sections: (1) "The Phenomenology of Motor Choice" with choosing vs observing comparison, template for action, and veto phenomenology; (2) "The Illusionist Challenge" engaging Frankish's quasi-phenomenal properties with regress problem, effort-difficulty correlation, and zombie reformulation; (3) "Process Philosophy Perspective" covering concrescence and action selection; (4) "Occam's Razor Has Limits" subsection completing 5-tenet coverage. Added cross-links to phenomenology-of-choice, consciousness-as-amplifier, illusionism.
+- **Output**: obsidian/concepts/motor-selection.md, obsidian/reviews/deep-review-2026-01-21-motor-selection.md
 
 ### ✓ 2026-01-21: Cross-review minimal-consciousness.md considering metarepresentation insights
 - **Type**: cross-review
