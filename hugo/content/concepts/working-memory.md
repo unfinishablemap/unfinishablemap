@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-17 23:15:00+00:00
+ai_modified: 2026-01-21 12:03:39+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,6 +14,7 @@ concepts:
 - '[[binding-problem]]'
 - '[[semantic-memory]]'
 - '[[autonoetic-consciousness]]'
+- '[[consciousness-as-amplifier]]'
 created: 2026-01-17
 date: &id001 2026-01-17
 draft: false
@@ -92,6 +93,30 @@ The prefrontal-parietal network serves as the broadcasting hub. However, the 202
 - **The interface** may be where these systems meet
 
 This aligns with the Map's framework. Attention-as-interface operates between consciousness and neural machinery. WM control (prefrontal) executes manipulation, while conscious content (posterior) is what's manipulated. The interface is the connection point.
+
+## Working Memory and the Amplification Hypothesis
+
+The [consciousness-as-amplifier hypothesis](/concepts/consciousness-as-amplifier/) positions working memory expansion as a key mechanism through which consciousness transforms cognition. Comparative data provides striking evidence.
+
+**The capacity gap**: Chimpanzee working memory holds approximately 2±1 items; human working memory holds 7±2. This three-to-four-fold expansion isn't merely quantitative. If working memory manipulation requires consciousness (as the maintenance/manipulation distinction suggests), then expanded WM capacity implies expanded conscious access.
+
+The additional capacity enables:
+- Holding multiple representations simultaneously for comparison
+- Manipulating items in relation to each other rather than sequentially
+- Flexible combination of elements into novel structures
+- The recursive operations that language and logical reasoning require
+
+**The baseline cognition hypothesis**: Great apes represent sophisticated baseline cognition—what neurons can achieve with limited conscious contribution. They possess:
+- Impressive pattern recognition and spatial memory
+- Procedural metacognition (feelings of knowing)
+- Social learning within established repertoires
+
+But they lack capacities tied to WM manipulation:
+- Cumulative culture (improving upon inherited knowledge)
+- Logical reasoning requiring explicit rule-following
+- Counterfactual thinking extending beyond immediate need-states
+
+This systematic pattern suggests WM capacity constrains which cognitive operations consciousness can perform. The "magic number" 7±2 may reflect not arbitrary neural limitation but the interface bandwidth between consciousness and the neural workspace—how much information consciousness can simultaneously manipulate through the attention interface.
 
 ## Semantic Retrieval and Working Memory
 
@@ -178,6 +203,7 @@ Working memory research supports key positions:
 
 ## Further Reading
 
+- [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How WM expansion enables cognitive amplification
 - [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness and the phenomenology of semantic retrieval
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the episodic buffer
 - [attention](/concepts/attention/) — The attention-consciousness relationship and dissociation evidence

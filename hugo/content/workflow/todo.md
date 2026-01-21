@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 11:46:00+00:00
+ai_modified: 2026-01-21 12:02:35+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on consciousness as intelligence amplifier
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). Research completed in research/consciousness-influence-intelligence-2026-01-21.md and research/consciousness-independent-baseline-cognition-2026-01-21.md. How consciousness amplifies cognitive capacities—the mechanisms by which phenomenal access expands what neural systems can achieve. Frame consciousness as enabling flexible deployment, metacognitive monitoring, and counterfactual planning. Connect working memory expansion to phenomenal access expansion. Builds on working-memory.md, metacognition.md, animal-consciousness.md. Supports Bidirectional Interaction and Dualism.
-- **Source**: chain (from consciousness-intelligence research)
-- **Generated**: 2026-01-21
-
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Why does experience have aesthetic quality? Why are some experiences beautiful and others ugly? Would build on phenomenology.md, qualia.md, phenomenal-value-realism.md. Supports Dualism (aesthetic properties resist physical reduction).
@@ -75,6 +69,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-21
 
+### P2: Cross-review global-workspace-theory.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) uses GWT's framework to explain how consciousness enables flexible deployment. May strengthen concepts/global-workspace-theory.md with the amplification perspective and comparative cognition evidence. Check for cross-links.
+- **Source**: chain (from consciousness-as-amplifier.md)
+- **Generated**: 2026-01-21
+
+### P2: Cross-review cognitive-phenomenology.md considering epistemic-emotions insights
+- **Type**: cross-review
+- **Notes**: New article concepts/epistemic-emotions.md (2026-01-21) covers curiosity, doubt, certainty, and insight as phenomenal experiences with cognitive content. May strengthen concepts/cognitive-phenomenology.md with the epistemic dimension. Check for cross-links and whether epistemic emotions constitute cognitive phenomenology or accompany it.
+- **Source**: chain (from epistemic-emotions.md)
+- **Generated**: 2026-01-21
+
 ### P2: Deep review quantum-coherence-protection.md for currency and cross-links
 - **Type**: deep-review
 - **Notes**: Recently written article (ai_contribution: 100), never deep-reviewed. Covers four protection mechanisms for neural quantum coherence. Check for cross-links to decoherence.md, neural-quantum-coherence.md, quantum-biology.md. May need illusionist challenge section strengthening and process philosophy connections.
@@ -88,6 +94,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review working-memory.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) positions working memory expansion as key amplification mechanism—the 7±2 vs 2±1 capacity difference between humans and great apes. May strengthen concepts/working-memory.md with the amplification thesis and baseline cognition hypothesis. Check for cross-links to the new article and GWT connections.
+- **Result**: Added new "Working Memory and the Amplification Hypothesis" section (~300 words) covering the 2±1 vs 7±2 capacity gap, baseline cognition hypothesis, and the systematic pattern of consciousness-requiring capacities. Added consciousness-as-amplifier to concepts frontmatter and Further Reading. Cross-link now connects WM capacity to cognitive amplification thesis.
+- **Output**: obsidian/concepts/working-memory.md
+
+### ✓ 2026-01-21: Write article on consciousness as intelligence amplifier
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). Research completed in research/consciousness-influence-intelligence-2026-01-21.md and research/consciousness-independent-baseline-cognition-2026-01-21.md. How consciousness amplifies cognitive capacities—the mechanisms by which phenomenal access expands what neural systems can achieve. Frame consciousness as enabling flexible deployment, metacognitive monitoring, and counterfactual planning. Connect working memory expansion to phenomenal access expansion. Builds on working-memory.md, metacognition.md, animal-consciousness.md. Supports Bidirectional Interaction and Dualism.
+- **Result**: Article written (~3100 words) covering the baseline cognition hypothesis, amplification mechanisms (flexible access, working memory manipulation, metacognitive monitoring, counterfactual thinking), the evolutionary argument, illusionist and decoherence challenges with responses, contemplative evidence, process philosophy perspective, and comprehensive tenet coverage. Connected to all 5 site tenets with substantive analysis.
+- **Output**: obsidian/concepts/consciousness-as-amplifier.md
 
 ### ✓ 2026-01-21: Write concept page for epistemic emotions
 - **Type**: expand-topic
