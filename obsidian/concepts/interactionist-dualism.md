@@ -3,7 +3,7 @@ title: "Interactionist Dualism"
 created: 2026-01-14
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-19T09:15:38+00:00
+ai_modified: 2026-01-21T12:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -213,6 +213,56 @@ Key features:
 - Recent research (2024-2025) finds quantum effects in biological systems at room temperature, though debate continues
 
 Both proposals share what the Map requires: consciousness biasing otherwise indeterminate quantum outcomes without violating physical law.
+
+## Selection, Biasing, and the Falsifiability Question
+
+A critical challenge to quantum interactionism asks: what exactly does "consciousness biases quantum outcomes" mean? Three distinct possibilities require separation:
+
+**Selection among equally probable outcomes**: Consciousness picks which outcome actualizes from among alternatives that quantum mechanics assigns equal probabilities. If a measurement has two equally likely outcomes, consciousness selects one without changing the 50-50 statistics across many trials.
+
+**Biasing probabilities**: Consciousness changes the probabilities themselves—making one outcome more likely than quantum mechanics predicts.
+
+**Conditional selection**: Consciousness selects among outcomes only when the selection matters for intentional action—remaining passive during irrelevant quantum events.
+
+The three interpretations have different empirical consequences:
+
+| Interpretation | Statistical Signature | Observable? |
+|---------------|----------------------|-------------|
+| Selection among equals | None—preserves quantum statistics | No |
+| Probability biasing | Departure from quantum predictions | Should be visible in neural measurements |
+| Conditional selection | Deviations only in "intention-relevant" events | Requires identifying such events |
+
+### The Unfalsifiability Objection
+
+If selection preserves quantum statistics, the mechanism appears unfalsifiable. Any outcome is compatible with "consciousness selected this." This seems to make the theory empirically empty.
+
+The response distinguishes three types of claim:
+
+**Claims about mechanism**: That consciousness operates through quantum selection is partly speculative. This honest uncertainty doesn't undermine the broader framework—interactionism requires *some* interface between consciousness and physics; the quantum proposal is the most developed candidate, not a proven fact.
+
+**Claims about explanatory coherence**: The quantum framework explains how mental causation is *possible* without violating conservation laws. This explanatory work stands even if the specific mechanism cannot be directly tested. Before quantum mechanics, the interaction problem seemed unsolvable; now we have at least a coherent story about how it could work.
+
+**Claims about indirect evidence**: While direct statistical tests may be impossible, indirect evidence accumulates. If the quantum Zeno mechanism is correct, disrupting attention should disrupt intentional action in specific ways. If Orch OR is correct, anesthetics should interact with microtubule dynamics in predictable patterns. These secondary predictions can be tested.
+
+### Why Preserving Statistics Is Not Cheating
+
+Consider an analogy: a thermostat selects heating or cooling based on temperature, but over time the house temperature averages to the set point. An observer measuring only temperature would see statistics consistent with random fluctuation around the target. The thermostat's causal role is real but statistically invisible—you need to look at the *pattern* of selections relative to goals, not just the aggregate statistics.
+
+Similarly, consciousness selecting among quantum outcomes might leave no statistical trace while still causing *which particular sequence* of outcomes occurs. The philosophical zombie—the physical duplicate lacking consciousness—would produce different sequences despite identical statistics. This is precisely the causal role interactionism claims: not changing probabilities, but selecting among equiprobable paths.
+
+### What Would Falsify Quantum Interactionism?
+
+Several findings would challenge the framework:
+
+1. **Demonstrating that quantum indeterminacy is illusory**—that hidden variables fully determine outcomes. Bell inequality experiments argue against local hidden variables, but non-local or superdeterministic alternatives remain. If one of these proves correct, the "room" for mental causation closes.
+
+2. **Demonstrating that consciousness requires macroscopic classical processing**—that all relevant neural computation is purely classical and deterministic. This would remove the interface point.
+
+3. **Demonstrating that attention and intention have no effect on quantum measurements in neural systems**—that the Zeno effect cannot be triggered by mental effort in any measurable way.
+
+4. **Demonstrating that anesthesia works purely through classical mechanisms**—that microtubule quantum dynamics play no role in consciousness.
+
+The theory is speculative, not unfalsifiable. It makes claims about where consciousness interfaces with physics, and those claims can be investigated empirically—even if the selection mechanism itself preserves statistics.
 
 ## The Decoherence Objection
 
