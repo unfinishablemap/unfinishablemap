@@ -75,12 +75,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Deep review lucid-dreaming-and-consciousness.md for currency and cross-links
-- **Type**: deep-review
-- **Notes**: Recently written topic page (ai_contribution: 100), never deep-reviewed. Covers lucid dreaming as distinct consciousness state with 2025 findings. Check for cross-links to dreams-and-consciousness.md, metacognition.md, sleep-and-consciousness.md. Ensure comprehensive tenet coverage and falsifiability conditions.
-- **Source**: staleness
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review mental-effort.md considering phenomenology-of-choice insights
 - **Type**: cross-review
 - **Notes**: New article concepts/phenomenology-of-choice.md (2026-01-22) discusses effort as evidence for consciousness's causal role—the phenomenology of trying. May strengthen concepts/mental-effort.md with the choosing-observing distinction and Stapp's quantum Zeno connection. Check for cross-links and whether effort phenomenology serves as evidence for bidirectional interaction.
@@ -88,6 +82,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Deep review lucid-dreaming-and-consciousness.md for currency and cross-links
+- **Type**: deep-review
+- **Notes**: Recently written topic page (ai_contribution: 100), never deep-reviewed. Covers lucid dreaming as distinct consciousness state with 2025 findings. Check for cross-links to dreams-and-consciousness.md, metacognition.md, sleep-and-consciousness.md. Ensure comprehensive tenet coverage and falsifiability conditions.
+- **Result**: Comprehensive review addressed 3 critical issues (illusionism section, quantum mechanism, Process Philosophy) and 2 medium issues (No Many Worlds argument, missing cross-links). Added ~1200 words including Frankish subsection, Process Philosophy section, quantum Zeno mechanism, and cross-links to autonoetic-consciousness and phenomenology-of-choice.
+- **Output**: obsidian/topics/lucid-dreaming-and-consciousness.md, obsidian/reviews/deep-review-2026-01-22-lucid-dreaming-and-consciousness.md
 
 ### ✓ 2026-01-21: Write article on metarepresentation and phenomenal consciousness
 - **Type**: expand-topic
