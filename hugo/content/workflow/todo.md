@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-21 16:20:00+00:00
+ai_modified: 2026-01-21 16:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -64,12 +64,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 
-### P2: Cross-review epiphenomenalism.md considering consciousness-as-amplifier insights
-- **Type**: cross-review
-- **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) provides the strongest argument against epiphenomenalism: consciousness amplifies intelligence, explaining the great ape-human gap. May strengthen concepts/epiphenomenalism.md with the evolutionary argument (consciousness couldn't have evolved if causally inert) and the baseline cognition hypothesis. Check for cross-links.
-- **Source**: chain (from consciousness-as-amplifier.md)
-- **Generated**: 2026-01-21
-
 ### P2: Cross-review evolution-of-consciousness.md considering consciousness-as-amplifier insights
 - **Type**: cross-review
 - **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) directly supports evolutionary arguments: if consciousness amplifies intelligence, its evolution makes adaptive sense. May strengthen concepts/evolution-of-consciousness.md with the working memory expansion evidence, baseline cognition hypothesis, and Jourdain Hypothesis. Check for cross-links.
@@ -83,6 +77,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Cross-review epiphenomenalism.md considering consciousness-as-amplifier insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-as-amplifier.md (2026-01-21) provides the strongest argument against epiphenomenalism: consciousness amplifies intelligence, explaining the great ape-human gap. May strengthen concepts/epiphenomenalism.md with the evolutionary argument (consciousness couldn't have evolved if causally inert) and the baseline cognition hypothesis. Check for cross-links.
+- **Result**: Added new "The Amplification Evidence" subsection (~550 words) to the Evolutionary Objection section. Covers working memory expansion (2±1 vs 7±2), Lieberman logical reasoning study, metarepresentation/Jourdain Hypothesis, counterfactual thinking/Bischof-Köhler hypothesis. Added consciousness-as-amplifier to concepts frontmatter and top of Further Reading. Added Lieberman, PMC10817314, and Whiten references.
+- **Output**: obsidian/concepts/epiphenomenalism.md
 
 ### ✓ 2026-01-21: Deep review motor-selection.md and integrate quantum Zeno motor control research
 - **Type**: deep-review
