@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T12:45:00+00:00
+ai_modified: 2026-01-21T12:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -44,12 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 
-### P2: Specify quantum interaction mechanism more precisely
-- **Type**: refine-draft
-- **Notes**: Pessimistic review 2026-01-21 identified critical issue: interactionist-dualism.md doesn't adequately explain how consciousness could "bias" quantum outcomes without violating quantum statistics. Either: (a) accept unfalsifiability and explain why it doesn't undermine the theory, (b) specify what statistical signature biasing would leave, or (c) distinguish "selecting among equally probable outcomes" from "biasing probabilities."
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-22
-
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Why does experience have aesthetic quality? Why are some experiences beautiful and others ugly? Would build on phenomenology.md, qualia.md, phenomenal-value-realism.md. Supports Dualism (aesthetic properties resist physical reduction).
@@ -89,6 +83,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Specify quantum interaction mechanism more precisely
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-21 identified critical issue: interactionist-dualism.md doesn't adequately explain how consciousness could "bias" quantum outcomes without violating quantum statistics. Either: (a) accept unfalsifiability and explain why it doesn't undermine the theory, (b) specify what statistical signature biasing would leave, or (c) distinguish "selecting among equally probable outcomes" from "biasing probabilities."
+- **Result**: Added new section "Selection, Biasing, and the Falsifiability Question" (~900 words) to interactionist-dualism.md. Distinguishes three interpretations: selection among equally probable outcomes, probability biasing, and conditional selection. Explains why preserving statistics is not epistemically empty (thermostat analogy). Specifies four conditions that would falsify quantum interactionism: hidden variables, macroscopic-only consciousness, no attention-quantum link, classical-only anesthesia. Addresses unfalsifiability objection by distinguishing mechanism claims, explanatory coherence claims, and indirect evidence claims.
+- **Output**: obsidian/concepts/interactionist-dualism.md
 
 ### ✓ 2026-01-21: Strengthen illusionism responses across core articles
 - **Type**: refine-draft
