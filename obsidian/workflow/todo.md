@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-21T11:46:00+00:00
+ai_modified: 2026-01-21T12:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write article on consciousness as intelligence amplifier
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). Research completed in research/consciousness-influence-intelligence-2026-01-21.md and research/consciousness-independent-baseline-cognition-2026-01-21.md. How consciousness amplifies cognitive capacities—the mechanisms by which phenomenal access expands what neural systems can achieve. Frame consciousness as enabling flexible deployment, metacognitive monitoring, and counterfactual planning. Connect working memory expansion to phenomenal access expansion. Builds on working-memory.md, metacognition.md, animal-consciousness.md. Supports Bidirectional Interaction and Dualism.
-- **Source**: chain (from consciousness-intelligence research)
-- **Generated**: 2026-01-21
 
 ### P3: Write article on aesthetic dimension of consciousness
 - **Type**: expand-topic
@@ -87,6 +81,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-21: Write article on consciousness as intelligence amplifier
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). Research completed in research/consciousness-influence-intelligence-2026-01-21.md and research/consciousness-independent-baseline-cognition-2026-01-21.md. How consciousness amplifies cognitive capacities—the mechanisms by which phenomenal access expands what neural systems can achieve. Frame consciousness as enabling flexible deployment, metacognitive monitoring, and counterfactual planning. Connect working memory expansion to phenomenal access expansion. Builds on working-memory.md, metacognition.md, animal-consciousness.md. Supports Bidirectional Interaction and Dualism.
+- **Result**: Article written (~3100 words) covering the baseline cognition hypothesis, amplification mechanisms (flexible access, working memory manipulation, metacognitive monitoring, counterfactual thinking), the evolutionary argument, illusionist and decoherence challenges with responses, contemplative evidence, process philosophy perspective, and comprehensive tenet coverage. Connected to all 5 site tenets with substantive analysis.
+- **Output**: obsidian/concepts/consciousness-as-amplifier.md
 
 ### ✓ 2026-01-21: Write concept page for epistemic emotions
 - **Type**: expand-topic
