@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-22 16:30:00+00:00
+ai_modified: 2026-01-22 12:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,6 +13,7 @@ concepts:
 - '[[working-memory]]'
 - '[[illusionism]]'
 - '[[cognitive-phenomenology]]'
+- '[[consciousness-and-social-cognition]]'
 created: 2026-01-22
 date: &id001 2026-01-22
 draft: false
@@ -70,6 +71,37 @@ Great apes rarely teach in the human sense. They learn socially through emulatio
 ### Theory of Mind Limits
 
 Great apes understand that others have goals, perceptions, and some knowledge states. But "Level 1" theory of mind (understanding what others perceive) may not require metarepresentation. "Level 2" (understanding that others' perspectives on the same object can differ from your own) plausibly does. Great apes show clearer evidence for Level 1 than Level 2—consistent with possessing procedural but not declarative understanding of minds.
+
+## Social Cognition: Where the Jourdain Distinction Is Clearest
+
+[Social cognition](/concepts/consciousness-and-social-cognition/) provides the sharpest evidence for the procedural/declarative divide. The 4-level theory of mind hierarchy maps directly onto the Jourdain distinction:
+
+| Level | Description | Requires Metarepresentation? | Great Apes |
+|-------|-------------|------------------------------|------------|
+| 0 | Behaviour prediction | No | Yes |
+| 1 | Perception attribution | Minimal | Yes |
+| 2 | Belief attribution (false belief) | Yes | Contested |
+| 3 | Recursive mindreading | Definitely | No |
+
+**Level 3**—representing another's beliefs about your beliefs about their intentions—requires holding nested representations simultaneously in [working-memory](/concepts/working-memory/) while manipulating their relationships. This is the cognitive operation the Jourdain transition describes: not just having representations, but representing them *as* representations subject to deliberate comparison and inference.
+
+### Shared Intentionality
+
+Tomasello's concept of shared intentionality illuminates the transition. Joint attention—knowing that you're both attending, knowing that the other knows—involves the infinite recursion of common knowledge: "I know you know I know..." This recursive mutual awareness characterises human social coordination and is conspicuously limited in great apes.
+
+The Jourdain Hypothesis explains why. To engage in genuine joint attention, you must represent your own attention state, represent the other's attention state, and represent the relationship between them. You must *know* you're attending jointly, not merely attend in parallel. This is Monsieur Jourdain's transition applied to attention itself.
+
+### The Empathy Gradient
+
+The three-component model of empathy tracks the same distinction:
+
+1. **Emotional contagion**: Automatic, unconscious "catching" of emotions. Jourdain-level—having the response without knowing you have it.
+
+2. **Cognitive empathy**: Understanding what another feels without necessarily sharing it. Requires representing their emotional state *as* an emotional state.
+
+3. **Empathic concern**: Feeling *for* another because you understand their situation. Requires both representing their state and experiencing motivation arising from that representation.
+
+Great apes show clear emotional contagion and some cognitive empathy. Empathic concern—which requires integrating metarepresentation with felt motivation—appears limited. The gradient tracks the Jourdain transition: from implicit social responsiveness to explicit understanding of minds *as* minds.
 
 ### The Tip-of-the-Tongue Contrast
 
@@ -139,6 +171,7 @@ The simpler hypothesis—that all metacognition is really procedural, that the a
 
 ## Further Reading
 
+- [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/) — Where the procedural/declarative distinction is clearest: theory of mind levels, shared intentionality, and empathy
 - [metarepresentation](/concepts/metarepresentation/) — The capacity to represent representations as representations
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without metarepresentation
 - [cumulative-culture](/concepts/cumulative-culture/) — Why cultural ratcheting requires the Jourdain transition

@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T08:55:00+00:00
+ai_modified: 2026-01-22T12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,19 +49,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Cross-review jourdain-hypothesis.md considering consciousness-and-social-cognition insights
-- **Type**: cross-review
-- **Notes**: New article concepts/consciousness-and-social-cognition.md (2026-01-22) provides evidence that social cognition requiring metarepresentation (explicit theory of mind, shared intentionality) depends on consciousness. The jourdain-hypothesis.md article argues great apes have cognition without knowing they have it—social cognition offers a concrete domain where this procedural/declarative distinction manifests clearly.
-- **Source**: chain (from consciousness-and-social-cognition.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review metacognition.md considering consciousness-and-social-cognition insights
 - **Type**: cross-review
 - **Notes**: New article concepts/consciousness-and-social-cognition.md (2026-01-22) argues that explicit theory of mind (Level 2+) requires consciousness because it involves metacognitive operations on one's own and others' mental states. The metacognition.md article could be strengthened by adding social metacognition as a domain—monitoring and reasoning about others' mental states, not just one's own.
 - **Source**: chain (from consciousness-and-social-cognition.md)
 - **Generated**: 2026-01-22
 
+### P2: Cross-review self-and-consciousness.md considering unobservable-self insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/the-unobservable-self.md (2026-01-22) explores why the observing self cannot observe itself observing—the regression of attention reveals a structural feature of consciousness. The self-and-consciousness.md article discusses minimal self and narrative self but could be strengthened by connecting the unobservable self as a third dimension: the self that does the observing is structurally inaccessible in a way that differs from both the pre-reflective minimal self and the reflective narrative self.
+- **Source**: chain (from the-unobservable-self.md)
+- **Generated**: 2026-01-22
+
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review jourdain-hypothesis.md considering consciousness-and-social-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-and-social-cognition.md (2026-01-22) provides evidence that social cognition requiring metarepresentation (explicit theory of mind, shared intentionality) depends on consciousness. The jourdain-hypothesis.md article argues great apes have cognition without knowing they have it—social cognition offers a concrete domain where this procedural/declarative distinction manifests clearly.
+- **Result**: Added new "Social Cognition: Where the Jourdain Distinction Is Clearest" section (~450 words) showing how the 4-level theory of mind hierarchy maps onto the procedural/declarative distinction, how shared intentionality illuminates the transition through recursive mutual awareness, and how the empathy gradient (contagion → cognitive empathy → empathic concern) tracks the same distinction. Added consciousness-and-social-cognition to concepts frontmatter and top of Further Reading.
+- **Output**: obsidian/concepts/jourdain-hypothesis.md
 
 ### ✓ 2026-01-22: Cross-review baseline-cognition.md considering consciousness-and-social-cognition insights
 - **Type**: cross-review
