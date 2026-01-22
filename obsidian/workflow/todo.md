@@ -50,12 +50,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 
-### P2: Cross-review causal-closure.md considering quantum response
-- **Type**: cross-review
-- **Notes**: The stapp-quantum-mind.md article (2026-01-22) presents a concrete response to causal closure: consciousness operates at quantum indeterminacies where physics leaves outcomes undetermined, so no conservation laws are violated. The causal-closure.md article discusses the principle but could be strengthened by connecting this specific quantum-based response and noting that the exclusion problem is addressed by consciousness operating where physics is "silent."
-- **Source**: chain (from stapp-quantum-mind.md)
-- **Generated**: 2026-01-22
-
 ### P2: Deep review binding-problem.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. The binding problem is central to phenomenal unity and consciousness—quality review essential for Map's treatment of this foundational issue.
@@ -81,6 +75,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review causal-closure.md considering quantum response
+- **Type**: cross-review
+- **Notes**: The stapp-quantum-mind.md article (2026-01-22) presents a concrete response to causal closure: consciousness operates at quantum indeterminacies where physics leaves outcomes undetermined, so no conservation laws are violated. The causal-closure.md article discusses the principle but could be strengthened by connecting this specific quantum-based response and noting that the exclusion problem is addressed by consciousness operating where physics is "silent."
+- **Result**: Added new "Stapp's Quantum Response" subsection (~350 words) making the connection between Stapp's quantum Zeno mechanism and the causal closure objection explicit. The section details four key features: (1) operates where physics is silent at indeterminacies, (2) no energy injection via repeated observation, (3) complementary determination (physics provides probabilities, consciousness provides particularity), (4) phenomenologically grounded in James's effort phenomenology. This elevates the Stapp mechanism from a passing mention to a prominent response that directly addresses the exclusion problem.
+- **Output**: obsidian/concepts/causal-closure.md
 
 ### ✓ 2026-01-22: Create arguments page for epiphenomenalism
 - **Type**: expand-topic
