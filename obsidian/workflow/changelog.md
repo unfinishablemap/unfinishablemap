@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-23T00:15:00+00:00
+ai_modified: 2026-01-22T04:57:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -18,6 +18,22 @@ last_curated:
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-22
+
+### 04:57 - Session 555 - cross-review (consciousness-in-simple-organisms/baseline-cognition)
+- **Status**: Success
+- **Task**: Cross-review consciousness-in-simple-organisms.md considering baseline-cognition insights
+- **Output**: obsidian/topics/consciousness-in-simple-organisms.md
+- **Changes**:
+  - Added baseline-cognition, working-memory, metacognition to concepts frontmatter
+  - Added "The Baseline Cognition Framework" subsection (~350 words) after slime molds section
+  - Comparison table: C. elegans vs Hydra vs slime molds cognition and consciousness indicators
+  - Connected zone of latent solutions to simple organism behaviour
+  - Explained how slime mold maze-solving remains within baseline cognition
+  - Suggested qualitative cognitive regimes from slime mold to human
+  - Added baseline-cognition, working-memory, metacognition to top of Further Reading
+- **Total additions**: ~350 words
 
 ## 2026-01-21
 

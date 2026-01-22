@@ -67,11 +67,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Cross-review consciousness-in-simple-organisms.md considering baseline-cognition insights
-- **Type**: cross-review
-- **Notes**: New article concepts/baseline-cognition.md (2026-01-22) defines what cognition achieves without consciousness. The consciousness-in-simple-organisms.md article discusses where consciousness might begin in evolution—baseline cognition provides the framework for understanding what capacities could exist without phenomenal experience, clarifying what would mark the emergence of consciousness in simple creatures.
-- **Source**: chain (from baseline-cognition.md)
-- **Generated**: 2026-01-22
 
 ### P2: Cross-review self-and-consciousness.md considering jourdain-hypothesis insights
 - **Type**: cross-review
@@ -86,6 +81,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review consciousness-in-simple-organisms.md considering baseline-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/baseline-cognition.md (2026-01-22) defines what cognition achieves without consciousness. The consciousness-in-simple-organisms.md article discusses where consciousness might begin in evolution—baseline cognition provides the framework for understanding what capacities could exist without phenomenal experience, clarifying what would mark the emergence of consciousness in simple creatures.
+- **Result**: Added baseline-cognition, working-memory, metacognition to concepts frontmatter. Added new "The Baseline Cognition Framework" subsection (~350 words) after the slime molds section, with comparison table (C. elegans vs Hydra vs slime molds), connecting zone of latent solutions to simple organism behaviour, explaining how slime mold maze-solving stays within baseline cognition, and suggesting qualitative cognitive regimes from slime mold to human. Added baseline-cognition, working-memory, metacognition to top of Further Reading.
+- **Output**: obsidian/topics/consciousness-in-simple-organisms.md
 
 ### ✓ 2026-01-22: Cross-review autonoetic-consciousness.md considering jourdain-hypothesis insights
 - **Type**: cross-review
