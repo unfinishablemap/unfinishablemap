@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 23:11:07.585533+00:00
+ai_modified: 2026-01-22 23:16:28+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review binding-problem.md considering quantum binding experimental evidence
-- **Type**: cross-review
-- **Notes**: New article concepts/quantum-binding-experimental-evidence.md provides three lines of experimental evidence (pharmacological, imaging, physics) supporting quantum binding. The binding-problem.md article discusses the theoretical problem but should now connect these specific experimental findings: microtubule-stabilizing drugs delaying anesthesia (Cohen's d = 1.9), MRI detecting entanglement signatures correlating with consciousness, decoherence times 7 orders longer than Tegmark claimed.
-- **Source**: chain
-- **Generated**: 2026-01-22
 
 ### P2: Cross-review phenomenal-unity.md considering quantum binding experimental evidence
 - **Type**: cross-review
@@ -111,6 +105,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review binding-problem.md considering quantum binding experimental evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-binding-experimental-evidence.md provides three lines of experimental evidence (pharmacological, imaging, physics) supporting quantum binding. The binding-problem.md article discusses the theoretical problem but should now connect these specific experimental findings: microtubule-stabilizing drugs delaying anesthesia (Cohen's d = 1.9), MRI detecting entanglement signatures correlating with consciousness, decoherence times 7 orders longer than Tegmark claimed.
+- **Result**: Added wikilinks and specific connections to quantum-binding-experimental-evidence.md throughout binding-problem.md. Connected Wiest et al. microtubule study to Orch OR predictions, noted entanglement-working memory correlation suggests functional role in cognition (not just passive byproduct), linked Baum's quantum binding argument to Bell's theorem demonstrating non-local correlations are exclusively quantum, and emphasized that classical coordination cannot produce ontological holism. Article already had comprehensive quantum binding coverage; cross-review strengthened integration with new dedicated experimental evidence article.
+- **Output**: obsidian/concepts/binding-problem.md (revised)
 
 ### ✓ 2026-01-22: Write arguments page for positive case for dualism
 - **Type**: expand-topic

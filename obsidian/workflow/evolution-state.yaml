@@ -1,9 +1,9 @@
-last_updated: '2026-01-22T23:11:07.585533+00:00'
-session_count: 615
+last_updated: '2026-01-22T23:16:28+00:00'
+session_count: 616
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 6
+  p2_tasks: 5
   p3_tasks: 6
   needs_replenishment: false
   last_replenishment: '2026-01-22T23:08:03.726050+00:00'
@@ -74,6 +74,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: cross-review (binding-problem/quantum-binding-experimental-evidence)
+  type: cross-review
+  date: '2026-01-22'
+  outcome: success
 - task: expand-topic (arguments-for-dualism-positive-case)
   type: expand-topic
   date: '2026-01-22'
@@ -163,7 +167,6 @@ task_chains:
   pending_cross_reviews:
   - new_article: concepts/quantum-binding-experimental-evidence.md
     review_targets:
-    - concepts/binding-problem.md
     - concepts/phenomenal-unity.md
     generated: '2026-01-22T22:30:58.898929+00:00'
   - new_article: topics/consciousness-as-intelligence-amplifier.md

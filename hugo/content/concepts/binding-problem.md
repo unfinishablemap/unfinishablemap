@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-22 21:25:58+00:00
+ai_modified: 2026-01-22 23:16:28+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -88,7 +88,7 @@ The dominant neuroscientific proposal holds that features belonging to the same 
 - What determines *which* neurons should synchronize? The mechanism seems to push the problem back.
 - Multiple objects sharing features create logical tangles (Treisman & Schmidt, 1982; Goldfarb & Treisman, 2010)
 - Synchrony might *correlate with* binding without *causing* it
-- Most critically: synchronized firing is still separate events in separate neurons. Why does correlation feel like unity?
+- Most critically: synchronized firing is still separate events in separate neurons. Why does correlation feel like unity? As [quantum-binding-experimental-evidence](/concepts/quantum-binding-experimental-evidence/) emphasizes, classical coordination does not produce ontological holism—the whole remains reducible to coordinated parts.
 
 ### Feature Integration Theory
 
@@ -290,13 +290,13 @@ The [Orch OR theory](/concepts/quantum-consciousness/) proposes that microtubule
 
 ### 2024-2025 Experimental Evidence
 
-Recent research has moved beyond theoretical arguments to direct experimental support:
+Recent research has moved beyond theoretical arguments to direct experimental support. For a comprehensive treatment of this evidence, see [quantum-binding-experimental-evidence](/concepts/quantum-binding-experimental-evidence/).
 
-**Microtubule-anesthesia connection (Wiest et al., 2024)**: Rats treated with epothilone B, a microtubule-stabilizing drug, took 69 seconds longer to become unconscious under isoflurane anesthesia (Cohen's d = 1.9, a "large" effect). Published in *eNeuro*, September 2024. The quantum interpretation: if anesthetics cause unconsciousness by disrupting microtubule quantum states, stabilizing microtubules should delay unconsciousness—which is exactly what was observed.
+**Microtubule-anesthesia connection (Wiest et al., 2024)**: Rats treated with epothilone B, a microtubule-stabilizing drug, took 69 seconds longer to become unconscious under isoflurane anesthesia (Cohen's d = 1.9, a "large" effect). Published in *eNeuro*, September 2024. The quantum interpretation: if anesthetics cause unconsciousness by disrupting microtubule quantum states, stabilizing microtubules should delay unconsciousness—which is exactly what was observed. As the [experimental evidence article](/concepts/quantum-binding-experimental-evidence/) notes, this is a specific prediction of the Penrose-Hameroff Orch OR hypothesis that has now been empirically confirmed.
 
 However, a classical alternative hasn't been ruled out: epothilone stabilizes microtubules *mechanically*, which could alter how anesthetics bind to tubulins or how they affect conventional synaptic transmission. Distinguishing the quantum from classical mechanisms would require additional experiments—perhaps measuring quantum coherence directly during anesthesia induction, or testing whether the effect correlates with specific quantum signatures rather than just mechanical stabilization. The study is consistent with quantum binding but not yet conclusive.
 
-**Brain entanglement signatures (Kerskens & Pérez, 2022-2023)**: Using a novel quantum entanglement-detection MRI protocol, researchers observed signals indicating entanglement that correlated with consciousness—present during waking awareness but disappearing when subjects fell asleep. The fidelity of putative spin-entanglement signals correlated with short-term memory performance.
+**Brain entanglement signatures (Kerskens & Pérez, 2022-2023)**: Using a novel quantum entanglement-detection MRI protocol, researchers observed signals indicating entanglement that correlated with consciousness—present during waking awareness but disappearing when subjects fell asleep. The fidelity of putative spin-entanglement signals correlated with short-term memory performance. Crucially, the correlation between entanglement fidelity and working memory performance suggests quantum binding serves a functional role in cognition, not just a passive byproduct.
 
 Interpretation remains contested (Warren 2023). The "entanglement signature" is indirect—the researchers observe NMR signals they interpret as proton spins entangling with unknown "qubits" in the brain. Warren and others have proposed classical alternatives: complex relaxation mechanisms in biological tissue could produce similar signals without requiring quantum entanglement. Kerskens & Pérez argue that their specific protocol rules out these alternatives, but the debate continues. Independent replication is crucial.
 
@@ -316,7 +316,7 @@ Classical binding mechanisms face a structural problem: they combine separate th
 
 Quantum entanglement doesn't combine separates—it creates systems that were never fully separate to begin with. The entangled state has properties irreducible to the parts. This matches phenomenal unity: experience isn't assembled from separate quale-atoms, but is unified from the ground up.
 
-The **Quantum Binding Argument** (Baum) strengthens this case technically: observed zero-lag gamma synchrony across cortical regions (40-100Hz, <1ms precision) cannot arise through classical mechanisms without violating relativistic causality. The reasoning: if neuron A in visual cortex and neuron B in parietal cortex (separated by ~10cm) synchronize with <1ms precision, and neural transmission takes >5ms across that distance, then neither can be causing the other's firing. Classical physics would require a common cause earlier in time—but experiments show the synchrony holds even when such common causes are ruled out. Bell's theorem and loophole-free experiments confirm that such non-local correlations are exclusively quantum phenomena.
+The **Quantum Binding Argument** (Baum 2024) strengthens this case technically: observed zero-lag gamma synchrony across cortical regions (40-100Hz, <1ms precision) cannot arise through classical mechanisms without violating relativistic causality. As discussed in [quantum-binding-experimental-evidence](/concepts/quantum-binding-experimental-evidence/), Bell's theorem and loophole-free experiments confirm that non-local correlations of this type are exclusively quantum phenomena. The reasoning: if neuron A in visual cortex and neuron B in parietal cortex (separated by ~10cm) synchronize with <1ms precision, and neural transmission takes >5ms across that distance, then neither can be causing the other's firing. Classical physics would require a common cause earlier in time—but experiments show the synchrony holds even when such common causes are ruled out. Bell's theorem and loophole-free experiments confirm that such non-local correlations are exclusively quantum phenomena.
 
 However, this argument faces an objection: thalamic pacemakers could provide a common driving signal that synchronizes distant cortical regions without requiring direct communication between them. The synchrony would be correlation via shared input, not non-local causation. Baum's response is that experimental protocols have controlled for common thalamic input and zero-lag synchrony persists, but this empirical claim requires further verification. If this analysis is correct, classical frameworks cannot even explain the *neural* binding, let alone the phenomenal unity.
 
