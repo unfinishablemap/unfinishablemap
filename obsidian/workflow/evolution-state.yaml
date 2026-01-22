@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-22T08:44:01+00:00'
-session_count: 579
+last_updated: '2026-01-22T08:58:00+00:00'
+session_count: 580
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-22T10:00:00+00:00'
@@ -70,10 +70,13 @@ task_chains:
   pending_cross_reviews:
     - new_article: "concepts/consciousness-and-social-cognition.md"
       review_targets:
-        - "topics/animal-consciousness.md"
         - "concepts/baseline-cognition.md"
       generated: "2026-01-22T08:30:00+00:00"
 recent_tasks:
+- task: cross-review (animal-consciousness/consciousness-and-social-cognition)
+  type: cross-review
+  date: 2026-01-22
+  outcome: success
 - task: cross-review (temporal-consciousness/temporal-structure-of-understanding)
   type: cross-review
   date: 2026-01-22

@@ -3,7 +3,7 @@ title: "Animal Consciousness"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-22T00:26:20+00:00
+ai_modified: 2026-01-22T08:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,9 @@ concepts:
   - "[[consciousness-as-amplifier]]"
   - "[[baseline-cognition]]"
   - "[[cumulative-culture]]"
+  - "[[consciousness-and-social-cognition]]"
+  - "[[metarepresentation]]"
+  - "[[working-memory]]"
 related_articles:
   - "[[tenets]]"
   - "[[ai-consciousness]]"
@@ -148,6 +151,21 @@ Evidence supporting this framework:
 **Working memory differences**: Chimpanzee working memory capacity is approximately 2±1 items compared to the human 7±2 (Miller's famous limit). This three-to-four-fold expansion may not be merely quantitative—it could reflect consciousness's capacity to hold multiple representations simultaneously for flexible manipulation. If working memory depends on conscious access (as [[higher-order-theories#global-workspace|Global Workspace Theory]] suggests), expanded working memory implies expanded consciousness.
 
 **The Jourdain Hypothesis**: Great apes have culture but may not know they have culture. As Whiten (2015) argues, apes express cultural traditions—tool use, grooming patterns, vocalisations—without representing these as "our way of doing things" subject to modification and transmission. [[cumulative-culture|Cumulative culture]] requires *[[metarepresentation]]*: knowing that you know, representing knowledge as knowledge. This capacity may require phenomenal consciousness, not merely functional processing.
+
+### Social Cognition and Theory of Mind Levels
+
+Social cognition provides another domain where the consciousness gap manifests clearly. [[consciousness-and-social-cognition|Recent analysis]] proposes a hierarchy of theory of mind capacities:
+
+- **Level 0** (behaviour prediction): Predicting others' actions without mental state attribution. Achievable through associative learning.
+- **Level 1** (perception attribution): Understanding what others perceive. Great apes pass many Level 1 tests—tracking what others have seen.
+- **Level 2** (belief attribution): Understanding false beliefs. Evidence is mixed; great apes may track behaviour without genuine belief attribution.
+- **Level 3** (recursive mindreading): Beliefs about beliefs, intentions about intentions. "She thinks that I think the food is hidden."
+
+The key insight: Levels 0-1 operate within [[baseline-cognition]]. Level 3 appears to require consciousness because the nested structure demands simultaneous manipulation of multiple representations—precisely what [[working-memory]] research identifies as requiring conscious access.
+
+Shared intentionality reinforces this pattern. Joint attention isn't merely parallel attending—it involves knowing both are attending, knowing the other knows, and so on. This recursive mutual awareness characterises human social coordination but appears diminished or absent in great apes.
+
+The empathy hierarchy shows similar structure. Emotional contagion (automatic, unconscious) operates at baseline. Empathic concern—caring about another's welfare based on understanding their state—requires representing their experience as experience and being moved by that representation. This progression tracks increasing involvement of phenomenal consciousness.
 
 ### Cumulative Culture as the Exemplar
 
@@ -322,6 +340,7 @@ The Map's position on animal consciousness could be undermined by specific disco
 - [[problem-of-other-minds]] — The epistemological framework underlying consciousness attribution
 
 ### Consciousness and Intelligence
+- [[consciousness-and-social-cognition]] — Theory of mind levels, shared intentionality, and empathy as evidence for the consciousness gap
 - [[baseline-cognition]] — What neural systems achieve without consciousness: the great ape benchmark for understanding human-level cognition
 - [[consciousness-as-amplifier]] — How consciousness amplifies cognitive capacity through flexible access, metacognition, and counterfactual thinking
 - [[consciousness-influence-intelligence-2026-01-21]] — Research on whether consciousness causally contributes to intelligence
