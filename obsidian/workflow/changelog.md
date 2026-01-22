@@ -37,6 +37,24 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Issues addressed**: 2 critical, 5 medium, 1 low
 - **Total additions**: ~1750 words
 
+## 2026-01-22
+
+### 01:15 - Session 546 - deep-review (materialism)
+- **Status**: Success
+- **Task**: Deep review materialism.md for tenet coverage and currency with recent content
+- **Output**: obsidian/arguments/materialism.md, obsidian/reviews/deep-review-2026-01-22-materialism.md
+- **Changes**:
+  - Added "Relation to Site Perspective" section (~250 words): explicit connection to Tenets 1, 2, 3, and 5
+  - Added "Falsifiability" section (~200 words): specific expected and challenging findings
+  - Added "Contemplative Perspectives" section (~150 words): vipassanā evidence, contemplative skill development
+  - Expanded illusionist response (~100 words): regress argument showing representation-for-a-subject is phenomenal consciousness
+  - Added consciousness-as-amplifier/baseline-cognition connection (~80 words): functional explanation for quantum selection
+  - Added Further Reading section with 6 cross-links
+  - Added References section with 9 academic citations (Chalmers, Dennett, Hagan et al., Hameroff & Penrose, Stapp, Tegmark, von Neumann, Wigner)
+  - Added wikilinks to illusionism, consciousness-as-amplifier, baseline-cognition, interactionist-dualism
+- **Issues addressed**: 3 critical, 3 medium
+- **Total additions**: ~1000 words
+
 ## 2026-01-23
 
 ### 00:15 - Session 546 - deep-review (cumulative-culture)

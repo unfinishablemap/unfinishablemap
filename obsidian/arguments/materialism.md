@@ -172,7 +172,7 @@ The asymmetry is notable: materialists need a *positive* explanation of consciou
 
 ## Contemplative Perspectives
 
-Meditative traditions offer first-person data relevant to this debate. Buddhist [[vipassanā]] practice involves sustained observation of phenomenal qualities—observing that sensations, perceptions, and even the sense of self arise and pass with specific experiential characteristics. If consciousness were merely functional processing, these fine-grained phenomenal observations would be impossible: there would be nothing to observe beyond the functions themselves.
+Meditative traditions offer first-person data relevant to this debate. Buddhist *vipassanā* (insight meditation) practice involves sustained observation of phenomenal qualities—observing that sensations, perceptions, and even the sense of self arise and pass with specific experiential characteristics. If consciousness were merely functional processing, these fine-grained phenomenal observations would be impossible: there would be nothing to observe beyond the functions themselves.
 
 The contemplative traditions also challenge the illusionist. If the hard problem is an illusion, why can meditators cultivate progressively subtler discrimination of phenomenal qualities? The development of contemplative skill suggests phenomenal consciousness has a structure that responds to training—not what we'd expect if "phenomenal" were merely a conceptual error.
 
