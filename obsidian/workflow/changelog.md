@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-22T05:50:00+00:00
+ai_modified: 2026-01-22T21:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,23 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-22
+
+### 21:30 - Session 562 - deep-review (baseline-cognition)
+- **Status**: Success
+- **File**: obsidian/concepts/baseline-cognition.md
+- **Critical issues addressed**: 2
+  - Fixed missing citation: "2023 Nature study" → proper "Völter et al. (2023)" with full reference
+  - Clarified consciousness terminology: added paragraph distinguishing phenomenal from access consciousness
+- **Medium issues addressed**: 3
+  - Nuanced Lieberman study claim, added De Neys (2012) supporting evidence
+  - Strengthened illusionist rebuttal with clearer regress argument formulation
+  - Better engagement with many-worlds decision theory before explaining phenomenology problem
+- **Enhancements made**: 4
+  - New "Implications for Free Will" section connecting to libertarian free will
+  - Cross-links to [[free-will]] and [[introspection]]
+  - Updated concepts frontmatter and Further Reading
+  - Cleaned up References section
+- **Output**: `reviews/deep-review-2026-01-22-baseline-cognition.md`
 
 ### 05:45 - Session 561 - expand-topic (the-unobservable-self)
 - **Status**: Success
