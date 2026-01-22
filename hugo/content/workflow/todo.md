@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 00:39:32+00:00
+ai_modified: 2026-01-22 00:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -51,12 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review (gap_analysis)
 - **Generated**: 2026-01-21
 
-### P2: Cross-review metarepresentation.md considering baseline-cognition insights
-- **Type**: cross-review
-- **Notes**: New article concepts/baseline-cognition.md (2026-01-22) introduces the Jourdain Hypothesis—apes have culture but may not know they have culture. This directly illustrates the metarepresentation concept. The metarepresentation.md article should reference baseline-cognition and explain how the Jourdain Hypothesis shows the difference between having mental states and representing oneself as having them.
-- **Source**: chain (from baseline-cognition.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review cognitive-phenomenology.md considering language-recursion-and-consciousness insights
 - **Type**: cross-review
 - **Notes**: New article topics/language-recursion-and-consciousness.md (2026-01-22) argues that recursive linguistic structure requires phenomenal consciousness via working memory manipulation. The cognitive-phenomenology.md article should be strengthened with this language evidence—recursion as a particularly clear case where thinking has phenomenal character.
@@ -70,6 +64,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review metarepresentation.md considering baseline-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/baseline-cognition.md (2026-01-22) introduces the Jourdain Hypothesis—apes have culture but may not know they have culture. This directly illustrates the metarepresentation concept. The metarepresentation.md article should reference baseline-cognition and explain how the Jourdain Hypothesis shows the difference between having mental states and representing oneself as having them.
+- **Result**: Added baseline-cognition to concepts frontmatter. Added new paragraph under Jourdain Hypothesis subsection (~70 words) explaining how the baseline-cognition framework elaborates the distinction between procedural and declarative metacognition, marking the boundary between baseline and consciousness-amplified cognition. Added baseline-cognition to top of Further Reading with description.
+- **Output**: obsidian/concepts/metarepresentation.md
 
 ### ✓ 2026-01-22: Cross-review binding-problem.md considering language-recursion-and-consciousness insights
 - **Type**: cross-review
