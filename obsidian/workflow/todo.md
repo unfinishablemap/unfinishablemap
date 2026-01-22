@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Address equivocation on "consciousness" in consciousness-as-intelligence-amplifier.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-01-22-evening.md) found high-severity issue: article uses "consciousness" to mean three different things without distinguishing them: (1) phenomenal consciousness (what-it's-like), (2) access consciousness (global availability), (3) executive function/working memory. Evidence for (2)/(3) is presented as evidence for (1). Add section distinguishing these senses and clarify which evidence supports which sense.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-22
+
+### P2: Fix question-begging in evolutionary argument in consciousness-as-intelligence-amplifier.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found high-severity issue: evolutionary argument assumes epiphenomenalism requires "coincidence" between phenomenal character and adaptive value, but this only follows if phenomenal consciousness is ontologically separate from neural correlates (which is what's in dispute). Restructure: first argue for explanatory gap/ontological separation, then use evolutionary argument as additional support.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-22
+
 ### P3: Create voids article on temporal asymmetry
 - **Type**: expand-topic
 - **Notes**: Based on research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. Why we can re-experience the past but only imagine the future. The "pastness quale" is irreducible; epistemic asymmetry (past accessible via causal traces) grounds phenomenological asymmetry. Memory-anticipation asymmetry as fundamental cognitive limit.
