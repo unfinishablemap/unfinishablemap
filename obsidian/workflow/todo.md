@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T18:00:00+00:00
+ai_modified: 2026-01-22T12:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -50,12 +50,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 
-### P2: Write article on Stapp's quantum mind model
-- **Type**: expand-topic
-- **Notes**: Research completed in research/stapp-mental-effort-mind-matter-2026-01-14.md. Henry Stapp's model provides the most detailed mechanism for consciousness-quantum interaction via the quantum Zeno effect. His work directly supports the Minimal Quantum Interaction and Bidirectional Interaction tenets. Currently referenced in mental-effort.md and attention-as-interface.md but no dedicated article. Builds on quantum-consciousness.md, mental-effort.md, motor-selection.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-22
-
 ### P2: Write article on Hoel's continual learning argument for LLM consciousness
 - **Type**: expand-topic
 - **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel argues LLMs lack consciousness specifically because they don't engage in continual learning during inference. This provides a concrete falsifiable criterion distinguishing conscious from non-conscious systems. Currently referenced in continual-learning-argument.md but could be expanded with full context. Builds on ai-consciousness.md, consciousness-as-amplifier.md, substrate-independence-critique.md.
@@ -75,6 +69,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Write article on Stapp's quantum mind model
+- **Type**: expand-topic
+- **Notes**: Research completed in research/stapp-mental-effort-mind-matter-2026-01-14.md. Henry Stapp's model provides the most detailed mechanism for consciousness-quantum interaction via the quantum Zeno effect. His work directly supports the Minimal Quantum Interaction and Bidirectional Interaction tenets. Currently referenced in mental-effort.md and attention-as-interface.md but no dedicated article. Builds on quantum-consciousness.md, mental-effort.md, motor-selection.md.
+- **Result**: Created comprehensive concept article (~2800 words) covering: the core mechanism (orthodox quantum mechanics, quantum Zeno effect, no energy injection), William James on effort phenomenology, the willed-instructed distinction, Schwartz's OCD neuroplasticity research, attention-as-interface extension, two modes of consciousness (active selection vs passive witnessing), objections and responses (decoherence, formalism, illusionist challenge), Process Philosophy perspective, and full tenet alignment.
+- **Output**: obsidian/concepts/stapp-quantum-mind.md
 
 ### ✓ 2026-01-22: Cross-review ai-consciousness.md considering theory-of-mind insights
 - **Type**: cross-review
