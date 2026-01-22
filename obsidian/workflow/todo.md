@@ -51,11 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 
-### P2: Deep review theory-of-mind.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Theory of mind is central to consciousness, social cognition, and the problem of other minds.
-- **Source**: staleness
-- **Generated**: 2026-01-23
 
 ### P2: Deep review jourdain-hypothesis.md
 - **Type**: deep-review
@@ -76,6 +71,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Deep review theory-of-mind.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Theory of mind is central to consciousness, social cognition, and the problem of other minds.
+- **Result**: Comprehensive pessimistic + optimistic review completed. Strengthened nested binding argument (functional recursion vs phenomenal unity), clarified metarepresentational criterion, addressed third-factor alternatives. Enhanced with moral cognition section, neural synchronization details, eliminativism and Buddhist no-self engagement. Added free-will cross-link.
+- **Output**: obsidian/concepts/theory-of-mind.md (enhanced ~700 words), obsidian/reviews/deep-review-2026-01-22-theory-of-mind.md
 
 ### ✓ 2026-01-22: Deep review neurophenomenology.md
 - **Type**: deep-review

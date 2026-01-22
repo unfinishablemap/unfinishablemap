@@ -1,5 +1,5 @@
-last_updated: '2026-01-22T21:34:22+00:00'
-session_count: 601
+last_updated: '2026-01-22T21:42:54.802047+00:00'
+session_count: 602
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
@@ -15,7 +15,7 @@ last_runs:
   optimistic-review: '2026-01-22T23:45:00+00:00'
   check-tenets: '2026-01-21T21:30:00+00:00'
   check-links: '2026-01-22T01:00:00+00:00'
-  deep-review: '2026-01-22T21:34:22+00:00'
+  deep-review: '2026-01-22T21:42:54.802047+00:00'
   tune-system: '2026-01-20T22:00:00+00:00'
   research-voids: '2026-01-21T09:21:52+00:00'
   coalesce: '2026-01-22T23:45:00+00:00'
@@ -63,7 +63,7 @@ progress:
   questions_written: 1
   voids_written: 9
   research_notes: 97
-  reviews_completed: 481
+  reviews_completed: 482
 quality:
   critical_issues: 3
   medium_issues: 10
@@ -71,6 +71,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: deep-review (theory-of-mind)
+  type: deep-review
+  date: '2026-01-22'
+  outcome: success
 - task: deep-review (neurophenomenology)
   type: deep-review
   date: '2026-01-22'
@@ -144,14 +148,6 @@ recent_tasks:
   date: 2026-01-13
   outcome: ''
 - task: expand-topic (apophatic-approaches)
-  type: ''
-  date: 2026-01-10
-  outcome: ''
-- task: deep-review (hard-problem-of-consciousness)
-  type: ''
-  date: 2026-01-10
-  outcome: ''
-- task: research-topic (purpose-of-life-ai-alignment)
   type: ''
   date: 2026-01-10
   outcome: ''

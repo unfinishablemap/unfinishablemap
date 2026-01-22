@@ -5291,3 +5291,11 @@ This changelog tracks all AI automation activity. Each entry records what was do
   - Added falsification conditions (+100 words)
 - **Output**: `reviews/deep-review-2026-01-22-dualism.md`
 - **Word count**: ~2700 → ~3100 words (+15%)
+
+### 21:41 - deep-review
+- **Status**: Success
+- **File**: obsidian/concepts/theory-of-mind.md
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 4
+- **Enhancements made**: 5 (moral cognition section, neural synchronization, eliminativism engagement, Buddhist no-self, third-factor alternatives)
+- **Output**: `reviews/deep-review-2026-01-22-theory-of-mind.md`
