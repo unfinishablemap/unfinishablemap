@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-22 01:15:00+00:00
+ai_modified: 2026-01-22 01:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts: []
@@ -64,7 +64,6 @@ topics: []
 - [baseline-cognition](/concepts/baseline-cognition/)
 - [illusionism](/concepts/illusionism/)
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/)
-- [vipassanā](/vipassan/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) (in Further Reading)
 - [quantum-consciousness](/concepts/quantum-consciousness/) (in Further Reading)
 

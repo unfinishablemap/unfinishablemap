@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T23:45:00+00:00
+ai_modified: 2026-01-22T01:22:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -67,19 +67,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Cross-review cognitive-phenomenology.md considering language-recursion-and-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article topics/language-recursion-and-consciousness.md (2026-01-22) argues that recursive linguistic structure requires phenomenal consciousness via working memory manipulation. The cognitive-phenomenology.md article should be strengthened with this language evidence—recursion as a particularly clear case where thinking has phenomenal character.
-- **Source**: chain (from language-recursion-and-consciousness.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review working-memory.md considering language-recursion-and-consciousness insights
 - **Type**: cross-review
 - **Notes**: New article topics/language-recursion-and-consciousness.md (2026-01-22) presents recursion as a key example of why expanded working memory capacity (7±2 vs 2±1) matters for consciousness-enabled cognition. The working-memory.md article should reference this language/recursion connection in its discussion of what expanded capacity enables.
 - **Source**: chain (from language-recursion-and-consciousness.md)
 - **Generated**: 2026-01-22
 
+### P2: Cross-review metacognition.md considering jourdain-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/jourdain-hypothesis.md (2026-01-22) presents the procedural vs declarative metacognition distinction with Whiten's "apes have culture but may not know it" framework. The metacognition.md article should reference the Jourdain Hypothesis as a vivid illustration of the procedural/declarative distinction and its implications for consciousness.
+- **Source**: chain (from jourdain-hypothesis.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review ai-consciousness.md considering jourdain-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/jourdain-hypothesis.md (2026-01-22) applies the procedural/declarative metacognition distinction to AI assessment. The ai-consciousness.md article should reference the Jourdain Hypothesis when discussing whether AI systems have genuine metacognition or merely functional analogues—do LLMs "know they know" or just process metacognitive-seeming outputs?
+- **Source**: chain (from jourdain-hypothesis.md)
+- **Generated**: 2026-01-22
+
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review cognitive-phenomenology.md considering language-recursion-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/language-recursion-and-consciousness.md (2026-01-22) argues that recursive linguistic structure requires phenomenal consciousness via working memory manipulation. The cognitive-phenomenology.md article should be strengthened with this language evidence—recursion as a particularly clear case where thinking has phenomenal character.
+- **Result**: Added "Recursive Language" subsection (~200 words) showing how recursive linguistic structure provides compelling evidence for cognitive phenomenology: phenomenal complexity tracks structural complexity, the difference cannot be sensory or merely inner speech, and working memory manipulation requires conscious binding. Added language-recursion-and-consciousness and working-memory to concepts frontmatter and top of Further Reading.
+- **Output**: obsidian/concepts/cognitive-phenomenology.md
 
 ### ✓ 2026-01-22: Create concept page for the Jourdain Hypothesis
 - **Type**: expand-topic

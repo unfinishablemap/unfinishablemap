@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-22 06:00:00+00:00
+ai_modified: 2026-01-22 01:21:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,6 +18,8 @@ concepts:
 - '[[epistemic-emotions]]'
 - '[[consciousness-and-mathematical-understanding]]'
 - '[[consciousness-as-amplifier]]'
+- '[[language-recursion-and-consciousness]]'
+- '[[working-memory]]'
 created: 2026-01-16
 date: &id001 2026-01-20
 draft: false
@@ -59,6 +61,14 @@ David Pitt argues we immediately identify our thoughts' contents through [intros
 ### Ambiguity Resolution
 
 Hearing the word "bank" and understanding it as a financial institution versus a riverbank produces distinct phenomenal states. The sensory input is identical. The phenomenal difference tracks the cognitive difference—which meaning you grasp.
+
+### Recursive Language
+
+[Recursive linguistic structure](/topics/language-recursion-and-consciousness/) provides compelling evidence for cognitive phenomenology because phenomenal complexity tracks structural complexity. Understanding "The man ran" has different phenomenal character from understanding "The man who saw the woman ran," which differs from "The man who saw the woman who chased the dog ran."
+
+The phenomenal difference cannot be sensory—the same phonemes appear in each. It cannot be inner speech—all three sentences produce inner speech. The phenomenal difference is structural: holding embedded clauses in relation, integrating them into hierarchical representations, grasping how nested elements bind together. This is cognitive phenomenology in action: the "what it's like" of understanding increasing structural complexity.
+
+Recursive parsing requires [working memory](/concepts/working-memory/) manipulation—holding incomplete constituents while processing embedded ones, then integrating stored and incoming elements. The maintenance/manipulation distinction supports the liberalist position: manipulation requires conscious access because it requires phenomenal binding of elements into unified structures. The felt effort of processing deep embedding is the subjective correlate of this binding work.
 
 ### Sudden Insight
 
@@ -361,6 +371,8 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 
 ## Further Reading
 
+- [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — Recursive language as evidence that understanding has phenomenal character
+- [working-memory](/concepts/working-memory/) — The maintenance/manipulation distinction and consciousness
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Empirical evidence that consciousness enables rather than merely accompanies cognition
 - [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) — Mathematical insight as paradigm case for cognitive phenomenology
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Curiosity, doubt, certainty, and other feelings about knowing

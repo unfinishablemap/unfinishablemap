@@ -3,7 +3,7 @@ title: "Deep Review - Against Materialism"
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T01:15:00+00:00
+ai_modified: 2026-01-22T01:25:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -63,7 +63,6 @@ last_curated: null
 - [[baseline-cognition]]
 - [[illusionism]]
 - [[interactionist-dualism]]
-- [[vipassanā]]
 - [[hard-problem-of-consciousness]] (in Further Reading)
 - [[quantum-consciousness]] (in Further Reading)
 
