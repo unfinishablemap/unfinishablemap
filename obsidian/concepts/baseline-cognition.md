@@ -3,13 +3,14 @@ title: "Baseline Cognition"
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T21:30:00+00:00
+ai_modified: 2026-01-22T08:54:22+00:00
 last_deep_review: 2026-01-22T21:30:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
   - "[[ai-consciousness]]"
 concepts:
+  - "[[consciousness-and-social-cognition]]"
   - "[[consciousness-as-amplifier]]"
   - "[[working-memory]]"
   - "[[metacognition]]"
@@ -114,6 +115,30 @@ Humans uniquely imagine situations that don't exist—learning from hypothetical
 
 Evidence for great ape foresight exists but remains limited. They may anticipate immediate futures but show little capacity for the extended mental simulation—explicitly imagining oneself in counterfactual scenarios—that characterises human planning.
 
+### Social Cognition: Where the Gap Is Clearest
+
+[[consciousness-and-social-cognition|Social cognition]] provides the clearest domain where the baseline/conscious distinction manifests. Theory of mind admits of levels, and the level structure tracks the procedural/declarative distinction precisely:
+
+- **Levels 0-1** (behaviour prediction, perception attribution): Operate within baseline cognition. Chimpanzees track what others have seen, anticipate behaviour based on goals, and adjust strategy accordingly—all without representing mental states *as* mental states.
+
+- **Level 2** (belief attribution): Contested territory. Some evidence suggests great apes understand false beliefs in competitive contexts; other evidence finds only behaviour-tracking. The ambiguity reflects the boundary between baseline and conscious cognition.
+
+- **Level 3** (recursive mindreading): Clearly requires consciousness. "She thinks that I think the food is hidden" demands holding multiple nested representations simultaneously while manipulating them—precisely what baseline cognition cannot achieve.
+
+Shared intentionality provides another marker. Joint attention isn't merely two agents attending the same object—it involves recursive mutual awareness: I know you're attending, you know I'm attending, I know you know, and so on. This "common knowledge" structure requires the phenomenal binding that conscious integration provides. Great apes show limited evidence of joint attention in this rich sense; they track attention without sharing it.
+
+The empathy hierarchy shows similar stratification:
+
+| Component | Consciousness Required? | Present in Apes? |
+|-----------|------------------------|------------------|
+| Emotional contagion | No—automatic | Yes |
+| Cognitive empathy | Minimal—representing states | Possibly |
+| Empathic concern | Yes—caring *because* you understand | Limited/Absent |
+
+Empathic concern—feeling *for* another because you understand their situation—involves metarepresentation of their emotional state and a felt motivational response. The phenomenal character of concern appears irreducible: you must feel something to care in the way genuine empathy involves. This explains why great apes show consolation behaviour (emotional contagion plus approach) without the systematic helping motivated by understanding that characterises human empathy.
+
+Social cognition thus exemplifies the general pattern: baseline cognition handles sophisticated social tasks through implicit processing, but the metarepresentational operations underlying recursive mindreading, shared intentionality, and empathic concern require conscious amplification.
+
 ## The Epiphenomenalism Challenge
 
 If consciousness were [[epiphenomenalism|epiphenomenal]]—causally inert, merely observing neural processing—the systematic correspondence between consciousness-requiring capacities and the human-ape gap would be coincidental. Why would causally inert consciousness track exactly those capacities that distinguish human from great ape cognition?
@@ -198,6 +223,7 @@ The baseline cognition hypothesis could be undermined by:
 
 ## Further Reading
 
+- [[consciousness-and-social-cognition]] — Social cognition as paradigm case of the baseline/conscious distinction
 - [[consciousness-as-amplifier]] — The full account of how consciousness amplifies cognitive capacity
 - [[working-memory]] — The neural workspace where amplification operates
 - [[metacognition]] — Self-monitoring as consciousness-enabled capacity
