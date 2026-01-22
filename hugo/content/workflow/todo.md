@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 14:00:00+00:00
+ai_modified: 2026-01-22 15:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -51,12 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 
-### P2: Cross-review quantum-consciousness.md considering Stapp article
-- **Type**: cross-review
-- **Notes**: New article concepts/stapp-quantum-mind.md (2026-01-22) provides comprehensive treatment of Stapp's quantum Zeno mechanism. The quantum-consciousness.md overview article should now reference the dedicated Stapp article and may benefit from connecting the two-modes-of-consciousness finding (active selection vs passive witnessing) and the Schwartz neuroplasticity evidence.
-- **Source**: chain (from stapp-quantum-mind.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review interactionist-dualism.md considering Stapp mechanism
 - **Type**: cross-review
 - **Notes**: New article concepts/stapp-quantum-mind.md (2026-01-22) provides the most concrete mechanism for how consciousness might interact with the physical brain without violating conservation laws. The interactionist-dualism.md article could be strengthened by connecting Stapp's quantum Zeno mechanism as the leading candidate for how bidirectional interaction actually works—and how it addresses the causal closure objection.
@@ -76,6 +70,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review quantum-consciousness.md considering Stapp article
+- **Type**: cross-review
+- **Notes**: New article concepts/stapp-quantum-mind.md (2026-01-22) provides comprehensive treatment of Stapp's quantum Zeno mechanism. The quantum-consciousness.md overview article should now reference the dedicated Stapp article and may benefit from connecting the two-modes-of-consciousness finding (active selection vs passive witnessing) and the Schwartz neuroplasticity evidence.
+- **Result**: Added stapp-quantum-mind to concepts frontmatter and top of Further Reading. Added reference to dedicated Stapp article at start of Quantum Zeno Effect section with summary of key topics covered. Updated "Evidence from Meditation" subsection title to "Two Modes of Consciousness" and added cross-reference to stapp-quantum-mind article for detailed treatment. Added new "willed-instructed distinction" paragraph (~100 words) explaining the three modes of attention (exogenous, instructed, willed) with distinct neural signatures as evidence supporting Stapp's framework.
+- **Output**: obsidian/concepts/quantum-consciousness.md
 
 ### ✓ 2026-01-22: Cross-review metarepresentation.md considering theory-of-mind hierarchy
 - **Type**: cross-review

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-22T14:00:00+00:00'
-session_count: 590
+last_updated: '2026-01-22T15:00:00+00:00'
+session_count: 591
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-22T10:00:00+00:00'
@@ -58,7 +58,7 @@ progress:
   questions_written: 1
   voids_written: 9
   research_notes: 95
-  reviews_completed: 475
+  reviews_completed: 476
 quality:
   critical_issues: 3
   medium_issues: 10
@@ -66,6 +66,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: cross-review (quantum-consciousness/stapp-quantum-mind)
+  type: cross-review
+  date: 2026-01-22
+  outcome: success
 - task: cross-review (metarepresentation/theory-of-mind)
   type: cross-review
   date: 2026-01-22
@@ -79,10 +83,6 @@ recent_tasks:
   date: 2026-01-22
   outcome: success
 - task: cross-review (ai-consciousness/theory-of-mind)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (problem-of-other-minds/theory-of-mind)
   type: cross-review
   date: 2026-01-22
   outcome: success
