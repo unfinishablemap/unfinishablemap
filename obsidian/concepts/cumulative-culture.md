@@ -3,12 +3,13 @@ title: "Cumulative Culture"
 created: 2026-01-21
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-23T00:15:00+00:00
+ai_modified: 2026-01-22T08:14:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
   - "[[ai-consciousness]]"
 concepts:
+  - "[[teaching-as-metarepresentation]]"
   - "[[jourdain-hypothesis]]"
   - "[[metarepresentation]]"
   - "[[metacognition]]"
@@ -85,6 +86,18 @@ But not through:
 Human teaching is inherently metarepresentational. To teach, you must represent your knowledge as knowledge the other lacks, represent the other's learning state, and adjust your behaviour based on the difference. This requires knowing that you know things others don't know—a feat of metarepresentation.
 
 Some ape teaching cases exist—chimpanzee mothers occasionally position offspring's hands on tools—but these remain rare and rudimentary compared to the ubiquitous, elaborate teaching in all human cultures.
+
+### Why Social Learning Cannot Sustain the Ratchet
+
+The gap between ape social learning and human cumulative culture is not quantitative but structural. [[teaching-as-metarepresentation|Teaching as metarepresentation]] reveals why.
+
+**Passive transmission is lossy.** Emulation and stimulus enhancement transmit only what the learner can extract by observing. Subtle techniques—the angle of grip, the timing of release, the choice of materials—may be invisible to naive observers. Each generation's emulative transmission loses these fine details, eroding rather than accumulating improvements. The ape transmission bottleneck is not bandwidth but interpretation: learners extract what they can perceive, not what experts know.
+
+**Teaching transmits the unobservable.** The teacher, knowing what the learner needs to know, can highlight what observation alone would miss. "Watch the wrist, not the hammer." "Use this kind of stone, not that one." Teaching makes explicit what emulation leaves tacit—and the tacit is precisely where innovations often lie. Cumulative culture accumulates because teaching preserves what observation would lose.
+
+**Teaching transmits the evaluative.** Beyond technique, teaching transmits *why* a method works. The learner gains not just "do it this way" but "do it this way because it's better than the old way." This evaluative knowledge enables the learner to become an innovator—recognising current practice as improvable, not merely as "the way things are done." Without evaluative transmission, each generation treats inherited technique as given rather than as a platform for further improvement.
+
+**The metarepresentational requirement.** All three functions—highlighting the unobservable, preserving the subtle, transmitting the evaluative—require the teacher to represent their knowledge *as* knowledge. The teacher must stand back from their own expertise to identify what the learner lacks. This standing-back is metarepresentation. If apes cannot represent their skills as skills (the [[jourdain-hypothesis|Jourdain Hypothesis]]), they cannot perform the standing-back that deliberate transmission requires. Social learning continues; cumulative culture does not.
 
 ## Consciousness and the Cultural Ratchet
 
@@ -188,6 +201,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 
 ## Further Reading
 
+- [[teaching-as-metarepresentation]] — Why teaching requires consciousness and enables cultural ratcheting
 - [[jourdain-hypothesis]] — The Molière-inspired metaphor for procedural vs declarative metacognition
 - [[metarepresentation]] — Why knowing-that-you-know may require consciousness
 - [[consciousness-as-amplifier]] — How consciousness enhances cognitive capacity
