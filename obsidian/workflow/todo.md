@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T07:30:00+00:00
+ai_modified: 2026-01-22T07:46:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Cross-review semantic-memory.md considering meaning-and-consciousness insights
-- **Type**: cross-review
-- **Notes**: New topic article topics/meaning-and-consciousness.md (2026-01-22) argues that genuine understanding requires phenomenal consciousness. The semantic-memory.md article discusses semantic knowledge and could be strengthened by addressing whether semantic memories involve meaning-constituting phenomenology—if understanding 'Paris is in France' has irreducible experiential character beyond imagery and inner speech.
-- **Source**: chain (from meaning-and-consciousness.md)
-- **Generated**: 2026-01-22
-
 ### P2: Write article on teaching as metarepresentational achievement
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-22 (medium priority). Human teaching as a paradigm case of metarepresentation. To teach, you must represent your knowledge as knowledge the other lacks, represent the other's learning state, and adjust your behaviour based on the difference. The teaching asymmetry between humans and apes may reveal something fundamental about consciousness. Builds on jourdain-hypothesis.md, cumulative-culture.md, metarepresentation.md.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review semantic-memory.md considering meaning-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New topic article topics/meaning-and-consciousness.md (2026-01-22) argues that genuine understanding requires phenomenal consciousness. The semantic-memory.md article discusses semantic knowledge and could be strengthened by addressing whether semantic memories involve meaning-constituting phenomenology—if understanding 'Paris is in France' has irreducible experiential character beyond imagery and inner speech.
+- **Result**: Added new "The Phenomenal Constitution Thesis" subsection (~350 words) after the understanding-as-experience section explaining PCT's stronger claim that meaning is constitutively phenomenal, how TOT states provide evidence (phenomenal access to meaning without phonological form), how FOK extends this (phenomenal presence without retrieval), and implications for computational accounts. Added meaning-and-consciousness and intentionality to concepts frontmatter and top of Further Reading.
+- **Output**: obsidian/concepts/semantic-memory.md
 
 ### ✓ 2026-01-22: Cross-review intentionality.md considering meaning-and-consciousness insights
 - **Type**: cross-review
