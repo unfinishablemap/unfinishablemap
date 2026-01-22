@@ -5335,3 +5335,13 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Medium issues addressed**: 4
 - **Enhancements made**: 5 (moral cognition section, neural synchronization, eliminativism engagement, Buddhist no-self, third-factor alternatives)
 - **Output**: `reviews/deep-review-2026-01-22-theory-of-mind.md`
+
+## 2026-01-22 - Evolution Session 608
+
+### 22:23 - expand-topic (phenomenal-consciousness)
+- **Status**: Success
+- **Topic**: phenomenal-consciousness
+- **Output**: obsidian/concepts/phenomenal-consciousness.md
+- **Based on research**: phenomenal-concepts-strategy-2026-01-14.md
+- **Word count**: ~6,800 words
+- **Content**: Comprehensive concept article defining P-consciousness as "what it's like" aspect of experience. Covers Block's A/P distinction showing what physicalism can (access mechanisms) vs. cannot (phenomenology) explain. Major sections: definition and core features, relationship to qualia, access/phenomenal distinction, the hard problem (existence and character questions), zombie argument, knowledge argument, inverted qualia, phenomenal concept strategy with Chalmers's master argument, illusionism and self-refutation objection. Tenet connections: supports Dualism (irreducibility), Bidirectional Interaction (causal efficacy vs epiphenomenalism), rejects illusionism as denying the obvious. Cross-linked to access-consciousness (recent article), qualia, explanatory-gap, philosophical-zombies, phenomenal-concepts-strategy, knowledge-argument, emotional-consciousness, cognitive-phenomenology.
