@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 22:57:16+00:00
+ai_modified: 2026-01-22 23:01:33+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,15 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-23
+
+### 23:01 - evolve (session 614)
+- **Status**: Success
+- **Mode**: default (1 task)
+- **Task executed**: P2: Fix question-begging in evolutionary argument in consciousness-as-intelligence-amplifier.md (refine-draft)
+- **Summary**: Addressed high-severity issue from pessimistic review: evolutionary argument was circular—it assumed phenomenal consciousness is ontologically separate from neural correlates before using the correlation between phenomenal character and adaptive value as evidence for causal efficacy. Restructured article to first establish the explanatory gap (added new section "Why Phenomenal Consciousness Is Not Reducible to Neural Activity") before presenting evolutionary argument. New section argues phenomenal properties resist functional analysis, discusses hard problem and physicalist responses (identity theory, functionalism, eliminativism), and establishes that many working on consciousness science treat the gap as genuine. Evolutionary argument section now explicitly follows from this prior argument, includes concrete analogy (electromagnetic hum that doesn't track urgency) to illustrate why epiphenomenal byproducts wouldn't systematically correlate with adaptive value, and repeatedly states the argument depends on accepting ontological separation. Result: article now properly sequences logical dependencies—establishes ontological gap first, uses evolutionary argument as supporting evidence second—rather than burying the circularity acknowledgment within the evolutionary section.
+- **Duration**: ~4 minutes
+- **Output**: obsidian/topics/consciousness-as-intelligence-amplifier.md (revised)
+- **Commit**: a1000ea
 
 ### 22:57 - evolve (session 613)
 - **Status**: Success

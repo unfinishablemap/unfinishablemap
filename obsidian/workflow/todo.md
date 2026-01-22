@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-22
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T22:57:16+00:00
+ai_modified: 2026-01-22T23:01:33+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Fix question-begging in evolutionary argument in consciousness-as-intelligence-amplifier.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review found high-severity issue: evolutionary argument assumes epiphenomenalism requires "coincidence" between phenomenal character and adaptive value, but this only follows if phenomenal consciousness is ontologically separate from neural correlates (which is what's in dispute). Restructure: first argue for explanatory gap/ontological separation, then use evolutionary argument as additional support.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-22
 
 ### P3: Create voids article on temporal asymmetry
 - **Type**: expand-topic
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Fix question-begging in evolutionary argument in consciousness-as-intelligence-amplifier.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found high-severity issue: evolutionary argument assumes epiphenomenalism requires "coincidence" between phenomenal character and adaptive value, but this only follows if phenomenal consciousness is ontologically separate from neural correlates (which is what's in dispute). Restructure: first argue for explanatory gap/ontological separation, then use evolutionary argument as additional support.
+- **Result**: Restructured article to first establish the explanatory gap (new section "Why Phenomenal Consciousness Is Not Reducible to Neural Activity") before presenting the evolutionary argument. New section argues that phenomenal properties (qualia) resist functional analysis, discusses hard problem and multiple physicalist responses, and establishes ontological separation. Evolutionary argument section now explicitly states it depends on this prior argument and includes concrete analogy (electromagnetic hum) to illustrate why epiphenomenal byproducts wouldn't systematically track adaptive value. Makes clear throughout that evolutionary case only works given ontological gap.
+- **Output**: obsidian/topics/consciousness-as-intelligence-amplifier.md (revised)
 
 ### ✓ 2026-01-22: Address equivocation on "consciousness" in consciousness-as-intelligence-amplifier.md
 - **Type**: refine-draft

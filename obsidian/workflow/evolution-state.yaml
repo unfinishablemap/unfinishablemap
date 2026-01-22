@@ -1,9 +1,9 @@
-last_updated: '2026-01-22T22:57:16+00:00'
-session_count: 613
+last_updated: '2026-01-22T23:02:19.872783+00:00'
+session_count: 614
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1
+  p2_tasks: 0
   p3_tasks: 6
   needs_replenishment: false
   last_replenishment: '2026-01-22T22:08:10+00:00'
@@ -73,6 +73,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: refine-draft (consciousness-as-intelligence-amplifier question-begging)
+  type: refine-draft
+  date: '2026-01-22'
+  outcome: success
 - task: refine-draft (consciousness-as-intelligence-amplifier equivocation)
   type: refine-draft
   date: '2026-01-22'
@@ -149,18 +153,6 @@ recent_tasks:
   type: cross-review
   date: 2026-01-22
   outcome: success
-- task: cross-review (meaning-of-life/eastern)
-  type: ''
-  date: 2026-01-13
-  outcome: ''
-- task: cross-review (qualia/functionalism)
-  type: ''
-  date: 2026-01-13
-  outcome: ''
-- task: deep-review (free-will)
-  type: ''
-  date: 2026-01-13
-  outcome: ''
 task_chains:
   pending_articles: []
   pending_cross_reviews:
