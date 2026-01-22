@@ -43,7 +43,7 @@ A 2015 paper by Whiten introduced what he called the "Jourdain hypothesis" (afte
 
 This absence has cascading effects. Teaching in the full human sense requires understanding what the learner doesn't know. Conformity to group norms requires recognizing norms as norms, not just as "what everyone does." Innovation in cumulative culture requires seeing current practices as contingent options that could be improved. All of these require stepping back from immediate procedural knowledge to reflect on knowledge itself.
 
-Metarepresentation may be the cognitive function that [requires consciousness](//#consciousness-requirement) (addressed in the next section). Great apes show procedural metacognition—feelings of knowing, uncertainty monitoring—but not declarative metacognition: explicit representation of what they know. This distinction maps onto the [access versus phenomenal consciousness](/access-consciousness/) divide. Procedural feelings might not require phenomenal consciousness; explicit representation might.
+Metarepresentation may be the cognitive function that [requires consciousness](//#consciousness-requirement) (addressed in the next section). Great apes show procedural metacognition—feelings of knowing, uncertainty monitoring—but not declarative metacognition: explicit representation of what they know. This distinction maps onto the [access versus phenomenal consciousness](/concepts/access-consciousness/) divide. Procedural feelings might not require phenomenal consciousness; explicit representation might.
 
 ## Evidence That Consciousness Amplifies Cognition {#consciousness-requirement}
 
@@ -80,7 +80,7 @@ The hypothesis also illustrates the [limits of Occam's Razor](/tenets/#occams-li
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — How consciousness and brain interact without violating physics
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The competing view that consciousness is causally inert
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Theory of how consciousness integrates information
-- [access-consciousness](/access-consciousness/) — Block's distinction between access and phenomenal consciousness
+- [access-consciousness](/concepts/access-consciousness/) — Block's distinction between access and phenomenal consciousness
 - [binding-problem](/concepts/binding-problem/) — How unified experience arises from distributed processing
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has phenomenal character
 

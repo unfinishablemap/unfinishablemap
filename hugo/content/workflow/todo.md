@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 22:05:33+00:00
+ai_modified: 2026-01-22 22:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,11 +38,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Write article on neural binding quantum experimental evidence
+- **Type**: expand-topic
+- **Notes**: Based on research/neural-binding-quantum-entanglement-2026-01-19.md. Recent 2024-2025 breakthrough evidence: microtubule-stabilizing drugs delay anesthesia (Cohen's d = 1.9), MRI detects entanglement signatures correlating with consciousness, decoherence times 7 orders longer than Tegmark claimed. Directly supports Minimal Quantum Interaction tenet with experimental validation.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
+
+### P2: Create concept page for phenomenal-consciousness
+- **Type**: expand-topic
+- **Notes**: Gap analysis—the complement to access-consciousness in Block's framework. Referenced in emotional-consciousness.md. Core to Dualism tenet—phenomenal consciousness is precisely what physicalism cannot explain. The hard problem: why there's something it's like to be conscious. Foundation for qualia arguments, zombie arguments, explanatory gap.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-22
+
+### P2: Write article on consciousness as intelligence amplifier
+- **Type**: expand-topic
+- **Notes**: Based on research/consciousness-influence-intelligence-2026-01-21.md. Strong evidence that consciousness enables flexible responses, logical reasoning, counterfactual thinking, metacognitive monitoring. Evolutionary argument: consciousness couldn't have evolved if epiphenomenal. Working memory expansion (2±1 in apes vs 7±2 in humans) may reflect consciousness expansion. Directly supports Bidirectional Interaction tenet.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
+
 ### P2: Deep review jourdain-hypothesis.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. The Jourdain hypothesis (consciousness as a necessary condition for memory formation) is a unique perspective on consciousness-memory relationships.
 - **Source**: staleness
 - **Generated**: 2026-01-23
+
+### P3: Create voids article on temporal asymmetry
+- **Type**: expand-topic
+- **Notes**: Based on research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. Why we can re-experience the past but only imagine the future. The "pastness quale" is irreducible; epistemic asymmetry (past accessible via causal traces) grounds phenomenological asymmetry. Memory-anticipation asymmetry as fundamental cognitive limit.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
+
+### P3: Create voids article on phenomenology of error recognition
+- **Type**: expand-topic
+- **Notes**: Based on research/voids-phenomenology-of-error-recognition-2026-01-21.md. The bootstrap problem: being wrong feels like being right (error-blindness); Dunning-Kruger dual burden. We cannot perceive current errors, only past ones. The paradoxical temporal structure of correction. Structural cognitive closure.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
 
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
@@ -69,6 +99,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Create concept page for access-consciousness
+- **Type**: expand-topic
+- **Notes**: Gap analysis—Ned Block's foundational distinction between access consciousness (A-consciousness: information globally available) and phenomenal consciousness (P-consciousness: what it's like). Referenced in baseline-cognition.md. Critical for Bidirectional Interaction tenet—distinguishes what consciousness does from what consciousness is. Supports arguments against functionalism.
+- **Result**: Created comprehensive concept article (~7,000 words) defining Block's 1995 distinction and its implications for dualism. Covered definition, access/phenomenal distinction, dissociations (blindsight without phenomenology, overflow argument for phenomenology exceeding access), relationship to functionalism and Global Workspace Theory, role of attention as selection mechanism, connection to dualist interaction via Stapp's quantum Zeno mechanism, full tenet alignment. Argued that A-consciousness is functionally explicable while P-consciousness remains irreducible, strengthening dualism by isolating what physicalism can vs. cannot explain.
+- **Output**: obsidian/concepts/access-consciousness.md, obsidian/research/access-consciousness-2026-01-22.md
 
 ### ✓ 2026-01-22: Create concept page for haecceity
 - **Type**: expand-topic
