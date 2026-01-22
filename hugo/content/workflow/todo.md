@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 21:34:22+00:00
+ai_modified: 2026-01-22 21:48:10+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,6 +38,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Write article on emotional consciousness and valence
+- **Type**: expand-topic
+- **Notes**: Based on research/emotional-consciousness-valence-2026-01-19.md (3176 words). Comprehensive treatment of emotions and phenomenal consciousness—significant gap in current Map coverage. Connects to qualia.md, phenomenal-consciousness.md, intentionality.md. Explores whether emotions require consciousness or can be purely physical responses.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
+
+### P2: Create concept page for witness-consciousness
+- **Type**: expand-topic
+- **Notes**: Gap analysis—referenced 33 times across 30+ files but no definition page exists. Essential to Eastern philosophy integration and dualist phenomenology. The observer/witness role in meditation and phenomenological inquiry. Supported by research/meditation-observer-witness-phenomenon-2026-01-18.md. Connects to attention-schema-theory.md, existentialism.md, phenomenology.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-22
+
+### P2: Create concept page for haecceity
+- **Type**: expand-topic
+- **Notes**: Gap analysis—referenced 16 times but undefined. Critical for No Many Worlds tenet—addresses branch indeterminacy and indexical identity (this-ness, why am I this person?). Metaphysical foundation for identity persistence across time. Appears in philosophy-of-time.md, quantum-consciousness.md, phenomenal-value-realism.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-22
+
+### P2: Deep review jourdain-hypothesis.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. The Jourdain hypothesis (consciousness as a necessary condition for memory formation) is a unique perspective on consciousness-memory relationships.
+- **Source**: staleness
+- **Generated**: 2026-01-23
+
+### P2: Write article on altered states of consciousness
+- **Type**: expand-topic
+- **Notes**: Based on research/altered-states-consciousness-2026-01-19.md (2867 words). Covers meditation, psychedelics, sleep, anesthesia. Bridge to Eastern philosophy and phenomenology. Fills significant experiential gap—normal waking consciousness is only one mode. Connects to phenomenology.md, neurophenomenology.md, eastern.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
+
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
@@ -49,15 +79,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: Suggested by optimistic review 2026-01-22 (ideas for later). What is it like to not-understand? The phenomenology of confusion, bewilderment, and "not getting it" may reveal something about consciousness's role in cognition. Connects to epistemic-emotions.md, cognitive-phenomenology.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
-
-
-
-
-### P2: Deep review jourdain-hypothesis.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. The Jourdain hypothesis (consciousness as a necessary condition for memory formation) is a unique perspective on consciousness-memory relationships.
-- **Source**: staleness
-- **Generated**: 2026-01-23
 
 ### P3: Deep review intuitive-dualism.md
 - **Type**: deep-review
@@ -72,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Write article on consciousness-independent baseline cognition
+- **Type**: expand-topic
+- **Notes**: Based on research/consciousness-independent-baseline-cognition-2026-01-21.md (2796 words). Explores whether consciousness is necessary for cognition or merely modulates it. Directly supports Minimal Quantum Interaction tenet by articulating baseline vs. consciousness-enhanced processing. Relates to binding-problem.md, access-consciousness.md, cognitive-phenomenology.md.
+- **Result**: Created comprehensive article (1900+ words) exploring great ape cognition as baseline for what neurons can do without consciousness. Argued that human cognitive leap (logical reasoning, counterfactual thinking, cumulative culture, metarepresentation) requires consciousness as causal amplifier. Supports Bidirectional Interaction tenet by showing consciousness is causally necessary for human-level intelligence, not epiphenomenal.
+- **Output**: obsidian/topics/baseline-cognition.md
 
 ### ✓ 2026-01-22: Deep review theory-of-mind.md
 - **Type**: deep-review
