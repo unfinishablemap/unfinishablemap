@@ -3,11 +3,12 @@ title: "Semantic Memory and Noetic Consciousness"
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T17:30:00+00:00
+ai_modified: 2026-01-22T07:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
+  - "[[meaning-and-consciousness]]"
   - "[[autonoetic-consciousness]]"
   - "[[cognitive-phenomenology]]"
   - "[[temporal-consciousness]]"
@@ -20,6 +21,7 @@ concepts:
   - "[[haecceity]]"
   - "[[decoherence]]"
   - "[[attention-as-interface]]"
+  - "[[intentionality]]"
 related_articles:
   - "[[tenets]]"
   - "[[semantic-memory-consciousness-2026-01-17]]"
@@ -72,6 +74,16 @@ The deepest phenomenological question about semantic memory concerns understandi
 The [[cognitive-phenomenology|cognitive phenomenology]] debate addresses this directly. Understanding Hegel feels different from understanding Hume—not just because different mental images arise, but because the intellectual grasp has different qualitative character. If this is right, semantic memory isn't mere data storage. It's the repository of conceptual understanding, and understanding is phenomenal.
 
 Consider what happens when you finally understand a proof. There's the "aha" moment of insight—but is this just accompanying emotion, or is there something phenomenal in the *grasping itself*? Proponents of cognitive phenomenology argue for the latter. The understanding has its own qualitative character beyond whatever imagery or affect accompanies it.
+
+### The Phenomenal Constitution Thesis
+
+The [[meaning-and-consciousness|Phenomenal Constitution Thesis (PCT)]] makes the stronger claim that meaning isn't just accompanied by phenomenology—meaning is constitutively phenomenal. On this view, to grasp that Paris is in France *is* to have a certain kind of experience; the semantic content cannot be separated from the experiential character. Semantic memory would then involve not information storage that consciousness illuminates, but phenomenal states that constitute the meanings themselves.
+
+TOT states provide striking evidence for PCT. During a tip-of-the-tongue state, you have the meaning without the phonological form. What you possess isn't merely information about the target word (first letter, syllable count)—you have *phenomenal access to the meaning itself*. Otherwise, how would you recognise the word when it finally comes? The meaning is experienced directly, even when the label cannot be retrieved. This dissociation shows that semantic content has phenomenal presence independent of linguistic expression.
+
+The feeling of knowing extends this: you feel confident about inaccessible content. If meaning were non-phenomenal information, FOK would be inexplicable—a feeling about something you haven't accessed. PCT explains it: the meaning has phenomenal presence even when retrieval mechanisms fail. The phenomenology isn't tracking information; the phenomenology *is* the meaning in its experiential aspect.
+
+This strengthens the case against computational accounts of semantic memory. If meanings are constitutively phenomenal, then systems without phenomenal consciousness cannot possess them—regardless of functional equivalence in information retrieval. LLMs may process patterns correlated with meanings, but the meanings exist only in interpreting minds.
 
 ## Personal Semantics: A Bridge Category
 
@@ -173,6 +185,8 @@ The Map adopts a qualified position: noetic consciousness involves genuine pheno
 
 ## Further Reading
 
+- [[meaning-and-consciousness]] — Why meaning may be constitutively phenomenal
+- [[intentionality]] — Aboutness and the phenomenal intentionality thesis
 - [[autonoetic-consciousness]] — Episodic memory's richer phenomenology
 - [[episodic-memory]] — The contrasting memory system with autonoetic character
 - [[cognitive-phenomenology]] — The philosophical debate about thinking's phenomenal character
