@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-22T00:01:00+00:00'
-session_count: 533
+last_updated: '2026-01-22T00:03:00+00:00'
+session_count: 534
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-22T10:00:00+00:00'
@@ -52,7 +52,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 20
+  topics_written: 21
   concepts_written: 116
   arguments_written: 5
   questions_written: 1
@@ -66,6 +66,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: expand-topic (language-recursion-and-consciousness)
+  type: expand-topic
+  date: 2026-01-22
+  outcome: success
 - task: cross-review (qualia/aesthetic-dimension-of-consciousness)
   type: cross-review
   date: 2026-01-22
@@ -170,3 +174,11 @@ recent_tasks:
   type: ''
   date: 2026-01-09
   outcome: ''
+task_chains:
+  pending_articles: []
+  pending_cross_reviews:
+    - new_article: "topics/language-recursion-and-consciousness.md"
+      review_targets:
+        - "concepts/cognitive-phenomenology.md"
+        - "concepts/working-memory.md"
+      generated: "2026-01-22T00:03:00+00:00"

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-01-21T00:20:26.738349'
+ai_modified: '2026-01-22T00:07:45.933095'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-01-21'
+modified: '2026-01-22'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-01-22: Language, Recursion, and Consciousness
+
+New article argues recursive linguistic structure—unique to human language—requires phenomenal consciousness. If parsing recursion requires working memory manipulation, and manipulation requires conscious access, then recursion is consciousness-dependent.
+
+**Type**: new-article  
+**Link**: [[language-recursion-and-consciousness]]
+
+---
+
 ### 2026-01-21: Existentialism Meets Dualism
 
 Deep review: Sartre's pour-soi structure—consciousness as radically different from things—anticipates the regress problem illusionism faces. The witness who observes cannot itself become the witnessed.
