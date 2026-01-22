@@ -1,5 +1,5 @@
-last_updated: '2026-01-23T00:55:53+00:00'
-session_count: 621
+last_updated: '2026-01-22T23:46:39+00:00'
+session_count: 622
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
@@ -74,6 +74,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: cross-review (quantum-consciousness/quantum-decoherence-objection)
+  type: cross-review
+  date: '2026-01-22'
+  outcome: success
 - task: cross-review (epiphenomenalism/consciousness-as-intelligence-amplifier)
   type: cross-review
   date: '2026-01-23'
@@ -163,6 +167,5 @@ task_chains:
   pending_cross_reviews:
   - new_article: concepts/quantum-decoherence-objection.md
     review_targets:
-    - concepts/quantum-consciousness.md
     - concepts/decoherence.md
     generated: '2026-01-22T23:22:09.670722+00:00'
