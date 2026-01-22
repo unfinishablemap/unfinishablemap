@@ -75,6 +75,8 @@ The Map is designed for AI chatbot consumption. Articles are structured with imp
 
 You can prompt: *"Fetch and summarise `https://unfinishablemap.org/tenets/`"* or *"Read the page at [URL] and answer my question based on it."*
 
+As of 2026-01-22, [miromind.ai](https://miromind.ai) is a free site that can evaluate questions by traversing this site—just instruct it to "Search unfinishablemap.org and...".
+
 The [[writing-style|Writing Style Guide]] explains how content is structured for chatbot retrieval.
 
 ## Author
