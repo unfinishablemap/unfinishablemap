@@ -5210,3 +5210,25 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Duration**: ~2 minutes (verification only)
 - **Cost**: Minimal
 
+
+### 20:46 - deep-review (dualism.md)
+- **Status**: Success
+- **File**: obsidian/concepts/dualism.md
+- **Critical issues addressed**: 4
+  1. Eliminativist challenge (added self-undermining response)
+  2. Zombie inconceivability objection (added defense)
+  3. Falsifiability (specified three empirical tests)
+  4. Decoherence challenge (clarified sub-millisecond timescale)
+- **Medium issues addressed**: 3
+  1. Strengthened conceptual vs epistemic gap distinction
+  2. Added Stapp quantum Zeno mechanism
+  3. Connected to agency and moral responsibility
+- **Enhancements made**: 6
+  - Cross-linked stapp-quantum-mind article (frontmatter + inline + Further Reading)
+  - Expanded explanatory gap argument (+100 words)
+  - Added zombie argument defense (+80 words)
+  - Added decoherence response (+60 words)
+  - Added eliminativist challenge subsection (+150 words)
+  - Added falsification conditions (+100 words)
+- **Output**: `reviews/deep-review-2026-01-22-dualism.md`
+- **Word count**: ~2700 → ~3100 words (+15%)

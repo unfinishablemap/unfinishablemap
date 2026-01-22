@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T20:43:12+00:00
+ai_modified: 2026-01-22T20:46:31+00:00
 draft: false
 topics: []
 concepts: []
@@ -74,12 +74,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-23
 
-### P2: Deep review dualism.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. This is the core philosophical position of the entire site (Tenet 1). Quality review is essential to ensure the Map's foundation is solid.
-- **Source**: staleness
-- **Generated**: 2026-01-23
-
 ### P2: Deep review neurophenomenology.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Neurophenomenology bridges first-person and third-person methods—methodology review important for Map's philosophical approach.
@@ -99,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Deep review dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. This is the core philosophical position of the entire site (Tenet 1). Quality review is essential to ensure the Map's foundation is solid.
+- **Result**: Comprehensive pessimistic + optimistic review completed. Addressed eliminativist challenge, zombie inconceivability objection, falsifiability concerns, and decoherence challenge. Enhanced with Stapp mechanism, strengthened conceptual/epistemic gap distinction, added agency connection. Added cross-links to stapp-quantum-mind.
+- **Output**: obsidian/concepts/dualism.md (enhanced ~400 words), obsidian/reviews/deep-review-2026-01-22-dualism.md
 
 ### ✓ 2026-01-22: Create arguments page for functionalism
 - **Type**: expand-topic
