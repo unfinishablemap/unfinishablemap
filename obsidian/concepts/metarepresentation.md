@@ -3,7 +3,7 @@ title: "Metarepresentation and Phenomenal Consciousness"
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-22T00:43:00+00:00
+ai_modified: 2026-01-22T08:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ concepts:
   - "[[phenomenology-of-choice]]"
   - "[[motor-selection]]"
   - "[[binding-problem]]"
+  - "[[teaching-as-metarepresentation]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-independent-baseline-cognition-2026-01-21]]"
@@ -50,6 +51,20 @@ Metarepresentation involves three nested levels:
 The third level is crucial. Many animals show evidence of second-order states: uncertainty monitoring, strategic information-seeking, adjusting confidence. But these might operate procedurally—functional states that guide behaviour without explicit representation of themselves as mental states. Metarepresentation requires treating your mental states as the kind of thing that *can* be represented, examined, and evaluated.
 
 The [[phenomenology-of-choice|phenomenology of deliberate choice]] illustrates this structure. When you genuinely choose between options, you represent your possible actions as possible actions—not merely act on the strongest impulse but stand back from the options, recognise them as alternatives you could take, and select among them. This choosing-as-metarepresentation distinguishes human deliberation from sophisticated animal behaviour. The ape may have preferences; the human recognises having preferences and can take them as objects of further evaluation.
+
+### Teaching as Paradigm Case
+
+[[teaching-as-metarepresentation|Teaching]] provides perhaps the clearest paradigm case of metarepresentation in action. To teach requires simultaneously maintaining at least five nested representational levels:
+
+1. First-order knowledge (knowing something about the world)
+2. Second-order representation (knowing that you know)
+3. Theory of mind (representing the learner's knowledge state)
+4. Gap representation (representing the relation between your knowledge and their ignorance)
+5. Pedagogical action (adjusting behaviour specifically to bridge the gap)
+
+This structure makes the metarepresentational demand explicit. Without knowing that you know, you cannot recognise that another doesn't know what you know. Without representing that gap as a gap, you cannot act to bridge it. Teaching requires the full metarepresentational stack operating simultaneously—a feat that loads heavily on working memory and appears to require phenomenal consciousness.
+
+The great ape evidence is striking. Despite decades of observation and sophisticated social learning capacities, great apes rarely if ever teach in the human sense. Chimpanzee mothers tolerate their infants' proximity while cracking nuts or fishing for termites, but they do not slow their demonstrations, highlight key features, or adjust based on the learner's developing understanding. Learning happens, but through tolerated scrounging and observation rather than deliberate transmission. If teaching required only functional processing, great apes' comparable neural resources should suffice. The absence suggests metarepresentation—and therefore consciousness—is the limiting factor.
 
 ### The Jourdain Hypothesis
 
@@ -242,6 +257,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 
 ## Further Reading
 
+- [[teaching-as-metarepresentation]] — Teaching as the paradigm case of metarepresentation
 - [[baseline-cognition]] — What cognition achieves without metarepresentation, and why the difference matters
 - [[metacognition]] — The enabling relation between consciousness and self-monitoring
 - [[cognitive-phenomenology]] — The phenomenal character of thinking
