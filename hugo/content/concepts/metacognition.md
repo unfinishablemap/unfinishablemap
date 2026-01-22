@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-22 03:15:00+00:00
+ai_modified: 2026-01-22 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[consciousness-and-social-cognition]]'
 - '[[jourdain-hypothesis]]'
 - '[[higher-order-theories]]'
 - '[[introspection]]'
@@ -20,6 +21,10 @@ concepts:
 - '[[consciousness-as-amplifier]]'
 - '[[baseline-cognition]]'
 - '[[cumulative-culture]]'
+- '[[theory-of-mind]]'
+- '[[emotional-consciousness]]'
+- '[[phenomenal-unity]]'
+- '[[working-memory]]'
 created: 2026-01-18
 date: &id001 2026-01-18
 draft: false
@@ -174,6 +179,52 @@ Templer and Hampton (2021) review the evidence: primates show robust metacogniti
 
 This matters for understanding consciousness's relationship to metacognition. If even rodents can monitor their uncertainty, metacognition is not a uniquely human or uniquely conscious capacity—it's a cognitive function that consciousness can use but doesn't constitute.
 
+## Social Metacognition: Thinking About Others' Thinking
+
+Metacognition extends beyond monitoring one's own mental states to encompass *social metacognition*—monitoring and reasoning about the mental states of others. The [consciousness and social cognition](/concepts/consciousness-and-social-cognition/) literature reveals that this social dimension of metacognition follows the same procedural-to-declarative trajectory as individual metacognition, and may require phenomenal consciousness at higher levels.
+
+### Theory of Mind as Social Metacognition
+
+Theory of mind—attributing mental states to others—can be understood as metacognition directed outward rather than inward. The levels of theory of mind track metacognitive sophistication:
+
+| Level | Individual Metacognition Analogue | Social Metacognition |
+|-------|----------------------------------|---------------------|
+| Level 0 | Behavioural self-monitoring | Behaviour prediction without mental state attribution |
+| Level 1 | Procedural uncertainty monitoring | Understanding what others perceive |
+| Level 2 | Feeling of knowing, confidence | Understanding that others have beliefs that may differ from reality |
+| Level 3 | Explicit metarepresentation | Recursive mindreading: beliefs about beliefs |
+
+Great apes demonstrate Level 1 social metacognition—tracking what others have seen, adjusting behaviour accordingly. But Level 3 recursive mindreading ("she thinks that I think the food is hidden") appears uniquely human. This mirrors the individual metacognition evidence: procedural monitoring is widespread; declarative metarepresentation requires consciousness.
+
+### The Nested Binding Requirement
+
+Recursive social cognition makes explicit why higher-level metacognition requires consciousness. To represent "she thinks that I think the food is hidden," you must hold multiple nested levels simultaneously:
+
+1. Your own mental state (wanting to deceive)
+2. Her mental state (believing)
+3. The content of her belief (your apparent ignorance)
+4. What you're supposed to be ignorant of (her plan)
+
+This nested structure must be bound into [unified conscious awareness](/concepts/phenomenal-unity/)—you must experience the whole at once, keeping levels distinct yet related. The [working-memory](/concepts/working-memory/) research suggests that *manipulating* information (not just maintaining it) requires conscious access. Recursive social cognition exemplifies exactly this: holding representations while actively computing their relationships.
+
+### Empathy as Affective Social Metacognition
+
+Social metacognition includes affective dimensions—understanding and responding to others' emotional states. The progression from emotional contagion to cognitive empathy to empathic concern tracks increasing metacognitive sophistication:
+
+- **Emotional contagion**: Automatic "catching" of others' emotions—no metacognition required
+- **Cognitive empathy**: Understanding what another feels—requires representing their emotional state, but might operate procedurally
+- **Empathic concern**: Feeling *for* another because you understand their situation—requires experiencing your response to your representation of their state
+
+Empathic concern is metacognitive because it involves not just representing the other's state but *caring about* that representation. This caring has phenomenal character—it's like something to feel concern for another. The [emotional-consciousness](/concepts/emotional-consciousness/) literature suggests this phenomenal dimension is essential: understanding without feeling produces prediction but not the motivation that characterises genuine concern.
+
+### Implications for the Consciousness-Metacognition Relationship
+
+Social metacognition reinforces the Map's framework in two ways:
+
+First, the same procedural/declarative boundary appears in both individual and social metacognition. Rats can monitor their own uncertainty; great apes can track what others perceive. But explicit metarepresentation—knowing that you know, knowing that she believes—appears to require consciousness in both domains.
+
+Second, social metacognition reveals why consciousness matters for metacognition generally. The nested binding problem is clearest in social cognition: recursive mindreading *requires* holding multiple levels in unified awareness. If individual metacognition requires the same binding (holding your belief *and* your evaluation of that belief), the consciousness requirement becomes intelligible. Consciousness provides the phenomenal workspace where nested representations can be bound together and manipulated.
+
 ## Metacognition vs. Metarepresentation: A Critical Distinction
 
 The animal evidence points toward a crucial distinction: metacognition and [metarepresentation](/concepts/metarepresentation/) are not the same capacity. Understanding this distinction clarifies what consciousness enables at different levels.
@@ -283,6 +334,8 @@ The Map's framework accommodates this: consciousness provides phenomenal content
 
 ## Further Reading
 
+- [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/) — How theory of mind and empathy extend metacognition to the social domain
+- [theory-of-mind](/concepts/theory-of-mind/) — The levels hierarchy for attributing mental states to others
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — The distinction between having mental states and knowing you have them, with implications for great ape cognition and AI assessment
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without declarative metacognition
 - [cumulative-culture](/concepts/cumulative-culture/) — Why cultural ratcheting requires the Jourdain transition
