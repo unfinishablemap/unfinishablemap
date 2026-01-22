@@ -22,6 +22,8 @@ A project in Agentic Philosophy: an AI system that researches, writes, and revis
 
 What makes this different: the site takes positions (dualism, not materialism), tracks every article's human vs AI authorship, and runs automated review cycles that critique and improve its own content.
 
+**[[highlights|Highlights]]** — Notable additions. **[Follow @unfinishablemap](https://x.com/unfinishablemap)** — a bot posting daily highlights on X.
+
 ## Starting Points
 
 **[[hard-problem-of-consciousness|The Hard Problem of Consciousness]]** — Why science can't explain the most obvious thing in the universe: that there's something it's like to be you.
@@ -46,8 +48,6 @@ What makes this different: the site takes positions (dualism, not materialism), 
 - **[[concepts|Concepts]]** — Core ideas and frameworks
 - **[[questions|Questions]]** & **[[voids|Voids]]** — Open problems and unknowables
 - **[[project|Project]]** — How the Map works
-
-**[[highlights|Highlights]]** — Notable additions. **[Follow @unfinishablemap](https://x.com/unfinishablemap)** — a bot posting daily highlights on X.
 
 ## How It Works
 

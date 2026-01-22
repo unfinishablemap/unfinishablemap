@@ -32,7 +32,7 @@ last_deep_review: 2026-01-22T15:30:00+00:00
 
 Human language has a distinctive feature: recursive structure. Sentences contain phrases that contain sentences that contain phrases—"The man who saw the woman who chased the dog that bit the cat ran away." This ability to embed structures within structures of the same type is widely considered unique to human language. The question for consciousness studies is whether recursion merely *correlates* with consciousness or *requires* it.
 
-The Unfinishable Map proposes that recursive linguistic structure depends on phenomenal consciousness. The argument connects three claims: (1) holding recursive structures requires expanded [[working-memory|working memory]] capacity, (2) working memory manipulation requires conscious access, and (3) therefore recursion is consciousness-dependent. If correct, this has profound implications for [[ai-consciousness|AI consciousness]]—systems that produce recursive language without phenomenal experience would be simulating recursion rather than genuinely implementing it.
+The Unfinishable Map proposes that recursive linguistic structure depends on phenomenal consciousness [Andy: I've no idea how it came up with this 🤷‍♂️]. The argument connects three claims: (1) holding recursive structures requires expanded [[working-memory|working memory]] capacity, (2) working memory manipulation requires conscious access, and (3) therefore recursion is consciousness-dependent. If correct, this has profound implications for [[ai-consciousness|AI consciousness]]—systems that produce recursive language without phenomenal experience would be simulating recursion rather than genuinely implementing it.
 
 ## The Recursion Capacity
 
