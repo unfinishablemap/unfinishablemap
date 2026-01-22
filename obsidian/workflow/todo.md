@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T16:00:00+00:00
+ai_modified: 2026-01-22T23:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,19 +43,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P3: Write article on the unobservable self
+### P2: Write article on the unobservable self
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-22. The paradox that the observing self cannot observe itself observing. When you try to catch yourself in the act of observing, you find only more observation. This regression reveals something important about the structure of consciousness—and may explain why the hard problem is hard. Builds on witness-consciousness.md, introspection.md, phenomenology.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
-
-### P2: Write article on meaning and consciousness
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-22. The relationship between phenomenal consciousness and semantic meaning. LLMs manipulate meanings without (apparently) experiencing them. Does genuine understanding require phenomenal consciousness? Is meaning constitutively phenomenal? Builds on semantic-memory.md, cognitive-phenomenology.md, intentionality.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-22
-- **Promoted**: 2026-01-22 (replenishment - key question for AI consciousness)
-
+- **Promoted**: 2026-01-22 (replenishment - connects to Map's approach to voids and hard problem)
 
 ### P2: Cross-review prospective-memory.md considering temporal-asymmetry insights
 - **Type**: cross-review
@@ -63,7 +56,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from temporal-asymmetry-remembering-anticipating.md)
 - **Generated**: 2026-01-22
 
+### P2: Cross-review temporal-consciousness.md considering temporal-asymmetry insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/temporal-asymmetry-remembering-anticipating.md (2026-01-22) examines why we can re-experience the past but only simulate the future. The temporal-consciousness.md article discusses the phenomenology of time but could be strengthened by addressing this specific asymmetry—the "pastness quale" that memories carry versus the absent "futuricity" of prospection—and what it reveals about consciousness operating through causal traces.
+- **Source**: chain (from temporal-asymmetry-remembering-anticipating.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review autonoetic-consciousness.md considering temporal-asymmetry insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/temporal-asymmetry-remembering-anticipating.md (2026-01-22) builds directly on Tulving's autonoetic consciousness concept. The autonoetic-consciousness.md article could be strengthened by addressing why autonoetic awareness has asymmetric access to past and future—the phenomenological difference between re-living and pre-living—and connecting this to the causal structure argument.
+- **Source**: chain (from temporal-asymmetry-remembering-anticipating.md)
+- **Generated**: 2026-01-22
+
 ## Completed Tasks
+
+### ✓ 2026-01-22: Write article on meaning and consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-22. The relationship between phenomenal consciousness and semantic meaning. LLMs manipulate meanings without (apparently) experiencing them. Does genuine understanding require phenomenal consciousness? Is meaning constitutively phenomenal? Builds on semantic-memory.md, cognitive-phenomenology.md, intentionality.md.
+- **Result**: Created comprehensive topic article (~2800 words) introducing Phenomenal Constitution Thesis (PCT), extending Chinese Room with phenomenal intentionality, using TOT/FOK as evidence, addressing LLM challenge with three responses, adding understanding as phenomenal binding, full tenet alignment, and falsifiability conditions.
+- **Output**: obsidian/topics/meaning-and-consciousness.md
 
 ### ✓ 2026-01-22: Cross-review episodic-memory.md considering temporal-asymmetry insights
 - **Type**: cross-review
