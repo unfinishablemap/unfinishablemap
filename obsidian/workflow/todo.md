@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T23:55:00+00:00
+ai_modified: 2026-01-22T08:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Cross-review cognitive-phenomenology.md considering temporal-structure insights
-- **Type**: cross-review
-- **Notes**: New article concepts/temporal-structure-of-understanding.md (2026-01-22) explores how understanding unfolds through time—the click of insight, gradual emergence, incubation-insight patterns. The cognitive-phenomenology.md article could be strengthened by connecting temporal phenomenology as evidence for cognitive phenomenology: the fact that understanding has characteristic temporal structure supports the view that thinking has irreducible phenomenal character.
-- **Source**: chain (from temporal-structure-of-understanding.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review temporal-consciousness.md considering temporal-structure-of-understanding insights
 - **Type**: cross-review
 - **Notes**: New article concepts/temporal-structure-of-understanding.md (2026-01-22) provides specific evidence for how temporal phenomenology enables cognitive functions like understanding. The temporal-consciousness.md article could be strengthened by adding understanding as a case where temporal structure does constitutive work—not just accompanying cognition but enabling it.
@@ -74,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review cognitive-phenomenology.md considering temporal-structure insights
+- **Type**: cross-review
+- **Notes**: New article concepts/temporal-structure-of-understanding.md (2026-01-22) explores how understanding unfolds through time—the click of insight, gradual emergence, incubation-insight patterns. The cognitive-phenomenology.md article could be strengthened by connecting temporal phenomenology as evidence for cognitive phenomenology: the fact that understanding has characteristic temporal structure supports the view that thinking has irreducible phenomenal character.
+- **Result**: Added new "The Temporal Structure of Understanding" subsection (~400 words) connecting temporal phenomenology to cognitive phenomenology evidence. Covered the click as non-sensory, gradual emergence phenomenology, temporal binding supporting cognitive phenomenology, and incubation-insight revealing phenomenal contribution. Added temporal-structure-of-understanding and specious-present to concepts frontmatter and Further Reading.
+- **Output**: obsidian/concepts/cognitive-phenomenology.md
 
 ### ✓ 2026-01-22: Write article on consciousness and social cognition
 - **Type**: expand-topic

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-22 01:21:00+00:00
+ai_modified: 2026-01-22 08:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,6 +20,8 @@ concepts:
 - '[[consciousness-as-amplifier]]'
 - '[[language-recursion-and-consciousness]]'
 - '[[working-memory]]'
+- '[[temporal-structure-of-understanding]]'
+- '[[specious-present]]'
 created: 2026-01-16
 date: &id001 2026-01-20
 draft: false
@@ -75,6 +77,22 @@ Recursive parsing requires [working memory](/concepts/working-memory/) manipulat
 Charles Siewert discusses "aha" moments—sudden realizations, remembering where you left your keys. The insight seems to have phenomenal character that precedes any accompanying imagery or emotional response. The sensory states (if any) occur *after* the cognitive event.
 
 [Mathematical insight](/topics/consciousness-and-mathematical-understanding/) provides the paradigm case: mathematicians report sudden solutions arriving fully formed, often after periods of unconscious processing. Henri Poincaré described mathematical breakthroughs appearing while boarding buses or waking from sleep—ideas being "given" rather than calculated. The phenomenal character of mathematical insight is widely attested and notably distinct from mechanical verification.
+
+### The Temporal Structure of Understanding
+
+[The temporal phenomenology of understanding](/concepts/temporal-structure-of-understanding/) provides particularly compelling evidence for cognitive phenomenology because it cannot be reduced to sensory accompaniments. Understanding has characteristic temporal structure: the "click" when comprehension arrives, the gradual accumulation during complex parsing, the sudden illumination after incubation. These temporal features are phenomenal—you experience understanding *unfolding*—yet they are not sensory in the relevant sense.
+
+The temporal argument strengthens the liberalist case:
+
+1. **The click is non-sensory**: When you suddenly grasp why a proof works, the click has phenomenal character—you feel the transition from confusion to clarity. But this transition isn't a sound, image, or bodily sensation. It's the phenomenal character of understanding *arriving*. The suddenness is philosophically significant: if understanding were merely information accumulation, we would expect gradual brightening rather than phase transition. The click suggests qualitative shift in cognitive state.
+
+2. **Gradual emergence has distinctive phenomenology**: Understanding a complex sentence involves experienced accumulation. The weight of maintaining incomplete structure, the anticipation of resolution, the effort of keeping elements accessible—these have phenomenal character that cannot be sensory. You don't hear or see the hierarchical build-up; you *experience* it cognitively.
+
+3. **Temporal binding supports cognitive phenomenology**: The [specious present](/concepts/specious-present/) provides the temporal workspace for understanding. Within that 100-750ms window, separately processed elements achieve phenomenal integration. The click may be the moment of successful binding—elements becoming a unified whole. This binding is experienced as cognitive, not sensory: the phenomenal character is of parts *coming together*, not of any particular sensory quality.
+
+4. **Incubation-insight reveals phenomenal contribution**: After incubation, insights arrive with distinctive phenomenology—givenness, immediate confidence, retroactive illumination of prior confusion. If understanding were purely computational, the incubation-insight pattern would be puzzling. The [amplification hypothesis](/concepts/consciousness-as-amplifier/) suggests consciousness selects among unconsciously generated candidates; the insight is the phenomenal moment of conscious recognition.
+
+The temporal structure argument is harder for conservativists to deflate than static cases. The French/English speaker contrast involves a single moment; perhaps subtle sensory differences explain the phenomenal difference. But the *temporal unfolding* of understanding—the experienced process of comprehending a complex argument—has phenomenal character that persists through time and tracks cognitive, not sensory, structure. The phenomenology of recursive embedding, in particular, reflects structural complexity: deeper embedding creates greater phenomenal load. This load isn't sensory fatigue; it's the felt effort of cognitive integration.
 
 ### Expert Perception
 
@@ -371,6 +389,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 
 ## Further Reading
 
+- [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — How understanding's temporal phenomenology supports cognitive phenomenology
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — Recursive language as evidence that understanding has phenomenal character
 - [working-memory](/concepts/working-memory/) — The maintenance/manipulation distinction and consciousness
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Empirical evidence that consciousness enables rather than merely accompanies cognition
