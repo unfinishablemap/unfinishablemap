@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 08:44:01+00:00
+ai_modified: 2026-01-22 08:58:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,19 +50,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Cross-review animal-consciousness.md considering consciousness-and-social-cognition insights
-- **Type**: cross-review
-- **Notes**: New article concepts/consciousness-and-social-cognition.md (2026-01-22) argues that the gap between great ape and human social cognition tracks consciousness—phenomenal experience enables the metarepresentational operations underlying shared intentionality, explicit theory of mind, and recursive mindreading. The animal-consciousness.md topic could be strengthened by connecting these specific cognitive markers as evidence for the consciousness gap.
-- **Source**: chain (from consciousness-and-social-cognition.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review baseline-cognition.md considering consciousness-and-social-cognition insights
 - **Type**: cross-review
 - **Notes**: New article concepts/consciousness-and-social-cognition.md (2026-01-22) provides detailed analysis of what social cognition achieves without consciousness (the primate baseline) versus with consciousness (human social cognition). The baseline-cognition.md article could be strengthened by adding social cognition as a domain where the baseline/conscious distinction is particularly clear.
 - **Source**: chain (from consciousness-and-social-cognition.md)
 - **Generated**: 2026-01-22
 
+### P2: Cross-review jourdain-hypothesis.md considering consciousness-and-social-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-and-social-cognition.md (2026-01-22) provides evidence that social cognition requiring metarepresentation (explicit theory of mind, shared intentionality) depends on consciousness. The jourdain-hypothesis.md article argues great apes have cognition without knowing they have it—social cognition offers a concrete domain where this procedural/declarative distinction manifests clearly.
+- **Source**: chain (from consciousness-and-social-cognition.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review metacognition.md considering consciousness-and-social-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-and-social-cognition.md (2026-01-22) argues that explicit theory of mind (Level 2+) requires consciousness because it involves metacognitive operations on one's own and others' mental states. The metacognition.md article could be strengthened by adding social metacognition as a domain—monitoring and reasoning about others' mental states, not just one's own.
+- **Source**: chain (from consciousness-and-social-cognition.md)
+- **Generated**: 2026-01-22
+
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review animal-consciousness.md considering consciousness-and-social-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-and-social-cognition.md (2026-01-22) argues that the gap between great ape and human social cognition tracks consciousness—phenomenal experience enables the metarepresentational operations underlying shared intentionality, explicit theory of mind, and recursive mindreading. The animal-consciousness.md topic could be strengthened by connecting these specific cognitive markers as evidence for the consciousness gap.
+- **Result**: Added new "Social Cognition and Theory of Mind Levels" subsection (~250 words) covering the 4-level theory of mind hierarchy, explaining how Levels 0-1 operate within baseline cognition while Level 3 requires consciousness for nested representation manipulation. Connected shared intentionality (recursive mutual awareness) and empathy hierarchy (contagion → cognitive empathy → empathic concern) as evidence for the consciousness gap. Added consciousness-and-social-cognition, metarepresentation, and working-memory to concepts frontmatter and Further Reading.
+- **Output**: obsidian/topics/animal-consciousness.md
 
 ### ✓ 2026-01-22: Cross-review temporal-consciousness.md considering temporal-structure-of-understanding insights
 - **Type**: cross-review
