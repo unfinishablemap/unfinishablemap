@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T10:28:00+00:00
+ai_modified: 2026-01-22T12:05:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,19 +49,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Cross-review metacognition.md considering consciousness-and-social-cognition insights
-- **Type**: cross-review
-- **Notes**: New article concepts/consciousness-and-social-cognition.md (2026-01-22) argues that explicit theory of mind (Level 2+) requires consciousness because it involves metacognitive operations on one's own and others' mental states. The metacognition.md article could be strengthened by adding social metacognition as a domain—monitoring and reasoning about others' mental states, not just one's own.
-- **Source**: chain (from consciousness-and-social-cognition.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review self-and-consciousness.md considering unobservable-self insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/the-unobservable-self.md (2026-01-22) explores why the observing self cannot observe itself observing—the regression of attention reveals a structural feature of consciousness. The self-and-consciousness.md article discusses minimal self and narrative self but could be strengthened by connecting the unobservable self as a third dimension: the self that does the observing is structurally inaccessible in a way that differs from both the pre-reflective minimal self and the reflective narrative self.
 - **Source**: chain (from the-unobservable-self.md)
 - **Generated**: 2026-01-22
 
+### P2: Cross-review problem-of-other-minds.md considering theory-of-mind insights
+- **Type**: cross-review
+- **Notes**: New article concepts/theory-of-mind.md (2026-01-22) presents the levels hierarchy (Level 0-3+) for theory of mind capacities. The problem-of-other-minds.md article discusses how we know other minds exist but could be strengthened by connecting the ToM levels framework—our confidence that others have minds may track our ToM level: Level 1 (perceptual) gives weaker grounds than Level 3 (recursive) which enables rich mutual modelling.
+- **Source**: chain (from theory-of-mind.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review ai-consciousness.md considering theory-of-mind insights
+- **Type**: cross-review
+- **Notes**: New article concepts/theory-of-mind.md (2026-01-22) presents the metarepresentational threshold—Levels 0-1 may operate without consciousness while Level 3+ requires it. The ai-consciousness.md article discusses whether AI systems are conscious but could be strengthened by applying the ToM levels framework: do LLMs demonstrate genuine Level 2+ theory of mind or sophisticated Level 1 behaviour reading? This provides concrete testable predictions.
+- **Source**: chain (from theory-of-mind.md)
+- **Generated**: 2026-01-22
+
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review metacognition.md considering consciousness-and-social-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-and-social-cognition.md (2026-01-22) argues that explicit theory of mind (Level 2+) requires consciousness because it involves metacognitive operations on one's own and others' mental states. The metacognition.md article could be strengthened by adding social metacognition as a domain—monitoring and reasoning about others' mental states, not just one's own.
+- **Result**: Added new "Social Metacognition: Thinking About Others' Thinking" section (~700 words) covering: theory of mind as social metacognition with Level 0-3 comparison table, the nested binding requirement for recursive social cognition, empathy as affective social metacognition (contagion → cognitive empathy → empathic concern), and implications for the consciousness-metacognition relationship. Added consciousness-and-social-cognition, theory-of-mind, emotional-consciousness, phenomenal-unity, and working-memory to concepts frontmatter and top of Further Reading.
+- **Output**: obsidian/concepts/metacognition.md
 
 ### ✓ 2026-01-22: Write concept article on theory of mind
 - **Type**: expand-topic
