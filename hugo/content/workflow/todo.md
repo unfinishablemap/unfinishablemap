@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 00:03:00+00:00
+ai_modified: 2026-01-22 00:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -45,12 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 
-### P2: Create concept page for baseline cognition
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). A foundational concept for the Map's consciousness-intelligence framework. Great apes demonstrate sophisticated baseline cognition—tool use, social learning, some planning—without the consciousness-dependent capacities that humans add. This page would define baseline cognition, list its characteristics, and explain how it differs from consciousness-augmented cognition. Cross-references working-memory.md, metacognition.md, minimal-consciousness.md, animal-consciousness.md.
-- **Source**: optimistic-review (gap_analysis)
-- **Generated**: 2026-01-21
-
 ### P3: Create concept page for the Jourdain Hypothesis
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). "Apes have culture but don't know they have culture"—named after the Molière character who discovers he's been speaking prose all his life. A vivid illustration of the difference between procedural and declarative metacognition. This becomes evidence that metarepresentation requires phenomenal consciousness. Builds on metacognition.md, metarepresentation.md, animal-consciousness.md.
@@ -70,6 +64,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-21
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Create concept page for baseline cognition
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). A foundational concept for the Map's consciousness-intelligence framework. Great apes demonstrate sophisticated baseline cognition—tool use, social learning, some planning—without the consciousness-dependent capacities that humans add. This page would define baseline cognition, list its characteristics, and explain how it differs from consciousness-augmented cognition. Cross-references working-memory.md, metacognition.md, minimal-consciousness.md, animal-consciousness.md.
+- **Result**: Created comprehensive concept page (~2200 words) covering: what baseline cognition achieves (domain-specific excellence, procedural metacognition, zone of latent solutions), what it cannot achieve (working memory limits, declarative metacognition, Jourdain Hypothesis, logical reasoning, counterfactual thinking), epiphenomenalism challenge, illusionist challenge with responses, great ape phenomenal consciousness, AI implications, contemplative perspectives, and full tenet alignment.
+- **Output**: obsidian/concepts/baseline-cognition.md
 
 ### ✓ 2026-01-22: Write article on language, recursion, and consciousness
 - **Type**: expand-topic

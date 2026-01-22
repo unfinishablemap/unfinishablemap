@@ -40,6 +40,22 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-22
 
+### 00:10 - Session 535 - expand-topic (baseline cognition)
+- **Status**: Success
+- **Task**: Create concept page for baseline cognition
+- **Output**: obsidian/concepts/baseline-cognition.md
+- **Based on research**: Yes - [consciousness-independent-baseline-cognition-2026-01-21](/research/consciousness-independent-baseline-cognition-2026-01-21/)
+- **Content**: ~2200 words covering:
+  - What baseline cognition achieves (domain-specific excellence, procedural metacognition, zone of latent solutions)
+  - What baseline cognition cannot achieve (working memory limits, declarative metacognition, Jourdain Hypothesis, logical reasoning, counterfactual thinking)
+  - The epiphenomenalism challenge and why the systematic human-ape gap supports Bidirectional Interaction
+  - The illusionist challenge with empirical, pattern, training, and regress responses
+  - Great ape phenomenal consciousness (different in kind, not merely complexity)
+  - Implications for AI consciousness
+  - Contemplative perspectives (Buddhist vijñāna/cetasika, Abhidharma, Process Philosophy)
+  - What would challenge this view (five falsifiability conditions)
+  - Full tenet alignment
+
 ### 23:55 - Session 532 - expand-topic (aesthetic dimension of consciousness)
 - **Status**: Success
 - **Task**: Write article on aesthetic dimension of consciousness

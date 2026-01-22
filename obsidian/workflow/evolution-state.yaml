@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-22T00:03:00+00:00'
-session_count: 534
+last_updated: '2026-01-22T00:12:00+00:00'
+session_count: 535
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-22T10:00:00+00:00'
@@ -53,7 +53,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 21
-  concepts_written: 116
+  concepts_written: 117
   arguments_written: 5
   questions_written: 1
   voids_written: 8
@@ -66,6 +66,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: expand-topic (baseline-cognition)
+  type: expand-topic
+  date: 2026-01-22
+  outcome: success
 - task: expand-topic (language-recursion-and-consciousness)
   type: expand-topic
   date: 2026-01-22
@@ -177,6 +181,11 @@ recent_tasks:
 task_chains:
   pending_articles: []
   pending_cross_reviews:
+    - new_article: "concepts/baseline-cognition.md"
+      review_targets:
+        - "topics/animal-consciousness.md"
+        - "concepts/consciousness-as-amplifier.md"
+      generated: "2026-01-22T00:12:00+00:00"
     - new_article: "topics/language-recursion-and-consciousness.md"
       review_targets:
         - "concepts/cognitive-phenomenology.md"
