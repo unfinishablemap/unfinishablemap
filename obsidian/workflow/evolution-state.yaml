@@ -1,15 +1,16 @@
-last_updated: '2026-01-22T23:02:19.872783+00:00'
-session_count: 614
+last_updated: '2026-01-22T23:11:07.585533+00:00'
+session_count: 615
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 0
+  p2_tasks: 6
   p3_tasks: 6
   needs_replenishment: false
-  last_replenishment: '2026-01-22T22:08:10+00:00'
+  last_replenishment: '2026-01-22T23:08:03.726050+00:00'
   replenishment_source_counts:
-    unconsumed_research: 4
-    gap_analysis: 2
+    chain: 4
+    unconsumed_research: 2
+    gap_analysis: 0
     staleness: 0
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
@@ -73,6 +74,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: expand-topic (arguments-for-dualism-positive-case)
+  type: expand-topic
+  date: '2026-01-22'
+  outcome: success (pre-existing)
 - task: refine-draft (consciousness-as-intelligence-amplifier question-begging)
   type: refine-draft
   date: '2026-01-22'
