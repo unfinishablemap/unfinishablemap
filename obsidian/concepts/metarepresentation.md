@@ -3,12 +3,13 @@ title: "Metarepresentation and Phenomenal Consciousness"
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-22T08:00:00+00:00
+ai_modified: 2026-01-22T14:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
 concepts:
+  - "[[theory-of-mind]]"
   - "[[metacognition]]"
   - "[[cognitive-phenomenology]]"
   - "[[minimal-consciousness]]"
@@ -51,6 +52,22 @@ Metarepresentation involves three nested levels:
 The third level is crucial. Many animals show evidence of second-order states: uncertainty monitoring, strategic information-seeking, adjusting confidence. But these might operate procedurally—functional states that guide behaviour without explicit representation of themselves as mental states. Metarepresentation requires treating your mental states as the kind of thing that *can* be represented, examined, and evaluated.
 
 The [[phenomenology-of-choice|phenomenology of deliberate choice]] illustrates this structure. When you genuinely choose between options, you represent your possible actions as possible actions—not merely act on the strongest impulse but stand back from the options, recognise them as alternatives you could take, and select among them. This choosing-as-metarepresentation distinguishes human deliberation from sophisticated animal behaviour. The ape may have preferences; the human recognises having preferences and can take them as objects of further evaluation.
+
+### Theory of Mind Levels and Metarepresentational Demands
+
+[[theory-of-mind|Theory of mind]] admits of levels, and mapping these levels to metarepresentational demands clarifies what consciousness contributes. The framework distinguishes:
+
+**Level 0 (Behaviour Prediction)**: Predicting action from observable regularities. No mental state attribution, no metarepresentation required. Associative learning suffices.
+
+**Level 1 (Perception Attribution)**: Understanding what others see. Great apes pass Level 1 tests—tracking gaze, understanding barriers. But Level 1 may operate through geometric tracking (she-barrier-object relations) without representing perceptual states *as* mental states. First-order processing may suffice.
+
+**Level 2 (Belief Attribution)**: Understanding that others have beliefs that may differ from reality. Here metarepresentation enters. To predict someone will act on a *false* belief, you must represent their belief as a belief—as a representation that could be wrong. This requires standing back from the belief itself to grasp it as a mental state subject to evaluation. First-order metarepresentation: representing beliefs AS beliefs.
+
+**Level 3+ (Recursive Mindreading)**: "She thinks that I think the food is hidden." Nested attribution requires second-order metarepresentation—representing others' metarepresentations. You must hold your belief, their belief about your belief, and your awareness of that relationship simultaneously. The binding requirement intensifies: multiple representational levels must remain distinct yet unified.
+
+The hierarchy maps onto working memory demands. Level 1 may require only tracking one relationship (agent-object). Level 2 requires tracking a representation of the world versus the world itself (2+ items). Level 3+ requires tracking nested representations (3+ items) while keeping each level distinct. The human-great ape working memory gap (7±2 versus 2±1 items) may explain where the metarepresentational threshold falls.
+
+This framework predicts: where theory of mind fails in great apes should correlate with where metarepresentation fails. The evidence confirms this. Great apes show robust Level 1 (perception tracking) and contested Level 2 (belief understanding remains debated), but no clear evidence of Level 3 (recursive mindreading). The pattern suggests the metarepresentational threshold lies between Levels 1 and 2—precisely where consciousness-dependent operations begin.
 
 ### Teaching as Paradigm Case
 
@@ -257,6 +274,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 
 ## Further Reading
 
+- [[theory-of-mind]] — Levels 0-3+ and the metarepresentational threshold
 - [[teaching-as-metarepresentation]] — Teaching as the paradigm case of metarepresentation
 - [[baseline-cognition]] — What cognition achieves without metarepresentation, and why the difference matters
 - [[metacognition]] — The enabling relation between consciousness and self-monitoring
