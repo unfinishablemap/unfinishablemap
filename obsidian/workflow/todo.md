@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Cross-review introspection.md considering unobservable-self insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/the-unobservable-self.md (2026-01-22) argues that the observer cannot observe itself observing, explaining why the hard problem is hard. The introspection.md article discusses first-person methods and could be strengthened by addressing this as a principled limit on introspective access—not just unreliability of process reports, but the structural impossibility of catching the catcher.
-- **Source**: chain (from the-unobservable-self.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review intentionality.md considering meaning-and-consciousness insights
 - **Type**: cross-review
 - **Notes**: New topic article topics/meaning-and-consciousness.md (2026-01-22) introduces the Phenomenal Constitution Thesis—that meaning is constitutively phenomenal, not merely accompanied by phenomenology. The intentionality.md article discusses aboutness and phenomenal intentionality, and could be strengthened by connecting to PCT's claim that semantic content and experiential character are inseparable.
@@ -62,6 +56,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review introspection.md considering unobservable-self insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/the-unobservable-self.md (2026-01-22) argues that the observer cannot observe itself observing, explaining why the hard problem is hard. The introspection.md article discusses first-person methods and could be strengthened by addressing this as a principled limit on introspective access—not just unreliability of process reports, but the structural impossibility of catching the catcher.
+- **Result**: Added new "The Unobservable Self: Introspection's Deepest Limit" section (~500 words) covering: the regression of attention, difference from process/content distinction, Hume's empirical observation, the grasping-hand analogy, implications for why the hard problem is structurally hard, why training reaches a principled limit, and the structural root of the calibration problem. Added the-unobservable-self to concepts frontmatter and top of Further Reading.
+- **Output**: obsidian/concepts/introspection.md
 
 ### ✓ 2026-01-22: Cross-review witness-consciousness.md considering unobservable-self insights
 - **Type**: cross-review
