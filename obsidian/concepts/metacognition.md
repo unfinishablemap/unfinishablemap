@@ -3,12 +3,13 @@ title: "Metacognition and Consciousness"
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-21T21:50:00+00:00
+ai_modified: 2026-01-22T03:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
 concepts:
+  - "[[jourdain-hypothesis]]"
   - "[[higher-order-theories]]"
   - "[[introspection]]"
   - "[[dreams-and-consciousness]]"
@@ -21,6 +22,8 @@ concepts:
   - "[[phenomenology-of-error-recognition]]"
   - "[[metarepresentation]]"
   - "[[consciousness-as-amplifier]]"
+  - "[[baseline-cognition]]"
+  - "[[cumulative-culture]]"
 related_articles:
   - "[[tenets]]"
   - "[[metacognition-consciousness-2026-01-18]]"
@@ -186,11 +189,26 @@ Metacognition—as evidenced in rats, primates, and other animals—may operate 
 
 ### The Jourdain Hypothesis
 
-Andrew Whiten (2015) articulates what might be called the Jourdain Hypothesis, after Molière's character who discovered he had been speaking prose all his life without knowing it. Great apes may have culture—tool-use traditions, grooming patterns, food preferences that vary between groups—but not *know* they have culture.
+The [[jourdain-hypothesis|Jourdain Hypothesis]], named after Monsieur Jourdain in Molière's *Le Bourgeois Gentilhomme* who discovered to his astonishment that he had been speaking prose all his life, captures a crucial cognitive distinction. Andrew Whiten (2015) applies this pattern to great ape culture: apes may *have* culture—tool-use traditions, grooming patterns, food preferences that vary between groups—but not *know* they have culture.
 
-The apes possess metacognition: they monitor uncertainty, seek information strategically, recognise themselves in mirrors. But they may lack metarepresentation: the ability to represent their practices *as practices*, their knowledge *as knowledge*, their beliefs *as beliefs*. The distinction explains why great ape cultures persist but rarely accumulate: without representing practices as modifiable representations, deliberate improvement is impossible.
+The distinction rests on two kinds of metacognition:
+
+| Type | Definition | Great Apes | Humans |
+|------|------------|------------|--------|
+| **Procedural** | Implicit feelings that guide behaviour | Yes | Yes |
+| **Declarative** | Explicit knowledge of mental states | Limited/Absent | Yes |
+
+Procedural metacognition involves feelings that influence action without being objects of explicit awareness. A chimpanzee might *feel* uncertain about which container holds food and therefore seek more information. The uncertainty functions adaptively—it guides appropriate behaviour. But the chimpanzee may not represent that uncertainty *as* uncertainty, cannot think "I don't know which container has the food." Declarative metacognition involves explicit representation of one's own mental states—knowing that you know, or knowing that you're uncertain.
+
+The evidence supporting this distinction includes:
+- **Cultural stability**: Great ape traditions show remarkable stability but little cumulative improvement—consistent with functional culture without metarepresentational awareness
+- **Teaching asymmetry**: Active pedagogy requires knowing that you know something the learner doesn't; great apes rarely teach in this sense
+- **Theory of mind limits**: Great apes show clearer evidence for Level 1 (understanding what others perceive) than Level 2 (understanding that others' perspectives can differ from your own)
+- **Tip-of-the-tongue contrast**: Humans can assess features of unretrieved knowledge—it starts with 'M', has three syllables—requiring metarepresentation of knowledge states; no analogous phenomenon has been documented in great apes
 
 This dissociation—metacognition without metarepresentation—reinforces the Map's framework. Metacognition is a cognitive capacity widespread in the animal kingdom. Metarepresentation may require the expanded phenomenal workspace that distinguishes human consciousness, particularly the [[working-memory|working memory]] capacity to hold multiple representational levels simultaneously. Rats can monitor uncertainty; only humans seem to know they have minds that could be wrong.
+
+The Jourdain transition—from procedural to declarative metacognition—may mark the boundary between [[baseline-cognition|baseline]] and consciousness-amplified cognition. If this transition requires phenomenal consciousness (if you cannot know that you know without experiencing that knowing), then consciousness causally enables [[cumulative-culture|cumulative culture]], explicit reasoning, and deliberate self-improvement.
 
 ### Metacognition in the Amplification Framework
 
@@ -264,6 +282,9 @@ The Map's framework accommodates this: consciousness provides phenomenal content
 
 ## Further Reading
 
+- [[jourdain-hypothesis]] — The distinction between having mental states and knowing you have them, with implications for great ape cognition and AI assessment
+- [[baseline-cognition]] — What cognition achieves without declarative metacognition
+- [[cumulative-culture]] — Why cultural ratcheting requires the Jourdain transition
 - [[consciousness-as-amplifier]] — How consciousness enables the human cognitive leap through metacognition and other capacities
 - [[metarepresentation]] — The critical distinction between monitoring cognition and representing representations as representations
 - [[higher-order-theories]] — The view that confuses metacognition with consciousness
