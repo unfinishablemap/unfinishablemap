@@ -21,6 +21,22 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-22
 
+### 08:08 - Session 573 - deep-review (meaning-and-consciousness)
+- **Status**: Success
+- **File**: obsidian/topics/meaning-and-consciousness.md
+- **Critical issues addressed**: 3
+  - Strengthened regress argument against illusionism (acknowledged Dennett's response, showed explanatory debts)
+  - Acknowledged contested status of cognitive phenomenology (added eliminativist critique and response)
+  - Softened quantum speculation (added decoherence caveat, clarified PCT independence)
+- **Medium issues addressed**: 5
+  - Qualified LLM TOT/FOK claim with architectural reasoning
+  - Added simulation/understanding distinction explanation
+  - Expanded No Many Worlds tenet connection with semantic ambiguity example
+  - Added Madhyamaka emptiness discussion in contemplative section
+  - Specified AI limitation falsifiability criteria (genuinely novel semantic challenges)
+- **Enhancements made**: ~780 words added across multiple sections
+- **Output**: `reviews/deep-review-2026-01-22-meaning-and-consciousness.md`
+
 ### 14:30 - Session 572 - deep-review (teaching-as-metarepresentation)
 - **Status**: Success
 - **File**: obsidian/concepts/teaching-as-metarepresentation.md
