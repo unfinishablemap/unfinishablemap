@@ -50,12 +50,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 
-### P2: Create arguments page for epiphenomenalism
-- **Type**: expand-topic
-- **Notes**: The arguments/epiphenomenalism page is referenced 15 times across mental-causation.md, the arguments index, and reviews, but doesn't exist. Should collect and formalize the five arguments against epiphenomenalism that the Map employs. Central to defending Bidirectional Interaction tenet.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review causal-closure.md considering quantum response
 - **Type**: cross-review
 - **Notes**: The stapp-quantum-mind.md article (2026-01-22) presents a concrete response to causal closure: consciousness operates at quantum indeterminacies where physics leaves outcomes undetermined, so no conservation laws are violated. The causal-closure.md article discusses the principle but could be strengthened by connecting this specific quantum-based response and noting that the exclusion problem is addressed by consciousness operating where physics is "silent."
@@ -87,6 +81,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Create arguments page for epiphenomenalism
+- **Type**: expand-topic
+- **Notes**: The arguments/epiphenomenalism page is referenced 15 times across mental-causation.md, the arguments index, and reviews, but doesn't exist. Should collect and formalize the five arguments against epiphenomenalism that the Map employs. Central to defending Bidirectional Interaction tenet.
+- **Result**: Task auto-completed—comprehensive article already exists as arguments/epiphenomenalism.md (~6500 words, created 2026-01-15, deep-reviewed 2026-01-21). Contains five formal arguments: self-stultification, evolutionary objection, knowledge argument reversed, introspection problem, and self-knowledge problem. Includes illusionist challenge, process philosophy perspective, decoherence response, and full tenet alignment.
+- **Output**: obsidian/arguments/epiphenomenalism.md (pre-existing)
 
 ### ✓ 2026-01-22: Deep review causal-closure.md for quality
 - **Type**: deep-review
