@@ -3,11 +3,12 @@ title: "Dualism"
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T08:50:00+00:00
+ai_modified: 2026-01-22T20:46:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
+  - "[[stapp-quantum-mind]]"
   - "[[materialism]]"
   - "[[interactionist-dualism]]"
   - "[[substance-property-dualism]]"
@@ -20,12 +21,12 @@ concepts:
   - "[[intuitive-dualism]]"
 related_articles:
   - "[[tenets]]"
-ai_contribution: 90
+ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-01-19T08:50:00+00:00
+last_deep_review: 2026-01-22T20:46:31+00:00
 ---
 
 Dualism holds that reality contains more than just physical matter—consciousness or mind is something distinct that cannot be fully explained by physics. This is the first of The Unfinishable Map's [[tenets#^dualism|five foundational commitments]]. The position is supported by multiple independent arguments: the [[explanatory-gap]] between physical description and subjective experience, the conceivability of [[philosophical-zombies]], the [[knowledge-argument|knowledge argument]] (Mary's Room), and the intrinsic character of [[qualia]]. These arguments converge on a single conclusion: consciousness has features that physical description cannot capture.
@@ -64,13 +65,15 @@ Multiple independent arguments support the dualist conclusion. Their convergence
 
 ### The Explanatory Gap
 
-Joseph Levine's [[explanatory-gap]] identifies a structural problem: physical explanations describe how parts relate and systems behave, but subjective experience has qualitative, intrinsic character. No relational or dispositional description entails what red *looks like*. The gap isn't epistemic (we just don't know enough) but conceptual—physical description and phenomenal reality are different kinds of thing.
+Joseph Levine's [[explanatory-gap]] identifies a structural problem: physical explanations describe how parts relate and systems behave, but subjective experience has qualitative, intrinsic character. No relational or dispositional description entails what red *looks like*. The gap isn't epistemic (we just don't know enough) but conceptual—the kinds of concepts physical science employs (structural, functional, relational) cannot in principle capture subjective character. This isn't a matter of needing better equations or more complete neuroscience. The concepts are of different types: physical description characterizes structure and behavior, while phenomenal reality has intrinsic qualitative character.
 
 ### The Conceivability Argument
 
 We can coherently conceive of [[philosophical-zombies]]—beings physically identical to us but lacking conscious experience. Unlike scientific identities (water = H₂O), phenomenal concepts give us direct access to their referents. When we conceive of zombies, we don't merely *describe* a scenario—we positively grasp a world where all physical facts obtain and phenomenal facts do not.
 
 If zombies are conceivable, they are metaphysically possible. If they are possible, consciousness is not necessitated by physical facts.
+
+Some philosophers (notably Dennett) argue zombies are actually inconceivable—that once we fully specify all physical and functional details, consciousness is thereby specified. But this response assumes what it needs to prove: that functional/physical specification exhausts what needs specifying. The zombie argument's force comes from our ability to grasp—not just describe—the qualitative difference between experience and its absence while holding all functional facts fixed.
 
 ### The Knowledge Argument
 
@@ -98,7 +101,9 @@ The Map's framework commits to interactionism, with the [[tenets#^minimal-quantu
 
 ### The Interaction Problem
 
-If mind is non-physical, how can it causally affect the physical world? Classical objections (Princess Elizabeth to Descartes, Leibniz on conservation laws) seemed devastating when physics was deterministic. But quantum mechanics reopens possibilities: at quantum indeterminacies, physics specifies probabilities, not outcomes. Consciousness could select among possibilities without injecting energy. See [[objections-to-interactionism]] for detailed treatment.
+If mind is non-physical, how can it causally affect the physical world? Classical objections (Princess Elizabeth to Descartes, Leibniz on conservation laws) seemed devastating when physics was deterministic. But quantum mechanics reopens possibilities: at quantum indeterminacies, physics specifies probabilities, not outcomes. Consciousness could select among possibilities without injecting energy.
+
+The leading candidate mechanism is [[stapp-quantum-mind|Stapp's quantum Zeno effect]]: repeated attention-driven observations bias superposition collapse toward particular outcomes without adding energy, only information. The objection that warm, noisy brains can't maintain quantum coherence misunderstands the proposal—consciousness doesn't require long-lived superposition but operates on the timescale where quantum processes influence neural firing (sub-millisecond). See [[objections-to-interactionism]] for detailed treatment.
 
 ### The Parsimony Objection
 
@@ -112,19 +117,28 @@ Doesn't neuroscience show that consciousness is just brain activity? Every menta
 
 Paul Bloom argued humans are "natural-born dualists" due to separate cognitive systems for physics and psychology—implying dualism is a cognitive bias to be outgrown. But Barrett et al.'s 2021 cross-cultural study found most people actually default to intuitive *materialism*, expecting mental states to cease at death. The cognitive science is contested, and more fundamentally, cognitive naturalness doesn't determine truth. See [[intuitive-dualism]] for the full debate.
 
+### The Eliminativist Challenge
+
+A more radical objection: perhaps "consciousness" and "subjective experience" don't refer to anything real—they're confused folk categories like "élan vital" destined for elimination as neuroscience advances. If phenomenal concepts are malformed, zombie and knowledge arguments collapse.
+
+But this strategy is self-undermining in a way eliminative materialism about other entities is not. We might discover that "witches don't exist" because the concept is incoherent. But we cannot coherently discover that "experiences don't exist"—the discovery would itself be an experience. As Searle noted, consciousness has a first-person ontology that makes elimination impossible. We can revise our *theories* about consciousness, but we cannot deny the phenomenon whose existence is given immediately in awareness.
+
 ## Relation to the Map's Perspective
 
 Dualism is the Map's first foundational commitment—the [[tenets#^dualism|Dualism tenet]] states that consciousness is not reducible to physical processes.
 
 This commitment is not arbitrary but grounded in the convergence of arguments: the explanatory gap, conceivability arguments, the knowledge argument, and the intrinsic character of qualia all point the same direction. [[Materialism]] in all its forms—reductive physicalism, functionalism, eliminativism—fails to bridge the gap between physical description and subjective experience.
 
-Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, the Map holds [[interactionist-dualism]]—consciousness is distinct *and* causally efficacious. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies the interface: quantum indeterminacies where physics leaves outcomes undetermined.
+Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, the Map holds [[interactionist-dualism]]—consciousness is distinct *and* causally efficacious. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies the interface: quantum indeterminacies where physics leaves outcomes undetermined. This combination preserves what matters for human agency and moral responsibility—our choices genuinely influence outcomes, not just in appearance but in reality.
 
-This framework is not a retreat to mystery. The interaction has a candidate mechanism (quantum selection via the Zeno effect or similar). The empirical findings (neural correlates) are predicted and explained. The position is coherent, parsimonious where parsimony matters (not positing unobserved forces), and takes seriously the one thing we know most directly: our own conscious experience.
+This framework is not a retreat to mystery. The interaction has a candidate mechanism ([[stapp-quantum-mind|Stapp's quantum Zeno effect]]). The empirical findings (neural correlates, the efficacy of attention, voluntary action) are predicted and explained. The position is coherent, parsimonious where parsimony matters (not positing unobserved forces), and takes seriously the one thing we know most directly: our own conscious experience.
+
+What would count as evidence against dualism? If future neuroscience provided a structural account of subjective character—explaining not just neural correlates but *why* particular brain states feel the way they do—the explanatory gap would close. If zombie scenarios turned out conceptually incoherent under analysis, conceivability arguments would fail. If all apparent voluntary action could be predicted from prior physical states with no indeterminacy, interactionist dualism would lose its interface. The position is empirically vulnerable, not metaphysically protected.
 
 ## Further Reading
 
 - [[interactionist-dualism]] — the Map's position combining dualism with causal interaction
+- [[stapp-quantum-mind]] — Stapp's quantum Zeno mechanism as concrete proposal for mind-matter interaction
 - [[substance-property-dualism]] — The two main ontological frameworks for dualism
 - [[arguments-for-dualism]] — Comprehensive treatment of the positive case
 - [[objections-to-interactionism]] — Major objections and detailed responses
