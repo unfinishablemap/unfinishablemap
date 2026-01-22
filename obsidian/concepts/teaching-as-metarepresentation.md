@@ -19,7 +19,6 @@ concepts:
   - "[[working-memory]]"
   - "[[illusionism]]"
   - "[[global-workspace-theory]]"
-  - "[[process-philosophy]]"
   - "[[free-will]]"
 related_articles:
   - "[[tenets]]"
@@ -167,7 +166,7 @@ If teaching genuinely requires metarepresentation, and metarepresentation requir
 
 ## Process Philosophy Perspective
 
-From a [[process-philosophy|Process Philosophy]] perspective, teaching exemplifies the transmission of experience across actual occasions. Whitehead's notion of *causal efficacy*—the way past experiences shape present ones—illuminates how understanding passes from teacher to learner. The teacher's understanding, as a complex of actual occasions, exerts causal influence on the learner's emerging occasions of experience.
+From a Process Philosophy perspective, teaching exemplifies the transmission of experience across actual occasions. Whitehead's notion of *causal efficacy*—the way past experiences shape present ones—illuminates how understanding passes from teacher to learner. The teacher's understanding, as a complex of actual occasions, exerts causal influence on the learner's emerging occasions of experience.
 
 Teaching is not the transfer of static information but the temporal unfolding of one subject's understanding into another's becoming. The teacher's *presentational immediacy*—their vivid conscious grasp of the subject matter—must somehow reach across the gap between subjects to affect the learner's prehensions. This intersubjective transmission of experience is precisely what makes teaching more than information transfer: it requires that experiential understanding in one subject causally shapes experiential understanding in another.
 
@@ -221,7 +220,6 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[consciousness-as-amplifier]] — How consciousness enhances cognitive capacity
 - [[working-memory]] — The capacity constraints on teaching
 - [[global-workspace-theory]] — How conscious access enables cognitive integration
-- [[process-philosophy]] — The temporal structure of experience transmission
 - [[free-will]] — The deliberate choices teaching requires
 - [[animal-consciousness]] — The great ape comparison
 

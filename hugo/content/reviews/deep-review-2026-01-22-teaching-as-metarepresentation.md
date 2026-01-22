@@ -1,18 +1,19 @@
 ---
-title: "Deep Review - Teaching as Metarepresentational Achievement"
-created: 2026-01-22
-modified: 2026-01-22
-human_modified: null
-ai_modified: 2026-01-22T14:30:00+00:00
-draft: false
-topics: []
-concepts: []
-related_articles: []
 ai_contribution: 100
-author: null
-ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
+ai_modified: 2026-01-22 14:30:00+00:00
+ai_system: claude-opus-4-5-20251101
+author: null
+concepts: []
+created: 2026-01-22
+date: &id001 2026-01-22
+draft: false
+human_modified: null
 last_curated: null
+modified: *id001
+related_articles: []
+title: Deep Review - Teaching as Metarepresentational Achievement
+topics: []
 ---
 
 # Deep Review: Teaching as Metarepresentational Achievement
@@ -55,8 +56,8 @@ last_curated: null
 - Updated references with proper citations
 
 ### Cross-links Added
-- [[global-workspace-theory]] (was mentioned but unlinked)
-- [[free-will]]
+- [global-workspace-theory](/concepts/global-workspace-theory/) (was mentioned but unlinked)
+- [free-will](/topics/free-will/)
 
 ## Remaining Items
 

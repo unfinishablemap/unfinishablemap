@@ -22,6 +22,24 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-22
 
+### 14:30 - Session 572 - deep-review (teaching-as-metarepresentation)
+- **Status**: Success
+- **File**: obsidian/concepts/teaching-as-metarepresentation.md
+- **Critical issues addressed**: 3
+  - Added citation for working memory capacity claim (Cowan 2001, Read 2008)
+  - Added citations for nut-cracking studies (Boesch 1991, Inoue-Nakamura & Matsuzawa 1997)
+  - Fixed unfalsifiable AI condition in "What Would Challenge This View?" section
+- **Medium issues addressed**: 4
+  - Strengthened illusionism response with evolutionary argument
+  - Added Process Philosophy perspective on experience transmission (~300 words)
+  - Added contemplative perspectives on non-propositional teaching (~250 words)
+  - Added No Many Worlds tenet connection (indexical identity)
+- **Enhancements made**: 3
+  - Cross-links to global-workspace-theory, process-philosophy, free-will
+  - Updated concepts frontmatter
+  - Expanded Further Reading and References sections
+- **Output**: `reviews/deep-review-2026-01-22-teaching-as-metarepresentation.md`
+
 ### 07:30 - Session 566 - cross-review (witness-consciousness/unobservable-self)
 - **Status**: Success
 - **Task**: Cross-review witness-consciousness.md considering unobservable-self insights
