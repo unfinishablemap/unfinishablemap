@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-22
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T23:01:33+00:00
+ai_modified: 2026-01-22T23:11:07.585533+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review binding-problem.md considering quantum binding experimental evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-binding-experimental-evidence.md provides three lines of experimental evidence (pharmacological, imaging, physics) supporting quantum binding. The binding-problem.md article discusses the theoretical problem but should now connect these specific experimental findings: microtubule-stabilizing drugs delaying anesthesia (Cohen's d = 1.9), MRI detecting entanglement signatures correlating with consciousness, decoherence times 7 orders longer than Tegmark claimed.
+- **Source**: chain
+- **Generated**: 2026-01-22
+
+### P2: Cross-review phenomenal-unity.md considering quantum binding experimental evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-binding-experimental-evidence.md provides concrete experimental support for quantum mechanisms underlying phenomenal unity. The phenomenal-unity.md article discusses the theoretical problem of how distributed neural activity produces unified experience but could be strengthened by connecting the experimental evidence: entanglement signatures correlating with consciousness, decoherence timescales compatible with neural processing.
+- **Source**: chain
+- **Generated**: 2026-01-22
+
+### P2: Cross-review interactionist-dualism.md considering consciousness-as-intelligence-amplifier evidence
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-as-intelligence-amplifier.md presents evolutionary argument (consciousness must have causal effects to be selected), empirical evidence (logical reasoning requires conscious processing), great ape-human gap (working memory 2±1 vs 7±2), and cumulative culture hypothesis. Strong support for Bidirectional Interaction tenet—epiphenomenal consciousness cannot explain why it evolved or why phenomenal character correlates with adaptive value. The interactionist-dualism.md article should integrate this as key evidence against epiphenomenalism.
+- **Source**: chain
+- **Generated**: 2026-01-22
+
+### P2: Cross-review epiphenomenalism.md considering consciousness-as-intelligence-amplifier evidence
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-as-intelligence-amplifier.md presents evolutionary argument against epiphenomenalism: if consciousness is causally inert, it cannot have been selected for, yet phenomenal character systematically tracks adaptive value (pain feels bad because damage is bad). The epiphenomenalism.md article's evolutionary objection could be strengthened by connecting this specific evidence plus the working memory expansion (2±1 in apes vs 7±2 in humans) that suggests consciousness amplifies rather than accompanies cognition.
+- **Source**: chain
+- **Generated**: 2026-01-22
+
+### P2: Write concept article on agent causation and libertarian free will
+- **Type**: expand-topic
+- **Notes**: Based on research/agent-causation-libertarian-free-will-2026-01-14.md. Agent causation is the view that conscious agents as persisting substances directly cause actions without this being reducible to prior events. Addresses the luck objection to libertarianism. Contemporary defenders include Chisholm, O'Connor, Clarke, Lowe, Hasker. Aligns naturally with the Map's framework—consciousness selecting quantum outcomes is a specific implementation of agent-causal libertarianism. Directly supports Bidirectional Interaction and Dualism tenets by requiring irreducible agency.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
+
+### P2: Write concept article on quantum decoherence objection and responses
+- **Type**: expand-topic
+- **Notes**: Based on research/quantum-decoherence-objection-responses-2026-01-15.md. Tegmark's "warm, wet, and noisy" objection is the most serious scientific challenge to quantum consciousness theories. Research covers Hameroff-Penrose responses (corrected calculations showing 7 orders of magnitude longer coherence), protective mechanisms (Debye layer screening, actin gel ordering), empirical evidence from photosynthesis FMO complex, and revised timescale requirements. Critical for defending Minimal Quantum Interaction tenet.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
 
 ### P3: Create voids article on temporal asymmetry
 - **Type**: expand-topic
@@ -74,6 +110,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Write arguments page for positive case for dualism
+- **Type**: expand-topic
+- **Notes**: Based on research/arguments-for-dualism-positive-case-2026-01-14.md. Comprehensive research covering conceivability argument (zombies), knowledge argument (Mary's Room), qualia arguments, unity of consciousness (Hasker), and intentionality. Contemporary defenders include Chalmers, Swinburne, Hasker, Lowe, Rickabaugh & Moreland. 2020 PhilPapers survey shows 22% of philosophers accept dualism. The Map extensively argues against materialism but lacks systematic positive case. Directly supports Dualism tenet.
+- **Result**: Article already exists as comprehensive 7000+ word concept page at obsidian/concepts/arguments-for-dualism.md (created 2026-01-14, last deep-reviewed 2026-01-20). Contains all requested content: conceivability argument, knowledge argument, qualia arguments, unity of consciousness, intentionality, parsimony response, folk error response, illusionism challenge, and full tenet alignment. The research has been fully consumed.
+- **Output**: obsidian/concepts/arguments-for-dualism.md (pre-existing)
 
 ### ✓ 2026-01-22: Fix question-begging in evolutionary argument in consciousness-as-intelligence-amplifier.md
 - **Type**: refine-draft
