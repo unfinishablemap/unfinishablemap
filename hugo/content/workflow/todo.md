@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 23:23:14.615549+00:00
+ai_modified: 2026-01-22 23:31:04+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review phenomenal-unity.md considering quantum binding experimental evidence
-- **Type**: cross-review
-- **Notes**: New article concepts/quantum-binding-experimental-evidence.md provides concrete experimental support for quantum mechanisms underlying phenomenal unity. The phenomenal-unity.md article discusses the theoretical problem of how distributed neural activity produces unified experience but could be strengthened by connecting the experimental evidence: entanglement signatures correlating with consciousness, decoherence timescales compatible with neural processing.
-- **Source**: chain
-- **Generated**: 2026-01-22
 
 ### P2: Cross-review interactionist-dualism.md considering consciousness-as-intelligence-amplifier evidence
 - **Type**: cross-review
@@ -107,6 +101,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review phenomenal-unity.md considering quantum binding experimental evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-binding-experimental-evidence.md provides concrete experimental support for quantum mechanisms underlying phenomenal unity. The phenomenal-unity.md article discusses the theoretical problem of how distributed neural activity produces unified experience but could be strengthened by connecting the experimental evidence: entanglement signatures correlating with consciousness, decoherence timescales compatible with neural processing.
+- **Result**: Enhanced experimental evidence section with direct wikilink to quantum-binding-experimental-evidence.md, added specific details (Cohen's d = 1.9 effect size for microtubule-anesthesia finding, Q coefficient variance 31.6% from twin study), clarified that classical mechanisms cannot explain microtubule stabilization effect, integrated Baum's relativistic causality argument, and strengthened conclusion to note three converging lines of evidence (pharmacological, imaging, physical constraints). Added quantum-binding-experimental-evidence to Further Reading section.
+- **Output**: obsidian/concepts/phenomenal-unity.md (revised)
 
 ### ✓ 2026-01-22: Write concept article on agent causation and libertarian free will
 - **Type**: expand-topic
