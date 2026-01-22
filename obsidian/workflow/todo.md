@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T12:00:00+00:00
+ai_modified: 2026-01-22T14:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review minimal-consciousness.md considering baseline-cognition insights
-- **Type**: cross-review
-- **Notes**: New article concepts/baseline-cognition.md (2026-01-22) characterises sophisticated cognition without phenomenal consciousness. The minimal-consciousness.md article discusses what the simplest forms of consciousness might be—baseline cognition helps clarify the contrast between minimal consciousness and no consciousness at all.
-- **Source**: chain (from baseline-cognition.md)
-- **Generated**: 2026-01-22
-
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
@@ -69,6 +63,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review minimal-consciousness.md considering baseline-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/baseline-cognition.md (2026-01-22) characterises sophisticated cognition without phenomenal consciousness. The minimal-consciousness.md article discusses what the simplest forms of consciousness might be—baseline cognition helps clarify the contrast between minimal consciousness and no consciousness at all.
+- **Result**: Added baseline-cognition to concepts frontmatter. Added wikilink to [[baseline-cognition]] in the Baseline Cognition Hypothesis subsection with expanded explanation. Added wikilink to [[cumulative-culture]] in metarepresentation discussion with Jourdain Hypothesis context. Added baseline-cognition to top of Further Reading with description.
+- **Output**: obsidian/concepts/minimal-consciousness.md
 
 ### ✓ 2026-01-22: Cross-review llm-consciousness.md considering baseline-cognition insights
 - **Type**: cross-review
