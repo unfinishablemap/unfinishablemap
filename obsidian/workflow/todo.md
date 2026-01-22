@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T03:10:00+00:00
+ai_modified: 2026-01-22T22:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -67,12 +67,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Write voids article on temporal asymmetry of remembering and anticipating
-- **Type**: expand-topic
-- **Notes**: Based on research in research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. Why can we remember the past but not pre-experience the future? The phenomenological void at the boundary between episodic memory and prospective cognition. Explores the structural impossibility of anticipatory qualia. Builds on episodic-memory.md, prospective-memory.md, temporal-consciousness.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-22
-
 ### P2: Write voids article on the phenomenology of error recognition
 - **Type**: expand-topic
 - **Notes**: Based on research in research/voids-phenomenology-of-error-recognition-2026-01-21.md. The bootstrap problem of self-correction: you cannot recognise an error without already having access to the truth that reveals it as error. What are the structural limits of error detection? When is consciousness necessarily blind to its own mistakes? Builds on introspection.md, metacognition.md, epistemic-emotions.md.
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Write voids article on temporal asymmetry of remembering and anticipating
+- **Type**: expand-topic
+- **Notes**: Based on research in research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. Why can we remember the past but not pre-experience the future? The phenomenological void at the boundary between episodic memory and prospective cognition. Explores the structural impossibility of anticipatory qualia. Builds on episodic-memory.md, prospective-memory.md, temporal-consciousness.md.
+- **Result**: Article already existed from prior session. Enhanced with Illusionist Challenge section (~350 words) addressing quasi-phenomenal properties, causal structure argument, and structural vs phenomenal framing. Added Buddhist Contemplative Perspectives section (~300 words) covering anicca, Abhidharma three times analysis, jhāna, and pratītyasamutpāda. Updated frontmatter with illusionism, introspection in concepts; thoughts-that-slip-away, apophatic-approaches in related_articles. Expanded Further Reading.
+- **Output**: obsidian/voids/temporal-asymmetry-remembering-anticipating.md
 
 ### ✓ 2026-01-22: Cross-review metacognition.md considering jourdain-hypothesis insights
 - **Type**: cross-review

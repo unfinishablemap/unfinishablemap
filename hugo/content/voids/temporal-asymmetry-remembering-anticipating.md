@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-21 12:00:00+00:00
+ai_modified: 2026-01-22 22:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,17 +13,22 @@ concepts:
 - '[[mysterianism]]'
 - '[[qualia]]'
 - '[[philosophy-of-time]]'
+- '[[illusionism]]'
+- '[[introspection]]'
 created: 2026-01-21
-date: &id001 2026-01-21
+date: &id001 2026-01-22
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: null
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[limits-reveal-structure]]'
+- '[[thoughts-that-slip-away]]'
+- '[[apophatic-approaches]]'
 title: The Asymmetry Between Remembering and Anticipating
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -117,6 +122,30 @@ This void tells us something about consciousness itself:
 
 **Imagination is memory repurposed.** Future-thinking uses memory's machinery but cannot reproduce memory's phenomenal quality. The pastness quale may mark causal contact that imagination, however sophisticated, cannot replicate. This is why construction feels different from reconstruction: one has an anchor in reality, the other does not.
 
+## The Illusionist Challenge
+
+[Illusionists](/concepts/illusionism/) might argue that the "pastness quale" is itself an illusion—a functional marker the brain attaches to certain representations, not a genuine phenomenal property. On this view, the asymmetry is real but not deeply mysterious: memory and imagination use different processing pathways that produce different functional outputs, which we introspect as phenomenally distinct without any irreducible qualia being involved.
+
+Three responses preserve the void framework:
+
+**The regress applies.** To experience the illusion of pastness, something must experience it. The distinctive phenomenology of remembering—the sense of having-been-there—must appear *to* something. The illusionist relocates the quale from "pastness itself" to "seeming pastness," but seeming is still experiencing. The experience of temporal asymmetry remains experiential. Frankish's "quasi-phenomenal" properties still require something to instantiate the quasi-phenomenal states.
+
+**The asymmetry demands explanation either way.** Even granting that pastness is a functional marker rather than an irreducible quale, why can we construct this marker only for past events? Why doesn't the brain stamp imagined futures with the same "having-been-there" signature? The answer returns to causation: the pastness marker tracks causal contact with past events. Future events haven't caused anything yet, so there's nothing for the marking mechanism to respond to. The asymmetry reflects causal structure whether we describe it phenomenally or functionally.
+
+**The void is structural, not phenomenal.** The core claim isn't that there's an irreducible pastness quale (though the Map endorses this). The core claim is that minds embedded in causal webs cannot pre-experience futures. This holds regardless of how we cash out "experience." Even a thoroughly functionalist mind would show the asymmetry because the asymmetry derives from time's causal structure, not from properties of phenomenal consciousness specifically.
+
+## Buddhist Contemplative Perspectives
+
+Buddhist traditions have extensively examined temporal experience, offering insights complementary to the philosophical analysis:
+
+**Impermanence (anicca) and the present.** The Buddha's teaching emphasises that only the present moment truly exists—the past has ceased (*atīta*), the future hasn't arisen (*anāgata*). Memory reconstructs what no longer is; anticipation imagines what doesn't yet exist. Meditation practice (particularly *satipaṭṭhāna*) cultivates present-moment awareness precisely to release attachment to both temporal directions. The asymmetry between memory and anticipation, from this perspective, reflects the asymmetry between what has become real and what remains mere potentiality.
+
+**The three times in Abhidharma.** Buddhist philosophical analysis distinguishes the phenomenology of each temporal mode. Past (*atīta*) objects can be cognised because they once existed; future (*anāgata*) objects can only be imagined because they lack actuality. The Sarvāstivāda school controversially held that past and future dharmas have some form of existence, but even they distinguished how we access them: the past through retention of traces, the future only through inference from patterns.
+
+**Jhāna and temporal dissolution.** Advanced concentration states (jhānas) alter temporal experience—practitioners report that past and future recede as present-moment awareness intensifies. In deep jhāna, the construction of both memory and anticipation diminishes. Yet even here, when temporal processing resumes, the asymmetry returns. The altered states don't grant pre-experience of futures; they reduce both retrospection and prospection together.
+
+**Pratītyasamutpāda (dependent origination).** The Buddha's analysis of causation as dependent arising illuminates why the asymmetry exists. Present consciousness (*vijñāna*) arises from conditions (*pratyaya*), including past mental formations. The causal chain runs from past to present. Future events, not yet having arisen, cannot serve as conditions. This is the Buddhist version of the causal argument: we cognise what has conditioned us.
+
 ## Approaches to the Edge
 
 How can we engage with a limit that may be conceptually incoherent rather than merely difficult?
@@ -198,16 +227,21 @@ Several findings would require revision:
 
 ## Further Reading
 
-- [temporal-consciousness](/concepts/temporal-consciousness/) — How time structures conscious experience
+- [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — The self-knowing awareness that enables mental time travel
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that preserves experienced events
 - [prospective-memory](/concepts/prospective-memory/) — Future-directed memory and its phenomenology
+- [temporal-consciousness](/concepts/temporal-consciousness/) — How time structures conscious experience
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series, presentism, and the growing block
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What happens when consciousness approaches limits
+- [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Related phenomenology of cognitive limitation
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding
+- [illusionism](/concepts/illusionism/) — The challenge that temporal qualia are mere functional markers
 - [apophatic-approaches](/voids/apophatic-approaches/) — Methods for engaging with what exceeds articulation
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
-- [voids](/voids/) — The broader context of cognitive limits
+- [introspection](/concepts/introspection/) — First-person access to temporal experience
+- [qualia](/concepts/qualia/) — Irreducible qualities of experience, including pastness
+- [Site Tenets](/tenets/) — The foundational commitments shaping this investigation
 
 ## References
 

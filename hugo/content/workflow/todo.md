@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 03:15:00+00:00
+ai_modified: 2026-01-22 22:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -68,10 +68,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Cross-review metacognition.md considering jourdain-hypothesis insights
-- **Type**: cross-review
-- **Notes**: New article concepts/jourdain-hypothesis.md (2026-01-22) presents the procedural vs declarative metacognition distinction with Whiten's "apes have culture but may not know it" framework. The metacognition.md article should reference the Jourdain Hypothesis as a vivid illustration of the procedural/declarative distinction and its implications for consciousness.
-- **Source**: chain (from jourdain-hypothesis.md)
+### P2: Write voids article on the phenomenology of error recognition
+- **Type**: expand-topic
+- **Notes**: Based on research in research/voids-phenomenology-of-error-recognition-2026-01-21.md. The bootstrap problem of self-correction: you cannot recognise an error without already having access to the truth that reveals it as error. What are the structural limits of error detection? When is consciousness necessarily blind to its own mistakes? Builds on introspection.md, metacognition.md, epistemic-emotions.md.
+- **Source**: unconsumed_research
 - **Generated**: 2026-01-22
 
 ### P2: Cross-review ai-consciousness.md considering jourdain-hypothesis insights
@@ -81,6 +81,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Write voids article on temporal asymmetry of remembering and anticipating
+- **Type**: expand-topic
+- **Notes**: Based on research in research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. Why can we remember the past but not pre-experience the future? The phenomenological void at the boundary between episodic memory and prospective cognition. Explores the structural impossibility of anticipatory qualia. Builds on episodic-memory.md, prospective-memory.md, temporal-consciousness.md.
+- **Result**: Article already existed from prior session. Enhanced with Illusionist Challenge section (~350 words) addressing quasi-phenomenal properties, causal structure argument, and structural vs phenomenal framing. Added Buddhist Contemplative Perspectives section (~300 words) covering anicca, Abhidharma three times analysis, jhāna, and pratītyasamutpāda. Updated frontmatter with illusionism, introspection in concepts; thoughts-that-slip-away, apophatic-approaches in related_articles. Expanded Further Reading.
+- **Output**: obsidian/voids/temporal-asymmetry-remembering-anticipating.md
+
+### ✓ 2026-01-22: Cross-review metacognition.md considering jourdain-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/jourdain-hypothesis.md (2026-01-22) presents the procedural vs declarative metacognition distinction with Whiten's "apes have culture but may not know it" framework. The metacognition.md article should reference the Jourdain Hypothesis as a vivid illustration of the procedural/declarative distinction and its implications for consciousness.
+- **Result**: Added jourdain-hypothesis, baseline-cognition, cumulative-culture to concepts frontmatter. Expanded Jourdain Hypothesis subsection (~400 words) with: Molière literary reference, procedural/declarative metacognition table, four evidence categories (cultural stability, teaching asymmetry, ToM limits, TOT contrast), and connection to cumulative culture as consciousness-enabled capacity. Added jourdain-hypothesis, baseline-cognition, cumulative-culture to top of Further Reading.
+- **Output**: obsidian/concepts/metacognition.md
 
 ### ✓ 2026-01-22: Cross-review hard-problem-of-consciousness.md considering language-recursion insights
 - **Type**: cross-review
