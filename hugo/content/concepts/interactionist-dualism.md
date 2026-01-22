@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-21 12:30:00+00:00
+ai_modified: 2026-01-22 14:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -149,6 +149,8 @@ The Map's response: reject premise 1. The [Minimal Quantum Interaction](/tenets/
 
 Kim's argument fails at quantum indeterminacies because there is no sufficient physical cause to exclude mental causation. Physics provides necessary but not sufficient causes—the probabilities but not which outcome actualizes. Consciousness fills a genuine gap rather than competing with complete physical causes.
 
+The [Stapp quantum mind model](/concepts/stapp-quantum-mind/) provides the most concrete articulation of this response. Consciousness operates through rapid observation (the quantum Zeno effect), holding desired neural patterns in place against their tendency to dissipate. No energy is injected; conservation laws are satisfied. The exclusion argument fails because there is nothing to exclude—at quantum indeterminacies, physics is "silent" about which outcome actualizes.
+
 ## The Pairing Problem
 
 Kim raises a distinct challenge beyond causal closure: the *pairing problem*. Even if we grant that consciousness could affect physics at quantum indeterminacies, what pairs a particular mind with a particular body?
@@ -193,15 +195,24 @@ Two serious scientific proposals develop this opening:
 
 ### Stapp's Quantum Zeno Approach
 
-Henry Stapp, a physicist at Lawrence Berkeley National Laboratory, proposes that consciousness influences the brain through the quantum Zeno effect. In quantum mechanics, rapid repeated measurement can "freeze" a system in its current state—the watched pot that really never boils.
+Henry Stapp, a physicist at Lawrence Berkeley National Laboratory, developed what may be the most concrete mechanism for how consciousness influences the brain without violating conservation laws. The [dedicated article](/concepts/stapp-quantum-mind/) provides comprehensive treatment; the key elements are summarised here.
 
-Stapp's mechanism: when you attend to something, your consciousness acts like rapid observation on neural quantum states. This holds certain firing patterns in place, preventing decoherence, allowing intentional action. Mental effort maintains "templates for action" that would otherwise dissipate.
+The mechanism centres on the quantum Zeno effect—a well-established phenomenon where rapid repeated measurement "freezes" a quantum system in its current state. Stapp proposes that mental attention acts like rapid observation on neural quantum states:
+
+1. Neural systems exist in superposition of firing patterns
+2. Each act of attention constitutes a quantum "observation"
+3. Rapid, repeated attention holds desired patterns via Zeno freezing
+4. The *felt* effort of attention corresponds to the *rapidity* of observation
 
 Key features:
 - Uses orthodox quantum mechanics—no new physics required
-- Consciousness influences *which* outcome occurs at quantum indeterminacies
+- Consciousness *selects* among neural patterns the brain already presents
 - No energy injection—respects conservation laws
-- Mental causation is real but empirically indistinguishable from randomness
+- Addresses [causal closure](/concepts/causal-closure/) directly: consciousness operates where physics leaves outcomes undetermined
+
+The neuroplasticity findings from Jeffrey Schwartz's OCD research provide empirical support. Patients who learned to redirect attention literally reshaped their brains—the caudate nucleus metabolism changed through directed mental effort alone. Whatever the mechanism, something patients do with their minds changes their brains. This is the kind of top-down causation interactionism predicts.
+
+Recent neuroscience (Bengson 2019, Vossel 2023) reveals that *willed* attention—internally generated rather than externally cued—engages distinct neural mechanisms: frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment absent in cued attention. The neural distinction mirrors the phenomenal distinction: willed attention feels more effortful because it involves genuine decision-making, not mere implementation. This supports the claim that something beyond pure computation occurs during voluntary attention.
 
 ### Orchestrated Objective Reduction (Orch OR)
 
@@ -360,6 +371,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 ## Further Reading
 
+- [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The most concrete mechanism for consciousness-brain interaction via quantum Zeno effect
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Chalmers' framework for fundamental psychophysical laws and where the Map diverges
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — How consciousness evolved and why dualism handles evolutionary emergence better than materialism
 - [dualism](/concepts/dualism/) — Foundational overview of dualism: varieties, arguments, and relation to site tenets

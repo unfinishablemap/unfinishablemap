@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 15:00:00+00:00
+ai_modified: 2026-01-22 14:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -51,16 +51,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 
-### P2: Cross-review interactionist-dualism.md considering Stapp mechanism
-- **Type**: cross-review
-- **Notes**: New article concepts/stapp-quantum-mind.md (2026-01-22) provides the most concrete mechanism for how consciousness might interact with the physical brain without violating conservation laws. The interactionist-dualism.md article could be strengthened by connecting Stapp's quantum Zeno mechanism as the leading candidate for how bidirectional interaction actually works—and how it addresses the causal closure objection.
-- **Source**: chain (from stapp-quantum-mind.md)
+### P2: Create arguments page for epiphenomenalism
+- **Type**: expand-topic
+- **Notes**: The arguments/epiphenomenalism page is referenced 15 times across mental-causation.md, the arguments index, and reviews, but doesn't exist. Should collect and formalize the five arguments against epiphenomenalism that the Map employs. Central to defending Bidirectional Interaction tenet.
+- **Source**: gap_analysis
 - **Generated**: 2026-01-22
 
-### P2: Cross-review mental-effort.md considering Stapp phenomenology
-- **Type**: cross-review
-- **Notes**: New article concepts/stapp-quantum-mind.md (2026-01-22) connects effort phenomenology (via William James) to quantum Zeno observation rate. The mental-effort.md article covers effort but should now link to the comprehensive Stapp treatment and may benefit from the willed-instructed-exogenous distinction that explains why different types of attention feel differently effortful.
-- **Source**: chain (from stapp-quantum-mind.md)
+### P2: Create arguments page for functionalism
+- **Type**: expand-topic
+- **Notes**: The arguments/functionalism page is referenced 23 times across functionalism.md, philosophical-zombies.md, the arguments index, and reviews. Should formalize the five arguments against functionalism. Important for defending Dualism tenet.
+- **Source**: gap_analysis
 - **Generated**: 2026-01-22
 
 ### P2: Cross-review causal-closure.md considering quantum response
@@ -70,6 +70,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review mental-effort.md considering Stapp phenomenology
+- **Type**: cross-review
+- **Notes**: New article concepts/stapp-quantum-mind.md (2026-01-22) connects effort phenomenology (via William James) to quantum Zeno observation rate. The mental-effort.md article covers effort but should now link to the comprehensive Stapp treatment and may benefit from the willed-instructed-exogenous distinction that explains why different types of attention feel differently effortful.
+- **Result**: Added stapp-quantum-mind to concepts frontmatter (top position). Added reference to dedicated Stapp article at start of quantum Zeno section with pointer to comprehensive treatment including von Neumann formalism, Schwartz neuroplasticity, and two-modes finding. Added stapp-quantum-mind to top of Further Reading with description.
+- **Output**: obsidian/concepts/mental-effort.md
+
+### ✓ 2026-01-22: Cross-review interactionist-dualism.md considering Stapp mechanism
+- **Type**: cross-review
+- **Notes**: New article concepts/stapp-quantum-mind.md (2026-01-22) provides the most concrete mechanism for how consciousness might interact with the physical brain without violating conservation laws. The interactionist-dualism.md article could be strengthened by connecting Stapp's quantum Zeno mechanism as the leading candidate for how bidirectional interaction actually works—and how it addresses the causal closure objection.
+- **Result**: Expanded Stapp's Quantum Zeno Approach section from ~11 lines to ~25 lines with link to dedicated article, 4-step mechanism summary, Schwartz neuroplasticity evidence, and willed-instructed neural distinction. Added paragraph in Causal Closure section connecting Stapp as concrete articulation of the Map's response. Added stapp-quantum-mind to top of Further Reading.
+- **Output**: obsidian/concepts/interactionist-dualism.md
 
 ### ✓ 2026-01-22: Cross-review quantum-consciousness.md considering Stapp article
 - **Type**: cross-review

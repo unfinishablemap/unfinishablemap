@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T14:25:00+00:00
+ai_modified: 2026-01-22T14:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -50,10 +50,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 
-### P2: Cross-review mental-effort.md considering Stapp phenomenology
-- **Type**: cross-review
-- **Notes**: New article concepts/stapp-quantum-mind.md (2026-01-22) connects effort phenomenology (via William James) to quantum Zeno observation rate. The mental-effort.md article covers effort but should now link to the comprehensive Stapp treatment and may benefit from the willed-instructed-exogenous distinction that explains why different types of attention feel differently effortful.
-- **Source**: chain (from stapp-quantum-mind.md)
+### P2: Create arguments page for epiphenomenalism
+- **Type**: expand-topic
+- **Notes**: The arguments/epiphenomenalism page is referenced 15 times across mental-causation.md, the arguments index, and reviews, but doesn't exist. Should collect and formalize the five arguments against epiphenomenalism that the Map employs. Central to defending Bidirectional Interaction tenet.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-22
+
+### P2: Create arguments page for functionalism
+- **Type**: expand-topic
+- **Notes**: The arguments/functionalism page is referenced 23 times across functionalism.md, philosophical-zombies.md, the arguments index, and reviews. Should formalize the five arguments against functionalism. Important for defending Dualism tenet.
+- **Source**: gap_analysis
 - **Generated**: 2026-01-22
 
 ### P2: Cross-review causal-closure.md considering quantum response
@@ -63,6 +69,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review mental-effort.md considering Stapp phenomenology
+- **Type**: cross-review
+- **Notes**: New article concepts/stapp-quantum-mind.md (2026-01-22) connects effort phenomenology (via William James) to quantum Zeno observation rate. The mental-effort.md article covers effort but should now link to the comprehensive Stapp treatment and may benefit from the willed-instructed-exogenous distinction that explains why different types of attention feel differently effortful.
+- **Result**: Added stapp-quantum-mind to concepts frontmatter (top position). Added reference to dedicated Stapp article at start of quantum Zeno section with pointer to comprehensive treatment including von Neumann formalism, Schwartz neuroplasticity, and two-modes finding. Added stapp-quantum-mind to top of Further Reading with description.
+- **Output**: obsidian/concepts/mental-effort.md
 
 ### ✓ 2026-01-22: Cross-review interactionist-dualism.md considering Stapp mechanism
 - **Type**: cross-review

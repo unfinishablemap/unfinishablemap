@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-21 15:50:00+00:00
+ai_modified: 2026-01-22 14:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[stapp-quantum-mind]]'
 - '[[quantum-consciousness]]'
 - '[[interactionist-dualism]]'
 - '[[epiphenomenalism]]'
@@ -175,7 +176,7 @@ This is the [epiphenomenalist](/arguments/epiphenomenalism/) position applied to
 
 ## Stapp's Quantum Zeno Mechanism
 
-Henry Stapp, a theoretical physicist at Lawrence Berkeley Lab, proposes that mental effort operates through the quantum Zeno effect—and that this explains both the phenomenology and provides a mechanism for consciousness to influence brain activity.
+Henry Stapp, a theoretical physicist at Lawrence Berkeley Lab, proposes that mental effort operates through the quantum Zeno effect—and that this explains both the phenomenology and provides a mechanism for consciousness to influence brain activity. For comprehensive treatment of Stapp's framework including the von Neumann formalism, Schwartz's neuroplasticity research, and the two-modes-of-consciousness finding, see the dedicated [Stapp's Quantum Mind Model](/concepts/stapp-quantum-mind/) article.
 
 ### The Quantum Zeno Effect
 
@@ -406,6 +407,7 @@ The Map doesn't commit to Stapp's specific proposal over other quantum conscious
 
 ## Further Reading
 
+- [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Comprehensive treatment of Stapp's quantum Zeno mechanism including the willed-instructed-exogenous distinction and neuroplasticity evidence
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The choosing-observing distinction and three-level agency structure
 - [attention](/concepts/attention/) — The attention-consciousness dissociation and why it matters for effort
 - [voluntary-attention](/concepts/voluntary-attention/) — The willed/instructed distinction and neural signatures of genuine choice
