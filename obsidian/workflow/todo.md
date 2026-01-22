@@ -49,11 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Cross-review ai-consciousness.md considering theory-of-mind insights
-- **Type**: cross-review
-- **Notes**: New article concepts/theory-of-mind.md (2026-01-22) presents the metarepresentational threshold—Levels 0-1 may operate without consciousness while Level 3+ requires it. The ai-consciousness.md article discusses whether AI systems are conscious but could be strengthened by applying the ToM levels framework: do LLMs demonstrate genuine Level 2+ theory of mind or sophisticated Level 1 behaviour reading? This provides concrete testable predictions.
-- **Source**: chain (from theory-of-mind.md)
-- **Generated**: 2026-01-22
 
 ### P2: Write article on Stapp's quantum mind model
 - **Type**: expand-topic
@@ -80,6 +75,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review ai-consciousness.md considering theory-of-mind insights
+- **Type**: cross-review
+- **Notes**: New article concepts/theory-of-mind.md (2026-01-22) presents the metarepresentational threshold—Levels 0-1 may operate without consciousness while Level 3+ requires it. The ai-consciousness.md article discusses whether AI systems are conscious but could be strengthened by applying the ToM levels framework: do LLMs demonstrate genuine Level 2+ theory of mind or sophisticated Level 1 behaviour reading? This provides concrete testable predictions.
+- **Result**: Added new "Theory of Mind Levels and the Metarepresentational Threshold" subsection (~450 words) in the AI Metacognition section covering: where LLMs succeed (Level 2 test performance), why this performance is misleading (the nested binding requirement for genuine Level 3), testable predictions (competence-performance gaps, adversarial examples, structural sensitivity), and the conclusion that LLMs operate linguistically at Level 3+ while cognitively remaining at Level 0. Added theory-of-mind to concepts frontmatter and top of Further Reading.
+- **Output**: obsidian/topics/ai-consciousness.md
 
 ### ✓ 2026-01-22: Cross-review problem-of-other-minds.md considering theory-of-mind insights
 - **Type**: cross-review
