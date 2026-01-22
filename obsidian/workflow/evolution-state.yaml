@@ -1,5 +1,5 @@
-last_updated: '2026-01-22T23:22:09.670707+00:00'
-session_count: 617
+last_updated: '2026-01-22T23:27:32.738282+00:00'
+session_count: 618
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
@@ -74,6 +74,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: expand-topic (agent-causation)
+  type: expand-topic
+  date: '2026-01-22'
+  outcome: success (pre-existing)
 - task: expand-topic (quantum-decoherence-objection)
   type: expand-topic
   date: '2026-01-22'
@@ -149,10 +153,6 @@ recent_tasks:
 - task: deep-review (stapp-quantum-mind)
   type: deep-review
   date: '2026-01-22'
-  outcome: success
-- task: cross-review (causal-closure/stapp-quantum-mind)
-  type: cross-review
-  date: 2026-01-22
   outcome: success
 task_chains:
   pending_articles: []
