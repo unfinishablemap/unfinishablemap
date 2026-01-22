@@ -30,7 +30,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Access consciousness (A-consciousness) is information that is "poised for global control"—available for reasoning, verbal report, and rational guidance of action. Ned Block introduced the term in 1995 to isolate the functional aspect of consciousness from [phenomenal consciousness](/phenomenal-consciousness/) (P-consciousness), the "what it's like" quality of experience. This distinction reveals what physicalist theories can explain (access mechanisms) versus what remains puzzling (phenomenal properties).
+Access consciousness (A-consciousness) is information that is "poised for global control"—available for reasoning, verbal report, and rational guidance of action. Ned Block introduced the term in 1995 to isolate the functional aspect of consciousness from [phenomenal consciousness](/concepts/phenomenal-consciousness/) (P-consciousness), the "what it's like" quality of experience. This distinction reveals what physicalist theories can explain (access mechanisms) versus what remains puzzling (phenomenal properties).
 
 The distinction matters for [dualism](/tenets/#dualism) because it shows that acknowledging consciousness's functional role doesn't eliminate the [hard problem](/topics/hard-problem-of-consciousness/). Blindsight demonstrates access without phenomenology; the overflow argument suggests phenomenology without full access. Access consciousness is real and causally important, but it cannot be all there is to consciousness.
 
@@ -66,7 +66,7 @@ The boundaries are contested—these examples drive debates about dissociations 
 Block's 1995 paper "On a Confusion about a Function of Consciousness" argued that philosophers and scientists routinely conflate two concepts:
 
 **Access consciousness**: Information available for reasoning, report, and action
-**[Phenomenal consciousness](/phenomenal-consciousness/)**: What it's like to be in a mental state—the subjective, experiential quality
+**[Phenomenal consciousness](/concepts/phenomenal-consciousness/)**: What it's like to be in a mental state—the subjective, experiential quality
 
 The confusion has "bad results" because functions of the access-machinery get "illicitly transferred" to phenomenal consciousness. For example, blindsight patients cannot use information about stimuli in their blind field for normal reasoning (access deficit), and we conclude phenomenal consciousness must be necessary for guiding action. But this confuses what access-mechanisms do with what phenomenal properties do.
 
@@ -125,7 +125,7 @@ This debate connects to [cognitive-phenomenology](/concepts/cognitive-phenomenol
 
 This is why [Global Workspace Theory](/concepts/global-workspace-theory/) succeeds as a theory of A-consciousness. GWT explains *when* information becomes A-conscious (upon global broadcast) and *how* this happens (ignition across prefrontal-parietal networks). These are functional explanations: describing mechanisms that make information available.
 
-**The limitation**: Functionalism struggles with [P-consciousness](/phenomenal-consciousness/). The [inverted qualia](/concepts/inverted-qualia/) objection shows that phenomenology might vary while functional role stays constant. The [zombie argument](/concepts/philosophical-zombies/) suggests that functional organization might exist without phenomenology. These objections don't apply to A-consciousness—functional role is precisely what A-consciousness is. See [functionalism](/arguments/functionalism/) for the full case against functionalist accounts of P-consciousness.
+**The limitation**: Functionalism struggles with [P-consciousness](/concepts/phenomenal-consciousness/). The [inverted qualia](/concepts/inverted-qualia/) objection shows that phenomenology might vary while functional role stays constant. The [zombie argument](/concepts/philosophical-zombies/) suggests that functional organization might exist without phenomenology. These objections don't apply to A-consciousness—functional role is precisely what A-consciousness is. See [functionalism](/arguments/functionalism/) for the full case against functionalist accounts of P-consciousness.
 
 **For dualism**: We can grant that A-consciousness is functionally explicable while maintaining that P-consciousness is not. This strengthens the dualist position by isolating precisely what remains unexplained. The [explanatory gap](/concepts/explanatory-gap/) applies to phenomenal properties, not to access mechanisms.
 
@@ -163,7 +163,7 @@ Conscious influence operates at stage 2: by modulating attention, consciousness 
 
 ### Dualism
 
-Access consciousness reveals what physicalism *can* explain: functional availability, information integration, global broadcast. [Global Workspace Theory](/concepts/global-workspace-theory/) succeeds at this task. What remains inexplicable is [why global broadcast feels like anything](/phenomenal-consciousness/). By isolating A-consciousness as the functional aspect, we clarify that the [hard problem](/topics/hard-problem-of-consciousness/) concerns P-consciousness specifically.
+Access consciousness reveals what physicalism *can* explain: functional availability, information integration, global broadcast. [Global Workspace Theory](/concepts/global-workspace-theory/) succeeds at this task. What remains inexplicable is [why global broadcast feels like anything](/concepts/phenomenal-consciousness/). By isolating A-consciousness as the functional aspect, we clarify that the [hard problem](/topics/hard-problem-of-consciousness/) concerns P-consciousness specifically.
 
 The [explanatory gap](/concepts/explanatory-gap/) persists: neural mechanisms for access don't bridge to phenomenology. Knowing that information achieved prefrontal-parietal ignition doesn't tell us why there's "something it's like" to have that information broadcast. [Arguments against functionalism](/arguments/functionalism/) show that functional role cannot capture phenomenal properties.
 
@@ -226,7 +226,7 @@ An experience becomes A-conscious not by having an intrinsic access-property, bu
 
 ## Further Reading
 
-- [Phenomenal consciousness](/phenomenal-consciousness/)—the complement to A-consciousness in Block's framework
+- [Phenomenal consciousness](/concepts/phenomenal-consciousness/)—the complement to A-consciousness in Block's framework
 - [Global Workspace Theory](/concepts/global-workspace-theory/)—neuroscientific theory of A-consciousness mechanisms
 - [Attention as interface](/concepts/attention-as-interface/)—how consciousness controls what becomes accessible
 - [Stapp's quantum mind](/concepts/stapp-quantum-mind/)—mechanism for conscious selection of what gets accessed

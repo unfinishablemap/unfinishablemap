@@ -1,9 +1,9 @@
-last_updated: '2026-01-22T22:18:00+00:00'
-session_count: 607
+last_updated: '2026-01-22T22:26:37.811958+00:00'
+session_count: 608
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 6
+  p2_tasks: 3
   p3_tasks: 6
   needs_replenishment: false
   last_replenishment: '2026-01-22T22:08:10+00:00'
@@ -48,8 +48,8 @@ scheduled_hours:
   tweet-highlight: 7
 last_git_push: '2026-01-22T20:39:49.378398+00:00'
 content_stats:
-  total_files: 150
-  published_files: 148
+  total_files: 259
+  published_files: 259
   draft_files: 0
   placeholder_files: 0
 convergence_targets:
@@ -60,7 +60,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 25
-  concepts_written: 124
+  concepts_written: 125
   arguments_written: 4
   questions_written: 1
   voids_written: 9
@@ -73,6 +73,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: expand-topic (phenomenal-consciousness)
+  type: expand-topic
+  date: '2026-01-22'
+  outcome: success
 - task: expand-topic (access-consciousness)
   type: expand-topic
   date: '2026-01-22'
@@ -146,18 +150,6 @@ recent_tasks:
   date: 2026-01-13
   outcome: ''
 - task: check-links
-  type: ''
-  date: 2026-01-13
-  outcome: ''
-- task: optimistic-review
-  type: ''
-  date: 2026-01-13
-  outcome: ''
-- task: cross-review (free-will)
-  type: ''
-  date: 2026-01-13
-  outcome: ''
-- task: expand-topic (purpose-and-alignment)
   type: ''
   date: 2026-01-13
   outcome: ''

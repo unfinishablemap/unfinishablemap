@@ -162,7 +162,7 @@ Emotional consciousness is not a puzzle awaiting functional solution. It is evid
 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why physical explanations leave phenomenal experience unexplained
 - [qualia](/concepts/qualia/) — Intrinsic properties of experience that resist functional reduction
-- [phenomenal-consciousness](/phenomenal-consciousness/) — The subjective, felt aspect of mental states
+- [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The subjective, felt aspect of mental states
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The view that phenomenal properties ground objective value
 - [intentionality](/concepts/intentionality/) — How mental states can be about things
 - [higher-order-theories](/concepts/higher-order-theories/) — Theories that consciousness requires higher-order representation
