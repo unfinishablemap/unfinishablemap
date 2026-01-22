@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-22
 human_modified: 2026-01-22T15:29:26+00:00
-ai_modified: 2026-01-22T23:46:39+00:00
+ai_modified: 2026-01-22T23:52:39.016868+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review decoherence.md considering quantum decoherence objection analysis
-- **Type**: cross-review
-- **Notes**: New article concepts/quantum-decoherence-objection.md distinguishes between basis selection (what decoherence explains) and outcome selection (what it doesn't explain), providing conceptual clarity on why decoherence doesn't solve the measurement problem. The decoherence.md article should reference this analysis and clarify that even after decoherence, the measurement problem persists—consciousness could bias outcomes at this point.
-- **Source**: chain
-- **Generated**: 2026-01-22
 ### P3: Create voids article on temporal asymmetry
 - **Type**: expand-topic
 - **Notes**: Based on research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. Why we can re-experience the past but only imagine the future. The "pastness quale" is irreducible; epistemic asymmetry (past accessible via causal traces) grounds phenomenological asymmetry. Memory-anticipation asymmetry as fundamental cognitive limit.
@@ -79,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review decoherence.md considering quantum decoherence objection analysis
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-decoherence-objection.md distinguishes between basis selection (what decoherence explains) and outcome selection (what it doesn't explain), providing conceptual clarity on why decoherence doesn't solve the measurement problem. The decoherence.md article should reference this analysis and clarify that even after decoherence, the measurement problem persists—consciousness could bias outcomes at this point.
+- **Result**: Added wikilink to quantum-decoherence-objection article in Tegmark-Hameroff debate section, expanded basis/outcome selection distinction in "What Decoherence Does Not Do" section, added magnetoreception as proof-of-principle emphasizing that evolution can harness quantum coherence when selection pressure favors it, added to Further Reading section, and added to related_articles frontmatter. The integration clarifies that even if decoherence rapidly suppresses superpositions, consciousness can still bias outcome selection—the measurement problem persists.
+- **Output**: obsidian/concepts/decoherence.md
 
 ### ✓ 2026-01-22: Cross-review quantum-consciousness.md considering quantum decoherence objection analysis
 - **Type**: cross-review

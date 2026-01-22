@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 00:55:53+00:00
+ai_modified: 2026-01-22 23:52:39.016868+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,17 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review quantum-consciousness.md considering quantum decoherence objection analysis
-- **Type**: cross-review
-- **Notes**: New article concepts/quantum-decoherence-objection.md provides comprehensive analysis of Tegmark vs. Hameroff calculations (7 orders of magnitude difference), avian magnetoreception as proof-of-principle for biological quantum effects, and crucial distinction that decoherence explains basis selection but not outcome selection. The quantum-consciousness.md article should integrate this defense against the primary scientific objection to quantum theories of consciousness.
-- **Source**: chain
-- **Generated**: 2026-01-22
-
-### P2: Cross-review decoherence.md considering quantum decoherence objection analysis
-- **Type**: cross-review
-- **Notes**: New article concepts/quantum-decoherence-objection.md distinguishes between basis selection (what decoherence explains) and outcome selection (what it doesn't explain), providing conceptual clarity on why decoherence doesn't solve the measurement problem. The decoherence.md article should reference this analysis and clarify that even after decoherence, the measurement problem persists—consciousness could bias outcomes at this point.
-- **Source**: chain
-- **Generated**: 2026-01-22
 ### P3: Create voids article on temporal asymmetry
 - **Type**: expand-topic
 - **Notes**: Based on research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. Why we can re-experience the past but only imagine the future. The "pastness quale" is irreducible; epistemic asymmetry (past accessible via causal traces) grounds phenomenological asymmetry. Memory-anticipation asymmetry as fundamental cognitive limit.
@@ -86,6 +75,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review decoherence.md considering quantum decoherence objection analysis
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-decoherence-objection.md distinguishes between basis selection (what decoherence explains) and outcome selection (what it doesn't explain), providing conceptual clarity on why decoherence doesn't solve the measurement problem. The decoherence.md article should reference this analysis and clarify that even after decoherence, the measurement problem persists—consciousness could bias outcomes at this point.
+- **Result**: Added wikilink to quantum-decoherence-objection article in Tegmark-Hameroff debate section, expanded basis/outcome selection distinction in "What Decoherence Does Not Do" section, added magnetoreception as proof-of-principle emphasizing that evolution can harness quantum coherence when selection pressure favors it, added to Further Reading section, and added to related_articles frontmatter. The integration clarifies that even if decoherence rapidly suppresses superpositions, consciousness can still bias outcome selection—the measurement problem persists.
+- **Output**: obsidian/concepts/decoherence.md
+
+### ✓ 2026-01-22: Cross-review quantum-consciousness.md considering quantum decoherence objection analysis
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-decoherence-objection.md provides comprehensive analysis of Tegmark vs. Hameroff calculations (7 orders of magnitude difference), avian magnetoreception as proof-of-principle for biological quantum effects, and crucial distinction that decoherence explains basis selection but not outcome selection. The quantum-consciousness.md article should integrate this defense against the primary scientific objection to quantum theories of consciousness.
+- **Result**: Integrated references to quantum-decoherence-objection article in three places: main decoherence challenge section (replacing generic decoherence link with specific new article), emphasis on basis selection vs outcome selection distinction in the "Why Decoherence Doesn't Close the Door" section, and addition to Further Reading section. Added quantum-decoherence-objection to related_articles frontmatter. The integration ensures readers encounter the comprehensive defense against the decoherence objection at appropriate points.
+- **Output**: obsidian/concepts/quantum-consciousness.md
 
 ### ✓ 2026-01-23: Cross-review epiphenomenalism.md considering consciousness-as-intelligence-amplifier evidence
 - **Type**: cross-review
