@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-22T01:22:00+00:00'
-session_count: 547
+last_updated: '2026-01-22T02:59:00+00:00'
+session_count: 549
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-22T10:00:00+00:00'
   optimistic-review: '2026-01-22T23:45:00+00:00'
   check-tenets: '2026-01-21T21:30:00+00:00'
   check-links: '2026-01-22T01:00:00+00:00'
-  deep-review: '2026-01-22T01:15:00+00:00'
+  deep-review: '2026-01-22T15:30:00+00:00'
   tune-system: '2026-01-20T22:00:00+00:00'
   research-voids: '2026-01-21T09:21:52+00:00'
   coalesce: '2026-01-22T00:15:00+00:00'
@@ -39,7 +39,7 @@ overdue_thresholds:
   tweet-highlight: 48
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-21T22:09:44.465778+00:00'
+last_git_push: '2026-01-22T02:50:32.107197+00:00'
 content_stats:
   total_files: 200
   published_files: 154
@@ -58,7 +58,7 @@ progress:
   questions_written: 1
   voids_written: 8
   research_notes: 95
-  reviews_completed: 444
+  reviews_completed: 446
 quality:
   critical_issues: 3
   medium_issues: 10
@@ -66,84 +66,12 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
-- task: cross-review (cognitive-phenomenology/language-recursion-and-consciousness)
+- task: cross-review (working-memory/language-recursion)
   type: cross-review
   date: 2026-01-22
   outcome: success
-- task: deep-review (materialism)
-  type: maintenance
-  date: 2026-01-22
-  outcome: success
-- task: optimistic-review
-  type: maintenance
-  date: 2026-01-22
-  outcome: success
-- task: expand-topic (jourdain-hypothesis)
-  type: expand-topic
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (minimal-consciousness/baseline-cognition)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (llm-consciousness/baseline-cognition)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (metarepresentation/baseline-cognition)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (binding-problem/language-recursion-and-consciousness)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (consciousness-as-amplifier/baseline-cognition)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (animal-consciousness/baseline-cognition)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (animal-consciousness/cumulative-culture)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (phenomenal-value-realism/aesthetic-dimension-of-consciousness)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
-- task: expand-topic (baseline-cognition)
-  type: expand-topic
-  date: 2026-01-22
-  outcome: success
-- task: expand-topic (language-recursion-and-consciousness)
-  type: expand-topic
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (qualia/aesthetic-dimension-of-consciousness)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
-- task: expand-topic (aesthetic-dimension-of-consciousness)
-  type: expand-topic
-  date: 2026-01-22
-  outcome: success
-- task: expand-topic (cumulative-culture)
-  type: expand-topic
-  date: 2026-01-21
-  outcome: success
-- task: cross-review (animal-consciousness/consciousness-as-amplifier)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
-- task: tweet-highlight
-  type: maintenance
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (global-workspace-theory/consciousness-as-amplifier)
-  type: cross-review
+- task: deep-review (language-recursion-and-consciousness)
+  type: deep-review
   date: 2026-01-22
   outcome: success
 - task: cross-review (free-will/phenomenology-of-choice)
@@ -226,6 +154,3 @@ recent_tasks:
   type: ''
   date: 2026-01-09
   outcome: ''
-task_chains:
-  pending_articles: []
-  pending_cross_reviews: []
