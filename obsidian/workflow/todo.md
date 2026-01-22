@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-22
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T21:28:13.700324+00:00
+ai_modified: 2026-01-22T21:34:22+00:00
 draft: false
 topics: []
 concepts: []
@@ -51,12 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 
 
-### P2: Deep review neurophenomenology.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Neurophenomenology bridges first-person and third-person methods—methodology review important for Map's philosophical approach.
-- **Source**: staleness
-- **Generated**: 2026-01-23
-
 ### P2: Deep review theory-of-mind.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Theory of mind is central to consciousness, social cognition, and the problem of other minds.
@@ -82,6 +76,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Deep review neurophenomenology.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Neurophenomenology bridges first-person and third-person methods—methodology review important for Map's philosophical approach.
+- **Result**: Comprehensive pessimistic + optimistic review completed. Addressed 4 critical issues (heterophenomenology empirical failure argument, decoherence timescale problem via Stapp's Zeno mechanism, falsifiability of phenomenal irreducibility, Buddhist anti-substantialism tension). Enhanced with 5 medium issues (Stapp quantum Zeno integration, two modes expansion, filter vs. production theory fair presentation, MWI phenomenology correction, SFAs and meditation connection, mysterian development). Major additions: ~350 word Stapp Zeno mechanism in quantum section, ~300 word Buddhist metaphysical interpretations section, ~200 word filter/production distinction, ~200 word MWI indexical identity argument, ~200 word SFA connection, heterophenomenology empirical response, mysterian clarification. Total ~1,400 words added. Article now addresses quantum decoherence challenge rigorously, acknowledges metaphysical pluralism honestly, and connects meditation to libertarian free will.
+- **Output**: obsidian/concepts/neurophenomenology.md (enhanced ~1,400 words), obsidian/reviews/deep-review-2026-01-22-neurophenomenology.md
 
 ### ✓ 2026-01-22: Deep review binding-problem.md
 - **Type**: deep-review
