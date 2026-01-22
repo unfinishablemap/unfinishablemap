@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-22
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T21:18:12.967888+00:00
+ai_modified: 2026-01-22T21:28:13.700324+00:00
 draft: false
 topics: []
 concepts: []
@@ -50,11 +50,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 
-### P2: Deep review binding-problem.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. The binding problem is central to phenomenal unity and consciousness—quality review essential for Map's treatment of this foundational issue.
-- **Source**: staleness
-- **Generated**: 2026-01-23
 
 ### P2: Deep review neurophenomenology.md
 - **Type**: deep-review
@@ -87,6 +82,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Deep review binding-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. The binding problem is central to phenomenal unity and consciousness—quality review essential for Map's treatment of this foundational issue.
+- **Result**: Comprehensive pessimistic + optimistic review completed. Addressed 5 critical issues (illusionism engagement expanded with Dennett/Frankish/Graziano, decoherence debate balanced with Reimers et al. response, epothilone classical alternatives acknowledged, Many-Worlds branch-relative unity addressed, phenomenological limitations noted). Enhanced with 6 medium issues (GWT expanded with Dehaene/Prinz, Quantum Binding Argument detailed, Kerskens-Pérez Warren alternatives, twin study methodology, C. elegans citation, stapp-quantum-mind cross-links). Major additions: ~500 word illusionism subsection, ~200 word decoherence exchange, free will connection to quantum selection. Total ~1,800 words added. Sleep dissociation argument (BP1 without BP2) remains most original contribution.
+- **Output**: obsidian/concepts/binding-problem.md (enhanced ~1,800 words), obsidian/reviews/deep-review-2026-01-22-binding-problem.md
 
 ### ✓ 2026-01-22: Deep review stapp-quantum-mind.md
 - **Type**: deep-review
