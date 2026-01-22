@@ -3,7 +3,7 @@ title: "Metarepresentation and Phenomenal Consciousness"
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T18:03:47+00:00
+ai_modified: 2026-01-22T00:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,6 +12,7 @@ concepts:
   - "[[metacognition]]"
   - "[[cognitive-phenomenology]]"
   - "[[minimal-consciousness]]"
+  - "[[baseline-cognition]]"
   - "[[consciousness-as-amplifier]]"
   - "[[higher-order-theories]]"
   - "[[introspection]]"
@@ -53,6 +54,8 @@ The [[phenomenology-of-choice|phenomenology of deliberate choice]] illustrates t
 ### The Jourdain Hypothesis
 
 Andrew Whiten (2015) articulates what might be called the Jourdain Hypothesis, after Molière's character who discovered he had been speaking prose all his life without knowing it. Great apes, Whiten argues, may have culture—tool-use traditions, grooming patterns, food preferences that vary between groups—but not *know* they have culture.
+
+The [[baseline-cognition]] framework elaborates this distinction. Great apes exemplify sophisticated baseline cognition—what neural systems achieve without substantial conscious contribution. They possess procedural metacognition (feelings that guide behaviour) without declarative metacognition (explicit knowledge of mental states). The difference between having mental states and representing oneself as having them marks the boundary between baseline and consciousness-amplified cognition.
 
 This matters because cumulative culture requires metarepresentation. To improve a tool, you must represent the tool-making process *as a process*—as a way of doing things that could be done differently. To teach effectively, you must represent your knowledge *as knowledge* that another lacks. To innovate deliberately, you must recognise current practices *as practices* subject to modification.
 
@@ -239,6 +242,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 
 ## Further Reading
 
+- [[baseline-cognition]] — What cognition achieves without metarepresentation, and why the difference matters
 - [[metacognition]] — The enabling relation between consciousness and self-monitoring
 - [[cognitive-phenomenology]] — The phenomenal character of thinking
 - [[consciousness-as-amplifier]] — How consciousness enhances cognitive capacity
