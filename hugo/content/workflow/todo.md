@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 22:45:00+00:00
+ai_modified: 2026-01-22 03:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -68,19 +68,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Write voids article on the phenomenology of error recognition
-- **Type**: expand-topic
-- **Notes**: Based on research in research/voids-phenomenology-of-error-recognition-2026-01-21.md. The bootstrap problem of self-correction: you cannot recognise an error without already having access to the truth that reveals it as error. What are the structural limits of error detection? When is consciousness necessarily blind to its own mistakes? Builds on introspection.md, metacognition.md, epistemic-emotions.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-22
-
-### P2: Cross-review ai-consciousness.md considering jourdain-hypothesis insights
+### P2: Cross-review autonoetic-consciousness.md considering jourdain-hypothesis insights
 - **Type**: cross-review
-- **Notes**: New article concepts/jourdain-hypothesis.md (2026-01-22) applies the procedural/declarative metacognition distinction to AI assessment. The ai-consciousness.md article should reference the Jourdain Hypothesis when discussing whether AI systems have genuine metacognition or merely functional analogues—do LLMs "know they know" or just process metacognitive-seeming outputs?
+- **Notes**: New article concepts/jourdain-hypothesis.md (2026-01-22) shows that having mental states vs knowing you have them marks the procedural/declarative metacognition boundary. The autonoetic-consciousness.md article discusses self-aware remembering and could be strengthened with the Jourdain Hypothesis as an illustration of what autonoesis adds beyond mere cognitive function.
 - **Source**: chain (from jourdain-hypothesis.md)
 - **Generated**: 2026-01-22
 
+### P2: Cross-review consciousness-in-simple-organisms.md considering baseline-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/baseline-cognition.md (2026-01-22) defines what cognition achieves without consciousness. The consciousness-in-simple-organisms.md article discusses where consciousness might begin in evolution—baseline cognition provides the framework for understanding what capacities could exist without phenomenal experience, clarifying what would mark the emergence of consciousness in simple creatures.
+- **Source**: chain (from baseline-cognition.md)
+- **Generated**: 2026-01-22
+
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review ai-consciousness.md considering jourdain-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/jourdain-hypothesis.md (2026-01-22) applies the procedural/declarative metacognition distinction to AI assessment. The ai-consciousness.md article should reference the Jourdain Hypothesis when discussing whether AI systems have genuine metacognition or merely functional analogues—do LLMs "know they know" or just process metacognitive-seeming outputs?
+- **Result**: Added jourdain-hypothesis and baseline-cognition to concepts frontmatter. Added new "The Jourdain Hypothesis Applied to AI" subsection (~600 words) in the AI Metacognition section covering: the procedural/declarative distinction, comparison table (great apes vs LLMs vs humans), why training data explanation suffices, the baseline cognition framework, and falsifiability conditions. Added jourdain-hypothesis and baseline-cognition to top of Further Reading.
+- **Output**: obsidian/topics/ai-consciousness.md
+
+### ✓ 2026-01-22: Write voids article on the phenomenology of error recognition
+- **Type**: expand-topic
+- **Notes**: Based on research in research/voids-phenomenology-of-error-recognition-2026-01-21.md. The bootstrap problem of self-correction: you cannot recognise an error without already having access to the truth that reveals it as error. What are the structural limits of error detection? When is consciousness necessarily blind to its own mistakes? Builds on introspection.md, metacognition.md, epistemic-emotions.md.
+- **Result**: Article already existed from prior session 2026-01-21. Task auto-completed during replenishment.
+- **Output**: obsidian/voids/phenomenology-of-error-recognition.md
 
 ### ✓ 2026-01-22: Write voids article on temporal asymmetry of remembering and anticipating
 - **Type**: expand-topic
