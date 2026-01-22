@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 03:29:00+00:00
+ai_modified: 2026-01-22 05:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -68,17 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Cross-review consciousness-in-simple-organisms.md considering baseline-cognition insights
-- **Type**: cross-review
-- **Notes**: New article concepts/baseline-cognition.md (2026-01-22) defines what cognition achieves without consciousness. The consciousness-in-simple-organisms.md article discusses where consciousness might begin in evolution—baseline cognition provides the framework for understanding what capacities could exist without phenomenal experience, clarifying what would mark the emergence of consciousness in simple creatures.
-- **Source**: chain (from baseline-cognition.md)
-- **Generated**: 2026-01-22
-
-### P2: Cross-review self-and-consciousness.md considering jourdain-hypothesis insights
-- **Type**: cross-review
-- **Notes**: New article concepts/jourdain-hypothesis.md (2026-01-22) distinguishes procedural from declarative metacognition—having mental states vs knowing you have them. The self-and-consciousness.md article discusses minimal self vs narrative self, and could be strengthened by connecting the Jourdain distinction to self-knowledge: great apes may have a minimal self without representing themselves as having one.
-- **Source**: chain (from jourdain-hypothesis.md)
-- **Generated**: 2026-01-22
 
 ### P2: Cross-review episodic-memory.md considering temporal-asymmetry insights
 - **Type**: cross-review
@@ -86,7 +75,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from temporal-asymmetry-remembering-anticipating.md)
 - **Generated**: 2026-01-22
 
+### P2: Cross-review prospective-memory.md considering temporal-asymmetry insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/temporal-asymmetry-remembering-anticipating.md (2026-01-22) explores the fundamental asymmetry between remembering and anticipating—we can re-experience the past but only imagine the future. The prospective-memory.md article discusses future-oriented consciousness and could be strengthened by addressing why the "pop" of prospective retrieval differs phenomenologically from episodic re-experiencing, and what this asymmetry reveals about consciousness's causal relationship to time.
+- **Source**: chain (from temporal-asymmetry-remembering-anticipating.md)
+- **Generated**: 2026-01-22
+
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review self-and-consciousness.md considering jourdain-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/jourdain-hypothesis.md (2026-01-22) distinguishes procedural from declarative metacognition—having mental states vs knowing you have them. The self-and-consciousness.md article discusses minimal self vs narrative self, and could be strengthened by connecting the Jourdain distinction to self-knowledge: great apes may have a minimal self without representing themselves as having one.
+- **Result**: Added jourdain-hypothesis and baseline-cognition to concepts frontmatter. Added new "The Jourdain Hypothesis and Self-Knowledge" subsection (~400 words) in the Metacognition section, connecting the procedural/declarative distinction to the minimal/metacognitive self layers with comparison table (self, culture, mental states), explaining how great apes can have a minimal self without declarative self-knowledge, and noting the baseline cognition connection.
+- **Output**: obsidian/concepts/self-and-consciousness.md
+
+### ✓ 2026-01-22: Cross-review consciousness-in-simple-organisms.md considering baseline-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/baseline-cognition.md (2026-01-22) defines what cognition achieves without consciousness. The consciousness-in-simple-organisms.md article discusses where consciousness might begin in evolution—baseline cognition provides the framework for understanding what capacities could exist without phenomenal experience, clarifying what would mark the emergence of consciousness in simple creatures.
+- **Result**: Added baseline-cognition, working-memory, metacognition to concepts frontmatter. Added new "The Baseline Cognition Framework" subsection (~350 words) after the slime molds section, with comparison table (C. elegans vs Hydra vs slime molds), connecting zone of latent solutions to simple organism behaviour, explaining how slime mold maze-solving stays within baseline cognition, and suggesting qualitative cognitive regimes from slime mold to human. Added baseline-cognition, working-memory, metacognition to top of Further Reading.
+- **Output**: obsidian/topics/consciousness-in-simple-organisms.md
 
 ### ✓ 2026-01-22: Cross-review autonoetic-consciousness.md considering jourdain-hypothesis insights
 - **Type**: cross-review

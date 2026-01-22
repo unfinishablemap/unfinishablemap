@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-20 00:21:00+00:00
+ai_modified: 2026-01-22 05:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,8 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[minimal-consciousness]]'
 - '[[haecceity]]'
+- '[[jourdain-hypothesis]]'
+- '[[baseline-cognition]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -126,6 +128,24 @@ The distinction matters for understanding what "self-awareness" means. When we s
 A newborn has (1) but not (2) or (3). Advanced meditators develop exceptional (2) while sometimes reporting dissolution of (3). Only (1) is essential to consciousness itself; (2) and (3) are cognitive achievements consciousness enables.
 
 This explains why introspective training improves self-knowledge without making us "more conscious." Meditation develops metacognitive accuracy—the skill of monitoring mental states—not the phenomenal presence that was there all along. The minimal self is the canvas; metacognition learns to see what's painted on it.
+
+### The Jourdain Hypothesis and Self-Knowledge
+
+The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/) provides a vivid illustration of how the metacognitive self relates to the minimal self. Monsieur Jourdain in Molière's *Le Bourgeois Gentilhomme* discovers he has been speaking prose all his life without knowing it. Andrew Whiten (2015) applies this pattern to great apes: they may *have* culture—tool-use traditions, social practices that vary between groups—without *knowing* they have culture, without representing their practices as practices subject to evaluation and improvement.
+
+The parallel for selfhood is exact. Great apes likely possess the minimal self—their experiences have first-person character, there is something it is like to be them. But they may not *know* they have a self in the declarative sense. They experience the world from a first-person perspective without representing themselves as beings-with-perspectives.
+
+This connects to the distinction between procedural and declarative metacognition:
+
+| Layer | Procedural (doing) | Declarative (knowing-that-you're-doing) |
+|-------|--------------------|-----------------------------------------|
+| Self | Having a minimal self (first-person experience) | Knowing you have a self (self-concept) |
+| Culture | Having cultural practices | Knowing you have cultural practices |
+| Mental states | Having uncertainty | Knowing that you are uncertain |
+
+The Jourdain transition—from having to knowing-that-you-have—may require phenomenal consciousness for the metacognitive leap. Great apes can be *phenomenally self-present* (minimal self intact) without being *declaratively self-knowing* (unable to represent themselves as selves). If this is correct, then the difference between human and great ape self-awareness is not whether they have a minimal self, but whether they can make the Jourdain transition from experiencing selfhood to knowing they experience selfhood.
+
+This explains why [baseline cognition](/concepts/baseline-cognition/)—the sophisticated cognitive capacities great apes demonstrate—can coexist with absence of explicit self-knowledge. The minimal self operates within baseline cognition; the metacognitive self requires consciousness-amplified capacities that enable the Jourdain transition.
 
 ### Implications for Metzinger's Self-Model
 
@@ -255,6 +275,8 @@ The filter theory interprets these findings coherently: the narrative self is co
 
 ## Further Reading
 
+- [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them: the Molière parallel
+- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without declarative self-knowledge
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — How Buddhist no-self and the Map's irreducibility thesis are compatible
 - [witness-consciousness](/concepts/witness-consciousness/) — The sakshi/observer phenomenon: observing without identifying
 - [haecceity](/concepts/haecceity/) — Indexical identity and "thisness" beyond qualitative properties

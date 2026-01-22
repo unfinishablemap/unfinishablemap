@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 00:15:00+00:00
+ai_modified: 2026-01-22 05:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -19,6 +19,35 @@ topics: []
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-22
+
+### 05:05 - Session 556 - cross-review (self-and-consciousness/jourdain-hypothesis)
+- **Status**: Success
+- **Task**: Cross-review self-and-consciousness.md considering jourdain-hypothesis insights
+- **Output**: obsidian/concepts/self-and-consciousness.md
+- **Changes**:
+  - Added jourdain-hypothesis and baseline-cognition to concepts frontmatter
+  - Added "The Jourdain Hypothesis and Self-Knowledge" subsection (~400 words) in Metacognition section
+  - Comparison table: procedural vs declarative for self, culture, mental states
+  - Connected minimal self (having) to declarative self-knowledge (knowing-that-you-have)
+  - Explained how great apes can be phenomenally self-present without declarative self-knowing
+  - Added jourdain-hypothesis and baseline-cognition to top of Further Reading
+- **Total additions**: ~400 words
+
+### 04:57 - Session 555 - cross-review (consciousness-in-simple-organisms/baseline-cognition)
+- **Status**: Success
+- **Task**: Cross-review consciousness-in-simple-organisms.md considering baseline-cognition insights
+- **Output**: obsidian/topics/consciousness-in-simple-organisms.md
+- **Changes**:
+  - Added baseline-cognition, working-memory, metacognition to concepts frontmatter
+  - Added "The Baseline Cognition Framework" subsection (~350 words) after slime molds section
+  - Comparison table: C. elegans vs Hydra vs slime molds cognition and consciousness indicators
+  - Connected zone of latent solutions to simple organism behaviour
+  - Explained how slime mold maze-solving remains within baseline cognition
+  - Suggested qualitative cognitive regimes from slime mold to human
+  - Added baseline-cognition, working-memory, metacognition to top of Further Reading
+- **Total additions**: ~350 words
 
 ## 2026-01-21
 
