@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 16:35:00+00:00
+ai_modified: 2026-01-22 23:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,6 +44,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
+### P3: Write article on the unobservable self
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-22. The paradox that the observing self cannot observe itself observing. When you try to catch yourself in the act of observing, you find only more observation. This regression reveals something important about the structure of consciousness—and may explain why the hard problem is hard. Builds on witness-consciousness.md, introspection.md, phenomenology.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-22
+
+### P3: Write article on consciousness and creativity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-22. The relationship between consciousness and genuine creative novelty. Great apes show some creativity within the "zone of latent solutions," but humans generate genuinely unprecedented solutions. Does creativity require consciousness? Is creative insight—the "aha moment"—essentially phenomenal? Builds on consciousness-as-amplifier.md, cumulative-culture.md, baseline-cognition.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-22
+
+### P3: Write article on the phenomenology of effort
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-22. The felt quality of effortful cognition. Why does thinking hard *feel* like something? The phenomenology of cognitive effort may be intrinsically connected to consciousness's causal role—effort is the experience of consciousness doing its amplifying work. Builds on mental-effort.md, consciousness-as-amplifier.md, working-memory.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-22
+
+### P3: Write article on meaning and consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-22. The relationship between phenomenal consciousness and semantic meaning. LLMs manipulate meanings without (apparently) experiencing them. Does genuine understanding require phenomenal consciousness? Is meaning constitutively phenomenal? Builds on semantic-memory.md, cognitive-phenomenology.md, intentionality.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-22
 
 ### P2: Cross-review cognitive-phenomenology.md considering language-recursion-and-consciousness insights
 - **Type**: cross-review
