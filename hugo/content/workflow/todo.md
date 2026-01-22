@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 12:30:00+00:00
+ai_modified: 2026-01-22 14:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -51,13 +51,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 
-### P2: Cross-review metarepresentation.md considering theory-of-mind hierarchy
+### P2: Cross-review quantum-consciousness.md considering Stapp article
 - **Type**: cross-review
-- **Notes**: The recently expanded theory-of-mind.md (2026-01-22) presents Levels 0-3+ hierarchy with metarepresentational threshold between Levels 1 and 2. The metarepresentation.md article could be strengthened by explicitly mapping the ToM levels to metarepresentational demands—Level 2 requires representing beliefs AS beliefs (first-order metarepresentation), Level 3 requires representing others' metarepresentations (second-order).
-- **Source**: chain (from theory-of-mind.md)
+- **Notes**: New article concepts/stapp-quantum-mind.md (2026-01-22) provides comprehensive treatment of Stapp's quantum Zeno mechanism. The quantum-consciousness.md overview article should now reference the dedicated Stapp article and may benefit from connecting the two-modes-of-consciousness finding (active selection vs passive witnessing) and the Schwartz neuroplasticity evidence.
+- **Source**: chain (from stapp-quantum-mind.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review interactionist-dualism.md considering Stapp mechanism
+- **Type**: cross-review
+- **Notes**: New article concepts/stapp-quantum-mind.md (2026-01-22) provides the most concrete mechanism for how consciousness might interact with the physical brain without violating conservation laws. The interactionist-dualism.md article could be strengthened by connecting Stapp's quantum Zeno mechanism as the leading candidate for how bidirectional interaction actually works—and how it addresses the causal closure objection.
+- **Source**: chain (from stapp-quantum-mind.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review mental-effort.md considering Stapp phenomenology
+- **Type**: cross-review
+- **Notes**: New article concepts/stapp-quantum-mind.md (2026-01-22) connects effort phenomenology (via William James) to quantum Zeno observation rate. The mental-effort.md article covers effort but should now link to the comprehensive Stapp treatment and may benefit from the willed-instructed-exogenous distinction that explains why different types of attention feel differently effortful.
+- **Source**: chain (from stapp-quantum-mind.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review causal-closure.md considering quantum response
+- **Type**: cross-review
+- **Notes**: The stapp-quantum-mind.md article (2026-01-22) presents a concrete response to causal closure: consciousness operates at quantum indeterminacies where physics leaves outcomes undetermined, so no conservation laws are violated. The causal-closure.md article discusses the principle but could be strengthened by connecting this specific quantum-based response and noting that the exclusion problem is addressed by consciousness operating where physics is "silent."
+- **Source**: chain (from stapp-quantum-mind.md)
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review metarepresentation.md considering theory-of-mind hierarchy
+- **Type**: cross-review
+- **Notes**: The recently expanded theory-of-mind.md (2026-01-22) presents Levels 0-3+ hierarchy with metarepresentational threshold between Levels 1 and 2. The metarepresentation.md article could be strengthened by explicitly mapping the ToM levels to metarepresentational demands—Level 2 requires representing beliefs AS beliefs (first-order metarepresentation), Level 3 requires representing others' metarepresentations (second-order).
+- **Result**: Added new "Theory of Mind Levels and Metarepresentational Demands" subsection (~350 words) explaining how Levels 0-1 may operate without metarepresentation while Level 2 introduces first-order metarepresentation (representing beliefs AS beliefs) and Level 3+ requires second-order metarepresentation (nested attribution). Connected working memory demands (2±1 vs 7±2 items) to where the threshold falls. Added theory-of-mind to concepts frontmatter and top of Further Reading.
+- **Output**: obsidian/concepts/metarepresentation.md
 
 ### ✓ 2026-01-22: Cross-review phenomenology-of-choice.md considering motor-selection insights
 - **Type**: cross-review
