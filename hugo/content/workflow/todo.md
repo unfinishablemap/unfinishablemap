@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 05:05:00+00:00
+ai_modified: 2026-01-22 16:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,30 +50,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P3: Write article on consciousness and creativity
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-22. The relationship between consciousness and genuine creative novelty. Great apes show some creativity within the "zone of latent solutions," but humans generate genuinely unprecedented solutions. Does creativity require consciousness? Is creative insight—the "aha moment"—essentially phenomenal? Builds on consciousness-as-amplifier.md, cumulative-culture.md, baseline-cognition.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-22
-
-### P3: Write article on the phenomenology of effort
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-22. The felt quality of effortful cognition. Why does thinking hard *feel* like something? The phenomenology of cognitive effort may be intrinsically connected to consciousness's causal role—effort is the experience of consciousness doing its amplifying work. Builds on mental-effort.md, consciousness-as-amplifier.md, working-memory.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-22
-
-### P3: Write article on meaning and consciousness
+### P2: Write article on meaning and consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-22. The relationship between phenomenal consciousness and semantic meaning. LLMs manipulate meanings without (apparently) experiencing them. Does genuine understanding require phenomenal consciousness? Is meaning constitutively phenomenal? Builds on semantic-memory.md, cognitive-phenomenology.md, intentionality.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
+- **Promoted**: 2026-01-22 (replenishment - key question for AI consciousness)
 
-
-### P2: Cross-review episodic-memory.md considering temporal-asymmetry insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/temporal-asymmetry-remembering-anticipating.md (2026-01-22) explores why we can re-experience the past but only imagine the future. The episodic-memory.md article discusses memory's role in consciousness and could be strengthened by addressing why episodic memory constitutes a form of mental time travel that has no symmetric counterpart—the impossibility of anticipatory qualia.
-- **Source**: chain (from temporal-asymmetry-remembering-anticipating.md)
-- **Generated**: 2026-01-22
 
 ### P2: Cross-review prospective-memory.md considering temporal-asymmetry insights
 - **Type**: cross-review
@@ -82,6 +65,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review episodic-memory.md considering temporal-asymmetry insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/temporal-asymmetry-remembering-anticipating.md (2026-01-22) explores why we can re-experience the past but only imagine the future. The episodic-memory.md article discusses memory's role in consciousness and could be strengthened by addressing why episodic memory constitutes a form of mental time travel that has no symmetric counterpart—the impossibility of anticipatory qualia.
+- **Result**: Added temporal-asymmetry-remembering-anticipating to concepts frontmatter and related_articles. Added new "The Impossibility of Anticipatory Qualia" subsection (~250 words) after the temporal qualia discussion, covering the causal argument, informational argument, and what the void reveals about consciousness operating through traces. Added link to Further Reading.
+- **Output**: obsidian/concepts/episodic-memory.md
+
+### ✓ 2026-01-22: Write article on the phenomenology of effort
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-22. The felt quality of effortful cognition. Why does thinking hard *feel* like something? The phenomenology of cognitive effort may be intrinsically connected to consciousness's causal role—effort is the experience of consciousness doing its amplifying work. Builds on mental-effort.md, consciousness-as-amplifier.md, working-memory.md.
+- **Result**: Already comprehensively covered in existing mental-effort.md article (titled "Mental Effort and the Quantum Zeno Effect"). Includes detailed phenomenology section, James on attention and will, effort-effortlessness distinction, process philosophy perspective, and tenet connections.
+- **Output**: obsidian/concepts/mental-effort.md
+
+### ✓ 2026-01-22: Write article on consciousness and creativity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-22. The relationship between consciousness and genuine creative novelty. Great apes show some creativity within the "zone of latent solutions," but humans generate genuinely unprecedented solutions. Does creativity require consciousness? Is creative insight—the "aha moment"—essentially phenomenal? Builds on consciousness-as-amplifier.md, cumulative-culture.md, baseline-cognition.md.
+- **Result**: Article already existed from prior session 2026-01-19. Comprehensive coverage of selection view, generation view (Bergson), synthesis, neural correlates, and tenet connections.
+- **Output**: obsidian/concepts/consciousness-and-creativity.md
 
 ### ✓ 2026-01-22: Cross-review self-and-consciousness.md considering jourdain-hypothesis insights
 - **Type**: cross-review
