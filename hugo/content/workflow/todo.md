@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 00:40:00+00:00
+ai_modified: 2026-01-22 00:39:32+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -51,6 +51,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review (gap_analysis)
 - **Generated**: 2026-01-21
 
+### P2: Cross-review metarepresentation.md considering baseline-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/baseline-cognition.md (2026-01-22) introduces the Jourdain Hypothesis—apes have culture but may not know they have culture. This directly illustrates the metarepresentation concept. The metarepresentation.md article should reference baseline-cognition and explain how the Jourdain Hypothesis shows the difference between having mental states and representing oneself as having them.
+- **Source**: chain (from baseline-cognition.md)
+- **Generated**: 2026-01-22
+
 ### P2: Cross-review cognitive-phenomenology.md considering language-recursion-and-consciousness insights
 - **Type**: cross-review
 - **Notes**: New article topics/language-recursion-and-consciousness.md (2026-01-22) argues that recursive linguistic structure requires phenomenal consciousness via working memory manipulation. The cognitive-phenomenology.md article should be strengthened with this language evidence—recursion as a particularly clear case where thinking has phenomenal character.
@@ -64,6 +70,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review binding-problem.md considering language-recursion-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/language-recursion-and-consciousness.md (2026-01-22) argues that recursive linguistic structure requires phenomenal consciousness, with working memory binding as a key mechanism. The binding-problem.md article discusses phenomenal unity and could be strengthened by showing how linguistic recursion provides a concrete case where binding serves cognitive function—holding constituents together while processing embedded structures.
+- **Result**: Added new "Language: Cognitive Binding in Action" section (~600 words) covering: recursive parsing as hierarchical binding, the maintenance/manipulation distinction linking linguistic binding to consciousness, why language illuminates BP2 (accessible phenomenology, structural ambiguity, capacity limitations, AI comparison), and convergence across perceptual/memory/linguistic binding domains. Added language-recursion-and-consciousness, working-memory, cognitive-phenomenology to concepts frontmatter and Further Reading.
+- **Output**: obsidian/concepts/binding-problem.md
 
 ### ✓ 2026-01-22: Cross-review consciousness-as-amplifier.md considering baseline-cognition insights
 - **Type**: cross-review
