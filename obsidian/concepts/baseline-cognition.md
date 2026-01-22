@@ -3,7 +3,8 @@ title: "Baseline Cognition"
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T00:10:00+00:00
+ai_modified: 2026-01-22T21:30:00+00:00
+last_deep_review: 2026-01-22T21:30:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -19,6 +20,8 @@ concepts:
   - "[[evolution-of-consciousness]]"
   - "[[illusionism]]"
   - "[[epiphenomenalism]]"
+  - "[[free-will]]"
+  - "[[introspection]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-independent-baseline-cognition-2026-01-21]]"
@@ -31,6 +34,8 @@ last_curated: null
 ---
 
 Baseline cognition is what neural systems achieve without substantial conscious contribution—sophisticated information processing that operates within the constraints of modular, domain-specific mechanisms. Great apes exemplify baseline cognition: tool use, social reasoning, emotional complexity, procedural metacognition, and cultural traditions—all without the metarepresentational capacities that distinguish human intelligence. If consciousness were removed from humans, the remaining cognitive architecture might resemble great ape cognition—powerful but bounded.
+
+The term "consciousness" here means primarily *phenomenal consciousness*—the subjective, qualitative character of experience, what philosophers call "something it is like" to be in a mental state. The claim is not merely that great apes lack certain information-processing capacities (access consciousness) but that the qualitative dimension of human experience enables cognitive operations that great apes cannot perform. This distinction matters: functionalist accounts might grant apes sophisticated access consciousness while denying the phenomenal amplification this article describes.
 
 The Unfinishable Map proposes that consciousness doesn't add computational power (neurons handle computation) but *amplifies* baseline cognition through flexible deployment, metacognitive monitoring, and counterfactual reasoning. Understanding what baseline cognition can and cannot achieve clarifies what consciousness contributes—and provides evidence against [[epiphenomenalism]], since the human-ape gap tracks precisely those capacities where consciousness appears causally required.
 
@@ -47,7 +52,7 @@ Chimpanzees, bonobos, and gorillas show:
 - **Emotional complexity**: Grief responses, consolation behaviours, apparent empathy, play, and individual personality differences.
 - **Problem-solving**: Insight-like behaviour in novel situations, means-ends reasoning, basic planning for immediate goals.
 
-This isn't "mere" instinct. Great ape cognition is flexible, learned, and varies between individuals and populations. A 2023 Nature study confirmed that great ape cognition consists of stable, measurable traits that develop in response to experience—a coherent cognitive architecture, not reflexive responding.
+This isn't "mere" instinct. Great ape cognition is flexible, learned, and varies between individuals and populations. Völter et al. (2023) confirmed that great ape cognition consists of stable, measurable traits that develop in response to experience—a coherent cognitive architecture, not reflexive responding.
 
 ### Procedural Metacognition
 
@@ -127,19 +132,19 @@ This is what we observe. Great apes excel within baseline cognition and fail sys
 
 Several considerations resist this move:
 
-**The empirical evidence**: The Lieberman study controlled for this. If logical reasoning were really unconscious, disrupting unconscious processes should impair it. The opposite occurred.
+**The empirical evidence**: The Lieberman study provides suggestive evidence, though one study rarely settles fundamental questions. The finding that cognitive load impairs logical reasoning while unconscious disruption does not suggests dissociation—but the interpretation depends on whether "logical reasoning" and "consciousness" are being measured independently of each other. Additional studies (notably De Neys, 2012, on dual-process theory) support the general pattern: explicit rule-following differs from implicit pattern recognition in ways that track conscious accessibility.
 
 **The systematic pattern**: If consciousness is epiphenomenal, why does the human-ape gap track consciousness-dependent capacities so precisely? The correlation requires explanation.
 
 **The training effects**: Metacognitive training (meditation, contemplative practice) improves cognitive performance. If consciousness were illusory, what is being trained? The training effect requires explanation in terms that don't invoke consciousness—and such explanations remain elusive.
 
-**The regress problem**: Explaining the *appearance* of conscious contribution requires phenomenal vocabulary. The experience of effortful reasoning, the feeling of insight, the sense of deliberate manipulation—if these are illusions, something generates them. That generator is either conscious or requires further explanation.
+**The regress problem**: Explaining the *appearance* of conscious contribution requires phenomenal vocabulary. The experience of effortful reasoning, the feeling of insight, the sense of deliberate manipulation—if these are illusions, something generates them. An illusionist might respond that the "generator" is simply brain processes producing introspective representations. But the question resurfaces: what makes these representations feel like anything? The illusionist must either deny that they feel like anything (eliminativism) or explain the phenomenal character of introspection—which reinstates the original problem at a higher level.
 
 ## Great Ape Phenomenal Consciousness
 
 The baseline cognition hypothesis doesn't deny great ape consciousness. Great apes likely have genuine phenomenal experience: emotional consciousness, perceptual consciousness, basic social consciousness. The proposal is that human and great ape consciousness differ *qualitatively*—not merely in complexity but in kind.
 
-Great apes may possess access consciousness (information available for behaviour) without the full reflexive consciousness humans possess (consciousness that can take itself as object). They experience without necessarily experiencing that they experience.
+Great apes may possess access consciousness (information available for behaviour) without the full reflexive consciousness humans possess (consciousness that can take itself as object). They experience without necessarily experiencing that they experience—a distinction central to [[introspection|introspective]] capacity and the limits thereof.
 
 This connects to [[minimal-consciousness|minimal consciousness]] research. Consciousness may admit of degrees and kinds. The question isn't "conscious or not?" but "what kind of consciousness, supporting what cognitive operations?"
 
@@ -150,6 +155,12 @@ The baseline cognition framework has implications for [[ai-consciousness|artific
 What AI struggles with—genuine flexibility across domains, metacognitive monitoring that improves with feedback, counterfactual reasoning about unprecedented situations, cumulative improvement through deliberate innovation—are the capacities tied to consciousness in the human-ape comparison.
 
 This doesn't prove AI cannot be conscious. It suggests that if AI achieves human-level cognition, it would require something functionally equivalent to conscious amplification—whatever the substrate.
+
+## Implications for Free Will
+
+If consciousness enables counterfactual reasoning and deliberate selection among alternatives—choosing this action after considering others—then the baseline cognition framework supports [[free-will|libertarian free will]]. Great apes act; humans deliberate about their actions. The capacity to represent multiple possible futures and select among them is precisely what libertarian accounts of free will describe.
+
+This connection runs deeper than analogy. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet proposes that consciousness selects among superposed neural states. If correct, conscious deliberation is not merely accompanied by neural activity but *intervenes* in it—the mind genuinely choosing which of several possible actions becomes actual. The baseline-to-human transition marks not just expanded cognition but the emergence of genuine agency.
 
 ## Contemplative Perspectives
 
@@ -181,7 +192,7 @@ The baseline cognition hypothesis could be undermined by:
 
 **Minimal Quantum Interaction**: If consciousness interfaces with neural states through quantum selection, the amplification might operate at that level—biasing which neural patterns become actual when multiple possibilities exist. But the framework doesn't require quantum mechanisms; classical attention-based selection could produce similar effects.
 
-**No Many Worlds**: Logical reasoning, counterfactual thinking, and metarepresentation all require determinate outcomes. If all possibilities actualised across branches, the phenomenology of settling—reaching a conclusion, selecting among alternatives—would be illusory. The baseline cognition framework assumes consciousness genuinely selects.
+**No Many Worlds**: Logical reasoning, counterfactual thinking, and metarepresentation all require determinate outcomes. Many-worlds theorists handle decision-making through self-locating uncertainty and decision-theoretic weighting, but these accounts struggle with the phenomenology of settling—the experience of reaching *this* conclusion rather than merely existing in a branch where "reaching this conclusion" happened. The baseline cognition framework assumes consciousness genuinely selects among possibilities rather than merely observing branch-relative outcomes.
 
 **Occam's Razor Has Limits**: The simplest hypothesis—great apes lack human intelligence due to neural complexity alone, consciousness is epiphenomenal—fails the evidence. The systematic pattern, the empirical dissociations, the training effects all suggest consciousness causally contributes. Sometimes the parsimonious explanation is wrong.
 
@@ -195,15 +206,16 @@ The baseline cognition hypothesis could be undermined by:
 - [[animal-consciousness]] — The broader context including evolutionary evidence
 - [[minimal-consciousness]] — Model organisms and the boundaries of consciousness
 - [[global-workspace-theory]] — The broadcasting account of conscious access
+- [[free-will]] — How conscious deliberation supports libertarian free will
+- [[introspection]] — The capacity to examine one's own mental states
 - [[consciousness-independent-baseline-cognition-2026-01-21]] — Research notes underlying this article
 
 ## References
 
+- De Neys, W. (2012). Bias and conflict: A case for logical intuitions. *Perspectives on Psychological Science*, 7(1), 28-38.
 - Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
 - Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
 - Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 - Tomasello, M., Kruger, A.C., & Ratner, H.H. (1993). Cultural learning. *Behavioral and Brain Sciences*, 16(3), 495-511.
+- Völter, C.J., et al. (2023). Great ape cognition is structured by stable cognitive abilities that are robust against cognitive load. *Nature Scientific Reports*, 13, 3808.
 - Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
-- PMC10235977. (2023). Human and chimpanzee shared and divergent neurobiological systems.
-- Nature (2023). Great ape cognition is structured by stable cognitive abilities.
-- PMC9876876. (2023). Social cognition and metacognition in great apes: a theory.
