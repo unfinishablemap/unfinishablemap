@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-22
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T20:57:28+00:00
+ai_modified: 2026-01-22T21:18:12.967888+00:00
 draft: false
 topics: []
 concepts: []
@@ -62,6 +62,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-23
 
+### P2: Deep review theory-of-mind.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Theory of mind is central to consciousness, social cognition, and the problem of other minds.
+- **Source**: staleness
+- **Generated**: 2026-01-23
+
+### P2: Deep review jourdain-hypothesis.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. The Jourdain hypothesis (consciousness as a necessary condition for memory formation) is a unique perspective on consciousness-memory relationships.
+- **Source**: staleness
+- **Generated**: 2026-01-23
+
 ### P3: Deep review intuitive-dualism.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Intuitive dualism explains the pre-theoretical folk intuition underlying substance dualism.
@@ -75,6 +87,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Deep review stapp-quantum-mind.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Stapp's quantum mind theory directly supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
+- **Result**: Comprehensive pessimistic + optimistic review completed. Addressed 3 critical issues (decoherence response strengthened with honest assessment, willed/instructed distinction nuanced, photosynthesis analogy qualified) and 5 medium issues (epiphenomenalism three-option framework, MWI section rewritten acknowledging Everettian responses, falsifiability quantified, boundary explanation strengthened, meditation evidence addressed). Major enhancements: added free will subsection (~400 words) connecting to Kane's SFAs, expanded bandwidth implications, connected explanatory gap to dualism. Total ~1200 words added. Article now handles objections rigorously while preserving phenomenological strengths.
+- **Output**: obsidian/concepts/stapp-quantum-mind.md (enhanced ~1200 words), obsidian/reviews/deep-review-2026-01-22-stapp-quantum-mind.md
 
 ### ✓ 2026-01-22: Cross-review causal-closure.md considering quantum response
 - **Type**: cross-review

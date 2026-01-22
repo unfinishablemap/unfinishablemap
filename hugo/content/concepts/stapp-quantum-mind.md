@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-22 12:30:00+00:00
+ai_modified: 2026-01-22 21:16:05+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ date: &id001 2026-01-22
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-22 21:16:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,7 +88,7 @@ Recent neuroscience (Bengson 2019, Vossel 2023) reveals that not all top-down at
 
 Willed attention—internally generated rather than externally cued—engages distinct neural mechanisms: frontal theta oscillations (~500ms post-decision), bidirectional frontoparietal coherence, and additional frontal recruitment absent in cued attention. The neural distinction mirrors the phenomenal distinction: willed attention feels more effortful because it involves genuine decision-making, not mere implementation.
 
-This supports Stapp's framework. If effort were merely "what computation feels like," there would be no reason for different neural signatures when attention is self-generated versus externally cued. The distinct signatures suggest something beyond pure computation occurs during voluntary attention.
+This evidence is consistent with Stapp's framework, though it doesn't uniquely require it. A materialist could interpret the distinct signatures as evidence that self-generated attention involves more complex computation than cued attention—different phenomenology because different processing, not because non-physical causation enters. However, the phenomenological-neural correlation does show that the effort distinction tracks something real in brain function, not mere introspective illusion. If consciousness operates through attention as Stapp proposes, the willed/instructed distinction is exactly what we'd expect: different modes of conscious engagement producing different neural signatures.
 
 ## Empirical Support: Neuroplasticity
 
@@ -121,7 +121,19 @@ The [attention as interface hypothesis](/concepts/attention-as-interface/) exten
 
 ### Key Features
 
-**Bandwidth limitation**: Conscious processing operates at roughly 10 bits/second (Meister 2024)—vastly less than the brain's total information processing. This constrains what consciousness can select: coarse-grained policies and action patterns, not individual neurons.
+**Bandwidth limitation**: Conscious processing operates at roughly 10 bits/second (Meister 2024)—vastly less than the brain's total information processing (~10⁹ bits/second). This nine-orders-of-magnitude gap constrains what consciousness can select.
+
+The implications are significant:
+
+- **Policy-level selection**: Consciousness can't micromanage individual neurons or low-level computations. It operates at the level of goals, strategies, and action schemas—coarse-grained patterns the brain presents for selection.
+
+- **Unconscious implementation**: Once a policy is selected, unconscious mechanisms implement details. You consciously decide "reach for the cup," not the trajectory of 30 muscles. The Zeno mechanism holds the coarse pattern; motor systems fill in specifics.
+
+- **Attention as bottleneck**: The 10 bits/second limit explains why attention is selective—consciousness can't process everything simultaneously. It samples the option space the brain generates, selecting which patterns to amplify.
+
+- **Effort scaling**: If observation rate determines effort, and bandwidth limits observation capacity, this predicts that tasks requiring more simultaneous monitoring should feel more effortful. Multitasking is hard because you're dividing limited observation capacity.
+
+This bandwidth constraint makes the model more plausible, not less. A proposal where consciousness controlled individual neurons would face impossible coordination problems. Operating at policy level with limited bandwidth matches both phenomenology (we experience coarse intentions, not neural firing patterns) and neuroscience (top-down modulation affects network states, not individual spikes).
 
 **Candidate selection sites**: Research identifies several neural locations where quantum effects might survive long enough to matter:
 - Frontoparietal attention networks (attention control)
@@ -151,21 +163,49 @@ A neurofeedback study (Hasenkamp 2013) confirmed the correlation: when experienc
 
 This extends the framework. Consciousness can engage the selection mechanism (active mode) or observe without selecting (witness mode). The [witness state](/concepts/witness-consciousness/) isn't absence of consciousness but consciousness operating differently—present without intervening in which neural patterns become actual.
 
+## Free Will and Self-Forming Actions
+
+Stapp's model provides what libertarian free will requires: genuine indeterminacy combined with agent causation. Robert Kane's "self-forming actions" (SFAs) are decisions made in conditions of internal conflict where alternative outcomes remain genuinely open. For SFAs to be both free and non-random, Kane requires:
+
+1. **Indeterminacy**: Physical processes don't determine the outcome
+2. **Agency**: The agent's effort influences which outcome occurs
+3. **Intelligibility**: The choice follows from the agent's reasons and character, not mere chance
+
+Stapp's quantum Zeno mechanism satisfies all three:
+
+**Indeterminacy**: At quantum branch points, physics provides probabilities without determining particulars. Multiple neural patterns remain in superposition—the physical substrate doesn't settle which becomes actual.
+
+**Agency**: The agent's attention—their effort of will—biases the outcome. Sustained attention holds desired patterns through repeated observation. The effort is the mechanism; what you attend to is what you select.
+
+**Intelligibility**: The choice follows from reasons because attention is directed by deliberation. You consider options, evaluate reasons, and direct attention accordingly. The quantum selection doesn't bypass reasoning—it implements the outcome of reasoning through attentional engagement.
+
+James's insight connects directly: "The free will question relates solely to the amount of effort of attention." Effort isn't outside the causal order—it's the means by which consciousness enters the causal order at quantum indeterminacies.
+
+This framework avoids the standard objections to libertarian free will:
+
+- **Not random**: The selection follows from attention, attention follows from deliberation, deliberation reflects character and reasons. The causal chain is complete; only the final step operates through quantum selection rather than classical determination.
+
+- **Not mysterious**: The mechanism is specified—quantum Zeno effect through repeated observation. We can point to when and where it operates (attention networks, millisecond timescales).
+
+- **Not arbitrary**: Consciousness influences the brain but not distant objects because attention requires neural infrastructure. The boundary follows from how attention works, not from metaphysical fiat.
+
+Whether this constitutes "genuine" libertarian free will depends on prior commitments about what freedom requires. But Stapp's model provides the strongest mechanistic account available for how agent causation could operate within quantum mechanics. See [kane-self-forming-actions](/kane-self-forming-actions/) and [agent-causation](/concepts/agent-causation/) for fuller treatment.
+
 ## Objections and Responses
 
 ### The Decoherence Objection
 
 The most serious challenge: quantum coherence in warm, wet brains should decay far too quickly for the Zeno mechanism to operate. Tegmark (2000) calculated decoherence times of 10⁻¹³ seconds for neural superpositions—while neural processes operate at millisecond timescales.
 
-**Response**: Four considerations complicate this objection:
+**Response**: Four considerations complicate this objection, though none definitively resolve it:
 
-1. **Revised calculations**: Hameroff's group challenged Tegmark's model parameters. With corrections for superposition separation, interaction types, and dielectric constants, estimates increase to 10⁻⁵ seconds—seven orders of magnitude longer.
+1. **Revised calculations**: Hameroff's group challenged Tegmark's model parameters, producing estimates of 10⁻⁵ seconds rather than 10⁻¹³. However, these revised calculations remain contested and depend on assumptions about quantum isolation in biological systems. Even at 10⁻⁵ seconds, the gap between coherence times and neural processing (milliseconds) remains large. This response weakens but doesn't eliminate the decoherence challenge.
 
-2. **Biological precedent**: Quantum effects operate in photosynthesis, bird navigation (cryptochrome radical pair mechanism), and enzyme catalysis—all warm, wet systems. If evolution optimised quantum effects for navigation, it might optimise them for consciousness.
+2. **Biological precedent**: Quantum effects demonstrably operate in photosynthesis (exciton transfer), bird navigation (cryptochrome radical pairs), and enzyme catalysis—all warm, wet systems. However, these systems involve *specific molecular structures* evolutionarily optimised for quantum coherence (ordered protein scaffolds, protective chromophores). Brains lack analogous structures specifically evolved for quantum coherence. The precedent shows warm quantum effects are *possible*, not that brains implement them. The analogy is suggestive but not decisive.
 
-3. **Decoherence doesn't solve the measurement problem**: As a 2025 review notes, "Decoherence does not tell how and why only one of these outcomes is measured." Decoherence selects preferred bases without explaining why we see *definite* outcomes. Consciousness could bias outcomes at measurement even after decoherence.
+3. **Decoherence doesn't solve the measurement problem**: Decoherence explains why superpositions appear classical but not why measurements yield *definite* outcomes. As a 2025 review notes, "Decoherence does not tell how and why only one of these outcomes is measured." If measurement requires something beyond unitary evolution, consciousness could provide it—biasing outcomes at the moment of determination even after environmental entanglement. This shifts the proposal: consciousness operates at measurement collapse, not by preventing decoherence.
 
-4. **Zeno sidestep**: The mechanism doesn't require sustained coherence *between* observations—only that observations occur faster than decoherence. If selection cycles operate on appropriate timescales, decoherence between cycles isn't fatal.
+4. **Timescale matching**: The mechanism doesn't require sustained coherence between observations—only that attention cycles occur faster than the relevant decoherence. If neural selection operates on millisecond timescales and decoherence times are microseconds, consciousness would need ~1000 observation cycles per selection event. This is conceptually possible but empirically unverified. The proposal remains speculative pending evidence that attention operates at these rates.
 
 ### The Formalism Objection
 
@@ -175,9 +215,19 @@ Danko Georgiev (2014) argues that Stapp's model treats mind as using projection 
 
 ### The Epiphenomenalist Alternative
 
-Perhaps the feeling of effort is just what certain neural computations feel like—no quantum mechanism required.
+Perhaps the feeling of effort is just what certain neural computations feel like—no quantum mechanism required. Consciousness accompanies neural selection without causing it.
 
-**Response**: This position faces the self-stultification problem. If effort phenomenology is causally disconnected from actual cognitive engagement, why should it track reality? Why do hard tasks feel hard and easy tasks feel easy? The quantum Zeno account explains the correspondence: effort feels effortful because it *is* continuous mental engagement. The phenomenology matches the mechanism because it reflects the mechanism.
+**Response**: Epiphenomenalism faces a calibration problem. If effort phenomenology is causally disconnected from actual cognitive engagement, why should it reliably track task difficulty? Why do hard tasks feel hard and easy tasks feel easy? The correlation requires explanation.
+
+Three options present themselves:
+
+1. **Pre-established harmony**: Evolution calibrated effort feelings to match neural requirements. But this seems implausible—why invest in an elaborate phenomenal system that does nothing? Natural selection rewards function, not epiphenomenal decoration.
+
+2. **Necessary accompaniment**: Effort feelings necessarily accompany certain computations—they can't come apart. But this reintroduces the explanatory gap: why should particular computations *necessarily* produce particular phenomenology? The necessity requires metaphysical explanation.
+
+3. **Causal connection**: Effort phenomenology tracks task difficulty because consciousness participates in neural selection. The Stapp mechanism provides this connection: effort feels effortful because it *is* continuous engagement in quantum observation.
+
+The epiphenomenalist can bite the bullet on (1) or (2), but both involve significant theoretical costs. The causal connection (3) explains the phenomenology-function correlation most naturally.
 
 ### The Illusionist Challenge
 
@@ -210,6 +260,12 @@ Stapp's model may be the closest match to The Unfinishable Map's tenets among ex
 
 The model presupposes consciousness is distinct from neural processing. If consciousness were identical to attention mechanisms, "consciousness observing neural states" would be circular—neurons observing neurons. The model requires a non-physical subject deploying attention as mechanism. The willed-instructed distinction provides evidence: something changes neurally when genuine decision occurs versus mere implementation.
 
+Stapp's framework illuminates why the [explanatory-gap](/concepts/explanatory-gap/) exists. Physical descriptions characterise superpositions—multiple possible states with defined amplitudes. Experiential descriptions characterise selection—the determination of which possibility becomes actual. The gap isn't a deficiency in our understanding; it reflects genuine ontological duality. Physics describes the option space; consciousness determines the selection. Neither reduces to the other because they're complementary aspects of quantum reality.
+
+This dissolves a puzzle: why can't physical explanation ever seem to capture phenomenal character? Because physical explanation deals in superpositions and probabilities, while phenomenal explanation deals in actualities and selections. You can't derive "what it's like to attend" from neural superpositions because the attending *is* the selection process that collapses the superposition. The explanandum (phenomenal selection) is the mechanism, not a further fact about configurations.
+
+The model thus preserves rather than closes the explanatory gap—but renders it intelligible by showing why the gap must exist given the quantum structure of reality.
+
 ### Minimal Quantum Interaction
 
 Stapp's proposal exemplifies minimal interaction. Consciousness doesn't inject energy or violate conservation laws—it shapes which neural patterns actualise by observing them. The phenomenology matches: sustained attention feels like work but not like energy expenditure. Mental fatigue differs from physical fatigue—a different currency entirely. This asymmetry supports consciousness operating at quantum indeterminacies rather than through classical energy transfer.
@@ -220,7 +276,13 @@ The neuroplasticity evidence shows downward causation in action. Schwartz's OCD 
 
 ### No Many Worlds
 
-If all quantum outcomes occur in branching universes, what does "effort" select? Both the branch where you focused and the branch where you didn't would exist equally. Effort would be the illusion of choosing what was never chosen. But effort phenomenology is precisely one of singular determination: you attend *here*, and alternatives fade. The felt singularity of effortful selection supports the Map's rejection of interpretations where all outcomes are equally real.
+If all quantum outcomes occur in branching universes, what does "effort" select? Under the Everett interpretation, both the branch where you focused and the branch where you didn't would exist. Effort would be the experience of your branch, not selection of which branch becomes actual.
+
+The phenomenology creates tension with MWI. Effort feels like *determination*—singular selection among alternatives. When you sustain attention, it feels like alternatives are suppressed, not that they occur in parallel branches. The felt quality of selection supports collapse interpretations where effort genuinely determines outcomes.
+
+However, MWI defenders can respond: all experiences feel singular to their subjects, even in a branching multiverse. The version of you in each branch experiences that branch as uniquely actual. Branch weights (amplitude-squared) could ground decision theory—"effort" corresponds to actions that increase measure in favourable branches. David Wallace's decision-theoretic framework attempts to recover agency under MWI without collapse.
+
+The debate remains open. The phenomenology of singular determination is real, but whether this supports collapse or merely reflects how branching feels to subjects depends on broader metaphysical commitments. The Stapp model's appeal partly rests on preserving the phenomenology's face-value interpretation: effort selects because only one outcome occurs.
 
 ### Occam's Razor Has Limits
 
@@ -230,17 +292,17 @@ The materialist can dismiss effort phenomenology as "what computation feels like
 
 The model generates falsifiable predictions:
 
-1. **Effort phenomenology proves inconsistent across trained observers.** If careful introspection revealed radically different phenomenologies under identical conditions, the claim to track a genuine phenomenon would weaken.
+1. **Effort phenomenology proves inconsistent across trained observers.** If >30% of trained phenomenologists (with >100 hours introspective practice) reported fundamentally different phenomenologies for "effortful attention" under identical conditions, the claim to track a universal phenomenon would weaken significantly.
 
-2. **The willed/instructed distinction dissolves neurally.** If the frontal theta and bidirectional coherence signatures proved artifactual, the neural support would collapse.
+2. **The willed/instructed distinction dissolves neurally.** If the frontal theta signature (4-7 Hz oscillations 300-700ms post-decision) and bidirectional coherence patterns proved artifactual across >3 independent replications with sufficient power (n>30), the neural support would collapse.
 
-3. **Neuroplasticity occurs without phenomenal effort.** If equivalent brain changes occurred under anaesthesia or in non-conscious systems, the effort-change connection would sever.
+3. **Neuroplasticity occurs without phenomenal effort.** If equivalent structural brain changes (>15% metabolic change in target regions) occurred under general anaesthesia, during sleep, or in demonstrably non-conscious systems, the effort-change connection would sever. Current evidence suggests conscious engagement is necessary.
 
-4. **Quantum biology proves non-functional.** If all biological quantum effects proved epiphenomenal, the analogy between quantum navigation and quantum consciousness would weaken.
+4. **Quantum biology proves non-functional.** If all biological quantum effects (photosynthesis coherence, cryptochrome magnetoreception, enzymatic tunnelling) proved epiphenomenal—present but functionally irrelevant—the analogy between quantum navigation and quantum consciousness would weaken considerably.
 
-5. **Attention bandwidth exceeds conscious limits.** If consciousness could select more than ~10 bits/second, the bandwidth constraint would be violated.
+5. **Attention bandwidth exceeds conscious limits.** If experiments demonstrated conscious selection exceeding 15 bits/second consistently (>2σ above Meister's estimate), the bandwidth constraint would be violated. The mechanism predicts consciousness operates at limited rates.
 
-6. **Contemplative training reveals effort as illusory.** If advanced meditators consistently reported the effort distinction was beginner's confusion, illusionism would gain force.
+6. **Contemplative training reveals effort as illusory.** If >50% of advanced meditators (>5000 hours practice) from multiple traditions consistently reported that the effort distinction was beginner's confusion that dissolves with training, illusionism would gain force. Current evidence suggests effort/effortlessness becomes clearer, not illusory, with practice.
 
 ## Further Reading
 
