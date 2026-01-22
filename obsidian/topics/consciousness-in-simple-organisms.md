@@ -3,12 +3,13 @@ title: "Consciousness in Simple Organisms"
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T21:45:00+00:00
+ai_modified: 2026-01-22T04:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[animal-consciousness]]"
 concepts:
+  - "[[baseline-cognition]]"
   - "[[evolution-of-consciousness]]"
   - "[[panpsychism]]"
   - "[[minimal-consciousness]]"
@@ -24,6 +25,8 @@ concepts:
   - "[[philosophical-zombies]]"
   - "[[consciousness-as-amplifier]]"
   - "[[phenomenology-of-choice]]"
+  - "[[working-memory]]"
+  - "[[metacognition]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-simple-organisms-2026-01-19]]"
@@ -73,6 +76,22 @@ The remarkable finding: nerve-free Hydra can survive indefinitely when force-fed
 - Stores memory traces in extracellular slime
 
 The question is what this demonstrates. Is this cognition? Is this consciousness? Or is it merely biochemistry that mimics cognitive outcomes without any experiential dimension? The Map's framework suggests distinguishing between *cognition* (information processing achieving adaptive outcomes) and *consciousness* (phenomenal experience). Slime molds may possess the former without the latter—or the line may be impossible to draw.
+
+### The Baseline Cognition Framework
+
+The [[baseline-cognition]] concept—what cognition achieves without substantial conscious contribution—provides a useful framework for interpreting simple organism behaviour. Great apes demonstrate sophisticated cognitive capacities that appear to operate without the metarepresentational consciousness that distinguishes human cognition: tool use, social reasoning, procedural metacognition, cultural traditions—all within what Tomasello calls the "zone of latent solutions," achievable by recombining existing cognitive resources without insight that transcends current representations.
+
+Applied to simple organisms:
+
+| Organism | Cognition Present? | Consciousness Indicators |
+|----------|-------------------|-------------------------|
+| *C. elegans* | Habituation, sensitisation, associative learning | Anaesthetic response, positive Phi, but fails trace conditioning |
+| Hydra | Habituation, sensitisation, prey detection | No associative learning; distributed processing |
+| Slime molds | Maze-solving, network optimisation, habituation | No neurons at all; purely biochemical? |
+
+The slime mold case is particularly illuminating. Its maze-solving and network optimisation remain firmly within the zone of latent solutions—trial-and-error exploration and biochemical gradients, not insight or metarepresentation. This suggests *cognition* without even the procedural [[metacognition]] great apes possess. The slime mold doesn't "feel uncertain" and seek more information; it simply extends pseudopodia in all directions until food is found.
+
+If baseline cognition marks what neural systems achieve without consciousness, and great apes represent that boundary, simple organisms help define the lower limit of cognition itself. *C. elegans* may possess something like procedural metacognition (seeking information when processing fails), while slime molds achieve adaptive outcomes through purely chemical dynamics. The gradient from slime mold to nematode to great ape to human may track not just complexity but qualitatively different cognitive regimes—and possibly qualitatively different relationships to consciousness.
 
 ## The Distribution Problem
 
@@ -173,6 +192,9 @@ The Map rejects MWI partly because it undermines the [[haecceity]]—the irreduc
 
 ## Further Reading
 
+- [[baseline-cognition]] — What cognition achieves without consciousness and why great apes mark the boundary
+- [[working-memory]] — The capacity expansion that enables consciousness-dependent cognition
+- [[metacognition]] — The procedural/declarative distinction and its implications for simple organism consciousness
 - [[consciousness-as-amplifier]] — How consciousness amplifies intelligence and why the human-ape gap supports causal efficacy
 - [[minimal-consciousness]] — Lower bounds of conscious experience and the three-level metarepresentational framework
 - [[animal-consciousness]] — Survey of consciousness across species
