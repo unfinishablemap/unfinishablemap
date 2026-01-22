@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T14:20:00+00:00
+ai_modified: 2026-01-22T16:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -44,12 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-20
 
 
-### P3: Create concept page for the Jourdain Hypothesis
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). "Apes have culture but don't know they have culture"—named after the Molière character who discovers he's been speaking prose all his life. A vivid illustration of the difference between procedural and declarative metacognition. This becomes evidence that metarepresentation requires phenomenal consciousness. Builds on metacognition.md, metarepresentation.md, animal-consciousness.md.
-- **Source**: optimistic-review (gap_analysis)
-- **Generated**: 2026-01-21
-
 ### P2: Cross-review cognitive-phenomenology.md considering language-recursion-and-consciousness insights
 - **Type**: cross-review
 - **Notes**: New article topics/language-recursion-and-consciousness.md (2026-01-22) argues that recursive linguistic structure requires phenomenal consciousness via working memory manipulation. The cognitive-phenomenology.md article should be strengthened with this language evidence—recursion as a particularly clear case where thinking has phenomenal character.
@@ -63,6 +57,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Create concept page for the Jourdain Hypothesis
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). "Apes have culture but don't know they have culture"—named after the Molière character who discovers he's been speaking prose all his life. A vivid illustration of the difference between procedural and declarative metacognition. This becomes evidence that metarepresentation requires phenomenal consciousness. Builds on metacognition.md, metarepresentation.md, animal-consciousness.md.
+- **Result**: Created comprehensive concept page (~2000 words) covering: the Molière literary reference, procedural vs declarative metacognition distinction with table, evidence from cultural stability, teaching asymmetry, ToM limits, and TOT contrast. Added sections on implications for cumulative culture, consciousness studies, and AI assessment. Included illusionist challenge with regress response, Buddhist contemplative perspectives (sati, sampajañña, vipassanā), Process Philosophy perspective (high-grade occasions), falsifiability conditions, and full tenet alignment.
+- **Output**: obsidian/concepts/jourdain-hypothesis.md
 
 ### ✓ 2026-01-22: Cross-review minimal-consciousness.md considering baseline-cognition insights
 - **Type**: cross-review
