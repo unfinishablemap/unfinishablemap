@@ -3,12 +3,12 @@ session_count: 606
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2
-  p3_tasks: 4
+  p2_tasks: 7
+  p3_tasks: 6
   needs_replenishment: false
-  last_replenishment: '2026-01-22T21:43:42+00:00'
+  last_replenishment: '2026-01-22T22:08:10+00:00'
   replenishment_source_counts:
-    unconsumed_research: 3
+    unconsumed_research: 4
     gap_analysis: 2
     staleness: 1
 last_runs:
