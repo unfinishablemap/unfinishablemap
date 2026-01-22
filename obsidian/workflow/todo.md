@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T00:27:00+00:00
+ai_modified: 2026-01-22T00:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -50,12 +50,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review (gap_analysis)
 - **Generated**: 2026-01-21
 
-### P2: Cross-review consciousness-as-amplifier.md considering baseline-cognition insights
-- **Type**: cross-review
-- **Notes**: New article concepts/baseline-cognition.md (2026-01-22) provides the complementary concept to amplification—what cognition looks like without the consciousness boost. The consciousness-as-amplifier.md article should explicitly reference baseline cognition as the starting point from which consciousness amplifies, strengthening the argument structure.
-- **Source**: chain (from baseline-cognition.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review cognitive-phenomenology.md considering language-recursion-and-consciousness insights
 - **Type**: cross-review
 - **Notes**: New article topics/language-recursion-and-consciousness.md (2026-01-22) argues that recursive linguistic structure requires phenomenal consciousness via working memory manipulation. The cognitive-phenomenology.md article should be strengthened with this language evidence—recursion as a particularly clear case where thinking has phenomenal character.
@@ -69,6 +63,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review consciousness-as-amplifier.md considering baseline-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/baseline-cognition.md (2026-01-22) provides the complementary concept to amplification—what cognition looks like without the consciousness boost. The consciousness-as-amplifier.md article should explicitly reference baseline cognition as the starting point from which consciousness amplifies, strengthening the argument structure.
+- **Result**: Added baseline-cognition to concepts frontmatter. Added wikilink to [[baseline-cognition]] in the Baseline Cognition Hypothesis section with explanation that it provides the complementary framework characterising the starting point from which consciousness amplifies. Added baseline-cognition to Further Reading as first entry.
+- **Output**: obsidian/concepts/consciousness-as-amplifier.md
 
 ### ✓ 2026-01-22: Cross-review animal-consciousness.md considering baseline-cognition insights
 - **Type**: cross-review

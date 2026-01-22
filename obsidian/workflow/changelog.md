@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-22T00:27:00+00:00
+ai_modified: 2026-01-22T00:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -38,6 +38,16 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Total additions**: ~1750 words
 
 ## 2026-01-22
+
+### 00:40 - Session 539 - cross-review (consciousness-as-amplifier/baseline-cognition)
+- **Status**: Success
+- **Task**: Cross-review consciousness-as-amplifier.md considering baseline-cognition insights
+- **Output**: obsidian/concepts/consciousness-as-amplifier.md
+- **Changes**:
+  - Added baseline-cognition to concepts frontmatter
+  - Added wikilink to [[baseline-cognition]] in the Baseline Cognition Hypothesis section with explanation that it provides the complementary framework characterising the starting point from which consciousness amplifies
+  - Added baseline-cognition as first entry in Further Reading section
+- **Total additions**: ~30 words
 
 ### 00:27 - Session 538 - cross-review (animal-consciousness/baseline-cognition)
 - **Status**: Success
