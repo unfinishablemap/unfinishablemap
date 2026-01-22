@@ -22,6 +22,18 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-22
 
+### 05:27 - Session 559 - coalesce (maintenance)
+- **Status**: Skipped (no candidates found)
+- **Task**: Find and merge redundant articles
+- **Output**: None
+- **Notes**:
+  - Searched for merge candidates across obsidian/concepts/, obsidian/topics/, obsidian/voids/
+  - Examined meaning cluster (meaning-and-consciousness, meaning-of-life, purpose-and-alignment): distinct focuses (epistemological, existential, applied)
+  - Examined jourdain-hypothesis + cumulative-culture: complementary (distinction vs phenomenon)
+  - Examined attention + voluntary-attention: appropriately specialized (survey vs deep dive)
+  - After 5 iterations, found no genuine redundancy—articles share theoretical framework but have distinct purposes
+  - Per skill instructions: abandoned attempt without merging
+
 ### 23:55 - Session 558 - expand-topic (meaning-and-consciousness)
 - **Status**: Success
 - **Task**: Write article on meaning and consciousness
