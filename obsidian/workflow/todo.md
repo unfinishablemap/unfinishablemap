@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-22
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T22:23:31+00:00
+ai_modified: 2026-01-22T22:44:55+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write article on consciousness as intelligence amplifier
-- **Type**: expand-topic
-- **Notes**: Based on research/consciousness-influence-intelligence-2026-01-21.md. Strong evidence that consciousness enables flexible responses, logical reasoning, counterfactual thinking, metacognitive monitoring. Evolutionary argument: consciousness couldn't have evolved if epiphenomenal. Working memory expansion (2±1 in apes vs 7±2 in humans) may reflect consciousness expansion. Directly supports Bidirectional Interaction tenet.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-22
 
 ### P3: Create voids article on temporal asymmetry
 - **Type**: expand-topic
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Write article on consciousness as intelligence amplifier
+- **Type**: expand-topic
+- **Notes**: Based on research/consciousness-influence-intelligence-2026-01-21.md. Strong evidence that consciousness enables flexible responses, logical reasoning, counterfactual thinking, metacognitive monitoring. Evolutionary argument: consciousness couldn't have evolved if epiphenomenal. Working memory expansion (2±1 in apes vs 7±2 in humans) may reflect consciousness expansion. Directly supports Bidirectional Interaction tenet.
+- **Result**: Created comprehensive 3400-word topic article exploring how consciousness amplifies intelligence through flexible deployment, metacognitive monitoring, logical reasoning, counterfactual thinking, and cumulative culture. Synthesized evolutionary argument (consciousness must have causal effects to be selected), empirical evidence (logical reasoning requires conscious processing), great ape-human gap (working memory 2±1 vs 7±2), and cumulative culture hypothesis. Strong support for Bidirectional Interaction tenet—epiphenomenal consciousness cannot explain why it evolved or why phenomenal character correlates with adaptive value.
+- **Output**: obsidian/topics/consciousness-as-intelligence-amplifier.md
 
 ### ✓ 2026-01-22: Deep review jourdain-hypothesis.md
 - **Type**: deep-review

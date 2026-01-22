@@ -165,3 +165,8 @@ task_chains:
     - concepts/binding-problem.md
     - concepts/phenomenal-unity.md
     generated: '2026-01-22T22:30:58.898929+00:00'
+  - new_article: topics/consciousness-as-intelligence-amplifier.md
+    review_targets:
+    - concepts/interactionist-dualism.md
+    - concepts/epiphenomenalism.md
+    generated: '2026-01-22T22:45:05.752492+00:00'
