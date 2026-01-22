@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T07:46:00+00:00
+ai_modified: 2026-01-22T08:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -61,7 +61,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
+### P2: Cross-review cumulative-culture.md considering teaching insights
+- **Type**: cross-review
+- **Notes**: New article concepts/teaching-as-metarepresentation.md (2026-01-22) argues that teaching enables cumulative culture by transmitting knowledge intentionally. The cumulative-culture.md article could be strengthened by connecting the teaching mechanism more explicitly—explaining why social learning alone (which apes have) cannot sustain cumulative culture, but teaching (which requires consciousness) can.
+- **Source**: chain (from teaching-as-metarepresentation.md)
+- **Generated**: 2026-01-22
+
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review metarepresentation.md considering teaching insights
+- **Type**: cross-review
+- **Notes**: New article concepts/teaching-as-metarepresentation.md (2026-01-22) provides concrete evidence that teaching requires metarepresentation. The metarepresentation.md article could be strengthened by adding teaching as a paradigm case, connecting the nested representational structure of teaching to metarepresentational theory, and noting the great ape evidence.
+- **Result**: Added teaching-as-metarepresentation to concepts frontmatter. Added new "Teaching as Paradigm Case" subsection (~250 words) after the phenomenology-of-choice discussion, explaining the 5-level nested structure of teaching and the striking great ape evidence. Added teaching-as-metarepresentation to top of Further Reading.
+- **Output**: obsidian/concepts/metarepresentation.md
 
 ### ✓ 2026-01-22: Write article on teaching as metarepresentational achievement
 - **Type**: expand-topic
