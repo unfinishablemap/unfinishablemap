@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-22
 human_modified: 2026-01-22T15:29:26+00:00
-ai_modified: 2026-01-22T23:52:39.016868+00:00
+ai_modified: 2026-01-22T23:57:22.787077+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on consciousness and time perception
+- **Type**: expand-topic
+- **Notes**: Based on research/consciousness-time-perception-2026-01-14.md. How consciousness structures temporal experience: subjective flow, duration perception, specious present, temporal binding. Connects to altered-states-consciousness.md, phenomenology.md, philosophy-of-time.md. Directly supports Dualism tenet by showing temporal phenomenology resists physical reduction.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
+
+### P2: Write article on quantum measurement interpretations beyond MWI
+- **Type**: expand-topic
+- **Notes**: Based on research/qm-interpretations-beyond-mwi-2026-01-16.md. Comprehensive coverage of viable alternatives to Many Worlds: objective collapse (GRW, CSL, Orch OR), Copenhagen, pilot-wave, relational QM. Critical for No Many Worlds tenet defense—shows MWI is not the only scientifically respectable option.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
+
+### P2: Write article on voluntary attention control mechanisms
+- **Type**: expand-topic
+- **Notes**: Based on research/voluntary-attention-control-mechanisms-2026-01-17.md. How consciousness directs attention: endogenous vs exogenous control, top-down modulation, goal-directed deployment. Connects to attention.md, free-will.md, agent-causation.md. Supports Bidirectional Interaction tenet by demonstrating consciousness causally influences neural processing.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
+
+### P2: Write article on mysterianism and cognitive closure
+- **Type**: expand-topic
+- **Notes**: Based on research/mysterianism-cognitive-closure-2026-01-14.md. McGinn's argument that humans may be constitutionally incapable of solving the hard problem. Connects to hard-problem-of-consciousness.md, explanatory-gap.md, voids concept. Relates to Occam's Razor Has Limits tenet—our inability to imagine a solution may reflect cognitive limits, not metaphysical impossibility.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
+
+### P2: Write article on AI and machine consciousness
+- **Type**: expand-topic
+- **Notes**: Based on research/ai-machine-consciousness-2026-01-08.md. Can artificial systems be conscious? Substrate independence vs biological chauvinism, integrated information in silicon, uploading scenarios. Connects to llm-consciousness.md, computational-theory-of-mind.md, substrate-independence.md. Tests Dualism tenet implications.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
 
 ### P3: Create voids article on temporal asymmetry
 - **Type**: expand-topic
