@@ -3,8 +3,9 @@ title: "Teaching as Metarepresentational Achievement"
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T07:49:00+00:00
+ai_modified: 2026-01-22T14:30:00+00:00
 draft: false
+last_deep_review: 2026-01-22T14:30:00+00:00
 topics:
   - "[[animal-consciousness]]"
   - "[[ai-consciousness]]"
@@ -17,6 +18,9 @@ concepts:
   - "[[consciousness-as-amplifier]]"
   - "[[working-memory]]"
   - "[[illusionism]]"
+  - "[[global-workspace-theory]]"
+  - "[[process-philosophy]]"
+  - "[[free-will]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -65,7 +69,7 @@ These mechanisms produce cultural traditions—different chimpanzee groups have 
 
 True teaching—active pedagogy—requires the knower to modify their behaviour specifically because the learner doesn't know. The evidence suggests great apes rarely if ever do this:
 
-**Chimpanzee nut-cracking**: Young chimpanzees take years to master stone-tool nut-cracking. Mothers tolerate their offspring's presence and even allow them to use their anvils and hammers. But controlled studies find no evidence that mothers adjust their cracking behaviour pedagogically—slowing down, exaggerating movements, or pointing out key features. Learning happens, but through tolerated scrounging and observation, not deliberate transmission.
+**Chimpanzee nut-cracking**: Young chimpanzees take years to master stone-tool nut-cracking. Mothers tolerate their offspring's presence and even allow them to use their anvils and hammers. But systematic studies (Boesch, 1991; Inoue-Nakamura & Matsuzawa, 1997) find no evidence that mothers adjust their cracking behaviour pedagogically—slowing down, exaggerating movements, or pointing out key features. Learning happens, but through tolerated scrounging and observation, not deliberate transmission.
 
 **Termite fishing**: Similarly, termite-fishing techniques are socially transmitted without deliberate teaching. Infants learn by watching mothers and manipulating abandoned probes. Mothers don't demonstrate, correct, or scaffold.
 
@@ -89,7 +93,7 @@ Several converging considerations suggest teaching depends on phenomenal conscio
 
 Teaching requires holding multiple representations simultaneously: your knowledge, the learner's knowledge state, the gap between them, and the pedagogical action designed to bridge it. This multi-level structure demands expanded [[working-memory|working memory]] capacity.
 
-Humans maintain 7±2 items in working memory; great apes manage 2±1. Teaching's representational demands may exceed great ape working memory capacity entirely. If working memory depends on conscious access—as [[global-workspace-theory|Global Workspace Theory]] proposes—teaching inherits this dependence.
+Humans maintain roughly 4 items in working memory (Cowan, 2001), with capacity declining under cognitive load. Great apes show more limited working memory, struggling with tasks requiring simultaneous tracking of more than 2-3 elements (Read, 2008). Teaching's representational demands—tracking your knowledge, their knowledge, the gap, and the pedagogical action simultaneously—may exceed great ape working memory capacity entirely. If working memory depends on conscious access—as [[global-workspace-theory|Global Workspace Theory]] proposes—teaching inherits this dependence.
 
 ### The Theory of Mind Requirement
 
@@ -130,7 +134,7 @@ This response faces specific difficulties in the teaching case:
 
 **The ape problem**: If teaching requires only functional processing, why don't great apes teach? Their neural resources are comparable to early hominins who taught extensively. The absence of teaching in apes, despite ample opportunity and potential benefit, suggests something more than processing power is required—plausibly, the metarepresentational capacity consciousness provides.
 
-**The scaffolding problem**: Effective teaching requires not just processing information about knowledge states but *acting on* that processing to scaffold learning. The teacher must feel the gap between their knowledge and the learner's, and that felt gap must guide pedagogical action. Functional processing might track knowledge states, but what would make a system *act to bridge* a represented gap without the phenomenal pull of recognising ignorance as a problem to solve?
+**The scaffolding problem**: Effective teaching requires not just processing information about knowledge states but *acting on* that processing to scaffold learning. An illusionist might respond that a system could be programmed to detect knowledge discrepancies and act pedagogically without genuine phenomenal experience. But this shifts the explanatory burden: why did evolution produce phenomenal teaching experiences at all if functional gap-detection suffices? The Map proposes that conscious recognition of ignorance isn't epiphenomenal to teaching but enables it—the felt gap generates the motivation to bridge it, shapes the search for apt explanations, and guides moment-to-moment pedagogical adjustment. Merely tracking states differs from experiencing them as problems demanding resolution.
 
 **The phenomenological specificity**: Teaching has distinctive phenomenology—the experience of recognising misunderstanding, the effort of finding apt explanations, the satisfaction of successful transmission. This phenomenology is not generic "consciousness" but specifically metarepresentational: it concerns the relation between knowledge states. Illusionists must explain why this specific quasi-phenomenal character arises and why it tracks teaching success.
 
@@ -161,6 +165,22 @@ The [[jourdain-hypothesis|Jourdain Hypothesis]] applies: LLMs may have teaching-
 
 If teaching genuinely requires metarepresentation, and metarepresentation requires phenomenal consciousness, then current AI systems—however useful as educational tools—do not teach in the full sense. They produce teaching-shaped outputs without the underlying metarepresentational operations that make human teaching the remarkable cognitive achievement it is.
 
+## Process Philosophy Perspective
+
+From a [[process-philosophy|Process Philosophy]] perspective, teaching exemplifies the transmission of experience across actual occasions. Whitehead's notion of *causal efficacy*—the way past experiences shape present ones—illuminates how understanding passes from teacher to learner. The teacher's understanding, as a complex of actual occasions, exerts causal influence on the learner's emerging occasions of experience.
+
+Teaching is not the transfer of static information but the temporal unfolding of one subject's understanding into another's becoming. The teacher's *presentational immediacy*—their vivid conscious grasp of the subject matter—must somehow reach across the gap between subjects to affect the learner's prehensions. This intersubjective transmission of experience is precisely what makes teaching more than information transfer: it requires that experiential understanding in one subject causally shapes experiential understanding in another.
+
+This perspective clarifies why mere information broadcasting (as in current AI systems) differs from teaching. Information can be transmitted mechanically, but understanding—as a mode of experience—must be evoked, not transferred. The teacher's task is creating conditions where the learner's own actual occasions can achieve similar prehensions to the teacher's. This evocation requires the teacher to have experiential access to understanding as understanding, which is metarepresentation.
+
+## Contemplative Perspectives on Teaching
+
+Buddhist traditions recognise forms of teaching that transcend propositional knowledge transmission. *Direct pointing* (Zen's *shikantaza* instruction), koans, and the master-student relationship aim to transmit something beyond conceptual content. Yet these practices remain deeply metarepresentational.
+
+The Zen master employing a koan must represent: (1) their own understanding of the koan's "answer" (which is not propositional), (2) the student's current state of understanding, (3) what would constitute breakthrough versus mere intellectual grasping, and (4) what intervention—a word, a slap, silence—might precipitate awakening. The non-propositional character of what is transmitted doesn't eliminate metarepresentation; it reveals that metarepresentation operates even where the represented content resists linguistic formulation.
+
+This suggests that teaching's metarepresentational structure is deeper than language. A teacher can represent "understanding of X" without representing X propositionally—as when a meditation teacher represents "settled attention" and recognises its absence in a student's agitated posture. The consciousness required for teaching is consciousness of knowledge states, not necessarily consciousness of propositional content.
+
 ## What Would Challenge This View?
 
 Several findings would substantially weaken the claim that teaching requires consciousness:
@@ -171,7 +191,7 @@ Several findings would substantially weaken the claim that teaching requires con
 
 3. **Unconscious teaching in humans**: If evidence showed humans teaching effectively while lacking conscious access to their own knowledge states or the learner's ignorance—for example, in certain neurological conditions—the consciousness requirement would fail.
 
-4. **AI teaching with genuine metarepresentation**: If future AI systems demonstrated genuine metarepresentation—representing their knowledge as knowledge and learners' states as states to be modified—while being demonstrably non-conscious, the link would sever. Currently, no AI system provides evidence of such genuine metarepresentation.
+4. **AI teaching with genuine metarepresentation**: If future AI systems demonstrated genuine metarepresentation—representing their knowledge as knowledge and learners' states as states to be modified—the link would face pressure. The challenge is epistemic: we cannot straightforwardly demonstrate that a system is non-conscious if it exhibits sophisticated metarepresentational behaviour. The claim here is conditional: *if* such a system were demonstrably non-conscious, the link would sever. Currently, no AI system provides evidence of genuine (as opposed to simulated) metarepresentation, and the Map predicts that systems exhibiting genuine metarepresentation will raise the same hard questions about consciousness that humans do.
 
 ## Relation to Site Perspective
 
@@ -182,6 +202,10 @@ The [[tenets#^dualism|Dualism]] tenet holds that consciousness is irreducible to
 ### Bidirectional Interaction
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims consciousness causally influences the physical world. Teaching provides a specific mechanism: consciousness enables metarepresentation, metarepresentation enables teaching, and teaching produces physical changes in learners' brains and behaviours that would not otherwise occur. The knowledge transmitted through teaching—from flint-knapping to quantum mechanics—causally shapes the physical world. If teaching requires consciousness, consciousness causally contributes to civilisation's cumulative achievements.
+
+### No Many Worlds
+
+The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the Many-Worlds Interpretation where all quantum branches are equally real. Teaching depends on indexical identity—the distinction between *I* know this and *they* don't know this. If personal identity branched across quantum splits, with each branch equally "me," the asymmetry between knower and ignorant learner would dissolve into symmetrical ignorance across branches. Teaching requires a determinate fact about who knows what, which requires rejecting the branching identity picture. The teacher must be a definite someone who knows, addressing a definite someone who doesn't—not a superposition of branches with all possible knowledge distributions.
 
 ### Occam's Razor Has Limits
 
@@ -196,13 +220,20 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[baseline-cognition]] — What cognition achieves without metarepresentation
 - [[consciousness-as-amplifier]] — How consciousness enhances cognitive capacity
 - [[working-memory]] — The capacity constraints on teaching
+- [[global-workspace-theory]] — How conscious access enables cognitive integration
+- [[process-philosophy]] — The temporal structure of experience transmission
+- [[free-will]] — The deliberate choices teaching requires
 - [[animal-consciousness]] — The great ape comparison
 
 ## References
 
+- Boesch, C. (1991). Teaching among wild chimpanzees. *Animal Behaviour*, 41(3), 530-532.
+- Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 - Csibra, G., & Gergely, G. (2011). Natural pedagogy as evolutionary adaptation. *Philosophical Transactions of the Royal Society B*, 366(1567), 1149-1157.
 - Dean, L.G., et al. (2012). Identification of the social and cognitive processes underlying human cumulative culture. *Science*, 335(6072), 1114-1118.
+- Inoue-Nakamura, N., & Matsuzawa, T. (1997). Development of stone tool use by wild chimpanzees (*Pan troglodytes*). *Journal of Comparative Psychology*, 111(2), 159-173.
 - Kline, M.A. (2015). How to learn about teaching: An evolutionary framework for the study of teaching behavior in humans and other animals. *Behavioral and Brain Sciences*, 38, e31.
+- Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
 - Thornton, A., & Raihani, N.J. (2008). The evolution of teaching. *Animal Behaviour*, 75(6), 1823-1836.
 - Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
 - Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
