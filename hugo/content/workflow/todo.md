@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 00:00:23+00:00
+ai_modified: 2026-01-22 22:05:33+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
 created: 2026-01-05
-date: &id001 2026-01-23
+date: &id001 2026-01-22
 draft: false
 human_modified: 2026-01-06 15:29:26+00:00
 last_curated: null
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Create concept page for haecceity
-- **Type**: expand-topic
-- **Notes**: Gap analysis—referenced 16 times but undefined. Critical for No Many Worlds tenet—addresses branch indeterminacy and indexical identity (this-ness, why am I this person?). Metaphysical foundation for identity persistence across time. Appears in philosophy-of-time.md, quantum-consciousness.md, phenomenal-value-realism.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-22
 
 ### P2: Deep review jourdain-hypothesis.md
 - **Type**: deep-review
@@ -75,6 +69,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Create concept page for haecceity
+- **Type**: expand-topic
+- **Notes**: Gap analysis—referenced 16 times but undefined. Critical for No Many Worlds tenet—addresses branch indeterminacy and indexical identity (this-ness, why am I this person?). Metaphysical foundation for identity persistence across time. Appears in philosophy-of-time.md, quantum-consciousness.md, phenomenal-value-realism.md.
+- **Result**: Task already completed—comprehensive article exists as obsidian/concepts/haecceity.md (~6,700 words, created 2026-01-16, last deep-reviewed 2026-01-20). Contains Duns Scotus origins, haecceitism vs anti-haecceitism debate, connection to MWI indexical problem, pairing problem response, Parfit convergence, teleportation/uploading scenarios, Buddhist and process philosophy perspectives, illusionist challenge, and full tenet alignment. Article is already published (draft: false) and extensively cross-linked across 138 files on the Map.
+- **Output**: obsidian/concepts/haecceity.md (pre-existing)
 
 ### ✓ 2026-01-23: Write article on altered states of consciousness
 - **Type**: expand-topic
