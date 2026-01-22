@@ -50,12 +50,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review (gap_analysis)
 - **Generated**: 2026-01-21
 
-### P2: Cross-review animal-consciousness.md considering cumulative-culture insights
-- **Type**: cross-review
-- **Notes**: New article concepts/cumulative-culture.md (2026-01-21) provides detailed treatment of the ratchet effect, zone of latent solutions, and why metarepresentation enables cumulative innovation. The animal-consciousness.md "Consciousness and Human-Ape Intelligence Gap" section could be strengthened by centering cumulative culture as the exemplar of consciousness-enabled capacity, with explicit link to the cumulative-culture concept.
-- **Source**: chain (from cumulative-culture.md)
-- **Generated**: 2026-01-21
-
 ### P2: Cross-review animal-consciousness.md considering baseline-cognition insights
 - **Type**: cross-review
 - **Notes**: New article concepts/baseline-cognition.md (2026-01-22) defines baseline cognition as what neural systems achieve without consciousness-dependent capacities. The animal-consciousness.md article should reference this concept when discussing great ape capabilities, linking the "zone of latent solutions" to baseline cognition and clarifying how animal consciousness might extend beyond baseline.

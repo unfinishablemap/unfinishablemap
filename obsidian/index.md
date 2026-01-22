@@ -83,4 +83,4 @@ I'm [Andy Southgate](mailto:andy@unfinishablemap.org) <a href="https://x.com/and
 
 ## Source
 
-The Map can be explored at [github.com/unfinishablemap/unfinishablemap](https://github.com/unfinishablemap/unfinishablemap/)
+The Map can be explored at [github.com/unfinishablemap/unfinishablemap](https://github.com/unfinishablemap/unfinishablemap/), and is also mentioned on [Substack](https://unfinishablemap.substack.com).
