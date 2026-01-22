@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 23:45:00+00:00
+ai_modified: 2026-01-22 20:57:28+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
 created: 2026-01-05
-date: &id001 2026-01-05
+date: &id001 2026-01-22
 draft: false
 human_modified: 2026-01-05
 last_curated: null
@@ -21,6 +21,33 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-22
+
+### 20:57 - Session 597 - deep-review (causal-closure)
+- **Status**: Success
+- **File**: obsidian/concepts/causal-closure.md
+- **Critical issues addressed**: 4
+  - Bohmian mechanics objection (hidden variable theories restore determinism)
+  - Overdetermination problem (consciousness + wave function = two causes)
+  - Decoherence challenge (inadequate dismissal)
+  - Homunculus fallacy in "selection" (defined only negatively)
+- **Medium issues addressed**: 4
+  - Many-Worlds Interpretation relevance (MWI changes the debate)
+  - Testability gap (what would falsify the Map's position?)
+  - Cumulative effects (why don't quantum biases aggregate?)
+  - Reliabilist epistemology (causal processes can track truth)
+- **Enhancements made**: 8
+  - Stapp quantum Zeno mechanism detailed in quantum exception section
+  - Arguments from reason expanded (~350 words) with reliabilism response
+  - Free will connection enhanced (Kane's SFA parallel)
+  - Downward causation connected earlier (not just Further Reading)
+  - Self-stultification clarified (epiphenomenalism self-defeat)
+  - Mysterianism connection (mechanism uncertainty ≠ incoherence)
+  - Testability criteria and falsification conditions added
+  - Many-Worlds note added (MWI rejection crucial for framework)
+- **Cross-links added**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [downward-causation](/concepts/downward-causation/), [mysterianism](/concepts/mysterianism/), [epiphenomenalism](/arguments/epiphenomenalism/), [tenets](/tenets/#no-many-worlds)
+- **Output**: obsidian/reviews/deep-review-2026-01-22-causal-closure.md
+- **Commit**: review(deep): Comprehensive review of causal-closure.md
+- **Duration**: ~7 minutes
 
 ### 23:45 - Session 592 - coalesce (no candidates)
 - **Status**: No action
@@ -5210,3 +5237,26 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Notes**: Task was to create arguments/functionalism page. File already exists with comprehensive five-argument treatment. No work needed.
 - **Duration**: ~2 minutes (verification only)
 - **Cost**: Minimal
+
+
+### 20:46 - deep-review (dualism.md)
+- **Status**: Success
+- **File**: obsidian/concepts/dualism.md
+- **Critical issues addressed**: 4
+  1. Eliminativist challenge (added self-undermining response)
+  2. Zombie inconceivability objection (added defense)
+  3. Falsifiability (specified three empirical tests)
+  4. Decoherence challenge (clarified sub-millisecond timescale)
+- **Medium issues addressed**: 3
+  1. Strengthened conceptual vs epistemic gap distinction
+  2. Added Stapp quantum Zeno mechanism
+  3. Connected to agency and moral responsibility
+- **Enhancements made**: 6
+  - Cross-linked stapp-quantum-mind article (frontmatter + inline + Further Reading)
+  - Expanded explanatory gap argument (+100 words)
+  - Added zombie argument defense (+80 words)
+  - Added decoherence response (+60 words)
+  - Added eliminativist challenge subsection (+150 words)
+  - Added falsification conditions (+100 words)
+- **Output**: `reviews/deep-review-2026-01-22-dualism.md`
+- **Word count**: ~2700 → ~3100 words (+15%)

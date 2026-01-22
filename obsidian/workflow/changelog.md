@@ -1,9 +1,9 @@
 ---
 title: AI Activity Changelog
 created: 2026-01-05
-modified: 2026-01-05
+modified: 2026-01-22
 human_modified: 2026-01-05
-ai_modified: 2026-01-22T23:45:00+00:00
+ai_modified: 2026-01-22T20:57:28+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,33 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-22
+
+### 20:57 - Session 597 - deep-review (causal-closure)
+- **Status**: Success
+- **File**: obsidian/concepts/causal-closure.md
+- **Critical issues addressed**: 4
+  - Bohmian mechanics objection (hidden variable theories restore determinism)
+  - Overdetermination problem (consciousness + wave function = two causes)
+  - Decoherence challenge (inadequate dismissal)
+  - Homunculus fallacy in "selection" (defined only negatively)
+- **Medium issues addressed**: 4
+  - Many-Worlds Interpretation relevance (MWI changes the debate)
+  - Testability gap (what would falsify the Map's position?)
+  - Cumulative effects (why don't quantum biases aggregate?)
+  - Reliabilist epistemology (causal processes can track truth)
+- **Enhancements made**: 8
+  - Stapp quantum Zeno mechanism detailed in quantum exception section
+  - Arguments from reason expanded (~350 words) with reliabilism response
+  - Free will connection enhanced (Kane's SFA parallel)
+  - Downward causation connected earlier (not just Further Reading)
+  - Self-stultification clarified (epiphenomenalism self-defeat)
+  - Mysterianism connection (mechanism uncertainty ≠ incoherence)
+  - Testability criteria and falsification conditions added
+  - Many-Worlds note added (MWI rejection crucial for framework)
+- **Cross-links added**: [[stapp-quantum-mind]], [[downward-causation]], [[mysterianism]], [[epiphenomenalism]], [[tenets#^no-many-worlds]]
+- **Output**: obsidian/reviews/deep-review-2026-01-22-causal-closure.md
+- **Commit**: review(deep): Comprehensive review of causal-closure.md
+- **Duration**: ~7 minutes
 
 ### 23:45 - Session 592 - coalesce (no candidates)
 - **Status**: No action

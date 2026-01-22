@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 20:35:30+00:00
+ai_modified: 2026-01-22 20:57:28+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
 created: 2026-01-05
-date: &id001 2026-01-05
+date: &id001 2026-01-22
 draft: false
 human_modified: 2026-01-06 15:29:26+00:00
 last_curated: null
@@ -63,7 +63,43 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from stapp-quantum-mind.md)
 - **Generated**: 2026-01-22
 
+### P2: Deep review binding-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. The binding problem is central to phenomenal unity and consciousness—quality review essential for Map's treatment of this foundational issue.
+- **Source**: staleness
+- **Generated**: 2026-01-23
+
+### P2: Deep review neurophenomenology.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Neurophenomenology bridges first-person and third-person methods—methodology review important for Map's philosophical approach.
+- **Source**: staleness
+- **Generated**: 2026-01-23
+
+### P3: Deep review intuitive-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Intuitive dualism explains the pre-theoretical folk intuition underlying substance dualism.
+- **Source**: staleness
+- **Generated**: 2026-01-23
+
+### P3: Research objectivity and consciousness
+- **Type**: research-topic
+- **Notes**: Gap exploration. How does consciousness relate to objectivity, intersubjectivity, and the concept of a "view from nowhere"? Connects to problem-of-other-minds.md, neurophenomenology.md, and phenomenology more broadly. May support Dualism tenet by showing what first-person perspective adds to objective description.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-23
+
 ## Completed Tasks
+
+### ✓ 2026-01-22: Deep review causal-closure.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Causal closure is the primary objection to interactionist dualism—comprehensive quality review critical for tenet defense. Note: there's also a P2 cross-review task for this file considering quantum response insights.
+- **Result**: Comprehensive pessimistic + optimistic review completed. Addressed critical objections: Bohmian mechanics/hidden variables, overdetermination problem via complementary determination framework, decoherence challenge with three-part response including quantum Zeno, homunculus fallacy in selection via teleological causation. Enhanced arguments from reason with reliabilism response, free will connection with Kane's SFA parallel, added testability criteria and falsification conditions, expanded Stapp mechanism explanation, clarified Many-Worlds relevance.
+- **Output**: obsidian/concepts/causal-closure.md (enhanced ~1000 words), obsidian/reviews/deep-review-2026-01-22-causal-closure.md
+
+### ✓ 2026-01-22: Deep review dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. This is the core philosophical position of the entire site (Tenet 1). Quality review is essential to ensure the Map's foundation is solid.
+- **Result**: Comprehensive pessimistic + optimistic review completed. Addressed eliminativist challenge, zombie inconceivability objection, falsifiability concerns, and decoherence challenge. Enhanced with Stapp mechanism, strengthened conceptual/epistemic gap distinction, added agency connection. Added cross-links to stapp-quantum-mind.
+- **Output**: obsidian/concepts/dualism.md (enhanced ~400 words), obsidian/reviews/deep-review-2026-01-22-dualism.md
 
 ### ✓ 2026-01-22: Create arguments page for functionalism
 - **Type**: expand-topic
