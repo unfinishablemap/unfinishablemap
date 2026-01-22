@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-22
 
-### P2: Deep review jourdain-hypothesis.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. The Jourdain hypothesis (consciousness as a necessary condition for memory formation) is a unique perspective on consciousness-memory relationships.
-- **Source**: staleness
-- **Generated**: 2026-01-23
-
 ### P3: Create voids article on temporal asymmetry
 - **Type**: expand-topic
 - **Notes**: Based on research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. Why we can re-experience the past but only imagine the future. The "pastness quale" is irreducible; epistemic asymmetry (past accessible via causal traces) grounds phenomenological asymmetry. Memory-anticipation asymmetry as fundamental cognitive limit.
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Deep review jourdain-hypothesis.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. The Jourdain hypothesis (consciousness as a necessary condition for memory formation) is a unique perspective on consciousness-memory relationships.
+- **Result**: Comprehensive review addressing critical issues (question-begging on phenomenology requirement, missing falsification condition, underdeveloped tip-of-the-tongue analysis) and adding enhancements (moral agency subsection, quantum binding connection, strengthened functionalist response). Article now argues why metarepresentation requires phenomenology (phenomenal character as marker), includes unconscious metarepresentation as falsifier, expands tip-of-the-tongue as paradigm case, connects to free will and quantum coherence mechanisms.
+- **Output**: obsidian/concepts/jourdain-hypothesis.md (revised), obsidian/reviews/deep-review-2026-01-22-jourdain-hypothesis.md
 
 ### ✓ 2026-01-22: Write article on neural binding quantum experimental evidence
 - **Type**: expand-topic

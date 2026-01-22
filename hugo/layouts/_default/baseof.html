@@ -15,8 +15,8 @@
     <!-- Font Awesome for social icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <!-- Algolia InstantSearch CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@8/themes/satellite-min.css">
+    <!-- Algolia Autocomplete CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-theme-classic@1.9.3/dist/theme.min.css">
 
     <!-- Sortable tables -->
     <script src="https://cdn.jsdelivr.net/npm/table-sort-js/table-sort.min.js"></script>
@@ -185,12 +185,9 @@
             font-size: 0.7em;
         }
 
-        /* Algolia Search Styling */
+        /* Algolia Autocomplete Styling */
         #search-box {
             margin-bottom: 1.5rem;
-        }
-        #search-hits {
-            margin-bottom: 2rem;
         }
     </style>
 </head>
@@ -307,30 +304,56 @@
         await mermaid.run();
     </script>
 
-    <!-- Algolia InstantSearch -->
+    <!-- Algolia Autocomplete -->
+    <script src="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-js@1.17.4/dist/umd/index.production.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4"></script>
     <script>
         // Only initialize Algolia search if the search box element exists (i.e., on home page)
         if (document.getElementById('search-box')) {
+            const { autocomplete } = window['@algolia/autocomplete-js'];
             const searchClient = algoliasearch('71VRNDJ4NN', 'b3a456437e5a7d92dd5456379a582e1f');
+            const indexName = 'netlify_03578143-dfaf-49c4-9260-251969991cf4_main_all';
 
-            const search = instantsearch({
-                indexName: 'netlify_03578143-dfaf-49c4-9260-251969991cf4_main_all',
-                searchClient,
+            autocomplete({
+                container: '#search-box',
+                placeholder: 'Search The Unfinishable Map...',
+                getSources({ query }) {
+                    return [
+                        {
+                            sourceId: 'pages',
+                            getItems() {
+                                return searchClient.search([
+                                    {
+                                        indexName: indexName,
+                                        query,
+                                        params: {
+                                            hitsPerPage: 10,
+                                        },
+                                    },
+                                ]).then(({ results }) => results[0].hits);
+                            },
+                            templates: {
+                                item({ item, components, html }) {
+                                    return html`
+                                        <a href="${item.url}" class="aa-ItemLink">
+                                            <div class="aa-ItemContent">
+                                                <div class="aa-ItemTitle">
+                                                    ${components.Highlight({ hit: item, attribute: 'title' })}
+                                                </div>
+                                                ${item.content ? html`
+                                                    <div class="aa-ItemDescription">
+                                                        ${components.Snippet({ hit: item, attribute: 'content' })}
+                                                    </div>
+                                                ` : ''}
+                                            </div>
+                                        </a>
+                                    `;
+                                },
+                            },
+                        },
+                    ];
+                },
             });
-
-            search.addWidgets([
-                instantsearch.widgets.searchBox({
-                    container: '#search-box',
-                    placeholder: 'Search The Unfinishable Map...',
-                }),
-                instantsearch.widgets.hits({
-                    container: '#search-hits',
-                }),
-            ]);
-
-            search.start();
         }
     </script>
 </body>

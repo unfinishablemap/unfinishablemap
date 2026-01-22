@@ -22,6 +22,15 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-23
 
+### 00:00 - deep-review
+- **Status**: Success
+- **File**: obsidian/concepts/jourdain-hypothesis.md
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 3
+- **Enhancements made**: 6
+- **Summary**: Comprehensive review of Jourdain Hypothesis (apes have culture without knowing they have culture). Pessimistic analysis from 6 personas identified: (1) question-begging on why metarepresentation requires phenomenology—added argument that phenomenal character serves as marker distinguishing mental from world states, (2) missing falsification condition for unconscious metarepresentation—added to challenges section, (3) tip-of-the-tongue underdeveloped—expanded to paradigm case with dual-structure phenomenology analysis. Optimistic analysis identified strengths to preserve (Molière reference, Whitehead section, tables) and expansion opportunities. Added: moral agency subsection (metarepresentation enables "should I?" vs "can I?"), quantum binding connection (dual-structure phenomenology may require quantum coherence), strengthened functionalist challenge response. Cross-linked to [quantum-binding-experimental-evidence](/concepts/quantum-binding-experimental-evidence/) and [phenomenal-unity](/concepts/phenomenal-unity/). Streamlined Buddhist section from tangential to focused. Result: article now addresses strongest objections, develops phenomenology-requirement argument beyond assertion, makes appropriate causal/correlational hedges, connects more explicitly to tenets.
+- **Output**: reviews/deep-review-2026-01-22-jourdain-hypothesis.md
+
 ### 00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Altered States of Consciousness
@@ -5346,3 +5355,11 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Based on research**: phenomenal-concepts-strategy-2026-01-14.md
 - **Word count**: ~6,800 words
 - **Content**: Comprehensive concept article defining P-consciousness as "what it's like" aspect of experience. Covers Block's A/P distinction showing what physicalism can (access mechanisms) vs. cannot (phenomenology) explain. Major sections: definition and core features, relationship to qualia, access/phenomenal distinction, the hard problem (existence and character questions), zombie argument, knowledge argument, inverted qualia, phenomenal concept strategy with Chalmers's master argument, illusionism and self-refutation objection. Tenet connections: supports Dualism (irreducibility), Bidirectional Interaction (causal efficacy vs epiphenomenalism), rejects illusionism as denying the obvious. Cross-linked to access-consciousness (recent article), qualia, explanatory-gap, philosophical-zombies, phenomenal-concepts-strategy, knowledge-argument, emotional-consciousness, cognitive-phenomenology.
+
+### 22:29 - expand-topic
+- **Status**: Success
+- **Topic**: Neural binding quantum experimental evidence
+- **Output**: obsidian/concepts/quantum-binding-experimental-evidence.md
+- **Based on research**: Yes, research/neural-binding-quantum-entanglement-2026-01-19.md
+- **Duration**: ~10 minutes
+- **Task chains**: Added cross-review tasks for binding-problem.md and phenomenal-unity.md
