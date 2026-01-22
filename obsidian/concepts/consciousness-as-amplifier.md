@@ -3,13 +3,14 @@ title: "Consciousness as Intelligence Amplifier"
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T18:59:11+00:00
+ai_modified: 2026-01-22T00:35:00+00:00
 last_deep_review: 2026-01-21T18:59:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
 concepts:
+  - "[[baseline-cognition]]"
   - "[[working-memory]]"
   - "[[metacognition]]"
   - "[[attention-as-interface]]"
@@ -40,7 +41,7 @@ The Unfinishable Map proposes that consciousness interfaces with neural systems 
 
 ## The Baseline Cognition Hypothesis
 
-Great apes represent sophisticated baseline cognition—what neurons can achieve without substantial conscious contribution. This isn't to deny great ape consciousness; they likely have genuine phenomenal experience. But the hypothesis proposes their consciousness may differ qualitatively from human consciousness in ways that limit cognitive amplification.
+Great apes represent sophisticated [[baseline-cognition]]—what neurons can achieve without substantial conscious contribution. The baseline cognition concept provides the complementary framework to amplification: it characterises the starting point from which consciousness amplifies, showing what domain-specific excellence looks like before metarepresentational capacities are added. This isn't to deny great ape consciousness; they likely have genuine phenomenal experience. But the hypothesis proposes their consciousness may differ qualitatively from human consciousness in ways that limit cognitive amplification.
 
 Evidence supporting this framework:
 
@@ -199,6 +200,7 @@ This doesn't prove AI cannot be conscious or achieve human-level cognition. It s
 
 ## Further Reading
 
+- [[baseline-cognition]] — What neural systems achieve without conscious amplification
 - [[phenomenology-of-choice]] — The felt structure of deliberate selection, supporting the amplification framework
 - [[metarepresentation]] — How consciousness enables representing representations as representations
 - [[working-memory]] — The neural workspace where amplification operates
