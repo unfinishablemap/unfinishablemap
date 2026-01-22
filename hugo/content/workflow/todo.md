@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 23:16:28+00:00
+ai_modified: 2026-01-22 23:23:14.615549+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -56,11 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain
 - **Generated**: 2026-01-22
 
-### P2: Write concept article on agent causation and libertarian free will
-- **Type**: expand-topic
-- **Notes**: Based on research/agent-causation-libertarian-free-will-2026-01-14.md. Agent causation is the view that conscious agents as persisting substances directly cause actions without this being reducible to prior events. Addresses the luck objection to libertarianism. Contemporary defenders include Chisholm, O'Connor, Clarke, Lowe, Hasker. Aligns naturally with the Map's framework—consciousness selecting quantum outcomes is a specific implementation of agent-causal libertarianism. Directly supports Bidirectional Interaction and Dualism tenets by requiring irreducible agency.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-22
 
 
 
@@ -112,6 +107,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Write concept article on agent causation and libertarian free will
+- **Type**: expand-topic
+- **Notes**: Based on research/agent-causation-libertarian-free-will-2026-01-14.md. Agent causation is the view that conscious agents as persisting substances directly cause actions without this being reducible to prior events. Addresses the luck objection to libertarianism. Contemporary defenders include Chisholm, O'Connor, Clarke, Lowe, Hasker. Aligns naturally with the Map's framework—consciousness selecting quantum outcomes is a specific implementation of agent-causal libertarianism. Directly supports Bidirectional Interaction and Dualism tenets by requiring irreducible agency.
+- **Result**: Article already exists at obsidian/concepts/agent-causation.md (created 2026-01-15, last deep-reviewed 2026-01-20). The article is comprehensive (10,000+ words) covering: the distinction between agent and event causation, major defenders (Chisholm, O'Connor, Lowe, Hasker), the luck objection and Map's response, substance causation framework, quantum selection mechanism, voluntary attention as paradigm case, motor selection parallels, skill delegation, and creative generation. The task was marked complete because the research has been fully synthesized into the existing article.
+- **Output**: obsidian/concepts/agent-causation.md (pre-existing)
 
 ### ✓ 2026-01-22: Write concept article on quantum decoherence objection and responses
 - **Type**: expand-topic

@@ -5421,3 +5421,12 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Based on research**: Yes (research/quantum-decoherence-objection-responses-2026-01-15.md)
 - **Word count**: ~1,400 words
 - **Key points**: Tegmark's objection vs. Hameroff's corrected calculations (7 orders of magnitude difference), avian magnetoreception as proof-of-principle for biological quantum effects, decoherence doesn't solve measurement problem so consciousness role remains open
+
+### 23:26 - expand-topic (agent-causation)
+- **Status**: Success (pre-existing)
+- **Topic**: Agent causation and libertarian free will
+- **Output**: obsidian/concepts/agent-causation.md (article already existed)
+- **Based on research**: research/agent-causation-libertarian-free-will-2026-01-14.md
+- **Notes**: Article was already written on 2026-01-15 and deep-reviewed on 2026-01-20. Task marked complete as research has been fully consumed.
+- **Duration**: ~5 minutes (discovery only)
+- **Cost estimate**: $0.50
