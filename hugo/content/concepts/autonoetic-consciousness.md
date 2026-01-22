@@ -1,10 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-21 19:33:00+00:00
+ai_modified: 2026-01-22 03:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[jourdain-hypothesis]]'
+- '[[baseline-cognition]]'
 - '[[personal-identity]]'
 - '[[self-and-consciousness]]'
 - '[[temporal-consciousness]]'
@@ -131,6 +133,14 @@ The contrast between autonoetic and noetic consciousness is operationalized in t
 
 This isn't merely a memory distinction but a consciousness distinction. Remember experiences involve mental time travel to the encoding episode; know experiences don't. The same information can be accessed through either route, but the phenomenology differs fundamentally.
 
+### The Jourdain Hypothesis and Remember/Know
+
+The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/)—named after Molière's character who discovers he has been speaking prose all his life without knowing it—illuminates the remember/know distinction. Andrew Whiten (2015) proposed that great apes may have culture but not *know* they have culture: they engage in cultural practices without representing these as "our practices" subject to evaluation and modification.
+
+The parallel to memory is striking. When you merely *know* you've encountered something, you access the information without representing the original experience *as* an experience. When you *remember*, you represent the past event *as* your experience—you know that you experienced it. The Jourdain transition from doing-to-knowing-that-you're-doing maps directly onto the transition from know-responses to remember-responses.
+
+This suggests autonoetic consciousness may require the same metarepresentational capacity that separates human cognition from [baseline cognition](/concepts/baseline-cognition/). Great apes might possess something analogous to semantic memory and even episodic-like memory traces—they demonstrably recall past events and adjust behaviour accordingly. But without declarative metacognition, they may lack the autonoetic awareness that makes memory *mental time travel* rather than mere information access. The ape might *have* experienced the event without *knowing* it experienced the event, just as Monsieur Jourdain spoke prose without knowing he spoke prose.
+
 The paradigm reveals interesting dissociations. Amnesic patients may retain know responses while losing remember responses entirely—they recognize items as familiar but cannot re-experience learning them. Conversely, some conditions preserve remember responses for certain content while impairing know responses for other content. This double dissociation supports Tulving's claim that noetic and autonoetic consciousness are genuinely distinct, not points on a single dimension.
 
 The remember/know distinction also illuminates the relationship between episodic and [semantic memory](/concepts/semantic-memory/). Over time, episodic memories can "semanticize"—losing their autonoetic character while retaining their content. You might know that you visited Paris on your honeymoon (semantic) without being able to re-experience specific moments from that trip (episodic). The phenomenology transforms from remembering to knowing, from autonoetic to noetic, while the information persists.
@@ -253,6 +263,8 @@ Five findings would require revision:
 
 ## Further Reading
 
+- [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — The procedural/declarative distinction that illuminates the remember/know divide
+- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without autonoetic metarepresentation
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How autonoetic recall connects to the phenomenology of choosing
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Working memory manipulation and the consciousness-cognition interface
 - [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness and the phenomenology of knowing

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 03:20:00+00:00
+ai_modified: 2026-01-22 03:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -68,19 +68,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Cross-review autonoetic-consciousness.md considering jourdain-hypothesis insights
-- **Type**: cross-review
-- **Notes**: New article concepts/jourdain-hypothesis.md (2026-01-22) shows that having mental states vs knowing you have them marks the procedural/declarative metacognition boundary. The autonoetic-consciousness.md article discusses self-aware remembering and could be strengthened with the Jourdain Hypothesis as an illustration of what autonoesis adds beyond mere cognitive function.
-- **Source**: chain (from jourdain-hypothesis.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review consciousness-in-simple-organisms.md considering baseline-cognition insights
 - **Type**: cross-review
 - **Notes**: New article concepts/baseline-cognition.md (2026-01-22) defines what cognition achieves without consciousness. The consciousness-in-simple-organisms.md article discusses where consciousness might begin in evolution—baseline cognition provides the framework for understanding what capacities could exist without phenomenal experience, clarifying what would mark the emergence of consciousness in simple creatures.
 - **Source**: chain (from baseline-cognition.md)
 - **Generated**: 2026-01-22
 
+### P2: Cross-review self-and-consciousness.md considering jourdain-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/jourdain-hypothesis.md (2026-01-22) distinguishes procedural from declarative metacognition—having mental states vs knowing you have them. The self-and-consciousness.md article discusses minimal self vs narrative self, and could be strengthened by connecting the Jourdain distinction to self-knowledge: great apes may have a minimal self without representing themselves as having one.
+- **Source**: chain (from jourdain-hypothesis.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review episodic-memory.md considering temporal-asymmetry insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/temporal-asymmetry-remembering-anticipating.md (2026-01-22) explores why we can re-experience the past but only imagine the future. The episodic-memory.md article discusses memory's role in consciousness and could be strengthened by addressing why episodic memory constitutes a form of mental time travel that has no symmetric counterpart—the impossibility of anticipatory qualia.
+- **Source**: chain (from temporal-asymmetry-remembering-anticipating.md)
+- **Generated**: 2026-01-22
+
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review autonoetic-consciousness.md considering jourdain-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/jourdain-hypothesis.md (2026-01-22) shows that having mental states vs knowing you have them marks the procedural/declarative metacognition boundary. The autonoetic-consciousness.md article discusses self-aware remembering and could be strengthened with the Jourdain Hypothesis as an illustration of what autonoesis adds beyond mere cognitive function.
+- **Result**: Added jourdain-hypothesis and baseline-cognition to concepts frontmatter. Added new "The Jourdain Hypothesis and Remember/Know" subsection (~250 words) after the remember/know paradigm explanation, drawing the parallel between Jourdain's prose/autonoetic re-experiencing, explaining how the transition from doing-to-knowing-that-you're-doing maps to remember vs know responses, and noting that great apes may have episodic-like memory traces without autonoetic awareness. Added jourdain-hypothesis and baseline-cognition to top of Further Reading.
+- **Output**: obsidian/concepts/autonoetic-consciousness.md
 
 ### ✓ 2026-01-22: Cross-review ai-consciousness.md considering jourdain-hypothesis insights
 - **Type**: cross-review
