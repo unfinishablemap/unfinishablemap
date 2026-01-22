@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-20 03:50:00+00:00
+ai_modified: 2026-01-22 07:41:54+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[meaning-and-consciousness]]'
 - '[[qualia]]'
 - '[[functionalism]]'
 - '[[materialism]]'
@@ -14,6 +15,7 @@ concepts:
 - '[[introspection]]'
 - '[[explanatory-gap]]'
 - '[[decoherence]]'
+- '[[semantic-memory]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false
@@ -84,6 +86,16 @@ Consider Galen Strawson's foreign language argument: a French speaker and Englis
 
 This strengthens the case against naturalized intentionality. If intentionality derives from phenomenal character, and phenomenal character resists physical reduction (the [hard problem](/topics/hard-problem-of-consciousness/)), then intentionality is doubly irreducible. The failure to naturalize aboutness isn't a temporary gap but a deep constraint on physicalist explanation—another instance of the [explanatory gap](/concepts/explanatory-gap/) that pervades consciousness studies.
 
+### From Intentionality to Meaning
+
+The [Phenomenal Constitution Thesis](/topics/meaning-and-consciousness/) (PCT) extends PIT to semantic content: meaning itself is constitutively phenomenal. To grasp a meaning *is* to have a certain kind of experience. Understanding that snow is white involves a distinctive "what it's like" that constitutes the semantic content—not merely accompanies it.
+
+PCT reinforces PIT with empirical evidence from [semantic memory](/concepts/semantic-memory/) research. The tip-of-the-tongue (TOT) state is particularly revealing: you have the meaning without the phonological form. The semantic content is phenomenally present—you know what you mean—but the word won't come. This dissociation shows meaning has phenomenal character independent of linguistic expression.
+
+The feeling of knowing (FOK) extends this. You feel confident you know something before retrieving it. If meaning were non-phenomenal information, FOK would be inexplicable—a feeling about data you haven't accessed. But if meaning is constitutively phenomenal, FOK makes sense: the meaning has phenomenal presence even when articulation fails.
+
+PCT also clarifies *why* the Chinese Room lacks understanding. It's not merely that syntax is insufficient for semantics (Searle's negative point). The positive claim is that semantics requires phenomenal character. The room processes symbols; genuine understanding requires the phenomenology of semantic grasp. The absence of experience *is* the absence of meaning.
+
 If PIT is correct, the implications are profound:
 
 **For dualism**: If intentionality requires consciousness, and consciousness is irreducible to physical processes (the [hard problem](/topics/hard-problem-of-consciousness/)), then intentionality is doubly irreducible. The aboutness of thought depends on something that physics cannot explain.
@@ -91,6 +103,14 @@ If PIT is correct, the implications are profound:
 **For AI**: Systems without phenomenal consciousness lack genuine intentionality. Their outputs may be meaningful to us, but they themselves mean nothing.
 
 **For the mind-body problem**: Explaining intentionality requires first solving the hard problem. We cannot understand how minds are about things until we understand how minds have subjective character at all.
+
+### Understanding as Phenomenal Binding
+
+Why does intentionality require phenomenal consciousness? The [meaning and consciousness](/topics/meaning-and-consciousness/) analysis suggests a mechanistic answer: understanding complex content requires *binding* multiple elements into unified semantic representations. "The dog chased the cat" means something different from "The cat chased the dog" despite identical elements—the binding is structured.
+
+Consciousness appears required for such binding. The maintenance/manipulation distinction shows that merely holding information (maintenance) can be unconscious, but actively combining information into new structures (manipulation) requires conscious access. Semantic binding is manipulation—integrating elements into structured wholes. If binding requires consciousness, so does intentionality toward complex contents.
+
+Recursive linguistic structure makes this vivid. Understanding "The man who saw the woman ran" requires hierarchical binding—clause within clause. Depth of embedding correlates with phenomenal complexity. This correlation between structural complexity and phenomenal intensity suggests understanding is constitutively phenomenal, not accidentally accompanied by experience.
 
 ## Original vs. Derived Intentionality
 
@@ -186,6 +206,8 @@ Intentionality connects to all five foundational tenets:
 
 ## Further Reading
 
+- [meaning-and-consciousness](/topics/meaning-and-consciousness/) — Why meaning is constitutively phenomenal (the Phenomenal Constitution Thesis)
+- [semantic-memory](/concepts/semantic-memory/) — How meaning is stored, accessed, and experienced
 - [phenomenology](/concepts/phenomenology/) — The tradition that discovered and systematically investigates intentionality
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Does thinking itself have phenomenal character that grounds content?
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that intentionality parallels
