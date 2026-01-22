@@ -1,9 +1,9 @@
 ---
 title: AI Task Queue
 created: 2026-01-05
-modified: 2026-01-22
+modified: 2026-01-23
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T21:48:10+00:00
+ai_modified: 2026-01-23T00:00:23+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-23
 
-### P2: Write article on altered states of consciousness
-- **Type**: expand-topic
-- **Notes**: Based on research/altered-states-consciousness-2026-01-19.md (2867 words). Covers meditation, psychedelics, sleep, anesthesia. Bridge to Eastern philosophy and phenomenology. Fills significant experiential gap—normal waking consciousness is only one mode. Connects to phenomenology.md, neurophenomenology.md, eastern.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-22
-
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Write article on altered states of consciousness
+- **Type**: expand-topic
+- **Notes**: Based on research/altered-states-consciousness-2026-01-19.md (2867 words). Covers meditation, psychedelics, sleep, anesthesia. Bridge to Eastern philosophy and phenomenology. Fills significant experiential gap—normal waking consciousness is only one mode. Connects to phenomenology.md, neurophenomenology.md, eastern.md.
+- **Result**: Created comprehensive topic article (~2,400 words) arguing that altered states reveal consciousness operates in multiple modes, not a simple on-off switch. Emphasized filter theory framework—psychedelics loosen the filter, anesthesia tightens it, meditation voluntarily modulates it. Covered voluntary vs. involuntary alterations, cessation events, flow states, quantum consciousness implications. Argued that divergence between behavior and experience (identical outputs, different conscious states) undermines identity theories and supports transmission model over production model.
+- **Output**: obsidian/topics/altered-states-consciousness.md
 
 ### ✓ 2026-01-22: Write article on emotional consciousness and valence
 - **Type**: expand-topic
