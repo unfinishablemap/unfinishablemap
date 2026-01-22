@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 22:44:55+00:00
+ai_modified: 2026-01-22 22:57:16+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Address equivocation on "consciousness" in consciousness-as-intelligence-amplifier.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (pessimistic-2026-01-22-evening.md) found high-severity issue: article uses "consciousness" to mean three different things without distinguishing them: (1) phenomenal consciousness (what-it's-like), (2) access consciousness (global availability), (3) executive function/working memory. Evidence for (2)/(3) is presented as evidence for (1). Add section distinguishing these senses and clarify which evidence supports which sense.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-22
 
 ### P2: Fix question-begging in evolutionary argument in consciousness-as-intelligence-amplifier.md
 - **Type**: refine-draft
@@ -87,6 +81,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Address equivocation on "consciousness" in consciousness-as-intelligence-amplifier.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-01-22-evening.md) found high-severity issue: article uses "consciousness" to mean three different things without distinguishing them: (1) phenomenal consciousness (what-it's-like), (2) access consciousness (global availability), (3) executive function/working memory. Evidence for (2)/(3) is presented as evidence for (1). Add section distinguishing these senses and clarify which evidence supports which sense.
+- **Result**: Added comprehensive "Three Senses of Consciousness" section distinguishing phenomenal consciousness (what-it's-like), access consciousness (global information availability), and executive function/working memory. Revised evolutionary argument to acknowledge circularity and show it depends on accepting explanatory gap first. Updated cognitive load section to clarify evidence supports access/executive consciousness primarily. Revised working memory discussion to acknowledge connection to phenomenal consciousness is speculative. Updated AI section and Relation to Site Perspective to carefully distinguish what evidence establishes. Article now argues more precisely about which aspects of consciousness amplify intelligence and what remains to be established.
+- **Output**: obsidian/topics/consciousness-as-intelligence-amplifier.md (revised)
 
 ### ✓ 2026-01-22: Write article on consciousness as intelligence amplifier
 - **Type**: expand-topic
