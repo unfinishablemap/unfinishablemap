@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-05
-ai_modified: 2026-01-22T07:30:00+00:00
+ai_modified: 2026-01-23T00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,6 +20,18 @@ last_curated:
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-22
+
+### 23:55 - Session 577 - deep-review (consciousness-and-social-cognition)
+- **Status**: Success
+- **File**: obsidian/concepts/consciousness-and-social-cognition.md
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+  - Softened great ape Level 2 theory of mind claims to match contested evidence (added methodological concerns)
+  - Strengthened Minimal Quantum Interaction tenet connection with Stapp-style quantum Zeno mechanism
+- **Enhancements made**: 2
+  - Added phenomenal-unity cross-link to nested structure discussion
+  - Added phenomenal-unity to concepts frontmatter
+- **Output**: `reviews/deep-review-2026-01-22-consciousness-and-social-cognition.md`
 
 ### 08:08 - Session 573 - deep-review (meaning-and-consciousness)
 - **Status**: Success

@@ -3,7 +3,7 @@ title: "Consciousness and Social Cognition"
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T08:30:00+00:00
+ai_modified: 2026-01-23T00:00:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -21,6 +21,7 @@ concepts:
   - "[[intentionality]]"
   - "[[illusionism]]"
   - "[[witness-consciousness]]"
+  - "[[phenomenal-unity]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-influence-intelligence-2026-01-21]]"
@@ -30,6 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
+last_deep_review: 2026-01-23T00:00:00+00:00
 ---
 
 Does advanced social cognition require phenomenal consciousness? Great apes possess impressive social abilities—tracking relationships, forming coalitions, anticipating others' behaviour based on goals and perceptions—yet lack the capacities that distinguish human social intelligence: shared intentionality, explicit theory of mind, recursive mindreading, and the cultural transmission of social knowledge. The Unfinishable Map argues that this gap tracks consciousness: phenomenal experience enables the metarepresentational operations that transform basic social cognition into the distinctively human capacity to represent minds *as* minds.
@@ -68,7 +70,7 @@ Understanding what others perceive. "She sees the food" requires representing an
 
 ### Level 2: Belief Attribution
 
-Understanding that others have beliefs that may differ from reality—and from your own. The classic false belief test: does the subject understand that another agent will act on their (false) belief rather than reality? Great apes show mixed results here: some studies suggest understanding of false beliefs in competitive contexts, but the evidence is contested.
+Understanding that others have beliefs that may differ from reality—and from your own. The classic false belief test: does the subject understand that another agent will act on their (false) belief rather than reality? Great apes show mixed results here: some studies suggest understanding of false beliefs in competitive contexts, while others find only behaviour-reading without genuine belief attribution. The field remains actively debated, and methodological concerns—about training effects, alternative explanations, and the difficulty of ruling out behaviour-tracking—prevent confident conclusions.
 
 ### Level 3: Recursive Mindreading
 
@@ -82,7 +84,7 @@ Representing others' mental states about mental states. "She thinks that I think
 
 ### The Nested Structure Problem
 
-Recursive mindreading requires holding multiple levels simultaneously: my belief about your belief about my intention. This isn't just complex—it's *reflexively* complex. Each level must be available for manipulation while tracking its relationship to other levels.
+Recursive mindreading requires holding multiple levels simultaneously: my belief about your belief about my intention. This isn't just complex—it's *reflexively* complex. Each level must be available for manipulation while tracking its relationship to other levels. The nested representations must be bound into a [[phenomenal-unity|unified conscious experience]]—you must experience the whole structure at once, not merely store its parts separately.
 
 Consider: "I want her to believe that I don't know that she plans to take the food."
 
@@ -227,7 +229,7 @@ The [[tenets#^dualism|Dualism]] tenet holds that consciousness is irreducible. T
 
 ### Minimal Quantum Interaction
 
-The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet concerns mechanism rather than social cognition directly. But if consciousness interfaces with matter through quantum effects in neural tissue, and if social cognition depends on consciousness, then the quantum interface supports the recursive metarepresentation social cognition requires. The expanded [[working-memory]] capacity humans possess—enabling manipulation of multiple nested representations—may depend on the consciousness-matter interface.
+The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies mechanism: consciousness influences physical outcomes through minimal biasing of quantum events rather than through direct energy injection. Social cognition provides a domain where this mechanism would operate. The recursive metarepresentation underlying theory of mind and shared intentionality requires sustained attention to multiple nested representations—precisely the kind of cognitive operation that Stapp-style quantum Zeno accounts propose consciousness enables. The expanded [[working-memory]] capacity humans possess—enabling manipulation of nested mental-state representations—may depend on the consciousness-matter interface. If so, the human-ape gap in social cognition reflects not merely enhanced information processing but the amplifying effect of conscious attention operating through quantum selection.
 
 ### Occam's Razor Has Limits
 
