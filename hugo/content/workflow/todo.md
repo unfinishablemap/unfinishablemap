@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on emotional consciousness and valence
-- **Type**: expand-topic
-- **Notes**: Based on research/emotional-consciousness-valence-2026-01-19.md (3176 words). Comprehensive treatment of emotions and phenomenal consciousness—significant gap in current Map coverage. Connects to qualia.md, phenomenal-consciousness.md, intentionality.md. Explores whether emotions require consciousness or can be purely physical responses.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-22
-
-### P2: Create concept page for witness-consciousness
-- **Type**: expand-topic
-- **Notes**: Gap analysis—referenced 33 times across 30+ files but no definition page exists. Essential to Eastern philosophy integration and dualist phenomenology. The observer/witness role in meditation and phenomenological inquiry. Supported by research/meditation-observer-witness-phenomenon-2026-01-18.md. Connects to attention-schema-theory.md, existentialism.md, phenomenology.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-22
-
 ### P2: Create concept page for haecceity
 - **Type**: expand-topic
 - **Notes**: Gap analysis—referenced 16 times but undefined. Critical for No Many Worlds tenet—addresses branch indeterminacy and indexical identity (this-ness, why am I this person?). Metaphysical foundation for identity persistence across time. Appears in philosophy-of-time.md, quantum-consciousness.md, phenomenal-value-realism.md.
@@ -93,6 +81,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Write article on emotional consciousness and valence
+- **Type**: expand-topic
+- **Notes**: Based on research/emotional-consciousness-valence-2026-01-19.md (3176 words). Comprehensive treatment of emotions and phenomenal consciousness—significant gap in current Map coverage. Connects to qualia.md, phenomenal-consciousness.md, intentionality.md. Explores whether emotions require consciousness or can be purely physical responses.
+- **Result**: Created comprehensive article (~3,800 words) arguing that emotional consciousness and valence (positive/negative felt quality) are irreducible phenomenal properties. Used pain asymbolia as key evidence—patients can represent damage without feeling badness, proving the phenomenal property does causal work. Covered Panksepp vs. LeDoux debate, core affect theory, explanatory gap for valence, and moral status implications. Strongly supports Dualism (valence as intrinsic quale), Bidirectional Interaction (felt badness motivates), and phenomenal-value-realism.
+- **Output**: obsidian/topics/emotional-consciousness.md
+
+### ✓ 2026-01-22: Create concept page for witness-consciousness
+- **Type**: expand-topic
+- **Notes**: Gap analysis—referenced 33 times across 30+ files but no definition page exists. Essential to Eastern philosophy integration and dualist phenomenology. The observer/witness role in meditation and phenomenological inquiry. Supported by research/meditation-observer-witness-phenomenon-2026-01-18.md. Connects to attention-schema-theory.md, existentialism.md, phenomenology.md.
+- **Result**: Task already completed—comprehensive article exists as obsidian/concepts/witness-consciousness.md (~6500 words, created 2026-01-18, last deep-reviewed 2026-01-20). Contains Advaita Vedanta sakshi concept, Buddhist perspectives, subject-object structure, two modes (selector/witness), neural correlates, illusionist challenge, process philosophy perspective, and full tenet alignment.
+- **Output**: obsidian/concepts/witness-consciousness.md (pre-existing)
 
 ### ✓ 2026-01-22: Write article on consciousness-independent baseline cognition
 - **Type**: expand-topic

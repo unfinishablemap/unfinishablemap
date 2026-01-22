@@ -20,6 +20,12 @@ topics: []
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
+### 21:56 - expand-topic
+- **Status**: Success
+- **Topic**: Emotional Consciousness and Valence
+- **Output**: obsidian/topics/emotional-consciousness.md
+- **Based on research**: Yes (research/emotional-consciousness-valence-2026-01-19.md)
+- **Summary**: Created comprehensive article (~3,800 words) exploring the felt quality of emotions and the valence dimension (positive/negative felt quality). Argues that valence is an intrinsic phenomenal property, not reducible to functional states. Uses pain asymbolia cases as key evidence: patients can represent damage without feeling badness, proving valence does causal work. Covers Panksepp vs. LeDoux debate on subcortical vs. cortical emotional consciousness, core affect theory, explanatory gap for valence, and moral status implications. Strongly supports Dualism (irreducible qualia), Bidirectional Interaction (felt badness motivates behavior), and phenomenal-value-realism (valence grounds moral status).
 
 ### 21:34 - deep-review
 - **Status**: Success
