@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 21:34:22+00:00
+ai_modified: 2026-01-23 00:00:23+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
 created: 2026-01-05
-date: &id001 2026-01-22
+date: &id001 2026-01-23
 draft: false
 human_modified: 2026-01-05
 last_curated: null
@@ -19,6 +19,17 @@ topics: []
 ---
 
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
+
+## 2026-01-23
+
+### 00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Altered States of Consciousness
+- **Output**: obsidian/topics/altered-states-consciousness.md
+- **Based on research**: Yes (research/altered-states-consciousness-2026-01-19.md)
+- **Summary**: Created comprehensive topic article (~2,400 words) examining psychedelics, meditation, anesthesia, hypnosis, flow states, and their philosophical implications. Central argument: altered states reveal consciousness operates in multiple modes, not a simple on-off switch. Evidence fits filter theory better than production theory—psychedelics appear to expand rather than merely distort consciousness (loosened filter), different anesthetics produce identical behavior but different experiences (consciousness not reducible to functional output), voluntary alterations like meditation cessation demonstrate causal efficacy. Covered Orch OR quantum coherence hypothesis, transient hypofrontality in flow states, and implications for Dualism, Bidirectional Interaction, and Minimal Quantum Interaction tenets.
+
+## 2026-01-22
 
 ### 21:56 - expand-topic
 - **Status**: Success
