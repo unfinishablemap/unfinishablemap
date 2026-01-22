@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 05:50:00+00:00
+ai_modified: 2026-01-22 05:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,18 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Cross-review prospective-memory.md considering temporal-asymmetry insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/temporal-asymmetry-remembering-anticipating.md (2026-01-22) explores the fundamental asymmetry between remembering and anticipating—we can re-experience the past but only imagine the future. The prospective-memory.md article discusses future-oriented consciousness and could be strengthened by addressing why the "pop" of prospective retrieval differs phenomenologically from episodic re-experiencing, and what this asymmetry reveals about consciousness's causal relationship to time.
-- **Source**: chain (from temporal-asymmetry-remembering-anticipating.md)
-- **Generated**: 2026-01-22
-
-### P2: Cross-review temporal-consciousness.md considering temporal-asymmetry insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/temporal-asymmetry-remembering-anticipating.md (2026-01-22) examines why we can re-experience the past but only simulate the future. The temporal-consciousness.md article discusses the phenomenology of time but could be strengthened by addressing this specific asymmetry—the "pastness quale" that memories carry versus the absent "futuricity" of prospection—and what it reveals about consciousness operating through causal traces.
-- **Source**: chain (from temporal-asymmetry-remembering-anticipating.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review autonoetic-consciousness.md considering temporal-asymmetry insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/temporal-asymmetry-remembering-anticipating.md (2026-01-22) builds directly on Tulving's autonoetic consciousness concept. The autonoetic-consciousness.md article could be strengthened by addressing why autonoetic awareness has asymmetric access to past and future—the phenomenological difference between re-living and pre-living—and connecting this to the causal structure argument.
@@ -63,6 +51,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review temporal-consciousness.md considering temporal-asymmetry insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/temporal-asymmetry-remembering-anticipating.md (2026-01-22) examines why we can re-experience the past but only simulate the future. The temporal-consciousness.md article discusses the phenomenology of time but could be strengthened by addressing this specific asymmetry—the "pastness quale" that memories carry versus the absent "futuricity" of prospection—and what it reveals about consciousness operating through causal traces.
+- **Result**: Added new paragraph (~100 words) in Mental Time Travel section explaining why the asymmetry is conceptually necessary rather than merely psychological—pre-experience is not cognitively closed but conceptually empty, a category error rather than a difficult feat. Clarified that consciousness operates through causal traces, making futureward epistemic access incoherent.
+- **Output**: obsidian/concepts/temporal-consciousness.md
+
+### ✓ 2026-01-22: Cross-review prospective-memory.md considering temporal-asymmetry insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/temporal-asymmetry-remembering-anticipating.md (2026-01-22) explores the fundamental asymmetry between remembering and anticipating—we can re-experience the past but only imagine the future. The prospective-memory.md article discusses future-oriented consciousness and could be strengthened by addressing why the "pop" of prospective retrieval differs phenomenologically from episodic re-experiencing, and what this asymmetry reveals about consciousness's causal relationship to time.
+- **Result**: Added "The Impossibility of Anticipatory Qualia" subsection (~400 words) after the futuricity section, explaining why the pop differs from re-experiencing (reminding vs reliving), the three key insights (consciousness through traces, imagination repurposed, structural void), and why pre-experience is conceptually incoherent rather than merely difficult. Added temporal-asymmetry-remembering-anticipating to concepts frontmatter and top of Further Reading.
+- **Output**: obsidian/concepts/prospective-memory.md
 
 ### ✓ 2026-01-22: Write article on the unobservable self
 - **Type**: expand-topic

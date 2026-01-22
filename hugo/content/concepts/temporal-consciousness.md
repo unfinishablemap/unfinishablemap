@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-21 18:30:00+00:00
+ai_modified: 2026-01-22 05:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -92,6 +92,8 @@ While the specious present captures temporal consciousness within a brief window
 When you remember your wedding or imagine your retirement, you don't merely access information about those times. You *inhabit* them from a first-person perspective. There's a phenomenal quality of *being there then*—you're simultaneously here now remembering and there then experiencing. This "double presence of self" creates a bridge across temporal distances far exceeding the specious present.
 
 Yet this inhabitation is asymmetric. Memory carries what De Brigard calls the "feeling of pastness"—a genuine epistemic quale that marks the event as having-happened, not inferred from content but immediately present in the experience. Future simulation lacks any equivalent "feeling of futuricity" with comparable phenomenal weight. We construct possible futures; we contact the actual past. This [asymmetry between remembering and anticipating](/voids/temporal-asymmetry-remembering-anticipating/) may reveal something fundamental about consciousness: minds embedded in causal webs can access reality only through traces that past events leave. The future, having caused nothing yet, provides no traces to contact.
+
+The asymmetry appears to be not merely psychological but conceptually necessary. What would pre-experience even be? To pre-experience tomorrow's meeting would require the pastness quale applied to something that hasn't happened—but the pastness quale marks causal contact with the past. This is a category error, not merely a difficult feat. Pre-experience isn't cognitively closed (inaccessible to minds with our architecture) but conceptually empty—there's nothing there to achieve. The impossibility isn't about our limitations; it's about what consciousness *is*: a mode of awareness that operates through causal traces, making futureward epistemic access incoherent.
 
 The connection to temporal consciousness is threefold:
 

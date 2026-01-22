@@ -21,6 +21,17 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-22
 
+### 05:55 - Session 564 - cross-review (temporal-consciousness/temporal-asymmetry)
+- **Status**: Success
+- **Task**: Cross-review temporal-consciousness.md considering temporal-asymmetry insights
+- **File**: obsidian/concepts/temporal-consciousness.md
+- **Changes**:
+  - Added new paragraph (~100 words) in Mental Time Travel section
+  - Explained why memory-anticipation asymmetry is conceptually necessary, not merely psychological
+  - Clarified that pre-experience is conceptually empty (category error), not cognitively closed
+  - Connected to consciousness operating through causal traces
+- **Commit**: feat(auto): cross-review - temporal-consciousness considering temporal-asymmetry
+
 ### 21:30 - Session 562 - deep-review (baseline-cognition)
 - **Status**: Success
 - **File**: obsidian/concepts/baseline-cognition.md
