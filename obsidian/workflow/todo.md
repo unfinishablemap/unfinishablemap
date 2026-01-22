@@ -43,19 +43,43 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Cross-review intentionality.md considering meaning-and-consciousness insights
-- **Type**: cross-review
-- **Notes**: New topic article topics/meaning-and-consciousness.md (2026-01-22) introduces the Phenomenal Constitution Thesis—that meaning is constitutively phenomenal, not merely accompanied by phenomenology. The intentionality.md article discusses aboutness and phenomenal intentionality, and could be strengthened by connecting to PCT's claim that semantic content and experiential character are inseparable.
-- **Source**: chain (from meaning-and-consciousness.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review semantic-memory.md considering meaning-and-consciousness insights
 - **Type**: cross-review
 - **Notes**: New topic article topics/meaning-and-consciousness.md (2026-01-22) argues that genuine understanding requires phenomenal consciousness. The semantic-memory.md article discusses semantic knowledge and could be strengthened by addressing whether semantic memories involve meaning-constituting phenomenology—if understanding 'Paris is in France' has irreducible experiential character beyond imagery and inner speech.
 - **Source**: chain (from meaning-and-consciousness.md)
 - **Generated**: 2026-01-22
 
+### P2: Write article on teaching as metarepresentational achievement
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-22 (medium priority). Human teaching as a paradigm case of metarepresentation. To teach, you must represent your knowledge as knowledge the other lacks, represent the other's learning state, and adjust your behaviour based on the difference. The teaching asymmetry between humans and apes may reveal something fundamental about consciousness. Builds on jourdain-hypothesis.md, cumulative-culture.md, metarepresentation.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-22
+
+### P2: Write article on the temporal structure of understanding
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-22 (medium priority). Understanding unfolds in time. The "click" when a proof comes together, the gradual emergence of meaning in a complex sentence, the sudden insight after incubation—all have temporal phenomenology. How does the temporal structure of consciousness enable understanding? Builds on temporal-consciousness.md, cognitive-phenomenology.md, language-recursion-and-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-22
+
+### P2: Write article on consciousness and social cognition
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-22 (medium priority). The relationship between consciousness and advanced social cognition. Theory of mind, empathy, social prediction—do these require phenomenal consciousness? Great apes have some social cognition; humans have more. Does the gap track consciousness? Builds on animal-consciousness.md, jourdain-hypothesis.md, minimal-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-22
+
+### P3: Write article on the phenomenology of confusion
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-22 (ideas for later). What is it like to not-understand? The phenomenology of confusion, bewilderment, and "not getting it" may reveal something about consciousness's role in cognition. Connects to epistemic-emotions.md, cognitive-phenomenology.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-22
+
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review intentionality.md considering meaning-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New topic article topics/meaning-and-consciousness.md (2026-01-22) introduces the Phenomenal Constitution Thesis—that meaning is constitutively phenomenal, not merely accompanied by phenomenology. The intentionality.md article discusses aboutness and phenomenal intentionality, and could be strengthened by connecting to PCT's claim that semantic content and experiential character are inseparable.
+- **Result**: Added new "From Intentionality to Meaning" subsection (~300 words) under PIT explaining the Phenomenal Constitution Thesis, TOT/FOK evidence from semantic memory, and why Chinese Room lacks understanding. Added "Understanding as Phenomenal Binding" subsection (~200 words) explaining the mechanistic connection between binding, consciousness, and intentionality. Added meaning-and-consciousness and semantic-memory to concepts frontmatter and top of Further Reading.
+- **Output**: obsidian/concepts/intentionality.md
 
 ### ✓ 2026-01-22: Cross-review introspection.md considering unobservable-self insights
 - **Type**: cross-review
