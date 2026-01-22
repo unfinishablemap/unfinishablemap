@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-22
 human_modified: 2026-01-22T15:29:26+00:00
-ai_modified: 2026-01-22T23:37:57.587998+00:00
+ai_modified: 2026-01-23T00:55:53+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,15 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review epiphenomenalism.md considering consciousness-as-intelligence-amplifier evidence
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-as-intelligence-amplifier.md presents evolutionary argument against epiphenomenalism: if consciousness is causally inert, it cannot have been selected for, yet phenomenal character systematically tracks adaptive value (pain feels bad because damage is bad). The epiphenomenalism.md article's evolutionary objection could be strengthened by connecting this specific evidence plus the working memory expansion (2±1 in apes vs 7±2 in humans) that suggests consciousness amplifies rather than accompanies cognition.
-- **Source**: chain
-- **Generated**: 2026-01-22
-
-
-
 
 ### P2: Cross-review quantum-consciousness.md considering quantum decoherence objection analysis
 - **Type**: cross-review
@@ -94,6 +85,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review epiphenomenalism.md considering consciousness-as-intelligence-amplifier evidence
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-as-intelligence-amplifier.md presents evolutionary argument against epiphenomenalism: if consciousness is causally inert, it cannot have been selected for, yet phenomenal character systematically tracks adaptive value (pain feels bad because damage is bad). The epiphenomenalism.md article's evolutionary objection could be strengthened by connecting this specific evidence plus the working memory expansion (2±1 in apes vs 7±2 in humans) that suggests consciousness amplifies rather than accompanies cognition.
+- **Result**: Added systematic phenomenal tracking argument to evolutionary objection section (lines 100-106). Strengthened the explanation of why epiphenomenalism struggles to explain the correlation between phenomenal character and adaptive value, with specific examples (pain/pleasure, mild hunger vs severe injury). Added wikilink to consciousness-as-intelligence-amplifier article.
+- **Output**: obsidian/concepts/epiphenomenalism.md
 
 ### ✓ 2026-01-22: Cross-review interactionist-dualism.md considering consciousness-as-intelligence-amplifier evidence
 - **Type**: cross-review

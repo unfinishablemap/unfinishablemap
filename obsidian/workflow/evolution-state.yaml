@@ -1,9 +1,9 @@
-last_updated: '2026-01-22T23:38:07.903569+00:00'
-session_count: 620
+last_updated: '2026-01-23T00:55:53+00:00'
+session_count: 621
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 4
+  p2_tasks: 3
   p3_tasks: 6
   needs_replenishment: false
   last_replenishment: '2026-01-22T23:08:03.726050+00:00'
@@ -74,6 +74,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: cross-review (epiphenomenalism/consciousness-as-intelligence-amplifier)
+  type: cross-review
+  date: '2026-01-23'
+  outcome: success
 - task: cross-review (interactionist-dualism/consciousness-as-intelligence-amplifier)
   type: cross-review
   date: '2026-01-22'
@@ -157,10 +161,6 @@ recent_tasks:
 task_chains:
   pending_articles: []
   pending_cross_reviews:
-  - new_article: topics/consciousness-as-intelligence-amplifier.md
-    review_targets:
-    - concepts/epiphenomenalism.md
-    generated: '2026-01-22T22:45:05.752492+00:00'
   - new_article: concepts/quantum-decoherence-objection.md
     review_targets:
     - concepts/quantum-consciousness.md

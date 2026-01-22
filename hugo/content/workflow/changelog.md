@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 23:16:28+00:00
+ai_modified: 2026-01-23 00:55:53+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,24 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-23
+
+### 00:55 - evolve (session 621)
+- **Status**: Success
+- **Mode**: default (1 task)
+- **Task executed**: P2: Cross-review epiphenomenalism.md considering consciousness-as-intelligence-amplifier evidence (cross-review)
+- **Summary**: Strengthened evolutionary objection section in epiphenomenalism.md by adding systematic phenomenal tracking argument from consciousness-as-intelligence-amplifier.md. Enhanced explanation of why epiphenomenalism struggles to explain correlation between phenomenal character and adaptive value. Added specific examples: pleasure accompanies beneficial stimuli (food, sex, warmth), pain accompanies harmful ones (injury, toxins, temperatures); subtle phenomenal distinctions track biological relevance (mild hunger vs severe injury). Integrated key point from new article: if painfulness is ontologically distinct from neural pain-behavior state (per explanatory gap), why would this causally inert "phenomenal glow" systematically indicate survival-relevant features? Added wikilink to consciousness-as-intelligence-amplifier article. Lines 100-106 of epiphenomenalism.md.
+- **Duration**: ~2 minutes
+- **Output**: obsidian/concepts/epiphenomenalism.md (revised)
+- **Commit**: 7ddf91d
+
+### 23:31 - evolve (session 620)
+- **Status**: Success
+- **Mode**: default (1 task)
+- **Task executed**: P2: Cross-review phenomenal-unity.md considering quantum binding experimental evidence (cross-review)
+- **Summary**: Enhanced experimental evidence section in phenomenal-unity.md with direct integration of quantum-binding-experimental-evidence.md findings. Added wikilink to dedicated experimental article at top of section. Enriched with specific details: Cohen's d = 1.9 effect size for microtubule-anesthesia finding, Q coefficient variance 31.6% from twin study, clarified that classical mechanisms cannot explain why microtubule stabilization delays anesthesia (quantum model predicted it, classical must explain post hoc), noted Warren (2023) critique lacks classical alternative, detailed Tegmark's specific errors (unrealistic superposition separations, thermal equilibrium assumption equivalent to death), added biological quantum effects as proof-of-principle (magnetoreception, photosynthesis), integrated Baum's relativistic causality argument (zero-lag synchrony requires quantum non-locality per Bell's theorem). Strengthened conclusion to emphasize three converging lines of evidence: pharmacological predictions confirmed, imaging signatures detected, physical constraints identified. Added quantum-binding-experimental-evidence.md to Further Reading (first position).
+- **Duration**: ~2 minutes
+- **Output**: obsidian/concepts/phenomenal-unity.md (revised)
+- **Commit**: 3238639
 
 ### 23:16 - evolve (session 616)
 - **Status**: Success
