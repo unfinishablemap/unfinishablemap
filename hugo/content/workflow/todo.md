@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 21:18:12.967888+00:00
+ai_modified: 2026-01-22 21:34:22+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -51,17 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 
-### P2: Deep review binding-problem.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. The binding problem is central to phenomenal unity and consciousness—quality review essential for Map's treatment of this foundational issue.
-- **Source**: staleness
-- **Generated**: 2026-01-23
-
-### P2: Deep review neurophenomenology.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Neurophenomenology bridges first-person and third-person methods—methodology review important for Map's philosophical approach.
-- **Source**: staleness
-- **Generated**: 2026-01-23
 
 ### P2: Deep review theory-of-mind.md
 - **Type**: deep-review
@@ -88,6 +77,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Deep review neurophenomenology.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Neurophenomenology bridges first-person and third-person methods—methodology review important for Map's philosophical approach.
+- **Result**: Comprehensive pessimistic + optimistic review completed. Addressed 4 critical issues (heterophenomenology empirical failure argument, decoherence timescale problem via Stapp's Zeno mechanism, falsifiability of phenomenal irreducibility, Buddhist anti-substantialism tension). Enhanced with 5 medium issues (Stapp quantum Zeno integration, two modes expansion, filter vs. production theory fair presentation, MWI phenomenology correction, SFAs and meditation connection, mysterian development). Major additions: ~350 word Stapp Zeno mechanism in quantum section, ~300 word Buddhist metaphysical interpretations section, ~200 word filter/production distinction, ~200 word MWI indexical identity argument, ~200 word SFA connection, heterophenomenology empirical response, mysterian clarification. Total ~1,400 words added. Article now addresses quantum decoherence challenge rigorously, acknowledges metaphysical pluralism honestly, and connects meditation to libertarian free will.
+- **Output**: obsidian/concepts/neurophenomenology.md (enhanced ~1,400 words), obsidian/reviews/deep-review-2026-01-22-neurophenomenology.md
+
+### ✓ 2026-01-22: Deep review binding-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. The binding problem is central to phenomenal unity and consciousness—quality review essential for Map's treatment of this foundational issue.
+- **Result**: Comprehensive pessimistic + optimistic review completed. Addressed 5 critical issues (illusionism engagement expanded with Dennett/Frankish/Graziano, decoherence debate balanced with Reimers et al. response, epothilone classical alternatives acknowledged, Many-Worlds branch-relative unity addressed, phenomenological limitations noted). Enhanced with 6 medium issues (GWT expanded with Dehaene/Prinz, Quantum Binding Argument detailed, Kerskens-Pérez Warren alternatives, twin study methodology, C. elegans citation, stapp-quantum-mind cross-links). Major additions: ~500 word illusionism subsection, ~200 word decoherence exchange, free will connection to quantum selection. Total ~1,800 words added. Sleep dissociation argument (BP1 without BP2) remains most original contribution.
+- **Output**: obsidian/concepts/binding-problem.md (enhanced ~1,800 words), obsidian/reviews/deep-review-2026-01-22-binding-problem.md
 
 ### ✓ 2026-01-22: Deep review stapp-quantum-mind.md
 - **Type**: deep-review

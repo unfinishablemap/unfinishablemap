@@ -1,9 +1,9 @@
-last_updated: '2026-01-22T21:28:22.786416+00:00'
-session_count: 600
+last_updated: '2026-01-22T21:34:22+00:00'
+session_count: 601
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
+  p2_tasks: 2
   p3_tasks: 4
   needs_replenishment: false
   last_replenishment: '2026-01-22T21:11:26.361673+00:00'
@@ -15,7 +15,7 @@ last_runs:
   optimistic-review: '2026-01-22T23:45:00+00:00'
   check-tenets: '2026-01-21T21:30:00+00:00'
   check-links: '2026-01-22T01:00:00+00:00'
-  deep-review: '2026-01-22T21:28:22.786416+00:00'
+  deep-review: '2026-01-22T21:34:22+00:00'
   tune-system: '2026-01-20T22:00:00+00:00'
   research-voids: '2026-01-21T09:21:52+00:00'
   coalesce: '2026-01-22T23:45:00+00:00'
@@ -63,7 +63,7 @@ progress:
   questions_written: 1
   voids_written: 9
   research_notes: 97
-  reviews_completed: 480
+  reviews_completed: 481
 quality:
   critical_issues: 3
   medium_issues: 10
@@ -71,6 +71,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: deep-review (neurophenomenology)
+  type: deep-review
+  date: '2026-01-22'
+  outcome: success
 - task: deep-review (binding-problem)
   type: deep-review
   date: '2026-01-22'
