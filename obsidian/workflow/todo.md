@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T12:00:00+00:00
+ai_modified: 2026-01-22T10:28:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -62,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Write concept article on theory of mind
+- **Type**: expand-topic
+- **Notes**: The theory of mind concept is central to consciousness-and-social-cognition.md (which details the 4-level hierarchy) but has no dedicated article. ToM is referenced across animal-consciousness.md, metarepresentation.md, and jourdain-hypothesis.md. A dedicated concept page would cover: definition and levels, developmental trajectory, neural correlates, relation to consciousness (metarepresentational requirement), and animal cognition evidence. Builds on consciousness-and-social-cognition.md, metarepresentation.md, baseline-cognition.md.
+- **Result**: Created comprehensive concept article (~2400 words) covering: definition and the 4-level hierarchy (Level 0-3+), the metarepresentational threshold argument, developmental trajectory from joint attention through recursive false belief, neural correlates (mPFC, TPJ, pSTS, precuneus), great ape evidence and limitations, AI theory of mind analysis, illusionist challenge response, and full tenet alignment with Bidirectional Interaction, Dualism, Minimal Quantum Interaction, and Occam's Razor.
+- **Output**: obsidian/concepts/theory-of-mind.md
 
 ### ✓ 2026-01-22: Cross-review jourdain-hypothesis.md considering consciousness-and-social-cognition insights
 - **Type**: cross-review
