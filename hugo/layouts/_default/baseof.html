@@ -189,6 +189,34 @@
         #search-box {
             margin-bottom: 1.5rem;
         }
+
+        /* Fix autocomplete colors for dark mode */
+        .aa-Form {
+            background-color: var(--pico-background-color) !important;
+            border-color: var(--pico-muted-border-color) !important;
+        }
+        .aa-Input {
+            background-color: var(--pico-background-color) !important;
+            color: var(--pico-color) !important;
+            border-color: var(--pico-muted-border-color) !important;
+        }
+        .aa-Panel {
+            background-color: var(--pico-card-background-color) !important;
+            border-color: var(--pico-muted-border-color) !important;
+        }
+        .aa-Item {
+            background-color: var(--pico-card-background-color) !important;
+        }
+        .aa-Item[aria-selected="true"] {
+            background-color: var(--pico-primary-background) !important;
+        }
+        .aa-ItemTitle,
+        .aa-ItemDescription {
+            color: var(--pico-color) !important;
+        }
+        .aa-ItemLink {
+            color: var(--pico-color) !important;
+        }
     </style>
 </head>
 <body>
