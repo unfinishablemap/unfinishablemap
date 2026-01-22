@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T11:30:00+00:00
+ai_modified: 2026-01-22T12:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -75,6 +75,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review animal-consciousness.md considering cumulative-culture insights
+- **Type**: cross-review
+- **Notes**: New article concepts/cumulative-culture.md (2026-01-21) provides detailed treatment of the ratchet effect, zone of latent solutions, and why metarepresentation enables cumulative innovation. The animal-consciousness.md "Consciousness and Human-Ape Intelligence Gap" section could be strengthened by centering cumulative culture as the exemplar of consciousness-enabled capacity, with explicit link to the cumulative-culture concept.
+- **Result**: Added cumulative-culture to concepts frontmatter. Added wikilink to cumulative-culture in the intelligence gap introduction. Added new "Cumulative Culture as the Exemplar" subsection (~350 words) explaining Tomasello's zone of latent solutions vs cumulative culture distinction, the ratchet effect, why metarepresentation matters for cultural accumulation, and how this links to consciousness-dependent capacities (working memory, metacognition, counterfactual thinking). Added teaching asymmetry discussion.
+- **Output**: obsidian/topics/animal-consciousness.md
 
 ### ✓ 2026-01-22: Cross-review phenomenal-value-realism.md considering aesthetic-dimension-of-consciousness insights
 - **Type**: cross-review
