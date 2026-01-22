@@ -1,9 +1,9 @@
 ---
 title: "Decoherence and Quantum Biology"
 created: 2026-01-14
-modified: 2026-01-14
+modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-21T05:20:00+00:00
+ai_modified: 2026-01-22T23:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[attention-as-interface]]"
 related_articles:
   - "[[tenets]]"
+  - "[[quantum-decoherence-objection]]"
   - "[[decoherence-macroscopic-superposition-2026-01-14]]"
   - "[[quantum-biology]]"
   - "[[quantum-superposition-brain-consciousness-2026-01-18]]"
@@ -55,11 +56,13 @@ Decoherence explains why we don't observe superpositions—interference effects 
 
 As the Stanford Encyclopedia of Philosophy states: "Decoherence as such does not provide a solution to the measurement problem, at least not unless it is combined with an appropriate foundational approach." The dedicated [[measurement-problem|measurement problem article]] explores the various interpretations (Copenhagen, Many-Worlds, GRW, Bohmian, consciousness-based) and why The Unfinishable Map rejects Many-Worlds while remaining open to consciousness-based approaches.
 
+This distinction—between **basis selection** (which basis becomes preferred) and **outcome selection** (which particular outcome actualizes)—is crucial and often missed. The [[quantum-decoherence-objection]] article emphasizes this point: decoherence explains why we observe position eigenstates rather than momentum eigenstates, for instance, but it does not explain why we observe *this particular position* rather than that one. The measurement problem persists after decoherence.
+
 This matters for the Map's perspective. If decoherence fully explained measurements, consciousness would have no role. But decoherence merely establishes preferred bases—it doesn't collapse them. Something must select which outcome occurs. The [[tenets#^no-many-worlds|No Many Worlds]] tenet holds that outcomes are genuinely selected, not merely experienced in branching universes. Consciousness remains a candidate for what does the selecting.
 
 ## The Tegmark-Hameroff Debate
 
-In 2000, physicist Max Tegmark published an influential calculation claiming that quantum coherence in brain microtubules would decay in about 10⁻¹³ seconds—far too fast for neural processes that operate on millisecond timescales. This became the standard objection to Penrose-Hameroff [[quantum-consciousness|Orch OR theory]].
+In 2000, physicist Max Tegmark published an influential calculation claiming that quantum coherence in brain microtubules would decay in about 10⁻¹³ seconds—far too fast for neural processes that operate on millisecond timescales. This became the standard objection to Penrose-Hameroff [[quantum-consciousness|Orch OR theory]]. The [[quantum-decoherence-objection]] article provides a detailed analysis of this challenge and responses.
 
 Hameroff and colleagues responded that Tegmark's calculation was based on an incorrect model. Tegmark assumed thermal equilibrium—appropriate for dead tissue, not living systems—and separation distances far larger than Orch OR actually proposes. When corrected, the calculated coherence times increase by seven orders of magnitude, reaching 10⁻⁵ to 10⁻⁴ seconds. The [[quantum-coherence-protection|four proposed protection mechanisms]]—hydrophobic microtubule interior, Fröhlich coherence, ordered water, and nuclear spin isolation—may work cumulatively to extend coherence times even further.
 
@@ -96,6 +99,8 @@ Yet the demonstration matters: quantum effects *can* operate in warm biological 
 Birds navigate using Earth's magnetic field through a mechanism involving cryptochrome proteins in their eyes. The leading explanation involves quantum entanglement between electron spins in radical pairs. Magnetic fields affect the spin dynamics, which affects chemical yields, which the bird can somehow perceive.
 
 The coherence times here are striking: spin coherence in the radical pair mechanism persists for *microseconds*—a million times longer than typical molecular decoherence in solution. In January 2026, Princeton researchers published computational confirmation in JACS, identifying the electron transfer pathway (over 18 angstroms) and showing how protein reorganisation stabilises the radical pair for magnetic sensing.
+
+This provides a crucial proof-of-principle for quantum consciousness theories. As the [[quantum-decoherence-objection]] article emphasizes, avian magnetoreception demonstrates that evolution *can* harness quantum coherence for biological function when selection pressure favors it. If quantum effects work for navigation in birds, the principle that biological systems can exploit quantum mechanics is established—the question becomes whether similar mechanisms operate in neural processing, not whether they're possible in principle.
 
 This is warm, wet biology maintaining quantum coherence on functionally relevant timescales—not despite the environment, but through mechanisms evolution has optimised to exploit quantum effects.
 
@@ -175,6 +180,7 @@ The [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] tenet is releva
 
 ## Further Reading
 
+- [[quantum-decoherence-objection]] — Detailed analysis of Tegmark's critique and responses
 - [[measurement-problem]] — Why decoherence doesn't solve the measurement problem
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interaction
 - [[quantum-coherence-protection]] — Four protection mechanisms and cumulative effects
