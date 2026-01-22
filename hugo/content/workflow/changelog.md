@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 00:00:00+00:00
+ai_modified: 2026-01-22 10:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,15 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-22
+
+### 10:35 - Session 583 - expand-topic (theory-of-mind)
+- **Status**: Success
+- **Task**: Write concept article on theory of mind
+- **Output**: obsidian/concepts/theory-of-mind.md
+- **Based on research**: No (general knowledge + existing site articles)
+- **Word count**: ~2400 words
+- **Sections**: Definition and levels (0-3+), metarepresentational threshold, developmental trajectory, neural correlates, great ape evidence, AI analysis, illusionist challenge, tenet alignment
+- **Commit**: feat(auto): expand-topic - theory of mind concept page
 
 ### 23:55 - Session 577 - deep-review (consciousness-and-social-cognition)
 - **Status**: Success
