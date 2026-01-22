@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 08:58:00+00:00
+ai_modified: 2026-01-22 08:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,12 +50,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Cross-review baseline-cognition.md considering consciousness-and-social-cognition insights
-- **Type**: cross-review
-- **Notes**: New article concepts/consciousness-and-social-cognition.md (2026-01-22) provides detailed analysis of what social cognition achieves without consciousness (the primate baseline) versus with consciousness (human social cognition). The baseline-cognition.md article could be strengthened by adding social cognition as a domain where the baseline/conscious distinction is particularly clear.
-- **Source**: chain (from consciousness-and-social-cognition.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review jourdain-hypothesis.md considering consciousness-and-social-cognition insights
 - **Type**: cross-review
 - **Notes**: New article concepts/consciousness-and-social-cognition.md (2026-01-22) provides evidence that social cognition requiring metarepresentation (explicit theory of mind, shared intentionality) depends on consciousness. The jourdain-hypothesis.md article argues great apes have cognition without knowing they have it—social cognition offers a concrete domain where this procedural/declarative distinction manifests clearly.
@@ -69,6 +63,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review baseline-cognition.md considering consciousness-and-social-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-and-social-cognition.md (2026-01-22) provides detailed analysis of what social cognition achieves without consciousness (the primate baseline) versus with consciousness (human social cognition). The baseline-cognition.md article could be strengthened by adding social cognition as a domain where the baseline/conscious distinction is particularly clear.
+- **Result**: Added new "Social Cognition: Where the Gap Is Clearest" subsection (~350 words) showing social cognition as paradigm case of the baseline/conscious distinction. Covered the 4-level theory of mind hierarchy (Levels 0-1 in baseline, Level 3 requires consciousness), shared intentionality and joint attention's recursive mutual awareness, and the empathy component stratification (contagion → cognitive empathy → empathic concern). Added consciousness-and-social-cognition to concepts frontmatter and top of Further Reading.
+- **Output**: obsidian/concepts/baseline-cognition.md
 
 ### ✓ 2026-01-22: Cross-review animal-consciousness.md considering consciousness-and-social-cognition insights
 - **Type**: cross-review
