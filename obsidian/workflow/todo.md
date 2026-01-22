@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T02:58:00+00:00
+ai_modified: 2026-01-22T03:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -80,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review hard-problem-of-consciousness.md considering language-recursion insights
+- **Type**: cross-review
+- **Notes**: New article topics/language-recursion-and-consciousness.md (2026-01-22) provides a concrete case where the hard problem manifests in language processing. The hard-problem-of-consciousness.md article could be strengthened by showing how recursive structure processing provides evidence for phenomenal consciousness's cognitive role—a specific case where what-it's-likeness appears to do explanatory work.
+- **Result**: Added language-recursion-and-consciousness and working-memory to concepts frontmatter. Added new "Recursive Language as a Test Case" subsection (~300 words) in The Cognitive Dimension section covering: working memory manipulation requires consciousness, the maintenance/manipulation distinction, concrete prediction about unconscious recursive parsing, and AI implications (LLMs simulating vs implementing recursion). Added language-recursion-and-consciousness and working-memory to top of Further Reading.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md
 
 ### ✓ 2026-01-22: Cross-review working-memory.md considering language-recursion-and-consciousness insights
 - **Type**: cross-review
