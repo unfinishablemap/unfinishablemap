@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 05:30:00+00:00
+ai_modified: 2026-01-22 05:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,24 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-22
+
+### 05:45 - Session 561 - expand-topic (the-unobservable-self)
+- **Status**: Success
+- **Task**: Write article on the unobservable self
+- **Output**: obsidian/voids/the-unobservable-self.md
+- **Changes**:
+  - Created comprehensive voids article (~2800 words) exploring why the observer cannot observe itself observing
+  - The regression of attention: each attempt to catch the observer generates a new observer
+  - Why the hard problem is hard: subjectivity cannot become its own object without transformation
+  - Phenomenology of approach: receding horizon, spacious emptiness, vertigo, release
+  - Illusionist challenge with regress response: the felt failure requires explanation
+  - Process Philosophy perspective: Whitehead's actual occasions cannot prehend their own becoming
+  - Buddhist contemplative analysis: anattā and the failure to find a findable self
+  - Structural implications: consciousness is subject-structured, self-knowledge has asymmetric access
+  - Full tenet alignment section connecting to all five tenets
+  - Falsifiability conditions for the unobservable-self thesis
+- **Based on research**: Yes (voids-self-reference-paradox-2026-01-14.md, self-consciousness-philosophy-2026-01-15.md)
+- **Total additions**: ~2800 words
 
 ### 05:30 - Session 560 - deep-review (aesthetic-dimension-of-consciousness)
 - **Status**: Success
