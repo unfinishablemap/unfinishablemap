@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 08:50:00+00:00
+ai_modified: 2026-01-22 08:44:01+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,12 +50,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Cross-review temporal-consciousness.md considering temporal-structure-of-understanding insights
-- **Type**: cross-review
-- **Notes**: New article concepts/temporal-structure-of-understanding.md (2026-01-22) provides specific evidence for how temporal phenomenology enables cognitive functions like understanding. The temporal-consciousness.md article could be strengthened by adding understanding as a case where temporal structure does constitutive work—not just accompanying cognition but enabling it.
-- **Source**: chain (from temporal-structure-of-understanding.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review animal-consciousness.md considering consciousness-and-social-cognition insights
 - **Type**: cross-review
 - **Notes**: New article concepts/consciousness-and-social-cognition.md (2026-01-22) argues that the gap between great ape and human social cognition tracks consciousness—phenomenal experience enables the metarepresentational operations underlying shared intentionality, explicit theory of mind, and recursive mindreading. The animal-consciousness.md topic could be strengthened by connecting these specific cognitive markers as evidence for the consciousness gap.
@@ -69,6 +63,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review temporal-consciousness.md considering temporal-structure-of-understanding insights
+- **Type**: cross-review
+- **Notes**: New article concepts/temporal-structure-of-understanding.md (2026-01-22) provides specific evidence for how temporal phenomenology enables cognitive functions like understanding. The temporal-consciousness.md article could be strengthened by adding understanding as a case where temporal structure does constitutive work—not just accompanying cognition but enabling it.
+- **Result**: Added new "Understanding as Temporal Achievement" subsection (~300 words) showing how temporal consciousness enables understanding through the click phenomenon, working memory manipulation, and phenomenal guidance. Connected to Bidirectional Interaction tenet. Added temporal-structure-of-understanding, working-memory, and cognitive-phenomenology to concepts frontmatter and Further Reading.
+- **Output**: obsidian/concepts/temporal-consciousness.md
 
 ### ✓ 2026-01-22: Cross-review cognitive-phenomenology.md considering temporal-structure insights
 - **Type**: cross-review
