@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-21 17:30:00+00:00
+ai_modified: 2026-01-22 14:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[baseline-cognition]]'
 - '[[evolution-of-consciousness]]'
 - '[[panpsychism]]'
 - '[[integrated-information-theory]]'
@@ -104,7 +105,7 @@ The minimal consciousness literature reveals a crucial question: what is the rel
 
 ### The Baseline Cognition Hypothesis
 
-Research on great ape-human differences suggests a framework for understanding this relationship. Chimpanzees possess sophisticated cognition—tool use, social reasoning, basic metacognition, cultural traditions. Yet they lack cumulative culture, logical reasoning, and counterfactual thinking. The hypothesis: great ape cognition may represent a "baseline" of what neurons can achieve *without* substantial conscious contribution.
+Research on great ape-human differences suggests a framework for understanding this relationship. Chimpanzees possess sophisticated cognition—tool use, social reasoning, basic metacognition, cultural traditions. Yet they lack cumulative culture, logical reasoning, and counterfactual thinking. The [baseline-cognition](/concepts/baseline-cognition/) hypothesis proposes that great ape cognition represents a baseline of what neural systems can achieve *without* substantial conscious contribution—the cognitive floor from which consciousness amplifies.
 
 If this baseline hypothesis is correct, key findings illuminate what consciousness adds:
 
@@ -112,7 +113,7 @@ If this baseline hypothesis is correct, key findings illuminate what consciousne
 
 **Logical reasoning**: Empirical research (Lieberman et al. 2008) demonstrates that rule-based logical reasoning specifically requires conscious processing. Cognitive load disrupting consciousness impairs reasoning; disrupting unconscious processes does not. Great apes can learn associations but cannot follow abstract logical rules—precisely the pattern expected if consciousness enables rule-following.
 
-**Metarepresentation**: Great apes have culture but may not *know* they have culture. The "Jourdain Hypothesis" (Whiten 2015) proposes that apes lack metarepresentations—knowing that they know, representing knowledge as knowledge. Cumulative culture requires this: modifying and transmitting practices as practices. Metarepresentation may depend on phenomenal consciousness, not merely functional states.
+**Metarepresentation**: Great apes have culture but may not *know* they have culture. The "Jourdain Hypothesis" (Whiten 2015)—named after Molière's character who discovers he's been speaking prose all his life—proposes that apes lack metarepresentations: knowing that they know, representing knowledge as knowledge. [Cumulative culture](/concepts/cumulative-culture/) requires this capacity: modifying and transmitting practices *as* practices. Metarepresentation may depend on phenomenal consciousness, not merely functional states.
 
 ### The Three-Level Framework
 
@@ -243,6 +244,7 @@ The Map's perspective on minimal consciousness would be undermined if:
 ## Further Reading
 
 ### Core Concepts
+- [baseline-cognition](/concepts/baseline-cognition/) — The full account of what neural systems achieve without consciousness, and why the human-ape gap tracks consciousness-dependent capacities
 - [metarepresentation](/concepts/metarepresentation/) — Why representing representations may require consciousness, and how the three-level framework applies to minimal consciousness
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The baseline cognition hypothesis and what consciousness adds to neural processing
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When did consciousness first emerge?

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 00:40:00+00:00
+ai_modified: 2026-01-22 16:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -39,6 +39,24 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Total additions**: ~1750 words
 
 ## 2026-01-22
+
+### 16:40 - Session 544 - expand-topic (jourdain-hypothesis)
+- **Status**: Success
+- **Task**: Create concept page for the Jourdain Hypothesis
+- **Output**: obsidian/concepts/jourdain-hypothesis.md
+- **Content**: ~2000 words covering:
+  - Molière literary reference (Le Bourgeois Gentilhomme, 1670)
+  - Whiten (2015) application to great ape culture
+  - Procedural vs declarative metacognition distinction with comparison table
+  - Evidence: cultural stability, teaching asymmetry, ToM limits, tip-of-tongue contrast
+  - Implications for cumulative culture, consciousness studies, AI assessment
+  - Illusionist challenge with regress response
+  - Buddhist contemplative perspectives (sati, sampajañña, vipassanā)
+  - Process Philosophy perspective (high-grade occasions)
+  - Falsifiability conditions
+  - Full tenet alignment (Bidirectional Interaction, Dualism, Occam's Limits)
+- **Cross-links**: metarepresentation, metacognition, baseline-cognition, cumulative-culture, consciousness-as-amplifier, working-memory, cognitive-phenomenology, illusionism, animal-consciousness
+- **Total additions**: ~2000 words
 
 ### 00:40 - Session 539 - cross-review (consciousness-as-amplifier/baseline-cognition)
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 12:00:00+00:00
+ai_modified: 2026-01-22 16:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,24 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review minimal-consciousness.md considering baseline-cognition insights
-- **Type**: cross-review
-- **Notes**: New article concepts/baseline-cognition.md (2026-01-22) characterises sophisticated cognition without phenomenal consciousness. The minimal-consciousness.md article discusses what the simplest forms of consciousness might be—baseline cognition helps clarify the contrast between minimal consciousness and no consciousness at all.
-- **Source**: chain (from baseline-cognition.md)
-- **Generated**: 2026-01-22
-
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-
-### P3: Create concept page for the Jourdain Hypothesis
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). "Apes have culture but don't know they have culture"—named after the Molière character who discovers he's been speaking prose all his life. A vivid illustration of the difference between procedural and declarative metacognition. This becomes evidence that metarepresentation requires phenomenal consciousness. Builds on metacognition.md, metarepresentation.md, animal-consciousness.md.
-- **Source**: optimistic-review (gap_analysis)
-- **Generated**: 2026-01-21
 
 ### P2: Cross-review cognitive-phenomenology.md considering language-recursion-and-consciousness insights
 - **Type**: cross-review
@@ -70,6 +58,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Create concept page for the Jourdain Hypothesis
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-21 (consciousness-intelligence lens). "Apes have culture but don't know they have culture"—named after the Molière character who discovers he's been speaking prose all his life. A vivid illustration of the difference between procedural and declarative metacognition. This becomes evidence that metarepresentation requires phenomenal consciousness. Builds on metacognition.md, metarepresentation.md, animal-consciousness.md.
+- **Result**: Created comprehensive concept page (~2000 words) covering: the Molière literary reference, procedural vs declarative metacognition distinction with table, evidence from cultural stability, teaching asymmetry, ToM limits, and TOT contrast. Added sections on implications for cumulative culture, consciousness studies, and AI assessment. Included illusionist challenge with regress response, Buddhist contemplative perspectives (sati, sampajañña, vipassanā), Process Philosophy perspective (high-grade occasions), falsifiability conditions, and full tenet alignment.
+- **Output**: obsidian/concepts/jourdain-hypothesis.md
+
+### ✓ 2026-01-22: Cross-review minimal-consciousness.md considering baseline-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/baseline-cognition.md (2026-01-22) characterises sophisticated cognition without phenomenal consciousness. The minimal-consciousness.md article discusses what the simplest forms of consciousness might be—baseline cognition helps clarify the contrast between minimal consciousness and no consciousness at all.
+- **Result**: Added baseline-cognition to concepts frontmatter. Added wikilink to [baseline-cognition](/concepts/baseline-cognition/) in the Baseline Cognition Hypothesis subsection with expanded explanation. Added wikilink to [cumulative-culture](/concepts/cumulative-culture/) in metarepresentation discussion with Jourdain Hypothesis context. Added baseline-cognition to top of Further Reading with description.
+- **Output**: obsidian/concepts/minimal-consciousness.md
 
 ### ✓ 2026-01-22: Cross-review llm-consciousness.md considering baseline-cognition insights
 - **Type**: cross-review
