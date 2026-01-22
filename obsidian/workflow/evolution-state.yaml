@@ -1,9 +1,9 @@
-last_updated: '2026-01-22T23:16:28+00:00'
-session_count: 616
+last_updated: '2026-01-22T23:22:09.670707+00:00'
+session_count: 617
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 5
+  p2_tasks: 4
   p3_tasks: 6
   needs_replenishment: false
   last_replenishment: '2026-01-22T23:08:03.726050+00:00'
@@ -49,8 +49,8 @@ scheduled_hours:
   tweet-highlight: 7
 last_git_push: '2026-01-22T20:39:49.378398+00:00'
 content_stats:
-  total_files: 162
-  published_files: 162
+  total_files: 163
+  published_files: 163
   draft_files: 0
   placeholder_files: 0
 convergence_targets:
@@ -61,7 +61,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 26
-  concepts_written: 126
+  concepts_written: 127
   arguments_written: 4
   questions_written: 1
   voids_written: 10
@@ -74,6 +74,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: expand-topic (quantum-decoherence-objection)
+  type: expand-topic
+  date: '2026-01-22'
+  outcome: success
 - task: cross-review (binding-problem/quantum-binding-experimental-evidence)
   type: cross-review
   date: '2026-01-22'
@@ -150,18 +154,6 @@ recent_tasks:
   type: cross-review
   date: 2026-01-22
   outcome: success
-- task: deep-review (causal-closure)
-  type: deep-review
-  date: 2026-01-22
-  outcome: success
-- task: deep-review (dualism)
-  type: deep-review
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (ai-consciousness/theory-of-mind)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
 task_chains:
   pending_articles: []
   pending_cross_reviews:
@@ -174,3 +166,8 @@ task_chains:
     - concepts/interactionist-dualism.md
     - concepts/epiphenomenalism.md
     generated: '2026-01-22T22:45:05.752492+00:00'
+  - new_article: concepts/quantum-decoherence-objection.md
+    review_targets:
+    - concepts/quantum-consciousness.md
+    - concepts/decoherence.md
+    generated: '2026-01-22T23:22:09.670722+00:00'

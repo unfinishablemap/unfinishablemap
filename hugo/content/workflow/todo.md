@@ -62,12 +62,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-22
 
-### P2: Write concept article on quantum decoherence objection and responses
-- **Type**: expand-topic
-- **Notes**: Based on research/quantum-decoherence-objection-responses-2026-01-15.md. Tegmark's "warm, wet, and noisy" objection is the most serious scientific challenge to quantum consciousness theories. Research covers Hameroff-Penrose responses (corrected calculations showing 7 orders of magnitude longer coherence), protective mechanisms (Debye layer screening, actin gel ordering), empirical evidence from photosynthesis FMO complex, and revised timescale requirements. Critical for defending Minimal Quantum Interaction tenet.
-- **Source**: unconsumed_research
+
+
+### P2: Cross-review quantum-consciousness.md considering quantum decoherence objection analysis
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-decoherence-objection.md provides comprehensive analysis of Tegmark vs. Hameroff calculations (7 orders of magnitude difference), avian magnetoreception as proof-of-principle for biological quantum effects, and crucial distinction that decoherence explains basis selection but not outcome selection. The quantum-consciousness.md article should integrate this defense against the primary scientific objection to quantum theories of consciousness.
+- **Source**: chain
 - **Generated**: 2026-01-22
 
+### P2: Cross-review decoherence.md considering quantum decoherence objection analysis
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-decoherence-objection.md distinguishes between basis selection (what decoherence explains) and outcome selection (what it doesn't explain), providing conceptual clarity on why decoherence doesn't solve the measurement problem. The decoherence.md article should reference this analysis and clarify that even after decoherence, the measurement problem persists—consciousness could bias outcomes at this point.
+- **Source**: chain
+- **Generated**: 2026-01-22
 ### P3: Create voids article on temporal asymmetry
 - **Type**: expand-topic
 - **Notes**: Based on research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. Why we can re-experience the past but only imagine the future. The "pastness quale" is irreducible; epistemic asymmetry (past accessible via causal traces) grounds phenomenological asymmetry. Memory-anticipation asymmetry as fundamental cognitive limit.
@@ -105,6 +112,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Write concept article on quantum decoherence objection and responses
+- **Type**: expand-topic
+- **Notes**: Based on research/quantum-decoherence-objection-responses-2026-01-15.md. Tegmark's "warm, wet, and noisy" objection is the most serious scientific challenge to quantum consciousness theories. Research covers Hameroff-Penrose responses (corrected calculations showing 7 orders of magnitude longer coherence), protective mechanisms (Debye layer screening, actin gel ordering), empirical evidence from photosynthesis FMO complex, and revised timescale requirements. Critical for defending Minimal Quantum Interaction tenet.
+- **Result**: Created comprehensive 1,400-word concept article explaining Tegmark's critique, Hameroff's corrected calculations (10^-5 to 10^-4 seconds vs. Tegmark's 10^-13 to 10^-20 seconds), revised timescale requirements (10^-7 seconds for 10 MHz Orch OR), avian magnetoreception as proof-of-principle that evolution can harness quantum effects, and crucial point that decoherence explains basis selection but not outcome selection—measurement problem persists, leaving room for consciousness to bias outcomes.
+- **Output**: obsidian/concepts/quantum-decoherence-objection.md
 
 ### ✓ 2026-01-22: Cross-review binding-problem.md considering quantum binding experimental evidence
 - **Type**: cross-review
