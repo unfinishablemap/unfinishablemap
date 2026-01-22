@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-23T00:00:00+00:00'
-session_count: 575
+last_updated: '2026-01-22T08:30:00+00:00'
+session_count: 576
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-22T10:00:00+00:00'
@@ -53,7 +53,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 22
-  concepts_written: 120
+  concepts_written: 121
   arguments_written: 5
   questions_written: 1
   voids_written: 9
@@ -73,7 +73,16 @@ task_chains:
         - "concepts/cognitive-phenomenology.md"
         - "concepts/temporal-consciousness.md"
       generated: "2026-01-23T00:00:00+00:00"
+    - new_article: "concepts/consciousness-and-social-cognition.md"
+      review_targets:
+        - "topics/animal-consciousness.md"
+        - "concepts/baseline-cognition.md"
+      generated: "2026-01-22T08:30:00+00:00"
 recent_tasks:
+- task: expand-topic (consciousness-and-social-cognition)
+  type: expand-topic
+  date: 2026-01-22
+  outcome: success
 - task: expand-topic (temporal-structure-of-understanding)
   type: expand-topic
   date: 2026-01-22
