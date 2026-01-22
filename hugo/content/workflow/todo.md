@@ -51,18 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 
-### P2: Write article on Hoel's continual learning argument for LLM consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel argues LLMs lack consciousness specifically because they don't engage in continual learning during inference. This provides a concrete falsifiable criterion distinguishing conscious from non-conscious systems. Currently referenced in continual-learning-argument.md but could be expanded with full context. Builds on ai-consciousness.md, consciousness-as-amplifier.md, substrate-independence-critique.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-22
-
-### P2: Cross-review phenomenology-of-choice.md considering motor-selection insights
-- **Type**: cross-review
-- **Notes**: Article concepts/motor-selection.md (deep-reviewed 2026-01-21) presents the quantum Zeno mechanism for how attention sustains one motor pattern over competitors. The phenomenology-of-choice.md article discusses the felt sense of choosing but could be strengthened by connecting the specific mechanism—the "effort of will" phenomenology may reflect repeated attention that stabilizes superposition toward one outcome.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review metarepresentation.md considering theory-of-mind hierarchy
 - **Type**: cross-review
 - **Notes**: The recently expanded theory-of-mind.md (2026-01-22) presents Levels 0-3+ hierarchy with metarepresentational threshold between Levels 1 and 2. The metarepresentation.md article could be strengthened by explicitly mapping the ToM levels to metarepresentational demands—Level 2 requires representing beliefs AS beliefs (first-order metarepresentation), Level 3 requires representing others' metarepresentations (second-order).
@@ -70,6 +58,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review phenomenology-of-choice.md considering motor-selection insights
+- **Type**: cross-review
+- **Notes**: Article concepts/motor-selection.md (deep-reviewed 2026-01-21) presents the quantum Zeno mechanism for how attention sustains one motor pattern over competitors. The phenomenology-of-choice.md article discusses the felt sense of choosing but could be strengthened by connecting the specific mechanism—the "effort of will" phenomenology may reflect repeated attention that stabilizes superposition toward one outcome.
+- **Result**: Added new "Motor Selection as Paradigm Case" subsection (~450 words) under the Effort as Evidence section. Connected the 300ms decision window to the phenomenology of "gathering oneself" to act, explained how frontal theta/bidirectional coherence signatures provide third-person validation for first-person effort phenomenology, described the basal ganglia brake-release architecture as the interface where phenomenal effort operates, and cited the Desmurget double dissociation showing that intention phenomenology is separable from motor execution.
+- **Output**: obsidian/concepts/phenomenology-of-choice.md
+
+### ✓ 2026-01-22: Write article on Hoel's continual learning argument for LLM consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel argues LLMs lack consciousness specifically because they don't engage in continual learning during inference. This provides a concrete falsifiable criterion distinguishing conscious from non-conscious systems. Currently referenced in continual-learning-argument.md but could be expanded with full context. Builds on ai-consciousness.md, consciousness-as-amplifier.md, substrate-independence-critique.md.
+- **Result**: Task auto-completed—comprehensive article already exists as concepts/continual-learning-argument.md (~2200 words). Research note content fully incorporated into both this dedicated article and ai-consciousness.md. Covers: proximity argument, falsifiability-non-triviality dilemma, continual learning criterion, mechanism gap, illusionist challenge, process philosophy perspective, contemplative evidence, decoherence challenge, and full tenet alignment.
+- **Output**: obsidian/concepts/continual-learning-argument.md (existing)
 
 ### ✓ 2026-01-22: Write article on Stapp's quantum mind model
 - **Type**: expand-topic

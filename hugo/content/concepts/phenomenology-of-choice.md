@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-21 18:10:40+00:00
+ai_modified: 2026-01-22 14:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -131,6 +131,22 @@ The framework predicts:
 - **Distraction is easier** because it requires fewer probing events
 
 James observed that "sustained voluntary attention is a repetition of successive efforts." Stapp's mechanism explains why: each effort is an observation event, and sustained attention requires repeated events. The phenomenology matches the proposed mechanism.
+
+### Motor Selection as Paradigm Case
+
+[Motor selection](/concepts/motor-selection/) provides the clearest instance of effort phenomenology matching mechanism. When you prepare to move, you hold an intention—what Stapp calls a "template for action"—stable until execution. This holding feels like work because it *is* work: repeated attention events sustaining one motor pattern against competitors.
+
+The neural evidence supports this:
+
+**The 300ms decision window**: Willed movements take approximately 300ms to initiate, versus ~100ms for instructed movements. This extended timeline isn't hesitation—it reflects the time required for candidate motor patterns to enter superposition, for consciousness to engage through intention, and for repeated observation to stabilize the selected pattern. The phenomenology of "gathering oneself" to act corresponds to this quantum selection process.
+
+**Frontal theta and bidirectional coherence**: Willed movements engage frontal theta oscillations and bidirectional frontoparietal coherence that instructed movements lack. The same signatures appear in willed versus automatic attention. This convergence suggests a unified mechanism: consciousness selecting among neural options through sustained engagement—felt as the directive quality of choosing.
+
+**The basal ganglia interface**: The basal ganglia's brake-release architecture provides a candidate site where phenomenal effort operates. Motor programs compete under tonic inhibition; selection works by disinhibiting the chosen program while maintaining suppression on alternatives. The felt "settling" when choice resolves—the moment deliberation collapses to action—may correspond to this selective disinhibition.
+
+**The Desmurget dissociation**: Neurosurgical stimulation separates intention from execution. Stimulating inferior parietal cortex produces conscious intention to move *without* movement; stimulating premotor cortex produces movement *without* intention phenomenology. This double dissociation shows that the phenomenology of choosing—the felt sense that *I* am selecting—is not identical to the motor machinery executing the choice. The experience of effort tracks conscious contribution at the selection interface, not the execution downstream.
+
+The motor domain thus provides third-person validation for first-person phenomenology. When choice feels effortful, frontal theta increases. When choice feels automatic, it doesn't. The correlation between felt effort and neural signature suggests the phenomenology is tracking real engagement—the repeated attentional events by which consciousness holds one possibility stable while alternatives dissipate.
 
 ## Deliberation and Duration
 
