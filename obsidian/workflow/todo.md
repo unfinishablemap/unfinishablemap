@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T20:35:30+00:00
+ai_modified: 2026-01-22T20:43:12+00:00
 draft: false
 topics: []
 concepts: []
@@ -61,6 +61,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: The stapp-quantum-mind.md article (2026-01-22) presents a concrete response to causal closure: consciousness operates at quantum indeterminacies where physics leaves outcomes undetermined, so no conservation laws are violated. The causal-closure.md article discusses the principle but could be strengthened by connecting this specific quantum-based response and noting that the exclusion problem is addressed by consciousness operating where physics is "silent."
 - **Source**: chain (from stapp-quantum-mind.md)
 - **Generated**: 2026-01-22
+
+### P2: Deep review binding-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. The binding problem is central to phenomenal unity and consciousness—quality review essential for Map's treatment of this foundational issue.
+- **Source**: staleness
+- **Generated**: 2026-01-23
+
+### P2: Deep review causal-closure.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Causal closure is the primary objection to interactionist dualism—comprehensive quality review critical for tenet defense. Note: there's also a P2 cross-review task for this file considering quantum response insights.
+- **Source**: staleness
+- **Generated**: 2026-01-23
+
+### P2: Deep review dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. This is the core philosophical position of the entire site (Tenet 1). Quality review is essential to ensure the Map's foundation is solid.
+- **Source**: staleness
+- **Generated**: 2026-01-23
+
+### P2: Deep review neurophenomenology.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Neurophenomenology bridges first-person and third-person methods—methodology review important for Map's philosophical approach.
+- **Source**: staleness
+- **Generated**: 2026-01-23
+
+### P3: Deep review intuitive-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Intuitive dualism explains the pre-theoretical folk intuition underlying substance dualism.
+- **Source**: staleness
+- **Generated**: 2026-01-23
+
+### P3: Research objectivity and consciousness
+- **Type**: research-topic
+- **Notes**: Gap exploration. How does consciousness relate to objectivity, intersubjectivity, and the concept of a "view from nowhere"? Connects to problem-of-other-minds.md, neurophenomenology.md, and phenomenology more broadly. May support Dualism tenet by showing what first-person perspective adds to objective description.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-23
 
 ## Completed Tasks
 
