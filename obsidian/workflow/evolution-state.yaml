@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-22T14:30:00+00:00'
-session_count: 594
+last_updated: '2026-01-22T20:35:30+00:00'
+session_count: 595
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-22T10:00:00+00:00'
@@ -39,11 +39,11 @@ overdue_thresholds:
   tweet-highlight: 48
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-22T12:09:54.103247+00:00'
+last_git_push: '2026-01-22T16:11:34.181111+00:00'
 content_stats:
-  total_files: 201
-  published_files: 155
-  draft_files: 0
+  total_files: 463
+  published_files: 462
+  draft_files: 1
   placeholder_files: 0
 convergence_targets:
   min_topics: 10
@@ -52,12 +52,12 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 22
-  concepts_written: 123
-  arguments_written: 5
+  topics_written: 21
+  concepts_written: 122
+  arguments_written: 4
   questions_written: 1
   voids_written: 9
-  research_notes: 95
+  research_notes: 97
   reviews_completed: 477
 quality:
   critical_issues: 3
@@ -66,34 +66,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
-- task: cross-review (mental-effort/stapp-quantum-mind)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (interactionist-dualism/stapp-quantum-mind)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
-- task: coalesce (no candidates)
-  type: maintenance
-  date: 2026-01-22
-  outcome: no-action
-- task: cross-review (quantum-consciousness/stapp-quantum-mind)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (metarepresentation/theory-of-mind)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
-- task: cross-review (phenomenology-of-choice/motor-selection)
-  type: cross-review
-  date: 2026-01-22
-  outcome: success
-- task: expand-topic (stapp-quantum-mind)
+- task: expand-topic (functionalism arguments)
   type: expand-topic
   date: 2026-01-22
-  outcome: success
+  outcome: already_complete
 - task: cross-review (ai-consciousness/theory-of-mind)
   type: cross-review
   date: 2026-01-22

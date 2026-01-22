@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T14:30:00+00:00
+ai_modified: 2026-01-22T20:35:30+00:00
 draft: false
 topics: []
 concepts: []
@@ -56,12 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-22
 
-### P2: Create arguments page for functionalism
-- **Type**: expand-topic
-- **Notes**: The arguments/functionalism page is referenced 23 times across functionalism.md, philosophical-zombies.md, the arguments index, and reviews. Should formalize the five arguments against functionalism. Important for defending Dualism tenet.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review causal-closure.md considering quantum response
 - **Type**: cross-review
 - **Notes**: The stapp-quantum-mind.md article (2026-01-22) presents a concrete response to causal closure: consciousness operates at quantum indeterminacies where physics leaves outcomes undetermined, so no conservation laws are violated. The causal-closure.md article discusses the principle but could be strengthened by connecting this specific quantum-based response and noting that the exclusion problem is addressed by consciousness operating where physics is "silent."
@@ -69,6 +63,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Create arguments page for functionalism
+- **Type**: expand-topic
+- **Notes**: The arguments/functionalism page is referenced 23 times across functionalism.md, philosophical-zombies.md, the arguments index, and reviews. Should formalize the five arguments against functionalism. Important for defending Dualism tenet.
+- **Result**: Task already completed in previous session. File obsidian/arguments/functionalism.md exists with comprehensive treatment (created 2026-01-15, deep-reviewed 2026-01-20). Contains five formal arguments: absent qualia, inverted qualia, Chinese Room, multiple realizability cuts both ways, and explanatory gap. No additional work needed.
+- **Output**: obsidian/arguments/functionalism.md (pre-existing)
 
 ### ✓ 2026-01-22: Cross-review mental-effort.md considering Stapp phenomenology
 - **Type**: cross-review
