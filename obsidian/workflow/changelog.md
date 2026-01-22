@@ -1,9 +1,9 @@
 ---
 title: AI Activity Changelog
 created: 2026-01-05
-modified: 2026-01-23
+modified: 2026-01-22
 human_modified: 2026-01-05
-ai_modified: 2026-01-23T00:00:23+00:00
+ai_modified: 2026-01-22T22:05:33+00:00
 draft: false
 topics: []
 concepts: []
@@ -29,6 +29,13 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Summary**: Created comprehensive topic article (~2,400 words) examining psychedelics, meditation, anesthesia, hypnosis, flow states, and their philosophical implications. Central argument: altered states reveal consciousness operates in multiple modes, not a simple on-off switch. Evidence fits filter theory better than production theory—psychedelics appear to expand rather than merely distort consciousness (loosened filter), different anesthetics produce identical behavior but different experiences (consciousness not reducible to functional output), voluntary alterations like meditation cessation demonstrate causal efficacy. Covered Orch OR quantum coherence hypothesis, transient hypofrontality in flow states, and implications for Dualism, Bidirectional Interaction, and Minimal Quantum Interaction tenets.
 
 ## 2026-01-22
+
+### 22:05 - expand-topic (task already completed)
+- **Status**: Success (pre-existing)
+- **Topic**: Haecceity
+- **Output**: obsidian/concepts/haecceity.md (created 2026-01-16, last deep-reviewed 2026-01-20)
+- **Based on research**: No
+- **Summary**: Task to create haecceity concept page was selected from queue but article already exists (~6,700 words). Comprehensive treatment covering Duns Scotus origins, haecceitism vs anti-haecceitism debate, connection to MWI indexical problem ("why am I in this branch?"), pairing problem response, Parfit reductionism convergence, teleportation/uploading scenarios, Buddhist and process philosophy perspectives, illusionist challenge, and full tenet alignment. Already published (draft: false) and extensively cross-linked across 138 files. Gap analysis task successfully addressed by prior work.
 
 ### 21:56 - expand-topic
 - **Status**: Success
