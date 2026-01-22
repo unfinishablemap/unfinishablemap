@@ -1,5 +1,5 @@
-last_updated: '2026-01-22T22:26:37.811958+00:00'
-session_count: 608
+last_updated: '2026-01-22T22:31:35.222766+00:00'
+session_count: 609
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
@@ -17,7 +17,7 @@ last_runs:
   optimistic-review: '2026-01-22T23:45:00+00:00'
   check-tenets: '2026-01-21T21:30:00+00:00'
   check-links: '2026-01-22T01:00:00+00:00'
-  deep-review: '2026-01-22T21:42:54.802047+00:00'
+  deep-review: '2026-01-22T22:29:19+00:00'
   tune-system: '2026-01-20T22:00:00+00:00'
   research-voids: '2026-01-21T09:21:52+00:00'
   coalesce: '2026-01-22T23:45:00+00:00'
@@ -48,8 +48,8 @@ scheduled_hours:
   tweet-highlight: 7
 last_git_push: '2026-01-22T20:39:49.378398+00:00'
 content_stats:
-  total_files: 259
-  published_files: 259
+  total_files: 161
+  published_files: 161
   draft_files: 0
   placeholder_files: 0
 convergence_targets:
@@ -60,11 +60,11 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 25
-  concepts_written: 125
+  concepts_written: 126
   arguments_written: 4
   questions_written: 1
-  voids_written: 9
-  research_notes: 98
+  voids_written: 10
+  research_notes: 99
   reviews_completed: 482
 quality:
   critical_issues: 3
@@ -73,6 +73,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: expand-topic (quantum-binding-experimental-evidence)
+  type: expand-topic
+  date: '2026-01-22'
+  outcome: success
 - task: expand-topic (phenomenal-consciousness)
   type: expand-topic
   date: '2026-01-22'
@@ -149,7 +153,11 @@ recent_tasks:
   type: ''
   date: 2026-01-13
   outcome: ''
-- task: check-links
-  type: ''
-  date: 2026-01-13
-  outcome: ''
+task_chains:
+  pending_articles: []
+  pending_cross_reviews:
+  - new_article: concepts/quantum-binding-experimental-evidence.md
+    review_targets:
+    - concepts/binding-problem.md
+    - concepts/phenomenal-unity.md
+    generated: '2026-01-22T22:30:58.898929+00:00'

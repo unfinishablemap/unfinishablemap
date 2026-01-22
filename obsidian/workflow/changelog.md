@@ -5345,3 +5345,11 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Based on research**: phenomenal-concepts-strategy-2026-01-14.md
 - **Word count**: ~6,800 words
 - **Content**: Comprehensive concept article defining P-consciousness as "what it's like" aspect of experience. Covers Block's A/P distinction showing what physicalism can (access mechanisms) vs. cannot (phenomenology) explain. Major sections: definition and core features, relationship to qualia, access/phenomenal distinction, the hard problem (existence and character questions), zombie argument, knowledge argument, inverted qualia, phenomenal concept strategy with Chalmers's master argument, illusionism and self-refutation objection. Tenet connections: supports Dualism (irreducibility), Bidirectional Interaction (causal efficacy vs epiphenomenalism), rejects illusionism as denying the obvious. Cross-linked to access-consciousness (recent article), qualia, explanatory-gap, philosophical-zombies, phenomenal-concepts-strategy, knowledge-argument, emotional-consciousness, cognitive-phenomenology.
+
+### 22:29 - expand-topic
+- **Status**: Success
+- **Topic**: Neural binding quantum experimental evidence
+- **Output**: obsidian/concepts/quantum-binding-experimental-evidence.md
+- **Based on research**: Yes, research/neural-binding-quantum-entanglement-2026-01-19.md
+- **Duration**: ~10 minutes
+- **Task chains**: Added cross-review tasks for binding-problem.md and phenomenal-unity.md

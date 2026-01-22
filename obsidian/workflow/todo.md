@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on neural binding quantum experimental evidence
-- **Type**: expand-topic
-- **Notes**: Based on research/neural-binding-quantum-entanglement-2026-01-19.md. Recent 2024-2025 breakthrough evidence: microtubule-stabilizing drugs delay anesthesia (Cohen's d = 1.9), MRI detects entanglement signatures correlating with consciousness, decoherence times 7 orders longer than Tegmark claimed. Directly supports Minimal Quantum Interaction tenet with experimental validation.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-22
-
 ### P2: Write article on consciousness as intelligence amplifier
 - **Type**: expand-topic
 - **Notes**: Based on research/consciousness-influence-intelligence-2026-01-21.md. Strong evidence that consciousness enables flexible responses, logical reasoning, counterfactual thinking, metacognitive monitoring. Evolutionary argument: consciousness couldn't have evolved if epiphenomenal. Working memory expansion (2±1 in apes vs 7±2 in humans) may reflect consciousness expansion. Directly supports Bidirectional Interaction tenet.
@@ -92,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Write article on neural binding quantum experimental evidence
+- **Type**: expand-topic
+- **Notes**: Based on research/neural-binding-quantum-entanglement-2026-01-19.md. Recent 2024-2025 breakthrough evidence: microtubule-stabilizing drugs delay anesthesia (Cohen's d = 1.9), MRI detects entanglement signatures correlating with consciousness, decoherence times 7 orders longer than Tegmark claimed. Directly supports Minimal Quantum Interaction tenet with experimental validation.
+- **Result**: Created comprehensive 1800-word concept article synthesizing three lines of experimental evidence (pharmacological, imaging, physics) supporting quantum binding hypothesis.
+- **Output**: obsidian/concepts/quantum-binding-experimental-evidence.md
 
 ### ✓ 2026-01-22: Create concept page for phenomenal-consciousness
 - **Type**: expand-topic
