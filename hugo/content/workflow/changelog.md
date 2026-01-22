@@ -5363,3 +5363,11 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - **Based on research**: Yes, research/neural-binding-quantum-entanglement-2026-01-19.md
 - **Duration**: ~10 minutes
 - **Task chains**: Added cross-review tasks for binding-problem.md and phenomenal-unity.md
+
+### 22:42 - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness as Intelligence Amplifier
+- **Output**: obsidian/topics/consciousness-as-intelligence-amplifier.md
+- **Based on research**: Yes, research/consciousness-influence-intelligence-2026-01-21.md
+- **Word count**: ~3400
+- **Key themes**: Evolutionary argument for causal efficacy, logical reasoning dependence on consciousness, metacognitive monitoring, cumulative culture, great ape-human gap

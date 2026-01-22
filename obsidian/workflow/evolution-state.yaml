@@ -1,10 +1,10 @@
-last_updated: '2026-01-22T22:37:45+00:00'
-session_count: 610
+last_updated: '2026-01-22T22:45:45.777646+00:00'
+session_count: 611
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1
-  p3_tasks: 6
+  p2_tasks: 0
+  p3_tasks: 7
   needs_replenishment: false
   last_replenishment: '2026-01-22T22:08:10+00:00'
   replenishment_source_counts:
@@ -48,8 +48,8 @@ scheduled_hours:
   tweet-highlight: 7
 last_git_push: '2026-01-22T20:39:49.378398+00:00'
 content_stats:
-  total_files: 161
-  published_files: 161
+  total_files: 162
+  published_files: 162
   draft_files: 0
   placeholder_files: 0
 convergence_targets:
@@ -59,7 +59,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 25
+  topics_written: 26
   concepts_written: 126
   arguments_written: 4
   questions_written: 1
@@ -73,6 +73,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: expand-topic (consciousness-as-intelligence-amplifier)
+  type: expand-topic
+  date: '2026-01-22'
+  outcome: success
 - task: deep-review (jourdain-hypothesis)
   type: deep-review
   date: '2026-01-22'
@@ -146,14 +150,6 @@ recent_tasks:
   date: 2026-01-13
   outcome: ''
 - task: deep-review (free-will)
-  type: ''
-  date: 2026-01-13
-  outcome: ''
-- task: research-voids (thoughts-that-slip-away)
-  type: ''
-  date: 2026-01-13
-  outcome: ''
-- task: cross-review (hard-problem-IIT)
   type: ''
   date: 2026-01-13
   outcome: ''
