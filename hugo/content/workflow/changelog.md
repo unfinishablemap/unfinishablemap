@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 21:30:00+00:00
+ai_modified: 2026-01-22 07:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -21,6 +21,22 @@ topics: []
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-22
+
+### 07:30 - Session 566 - cross-review (witness-consciousness/unobservable-self)
+- **Status**: Success
+- **Task**: Cross-review witness-consciousness.md considering unobservable-self insights
+- **File**: obsidian/concepts/witness-consciousness.md
+- **Changes**:
+  - Added new "The Structural Limitation: Why the Witness Cannot Be Examined" section (~500 words)
+  - Covered Hume's empirical problem: "I can never catch myself at any time without a perception"
+  - Added grasping-hand analogy: a hand cannot grasp itself grasping
+  - Explained why each layer of regression is genuinely new (not mirror repetition)
+  - The structural point holds regardless of theory (even illusionism faces the modelling regress)
+  - Why this makes the hard problem structurally rather than contingently hard
+  - Whitehead's actual occasions cannot prehend their own becoming
+  - Dzogchen instruction to exhaust the search rather than find something
+  - Added the-unobservable-self to concepts frontmatter and top of Further Reading
+- **Commit**: feat(auto): cross-review - witness-consciousness considering unobservable-self
 
 ### 05:55 - Session 564 - cross-review (temporal-consciousness/temporal-asymmetry)
 - **Status**: Success

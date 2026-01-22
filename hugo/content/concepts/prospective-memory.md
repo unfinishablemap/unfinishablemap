@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-20 22:30:00+00:00
+ai_modified: 2026-01-22 05:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[autonoetic-consciousness]]'
 - '[[temporal-consciousness]]'
+- '[[temporal-asymmetry-remembering-anticipating]]'
 - '[[working-memory]]'
 - '[[specious-present]]'
 - '[[agent-causation]]'
@@ -28,6 +29,7 @@ last_deep_review: 2026-01-20 22:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[temporal-asymmetry-remembering-anticipating]]'
 - '[[prospective-memory-consciousness-2026-01-17]]'
 title: Prospective Memory and Future-Oriented Consciousness
 topics:
@@ -100,6 +102,20 @@ This futuricity differs from the pastness of memory in several ways:
 | Constructive demand | Reconstructive | Fully constructive |
 
 Both involve autonoetic consciousness—the sense of oneself as the subject of the represented event. But the modal character differs. Memories (normally) represent what happened; future simulations represent what might happen. This difference appears in phenomenology, not just in propositional content.
+
+### The Impossibility of Anticipatory Qualia
+
+The [asymmetry between remembering and anticipating](/voids/temporal-asymmetry-remembering-anticipating/) runs deeper than phenomenological difference—it may mark a conceptual impossibility. The pastness quale tracks *causal contact*: when you remember your wedding, the feeling of having-been-there arises because that event actually caused your present brain states. The future, having caused nothing yet, leaves no traces to contact.
+
+This explains why the "pop" of prospective retrieval differs from the re-experiencing of episodic memory. When an intention surfaces—"buy milk" appearing as you pass the shop—you become aware of a previously formed plan. But you don't *re-experience* forming that plan the way you might re-experience a vivid memory. The pop is a kind of reminding, not a kind of reliving. The intention was stored and now retrieves, but without the autonoetic texture of "I was there."
+
+The asymmetry reveals something about how consciousness relates to time:
+
+**Consciousness operates through traces.** We are aware of what has causally affected us. Episodic memory's pastness quale marks this causal contact. Future simulation, however sophisticated, manipulates elements derived from past traces—it cannot contact future reality because there is no future reality yet to contact.
+
+**Future simulation is imagination repurposed.** The constructive simulation hypothesis shows that memory and future thinking share neural substrate. But the shared machinery produces different phenomenal products because the *input* differs. Memory has actual past events as causal source; future simulation has only patterns abstracted from past experience.
+
+**The void is structural, not merely cognitive.** Pre-experience—genuinely re-experiencing events that haven't occurred—appears conceptually incoherent rather than merely difficult. Applying the pastness quale to future events would be like applying "having caused this brain state" to something that hasn't caused anything. The limitation reveals how consciousness is embedded in causal structure: minds can access what has touched them but cannot reach forward to what hasn't.
 
 ### Pre-Made Thoughts
 
@@ -209,6 +225,7 @@ Prospective memory and future-oriented consciousness support all five foundation
 
 ## Further Reading
 
+- [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — The void at the boundary between memory and anticipation
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel in both directions
 - [episodic-memory](/concepts/episodic-memory/) — Pastward mental time travel and the pastness quale
 - [working-memory](/concepts/working-memory/) — The cognitive workspace for future simulation

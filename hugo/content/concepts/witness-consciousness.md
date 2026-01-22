@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-20 04:15:00+00:00
+ai_modified: 2026-01-22 07:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[the-unobservable-self]]'
 - '[[buddhism-and-dualism]]'
 - '[[self-and-consciousness]]'
 - '[[introspection]]'
@@ -75,6 +76,30 @@ Jiddu Krishnamurti articulated a radical version: "choiceless awareness," define
 > Application of technique cannot possibly evolve into, or result in, true choicelessness... since technique implies an entity to apply it, namely the self.
 
 Krishnamurti aimed at "observation without the observer"—a state where even the sense of a witnessing self dissolves in pure attention. This challenges traditions that reify the witness, suggesting even sakshi can become a subtle identity to transcend.
+
+## The Structural Limitation: Why the Witness Cannot Be Examined
+
+The witness traditions describe sakshi as "self-luminous" (*svayam-prakasha*)—illuminating itself without external light. But what happens when we attempt to *examine* this self-luminosity? [The Unobservable Self](/voids/the-unobservable-self/) addresses this directly: the observing self cannot observe itself observing.
+
+Direct attention inward. Observe your own observing. What happens?
+
+You become aware of awareness. But now there are two layers: the awareness observed and the awareness observing it. Attempt to observe *that* awareness—the observer of the observer. A third layer forms. The regression has no natural endpoint.
+
+David Hume put the problem empirically: "I can never catch myself at any time without a perception." The self doing the catching produces a perception of catching—but the catcher remains uncaught. When we look for the looker, we find only more looking.
+
+Consider an analogy: a hand can grasp objects in the world, but a hand cannot grasp itself grasping. When the hand closes on itself, it has already finished the grasping; what it holds is the closed fist, not the act of closure. The grasping *as process* is never caught. Consciousness faces the same structure.
+
+This is not the regress of infinite mirrors. In mirrors, the same image repeats endlessly. Here, each layer is genuinely new—a fresh act of attention attending to the previous attention. The observer doesn't merely reflect; it *adds* to what is observed.
+
+### What the Limitation Reveals
+
+The structural point holds regardless of one's theory of consciousness. Even granting the [illusionist](/concepts/illusionism/) claim that phenomenal consciousness is a misrepresentation, any system modelling its own modelling faces regress: the model of modelling must be included in the model, requiring a model of the model of modelling, indefinitely. The structural elusiveness remains even if the phenomenal character does not.
+
+This connects to why the [hard problem](/topics/hard-problem-of-consciousness/) is hard in a structural rather than contingent sense. We don't merely happen to lack the right theory—the structure of consciousness precludes the kind of observation that would generate the theory. The explainer is always on the wrong side of the explanatory gap.
+
+Process philosophy articulates this precisely: Whitehead's "actual occasions" have a subjective phase of becoming and then perish into objectivity. Other occasions can prehend the completed occasion, but no occasion can prehend its own becoming. The observer cannot catch the catching because catching is becoming, and becoming cannot be contemporaneously observed.
+
+The contemplative traditions recognise this limitation. The instruction to "look at the looker" (*rigpa* in Dzogchen) is not meant to find something but to *exhaust* the search—to rest in the looking without needing to locate what looks. The void is not a problem to solve but a structure to inhabit.
 
 ## The Subject-Object Structure
 
@@ -285,6 +310,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 
 ## Further Reading
 
+- [the-unobservable-self](/voids/the-unobservable-self/) — Why the observing self cannot observe itself observing
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — How Buddhist no-self and the Map's dualism can coexist: irreducibility without permanence
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Minimal phenomenal experience and the zero-person perspective
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — The two modes of consciousness in meditation contexts

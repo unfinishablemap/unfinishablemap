@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T23:58:00+00:00
+ai_modified: 2026-01-22T07:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Cross-review witness-consciousness.md considering unobservable-self insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/the-unobservable-self.md (2026-01-22) explores the paradox that the observing self cannot observe itself observing. The witness-consciousness.md article discusses sakshi (the witness) and could be strengthened by addressing this structural limitation—why the witness's self-luminosity cannot be examined, and what the regression of attention reveals about the witness's essential hiddenness.
-- **Source**: chain (from the-unobservable-self.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review introspection.md considering unobservable-self insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/the-unobservable-self.md (2026-01-22) argues that the observer cannot observe itself observing, explaining why the hard problem is hard. The introspection.md article discusses first-person methods and could be strengthened by addressing this as a principled limit on introspective access—not just unreliability of process reports, but the structural impossibility of catching the catcher.
@@ -68,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review witness-consciousness.md considering unobservable-self insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/the-unobservable-self.md (2026-01-22) explores the paradox that the observing self cannot observe itself observing. The witness-consciousness.md article discusses sakshi (the witness) and could be strengthened by addressing this structural limitation—why the witness's self-luminosity cannot be examined, and what the regression of attention reveals about the witness's essential hiddenness.
+- **Result**: Added new "The Structural Limitation: Why the Witness Cannot Be Examined" section (~500 words) covering: Hume's empirical problem (never catching oneself without a perception), the grasping-hand analogy, why each layer of regression is genuinely new (not mirror repetition), the structural point that holds regardless of theory, why this makes the hard problem structurally rather than contingently hard, Whitehead's actual occasions and prehension, and the Dzogchen instruction to exhaust the search. Added the-unobservable-self to concepts frontmatter and top of Further Reading.
+- **Output**: obsidian/concepts/witness-consciousness.md
 
 ### ✓ 2026-01-22: Cross-review autonoetic-consciousness.md considering temporal-asymmetry insights
 - **Type**: cross-review
