@@ -3,11 +3,12 @@ title: "Autonoetic Consciousness"
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-22T03:30:00+00:00
+ai_modified: 2026-01-22T23:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
+  - "[[temporal-asymmetry-remembering-anticipating]]"
   - "[[jourdain-hypothesis]]"
   - "[[baseline-cognition]]"
   - "[[personal-identity]]"
@@ -62,6 +63,16 @@ Tulving distinguished three forms of consciousness associated with different mem
 The concept of mental time travel captures what autonoetic consciousness enables: the projection of oneself to specific times and places, both past and future. When you remember your graduation ceremony, you are in some sense *there*—the remembered scene unfolds with phenomenal presence rather than being merely represented abstractly.
 
 Crucially, mental time travel works in both directions. The same capacity that allows re-experiencing past events allows simulating future ones. When you imagine a forthcoming job interview, you project yourself forward—you inhabit the scenario with first-person phenomenology. Tulving argued this bidirectionality reveals something fundamental: autonoetic consciousness is a unified capacity for temporal self-projection, not separate remembering and imagining faculties.
+
+### The Asymmetry Between Re-Living and Pre-Living
+
+Yet the bidirectionality is not symmetric. While the same neural systems support both memory and future simulation, the phenomenological products differ fundamentally. When you remember, you *re-experience*—the pastness quale marks genuine causal contact with what happened. When you imagine the future, however vividly, you *construct*—there is no analogous "futuricity" quale that marks contact with future reality.
+
+This asymmetry is not merely psychological but [[temporal-asymmetry-remembering-anticipating|conceptually necessary]]. The pastness quale marks causal contact: the remembered event shaped your brain, leaving traces that can be reactivated. Future events haven't caused anything yet. There are no future-traces to access, no causal contact to mark. What would pre-experience even be? The concept dissolves under analysis. To pre-experience tomorrow's meeting would require the pastness quale applied to something that hasn't happened—a category error rather than a difficult feat.
+
+This reveals something about autonoetic consciousness itself: it operates through causal traces. We can only directly know what has causally affected us. The future, by definition, has not. Imagination uses memory's neural machinery to construct scenarios from past elements, but construction differs from contact. The phenomenology tracks the metaphysical distinction: we can re-inhabit what we've actually experienced, but we cannot pre-inhabit what hasn't yet occurred.
+
+The asymmetry supports the Map's framework. If consciousness interfaces with reality through causal mechanisms, it necessarily operates within time's arrow—accessing what has become actual, not what remains merely potential. The impossibility of pre-experience isn't a limitation to be overcome but a structural feature of minds embedded in causal reality.
 
 ### Clinical Evidence
 
@@ -262,6 +273,7 @@ Five findings would require revision:
 
 ## Further Reading
 
+- [[temporal-asymmetry-remembering-anticipating]] — Why we can re-experience the past but not pre-experience the future
 - [[jourdain-hypothesis]] — The procedural/declarative distinction that illuminates the remember/know divide
 - [[baseline-cognition]] — What cognition achieves without autonoetic metarepresentation
 - [[phenomenology-of-choice]] — How autonoetic recall connects to the phenomenology of choosing

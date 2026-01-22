@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 05:55:00+00:00
+ai_modified: 2026-01-22 23:58:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,13 +44,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Cross-review autonoetic-consciousness.md considering temporal-asymmetry insights
+### P2: Cross-review witness-consciousness.md considering unobservable-self insights
 - **Type**: cross-review
-- **Notes**: New voids article voids/temporal-asymmetry-remembering-anticipating.md (2026-01-22) builds directly on Tulving's autonoetic consciousness concept. The autonoetic-consciousness.md article could be strengthened by addressing why autonoetic awareness has asymmetric access to past and future—the phenomenological difference between re-living and pre-living—and connecting this to the causal structure argument.
-- **Source**: chain (from temporal-asymmetry-remembering-anticipating.md)
+- **Notes**: New voids article voids/the-unobservable-self.md (2026-01-22) explores the paradox that the observing self cannot observe itself observing. The witness-consciousness.md article discusses sakshi (the witness) and could be strengthened by addressing this structural limitation—why the witness's self-luminosity cannot be examined, and what the regression of attention reveals about the witness's essential hiddenness.
+- **Source**: chain (from the-unobservable-self.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review introspection.md considering unobservable-self insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/the-unobservable-self.md (2026-01-22) argues that the observer cannot observe itself observing, explaining why the hard problem is hard. The introspection.md article discusses first-person methods and could be strengthened by addressing this as a principled limit on introspective access—not just unreliability of process reports, but the structural impossibility of catching the catcher.
+- **Source**: chain (from the-unobservable-self.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review intentionality.md considering meaning-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New topic article topics/meaning-and-consciousness.md (2026-01-22) introduces the Phenomenal Constitution Thesis—that meaning is constitutively phenomenal, not merely accompanied by phenomenology. The intentionality.md article discusses aboutness and phenomenal intentionality, and could be strengthened by connecting to PCT's claim that semantic content and experiential character are inseparable.
+- **Source**: chain (from meaning-and-consciousness.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review semantic-memory.md considering meaning-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New topic article topics/meaning-and-consciousness.md (2026-01-22) argues that genuine understanding requires phenomenal consciousness. The semantic-memory.md article discusses semantic knowledge and could be strengthened by addressing whether semantic memories involve meaning-constituting phenomenology—if understanding 'Paris is in France' has irreducible experiential character beyond imagery and inner speech.
+- **Source**: chain (from meaning-and-consciousness.md)
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review autonoetic-consciousness.md considering temporal-asymmetry insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/temporal-asymmetry-remembering-anticipating.md (2026-01-22) builds directly on Tulving's autonoetic consciousness concept. The autonoetic-consciousness.md article could be strengthened by addressing why autonoetic awareness has asymmetric access to past and future—the phenomenological difference between re-living and pre-living—and connecting this to the causal structure argument.
+- **Result**: Added new "The Asymmetry Between Re-Living and Pre-Living" subsection (~300 words) after Mental Time Travel section explaining why bidirectional mental time travel is asymmetric. Covered the conceptual incoherence of pre-experience (category error rather than limitation), causal structure argument (future events haven't caused anything yet), connection to the Map's framework (consciousness operates through causal traces). Added temporal-asymmetry-remembering-anticipating to concepts frontmatter and top of Further Reading.
+- **Output**: obsidian/concepts/autonoetic-consciousness.md
 
 ### ✓ 2026-01-22: Cross-review temporal-consciousness.md considering temporal-asymmetry insights
 - **Type**: cross-review
