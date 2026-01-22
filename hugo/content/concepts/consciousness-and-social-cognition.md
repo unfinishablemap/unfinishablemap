@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-22 08:30:00+00:00
+ai_modified: 2026-01-23 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,11 +17,13 @@ concepts:
 - '[[intentionality]]'
 - '[[illusionism]]'
 - '[[witness-consciousness]]'
+- '[[phenomenal-unity]]'
 created: 2026-01-22
 date: &id001 2026-01-22
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-23 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +71,7 @@ Understanding what others perceive. "She sees the food" requires representing an
 
 ### Level 2: Belief Attribution
 
-Understanding that others have beliefs that may differ from reality—and from your own. The classic false belief test: does the subject understand that another agent will act on their (false) belief rather than reality? Great apes show mixed results here: some studies suggest understanding of false beliefs in competitive contexts, but the evidence is contested.
+Understanding that others have beliefs that may differ from reality—and from your own. The classic false belief test: does the subject understand that another agent will act on their (false) belief rather than reality? Great apes show mixed results here: some studies suggest understanding of false beliefs in competitive contexts, while others find only behaviour-reading without genuine belief attribution. The field remains actively debated, and methodological concerns—about training effects, alternative explanations, and the difficulty of ruling out behaviour-tracking—prevent confident conclusions.
 
 ### Level 3: Recursive Mindreading
 
@@ -83,7 +85,7 @@ Representing others' mental states about mental states. "She thinks that I think
 
 ### The Nested Structure Problem
 
-Recursive mindreading requires holding multiple levels simultaneously: my belief about your belief about my intention. This isn't just complex—it's *reflexively* complex. Each level must be available for manipulation while tracking its relationship to other levels.
+Recursive mindreading requires holding multiple levels simultaneously: my belief about your belief about my intention. This isn't just complex—it's *reflexively* complex. Each level must be available for manipulation while tracking its relationship to other levels. The nested representations must be bound into a [unified conscious experience](/concepts/phenomenal-unity/)—you must experience the whole structure at once, not merely store its parts separately.
 
 Consider: "I want her to believe that I don't know that she plans to take the food."
 
@@ -228,7 +230,7 @@ The [Dualism](/tenets/#dualism) tenet holds that consciousness is irreducible. T
 
 ### Minimal Quantum Interaction
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet concerns mechanism rather than social cognition directly. But if consciousness interfaces with matter through quantum effects in neural tissue, and if social cognition depends on consciousness, then the quantum interface supports the recursive metarepresentation social cognition requires. The expanded [working-memory](/concepts/working-memory/) capacity humans possess—enabling manipulation of multiple nested representations—may depend on the consciousness-matter interface.
+The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies mechanism: consciousness influences physical outcomes through minimal biasing of quantum events rather than through direct energy injection. Social cognition provides a domain where this mechanism would operate. The recursive metarepresentation underlying theory of mind and shared intentionality requires sustained attention to multiple nested representations—precisely the kind of cognitive operation that Stapp-style quantum Zeno accounts propose consciousness enables. The expanded [working-memory](/concepts/working-memory/) capacity humans possess—enabling manipulation of nested mental-state representations—may depend on the consciousness-matter interface. If so, the human-ape gap in social cognition reflects not merely enhanced information processing but the amplifying effect of conscious attention operating through quantum selection.
 
 ### Occam's Razor Has Limits
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 08:30:00+00:00
+ai_modified: 2026-01-22 23:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -60,6 +60,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: cross-review
 - **Notes**: New article concepts/temporal-structure-of-understanding.md (2026-01-22) provides specific evidence for how temporal phenomenology enables cognitive functions like understanding. The temporal-consciousness.md article could be strengthened by adding understanding as a case where temporal structure does constitutive work—not just accompanying cognition but enabling it.
 - **Source**: chain (from temporal-structure-of-understanding.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review animal-consciousness.md considering consciousness-and-social-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-and-social-cognition.md (2026-01-22) argues that the gap between great ape and human social cognition tracks consciousness—phenomenal experience enables the metarepresentational operations underlying shared intentionality, explicit theory of mind, and recursive mindreading. The animal-consciousness.md topic could be strengthened by connecting these specific cognitive markers as evidence for the consciousness gap.
+- **Source**: chain (from consciousness-and-social-cognition.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review baseline-cognition.md considering consciousness-and-social-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-and-social-cognition.md (2026-01-22) provides detailed analysis of what social cognition achieves without consciousness (the primate baseline) versus with consciousness (human social cognition). The baseline-cognition.md article could be strengthened by adding social cognition as a domain where the baseline/conscious distinction is particularly clear.
+- **Source**: chain (from consciousness-and-social-cognition.md)
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
