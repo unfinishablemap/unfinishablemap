@@ -2,8 +2,8 @@
 title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-22
-human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T23:31:04+00:00
+human_modified: 2026-01-22T15:29:26+00:00
+ai_modified: 2026-01-22T23:37:57.587998+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review interactionist-dualism.md considering consciousness-as-intelligence-amplifier evidence
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-as-intelligence-amplifier.md presents evolutionary argument (consciousness must have causal effects to be selected), empirical evidence (logical reasoning requires conscious processing), great ape-human gap (working memory 2±1 vs 7±2), and cumulative culture hypothesis. Strong support for Bidirectional Interaction tenet—epiphenomenal consciousness cannot explain why it evolved or why phenomenal character correlates with adaptive value. The interactionist-dualism.md article should integrate this as key evidence against epiphenomenalism.
-- **Source**: chain
-- **Generated**: 2026-01-22
 
 ### P2: Cross-review epiphenomenalism.md considering consciousness-as-intelligence-amplifier evidence
 - **Type**: cross-review
@@ -100,6 +94,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review interactionist-dualism.md considering consciousness-as-intelligence-amplifier evidence
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-as-intelligence-amplifier.md presents evolutionary argument (consciousness must have causal effects to be selected), empirical evidence (logical reasoning requires conscious processing), great ape-human gap (working memory 2±1 vs 7±2), and cumulative culture hypothesis. Strong support for Bidirectional Interaction tenet—epiphenomenal consciousness cannot explain why it evolved or why phenomenal character correlates with adaptive value. The interactionist-dualism.md article should integrate this as key evidence against epiphenomenalism.
+- **Result**: Added new section "Consciousness Amplifies Intelligence" after the cumulative case arguments, enhanced Argument 6 (self-stultification) with evolutionary evidence showing why phenomenal consciousness cannot be epiphenomenal, integrated key findings (logical reasoning depends on consciousness, working memory expansion 2±1 vs 7±2, metacognitive monitoring enables cumulative culture, flexible response to novel situations), added wikilink to consciousness-as-intelligence-amplifier in related_articles frontmatter.
+- **Output**: obsidian/concepts/interactionist-dualism.md (revised)
 
 ### ✓ 2026-01-22: Cross-review phenomenal-unity.md considering quantum binding experimental evidence
 - **Type**: cross-review
