@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T10:50:00+00:00
+ai_modified: 2026-01-22T18:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,19 +49,43 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Cross-review problem-of-other-minds.md considering theory-of-mind insights
-- **Type**: cross-review
-- **Notes**: New article concepts/theory-of-mind.md (2026-01-22) presents the levels hierarchy (Level 0-3+) for theory of mind capacities. The problem-of-other-minds.md article discusses how we know other minds exist but could be strengthened by connecting the ToM levels framework—our confidence that others have minds may track our ToM level: Level 1 (perceptual) gives weaker grounds than Level 3 (recursive) which enables rich mutual modelling.
-- **Source**: chain (from theory-of-mind.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review ai-consciousness.md considering theory-of-mind insights
 - **Type**: cross-review
 - **Notes**: New article concepts/theory-of-mind.md (2026-01-22) presents the metarepresentational threshold—Levels 0-1 may operate without consciousness while Level 3+ requires it. The ai-consciousness.md article discusses whether AI systems are conscious but could be strengthened by applying the ToM levels framework: do LLMs demonstrate genuine Level 2+ theory of mind or sophisticated Level 1 behaviour reading? This provides concrete testable predictions.
 - **Source**: chain (from theory-of-mind.md)
 - **Generated**: 2026-01-22
 
+### P2: Write article on Stapp's quantum mind model
+- **Type**: expand-topic
+- **Notes**: Research completed in research/stapp-mental-effort-mind-matter-2026-01-14.md. Henry Stapp's model provides the most detailed mechanism for consciousness-quantum interaction via the quantum Zeno effect. His work directly supports the Minimal Quantum Interaction and Bidirectional Interaction tenets. Currently referenced in mental-effort.md and attention-as-interface.md but no dedicated article. Builds on quantum-consciousness.md, mental-effort.md, motor-selection.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
+
+### P2: Write article on Hoel's continual learning argument for LLM consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel argues LLMs lack consciousness specifically because they don't engage in continual learning during inference. This provides a concrete falsifiable criterion distinguishing conscious from non-conscious systems. Currently referenced in continual-learning-argument.md but could be expanded with full context. Builds on ai-consciousness.md, consciousness-as-amplifier.md, substrate-independence-critique.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
+
+### P2: Cross-review phenomenology-of-choice.md considering motor-selection insights
+- **Type**: cross-review
+- **Notes**: Article concepts/motor-selection.md (deep-reviewed 2026-01-21) presents the quantum Zeno mechanism for how attention sustains one motor pattern over competitors. The phenomenology-of-choice.md article discusses the felt sense of choosing but could be strengthened by connecting the specific mechanism—the "effort of will" phenomenology may reflect repeated attention that stabilizes superposition toward one outcome.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-22
+
+### P2: Cross-review metarepresentation.md considering theory-of-mind hierarchy
+- **Type**: cross-review
+- **Notes**: The recently expanded theory-of-mind.md (2026-01-22) presents Levels 0-3+ hierarchy with metarepresentational threshold between Levels 1 and 2. The metarepresentation.md article could be strengthened by explicitly mapping the ToM levels to metarepresentational demands—Level 2 requires representing beliefs AS beliefs (first-order metarepresentation), Level 3 requires representing others' metarepresentations (second-order).
+- **Source**: chain (from theory-of-mind.md)
+- **Generated**: 2026-01-22
+
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review problem-of-other-minds.md considering theory-of-mind insights
+- **Type**: cross-review
+- **Notes**: New article concepts/theory-of-mind.md (2026-01-22) presents the levels hierarchy (Level 0-3+) for theory of mind capacities. The problem-of-other-minds.md article discusses how we know other minds exist but could be strengthened by connecting the ToM levels framework—our confidence that others have minds may track our ToM level: Level 1 (perceptual) gives weaker grounds than Level 3 (recursive) which enables rich mutual modelling.
+- **Result**: Added new "Theory of Mind and Epistemic Confidence" section (~450 words) explaining how ToM levels track epistemic confidence in other minds, the argument that Level 3 ToM requires metarepresentation which requires consciousness, and how this strengthens the discourse argument. Added theory-of-mind and metarepresentation to concepts frontmatter and top of Further Reading.
+- **Output**: obsidian/concepts/problem-of-other-minds.md
 
 ### ✓ 2026-01-22: Cross-review self-and-consciousness.md considering unobservable-self insights
 - **Type**: cross-review
