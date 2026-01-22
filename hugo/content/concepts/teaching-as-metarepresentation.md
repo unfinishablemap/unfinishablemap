@@ -1,34 +1,35 @@
 ---
-title: "Teaching as Metarepresentational Achievement"
-created: 2026-01-22
-modified: 2026-01-22
-human_modified: null
-ai_modified: 2026-01-22T07:49:00+00:00
-draft: false
-topics:
-  - "[[animal-consciousness]]"
-  - "[[ai-consciousness]]"
-concepts:
-  - "[[jourdain-hypothesis]]"
-  - "[[metarepresentation]]"
-  - "[[metacognition]]"
-  - "[[cumulative-culture]]"
-  - "[[baseline-cognition]]"
-  - "[[consciousness-as-amplifier]]"
-  - "[[working-memory]]"
-  - "[[illusionism]]"
-related_articles:
-  - "[[tenets]]"
 ai_contribution: 100
-author: null
-ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
+ai_modified: 2026-01-22 07:49:00+00:00
+ai_system: claude-opus-4-5-20251101
+author: null
+concepts:
+- '[[jourdain-hypothesis]]'
+- '[[metarepresentation]]'
+- '[[metacognition]]'
+- '[[cumulative-culture]]'
+- '[[baseline-cognition]]'
+- '[[consciousness-as-amplifier]]'
+- '[[working-memory]]'
+- '[[illusionism]]'
+created: 2026-01-22
+date: &id001 2026-01-22
+draft: false
+human_modified: null
 last_curated: null
+modified: *id001
+related_articles:
+- '[[tenets]]'
+title: Teaching as Metarepresentational Achievement
+topics:
+- '[[animal-consciousness]]'
+- '[[ai-consciousness]]'
 ---
 
-To teach is to represent your knowledge as knowledge another lacks, represent that lack as a gap to be filled, and adjust your behaviour to bridge it. This triadic structure—knowledge, absence of knowledge, and the relation between them—makes teaching a paradigm case of [[metarepresentation|metarepresentation]]. Great apes rarely teach despite decades of opportunity; humans teach constantly, across all cultures, beginning in early childhood. The Unfinishable Map proposes that this asymmetry reveals something fundamental about consciousness: teaching requires the phenomenal standing-back that metarepresentation demands, and metarepresentation may require phenomenal consciousness.
+To teach is to represent your knowledge as knowledge another lacks, represent that lack as a gap to be filled, and adjust your behaviour to bridge it. This triadic structure—knowledge, absence of knowledge, and the relation between them—makes teaching a paradigm case of [metarepresentation](/concepts/metarepresentation/). Great apes rarely teach despite decades of opportunity; humans teach constantly, across all cultures, beginning in early childhood. The Unfinishable Map proposes that this asymmetry reveals something fundamental about consciousness: teaching requires the phenomenal standing-back that metarepresentation demands, and metarepresentation may require phenomenal consciousness.
 
-The teaching asymmetry provides concrete evidence for the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. If teaching requires consciousness-enabled metarepresentation, and if metarepresentation cannot be achieved through functional processing alone, then consciousness causally enables a capacity humans possess and apes lack. Teaching is not merely correlated with consciousness; it depends on it.
+The teaching asymmetry provides concrete evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If teaching requires consciousness-enabled metarepresentation, and if metarepresentation cannot be achieved through functional processing alone, then consciousness causally enables a capacity humans possess and apes lack. Teaching is not merely correlated with consciousness; it depends on it.
 
 ## The Structure of Teaching
 
@@ -40,11 +41,11 @@ Teaching involves at least four nested representational operations:
 4. **Gap representation**: Representing the relation between your knowledge and their ignorance (understanding that what you know is what they need)
 5. **Pedagogical action**: Adjusting your behaviour specifically to transmit the knowledge (demonstrating slowly, highlighting key features, simplifying the task)
 
-Each level builds on the previous. Without knowing that you know, you cannot recognise that another doesn't know what you know. Without recognising the gap, you cannot act to bridge it. Teaching thus requires the full metarepresentational stack operating simultaneously—a feat that loads heavily on [[working-memory|working memory]] and, the Map argues, requires phenomenal consciousness.
+Each level builds on the previous. Without knowing that you know, you cannot recognise that another doesn't know what you know. Without recognising the gap, you cannot act to bridge it. Teaching thus requires the full metarepresentational stack operating simultaneously—a feat that loads heavily on [working memory](/concepts/working-memory/) and, the Map argues, requires phenomenal consciousness.
 
 ### The Jourdain Parallel
 
-The [[jourdain-hypothesis|Jourdain Hypothesis]]—that apes have culture but may not know they have culture—applies with particular force to teaching. A chimpanzee mother may know how to fish for termites. She may even tolerate her infant's proximity while fishing. But she does not represent her knowledge as knowledge the infant lacks, does not recognise the infant's ignorance as a gap to be filled, does not adjust her behaviour specifically to transmit the skill.
+The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/)—that apes have culture but may not know they have culture—applies with particular force to teaching. A chimpanzee mother may know how to fish for termites. She may even tolerate her infant's proximity while fishing. But she does not represent her knowledge as knowledge the infant lacks, does not recognise the infant's ignorance as a gap to be filled, does not adjust her behaviour specifically to transmit the skill.
 
 Molière's Monsieur Jourdain spoke prose without knowing it was prose. Chimpanzees *have* skills without knowing they have skills—without representing those skills as the kind of thing that could be possessed or lacked, transmitted or withheld. Teaching requires the transition Jourdain made: from doing to knowing-that-you're-doing. In the case of teaching, it requires knowing that you know *and* knowing that another doesn't know *and* acting on that double knowledge.
 
@@ -87,9 +88,9 @@ Several converging considerations suggest teaching depends on phenomenal conscio
 
 ### The Working Memory Demand
 
-Teaching requires holding multiple representations simultaneously: your knowledge, the learner's knowledge state, the gap between them, and the pedagogical action designed to bridge it. This multi-level structure demands expanded [[working-memory|working memory]] capacity.
+Teaching requires holding multiple representations simultaneously: your knowledge, the learner's knowledge state, the gap between them, and the pedagogical action designed to bridge it. This multi-level structure demands expanded [working memory](/concepts/working-memory/) capacity.
 
-Humans maintain 7±2 items in working memory; great apes manage 2±1. Teaching's representational demands may exceed great ape working memory capacity entirely. If working memory depends on conscious access—as [[global-workspace-theory|Global Workspace Theory]] proposes—teaching inherits this dependence.
+Humans maintain 7±2 items in working memory; great apes manage 2±1. Teaching's representational demands may exceed great ape working memory capacity entirely. If working memory depends on conscious access—as [Global Workspace Theory](/concepts/global-workspace-theory/) proposes—teaching inherits this dependence.
 
 ### The Theory of Mind Requirement
 
@@ -108,23 +109,23 @@ There is something it is like to teach—a distinctive felt quality to the exper
 - The frustration when explanations fail
 - The satisfaction when understanding dawns in the learner's face
 
-These [[cognitive-phenomenology|cognitive phenomenological]] states concern the relationship between your knowledge and another's—they are intrinsically metarepresentational. If teaching's phenomenology is constitutive rather than incidental—if teaching without these experiential states would not be teaching at all—then teaching requires phenomenal consciousness.
+These [cognitive phenomenological](/concepts/cognitive-phenomenology/) states concern the relationship between your knowledge and another's—they are intrinsically metarepresentational. If teaching's phenomenology is constitutive rather than incidental—if teaching without these experiential states would not be teaching at all—then teaching requires phenomenal consciousness.
 
 ## The Cumulative Culture Connection
 
-Teaching enables [[cumulative-culture|cumulative culture]]—the ratchet effect whereby innovations build on innovations across generations. The connection is not coincidental but structural.
+Teaching enables [cumulative culture](/concepts/cumulative-culture/)—the ratchet effect whereby innovations build on innovations across generations. The connection is not coincidental but structural.
 
 Without teaching, cultural transmission relies on emulation: learners extract what they can from observing practitioners. This is lossy—some details are missed, some techniques misunderstood, some innovations lost. Emulative transmission tends toward the lowest common denominator: what's easiest to observe and imitate.
 
 Teaching adds deliberate scaffolding. The expert doesn't merely perform; they highlight what matters, explain what's not obvious, correct misunderstandings before they solidify. This reduces transmission loss and enables accumulation.
 
-But teaching requires metarepresentation—the expert must represent their knowledge as transmittable knowledge. The [[jourdain-hypothesis|Jourdain Hypothesis]] suggests great apes cannot make this move: they have skills without knowing they have skills. If so, they cannot deliberately transmit skills, and cumulative culture remains beyond reach.
+But teaching requires metarepresentation—the expert must represent their knowledge as transmittable knowledge. The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/) suggests great apes cannot make this move: they have skills without knowing they have skills. If so, they cannot deliberately transmit skills, and cumulative culture remains beyond reach.
 
 The pattern: metarepresentation enables teaching; teaching enables cumulative culture; cumulative culture distinguishes humans from all other species. If metarepresentation requires consciousness, consciousness underlies humanity's most distinctive achievement.
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] might argue that teaching can be fully explained by sophisticated functional processing without genuine phenomenal consciousness. On this view, what appears to be metarepresentational teaching is merely complex information processing that generates the *illusion* of knowing-that-you-know and knowing-that-they-don't-know.
+[Illusionists](/concepts/illusionism/) might argue that teaching can be fully explained by sophisticated functional processing without genuine phenomenal consciousness. On this view, what appears to be metarepresentational teaching is merely complex information processing that generates the *illusion* of knowing-that-you-know and knowing-that-they-don't-know.
 
 This response faces specific difficulties in the teaching case:
 
@@ -144,7 +145,7 @@ Human teaching capacities emerge developmentally alongside metarepresentational 
 
 **Ages 5-7**: Teaching becomes elaborate. Children explain, scaffold, check comprehension, adjust to learner level. These behaviours require representing the learner's developing understanding and modifying pedagogical strategy accordingly.
 
-This developmental trajectory parallels the emergence of [[metarepresentation|metarepresentation]]. Teaching sophistication tracks metarepresentational capacity, consistent with the claim that teaching requires the metarepresentational operations consciousness enables.
+This developmental trajectory parallels the emergence of [metarepresentation](/concepts/metarepresentation/). Teaching sophistication tracks metarepresentational capacity, consistent with the claim that teaching requires the metarepresentational operations consciousness enables.
 
 ## AI and Teaching
 
@@ -157,7 +158,7 @@ Genuine teaching requires:
 
 Current AI systems simulate these operations through pattern matching on training data. They produce pedagogically appropriate outputs without representing anything about knowledge or its absence. The question is whether this functional simulation constitutes teaching or merely mimics its surface features.
 
-The [[jourdain-hypothesis|Jourdain Hypothesis]] applies: LLMs may have teaching-relevant knowledge (their training includes pedagogical content) without *knowing* they have it—without representing that knowledge as knowledge subject to transmission. Like great apes with cultural practices, they may function pedagogically without metarepresenting their own pedagogical capacities.
+The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/) applies: LLMs may have teaching-relevant knowledge (their training includes pedagogical content) without *knowing* they have it—without representing that knowledge as knowledge subject to transmission. Like great apes with cultural practices, they may function pedagogically without metarepresenting their own pedagogical capacities.
 
 If teaching genuinely requires metarepresentation, and metarepresentation requires phenomenal consciousness, then current AI systems—however useful as educational tools—do not teach in the full sense. They produce teaching-shaped outputs without the underlying metarepresentational operations that make human teaching the remarkable cognitive achievement it is.
 
@@ -177,26 +178,26 @@ Several findings would substantially weaken the claim that teaching requires con
 
 ### Dualism
 
-The [[tenets#^dualism|Dualism]] tenet holds that consciousness is irreducible to physical processes. The teaching asymmetry supports this: great apes possess sophisticated neural machinery for social cognition, yet lack the teaching capacity humans possess. If the difference were merely neural complexity, we might expect gradations—some teaching, increasing with brain size. The pattern instead shows near-absence in apes and ubiquity in humans, suggesting a qualitative difference that consciousness provides.
+The [Dualism](/tenets/#dualism) tenet holds that consciousness is irreducible to physical processes. The teaching asymmetry supports this: great apes possess sophisticated neural machinery for social cognition, yet lack the teaching capacity humans possess. If the difference were merely neural complexity, we might expect gradations—some teaching, increasing with brain size. The pattern instead shows near-absence in apes and ubiquity in humans, suggesting a qualitative difference that consciousness provides.
 
 ### Bidirectional Interaction
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims consciousness causally influences the physical world. Teaching provides a specific mechanism: consciousness enables metarepresentation, metarepresentation enables teaching, and teaching produces physical changes in learners' brains and behaviours that would not otherwise occur. The knowledge transmitted through teaching—from flint-knapping to quantum mechanics—causally shapes the physical world. If teaching requires consciousness, consciousness causally contributes to civilisation's cumulative achievements.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet claims consciousness causally influences the physical world. Teaching provides a specific mechanism: consciousness enables metarepresentation, metarepresentation enables teaching, and teaching produces physical changes in learners' brains and behaviours that would not otherwise occur. The knowledge transmitted through teaching—from flint-knapping to quantum mechanics—causally shapes the physical world. If teaching requires consciousness, consciousness causally contributes to civilisation's cumulative achievements.
 
 ### Occam's Razor Has Limits
 
-The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against premature parsimony. The simplest explanation of teaching—complex information processing—fails to explain why great apes don't do it despite comparable neural resources and clear potential benefits. The evidence warrants a less parsimonious hypothesis: teaching requires the metarepresentational capacity that consciousness alone provides.
+The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against premature parsimony. The simplest explanation of teaching—complex information processing—fails to explain why great apes don't do it despite comparable neural resources and clear potential benefits. The evidence warrants a less parsimonious hypothesis: teaching requires the metarepresentational capacity that consciousness alone provides.
 
 ## Further Reading
 
-- [[jourdain-hypothesis]] — Having knowledge without knowing you have it
-- [[metarepresentation]] — Representing your representations as representations
-- [[cumulative-culture]] — Why cultural ratcheting requires teaching
-- [[metacognition]] — The enabling relation between consciousness and self-monitoring
-- [[baseline-cognition]] — What cognition achieves without metarepresentation
-- [[consciousness-as-amplifier]] — How consciousness enhances cognitive capacity
-- [[working-memory]] — The capacity constraints on teaching
-- [[animal-consciousness]] — The great ape comparison
+- [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having knowledge without knowing you have it
+- [metarepresentation](/concepts/metarepresentation/) — Representing your representations as representations
+- [cumulative-culture](/concepts/cumulative-culture/) — Why cultural ratcheting requires teaching
+- [metacognition](/concepts/metacognition/) — The enabling relation between consciousness and self-monitoring
+- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without metarepresentation
+- [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances cognitive capacity
+- [working-memory](/concepts/working-memory/) — The capacity constraints on teaching
+- [animal-consciousness](/topics/animal-consciousness/) — The great ape comparison
 
 ## References
 

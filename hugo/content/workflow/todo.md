@@ -44,12 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P2: Write article on teaching as metarepresentational achievement
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-22 (medium priority). Human teaching as a paradigm case of metarepresentation. To teach, you must represent your knowledge as knowledge the other lacks, represent the other's learning state, and adjust your behaviour based on the difference. The teaching asymmetry between humans and apes may reveal something fundamental about consciousness. Builds on jourdain-hypothesis.md, cumulative-culture.md, metarepresentation.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-22
-
 ### P2: Write article on the temporal structure of understanding
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-22 (medium priority). Understanding unfolds in time. The "click" when a proof comes together, the gradual emergence of meaning in a complex sentence, the sudden insight after incubation—all have temporal phenomenology. How does the temporal structure of consciousness enable understanding? Builds on temporal-consciousness.md, cognitive-phenomenology.md, language-recursion-and-consciousness.md.
@@ -69,6 +63,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Write article on teaching as metarepresentational achievement
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-22 (medium priority). Human teaching as a paradigm case of metarepresentation. To teach, you must represent your knowledge as knowledge the other lacks, represent the other's learning state, and adjust your behaviour based on the difference. The teaching asymmetry between humans and apes may reveal something fundamental about consciousness. Builds on jourdain-hypothesis.md, cumulative-culture.md, metarepresentation.md.
+- **Result**: Created comprehensive concepts article (~2800 words) covering the structure of teaching as nested representational operations, evidence from great apes (what they do and don't do), why teaching requires consciousness (working memory demand, theory of mind requirement, phenomenology), cumulative culture connection, illusionist challenge, developmental evidence, AI teaching implications, and full tenet alignment with Dualism, Bidirectional Interaction, and Occam's Razor.
+- **Output**: obsidian/concepts/teaching-as-metarepresentation.md
 
 ### ✓ 2026-01-22: Cross-review semantic-memory.md considering meaning-and-consciousness insights
 - **Type**: cross-review
