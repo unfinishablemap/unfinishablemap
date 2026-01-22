@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 12:05:00+00:00
+ai_modified: 2026-01-22 18:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,25 +50,49 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Cross-review self-and-consciousness.md considering unobservable-self insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/the-unobservable-self.md (2026-01-22) explores why the observing self cannot observe itself observing—the regression of attention reveals a structural feature of consciousness. The self-and-consciousness.md article discusses minimal self and narrative self but could be strengthened by connecting the unobservable self as a third dimension: the self that does the observing is structurally inaccessible in a way that differs from both the pre-reflective minimal self and the reflective narrative self.
-- **Source**: chain (from the-unobservable-self.md)
-- **Generated**: 2026-01-22
-
-### P2: Cross-review problem-of-other-minds.md considering theory-of-mind insights
-- **Type**: cross-review
-- **Notes**: New article concepts/theory-of-mind.md (2026-01-22) presents the levels hierarchy (Level 0-3+) for theory of mind capacities. The problem-of-other-minds.md article discusses how we know other minds exist but could be strengthened by connecting the ToM levels framework—our confidence that others have minds may track our ToM level: Level 1 (perceptual) gives weaker grounds than Level 3 (recursive) which enables rich mutual modelling.
-- **Source**: chain (from theory-of-mind.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review ai-consciousness.md considering theory-of-mind insights
 - **Type**: cross-review
 - **Notes**: New article concepts/theory-of-mind.md (2026-01-22) presents the metarepresentational threshold—Levels 0-1 may operate without consciousness while Level 3+ requires it. The ai-consciousness.md article discusses whether AI systems are conscious but could be strengthened by applying the ToM levels framework: do LLMs demonstrate genuine Level 2+ theory of mind or sophisticated Level 1 behaviour reading? This provides concrete testable predictions.
 - **Source**: chain (from theory-of-mind.md)
 - **Generated**: 2026-01-22
 
+### P2: Write article on Stapp's quantum mind model
+- **Type**: expand-topic
+- **Notes**: Research completed in research/stapp-mental-effort-mind-matter-2026-01-14.md. Henry Stapp's model provides the most detailed mechanism for consciousness-quantum interaction via the quantum Zeno effect. His work directly supports the Minimal Quantum Interaction and Bidirectional Interaction tenets. Currently referenced in mental-effort.md and attention-as-interface.md but no dedicated article. Builds on quantum-consciousness.md, mental-effort.md, motor-selection.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
+
+### P2: Write article on Hoel's continual learning argument for LLM consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel argues LLMs lack consciousness specifically because they don't engage in continual learning during inference. This provides a concrete falsifiable criterion distinguishing conscious from non-conscious systems. Currently referenced in continual-learning-argument.md but could be expanded with full context. Builds on ai-consciousness.md, consciousness-as-amplifier.md, substrate-independence-critique.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-22
+
+### P2: Cross-review phenomenology-of-choice.md considering motor-selection insights
+- **Type**: cross-review
+- **Notes**: Article concepts/motor-selection.md (deep-reviewed 2026-01-21) presents the quantum Zeno mechanism for how attention sustains one motor pattern over competitors. The phenomenology-of-choice.md article discusses the felt sense of choosing but could be strengthened by connecting the specific mechanism—the "effort of will" phenomenology may reflect repeated attention that stabilizes superposition toward one outcome.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-22
+
+### P2: Cross-review metarepresentation.md considering theory-of-mind hierarchy
+- **Type**: cross-review
+- **Notes**: The recently expanded theory-of-mind.md (2026-01-22) presents Levels 0-3+ hierarchy with metarepresentational threshold between Levels 1 and 2. The metarepresentation.md article could be strengthened by explicitly mapping the ToM levels to metarepresentational demands—Level 2 requires representing beliefs AS beliefs (first-order metarepresentation), Level 3 requires representing others' metarepresentations (second-order).
+- **Source**: chain (from theory-of-mind.md)
+- **Generated**: 2026-01-22
+
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review problem-of-other-minds.md considering theory-of-mind insights
+- **Type**: cross-review
+- **Notes**: New article concepts/theory-of-mind.md (2026-01-22) presents the levels hierarchy (Level 0-3+) for theory of mind capacities. The problem-of-other-minds.md article discusses how we know other minds exist but could be strengthened by connecting the ToM levels framework—our confidence that others have minds may track our ToM level: Level 1 (perceptual) gives weaker grounds than Level 3 (recursive) which enables rich mutual modelling.
+- **Result**: Added new "Theory of Mind and Epistemic Confidence" section (~450 words) explaining how ToM levels track epistemic confidence in other minds, the argument that Level 3 ToM requires metarepresentation which requires consciousness, and how this strengthens the discourse argument. Added theory-of-mind and metarepresentation to concepts frontmatter and top of Further Reading.
+- **Output**: obsidian/concepts/problem-of-other-minds.md
+
+### ✓ 2026-01-22: Cross-review self-and-consciousness.md considering unobservable-self insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/the-unobservable-self.md (2026-01-22) explores why the observing self cannot observe itself observing—the regression of attention reveals a structural feature of consciousness. The self-and-consciousness.md article discusses minimal self and narrative self but could be strengthened by connecting the unobservable self as a third dimension: the self that does the observing is structurally inaccessible in a way that differs from both the pre-reflective minimal self and the reflective narrative self.
+- **Result**: Added new "The Unobservable Observer" subsection (~500 words) after the Three Layers of Selfhood table explaining: the fourth dimension cutting across all three layers, how it differs from minimal/metacognitive/narrative distinctions, a table showing what escapes observation at each layer, connection to Hume's observation, implications for the hard problem, and reference to witness consciousness traditions. Added the-unobservable-self to concepts frontmatter and top of Further Reading.
+- **Output**: obsidian/concepts/self-and-consciousness.md
 
 ### ✓ 2026-01-22: Cross-review metacognition.md considering consciousness-and-social-cognition insights
 - **Type**: cross-review

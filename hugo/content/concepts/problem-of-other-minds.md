@@ -1,10 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-22 04:00:00+00:00
+ai_modified: 2026-01-22 18:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[theory-of-mind]]'
+- '[[metarepresentation]]'
 - '[[qualia]]'
 - '[[functionalism]]'
 - '[[mysterianism]]'
@@ -97,6 +99,26 @@ The argument has significant force:
 **It explains the possibility of miscommunication.** If consciousness discourse were mere social convention without shared referent, there would be no genuine disagreement about consciousness—just talking past each other. But philosophical debates about qualia, the hard problem, and the nature of experience exhibit genuine disagreement. People argue because they're pointing at the same phenomenon and disagreeing about its nature.
 
 The argument isn't conclusive—one could imagine an elaborate evolutionary or cultural explanation for consciousness discourse that doesn't require actual consciousness in speakers. But such explanations strain credulity. The simplest hypothesis is that others talk about consciousness because they, like you, have it.
+
+## Theory of Mind and Epistemic Confidence
+
+[Theory of mind](/concepts/theory-of-mind/)—the capacity to attribute mental states to others—provides a different angle on the problem of other minds. Rather than asking *whether* we can know others are conscious, we can ask *how* the capacity for such knowledge develops and what it reveals.
+
+Theory of mind admits of levels. At Level 0, we predict behaviour from regularities without mental state attribution. At Level 1, we track what others perceive. At Level 2, we attribute beliefs that may differ from reality. At Level 3 and beyond, we engage in recursive mindreading—representing others' mental states about mental states.
+
+**Epistemic confidence tracks ToM level.** Our grounds for believing others are conscious strengthen as we ascend the hierarchy:
+
+- *Level 1 evidence* (perceptual): I see that you see the cup. This gives weak evidence for consciousness—gaze-tracking could be sophisticated behaviour-reading without phenomenal attribution.
+
+- *Level 2 evidence* (belief): I recognise that you believe the cup is where it was, though you haven't seen it moved. This is stronger—I'm now treating you as having representational states that can be false, not merely as tracking the environment.
+
+- *Level 3 evidence* (recursive): I understand that you know that I know you believe the cup hasn't moved. This mutual modelling creates intersubjective space where our mental states reference each other. The recursive structure presupposes we're both minded beings capable of representing representations.
+
+The critical observation: Level 3 theory of mind appears to require [metarepresentation](/concepts/metarepresentation/)—representing mental states *as* mental states. And metarepresentation appears to require phenomenal consciousness. To represent your belief about my intention, something must hold all three levels—your belief, my intention, and your representation of it—in unified awareness. This binding requirement points toward genuine phenomenality.
+
+**The argument strengthens.** If Level 3 theory of mind requires consciousness, and humans routinely engage in Level 3+ mindreading, then the very fact that we can represent others' mental states recursively provides evidence that others have the kind of minds that enable such representation. The capacity for deep theory of mind is not merely a route to knowledge about other minds—it's itself evidence for the reality of other minds, since the capacity presupposes minded beings capable of supporting recursive attribution.
+
+This connects to the discourse argument above. Cross-cultural vocabulary for consciousness isn't just evidence that others have reported experiences—it's evidence that others have engaged in exactly the kind of recursive mental state attribution that presupposes phenomenal consciousness. When another person accurately predicts what I will think about what they think, they demonstrate the metarepresentational capacity that, on the Map's analysis, requires consciousness.
 
 ## The Dualist's Dilemma
 
@@ -215,6 +237,8 @@ Rejecting MWI preserves the coherence of the other-minds question. There is a fa
 ## Further Reading
 
 ### Site Content
+- [theory-of-mind](/concepts/theory-of-mind/) — How the capacity to attribute mental states provides evidence for other minds
+- [metarepresentation](/concepts/metarepresentation/) — Why representing minds as minds requires consciousness
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Evidence for consciousness attribution through cognitive capacity patterns
 - [illusionism](/concepts/illusionism/) — The radical view that phenomenal consciousness is illusory
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The metaphysical problem the epistemological problem presupposes
