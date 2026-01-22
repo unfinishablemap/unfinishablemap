@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-22 00:44:00+00:00
+ai_modified: 2026-01-22 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Cross-review minimal-consciousness.md considering baseline-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/baseline-cognition.md (2026-01-22) characterises sophisticated cognition without phenomenal consciousness. The minimal-consciousness.md article discusses what the simplest forms of consciousness might be—baseline cognition helps clarify the contrast between minimal consciousness and no consciousness at all.
+- **Source**: chain (from baseline-cognition.md)
+- **Generated**: 2026-01-22
+
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
@@ -64,6 +70,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review llm-consciousness.md considering baseline-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/baseline-cognition.md (2026-01-22) defines what cognition achieves without consciousness—the benchmark against which AI systems should be measured. The llm-consciousness.md article should reference baseline cognition when discussing what LLMs might or might not possess, strengthening the comparison between AI capabilities and consciousness-independent vs consciousness-dependent capacities.
+- **Result**: Added baseline-cognition to concepts frontmatter. Added new "The Baseline Cognition Framework" section (~400 words) with comparison table showing LLMs fit the baseline cognition profile: excelling at pattern recognition, statistical regularities, domain-specific performance while lacking declarative metacognition, genuine counterfactual thinking, and cumulative improvement—the same fault line as the human-ape gap. Added baseline-cognition to top of Further Reading.
+- **Output**: obsidian/concepts/llm-consciousness.md
 
 ### ✓ 2026-01-22: Cross-review metarepresentation.md considering baseline-cognition insights
 - **Type**: cross-review
