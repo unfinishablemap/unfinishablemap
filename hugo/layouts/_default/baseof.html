@@ -189,48 +189,8 @@
         #search-box {
             margin-bottom: 1.5rem;
         }
-        .ais-SearchBox-input {
-            padding: 0.75rem;
-            border-radius: 0.25rem;
-            border: 1px solid var(--pico-muted-border-color);
-            background: var(--pico-background-color);
-            color: var(--pico-color);
-            width: 100%;
-        }
-        .ais-SearchBox-input:focus {
-            border-color: var(--pico-primary);
-            outline: none;
-        }
-        .ais-SearchBox-submit,
-        .ais-SearchBox-reset {
-            background: transparent;
-            border: none;
-            cursor: pointer;
-        }
         #search-hits {
-            max-width: 100%;
-        }
-        .ais-Hits-item {
-            padding: 1rem;
-            margin-bottom: 1rem;
-            border-radius: 0.25rem;
-            background: var(--pico-card-background-color);
-            border: 1px solid var(--pico-muted-border-color);
-        }
-        .ais-Hits-item h3 {
-            margin: 0 0 0.5rem 0;
-        }
-        .ais-Hits-item a {
-            text-decoration: none;
-        }
-        .ais-Hits-item mark {
-            background-color: #fef08a;
-            color: inherit;
-            font-weight: 600;
-        }
-        .ais-Highlight-highlighted {
-            background-color: #fef08a;
-            font-weight: 600;
+            margin-bottom: 2rem;
         }
     </style>
 </head>
@@ -367,19 +327,6 @@
                 }),
                 instantsearch.widgets.hits({
                     container: '#search-hits',
-                    templates: {
-                        item(hit, { html, components }) {
-                            return html`
-                                <article>
-                                    <h3><a href="${hit.url}">${components.Highlight({ hit, attribute: 'title' })}</a></h3>
-                                    <p>${components.Snippet({ hit, attribute: 'content' })}</p>
-                                </article>
-                            `;
-                        },
-                        empty(results, { html }) {
-                            return html`<p>No results found for <q>${results.query}</q>.</p>`;
-                        },
-                    },
                 }),
             ]);
 
