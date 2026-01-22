@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T12:05:00+00:00
+ai_modified: 2026-01-22T10:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Cross-review self-and-consciousness.md considering unobservable-self insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/the-unobservable-self.md (2026-01-22) explores why the observing self cannot observe itself observing—the regression of attention reveals a structural feature of consciousness. The self-and-consciousness.md article discusses minimal self and narrative self but could be strengthened by connecting the unobservable self as a third dimension: the self that does the observing is structurally inaccessible in a way that differs from both the pre-reflective minimal self and the reflective narrative self.
-- **Source**: chain (from the-unobservable-self.md)
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review problem-of-other-minds.md considering theory-of-mind insights
 - **Type**: cross-review
 - **Notes**: New article concepts/theory-of-mind.md (2026-01-22) presents the levels hierarchy (Level 0-3+) for theory of mind capacities. The problem-of-other-minds.md article discusses how we know other minds exist but could be strengthened by connecting the ToM levels framework—our confidence that others have minds may track our ToM level: Level 1 (perceptual) gives weaker grounds than Level 3 (recursive) which enables rich mutual modelling.
@@ -68,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-22
 
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review self-and-consciousness.md considering unobservable-self insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/the-unobservable-self.md (2026-01-22) explores why the observing self cannot observe itself observing—the regression of attention reveals a structural feature of consciousness. The self-and-consciousness.md article discusses minimal self and narrative self but could be strengthened by connecting the unobservable self as a third dimension: the self that does the observing is structurally inaccessible in a way that differs from both the pre-reflective minimal self and the reflective narrative self.
+- **Result**: Added new "The Unobservable Observer" subsection (~500 words) after the Three Layers of Selfhood table explaining: the fourth dimension cutting across all three layers, how it differs from minimal/metacognitive/narrative distinctions, a table showing what escapes observation at each layer, connection to Hume's observation, implications for the hard problem, and reference to witness consciousness traditions. Added the-unobservable-self to concepts frontmatter and top of Further Reading.
+- **Output**: obsidian/concepts/self-and-consciousness.md
 
 ### ✓ 2026-01-22: Cross-review metacognition.md considering consciousness-and-social-cognition insights
 - **Type**: cross-review
