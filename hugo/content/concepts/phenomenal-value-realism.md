@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-20 20:40:00+00:00
+ai_modified: 2026-01-22 11:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,6 +16,7 @@ concepts:
 - '[[decoherence]]'
 - '[[haecceity]]'
 - '[[buddhism-and-dualism]]'
+- '[[aesthetic-dimension-of-consciousness]]'
 created: 2026-01-16
 date: &id001 2026-01-16
 draft: false
@@ -63,6 +64,7 @@ The Map adopts a variant that extends beyond pure hedonism. While hedonic valenc
 | Feature | Why It Matters |
 |---------|----------------|
 | **Hedonic valence** | Pleasure is good; suffering is bad |
+| **Aesthetic quality** | Beauty attracts; ugliness repels—independent of pleasure |
 | **Meaning** | Engagement with what matters, beyond mere pleasure |
 | **Agency** | Making genuine choices—valuable even when difficult |
 | **Understanding** | Intellectually satisfying insight |
@@ -70,6 +72,12 @@ The Map adopts a variant that extends beyond pure hedonism. While hedonic valenc
 | **Attention** | Quality of presence in the moment |
 
 This is **phenomenal value pluralism**: multiple phenomenal features contribute to intrinsic value, not just hedonic tone. But all are features of conscious experience—the pluralism operates *within* the experiential domain, not beyond it.
+
+### Aesthetic Value as Distinct Category
+
+[The aesthetic dimension of consciousness](/topics/aesthetic-dimension-of-consciousness/) provides strong evidence for phenomenal value pluralism. Beauty, elegance, and harmony are not reducible to pleasure—an experience can be beautiful without being pleasant (sublime terror) and pleasant without being beautiful (a warm bath). Yet aesthetic qualities carry intrinsic normative weight: beauty *calls for* attention, elegance *commands* assent, ugliness *repels*. This normativity is built into the aesthetic experience itself, not added by judgment.
+
+The aesthetic case strengthens phenomenal value realism in two ways. First, it expands the domain: if value were merely hedonic, aesthetic normativity would be derivative. Instead, aesthetic qualities appear to be independently value-laden features of experience. Second, aesthetic qualia may be *more* resistant to physicalist reduction than sensory qualia. The inverted qualia argument is particularly strong for aesthetics—what structural asymmetry distinguishes beauty from ugliness that would make aesthetic inversion impossible? The apparent absence of such asymmetry suggests aesthetic value, like hedonic value, is irreducibly phenomenal.
 
 ### Against Preference Satisfaction
 
@@ -264,6 +272,7 @@ Phenomenal value realism unifies the Map's disparate concerns: consciousness stu
 
 ## Further Reading
 
+- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why experience has aesthetic quality, and why this resists reduction
 - [meaning-of-life](/topics/meaning-of-life/) — The case that consciousness grounds meaning
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Ethical implications of consciousness-grounded value
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Why AI alignment should target experiential quality

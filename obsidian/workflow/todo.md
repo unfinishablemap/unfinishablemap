@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-05
 human_modified: 2026-01-06T15:29:26+00:00
-ai_modified: 2026-01-22T00:10:00+00:00
+ai_modified: 2026-01-22T11:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -50,19 +50,43 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review (gap_analysis)
 - **Generated**: 2026-01-21
 
-### P2: Cross-review phenomenal-value-realism.md considering aesthetic-dimension-of-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article topics/aesthetic-dimension-of-consciousness.md (2026-01-22) demonstrates that phenomenal value extends beyond hedonic valence to aesthetic properties—beauty calls for attention, elegance commands assent, harmony creates satisfaction. The phenomenal-value-realism.md article could expand its value pluralism claim by explicitly including aesthetic value alongside hedonic value, and addressing whether aesthetic normativity operates independently of pleasure/pain.
-- **Source**: chain (from aesthetic-dimension-of-consciousness.md)
-- **Generated**: 2026-01-21
-
 ### P2: Cross-review animal-consciousness.md considering cumulative-culture insights
 - **Type**: cross-review
 - **Notes**: New article concepts/cumulative-culture.md (2026-01-21) provides detailed treatment of the ratchet effect, zone of latent solutions, and why metarepresentation enables cumulative innovation. The animal-consciousness.md "Consciousness and Human-Ape Intelligence Gap" section could be strengthened by centering cumulative culture as the exemplar of consciousness-enabled capacity, with explicit link to the cumulative-culture concept.
 - **Source**: chain (from cumulative-culture.md)
 - **Generated**: 2026-01-21
 
+### P2: Cross-review animal-consciousness.md considering baseline-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/baseline-cognition.md (2026-01-22) defines baseline cognition as what neural systems achieve without consciousness-dependent capacities. The animal-consciousness.md article should reference this concept when discussing great ape capabilities, linking the "zone of latent solutions" to baseline cognition and clarifying how animal consciousness might extend beyond baseline.
+- **Source**: chain (from baseline-cognition.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review consciousness-as-amplifier.md considering baseline-cognition insights
+- **Type**: cross-review
+- **Notes**: New article concepts/baseline-cognition.md (2026-01-22) provides the complementary concept to amplification—what cognition looks like without the consciousness boost. The consciousness-as-amplifier.md article should explicitly reference baseline cognition as the starting point from which consciousness amplifies, strengthening the argument structure.
+- **Source**: chain (from baseline-cognition.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review cognitive-phenomenology.md considering language-recursion-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/language-recursion-and-consciousness.md (2026-01-22) argues that recursive linguistic structure requires phenomenal consciousness via working memory manipulation. The cognitive-phenomenology.md article should be strengthened with this language evidence—recursion as a particularly clear case where thinking has phenomenal character.
+- **Source**: chain (from language-recursion-and-consciousness.md)
+- **Generated**: 2026-01-22
+
+### P2: Cross-review working-memory.md considering language-recursion-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/language-recursion-and-consciousness.md (2026-01-22) presents recursion as a key example of why expanded working memory capacity (7±2 vs 2±1) matters for consciousness-enabled cognition. The working-memory.md article should reference this language/recursion connection in its discussion of what expanded capacity enables.
+- **Source**: chain (from language-recursion-and-consciousness.md)
+- **Generated**: 2026-01-22
+
 ## Completed Tasks
+
+### ✓ 2026-01-22: Cross-review phenomenal-value-realism.md considering aesthetic-dimension-of-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/aesthetic-dimension-of-consciousness.md (2026-01-22) demonstrates that phenomenal value extends beyond hedonic valence to aesthetic properties—beauty calls for attention, elegance commands assent, harmony creates satisfaction. The phenomenal-value-realism.md article could expand its value pluralism claim by explicitly including aesthetic value alongside hedonic value, and addressing whether aesthetic normativity operates independently of pleasure/pain.
+- **Result**: Added aesthetic-dimension-of-consciousness to concepts frontmatter. Added "Aesthetic quality" row to phenomenal value pluralism table. Added new "Aesthetic Value as Distinct Category" subsection (~200 words) explaining how aesthetic normativity is distinct from hedonic valence, why the aesthetic case strengthens phenomenal value realism, and how aesthetic qualia may be more resistant to reduction than sensory qualia. Added to top of Further Reading.
+- **Output**: obsidian/concepts/phenomenal-value-realism.md
 
 ### ✓ 2026-01-22: Create concept page for baseline cognition
 - **Type**: expand-topic
