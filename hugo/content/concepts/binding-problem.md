@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-23 16:45:00+00:00
+ai_modified: 2026-01-23 21:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[unity-of-consciousness]]'
 - '[[minimal-consciousness]]'
 - '[[qualia]]'
 - '[[quantum-consciousness]]'
@@ -46,7 +47,7 @@ topics:
 
 The binding problem asks how distributed neural processes—each handling different features like color, shape, and motion in separate brain regions—combine into unified conscious experience. When you see a red apple moving across a table, color is processed in V4, shape in the inferotemporal cortex, motion in MT/V5. Yet your experience is of *one* red moving apple, not three separate features. Classical neural mechanisms struggle to explain this unity. Quantum approaches may succeed precisely because quantum entanglement provides genuine physical holism—the whole is irreducible to parts.
 
-Strictly speaking, binding addresses *synchronic* unity—the binding of features within a single moment of experience. Consciousness also exhibits [diachronic unity](/concepts/varieties-of-unity/) (how moments connect through time) and subject unity (that all experiences belong to one subject). These may be related but distinct problems; evidence suggests they can dissociate. The binding problem as traditionally framed concerns why features at a moment feel like one experience rather than parallel processes.
+Strictly speaking, binding addresses *synchronic* unity—the binding of features within a single moment of experience. [The unity of consciousness](/concepts/unity-of-consciousness/) is the broader problem of why experience comes as a whole rather than a collection of separate parts; binding is one dimension of this larger puzzle. Consciousness also exhibits [diachronic unity](/concepts/varieties-of-unity/) (how moments connect through time) and subject unity (that all experiences belong to one subject). Evidence suggests these dimensions can dissociate—[split-brain patients](/topics/split-brain-consciousness/) show divided perceptual unity while retaining subject unity; dreamless sleep eliminates diachronic unity while (arguably) preserving subject unity across the gap. The binding problem as traditionally framed concerns synchronic phenomenal unity: why features at a moment feel like *one* experience rather than coordinated parallel processes.
 
 ### Intra-Modal vs Cross-Modal Binding
 
@@ -369,6 +370,7 @@ The Map's response: phenomenal unity appears *globally* definite, not branch-rel
 
 ## Further Reading
 
+- [unity-of-consciousness](/concepts/unity-of-consciousness/) — The broader problem of why experience comes as unified whole; binding is the synchronic dimension
 - [multimodal-binding](/concepts/multimodal-binding/) — Cross-modal binding as paradigm case: how vision, hearing, and touch unify into single experience
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of quantum Zeno mechanism for consciousness-matter interaction
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Boundary cases testing binding in simple organisms

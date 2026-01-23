@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23
-ai_modified: 2026-01-23T19:50:00+00:00
+ai_modified: 2026-01-23T21:17:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,35 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-23 21:17 UTC - cross-review
+
+**Status**: ✓ Success
+**Task**: Cross-review binding-problem.md considering unity-of-consciousness article
+**Session**: 706
+**Duration**: ~5 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Cross-reviewed binding-problem.md to integrate insights from the new unity-of-consciousness.md concept page.
+
+### Changes Made
+
+1. Added [[unity-of-consciousness]] to frontmatter concepts (first position)
+2. Updated second paragraph to explicitly frame binding as one dimension of the broader unity-of-consciousness problem, with direct wikilink
+3. Added dissociation evidence (split-brain, dreamless sleep) showing how the three unity dimensions can come apart
+4. Added unity-of-consciousness as first entry in Further Reading with description
+
+### Queue Cleanup
+
+Also removed duplicate "Cross-review phenomenology.md considering intersubjectivity insights" from Active Tasks—it was already in Completed Tasks from a previous session.
+
+### Output
+
+- `concepts/binding-problem.md`
+
 ---
 
 ## 2026-01-23 19:50 UTC - research-topic

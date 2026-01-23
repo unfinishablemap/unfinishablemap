@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 19:50:00+00:00
+ai_modified: 2026-01-23 21:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review phenomenology.md considering intersubjectivity insights
-- **Type**: cross-review
-- **Notes**: New article concepts/intersubjectivity.md explains how phenomenological findings can be validated intersubjectively without reducing to third-person description. The phenomenology.md concept page should be reviewed to: (1) add cross-link to intersubjectivity, (2) note how Husserl's analysis of intersubjectivity grounds phenomenological method, (3) distinguish phenomenology's approach from heterophenomenology's third-person stance.
-- **Source**: chain (from intersubjectivity.md)
-- **Generated**: 2026-01-23
-
-### P2: Cross-review binding-problem.md considering unity-of-consciousness article
-- **Type**: cross-review
-- **Notes**: New article concepts/unity-of-consciousness.md provides the canonical definition page for unity of consciousness, which binding-problem.md references but previously had no target. The binding-problem.md article should be reviewed to: (1) verify [unity-of-consciousness](/concepts/unity-of-consciousness/) links now resolve correctly, (2) integrate the distinction between binding problem (neural mechanism) and unity of consciousness (philosophical problem), (3) note how the new article clarifies the relationship between synchronic/diachronic/subject unity and the binding challenge.
-- **Source**: chain (from unity-of-consciousness.md)
-- **Generated**: 2026-01-23
 
 ### P2: Cross-review phenomenal-unity.md considering unity-of-consciousness article
 - **Type**: cross-review
@@ -94,6 +82,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review binding-problem.md considering unity-of-consciousness article
+- **Type**: cross-review
+- **Notes**: New article concepts/unity-of-consciousness.md provides the canonical definition page for unity of consciousness, which binding-problem.md references but previously had no target. The binding-problem.md article should be reviewed to: (1) verify [unity-of-consciousness](/concepts/unity-of-consciousness/) links now resolve correctly, (2) integrate the distinction between binding problem (neural mechanism) and unity of consciousness (philosophical problem), (3) note how the new article clarifies the relationship between synchronic/diachronic/subject unity and the binding challenge.
+- **Result**: Added [unity-of-consciousness](/concepts/unity-of-consciousness/) to frontmatter concepts (first position). Updated second paragraph to explicitly frame binding as one dimension of the broader unity-of-consciousness problem, with direct wikilink to new concept page. Added dissociation evidence (split-brain, dreamless sleep) showing the unity dimensions can come apart. Added unity-of-consciousness as first entry in Further Reading with description noting it provides the broader framing.
+- **Output**: concepts/binding-problem.md
 
 ### ✓ 2026-01-23: Research attention and motor planning quantum interface
 - **Type**: research-topic
