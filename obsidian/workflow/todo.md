@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T18:26:00+00:00
+ai_modified: 2026-01-23T20:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review phenomenology.md considering intersubjectivity insights
-- **Type**: cross-review
-- **Notes**: New article concepts/intersubjectivity.md explains how phenomenological findings can be validated intersubjectively without reducing to third-person description. The phenomenology.md concept page should be reviewed to: (1) add cross-link to intersubjectivity, (2) note how Husserl's analysis of intersubjectivity grounds phenomenological method—if phenomenology were purely private it couldn't be shared or validated, (3) distinguish phenomenology's approach to intersubjectivity from heterophenomenology's third-person stance.
-- **Source**: chain (from intersubjectivity.md)
-- **Generated**: 2026-01-23
 
 ### P2: Create concept page for unity-of-consciousness
 - **Type**: expand-topic
@@ -93,6 +87,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review phenomenology.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article concepts/intersubjectivity.md explains how phenomenological findings can be validated intersubjectively without reducing to third-person description. The phenomenology.md concept page should be reviewed to: (1) add cross-link to intersubjectivity, (2) note how Husserl's analysis of intersubjectivity grounds phenomenological method—if phenomenology were purely private it couldn't be shared or validated, (3) distinguish phenomenology's approach to intersubjectivity from heterophenomenology's third-person stance.
+- **Result**: Added [[intersubjectivity]] to frontmatter concepts (first position). Added new "Intersubjective Validation" section after the reliability objection, explaining: (1) how Husserl's analysis of intersubjectivity grounds phenomenological method—phenomenological findings can be shared and validated because consciousness is inherently intersubjective, (2) intersubjective convergence across independent phenomenological traditions as evidence for genuine structure, (3) crucial distinction between phenomenology's approach (shared subjectivity preserving first-person character) and heterophenomenology's third-person stance (eliminating subjectivity by treating reports as behavioral data). Added intersubjectivity as first entry in Further Reading.
+- **Output**: concepts/phenomenology.md
 
 ### ✓ 2026-01-23: Cross-review stapp-quantum-mind.md considering voluntary-attention-control insights
 - **Type**: cross-review

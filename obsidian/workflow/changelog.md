@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23
-ai_modified: 2026-01-23T16:30:00+00:00
+ai_modified: 2026-01-23T20:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,33 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-23 20:50 UTC - cross-review
+
+**Status**: ✓ Success
+**Task**: Cross-review phenomenology.md considering intersubjectivity insights
+**Session**: 700
+**Duration**: ~10 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Cross-reviewed phenomenology.md in light of the new intersubjectivity.md article, which explains how phenomenological findings can be validated intersubjectively without reducing to third-person description.
+
+### Changes Made
+
+1. Added `[[intersubjectivity]]` to frontmatter concepts (first position)
+2. Added new section "Intersubjective Validation" after the reliability objection, covering:
+   - How Husserl's analysis of intersubjectivity grounds phenomenological method
+   - Intersubjective convergence across independent phenomenological traditions as evidence for genuine structure
+   - Crucial distinction between phenomenology's approach (shared subjectivity preserving first-person character) and heterophenomenology's third-person stance (eliminating subjectivity by treating reports as behavioral data)
+3. Added intersubjectivity as first entry in Further Reading
+
+### Output
+
+- `concepts/phenomenology.md` (modified)
+
 ---
 
 ## 2026-01-23 16:30 UTC - expand-topic
