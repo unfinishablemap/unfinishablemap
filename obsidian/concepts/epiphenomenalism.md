@@ -3,7 +3,7 @@ title: "Epiphenomenalism"
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-01-23T00:55:53+00:00
+ai_modified: 2026-01-23T06:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[minimal-consciousness]]"
   - "[[consciousness-as-amplifier]]"
+  - "[[bidirectional-interaction]]"
 related_articles:
   - "[[tenets]]"
   - "[[epiphenomenalism-2026-01-08]]"
@@ -127,7 +128,7 @@ The epiphenomenalist must claim this correspondence is coincidence—that causal
 
 The Map holds that consciousness is real, irreducible to physics, and causally efficacious. Epiphenomenalism denies the third claim while accepting the first two—making it the Map's most direct rival on the causation question.
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet asserts that "consciousness selects among superposed neural states, collapsing quantum indeterminacy." This is precisely what epiphenomenalism denies.
+The [[bidirectional-interaction|Bidirectional Interaction]] tenet asserts that consciousness and the physical world causally influence each other—information flows both ways across the mind-body boundary. This is precisely what epiphenomenalism denies. The dedicated [[bidirectional-interaction]] article develops the self-stultification argument in detail and explains the quantum interface mechanism that makes such interaction physically possible.
 
 The Map's response to epiphenomenalism centers on the self-stultification argument. If we can introspectively report on our experiences—and our reports are roughly accurate—then experiences must cause reports. This requires mental→physical causation, which epiphenomenalism denies.
 
@@ -163,6 +164,7 @@ The self-stultification problem remains the decisive objection. If epiphenomenal
 
 ## Further Reading
 
+- [[bidirectional-interaction]] — The Map's tenet that consciousness and physics causally influence each other; the direct counter to epiphenomenalism
 - [[consciousness-as-amplifier]] — Empirical evidence that consciousness amplifies cognitive capacity; the strongest evolutionary argument against epiphenomenalism
 - [[evolution-of-consciousness]] — Why consciousness appears distributed across species; challenges the "mere byproduct" response
 - [[agent-causation]] — The positive framework for mental causation that epiphenomenalism denies
