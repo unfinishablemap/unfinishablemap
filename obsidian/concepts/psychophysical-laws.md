@@ -3,12 +3,13 @@ title: "Psychophysical Laws"
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T14:30:00+00:00
+ai_modified: 2026-01-23T14:56:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[psychophysical-coupling-law]]"
+  - "[[psychophysical-coupling-mechanisms]]"
   - "[[interactionist-dualism]]"
   - "[[mental-causation]]"
   - "[[integrated-information-theory]]"
@@ -149,6 +150,8 @@ The Map's argument against epiphenomenalism: if consciousness were causally iner
 
 Chalmers leaves the mechanism abstract. The Map (following Stapp) specifies attention as the mental variable and quantum Zeno maintenance as the mechanism. Conscious attention holds desired neural patterns actual through repeated observation—not by injecting energy, but by affecting which quantum possibilities become actual.
 
+This page discusses psychophysical laws at the level of *form*—what such laws must accomplish, what constraints they must satisfy. The companion article [[psychophysical-coupling-mechanisms]] addresses *implementation*—five specific proposals for which phenomenal properties map to which physical parameters through what pathways. The two articles are complementary: this page explains why psychophysical laws are needed and what structure they must have; the mechanisms page evaluates concrete proposals meeting (or failing to meet) those structural requirements.
+
 ### Rejection of Organizational Invariance
 
 The Map doesn't accept that functional organization alone determines experience. Substrate matters—not because silicon can't be conscious, but because the particular physical instantiation may affect phenomenal character in ways that functional description misses. The Map's rejection of functionalism creates this divergence.
@@ -239,7 +242,8 @@ The framework of psychophysical laws would face serious difficulty if:
 
 ## Further Reading
 
-- [[psychophysical-coupling-law]] — the Map's specific coupling law problem
+- [[psychophysical-coupling-mechanisms]] — Specific mechanism proposals (attention→observation, intention→probability, valence→motivation, qualia→basis, unity→entanglement)
+- [[psychophysical-coupling-law]] — The Map's specific coupling law problem
 - [[interactionist-dualism]] — The framework requiring bidirectional laws
 - [[mental-causation]] — How consciousness causes physical effects
 - [[quantum-consciousness]] — Specific quantum mechanisms
