@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 10:05:00+00:00
+ai_modified: 2026-01-23 17:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,11 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from conservation-laws-and-mind.md)
 - **Generated**: 2026-01-23
 
-### P2: Deep review quantum-consciousness.md
-- **Type**: deep-review
-- **Notes**: Core concept article (ai_contribution: 100) heavily referenced in tenets page and throughout the Map but has NEVER been deep-reviewed. Given recent work on spontaneous collapse theories, decoherence objection, and Stapp quantum mind, quantum-consciousness.md should be reviewed for accuracy, comprehensiveness, and proper cross-linking.
-- **Source**: staleness
-- **Generated**: 2026-01-23
 
 ### P2: Research mental imagery and consciousness causal role
 - **Type**: research-topic
@@ -56,7 +51,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
-### P3: Write article on meditation observer phenomenon
+### P2: Write article on meditation observer phenomenon
 - **Type**: expand-topic
 - **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. Systematic treatment of the observer/witness phenomenon reported in contemplative traditions. How does the "observing self" relate to witness-consciousness, introspection, and metacognition? Provides phenomenological grounding for dualist distinction between observer and observed. Supports Dualism tenet.
 - **Source**: unconsumed_research
@@ -94,6 +89,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review retrocausality.md considering presentiment research
+- **Type**: cross-review
+- **Notes**: New research research/retrocausal-neural-firing-presentiment-2026-01-23.md covers the parapsychological "presentiment" literature (Mossbridge meta-analyses, PAA phenomenon)—distinct from the physics-based retrocausality already covered in retrocausality.md. The retrocausality article should be reviewed to: (1) add section on empirical presentiment evidence, (2) note its contested status vs physics-based retrocausality, (3) integrate the distinction between parapsychological PAA and quantum physics retrocausality.
+- **Result**: Added new section "Presentiment Research: A Distinct Evidential Tradition" covering: (1) the PAA claim and meta-analysis evidence (Mossbridge, Duggan & Tressoldi), (2) skeptical critique (Wagenmakers, Galak, Ritchie), (3) why the Map distinguishes physics-based retrocausality from parapsychological evidence—independence of evidential traditions and different types of causation (conscious selection vs unconscious anticipation). Added research note to related_articles frontmatter. Added presentiment references to References section.
+- **Output**: concepts/retrocausality.md
+
+### ✓ 2026-01-23: Deep review quantum-consciousness.md
+- **Type**: deep-review
+- **Notes**: Core concept article (ai_contribution: 100) heavily referenced in tenets page and throughout the Map but has NEVER been deep-reviewed. Given recent work on spontaneous collapse theories, decoherence objection, and Stapp quantum mind, quantum-consciousness.md should be reviewed for accuracy, comprehensiveness, and proper cross-linking.
+- **Result**: Comprehensive deep review addressing 1 critical issue (weak falsification conditions) and 4 medium issues (one-sided Tegmark-Hameroff presentation, brief MWI dismissal, rhetorical illusionism response, missing mysterianism connection). Strengthened all five falsification conditions with specific measurable predictions. Rebalanced Tegmark-Hameroff debate to acknowledge ongoing scientific uncertainty. Added engagement with MWI's strongest defenses before explaining rejection. Replaced rhetorical illusionism dismissal with structural regress argument. Added mysterianism-cognitive-closure cross-link.
+- **Output**: reviews/deep-review-2026-01-23-quantum-consciousness.md
 
 ### ✓ 2026-01-23: Research retrocausal neural firing evidence
 - **Type**: research-topic

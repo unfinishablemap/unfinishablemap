@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23
-ai_modified: 2026-01-23T10:13:00+00:00
+ai_modified: 2026-01-23T17:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -16,6 +16,28 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
 ---
+
+## 2026-01-23 17:20 UTC - cross-review
+
+**Status**: ✓ Success
+**Task**: Cross-review retrocausality.md considering presentiment research
+**Output**: concepts/retrocausality.md
+**Session**: 672
+**Priority**: P2 (chain from research-topic, score: 220)
+**Duration**: ~5 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+Cross-review adding new section "Presentiment Research: A Distinct Evidential Tradition" to distinguish physics-based retrocausality from contested parapsychological presentiment/PAA research.
+
+**Changes made:**
+1. Added section explaining PAA claims (Mossbridge meta-analyses, effect size ~0.21-0.28)
+2. Added skeptical critique (Wagenmakers Bayesian reanalysis, Galak replication failures, unfalsifiability concerns)
+3. Clarified why the Map distinguishes physics-based retrocausality from parapsychological evidence
+4. Added research note to related_articles frontmatter
+5. Added references for presentiment literature
+
+**Key insight**: The Map's support for retrocausality comes from physics (Wheeler, Cramer, transactional interpretation), not parapsychology. Even if PAA is real, it concerns unconscious physiological anticipation, not conscious selection per the Bidirectional Interaction tenet.
 
 ## 2026-01-23 10:13 UTC - deep-review
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-21 01:00:00+00:00
+ai_modified: 2026-01-23 17:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,6 +28,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[libet-experiments-free-will-2026-01-07]]'
+- '[[retrocausal-neural-firing-presentiment-2026-01-23]]'
 title: Retrocausality
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -213,6 +214,42 @@ On this view, retrocausality doesn't require eternalism in the strong sense. Wha
 
 This preserves the key insight: the future is genuinely open (not already existing), yet retrocausal physics can operate because superposed possibilities extend forward. Collapse—including consciousness-mediated selection—determines which possibilities resolve into the single actual history.
 
+## Presentiment Research: A Distinct Evidential Tradition
+
+Separate from physics-based retrocausality, a contested body of parapsychological research claims empirical evidence for "presentiment" or "predictive anticipatory activity" (PAA)—physiological responses that allegedly precede randomly selected future stimuli.
+
+### The PAA Claim
+
+Presentiment research uses electrodermal activity, heart rate, fMRI, and EEG to test whether the body "anticipates" randomly determined future events. Meta-analyses by Mossbridge et al. (2012, 2014) and Duggan & Tressoldi (2018) report small but statistically significant effects (effect size ~0.21-0.28). Proponents argue: higher quality studies show larger effects, pre-registered studies replicate, and publication bias analysis finds the results robust.
+
+The effect, if real, would constitute direct empirical evidence for retrocausation in biological systems—not merely theoretical support from physics.
+
+### The Critique
+
+Skeptics (Wagenmakers et al. 2011; Galak et al. 2012; Ritchie et al. 2012) raise serious objections:
+
+- **Replication failures**: Large-scale replications by skeptical researchers found effect sizes near zero
+- **Bayesian reanalysis**: When appropriate priors are used, evidence appears weak to nonexistent
+- **Expectation bias**: Random stimulus sequences may create learned anticipatory patterns
+- **The experimenter effect problem**: If failures are attributed to skeptic influence, the claim becomes unfalsifiable
+- **Biological implausibility**: No mechanism connects quantum retrocausality to macroscopic physiological responses
+
+The debate illustrates a genuine scientific controversy where proponents and skeptics interpret the same literature differently.
+
+### Why the Map Distinguishes These Traditions
+
+The Map's support for retrocausality comes from physics, not parapsychology. The transactional interpretation, Wheeler's delayed-choice experiments, and time-symmetric quantum mechanics provide theoretical grounding independent of whether PAA effects are real.
+
+This matters for two reasons:
+
+1. **Independence**: Physics-based retrocausality could be correct while PAA is artifact (or vice versa). Conflating them ties the Map's commitments to the weakest evidence.
+
+2. **Type of causation**: Even if PAA is genuine, it concerns *unconscious* physiological anticipation—the body responding before stimuli. The Map's framework concerns *conscious* selection of quantum outcomes. These are different claims. Unconscious precognition doesn't establish that consciousness selects—it might even suggest the relevant processes are subconscious.
+
+The Map therefore acknowledges presentiment research as a contested auxiliary line of evidence while grounding its retrocausality commitments in physics. If PAA were conclusively established, it would provide additional support. If conclusively refuted, it would leave the physics-based framework untouched.
+
+This is not dismissal—it's appropriate epistemic caution about a controversial literature while maintaining well-founded theoretical commitments.
+
 ## What Would Challenge This View?
 
 The retrocausality hypothesis would face serious challenge if:
@@ -267,12 +304,17 @@ The Libet experiments don't refute conscious causation; they reveal that conscio
 ## References
 
 - Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
-- Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
-- Wheeler, J. A. (1978). The "past" and the "delayed-choice" double-slit experiment. In *Mathematical Foundations of Quantum Theory* (pp. 9-48). Academic Press.
-- Libet, B. et al. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623-642.
+- Duggan, M., & Tressoldi, P. (2018). Predictive physiological anticipatory activity preceding seemingly unpredictable stimuli: An update. *F1000Research*, 7, 407.
+- Galak, J., LeBoeuf, R. A., Nelson, L. D., & Simmons, J. P. (2012). Correcting the past: Failures to replicate psi. *Journal of Personality and Social Psychology*, 103(6), 933-948.
+- Kastner, R. E. (2013). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 - Leifer, M. S., & Spekkens, R. W. (2013). Towards a formulation of quantum theory as a causally neutral theory of Bayesian inference. *Physical Review A*, 88(5), 052130.
+- Libet, B. et al. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623-642.
+- Mossbridge, J., Tressoldi, P., & Utts, J. (2012). Predictive physiological anticipation preceding seemingly unpredictable stimuli: A meta-analysis. *Frontiers in Psychology*, 3, 390.
+- Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
+- Ritchie, S. J., Wiseman, R., & French, C. C. (2012). Failing the future: Three unsuccessful attempts to replicate Bem's 'retroactive facilitation of recall' effect. *PLoS ONE*, 7(3), e33423.
 - Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 - Sjöberg, R. L. (2024). SMA lesions and voluntary action. *Journal of Cognitive Neuroscience*.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-- Kastner, R. E. (2013). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
+- Wagenmakers, E.-J., Wetzels, R., Borsboom, D., & van der Maas, H. L. J. (2011). Why psychologists must change the way they analyze their data. *Journal of Personality and Social Psychology*, 100(3), 426-432.
+- Wheeler, J. A. (1978). The "past" and the "delayed-choice" double-slit experiment. In *Mathematical Foundations of Quantum Theory* (pp. 9-48). Academic Press.
 - Wharton, K. (2015). The universe is not a computer. In *Questioning the Foundations of Physics* (pp. 177-190). Springer.
+- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

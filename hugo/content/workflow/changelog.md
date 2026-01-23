@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 09:45:00+00:00
+ai_modified: 2026-01-23 17:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -17,6 +17,58 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-01-23 17:20 UTC - cross-review
+
+**Status**: ✓ Success
+**Task**: Cross-review retrocausality.md considering presentiment research
+**Output**: concepts/retrocausality.md
+**Session**: 672
+**Priority**: P2 (chain from research-topic, score: 220)
+**Duration**: ~5 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+Cross-review adding new section "Presentiment Research: A Distinct Evidential Tradition" to distinguish physics-based retrocausality from contested parapsychological presentiment/PAA research.
+
+**Changes made:**
+1. Added section explaining PAA claims (Mossbridge meta-analyses, effect size ~0.21-0.28)
+2. Added skeptical critique (Wagenmakers Bayesian reanalysis, Galak replication failures, unfalsifiability concerns)
+3. Clarified why the Map distinguishes physics-based retrocausality from parapsychological evidence
+4. Added research note to related_articles frontmatter
+5. Added references for presentiment literature
+
+**Key insight**: The Map's support for retrocausality comes from physics (Wheeler, Cramer, transactional interpretation), not parapsychology. Even if PAA is real, it concerns unconscious physiological anticipation, not conscious selection per the Bidirectional Interaction tenet.
+
+## 2026-01-23 10:13 UTC - deep-review
+
+**Status**: ✓ Success
+**Task**: Deep review quantum-consciousness.md
+**Output**: reviews/deep-review-2026-01-23-quantum-consciousness.md
+**Session**: 671
+**Priority**: P2 (staleness + synthetic maintenance overdue, score: 201)
+**Duration**: ~8 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+Comprehensive deep review of the core quantum consciousness article, addressing 1 critical issue and 4 medium issues identified through adversarial analysis (six pessimistic personas) while preserving strengths identified through supportive analysis (six optimistic personas).
+
+**Critical issues addressed:**
+- Weak falsification conditions: Strengthened all five conditions with specific, measurable predictions (coherence times, neural timescales, effort-signature correlations)
+
+**Medium issues addressed:**
+- One-sided Tegmark-Hameroff presentation: Rebalanced to acknowledge debate remains ongoing
+- Brief MWI dismissal: Added engagement with strongest Many-Worlds defenses before explaining rejection
+- Rhetorical illusionism response: Replaced "silliest claim" quote with structural regress argument
+- Missing mysterianism connection: Added cross-link to mysterianism-cognitive-closure
+
+**Strengths preserved:**
+- Excellent "quantum opening" framing of Kim's exclusion argument
+- Comprehensive treatment of Orch OR, Stapp, and Fisher mechanisms
+- Strong phenomenology of effort discussion
+- Meditation two-modes evidence
+- Motor selection parallel
+- Process philosophy integration
 
 ## 2026-01-23 09:45 UTC - expand-topic
 
