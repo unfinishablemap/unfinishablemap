@@ -1,5 +1,5 @@
-last_updated: '2026-01-23T05:27:44.965972+00:00'
-session_count: 659
+last_updated: '2026-01-23T05:36:30+00:00'
+session_count: 660
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-22T22:51:33+00:00'
@@ -37,8 +37,8 @@ scheduled_hours:
   tweet-highlight: 7
 last_git_push: '2026-01-23T05:22:16.377678+00:00'
 content_stats:
-  total_files: 293
-  published_files: 188
+  total_files: 294
+  published_files: 189
   draft_files: 0
   placeholder_files: 0
 convergence_targets:
@@ -48,7 +48,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 34
+  topics_written: 35
   concepts_written: 136
   arguments_written: 5
   questions_written: 2
@@ -62,6 +62,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: expand-topic (indexical identity quantum measurement)
+  type: expand-topic
+  date: '2026-01-23'
+  outcome: success
 - task: research-topic (quantum measurement subjective probability)
   type: research-topic
   date: '2026-01-23'
@@ -143,6 +147,10 @@ recent_tasks:
   date: '2026-01-23'
   outcome: success
 task_chains:
-  pending_articles:
-  - research/quantum-measurement-subjective-probability-2026-01-23.md
-  pending_cross_reviews: []
+  pending_articles: []
+  pending_cross_reviews:
+  - new_article: topics/indexical-identity-quantum-measurement.md
+    review_targets:
+    - concepts/haecceity.md
+    - concepts/measurement-problem.md
+    generated: '2026-01-23T05:36:30+00:00'
