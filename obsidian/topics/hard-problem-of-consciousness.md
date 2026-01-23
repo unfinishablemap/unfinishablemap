@@ -1,9 +1,9 @@
 ---
 title: "The Hard Problem of Consciousness"
 created: 2026-01-06
-modified: 2026-01-18
+modified: 2026-01-23
 human_modified:
-ai_modified: 2026-01-22T03:10:00+00:00
+ai_modified: 2026-01-23T00:24:16+00:00
 draft: false
 topics: []
 concepts:
@@ -47,6 +47,7 @@ concepts:
   - "[[working-memory]]"
 related_articles:
   - "[[tenets]]"
+  - "[[mysterianism-cognitive-closure]]"
   - "[[materialism]]"
   - "[[integrated-information-theory]]"
   - "[[quantum-consciousness]]"
@@ -394,17 +395,19 @@ See [[combination-problem]] for detailed treatment of the subject-summing, palet
 
 ### Mysterianism
 
-[[mysterianism|Mysterianism]] proposes that the hard problem may be permanently beyond human understanding—not because consciousness is supernatural but because our cognitive architecture lacks the resources to grasp how mind relates to matter. Colin McGinn developed this position through the concept of *cognitive closure*: just as rats cannot do calculus and dogs cannot understand quantum mechanics, humans may be constitutionally unable to understand consciousness.
+[[mysterianism-cognitive-closure|Mysterianism]] proposes that the hard problem may be permanently beyond human understanding—not because consciousness is supernatural but because our cognitive architecture lacks the resources to grasp how mind relates to matter. Colin McGinn developed this position through the concept of *cognitive closure*: just as rats cannot do calculus and dogs cannot understand quantum mechanics, humans may be constitutionally unable to understand consciousness.
 
-McGinn proposes we are closed to property "P"—whatever property of the brain explains how neural activity gives rise to experience. We access consciousness through introspection and brain through perception, but neither mode of access reveals the connection. The solution might be natural, even simple—but forever beyond beings like us.
+McGinn's **Transcendental Naturalism** position is subtle: consciousness is fully natural, the solution is real and exists somewhere in physical reality, yet our concept-forming faculties cannot grasp it. We access consciousness through introspection and brain through perception, but neither mode of access reveals property "P"—the linking principle between them. The solution might be natural, even simple—but forever beyond beings like us.
 
-This is not mysticism or defeatism. McGinn holds that consciousness is a natural phenomenon with a natural explanation. The explanation exists. Other minds—alien intelligences, artificial systems with different architectures—might access it. But human cognition evolved for survival, not metaphysics, and some conceptual territories may be permanently excluded.
+The **squirrel analogy** from [[mysterianism-cognitive-closure]] makes this vivid: place a squirrel in a physics library for a thousand years. It would never solve the Schrödinger equation—not because the equation is supernatural or because squirrels lack diligence, but because squirrel minds lack the cognitive modules for mathematical physics. Humans may be squirrels relative to consciousness. All our sophisticated language, science, and philosophy may be as inadequate for grasping consciousness as squirrel cognition is for quantum field theory.
 
-Thomas Nagel anticipated this in "What Is It Like to Be a Bat?"—objective scientific methods cannot capture subjective experience without loss. Noam Chomsky reinforced it with his distinction between "problems" (difficulties within our cognitive reach) and "mysteries" (questions that lie beyond it). The hard problem's persistence despite centuries of effort suggests it may be mystery rather than problem.
+This is not mysticism or defeatism. McGinn holds that consciousness is a natural phenomenon with a natural explanation. The explanation exists. Other minds—alien intelligences with different cognitive architectures—might access it. But human cognition evolved for survival and reproduction, not metaphysics, and some conceptual territories may be permanently excluded.
 
-The mysterian position aligns with the Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. Our sense of which explanations are "simple" may reflect cognitive limitations rather than ontological facts. When physicalism seems simpler than dualism, that may mean only that we're closed to the complexity involved.
+Thomas Nagel anticipated this in "What Is It Like to Be a Bat?"—objective scientific methods cannot capture subjective experience without loss. Noam Chomsky reinforced it with his distinction between "problems" (difficulties within our cognitive reach) and "mysteries" (questions that lie beyond it). The hard problem's persistence despite centuries of effort—despite the complete neural connectome of C. elegans, despite sophisticated theories like IIT and GNWT, despite advances in quantum biology—suggests it may be mystery rather than problem.
 
-See [[mysterianism]] for detailed treatment of cognitive closure, the problems-versus-mysteries distinction, and how mysterianism relates to the Map's framework.
+The mysterian position strongly supports the Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. Our sense of which explanations are "simple" may reflect cognitive limitations rather than ontological facts. When physicalism seems simpler than dualism, that may mean only that we're cognitively closed to the complexity involved. The apparent simplicity may be a feature of our conceptual architecture, not a guide to truth. As [[mysterianism-cognitive-closure]] emphasizes, the squirrel cannot recognize what conceptual tools it's missing—we may be in the same position.
+
+See [[mysterianism-cognitive-closure]] for detailed treatment of McGinn's cognitive closure thesis, temporary vs permanent mysterianism, the problems-versus-mysteries distinction, and how this connects to the [[voids]] framework—property "P" as unchartable territory whose edges we can map apophatically.
 
 ### Introspective Limits and Cognitive Slippage
 
@@ -506,7 +509,7 @@ Whether this specific proposal is correct matters less than the underlying point
 - [[integrated-information-theory]] — A mathematical theory identifying consciousness with integrated information
 - [[russellian-monism]] — The view that quiddities (intrinsic natures) ground consciousness
 - [[quantum-consciousness]] — How quantum mechanics might relate to consciousness
-- [[mysterianism]] — The view that consciousness may exceed human cognitive capacities
+- [[mysterianism-cognitive-closure]] — McGinn's cognitive closure thesis: humans may be constitutionally incapable of solving the hard problem
 - [[apophatic-approaches]] — Methods for approaching what may exceed human understanding
 - [[buddhism-and-dualism]] — Buddhist philosophy's challenge to the witness
 - [[tenets]] — The foundational commitments of the Map
