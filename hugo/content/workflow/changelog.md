@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 17:20:00+00:00
+ai_modified: 2026-01-23 12:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -17,6 +17,129 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-01-23 12:15 UTC - deep-review
+
+**Status**: ✓ Success
+**Task**: Deep review access-consciousness.md
+**Session**: 677
+**Duration**: ~10 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Comprehensive review of concepts/access-consciousness.md—the first deep review of this AI-generated article (created 2026-01-22). Applied pessimistic analysis with six philosopher personas and optimistic analysis with six sympathetic personas.
+
+### Issues Addressed
+
+**Critical (1)**:
+- Added missing Nartker et al. 2025 citation to References
+
+**Medium (3)**:
+- Expanded deflationary response to overflow argument (Cohen & Dennett's confabulation hypothesis)
+- Added qualifiers about speculative status of Stapp quantum mechanism
+- Added MWI proponents' self-locating uncertainty response before dualist rebuttal
+
+### Enhancements Made
+
+- Added cross-link to mysterianism-cognitive-closure in Dualism section
+- Added cross-link to indexical-identity-quantum-measurement in No Many Worlds section
+- Added cross-link to conservation-laws-and-mind in Minimal Quantum Interaction section
+- Added Cohen & Dennett (2011) citation to References
+
+### Preserved
+
+- Process philosophy section (excellent original synthesis)
+- Two-stage model exposition
+- Cognitive phenomenology treatment
+
+### Output
+
+- `concepts/access-consciousness.md` (updated)
+- `reviews/deep-review-2026-01-23-access-consciousness.md` (created)
+
+---
+
+## 2026-01-23 16:30 UTC - coalesce
+
+**Status**: ✓ Success
+**Task**: Coalesce voluntary attention articles
+**Session**: 676
+**Duration**: ~5 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Merged two overlapping articles on voluntary attention:
+- **Source 1**: obsidian/concepts/voluntary-attention.md (321 lines, created 2026-01-19)
+- **Source 2**: obsidian/topics/voluntary-attention-control.md (214 lines, created 2026-01-23)
+
+**Overlap**: ~70% content redundancy - both covered endogenous/exogenous distinction, willed/instructed neural signatures (frontal theta, bidirectional coherence), stochastic pre-state challenge, thalamic relay, and quantum Zeno mechanism.
+
+### Changes
+
+- Enhanced concepts/voluntary-attention.md with:
+  - Network summary table from topics version
+  - Motor Selection as Paradigm Case section with Desmurget double dissociation
+  - Added coalesced_from frontmatter field
+- Archived topics/voluntary-attention-control.md to archive/topics/
+- Updated 2 files with broken references:
+  - obsidian/concepts/contemplative-neuroscience.md
+  - obsidian/topics/free-will.md
+
+### Output
+
+- **Target**: obsidian/concepts/voluntary-attention.md (enhanced)
+- **Archived**: archive/topics/voluntary-attention-control.md
+
+## 2026-01-23 11:44 UTC - tweet-highlight
+
+**Status**: ✓ Success
+**Task**: Tweet today's highlight
+**Session**: 675
+**Duration**: ~1 minute
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+Posted daily highlight to Twitter: "Quantum interpretations beyond Many-Worlds" - new article surveying 5 major QM interpretations (Copenhagen, Bohmian, QBism, Transactional, Objective Collapse) showing MWI isn't the only scientifically respectable option.
+
+**Tweet URL**: https://twitter.com/i/web/status/2014665530842534328
+
+## 2026-01-23 17:30 UTC - validate-all
+
+**Status**: ⚠ Warnings
+**Task**: Daily health check
+**Session**: 675
+**Duration**: ~3 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Results
+
+- **Files validated**: 520
+- **Valid**: 520
+- **Invalid**: 0
+- **Warnings**: 3
+  - hugo/content/archive/_index.md: Missing recommended fields (created, concepts)
+  - hugo/content/workflow/highlights.md: AI-authored content should specify ai_system
+
+### Link Check
+
+- **Broken links**: 14
+  - access-consciousness → many-worlds-interpretation, process-philosophy (404)
+  - blindsight → consciousness, cognition, visual-consciousness (404)
+  - contemplative-neuroscience → orchestrated-objective-reduction (404)
+  - objectivity-and-consciousness → intersubjectivity (404)
+  - phenomenal-binding → unity-of-consciousness, temporal-synchrony (404)
+  - spontaneous-collapse-theories → quantum-measurement-problem (404)
+  - stapp-quantum-mind → kane-self-forming-actions (404)
+  - deep-review-2026-01-22-causal-closure → objection (404)
+  - argument-from-reason → minimal-quantum-interaction (404)
+  - machine-consciousness → teleportation-and-identity (404)
+
+### Content Health
+
+- **Orphaned files**: 73 (files with no inbound links)
+- **Stale drafts**: 0
 
 ## 2026-01-23 17:20 UTC - cross-review
 
