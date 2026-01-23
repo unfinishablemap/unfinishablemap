@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T23:10:00+00:00
+ai_modified: 2026-01-23T16:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,10 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Create concept page for intersubjectivity
-- **Type**: expand-topic
-- **Notes**: Gap analysis. Concept "intersubjectivity" is referenced across methodology discussions but has no definition page. Intersubjectivity concerns the shared space between minds—how first-person experiences can be communicated and validated intersubjectively. Relevant to second-person methodology, phenomenological validation, problem of other minds. Supports Dualism tenet by exploring how subjective experience can be intersubjectively accessed without reducing it to third-person terms. Connects to first-person-third-person-methodology.md, problem-of-other-minds.md, heterophenomenology.md.
-- **Source**: gap_analysis
+### P2: Cross-review objectivity-and-consciousness.md considering intersubjectivity article
+- **Type**: cross-review
+- **Notes**: New article concepts/intersubjectivity.md defines the shared space between minds and how phenomenology can be validated intersubjectively. The objectivity-and-consciousness.md concept page references [[intersubjectivity]] in its Further Reading but the link was broken. Should be reviewed to: (1) verify link now works, (2) integrate distinction between objectivity (view from nowhere) and intersubjectivity (shared subjectivity), (3) note that objectivity may emerge from intersubjective agreement.
+- **Source**: chain (from intersubjectivity.md)
+- **Generated**: 2026-01-23
+
+### P2: Cross-review first-person-third-person-methodology.md considering intersubjectivity article
+- **Type**: cross-review
+- **Notes**: New article concepts/intersubjectivity.md provides grounding for second-person methodology discussion. The first-person-third-person-methodology.md topic page discusses empathic intersubjectivity but doesn't link to a dedicated article. Should be reviewed to: (1) add cross-link to intersubjectivity, (2) note how intersubjectivity bridges first-person and third-person perspectives, (3) integrate Husserl's constitution of intersubjectivity as theoretical foundation for second-person methods.
+- **Source**: chain (from intersubjectivity.md)
 - **Generated**: 2026-01-23
 
 ### P2: Cross-review attention.md considering voluntary-attention-control insights
@@ -93,6 +99,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Create concept page for intersubjectivity
+- **Type**: expand-topic
+- **Notes**: Gap analysis. Concept "intersubjectivity" is referenced across methodology discussions but has no definition page. Intersubjectivity concerns the shared space between minds—how first-person experiences can be communicated and validated intersubjectively. Relevant to second-person methodology, phenomenological validation, problem of other minds. Supports Dualism tenet by exploring how subjective experience can be intersubjectively accessed without reducing it to third-person terms. Connects to first-person-third-person-methodology.md, problem-of-other-minds.md, heterophenomenology.md.
+- **Result**: Created comprehensive concept article (~1,800 words) covering: (1) distinction between intersubjectivity and objectivity—intersubjectivity retains viewpoint while discovering convergence across perspectives, (2) Husserl's constitution of intersubjectivity through appresentation and the emergence of objective world from intersubjective convergence, (3) second-person methodology operationalizing intersubjectivity through empathic encounter, (4) contemplative evidence from meditator convergence on phenomenological distinctions with neural corroboration, (5) the discourse argument—cross-cultural vocabulary for consciousness as intersubjective evidence, (6) limits of intersubjectivity (linguistic mediation, experiential diversity, training differences). Strong alignment with Dualism, Bidirectional Interaction, and Occam's Razor Has Limits tenets.
+- **Output**: concepts/intersubjectivity.md
 
 ### ✓ 2026-01-23: Cross-review quantum-interpretations.md considering subjective probability article
 - **Type**: cross-review
