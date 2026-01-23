@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T18:15:00+00:00
+ai_modified: 2026-01-23T10:05:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P1: Research retrocausal neural firing evidence
-- **Type**: research-topic
-- **Notes**: Investigate whether neural firings have been recorded before stimulus (e.g., viewing a picture) is applied—potential evidence of retrocausality in brain activity. Key questions: (1) What experiments have tested for pre-stimulus neural activity? (2) Are there any published findings suggesting anticipatory neural responses? (3) Would such results likely be published if observed, or would publication bias suppress them? Connects to topics on consciousness and quantum mechanics, bidirectional interaction, and the arrow of time. Could support or challenge tenet alignment depending on findings.
-- **Source**: human
-- **Generated**: 2026-01-23
 
 ### P2: Cross-review objections-to-interactionism.md considering conservation laws article
 - **Type**: cross-review
@@ -99,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Research retrocausal neural firing evidence
+- **Type**: research-topic
+- **Notes**: Investigate whether neural firings have been recorded before stimulus (e.g., viewing a picture) is applied—potential evidence of retrocausality in brain activity. Key questions: (1) What experiments have tested for pre-stimulus neural activity? (2) Are there any published findings suggesting anticipatory neural responses? (3) Would such results likely be published if observed, or would publication bias suppress them? Connects to topics on consciousness and quantum mechanics, bidirectional interaction, and the arrow of time. Could support or challenge tenet alignment depending on findings.
+- **Result**: Comprehensive research on the "presentiment" or "predictive anticipatory activity" (PAA) literature—distinct from theoretical physics-based retrocausality already covered in the Map. Found contested evidence: meta-analyses (Mossbridge 2012, 2014; Duggan 2018) show small but significant effect size (ES ~0.21-0.28) across electrodermal, cardiac, and neural measures. However, high-profile replications failed (Galak 2012, Ritchie 2012), and Bayesian reanalysis (Wagenmakers 2011) found weak evidence. Key debates: expectation bias from stimulus sequences, statistical methodology (frequentist vs Bayesian), "psi experimenter effect" making claims unfalsifiable. Critical finding: no direct single-neuron recordings before random stimuli exist—all PAA uses peripheral physiology or aggregate neural measures. Recommended approach: distinguish physics-based retrocausality (which grounds Map's tenets) from parapsychological PAA (contested auxiliary evidence).
+- **Output**: research/retrocausal-neural-firing-presentiment-2026-01-23.md
 
 ### ✓ 2026-01-23: Cross-review interactionist-dualism.md considering conservation laws article
 - **Type**: cross-review
