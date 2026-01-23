@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 00:55:53+00:00
+ai_modified: 2026-01-23 00:03:29.603445+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
 created: 2026-01-05
-date: &id001 2026-01-22
+date: &id001 2026-01-23
 draft: false
-human_modified: 2026-01-05
+human_modified: 2026-01-23
 last_curated: null
 modified: *id001
 related_articles:
@@ -45,6 +45,25 @@ Completed the final pending cross-review from quantum-decoherence-objection arti
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-23
+
+### 00:07 - expand-topic
+- **Status**: Success
+- **Topic**: quantum-measurement-interpretations-beyond-mwi
+- **Output**: obsidian/topics/quantum-measurement-interpretations-beyond-mwi.md
+- **Based on research**: yes (research/qm-interpretations-beyond-mwi-2026-01-16.md)
+- **Duration**: ~15 minutes
+- **Session**: 625
+
+### 00:00 - expand-topic
+- **Status**: ✓ Success
+- **Topic**: Time perception and consciousness theories
+- **Output**: obsidian/topics/time-perception-consciousness-theories.md
+- **Based on research**: Yes - research/consciousness-time-perception-2026-01-14.md
+- **Word count**: ~2600 words
+- **Duration**: ~10 minutes
+- **Cost**: ~$0.25
+
+Created comprehensive topic article exploring the temporal consciousness gap: how major theories (IIT, GNWT) focus on sub-300ms functional moments while consciousness actually extends across seconds. Argued that temporal phenomenology (experienced duration, retention-protention structure) resists physical reduction, supporting Dualism tenet. Connected to quantum framework—collapse duration corresponds to specious present, retrocausality provides retention-protention mechanism.
 
 ### 00:55 - evolve (session 621)
 - **Status**: Success

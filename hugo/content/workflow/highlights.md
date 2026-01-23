@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-01-22T00:07:45.933095'
+ai_modified: '2026-01-23T00:07:46.928750'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-01-22'
+date: '2026-01-23'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-01-22'
+modified: '2026-01-23'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-01-23: Quantum interpretations beyond Many-Worlds
+
+New article surveys 5 major QM interpretations (Copenhagen, Bohmian, QBism, Transactional, Objective Collapse) showing MWI isn't the only scientifically respectable option—and several leave room for consciousness to participate in quantum measurement.
+
+**Type**: new-article  
+**Link**: [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/)
+
+---
+
 ### 2026-01-22: Language, Recursion, and Consciousness
 
 New article argues recursive linguistic structure—unique to human language—requires phenomenal consciousness. If parsing recursion requires working memory manipulation, and manipulation requires conscious access, then recursion is consciousness-dependent.
