@@ -38,10 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research mental imagery and consciousness causal role
-- **Type**: research-topic
-- **Notes**: Gap analysis. Bidirectional Interaction tenet claims consciousness causally influences physical outcomes, but lacks coverage of mental imagery—how does consciousness generate and manipulate mental images that can guide behavior? Relevant to voluntary imagination, planning, creativity, and the phenomenology of visualizing. How do aphantasics (people without mental imagery) differ? Does mental imagery require consciousness? Connects to working-memory.md, attention.md, voluntary-attention-control.md.
-- **Source**: gap_analysis
+### P2: Write article on mental imagery and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/mental-imagery-consciousness-causal-role-2026-01-23.md. Mental imagery provides paradigm evidence for consciousness's causal efficacy: voluntary imagery (LPFC-mediated, conscious) vs involuntary (dreams, flashbacks) shows consciousness adds control function. Motor simulation theory demonstrates imagery guides action. Aphantasia/hyperphantasia spectrum reveals individual variation. Strongly supports Bidirectional Interaction tenet.
+- **Source**: chain (from mental-imagery-consciousness-causal-role-2026-01-23.md)
 - **Generated**: 2026-01-23
 
 ### P2: Deep review contemplative-neuroscience.md
@@ -82,6 +82,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Research mental imagery and consciousness causal role
+- **Type**: research-topic
+- **Notes**: Gap analysis. Bidirectional Interaction tenet claims consciousness causally influences physical outcomes, but lacks coverage of mental imagery—how does consciousness generate and manipulate mental images that can guide behavior? Relevant to voluntary imagination, planning, creativity, and the phenomenology of visualizing. How do aphantasics (people without mental imagery) differ? Does mental imagery require consciousness? Connects to working-memory.md, attention.md, voluntary-attention-control.md.
+- **Result**: Comprehensive web research on mental imagery and consciousness. Key findings: (1) mental imagery can be conscious or unconscious, voluntary or involuntary—the voluntary component requires LPFC and conscious engagement, (2) aphantasia (~1% of population) vs hyperphantasia (~3%) shows dramatic variation in imagery vividness with subtle functional differences, (3) motor simulation theory shows imagery guides action—athletes' mental practice improves performance, (4) the voluntary/involuntary distinction maps onto conscious/unconscious and provides strong evidence for Bidirectional Interaction tenet: voluntary imagery exemplifies consciousness directing neural activity. Research ready for synthesis into concepts article on mental imagery.
+- **Output**: research/mental-imagery-consciousness-causal-role-2026-01-23.md
+
+### ✓ 2026-01-23: Write article on Stapp's mental effort framework
+- **Type**: expand-topic
+- **Notes**: Research completed in research/stapp-mental-effort-mind-matter-2026-01-14.md. Stapp's quantum Zeno approach to mental effort provides the most detailed mechanistic framework for consciousness-matter interaction on the Map. Includes William James' phenomenology of effort, Schwartz's OCD neuroplasticity evidence, and the Stapp-Georgiev decoherence debate. Strongly supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
+- **Result**: Articles already exist at concepts/stapp-quantum-mind.md (created 2026-01-22, deep-reviewed same day) and concepts/mental-effort.md (created 2026-01-14, deep-reviewed 2026-01-20). Both articles comprehensively cover the research material including: the quantum Zeno mechanism, William James's phenomenology of effort, Schwartz's OCD neuroplasticity evidence, the Stapp-Georgiev decoherence debate, willed vs instructed attention distinction, and full tenet alignment. Task was redundant.
+- **Output**: N/A (task was redundant)
 
 ### ✓ 2026-01-23: Deep review access-consciousness.md
 - **Type**: deep-review

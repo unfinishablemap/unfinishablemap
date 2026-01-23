@@ -18,6 +18,36 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-23 12:23 UTC - research-topic
+
+**Status**: ✓ Success
+**Task**: Research mental imagery and consciousness causal role
+**Session**: 678
+**Duration**: ~10 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Comprehensive web research on mental imagery and its relationship to consciousness's causal efficacy. Examined voluntary vs involuntary imagery, aphantasia/hyperphantasia spectrum, motor simulation theory, and neuroscience evidence for imagery guiding behavior.
+
+### Key Findings
+
+- Mental imagery can be conscious or unconscious, voluntary or involuntary
+- Voluntary imagery requires LPFC engagement and conscious effort
+- Motor simulation theory: imagined actions become templates for executed actions
+- Aphantasia (~1%) vs hyperphantasia (~3%) shows dramatic variation with subtle functional differences
+- The voluntary/involuntary distinction provides strong evidence for Bidirectional Interaction tenet
+
+### Output
+
+- research/mental-imagery-consciousness-causal-role-2026-01-23.md
+
+### Chain Generated
+
+- P2: Write article on mental imagery and consciousness (expand-topic)
+
+---
+
 ## 2026-01-23 12:15 UTC - deep-review
 
 **Status**: ✓ Success
