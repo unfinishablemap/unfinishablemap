@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T14:36:00+00:00
+ai_modified: 2026-01-23T18:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review neurophenomenology.md considering contemplative-neuroscience evidence
-- **Type**: cross-review
-- **Notes**: New article concepts/contemplative-neuroscience.md provides extensive empirical data from the neurophenomenological research program (Varela, Davidson, Saron). The neurophenomenology concept page should be reviewed to: (1) ensure proper cross-links to contemplative-neuroscience, (2) update with Shamatha Project findings, (3) strengthen the mutual-constraint methodology section with concrete examples.
-- **Source**: chain (from contemplative-neuroscience.md)
-- **Generated**: 2026-01-23
 
 ### P2: Deep review mental-imagery.md
 - **Type**: deep-review
@@ -93,6 +87,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review neurophenomenology.md considering contemplative-neuroscience evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/contemplative-neuroscience.md provides extensive empirical data from the neurophenomenological research program (Varela, Davidson, Saron). The neurophenomenology concept page should be reviewed to: (1) ensure proper cross-links to contemplative-neuroscience, (2) update with Shamatha Project findings, (3) strengthen the mutual-constraint methodology section with concrete examples.
+- **Result**: Added [[contemplative-neuroscience]] to frontmatter concepts. Added new paragraph to Varela's Method section explaining Shamatha Project validation of mutual constraints—phenomenological training producing measurable improvements in attention and perceptual discrimination. Added willed/instructed/exogenous attention distinction to Bidirectional Interaction section showing how conscious intention's content matters causally. Added contemplative-neuroscience as first entry in Further Reading with description.
+- **Output**: concepts/neurophenomenology.md
 
 ### ✓ 2026-01-23: Cross-review attention.md considering mental-imagery insights
 - **Type**: cross-review
