@@ -61,12 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
-### P2: Write article on neural correlates of conscious vs unconscious processing
-- **Type**: expand-topic
-- **Notes**: Based on research/neural-correlates-conscious-unconscious-processing-2026-01-23.md. Key evidence for distinguishing phenomenal consciousness from access/function. Neural correlates show clear dissociation: unconscious processing uses different pathways (dorsal stream) than conscious (ventral + prefrontal). Supports dualism by showing consciousness adds something beyond processing.
-- **Source**: chain
-- **Generated**: 2026-01-23
-
 ### P3: Deep review qualia.md
 - **Type**: deep-review
 - **Notes**: Core concept article referenced throughout the Map. Given recent work on phenomenal consciousness, access consciousness, and baseline cognition, qualia.md should be reviewed to ensure clean distinctions and proper cross-linking.
@@ -110,6 +104,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Write article on neural correlates of conscious vs unconscious processing
+- **Type**: expand-topic
+- **Notes**: Based on research/neural-correlates-conscious-unconscious-processing-2026-01-23.md. Key evidence for distinguishing phenomenal consciousness from access/function. Neural correlates show clear dissociation: unconscious processing uses different pathways (dorsal stream) than conscious (ventral + prefrontal). Supports dualism by showing consciousness adds something beyond processing.
+- **Result**: Created comprehensive topics article examining the functional differences between conscious and unconscious processing. Front-loaded 2025 Randeniya meta-analysis finding (only 10% of claimed unconscious processing effects replicate). Covered Dehaene's three consciousness-dependent functions (working memory, novel combinations, voluntary action), baseline cognition hypothesis, Global Workspace vs Recurrent Processing theory debate, failed P3b marker, and comprehensive tenet alignment. Article demonstrates strong empirical support for Bidirectional Interaction tenet by showing consciousness enables functions unconscious processing cannot achieve.
+- **Output**: topics/conscious-vs-unconscious-processing.md
 
 ### ✓ 2026-01-23: Research indexical identity problem in philosophy
 - **Type**: research-topic
