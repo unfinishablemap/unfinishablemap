@@ -1,7 +1,7 @@
 ---
 ai_contribution: 0
 ai_generated_date: null
-ai_modified: 2026-01-17 00:00:00+00:00
+ai_modified: 2026-01-23 03:21:52.100043+00:00
 ai_system: null
 author: Andy Southgate
 concepts:
@@ -64,6 +64,8 @@ Consciousness is not a passive observer—it causally influences the physical wo
 **Definition:** If we can speak, write, or otherwise report our conscious experiences, then information about consciousness must flow into the physical domain. This requires a mechanism by which the non-physical influences physical outcomes. The proposed mechanism: consciousness selects among superposed neural states, collapsing quantum indeterminacy in the brain toward patterns that express its content. For detailed treatment of [the causal closure objection](/archive/arguments/interactionist-dualism/#the-causal-closure-argument) and how quantum mechanics provides a response, see the [interactionist-dualism](/archive/arguments/interactionist-dualism/) article.
 
 **Rationale:** The very fact that we discuss consciousness provides strong evidence against epiphenomenalism. An epiphenomenon—causally inert by definition—could not influence the neurons that move our mouths or type our words. Yet here we are, talking about qualia. The conversation itself suggests downward causation.
+
+**Empirical support from comparative cognition:** The [baseline cognition hypothesis](/concepts/consciousness-independent-baseline-cognition/) provides additional evidence. Great apes demonstrate sophisticated cognition—tool use, social learning, procedural metacognition—yet cannot perform logical reasoning, counterfactual thinking, or cumulative culture. Lieberman et al. (2008) found that cognitive load on conscious processes specifically impairs logical reasoning in humans, while hampering unconscious systems has no effect. If consciousness were epiphenomenal, it could not enable cognitive functions that the unconscious baseline cannot achieve. The fact that humans engage in logical reasoning and cumulative culture—functions that require conscious processing and that great apes lack—suggests consciousness causally contributes to cognitive outcomes rather than merely accompanying them.
 
 **The [epiphenomenalist](/arguments/epiphenomenalism/) response:** A critic might argue that our discussions of consciousness are themselves just physical processes—neurons causing neurons, with no mental causation involved. We *believe* we're reporting on qualia, but this belief is itself just more neurons firing.
 

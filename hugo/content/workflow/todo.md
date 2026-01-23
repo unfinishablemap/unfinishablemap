@@ -50,11 +50,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
-### P2: Review bidirectional-interaction considering baseline cognition evidence
-- **Type**: cross-review
-- **Notes**: New article concepts/consciousness-independent-baseline-cognition.md shows great ape cognition (2±1 working memory, no cumulative culture) represents what neurons achieve without consciousness. This provides strong evidence that consciousness causally contributes to human intelligence rather than merely accompanying it. The bidirectional-interaction concept page should integrate this as key empirical support against epiphenomenalism.
-- **Source**: chain
-- **Generated**: 2026-01-23
 
 ### P2: Review blindsight considering baseline cognition framework
 - **Type**: cross-review
@@ -99,6 +94,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Review bidirectional-interaction considering baseline cognition evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-independent-baseline-cognition.md shows great ape cognition (2±1 working memory, no cumulative culture) represents what neurons achieve without consciousness. This provides strong evidence that consciousness causally contributes to human intelligence rather than merely accompanying it. The bidirectional-interaction concept page should integrate this as key empirical support against epiphenomenalism.
+- **Result**: Added empirical support section to Bidirectional Interaction tenet, integrating Lieberman et al. (2008) findings on conscious processing requirements for logical reasoning and comparative evidence from great ape cognition baseline.
+- **Output**: obsidian/tenets/tenets.md
 
 ### ✓ 2026-01-23: Create voids article on conceptual impossibility
 - **Type**: expand-topic
