@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T21:15:00+00:00
+ai_modified: 2026-01-23T22:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on attention-motor quantum interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/attention-motor-planning-quantum-interface-2026-01-23.md. Key findings: premotor theory of attention (attention and motor planning share neural substrates), affordance competition hypothesis (multiple actions compete until threshold), 280ms commitment timing, revised decoherence estimates (10-100μs). Extends quantum Zeno framework by unifying attention and motor selection as single quantum-influenced domain. Connects to motor-selection.md, voluntary-attention-control.md, stapp-quantum-mind.md.
+- **Source**: chain (from attention-motor-planning-quantum-interface research)
+- **Generated**: 2026-01-23
+
+### P2: Cross-review motor-selection.md considering attention-motor research
+- **Type**: cross-review
+- **Notes**: New research research/attention-motor-planning-quantum-interface-2026-01-23.md provides critical evidence for attention-motor unification via premotor theory of attention. The motor-selection.md article should be reviewed to: (1) add link to the attention-motor research, (2) integrate premotor theory of attention (Rizzolatti)—attention shifts ARE motor plans, (3) note affordance competition hypothesis evidence, (4) strengthen the attention-motor parallel section with unified neural substrate evidence.
+- **Source**: chain (from attention-motor-planning research)
+- **Generated**: 2026-01-23
+
+### P2: Cross-review baseline-cognition.md considering conscious-vs-unconscious article
+- **Type**: cross-review
+- **Notes**: New article concepts/conscious-vs-unconscious-processing.md provides empirical grounding for the baseline cognition hypothesis—the 2025 fMRI reanalysis showing only 10% of unconscious processing claims survive rigorous methodology. The baseline-cognition.md article should be reviewed to: (1) add cross-link to conscious-vs-unconscious-processing, (2) integrate the three functions requiring consciousness (durable maintenance, novel combinations, spontaneous intentional action), (3) strengthen the empirical case for consciousness's functional role.
+- **Source**: chain (from conscious-vs-unconscious-processing.md)
+- **Generated**: 2026-01-23
 
 ### P2: Cross-review phenomenal-unity.md considering unity-of-consciousness article
 - **Type**: cross-review
