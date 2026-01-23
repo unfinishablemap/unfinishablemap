@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 19:31:44+00:00
+ai_modified: 2026-01-23 21:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Create concept page for unity-of-consciousness
-- **Type**: expand-topic
-- **Notes**: Gap analysis. Concept "unity-of-consciousness" is referenced in binding-problem.md and phenomenal-binding.md but has no definition page. Unity of consciousness concerns how diverse phenomenal contents are bound into a single unified experience. Distinct from but related to binding-problem (mechanism) and varieties-of-unity (taxonomy). Should cover: synchronic vs diachronic unity, phenomenal vs access unity, split-brain challenges, and connection to the combination problem. Supports Dualism tenet by highlighting what physical processes struggle to explain.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-23
-
 ### P2: Research attention and motor planning quantum interface
 - **Type**: research-topic
 - **Notes**: Gap analysis. The Minimal Quantum Interaction tenet claims consciousness influences quantum events with minimal energetic footprint. Recent motor-selection.md and voluntary-attention-control.md articles suggest attention-motor interface as key locus. Need research on: (1) how attention gates motor plan selection, (2) neural timing windows where quantum effects could matter, (3) Stapp's quantum Zeno mechanism applied to motor preparation. Connects to motor-selection.md, stapp-quantum-mind.md, quantum-indeterminacy-free-will.md.
@@ -54,6 +48,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: cross-review
 - **Notes**: New article concepts/intersubjectivity.md explains how phenomenological findings can be validated intersubjectively without reducing to third-person description. The phenomenology.md concept page should be reviewed to: (1) add cross-link to intersubjectivity, (2) note how Husserl's analysis of intersubjectivity grounds phenomenological method, (3) distinguish phenomenology's approach from heterophenomenology's third-person stance.
 - **Source**: chain (from intersubjectivity.md)
+- **Generated**: 2026-01-23
+
+### P2: Cross-review binding-problem.md considering unity-of-consciousness article
+- **Type**: cross-review
+- **Notes**: New article concepts/unity-of-consciousness.md provides the canonical definition page for unity of consciousness, which binding-problem.md references but previously had no target. The binding-problem.md article should be reviewed to: (1) verify [unity-of-consciousness](/concepts/unity-of-consciousness/) links now resolve correctly, (2) integrate the distinction between binding problem (neural mechanism) and unity of consciousness (philosophical problem), (3) note how the new article clarifies the relationship between synchronic/diachronic/subject unity and the binding challenge.
+- **Source**: chain (from unity-of-consciousness.md)
+- **Generated**: 2026-01-23
+
+### P2: Cross-review phenomenal-unity.md considering unity-of-consciousness article
+- **Type**: cross-review
+- **Notes**: New article concepts/unity-of-consciousness.md provides conceptual framing for the unity problem that phenomenal-unity.md addresses from the phenomenal side. The phenomenal-unity.md article should be reviewed to: (1) add cross-link to unity-of-consciousness as the definitional hub, (2) clarify how phenomenal-unity.md focuses on *why* unity is unified while unity-of-consciousness.md defines *what* unity is, (3) integrate the phenomenal vs access unity distinction from the new article.
+- **Source**: chain (from unity-of-consciousness.md)
 - **Generated**: 2026-01-23
 
 ### P3: Deep review qualia.md
@@ -94,6 +100,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Create concept page for unity-of-consciousness
+- **Type**: expand-topic
+- **Notes**: Gap analysis. Concept "unity-of-consciousness" is referenced in binding-problem.md and phenomenal-binding.md but has no definition page. Unity of consciousness concerns how diverse phenomenal contents are bound into a single unified experience. Distinct from but related to binding-problem (mechanism) and varieties-of-unity (taxonomy). Should cover: synchronic vs diachronic unity, phenomenal vs access unity, split-brain challenges, and connection to the combination problem. Supports Dualism tenet by highlighting what physical processes struggle to explain.
+- **Result**: Created comprehensive concept article (~2,100 words) covering: (1) the core phenomenon of unity as potentially constitutive of consciousness, (2) distinction from binding-problem, phenomenal-binding, and combination-problem, (3) three dimensions of unity (synchronic, diachronic, subject) with evidence they can dissociate, (4) phenomenal vs access unity distinction, (5) why unity is puzzling (Leibniz's Mill, subject-summing, grain problem), (6) proposed explanations (synchrony, IIT, GWT, quantum binding), (7) illusionist challenge and response, (8) strong tenet alignment with all five tenets, especially Dualism and Minimal Quantum Interaction.
+- **Output**: concepts/unity-of-consciousness.md
 
 ### ✓ 2026-01-23: Write article on conscious vs unconscious processing
 - **Type**: expand-topic

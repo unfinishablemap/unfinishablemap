@@ -107,7 +107,7 @@ On this view, phenomenal binding doesn't need explanation via neural mechanisms 
 
 ### Site Content
 - [binding-problem](/concepts/binding-problem/) — The general problem of feature binding in perception
-- [unity-of-consciousness](/unity-of-consciousness/) — Phenomenal unity as metaphysical question
+- [unity-of-consciousness](/concepts/unity-of-consciousness/) — Phenomenal unity as metaphysical question
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into macro-experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why physical processes produce experience at all
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for consciousness including Orch OR
