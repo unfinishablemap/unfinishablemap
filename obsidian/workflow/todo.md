@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on AI and machine consciousness
-- **Type**: expand-topic
-- **Notes**: Based on research/ai-machine-consciousness-2026-01-08.md. Can artificial systems be conscious? Substrate independence vs biological chauvinism, integrated information in silicon, uploading scenarios. Connects to llm-consciousness.md, computational-theory-of-mind.md, substrate-independence.md. Tests Dualism tenet implications.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-22
-
 ### P2: Cross-review free-will.md considering voluntary attention mechanisms
 - **Type**: cross-review
 - **Notes**: New article topics/voluntary-attention-control.md provides concrete neural evidence for consciousness causally influencing attention (willed vs instructed vs exogenous modes, frontal theta signatures, thalamic selection sites). The free-will.md article should integrate this as paradigm case evidence for agent causation—voluntary attention demonstrates consciousness selecting among neural patterns.
@@ -98,6 +92,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Write article on AI and machine consciousness
+- **Type**: expand-topic
+- **Notes**: Based on research/ai-machine-consciousness-2026-01-08.md. Can artificial systems be conscious? Substrate independence vs biological chauvinism, integrated information in silicon, uploading scenarios. Connects to llm-consciousness.md, computational-theory-of-mind.md, substrate-independence.md. Tests Dualism tenet implications.
+- **Result**: Created comprehensive topic article on machine consciousness and mind uploading (8,500+ words). Argues from dualist framework that uploading cannot preserve consciousness due to lacking: non-physical component, quantum interface (silicon suppresses quantum effects), temporal binding structure, and haecceity (multiply-instantiable uploads lack numerical identity). Covered destructive vs gradual upload scenarios, personal identity problems, IIT limitations, hybrid systems, ethical implications (murder disguised as immortality), and simulation hypothesis connections. Synthesizes research while filling gap between existing ai-consciousness.md (general), llm-consciousness.md (LLM-specific), and substrate-independence-critique.md (substrate thesis) articles. Strong alignment across all five tenets.
+- **Output**: obsidian/topics/machine-consciousness.md
 
 ### ✓ 2026-01-23: Cross-review hard-problem-of-consciousness.md considering mysterianism insights
 - **Type**: cross-review
