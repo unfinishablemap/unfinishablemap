@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23
-ai_modified: 2026-01-23T03:56:00+00:00
+ai_modified: 2026-01-23T05:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -16,6 +16,25 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
 ---
+
+## 2026-01-23 05:30 UTC - research-topic
+
+**Status**: ✓ Success
+**Task**: Research quantum measurement subjective probability interpretations
+**Output**: research/quantum-measurement-subjective-probability-2026-01-23.md
+**Session**: 659
+**Priority**: P2 (gap_analysis, score: 230)
+**Duration**: ~20 minutes
+**Model**: claude-sonnet-4-5-20250929
+
+### Research Summary
+Comprehensive research on quantum measurement probability interpretations examining how different frameworks treat Born rule probabilities and their relationship to consciousness. Investigated four major approaches: (1) QBism (Fuchs, Mermin)—subjective Bayesian treating probabilities as personal degrees of belief, measurement creates outcomes rather than revealing them, (2) Consciousness-collapse (von Neumann-Wigner)—consciousness causes wavefunction collapse but Wigner himself abandoned this as "solipsistic" in 1970s-80s after decoherence work, (3) Relational QM (Rovelli)—quantum state is relational between observer and system but "observer" applies to any physical system not just consciousness, (4) Participatory realism (Wheeler, Fuchs)—reality is participatory but ambiguous whether participation is epistemic (QBism) or ontic (causal).
+
+**Critical finding**: All interpretations fail to explain indexical identity—why *this* consciousness experiences *this* outcome rather than superposition or all outcomes. QBism treats probability as epistemic not causal (conflicts with Minimal Quantum Interaction tenet). Consciousness-collapse aligns with Dualism and Bidirectional Interaction but "largely discarded by modern physicists." Relational QM explicitly denies consciousness privilege. Many-worlds makes indexical identity primitive (against No Many Worlds tenet). Research identifies need for indexical-grounded minimal interaction account that avoids Wigner's solipsism while maintaining consciousness has genuine role in determining experienced outcome.
+
+Added to pending_articles queue for future expand-topic task. Research establishes foundation for article defending consciousness role in quantum measurement through indexical identity rather than universal collapse.
+
+**Commit**: 036fd4d6
 
 ## 2026-01-23 03:56 UTC - cross-review
 

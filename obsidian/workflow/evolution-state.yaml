@@ -1,6 +1,5 @@
-last_updated: '2026-01-23T03:55:49+00:00'
-session_count: 658
-last_replenishment: '2026-01-23T03:37:29.853901+00:00'
+last_updated: '2026-01-23T05:27:44.965972+00:00'
+session_count: 659
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-22T22:51:33+00:00'
@@ -36,7 +35,7 @@ overdue_thresholds:
   tweet-highlight: 48
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-23T00:41:42.670698+00:00'
+last_git_push: '2026-01-23T05:22:16.377678+00:00'
 content_stats:
   total_files: 293
   published_files: 188
@@ -54,7 +53,7 @@ progress:
   arguments_written: 5
   questions_written: 2
   voids_written: 11
-  research_notes: 109
+  research_notes: 110
   reviews_completed: 488
 quality:
   critical_issues: 6
@@ -63,141 +62,70 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
-- task: cross-review (consciousness-independent-baseline-cognition/blindsight)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-  output: concepts/blindsight.md
-- task: expand-topic (conscious vs unconscious processing)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-  output: topics/conscious-vs-unconscious-processing.md
-- task: research-topic (indexical identity, haecceity, primitive thisness)
+- task: research-topic (quantum measurement subjective probability)
   type: research-topic
   date: '2026-01-23'
   outcome: success
-  output: research/indexical-identity-haecceity-thisness-2026-01-23.md
-- task: research-topic (neural correlates conscious vs unconscious processing)
-  type: research-topic
-  date: '2026-01-23'
-  outcome: success
-  output: research/neural-correlates-conscious-unconscious-processing-2026-01-23.md
-- task: cross-review (bidirectional-interaction/baseline-cognition)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-  output: tenets/tenets.md
-- task: expand-topic (conceptual impossibility voids)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-  output: voids/conceptual-impossibility.md
-- task: expand-topic (spontaneous collapse theories GRW CSL objective reduction)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-  output: concepts/spontaneous-collapse-theories.md
-- task: research-topic (spontaneous collapse theories GRW CSL objective reduction)
-  type: research-topic
-  date: '2026-01-23'
-  outcome: success
-  output: research/spontaneous-collapse-theories-grw-csl-2026-01-23.md
-- task: expand-topic (consciousness independent baseline cognition)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-  output: concepts/consciousness-independent-baseline-cognition.md
-- task: research-voids (conceptual impossibility)
-  type: research-voids
-  date: '2026-01-23'
-  outcome: success
-  output: research/voids-conceptual-impossibility-2026-01-23.md
-- task: expand-topic (access consciousness)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: redundant
-  output: concepts/access-consciousness.md (already exists from session 646)
-- task: expand-topic (phenomenal binding)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-  output: concepts/phenomenal-binding.md
 - task: expand-topic (psychophysical coupling mechanisms)
   type: expand-topic
   date: '2026-01-23'
   outcome: success
-  output: concepts/psychophysical-coupling-mechanisms.md
 - task: expand-topic (argument from reason decisive case for dualism)
   type: expand-topic
   date: '2026-01-23'
   outcome: success
-  output: topics/argument-from-reason.md
 - task: research-topic (argument from reason and self-defeat objections to physicalism)
   type: research-topic
   date: '2026-01-23'
   outcome: success
-  output: research/argument-from-reason-self-defeat-physicalism-2026-01-23.md
 - task: research-topic (psychophysical coupling law mechanisms)
   type: research-topic
   date: '2026-01-23'
   outcome: success
-  output: research/psychophysical-coupling-law-mechanisms-2026-01-23.md
 - task: expand-topic (contemplative neuroscience)
   type: expand-topic
   date: '2026-01-23'
   outcome: success
-  output: concepts/contemplative-neuroscience.md
 - task: research-topic (contemplative neuroscience meditation)
   type: research-topic
   date: '2026-01-23'
   outcome: success
-  output: research/contemplative-neuroscience-meditation-2026-01-23.md
 - task: expand-topic (heterophenomenology)
   type: expand-topic
   date: '2026-01-23'
   outcome: success
-  output: concepts/heterophenomenology.md
 - task: expand-topic (first-person-third-person-methodology)
   type: expand-topic
   date: '2026-01-23'
   outcome: success
-  output: topics/first-person-third-person-methodology.md
 - task: research-topic (first-person-third-person-methodology)
   type: research-topic
   date: '2026-01-23'
   outcome: success
-  output: research/first-person-third-person-methodology-2026-01-23.md
 - task: expand-topic (multimodal-binding)
   type: expand-topic
   date: '2026-01-23'
   outcome: success
-  output: concepts/multimodal-binding.md
 - task: research-topic (phenomenal-binding-multimodal-integration)
   type: research-topic
   date: '2026-01-23'
   outcome: success
-  output: research/phenomenal-binding-multimodal-integration-2026-01-23.md
 - task: cross-review (integrated-information-theory/time-perception-consciousness-theories)
   type: cross-review
   date: '2026-01-23'
   outcome: success
-  output: concepts/integrated-information-theory.md
 - task: expand-topic (objectivity-and-consciousness)
   type: expand-topic
   date: '2026-01-23'
   outcome: success
-  output: concepts/objectivity-and-consciousness.md
 - task: cross-review (many-worlds/quantum-measurement-interpretations-beyond-mwi)
   type: cross-review
   date: '2026-01-23'
   outcome: success
-  output: concepts/many-worlds.md
 - task: research-topic (objectivity-consciousness)
   type: research-topic
   date: '2026-01-23'
   outcome: success
-  output: research/objectivity-consciousness-view-from-nowhere-2026-01-23.md
 - task: cross-review (free-will.md/voluntary-attention-control)
   type: cross-review
   date: '2026-01-23'
@@ -214,27 +142,7 @@ recent_tasks:
   type: expand-topic
   date: '2026-01-23'
   outcome: success
-- task: expand-topic (voluntary-attention-control)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
 task_chains:
   pending_articles:
-  - research/indexical-identity-haecceity-thisness-2026-01-23.md
-  pending_cross_reviews:
-  - new_article: topics/conscious-vs-unconscious-processing.md
-    review_targets:
-    - concepts/epiphenomenalism.md
-    - concepts/access-consciousness.md
-    generated: '2026-01-23T03:48:42+00:00'
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 4
-  p3_tasks: 8
-  needs_replenishment: false
-  last_replenishment: '2026-01-23T03:37:29.853901+00:00'
-  replenishment_source_counts:
-    chain: 1
-    gap_analysis: 4
-    staleness: 1
+  - research/quantum-measurement-subjective-probability-2026-01-23.md
+  pending_cross_reviews: []
