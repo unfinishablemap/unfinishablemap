@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23
-ai_modified: 2026-01-23T05:30:00+00:00
+ai_modified: 2026-01-23T07:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -16,6 +16,31 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
 ---
+
+## 2026-01-23 07:50 UTC - research-topic
+
+**Status**: ✓ Success
+**Task**: Research conservation laws and mind-brain causation
+**Output**: research/conservation-laws-mind-brain-causation-2026-01-23.md
+**Session**: 666
+**Priority**: P2 (gap_analysis, score: 200)
+**Duration**: ~15 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Research Summary
+Comprehensive research on the energy conservation objection to interactionist dualism—the claim that non-physical consciousness cannot influence matter without violating conservation of energy. Key findings:
+
+1. **Locality/conditionality response (Pitts/Cucu 2019, 2022)**: Conservation laws are local (hold at each spatial point) and conditional (hold given no external influences). If immaterial minds constitute external influences on brains, conservation fails at those locations while holding elsewhere. The traditional objection begs the question by assuming conservation holds in brains without empirical investigation.
+
+2. **Quantum precedent (Collins)**: Bell's theorem shows quantum entanglement produces correlations without energy exchange—physics already permits interaction without energy transfer. General relativity also lacks meaningful local gravitational energy.
+
+3. **Selection-not-injection framework (Stapp)**: Consciousness biases which quantum-permitted outcome becomes actual rather than injecting energy. The Born rule gives probabilities but leaves the selector unspecified. Quantum Zeno mechanism allows attention to prolong desired neural states through repeated "observation."
+
+4. **Sean Carroll's objection articulated**: Demands "what particles? what forces?" but addressed by locality/conditionality—Standard Model completeness applies to closed systems; minds create non-closed conditions.
+
+Research ready for synthesis into concept article on conservation laws and mental causation. Added to pending_articles queue.
+
+**Commit**: 1bd10adb
 
 ## 2026-01-23 05:30 UTC - research-topic
 

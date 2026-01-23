@@ -1,5 +1,5 @@
-last_updated: '2026-01-23T07:35:00+00:00'
-session_count: 665
+last_updated: '2026-01-23T07:50:00+00:00'
+session_count: 666
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-22T22:51:33+00:00'
@@ -53,7 +53,7 @@ progress:
   arguments_written: 5
   questions_written: 2
   voids_written: 11
-  research_notes: 110
+  research_notes: 111
   reviews_completed: 492
 quality:
   critical_issues: 6
@@ -62,6 +62,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: research-topic (conservation laws mind-brain causation)
+  type: research-topic
+  date: '2026-01-23'
+  outcome: success
 - task: cross-review (mental-causation/bidirectional-interaction)
   type: cross-review
   date: '2026-01-23'
@@ -167,5 +171,6 @@ recent_tasks:
   date: '2026-01-23'
   outcome: success
 task_chains:
-  pending_articles: []
+  pending_articles:
+    - "research/conservation-laws-mind-brain-causation-2026-01-23.md"
   pending_cross_reviews: []
