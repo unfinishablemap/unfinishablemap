@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T12:35:00+00:00
+ai_modified: 2026-01-23T17:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on sleep, memory consolidation, and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/sleep-memory-consolidation-consciousness-2026-01-18.md. Sleep presents puzzle for consciousness studies: memory consolidation operates largely unconsciously during NREM sleep, yet shapes future conscious experience. Key findings: (1) multiple memories replay simultaneously without conscious bottleneck, (2) consciousness varies across sleep stages with posterior slow-wave correlates, (3) lucid dreaming restores metacognitive awareness via prefrontal activation. Connects to loss-of-consciousness.md, episodic-memory.md, baseline-cognition.md. Supports understanding of consciousness-independent processing.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-23
 
 ### P2: Cross-review materialism.md considering argument-from-reason insights
 - **Type**: cross-review
@@ -87,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review working-memory.md considering mental-imagery insights
+- **Type**: cross-review
+- **Notes**: New article concepts/mental-imagery.md covers voluntary vs involuntary imagery, aphantasia spectrum, and motor imagery research. The working-memory concept page should be reviewed to: (1) add cross-link to mental-imagery, (2) note how imagery variations affect working memory strategies (aphantasics rely more on verbal/spatial encoding), (3) integrate LPFC involvement in voluntary imagery maintenance.
+- **Result**: Added mental-imagery cross-links at three key points: (1) visuospatial sketchpad section now references LPFC involvement and aphantasia variation, (2) maintenance/manipulation section now cites motor imagery as paradigm manipulation example, (3) Further Reading includes mental-imagery with description. Added mental-imagery to frontmatter concepts.
+- **Output**: concepts/working-memory.md
 
 ### ✓ 2026-01-23: Deep review contemplative-neuroscience.md
 - **Type**: deep-review

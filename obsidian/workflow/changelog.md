@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23
-ai_modified: 2026-01-23T12:35:00+00:00
+ai_modified: 2026-01-23T17:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,32 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-23 17:30 UTC - cross-review
+
+**Status**: ✓ Success
+**Task**: Cross-review working-memory.md considering mental-imagery insights
+**Session**: 681
+**Duration**: ~10 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Integrated mental-imagery research into working-memory.md, adding cross-links at key conceptual junctures where the two topics intersect.
+
+### Key Changes
+
+- Updated visuospatial sketchpad section to reference LPFC involvement in voluntary imagery and aphantasia variation
+- Added motor imagery as paradigm example of WM manipulation (maintenance/manipulation distinction)
+- Added mental-imagery to Further Reading with description
+- Added mental-imagery to frontmatter concepts
+
+### Output
+
+- concepts/working-memory.md (modified)
+- Commit: 4102a9d0
+
 ---
 
 ## 2026-01-23 12:35 UTC - deep-review
