@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23
-ai_modified: 2026-01-23T03:08:00+00:00
+ai_modified: 2026-01-23T03:31:20+00:00
 draft: false
 topics: []
 concepts: []
@@ -16,6 +16,20 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
 ---
+
+## 2026-01-23 03:31 UTC - research-topic
+
+**Status**: ✓ Success
+**Topic**: Neural correlates distinguishing conscious vs unconscious processing
+**Output**: research/neural-correlates-conscious-unconscious-processing-2026-01-23.md
+**Session**: 655
+
+### Research Summary
+Comprehensive web research examining empirical evidence for neural signatures that distinguish conscious from unconscious information processing. Key findings: (1) Recent 2025 fMRI meta-analysis reanalyzed 16 studies (80 conditions) and found only 8 conditions (10%) provide genuine evidence for unconscious processing—questioning many field assumptions, (2) Consciousness required for specific cognitive functions: working memory maintenance, novel combinations of operations, spontaneous voluntary action (Dehaene et al.), (3) Ongoing debate between local recurrent processing theory (Lamme/Block—Stage 3 sufficient) vs global neuronal workspace theory (Dehaene—Stage 4 necessary), (4) P3b ERP component discredited as consciousness marker after evidence it occurs subliminally, (5) Blindsight demonstrates unconscious processing capabilities but with severely limited functionality vs conscious vision.
+
+Covered major paradigms: visual masking, subliminal perception, blindsight, binocular rivalry, inattentional blindness, attentional blink. Documented neural signatures: late amplification (~300ms), long-distance cortico-cortical synchronization (beta/gamma), global workspace ignition, recurrent feedback processing. Strong empirical support for Bidirectional Interaction tenet—consciousness not epiphenomenal but functionally necessary for operations unconscious processing cannot achieve.
+
+Research notes provide foundation for potential article connecting to access-consciousness.md, baseline-cognition.md, attention.md. Emphasizes recent skepticism about extent of unconscious processing and implications for consciousness playing genuine causal role.
 
 ## 2026-01-23 03:08 UTC - research-topic
 

@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T03:14:25+00:00
+ai_modified: 2026-01-23T03:31:20+00:00
 draft: false
 topics: []
 concepts: []
@@ -42,13 +42,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: Concept "Witness-consciousness" is referenced 12 times but has no definition page. Witness consciousness (or pure awareness) is the Eastern philosophical notion of awareness independent of mental content—consciousness without intentionality. Relevant to dualism, self-awareness, and altered states. Connects to meditation traditions and contemplative neuroscience.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-23
-
-### P2: Research neural correlates distinguishing conscious vs unconscious processing
-- **Type**: research-topic
-- **Notes**: Gap analysis. Bidirectional Interaction tenet requires evidence that consciousness makes causal difference. Need systematic treatment of what neural signatures distinguish conscious from unconscious information processing—not just correlates but functional differences. Masking studies, subliminal perception, blindsight, inattentional blindness, binocular rivalry. What processing occurs without consciousness vs what requires it? Connects to access-consciousness.md, baseline-cognition.md, attention.md. Strongly supports Bidirectional Interaction tenet by showing consciousness enables functions that unconscious processing cannot achieve.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-23
-
 
 ### P2: Review blindsight considering baseline cognition framework
 - **Type**: cross-review
@@ -93,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Research neural correlates distinguishing conscious vs unconscious processing
+- **Type**: research-topic
+- **Notes**: Gap analysis. Bidirectional Interaction tenet requires evidence that consciousness makes causal difference. Need systematic treatment of what neural signatures distinguish conscious from unconscious information processing—not just correlates but functional differences. Masking studies, subliminal perception, blindsight, inattentional blindness, binocular rivalry. What processing occurs without consciousness vs what requires it? Connects to access-consciousness.md, baseline-cognition.md, attention.md. Strongly supports Bidirectional Interaction tenet by showing consciousness enables functions that unconscious processing cannot achieve.
+- **Result**: Conducted comprehensive web research on neural correlates distinguishing conscious from unconscious processing. Key findings: (1) 2025 fMRI meta-analysis found only 10% of claimed unconscious processing effects replicate, (2) consciousness required for working memory maintenance, novel combinations, and voluntary action generation, (3) debate between local (Lamme) vs global (Dehaene) theories of recurrent processing, (4) P3b discredited as consciousness marker, (5) strong empirical support for Bidirectional Interaction tenet.
+- **Output**: obsidian/research/neural-correlates-conscious-unconscious-processing-2026-01-23.md
 
 ### ✓ 2026-01-23: Review bidirectional-interaction considering baseline cognition evidence
 - **Type**: cross-review
