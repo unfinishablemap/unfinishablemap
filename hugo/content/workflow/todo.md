@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 06:05:00+00:00
+ai_modified: 2026-01-23 07:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,15 +44,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
-### P2: Review mental-causation.md considering bidirectional-interaction insights
-- **Type**: cross-review
-- **Notes**: New article concepts/bidirectional-interaction.md provides focused treatment of how consciousness causally influences physics. The mental-causation concept page should be reviewed for cross-links and to ensure consistent framing of the quantum interface mechanism.
-- **Source**: chain (from bidirectional-interaction.md)
+### P2: Write article on collapse before minds and early universe
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Critical for prebiotic collapse problem: how did quantum states collapse before conscious observers existed? Addresses tension between consciousness-collapse interpretations and cosmological timeline. Supports No Many Worlds tenet by showing objective collapse mechanisms work alongside consciousness.
+- **Source**: unconsumed_research
 - **Generated**: 2026-01-23
 
-### P3: Write article on predictive processing and consciousness
+### P2: Write article on cognitive science perspectives on dualism
 - **Type**: expand-topic
-- **Notes**: Research completed in research/predictive-processing-consciousness-2026-01-14.md. Predictive processing (Friston, Clark) is a dominant neuroscience framework claiming the brain is a prediction machine minimizing free energy. How does this relate to phenomenal consciousness? Does prediction explain qualia or merely the computational aspect? The Map should engage with this influential framework, noting its strengths (explaining perception, action) and limits (the hard problem remains).
+- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md. Covers how empirical cognitive science findings (intuitive dualism research, theory of mind development, agency detection) inform the philosophical debate. Bloom's "natural-born dualists" vs Barrett cross-cultural findings. Addresses "folk error" objection to dualism. Supports Dualism and Occam's Razor Has Limits tenets.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-23
+
+### P2: Write article on consciousness collapse and arrow of time
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-collapse-arrow-of-time-2026-01-14.md. Explores relationship between quantum measurement/collapse and temporal asymmetry. Does consciousness play a role in the arrow of time? Penrose's connection between collapse and entropy. Supports Minimal Quantum Interaction and No Many Worlds tenets.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-23
+
+### P3: Write article on meditation observer phenomenon
+- **Type**: expand-topic
+- **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. Systematic treatment of the observer/witness phenomenon reported in contemplative traditions. How does the "observing self" relate to witness-consciousness, introspection, and metacognition? Provides phenomenological grounding for dualist distinction between observer and observed. Supports Dualism tenet.
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-23
 
@@ -88,6 +100,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Review mental-causation.md considering bidirectional-interaction insights
+- **Type**: cross-review
+- **Notes**: New article concepts/bidirectional-interaction.md provides focused treatment of how consciousness causally influences physics. The mental-causation concept page should be reviewed for cross-links and to ensure consistent framing of the quantum interface mechanism.
+- **Result**: Added [bidirectional-interaction](/concepts/bidirectional-interaction/) to frontmatter concepts list. Updated "Relation to the Map's Perspective" section to link directly to the bidirectional-interaction concept page with description of its content (self-stultification argument, quantum interface mechanism). Added bidirectional-interaction as first entry in Further Reading with description.
+- **Output**: concepts/mental-causation.md
 
 ### ✓ 2026-01-23: Review epiphenomenalism.md considering bidirectional-interaction insights
 - **Type**: cross-review
