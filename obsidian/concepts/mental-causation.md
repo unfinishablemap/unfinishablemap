@@ -3,7 +3,7 @@ title: "Mental Causation"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-20T11:30:00+00:00
+ai_modified: 2026-01-23T07:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ concepts:
   - "[[pairing-problem]]"
   - "[[decoherence]]"
   - "[[attention-as-interface]]"
+  - "[[bidirectional-interaction]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments/epiphenomenalism]]"
@@ -178,7 +179,7 @@ Raymond Tallis puts it sharply: "Misrepresentation presupposes presentation." Al
 
 Mental causation is central to the Map's framework.
 
-**Bidirectional Interaction**: the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] explicitly affirms that consciousness causally influences physical outcomes. Mental causation isn't a philosophical curiosity but a foundational commitment.
+**Bidirectional Interaction**: the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] explicitly affirms that consciousness causally influences physical outcomes. Mental causation isn't a philosophical curiosity but a foundational commitment. The [[bidirectional-interaction]] concept page develops this in detail, presenting the self-stultification argument against epiphenomenalism and explaining how the quantum interface mechanism enables consciousness to select among outcomes physics leaves undetermined.
 
 **The Quantum Resolution**: The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] provides the mechanism. Consciousness acts where physics is incomplete—at quantum indeterminacies. This respects the spirit of causal closure (physics explains what physics determines) while denying its letter (physics doesn't determine everything).
 
@@ -216,6 +217,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 
 ## Further Reading
 
+- [[bidirectional-interaction]] — The Map's foundational commitment to consciousness causally influencing the physical world
 - [[illusionism]] — The radical challenge that denies phenomenal consciousness exists
 - [[many-worlds]] — Why the Map rejects MWI (and why it matters for mental causation)
 - [[reductionism]] — Why the reductionist alternative to mental causation fails; Kim's exclusion argument and responses
