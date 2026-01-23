@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 05:36:18+00:00
+ai_modified: 2026-01-23 09:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,23 +44,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
+### P2: Write article on higher-order theories of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/higher-order-theories-consciousness-2026-01-14.md. HOT (Rosenthal) and HOP (Lycan) theories claim consciousness requires meta-representation—being conscious of being conscious. Major alternative to first-order theories. The Map should cover this as competitor framework, noting how it struggles with phenomenal consciousness (the "what it's like") and may reduce to functionalism.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-23
+
+### P2: Write article on split-brain and consciousness unity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/split-brain-consciousness-unity-2026-01-14.md. Corpus callosotomy cases (Sperry, Gazzaniga) provide key evidence about phenomenal unity—can consciousness be divided? Split-brain patients show dissociated hemispheric awareness but report unified experience. Connects to binding problem, phenomenal unity, and challenges both reductive and dualist accounts. Important empirical grounding for varieties-of-unity.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-23
+
+### P3: Write article on predictive processing and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/predictive-processing-consciousness-2026-01-14.md. Predictive processing (Friston, Clark) is a dominant neuroscience framework claiming the brain is a prediction machine minimizing free energy. How does this relate to phenomenal consciousness? Does prediction explain qualia or merely the computational aspect? The Map should engage with this influential framework, noting its strengths (explaining perception, action) and limits (the hard problem remains).
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-23
+
 ### P3: Deep review qualia.md
 - **Type**: deep-review
 - **Notes**: Core concept article referenced throughout the Map. Given recent work on phenomenal consciousness, access consciousness, and baseline cognition, qualia.md should be reviewed to ensure clean distinctions and proper cross-linking.
 - **Source**: staleness
 - **Generated**: 2026-01-23
 
-### P2: Create voids article on temporal asymmetry
-- **Type**: expand-topic
-- **Notes**: Based on research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. Why we can re-experience the past but only imagine the future. The "pastness quale" is irreducible; epistemic asymmetry (past accessible via causal traces) grounds phenomenological asymmetry. Memory-anticipation asymmetry as fundamental cognitive limit.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-22
 
-### P3: Create voids article on phenomenology of error recognition
-- **Type**: expand-topic
-- **Notes**: Based on research/voids-phenomenology-of-error-recognition-2026-01-21.md. The bootstrap problem: being wrong feels like being right (error-blindness); Dunning-Kruger dual burden. We cannot perceive current errors, only past ones. The paradoxical temporal structure of correction. Structural cognitive closure.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-22
+### P2: Review measurement-problem.md considering indexical identity insights
+- **Type**: cross-review
+- **Notes**: New article topics/indexical-identity-quantum-measurement.md examines how the measurement problem relates to indexical identity—why *this* observer experiences *this* outcome. The measurement-problem concept page should be reviewed for cross-links and to ensure it acknowledges the indexical dimension.
+- **Source**: chain (from indexical-identity-quantum-measurement.md)
+- **Generated**: 2026-01-23
 
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
@@ -87,6 +100,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Create concept page for bidirectional-interaction
+- **Type**: expand-topic
+- **Notes**: The Bidirectional Interaction tenet is one of the five foundational commitments but has no dedicated concept page. The wikilink [bidirectional-interaction](/concepts/bidirectional-interaction/) is referenced 10+ times across the Map but points to nothing. Need article explaining the tenet's core claim (consciousness causally influences physical world), distinguishing it from epiphenomenalism, covering the quantum interface mechanism, and addressing the causal closure objection.
+- **Result**: Created focused concept page (~1,800 words) explaining the Bidirectional Interaction tenet. Covers the core claim (consciousness causally influences physics), the self-stultification argument against epiphenomenalism, the quantum interface mechanism (Stapp's Zeno effect and Orch OR), empirical support (Lieberman reasoning study, baseline cognition gap, evolutionary convergence), response to the causal closure objection, and clarifications about what bidirectional interaction is not. Proper cross-linking to interactionist-dualism (comprehensive treatment), epiphenomenalism, mental-causation, and related articles.
+- **Output**: concepts/bidirectional-interaction.md
+
+### ✓ 2026-01-23: Write article on quantum decoherence objection and responses
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-decoherence-objection-responses-2026-01-15.md. The decoherence objection (brain is too warm/wet for quantum coherence) is the primary empirical challenge to quantum consciousness theories. Article should cover Tegmark's femtosecond argument, revised microsecond estimates for microtubules, quantum biology evidence (photosynthesis, bird navigation), and why decoherence may not preclude consciousness-quantum interaction. Critical for defending Minimal Quantum Interaction tenet.
+- **Result**: Article already exists at concepts/quantum-decoherence-objection.md (created 2026-01-22). Task was generated from unconsumed research but the research had already been synthesized into a comprehensive concept article covering Tegmark's critique, Hameroff's corrected calculations, revised timescales, quantum biology evidence, and proper tenet alignment.
+- **Output**: N/A (task was redundant)
+
+### ✓ 2026-01-23: Review haecceity.md considering indexical identity quantum measurement insights
+- **Type**: cross-review
+- **Notes**: New article topics/indexical-identity-quantum-measurement.md argues that haecceity (primitive thisness) grounds the indexical fact at quantum measurement. The haecceity concept page should be reviewed to ensure it connects to this quantum application and the "why this branch?" question for No Many Worlds tenet.
+- **Result**: Added cross-links to indexical-identity-quantum-measurement in frontmatter (concepts and related_articles) and Further Reading section. Added new paragraph to "Why Consciousness Requires Haecceity" section connecting haecceity to the quantum indexical gap. Added paragraph to "MWI and the Probability Problem" section summarizing how the indexical identity problem extends across all QM interpretations (QBism, consciousness-collapse, relational QM).
+- **Output**: concepts/haecceity.md
+
+### ✓ 2026-01-23: Create voids article on temporal asymmetry
+- **Type**: expand-topic
+- **Notes**: Based on research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. Why we can re-experience the past but only imagine the future. The "pastness quale" is irreducible; epistemic asymmetry (past accessible via causal traces) grounds phenomenological asymmetry. Memory-anticipation asymmetry as fundamental cognitive limit.
+- **Result**: Article already exists at voids/temporal-asymmetry-remembering-anticipating.md (created 2026-01-21, ai_modified 2026-01-22). Task was generated but article had already been written. Covers pastness quale, epistemic vs phenomenological asymmetry, memory-anticipation as cognitive limit.
+- **Output**: N/A (task was redundant)
+
+### ✓ 2026-01-23: Create voids article on phenomenology of error recognition
+- **Type**: expand-topic
+- **Notes**: Based on research/voids-phenomenology-of-error-recognition-2026-01-21.md. The bootstrap problem: being wrong feels like being right (error-blindness); Dunning-Kruger dual burden. We cannot perceive current errors, only past ones. The paradoxical temporal structure of correction. Structural cognitive closure.
+- **Result**: Article already exists at voids/phenomenology-of-error-recognition.md (created 2026-01-21). Task was generated but article had already been written. Covers error-blindness, Dunning-Kruger, temporal structure of correction.
+- **Output**: N/A (task was redundant)
 
 ### ✓ 2026-01-23: Write article on quantum measurement and indexical identity
 - **Type**: expand-topic

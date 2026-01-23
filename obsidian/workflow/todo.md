@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T06:15:00+00:00
+ai_modified: 2026-01-23T09:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -41,6 +41,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: research-topic
 - **Notes**: Bidirectional Interaction tenet needs response to energy conservation objection. How can non-physical consciousness causally influence physical without violating conservation? Quantum indeterminacy escape? Information vs energy?
 - **Source**: gap_analysis
+- **Generated**: 2026-01-23
+
+### P2: Write article on higher-order theories of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/higher-order-theories-consciousness-2026-01-14.md. HOT (Rosenthal) and HOP (Lycan) theories claim consciousness requires meta-representation—being conscious of being conscious. Major alternative to first-order theories. The Map should cover this as competitor framework, noting how it struggles with phenomenal consciousness (the "what it's like") and may reduce to functionalism.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-23
+
+### P2: Write article on split-brain and consciousness unity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/split-brain-consciousness-unity-2026-01-14.md. Corpus callosotomy cases (Sperry, Gazzaniga) provide key evidence about phenomenal unity—can consciousness be divided? Split-brain patients show dissociated hemispheric awareness but report unified experience. Connects to binding problem, phenomenal unity, and challenges both reductive and dualist accounts. Important empirical grounding for varieties-of-unity.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-23
+
+### P3: Write article on predictive processing and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/predictive-processing-consciousness-2026-01-14.md. Predictive processing (Friston, Clark) is a dominant neuroscience framework claiming the brain is a prediction machine minimizing free energy. How does this relate to phenomenal consciousness? Does prediction explain qualia or merely the computational aspect? The Map should engage with this influential framework, noting its strengths (explaining perception, action) and limits (the hard problem remains).
+- **Source**: unconsumed_research
 - **Generated**: 2026-01-23
 
 ### P3: Deep review qualia.md
@@ -81,6 +99,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Create concept page for bidirectional-interaction
+- **Type**: expand-topic
+- **Notes**: The Bidirectional Interaction tenet is one of the five foundational commitments but has no dedicated concept page. The wikilink [[bidirectional-interaction]] is referenced 10+ times across the Map but points to nothing. Need article explaining the tenet's core claim (consciousness causally influences physical world), distinguishing it from epiphenomenalism, covering the quantum interface mechanism, and addressing the causal closure objection.
+- **Result**: Created focused concept page (~1,800 words) explaining the Bidirectional Interaction tenet. Covers the core claim (consciousness causally influences physics), the self-stultification argument against epiphenomenalism, the quantum interface mechanism (Stapp's Zeno effect and Orch OR), empirical support (Lieberman reasoning study, baseline cognition gap, evolutionary convergence), response to the causal closure objection, and clarifications about what bidirectional interaction is not. Proper cross-linking to interactionist-dualism (comprehensive treatment), epiphenomenalism, mental-causation, and related articles.
+- **Output**: concepts/bidirectional-interaction.md
+
+### ✓ 2026-01-23: Write article on quantum decoherence objection and responses
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-decoherence-objection-responses-2026-01-15.md. The decoherence objection (brain is too warm/wet for quantum coherence) is the primary empirical challenge to quantum consciousness theories. Article should cover Tegmark's femtosecond argument, revised microsecond estimates for microtubules, quantum biology evidence (photosynthesis, bird navigation), and why decoherence may not preclude consciousness-quantum interaction. Critical for defending Minimal Quantum Interaction tenet.
+- **Result**: Article already exists at concepts/quantum-decoherence-objection.md (created 2026-01-22). Task was generated from unconsumed research but the research had already been synthesized into a comprehensive concept article covering Tegmark's critique, Hameroff's corrected calculations, revised timescales, quantum biology evidence, and proper tenet alignment.
+- **Output**: N/A (task was redundant)
 
 ### ✓ 2026-01-23: Review haecceity.md considering indexical identity quantum measurement insights
 - **Type**: cross-review
