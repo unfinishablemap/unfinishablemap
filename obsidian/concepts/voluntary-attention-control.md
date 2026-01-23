@@ -3,12 +3,13 @@ title: "Voluntary Attention Control"
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-23T16:05:00+00:00
+ai_modified: 2026-01-23T23:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
+  - "[[attention-motor-quantum-interface]]"
   - "[[attention]]"
   - "[[mental-effort]]"
   - "[[stapp-quantum-mind]]"
@@ -123,6 +124,16 @@ This mechanism explains several features of voluntary attention:
 
 **Why voluntary attention is temporally extended.** The Zeno effect requires sustained engagement, matching voluntary attention's ~300ms+ deployment and maintenance profile.
 
+### Attention-Motor Unification
+
+The [[attention-motor-quantum-interface|premotor theory of attention]] (PMTA) proposes that attention shifts *are* motor plans—attending to a location is preparing an orienting movement toward it. This unification has profound implications for voluntary attention control.
+
+If attention is motor planning, then the willed attention findings above—frontal theta, ~300ms deployment, effortful phenomenology—describe a unified attention-motor selection mechanism. The ~300ms willed attention deployment matches the ~280ms motor commitment point identified by Thura and Cisek (2014). The frontal theta oscillations appear in both willed attention and willed motor preparation. The bidirectional frontoparietal coherence during willed attention mirrors motor preparation dynamics.
+
+This convergence suggests a single quantum selection interface. Consciousness doesn't separately influence attention and motor systems—it operates through one mechanism that the brain divides only functionally. Sustaining attention to a visual target and preparing a reaching movement engage the same neural selection process, subject to the same quantum Zeno stabilization.
+
+The phenomenological unity follows: willed attention and willed action feel like the same kind of effort because they *are* the same kind of effort—consciousness maintaining engagement with competing neural representations until one reaches threshold.
+
 ### The Stochastic Pre-State Question
 
 Neuroscience reveals that pre-prompt brain states (particularly EEG alpha activity over parietal-occipital cortex) predict subsequent free attention choices. If brain states predict "free" choices, is volition illusory?
@@ -178,6 +189,7 @@ Against [[epiphenomenalism]]: if voluntary attention control were merely the *fe
 
 ## Further Reading
 
+- [[attention-motor-quantum-interface]] - How PMTA unifies attention and motor selection under one quantum mechanism
 - [[mental-effort]] - The phenomenology of effortful attention and Stapp's mechanism
 - [[attention]] - Broader treatment of attention-consciousness relationship
 - [[attention-as-interface]] - The interface hypothesis in detail
