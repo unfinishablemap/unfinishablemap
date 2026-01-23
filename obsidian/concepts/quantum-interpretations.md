@@ -1,9 +1,9 @@
 ---
 title: "Interpretations of Quantum Mechanics"
 created: 2026-01-17
-modified: 2026-01-21
+modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-21T12:00:00+00:00
+ai_modified: 2026-01-23T23:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,9 +23,11 @@ concepts:
   - "[[buddhism-and-dualism]]"
   - "[[quantum-coherence-protection]]"
   - "[[decoherence]]"
+  - "[[subjective-probability-quantum-measurement]]"
 related_articles:
   - "[[tenets]]"
   - "[[qm-interpretations-beyond-mwi-2026-01-16]]"
+  - "[[subjective-probability-quantum-measurement]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -134,6 +136,20 @@ Answers fall into three categories:
 - **Penrose-Hameroff:** Objective reduction occurs at gravitational threshold, but consciousness is what the reduction *produces*. Collapse constitutes consciousness rather than being caused by it.
 
 **Site compatibility:** Moderate to High. The Map's position is compatible with either "consciousness causes collapse" or "consciousness modulates collapse." What matters is that consciousness participates in determining definite outcomes—whether as cause, modulator, or constitutive process.
+
+## How Interpretations Handle Probability
+
+Each interpretation must account for the Born rule—the squared amplitude giving measurement probabilities. The [[subjective-probability-quantum-measurement]] article examines this in depth, revealing how probability treatment exposes each interpretation's stance on consciousness.
+
+**The Standard View (Copenhagen, Collapse Theories):** Born probabilities are objective propensities—features of physical reality independent of any observer. The radioactive atom *has* a 50% chance of decaying. This works for statistics but struggles with single cases: what does "propensity" mean for *this* atom? And it leaves consciousness entirely outside the picture.
+
+**QBism:** Probabilities are subjective Bayesian beliefs, not features of external reality. Collapse is just belief-updating. But QBism presupposes that agents have definite experiences to form beliefs about—it treats the source of determinate experience as given rather than explained. The intersubjective convergence of quantum statistics remains mysterious if probabilities are purely subjective.
+
+**Many-Worlds:** All outcomes occur, so "probability" is reinterpreted as a measure on branches—a weighting for future selves. Deutsch-Wallace decision-theoretic derivations claim rational agents *must* weight branches by Born probabilities. Critics argue these derivations assume what they aim to prove. More fundamentally, if all outcomes occur, probability seems meaningless.
+
+**The Missing Piece:** All three views share a blind spot—they don't address what probability means *for this consciousness*. You're about to measure spin. What does 50% mean for *you*? The first-person perspective—the fact that *I* will experience *one* definite outcome—is precisely what probability seems to be about, yet appears in none of these standard accounts.
+
+The Map proposes that Born probabilities describe the objective structure of the consciousness-quantum interface. They are neither purely subjective beliefs (as QBism claims) nor features of physics independent of consciousness (as standard views assume). Rather, probability in quantum mechanics reflects the conditions under which consciousness actualises one possibility among many.
 
 ## Comparison Table
 
@@ -287,6 +303,7 @@ The choice of quantum interpretation bears directly on all five [[tenets]]:
 ## Further Reading
 
 ### Interpretations and Physics
+- [[subjective-probability-quantum-measurement]] — How each interpretation handles Born rule probabilities and the first-person gap
 - [[measurement-problem]] — The problem all interpretations address
 - [[many-worlds]] — Why the Map rejects MWI
 - [[relational-quantum-mechanics]] — Rovelli's interpretation and why the Map rejects it
