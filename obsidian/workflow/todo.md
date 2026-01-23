@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T09:35:00+00:00
+ai_modified: 2026-01-23T07:58:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review causal-closure.md considering conservation laws article
-- **Type**: cross-review
-- **Notes**: New article topics/conservation-laws-and-mind.md directly addresses the causal closure principle. The causal-closure concept page should be reviewed to: (1) add cross-link to conservation-laws-and-mind, (2) integrate the "selection not injection" response showing consciousness can influence outcomes without violating physical laws, (3) note that conservation is conditional not absolute per Pitts.
-- **Source**: chain (from conservation-laws-and-mind.md)
-- **Generated**: 2026-01-23
 
 ### P2: Cross-review interactionist-dualism.md considering conservation laws article
 - **Type**: cross-review
@@ -93,6 +87,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review causal-closure.md considering conservation laws article
+- **Type**: cross-review
+- **Notes**: New article topics/conservation-laws-and-mind.md directly addresses the causal closure principle. The causal-closure concept page should be reviewed to: (1) add cross-link to conservation-laws-and-mind, (2) integrate the "selection not injection" response showing consciousness can influence outcomes without violating physical laws, (3) note that conservation is conditional not absolute per Pitts.
+- **Result**: Added [[conservation-laws-and-mind]] to related_articles frontmatter. Updated "Why Causal Closure Seems Plausible" section to reference Pitts/Cucu on conservation being local and conditional, and linked to the full article. Added conservation-laws-and-mind as first entry in Further Reading section.
+- **Output**: concepts/causal-closure.md
 
 ### ✓ 2026-01-23: Write article on conservation laws and mind-brain causation
 - **Type**: expand-topic
