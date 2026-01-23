@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T14:58:22+00:00
+ai_modified: 2026-01-23T15:19:15+00:00
 draft: false
 topics: []
 concepts: []
@@ -53,12 +53,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers voluntary vs involuntary imagery, aphantasia spectrum, motor imagery research, and LPFC involvement. Key evidence for Bidirectional Interaction tenet. Should be reviewed for accuracy, citation quality, and proper integration with attention/working-memory articles.
 - **Source**: staleness
-- **Generated**: 2026-01-23
-
-### P2: Research introspective reliability and first-person access
-- **Type**: research-topic
-- **Notes**: Gap analysis. Dualism tenet claims consciousness is irreducible, but critics argue introspection is unreliable (Schwitzgebel's skeptical arguments, change blindness evidence). Need systematic treatment of: (1) what introspection gets right vs wrong, (2) trained vs naive introspection, (3) how unreliability of introspective *reports* differs from unreliability of phenomenal *access*. Connects to heterophenomenology.md, neurophenomenology.md, witness-consciousness.md. Critical for defending first-person methodology.
-- **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
 ### P2: Cross-review measurement-problem.md considering subjective probability article
@@ -111,6 +105,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Research introspective reliability and first-person access
+- **Type**: research-topic
+- **Notes**: Gap analysis. Dualism tenet claims consciousness is irreducible, but critics argue introspection is unreliable (Schwitzgebel's skeptical arguments, change blindness evidence). Need systematic treatment of: (1) what introspection gets right vs wrong, (2) trained vs naive introspection, (3) how unreliability of introspective *reports* differs from unreliability of phenomenal *access*. Connects to heterophenomenology.md, neurophenomenology.md, witness-consciousness.md. Critical for defending first-person methodology.
+- **Result**: Task was redundant. Comprehensive research already exists at research/introspection-reliability-first-person-2026-01-15.md and the concept article concepts/introspection.md (deep-reviewed 2026-01-20) thoroughly covers all three requested areas: (1) process vs content distinction explains what introspection gets right (content) vs wrong (causal processes), (2) Fox et al. 2012 study and neurophenomenology coverage address trained vs naive introspection, (3) the article explicitly distinguishes unreliability of reports from unreliability of phenomenal access. No additional research needed.
+- **Output**: N/A (task was redundant)
 
 ### ✓ 2026-01-23: Write article on quantum measurement and subjective probability
 - **Type**: expand-topic
