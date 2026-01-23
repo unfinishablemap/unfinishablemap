@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T10:13:00+00:00
+ai_modified: 2026-01-23T17:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -50,7 +50,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
-### P3: Write article on meditation observer phenomenon
+### P2: Write article on meditation observer phenomenon
 - **Type**: expand-topic
 - **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. Systematic treatment of the observer/witness phenomenon reported in contemplative traditions. How does the "observing self" relate to witness-consciousness, introspection, and metacognition? Provides phenomenological grounding for dualist distinction between observer and observed. Supports Dualism tenet.
 - **Source**: unconsumed_research
@@ -88,6 +88,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review retrocausality.md considering presentiment research
+- **Type**: cross-review
+- **Notes**: New research research/retrocausal-neural-firing-presentiment-2026-01-23.md covers the parapsychological "presentiment" literature (Mossbridge meta-analyses, PAA phenomenon)—distinct from the physics-based retrocausality already covered in retrocausality.md. The retrocausality article should be reviewed to: (1) add section on empirical presentiment evidence, (2) note its contested status vs physics-based retrocausality, (3) integrate the distinction between parapsychological PAA and quantum physics retrocausality.
+- **Result**: Added new section "Presentiment Research: A Distinct Evidential Tradition" covering: (1) the PAA claim and meta-analysis evidence (Mossbridge, Duggan & Tressoldi), (2) skeptical critique (Wagenmakers, Galak, Ritchie), (3) why the Map distinguishes physics-based retrocausality from parapsychological evidence—independence of evidential traditions and different types of causation (conscious selection vs unconscious anticipation). Added research note to related_articles frontmatter. Added presentiment references to References section.
+- **Output**: concepts/retrocausality.md
 
 ### ✓ 2026-01-23: Deep review quantum-consciousness.md
 - **Type**: deep-review
