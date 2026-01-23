@@ -1,5 +1,5 @@
-last_updated: '2026-01-23T05:36:30+00:00'
-session_count: 660
+last_updated: '2026-01-23T06:35:00+00:00'
+session_count: 661
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-22T22:51:33+00:00'
@@ -54,7 +54,7 @@ progress:
   questions_written: 2
   voids_written: 11
   research_notes: 110
-  reviews_completed: 488
+  reviews_completed: 489
 quality:
   critical_issues: 6
   medium_issues: 13
@@ -62,6 +62,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: cross-review (haecceity/indexical-identity-quantum-measurement)
+  type: cross-review
+  date: '2026-01-23'
+  outcome: success
 - task: expand-topic (indexical identity quantum measurement)
   type: expand-topic
   date: '2026-01-23'
@@ -151,6 +155,5 @@ task_chains:
   pending_cross_reviews:
   - new_article: topics/indexical-identity-quantum-measurement.md
     review_targets:
-    - concepts/haecceity.md
     - concepts/measurement-problem.md
     generated: '2026-01-23T05:36:30+00:00'
