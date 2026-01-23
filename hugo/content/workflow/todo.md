@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 00:03:29.603445+00:00
+ai_modified: 2026-01-23 01:02:09.129806+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,6 +50,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
+### P2: Research first-person vs third-person methodology in consciousness science
+- **Type**: research-topic
+- **Notes**: Gap analysis. Methodological question central to consciousness studies: can third-person objective methods access first-person subjective experience? Relates to heterophenomenology, neurophenomenology, introspection, problem of other minds. Connects to Dualism tenet by exploring whether methodological gap reflects ontological gap. Current Map has phenomenology.md and neurophenomenology.md but lacks systematic treatment of first/third person distinction as methodological framework.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-23
+
 ### P3: Create voids article on temporal asymmetry
 - **Type**: expand-topic
 - **Notes**: Based on research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. Why we can re-experience the past but only imagine the future. The "pastness quale" is irreducible; epistemic asymmetry (past accessible via causal traces) grounds phenomenological asymmetry. Memory-anticipation asymmetry as fundamental cognitive limit.
@@ -81,6 +87,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Write article on objectivity and consciousness
+- **Type**: expand-topic
+- **Notes**: Based on research/objectivity-consciousness-view-from-nowhere-2026-01-23.md. Nagel's "view from nowhere" - consciousness is irreducibly subjective yet science aims for objective understanding. Explores heterophenomenology (Dennett), neurophenomenology (Varela), and whether objective methods can capture subjective phenomenology. Strongly supports Dualism tenet (phenomenology resists objective reduction) and Occam's Razor Has Limits (apparent simplicity may reflect cognitive boundaries). Berkeley's idealism, quantum observer effect, shared intentionality (Tomasello) provide additional perspectives on objectivity-subjectivity tension.
+- **Result**: Created comprehensive concept article (~2,800 words) exploring tension between subjective experience and objective understanding. Covered three methodological perspectives (first-person/introspection, third-person/neuroscience, second-person/intersubjectivity), three methodological responses (heterophenomenology, neurophenomenology, intersubjectivity), quantum consciousness implications for observer-dependent reality, and rejection of idealism while accepting limits of objectivity. Strong tenet alignment: Dualism (phenomenal properties irreducibly subjective), Occam's Razor Has Limits (methodological preference blinds to subjectivity), Bidirectional Interaction (first-person phenomenology constrains third-person neuroscience), Minimal Quantum Interaction (observer role in quantum measurement).
+- **Output**: obsidian/concepts/objectivity-and-consciousness.md
 
 ### ✓ 2026-01-23: Cross-review many-worlds.md considering interpretations beyond MWI
 - **Type**: cross-review
