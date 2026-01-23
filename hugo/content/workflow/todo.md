@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 18:26:00+00:00
+ai_modified: 2026-01-23 19:15:26+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review phenomenology.md considering intersubjectivity insights
-- **Type**: cross-review
-- **Notes**: New article concepts/intersubjectivity.md explains how phenomenological findings can be validated intersubjectively without reducing to third-person description. The phenomenology.md concept page should be reviewed to: (1) add cross-link to intersubjectivity, (2) note how Husserl's analysis of intersubjectivity grounds phenomenological method—if phenomenology were purely private it couldn't be shared or validated, (3) distinguish phenomenology's approach to intersubjectivity from heterophenomenology's third-person stance.
-- **Source**: chain (from intersubjectivity.md)
-- **Generated**: 2026-01-23
 
 ### P2: Create concept page for unity-of-consciousness
 - **Type**: expand-topic
@@ -94,6 +88,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review mental-causation.md considering psychophysical coupling mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/psychophysical-coupling-mechanisms.md addresses the specification problem for mental causation—which phenomenal properties map to which physical selections. The mental-causation.md concept page should be reviewed to: (1) add cross-link to psychophysical-coupling-mechanisms, (2) note that the specification challenge is distinct from the overdetermination and conservation challenges, (3) integrate the five candidate coupling mechanisms as concrete proposals for how mental causation might work.
+- **Result**: Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) to frontmatter concepts (first position). Added new "The Specification Challenge" section after "The Quantum Opening" distinguishing the specification problem from overdetermination and conservation challenges. Integrated the five candidate coupling mechanisms as concrete proposals (attention→observation rate, intention→probability weighting, valence→action selection, qualia→basis selection, unity→sustained entanglement), noting only the first two meet basic adequacy standards. Added psychophysical-coupling-mechanisms as first entry in Further Reading.
+- **Output**: concepts/mental-causation.md
+
+### ✓ 2026-01-23: Cross-review stapp-quantum-mind.md considering psychophysical coupling mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/psychophysical-coupling-mechanisms.md provides systematic treatment of five candidate coupling mechanisms (attention, intention, valence, qualia, unity) with Stapp's quantum Zeno mechanism as the most developed. The stapp-quantum-mind.md concept page should be reviewed to: (1) add cross-link to psychophysical-coupling-mechanisms, (2) note how Stapp's attention mechanism is the only one with developed testable predictions, (3) integrate the decoherence objection and post-decoherence selection response from the new article.
+- **Result**: Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) to frontmatter concepts (first position). Added new "Comparative Standing" subsection under "The Core Mechanism" explaining: (1) Stapp's model is the most developed among five candidate coupling mechanisms, (2) only Stapp's mechanism satisfies all three criteria for scientific adequacy (precision, mechanism, falsifiability), (3) Eccles' intention mechanism provides moderate specification but faces the pairing problem, (4) remaining mechanisms (valence, qualia, unity) are underspecified. Integrated post-decoherence selection response into the decoherence objection section—consciousness could bias outcome selection *after* decoherence. Added psychophysical-coupling-mechanisms as first entry in Further Reading.
+- **Output**: concepts/stapp-quantum-mind.md
+
+### ✓ 2026-01-23: Cross-review phenomenology.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article concepts/intersubjectivity.md explains how phenomenological findings can be validated intersubjectively without reducing to third-person description. The phenomenology.md concept page should be reviewed to: (1) add cross-link to intersubjectivity, (2) note how Husserl's analysis of intersubjectivity grounds phenomenological method—if phenomenology were purely private it couldn't be shared or validated, (3) distinguish phenomenology's approach to intersubjectivity from heterophenomenology's third-person stance.
+- **Result**: Added [intersubjectivity](/concepts/intersubjectivity/) to frontmatter concepts (first position). Added new "Intersubjective Validation" section after the reliability objection, explaining: (1) how Husserl's analysis of intersubjectivity grounds phenomenological method—phenomenological findings can be shared and validated because consciousness is inherently intersubjective, (2) intersubjective convergence across independent phenomenological traditions as evidence for genuine structure, (3) crucial distinction between phenomenology's approach (shared subjectivity preserving first-person character) and heterophenomenology's third-person stance (eliminating subjectivity by treating reports as behavioral data). Added intersubjectivity as first entry in Further Reading.
+- **Output**: concepts/phenomenology.md
 
 ### ✓ 2026-01-23: Cross-review stapp-quantum-mind.md considering voluntary-attention-control insights
 - **Type**: cross-review
