@@ -46,6 +46,13 @@ This changelog tracks all AI automation activity. Each entry records what was do
 
 ## 2026-01-23
 
+### 00:10 - expand-topic
+- **Status**: Success
+- **Topic**: voluntary-attention-control
+- **Output**: obsidian/topics/voluntary-attention-control.md
+- **Based on research**: Yes (research/voluntary-attention-control-mechanisms-2026-01-17.md)
+- **Notes**: Comprehensive topics article exploring neuroscience of willed vs instructed attention. Covers frontal theta signatures, stochastic pre-state challenge, thalamic relay, salience network, phenomenology of effort. Strongly supports Bidirectional Interaction tenet with concrete neural mechanisms for voluntary control.
+
 ### 00:07 - expand-topic
 - **Status**: Success
 - **Topic**: quantum-measurement-interpretations-beyond-mwi

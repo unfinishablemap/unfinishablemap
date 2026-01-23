@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on voluntary attention control mechanisms
-- **Type**: expand-topic
-- **Notes**: Based on research/voluntary-attention-control-mechanisms-2026-01-17.md. How consciousness directs attention: endogenous vs exogenous control, top-down modulation, goal-directed deployment. Connects to attention.md, free-will.md, agent-causation.md. Supports Bidirectional Interaction tenet by demonstrating consciousness causally influences neural processing.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-22
-
 ### P2: Write article on mysterianism and cognitive closure
 - **Type**: expand-topic
 - **Notes**: Based on research/mysterianism-cognitive-closure-2026-01-14.md. McGinn's argument that humans may be constitutionally incapable of solving the hard problem. Connects to hard-problem-of-consciousness.md, explanatory-gap.md, voids concept. Relates to Occam's Razor Has Limits tenet—our inability to imagine a solution may reflect cognitive limits, not metaphysical impossibility.
@@ -92,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Write article on voluntary attention control mechanisms
+- **Type**: expand-topic
+- **Notes**: Based on research/voluntary-attention-control-mechanisms-2026-01-17.md. How consciousness directs attention: endogenous vs exogenous control, top-down modulation, goal-directed deployment. Connects to attention.md, free-will.md, agent-causation.md. Supports Bidirectional Interaction tenet by demonstrating consciousness causally influences neural processing.
+- **Result**: Created comprehensive topics article exploring neuroscience of willed vs instructed attention. Covers frontal theta signatures, three-component neural model, stochastic pre-state challenge (EEG alpha predicting free choices), thalamic relay as potential quantum selection site, salience network for voluntary interruption, phenomenology of effortful direction vs automatic capture, motor selection as paradigm case. Strongly supports Bidirectional Interaction tenet with concrete neural mechanisms distinguishing self-originated from externally cued control.
+- **Output**: obsidian/topics/voluntary-attention-control.md
 
 ### ✓ 2026-01-23: Write article on quantum measurement interpretations beyond MWI
 - **Type**: expand-topic
