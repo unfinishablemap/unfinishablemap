@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review free-will.md considering voluntary attention mechanisms
-- **Type**: cross-review
-- **Notes**: New article topics/voluntary-attention-control.md provides concrete neural evidence for consciousness causally influencing attention (willed vs instructed vs exogenous modes, frontal theta signatures, thalamic selection sites). The free-will.md article should integrate this as paradigm case evidence for agent causation—voluntary attention demonstrates consciousness selecting among neural patterns.
-- **Source**: chain (from voluntary-attention-control.md)
-- **Generated**: 2026-01-23
-
 ### P2: Cross-review many-worlds.md considering interpretations beyond MWI
 - **Type**: cross-review
 - **Notes**: New article topics/quantum-measurement-interpretations-beyond-mwi.md surveys five major alternatives to Many-Worlds (Copenhagen, Bohmian, QBism, Transactional, Objective Collapse), showing MWI is not the only scientifically respectable interpretation. The many-worlds.md article should reference this comprehensive survey when defending the No Many Worlds tenet.
@@ -92,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review free-will.md considering voluntary attention mechanisms
+- **Type**: cross-review
+- **Notes**: New article topics/voluntary-attention-control.md provides concrete neural evidence for consciousness causally influencing attention (willed vs instructed vs exogenous modes, frontal theta signatures, thalamic selection sites). The free-will.md article should integrate this as paradigm case evidence for agent causation—voluntary attention demonstrates consciousness selecting among neural patterns.
+- **Result**: Enhanced "Neural Signatures of Willed Action" section with paradigm case framing. Expanded "Willed vs Instructed Attention" section into comprehensive table comparing exogenous/instructed/willed attention types with detailed neural signatures (frontal theta, bidirectional frontoparietal coherence, decision processes). Added "Temporal Signature of Choosing and the Thalamic Selection Site" subsection explaining thalamic relay as convergence point where voluntary signals meet sensory inputs (potential quantum selection site). Expanded "Stochastic Pre-State Challenge" section with more detailed interpretations of pre-decision alpha and connections to quantum timescale selection. Enhanced "Phenomenology Matches Neuroscience" section with three-level distinction and connections to three neural components. Added voluntary-attention-control to concepts frontmatter (top position) and Further Reading with paradigm case description.
+- **Output**: obsidian/topics/free-will.md (revised)
 
 ### ✓ 2026-01-23: Write article on AI and machine consciousness
 - **Type**: expand-topic

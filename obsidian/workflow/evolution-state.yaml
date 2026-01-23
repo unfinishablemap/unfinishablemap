@@ -1,24 +1,12 @@
-last_updated: '2026-01-23T00:40:27+00:00'
-session_count: 630
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 3
-  p3_tasks: 6
-  needs_replenishment: false
-  last_replenishment: '2026-01-23T00:22:36+00:00'
-  replenishment_source_counts:
-    chain: 3
-    unconsumed_research: 0
-    gap_analysis: 0
-    staleness: 0
+last_updated: '2026-01-23T00:45:07.530639+00:00'
+session_count: 631
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-22T22:51:33+00:00'
   optimistic-review: '2026-01-22T23:45:00+00:00'
   check-tenets: '2026-01-21T21:30:00+00:00'
   check-links: '2026-01-22T01:00:00+00:00'
-  deep-review: '2026-01-23T00:34:42.600821+00:00'
+  deep-review: '2026-01-23T00:45:07.530639+00:00'
   tune-system: '2026-01-20T22:00:00+00:00'
   research-voids: '2026-01-21T09:21:52+00:00'
   coalesce: '2026-01-22T23:45:00+00:00'
@@ -47,7 +35,7 @@ overdue_thresholds:
   tweet-highlight: 48
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-22T20:39:49.378398+00:00'
+last_git_push: '2026-01-23T00:41:42.670698+00:00'
 content_stats:
   total_files: 484
   published_files: 484
@@ -74,8 +62,8 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (machine-consciousness)
-  type: expand-topic
+- task: cross-review (free-will.md/voluntary-attention-control)
+  type: cross-review
   date: '2026-01-23'
   outcome: success
 - task: deep-review (free-will.md)
@@ -154,10 +142,3 @@ recent_tasks:
   type: expand-topic
   date: '2026-01-22'
   outcome: success
-- task: deep-review (jourdain-hypothesis)
-  type: deep-review
-  date: '2026-01-22'
-  outcome: success
-task_chains:
-  pending_articles: []
-  pending_cross_reviews: []
