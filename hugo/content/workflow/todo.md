@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 16:30:00+00:00
+ai_modified: 2026-01-23 16:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review objectivity-and-consciousness.md considering intersubjectivity article
-- **Type**: cross-review
-- **Notes**: New article concepts/intersubjectivity.md defines the shared space between minds and how phenomenology can be validated intersubjectively. The objectivity-and-consciousness.md concept page references [intersubjectivity](/concepts/intersubjectivity/) in its Further Reading but the link was broken. Should be reviewed to: (1) verify link now works, (2) integrate distinction between objectivity (view from nowhere) and intersubjectivity (shared subjectivity), (3) note that objectivity may emerge from intersubjective agreement.
-- **Source**: chain (from intersubjectivity.md)
-- **Generated**: 2026-01-23
 
 ### P2: Cross-review first-person-third-person-methodology.md considering intersubjectivity article
 - **Type**: cross-review
@@ -100,6 +94,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review objectivity-and-consciousness.md considering intersubjectivity article
+- **Type**: cross-review
+- **Notes**: New article concepts/intersubjectivity.md defines the shared space between minds and how phenomenology can be validated intersubjectively. The objectivity-and-consciousness.md concept page references [intersubjectivity](/concepts/intersubjectivity/) in its Further Reading but the link was broken. Should be reviewed to: (1) verify link now works, (2) integrate distinction between objectivity (view from nowhere) and intersubjectivity (shared subjectivity), (3) note that objectivity may emerge from intersubjective agreement.
+- **Result**: Added new "Objectivity Versus Intersubjectivity" section after "The View From Nowhere" explaining: (1) how intersubjectivity retains perspective while finding convergence, unlike objectivity which eliminates perspective, (2) Husserl's analysis that objectivity is grounded in intersubjectivity—the objective world emerges from convergent perspectives, (3) the methodological implication that intersubjective methods might access phenomenal consciousness where objective methods fail. Moved intersubjectivity to first position in Further Reading with updated description.
+- **Output**: concepts/objectivity-and-consciousness.md
 
 ### ✓ 2026-01-23: Create concept page for intersubjectivity
 - **Type**: expand-topic
