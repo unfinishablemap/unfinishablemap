@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[personal-identity]]"
 concepts:
-  - "[[voluntary-attention-control]]"
+  - "[[voluntary-attention]]"
   - "[[quantum-indeterminacy-free-will]]"
   - "[[retrocausality]]"
   - "[[qualia]]"
@@ -559,7 +559,7 @@ Free will stands at the intersection of all five tenets:
 
 ## Further Reading
 
-- [[voluntary-attention-control]] — Paradigm case evidence: willed attention demonstrates consciousness causally selecting among neural patterns
+- [[voluntary-attention]] — Paradigm case evidence: willed attention demonstrates consciousness causally selecting among neural patterns
 - [[quantum-indeterminacy-free-will]] — Comprehensive systematization of how quantum indeterminacy supports libertarian free will through consciousness-selected outcomes
 - [[consciousness-and-creativity]] — How consciousness both generates and selects possibilities, strengthening the case for genuine agency
 - [[mental-causation]] — Why mental causation is essential for free will and how the quantum framework addresses Kim's exclusion argument

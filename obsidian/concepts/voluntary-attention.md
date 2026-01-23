@@ -1,9 +1,9 @@
 ---
 title: "Voluntary Attention"
 created: 2026-01-19
-modified: 2026-01-19
+modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-21T01:30:00+00:00
+ai_modified: 2026-01-23T16:30:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -23,6 +23,8 @@ concepts:
   - "[[haecceity]]"
   - "[[decoherence]]"
   - "[[mental-causation]]"
+  - "[[stapp-quantum-mind]]"
+  - "[[phenomenology-of-choice]]"
 related_articles:
   - "[[tenets]]"
   - "[[voluntary-attention-control-mechanisms-2026-01-17]]"
@@ -33,6 +35,8 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
 last_deep_review: 2026-01-21T01:30:00+00:00
+coalesced_from:
+  - "/topics/voluntary-attention-control/"
 ---
 
 Voluntary attention is the capacity to direct attention by internal decision rather than external cue. When you choose to focus on a difficult text despite surrounding distractions, you exercise voluntary attention. This capacity matters philosophically because it may be where consciousness does genuine causal work—the interface through which mind influences brain states. Recent neuroscience distinguishes voluntary attention from both automatic attention capture and mere top-down guidance, identifying neural signatures unique to genuinely willed attentional shifts.
@@ -97,11 +101,17 @@ The additional engagement suggests willed attention requires more than the stand
 
 ## Candidate Neural Sites
 
-If voluntary attention is where consciousness interfaces with brain states, where specifically might this occur?
+If voluntary attention is where consciousness interfaces with brain states, where specifically might this occur? Three large-scale brain networks implement attention control:
+
+| Network | Regions | Function |
+|---------|---------|----------|
+| **Dorsal attention** | IPS, FEF, superior parietal | Voluntary spatial attention, goal-directed selection |
+| **Ventral attention** | TPJ, VFC | Bottom-up capture, reorienting to salient stimuli |
+| **Salience network** | Anterior insula, ACC | Detecting salient events, switching between networks |
 
 ### Frontoparietal Attention Networks
 
-The dorsal attention network (bilateral parietal cortex, frontal eye fields, intraparietal sulcus) controls voluntary spatial attention. The network determines where attention is directed and maintains focus once directed.
+The dorsal attention network (bilateral parietal cortex, frontal eye fields, intraparietal sulcus) controls voluntary spatial attention. The network determines where attention is directed and maintains focus once directed. The ventral attention network handles exogenous capture: temporoparietal junction (TPJ) and ventral frontal cortex (VFC) respond to unexpected salient stimuli.
 
 But the 2025 COGITATE adversarial testing found conscious content tracked better by posterior cortex than by prefrontal regions. This suggests that attention networks (frontoparietal) may be distinct from consciousness networks (posterior "hot zone"). The interface might be where these systems meet—where frontoparietal control mechanisms interact with posterior content systems.
 
@@ -170,6 +180,16 @@ The [[attention-as-interface#Why Attention Specifically?|attention-as-interface 
 | Release | Can be withdrawn at will | Cessation of freezing |
 
 Perception is receptive—it receives what's present—rather than actively maintaining states. Memory retrieval is discrete, not continuous. Attention is the psychological process that *holds* content active over time, which is precisely what Zeno freezing requires. This temporal fit is part of why the Map's framework identifies attention as the privileged interface, not merely one interface among many.
+
+## Motor Selection as Paradigm Case
+
+[[motor-selection|Motor selection]] provides a concrete example of voluntary attention control in action. When multiple motor options compete (reaching left versus right, speaking versus remaining silent), consciousness selects among them through sustained attention to one pattern over its competitors.
+
+The 300ms decision window before voluntary movement—during which frontal theta increases and frontal-parietal coherence strengthens—represents the period when consciousness "gathers itself" to act. Attention to the selected motor pattern holds it through quantum Zeno processes while suppressing competitors.
+
+The basal ganglia "brake-release" architecture provides the interface: tonic inhibition keeps motor patterns suppressed until frontal executive signals release specific patterns for execution. The release decision—which pattern to disinhibit—may be where consciousness operates through attention-mediated quantum selection.
+
+Crucially, the Desmurget double dissociation shows that intention phenomenology is separable from motor execution: stimulating parietal cortex produces movements without intention ("my arm moved"), while stimulating premotor cortex produces intention without movement ("I wanted to move but didn't"). This supports the view that phenomenal intention is not epiphenomenal but causally upstream of motor execution.
 
 ## Relation to Site Perspective
 

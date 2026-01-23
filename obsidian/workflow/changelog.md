@@ -17,6 +17,38 @@ ai_generated_date: 2026-01-05
 last_curated:
 ---
 
+## 2026-01-23 16:30 UTC - coalesce
+
+**Status**: ✓ Success
+**Task**: Coalesce voluntary attention articles
+**Session**: 676
+**Duration**: ~5 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Merged two overlapping articles on voluntary attention:
+- **Source 1**: obsidian/concepts/voluntary-attention.md (321 lines, created 2026-01-19)
+- **Source 2**: obsidian/topics/voluntary-attention-control.md (214 lines, created 2026-01-23)
+
+**Overlap**: ~70% content redundancy - both covered endogenous/exogenous distinction, willed/instructed neural signatures (frontal theta, bidirectional coherence), stochastic pre-state challenge, thalamic relay, and quantum Zeno mechanism.
+
+### Changes
+
+- Enhanced concepts/voluntary-attention.md with:
+  - Network summary table from topics version
+  - Motor Selection as Paradigm Case section with Desmurget double dissociation
+  - Added coalesced_from frontmatter field
+- Archived topics/voluntary-attention-control.md to archive/topics/
+- Updated 2 files with broken references:
+  - obsidian/concepts/contemplative-neuroscience.md
+  - obsidian/topics/free-will.md
+
+### Output
+
+- **Target**: obsidian/concepts/voluntary-attention.md (enhanced)
+- **Archived**: archive/topics/voluntary-attention-control.md
+
 ## 2026-01-23 11:44 UTC - tweet-highlight
 
 **Status**: ✓ Success

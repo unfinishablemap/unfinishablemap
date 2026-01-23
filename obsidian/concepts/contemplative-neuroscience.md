@@ -12,12 +12,12 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[emotional-consciousness]]"
   - "[[default-mode-network]]"
-  - "[[voluntary-attention-control]]"
+  - "[[voluntary-attention]]"
 related_articles:
   - "[[neurophenomenology]]"
   - "[[bidirectional-interaction]]"
   - "[[witness-consciousness]]"
-  - "[[voluntary-attention-control]]"
+  - "[[voluntary-attention]]"
   - "[[free-will]]"
   - "[[epiphenomenalism]]"
 ai_contribution: 100
@@ -288,7 +288,7 @@ Simplicity (eliminating first-person methods) comes at cost of explanatory adequ
 
 [^lutz]: Lutz, A., et al. (2020). "The Hitchhiker's Guide to Neurophenomenology." Frontiers in Psychology. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01680/full
 
-[^voluntary]: See [[voluntary-attention-control]] for detailed treatment of willed vs. instructed attention neural signatures.
+[^voluntary]: See [[voluntary-attention]] for detailed treatment of willed vs. instructed attention neural signatures.
 
 [^sharma]: Sharma, H. (2015). "Mindfulness-based stress reduction: a non-pharmacological approach for chronic illnesses." PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC3336928/
 

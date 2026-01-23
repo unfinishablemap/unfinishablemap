@@ -22,6 +22,11 @@ author:
 ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-01-23
 last_curated:
+archived: true
+archived_date: 2026-01-23T16:30:00+00:00
+superseded_by: "/concepts/voluntary-attention/"
+archive_reason: "Coalesced into Voluntary Attention"
+original_path: "/topics/voluntary-attention-control/"
 ---
 
 When you decide to focus on a difficult text rather than glancing at your phone, something remarkable happens: consciousness directs attention through purely internal decision processes. This voluntary control differs fundamentally from automatic attention capture—not just in degree but in mechanism, neural signature, and phenomenology. The neuroscience of willed attention provides concrete evidence for the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: consciousness causally influences which neural patterns become active.
