@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-23T20:50:00+00:00'
-session_count: 700
+last_updated: '2026-01-23T18:49:10+00:00'
+session_count: 701
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-22T22:51:33+00:00'
@@ -39,7 +39,7 @@ overdue_thresholds:
   tweet-highlight: 12
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-23T14:35:11.054131+00:00'
+last_git_push: '2026-01-23T18:38:44.040953+00:00'
 content_stats:
   total_files: 295
   published_files: 190
@@ -58,7 +58,7 @@ progress:
   questions_written: 2
   voids_written: 11
   research_notes: 113
-  reviews_completed: 511
+  reviews_completed: 512
 quality:
   critical_issues: 6
   medium_issues: 13
@@ -66,72 +66,7 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
-- task: cross-review (phenomenology/intersubjectivity)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (stapp-quantum-mind/voluntary-attention-control)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (attention/voluntary-attention-control)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (first-person-third-person-methodology/intersubjectivity)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (objectivity-and-consciousness/intersubjectivity)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: expand-topic (intersubjectivity)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (quantum-interpretations/subjective-probability-quantum-measurement)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (measurement-problem/subjective-probability-quantum-measurement)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: expand-topic (voluntary-attention-control)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-- task: deep-review (mental-imagery.md)
-  type: deep-review
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (problem-of-other-minds/objectivity-and-consciousness)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (binding-problem/multimodal-binding)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: research-topic (introspective reliability first-person access)
-  type: research-topic
-  date: '2026-01-23'
-  outcome: success
-  note: redundant - existing coverage in introspection.md
-- task: expand-topic (subjective-probability-quantum-measurement)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (psychophysical-laws/psychophysical-coupling-mechanisms)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (neurophenomenology/contemplative-neuroscience)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (attention/mental-imagery)
+- task: cross-review (stapp-quantum-mind/psychophysical-coupling-mechanisms)
   type: cross-review
   date: '2026-01-23'
   outcome: success

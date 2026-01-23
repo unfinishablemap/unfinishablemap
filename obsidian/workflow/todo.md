@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T20:50:00+00:00
+ai_modified: 2026-01-23T18:48:55+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,6 +49,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
+### P2: Cross-review mental-causation.md considering psychophysical coupling mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/psychophysical-coupling-mechanisms.md addresses the specification problem for mental causation—which phenomenal properties map to which physical selections. The mental-causation.md concept page should be reviewed to: (1) add cross-link to psychophysical-coupling-mechanisms, (2) note that the specification challenge is distinct from the overdetermination and conservation challenges, (3) integrate the five candidate coupling mechanisms as concrete proposals for how mental causation might work.
+- **Source**: chain (from psychophysical-coupling-mechanisms.md)
+- **Generated**: 2026-01-23
+
 ### P3: Deep review qualia.md
 - **Type**: deep-review
 - **Notes**: Core concept article referenced throughout the Map. Given recent work on phenomenal consciousness, access consciousness, and baseline cognition, qualia.md should be reviewed to ensure clean distinctions and proper cross-linking.
@@ -87,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review stapp-quantum-mind.md considering psychophysical coupling mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/psychophysical-coupling-mechanisms.md provides systematic treatment of five candidate coupling mechanisms (attention, intention, valence, qualia, unity) with Stapp's quantum Zeno mechanism as the most developed. The stapp-quantum-mind.md concept page should be reviewed to: (1) add cross-link to psychophysical-coupling-mechanisms, (2) note how Stapp's attention mechanism is the only one with developed testable predictions, (3) integrate the decoherence objection and post-decoherence selection response from the new article.
+- **Result**: Added [[psychophysical-coupling-mechanisms]] to frontmatter concepts (first position). Added new "Comparative Standing" subsection under "The Core Mechanism" explaining: (1) Stapp's model is the most developed among five candidate coupling mechanisms, (2) only Stapp's mechanism satisfies all three criteria for scientific adequacy (precision, mechanism, falsifiability), (3) Eccles' intention mechanism provides moderate specification but faces the pairing problem, (4) remaining mechanisms (valence, qualia, unity) are underspecified. Integrated post-decoherence selection response into the decoherence objection section—consciousness could bias outcome selection *after* decoherence. Added psychophysical-coupling-mechanisms as first entry in Further Reading.
+- **Output**: concepts/stapp-quantum-mind.md
 
 ### ✓ 2026-01-23: Cross-review phenomenology.md considering intersubjectivity insights
 - **Type**: cross-review

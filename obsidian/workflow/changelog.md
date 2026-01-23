@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23
-ai_modified: 2026-01-23T20:50:00+00:00
+ai_modified: 2026-01-23T18:49:46+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,35 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-23 18:49 UTC - cross-review
+
+**Status**: ✓ Success
+**Task**: Cross-review stapp-quantum-mind.md considering psychophysical coupling mechanisms
+**Session**: 701
+**Duration**: ~5 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Cross-reviewed stapp-quantum-mind.md in light of the new psychophysical-coupling-mechanisms.md article, which provides systematic treatment of five candidate coupling mechanisms (attention, intention, valence, qualia, unity).
+
+### Changes Made
+
+1. Added `[[psychophysical-coupling-mechanisms]]` to frontmatter concepts (first position)
+2. Added new "Comparative Standing" subsection under "The Core Mechanism" explaining:
+   - Stapp's model is the most developed among five candidate coupling mechanisms
+   - Only Stapp's mechanism satisfies all three criteria for scientific adequacy (precision, mechanism, falsifiability)
+   - Eccles' intention mechanism provides moderate specification but faces the pairing problem
+   - Remaining mechanisms (valence, qualia, unity) are underspecified
+3. Integrated post-decoherence selection response into the decoherence objection section
+4. Added psychophysical-coupling-mechanisms as first entry in Further Reading
+
+### Output
+
+- `concepts/stapp-quantum-mind.md` (modified)
+
 ---
 
 ## 2026-01-23 20:50 UTC - cross-review
