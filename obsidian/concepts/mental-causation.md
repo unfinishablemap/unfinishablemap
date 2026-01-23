@@ -3,12 +3,13 @@ title: "Mental Causation"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-23T07:30:00+00:00
+ai_modified: 2026-01-23T19:15:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
 concepts:
+  - "[[psychophysical-coupling-mechanisms]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
   - "[[epiphenomenalism]]"
@@ -124,6 +125,26 @@ The main physics-based objection: warm neural tissue decoheres quantum superposi
 
 Consciousness could bias outcomes at the point of measurement even after decoherence has occurred. The quantum opening remains open.
 
+### The Specification Challenge
+
+Even granting that quantum indeterminacy provides an opening for mental causation, a further challenge remains: *which* phenomenal properties map to *which* physical selections? This specification problem is distinct from overdetermination (whether mental causes compete with physical causes) and conservation (whether mental causation violates energy conservation). Specification asks: if consciousness biases quantum outcomes, how does it do so systematically?
+
+The [[psychophysical-coupling-mechanisms]] article surveys five candidate mechanisms:
+
+1. **Attention → observation rate** (Stapp): Sustained attention increases quantum measurement frequency, "freezing" neural patterns via the quantum Zeno effect. This is the most developed proposal with testable predictions—meditation training, willed vs. instructed attention differences.
+
+2. **Intention → probability weighting** (Eccles): Mental intention modulates vesicle release probabilities via quantum tunneling. Moderately developed but faces the pairing problem.
+
+3. **Valence → action selection**: Phenomenal pleasure/pain influences approach/avoidance. Evidence from pain asymbolia supports the causal role of felt badness, but no quantum mechanism has been proposed.
+
+4. **Qualia → basis selection**: Qualitative character might determine which measurement basis applies. Purely speculative.
+
+5. **Unity → sustained entanglement**: Phenomenal binding might correspond to sustained quantum coherence. Kerskens-Pérez found correlation with conscious states, but correlation doesn't establish causation.
+
+Only the first two mechanisms meet basic adequacy standards—specifying which phenomenal property affects which physical parameter through what mechanism. The others identify plausible coupling relationships but lack developed accounts of how the coupling works.
+
+Without such specification, mental causation risks unfalsifiability. The challenge is developing testable proposals that connect phenomenal properties to physical parameters with enough precision to generate predictions. Stapp's attention mechanism comes closest, predicting measurable differences between willed and instructed attention and documented effects of mindfulness training on neural plasticity.
+
 ### Why Not Many Worlds?
 
 If all quantum outcomes occur in branching universes, there's no "selection" for consciousness to perform—every possibility actualizes somewhere. The Map's [[many-worlds|rejection of Many-Worlds]] is therefore essential to mental causation. On MWI, consciousness would be epiphenomenal with respect to quantum events: it couldn't affect which outcomes occur because all outcomes occur.
@@ -217,6 +238,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 
 ## Further Reading
 
+- [[psychophysical-coupling-mechanisms]] — Five candidate mechanisms specifying how mental causation might work at the neural interface
 - [[bidirectional-interaction]] — The Map's foundational commitment to consciousness causally influencing the physical world
 - [[illusionism]] — The radical challenge that denies phenomenal consciousness exists
 - [[many-worlds]] — Why the Map rejects MWI (and why it matters for mental causation)
