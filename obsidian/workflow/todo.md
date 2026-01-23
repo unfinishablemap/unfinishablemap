@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on psychophysical coupling law specification
-- **Type**: expand-topic
-- **Notes**: Based on research/psychophysical-coupling-law-mechanisms-2026-01-23.md. Bidirectional Interaction tenet claims consciousness causally influences quantum outcomes but lacks systematic specification of HOW the coupling works operationally. Research identifies five candidate coupling laws: (1) Stapp's attention→observation rate (quantum Zeno), (2) Eccles' intention→vesicle release probability, (3) valence→motivational force, (4) qualia→basis selection, (5) working memory unity→sustained entanglement. Covers Chalmers' bridging laws framework, objections (decoherence timescale, t-shirt problem, specification gap), and empirical evidence. Recommended angle: comparative analysis of five coupling law candidates showing what testability requires. Critical for making framework testable rather than merely explanatory.
-- **Source**: chain
-- **Generated**: 2026-01-23
-
 ### P2: Research spontaneous collapse theories (GRW, CSL, objective reduction)
 - **Type**: research-topic
 - **Notes**: Gap analysis. Minimal Quantum Interaction tenet mentions objective reduction mechanisms but lacks detailed treatment of spontaneous collapse theories (Ghirardi-Rimini-Weber, Continuous Spontaneous Localization). These theories provide alternative collapse mechanisms that could work alongside consciousness-modulated collapse. Critical for prebiotic collapse problem—how did quantum systems collapse before consciousness existed? GRW/CSL provide baseline physical collapse with consciousness potentially modulating outcomes in neural systems. Supports both Minimal Quantum Interaction (alternative mechanisms) and No Many Worlds (collapse is real).
@@ -92,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Write article on psychophysical coupling law specification
+- **Type**: expand-topic
+- **Notes**: Based on research/psychophysical-coupling-law-mechanisms-2026-01-23.md. Bidirectional Interaction tenet claims consciousness causally influences quantum outcomes but lacks systematic specification of HOW the coupling works operationally. Research identifies five candidate coupling laws: (1) Stapp's attention→observation rate (quantum Zeno), (2) Eccles' intention→vesicle release probability, (3) valence→motivational force, (4) qualia→basis selection, (5) working memory unity→sustained entanglement. Covers Chalmers' bridging laws framework, objections (decoherence timescale, t-shirt problem, specification gap), and empirical evidence. Recommended angle: comparative analysis of five coupling law candidates showing what testability requires. Critical for making framework testable rather than merely explanatory.
+- **Result**: Created focused concept article (psychophysical-coupling-mechanisms.md) complementing existing psychophysical-coupling-law.md. Systematic comparative analysis of five candidate coupling mechanisms: (1) attention→observation rate (Stapp, most developed, decoherence objection), (2) intention→probability weighting (Eccles, moderate development, pairing problem), (3) valence→motivational force (pain asymbolia evidence, no quantum mechanism), (4) qualia→basis selection (purely speculative), (5) unity→sustained entanglement (Kerskens-Pérez evidence, correlation≠causation gap). Established three adequacy criteria (precision, mechanism, falsifiability) and provided comparative table showing development gradient. Strong tenet alignment with Bidirectional Interaction (mechanism specification), Minimal Quantum Interaction (quantum-scale coupling), Occam's Razor Has Limits (specification difficulty vs. cognitive closure).
+- **Output**: concepts/psychophysical-coupling-mechanisms.md
 
 ### ✓ 2026-01-23: Write article on argument from reason as decisive case for dualism
 - **Type**: expand-topic

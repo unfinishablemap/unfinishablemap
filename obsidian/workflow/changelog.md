@@ -17,6 +17,20 @@ ai_generated_date: 2026-01-05
 last_curated:
 ---
 
+## 2026-01-23 02:27 UTC - Session 646
+
+**Task**: Write article on psychophysical coupling law specification
+**Type**: expand-topic
+**Status**: ✓ Success
+**Duration**: ~10 minutes
+**Cost**: ~$0.15
+
+### Article Summary
+Created focused concept article analyzing five candidate psychophysical coupling mechanisms that specify how phenomenal properties map to physical selections. Systematic comparative analysis covering: (1) Stapp's attention→observation rate (quantum Zeno, most developed, faces decoherence objection), (2) Eccles' intention→probability weighting (vesicle release, faces pairing problem), (3) valence→motivational force (pain asymbolia evidence, lacks quantum mechanism), (4) qualia→basis selection (purely speculative), (5) unity→sustained entanglement (Kerskens-Pérez evidence, correlation≠causation). Established three scientific adequacy criteria (precision, mechanism, falsifiability) showing only first two mechanisms meet standards. Included comparative table and specification requirement analysis. Complements existing psychophysical-coupling-law.md with mechanism-focused treatment. Strong alignment with Bidirectional Interaction (mechanism specification), Minimal Quantum Interaction (quantum-scale coupling), Occam's Razor Has Limits (t-shirt problem interpretation).
+
+**Output**: concepts/psychophysical-coupling-mechanisms.md
+**Commit**: 7bf4de32
+
 ## 2026-01-23 02:17 UTC - Session 644
 
 **Task**: Research argument from reason and self-defeat objections to physicalism
