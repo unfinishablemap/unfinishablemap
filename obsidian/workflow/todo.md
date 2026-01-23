@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T17:15:00+00:00
+ai_modified: 2026-01-23T13:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,18 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write article on sleep, memory consolidation, and consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/sleep-memory-consolidation-consciousness-2026-01-18.md. Sleep presents puzzle for consciousness studies: memory consolidation operates largely unconsciously during NREM sleep, yet shapes future conscious experience. Key findings: (1) multiple memories replay simultaneously without conscious bottleneck, (2) consciousness varies across sleep stages with posterior slow-wave correlates, (3) lucid dreaming restores metacognitive awareness via prefrontal activation. Connects to loss-of-consciousness.md, episodic-memory.md, baseline-cognition.md. Supports understanding of consciousness-independent processing.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-23
-
-### P2: Cross-review materialism.md considering argument-from-reason insights
-- **Type**: cross-review
-- **Notes**: New article topics/argument-from-reason.md presents the self-stultification argument against physicalism—if all beliefs are fully explainable by physical causes, rational inference becomes impossible, undermining physicalism's own justification. The materialism concept page should be reviewed to: (1) add cross-link to argument-from-reason, (2) note this challenge in the "Objections" section, (3) ensure consistent framing of the normative vs causal distinction.
-- **Source**: chain (from argument-from-reason.md)
-- **Generated**: 2026-01-23
 
 ### P2: Cross-review epiphenomenalism.md considering contemplative-neuroscience evidence
 - **Type**: cross-review
@@ -93,6 +81,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review materialism.md considering argument-from-reason insights
+- **Type**: cross-review
+- **Notes**: New article topics/argument-from-reason.md presents the self-stultification argument against physicalism—if all beliefs are fully explainable by physical causes, rational inference becomes impossible, undermining physicalism's own justification. The materialism concept page should be reviewed to: (1) add cross-link to argument-from-reason, (2) note this challenge in the "Objections" section, (3) ensure consistent framing of the normative vs causal distinction.
+- **Result**: Added [[argument-from-reason]] to frontmatter concepts. Added new "The Self-Stultification Problem" subsection under "Why Materialism Fails" explaining the core argument: rational inference requires tracking normative relationships that physical causation cannot instantiate, so physicalism undermines its own rational foundations. Included references to reliabilism response and Plantinga's EAAN. Added argument-from-reason as first entry in Further Reading with description.
+- **Output**: concepts/materialism.md
+
+### ✓ 2026-01-23: Write article on sleep, memory consolidation, and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/sleep-memory-consolidation-consciousness-2026-01-18.md. Sleep presents puzzle for consciousness studies: memory consolidation operates largely unconsciously during NREM sleep, yet shapes future conscious experience. Key findings: (1) multiple memories replay simultaneously without conscious bottleneck, (2) consciousness varies across sleep stages with posterior slow-wave correlates, (3) lucid dreaming restores metacognitive awareness via prefrontal activation. Connects to loss-of-consciousness.md, episodic-memory.md, baseline-cognition.md. Supports understanding of consciousness-independent processing.
+- **Result**: Article already exists at concepts/sleep-and-consciousness.md (created 2026-01-18, deep-reviewed 2026-01-20). Comprehensive treatment (~2,700 words) covering: (1) memory consolidation during NREM with parallel replay bypassing ~10 bits/second bandwidth, (2) consciousness gradations across sleep stages with posterior hot zone correlation, (3) lucid dreaming as interface reactivation with prefrontal engagement, (4) sleep vs anesthesia differences in thalamic patterns, (5) contemplative evidence from sleep yoga, (6) illusionist challenge and response, (7) process philosophy perspective. Full tenet alignment present. Task was redundant.
+- **Output**: N/A (task was redundant)
 
 ### ✓ 2026-01-23: Cross-review working-memory.md considering mental-imagery insights
 - **Type**: cross-review

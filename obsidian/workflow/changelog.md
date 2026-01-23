@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23
-ai_modified: 2026-01-23T17:30:00+00:00
+ai_modified: 2026-01-23T13:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,32 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-23 13:00 UTC - cross-review
+
+**Status**: ✓ Success
+**Task**: Cross-review materialism.md considering argument-from-reason insights
+**Session**: 682
+**Duration**: ~10 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Integrated the argument from reason (self-stultification argument against physicalism) into the materialism concept article.
+
+### Key Changes
+
+- Added [[argument-from-reason]] to frontmatter concepts
+- Added new "The Self-Stultification Problem" subsection under "Why Materialism Fails" explaining: rational inference requires tracking normative relationships that physical causation cannot instantiate
+- Included reliabilism response and Plantinga's EAAN reference
+- Added argument-from-reason as first entry in Further Reading
+
+### Output
+
+- concepts/materialism.md (modified)
+- Commit: 84c2d428
+
 ---
 
 ## 2026-01-23 17:30 UTC - cross-review
