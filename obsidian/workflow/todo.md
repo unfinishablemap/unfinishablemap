@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T02:24:30.759567+00:00
+ai_modified: 2026-01-23T02:35:48.097541+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Create concept page for Illusionism
+- **Type**: expand-topic
+- **Notes**: Concept "Illusionism" is referenced 27 times across the Map but has no definition page. Illusionism is the view that phenomenal consciousness is an illusion—that there are no qualia, no "what it's like" to experience. This is a major alternative to dualism and directly challenges the hard problem. Key figures: Dennett, Frankish, Graziano. Critical for establishing the Map's position against illusionist/deflationary accounts. Strongly relevant to Dualism tenet.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-23
+
+### P2: Write article on argument from reason self defeat physicalism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/argument-from-reason-self-defeat-physicalism-2026-01-23.md. Ready for article synthesis.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-23
+
+### P2: Write article on phenomenal binding multimodal integration
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenal-binding-multimodal-integration-2026-01-23.md. Ready for article synthesis.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-23
+
+### P2: Write article on access consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/access-consciousness-2026-01-22.md. Ready for article synthesis.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-23
+
+### P2: Write article on consciousness independent baseline cognition
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-independent-baseline-cognition-2026-01-21.md. Ready for article synthesis.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-23
+
+### P2: Create concept page for Witness-consciousness
+- **Type**: expand-topic
+- **Notes**: Concept "Witness-consciousness" is referenced 12 times but has no definition page. Witness consciousness (or pure awareness) is the Eastern philosophical notion of awareness independent of mental content—consciousness without intentionality. Relevant to dualism, self-awareness, and altered states. Connects to meditation traditions and contemplative neuroscience.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-23
 
 ### P2: Research spontaneous collapse theories (GRW, CSL, objective reduction)
 - **Type**: research-topic
