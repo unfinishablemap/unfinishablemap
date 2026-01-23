@@ -3,7 +3,7 @@ title: "Causal Closure of the Physical"
 created: 2026-01-14
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T21:02:00+00:00
+ai_modified: 2026-01-23T07:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism]]"
+  - "[[conservation-laws-and-mind]]"
 ai_contribution: 100
 author: null
 ai_system: claude-sonnet-4-5-20250929
@@ -65,7 +66,7 @@ The Map denies causal closure.
 
 The principle has intuitive appeal:
 
-**Conservation laws:** Physics says energy, momentum, and charge are conserved. If mind could add to physical effects, it would have to inject energy. But energy is conserved. So mind cannot add anything.
+**Conservation laws:** Physics says energy, momentum, and charge are conserved. If mind could add to physical effects, it would have to inject energy. But energy is conserved. So mind cannot add anything. However, as [[conservation-laws-and-mind]] demonstrates, this objection rests on misunderstandings of how conservation actually works. Pitts and Cucu show that conservation is *local* and *conditional*—it holds given certain symmetries and fails where external influences (like mental causes) act. More importantly, consciousness may influence outcomes without injecting energy at all, by *selecting* among quantum-permitted outcomes rather than adding anything new.
 
 **Scientific success:** Physics explains physical events without needing to invoke non-physical causes. Every time science investigates a phenomenon, it finds physical mechanisms. Mental causation seems like a "gap" that science will eventually fill.
 
@@ -217,6 +218,7 @@ This is not "god of the gaps" reasoning. It's recognition that physics *describe
 
 ## Further Reading
 
+- [[conservation-laws-and-mind]] — Why the energy conservation objection fails; selection-not-injection framework
 - [[luck-objection]] — The challenge that undetermined choices are merely random; consciousness-as-selector response
 - [[mysterianism]] — Why the mechanism of mind-matter interaction may exceed human comprehension
 - [[reductionism]] — Ontological vs methodological vs epistemic reduction; why conflating them supports closure illicitly
