@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 02:46:00+00:00
+ai_modified: 2026-01-23 02:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,19 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-23 02:56 UTC - expand-topic
+
+**Status**: ✓ Success
+**Topic**: Consciousness-independent baseline cognition
+**Output**: concepts/consciousness-independent-baseline-cognition.md
+**Based on research**: Yes - research/consciousness-independent-baseline-cognition-2026-01-21.md
+**Commit**: 6c389ab6
+
+### Article Summary
+Explores hypothesis that great ape cognition represents a baseline of what neurons can achieve without conscious contribution required for human intelligence. Key arguments: logical reasoning specifically requires conscious processing, counterfactual thinking needs conscious simulation, cumulative culture requires metarepresentation, working memory expansion (2±1 vs 7±2) correlates with consciousness expansion. Supports Bidirectional Interaction—if consciousness is causally required for these cognitive functions, then consciousness influences neural outcomes.
+
 ---
 
 ## 2026-01-23 02:49 UTC - research-voids

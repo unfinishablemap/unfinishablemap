@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on consciousness independent baseline cognition
-- **Type**: expand-topic
-- **Notes**: Research completed in research/consciousness-independent-baseline-cognition-2026-01-21.md. Ready for article synthesis.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-23
-
 ### P2: Create concept page for Witness-consciousness
 - **Type**: expand-topic
 - **Notes**: Concept "Witness-consciousness" is referenced 12 times but has no definition page. Witness consciousness (or pure awareness) is the Eastern philosophical notion of awareness independent of mental content—consciousness without intentionality. Relevant to dualism, self-awareness, and altered states. Connects to meditation traditions and contemplative neuroscience.
@@ -98,6 +92,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Write article on consciousness independent baseline cognition
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-independent-baseline-cognition-2026-01-21.md. Ready for article synthesis.
+- **Result**: Created comprehensive concept article exploring hypothesis that great ape cognition represents baseline of what neurons achieve without conscious contribution. Covers what baseline includes/cannot do, Bischof-Köhler hypothesis, dissociation evidence, correlation vs causation analysis. Strong support for Bidirectional Interaction tenet.
+- **Output**: concepts/consciousness-independent-baseline-cognition.md
 
 ### ✓ 2026-01-23: Write article on access consciousness
 - **Type**: expand-topic
