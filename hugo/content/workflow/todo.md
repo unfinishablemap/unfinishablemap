@@ -38,22 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review causal-closure.md considering conservation laws article
-- **Type**: cross-review
-- **Notes**: New article topics/conservation-laws-and-mind.md directly addresses the causal closure principle. The causal-closure concept page should be reviewed to: (1) add cross-link to conservation-laws-and-mind, (2) integrate the "selection not injection" response showing consciousness can influence outcomes without violating physical laws, (3) note that conservation is conditional not absolute per Pitts.
-- **Source**: chain (from conservation-laws-and-mind.md)
-- **Generated**: 2026-01-23
-
-### P2: Cross-review interactionist-dualism.md considering conservation laws article
-- **Type**: cross-review
-- **Notes**: New article topics/conservation-laws-and-mind.md addresses the conservation objection. The interactionist-dualism article is a foundational page that should reference the conservation laws response. Add cross-links and integrate the key insight that energy conservation is local/conditional, not a barrier to mental causation.
-- **Source**: chain (from conservation-laws-and-mind.md)
-- **Generated**: 2026-01-23
-
 ### P2: Cross-review objections-to-interactionism.md considering conservation laws article
 - **Type**: cross-review
 - **Notes**: New article topics/conservation-laws-and-mind.md addresses the energy conservation objection. The objections-to-interactionism page should be reviewed to: (1) add cross-link to conservation-laws-and-mind, (2) reference Pitts/Cucu on locality and conditionality, (3) integrate the "selection not injection" framework.
 - **Source**: chain (from conservation-laws-and-mind.md)
+- **Generated**: 2026-01-23
+
+### P2: Deep review quantum-consciousness.md
+- **Type**: deep-review
+- **Notes**: Core concept article (ai_contribution: 100) heavily referenced in tenets page and throughout the Map but has NEVER been deep-reviewed. Given recent work on spontaneous collapse theories, decoherence objection, and Stapp quantum mind, quantum-consciousness.md should be reviewed for accuracy, comprehensiveness, and proper cross-linking.
+- **Source**: staleness
+- **Generated**: 2026-01-23
+
+### P2: Research mental imagery and consciousness causal role
+- **Type**: research-topic
+- **Notes**: Gap analysis. Bidirectional Interaction tenet claims consciousness causally influences physical outcomes, but lacks coverage of mental imagery—how does consciousness generate and manipulate mental images that can guide behavior? Relevant to voluntary imagination, planning, creativity, and the phenomenology of visualizing. How do aphantasics (people without mental imagery) differ? Does mental imagery require consciousness? Connects to working-memory.md, attention.md, voluntary-attention-control.md.
+- **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
 ### P3: Write article on meditation observer phenomenon
@@ -94,6 +94,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review interactionist-dualism.md considering conservation laws article
+- **Type**: cross-review
+- **Notes**: New article topics/conservation-laws-and-mind.md addresses the conservation objection. The interactionist-dualism article is a foundational page that should reference the conservation laws response. Add cross-links and integrate the key insight that energy conservation is local/conditional, not a barrier to mental causation.
+- **Result**: Added [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) to related_articles frontmatter. Updated "The Historical Problem" section to reference Pitts/Cucu findings on conservation being local and conditional, linking to the full article. Updated objections table to reference the conservation-laws-and-mind article. Added conservation-laws-and-mind as first entry in Further Reading section.
+- **Output**: concepts/interactionist-dualism.md
+
+### ✓ 2026-01-23: Cross-review causal-closure.md considering conservation laws article
+- **Type**: cross-review
+- **Notes**: New article topics/conservation-laws-and-mind.md directly addresses the causal closure principle. The causal-closure concept page should be reviewed to: (1) add cross-link to conservation-laws-and-mind, (2) integrate the "selection not injection" response showing consciousness can influence outcomes without violating physical laws, (3) note that conservation is conditional not absolute per Pitts.
+- **Result**: Added [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) to related_articles frontmatter. Updated "Why Causal Closure Seems Plausible" section to reference Pitts/Cucu on conservation being local and conditional, and linked to the full article. Added conservation-laws-and-mind as first entry in Further Reading section.
+- **Output**: concepts/causal-closure.md
 
 ### ✓ 2026-01-23: Write article on conservation laws and mind-brain causation
 - **Type**: expand-topic

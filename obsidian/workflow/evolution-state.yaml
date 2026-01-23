@@ -1,5 +1,9 @@
-last_updated: '2026-01-23T07:58:00+00:00'
-session_count: 668
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by /evolve skill after each session
+
+last_updated: '2026-01-23T09:50:00+00:00'
+session_count: 669
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-22T22:51:33+00:00'
@@ -35,7 +39,7 @@ overdue_thresholds:
   tweet-highlight: 48
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-23T05:22:16.377678+00:00'
+last_git_push: '2026-01-23T09:22:48.218376+00:00'
 content_stats:
   total_files: 294
   published_files: 189
@@ -54,7 +58,7 @@ progress:
   questions_written: 2
   voids_written: 11
   research_notes: 111
-  reviews_completed: 493
+  reviews_completed: 494
 quality:
   critical_issues: 6
   medium_issues: 13
@@ -62,40 +66,8 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
-- task: cross-review (causal-closure/conservation-laws-and-mind)
+- task: cross-review (interactionist-dualism/conservation-laws-and-mind)
   type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: expand-topic (conservation laws and mind-brain causation)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-- task: research-topic (conservation laws mind-brain causation)
-  type: research-topic
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (mental-causation/bidirectional-interaction)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (epiphenomenalism/bidirectional-interaction)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (measurement-problem/indexical-identity-quantum-measurement)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: expand-topic (bidirectional-interaction)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (haecceity/indexical-identity-quantum-measurement)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: expand-topic (indexical identity quantum measurement)
-  type: expand-topic
   date: '2026-01-23'
   outcome: success
 - task: research-topic (quantum measurement subjective probability)
@@ -178,10 +150,3 @@ recent_tasks:
   type: expand-topic
   date: '2026-01-23'
   outcome: success
-task_chains:
-  pending_articles: []
-  pending_cross_reviews:
-    - new_article: "topics/conservation-laws-and-mind.md"
-      review_targets:
-        - "concepts/interactionist-dualism.md"
-      generated: "2026-01-23T09:50:00+00:00"
