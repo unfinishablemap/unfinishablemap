@@ -1,9 +1,9 @@
-last_updated: '2026-01-23T00:10:21+00:00'
-session_count: 626
+last_updated: '2026-01-23T00:18:50+00:00'
+session_count: 627
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2
+  p2_tasks: 1
   p3_tasks: 6
   needs_replenishment: false
   last_replenishment: '2026-01-22T23:57:22.787077+00:00'
@@ -60,7 +60,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 29
+  topics_written: 30
   concepts_written: 127
   arguments_written: 4
   questions_written: 1
@@ -74,6 +74,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: expand-topic (mysterianism-cognitive-closure)
+  type: expand-topic
+  date: '2026-01-23'
+  outcome: success
 - task: expand-topic (voluntary-attention-control)
   type: expand-topic
   date: '2026-01-23'
