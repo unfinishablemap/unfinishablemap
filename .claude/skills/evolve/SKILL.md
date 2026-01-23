@@ -58,9 +58,26 @@ For each maintenance task, check if overdue:
 | tune-system | 72h | 144h | - |
 | research-voids | 24h | 48h | - |
 | coalesce | 8h | 16h | - |
-| tweet-highlight | 24h | 48h | @07:00 UTC |
+| tweet-highlight | 24h | (scheduled) | @07:00 UTC |
 
-Create synthetic tasks for overdue maintenance. Tasks with a scheduled time only become eligible at/after that hour each day.
+Create synthetic tasks for overdue maintenance.
+
+**Special handling for scheduled tasks** (those with a time in the Scheduled column):
+Scheduled tasks use different eligibility logic. Instead of waiting for the overdue threshold, they become eligible when:
+1. Current UTC hour >= scheduled hour (e.g., >= 7 for @07:00 UTC)
+2. AND the task hasn't run since today's scheduled time (last_run < today at scheduled_hour)
+
+```python
+def is_scheduled_task_eligible(last_run, scheduled_hour, now_utc):
+    if now_utc.hour < scheduled_hour:
+        return False  # Before today's scheduled time
+    today_scheduled = now_utc.replace(hour=scheduled_hour, minute=0, second=0, microsecond=0)
+    return last_run < today_scheduled  # Hasn't run since today's scheduled time
+```
+
+This ensures tweet-highlight runs once daily at/after 7 AM UTC, regardless of what time it ran yesterday.
+
+**For non-scheduled tasks**: Use the standard overdue logic (last_run + cadence + overdue_threshold < now).
 
 ### 3. Load and Score Tasks
 

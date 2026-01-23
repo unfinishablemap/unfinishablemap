@@ -36,7 +36,7 @@ overdue_thresholds:
   tune-system: 144
   research-voids: 48
   coalesce: 16
-  tweet-highlight: 48
+  tweet-highlight: 12  # Lower threshold; scheduled tasks use date-based logic instead
 scheduled_hours:
   tweet-highlight: 7
 last_git_push: '2026-01-23T09:22:48.218376+00:00'
