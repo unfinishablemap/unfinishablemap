@@ -1,5 +1,5 @@
-last_updated: '2026-01-23T00:24:54+00:00'
-session_count: 628
+last_updated: '2026-01-23T00:34:42.600821+00:00'
+session_count: 629
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
@@ -18,7 +18,7 @@ last_runs:
   optimistic-review: '2026-01-22T23:45:00+00:00'
   check-tenets: '2026-01-21T21:30:00+00:00'
   check-links: '2026-01-22T01:00:00+00:00'
-  deep-review: '2026-01-22T22:37:45+00:00'
+  deep-review: '2026-01-23T00:34:42.600821+00:00'
   tune-system: '2026-01-20T22:00:00+00:00'
   research-voids: '2026-01-21T09:21:52+00:00'
   coalesce: '2026-01-22T23:45:00+00:00'
@@ -74,6 +74,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: deep-review (free-will.md)
+  type: deep-review
+  date: '2026-01-23'
+  outcome: success
 - task: cross-review (hard-problem-of-consciousness/mysterianism-cognitive-closure)
   type: cross-review
   date: '2026-01-23'
@@ -150,22 +154,6 @@ recent_tasks:
   type: deep-review
   date: '2026-01-22'
   outcome: success
-- task: expand-topic (quantum-binding-experimental-evidence)
-  type: expand-topic
-  date: '2026-01-22'
-  outcome: success
-- task: expand-topic (phenomenal-consciousness)
-  type: expand-topic
-  date: '2026-01-22'
-  outcome: success
-- task: expand-topic (access-consciousness)
-  type: expand-topic
-  date: '2026-01-22'
-  outcome: success
-- task: expand-topic (haecceity)
-  type: expand-topic
-  date: '2026-01-22'
-  outcome: success (pre-existing)
 task_chains:
   pending_articles: []
   pending_cross_reviews: []
