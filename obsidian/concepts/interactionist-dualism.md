@@ -3,7 +3,7 @@ title: "Interactionist Dualism"
 created: 2026-01-14
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T23:36:59+00:00
+ai_modified: 2026-01-23T09:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-as-intelligence-amplifier]]"
+  - "[[conservation-laws-and-mind]]"
   - "[[interactionist-dualism-2026-01-06]]"
   - "[[objections-to-interactionist-dualism-2026-01-15]]"
   - "[[materialism]]"
@@ -78,9 +79,11 @@ Chalmers himself tends toward epiphenomenalism—accepting supervenience laws wh
 
 René Descartes established the classic formulation: mind (res cogitans) and body (res extensa) are distinct substances that interact. But his proposal faced immediate challenge. Princess Elizabeth of Bohemia wrote to Descartes in 1643 asking how something non-spatial could causally affect something spatial. What mechanism could bridge such different kinds of thing?
 
-Leibniz sharpened the objection by appealing to conservation of momentum. If mind could push matter around, it would add momentum to the physical world. But physics says momentum is conserved. Therefore mind cannot push matter.
+Leibniz sharpened the objection by appealing to conservation of momentum. If mind could push matter around, it would add momentum to the physical world. But physics says momentum is conserved. Therefore mind cannot push matter. Contemporary physicists like Sean Carroll have revitalized this objection, arguing the Standard Model leaves no room for "soul particles."
 
 For centuries, this "interaction problem" pushed philosophers toward alternatives: parallelism (mind and body don't interact, just run in sync), [[epiphenomenalism]] (body affects mind but not vice versa), or materialism (mind just is body). Interactionism seemed to require either abandoning dualism or accepting mystery.
+
+Yet recent work by philosophers of physics demonstrates that this objection rests on misunderstandings. As Pitts and Cucu show, conservation is *local* and *conditional*—it holds given certain assumptions, and fails where those assumptions fail. The objection begs the question: expecting conservation to hold in the brain simply assumes the falsehood of interactionism. See [[conservation-laws-and-mind]] for detailed treatment of why the conservation objection fails and how the "selection not injection" framework provides a positive account of mental causation.
 
 Yet epiphenomenalism faces its own devastating objection: if consciousness causes nothing, how can we know anything about consciousness? The [[mental-causation|self-stultification argument]] shows that denying mental causation is epistemically self-defeating. Your belief that you're in pain must be caused by your pain—otherwise why would the belief be about that experience at all? This gives positive motivation for interactionism beyond merely answering objections.
 
@@ -351,7 +354,7 @@ For comprehensive treatment of objections, see [[objections-to-interactionism]].
 | Objection | Response |
 |-----------|----------|
 | **Pairing problem**: What pairs this mind with this body? | Minds have spatial location—in the brain where they causally interact; interface locality provides natural pairing |
-| **Conservation laws**: Mental causation would violate energy conservation | Consciousness selects among outcomes with equal energy—no energy added |
+| **Conservation laws**: Mental causation would violate energy conservation | Conservation is local and conditional; consciousness selects among outcomes with equal energy—no energy added. See [[conservation-laws-and-mind]] for full treatment. |
 | **Exclusion argument**: Physical causes "screen off" mental ones | At quantum indeterminacies, there is no sufficient physical cause to do the excluding |
 | **Parsimony**: Dualism posits two kinds of stuff when one might suffice | A theory that explains nothing is not parsimonious; materialism explains mechanisms but not experience |
 | **Evolutionary argument**: Why does phenomenal valence track fitness? | This *supports* interactionism—consciousness must cause to be selected |
@@ -393,6 +396,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 ## Further Reading
 
+- [[conservation-laws-and-mind]] — Why the energy conservation objection fails: conservation is local and conditional, and the "selection not injection" framework
 - [[stapp-quantum-mind]] — The most concrete mechanism for consciousness-brain interaction via quantum Zeno effect
 - [[psychophysical-laws]] — Chalmers' framework for fundamental psychophysical laws and where the Map diverges
 - [[evolution-of-consciousness]] — How consciousness evolved and why dualism handles evolutionary emergence better than materialism
