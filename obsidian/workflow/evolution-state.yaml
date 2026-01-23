@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-23T23:10:00+00:00'
-session_count: 708
+last_updated: '2026-01-23T21:52:00+00:00'
+session_count: 709
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-23T22:45:00+00:00'
@@ -58,7 +58,7 @@ progress:
   questions_written: 2
   voids_written: 11
   research_notes: 114
-  reviews_completed: 514
+  reviews_completed: 515
 quality:
   critical_issues: 6
   medium_issues: 13
@@ -70,10 +70,13 @@ task_chains:
   pending_cross_reviews:
     - new_article: "concepts/attention-motor-quantum-interface.md"
       review_targets:
-        - "concepts/motor-selection.md"
         - "concepts/voluntary-attention-control.md"
       generated: "2026-01-23T23:05:00+00:00"
 recent_tasks:
+- task: cross-review (motor-selection/attention-motor-quantum-interface)
+  type: cross-review
+  date: '2026-01-23'
+  outcome: success
 - task: expand-topic (attention-motor-quantum-interface)
   type: expand-topic
   date: '2026-01-23'

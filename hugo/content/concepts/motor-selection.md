@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-21 16:15:00+00:00
+ai_modified: 2026-01-23 21:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[attention-motor-quantum-interface]]'
 - '[[quantum-consciousness]]'
 - '[[attention-as-interface]]'
 - '[[mental-effort]]'
@@ -14,7 +15,7 @@ concepts:
 - '[[consciousness-as-amplifier]]'
 - '[[illusionism]]'
 created: 2026-01-18
-date: &id001 2026-01-21
+date: &id001 2026-01-23
 draft: false
 human_modified: null
 last_curated: null
@@ -39,12 +40,18 @@ The [attention as interface hypothesis](/concepts/attention-as-interface/) propo
 | Feature | Willed Attention | Willed Movement |
 |---------|-----------------|-----------------|
 | Neural signature | Frontal theta oscillations | Frontal theta oscillations |
-| Deployment time | ~300ms | ~300ms |
+| Deployment time | ~300ms | ~280ms commitment |
 | Willed vs instructed | Distinct signatures | Distinct signatures |
 | Direction of coherence | Bidirectional frontoparietal | Bidirectional frontoparietal |
 | Phenomenology | Feels effortful | Feels effortful |
 
 This parallel is not coincidental. Both attention and motor control require selection among competing options—what to attend to, what to do. If consciousness contributes by selecting, the mechanism should be similar across domains. The same frontal theta oscillations that distinguish willed from instructed attention also distinguish willed from instructed movement.
+
+### The Premotor Theory of Attention
+
+The [attention-motor quantum interface](/concepts/attention-motor-quantum-interface/) article develops a stronger claim: the premotor theory of attention (PMTA) proposes that attention and motor planning share the same neural substrates—attention shifts *are* motor plans. Rizzolatti's research shows the same fronto-parietal networks activate during spatial attention shifts and motor preparation. Preparing an eye movement to location X improves visual processing at X, not because attention follows intention, but because attention *is* the motor preparation.
+
+If PMTA is correct, the attention-motor parallel isn't two separate systems that happen to share features—it's one unified system. The ~300ms willed attention deployment and ~280ms motor commitment point (identified by Thura and Cisek 2014) are so close because they reflect the same selection mechanism operating in the same neural architecture. The quantum Zeno effect wouldn't operate separately on attention and motor circuits; it would operate once on the unified attention-action system.
 
 ## The Libet Challenge—and Its Dissolution
 
@@ -298,6 +305,7 @@ This aligns with the [Minimal Quantum Interaction](/tenets/#minimal-quantum-inte
 
 ## Further Reading
 
+- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — Unified framework arguing attention IS motor planning (PMTA), with single quantum selection mechanism
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of choosing, with motor selection as key case
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances cognitive capacities including motor control
 - [attention-as-interface](/concepts/attention-as-interface/) — The parallel hypothesis for attention

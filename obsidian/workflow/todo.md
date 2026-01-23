@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T23:05:00+00:00
+ai_modified: 2026-01-23T21:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review motor-selection.md considering attention-motor quantum interface article
-- **Type**: cross-review
-- **Notes**: New article concepts/attention-motor-quantum-interface.md unifies PMTA with Stapp's quantum Zeno mechanism. The motor-selection.md article should be reviewed to: (1) add cross-link to attention-motor-quantum-interface, (2) note the PMTA evidence that attention and motor planning share substrates, (3) reference the 280ms/300ms timing convergence, (4) strengthen connection between the "attention-motor parallel" section and the unified mechanism.
-- **Source**: chain (from attention-motor-quantum-interface.md)
-- **Generated**: 2026-01-23
 
 ### P2: Cross-review voluntary-attention-control.md considering attention-motor quantum interface article
 - **Type**: cross-review
@@ -99,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review motor-selection.md considering attention-motor quantum interface article
+- **Type**: cross-review
+- **Notes**: New article concepts/attention-motor-quantum-interface.md unifies PMTA with Stapp's quantum Zeno mechanism. The motor-selection.md article should be reviewed to: (1) add cross-link to attention-motor-quantum-interface, (2) note the PMTA evidence that attention and motor planning share substrates, (3) reference the 280ms/300ms timing convergence, (4) strengthen connection between the "attention-motor parallel" section and the unified mechanism.
+- **Result**: Added [[attention-motor-quantum-interface]] to frontmatter concepts (first position). Added new "The Premotor Theory of Attention" subsection after the parallel table explaining PMTA unification: attention shifts ARE motor plans, the ~300ms/~280ms timing match reflects single selection mechanism. Updated timing table to show 280ms motor commitment. Added attention-motor-quantum-interface as first entry in Further Reading.
+- **Output**: concepts/motor-selection.md
 
 ### ✓ 2026-01-23: Write article on attention-motor quantum interface
 - **Type**: expand-topic
