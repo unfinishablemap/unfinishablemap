@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23
-ai_modified: 2026-01-23T15:19:15+00:00
+ai_modified: 2026-01-23T20:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,41 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-23 20:20 UTC - deep-review
+
+**Status**: ✓ Success
+**Task**: Deep review mental-imagery.md
+**Session**: 691
+**Duration**: ~15 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Comprehensive review of mental-imagery.md combining pessimistic analysis (six philosopher personas) and optimistic analysis. Applied targeted improvements based on findings.
+
+### Issues Addressed
+
+**Critical:**
+- Added quantified effect sizes for motor imagery evidence (Cohen's d 0.4-0.7)
+
+**Medium:**
+- Added engagement with physicalist counter-argument (neural vs conscious rehearsal)
+- Added explanatory gap paragraph connecting aphantasia variation to Dualism tenet
+- Strengthened connection to contemplative neuroscience
+
+### Enhancements Made
+
+- Cross-links to [[contemplative-neuroscience]] and [[introspection]]
+- Validation evidence for introspective reports about imagery vividness
+- Expanded "Relation to Site Perspective" section
+
+### Output
+
+- `concepts/mental-imagery.md` (modified)
+- `reviews/deep-review-2026-01-23-mental-imagery.md` (created)
+
 ---
 
 ## 2026-01-23 15:19 UTC - research-topic

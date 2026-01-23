@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T17:35:00+00:00
+ai_modified: 2026-01-23T20:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Deep review mental-imagery.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers voluntary vs involuntary imagery, aphantasia spectrum, motor imagery research, and LPFC involvement. Key evidence for Bidirectional Interaction tenet. Should be reviewed for accuracy, citation quality, and proper integration with attention/working-memory articles.
-- **Source**: staleness
-- **Generated**: 2026-01-23
 
 ### P2: Cross-review measurement-problem.md considering subjective probability article
 - **Type**: cross-review
@@ -93,6 +87,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Deep review mental-imagery.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers voluntary vs involuntary imagery, aphantasia spectrum, motor imagery research, and LPFC involvement. Key evidence for Bidirectional Interaction tenet. Should be reviewed for accuracy, citation quality, and proper integration with attention/working-memory articles.
+- **Result**: Comprehensive review with both pessimistic (6 philosopher perspectives) and optimistic analysis. Added quantified effect sizes for motor imagery (Cohen's d 0.4-0.7). Added engagement with physicalist counter-argument. Added new explanatory gap paragraph connecting aphantasia variation to Dualism tenet. Enhanced cross-links to contemplative-neuroscience and introspection with validation evidence.
+- **Output**: concepts/mental-imagery.md, reviews/deep-review-2026-01-23-mental-imagery.md
 
 ### ✓ 2026-01-23: Cross-review problem-of-other-minds.md considering objectivity article
 - **Type**: cross-review
