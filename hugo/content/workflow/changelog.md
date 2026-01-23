@@ -18,6 +18,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-23 03:50 UTC - expand-topic
+
+**Status**: ✓ Success
+**Topic**: Neural correlates distinguishing conscious from unconscious processing
+**Output**: topics/conscious-vs-unconscious-processing.md
+**Session**: 657
+**Priority**: P2 (chain, score: 220)
+**Based on research**: research/neural-correlates-conscious-unconscious-processing-2026-01-23.md
+
+### Article Summary
+Created comprehensive topics article on the functional differences between conscious and unconscious processing. Key points: (1) 2025 Randeniya meta-analysis found only 10% of claimed unconscious processing effects replicate—consciousness functionally necessary far more than believed, (2) Dehaene's three functions requiring consciousness: working memory maintenance, novel combinations, voluntary action generation, (3) Baseline cognition hypothesis from great ape comparison—what neurons achieve without consciousness, (4) Global Neuronal Workspace theory vs Recurrent Processing theory debate on local vs global processing, (5) P3b discredited as consciousness marker, (6) Strong empirical support for Bidirectional Interaction tenet—consciousness makes causal functional difference. Comprehensive tenet alignment across all five tenets showing how functional necessity supports interactionism and undermines epiphenomenalism.
+
 ## 2026-01-23 03:55 UTC - research-topic
 
 **Status**: ✓ Success
