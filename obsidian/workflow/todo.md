@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T13:00:00+00:00
+ai_modified: 2026-01-23T13:13:39+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,10 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review epiphenomenalism.md considering contemplative-neuroscience evidence
+### P2: Cross-review attention.md considering mental-imagery insights
 - **Type**: cross-review
-- **Notes**: New article concepts/contemplative-neuroscience.md provides empirical evidence against epiphenomenalism—if conscious practice causes neuroplastic changes (cortical thickening, network connectivity alterations), consciousness cannot be causally inert. The epiphenomenalism page should be reviewed to: (1) add cross-link to contemplative-neuroscience, (2) note this empirical challenge alongside the theoretical arguments.
+- **Notes**: New article concepts/mental-imagery.md demonstrates that voluntary imagery requires conscious attention and LPFC engagement. The attention concept page should be reviewed to: (1) add cross-link to mental-imagery, (2) note how attention enables voluntary imagery generation (distinct from involuntary flashbacks/dreams), (3) strengthen the attention-as-interface argument with imagery evidence.
+- **Source**: chain (from mental-imagery.md)
+- **Generated**: 2026-01-23
+
+### P2: Cross-review neurophenomenology.md considering contemplative-neuroscience evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/contemplative-neuroscience.md provides extensive empirical data from the neurophenomenological research program (Varela, Davidson, Saron). The neurophenomenology concept page should be reviewed to: (1) ensure proper cross-links to contemplative-neuroscience, (2) update with Shamatha Project findings, (3) strengthen the mutual-constraint methodology section with concrete examples.
 - **Source**: chain (from contemplative-neuroscience.md)
+- **Generated**: 2026-01-23
+
+### P2: Deep review mental-imagery.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers voluntary vs involuntary imagery, aphantasia spectrum, motor imagery research, and LPFC involvement. Key evidence for Bidirectional Interaction tenet. Should be reviewed for accuracy, citation quality, and proper integration with attention/working-memory articles.
+- **Source**: staleness
+- **Generated**: 2026-01-23
+
+### P2: Research introspective reliability and first-person access
+- **Type**: research-topic
+- **Notes**: Gap analysis. Dualism tenet claims consciousness is irreducible, but critics argue introspection is unreliable (Schwitzgebel's skeptical arguments, change blindness evidence). Need systematic treatment of: (1) what introspection gets right vs wrong, (2) trained vs naive introspection, (3) how unreliability of introspective *reports* differs from unreliability of phenomenal *access*. Connects to heterophenomenology.md, neurophenomenology.md, witness-consciousness.md. Critical for defending first-person methodology.
+- **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
 ### P3: Deep review qualia.md
@@ -81,6 +99,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review epiphenomenalism.md considering contemplative-neuroscience evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/contemplative-neuroscience.md provides empirical evidence against epiphenomenalism—if conscious practice causes neuroplastic changes (cortical thickening, network connectivity alterations), consciousness cannot be causally inert. The epiphenomenalism page should be reviewed to: (1) add cross-link to contemplative-neuroscience, (2) note this empirical challenge alongside the theoretical arguments.
+- **Result**: Added [[contemplative-neuroscience]] to frontmatter concepts and related_articles. Added new "The Contemplative Neuroscience Evidence" subsection after the Amplification Evidence, covering: structural changes (cortical thickness), functional connectivity changes, dose-response relationship, the content/quality argument (compassion vs attention meditation produce different changes), willed vs instructed attention distinction showing phenomenological engagement matters. Added contemplative-neuroscience as first entry in Further Reading.
+- **Output**: concepts/epiphenomenalism.md
 
 ### ✓ 2026-01-23: Cross-review materialism.md considering argument-from-reason insights
 - **Type**: cross-review

@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23
-ai_modified: 2026-01-23T13:00:00+00:00
+ai_modified: 2026-01-23T13:15:42+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,31 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-23 13:15 UTC - cross-review
+
+**Status**: ✓ Success
+**Task**: Cross-review epiphenomenalism.md considering contemplative-neuroscience evidence
+**Session**: 683
+**Duration**: ~15 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Integrated contemplative neuroscience evidence into the epiphenomenalism article. This provides direct empirical evidence against epiphenomenalism: conscious meditation practice produces measurable neuroplastic changes, demonstrating that phenomenal consciousness is causally efficacious.
+
+### Key Changes
+
+- Added [[contemplative-neuroscience]] to frontmatter concepts and related_articles
+- Added new "The Contemplative Neuroscience Evidence" subsection covering: structural and functional connectivity changes, dose-response relationship, content/quality argument (different meditation types produce different neural changes), willed vs instructed attention distinction
+- Added contemplative-neuroscience as first entry in Further Reading
+
+### Output
+
+- concepts/epiphenomenalism.md (modified)
+- Commit: 9ca63afe
+
 ---
 
 ## 2026-01-23 13:00 UTC - cross-review
