@@ -3,7 +3,7 @@ title: "The Measurement Problem"
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-23T06:00:00+00:00
+ai_modified: 2026-01-23T22:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,9 +19,11 @@ concepts:
   - "[[interface-locality]]"
   - "[[prebiotic-collapse]]"
   - "[[indexical-identity-quantum-measurement]]"
+  - "[[subjective-probability-quantum-measurement]]"
 related_articles:
   - "[[tenets]]"
   - "[[indexical-identity-quantum-measurement]]"
+  - "[[subjective-probability-quantum-measurement]]"
   - "[[measurement-problem-quantum-mechanics-2026-01-14]]"
   - "[[consciousness-measurement-problem-2026-01-16]]"
   - "[[many-worlds]]"
@@ -179,6 +181,24 @@ This loophole has important features:
 
 The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness exploits this loophole—biasing quantum outcomes in ways that physics permits but doesn't determine.
 
+## What Are Born Probabilities?
+
+The measurement problem focuses on *why* definite outcomes occur, but there's a prior question: what do quantum probabilities *mean*?
+
+The Born rule—the squared amplitude of the wave function gives measurement probabilities—is postulated, not derived. Its interpretation varies dramatically across views:
+
+- **Objective chance**: Probabilities describe physical propensities independent of observers
+- **Subjective belief**: QBism treats them as an agent's degrees of belief about future experiences
+- **Branch measure**: Many-worlds reinterprets them as weights over equally-real branches
+
+Each interpretation leaves something unexplained. Objective chance cannot clarify what "chance" means for genuinely indeterminate outcomes. QBism presupposes that agents have determinate experiences to form beliefs *about*, without explaining why. Many-worlds makes probability mysterious—if all outcomes occur, what is 50% a probability *of*?
+
+The Unfinishable Map proposes a different view: [[subjective-probability-quantum-measurement|Born probabilities describe the objective structure of the interface]] where consciousness meets quantum indeterminacy. They are neither purely subjective beliefs nor features of physics independent of consciousness. Rather, probability reflects the conditions under which consciousness actualises one possibility among many.
+
+This reframing connects the measurement problem (why definite outcomes?) to the hard problem (why this consciousness has this experience). The Born rule becomes a window into the [[mind-matter-interface]]—revealing statistical structure at the consciousness-quantum coupling. Each individual selection is indexically grounded; the ensemble reveals interface properties.
+
+If this is right, the measurement problem and the probability interpretation problem are two faces of the same puzzle: what happens at the boundary where consciousness meets physical possibility.
+
 ## Relation to Site Perspective
 
 The measurement problem directly supports the Map's framework:
@@ -195,6 +215,7 @@ The measurement problem directly supports the Map's framework:
 
 ## Further Reading
 
+- [[subjective-probability-quantum-measurement]] — What Born probabilities mean: the interface-structure proposal
 - [[indexical-identity-quantum-measurement]] — Why *this* consciousness experiences *this* outcome: the indexical gap all interpretations leave untreated
 - [[many-worlds]] — Detailed arguments against the many-worlds interpretation
 - [[quantum-consciousness]] — Mechanisms for mind-matter interaction
