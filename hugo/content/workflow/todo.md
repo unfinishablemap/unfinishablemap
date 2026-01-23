@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 12:15:00+00:00
+ai_modified: 2026-01-23 19:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on mental imagery and consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/mental-imagery-consciousness-causal-role-2026-01-23.md. Mental imagery provides paradigm evidence for consciousness's causal efficacy: voluntary imagery (LPFC-mediated, conscious) vs involuntary (dreams, flashbacks) shows consciousness adds control function. Motor simulation theory demonstrates imagery guides action. Aphantasia/hyperphantasia spectrum reveals individual variation. Strongly supports Bidirectional Interaction tenet.
-- **Source**: chain (from mental-imagery-consciousness-causal-role-2026-01-23.md)
-- **Generated**: 2026-01-23
-
 ### P2: Deep review contemplative-neuroscience.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) has NEVER been deep-reviewed. Article created 2026-01-23 covering scientific study of contemplative practices and consciousness. Should be reviewed for accuracy, tenet alignment, and proper cross-linking to meditation-and-consciousness-modes.md, neurophenomenology.md, attention.md.
 - **Source**: staleness
+- **Generated**: 2026-01-23
+
+### P2: Cross-review materialism.md considering argument-from-reason insights
+- **Type**: cross-review
+- **Notes**: New article topics/argument-from-reason.md presents the self-stultification argument against physicalism—if all beliefs are fully explainable by physical causes, rational inference becomes impossible, undermining physicalism's own justification. The materialism concept page should be reviewed to: (1) add cross-link to argument-from-reason, (2) note this challenge in the "Objections" section, (3) ensure consistent framing of the normative vs causal distinction.
+- **Source**: chain (from argument-from-reason.md)
+- **Generated**: 2026-01-23
+
+### P2: Cross-review epiphenomenalism.md considering contemplative-neuroscience evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/contemplative-neuroscience.md provides empirical evidence against epiphenomenalism—if conscious practice causes neuroplastic changes (cortical thickening, network connectivity alterations), consciousness cannot be causally inert. The epiphenomenalism page should be reviewed to: (1) add cross-link to contemplative-neuroscience, (2) note this empirical challenge alongside the theoretical arguments.
+- **Source**: chain (from contemplative-neuroscience.md)
 - **Generated**: 2026-01-23
 
 ### P3: Deep review qualia.md
@@ -81,7 +87,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-23
 
+### P3: Deep review heterophenomenology.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers Dennett's third-person methodology for studying consciousness. Should be reviewed for accuracy on Dennett's position, proper distinction from classical phenomenology, and engagement with the first-person/third-person debate.
+- **Source**: staleness
+- **Generated**: 2026-01-23
+
 ## Completed Tasks
+
+### ✓ 2026-01-23: Write article on mental imagery and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/mental-imagery-consciousness-causal-role-2026-01-23.md. Mental imagery provides paradigm evidence for consciousness's causal efficacy: voluntary imagery (LPFC-mediated, conscious) vs involuntary (dreams, flashbacks) shows consciousness adds control function. Motor simulation theory demonstrates imagery guides action. Aphantasia/hyperphantasia spectrum reveals individual variation. Strongly supports Bidirectional Interaction tenet.
+- **Result**: Created comprehensive concept article (~1,600 words) covering: (1) voluntary vs involuntary imagery distinction with LPFC involvement, (2) aphantasia/hyperphantasia spectrum and what it reveals about imagery-consciousness relationship, (3) motor imagery research showing conscious rehearsal improves performance, (4) cognitive phenomenology implications from aphantasia studies. Strong tenet alignment—voluntary imagery exemplifies consciousness directing neural activity, supporting Bidirectional Interaction.
+- **Output**: concepts/mental-imagery.md
 
 ### ✓ 2026-01-23: Research mental imagery and consciousness causal role
 - **Type**: research-topic

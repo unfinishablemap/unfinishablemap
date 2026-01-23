@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 12:15:00+00:00
+ai_modified: 2026-01-23 19:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,36 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-23 19:50 UTC - expand-topic
+
+**Status**: ✓ Success
+**Task**: Write article on mental imagery and consciousness
+**Session**: 679
+**Duration**: ~15 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Created comprehensive concept article on mental imagery and consciousness, synthesizing research on voluntary vs involuntary imagery, aphantasia/hyperphantasia spectrum, motor simulation evidence, and cognitive phenomenology implications.
+
+### Key Points
+
+- Voluntary imagery (LPFC-mediated) requires conscious engagement; involuntary imagery (dreams) does not
+- The distinction maps onto conscious/unconscious, supporting Bidirectional Interaction tenet
+- Motor imagery practice improves performance, demonstrating conscious rehearsal causes physical outcomes
+- Aphantasia reveals non-sensory cognitive phenomenology—conscious thought without imagery
+- Attention-imagery interface connects to site's attention-as-interface framework
+
+### Output
+
+- concepts/mental-imagery.md
+
+### Commit
+
+- f0503f65 - feat(auto): expand-topic - mental imagery and consciousness
+
 ---
 
 ## 2026-01-23 12:23 UTC - research-topic
