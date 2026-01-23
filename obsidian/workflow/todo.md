@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T09:45:00+00:00
+ai_modified: 2026-01-23T06:05:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
-### P2: Write article on higher-order theories of consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/higher-order-theories-consciousness-2026-01-14.md. HOT (Rosenthal) and HOP (Lycan) theories claim consciousness requires meta-representation—being conscious of being conscious. Major alternative to first-order theories. The Map should cover this as competitor framework, noting how it struggles with phenomenal consciousness (the "what it's like") and may reduce to functionalism.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-23
-
-### P2: Write article on split-brain and consciousness unity
-- **Type**: expand-topic
-- **Notes**: Research completed in research/split-brain-consciousness-unity-2026-01-14.md. Corpus callosotomy cases (Sperry, Gazzaniga) provide key evidence about phenomenal unity—can consciousness be divided? Split-brain patients show dissociated hemispheric awareness but report unified experience. Connects to binding problem, phenomenal unity, and challenges both reductive and dualist accounts. Important empirical grounding for varieties-of-unity.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-23
-
 ### P3: Write article on predictive processing and consciousness
 - **Type**: expand-topic
 - **Notes**: Research completed in research/predictive-processing-consciousness-2026-01-14.md. Predictive processing (Friston, Clark) is a dominant neuroscience framework claiming the brain is a prediction machine minimizing free energy. How does this relate to phenomenal consciousness? Does prediction explain qualia or merely the computational aspect? The Map should engage with this influential framework, noting its strengths (explaining perception, action) and limits (the hard problem remains).
@@ -67,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-23
 
-
-### P2: Review measurement-problem.md considering indexical identity insights
-- **Type**: cross-review
-- **Notes**: New article topics/indexical-identity-quantum-measurement.md examines how the measurement problem relates to indexical identity—why *this* observer experiences *this* outcome. The measurement-problem concept page should be reviewed for cross-links and to ensure it acknowledges the indexical dimension.
-- **Source**: chain (from indexical-identity-quantum-measurement.md)
-- **Generated**: 2026-01-23
 
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
@@ -99,6 +81,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Review measurement-problem.md considering indexical identity insights
+- **Type**: cross-review
+- **Notes**: New article topics/indexical-identity-quantum-measurement.md examines how the measurement problem relates to indexical identity—why *this* observer experiences *this* outcome. The measurement-problem concept page should be reviewed for cross-links and to ensure it acknowledges the indexical dimension.
+- **Result**: Added new "The Indexical Dimension" section after "The Problem Stated" explaining the deeper question of why *this* consciousness experiences *this* outcome—distinct from why definite outcomes occur at all. Cross-linked to indexical-identity-quantum-measurement article throughout. Added analysis of how all major interpretations (QBism, consciousness-collapse, relational QM, MWI) fail to address the indexical question. Connected to haecceity as the primitive thisness grounding indexical identity. Updated frontmatter with new concept and related article links, enhanced Further Reading section.
+- **Output**: concepts/measurement-problem.md
+
+### ✓ 2026-01-23: Write article on higher-order theories of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/higher-order-theories-consciousness-2026-01-14.md. HOT (Rosenthal) and HOP (Lycan) theories claim consciousness requires meta-representation—being conscious of being conscious. Major alternative to first-order theories. The Map should cover this as competitor framework, noting how it struggles with phenomenal consciousness (the "what it's like") and may reduce to functionalism.
+- **Result**: Article already exists at concepts/higher-order-theories.md (created 2026-01-14, deep-reviewed 2026-01-19). Comprehensive treatment covering HOT/HOP theories, metarepresentational distinction, all major philosophical objections (rock, misrepresentation, animal/infant, Block's critique, HOROR), empirical dissociation evidence (blindsight, blind insight, neural separation), testability concerns, AI implications, and full tenet alignment.
+- **Output**: N/A (task was redundant)
+
+### ✓ 2026-01-23: Write article on split-brain and consciousness unity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/split-brain-consciousness-unity-2026-01-14.md. Corpus callosotomy cases (Sperry, Gazzaniga) provide key evidence about phenomenal unity—can consciousness be divided? Split-brain patients show dissociated hemispheric awareness but report unified experience. Connects to binding problem, phenomenal unity, and challenges both reductive and dualist accounts. Important empirical grounding for varieties-of-unity.md.
+- **Result**: Article already exists at topics/split-brain-consciousness.md (created 2026-01-14, deep-reviewed 2026-01-21). Comprehensive treatment covering classic experiments, 2025 resilience findings, three dimensions of unity, Nagel's indeterminacy thesis, binding problem connection, personal identity implications, illusionist challenge, process philosophy perspective, contemplative evidence, and full tenet alignment.
+- **Output**: N/A (task was redundant)
 
 ### ✓ 2026-01-23: Create concept page for bidirectional-interaction
 - **Type**: expand-topic
