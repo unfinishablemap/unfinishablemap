@@ -1,11 +1,11 @@
 ---
 title: "Access Consciousness"
 created: 2026-01-22
-modified: 2026-01-22
+modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-22T22:15:00+00:00
+ai_modified: 2026-01-23T12:15:00+00:00
 draft: false
-last_deep_review: null
+last_deep_review: 2026-01-23T12:15:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -19,12 +19,15 @@ concepts:
   - "[[metacognition]]"
   - "[[binding-problem]]"
   - "[[intentionality]]"
+  - "[[mysterianism-cognitive-closure]]"
+  - "[[indexical-identity-quantum-measurement]]"
 related_articles:
   - "[[tenets]]"
   - "[[access-consciousness-2026-01-22]]"
+  - "[[conservation-laws-and-mind]]"
 ai_contribution: 100
 author: null
-ai_system: claude-sonnet-4-5-20250929
+ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
 ---
@@ -104,7 +107,9 @@ Block's overflow argument holds that phenomenal consciousness has richer content
 - [[Global-workspace-theory|GWT]] might explain access while missing the fuller phenomenology
 - P-consciousness cannot reduce to A-consciousness if P has higher capacity than A
 
-**The deflationary response**: Critics argue the experience of "seeing all 12" is itself a report/judgment (thus A-conscious), and the letters not currently reportable aren't genuinely P-conscious either. The overflow debate remains unresolved. Recent work on inattentional blindness (Nartker et al. 2025) found that subjects retain visual sensitivity to stimuli they explicitly deny noticing, suggesting phenomenology may persist even when workspace broadcast fails. See [[global-workspace-theory#the-accessphenomenal-distinction]].
+**The deflationary response**: Critics—notably Dennett and Cohen—argue that the experience of "seeing all 12" is itself a report/judgment (thus A-conscious), and the letters not currently reportable aren't genuinely P-conscious either. On this view, subjects don't experience all 12 letters; they experience a *gestalt impression* of "lots of letters" that becomes specific only when the cue directs attention. The "overflow" is confabulation—retroactively attributing rich phenomenology that wasn't there. This deflationary interpretation deserves serious consideration: if the phenomenal richness exists only in reconstruction rather than original experience, the overflow argument fails.
+
+The debate remains unresolved, though recent work adds complexity. Nartker et al. (2025) found that "inattentionally blind" participants retain visual sensitivity to stimuli they explicitly deny noticing—they can report location, colour, and shape of objects they claim not to have seen. This suggests phenomenology may persist even when workspace broadcast fails, supporting overflow. But deflationary theorists can respond that this residual sensitivity reflects degraded access rather than rich phenomenology. See [[global-workspace-theory#the-accessphenomenal-distinction]].
 
 ### A-Consciousness Without P-Consciousness?
 
@@ -140,7 +145,7 @@ This is why [[global-workspace-theory|Global Workspace Theory]] succeeds as a th
 
 **Block's overflow argument revisited**: If overflow is real, attention might select what becomes A-conscious from a richer phenomenal field. Attention doesn't create P-consciousness but determines what reaches the access-machinery. This fits the dualist view: phenomenal consciousness exists in parallel with functional access, and attention is the bridge.
 
-**Stapp's quantum mechanism**: [[Stapp-quantum-mind|Henry Stapp's model]] proposes that [[attention-as-interface|attention is the interface]] where consciousness influences physical processes. On this view, attention operates through the quantum Zeno effect—sustained observation that selects among potential outcomes. The connection to A-consciousness: attention determines what information is "held" in the global workspace long enough for reasoning and action. Attention is the voluntary control mechanism for A-consciousness. See [[motor-selection]] for how this plays out in action selection.
+**Stapp's quantum mechanism**: [[Stapp-quantum-mind|Henry Stapp's model]] proposes that [[attention-as-interface|attention is the interface]] where consciousness influences physical processes. On this view—which remains speculative and contested among physicists—attention operates through the quantum Zeno effect: sustained observation that selects among potential outcomes. The connection to A-consciousness: attention determines what information is "held" in the global workspace long enough for reasoning and action. Attention is the voluntary control mechanism for A-consciousness. See [[motor-selection]] for how this plays out in action selection.
 
 ## Access Consciousness and Dualist Interaction {#interaction}
 
@@ -164,7 +169,7 @@ Conscious influence operates at stage 2: by modulating attention, consciousness 
 
 Access consciousness reveals what physicalism *can* explain: functional availability, information integration, global broadcast. [[Global-workspace-theory|Global Workspace Theory]] succeeds at this task. What remains inexplicable is [[phenomenal-consciousness|why global broadcast feels like anything]]. By isolating A-consciousness as the functional aspect, we clarify that the [[hard-problem-of-consciousness|hard problem]] concerns P-consciousness specifically.
 
-The [[explanatory-gap|explanatory gap]] persists: neural mechanisms for access don't bridge to phenomenology. Knowing that information achieved prefrontal-parietal ignition doesn't tell us why there's "something it's like" to have that information broadcast. [[Arguments/functionalism|Arguments against functionalism]] show that functional role cannot capture phenomenal properties.
+The [[explanatory-gap|explanatory gap]] persists: neural mechanisms for access don't bridge to phenomenology. Knowing that information achieved prefrontal-parietal ignition doesn't tell us why there's "something it's like" to have that information broadcast. [[Arguments/functionalism|Arguments against functionalism]] show that functional role cannot capture phenomenal properties. This persistent gap—despite decades of sophisticated neuroscientific work—may reflect a [[mysterianism-cognitive-closure|cognitive closure]] on our part, or it may indicate a genuine ontological distinction. Either possibility resists physicalist resolution.
 
 Block's dissociations strengthen dualism: if access and phenomenology can come apart, they're distinct. Blindsight suggests access without phenomenology; overflow suggests phenomenology exceeding access. If P-consciousness isn't reducible to A-consciousness, and A-consciousness is functionally explicable, then P-consciousness requires non-physical explanation.
 
@@ -178,11 +183,15 @@ A-consciousness is the *functional expression* of conscious influence. We can't 
 
 Access mechanisms are the "downstream" neural processes that amplify initial quantum-level interventions. Consciousness doesn't need to control the entire global workspace—only the quantum indeterminacies that determine what gets selected for broadcast. [[Stapp-quantum-mind|Stapp's quantum Zeno mechanism]] proposes that attention operates at quantum collapse events in neural firing. Once a pattern is selected, classical neural dynamics handle the global broadcast (A-consciousness).
 
-This preserves minimalism: consciousness intervenes at quantum indeterminacies, and the access-machinery amplifies that selection into macro-scale functional availability. The energy-conservation objection dissolves because no energy is injected—consciousness selects among possibilities that physics leaves undetermined. See [[causal-closure#stapps-quantum-response]].
+This preserves minimalism: consciousness intervenes at quantum indeterminacies, and the access-machinery amplifies that selection into macro-scale functional availability. The energy-conservation objection dissolves because no energy is injected—consciousness selects among possibilities that physics leaves undetermined. This proposal remains speculative, though it provides a coherent framework for how minimal interaction could have macro-scale effects. See [[causal-closure#stapps-quantum-response]] and [[conservation-laws-and-mind]].
 
 ### No Many Worlds
 
 The [[many-worlds-interpretation|Many Worlds Interpretation]] of quantum mechanics implies that all possible outcomes occur across branches. If consciousness operates through quantum selection (as Stapp proposes), MWI threatens to make that selection illusory—you experience the outcome on your branch, but other versions of you experience other outcomes on other branches.
+
+**MWI proponents respond** with self-locating uncertainty: before measurement, you don't know which branch you'll find yourself on, so subjective probability still applies. The Deutsch-Wallace decision-theoretic approach derives the Born rule from rational constraints on branching. On this view, "which branch am I on?" is a meaningful question with a definite answer given by observation.
+
+**The dualist objection**: Self-locating uncertainty presupposes what it needs to explain. It requires a determinate "I" whose location is uncertain. But MWI's ontology contains only wave functions evolving deterministically—no primitive fact about which branch contains *you*. The uncertainty is indexed to a subject whose identity the theory cannot ground. See [[indexical-identity-quantum-measurement]] for detailed analysis.
 
 Access consciousness is where this becomes existentially urgent. When you deliberate between options, those options are A-conscious: represented explicitly, available for reasoning. When you choose, one option becomes A-conscious in a stronger sense: it guides action, enters [[episodic-memory|episodic memory]], shapes your future self. If MWI is true, there's no fact about which option *you* chose—all versions happened to different "yous."
 
@@ -237,7 +246,9 @@ An experience becomes A-conscious not by having an intrinsic access-property, bu
 ## References
 
 - Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18, 227-287.
-- Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
-- Dehaene, S., & Changeux, J. P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
-- Stanford Encyclopedia of Philosophy. (2024). [Consciousness](https://plato.stanford.edu/entries/consciousness/).
 - Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567-575.
+- Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
+- Cohen, M. A., & Dennett, D. C. (2011). Consciousness cannot be separated from function. *Trends in Cognitive Sciences*, 15(8), 358-364.
+- Dehaene, S., & Changeux, J. P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
+- Nartker, M., Firestone, C., & Sosa, E. (2025). Inattentional blindness hides residual visual sensitivity. *Journal of Experimental Psychology: Human Perception and Performance*.
+- Stanford Encyclopedia of Philosophy. (2024). [Consciousness](https://plato.stanford.edu/entries/consciousness/).
