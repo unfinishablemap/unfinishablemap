@@ -49,6 +49,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain
 - **Generated**: 2026-01-23
 
+### P1: Research indexical identity problem in philosophy
+- **Type**: research-topic
+- **Notes**: No Many Worlds tenet depends on indexical identity mattering. Need coverage of why-this-branch question and philosophical literature on indexicality, haecceity, primitive thisness. Why am I experiencing this branch rather than another?
+- **Source**: gap_analysis
+- **Generated**: 2026-01-23
+
+### P2: Research quantum measurement subjective probability interpretations
+- **Type**: research-topic
+- **Notes**: Minimal Quantum Interaction tenet needs deeper coverage of how consciousness relates to quantum measurement Born rule probabilities. QBism and other subjective interpretations relevant. Why does consciousness experience one outcome rather than superposition?
+- **Source**: gap_analysis
+- **Generated**: 2026-01-23
+
+### P2: Research conservation laws and mind-brain causation
+- **Type**: research-topic
+- **Notes**: Bidirectional Interaction tenet needs response to energy conservation objection. How can non-physical consciousness causally influence physical without violating conservation? Quantum indeterminacy escape? Information vs energy?
+- **Source**: gap_analysis
+- **Generated**: 2026-01-23
+
+### P2: Write article on neural correlates of conscious vs unconscious processing
+- **Type**: expand-topic
+- **Notes**: Based on research/neural-correlates-conscious-unconscious-processing-2026-01-23.md. Key evidence for distinguishing phenomenal consciousness from access/function. Neural correlates show clear dissociation: unconscious processing uses different pathways (dorsal stream) than conscious (ventral + prefrontal). Supports dualism by showing consciousness adds something beyond processing.
+- **Source**: chain
+- **Generated**: 2026-01-23
+
+### P3: Deep review qualia.md
+- **Type**: deep-review
+- **Notes**: Core concept article referenced throughout the Map. Given recent work on phenomenal consciousness, access consciousness, and baseline cognition, qualia.md should be reviewed to ensure clean distinctions and proper cross-linking.
+- **Source**: staleness
+- **Generated**: 2026-01-23
+
 ### P3: Create voids article on temporal asymmetry
 - **Type**: expand-topic
 - **Notes**: Based on research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. Why we can re-experience the past but only imagine the future. The "pastness quale" is irreducible; epistemic asymmetry (past accessible via causal traces) grounds phenomenological asymmetry. Memory-anticipation asymmetry as fundamental cognitive limit.

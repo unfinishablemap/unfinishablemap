@@ -1,6 +1,6 @@
 last_updated: '2026-01-23T03:31:20+00:00'
 session_count: 655
-last_replenishment: '2026-01-23T03:11:02.325843+00:00'
+last_replenishment: '2026-01-23T03:37:29.853901+00:00'
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-22T22:51:33+00:00'
@@ -219,3 +219,14 @@ task_chains:
     review_targets:
     - concepts/blindsight.md
     generated: '2026-01-23T02:57:55.613194+00:00'
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 1
+  p2_tasks: 6
+  p3_tasks: 8
+  needs_replenishment: false
+  last_replenishment: '2026-01-23T03:37:29.853901+00:00'
+  replenishment_source_counts:
+    chain: 1
+    gap_analysis: 4
+    staleness: 1
