@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 01:09:02.790448+00:00
+ai_modified: 2026-01-23 01:35:43.077795+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,9 +38,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research first-person vs third-person methodology in consciousness science
+### P2: Create concept page for heterophenomenology
+- **Type**: expand-topic
+- **Notes**: Gap analysis. Dennett's influential third-person methodology for studying consciousness is referenced across phenomenology discussions but lacks dedicated treatment. Research shows heterophenomenology treats first-person reports as data about a "heterophenomenological world" without committing to phenomenology's reality. Critical for understanding the methodological landscape in consciousness science and why the Map rejects purely third-person approaches. Connects to Dualism tenet by exemplifying the reductionist alternative the Map opposes.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-23
+
+### P2: Research contemplative neuroscience and meditation evidence
 - **Type**: research-topic
-- **Notes**: Gap analysis. Methodological question central to consciousness studies: can third-person objective methods access first-person subjective experience? Relates to heterophenomenology, neurophenomenology, introspection, problem of other minds. Connects to Dualism tenet by exploring whether methodological gap reflects ontological gap. Current Map has phenomenology.md and neurophenomenology.md but lacks systematic treatment of first/third person distinction as methodological framework.
+- **Notes**: Gap analysis. The Map references meditation and contemplative practice across multiple articles (neurophenomenology, witness-consciousness, attention-as-interface) but lacks systematic treatment of the empirical evidence. Contemplative neuroscience demonstrates that trained first-person observation produces consistent measurable neural correlates, providing concrete examples of the neurophenomenological "mutual constraint" framework. Research should cover: meditation-induced neural changes, attention control training, default mode network modulation, phenomenological reports from experienced meditators. Strongly supports Bidirectional Interaction tenet by showing consciousness training alters brain function.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
@@ -86,7 +92,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-23
 
+### P3: Deep review phenomenology.md
+- **Type**: deep-review
+- **Notes**: Staleness. Core methodological article (ai_contribution: 100) referenced heavily across the Map but never deep-reviewed. Given the first-person/third-person research, phenomenology.md should be reviewed to ensure it properly distinguishes classical phenomenology (Husserl) from heterophenomenology (Dennett) and connects to neurophenomenology (Varela).
+- **Source**: staleness
+- **Generated**: 2026-01-23
+
 ## Completed Tasks
+
+### ✓ 2026-01-23: Write article on first-person vs third-person methodology
+- **Type**: expand-topic
+- **Notes**: Based on research/first-person-third-person-methodology-2026-01-23.md. Gap analysis. Methodological question central to consciousness studies: can third-person objective methods access first-person subjective experience? Relates to heterophenomenology, neurophenomenology, introspection, problem of other minds. Connects to Dualism tenet by exploring whether methodological gap reflects ontological gap. Research identifies three major methodological approaches (heterophenomenology, neurophenomenology, second-person methods) with different ontological commitments. Five potential article angles identified, all strongly supporting Dualism and Occam's Razor Has Limits tenets by showing methodological asymmetry reflects ontological asymmetry—phenomenology resists objective reduction not due to scientific immaturity but due to irreducible subjective character.
+- **Result**: Created comprehensive topic article (~3,000 words) arguing that the methodological divide between first-person phenomenology and third-person neuroscience is best explained by ontological dualism. Covered heterophenomenology (Dennett's third-person only approach), neurophenomenology (Varela's mutual constraint framework), second-person methods (empathic intersubjectivity), the explanatory gap (epistemic vs. ontological), and introspection's limits and cognitive closure. Strong tenet alignment: Dualism (methodological asymmetry reflects ontological asymmetry), Bidirectional Interaction (mutual constraint framework), Occam's Razor Has Limits (introspection difficulties may reflect cognitive boundaries rather than phenomenology's non-existence).
+- **Output**: topics/first-person-third-person-methodology.md
+
+### ✓ 2026-01-23: Research first-person vs third-person methodology in consciousness science
+- **Type**: research-topic
+- **Notes**: Gap analysis. Methodological question central to consciousness studies: can third-person objective methods access first-person subjective experience? Relates to heterophenomenology, neurophenomenology, introspection, problem of other minds. Connects to Dualism tenet by exploring whether methodological gap reflects ontological gap. Current Map has phenomenology.md and neurophenomenology.md but lacks systematic treatment of first/third person distinction as methodological framework.
+- **Result**: Conducted comprehensive web research covering heterophenomenology (Dennett's third-person approach treating first-person reports as data), neurophenomenology (Varela's mutual constraint framework integrating rigorous phenomenology with neuroscience), second-person methods (empathic intersubjectivity as methodological bridge), classical phenomenology (Husserl's systematic first-person science), introspection reliability debates, Nagel's view from nowhere, explanatory gap (Levine), zombie arguments and epistemic asymmetry (Chalmers), and hard problem formulation. Research reveals three major methodological approaches with different ontological commitments. Five potential article angles identified, all strongly supporting Dualism and Occam's Razor Has Limits tenets by showing methodological asymmetry reflects ontological asymmetry—phenomenology resists objective reduction not due to scientific immaturity but due to irreducible subjective character.
+- **Output**: obsidian/research/first-person-third-person-methodology-2026-01-23.md
 
 ### ✓ 2026-01-23: Write article on multimodal phenomenal binding
 - **Type**: expand-topic
