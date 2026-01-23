@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T09:35:00+00:00
+ai_modified: 2026-01-23T18:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Research retrocausal neural firing evidence
+- **Type**: research-topic
+- **Notes**: Investigate whether neural firings have been recorded before stimulus (e.g., viewing a picture) is applied—potential evidence of retrocausality in brain activity. Key questions: (1) What experiments have tested for pre-stimulus neural activity? (2) Are there any published findings suggesting anticipatory neural responses? (3) Would such results likely be published if observed, or would publication bias suppress them? Connects to topics on consciousness and quantum mechanics, bidirectional interaction, and the arrow of time. Could support or challenge tenet alignment depending on findings.
+- **Source**: human
+- **Generated**: 2026-01-23
 
 ### P2: Cross-review objections-to-interactionism.md considering conservation laws article
 - **Type**: cross-review
