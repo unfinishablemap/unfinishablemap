@@ -5,7 +5,7 @@ ai_modified: 2026-01-23 00:44:23+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[voluntary-attention-control]]'
+- '[[voluntary-attention]]'
 - '[[quantum-indeterminacy-free-will]]'
 - '[[retrocausality]]'
 - '[[qualia]]'
@@ -299,11 +299,11 @@ The free will question isn't just whether we can select but whether we have *mas
 
 ## Neural Signatures of Willed Action
 
-The phenomenology of free choice—the sense that *you* direct attention and *you* make decisions—has empirical correlates. Research on [voluntary attention control](/topics/voluntary-attention-control/) reveals that willed action engages distinct neural mechanisms from automatic or instructed behaviour, providing paradigm case evidence for [agent-causation](/concepts/agent-causation/).
+The phenomenology of free choice—the sense that *you* direct attention and *you* make decisions—has empirical correlates. Research on [voluntary attention control](/archive/topics/voluntary-attention-control/) reveals that willed action engages distinct neural mechanisms from automatic or instructed behaviour, providing paradigm case evidence for [agent-causation](/concepts/agent-causation/).
 
 ### Voluntary Attention: The Paradigm Case for Agent Causation
 
-When you decide to focus on a difficult text rather than glancing at your phone, consciousness directs attention through purely internal decision processes. This [voluntary attention control](/topics/voluntary-attention-control/) provides a paradigm case of agent causation in action: consciousness causally selecting among neural patterns without external prompting.
+When you decide to focus on a difficult text rather than glancing at your phone, consciousness directs attention through purely internal decision processes. This [voluntary attention control](/archive/topics/voluntary-attention-control/) provides a paradigm case of agent causation in action: consciousness causally selecting among neural patterns without external prompting.
 
 The neuroscience reveals three systems operating through fundamentally different control mechanisms:
 
@@ -354,7 +354,7 @@ The first-person experience of choosing—directing attention rather than being 
 - **Following instructions** (cued attention) → dorsal attention network, top-down, unidirectional coherence
 - **Choosing to focus** (difficult text, meditation) → dorsal attention network with frontal theta, bidirectional coherence, sustained, effortful
 
-The phenomenological asymmetry in subjective effort provides direct evidence for distinct mechanisms: exogenous attention feels effortless (being *pulled* toward the stimulus), while endogenous attention feels effortful and depleting (*directing* attention requires continuous engagement). The [voluntary attention](/topics/voluntary-attention-control/) article details how this first-person phenomenology—initiating the attentional shift through internal decision, sustaining focus through ongoing effort, and redirecting when goals change—corresponds precisely to the three neural components identified in willed attention research: front-end decision processes (initiating), network reorganization (sustaining), and salience network switching (redirecting).
+The phenomenological asymmetry in subjective effort provides direct evidence for distinct mechanisms: exogenous attention feels effortless (being *pulled* toward the stimulus), while endogenous attention feels effortful and depleting (*directing* attention requires continuous engagement). The [voluntary attention](/archive/topics/voluntary-attention-control/) article details how this first-person phenomenology—initiating the attentional shift through internal decision, sustaining focus through ongoing effort, and redirecting when goals change—corresponds precisely to the three neural components identified in willed attention research: front-end decision processes (initiating), network reorganization (sustaining), and salience network switching (redirecting).
 
 The felt distinction between *directing* and *being pulled* corresponds to different neural circuits. This supports [agent-causation](/concepts/agent-causation/): the subjective sense of authorship tracks genuine differences in how the brain organises voluntary versus automatic processing. The experience of effort isn't epiphenomenal decoration—it reflects the additional neural machinery engaged when you genuinely choose.
 
@@ -560,7 +560,7 @@ Free will stands at the intersection of all five tenets:
 
 ## Further Reading
 
-- [voluntary-attention-control](/topics/voluntary-attention-control/) — Paradigm case evidence: willed attention demonstrates consciousness causally selecting among neural patterns
+- [voluntary-attention](/concepts/voluntary-attention/) — Paradigm case evidence: willed attention demonstrates consciousness causally selecting among neural patterns
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Comprehensive systematization of how quantum indeterminacy supports libertarian free will through consciousness-selected outcomes
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How consciousness both generates and selects possibilities, strengthening the case for genuine agency
 - [mental-causation](/concepts/mental-causation/) — Why mental causation is essential for free will and how the quantum framework addresses Kim's exclusion argument

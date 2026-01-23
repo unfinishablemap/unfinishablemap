@@ -11,7 +11,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[emotional-consciousness]]'
 - '[[default-mode-network]]'
-- '[[voluntary-attention-control]]'
+- '[[voluntary-attention]]'
 created: 2026-01-23
 date: &id001 2026-01-23
 draft: false
@@ -22,7 +22,7 @@ related_articles:
 - '[[neurophenomenology]]'
 - '[[bidirectional-interaction]]'
 - '[[witness-consciousness]]'
-- '[[voluntary-attention-control]]'
+- '[[voluntary-attention]]'
 - '[[free-will]]'
 - '[[epiphenomenalism]]'
 title: Contemplative Neuroscience
@@ -91,7 +91,7 @@ The Shamatha Project—one of the most comprehensive longitudinal studies of int
 - Enhanced response inhibition (critical for emotion regulation)
 - Increased mindfulness, ego resiliency, empathy, openness
 
-These are trainable skills, following principles similar to learning music or sports. The fact that deliberate practice enhances attentional capacities demonstrates [attention](/concepts/attention/) isn't purely bottom-up. [Voluntary-attention-control](/topics/voluntary-attention-control/) can be systematically developed through conscious training.
+These are trainable skills, following principles similar to learning music or sports. The fact that deliberate practice enhances attentional capacities demonstrates [attention](/concepts/attention/) isn't purely bottom-up. [Voluntary-attention-control](/archive/topics/voluntary-attention-control/) can be systematically developed through conscious training.
 
 Connection to [free-will](/topics/free-will/): If [phenomenal-consciousness](/concepts/phenomenal-consciousness/) were epiphenomenal, how would willed effort to sustain attention produce measurable improvements in attentional stability? The training paradigm assumes consciousness can causally influence its own processing—precisely the claim [epiphenomenalism](/arguments/epiphenomenalism/) denies.
 
@@ -263,7 +263,7 @@ Simplicity (eliminating first-person methods) comes at cost of explanatory adequ
 
 - [Neurophenomenology](/concepts/neurophenomenology/): Varela's framework for integrating first-person and third-person methods through mutual constraints
 - [Witness-consciousness](/concepts/witness-consciousness/): Eastern contemplative traditions' phenomenological framework that meditation cultivates
-- [Voluntary-attention-control](/topics/voluntary-attention-control/): Neural mechanisms underlying willed vs. instructed vs. exogenous attention
+- [Voluntary-attention-control](/archive/topics/voluntary-attention-control/): Neural mechanisms underlying willed vs. instructed vs. exogenous attention
 - [Free-will](/topics/free-will/): How meditation evidence connects to agent causation and libertarian accounts
 - [Emotional-consciousness](/concepts/emotional-consciousness/): Phenomenal character of emotions and their role in consciousness
 - [Epiphenomenalism](/arguments/epiphenomenalism/): Why contemplative neuroscience challenges the view that consciousness is causally inert
@@ -289,7 +289,7 @@ Simplicity (eliminating first-person methods) comes at cost of explanatory adequ
 
 [^lutz]: Lutz, A., et al. (2020). "The Hitchhiker's Guide to Neurophenomenology." Frontiers in Psychology. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01680/full
 
-[^voluntary]: See [voluntary-attention-control](/topics/voluntary-attention-control/) for detailed treatment of willed vs. instructed attention neural signatures.
+[^voluntary]: See [voluntary-attention](/concepts/voluntary-attention/) for detailed treatment of willed vs. instructed attention neural signatures.
 
 [^sharma]: Sharma, H. (2015). "Mindfulness-based stress reduction: a non-pharmacological approach for chronic illnesses." PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC3336928/
 
