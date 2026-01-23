@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 19:15:26+00:00
+ai_modified: 2026-01-23 19:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,40 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-23 19:50 UTC - research-topic
+
+**Status**: ✓ Success
+**Task**: Research attention and motor planning quantum interface
+**Session**: 705
+**Duration**: ~10 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Researched the interface between attention and motor planning as potential locus for quantum Zeno selection, following gap analysis identifying motor-selection.md and voluntary-attention-control.md as suggesting unified mechanism.
+
+### Key Findings
+
+1. **Premotor Theory of Attention (PMTA)**: Rizzolatti's theory proposes attention and motor preparation share neural substrates—attention IS motor planning. This unifies the two domains under a single selection mechanism.
+
+2. **Affordance Competition**: Multiple action representations exist simultaneously in premotor cortex (43% of PMd cells encode both options), competing until one reaches decision threshold at ~280ms before movement.
+
+3. **Timing Alignment**: 280ms commitment point matches 300ms willed attention deployment; both distinguished from 100ms automatic responses by frontal theta oscillations.
+
+4. **Revised Decoherence Estimates**: 2025 research extends coherence times to 10-100 μs (seven orders of magnitude beyond Tegmark's critique), potentially reaching neurophysiologically relevant ranges.
+
+5. **Basal Ganglia Brake-Release**: Action selection via selective disinhibition provides precise candidate site for quantum bias—multiple programs inhibited, selection releases one.
+
+### Article Angle Recommended
+
+Unified attention-motor quantum interface: if PMTA is correct (attention=motor planning) and Stapp's mechanism applies to attention, then motor selection uses same quantum Zeno mechanism. Provides strong support for Bidirectional Interaction and Minimal Quantum Interaction tenets.
+
+### Output
+
+- `research/attention-motor-planning-quantum-interface-2026-01-23.md`
+
 ---
 
 ## 2026-01-23 19:15 UTC - cross-review

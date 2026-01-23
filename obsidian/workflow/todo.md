@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T21:00:00+00:00
+ai_modified: 2026-01-23T19:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Research attention and motor planning quantum interface
-- **Type**: research-topic
-- **Notes**: Gap analysis. The Minimal Quantum Interaction tenet claims consciousness influences quantum events with minimal energetic footprint. Recent motor-selection.md and voluntary-attention-control.md articles suggest attention-motor interface as key locus. Need research on: (1) how attention gates motor plan selection, (2) neural timing windows where quantum effects could matter, (3) Stapp's quantum Zeno mechanism applied to motor preparation. Connects to motor-selection.md, stapp-quantum-mind.md, quantum-indeterminacy-free-will.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-23
 
 ### P2: Cross-review phenomenology.md considering intersubjectivity insights
 - **Type**: cross-review
@@ -99,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Research attention and motor planning quantum interface
+- **Type**: research-topic
+- **Notes**: Gap analysis. The Minimal Quantum Interaction tenet claims consciousness influences quantum events with minimal energetic footprint. Recent motor-selection.md and voluntary-attention-control.md articles suggest attention-motor interface as key locus. Need research on: (1) how attention gates motor plan selection, (2) neural timing windows where quantum effects could matter, (3) Stapp's quantum Zeno mechanism applied to motor preparation. Connects to motor-selection.md, stapp-quantum-mind.md, quantum-indeterminacy-free-will.md.
+- **Result**: Comprehensive research notes produced covering premotor theory of attention (attention-motor unified substrate), affordance competition hypothesis (parallel action specification with threshold selection), neural timing (280ms commitment point, 300ms willed deployment), revised decoherence estimates (10-100μs), beta oscillation dynamics, basal ganglia brake-release mechanism, and Libet reinterpretation. Identified strong connections between PMTA and Stapp's quantum Zeno mechanism—if attention IS motor planning, the unified quantum selection framework applies to both domains.
+- **Output**: research/attention-motor-planning-quantum-interface-2026-01-23.md
 
 ### ✓ 2026-01-23: Create concept page for unity-of-consciousness
 - **Type**: expand-topic
