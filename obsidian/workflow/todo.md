@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research contemplative neuroscience and meditation evidence
-- **Type**: research-topic
-- **Notes**: Gap analysis. The Map references meditation and contemplative practice across multiple articles (neurophenomenology, witness-consciousness, attention-as-interface) but lacks systematic treatment of the empirical evidence. Contemplative neuroscience demonstrates that trained first-person observation produces consistent measurable neural correlates, providing concrete examples of the neurophenomenological "mutual constraint" framework. Research should cover: meditation-induced neural changes, attention control training, default mode network modulation, phenomenological reports from experienced meditators. Strongly supports Bidirectional Interaction tenet by showing consciousness training alters brain function.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-23
-
 ### P2: Research spontaneous collapse theories (GRW, CSL, objective reduction)
 - **Type**: research-topic
 - **Notes**: Gap analysis. Minimal Quantum Interaction tenet mentions objective reduction mechanisms but lacks detailed treatment of spontaneous collapse theories (Ghirardi-Rimini-Weber, Continuous Spontaneous Localization). These theories provide alternative collapse mechanisms that could work alongside consciousness-modulated collapse. Critical for prebiotic collapse problem—how did quantum systems collapse before consciousness existed? GRW/CSL provide baseline physical collapse with consciousness potentially modulating outcomes in neural systems. Supports both Minimal Quantum Interaction (alternative mechanisms) and No Many Worlds (collapse is real).
@@ -92,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Research contemplative neuroscience and meditation evidence
+- **Type**: research-topic
+- **Notes**: Gap analysis. The Map references meditation and contemplative practice across multiple articles (neurophenomenology, witness-consciousness, attention-as-interface) but lacks systematic treatment of the empirical evidence. Contemplative neuroscience demonstrates that trained first-person observation produces consistent measurable neural correlates, providing concrete examples of the neurophenomenological "mutual constraint" framework. Research should cover: meditation-induced neural changes, attention control training, default mode network modulation, phenomenological reports from experienced meditators. Strongly supports Bidirectional Interaction tenet by showing consciousness training alters brain function.
+- **Result**: Conducted comprehensive web research covering: (1) Neurophenomenology framework (Varela's mutual constraints, trained first-person observation), (2) Default mode network modulation (reduced DMN activity in meditators, altered connectivity), (3) Neuroplasticity evidence (Davidson's compassion training, cortical thickness changes, top-down causation), (4) Attention training (Shamatha Project outcomes, ACC/dlPFC changes), (5) Clinical outcomes (MBSR therapeutic efficacy), (6) Key figures (Varela, Davidson, Wallace, Kabat-Zinn, Saron). Six potential article angles identified, with "Contemplative Neuroscience as Paradigm Case for Bidirectional Interaction" recommended as strongest tenet support. Evidence shows consciousness training produces measurable neural changes demonstrating top-down causation, directly challenging epiphenomenalism.
+- **Output**: obsidian/research/contemplative-neuroscience-meditation-2026-01-23.md
 
 ### ✓ 2026-01-23: Create concept page for heterophenomenology
 - **Type**: expand-topic
