@@ -130,7 +130,7 @@ The limits of objectivity are not defects to overcome but features of reality it
 - [dualism](/concepts/dualism/) - The irreducibility of consciousness to physical processes
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) - Why objective description leaves out phenomenal character
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) - What it's like to be conscious
-- [heterophenomenology](/heterophenomenology/) - Dennett's third-person methodology
+- [heterophenomenology](/concepts/heterophenomenology/) - Dennett's third-person methodology
 - [neurophenomenology](/concepts/neurophenomenology/) - Varela's mutual constraints approach
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) - How we know other conscious beings exist
 - [intersubjectivity](/intersubjectivity/) - Second-person perspective and shared intentionality

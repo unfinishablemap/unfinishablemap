@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T01:35:43.077795+00:00
+ai_modified: 2026-01-23T01:45:13+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Create concept page for heterophenomenology
-- **Type**: expand-topic
-- **Notes**: Gap analysis. Dennett's influential third-person methodology for studying consciousness is referenced across phenomenology discussions but lacks dedicated treatment. Research shows heterophenomenology treats first-person reports as data about a "heterophenomenological world" without committing to phenomenology's reality. Critical for understanding the methodological landscape in consciousness science and why the Map rejects purely third-person approaches. Connects to Dualism tenet by exemplifying the reductionist alternative the Map opposes.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-23
 
 ### P2: Research contemplative neuroscience and meditation evidence
 - **Type**: research-topic
@@ -98,6 +92,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Create concept page for heterophenomenology
+- **Type**: expand-topic
+- **Notes**: Gap analysis. Dennett's influential third-person methodology for studying consciousness is referenced across phenomenology discussions but lacks dedicated treatment. Research shows heterophenomenology treats first-person reports as data about a "heterophenomenological world" without committing to phenomenology's reality. Critical for understanding the methodological landscape in consciousness science and why the Map rejects purely third-person approaches. Connects to Dualism tenet by exemplifying the reductionist alternative the Map opposes.
+- **Result**: Created focused concept article (~2,400 words) on Dennett's heterophenomenology method. Covers the three-step method (collect reports, construct heterophenomenological world, explain scientifically), Sherlock Holmes analogy, contrasts with classical phenomenology and neurophenomenology, neutrality claim analysis, self-stultification problem, and connection to illusionism. Argues that while heterophenomenology has limited utility as research tool, its claim to neutrality is deceptive and conflicts with Dualism tenet.
+- **Output**: concepts/heterophenomenology.md
 
 ### ✓ 2026-01-23: Write article on first-person vs third-person methodology
 - **Type**: expand-topic
