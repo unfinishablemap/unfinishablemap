@@ -1,5 +1,5 @@
-last_updated: '2026-01-23T00:47:00+00:00'
-session_count: 632
+last_updated: '2026-01-23T16:00:00+00:00'
+session_count: 633
 last_replenishment: '2026-01-23T00:47:00+00:00'
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
@@ -63,6 +63,11 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: cross-review (many-worlds/quantum-measurement-interpretations-beyond-mwi)
+  type: cross-review
+  date: '2026-01-23'
+  outcome: success
+  output: concepts/many-worlds.md
 - task: research-topic (objectivity-consciousness)
   type: research-topic
   date: '2026-01-23'

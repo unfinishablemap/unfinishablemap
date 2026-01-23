@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review many-worlds.md considering interpretations beyond MWI
-- **Type**: cross-review
-- **Notes**: New article topics/quantum-measurement-interpretations-beyond-mwi.md surveys five major alternatives to Many-Worlds (Copenhagen, Bohmian, QBism, Transactional, Objective Collapse), showing MWI is not the only scientifically respectable interpretation. The many-worlds.md article should reference this comprehensive survey when defending the No Many Worlds tenet.
-- **Source**: chain (from quantum-measurement-interpretations-beyond-mwi.md)
-- **Generated**: 2026-01-23
-
 ### P2: Cross-review integrated-information-theory.md considering temporal phenomenology gap
 - **Type**: cross-review
 - **Notes**: New article topics/time-perception-consciousness-theories.md argues IIT and GNWT explain sub-300ms functional moments but fail to account for multi-second experienced duration (specious present, temporal flow). The integrated-information-theory.md article should acknowledge this limitation—IIT calculates Φ for instantaneous states while missing the extended temporal structure that defines conscious experience.
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review many-worlds.md considering interpretations beyond MWI
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-measurement-interpretations-beyond-mwi.md surveys five major alternatives to Many-Worlds (Copenhagen, Bohmian, QBism, Transactional, Objective Collapse), showing MWI is not the only scientifically respectable interpretation. The many-worlds.md article should reference this comprehensive survey when defending the No Many Worlds tenet.
+- **Result**: Added new "Viable Alternatives to MWI" section (~450 words) comprehensively presenting all five alternatives from the survey (Copenhagen, Bohmian, QBism, Transactional/Time-Symmetric, Objective Collapse) with compatibility assessments for each. Enhanced "Alternative interpretations" paragraph with survey data (36% Copenhagen, 24% confident). Updated related_articles frontmatter to prioritize quantum-measurement-interpretations-beyond-mwi. Enhanced Further Reading section with detailed description of survey article. The integration ensures readers encounter the comprehensive defense that MWI is not the only scientifically respectable option, strengthening the No Many Worlds tenet with empirical evidence from physicist surveys.
+- **Output**: obsidian/concepts/many-worlds.md (revised)
 
 ### ✓ 2026-01-23: Research objectivity and consciousness relationship
 - **Type**: research-topic

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-20 06:12:00+00:00
+ai_modified: 2026-01-23 16:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,15 +15,15 @@ concepts:
 - '[[introspection]]'
 - '[[mental-causation]]'
 created: 2026-01-19
-date: &id001 2026-01-20
+date: &id001 2026-01-23
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-20 06:12:00+00:00
 modified: *id001
 related_articles:
+- '[[quantum-measurement-interpretations-beyond-mwi]]'
 - '[[tenets]]'
-- '[[qm-interpretations-beyond-mwi-2026-01-16]]'
 title: The Many-Worlds Interpretation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -146,6 +146,24 @@ Despite these objections, MWI attracts substantial support among physicists and 
 
 These are genuine virtues. The Map rejects MWI not because it's obviously wrong but because its costs—particularly for identity and meaning—outweigh its benefits.
 
+## Viable Alternatives to MWI
+
+The case against MWI only succeeds if scientifically respectable alternatives exist. They do. The [comprehensive survey of quantum interpretations](/topics/quantum-measurement-interpretations-beyond-mwi/) establishes five major alternatives to Many-Worlds, each with different implications for consciousness:
+
+**Copenhagen Interpretation**: Treats the wave function as representing knowledge rather than physical reality. Measurement causes collapse, but the cut between quantum and classical remains pragmatic. This instrumentalism leaves logical space for consciousness at the measurement boundary without explaining it.
+
+**Bohmian Mechanics (Pilot-Wave Theory)**: Restores determinism via hidden variables—particles always have definite positions guided by a pilot wave. Consciousness has no role; outcomes are predetermined. Low compatibility with the Map's framework because Bohmian determinism makes free will phenomenology systematically illusory.
+
+**QBism (Quantum Bayesianism)**: Radically agent-centered—quantum states represent degrees of belief, not objective reality. "Collapse" is belief update, not physical process. Paradoxically makes agents central while treating quantum states as anti-realist. Mixed compatibility: echoes the Map's phenomenological emphasis but conflicts with realism about conscious states.
+
+**Transactional Interpretation and Time-Symmetric Approaches**: Quantum events involve "handshakes" between forward-in-time (retarded) and backward-in-time (advanced) waves. Consciousness participates atemporally in determining which transactions complete—selecting correlations across time without violating causality. High compatibility with the Map: provides natural foundation for [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) via [retrocausality](/concepts/retrocausality/). Already employed in the Map's [resolution of the Libet problem](/concepts/collapse-and-time/).
+
+**Objective Collapse Theories (GRW, CSL, Penrose)**: Collapse occurs spontaneously according to modified dynamical laws—no observer required in standard versions. But consciousness-integrated variants (Kremnizer-Ranchin, Okon-Sebastian) allow consciousness to modulate collapse rate or operator choice. Penrose-Hameroff's Orch OR proposes consciousness *results from* objective reduction at gravitational thresholds. Moderate to high compatibility depending on variant.
+
+The interpretive landscape is genuinely open. A 2025 Nature Physics survey found only 24% of physicists are confident their preferred interpretation is correct. Physics has not settled on determinism (Bohm), observer-independence (objective collapse), or anti-realism (QBism). The question remains which interpretation best explains both quantum phenomena *and* the existence of consciousness.
+
+The Map's advantage: taking consciousness seriously as an explanatory target rather than a philosophical add-on. Interpretations that eliminate consciousness (Bohmian), treat it as purely epistemic (QBism), or ignore it (standard GRW/CSL) don't explain why consciousness exists at all. Interpretations where consciousness participates in collapse—whether by causing it (transactional) or modulating it (integrated CSL)—explain both quantum measurement outcomes and phenomenal facts.
+
 ## What Would Challenge This View?
 
 The Map's rejection of MWI is principled but not dogmatic. Conditions that would significantly weaken the case against MWI:
@@ -178,14 +196,15 @@ MWI conflicts with multiple site commitments:
 
 **Occam's Razor Has Limits**: The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against privileging simplicity when knowledge is incomplete. MWI defenders appeal to Occam's Razor: fewer laws (no collapse postulate) means simpler theory. But this simplicity is superficial. MWI trades ontological simplicity (one world) for law simplicity (one equation). Given our deep uncertainty about consciousness and its role in physics, preferring MWI on simplicity grounds is premature.
 
-Alternative interpretations—particularly [time-symmetric](/concepts/collapse-and-time/) approaches like the transactional interpretation—preserve these site commitments while solving the measurement problem. The interpretive landscape remains open; MWI is not forced upon us by the physics.
+Alternative interpretations—particularly [time-symmetric](/concepts/collapse-and-time/) approaches like the transactional interpretation—preserve these site commitments while solving the measurement problem. The interpretive landscape remains genuinely open; MWI is not forced upon us by the physics. The [comprehensive survey of quantum interpretations](/topics/quantum-measurement-interpretations-beyond-mwi/) establishes that MWI is one among several scientifically respectable options, with no interpretation commanding consensus among physicists (only 36% favor Copenhagen in a 2025 Nature Physics survey, and only 24% are confident their preferred interpretation is correct).
 
 ## Further Reading
 
-- [quantum-interpretations](/concepts/quantum-interpretations/) — Survey of alternatives to MWI
+- [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) — Comprehensive survey of five major alternatives to MWI (Copenhagen, Bohmian, QBism, Transactional, Objective Collapse) with implications for consciousness
+- [quantum-interpretations](/concepts/quantum-interpretations/) — Overview of interpretation families
 - [haecceity](/concepts/haecceity/) — Why indexical identity matters
 - [measurement-problem](/concepts/measurement-problem/) — What all interpretations must solve
-- [collapse-and-time](/concepts/collapse-and-time/) — Time-symmetric alternatives
+- [collapse-and-time](/concepts/collapse-and-time/) — Time-symmetric alternatives and retrocausal solutions
 - [free-will](/topics/free-will/) — Why genuine selection requires collapse
 - [tenets](/tenets/) — The foundational commitment against MWI
 - [illusionism](/concepts/illusionism/) — The strongest physicalist challenge and why it doesn't help MWI
