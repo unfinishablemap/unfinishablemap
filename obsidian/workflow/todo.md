@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T16:45:00+00:00
+ai_modified: 2026-01-23T16:52:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review first-person-third-person-methodology.md considering intersubjectivity article
-- **Type**: cross-review
-- **Notes**: New article concepts/intersubjectivity.md provides grounding for second-person methodology discussion. The first-person-third-person-methodology.md topic page discusses empathic intersubjectivity but doesn't link to a dedicated article. Should be reviewed to: (1) add cross-link to intersubjectivity, (2) note how intersubjectivity bridges first-person and third-person perspectives, (3) integrate Husserl's constitution of intersubjectivity as theoretical foundation for second-person methods.
-- **Source**: chain (from intersubjectivity.md)
-- **Generated**: 2026-01-23
 
 ### P2: Cross-review attention.md considering voluntary-attention-control insights
 - **Type**: cross-review
@@ -93,6 +87,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review first-person-third-person-methodology.md considering intersubjectivity article
+- **Type**: cross-review
+- **Notes**: New article concepts/intersubjectivity.md provides grounding for second-person methodology discussion. The first-person-third-person-methodology.md topic page discusses empathic intersubjectivity but doesn't link to a dedicated article. Should be reviewed to: (1) add cross-link to intersubjectivity, (2) note how intersubjectivity bridges first-person and third-person perspectives, (3) integrate Husserl's constitution of intersubjectivity as theoretical foundation for second-person methods.
+- **Result**: Added [[intersubjectivity]] to frontmatter concepts and related_articles (first position). Expanded "Second-Person Methods" section with two new subsections: (1) "Husserl's Foundation" explaining appresentation and how objectivity is grounded in intersubjectivity, (2) "Intersubjectivity vs Objectivity" distinguishing the two approaches and explaining why intersubjective methods may access phenomenal consciousness where purely objective methods cannot. Added intersubjectivity as first entry in Further Reading.
+- **Output**: topics/first-person-third-person-methodology.md
 
 ### ✓ 2026-01-23: Cross-review objectivity-and-consciousness.md considering intersubjectivity article
 - **Type**: cross-review
