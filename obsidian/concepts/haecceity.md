@@ -1,9 +1,9 @@
 ---
 title: "Haecceity and Indexical Identity"
 created: 2026-01-16
-modified: 2026-01-20
+modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-20T04:30:00+00:00
+ai_modified: 2026-01-23T06:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,9 +16,12 @@ concepts:
   - "[[illusionism]]"
   - "[[buddhism-and-dualism]]"
   - "[[attention-as-interface]]"
+  - "[[measurement-problem]]"
+  - "[[quantum-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[meaning-of-life]]"
+  - "[[indexical-identity-quantum-measurement]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -66,6 +69,8 @@ Consider the [[philosophical-zombies|zombie argument]]: a creature physically id
 The answer cannot be purely qualitative. By hypothesis, you and your zombie twin share all qualitative physical properties. The difference must be non-qualitative: you have the property of being *this* conscious subject; the zombie lacks it.
 
 This is haecceity applied to consciousness. The fact that you are conscious is not just a qualitative fact about your brain states—it's the fact that *this* subject exists and experiences.
+
+This haecceitistic dimension of consciousness extends to the quantum domain. If the [[measurement-problem]] asks why definite outcomes occur rather than superpositions, the indexical question asks: given that a definite outcome occurs, why does *this* particular consciousness experience *this* particular result? The indexical gap—examined in depth in [[indexical-identity-quantum-measurement]]—reveals that no quantum interpretation adequately addresses the haecceity of conscious experience.
 
 ## The Map's Indexical Emphasis
 
@@ -126,6 +131,8 @@ The [[many-worlds#3. The Probability Problem|probability problem]] for many-worl
 Proposed solutions invoke self-locating uncertainty: before looking at the result, you're uncertain which branch you're in. Decision theory allegedly recovers the Born rule from rational constraints on such uncertainty.
 
 But this presupposes that there's a fact about which branch you're in—a haecceitistic fact. If personal identity is purely qualitative (anti-haecceitism), all branches equally contain your continuers. There's no "you" to be uncertain about which branch contains you. The self-locating uncertainty is ill-defined.
+
+The [[indexical-identity-quantum-measurement|indexical identity problem]] extends this analysis across all QM interpretations. QBism presupposes determinate experience without explaining it. Consciousness-collapse theories explain how collapse happens but not why *this* consciousness exists to trigger it. Relational QM demotes consciousness entirely. Each interpretation addresses the measurement problem while leaving the indexical problem—grounded in haecceity—untouched.
 
 Many-worlds theorists who embrace anti-haecceitism must find another route to the Born rule. Many who accept self-locating uncertainty are implicitly haecceitists—accepting that indexical facts are real even when qualitative facts are symmetric.
 
@@ -219,6 +226,7 @@ The haecceity concept makes explicit what the Map presupposes. Personal identity
 
 - [[personal-identity]] — How haecceity grounds personal identity
 - [[many-worlds]] — Why indexical identity problems doom many-worlds
+- [[indexical-identity-quantum-measurement]] — How haecceity grounds which outcome *this* consciousness experiences
 - [[pairing-problem]] — The haecceity response to Kim's challenge
 - [[self-and-consciousness]] — The minimal self and phenomenology of thisness
 - [[philosophical-zombies]] — Why qualitative identity doesn't guarantee conscious identity

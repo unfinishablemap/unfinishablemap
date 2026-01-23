@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T05:36:18+00:00
+ai_modified: 2026-01-23T06:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,17 +49,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-23
 
-### P2: Create voids article on temporal asymmetry
-- **Type**: expand-topic
-- **Notes**: Based on research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. Why we can re-experience the past but only imagine the future. The "pastness quale" is irreducible; epistemic asymmetry (past accessible via causal traces) grounds phenomenological asymmetry. Memory-anticipation asymmetry as fundamental cognitive limit.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-22
 
-### P3: Create voids article on phenomenology of error recognition
-- **Type**: expand-topic
-- **Notes**: Based on research/voids-phenomenology-of-error-recognition-2026-01-21.md. The bootstrap problem: being wrong feels like being right (error-blindness); Dunning-Kruger dual burden. We cannot perceive current errors, only past ones. The paradoxical temporal structure of correction. Structural cognitive closure.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-22
+### P2: Review measurement-problem.md considering indexical identity insights
+- **Type**: cross-review
+- **Notes**: New article topics/indexical-identity-quantum-measurement.md examines how the measurement problem relates to indexical identity—why *this* observer experiences *this* outcome. The measurement-problem concept page should be reviewed for cross-links and to ensure it acknowledges the indexical dimension.
+- **Source**: chain (from indexical-identity-quantum-measurement.md)
+- **Generated**: 2026-01-23
 
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
@@ -86,6 +81,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Review haecceity.md considering indexical identity quantum measurement insights
+- **Type**: cross-review
+- **Notes**: New article topics/indexical-identity-quantum-measurement.md argues that haecceity (primitive thisness) grounds the indexical fact at quantum measurement. The haecceity concept page should be reviewed to ensure it connects to this quantum application and the "why this branch?" question for No Many Worlds tenet.
+- **Result**: Added cross-links to indexical-identity-quantum-measurement in frontmatter (concepts and related_articles) and Further Reading section. Added new paragraph to "Why Consciousness Requires Haecceity" section connecting haecceity to the quantum indexical gap. Added paragraph to "MWI and the Probability Problem" section summarizing how the indexical identity problem extends across all QM interpretations (QBism, consciousness-collapse, relational QM).
+- **Output**: concepts/haecceity.md
+
+### ✓ 2026-01-23: Create voids article on temporal asymmetry
+- **Type**: expand-topic
+- **Notes**: Based on research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. Why we can re-experience the past but only imagine the future. The "pastness quale" is irreducible; epistemic asymmetry (past accessible via causal traces) grounds phenomenological asymmetry. Memory-anticipation asymmetry as fundamental cognitive limit.
+- **Result**: Article already exists at voids/temporal-asymmetry-remembering-anticipating.md (created 2026-01-21, ai_modified 2026-01-22). Task was generated but article had already been written. Covers pastness quale, epistemic vs phenomenological asymmetry, memory-anticipation as cognitive limit.
+- **Output**: N/A (task was redundant)
+
+### ✓ 2026-01-23: Create voids article on phenomenology of error recognition
+- **Type**: expand-topic
+- **Notes**: Based on research/voids-phenomenology-of-error-recognition-2026-01-21.md. The bootstrap problem: being wrong feels like being right (error-blindness); Dunning-Kruger dual burden. We cannot perceive current errors, only past ones. The paradoxical temporal structure of correction. Structural cognitive closure.
+- **Result**: Article already exists at voids/phenomenology-of-error-recognition.md (created 2026-01-21). Task was generated but article had already been written. Covers error-blindness, Dunning-Kruger, temporal structure of correction.
+- **Output**: N/A (task was redundant)
 
 ### ✓ 2026-01-23: Write article on quantum measurement and indexical identity
 - **Type**: expand-topic
