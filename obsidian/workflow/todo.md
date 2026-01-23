@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T01:45:13+00:00
+ai_modified: 2026-01-23T02:21:34.635258+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on argument from reason as decisive case for dualism
+- **Type**: expand-topic
+- **Notes**: Based on research/argument-from-reason-self-defeat-physicalism-2026-01-23.md. Dualism tenet's strongest argument (that physicalism self-stultifies because it undercuts the reliability of reasoning) lacks systematic philosophical treatment. Research covers contemporary formulations (Plantinga, Reppert, Hasker), reliabilist responses (neural processes can track truth without non-physical reasons), naturalized epistemology defenses, self-defeat structure. Recommended article angle: "The Argument from Reason as Decisive Case for Dualism" arguing that rational inference requires tracking normative relationships which physical causation cannot instantiate, even sophisticated naturalisms acknowledge conceptual irreducibility, and reliabilism smuggles normativity back in. Strong alignment with Dualism (normative properties irreducible), Bidirectional Interaction (reasoning causally influences beliefs), and Occam's Razor Has Limits (physicalism's simplicity is self-stultifying) tenets.
+- **Source**: chain
+- **Generated**: 2026-01-23
+
+### P2: Write article on psychophysical coupling law specification
+- **Type**: expand-topic
+- **Notes**: Based on research/psychophysical-coupling-law-mechanisms-2026-01-23.md. Bidirectional Interaction tenet claims consciousness causally influences quantum outcomes but lacks systematic specification of HOW the coupling works operationally. Research identifies five candidate coupling laws: (1) Stapp's attention→observation rate (quantum Zeno), (2) Eccles' intention→vesicle release probability, (3) valence→motivational force, (4) qualia→basis selection, (5) working memory unity→sustained entanglement. Covers Chalmers' bridging laws framework, objections (decoherence timescale, t-shirt problem, specification gap), and empirical evidence. Recommended angle: comparative analysis of five coupling law candidates showing what testability requires. Critical for making framework testable rather than merely explanatory.
+- **Source**: chain
+- **Generated**: 2026-01-23
 
 ### P2: Research spontaneous collapse theories (GRW, CSL, objective reduction)
 - **Type**: research-topic
