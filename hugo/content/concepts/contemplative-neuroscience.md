@@ -31,7 +31,7 @@ topics: []
 
 # Contemplative Neuroscience
 
-Meditation training produces measurable neuroplastic changes in brain structure and function—cortical thickening, altered network connectivity, modulated default mode activity. This provides paradigm evidence for [bidirectional-interaction](/bidirectional-interaction/): conscious practice causally reshapes neural architecture through top-down processes. If [phenomenal-consciousness](/concepts/phenomenal-consciousness/) were causally inert, deliberate attention training couldn't produce these effects.
+Meditation training produces measurable neuroplastic changes in brain structure and function—cortical thickening, altered network connectivity, modulated default mode activity. This provides paradigm evidence for [bidirectional-interaction](/concepts/bidirectional-interaction/): conscious practice causally reshapes neural architecture through top-down processes. If [phenomenal-consciousness](/concepts/phenomenal-consciousness/) were causally inert, deliberate attention training couldn't produce these effects.
 
 The field bridges ancient contemplative traditions with modern neuroscience, showing that trained first-person observation correlates reliably with third-person neural measurements. This realizes [neurophenomenology](/concepts/neurophenomenology/)'s "mutual constraints" framework: phenomenological training enables precise reports that constrain neuroscience findings, while neural measurements validate phenomenological descriptions.
 
@@ -201,7 +201,7 @@ The limitation doesn't invalidate contemplative neuroscience, but suggests cauti
 - **Structural grey matter changes** require sustained long-term practice (months to years, thousands of hours)
 - Early studies claiming rapid structural changes had methodological limitations (small samples, inadequate controls)
 
-The dose-response relationship is important: brief interventions produce functional changes, extended practice produces structural changes. Both support [bidirectional-interaction](/bidirectional-interaction/)—consciousness training causally influences brain, with effects accumulating over time.
+The dose-response relationship is important: brief interventions produce functional changes, extended practice produces structural changes. Both support [bidirectional-interaction](/concepts/bidirectional-interaction/)—consciousness training causally influences brain, with effects accumulating over time.
 
 ## Clinical Applications and Therapeutic Efficacy
 
@@ -223,13 +223,13 @@ If phenomenology were causally inert, how would deliberate [attention](/concepts
 
 But the intervention is phenomenological: learning to observe thoughts without identification, cultivate compassionate awareness, notice present-moment experience. The therapeutic mechanism involves changing relationship to phenomenology—not eliminating distressing qualia, but transforming how consciousness engages with them.
 
-This suggests phenomenology is causally relevant to mental health outcomes. The therapeutic efficacy of contemplative practices provides pragmatic evidence for [bidirectional-interaction](/bidirectional-interaction/).
+This suggests phenomenology is causally relevant to mental health outcomes. The therapeutic efficacy of contemplative practices provides pragmatic evidence for [bidirectional-interaction](/concepts/bidirectional-interaction/).
 
 ## Relation to Site Perspective
 
 ### Bidirectional Interaction
 
-**Primary support:** Contemplative neuroscience provides paradigm empirical evidence for [bidirectional-interaction](/bidirectional-interaction/). Conscious practice causally reshapes brain structure and function through top-down processes. The neuroplasticity findings directly challenge [epiphenomenalism](/arguments/epiphenomenalism/)—if phenomenology were causally inert, meditation couldn't produce these effects.
+**Primary support:** Contemplative neuroscience provides paradigm empirical evidence for [bidirectional-interaction](/concepts/bidirectional-interaction/). Conscious practice causally reshapes brain structure and function through top-down processes. The neuroplasticity findings directly challenge [epiphenomenalism](/arguments/epiphenomenalism/)—if phenomenology were causally inert, meditation couldn't produce these effects.
 
 The evidence shows:
 1. Consciousness can deliberately modify its own neural basis through willed practice
@@ -267,7 +267,7 @@ Simplicity (eliminating first-person methods) comes at cost of explanatory adequ
 - [Free-will](/topics/free-will/): How meditation evidence connects to agent causation and libertarian accounts
 - [Emotional-consciousness](/concepts/emotional-consciousness/): Phenomenal character of emotions and their role in consciousness
 - [Epiphenomenalism](/arguments/epiphenomenalism/): Why contemplative neuroscience challenges the view that consciousness is causally inert
-- [Bidirectional-interaction](/bidirectional-interaction/): The central tenet that contemplative neuroscience supports empirically
+- [Bidirectional-interaction](/concepts/bidirectional-interaction/): The central tenet that contemplative neuroscience supports empirically
 
 [^lazar]: Lazar, S. W., et al. (2005). "Meditation experience is associated with increased cortical thickness." PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC1361002/
 

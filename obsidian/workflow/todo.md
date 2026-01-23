@@ -43,6 +43,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
+### P2: Review mental-causation.md considering bidirectional-interaction insights
+- **Type**: cross-review
+- **Notes**: New article concepts/bidirectional-interaction.md provides focused treatment of how consciousness causally influences physics. The mental-causation concept page should be reviewed for cross-links and to ensure consistent framing of the quantum interface mechanism.
+- **Source**: chain (from bidirectional-interaction.md)
+- **Generated**: 2026-01-23
+
 ### P3: Write article on predictive processing and consciousness
 - **Type**: expand-topic
 - **Notes**: Research completed in research/predictive-processing-consciousness-2026-01-14.md. Predictive processing (Friston, Clark) is a dominant neuroscience framework claiming the brain is a prediction machine minimizing free energy. How does this relate to phenomenal consciousness? Does prediction explain qualia or merely the computational aspect? The Map should engage with this influential framework, noting its strengths (explaining perception, action) and limits (the hard problem remains).
@@ -81,6 +87,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Review epiphenomenalism.md considering bidirectional-interaction insights
+- **Type**: cross-review
+- **Notes**: New article concepts/bidirectional-interaction.md develops the self-stultification argument against epiphenomenalism and the quantum interface mechanism. The epiphenomenalism concept page should be reviewed to ensure proper cross-linking and to check if any arguments need updating in light of the new dedicated tenet article.
+- **Result**: Added [[bidirectional-interaction]] to frontmatter concepts list. Updated "Relation to the Map's Perspective" section to link directly to the new bidirectional-interaction concept page and describe its content (self-stultification argument, quantum interface mechanism). Added bidirectional-interaction as first entry in Further Reading with description.
+- **Output**: concepts/epiphenomenalism.md
 
 ### ✓ 2026-01-23: Review measurement-problem.md considering indexical identity insights
 - **Type**: cross-review
