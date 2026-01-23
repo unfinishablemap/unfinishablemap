@@ -43,6 +43,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
+### P2: Write article on multimodal phenomenal binding
+- **Type**: expand-topic
+- **Notes**: Based on research/phenomenal-binding-multimodal-integration-2026-01-23.md. How consciousness binds information across different sensory modalities (vision, audition, touch, proprioception) into unified multimodal experience. Research identifies binding problem split: BP1 (computational segregation/integration) vs BP2 (phenomenal unity). Neural mechanisms (temporal synchrony, thalamocortical oscillations, superior colliculus convergence) address BP1 but struggle with BP2—why distributed processing produces unified subjective experience. Strongly supports Dualism tenet (phenomenal unity resists physical reduction) and Minimal Quantum Interaction tenet (quantum mechanisms may solve combination problem). Four potential article angles: multimodal binding as paradigm for dualism, thalamus as quantum selection interface, phenomenal unity resists mereological reduction, cross-modal temporal binding and retrocausality.
+- **Source**: chain
+- **Generated**: 2026-01-23
+
+### P2: Research spontaneous collapse theories (GRW, CSL, objective reduction)
+- **Type**: research-topic
+- **Notes**: Gap analysis. Minimal Quantum Interaction tenet mentions objective reduction mechanisms but lacks detailed treatment of spontaneous collapse theories (Ghirardi-Rimini-Weber, Continuous Spontaneous Localization). These theories provide alternative collapse mechanisms that could work alongside consciousness-modulated collapse. Critical for prebiotic collapse problem—how did quantum systems collapse before consciousness existed? GRW/CSL provide baseline physical collapse with consciousness potentially modulating outcomes in neural systems. Supports both Minimal Quantum Interaction (alternative mechanisms) and No Many Worlds (collapse is real).
+- **Source**: gap_analysis
+- **Generated**: 2026-01-23
+
+### P2: Research neural correlates distinguishing conscious vs unconscious processing
+- **Type**: research-topic
+- **Notes**: Gap analysis. Bidirectional Interaction tenet requires evidence that consciousness makes causal difference. Need systematic treatment of what neural signatures distinguish conscious from unconscious information processing—not just correlates but functional differences. Masking studies, subliminal perception, blindsight, inattentional blindness, binocular rivalry. What processing occurs without consciousness vs what requires it? Connects to access-consciousness.md, baseline-cognition.md, attention.md. Strongly supports Bidirectional Interaction tenet by showing consciousness enables functions that unconscious processing cannot achieve.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-23
+
 ### P3: Create voids article on temporal asymmetry
 - **Type**: expand-topic
 - **Notes**: Based on research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. Why we can re-experience the past but only imagine the future. The "pastness quale" is irreducible; epistemic asymmetry (past accessible via causal traces) grounds phenomenological asymmetry. Memory-anticipation asymmetry as fundamental cognitive limit.
