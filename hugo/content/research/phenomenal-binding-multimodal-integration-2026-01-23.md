@@ -6,7 +6,8 @@ concepts: []
 created: 2026-01-23
 date: '2026-01-23'
 draft: false
-related_articles: []
+related_articles:
+- '[[phenomenal-binding]]'
 title: Research Notes - Phenomenal Binding Mechanisms Across Sensory Modalities
 ---
 
