@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-23 14:35:00+00:00
+ai_modified: 2026-01-23 21:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[voluntary-attention-control]]'
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
 - '[[mental-imagery]]'
@@ -90,6 +91,28 @@ The Map's position: genuine uncertainty about the attention-consciousness relati
 ## Attention as the Mind-Matter Interface
 
 Here the Map's framework offers a distinctive perspective. Rather than asking whether attention *is* consciousness, ask: does attention *mediate* consciousness's influence on the physical world?
+
+### The Willed-Instructed-Exogenous Distinction
+
+Recent neuroscience reveals that "voluntary attention" encompasses importantly different modes. [Vossel (2023) and Bengson (2019)](/archive/topics/voluntary-attention-control/) identify three distinct attention types:
+
+| Mode | Trigger | Deployment Time | Effort |
+|------|---------|-----------------|--------|
+| **Exogenous** | External salience | ~100ms | None |
+| **Instructed** | External cues | ~300ms | Low |
+| **Willed** | Internal decision | ~300ms | High |
+
+The critical philosophical distinction is between instructed and willed attention. Both count as "top-down" in overriding stimulus-driven capture, but only willed attention involves genuine decision-making. Following an instruction to "attend left" is top-down but automatic—you implement an externally provided goal. *Choosing* to attend left without prompting requires generating the goal internally.
+
+This distinction matters for the interface hypothesis. Evidence for top-down attention is often cited as evidence for voluntary control, but the inference is unwarranted. Top-down control can be purely automatic (task-set maintenance, learned associations). Genuine volition requires internal generation of the attentional goal.
+
+Willed attention engages distinct neural mechanisms:
+
+- **Frontal theta oscillations** (~500ms post-decision)—suggesting engagement of prefrontal decision-making processes
+- **Bidirectional frontoparietal coherence**—information flows both ways between frontal executive and parietal attention regions, versus primarily unidirectional flow during instructed attention
+- **Additional DLPFC and ACC recruitment**—regions associated with cognitive control and conflict monitoring engage more strongly
+
+These findings demonstrate that willed attention is neurally distinct from cued attention. The phenomenological difference—willed attention feels more effortful—tracks a real difference in brain function. If consciousness operates through attention, it operates specifically through the willed mode, not merely through any top-down modulation.
 
 ### Stapp's Proposal
 
@@ -272,6 +295,7 @@ The attention-consciousness relationship illuminates all five tenets:
 
 ## Further Reading
 
+- [voluntary-attention-control](/archive/topics/voluntary-attention-control/) — The willed-instructed-exogenous distinction and why top-down ≠ voluntary
 - [mental-imagery](/concepts/mental-imagery/) — Voluntary vs involuntary imagery as evidence for attention-mediated conscious control
 - [voluntary-attention](/concepts/voluntary-attention/) — The endogenous/willed attention distinction and its neural signatures
 - [attention-as-interface](/concepts/attention-as-interface/) — The hypothesis that attention mediates consciousness's causal influence on matter
