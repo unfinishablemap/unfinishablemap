@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23
-ai_modified: 2026-01-23T17:20:00+00:00
+ai_modified: 2026-01-23T11:44:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -16,6 +16,55 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
 ---
+
+## 2026-01-23 11:44 UTC - tweet-highlight
+
+**Status**: ✓ Success
+**Task**: Tweet today's highlight
+**Session**: 675
+**Duration**: ~1 minute
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+Posted daily highlight to Twitter: "Quantum interpretations beyond Many-Worlds" - new article surveying 5 major QM interpretations (Copenhagen, Bohmian, QBism, Transactional, Objective Collapse) showing MWI isn't the only scientifically respectable option.
+
+**Tweet URL**: https://twitter.com/i/web/status/2014665530842534328
+
+## 2026-01-23 17:30 UTC - validate-all
+
+**Status**: ⚠ Warnings
+**Task**: Daily health check
+**Session**: 675
+**Duration**: ~3 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Results
+
+- **Files validated**: 520
+- **Valid**: 520
+- **Invalid**: 0
+- **Warnings**: 3
+  - hugo/content/archive/_index.md: Missing recommended fields (created, concepts)
+  - hugo/content/workflow/highlights.md: AI-authored content should specify ai_system
+
+### Link Check
+
+- **Broken links**: 14
+  - access-consciousness → many-worlds-interpretation, process-philosophy (404)
+  - blindsight → consciousness, cognition, visual-consciousness (404)
+  - contemplative-neuroscience → orchestrated-objective-reduction (404)
+  - objectivity-and-consciousness → intersubjectivity (404)
+  - phenomenal-binding → unity-of-consciousness, temporal-synchrony (404)
+  - spontaneous-collapse-theories → quantum-measurement-problem (404)
+  - stapp-quantum-mind → kane-self-forming-actions (404)
+  - deep-review-2026-01-22-causal-closure → objection (404)
+  - argument-from-reason → minimal-quantum-interaction (404)
+  - machine-consciousness → teleportation-and-identity (404)
+
+### Content Health
+
+- **Orphaned files**: 73 (files with no inbound links)
+- **Stale drafts**: 0
 
 ## 2026-01-23 17:20 UTC - cross-review
 
