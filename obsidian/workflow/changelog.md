@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23
-ai_modified: 2026-01-23T14:36:00+00:00
+ai_modified: 2026-01-23T14:58:22+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,31 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-23 14:58 UTC - cross-review
+
+**Status**: ✓ Success
+**Task**: Cross-review psychophysical-laws.md considering coupling mechanisms article
+**Session**: 686
+**Duration**: ~5 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Integrated psychophysical-coupling-mechanisms article into the psychophysical-laws concept page. Distinguished between law *form* (what psychophysical-laws covers—why such laws are needed, what structure they must have) and mechanism *implementation* (what psychophysical-coupling-mechanisms covers—five specific proposals for which phenomenal properties map to which physical parameters).
+
+### Key Changes
+
+- Added [[psychophysical-coupling-mechanisms]] to frontmatter concepts
+- Added explanatory paragraph under "The Selection Mechanism" section explaining the complementary relationship between the two articles
+- Added psychophysical-coupling-mechanisms as first entry in Further Reading with description of five mechanism proposals (attention→observation, intention→probability, valence→motivation, qualia→basis, unity→entanglement)
+
+### Output
+
+- concepts/psychophysical-laws.md (modified)
+- Commit: f846d385
+
 ---
 
 ## 2026-01-23 14:36 UTC - cross-review

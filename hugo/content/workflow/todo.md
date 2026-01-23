@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 14:36:00+00:00
+ai_modified: 2026-01-23 14:58:22+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,10 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review neurophenomenology.md considering contemplative-neuroscience evidence
+### P2: Write article on quantum measurement and subjective probability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. Comprehensive treatment of how different QM interpretations handle Born rule probabilities and their relationship to consciousness: (1) QBism treats probabilities as subjective beliefs, (2) von Neumann-Wigner consciousness-collapse (now largely abandoned), (3) relational/participatory approaches. Critical finding: indexical identity question—why *this* consciousness experiences *this* outcome—remains unresolved in all interpretations except consciousness-collapse. Connects to quantum-interpretations.md, measurement-problem.md, haecceity.md. Supports Minimal Quantum Interaction tenet.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-23
+
+### P2: Cross-review binding-problem.md considering multimodal-binding article
 - **Type**: cross-review
-- **Notes**: New article concepts/contemplative-neuroscience.md provides extensive empirical data from the neurophenomenological research program (Varela, Davidson, Saron). The neurophenomenology concept page should be reviewed to: (1) ensure proper cross-links to contemplative-neuroscience, (2) update with Shamatha Project findings, (3) strengthen the mutual-constraint methodology section with concrete examples.
-- **Source**: chain (from contemplative-neuroscience.md)
+- **Notes**: New article concepts/multimodal-binding.md covers phenomenal integration across sensory modalities. The binding-problem.md topic page should be reviewed to: (1) add cross-link to multimodal-binding, (2) distinguish the general binding problem from specifically multimodal binding, (3) note how multimodal binding provides paradigm evidence for unity of consciousness.
+- **Source**: chain (from multimodal-binding.md)
+- **Generated**: 2026-01-23
+
+### P2: Cross-review problem-of-other-minds.md considering objectivity article
+- **Type**: cross-review
+- **Notes**: New article concepts/objectivity-and-consciousness.md addresses Nagel's "view from nowhere" and how consciousness relates to objective description. The problem-of-other-minds.md concept page should be reviewed to: (1) add cross-link to objectivity-and-consciousness, (2) integrate the insight that the subjectivity of consciousness grounds the problem of other minds, (3) note how objectivity requirements shape our epistemological access to other minds.
+- **Source**: chain (from objectivity-and-consciousness.md)
 - **Generated**: 2026-01-23
 
 ### P2: Deep review mental-imagery.md
@@ -94,6 +106,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review psychophysical-laws.md considering coupling mechanisms article
+- **Type**: cross-review
+- **Notes**: New article concepts/psychophysical-coupling-mechanisms.md provides detailed treatment of mechanism proposals for how consciousness and brain interact. The psychophysical-laws.md concept page should be reviewed to: (1) add cross-link to psychophysical-coupling-mechanisms, (2) distinguish law *form* from mechanism *implementation*, (3) integrate any relevant material on Chalmers's structural coherence principles.
+- **Result**: Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) to frontmatter concepts. Added explanatory paragraph under "The Selection Mechanism" section distinguishing law *form* (what psychophysical-laws covers) from mechanism *implementation* (what psychophysical-coupling-mechanisms covers). Added psychophysical-coupling-mechanisms as first entry in Further Reading with description of the five mechanism proposals.
+- **Output**: concepts/psychophysical-laws.md
+
+### ✓ 2026-01-23: Cross-review neurophenomenology.md considering contemplative-neuroscience evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/contemplative-neuroscience.md provides extensive empirical data from the neurophenomenological research program (Varela, Davidson, Saron). The neurophenomenology concept page should be reviewed to: (1) ensure proper cross-links to contemplative-neuroscience, (2) update with Shamatha Project findings, (3) strengthen the mutual-constraint methodology section with concrete examples.
+- **Result**: Added [contemplative-neuroscience](/concepts/contemplative-neuroscience/) to frontmatter concepts. Added new paragraph to Varela's Method section explaining Shamatha Project validation of mutual constraints—phenomenological training producing measurable improvements in attention and perceptual discrimination. Added willed/instructed/exogenous attention distinction to Bidirectional Interaction section showing how conscious intention's content matters causally. Added contemplative-neuroscience as first entry in Further Reading with description.
+- **Output**: concepts/neurophenomenology.md
 
 ### ✓ 2026-01-23: Cross-review attention.md considering mental-imagery insights
 - **Type**: cross-review

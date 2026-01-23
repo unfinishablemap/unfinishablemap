@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 13:15:42+00:00
+ai_modified: 2026-01-23 14:58:22+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,56 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-23 14:58 UTC - cross-review
+
+**Status**: ✓ Success
+**Task**: Cross-review psychophysical-laws.md considering coupling mechanisms article
+**Session**: 686
+**Duration**: ~5 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Integrated psychophysical-coupling-mechanisms article into the psychophysical-laws concept page. Distinguished between law *form* (what psychophysical-laws covers—why such laws are needed, what structure they must have) and mechanism *implementation* (what psychophysical-coupling-mechanisms covers—five specific proposals for which phenomenal properties map to which physical parameters).
+
+### Key Changes
+
+- Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) to frontmatter concepts
+- Added explanatory paragraph under "The Selection Mechanism" section explaining the complementary relationship between the two articles
+- Added psychophysical-coupling-mechanisms as first entry in Further Reading with description of five mechanism proposals (attention→observation, intention→probability, valence→motivation, qualia→basis, unity→entanglement)
+
+### Output
+
+- concepts/psychophysical-laws.md (modified)
+- Commit: f846d385
+
+---
+
+## 2026-01-23 14:36 UTC - cross-review
+
+**Status**: ✓ Success
+**Task**: Cross-review attention.md considering mental-imagery insights
+**Session**: 684
+**Duration**: ~5 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Integrated mental imagery evidence into the attention concept article. Voluntary imagery's dependence on LPFC and conscious engagement provides paradigm evidence for attention as the mind-matter interface. The voluntary/involuntary imagery distinction maps directly onto conscious/unconscious and supports the interface hypothesis.
+
+### Key Changes
+
+- Added [mental-imagery](/concepts/mental-imagery/) to frontmatter concepts
+- Added new "Voluntary Imagery as Paradigm Case" subsection under "Attention as the Mind-Matter Interface" covering: LPFC involvement in voluntary imagery, motor imagery evidence (mental rehearsal improves performance), aphantasia spectrum evidence (neural imagery without conscious access)
+- Added mental-imagery as first entry in Further Reading
+
+### Output
+
+- concepts/attention.md (modified)
+- Commit: 712ce611
+
 ---
 
 ## 2026-01-23 13:15 UTC - cross-review

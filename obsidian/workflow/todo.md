@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T18:30:00+00:00
+ai_modified: 2026-01-23T14:58:22+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on quantum measurement and subjective probability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. Comprehensive treatment of how different QM interpretations handle Born rule probabilities and their relationship to consciousness: (1) QBism treats probabilities as subjective beliefs, (2) von Neumann-Wigner consciousness-collapse (now largely abandoned), (3) relational/participatory approaches. Critical finding: indexical identity question—why *this* consciousness experiences *this* outcome—remains unresolved in all interpretations except consciousness-collapse. Connects to quantum-interpretations.md, measurement-problem.md, haecceity.md. Supports Minimal Quantum Interaction tenet.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-23
+
+### P2: Cross-review binding-problem.md considering multimodal-binding article
+- **Type**: cross-review
+- **Notes**: New article concepts/multimodal-binding.md covers phenomenal integration across sensory modalities. The binding-problem.md topic page should be reviewed to: (1) add cross-link to multimodal-binding, (2) distinguish the general binding problem from specifically multimodal binding, (3) note how multimodal binding provides paradigm evidence for unity of consciousness.
+- **Source**: chain (from multimodal-binding.md)
+- **Generated**: 2026-01-23
+
+### P2: Cross-review problem-of-other-minds.md considering objectivity article
+- **Type**: cross-review
+- **Notes**: New article concepts/objectivity-and-consciousness.md addresses Nagel's "view from nowhere" and how consciousness relates to objective description. The problem-of-other-minds.md concept page should be reviewed to: (1) add cross-link to objectivity-and-consciousness, (2) integrate the insight that the subjectivity of consciousness grounds the problem of other minds, (3) note how objectivity requirements shape our epistemological access to other minds.
+- **Source**: chain (from objectivity-and-consciousness.md)
+- **Generated**: 2026-01-23
 
 ### P2: Deep review mental-imagery.md
 - **Type**: deep-review
@@ -87,6 +105,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review psychophysical-laws.md considering coupling mechanisms article
+- **Type**: cross-review
+- **Notes**: New article concepts/psychophysical-coupling-mechanisms.md provides detailed treatment of mechanism proposals for how consciousness and brain interact. The psychophysical-laws.md concept page should be reviewed to: (1) add cross-link to psychophysical-coupling-mechanisms, (2) distinguish law *form* from mechanism *implementation*, (3) integrate any relevant material on Chalmers's structural coherence principles.
+- **Result**: Added [[psychophysical-coupling-mechanisms]] to frontmatter concepts. Added explanatory paragraph under "The Selection Mechanism" section distinguishing law *form* (what psychophysical-laws covers) from mechanism *implementation* (what psychophysical-coupling-mechanisms covers). Added psychophysical-coupling-mechanisms as first entry in Further Reading with description of the five mechanism proposals.
+- **Output**: concepts/psychophysical-laws.md
 
 ### ✓ 2026-01-23: Cross-review neurophenomenology.md considering contemplative-neuroscience evidence
 - **Type**: cross-review
