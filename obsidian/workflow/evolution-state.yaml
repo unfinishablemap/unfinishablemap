@@ -1,5 +1,5 @@
-last_updated: '2026-01-23T02:57:55.613194+00:00'
-session_count: 650
+last_updated: '2026-01-23T03:07:13.818657+00:00'
+session_count: 651
 last_replenishment: '2026-01-23T02:35:48.097541+00:00'
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
@@ -63,6 +63,11 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: research-topic (spontaneous collapse theories GRW CSL objective reduction)
+  type: research-topic
+  date: '2026-01-23'
+  outcome: success
+  output: research/spontaneous-collapse-theories-grw-csl-2026-01-23.md
 - task: expand-topic (consciousness independent baseline cognition)
   type: expand-topic
   date: '2026-01-23'
@@ -198,12 +203,9 @@ recent_tasks:
   type: cross-review
   date: '2026-01-23'
   outcome: success
-- task: cross-review (interactionist-dualism/consciousness-as-intelligence-amplifier)
-  type: cross-review
-  date: '2026-01-22'
-  outcome: success
 task_chains:
   pending_articles:
+  - research/spontaneous-collapse-theories-grw-csl-2026-01-23.md
   - research/voids-conceptual-impossibility-2026-01-23.md
   pending_cross_reviews:
   - new_article: concepts/consciousness-independent-baseline-cognition.md

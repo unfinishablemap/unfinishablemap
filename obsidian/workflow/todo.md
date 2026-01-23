@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
-### P2: Research spontaneous collapse theories (GRW, CSL, objective reduction)
-- **Type**: research-topic
-- **Notes**: Gap analysis. Minimal Quantum Interaction tenet mentions objective reduction mechanisms but lacks detailed treatment of spontaneous collapse theories (Ghirardi-Rimini-Weber, Continuous Spontaneous Localization). These theories provide alternative collapse mechanisms that could work alongside consciousness-modulated collapse. Critical for prebiotic collapse problem—how did quantum systems collapse before consciousness existed? GRW/CSL provide baseline physical collapse with consciousness potentially modulating outcomes in neural systems. Supports both Minimal Quantum Interaction (alternative mechanisms) and No Many Worlds (collapse is real).
-- **Source**: gap_analysis
-- **Generated**: 2026-01-23
-
 ### P2: Research neural correlates distinguishing conscious vs unconscious processing
 - **Type**: research-topic
 - **Notes**: Gap analysis. Bidirectional Interaction tenet requires evidence that consciousness makes causal difference. Need systematic treatment of what neural signatures distinguish conscious from unconscious information processing—not just correlates but functional differences. Masking studies, subliminal perception, blindsight, inattentional blindness, binocular rivalry. What processing occurs without consciousness vs what requires it? Connects to access-consciousness.md, baseline-cognition.md, attention.md. Strongly supports Bidirectional Interaction tenet by showing consciousness enables functions that unconscious processing cannot achieve.
@@ -92,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Research spontaneous collapse theories (GRW, CSL, objective reduction)
+- **Type**: research-topic
+- **Notes**: Gap analysis. Minimal Quantum Interaction tenet mentions objective reduction mechanisms but lacks detailed treatment of spontaneous collapse theories (Ghirardi-Rimini-Weber, Continuous Spontaneous Localization). These theories provide alternative collapse mechanisms that could work alongside consciousness-modulated collapse. Critical for prebiotic collapse problem—how did quantum systems collapse before consciousness existed? GRW/CSL provide baseline physical collapse with consciousness potentially modulating outcomes in neural systems. Supports both Minimal Quantum Interaction (alternative mechanisms) and No Many Worlds (collapse is real).
+- **Result**: Conducted comprehensive web research covering GRW (discrete spontaneous collapse, 1986), CSL (continuous spontaneous localization, 1989-1990), Penrose OR (gravity-based objective reduction), and Orch OR (orchestrated reduction in microtubules). Research identifies three major positions with different consciousness implications: (1) consciousness-independent baseline collapse (GRW/CSL), (2) consciousness-modulated collapse (hybrid CSL-IIT), (3) panpsychist proto-consciousness (Penrose OR). Key finding: GRW/CSL solve prebiotic collapse problem for dualist interactionism by providing consciousness-independent baseline that consciousness can modulate. Experimental constraints increasingly tight (germanium detectors, matter-wave interference); original GRW "survived by a whisker." Decoherence timescale debate: Tegmark's femtosecond objection vs. revised microsecond estimates for microtubules. Strongly supports Minimal Quantum Interaction tenet (consciousness modulates rather than wholly causes collapse) and No Many Worlds (objective collapse is real).
+- **Output**: research/spontaneous-collapse-theories-grw-csl-2026-01-23.md
 
 ### ✓ 2026-01-23: Write article on consciousness independent baseline cognition
 - **Type**: expand-topic

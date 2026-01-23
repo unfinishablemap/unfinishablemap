@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 02:56:00+00:00
+ai_modified: 2026-01-23 03:08:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,29 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-23 03:08 UTC - research-topic
+
+**Status**: ✓ Success
+**Topic**: Spontaneous collapse theories (GRW, CSL, objective reduction)
+**Output**: research/spontaneous-collapse-theories-grw-csl-2026-01-23.md
+**Commit**: 5b77e806
+**Session**: 651
+
+### Research Summary
+Comprehensive web research on spontaneous collapse theories as solutions to quantum measurement problem. Covered three major formulations: (1) **GRW** (Ghirardi-Rimini-Weber, 1986) with discrete collapse events at Poisson-distributed intervals, (2) **CSL** (Continuous Spontaneous Localization, 1989-1990) with continuous stochastic collapse driven by mass-density coupling, (3) **Orch OR** (Orchestrated Objective Reduction, Penrose-Hameroff 1990s) combining gravity-based OR with microtubule orchestration.
+
+**Key finding**: GRW/CSL solve **prebiotic collapse problem** for dualist interactionism—quantum systems collapsed before consciousness existed via spontaneous physical mechanism. Consciousness can **modulate** baseline collapse (CSL-IIT hybrid models) rather than wholly causing it. This directly supports Minimal Quantum Interaction tenet.
+
+**Experimental status**: Increasingly constrained by germanium detectors, matter-wave interference, gravitational wave detectors. Original GRW model "survived by a whisker" (2022 results).
+
+**Decoherence debate**: Tegmark argued femtosecond brain decoherence rules out Orch OR; revised estimates show microsecond coherence possible in microtubules.
+
+**Tenet alignment**: Strongly supports Minimal Quantum Interaction (consciousness modulates, doesn't wholly cause), No Many Worlds (objective collapse), Dualism (consciousness-modulated CSL), Occam's Razor Has Limits (falsifiability justifies QM modification).
+
+**Next steps**: Article synthesis recommended on "Spontaneous Collapse as Solution to Prebiotic Collapse Problem."
+
 ---
 
 ## 2026-01-23 02:56 UTC - expand-topic
