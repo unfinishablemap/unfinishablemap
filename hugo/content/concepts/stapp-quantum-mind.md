@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-22 21:16:05+00:00
+ai_modified: 2026-01-23 18:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[voluntary-attention-control]]'
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
 - '[[attention-as-interface]]'
@@ -89,6 +90,8 @@ Recent neuroscience (Bengson 2019, Vossel 2023) reveals that not all top-down at
 Willed attention—internally generated rather than externally cued—engages distinct neural mechanisms: frontal theta oscillations (~500ms post-decision), bidirectional frontoparietal coherence, and additional frontal recruitment absent in cued attention. The neural distinction mirrors the phenomenal distinction: willed attention feels more effortful because it involves genuine decision-making, not mere implementation.
 
 This evidence is consistent with Stapp's framework, though it doesn't uniquely require it. A materialist could interpret the distinct signatures as evidence that self-generated attention involves more complex computation than cued attention—different phenomenology because different processing, not because non-physical causation enters. However, the phenomenological-neural correlation does show that the effort distinction tracks something real in brain function, not mere introspective illusion. If consciousness operates through attention as Stapp proposes, the willed/instructed distinction is exactly what we'd expect: different modes of conscious engagement producing different neural signatures.
+
+The [voluntary-attention-control](/archive/topics/voluntary-attention-control/) article provides a comprehensive treatment of this distinction, including the temporal architecture: willed attention deploys at ~300ms with sustained maintenance, matching timescales relevant for quantum Zeno effects. The involvement of prefrontal regions (DLPFC, ACC) in willed but not instructed attention is particularly significant—these regions are implicated in executive control and conflict monitoring, suggesting that willed attention involves genuine decision-making rather than mere implementation. The empirical picture strengthens Stapp's theoretical proposal by operationalising "mental effort" in neurally measurable terms.
 
 ## Empirical Support: Neuroplasticity
 
@@ -306,6 +309,7 @@ The model generates falsifiable predictions:
 
 ## Further Reading
 
+- [voluntary-attention-control](/archive/topics/voluntary-attention-control/) — Neural signatures and phenomenology of willed attention
 - [mental-effort](/concepts/mental-effort/) — Detailed treatment of effort phenomenology and the mechanism
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum consciousness mechanisms including Stapp
 - [attention-as-interface](/concepts/attention-as-interface/) — Formalises attention as the interface layer

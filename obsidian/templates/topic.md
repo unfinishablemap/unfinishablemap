@@ -4,7 +4,7 @@ created: {{date}}
 modified: {{date}}
 human_modified: {{date}}
 ai_modified:
-draft: true
+draft: false
 topics: []
 concepts: []
 related_articles: []

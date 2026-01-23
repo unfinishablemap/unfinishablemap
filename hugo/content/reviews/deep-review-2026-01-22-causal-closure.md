@@ -94,7 +94,7 @@ topics: []
 
 ### Effective Patterns Identified
 
-- **Objection-response structure**: "Critics raise [objection](/objection/). The Map's response: [summary]" with link to full treatment
+- **Objection-response structure**: "Critics raise [objection]. The Map's response: [summary]" with wikilink to full treatment
 - **Named personas**: Using philosopher names (Kim, Stapp, Kane) anchors abstract arguments to concrete positions
 - **Analogy use**: Chess rules analogy for complementary determination clarifies abstract overdetermination response
 

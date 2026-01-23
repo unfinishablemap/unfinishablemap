@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-22 02:56:00+00:00
+ai_modified: 2026-01-23 17:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[attention]]'
 - '[[attention-as-interface]]'
 - '[[mental-effort]]'
+- '[[mental-imagery]]'
 - '[[temporal-consciousness]]'
 - '[[specious-present]]'
 - '[[global-workspace-theory]]'
@@ -47,7 +48,7 @@ The dominant WM model, developed by Alan Baddeley and Graham Hitch (1974, update
 
 2. **Phonological loop**: Maintains verbal and acoustic information through rehearsal—the "inner voice" that lets you repeat a phone number
 
-3. **Visuospatial sketchpad**: Maintains visual and spatial information—the "mind's eye" that lets you imagine a route
+3. **Visuospatial sketchpad**: Maintains visual and spatial information—the "mind's eye" that lets you imagine a route. Research on [mental-imagery](/concepts/mental-imagery/) shows this system engages the lateral prefrontal cortex (LPFC) during voluntary visualization, with dramatic individual variation: ~1% of people (aphantasics) lack conscious access to visual imagery entirely, relying on verbal and spatial encoding strategies instead.
 
 4. **Episodic buffer** (added 2000): A limited-capacity store for integrated, multimodal representations. Baddeley describes it as "accessed by conscious awareness" and "capable of storing bound features and making them available to conscious awareness"
 
@@ -67,6 +68,7 @@ This maps onto the Map's framework precisely:
 - **Storage** might be purely neural—synaptic traces maintaining patterns without consciousness
 - **Use** requires conscious reactivation—bringing content into awareness to manipulate it
 - The [phenomenology of mental effort](/concepts/mental-effort/) may track exactly this distinction: maintenance is easy (often unconscious), manipulation is effortful (requires consciousness)
+- [Motor imagery research](/concepts/mental-imagery/) exemplifies manipulation: athletes mentally rehearsing movements engage WM manipulation to transform imagery into motor plans, producing measurable performance gains
 
 ## Working Memory and the Specious Present
 
@@ -286,6 +288,7 @@ None of these conditions currently obtains. The maintenance/manipulation asymmet
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the episodic buffer
 - [attention](/concepts/attention/) — The attention-consciousness relationship and dissociation evidence
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal bridge between consciousness and neural systems
+- [mental-imagery](/concepts/mental-imagery/) — Voluntary imagery as paradigm case of WM manipulation; aphantasia reveals individual variation in visuospatial processing
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful cognition and Stapp's quantum Zeno mechanism
 - [specious-present](/concepts/specious-present/) — The experienced duration of "now" and WM's role in temporal consciousness
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How consciousness constitutes time experience

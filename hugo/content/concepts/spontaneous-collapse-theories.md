@@ -5,7 +5,7 @@ ai_modified: 2026-01-23 03:14:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
-- '[[quantum-measurement-problem]]'
+- '[[measurement-problem]]'
 - '[[many-worlds]]'
 - '[[decoherence]]'
 - '[[quantum-consciousness]]'
@@ -24,7 +24,7 @@ title: Spontaneous Collapse Theories
 topics: []
 ---
 
-Spontaneous collapse theories (also called objective collapse or dynamical reduction models) solve the [quantum-measurement-problem](/quantum-measurement-problem/) by modifying the Schrödinger equation to include stochastic, nonlinear terms that cause wave functions to collapse spontaneously—without observers, measurements, or consciousness. For dualist interactionism, these theories solve a critical challenge: **how did quantum systems collapse before consciousness existed?** By providing a consciousness-independent baseline collapse mechanism, GRW and CSL theories allow consciousness to **modulate** rather than wholly cause collapse, directly supporting the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. This framework preserves quantum indeterminism while avoiding the panpsychist implication that every quantum event requires proto-consciousness.
+Spontaneous collapse theories (also called objective collapse or dynamical reduction models) solve the [measurement-problem](/concepts/measurement-problem/) by modifying the Schrödinger equation to include stochastic, nonlinear terms that cause wave functions to collapse spontaneously—without observers, measurements, or consciousness. For dualist interactionism, these theories solve a critical challenge: **how did quantum systems collapse before consciousness existed?** By providing a consciousness-independent baseline collapse mechanism, GRW and CSL theories allow consciousness to **modulate** rather than wholly cause collapse, directly supporting the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. This framework preserves quantum indeterminism while avoiding the panpsychist implication that every quantum event requires proto-consciousness.
 
 ## The Prebiotic Collapse Problem
 
@@ -159,7 +159,7 @@ The **consciousness-modulated CSL** model (McQueen's CSL-IIT or similar) best in
 
 ## Further Reading
 
-- [quantum-measurement-problem](/quantum-measurement-problem/) - the crisis spontaneous collapse theories address
+- [measurement-problem](/concepts/measurement-problem/) - the crisis spontaneous collapse theories address
 - [minimal-quantum-interaction](/minimal-quantum-interaction/) - how consciousness modulates baseline collapse
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) - alternative consciousness-collapse model (observer-selection)
 - [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) - how phenomenal properties map to physical parameters

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-20 18:30:00+00:00
+ai_modified: 2026-01-23 12:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,6 +20,7 @@ concepts:
 - '[[combination-problem]]'
 - '[[panpsychism]]'
 - '[[many-worlds]]'
+- '[[argument-from-reason]]'
 created: 2026-01-14
 date: &id001 2026-01-20
 draft: false
@@ -117,6 +118,16 @@ The zombie argument, developed influentially by David Chalmers, proceeds from co
 
 Materialists dispute these conceivability claims. But the intuitions are stubborn. The burden is on materialists to show why physical duplicates must have identical experiences—and they haven't shown this.
 
+### The Self-Stultification Problem
+
+The [argument-from-reason](/topics/argument-from-reason/) presents perhaps the most damaging challenge: if physicalism is true, it cannot be *rationally believed*. Rational inference requires tracking normative relationships—recognizing that conclusions *follow from* premises, that evidence *supports* beliefs. But physical causation operates via efficient causes that make no reference to these normative relationships.
+
+If your belief in physicalism is fully explained by nonrational causes (electrochemical gradients, prior neural states), then it wasn't formed *because* the evidence supports it—the neurons that produced it weren't tracking logical relationships. The belief might happen to be true, but it wouldn't be rationally justified. The position undermines its own rational foundations.
+
+Materialists respond that neural processes can be truth-tracking through evolutionary selection—brains evolved to form mostly true beliefs about survival-relevant matters. But this reliabilist response presupposes the normative concept of truth (what beliefs *ought* to be), and Plantinga's Evolutionary Argument Against Naturalism shows that evolution selects for adaptive behavior, not true beliefs—false beliefs that promote survival are equally favored. The space of reasons (justification, entailment, epistemic norms) remains conceptually and ontologically irreducible to the space of causes (efficient causation, physical law).
+
+See [argument-from-reason](/topics/argument-from-reason/) for the full development of this self-stultification argument, including responses to Anscombe's critique and contemporary formulations by Reppert and Hasker.
+
 ### The Problem of Phenomenal Properties
 
 [Qualia](/concepts/qualia/)—the redness of red, the painfulness of pain—have properties that physical descriptions cannot capture. They are:
@@ -209,6 +220,7 @@ Materialism remains the consensus position in academic philosophy. The Map holds
 
 ## Further Reading
 
+- [argument-from-reason](/topics/argument-from-reason/) — The self-stultification argument: physicalism undermines rational justification for any belief, including itself
 - [arguments-against-materialism](/concepts/arguments-against-materialism/) — Seven converging arguments against physicalism with the convergence argument
 - [dualism](/concepts/dualism/) — What dualism claims and its main varieties (foundational overview)
 - [arguments-for-dualism](/concepts/arguments-for-dualism/) — The positive case for dualism (conceivability, knowledge, qualia, unity, intentionality, modal arguments)

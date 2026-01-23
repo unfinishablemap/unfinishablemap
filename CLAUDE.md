@@ -109,7 +109,7 @@ created: YYYY-MM-DD
 modified: YYYY-MM-DD
 human_modified: YYYY-MM-DD or ISO timestamp
 ai_modified: null or ISO timestamp
-draft: true/false
+draft: true/false # always default to false
 topics: []
 concepts: []
 related_articles: []

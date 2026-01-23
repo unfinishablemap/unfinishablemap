@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 21:35:00+00:00
+ai_modified: 2026-01-23 18:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review stapp-quantum-mind.md considering voluntary-attention-control insights
-- **Type**: cross-review
-- **Notes**: New article concepts/voluntary-attention-control.md provides empirical grounding for Stapp's framework with specific neural signatures of willed attention (LPFC activation, theta-band synchronization, ~300ms deployment). The stapp-quantum-mind.md concept page should be reviewed to: (1) add cross-link to voluntary-attention-control, (2) integrate the empirical neural evidence that aligns with Stapp's theoretical predictions, (3) note the willed/instructed distinction as operationalizing what Stapp means by "mental effort."
-- **Source**: chain (from voluntary-attention-control.md)
-- **Generated**: 2026-01-23
-
 ### P2: Cross-review phenomenology.md considering intersubjectivity insights
 - **Type**: cross-review
 - **Notes**: New article concepts/intersubjectivity.md explains how phenomenological findings can be validated intersubjectively without reducing to third-person description. The phenomenology.md concept page should be reviewed to: (1) add cross-link to intersubjectivity, (2) note how Husserl's analysis of intersubjectivity grounds phenomenological method—if phenomenology were purely private it couldn't be shared or validated, (3) distinguish phenomenology's approach to intersubjectivity from heterophenomenology's third-person stance.
 - **Source**: chain (from intersubjectivity.md)
+- **Generated**: 2026-01-23
+
+### P2: Create concept page for unity-of-consciousness
+- **Type**: expand-topic
+- **Notes**: Gap analysis. Concept "unity-of-consciousness" is referenced in binding-problem.md and phenomenal-binding.md but has no definition page. Unity of consciousness concerns how diverse phenomenal contents are bound into a single unified experience. Distinct from but related to binding-problem (mechanism) and varieties-of-unity (taxonomy). Should cover: synchronic vs diachronic unity, phenomenal vs access unity, split-brain challenges, and connection to the combination problem. Supports Dualism tenet by highlighting what physical processes struggle to explain.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-23
+
+### P2: Research attention and motor planning quantum interface
+- **Type**: research-topic
+- **Notes**: Gap analysis. The Minimal Quantum Interaction tenet claims consciousness influences quantum events with minimal energetic footprint. Recent motor-selection.md and voluntary-attention-control.md articles suggest attention-motor interface as key locus. Need research on: (1) how attention gates motor plan selection, (2) neural timing windows where quantum effects could matter, (3) Stapp's quantum Zeno mechanism applied to motor preparation. Connects to motor-selection.md, stapp-quantum-mind.md, quantum-indeterminacy-free-will.md.
+- **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
 ### P3: Deep review qualia.md
@@ -88,6 +94,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review stapp-quantum-mind.md considering voluntary-attention-control insights
+- **Type**: cross-review
+- **Notes**: New article concepts/voluntary-attention-control.md provides empirical grounding for Stapp's framework with specific neural signatures of willed attention (LPFC activation, theta-band synchronization, ~300ms deployment). The stapp-quantum-mind.md concept page should be reviewed to: (1) add cross-link to voluntary-attention-control, (2) integrate the empirical neural evidence that aligns with Stapp's theoretical predictions, (3) note the willed/instructed distinction as operationalizing what Stapp means by "mental effort."
+- **Result**: Added [voluntary-attention-control](/archive/topics/voluntary-attention-control/) to frontmatter concepts (first position) and Further Reading. Added new paragraph to "The Willed-Instructed Distinction" section explaining: (1) the ~300ms deployment matching quantum Zeno timescales, (2) DLPFC/ACC involvement in willed vs instructed attention, (3) how the empirical picture operationalises "mental effort" in neurally measurable terms.
+- **Output**: concepts/stapp-quantum-mind.md
 
 ### ✓ 2026-01-23: Cross-review attention.md considering voluntary-attention-control insights
 - **Type**: cross-review
