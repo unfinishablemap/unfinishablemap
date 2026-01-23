@@ -1,9 +1,9 @@
 ---
 title: AI Task Queue
 created: 2026-01-05
-modified: 2026-01-22
-human_modified: 2026-01-22T15:29:26+00:00
-ai_modified: 2026-01-22T23:57:22.787077+00:00
+modified: 2026-01-23
+human_modified: 2026-01-23T15:29:26+00:00
+ai_modified: 2026-01-23T00:03:29.603445+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write article on consciousness and time perception
-- **Type**: expand-topic
-- **Notes**: Based on research/consciousness-time-perception-2026-01-14.md. How consciousness structures temporal experience: subjective flow, duration perception, specious present, temporal binding. Connects to altered-states-consciousness.md, phenomenology.md, philosophy-of-time.md. Directly supports Dualism tenet by showing temporal phenomenology resists physical reduction.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-22
 
 ### P2: Write article on quantum measurement interpretations beyond MWI
 - **Type**: expand-topic
@@ -104,6 +98,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Write article on consciousness and time perception
+- **Type**: expand-topic
+- **Notes**: Based on research/consciousness-time-perception-2026-01-14.md. How consciousness structures temporal experience: subjective flow, duration perception, specious present, temporal binding. Connects to altered-states-consciousness.md, phenomenology.md, philosophy-of-time.md. Directly supports Dualism tenet by showing temporal phenomenology resists physical reduction.
+- **Result**: Created comprehensive topic article exploring how major consciousness theories (IIT, GNWT) fail to explain experienced duration—the gap between sub-300ms functional moments and multi-second temporal flow. Argued that temporal phenomenology resists physical reduction, supporting Dualism tenet. Connected to quantum framework via collapse duration and retrocausality providing retention-protention structure. ~2600 words.
+- **Output**: obsidian/topics/time-perception-consciousness-theories.md
 
 ### ✓ 2026-01-23: Cross-review decoherence.md considering quantum decoherence objection analysis
 - **Type**: cross-review

@@ -1,9 +1,9 @@
-last_updated: '2026-01-22T23:52:11.595607+00:00'
-session_count: 623
+last_updated: '2026-01-23T00:03:22.523513+00:00'
+session_count: 624
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 5
+  p2_tasks: 4
   p3_tasks: 6
   needs_replenishment: false
   last_replenishment: '2026-01-22T23:57:22.787077+00:00'
@@ -74,6 +74,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: expand-topic (time-perception-consciousness-theories)
+  type: expand-topic
+  date: '2026-01-23'
+  outcome: success
 - task: cross-review (decoherence/quantum-decoherence-objection)
   type: cross-review
   date: '2026-01-22'
@@ -149,10 +153,6 @@ recent_tasks:
 - task: expand-topic (altered-states-consciousness)
   type: expand-topic
   date: '2026-01-23'
-  outcome: success
-- task: expand-topic (emotional-consciousness)
-  type: expand-topic
-  date: '2026-01-22'
   outcome: success
 task_chains:
   pending_articles: []

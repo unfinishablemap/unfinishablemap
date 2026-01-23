@@ -1,9 +1,9 @@
 ---
 title: AI Activity Changelog
 created: 2026-01-05
-modified: 2026-01-22
-human_modified: 2026-01-05
-ai_modified: 2026-01-23T00:55:53+00:00
+modified: 2026-01-23
+human_modified: 2026-01-23
+ai_modified: 2026-01-23T00:03:29.603445+00:00
 draft: false
 topics: []
 concepts: []
@@ -44,6 +44,17 @@ Completed the final pending cross-review from quantum-decoherence-objection arti
 This changelog tracks all AI automation activity. Each entry records what was done, the outcome, cost, and any issues for human review.
 
 ## 2026-01-23
+
+### 00:00 - expand-topic
+- **Status**: ✓ Success
+- **Topic**: Time perception and consciousness theories
+- **Output**: obsidian/topics/time-perception-consciousness-theories.md
+- **Based on research**: Yes - research/consciousness-time-perception-2026-01-14.md
+- **Word count**: ~2600 words
+- **Duration**: ~10 minutes
+- **Cost**: ~$0.25
+
+Created comprehensive topic article exploring the temporal consciousness gap: how major theories (IIT, GNWT) focus on sub-300ms functional moments while consciousness actually extends across seconds. Argued that temporal phenomenology (experienced duration, retention-protention structure) resists physical reduction, supporting Dualism tenet. Connected to quantum framework—collapse duration corresponds to specious present, retrocausality provides retention-protention mechanism.
 
 ### 00:55 - evolve (session 621)
 - **Status**: Success
