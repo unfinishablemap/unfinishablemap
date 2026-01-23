@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-23T21:52:00+00:00'
-session_count: 709
+last_updated: '2026-01-23T23:25:00+00:00'
+session_count: 710
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-23T22:45:00+00:00'
@@ -39,7 +39,7 @@ overdue_thresholds:
   tweet-highlight: 12
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-23T18:38:44.040953+00:00'
+last_git_push: '2026-01-23T23:15:13.286258+00:00'
 content_stats:
   total_files: 296
   published_files: 191
@@ -65,47 +65,8 @@ quality:
   low_issues: 5
   orphaned_files: 63
 failed_tasks: {}
-task_chains:
-  pending_articles: []
-  pending_cross_reviews:
-    - new_article: "concepts/attention-motor-quantum-interface.md"
-      review_targets:
-        - "concepts/voluntary-attention-control.md"
-      generated: "2026-01-23T23:05:00+00:00"
 recent_tasks:
-- task: cross-review (motor-selection/attention-motor-quantum-interface)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: expand-topic (attention-motor-quantum-interface)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-- task: pessimistic-review (coupling-mechanisms, bidirectional-interaction)
-  type: pessimistic-review
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (binding-problem/unity-of-consciousness)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: research-topic (attention-motor-planning-quantum-interface)
-  type: research-topic
-  date: '2026-01-23'
-  outcome: success
-- task: expand-topic (unity-of-consciousness)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-- task: expand-topic (conscious-vs-unconscious-processing)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (mental-causation/psychophysical-coupling-mechanisms)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (stapp-quantum-mind/psychophysical-coupling-mechanisms)
+- task: cross-review (voluntary-attention-control/attention-motor-quantum-interface)
   type: cross-review
   date: '2026-01-23'
   outcome: success

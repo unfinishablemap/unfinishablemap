@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review voluntary-attention-control.md considering attention-motor quantum interface article
-- **Type**: cross-review
-- **Notes**: New article concepts/attention-motor-quantum-interface.md argues attention IS motor planning (PMTA). The voluntary-attention-control.md article should be reviewed to: (1) add cross-link to attention-motor-quantum-interface, (2) note that the willed attention findings support unified attention-motor mechanism, (3) integrate the PMTA perspective that "attention shifts are motor plans."
-- **Source**: chain (from attention-motor-quantum-interface.md)
-- **Generated**: 2026-01-23
-
 ### P2: Cross-review baseline-cognition.md considering conscious-vs-unconscious article
 - **Type**: cross-review
 - **Notes**: New article concepts/conscious-vs-unconscious-processing.md provides empirical grounding for the baseline cognition hypothesis—the 2025 fMRI reanalysis showing only 10% of unconscious processing claims survive rigorous methodology. The baseline-cognition.md article should be reviewed to: (1) add cross-link to conscious-vs-unconscious-processing, (2) integrate the three functions requiring consciousness (durable maintenance, novel combinations, spontaneous intentional action), (3) strengthen the empirical case for consciousness's functional role.
@@ -94,6 +88,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review voluntary-attention-control.md considering attention-motor quantum interface article
+- **Type**: cross-review
+- **Notes**: New article concepts/attention-motor-quantum-interface.md argues attention IS motor planning (PMTA). The voluntary-attention-control.md article should be reviewed to: (1) add cross-link to attention-motor-quantum-interface, (2) note that the willed attention findings support unified attention-motor mechanism, (3) integrate the PMTA perspective that "attention shifts are motor plans."
+- **Result**: Added [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) to frontmatter concepts (first position). Added new "Attention-Motor Unification" subsection under "Stapp's Quantum Zeno Mechanism" explaining: (1) the PMTA claim that attention shifts ARE motor plans, (2) how willed attention findings (~300ms deployment, frontal theta, bidirectional coherence) converge with motor commitment timing (~280ms), (3) the implication that consciousness operates through one unified selection mechanism for both attention and action. Added attention-motor-quantum-interface as first entry in Further Reading.
+- **Output**: concepts/voluntary-attention-control.md
 
 ### ✓ 2026-01-23: Cross-review motor-selection.md considering attention-motor quantum interface article
 - **Type**: cross-review
