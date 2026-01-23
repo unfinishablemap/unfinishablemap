@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T16:50:00+00:00
+ai_modified: 2026-01-23T17:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review problem-of-other-minds.md considering objectivity article
-- **Type**: cross-review
-- **Notes**: New article concepts/objectivity-and-consciousness.md addresses Nagel's "view from nowhere" and how consciousness relates to objective description. The problem-of-other-minds.md concept page should be reviewed to: (1) add cross-link to objectivity-and-consciousness, (2) integrate the insight that the subjectivity of consciousness grounds the problem of other minds, (3) note how objectivity requirements shape our epistemological access to other minds.
-- **Source**: chain (from objectivity-and-consciousness.md)
-- **Generated**: 2026-01-23
 
 ### P2: Deep review mental-imagery.md
 - **Type**: deep-review
@@ -99,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review problem-of-other-minds.md considering objectivity article
+- **Type**: cross-review
+- **Notes**: New article concepts/objectivity-and-consciousness.md addresses Nagel's "view from nowhere" and how consciousness relates to objective description. The problem-of-other-minds.md concept page should be reviewed to: (1) add cross-link to objectivity-and-consciousness, (2) integrate the insight that the subjectivity of consciousness grounds the problem of other minds, (3) note how objectivity requirements shape our epistemological access to other minds.
+- **Result**: Added [[objectivity-and-consciousness]] to frontmatter concepts. Added new "The Objectivity Paradox" subsection after the Asymmetry Problem explaining: (1) science aspires to "view from nowhere" but consciousness *is* viewpoint, (2) objective methods succeed by eliminating perspective but phenomenal consciousness is constituted by perspective, (3) the asymmetry isn't epistemic accident but consequence of consciousness resisting objectifying gaze. Added objectivity-and-consciousness as first entry in Further Reading.
+- **Output**: concepts/problem-of-other-minds.md
 
 ### ✓ 2026-01-23: Cross-review binding-problem.md considering multimodal-binding article
 - **Type**: cross-review
