@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T03:55:35+00:00
+ai_modified: 2026-01-23T05:27:18+00:00
 draft: false
 topics: []
 concepts: []
@@ -40,12 +40,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### P2: Create concept page for Witness-consciousness
 - **Type**: expand-topic
 - **Notes**: Concept "Witness-consciousness" is referenced 12 times but has no definition page. Witness consciousness (or pure awareness) is the Eastern philosophical notion of awareness independent of mental content—consciousness without intentionality. Relevant to dualism, self-awareness, and altered states. Connects to meditation traditions and contemplative neuroscience.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-23
-
-### P2: Research quantum measurement subjective probability interpretations
-- **Type**: research-topic
-- **Notes**: Minimal Quantum Interaction tenet needs deeper coverage of how consciousness relates to quantum measurement Born rule probabilities. QBism and other subjective interpretations relevant. Why does consciousness experience one outcome rather than superposition?
 - **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
@@ -98,6 +92,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Research quantum measurement subjective probability interpretations
+- **Type**: research-topic
+- **Notes**: Minimal Quantum Interaction tenet needs deeper coverage of how consciousness relates to quantum measurement Born rule probabilities. QBism and other subjective interpretations relevant. Why does consciousness experience one outcome rather than superposition?
+- **Result**: Comprehensive research on QBism, consciousness-collapse (von Neumann-Wigner), relational QM, and participatory realism. Identified critical gap: all interpretations fail to explain indexical identity (why *this* consciousness experiences *this* outcome). QBism treats probability as epistemic (conflicts with tenets), consciousness-collapse was abandoned by Wigner himself, relational QM denies consciousness privilege. Research identifies need for indexical-grounded minimal interaction account.
+- **Output**: obsidian/research/quantum-measurement-subjective-probability-2026-01-23.md
 
 ### ✓ 2026-01-23: Review blindsight considering baseline cognition framework
 - **Type**: cross-review
