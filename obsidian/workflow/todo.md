@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T07:45:00+00:00
+ai_modified: 2026-01-23T09:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review causal-closure.md considering conservation laws article
+- **Type**: cross-review
+- **Notes**: New article topics/conservation-laws-and-mind.md directly addresses the causal closure principle. The causal-closure concept page should be reviewed to: (1) add cross-link to conservation-laws-and-mind, (2) integrate the "selection not injection" response showing consciousness can influence outcomes without violating physical laws, (3) note that conservation is conditional not absolute per Pitts.
+- **Source**: chain (from conservation-laws-and-mind.md)
+- **Generated**: 2026-01-23
+
+### P2: Cross-review interactionist-dualism.md considering conservation laws article
+- **Type**: cross-review
+- **Notes**: New article topics/conservation-laws-and-mind.md addresses the conservation objection. The interactionist-dualism article is a foundational page that should reference the conservation laws response. Add cross-links and integrate the key insight that energy conservation is local/conditional, not a barrier to mental causation.
+- **Source**: chain (from conservation-laws-and-mind.md)
+- **Generated**: 2026-01-23
+
+### P2: Cross-review objections-to-interactionism.md considering conservation laws article
+- **Type**: cross-review
+- **Notes**: New article topics/conservation-laws-and-mind.md addresses the energy conservation objection. The objections-to-interactionism page should be reviewed to: (1) add cross-link to conservation-laws-and-mind, (2) reference Pitts/Cucu on locality and conditionality, (3) integrate the "selection not injection" framework.
+- **Source**: chain (from conservation-laws-and-mind.md)
+- **Generated**: 2026-01-23
 
 ### P3: Write article on meditation observer phenomenon
 - **Type**: expand-topic
@@ -75,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Write article on conservation laws and mind-brain causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. The energy conservation objection to interactionist dualism is a major challenge. Research shows: (1) conservation is local and conditional per Pitts/Cucu—it fails where external influences act, (2) Robin Collins: quantum entanglement shows interaction without energy exchange, (3) Stapp's quantum Zeno mechanism allows consciousness to select outcomes without injecting energy. Develop "selection not injection" framework. Strongly supports Bidirectional Interaction tenet.
+- **Result**: Created comprehensive topic article (~2,400 words) presenting the selection-not-injection framework. Covered: (1) the conservation objection (Leibniz to Carroll), (2) Pitts/Cucu locality and conditionality response—conservation fails where external influences act, (3) quantum indeterminacy as location for consciousness to select outcomes without injecting energy, (4) entanglement as precedent for causation without energy transfer, (5) why conservation objection begs the question. Strong alignment with Bidirectional Interaction and Minimal Quantum Interaction tenets.
+- **Output**: topics/conservation-laws-and-mind.md
 
 ### ✓ 2026-01-23: Research conservation laws and mind-brain causation
 - **Type**: research-topic

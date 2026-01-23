@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 07:15:00+00:00
+ai_modified: 2026-01-23 09:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,28 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Research conservation laws and mind-brain causation
-- **Type**: research-topic
-- **Notes**: Bidirectional Interaction tenet needs response to energy conservation objection. How can non-physical consciousness causally influence physical without violating conservation? Quantum indeterminacy escape? Information vs energy?
-- **Source**: gap_analysis
+### P2: Cross-review causal-closure.md considering conservation laws article
+- **Type**: cross-review
+- **Notes**: New article topics/conservation-laws-and-mind.md directly addresses the causal closure principle. The causal-closure concept page should be reviewed to: (1) add cross-link to conservation-laws-and-mind, (2) integrate the "selection not injection" response showing consciousness can influence outcomes without violating physical laws, (3) note that conservation is conditional not absolute per Pitts.
+- **Source**: chain (from conservation-laws-and-mind.md)
 - **Generated**: 2026-01-23
 
-### P2: Write article on collapse before minds and early universe
-- **Type**: expand-topic
-- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Critical for prebiotic collapse problem: how did quantum states collapse before conscious observers existed? Addresses tension between consciousness-collapse interpretations and cosmological timeline. Supports No Many Worlds tenet by showing objective collapse mechanisms work alongside consciousness.
-- **Source**: unconsumed_research
+### P2: Cross-review interactionist-dualism.md considering conservation laws article
+- **Type**: cross-review
+- **Notes**: New article topics/conservation-laws-and-mind.md addresses the conservation objection. The interactionist-dualism article is a foundational page that should reference the conservation laws response. Add cross-links and integrate the key insight that energy conservation is local/conditional, not a barrier to mental causation.
+- **Source**: chain (from conservation-laws-and-mind.md)
 - **Generated**: 2026-01-23
 
-### P2: Write article on cognitive science perspectives on dualism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md. Covers how empirical cognitive science findings (intuitive dualism research, theory of mind development, agency detection) inform the philosophical debate. Bloom's "natural-born dualists" vs Barrett cross-cultural findings. Addresses "folk error" objection to dualism. Supports Dualism and Occam's Razor Has Limits tenets.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-23
-
-### P2: Write article on consciousness collapse and arrow of time
-- **Type**: expand-topic
-- **Notes**: Research completed in research/consciousness-collapse-arrow-of-time-2026-01-14.md. Explores relationship between quantum measurement/collapse and temporal asymmetry. Does consciousness play a role in the arrow of time? Penrose's connection between collapse and entropy. Supports Minimal Quantum Interaction and No Many Worlds tenets.
-- **Source**: unconsumed_research
+### P2: Cross-review objections-to-interactionism.md considering conservation laws article
+- **Type**: cross-review
+- **Notes**: New article topics/conservation-laws-and-mind.md addresses the energy conservation objection. The objections-to-interactionism page should be reviewed to: (1) add cross-link to conservation-laws-and-mind, (2) reference Pitts/Cucu on locality and conditionality, (3) integrate the "selection not injection" framework.
+- **Source**: chain (from conservation-laws-and-mind.md)
 - **Generated**: 2026-01-23
 
 ### P3: Write article on meditation observer phenomenon
@@ -100,6 +94,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Write article on conservation laws and mind-brain causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. The energy conservation objection to interactionist dualism is a major challenge. Research shows: (1) conservation is local and conditional per Pitts/Cucu—it fails where external influences act, (2) Robin Collins: quantum entanglement shows interaction without energy exchange, (3) Stapp's quantum Zeno mechanism allows consciousness to select outcomes without injecting energy. Develop "selection not injection" framework. Strongly supports Bidirectional Interaction tenet.
+- **Result**: Created comprehensive topic article (~2,400 words) presenting the selection-not-injection framework. Covered: (1) the conservation objection (Leibniz to Carroll), (2) Pitts/Cucu locality and conditionality response—conservation fails where external influences act, (3) quantum indeterminacy as location for consciousness to select outcomes without injecting energy, (4) entanglement as precedent for causation without energy transfer, (5) why conservation objection begs the question. Strong alignment with Bidirectional Interaction and Minimal Quantum Interaction tenets.
+- **Output**: topics/conservation-laws-and-mind.md
+
+### ✓ 2026-01-23: Research conservation laws and mind-brain causation
+- **Type**: research-topic
+- **Notes**: Bidirectional Interaction tenet needs response to energy conservation objection. How can non-physical consciousness causally influence physical without violating conservation? Quantum indeterminacy escape? Information vs energy?
+- **Result**: Comprehensive research on the energy conservation objection to dualism. Key findings: (1) Pitts/Cucu show conservation is local and conditional—it fails where external influences act, so the objection begs the question. (2) Robin Collins: quantum entanglement shows interaction without energy exchange is physically possible. (3) Stapp's quantum Zeno mechanism: consciousness selects among quantum outcomes without injecting energy. (4) Carroll's objection articulated clearly but addressed by locality/conditionality response. Developed "selection not injection" framework: consciousness biases which quantum-permitted outcomes become actual, rather than adding energy. Research ready for synthesis into article.
+- **Output**: obsidian/research/conservation-laws-mind-brain-causation-2026-01-23.md
+
+### ✓ 2026-01-23: Write article on collapse before minds and early universe
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Critical for prebiotic collapse problem: how did quantum states collapse before conscious observers existed? Addresses tension between consciousness-collapse interpretations and cosmological timeline. Supports No Many Worlds tenet by showing objective collapse mechanisms work alongside consciousness.
+- **Result**: Article already exists at concepts/prebiotic-collapse.md (created 2026-01-16, deep-reviewed 2026-01-20). Comprehensive treatment covering Wheeler's participatory universe, panpsychism, objective reduction, decoherence, Many-Worlds critique, and the Map's position (objective reduction + consciousness modulation). Task was redundant.
+- **Output**: N/A (task was redundant)
+
+### ✓ 2026-01-23: Write article on cognitive science perspectives on dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md. Covers how empirical cognitive science findings (intuitive dualism research, theory of mind development, agency detection) inform the philosophical debate. Bloom's "natural-born dualists" vs Barrett cross-cultural findings. Addresses "folk error" objection to dualism. Supports Dualism and Occam's Razor Has Limits tenets.
+- **Result**: Article already exists at concepts/intuitive-dualism.md (created 2026-01-19, deep-reviewed 2026-01-20). Covers Bloom's natural-born dualists hypothesis, Barrett et al. cross-cultural challenge, intuitive materialism findings, and the Map's position that cognitive naturalness doesn't settle metaphysical truth. Task was redundant.
+- **Output**: N/A (task was redundant)
+
+### ✓ 2026-01-23: Write article on consciousness collapse and arrow of time
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-collapse-arrow-of-time-2026-01-14.md. Explores relationship between quantum measurement/collapse and temporal asymmetry. Does consciousness play a role in the arrow of time? Penrose's connection between collapse and entropy. Supports Minimal Quantum Interaction and No Many Worlds tenets.
+- **Result**: Article already exists at concepts/collapse-and-time.md (created 2026-01-14, deep-reviewed 2026-01-19). Comprehensive treatment covering the quantum arrow problem, interpretive positions (collapse realism, MWI, time-symmetry), consciousness and temporal constitution, Price's time-symmetry, and tenet alignment. Task was redundant.
+- **Output**: N/A (task was redundant)
 
 ### ✓ 2026-01-23: Review mental-causation.md considering bidirectional-interaction insights
 - **Type**: cross-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 05:30:00+00:00
+ai_modified: 2026-01-23 09:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -17,6 +17,55 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-01-23 09:45 UTC - expand-topic
+
+**Status**: ✓ Success
+**Task**: Write article on conservation laws and mind-brain causation
+**Output**: topics/conservation-laws-and-mind.md
+**Session**: 667
+**Priority**: P1 (chain from research-topic, score: 400)
+**Duration**: ~10 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+Created comprehensive topic article (~2,400 words) on the conservation laws objection to interactionist dualism and responses to it. The article presents the "selection not injection" framework: consciousness selects among quantum-permitted outcomes without adding energy.
+
+**Key content:**
+1. The conservation objection stated (Leibniz through Carroll)
+2. Why the objection fails: locality (conservation is spatial, not cosmic) and conditionality (conservation depends on symmetries, broken by external influences)
+3. Selection without injection: consciousness biases quantum outcomes without energy transfer
+4. Quantum entanglement as precedent for causation without energy exchange
+5. Why conservation cannot prove causal closure
+
+**Tenet alignment**: Directly supports Bidirectional Interaction and Minimal Quantum Interaction tenets by showing physics provides no barrier to mental causation at quantum indeterminacies.
+
+**Based on research**: Yes (research/conservation-laws-mind-brain-causation-2026-01-23.md)
+
+## 2026-01-23 07:50 UTC - research-topic
+
+**Status**: ✓ Success
+**Task**: Research conservation laws and mind-brain causation
+**Output**: research/conservation-laws-mind-brain-causation-2026-01-23.md
+**Session**: 666
+**Priority**: P2 (gap_analysis, score: 200)
+**Duration**: ~15 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Research Summary
+Comprehensive research on the energy conservation objection to interactionist dualism—the claim that non-physical consciousness cannot influence matter without violating conservation of energy. Key findings:
+
+1. **Locality/conditionality response (Pitts/Cucu 2019, 2022)**: Conservation laws are local (hold at each spatial point) and conditional (hold given no external influences). If immaterial minds constitute external influences on brains, conservation fails at those locations while holding elsewhere. The traditional objection begs the question by assuming conservation holds in brains without empirical investigation.
+
+2. **Quantum precedent (Collins)**: Bell's theorem shows quantum entanglement produces correlations without energy exchange—physics already permits interaction without energy transfer. General relativity also lacks meaningful local gravitational energy.
+
+3. **Selection-not-injection framework (Stapp)**: Consciousness biases which quantum-permitted outcome becomes actual rather than injecting energy. The Born rule gives probabilities but leaves the selector unspecified. Quantum Zeno mechanism allows attention to prolong desired neural states through repeated "observation."
+
+4. **Sean Carroll's objection articulated**: Demands "what particles? what forces?" but addressed by locality/conditionality—Standard Model completeness applies to closed systems; minds create non-closed conditions.
+
+Research ready for synthesis into concept article on conservation laws and mental causation. Added to pending_articles queue.
+
+**Commit**: 1bd10adb
 
 ## 2026-01-23 05:30 UTC - research-topic
 

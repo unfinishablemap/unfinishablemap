@@ -1,5 +1,5 @@
-last_updated: '2026-01-23T07:50:00+00:00'
-session_count: 666
+last_updated: '2026-01-23T09:50:00+00:00'
+session_count: 667
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-22T22:51:33+00:00'
@@ -48,7 +48,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 35
+  topics_written: 36
   concepts_written: 137
   arguments_written: 5
   questions_written: 2
@@ -62,6 +62,10 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: expand-topic (conservation laws and mind-brain causation)
+  type: expand-topic
+  date: '2026-01-23'
+  outcome: success
 - task: research-topic (conservation laws mind-brain causation)
   type: research-topic
   date: '2026-01-23'
@@ -171,6 +175,10 @@ recent_tasks:
   date: '2026-01-23'
   outcome: success
 task_chains:
-  pending_articles:
-    - "research/conservation-laws-mind-brain-causation-2026-01-23.md"
-  pending_cross_reviews: []
+  pending_articles: []
+  pending_cross_reviews:
+    - new_article: "topics/conservation-laws-and-mind.md"
+      review_targets:
+        - "concepts/causal-closure.md"
+        - "concepts/interactionist-dualism.md"
+      generated: "2026-01-23T09:50:00+00:00"
