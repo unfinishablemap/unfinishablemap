@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23
-ai_modified: 2026-01-23T01:17:00+00:00
+ai_modified: 2026-01-23T01:31:15+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,38 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-23 01:31 UTC - Session 638
+
+**Task**: Research first-person vs third-person methodology in consciousness science
+**Type**: research-topic
+**Status**: ✓ Success
+**Duration**: ~6 minutes
+**Cost**: ~$0.40
+
+### Research Summary
+Comprehensive web research on the methodological divide between first-person phenomenology and third-person neuroscience in consciousness science. Examined heterophenomenology (Dennett—treating first-person reports as third-person data), neurophenomenology (Varela—mutual constraint between rigorous phenomenology and neuroscience), second-person methods (empathic intersubjectivity), classical phenomenology (Husserl's systematic first-person science), introspection reliability debates, Nagel's view from nowhere, explanatory gap (Levine), zombie arguments and epistemic asymmetry (Chalmers), and hard problem formulation.
+
+### Key Findings
+- Three major methodological approaches with different ontological commitments
+- Epistemic asymmetry (different ways of knowing consciousness) may reflect ontological asymmetry (consciousness fundamentally different from physical processes)
+- Neurophenomenology's "mutual constraint" parallels Map's interactionist dualism framework
+- Introspection's unreliability doesn't entail phenomenology's elimination (supports Occam's Razor Has Limits)
+
+### Article Angles Identified
+1. Methodological asymmetry as evidence for ontological asymmetry (Dualism tenet)
+2. Neurophenomenology as interactionist framework (Bidirectional Interaction tenet)
+3. Epistemic-ontological gap inference (Dualism + Occam's Razor Has Limits)
+4. Second-person methods and problem of other minds
+5. Introspection's limits and cognitive closure (Occam's Razor Has Limits)
+
+### Output
+- `research/first-person-third-person-methodology-2026-01-23.md` (8,500+ words, 14 key sources)
+
+### Commit
+- `4b53b9d` - feat(auto): research-topic - first-person vs third-person methodology
+
 ---
 
 ## 2026-01-23 01:17 UTC - Session 636
