@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T16:52:00+00:00
+ai_modified: 2026-01-23T21:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,16 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review attention.md considering voluntary-attention-control insights
-- **Type**: cross-review
-- **Notes**: New article concepts/voluntary-attention-control.md provides detailed treatment of willed vs instructed vs exogenous attention, with neural signatures and Stapp's quantum Zeno mechanism. The attention.md concept page should be reviewed to: (1) add cross-link to voluntary-attention-control, (2) integrate the willed-instructed-exogenous distinction that goes beyond top-down/bottom-up, (3) note the quantum Zeno framework as potential mechanism for voluntary attention's causal efficacy.
-- **Source**: chain (from voluntary-attention-control.md)
-- **Generated**: 2026-01-23
-
 ### P2: Cross-review stapp-quantum-mind.md considering voluntary-attention-control insights
 - **Type**: cross-review
 - **Notes**: New article concepts/voluntary-attention-control.md provides empirical grounding for Stapp's framework with specific neural signatures of willed attention (LPFC activation, theta-band synchronization, ~300ms deployment). The stapp-quantum-mind.md concept page should be reviewed to: (1) add cross-link to voluntary-attention-control, (2) integrate the empirical neural evidence that aligns with Stapp's theoretical predictions, (3) note the willed/instructed distinction as operationalizing what Stapp means by "mental effort."
 - **Source**: chain (from voluntary-attention-control.md)
+- **Generated**: 2026-01-23
+
+### P2: Cross-review phenomenology.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article concepts/intersubjectivity.md explains how phenomenological findings can be validated intersubjectively without reducing to third-person description. The phenomenology.md concept page should be reviewed to: (1) add cross-link to intersubjectivity, (2) note how Husserl's analysis of intersubjectivity grounds phenomenological method—if phenomenology were purely private it couldn't be shared or validated, (3) distinguish phenomenology's approach to intersubjectivity from heterophenomenology's third-person stance.
+- **Source**: chain (from intersubjectivity.md)
 - **Generated**: 2026-01-23
 
 ### P3: Deep review qualia.md
@@ -87,6 +87,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review attention.md considering voluntary-attention-control insights
+- **Type**: cross-review
+- **Notes**: New article concepts/voluntary-attention-control.md provides detailed treatment of willed vs instructed vs exogenous attention, with neural signatures and Stapp's quantum Zeno mechanism. The attention.md concept page should be reviewed to: (1) add cross-link to voluntary-attention-control, (2) integrate the willed-instructed-exogenous distinction that goes beyond top-down/bottom-up, (3) note the quantum Zeno framework as potential mechanism for voluntary attention's causal efficacy.
+- **Result**: Added [[voluntary-attention-control]] to frontmatter concepts (first position) and Further Reading. Added new "The Willed-Instructed-Exogenous Distinction" subsection under "Attention as the Mind-Matter Interface" explaining: (1) the three attention modes (Vossel 2023, Bengson 2019), (2) why top-down ≠ voluntary—instructed attention is top-down but automatic, (3) neural signatures of willed attention (frontal theta, bidirectional frontoparietal coherence, additional DLPFC/ACC recruitment), (4) philosophical significance—if consciousness operates through attention, it operates specifically through the willed mode.
+- **Output**: concepts/attention.md
 
 ### ✓ 2026-01-23: Cross-review first-person-third-person-methodology.md considering intersubjectivity article
 - **Type**: cross-review
