@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T10:05:00+00:00
+ai_modified: 2026-01-23T10:13:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,11 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from conservation-laws-and-mind.md)
 - **Generated**: 2026-01-23
 
-### P2: Deep review quantum-consciousness.md
-- **Type**: deep-review
-- **Notes**: Core concept article (ai_contribution: 100) heavily referenced in tenets page and throughout the Map but has NEVER been deep-reviewed. Given recent work on spontaneous collapse theories, decoherence objection, and Stapp quantum mind, quantum-consciousness.md should be reviewed for accuracy, comprehensiveness, and proper cross-linking.
-- **Source**: staleness
-- **Generated**: 2026-01-23
 
 ### P2: Research mental imagery and consciousness causal role
 - **Type**: research-topic
@@ -93,6 +88,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Deep review quantum-consciousness.md
+- **Type**: deep-review
+- **Notes**: Core concept article (ai_contribution: 100) heavily referenced in tenets page and throughout the Map but has NEVER been deep-reviewed. Given recent work on spontaneous collapse theories, decoherence objection, and Stapp quantum mind, quantum-consciousness.md should be reviewed for accuracy, comprehensiveness, and proper cross-linking.
+- **Result**: Comprehensive deep review addressing 1 critical issue (weak falsification conditions) and 4 medium issues (one-sided Tegmark-Hameroff presentation, brief MWI dismissal, rhetorical illusionism response, missing mysterianism connection). Strengthened all five falsification conditions with specific measurable predictions. Rebalanced Tegmark-Hameroff debate to acknowledge ongoing scientific uncertainty. Added engagement with MWI's strongest defenses before explaining rejection. Replaced rhetorical illusionism dismissal with structural regress argument. Added mysterianism-cognitive-closure cross-link.
+- **Output**: reviews/deep-review-2026-01-23-quantum-consciousness.md
 
 ### ✓ 2026-01-23: Research retrocausal neural firing evidence
 - **Type**: research-topic
