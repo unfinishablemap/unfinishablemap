@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 15:57:00+00:00
+ai_modified: 2026-01-23 22:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review measurement-problem.md considering subjective probability article
-- **Type**: cross-review
-- **Notes**: New article concepts/subjective-probability-quantum-measurement.md examines how Born rule probabilities relate to consciousness and different interpretations. The measurement-problem.md concept page should be reviewed to: (1) add cross-link to subjective-probability-quantum-measurement, (2) note that the article provides detailed treatment of what Born probabilities *mean* rather than just how they're used, (3) integrate the interface-structure proposal where probabilities describe consciousness-quantum coupling.
-- **Source**: chain (from subjective-probability-quantum-measurement.md)
-- **Generated**: 2026-01-23
 
 ### P2: Cross-review quantum-interpretations.md considering subjective probability article
 - **Type**: cross-review
@@ -94,6 +88,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review measurement-problem.md considering subjective probability article
+- **Type**: cross-review
+- **Notes**: New article concepts/subjective-probability-quantum-measurement.md examines how Born rule probabilities relate to consciousness and different interpretations. The measurement-problem.md concept page should be reviewed to: (1) add cross-link to subjective-probability-quantum-measurement, (2) note that the article provides detailed treatment of what Born probabilities *mean* rather than just how they're used, (3) integrate the interface-structure proposal where probabilities describe consciousness-quantum coupling.
+- **Result**: Added [subjective-probability-quantum-measurement](/concepts/subjective-probability-quantum-measurement/) to frontmatter concepts and related_articles. Added new "What Are Born Probabilities?" section explaining three major interpretations (objective chance, QBism, many-worlds branch measure) and their blind spots. Integrated the interface-structure proposal: Born probabilities describe objective structure at consciousness-quantum coupling, connecting measurement problem to hard problem. Added subjective-probability-quantum-measurement as first entry in Further Reading.
+- **Output**: concepts/measurement-problem.md
 
 ### ✓ 2026-01-23: Create concept page for voluntary-attention-control
 - **Type**: expand-topic

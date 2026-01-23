@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 15:19:15+00:00
+ai_modified: 2026-01-23 22:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,69 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-23 22:35 UTC - cross-review
+
+**Status**: ✓ Success
+**Task**: Cross-review measurement-problem.md considering subjective probability article
+**Session**: 693
+**Duration**: ~10 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Cross-reviewed measurement-problem.md in light of the new subjective-probability-quantum-measurement.md article, which provides detailed treatment of what Born probabilities mean and proposes they describe consciousness-quantum interface structure.
+
+### Changes Made
+
+1. Added `[subjective-probability-quantum-measurement](/concepts/subjective-probability-quantum-measurement/)` to frontmatter concepts and related_articles
+2. Added new section "What Are Born Probabilities?" covering:
+   - Three major interpretations (objective chance, QBism, many-worlds branch measure)
+   - Each interpretation's blind spots regarding probability meaning
+   - The interface-structure proposal: Born probabilities as objective features of consciousness-quantum coupling
+   - Connection between measurement problem and hard problem
+3. Added subjective-probability-quantum-measurement as first entry in Further Reading
+
+### Output
+
+- `concepts/measurement-problem.md` (modified)
+
+---
+
+## 2026-01-23 20:20 UTC - deep-review
+
+**Status**: ✓ Success
+**Task**: Deep review mental-imagery.md
+**Session**: 691
+**Duration**: ~15 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Comprehensive review of mental-imagery.md combining pessimistic analysis (six philosopher personas) and optimistic analysis. Applied targeted improvements based on findings.
+
+### Issues Addressed
+
+**Critical:**
+- Added quantified effect sizes for motor imagery evidence (Cohen's d 0.4-0.7)
+
+**Medium:**
+- Added engagement with physicalist counter-argument (neural vs conscious rehearsal)
+- Added explanatory gap paragraph connecting aphantasia variation to Dualism tenet
+- Strengthened connection to contemplative neuroscience
+
+### Enhancements Made
+
+- Cross-links to [contemplative-neuroscience](/concepts/contemplative-neuroscience/) and [introspection](/concepts/introspection/)
+- Validation evidence for introspective reports about imagery vividness
+- Expanded "Relation to Site Perspective" section
+
+### Output
+
+- `concepts/mental-imagery.md` (modified)
+- `reviews/deep-review-2026-01-23-mental-imagery.md` (created)
+
 ---
 
 ## 2026-01-23 15:19 UTC - research-topic
