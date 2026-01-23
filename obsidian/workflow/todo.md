@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T19:50:00+00:00
+ai_modified: 2026-01-23T12:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Deep review contemplative-neuroscience.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) has NEVER been deep-reviewed. Article created 2026-01-23 covering scientific study of contemplative practices and consciousness. Should be reviewed for accuracy, tenet alignment, and proper cross-linking to meditation-and-consciousness-modes.md, neurophenomenology.md, attention.md.
-- **Source**: staleness
-- **Generated**: 2026-01-23
 
 ### P2: Cross-review materialism.md considering argument-from-reason insights
 - **Type**: cross-review
@@ -93,6 +87,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Deep review contemplative-neuroscience.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has NEVER been deep-reviewed. Article created 2026-01-23 covering scientific study of contemplative practices and consciousness. Should be reviewed for accuracy, tenet alignment, and proper cross-linking to meditation-and-consciousness-modes.md, neurophenomenology.md, attention.md.
+- **Result**: Comprehensive review addressing 1 critical issue (missing falsification conditions) and 4 medium issues (Stapp mechanism unqualified, Buddhist metaphysics tension, heterophenomenology challenge, missing mysterianism connection). Added cross-links to mental-effort.md and mysterianism-cognitive-closure.md.
+- **Output**: concepts/contemplative-neuroscience.md, reviews/deep-review-2026-01-23-contemplative-neuroscience.md
 
 ### ✓ 2026-01-23: Write article on mental imagery and consciousness
 - **Type**: expand-topic
