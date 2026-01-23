@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T22:30:00+00:00
+ai_modified: 2026-01-23T23:05:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,16 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on attention-motor quantum interface
-- **Type**: expand-topic
-- **Notes**: Research completed in research/attention-motor-planning-quantum-interface-2026-01-23.md. Key findings: premotor theory of attention (attention and motor planning share neural substrates), affordance competition hypothesis (multiple actions compete until threshold), 280ms commitment timing, revised decoherence estimates (10-100μs). Extends quantum Zeno framework by unifying attention and motor selection as single quantum-influenced domain. Connects to motor-selection.md, voluntary-attention-control.md, stapp-quantum-mind.md.
-- **Source**: chain (from attention-motor-planning-quantum-interface research)
+### P2: Cross-review motor-selection.md considering attention-motor quantum interface article
+- **Type**: cross-review
+- **Notes**: New article concepts/attention-motor-quantum-interface.md unifies PMTA with Stapp's quantum Zeno mechanism. The motor-selection.md article should be reviewed to: (1) add cross-link to attention-motor-quantum-interface, (2) note the PMTA evidence that attention and motor planning share substrates, (3) reference the 280ms/300ms timing convergence, (4) strengthen connection between the "attention-motor parallel" section and the unified mechanism.
+- **Source**: chain (from attention-motor-quantum-interface.md)
 - **Generated**: 2026-01-23
 
-### P2: Cross-review motor-selection.md considering attention-motor research
+### P2: Cross-review voluntary-attention-control.md considering attention-motor quantum interface article
 - **Type**: cross-review
-- **Notes**: New research research/attention-motor-planning-quantum-interface-2026-01-23.md provides critical evidence for attention-motor unification via premotor theory of attention. The motor-selection.md article should be reviewed to: (1) add link to the attention-motor research, (2) integrate premotor theory of attention (Rizzolatti)—attention shifts ARE motor plans, (3) note affordance competition hypothesis evidence, (4) strengthen the attention-motor parallel section with unified neural substrate evidence.
-- **Source**: chain (from attention-motor-planning research)
+- **Notes**: New article concepts/attention-motor-quantum-interface.md argues attention IS motor planning (PMTA). The voluntary-attention-control.md article should be reviewed to: (1) add cross-link to attention-motor-quantum-interface, (2) note that the willed attention findings support unified attention-motor mechanism, (3) integrate the PMTA perspective that "attention shifts are motor plans."
+- **Source**: chain (from attention-motor-quantum-interface.md)
 - **Generated**: 2026-01-23
 
 ### P2: Cross-review baseline-cognition.md considering conscious-vs-unconscious article
@@ -99,6 +99,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Write article on attention-motor quantum interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/attention-motor-planning-quantum-interface-2026-01-23.md. Key findings: premotor theory of attention (attention and motor planning share neural substrates), affordance competition hypothesis (multiple actions compete until threshold), 280ms commitment timing, revised decoherence estimates (10-100μs). Extends quantum Zeno framework by unifying attention and motor selection as single quantum-influenced domain. Connects to motor-selection.md, voluntary-attention-control.md, stapp-quantum-mind.md.
+- **Result**: Created comprehensive concept article (~2,200 words) covering: (1) PMTA unification with Stapp's quantum Zeno—if attention IS motor planning, single quantum selection mechanism underlies both, (2) affordance competition architecture as selection locus, (3) 280ms/300ms timing convergence between motor commitment and willed attention deployment, (4) basal ganglia brake-release as candidate site, (5) Libet dissolution via Schurger reinterpretation, (6) empirical predictions for cross-interference, (7) strong tenet alignment with all five tenets.
+- **Output**: concepts/attention-motor-quantum-interface.md
 
 ### ✓ 2026-01-23: Cross-review binding-problem.md considering unity-of-consciousness article
 - **Type**: cross-review
