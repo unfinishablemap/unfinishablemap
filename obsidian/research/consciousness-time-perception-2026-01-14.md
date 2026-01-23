@@ -3,7 +3,7 @@ title: Research Notes - Consciousness and Time Perception
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T22:30:00+00:00
+ai_modified: 2026-01-23T00:00:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[retrocausality]]"
 related_articles:
   - "[[tenets]]"
+  - "[[time-perception-consciousness-theories]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
