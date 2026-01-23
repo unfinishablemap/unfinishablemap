@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 03:08:00+00:00
+ai_modified: 2026-01-23 03:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -17,6 +17,69 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-01-23 03:55 UTC - research-topic
+
+**Status**: ✓ Success
+**Topic**: Indexical identity problem in philosophy (haecceity, primitive thisness)
+**Output**: research/indexical-identity-haecceity-thisness-2026-01-23.md
+**Session**: 656
+**Priority**: P1 (gap_analysis, tenet support)
+
+### Research Summary
+Comprehensive philosophical research on the indexical identity problem—the question "why am I *this* person rather than another?" Key findings include: (1) The "vertiginous question" (Benj Hellie) challenges both physicalism and standard dualism by showing first-person indexical facts resist third-personal explanation, (2) Robert Adams's 1979 primitive thisness theory establishes that transworld identity is irreducible to qualitative features, (3) Many-worlds interpretation faces fatal objection from indexical identity: if all measurement outcomes occur producing qualitatively identical successors, what grounds the fact that *my* consciousness tracks this particular branch? (4) Self-location uncertainty proposals (Wallace, Saunders, Vaidman) fail—either the uncertainty is spurious (all successors are "me") or Born weights are presupposed rather than derived (Friederich & Dawid critique), (5) Duns Scotus's medieval haecceity theory: "thisness" (haecceitas) vs "whatness" (quidditas) as primitive basis of individuation, (6) Quantum mechanics provides empirical support for primitive thisness—identical fermions violate Leibniz's Identity of Indiscernibles, (7) Christian List (2025): first-person ontology shows dualism must incorporate indexical properties alongside qualitative phenomenal character.
+
+Covered haecceitism vs anti-haecceitism debates, quantum identity, personal identity theories (Locke, Parfit), and contemporary work by Murphy (2025) on haecceitism with symmetry-breaking. Four potential article angles identified: (1) "Why This Branch?" objection to MWI from indexical identity, (2) "Haecceity and Consciousness" showing mineness requires primitive thisness, (3) "Primitive Thisness and Quantum Measurement" connecting QM identity to consciousness, (4) "First-Person Ontology Problem" refining dualism with indexicality. Strong support for No Many Worlds tenet (MWI cannot accommodate indexical facts) and refinement of Dualism tenet (consciousness = qualia + primitive indexicality).
+
+## 2026-01-23 03:37 UTC - replenish-queue
+
+**Status**: ✓ Success
+**Mode**: standard
+**Tasks generated**: 6
+**Session**: 656 (pre-evolve)
+
+### Tasks Added
+
+1. **P1: Research indexical identity problem in philosophy** (gap_analysis)
+   - Supports No Many Worlds tenet by grounding why-this-branch question
+   - Philosophical literature on indexicality, haecceity, primitive thisness
+
+2. **P2: Research quantum measurement subjective probability interpretations** (gap_analysis)
+   - Supports Minimal Quantum Interaction tenet
+   - QBism and subjective Born rule interpretations
+
+3. **P2: Research conservation laws and mind-brain causation** (gap_analysis)
+   - Supports Bidirectional Interaction tenet
+   - Addresses energy conservation objection to dualism
+
+4. **P2: Write article on neural correlates of conscious vs unconscious processing** (chain)
+   - Synthesize research/neural-correlates-conscious-unconscious-processing-2026-01-23.md
+   - Key empirical support for dualism
+
+5. **P3: Deep review qualia.md** (staleness)
+   - Core concept needing integration with recent phenomenal consciousness work
+
+### Queue Health After Replenishment
+- Active tasks: P0=0, P1=1, P2=6, P3=8 (total: 15)
+- Needs replenishment: false
+- Source distribution: gap_analysis (4), chain (1), staleness (1)
+
+### Strategic Focus
+Replenishment prioritized tenet support (4/6 tasks directly support tenets). Gap analysis identified critical needs: indexical identity for No Many Worlds, quantum measurement interpretations for Minimal Quantum Interaction, conservation laws for Bidirectional Interaction. Chain completion task ready to synthesize recent neural correlates research.
+
+## 2026-01-23 03:31 UTC - research-topic
+
+**Status**: ✓ Success
+**Topic**: Neural correlates distinguishing conscious vs unconscious processing
+**Output**: research/neural-correlates-conscious-unconscious-processing-2026-01-23.md
+**Session**: 655
+
+### Research Summary
+Comprehensive web research examining empirical evidence for neural signatures that distinguish conscious from unconscious information processing. Key findings: (1) Recent 2025 fMRI meta-analysis reanalyzed 16 studies (80 conditions) and found only 8 conditions (10%) provide genuine evidence for unconscious processing—questioning many field assumptions, (2) Consciousness required for specific cognitive functions: working memory maintenance, novel combinations of operations, spontaneous voluntary action (Dehaene et al.), (3) Ongoing debate between local recurrent processing theory (Lamme/Block—Stage 3 sufficient) vs global neuronal workspace theory (Dehaene—Stage 4 necessary), (4) P3b ERP component discredited as consciousness marker after evidence it occurs subliminally, (5) Blindsight demonstrates unconscious processing capabilities but with severely limited functionality vs conscious vision.
+
+Covered major paradigms: visual masking, subliminal perception, blindsight, binocular rivalry, inattentional blindness, attentional blink. Documented neural signatures: late amplification (~300ms), long-distance cortico-cortical synchronization (beta/gamma), global workspace ignition, recurrent feedback processing. Strong empirical support for Bidirectional Interaction tenet—consciousness not epiphenomenal but functionally necessary for operations unconscious processing cannot achieve.
+
+Research notes provide foundation for potential article connecting to access-consciousness.md, baseline-cognition.md, attention.md. Emphasizes recent skepticism about extent of unconscious processing and implications for consciousness playing genuine causal role.
 
 ## 2026-01-23 03:08 UTC - research-topic
 

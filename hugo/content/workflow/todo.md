@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 03:14:25+00:00
+ai_modified: 2026-01-23 03:31:20+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,17 +44,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
-### P2: Research neural correlates distinguishing conscious vs unconscious processing
-- **Type**: research-topic
-- **Notes**: Gap analysis. Bidirectional Interaction tenet requires evidence that consciousness makes causal difference. Need systematic treatment of what neural signatures distinguish conscious from unconscious information processing—not just correlates but functional differences. Masking studies, subliminal perception, blindsight, inattentional blindness, binocular rivalry. What processing occurs without consciousness vs what requires it? Connects to access-consciousness.md, baseline-cognition.md, attention.md. Strongly supports Bidirectional Interaction tenet by showing consciousness enables functions that unconscious processing cannot achieve.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-23
-
-
 ### P2: Review blindsight considering baseline cognition framework
 - **Type**: cross-review
 - **Notes**: New article concepts/consciousness-independent-baseline-cognition.md presents hypothesis that unconscious processing achieves ~great ape level. Blindsight patients demonstrate unconscious visual processing (forced-choice accuracy) but lack visual experience. This fits baseline cognition pattern—sophisticated procedural skills without phenomenal awareness. The blindsight article should connect to baseline framework.
 - **Source**: chain
+- **Generated**: 2026-01-23
+
+### P2: Research quantum measurement subjective probability interpretations
+- **Type**: research-topic
+- **Notes**: Minimal Quantum Interaction tenet needs deeper coverage of how consciousness relates to quantum measurement Born rule probabilities. QBism and other subjective interpretations relevant. Why does consciousness experience one outcome rather than superposition?
+- **Source**: gap_analysis
+- **Generated**: 2026-01-23
+
+### P2: Research conservation laws and mind-brain causation
+- **Type**: research-topic
+- **Notes**: Bidirectional Interaction tenet needs response to energy conservation objection. How can non-physical consciousness causally influence physical without violating conservation? Quantum indeterminacy escape? Information vs energy?
+- **Source**: gap_analysis
+- **Generated**: 2026-01-23
+
+### P2: Write article on neural correlates of conscious vs unconscious processing
+- **Type**: expand-topic
+- **Notes**: Based on research/neural-correlates-conscious-unconscious-processing-2026-01-23.md. Key evidence for distinguishing phenomenal consciousness from access/function. Neural correlates show clear dissociation: unconscious processing uses different pathways (dorsal stream) than conscious (ventral + prefrontal). Supports dualism by showing consciousness adds something beyond processing.
+- **Source**: chain
+- **Generated**: 2026-01-23
+
+### P3: Deep review qualia.md
+- **Type**: deep-review
+- **Notes**: Core concept article referenced throughout the Map. Given recent work on phenomenal consciousness, access consciousness, and baseline cognition, qualia.md should be reviewed to ensure clean distinctions and proper cross-linking.
+- **Source**: staleness
 - **Generated**: 2026-01-23
 
 ### P3: Create voids article on temporal asymmetry
@@ -94,6 +111,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Research indexical identity problem in philosophy
+- **Type**: research-topic
+- **Notes**: No Many Worlds tenet depends on indexical identity mattering. Need coverage of why-this-branch question and philosophical literature on indexicality, haecceity, primitive thisness. Why am I experiencing this branch rather than another?
+- **Result**: Comprehensive web research on indexical identity problem, haecceity, and primitive thisness. Key findings: (1) Benj Hellie's "vertiginous question" (why am I *this* person?) challenges both physicalism and standard dualism, (2) Robert Adams's 1979 primitive thisness theory: transworld identity is primitive and irreducible, (3) MWI's self-location uncertainty strategy fails—critics (Friederich & Dawid) show uncertainty is either spurious or presupposes Born rule, (4) Duns Scotus's medieval haecceity: "thisness" vs "whatness" distinction grounds individuation, (5) Christian List (2025): vertiginous question as evidence against third-personal metaphysics, (6) Quantum mechanics provides empirical support for haecceitism (identical fermions are numerically distinct), (7) Four potential article angles identified supporting No Many Worlds and refining Dualism with indexical properties.
+- **Output**: research/indexical-identity-haecceity-thisness-2026-01-23.md
+
+### ✓ 2026-01-23: Research neural correlates distinguishing conscious vs unconscious processing
+- **Type**: research-topic
+- **Notes**: Gap analysis. Bidirectional Interaction tenet requires evidence that consciousness makes causal difference. Need systematic treatment of what neural signatures distinguish conscious from unconscious information processing—not just correlates but functional differences. Masking studies, subliminal perception, blindsight, inattentional blindness, binocular rivalry. What processing occurs without consciousness vs what requires it? Connects to access-consciousness.md, baseline-cognition.md, attention.md. Strongly supports Bidirectional Interaction tenet by showing consciousness enables functions that unconscious processing cannot achieve.
+- **Result**: Conducted comprehensive web research on neural correlates distinguishing conscious from unconscious processing. Key findings: (1) 2025 fMRI meta-analysis found only 10% of claimed unconscious processing effects replicate, (2) consciousness required for working memory maintenance, novel combinations, and voluntary action generation, (3) debate between local (Lamme) vs global (Dehaene) theories of recurrent processing, (4) P3b discredited as consciousness marker, (5) strong empirical support for Bidirectional Interaction tenet.
+- **Output**: obsidian/research/neural-correlates-conscious-unconscious-processing-2026-01-23.md
 
 ### ✓ 2026-01-23: Review bidirectional-interaction considering baseline cognition evidence
 - **Type**: cross-review
