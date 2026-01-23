@@ -1,5 +1,5 @@
-last_updated: '2026-01-23T02:09:31+00:00'
-session_count: 643
+last_updated: '2026-01-23T02:17:16+00:00'
+session_count: 644
 last_replenishment: '2026-01-23T02:02:37+00:00'
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
@@ -54,7 +54,7 @@ progress:
   arguments_written: 4
   questions_written: 1
   voids_written: 10
-  research_notes: 103
+  research_notes: 104
   reviews_completed: 487
 quality:
   critical_issues: 6
@@ -63,6 +63,11 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: research-topic (argument from reason and self-defeat objections to physicalism)
+  type: research-topic
+  date: '2026-01-23'
+  outcome: success
+  output: research/argument-from-reason-self-defeat-physicalism-2026-01-23.md
 - task: research-topic (psychophysical coupling law mechanisms)
   type: research-topic
   date: '2026-01-23'
@@ -172,5 +177,6 @@ recent_tasks:
   date: '2026-01-22'
   outcome: success
 task_chains:
-  pending_articles: []
+  pending_articles:
+  - research/argument-from-reason-self-defeat-physicalism-2026-01-23.md
   pending_cross_reviews: []
