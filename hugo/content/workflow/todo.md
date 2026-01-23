@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 22:35:00+00:00
+ai_modified: 2026-01-23 16:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review quantum-interpretations.md considering subjective probability article
+### P2: Cross-review objectivity-and-consciousness.md considering intersubjectivity article
 - **Type**: cross-review
-- **Notes**: New article concepts/subjective-probability-quantum-measurement.md distinguishes how QBism, objective-chance views, and many-worlds treat Born probabilities. The quantum-interpretations.md page should be reviewed to: (1) add cross-link to subjective-probability-quantum-measurement, (2) note the distinctive treatment of probability in each interpretation, (3) integrate the criticism that all interpretations fail to address the first-person perspective on probability.
-- **Source**: chain (from subjective-probability-quantum-measurement.md)
+- **Notes**: New article concepts/intersubjectivity.md defines the shared space between minds and how phenomenology can be validated intersubjectively. The objectivity-and-consciousness.md concept page references [intersubjectivity](/concepts/intersubjectivity/) in its Further Reading but the link was broken. Should be reviewed to: (1) verify link now works, (2) integrate distinction between objectivity (view from nowhere) and intersubjectivity (shared subjectivity), (3) note that objectivity may emerge from intersubjective agreement.
+- **Source**: chain (from intersubjectivity.md)
 - **Generated**: 2026-01-23
 
-### P2: Create concept page for intersubjectivity
-- **Type**: expand-topic
-- **Notes**: Gap analysis. Concept "intersubjectivity" is referenced across methodology discussions but has no definition page. Intersubjectivity concerns the shared space between minds—how first-person experiences can be communicated and validated intersubjectively. Relevant to second-person methodology, phenomenological validation, problem of other minds. Supports Dualism tenet by exploring how subjective experience can be intersubjectively accessed without reducing it to third-person terms. Connects to first-person-third-person-methodology.md, problem-of-other-minds.md, heterophenomenology.md.
-- **Source**: gap_analysis
+### P2: Cross-review first-person-third-person-methodology.md considering intersubjectivity article
+- **Type**: cross-review
+- **Notes**: New article concepts/intersubjectivity.md provides grounding for second-person methodology discussion. The first-person-third-person-methodology.md topic page discusses empathic intersubjectivity but doesn't link to a dedicated article. Should be reviewed to: (1) add cross-link to intersubjectivity, (2) note how intersubjectivity bridges first-person and third-person perspectives, (3) integrate Husserl's constitution of intersubjectivity as theoretical foundation for second-person methods.
+- **Source**: chain (from intersubjectivity.md)
+- **Generated**: 2026-01-23
+
+### P2: Cross-review attention.md considering voluntary-attention-control insights
+- **Type**: cross-review
+- **Notes**: New article concepts/voluntary-attention-control.md provides detailed treatment of willed vs instructed vs exogenous attention, with neural signatures and Stapp's quantum Zeno mechanism. The attention.md concept page should be reviewed to: (1) add cross-link to voluntary-attention-control, (2) integrate the willed-instructed-exogenous distinction that goes beyond top-down/bottom-up, (3) note the quantum Zeno framework as potential mechanism for voluntary attention's causal efficacy.
+- **Source**: chain (from voluntary-attention-control.md)
+- **Generated**: 2026-01-23
+
+### P2: Cross-review stapp-quantum-mind.md considering voluntary-attention-control insights
+- **Type**: cross-review
+- **Notes**: New article concepts/voluntary-attention-control.md provides empirical grounding for Stapp's framework with specific neural signatures of willed attention (LPFC activation, theta-band synchronization, ~300ms deployment). The stapp-quantum-mind.md concept page should be reviewed to: (1) add cross-link to voluntary-attention-control, (2) integrate the empirical neural evidence that aligns with Stapp's theoretical predictions, (3) note the willed/instructed distinction as operationalizing what Stapp means by "mental effort."
+- **Source**: chain (from voluntary-attention-control.md)
 - **Generated**: 2026-01-23
 
 ### P3: Deep review qualia.md
@@ -88,6 +100,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Create concept page for intersubjectivity
+- **Type**: expand-topic
+- **Notes**: Gap analysis. Concept "intersubjectivity" is referenced across methodology discussions but has no definition page. Intersubjectivity concerns the shared space between minds—how first-person experiences can be communicated and validated intersubjectively. Relevant to second-person methodology, phenomenological validation, problem of other minds. Supports Dualism tenet by exploring how subjective experience can be intersubjectively accessed without reducing it to third-person terms. Connects to first-person-third-person-methodology.md, problem-of-other-minds.md, heterophenomenology.md.
+- **Result**: Created comprehensive concept article (~1,800 words) covering: (1) distinction between intersubjectivity and objectivity—intersubjectivity retains viewpoint while discovering convergence across perspectives, (2) Husserl's constitution of intersubjectivity through appresentation and the emergence of objective world from intersubjective convergence, (3) second-person methodology operationalizing intersubjectivity through empathic encounter, (4) contemplative evidence from meditator convergence on phenomenological distinctions with neural corroboration, (5) the discourse argument—cross-cultural vocabulary for consciousness as intersubjective evidence, (6) limits of intersubjectivity (linguistic mediation, experiential diversity, training differences). Strong alignment with Dualism, Bidirectional Interaction, and Occam's Razor Has Limits tenets.
+- **Output**: concepts/intersubjectivity.md
+
+### ✓ 2026-01-23: Cross-review quantum-interpretations.md considering subjective probability article
+- **Type**: cross-review
+- **Notes**: New article concepts/subjective-probability-quantum-measurement.md distinguishes how QBism, objective-chance views, and many-worlds treat Born probabilities. The quantum-interpretations.md page should be reviewed to: (1) add cross-link to subjective-probability-quantum-measurement, (2) note the distinctive treatment of probability in each interpretation, (3) integrate the criticism that all interpretations fail to address the first-person perspective on probability.
+- **Result**: Added [subjective-probability-quantum-measurement](/concepts/subjective-probability-quantum-measurement/) to frontmatter concepts and related_articles. Added new "How Interpretations Handle Probability" section before the Comparison Table explaining: (1) how standard/Copenhagen views treat Born probabilities as objective propensities but struggle with single cases, (2) how QBism treats them as subjective beliefs but presupposes determinate experience, (3) how many-worlds reinterprets probability as branch measure but faces the meaninglessness objection. Integrated the Map's proposal that Born probabilities describe interface structure at consciousness-quantum coupling. Added subjective-probability-quantum-measurement as first entry in Further Reading.
+- **Output**: concepts/quantum-interpretations.md
 
 ### ✓ 2026-01-23: Cross-review measurement-problem.md considering subjective probability article
 - **Type**: cross-review
