@@ -61,6 +61,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
+### P2: Cross-review measurement-problem.md considering subjective probability article
+- **Type**: cross-review
+- **Notes**: New article concepts/subjective-probability-quantum-measurement.md examines how Born rule probabilities relate to consciousness and different interpretations. The measurement-problem.md concept page should be reviewed to: (1) add cross-link to subjective-probability-quantum-measurement, (2) note that the article provides detailed treatment of what Born probabilities *mean* rather than just how they're used, (3) integrate the interface-structure proposal where probabilities describe consciousness-quantum coupling.
+- **Source**: chain (from subjective-probability-quantum-measurement.md)
+- **Generated**: 2026-01-23
+
+### P2: Cross-review quantum-interpretations.md considering subjective probability article
+- **Type**: cross-review
+- **Notes**: New article concepts/subjective-probability-quantum-measurement.md distinguishes how QBism, objective-chance views, and many-worlds treat Born probabilities. The quantum-interpretations.md page should be reviewed to: (1) add cross-link to subjective-probability-quantum-measurement, (2) note the distinctive treatment of probability in each interpretation, (3) integrate the criticism that all interpretations fail to address the first-person perspective on probability.
+- **Source**: chain (from subjective-probability-quantum-measurement.md)
+- **Generated**: 2026-01-23
+
 ### P3: Deep review qualia.md
 - **Type**: deep-review
 - **Notes**: Core concept article referenced throughout the Map. Given recent work on phenomenal consciousness, access consciousness, and baseline cognition, qualia.md should be reviewed to ensure clean distinctions and proper cross-linking.

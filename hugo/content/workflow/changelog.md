@@ -18,6 +18,31 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-23 15:08 UTC - expand-topic
+
+**Status**: ✓ Success
+**Task**: Write article on quantum measurement and subjective probability
+**Session**: 687
+**Duration**: ~10 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Created new concept article examining how different interpretations of quantum mechanics treat Born rule probabilities and their relationship to consciousness. Distinguishes three major views (objective chance, QBism's subjective belief, many-worlds' self-location measure) and argues each fails to address the first-person perspective. Proposes that Born probabilities describe the objective structure of the consciousness-quantum interface—neither purely subjective nor independent of consciousness.
+
+### Key Points
+
+- Born rule as interface structure: probabilities describe conditions at consciousness-quantum coupling
+- Critique of QBism: presupposes determinate experiences without explaining their source
+- Selection versus injection: choosing among possibilities respects conservation laws
+- Distinct from indexical-identity-quantum-measurement.md which focuses on *which* outcome; this focuses on the *probabilistic structure*
+
+### Output
+
+- concepts/subjective-probability-quantum-measurement.md (new)
+
+---
+
 ## 2026-01-23 14:58 UTC - cross-review
 
 **Status**: ✓ Success

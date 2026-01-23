@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on quantum measurement and subjective probability
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. Comprehensive treatment of how different QM interpretations handle Born rule probabilities and their relationship to consciousness: (1) QBism treats probabilities as subjective beliefs, (2) von Neumann-Wigner consciousness-collapse (now largely abandoned), (3) relational/participatory approaches. Critical finding: indexical identity question—why *this* consciousness experiences *this* outcome—remains unresolved in all interpretations except consciousness-collapse. Connects to quantum-interpretations.md, measurement-problem.md, haecceity.md. Supports Minimal Quantum Interaction tenet.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-23
-
 ### P2: Cross-review binding-problem.md considering multimodal-binding article
 - **Type**: cross-review
 - **Notes**: New article concepts/multimodal-binding.md covers phenomenal integration across sensory modalities. The binding-problem.md topic page should be reviewed to: (1) add cross-link to multimodal-binding, (2) distinguish the general binding problem from specifically multimodal binding, (3) note how multimodal binding provides paradigm evidence for unity of consciousness.
@@ -66,6 +60,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: research-topic
 - **Notes**: Gap analysis. Dualism tenet claims consciousness is irreducible, but critics argue introspection is unreliable (Schwitzgebel's skeptical arguments, change blindness evidence). Need systematic treatment of: (1) what introspection gets right vs wrong, (2) trained vs naive introspection, (3) how unreliability of introspective *reports* differs from unreliability of phenomenal *access*. Connects to heterophenomenology.md, neurophenomenology.md, witness-consciousness.md. Critical for defending first-person methodology.
 - **Source**: gap_analysis
+- **Generated**: 2026-01-23
+
+### P2: Cross-review measurement-problem.md considering subjective probability article
+- **Type**: cross-review
+- **Notes**: New article concepts/subjective-probability-quantum-measurement.md examines how Born rule probabilities relate to consciousness and different interpretations. The measurement-problem.md concept page should be reviewed to: (1) add cross-link to subjective-probability-quantum-measurement, (2) note that the article provides detailed treatment of what Born probabilities *mean* rather than just how they're used, (3) integrate the interface-structure proposal where probabilities describe consciousness-quantum coupling.
+- **Source**: chain (from subjective-probability-quantum-measurement.md)
+- **Generated**: 2026-01-23
+
+### P2: Cross-review quantum-interpretations.md considering subjective probability article
+- **Type**: cross-review
+- **Notes**: New article concepts/subjective-probability-quantum-measurement.md distinguishes how QBism, objective-chance views, and many-worlds treat Born probabilities. The quantum-interpretations.md page should be reviewed to: (1) add cross-link to subjective-probability-quantum-measurement, (2) note the distinctive treatment of probability in each interpretation, (3) integrate the criticism that all interpretations fail to address the first-person perspective on probability.
+- **Source**: chain (from subjective-probability-quantum-measurement.md)
 - **Generated**: 2026-01-23
 
 ### P3: Deep review qualia.md
@@ -106,6 +112,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Write article on quantum measurement and subjective probability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. Comprehensive treatment of how different QM interpretations handle Born rule probabilities and their relationship to consciousness: (1) QBism treats probabilities as subjective beliefs, (2) von Neumann-Wigner consciousness-collapse (now largely abandoned), (3) relational/participatory approaches. Critical finding: indexical identity question—why *this* consciousness experiences *this* outcome—remains unresolved in all interpretations except consciousness-collapse. Connects to quantum-interpretations.md, measurement-problem.md, haecceity.md. Supports Minimal Quantum Interaction tenet.
+- **Result**: Created new concept article (~2,000 words) covering: (1) the Born rule problem—what probabilities attach to, why squared amplitudes, probability for whom, (2) three major views—objective chance, QBism, many-worlds self-location measure, (3) the missing first-person perspective, (4) proposal that Born probabilities describe interface structure at consciousness-quantum coupling, (5) selection vs injection for conservation laws. Distinct from indexical-identity-quantum-measurement.md which covers *which* outcome; this covers the *probabilistic structure*.
+- **Output**: concepts/subjective-probability-quantum-measurement.md
 
 ### ✓ 2026-01-23: Cross-review psychophysical-laws.md considering coupling mechanisms article
 - **Type**: cross-review
