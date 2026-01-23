@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 17:35:00+00:00
+ai_modified: 2026-01-23 15:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review mental-imagery.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers voluntary vs involuntary imagery, aphantasia spectrum, motor imagery research, and LPFC involvement. Key evidence for Bidirectional Interaction tenet. Should be reviewed for accuracy, citation quality, and proper integration with attention/working-memory articles.
-- **Source**: staleness
-- **Generated**: 2026-01-23
-
 ### P2: Cross-review measurement-problem.md considering subjective probability article
 - **Type**: cross-review
 - **Notes**: New article concepts/subjective-probability-quantum-measurement.md examines how Born rule probabilities relate to consciousness and different interpretations. The measurement-problem.md concept page should be reviewed to: (1) add cross-link to subjective-probability-quantum-measurement, (2) note that the article provides detailed treatment of what Born probabilities *mean* rather than just how they're used, (3) integrate the interface-structure proposal where probabilities describe consciousness-quantum coupling.
@@ -54,6 +48,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: cross-review
 - **Notes**: New article concepts/subjective-probability-quantum-measurement.md distinguishes how QBism, objective-chance views, and many-worlds treat Born probabilities. The quantum-interpretations.md page should be reviewed to: (1) add cross-link to subjective-probability-quantum-measurement, (2) note the distinctive treatment of probability in each interpretation, (3) integrate the criticism that all interpretations fail to address the first-person perspective on probability.
 - **Source**: chain (from subjective-probability-quantum-measurement.md)
+- **Generated**: 2026-01-23
+
+### P2: Create concept page for intersubjectivity
+- **Type**: expand-topic
+- **Notes**: Gap analysis. Concept "intersubjectivity" is referenced across methodology discussions but has no definition page. Intersubjectivity concerns the shared space between minds—how first-person experiences can be communicated and validated intersubjectively. Relevant to second-person methodology, phenomenological validation, problem of other minds. Supports Dualism tenet by exploring how subjective experience can be intersubjectively accessed without reducing it to third-person terms. Connects to first-person-third-person-methodology.md, problem-of-other-minds.md, heterophenomenology.md.
+- **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
 ### P3: Deep review qualia.md
@@ -94,6 +94,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Create concept page for voluntary-attention-control
+- **Type**: expand-topic
+- **Notes**: Gap analysis. Concept "voluntary-attention-control" is referenced 3+ times but has no definition page. Voluntary attention control is the ability to consciously direct attention—distinct from reflexive/automatic attention capture. Critical mechanism for Bidirectional Interaction tenet (conscious intention directing neural resources). Should cover: willed vs instructed attention distinction, LPFC involvement, connection to mental effort, relation to Stapp's quantum Zeno framework. Connects to attention.md, mental-effort.md, stapp-quantum-mind.md, free-will.md.
+- **Result**: Created comprehensive concept article (~2,200 words) covering: (1) three modes of attention (willed/instructed/exogenous) with neural signatures, (2) phenomenology of voluntary control and effort localization, (3) attention-as-interface hypothesis, (4) Stapp's quantum Zeno mechanism applied to voluntary attention, (5) stochastic pre-state question and Libet parallels, (6) neural architecture (dorsal/ventral/salience networks, thalamic gateway, prefrontal control), (7) strong tenet alignment with Bidirectional Interaction and Minimal Quantum Interaction.
+- **Output**: concepts/voluntary-attention-control.md
+
+### ✓ 2026-01-23: Deep review mental-imagery.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers voluntary vs involuntary imagery, aphantasia spectrum, motor imagery research, and LPFC involvement. Key evidence for Bidirectional Interaction tenet. Should be reviewed for accuracy, citation quality, and proper integration with attention/working-memory articles.
+- **Result**: Comprehensive review with both pessimistic (6 philosopher perspectives) and optimistic analysis. Added quantified effect sizes for motor imagery (Cohen's d 0.4-0.7). Added engagement with physicalist counter-argument. Added new explanatory gap paragraph connecting aphantasia variation to Dualism tenet. Enhanced cross-links to contemplative-neuroscience and introspection with validation evidence.
+- **Output**: concepts/mental-imagery.md, reviews/deep-review-2026-01-23-mental-imagery.md
 
 ### ✓ 2026-01-23: Cross-review problem-of-other-minds.md considering objectivity article
 - **Type**: cross-review

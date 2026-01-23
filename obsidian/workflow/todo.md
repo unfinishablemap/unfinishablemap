@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T20:20:00+00:00
+ai_modified: 2026-01-23T16:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,6 +49,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from subjective-probability-quantum-measurement.md)
 - **Generated**: 2026-01-23
 
+### P2: Create concept page for intersubjectivity
+- **Type**: expand-topic
+- **Notes**: Gap analysis. Concept "intersubjectivity" is referenced across methodology discussions but has no definition page. Intersubjectivity concerns the shared space between minds—how first-person experiences can be communicated and validated intersubjectively. Relevant to second-person methodology, phenomenological validation, problem of other minds. Supports Dualism tenet by exploring how subjective experience can be intersubjectively accessed without reducing it to third-person terms. Connects to first-person-third-person-methodology.md, problem-of-other-minds.md, heterophenomenology.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-23
+
 ### P3: Deep review qualia.md
 - **Type**: deep-review
 - **Notes**: Core concept article referenced throughout the Map. Given recent work on phenomenal consciousness, access consciousness, and baseline cognition, qualia.md should be reviewed to ensure clean distinctions and proper cross-linking.
@@ -87,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Create concept page for voluntary-attention-control
+- **Type**: expand-topic
+- **Notes**: Gap analysis. Concept "voluntary-attention-control" is referenced 3+ times but has no definition page. Voluntary attention control is the ability to consciously direct attention—distinct from reflexive/automatic attention capture. Critical mechanism for Bidirectional Interaction tenet (conscious intention directing neural resources). Should cover: willed vs instructed attention distinction, LPFC involvement, connection to mental effort, relation to Stapp's quantum Zeno framework. Connects to attention.md, mental-effort.md, stapp-quantum-mind.md, free-will.md.
+- **Result**: Created comprehensive concept article (~2,200 words) covering: (1) three modes of attention (willed/instructed/exogenous) with neural signatures, (2) phenomenology of voluntary control and effort localization, (3) attention-as-interface hypothesis, (4) Stapp's quantum Zeno mechanism applied to voluntary attention, (5) stochastic pre-state question and Libet parallels, (6) neural architecture (dorsal/ventral/salience networks, thalamic gateway, prefrontal control), (7) strong tenet alignment with Bidirectional Interaction and Minimal Quantum Interaction.
+- **Output**: concepts/voluntary-attention-control.md
 
 ### ✓ 2026-01-23: Deep review mental-imagery.md
 - **Type**: deep-review
