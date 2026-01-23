@@ -5,6 +5,8 @@ draft: false
 ai_contribution: 100
 ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-01-23
+related_articles:
+  - "[[phenomenal-binding]]"
 ---
 
 # Research: Phenomenal Binding Mechanisms Across Sensory Modalities

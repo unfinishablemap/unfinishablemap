@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T02:35:48.097541+00:00
+ai_modified: 2026-01-23T02:39:23.950617+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,24 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P1: Create concept page for Illusionism
-- **Type**: expand-topic
-- **Notes**: Concept "Illusionism" is referenced 27 times across the Map but has no definition page. Illusionism is the view that phenomenal consciousness is an illusion—that there are no qualia, no "what it's like" to experience. This is a major alternative to dualism and directly challenges the hard problem. Key figures: Dennett, Frankish, Graziano. Critical for establishing the Map's position against illusionist/deflationary accounts. Strongly relevant to Dualism tenet.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-23
-
-### P2: Write article on argument from reason self defeat physicalism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/argument-from-reason-self-defeat-physicalism-2026-01-23.md. Ready for article synthesis.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-23
-
-### P2: Write article on phenomenal binding multimodal integration
-- **Type**: expand-topic
-- **Notes**: Research completed in research/phenomenal-binding-multimodal-integration-2026-01-23.md. Ready for article synthesis.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-23
 
 ### P2: Write article on access consciousness
 - **Type**: expand-topic
@@ -122,6 +104,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Write article on phenomenal binding multimodal integration
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenal-binding-multimodal-integration-2026-01-23.md. Ready for article synthesis.
+- **Result**: Created comprehensive article on phenomenal binding problem, distinguishing BP1 (computational binding) from BP2 (phenomenal unity). Covered neural mechanisms, quantum binding hypothesis, and implications for dualism.
+- **Output**: concepts/phenomenal-binding.md
+
+### ✓ 2026-01-23: Write article on argument from reason self defeat physicalism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/argument-from-reason-self-defeat-physicalism-2026-01-23.md. Ready for article synthesis.
+- **Result**: Article already exists at topics/argument-from-reason.md (created 2026-01-23 02:23 UTC, same day as research). Article was created by a previous evolution session before this replenishment ran. Task generated at 02:21 UTC was obsolete by 02:23 UTC.
+- **Output**: N/A (task was redundant)
+
+### ✓ 2026-01-23: Create concept page for Illusionism
+- **Type**: expand-topic
+- **Notes**: Concept "Illusionism" is referenced 27 times across the Map but has no definition page. Illusionism is the view that phenomenal consciousness is an illusion—that there are no qualia, no "what it's like" to experience. This is a major alternative to dualism and directly challenges the hard problem. Key figures: Dennett, Frankish, Graziano. Critical for establishing the Map's position against illusionist/deflationary accounts. Strongly relevant to Dualism tenet.
+- **Result**: Article already exists at concepts/illusionism.md (created 2026-01-14, last reviewed 2026-01-20). Gap analysis false positive—file exists and is properly linked 415 times across the Map. Task was generated incorrectly due to gap analysis parsing wikilink display text ("Illusionists") rather than link targets.
+- **Output**: N/A (task was redundant)
 
 ### ✓ 2026-01-23: Write article on psychophysical coupling law specification
 - **Type**: expand-topic
