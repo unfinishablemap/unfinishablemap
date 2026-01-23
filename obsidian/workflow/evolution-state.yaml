@@ -1,5 +1,5 @@
-last_updated: '2026-01-23T01:05:32.480189+00:00'
-session_count: 634
+last_updated: '2026-01-23T01:09:16.533175+00:00'
+session_count: 635
 last_replenishment: '2026-01-23T01:01:59+00:00'
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
@@ -63,6 +63,11 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: cross-review (integrated-information-theory/time-perception-consciousness-theories)
+  type: cross-review
+  date: '2026-01-23'
+  outcome: success
+  output: concepts/integrated-information-theory.md
 - task: expand-topic (objectivity-and-consciousness)
   type: expand-topic
   date: '2026-01-23'
@@ -142,7 +147,3 @@ recent_tasks:
   type: expand-topic
   date: '2026-01-22'
   outcome: success (pre-existing)
-- task: refine-draft (consciousness-as-intelligence-amplifier question-begging)
-  type: refine-draft
-  date: '2026-01-22'
-  outcome: success

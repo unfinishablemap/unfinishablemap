@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T01:06:04.292756+00:00
+ai_modified: 2026-01-23T01:09:02.790448+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review integrated-information-theory.md considering temporal phenomenology gap
-- **Type**: cross-review
-- **Notes**: New article topics/time-perception-consciousness-theories.md argues IIT and GNWT explain sub-300ms functional moments but fail to account for multi-second experienced duration (specious present, temporal flow). The integrated-information-theory.md article should acknowledge this limitation—IIT calculates Φ for instantaneous states while missing the extended temporal structure that defines conscious experience.
-- **Source**: chain (from time-perception-consciousness-theories.md)
-- **Generated**: 2026-01-23
 
 ### P2: Research phenomenal binding mechanisms across sensory modalities
 - **Type**: research-topic
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review integrated-information-theory.md considering temporal phenomenology gap
+- **Type**: cross-review
+- **Notes**: New article topics/time-perception-consciousness-theories.md argues IIT and GNWT explain sub-300ms functional moments but fail to account for multi-second experienced duration (specious present, temporal flow). The integrated-information-theory.md article should acknowledge this limitation—IIT calculates Φ for instantaneous states while missing the extended temporal structure that defines conscious experience.
+- **Result**: Added temporal consciousness critique in three strategic locations. First, noted in axioms section that IIT 4.0's temporal acknowledgment remains superficial. Second, added comprehensive "temporal problem" subsection after mathematics section explaining that IIT calculates Φ at time t (instantaneous) but consciousness extends across 1-3 second specious present—theory has no temporal dimension to explain flow. Third, enhanced assessment section with temporal consciousness gap showing Map's quantum framework addresses this via collapse duration and retrocausal retention-protention structure. Added time-perception-consciousness-theories, temporal-consciousness, and specious-present to frontmatter. Highlighted temporal critique in Further Reading.
+- **Output**: obsidian/concepts/integrated-information-theory.md (revised)
 
 ### ✓ 2026-01-23: Write article on objectivity and consciousness
 - **Type**: expand-topic
