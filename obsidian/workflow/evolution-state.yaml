@@ -1,5 +1,5 @@
-last_updated: '2026-01-23T02:35:48.097541+00:00'
-session_count: 646
+last_updated: '2026-01-23T02:41:41.804756+00:00'
+session_count: 647
 last_replenishment: '2026-01-23T02:35:48.097541+00:00'
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
@@ -38,7 +38,7 @@ scheduled_hours:
   tweet-highlight: 7
 last_git_push: '2026-01-23T00:41:42.670698+00:00'
 content_stats:
-  total_files: 491
+  total_files: 500
   published_files: 491
   draft_files: 0
   placeholder_files: 0
@@ -50,7 +50,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 33
-  concepts_written: 132
+  concepts_written: 133
   arguments_written: 4
   questions_written: 1
   voids_written: 10
@@ -63,6 +63,11 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
+- task: expand-topic (phenomenal binding)
+  type: expand-topic
+  date: '2026-01-23'
+  outcome: success
+  output: concepts/phenomenal-binding.md
 - task: expand-topic (psychophysical coupling mechanisms)
   type: expand-topic
   date: '2026-01-23'
