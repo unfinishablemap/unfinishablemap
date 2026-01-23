@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 21:50:00+00:00
+ai_modified: 2026-01-24 00:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,24 +38,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review baseline-cognition.md considering conscious-vs-unconscious article
+### P2: Cross-review quantum-zeno-effect.md considering attention-motor quantum interface
 - **Type**: cross-review
-- **Notes**: New article concepts/conscious-vs-unconscious-processing.md provides empirical grounding for the baseline cognition hypothesis—the 2025 fMRI reanalysis showing only 10% of unconscious processing claims survive rigorous methodology. The baseline-cognition.md article should be reviewed to: (1) add cross-link to conscious-vs-unconscious-processing, (2) integrate the three functions requiring consciousness (durable maintenance, novel combinations, spontaneous intentional action), (3) strengthen the empirical case for consciousness's functional role.
-- **Source**: chain (from conscious-vs-unconscious-processing.md)
-- **Generated**: 2026-01-23
+- **Notes**: New article concepts/attention-motor-quantum-interface.md unifies the premotor theory of attention (PMTA) with Stapp's quantum Zeno mechanism, showing attention shifts ARE motor plans operating through the same quantum selection mechanism. The quantum-consciousness.md article should be reviewed to: (1) add cross-link to attention-motor-quantum-interface, (2) integrate the PMTA evidence that strengthens Stapp's attention mechanism, (3) note the ~280ms/~300ms timing convergence as additional constraint on quantum Zeno dynamics.
+- **Source**: chain (from attention-motor-quantum-interface.md)
+- **Generated**: 2026-01-24
 
-### P2: Cross-review phenomenal-unity.md considering unity-of-consciousness article
-- **Type**: cross-review
-- **Notes**: New article concepts/unity-of-consciousness.md provides conceptual framing for the unity problem that phenomenal-unity.md addresses from the phenomenal side. The phenomenal-unity.md article should be reviewed to: (1) add cross-link to unity-of-consciousness as the definitional hub, (2) clarify how phenomenal-unity.md focuses on *why* unity is unified while unity-of-consciousness.md defines *what* unity is, (3) integrate the phenomenal vs access unity distinction from the new article.
-- **Source**: chain (from unity-of-consciousness.md)
-- **Generated**: 2026-01-23
-
-### P3: Deep review qualia.md
+### P2: Deep review qualia.md
 - **Type**: deep-review
 - **Notes**: Core concept article referenced throughout the Map. Given recent work on phenomenal consciousness, access consciousness, and baseline cognition, qualia.md should be reviewed to ensure clean distinctions and proper cross-linking.
-- **Source**: staleness
+- **Source**: staleness (promoted from P3)
 - **Generated**: 2026-01-23
-
 
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
@@ -88,6 +81,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Cross-review phenomenal-unity.md considering unity-of-consciousness article
+- **Type**: cross-review
+- **Notes**: New article concepts/unity-of-consciousness.md provides conceptual framing for the unity problem that phenomenal-unity.md addresses from the phenomenal side. The phenomenal-unity.md article should be reviewed to: (1) add cross-link to unity-of-consciousness as the definitional hub, (2) clarify how phenomenal-unity.md focuses on *why* unity is unified while unity-of-consciousness.md defines *what* unity is, (3) integrate the phenomenal vs access unity distinction from the new article.
+- **Result**: Added [unity-of-consciousness](/concepts/unity-of-consciousness/) to frontmatter concepts (first position). Added introductory paragraph after the opening to position this article relative to unity-of-consciousness: phenomenal-unity focuses on *why* (the explanatory challenge and quantum hypothesis), while unity-of-consciousness defines *what* (the explanandum). Added new "Phenomenal vs Access Unity" subsection distinguishing phenomenal unity (what experience is like) from access unity (information availability), noting that most neuroscientific theories explain access unity without addressing phenomenal unity. Added unity-of-consciousness as first entry in Further Reading.
+- **Output**: concepts/phenomenal-unity.md
+
+### ✓ 2026-01-24: Cross-review baseline-cognition.md considering conscious-vs-unconscious article
+- **Type**: cross-review
+- **Notes**: New article concepts/conscious-vs-unconscious-processing.md provides empirical grounding for the baseline cognition hypothesis—the 2025 fMRI reanalysis showing only 10% of unconscious processing claims survive rigorous methodology. The baseline-cognition.md article should be reviewed to: (1) add cross-link to conscious-vs-unconscious-processing, (2) integrate the three functions requiring consciousness (durable maintenance, novel combinations, spontaneous intentional action), (3) strengthen the empirical case for consciousness's functional role.
+- **Result**: Added [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) to frontmatter concepts (first position). Added new introduction to "What Baseline Cognition Cannot Achieve" section explaining: (1) the 2025 Randeniya meta-analysis finding that only 10% of claimed unconscious effects survive scrutiny, (2) how this converges with comparative cognition evidence, (3) the three functions requiring consciousness framework. Added parenthetical labels (Durable Maintenance), (Novel Combinations), (Spontaneous Intentional Action) to the three main subsections and expanded each with cross-links to conscious-vs-unconscious-processing showing how the human-ape gap maps onto these specific consciousness-requiring functions. Added conscious-vs-unconscious-processing as first entry in Further Reading.
+- **Output**: concepts/baseline-cognition.md
 
 ### ✓ 2026-01-23: Cross-review voluntary-attention-control.md considering attention-motor quantum interface article
 - **Type**: cross-review

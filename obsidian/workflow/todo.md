@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T23:30:00+00:00
+ai_modified: 2026-01-24T00:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review phenomenal-unity.md considering unity-of-consciousness article
-- **Type**: cross-review
-- **Notes**: New article concepts/unity-of-consciousness.md provides conceptual framing for the unity problem that phenomenal-unity.md addresses from the phenomenal side. The phenomenal-unity.md article should be reviewed to: (1) add cross-link to unity-of-consciousness as the definitional hub, (2) clarify how phenomenal-unity.md focuses on *why* unity is unified while unity-of-consciousness.md defines *what* unity is, (3) integrate the phenomenal vs access unity distinction from the new article.
-- **Source**: chain (from unity-of-consciousness.md)
-- **Generated**: 2026-01-23
 
 ### P2: Cross-review quantum-zeno-effect.md considering attention-motor quantum interface
 - **Type**: cross-review
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Cross-review phenomenal-unity.md considering unity-of-consciousness article
+- **Type**: cross-review
+- **Notes**: New article concepts/unity-of-consciousness.md provides conceptual framing for the unity problem that phenomenal-unity.md addresses from the phenomenal side. The phenomenal-unity.md article should be reviewed to: (1) add cross-link to unity-of-consciousness as the definitional hub, (2) clarify how phenomenal-unity.md focuses on *why* unity is unified while unity-of-consciousness.md defines *what* unity is, (3) integrate the phenomenal vs access unity distinction from the new article.
+- **Result**: Added [[unity-of-consciousness]] to frontmatter concepts (first position). Added introductory paragraph after the opening to position this article relative to unity-of-consciousness: phenomenal-unity focuses on *why* (the explanatory challenge and quantum hypothesis), while unity-of-consciousness defines *what* (the explanandum). Added new "Phenomenal vs Access Unity" subsection distinguishing phenomenal unity (what experience is like) from access unity (information availability), noting that most neuroscientific theories explain access unity without addressing phenomenal unity. Added unity-of-consciousness as first entry in Further Reading.
+- **Output**: concepts/phenomenal-unity.md
 
 ### ✓ 2026-01-24: Cross-review baseline-cognition.md considering conscious-vs-unconscious article
 - **Type**: cross-review
