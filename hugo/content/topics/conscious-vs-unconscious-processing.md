@@ -31,7 +31,7 @@ If consciousness were merely an epiphenomenal byproduct of neural activity—alo
 
 ## What Unconscious Processing Can Do
 
-Unconscious processing is real but limited. Subliminal stimuli—masked visual words, unattended sounds, information presented below awareness thresholds—can influence perception, activate semantic associations, and prime behavioural responses. A masked word like "doctor" facilitates recognition of "nurse." Subliminal faces expressing fear activate the amygdala. [Blindsight patients](/blindsight/) with damage to primary visual cortex can respond to stimuli they report not seeing—pointing to locations, discriminating motion, even catching thrown objects—all without visual experience.
+Unconscious processing is real but limited. Subliminal stimuli—masked visual words, unattended sounds, information presented below awareness thresholds—can influence perception, activate semantic associations, and prime behavioural responses. A masked word like "doctor" facilitates recognition of "nurse." Subliminal faces expressing fear activate the amygdala. [Blindsight patients](/concepts/blindsight/) with damage to primary visual cortex can respond to stimuli they report not seeing—pointing to locations, discriminating motion, even catching thrown objects—all without visual experience.
 
 These demonstrations show that considerable neural processing occurs without reaching awareness. The dorsal visual stream—the "where" pathway from occipital cortex through parietal regions—can guide action without phenomenal experience. Early sensory processing, learned associations, and even some semantic activation happen unconsciously.
 
@@ -104,7 +104,7 @@ Finally, the 2025 reanalysis showing that most claimed unconscious processing ef
 
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — General overview of NCC research and methodology
 - [consciousness-independent-baseline-cognition](/concepts/consciousness-independent-baseline-cognition/) — Evidence from comparative cognition showing what neurons achieve without consciousness
-- [blindsight](/blindsight/) — Case study of unconscious visual processing and its functional limits
+- [blindsight](/concepts/blindsight/) — Case study of unconscious visual processing and its functional limits
 - [access-consciousness](/concepts/access-consciousness/) — Ned Block's distinction between access and phenomenal consciousness
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view that consciousness is causally inert and why it fails
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The Map's position on mind-body causation

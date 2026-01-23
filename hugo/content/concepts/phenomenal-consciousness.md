@@ -79,7 +79,7 @@ The distinction reveals what physicalist theories can and cannot explain:
 
 Block argues A-consciousness and P-consciousness can come apart:
 
-**Access without phenomenology?** [Blindsight](/blindsight/) patients report no visual experience in their blind field (no P-consciousness) yet can "guess" stimulus properties with above-chance accuracy (degraded access). If true blindsight involves zero phenomenology despite functional use of information, access and phenomenology dissociate. (Some theorists dispute this, arguing residual phenomenology exists but goes unreported.)
+**Access without phenomenology?** [Blindsight](/concepts/blindsight/) patients report no visual experience in their blind field (no P-consciousness) yet can "guess" stimulus properties with above-chance accuracy (degraded access). If true blindsight involves zero phenomenology despite functional use of information, access and phenomenology dissociate. (Some theorists dispute this, arguing residual phenomenology exists but goes unreported.)
 
 **Phenomenology without full access?** Block's overflow argument: Sperling's iconic memory experiments suggest subjects experience more letters than they can report—rich phenomenology exceeding access capacity. The phenomenal field may be richer than what enters working memory and becomes A-conscious.
 

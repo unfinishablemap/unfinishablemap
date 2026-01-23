@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 03:31:20+00:00
+ai_modified: 2026-01-23 03:55:35+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -42,12 +42,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: expand-topic
 - **Notes**: Concept "Witness-consciousness" is referenced 12 times but has no definition page. Witness consciousness (or pure awareness) is the Eastern philosophical notion of awareness independent of mental content—consciousness without intentionality. Relevant to dualism, self-awareness, and altered states. Connects to meditation traditions and contemplative neuroscience.
 - **Source**: gap_analysis
-- **Generated**: 2026-01-23
-
-### P2: Review blindsight considering baseline cognition framework
-- **Type**: cross-review
-- **Notes**: New article concepts/consciousness-independent-baseline-cognition.md presents hypothesis that unconscious processing achieves ~great ape level. Blindsight patients demonstrate unconscious visual processing (forced-choice accuracy) but lack visual experience. This fits baseline cognition pattern—sophisticated procedural skills without phenomenal awareness. The blindsight article should connect to baseline framework.
-- **Source**: chain
 - **Generated**: 2026-01-23
 
 ### P2: Research quantum measurement subjective probability interpretations
@@ -105,6 +99,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Review blindsight considering baseline cognition framework
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-independent-baseline-cognition.md presents hypothesis that unconscious processing achieves ~great ape level. Blindsight patients demonstrate unconscious visual processing (forced-choice accuracy) but lack visual experience. This fits baseline cognition pattern—sophisticated procedural skills without phenomenal awareness. The blindsight article should connect to baseline framework.
+- **Result**: Created comprehensive blindsight concept page (~7,000 words) explaining visual processing without consciousness. Covered forced-choice discrimination vs detection failure, alternative interpretations (absent consciousness, degraded consciousness with metacognitive failure, residual V1), baseline cognition pattern fit (procedural competence without metarepresentation), double dissociation with blind insight, and implications for property dualism. Key insight: if identical computations can occur with or without consciousness depending on pathway, consciousness is not reducible to processing. Integrated thoroughly with baseline cognition framework showing blindsight exemplifies unconscious system achieving sophisticated discrimination without flexible reasoning, metacognition, or explicit knowledge.
+- **Output**: concepts/blindsight.md
 
 ### ✓ 2026-01-23: Write article on neural correlates of conscious vs unconscious processing
 - **Type**: expand-topic

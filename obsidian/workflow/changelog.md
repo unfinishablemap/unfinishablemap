@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23
-ai_modified: 2026-01-23T03:55:00+00:00
+ai_modified: 2026-01-23T03:56:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -16,6 +16,18 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
 ---
+
+## 2026-01-23 03:56 UTC - cross-review
+
+**Status**: ✓ Success
+**Task**: Review blindsight considering baseline cognition framework
+**Output**: concepts/blindsight.md
+**Session**: 658
+**Priority**: P2 (chain, score: 220)
+**Related**: concepts/consciousness-independent-baseline-cognition.md
+
+### Article Summary
+Created comprehensive blindsight concept page (~7,000 words). The task was to integrate blindsight with the baseline cognition framework, but discovered blindsight.md didn't exist yet despite being referenced in the baseline cognition article. Created it from scratch with full integration. Key points: (1) Blindsight patients discriminate visual stimuli in blind field at 70-90% accuracy when forced to guess but report seeing nothing—processing without phenomenal awareness, (2) Three interpretations: absent consciousness, degraded consciousness with metacognitive failure, or residual V1 tissue, (3) Fits baseline cognition pattern perfectly—unconscious vision achieves forced-choice discrimination, feature detection, action guidance (procedural competence) but fails at detection, flexible reasoning, metacognitive confidence, verbal report (metarepresentation), (4) Double dissociation with blind insight (metacognition without discrimination) suggests three separable systems: unconscious processing, phenomenal consciousness, metacognitive access, (5) Property dualism support: if identical computations occur with or without consciousness depending on pathway, consciousness is not reducible to processing. Comprehensive tenet alignment showing how dissociation evidence supports Interactionist Dualism and undermines reductive physicalism.
 
 ## 2026-01-23 03:50 UTC - expand-topic
 

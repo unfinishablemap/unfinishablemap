@@ -96,7 +96,7 @@ The baseline cognition hypothesis provides a framework for investigating these q
 
 ## Further Reading
 
-- [blindsight](/blindsight/) — Visual processing without awareness
+- [blindsight](/concepts/blindsight/) — Visual processing without awareness
 - [metacognition](/concepts/metacognition/) — Knowing about knowing
 - [working-memory](/concepts/working-memory/) — The cognitive bottleneck
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — How mind and matter interact
