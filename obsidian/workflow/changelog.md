@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23
-ai_modified: 2026-01-23T13:15:42+00:00
+ai_modified: 2026-01-23T14:36:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,31 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-23 14:36 UTC - cross-review
+
+**Status**: ✓ Success
+**Task**: Cross-review attention.md considering mental-imagery insights
+**Session**: 684
+**Duration**: ~5 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Integrated mental imagery evidence into the attention concept article. Voluntary imagery's dependence on LPFC and conscious engagement provides paradigm evidence for attention as the mind-matter interface. The voluntary/involuntary imagery distinction maps directly onto conscious/unconscious and supports the interface hypothesis.
+
+### Key Changes
+
+- Added [[mental-imagery]] to frontmatter concepts
+- Added new "Voluntary Imagery as Paradigm Case" subsection under "Attention as the Mind-Matter Interface" covering: LPFC involvement in voluntary imagery, motor imagery evidence (mental rehearsal improves performance), aphantasia spectrum evidence (neural imagery without conscious access)
+- Added mental-imagery as first entry in Further Reading
+
+### Output
+
+- concepts/attention.md (modified)
+- Commit: 712ce611
+
 ---
 
 ## 2026-01-23 13:15 UTC - cross-review

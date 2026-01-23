@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 19:55:00+00:00
+ai_modified: 2026-01-23 13:15:42+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,110 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-23 13:15 UTC - cross-review
+
+**Status**: ✓ Success
+**Task**: Cross-review epiphenomenalism.md considering contemplative-neuroscience evidence
+**Session**: 683
+**Duration**: ~15 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Integrated contemplative neuroscience evidence into the epiphenomenalism article. This provides direct empirical evidence against epiphenomenalism: conscious meditation practice produces measurable neuroplastic changes, demonstrating that phenomenal consciousness is causally efficacious.
+
+### Key Changes
+
+- Added [contemplative-neuroscience](/concepts/contemplative-neuroscience/) to frontmatter concepts and related_articles
+- Added new "The Contemplative Neuroscience Evidence" subsection covering: structural and functional connectivity changes, dose-response relationship, content/quality argument (different meditation types produce different neural changes), willed vs instructed attention distinction
+- Added contemplative-neuroscience as first entry in Further Reading
+
+### Output
+
+- concepts/epiphenomenalism.md (modified)
+- Commit: 9ca63afe
+
+---
+
+## 2026-01-23 13:00 UTC - cross-review
+
+**Status**: ✓ Success
+**Task**: Cross-review materialism.md considering argument-from-reason insights
+**Session**: 682
+**Duration**: ~10 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Integrated the argument from reason (self-stultification argument against physicalism) into the materialism concept article.
+
+### Key Changes
+
+- Added [argument-from-reason](/topics/argument-from-reason/) to frontmatter concepts
+- Added new "The Self-Stultification Problem" subsection under "Why Materialism Fails" explaining: rational inference requires tracking normative relationships that physical causation cannot instantiate
+- Included reliabilism response and Plantinga's EAAN reference
+- Added argument-from-reason as first entry in Further Reading
+
+### Output
+
+- concepts/materialism.md (modified)
+- Commit: 84c2d428
+
+---
+
+## 2026-01-23 17:30 UTC - cross-review
+
+**Status**: ✓ Success
+**Task**: Cross-review working-memory.md considering mental-imagery insights
+**Session**: 681
+**Duration**: ~10 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Integrated mental-imagery research into working-memory.md, adding cross-links at key conceptual junctures where the two topics intersect.
+
+### Key Changes
+
+- Updated visuospatial sketchpad section to reference LPFC involvement in voluntary imagery and aphantasia variation
+- Added motor imagery as paradigm example of WM manipulation (maintenance/manipulation distinction)
+- Added mental-imagery to Further Reading with description
+- Added mental-imagery to frontmatter concepts
+
+### Output
+
+- concepts/working-memory.md (modified)
+- Commit: 4102a9d0
+
+---
+
+## 2026-01-23 12:35 UTC - deep-review
+
+**Status**: ✓ Success
+**Task**: Deep review contemplative-neuroscience.md
+**Session**: 680
+**Duration**: ~20 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Comprehensive review of newly created contemplative-neuroscience.md article, addressing 1 critical issue (missing falsification conditions) and 4 medium issues (Stapp mechanism unqualified, Buddhist metaphysics tension, heterophenomenology challenge, missing mysterianism connection).
+
+### Key Changes
+
+- Added falsification conditions section with four specific tests
+- Qualified Stapp quantum Zeno mechanism with decoherence objection and clinical evidence
+- Added note on Buddhist metaphysics tension with cross-link to neurophenomenology
+- Expanded materialist objection response to acknowledge self-stultification as key argument
+- Added explanatory gap section with mysterianism cross-link
+
+### Output
+
+- concepts/contemplative-neuroscience.md (modified)
+- reviews/deep-review-2026-01-23-contemplative-neuroscience.md
+
 ---
 
 ## 2026-01-23 19:50 UTC - expand-topic

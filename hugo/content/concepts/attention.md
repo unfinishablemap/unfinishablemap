@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-20 03:20:00+00:00
+ai_modified: 2026-01-23 14:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
+- '[[mental-imagery]]'
 - '[[functionalism]]'
 - '[[illusionism]]'
 - '[[integrated-information-theory]]'
@@ -108,6 +109,18 @@ The [phenomenology of mental effort](/concepts/mental-effort/) supports this pic
 Jeffrey Schwartz's OCD research provides indirect evidence. His therapy trains patients to redirect attention away from obsessive thoughts. This produces measurable brain changes—altered metabolism in the caudate nucleus visible on PET scans. Patients *think* their way to neuroplastic change. Whatever the mechanism, mental effort has physical consequences.
 
 If attention is merely a physical process (neural competition, gain modulation), the feeling of effort is mysterious—why should information processing *feel* like work? But if attention is how consciousness engages with matter, the phenomenology makes sense. Holding attention is work because something non-physical is maintaining engagement.
+
+### Voluntary Imagery as Paradigm Case
+
+[Mental-imagery](/concepts/mental-imagery/) provides striking evidence for attention's role in consciousness-matter interaction. The distinction between voluntary and involuntary imagery maps directly onto the attention-consciousness interface:
+
+**Voluntary imagery** (deliberate visualization, mental rehearsal) requires both conscious engagement and lateral prefrontal cortex (LPFC) activation. When you deliberately imagine your childhood home or mentally rehearse a difficult conversation, attention directs neural resources toward generating and maintaining the image.
+
+**Involuntary imagery** (dreams, intrusive flashbacks, earworms) arises without LPFC involvement and without deliberate attentional engagement. Many aphantasics—people unable to voluntarily generate mental images—still experience vivid dreams, demonstrating that the neural machinery for imagery can operate without the attentional control system.
+
+This dissociation supports the interface hypothesis. Attention determines which imagery becomes conscious and manipulable. Motor imagery research strengthens the case: athletes who mentally rehearse movements show performance gains comparable to physical practice. Conscious rehearsal—attention directed at motor representations—produces physical improvements in motor execution. If attention were merely information filtering, this causal pathway would be puzzling. But if attention is how consciousness selects and stabilises neural patterns, motor imagery's efficacy makes sense.
+
+The aphantasia spectrum offers additional evidence. Some aphantasics show visual cortex activation during imagery tasks despite reporting no conscious experience. The imagery exists neurally; consciousness simply doesn't access it. This aligns with the interface hypothesis: imagery generation may be automatic, but attention determines which imagery enters awareness and becomes available for voluntary manipulation.
 
 ### The Decoherence Challenge
 
@@ -259,6 +272,7 @@ The attention-consciousness relationship illuminates all five tenets:
 
 ## Further Reading
 
+- [mental-imagery](/concepts/mental-imagery/) — Voluntary vs involuntary imagery as evidence for attention-mediated conscious control
 - [voluntary-attention](/concepts/voluntary-attention/) — The endogenous/willed attention distinction and its neural signatures
 - [attention-as-interface](/concepts/attention-as-interface/) — The hypothesis that attention mediates consciousness's causal influence on matter
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — FA/OM meditation as evidence for active selection and passive witnessing modes

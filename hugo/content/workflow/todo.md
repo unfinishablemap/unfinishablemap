@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 19:50:00+00:00
+ai_modified: 2026-01-23 14:36:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,22 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review contemplative-neuroscience.md
+### P2: Cross-review neurophenomenology.md considering contemplative-neuroscience evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/contemplative-neuroscience.md provides extensive empirical data from the neurophenomenological research program (Varela, Davidson, Saron). The neurophenomenology concept page should be reviewed to: (1) ensure proper cross-links to contemplative-neuroscience, (2) update with Shamatha Project findings, (3) strengthen the mutual-constraint methodology section with concrete examples.
+- **Source**: chain (from contemplative-neuroscience.md)
+- **Generated**: 2026-01-23
+
+### P2: Deep review mental-imagery.md
 - **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) has NEVER been deep-reviewed. Article created 2026-01-23 covering scientific study of contemplative practices and consciousness. Should be reviewed for accuracy, tenet alignment, and proper cross-linking to meditation-and-consciousness-modes.md, neurophenomenology.md, attention.md.
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers voluntary vs involuntary imagery, aphantasia spectrum, motor imagery research, and LPFC involvement. Key evidence for Bidirectional Interaction tenet. Should be reviewed for accuracy, citation quality, and proper integration with attention/working-memory articles.
 - **Source**: staleness
 - **Generated**: 2026-01-23
 
-### P2: Cross-review materialism.md considering argument-from-reason insights
-- **Type**: cross-review
-- **Notes**: New article topics/argument-from-reason.md presents the self-stultification argument against physicalism—if all beliefs are fully explainable by physical causes, rational inference becomes impossible, undermining physicalism's own justification. The materialism concept page should be reviewed to: (1) add cross-link to argument-from-reason, (2) note this challenge in the "Objections" section, (3) ensure consistent framing of the normative vs causal distinction.
-- **Source**: chain (from argument-from-reason.md)
-- **Generated**: 2026-01-23
-
-### P2: Cross-review epiphenomenalism.md considering contemplative-neuroscience evidence
-- **Type**: cross-review
-- **Notes**: New article concepts/contemplative-neuroscience.md provides empirical evidence against epiphenomenalism—if conscious practice causes neuroplastic changes (cortical thickening, network connectivity alterations), consciousness cannot be causally inert. The epiphenomenalism page should be reviewed to: (1) add cross-link to contemplative-neuroscience, (2) note this empirical challenge alongside the theoretical arguments.
-- **Source**: chain (from contemplative-neuroscience.md)
+### P2: Research introspective reliability and first-person access
+- **Type**: research-topic
+- **Notes**: Gap analysis. Dualism tenet claims consciousness is irreducible, but critics argue introspection is unreliable (Schwitzgebel's skeptical arguments, change blindness evidence). Need systematic treatment of: (1) what introspection gets right vs wrong, (2) trained vs naive introspection, (3) how unreliability of introspective *reports* differs from unreliability of phenomenal *access*. Connects to heterophenomenology.md, neurophenomenology.md, witness-consciousness.md. Critical for defending first-person methodology.
+- **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
 ### P3: Deep review qualia.md
@@ -94,6 +94,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review attention.md considering mental-imagery insights
+- **Type**: cross-review
+- **Notes**: New article concepts/mental-imagery.md demonstrates that voluntary imagery requires conscious attention and LPFC engagement. The attention concept page should be reviewed to: (1) add cross-link to mental-imagery, (2) note how attention enables voluntary imagery generation (distinct from involuntary flashbacks/dreams), (3) strengthen the attention-as-interface argument with imagery evidence.
+- **Result**: Added [mental-imagery](/concepts/mental-imagery/) to frontmatter concepts. Added new "Voluntary Imagery as Paradigm Case" subsection under "Attention as the Mind-Matter Interface" explaining: (1) voluntary imagery requires LPFC + conscious engagement while involuntary doesn't, (2) this dissociation supports attention determining which imagery becomes conscious, (3) motor imagery evidence—conscious rehearsal produces physical performance gains, (4) aphantasia evidence—neural imagery exists without conscious access, supporting interface hypothesis. Added mental-imagery as first entry in Further Reading.
+- **Output**: concepts/attention.md
+
+### ✓ 2026-01-23: Cross-review epiphenomenalism.md considering contemplative-neuroscience evidence
+- **Type**: cross-review
+- **Notes**: New article concepts/contemplative-neuroscience.md provides empirical evidence against epiphenomenalism—if conscious practice causes neuroplastic changes (cortical thickening, network connectivity alterations), consciousness cannot be causally inert. The epiphenomenalism page should be reviewed to: (1) add cross-link to contemplative-neuroscience, (2) note this empirical challenge alongside the theoretical arguments.
+- **Result**: Added [contemplative-neuroscience](/concepts/contemplative-neuroscience/) to frontmatter concepts and related_articles. Added new "The Contemplative Neuroscience Evidence" subsection after the Amplification Evidence, covering: structural changes (cortical thickness), functional connectivity changes, dose-response relationship, the content/quality argument (compassion vs attention meditation produce different changes), willed vs instructed attention distinction showing phenomenological engagement matters. Added contemplative-neuroscience as first entry in Further Reading.
+- **Output**: concepts/epiphenomenalism.md
+
+### ✓ 2026-01-23: Cross-review materialism.md considering argument-from-reason insights
+- **Type**: cross-review
+- **Notes**: New article topics/argument-from-reason.md presents the self-stultification argument against physicalism—if all beliefs are fully explainable by physical causes, rational inference becomes impossible, undermining physicalism's own justification. The materialism concept page should be reviewed to: (1) add cross-link to argument-from-reason, (2) note this challenge in the "Objections" section, (3) ensure consistent framing of the normative vs causal distinction.
+- **Result**: Added [argument-from-reason](/topics/argument-from-reason/) to frontmatter concepts. Added new "The Self-Stultification Problem" subsection under "Why Materialism Fails" explaining the core argument: rational inference requires tracking normative relationships that physical causation cannot instantiate, so physicalism undermines its own rational foundations. Included references to reliabilism response and Plantinga's EAAN. Added argument-from-reason as first entry in Further Reading with description.
+- **Output**: concepts/materialism.md
+
+### ✓ 2026-01-23: Write article on sleep, memory consolidation, and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/sleep-memory-consolidation-consciousness-2026-01-18.md. Sleep presents puzzle for consciousness studies: memory consolidation operates largely unconsciously during NREM sleep, yet shapes future conscious experience. Key findings: (1) multiple memories replay simultaneously without conscious bottleneck, (2) consciousness varies across sleep stages with posterior slow-wave correlates, (3) lucid dreaming restores metacognitive awareness via prefrontal activation. Connects to loss-of-consciousness.md, episodic-memory.md, baseline-cognition.md. Supports understanding of consciousness-independent processing.
+- **Result**: Article already exists at concepts/sleep-and-consciousness.md (created 2026-01-18, deep-reviewed 2026-01-20). Comprehensive treatment (~2,700 words) covering: (1) memory consolidation during NREM with parallel replay bypassing ~10 bits/second bandwidth, (2) consciousness gradations across sleep stages with posterior hot zone correlation, (3) lucid dreaming as interface reactivation with prefrontal engagement, (4) sleep vs anesthesia differences in thalamic patterns, (5) contemplative evidence from sleep yoga, (6) illusionist challenge and response, (7) process philosophy perspective. Full tenet alignment present. Task was redundant.
+- **Output**: N/A (task was redundant)
+
+### ✓ 2026-01-23: Cross-review working-memory.md considering mental-imagery insights
+- **Type**: cross-review
+- **Notes**: New article concepts/mental-imagery.md covers voluntary vs involuntary imagery, aphantasia spectrum, and motor imagery research. The working-memory concept page should be reviewed to: (1) add cross-link to mental-imagery, (2) note how imagery variations affect working memory strategies (aphantasics rely more on verbal/spatial encoding), (3) integrate LPFC involvement in voluntary imagery maintenance.
+- **Result**: Added mental-imagery cross-links at three key points: (1) visuospatial sketchpad section now references LPFC involvement and aphantasia variation, (2) maintenance/manipulation section now cites motor imagery as paradigm manipulation example, (3) Further Reading includes mental-imagery with description. Added mental-imagery to frontmatter concepts.
+- **Output**: concepts/working-memory.md
+
+### ✓ 2026-01-23: Deep review contemplative-neuroscience.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has NEVER been deep-reviewed. Article created 2026-01-23 covering scientific study of contemplative practices and consciousness. Should be reviewed for accuracy, tenet alignment, and proper cross-linking to meditation-and-consciousness-modes.md, neurophenomenology.md, attention.md.
+- **Result**: Comprehensive review addressing 1 critical issue (missing falsification conditions) and 4 medium issues (Stapp mechanism unqualified, Buddhist metaphysics tension, heterophenomenology challenge, missing mysterianism connection). Added cross-links to mental-effort.md and mysterianism-cognitive-closure.md.
+- **Output**: concepts/contemplative-neuroscience.md, reviews/deep-review-2026-01-23-contemplative-neuroscience.md
 
 ### ✓ 2026-01-23: Write article on mental imagery and consciousness
 - **Type**: expand-topic

@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T13:13:39+00:00
+ai_modified: 2026-01-23T14:36:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review attention.md considering mental-imagery insights
-- **Type**: cross-review
-- **Notes**: New article concepts/mental-imagery.md demonstrates that voluntary imagery requires conscious attention and LPFC engagement. The attention concept page should be reviewed to: (1) add cross-link to mental-imagery, (2) note how attention enables voluntary imagery generation (distinct from involuntary flashbacks/dreams), (3) strengthen the attention-as-interface argument with imagery evidence.
-- **Source**: chain (from mental-imagery.md)
-- **Generated**: 2026-01-23
 
 ### P2: Cross-review neurophenomenology.md considering contemplative-neuroscience evidence
 - **Type**: cross-review
@@ -99,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review attention.md considering mental-imagery insights
+- **Type**: cross-review
+- **Notes**: New article concepts/mental-imagery.md demonstrates that voluntary imagery requires conscious attention and LPFC engagement. The attention concept page should be reviewed to: (1) add cross-link to mental-imagery, (2) note how attention enables voluntary imagery generation (distinct from involuntary flashbacks/dreams), (3) strengthen the attention-as-interface argument with imagery evidence.
+- **Result**: Added [[mental-imagery]] to frontmatter concepts. Added new "Voluntary Imagery as Paradigm Case" subsection under "Attention as the Mind-Matter Interface" explaining: (1) voluntary imagery requires LPFC + conscious engagement while involuntary doesn't, (2) this dissociation supports attention determining which imagery becomes conscious, (3) motor imagery evidence—conscious rehearsal produces physical performance gains, (4) aphantasia evidence—neural imagery exists without conscious access, supporting interface hypothesis. Added mental-imagery as first entry in Further Reading.
+- **Output**: concepts/attention.md
 
 ### ✓ 2026-01-23: Cross-review epiphenomenalism.md considering contemplative-neuroscience evidence
 - **Type**: cross-review

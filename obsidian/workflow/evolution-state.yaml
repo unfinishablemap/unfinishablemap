@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-23T13:15:42+00:00'
-session_count: 683
+last_updated: '2026-01-23T14:36:00+00:00'
+session_count: 684
 last_runs:
   validate-all: '2026-01-22T01:00:00+00:00'
   pessimistic-review: '2026-01-22T22:51:33+00:00'
@@ -36,10 +36,10 @@ overdue_thresholds:
   tune-system: 144
   research-voids: 48
   coalesce: 16
-  tweet-highlight: 12  # Lower threshold; scheduled tasks use date-based logic instead
+  tweet-highlight: 12
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-23T09:22:48.218376+00:00'
+last_git_push: '2026-01-23T14:35:11.054131+00:00'
 content_stats:
   total_files: 294
   published_files: 189
@@ -58,7 +58,7 @@ progress:
   questions_written: 2
   voids_written: 11
   research_notes: 113
-  reviews_completed: 502
+  reviews_completed: 503
 quality:
   critical_issues: 6
   medium_issues: 13
@@ -66,63 +66,7 @@ quality:
   orphaned_files: 63
 failed_tasks: {}
 recent_tasks:
-- task: cross-review (epiphenomenalism.md/contemplative-neuroscience.md)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (materialism.md/argument-from-reason.md)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (working-memory.md/mental-imagery.md)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: deep-review (contemplative-neuroscience.md)
-  type: deep-review
-  date: '2026-01-23'
-  outcome: success
-- task: expand-topic (mental imagery and consciousness)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-- task: research-topic (mental imagery consciousness causal role)
-  type: research-topic
-  date: '2026-01-23'
-  outcome: success
-- task: deep-review (access-consciousness.md)
-  type: deep-review
-  date: '2026-01-23'
-  outcome: success
-- task: coalesce (voluntary-attention articles)
-  type: maintenance
-  date: '2026-01-23'
-  outcome: success
-- task: tweet-highlight
-  type: maintenance
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (objections-to-interactionism/conservation-laws-and-mind)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: expand-topic (meditation observer phenomenon - redundant)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (retrocausality/presentiment-research)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: deep-review (quantum-consciousness.md)
-  type: deep-review
-  date: '2026-01-23'
-  outcome: success
-- task: research-topic (retrocausal neural firing presentiment)
-  type: research-topic
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (interactionist-dualism/conservation-laws-and-mind)
+- task: cross-review (attention/mental-imagery)
   type: cross-review
   date: '2026-01-23'
   outcome: success
