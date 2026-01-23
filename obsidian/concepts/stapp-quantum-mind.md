@@ -3,12 +3,13 @@ title: "Stapp's Quantum Mind Model"
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-23T18:30:00+00:00
+ai_modified: 2026-01-23T18:48:25+00:00
 draft: false
 topics:
   - "[[free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
+  - "[[psychophysical-coupling-mechanisms]]"
   - "[[voluntary-attention-control]]"
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
@@ -63,6 +64,12 @@ The key insight: consciousness doesn't *generate* neural patterns—it *selects*
 Crucially, the mechanism satisfies conservation laws. Consciousness doesn't add energy to the brain—it shapes which pre-existing possibility actualises. This distinguishes Stapp's model from naive dualism where mind somehow "pushes" matter. Quantum observation doesn't inject energy; it determines outcomes within energy constraints already established by physics.
 
 This directly addresses a classical objection to dualism: if mind affects matter, energy conservation should be violated. Stapp's response: at quantum indeterminacies, physics leaves outcomes undetermined. Consciousness biases the outcome without competing with physical causes or adding energy. The physical causes are *necessary but not sufficient*; consciousness provides the sufficiency.
+
+### Comparative Standing
+
+Among [[psychophysical-coupling-mechanisms|proposed coupling mechanisms]], Stapp's attention-as-observation model is the most developed. Five candidate mechanisms have been proposed for how phenomenal properties might influence physical selections: attention (observation rate), intention (probability weighting), valence (motivational force), qualia (basis selection), and unity (sustained entanglement). Only Stapp's attention mechanism satisfies all three criteria for scientific adequacy: *precision* (specifying which phenomenal property maps to which physical parameter), *mechanism* (providing a physical pathway), and *falsifiability* (generating testable predictions).
+
+John Eccles' intention mechanism provides moderate specification—connecting volition to vesicle release via quantum tunneling—but faces the pairing problem: how do immaterial "psychons" locate specific neural structures? The remaining three mechanisms identify plausible phenomenal properties (valence, qualia, unity) that *should* have physical effects if dualism is true, but lack developed accounts of how the coupling works. This comparative landscape explains why Stapp's model receives particular attention: it is the only proposal approaching scientific adequacy.
 
 ## William James and the Phenomenology of Effort
 
@@ -205,7 +212,7 @@ The most serious challenge: quantum coherence in warm, wet brains should decay f
 
 2. **Biological precedent**: Quantum effects demonstrably operate in photosynthesis (exciton transfer), bird navigation (cryptochrome radical pairs), and enzyme catalysis—all warm, wet systems. However, these systems involve *specific molecular structures* evolutionarily optimised for quantum coherence (ordered protein scaffolds, protective chromophores). Brains lack analogous structures specifically evolved for quantum coherence. The precedent shows warm quantum effects are *possible*, not that brains implement them. The analogy is suggestive but not decisive.
 
-3. **Decoherence doesn't solve the measurement problem**: Decoherence explains why superpositions appear classical but not why measurements yield *definite* outcomes. As a 2025 review notes, "Decoherence does not tell how and why only one of these outcomes is measured." If measurement requires something beyond unitary evolution, consciousness could provide it—biasing outcomes at the moment of determination even after environmental entanglement. This shifts the proposal: consciousness operates at measurement collapse, not by preventing decoherence.
+3. **Decoherence doesn't solve the measurement problem**: Decoherence explains why superpositions appear classical but not why measurements yield *definite* outcomes. As a 2025 review notes, "Decoherence does not tell how and why only one of these outcomes is measured." If measurement requires something beyond unitary evolution, consciousness could provide it—biasing outcomes at the moment of determination even after environmental entanglement. This shifts the proposal: consciousness operates at measurement collapse, not by preventing decoherence. The [[psychophysical-coupling-mechanisms]] article develops this response: decoherence selects *which basis* collapses into (pointer states) without determining *which outcome* occurs within that basis. Consciousness could bias outcome selection *after* decoherence, operating at the moment of collapse rather than during coherent evolution.
 
 4. **Timescale matching**: The mechanism doesn't require sustained coherence between observations—only that attention cycles occur faster than the relevant decoherence. If neural selection operates on millisecond timescales and decoherence times are microseconds, consciousness would need ~1000 observation cycles per selection event. This is conceptually possible but empirically unverified. The proposal remains speculative pending evidence that attention operates at these rates.
 
@@ -308,6 +315,7 @@ The model generates falsifiable predictions:
 
 ## Further Reading
 
+- [[psychophysical-coupling-mechanisms]] — Comparative analysis of five candidate coupling mechanisms; Stapp's model as the most developed
 - [[voluntary-attention-control]] — Neural signatures and phenomenology of willed attention
 - [[mental-effort]] — Detailed treatment of effort phenomenology and the mechanism
 - [[quantum-consciousness]] — Overview of quantum consciousness mechanisms including Stapp
