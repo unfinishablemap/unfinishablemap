@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-20 08:50:00+00:00
+ai_modified: 2026-01-23 16:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,6 +26,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[arguments-for-dualism]]'
+- '[[conservation-laws-and-mind]]'
 - '[[objections-to-interactionist-dualism-2026-01-15]]'
 title: Objections to Interactionist Dualism
 topics:
@@ -78,15 +79,21 @@ Since Leibniz, critics argue that mind-body interaction violates conservation of
 3. This violates conservation laws
 4. Therefore, minds cannot causally affect bodies
 
-David Papineau (2001) develops this into an argument *for* causal closure: all known physical forces reduce to a small stock of conservative forces. Induction suggests mental forces (if they existed) would also be conservative—but if they're conservative, they're physical. Two centuries of neuroscience reveal no trace of non-physical forces; if such forces existed, we would observe anomalous particle accelerations.
+David Papineau (2001) develops this into an argument *for* causal closure: all known physical forces reduce to a small stock of conservative forces. Induction suggests mental forces (if they existed) would also be conservative—but if they're conservative, they're physical. Sean Carroll demands: "What particles is that soul made of? What forces are holding it together?" Two centuries of neuroscience reveal no trace of non-physical forces; if such forces existed, we would observe anomalous particle accelerations.
 
-### Response 1: Energy Types Aren't Specified
+For comprehensive treatment of why this objection fails, see [conservation-laws-and-mind](/topics/conservation-laws-and-mind/). The key insights are summarized below.
 
-Conservation laws don't dictate *what kinds* of energy exist. If "psychic energy" exists and operates conservatively (transforms rather than appearing/disappearing), no violation occurs. Tim O'Connor suggests consciousness might *redirect* energy without adding it—changing the direction of physical processes rather than their magnitude.
+### Response 1: Conservation Is Local and Conditional
 
-### Response 2: Conservation is Local
+J. Brian Pitts and Alin Cucu demonstrate that conservation laws are *local* and *conditional*, not cosmic truths. Energy conservation holds "not primarily for the whole universe, but in every place separately"—the mathematics uses local continuity equations, not global accounting. More fundamentally, Noether's theorem shows conservation arises from symmetries: when time-translation symmetry holds, energy is conserved.
 
-Robins Collins (2011) argues conservation isn't ubiquitous in physics:
+The converse also holds: if an external influence breaks the symmetry, conservation fails at that location. As Cucu and Pitts argue: "Expecting conservation to hold in the brain (without looking) simply assumes the falsehood of Cartesianism. Hence Leibniz's objection begs the question."
+
+The conservation objection assumes from the start that minds don't act on matter—precisely what it's supposed to prove.
+
+### Response 2: Physics Without External Influences
+
+Robins Collins (2011) notes conservation isn't ubiquitous even within physics:
 
 - Energy isn't conserved in **general relativity** (no global time symmetry in curved spacetime)
 - In **quantum field theory**, vacuum fluctuations create and destroy energy temporarily
@@ -94,17 +101,15 @@ Robins Collins (2011) argues conservation isn't ubiquitous in physics:
 
 Conservation is local and approximate, not a universal metaphysical truth. Physics itself provides precedents for conservation failure.
 
-### Response 3: The Quantum Exception
+### Response 3: Selection Not Injection
 
-The Map's primary response: at quantum indeterminacies, consciousness selects among possible outcomes without adding energy. The outcomes all have the same energy; consciousness just determines *which* one actualizes.
+The Map's primary response: at quantum indeterminacies, consciousness *selects* among possible outcomes without *injecting* energy. All possible outcomes are already present in the wavefunction with their associated energies. When consciousness biases which outcome actualizes, it determines which pre-existing possibility becomes real—no new energy enters the system.
 
 Consider a superposition of two neural firing patterns, each with identical energy. Physics determines that *one* will become actual, with probabilities for each. But physics doesn't determine *which* one actualizes. Consciousness selects without energy injection—the conservation equations are satisfied for every possible outcome.
 
 Critics would need to show that *outcome selection* requires energy injection. But given the indeterministic character of quantum mechanics, this isn't obvious. Selection among equi-energetic possibilities is precisely what the formalism leaves open.
 
-### Response 4: Noether's Theorem Consideration
-
-Conservation follows from symmetry (Noether's theorem). If non-physical influence breaks time-translation symmetry locally in neural systems, conservation fails locally. This doesn't violate physics—physics correctly predicts conservation where symmetry holds. The question is whether symmetry holds everywhere.
+Quantum entanglement provides precedent: correlations between distant particles cannot be explained by any energy transfer between them (Bell's theorem rules this out), yet the correlations are real and causally significant. If physics permits causal connections without energy exchange in entanglement, the conceptual space exists for mind-matter interaction without energy injection.
 
 ## Parsimony
 
@@ -268,7 +273,7 @@ These are empirical and interpretive questions, not settled by philosophical arg
 | Objection | Target | Site's Response | Strength |
 |-----------|--------|-----------------|----------|
 | Pairing problem | Substance dualism | Minds are spatially located (in brains); [interface-locality](/concepts/interface-locality/) provides natural pairing; [haecceity](/concepts/haecceity/) offers alternative grounding | Strong |
-| Conservation laws | Interactionism | Quantum selection without energy injection; all outcomes are equi-energetic | Strong |
+| Conservation laws | Interactionism | Conservation is local/conditional (Pitts/Cucu); selection not injection at quantum indeterminacies; see [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) | Strong |
 | Parsimony | Dualism | Consciousness is evidence; materialism doesn't explain it; simplicity isn't truth | Strong |
 | Decoherence | Quantum interactionism | Revised calculations, quantum biology evidence, decoherence doesn't solve measurement problem | Moderate |
 | Evolutionary argument | Epiphenomenalism | *Supports* interactionism—consciousness must cause to be selected | N/A (supports site) |
@@ -290,6 +295,7 @@ These objections have been taken seriously throughout the history of philosophy.
 
 ## Further Reading
 
+- [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Comprehensive response to the conservation objection
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The position these objections target
 - [pairing-problem](/concepts/pairing-problem/) — Detailed treatment of Kim's pairing challenge
 - [causal-closure](/concepts/causal-closure/) — The closure principle underlying the exclusion argument
@@ -317,3 +323,5 @@ These objections have been taken seriously throughout the history of philosophy.
 - Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.
 - Tegmark, M. (2000). "The importance of quantum decoherence in brain processes." *Physical Review E*, 61: 4194-4206.
 - Yablo, S. (1992). "Mental Causation." *Philosophical Review*, 101: 245-280.
+- Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
+- Pitts, J. B. (2022). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 50, 1065-1083.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 17:00:00+00:00
+ai_modified: 2026-01-23 16:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,23 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review objections-to-interactionism.md considering conservation laws article
-- **Type**: cross-review
-- **Notes**: New article topics/conservation-laws-and-mind.md addresses the energy conservation objection. The objections-to-interactionism page should be reviewed to: (1) add cross-link to conservation-laws-and-mind, (2) reference Pitts/Cucu on locality and conditionality, (3) integrate the "selection not injection" framework.
-- **Source**: chain (from conservation-laws-and-mind.md)
-- **Generated**: 2026-01-23
-
-
 ### P2: Research mental imagery and consciousness causal role
 - **Type**: research-topic
 - **Notes**: Gap analysis. Bidirectional Interaction tenet claims consciousness causally influences physical outcomes, but lacks coverage of mental imagery—how does consciousness generate and manipulate mental images that can guide behavior? Relevant to voluntary imagination, planning, creativity, and the phenomenology of visualizing. How do aphantasics (people without mental imagery) differ? Does mental imagery require consciousness? Connects to working-memory.md, attention.md, voluntary-attention-control.md.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
-### P2: Write article on meditation observer phenomenon
-- **Type**: expand-topic
-- **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. Systematic treatment of the observer/witness phenomenon reported in contemplative traditions. How does the "observing self" relate to witness-consciousness, introspection, and metacognition? Provides phenomenological grounding for dualist distinction between observer and observed. Supports Dualism tenet.
-- **Source**: unconsumed_research
+### P2: Deep review contemplative-neuroscience.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has NEVER been deep-reviewed. Article created 2026-01-23 covering scientific study of contemplative practices and consciousness. Should be reviewed for accuracy, tenet alignment, and proper cross-linking to meditation-and-consciousness-modes.md, neurophenomenology.md, attention.md.
+- **Source**: staleness
+- **Generated**: 2026-01-23
+
+### P2: Deep review access-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has NEVER been deep-reviewed. Core distinction between access consciousness and phenomenal consciousness. Should be reviewed for accuracy, engagement with Block's original arguments, and integration with recent baseline cognition work.
+- **Source**: staleness
 - **Generated**: 2026-01-23
 
 ### P3: Deep review qualia.md
@@ -89,6 +88,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review objections-to-interactionism.md considering conservation laws article
+- **Type**: cross-review
+- **Notes**: New article topics/conservation-laws-and-mind.md addresses the energy conservation objection. The objections-to-interactionism page should be reviewed to: (1) add cross-link to conservation-laws-and-mind, (2) reference Pitts/Cucu on locality and conditionality, (3) integrate the "selection not injection" framework.
+- **Result**: Updated Conservation Laws section with: (1) added [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) to related_articles frontmatter and Further Reading, (2) integrated Pitts/Cucu argument that conservation is local and conditional—the objection begs the question by assuming no external influences, (3) added "selection not injection" framework with entanglement precedent, (4) updated summary table with new response, (5) added Cucu/Pitts references.
+- **Output**: concepts/objections-to-interactionism.md
+
+### ✓ 2026-01-23: Write article on meditation observer phenomenon
+- **Type**: expand-topic
+- **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. Systematic treatment of the observer/witness phenomenon reported in contemplative traditions. How does the "observing self" relate to witness-consciousness, introspection, and metacognition? Provides phenomenological grounding for dualist distinction between observer and observed. Supports Dualism tenet.
+- **Result**: Articles already exist at concepts/witness-consciousness.md (created 2026-01-18, deep-reviewed 2026-01-20) and concepts/meditation-and-consciousness-modes.md (created 2026-01-18, deep-reviewed 2026-01-21). Both articles comprehensively cover the research material including: the sakshi (witness) concept from Advaita Vedanta, the two modes framework (selection vs witnessing), FA/OM meditation neuroscience, the subject-object structure, decentering and metacognition, neural correlates (PCC deactivation, DMN disengagement), and full tenet alignment. Task was redundant.
+- **Output**: N/A (task was redundant)
 
 ### ✓ 2026-01-23: Cross-review retrocausality.md considering presentiment research
 - **Type**: cross-review
