@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Research argument from reason and self-defeat objections to physicalism
+- **Type**: research-topic
+- **Notes**: Gap analysis (high priority). Dualism tenet's strongest argument (that physicalism self-stultifies because it undercuts the reliability of reasoning) lacks systematic philosophical treatment. Need research on: contemporary "argument from reason" formulations (Plantinga, Reppert, Hasker), reliabilist responses (neural processes can track truth without non-physical reasons), naturalized epistemology defenses, how cognitive science findings (humans are intuitive dualists) complicate the picture. Currently scattered across causal-closure.md, epiphenomenalism.md - needs dedicated treatment as decisive argument for dualism.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-23
+
 ### P2: Research spontaneous collapse theories (GRW, CSL, objective reduction)
 - **Type**: research-topic
 - **Notes**: Gap analysis. Minimal Quantum Interaction tenet mentions objective reduction mechanisms but lacks detailed treatment of spontaneous collapse theories (Ghirardi-Rimini-Weber, Continuous Spontaneous Localization). These theories provide alternative collapse mechanisms that could work alongside consciousness-modulated collapse. Critical for prebiotic collapse problem—how did quantum systems collapse before consciousness existed? GRW/CSL provide baseline physical collapse with consciousness potentially modulating outcomes in neural systems. Supports both Minimal Quantum Interaction (alternative mechanisms) and No Many Worlds (collapse is real).
@@ -86,6 +92,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Research psychophysical coupling law mechanisms
+- **Type**: research-topic
+- **Notes**: Gap analysis (high priority). Bidirectional Interaction tenet claims consciousness causally influences quantum outcomes, but lacks systematic specification of HOW the coupling works operationally. Need research on: which phenomenal properties map to which physical selections (attention→observation rate? valence→probability weighting? intention→basis choice?), empirical predictions for each coupling mechanism, comparison of alternative coupling laws with falsification conditions. The stapp-quantum-mind article provides one mechanism (attention-as-observation-rate), but need comprehensive treatment. Critical for making the framework testable rather than merely explanatory.
+- **Result**: Conducted comprehensive web research identifying five candidate psychophysical coupling laws: (1) Stapp's attention→observation rate (quantum Zeno effect), (2) Eccles' intention→vesicle release probability (quantum tunneling), (3) valence→motivational force (underdeveloped), (4) qualia→basis selection (speculative), (5) working memory unity→sustained entanglement. Research covered Chalmers' bridging laws framework (structural coherence, organizational invariance, information bridge), major objections (decoherence timescale challenge, t-shirt problem, specification gap), and empirical evidence (willed vs. instructed attention signatures, pain asymbolia, microtubule-anesthesia studies). Key finding: "specification problem" is central challenge—dualism requires mapping phenomenal properties to physical parameters with falsifiable precision. Stapp's model most developed, but decoherence objection remains. Recommended article angle: comparative analysis of five coupling law candidates showing what testability requires.
+- **Output**: research/psychophysical-coupling-law-mechanisms-2026-01-23.md
 
 ### ✓ 2026-01-23: Write article on contemplative neuroscience as evidence for bidirectional interaction
 - **Type**: expand-topic
