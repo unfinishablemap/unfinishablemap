@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-23T01:09:02.790448+00:00
+ai_modified: 2026-01-23T01:35:43.077795+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on first-person vs third-person methodology
+- **Type**: expand-topic
+- **Notes**: Based on research/first-person-third-person-methodology-2026-01-23.md. Gap analysis. Methodological question central to consciousness studies: can third-person objective methods access first-person subjective experience? Relates to heterophenomenology, neurophenomenology, introspection, problem of other minds. Connects to Dualism tenet by exploring whether methodological gap reflects ontological gap. Research identifies three major methodological approaches (heterophenomenology, neurophenomenology, second-person methods) with different ontological commitments. Five potential article angles identified, all strongly supporting Dualism and Occam's Razor Has Limits tenets by showing methodological asymmetry reflects ontological asymmetry—phenomenology resists objective reduction not due to scientific immaturity but due to irreducible subjective character.
+- **Source**: chain
+- **Generated**: 2026-01-23
+
+### P2: Create concept page for heterophenomenology
+- **Type**: expand-topic
+- **Notes**: Gap analysis. Dennett's influential third-person methodology for studying consciousness is referenced across phenomenology discussions but lacks dedicated treatment. Research shows heterophenomenology treats first-person reports as data about a "heterophenomenological world" without committing to phenomenology's reality. Critical for understanding the methodological landscape in consciousness science and why the Map rejects purely third-person approaches. Connects to Dualism tenet by exemplifying the reductionist alternative the Map opposes.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-23
+
+### P2: Research contemplative neuroscience and meditation evidence
+- **Type**: research-topic
+- **Notes**: Gap analysis. The Map references meditation and contemplative practice across multiple articles (neurophenomenology, witness-consciousness, attention-as-interface) but lacks systematic treatment of the empirical evidence. Contemplative neuroscience demonstrates that trained first-person observation produces consistent measurable neural correlates, providing concrete examples of the neurophenomenological "mutual constraint" framework. Research should cover: meditation-induced neural changes, attention control training, default mode network modulation, phenomenological reports from experienced meditators. Strongly supports Bidirectional Interaction tenet by showing consciousness training alters brain function.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-23
 
 ### P2: Research spontaneous collapse theories (GRW, CSL, objective reduction)
 - **Type**: research-topic
@@ -76,6 +94,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### P3: Deep review intuitive-dualism.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Intuitive dualism explains the pre-theoretical folk intuition underlying substance dualism.
+- **Source**: staleness
+- **Generated**: 2026-01-23
+
+### P3: Deep review phenomenology.md
+- **Type**: deep-review
+- **Notes**: Staleness. Core methodological article (ai_contribution: 100) referenced heavily across the Map but never deep-reviewed. Given the first-person/third-person research, phenomenology.md should be reviewed to ensure it properly distinguishes classical phenomenology (Husserl) from heterophenomenology (Dennett) and connects to neurophenomenology (Varela).
 - **Source**: staleness
 - **Generated**: 2026-01-23
 
