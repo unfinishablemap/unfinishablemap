@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-23 00:33:16+00:00
+ai_modified: 2026-01-23 00:44:23+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[voluntary-attention-control]]'
 - '[[quantum-indeterminacy-free-will]]'
 - '[[retrocausality]]'
 - '[[qualia]]'
@@ -298,45 +299,62 @@ The free will question isn't just whether we can select but whether we have *mas
 
 ## Neural Signatures of Willed Action
 
-The phenomenology of free choice—the sense that *you* direct attention and *you* make decisions—has empirical correlates. Research on [voluntary attention](/concepts/attention/) reveals that willed action engages distinct neural mechanisms from automatic or instructed behaviour.
+The phenomenology of free choice—the sense that *you* direct attention and *you* make decisions—has empirical correlates. Research on [voluntary attention control](/topics/voluntary-attention-control/) reveals that willed action engages distinct neural mechanisms from automatic or instructed behaviour, providing paradigm case evidence for [agent-causation](/concepts/agent-causation/).
 
-### Willed vs Instructed Attention
+### Voluntary Attention: The Paradigm Case for Agent Causation
 
-When someone chooses where to direct attention (rather than following instructions), additional frontal cortex regions engage. A 2019 *Cerebral Cortex* study found three distinguishing signatures:
+When you decide to focus on a difficult text rather than glancing at your phone, consciousness directs attention through purely internal decision processes. This [voluntary attention control](/topics/voluntary-attention-control/) provides a paradigm case of agent causation in action: consciousness causally selecting among neural patterns without external prompting.
+
+The neuroscience reveals three systems operating through fundamentally different control mechanisms:
+
+| Type | Trigger | Deployment Time | Duration | Phenomenology |
+|------|---------|-----------------|----------|---------------|
+| **Exogenous (automatic)** | External salience | ~100ms | Transient (~100-300ms) | Passive, being captured |
+| **Instructed (top-down)** | External cues | ~300ms | Sustained | Following directions |
+| **Willed (endogenous)** | Internal decision | ~300ms | Sustained at will | Effortful, self-directed |
+
+A 2019 *Cerebral Cortex* study and 2023 *Frontiers in Cognition* review identified three neural signatures distinguishing willed from instructed attention:
 
 | Feature | Willed Attention | Instructed Attention |
 |---------|------------------|----------------------|
-| **Frontal theta** | Increased (~500ms post-cue) | Lower |
+| **Frontal theta** | Increased (~500ms post-decision) | Lower |
 | **Frontoparietal coherence** | Bidirectional information flow | More unidirectional |
 | **Decision processes** | Additional frontal engagement | Standard top-down control |
 
-The **frontal theta oscillations** index genuine decision-making processes—not merely following instructions. The **bidirectional Granger causality** between frontal executive and parietal attention regions suggests that willed attention involves reciprocal communication rather than simple top-down command.
+The **frontal theta oscillations** (~4-8 Hz) index genuine decision-making processes—not merely following instructions. The **bidirectional Granger causality** between frontal executive and parietal attention regions reveals reciprocal communication rather than simple top-down command. This is not mere instruction-following but genuine choice architecture.
 
-This matters for free will: the brain distinguishes between doing what you're told and doing what you choose. The neural signature of choosing is real.
+This matters profoundly for free will: the brain distinguishes between doing what you're told and doing what you choose. The neural signature of self-originated choosing is real and distinct from automatic capture or instructed control.
 
-### Temporal Signature of Choosing
+### Temporal Signature of Choosing and the Thalamic Selection Site
 
 Voluntary (endogenous) attention takes approximately 300ms to deploy—compared to ~100ms for automatic (exogenous) capture. But endogenous attention can be *sustained* at will, while exogenous attention is transient.
 
 This temporal asymmetry supports the [quantum Zeno](/concepts/quantum-consciousness/) interpretation: voluntary attention involves sustained engagement consistent with repeated observation holding neural patterns stable. Automatic capture is too brief for sustained Zeno freezing. The 300ms deployment time may reflect the cognitive work of initiating genuine selection.
 
-### The Pre-Prompt Alpha Question
+**The thalamic relay as selection site**: Dynamic causal modeling reveals the thalamus functions as a crucial convergence point where top-down voluntary signals from frontal cortex meet bottom-up sensory inputs from ascending pathways. This relay architecture—where descending goal-based signals modulate thalamic processing of ascending sensory information—provides a plausible neuroanatomical site for consciousness to act on the attention system. Quantum indeterminacy in thalamic neural firing could be biased toward goal-relevant patterns at precisely this interface between voluntary intention and sensory processing.
 
-A challenge: EEG alpha power over parietal-occipital cortex predicts subsequent free choices approximately 1,000ms before the decision. Does this mean "free" choices are determined by prior brain states?
+### The Stochastic Pre-State Challenge
 
-Two interpretations:
+A challenge: EEG alpha power over parietal-occipital cortex predicts subsequent free choices approximately 1,000ms before the decision. Does this mean "free" choices are determined by prior brain states—a Libet-style challenge for attention control?
 
-1. **Neural noise**: Stochastic fluctuations bias choices—volition is partly random
-2. **Attentional sets**: Pre-prompt alpha reflects task-specific intentions already formed
+Two interpretations compete:
+
+1. **Neural noise**: Stochastic fluctuations in cortical excitability bias free choice decisions—our "free decisions" may be partly caused by background noise in neural systems
+2. **Attentional sets**: Pre-decision alpha reflects task-specific attentional sets (preparatory biases like "attend left" versus "attend right") representing prior intentions rather than mere noise
 
 The second interpretation aligns with the Map's framework. Selection operates *among* stochastic options rather than generating outcomes from nothing. Prior intentions (distal agency) shape which options are available. The preparatory activity may reflect the brain preparing possibilities for consciousness to select among—consistent with [the Map's model](//#the-maps-position-consciousness-selects-quantum-outcomes).
+
+Crucially, if consciousness interfaces with the brain through quantum processes in microtubules or thalamic neurons, the crucial selection might occur in microseconds—far below the millisecond resolution of scalp EEG. The alpha prediction would then reflect the *context* for conscious choice (the set of options available, shaped by prior intentions) rather than determining the choice itself. This parallels the framework for [libet-experiments](/concepts/libet-experiments/): preparatory brain activity need not undermine agency if (1) the activity reflects prior intentions rather than bypassing consciousness, (2) consciousness selects *among* stochastic options rather than generating choices from nothing, and (3) the selection operates at quantum timescales below EEG temporal resolution.
 
 ### Phenomenology Matches Neuroscience
 
 The first-person experience of choosing—directing attention rather than being captured by it—maps onto third-person neural distinctions:
 
-- **Being captured** (loud noise, movement) → ventral attention network, exogenous, transient
-- **Choosing to focus** (difficult text, meditation) → dorsal attention network, endogenous, sustained, effortful
+- **Being captured** (loud noise, movement) → ventral attention network, exogenous, transient, effortless
+- **Following instructions** (cued attention) → dorsal attention network, top-down, unidirectional coherence
+- **Choosing to focus** (difficult text, meditation) → dorsal attention network with frontal theta, bidirectional coherence, sustained, effortful
+
+The phenomenological asymmetry in subjective effort provides direct evidence for distinct mechanisms: exogenous attention feels effortless (being *pulled* toward the stimulus), while endogenous attention feels effortful and depleting (*directing* attention requires continuous engagement). The [voluntary attention](/topics/voluntary-attention-control/) article details how this first-person phenomenology—initiating the attentional shift through internal decision, sustaining focus through ongoing effort, and redirecting when goals change—corresponds precisely to the three neural components identified in willed attention research: front-end decision processes (initiating), network reorganization (sustaining), and salience network switching (redirecting).
 
 The felt distinction between *directing* and *being pulled* corresponds to different neural circuits. This supports [agent-causation](/concepts/agent-causation/): the subjective sense of authorship tracks genuine differences in how the brain organises voluntary versus automatic processing. The experience of effort isn't epiphenomenal decoration—it reflects the additional neural machinery engaged when you genuinely choose.
 
@@ -542,6 +560,7 @@ Free will stands at the intersection of all five tenets:
 
 ## Further Reading
 
+- [voluntary-attention-control](/topics/voluntary-attention-control/) — Paradigm case evidence: willed attention demonstrates consciousness causally selecting among neural patterns
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Comprehensive systematization of how quantum indeterminacy supports libertarian free will through consciousness-selected outcomes
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How consciousness both generates and selects possibilities, strengthening the case for genuine agency
 - [mental-causation](/concepts/mental-causation/) — Why mental causation is essential for free will and how the quantum framework addresses Kim's exclusion argument

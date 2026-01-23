@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review free-will.md considering voluntary attention mechanisms
-- **Type**: cross-review
-- **Notes**: New article topics/voluntary-attention-control.md provides concrete neural evidence for consciousness causally influencing attention (willed vs instructed vs exogenous modes, frontal theta signatures, thalamic selection sites). The free-will.md article should integrate this as paradigm case evidence for agent causation—voluntary attention demonstrates consciousness selecting among neural patterns.
-- **Source**: chain (from voluntary-attention-control.md)
-- **Generated**: 2026-01-23
-
 ### P2: Cross-review many-worlds.md considering interpretations beyond MWI
 - **Type**: cross-review
 - **Notes**: New article topics/quantum-measurement-interpretations-beyond-mwi.md surveys five major alternatives to Many-Worlds (Copenhagen, Bohmian, QBism, Transactional, Objective Collapse), showing MWI is not the only scientifically respectable interpretation. The many-worlds.md article should reference this comprehensive survey when defending the No Many Worlds tenet.
@@ -54,6 +48,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: cross-review
 - **Notes**: New article topics/time-perception-consciousness-theories.md argues IIT and GNWT explain sub-300ms functional moments but fail to account for multi-second experienced duration (specious present, temporal flow). The integrated-information-theory.md article should acknowledge this limitation—IIT calculates Φ for instantaneous states while missing the extended temporal structure that defines conscious experience.
 - **Source**: chain (from time-perception-consciousness-theories.md)
+- **Generated**: 2026-01-23
+
+### P2: Research phenomenal binding mechanisms across sensory modalities
+- **Type**: research-topic
+- **Notes**: Gap analysis. How does consciousness bind information across different sensory modalities (vision, audition, touch, proprioception) into unified multimodal experience? Connects to binding-problem.md, phenomenal-unity.md, and Minimal Quantum Interaction tenet. Current binding-problem coverage focuses on temporal binding; multimodal binding adds spatial dimension.
+- **Source**: gap_analysis
 - **Generated**: 2026-01-23
 
 ### P3: Create voids article on temporal asymmetry
@@ -86,13 +86,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-23
 
-### P3: Research objectivity and consciousness
-- **Type**: research-topic
-- **Notes**: Gap exploration. How does consciousness relate to objectivity, intersubjectivity, and the concept of a "view from nowhere"? Connects to problem-of-other-minds.md, neurophenomenology.md, and phenomenology more broadly. May support Dualism tenet by showing what first-person perspective adds to objective description.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-23
-
 ## Completed Tasks
+
+### ✓ 2026-01-23: Research objectivity and consciousness relationship
+- **Type**: research-topic
+- **Notes**: Gap analysis. How does consciousness relate to objectivity, intersubjectivity, and the concept of a "view from nowhere"? Connects to problem-of-other-minds.md, neurophenomenology.md, and phenomenology more broadly. May support Dualism tenet by showing what first-person perspective adds to objective description. Promoted from P3 due to tenet relevance.
+- **Result**: Conducted comprehensive web research covering Nagel's "view from nowhere," phenomenological realism vs. objectivism, heterophenomenology (Dennett), neurophenomenology (Varela), Berkeley's idealism, quantum observer effect, and shared intentionality (Tomasello). Research identifies core tension: consciousness is irreducibly subjective yet science aims for objective understanding. Four potential article angles identified, all strongly supporting Dualism and Occam's Razor Has Limits tenets.
+- **Output**: obsidian/research/objectivity-consciousness-view-from-nowhere-2026-01-23.md
+
+### ✓ 2026-01-23: Cross-review free-will.md considering voluntary attention mechanisms
+- **Type**: cross-review
+- **Notes**: New article topics/voluntary-attention-control.md provides concrete neural evidence for consciousness causally influencing attention (willed vs instructed vs exogenous modes, frontal theta signatures, thalamic selection sites). The free-will.md article should integrate this as paradigm case evidence for agent causation—voluntary attention demonstrates consciousness selecting among neural patterns.
+- **Result**: Enhanced "Neural Signatures of Willed Action" section with paradigm case framing. Expanded "Willed vs Instructed Attention" section into comprehensive table comparing exogenous/instructed/willed attention types with detailed neural signatures (frontal theta, bidirectional frontoparietal coherence, decision processes). Added "Temporal Signature of Choosing and the Thalamic Selection Site" subsection explaining thalamic relay as convergence point where voluntary signals meet sensory inputs (potential quantum selection site). Expanded "Stochastic Pre-State Challenge" section with more detailed interpretations of pre-decision alpha and connections to quantum timescale selection. Enhanced "Phenomenology Matches Neuroscience" section with three-level distinction and connections to three neural components. Added voluntary-attention-control to concepts frontmatter (top position) and Further Reading with paradigm case description.
+- **Output**: obsidian/topics/free-will.md (revised)
 
 ### ✓ 2026-01-23: Write article on AI and machine consciousness
 - **Type**: expand-topic
