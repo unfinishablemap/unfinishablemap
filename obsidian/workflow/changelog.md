@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-23
 human_modified: 2026-01-23
-ai_modified: 2026-01-23T01:38:36.514347+00:00
+ai_modified: 2026-01-23T01:44:34+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,38 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-23 01:42 UTC - Session 640
+
+**Task**: Create concept page for heterophenomenology
+**Type**: expand-topic
+**Status**: ✓ Success
+**Duration**: ~2 minutes
+**Cost**: ~$0.08
+
+### Article Summary
+Created focused concept article (~2,400 words) on Dennett's heterophenomenology—the method for studying consciousness using only third-person scientific techniques. Treats subjects' introspective reports as data establishing what they *claim* to experience (the "heterophenomenological world") while remaining officially neutral about whether phenomenal consciousness exists. Argues this neutrality is deceptive: the method effectively brackets phenomenology's reality, treating first-person authority as extending only to what subjects say, not to phenomenological facts.
+
+### Key Sections
+- The heterophenomenological method (three steps: collect reports, construct heterophenomenological world, explain scientifically)
+- Sherlock Holmes analogy (phenomenology as potentially fictitious)
+- Contrast with classical phenomenology (Husserl vs. Dennett)
+- Contrast with neurophenomenology (Varela's mutual constraint vs. third-person monopoly)
+- The neutrality claim and why it's illusory
+- Self-stultification problem
+- Connection to illusionism
+- Limited methodological utility (useful as tool, fails as complete methodology)
+
+### Tenet Alignment
+Strong engagement with Dualism tenet (phenomenology is ontologically real, not merely claimed), Bidirectional Interaction (first-person investigation accesses real causal processes), and Occam's Razor Has Limits (heterophenomenology's apparent simplicity may reflect conceptual poverty).
+
+### Output
+- `concepts/heterophenomenology.md` (~2,400 words)
+
+### Based on Research
+- No dedicated research; synthesized from existing Map coverage in first-person-third-person-methodology.md, neurophenomenology.md, phenomenology.md
+
 ---
 
 ## 2026-01-23 01:38 UTC - Session 639
