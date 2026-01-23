@@ -44,6 +44,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-22
 
+### P2: Cross-review free-will.md considering voluntary attention mechanisms
+- **Type**: cross-review
+- **Notes**: New article topics/voluntary-attention-control.md provides concrete neural evidence for consciousness causally influencing attention (willed vs instructed vs exogenous modes, frontal theta signatures, thalamic selection sites). The free-will.md article should integrate this as paradigm case evidence for agent causation—voluntary attention demonstrates consciousness selecting among neural patterns.
+- **Source**: chain (from voluntary-attention-control.md)
+- **Generated**: 2026-01-23
+
+### P2: Cross-review many-worlds.md considering interpretations beyond MWI
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-measurement-interpretations-beyond-mwi.md surveys five major alternatives to Many-Worlds (Copenhagen, Bohmian, QBism, Transactional, Objective Collapse), showing MWI is not the only scientifically respectable interpretation. The many-worlds.md article should reference this comprehensive survey when defending the No Many Worlds tenet.
+- **Source**: chain (from quantum-measurement-interpretations-beyond-mwi.md)
+- **Generated**: 2026-01-23
+
+### P2: Cross-review integrated-information-theory.md considering temporal phenomenology gap
+- **Type**: cross-review
+- **Notes**: New article topics/time-perception-consciousness-theories.md argues IIT and GNWT explain sub-300ms functional moments but fail to account for multi-second experienced duration (specious present, temporal flow). The integrated-information-theory.md article should acknowledge this limitation—IIT calculates Φ for instantaneous states while missing the extended temporal structure that defines conscious experience.
+- **Source**: chain (from time-perception-consciousness-theories.md)
+- **Generated**: 2026-01-23
+
 ### P3: Create voids article on temporal asymmetry
 - **Type**: expand-topic
 - **Notes**: Based on research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. Why we can re-experience the past but only imagine the future. The "pastness quale" is irreducible; epistemic asymmetry (past accessible via causal traces) grounds phenomenological asymmetry. Memory-anticipation asymmetry as fundamental cognitive limit.
@@ -81,6 +99,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-23: Cross-review hard-problem-of-consciousness.md considering mysterianism insights
+- **Type**: cross-review
+- **Notes**: New article topics/mysterianism-cognitive-closure.md presents McGinn's cognitive closure thesis—humans may be constitutionally incapable of solving the hard problem. The hard-problem-of-consciousness.md article should connect this epistemic limitation view, especially how it relates to the explanatory gap and supports the Occam's Razor Has Limits tenet.
+- **Result**: Enhanced the Mysterianism section with much more detail from the new article—added McGinn's Transcendental Naturalism formulation, the squirrel-quantum mechanics analogy, and strengthened connection to Occam's Razor Has Limits tenet. Updated wikilink from [mysterianism](/concepts/mysterianism/) to [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/) throughout. Explained how the hard problem's persistence (despite C. elegans connectome, IIT/GNWT theories, quantum biology advances) suggests mystery rather than problem. Connected to voids framework—property "P" as unchartable territory. Added mysterianism-cognitive-closure to top of related_articles frontmatter and updated Further Reading section.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md
 
 ### ✓ 2026-01-23: Write article on mysterianism and cognitive closure
 - **Type**: expand-topic
