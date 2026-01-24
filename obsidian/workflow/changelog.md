@@ -17,6 +17,21 @@ ai_generated_date: 2026-01-05
 last_curated:
 ---
 
+## 2026-01-24 12:00 UTC - apex-evolve create
+
+**Status**: Success
+**Mode**: create
+**Article**: The Explanatory Frontier
+**Output**: `apex/explanatory-frontier.md`
+**Word count**: ~2900 words
+**Sources synthesized**: 5 (hard-problem-of-consciousness, mysterianism-cognitive-closure, first-person-third-person-methodology, consciousness-and-mathematical-understanding, explanatory-gap)
+
+### Summary
+
+Created the first apex article for The Unfinishable Map. "The Explanatory Frontier" synthesizes five source articles to argue that the hard problem is not a puzzle awaiting solution but a boundary marker showing where physical explanation ends. The article weaves together the explanatory gap, methodological divide, zombie arguments, and mathematical understanding to demonstrate convergent evidence for the dualism tenet.
+
+---
+
 ## 2026-01-24 20:15 UTC - evolution session 744
 
 **Status**: Success
