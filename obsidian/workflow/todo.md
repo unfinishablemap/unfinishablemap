@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review attention-motor-quantum-interface.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Key integration of attention and motor timing with quantum framework. Should verify: (1) accuracy of premotor theory of attention claims, (2) proper integration of timing constraints, (3) connection to Stapp's quantum Zeno model, (4) relationship to voluntary-attention and motor-selection concepts.
-- **Source**: staleness
-- **Generated**: 2026-01-24
-
 ### P2: Cross-review indexical-identity-quantum-measurement.md considering quantum probability insights
 - **Type**: cross-review
 - **Notes**: New article concepts/quantum-probability-and-consciousness.md develops the indexical reading of Born probabilities. The indexical-identity-quantum-measurement.md article should be reviewed to: (1) add cross-link to quantum-probability-and-consciousness, (2) integrate the distinction between objective, subjective, and indexical readings of probability, (3) note how the indexical reading connects to haecceity.
@@ -98,6 +92,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Deep review attention-motor-quantum-interface.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Key integration of attention and motor timing with quantum framework. Should verify: (1) accuracy of premotor theory of attention claims, (2) proper integration of timing constraints, (3) connection to Stapp's quantum Zeno model, (4) relationship to voluntary-attention and motor-selection concepts.
+- **Result**: Comprehensive review with 6 pessimistic and 6 optimistic personas. Addressed: unsupported decoherence claim (now cites Hameroff 2014, Bandyopadhyay 2014), neural competition gap (new section explaining why neural dynamics alone don't suffice), PMTA interpretation (acknowledged physicalist origins). Enhanced with cross-links, honest gap acknowledgment, and references.
+- **Output**: concepts/attention-motor-quantum-interface.md, reviews/deep-review-2026-01-24-attention-motor-quantum-interface.md
 
 ### ✓ 2026-01-24: Enhance attention-motor-quantum-interface.md with dopamine research
 - **Type**: refine-draft
