@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-24
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-24T22:30:00+00:00
+ai_modified: 2026-01-25T00:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-24
 
-### P2: Cross-review mysterianism.md considering conceptual acquisition limits insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/conceptual-acquisition-limits.md develops Fodor's nativist challenge and Rescher's three layers of inaccessibility. The mysterianism.md concept page should be reviewed to: (1) add cross-link to conceptual-acquisition-limits, (2) connect McGinn's cognitive closure to Fodor's concept nativism, (3) note how Rescher's agnoseology extends the cognitive closure framework.
-- **Source**: chain (from conceptual-acquisition-limits.md)
-- **Generated**: 2026-01-24
-
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
@@ -98,6 +92,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-25: Cross-review mysterianism.md considering conceptual acquisition limits insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/conceptual-acquisition-limits.md develops Fodor's nativist challenge and Rescher's three layers of inaccessibility. The mysterianism.md concept page should be reviewed to: (1) add cross-link to conceptual-acquisition-limits, (2) connect McGinn's cognitive closure to Fodor's concept nativism, (3) note how Rescher's agnoseology extends the cognitive closure framework.
+- **Result**: Added [[conceptual-acquisition-limits]] to frontmatter concepts. Created new "Concept Nativism and Cognitive Closure" section (~350 words) after Problems Versus Mysteries section, explaining: (1) Fodor's circularity argument that concepts must be innate, (2) how this extends McGinn's closure—property P may be inaccessible because we lack the primitive concepts to construct it, (3) Rescher's three layers of inaccessibility (logical, conceptual, in-principle) with cognitive closure occupying the conceptual layer. Added to Further Reading section.
+- **Output**: concepts/mysterianism.md (modified)
 
 ### ✓ 2026-01-24: Write voids article on conceptual acquisition limits
 - **Type**: expand-topic
