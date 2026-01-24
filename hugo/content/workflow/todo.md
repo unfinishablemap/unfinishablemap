@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 08:25:00+00:00
+ai_modified: 2026-01-24 08:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -42,12 +42,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Key integration of attention and motor timing with quantum framework. Should verify: (1) accuracy of premotor theory of attention claims, (2) proper integration of timing constraints, (3) connection to Stapp's quantum Zeno model, (4) relationship to voluntary-attention and motor-selection concepts.
 - **Source**: staleness
-- **Generated**: 2026-01-24
-
-### P2: Write article on quantum biology neural mechanisms
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-biology-neural-mechanisms-2026-01-24.md. Covers five quantum biological mechanisms proposed for neural systems: radical pair mechanisms in cryptochromes, ion channel quantum tunneling, Fröhlich condensation in microtubules, Beck-Eccles/Georgiev SNARE model, and Fisher's Posner molecule hypothesis. Key for supporting Minimal Quantum Interaction tenet with biological precedents.
-- **Source**: chain (from quantum-biology-neural-mechanisms research)
 - **Generated**: 2026-01-24
 
 ### P2: Write article on quantum measurement and subjective probability
@@ -105,6 +99,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Write article on quantum biology neural mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-mechanisms-2026-01-24.md. Covers five quantum biological mechanisms proposed for neural systems: radical pair mechanisms in cryptochromes, ion channel quantum tunneling, Fröhlich condensation in microtubules, Beck-Eccles/Georgiev SNARE model, and Fisher's Posner molecule hypothesis. Key for supporting Minimal Quantum Interaction tenet with biological precedents.
+- **Result**: Created comprehensive concept article (concepts/quantum-neural-mechanisms.md, ~2800 words) covering all five mechanisms with evidence status tables, tenet alignment analysis, common themes section, and full references. Structured as hub page linking to quantum-biology, quantum-neural-timing-constraints, and mechanism-specific pages.
+- **Output**: concepts/quantum-neural-mechanisms.md
 
 ### ✓ 2026-01-24: Deep review quantum-binding-experimental-evidence.md
 - **Type**: deep-review
