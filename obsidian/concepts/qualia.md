@@ -1,13 +1,17 @@
 ---
 title: "Qualia"
 created: 2026-01-07
-modified: 2026-01-22
+modified: 2026-01-24
 human_modified:
-ai_modified: 2026-01-22T00:00:00+00:00
+ai_modified: 2026-01-24T03:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
+  - "[[phenomenal-consciousness]]"
+  - "[[access-consciousness]]"
+  - "[[conscious-vs-unconscious-processing]]"
+  - "[[baseline-cognition]]"
   - "[[minimal-consciousness]]"
   - "[[existentialism]]"
   - "[[functionalism]]"
@@ -25,6 +29,8 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[combination-problem]]"
   - "[[aesthetic-dimension-of-consciousness]]"
+  - "[[mysterianism-cognitive-closure]]"
+  - "[[buddhism-and-dualism]]"
 related_articles:
   - "[[tenets]]"
   - "[[materialism]]"
@@ -34,12 +40,14 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-07
 last_curated:
-last_deep_review: 2026-01-20T09:35:00+00:00
+last_deep_review: 2026-01-24T03:15:00+00:00
 ---
 
 Qualia are the subjective, experiential qualities of conscious states—the redness of red, the painfulness of pain, the taste of coffee. They are what it is *like* to have an experience.
 
 The term comes from the Latin *qualis*, meaning "of what kind." In philosophy of mind, qualia (singular: quale) refer to the intrinsic, ineffable, private properties of our conscious experiences. When you see a red apple, there is something it is like to experience that redness—a felt quality that accompanies your perception. This quality is the quale of redness.
+
+Qualia are closely related to [[phenomenal-consciousness]]—the "what it's like" aspect of mental states. While phenomenal consciousness is the broader category (the fact that there is something it is like to be in conscious states at all), qualia are the specific instances of phenomenal properties: the redness of red, the painfulness of pain. Qualia are distinct from [[access-consciousness]], which concerns the functional availability of information for reasoning and report. You might access colour information without experiencing its qualitative character (as in [[blindsight]]), or experience rich qualia without full access (as the [[access-consciousness#The Overflow Argument|overflow argument]] suggests).
 
 ## Why Qualia Matter
 
@@ -140,7 +148,7 @@ Several famous thought experiments illuminate what qualia are and why they pose 
 
 Frank Jackson's [[knowledge-argument|knowledge argument]] provides perhaps the most vivid demonstration that qualia are epistemically distinct from physical properties. Mary is a brilliant scientist who knows every physical fact about colour vision—wavelengths, neural pathways, brain states—but has lived her entire life in a black-and-white room. When she finally sees colour for the first time, does she learn something new?
 
-If yes—and 82% of non-philosophers agree that she would—then physical facts don't exhaust reality. The quale of redness is something over and above the physical. Mary's situation dramatizes the core claim about qualia: complete physical knowledge leaves the qualitative character of experience unaddressed. See [[knowledge-argument]] for detailed treatment of physicalist responses (the ability hypothesis, phenomenal concepts strategy) and why they fail.
+If yes—and surveys suggest most non-philosophers agree that she would—then physical facts don't exhaust reality. The quale of redness is something over and above the physical. Mary's situation dramatizes the core claim about qualia: complete physical knowledge leaves the qualitative character of experience unaddressed. Jackson himself later recanted the argument, accepting physicalism, though the Map maintains the argument succeeds for reasons explained in [[knowledge-argument]]. See that article for detailed treatment of physicalist responses (the ability hypothesis, phenomenal concepts strategy) and why they fail.
 
 ### Inverted Qualia
 
@@ -257,7 +265,9 @@ The Map's position on qualia would face serious difficulty if:
 
 None of these conditions are currently met. The explanatory gap persists across decades of neuroscientific advance; inverted qualia remain conceivable; the zombie argument stands; and [[introspection]] research distinguishes process from content reliability.
 
-## Relation to the Map's Perspective
+6. **Buddhist no-self undermines qualia ownership.** If the self is illusory (as [[buddhism-and-dualism|Buddhist anattā doctrine]] maintains), who experiences qualia? The challenge is serious but may strengthen rather than weaken the dualist position: even without a substantial self, the experiential character of each moment remains undeniable. Buddhist phenomenology reports subtle qualia of awareness itself—what [[witness-consciousness|contemplative traditions]] call "luminosity"—which persist even when self-concepts are deconstructed.
+
+## Relation to Site Perspective
 
 Qualia provide central support for the Map's [[tenets|foundational commitments]].
 
@@ -312,6 +322,12 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[combination-problem]] - How micro-experiences combine into unified consciousness
 - [[tenets]] - the Map's foundational commitments, especially Dualism
 - [[materialism]] - The view challenged by the existence of qualia
+- [[phenomenal-consciousness]] - The broader category of "what it's like" that qualia instantiate
+- [[access-consciousness]] - Functional availability, distinct from phenomenal character
+- [[conscious-vs-unconscious-processing]] - Empirical evidence on what consciousness enables
+- [[baseline-cognition]] - What cognition achieves without conscious amplification
+- [[mysterianism-cognitive-closure]] - Whether the explanatory gap reflects our cognitive limits
+- [[buddhism-and-dualism]] - The no-self challenge to qualia ownership
 
 ## References
 
