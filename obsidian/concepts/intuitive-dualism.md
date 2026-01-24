@@ -1,30 +1,36 @@
 ---
 title: "Intuitive Dualism"
 created: 2026-01-19
-modified: 2026-01-19
+modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-20T12:16:00+00:00
+ai_modified: 2026-01-24T07:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
+  - "[[consciousness]]"
   - "[[arguments-for-dualism]]"
   - "[[materialism]]"
   - "[[interactionist-dualism]]"
   - "[[philosophical-zombies]]"
   - "[[mental-causation]]"
+  - "[[stapp-quantum-mind]]"
+  - "[[voluntary-attention]]"
+  - "[[first-person-third-person-methodology]]"
 related_articles:
   - "[[tenets]]"
   - "[[cognitive-science-dualism-2026-01-15]]"
   - "[[illusionism]]"
   - "[[introspection]]"
   - "[[phenomenology]]"
+  - "[[quantum-neural-timing-constraints]]"
+  - "[[mysterianism-cognitive-closure]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-01-20T12:16:00+00:00
+last_deep_review: 2026-01-24T07:30:00+00:00
 ---
 
 Cognitive science has investigated whether humans naturally think of minds and bodies as distinct—and the evidence is more complex than either side of the dualism debate typically acknowledges. Paul Bloom argued we are "natural-born dualists," processing minds and bodies through separate cognitive systems from infancy. But cross-cultural research challenges this: Barrett et al. (2021) found most people across diverse cultures default to **intuitive materialism**, expecting mental states to cease at death. The debate illuminates human psychology without settling the metaphysical question—cognitive naturalness doesn't determine truth.
@@ -54,7 +60,7 @@ Some materialists seized on this research to dismiss dualism as "folk error." Th
 
 ## The Cross-Cultural Challenge
 
-Barrett et al.'s 2021 study in *Cognitive Science*—the most comprehensive cross-cultural investigation—challenged Bloom's thesis directly. They sampled six populations including non-Western societies with diverse belief systems, asking participants whether mental states continue after death.
+Barrett et al.'s 2021 study in *Cognitive Science*—the most comprehensive cross-cultural investigation—challenged Bloom's thesis directly. They recruited over 2,000 participants across six populations: North Americans (n=300), Lowland Ecuadorians (n=303), Fijians (n=356), Ghanaians (n=303), Thailand Buddhists (n=406), and Vanuatu Islanders (n=408). Each population represented different religious traditions and afterlife beliefs. The key measure: when asked about specific mental states—emotions, perceptions, epistemic capacities—would participants judge these as continuing after bodily death?
 
 ### The Key Finding
 
@@ -133,11 +139,23 @@ Illusionists can interpret the cognitive science evidence as supporting their po
 
 The Unfinishable Map rejects illusionism for reasons independent of cognitive naturalness. The [[illusionism#The Infinite Regress Problem|regress problem]] applies here: if our belief in mind-body distinction is an illusion, something must be *experiencing* this illusion. The very act of *seeming* to have separate mental and physical aspects requires a subject to whom things seem this way.
 
-Keith Frankish responds that the seeming can be purely representational—cognitive states representing themselves as having properties they lack, without phenomenal awareness of the representation. But this faces Raymond Tallis's objection: explaining why we *believe* we're conscious seems to require the very phenomenal vocabulary the illusionist denies. The "illusion" of dualism must appear to *something*, and that appearance is itself a form of experience.
+Keith Frankish's response deserves careful attention. He argues that "quasi-phenomenal properties"—introspectible representations that mischaracterise their own nature—can create the illusion of phenomenality without phenomenality itself. On this view, cognitive states represent themselves as having phenomenal properties they lack. There's no infinite regress because the representing states are purely functional; they don't need to be phenomenally conscious to represent themselves (incorrectly) as phenomenally conscious.
+
+Three considerations weigh against this:
+
+First, the representation must itself be *determinate*—specifying the red quale as red, not blue. What fixes this determinacy if not actual phenomenal character? Functional role alone seems insufficient to distinguish "represents red" from "represents generic colour."
+
+Second, as Raymond Tallis argues, explaining why we *believe* we're conscious seems to require the very phenomenal vocabulary the illusionist denies. Frankish's system represents itself as having properties it lacks—but the representing itself involves some kind of cognitive access. Is this access experiential or not? If experiential, the regress reappears. If not, how does mere functional covariation generate the *conviction* of phenomenality?
+
+Third, the "illusion" of dualism must appear to *something*. Frankish would say it appears to a functional system, not a phenomenal subject. But this stretches ordinary language: can anything genuinely "appear" without someone for whom it appears? The illusionist position may be coherent, but it requires a deflationary reading of "appearance" that itself demands justification.
 
 ### The Contemplative Challenge
 
 Trained meditators report not merely believing in phenomenal states but directly *observing* them with increasing precision. If dualism were cognitive illusion, contemplative training should eventually dissolve it—reveal the belief as empty. Instead, traditions across cultures report that training *refines* phenomenal access, revealing subtler distinctions rather than exposing the whole enterprise as mistake.
+
+A sceptic might object that contemplative training produces more *elaborate* reports, not more *accurate* ones. Perhaps meditation cultivates sophisticated confabulation—the meditator learns to generate detailed phenomenological descriptions without any improvement in introspective accuracy. The [[first-person-third-person-methodology|first-person/third-person methodology]] debate addresses this concern directly.
+
+The contemplative response: accuracy and elaboration can be distinguished through convergence. If trained observers across different traditions, using different techniques, independently converge on similar phenomenological distinctions, this suggests they're tracking real features rather than generating idiosyncratic confabulations. Fox et al.'s 2012 study found meditation experience does predict introspective accuracy on objective measures (pain detection), not merely increased reporting confidence.
 
 This doesn't prove dualism true, but it suggests the "folk error" charge cuts both ways. If untrained intuition is unreliable (as illusionists assume), perhaps trained [[introspection]] reveals what untrained cognition obscures.
 
@@ -168,7 +186,7 @@ The cognitive science debate focuses on untrained intuitions, but contemplative 
 
 Buddhist psychology distinguishes conventional and ultimate truth. At the conventional level, persons, minds, and bodies exist as useful designations. At the ultimate level, analysis reveals no substantial self—only a stream of momentary mental events (dharmas) arising and passing.
 
-This isn't materialism: the dharmas include irreducibly mental elements (feelings, perceptions, volitions). Nor is it substance dualism: there's no enduring mental substance. Buddhist phenomenology suggests a third position—neither intuitive dualism nor intuitive materialism as typically conceived—that cognitive science hasn't tested.
+This isn't materialism: the dharmas include irreducibly mental elements (feelings, perceptions, volitions). Nor is it substance dualism: there's no enduring mental substance. Buddhist phenomenology suggests a third position—neither intuitive dualism nor intuitive materialism as typically conceived—that cognitive science hasn't tested. From the perspective of [[mysterianism-cognitive-closure|cognitive closure]], this may represent a genuine limit: ordinary cognition cannot conceive consciousness outside the dualism/materialism dichotomy, while refined contemplative investigation reveals the dichotomy as too coarse.
 
 ### Witness Consciousness
 
@@ -222,11 +240,15 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] sp
 
 However, the debate is relevant to one objection. Critics sometimes argue that if mind-body interaction were real, evolution would have selected for accurate intuitions about it. But evolution operates on survival value, not metaphysical accuracy. The cognitive systems Bloom identifies track *behaviorally relevant* distinctions (predicting what agents will do vs. how objects will move), not the underlying physics of consciousness-matter interaction. Evolution would produce intuitions tracking statistical regularities, not quantum-level mechanisms.
 
+The [[quantum-neural-timing-constraints|quantum timing constraints]] research illuminates this disconnect. The 280-300ms neural decision windows during which [[voluntary-attention]] and motor selection occur are behaviourally visible—we can learn to track when agents are "deciding." But the quantum-level events within those windows (whether [[stapp-quantum-mind|Stapp's repeated observations]] or other mechanisms) are causally efficacious without being introspectively accessible. Intuitive dualism might track the macro-level efficacy of mind while remaining silent on the micro-level physics.
+
 ### Bidirectional Interaction
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] holds that consciousness causally affects the physical world—an empirical claim subject to evidence.
 
-The cognitive science debate provides indirect support. If consciousness were epiphenomenal (causally inert), the elaborate cognitive systems for tracking minds would be unexplained. Why invest neural resources modeling something that doesn't affect behavior? The existence of folk psychology—regardless of whether it's innate or learned—suggests minds have causal efficacy worth tracking. Epiphenomenal consciousness wouldn't be worth the cognitive investment.
+The cognitive science debate provides indirect support. If consciousness were epiphenomenal (causally inert), the elaborate cognitive systems for tracking minds would be unexplained. Why invest neural resources modeling something that doesn't affect behaviour? The existence of folk psychology—regardless of whether it's innate or learned—suggests minds have causal efficacy worth tracking. Epiphenomenal [[consciousness]] wouldn't be worth the cognitive investment.
+
+The empirical case for bidirectional interaction extends beyond folk psychology. [[voluntary-attention|Voluntary attention]]—the capacity to direct and sustain attention through conscious effort—operates at the ~300ms timescale where conscious control demonstrably affects neural processing. Jeffrey Schwartz's OCD studies show patients using mindful attention to change brain activity patterns. If consciousness were epiphenomenal, these effects would be inexplicable. The cognitive science debate about *intuitions* is orthogonal to this direct evidence of mental causation.
 
 ### No Many Worlds
 
@@ -244,7 +266,13 @@ The debate also exemplifies how parsimony fails as a decisive criterion. "Humans
 
 ## Further Reading
 
+- [[consciousness]] — Overview of consciousness and the Map's framework
 - [[arguments-for-dualism]] — The philosophical case, including engagement with "folk error" objection
+- [[quantum-neural-timing-constraints]] — How neural timing windows relate to quantum mechanisms
+- [[stapp-quantum-mind]] — Henry Stapp's observer-dependent quantum consciousness
+- [[voluntary-attention]] — The ~300ms mechanism for conscious control
+- [[first-person-third-person-methodology]] — Debates about introspective methodology
+- [[mysterianism-cognitive-closure]] — Cognitive limits on understanding consciousness
 - [[tenets]] — the Map's foundational commitments, including Occam's Razor Has Limits
 - [[materialism]] — The physicalist position and its difficulties
 - [[interactionist-dualism]] — the Map's positive framework
