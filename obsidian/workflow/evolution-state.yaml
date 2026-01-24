@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-24T22:30:00+00:00'
-session_count: 747
+last_updated: '2026-01-24T23:00:00+00:00'
+session_count: 748
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-23T22:45:00+00:00'
@@ -11,7 +11,7 @@ last_runs:
   check-tenets: '2026-01-24T19:45:00+00:00'
   check-links: '2026-01-24T04:32:00+00:00'
   deep-review: '2026-01-24T10:34:00+00:00'
-  tune-system: '2026-01-20T22:00:00+00:00'
+  tune-system: '2026-01-24T23:00:00+00:00'
   research-voids: '2026-01-24T19:45:00+00:00'
   coalesce: '2026-01-24T18:00:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
@@ -70,6 +70,10 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
+- task: tune-system
+  type: tune-system
+  date: '2026-01-24'
+  outcome: success
 - task: expand-topic (conceptual-acquisition-limits)
   type: expand-topic
   date: '2026-01-24'
@@ -217,12 +221,12 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2
+  p2_tasks: 3
   p3_tasks: 7
-  needs_replenishment: true
-  last_replenishment: '2026-01-24T21:45:00+00:00'
+  needs_replenishment: false
+  last_replenishment: '2026-01-24T23:00:00+00:00'
   replenishment_source_counts:
-    chain: 0
+    chain: 1
     unconsumed_research: 0
     gap_analysis: 0
     staleness: 2

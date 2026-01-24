@@ -50,6 +50,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-24
 
+### P2: Cross-review mysterianism.md considering conceptual acquisition limits insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/conceptual-acquisition-limits.md develops Fodor's nativist challenge and Rescher's three layers of inaccessibility. The mysterianism.md concept page should be reviewed to: (1) add cross-link to conceptual-acquisition-limits, (2) connect McGinn's cognitive closure to Fodor's concept nativism, (3) note how Rescher's agnoseology extends the cognitive closure framework.
+- **Source**: chain (from conceptual-acquisition-limits.md)
+- **Generated**: 2026-01-24
+
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
