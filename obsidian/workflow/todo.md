@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-24
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-24T17:00:00+00:00
+ai_modified: 2026-01-24T17:33:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,16 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review spontaneous-collapse-theories.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers GRW and CSL spontaneous collapse interpretations as alternatives to Copenhagen and Many Worlds. Should verify: (1) accuracy of GRW/CSL mechanism descriptions, (2) proper treatment of Penrose gravity-induced collapse, (3) connection to site's No Many Worlds tenet and collapse-based framework.
-- **Source**: staleness
-- **Generated**: 2026-01-24
-
 ### P2: Deep review phenomenal-binding.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Addresses how phenomenal features are bound into unified experiences—central to the binding problem. Should verify: (1) accuracy of binding varieties (feature, multimodal, temporal), (2) engagement with neural synchrony theories, (3) connection to quantum binding hypothesis and unity-of-consciousness.
 - **Source**: staleness
+- **Generated**: 2026-01-24
+
+### P2: Cross-review llm-consciousness.md considering conceptual acquisition limits
+- **Type**: cross-review
+- **Notes**: New voids article voids/conceptual-acquisition-limits.md develops Fodor's nativist challenge and argues AI may operate in "alien cognition" accessing 12,000+ dimensional concept spaces inaccessible to humans. The llm-consciousness.md concept page should be reviewed to: (1) add cross-link to conceptual-acquisition-limits, (2) integrate discussion of whether LLMs access concepts humans cannot acquire, (3) note implications for determining LLM consciousness if their concept space is fundamentally alien.
+- **Source**: chain (from conceptual-acquisition-limits.md)
 - **Generated**: 2026-01-24
 
 ### P3: Write article on consciousness and language interface
@@ -92,6 +92,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Deep review spontaneous-collapse-theories.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers GRW and CSL spontaneous collapse interpretations as alternatives to Copenhagen and Many Worlds. Should verify: (1) accuracy of GRW/CSL mechanism descriptions, (2) proper treatment of Penrose gravity-induced collapse, (3) connection to site's No Many Worlds tenet and collapse-based framework.
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Added new "Illusionist Challenge" section with argument-from-reason response. Added "Mysterian Caveat" section acknowledging cognitive closure. Added free will connection in Site Perspective linking to agent-causation and luck-objection. Clarified McQueen citation. Added proper hedging on disputed coherence timescale claims. Added comprehensive References section with 8 key sources. Added 6 new frontmatter cross-links (illusionism, mysterianism, free-will, agent-causation, explanatory-gap, prebiotic-collapse) and 5 new Further Reading entries.
+- **Output**: concepts/spontaneous-collapse-theories.md (modified), reviews/deep-review-2026-01-24-spontaneous-collapse-theories.md
 
 ### ✓ 2026-01-24: Deep review quantum-probability-and-consciousness.md
 - **Type**: deep-review
