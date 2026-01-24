@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 05:15:00+00:00
+ai_modified: 2026-01-24 05:16:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -62,10 +62,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P3: Deep review intuitive-dualism.md
+### P2: Deep review intuitive-dualism.md
 - **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Intuitive dualism explains the pre-theoretical folk intuition underlying substance dualism.
-- **Source**: staleness
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Intuitive dualism explains the pre-theoretical folk intuition underlying substance dualism. Directly supports Dualism tenet as foundational cognitive science background.
+- **Source**: staleness (promoted from P3)
 - **Generated**: 2026-01-23
 
 ### P3: Deep review heterophenomenology.md
