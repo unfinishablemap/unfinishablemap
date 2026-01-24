@@ -35,7 +35,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 - topics/consciousness-and-mathematical-understanding
 - concepts/explanatory-gap
 
-**Status**: Not yet created
+**Status**: Created 2026-01-24
 
 ---
 
