@@ -1,14 +1,15 @@
 ---
 title: "Interactionist Dualism"
 created: 2026-01-14
-modified: 2026-01-22
+modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-23T09:45:00+00:00
+ai_modified: 2026-01-24T04:18:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
 concepts:
+  - "[[psychophysical-coupling-mechanisms]]"
   - "[[psychophysical-laws]]"
   - "[[evolution-of-consciousness]]"
   - "[[dualism]]"
@@ -301,6 +302,22 @@ Several findings would challenge the framework:
 
 The theory is speculative, not unfalsifiable. It makes claims about where consciousness interfaces with physics, and those claims can be investigated empirically—even if the selection mechanism itself preserves statistics.
 
+## Psychophysical Coupling Mechanisms
+
+Beyond identifying *where* consciousness might interface with physics (quantum indeterminacies), interactionism faces a specification problem: *which* phenomenal properties map to *which* physical selections? Five candidate [[psychophysical-coupling-mechanisms]] have been proposed, varying in development and evidential support:
+
+| Mechanism | Phenomenal Property | Physical Selection | Development |
+|-----------|-------------------|-------------------|-------------|
+| Attention→Observation | Focus, effort | Measurement rate | High |
+| Intention→Probability | Volition, willing | Vesicle release | Medium |
+| Valence→Motivation | Pleasure/pain | Action selection | Low |
+| Qualia→Basis | Qualitative character | Measurement basis | Very low |
+| Unity→Entanglement | Phenomenal binding | Sustained coherence | Low |
+
+Stapp's attention mechanism provides the most developed specification: the phenomenology of mental effort corresponds to the rate of quantum observations that freeze desired neural patterns via the Zeno effect. Eccles' intention mechanism offers moderate specification—volition modulates vesicle release probability—but faces the [[pairing-problem|pairing problem]]. The remaining three identify plausible phenomenal properties that *should* have physical effects if interactionism is true, but lack developed accounts of *how* the coupling works.
+
+What makes a coupling mechanism scientifically adequate? Three criteria emerge: (1) **precision**—specifying which phenomenal property maps to which physical parameter; (2) **mechanism**—providing a physical pathway for the influence; (3) **falsifiability**—generating predictions that could fail. By these criteria, only the attention and intention mechanisms meet basic adequacy standards, and both face serious objections. This specification challenge—what Jonathan Schaffer calls the "t-shirt problem"—remains central to evaluating interactionism's scientific status.
+
 ## The Decoherence Objection
 
 Critics argue that quantum effects in the brain decohere far too fast to matter. Max Tegmark calculated decoherence times of around 10^-13 seconds—far shorter than the timescales relevant to thought or behavior. The brain is too warm, wet, and noisy for quantum coherence.
@@ -396,6 +413,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 ## Further Reading
 
+- [[psychophysical-coupling-mechanisms]] — Five candidate mechanisms specifying how phenomenal properties map to physical selections
 - [[conservation-laws-and-mind]] — Why the energy conservation objection fails: conservation is local and conditional, and the "selection not injection" framework
 - [[stapp-quantum-mind]] — The most concrete mechanism for consciousness-brain interaction via quantum Zeno effect
 - [[psychophysical-laws]] — Chalmers' framework for fundamental psychophysical laws and where the Map diverges
