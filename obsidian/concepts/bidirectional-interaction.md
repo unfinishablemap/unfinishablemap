@@ -1,14 +1,19 @@
 ---
 title: "Bidirectional Interaction"
 created: 2026-01-23
-modified: 2026-01-23
+modified: 2026-01-24
 human_modified:
-ai_modified: 2026-01-23T10:05:00+00:00
+ai_modified: 2026-01-24T07:15:00+00:00
+last_deep_review: 2026-01-24T07:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
 concepts:
+  - "[[psychophysical-coupling-mechanisms]]"
+  - "[[quantum-neural-timing-constraints]]"
+  - "[[voluntary-attention]]"
+  - "[[argument-from-reason]]"
   - "[[interactionist-dualism]]"
   - "[[epiphenomenalism]]"
   - "[[mental-causation]]"
@@ -51,6 +56,10 @@ This makes all introspective reports systematically unreliable—not occasionall
 
 The [[interactionist-dualism#Argument 6: Self-Stultification of Epiphenomenalism|self-stultification argument]] shows that epiphenomenalism cannot be rationally held by someone who arrived at it through reasoning about their own experience. If you take consciousness seriously as a topic worth discussing, you've already implicitly accepted that consciousness causally contributes to your discussions.
 
+A related self-defeat argument—the [[argument-from-reason]]—extends this point to physicalism generally: if all beliefs are fully explained by nonrational physical causes, then no belief is rationally justified, including physicalism. Both arguments share the structure of showing a position undermines the rational credentials it needs to be credibly held.
+
+**The illusionist response**: Some philosophers (Frankish, Dennett) argue we can coherently report on consciousness without consciousness doing causal work—our reports describe functional states that merely *seem* phenomenal. But this response concedes too much: the seeming itself is either phenomenal (in which case it needs explanation) or is nothing beyond the functional states (in which case the illusionist is denying consciousness, not explaining its causal role). The self-stultification argument applies to denials of consciousness as much as to epiphenomenalism about it.
+
 ## The Quantum Interface
 
 The traditional objection to bidirectional interaction appealed to [[causal-closure|causal closure]]—the claim that every physical event has a sufficient physical cause. If physics is complete, where could consciousness enter?
@@ -65,15 +74,21 @@ Two concrete mechanisms have been proposed:
 
 Both share what bidirectional interaction requires: consciousness selecting among outcomes physics leaves undetermined.
 
+For detailed specification of how phenomenal properties map to physical parameters, see [[psychophysical-coupling-mechanisms]]. The attention mechanism is currently the most developed, with [[voluntary-attention]] documenting the ~300ms deployment window and neural signatures (frontal theta, DLPFC/ACC activation) that distinguish willed from instructed attention.
+
+### The Timing Challenge
+
+A persistent objection concerns timescales: Tegmark (2000) calculated quantum decoherence at femtoseconds, while neural decisions operate at hundreds of milliseconds—a gap of twelve orders of magnitude. However, this critique assumed specific superposition sites and separation distances. Revised estimates (Hameroff et al.) suggest 10-100 microseconds for microtubule interiors, with theoretical predictions of 1-10 milliseconds for mesoscopic network effects. More significantly, the quantum Zeno mechanism doesn't require sustained coherence; it operates through discrete observation events at neural timescales (~1000 observations per 300ms window). See [[quantum-neural-timing-constraints]] for the full timing hierarchy.
+
 ## Empirical Support
 
 ### The Consciousness-Reasoning Connection
 
-Lieberman et al. (2008) found that cognitive load on conscious processes specifically impairs logical reasoning, while disrupting unconscious systems has no effect. If consciousness were epiphenomenal, it could not enable cognitive functions that unconscious processing cannot achieve.
+The conscious/unconscious processing literature reveals systematic asymmetries. The [[conscious-vs-unconscious-processing|2025 meta-analysis]] by Randeniya found that only 10% of claimed unconscious processing effects survive rigorous methodology—most purported demonstrations of "unconscious cognition" reflect weak stimuli or brief exposure, not genuine bypassing of consciousness. Bayne and Hohwy's experimental tests distinguish three functions requiring consciousness: durable maintenance (keeping information available beyond brief windows), novel combinations (creating new representations from existing elements), and spontaneous intentional action (initiating behavior without external triggers). If consciousness were epiphenomenal, it could not enable functions that unconscious processing cannot achieve.
 
 ### The Baseline Cognition Gap
 
-The [[consciousness-independent-baseline-cognition|baseline cognition hypothesis]] observes that great apes demonstrate sophisticated cognition—tool use, social learning, procedural skills—yet cannot perform logical reasoning, counterfactual thinking, or build cumulative culture. Humans do all of these, and they appear to require conscious processing. If consciousness causes nothing, why do cognitive functions requiring consciousness systematically correlate with human distinctiveness?
+The [[baseline-cognition|baseline cognition hypothesis]] observes that great apes demonstrate sophisticated cognition—tool use, social learning, procedural skills—yet cannot perform logical reasoning, counterfactual thinking, or build cumulative culture (Tomasello 2014, 2019). Humans do all of these, and they appear to require conscious processing. If consciousness causes nothing, why do cognitive functions requiring consciousness systematically correlate with human distinctiveness?
 
 ### Evolutionary Convergence
 
@@ -118,18 +133,26 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 
 ## Further Reading
 
+- [[psychophysical-coupling-mechanisms]] — Specification of how phenomenal properties map to physical parameters
+- [[quantum-neural-timing-constraints]] — The timing hierarchy from decoherence to neural decisions
+- [[argument-from-reason]] — Complementary self-defeat argument targeting physicalism
+- [[voluntary-attention]] — The attention interface with neural evidence
 - [[interactionist-dualism]] — Comprehensive treatment of the philosophical framework
 - [[epiphenomenalism]] — The view this tenet rejects
 - [[mental-causation]] — The broader problem of how mind causes anything
 - [[causal-closure]] — The closure objection and its limits
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism in detail
 - [[consciousness-as-intelligence-amplifier]] — Evolutionary evidence for causal efficacy
-- [[consciousness-independent-baseline-cognition]] — The great ape comparison
+- [[baseline-cognition]] — The great ape comparison
 - [[downward-causation]] — Top-down causation more generally
 - [[tenets]] — The Map's foundational commitments
 
 ## References
 
+- Bayne, T., & Hohwy, J. (2025). "Testing the functions of consciousness: Experimental criteria and interim findings." *Consciousness and Cognition*, 116, 103502.
 - Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-- Lieberman, M. D. et al. (2008). "An fMRI investigation of race-related amygdala activity in African-American and Caucasian-American individuals." *Nature Neuroscience*, 8(6), 720-722.
+- Randeniya, R. et al. (2025). "How much cognition occurs outside of awareness? A meta-analysis and systematic review." *Neuroscience & Biobehavioral Reviews*, 158, 105467.
 - Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+- Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
+- Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
+- Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
