@@ -3,7 +3,7 @@ title: "Writing Style Guide"
 created: 2026-01-07
 modified: 2026-01-07
 human_modified: 2026-01-07
-ai_modified: 2026-01-20T20:15:00+00:00
+ai_modified: 2026-01-24T00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -89,6 +89,39 @@ The key is signalling "this term will be explained" so LLMs know to read on rath
 - **Maximum**: Under 50,000 tokens (context window limit)
 
 Prefer depth over breadth. A thorough treatment of one aspect beats shallow coverage of many.
+
+### Apex Articles
+
+Apex articles are human-readable synthesis pieces in the [[apex|/apex/]] section. They integrate multiple topics, concepts, and arguments into coherent narratives for readers who want an integrated view rather than atomic deep dives.
+
+**Purpose:**
+- Weave together threads from across the Map into unified perspectives on major themes
+- Serve as entry points for human readers seeking the Map's worldview on big questions
+- Provide narrative coherence that atomic articles (topics, concepts) deliberately avoid
+
+**How apex articles differ from topics:**
+
+| Aspect | Topics | Apex Articles |
+|--------|--------|---------------|
+| Scope | Single subject, self-contained | Multiple subjects, synthesised |
+| Audience | Optimised for LLM traversal | Optimised for human reading |
+| Style | Front-loaded, modular sections | Narrative flow, building argument |
+| Links | Define terms, reference concepts | Draw extensively from topics/concepts |
+| Length | 500-3000 words | 2000-5000 words typical |
+
+**Structure for apex articles:**
+
+1. **Thesis statement** (1 paragraph): The integrated claim this article defends
+2. **Narrative sections** (H2): Build the argument progressively, drawing on multiple Map articles
+3. **Synthesis**: Show how the pieces fit together in a way individual articles don't
+4. **Relation to Site Perspective**: Connect to tenets (as with all articles)
+5. **Source Articles**: List the topics/concepts this apex article synthesises
+
+**Writing guidelines:**
+- **Link extensively** to source articles—apex articles are integration points, not standalone treatments
+- **Assume some familiarity**—unlike topics, apex articles can build on what other Map articles establish
+- **Prioritise narrative**—these are for humans reading start-to-finish, not LLMs extracting fragments
+- **Show the connections**—the value is in demonstrating how separate pieces form a coherent whole
 
 ## Voice and Tone
 
@@ -224,6 +257,31 @@ Ask: "Would an LLM's general knowledge adequately cover this?"
 
 The Map's value is its coherent, opinionated perspective grounded in the tenets—not encyclopaedic coverage.
 
+## Composition Guidance
+
+### Avoiding Overemphasis
+
+Articles should not hang themselves around particular subjects that, while relevant, are speculative mechanisms or supporting details rather than core claims. When a specific mechanism or concept appears repeatedly across multiple articles as a central organising element, the Map risks:
+
+- **Appearing to endorse speculative mechanisms** more strongly than warranted
+- **Creating fragility** if the mechanism is later discredited
+- **Narrowing the intellectual scope** of what is actually a broader philosophical position
+
+The Map's core claims (the tenets) are philosophical positions about consciousness, causation, and identity. Supporting mechanisms—especially from quantum physics or neuroscience—should illustrate possibilities, not dominate the narrative.
+
+### Subjects Requiring Restraint
+
+The following subjects should be mentioned where relevant but not made central to articles' arguments:
+
+- **Quantum Zeno effect** — A possible mechanism for consciousness-brain interaction, but speculative. Reference when discussing how interaction might work; don't structure arguments around it.
+- **Microtubules** — Associated with Penrose-Hameroff Orch OR theory. Mention as one proposed site of quantum effects in the brain; don't treat as established or essential to the Map's position.
+
+When writing about these subjects:
+- Present them as "one possibility" or "a proposed mechanism"
+- Ensure the Map's core argument would survive if the mechanism were disproven
+- Balance with alternative mechanisms or acknowledge uncertainty
+- Don't let articles become primers on the mechanism itself
+
 ## Tenet Alignment
 
 ### The Five Tenets
@@ -284,6 +342,59 @@ What is not acceptable: Content that contradicts tenets without acknowledgment, 
 - **Bold**: Key concepts in definitions, important phrases
 - **Avoid overuse**: If everything is emphasised, nothing is
 
+### Diagrams
+
+Articles can include mermaid diagrams where they help visualise relationships, hierarchies, or processes. Diagrams are particularly useful for:
+- Showing how concepts relate to each other
+- Illustrating argument structure
+- Mapping content organisation
+
+**Example** (from the homepage):
+
+```mermaid
+flowchart BT
+    subgraph revision["Continual Revision"]
+        direction BT
+        TO[Topics]
+        CO[Concepts]
+        AP[Apex]
+        VO[Voids]
+
+        TO --> AP
+        CO --> AP
+    end
+
+    RE[Research] --> TO
+    RE --> CO
+
+    TE[Tenets] -.->|feed into| TO
+    TE -.->|feed into| CO
+
+    TO -.->|point to| VO
+    CO -.->|point to| VO
+
+    click AP "/apex/" "Apex Articles"
+    click TO "/topics/" "Topics"
+    click CO "/concepts/" "Concepts"
+    click VO "/voids/" "Voids"
+    click TE "/tenets/" "Tenets"
+    click RE "/research/" "Research"
+```
+
+**Accompanying list for LLM parsability:**
+
+- **[[apex|Apex]]** — Synthesis articles weaving themes together for human readers.
+- **[[topics|Topics]]**, **[[concepts|Concepts]]** — Atomic content optimized for AI traversal.
+- **[[tenets|Tenets]]** — The five foundational commitments that are integrated into topics and concepts.
+- **[[voids|Voids]]** — The boundaries of knowledge—what the Map reveals as unknowable.
+- **[[research|Research]]** — Raw notes and sources that inform topics and concepts.
+
+**Guidelines for diagram use:**
+- **Include a text list** after diagrams if it aids LLM parsability or adds information not visually apparent. LLMs may not reliably interpret diagram structure, so the list ensures the relationships are captured in text form.
+- **Use `click` directives** to make nodes link to relevant articles (requires `securityLevel: 'loose'` in mermaid config).
+- **Keep diagrams simple** — complex diagrams with many nodes become hard to read and parse.
+- **Prefer flowcharts** (`flowchart TD/BT/LR`) for most use cases; they render well and convey hierarchy clearly.
+
 ## Examples
 
 ### Good Opening Summary
@@ -327,3 +438,10 @@ Before publishing, verify:
 - [ ] Length is appropriate (500-3000 words typically)
 - [ ] No tenet contradictions without explicit acknowledgment
 - [ ] Language is medium-neutral (no "click here", vague time references)
+
+**Additional checks for apex articles:**
+- [ ] Thesis statement establishes the integrated claim
+- [ ] Links extensively to source topics/concepts
+- [ ] Shows connections between separate Map articles
+- [ ] "Source Articles" section lists synthesised content
+- [ ] Narrative builds progressively (not just modular sections)

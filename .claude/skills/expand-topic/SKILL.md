@@ -149,6 +149,19 @@ feat(content): Add article on [topic]
 Based on research: [yes/no]
 ```
 
+### 9. Check Apex Sources
+
+After creating the article, check if it's a source for any apex article:
+
+1. Read `obsidian/apex/apex-articles.md`
+2. For each apex article entry, check if the new article path appears in `Source articles`
+3. If yes, add a task to `obsidian/workflow/todo.md`:
+   ```markdown
+   - [ ] P2 apex-evolve: [apex-slug] — source [new-article] created
+   ```
+
+This ensures apex articles are updated when their source content changes.
+
 ## Content Guidelines
 
 Follow the comprehensive guidance in `obsidian/project/writing-style.md`.

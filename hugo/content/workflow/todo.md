@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 20:15:00+00:00
+ai_modified: 2026-01-24 13:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review quantum-biology.md considering neural mechanisms research
-- **Type**: cross-review
-- **Notes**: Research research/quantum-biology-neural-mechanisms-2026-01-24.md covers five neural-specific mechanisms with 2024-2025 experimental updates. The quantum-biology.md concept page should be reviewed to: (1) add neural-specific section or expand existing, (2) update decoherence discussion with revised timescale estimates (10-100μs in protected environments), (3) add Quantum Zeno effect precedent from cryptochrome studies.
-- **Source**: chain (from quantum-biology-neural-mechanisms research)
-- **Generated**: 2026-01-24
 
 ### P2: Deep review objectivity-and-consciousness.md
 - **Type**: deep-review
@@ -99,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Cross-review quantum-biology.md considering neural mechanisms research
+- **Type**: cross-review
+- **Notes**: Research research/quantum-biology-neural-mechanisms-2026-01-24.md covers five neural-specific mechanisms with 2024-2025 experimental updates. The quantum-biology.md concept page should be reviewed to: (1) add neural-specific section or expand existing, (2) update decoherence discussion with revised timescale estimates (10-100μs in protected environments), (3) add Quantum Zeno effect precedent from cryptochrome studies.
+- **Result**: Added new "Neural-Specific Quantum Mechanisms" section (~350 words) covering: (1) ion channel quantum tunneling, (2) Beck-Eccles-Georgiev synaptic tunneling with SNARE proteins, (3) Fisher's Posner molecule hypothesis. Enhanced magnetoreception section with 2024 Nature Communications Quantum Zeno findings. Updated decoherence discussion with 10-100μs timescale estimates and 2024-2025 evidence. Added cross-references to stapp-quantum-mind and research notes.
+- **Output**: concepts/quantum-biology.md (modified)
 
 ### ✓ 2026-01-24: Cross-review indexical-identity-quantum-measurement.md considering quantum probability insights
 - **Type**: cross-review

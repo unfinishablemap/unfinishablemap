@@ -15,6 +15,7 @@ last_runs:
   research-voids: '2026-01-24T19:45:00+00:00'
   coalesce: '2026-01-24T18:00:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
+  apex-evolve: null
 cadences:
   validate-all: 24
   pessimistic-review: 12
@@ -26,6 +27,7 @@ cadences:
   research-voids: 24
   coalesce: 8
   tweet-highlight: 24
+  apex-evolve: 168  # Weekly - apex articles evolve slowly
 overdue_thresholds:
   validate-all: 48
   pessimistic-review: 24
@@ -37,6 +39,7 @@ overdue_thresholds:
   research-voids: 48
   coalesce: 16
   tweet-highlight: 12
+  apex-evolve: 336  # 2 weeks overdue threshold
 scheduled_hours:
   tweet-highlight: 7
 last_git_push: '2026-01-24T07:23:24.048625+00:00'
@@ -59,6 +62,7 @@ progress:
   voids_written: 11
   research_notes: 118
   reviews_completed: 529
+  apex_articles: 0  # Target: 10-20 total
 quality:
   critical_issues: 0
   medium_issues: 10

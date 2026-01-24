@@ -172,6 +172,7 @@ The Map includes scheduled AI automation for content development. All AI-generat
 | `/tweet-highlight` | Tweet the most recent untweeted highlight. Scheduled for 7am UTC daily. | No (external only) |
 | `/outer-review` | Commission and process external AI analysis to reduce blind spots | Yes (creates review, tasks) |
 | `/coalesce` | Combine multiple related articles into one unified piece. Archives originals to preserve URLs. | Yes (creates, archives) |
+| `/apex-evolve` | Build and maintain apex articles—human-readable synthesis pieces. | Yes (creates, modifies) |
 
 ### Task Queue
 
