@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-23 10:13:00+00:00
+ai_modified: 2026-01-24 01:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[attention-motor-quantum-interface]]'
 - '[[stapp-quantum-mind]]'
 - '[[retrocausality]]'
 - '[[locality]]'
@@ -33,7 +34,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[mysterianism-cognitive-closure]]'
 created: 2026-01-09
-date: &id001 2026-01-23
+date: &id001 2026-01-24
 draft: false
 human_modified: null
 last_curated: null
@@ -115,6 +116,14 @@ See [stapp-quantum-mind](/concepts/stapp-quantum-mind/) for comprehensive treatm
 ### The Mechanism
 
 Stapp's approach uses orthodox quantum mechanics—no new physics required. The quantum Zeno effect states that repeatedly "observing" a quantum system can prevent its evolution, effectively "freezing" it in place.
+
+### Attention-Motor Unification
+
+The [premotor theory of attention](/concepts/attention-motor-quantum-interface/) (PMTA) provides striking support for Stapp's framework. PMTA proposes that attention and motor planning share the same neural substrates—attention shifts *are* motor plans. If Stapp's quantum Zeno mechanism operates through attention, and attention is fundamentally motor planning, then a single quantum selection mechanism underlies both domains.
+
+The timing evidence is compelling. Motor commitment occurs approximately 280ms before movement onset, while willed attention deployment takes approximately 300ms. This convergence—within experimental error—suggests a common selection mechanism operating on a ~300ms timescale. Both domains show frontal theta oscillations, bidirectional frontoparietal coherence, and the distinctive phenomenology of effort. The parallelism extends to phenomenology: sustaining motor intention feels effortful for the same reason sustaining attention feels effortful—both require continuous Zeno observation to hold preferred neural patterns stable.
+
+This unification matters because two independent domains showing identical selection architecture provides stronger evidence than one. If the quantum Zeno mechanism were retrofitted to attention alone, the motor-selection parallels would be surprising. That both attention ("what to attend to") and motor control ("what to do") show the same neural signatures, timing, and phenomenology suggests a genuine underlying principle rather than theoretical coincidence.
 
 The proposal:
 
@@ -529,6 +538,7 @@ The decoherence objection remains the most serious challenge. If quantum coheren
 
 ## Further Reading
 
+- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — Unification of premotor theory of attention with quantum Zeno mechanism, showing attention and motor selection share a single interface
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Comprehensive treatment of Stapp's quantum Zeno mechanism, effort phenomenology, and two modes of consciousness
 - [luck-objection](/concepts/luck-objection/) — Why quantum selection escapes the luck objection to free will
 - [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) — What a coupling law between mind and physics must specify

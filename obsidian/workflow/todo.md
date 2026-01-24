@@ -1,9 +1,9 @@
 ---
 title: AI Task Queue
 created: 2026-01-05
-modified: 2026-01-23
+modified: 2026-01-24
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-24T00:20:00+00:00
+ai_modified: 2026-01-24T01:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review quantum-zeno-effect.md considering attention-motor quantum interface
-- **Type**: cross-review
-- **Notes**: New article concepts/attention-motor-quantum-interface.md unifies the premotor theory of attention (PMTA) with Stapp's quantum Zeno mechanism, showing attention shifts ARE motor plans operating through the same quantum selection mechanism. The quantum-consciousness.md article should be reviewed to: (1) add cross-link to attention-motor-quantum-interface, (2) integrate the PMTA evidence that strengthens Stapp's attention mechanism, (3) note the ~280ms/~300ms timing convergence as additional constraint on quantum Zeno dynamics.
-- **Source**: chain (from attention-motor-quantum-interface.md)
-- **Generated**: 2026-01-24
-
 ### P2: Deep review qualia.md
 - **Type**: deep-review
 - **Notes**: Core concept article referenced throughout the Map. Given recent work on phenomenal consciousness, access consciousness, and baseline cognition, qualia.md should be reviewed to ensure clean distinctions and proper cross-linking.
@@ -67,10 +61,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-23
 
-### P3: Deep review phenomenology.md
+### P2: Deep review phenomenology.md
 - **Type**: deep-review
 - **Notes**: Staleness. Core methodological article (ai_contribution: 100) referenced heavily across the Map but never deep-reviewed. Given the first-person/third-person research, phenomenology.md should be reviewed to ensure it properly distinguishes classical phenomenology (Husserl) from heterophenomenology (Dennett) and connects to neurophenomenology (Varela).
-- **Source**: staleness
+- **Source**: staleness (promoted from P3)
 - **Generated**: 2026-01-23
 
 ### P3: Deep review heterophenomenology.md
@@ -80,6 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Cross-review quantum-consciousness.md considering attention-motor quantum interface
+- **Type**: cross-review
+- **Notes**: New article concepts/attention-motor-quantum-interface.md unifies the premotor theory of attention (PMTA) with Stapp's quantum Zeno mechanism, showing attention shifts ARE motor plans operating through the same quantum selection mechanism. The quantum-consciousness.md article should be reviewed to: (1) add cross-link to attention-motor-quantum-interface, (2) integrate the PMTA evidence that strengthens Stapp's attention mechanism, (3) note the ~280ms/~300ms timing convergence as additional constraint on quantum Zeno dynamics.
+- **Result**: Added [[attention-motor-quantum-interface]] to frontmatter concepts (first position). Added new "Attention-Motor Unification" subsection under "The Mechanism" heading explaining: (1) the PMTA claim that attention and motor planning share substrates, (2) the ~280ms/~300ms timing convergence between motor commitment and willed attention deployment as evidence for common mechanism, (3) how this provides stronger evidence than attention alone—two independent domains with identical selection architecture. Added attention-motor-quantum-interface as first entry in Further Reading.
+- **Output**: concepts/quantum-consciousness.md
 
 ### ✓ 2026-01-24: Cross-review phenomenal-unity.md considering unity-of-consciousness article
 - **Type**: cross-review

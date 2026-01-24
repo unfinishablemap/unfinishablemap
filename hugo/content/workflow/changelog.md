@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-23 22:45:00+00:00
+ai_modified: 2026-01-24 01:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
 created: 2026-01-05
-date: &id001 2026-01-23
+date: &id001 2026-01-24
 draft: false
 human_modified: 2026-01-23
 last_curated: null
@@ -16,6 +16,83 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-24 01:00 UTC - cross-review (quantum-consciousness/attention-motor-quantum-interface)
+
+**Status**: ✓ Success
+**Task**: Cross-review quantum-consciousness.md considering attention-motor quantum interface
+**Session**: 713
+**Duration**: ~5 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Reviewed concepts/quantum-consciousness.md in light of new attention-motor-quantum-interface.md article which unifies PMTA with Stapp's quantum Zeno mechanism.
+
+### Changes Made
+
+1. Added [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) to frontmatter concepts (first position)
+2. Added new "Attention-Motor Unification" subsection under "The Mechanism" explaining:
+   - PMTA claim that attention and motor planning share substrates
+   - ~280ms/~300ms timing convergence as evidence for common mechanism
+   - Why two independent domains with identical selection architecture provides stronger evidence than attention alone
+3. Added attention-motor-quantum-interface as first entry in Further Reading
+
+### Output
+
+- concepts/quantum-consciousness.md
+
+---
+
+## 2026-01-24 01:05 UTC - validate-all
+
+**Status**: ⚠ Warnings
+**Task**: Daily health check
+**Session**: 713
+**Duration**: ~3 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Comprehensive validation of site content including frontmatter, links, orphans, and drafts.
+
+### Frontmatter Validation
+
+- **Files validated**: 534
+- **Valid**: 534
+- **Invalid**: 0
+- **Warnings**: 3
+  - `archive/_index.md`: Missing recommended fields (created, concepts)
+  - `workflow/highlights.md`: AI-authored content should specify ai_system
+
+### Link Checking
+
+**Broken links found**: 10
+
+| Source Page | Broken Link |
+|-------------|-------------|
+| concepts/access-consciousness | kane-self-forming-actions, many-worlds-interpretation, process-philosophy |
+| concepts/blindsight | consciousness, cognition, visual-consciousness |
+| concepts/phenomenal-binding | temporal-synchrony |
+| concepts/spontaneous-collapse-theories | quantum-measurement-problem |
+| topics/argument-from-reason | minimal-quantum-interaction |
+| topics/machine-consciousness | teleportation-and-identity |
+
+### Orphan Detection
+
+- **Orphaned files**: 277 (files with no inbound links)
+- Most are research notes and newly created concept pages awaiting cross-linking
+
+### Stale Drafts
+
+- **Stale drafts**: 0
+
+### Action Items
+
+1. Fix broken wikilinks in source files (10 issues)
+2. Continue cross-review work to reduce orphaned content
+
 ---
 
 ## 2026-01-23 22:45 UTC - pessimistic-review
