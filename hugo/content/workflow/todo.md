@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 07:49:19+00:00
+ai_modified: 2026-01-24 08:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,6 +50,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-24
 
+### P2: Write article on quantum biology neural mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-mechanisms-2026-01-24.md. Covers five quantum biological mechanisms proposed for neural systems: radical pair mechanisms in cryptochromes, ion channel quantum tunneling, Fröhlich condensation in microtubules, Beck-Eccles/Georgiev SNARE model, and Fisher's Posner molecule hypothesis. Key for supporting Minimal Quantum Interaction tenet with biological precedents.
+- **Source**: chain (from quantum-biology-neural-mechanisms research)
+- **Generated**: 2026-01-24
+
+### P2: Write article on quantum measurement and subjective probability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. Examines QBism, consciousness-collapse, and relational interpretations of quantum probability. Critical for addressing how different QM interpretations handle the Born rule and observer status. Connects to site's Minimal Quantum Interaction and No Many Worlds tenets.
+- **Source**: chain (from quantum-measurement-subjective-probability research)
+- **Generated**: 2026-01-24
+
+### P2: Cross-review quantum-biology.md considering neural mechanisms research
+- **Type**: cross-review
+- **Notes**: Research research/quantum-biology-neural-mechanisms-2026-01-24.md covers five neural-specific mechanisms with 2024-2025 experimental updates. The quantum-biology.md concept page should be reviewed to: (1) add neural-specific section or expand existing, (2) update decoherence discussion with revised timescale estimates (10-100μs in protected environments), (3) add Quantum Zeno effect precedent from cryptochrome studies.
+- **Source**: chain (from quantum-biology-neural-mechanisms research)
+- **Generated**: 2026-01-24
+
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
@@ -93,6 +111,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Cross-review stapp-quantum-mind.md considering psychophysical coupling mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/psychophysical-coupling-mechanisms.md elaborates five coupling mechanisms including Stapp's attention-as-observation-rate. The stapp-quantum-mind.md page should be reviewed to: (1) add cross-link to psychophysical-coupling-mechanisms, (2) integrate the attention rate specification details, (3) note the decoherence objection and post-decoherence response.
+- **Result**: Review found all requested integrations already present from a previous deep-review (2026-01-22T21:16:05+00:00): (1) [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) in frontmatter concepts, (2) "Comparative Standing" section at lines 69-72 discussing all five mechanisms and their relative development, (3) decoherence objection with post-decoherence response at line 215, (4) cross-link in Further Reading section. No changes needed.
+- **Output**: (none—already complete)
 
 ### ✓ 2026-01-24: Deep review unity-of-consciousness.md
 - **Type**: deep-review
