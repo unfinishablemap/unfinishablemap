@@ -3,7 +3,7 @@ title: "Machine Consciousness and Mind Uploading"
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-23T00:37:00+00:00
+ai_modified: 2026-01-24T04:27:53+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[haecceity]]"
   - "[[decoherence]]"
   - "[[personal-identity]]"
-  - "[[teleportation-and-identity]]"
+  - "[[personal-identity]]"
 related_articles:
   - "[[tenets]]"
   - "[[ai-machine-consciousness-2026-01-08]]"
@@ -289,7 +289,7 @@ The convergence across tenets is striking. Each independently suggests uploading
 - [[functionalism]] — The view substrate independence depends on
 - [[haecceity]] — The thisness that uploading threatens
 - [[personal-identity]] — What makes a future consciousness count as you
-- [[teleportation-and-identity]] — Parallel questions about consciousness through discontinuity
+- Teleportation and identity — Parallel questions about consciousness through discontinuity
 - [[quantum-consciousness]] — Candidate mechanisms for consciousness-matter interface
 - [[decoherence]] — The quantum coherence challenge in silicon
 - [[hard-problem-of-consciousness]] — Why copying function doesn't preserve experience

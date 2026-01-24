@@ -3,7 +3,7 @@ title: "Stapp's Quantum Mind Model"
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-23T18:48:25+00:00
+ai_modified: 2026-01-24T04:29:30+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -198,7 +198,7 @@ This framework avoids the standard objections to libertarian free will:
 
 - **Not arbitrary**: Consciousness influences the brain but not distant objects because attention requires neural infrastructure. The boundary follows from how attention works, not from metaphysical fiat.
 
-Whether this constitutes "genuine" libertarian free will depends on prior commitments about what freedom requires. But Stapp's model provides the strongest mechanistic account available for how agent causation could operate within quantum mechanics. See [[kane-self-forming-actions]] and [[agent-causation]] for fuller treatment.
+Whether this constitutes "genuine" libertarian free will depends on prior commitments about what freedom requires. But Stapp's model provides the strongest mechanistic account available for how agent causation could operate within quantum mechanics. See [[agent-causation]] for fuller treatment.
 
 ## Objections and Responses
 

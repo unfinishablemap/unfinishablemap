@@ -3,7 +3,7 @@ title: "Phenomenal Binding"
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-01-23T02:39:23.950617+00:00
+ai_modified: 2026-01-24T04:27:53+00:00
 draft: false
 topics:
   - "[[binding-problem]]"
@@ -12,7 +12,6 @@ concepts:
   - "[[phenomenal-unity]]"
   - "[[multimodal-integration]]"
   - "[[combination-problem]]"
-  - "[[temporal-synchrony]]"
   - "[[global-workspace-theory]]"
   - "[[quantum-consciousness]]"
 related_articles:
@@ -111,7 +110,7 @@ On this view, phenomenal binding doesn't need explanation via neural mechanisms 
 - [[hard-problem-of-consciousness]] — Why physical processes produce experience at all
 - [[quantum-consciousness]] — Quantum mechanisms for consciousness including Orch OR
 - [[global-workspace-theory]] — Neural account of information integration
-- [[temporal-synchrony]] — Oscillatory binding mechanisms
+- Temporal synchrony — Oscillatory binding mechanisms
 - [[interactionist-dualism]] — How consciousness causally influences neural binding
 
 ### External Sources

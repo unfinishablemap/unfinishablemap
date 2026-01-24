@@ -3,7 +3,7 @@ title: "Access Consciousness"
 created: 2026-01-22
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-23T12:15:00+00:00
+ai_modified: 2026-01-24T04:27:53+00:00
 draft: false
 last_deep_review: 2026-01-23T12:15:00+00:00
 topics:
@@ -161,7 +161,7 @@ Conscious influence operates at stage 2: by modulating attention, consciousness 
 
 **Why this preserves dualism**: The selection process (what becomes A-conscious) cannot be fully explained by prior physical states if consciousness genuinely intervenes. The *machinery* of access (global workspace, prefrontal-parietal networks) is physical, but what *drives* the selection may be phenomenal consciousness operating through quantum-level interactions. See [[causal-closure]] for how this avoids violating conservation laws.
 
-**Free will connection**: Libertarian free will requires that agents genuinely select among alternatives. A-consciousness is where these alternatives become explicit—available for deliberation and choice. [[Phenomenology-of-choice|The phenomenology of choice]] includes experiencing options, deliberating, "gathering oneself" to act. This is the phenomenology of the access-machinery in operation, with consciousness determining what gets accessed and ultimately acted upon. See [[free-will]] and [[kane-self-forming-actions]].
+**Free will connection**: Libertarian free will requires that agents genuinely select among alternatives. A-consciousness is where these alternatives become explicit—available for deliberation and choice. [[Phenomenology-of-choice|The phenomenology of choice]] includes experiencing options, deliberating, "gathering oneself" to act. This is the phenomenology of the access-machinery in operation, with consciousness determining what gets accessed and ultimately acted upon. See [[free-will]] and Kane's account of self-forming actions.
 
 ## Relation to Site Perspective {#tenets}
 
@@ -187,7 +187,7 @@ This preserves minimalism: consciousness intervenes at quantum indeterminacies, 
 
 ### No Many Worlds
 
-The [[many-worlds-interpretation|Many Worlds Interpretation]] of quantum mechanics implies that all possible outcomes occur across branches. If consciousness operates through quantum selection (as Stapp proposes), MWI threatens to make that selection illusory—you experience the outcome on your branch, but other versions of you experience other outcomes on other branches.
+The [[many-worlds|Many Worlds Interpretation]] of quantum mechanics implies that all possible outcomes occur across branches. If consciousness operates through quantum selection (as Stapp proposes), MWI threatens to make that selection illusory—you experience the outcome on your branch, but other versions of you experience other outcomes on other branches.
 
 **MWI proponents respond** with self-locating uncertainty: before measurement, you don't know which branch you'll find yourself on, so subjective probability still applies. The Deutsch-Wallace decision-theoretic approach derives the Born rule from rational constraints on branching. On this view, "which branch am I on?" is a meaningful question with a definite answer given by observation.
 
@@ -222,7 +222,7 @@ See [[qualia]] for the positive case that phenomenal properties are real, and [[
 
 ## Process Philosophy Perspective
 
-[[Process-philosophy|Process philosophy]] emphasizes becoming over being, relations over substances. From this view, access consciousness is the *relational aspect* of consciousness—how a moment of experience is *related to* subsequent cognitive processes (reasoning, action, memory).
+Process philosophy (in the tradition of Whitehead) emphasizes becoming over being, relations over substances. From this view, access consciousness is the *relational aspect* of consciousness—how a moment of experience is *related to* subsequent cognitive processes (reasoning, action, memory).
 
 An experience becomes A-conscious not by having an intrinsic access-property, but by entering into certain relations: it flows into working memory, it shapes motor preparation, it becomes available for verbal report. These relations are real—they constitute what Block is tracking. But they're not identical to the experiential moment itself (P-consciousness).
 

@@ -3,7 +3,7 @@ title: "Deep Review - Stapp's Quantum Mind Model"
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T21:16:05+00:00
+ai_modified: 2026-01-24T04:31:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -97,7 +97,7 @@ last_curated: null
 ### Cross-links Added
 
 - [[explanatory-gap]] in Dualism section
-- [[kane-self-forming-actions]] in new free will section
+- Kane's self-forming actions in new free will section
 
 ### Effective Patterns Identified
 

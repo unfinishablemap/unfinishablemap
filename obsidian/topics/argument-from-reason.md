@@ -3,7 +3,7 @@ title: "The Argument from Reason"
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-01-23T02:23:00+00:00
+ai_modified: 2026-01-24T04:27:53+00:00
 draft: false
 topics:
   - "[[dualism]]"
@@ -78,7 +78,7 @@ Consider: I could survive by fleeing predators because I truly believe "that's a
 
 Plantinga concludes that the combination of naturalism and evolution gives us no reason to trust our cognitive faculties. If our faculties are products of blind selection for adaptive behavior, their reliability at producing *true* beliefs (especially about abstract matters like philosophy) is dubious. This provides a defeater for all beliefs produced by those faculties—including naturalism itself.
 
-The Map's framework addresses this challenge: if consciousness involves [[minimal-quantum-interaction|quantum selection]] guided by phenomenal awareness of logical relationships, then rationality isn't merely a product of blind evolution. Consciousness provides a truth-tracking mechanism that evolution alone cannot.
+The Map's framework addresses this challenge: if consciousness involves [[quantum-consciousness|quantum selection]] guided by phenomenal awareness of logical relationships, then rationality isn't merely a product of blind evolution. Consciousness provides a truth-tracking mechanism that evolution alone cannot.
 
 ## Anscombe's Critique: Causes and Reasons Are Compatible
 

@@ -3,7 +3,7 @@ title: "Consciousness-Independent Baseline Cognition"
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-01-23T02:57:00+00:00
+ai_modified: 2026-01-24T04:31:00+00:00
 draft: false
 topics: []
 concepts:
@@ -80,7 +80,7 @@ The evidence favors option 2 over 3: logical reasoning specifically requires con
 
 The baseline cognition hypothesis strongly supports [[bidirectional-interaction|Bidirectional Interaction]]. If consciousness is causally required for logical reasoning, counterfactual thinking, and cumulative culture—not merely correlated with them—then the very fact that humans engage in these activities provides evidence that consciousness influences neural outcomes. An epiphenomenon causally disconnected from brain states could not enable novel cognitive functions.
 
-The hypothesis also connects to [[minimal-quantum-interaction|Minimal Quantum Interaction]]. If the transition from baseline to human cognition requires conscious contribution, the mechanism might involve quantum selection rather than mere neural elaboration. Great apes and humans share overlapping brain circuitry for basic cognition, with differential investment in specialized networks. The difference may be qualitative (consciousness acts) not just quantitative (more neurons).
+The hypothesis also connects to [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]. If the transition from baseline to human cognition requires conscious contribution, the mechanism might involve quantum selection rather than mere neural elaboration. Great apes and humans share overlapping brain circuitry for basic cognition, with differential investment in specialized networks. The difference may be qualitative (consciousness acts) not just quantitative (more neurons).
 
 Finally, the hypothesis challenges purely functionalist accounts. If metarepresentation requires phenomenal consciousness—not just functional states that represent representations—then property dualism gains support. The cognitive leap from ape to human may require something non-physical: consciousness as a feature that cannot be replicated through functional organization alone.
 
