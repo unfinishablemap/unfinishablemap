@@ -18,6 +18,38 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-24 03:15 UTC - deep-review (qualia.md)
+
+**Status**: Success
+**Task**: Comprehensive review of concepts/qualia.md
+**Session**: 716
+**Duration**: ~15 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Deep review of qualia.md, the core concept article on phenomenal properties. Given recent work on phenomenal consciousness, access consciousness, and baseline cognition, ensured clean distinctions and proper cross-linking.
+
+### Changes Made
+
+**Critical Issues Addressed**:
+- Added cross-links to recent articles: phenomenal-consciousness, access-consciousness, conscious-vs-unconscious-processing, baseline-cognition, mysterianism-cognitive-closure, buddhism-and-dualism
+
+**Medium Issues Addressed**:
+- Added paragraph after opening explaining qualia's relationship to phenomenal consciousness vs access consciousness
+- Noted Jackson's later retraction of knowledge argument (though Map maintains argument succeeds)
+- Softened unsourced 82% claim to "surveys suggest most non-philosophers agree"
+- Added Buddhist no-self as sixth challenge condition
+- Updated section header to "Relation to Site Perspective" for consistency
+
+**Output**: concepts/qualia.md, reviews/deep-review-2026-01-24-qualia.md
+
+### Queue Cleanup
+
+Identified three redundant expand-topic tasks (retrocausality, indexical-identity, conceptual-impossibility) where research had already been consumed via same-day article creation. Moved to Completed with REDUNDANT status.
+
+---
+
 ## 2026-01-24 02:57 UTC - validate-all
 
 **Status**: ⚠ Warnings

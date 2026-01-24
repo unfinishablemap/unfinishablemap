@@ -37,30 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review qualia.md
-- **Type**: deep-review
-- **Notes**: Core concept article referenced throughout the Map. Given recent work on phenomenal consciousness, access consciousness, and baseline cognition, qualia.md should be reviewed to ensure clean distinctions and proper cross-linking.
-- **Source**: staleness (promoted from P3)
-- **Generated**: 2026-01-23
-
-### P2: Write article on retrocausality and neural firing
-- **Type**: expand-topic
-- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Examines presentiment research (pre-stimulus physiological responses) and retrocausal interpretations. Controversial but philosophically significant for the arrow of time, causation, and consciousness's relationship to temporal ordering. Connects to collapse-and-time.md, philosophy-of-time.md, temporal-consciousness.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-24
-
-### P2: Write article on indexical identity and haecceity
-- **Type**: expand-topic
-- **Notes**: Research completed in research/indexical-identity-haecceity-thisness-2026-01-23.md. Examines the "thisness" of individual identity—why am I *this* observer and not another? Critical for the No Many Worlds tenet's argument that indexical questions are meaningful and unanswerable by MWI. Connects to personal-identity.md, indexical-identity-quantum-measurement.md, philosophical-zombies.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-24
-
-### P2: Write article on conceptual impossibility voids
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-conceptual-impossibility-2026-01-23.md. Explores concepts we cannot form or coherently think—a void at the edge of conceivability. Connects to mysterianism.md, cognitive-phenomenology.md, voids section. Supports Occam's Razor Has Limits tenet by examining limits of conceptual access.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-24
-
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
@@ -92,6 +68,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Deep review qualia.md
+- **Type**: deep-review
+- **Notes**: Core concept article referenced throughout the Map. Given recent work on phenomenal consciousness, access consciousness, and baseline cognition, qualia.md should be reviewed to ensure clean distinctions and proper cross-linking.
+- **Result**: Comprehensive deep review conducted. Added cross-links to phenomenal-consciousness, access-consciousness, conscious-vs-unconscious-processing, baseline-cognition, mysterianism-cognitive-closure, and buddhism-and-dualism. Clarified qualia's relationship to phenomenal/access distinction in new introductory paragraph. Added Buddhist no-self as sixth challenge condition. Noted Jackson's later retraction of knowledge argument. Updated section header to "Relation to Site Perspective" for consistency.
+- **Output**: concepts/qualia.md, reviews/deep-review-2026-01-24-qualia.md
+
+### ✓ 2026-01-24: Write article on retrocausality and neural firing (REDUNDANT)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Examines presentiment research (pre-stimulus physiological responses) and retrocausal interpretations.
+- **Result**: Task redundant—research already consumed via cross-review on 2026-01-23 that added "Presentiment Research: A Distinct Evidential Tradition" section to concepts/retrocausality.md. The research recommendation (distinguish physics-based retrocausality from parapsychology) was implemented in that cross-review.
+- **Output**: (none—redundant)
+
+### ✓ 2026-01-24: Write article on indexical identity and haecceity (REDUNDANT)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/indexical-identity-haecceity-thisness-2026-01-23.md. Examines the "thisness" of individual identity.
+- **Result**: Task redundant—research already consumed via same-day article creation on 2026-01-23. Two articles now cover this material: concepts/haecceity.md (~2,900 words covering Scotus, Adams, and connection to MWI) and topics/indexical-identity-quantum-measurement.md (~2,100 words covering how each QM interpretation fails the indexical gap).
+- **Output**: (none—redundant)
+
+### ✓ 2026-01-24: Write article on conceptual impossibility voids (REDUNDANT)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-conceptual-impossibility-2026-01-23.md. Explores concepts we cannot form or coherently think.
+- **Result**: Task redundant—research already consumed via same-day article creation on 2026-01-23. Article voids/conceptual-impossibility.md (~2,800 words) covers the phenomenology of conceptual impossibility, matching the first article angle from research notes.
+- **Output**: (none—redundant)
 
 ### ✓ 2026-01-24: Cross-review quantum-consciousness.md considering attention-motor quantum interface
 - **Type**: cross-review
