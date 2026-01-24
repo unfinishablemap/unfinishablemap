@@ -3,7 +3,7 @@ title: "Mysterianism and Cognitive Closure"
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-21T19:20:00+00:00
+ai_modified: 2026-01-25T00:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[introspection]]"
   - "[[decoherence]]"
   - "[[consciousness-and-mathematical-understanding]]"
+  - "[[conceptual-acquisition-limits]]"
 related_articles:
   - "[[tenets]]"
   - "[[mysterianism-cognitive-closure-2026-01-14]]"
@@ -70,6 +71,24 @@ Noam Chomsky offered a related distinction between "problems" and "mysteries." P
 Chomsky argued there's no reason to assume human cognitive capacities are unlimited. We're biological organisms with specific cognitive architectures shaped by evolution for specific purposes. Some questions may fall outside what that architecture can handle.
 
 Consciousness might be such a mystery. The [[explanatory-gap]] persists despite centuries of philosophical and scientific effort. Perhaps it persists not because we haven't tried hard enough but because trying harder won't help. The gap may be our cognitive closure made visible.
+
+## Concept Nativism and Cognitive Closure
+
+Jerry Fodor's [[conceptual-acquisition-limits|radical concept nativism]] provides a complementary framework to McGinn's cognitive closure. While McGinn argues we cannot *conceive* certain properties, Fodor argues we cannot *acquire* certain concepts at all—they must be innate or forever inaccessible.
+
+Fodor's argument begins with a circularity problem: learning a concept like CAT requires testing whether furry-four-legged-things are cats, but formulating this hypothesis already requires possessing CAT. Experience doesn't teach concepts; it triggers concepts already present in our cognitive architecture. If the concept isn't built in, no amount of experience will produce it.
+
+This extends McGinn in a significant direction. McGinn's "property P"—whatever bridges mind and brain—may be closed to us not merely because we cannot conceive it, but because we lack the primitive concepts required to build toward it. The concepts from which property P would be constructed aren't in our innate endowment, so the complex concept cannot form.
+
+Nicholas Rescher's "agnoseology" (theory of unknowability) maps three layers of inaccessibility that deepen this picture:
+
+1. **Logical inaccessibility**: Contradictions cannot be true and thus cannot be known
+2. **Conceptual inaccessibility**: Our conceptual schemes block access—we cannot think thoughts requiring concepts we lack
+3. **In-principle inaccessibility**: Some facts cannot be gathered by any finite knower regardless of conceptual resources
+
+McGinn's cognitive closure occupies the second layer—conceptual inaccessibility. We cannot form the concept of property P, not because grasping it would be contradictory, but because our concept-forming procedures don't extend to it. Rescher's framework shows this is just one layer of a more general theory of cognitive limits. The shape of what we cannot know reveals the shape of what we are.
+
+This convergence—Fodor on concept acquisition, McGinn on conception, Rescher on unknowability—suggests cognitive closure isn't an isolated philosophical hypothesis but part of a broader recognition that finite cognitive architectures necessarily have boundaries. Any mind powerful enough to think some thoughts is thereby prevented from thinking others.
 
 ## Mathematical Understanding and Cognitive Closure
 
@@ -228,6 +247,7 @@ The Map's [[voids]] framework resonates with mysterian themes. McGinn's property
 
 ## Further Reading
 
+- [[conceptual-acquisition-limits]] — Fodor's nativist argument that some concepts cannot be acquired at all
 - [[consciousness-and-mathematical-understanding]] — Mathematical insight as evidence for non-computational cognition and cognitive limits
 - [[minimal-consciousness]] — Complete neural mapping yet unknowable experience (empirical evidence for cognitive closure)
 - [[phenomenology-of-the-edge]] — What cognitive closure feels like from the inside (edge-experience signatures)
