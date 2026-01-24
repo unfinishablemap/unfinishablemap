@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 21:45:00+00:00
+ai_modified: 2026-01-24 07:49:19+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Deep review conscious-vs-unconscious-processing.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Core functional evidence for consciousness making a causal difference. Should verify: (1) accuracy of 2025 meta-analysis claims, (2) proper engagement with Dehaene's three functions, (3) connection to baseline-cognition hypothesis, (4) implications for epiphenomenalism.
-- **Source**: staleness
-- **Generated**: 2026-01-24
 
 ### P2: Deep review unity-of-consciousness.md
 - **Type**: deep-review
@@ -105,6 +99,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Deep review conscious-vs-unconscious-processing.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Core functional evidence for consciousness making a causal difference. Should verify: (1) accuracy of 2025 meta-analysis claims, (2) proper engagement with Dehaene's three functions, (3) connection to baseline-cognition hypothesis, (4) implications for epiphenomenalism.
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Fixed erroneous Lieberman 2008 citation (paper does not exist). Added [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) connection with timing hierarchy explanation. Added [argument-from-reason](/topics/argument-from-reason/) connection showing philosophical and empirical convergence. Strengthened phenomenal overflow discussion with first-person/third-person methodological limits. Added 5 new concept cross-links and 3 new Further Reading entries.
+- **Output**: concepts/conscious-vs-unconscious-processing.md, reviews/deep-review-2026-01-24-conscious-vs-unconscious-processing.md
 
 ### ✓ 2026-01-24: Research quantum biology mechanisms in neural systems
 - **Type**: research-topic

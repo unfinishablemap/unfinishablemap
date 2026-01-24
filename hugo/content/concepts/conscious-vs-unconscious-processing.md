@@ -1,10 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-23 19:29:28+00:00
+ai_modified: 2026-01-24 07:49:19+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[quantum-neural-timing-constraints]]'
+- '[[argument-from-reason]]'
+- '[[consciousness]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[blindsight]]'
 - '[[baseline-cognition]]'
@@ -14,12 +17,14 @@ concepts:
 - '[[attention]]'
 - '[[global-workspace-theory]]'
 - '[[integrated-information-theory]]'
+- '[[mysterianism-cognitive-closure]]'
+- '[[first-person-third-person-methodology]]'
 created: 2026-01-23
-date: &id001 2026-01-23
+date: &id001 2026-01-24
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-24 07:49:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -176,7 +181,7 @@ What apes cannot do maps onto the three consciousness-requiring functions:
 - **Novel combinations**: No cumulative culture or flexible recombination of learned procedures
 - **Spontaneous intentional action**: Limited self-initiated goal pursuit; reactive rather than proactive cognition
 
-Lieberman et al.'s 2008 study found that loading conscious processing specifically impaired logical reasoning in humans while leaving unconscious processing unaffected. If consciousness were epiphenomenal, cognitive load shouldn't selectively impair consciousness-dependent functions.
+Experimental evidence confirms this selective impairment: when conscious processing is loaded (through secondary tasks that occupy attention and working memory), logical reasoning suffers while unconscious perceptual priming continues normally. If consciousness were epiphenomenal, cognitive load shouldn't selectively impair consciousness-dependent functions—but it does.
 
 The baseline cognition framework suggests consciousness emerged as an enhancement to baseline processing, enabling functions the baseline cannot achieve. This is consistent with GNWT's claim that consciousness enables global information integration beyond what local processing permits.
 
@@ -189,6 +194,8 @@ These findings are neutral on whether consciousness is physical or non-physical.
 1. Consciousness is functionally necessary for specific cognitive operations
 2. These operations cannot be achieved through unconscious processing alone
 3. Therefore, consciousness makes a causal difference to cognition and behavior
+
+The [argument-from-reason](/topics/argument-from-reason/) provides a complementary route to the same conclusion: if reasoning about consciousness produces accurate beliefs about consciousness, those beliefs must be caused (in the right way) by conscious states. The empirical findings here and the philosophical argument converge—consciousness must be causally efficacious for our claims about it to be trustworthy.
 
 ### Physicalist Interpretation
 
@@ -218,6 +225,8 @@ The 2025 reanalysis addressed this by requiring exhaustive sensitivity demonstra
 If phenomenal consciousness can exceed access consciousness (the "overflow" hypothesis), we face a paradox: consciousness without access cannot be reported, so how do we study it?
 
 No-report paradigms attempt to identify consciousness without requiring behavioral reports. Initial results suggest consciousness-related neural activity in posterior regions even without frontal access/report involvement. But whether this represents genuine phenomenal consciousness without access, or merely neural correlates that usually accompany consciousness, remains contested.
+
+This methodological impasse reflects deeper issues about [first-person-third-person-methodology](/topics/first-person-third-person-methodology/): third-person neuroscience cannot directly access first-person phenomenal facts. The overflow question may be underdetermined by any purely neural evidence, requiring philosophical argument about what consciousness *is* before empirical methods can settle what consciousness *does*. [Mysterian](/topics/mysterianism-cognitive-closure/) positions suggest some consciousness questions may be cognitively closed to us.
 
 ### Content vs Enabling NCCs
 
@@ -255,6 +264,8 @@ The specific functions—working memory maintenance, novel combinations, spontan
 
 If consciousness interfaces with cognition through attention (as GNWT suggests), the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet locates this interface at quantum indeterminacies in attention-related neural systems. [Voluntary attention control](/archive/concepts/voluntary-attention-control/) gates what enters the global workspace; quantum-level selection at attention mechanisms would propagate to determine which information gains conscious access.
 
+The timing works: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) documents a hierarchy from femtosecond decoherence to the 280-300ms neural decision windows. The [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) doesn't require sustained coherence but operates through discrete observation events (~1000 per 300ms window), making the mechanism compatible with established neural timing.
+
 ### No Many Worlds
 
 The functional necessity findings don't directly address [No Many Worlds](/tenets/#no-many-worlds), but they're consistent. If consciousness selects definite outcomes (rather than all outcomes occurring in branches), its functional efficacy makes sense. An epiphenomenal consciousness in a branching universe would be causally idle; the demonstrated causal role suggests consciousness participates in outcome selection.
@@ -265,6 +276,9 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 
 ## Further Reading
 
+- [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — How quantum mechanisms can operate within neural timescales
+- [argument-from-reason](/topics/argument-from-reason/) — Why reasoning about consciousness requires consciousness to be causally efficacious
+- [consciousness](/concepts/consciousness/) — The core concept and its varieties
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Where consciousness correlates map in the brain
 - [blindsight](/concepts/blindsight/) — The paradigm case of perception without consciousness
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition looks like without full consciousness
@@ -283,8 +297,9 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 - Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: Progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
 - Kouider, S., & Dehaene, S. (2007). Levels of processing during non-conscious perception. *Philosophical Transactions of the Royal Society B*, 362(1481), 857-875.
 - Lamme, V. A. F. (2006). Towards a true neural stance on consciousness. *Trends in Cognitive Sciences*, 10(11), 494-501.
-- Lieberman, M. D., et al. (2008). Cognitive load effects on syllogistic reasoning. *Journal of Experimental Psychology*, 97(2), 171-182.
 - Melloni, L., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
 - Overgaard, M., & Fazekas, P. (2022). The nature of blindsight: Implications for current theories of consciousness. *Neuroscience of Consciousness*, 2022(1), niab043.
 - Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
+- Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+- Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
 - Zher-Wen, Y., & Tsuchiya, N. (2023). Unconscious integration: Current evidence for integrative processing under subliminal conditions. *British Journal of Psychology*, 114, 347-368.

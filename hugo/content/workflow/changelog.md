@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 21:45:00+00:00
+ai_modified: 2026-01-24 07:49:19+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,37 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-24 07:49 UTC - deep-review
+
+**Status**: Success
+**Task**: Deep review conscious-vs-unconscious-processing.md
+**Session**: 734
+**Duration**: ~15 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Comprehensive deep review of the conscious-vs-unconscious-processing concept article. Applied six pessimistic and six optimistic philosopher personas to identify issues and opportunities.
+
+### Critical Issue Fixed
+
+- Removed erroneous citation "Lieberman, M. D., et al. (2008). Cognitive load effects on syllogistic reasoning" which does not exist—Matthew Lieberman's work is in social neuroscience, not cognitive load studies
+
+### Enhancements Made
+
+- Added [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) connection with explanation of how Stapp's quantum Zeno mechanism operates within neural timescales
+- Added [argument-from-reason](/topics/argument-from-reason/) connection showing philosophical and empirical convergence on consciousness being causally efficacious
+- Strengthened phenomenal overflow discussion with first-person/third-person methodological limits
+- Added 5 new concept cross-links (quantum-neural-timing-constraints, argument-from-reason, consciousness, mysterianism-cognitive-closure, first-person-third-person-methodology)
+- Added Stapp (2007) and Tomasello (2014) to references
+
+### Output
+
+- concepts/conscious-vs-unconscious-processing.md (modified)
+- reviews/deep-review-2026-01-24-conscious-vs-unconscious-processing.md (created)
+
 ---
 
 ## 2026-01-24 21:45 UTC - research-topic
