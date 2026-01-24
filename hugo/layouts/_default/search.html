@@ -18,8 +18,9 @@
     }
     .ais-Hits-item {
         display: block !important;
-        margin-bottom: 1.5rem;
-        padding-bottom: 1rem;
+        padding-top: 1.0rem;
+        margin-bottom: 0.0rem;
+        padding-bottom: 1.0rem;
         border-bottom: 1px solid var(--pico-muted-border-color);
     }
     .hit-title {
@@ -47,6 +48,26 @@
     [data-theme="dark"] .ais-Snippet-highlighted {
         background-color: #5d4e00;
         color: #fff;
+    }
+    /* Dark mode overrides for InstantSearch */
+    [data-theme="dark"] .ais-Hits-item {
+        background: transparent;
+        color: var(--pico-color);
+    }
+    [data-theme="dark"] .hit-title a {
+        color: var(--pico-primary);
+    }
+    [data-theme="dark"] .hit-content {
+        color: var(--pico-color);
+    }
+    [data-theme="dark"] .ais-SearchBox-input {
+        background: var(--pico-background-color);
+        color: var(--pico-color);
+        border-color: var(--pico-muted-border-color);
+    }
+    [data-theme="dark"] .ais-Pagination-link {
+        background: transparent;
+        color: var(--pico-color);
     }
     #pagination {
         margin-top: 2rem;

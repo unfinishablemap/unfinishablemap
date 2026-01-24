@@ -137,8 +137,8 @@
             border-radius: 4px;
         }
 
-        /* Mobile adjustments */
-        @media (max-width: 600px) {
+        /* Mobile/tablet adjustments */
+        @media (max-width: 1200px) {
             .mobile-menu-toggle {
                 display: block;
             }
@@ -195,6 +195,34 @@
         .table-sort th.desc::after {
             content: " ▼";
             font-size: 0.7em;
+        }
+
+        /* Algolia Autocomplete on home page */
+        .aa-Form {
+            border: none;
+        }
+        .aa-SubmitIcon,
+        .aa-InputWrapperPrefix {
+            display: none;
+        }
+        /* Dark mode for Algolia Autocomplete */
+        [data-theme="dark"] .aa-Form {
+            background: var(--pico-background-color);
+            border-color: var(--pico-muted-border-color);
+        }
+        [data-theme="dark"] .aa-Input {
+            background: var(--pico-background-color);
+            color: var(--pico-color);
+        }
+        [data-theme="dark"] .aa-Panel {
+            background: var(--pico-card-background-color);
+            border-color: var(--pico-muted-border-color);
+        }
+        [data-theme="dark"] .aa-Item {
+            color: var(--pico-color);
+        }
+        [data-theme="dark"] .aa-ItemLink {
+            color: var(--pico-color);
         }
 
     </style>
