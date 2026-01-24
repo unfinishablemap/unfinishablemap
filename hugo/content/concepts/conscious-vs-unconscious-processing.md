@@ -165,7 +165,7 @@ Attention emerges as the gatekeeper for conscious access. The relationship:
 
 This two-factor model (stimulus strength × attention) explains why attention manipulations reliably modulate conscious perception. Change blindness and inattentional blindness demonstrate that even salient stimuli fail to reach consciousness without attention.
 
-For the Map's framework, this connects to [voluntary-attention-control](/archive/topics/voluntary-attention-control/): if attention gates conscious access, and conscious access enables unique cognitive functions, then voluntary control of attention becomes a mechanism for consciousness to influence cognition. The [quantum Zeno hypothesis](/concepts/stapp-quantum-mind/) locates this control at the quantum level.
+For the Map's framework, this connects to [voluntary-attention](/concepts/voluntary-attention/): if attention gates conscious access, and conscious access enables unique cognitive functions, then voluntary control of attention becomes a mechanism for consciousness to influence cognition. The [quantum Zeno hypothesis](/concepts/stapp-quantum-mind/) locates this control at the quantum level.
 
 ## Connection to Baseline Cognition
 
@@ -253,7 +253,7 @@ The specific functions—working memory maintenance, novel combinations, spontan
 
 ### Minimal Quantum Interaction
 
-If consciousness interfaces with cognition through attention (as GNWT suggests), the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet locates this interface at quantum indeterminacies in attention-related neural systems. [Voluntary attention control](/archive/topics/voluntary-attention-control/) gates what enters the global workspace; quantum-level selection at attention mechanisms would propagate to determine which information gains conscious access.
+If consciousness interfaces with cognition through attention (as GNWT suggests), the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet locates this interface at quantum indeterminacies in attention-related neural systems. [Voluntary attention control](/archive/concepts/voluntary-attention-control/) gates what enters the global workspace; quantum-level selection at attention mechanisms would propagate to determine which information gains conscious access.
 
 ### No Many Worlds
 
@@ -272,7 +272,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — Consciousness as subjective experience
 - [working-memory](/concepts/working-memory/) — The maintenance function requiring consciousness
 - [attention](/concepts/attention/) — The gatekeeper for conscious access
-- [voluntary-attention-control](/archive/topics/voluntary-attention-control/) — How consciousness directs attention
+- [voluntary-attention](/concepts/voluntary-attention/) — How consciousness directs attention
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The theoretical framework for consciousness as broadcast
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum mechanism for consciousness-attention interface
 

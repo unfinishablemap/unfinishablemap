@@ -1,12 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-23 16:30:00+00:00
+ai_modified: 2026-01-24 18:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
 - /topics/voluntary-attention-control/
+- /concepts/voluntary-attention-control/
 concepts:
+- '[[attention-motor-quantum-interface]]'
 - '[[attention]]'
 - '[[attention-as-interface]]'
 - '[[interface-locality]]'
@@ -192,6 +194,16 @@ The basal ganglia "brake-release" architecture provides the interface: tonic inh
 
 Crucially, the Desmurget double dissociation shows that intention phenomenology is separable from motor execution: stimulating parietal cortex produces movements without intention ("my arm moved"), while stimulating premotor cortex produces intention without movement ("I wanted to move but didn't"). This supports the view that phenomenal intention is not epiphenomenal but causally upstream of motor execution.
 
+### Attention-Motor Unification
+
+The [premotor theory of attention](/concepts/attention-motor-quantum-interface/) (PMTA) proposes that attention shifts *are* motor plans—attending to a location is preparing an orienting movement toward it. If attention is motor planning, then the willed attention findings above describe a unified attention-motor selection mechanism.
+
+The timing convergence is striking: ~300ms willed attention deployment matches the ~280ms motor commitment point identified by Thura and Cisek (2014). Frontal theta oscillations appear in both willed attention and willed motor preparation. Bidirectional frontoparietal coherence during willed attention mirrors motor preparation dynamics.
+
+This suggests a single quantum selection interface. Consciousness doesn't separately influence attention and motor systems—it operates through one mechanism that the brain divides only functionally. Sustaining attention to a visual target and preparing a reaching movement engage the same neural selection process, subject to the same quantum Zeno stabilization.
+
+The phenomenological unity follows: willed attention and willed action feel like the same kind of effort because they *are* the same kind of effort—consciousness maintaining engagement with competing neural representations until one reaches threshold.
+
 ## Relation to Site Perspective
 
 Voluntary attention connects directly to the Map's foundational commitments:
@@ -310,6 +322,7 @@ This neural distinctiveness matters philosophically. If consciousness contribute
 
 ## Further Reading
 
+- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — How PMTA unifies attention and motor selection under one quantum mechanism
 - [attention](/concepts/attention/) — General treatment of attention-consciousness relationship
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal bridge between consciousness and brain
 - [interface-locality](/concepts/interface-locality/) — Why voluntary attention is restricted to brain-based domains

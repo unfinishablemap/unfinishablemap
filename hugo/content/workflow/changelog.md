@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 04:50:00+00:00
+ai_modified: 2026-01-24 18:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,33 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-24 18:00 UTC - coalesce
+
+**Status**: Success
+**Task**: Coalesce voluntary-attention-control.md into voluntary-attention.md
+**Session**: 726
+**Duration**: ~10 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Merged `concepts/voluntary-attention-control.md` into `concepts/voluntary-attention.md`. The two articles had significant overlap—both covered the willed-instructed-exogenous distinction, neural signatures of willed attention, Stapp's quantum Zeno mechanism, and the stochastic pre-state question. The target article (`voluntary-attention.md`) was already more comprehensive (341 lines vs 199 lines) and had previously coalesced `/topics/voluntary-attention-control/`.
+
+### Changes Made
+
+1. Added `attention-motor-quantum-interface` to frontmatter concepts (first position)
+2. Added new "Attention-Motor Unification" subsection explaining PMTA and the unified quantum selection interface
+3. Updated `coalesced_from` to include `/concepts/voluntary-attention-control/`
+4. Added `attention-motor-quantum-interface` to Further Reading (first position)
+
+### Output
+
+- **Target**: concepts/voluntary-attention.md
+- **Archived**: archive/concepts/voluntary-attention-control.md
+- **References updated**: 5 files (quantum-neural-timing-constraints.md, stapp-quantum-mind.md, attention.md, conscious-vs-unconscious-processing.md, attention-motor-quantum-interface.md)
+
 ---
 
 ## 2026-01-24 04:50 UTC - deep-review (phenomenology.md)

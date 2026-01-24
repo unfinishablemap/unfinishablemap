@@ -95,7 +95,7 @@ The Shamatha Project—one of the most comprehensive longitudinal studies of int
 - Enhanced response inhibition (critical for emotion regulation)
 - Increased mindfulness, ego resiliency, empathy, openness
 
-These are trainable skills, following principles similar to learning music or sports. The fact that deliberate practice enhances attentional capacities demonstrates [attention](/concepts/attention/) isn't purely bottom-up. [Voluntary-attention-control](/archive/topics/voluntary-attention-control/) can be systematically developed through conscious training.
+These are trainable skills, following principles similar to learning music or sports. The fact that deliberate practice enhances attentional capacities demonstrates [attention](/concepts/attention/) isn't purely bottom-up. [Voluntary-attention-control](/archive/concepts/voluntary-attention-control/) can be systematically developed through conscious training.
 
 Connection to [free-will](/topics/free-will/): If [phenomenal-consciousness](/concepts/phenomenal-consciousness/) were epiphenomenal, how would willed effort to sustain attention produce measurable improvements in attentional stability? The training paradigm assumes consciousness can causally influence its own processing—precisely the claim [epiphenomenalism](/arguments/epiphenomenalism/) denies.
 
@@ -294,7 +294,7 @@ Contemplative neuroscience clarifies but does not close the [explanatory gap](/t
 - [Neurophenomenology](/concepts/neurophenomenology/): Varela's framework for integrating first-person and third-person methods through mutual constraints
 - [mental-effort](/concepts/mental-effort/): The phenomenology of effort and Stapp's quantum Zeno mechanism, including Schwartz's OCD neuroplasticity evidence
 - [Witness-consciousness](/concepts/witness-consciousness/): Eastern contemplative traditions' phenomenological framework that meditation cultivates
-- [Voluntary-attention-control](/archive/topics/voluntary-attention-control/): Neural mechanisms underlying willed vs. instructed vs. exogenous attention
+- [Voluntary-attention-control](/archive/concepts/voluntary-attention-control/): Neural mechanisms underlying willed vs. instructed vs. exogenous attention
 - [Free-will](/topics/free-will/): How meditation evidence connects to agent causation and libertarian accounts
 - [Emotional-consciousness](/concepts/emotional-consciousness/): Phenomenal character of emotions and their role in consciousness
 - [Epiphenomenalism](/arguments/epiphenomenalism/): Why contemplative neuroscience challenges the view that consciousness is causally inert

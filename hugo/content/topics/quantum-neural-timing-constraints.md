@@ -9,7 +9,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[quantum-decoherence-objection]]'
 - '[[motor-selection]]'
-- '[[voluntary-attention-control]]'
+- '[[voluntary-attention]]'
 - '[[attention-motor-quantum-interface]]'
 - '[[decoherence]]'
 - '[[measurement-problem]]'
@@ -185,7 +185,7 @@ The timing compatibility question generates testable predictions:
 - [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — The decoherence objection and biological precedents
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental effort
 - [motor-selection](/concepts/motor-selection/) — The 280ms motor commitment point and Libet dissolution
-- [voluntary-attention-control](/archive/topics/voluntary-attention-control/) — The 300ms willed attention deployment
+- [voluntary-attention](/concepts/voluntary-attention/) — The 300ms willed attention deployment
 - [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — Unification of attention and motor timing
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve outcome selection
 - [decoherence](/concepts/decoherence/) — The physical process of coherence loss

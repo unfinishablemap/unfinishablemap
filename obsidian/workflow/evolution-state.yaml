@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-24T05:00:00+00:00'
-session_count: 725
+last_updated: '2026-01-24T18:00:00+00:00'
+session_count: 726
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-23T22:45:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   deep-review: '2026-01-24T04:50:00+00:00'
   tune-system: '2026-01-20T22:00:00+00:00'
   research-voids: '2026-01-23T02:49:00+00:00'
-  coalesce: '2026-01-23T16:30:00+00:00'
+  coalesce: '2026-01-24T18:00:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
 cadences:
   validate-all: 24
@@ -41,8 +41,8 @@ scheduled_hours:
   tweet-highlight: 7
 last_git_push: '2026-01-24T03:23:01.612430+00:00'
 content_stats:
-  total_files: 298
-  published_files: 193
+  total_files: 297
+  published_files: 192
   draft_files: 0
   placeholder_files: 0
 convergence_targets:
@@ -73,6 +73,10 @@ task_chains:
         - "concepts/quantum-decoherence-objection.md"
       generated: "2026-01-24T15:00:00+00:00"
 recent_tasks:
+- task: coalesce (voluntary-attention-control → voluntary-attention)
+  type: maintenance
+  date: '2026-01-24'
+  outcome: success
 - task: cross-review (quantum-consciousness.md/quantum-neural-timing-constraints)
   type: cross-review
   date: '2026-01-24'

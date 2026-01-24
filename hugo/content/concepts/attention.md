@@ -5,7 +5,7 @@ ai_modified: 2026-01-23 21:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[voluntary-attention-control]]'
+- '[[voluntary-attention]]'
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
 - '[[mental-imagery]]'
@@ -94,7 +94,7 @@ Here the Map's framework offers a distinctive perspective. Rather than asking wh
 
 ### The Willed-Instructed-Exogenous Distinction
 
-Recent neuroscience reveals that "voluntary attention" encompasses importantly different modes. [Vossel (2023) and Bengson (2019)](/archive/topics/voluntary-attention-control/) identify three distinct attention types:
+Recent neuroscience reveals that "voluntary attention" encompasses importantly different modes. [Vossel (2023) and Bengson (2019)](/archive/concepts/voluntary-attention-control/) identify three distinct attention types:
 
 | Mode | Trigger | Deployment Time | Effort |
 |------|---------|-----------------|--------|
@@ -295,7 +295,7 @@ The attention-consciousness relationship illuminates all five tenets:
 
 ## Further Reading
 
-- [voluntary-attention-control](/archive/topics/voluntary-attention-control/) — The willed-instructed-exogenous distinction and why top-down ≠ voluntary
+- [voluntary-attention](/concepts/voluntary-attention/) — The willed-instructed-exogenous distinction and why top-down ≠ voluntary
 - [mental-imagery](/concepts/mental-imagery/) — Voluntary vs involuntary imagery as evidence for attention-mediated conscious control
 - [voluntary-attention](/concepts/voluntary-attention/) — The endogenous/willed attention distinction and its neural signatures
 - [attention-as-interface](/concepts/attention-as-interface/) — The hypothesis that attention mediates consciousness's causal influence on matter
