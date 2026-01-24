@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-24
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-24T08:50:00+00:00
+ai_modified: 2026-01-24T15:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P0: Research dopamine's role in attention-motor-quantum-interface
+- **Type**: research-topic
+- **Notes**: Investigate dopamine's dual role in (1) pleasure/reward/joy and (2) initiation of voluntary movement. How might this connect to the quantum timing window model in attention-motor-quantum-interface.md? Consider: dopamine's role in basal ganglia motor circuits, its involvement in motivation and action selection, Parkinson's as window into dopamine-movement connection.
+- **Source**: human
+- **Generated**: 2026-01-24
+
+### P1: Enhance attention-motor-quantum-interface.md with dopamine research
+- **Type**: refine-draft
+- **Notes**: After completing dopamine research (P0 above), integrate findings into concepts/attention-motor-quantum-interface.md. Consider how dopamine's dual role in pleasure and movement initiation might illuminate the consciousness-motor interface.
+- **Source**: human (chain from dopamine research)
+- **Generated**: 2026-01-24
 
 ### P2: Deep review attention-motor-quantum-interface.md
 - **Type**: deep-review
