@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 08:55:00+00:00
+ai_modified: 2026-01-24 10:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P1: Enhance attention-motor-quantum-interface.md with dopamine research
-- **Type**: refine-draft
-- **Notes**: After completing dopamine research (P0 above), integrate findings into concepts/attention-motor-quantum-interface.md. Consider how dopamine's dual role in pleasure and movement initiation might illuminate the consciousness-motor interface.
-- **Source**: human (chain from dopamine research)
-- **Generated**: 2026-01-24
 
 ### P2: Deep review attention-motor-quantum-interface.md
 - **Type**: deep-review
@@ -105,6 +99,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Enhance attention-motor-quantum-interface.md with dopamine research
+- **Type**: refine-draft
+- **Notes**: After completing dopamine research (P0 above), integrate findings into concepts/attention-motor-quantum-interface.md. Consider how dopamine's dual role in pleasure and movement initiation might illuminate the consciousness-motor interface.
+- **Result**: Integrated dopamine research findings throughout article (~1,200 words added): (1) new "Dopamine and the Selection Threshold" section explaining "can move / won't move" distinction and three-layer selection model; (2) "Tonic vs. Phasic" section with timescale table mapping onto quantum interface roles; (3) "Dopamine and Salience" section covering wanting/liking distinction and evolutionary rationale; (4) expanded theta oscillation discussion connecting dopamine to prokinetic theta; (5) phenomenological integration linking salience/wanting to effort phenomenology. Added 4 new references and 3 new concept cross-links.
+- **Output**: concepts/attention-motor-quantum-interface.md (modified)
 
 ### ✓ 2026-01-24: Research dopamine's role in attention-motor-quantum-interface
 - **Type**: research-topic

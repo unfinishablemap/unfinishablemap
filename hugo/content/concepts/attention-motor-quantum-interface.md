@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-23 23:00:00+00:00
+ai_modified: 2026-01-24 10:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,6 +14,9 @@ concepts:
 - '[[agent-causation]]'
 - '[[interactionist-dualism]]'
 - '[[phenomenology-of-choice]]'
+- '[[dopamine-reward]]'
+- '[[basal-ganglia]]'
+- '[[salience-network]]'
 created: 2026-01-23
 date: &id001 2026-01-23
 draft: false
@@ -24,6 +27,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[attention-motor-planning-quantum-interface-2026-01-23]]'
+- '[[dopamine-attention-motor-quantum-interface-2026-01-24]]'
 title: Attention-Motor Quantum Interface
 topics:
 - '[[free-will]]'
@@ -97,6 +101,43 @@ The basal ganglia provide another candidate site for selection. Their architectu
 
 The cortex generates ensembles of possible actions; the striatum selects. This is precisely the architecture the Map's framework requires: generation of options (by neural computation) followed by selection among them (where consciousness might contribute).
 
+### Dopamine and the Selection Threshold
+
+Recent research (2024-2025) illuminates dopamine's role in this selection architecture. A landmark October 2024 *Nature* study demonstrates a striking dissociation: **tonic (slow) dopamine supports spontaneous movement** while **phasic (rapid) dopamine drives motivation and reward-seeking behavior**. Dopamine-deficient mice "can move" but "won't move"—they retain motor capacity but lose goal-directed initiative.
+
+This "can move / won't move" distinction is critical for the quantum selection framework. Dopamine doesn't generate movement or make movement possible—the motor circuitry remains intact without it. Instead, dopamine appears to modulate the **decision threshold** at which competing motor programs resolve. A 2023 *Nature Communications* study found that striatal dopamine regulates decision thresholds during action selection, with amphetamine infusion changing response time distributions consistent with threshold reduction.
+
+The three-layer model:
+1. **Neural computation** generates competing motor options (unaffected by dopamine loss)
+2. **Dopamine** sets the threshold for selection and marks options as salient
+3. **Consciousness** (via quantum selection) determines which salient option crosses threshold first
+
+This architecture satisfies Minimal Quantum Interaction: consciousness doesn't inject energy or generate force—it biases which accumulating option wins the threshold race.
+
+### Tonic vs. Phasic: Two Timescales
+
+The tonic/phasic distinction maps onto different aspects of motor control:
+
+| Dopamine Mode | Timescale | Primary Function | Quantum Interface Role |
+|---------------|-----------|------------------|------------------------|
+| Tonic | Seconds to minutes | Background movement capacity | Baseline excitability |
+| Phasic | Sub-second bursts | Reward prediction, motivation | Salience marking for selection |
+
+The phasic timescale is where quantum selection may operate. While tonic dopamine ensures the motor system is "online," phasic bursts identify which options matter. Consciousness selects among these phasic-marked options at the moment of threshold crossing.
+
+### Dopamine and Salience
+
+Dopamine mediates **salience**—the neural process by which certain stimuli or internal states gain prominence and preferentially capture cognitive and behavioral resources. The salience network (anterior cingulate, ventral anterior insula, amygdala, ventral striatum) shows reduced connectivity after dopamine depletion.
+
+Berridge and Robinson's work on "wanting vs. liking" clarifies this role:
+
+- **Wanting** (dopamine-dependent): Incentive salience, motivation to pursue
+- **Liking** (opioid-dependent): Hedonic pleasure, consummatory enjoyment
+
+Parkinson's patients with extensive dopamine depletion give normal hedonic ratings to sweet tastes—their "liking" is intact while their "wanting" is impaired. Dopamine marks options as worth pursuing without determining whether pursuit succeeds. This matches the selection model: dopamine tags options as salient/valuable, while consciousness chooses among marked options.
+
+The evolutionary question—why does one neurotransmitter mediate both reward and movement initiation?—has a clear answer: in natural environments, wanting and pursuing are inseparable. Dopamine connects value perception with action initiation. If attention is motor planning (PMTA), and dopamine marks salience for both perception and action, then a single dopaminergic system appropriately serves the unified interface.
+
 ## Stapp's Quantum Zeno Applied
 
 ### Unified Selection Mechanism
@@ -114,6 +155,8 @@ The unified mechanism:
 
 This explains the common phenomenology. Sustaining motor intention feels effortful for the same reason sustaining attention feels effortful: both require continuous engagement to maintain Zeno freezing.
 
+The dopamine research adds another layer: both domains also share **salience**. The phenomenology of "wanting"—some things mattering more than others, pulling for pursuit—applies equally to what we attend to and what we act toward. The "effort" phenomenology may be the conscious engagement with the selection process, experienced across both domains because the underlying mechanism is shared. Dopamine marks what's worth selecting among; the felt effort reflects the work of actually selecting.
+
 ### Decoherence and Motor Selection
 
 The standard objection to quantum consciousness—rapid decoherence in warm brains—applies equally here. Tegmark's 2000 calculations suggested 10⁻¹³ second coherence times, far shorter than neural timescales.
@@ -121,6 +164,10 @@ The standard objection to quantum consciousness—rapid decoherence in warm brai
 However, 2025 research revises these estimates substantially. Decoherence times of 10-100 microseconds may be achievable in biological systems, bringing quantum effects into neurophysiologically relevant ranges. At 10⁻⁴ seconds, roughly 1000 quantum cycles could occur within a single motor commitment event.
 
 The basal ganglia timing is suggestive. Beta oscillations (13-30 Hz) develop during motor preparation and wane during execution. Each beta cycle lasts ~40ms—potentially time for many quantum selection events. The oscillatory dynamics could implement something like iterated Zeno observation at higher frequency than the observable neural rhythm.
+
+A 2024 *Brain* study connects dopamine directly to this oscillatory substrate. Both dopamine and deep brain stimulation shorten latencies between motor intention and motor execution by shifting cortico-subthalamic oscillatory flow from **antikinetic beta** (13-35 Hz) to **prokinetic theta** (4-10 Hz). Theta oscillations facilitate the transition from preparation to action.
+
+This creates a coherent picture: dopamine promotes the theta state that may provide the timing substrate for quantum selection events. The frontal theta signature observed in both willed attention (Bengson 2019) and motor preparation may be dopamine-facilitated, linking the neurotransmitter system to the quantum mechanism.
 
 Additionally, the [post-decoherence selection response](/concepts/psychophysical-coupling-mechanisms/) applies: consciousness might bias outcome selection *after* decoherence, at the moment of measurement collapse. Decoherence determines which basis collapses into; consciousness could still influence which outcome within that basis becomes actual.
 
@@ -219,7 +266,8 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies. The quantu
 - [mental-effort](/concepts/mental-effort/) — Phenomenology of effort in both domains
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The common experiential structure
 - [free-will](/topics/free-will/) — The broader topic this supports
-- [attention-motor-planning-quantum-interface-2026-01-23](/research/attention-motor-planning-quantum-interface-2026-01-23/) — Detailed research notes
+- [attention-motor-planning-quantum-interface-2026-01-23](/research/attention-motor-planning-quantum-interface-2026-01-23/) — Detailed research notes on attention-motor integration
+- [dopamine-attention-motor-quantum-interface-2026-01-24](/research/dopamine-attention-motor-quantum-interface-2026-01-24/) — Research on dopamine's role in the selection interface
 
 ## References
 
@@ -244,3 +292,11 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies. The quantu
 10. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 
 11. Wise, S.P., & Murray, E.A. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
+
+12. Kaeser, P.A., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*. https://doi.org/10.1038/s41586-024-08038-z
+
+13. Westbrook, A., et al. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5340.
+
+14. Neumann, W.J., et al. (2024). Dopamine and deep brain stimulation accelerate the neural dynamics of volitional action in Parkinson's disease. *Brain*, 147(9), 3087-3101.
+
+15. Berridge, K.C. (2007). The debate over dopamine's role in reward: the case for incentive salience. *Psychopharmacology*, 191(3), 391-431.

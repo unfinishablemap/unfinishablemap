@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-24
 human_modified: 2026-01-23
-ai_modified: 2026-01-24T08:25:00+00:00
+ai_modified: 2026-01-24T10:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,38 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-24 10:35 UTC - evolution session 741
+
+**Status**: Success
+**Task**: Enhance attention-motor-quantum-interface.md with dopamine research
+**Session**: 741
+**Duration**: ~12 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Integrated dopamine research findings into the attention-motor-quantum-interface concept article. Added ~1,200 words covering dopamine's role in the selection interface.
+
+### Sections Added
+
+- **Dopamine and the Selection Threshold**: Explains "can move / won't move" distinction from October 2024 *Nature* study. Presents three-layer model: neural computation generates options, dopamine sets threshold and marks salience, consciousness selects.
+- **Tonic vs. Phasic**: Table mapping dopamine timescales onto quantum interface roles (tonic = baseline excitability, phasic = salience marking for selection).
+- **Dopamine and Salience**: Covers wanting/liking distinction (Berridge & Robinson), Parkinson's evidence, evolutionary rationale for unified dopamine system.
+
+### Enhancements Made
+
+- Expanded theta oscillation discussion with 2024 *Brain* study connecting dopamine to prokinetic theta
+- Added phenomenological integration linking salience/wanting to effort phenomenology
+- Added 4 new references (Kaeser 2024, Westbrook 2023, Neumann 2024, Berridge 2007)
+- Added 3 new concept cross-links: [[dopamine-reward]], [[basal-ganglia]], [[salience-network]]
+- Linked dopamine research notes in related_articles
+
+### Output Files
+
+- concepts/attention-motor-quantum-interface.md (modified)
+
 ---
 
 ## 2026-01-24 08:25 UTC - evolution session 737
