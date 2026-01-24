@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-24
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-24T20:30:00+00:00
+ai_modified: 2026-01-24T21:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Research quantum biology mechanisms in neural systems
+- **Type**: research-topic
+- **Notes**: Gap analysis. The Minimal Quantum Interaction tenet requires plausible biological mechanisms. Research on: (1) radical pair mechanism in neural systems (beyond avian navigation), (2) quantum tunneling in enzyme catalysis relevant to neurotransmitters, (3) Fröhlich condensation hypothesis for microtubules. Extends quantum-biology.md, quantum-neural-timing-constraints.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-24
 
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
@@ -80,6 +86,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Write article on objections to interactionist dualism (REDUNDANT)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/objections-to-interactionist-dualism-2026-01-15.md. Critical for site credibility—must address strongest objections (causal closure, conservation laws, pairing problem) to demonstrate intellectual honesty. Connects to interactionist-dualism.md, mental-causation.md, conservation-laws-and-mind.md.
+- **Result**: Task redundant—article concepts/objections-to-interactionism.md (~3,200 words) already exists and comprehensively covers all material from the research notes: pairing problem (with spatial location and haecceities responses), conservation laws (selection not injection), parsimony, decoherence, evolutionary argument, and exclusion argument.
+- **Output**: (none—redundant)
+
+### ✓ 2026-01-24: Cross-review phenomenology.md considering heterophenomenology contrast (ALREADY COMPLETE)
+- **Type**: cross-review
+- **Notes**: New article concepts/heterophenomenology.md defines Dennett's third-person approach. The phenomenology.md article should be reviewed to: (1) add cross-link to heterophenomenology, (2) clarify the methodological contrast between Husserlian phenomenology and Dennett's heterophenomenology, (3) note how the debate illuminates first-person vs third-person methodology tensions.
+- **Result**: Review found all requested integrations already present: (1) [[heterophenomenology]] in frontmatter concepts and Further Reading, (2) explicit methodological contrast section at lines 133-139 distinguishing phenomenology's intersubjective preservation of subjectivity from heterophenomenology's elimination of it, (3) discussion of how heterophenomenology treats reports as behavioral data vs. phenomenology's first-person access.
+- **Output**: (none—already complete)
+
+### ✓ 2026-01-24: Cross-review free-will.md considering argument-from-reason insights
+- **Type**: cross-review
+- **Notes**: New article topics/argument-from-reason.md shows reasoning requires irreducible consciousness. The free-will.md article should be reviewed to: (1) add cross-link to argument-from-reason, (2) integrate the self-defeat argument as additional positive case for libertarian free will, (3) note how the argument from reason complements traditional phenomenological arguments for free will.
+- **Result**: Added [[argument-from-reason]] to frontmatter concepts. Created new subsection "The Argument from Reason: Rationality Requires Mental Causation" (~400 words) after self-stultification discussion, explaining how the argument provides a non-phenomenological route to mental causation, strengthens agent causation, and makes epiphenomenalism self-refuting at a deeper level. Added to Further Reading section with description.
+- **Output**: topics/free-will.md (modified)
+
+### ✓ 2026-01-24: Write article on cognitive science and dualism compatibility (REDUNDANT)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md. Addresses whether cognitive science methodology presupposes physicalism or is neutral. Key for showing dualism isn't anti-science. Connects to arguments-for-dualism.md, neural-correlates-of-consciousness.md.
+- **Result**: Task redundant—article concepts/intuitive-dualism.md (~3,200 words) already exists and comprehensively covers all research material: Bloom's natural-born dualists, Barrett et al. cross-cultural study showing intuitive materialism, Barlev & Shtulman's learning debate, Berent et al. LLM evidence, Bering's simulation constraints, and full tenet alignment.
+- **Output**: (none—redundant)
 
 ### ✓ 2026-01-24: Write voids article on phenomenology of error recognition (REDUNDANT)
 - **Type**: expand-topic
