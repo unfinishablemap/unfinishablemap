@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review unity-of-consciousness.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Central concept linking binding problem, phenomenal unity, and split-brain cases. Should verify: (1) accuracy on varieties of unity, (2) proper treatment of split-brain evidence, (3) connection to quantum binding hypothesis, (4) implications for personal identity.
-- **Source**: staleness
-- **Generated**: 2026-01-24
-
 ### P2: Deep review quantum-binding-experimental-evidence.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Presents experimental evidence for quantum entanglement in consciousness. Should verify: (1) accuracy of cited experiments (microtubule drugs, MRI entanglement signatures), (2) proper representation of decoherence calculations, (3) critical engagement with methodological concerns.
@@ -99,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Deep review unity-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Central concept linking binding problem, phenomenal unity, and split-brain cases. Should verify: (1) accuracy on varieties of unity, (2) proper treatment of split-brain evidence, (3) connection to quantum binding hypothesis, (4) implications for personal identity.
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Added decoherence objection response to Quantum Binding section with revised timing estimates and [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) cross-link. Expanded illusionist challenge with Frankish's quasi-phenomenal properties argument. Added Pinto et al. 2025 PNAS citation for split-brain resilience. Added [voluntary-attention](/concepts/voluntary-attention/) empirical case to Bidirectional Interaction. Connected Leibniz's Mill to [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/). Added 5 new frontmatter cross-links and 3 new references.
+- **Output**: concepts/unity-of-consciousness.md, reviews/deep-review-2026-01-24-unity-of-consciousness.md
 
 ### ✓ 2026-01-24: Deep review conscious-vs-unconscious-processing.md
 - **Type**: deep-review
