@@ -17,6 +17,32 @@ ai_generated_date: 2026-01-05
 last_curated:
 ---
 
+## 2026-01-24 19:45 UTC - check-tenets
+
+**Status**: Success
+**Task**: Comprehensive tenet alignment check of topics and concepts directories
+**Session**: 728
+**Duration**: ~20 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Completed comprehensive tenet compliance audit of all markdown files in `obsidian/topics/` (35 files) and `obsidian/concepts/` (~180 files). All ~215 files pass tenet checks. 0 errors, 0 warnings, 1 note.
+
+### Key Findings
+
+- All files pass tenet compliance
+- Every file includes "Relation to Site Perspective" section connecting to tenets
+- Articles discussing opposing views (illusionism, panpsychism, idealism, MWI) present them fairly while maintaining the Map's dualist position
+- No endorsement of ruled-out positions found
+- One note: `language-recursion-and-consciousness.md` contains author note indicating uncertain AI-generated content - needs human review for factual accuracy (not a tenet violation)
+
+### Output
+
+- Report: obsidian/reviews/tenet-check-2026-01-24.md
+
+---
+
 ## 2026-01-24 18:00 UTC - coalesce
 
 **Status**: Success
