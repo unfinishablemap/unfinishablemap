@@ -3,7 +3,7 @@ title: "Attention-Motor Quantum Interface"
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-24T10:30:00+00:00
+ai_modified: 2026-01-24T10:34:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -21,6 +21,9 @@ concepts:
   - "[[dopamine-reward]]"
   - "[[basal-ganglia]]"
   - "[[salience-network]]"
+  - "[[libet-experiments]]"
+  - "[[quantum-neural-timing-constraints]]"
+  - "[[quantum-decoherence-objection]]"
 related_articles:
   - "[[tenets]]"
   - "[[attention-motor-planning-quantum-interface-2026-01-23]]"
@@ -30,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-24T10:34:00+00:00
 ---
 
 The premotor theory of attention proposes that attention and motor planning share the same neural substrates—attention shifts *are* motor plans. If Stapp's quantum Zeno mechanism operates through attention, and attention is fundamentally motor planning, then a single quantum selection mechanism underlies both domains. The Unfinishable Map's framework unifies under one interface: consciousness selects among competing neural options through rapid observation, whether the selection concerns what to perceive or what to do.
@@ -52,6 +55,8 @@ Evidence for this claim:
 **No pure attention system.** Attempts to identify attention regions independent of motor planning consistently fail. What looks like "pure" attention involves motor preparation for potential orienting movements, even when no movement occurs.
 
 If PMTA is correct, the distinction between "attending to X" and "preparing to orient toward X" is artificial. The preparation *is* the attention. What feels like directing attention is actually preparing action.
+
+PMTA's proponents (Rizzolatti and colleagues) do not endorse dualist interpretations—their framework is thoroughly neuroscientific. The Map's extension of PMTA to support interactionist dualism is an application of their empirical findings, not a consequence they would accept. The data about shared attention-motor circuits is robust; what the data *means* for metaphysics remains contested.
 
 ### From Attention-as-Interface to Action-as-Interface
 
@@ -76,6 +81,16 @@ Paul Cisek's affordance competition hypothesis describes how motor selection act
 4. **Winner-take-all.** Once threshold is crossed, the winning action is executed while competitors are suppressed.
 
 This architecture provides a precise locus for quantum selection. During competition, multiple action representations exist simultaneously—a classical analog of quantum superposition. At threshold crossing, one becomes actual. The question is what determines the winner.
+
+### Why Neural Competition Doesn't Suffice
+
+A natural response: "Neural dynamics alone determine the winner—no consciousness needed." But this faces a dilemma. Either the competition is deterministic (one option was always going to win given physical conditions) or it involves genuine indeterminacy.
+
+If deterministic, then deliberation is theatre. The 43% of neurons encoding both options weren't weighing alternatives; they were mechanically computing a predetermined outcome. The phenomenology of effort and choice becomes illusion, and the neural architecture's apparent "competition" is misleading anthropomorphism.
+
+If genuinely indeterminate, something must resolve the indeterminacy. Pure randomness (quantum or classical noise) produces arbitrary selection, not *choice*. For the outcome to be both undetermined and meaningful, something beyond neural dynamics must bias which option actualizes. This is where consciousness enters—not as random noise, but as the resolution of indeterminacy in a direction that reflects what the agent is trying to do.
+
+The empirical finding that willed and instructed actions differ in theta signatures (Bengson 2019) is hard to explain if neural dynamics alone determine outcomes. Why would the neural signature differ when "the same" decision process operates?
 
 ### The 280ms Commitment Point
 
@@ -160,7 +175,7 @@ The dopamine research adds another layer: both domains also share **salience**. 
 
 The standard objection to quantum consciousness—rapid decoherence in warm brains—applies equally here. Tegmark's 2000 calculations suggested 10⁻¹³ second coherence times, far shorter than neural timescales.
 
-However, 2025 research revises these estimates substantially. Decoherence times of 10-100 microseconds may be achievable in biological systems, bringing quantum effects into neurophysiologically relevant ranges. At 10⁻⁴ seconds, roughly 1000 quantum cycles could occur within a single motor commitment event.
+However, Hameroff and colleagues (2014) challenged Tegmark's assumptions. Tegmark had used parameters appropriate for dead neural tissue at thermal equilibrium; corrected calculations for biological conditions yield decoherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer. Laboratory measurements by Bandyopadhyay (2014) found collective oscillations in single microtubules at warm temperatures consistent with coherence lasting approximately 100 microseconds. At 10⁻⁴ seconds, roughly 1000 quantum cycles could occur within a single motor commitment event.
 
 The basal ganglia timing is suggestive. Beta oscillations (13-30 Hz) develop during motor preparation and wane during execution. Each beta cycle lasts ~40ms—potentially time for many quantum selection events. The oscillatory dynamics could implement something like iterated Zeno observation at higher frequency than the observable neural rhythm.
 
@@ -211,7 +226,7 @@ The Map predicts stronger effects than current evidence shows, pending more targ
 
 ### The Challenge Dissolved
 
-Libet's 1983 experiments seemed to show that motor decisions are made unconsciously—the readiness potential begins ~550ms before movement, while conscious intention appears only ~200ms before.
+[[libet-experiments|Libet's 1983 experiments]] seemed to show that motor decisions are made unconsciously—the readiness potential begins ~550ms before movement, while conscious intention appears only ~200ms before.
 
 Schurger's 2012 reanalysis dissolves this challenge. The readiness potential may be stochastic noise, not unconscious decision. Movement occurs when random neural fluctuations happen to cross threshold. Averaging across trials produces the RP shape, but individual trials reflect noise, not decision.
 
@@ -255,6 +270,10 @@ The neural determinism view might seem simpler: no quantum effects needed, just 
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies. The quantum selection framework adds mechanism but gains explanatory purchase on phenomena the simpler view leaves mysterious.
 
+### An Honest Gap
+
+This framework identifies *where* consciousness might influence motor selection—at threshold-crossing moments when competing options resolve. It does not explain *how* a non-physical consciousness biases physical outcomes. That remains mysterious. The psychophysical interface—the point where mind and matter touch—is not illuminated, only located. This honest limitation distinguishes the Map's position from both eliminativism (which denies the problem) and facile solutions (which claim to solve what they merely relocate).
+
 ## Further Reading
 
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno mechanism in detail
@@ -265,6 +284,8 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies. The quantu
 - [[mental-effort]] — Phenomenology of effort in both domains
 - [[phenomenology-of-choice]] — The common experiential structure
 - [[free-will]] — The broader topic this supports
+- [[libet-experiments]] — Detailed analysis of Libet's readiness potential experiments
+- [[quantum-neural-timing-constraints]] — Timing constraints on quantum effects in neural systems
 - [[attention-motor-planning-quantum-interface-2026-01-23]] — Detailed research notes on attention-motor integration
 - [[dopamine-attention-motor-quantum-interface-2026-01-24]] — Research on dopamine's role in the selection interface
 
@@ -299,3 +320,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies. The quantu
 14. Neumann, W.J., et al. (2024). Dopamine and deep brain stimulation accelerate the neural dynamics of volitional action in Parkinson's disease. *Brain*, 147(9), 3087-3101.
 
 15. Berridge, K.C. (2007). The debate over dopamine's role in reward: the case for incentive salience. *Psychopharmacology*, 191(3), 391-431.
+
+16. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
+
+17. Bandyopadhyay, A. (2014). Experimental studies on microtubule dynamics. In *Advances in Experimental Medicine and Biology* (Vol. 846). Springer.
