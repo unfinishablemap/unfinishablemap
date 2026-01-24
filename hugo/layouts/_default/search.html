@@ -123,10 +123,19 @@
     const searchClient = algoliasearch('71VRNDJ4NN', 'b3a456437e5a7d92dd5456379a582e1f');
     const indexName = 'netlify_03578143-dfaf-49c4-9260-251969991cf4_main_all';
 
+    // Check for ?q= parameter from home page redirect
+    const urlParams = new URLSearchParams(window.location.search);
+    const initialQuery = urlParams.get('q') || '';
+
     const search = instantsearch({
         indexName: indexName,
         searchClient,
         routing: true,
+        initialUiState: {
+            [indexName]: {
+                query: initialQuery,
+            },
+        },
     });
 
     let debounceTimerId;

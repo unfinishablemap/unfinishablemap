@@ -441,6 +441,9 @@
             autocomplete({
                 container: '#search-box',
                 placeholder: 'Search The Unfinishable Map...',
+                onSubmit({ state }) {
+                    window.location.href = '/search/?q=' + encodeURIComponent(state.query);
+                },
                 getSources({ query }) {
                     return [
                         {
