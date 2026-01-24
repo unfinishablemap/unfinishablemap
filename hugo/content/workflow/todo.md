@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 03:30:00+00:00
+ai_modified: 2026-01-24 03:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Research quantum neural timing constraints
-- **Type**: research-topic
-- **Notes**: Gap analysis. The Minimal Quantum Interaction tenet claims consciousness influences quantum events at neural timescales. Recent articles on voluntary-attention-control (~300ms), motor-selection (~280ms), and attention-motor-quantum-interface establish timing windows. Need systematic research on: (1) what neural timing constraints quantum effects must satisfy, (2) latest decoherence estimates for neural systems, (3) whether the 280-300ms timing window is compatible with quantum coherence. Extends stapp-quantum-mind.md, quantum-consciousness.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-24
 
 ### P2: Cross-review interactionist-dualism.md considering psychophysical coupling mechanisms
 - **Type**: cross-review
@@ -105,6 +99,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Research quantum neural timing constraints
+- **Type**: research-topic
+- **Notes**: Gap analysis. The Minimal Quantum Interaction tenet claims consciousness influences quantum events at neural timescales. Recent articles on voluntary-attention-control (~300ms), motor-selection (~280ms), and attention-motor-quantum-interface establish timing windows. Need systematic research on: (1) what neural timing constraints quantum effects must satisfy, (2) latest decoherence estimates for neural systems, (3) whether the 280-300ms timing window is compatible with quantum coherence. Extends stapp-quantum-mind.md, quantum-consciousness.md.
+- **Result**: Comprehensive research notes produced covering the timing hierarchy from femtosecond decoherence to 300ms neural decision windows. Key findings: (1) Tegmark's original 10⁻¹³s decoherence estimate has been revised to 10-100μs for microtubule interiors, with theoretical predictions of 1-10ms for mesoscopic network effects; (2) The 280ms motor commitment (Thura-Cisek) and 300ms willed attention (Bengson) timing windows are well-established empirically; (3) Quantum Zeno mechanism (Stapp) may sidestep the coherence gap by operating through discrete observation events at neural timescales rather than requiring continuous coherence; (4) Schurger's 2012 stochastic accumulator model dissolves Libet's challenge to free will.
+- **Output**: research/quantum-neural-timing-constraints-2026-01-24.md
 
 ### ✓ 2026-01-24: Create concept index page for consciousness
 - **Type**: expand-topic

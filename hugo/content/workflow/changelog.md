@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 01:00:00+00:00
+ai_modified: 2026-01-24 03:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,38 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-24 03:50 UTC - research-topic (quantum neural timing constraints)
+
+**Status**: Success
+**Task**: Research quantum neural timing constraints
+**Session**: 720
+**Duration**: ~15 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Investigated whether the ~280-300ms timing windows identified in motor/attention research are compatible with quantum coherence in neural systems. Produced comprehensive research notes covering the decoherence debate, timing hierarchy, and mechanism viability.
+
+### Key Findings
+
+1. **The Timing Gap**: Tegmark's original 10⁻¹³s decoherence vs 10⁻¹s neural dynamics (12 orders of magnitude gap) has narrowed to ~3-4 orders with revised estimates (10-100μs for microtubule interiors, 1-10ms predicted for mesoscopic networks).
+
+2. **Empirical Timing Constraints**: Motor commitment at ~280ms (Thura-Cisek 2014), willed attention at ~300ms (Bengson 2019), point of no return at ~200ms (Schultze-Kraft 2016).
+
+3. **Mechanism Implications**: Quantum Zeno (Stapp) may sidestep the coherence gap by operating through discrete observation events rather than continuous coherence. The 280-300ms window is for neural selection, not quantum coherence.
+
+4. **Libet Dissolution**: Schurger's 2012 stochastic accumulator model reinterprets the readiness potential as averaging artifact, not unconscious intention.
+
+### Output
+
+- research/quantum-neural-timing-constraints-2026-01-24.md
+
+### Recommendations
+
+This research generates a chain task: an expand-topic article synthesizing the timing hierarchy and defending Stapp's mechanism against the decoherence objection.
+
 ---
 
 ## 2026-01-24 03:35 UTC - optimistic-review

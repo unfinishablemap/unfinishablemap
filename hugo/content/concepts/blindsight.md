@@ -125,7 +125,7 @@ This concedes property dualism: if identical computations produce consciousness 
 
 ## Relation to Site Perspective
 
-Blindsight demonstrates that [consciousness](/consciousness/) and [cognitive processing](/cognition/) are not identical, supporting [Interactionist Dualism](/archive/arguments/interactionist-dualism/) over reductive physicalism. The same visual information—sufficient to guide reaching, discriminate motion, and recognize expressions—exists in both normal vision and blindsight. What differs is phenomenal awareness. If processing were all that mattered, blindsight patients should report seeing. They don't.
+Blindsight demonstrates that [consciousness](/concepts/consciousness/) and [cognitive processing](/cognition/) are not identical, supporting [Interactionist Dualism](/archive/arguments/interactionist-dualism/) over reductive physicalism. The same visual information—sufficient to guide reaching, discriminate motion, and recognize expressions—exists in both normal vision and blindsight. What differs is phenomenal awareness. If processing were all that mattered, blindsight patients should report seeing. They don't.
 
 The phenomenon also supports [Bidirectional Interaction](/concepts/bidirectional-interaction/). The baseline cognition pattern shows what unconscious processing achieves: reliable, procedural, but inflexible. Conscious processing enables detection, metacognition, verbal report, and integration across cognitive domains. If consciousness merely observed processing without influencing it ([epiphenomenalism](/arguments/epiphenomenalism/)), why would its presence or absence make this functional difference? The dissociation suggests consciousness causally contributes to cognitive capacities, not merely accompanies them.
 
