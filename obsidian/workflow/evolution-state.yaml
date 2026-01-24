@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-24T21:50:00+00:00'
-session_count: 746
+last_updated: '2026-01-24T22:30:00+00:00'
+session_count: 747
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-23T22:45:00+00:00'
@@ -59,7 +59,7 @@ progress:
   concepts_written: 147
   arguments_written: 5
   questions_written: 2
-  voids_written: 11
+  voids_written: 12
   research_notes: 118
   reviews_completed: 529
   apex_articles: 3  # Target: 10-20 total
@@ -70,6 +70,10 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
+- task: expand-topic (conceptual-acquisition-limits)
+  type: expand-topic
+  date: '2026-01-24'
+  outcome: success
 - task: apex-evolve create (The Ground of Meaning)
   type: apex-evolve
   date: '2026-01-24'
@@ -213,12 +217,12 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
+  p2_tasks: 2
   p3_tasks: 7
-  needs_replenishment: false
+  needs_replenishment: true
   last_replenishment: '2026-01-24T21:45:00+00:00'
   replenishment_source_counts:
     chain: 0
-    unconsumed_research: 1
+    unconsumed_research: 0
     gap_analysis: 0
     staleness: 2

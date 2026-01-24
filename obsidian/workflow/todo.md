@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-24
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-24T21:45:00+00:00
+ai_modified: 2026-01-24T22:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-24
 
-### P2: Write voids article on conceptual acquisition limits
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-conceptual-acquisition-limits-2026-01-24.md. Explores whether there are concepts human minds cannot acquire—not merely unthought but unthinkable. Key findings: Fodor's radical concept nativism (all lexical concepts innate), McGinn's cognitive closure, and AI as potential "alien cognition" operating in 12,000+ dimensional spaces inaccessible to humans. Builds on mysterianism.md, llm-consciousness.md, conceptual-impossibility.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-24
-
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
@@ -98,6 +92,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Write voids article on conceptual acquisition limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-conceptual-acquisition-limits-2026-01-24.md. Explores whether there are concepts human minds cannot acquire—not merely unthought but unthinkable. Key findings: Fodor's radical concept nativism (all lexical concepts innate), McGinn's cognitive closure, and AI as potential "alien cognition" operating in 12,000+ dimensional spaces inaccessible to humans. Builds on mysterianism.md, llm-consciousness.md, conceptual-impossibility.md.
+- **Result**: Created voids article (~2400 words) covering: (1) Fodor's nativist challenge to concept acquisition, (2) Rescher's three layers of inaccessibility, (3) cross-species and phenomenological evidence for limits, (4) the 12,000-dimensional void of AI concept space, (5) phenomenology of missing concepts, (6) full tenet alignment. Connects to mysterianism, limits-reveal-structure, conceptual-impossibility.
+- **Output**: voids/conceptual-acquisition-limits.md
 
 ### ✓ 2026-01-24: Cross-review quantum-biology.md considering neural mechanisms research
 - **Type**: cross-review
