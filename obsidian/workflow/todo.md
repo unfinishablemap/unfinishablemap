@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review quantum-probability-and-consciousness.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-24, never deep-reviewed. Examines three interpretations of Born rule probabilities (objective, subjective, indexical). Should verify: (1) accurate representation of Popper, QBism, Albert-Loewer positions, (2) connection to indexical identity and haecceity, (3) alignment with site's No Many Worlds tenet.
-- **Source**: staleness
-- **Generated**: 2026-01-24
-
 ### P2: Deep review spontaneous-collapse-theories.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers GRW and CSL spontaneous collapse interpretations as alternatives to Copenhagen and Many Worlds. Should verify: (1) accuracy of GRW/CSL mechanism descriptions, (2) proper treatment of Penrose gravity-induced collapse, (3) connection to site's No Many Worlds tenet and collapse-based framework.
@@ -98,6 +92,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Deep review quantum-probability-and-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-24, never deep-reviewed. Examines three interpretations of Born rule probabilities (objective, subjective, indexical). Should verify: (1) accurate representation of Popper, QBism, Albert-Loewer positions, (2) connection to indexical identity and haecceity, (3) alignment with site's No Many Worlds tenet.
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Qualified Born rule "unexplained" claim with derivation attempts (Deutsch-Wallace, Zurek, Gleason). Added decoherence explanation paragraph. Fixed incorrect SEP reference. Added new "Illusionist Challenge" section with regress argument response. Added "Mysterian Caveat" section acknowledging cognitive closure. Engaged Wallace's decision-theoretic MWI probability derivation. Added 4 new frontmatter cross-links (mysterianism, illusionism, explanatory-gap, decoherence) and expanded references from 8 to 12.
+- **Output**: concepts/quantum-probability-and-consciousness.md (modified), reviews/deep-review-2026-01-24-quantum-probability-and-consciousness.md
 
 ### ✓ 2026-01-24: Deep review quantum-neural-mechanisms.md
 - **Type**: deep-review

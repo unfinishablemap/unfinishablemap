@@ -17,6 +17,17 @@ ai_generated_date: 2026-01-05
 last_curated:
 ---
 
+## 2026-01-24 17:30 UTC - deep-review (Session 754)
+
+**Status**: Success
+**File**: concepts/quantum-probability-and-consciousness.md
+**Critical issues addressed**: 2 (Born rule claim overstated, incorrect SEP reference)
+**Medium issues addressed**: 4 (no decoherence engagement, MWI dismissed too quickly, no mysterian caveat, no illusionist challenge)
+**Enhancements made**: 6 (decoherence explanation, Wallace engagement, Illusionist Challenge section, Mysterian Caveat section, expanded Further Reading, references expanded 8→12)
+**Output**: `reviews/deep-review-2026-01-24-quantum-probability-and-consciousness.md`
+
+---
+
 ## 2026-01-24 17:30 UTC - deep-review
 
 **Status**: Success

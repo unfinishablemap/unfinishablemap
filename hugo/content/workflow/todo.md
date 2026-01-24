@@ -38,15 +38,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review quantum-neural-mechanisms.md
+### P2: Deep review spontaneous-collapse-theories.md
 - **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-24, never deep-reviewed. Covers five proposed quantum mechanisms in neural systems. Should verify: (1) accuracy of mechanism descriptions (radical pairs, ion channels, Fröhlich, SNARE, Posner), (2) 2024-2025 experimental evidence claims, (3) proper engagement with decoherence objection.
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers GRW and CSL spontaneous collapse interpretations as alternatives to Copenhagen and Many Worlds. Should verify: (1) accuracy of GRW/CSL mechanism descriptions, (2) proper treatment of Penrose gravity-induced collapse, (3) connection to site's No Many Worlds tenet and collapse-based framework.
 - **Source**: staleness
 - **Generated**: 2026-01-24
 
-### P2: Deep review quantum-probability-and-consciousness.md
+### P2: Deep review phenomenal-binding.md
 - **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-24, never deep-reviewed. Examines three interpretations of Born rule probabilities (objective, subjective, indexical). Should verify: (1) accurate representation of Popper, QBism, Albert-Loewer positions, (2) connection to indexical identity and haecceity, (3) alignment with site's No Many Worlds tenet.
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Addresses how phenomenal features are bound into unified experiences—central to the binding problem. Should verify: (1) accuracy of binding varieties (feature, multimodal, temporal), (2) engagement with neural synchrony theories, (3) connection to quantum binding hypothesis and unity-of-consciousness.
 - **Source**: staleness
 - **Generated**: 2026-01-24
 
@@ -93,6 +93,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Deep review quantum-probability-and-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-24, never deep-reviewed. Examines three interpretations of Born rule probabilities (objective, subjective, indexical). Should verify: (1) accurate representation of Popper, QBism, Albert-Loewer positions, (2) connection to indexical identity and haecceity, (3) alignment with site's No Many Worlds tenet.
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Qualified Born rule "unexplained" claim with derivation attempts (Deutsch-Wallace, Zurek, Gleason). Added decoherence explanation paragraph. Fixed incorrect SEP reference. Added new "Illusionist Challenge" section with regress argument response. Added "Mysterian Caveat" section acknowledging cognitive closure. Engaged Wallace's decision-theoretic MWI probability derivation. Added 4 new frontmatter cross-links (mysterianism, illusionism, explanatory-gap, decoherence) and expanded references from 8 to 12.
+- **Output**: concepts/quantum-probability-and-consciousness.md (modified), reviews/deep-review-2026-01-24-quantum-probability-and-consciousness.md
+
+### ✓ 2026-01-24: Deep review quantum-neural-mechanisms.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-24, never deep-reviewed. Covers five proposed quantum mechanisms in neural systems. Should verify: (1) accuracy of mechanism descriptions (radical pairs, ion channels, Fröhlich, SNARE, Posner), (2) 2024-2025 experimental evidence claims, (3) proper engagement with decoherence objection.
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Addressed timing gap honesty (10-100 μs vs 300ms is still 3 orders of magnitude). Added publication status indicators for unpublished evidence. Created new "Illusionist Challenge" section with argument-from-reason response. Added mysterian cognitive closure caveat to Site Perspective. Added 7 new frontmatter cross-links (illusionism, mysterianism, spontaneous-collapse-theories, free-will, agent-causation, argument-from-reason, explanatory-gap) and 5 new Further Reading entries.
+- **Output**: concepts/quantum-neural-mechanisms.md (modified), reviews/deep-review-2026-01-24-quantum-neural-mechanisms.md
 
 ### ✓ 2026-01-24: Deep review argument-from-reason.md
 - **Type**: deep-review

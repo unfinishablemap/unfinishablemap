@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-01-24 08:36:00+00:00
+ai_modified: 2026-01-24 17:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,11 +11,16 @@ concepts:
 - '[[quantum-measurement-interpretations-beyond-mwi]]'
 - '[[interactionist-dualism]]'
 - '[[haecceity]]'
+- '[[mysterianism]]'
+- '[[illusionism]]'
+- '[[explanatory-gap]]'
+- '[[decoherence]]'
 created: 2026-01-24
 date: &id001 2026-01-24
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-24 17:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,7 +39,7 @@ The Unfinishable Map's [tenets](/tenets/) commit to consciousness as causally ef
 
 Max Born introduced the probabilistic interpretation of quantum mechanics in 1926: the probability of finding a particle in a particular state equals the squared amplitude of its wave function. This simple rule has survived nearly a century of experimental testing without exception.
 
-Yet the Born rule's origin remains unexplained. Standard quantum mechanics treats it as a postulate—something assumed, not derived. Why squared amplitudes? Why probabilities at all? These questions connect directly to the [measurement-problem](/concepts/measurement-problem/): why do we observe definite outcomes with these specific probabilities rather than superpositions?
+Yet the Born rule's origin remains philosophically contested. Standard quantum mechanics treats it as a postulate—something assumed rather than explained. Various derivation attempts exist—from decision theory (Deutsch-Wallace), from symmetry considerations (Zurek), from Gleason's theorem—but each presupposes significant quantum-mechanical structure, leaving philosophers divided on whether any constitutes a genuine *explanation* rather than a reformulation. Why squared amplitudes? Why probabilities at all? These questions connect directly to the [measurement-problem](/concepts/measurement-problem/): why do we observe definite outcomes with these specific probabilities rather than superpositions?
 
 Three interpretive families offer different answers:
 
@@ -85,7 +90,9 @@ Von Neumann's 1932 formalization allowed that collapse could occur anywhere alon
 
 On consciousness-collapse, Born probabilities might be objective features of the consciousness-quantum interface—describing how consciousness relates to superposed possibilities. This differs from both pure objectivism (probabilities exist independently of consciousness) and pure subjectivism (probabilities are just beliefs). Instead, probabilities describe something real about the meeting point of mind and matter.
 
-**The Wigner retreat**: Wigner himself abandoned consciousness-collapse by the 1970s-80s, convinced by Zeh's decoherence work that environmental interaction explains apparent collapse without invoking consciousness. He called his earlier view "solipsism." Most physicists followed him, and consciousness-collapse is now largely discarded in mainstream physics.
+**The Wigner retreat**: Wigner himself abandoned consciousness-collapse by the 1970s-80s, convinced by Zeh's [decoherence](/concepts/decoherence/) work that environmental interaction explains apparent collapse without invoking consciousness. He called his earlier view "solipsism." Most physicists followed him, and consciousness-collapse is now largely discarded in mainstream physics.
+
+**What decoherence does and doesn't show**: Decoherence explains why quantum interference becomes unobservable at macroscopic scales—environmental entanglement suppresses interference terms almost instantly. But as Zurek (2003) emphasizes, decoherence alone doesn't explain why we observe *one* outcome rather than a probabilistic mixture. It selects the *basis* (position vs. momentum) but not the *outcome*. The system after decoherence remains in a mixed state; something must still convert "and" (superposition) to "or" (definite result). This residual gap is where interpretive choices—and potentially consciousness—enter.
 
 **Why the Map doesn't follow**: The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) doesn't require Wigner-style consciousness-collapse. Consciousness needn't *cause* collapse globally; it might instead determine *which outcome this subject experiences* after physical processes (decoherence, spontaneous localization) select the possible outcomes. This is the approach developed in [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)—consciousness grounds the indexical fact of *why this consciousness experiences this outcome*, not the physical fact of collapse itself.
 
@@ -105,7 +112,27 @@ The indexical reading makes consciousness constitutive of what probability means
 
 This interpretation coheres with rejecting Many-Worlds. In MWI, all outcomes occur; probability describes self-location across branches. But self-location claims are "irreducibly indexical" (David Albert)—they cannot be reduced to third-person facts. The indexical reading makes explicit what MWI must treat as primitive: the first-person fact of which outcome *I* experience.
 
+Sophisticated MWI defenders (Wallace 2012, Saunders 2010) respond that decision-theoretic derivations can recover the Born rule from rationality constraints without requiring primitive indexical facts. On their view, a rational agent facing quantum uncertainty should weight outcomes by squared amplitude because this follows from separability and other rational constraints. But this response faces the criticism that the very concept of "rational agent making choices" presupposes something like indexical identity—*this* agent's interests at stake, *this* perspective considering options. The rationality constraints may quietly import what they claim to derive.
+
 **Connection to haecceity**: The indexical reading requires [haecceity](/concepts/haecceity/)—the quality of being *this* particular consciousness rather than another qualitatively identical one. Born probabilities describe probabilities for *this* subject specifically, not for "any observer with my physical properties." The irreducibility of haecceity grounds the irreducibility of indexical probability claims.
+
+## The Illusionist Challenge
+
+[Illusionism](/concepts/illusionism/) offers a deflationary response: if phenomenal consciousness is itself an illusion—the brain representing itself as having qualitative states it doesn't possess—then the indexical question may be confused. There is no *this* subject requiring explanation; there's just information processing that misrepresents itself as unified consciousness experiencing outcomes.
+
+**Response**: The illusionist move faces the standard regress. For there to be an *illusion* of experiencing spin-up, something must undergo that illusion. The "seeming" of experience is itself experiential. Even granting that conscious content is misrepresented, the subject of misrepresentation must exist. And if that subject exists, the indexical question remains: why does *this* subject have *this* (illusory or not) experience?
+
+Moreover, quantum probabilities concern future experiences—what I will observe when I measure. If experience is illusory, what are these probabilities *about*? The QBist says they're beliefs about future experiences; the illusionist says there are no experiences. These positions are in tension. Either probabilities concern something real (future experiential content) or they don't. If they don't, the entire framework of quantum probability as agent-relative collapses.
+
+## The Mysterian Caveat
+
+Perhaps the deepest concern comes from [mysterianism](/concepts/mysterianism/): we may be cognitively closed with respect to understanding how consciousness relates to quantum probability. The indexical question—why does *this* consciousness experience *this* outcome?—might be genuinely unanswerable by beings like us, not because there's no answer but because our cognitive architecture cannot grasp it.
+
+Colin McGinn's cognitive closure thesis suggests that some properties lie permanently beyond human conceptual reach. Just as a dog cannot understand calculus regardless of training, humans may be unable to understand how consciousness grounds indexical facts at quantum measurement.
+
+This caveat applies to all three readings of probability. We may be unable to understand what "objective propensity" really means, what grounds the coherence constraints that QBism invokes, or what makes the indexical reading true. The persistence of the measurement problem across a century of brilliant effort provides weak evidence for something like cognitive closure here—though we cannot be certain that future conceptual revolution won't dissolve the puzzle.
+
+The Map's response: cognitive closure, if real, counsels humility but not inaction. We can acknowledge limits while still making our best assessment. The convergence of independent arguments—the indexical gap, the [explanatory-gap](/concepts/explanatory-gap/), the hard problem, the conceivability arguments—provides cumulative support for consciousness playing a genuine role, even if we cannot fully articulate how.
 
 ## Relation to Site Perspective
 
@@ -138,6 +165,10 @@ Several issues remain unresolved:
 - [haecceity](/concepts/haecceity/) - The quality of primitive thisness
 - [quantum-consciousness](/concepts/quantum-consciousness/) - Mechanisms for consciousness-quantum interaction
 - [measurement-problem](/concepts/measurement-problem/) - Why definite outcomes occur
+- [decoherence](/concepts/decoherence/) - What environmental interaction does and doesn't explain
+- [mysterianism](/concepts/mysterianism/) - Cognitive closure and the limits of understanding
+- [illusionism](/concepts/illusionism/) - The challenge that phenomenal consciousness is illusory
+- [explanatory-gap](/concepts/explanatory-gap/) - Why physical descriptions leave experience unexplained
 
 ## References
 
@@ -145,7 +176,7 @@ Several issues remain unresolved:
 
 2. Fuchs, C. A. (2016). "On Participatory Realism." arXiv:1601.04360.
 
-3. Fuchs, C., Mermin, N. D., & Schack, R. (2013). "Quantum-Bayesian and Pragmatist Views of Quantum Theory." *Stanford Encyclopedia of Philosophy*.
+3. Fuchs, C., Mermin, N. D., & Schack, R. (2014). "An Introduction to QBism with an Application to the Locality of Quantum Mechanics." *American Journal of Physics*, 82(8), 749-754.
 
 4. Wigner, E. (1961). "Remarks on the mind-body question." In *The Scientist Speculates*.
 
@@ -153,6 +184,14 @@ Several issues remain unresolved:
 
 6. Albert, D. (2015). "Probability in the Everett Picture." In *The Wave Function: Essays on the Metaphysics of Quantum Mechanics*.
 
-7. "Quantum Approaches to Consciousness." *Stanford Encyclopedia of Philosophy*.
+7. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
 
-8. "Relational Quantum Mechanics." *Stanford Encyclopedia of Philosophy*.
+8. Zurek, W. H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*, 75(3), 715-775.
+
+9. Saunders, S., Barrett, J., Kent, A., & Wallace, D. (eds.) (2010). *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
+
+10. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
+
+11. "Quantum Approaches to Consciousness." *Stanford Encyclopedia of Philosophy*.
+
+12. "Relational Quantum Mechanics." *Stanford Encyclopedia of Philosophy*.

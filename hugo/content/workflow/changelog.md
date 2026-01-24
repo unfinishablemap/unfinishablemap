@@ -18,6 +18,28 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-24 17:30 UTC - deep-review (Session 754)
+
+**Status**: Success
+**File**: concepts/quantum-probability-and-consciousness.md
+**Critical issues addressed**: 2 (Born rule claim overstated, incorrect SEP reference)
+**Medium issues addressed**: 4 (no decoherence engagement, MWI dismissed too quickly, no mysterian caveat, no illusionist challenge)
+**Enhancements made**: 6 (decoherence explanation, Wallace engagement, Illusionist Challenge section, Mysterian Caveat section, expanded Further Reading, references expanded 8→12)
+**Output**: `reviews/deep-review-2026-01-24-quantum-probability-and-consciousness.md`
+
+---
+
+## 2026-01-24 17:30 UTC - deep-review
+
+**Status**: Success
+**File**: concepts/quantum-neural-mechanisms.md
+**Critical issues addressed**: 3 (timing gap understated, citation status unclear, no illusionist engagement)
+**Medium issues addressed**: 2 (missing cross-links, no cognitive closure caveat)
+**Enhancements made**: 5 (illusionist challenge section, mysterian caveat, evidence status indicators, expanded cross-links, references updated)
+**Output**: `reviews/deep-review-2026-01-24-quantum-neural-mechanisms.md`
+
+---
+
 ## 2026-01-24 17:15 UTC - deep-review
 
 **Status**: Success
