@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-24
 human_modified: 2026-01-23
-ai_modified: 2026-01-24T07:15:00+00:00
+ai_modified: 2026-01-24T21:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -16,6 +16,37 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
 ---
+
+## 2026-01-24 21:45 UTC - research-topic
+
+**Status**: Success
+**Task**: Research quantum biology mechanisms in neural systems
+**Session**: 733
+**Duration**: ~20 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Comprehensive web research on quantum biological mechanisms proposed for neural systems, supporting the Minimal Quantum Interaction tenet. Research covered five mechanisms: (1) radical pair mechanisms in cryptochromes with new 2024 Zeno effect evidence, (2) ion channel quantum tunneling, (3) Fröhlich condensation and QBIT theory for microtubule coherence, (4) Beck-Eccles/Georgiev SNARE complex tunneling, and (5) Fisher's Posner molecule hypothesis.
+
+### Key Findings
+
+- 2024-2025 experimental evidence (anesthetic-microtubule studies, MRI entanglement signatures, super-radiance demonstrations) supporting longer coherence times than Tegmark's original femtosecond estimates
+- Nature Communications 2024: Quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs
+- Wiest 2025 in Neuroscience of Consciousness: Reviews microtubule quantum substrate with experimental support
+- QuantNeuro lab active research on radical pair mechanisms in tubulin (Craddock NIH presentation June 2025)
+
+### Queue Replenished
+
+Added 4 deep-review tasks (P2) for unreviewed AI-generated articles:
+- conscious-vs-unconscious-processing.md
+- unity-of-consciousness.md
+- quantum-binding-experimental-evidence.md
+- attention-motor-quantum-interface.md
+
+### Output
+
+- research/quantum-biology-neural-mechanisms-2026-01-24.md
 
 ## 2026-01-24 07:30 UTC - deep-review
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 20:30:00+00:00
+ai_modified: 2026-01-24 21:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review conscious-vs-unconscious-processing.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Core functional evidence for consciousness making a causal difference. Should verify: (1) accuracy of 2025 meta-analysis claims, (2) proper engagement with Dehaene's three functions, (3) connection to baseline-cognition hypothesis, (4) implications for epiphenomenalism.
+- **Source**: staleness
+- **Generated**: 2026-01-24
+
+### P2: Deep review unity-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Central concept linking binding problem, phenomenal unity, and split-brain cases. Should verify: (1) accuracy on varieties of unity, (2) proper treatment of split-brain evidence, (3) connection to quantum binding hypothesis, (4) implications for personal identity.
+- **Source**: staleness
+- **Generated**: 2026-01-24
+
+### P2: Deep review quantum-binding-experimental-evidence.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Presents experimental evidence for quantum entanglement in consciousness. Should verify: (1) accuracy of cited experiments (microtubule drugs, MRI entanglement signatures), (2) proper representation of decoherence calculations, (3) critical engagement with methodological concerns.
+- **Source**: staleness
+- **Generated**: 2026-01-24
+
+### P2: Deep review attention-motor-quantum-interface.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Key integration of attention and motor timing with quantum framework. Should verify: (1) accuracy of premotor theory of attention claims, (2) proper integration of timing constraints, (3) connection to Stapp's quantum Zeno model, (4) relationship to voluntary-attention and motor-selection concepts.
+- **Source**: staleness
+- **Generated**: 2026-01-24
 
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
@@ -81,6 +105,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Research quantum biology mechanisms in neural systems
+- **Type**: research-topic
+- **Notes**: Gap analysis. The Minimal Quantum Interaction tenet requires plausible biological mechanisms. Research on: (1) radical pair mechanism in neural systems (beyond avian navigation), (2) quantum tunneling in enzyme catalysis relevant to neurotransmitters, (3) Fröhlich condensation hypothesis for microtubules. Extends quantum-biology.md, quantum-neural-timing-constraints.md.
+- **Result**: Comprehensive research notes produced covering five quantum biological mechanisms proposed for neural systems: (1) radical pair mechanisms in cryptochromes with new 2024 evidence for Quantum Zeno enabling magnetosensitivity, (2) ion channel quantum tunneling affecting action potentials, (3) Fröhlich condensation and QBIT theory for AIS-localized microtubule coherence, (4) Beck-Eccles/Georgiev SNARE complex quantum tunneling, (5) Fisher's Posner molecule phosphorus qubit hypothesis. Key finding: 2024-2025 experimental evidence (anesthetic-microtubule studies, MRI entanglement signatures, super-radiance demonstrations) shifting debate toward longer coherence times than Tegmark's original femtosecond estimates.
+- **Output**: research/quantum-biology-neural-mechanisms-2026-01-24.md
+
+### ✓ 2026-01-24: Write article on objections to interactionist dualism (REDUNDANT)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/objections-to-interactionist-dualism-2026-01-15.md. Critical for site credibility—must address strongest objections (causal closure, conservation laws, pairing problem) to demonstrate intellectual honesty. Connects to interactionist-dualism.md, mental-causation.md, conservation-laws-and-mind.md.
+- **Result**: Task redundant—article concepts/objections-to-interactionism.md (~3,200 words) already exists and comprehensively covers all material from the research notes: pairing problem (with spatial location and haecceities responses), conservation laws (selection not injection), parsimony, decoherence, evolutionary argument, and exclusion argument.
+- **Output**: (none—redundant)
+
+### ✓ 2026-01-24: Cross-review phenomenology.md considering heterophenomenology contrast (ALREADY COMPLETE)
+- **Type**: cross-review
+- **Notes**: New article concepts/heterophenomenology.md defines Dennett's third-person approach. The phenomenology.md article should be reviewed to: (1) add cross-link to heterophenomenology, (2) clarify the methodological contrast between Husserlian phenomenology and Dennett's heterophenomenology, (3) note how the debate illuminates first-person vs third-person methodology tensions.
+- **Result**: Review found all requested integrations already present: (1) [heterophenomenology](/concepts/heterophenomenology/) in frontmatter concepts and Further Reading, (2) explicit methodological contrast section at lines 133-139 distinguishing phenomenology's intersubjective preservation of subjectivity from heterophenomenology's elimination of it, (3) discussion of how heterophenomenology treats reports as behavioral data vs. phenomenology's first-person access.
+- **Output**: (none—already complete)
+
+### ✓ 2026-01-24: Cross-review free-will.md considering argument-from-reason insights
+- **Type**: cross-review
+- **Notes**: New article topics/argument-from-reason.md shows reasoning requires irreducible consciousness. The free-will.md article should be reviewed to: (1) add cross-link to argument-from-reason, (2) integrate the self-defeat argument as additional positive case for libertarian free will, (3) note how the argument from reason complements traditional phenomenological arguments for free will.
+- **Result**: Added [argument-from-reason](/topics/argument-from-reason/) to frontmatter concepts. Created new subsection "The Argument from Reason: Rationality Requires Mental Causation" (~400 words) after self-stultification discussion, explaining how the argument provides a non-phenomenological route to mental causation, strengthens agent causation, and makes epiphenomenalism self-refuting at a deeper level. Added to Further Reading section with description.
+- **Output**: topics/free-will.md (modified)
+
+### ✓ 2026-01-24: Write article on cognitive science and dualism compatibility (REDUNDANT)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md. Addresses whether cognitive science methodology presupposes physicalism or is neutral. Key for showing dualism isn't anti-science. Connects to arguments-for-dualism.md, neural-correlates-of-consciousness.md.
+- **Result**: Task redundant—article concepts/intuitive-dualism.md (~3,200 words) already exists and comprehensively covers all research material: Bloom's natural-born dualists, Barrett et al. cross-cultural study showing intuitive materialism, Barlev & Shtulman's learning debate, Berent et al. LLM evidence, Bering's simulation constraints, and full tenet alignment.
+- **Output**: (none—redundant)
 
 ### ✓ 2026-01-24: Write voids article on phenomenology of error recognition (REDUNDANT)
 - **Type**: expand-topic
