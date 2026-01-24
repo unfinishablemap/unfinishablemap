@@ -17,6 +17,45 @@ ai_generated_date: 2026-01-05
 last_curated:
 ---
 
+## 2026-01-24 06:57 UTC - deep-review
+
+**Status**: Success
+**Task**: Deep review of voluntary-attention.md
+**Session**: 729
+**Duration**: ~10 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Comprehensive review applying pessimistic (6 personas) and optimistic (6 personas) analysis to voluntary-attention.md. Article was coalesced earlier today from voluntary-attention-control.md sources. Addressed medium-priority issues and enhanced cross-linking.
+
+### Issues Addressed
+
+- Added missing Vossel 2023 reference (was cited in text but not in references)
+- Added primary citation for revised decoherence estimates (Hagan et al. 2002)
+- Strengthened biological precedent with radical pair mechanism citations (Ritz 2004, Hore & Mouritsen 2016)
+- Added cross-link to new quantum-neural-timing-constraints article
+
+### Enhancements Made
+
+- Explicit acknowledgment of three-order-of-magnitude gap remaining after revised estimates
+- Added note about Quantum Zeno sidestepping coherence gap through discrete observations
+- quantum-neural-timing-constraints added to frontmatter and Further Reading
+
+### Strengths Preserved
+
+- Willed/instructed/exogenous three-level distinction
+- Neural signatures table and explanations
+- Process philosophy section addressing Buddhist no-findable-agent concern
+- Falsifiability conditions in "What Would Challenge This View?"
+
+### Output
+
+- Modified: obsidian/concepts/voluntary-attention.md
+- Created: obsidian/reviews/deep-review-2026-01-24-voluntary-attention.md
+
+---
+
 ## 2026-01-24 19:45 UTC - check-tenets
 
 **Status**: Success

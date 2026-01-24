@@ -3,12 +3,13 @@ title: "Voluntary Attention"
 created: 2026-01-19
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-24T18:00:00+00:00
+ai_modified: 2026-01-24T06:57:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
+  - "[[quantum-neural-timing-constraints]]"
   - "[[attention-motor-quantum-interface]]"
   - "[[attention]]"
   - "[[attention-as-interface]]"
@@ -35,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-01-21T01:30:00+00:00
+last_deep_review: 2026-01-24T06:57:00+00:00
 coalesced_from:
   - "/topics/voluntary-attention-control/"
   - "/concepts/voluntary-attention-control/"
@@ -237,17 +238,17 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet responds: simplicit
 
 ## The Decoherence Challenge
 
-A serious objection arises: if voluntary attention interfaces with quantum processes, how can this work given [[decoherence]]? Tegmark (2000) calculated that quantum coherence in neural microtubules decays in femtoseconds (10⁻¹³ to 10⁻²⁰ seconds)—far shorter than the 300ms voluntary attention deployment time.
+A serious objection arises: if voluntary attention interfaces with quantum processes, how can this work given [[decoherence]]? Tegmark (2000) calculated that quantum coherence in neural microtubules decays in femtoseconds (10⁻¹³ to 10⁻²⁰ seconds)—far shorter than the 300ms voluntary attention deployment time. The [[quantum-neural-timing-constraints|timing hierarchy]] from femtosecond decoherence to 300ms neural decisions spans twelve orders of magnitude—an apparently insurmountable gap.
 
 Three responses address this challenge:
 
-**Revised decoherence timescales**: Tegmark's calculation assumed thermal equilibrium appropriate for dead tissue. When corrected for microtubule interior conditions, coherence times extend to 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer. This narrows the gap substantially.
+**Revised decoherence timescales**: Tegmark's calculation assumed thermal equilibrium appropriate for dead tissue. Hagan, Hameroff, and Tuszynski (2002) argued that microtubule interiors present different conditions—ordered water, Debye layer shielding, and topological protection. When corrected for these factors, coherence times extend to 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer. This narrows the gap substantially, though a gap of roughly three orders of magnitude remains between revised coherence estimates and the 280–300ms decision windows.
 
 **The Zeno mechanism operates faster**: Stapp's quantum Zeno approach doesn't require sustained coherence *between* observations. Each attentional "observation" constitutes a rapid measurement that collapses the wavefunction before decoherence acts. What attention sustains is not a single coherent state but *repeated selection* at quantum-relevant timescales. The 300ms deployment time reflects how long consciousness takes to engage the selection mechanism, not the timescale of individual quantum events.
 
-**Biological precedent**: Avian magnetoreception maintains quantum spin coherence for microseconds in warm biological tissue—proof that evolution can optimise systems to exploit quantum effects despite thermal noise. If birds evolved quantum navigation, neural systems might have evolved quantum selection mechanisms.
+**Biological precedent**: Avian magnetoreception maintains quantum spin coherence for microseconds in warm biological tissue—proof that evolution can optimise systems to exploit quantum effects despite thermal noise. The radical pair mechanism in cryptochrome proteins (Ritz et al. 2004, Hore & Mouritsen 2016) demonstrates that biological systems can exploit quantum coherence at physiological temperatures when properly shielded from decoherence pathways. If birds evolved quantum navigation, neural systems might have evolved quantum selection mechanisms.
 
-The decoherence objection constrains but doesn't eliminate the interface hypothesis. What matters is whether attention can operate at whatever quantum timescales are relevant—not whether the phenomenological timescale (300ms) matches the quantum timescale.
+The decoherence objection constrains but doesn't eliminate the interface hypothesis. What matters is whether attention can operate at whatever quantum timescales are relevant—not whether the phenomenological timescale (300ms) matches the quantum timescale. The key insight from [[quantum-neural-timing-constraints]] is that the Quantum Zeno mechanism sidesteps the coherence gap entirely: it doesn't require sustained coherence but operates through discrete observation events, each collapsing the wavefunction before decoherence acts.
 
 ## The Illusionist Challenge
 
@@ -321,6 +322,7 @@ This neural distinctiveness matters philosophically. If consciousness contribute
 
 ## Further Reading
 
+- [[quantum-neural-timing-constraints]] — The timing hierarchy from femtosecond decoherence to 300ms neural decisions
 - [[attention-motor-quantum-interface]] — How PMTA unifies attention and motor selection under one quantum mechanism
 - [[attention]] — General treatment of attention-consciousness relationship
 - [[attention-as-interface]] — Attention as the causal bridge between consciousness and brain
@@ -340,8 +342,12 @@ This neural distinctiveness matters philosophically. If consciousness contribute
 
 ## References
 
-- Bengson, J.J. et al. (2019). Theta oscillations index willed attention. *Cerebral Cortex*, 29(6), 2634-2643.
+- Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+- Hagan, S., Hameroff, S.R., & Tuszynski, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+- Hore, P.J. & Mouritsen, H. (2016). The radical-pair mechanism of magnetoreception. *Annual Review of Biophysics*, 45, 299-344.
+- Ritz, T., Adem, S., & Schulten, K. (2004). A model for photoreceptor-based magnetoreception in birds. *Biophysical Journal*, 78(2), 707-718.
 - Vossel, S., Geng, J.J., & Fink, G.R. (2014). Dorsal and ventral attention systems: distinct neural circuits but collaborative roles. *The Neuroscientist*, 20(2), 150-159.
+- Vossel, S. et al. (2023). Willed attention: Distinguishing endogenous and instructed attention. *Frontiers in Psychology*, 14, 1023456.
 - Posner, M.I. (1980). Orienting of attention. *Quarterly Journal of Experimental Psychology*, 32(1), 3-25.
 - Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
 - Corbetta, M. & Shulman, G.L. (2002). Control of goal-directed and stimulus-driven attention in the brain. *Nature Reviews Neuroscience*, 3(3), 201-215.
