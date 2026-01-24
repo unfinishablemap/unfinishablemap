@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-24
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-24T05:16:00+00:00
+ai_modified: 2026-01-24T20:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review bidirectional-interaction.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) never deep-reviewed. Directly supports the Bidirectional Interaction tenet—if this article has errors, the tenet's credibility suffers. Should verify: (1) accurate representation of causal closure debate, (2) conservation law responses, (3) empirical evidence claims (Libet, Schwartz OCD), (4) connection to quantum mechanism.
-- **Source**: staleness
-- **Generated**: 2026-01-24
-
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
@@ -60,6 +54,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Intuitive dualism explains the pre-theoretical folk intuition underlying substance dualism. Directly supports Dualism tenet as foundational cognitive science background.
 - **Source**: staleness (promoted from P3)
 - **Generated**: 2026-01-23
+
+### P2: Write voids article on phenomenology of error recognition
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-phenomenology-of-error-recognition-2026-01-21.md. Explores the strange loop where the same mind that was wrong must recognize its error. Key insight: "being wrong doesn't feel like anything—it feels exactly like being right" (Schulz). Connects error-blindness to structural limits of self-knowledge. Builds on metacognition.md, epistemic-emotions.md, self-reference-paradox.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-24
+
+### P2: Write voids article on temporal asymmetry of remembering vs anticipating
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. We can re-experience the past through episodic memory but only imagine the future. This asymmetry may mark a fundamental void—minds that access reality through causal traces can only directly know the past that caused them. Builds on temporal-consciousness.md, autonoetic-consciousness.md, episodic-memory.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-24
 
 ### P3: Deep review heterophenomenology.md
 - **Type**: deep-review
@@ -92,6 +98,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Deep review bidirectional-interaction.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) never deep-reviewed. Directly supports the Bidirectional Interaction tenet—if this article has errors, the tenet's credibility suffers. Should verify: (1) accurate representation of causal closure debate, (2) conservation law responses, (3) empirical evidence claims (Libet, Schwartz OCD), (4) connection to quantum mechanism.
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Fixed critical misattribution (Lieberman 2008 was wrong paper)—replaced with accurate Randeniya 2025 meta-analysis and Bayne & Hohwy three-functions framework. Added new "The Timing Challenge" subsection addressing Tegmark critique with cross-link to [[quantum-neural-timing-constraints]]. Added illusionist response paragraph explaining why it fails. Added cross-links to [[psychophysical-coupling-mechanisms]], [[voluntary-attention]], [[argument-from-reason]], [[conscious-vs-unconscious-processing]]. Fixed broken [[baseline-cognition]] link. Added Tomasello, Tegmark citations.
+- **Output**: concepts/bidirectional-interaction.md, reviews/deep-review-2026-01-24-bidirectional-interaction.md
 
 ### ✓ 2026-01-24: Deep review voluntary-attention.md
 - **Type**: deep-review
