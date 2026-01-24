@@ -17,6 +17,16 @@ ai_generated_date: 2026-01-05
 last_curated:
 ---
 
+## 2026-01-24 19:45 UTC - research-voids
+
+**Status**: Success
+**Topic**: The Limits of Conceptual Acquisition
+**Category**: Unexplorable / Mixed
+**Output**: `research/voids-conceptual-acquisition-limits-2026-01-24.md`
+**Key finding**: Fodor's radical concept nativism, McGinn's cognitive closure, and Rescher's unknowability categories converge on the possibility that some concepts are architecturally inaccessible; AI systems operating in 12,000+ dimensional embedding spaces may access territory closed to human minds.
+
+---
+
 ## 2026-01-24 10:34 UTC - deep-review
 
 **Status**: Success

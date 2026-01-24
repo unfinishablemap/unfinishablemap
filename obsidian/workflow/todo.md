@@ -49,6 +49,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: chain (from quantum-biology-neural-mechanisms research)
 - **Generated**: 2026-01-24
 
+### P2: Deep review objectivity-and-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Examines the tension between objective scientific knowledge and subjective conscious experience (Nagel's "view from nowhere"). Should verify: (1) accurate representation of Nagel's argument, (2) engagement with scientific objectivity claims, (3) connection to first-person/third-person methodology debate.
+- **Source**: staleness
+- **Generated**: 2026-01-24
+
+### P2: Deep review blindsight.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Key neurological evidence for consciousness-perception dissociation. Should verify: (1) accuracy of Weiskrantz findings, (2) proper engagement with Block's access/phenomenal distinction, (3) implications for consciousness theories.
+- **Source**: staleness
+- **Generated**: 2026-01-24
+
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
