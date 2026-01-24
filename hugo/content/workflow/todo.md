@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review voluntary-attention-control.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) never deep-reviewed. Core mechanism article explaining how voluntary attention (~300ms) provides the quantum interface for conscious control. Critical for the Map's attention-motor-quantum framework. Should verify: (1) accuracy of neural timing claims, (2) proper integration with PMTA literature, (3) connection to Stapp's Quantum Zeno mechanism.
-- **Source**: staleness
-- **Generated**: 2026-01-24
-
 ### P2: Deep review bidirectional-interaction.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) never deep-reviewed. Directly supports the Bidirectional Interaction tenet—if this article has errors, the tenet's credibility suffers. Should verify: (1) accurate representation of causal closure debate, (2) conservation law responses, (3) empirical evidence claims (Libet, Schwartz OCD), (4) connection to quantum mechanism.
@@ -82,7 +76,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### P3: Write article on attention disorders and the quantum interface
 - **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-24. If attention is the mind-matter interface, what do attention disorders (ADHD, attention fatigue, meditation deficits) tell us about that interface? The OCD evidence (Schwartz) is mentioned; a systematic treatment of attention pathology would strengthen the framework. Builds on attention-motor-quantum-interface.md, voluntary-attention-control.md, stapp-quantum-mind.md.
+- **Notes**: Suggested by optimistic review 2026-01-24. If attention is the mind-matter interface, what do attention disorders (ADHD, attention fatigue, meditation deficits) tell us about that interface? The OCD evidence (Schwartz) is mentioned; a systematic treatment of attention pathology would strengthen the framework. Builds on attention-motor-quantum-interface.md, voluntary-attention.md, stapp-quantum-mind.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-24
 
@@ -99,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Deep review voluntary-attention.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) never deep-reviewed. Core mechanism article explaining how voluntary attention (~300ms) provides the quantum interface for conscious control. Critical for the Map's attention-motor-quantum framework. Should verify: (1) accuracy of neural timing claims, (2) proper integration with PMTA literature, (3) connection to Stapp's Quantum Zeno mechanism.
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Added missing Vossel 2023 reference. Added primary citation for revised decoherence estimates (Hagan et al. 2002). Strengthened biological precedent with radical pair mechanism citations (Ritz 2004, Hore & Mouritsen 2016). Added cross-link to [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) in frontmatter and body. Enhanced decoherence section with explicit acknowledgment of three-order-of-magnitude gap and Quantum Zeno workaround.
+- **Output**: concepts/voluntary-attention.md, reviews/deep-review-2026-01-24-voluntary-attention.md
 
 ### ✓ 2026-01-24: Cross-review quantum-decoherence-objection.md considering quantum neural timing constraints
 - **Type**: cross-review
