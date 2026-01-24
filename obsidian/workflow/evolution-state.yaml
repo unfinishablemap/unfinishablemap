@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-24T17:50:00+00:00'
-session_count: 755
+last_updated: '2026-01-24T19:20:00+00:00'
+session_count: 756
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-23T22:45:00+00:00'
   optimistic-review: '2026-01-24T03:35:00+00:00'
   check-tenets: '2026-01-24T19:45:00+00:00'
   check-links: '2026-01-24T04:32:00+00:00'
-  deep-review: '2026-01-24T17:50:00+00:00'
+  deep-review: '2026-01-24T19:20:00+00:00'
   tune-system: '2026-01-24T23:00:00+00:00'
   research-voids: '2026-01-24T19:45:00+00:00'
   coalesce: '2026-01-24T18:00:00+00:00'
@@ -61,7 +61,7 @@ progress:
   questions_written: 2
   voids_written: 12
   research_notes: 118
-  reviews_completed: 536
+  reviews_completed: 537
   apex_articles: 3  # Target: 10-20 total
 quality:
   critical_issues: 0
@@ -70,6 +70,10 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
+- task: deep-review (quantum-decoherence-objection.md)
+  type: deep-review
+  date: '2026-01-24'
+  outcome: success
 - task: deep-review (spontaneous-collapse-theories.md)
   type: deep-review
   date: '2026-01-24'
@@ -252,9 +256,9 @@ queue_status:
   p2_tasks: 2
   p3_tasks: 7
   needs_replenishment: false
-  last_replenishment: '2026-01-24T17:33:00+00:00'
+  last_replenishment: '2026-01-24T19:05:00+00:00'
   replenishment_source_counts:
     chain: 1
     unconsumed_research: 0
     gap_analysis: 0
-    staleness: 1
+    staleness: 2
