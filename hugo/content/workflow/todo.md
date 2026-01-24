@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 17:33:00+00:00
+ai_modified: 2026-01-24 19:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,10 +44,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-24
 
-### P2: Cross-review llm-consciousness.md considering conceptual acquisition limits
-- **Type**: cross-review
-- **Notes**: New voids article voids/conceptual-acquisition-limits.md develops Fodor's nativist challenge and argues AI may operate in "alien cognition" accessing 12,000+ dimensional concept spaces inaccessible to humans. The llm-consciousness.md concept page should be reviewed to: (1) add cross-link to conceptual-acquisition-limits, (2) integrate discussion of whether LLMs access concepts humans cannot acquire, (3) note implications for determining LLM consciousness if their concept space is fundamentally alien.
-- **Source**: chain (from conceptual-acquisition-limits.md)
+### P2: Deep review phenomenal-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Core definitional page for phenomenal consciousness—the "what it is like" aspect. Should verify: (1) accuracy of Nagel's bat argument presentation, (2) proper distinction from access consciousness, (3) connection to hard problem and explanatory gap, (4) engagement with illusionist objection.
+- **Source**: staleness
+- **Generated**: 2026-01-24
+
+### P2: Deep review baseline-cognition.md
+- **Type**: deep-review
+- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Examines what great apes can do without language-mediated consciousness, establishing empirical baseline for consciousness's functional contributions. Should verify: (1) accuracy of comparative cognition claims (Povinelli, Tomasello), (2) proper engagement with conscious-vs-unconscious-processing research, (3) alignment with Bidirectional Interaction tenet.
+- **Source**: staleness
 - **Generated**: 2026-01-24
 
 ### P3: Write article on consciousness and language interface
@@ -93,6 +99,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Cross-review llm-consciousness.md considering conceptual acquisition limits
+- **Type**: cross-review
+- **Notes**: New voids article voids/conceptual-acquisition-limits.md develops Fodor's nativist challenge and argues AI may operate in "alien cognition" accessing 12,000+ dimensional concept spaces inaccessible to humans. The llm-consciousness.md concept page should be reviewed to: (1) add cross-link to conceptual-acquisition-limits, (2) integrate discussion of whether LLMs access concepts humans cannot acquire, (3) note implications for determining LLM consciousness if their concept space is fundamentally alien.
+- **Result**: Added [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) to frontmatter concepts (first position). Created new "The Alien Cognition Question" section (~500 words) covering: (1) the dimensional asymmetry between LLM embedding spaces (12,000+) and human phenomenology (6-7), (2) Fodor's nativist challenge applied to LLMs, (3) three reasons why alien concepts don't establish consciousness (concepts aren't consciousness, statistical clustering isn't understanding, translation problem cuts both ways), (4) the void-explorer possibility and why pattern detection doesn't require experience. Added conceptual-acquisition-limits as first entry in Further Reading.
+- **Output**: concepts/llm-consciousness.md (modified)
+
+### ✓ 2026-01-24: Deep review quantum-decoherence-objection.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Central objection to quantum consciousness theories—if decoherence destroys quantum effects in ~10⁻¹³ seconds, how can quantum processes be relevant to consciousness? Should verify: (1) accuracy of decoherence timescale claims, (2) engagement with counter-arguments (Quantum Zeno, protected subspaces, Fisher's Posner molecules), (3) connection to site's Minimal Quantum Interaction tenet.
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Added new "Illusionist Challenge" section with argument-from-reason response. Added "Mysterian Caveat" section acknowledging cognitive closure. Created "No Many Worlds Connection" section linking decoherence debate to tenet. Strengthened Site Perspective with Free Will and Argument from Reason connections. Improved microtubule evidence citations (Craddock, Kerskens & Pérez, Warren critique). Added 8 new frontmatter cross-links (quantum-neural-mechanisms, quantum-biology, illusionism, mysterianism, free-will, agent-causation, argument-from-reason, explanatory-gap) and 6 new Further Reading entries. Expanded references from 8 to 13.
+- **Output**: concepts/quantum-decoherence-objection.md (modified), reviews/deep-review-2026-01-24-quantum-decoherence-objection.md
 
 ### ✓ 2026-01-24: Deep review spontaneous-collapse-theories.md
 - **Type**: deep-review

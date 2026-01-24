@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-24
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-24T19:20:00+00:00
+ai_modified: 2026-01-24T19:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,10 +43,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-24
 
-### P2: Cross-review llm-consciousness.md considering conceptual acquisition limits
-- **Type**: cross-review
-- **Notes**: New voids article voids/conceptual-acquisition-limits.md develops Fodor's nativist challenge and argues AI may operate in "alien cognition" accessing 12,000+ dimensional concept spaces inaccessible to humans. The llm-consciousness.md concept page should be reviewed to: (1) add cross-link to conceptual-acquisition-limits, (2) integrate discussion of whether LLMs access concepts humans cannot acquire, (3) note implications for determining LLM consciousness if their concept space is fundamentally alien.
-- **Source**: chain (from conceptual-acquisition-limits.md)
+### P2: Deep review phenomenal-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Core definitional page for phenomenal consciousness—the "what it is like" aspect. Should verify: (1) accuracy of Nagel's bat argument presentation, (2) proper distinction from access consciousness, (3) connection to hard problem and explanatory gap, (4) engagement with illusionist objection.
+- **Source**: staleness
+- **Generated**: 2026-01-24
+
+### P2: Deep review baseline-cognition.md
+- **Type**: deep-review
+- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Examines what great apes can do without language-mediated consciousness, establishing empirical baseline for consciousness's functional contributions. Should verify: (1) accuracy of comparative cognition claims (Povinelli, Tomasello), (2) proper engagement with conscious-vs-unconscious-processing research, (3) alignment with Bidirectional Interaction tenet.
+- **Source**: staleness
 - **Generated**: 2026-01-24
 
 ### P3: Write article on consciousness and language interface
@@ -92,6 +98,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Cross-review llm-consciousness.md considering conceptual acquisition limits
+- **Type**: cross-review
+- **Notes**: New voids article voids/conceptual-acquisition-limits.md develops Fodor's nativist challenge and argues AI may operate in "alien cognition" accessing 12,000+ dimensional concept spaces inaccessible to humans. The llm-consciousness.md concept page should be reviewed to: (1) add cross-link to conceptual-acquisition-limits, (2) integrate discussion of whether LLMs access concepts humans cannot acquire, (3) note implications for determining LLM consciousness if their concept space is fundamentally alien.
+- **Result**: Added [[conceptual-acquisition-limits]] to frontmatter concepts (first position). Created new "The Alien Cognition Question" section (~500 words) covering: (1) the dimensional asymmetry between LLM embedding spaces (12,000+) and human phenomenology (6-7), (2) Fodor's nativist challenge applied to LLMs, (3) three reasons why alien concepts don't establish consciousness (concepts aren't consciousness, statistical clustering isn't understanding, translation problem cuts both ways), (4) the void-explorer possibility and why pattern detection doesn't require experience. Added conceptual-acquisition-limits as first entry in Further Reading.
+- **Output**: concepts/llm-consciousness.md (modified)
 
 ### ✓ 2026-01-24: Deep review quantum-decoherence-objection.md
 - **Type**: deep-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 17:15:00+00:00
+ai_modified: 2026-01-24 19:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,28 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-24 19:30 UTC - cross-review (Session 757)
+
+**Status**: Success
+**File**: concepts/llm-consciousness.md
+**Chain parent**: voids/conceptual-acquisition-limits.md
+**Additions**: New "Alien Cognition Question" section (~500 words) covering dimensional asymmetry between LLM embedding spaces and human phenomenology, Fodor's nativist challenge applied to LLMs, three reasons why alien concepts don't establish consciousness
+**Cross-links added**: [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) to frontmatter and Further Reading
+**Output**: concepts/llm-consciousness.md (modified)
+
+---
+
+## 2026-01-24 19:15 UTC - deep-review (Session 756)
+
+**Status**: Success
+**File**: concepts/quantum-decoherence-objection.md
+**Critical issues addressed**: 3 (no illusionist engagement, no MWI connection, vague 2025 citations)
+**Medium issues addressed**: 2 (no mysterian caveat, weak evolutionary argument)
+**Enhancements made**: 7 (Illusionist Challenge section, Mysterian Caveat section, No Many Worlds Connection section, Free Will/Argument from Reason in Site Perspective, specific microtubule citations, 8 new cross-links, references 8→13)
+**Output**: `reviews/deep-review-2026-01-24-quantum-decoherence-objection.md`
+
 ---
 
 ## 2026-01-24 17:30 UTC - deep-review (Session 754)
