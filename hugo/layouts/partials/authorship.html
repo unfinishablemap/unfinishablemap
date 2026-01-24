@@ -1,19 +1,47 @@
 {{- $ai := .Params.ai_contribution | default 0 -}}
 {{- $type := cond (eq $ai 0) "human" (cond (eq $ai 100) "ai" "mixed") -}}
+
+{{/* Build GitHub history URL - map Hugo path to source path */}}
+{{- $obsidianPath := "" -}}
+{{- if .File -}}
+    {{- if hasPrefix .File.Path "archive/" -}}
+        {{- $obsidianPath = .File.Path -}}
+    {{- else if eq .File.BaseFileName "_index" -}}
+        {{- if eq .File.Dir "." -}}
+            {{- $obsidianPath = "obsidian/index.md" -}}
+        {{- else -}}
+            {{- $section := .File.Dir | path.Clean -}}
+            {{- $obsidianPath = printf "obsidian/%s/%s.md" $section (path.Base $section) -}}
+        {{- end -}}
+    {{- else -}}
+        {{- $obsidianPath = printf "obsidian/%s" .File.Path -}}
+    {{- end -}}
+{{- end -}}
+{{- $historyURL := printf "https://github.com/%s/commits/%s/%s" .Site.Params.githubRepo .Site.Params.githubBranch $obsidianPath -}}
+
+{{/* Format dates and check if they differ */}}
+{{- $created := "" -}}
+{{- $modified := "" -}}
+{{- with .Params.created -}}{{- $created = (time .).Format "2006-01-02" -}}{{- end -}}
+{{- with .Params.modified -}}{{- $modified = (time .).Format "2006-01-02" -}}{{- end -}}
+
 <div class="authorship authorship-{{ $type }}">
-    {{ if eq $type "ai" }}
-        <strong>AI Generated</strong>
-        {{ with .Params.ai_system }} by {{ . }}{{ end }}
-        {{ with .Params.ai_generated_date }} on {{ . }}{{ end }}
-        {{ with .Params.modified }} · Last modified: {{ dateFormat "2006-01-02" . }}{{ end }}
-    {{ else if eq $type "human" }}
-        <strong>Human Created</strong>
-        {{ with .Params.author }} by {{ . }}{{ end }}
-    {{ else }}
-        <strong>Mixed Authorship</strong>
-        ({{ $ai }}% AI)
-        {{ with .Params.author }} - Human: {{ . }}{{ end }}
-        {{ with .Params.ai_system }}<br>AI: {{ . }}{{ end }}
-    {{ end }}
-    {{ with .Params.last_curated }}<br><small>Last curated: {{ . }}</small>{{ end }}
+    <span class="authorship-label">
+        {{- if eq $type "ai" -}}
+            <strong>AI Generated</strong>{{ with .Params.ai_system }} by {{ . }}{{ end }}
+        {{- else if eq $type "human" -}}
+            <strong>Human Created</strong>{{ with .Params.author }} by {{ . }}{{ end }}
+        {{- else -}}
+            <strong>Mixed Authorship</strong> ({{ $ai }}% AI)
+        {{- end -}}
+    </span>
+    {{- if or (eq $type "ai") (eq $type "mixed") }} · <a href="/project/human-supervision/">human-supervised</a>{{ end }}
+    {{- if .Params.last_curated }} · <span class="meta-curated" title="Last reviewed by human editor"><strong>Reviewed:</strong> {{ .Params.last_curated | time.Format "2006-01-02" }}</span>{{ end }}
+    {{- if $created }}
+        {{- if and $modified (ne $created $modified) }} · Created: {{ $created }} · Modified: {{ $modified }}
+        {{- else }} · Created: {{ $created }}
+        {{- end }}
+    {{- else if $modified }} · Modified: {{ $modified }}
+    {{- end }}
+    {{- if $obsidianPath }} · <a href="{{ $historyURL }}" target="_blank" rel="noopener">History</a>{{ end }}
 </div>

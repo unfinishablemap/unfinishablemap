@@ -20,12 +20,30 @@
         "name": "Mixed ({{ $ai }}% AI)"
         {{ end }}
     },
+    "creator": {
+        "@type": "Organization",
+        "name": "The Unfinishable Map",
+        "url": "https://unfinishablemap.org"
+    },
     {{ with .Params.concepts }}
     "keywords": [{{ range $i, $c := . }}{{ if $i }}, {{ end }}"{{ $c }}"{{ end }}],
     {{ end }}
     "publisher": {
         "@type": "Organization",
         "name": "{{ .Site.Title }}"
-    }
+    },
+    "sdPublisher": {
+        "@type": "Organization",
+        "name": "The Unfinishable Map"
+    }{{ if or (eq $type "ai") (eq $type "mixed") }},
+    "creditText": "{{ if eq $type "ai" }}AI-generated content under human supervision{{ else }}Human-AI collaborative content{{ end }}"{{ with .Params.last_curated }},
+    "review": {
+        "@type": "Review",
+        "datePublished": "{{ . | time.Format "2006-01-02" }}",
+        "author": {
+            "@type": "Person",
+            "name": "Human Editor"
+        }
+    }{{ end }}{{ end }}
 }
 </script>

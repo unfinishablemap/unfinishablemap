@@ -29,6 +29,10 @@ summaryLength = 150  # words for auto-summary
   # Authorship display
   showAuthorship = true
 
+  # GitHub repository for history links
+  githubRepo = "unfinishablemap/unfinishablemap"
+  githubBranch = "main"
+
 # Menu
 [menu]
   [[menu.main]]
@@ -36,7 +40,7 @@ summaryLength = 150  # words for auto-summary
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Apex"
+    name = "Apex Articles"
     url = "/apex/"
     weight = 2
   [[menu.main]]
