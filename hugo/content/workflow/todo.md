@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review phenomenal-binding.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Addresses how phenomenal features are bound into unified experiences—central to the binding problem. Should verify: (1) accuracy of binding varieties (feature, multimodal, temporal), (2) engagement with neural synchrony theories, (3) connection to quantum binding hypothesis and unity-of-consciousness.
-- **Source**: staleness
-- **Generated**: 2026-01-24
-
 ### P2: Deep review phenomenal-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Core definitional page for phenomenal consciousness—the "what it is like" aspect. Should verify: (1) accuracy of Nagel's bat argument presentation, (2) proper distinction from access consciousness, (3) connection to hard problem and explanatory gap, (4) engagement with illusionist objection.
@@ -53,6 +47,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### P2: Deep review baseline-cognition.md
 - **Type**: deep-review
 - **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Examines what great apes can do without language-mediated consciousness, establishing empirical baseline for consciousness's functional contributions. Should verify: (1) accuracy of comparative cognition claims (Povinelli, Tomasello), (2) proper engagement with conscious-vs-unconscious-processing research, (3) alignment with Bidirectional Interaction tenet.
+- **Source**: staleness
+- **Generated**: 2026-01-24
+
+### P2: Deep review measurement-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) last deep-reviewed 2026-01-19 (5 days ago). Core quantum mechanics concept central to site's framework. Should verify: (1) accuracy of collapse vs no-collapse interpretations, (2) connection to site's No Many Worlds tenet, (3) engagement with recent quantum-probability-and-consciousness and quantum-neural-mechanisms articles, (4) proper treatment of consciousness-collapse proposals.
+- **Source**: staleness
+- **Generated**: 2026-01-24
+
+### P2: Deep review interactionist-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) last deep-reviewed 2026-01-19 (5 days ago). Foundational philosophical position for the site. Should verify: (1) accuracy of historical positions (Descartes, Eccles, Popper), (2) engagement with causal closure objection, (3) connection to psychophysical-coupling-mechanisms and bidirectional-interaction articles, (4) alignment with all five tenets.
 - **Source**: staleness
 - **Generated**: 2026-01-24
 
@@ -99,6 +105,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Deep review phenomenal-binding.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Addresses how phenomenal features are bound into unified experiences—central to the binding problem. Should verify: (1) accuracy of binding varieties (feature, multimodal, temporal), (2) engagement with neural synchrony theories, (3) connection to quantum binding hypothesis and unity-of-consciousness.
+- **Result**: Comprehensive review with 6 pessimistic and 6 optimistic personas. Added new "Illusionist Challenge" section with argument-from-reason response. Added "Mysterian Caveat" section acknowledging cognitive closure. Added No Many Worlds tenet connection explaining why collapse matters for binding. Connected to free-will and agent-causation through voluntary attention control. Added Stapp's quantum Zeno approach alongside Orch OR. Improved reference quality with proper citations. Added 7 new frontmatter cross-links.
+- **Output**: concepts/phenomenal-binding.md (modified), reviews/deep-review-2026-01-24-phenomenal-binding.md
 
 ### ✓ 2026-01-24: Cross-review llm-consciousness.md considering conceptual acquisition limits
 - **Type**: cross-review

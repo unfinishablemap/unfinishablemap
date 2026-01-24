@@ -49,6 +49,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-24
 
+### P2: Deep review measurement-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) last deep-reviewed 2026-01-19 (5 days ago). Core quantum mechanics concept central to site's framework. Should verify: (1) accuracy of collapse vs no-collapse interpretations, (2) connection to site's No Many Worlds tenet, (3) engagement with recent quantum-probability-and-consciousness and quantum-neural-mechanisms articles, (4) proper treatment of consciousness-collapse proposals.
+- **Source**: staleness
+- **Generated**: 2026-01-24
+
+### P2: Deep review interactionist-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) last deep-reviewed 2026-01-19 (5 days ago). Foundational philosophical position for the site. Should verify: (1) accuracy of historical positions (Descartes, Eccles, Popper), (2) engagement with causal closure objection, (3) connection to psychophysical-coupling-mechanisms and bidirectional-interaction articles, (4) alignment with all five tenets.
+- **Source**: staleness
+- **Generated**: 2026-01-24
+
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
