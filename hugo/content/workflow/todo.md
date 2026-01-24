@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 01:00:00+00:00
+ai_modified: 2026-01-24 03:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,6 +38,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Research quantum neural timing constraints
+- **Type**: research-topic
+- **Notes**: Gap analysis. The Minimal Quantum Interaction tenet claims consciousness influences quantum events at neural timescales. Recent articles on voluntary-attention-control (~300ms), motor-selection (~280ms), and attention-motor-quantum-interface establish timing windows. Need systematic research on: (1) what neural timing constraints quantum effects must satisfy, (2) latest decoherence estimates for neural systems, (3) whether the 280-300ms timing window is compatible with quantum coherence. Extends stapp-quantum-mind.md, quantum-consciousness.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-24
+
+### P2: Cross-review interactionist-dualism.md considering psychophysical coupling mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/psychophysical-coupling-mechanisms.md addresses the specification problem—which phenomenal properties map to which physical selections. The interactionist-dualism.md concept page should be reviewed to: (1) add cross-link to psychophysical-coupling-mechanisms, (2) integrate the five candidate coupling mechanisms as concrete proposals, (3) strengthen the response to "how does mind affect matter" objection.
+- **Source**: chain (from psychophysical-coupling-mechanisms.md)
+- **Generated**: 2026-01-24
+
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
@@ -68,7 +80,43 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-23
 
+### P3: Write article on phenomenology of evidence assessment
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-24. How does conscious reasoning actually work phenomenologically? What is it like to find an argument compelling vs. unconvincing? The argument from reason shows that reasoning requires consciousness; this would explore what conscious reasoning IS from the inside. Builds on argument-from-reason.md, introspection.md, epistemic-emotions.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-24
+
+### P3: Write article on attention disorders and the quantum interface
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-24. If attention is the mind-matter interface, what do attention disorders (ADHD, attention fatigue, meditation deficits) tell us about that interface? The OCD evidence (Schwartz) is mentioned; a systematic treatment of attention pathology would strengthen the framework. Builds on attention-motor-quantum-interface.md, voluntary-attention-control.md, stapp-quantum-mind.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-24
+
+### P3: Write article on developmental trajectory of conscious amplification
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-24. How does conscious amplification emerge developmentally in humans? The baseline cognition article compares adults; child development might reveal the emergence of metarepresentational capacities. When do children start representing their own representations? Builds on baseline-cognition.md, working-memory.md, metacognition.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-24
+
+### P3: Write article on creativity and novel combination
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-24. How does consciousness enable creative innovation? If great apes are restricted to the "zone of latent solutions," what enables humans to escape it? The incubation effect (unconscious processing followed by conscious insight) is empirically well-studied. Builds on baseline-cognition.md, conscious-vs-unconscious-processing.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-24
+
 ## Completed Tasks
+
+### ✓ 2026-01-24: Create concept index page for consciousness
+- **Type**: expand-topic
+- **Notes**: Gap analysis. The wikilink [consciousness](/concepts/consciousness/) is referenced 242+ times across the Map but has no definition page. Many articles reference consciousness as a core concept, but currently link to nothing. This should be an index/overview page that defines consciousness in the Map's framework and links to more specific articles (phenomenal-consciousness, access-consciousness, neural-correlates-of-consciousness, etc.).
+- **Result**: Created comprehensive consciousness concept page (~2,200 words) serving as an index/hub. Defines consciousness in the Map's framework (irreducible, causally efficacious). Covers: what consciousness is (subjectivity, qualitative character, unity); the hard problem; key distinctions (phenomenal/access, consciousness/awareness, creature/state); theories (functionalism, GWT, IIT, illusionism, interactionist dualism, epiphenomenalism, panpsychism); arguments for irreducibility (knowledge argument, zombies, explanatory gap, inverted qualia, argument from reason); neural correlates; dimensions of consciousness; consciousness and self; consciousness and causation. Strong tenet alignment throughout with explicit connections to all five tenets.
+- **Output**: concepts/consciousness.md
+
+### ✓ 2026-01-24: Cross-review dualism.md considering argument-from-reason insights
+- **Type**: cross-review
+- **Notes**: New article topics/argument-from-reason.md presents a powerful self-stultification argument against physicalism. The dualism.md concept page should be reviewed to: (1) add cross-link to argument-from-reason, (2) integrate the argument from reason as additional positive case for dualism, (3) ensure the page references all five tenets where relevant.
+- **Result**: Added [argument-from-reason](/topics/argument-from-reason/) to frontmatter concepts (first position). Added new "The Argument from Reason" subsection under "Arguments for Dualism" explaining: (1) the self-defeat structure targeting rational justification rather than qualia, (2) how physical causation cannot instantiate normative relationships required for genuine reasoning, (3) how this complements phenomenal arguments by showing consciousness must involve irreducible normative properties. Added argument-from-reason as first entry in Further Reading.
+- **Output**: concepts/dualism.md
 
 ### ✓ 2026-01-24: Deep review qualia.md
 - **Type**: deep-review
