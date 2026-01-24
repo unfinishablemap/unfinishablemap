@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-22 23:31:04+00:00
+ai_modified: 2026-01-24 00:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[unity-of-consciousness]]'
 - '[[minimal-consciousness]]'
 - '[[binding-problem]]'
 - '[[qualia]]'
@@ -19,7 +20,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[varieties-of-unity]]'
 created: 2026-01-19
-date: &id001 2026-01-22
+date: &id001 2026-01-24
 draft: false
 human_modified: null
 last_curated: null
@@ -35,6 +36,8 @@ topics:
 
 Phenomenal unity is the fact that conscious experiences come as integrated wholes rather than collections of separate parts. When you see a red apple while hearing music and feeling hungry, these aren't three parallel streams—they're aspects of one unified experience that is yours. This unity is not merely functional coordination or information integration; it is a feature of what experience *is like*. Classical mechanisms cannot explain it because they coordinate separate processes without creating genuine wholes. Quantum entanglement may succeed precisely because it provides irreducible holism at the level of physics.
 
+This article focuses on *why* experience is unified—the explanatory challenge of phenomenal unity. For the broader conceptual framing of *what* unity of consciousness is, including its varieties and how it relates to other problems like binding and combination, see [unity-of-consciousness](/concepts/unity-of-consciousness/). That article defines the explanandum; this one develops the quantum hypothesis for the explanans.
+
 ## The Phenomenon
 
 Phenomenal unity refers to the way conscious contents are bound together in experience. It has several dimensions (see [varieties-of-unity](/concepts/varieties-of-unity/) for detailed analysis):
@@ -46,6 +49,16 @@ Phenomenal unity refers to the way conscious contents are bound together in expe
 **Subject unity**: All experiences are had by a single subject—by *you*. There is no experience that belongs to no one. The unity of the experiencer is prior to and presupposed by the unity of experiences.
 
 These dimensions are conceptually separable but phenomenologically intertwined. Normal waking consciousness exhibits all three simultaneously. Crucially, evidence suggests they can dissociate: split-brain patients may retain subject unity while losing some synchronic unity; dreamless sleep eliminates diachronic flow while (arguably) preserving subject unity; dissociative disorders disrupt ownership without affecting perceptual binding. This dissociability suggests that "phenomenal unity" may not be one problem but several—possibly requiring different explanations.
+
+### Phenomenal vs Access Unity
+
+A critical distinction cuts across the varieties: *phenomenal* unity concerns what experience is like, while *access* unity concerns information availability.
+
+**Phenomenal unity** is the unity of experience itself. When contents are phenomenally unified, there is something it is like to experience them together that goes beyond what it's like to experience each separately. This is the unity that resists physical explanation—the target of this article.
+
+**Access unity** is functional integration. When contents are access-unified, they are globally available to cognitive processes—reportable, usable for reasoning and action. [Global Workspace Theory](/concepts/global-workspace-theory/) explains access unity through global broadcast.
+
+The distinction matters because most neuroscientific theories of consciousness explain access unity without addressing phenomenal unity. They explain how information becomes globally available, not why global availability produces unified experience rather than parallel processing without a subject. A system could, in principle, have access unity without phenomenal unity—integrated information processing without any unified experience. And phenomenal unity might exist without full access unity—unified experience that isn't fully reportable.
 
 ## Why Unity Is Puzzling
 
@@ -211,6 +224,7 @@ Phenomenal unity illuminates why the Map's [tenets](/tenets/) take the positions
 
 ## Further Reading
 
+- [unity-of-consciousness](/concepts/unity-of-consciousness/) — Broader conceptual framing of what unity is and how it relates to binding, combination, and other problems
 - [quantum-binding-experimental-evidence](/concepts/quantum-binding-experimental-evidence/) — Comprehensive analysis of 2022-2025 experimental support for quantum mechanisms underlying phenomenal unity
 - [varieties-of-unity](/concepts/varieties-of-unity/) — Taxonomy of synchronic, diachronic, and subject unity with evidence for dissociation
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge to explaining unity

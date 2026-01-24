@@ -17,6 +17,56 @@ ai_generated_date: 2026-01-05
 last_curated:
 ---
 
+## 2026-01-24 02:57 UTC - validate-all
+
+**Status**: ⚠ Warnings
+**Task**: Daily health check
+**Session**: 715
+**Duration**: ~5 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Comprehensive validation of site content including frontmatter, links, orphans, and drafts.
+
+### Frontmatter Validation
+
+- **Files validated**: 534
+- **Valid**: 534
+- **Invalid**: 0
+- **Warnings**: 3
+  - `archive/_index.md`: Missing recommended fields (created, concepts)
+  - `workflow/highlights.md`: AI-authored content should specify ai_system
+
+### Link Checking
+
+**Broken links found**: 10
+
+| Source Page | Broken Link |
+|-------------|-------------|
+| concepts/access-consciousness | kane-self-forming-actions, many-worlds-interpretation, process-philosophy |
+| concepts/blindsight | consciousness, cognition, visual-consciousness |
+| concepts/phenomenal-binding | temporal-synchrony |
+| concepts/spontaneous-collapse-theories | quantum-measurement-problem |
+| topics/argument-from-reason | minimal-quantum-interaction |
+| topics/machine-consciousness | teleportation-and-identity |
+
+### Orphan Detection
+
+- **Orphaned files**: 13 (content files with no inbound links from other content)
+- Key orphans: baseline-cognition, conscious-vs-unconscious-processing, many-worlds, spontaneous-collapse-theories, machine-consciousness
+
+### Stale Drafts
+
+- **Stale drafts**: 0
+
+### Action Items
+
+1. Fix broken wikilinks in source files (10 issues)
+2. Continue cross-review work to reduce orphaned content
+
+---
+
 ## 2026-01-24 01:00 UTC - cross-review (quantum-consciousness/attention-motor-quantum-interface)
 
 **Status**: ✓ Success
