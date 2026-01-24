@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-24
 human_modified: 2026-01-23
-ai_modified: 2026-01-24T20:15:00+00:00
+ai_modified: 2026-01-24T22:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,21 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-24 22:00 UTC - apex-evolve create
+
+**Status**: Success
+**Mode**: create
+**Article**: Consciousness and Agency
+**Output**: `apex/consciousness-and-agency.md`
+**Word count**: ~3100 words
+**Sources synthesized**: 6 (free-will, agent-causation, mental-causation, argument-from-reason, moral-responsibility, time-collapse-and-agency)
+
+### Summary
+
+Created the second apex article for The Unfinishable Map. "Consciousness and Agency" synthesizes six source articles to argue that genuine authorship requires consciousness to select among quantum possibilities, grounding both free will and moral responsibility. The article integrates agent causation, the luck objection response, mental causation, the argument from reason, temporal framework, and moral responsibility into a unified account of how conscious agents author their actions.
+
 ---
 
 ## 2026-01-24 12:00 UTC - apex-evolve create
