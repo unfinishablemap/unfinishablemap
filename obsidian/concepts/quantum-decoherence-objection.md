@@ -1,16 +1,18 @@
 ---
 title: "Quantum Decoherence Objection"
 created: 2026-01-22
-modified: 2026-01-22
+modified: 2026-01-24
 human_modified:
-ai_modified: 2026-01-22T23:20:00+00:00
+ai_modified: 2026-01-24T05:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
+  - "[[quantum-neural-timing-constraints]]"
   - "[[quantum-consciousness]]"
   - "[[decoherence]]"
   - "[[measurement-problem]]"
+  - "[[stapp-quantum-mind]]"
 related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism]]"
@@ -43,6 +45,39 @@ The original Orch OR model required quantum coherence for 25 milliseconds—the 
 
 However, experimental work by Bandyopadhyay (2014) found that microtubules exhibit collective oscillations spanning kilohertz to terahertz frequencies. If Orch OR events occur at 10 MHz rather than 40 Hz, coherence need persist only **10⁻⁷ seconds** (100 nanoseconds). This revised requirement brings quantum consciousness theories into contact with experimentally observed timescales.
 
+## The Neural Decision Windows
+
+The decoherence debate takes on new significance when considering empirical data on neural decision timing. Two independent lines of research converge on a ~280–300ms window:
+
+- **Motor commitment** (~280ms): Thura and Cisek (2014) found that premotor cortex populations commit to specific actions approximately 280ms before movement onset—the signature of volitional decision in neural recordings.
+- **Willed attention** (~300ms): Bengson (2019) showed that consciously directed attention deploys at ~300ms, marked by frontal theta oscillations distinct from instructed attention.
+- **Point of no return** (~200ms): Schultze-Kraft (2016) established that actions become "ballistic" (no longer subject to conscious veto) approximately 200ms before execution.
+
+See [[quantum-neural-timing-constraints]] for detailed analysis of this timing hierarchy.
+
+Any mechanism claiming consciousness influences neural outcomes must operate within these constraints. The question becomes: can quantum effects bridge the gap between microsecond decoherence and hundreds-of-milliseconds decision windows?
+
+## Two Kinds of Timing Requirement
+
+The decoherence objection conflates mechanisms with fundamentally different timing requirements:
+
+### Sustained Coherence Mechanisms
+
+Orch OR and similar proposals require quantum superpositions to persist long enough for gravitational self-collapse or other objective reduction. These mechanisms face the full force of decoherence objections: 100 microseconds (revised estimates) is still far short of 25 milliseconds (gamma cycle) or even the revised 0.1ms (10 MHz oscillations).
+
+### Discrete Observation Mechanisms
+
+[[stapp-quantum-mind|Stapp's quantum Zeno model]] operates through repeated observation rather than sustained coherence. The quantum Zeno effect occurs when frequent measurement prevents a system from evolving away from its initial state. In Stapp's framework:
+
+1. Neural systems exist in superpositions of possible firing patterns
+2. Conscious attention acts as "observation" of these states
+3. Each observation collapses and "resets" the quantum state
+4. The accumulated effect of many observations biases which outcome becomes actual
+
+This mechanism doesn't require coherence across the full 280–300ms decision window. It requires only that individual observation events occur faster than decoherence destroys the superposition being observed. If decoherence occurs at microseconds and attention cycles operate at ~1 kHz, consciousness would need approximately 1000 observation events per decision—a snapshot model rather than continuous film.
+
+The distinction is crucial: sustained coherence mechanisms must maintain superposition throughout neural decision timescales; discrete observation mechanisms only require momentary coherence at each observation point.
+
 ## Evidence from Quantum Biology
 
 ### Avian Magnetoreception
@@ -73,14 +108,20 @@ The existence of quantum effects in avian magnetoreception demonstrates a crucia
 
 ## Further Reading
 
-- [[quantum-consciousness]] - Overview of quantum approaches to consciousness
-- [[decoherence]] - The physical process and its implications for measurement
-- [[measurement-problem]] - Why decoherence doesn't solve collapse
-- [[interactionist-dualism]] - How consciousness might influence physical outcomes
+- [[quantum-neural-timing-constraints]] — Full analysis of timing hierarchy from femtosecond decoherence to 300ms decision windows
+- [[stapp-quantum-mind]] — The quantum Zeno mechanism for mental effort
+- [[quantum-consciousness]] — Overview of quantum approaches to consciousness
+- [[decoherence]] — The physical process and its implications for measurement
+- [[measurement-problem]] — Why decoherence doesn't solve collapse
+- [[interactionist-dualism]] — How consciousness might influence physical outcomes
 
 ## References
 
-- Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194.
+- Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832–2843.
 - Hagan, S., Hameroff, S., & Tuszynski, J. (2002). "Quantum computation in brain microtubules? Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
 - Hameroff, S., & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78.
+- Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *PNAS*, 113(4), 1080–1085.
+- Stapp, H.P. (2008). A model of the quantum-classical and mind-brain connections. *arXiv:0803.1633*.
+- Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194.
+- Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401–1416.
 - Xu et al. (2026). "Computational support for cryptochrome-based magnetoreception." *Journal of the American Chemical Society*.
