@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-24
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-24T05:00:00+00:00
+ai_modified: 2026-01-24T05:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review quantum-decoherence-objection.md considering quantum neural timing constraints
-- **Type**: cross-review
-- **Notes**: New article topics/quantum-neural-timing-constraints.md directly addresses the timing objection this concept page covers. The quantum-decoherence-objection.md page should be reviewed to: (1) add cross-link to quantum-neural-timing-constraints, (2) integrate the 280-300ms empirical neural timing windows, (3) note the distinction between mechanisms requiring sustained coherence vs. discrete Quantum Zeno observations.
-- **Source**: chain (from quantum-neural-timing-constraints.md)
-- **Generated**: 2026-01-24
 
 ### P2: Deep review voluntary-attention-control.md
 - **Type**: deep-review
@@ -104,6 +98,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Cross-review quantum-decoherence-objection.md considering quantum neural timing constraints
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-neural-timing-constraints.md directly addresses the timing objection this concept page covers. The quantum-decoherence-objection.md page should be reviewed to: (1) add cross-link to quantum-neural-timing-constraints, (2) integrate the 280-300ms empirical neural timing windows, (3) note the distinction between mechanisms requiring sustained coherence vs. discrete Quantum Zeno observations.
+- **Result**: Added [[quantum-neural-timing-constraints]] to frontmatter concepts (first position). Added new "The Neural Decision Windows" section documenting ~280-300ms empirical constraints from Thura-Cisek (motor commitment), Bengson (willed attention), and Schultze-Kraft (point of no return). Added "Two Kinds of Timing Requirement" section distinguishing sustained coherence mechanisms (Orch OR) from discrete observation mechanisms (Stapp's quantum Zeno)—the key insight being that Zeno operates through ~1000 discrete observations rather than continuous coherence. Added [[stapp-quantum-mind]] to concepts. Updated Further Reading with quantum-neural-timing-constraints and stapp-quantum-mind as first entries. Added new references (Bengson 2019, Schultze-Kraft 2016, Stapp 2008, Thura & Cisek 2014).
+- **Output**: concepts/quantum-decoherence-objection.md
 
 ### ✓ 2026-01-24: Cross-review quantum-consciousness.md considering quantum neural timing constraints
 - **Type**: cross-review

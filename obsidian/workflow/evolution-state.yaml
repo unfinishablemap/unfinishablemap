@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-24T18:00:00+00:00'
-session_count: 726
+last_updated: '2026-01-24T05:15:00+00:00'
+session_count: 727
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-23T22:45:00+00:00'
@@ -67,12 +67,12 @@ quality:
 failed_tasks: {}
 task_chains:
   pending_articles: []
-  pending_cross_reviews:
-    - new_article: "topics/quantum-neural-timing-constraints.md"
-      review_targets:
-        - "concepts/quantum-decoherence-objection.md"
-      generated: "2026-01-24T15:00:00+00:00"
+  pending_cross_reviews: []
 recent_tasks:
+- task: cross-review (quantum-decoherence-objection.md/quantum-neural-timing-constraints)
+  type: cross-review
+  date: '2026-01-24'
+  outcome: success
 - task: coalesce (voluntary-attention-control → voluntary-attention)
   type: maintenance
   date: '2026-01-24'
