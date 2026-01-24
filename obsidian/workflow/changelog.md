@@ -61,7 +61,7 @@ Integrated dopamine research findings into the attention-motor-quantum-interface
 - Expanded theta oscillation discussion with 2024 *Brain* study connecting dopamine to prokinetic theta
 - Added phenomenological integration linking salience/wanting to effort phenomenology
 - Added 4 new references (Kaeser 2024, Westbrook 2023, Neumann 2024, Berridge 2007)
-- Added 3 new concept cross-links: [[dopamine-reward]], [[basal-ganglia]], [[salience-network]]
+- Added concept cross-links (note: dopamine-reward, basal-ganglia, salience-network pages do not yet exist)
 - Linked dopamine research notes in related_articles
 
 ### Output Files

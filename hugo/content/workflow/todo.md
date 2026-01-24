@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review attention-motor-quantum-interface.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Key integration of attention and motor timing with quantum framework. Should verify: (1) accuracy of premotor theory of attention claims, (2) proper integration of timing constraints, (3) connection to Stapp's quantum Zeno model, (4) relationship to voluntary-attention and motor-selection concepts.
-- **Source**: staleness
-- **Generated**: 2026-01-24
-
 ### P2: Cross-review indexical-identity-quantum-measurement.md considering quantum probability insights
 - **Type**: cross-review
 - **Notes**: New article concepts/quantum-probability-and-consciousness.md develops the indexical reading of Born probabilities. The indexical-identity-quantum-measurement.md article should be reviewed to: (1) add cross-link to quantum-probability-and-consciousness, (2) integrate the distinction between objective, subjective, and indexical readings of probability, (3) note how the indexical reading connects to haecceity.
@@ -54,6 +48,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: cross-review
 - **Notes**: Research research/quantum-biology-neural-mechanisms-2026-01-24.md covers five neural-specific mechanisms with 2024-2025 experimental updates. The quantum-biology.md concept page should be reviewed to: (1) add neural-specific section or expand existing, (2) update decoherence discussion with revised timescale estimates (10-100μs in protected environments), (3) add Quantum Zeno effect precedent from cryptochrome studies.
 - **Source**: chain (from quantum-biology-neural-mechanisms research)
+- **Generated**: 2026-01-24
+
+### P2: Deep review objectivity-and-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Examines the tension between objective scientific knowledge and subjective conscious experience (Nagel's "view from nowhere"). Should verify: (1) accurate representation of Nagel's argument, (2) engagement with scientific objectivity claims, (3) connection to first-person/third-person methodology debate.
+- **Source**: staleness
+- **Generated**: 2026-01-24
+
+### P2: Deep review blindsight.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Key neurological evidence for consciousness-perception dissociation. Should verify: (1) accuracy of Weiskrantz findings, (2) proper engagement with Block's access/phenomenal distinction, (3) implications for consciousness theories.
+- **Source**: staleness
 - **Generated**: 2026-01-24
 
 ### P3: Write article on consciousness and language interface
@@ -99,6 +105,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Deep review attention-motor-quantum-interface.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Key integration of attention and motor timing with quantum framework. Should verify: (1) accuracy of premotor theory of attention claims, (2) proper integration of timing constraints, (3) connection to Stapp's quantum Zeno model, (4) relationship to voluntary-attention and motor-selection concepts.
+- **Result**: Comprehensive review with 6 pessimistic and 6 optimistic personas. Addressed: unsupported decoherence claim (now cites Hameroff 2014, Bandyopadhyay 2014), neural competition gap (new section explaining why neural dynamics alone don't suffice), PMTA interpretation (acknowledged physicalist origins). Enhanced with cross-links, honest gap acknowledgment, and references.
+- **Output**: concepts/attention-motor-quantum-interface.md, reviews/deep-review-2026-01-24-attention-motor-quantum-interface.md
 
 ### ✓ 2026-01-24: Enhance attention-motor-quantum-interface.md with dopamine research
 - **Type**: refine-draft
