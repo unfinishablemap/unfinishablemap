@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 04:16:31+00:00
+ai_modified: 2026-01-24 04:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -68,12 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-23
 
-### P2: Deep review phenomenology.md
-- **Type**: deep-review
-- **Notes**: Staleness. Core methodological article (ai_contribution: 100) referenced heavily across the Map but never deep-reviewed. Given the first-person/third-person research, phenomenology.md should be reviewed to ensure it properly distinguishes classical phenomenology (Husserl) from heterophenomenology (Dennett) and connects to neurophenomenology (Varela).
-- **Source**: staleness (promoted from P3)
-- **Generated**: 2026-01-23
-
 ### P3: Deep review heterophenomenology.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers Dennett's third-person methodology for studying consciousness. Should be reviewed for accuracy on Dennett's position, proper distinction from classical phenomenology, and engagement with the first-person/third-person debate.
@@ -105,6 +99,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Deep review phenomenology.md
+- **Type**: deep-review
+- **Notes**: Staleness. Core methodological article (ai_contribution: 100) referenced heavily across the Map but never deep-reviewed. Given the first-person/third-person research, phenomenology.md should be reviewed to ensure it properly distinguishes classical phenomenology (Husserl) from heterophenomenology (Dennett) and connects to neurophenomenology (Varela).
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Fixed missing citation (Gallagher & Zahavi 2025 JTSC article). Strengthened Merleau-Ponty section with interface analogies (lens/light, radio/signal) to support non-production claim. Added cross-links to first-person-third-person-methodology, heterophenomenology, cognitive-phenomenology, consciousness, quantum-neural-timing-constraints. Enhanced quantum tenet connection with concrete 280-300ms timing research.
+- **Output**: concepts/phenomenology.md, reviews/deep-review-2026-01-24-phenomenology.md
 
 ### ✓ 2026-01-24: Cross-review interactionist-dualism.md considering psychophysical coupling mechanisms
 - **Type**: cross-review
