@@ -50,24 +50,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P2: Deep review intuitive-dualism.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Intuitive dualism explains the pre-theoretical folk intuition underlying substance dualism. Directly supports Dualism tenet as foundational cognitive science background.
-- **Source**: staleness (promoted from P3)
-- **Generated**: 2026-01-23
-
-### P2: Write voids article on phenomenology of error recognition
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-phenomenology-of-error-recognition-2026-01-21.md. Explores the strange loop where the same mind that was wrong must recognize its error. Key insight: "being wrong doesn't feel like anything—it feels exactly like being right" (Schulz). Connects error-blindness to structural limits of self-knowledge. Builds on metacognition.md, epistemic-emotions.md, self-reference-paradox.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-24
-
-### P2: Write voids article on temporal asymmetry of remembering vs anticipating
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. We can re-experience the past through episodic memory but only imagine the future. This asymmetry may mark a fundamental void—minds that access reality through causal traces can only directly know the past that caused them. Builds on temporal-consciousness.md, autonoetic-consciousness.md, episodic-memory.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-24
-
 ### P3: Deep review heterophenomenology.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers Dennett's third-person methodology for studying consciousness. Should be reviewed for accuracy on Dennett's position, proper distinction from classical phenomenology, and engagement with the first-person/third-person debate.
@@ -99,6 +81,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Write voids article on phenomenology of error recognition (REDUNDANT)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-phenomenology-of-error-recognition-2026-01-21.md. Explores the strange loop where the same mind that was wrong must recognize its error. Key insight: "being wrong doesn't feel like anything—it feels exactly like being right" (Schulz). Connects error-blindness to structural limits of self-knowledge. Builds on metacognition.md, epistemic-emotions.md, self-reference-paradox.md.
+- **Result**: Task redundant—article voids/phenomenology-of-error-recognition.md (~3,900 words) already exists and is fully written. Covers error-blindness, the bootstrap problem, retroactive constitution, contemplative perspectives, and all five tenets.
+- **Output**: (none—redundant)
+
+### ✓ 2026-01-24: Write voids article on temporal asymmetry of remembering vs anticipating (REDUNDANT)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21.md. We can re-experience the past through episodic memory but only imagine the future. This asymmetry may mark a fundamental void—minds that access reality through causal traces can only directly know the past that caused them. Builds on temporal-consciousness.md, autonoetic-consciousness.md, episodic-memory.md.
+- **Result**: Task redundant—article voids/temporal-asymmetry-remembering-anticipating.md (~4,600 words) already exists and is fully written. Covers pastness quale, causal arguments, conceptual incoherence, Buddhist perspectives, process philosophy, and all five tenets.
+- **Output**: (none—redundant)
+
+### ✓ 2026-01-24: Deep review intuitive-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Intuitive dualism explains the pre-theoretical folk intuition underlying substance dualism. Directly supports Dualism tenet as foundational cognitive science background.
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Expanded illusionism response to properly engage Frankish's quasi-phenomenal properties argument with three specific considerations. Added Barrett et al. empirical detail (sample sizes: 2,000+ across 6 populations). Strengthened contemplative section with sceptic objection and Fox et al. 2012 accuracy finding. Connected Minimal Quantum Interaction to [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) and [voluntary-attention](/concepts/voluntary-attention/). Added Schwartz OCD evidence to bidirectional interaction section. Added cross-links to [consciousness](/concepts/consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [first-person-third-person-methodology](/topics/first-person-third-person-methodology/), [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/).
+- **Output**: concepts/intuitive-dualism.md, reviews/deep-review-2026-01-24-intuitive-dualism.md
 
 ### ✓ 2026-01-24: Deep review bidirectional-interaction.md
 - **Type**: deep-review

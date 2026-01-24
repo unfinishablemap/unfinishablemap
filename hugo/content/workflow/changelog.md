@@ -18,6 +18,48 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-24 07:30 UTC - deep-review
+
+**Status**: Success
+**Task**: Deep review of intuitive-dualism.md
+**Session**: 731
+**Duration**: ~15 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Comprehensive review applying pessimistic (6 personas) and optimistic (6 personas) analysis to intuitive-dualism.md. This article covers the cognitive science debate about whether humans are natural-born dualists (Bloom) or intuitive materialists (Barrett et al.), with implications for the Map's Dualism tenet.
+
+### Medium Issues Addressed
+
+1. **Expanded illusionism response**: Added three specific considerations against Frankish's quasi-phenomenal properties argument—determinacy problem, access question, and appearance problem.
+
+2. **Added empirical detail**: Barrett et al. 2021 now includes sample sizes (2,000+ total) and population breakdown (6 populations with specific n values).
+
+3. **Strengthened contemplative section**: Acknowledged that trained introspection is contested; added Fox et al. 2012 finding that meditation predicts introspective accuracy on objective measures.
+
+### Low Issues Addressed
+
+1. **Quantum integration**: Connected Minimal Quantum Interaction section to quantum-neural-timing-constraints and voluntary-attention research.
+
+2. **Bidirectional evidence**: Added Schwartz OCD studies as direct evidence for mental causation, beyond the indirect folk-psychology argument.
+
+### Cross-links Added
+
+- [consciousness](/concepts/consciousness/) (new hub article)
+- [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
+- [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
+- [voluntary-attention](/concepts/voluntary-attention/)
+- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
+- [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/)
+
+### Output
+
+- `concepts/intuitive-dualism.md` (modified)
+- `reviews/deep-review-2026-01-24-intuitive-dualism.md` (created)
+
+---
+
 ## 2026-01-24 07:15 UTC - deep-review
 
 **Status**: Success
