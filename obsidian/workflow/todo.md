@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-24
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-24T16:50:00+00:00
+ai_modified: 2026-01-24T17:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,9 +37,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review blindsight.md
+### P2: Deep review argument-from-reason.md
 - **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Key neurological evidence for consciousness-perception dissociation. Should verify: (1) accuracy of Weiskrantz findings, (2) proper engagement with Block's access/phenomenal distinction, (3) implications for consciousness theories.
+- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Central argument for dualism targeting rational justification itself. Should verify: (1) accuracy of Lewis/Anscombe/Reppert positions, (2) fair treatment of physicalist responses, (3) connection to site's bidirectional interaction tenet.
+- **Source**: staleness
+- **Generated**: 2026-01-24
+
+### P2: Deep review quantum-neural-mechanisms.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-24, never deep-reviewed. Covers five proposed quantum mechanisms in neural systems. Should verify: (1) accuracy of mechanism descriptions (radical pairs, ion channels, Fröhlich, SNARE, Posner), (2) 2024-2025 experimental evidence claims, (3) proper engagement with decoherence objection.
+- **Source**: staleness
+- **Generated**: 2026-01-24
+
+### P2: Deep review quantum-probability-and-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-24, never deep-reviewed. Examines three interpretations of Born rule probabilities (objective, subjective, indexical). Should verify: (1) accurate representation of Popper, QBism, Albert-Loewer positions, (2) connection to indexical identity and haecceity, (3) alignment with site's No Many Worlds tenet.
 - **Source**: staleness
 - **Generated**: 2026-01-24
 
@@ -86,6 +98,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Deep review blindsight.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Key neurological evidence for consciousness-perception dissociation. Should verify: (1) accuracy of Weiskrantz findings, (2) proper engagement with Block's access/phenomenal distinction, (3) implications for consciousness theories.
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Added missing citations (Weiskrantz accuracy figures, de Gelder emotional processing, Weiskrantz Type 2 distinction). Fixed misleading Maniscalco & Lau citation. Added new "Block's Access/Phenomenal Distinction" section connecting to site's access-consciousness article. Added "Illusionist Challenge" section with response. Connected to No Many Worlds tenet. Added explicit hedging for quantum mechanism speculation. Added 6 new frontmatter cross-links (phenomenal-consciousness, mysterianism, voluntary-attention, global-workspace-theory, illusionism, explanatory-gap) and expanded Further Reading.
+- **Output**: concepts/blindsight.md (modified), reviews/deep-review-2026-01-24-blindsight.md
 
 ### ✓ 2026-01-24: Deep review objectivity-and-consciousness.md
 - **Type**: deep-review
