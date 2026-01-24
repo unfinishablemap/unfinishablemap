@@ -43,6 +43,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness (promoted from P3)
 - **Generated**: 2026-01-23
 
+### P2: Write article on retrocausality and neural firing
+- **Type**: expand-topic
+- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Examines presentiment research (pre-stimulus physiological responses) and retrocausal interpretations. Controversial but philosophically significant for the arrow of time, causation, and consciousness's relationship to temporal ordering. Connects to collapse-and-time.md, philosophy-of-time.md, temporal-consciousness.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-24
+
+### P2: Write article on indexical identity and haecceity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/indexical-identity-haecceity-thisness-2026-01-23.md. Examines the "thisness" of individual identity—why am I *this* observer and not another? Critical for the No Many Worlds tenet's argument that indexical questions are meaningful and unanswerable by MWI. Connects to personal-identity.md, indexical-identity-quantum-measurement.md, philosophical-zombies.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-24
+
+### P2: Write article on conceptual impossibility voids
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-conceptual-impossibility-2026-01-23.md. Explores concepts we cannot form or coherently think—a void at the edge of conceivability. Connects to mysterianism.md, cognitive-phenomenology.md, voids section. Supports Occam's Razor Has Limits tenet by examining limits of conceptual access.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-24
+
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
