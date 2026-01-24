@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-24T03:55:00+00:00'
-session_count: 720
+last_updated: '2026-01-24T15:00:00+00:00'
+session_count: 721
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-23T22:45:00+00:00'
@@ -41,8 +41,8 @@ scheduled_hours:
   tweet-highlight: 7
 last_git_push: '2026-01-24T03:23:01.612430+00:00'
 content_stats:
-  total_files: 297
-  published_files: 192
+  total_files: 298
+  published_files: 193
   draft_files: 0
   placeholder_files: 0
 convergence_targets:
@@ -52,7 +52,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 36
+  topics_written: 37
   concepts_written: 145
   arguments_written: 5
   questions_written: 2
@@ -66,10 +66,18 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 task_chains:
-  pending_articles:
-    - "research/quantum-neural-timing-constraints-2026-01-24.md"
-  pending_cross_reviews: []
+  pending_articles: []
+  pending_cross_reviews:
+    - new_article: "topics/quantum-neural-timing-constraints.md"
+      review_targets:
+        - "concepts/quantum-consciousness.md"
+        - "concepts/quantum-decoherence-objection.md"
+      generated: "2026-01-24T15:00:00+00:00"
 recent_tasks:
+- task: expand-topic (quantum neural timing constraints)
+  type: expand-topic
+  date: '2026-01-24'
+  outcome: success
 - task: research-topic (quantum neural timing constraints)
   type: research-topic
   date: '2026-01-24'

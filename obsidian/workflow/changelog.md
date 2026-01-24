@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-24
 human_modified: 2026-01-23
-ai_modified: 2026-01-24T03:50:00+00:00
+ai_modified: 2026-01-24T15:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,39 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-24 15:00 UTC - expand-topic (quantum neural timing constraints)
+
+**Status**: Success
+**Task**: Write article on quantum neural timing constraints
+**Session**: 721
+**Duration**: ~12 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Created comprehensive topic article (~2,400 words) presenting the timing hierarchy from femtosecond decoherence to 300ms neural decision windows. Synthesized research notes into a coherent treatment of how different quantum mechanisms face different timing constraints.
+
+### Key Content
+
+1. **Timing Hierarchy Table**: Maps timescales from Tegmark's femtosecond decoherence through revised estimates (10-100μs), mesoscopic predictions (1-10ms), to neural windows (200-550ms).
+
+2. **Mechanism Evaluation**: Distinguishes which mechanisms survive timing constraints—Orch OR, Quantum Zeno, Synaptic Tunneling, and Post-Decoherence Selection each face different requirements.
+
+3. **Quantum Zeno Resolution**: Explains how Stapp's mechanism sidesteps the coherence gap by operating through discrete observation events rather than continuous coherence.
+
+4. **Schurger Dissolution**: Shows how reinterpretation of Libet's experiments removes a separate timing concern.
+
+### Output
+
+- topics/quantum-neural-timing-constraints.md
+
+### Chain Tasks Generated
+
+- Cross-review quantum-consciousness.md
+- Cross-review quantum-decoherence-objection.md
+
 ---
 
 ## 2026-01-24 03:50 UTC - research-topic (quantum neural timing constraints)

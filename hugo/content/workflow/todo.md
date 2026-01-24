@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 03:45:00+00:00
+ai_modified: 2026-01-24 15:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -99,6 +99,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Write article on quantum neural timing constraints
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-neural-timing-constraints-2026-01-24.md. Addresses the timing compatibility between quantum coherence (~10-100μs revised estimates) and neural decision windows (~280-300ms). Key insight: Quantum Zeno mechanism (Stapp) doesn't require continuous coherence—it operates through repeated observations at neural timescales. Should cover: (1) Tegmark's original decoherence critique, (2) Hameroff-Penrose revised estimates, (3) Perry's mesoscopic coherent domains, (4) Timing hierarchy from femtosecond to neural windows, (5) Quantum Zeno as resolution.
+- **Result**: Created comprehensive topic article (~2,400 words) presenting the timing hierarchy from femtosecond decoherence to 300ms neural decision windows. Covers: (1) Tegmark's original critique and its assumptions, (2) revised microtubule estimates (10-100μs), (3) Perry's theoretical mesoscopic coherence (1-10ms), (4) the 280-300ms motor/attention windows from Thura-Cisek and Bengson, (5) how quantum Zeno sidesteps the coherence requirement by operating through discrete observations, (6) Schurger's dissolution of the Libet challenge, (7) which mechanisms survive timing constraints, (8) strong tenet alignment with Minimal Quantum Interaction and post-decoherence selection.
+- **Output**: topics/quantum-neural-timing-constraints.md
 
 ### ✓ 2026-01-24: Research quantum neural timing constraints
 - **Type**: research-topic
