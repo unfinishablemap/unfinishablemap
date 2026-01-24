@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-23 03:55:00+00:00
+ai_modified: 2026-01-24 04:27:53+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -125,11 +125,11 @@ This concedes property dualism: if identical computations produce consciousness 
 
 ## Relation to Site Perspective
 
-Blindsight demonstrates that [consciousness](/concepts/consciousness/) and [cognitive processing](/cognition/) are not identical, supporting [Interactionist Dualism](/archive/arguments/interactionist-dualism/) over reductive physicalism. The same visual information—sufficient to guide reaching, discriminate motion, and recognize expressions—exists in both normal vision and blindsight. What differs is phenomenal awareness. If processing were all that mattered, blindsight patients should report seeing. They don't.
+Blindsight demonstrates that [consciousness](/concepts/consciousness/) and cognitive processing are not identical, supporting [Interactionist Dualism](/archive/arguments/interactionist-dualism/) over reductive physicalism. The same visual information—sufficient to guide reaching, discriminate motion, and recognize expressions—exists in both normal vision and blindsight. What differs is phenomenal awareness. If processing were all that mattered, blindsight patients should report seeing. They don't.
 
 The phenomenon also supports [Bidirectional Interaction](/concepts/bidirectional-interaction/). The baseline cognition pattern shows what unconscious processing achieves: reliable, procedural, but inflexible. Conscious processing enables detection, metacognition, verbal report, and integration across cognitive domains. If consciousness merely observed processing without influencing it ([epiphenomenalism](/arguments/epiphenomenalism/)), why would its presence or absence make this functional difference? The dissociation suggests consciousness causally contributes to cognitive capacities, not merely accompanies them.
 
-Finally, blindsight connects to [Minimal Quantum Interaction](/minimal-quantum-interaction/). If consciousness is not reducible to neural processing patterns—if identical computations can occur with or without phenomenal awareness—then consciousness may involve non-physical properties. The quantum selection hypothesis offers a mechanism: conscious states might influence which quantum outcomes become actual, biasing neural activity in ways that enable flexible reasoning and global integration. Unconscious processing would proceed via classical pathways, explaining blindsight's preserved discrimination without conscious detection.
+Finally, blindsight connects to [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction). If consciousness is not reducible to neural processing patterns—if identical computations can occur with or without phenomenal awareness—then consciousness may involve non-physical properties. The quantum selection hypothesis offers a mechanism: conscious states might influence which quantum outcomes become actual, biasing neural activity in ways that enable flexible reasoning and global integration. Unconscious processing would proceed via classical pathways, explaining blindsight's preserved discrimination without conscious detection.
 
 ## Open Questions
 
@@ -147,7 +147,7 @@ Blindsight demonstrates that sophisticated visual processing can occur without c
 - [metacognition](/concepts/metacognition/) — Thinking about thinking
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The "what it's like" aspect of experience
 - [access-consciousness](/concepts/access-consciousness/) — Information availability for reasoning and report
-- [visual-consciousness](/visual-consciousness/) — How we consciously see
+- Visual consciousness — How we consciously see
 - [mind-brain-separation](/concepts/mind-brain-separation/) — Evidence for consciousness-brain dissociation
 
 ## References

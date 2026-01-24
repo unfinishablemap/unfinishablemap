@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-01-23T00:07:46.928750'
+ai_modified: '2026-01-24T04:09:52.942923'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-01-23'
+date: '2026-01-24'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-01-23'
+modified: '2026-01-24'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-01-24: Quantum Timing Hierarchy
+
+New article maps timescales from femtosecond decoherence to 300ms neural decisions, showing how quantum mechanisms must operate within these constraints.
+
+**Type**: new-article  
+**Link**: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
+
+---
+
 ### 2026-01-23: Quantum interpretations beyond Many-Worlds
 
 New article surveys 5 major QM interpretations (Copenhagen, Bohmian, QBism, Transactional, Objective Collapse) showing MWI isn't the only scientifically respectable option—and several leave room for consciousness to participate in quantum measurement.

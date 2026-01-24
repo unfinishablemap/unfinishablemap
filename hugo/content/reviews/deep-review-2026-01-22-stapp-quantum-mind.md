@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-22 21:16:05+00:00
+ai_modified: 2026-01-24 04:31:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts: []
@@ -98,7 +98,7 @@ topics: []
 ### Cross-links Added
 
 - [explanatory-gap](/concepts/explanatory-gap/) in Dualism section
-- [kane-self-forming-actions](/kane-self-forming-actions/) in new free will section
+- Kane's self-forming actions in new free will section
 
 ### Effective Patterns Identified
 

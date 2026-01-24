@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-23 00:37:00+00:00
+ai_modified: 2026-01-24 04:27:53+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[haecceity]]'
 - '[[decoherence]]'
 - '[[personal-identity]]'
-- '[[teleportation-and-identity]]'
+- '[[personal-identity]]'
 created: 2026-01-23
 date: &id001 2026-01-23
 draft: false
@@ -290,7 +290,7 @@ The convergence across tenets is striking. Each independently suggests uploading
 - [functionalism](/arguments/functionalism/) — The view substrate independence depends on
 - [haecceity](/concepts/haecceity/) — The thisness that uploading threatens
 - [personal-identity](/topics/personal-identity/) — What makes a future consciousness count as you
-- [teleportation-and-identity](/teleportation-and-identity/) — Parallel questions about consciousness through discontinuity
+- Teleportation and identity — Parallel questions about consciousness through discontinuity
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Candidate mechanisms for consciousness-matter interface
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge in silicon
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why copying function doesn't preserve experience

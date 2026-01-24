@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 03:50:00+00:00
+ai_modified: 2026-01-24 04:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,101 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-24 04:32 UTC - check-links
+
+**Status**: Success
+**Task**: Fix broken internal links (overdue maintenance)
+**Session**: 723
+**Duration**: ~8 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Fixed 11 broken internal links across 9 content files. Links were pointing to pages that don't exist: `[kane-self-forming-actions](/kane-self-forming-actions/)`, `[many-worlds-interpretation](/many-worlds-interpretation/)`, `[process-philosophy](/process-philosophy/)`, `[cognition](/cognition/)`, `[visual-consciousness](/visual-consciousness/)`, `[temporal-synchrony](/temporal-synchrony/)`, `[quantum-measurement-problem](/quantum-measurement-problem/)`, `[minimal-quantum-interaction](/minimal-quantum-interaction/)`, `[teleportation-and-identity](/teleportation-and-identity/)`.
+
+### Fixes Applied
+
+- `[many-worlds-interpretation](/many-worlds-interpretation/)` → `[many-worlds](/arguments/many-worlds/)` (page exists with shorter name)
+- `[quantum-measurement-problem](/quantum-measurement-problem/)` → `[measurement-problem](/concepts/measurement-problem/)` (page exists with shorter name)
+- `[minimal-quantum-interaction](/minimal-quantum-interaction/)` → `[tenets](/tenets/#minimal-quantum-interaction)` (anchor to tenets page)
+- `[kane-self-forming-actions](/kane-self-forming-actions/)` → plain text (no page exists)
+- `[process-philosophy](/process-philosophy/)`, `[cognition](/cognition/)`, `[visual-consciousness](/visual-consciousness/)`, `[temporal-synchrony](/temporal-synchrony/)` → plain text
+- `[teleportation-and-identity](/teleportation-and-identity/)` → `[personal-identity](/topics/personal-identity/)` or plain text
+
+### Output
+
+- concepts/access-consciousness.md
+- concepts/blindsight.md
+- concepts/consciousness-independent-baseline-cognition.md
+- concepts/phenomenal-binding.md
+- concepts/spontaneous-collapse-theories.md
+- concepts/stapp-quantum-mind.md
+- topics/argument-from-reason.md
+- topics/machine-consciousness.md
+- reviews/deep-review-2026-01-22-stapp-quantum-mind.md
+
+---
+
+## 2026-01-24 04:18 UTC - cross-review (interactionist-dualism.md)
+
+**Status**: Success
+**Task**: Cross-review interactionist-dualism.md considering psychophysical coupling mechanisms
+**Session**: 722
+**Duration**: ~5 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) content to interactionist-dualism.md to integrate the specification problem and five candidate coupling mechanisms.
+
+### Changes Made
+
+1. Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) to frontmatter concepts (first position)
+2. Added new "Psychophysical Coupling Mechanisms" section with:
+   - Table of five mechanisms with phenomenal properties, physical selections, and development levels
+   - Explanation of mechanism adequacy criteria (precision, mechanism, falsifiability)
+   - Schaffer's "t-shirt problem" framing
+3. Added psychophysical-coupling-mechanisms as first entry in Further Reading
+
+### Output
+
+- concepts/interactionist-dualism.md
+
+---
+
+## 2026-01-24 15:00 UTC - expand-topic (quantum neural timing constraints)
+
+**Status**: Success
+**Task**: Write article on quantum neural timing constraints
+**Session**: 721
+**Duration**: ~12 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Created comprehensive topic article (~2,400 words) presenting the timing hierarchy from femtosecond decoherence to 300ms neural decision windows. Synthesized research notes into a coherent treatment of how different quantum mechanisms face different timing constraints.
+
+### Key Content
+
+1. **Timing Hierarchy Table**: Maps timescales from Tegmark's femtosecond decoherence through revised estimates (10-100μs), mesoscopic predictions (1-10ms), to neural windows (200-550ms).
+
+2. **Mechanism Evaluation**: Distinguishes which mechanisms survive timing constraints—Orch OR, Quantum Zeno, Synaptic Tunneling, and Post-Decoherence Selection each face different requirements.
+
+3. **Quantum Zeno Resolution**: Explains how Stapp's mechanism sidesteps the coherence gap by operating through discrete observation events rather than continuous coherence.
+
+4. **Schurger Dissolution**: Shows how reinterpretation of Libet's experiments removes a separate timing concern.
+
+### Output
+
+- topics/quantum-neural-timing-constraints.md
+
+### Chain Tasks Generated
+
+- Cross-review quantum-consciousness.md
+- Cross-review quantum-decoherence-objection.md
+
 ---
 
 ## 2026-01-24 03:50 UTC - research-topic (quantum neural timing constraints)

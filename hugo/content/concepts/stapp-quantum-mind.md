@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-23 18:48:25+00:00
+ai_modified: 2026-01-24 04:29:30+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -199,7 +199,7 @@ This framework avoids the standard objections to libertarian free will:
 
 - **Not arbitrary**: Consciousness influences the brain but not distant objects because attention requires neural infrastructure. The boundary follows from how attention works, not from metaphysical fiat.
 
-Whether this constitutes "genuine" libertarian free will depends on prior commitments about what freedom requires. But Stapp's model provides the strongest mechanistic account available for how agent causation could operate within quantum mechanics. See [kane-self-forming-actions](/kane-self-forming-actions/) and [agent-causation](/concepts/agent-causation/) for fuller treatment.
+Whether this constitutes "genuine" libertarian free will depends on prior commitments about what freedom requires. But Stapp's model provides the strongest mechanistic account available for how agent causation could operate within quantum mechanics. See [agent-causation](/concepts/agent-causation/) for fuller treatment.
 
 ## Objections and Responses
 

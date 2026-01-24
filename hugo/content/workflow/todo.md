@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 15:00:00+00:00
+ai_modified: 2026-01-24 04:16:31+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,10 +38,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review interactionist-dualism.md considering psychophysical coupling mechanisms
+### P2: Cross-review quantum-consciousness.md considering quantum neural timing constraints
 - **Type**: cross-review
-- **Notes**: New article concepts/psychophysical-coupling-mechanisms.md addresses the specification problem—which phenomenal properties map to which physical selections. The interactionist-dualism.md concept page should be reviewed to: (1) add cross-link to psychophysical-coupling-mechanisms, (2) integrate the five candidate coupling mechanisms as concrete proposals, (3) strengthen the response to "how does mind affect matter" objection.
-- **Source**: chain (from psychophysical-coupling-mechanisms.md)
+- **Notes**: New article topics/quantum-neural-timing-constraints.md provides detailed timing hierarchy from femtosecond decoherence to 300ms neural decision windows. The quantum-consciousness.md concept page should be reviewed to: (1) add cross-link to quantum-neural-timing-constraints, (2) integrate the revised decoherence estimates (10-100μs microtubule, 1-10ms mesoscopic), (3) note how Quantum Zeno sidesteps coherence requirements by operating through discrete observations.
+- **Source**: chain (from quantum-neural-timing-constraints.md)
+- **Generated**: 2026-01-24
+
+### P2: Cross-review quantum-decoherence-objection.md considering quantum neural timing constraints
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-neural-timing-constraints.md directly addresses the timing objection this concept page covers. The quantum-decoherence-objection.md page should be reviewed to: (1) add cross-link to quantum-neural-timing-constraints, (2) integrate the 280-300ms empirical neural timing windows, (3) note the distinction between mechanisms requiring sustained coherence vs. discrete Quantum Zeno observations.
+- **Source**: chain (from quantum-neural-timing-constraints.md)
 - **Generated**: 2026-01-24
 
 ### P3: Write article on consciousness and language interface
@@ -99,6 +105,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Cross-review interactionist-dualism.md considering psychophysical coupling mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/psychophysical-coupling-mechanisms.md addresses the specification problem—which phenomenal properties map to which physical selections. The interactionist-dualism.md concept page should be reviewed to: (1) add cross-link to psychophysical-coupling-mechanisms, (2) integrate the five candidate coupling mechanisms as concrete proposals, (3) strengthen the response to "how does mind affect matter" objection.
+- **Result**: Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) to frontmatter concepts (first position). Added new "Psychophysical Coupling Mechanisms" section after "Selection, Biasing, and the Falsifiability Question" presenting: (1) table of five coupling mechanisms with phenomenal properties, physical selections, and development levels, (2) explanation of why attention and intention mechanisms meet adequacy standards while others remain underspecified, (3) the three criteria for mechanism adequacy (precision, mechanism, falsifiability), (4) Schaffer's "t-shirt problem" framing. Added psychophysical-coupling-mechanisms as first entry in Further Reading.
+- **Output**: concepts/interactionist-dualism.md
 
 ### ✓ 2026-01-24: Write article on quantum neural timing constraints
 - **Type**: expand-topic

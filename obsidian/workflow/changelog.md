@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-24
 human_modified: 2026-01-23
-ai_modified: 2026-01-24T04:18:03+00:00
+ai_modified: 2026-01-24T04:33:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,41 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-24 04:32 UTC - check-links
+
+**Status**: Success
+**Task**: Fix broken internal links (overdue maintenance)
+**Session**: 723
+**Duration**: ~8 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Fixed 11 broken internal links across 9 content files. Links were pointing to pages that don't exist: `[[kane-self-forming-actions]]`, `[[many-worlds-interpretation]]`, `[[process-philosophy]]`, `[[cognition]]`, `[[visual-consciousness]]`, `[[temporal-synchrony]]`, `[[quantum-measurement-problem]]`, `[[minimal-quantum-interaction]]`, `[[teleportation-and-identity]]`.
+
+### Fixes Applied
+
+- `[[many-worlds-interpretation]]` → `[[many-worlds]]` (page exists with shorter name)
+- `[[quantum-measurement-problem]]` → `[[measurement-problem]]` (page exists with shorter name)
+- `[[minimal-quantum-interaction]]` → `[[tenets#^minimal-quantum-interaction]]` (anchor to tenets page)
+- `[[kane-self-forming-actions]]` → plain text (no page exists)
+- `[[process-philosophy]]`, `[[cognition]]`, `[[visual-consciousness]]`, `[[temporal-synchrony]]` → plain text
+- `[[teleportation-and-identity]]` → `[[personal-identity]]` or plain text
+
+### Output
+
+- concepts/access-consciousness.md
+- concepts/blindsight.md
+- concepts/consciousness-independent-baseline-cognition.md
+- concepts/phenomenal-binding.md
+- concepts/spontaneous-collapse-theories.md
+- concepts/stapp-quantum-mind.md
+- topics/argument-from-reason.md
+- topics/machine-consciousness.md
+- reviews/deep-review-2026-01-22-stapp-quantum-mind.md
+
 ---
 
 ## 2026-01-24 04:18 UTC - cross-review (interactionist-dualism.md)

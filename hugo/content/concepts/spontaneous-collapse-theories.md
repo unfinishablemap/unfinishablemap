@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-23 03:14:00+00:00
+ai_modified: 2026-01-24 04:27:53+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -16,7 +16,7 @@ human_modified: null
 last_curated: null
 modified: *id001
 related_articles:
-- '[[minimal-quantum-interaction]]'
+- '[[quantum-consciousness]]'
 - '[[psychophysical-coupling-mechanisms]]'
 - '[[stapp-quantum-mind]]'
 - '[[causal-closure]]'
@@ -28,10 +28,10 @@ Spontaneous collapse theories (also called objective collapse or dynamical reduc
 
 ## The Prebiotic Collapse Problem
 
-The von Neumann-Wigner interpretation posits that consciousness causes [wave function collapse](/quantum-measurement-problem/). This creates two severe difficulties:
+The von Neumann-Wigner interpretation posits that consciousness causes [wave function collapse](/concepts/measurement-problem/). This creates two severe difficulties:
 
 1. **Infinite regress**: If measurement requires conscious observation, what collapses the observer's own wave function? An infinite chain of observers?
-2. **Prebiotic collapse**: Quantum events occurred for billions of years before consciousness evolved. Did superpositions persist across the early universe? Did the first bacteria collapse cosmic wave functions?
+2. **Prebiotic collapse**: Quantum events occurred for billions of years before consciousness evolved. Did superpositions persist across the early universe? Did the first bacteria collapse cosmic wave functions? (See [measurement-problem](/concepts/measurement-problem/) for the broader context.)
 
 These problems motivate consciousness-independent collapse mechanisms. If wave functions collapse spontaneously through physical processes, consciousness can still play a role by *modulating* collapse parameters (rate, location, basis selection) rather than wholly causing collapse. This is exactly what the Map's framework requires: minimal quantum interaction, not ubiquitous quantum-scale consciousness.
 
@@ -119,7 +119,7 @@ This experimental accountability supports the [Occam's Razor Has Limits](/tenets
 - **Decoherence**: Environmental interaction destroys quantum coherence *in practice*, creating *appearance* of collapse. Wave function still exists in superposition; we just can't access it. No modification of quantum mechanics.
 - **Spontaneous collapse**: Wave function *actually collapses* as objective physical process. Modifies quantum mechanics with nonlinear/stochastic terms.
 
-Decoherence explains why macroscopic systems look classical but doesn't solve the [measurement problem](/quantum-measurement-problem/)—it doesn't select definite outcomes. Collapse theories do. Hybrid models are possible: decoherence rapidly narrows basis options (basis selection), then spontaneous collapse or consciousness selects the outcome (outcome selection). See [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) for detailed analysis.
+Decoherence explains why macroscopic systems look classical but doesn't solve the [measurement problem](/concepts/measurement-problem/)—it doesn't select definite outcomes. Collapse theories do. Hybrid models are possible: decoherence rapidly narrows basis options (basis selection), then spontaneous collapse or consciousness selects the outcome (outcome selection). See [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) for detailed analysis.
 
 ## Comparison of Major Theories
 
@@ -160,7 +160,7 @@ The **consciousness-modulated CSL** model (McQueen's CSL-IIT or similar) best in
 ## Further Reading
 
 - [measurement-problem](/concepts/measurement-problem/) - the crisis spontaneous collapse theories address
-- [minimal-quantum-interaction](/minimal-quantum-interaction/) - how consciousness modulates baseline collapse
+- [quantum-consciousness](/concepts/quantum-consciousness/) - how consciousness modulates baseline collapse
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) - alternative consciousness-collapse model (observer-selection)
 - [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) - how phenomenal properties map to physical parameters
 - [decoherence](/concepts/decoherence/) - relationship between environmental decoherence and objective collapse
