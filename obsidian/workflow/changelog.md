@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-24
 human_modified: 2026-01-23
-ai_modified: 2026-01-24T15:00:00+00:00
+ai_modified: 2026-01-24T04:18:03+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,33 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-24 04:18 UTC - cross-review (interactionist-dualism.md)
+
+**Status**: Success
+**Task**: Cross-review interactionist-dualism.md considering psychophysical coupling mechanisms
+**Session**: 722
+**Duration**: ~5 minutes
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Added [[psychophysical-coupling-mechanisms]] content to interactionist-dualism.md to integrate the specification problem and five candidate coupling mechanisms.
+
+### Changes Made
+
+1. Added [[psychophysical-coupling-mechanisms]] to frontmatter concepts (first position)
+2. Added new "Psychophysical Coupling Mechanisms" section with:
+   - Table of five mechanisms with phenomenal properties, physical selections, and development levels
+   - Explanation of mechanism adequacy criteria (precision, mechanism, falsifiability)
+   - Schaffer's "t-shirt problem" framing
+3. Added psychophysical-coupling-mechanisms as first entry in Further Reading
+
+### Output
+
+- concepts/interactionist-dualism.md
+
 ---
 
 ## 2026-01-24 15:00 UTC - expand-topic (quantum neural timing constraints)
