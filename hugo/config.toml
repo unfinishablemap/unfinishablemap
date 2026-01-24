@@ -32,18 +32,42 @@ summaryLength = 150  # words for auto-summary
 # Menu
 [menu]
   [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Apex"
+    url = "/apex/"
+    weight = 2
+  [[menu.main]]
     name = "Topics"
     url = "/topics/"
-    weight = 1
+    weight = 3
   [[menu.main]]
     name = "Concepts"
     url = "/concepts/"
-    weight = 2
-  [[menu.main]]
-    name = "Project"
-    url = "/project/"
-    weight = 3
+    weight = 4
   [[menu.main]]
     name = "Tenets"
     url = "/tenets/"
-    weight = 4
+    weight = 5
+  [[menu.main]]
+    name = "Voids"
+    url = "/voids/"
+    weight = 6
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 7
+  [[menu.main]]
+    name = "Project"
+    url = "/project/"
+    weight = 8
+  [[menu.main]]
+    name = "Workflow"
+    url = "/workflow/"
+    weight = 9
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 10

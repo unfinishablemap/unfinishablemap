@@ -1,5 +1,11 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
+<html lang="{{ .Site.LanguageCode }}" data-theme="light">
+<script>
+    // Set data-theme immediately to avoid flash of wrong theme
+    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+    }
+</script>
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -93,37 +99,26 @@
         }
 
         /* Mobile menu */
-        .mobile-menu {
+        .mobile-menu-toggle {
             display: none;
-        }
-        .mobile-menu summary {
-            list-style: none;
             cursor: pointer;
             font-size: 1.5rem;
             line-height: 1;
+            background: transparent !important;
+            border: none !important;
+            padding: 0.5rem;
+            width: auto !important;
+            margin: 0 !important;
+            box-shadow: none !important;
         }
-        .mobile-menu summary::-webkit-details-marker {
+        [data-theme="light"] .mobile-menu-toggle {
+            color: #333 !important;
+        }
+        [data-theme="dark"] .mobile-menu-toggle {
+            color: #fff !important;
+        }
+        .mobile-menu {
             display: none;
-        }
-        .mobile-menu ul {
-            position: absolute;
-            right: 0;
-            top: 100%;
-            background: var(--pico-background-color);
-            border: 1px solid var(--pico-muted-border-color);
-            border-radius: 0.25rem;
-            padding: 0.5rem 0;
-            margin: 0;
-            min-width: 150px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-        .mobile-menu li {
-            list-style: none;
-            padding: 0;
-        }
-        .mobile-menu a {
-            display: block;
-            padding: 0.5rem 1rem;
         }
         .desktop-menu {
             display: flex;
@@ -144,12 +139,29 @@
 
         /* Mobile adjustments */
         @media (max-width: 600px) {
-            .mobile-menu {
+            .mobile-menu-toggle {
                 display: block;
-                position: relative;
             }
             .desktop-menu {
                 display: none;
+            }
+            .mobile-menu {
+                display: none;
+                width: 100%;
+                padding: 0;
+                margin: 0;
+                border-top: 1px solid var(--pico-muted-border-color);
+            }
+            .mobile-menu.open {
+                display: block;
+            }
+            .mobile-menu li {
+                list-style: none;
+                border-bottom: 1px solid var(--pico-muted-border-color);
+            }
+            .mobile-menu a {
+                display: block;
+                padding: 0.75rem 1rem;
             }
             /* Reduce container padding */
             .container {
@@ -185,38 +197,6 @@
             font-size: 0.7em;
         }
 
-        /* Algolia Autocomplete Styling */
-        #search-box {
-            margin-bottom: 1.5rem;
-        }
-
-        /* Fix autocomplete colors for dark mode */
-        .aa-Form {
-            background-color: var(--pico-background-color) !important;
-            border-color: var(--pico-muted-border-color) !important;
-        }
-        .aa-Input {
-            background-color: var(--pico-background-color) !important;
-            color: var(--pico-color) !important;
-            border-color: var(--pico-muted-border-color) !important;
-        }
-        .aa-Panel {
-            background-color: var(--pico-card-background-color) !important;
-            border-color: var(--pico-muted-border-color) !important;
-        }
-        .aa-Item {
-            background-color: var(--pico-card-background-color) !important;
-        }
-        .aa-Item[aria-selected="true"] {
-            background-color: var(--pico-primary-background) !important;
-        }
-        .aa-ItemTitle,
-        .aa-ItemDescription {
-            color: var(--pico-color) !important;
-        }
-        .aa-ItemLink {
-            color: var(--pico-color) !important;
-        }
     </style>
 </head>
 <body>
@@ -231,16 +211,15 @@
                 <li><a href="{{ .URL }}">{{ .Name }}</a></li>
                 {{ end }}
             </ul>
-            <!-- Mobile menu (details/summary) -->
-            <details class="mobile-menu">
-                <summary aria-label="Menu">&#9776;</summary>
-                <ul>
-                    {{ range .Site.Menus.main }}
-                    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-                    {{ end }}
-                </ul>
-            </details>
+            <!-- Mobile menu toggle -->
+            <span class="mobile-menu-toggle" role="button" aria-label="Menu" onclick="document.getElementById('mobile-menu').classList.toggle('open')">&#9776;</span>
         </nav>
+        <!-- Mobile menu (full width, below header) -->
+        <ul id="mobile-menu" class="mobile-menu">
+            {{ range .Site.Menus.main }}
+            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ end }}
+        </ul>
     </header>
 
     <main class="container">
@@ -427,17 +406,14 @@
                             },
                             templates: {
                                 item({ item, components, html }) {
+                                    // Strip " | The Unfinishable Map" suffix from title
+                                    const cleanTitle = item.title ? item.title.replace(/ \| The Unfinishable Map$/, '') : '';
                                     return html`
                                         <a href="${item.url}" class="aa-ItemLink">
                                             <div class="aa-ItemContent">
                                                 <div class="aa-ItemTitle">
-                                                    ${components.Highlight({ hit: item, attribute: 'title' })}
+                                                    ${cleanTitle}
                                                 </div>
-                                                ${item.content ? html`
-                                                    <div class="aa-ItemDescription">
-                                                        ${components.Snippet({ hit: item, attribute: 'content' })}
-                                                    </div>
-                                                ` : ''}
                                             </div>
                                         </a>
                                     `;

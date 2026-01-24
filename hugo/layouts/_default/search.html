@@ -1,0 +1,154 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+<div id="searchbox"></div>
+<div id="stats"></div>
+<div id="hits"></div>
+<div id="pagination"></div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@8/themes/satellite-min.css">
+<style>
+    #searchbox {
+        margin-bottom: 1rem;
+    }
+    #stats {
+        margin-bottom: 1rem;
+        font-size: 0.875rem;
+        color: var(--pico-muted-color);
+    }
+    .ais-Hits-item {
+        display: block !important;
+        margin-bottom: 1.5rem;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid var(--pico-muted-border-color);
+    }
+    .hit-title {
+        display: block;
+        font-size: 1.1rem;
+        margin-bottom: 0.5rem;
+    }
+    .hit-title a {
+        text-decoration: none;
+    }
+    .hit-title a:hover {
+        text-decoration: underline;
+    }
+    .hit-content {
+        display: block;
+        font-size: 0.9rem;
+        line-height: 1.5;
+    }
+    .ais-Highlight-highlighted,
+    .ais-Snippet-highlighted {
+        background-color: #ffeb3b;
+        font-style: normal;
+    }
+    [data-theme="dark"] .ais-Highlight-highlighted,
+    [data-theme="dark"] .ais-Snippet-highlighted {
+        background-color: #5d4e00;
+        color: #fff;
+    }
+    #pagination {
+        margin-top: 2rem;
+    }
+    .ais-Pagination-list {
+        display: flex;
+        gap: 0.5rem;
+        list-style: none;
+        padding: 0;
+        justify-content: center;
+    }
+    .ais-Pagination-item {
+        padding: 0;
+    }
+    .ais-Pagination-link {
+        display: block;
+        padding: 0.5rem 0.75rem;
+        border: 1px solid var(--pico-muted-border-color);
+        border-radius: 0.25rem;
+        text-decoration: none;
+    }
+    .ais-Pagination-item--selected .ais-Pagination-link {
+        background-color: var(--pico-primary);
+        color: var(--pico-primary-inverse);
+        border-color: var(--pico-primary);
+    }
+    /* Reset Pico form styles for Algolia */
+    .ais-SearchBox-form {
+        margin-bottom: 0;
+    }
+    .ais-SearchBox-input {
+        width: 100%;
+        padding: 0.75rem 1rem;
+        font-size: 1rem;
+        border: 1px solid var(--pico-muted-border-color);
+        border-radius: 0.25rem;
+        background: var(--pico-background-color);
+        color: var(--pico-color);
+    }
+    .ais-SearchBox-input:focus {
+        outline: none;
+        border-color: var(--pico-primary);
+    }
+    .ais-SearchBox-submit,
+    .ais-SearchBox-reset {
+        display: none;
+    }
+</style>
+
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4/dist/instantsearch.production.min.js"></script>
+<script>
+    const searchClient = algoliasearch('71VRNDJ4NN', 'b3a456437e5a7d92dd5456379a582e1f');
+    const indexName = 'netlify_03578143-dfaf-49c4-9260-251969991cf4_main_all';
+
+    const search = instantsearch({
+        indexName: indexName,
+        searchClient,
+        routing: true,
+    });
+
+    search.addWidgets([
+        instantsearch.widgets.searchBox({
+            container: '#searchbox',
+            placeholder: 'Search The Unfinishable Map...',
+            autofocus: true,
+        }),
+        instantsearch.widgets.stats({
+            container: '#stats',
+            templates: {
+                text: ({ nbHits, processingTimeMS, query }) => {
+                    if (!query) return '';
+                    return `${nbHits} results found in ${processingTimeMS}ms`;
+                },
+            },
+        }),
+        instantsearch.widgets.hits({
+            container: '#hits',
+            templates: {
+                item: (hit, { html, components }) => {
+                    const cleanTitle = hit.title ? hit.title.replace(/ \| The Unfinishable Map$/, '') : 'Untitled';
+                    return html`
+                        <div class="hit-title">
+                            <a href="${hit.url}">${cleanTitle}</a>
+                        </div>
+                        ${hit.content ? html`
+                            <div class="hit-content">
+                                ${components.Snippet({ hit, attribute: 'content' })}
+                            </div>
+                        ` : ''}
+                    `;
+                },
+                empty: (results, { html }) => html`
+                    <p>No results found for "<strong>${results.query}</strong>".</p>
+                `,
+            },
+        }),
+        instantsearch.widgets.pagination({
+            container: '#pagination',
+        }),
+    ]);
+
+    search.start();
+</script>
+{{ end }}
