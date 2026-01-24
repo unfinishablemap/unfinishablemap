@@ -129,11 +129,16 @@
         routing: true,
     });
 
+    let debounceTimerId;
     search.addWidgets([
         instantsearch.widgets.searchBox({
             container: '#searchbox',
             placeholder: 'Search The Unfinishable Map...',
             autofocus: true,
+            queryHook(query, refine) {
+                clearTimeout(debounceTimerId);
+                debounceTimerId = setTimeout(() => refine(query), 500);
+            },
         }),
         instantsearch.widgets.stats({
             container: '#stats',

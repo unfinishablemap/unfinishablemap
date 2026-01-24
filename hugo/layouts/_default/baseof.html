@@ -415,6 +415,29 @@
             const searchClient = algoliasearch('71VRNDJ4NN', 'b3a456437e5a7d92dd5456379a582e1f');
             const indexName = 'netlify_03578143-dfaf-49c4-9260-251969991cf4_main_all';
 
+            // Debounce helper
+            function debounce(fn, delay) {
+                let timerId;
+                return function(...args) {
+                    clearTimeout(timerId);
+                    return new Promise(resolve => {
+                        timerId = setTimeout(() => resolve(fn(...args)), delay);
+                    });
+                };
+            }
+
+            const debouncedSearch = debounce((query) => {
+                return searchClient.search([
+                    {
+                        indexName: indexName,
+                        query,
+                        params: {
+                            hitsPerPage: 10,
+                        },
+                    },
+                ]).then(({ results }) => results[0].hits);
+            }, 500);
+
             autocomplete({
                 container: '#search-box',
                 placeholder: 'Search The Unfinishable Map...',
@@ -423,15 +446,7 @@
                         {
                             sourceId: 'pages',
                             getItems() {
-                                return searchClient.search([
-                                    {
-                                        indexName: indexName,
-                                        query,
-                                        params: {
-                                            hitsPerPage: 10,
-                                        },
-                                    },
-                                ]).then(({ results }) => results[0].hits);
+                                return debouncedSearch(query);
                             },
                             templates: {
                                 item({ item, components, html }) {
