@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-23 05:35:00+00:00
+ai_modified: 2026-01-24 20:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,8 +11,9 @@ concepts:
 - '[[many-worlds]]'
 - '[[mind-matter-interface]]'
 - '[[interactionist-dualism]]'
+- '[[quantum-probability-and-consciousness]]'
 created: 2026-01-23
-date: &id001 2026-01-23
+date: &id001 2026-01-24
 draft: false
 human_modified: null
 last_curated: null
@@ -91,6 +92,20 @@ Fuchs writes that participatory realism represents "attempts to make a deep stat
 
 **The ambiguity**: "Participation" could be epistemic (QBism-style belief updating) or ontic (consciousness actually constituting facts through collapse). If epistemic, we face QBism's indexical gap. If ontic, we face consciousness-collapse's gap. Participatory realism recognizes that the first-person perspective matters but remains ambiguous about *how* it matters—whether consciousness changes reality or merely represents it.
 
+## Three Readings of Quantum Probability
+
+The indexical gap has implications for understanding what quantum probabilities actually describe. The [quantum-probability-and-consciousness](/concepts/quantum-probability-and-consciousness/) article develops three distinct readings:
+
+**Objective reading**: Born probabilities are propensities—real features of physical systems that would yield the same statistics regardless of observers. On this view, a radioactive atom has a 50% probability of decaying in one half-life whether or not anyone is watching. Consciousness is irrelevant.
+
+**Subjective reading (QBism)**: Born probabilities are rational constraints on agents' degrees of belief. They describe how a rational agent should update expectations, not features of reality. Consciousness is presupposed (agents must exist to have beliefs) but not explained.
+
+**Indexical reading**: Born probabilities describe the relationship between *this* consciousness and possible outcomes—not "probability that spin-up occurs" but "probability that *I* experience spin-up." The first-person perspective becomes constitutive of what probability means.
+
+The indexical reading makes explicit what the indexical gap reveals: standard interpretations either ignore the first-person perspective entirely (objective reading, relational QM) or presuppose it without explanation (QBism, consciousness-collapse). The indexical reading builds the first-person perspective into the foundations.
+
+This connects directly to [haecceity](/concepts/haecceity/). If Born probabilities describe probabilities for *this* particular subject, they invoke the primitive thisness that distinguishes this consciousness from any other qualitatively identical one. Haecceity isn't merely relevant to the indexical gap—it may be what Born probabilities ultimately describe.
+
 ## Toward an Indexical-Grounded Account
 
 The [tenets](/tenets/) commit this site to positions that bear directly on the indexical gap:
@@ -128,6 +143,7 @@ This topic intersects all five tenets:
 ## Further Reading
 
 - [haecceity](/concepts/haecceity/) - The quality of being *this* particular thing
+- [quantum-probability-and-consciousness](/concepts/quantum-probability-and-consciousness/) - Three readings of the Born rule
 - [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) - Survey of interpretations
 - [measurement-problem](/concepts/measurement-problem/) - Why definite outcomes occur
 - [mind-matter-interface](/concepts/mind-matter-interface/) - How consciousness meets matter

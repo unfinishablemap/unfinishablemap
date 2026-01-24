@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 10:30:00+00:00
+ai_modified: 2026-01-24 20:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review indexical-identity-quantum-measurement.md considering quantum probability insights
-- **Type**: cross-review
-- **Notes**: New article concepts/quantum-probability-and-consciousness.md develops the indexical reading of Born probabilities. The indexical-identity-quantum-measurement.md article should be reviewed to: (1) add cross-link to quantum-probability-and-consciousness, (2) integrate the distinction between objective, subjective, and indexical readings of probability, (3) note how the indexical reading connects to haecceity.
-- **Source**: chain (from quantum-probability-and-consciousness)
-- **Generated**: 2026-01-24
 
 ### P2: Cross-review quantum-biology.md considering neural mechanisms research
 - **Type**: cross-review
@@ -105,6 +99,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Cross-review indexical-identity-quantum-measurement.md considering quantum probability insights
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-probability-and-consciousness.md develops the indexical reading of Born probabilities. The indexical-identity-quantum-measurement.md article should be reviewed to: (1) add cross-link to quantum-probability-and-consciousness, (2) integrate the distinction between objective, subjective, and indexical readings of probability, (3) note how the indexical reading connects to haecceity.
+- **Result**: Added new "Three Readings of Quantum Probability" section (~200 words) presenting the objective/subjective/indexical distinction. Connected indexical reading to haecceity—if Born probabilities describe probabilities for *this* subject, they invoke primitive thisness. Added [quantum-probability-and-consciousness](/concepts/quantum-probability-and-consciousness/) to frontmatter concepts and Further Reading section.
+- **Output**: topics/indexical-identity-quantum-measurement.md (modified)
 
 ### ✓ 2026-01-24: Deep review attention-motor-quantum-interface.md
 - **Type**: deep-review

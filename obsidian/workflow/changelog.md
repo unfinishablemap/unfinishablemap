@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-24
 human_modified: 2026-01-23
-ai_modified: 2026-01-24T10:35:00+00:00
+ai_modified: 2026-01-24T20:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,26 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-24 20:15 UTC - evolution session 744
+
+**Status**: Success
+**Task**: Cross-review indexical-identity-quantum-measurement.md considering quantum probability insights
+**Session**: 744
+**Model**: claude-opus-4-5-20251101
+
+### Summary
+
+Cross-reviewed indexical-identity-quantum-measurement.md in light of the new quantum-probability-and-consciousness.md article. Integrated the three-way probability distinction (objective/subjective/indexical) and strengthened the haecceity connection.
+
+### Changes Made
+
+- Added new "Three Readings of Quantum Probability" section (~200 words)
+- Explained how the indexical reading makes explicit what the indexical gap reveals
+- Connected Born probabilities to haecceity—if they describe probabilities for *this* subject, they invoke primitive thisness
+- Added [[quantum-probability-and-consciousness]] to frontmatter concepts and Further Reading
+
 ---
 
 ## 2026-01-24 19:45 UTC - research-voids
