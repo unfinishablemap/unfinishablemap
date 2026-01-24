@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Create concept index page for consciousness
+- **Type**: expand-topic
+- **Notes**: Gap analysis. The wikilink [[consciousness]] is referenced 242+ times across the Map but has no definition page. Many articles reference consciousness as a core concept, but currently link to nothing. This should be an index/overview page that defines consciousness in the Map's framework and links to more specific articles (phenomenal-consciousness, access-consciousness, neural-correlates-of-consciousness, etc.).
+- **Source**: gap_analysis
+- **Generated**: 2026-01-24
+
+### P2: Research quantum neural timing constraints
+- **Type**: research-topic
+- **Notes**: Gap analysis. The Minimal Quantum Interaction tenet claims consciousness influences quantum events at neural timescales. Recent articles on voluntary-attention-control (~300ms), motor-selection (~280ms), and attention-motor-quantum-interface establish timing windows. Need systematic research on: (1) what neural timing constraints quantum effects must satisfy, (2) latest decoherence estimates for neural systems, (3) whether the 280-300ms timing window is compatible with quantum coherence. Extends stapp-quantum-mind.md, quantum-consciousness.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-24
+
+### P2: Cross-review interactionist-dualism.md considering psychophysical coupling mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/psychophysical-coupling-mechanisms.md addresses the specification problem—which phenomenal properties map to which physical selections. The interactionist-dualism.md concept page should be reviewed to: (1) add cross-link to psychophysical-coupling-mechanisms, (2) integrate the five candidate coupling mechanisms as concrete proposals, (3) strengthen the response to "how does mind affect matter" objection.
+- **Source**: chain (from psychophysical-coupling-mechanisms.md)
+- **Generated**: 2026-01-24
+
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
@@ -68,6 +86,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Cross-review dualism.md considering argument-from-reason insights
+- **Type**: cross-review
+- **Notes**: New article topics/argument-from-reason.md presents a powerful self-stultification argument against physicalism. The dualism.md concept page should be reviewed to: (1) add cross-link to argument-from-reason, (2) integrate the argument from reason as additional positive case for dualism, (3) ensure the page references all five tenets where relevant.
+- **Result**: Added [[argument-from-reason]] to frontmatter concepts (first position). Added new "The Argument from Reason" subsection under "Arguments for Dualism" explaining: (1) the self-defeat structure targeting rational justification rather than qualia, (2) how physical causation cannot instantiate normative relationships required for genuine reasoning, (3) how this complements phenomenal arguments by showing consciousness must involve irreducible normative properties. Added argument-from-reason as first entry in Further Reading.
+- **Output**: concepts/dualism.md
 
 ### ✓ 2026-01-24: Deep review qualia.md
 - **Type**: deep-review

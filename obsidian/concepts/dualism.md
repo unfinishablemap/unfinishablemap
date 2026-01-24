@@ -3,11 +3,12 @@ title: "Dualism"
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-22T20:46:31+00:00
+ai_modified: 2026-01-24T03:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
+  - "[[argument-from-reason]]"
   - "[[stapp-quantum-mind]]"
   - "[[materialism]]"
   - "[[interactionist-dualism]]"
@@ -83,6 +84,12 @@ Mary knows all physical facts about colour vision while living in a black-and-wh
 
 [[Qualia]] have intrinsic character—what pain feels like, how red appears—that physical descriptions cannot capture. Physics describes relations between quantities (mass relative to other masses, charge interactions, spatial relations). But the redness of red is not a relation. It is an intrinsic quality present in experience. No amount of relational information yields intrinsic character.
 
+### The Argument from Reason
+
+The [[argument-from-reason]] targets physicalism from a different angle than phenomenal arguments—it concerns rationality rather than qualia. If physicalism is true, all beliefs (including belief in physicalism) are fully explained by nonrational physical causes: neurons firing due to electrochemical gradients rather than logical relationships. But rational inference requires tracking normative relationships—what follows from what, what counts as good evidence. Physical causation operates via efficient causes that cannot instantiate normativity.
+
+The self-defeat structure is decisive: if the argument succeeds, physicalism cannot be rationally believed, since the very rational justification required to accept it would be undermined. This provides support for dualism that doesn't depend on contested intuitions about consciousness—it targets the conditions for rational thought itself. The argument complements the phenomenal case by showing that consciousness must involve irreducible normative properties enabling genuine reasoning, not merely neural activity that happens to correlate with logical truths.
+
 For comprehensive treatment, see [[arguments-for-dualism]].
 
 ## Dualism and Interaction
@@ -137,6 +144,7 @@ What would count as evidence against dualism? If future neuroscience provided a 
 
 ## Further Reading
 
+- [[argument-from-reason]] — Self-defeat argument showing physicalism undermines rational justification
 - [[interactionist-dualism]] — the Map's position combining dualism with causal interaction
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno mechanism as concrete proposal for mind-matter interaction
 - [[substance-property-dualism]] — The two main ontological frameworks for dualism
