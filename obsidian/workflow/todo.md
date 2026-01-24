@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-24
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-24T08:35:00+00:00
+ai_modified: 2026-01-24T08:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,10 +43,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-24
 
-### P2: Write article on quantum measurement and subjective probability
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. Examines QBism, consciousness-collapse, and relational interpretations of quantum probability. Critical for addressing how different QM interpretations handle the Born rule and observer status. Connects to site's Minimal Quantum Interaction and No Many Worlds tenets.
-- **Source**: chain (from quantum-measurement-subjective-probability research)
+### P2: Cross-review indexical-identity-quantum-measurement.md considering quantum probability insights
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-probability-and-consciousness.md develops the indexical reading of Born probabilities. The indexical-identity-quantum-measurement.md article should be reviewed to: (1) add cross-link to quantum-probability-and-consciousness, (2) integrate the distinction between objective, subjective, and indexical readings of probability, (3) note how the indexical reading connects to haecceity.
+- **Source**: chain (from quantum-probability-and-consciousness)
 - **Generated**: 2026-01-24
 
 ### P2: Cross-review quantum-biology.md considering neural mechanisms research
@@ -98,6 +98,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Write article on quantum measurement and subjective probability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. Examines QBism, consciousness-collapse, and relational interpretations of quantum probability. Critical for addressing how different QM interpretations handle the Born rule and observer status. Connects to site's Minimal Quantum Interaction and No Many Worlds tenets.
+- **Result**: Created concept article (concepts/quantum-probability-and-consciousness.md, ~2500 words) distinguishing three readings of quantum probability: objective, subjective (QBism), and indexical. Developed the indexical reading where Born probabilities describe consciousness-reality interface rather than objective propensities or mere beliefs. Connected to all five tenets, particularly No Many Worlds and Minimal Quantum Interaction.
+- **Output**: concepts/quantum-probability-and-consciousness.md
 
 ### ✓ 2026-01-24: Write article on quantum biology neural mechanisms
 - **Type**: expand-topic
