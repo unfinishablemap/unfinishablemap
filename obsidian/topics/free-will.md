@@ -3,7 +3,7 @@ title: "Free Will and Determinism"
 created: 2026-01-08
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-23T00:44:23+00:00
+ai_modified: 2026-01-24T21:15:00+00:00
 last_deep_review: 2026-01-23T00:33:16+00:00
 draft: false
 topics:
@@ -37,6 +37,7 @@ concepts:
   - "[[haecceity]]"
   - "[[epiphenomenalism]]"
   - "[[phenomenology-of-choice]]"
+  - "[[argument-from-reason]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-mechanics-free-will-2026-01-16]]"
@@ -212,6 +213,22 @@ But [[epiphenomenalism|epiphenomenalism]] faces a deeper problem: self-stultific
 This is more than epistemic trouble—it's self-undermining. Any argument *against* mental causation must reach your beliefs through causally inert consciousness, which means it doesn't reach them at all. If you can accurately report "I'm in pain," the pain must cause the report. Otherwise, why would the report be *about* the experience?
 
 The very fact that we're having this debate—that we form beliefs about consciousness based on conscious experience—suggests consciousness does something. Our beliefs aren't disconnected from what they're about. See [[mental-causation]] for the full argument.
+
+### The Argument from Reason: Rationality Requires Mental Causation
+
+The [[argument-from-reason]] provides a complementary line of support for mental causation—one that targets reasoning itself rather than phenomenology. The argument, developed by C.S. Lewis, Victor Reppert, and Alvin Plantinga, exposes a self-defeat structure in physicalism: if all beliefs are fully explained by nonrational physical causes, then no belief is rationally justified, including the belief in physicalism.
+
+The core insight: rational inference requires tracking *normative* relationships—what follows from what, what counts as good evidence. But physical causation operates through efficient causes that don't instantiate normativity. Neurons fire because of electrochemical gradients, not because firing would be *justified* by good reasons. If physicalism is true, your belief that 2+2=4 is entirely explained by neural causes having nothing to do with mathematical truth.
+
+This complements the phenomenological arguments for free will in several ways:
+
+**First, it provides a non-phenomenological route to mental causation.** The standard case for free will relies on phenomenology—the felt sense of effort, the experience of authorship, the openness of deliberation. Critics can dismiss phenomenology as unreliable introspection. But the argument from reason doesn't depend on phenomenology; it targets the very possibility of rational justification. Even if phenomenology were illusory, rationality wouldn't be—and rationality requires mental causation.
+
+**Second, it strengthens the case for agent causation.** When you reason validly, you affirm the conclusion *because* it follows from the premises. This "because" marks the causal contribution of normative recognition—the agent grasping logical relationships as such and choosing to affirm accordingly. Pure physical causation cannot capture this reasons-sensitivity; agent causation can.
+
+**Third, it makes epiphenomenalism self-refuting in a deeper sense.** The standard self-stultification argument shows that beliefs about consciousness would be disconnected from actual consciousness. The argument from reason shows that *all* beliefs—including beliefs about free will, about physicalism, about anything—would lack rational justification if consciousness is causally inert. You cannot rationally conclude that rationality doesn't require mental causation.
+
+The argument from reason thus converts the free will debate from "here's how consciousness might contribute to choices" to "consciousness *must* contribute to rational thought, and rational choice is a paradigm case."
 
 ## Agent Causation: Why the Map's Framework Is Libertarian
 
@@ -563,6 +580,7 @@ Free will stands at the intersection of all five tenets:
 - [[quantum-indeterminacy-free-will]] — Comprehensive systematization of how quantum indeterminacy supports libertarian free will through consciousness-selected outcomes
 - [[consciousness-and-creativity]] — How consciousness both generates and selects possibilities, strengthening the case for genuine agency
 - [[mental-causation]] — Why mental causation is essential for free will and how the quantum framework addresses Kim's exclusion argument
+- [[argument-from-reason]] — Non-phenomenological argument that rationality requires mental causation; makes physicalism self-defeating
 - [[agent-causation]] — Agent vs. event causation and why the Map's framework is agent-causal
 - [[moral-responsibility]] — How agent causation grounds desert differently than compatibilism
 - [[libet-experiments]] — The Libet experiments in detail: original findings, critiques, and the retrocausal resolution
