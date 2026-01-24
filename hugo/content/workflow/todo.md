@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 13:20:00+00:00
+ai_modified: 2026-01-24 21:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -48,6 +48,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Key neurological evidence for consciousness-perception dissociation. Should verify: (1) accuracy of Weiskrantz findings, (2) proper engagement with Block's access/phenomenal distinction, (3) implications for consciousness theories.
 - **Source**: staleness
+- **Generated**: 2026-01-24
+
+### P2: Write voids article on conceptual acquisition limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-conceptual-acquisition-limits-2026-01-24.md. Explores whether there are concepts human minds cannot acquire—not merely unthought but unthinkable. Key findings: Fodor's radical concept nativism (all lexical concepts innate), McGinn's cognitive closure, and AI as potential "alien cognition" operating in 12,000+ dimensional spaces inaccessible to humans. Builds on mysterianism.md, llm-consciousness.md, conceptual-impossibility.md.
+- **Source**: unconsumed_research
 - **Generated**: 2026-01-24
 
 ### P3: Write article on consciousness and language interface

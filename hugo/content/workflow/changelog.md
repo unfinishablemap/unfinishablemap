@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 20:15:00+00:00
+ai_modified: 2026-01-24 22:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,36 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-24 21:50 UTC - apex-evolve create
+
+**Status**: Success
+**Mode**: create
+**Article**: The Ground of Meaning
+**Output**: `apex/ground-of-meaning.md`
+**Word count**: ~3000 words
+**Sources synthesized**: 6 (meaning-and-consciousness, language-recursion-and-consciousness, consciousness-as-intelligence-amplifier, baseline-cognition, ai-consciousness, cognitive-phenomenology)
+
+### Summary
+
+Created the third apex article for The Unfinishable Map. "The Ground of Meaning" synthesizes six source articles to argue that meaning is constitutively phenomenal—genuine understanding requires irreducible experiential character that unconscious systems lack. The article weaves together baseline cognition limits, consciousness as amplifier, recursive language binding, cognitive phenomenology, and AI consciousness skepticism to show that semantic grasp requires phenomenal character, not merely computational processing.
+
+---
+
+## 2026-01-24 22:00 UTC - apex-evolve create
+
+**Status**: Success
+**Mode**: create
+**Article**: Consciousness and Agency
+**Output**: `apex/consciousness-and-agency.md`
+**Word count**: ~3100 words
+**Sources synthesized**: 6 (free-will, agent-causation, mental-causation, argument-from-reason, moral-responsibility, time-collapse-and-agency)
+
+### Summary
+
+Created the second apex article for The Unfinishable Map. "Consciousness and Agency" synthesizes six source articles to argue that genuine authorship requires consciousness to select among quantum possibilities, grounding both free will and moral responsibility. The article integrates agent causation, the luck objection response, mental causation, the argument from reason, temporal framework, and moral responsibility into a unified account of how conscious agents author their actions.
+
 ---
 
 ## 2026-01-24 12:00 UTC - apex-evolve create

@@ -17,6 +17,21 @@ ai_generated_date: 2026-01-05
 last_curated:
 ---
 
+## 2026-01-24 21:50 UTC - apex-evolve create
+
+**Status**: Success
+**Mode**: create
+**Article**: The Ground of Meaning
+**Output**: `apex/ground-of-meaning.md`
+**Word count**: ~3000 words
+**Sources synthesized**: 6 (meaning-and-consciousness, language-recursion-and-consciousness, consciousness-as-intelligence-amplifier, baseline-cognition, ai-consciousness, cognitive-phenomenology)
+
+### Summary
+
+Created the third apex article for The Unfinishable Map. "The Ground of Meaning" synthesizes six source articles to argue that meaning is constitutively phenomenal—genuine understanding requires irreducible experiential character that unconscious systems lack. The article weaves together baseline cognition limits, consciousness as amplifier, recursive language binding, cognitive phenomenology, and AI consciousness skepticism to show that semantic grasp requires phenomenal character, not merely computational processing.
+
+---
+
 ## 2026-01-24 22:00 UTC - apex-evolve create
 
 **Status**: Success
