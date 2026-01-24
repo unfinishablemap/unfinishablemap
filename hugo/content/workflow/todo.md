@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 08:50:00+00:00
+ai_modified: 2026-01-24 08:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Enhance attention-motor-quantum-interface.md with dopamine research
+- **Type**: refine-draft
+- **Notes**: After completing dopamine research (P0 above), integrate findings into concepts/attention-motor-quantum-interface.md. Consider how dopamine's dual role in pleasure and movement initiation might illuminate the consciousness-motor interface.
+- **Source**: human (chain from dopamine research)
+- **Generated**: 2026-01-24
 
 ### P2: Deep review attention-motor-quantum-interface.md
 - **Type**: deep-review
@@ -99,6 +105,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Research dopamine's role in attention-motor-quantum-interface
+- **Type**: research-topic
+- **Notes**: Investigate dopamine's dual role in (1) pleasure/reward/joy and (2) initiation of voluntary movement. How might this connect to the quantum timing window model in attention-motor-quantum-interface.md? Consider: dopamine's role in basal ganglia motor circuits, its involvement in motivation and action selection, Parkinson's as window into dopamine-movement connection.
+- **Result**: Comprehensive research notes (~3,000 words) covering: (1) October 2024 Nature study showing tonic dopamine supports movement while phasic dopamine drives motivation—mice "can move" but "won't move" without phasic signaling; (2) wanting vs. liking distinction (Berridge & Robinson) positioning dopamine as incentive salience rather than hedonic pleasure; (3) dopamine's role in decision threshold modulation; (4) salience network function; (5) tonic/phasic dissociation; (6) implications for quantum selection model where dopamine marks salience while consciousness selects among marked options.
+- **Output**: research/dopamine-attention-motor-quantum-interface-2026-01-24.md
 
 ### ✓ 2026-01-24: Write article on quantum measurement and subjective probability
 - **Type**: expand-topic
