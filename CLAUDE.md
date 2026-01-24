@@ -41,6 +41,7 @@ uv run python scripts/commit_obsidian.py
 
 ```
 obsidian/           # Primary content source (Obsidian vault)
+├── apex/           # Synthesis articles (human-readable integrations)
 ├── topics/         # Philosophical topics
 ├── concepts/       # Core concepts
 ├── research/       # AI research notes (public)

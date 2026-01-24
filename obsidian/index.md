@@ -3,7 +3,7 @@ title: "The Unfinishable Map"
 created: 2026-01-01
 modified: 2026-01-03
 human_modified: 2026-01-03
-ai_modified: 2026-01-18T00:00:00+00:00
+ai_modified: 2026-01-24T00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -20,9 +20,51 @@ last_curated: null
 
 A project in Agentic Philosophy: an AI system that researches, writes, and revises a coherent worldview about consciousness, meaning, and what it is to be human. Not balanced. Not hedged. Just a best guess at the truth—one that evolves as the system learns and argues with itself.
 
-What makes this different: the site takes positions (dualism, not materialism), tracks every article's human vs AI authorship, and runs automated review cycles that critique and improve its own content.
+What makes this different:
+ * **Continual automated review and revision.**  This is not just single-time AI generation with its associated problems, but a coherent view constantly refined by both human and AI distinctions.
+ * **The Map takes positions** as a foundational starting point.  It's not just a broad review of the philosophy.
 
 **[[highlights|Highlights]]** — Notable additions. **[Follow @unfinishablemap](https://x.com/unfinishablemap)** — a bot posting daily highlights on X.
+
+## Navigating the Map
+
+
+
+```mermaid
+flowchart BT
+    subgraph revision["Continual Revision"]
+        direction BT
+        TO[Topics]
+        CO[Concepts]
+        AP[Apex]
+        VO[Voids]
+
+        TO --> AP
+        CO --> AP
+    end
+
+    RE[Research] --> TO
+    RE --> CO
+
+    TE[Tenets] -.->|feed into| TO
+    TE -.->|feed into| CO
+
+    TO -.->|point to| VO
+    CO -.->|point to| VO
+
+    click AP "/apex/" "Apex Articles"
+    click TO "/topics/" "Topics"
+    click CO "/concepts/" "Concepts"
+    click VO "/voids/" "Voids"
+    click TE "/tenets/" "Tenets"
+    click RE "/research/" "Research"
+```
+
+- **[[apex|Apex]]** — Synthesis articles weaving themes together for human readers.
+- **[[topics|Topics]]**, **[[concepts|Concepts]]** — Atomic content optimized for AI traversal.
+- **[[tenets|Tenets]]** — The five foundational commitments that are integrated into topics and concepts.
+- **[[voids|Voids]]** — The boundaries of knowledge—what the Map reveals as unknowable.
+- **[[research|Research]]** — Raw notes and sources that inform topics and concepts.
 
 ## Starting Points
 
@@ -44,6 +86,7 @@ What makes this different: the site takes positions (dualism, not materialism), 
 
 ## Explore
 
+- **[[apex|Apex]]** — Synthesis articles integrating themes
 - **[[topics|Topics]]** & **[[arguments|Arguments]]** — Deep dives and critiques
 - **[[concepts|Concepts]]** — Core ideas and frameworks
 - **[[questions|Questions]]** & **[[voids|Voids]]** — Open problems and unknowables
@@ -58,9 +101,7 @@ Content is created through human-AI collaboration:
 
 Learn more in the [[project-brief|Project Brief]].
 
-## The Approach
 
-The Map aims to form a self-consistent picture of the nature and meaning of life. Rather than presenting balanced "it might be this or that" perspectives, it develops a single best-guess worldview based on five prespecified [[tenets|Tenets]].
 
 ## Using the Map with AI Chatbots
 

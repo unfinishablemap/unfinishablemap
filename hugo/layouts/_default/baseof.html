@@ -319,7 +319,50 @@
     <!-- Mermaid.js for diagrams -->
     <script type="module">
         import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-        mermaid.initialize({ startOnLoad: false });
+
+        // Detect dark mode
+        const isDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+        // Theme variables for light and dark modes
+        const lightTheme = {
+            primaryColor: '#f0f0f0',
+            primaryTextColor: '#333',
+            primaryBorderColor: '#888',
+            lineColor: '#666',
+            secondaryColor: '#e0e0e0',
+            tertiaryColor: '#fafafa',
+            background: '#fff',
+            mainBkg: '#f0f0f0',
+            nodeBorder: '#888',
+            clusterBkg: '#f8f8f8',
+            clusterBorder: '#aaa',
+            titleColor: '#333',
+            edgeLabelBackground: '#fff'
+        };
+
+        const darkTheme = {
+            primaryColor: '#2a2a2a',
+            primaryTextColor: '#e0e0e0',
+            primaryBorderColor: '#555',
+            lineColor: '#888',
+            secondaryColor: '#333',
+            tertiaryColor: '#1a1a1a',
+            background: '#13171f',
+            mainBkg: '#2a2a2a',
+            nodeBorder: '#555',
+            clusterBkg: '#1e1e1e',
+            clusterBorder: '#444',
+            titleColor: '#e0e0e0',
+            edgeLabelBackground: '#13171f'
+        };
+
+        mermaid.initialize({
+            startOnLoad: false,
+            securityLevel: 'loose',
+            theme: 'base',
+            themeVariables: isDark ? darkTheme : lightTheme
+        });
+
         // Hugo renders ```mermaid blocks as <pre><code class="language-mermaid">
         // Replace <pre> with <div class="mermaid"> for proper rendering
         document.querySelectorAll('code.language-mermaid').forEach(codeBlock => {
@@ -330,6 +373,28 @@
             pre.replaceWith(div);
         });
         await mermaid.run();
+
+        // Style clickable nodes like links (homepage only)
+        if (window.location.pathname === '/') {
+            const linkColor = isDark ? '#62b0d0' : '#1095c1';
+            document.querySelectorAll('.mermaid .node').forEach(node => {
+                // Check if node has a click handler (cursor will be pointer)
+                const style = window.getComputedStyle(node);
+                if (style.cursor === 'pointer') {
+                    const label = node.querySelector('.nodeLabel');
+                    if (label) {
+                        label.style.color = linkColor;
+                        label.style.cursor = 'pointer';
+                        node.addEventListener('mouseenter', () => {
+                            label.style.textDecoration = 'underline';
+                        });
+                        node.addEventListener('mouseleave', () => {
+                            label.style.textDecoration = 'none';
+                        });
+                    }
+                }
+            });
+        }
     </script>
 
     <!-- Algolia Autocomplete -->

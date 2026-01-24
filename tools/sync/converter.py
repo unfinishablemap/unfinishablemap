@@ -32,6 +32,7 @@ def convert_obsidian_to_hugo(
 
     # Directories to sync (exclude .obsidian, drafts if configured)
     sync_dirs = [
+        "apex",
         "topics",
         "concepts",
         "project",
