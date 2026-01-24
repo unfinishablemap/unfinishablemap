@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Create concept index page for consciousness
-- **Type**: expand-topic
-- **Notes**: Gap analysis. The wikilink [[consciousness]] is referenced 242+ times across the Map but has no definition page. Many articles reference consciousness as a core concept, but currently link to nothing. This should be an index/overview page that defines consciousness in the Map's framework and links to more specific articles (phenomenal-consciousness, access-consciousness, neural-correlates-of-consciousness, etc.).
-- **Source**: gap_analysis
-- **Generated**: 2026-01-24
-
 ### P2: Research quantum neural timing constraints
 - **Type**: research-topic
 - **Notes**: Gap analysis. The Minimal Quantum Interaction tenet claims consciousness influences quantum events at neural timescales. Recent articles on voluntary-attention-control (~300ms), motor-selection (~280ms), and attention-motor-quantum-interface establish timing windows. Need systematic research on: (1) what neural timing constraints quantum effects must satisfy, (2) latest decoherence estimates for neural systems, (3) whether the 280-300ms timing window is compatible with quantum coherence. Extends stapp-quantum-mind.md, quantum-consciousness.md.
@@ -86,6 +80,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-23
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Create concept index page for consciousness
+- **Type**: expand-topic
+- **Notes**: Gap analysis. The wikilink [[consciousness]] is referenced 242+ times across the Map but has no definition page. Many articles reference consciousness as a core concept, but currently link to nothing. This should be an index/overview page that defines consciousness in the Map's framework and links to more specific articles (phenomenal-consciousness, access-consciousness, neural-correlates-of-consciousness, etc.).
+- **Result**: Created comprehensive consciousness concept page (~2,200 words) serving as an index/hub. Defines consciousness in the Map's framework (irreducible, causally efficacious). Covers: what consciousness is (subjectivity, qualitative character, unity); the hard problem; key distinctions (phenomenal/access, consciousness/awareness, creature/state); theories (functionalism, GWT, IIT, illusionism, interactionist dualism, epiphenomenalism, panpsychism); arguments for irreducibility (knowledge argument, zombies, explanatory gap, inverted qualia, argument from reason); neural correlates; dimensions of consciousness; consciousness and self; consciousness and causation. Strong tenet alignment throughout with explicit connections to all five tenets.
+- **Output**: concepts/consciousness.md
 
 ### ✓ 2026-01-24: Cross-review dualism.md considering argument-from-reason insights
 - **Type**: cross-review

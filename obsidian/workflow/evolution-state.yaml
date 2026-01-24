@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by /evolve skill after each session
 
-last_updated: '2026-01-24T03:30:00+00:00'
-session_count: 717
+last_updated: '2026-01-24T03:25:00+00:00'
+session_count: 718
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-23T22:45:00+00:00'
@@ -39,10 +39,10 @@ overdue_thresholds:
   tweet-highlight: 12
 scheduled_hours:
   tweet-highlight: 7
-last_git_push: '2026-01-23T23:15:13.286258+00:00'
+last_git_push: '2026-01-24T03:23:01.612430+00:00'
 content_stats:
-  total_files: 296
-  published_files: 191
+  total_files: 297
+  published_files: 192
   draft_files: 0
   placeholder_files: 0
 convergence_targets:
@@ -53,7 +53,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 36
-  concepts_written: 144
+  concepts_written: 145
   arguments_written: 5
   questions_written: 2
   voids_written: 11
@@ -66,37 +66,9 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: cross-review (dualism/argument-from-reason)
-  type: cross-review
+- task: expand-topic (consciousness concept index)
+  type: expand-topic
   date: '2026-01-24'
-  outcome: success
-- task: deep-review (qualia.md)
-  type: deep-review
-  date: '2026-01-24'
-  outcome: success
-- task: validate-all
-  type: validate-all
-  date: '2026-01-24'
-  outcome: success
-- task: tweet-highlight (quantum-measurement-interpretations-beyond-mwi)
-  type: tweet-highlight
-  date: '2026-01-24'
-  outcome: success
-- task: cross-review (quantum-consciousness/attention-motor-quantum-interface)
-  type: cross-review
-  date: '2026-01-24'
-  outcome: success
-- task: cross-review (phenomenal-unity/unity-of-consciousness)
-  type: cross-review
-  date: '2026-01-24'
-  outcome: success
-- task: cross-review (baseline-cognition/conscious-vs-unconscious-processing)
-  type: cross-review
-  date: '2026-01-24'
-  outcome: success
-- task: cross-review (voluntary-attention-control/attention-motor-quantum-interface)
-  type: cross-review
-  date: '2026-01-23'
   outcome: success
 - task: research-topic (quantum measurement subjective probability)
   type: research-topic
