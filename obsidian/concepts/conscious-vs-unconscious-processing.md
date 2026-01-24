@@ -164,7 +164,7 @@ Attention emerges as the gatekeeper for conscious access. The relationship:
 
 This two-factor model (stimulus strength × attention) explains why attention manipulations reliably modulate conscious perception. Change blindness and inattentional blindness demonstrate that even salient stimuli fail to reach consciousness without attention.
 
-For the Map's framework, this connects to [[voluntary-attention-control]]: if attention gates conscious access, and conscious access enables unique cognitive functions, then voluntary control of attention becomes a mechanism for consciousness to influence cognition. The [[stapp-quantum-mind|quantum Zeno hypothesis]] locates this control at the quantum level.
+For the Map's framework, this connects to [[voluntary-attention]]: if attention gates conscious access, and conscious access enables unique cognitive functions, then voluntary control of attention becomes a mechanism for consciousness to influence cognition. The [[stapp-quantum-mind|quantum Zeno hypothesis]] locates this control at the quantum level.
 
 ## Connection to Baseline Cognition
 
@@ -271,7 +271,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 - [[phenomenal-consciousness]] — Consciousness as subjective experience
 - [[working-memory]] — The maintenance function requiring consciousness
 - [[attention]] — The gatekeeper for conscious access
-- [[voluntary-attention-control]] — How consciousness directs attention
+- [[voluntary-attention]] — How consciousness directs attention
 - [[global-workspace-theory]] — The theoretical framework for consciousness as broadcast
 - [[stapp-quantum-mind]] — Quantum mechanism for consciousness-attention interface
 

@@ -11,7 +11,7 @@ topics:
 concepts:
   - "[[stapp-quantum-mind]]"
   - "[[motor-selection]]"
-  - "[[voluntary-attention-control]]"
+  - "[[voluntary-attention]]"
   - "[[attention-as-interface]]"
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
@@ -212,7 +212,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies. The quantu
 
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno mechanism in detail
 - [[motor-selection]] — Motor selection as a domain for quantum Zeno effects
-- [[voluntary-attention-control]] — Neural signatures of willed attention
+- [[voluntary-attention]] — Neural signatures of willed attention
 - [[attention-as-interface]] — The interface hypothesis foundation
 - [[psychophysical-coupling-mechanisms]] — Comparative analysis of coupling mechanisms
 - [[mental-effort]] — Phenomenology of effort in both domains

@@ -9,7 +9,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
 concepts:
-  - "[[voluntary-attention-control]]"
+  - "[[voluntary-attention]]"
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
   - "[[mental-imagery]]"
@@ -294,7 +294,7 @@ The attention-consciousness relationship illuminates all five tenets:
 
 ## Further Reading
 
-- [[voluntary-attention-control]] — The willed-instructed-exogenous distinction and why top-down ≠ voluntary
+- [[voluntary-attention]] — The willed-instructed-exogenous distinction and why top-down ≠ voluntary
 - [[mental-imagery]] — Voluntary vs involuntary imagery as evidence for attention-mediated conscious control
 - [[voluntary-attention]] — The endogenous/willed attention distinction and its neural signatures
 - [[attention-as-interface]] — The hypothesis that attention mediates consciousness's causal influence on matter

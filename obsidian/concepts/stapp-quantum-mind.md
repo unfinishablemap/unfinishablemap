@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[psychophysical-coupling-mechanisms]]"
-  - "[[voluntary-attention-control]]"
+  - "[[voluntary-attention]]"
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
   - "[[attention-as-interface]]"
@@ -97,7 +97,7 @@ Willed attention—internally generated rather than externally cued—engages di
 
 This evidence is consistent with Stapp's framework, though it doesn't uniquely require it. A materialist could interpret the distinct signatures as evidence that self-generated attention involves more complex computation than cued attention—different phenomenology because different processing, not because non-physical causation enters. However, the phenomenological-neural correlation does show that the effort distinction tracks something real in brain function, not mere introspective illusion. If consciousness operates through attention as Stapp proposes, the willed/instructed distinction is exactly what we'd expect: different modes of conscious engagement producing different neural signatures.
 
-The [[voluntary-attention-control]] article provides a comprehensive treatment of this distinction, including the temporal architecture: willed attention deploys at ~300ms with sustained maintenance, matching timescales relevant for quantum Zeno effects. The involvement of prefrontal regions (DLPFC, ACC) in willed but not instructed attention is particularly significant—these regions are implicated in executive control and conflict monitoring, suggesting that willed attention involves genuine decision-making rather than mere implementation. The empirical picture strengthens Stapp's theoretical proposal by operationalising "mental effort" in neurally measurable terms.
+The [[voluntary-attention]] article provides a comprehensive treatment of this distinction, including the temporal architecture: willed attention deploys at ~300ms with sustained maintenance, matching timescales relevant for quantum Zeno effects. The involvement of prefrontal regions (DLPFC, ACC) in willed but not instructed attention is particularly significant—these regions are implicated in executive control and conflict monitoring, suggesting that willed attention involves genuine decision-making rather than mere implementation. The empirical picture strengthens Stapp's theoretical proposal by operationalising "mental effort" in neurally measurable terms.
 
 ## Empirical Support: Neuroplasticity
 
@@ -316,7 +316,7 @@ The model generates falsifiable predictions:
 ## Further Reading
 
 - [[psychophysical-coupling-mechanisms]] — Comparative analysis of five candidate coupling mechanisms; Stapp's model as the most developed
-- [[voluntary-attention-control]] — Neural signatures and phenomenology of willed attention
+- [[voluntary-attention]] — Neural signatures and phenomenology of willed attention
 - [[mental-effort]] — Detailed treatment of effort phenomenology and the mechanism
 - [[quantum-consciousness]] — Overview of quantum consciousness mechanisms including Stapp
 - [[attention-as-interface]] — Formalises attention as the interface layer

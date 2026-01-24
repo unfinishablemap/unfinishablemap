@@ -28,6 +28,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated: null
 last_deep_review: null
+archived: true
+archived_date: 2026-01-24T18:00:00+00:00
+superseded_by: "/concepts/voluntary-attention/"
+archive_reason: "Coalesced into Voluntary Attention"
+original_path: "/concepts/voluntary-attention-control/"
 ---
 
 Voluntary attention control is the capacity to direct attention through conscious intention rather than automatic stimulus capture. When you choose to focus on a difficult passage despite distracting noise, or decide to shift attention from one task to another without external prompting, you exercise voluntary attention control. This capacity is central to the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: if consciousness can direct attention, and attention shapes neural activity, then consciousness causally influences the physical world.
