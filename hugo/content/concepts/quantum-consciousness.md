@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-24 01:00:00+00:00
+ai_modified: 2026-01-24 04:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[quantum-neural-timing-constraints]]'
 - '[[attention-motor-quantum-interface]]'
 - '[[stapp-quantum-mind]]'
 - '[[retrocausality]]'
@@ -309,16 +310,27 @@ Water near biological surfaces exhibits ordering that reduces thermal noise. The
 
 ### Revised Coherence Estimates
 
-When these protective mechanisms are accounted for, coherence time estimates change dramatically:
+When these protective mechanisms are accounted for, coherence time estimates change dramatically. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy from femtosecond to neural timescales.
 
 | Calculation | Coherence Time | Source |
 |-------------|----------------|--------|
 | Tegmark (2000) | 10⁻¹³ seconds | Thermal equilibrium assumption |
-| Hagan et al. (2002) | 10⁻⁵ to 10⁻⁴ seconds | Corrected model (7 orders of magnitude longer) |
+| Hagan et al. (2002) | 10⁻⁵ to 10⁻⁴ seconds (10-100 μs) | Corrected microtubule model |
+| Perry (2025) | 10⁻³ to 10⁻² seconds (1-10 ms) | Mesoscopic network effects (theoretical) |
 | 2025 simulation | 1-2 μs (10⁻⁶ seconds) | Realistic conditions including protection |
 | Fisher (2015) | ~10⁵ seconds | Nuclear spin (completely different mechanism) |
 
 The 10⁻¹³ second estimate assumed the brain operates like dead tissue at thermal equilibrium. Living neural systems may be fundamentally different—not merely warm and wet, but actively maintaining quantum coherence through evolved mechanisms.
+
+### Neural Timing Windows
+
+Independent of decoherence estimates, empirical neuroscience establishes the timing windows within which consciousness influences neural decisions:
+
+- **Motor commitment**: ~280ms before movement onset (Thura & Cisek 2014)
+- **Willed attention deployment**: ~300ms (Bengson 2019)
+- **Point of no return**: ~200ms—actions become ballistic beyond this point (Schultze-Kraft 2016)
+
+Any mechanism claiming consciousness influences neural outcomes must operate within these constraints. The gap between coherence times (microseconds to milliseconds) and decision windows (hundreds of milliseconds) defines the challenge different theories must address.
 
 ## The Decoherence Challenge
 
@@ -352,7 +364,7 @@ Bandyopadhyay's discovery of collective oscillations in microtubules from kilohe
 
 Hot Schrödinger cat states at 1.8 kelvin and a record 1,400-second coherence time (USTC, 2024) continue pushing the quantum-classical boundary. No principled barrier has been found.
 
-**The Zeno alternative sidesteps the problem.** Stapp's mechanism doesn't require sustained coherence between observations. Rapid repeated mental "observations" can maintain states without needing them to survive decoherence—the observations happen faster than decoherence can act.
+**The Zeno alternative sidesteps the problem.** Stapp's mechanism doesn't require sustained coherence across the full decision window. The [timing constraints article](/topics/quantum-neural-timing-constraints/) clarifies the key distinction: mechanisms requiring continuous coherence (like Orch OR) face the microsecond-to-millisecond gap directly, while the quantum Zeno mechanism operates through *discrete observation cycles* at neural timescales. Each observation collapses and "resets" the quantum state; the accumulated effect of many rapid observations biases which outcome becomes actual. If decoherence occurs at microseconds and observation cycles occur at milliseconds, consciousness needs approximately 1000 observation events per 300ms decision window—rapid but not requiring continuous coherence. This is analogous to taking many snapshots rather than filming continuously: the film requires the scene to persist, but snapshots only require it to exist at the moment of capture.
 
 ## What These Theories Share
 
@@ -538,6 +550,7 @@ The decoherence objection remains the most serious challenge. If quantum coheren
 
 ## Further Reading
 
+- [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from femtosecond decoherence to 300ms neural decisions, and which mechanisms survive
 - [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — Unification of premotor theory of attention with quantum Zeno mechanism, showing attention and motor selection share a single interface
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Comprehensive treatment of Stapp's quantum Zeno mechanism, effort phenomenology, and two modes of consciousness
 - [luck-objection](/concepts/luck-objection/) — Why quantum selection escapes the luck objection to free will

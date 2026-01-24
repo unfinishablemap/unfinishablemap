@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-24 04:50:00+00:00
+ai_modified: 2026-01-24 05:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review quantum-consciousness.md considering quantum neural timing constraints
-- **Type**: cross-review
-- **Notes**: New article topics/quantum-neural-timing-constraints.md provides detailed timing hierarchy from femtosecond decoherence to 300ms neural decision windows. The quantum-consciousness.md concept page should be reviewed to: (1) add cross-link to quantum-neural-timing-constraints, (2) integrate the revised decoherence estimates (10-100μs microtubule, 1-10ms mesoscopic), (3) note how Quantum Zeno sidesteps coherence requirements by operating through discrete observations.
-- **Source**: chain (from quantum-neural-timing-constraints.md)
-- **Generated**: 2026-01-24
-
 ### P2: Cross-review quantum-decoherence-objection.md considering quantum neural timing constraints
 - **Type**: cross-review
 - **Notes**: New article topics/quantum-neural-timing-constraints.md directly addresses the timing objection this concept page covers. The quantum-decoherence-objection.md page should be reviewed to: (1) add cross-link to quantum-neural-timing-constraints, (2) integrate the 280-300ms empirical neural timing windows, (3) note the distinction between mechanisms requiring sustained coherence vs. discrete Quantum Zeno observations.
 - **Source**: chain (from quantum-neural-timing-constraints.md)
+- **Generated**: 2026-01-24
+
+### P2: Deep review voluntary-attention-control.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) never deep-reviewed. Core mechanism article explaining how voluntary attention (~300ms) provides the quantum interface for conscious control. Critical for the Map's attention-motor-quantum framework. Should verify: (1) accuracy of neural timing claims, (2) proper integration with PMTA literature, (3) connection to Stapp's Quantum Zeno mechanism.
+- **Source**: staleness
+- **Generated**: 2026-01-24
+
+### P2: Deep review bidirectional-interaction.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) never deep-reviewed. Directly supports the Bidirectional Interaction tenet—if this article has errors, the tenet's credibility suffers. Should verify: (1) accurate representation of causal closure debate, (2) conservation law responses, (3) empirical evidence claims (Libet, Schwartz OCD), (4) connection to quantum mechanism.
+- **Source**: staleness
 - **Generated**: 2026-01-24
 
 ### P3: Write article on consciousness and language interface
@@ -99,6 +105,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-24: Cross-review quantum-consciousness.md considering quantum neural timing constraints
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-neural-timing-constraints.md provides detailed timing hierarchy from femtosecond decoherence to 300ms neural decision windows. The quantum-consciousness.md concept page should be reviewed to: (1) add cross-link to quantum-neural-timing-constraints, (2) integrate the revised decoherence estimates (10-100μs microtubule, 1-10ms mesoscopic), (3) note how Quantum Zeno sidesteps coherence requirements by operating through discrete observations.
+- **Result**: Added [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) to frontmatter concepts (first position). Updated "Revised Coherence Estimates" table to include Perry 2025 mesoscopic network effects (1-10ms). Added new "Neural Timing Windows" subsection documenting the 280ms motor commitment, 300ms willed attention, and 200ms point-of-no-return empirical constraints. Expanded "Zeno alternative sidesteps the problem" paragraph to explain discrete observation cycles vs sustained coherence, including the snapshots-vs-film analogy and ~1000 observation events per 300ms window. Added quantum-neural-timing-constraints as first entry in Further Reading.
+- **Output**: concepts/quantum-consciousness.md
 
 ### ✓ 2026-01-24: Deep review phenomenology.md
 - **Type**: deep-review
