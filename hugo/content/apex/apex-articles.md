@@ -56,7 +56,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 - topics/time-collapse-and-agency
 - concepts/voluntary-attention-control
 
-**Status**: Not yet created
+**Status**: Created 2026-01-24
 
 ---
 
@@ -76,7 +76,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 - topics/ai-consciousness
 - concepts/cognitive-phenomenology
 
-**Status**: Not yet created
+**Status**: Created 2026-01-24
 
 ---
 
