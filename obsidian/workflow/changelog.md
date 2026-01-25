@@ -17,6 +17,22 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 19:11 UTC - deep-review (user-requested, thirty-sixth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T19:07:36+00:00
+**Word count**: 2502 → 2492 (-10 words)
+**Critical issues addressed**: 3
+- Reframed Dennett attribution as "functionalist response" to avoid unverified belief claims
+- Added acknowledgment that zombie conceivability is contested, cannot be proven from neutral ground
+- Presented MWI indexical position more charitably before countering
+**Medium issues addressed**: 0
+**Enhancements made**: Tightened prose in interpretation bullet list; maintained length-neutral editing at soft threshold
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-36.md`
+
+---
+
 ## 2026-01-25 19:07 UTC - deep-review (user-requested, thirty-fifth review)
 
 **Status**: Success
