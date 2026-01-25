@@ -17,6 +17,23 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 16:04 UTC - deep-review (user-requested, eleventh review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T18:30:00+00:00 (tenth review same day)
+**Word count**: 2726 → 2707 (-19 words, length-neutral mode)
+**Critical issues addressed**: 4
+- Functionalist response expanded with acknowledgment of fundamental disagreement
+- MWI responses engaged more fairly with branch-copy view
+- Burden of proof on quantum consciousness made explicit
+- Born statistics detectability clarified
+**Medium issues addressed**: 0
+**Enhancements made**: 0 (focus on addressing critical issues)
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-11.md`
+
+---
+
 ## 2026-01-25 18:30 UTC - deep-review (user-requested, tenth review)
 
 **Status**: Success
