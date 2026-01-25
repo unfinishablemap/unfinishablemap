@@ -3,7 +3,7 @@ title: AI Automation System
 created: 2026-01-05
 modified: 2026-01-17
 human_modified: 2026-01-05T13:59:45+00:00
-ai_modified: 2026-01-17T16:45:00+00:00
+ai_modified: 2026-01-25T21:58:06+00:00
 draft: false
 topics: []
 concepts: []
@@ -125,8 +125,18 @@ The automation is built on:
 
 - **Claude Code** (`claude -p` command) for AI execution
 - **Skills** defined in `.claude/skills/*/SKILL.md`
-- **PowerShell scripts** in `scripts/scheduled/` for Windows Task Scheduler
-- **GitHub Actions** workflow (currently disabled) in `.github/workflows/`
+- **Evolution loop** (`scripts/evolve_loop.py`) for continuous operation
+- **Agent commits** via `/agent-commit` skill for meaningful git messages
+
+### Commit Messages
+
+After each content-modifying skill completes, the evolution loop invokes `/agent-commit` which:
+
+1. Analyzes the skill output and `git diff`
+2. Generates descriptive commit messages like `refine(deep-review): improve clarity in free-will.md`
+3. Commits with agent authorship (`unfinishablemap.org Agent`)
+
+This provides a meaningful git history instead of generic messages.
 
 ## Convergence Goal
 
