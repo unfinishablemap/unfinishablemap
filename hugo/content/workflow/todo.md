@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Condense hard-problem-of-consciousness.md (9332 words, 311% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 6000-word critical threshold for topics/. Major overviews like this should be concise entry points linking to detailed concept pages (explanatory-gap, knowledge-argument, philosophical-zombies). Preserve the argument structure while reducing exposition. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-25
-
 ### P1: Condense ai-consciousness.md (8504 words, 283% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 6000-word critical threshold for topics/. Pessimistic review 2026-01-25 already flagged redundancy (self-stultification argument appears 3+ times). Front-load conclusions, remove repetition, defer detailed arguments to linked concept pages. See /condense skill.
@@ -258,6 +252,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-25: Condense hard-problem-of-consciousness.md (9332 words, 311% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 6000-word critical threshold for topics/. Major overviews like this should be concise entry points linking to detailed concept pages (explanatory-gap, knowledge-argument, philosophical-zombies). Preserve the argument structure while reducing exposition. See /condense skill.
+- **Output**: /home/andy/unfin/unfinishablemap/obsidian/topics/hard-problem-of-consciousness.md
 
 ### ✓ 2026-01-25: Condense free-will.md (9567 words, 319% of target)
 - **Type**: other
