@@ -3,7 +3,7 @@ title: "The Measurement Problem"
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-25T21:15:00+00:00
+ai_modified: 2026-01-25T19:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-25T21:15:00+00:00
+last_deep_review: 2026-01-25T19:57:00+00:00
 ---
 
 The measurement problem is the central foundational puzzle in quantum mechanics—and it creates the logical opening for consciousness to play a role in physics. Quantum systems evolve deterministically according to the Schrödinger equation, forming superpositions of all possible states. Yet measurement yields a single, definite outcome. What causes this transition? The mathematics doesn't say. As J.S. Bell framed it: "Either the wavefunction...is not everything, or it is not right."
@@ -93,7 +93,7 @@ All outcomes occur. The universe branches at every quantum event; all branches a
 
 **Relation to site tenets:** **Directly rejected** by [[tenets#^no-many-worlds|No Many Worlds]]. See [[many-worlds]] for detailed arguments. Key objections: (1) indexical—why am I *this* branch?; (2) probability—what does "70% probable" mean if all outcomes occur?; (3) incompatible with [[tenets#^bidirectional-interaction|Bidirectional Interaction]].
 
-MWI has sophisticated responses. Wallace derives Born probabilities from decision-theoretic coherence—rational agents *must* weight outcomes by squared amplitudes to avoid Dutch books. Wallace proves that rational action requires treating amplitudes as branch weights. But decision theory tells agents how to *act* given probabilities—it doesn't establish what probabilities *are* when all outcomes exist. The MWI defender dismisses "which will I be?" as a pseudo-question. The Map disagrees: singular perspective—experiencing oneself as one rather than many—is starting datum, not derivative. Rejecting this clarifies what accepting MWI costs.
+MWI has sophisticated responses. Wallace derives Born probabilities from decision-theoretic coherence: rational agents must weight outcomes by squared amplitudes to avoid Dutch books. His argument is that probabilities *just are* rational credences—there's nothing more for them to be. This is philosophically serious. The Map's disagreement is not that the derivation fails but that it changes the subject: we ask what probability *is* when all outcomes occur; Wallace answers how agents should *act*. The MWI defender dismisses "which will I be?" as a pseudo-question. The Map disagrees: singular perspective—experiencing oneself as one rather than many—is starting datum, not derivative. Rejecting this clarifies what accepting MWI costs.
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
@@ -117,7 +117,7 @@ Conscious observation precipitates collapse. Von Neumann's formalism permits pla
 
 Henry Stapp developed the most detailed consciousness-based approach within orthodox quantum mechanics. His key insight: [[mental-effort]] can protract desired neural assemblies through the quantum Zeno effect—where rapid, repeated observation prevents state evolution. This is consciousness *selecting* among quantum possibilities—the orthodox "Heisenberg choice" in von Neumann's formalism—not causing collapse from outside physics.
 
-**Decoherence challenge**: Tegmark (2000) calculated neural quantum coherence times at ~10^-13 seconds—far shorter than neural timescales (~10^-3 seconds). Stapp responds that Zeno effects require rapid *observation events*, not persistent coherence—but critics counter this presupposes the very coherence being questioned. See [[decoherence]] for detailed treatment including recent experimental developments that complicate Tegmark's original calculation.
+**Decoherence challenge**: Tegmark (2000) calculated neural quantum coherence times at ~10^-13 seconds—far shorter than neural timescales (~10^-3 seconds). Stapp responds that Zeno effects require rapid *observation events*, not persistent coherence—but critics counter this distinction presupposes quantum effects where none may exist. The objection remains severe; see [[decoherence]] for detailed treatment.
 
 **The Map's position**: The decoherence objection is severe against specific neural quantum proposals. The Map's core claim is *structural* rather than mechanistic: the measurement problem creates space for consciousness-selection where deterministic physics offers none. This structural claim is a feature, not a bug—it identifies *where* non-physical causation could operate without prescribing a mechanism we cannot yet specify. Without a viable mechanism, the position is philosophical rather than scientific—a framework compatible with physics, not a competing physical theory. But the structural point stands: if collapse is real and consciousness exists, their intersection is where physics explicitly *isn't* closed—the least implausible site for non-physical causation.
 
