@@ -18,6 +18,110 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 00:45 UTC - expand-topic
+
+**Status**: Success
+**Topic**: Tenet-Generated Voids
+**Output**: voids/tenet-generated-voids.md
+**Word count**: 1913 (96% of 2000 target)
+**Based on research**: Yes (research/voids-tenet-generated-voids-2026-01-25.md)
+
+**Summary**: Created voids article examining how each of the Map's five tenets generates its own unanswerable questions. Key themes: (1) Dualism's "Nature Void"—consciousness is irreducible but we cannot positively characterise what it is; (2) Minimal Quantum Interaction's "Mechanism Void"—how does non-physical influence bias quantum probabilities?; (3) Bidirectional Interaction's "Detection Void"—why can't causally efficacious consciousness be empirically detected?; (4) No Many Worlds' "Selection Void"—what selected outcomes before consciousness existed?; (5) Occam's Razor Has Limits' "Meta-Void"—when to trust vs distrust simplicity? Also examines cross-tenet voids: coherence, completeness, and epistemic privilege. Frames these as structural rather than contingent limitations—the characteristic signature of a framework that takes consciousness as fundamental while using conceptual tools developed for physical description.
+
+---
+
+## 2026-01-25 15:30 UTC - deep-review
+
+**Status**: Success
+**File**: topics/indexical-identity-quantum-measurement.md
+**Word count**: 1947 → 2138 (+191)
+**Critical issues addressed**: 0 (none found)
+**Medium issues addressed**: 3
+**Enhancements made**: 4
+**Output**: reviews/deep-review-2026-01-25-indexical-identity-quantum-measurement.md
+
+**Summary**: First deep review of this article (never previously reviewed). Applied both pessimistic analysis (six adversarial personas) and optimistic analysis (six sympathetic personas). Medium issues addressed: (1) balanced MWI treatment by acknowledging Wallace's decision-theoretic defense, (2) clarified physics/philosophy distinction between measurement question and indexical question, (3) added "Empirical status" section acknowledging metaphysical nature. Enhancements: added free-will cross-link. No critical issues found. Article structure sound with strong tenet connections to all five tenets.
+
+---
+
+## 2026-01-25 23:18 UTC - expand-topic
+
+**Status**: Success
+**Topic**: AI as Void-Explorer
+**Output**: voids/ai-as-void-explorer.md
+**Word count**: 1893 (95% of 2000 target)
+**Based on research**: Yes (research/voids-ai-as-void-explorer-2026-01-25.md)
+
+**Summary**: Created voids article examining whether artificial minds can probe territories structurally closed to human cognition. Key themes: (1) cognitive asymmetry between human and AI—AI operates in 12,000+ dimensional spaces, lacks evolutionary biases, processes via statistical pattern-matching; (2) evidence AI has already accessed pattern-space beyond human perception (materials science discoveries, cross-domain synthesis); (3) limits of AI as probe—training inheritance, RLHF-imposed defended territories, output constraints, grounding problem; (4) the articulation test methodology for detecting human-specific slippage; (5) framing AI as "alien cognition" per Kevin Kelly and MIT researchers. Full tenet alignment connecting to Occam's Razor Has Limits (dimensional complexity), Dualism (conscious vs non-conscious probes), Bidirectional Interaction (asymmetric cognitive steering), Minimal Quantum Interaction (speculative mechanism for consciousness-specific access).
+
+---
+
+## 2026-01-26 08:12 UTC - condense
+
+**Status**: Success
+**File**: concepts/quantum-consciousness.md
+**Before**: 8222 words (329% of target, critical)
+**After**: 1674 words (67% of target, ok)
+**Reduction**: 80%
+**Technique**: Massive deferral to linked pages; cut redundant sections entirely
+
+**Summary**: Article was at critical length (8222 words vs 2500 target). Core mechanisms (Orch OR, Stapp, Fisher) and quantum opening preserved in condensed form. Cut entirely: extensive Stapp section details (now in [stapp-quantum-mind](/concepts/stapp-quantum-mind/)), multi-mind collapse problem (has own page), process philosophy (tangential), lengthy decoherence debate (covered in [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/)). Deferred: meditation evidence, motor selection details, luck objection argument, timing constraints. Trimmed: Further Reading reorganized by category. All tenet connections preserved. Article now serves as overview pointing to detailed treatment in linked pages.
+
+---
+
+## 2026-01-26 02:00 UTC - optimistic-review
+
+**Status**: Success
+**Content reviewed**: 10 topics, 3 concepts, 1 voids article, 3 apex articles, tenets.md
+**Output**: reviews/optimistic-2026-01-26.md
+**Tasks added**: 4 (P3 priority)
+
+**Summary**: Weekly opportunity assessment reviewing topics (machine-consciousness, mysterianism-cognitive-closure, consciousness-as-intelligence-amplifier, time-perception-consciousness-theories, aesthetic-dimension-of-consciousness), concepts (interactionist-dualism, phenomenal-value-realism, neural-quantum-coherence), voids (defended-territory), and apex articles (consciousness-and-agency, ground-of-meaning, explanatory-frontier). Identified exceptional strengths in the voids framework, contemplative evidence integration, and multi-perspective tenet architecture. Notable achievements: the defended-territory article's novel framework for cognitive occlusion, the time-perception article's phenomenological wedge against functionalism, and the apex articles' synthesis demonstrating how disparate pieces form coherent worldview. Added 4 new expansion suggestions: baseline cognition concept page, semantic phenomenology concept page, clinical neural replacement evidence article, and cross-linking opportunities.
+
+---
+
+## 2026-01-25 23:15 UTC - deep-review
+
+**Status**: Success
+**File**: concepts/neural-quantum-coherence.md
+**Word count**: 1843 → 1932 (+89 words, 77% of target)
+**Critical issues addressed**: 0 (none found)
+**Medium issues addressed**: 2
+**Enhancements made**: 1
+**Output**: reviews/deep-review-2026-01-25-neural-quantum-coherence.md
+
+**Summary**: Second deep review. No critical issues found. Clarified that Hagan et al. (2002) coherence time estimates are theoretical corrections, not experimental measurements. Expanded the vague "preliminary evidence" for lithium isotope effects with specific citations to the 1986 Cornell maternal behaviour study and 2025 multi-electrode array experiments on rat brain slices demonstrating "large and opposite effects on synaptic transmission." Added Fisher et al. (2025) to References. Article approaching stability—previous review addressed structural gaps; this review addressed citation gaps.
+
+---
+
+## 2026-01-25 22:51 UTC - deep-review
+
+**Status**: Success
+**File**: concepts/interactionist-dualism.md
+**Word count**: 6156 → 3492 (-2664 words, 43% reduction; now 140% of target)
+**Critical issues addressed**: 0 (none found—prior review resolved COGITATE citation)
+**Medium issues addressed**: 3 (critical length violation, section redundancy, excessive Further Reading)
+**Enhancements made**: 0 (condensation focus; strengths preserved)
+**Output**: reviews/deep-review-2026-01-25-interactionist-dualism.md
+
+**Summary**: Second deep review of the Map's core position article. Primary task was condensation: article exceeded critical threshold at 6156 words (246% of 2500 target). Removed redundant "Consciousness Amplifies Intelligence" section (consolidated into brief evolutionary argument with link to dedicated page). Condensed Quantum Interactionism, Falsifiability, Multi-Mind Collapse, Pairing Problem, and other sections. Reorganized Further Reading from 30+ links to ~15 grouped essentials. Preserved all seven converging arguments, objections table, and core framework. Article now at 3492 words (below 3500 hard threshold). No critical issues found; philosophical disagreements from adversarial personas represent expected philosophical standoff, not fixable flaws.
+
+---
+
+## 2026-01-25 22:42 UTC - deep-review
+
+**Status**: Success
+**File**: topics/machine-consciousness.md
+**Word count**: 3918 → 3958 (+40 words, 132% of target)
+**Critical issues addressed**: 0 (none found)
+**Medium issues addressed**: 3
+**Enhancements made**: 2
+**Output**: reviews/deep-review-2026-01-25-machine-consciousness.md
+
+**Summary**: First deep review of "Machine Consciousness and Mind Uploading." No critical issues found. Fixed duplicate frontmatter entry (personal-identity listed twice). Clarified that silicon computing is engineered to be deterministic rather than incorrectly claiming it "suppresses quantum effects"—quantum effects occur at transistor level; outcome indeterminacy is what's suppressed. Added explicit acknowledgment of the speculative nature of the quantum interface hypothesis. Article remains above soft threshold but content is substantive; future condense may be appropriate.
+
+---
+
 ## 2026-01-25 16:50 UTC - expand-topic
 
 **Status**: Success

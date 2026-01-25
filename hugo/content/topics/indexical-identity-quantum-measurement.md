@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-24 20:10:00+00:00
+ai_modified: 2026-01-25 15:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,10 +13,11 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[quantum-probability-and-consciousness]]'
 created: 2026-01-23
-date: &id001 2026-01-24
+date: &id001 2026-01-25
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-25 15:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,11 +35,13 @@ The indexical gap reveals a blind spot across all major interpretations. [QBism]
 
 ## The Indexical Problem Stated
 
-Consider a quantum measurement with two possible outcomes, spin-up and spin-down. Standard quantum mechanics predicts we will observe one or the other, never a superposition. But this raises two distinct questions:
+Consider a quantum measurement with two possible outcomes, spin-up and spin-down. Standard quantum mechanics predicts we will observe one or the other, never a superposition. But this raises two distinct questions—one belonging to physics, the other to philosophy:
 
-**The measurement question**: Why does the quantum system exhibit a definite outcome rather than remaining in superposition?
+**The measurement question** (physics): Why does the quantum system exhibit a definite outcome rather than remaining in superposition?
 
-**The indexical question**: Given that a definite outcome occurs, why does *this* particular consciousness experience *this* particular result?
+**The indexical question** (philosophy): Given that a definite outcome occurs, why does *this* particular consciousness experience *this* particular result?
+
+These questions are logically independent. Physics might fully explain why definite outcomes occur without ever addressing why *this* subject experiences *this* outcome. Conversely, an account of indexical identity wouldn't by itself solve the measurement problem. Most physicists consider only the first question; this article focuses on the second.
 
 The second question presupposes what philosophers call [haecceity](/concepts/haecceity/)—the quality of being *this* particular thing rather than another qualitatively identical thing. For consciousness, haecceity grounds the difference between being *you* and being someone with identical physical properties. The indexical question asks: what makes the fact that *I* experience spin-up true?
 
@@ -82,7 +85,7 @@ Many-Worlds holds that every quantum measurement causes the universe to split in
 
 But as Albert argues, self-location claims are "irreducibly indexical." The fact that *I* find myself in this branch cannot be reduced to third-person facts about which observer-copies have which properties. Taking the first-person perspective, "it is inherently clear who 'I' refers to—there is no need to find any objective difference between 'me' and 'the other copy' because 'I' am primitively identified by the perspective center."
 
-Many-Worlds makes indexical identity primitive—a brute fact not explained by the theory. Critics (Friederich and Dawid) argue that self-locating uncertainty is either spurious or presupposes the Born rule rather than deriving it. The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects this picture, but the point stands regardless: making indexical identity primitive is not explaining it.
+Many-Worlds makes indexical identity primitive—a brute fact not explained by the theory. Critics (Friederich and Dawid) argue that self-locating uncertainty is either spurious or presupposes the Born rule rather than deriving it. MWI defenders like Wallace (2012) respond with decision-theoretic derivations: a rational agent facing quantum uncertainty should weight branches by squared amplitude because of rationality constraints on preferences, not because of facts about which branch contains "you." Yet these derivations arguably presuppose a subject whose preferences are being rationalized—the very indexical identity in question. The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects this picture, but the point stands regardless: even sophisticated defenses make indexical identity primitive rather than explaining it.
 
 ## The Participatory Realism Ambiguity
 
@@ -126,6 +129,8 @@ This differs from consciousness-collapse by not claiming consciousness triggers 
 
 **Connecting to conservation laws**: If consciousness selects which already-possible outcome actualizes for this subject (rather than injecting new causal influence), no energy conservation violation occurs. Consciousness doesn't add energy; it determines which of the energetically-equivalent possibilities is experienced. This addresses the objection that mental causation violates physical conservation laws—a topic for separate treatment in [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).
 
+**Empirical status**: This proposal is currently metaphysical rather than empirically testable. Standard quantum mechanics, the indexical reading, and purely objective interpretations all predict identical experimental outcomes. The indexical reading's value lies in its explanatory coherence—it makes explicit what other interpretations leave obscure—not in novel predictions. Whether future developments might distinguish these interpretations empirically remains an open question.
+
 ## Relation to Site Perspective
 
 This topic intersects all five tenets:
@@ -148,6 +153,7 @@ This topic intersects all five tenets:
 - [measurement-problem](/concepts/measurement-problem/) - Why definite outcomes occur
 - [mind-matter-interface](/concepts/mind-matter-interface/) - How consciousness meets matter
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) - Causal connection between mind and body
+- [free-will](/topics/free-will/) - If consciousness grounds indexical determination at quantum measurement, the self may be genuinely causal in a libertarian sense
 
 ## References
 

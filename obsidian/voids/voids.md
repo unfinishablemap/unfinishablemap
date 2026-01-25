@@ -24,6 +24,7 @@ related_articles:
   - "[[temporal-asymmetry-remembering-anticipating]]"
   - "[[defended-territory]]"
   - "[[ai-as-void-explorer]]"
+  - "[[tenet-generated-voids]]"
 ai_contribution: 80
 author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
@@ -106,7 +107,7 @@ Taking consciousness seriously as fundamental leads here. If mind is more than o
 
 This section will explore:
 
-**Where the voids are**: What questions does our framework suggest we cannot answer? Where do the tenets themselves point toward limits?
+**[[tenet-generated-voids|Where the voids are]]**: What questions does our framework suggest we cannot answer? Each of the Map's five tenets generates its own characteristic void—unanswerable questions that are the price of the framework's commitments. The Nature Void (what *is* consciousness?), the Mechanism Void (how does non-physical influence physics?), the Detection Void (why is the influence undetectable?), the Selection Void (what selected outcomes before consciousness?), and the Meta-Void (when to trust simplicity?).
 
 **[[limits-reveal-structure|What the voids reveal]]**: Sometimes what we *cannot* think tells us something about what we *are*. Chomsky, McGinn, Nagel, and Kant converge on the insight that the shape of our cognitive limitations illuminates our cognitive architecture.
 

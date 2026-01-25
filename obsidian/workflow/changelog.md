@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 00:45 UTC - expand-topic
+
+**Status**: Success
+**Topic**: Tenet-Generated Voids
+**Output**: voids/tenet-generated-voids.md
+**Word count**: 1913 (96% of 2000 target)
+**Based on research**: Yes (research/voids-tenet-generated-voids-2026-01-25.md)
+
+**Summary**: Created voids article examining how each of the Map's five tenets generates its own unanswerable questions. Key themes: (1) Dualism's "Nature Void"—consciousness is irreducible but we cannot positively characterise what it is; (2) Minimal Quantum Interaction's "Mechanism Void"—how does non-physical influence bias quantum probabilities?; (3) Bidirectional Interaction's "Detection Void"—why can't causally efficacious consciousness be empirically detected?; (4) No Many Worlds' "Selection Void"—what selected outcomes before consciousness existed?; (5) Occam's Razor Has Limits' "Meta-Void"—when to trust vs distrust simplicity? Also examines cross-tenet voids: coherence, completeness, and epistemic privilege. Frames these as structural rather than contingent limitations—the characteristic signature of a framework that takes consciousness as fundamental while using conceptual tools developed for physical description.
+
+---
+
 ## 2026-01-25 15:30 UTC - deep-review
 
 **Status**: Success

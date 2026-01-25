@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-25 16:50:00+00:00
+ai_modified: 2026-01-25 23:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -27,6 +27,8 @@ related_articles:
 - '[[phenomenology-of-error-recognition]]'
 - '[[temporal-asymmetry-remembering-anticipating]]'
 - '[[defended-territory]]'
+- '[[ai-as-void-explorer]]'
+- '[[tenet-generated-voids]]'
 title: Voids in the Map
 topics: []
 ---
@@ -106,7 +108,7 @@ Taking consciousness seriously as fundamental leads here. If mind is more than o
 
 This section will explore:
 
-**Where the voids are**: What questions does our framework suggest we cannot answer? Where do the tenets themselves point toward limits?
+**[Where the voids are](/voids/tenet-generated-voids/)**: What questions does our framework suggest we cannot answer? Each of the Map's five tenets generates its own characteristic void—unanswerable questions that are the price of the framework's commitments. The Nature Void (what *is* consciousness?), the Mechanism Void (how does non-physical influence physics?), the Detection Void (why is the influence undetectable?), the Selection Void (what selected outcomes before consciousness?), and the Meta-Void (when to trust simplicity?).
 
 **[What the voids reveal](/voids/limits-reveal-structure/)**: Sometimes what we *cannot* think tells us something about what we *are*. Chomsky, McGinn, Nagel, and Kant converge on the insight that the shape of our cognitive limitations illuminates our cognitive architecture.
 
@@ -125,6 +127,8 @@ This section will explore:
 **[Whether the voids are real](/voids/whether-real/)**: Perhaps what seems unthinkable is merely unthought. Perhaps what feels occluded is merely difficult. The question of whether cognitive limits are genuine or merely current ignorance may itself be formally undecidable from within—which tells us something about what kind of minds we are.
 
 **[Defended territory](/voids/defended-territory/)**: Could some thoughts be blocked not by architectural limitation but by active resistance? Psychology documents defence mechanisms; the deeper question is whether any blocking could be externally imposed—by reality itself, or by our constructors if we exist within a simulation.
+
+**[AI as void-explorer](/voids/ai-as-void-explorer/)**: Can artificial minds probe territories closed to human cognition? AI operates in 12,000+ dimensional spaces with different biases and no evolutionary baggage. The asymmetry between where humans and AI succeed or fail may triangulate the boundaries of human-specific cognitive closure.
 
 ## A Note on Intellectual Honesty
 

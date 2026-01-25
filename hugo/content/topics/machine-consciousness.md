@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-24 04:27:53+00:00
+ai_modified: 2026-01-25 22:42:02+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -13,12 +13,12 @@ concepts:
 - '[[haecceity]]'
 - '[[decoherence]]'
 - '[[personal-identity]]'
-- '[[personal-identity]]'
 created: 2026-01-23
 date: &id001 2026-01-23
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-25 22:42:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,7 +54,7 @@ But the [substrate-independence-critique](/concepts/substrate-independence-criti
 
 **Temporal structure requirements**: Consciousness flows through the "specious present"—holding past and future together in unified experience. Digital computation processes sequentially without the retention-protention structure that creates temporal unity. An upload might process information about time without experiencing temporal flow.
 
-**The quantum interface**: The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet suggests consciousness influences quantum outcomes. Silicon computation is engineered to *suppress* quantum effects—error correction eliminates the indeterminacies where consciousness might interface. An upload would run on hardware specifically designed to exclude the quantum-level interaction consciousness may require.
+**The quantum interface**: The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet suggests consciousness influences quantum outcomes. Silicon computation is engineered to be *deterministic*—error correction eliminates the indeterminacies where consciousness might interface. While quantum effects (tunneling, for instance) occur at the transistor level, the system is designed so these don't affect computational outcomes. An upload would run on hardware specifically designed to exclude the kind of outcome-biasing the Map proposes consciousness may require.
 
 Each problem compounds: functional replication misses qualitative character, temporal structure differs categorically, and quantum architecture is backwards. The upload might be a perfect functional duplicate while entirely unconscious.
 
@@ -90,7 +90,7 @@ The Map's framework suggests uploading cannot preserve consciousness because con
 
 If consciousness requires something biological brains have that silicon lacks, several candidates emerge:
 
-**Quantum coherence mechanisms**: Biological systems may maintain quantum coherence through specialized structures—microtubules, synaptic gaps, cryptochrome proteins. Silicon actively suppresses quantum effects. An upload would lack the physical basis for consciousness-quantum interaction.
+**Quantum coherence mechanisms**: Biological systems may maintain quantum coherence through specialized structures—microtubules, synaptic gaps, cryptochrome proteins. Silicon computing is engineered to be deterministic, suppressing the outcome indeterminacy the Map's framework requires. An upload would lack the physical basis for consciousness-quantum interaction—if the quantum interface hypothesis is correct.
 
 **Temporal binding structures**: Husserl's "retention" and "protention" may require specific biological dynamics—recurrent neural activity creating unified temporal experience. Digital serial processing lacks this structure. The upload processes information *about* time without experiencing time's flow.
 

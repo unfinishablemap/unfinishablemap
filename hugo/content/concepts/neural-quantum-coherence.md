@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-21 06:50:00+00:00
+ai_modified: 2026-01-25 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,7 @@ date: &id001 2026-01-18
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-19 10:06:00+00:00
+last_deep_review: 2026-01-25 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,7 +49,7 @@ Hagan, Hameroff, and Tuszynski (2002) challenged Tegmark's model:
 3. **Temperature paradox**: Tegmark's model predicts decreasing decoherence at lower temperatures—contradicting observed quantum behaviour
 4. **Equilibrium assumption**: Living systems actively pump energy; thermal equilibrium describes dead tissue
 
-When corrected, calculated coherence times extend to **10⁻⁵ to 10⁻⁴ seconds** (~10-100 microseconds)—seven orders of magnitude longer than Tegmark claimed. A 2025 simulation incorporating realistic biological conditions estimated 1-2 microseconds.
+When corrected, calculated coherence times extend to **10⁻⁵ to 10⁻⁴ seconds** (~10-100 microseconds)—seven orders of magnitude longer than Tegmark claimed. These remain theoretical corrections to Tegmark's model, not direct measurements of coherence in living neural tissue. A 2025 computational study (Wiest et al.) incorporating realistic biological conditions estimated 1-2 microseconds.
 
 | Source | Coherence Time | Key Assumption |
 |--------|---------------|----------------|
@@ -103,7 +103,7 @@ Phosphorus-31 nuclear spins have extremely long coherence times because:
 
 Fisher calculates coherence times of **~10⁵ seconds** (over a day)—enough time for quantum effects to influence cognition, memory, and neural processing across hours rather than microseconds.
 
-**Testable prediction**: Lithium-6 and lithium-7 have different nuclear spins. If Fisher's mechanism is real, the isotopes should have different cognitive effects. Preliminary evidence shows lithium isotope effects in rat behaviour.
+**Testable prediction**: Lithium-6 and lithium-7 have different nuclear spins. If Fisher's mechanism is real, the isotopes should have different cognitive effects. A 1986 Cornell study found that mother rats receiving lithium-6 showed stronger maternal behaviours than those receiving lithium-7 or controls. In 2025, multi-electrode array experiments on rat brain slices demonstrated that the two isotopes have "large and opposite effects on synaptic transmission"—direct evidence that lithium isotopes are pharmacologically distinct, consistent with Fisher's quantum predictions.
 
 ### Ordered Water and Cytoskeletal Gel
 
@@ -201,6 +201,7 @@ The evidence doesn't prove quantum consciousness. It removes the categorical obj
 ## References
 
 - Fisher, M.P.A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
+- Fisher, M.P.A. et al. (2025). Giant and opposite lithium isotope effects on rat hippocampus synaptic activity revealed by multi-electrode array electrophysiology. *bioRxiv preprint*.
 - Fröhlich, H. (1968). Long-range coherence and energy storage in biological systems. *International Journal of Quantum Chemistry*, 2(5), 641-649.
 - Hagan, S., Hameroff, S., & Tuszynski, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 - Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.

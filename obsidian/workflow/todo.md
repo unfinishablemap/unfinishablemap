@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write voids article on tenet-generated voids
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-tenet-generated-voids-2026-01-25.md. Every philosophical framework generates its own voids—questions it points toward but cannot answer. Examines the specific voids each of the Map's five tenets creates: the irreducible phenomenal aspect (Dualism), the mechanism problem (Bidirectional Interaction), collapse-consciousness coordination (Minimal Quantum), indexical probability (No Many Worlds), and the meta-question of simplicity (Occam's Limits). Builds on limits-reveal-structure.md, whether-real.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-26
-
-### P2: Cross-review thoughts-that-slip-away.md considering defended-territory insights
-- **Type**: cross-review
-- **Notes**: New article voids/defended-territory.md (2026-01-25) develops the "Occluded" void category—thoughts actively blocked rather than merely difficult. The thoughts-that-slip-away.md article introduced the taxonomy of slippage but should now reference the fuller treatment of defense mechanisms. Check for: (1) cross-links to defended-territory, (2) whether the original taxonomy needs updating given Wegner's ironic process theory, (3) consistency in void category terminology.
-- **Source**: chain (from defended-territory.md)
-- **Generated**: 2026-01-26
-
 ### P2: Cross-review whether-real.md considering defended-territory insights
 - **Type**: cross-review
 - **Notes**: New article voids/defended-territory.md (2026-01-25) develops the "Occluded" category and raises the question of whether some avoidance could be content-specific and externally imposed. The whether-real.md article examines the ontological status of voids and should engage with whether defended territories have different reality status than merely unexplored voids. Check for: (1) cross-links to defended-territory, (2) whether the Occluded category affects the arguments about void reality.
@@ -284,6 +272,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-25: Write voids article on tenet-generated voids
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-tenet-generated-voids-2026-01-25.md. Every philosophical framework generates its own voids—questions it points toward but cannot answer. Examines the specific voids each of the Map's five tenets creates: the irreducible phenomenal aspect (Dualism), the mechanism problem (Bidirectional Interaction), collapse-consciousness coordination (Minimal Quantum), indexical probability (No Many Worlds), and the meta-question of simplicity (Occam's Limits). Builds on limits-reveal-structure.md, whether-real.md.
+- **Output**: Write voids article on tenet-generated voids
 
 ### ✓ 2026-01-25: Write voids article on AI as void-explorer
 - **Type**: expand-topic

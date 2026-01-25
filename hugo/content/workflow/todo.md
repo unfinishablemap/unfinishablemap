@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-26 01:35:00+00:00
+ai_modified: 2026-01-25 23:01:05+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,23 +38,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write voids article on tenet-generated voids
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-tenet-generated-voids-2026-01-25.md. Every philosophical framework generates its own blind spots. Identifies specific voids each of the Map's five tenets creates—unanswerable questions, structurally inaccessible territories. Self-reflective application of "Occam's Razor Has Limits" to the Map itself. Builds on limits-reveal-structure.md, tenets.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-25
+### P2: Cross-review thoughts-that-slip-away.md considering defended-territory insights
+- **Type**: cross-review
+- **Notes**: New article voids/defended-territory.md (2026-01-25) develops the "Occluded" void category—thoughts actively blocked rather than merely difficult. The thoughts-that-slip-away.md article introduced the taxonomy of slippage but should now reference the fuller treatment of defense mechanisms. Check for: (1) cross-links to defended-territory, (2) whether the original taxonomy needs updating given Wegner's ironic process theory, (3) consistency in void category terminology.
+- **Source**: chain (from defended-territory.md)
+- **Generated**: 2026-01-26
 
-### P2: Deep review interactionist-dualism.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) last deep-reviewed 2026-01-19 (5 days ago). Foundational philosophical position for the site. Should verify: (1) accuracy of historical positions (Descartes, Eccles, Popper), (2) engagement with causal closure objection, (3) connection to psychophysical-coupling-mechanisms and bidirectional-interaction articles, (4) alignment with all five tenets.
-- **Source**: staleness
-- **Generated**: 2026-01-24
-
-### P2: Deep review neural-quantum-coherence.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) last deep-reviewed 2026-01-19 (6 days ago). Core concept connecting quantum mechanics to neural processes. Should verify: (1) accuracy of coherence timescale claims, (2) engagement with decoherence objection responses, (3) connection to recent quantum-neural-mechanisms and quantum-biology articles, (4) alignment with Minimal Quantum Interaction tenet.
-- **Source**: staleness
-- **Generated**: 2026-01-25
+### P2: Cross-review whether-real.md considering defended-territory insights
+- **Type**: cross-review
+- **Notes**: New article voids/defended-territory.md (2026-01-25) develops the "Occluded" category and raises the question of whether some avoidance could be content-specific and externally imposed. The whether-real.md article examines the ontological status of voids and should engage with whether defended territories have different reality status than merely unexplored voids. Check for: (1) cross-links to defended-territory, (2) whether the Occluded category affects the arguments about void reality.
+- **Source**: chain (from defended-territory.md)
+- **Generated**: 2026-01-26
 
 ### P2: Address deflationary challenge to intersubjectivity.md
 - **Type**: refine-draft
@@ -85,6 +79,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers Dennett's third-person methodology for studying consciousness. Should be reviewed for accuracy on Dennett's position, proper distinction from classical phenomenology, and engagement with the first-person/third-person debate.
 - **Source**: staleness
 - **Generated**: 2026-01-23
+
+### P3: Deep review emotional-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Covers the relationship between emotions and phenomenal consciousness. Should verify: (1) accuracy of emotion theory presentations (James-Lange, Cannon-Bard, appraisal), (2) engagement with somatic marker hypothesis, (3) connection to phenomenal-value-realism and valence, (4) alignment with bidirectional interaction tenet.
+- **Source**: staleness
+- **Generated**: 2026-01-26
+
+### P3: Deep review indexical-identity-quantum-measurement.md
+- **Type**: deep-review
+- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Core article for the No Many Worlds tenet—examines how each QM interpretation fails the indexical gap. Should verify: (1) accuracy of QM interpretation summaries, (2) engagement with Wallace's decision-theoretic probability derivation, (3) connection to haecceity and personal identity, (4) alignment with all five tenets.
+- **Source**: staleness
+- **Generated**: 2026-01-26
 
 ### P3: Write article on phenomenology of evidence assessment
 - **Type**: expand-topic
@@ -229,6 +235,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
 
+### P3: Create concept page for baseline cognition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-26. The baseline cognition framework (what neurons achieve alone vs. what requires consciousness) is referenced across multiple articles but deserves unified treatment. Currently scattered. Would systematize the great ape-human comparison as naturalistic test case for consciousness's functional contributions.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-26
+
+### P3: Create concept page for semantic phenomenology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-26. The felt quality of understanding—distinct from information processing. The ground-of-meaning apex article develops this but a dedicated concept page would support cross-linking. Connects to cognitive-phenomenology.md, llm-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-26
+
+### P3: Write article on clinical neural replacement evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-26. Engage actual clinical data—cochlear implants (neurons replaced, consciousness continuous), deep brain stimulation (artificial intervention, consciousness preserved), split-brain patients (consciousness unity despite neural separation). Would test quantum interface hypothesis against medical evidence. Builds on machine-consciousness.md, personal-identity.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-26
+
 ### P3: Create concept page for substrate independence
 - **Type**: expand-topic
 - **Status**: pending
@@ -252,6 +279,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-25: Write voids article on AI as void-explorer
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-ai-as-void-explorer-2026-01-25.md. Examines whether AI cognition can probe territories closed to human minds. Key findings: AI operates in 12,000+ dimensional embedding spaces, lacks evolutionary cognitive biases, has revealed patterns humans missed—but also inherits human blind spots through training. The asymmetry between failures and successes can triangulate human cognitive closure. Builds on conceptual-acquisition-limits.md, mysterianism.md, llm-consciousness.md.
+- **Output**: Write voids article on AI as void-explorer
+
+### ✓ 2026-01-25: Condense quantum-consciousness.md (8222 words, 329% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 5000-word critical threshold for concepts/. Core quantum consciousness overview that should be a concise entry point linking to detailed mechanism pages (stapp-quantum-mind, quantum-neural-mechanisms, quantum-decoherence-objection). Currently redundant with recent additions. Preserve essential framework while deferring technical details to linked articles.
+- **Output**: obsidian/concepts/quantum-consciousness.md
+
+### ✓ 2026-01-25: Deep review neural-quantum-coherence.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) last deep-reviewed 2026-01-19 (6 days ago). Core concept connecting quantum mechanics to neural processes. Should verify: (1) accuracy of coherence timescale claims, (2) engagement with decoherence objection responses, (3) connection to recent quantum-neural-mechanisms and quantum-biology articles, (4) alignment with Minimal Quantum Interaction tenet.
+- **Output**: obsidian/concepts/neural-quantum-coherence.md
+
+### ✓ 2026-01-25: Deep review interactionist-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) last deep-reviewed 2026-01-19 (5 days ago). Foundational philosophical position for the site. Should verify: (1) accuracy of historical positions (Descartes, Eccles, Popper), (2) engagement with causal closure objection, (3) connection to psychophysical-coupling-mechanisms and bidirectional-interaction articles, (4) alignment with all five tenets.
+- **Output**: obsidian/concepts/interactionist-dualism.md
+
+### ✓ 2026-01-25: Write voids article on defended territory
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-defended-territory-2026-01-25.md. Investigates "Occluded" voids category—thoughts that are actively blocked rather than merely difficult. Covers Wegner's ironic process theory, brain mechanisms of thought control, motivated cognition, and possibility of content-specific blocking. Builds on thoughts-that-slip-away.md, whether-real.md.
+- **Output**: Write voids article on defended territory
 
 ### ✓ 2026-01-25: Condense ai-consciousness.md (8504 words, 283% of target)
 - **Type**: condense
