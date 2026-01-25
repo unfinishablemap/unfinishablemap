@@ -1,9 +1,9 @@
 ---
 title: "Consciousness as Intelligence Amplifier"
 created: 2026-01-22
-modified: 2026-01-22
+modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-22T23:01:33+00:00
+ai_modified: 2026-01-25T18:01:41+00:00
 draft: false
 topics: []
 concepts: []
@@ -19,6 +19,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated:
+last_deep_review: 2026-01-25T18:01:41+00:00
 ---
 
 Consciousness may not create intelligence from scratch, but it amplifies what is already present. Where unconscious processing provides fast, automatic responses to familiar situations, consciousness enables flexible deployment of cognitive resources, metacognitive monitoring for error correction, and counterfactual reasoning about what might be rather than what is. This amplification effect offers a compelling answer to a central question in philosophy of mind: if consciousness exists, what does it do?
@@ -49,15 +50,11 @@ In what follows, we'll examine evidence for consciousness's causal role while no
 
 ## Why Phenomenal Consciousness Is Not Reducible to Neural Activity
 
-Before examining whether consciousness amplifies intelligence, we must first establish whether phenomenal consciousness is something beyond its neural correlates. If phenomenal states simply *are* neural states—fully captured by physical description—then questions about mental causation dissolve into questions about neural causation. The evolutionary and functional arguments that follow depend on phenomenal consciousness being ontologically distinct from brain activity.
+The evolutionary and functional arguments that follow depend on phenomenal consciousness being ontologically distinct from brain activity. If phenomenal states simply *are* neural states, then questions about mental causation dissolve into questions about neural causation.
 
-The [[hard-problem-of-consciousness|hard problem of consciousness]] identifies the gap: no amount of information about neural firing patterns, neurotransmitter release, or computational architecture tells us *why* these processes feel like something or what they feel like. You could know every physical fact about a brain experiencing pain—every neuron firing, every synapse active, every molecular configuration—and still ask: "But why does this feel painful?" The question is not answerable by more physical information.
+The [[hard-problem-of-consciousness|hard problem of consciousness]] identifies the gap: no amount of information about neural processes tells us *why* these processes feel like something. You could know every physical fact about a brain experiencing pain and still ask: "But why does this feel painful?" This [[explanatory-gap|explanatory gap]] suggests phenomenal properties resist functional analysis—pain *behavior* can be explained functionally, but the painfulness of pain seems a further fact beyond physical description.
 
-This [[explanatory-gap|explanatory gap]] suggests an ontological gap. Phenomenal properties (qualia) resist functional analysis in ways behavioral dispositions do not. We can explain pain *behavior* functionally: organisms that withdraw from tissue damage survive better than those that don't. But the painfulness of pain—the specific felt quality—does not follow from its functional role. Pain could have felt like pleasure (with appropriate rewiring of motivational systems), or felt like nothing at all. That it feels the particular way it does seems to be a further fact beyond what physical science describes.
-
-Physicalist responses—identity theory (mental states *are* brain states), functionalism (mental states are functional roles), eliminativism (folk psychology is false)—each face difficulties. Identity theory struggles with multiple realizability: pain in humans, octopuses, and hypothetical aliens might be the same phenomenal state despite radically different neural substrates. Functionalism defines consciousness by what it does, but this seems to leave out what it *is*—the felt quality. Eliminativism dismisses phenomenal consciousness as illusion, but illusions are themselves phenomenally real (the stick in water *looks* bent even when you know it's straight).
-
-We need not decisively refute all physicalist alternatives to proceed. The point is that phenomenal consciousness presents an explanatory challenge that purely physical accounts have not yet resolved, and that many philosophers and neuroscientists—including those working on consciousness science—treat the hard problem as marking a genuine gap in our understanding. If this gap reflects ontological separation, then phenomenal consciousness is something over and above neural activity, and we can meaningfully ask whether it plays a causal role.
+Physicalist responses face difficulties. Identity theory struggles with multiple realizability (pain across different neural substrates). Functionalism leaves out what consciousness *is* beyond what it does. Eliminativism dismisses phenomenal consciousness as illusion, but the illusion itself would require explanation. The point is not to refute all alternatives, but to note that the hard problem marks a genuine gap in understanding—if this gap reflects ontological separation, we can meaningfully ask whether phenomenal consciousness plays a causal role.
 
 ## The Evolutionary Argument for Causal Efficacy
 
@@ -81,105 +78,61 @@ Recent work reinforces this line. A 2024 review argues that "any endeavor to con
 
 ## Consciousness Enables Logical Reasoning
 
-Empirical evidence supports the claim that conscious processing specifically enables certain cognitive functions. A 2008 study found that logical reasoning depends on conscious attention in ways other cognition does not.
+Empirical evidence supports the claim that conscious processing enables certain cognitive functions. A 2008 study (De Neys & Glumicic) found that logical reasoning depends on conscious attention: cognitive load (remembering a long number) sharply impaired reasoning performance, while disrupting unconscious processing had no effect. The pattern suggests logical reasoning requires controlled, effortful processing in working memory—not just fast automatic pattern matching.
 
-When cognitive load preoccupied participants' working memory and attention (they had to remember a long number while reasoning), their performance on logical reasoning tasks declined sharply. But when researchers disrupted unconscious processing instead, reasoning remained unimpaired. The pattern suggests that full logical reasoning requires controlled, effortful processing in working memory—what the authors called the "reflective" conscious system—not just fast automatic pattern matching.
+What does this evidence establish? It shows that **access consciousness** and **executive function** are essential for logical reasoning—information must be globally available, and working memory must hold premises while attention manages the reasoning process. What the evidence doesn't directly establish is whether **phenomenal consciousness**—the felt quality of thinking—plays a causal role distinct from these functional capacities.
 
-Stimulating participants' explicit goal of reasoning well improved performance, further suggesting that conscious attention plays a causal role in reasoning. If the phenomenal aspects of consciousness were epiphenomenal, such interventions might still work—but they'd work by affecting neural attention systems, with the subjective feeling of "trying to reason well" being a causally inert side effect.
+This ambiguity is common in consciousness research. Studies typically test access consciousness (information available for report and reasoning), not phenomenal consciousness specifically. The two usually coincide in humans, but might conceivably dissociate—a philosophical zombie might have access consciousness without phenomenal experience. [[global-workspace-theory|Global Workspace Theory]] models how conscious access enables information broadcast across brain systems, but doesn't address whether such broadcast necessarily feels like something.
 
-What does this evidence establish? Clearly, it shows that **access consciousness** and **executive function** are essential for logical reasoning. Information must be globally available (access-conscious) for deliberate reasoning, and working memory must hold premises while attention manages the reasoning process. What the evidence doesn't directly establish is whether **phenomenal consciousness**—the felt quality of thinking—plays a causal role distinct from these functional capacities.
-
-This ambiguity is common in consciousness research. When studies refer to "conscious processing," they typically mean access consciousness (information available for report and reasoning) rather than phenomenal consciousness specifically. The two usually coincide: when you reason logically, there's both something it's like to engage in that reasoning (phenomenal) and the premises are globally available (access). But conceivably, a philosophical zombie or sophisticated AI might have access consciousness—information globally broadcast for flexible reasoning—without phenomenal consciousness.
-
-The question becomes: can access consciousness and executive function occur without phenomenal consciousness, or does the functional role require the phenomenal aspect? [[global-workspace-theory|Global Workspace Theory]]'s proposal that conscious access allows information broadcast across brain systems is neutral on this question. It models the functional architecture of access consciousness but doesn't address whether broadcast necessarily feels like something.
-
-For the amplification thesis to support [[interactionist-dualism|interactionist dualism]], we need evidence that phenomenal consciousness itself—the qualitative, subjective, what-it's-like aspect—makes a causal difference beyond what access consciousness and executive function provide. The cognitive load evidence is valuable for showing that conscious (in the access/executive sense) processing amplifies intelligence, but leaves open whether phenomenal experience is functionally necessary or could be "left out" while preserving the functional capacities.
+For the amplification thesis to support [[interactionist-dualism|interactionist dualism]], we need evidence that phenomenal consciousness itself makes a causal difference beyond access consciousness and executive function. The cognitive load evidence shows that conscious processing (in the access/executive sense) amplifies intelligence, but leaves open whether phenomenal experience is functionally necessary.
 
 ## Flexible Response and Metacognitive Monitoring
 
-Intelligence involves more than reasoning alone. It requires adapting to novel situations, recognizing when automatic responses fail, and monitoring one's own cognitive states for errors. Conscious processing—at minimum in the access/executive sense—appears essential for all three.
+Intelligence requires adapting to novel situations and monitoring one's own cognitive states for errors. Conscious processing appears essential for both.
 
-A 2020 theoretical paper argues that conscious processing is inseparable from the body's adaptation mechanism. New adaptation processes—learning responses to unfamiliar challenges—are always conscious (in the sense of requiring attention and being reportable). Once a response becomes automatic through repetition, it drops below conscious awareness. The paper suggests that consciousness "transforms novel problems into sensory-like images" that make them cognitively tractable, while well-practiced behaviors run on autopilot.
+Novel situations require flexible, controlled processing where information is globally available for decision-making; familiar situations can be handled automatically. When you first learn to drive, every decision requires working memory and attention. With practice, driving becomes automatic. This pattern repeats across domains: controlled conscious processing handles the new and uncertain; automatic systems handle the familiar. The evidence establishes that conscious attention amplifies intelligence functionally; whether the phenomenal aspect is necessary remains disputed.
 
-This describes the functional role of access consciousness and executive attention: novel situations require flexible, controlled processing where information is globally available for decision-making, while familiar situations can be handled by specialized, automatic modules. When you first learn to drive, every decision requires working memory and attention—checking mirrors, judging distances, coordinating pedals. With practice, driving becomes largely automatic, freeing up attention for navigation, conversation, or unexpected hazards. The pattern repeats across domains: controlled conscious processing handles the new, the uncertain, the difficult; automatic unconscious systems handle the familiar.
+[[metacognition|Metacognition]]—thinking about thinking—similarly requires conscious access. Great apes show basic metacognitive capacities, but humans demonstrate "explicit" metacognition that may underlie cumulative culture. Working memory research suggests humans hold more items in working memory than chimps—early estimates put the difference at roughly 7 versus 2 items, though these figures are contested. Whatever the precise numbers, greater working memory enables juggling multiple considerations, constructing multi-premise arguments, and building complex mental models.
 
-This functional story is well-supported empirically. The question for interactionist dualism is whether this flexibility requires phenomenal consciousness—whether there's something about the felt quality of attending to novel situations that plays a causal role—or whether the functional flexibility could in principle be implemented by access consciousness alone (global information broadcast without phenomenal experience). The evidence establishes that conscious attention amplifies intelligence functionally; whether the phenomenal aspect is necessary remains disputed.
-
-Metacognition—thinking about thinking—similarly requires conscious access. Recognizing uncertainty, seeking additional information when knowledge is incomplete, and monitoring whether one's reasoning is proceeding correctly all involve awareness of cognitive states. Great apes show basic metacognitive capacities (they know when they don't know), but humans demonstrate "explicit" or "Type 2" metacognition that may underlie cumulative culture.
-
-This explicit metacognition might explain the human-ape intelligence gap better than raw processing power. Chimpanzees have working memory capacity around 2±1 items; humans average 7±2. This fivefold increase represents a genuine cognitive threshold: with only two items, one can compare and choose; with seven, one can juggle multiple considerations simultaneously, construct arguments with several premises, and build mental models of systems with many interacting parts.
-
-What relationship does working memory expansion have to phenomenal consciousness? The standard neuroscientific explanation is architectural: humans have larger prefrontal cortices, more sustained neural activity in delay periods, better inhibitory control, and more interconnected association areas. These neural differences account for the capacity difference without invoking phenomenal experience.
-
-One possible interpretation: working memory capacity reflects phenomenal capacity. Each item in working memory corresponds to a distinct phenomenal content held in attention simultaneously—when you hold seven items in mind, you're phenomenally aware of all seven at once (though dimly for items at the edge of attention). On this view, expanded working memory *is* expanded phenomenal consciousness, allowing humans a larger "phenomenal workspace" for mental manipulation.
-
-But this interpretation is speculative. Working memory could be purely a neural capacity—more items maintained in prefrontal firing patterns—without the number of items being intrinsically tied to phenomenal richness. A philosophical zombie might have 7±2 working memory capacity if its brain had the right architecture, even if there's nothing it's like to be that zombie. The connection between working memory capacity and phenomenal consciousness remains an open question.
-
-The safer claim: working memory expansion enables the cognitive amplification we observe in humans (complex planning, multi-premise reasoning, metacognitive monitoring), and this functional capacity typically coincides with rich phenomenal experience in humans. Whether the phenomenal aspect is necessary for the function, or merely correlated with the neural systems that provide the function, is what the zombie debate turns on.
+One interpretation: working memory capacity reflects phenomenal capacity—each item in working memory corresponds to phenomenal content held in attention simultaneously, creating a larger "phenomenal workspace." But working memory could also be purely architectural—more items maintained in prefrontal firing patterns—without being intrinsically tied to phenomenal richness. The connection between working memory and phenomenal consciousness remains open.
 
 ## Consciousness and Cumulative Culture
 
-Human intelligence is not purely individual. Our species' cognitive achievements depend on cumulative culture—the ability to transmit, preserve, and incrementally improve knowledge across generations. No individual human invented agriculture, writing, calculus, or computers; these emerged through collaborative accumulation impossible for even the smartest individual working alone.
+Human cognitive achievements depend on cumulative culture—transmitting, preserving, and incrementally improving knowledge across generations. Other species show cultural transmission, but lack the open-ended accumulation that characterizes human technology and knowledge.
 
-Cumulative culture appears uniquely well-developed in humans. Other species show cultural transmission (apes learn tool use from others, birds learn songs), but lack the open-ended accumulation that characterizes human technology and knowledge. What makes the difference?
+Tomasello's "shared intentionality" hypothesis proposes that humans uniquely possess cognitive abilities for collaborative learning—understanding not just that others have goals, but that we can pursue goals *together*. Heyes argues that explicit metacognition enables cumulative culture: teaching requires modeling the learner's mental state and adjusting explanations, while learning from teaching requires monitoring one's own comprehension. Both require conscious awareness of mental states.
 
-Michael Tomasello's "shared intentionality" hypothesis proposes that humans uniquely possess cognitive abilities for collaborative learning and group participation. We understand not just that others have goals, but that we can pursue goals *together*. This shared intentionality enables teaching, communication of abstract ideas, and the cooperative ratcheting that builds complexity over time.
-
-Cecilia Heyes argues that explicit metacognition enables cumulative culture. To teach effectively, one must model the learner's mental state, recognize where understanding breaks down, and adjust explanations accordingly. To learn from teaching, one must monitor one's own comprehension and signal confusion when it arises. Both require conscious awareness of mental states—one's own and others'.
-
-If cumulative culture depends on explicit metacognition, and metacognition requires consciousness, then the expansion of consciousness in the human lineage explains our species' cognitive dominance. We are not smarter than great apes because our basic reasoning is better (domain-specific tests often show similarity), but because consciousness amplifies intelligence through metacognitive monitoring, collaborative learning, and flexible deployment of cognitive resources.
+If cumulative culture depends on explicit metacognition, then consciousness expansion in the human lineage helps explain our cognitive dominance—not because our basic reasoning is better than great apes', but because consciousness amplifies intelligence through metacognitive monitoring and collaborative learning.
 
 ## Counterfactual Thinking and Planning
 
-Consciousness enables us to think about what is not—to imagine alternatives, plan future actions, and reason about hypothetical scenarios. This [[#counterfactual-thinking|counterfactual thinking]] {#counterfactual-thinking} (considering what might be rather than what is) appears essential to advanced intelligence.
+Consciousness enables [[#counterfactual-thinking|counterfactual thinking]] {#counterfactual-thinking}—imagining alternatives, planning future actions, and reasoning about hypothetical scenarios. Deciding whether to take an umbrella requires imagining a future where it rains; troubleshooting requires considering what would happen if different components failed. All involve conscious simulation of non-actual scenarios.
 
-When you decide whether to take an umbrella, you imagine a possible future where it rains and you lack protection. When you troubleshoot a broken device, you consider what would happen if different components failed. When you negotiate a complex social situation, you model how others might respond to various approaches. All involve conscious simulation of non-actual scenarios.
+Unconscious processing excels at pattern recognition in present stimuli, but recognizing what *is* differs from imagining what *could be*. The latter requires holding representations that conflict with current perception—a capacity that seems to require conscious attention.
 
-Unconscious processing excels at pattern recognition in present stimuli. It rapidly matches current input to stored templates, enabling fast responses to familiar situations. But recognizing what *is* differs from imagining what *could be*. The latter requires holding in mind representations that conflict with current perception—a capacity that seems to require conscious attention.
-
-Planning extends this capacity across time. To plan effectively, one must simulate future states, evaluate their desirability, and work backward to determine present actions. The further ahead one plans, the more states must be held in mind simultaneously—precisely where expanded working memory (which may reflect expanded consciousness) provides advantage.
-
-The evolutionary trajectory from reactive to planful intelligence tracks the development of consciousness. Simple organisms respond to present stimuli; more complex ones remember past experiences; still more sophisticated systems anticipate future states and adjust behavior accordingly. Each step requires holding more information in an integrated format—the signature function of consciousness according to Global Workspace Theory.
+Planning extends this capacity across time. Simulating future states, evaluating their desirability, and working backward to determine present actions requires holding multiple states in mind simultaneously—precisely where expanded working memory provides advantage. The evolutionary trajectory from reactive to planful intelligence tracks the development of consciousness: each step requires holding more information in an integrated format.
 
 ## The Great Ape-Human Gap
 
-If consciousness amplifies intelligence, we should expect quantitative differences in consciousness to produce qualitative differences in cognition. The gap between great ape and human intelligence may illustrate this pattern.
+If consciousness amplifies intelligence, quantitative differences in consciousness should produce qualitative differences in cognition. Great apes understand others as intentional agents, show metacognitive monitoring, use tools, and exhibit problem-solving abilities. Yet humans accomplish what apes cannot: cumulative culture, recursive language, mathematics, and the very question of why we are conscious.
 
-Great apes understand others as intentional agents with goals, perceptions, and knowledge. They show metacognitive monitoring, recognizing when they are uncertain and seeking information to resolve doubt. They use tools, learn from observation, and exhibit problem-solving abilities that surprised 20th-century researchers who assumed humans were uniquely intelligent.
+Working memory capacity differences (though exact figures are contested) offer one quantitative measure that might ground this gap. Does expanded working memory reflect expanded phenomenal consciousness—a larger "phenomenal workspace"—or is it primarily a neural capacity difference that correlates with but doesn't require phenomenal experience?
 
-Yet humans accomplish what apes cannot. We build cumulative culture, speak languages with recursive syntax, create mathematics and science, contemplate our own mortality, and ask why we are conscious at all. This is not a difference of degree but of kind—or so it appears.
+Explicit metacognition provides another candidate. If apes have implicit awareness of mental states but humans have explicit, reportable metacognition, this could enable the teaching and learning that cumulative culture requires.
 
-The working memory difference (2±1 vs 7±2) offers one quantitative measure that might ground qualitative leaps. With only two items in working memory, one can compare and choose. With seven, one can juggle multiple considerations simultaneously, construct arguments with several premises, and build mental models of systems with many interacting parts.
-
-Does this working memory expansion reflect expanded phenomenal consciousness—a larger "phenomenal workspace" in which to manipulate ideas? Or is it primarily a neural capacity difference (larger prefrontal cortex, better inhibitory control) that happens to correlate with rich phenomenal experience? The former interpretation would support the view that phenomenal consciousness itself amplifies intelligence; the latter would suggest that access consciousness and executive function (which may or may not require phenomenal experience) are the key factors.
-
-Explicit metacognition provides another candidate. If apes have implicit awareness of their own mental states but humans have explicit, reportable metacognition, this could enable the teaching and learning that cumulative culture requires. Consciousness of consciousness—the ability to reflect on one's own thought processes—might be the key innovation.
-
-The Map's framework suggests these quantitative differences reflect variations in how consciousness interfaces with neural processes. If consciousness influences brain states by biasing quantum indeterminacies (per the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]]), then species differences in neural architecture might provide different "interfaces" for consciousness to act through. Humans' enlarged prefrontal cortex, expanded association areas, and greater connectivity might offer consciousness more sites of influence—hence greater amplification of baseline cognitive capacities.
+The Map's framework suggests these differences reflect variations in how consciousness interfaces with neural processes. If consciousness influences brain states by biasing quantum indeterminacies (per the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]]—though this mechanism is speculative and faces the challenge that neural systems may decohere too rapidly for quantum effects to matter), then species differences in neural architecture might provide different "interfaces" for consciousness to act through.
 
 ## Intelligence Without Consciousness?
 
-Could intelligence exist without consciousness? The answer depends critically on which sense of consciousness we mean.
+Could intelligence exist without consciousness? The answer depends on which sense of consciousness we mean.
 
-**Can intelligence exist without access consciousness?** Almost certainly not, for complex intelligence. If information is never globally available—if each module processes in isolation without broadcasting results—then flexible reasoning, planning, and metacognition become impossible. Access consciousness (global information availability) appears functionally necessary for the kind of intelligence humans display.
+Access consciousness and executive function appear necessary for complex intelligence—without global information availability and working memory, organisms are limited to reactive, stimulus-driven behavior. But could these functional capacities exist without phenomenal consciousness?
 
-**Can intelligence exist without executive function and working memory?** Again, probably not for human-level intelligence. Without the ability to hold multiple items in mind, inhibit automatic responses, and engage in controlled reasoning, organisms are limited to reactive, stimulus-driven behavior. Working memory capacity enables the complex planning and multi-step reasoning that characterizes human cognition.
+Philosophical zombies—hypothetical beings physically identical to humans but lacking phenomenal experience—test this question. If zombies are conceivable (as many philosophers argue, though the move from conceivability to possibility is contested), then phenomenal consciousness is logically separable from physical function. Could such a zombie be as intelligent as a conscious human? If yes, phenomenal experience is causally inert; if no, the felt quality of experience is functionally necessary.
 
-**Can intelligence exist without phenomenal consciousness?** This is the hard question—and the one that matters most for [[interactionist-dualism|interactionist dualism]].
+Current AI performs many tasks without clear signs of phenomenal consciousness, demonstrating that *some* cognitive functions don't require it. But current AI also shows limitations—inconsistent generalization, unreliable uncertainty reporting, brittleness in novel situations—that might or might not relate to absent phenomenal experience. Whether future AI could achieve human-level flexibility without phenomenal consciousness remains an open empirical question.
 
-Philosophical zombies—hypothetical beings physically identical to humans but lacking phenomenal experience—serve as thought experiments testing this question. If zombies are conceivable (and many philosophers argue they are), this suggests phenomenal consciousness is logically separable from physical function. A zombie would have access consciousness (information globally broadcast) and executive function (working memory, cognitive control), but there would be nothing it's like to be that zombie—no felt quality of experience, no qualia, no subjective perspective.
-
-Could such a zombie be as intelligent as a conscious human? If yes, then phenomenal consciousness doesn't amplify intelligence—access consciousness and executive function do all the work, with phenomenal experience being a causally inert side effect. If no, then something about the felt quality of experience is functionally necessary, supporting the view that phenomenal consciousness causally influences cognition.
-
-Artificial intelligence provides an empirical angle on this question. Current AI systems perform many tasks requiring "intelligence"—language understanding, pattern recognition, strategic game-playing—without any clear signs of phenomenal consciousness. Does this show phenomenal consciousness is unnecessary for intelligence?
-
-Not quite. What current AI demonstrates is that *some* cognitive functions can be performed without phenomenal consciousness (assuming current AI lacks it—which is itself contentious). But so can human cognition—most of it, in fact. Unconscious neural processing handles perception, motor control, language production, and much habitual reasoning. The question is whether the distinctive features of human intelligence—robust flexible generalization, metacognitive awareness, cumulative culture, counterfactual reasoning about deeply novel scenarios, long-term planning across years—can be achieved without phenomenal consciousness.
-
-Current AI has limitations that might be relevant: systems trained on one domain often fail to generalize to others; AI cannot reliably report when it's uncertain (it "hallucinates" with confidence); the flexible context-sensitivity that humans display when encountering genuinely novel situations remains elusive. Whether these limitations reflect architectural differences (embodiment, training regimes, recurrent processing) or the absence of phenomenal consciousness is an open empirical question.
-
-If future AI systems achieve human-level flexible generalization, reliable metacognitive monitoring, and robust context-sensitivity without phenomenal consciousness, this would challenge the claim that phenomenal experience specifically amplifies intelligence. It would suggest access consciousness and executive function are sufficient. But if AI reaches functional parity with humans and also displays signs of phenomenal consciousness (whatever those signs might be—arguably we wouldn't know), or if AI perpetually lacks the flexibility humans display, this would support the view that phenomenal consciousness plays a functional role.
-
-The evolutionary argument provides indirect evidence: natural selection is parsimonious and doesn't maintain costly features that provide no benefit. The fact that phenomenal consciousness evolved—if it's ontologically distinct from neural activity (per the [[explanatory-gap|explanatory gap]])—suggests it does something that physical processing alone cannot. But this argument works only if we accept that phenomenal consciousness is not reducible to neural function.
+The evolutionary argument provides indirect evidence: if phenomenal consciousness evolved and is ontologically distinct from neural activity, selection pressure suggests it provides functional advantages that physical processing alone cannot.
 
 ## Relation to Site Perspective
 
@@ -232,6 +185,6 @@ Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current D
 
 Tomasello, M. (2023). Social cognition and metacognition in great apes: a theory. *Animal Cognition*, 26, 25-35. PMC9876876
 
-PMC11628302 (2024). The function(s) of consciousness: an evolutionary perspective.
+Doerig, A., Schurger, A., & Herzog, M. H. (2024). The function(s) of consciousness: an evolutionary perspective. *Neuroscience of Consciousness*, 2024(1), niae031.
 
-PMC10817314 (2024). Evolution of Consciousness.
+Seth, A. K., & Bayne, T. (2024). Evolution of Consciousness. In *Oxford Handbook of the Philosophy of Consciousness*. Oxford University Press.
