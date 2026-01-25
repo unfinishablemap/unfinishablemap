@@ -18,6 +18,90 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 18:06 UTC - deep-review (user-requested, twenty-seventh review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T17:54:47+00:00
+**Word count**: 2445 → 2484 (+39 words, within threshold)
+**Critical issues addressed**: 3
+- Functionalist response: Added selection problem argument (which functional states are conscious?)
+- Wallace MWI characterization: Acknowledged derivation succeeds at establishing betting coherence
+- Tegmark/Stapp: Revised from "impasse" to "serious problem"; burden on Stapp to specify observation events
+**Medium issues addressed**: 2
+- Tomaz reference: Corrected citation to arXiv format
+- Length management: Trimmed Relation to Site Perspective section for length neutrality
+**Enhancements made**: Preserved opening clarity, honest limitation, indexical dimension, causal closure loophole
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-27.md`
+
+---
+
+## 2026-01-25 18:01 UTC - deep-review
+
+**Status**: Success
+**File**: topics/consciousness-as-intelligence-amplifier.md
+**Previous review**: Never
+**Word count**: 4878 → 3332 (-1546 words, 32% reduction)
+**Critical issues addressed**: 3
+- Working memory figures (7±2 vs 2±1): Qualified as contested and dependent on task design
+- PMC-style references: Converted to proper academic citations with authors, titles, journals
+- Article length: Condensed from 163% to 111% of soft threshold
+**Medium issues addressed**: 3
+- Conceivability-possibility gap: Added parenthetical acknowledging the contested inference
+- Decoherence problem: Added explicit note that quantum mechanism is speculative and faces decoherence challenge
+- Electromagnetic hum analogy: Retained with surrounding context acknowledging epiphenomenalist response
+**Enhancements made**: Preserved three-way consciousness distinction, epistemic humility, and evidence-then-analysis structure
+**Output**: `reviews/deep-review-2026-01-25-consciousness-as-intelligence-amplifier.md`
+
+---
+
+## 2026-01-25 17:54 UTC - deep-review (user-requested, twenty-sixth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T17:50:18+00:00 (twenty-fifth review)
+**Word count**: 2504 → 2445 (-59 words, length-neutral mode)
+**Critical issues addressed**: 3
+- Functionalist response strengthened: replaced "begs the question" with "proves too much" argument (solipsism parallel)
+- Tegmark decoherence objection: made quantitatively explicit (10^10 factor, "devastating")
+- Wallace Born probability derivation: now engaged directly with decision-theoretic argument and explained why derivation doesn't address meaning question
+**Medium issues addressed**: 2
+- Self-locating uncertainty: clarified as pre-measurement uncertainty about successors
+- Stapp observation events: tightened to highlight unspecified physical basis
+**Enhancements made**: Preserved all strengths while tightening prose significantly
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-26.md`
+
+---
+
+## 2026-01-25 17:50 UTC - deep-review (user-requested, twenty-fifth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T17:39:19+00:00 (twenty-fourth review)
+**Word count**: 2502 → 2504 (+2 words, length-neutral mode)
+**Critical issues addressed**: 4
+- Dennett heterophenomenology response strengthened: shown to beg the question by presupposing physicalism in its criterion
+- Stapp-Tegmark impasse characterized: now explicit that dispute turns on unresolved questions about measurement itself
+- MWI indexicality rebuttal strengthened: Wallace faces dilemma—either deny phenomenology or accept the Map's point
+- Mysterianism cross-link added: connected unfalsifiability concern to epistemic limits
+**Medium issues addressed**: 0 (deferred to future reviews)
+**Enhancements made**: Maintained length-neutral by trimming decoherence summary, observer problem paragraph, and minor verbosity
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-25.md`
+
+---
+
+## 2026-01-25 21:45 UTC - optimistic-review
+
+**Status**: Success
+**Content reviewed**: tenets.md, hard-problem-of-consciousness.md, free-will.md, philosophical-zombies.md, knowledge-argument.md, indexical-identity-quantum-measurement.md, mind-matter-interface.md, consciousness-as-intelligence-amplifier.md, interactionist-dualism.md, animal-consciousness.md, quantum-binding-and-phenomenal-unity.md
+**Strengths identified**: Multi-layered arguments for dualism, integration of neuroscience with philosophy, honest treatment of objections, unified two-layer architecture (filter + quantum selection), extension of hard problem to cognitive phenomenology
+**Praise from sympathetic philosophers**: Chalmers (explanatory gap treatment), Stapp (quantum Zeno mechanism), Nagel (first-person methodology), Whitehead (process philosophy), Kane (agent causation), McGinn (epistemic humility)
+**High-priority expansion opportunities**: Philosophy of time and consciousness, phenomenology of mathematical understanding, comparative consciousness and interface differences
+**Tasks added**: 4 (philosophy of time, comparative consciousness, indexical facts concept, cognitive closure concept)
+**Output**: `reviews/optimistic-2026-01-25-evening.md`
+
+---
+
 ## 2026-01-25 17:39 UTC - deep-review (user-requested, twenty-fourth review)
 
 **Status**: Success

@@ -17,6 +17,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 18:06 UTC - deep-review (user-requested, twenty-seventh review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T17:54:47+00:00
+**Word count**: 2445 → 2484 (+39 words, within threshold)
+**Critical issues addressed**: 3
+- Functionalist response: Added selection problem argument (which functional states are conscious?)
+- Wallace MWI characterization: Acknowledged derivation succeeds at establishing betting coherence
+- Tegmark/Stapp: Revised from "impasse" to "serious problem"; burden on Stapp to specify observation events
+**Medium issues addressed**: 2
+- Tomaz reference: Corrected citation to arXiv format
+- Length management: Trimmed Relation to Site Perspective section for length neutrality
+**Enhancements made**: Preserved opening clarity, honest limitation, indexical dimension, causal closure loophole
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-27.md`
+
+---
+
 ## 2026-01-25 18:01 UTC - deep-review
 
 **Status**: Success
