@@ -17,6 +17,23 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 18:16 UTC - deep-review (user-requested, twenty-eighth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T18:06:13+00:00
+**Word count**: 2484 → 2438 (-46 words)
+**Critical issues addressed**: 2
+- Decoherence objection: Restructured to separate Stapp's mechanism from broader philosophical claim
+- Zombie argument: Added acknowledgment of contestation with pointer to arguments-for-dualism
+**Medium issues addressed**: 2
+- MWI self-locating uncertainty: Reframed objection more precisely (uncertainty about future copies vs existing positions)
+- Quantum indeterminacy: Added "on most interpretations" qualifier and superdeterminism alternative
+**Enhancements made**: Tightened prose throughout while preserving strengths; operated in length-neutral mode
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-28.md`
+
+---
+
 ## 2026-01-25 18:26 UTC - coalesce
 
 **Status**: No action - no candidates found
