@@ -17,6 +17,32 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 18:42 UTC - deep-review (user-requested, thirty-first review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T18:30:51+00:00
+**Word count**: 2426 → 2481 (+55 words)
+**Critical issues addressed**: 3
+- Functionalist/Dennett response: Rewrote to explain methodological puzzle more substantively rather than asserting dilemma
+- Wallace/MWI engagement: Acknowledged decision-theoretic derivation may constitute operational meaning; clarified indexical question
+- Tegmark decoherence: Upgraded from "open problem" to "substantial challenge"
+**Medium issues addressed**: 1 (zombie argument contested nature now clearer)
+**Enhancements made**: Improved philosophical rigor while staying within length threshold
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-31.md`
+
+---
+
+## 2026-01-25 19:45 UTC - research-voids
+
+**Status**: Success
+**Topic**: AI as Void-Explorer
+**Category**: Mixed (probing all three void types)
+**Output**: research/voids-ai-as-void-explorer-2026-01-25.md
+**Key finding**: AI cognition operates via fundamentally different mechanisms (12,000+ dimensional embedding spaces, statistical pattern-matching), enabling access to patterns humans miss—but inherits human blind spots through training and may have its own "defended territories" from RLHF alignment.
+
+---
+
 ## 2026-01-25 18:30 UTC - deep-review (user-requested, thirtieth review)
 
 **Status**: Success
