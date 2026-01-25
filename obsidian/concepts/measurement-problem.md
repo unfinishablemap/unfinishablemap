@@ -3,7 +3,7 @@ title: "The Measurement Problem"
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-25T16:39:06+00:00
+ai_modified: 2026-01-25T17:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-25T16:39:06+00:00
+last_deep_review: 2026-01-25T17:45:00+00:00
 ---
 
 The measurement problem is the central foundational puzzle in quantum mechanics—and it creates the logical opening for consciousness to play a role in physics. Quantum systems evolve deterministically according to the Schrödinger equation, forming superpositions of all possible states. Yet measurement yields a single, definite outcome. What causes this transition? The mathematics doesn't say. As J.S. Bell framed it: "Either the wavefunction...is not everything, or it is not right."
@@ -78,7 +78,7 @@ This dimension reveals a blind spot across all major interpretations:
 
 ## Why Decoherence Doesn't Solve It
 
-[[Decoherence]] is often claimed to solve the measurement problem. It doesn't—though what it *does* explain is substantial. Decoherence describes how quantum systems lose coherence through environmental interaction, resolving the preferred basis problem and clarifying how classicality emerges. But as Tomaz's 2025 review notes: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Decoherence explains why we don't see quantum interference at macroscopic scales—but not why we see definite results at all.
+[[Decoherence]] is often claimed to solve the measurement problem. It doesn't—though what it *does* explain is substantial. Decoherence describes how quantum systems lose coherence through environmental interaction, resolving the preferred basis problem and clarifying how classicality emerges. But as Tomaz et al.'s 2025 review notes: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Decoherence explains why we don't see quantum interference at macroscopic scales—but not why we see definite results at all.
 
 ## Major Interpretations
 
@@ -92,11 +92,11 @@ The original pragmatic approach: collapse occurs upon measurement but the bounda
 
 All outcomes occur. The universe branches at every quantum event; all branches are equally real. There is no collapse—just the appearance of collapse from within each branch.
 
-**Relation to site tenets:** **Directly rejected** by [[tenets#^no-many-worlds|No Many Worlds]]. See the [[many-worlds|dedicated article]] for detailed arguments. Key objections: (1) ontological extravagance—infinite unobservable branches; (2) the indexical problem—why am I *this* branch?; (3) the probability problem—what does "70% probable" mean if all outcomes occur?; (4) mental causation excluded—incompatible with [[tenets#^bidirectional-interaction|Bidirectional Interaction]].
+**Relation to site tenets:** **Directly rejected** by [[tenets#^no-many-worlds|No Many Worlds]]. See the [[many-worlds|dedicated article]] for detailed arguments. Key objections: (1) the indexical problem—why am I *this* branch?; (2) the probability problem—what does "70% probable" mean if all outcomes occur?; (3) mental causation excluded—incompatible with [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. (Note: "ontological extravagance" is contested—MWI proponents argue the branches are already implicit in the wavefunction, making collapse the additional postulate.)
 
 MWI has sophisticated responses. Wallace's decision-theoretic approach derives Born probabilities from coherence constraints on rational agency; Saunders and Wallace argue "self-locating uncertainty" handles indexical questions.
 
-The Map's response: Wallace's derivation succeeds on its own terms—given the MWI framework, rational agents *should* weight outcomes by Born probabilities. But the derivation presupposes agents with singular perspectives, which is precisely what needs grounding when all perspectives are equally realized. Self-locating uncertainty frames the question as "which branch am I on?"—but MWI's answer ("all of them, as different copies") doesn't explain why there's a determinate first-person perspective to begin with. MWI defenders reply that "I" just means "this branch-copy," making the question trivial. The Map holds this dissolves the question rather than answering it: we phenomenologically experience singular outcomes from *this* perspective, and that fact requires explanation, not redefinition. The disagreement is about whether phenomenological singularity—experiencing one outcome, not many—is itself the explanandum or merely a feature to be indexed away.
+The Map's response: Wallace's derivation succeeds on its own terms—given the MWI framework, rational agents *should* weight outcomes by Born probabilities. But the derivation presupposes agents with singular perspectives, which is precisely what needs grounding when all perspectives are equally realized. Self-locating uncertainty frames the question as "which branch am I on?"—MWI defenders would say this question is *confused* rather than unanswered, since "I" just refers to this branch-copy. The Map holds this dissolves rather than answers: we phenomenologically experience singular outcomes from *this* perspective, and that fact requires explanation, not redefinition. The disagreement is about whether phenomenological singularity—experiencing one outcome, not many—is genuinely the explanandum or a confused question to be dissolved.
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
@@ -120,9 +120,9 @@ Conscious observation precipitates collapse. Von Neumann's formalism permits pla
 
 Henry Stapp developed the most sophisticated consciousness-based approach within orthodox quantum mechanics—though it remains speculative and contested. His key insight: mental effort can protract desired neural assemblies through the quantum Zeno effect—where rapid, repeated observation prevents state evolution.
 
-Persistent probing of a neural state produces the same "answer" repeatedly, sustaining that state. Ion channels in synaptic walls serve as candidate sites. This isn't consciousness *causing* collapse from outside physics, but consciousness *selecting* among quantum possibilities through attentional focus—the orthodox "Heisenberg choice" in von Neumann's formalism.
+Persistent probing of a neural state produces the same "answer" repeatedly, sustaining that state. This isn't consciousness *causing* collapse from outside physics, but consciousness *selecting* among quantum possibilities through attentional focus—the orthodox "Heisenberg choice" in von Neumann's formalism.
 
-**Important challenge**: This framework faces a severe decoherence objection. Tegmark (2000) estimated quantum coherence times in brain microtubules at ~10^-13 seconds—far shorter than millisecond neural processing. Stapp responds that the quantum Zeno effect requires rapid *observation events*, not coherence persisting between them. Critics counter that without coherent superposition to freeze, Zeno observations have nothing to work with. This exchange remains unresolved: the Map does not claim Stapp has answered Tegmark, only that the debate continues.
+**Important challenge**: This framework faces a severe decoherence objection that represents mainstream physics consensus. Tegmark (2000) estimated quantum coherence times in brain microtubules at ~10^-13 seconds—far shorter than millisecond neural processing. Stapp responds that the quantum Zeno effect requires rapid *observation events*, not coherence persisting between them. Critics counter that without coherent superposition to freeze, Zeno observations have nothing to work with. The Map acknowledges Tegmark's position has the weight of scientific consensus; Stapp's response remains contested and has not persuaded most physicists.
 
 The burden of proof falls on the quantum consciousness position: given thermal decoherence in biological systems, claiming quantum effects influence neural processing requires positive evidence. The Map acknowledges this is a significant obstacle, not merely an "ongoing debate."
 
@@ -217,5 +217,5 @@ The measurement problem directly supports the Map's framework:
 - Stanford Encyclopedia of Philosophy. "Many-Worlds Interpretation." https://plato.stanford.edu/entries/qm-manyworlds/
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194-4206.
-- Tomaz, A.C. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278.
+- Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." *Philosophical Magazine*. arXiv:2502.19278.
 - Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*.
