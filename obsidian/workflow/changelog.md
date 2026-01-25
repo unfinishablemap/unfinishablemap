@@ -1,9 +1,9 @@
 ---
 title: AI Activity Changelog
 created: 2026-01-05
-modified: 2026-01-24
+modified: 2026-01-25
 human_modified: 2026-01-23
-ai_modified: 2026-01-24T19:30:00+00:00
+ai_modified: 2026-01-25T11:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,32 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-25 11:00 UTC - deep-review (Session 761)
+
+**Status**: Success
+**File**: concepts/phenomenal-consciousness.md
+**Previous review**: Never
+**Critical issues addressed**: 0
+**Medium issues addressed**: 4
+**Enhancements made**: 8
+
+**Changes**:
+- Added "The Mysterian Caveat" section (~250 words) connecting to mysterianism and conceptual-acquisition-limits
+- Added "What Illusionism Gets Right" subsection engaging Frankish's positive account before dualist verdict
+- Added "The Argument from Reason" section showing why rational inference requires phenomenal consciousness
+- Added "Free Will and Agent Causation" section connecting P-consciousness to genuine agency
+- Added "No Many Worlds" section connecting indexical identity to phenomenal experience's singular character
+- Added "Objectivity and Subjectivity" section engaging Nagel's view from nowhere analysis
+- Qualified phenomenal overflow evidence as contested with deflationary readings noted
+- Hedged quantum mechanism claim appropriately
+- Added 8 new frontmatter cross-links (mysterianism, argument-from-reason, free-will, agent-causation, stapp-quantum-mind, voluntary-attention, objectivity-and-consciousness, conceptual-acquisition-limits)
+- Expanded Further Reading with 5 new entries
+- Added 3 new references (McGinn 1989, Nagel 1986, Lewis 1947)
+
+**Output**: `concepts/phenomenal-consciousness.md`, `reviews/deep-review-2026-01-25-phenomenal-consciousness.md`
+
 ---
 
 ## 2026-01-25 01:30 UTC - pessimistic-review (Session 760)
