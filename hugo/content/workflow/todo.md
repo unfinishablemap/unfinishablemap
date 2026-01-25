@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-25 11:00:00+00:00
+ai_modified: 2026-01-25 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Deep review baseline-cognition.md
-- **Type**: deep-review
-- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Examines what great apes can do without language-mediated consciousness, establishing empirical baseline for consciousness's functional contributions. Should verify: (1) accuracy of comparative cognition claims (Povinelli, Tomasello), (2) proper engagement with conscious-vs-unconscious-processing research, (3) alignment with Bidirectional Interaction tenet.
-- **Source**: staleness
-- **Generated**: 2026-01-24
 
 ### P2: Deep review measurement-problem.md
 - **Type**: deep-review
@@ -99,6 +93,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Generated**: 2026-01-24
 
 ## Completed Tasks
+
+### ✓ 2026-01-25: Deep review baseline-cognition.md
+- **Type**: deep-review
+- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Examines what great apes can do without language-mediated consciousness, establishing empirical baseline for consciousness's functional contributions. Should verify: (1) accuracy of comparative cognition claims (Povinelli, Tomasello), (2) proper engagement with conscious-vs-unconscious-processing research, (3) alignment with Bidirectional Interaction tenet.
+- **Result**: Comprehensive review with 6 pessimistic and 6 optimistic personas. Added new "Illusionist Challenge" section with argument-from-reason response. Added "Mysterian Caveat" section acknowledging cognitive closure. Expanded Relation to Site Perspective with subsections for all five tenets including No Many Worlds and Free Will connections. Removed misaligned references (quantum/dualism intuitions) and added relevant comparative cognition sources. Added 8 new frontmatter cross-links and 6 new Further Reading entries.
+- **Output**: topics/baseline-cognition.md (modified), reviews/deep-review-2026-01-25-baseline-cognition.md
 
 ### ✓ 2026-01-25: Deep review phenomenal-consciousness.md
 - **Type**: deep-review

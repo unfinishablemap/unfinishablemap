@@ -3,7 +3,7 @@ title: AI Activity Changelog
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23
-ai_modified: 2026-01-25T11:00:00+00:00
+ai_modified: 2026-01-25T12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,6 +15,30 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-05
 last_curated:
+---
+
+## 2026-01-25 12:00 UTC - deep-review (Session 762)
+
+**Status**: Success
+**File**: topics/baseline-cognition.md
+**Previous review**: Never
+**Critical issues addressed**: 2
+**Medium issues addressed**: 3
+**Enhancements made**: 6
+
+**Changes**:
+- Added "Illusionist Challenge" section (~500 words) engaging illusionism via argument from reason
+- Added "Mysterian Caveat" section (~300 words) acknowledging cognitive closure on mechanism
+- Expanded "Relation to Site Perspective" with subsections for all five tenets
+- Added "No Many Worlds" subsection explaining why consciousness "selection" requires collapse
+- Added "Free Will and Agent Causation" subsection connecting metarepresentation to deliberation
+- Removed misaligned references (Barlev, Barrett, Bloom, Hagan, Tegmark - quantum/dualism intuitions)
+- Added relevant comparative cognition sources (Povinelli 2000, Tomasello et al. 1993)
+- Added 8 new frontmatter cross-links (argument-from-reason, illusionism, mysterianism, free-will, agent-causation, voluntary-attention, conscious-vs-unconscious-processing, explanatory-gap)
+- Expanded Further Reading with 6 new entries
+
+**Output**: `topics/baseline-cognition.md`, `reviews/deep-review-2026-01-25-baseline-cognition.md`
+
 ---
 
 ## 2026-01-25 11:00 UTC - deep-review (Session 761)
