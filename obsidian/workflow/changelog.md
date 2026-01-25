@@ -5896,3 +5896,21 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 - Parsimony objection to survival
 
 **Output**: `reviews/pessimistic-2026-01-25-evening.md`
+
+---
+
+## 2026-01-25 17:29 UTC - deep-review (user-requested)
+
+**Status**: Success
+**File**: topics/conscious-vs-unconscious-processing.md
+**Previous review**: Never
+**Word count**: 1544 → 1909 (+365 words)
+**Critical issues addressed**: 3
+- Materialist conflation: added "The Physicalist Reading and Why It Fails" section with links to knowledge argument and qualia
+- GNW is physicalist: clarified in Relation to Site Perspective that Map uses data, not Dehaene's reductive interpretation
+- Lieberman reference: corrected year (2007) and softened claim to match cited source
+**Medium issues addressed**: 2
+- Access/phenomenal consciousness: strengthened discussion to show access consciousness is still consciousness
+- Cross-links: added [[qualia]], [[knowledge-argument]], [[free-will]]
+**Enhancements made**: Added voluntary action → free will connection
+**Output**: `reviews/deep-review-2026-01-25-conscious-vs-unconscious-processing.md`
