@@ -18,6 +18,120 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 19:31 UTC - deep-review (user-requested)
+
+**Status**: Success
+**File**: concepts/heterophenomenology.md
+**Previous review**: Never
+**Word count**: 1797 → 1910 (+113 words)
+**Critical issues addressed**: 4
+- Softened "deceptive" to "problematic" to avoid inflammatory rhetoric
+- Acknowledged Dennett's explicit rejection of eliminativism before critiquing
+- Qualified "most directly" claim re introspection while maintaining core point
+- Strengthened self-stultification argument to show sharp dilemma
+**Medium issues addressed**: 0 (deferred Buddhist/no-self critique to potential future article)
+**Enhancements made**: 3
+- Added nuance distinguishing content-unreliability from existence-undeniability
+- Expanded epistemic foundations argument for self-stultification
+- Preserved all strengths: opening structure, comparison table, Nagel quote, tenet connections
+**Output**: `reviews/deep-review-2026-01-25-heterophenomenology.md`
+
+---
+
+## 2026-01-25 19:27 UTC - deep-review (user-requested, thirty-eighth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T19:22:30+00:00
+**Word count**: 2487 → 2502 (+15 words)
+**Critical issues addressed**: 3
+- Clarified Wallace derivation objection: decision theory presupposes branch-weights rather than deriving them
+- Strengthened functionalist response: if indexicality is semantic, so is "why does this hurt?"—but functionalists rely on the distinction
+- Acknowledged mechanistic concession explicitly as "significant" and "philosophical rather than scientific"
+**Medium issues addressed**: 2
+- Trimmed haecceity section for concision
+- Tightened decoherence objection paragraph
+**Enhancements made**: 3
+- Wallace objection now substantively engages the argument
+- Functionalist response uses their own distinctions against them
+- Mechanistic concession honestly framed while noting structural point stands
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-38.md`
+
+---
+
+## 2026-01-25 19:22 UTC - deep-review (user-requested, thirty-seventh review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T19:11:55+00:00
+**Word count**: 2492 → 2487 (-5 words)
+**Critical issues addressed**: 3
+- Clarified haecceity as problem-marker, not solution (Buddhist critique)
+- Strengthened functionalist counter with self-undermining argument (Dennett critique)
+- Removed speculative mechanism alternatives, acknowledged weaker position if neural quantum approaches fail
+**Medium issues addressed**: 1
+- Tightened MWI section to focus on core probability grounding question
+**Enhancements made**: 2
+- More honest framing of what survives without viable mechanism
+- Preserved all identified strengths (opening, honest limitation, causal closure loophole)
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-37.md`
+
+---
+
+## 2026-01-25 23:30 UTC - pessimistic-review (user-requested)
+
+**Status**: Success
+**Content reviewed**:
+- topics/free-will.md
+- concepts/phenomenal-consciousness.md
+- topics/emotional-consciousness.md
+**Themes**: Phenomenology, agency, valence, quantum mechanisms
+**Critical issues found**: 6 (2 high, 4 medium)
+- High: Quantum Zeno overreliance contradicts style guide (free-will.md)
+- High: Retrocausality creates unfalsifiability (free-will.md)
+- Medium: Pain asymbolia interpretation overstated (emotional-consciousness.md)
+- Medium: Illusionism response inadequate (phenomenal-consciousness.md)
+- Medium: Zombie conceivability-possibility gap not engaged (phenomenal-consciousness.md)
+- Medium: Neural signature evidence overstated (free-will.md)
+**Tasks added**: 1 (P3: Reduce quantum Zeno reliance in free-will.md)
+**Output**: `reviews/pessimistic-2026-01-25-late.md`
+
+---
+
+## 2026-01-25 19:11 UTC - deep-review (user-requested, thirty-sixth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T19:07:36+00:00
+**Word count**: 2502 → 2492 (-10 words)
+**Critical issues addressed**: 3
+- Reframed Dennett attribution as "functionalist response" to avoid unverified belief claims
+- Added acknowledgment that zombie conceivability is contested, cannot be proven from neutral ground
+- Presented MWI indexical position more charitably before countering
+**Medium issues addressed**: 0
+**Enhancements made**: Tightened prose in interpretation bullet list; maintained length-neutral editing at soft threshold
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-36.md`
+
+---
+
+## 2026-01-25 19:07 UTC - deep-review (user-requested, thirty-fifth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T18:57:21+00:00
+**Word count**: 2468 → 2502 (+34 words)
+**Critical issues addressed**: 3
+- Strengthened decoherence objection to "severe and potentially fatal" with explicit 10^10 timescale gap
+- Added explicit counter-evidence criteria (superdeterminism, consciousness-influence evidence, hard problem dissolution)
+- Fuller engagement with Wallace's decision-theoretic derivation—shows how to act but not what probabilities mean
+**Medium issues addressed**: 2
+- Expanded haecceity explanation with electron example for unfamiliar readers
+- Trimmed redundant phrasing to maintain length threshold
+**Enhancements made**: Better epistemic calibration on Tegmark challenge; clearer framework falsifiability
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-35.md`
+
+---
+
 ## 2026-01-25 19:02 UTC - deep-review (user-requested)
 
 **Status**: Success
