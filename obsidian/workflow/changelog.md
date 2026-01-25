@@ -17,6 +17,33 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 21:15 UTC - deep-review (user-requested, forty-seventh review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T20:34:43+00:00
+**Word count**: 2415 → 2540 (+125 words, now at soft threshold)
+**Critical issues addressed**: 3
+- MWI indexical symmetry: acknowledged question is universal, argued MWI multiplies it
+- Structural coherence defense: added electromagnetism analogy for epistemic value
+- Wallace probability dismissal: engaged argument substantively before disagreeing
+**Medium issues addressed**: 1
+- Functionalist response: added charitable acknowledgment before disagreement
+**Enhancements made**: 3 (MWI probability, MWI indexical, coherence defense sections strengthened)
+**Report**: `reviews/deep-review-2026-01-25-measurement-problem-47.md`
+
+---
+
+## 2026-01-25 21:15 UTC - research-voids
+
+**Status**: Success
+**Topic**: Tenet-Generated Voids
+**Category**: Mixed (Unexplorable and Occluded)
+**Output**: research/voids-tenet-generated-voids-2026-01-25.md
+**Key finding**: Each of the Map's five tenets generates specific unanswerable questions—voids inherent in the framework rather than gaps awaiting future discovery. Dualism cannot characterize what consciousness positively is. Minimal Quantum Interaction cannot explain the mechanism by which non-physical consciousness biases quantum probabilities. Bidirectional Interaction cannot explain why causal effects are undetectable. No Many Worlds cannot explain what selects single outcomes absent consciousness. Occam's Razor Has Limits provides no criterion for when to trust simplicity. These framework-generated voids are not bugs but features—acknowledging them enacts the Map's commitment to intellectual honesty about epistemic limits.
+
+---
+
 ## 2026-01-25 20:34 UTC - deep-review (user-requested, forty-sixth review)
 
 **Status**: Success
