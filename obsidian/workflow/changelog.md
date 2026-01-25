@@ -17,6 +17,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 17:54 UTC - deep-review (user-requested, twenty-sixth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T17:50:18+00:00 (twenty-fifth review)
+**Word count**: 2504 → 2445 (-59 words, length-neutral mode)
+**Critical issues addressed**: 3
+- Functionalist response strengthened: replaced "begs the question" with "proves too much" argument (solipsism parallel)
+- Tegmark decoherence objection: made quantitatively explicit (10^10 factor, "devastating")
+- Wallace Born probability derivation: now engaged directly with decision-theoretic argument and explained why derivation doesn't address meaning question
+**Medium issues addressed**: 2
+- Self-locating uncertainty: clarified as pre-measurement uncertainty about successors
+- Stapp observation events: tightened to highlight unspecified physical basis
+**Enhancements made**: Preserved all strengths while tightening prose significantly
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-26.md`
+
+---
+
 ## 2026-01-25 17:50 UTC - deep-review (user-requested, twenty-fifth review)
 
 **Status**: Success
