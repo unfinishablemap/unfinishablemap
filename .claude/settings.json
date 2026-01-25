@@ -50,7 +50,8 @@
       "Skill(tune-system)",
       "Skill(tune-system:*)",
       "Skill(validate-all)",
-      "Skill(validate-all:*)"
+      "Skill(validate-all:*)",
+      "Bash(git ls-files:*)"
     ]
   }
 }
