@@ -3,7 +3,7 @@ title: "The Measurement Problem"
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-25T17:45:00+00:00
+ai_modified: 2026-01-25T18:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-25T17:45:00+00:00
+last_deep_review: 2026-01-25T18:30:00+00:00
 ---
 
 The measurement problem is the central foundational puzzle in quantum mechanics—and it creates the logical opening for consciousness to play a role in physics. Quantum systems evolve deterministically according to the Schrödinger equation, forming superpositions of all possible states. Yet measurement yields a single, definite outcome. What causes this transition? The mathematics doesn't say. As J.S. Bell framed it: "Either the wavefunction...is not everything, or it is not right."
@@ -118,7 +118,7 @@ Conscious observation precipitates collapse. Von Neumann's formalism permits pla
 
 #### Stapp's Quantum Zeno Framework
 
-Henry Stapp developed the most sophisticated consciousness-based approach within orthodox quantum mechanics—though it remains speculative and contested. His key insight: mental effort can protract desired neural assemblies through the quantum Zeno effect—where rapid, repeated observation prevents state evolution.
+Henry Stapp developed the most detailed consciousness-based approach within orthodox quantum mechanics—though it remains speculative and contested. His key insight: mental effort can protract desired neural assemblies through the quantum Zeno effect—where rapid, repeated observation prevents state evolution.
 
 Persistent probing of a neural state produces the same "answer" repeatedly, sustaining that state. This isn't consciousness *causing* collapse from outside physics, but consciousness *selecting* among quantum possibilities through attentional focus—the orthodox "Heisenberg choice" in von Neumann's formalism.
 

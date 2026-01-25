@@ -17,6 +17,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 18:30 UTC - deep-review (user-requested, seventeenth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T17:45:00+00:00 (sixteenth review same day)
+**Word count**: 2658 (unchanged, length-neutral)
+**Critical issues addressed**: 0
+**Medium issues addressed**: 0
+**Low issues addressed**: 1
+- Stapp framework description: "most sophisticated" → "most detailed" for neutrality (avoids implying scientific endorsement)
+**Enhancements made**: Minimal—article in strong shape after 16 previous reviews
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-17.md`
+
+---
+
 ## 2026-01-25 17:45 UTC - deep-review (user-requested, sixteenth review)
 
 **Status**: Success
