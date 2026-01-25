@@ -3,7 +3,7 @@ title: "Altered States of Consciousness"
 created: 2026-01-18
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T20:30:00+00:00
+ai_modified: 2026-01-25T15:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,12 +20,18 @@ concepts:
   - "[[global-workspace-theory]]"
 related_articles:
   - "[[tenets]]"
+  - "[[phenomenology]]"
+  - "[[eastern]]"
+  - "[[neurophenomenology]]"
+  - "[[epiphenomenalism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
 last_deep_review: 2026-01-19T20:30:00+00:00
+coalesced_from:
+  - "/topics/altered-states-consciousness/"
 ---
 
 Altered states of consciousness (ASCs) constitute a diverse family of experiences—psychedelics, anesthesia, meditation, hypnosis, flow states, dreaming, near-death experiences—unified by qualitative deviation from baseline waking consciousness. For dualism, ASCs are particularly revealing: they demonstrate that consciousness operates in multiple modes with distinct phenomenal qualities, suggesting the brain-consciousness interface has configurable settings rather than being a simple on/off producer. The [[filter-theory|filter theory]] interprets each ASC as a different configuration of the filtering mechanism—some states *loosen* the filter (psychedelics, mystical experiences), others *narrow* it (anesthesia, sleep), still others *reconfigure* it (meditation, flow).
@@ -90,9 +96,11 @@ Cessation events illuminate filter theory directly. Unlike anesthesia (where con
 
 ### Near-Death Experiences
 
-A 2024 University of Michigan study found gamma surges in dying patients—localised to the temporal-parietal-occipital junction associated with out-of-body experiences. Rivas et al. (2023) documented 120+ cases with veridical elements—accurate perceptions during apparent unconsciousness.
+A 2024 University of Michigan study found gamma surges in dying patients—localised to the temporal-parietal-occipital junction, a region specifically associated with out-of-body experiences and consciousness of embodiment. Rivas et al. (2023) documented 120+ cases with veridical elements—accurate perceptions during apparent unconsciousness.
 
-The empirical status remains contested. Sceptics note the lack of falsifiable predictions; advocates argue that some cases resist conventional explanation. What is clear: these experiences involve altered consciousness precisely when the brain's filtering function is maximally compromised—consistent with filter theory's prediction that reduced filtering allows expanded experience.
+The empirical status remains contested. Sceptics note the lack of falsifiable predictions and that some neural activity persists, so consciousness has not been shown to exist entirely without brain function. Advocates argue that some cases resist conventional explanation, and that organised, coherent experiences occurring when the brain is catastrophically failing fits awkwardly with production models. A failing generator should produce failing outputs; a failing filter might still transmit clearly.
+
+What is clear: these experiences involve altered consciousness precisely when the brain's filtering function is maximally compromised—consistent with filter theory's prediction that reduced filtering allows expanded experience.
 
 ## Boundary States: Where ASCs Meet Minimal Consciousness
 

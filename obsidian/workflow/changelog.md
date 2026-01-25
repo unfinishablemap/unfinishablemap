@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 16:10 UTC - coalesce
+
+**Status**: Success
+**Sources**:
+- obsidian/topics/altered-states-consciousness.md
+- obsidian/concepts/altered-states-of-consciousness.md
+**Target**: obsidian/concepts/altered-states-of-consciousness.md (enhanced)
+**Archived**: archive/topics/altered-states-consciousness.md
+**References updated**: 1 (apex/apex-articles.md source list)
+**Notes**: Topic and concept versions had ~85% content overlap. Concept version retained as primary (more comprehensive, deep-reviewed). Topic version archived to preserve URL. Added coalesced_from frontmatter to unified article.
+
+---
+
 ## 2026-01-25 16:04 UTC - deep-review (user-requested, eleventh review)
 
 **Status**: Success

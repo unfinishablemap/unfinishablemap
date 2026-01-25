@@ -95,7 +95,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 - topics/death-and-consciousness
 - topics/split-brain-consciousness
 - topics/indexical-identity-quantum-measurement
-- topics/altered-states-consciousness
+- concepts/altered-states-of-consciousness
 - topics/loss-of-consciousness
 
 **Status**: Not yet created

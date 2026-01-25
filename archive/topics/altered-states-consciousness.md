@@ -27,6 +27,11 @@ author: null
 ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-01-23
 last_curated: null
+archived: true
+archived_date: 2026-01-25T15:00:00+00:00
+superseded_by: "/concepts/altered-states-of-consciousness/"
+archive_reason: "Coalesced into Altered States of Consciousness (concepts)"
+original_path: "/topics/altered-states-consciousness/"
 ---
 
 Normal waking consciousness is not the only mode in which the mind operates. Psychedelics, meditation, anesthesia, hypnosis, flow states, and dreams each produce qualitative shifts in subjective experience—altered states where the ordinary structure of awareness transforms. These states matter philosophically because they reveal that consciousness has multiple configurations, not a single on-off switch. The tight correlation between brain activity and conscious experience might seem to support materialism, but altered states tell a more complex story: radically different brain states can produce identical behavior yet divergent experiences, and some alterations appear to expand rather than merely distort consciousness. The evidence fits better with [[filter-theory]]—the view that the brain transmits or filters consciousness rather than producing it—than with the claim that neurons generate awareness from scratch.
