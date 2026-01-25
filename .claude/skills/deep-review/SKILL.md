@@ -32,6 +32,26 @@ The tool ranks candidates by:
 
 If no candidates are found, log to changelog and exit successfully.
 
+### 1.5. Check Previous Reviews
+
+Before reviewing, check if this document has been reviewed before:
+
+```bash
+ls -t obsidian/reviews/deep-review-*-[slug].md 2>/dev/null | head -1
+```
+
+**If a previous review exists, READ IT.** This is critical for convergence:
+- Note what issues were previously identified and marked as resolved
+- Note what counterarguments were already addressed
+- Note what strengths were identified (preserve these)
+
+**Issue tracking rule**: If a previous review marked an issue as "resolved," do NOT re-flag it as critical unless:
+1. The resolution was actually incorrect or incomplete
+2. New content has been added that reintroduces the problem
+3. The article has been substantively modified since the last review
+
+Philosophical disagreements that were acknowledged as "bedrock disagreements" in a previous review should NOT be re-flagged. The goal is convergence, not endless oscillation.
+
 ### 2. Run Pessimistic Review (Deep Mode)
 
 Read the selected document thoroughly, then apply adversarial analysis using the six philosopher personas from `/pessimistic-review`:
@@ -50,12 +70,33 @@ In deep single-file mode, apply extra scrutiny:
 - Check every factual claim for support
 - Identify internal contradictions
 
-Capture findings:
-- **Critical issues** (must fix)
-- **Medium issues** (should fix)
-- **Low issues** (nice to fix)
-- **Counterarguments needing response**
-- **Unsupported claims**
+Capture findings using these severity definitions:
+
+**Critical issues** (must fix) — ONLY flag as critical if:
+- Factual error (wrong date, misattributed quote, incorrect scientific claim)
+- Internal contradiction (article contradicts itself)
+- Missing required section (e.g., no "Relation to Site Perspective")
+- Broken links or references
+- Severe style guide violation (e.g., missing front-loaded summary)
+
+**NOT critical** — These are medium or low, not critical:
+- "Persona X disagrees with the position" (philosophical disagreement is expected)
+- "Response to objection Y could be stronger" (unless it's a strawman)
+- "Section Z is thin" (expansion opportunity, not critical flaw)
+- Issues that were addressed in a previous review
+
+**Medium issues** (should fix):
+- Weak engagement with major counterarguments
+- Missing cross-links to related content
+- Prose that could be tightened
+
+**Low issues** (nice to fix):
+- Minor style improvements
+- Additional examples that could help
+
+**Counterarguments needing response** — Note these separately
+
+**Unsupported claims** — Flag factual claims without support
 
 ### 3. Run Optimistic Review (Deep Mode)
 
@@ -219,6 +260,10 @@ last_curated: null
 ## Remaining Items
 
 [Any issues deferred for future work, or "None"]
+
+## Stability Notes
+
+[Note any issues that represent fundamental philosophical disagreements rather than fixable problems. Future reviews should NOT re-flag these as critical. Example: "MWI proponents will always find the indexical argument unsatisfying—this is a bedrock disagreement, not a flaw to fix."]
 ```
 
 ### 8. Update Todo (if needed)
@@ -272,6 +317,9 @@ Enhanced:
 - Don't review the same document twice in quick succession
 - Don't expand articles already at or above soft threshold without equivalent cuts
 - Don't ignore length warnings - if the article is too long, address it
+- **Don't re-flag issues that previous reviews marked as resolved** — If a prior review said "addressed Dennett's heterophenomenology," don't flag "functionalist response too weak" again unless there's a specific new problem
+- **Don't treat philosophical disagreement as "critical"** — The adversarial personas are *designed* to disagree with dualist content. "MWI defender finds this unsatisfying" is not a critical issue; it's an expected philosophical standoff
+- **Don't oscillate** — If you find yourself wanting to expand something a previous review trimmed (or vice versa), that's a signal the article has reached stability, not that it needs more changes
 
 ## Scoring and Selection
 
@@ -296,3 +344,4 @@ This ensures new content gets reviewed first, then modified content, while avoid
 - The goal is improvement, not perfection
 - Preserve what works while fixing what doesn't
 - Run daily as part of /evolve workflow
+- **Convergence matters**: Articles should stabilize after 2-3 reviews. If you're making similar changes to what previous reviews made, the article is likely already at a good state. A review that finds "no critical issues" is a SUCCESS, not a failure to find problems.
