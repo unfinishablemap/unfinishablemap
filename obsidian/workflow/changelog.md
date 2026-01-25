@@ -17,6 +17,26 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 19:02 UTC - deep-review (user-requested)
+
+**Status**: Success
+**File**: concepts/psychophysical-coupling-mechanisms.md
+**Previous review**: Never
+**Word count**: 2033 → 2182 (+149 words)
+**Critical issues addressed**: 4
+- Added citation for willed vs instructed attention claim (Anguera et al., 2013)
+- Expanded decoherence objection response with explicit acknowledgment of mechanism shift
+- Noted Libet experiments interpretation is contested
+- Added epistemic humility for Kerskens-Pérez MRI study
+**Medium issues addressed**: 3
+- Added cross-links to [[pairing-problem]], [[phenomenal-consciousness]], [[phenomenal-unity]], [[mysterianism]], [[measurement-problem]], [[voluntary-attention]], [[libet-experiments]]
+- Updated comparative table to note Stapp's model is "High (but challenged)"
+- Strengthened pairing problem discussion with cross-links
+**Enhancements made**: Better epistemic calibration throughout; cross-linking to related concepts
+**Output**: `reviews/deep-review-2026-01-25-psychophysical-coupling-mechanisms.md`
+
+---
+
 ## 2026-01-25 18:57 UTC - deep-review (user-requested, thirty-fourth review)
 
 **Status**: Success

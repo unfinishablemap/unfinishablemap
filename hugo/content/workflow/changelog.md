@@ -18,6 +18,119 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 19:02 UTC - deep-review (user-requested)
+
+**Status**: Success
+**File**: concepts/psychophysical-coupling-mechanisms.md
+**Previous review**: Never
+**Word count**: 2033 → 2182 (+149 words)
+**Critical issues addressed**: 4
+- Added citation for willed vs instructed attention claim (Anguera et al., 2013)
+- Expanded decoherence objection response with explicit acknowledgment of mechanism shift
+- Noted Libet experiments interpretation is contested
+- Added epistemic humility for Kerskens-Pérez MRI study
+**Medium issues addressed**: 3
+- Added cross-links to [pairing-problem](/concepts/pairing-problem/), [phenomenal-consciousness](/concepts/phenomenal-consciousness/), [phenomenal-unity](/concepts/phenomenal-unity/), [mysterianism](/concepts/mysterianism/), [measurement-problem](/concepts/measurement-problem/), [voluntary-attention](/concepts/voluntary-attention/), [libet-experiments](/concepts/libet-experiments/)
+- Updated comparative table to note Stapp's model is "High (but challenged)"
+- Strengthened pairing problem discussion with cross-links
+**Enhancements made**: Better epistemic calibration throughout; cross-linking to related concepts
+**Output**: `reviews/deep-review-2026-01-25-psychophysical-coupling-mechanisms.md`
+
+---
+
+## 2026-01-25 18:57 UTC - deep-review (user-requested, thirty-fourth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T18:52:16+00:00
+**Word count**: 2424 → 2468 (+44 words)
+**Critical issues addressed**: 3
+- Dennett engagement: Acknowledged his challenge that "something it is like" may be confused; clarified Map treats phenomenology as datum
+- Tegmark vulnerability: Explicitly acknowledged as "serious and not fully resolved" rather than contested back-and-forth
+- MWI indexical: Added fair presentation of Deutsch's position before explaining Map's disagreement
+**Medium issues addressed**: 1
+- Cross-links: Added [mental-effort](/concepts/mental-effort/) link in Stapp section
+**Enhancements made**: Improved engagement with opposing views while maintaining length within soft threshold
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-34.md`
+
+---
+
+## 2026-01-25 18:52 UTC - deep-review (user-requested, thirty-third review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T18:47:08+00:00
+**Word count**: 2482 → 2424 (-58 words)
+**Critical issues addressed**: 3
+- Dennett engagement: Articulated his semantic dissolve strategy; showed why phenomenological question remains
+- MWI response: Replaced "bedrock disagreement" with specific counter to self-locating uncertainty analogy
+- Decoherence fallbacks: Added concrete alternatives (synaptic ion channels, non-quantum interface) if Stapp fails
+**Medium issues addressed**: 1
+- Multi-observer precision: Changed vague "modulates" to specific "biases which eigenstate settles into"
+**Enhancements made**: Tightened prose while improving substantive engagement with opposing views
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-33.md`
+
+---
+
+## 2026-01-25 18:47 UTC - deep-review (user-requested, thirty-second review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T18:42:18+00:00
+**Word count**: 2481 → 2482 (+1 word)
+**Critical issues addressed**: 2
+- Functionalism misrepresentation: Fixed inverted logic about zombie arguments attacking vs. becoming relevant to functionalism
+- MWI self-locating uncertainty: Added strongest MWI response (tensed uncertainty) before Map's counter
+**Medium issues addressed**: 2
+- Energy conservation: Added physical grounding for "equi-energetic outcomes" claim
+- Hidden variables: Clarified that these interpretations eliminate the causal opening
+**Enhancements made**: Strengthened engagement with opposing views while maintaining length neutrality
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-32.md`
+
+---
+
+## 2026-01-25 18:42 UTC - deep-review (user-requested, thirty-first review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T18:30:51+00:00
+**Word count**: 2426 → 2481 (+55 words)
+**Critical issues addressed**: 3
+- Functionalist/Dennett response: Rewrote to explain methodological puzzle more substantively rather than asserting dilemma
+- Wallace/MWI engagement: Acknowledged decision-theoretic derivation may constitute operational meaning; clarified indexical question
+- Tegmark decoherence: Upgraded from "open problem" to "substantial challenge"
+**Medium issues addressed**: 1 (zombie argument contested nature now clearer)
+**Enhancements made**: Improved philosophical rigor while staying within length threshold
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-31.md`
+
+---
+
+## 2026-01-25 19:45 UTC - research-voids
+
+**Status**: Success
+**Topic**: AI as Void-Explorer
+**Category**: Mixed (probing all three void types)
+**Output**: research/voids-ai-as-void-explorer-2026-01-25.md
+**Key finding**: AI cognition operates via fundamentally different mechanisms (12,000+ dimensional embedding spaces, statistical pattern-matching), enabling access to patterns humans miss—but inherits human blind spots through training and may have its own "defended territories" from RLHF alignment.
+
+---
+
+## 2026-01-25 18:30 UTC - deep-review (user-requested, thirtieth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T18:20:49+00:00
+**Word count**: 2438 → 2426 (-12 words)
+**Critical issues addressed**: 3
+- Functionalist response: Rewrote to steelman Dennett's position (the question itself is confused) before responding with the Map's dilemma
+- Wallace/MWI treatment: Tightened counter to clarify bedrock disagreement structure
+- Tegmark decoherence: Sharpened response to clarify Stapp's burden
+**Medium issues addressed**: 0 (adequately handled by existing links and acknowledgments)
+**Enhancements made**: Length-neutral; improved argument precision while reducing word count
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-30.md`
+
+---
+
 ## 2026-01-25 18:26 UTC - deep-review (user-requested)
 
 **Status**: Success
