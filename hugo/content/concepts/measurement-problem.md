@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-25 17:24:26+00:00
+ai_modified: 2026-01-25 17:35:01+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ date: &id001 2026-01-16
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-25 17:24:26+00:00
+last_deep_review: 2026-01-25 17:35:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,11 +64,11 @@ The standard measurement problem asks: why does the quantum system exhibit a def
 
 This [indexical gap](/topics/indexical-identity-quantum-measurement/) connects the measurement problem to the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/). Both share the same structure: third-person descriptions fail to capture first-person facts—the [qualitative character](/concepts/qualia/) of experience. No physical description captures *why I am experiencing spin-up rather than spin-down*—or so the Map holds.
 
-Functionalists contest this. Dennett's heterophenomenology argues that what needs explaining is why systems *report* having indexical experiences, not why they *have* them—since the latter may presuppose what it seeks to prove. If "the system asking this question is functionally correlated with the spin-up branch" fully explains the report, why posit additional facts?
+Functionalists contest this. Dennett's heterophenomenology argues that what needs explaining is why systems *report* indexical experiences, not why they *have* them—since the latter may presuppose what it seeks to prove.
 
-The Map's response: heterophenomenology explains *that* systems report experiences but not *why there's something it's like* to be that system. Dennett would reject this framing entirely—for him, once the functional story is told, nothing remains unexplained. This is an axiom clash, not an argument victory for either side. The Map's grounds for affirming a further fact rest on the zombie argument and knowledge argument (see [arguments-for-dualism](/concepts/arguments-for-dualism/)); functionalists reject these arguments as confused rather than refuted.
+The Map's response: heterophenomenology explains *that* systems report experiences but not *why there's something it's like* to be that system. The functional account tracks third-person facts about reporting behavior; the first-person fact—what it's like from the inside—remains untouched. Dennett rejects this framing: once the functional story is told, nothing remains unexplained. This is an axiom clash, not an argument one side wins. The Map's grounds for affirming a further fact rest on the zombie argument and knowledge argument (see [arguments-for-dualism](/concepts/arguments-for-dualism/)); functionalists reject these as confused rather than refuted.
 
-The indexical question asks: what makes the fact that *I* experience this outcome true? MWI defenders argue "self-locating uncertainty" provides sufficient framework. The Map holds that self-locating uncertainty presupposes a fact to be uncertain about, which is precisely what needs grounding.
+The indexical question asks: what makes the fact that *I* experience this outcome true? MWI defenders argue "self-locating uncertainty" suffices—you should be uncertain which branch you occupy, just as you might be uncertain which room you woke in. But the Map holds this analogy fails: room-uncertainty involves one world with an unknown indexical fact, while MWI involves multiple worlds where all outcomes occur equally. The uncertainty framework seems inapplicable when every possibility is realized.
 
 This dimension reveals a blind spot across all major interpretations:
 - **QBism** treats probabilities as subjective beliefs, bracketing what consciousness is or why it has determinate content
@@ -96,9 +96,9 @@ All outcomes occur. The universe branches at every quantum event; all branches a
 
 **Relation to site tenets:** **Directly rejected** by [No Many Worlds](/tenets/#no-many-worlds). See [many-worlds](/arguments/many-worlds/) for detailed arguments. Key objections: (1) indexical—why am I *this* branch?; (2) probability—what does "70% probable" mean if all outcomes occur?; (3) mental causation excluded—incompatible with [Bidirectional Interaction](/tenets/#bidirectional-interaction).
 
-MWI has sophisticated responses. Wallace derives Born probabilities from decision-theoretic coherence constraints; Saunders and Wallace argue "self-locating uncertainty" addresses indexicality.
+MWI has sophisticated responses. Wallace derives Born probabilities from decision-theoretic coherence constraints; Saunders and Wallace argue "self-locating uncertainty" addresses indexicality. Wallace explicitly addresses the singular-perspective concern: his derivation shows rational agents *should* weight outcomes by Born probabilities regardless of how identity is handled across branches.
 
-The Map's response: Wallace's derivation succeeds on its own terms—given MWI, rational agents *should* weight outcomes by Born probabilities. But the derivation presupposes agents with singular perspectives, which needs grounding when all perspectives are equally realized. MWI defenders argue the indexical question is *confused*—"I" just refers to this branch-copy. The Map holds this dissolves rather than answers the question: if "I" denotes a branch-copy, what makes *this* branch-copy the one whose experiences constitute my phenomenology? "I" in "I experience spin-up" picks out the subject of experience, not just a physical system; renaming the linguistic reference doesn't explain the phenomenological fact. This is a fundamental disagreement about whether phenomenological singularity is a genuine explanandum or a confused question.
+The Map's response: Wallace's derivation succeeds on its own terms, but the indexical problem runs deeper than decision theory reaches. MWI defenders argue the indexical question is *confused*—"I" just refers to this branch-copy. The Map holds this dissolves rather than answers the question: if "I" denotes a branch-copy, what makes *this* branch-copy the one whose experiences constitute my phenomenology? "I" in "I experience spin-up" picks out the subject of experience, not just a physical system; renaming the reference doesn't explain the phenomenological fact. This is a fundamental disagreement about whether phenomenological singularity is a genuine explanandum or a confused question.
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
@@ -120,11 +120,11 @@ Conscious observation precipitates collapse. Von Neumann's formalism permits pla
 
 #### Stapp's Quantum Zeno Framework
 
-Henry Stapp developed the most detailed consciousness-based approach within orthodox quantum mechanics—though it remains speculative and contested. His key insight: mental effort can protract desired neural assemblies through the quantum Zeno effect—where rapid, repeated observation prevents state evolution. This isn't consciousness *causing* collapse from outside physics, but consciousness *selecting* among quantum possibilities through attentional focus—the orthodox "Heisenberg choice" in von Neumann's formalism.
+Henry Stapp developed the most detailed consciousness-based approach within orthodox quantum mechanics—though it remains speculative, contested, and represents a minority position even among quantum consciousness theorists. His key insight: mental effort can protract desired neural assemblies through the quantum Zeno effect—where rapid, repeated observation prevents state evolution. This is consciousness *selecting* among quantum possibilities through attentional focus—the orthodox "Heisenberg choice" in von Neumann's formalism—not causing collapse from outside physics.
 
-**Important challenge**: This framework faces a severe decoherence objection reflecting mainstream physics consensus. Tegmark (2000) estimated quantum coherence times in brain microtubules at ~10^-13 seconds—far shorter than neural timescales. Stapp responds that the Zeno effect requires rapid *observation events*, not coherence persisting between them. Critics counter that without coherent superposition to freeze, Zeno observations have nothing to work with—and Stapp has not explained what these "observation events" physically are. The Map acknowledges Tegmark's position has scientific consensus behind it; Stapp's response remains speculative. The burden of proof falls on quantum consciousness—this is a significant obstacle, not a minor detail.
+**Decoherence challenge**: This framework faces a severe objection reflecting mainstream physics consensus. Tegmark (2000) estimated quantum coherence times in brain microtubules at ~10^-13 seconds—far shorter than neural timescales. Stapp responds that Zeno effects require rapid *observation events*, not persistent coherence. Critics counter that without coherent superposition to freeze, Zeno observations have nothing to work with—and Stapp hasn't explained what these "observation events" physically are. Tegmark's position has scientific consensus; Stapp's response remains speculative. The burden of proof falls on quantum consciousness—a significant obstacle, not a minor detail.
 
-**What would challenge this view**: If neuroscience demonstrated that no quantum effects whatsoever influence neural processing—that neural computation is entirely classical at relevant scales—Stapp's mechanism would fail. The Map would require either (a) an alternative quantum locus for consciousness-physics interaction, or (b) reconceiving the interface in non-quantum terms. The broader philosophical point—that the measurement problem creates logical space for consciousness—would survive, but the specific mechanism would not. See [decoherence](/concepts/decoherence/) for detailed treatment.
+**What would challenge this view**: If neuroscience demonstrated that neural computation is entirely classical at relevant scales, Stapp's mechanism would fail. The Map would require either an alternative quantum locus or reconceiving the interface in non-quantum terms. The broader philosophical point—that the measurement problem creates logical space for consciousness—would survive, but the specific mechanism would not. See [decoherence](/concepts/decoherence/) for detailed treatment.
 
 ## The Observer Problem
 
@@ -138,17 +138,15 @@ Consciousness-based interpretations face a further challenge: what happens when 
 
 This "[multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/)" generates uncomfortable options: (1) *first observer wins*—but relativity provides no absolute temporal ordering; (2) *consensus required*—but this demands nonlocal coordination; (3) *dominant consciousness*—but this requires an unmeasurable hierarchy of observer "strength."
 
-The Map's resolution combines [interface-locality](/concepts/interface-locality/) with [objective collapse](/concepts/prebiotic-collapse/). Consciousness doesn't cause collapse universally—it *modulates* collapse specifically within neural systems. External reality (the photon's position) is determined by physical objective collapse. Each consciousness then modulates only its own brain's response to that already-determined external fact.
+The Map's resolution combines [interface-locality](/concepts/interface-locality/) with [objective collapse](/concepts/prebiotic-collapse/). Consciousness doesn't cause collapse universally—it *modulates* collapse specifically within neural systems. External reality is determined by physical objective collapse; each consciousness then modulates only its own brain's response to that already-determined fact.
 
-This dissolves the coordination problem: Alice's consciousness affects Alice's neural patterns; Bob's affects Bob's. Agreement between observers reflects that external reality was determined by physics, not that multiple consciousnesses coordinated their selections.
-
-This preserves consciousness's causal efficacy while avoiding paradoxes of universal consciousness-collapse.
+This dissolves the coordination problem: Alice's consciousness affects Alice's neural patterns; Bob's affects Bob's. Agreement reflects that external reality was determined by physics, not that consciousnesses coordinated. This preserves causal efficacy while avoiding paradoxes of universal consciousness-collapse.
 
 ## The Causal Closure Loophole
 
 The measurement problem reveals a genuine gap in physical explanation—and this gap is exactly where [mental-causation](/concepts/mental-causation/) becomes possible.
 
-[Causal closure](/concepts/causal-closure/) claims every physical event has a sufficient physical cause. But at quantum measurement, this fails. The Born rule yields *probabilities*, not determinate causes—it predicts ensemble statistics without explaining why *this* particular measurement yielded *this* particular outcome.
+[Causal closure](/concepts/causal-closure/) claims every physical event has a sufficient physical cause. At quantum measurement, this fails: the Born rule yields *probabilities*, not determinate causes—predicting ensemble statistics without explaining why *this* measurement yielded *this* outcome.
 
 This creates the "causal closure loophole": physics fixes the *distribution* of outcomes but leaves the *selection* of individual outcomes unexplained.
 
@@ -156,7 +154,7 @@ This loophole has important features:
 
 1. **No energy violation**: Selecting among equi-energetic outcomes doesn't require adding energy. Any bias must preserve Born statistics over ensembles, or it would be empirically detectable.
 
-2. **Genuine indeterminacy**: Unlike classical "randomness" (potentially deterministic chaos), quantum indeterminacy appears ontologically fundamental under most interpretations. (Hidden-variables interpretations contest this.)
+2. **Genuine indeterminacy**: Unlike classical "randomness" (potentially deterministic chaos), quantum indeterminacy appears ontologically fundamental. (Hidden-variables interpretations contest this.)
 
 3. **The right location**: The causal closure objection to [interactionist-dualism](/archive/arguments/interactionist-dualism/) assumes physics is closed. At measurement, it isn't—precisely where non-physical causes *could* operate without conflicting with physical law.
 

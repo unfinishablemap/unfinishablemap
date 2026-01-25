@@ -18,6 +18,23 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 17:35 UTC - deep-review (user-requested, twenty-third review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T17:24:26+00:00 (twenty-second review)
+**Word count**: 2507 → 2506 (-1 word, length-neutral mode)
+**Critical issues addressed**: 2
+- Heterophenomenology under-argued: added explicit justification that functional account tracks third-person facts, first-person fact remains untouched
+- Wallace derivation: acknowledged Wallace explicitly addresses singular-perspective concern
+**Medium issues addressed**: 2
+- Self-locating uncertainty: expanded explanation of why room-analogy fails (one world vs multiple worlds)
+- Stapp minority status: added explicit note that Stapp represents minority position even among quantum consciousness theorists
+**Enhancements made**: Maintained length-neutral via prose tightening throughout Stapp section, multi-observer resolution, and causal closure section
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-23.md`
+
+---
+
 ## 2026-01-25 17:24 UTC - deep-review (user-requested, twenty-second review)
 
 **Status**: Success
@@ -5897,3 +5914,21 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 - Parsimony objection to survival
 
 **Output**: `reviews/pessimistic-2026-01-25-evening.md`
+
+---
+
+## 2026-01-25 17:29 UTC - deep-review (user-requested)
+
+**Status**: Success
+**File**: topics/conscious-vs-unconscious-processing.md
+**Previous review**: Never
+**Word count**: 1544 → 1909 (+365 words)
+**Critical issues addressed**: 3
+- Materialist conflation: added "The Physicalist Reading and Why It Fails" section with links to knowledge argument and qualia
+- GNW is physicalist: clarified in Relation to Site Perspective that Map uses data, not Dehaene's reductive interpretation
+- Lieberman reference: corrected year (2007) and softened claim to match cited source
+**Medium issues addressed**: 2
+- Access/phenomenal consciousness: strengthened discussion to show access consciousness is still consciousness
+- Cross-links: added [qualia](/concepts/qualia/), [knowledge-argument](/concepts/knowledge-argument/), [free-will](/topics/free-will/)
+**Enhancements made**: Added voluntary action → free will connection
+**Output**: `reviews/deep-review-2026-01-25-conscious-vs-unconscious-processing.md`
