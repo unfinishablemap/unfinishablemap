@@ -17,6 +17,45 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 19:22 UTC - deep-review (user-requested, thirty-seventh review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T19:11:55+00:00
+**Word count**: 2492 → 2487 (-5 words)
+**Critical issues addressed**: 3
+- Clarified haecceity as problem-marker, not solution (Buddhist critique)
+- Strengthened functionalist counter with self-undermining argument (Dennett critique)
+- Removed speculative mechanism alternatives, acknowledged weaker position if neural quantum approaches fail
+**Medium issues addressed**: 1
+- Tightened MWI section to focus on core probability grounding question
+**Enhancements made**: 2
+- More honest framing of what survives without viable mechanism
+- Preserved all identified strengths (opening, honest limitation, causal closure loophole)
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-37.md`
+
+---
+
+## 2026-01-25 23:30 UTC - pessimistic-review (user-requested)
+
+**Status**: Success
+**Content reviewed**:
+- topics/free-will.md
+- concepts/phenomenal-consciousness.md
+- topics/emotional-consciousness.md
+**Themes**: Phenomenology, agency, valence, quantum mechanisms
+**Critical issues found**: 6 (2 high, 4 medium)
+- High: Quantum Zeno overreliance contradicts style guide (free-will.md)
+- High: Retrocausality creates unfalsifiability (free-will.md)
+- Medium: Pain asymbolia interpretation overstated (emotional-consciousness.md)
+- Medium: Illusionism response inadequate (phenomenal-consciousness.md)
+- Medium: Zombie conceivability-possibility gap not engaged (phenomenal-consciousness.md)
+- Medium: Neural signature evidence overstated (free-will.md)
+**Tasks added**: 1 (P3: Reduce quantum Zeno reliance in free-will.md)
+**Output**: `reviews/pessimistic-2026-01-25-late.md`
+
+---
+
 ## 2026-01-25 19:11 UTC - deep-review (user-requested, thirty-sixth review)
 
 **Status**: Success
