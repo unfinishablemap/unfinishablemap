@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-25 22:30:00+00:00
+ai_modified: 2026-01-26 01:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,40 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-25 16:50 UTC - expand-topic
+
+**Status**: Success
+**Topic**: Defended Territory
+**Output**: voids/defended-territory.md
+**Word count**: 1478 words
+**Based on research**: Yes (research/voids-defended-territory-2026-01-25.md)
+
+**Summary**: New voids article exploring the "Occluded" category of cognitive limits—territory that may be actively defended rather than merely inaccessible. Covers psychological defence mechanisms (repression, denial, information avoidance), ironic process theory (Wegner), cognitive impenetrability (Pylyshyn), three models of occlusion (psychological, architectural, external), phenomenological signatures of defended territory (sliding thought, uncomfortable approach, clean miss, non-rebound), and methods for probing such territory (rebound test, convergence test, AI asymmetry test). Also updated voids/voids.md to include link to new article.
+
+---
+
+## 2026-01-25 22:28 UTC - condense
+
+**Status**: Reviewed, no condensation applied
+**File**: topics/ai-consciousness.md
+**Word count**: 1040 words (35% of 3000 target)
+**Reason**: Article is already well under the soft threshold—no cuts needed. Structure is tight, all sections essential.
+
+---
+
+## 2026-01-26 01:30 UTC - pessimistic-review
+
+**Status**: Success
+**Files reviewed**:
+- topics/ai-consciousness.md
+- concepts/intersubjectivity.md
+- concepts/measurement-problem.md
+**Output**: reviews/pessimistic-2026-01-25-late.md
+
+**Summary**: Multi-perspective critical analysis from 6 philosopher personas (Churchland, Dennett, Tegmark, Deutsch, Popper, Nagarjuna). Found 6 critical issues: (1) AI consciousness article conflates independent arguments that may conflict; (2) intersubjectivity's discourse argument faces unaddressed deflationary challenge; (3) measurement-problem's structural coherence defense may be self-undermining; (4) AI article's treatment of functionalism is dismissive; (5) measurement-problem's multi-observer resolution may be ad hoc; (6) intersubjectivity's contemplative evidence may prove less than claimed. Added 2 new P2 tasks to todo.md for issues 2 and 3; issue 1 incorporated into existing P1 condense task.
+
 ---
 
 ## 2026-01-25 22:30 UTC - condense (minor polish)

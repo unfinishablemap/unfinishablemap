@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 16:50 UTC - expand-topic
+
+**Status**: Success
+**Topic**: Defended Territory
+**Output**: voids/defended-territory.md
+**Word count**: 1478 words
+**Based on research**: Yes (research/voids-defended-territory-2026-01-25.md)
+
+**Summary**: New voids article exploring the "Occluded" category of cognitive limits—territory that may be actively defended rather than merely inaccessible. Covers psychological defence mechanisms (repression, denial, information avoidance), ironic process theory (Wegner), cognitive impenetrability (Pylyshyn), three models of occlusion (psychological, architectural, external), phenomenological signatures of defended territory (sliding thought, uncomfortable approach, clean miss, non-rebound), and methods for probing such territory (rebound test, convergence test, AI asymmetry test). Also updated voids/voids.md to include link to new article.
+
+---
+
 ## 2026-01-25 22:28 UTC - condense
 
 **Status**: Reviewed, no condensation applied

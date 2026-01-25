@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write voids article on defended territory
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-defended-territory-2026-01-25.md. Investigates "Occluded" voids category—thoughts that are actively blocked rather than merely difficult. Covers Wegner's ironic process theory, brain mechanisms of thought control, motivated cognition, and possibility of content-specific blocking. Builds on thoughts-that-slip-away.md, whether-real.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-25
-
-### P2: Write voids article on tenet-generated voids
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-tenet-generated-voids-2026-01-25.md. Every philosophical framework generates its own blind spots. Identifies specific voids each of the Map's five tenets creates—unanswerable questions, structurally inaccessible territories. Self-reflective application of "Occam's Razor Has Limits" to the Map itself. Builds on limits-reveal-structure.md, tenets.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-25
-
 ### P2: Deep review interactionist-dualism.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) last deep-reviewed 2026-01-19 (5 days ago). Foundational philosophical position for the site. Should verify: (1) accuracy of historical positions (Descartes, Eccles, Popper), (2) engagement with causal closure objection, (3) connection to psychophysical-coupling-mechanisms and bidirectional-interaction articles, (4) alignment with all five tenets.
@@ -257,6 +245,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-25: Write voids article on defended territory
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-defended-territory-2026-01-25.md. Investigates "Occluded" voids category—thoughts that are actively blocked rather than merely difficult. Covers Wegner's ironic process theory, brain mechanisms of thought control, motivated cognition, and possibility of content-specific blocking. Builds on thoughts-that-slip-away.md, whether-real.md.
+- **Output**: Write voids article on defended territory
 
 ### ✓ 2026-01-25: Condense ai-consciousness.md (8504 words, 283% of target)
 - **Type**: condense

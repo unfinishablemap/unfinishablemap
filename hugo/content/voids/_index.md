@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-21 09:52:00+00:00
+ai_modified: 2026-01-25 16:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -26,6 +26,7 @@ related_articles:
 - '[[phenomenology-of-the-edge]]'
 - '[[phenomenology-of-error-recognition]]'
 - '[[temporal-asymmetry-remembering-anticipating]]'
+- '[[defended-territory]]'
 title: Voids in the Map
 topics: []
 ---
@@ -122,6 +123,8 @@ This section will explore:
 **[The phenomenology of error recognition](/voids/phenomenology-of-error-recognition/)**: How does a mind recognise its own errors? Being wrong feels exactly like being right—error-blindness is structural, not contingent. The bootstrap problem of self-correction: how can a flawed system detect its own flaws? A void that is both unexplorable (current errors are invisible) and occluded (self-deception actively defends against recognition).
 
 **[Whether the voids are real](/voids/whether-real/)**: Perhaps what seems unthinkable is merely unthought. Perhaps what feels occluded is merely difficult. The question of whether cognitive limits are genuine or merely current ignorance may itself be formally undecidable from within—which tells us something about what kind of minds we are.
+
+**[Defended territory](/voids/defended-territory/)**: Could some thoughts be blocked not by architectural limitation but by active resistance? Psychology documents defence mechanisms; the deeper question is whether any blocking could be externally imposed—by reality itself, or by our constructors if we exist within a simulation.
 
 ## A Note on Intellectual Honesty
 
