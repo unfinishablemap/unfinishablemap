@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review interactionist-dualism.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) last deep-reviewed 2026-01-19 (5 days ago). Foundational philosophical position for the site. Should verify: (1) accuracy of historical positions (Descartes, Eccles, Popper), (2) engagement with causal closure objection, (3) connection to psychophysical-coupling-mechanisms and bidirectional-interaction articles, (4) alignment with all five tenets.
-- **Source**: staleness
-- **Generated**: 2026-01-24
-
 ### P2: Deep review neural-quantum-coherence.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) last deep-reviewed 2026-01-19 (6 days ago). Core concept connecting quantum mechanics to neural processes. Should verify: (1) accuracy of coherence timescale claims, (2) engagement with decoherence objection responses, (3) connection to recent quantum-neural-mechanisms and quantum-biology articles, (4) alignment with Minimal Quantum Interaction tenet.
@@ -245,6 +239,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-25: Deep review interactionist-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) last deep-reviewed 2026-01-19 (5 days ago). Foundational philosophical position for the site. Should verify: (1) accuracy of historical positions (Descartes, Eccles, Popper), (2) engagement with causal closure objection, (3) connection to psychophysical-coupling-mechanisms and bidirectional-interaction articles, (4) alignment with all five tenets.
+- **Output**: obsidian/concepts/interactionist-dualism.md
 
 ### ✓ 2026-01-25: Write voids article on defended territory
 - **Type**: expand-topic

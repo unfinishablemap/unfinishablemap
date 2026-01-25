@@ -17,6 +17,20 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 22:51 UTC - deep-review
+
+**Status**: Success
+**File**: concepts/interactionist-dualism.md
+**Word count**: 6156 → 3492 (-2664 words, 43% reduction; now 140% of target)
+**Critical issues addressed**: 0 (none found—prior review resolved COGITATE citation)
+**Medium issues addressed**: 3 (critical length violation, section redundancy, excessive Further Reading)
+**Enhancements made**: 0 (condensation focus; strengths preserved)
+**Output**: reviews/deep-review-2026-01-25-interactionist-dualism.md
+
+**Summary**: Second deep review of the Map's core position article. Primary task was condensation: article exceeded critical threshold at 6156 words (246% of 2500 target). Removed redundant "Consciousness Amplifies Intelligence" section (consolidated into brief evolutionary argument with link to dedicated page). Condensed Quantum Interactionism, Falsifiability, Multi-Mind Collapse, Pairing Problem, and other sections. Reorganized Further Reading from 30+ links to ~15 grouped essentials. Preserved all seven converging arguments, objections table, and core framework. Article now at 3492 words (below 3500 hard threshold). No critical issues found; philosophical disagreements from adversarial personas represent expected philosophical standoff, not fixable flaws.
+
+---
+
 ## 2026-01-25 22:42 UTC - deep-review
 
 **Status**: Success
