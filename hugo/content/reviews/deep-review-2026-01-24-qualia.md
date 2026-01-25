@@ -25,7 +25,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Missing cross-links to recent articles**: Added [phenomenal-consciousness](/concepts/phenomenal-consciousness/), [access-consciousness](/concepts/access-consciousness/), [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), [baseline-cognition](/concepts/baseline-cognition/) to frontmatter and Further Reading
+- **Missing cross-links to recent articles**: Added [phenomenal-consciousness](/concepts/phenomenal-consciousness/), [access-consciousness](/concepts/access-consciousness/), [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), [baseline-cognition](/archive/topics/baseline-cognition/) to frontmatter and Further Reading
 
 ### Medium Issues Found
 - **Access/phenomenal distinction underdeveloped**: Added paragraph after opening explaining qualia's relationship to phenomenal consciousness vs access consciousness
@@ -57,7 +57,7 @@ topics: []
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
 - [access-consciousness](/concepts/access-consciousness/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
-- [baseline-cognition](/concepts/baseline-cognition/)
+- [baseline-cognition](/archive/topics/baseline-cognition/)
 - [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/)
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
 
