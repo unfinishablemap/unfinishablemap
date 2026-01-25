@@ -3,7 +3,7 @@ title: "The Measurement Problem"
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-25T17:20:00+00:00
+ai_modified: 2026-01-25T15:08:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-25T17:20:00+00:00
+last_deep_review: 2026-01-25T15:08:39+00:00
 ---
 
 The measurement problem is the central foundational puzzle in quantum mechanics—and it creates the logical opening for consciousness to play a role in physics. Quantum systems evolve deterministically according to the Schrödinger equation, forming superpositions of all possible states. Yet measurement yields a single, definite outcome. What causes this transition? The mathematics doesn't say. As J.S. Bell framed it: "Either the wavefunction...is not everything, or it is not right."
@@ -59,7 +59,7 @@ Three aspects make this problematic:
 
 The standard measurement problem asks: why does the quantum system exhibit a definite outcome rather than remaining in superposition? But even granting that definite outcomes occur, a deeper question remains: why does *this* particular consciousness experience *this* particular result?
 
-This [[indexical-identity-quantum-measurement|indexical gap]] connects the measurement problem directly to the [[hard-problem-of-consciousness]]—assuming, as the Map does, that the hard problem is genuine. (Some philosophers argue there is no hard problem; the Map addresses this in [[against-materialism]].) No third-person physical description can capture the fact that *I* am experiencing spin-up rather than spin-down. The fact that *this* subject has *this* experience is irreducibly first-personal.
+This [[indexical-identity-quantum-measurement|indexical gap]] connects the measurement problem directly to the [[hard-problem-of-consciousness]]—assuming, as the Map does, that the hard problem is genuine. (Some philosophers argue there is no hard problem; the Map addresses this in [[against-materialism]].) No third-person physical description can capture the fact that *I* am experiencing spin-up rather than spin-down—or so the Map holds. Functionalists deny this, arguing that indexical facts reduce to functional states. The fact that *this* subject has *this* experience is, on the Map's view, irreducibly first-personal.
 
 As David Albert notes analyzing probability in Many-Worlds, indexical claims are "irreducibly indexical"—they cannot be reduced to third-person facts about which observer has which properties. The indexical question asks: what makes the fact that *I* experience this outcome true?
 
@@ -75,11 +75,11 @@ The concept of [[haecceity]]—"thisness," the primitive quality of being *this*
 
 [[Decoherence]] is often claimed to solve the measurement problem. It doesn't.
 
-Decoherence describes how quantum systems lose coherence through environmental interaction. A superposed particle becomes entangled with its environment, and the interference terms that reveal superposition become unobservable in practice. The system *appears* classical.
+Decoherence describes how quantum systems lose coherence through environmental interaction. A superposed particle becomes entangled with its environment, and interference terms become unobservable. The system *appears* classical.
 
 But appearance isn't reality. As Tomaz's 2025 review notes: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured."
 
-Decoherence's explanatory scope continues to grow—it resolves the preferred basis problem, explains why we don't see interference in everyday life, and clarifies how classicality emerges. Yet it converts a pure superposition into a mixed state—a probabilistic ensemble—not a definite outcome. It cannot explain why we experience one outcome rather than remaining in a mixture. The problem of definite results remains.
+Decoherence's explanatory scope continues to grow—it resolves the preferred basis problem and clarifies how classicality emerges. Yet it converts a pure superposition into a mixed state—a probabilistic ensemble—not a definite outcome. It cannot explain why we experience one outcome rather than remaining in a mixture.
 
 The distinction matters: decoherence explains why we don't see quantum interference at macroscopic scales. It does not explain why we see definite results at all.
 
@@ -109,7 +109,7 @@ All outcomes occur. The universe branches at every quantum event; all branches a
 
 5. **Mental causation excluded**: Incompatible with [[tenets#^bidirectional-interaction|Bidirectional Interaction]]—all outcomes occur regardless of consciousness.
 
-Many-worlds dissolves the measurement problem by denying single outcomes. The Map holds this dissolution fails: we directly experience single outcomes, and explaining away this experience rather than explaining it is a theoretical cost, not a virtue. The problem is real.
+Many-worlds dissolves the measurement problem by denying single outcomes. The Map holds this dissolution fails: we directly experience single outcomes, and explaining away this experience rather than explaining it is a theoretical cost. This conclusion assumes the reality of single outcomes matters philosophically—a commitment the Map makes but MWI defenders reject.
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
@@ -145,7 +145,7 @@ What makes an observer? This remains unresolved.
 
 Wigner's friend thought experiments sharpen the question: Wigner describes his friend in the lab as being in superposition (having-seen-A + having-seen-B). But the friend, inside the lab, perceives a definite result. Who's right?
 
-Recent no-go theorems (Frauchiger-Renner, 2018) extend Wigner's friend to derive a contradiction: an observer inside the lab and one outside cannot consistently apply quantum mechanics to each other while both assuming single outcomes and observer-independent facts. Something must give. The theorem shows any interpretation must abandon at least one of: single outcomes, observer-independent facts, or standard probability rules.
+Recent no-go theorems (Frauchiger-Renner, 2018) extend Wigner's friend to derive a contradiction: observers inside and outside the lab cannot consistently apply quantum mechanics to each other while assuming single outcomes and observer-independent facts. Any interpretation must abandon at least one of these assumptions or standard probability rules.
 
 Experiments have tested Wigner's friend scenarios using photons as "observers." But as Tim Maudlin noted: "Nobody thinks a photon is an observer." The experiments demonstrate quantum mechanics works as predicted; they don't settle whether consciousness is relevant to collapse.
 

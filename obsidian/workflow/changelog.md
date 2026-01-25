@@ -17,6 +17,25 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 15:08 UTC - deep-review (user-requested, fourth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25 (third review same day)
+**Word count**: 2742 → 2740 (-2 words, length-neutral mode maintained)
+**Critical issues addressed**: 0
+**Medium issues addressed**: 2
+**Enhancements made**: 2
+
+**Changes**:
+- Acknowledged functionalist objection to indexical claims
+- Made explicit that rejecting MWI dissolution is a philosophical commitment
+- Trimmed decoherence and Frauchiger-Renner sections to maintain length neutrality
+
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-4.md`
+
+---
+
 ## 2026-01-25 17:20 UTC - deep-review (user-requested, third review)
 
 **Status**: Success
