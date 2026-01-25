@@ -3,7 +3,7 @@ title: "The Measurement Problem"
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-25T18:16:10+00:00
+ai_modified: 2026-01-25T18:20:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-25T18:16:10+00:00
+last_deep_review: 2026-01-25T18:20:49+00:00
 ---
 
 The measurement problem is the central foundational puzzle in quantum mechanics—and it creates the logical opening for consciousness to play a role in physics. Quantum systems evolve deterministically according to the Schrödinger equation, forming superpositions of all possible states. Yet measurement yields a single, definite outcome. What causes this transition? The mathematics doesn't say. As J.S. Bell framed it: "Either the wavefunction...is not everything, or it is not right."
@@ -65,7 +65,7 @@ This [[indexical-identity-quantum-measurement|indexical gap]] connects the measu
 
 Functionalists contest this. Dennett argues that explaining why systems *report* having indexical experiences is explanatorily sufficient—if phenomenal facts have no causal or predictive consequences, we have no epistemic access to them.
 
-The Map's response: this moves rather than solves the problem. Functionalism must still specify *which* functional states are conscious—what makes a brain phenomenally conscious while a thermostat merely processes information? The selection problem reappears. Furthermore, the epistemic-access criterion threatens to exclude other minds—we have no direct access to your phenomenology either. The functionalist must either accept that no evidence distinguishes consciousness from its absence (making the theory unfalsifiable) or grant that *some* first-person facts transcend third-person verification. The zombie and knowledge arguments (see [[arguments-for-dualism]]) purport to establish which facts these are—though these arguments are contested, and the linked article examines objections.
+The Map's response: this moves rather than solves the problem. Functionalism must specify *which* functional states are conscious—the selection problem reappears. Furthermore, the epistemic-access criterion threatens to exclude other minds—we lack direct access to anyone's phenomenology. The functionalist must either accept that no evidence distinguishes consciousness from its absence, or grant that *some* first-person facts transcend third-person verification. The zombie and knowledge arguments (see [[arguments-for-dualism]]) purport to establish which facts these are—though these arguments are contested, and the linked article examines objections.
 
 The indexical question asks: what makes the fact that *I* experience this outcome true? MWI defenders invoke "self-locating uncertainty"—pre-measurement, you should be uncertain which branch-successor you'll become. But this faces a challenge: self-locating uncertainty typically concerns *which* of several existing positions you occupy. MWI asks you to be uncertain about *which future copy you'll be* when all copies will exist. What grounds this uncertainty when every outcome is realized and every copy is equally real?
 
@@ -97,7 +97,7 @@ All outcomes occur. The universe branches at every quantum event; all branches a
 
 MWI has sophisticated responses. Wallace derives Born probabilities from decision-theoretic coherence constraints—rational agents *must* weight outcomes by Born probabilities to avoid Dutch books, regardless of personal identity across branches. Self-locating uncertainty addresses indexicality: pre-measurement, you should be uncertain which branch-successor you'll become.
 
-The Map's counter: Wallace's derivation establishes rational betting behavior, but leaves open what "probability" *means* when every outcome occurs. Decision-theoretic coherence tells agents how to act, not what chances describe. Wallace's position—that "I" simply refers to this branch-copy with no further fact—faces a dilemma: either deny that phenomenology needs locating, or accept phenomenal perspective as primitive. If phenomenology is real, something makes *this* branch-copy its locus rather than its duplicates. The disagreement is fundamental: either phenomenological singularity requires explanation, or it doesn't. The Map holds it does.
+The Map's counter: Wallace's derivation establishes rational betting behavior, but leaves open what "probability" *means* when every outcome occurs. Decision-theoretic coherence tells agents how to act, not what chances describe. Wallace's position—that "I" simply refers to this branch-copy with no further fact—faces a dilemma: either deny that phenomenology needs locating, or accept phenomenal perspective as primitive. The disagreement reduces to a bedrock question: does phenomenological singularity—the fact that experience is always from *one* perspective—require explanation, or is it simply stipulated by indexical reference? The Map holds it requires explanation; Wallace holds it doesn't. Neither position refutes the other; the dispute concerns what counts as explanatorily basic.
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
