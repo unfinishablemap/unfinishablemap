@@ -31,6 +31,11 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated:
+archived: true
+archived_date: 2026-01-25T22:30:00+00:00
+superseded_by: "/concepts/baseline-cognition/"
+archive_reason: "Coalesced into Baseline Cognition (concepts)"
+original_path: "/topics/baseline-cognition/"
 ---
 
 If consciousness were removed from human cognition—or had never emerged—what would remain? Great ape intelligence may answer this question. Chimpanzees and bonobos show sophisticated problem-solving, tool use, social cognition, and even [[metacognition|metacognitive]] monitoring of their own uncertainty. Yet they cannot engage in cumulative culture, logical reasoning, or explicit counterfactual thinking. The pattern suggests a hypothesis: great ape cognition represents a "baseline" of what neurons can achieve without conscious elaboration, while human intelligence requires consciousness as a causally necessary amplifier.

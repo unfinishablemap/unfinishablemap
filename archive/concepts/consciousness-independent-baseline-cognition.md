@@ -21,6 +21,11 @@ author:
 ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-01-23
 last_curated:
+archived: true
+archived_date: 2026-01-25T22:30:00+00:00
+superseded_by: "/concepts/baseline-cognition/"
+archive_reason: "Coalesced into Baseline Cognition (concepts)"
+original_path: "/concepts/consciousness-independent-baseline-cognition/"
 ---
 
 Great ape cognition may represent a baseline of what neurons can achieve without the conscious contribution that enables human-level intelligence. Chimpanzees and bonobos demonstrate sophisticated problem-solving, tool use, social learning, and even procedural metacognition—monitoring uncertainty and seeking information when needed. Yet they operate within sharp constraints: working memory limited to 2±1 items (versus human 7±2), culture that doesn't accumulate modifications across generations, planning bound to current motivational states, and no evidence of metarepresentation—knowing *that* they know. If consciousness were somehow removed from humans while leaving neural architecture intact, cognitive capacities might collapse to something resembling this great ape baseline. This hypothesis matters because it suggests consciousness isn't merely correlated with human intelligence—it's causally necessary for the leap from sophisticated procedural cognition to the logical reasoning, counterfactual thinking, and cumulative culture that define human thought.

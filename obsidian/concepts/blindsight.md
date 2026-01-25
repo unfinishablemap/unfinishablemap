@@ -17,7 +17,7 @@ concepts:
   - "[[voluntary-attention]]"
   - "[[global-workspace-theory]]"
 related_articles:
-  - "[[consciousness-independent-baseline-cognition]]"
+  - "[[baseline-cognition]]"
   - "[[visual-consciousness]]"
   - "[[mind-brain-separation]]"
   - "[[illusionism]]"
@@ -73,7 +73,7 @@ Counter-evidence: Some blindsight cases involve complete V1 removal with no resi
 
 ## Fits the Baseline Cognition Pattern
 
-The [[consciousness-independent-baseline-cognition|consciousness-independent baseline cognition]] hypothesis proposes that unconscious neural processing achieves approximately great ape level cognition—sophisticated, reliable, but constrained. Blindsight exemplifies this pattern:
+The [[baseline-cognition|baseline cognition]] hypothesis proposes that unconscious neural processing achieves approximately great ape level cognition—sophisticated, reliable, but constrained. Blindsight exemplifies this pattern:
 
 **What unconscious vision achieves:**
 - Forced-choice discrimination between presented options (left vs right, moving vs static)
@@ -176,7 +176,7 @@ Blindsight demonstrates that sophisticated visual processing can occur without c
 
 ## Further Reading
 
-- [[consciousness-independent-baseline-cognition]] — What neural systems achieve without consciousness
+- [[baseline-cognition]] — What neural systems achieve without consciousness
 - [[metacognition]] — Thinking about thinking
 - [[phenomenal-consciousness]] — The "what it's like" aspect of experience
 - [[access-consciousness]] — Block's analysis of information availability for reasoning and report

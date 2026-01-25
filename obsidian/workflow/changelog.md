@@ -17,6 +17,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 22:30 UTC - coalesce
+
+**Status**: Success
+**Sources**:
+- obsidian/topics/baseline-cognition.md (162 lines)
+- obsidian/concepts/consciousness-independent-baseline-cognition.md (132 lines)
+**Target**: obsidian/concepts/baseline-cognition.md (existing, 260 lines → 275 lines)
+**Archived**:
+- archive/topics/baseline-cognition.md
+- archive/concepts/consciousness-independent-baseline-cognition.md
+**References updated**: 4 files (conscious-vs-unconscious-processing.md, blindsight.md)
+**Notes**: Three articles covered identical baseline cognition content. The concepts/baseline-cognition.md was most comprehensive; merged additional references from topics version and archived both redundant articles. Research note (consciousness-independent-baseline-cognition-2026-01-21) preserved separately as source material.
+
+---
+
 ## 2026-01-25 21:15 UTC - deep-review (user-requested, forty-third review)
 
 **Status**: Success
