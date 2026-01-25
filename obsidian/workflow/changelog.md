@@ -17,20 +17,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
-## 2026-01-25 14:30 UTC - condense (user-requested)
+## 2026-01-25 10:30 UTC - condense (user-requested, second pass)
 
 **Status**: Success
 **File**: topics/free-will.md
-**Before**: 9567 words (319% of target, critical threshold exceeded)
-**After**: 2085 words (70% of 3000 target)
-**Reduction**: 78%
+**Before**: 9657 words (322% of target, critical threshold exceeded)
+**After**: 1592 words (53% of 3000 target)
+**Reduction**: 84%
 **Technique**:
-- Eliminated quantum Zeno mechanism redundancy (appeared 7+ times, now once with links)
-- Cut extended sections on meditation/witness mode, process philosophy, Kane's SFAs
-- Condensed neural signatures and motor selection sections
-- Deferred detailed treatments to linked concept articles
-- Removed redundant research article references from frontmatter
-**Preserved**: Core arguments (phenomenology of choice, quantum Zeno as one mechanism, agent causation), Relation to Site Perspective, all tenet connections
+- Eliminated quantum Zeno mechanism redundancy (appeared 7+ times, now once with link to concept)
+- Cut extended sections on meditation/witness mode, process philosophy, Kane's SFAs, prospective memory
+- Removed Bergson's challenge, motor selection details, illusionism extended treatment
+- Condensed neural signatures to essential table
+- Deferred all detailed treatments to linked concept articles (quantum-indeterminacy-free-will, libet-experiments, decoherence, voluntary-attention, etc.)
+- Trimmed Further Reading from 27 to 12 entries
+**Preserved**: Core arguments (phenomenology of choice via link, quantum Zeno as one mechanism, agent causation section), Relation to Site Perspective with all five tenets, opening summary
 
 ---
 
