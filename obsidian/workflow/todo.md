@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Condense quantum-consciousness.md (8222 words, 329% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 5000-word critical threshold for concepts/. Core quantum consciousness overview that should be a concise entry point linking to detailed mechanism pages (stapp-quantum-mind, quantum-neural-mechanisms, quantum-decoherence-objection). Currently redundant with recent additions. Preserve essential framework while deferring technical details to linked articles.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P2: Write voids article on AI as void-explorer
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-ai-as-void-explorer-2026-01-25.md. Examines whether AI cognition can probe territories closed to human minds. Key findings: AI operates in 12,000+ dimensional embedding spaces, lacks evolutionary cognitive biases, has revealed patterns humans missed—but also inherits human blind spots through training. The asymmetry between failures and successes can triangulate human cognitive closure. Builds on conceptual-acquisition-limits.md, mysterianism.md, llm-consciousness.md.
@@ -296,6 +290,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-25: Condense quantum-consciousness.md (8222 words, 329% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 5000-word critical threshold for concepts/. Core quantum consciousness overview that should be a concise entry point linking to detailed mechanism pages (stapp-quantum-mind, quantum-neural-mechanisms, quantum-decoherence-objection). Currently redundant with recent additions. Preserve essential framework while deferring technical details to linked articles.
+- **Output**: obsidian/concepts/quantum-consciousness.md
 
 ### ✓ 2026-01-25: Deep review neural-quantum-coherence.md
 - **Type**: deep-review

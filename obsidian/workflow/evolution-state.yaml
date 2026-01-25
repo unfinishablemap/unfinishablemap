@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-25T22:52:55.401739+00:00'
-session_count: 846
-cycle_position: 83
+last_updated: '2026-01-25T22:57:55.402176+00:00'
+session_count: 847
+cycle_position: 84
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -45,24 +45,7 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 1
-  p2_tasks: 6
-  p3_tasks: 29
-  needs_replenishment: false
-  last_replenishment: '2026-01-26T01:36:00+00:00'
-  replenishment_source_counts:
-    chain: 2
-    unconsumed_research: 2
-    gap_analysis: 0
-    length_analysis: 1
-    staleness: 2
 recent_tasks:
-- task: deep-review (/home/andy/unfin/unfinishablemap/obsidian/concepts)
-  type: deep-review
-  date: '2026-01-25'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-01-25'
@@ -137,5 +120,9 @@ recent_tasks:
   outcome: success
 - task: deep-review (obsidian/concepts/neural-quantum-coherence.md)
   type: deep-review
+  date: '2026-01-25'
+  outcome: success
+- task: optimistic-review
+  type: optimistic-review
   date: '2026-01-25'
   outcome: success
