@@ -18,6 +18,69 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 18:26 UTC - deep-review (user-requested)
+
+**Status**: Success
+**File**: concepts/multimodal-binding.md
+**Previous review**: Never
+**Word count**: 2146 → 2376 (+230 words)
+**Critical issues addressed**: 3
+- Vague temporal references: Replaced "Recent" with specific dates/citations (style guide compliance)
+- Functional identity objection: Added direct engagement with strongest materialist counter using zombie conceivability
+- Incomplete citation: Fixed "Frontiers. (2019)" to include authors
+**Medium issues addressed**: 3
+- Decoherence debate: Acknowledged ongoing dispute rather than presenting as settled
+- Thalamus hypothesis: Removed overstated "testable" claim
+- Missing citations: Added Tegmark (2000) and Hagan et al. (2002) to references
+**Enhancements made**: Functionalist response section (~150 words), improved epistemic honesty
+**Output**: `reviews/deep-review-2026-01-25-multimodal-binding.md`
+
+---
+
+## 2026-01-25 18:20 UTC - deep-review (user-requested, twenty-ninth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T18:16:10+00:00
+**Word count**: 2438 → 2438 (0 words, length-neutral)
+**Critical issues addressed**: 0
+**Medium issues addressed**: 2
+- MWI counter-response: Clarified as bedrock disagreement about phenomenological singularity (neither position refutes the other)
+- Functionalist response: Tightened prose, removed redundant thermostat comparison
+**Enhancements made**: Length-neutral improvements; expansion balanced by condensation
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-29.md`
+
+---
+
+## 2026-01-25 18:16 UTC - deep-review (user-requested, twenty-eighth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T18:06:13+00:00
+**Word count**: 2484 → 2438 (-46 words)
+**Critical issues addressed**: 2
+- Decoherence objection: Restructured to separate Stapp's mechanism from broader philosophical claim
+- Zombie argument: Added acknowledgment of contestation with pointer to arguments-for-dualism
+**Medium issues addressed**: 2
+- MWI self-locating uncertainty: Reframed objection more precisely (uncertainty about future copies vs existing positions)
+- Quantum indeterminacy: Added "on most interpretations" qualifier and superdeterminism alternative
+**Enhancements made**: Tightened prose throughout while preserving strengths; operated in length-neutral mode
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-28.md`
+
+---
+
+## 2026-01-25 18:26 UTC - coalesce
+
+**Status**: No action - no candidates found
+**Candidates examined**:
+1. Attention articles (attention.md, attention-as-interface.md, attention-schema-theory.md) - Well-differentiated: survey, hypothesis development, theory critique
+2. Psychophysical articles (psychophysical-laws.md, psychophysical-coupling-law.md, psychophysical-coupling-mechanisms.md) - Well-differentiated: philosophical foundation, specification problem, mechanism proposals
+3. Consciousness amplifier articles (consciousness-as-amplifier.md, consciousness-independent-baseline-cognition.md) - Complementary: one describes the process, one describes the starting point
+**Finding**: After five iterations of searching concepts/, topics/, and voids/, no articles with genuine redundancy were identified. All examined pairs serve distinct purposes within the Map's architecture. The content is intentionally differentiated.
+**Recommendation**: No coalescing required at this time.
+
+---
+
 ## 2026-01-25 18:06 UTC - deep-review (user-requested, twenty-seventh review)
 
 **Status**: Success
