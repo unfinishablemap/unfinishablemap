@@ -148,11 +148,15 @@ def _extract_topic_from_title(title: str) -> str:
 def _extract_file_path(title: str, notes: str) -> Optional[str]:
     """Extract file path from title or notes.
 
+    Returns paths relative to repo root (e.g., 'obsidian/topics/free-will.md').
+
     Looks for patterns like:
     - "Deep review filename.md"
     - "Refine draft obsidian/concepts/foo.md"
     - Notes containing file paths
     """
+    repo_root = Path(__file__).parent.parent.parent
+
     # Look for .md file in title
     match = re.search(r"([a-zA-Z0-9_-]+\.md)", title)
     if match:
@@ -160,7 +164,11 @@ def _extract_file_path(title: str, notes: str) -> Optional[str]:
         # Try to find full path
         full_path = _find_file(filename)
         if full_path:
-            return str(full_path)
+            # Return path relative to repo root
+            try:
+                return str(full_path.relative_to(repo_root))
+            except ValueError:
+                return str(full_path)
         return filename
 
     # Look in notes
