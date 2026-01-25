@@ -280,6 +280,7 @@ This ensures apex articles stay current without manual tracking.
 
 - **Approved subjects only**: Only create apex articles from the master list in `obsidian/apex/apex-articles.md`
 - **Human-first**: Unlike topics/concepts, apex articles prioritize narrative flow over LLM-atomic structure
+- **Media-neutral language**: Never use the phrase "apex article" in the article content itself. Content may be reproduced in contexts where our internal terminology is unknown. Write as standalone prose.
 - **Condense actively**: Evolution must maintain length discipline; don't let articles grow unbounded
 - **Link extensively**: Apex articles are synthesis—they should link heavily to source articles
 - **Preserve thesis**: Each apex article has a thesis; edits should strengthen it, not dilute it

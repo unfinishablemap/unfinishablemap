@@ -49,7 +49,35 @@ Find draft content older than 30 days:
 3. If older than 30 days, flag as stale
 4. Report stale drafts for human review
 
-### 5. Log Results
+### 5. Length Analysis
+
+Check article lengths against section-specific thresholds:
+
+```bash
+uv run python -c "
+from pathlib import Path
+from tools.curate.length import get_length_summary
+
+summary = get_length_summary(Path('obsidian'))
+print(f'Critical: {summary[\"critical_count\"]}')
+print(f'Hard warnings: {summary[\"hard_warning_count\"]}')
+print(f'Soft warnings: {summary[\"soft_warning_count\"]}')
+for w in summary['worst_offenders'][:5]:
+    print(f'  {w[\"path\"]}: {w[\"words\"]} words ({w[\"excess_percent\"]:.0f}%)')
+"
+```
+
+**Thresholds by section:**
+| Section | Target | Hard | Critical |
+|---------|--------|------|----------|
+| concepts/ | 2500 | 3500 | 5000 |
+| topics/ | 3000 | 4000 | 6000 |
+| apex/ | 4000 | 5000 | 6500 |
+| voids/ | 2000 | 3000 | 4000 |
+
+Report critical and hard warnings. Note soft warnings only if concerning trend.
+
+### 6. Log Results
 
 Append results to `obsidian/workflow/changelog.md` with:
 - Timestamp
@@ -69,6 +97,13 @@ Append results to `obsidian/workflow/changelog.md` with:
 - **Warnings**: List or "None"
 - **Orphaned content**: List or "None"
 - **Stale drafts**: List or "None"
+
+**Length Warnings:**
+| Status | Count | Worst |
+|--------|-------|-------|
+| Critical | N | filename.md (X%) |
+| Hard | N | filename.md (X%) |
+| Soft | N | (noted if >50% of articles) |
 ```
 
 ## Important

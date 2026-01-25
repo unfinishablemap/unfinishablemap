@@ -12,6 +12,7 @@ from tools.highlights import (
     parse_highlights,
     post_tweet,
     trim_highlights,
+    update_highlight_tweet,
 )
 
 HIGHLIGHTS_FILE = Path("obsidian/workflow/highlights.md")
@@ -97,6 +98,13 @@ def cmd_tweet_latest(args: argparse.Namespace) -> int:
         return 1
 
     latest = highlights[0]
+
+    # Check if already tweeted
+    if latest.get("tweet_url"):
+        print(f"Already tweeted: {latest['title']}")
+        print(f"Tweet URL: {latest['tweet_url']}")
+        return 0  # Success - nothing to do
+
     print(f"Tweeting: {latest['title']}")
     print(f"Description: {latest['description']}")
     if latest["link"]:
@@ -112,6 +120,8 @@ def cmd_tweet_latest(args: argparse.Namespace) -> int:
     if result["success"]:
         if result["url"]:
             print(f"Tweeted: {result['url']}")
+            # Save tweet URL to the highlight
+            update_highlight_tweet(HIGHLIGHTS_FILE, latest["date"], result["url"])
         else:
             print("Tweet formatted (dry run)")
         return 0

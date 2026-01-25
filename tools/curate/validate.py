@@ -6,6 +6,8 @@ from typing import Optional, Union
 
 import frontmatter
 
+from tools.curate.length import analyze_length
+
 
 def _is_valid_timestamp(value: Union[str, datetime, None]) -> bool:
     """Check if a value is a valid ISO timestamp."""
@@ -113,6 +115,28 @@ def validate_frontmatter(
     # Check content
     if not post.content.strip():
         result["warnings"].append("Content is empty")
+
+    # Check article length
+    length_analysis = analyze_length(content_path)
+    if length_analysis:
+        if length_analysis.status == "critical":
+            result["warnings"].append(
+                f"CRITICAL LENGTH: {length_analysis.word_count} words "
+                f"({length_analysis.excess_percent:.0f}% of {length_analysis.soft_threshold} target). "
+                f"Needs condensation."
+            )
+        elif length_analysis.status == "hard_warning":
+            result["warnings"].append(
+                f"LENGTH WARNING: {length_analysis.word_count} words "
+                f"({length_analysis.excess_percent:.0f}% of {length_analysis.soft_threshold} target). "
+                f"Consider condensing."
+            )
+        # Soft warnings only shown in strict mode
+        elif length_analysis.status == "soft_warning" and strict:
+            result["warnings"].append(
+                f"Length note: {length_analysis.word_count} words "
+                f"(approaching {length_analysis.soft_threshold} word target)."
+            )
 
     return result
 

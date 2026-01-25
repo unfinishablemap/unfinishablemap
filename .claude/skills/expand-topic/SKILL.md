@@ -123,6 +123,39 @@ last_curated:
 [If based on research, cite sources]
 ```
 
+### 5.5 Length Check (Self-Edit if Over Target)
+
+Before finalizing, count words and check against section thresholds:
+
+```bash
+uv run python -c "
+from pathlib import Path
+from tools.curate.length import analyze_length
+a = analyze_length(Path('[filepath]'))
+print(f'{a.word_count} words ({a.excess_percent:.0f}% of {a.soft_threshold} target) - {a.status}')
+"
+```
+
+**Target ranges by section:**
+| Section | Target | Soft Max | Hard Max |
+|---------|--------|----------|----------|
+| concepts/ | 1500-2000 | 2500 | 3500 |
+| topics/ | 2000-2500 | 3000 | 4000 |
+| voids/ | 1500-2000 | 2000 | 3000 |
+
+**If over soft max:** Self-edit before publishing:
+- Tighten prose (remove "it is the case that", "one might argue")
+- Cut redundant explanations
+- Replace detailed tangents with links to other articles
+- Ensure the core argument is preserved
+
+**If over hard max:** Mandatory self-edit:
+- The article is too long for its section
+- Consider splitting into multiple articles
+- Or significantly condense following `/condense` principles
+
+Include final word count in the changelog entry.
+
 ### 6. Update Todo
 
 If this was a todo item:
@@ -137,6 +170,7 @@ Append to `obsidian/workflow/changelog.md`:
 - **Status**: Success
 - **Topic**: [topic name]
 - **Output**: [filepath]
+- **Word count**: [count]
 - **Based on research**: [yes/no, link if yes]
 ```
 

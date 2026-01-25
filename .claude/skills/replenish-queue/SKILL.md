@@ -75,6 +75,37 @@ Content that hasn't been touched recently:
 2. For files not reviewed in 30+ days with `ai_contribution > 50`, generate:
    - P3: Deep review [file] for quality and currency
 
+### Source 5: Length Violations
+
+Articles exceeding length thresholds need condensation:
+
+1. Run length analysis using `tools/curate/length.py`
+2. For articles exceeding thresholds, generate tasks:
+
+| Status | Priority | Task Title |
+|--------|----------|------------|
+| Critical (>critical threshold) | P1 | Condense [file] (N words, X% of target) |
+| Hard Warning (>hard threshold) | P2 | Condense [file] (N words, X% of target) |
+
+**Task format:**
+```markdown
+### P1: Condense free-will.md (9567 words, 319% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 6000-word critical threshold for topics/.
+  Preserve core arguments while removing redundancy and deferring
+  detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-25
+```
+
+**Thresholds by section (soft/hard/critical):**
+- concepts/: 2500 / 3500 / 5000 words
+- topics/: 3000 / 4000 / 6000 words
+- apex/: 4000 / 5000 / 6500 words
+- voids/: 2000 / 3000 / 4000 words
+
+Maximum 3 condense tasks per replenishment (prioritize worst offenders).
+
 ## Instructions
 
 ### 1. Load Current State
@@ -217,6 +248,24 @@ for content_file in glob('obsidian/**/*.md'):
             })
 ```
 
+#### 2.5 Check Length Violations
+
+```python
+from tools.curate.length import get_length_warnings
+
+warnings = get_length_warnings(Path('obsidian'), min_status='hard_warning')
+for analysis in warnings[:5]:  # Top 5 worst offenders
+    priority = 'P1' if analysis.status == 'critical' else 'P2'
+    candidates.append({
+        'title': f'Condense {analysis.path.name} ({analysis.word_count} words, {analysis.excess_percent:.0f}% of target)',
+        'type': 'condense',
+        'priority': priority,
+        'notes': f'Article exceeds {analysis.hard_threshold}-word threshold for {analysis.section}/. '
+                 f'Preserve core arguments while removing redundancy.',
+        'source': 'length_analysis'
+    })
+```
+
 ### 3. Filter and Deduplicate
 
 Remove candidates that:
@@ -233,7 +282,7 @@ Score each candidate:
 SCORE = PRIORITY_BASE + SOURCE_BONUS + TENET_RELEVANCE
 
 PRIORITY_BASE: P1=300, P2=200, P3=100
-SOURCE_BONUS: chain=50, unconsumed_research=40, gap_analysis=30, staleness=10
+SOURCE_BONUS: chain=50, unconsumed_research=40, gap_analysis=30, length_analysis=25, staleness=10
 TENET_RELEVANCE: +50 if directly supports a tenet
 ```
 
@@ -295,6 +344,7 @@ queue_status:
     chain: 2
     unconsumed_research: 1
     gap_analysis: 3
+    length_analysis: 0
     staleness: 1
 ```
 

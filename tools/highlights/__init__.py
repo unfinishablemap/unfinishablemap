@@ -6,6 +6,7 @@ from .manager import (
     get_latest_date,
     parse_highlights,
     trim_highlights,
+    update_highlight_tweet,
 )
 from .twitter import (
     TweetResult,
@@ -25,5 +26,6 @@ __all__ = [
     "post_tweet",
     "trim_highlights",
     "twitter_is_configured",
+    "update_highlight_tweet",
     "wikilink_to_url",
 ]

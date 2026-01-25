@@ -40,6 +40,7 @@ class Progress:
     voids_written: int = 0
     research_notes: int = 0
     reviews_completed: int = 0
+    apex_articles: int = 0
 
 
 @dataclass
@@ -70,17 +71,21 @@ class EvolutionState:
 
     last_updated: datetime
     session_count: int
-    last_runs: dict[str, Optional[datetime]]
-    cadences: dict[str, int]
-    overdue_thresholds: dict[str, int]
-    scheduled_hours: dict[str, int]  # task -> hour (0-23 UTC) when task should run
+    cycle_position: int  # Current position in task cycle (0-23, wraps)
+    last_runs: dict[str, Optional[datetime]]  # For logging, not scheduling
     last_git_push: Optional[datetime]  # for rate-limiting pushes across processes
+    last_tweet_date: Optional[str]  # ISO date of last tweet (for once-per-day check)
     content_stats: ContentStats
     convergence_targets: ConvergenceTargets
     progress: Progress
     quality: Quality
     failed_tasks: dict[str, int]  # task_title -> retry_count
     recent_tasks: list[TaskRecord] = field(default_factory=list)
+
+    # Legacy fields - kept for backward compatibility during migration
+    cadences: dict[str, int] = field(default_factory=dict)
+    overdue_thresholds: dict[str, int] = field(default_factory=dict)
+    scheduled_hours: dict[str, int] = field(default_factory=dict)
 
 
 def load_state(path: Path) -> EvolutionState:
@@ -131,17 +136,20 @@ def load_state(path: Path) -> EvolutionState:
     return EvolutionState(
         last_updated=last_updated,
         session_count=data.get("session_count", 0),
+        cycle_position=data.get("cycle_position", 0),
         last_runs=last_runs,
-        cadences=data.get("cadences", {}),
-        overdue_thresholds=data.get("overdue_thresholds", {}),
-        scheduled_hours=data.get("scheduled_hours", {}),
         last_git_push=last_git_push,
+        last_tweet_date=data.get("last_tweet_date"),
         content_stats=ContentStats(**data.get("content_stats", {})),
         convergence_targets=ConvergenceTargets(**data.get("convergence_targets", {})),
         progress=Progress(**data.get("progress", {})),
         quality=Quality(**data.get("quality", {})),
         failed_tasks=data.get("failed_tasks", {}),
         recent_tasks=recent_tasks,
+        # Legacy fields - load but don't use for scheduling
+        cadences=data.get("cadences", {}),
+        overdue_thresholds=data.get("overdue_thresholds", {}),
+        scheduled_hours=data.get("scheduled_hours", {}),
     )
 
 
@@ -173,11 +181,10 @@ def save_state(state: EvolutionState, path: Path) -> None:
     data = {
         "last_updated": state.last_updated.isoformat(),
         "session_count": state.session_count,
+        "cycle_position": state.cycle_position,
         "last_runs": last_runs,
-        "cadences": state.cadences,
-        "overdue_thresholds": state.overdue_thresholds,
-        "scheduled_hours": state.scheduled_hours,
         "last_git_push": state.last_git_push.isoformat() if state.last_git_push else None,
+        "last_tweet_date": state.last_tweet_date,
         "content_stats": {
             "total_files": state.content_stats.total_files,
             "published_files": state.content_stats.published_files,
@@ -199,6 +206,7 @@ def save_state(state: EvolutionState, path: Path) -> None:
             "voids_written": state.progress.voids_written,
             "research_notes": state.progress.research_notes,
             "reviews_completed": state.progress.reviews_completed,
+            "apex_articles": state.progress.apex_articles,
         },
         "quality": {
             "critical_issues": state.quality.critical_issues,
@@ -213,7 +221,7 @@ def save_state(state: EvolutionState, path: Path) -> None:
     # Write with header comment
     header = """# Evolution State
 # Machine-readable tracking for the automatic site evolution system
-# Updated by /evolve skill after each session
+# Updated by evolve_loop.py after each session
 
 """
     with open(path, "w", encoding="utf-8") as f:

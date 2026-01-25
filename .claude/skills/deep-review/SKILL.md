@@ -100,6 +100,43 @@ Based on both reviews, create an improvement plan:
 - Effective communication patterns
 - Author's voice and style that works
 
+### 4.5 Length Check (Length-Neutral Mode)
+
+Before applying improvements, check article length against section thresholds:
+
+```bash
+uv run python -c "
+from pathlib import Path
+from tools.curate.length import analyze_length
+a = analyze_length(Path('[filepath]'))
+print(f'{a.word_count} words ({a.excess_percent:.0f}% of {a.soft_threshold} target) - {a.status}')
+"
+```
+
+**Thresholds by section (soft/hard/critical):**
+| Section | Soft | Hard | Critical |
+|---------|------|------|----------|
+| concepts/ | 2500 | 3500 | 5000 |
+| topics/ | 3000 | 4000 | 6000 |
+| apex/ | 4000 | 5000 | 6500 |
+| voids/ | 2000 | 3000 | 4000 |
+
+**If article is at or above soft threshold:**
+- Operate in **length-neutral mode**
+- For each addition, identify an equivalent passage to trim or remove
+- Combine sections where possible instead of adding new ones
+- Prefer tightening prose over adding new content
+- Replace verbose explanations with links to existing concept pages
+
+**If article exceeds hard threshold:**
+- Apply condensation as part of this review
+- Follow `/condense` principles: cut redundancy, extract tangents, tighten prose
+- Document word count before/after in the review archive
+
+**If article is below soft threshold:**
+- Normal improvements allowed
+- Expansion opportunities from optimistic review can be addressed
+
 ### 5. Apply Improvements
 
 Make targeted edits to the document:
@@ -203,6 +240,7 @@ Append to `obsidian/workflow/changelog.md`:
 ### HH:MM - deep-review
 - **Status**: Success
 - **File**: [filepath]
+- **Word count**: [before] → [after] ([+/-change])
 - **Critical issues addressed**: [count]
 - **Medium issues addressed**: [count]
 - **Enhancements made**: [count]
@@ -232,6 +270,8 @@ Enhanced:
 - Don't ignore strong counterarguments from pessimistic review
 - Don't skip updating `last_deep_review` timestamp
 - Don't review the same document twice in quick succession
+- Don't expand articles already at or above soft threshold without equivalent cuts
+- Don't ignore length warnings - if the article is too long, address it
 
 ## Scoring and Selection
 

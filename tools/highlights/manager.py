@@ -41,6 +41,7 @@ class Highlight(TypedDict):
     description: str
     highlight_type: str
     link: str | None
+    tweet_url: str | None  # URL of tweet if this highlight was tweeted
 
 
 def get_latest_date(file_path: Path) -> date | None:
@@ -400,6 +401,7 @@ def parse_highlights(file_path: Path) -> list[Highlight]:
         description_lines = []
         highlight_type = ""
         link = None
+        tweet_url = None
 
         in_description = False
         for line in lines:
@@ -411,6 +413,8 @@ def parse_highlights(file_path: Path) -> list[Highlight]:
                 in_description = False
             elif line.startswith("**Link**:"):
                 link = line.replace("**Link**:", "").strip()
+            elif line.startswith("**Tweet**:"):
+                tweet_url = line.replace("**Tweet**:", "").strip()
             elif in_description and line.strip() and not line.startswith("---"):
                 description_lines.append(line.strip())
 
@@ -423,7 +427,55 @@ def parse_highlights(file_path: Path) -> list[Highlight]:
                 description=description,
                 highlight_type=highlight_type,
                 link=link,
+                tweet_url=tweet_url,
             )
         )
 
     return results
+
+
+def update_highlight_tweet(file_path: Path, highlight_date: str, tweet_url: str) -> bool:
+    """
+    Add tweet URL to an existing highlight.
+
+    Args:
+        file_path: Path to highlights.md
+        highlight_date: ISO date of the highlight to update (e.g., "2026-01-24")
+        tweet_url: URL of the posted tweet
+
+    Returns:
+        True if highlight was found and updated, False otherwise.
+    """
+    content = file_path.read_text(encoding="utf-8")
+
+    # Pattern to find the specific highlight's metadata section
+    # We need to find the highlight by date and add **Tweet**: after **Link**: or **Type**:
+    pattern = rf"(### {re.escape(highlight_date)}: .+?\n\n.+?\n\n\*\*Type\*\*: \w+(?:-\w+)?)"
+
+    def add_tweet_line(match: re.Match) -> str:
+        block = match.group(1)
+        # Check if there's a **Link**: line
+        if "**Link**:" in block:
+            # Add after Link line
+            return re.sub(
+                r"(\*\*Link\*\*: .+)",
+                rf"\1  \n**Tweet**: {tweet_url}",
+                block,
+            )
+        else:
+            # Add after Type line
+            return re.sub(
+                r"(\*\*Type\*\*: \w+(?:-\w+)?)",
+                rf"\1  \n**Tweet**: {tweet_url}",
+                block,
+            )
+
+    new_content, count = re.subn(pattern, add_tweet_line, content, count=1, flags=re.DOTALL)
+
+    if count == 0:
+        logger.warning(f"Could not find highlight for date {highlight_date}")
+        return False
+
+    file_path.write_text(new_content, encoding="utf-8")
+    logger.info(f"Added tweet URL to highlight {highlight_date}: {tweet_url}")
+    return True

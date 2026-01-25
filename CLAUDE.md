@@ -165,13 +165,14 @@ The Map includes scheduled AI automation for content development. All AI-generat
 | `/expand-topic [topic]` | Generate new article (always `draft: true`) | Yes (creates drafts) |
 | `/refine-draft [file]` | Improve existing draft content | Yes (keeps as draft) |
 | `/deep-review [file]` | Comprehensive single-document review with improvements | Yes (modifies content) |
-| `/evolve [mode]` | Main orchestrator: selects and executes tasks based on priority/staleness | Depends on tasks |
+| `/condense [file]` | Intelligently reduce article length while preserving value | Yes (modifies content) |
 | `/replenish-queue [mode]` | Auto-generate tasks when queue is empty (chains, gaps, research) | Yes (todo.md only) |
-| `/tune-system` | Monthly meta-review: analyze system operation, adjust cadences/thresholds | Yes (state, minor) |
+| `/tune-system` | Monthly meta-review: analyze system operation | Yes (state, minor) |
 | `/add-highlight` | Add item to highlights page (max 1/day) | Yes (highlights.md) |
 | `/tweet-highlight` | Tweet the most recent untweeted highlight. Scheduled for 7am UTC daily. | No (external only) |
 | `/outer-review` | Commission and process external AI analysis to reduce blind spots | Yes (creates review, tasks) |
 | `/coalesce` | Combine multiple related articles into one unified piece. Archives originals to preserve URLs. | Yes (creates, archives) |
+| `/archive` | Archive an article while preserving its URL for external links. | Yes (moves to archive) |
 | `/apex-evolve` | Build and maintain apex articles—human-readable synthesis pieces. | Yes (creates, modifies) |
 
 ### Task Queue
@@ -190,6 +191,7 @@ Tasks are managed in `obsidian/workflow/todo.md`:
 | `cross-review` | Review article in light of new content | No |
 | `refine-draft` | Improve existing draft | No |
 | `deep-review` | Comprehensive single-doc review | No |
+| `condense` | Reduce article length while preserving value | No |
 | `other` | Miscellaneous tasks | No |
 
 #### Queue Replenishment
@@ -200,6 +202,7 @@ The queue auto-replenishes when active tasks (P0-P2) drop below 3. `/evolve` tri
 2. **Unconsumed research**: Research notes without corresponding articles
 3. **Gap analysis**: Content areas needing expansion (tenet support, undefined concepts)
 4. **Staleness**: AI-generated content not reviewed in 30+ days
+5. **Length violations**: Articles exceeding word count thresholds
 
 State tracking in `obsidian/workflow/evolution-state.yaml` includes:
 - `task_chains.pending_articles`: Research awaiting article synthesis
@@ -213,36 +216,59 @@ AI activity is logged to `obsidian/workflow/changelog.md` with:
 - Duration, cost estimate
 - Output files, commit hash
 
-### Scheduled Runs
+### Cycle-Based Scheduling
 
-**Daily (2 AM):** `/validate-all`
+The evolution loop (`scripts/evolve_loop.py`) uses a deterministic task cycle. Speed is controlled by `--interval`; the cycle ensures consistent task ratios regardless of speed.
 
-**Weekly:**
-- Mon-Thu: `/evolve` (1 task each)
-- Fri: `/evolve` (includes pessimistic review if overdue)
-- Sat: `/evolve` (includes optimistic review if overdue)
+**The 24-slot task cycle:**
+- Queue tasks: 16 slots (67%) - picks from P0-P2 todo queue
+- Deep-review: 4 slots (17%)
+- Pessimistic-review: 1 slot
+- Optimistic-review: 1 slot
+- Coalesce: 1 slot
+- Research-voids: 1 slot
 
-**Monthly:**
-- 1st: Progress report, research gaps
-- 15th: `/check-tenets`
+**Cycle triggers** (run every N complete cycles):
+- check-links: every 2 cycles
+- check-tenets: every 3 cycles
+- apex-evolve: every 4 cycles
+- tune-system: every 6 cycles
+
+**Time-triggered** (wall clock):
+- tweet-highlight: 7am UTC daily
+
+**Speed examples:**
+| Interval | Sessions/day | Cycle duration |
+|----------|--------------|----------------|
+| 10 min   | 144          | 4 hours        |
+| 40 min   | 36           | 16 hours       |
+| 4 hours  | 6            | 4 days         |
 
 ### Running Automation
 
-**Local (Windows):**
-```powershell
-# Daily validation
-.\scripts\scheduled\daily.ps1
+**Local:**
+```bash
+# Run evolution loop (Ctrl+C to stop)
+python scripts/evolve_loop.py --interval 2400
 
-# Weekly evolution session
-.\scripts\scheduled\weekly.ps1 -Task evolve
+# Describe the task cycle
+python scripts/evolve_loop.py --describe-cycle
 
-# Dry run
-.\scripts\scheduled\daily.ps1 -DryRun
+# Test with limited iterations
+python scripts/evolve_loop.py --max-iterations 5
 ```
 
-**GitHub Actions:**
-- Runs automatically on schedule
-- Manual trigger via Actions tab with task selection
+**Speed control:**
+```bash
+# Fast (testing): 10 min intervals
+python scripts/evolve_loop.py --interval 600
+
+# Normal: 40 min intervals (default)
+python scripts/evolve_loop.py --interval 2400
+
+# Slow (low budget): 4 hour intervals
+python scripts/evolve_loop.py --interval 14400
+```
 
 ### The Five Tenets
 
