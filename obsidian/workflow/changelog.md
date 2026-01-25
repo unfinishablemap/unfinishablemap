@@ -17,6 +17,29 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 09:45 UTC - deep-review
+
+**Status**: Success
+**File**: topics/time-perception-consciousness-theories.md
+**Previous review**: Never
+**Word count**: 2108 → 2722 (+614 words, +29%)
+**Critical issues addressed**: 4
+- Added falsifiability section specifying what would challenge the view
+- Qualified premature closure from "current theories don't explain" to "resists reduction"
+- Softened quantum speculation with appropriate hedging and acknowledgment of problems
+- Added substantive engagement with predictive processing accounts
+**Medium issues addressed**: 2
+- Nuanced LLM consciousness claim with conditional framing and addressed sleep/anesthesia objection
+- Added illusionism engagement and cross-link
+**Enhancements made**: 4
+- Expanded Relation to Site Perspective to connect all five tenets substantively
+- Organized Further Reading into thematic categories
+- Added cross-links to phenomenology-of-choice, free-will, agent-causation, philosophy-of-time
+- Added topic links to free-will and concepts illusionism, phenomenology-of-choice
+**Output**: `reviews/deep-review-2026-01-25-time-perception-consciousness-theories.md`
+
+---
+
 ## 2026-01-25 15:24 UTC - deep-review (user-requested, sixth review)
 
 **Status**: Success
