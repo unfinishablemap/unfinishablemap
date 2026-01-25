@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-25T22:39:36.949979+00:00'
-session_count: 844
-cycle_position: 81
+last_updated: '2026-01-25T22:44:36.950466+00:00'
+session_count: 845
+cycle_position: 82
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -46,10 +46,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (/home/andy/unfin/unfinishablemap/obsidian/concepts)
-  type: deep-review
-  date: '2026-01-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-01-25'
@@ -123,6 +119,10 @@ recent_tasks:
   date: '2026-01-25'
   outcome: success
 - task: deep-review
+  type: deep-review
+  date: '2026-01-25'
+  outcome: success
+- task: deep-review (obsidian/concepts/interactionist-dualism.md)
   type: deep-review
   date: '2026-01-25'
   outcome: success

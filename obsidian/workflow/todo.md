@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review neural-quantum-coherence.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) last deep-reviewed 2026-01-19 (6 days ago). Core concept connecting quantum mechanics to neural processes. Should verify: (1) accuracy of coherence timescale claims, (2) engagement with decoherence objection responses, (3) connection to recent quantum-neural-mechanisms and quantum-biology articles, (4) alignment with Minimal Quantum Interaction tenet.
-- **Source**: staleness
-- **Generated**: 2026-01-25
-
 ### P2: Address deflationary challenge to intersubjectivity.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review 2026-01-25 (evening) found the article's central argument faces unaddressed deflationary challenge. The discourse argument claims cross-cultural phenomenological vocabulary evidences real phenomenology, but convergent neural architecture could equally explain convergent vocabulary. The article acknowledges the skeptic's response but dismisses it: "The specificity of the convergence... suggests something is being tracked." This doesn't distinguish tracking phenomenology from tracking neural organization. Either strengthen the response (explain why vocabulary convergence cannot be explained by architecture alone) or acknowledge this as open.
@@ -239,6 +233,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-25: Deep review neural-quantum-coherence.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) last deep-reviewed 2026-01-19 (6 days ago). Core concept connecting quantum mechanics to neural processes. Should verify: (1) accuracy of coherence timescale claims, (2) engagement with decoherence objection responses, (3) connection to recent quantum-neural-mechanisms and quantum-biology articles, (4) alignment with Minimal Quantum Interaction tenet.
+- **Output**: obsidian/concepts/neural-quantum-coherence.md
 
 ### ✓ 2026-01-25: Deep review interactionist-dualism.md
 - **Type**: deep-review
