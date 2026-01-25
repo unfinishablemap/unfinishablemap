@@ -17,6 +17,28 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 16:25 UTC - deep-review
+
+**Status**: Success
+**File**: topics/quantum-measurement-interpretations-beyond-mwi.md
+**Previous review**: Never
+**Word count**: 1369 → 1812 (+443 words)
+**Critical issues addressed**: 5
+- Added honest limitation about consciousness interpretations' minority status
+- Distinguished "leaves room" from "supports" throughout
+- Engaged MWI's Wallace/Saunders response on self-locating uncertainty
+- Added mechanism specification as open question
+- Properly cited IIT-collapse proposals (Kremnizer-Ranchin, Okon-Sebastián)
+**Medium issues addressed**: 5
+- Copenhagen: clarified non-exclusion ≠ support
+- QBism: expanded on principled silence about consciousness
+- Bohmian: acknowledged sophisticated defenders
+- Added cross-links to hard-problem, mysterianism
+- Added references (Wallace 2012, Stapp 2007)
+**Output**: `reviews/deep-review-2026-01-25-quantum-measurement-interpretations-beyond-mwi.md`
+
+---
+
 ## 2026-01-25 16:19 UTC - deep-review (user-requested, thirteenth review)
 
 **Status**: Success
