@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-25T22:45:00+00:00
+ai_modified: 2026-01-26T01:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -39,7 +39,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### P1: Condense ai-consciousness.md (8504 words, 283% of target)
 - **Type**: condense
-- **Notes**: Article exceeds 6000-word critical threshold for topics/. Pessimistic review 2026-01-25 already flagged redundancy (self-stultification argument appears 3+ times). Front-load conclusions, remove repetition, defer detailed arguments to linked concept pages. See /condense skill.
+- **Notes**: Article exceeds 6000-word critical threshold for topics/. Pessimistic review 2026-01-25 (evening) found additional issues: (1) conflation of independent arguments—Chinese Room, temporal-consciousness, metacognition, and quantum-interface arguments point in different directions and may conflict; (2) functionalism dismissed rather than refuted. During condensation: clarify which arguments are independent, engage functionalist responses (Shoemaker, Lewis) more seriously, and note whether the Map's position depends on all arguments or just quantum. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-01-25
 
@@ -65,6 +65,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) last deep-reviewed 2026-01-19 (6 days ago). Core concept connecting quantum mechanics to neural processes. Should verify: (1) accuracy of coherence timescale claims, (2) engagement with decoherence objection responses, (3) connection to recent quantum-neural-mechanisms and quantum-biology articles, (4) alignment with Minimal Quantum Interaction tenet.
 - **Source**: staleness
+- **Generated**: 2026-01-25
+
+### P2: Address deflationary challenge to intersubjectivity.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-25 (evening) found the article's central argument faces unaddressed deflationary challenge. The discourse argument claims cross-cultural phenomenological vocabulary evidences real phenomenology, but convergent neural architecture could equally explain convergent vocabulary. The article acknowledges the skeptic's response but dismisses it: "The specificity of the convergence... suggests something is being tracked." This doesn't distinguish tracking phenomenology from tracking neural organization. Either strengthen the response (explain why vocabulary convergence cannot be explained by architecture alone) or acknowledge this as open.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-25
+
+### P2: Strengthen measurement-problem.md structural coherence defense
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-25 (evening) found the article's "structural coherence" defense may be self-undermining. It admits consciousness-selection is unfalsifiable and predicts nothing, then claims conceptual unification is valuable anyway. But conceptual unification without predictive constraint is intellectual satisfaction, not knowledge. Either find empirical implications (Stapp's OCD studies, attention intervention research) or reposition explicitly as non-empirical metaphysical position. Current defense occupies awkward middle ground.
+- **Source**: pessimistic-review
 - **Generated**: 2026-01-25
 
 ### P3: Write article on consciousness and language interface
