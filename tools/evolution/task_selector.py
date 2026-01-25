@@ -3,12 +3,25 @@
 Provides the bridge between todo.md task types and Claude skill invocations.
 """
 
+import logging
 import re
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Optional
 
 from tools.todo.processor import Task, TaskType, complete_task, get_next_task, parse_tasks
+
+log = logging.getLogger(__name__)
+
+
+class LogicFlawError(Exception):
+    """Raised when code reaches a state that indicates a programming error.
+
+    Use this for unhandled enum cases, impossible conditions, and other
+    situations that should never occur if the code is correct.
+    """
+
+    pass
 
 
 @dataclass
@@ -87,9 +100,29 @@ def task_to_skill(task: Task) -> SkillInvocation:
     elif task_type == TaskType.OPTIMISTIC_REVIEW:
         return SkillInvocation("optimistic-review")
 
+    elif task_type == TaskType.CONDENSE:
+        # Extract file path from title like "Condense free-will.md"
+        file_path = _extract_file_path(task.title, task.notes)
+        return SkillInvocation("condense", file_path)
+
+    elif task_type == TaskType.OTHER:
+        # OTHER is explicitly unsupported - tasks must have a specific type
+        log.error(
+            f"Task has type OTHER which cannot be mapped to a skill: {task.title!r}. "
+            "Ensure the task has a valid '- **Type**:' field in todo.md."
+        )
+        raise LogicFlawError(
+            f"Cannot map TaskType.OTHER to a skill. Task: {task.title!r}. "
+            "Add explicit type handling or fix the task's type field."
+        )
+
     else:
-        # TaskType.OTHER - use notes as context
-        return SkillInvocation("expand-topic", task.notes or task.title)
+        # Unhandled task type - this is a programming error
+        log.error(f"Unhandled task type {task_type} for task: {task.title!r}")
+        raise LogicFlawError(
+            f"Unhandled task type: {task_type}. "
+            "Add a handler in task_to_skill() for this type."
+        )
 
 
 def _extract_topic_from_title(title: str) -> str:

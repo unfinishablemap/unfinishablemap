@@ -339,6 +339,9 @@ def run_agent_commit(
     if not has_uncommitted_changes():
         return None
 
+    start_time = time.time()
+    start_ts = datetime.now(timezone.utc)
+
     # Truncate output to avoid overwhelming the commit skill
     max_output_chars = 2000
     output_summary = skill_output[:max_output_chars]
@@ -352,7 +355,10 @@ def run_agent_commit(
         f"Output summary:\n{output_summary}"
     )
 
-    log.info(f"Running agent-commit for {skill_name}...")
+    log.info(
+        f"[{start_ts.strftime('%Y-%m-%d %H:%M:%S')} UTC] "
+        f"Running agent-commit for {skill_name}..."
+    )
 
     cmd = [
         "claude",
@@ -372,14 +378,29 @@ def run_agent_commit(
             timeout=timeout_seconds,
         )
     except subprocess.TimeoutExpired:
-        log.warning(f"agent-commit timed out after {timeout_seconds}s")
+        duration = time.time() - start_time
+        log.warning(
+            f"agent-commit timed out after {timeout_seconds}s "
+            f"(elapsed: {format_duration(duration)})"
+        )
         # Fall back to simple commit
         return commit_as_agent(skill_name)
 
+    duration = time.time() - start_time
+    end_ts = datetime.now(timezone.utc)
+
     if result.returncode != 0:
-        log.warning(f"agent-commit failed: {result.stderr[:200]}")
+        log.warning(
+            f"[{end_ts.strftime('%Y-%m-%d %H:%M:%S')} UTC] "
+            f"agent-commit failed after {format_duration(duration)}: {result.stderr[:200]}"
+        )
         # Fall back to simple commit
         return commit_as_agent(skill_name)
+
+    log.info(
+        f"[{end_ts.strftime('%Y-%m-%d %H:%M:%S')} UTC] "
+        f"agent-commit completed in {format_duration(duration)}"
+    )
 
     # Extract commit hash from output (skill should output it)
     # Look for a short hash pattern in the output

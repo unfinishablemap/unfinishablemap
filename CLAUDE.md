@@ -148,6 +148,37 @@ Key principles:
 - **Section index files:** Files named the same as their folder (e.g., `obsidian/project/project.md`) become `_index.md` in Hugo (e.g., `hugo/content/project/_index.md`) and serve as the section landing page
 - **Site index:** `obsidian/index.md` becomes `hugo/content/_index.md` (the Map landing page)
 
+### Error Handling
+
+**Never use fallthrough logic that hides errors.** When dispatching on enums, types, or task categories:
+
+- **Do NOT** provide a catch-all `else` that silently substitutes a default behavior
+- **DO** raise an exception for unhandled cases so they surface immediately
+- Use `LogicFlawError` (or similar) for cases that indicate a programming error rather than user error
+
+**Bad** (error-hiding fallthrough):
+```python
+if task_type == TaskType.EXPAND:
+    return expand_skill(task)
+elif task_type == TaskType.RESEARCH:
+    return research_skill(task)
+else:
+    # Silently falls through - new task types will be mishandled!
+    return expand_skill(task)
+```
+
+**Good** (fail-fast):
+```python
+if task_type == TaskType.EXPAND:
+    return expand_skill(task)
+elif task_type == TaskType.RESEARCH:
+    return research_skill(task)
+else:
+    raise LogicFlawError(f"Unhandled task type: {task_type}")
+```
+
+This ensures that when new enum values are added, missing handler code surfaces immediately rather than causing silent misbehavior.
+
 ## AI Automation System
 
 The Map includes scheduled AI automation for content development. All AI-generated content is created as drafts requiring human review.

@@ -36,36 +36,62 @@ Focus on:
 
 ### 3. Generate Commit Message
 
-Create a concise, informative commit message following this format:
+Create a commit message with a summary line and body:
 
 ```
 <type>(<skill>): <summary>
+
+<body>
 ```
 
-Where:
+**Summary line** (required, under 72 chars):
 - `<type>` is one of: `feat`, `fix`, `refine`, `research`, `chore`
 - `<skill>` is the skill name (e.g., `deep-review`, `condense`, `expand-topic`)
 - `<summary>` describes WHAT was done and to WHICH file(s)
 
+**Body** (required for content changes):
+- 2-5 bullet points summarizing key changes
+- For condense: before/after word counts, what was cut vs preserved
+- For deep-review: what issues were found and fixed
+- For expand-topic: key themes covered
+- For research: sources consulted, main findings
+
 **Good examples:**
-- `refine(deep-review): improve clarity in free-will.md`
-- `feat(expand-topic): add article on quantum decoherence`
-- `refine(condense): reduce qualia.md from 8500 to 2100 words`
-- `research(research-topic): notes on Penrose-Hameroff theory`
-- `chore(replenish-queue): add 3 tasks for consciousness topics`
+```
+refine(condense): reduce free-will.md from 9567 to 2985 words
+
+- Cut quantum Zeno redundancy (7+ mentions → 1 via link)
+- Removed extended sections on altered states, process philosophy
+- Preserved core phenomenology arguments and Mary's Room
+- Kept tenet connections and cross-links intact
+```
+
+```
+refine(deep-review): improve clarity in qualia.md
+
+- Fixed circular definition in opening paragraph
+- Added concrete examples for inverted spectrum argument
+- Strengthened connection to hard problem article
+```
 
 **Bad examples:**
-- `auto(deep-review): Automated execution` (too vague)
+- `auto(deep-review): Automated execution` (too vague, no body)
 - `Updated files` (no context)
 - `Changes from deep-review skill` (doesn't say what)
 
 ### 4. Create the Commit
 
-Stage all changes and commit with agent authorship:
+Stage all changes and commit with agent authorship. Use a HEREDOC for the multi-line message:
 
 ```bash
 git add -A
-git commit --author "unfinishablemap.org Agent <agent@unfinishablemap.org>" -m "<message>"
+git commit --author "unfinishablemap.org Agent <agent@unfinishablemap.org>" -m "$(cat <<'EOF'
+<summary line>
+
+- bullet point 1
+- bullet point 2
+EOF
+)"
 ```
 
 ### 5. Output the Result
