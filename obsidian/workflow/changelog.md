@@ -17,6 +17,35 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 14:30 UTC - condense (user-requested)
+
+**Status**: Success
+**File**: topics/free-will.md
+**Before**: 9567 words (319% of target, critical threshold exceeded)
+**After**: 2085 words (70% of 3000 target)
+**Reduction**: 78%
+**Technique**:
+- Eliminated quantum Zeno mechanism redundancy (appeared 7+ times, now once with links)
+- Cut extended sections on meditation/witness mode, process philosophy, Kane's SFAs
+- Condensed neural signatures and motor selection sections
+- Deferred detailed treatments to linked concept articles
+- Removed redundant research article references from frontmatter
+**Preserved**: Core arguments (phenomenology of choice, quantum Zeno as one mechanism, agent causation), Relation to Site Perspective, all tenet connections
+
+---
+
+## 2026-01-25 23:45 UTC - check-tenets (monthly alignment verification)
+
+**Status**: Success
+**Files checked**: 132 (98 concepts + 34 topics)
+**Errors**: 0
+**Warnings**: 0
+**Notes**: 0
+**Summary**: All content files pass tenet alignment verification. Every file contains proper "Relation to Site Perspective" sections addressing the five foundational tenets. Files consistently note the Map's rejection of competing theories (materialism, illusionism, functionalism, epiphenomenalism, MWI) with appropriate reasoning.
+**Report**: `reviews/tenet-check-2026-01-25.md`
+
+---
+
 ## 2026-01-25 20:51 UTC - deep-review (user-requested, forty-eighth review)
 
 **Status**: Success
