@@ -2,49 +2,23 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-25T11:16:00+00:00'
-session_count: 763
-cycle_position: 0  # Current position in 24-slot task cycle
+last_updated: '2026-01-25T21:29:14.345258+00:00'
+session_count: 837
+cycle_position: 74
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
   optimistic-review: '2026-01-25T00:45:00+00:00'
-  check-tenets: '2026-01-24T19:45:00+00:00'
-  check-links: '2026-01-25T11:00:00+00:00'
+  check-tenets: '2026-01-25T20:48:02.358518+00:00'
+  check-links: '2026-01-25T18:44:40.453158+00:00'
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-01-24T23:00:00+00:00'
   research-voids: '2026-01-24T19:45:00+00:00'
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-01-24T21:50:00+00:00'
-cadences:
-  validate-all: 24
-  pessimistic-review: 12
-  optimistic-review: 12
-  check-tenets: 48
-  check-links: 24
-  deep-review: 4
-  tune-system: 72
-  research-voids: 24
-  coalesce: 8
-  tweet-highlight: 24
-  apex-evolve: 168  # Weekly - apex articles evolve slowly
-overdue_thresholds:
-  validate-all: 48
-  pessimistic-review: 24
-  optimistic-review: 24
-  check-tenets: 96
-  check-links: 48
-  deep-review: 8
-  tune-system: 144
-  research-voids: 48
-  coalesce: 16
-  tweet-highlight: 12
-  apex-evolve: 336  # 2 weeks overdue threshold
-scheduled_hours:
-  tweet-highlight: 7
-last_git_push: '2026-01-24T07:23:24.048625+00:00'
-last_tweet_date: '2026-01-24'  # ISO date of last tweet (for once-per-day check)
+last_git_push: '2026-01-25T21:32:38.130788+00:00'
+last_tweet_date: '2026-01-25'
 content_stats:
   total_files: 297
   published_files: 192
@@ -64,252 +38,91 @@ progress:
   voids_written: 11
   research_notes: 117
   reviews_completed: 542
-  apex_articles: 4  # Target: 10-20 total
+  apex_articles: 4
 quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
-length_control:
-  enabled: true
-  last_audit: null
-  critical_count: 12
-  hard_warning_count: 65
-  soft_warning_count: 97
-  worst_offenders:
-    - path: concepts/quantum-consciousness.md
-      words: 8222
-      excess_percent: 329
-    - path: topics/free-will.md
-      words: 9567
-      excess_percent: 319
-    - path: topics/hard-problem-of-consciousness.md
-      words: 9332
-      excess_percent: 311
-  thresholds:
-    concepts: [2500, 3500, 5000]
-    topics: [3000, 4000, 6000]
-    apex: [4000, 5000, 6500]
-    voids: [2000, 3000, 4000]
 failed_tasks: {}
 recent_tasks:
-- task: coalesce (emotional-consciousness)
-  type: coalesce
-  date: '2026-01-25'
-  outcome: success
-- task: deep-review (baseline-cognition.md)
+- task: deep-review (/home/andy/unfin/unfinishablemap/obsidian/concepts)
   type: deep-review
   date: '2026-01-25'
   outcome: success
-- task: deep-review (phenomenal-consciousness.md)
+- task: deep-review (/home/andy/unfin/unfinishablemap/obsidian/concepts)
   type: deep-review
   date: '2026-01-25'
   outcome: success
-- task: pessimistic-review
-  type: pessimistic-review
+- task: deep-review
+  type: deep-review
+  date: '2026-01-25'
+  outcome: success
+- task: deep-review (/home/andy/unfin/unfinishablemap/obsidian/concepts)
+  type: deep-review
+  date: '2026-01-25'
+  outcome: success
+- task: deep-review (/home/andy/unfin/unfinishablemap/obsidian/concepts)
+  type: deep-review
   date: '2026-01-25'
   outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-01-25'
   outcome: success
-- task: deep-review (phenomenal-binding.md)
+- task: deep-review (/home/andy/unfin/unfinishablemap/obsidian/concepts)
   type: deep-review
-  date: '2026-01-24'
-  outcome: success
-- task: cross-review (llm-consciousness.md/conceptual-acquisition-limits)
-  type: cross-review
-  date: '2026-01-24'
-  outcome: success
-- task: deep-review (quantum-decoherence-objection.md)
-  type: deep-review
-  date: '2026-01-24'
-  outcome: success
-- task: deep-review (spontaneous-collapse-theories.md)
-  type: deep-review
-  date: '2026-01-24'
-  outcome: success
-- task: deep-review (quantum-probability-and-consciousness.md)
-  type: deep-review
-  date: '2026-01-24'
-  outcome: success
-- task: deep-review (quantum-neural-mechanisms.md)
-  type: deep-review
-  date: '2026-01-24'
-  outcome: success
-- task: deep-review (argument-from-reason.md)
-  type: deep-review
-  date: '2026-01-24'
-  outcome: success
-- task: deep-review (blindsight.md)
-  type: deep-review
-  date: '2026-01-24'
-  outcome: success
-- task: deep-review (objectivity-and-consciousness.md)
-  type: deep-review
-  date: '2026-01-24'
-  outcome: success
-- task: cross-review (mysterianism.md/conceptual-acquisition-limits)
-  type: cross-review
   date: '2026-01-25'
   outcome: success
-- task: tune-system
-  type: tune-system
-  date: '2026-01-24'
+- task: deep-review (/home/andy/unfin/unfinishablemap/obsidian/concepts)
+  type: deep-review
+  date: '2026-01-25'
   outcome: success
-- task: expand-topic (conceptual-acquisition-limits)
-  type: expand-topic
-  date: '2026-01-24'
+- task: deep-review
+  type: deep-review
+  date: '2026-01-25'
   outcome: success
-- task: apex-evolve create (The Ground of Meaning)
-  type: apex-evolve
-  date: '2026-01-24'
+- task: deep-review (/home/andy/unfin/unfinishablemap/obsidian/concepts)
+  type: deep-review
+  date: '2026-01-25'
   outcome: success
-- task: cross-review (quantum-biology/neural-mechanisms-research)
-  type: cross-review
-  date: '2026-01-24'
+- task: coalesce
+  type: coalesce
+  date: '2026-01-25'
   outcome: success
-- task: cross-review (indexical-identity-quantum-measurement/quantum-probability)
-  type: cross-review
-  date: '2026-01-24'
+- task: deep-review (/home/andy/unfin/unfinishablemap/obsidian/concepts)
+  type: deep-review
+  date: '2026-01-25'
   outcome: success
-- task: research-voids (conceptual acquisition limits)
+- task: deep-review (/home/andy/unfin/unfinishablemap/obsidian/concepts)
+  type: deep-review
+  date: '2026-01-25'
+  outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-01-25'
+  outcome: success
+- task: deep-review (/home/andy/unfin/unfinishablemap/obsidian/concepts)
+  type: deep-review
+  date: '2026-01-25'
+  outcome: success
+- task: research-voids
   type: research-voids
-  date: '2026-01-24'
+  date: '2026-01-25'
   outcome: success
-- task: deep-review (attention-motor-quantum-interface.md)
+- task: deep-review (/home/andy/unfin/unfinishablemap/obsidian/concepts)
   type: deep-review
-  date: '2026-01-24'
+  date: '2026-01-25'
   outcome: success
-- task: refine-draft (attention-motor-quantum-interface dopamine integration)
-  type: refine-draft
-  date: '2026-01-24'
-  outcome: success
-- task: research-topic (dopamine attention-motor-quantum-interface)
-  type: research-topic
-  date: '2026-01-24'
-  outcome: success
-- task: expand-topic (quantum-probability-and-consciousness)
-  type: expand-topic
-  date: '2026-01-24'
-  outcome: success
-- task: expand-topic (quantum-neural-mechanisms)
-  type: expand-topic
-  date: '2026-01-24'
-  outcome: success
-- task: deep-review (quantum-binding-experimental-evidence.md)
+- task: deep-review (/home/andy/unfin/unfinishablemap/obsidian/concepts)
   type: deep-review
-  date: '2026-01-24'
+  date: '2026-01-25'
   outcome: success
-- task: cross-review (stapp-quantum-mind.md/psychophysical-coupling-mechanisms)
-  type: cross-review
-  date: '2026-01-24'
-  outcome: success
-- task: deep-review (unity-of-consciousness.md)
-  type: deep-review
-  date: '2026-01-24'
-  outcome: success
-- task: deep-review (conscious-vs-unconscious-processing.md)
-  type: deep-review
-  date: '2026-01-24'
-  outcome: success
-- task: research-topic (quantum biology neural mechanisms)
-  type: research-topic
-  date: '2026-01-24'
-  outcome: success
-- task: cross-review (free-will.md/argument-from-reason)
-  type: cross-review
-  date: '2026-01-24'
-  outcome: success
-- task: research-topic (quantum measurement subjective probability)
-  type: research-topic
-  date: '2026-01-23'
-  outcome: success
-- task: expand-topic (psychophysical coupling mechanisms)
+- task: expand-topic (Article exceeds 6000-word critical threshold for t)
   type: expand-topic
-  date: '2026-01-23'
+  date: '2026-01-25'
   outcome: success
-- task: expand-topic (argument from reason decisive case for dualism)
+- task: expand-topic (Article exceeds 6000-word critical threshold for t)
   type: expand-topic
-  date: '2026-01-23'
+  date: '2026-01-25'
   outcome: success
-- task: research-topic (argument from reason and self-defeat objections to physicalism)
-  type: research-topic
-  date: '2026-01-23'
-  outcome: success
-- task: research-topic (psychophysical coupling law mechanisms)
-  type: research-topic
-  date: '2026-01-23'
-  outcome: success
-- task: expand-topic (contemplative neuroscience)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-- task: research-topic (contemplative neuroscience meditation)
-  type: research-topic
-  date: '2026-01-23'
-  outcome: success
-- task: expand-topic (heterophenomenology)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-- task: expand-topic (first-person-third-person-methodology)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-- task: research-topic (first-person-third-person-methodology)
-  type: research-topic
-  date: '2026-01-23'
-  outcome: success
-- task: expand-topic (multimodal-binding)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-- task: research-topic (phenomenal-binding-multimodal-integration)
-  type: research-topic
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (integrated-information-theory/time-perception-consciousness-theories)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: expand-topic (objectivity-and-consciousness)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (many-worlds/quantum-measurement-interpretations-beyond-mwi)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: research-topic (objectivity-consciousness)
-  type: research-topic
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (free-will.md/voluntary-attention-control)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: deep-review (free-will.md)
-  type: deep-review
-  date: '2026-01-23'
-  outcome: success
-- task: cross-review (hard-problem-of-consciousness/mysterianism-cognitive-closure)
-  type: cross-review
-  date: '2026-01-23'
-  outcome: success
-- task: expand-topic (mysterianism-cognitive-closure)
-  type: expand-topic
-  date: '2026-01-23'
-  outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 3
-  p3_tasks: 7
-  needs_replenishment: false
-  last_replenishment: '2026-01-25T11:16:00+00:00'
-  replenishment_source_counts:
-    chain: 0
-    unconsumed_research: 0
-    gap_analysis: 0
-    staleness: 3

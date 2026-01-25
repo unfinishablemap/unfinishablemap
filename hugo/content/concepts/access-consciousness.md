@@ -240,7 +240,7 @@ An experience becomes A-conscious not by having an intrinsic access-property, bu
 - [Attention as interface](/concepts/attention-as-interface/)—how consciousness controls what becomes accessible
 - [Stapp's quantum mind](/concepts/stapp-quantum-mind/)—mechanism for conscious selection of what gets accessed
 - [Cognitive phenomenology](/concepts/cognitive-phenomenology/)—whether thoughts have phenomenal character or are only A-conscious
-- [Baseline cognition](/concepts/baseline-cognition/)—great ape intelligence shows what's possible without full A-consciousness
+- [Baseline cognition](/archive/topics/baseline-cognition/)—great ape intelligence shows what's possible without full A-consciousness
 - [Working memory](/concepts/working-memory/)—the capacity limit on what can be A-conscious simultaneously
 - [Metacognition](/concepts/metacognition/)—awareness of one's own cognitive states, requiring A-consciousness
 

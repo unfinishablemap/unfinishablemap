@@ -143,7 +143,7 @@ A striking feature of animal cognition research is the order-of-magnitude intell
 
 ### The Baseline Cognition Hypothesis
 
-One possibility: great ape cognition represents what neurons can achieve without substantial conscious contribution—a "[baseline](/concepts/baseline-cognition/)" of sophisticated information processing. If this hypothesis is correct, the human leap required something beyond neural elaboration: an expansion or qualitative shift in consciousness itself. The [baseline-cognition](/concepts/baseline-cognition/) concept page develops this framework in detail, specifying what baseline cognition achieves (domain-specific excellence, procedural metacognition, the zone of latent solutions) and what it cannot achieve (declarative metacognition, logical reasoning, counterfactual thinking, cumulative culture).
+One possibility: great ape cognition represents what neurons can achieve without substantial conscious contribution—a "[baseline](/archive/topics/baseline-cognition/)" of sophisticated information processing. If this hypothesis is correct, the human leap required something beyond neural elaboration: an expansion or qualitative shift in consciousness itself. The [baseline-cognition](/archive/topics/baseline-cognition/) concept page develops this framework in detail, specifying what baseline cognition achieves (domain-specific excellence, procedural metacognition, the zone of latent solutions) and what it cannot achieve (declarative metacognition, logical reasoning, counterfactual thinking, cumulative culture).
 
 The [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) thesis proposes that consciousness doesn't add computational power—neurons handle computation—but enables *flexible deployment* of cognitive resources, metacognitive monitoring, and counterfactual reasoning. The amplification operates through identifiable mechanisms: [global broadcasting](/concepts/global-workspace-theory/) makes information available across cognitive systems, conscious access enables *manipulation* (not just maintenance) of working memory contents, and metacognitive monitoring permits self-correction during reasoning. Great apes may possess the underlying cognitive resources without the conscious access that transforms raw processing into human-level cognition.
 
@@ -162,7 +162,7 @@ Social cognition provides another domain where the consciousness gap manifests c
 - **Level 2** (belief attribution): Understanding false beliefs. Evidence is mixed; great apes may track behaviour without genuine belief attribution.
 - **Level 3** (recursive mindreading): Beliefs about beliefs, intentions about intentions. "She thinks that I think the food is hidden."
 
-The key insight: Levels 0-1 operate within [baseline-cognition](/concepts/baseline-cognition/). Level 3 appears to require consciousness because the nested structure demands simultaneous manipulation of multiple representations—precisely what [working-memory](/concepts/working-memory/) research identifies as requiring conscious access.
+The key insight: Levels 0-1 operate within [baseline-cognition](/archive/topics/baseline-cognition/). Level 3 appears to require consciousness because the nested structure demands simultaneous manipulation of multiple representations—precisely what [working-memory](/concepts/working-memory/) research identifies as requiring conscious access.
 
 Shared intentionality reinforces this pattern. Joint attention isn't merely parallel attending—it involves knowing both are attending, knowing the other knows, and so on. This recursive mutual awareness characterises human social coordination but appears diminished or absent in great apes.
 
@@ -342,7 +342,7 @@ The Map's position on animal consciousness could be undermined by specific disco
 
 ### Consciousness and Intelligence
 - [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/) — Theory of mind levels, shared intentionality, and empathy as evidence for the consciousness gap
-- [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without consciousness: the great ape benchmark for understanding human-level cognition
+- [baseline-cognition](/archive/topics/baseline-cognition/) — What neural systems achieve without consciousness: the great ape benchmark for understanding human-level cognition
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognitive capacity through flexible access, metacognition, and counterfactual thinking
 - [consciousness-influence-intelligence-2026-01-21](/research/consciousness-influence-intelligence-2026-01-21/) — Research on whether consciousness causally contributes to intelligence
 - [consciousness-independent-baseline-cognition-2026-01-21](/research/consciousness-independent-baseline-cognition-2026-01-21/) — Research on the baseline cognition hypothesis and great ape-human differences

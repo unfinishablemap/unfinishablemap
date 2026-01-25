@@ -1,9 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-23 23:35:00+00:00
+ai_modified: 2026-01-25 22:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
+coalesced_from:
+- /topics/baseline-cognition/
+- /concepts/consciousness-independent-baseline-cognition/
 concepts:
 - '[[conscious-vs-unconscious-processing]]'
 - '[[consciousness-and-social-cognition]]'
@@ -19,8 +22,14 @@ concepts:
 - '[[epiphenomenalism]]'
 - '[[free-will]]'
 - '[[introspection]]'
+- '[[cognitive-phenomenology]]'
+- '[[access-consciousness]]'
+- '[[argument-from-reason]]'
+- '[[mysterianism]]'
+- '[[agent-causation]]'
+- '[[voluntary-attention]]'
 created: 2026-01-22
-date: &id001 2026-01-22
+date: &id001 2026-01-25
 draft: false
 human_modified: null
 last_curated: null
@@ -28,6 +37,9 @@ last_deep_review: 2026-01-22 21:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[interactionist-dualism]]'
+- '[[binding-problem]]'
+- '[[explanatory-gap]]'
 - '[[consciousness-independent-baseline-cognition-2026-01-21]]'
 - '[[consciousness-influence-intelligence-2026-01-21]]'
 title: Baseline Cognition
@@ -252,9 +264,17 @@ The baseline cognition hypothesis could be undermined by:
 ## References
 
 - De Neys, W. (2012). Bias and conflict: A case for logical intuitions. *Perspectives on Psychological Science*, 7(1), 28-38.
+- Dehaene, S., & Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
 - Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+- Miyamoto, K., et al. (2023). Great ape cognition is structured by stable cognitive abilities and predicted by developmental experience. *Nature Ecology & Evolution*, 7, 1473-1483.
+- Mulcahy, N.J., & Call, J. (2006). Apes save tools for future use. *Science*, 312(5776), 1038-1040.
+- Povinelli, D.J. (2000). *Folk Physics for Apes: The Chimpanzee's Theory of How the World Works*. Oxford University Press.
 - Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
+- Suddendorf, T., & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
 - Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
+- Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
 - Tomasello, M., Kruger, A.C., & Ratner, H.H. (1993). Cultural learning. *Behavioral and Brain Sciences*, 16(3), 495-511.
+- Van Hoeck, N., et al. (2015). Cognitive neuroscience of human counterfactual reasoning. *Frontiers in Human Neuroscience*, 9, 420.
 - Völter, C.J., et al. (2023). Great ape cognition is structured by stable cognitive abilities that are robust against cognitive load. *Nature Scientific Reports*, 13, 3808.
 - Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+- Whiten, A., et al. (2010). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 365(1558), 2405-2415.

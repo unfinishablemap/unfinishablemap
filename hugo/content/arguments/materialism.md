@@ -129,7 +129,7 @@ This is a serious challenge, but not a decisive one for several reasons:
 
 This is not "quantum woo" or mysticism. It is a constrained philosophical hypothesis: if consciousness causally influences physical outcomes, it might do so by biasing quantum indeterminacy in the brain—selecting among superposed states without violating conservation laws or injecting energy. The mechanism is speculative but not incoherent, and it answers the causal closure objection directly.
 
-The [consciousness-as-amplifier framework](/concepts/consciousness-as-amplifier/) provides a functional account of *why* such selection would matter: consciousness amplifies cognitive capacities beyond what [baseline-cognition](/concepts/baseline-cognition/)—sophisticated neural processing without phenomenal experience—can achieve alone. This explains the selective advantage of consciousness: not merely accompanying cognition but enabling metacognition, counterfactual reasoning, and the cumulative culture that distinguishes human intelligence from great ape intelligence.
+The [consciousness-as-amplifier framework](/concepts/consciousness-as-amplifier/) provides a functional account of *why* such selection would matter: consciousness amplifies cognitive capacities beyond what [baseline-cognition](/archive/topics/baseline-cognition/)—sophisticated neural processing without phenomenal experience—can achieve alone. This explains the selective advantage of consciousness: not merely accompanying cognition but enabling metacognition, counterfactual reasoning, and the cumulative culture that distinguishes human intelligence from great ape intelligence.
 
 ## The Billiard Ball Picture Is Wrong
 
@@ -162,7 +162,7 @@ If the Map's anti-materialist position is correct, certain findings would be exp
 **Expected findings (supporting the position):**
 - Continued failure to close the explanatory gap despite neural mapping advances
 - Discovery of quantum coherence effects in neural tissue relevant to information processing
-- Systematic differences between what consciousness-dependent and consciousness-independent cognition can achieve (see [baseline-cognition](/concepts/baseline-cognition/))
+- Systematic differences between what consciousness-dependent and consciousness-independent cognition can achieve (see [baseline-cognition](/archive/topics/baseline-cognition/))
 
 **Findings that would challenge the position:**
 - A complete functional account of phenomenal consciousness that genuinely dissolves the hard problem (not merely declares it dissolved)
@@ -190,7 +190,7 @@ The fifth tenet (**Occam's Razor Has Limits**) directly informs the final sectio
 ## Further Reading
 
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Why consciousness provides selective advantage
-- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without phenomenal consciousness
+- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition achieves without phenomenal consciousness
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Detailed treatment of Chalmers' distinction
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The positive dualist framework
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for mind-matter interface

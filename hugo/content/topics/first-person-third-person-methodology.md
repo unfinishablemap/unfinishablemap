@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-23 16:50:00+00:00
+ai_modified: 2026-01-25 17:30:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -12,10 +12,11 @@ concepts:
 - '[[access-consciousness]]'
 - '[[intersubjectivity]]'
 created: 2026-01-23
-date: &id001 2026-01-23
+date: &id001 2026-01-25
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-25 17:30:00+00:00
 modified: *id001
 related_articles:
 - '[[intersubjectivity]]'
@@ -58,7 +59,7 @@ Dennett analogizes introspective reports to fiction: "Just as it can be an objec
 
 Heterophenomenology is Dennett's explicitly third-person, scientific approach to studying consciousness. It treats subjects' introspective reports as texts establishing a "fictional world" of subjective claims. Science grants authority to what subjects say they mean, but not to whether their phenomenological claims are true. Any phenomenological question "why do I experience X?" becomes the heterophenomenological question "why does the subject say 'I experience X'?"—reframed entirely in third-person terms.
 
-This approach conflicts with the Map's Dualism tenet. Heterophenomenology is officially neutral about whether phenomenology exists, treating it as potentially eliminable. The Map rejects this neutrality, arguing phenomenology is ontologically real and irreducible. Methodological naturalism—using only third-person scientific methods—does not entail ontological naturalism (only physical things exist). The Map can acknowledge heterophenomenology's usefulness as a research tool while rejecting its eliminativist implications.
+This approach is officially neutral about phenomenology's ontological status—Dennett neither affirms nor denies that qualia are real. He argues that science can proceed without settling the metaphysical question. However, this methodological neutrality has consequences: by reframing every phenomenological question as a question about verbal reports, heterophenomenology treats first-person authority as authority about *what subjects claim*, not about *what exists*. For the Map, this neutrality is unstable. If phenomenology is real and irreducible (as the Dualism tenet holds), then systematically bracketing its reality risks distorting the subject matter. Methodological naturalism—using only third-person scientific methods—does not entail ontological naturalism (only physical things exist), but it does constrain what questions get asked. The Map can acknowledge heterophenomenology's usefulness as a research tool while insisting that its methodological neutrality cannot be the final word on consciousness.
 
 ## Neurophenomenology: The Mutual Constraint Framework
 
@@ -101,7 +102,7 @@ The [explanatory gap](/concepts/explanatory-gap/) (Joseph Levine, 1983) captures
 
 Levine distinguished epistemic from ontological gaps: the gap might reflect limits of our understanding (epistemic) rather than a gap in nature itself (ontological). He remained agnostic, noting "a plausible explanation for there being a gap in our understanding of nature is that there is a genuine gap in nature."
 
-The Map endorses the ontological gap interpretation as best explanation for the persistent failure to explain phenomenology third-personally. This is abductive inference: given decades of failed reductive attempts, and the [zombie argument](/concepts/philosophical-zombies/)'s demonstration that phenomenology is not logically entailed by physical facts, ontological dualism provides the most coherent explanation.
+The Map endorses the ontological gap interpretation as the best available explanation. This is abductive inference—inference to best explanation—not a deduction from failure. The argument is not "we haven't explained it yet, therefore we can't." Rather: given the *structure* of failed attempts (they explain function but not phenomenology), combined with the [zombie argument](/concepts/philosophical-zombies/)'s demonstration that phenomenology is not logically entailed by physical facts, ontological dualism provides the most coherent explanation for why the gap persists. What would count as evidence against this view? If neuroscience developed explanations that genuinely addressed phenomenal character—not just functional correlates—rather than changing the subject from consciousness to information processing, the abductive case for dualism would weaken.
 
 ### Epistemic Asymmetry and Ontological Asymmetry
 
@@ -125,7 +126,7 @@ Methodological humility (introspection is hard, possibly impossibly hard) is com
 
 This methodological divide strongly supports multiple tenets:
 
-**Dualism**: The persistent need for dual methodologies—first-person phenomenology alongside third-person neuroscience—is best explained by ontological dualism. Methodological asymmetry reflects ontological asymmetry. If phenomenal consciousness were identical to neural processes, third-person neuroscience would eventually capture it completely. The explanatory gap's persistence after decades of neuroscientific progress suggests the gap is in nature, not just our current theories.
+**Dualism**: The persistent need for dual methodologies—first-person phenomenology alongside third-person neuroscience—is best explained by ontological dualism. Methodological asymmetry reflects ontological asymmetry. If phenomenal consciousness were identical to neural processes, third-person neuroscience would eventually capture it completely. The explanatory gap's persistence, combined with the *structure* of that gap (function explained, phenomenology untouched), suggests the gap is in nature rather than merely in our current theories.
 
 **Bidirectional Interaction**: Neurophenomenology's mutual constraint framework exemplifies bidirectional interaction. Phenomenology constrains which neuroscientific theories are adequate; neuroscience guides phenomenological investigation toward relevant distinctions. This bidirectional constraint parallels the Map's claim that consciousness and physical processes causally interact in both directions—neither is epiphenomenal, neither reduces to the other.
 

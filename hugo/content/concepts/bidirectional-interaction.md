@@ -89,7 +89,7 @@ The conscious/unconscious processing literature reveals systematic asymmetries. 
 
 ### The Baseline Cognition Gap
 
-The [baseline cognition hypothesis](/concepts/baseline-cognition/) observes that great apes demonstrate sophisticated cognition—tool use, social learning, procedural skills—yet cannot perform logical reasoning, counterfactual thinking, or build cumulative culture (Tomasello 2014, 2019). Humans do all of these, and they appear to require conscious processing. If consciousness causes nothing, why do cognitive functions requiring consciousness systematically correlate with human distinctiveness?
+The [baseline cognition hypothesis](/archive/topics/baseline-cognition/) observes that great apes demonstrate sophisticated cognition—tool use, social learning, procedural skills—yet cannot perform logical reasoning, counterfactual thinking, or build cumulative culture (Tomasello 2014, 2019). Humans do all of these, and they appear to require conscious processing. If consciousness causes nothing, why do cognitive functions requiring consciousness systematically correlate with human distinctiveness?
 
 ### Evolutionary Convergence
 
@@ -144,7 +144,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 - [causal-closure](/concepts/causal-closure/) — The closure objection and its limits
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism in detail
 - [consciousness-as-intelligence-amplifier](/topics/consciousness-as-intelligence-amplifier/) — Evolutionary evidence for causal efficacy
-- [baseline-cognition](/concepts/baseline-cognition/) — The great ape comparison
+- [baseline-cognition](/archive/topics/baseline-cognition/) — The great ape comparison
 - [downward-causation](/concepts/downward-causation/) — Top-down causation more generally
 - [tenets](/tenets/) — The Map's foundational commitments
 

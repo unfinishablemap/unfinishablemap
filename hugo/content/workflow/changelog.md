@@ -18,6 +18,98 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 10:30 UTC - condense (user-requested, second pass)
+
+**Status**: Success
+**File**: topics/free-will.md
+**Before**: 9657 words (322% of target, critical threshold exceeded)
+**After**: 1592 words (53% of 3000 target)
+**Reduction**: 84%
+**Technique**:
+- Eliminated quantum Zeno mechanism redundancy (appeared 7+ times, now once with link to concept)
+- Cut extended sections on meditation/witness mode, process philosophy, Kane's SFAs, prospective memory
+- Removed Bergson's challenge, motor selection details, illusionism extended treatment
+- Condensed neural signatures to essential table
+- Deferred all detailed treatments to linked concept articles (quantum-indeterminacy-free-will, libet-experiments, decoherence, voluntary-attention, etc.)
+- Trimmed Further Reading from 27 to 12 entries
+**Preserved**: Core arguments (phenomenology of choice via link, quantum Zeno as one mechanism, agent causation section), Relation to Site Perspective with all five tenets, opening summary
+
+---
+
+## 2026-01-25 23:45 UTC - check-tenets (monthly alignment verification)
+
+**Status**: Success
+**Files checked**: 132 (98 concepts + 34 topics)
+**Errors**: 0
+**Warnings**: 0
+**Notes**: 0
+**Summary**: All content files pass tenet alignment verification. Every file contains proper "Relation to Site Perspective" sections addressing the five foundational tenets. Files consistently note the Map's rejection of competing theories (materialism, illusionism, functionalism, epiphenomenalism, MWI) with appropriate reasoning.
+**Report**: `reviews/tenet-check-2026-01-25.md`
+
+---
+
+## 2026-01-25 20:51 UTC - deep-review (user-requested, forty-eighth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T21:15:00+00:00
+**Word count**: 2540 → 2444 (-96 words, now at 98% of soft threshold)
+**Critical issues addressed**: 3
+- Structural coherence defense: explicitly acknowledged framework makes no empirical predictions, value is conceptual constraint
+- Wallace derivation: rewrote to compare Copenhagen and MWI explanatory gaps fairly
+- Haecceity question-begging: added Buddhist perspective that "thisness" might be conventional
+**Medium issues addressed**: 3
+- Stapp mechanism: explicitly called out as "significant gap in the proposal"
+- Tomaz citation: added context "in their 2025 review of measurement problem trends"
+- MWI indexical section: condensed redundant content
+**Enhancements made**: 3 (conceptual unification defense, MWI fairness, Buddhist acknowledgment)
+**Report**: `reviews/deep-review-2026-01-25-measurement-problem-48.md`
+
+---
+
+## 2026-01-25 21:15 UTC - deep-review (user-requested, forty-seventh review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T20:34:43+00:00
+**Word count**: 2415 → 2540 (+125 words, now at soft threshold)
+**Critical issues addressed**: 3
+- MWI indexical symmetry: acknowledged question is universal, argued MWI multiplies it
+- Structural coherence defense: added electromagnetism analogy for epistemic value
+- Wallace probability dismissal: engaged argument substantively before disagreeing
+**Medium issues addressed**: 1
+- Functionalist response: added charitable acknowledgment before disagreement
+**Enhancements made**: 3 (MWI probability, MWI indexical, coherence defense sections strengthened)
+**Report**: `reviews/deep-review-2026-01-25-measurement-problem-47.md`
+
+---
+
+## 2026-01-25 21:15 UTC - research-voids
+
+**Status**: Success
+**Topic**: Tenet-Generated Voids
+**Category**: Mixed (Unexplorable and Occluded)
+**Output**: research/voids-tenet-generated-voids-2026-01-25.md
+**Key finding**: Each of the Map's five tenets generates specific unanswerable questions—voids inherent in the framework rather than gaps awaiting future discovery. Dualism cannot characterize what consciousness positively is. Minimal Quantum Interaction cannot explain the mechanism by which non-physical consciousness biases quantum probabilities. Bidirectional Interaction cannot explain why causal effects are undetectable. No Many Worlds cannot explain what selects single outcomes absent consciousness. Occam's Razor Has Limits provides no criterion for when to trust simplicity. These framework-generated voids are not bugs but features—acknowledging them enacts the Map's commitment to intellectual honesty about epistemic limits.
+
+---
+
+## 2026-01-25 20:34 UTC - deep-review (user-requested, forty-sixth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T20:24:50+00:00
+**Word count**: 2498 → 2415 (-83 words, length-neutral mode)
+**Critical issues addressed**: 0 (none threatening coherence)
+**Medium issues addressed**: 3
+- Functionalist response risked question-begging → added clarifying sentence about denying phenomenal experience
+- Decoherence objection understated → tightened to state most physicists consider it "decisive"
+- Unfalsifiability cost unclear → made explicit acknowledgment of cost
+**Enhancements made**: 1 (consolidated Stapp/decoherence section to reach structural position sooner)
+**Report**: `reviews/deep-review-2026-01-25-measurement-problem-46.md`
+
+---
+
 ## 2026-01-25 20:29 UTC - deep-review (user-requested)
 
 **Status**: Success

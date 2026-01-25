@@ -166,7 +166,7 @@ This connects to the distinction between procedural and declarative metacognitio
 
 The Jourdain transition—from having to knowing-that-you-have—may require phenomenal consciousness for the metacognitive leap. Great apes can be *phenomenally self-present* (minimal self intact) without being *declaratively self-knowing* (unable to represent themselves as selves). If this is correct, then the difference between human and great ape self-awareness is not whether they have a minimal self, but whether they can make the Jourdain transition from experiencing selfhood to knowing they experience selfhood.
 
-This explains why [baseline cognition](/concepts/baseline-cognition/)—the sophisticated cognitive capacities great apes demonstrate—can coexist with absence of explicit self-knowledge. The minimal self operates within baseline cognition; the metacognitive self requires consciousness-amplified capacities that enable the Jourdain transition.
+This explains why [baseline cognition](/archive/topics/baseline-cognition/)—the sophisticated cognitive capacities great apes demonstrate—can coexist with absence of explicit self-knowledge. The minimal self operates within baseline cognition; the metacognitive self requires consciousness-amplified capacities that enable the Jourdain transition.
 
 ### Implications for Metzinger's Self-Model
 
@@ -298,7 +298,7 @@ The filter theory interprets these findings coherently: the narrative self is co
 
 - [the-unobservable-self](/voids/the-unobservable-self/) — Why the observing self cannot observe itself observing
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them: the Molière parallel
-- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without declarative self-knowledge
+- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition achieves without declarative self-knowledge
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — How Buddhist no-self and the Map's irreducibility thesis are compatible
 - [witness-consciousness](/concepts/witness-consciousness/) — The sakshi/observer phenomenon: observing without identifying
 - [haecceity](/concepts/haecceity/) — Indexical identity and "thisness" beyond qualitative properties

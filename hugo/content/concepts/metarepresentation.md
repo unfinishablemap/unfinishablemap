@@ -88,7 +88,7 @@ The great ape evidence is striking. Despite decades of observation and sophistic
 
 Andrew Whiten (2015) articulates what might be called the Jourdain Hypothesis, after Molière's character who discovered he had been speaking prose all his life without knowing it. Great apes, Whiten argues, may have culture—tool-use traditions, grooming patterns, food preferences that vary between groups—but not *know* they have culture.
 
-The [baseline-cognition](/concepts/baseline-cognition/) framework elaborates this distinction. Great apes exemplify sophisticated baseline cognition—what neural systems achieve without substantial conscious contribution. They possess procedural metacognition (feelings that guide behaviour) without declarative metacognition (explicit knowledge of mental states). The difference between having mental states and representing oneself as having them marks the boundary between baseline and consciousness-amplified cognition.
+The [baseline-cognition](/archive/topics/baseline-cognition/) framework elaborates this distinction. Great apes exemplify sophisticated baseline cognition—what neural systems achieve without substantial conscious contribution. They possess procedural metacognition (feelings that guide behaviour) without declarative metacognition (explicit knowledge of mental states). The difference between having mental states and representing oneself as having them marks the boundary between baseline and consciousness-amplified cognition.
 
 This matters because cumulative culture requires metarepresentation. To improve a tool, you must represent the tool-making process *as a process*—as a way of doing things that could be done differently. To teach effectively, you must represent your knowledge *as knowledge* that another lacks. To innovate deliberately, you must recognise current practices *as practices* subject to modification.
 
@@ -277,7 +277,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 
 - [theory-of-mind](/concepts/theory-of-mind/) — Levels 0-3+ and the metarepresentational threshold
 - [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/) — Teaching as the paradigm case of metarepresentation
-- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without metarepresentation, and why the difference matters
+- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition achieves without metarepresentation, and why the difference matters
 - [metacognition](/concepts/metacognition/) — The enabling relation between consciousness and self-monitoring
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances cognitive capacity

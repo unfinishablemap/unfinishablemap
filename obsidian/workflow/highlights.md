@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 New article maps timescales from femtosecond decoherence to 300ms neural decisions, showing how quantum mechanisms must operate within these constraints.
 
 **Type**: new-article  
+**Tweet**: https://twitter.com/i/web/status/2015436200878719050  
 **Link**: [[quantum-neural-timing-constraints]]
 
 ---

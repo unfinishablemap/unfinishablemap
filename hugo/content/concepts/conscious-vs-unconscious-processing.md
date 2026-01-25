@@ -174,7 +174,7 @@ For the Map's framework, this connects to [voluntary-attention](/concepts/volunt
 
 ## Connection to Baseline Cognition
 
-The [baseline-cognition](/concepts/baseline-cognition/) framework illuminates these findings. Great apes demonstrate sophisticated cognition—tool use, social learning, procedural metacognition—without human-level consciousness. This "baseline" represents what unconscious and minimal-consciousness processing can achieve.
+The [baseline-cognition](/archive/topics/baseline-cognition/) framework illuminates these findings. Great apes demonstrate sophisticated cognition—tool use, social learning, procedural metacognition—without human-level consciousness. This "baseline" represents what unconscious and minimal-consciousness processing can achieve.
 
 What apes cannot do maps onto the three consciousness-requiring functions:
 - **Durable maintenance**: Apes struggle with delayed tasks requiring information maintenance over extended periods
@@ -281,7 +281,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 - [consciousness](/concepts/consciousness/) — The core concept and its varieties
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Where consciousness correlates map in the brain
 - [blindsight](/concepts/blindsight/) — The paradigm case of perception without consciousness
-- [baseline-cognition](/concepts/baseline-cognition/) — What cognition looks like without full consciousness
+- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition looks like without full consciousness
 - [access-consciousness](/concepts/access-consciousness/) — Consciousness as availability for reasoning and report
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — Consciousness as subjective experience
 - [working-memory](/concepts/working-memory/) — The maintenance function requiring consciousness

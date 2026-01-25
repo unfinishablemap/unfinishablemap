@@ -260,7 +260,7 @@ The evidence supporting this distinction includes:
 
 This dissociation—metacognition without metarepresentation—reinforces the Map's framework. Metacognition is a cognitive capacity widespread in the animal kingdom. Metarepresentation may require the expanded phenomenal workspace that distinguishes human consciousness, particularly the [working memory](/concepts/working-memory/) capacity to hold multiple representational levels simultaneously. Rats can monitor uncertainty; only humans seem to know they have minds that could be wrong.
 
-The Jourdain transition—from procedural to declarative metacognition—may mark the boundary between [baseline](/concepts/baseline-cognition/) and consciousness-amplified cognition. If this transition requires phenomenal consciousness (if you cannot know that you know without experiencing that knowing), then consciousness causally enables [cumulative culture](/concepts/cumulative-culture/), explicit reasoning, and deliberate self-improvement.
+The Jourdain transition—from procedural to declarative metacognition—may mark the boundary between [baseline](/archive/topics/baseline-cognition/) and consciousness-amplified cognition. If this transition requires phenomenal consciousness (if you cannot know that you know without experiencing that knowing), then consciousness causally enables [cumulative culture](/concepts/cumulative-culture/), explicit reasoning, and deliberate self-improvement.
 
 ### Metacognition in the Amplification Framework
 
@@ -337,7 +337,7 @@ The Map's framework accommodates this: consciousness provides phenomenal content
 - [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/) — How theory of mind and empathy extend metacognition to the social domain
 - [theory-of-mind](/concepts/theory-of-mind/) — The levels hierarchy for attributing mental states to others
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — The distinction between having mental states and knowing you have them, with implications for great ape cognition and AI assessment
-- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without declarative metacognition
+- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition achieves without declarative metacognition
 - [cumulative-culture](/concepts/cumulative-culture/) — Why cultural ratcheting requires the Jourdain transition
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enables the human cognitive leap through metacognition and other capacities
 - [metarepresentation](/concepts/metarepresentation/) — The critical distinction between monitoring cognition and representing representations as representations

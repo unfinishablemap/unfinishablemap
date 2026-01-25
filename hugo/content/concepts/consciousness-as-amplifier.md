@@ -42,7 +42,7 @@ The Unfinishable Map proposes that consciousness interfaces with neural systems 
 
 ## The Baseline Cognition Hypothesis
 
-Great apes represent sophisticated [baseline-cognition](/concepts/baseline-cognition/)—what neurons can achieve without substantial conscious contribution. The baseline cognition concept provides the complementary framework to amplification: it characterises the starting point from which consciousness amplifies, showing what domain-specific excellence looks like before metarepresentational capacities are added. This isn't to deny great ape consciousness; they likely have genuine phenomenal experience. But the hypothesis proposes their consciousness may differ qualitatively from human consciousness in ways that limit cognitive amplification.
+Great apes represent sophisticated [baseline-cognition](/archive/topics/baseline-cognition/)—what neurons can achieve without substantial conscious contribution. The baseline cognition concept provides the complementary framework to amplification: it characterises the starting point from which consciousness amplifies, showing what domain-specific excellence looks like before metarepresentational capacities are added. This isn't to deny great ape consciousness; they likely have genuine phenomenal experience. But the hypothesis proposes their consciousness may differ qualitatively from human consciousness in ways that limit cognitive amplification.
 
 Evidence supporting this framework:
 
@@ -201,7 +201,7 @@ This doesn't prove AI cannot be conscious or achieve human-level cognition. It s
 
 ## Further Reading
 
-- [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without conscious amplification
+- [baseline-cognition](/archive/topics/baseline-cognition/) — What neural systems achieve without conscious amplification
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The felt structure of deliberate selection, supporting the amplification framework
 - [metarepresentation](/concepts/metarepresentation/) — How consciousness enables representing representations as representations
 - [working-memory](/concepts/working-memory/) — The neural workspace where amplification operates

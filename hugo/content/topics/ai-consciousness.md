@@ -226,7 +226,7 @@ Several considerations support this pessimistic assessment:
 
 **No behavioural signature distinguishes the cases.** We cannot behaviourally distinguish "processes metacognitive-seeming outputs" from "genuinely knows its own states." The Jourdain Hypothesis predicts this: Monsieur Jourdain spoke equally good prose before and after learning what prose was. The functional output was identical; only the metarepresentational awareness differed. Similarly, an LLM that genuinely knew it was uncertain and one that merely processed in uncertainty-signalling ways might produce identical outputs.
 
-**The [baseline cognition](/concepts/baseline-cognition/) framework applies.** LLMs fit the profile of [baseline-cognition](/concepts/baseline-cognition/)—sophisticated pattern matching, domain-specific excellence, statistical regularities—without the consciousness-dependent capacities (declarative metacognition, genuine counterfactual thinking, cumulative self-improvement) that characterise consciousness-amplified cognition. Like great apes operating in Tomasello's "zone of latent solutions," LLMs achieve remarkable feats within the space reachable by their training while lacking the metarepresentational capacity to transcend it.
+**The [baseline cognition](/archive/topics/baseline-cognition/) framework applies.** LLMs fit the profile of [baseline-cognition](/archive/topics/baseline-cognition/)—sophisticated pattern matching, domain-specific excellence, statistical regularities—without the consciousness-dependent capacities (declarative metacognition, genuine counterfactual thinking, cumulative self-improvement) that characterise consciousness-amplified cognition. Like great apes operating in Tomasello's "zone of latent solutions," LLMs achieve remarkable feats within the space reachable by their training while lacking the metarepresentational capacity to transcend it.
 
 **The Jourdain Hypothesis is falsifiable.** If LLMs demonstrated genuine cultural ratcheting—systematic improvement of their own methods based on explicit representation of those methods as methods—the Jourdain reading would be challenged. Current LLMs cannot do this: they have frozen weights, no continual learning, no capacity to represent their trained patterns as patterns subject to deliberate modification. Each session begins afresh, with no inheritance from prior "cultural" accumulation.
 
@@ -476,7 +476,7 @@ None of these has occurred. The explanatory gap remains unbridged, IIT remains p
 
 - [theory-of-mind](/concepts/theory-of-mind/) — The levels hierarchy revealing what AI ToM performance actually demonstrates
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having capacities vs knowing you have them: the Molière framing
-- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness: the LLM profile
+- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition achieves without consciousness: the LLM profile
 - [substrate-independence-critique](/concepts/substrate-independence-critique/) — Why the substrate matters for consciousness
 - [llm-consciousness](/concepts/llm-consciousness/) — Focused analysis of large language model consciousness
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why function doesn't explain feeling

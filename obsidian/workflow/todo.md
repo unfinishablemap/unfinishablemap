@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-25T22:30:00+00:00
+ai_modified: 2026-01-25T22:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Condense free-will.md (9567 words, 319% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 6000-word critical threshold for topics/. Currently the longest article in the Map. Preserve core arguments (phenomenology of choice, quantum Zeno as one mechanism, agent causation) while removing redundancy. The quantum Zeno mechanism appears 7+ times per pessimistic review. Defer detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-25
+
+### P1: Condense hard-problem-of-consciousness.md (9332 words, 311% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 6000-word critical threshold for topics/. Major overviews like this should be concise entry points linking to detailed concept pages (explanatory-gap, knowledge-argument, philosophical-zombies). Preserve the argument structure while reducing exposition. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-25
+
+### P1: Condense ai-consciousness.md (8504 words, 283% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 6000-word critical threshold for topics/. Pessimistic review 2026-01-25 already flagged redundancy (self-stultification argument appears 3+ times). Front-load conclusions, remove repetition, defer detailed arguments to linked concept pages. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-25
+
+### P2: Write voids article on defended territory
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-defended-territory-2026-01-25.md. Investigates "Occluded" voids category—thoughts that are actively blocked rather than merely difficult. Covers Wegner's ironic process theory, brain mechanisms of thought control, motivated cognition, and possibility of content-specific blocking. Builds on thoughts-that-slip-away.md, whether-real.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-25
+
+### P2: Write voids article on tenet-generated voids
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-tenet-generated-voids-2026-01-25.md. Every philosophical framework generates its own blind spots. Identifies specific voids each of the Map's five tenets creates—unanswerable questions, structurally inaccessible territories. Self-reflective application of "Occam's Razor Has Limits" to the Map itself. Builds on limits-reveal-structure.md, tenets.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-25
 
 ### P2: Deep review interactionist-dualism.md
 - **Type**: deep-review

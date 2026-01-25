@@ -45,7 +45,7 @@ The question is where consciousness enters. Some social capacities operate autom
 
 ### The Primate Baseline
 
-Great apes demonstrate sophisticated social cognition that operates within [baseline-cognition](/concepts/baseline-cognition/):
+Great apes demonstrate sophisticated social cognition that operates within [baseline-cognition](/archive/topics/baseline-cognition/):
 
 **Social tracking**: Chimpanzees monitor dominance hierarchies, track who saw what, remember past interactions, and adjust behaviour accordingly. They anticipate others' actions based on what those others have seen or experienced.
 
@@ -77,7 +77,7 @@ Understanding that others have beliefs that may differ from reality—and from y
 
 Representing others' mental states about mental states. "She thinks that I think the food is hidden." This recursive nesting—beliefs about beliefs, intentions about intentions—enables strategic social reasoning, deception detection, and the coordination complexities of human social life.
 
-**The key claim**: Levels 0-1 may operate through [baseline-cognition](/concepts/baseline-cognition/) without requiring phenomenal consciousness. Level 2 is contested—perhaps achievable through sophisticated implicit tracking, perhaps requiring something more. Level 3 appears to require explicit metarepresentation—consciously representing mental states *as* mental states.
+**The key claim**: Levels 0-1 may operate through [baseline-cognition](/archive/topics/baseline-cognition/) without requiring phenomenal consciousness. Level 2 is contested—perhaps achievable through sophisticated implicit tracking, perhaps requiring something more. Level 3 appears to require explicit metarepresentation—consciously representing mental states *as* mental states.
 
 ## The Metarepresentational Threshold
 
@@ -239,7 +239,7 @@ The simpler hypothesis—social cognition is just sophisticated information proc
 ## Further Reading
 
 ### Core Concepts
-- [baseline-cognition](/concepts/baseline-cognition/) — The cognitive floor from which consciousness amplifies social abilities
+- [baseline-cognition](/archive/topics/baseline-cognition/) — The cognitive floor from which consciousness amplifies social abilities
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them: the procedural/declarative distinction
 - [metarepresentation](/concepts/metarepresentation/) — Why representing minds *as* minds requires consciousness
 - [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/) — Social transmission as paradigm case of consciousness-dependent cognition

@@ -80,7 +80,7 @@ The question is what this demonstrates. Is this cognition? Is this consciousness
 
 ### The Baseline Cognition Framework
 
-The [baseline-cognition](/concepts/baseline-cognition/) concept—what cognition achieves without substantial conscious contribution—provides a useful framework for interpreting simple organism behaviour. Great apes demonstrate sophisticated cognitive capacities that appear to operate without the metarepresentational consciousness that distinguishes human cognition: tool use, social reasoning, procedural metacognition, cultural traditions—all within what Tomasello calls the "zone of latent solutions," achievable by recombining existing cognitive resources without insight that transcends current representations.
+The [baseline-cognition](/archive/topics/baseline-cognition/) concept—what cognition achieves without substantial conscious contribution—provides a useful framework for interpreting simple organism behaviour. Great apes demonstrate sophisticated cognitive capacities that appear to operate without the metarepresentational consciousness that distinguishes human cognition: tool use, social reasoning, procedural metacognition, cultural traditions—all within what Tomasello calls the "zone of latent solutions," achievable by recombining existing cognitive resources without insight that transcends current representations.
 
 Applied to simple organisms:
 
@@ -193,7 +193,7 @@ The Map rejects MWI partly because it undermines the [haecceity](/concepts/haecc
 
 ## Further Reading
 
-- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness and why great apes mark the boundary
+- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition achieves without consciousness and why great apes mark the boundary
 - [working-memory](/concepts/working-memory/) — The capacity expansion that enables consciousness-dependent cognition
 - [metacognition](/concepts/metacognition/) — The procedural/declarative distinction and its implications for simple organism consciousness
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies intelligence and why the human-ape gap supports causal efficacy

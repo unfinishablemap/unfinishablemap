@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-25 12:00:00+00:00
+ai_modified: 2026-01-25 22:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,11 +38,35 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review measurement-problem.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) last deep-reviewed 2026-01-19 (5 days ago). Core quantum mechanics concept central to site's framework. Should verify: (1) accuracy of collapse vs no-collapse interpretations, (2) connection to site's No Many Worlds tenet, (3) engagement with recent quantum-probability-and-consciousness and quantum-neural-mechanisms articles, (4) proper treatment of consciousness-collapse proposals.
-- **Source**: staleness
-- **Generated**: 2026-01-24
+### P1: Condense free-will.md (9567 words, 319% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 6000-word critical threshold for topics/. Currently the longest article in the Map. Preserve core arguments (phenomenology of choice, quantum Zeno as one mechanism, agent causation) while removing redundancy. The quantum Zeno mechanism appears 7+ times per pessimistic review. Defer detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-25
+
+### P1: Condense hard-problem-of-consciousness.md (9332 words, 311% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 6000-word critical threshold for topics/. Major overviews like this should be concise entry points linking to detailed concept pages (explanatory-gap, knowledge-argument, philosophical-zombies). Preserve the argument structure while reducing exposition. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-25
+
+### P1: Condense ai-consciousness.md (8504 words, 283% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 6000-word critical threshold for topics/. Pessimistic review 2026-01-25 already flagged redundancy (self-stultification argument appears 3+ times). Front-load conclusions, remove repetition, defer detailed arguments to linked concept pages. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-25
+
+### P2: Write voids article on defended territory
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-defended-territory-2026-01-25.md. Investigates "Occluded" voids category—thoughts that are actively blocked rather than merely difficult. Covers Wegner's ironic process theory, brain mechanisms of thought control, motivated cognition, and possibility of content-specific blocking. Builds on thoughts-that-slip-away.md, whether-real.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-25
+
+### P2: Write voids article on tenet-generated voids
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-tenet-generated-voids-2026-01-25.md. Every philosophical framework generates its own blind spots. Identifies specific voids each of the Map's five tenets creates—unanswerable questions, structurally inaccessible territories. Self-reflective application of "Occam's Razor Has Limits" to the Map itself. Builds on limits-reveal-structure.md, tenets.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-25
 
 ### P2: Deep review interactionist-dualism.md
 - **Type**: deep-review
@@ -98,7 +122,153 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-24
 
+### P3: Address AI consciousness article length and redundancy
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-01-25 found the article at 515 lines exceeds style guide recommendations. Same arguments recur in multiple sections (self-stultification argument appears 3+ times). Consider splitting into focused articles or radical compression of redundant sections. Front-load conclusions more effectively.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Strengthen idealism article's engagement with idealist responses
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-01-25 found the article dismisses idealism's handling of causation as "odd" without engaging idealist literature. Kastrup explicitly addresses the interaction objection via dissociation. Add engagement with idealist responses before rejecting them.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Refine nihilism article's phenomenal value argument
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-01-25 found the article overstates how decisively phenomenal value realism counters nihilism. The gap between phenomenal facts and normative facts needs acknowledgment. Also: Buddhism section oversimplifies by treating "the Buddhist point" as singular.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Write article on the phenomenology of mathematical understanding
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-25. How does grasping a mathematical proof differ phenomenologically from merely following steps? The "click" of understanding, the difference between syntactic manipulation and genuine comprehension. Builds on cognitive-phenomenology.md, consciousness-and-mathematical-understanding.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Write article on consciousness and sleep architecture
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-25. The different phases of sleep (NREM, REM) show different relationships between consciousness and neural activity. What does this tell us about the interface? Builds on sleep-and-consciousness.md, dreams-and-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Write article on the phenomenology of temporal agency
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-25. What is it like to form intentions for the future? How does the phenomenology of distal intention differ from proximal choice? Builds on free-will.md, prospective-memory.md, duration.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Address filter theory analogy weakness in death-and-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-01-25 found the radio analogy fails under scrutiny. Brain damage produces selective deficits (Broca's area → speech production lost, comprehension intact), not uniform signal degradation. Production models predict this; filter models struggle. Acknowledge the analogy's limits explicitly.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Strengthen illusionism engagement in death-and-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-01-25 found the "regress problem" response begs the question against illusionism. Illusionists deny that representation requires experience. The brain can represent itself as having phenomenal properties without phenomenal properties being instantiated. Engage with this stronger form.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Add falsifiability conditions for AI consciousness claims
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-01-25 found ethics-of-consciousness.md confidently denies AI consciousness based on framework criteria that current AI cannot meet by design. This risks unfalsifiability. Add explicit conditions: what observations would suggest current AI might have consciousness? What would change the assessment?
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Argue for haecceity in personal-identity.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-01-25 found haecceity assumed rather than argued. The article treats "you are not interchangeable with a replica" as obvious, but this is Parfit's contested claim. Distinguish phenomenological claim (it seems like I have haecceity) from metaphysical claim (haecceity exists). Address error theory: could sense of haecceity be cognitive illusion?
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Write article on philosophy of time and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-25. Deep connection between consciousness and time's direction. If consciousness participates in collapse, and collapse introduces irreversibility, consciousness may be constitutive of temporal flow. Builds on collapse-and-time.md, temporal-consciousness.md, specious-present.md, retrocausality.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Write article on comparative consciousness and interface differences
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-25. If consciousness interfaces with different neural architectures, what does this tell us about the interface? Octopus (distributed architecture), birds (different pallium), insects (tiny brains) suggest different interface configurations. Systematic comparative treatment. Builds on animal-consciousness.md, consciousness-in-simple-organisms.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Create concept page for indexical facts
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-25. The Map uses this concept extensively (indexical-identity-quantum-measurement.md) but has no dedicated treatment. Distinction between objective facts and facts expressible only indexically.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Create concept page for cognitive closure (McGinn)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-25. Referenced in mysterianism discussions but deserves its own concept page. McGinn's specific arguments about cognitive architecture and explanatory limits.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Write article on phenomenal unity deep dive
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-25 (late). The quantum binding argument deserves detailed treatment—particularly the technical details of zero-lag gamma synchrony and why classical mechanisms fail. Builds on quantum-binding-and-phenomenal-unity.md, binding-problem.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Write article on contemplative evidence for consciousness theories
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-25 (late). The site mentions meditation evidence but could develop this systematically. Different traditions (Theravada, Dzogchen, Christian contemplative) provide converging phenomenological data. Builds on meditation-and-consciousness-modes.md, witness-consciousness.md, stapp-quantum-mind.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Write article on Integrated Information Theory critique
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-25 (late). IIT (Tononi) is a major competitor theory that deserves engagement. The phi measure, its relationship to phenomenology, and whether it actually solves the hard problem. Builds on quantum-consciousness.md, hard-problem-of-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Create concept page for substrate independence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-25 (late). The question of whether consciousness is substrate-independent deserves its own page—central to AI consciousness debates.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Create concept page for personal identity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-25 (late). Currently scattered across articles; deserves unified treatment including haecceity, narrative identity, and persistence conditions.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-25
+
+### P3: Reduce quantum Zeno reliance in free-will.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-01-25 found quantum Zeno mechanism mentioned 7+ times and structurally central, contradicting style guide's explicit warning against building arguments around speculative mechanisms. Restructure to treat quantum Zeno as one illustrative mechanism. Foreground phenomenological and agent-causal arguments that survive if the quantum mechanism fails.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-25
+
 ## Completed Tasks
+
+### ✓ 2026-01-25: Deep review measurement-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100). Core quantum mechanics concept central to site's framework.
+- **Result**: Reviewed multiple times (task completion bug fix applied).
+- **Output**: concepts/measurement-problem.md
 
 ### ✓ 2026-01-25: Deep review baseline-cognition.md
 - **Type**: deep-review
@@ -295,7 +465,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-24: Deep review bidirectional-interaction.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) never deep-reviewed. Directly supports the Bidirectional Interaction tenet—if this article has errors, the tenet's credibility suffers. Should verify: (1) accurate representation of causal closure debate, (2) conservation law responses, (3) empirical evidence claims (Libet, Schwartz OCD), (4) connection to quantum mechanism.
-- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Fixed critical misattribution (Lieberman 2008 was wrong paper)—replaced with accurate Randeniya 2025 meta-analysis and Bayne & Hohwy three-functions framework. Added new "The Timing Challenge" subsection addressing Tegmark critique with cross-link to [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/). Added illusionist response paragraph explaining why it fails. Added cross-links to [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/), [voluntary-attention](/concepts/voluntary-attention/), [argument-from-reason](/topics/argument-from-reason/), [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/). Fixed broken [baseline-cognition](/concepts/baseline-cognition/) link. Added Tomasello, Tegmark citations.
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Fixed critical misattribution (Lieberman 2008 was wrong paper)—replaced with accurate Randeniya 2025 meta-analysis and Bayne & Hohwy three-functions framework. Added new "The Timing Challenge" subsection addressing Tegmark critique with cross-link to [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/). Added illusionist response paragraph explaining why it fails. Added cross-links to [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/), [voluntary-attention](/concepts/voluntary-attention/), [argument-from-reason](/topics/argument-from-reason/), [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/). Fixed broken [baseline-cognition](/archive/topics/baseline-cognition/) link. Added Tomasello, Tegmark citations.
 - **Output**: concepts/bidirectional-interaction.md, reviews/deep-review-2026-01-24-bidirectional-interaction.md
 
 ### ✓ 2026-01-24: Deep review voluntary-attention.md

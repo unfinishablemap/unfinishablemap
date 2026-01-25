@@ -49,7 +49,7 @@ Critics argue that cognitive phenomenology is folk psychology that neuroscience 
 
 ## What Neurons Can Do Without Consciousness
 
-How much of cognition proceeds without phenomenal experience? Great ape intelligence provides an answer. Chimpanzees and bonobos demonstrate remarkable cognitive abilities: tool use, social cognition, procedural metacognition, even basic forms of culture. Yet they cannot engage in cumulative culture, logical reasoning about abstract premises, or genuine counterfactual thinking. The pattern suggests a hypothesis: [great ape cognition represents what neurons can achieve alone](/concepts/baseline-cognition/), while distinctively human intelligence requires consciousness as amplifier.
+How much of cognition proceeds without phenomenal experience? Great ape intelligence provides an answer. Chimpanzees and bonobos demonstrate remarkable cognitive abilities: tool use, social cognition, procedural metacognition, even basic forms of culture. Yet they cannot engage in cumulative culture, logical reasoning about abstract premises, or genuine counterfactual thinking. The pattern suggests a hypothesis: [great ape cognition represents what neurons can achieve alone](/archive/topics/baseline-cognition/), while distinctively human intelligence requires consciousness as amplifier.
 
 The most striking quantitative difference is [working memory](/concepts/working-memory/) capacity: chimpanzees maintain approximately 2±1 items versus humans' 7±2. This gap enables qualitative differences. Complex logical reasoning requires holding multiple premises simultaneously—beyond the 2±1 limit. Counterfactual simulation demands maintaining both actual and imagined scenarios together. Recursive linguistic structure needs expanded capacity to hold incomplete constituents while processing embedded clauses.
 
@@ -155,6 +155,6 @@ This apex article synthesizes:
 - [Meaning and Consciousness](/topics/meaning-and-consciousness/)
 - [Language, Recursion, and Consciousness](/topics/language-recursion-and-consciousness/)
 - [Consciousness as Intelligence Amplifier](/topics/consciousness-as-intelligence-amplifier/)
-- [Baseline Cognition: What Neurons Can Do Without Consciousness](/concepts/baseline-cognition/)
+- [Baseline Cognition: What Neurons Can Do Without Consciousness](/archive/topics/baseline-cognition/)
 - [AI Consciousness](/topics/ai-consciousness/)
 - [Cognitive Phenomenology](/concepts/cognitive-phenomenology/)

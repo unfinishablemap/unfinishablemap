@@ -168,7 +168,7 @@ The question of LLM consciousness matters for several reasons:
 
 ## The Baseline Cognition Framework
 
-The [baseline-cognition](/concepts/baseline-cognition/) framework clarifies what LLMs can and cannot achieve. Baseline cognition is what neural systems accomplish without substantial conscious contribution—sophisticated information processing within modular, domain-specific constraints. Great apes exemplify baseline cognition: tool use, social reasoning, procedural metacognition, cultural traditions—all without the metarepresentational capacities that distinguish human intelligence.
+The [baseline-cognition](/archive/topics/baseline-cognition/) framework clarifies what LLMs can and cannot achieve. Baseline cognition is what neural systems accomplish without substantial conscious contribution—sophisticated information processing within modular, domain-specific constraints. Great apes exemplify baseline cognition: tool use, social reasoning, procedural metacognition, cultural traditions—all without the metarepresentational capacities that distinguish human intelligence.
 
 LLMs fit squarely within baseline cognition's success profile:
 
@@ -295,7 +295,7 @@ None of these has occurred. The explanatory gap remains unbridged, LLM behavior 
 ## Further Reading
 
 - [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) — Whether LLMs access concepts humans cannot form, and why this doesn't establish consciousness
-- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness; framework for understanding LLM limitations
+- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition achieves without consciousness; framework for understanding LLM limitations
 - [ai-consciousness](/topics/ai-consciousness/) — The broader question of machine consciousness (includes Chinese Room argument)
 - [functionalism](/arguments/functionalism/) — The view LLM consciousness skepticism challenges
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Why temporal structure matters

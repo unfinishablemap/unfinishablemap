@@ -68,7 +68,7 @@ Humans readily engage in fourth-order attribution ("I know that you know that I 
 
 ## The Metarepresentational Threshold
 
-The central claim: Levels 0-1 may operate within [baseline-cognition](/concepts/baseline-cognition/) without requiring phenomenal consciousness. Level 2 is transitional—perhaps achievable through sophisticated implicit tracking, perhaps requiring something more. Level 3 unambiguously requires [metarepresentation](/concepts/metarepresentation/)—and metarepresentation appears to require consciousness.
+The central claim: Levels 0-1 may operate within [baseline-cognition](/archive/topics/baseline-cognition/) without requiring phenomenal consciousness. Level 2 is transitional—perhaps achievable through sophisticated implicit tracking, perhaps requiring something more. Level 3 unambiguously requires [metarepresentation](/concepts/metarepresentation/)—and metarepresentation appears to require consciousness.
 
 Why should metarepresentation require consciousness?
 
@@ -186,7 +186,7 @@ Buddhist no-self traditions offer a different critique: the article assumes subj
 
 ### Bidirectional Interaction
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world. Theory of mind provides evidence: human social capacities exceed what [baseline-cognition](/concepts/baseline-cognition/) achieves, and the excess tracks consciousness-dependent capacities. The gap between human and great ape theory of mind—specifically at the metarepresentational levels—suggests consciousness enables cognitive operations that mere information processing cannot replicate. If consciousness were epiphenomenal, the correlation between expanded consciousness and expanded theory of mind would be coincidental. The systematic pattern supports causal efficacy.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world. Theory of mind provides evidence: human social capacities exceed what [baseline-cognition](/archive/topics/baseline-cognition/) achieves, and the excess tracks consciousness-dependent capacities. The gap between human and great ape theory of mind—specifically at the metarepresentational levels—suggests consciousness enables cognitive operations that mere information processing cannot replicate. If consciousness were epiphenomenal, the correlation between expanded consciousness and expanded theory of mind would be coincidental. The systematic pattern supports causal efficacy.
 
 ### Dualism
 
@@ -207,7 +207,7 @@ The simpler hypothesis—theory of mind is just sophisticated behaviour predicti
 ### Core Concepts
 - [metarepresentation](/concepts/metarepresentation/) — Why representing minds *as* minds requires consciousness
 - [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/) — Extended analysis of the consciousness-social cognition relationship
-- [baseline-cognition](/concepts/baseline-cognition/) — The cognitive floor from which consciousness amplifies social abilities
+- [baseline-cognition](/archive/topics/baseline-cognition/) — The cognitive floor from which consciousness amplifies social abilities
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them
 
 ### Related Topics

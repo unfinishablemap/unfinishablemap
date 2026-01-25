@@ -150,7 +150,7 @@ The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/)—named after Molière
 
 The parallel to memory is striking. When you merely *know* you've encountered something, you access the information without representing the original experience *as* an experience. When you *remember*, you represent the past event *as* your experience—you know that you experienced it. The Jourdain transition from doing-to-knowing-that-you're-doing maps directly onto the transition from know-responses to remember-responses.
 
-This suggests autonoetic consciousness may require the same metarepresentational capacity that separates human cognition from [baseline cognition](/concepts/baseline-cognition/). Great apes might possess something analogous to semantic memory and even episodic-like memory traces—they demonstrably recall past events and adjust behaviour accordingly. But without declarative metacognition, they may lack the autonoetic awareness that makes memory *mental time travel* rather than mere information access. The ape might *have* experienced the event without *knowing* it experienced the event, just as Monsieur Jourdain spoke prose without knowing he spoke prose.
+This suggests autonoetic consciousness may require the same metarepresentational capacity that separates human cognition from [baseline cognition](/archive/topics/baseline-cognition/). Great apes might possess something analogous to semantic memory and even episodic-like memory traces—they demonstrably recall past events and adjust behaviour accordingly. But without declarative metacognition, they may lack the autonoetic awareness that makes memory *mental time travel* rather than mere information access. The ape might *have* experienced the event without *knowing* it experienced the event, just as Monsieur Jourdain spoke prose without knowing he spoke prose.
 
 The paradigm reveals interesting dissociations. Amnesic patients may retain know responses while losing remember responses entirely—they recognize items as familiar but cannot re-experience learning them. Conversely, some conditions preserve remember responses for certain content while impairing know responses for other content. This double dissociation supports Tulving's claim that noetic and autonoetic consciousness are genuinely distinct, not points on a single dimension.
 
@@ -276,7 +276,7 @@ Five findings would require revision:
 
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why we can re-experience the past but not pre-experience the future
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — The procedural/declarative distinction that illuminates the remember/know divide
-- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without autonoetic metarepresentation
+- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition achieves without autonoetic metarepresentation
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How autonoetic recall connects to the phenomenology of choosing
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Working memory manipulation and the consciousness-cognition interface
 - [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness and the phenomenology of knowing

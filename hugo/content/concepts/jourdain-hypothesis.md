@@ -34,7 +34,7 @@ topics:
 
 Apes have culture but may not know they have culture. This is the Jourdain Hypothesis, named after Monsieur Jourdain in Molière's *Le Bourgeois Gentilhomme*, who discovers to his astonishment that he has been speaking prose all his life. The hypothesis, articulated by Andrew Whiten (2015), captures a crucial distinction: having mental states versus representing oneself as having them. Great apes possess cultural traditions—tool-use techniques, grooming patterns, food preferences that vary between groups—but may not represent these as "our way of doing things" subject to deliberate evaluation and modification.
 
-The Unfinishable Map takes this distinction as evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If the difference between procedural and declarative metacognition marks the boundary between [baseline](/concepts/baseline-cognition/) and consciousness-amplified cognition, and if metarepresentation requires phenomenal consciousness, then consciousness causally enables capacities humans possess and apes lack—including [cumulative culture](/concepts/cumulative-culture/), explicit reasoning, and deliberate self-improvement.
+The Unfinishable Map takes this distinction as evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If the difference between procedural and declarative metacognition marks the boundary between [baseline](/archive/topics/baseline-cognition/) and consciousness-amplified cognition, and if metarepresentation requires phenomenal consciousness, then consciousness causally enables capacities humans possess and apes lack—including [cumulative culture](/concepts/cumulative-culture/), explicit reasoning, and deliberate self-improvement.
 
 ## The Literary Reference
 
@@ -200,7 +200,7 @@ The simpler hypothesis—that all metacognition is really procedural, that the a
 
 - [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/) — Where the procedural/declarative distinction is clearest: theory of mind levels, shared intentionality, and empathy
 - [metarepresentation](/concepts/metarepresentation/) — The capacity to represent representations as representations
-- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without metarepresentation
+- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition achieves without metarepresentation
 - [cumulative-culture](/concepts/cumulative-culture/) — Why cultural ratcheting requires the Jourdain transition
 - [metacognition](/concepts/metacognition/) — The enabling relation between consciousness and self-monitoring
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances baseline cognitive capacity

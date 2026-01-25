@@ -1,9 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-19 20:30:00+00:00
+ai_modified: 2026-01-25 15:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
+coalesced_from:
+- /topics/altered-states-consciousness/
 concepts:
 - '[[minimal-consciousness]]'
 - '[[filter-theory]]'
@@ -23,6 +25,10 @@ last_deep_review: 2026-01-19 20:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[phenomenology]]'
+- '[[eastern]]'
+- '[[neurophenomenology]]'
+- '[[epiphenomenalism]]'
 title: Altered States of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -91,9 +97,11 @@ Cessation events illuminate filter theory directly. Unlike anesthesia (where con
 
 ### Near-Death Experiences
 
-A 2024 University of Michigan study found gamma surges in dying patients—localised to the temporal-parietal-occipital junction associated with out-of-body experiences. Rivas et al. (2023) documented 120+ cases with veridical elements—accurate perceptions during apparent unconsciousness.
+A 2024 University of Michigan study found gamma surges in dying patients—localised to the temporal-parietal-occipital junction, a region specifically associated with out-of-body experiences and consciousness of embodiment. Rivas et al. (2023) documented 120+ cases with veridical elements—accurate perceptions during apparent unconsciousness.
 
-The empirical status remains contested. Sceptics note the lack of falsifiable predictions; advocates argue that some cases resist conventional explanation. What is clear: these experiences involve altered consciousness precisely when the brain's filtering function is maximally compromised—consistent with filter theory's prediction that reduced filtering allows expanded experience.
+The empirical status remains contested. Sceptics note the lack of falsifiable predictions and that some neural activity persists, so consciousness has not been shown to exist entirely without brain function. Advocates argue that some cases resist conventional explanation, and that organised, coherent experiences occurring when the brain is catastrophically failing fits awkwardly with production models. A failing generator should produce failing outputs; a failing filter might still transmit clearly.
+
+What is clear: these experiences involve altered consciousness precisely when the brain's filtering function is maximally compromised—consistent with filter theory's prediction that reduced filtering allows expanded experience.
 
 ## Boundary States: Where ASCs Meet Minimal Consciousness
 
