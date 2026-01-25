@@ -54,6 +54,9 @@ TWEET_HOUR_UTC = 7
 # Minimum P0-P2 tasks before replenishment
 MIN_QUEUE_TASKS = 3
 
+# Agent author for automated commits
+AGENT_AUTHOR = "unfinishablemap.org Agent <agent@unfinishablemap.org>"
+
 
 class GitError(Exception):
     """Raised when a git command fails."""
@@ -156,6 +159,69 @@ def git_push() -> None:
         raise GitError("git push", result.returncode, result.stdout, result.stderr)
 
 
+def has_uncommitted_changes() -> bool:
+    """Check if there are uncommitted changes (staged or unstaged)."""
+    result = subprocess.run(
+        ["git", "status", "--porcelain"],
+        capture_output=True,
+        text=True,
+        cwd=REPO_ROOT,
+    )
+    return bool(result.stdout.strip())
+
+
+def commit_as_agent(skill_name: str, task_info: str | None = None) -> str | None:
+    """Commit any uncommitted changes with agent authorship.
+
+    Args:
+        skill_name: Name of the skill that made the changes
+        task_info: Optional additional context (e.g., file reviewed)
+
+    Returns:
+        Commit hash if a commit was made, None otherwise
+    """
+    if not has_uncommitted_changes():
+        return None
+
+    # Stage all changes
+    result = subprocess.run(
+        ["git", "add", "-A"],
+        capture_output=True,
+        text=True,
+        cwd=REPO_ROOT,
+    )
+    if result.returncode != 0:
+        raise GitError("git add -A", result.returncode, result.stdout, result.stderr)
+
+    # Build commit message
+    if task_info:
+        message = f"auto({skill_name}): {task_info}"
+    else:
+        message = f"auto({skill_name}): Automated execution"
+
+    # Commit with agent author
+    result = subprocess.run(
+        ["git", "commit", "--author", AGENT_AUTHOR, "-m", message],
+        capture_output=True,
+        text=True,
+        cwd=REPO_ROOT,
+    )
+    if result.returncode != 0:
+        # Check if it's just "nothing to commit"
+        if "nothing to commit" in result.stdout:
+            return None
+        raise GitError("git commit", result.returncode, result.stdout, result.stderr)
+
+    # Get commit hash
+    result = subprocess.run(
+        ["git", "rev-parse", "HEAD"],
+        capture_output=True,
+        text=True,
+        cwd=REPO_ROOT,
+    )
+    return result.stdout.strip()[:8] if result.returncode == 0 else None
+
+
 # -----------------------------------------------------------------------------
 # Validation (runs before push)
 # -----------------------------------------------------------------------------
@@ -200,14 +266,29 @@ def run_skill(
     invocation: SkillInvocation,
     timeout_seconds: int = 5400,
     verbose: bool = True,
+    skip_commit: bool = False,
 ) -> tuple[bool, str]:
     """Run a skill via Claude CLI.
+
+    Args:
+        invocation: The skill to invoke
+        timeout_seconds: Maximum time to wait
+        verbose: Whether to use verbose Claude output
+        skip_commit: If True, append instruction to skip git commit
 
     Returns:
         Tuple of (success: bool, output: str)
     """
     prompt = invocation.to_prompt()
-    log.info(f"Invoking: {prompt}")
+    if skip_commit:
+        prompt += (
+            " IMPORTANT: Do NOT create a git commit. "
+            "Leave changes uncommitted - the automation system will handle committing."
+        )
+
+    # Show timestamp for monitoring hung executions
+    now = datetime.now(timezone.utc)
+    log.info(f"[{now.strftime('%Y-%m-%d %H:%M:%S')} UTC] Invoking: {prompt}")
 
     cmd = [
         "claude",
@@ -300,10 +381,18 @@ def run_session(
                 SkillInvocation("replenish-queue"),
                 timeout_seconds=timeout,
                 verbose=verbose,
+                skip_commit=True,
             )
             if success:
                 tasks_executed.append("replenish-queue")
                 todo_content = load_todo()  # Reload
+                # Commit any changes with agent authorship
+                try:
+                    commit_hash = commit_as_agent("replenish-queue")
+                    if commit_hash:
+                        log.info(f"Committed as agent: {commit_hash}")
+                except GitError as e:
+                    log.warning(f"Failed to commit: {e.command}")
         except (SkillTimeout, Exception) as e:
             log.warning(f"Replenish-queue failed: {e}")
 
@@ -336,6 +425,7 @@ def run_session(
             invocation,
             timeout_seconds=timeout,
             verbose=verbose,
+            skip_commit=True,  # We'll commit with agent authorship below
         )
 
         task_name = f"{invocation.skill}"
@@ -353,6 +443,15 @@ def run_session(
                     log.info(f"Marked task completed in todo.md: {queue_task.title}")
                 except Exception as e:
                     log.warning(f"Failed to mark task completed: {e}")
+
+            # Commit any changes with agent authorship
+            try:
+                task_info = invocation.args[:50] if invocation.args else None
+                commit_hash = commit_as_agent(invocation.skill, task_info)
+                if commit_hash:
+                    log.info(f"Committed as agent: {commit_hash}")
+            except GitError as e:
+                log.warning(f"Failed to commit: {e.command}")
 
             # Record in recent_tasks
             state.recent_tasks.append(
@@ -413,10 +512,18 @@ def run_session(
                     SkillInvocation(trigger_task),
                     timeout_seconds=timeout,
                     verbose=verbose,
+                    skip_commit=True,
                 )
                 if success:
                     tasks_executed.append(trigger_task)
                     state.last_runs[trigger_task] = now
+                    # Commit any changes with agent authorship
+                    try:
+                        commit_hash = commit_as_agent(trigger_task)
+                        if commit_hash:
+                            log.info(f"Committed as agent: {commit_hash}")
+                    except GitError as e:
+                        log.warning(f"Failed to commit: {e.command}")
             except (SkillTimeout, Exception) as e:
                 log.warning(f"Cycle trigger {trigger_task} failed: {e}")
 
