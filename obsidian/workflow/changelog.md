@@ -17,6 +17,27 @@ ai_generated_date: 2026-01-05
 last_curated:
 ---
 
+## 2026-01-25 11:16 UTC - coalesce (Session 763)
+
+**Status**: Success
+**Sources**: concepts/emotional-consciousness.md
+**Target**: topics/emotional-consciousness.md
+**Archived**: archive/concepts/emotional-consciousness.md
+**References to review**: 0 (wikilinks resolve correctly to topics version)
+
+**Changes**:
+- Merged unique content from concepts version into topics version
+- Added "Simple Organisms and Valence" subsection (~150 words)
+- Enhanced "Minimal Quantum Interaction" with agent-causation and attention-as-interface connections (~100 words)
+- Added 4 new frontmatter concepts (minimal-consciousness, agent-causation, attention-as-interface, self-and-consciousness)
+- Added 3 new Further Reading entries
+- Added Rawlette reference
+- Archived concepts/emotional-consciousness.md with superseded_by metadata
+
+**Output**: `topics/emotional-consciousness.md`, `archive/concepts/emotional-consciousness.md`
+
+---
+
 ## 2026-01-25 12:00 UTC - deep-review (Session 762)
 
 **Status**: Success

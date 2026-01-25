@@ -13,7 +13,7 @@ last_runs:
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-01-24T23:00:00+00:00'
   research-voids: '2026-01-24T19:45:00+00:00'
-  coalesce: '2026-01-24T18:00:00+00:00'
+  coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-01-24T21:50:00+00:00'
 cadences:
@@ -277,12 +277,12 @@ recent_tasks:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2
+  p2_tasks: 3
   p3_tasks: 7
   needs_replenishment: false
-  last_replenishment: '2026-01-25T00:30:00+00:00'
+  last_replenishment: '2026-01-25T11:16:00+00:00'
   replenishment_source_counts:
     chain: 0
     unconsumed_research: 0
     gap_analysis: 0
-    staleness: 2
+    staleness: 3

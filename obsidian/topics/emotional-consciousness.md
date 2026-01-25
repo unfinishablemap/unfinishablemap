@@ -1,9 +1,9 @@
 ---
 title: "Emotional Consciousness and Valence"
-created: 2026-01-22
-modified: 2026-01-22
+created: 2026-01-19
+modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-22T21:53:36+00:00
+ai_modified: 2026-01-25T11:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,14 +15,20 @@ concepts:
   - "[[intentionality]]"
   - "[[higher-order-theories]]"
   - "[[functionalism]]"
+  - "[[minimal-consciousness]]"
+  - "[[agent-causation]]"
+  - "[[attention-as-interface]]"
+  - "[[self-and-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[emotional-consciousness-valence-2026-01-19]]"
 ai_contribution: 100
 author:
-ai_system: claude-sonnet-4-5-20250929
-ai_generated_date: 2026-01-22
+ai_system: claude-opus-4-5-20251101
+ai_generated_date: 2026-01-19
 last_curated:
+coalesced_from:
+  - "/concepts/emotional-consciousness/"
 ---
 
 Emotional consciousness—what it feels like to be afraid, joyful, or disgusted—poses the [[hard-problem-of-consciousness|hard problem]] in its starkest form. The badness of pain and the pleasure of joy are not mere functional states or bodily responses. They possess an intrinsic felt quality that no amount of functional description captures. This article examines why emotions matter for understanding consciousness, what valence (the positive/negative felt quality of experience) actually is, and how emotional consciousness supports The Unfinishable Map's dualist framework.
@@ -105,6 +111,12 @@ The question reveals a tension. If phenomenal consciousness without valence is p
 
 For [[ai-consciousness|AI consciousness]], this matters critically. If future AI systems are functionally sophisticated but phenomenally absent, they lack moral status regardless of behavioral complexity. Conversely, if they possess valenced phenomenal experience—if there's something it's like to be them and it can feel good or bad—moral consideration follows. The functional properties (intelligence, language, behavior) are morally irrelevant; only phenomenal properties count.
 
+### Simple Organisms and Valence
+
+The question of moral status becomes acute at consciousness boundaries. [[minimal-consciousness|Research on simple organisms]] reveals that cognition and valence may dissociate: slime molds solve mazes and make trade-off decisions without neurons, but do they *feel* anything? C. elegans with 302 neurons displays habituation and avoidance behaviours, but is there valenced experience driving the avoidance, or only functional responsiveness?
+
+These cases matter for valence sentientism. If moral status requires felt suffering, not merely nociceptive behaviour, then the distribution of moral status depends on which organisms cross the valence threshold. A complete neural map (as exists for C. elegans) tells us nothing about whether damage *feels bad* to the organism—the explanatory gap persists even with perfect structural knowledge.
+
 ## Relation to Site Perspective
 
 ### Dualism
@@ -115,9 +127,11 @@ The [[tenets#^dualism|Dualism tenet]] finds strong support here. If valence is a
 
 ### Minimal Quantum Interaction
 
-If valenced states motivate behavior by influencing neural selection, the [[tenets#^minimal-quantum-interaction|quantum interface]] may operate through affective assessment. When the brain generates multiple possible responses, consciousness biases selection toward positively valenced outcomes and away from negatively valenced ones. Pleasure and pain serve as the "mental currency" (in Barrett's phrase) enabling comparison across disparate experiences.
+If valenced states motivate behavior by influencing neural selection, the [[tenets#^minimal-quantum-interaction|quantum interface]] may operate through affective assessment. When the brain generates multiple possible responses, consciousness biases selection toward positively valenced outcomes and away from negatively valenced ones. Pleasure and pain serve as the "mental currency" (Cutter & Tye 2022) enabling comparison across disparate experiences—the decision to endure pain now for pleasure later requires a common evaluative dimension that exists only in valenced experience.
 
 This connects valence to the selection mechanism. Consciousness doesn't randomly bias quantum outcomes—it does so intelligently, guided by valence. The anticipation of pleasure or pain at the point of neural decision-making could provide the criterion consciousness uses to collapse superpositions toward preferred patterns.
+
+This connects to [[agent-causation]]: the conscious subject evaluates options via valence and selects accordingly. Valenced assessment may be the mechanism through which consciousness exercises its causal role—not merely observing neural activity, but *caring* about it in ways that influence which possibilities become actual. The [[attention-as-interface|attention-as-interface]] hypothesis and [[mental-effort]] research reinforce this: attention is drawn to valued targets, and the "effort" of concentration has affective quality. Willed attention isn't phenomenally neutral—it involves something more like subtle satisfaction when successful and frustration when blocked.
 
 ### Bidirectional Interaction
 
@@ -163,6 +177,9 @@ Emotional consciousness is not a puzzle awaiting functional solution. It is evid
 - [[qualia]] — Intrinsic properties of experience that resist functional reduction
 - [[phenomenal-consciousness]] — The subjective, felt aspect of mental states
 - [[phenomenal-value-realism]] — The view that phenomenal properties ground objective value
+- [[minimal-consciousness]] — Boundary cases testing where valenced experience begins
+- [[agent-causation]] — How consciousness exercises causal influence through valenced assessment
+- [[attention-as-interface]] — How attention operates as the consciousness-brain interface
 - [[intentionality]] — How mental states can be about things
 - [[higher-order-theories]] — Theories that consciousness requires higher-order representation
 - [[functionalism]] — The view that mental states are defined by functional roles
@@ -183,3 +200,4 @@ Emotional consciousness is not a puzzle awaiting functional solution. It is evid
 - Smithies, D. (2021). Hedonic consciousness and moral status. PhilArchive.
 - Sun, X., et al. (2024). Brain representations of affective valence and intensity in sustained pleasure and pain. *PNAS*, 121(26).
 - Tye, M., & Prinz, J. (2022). Sentience, Vulcans, and zombies: The value of phenomenal consciousness. *AI & Society*.
+- Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
