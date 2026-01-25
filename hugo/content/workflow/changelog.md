@@ -18,6 +18,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 19:45 UTC - deep-review
+
+**Status**: Success
+**File**: concepts/intersubjectivity.md
+**Word count**: 1648 → 1846 (+198)
+**Critical issues addressed**: 0
+**Medium issues addressed**: 3
+**Enhancements made**: 4
+**Output**: `reviews/deep-review-2026-01-25-intersubjectivity.md`
+
+---
+
 ## 2026-01-25 10:30 UTC - condense (user-requested, second pass)
 
 **Status**: Success
