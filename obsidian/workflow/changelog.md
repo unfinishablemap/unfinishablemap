@@ -17,6 +17,27 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 14:54 UTC - deep-review (user-requested)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25 (same day)
+**Word count**: 2691 → 2748 (+57 words, length-neutral mode)
+**Critical issues addressed**: 2
+**Medium issues addressed**: 3
+**Enhancements made**: 5
+
+**Changes**:
+- Front-loaded honest limitation about empirical indistinguishability (moved from Relation to Site Perspective to opening)
+- Fuller engagement with Deutsch-Wallace decision theory (not just "contested" but explaining what it argues and critics respond)
+- Strengthened decoherence objection language ("severe" instead of "contested", acknowledges most physicists find it inadequate)
+- Dialectical engagement with MWI defender's response to indexical objection before rejecting it
+- Added explanation of what Frauchiger-Renner theorem actually shows
+
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-2.md`
+
+---
+
 ## 2026-01-25 14:50 UTC - deep-review
 
 **Status**: Success
