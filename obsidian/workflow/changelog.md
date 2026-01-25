@@ -17,6 +17,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 20:24 UTC - deep-review (user-requested, forty-fifth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T20:19:33+00:00
+**Word count**: 2446 → 2498 (+52 words, at soft threshold)
+**Critical issues addressed**: 3
+- Wallace/MWI treatment was dismissive → acknowledged derivation succeeds for subjectivists; clarified substantive disagreement
+- "Structural point" after mechanism failure was evasive → clarified Map defends coherence, not truth
+- Tension between "philosophical framework" and empirical claims → added explicit epistemological framing
+**Medium issues addressed**: 2
+- Functionalist response restated intuition → now argues dissolution-by-stipulation threatens other subjective facts
+- MWI "branch" claim needed engagement → addressed directly that MWI relocates rather than dissolves indexical question
+**Enhancements made**: 4 (fairer MWI engagement, explicit structural/mechanistic distinction, stronger functionalist response, new indexical paragraph)
+**Report**: `reviews/deep-review-2026-01-25-measurement-problem-45.md`
+
+---
+
 ## 2026-01-25 20:19 UTC - deep-review (user-requested, forty-fourth review)
 
 **Status**: Success

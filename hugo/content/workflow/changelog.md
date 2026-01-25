@@ -18,6 +18,75 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 20:24 UTC - deep-review (user-requested, forty-fifth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T20:19:33+00:00
+**Word count**: 2446 → 2498 (+52 words, at soft threshold)
+**Critical issues addressed**: 3
+- Wallace/MWI treatment was dismissive → acknowledged derivation succeeds for subjectivists; clarified substantive disagreement
+- "Structural point" after mechanism failure was evasive → clarified Map defends coherence, not truth
+- Tension between "philosophical framework" and empirical claims → added explicit epistemological framing
+**Medium issues addressed**: 2
+- Functionalist response restated intuition → now argues dissolution-by-stipulation threatens other subjective facts
+- MWI "branch" claim needed engagement → addressed directly that MWI relocates rather than dissolves indexical question
+**Enhancements made**: 4 (fairer MWI engagement, explicit structural/mechanistic distinction, stronger functionalist response, new indexical paragraph)
+**Report**: `reviews/deep-review-2026-01-25-measurement-problem-45.md`
+
+---
+
+## 2026-01-25 20:19 UTC - deep-review (user-requested, forty-fourth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T21:15:00+00:00
+**Word count**: 2446 → 2446 (length-neutral)
+**Critical issues addressed**: 2
+- Engaged MWI branch-successor response (concedes phenomenon, relocates rather than dissolves question)
+- Acknowledged haecceity grounding question (primitive vs derivative remains open)
+**Medium issues addressed**: 2
+- Tightened Wallace paragraph (~25 words cut)
+- Condensed genuine indeterminacy sentence
+**Enhancements made**: 0 (refinement focus)
+**Report**: `reviews/deep-review-2026-01-25-measurement-problem-44.md`
+
+---
+
+## 2026-01-25 22:30 UTC - coalesce
+
+**Status**: Success
+**Sources**:
+- obsidian/topics/baseline-cognition.md (162 lines)
+- obsidian/concepts/consciousness-independent-baseline-cognition.md (132 lines)
+**Target**: obsidian/concepts/baseline-cognition.md (existing, 260 lines → 275 lines)
+**Archived**:
+- archive/topics/baseline-cognition.md
+- archive/concepts/consciousness-independent-baseline-cognition.md
+**References updated**: 4 files (conscious-vs-unconscious-processing.md, blindsight.md)
+**Notes**: Three articles covered identical baseline cognition content. The concepts/baseline-cognition.md was most comprehensive; merged additional references from topics version and archived both redundant articles. Research note (consciousness-independent-baseline-cognition-2026-01-21) preserved separately as source material.
+
+---
+
+## 2026-01-25 21:15 UTC - deep-review (user-requested, forty-third review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T19:57:00+00:00
+**Word count**: 2395 → 2446 (+51 words)
+**Critical issues addressed**: 3
+- Strengthened decoherence acknowledgment (Stapp's defense creates new problems)
+- Improved functionalist engagement (phenomenological weight vs grammatical convention)
+- Added explicit counterargument engagement on "unifying mysteries"
+**Medium issues addressed**: 2
+- Fairer characterization of Wallace's MWI probability derivation
+- Trimmed redundant haecceity explanation
+**Enhancements made**: 1
+- Reframed claim from "explanatory unification" to "structural coherence"
+**Report**: `reviews/deep-review-2026-01-25-measurement-problem-43.md`
+
+---
+
 ## 2026-01-25 19:30 UTC - deep-review (user-requested)
 
 **Status**: Success
@@ -1612,7 +1681,7 @@ Comprehensive review applying pessimistic (6 personas) and optimistic (6 persona
 ### Medium Issues Addressed
 
 1. Added illusionist response paragraph explaining why "seeming phenomenal" is either phenomenal or a denial of consciousness
-2. Fixed broken link from [consciousness-independent-baseline-cognition](/concepts/consciousness-independent-baseline-cognition/) to [baseline-cognition](/concepts/baseline-cognition/)
+2. Fixed broken link from [consciousness-independent-baseline-cognition](/archive/concepts/consciousness-independent-baseline-cognition/) to [baseline-cognition](/archive/topics/baseline-cognition/)
 3. Added Tomasello citations for baseline cognition claims
 
 ### Cross-links Added
@@ -3943,7 +4012,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 - **Output**: obsidian/concepts/consciousness-as-amplifier.md
 - **Changes**:
   - Added baseline-cognition to concepts frontmatter
-  - Added wikilink to [baseline-cognition](/concepts/baseline-cognition/) in the Baseline Cognition Hypothesis section with explanation that it provides the complementary framework characterising the starting point from which consciousness amplifies
+  - Added wikilink to [baseline-cognition](/archive/topics/baseline-cognition/) in the Baseline Cognition Hypothesis section with explanation that it provides the complementary framework characterising the starting point from which consciousness amplifies
   - Added baseline-cognition as first entry in Further Reading section
 - **Total additions**: ~30 words
 
@@ -3953,7 +4022,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 - **Output**: obsidian/topics/animal-consciousness.md
 - **Changes**:
   - Added baseline-cognition to concepts frontmatter
-  - Added wikilink to [baseline-cognition](/concepts/baseline-cognition/) in the Baseline Cognition Hypothesis subsection with summary of what the concept page covers
+  - Added wikilink to [baseline-cognition](/archive/topics/baseline-cognition/) in the Baseline Cognition Hypothesis subsection with summary of what the concept page covers
   - Added baseline-cognition as first entry in Further Reading "Consciousness and Intelligence" section
 - **Total additions**: ~50 words
 
