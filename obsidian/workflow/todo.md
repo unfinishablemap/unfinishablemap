@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Condense ai-consciousness.md (8504 words, 283% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 6000-word critical threshold for topics/. Pessimistic review 2026-01-25 (evening) found additional issues: (1) conflation of independent arguments—Chinese Room, temporal-consciousness, metacognition, and quantum-interface arguments point in different directions and may conflict; (2) functionalism dismissed rather than refuted. During condensation: clarify which arguments are independent, engage functionalist responses (Shoemaker, Lewis) more seriously, and note whether the Map's position depends on all arguments or just quantum. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-25
-
 ### P2: Write voids article on defended territory
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-defended-territory-2026-01-25.md. Investigates "Occluded" voids category—thoughts that are actively blocked rather than merely difficult. Covers Wegner's ironic process theory, brain mechanisms of thought control, motivated cognition, and possibility of content-specific blocking. Builds on thoughts-that-slip-away.md, whether-real.md.
@@ -263,6 +257,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-25: Condense ai-consciousness.md (8504 words, 283% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 6000-word critical threshold for topics/. Pessimistic review 2026-01-25 (evening) found additional issues: (1) conflation of independent arguments—Chinese Room, temporal-consciousness, metacognition, and quantum-interface arguments point in different directions and may conflict; (2) functionalism dismissed rather than refuted. During condensation: clarify which arguments are independent, engage functionalist responses (Shoemaker, Lewis) more seriously, and note whether the Map's position depends on all arguments or just quantum. See /condense skill.
+- **Output**: obsidian/topics/ai-consciousness.md
 
 ### ✓ 2026-01-25: Condense hard-problem-of-consciousness.md (9332 words, 311% of target)
 - **Type**: condense
