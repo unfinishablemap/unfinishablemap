@@ -3,7 +3,7 @@ title: "The Measurement Problem"
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-25T15:40:27+00:00
+ai_modified: 2026-01-25T15:49:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-25T15:40:27+00:00
+last_deep_review: 2026-01-25T15:49:01+00:00
 ---
 
 The measurement problem is the central foundational puzzle in quantum mechanics—and it creates the logical opening for consciousness to play a role in physics. Quantum systems evolve deterministically according to the Schrödinger equation, forming superpositions of all possible states. Yet measurement yields a single, definite outcome. What causes this transition? The mathematics doesn't say. As J.S. Bell framed it: "Either the wavefunction...is not everything, or it is not right."
@@ -124,7 +124,7 @@ Henry Stapp developed the most sophisticated consciousness-based approach within
 
 Persistent probing of a neural state produces the same "answer" repeatedly, sustaining that state against evolution. Ion channels in synaptic walls serve as candidate sites. This isn't consciousness *causing* collapse from outside physics, but consciousness *selecting* among quantum possibilities through attentional focus—the orthodox "Heisenberg choice" in von Neumann's formalism.
 
-**Important challenge**: This framework faces a severe decoherence objection. Tegmark (2000) estimated quantum coherence times in brain microtubules at ~10^-13 seconds—a factor of 10^10 shorter than millisecond neural processing. Stapp's response: the quantum Zeno effect doesn't require coherence to *persist* between observations—it requires rapid *observation events* that prevent state evolution. If attention acts as repeated measurement, the relevant question is whether selection cycles can operate faster than decoherence destroys coherence. This shifts the empirical challenge from "can coherence survive?" to "can selection cycles be fast enough?"—though the second question remains unresolved.
+**Important challenge**: This framework faces a severe decoherence objection. Tegmark (2000) estimated quantum coherence times in brain microtubules at ~10^-13 seconds—a factor of 10^10 shorter than millisecond neural processing. Stapp responds that the quantum Zeno effect requires rapid *observation events*, not coherence persisting between them. Critics counter that without coherent superposition to freeze, Zeno observations have nothing to work with. The debate continues without resolution—both sides claim the burden of proof lies elsewhere.
 
 **What would challenge this view**: If neuroscience demonstrated that no quantum effects whatsoever influence neural processing—that neural computation is entirely classical at relevant scales—the physical substrate for Stapp's mechanism would disappear. The Map would then require either (a) an alternative quantum locus for consciousness-physics interaction, or (b) reconceiving the interface in non-quantum terms. The broader philosophical point—that the measurement problem creates logical space for consciousness—would survive, but the specific mechanism would not. See [[decoherence]] for detailed treatment of the timescale debate and recent experimental developments.
 
