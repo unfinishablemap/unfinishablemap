@@ -17,6 +17,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 17:39 UTC - deep-review (user-requested, twenty-fourth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T17:35:01+00:00 (twenty-third review)
+**Word count**: 2506 → 2502 (-4 words, length-neutral mode)
+**Critical issues addressed**: 3
+- MWI engagement: added specific Wallace position ("I" refers to branch-copy) and Map's counter (what makes this branch-copy the locus of phenomenology?)
+- Tegmark objection: made explicit that mainstream physics consensus considers decoherence calculation decisive
+- Functionalist dispute: reframed as methodological dispute about what counts as requiring explanation
+**Medium issues addressed**: 2
+- Honest limitation: added explicit skeptical challenge about what work "consciousness selects" does
+- Probability responses: added Greaves's "caring measure" approach alongside Wallace's decision-theoretic derivation
+**Enhancements made**: Tightened self-locating uncertainty section, sharpened prose throughout to maintain length neutrality
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-24.md`
+
+---
+
 ## 2026-01-25 17:35 UTC - deep-review (user-requested, twenty-third review)
 
 **Status**: Success

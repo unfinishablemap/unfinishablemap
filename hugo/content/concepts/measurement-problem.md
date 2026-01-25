@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-25 17:35:01+00:00
+ai_modified: 2026-01-25 17:39:19+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ date: &id001 2026-01-16
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-25 17:35:01+00:00
+last_deep_review: 2026-01-25 17:39:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,7 +42,7 @@ The measurement problem is the central foundational puzzle in quantum mechanics�
 
 This matters for consciousness studies because if collapse is real and its cause unspecified by the formalism, consciousness remains a candidate selector. The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes exactly this: consciousness biases otherwise indeterminate quantum outcomes.
 
-**Honest limitation**: Consciousness-selection within Born probabilities is currently empirically indistinguishable from truly random collapse—this framework predicts exactly what standard quantum mechanics predicts. A theory making no distinct predictions cannot be empirically tested; this is a genuine methodological concern. Positive evidence would require demonstrating correlations between conscious states and quantum outcomes in neural tissue—a staggeringly difficult experiment. The Map treats this as a philosophical framework compatible with physics, not a competing scientific theory. This distinction matters: the Map cites physics literature to show where explanatory gaps exist, not to make testable claims. Unfalsifiability is a real limitation, not merely a temporary obstacle.
+**Honest limitation**: This framework predicts exactly what standard quantum mechanics predicts—consciousness-selection within Born probabilities is empirically indistinguishable from random collapse. This is a serious methodological concern, not a minor caveat. An unfalsifiable position isn't a scientific theory; the Map treats it as a philosophical framework compatible with physics rather than a competing physical hypothesis. The Map cites physics to show where explanatory gaps exist, not to make testable claims. Skeptics reasonably ask: if it makes no distinct predictions, what work does "consciousness selects" do beyond labeling our ignorance? The Map's answer: it provides a coherent framework linking the measurement problem to the hard problem—both involve first-person facts that third-person descriptions fail to capture. Whether this constitutes explanation or merely redescription remains contested.
 
 ## The Problem Stated
 
@@ -64,11 +64,11 @@ The standard measurement problem asks: why does the quantum system exhibit a def
 
 This [indexical gap](/topics/indexical-identity-quantum-measurement/) connects the measurement problem to the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/). Both share the same structure: third-person descriptions fail to capture first-person facts—the [qualitative character](/concepts/qualia/) of experience. No physical description captures *why I am experiencing spin-up rather than spin-down*—or so the Map holds.
 
-Functionalists contest this. Dennett's heterophenomenology argues that what needs explaining is why systems *report* indexical experiences, not why they *have* them—since the latter may presuppose what it seeks to prove.
+Functionalists contest this. Dennett's heterophenomenology argues that explaining why systems *report* having indexical experiences is explanatorily sufficient—"what it's like" adds nothing if it has no causal or predictive consequences.
 
-The Map's response: heterophenomenology explains *that* systems report experiences but not *why there's something it's like* to be that system. The functional account tracks third-person facts about reporting behavior; the first-person fact—what it's like from the inside—remains untouched. Dennett rejects this framing: once the functional story is told, nothing remains unexplained. This is an axiom clash, not an argument one side wins. The Map's grounds for affirming a further fact rest on the zombie argument and knowledge argument (see [arguments-for-dualism](/concepts/arguments-for-dualism/)); functionalists reject these as confused rather than refuted.
+The Map's response: this assumes that only causally or predictively relevant facts need explaining—a methodological commitment, not a self-evident truth. The zombie and knowledge arguments (see [arguments-for-dualism](/concepts/arguments-for-dualism/)) purport to show that phenomenal facts are genuine explananda beyond functional organization. Dennett rejects these arguments as confused. The dispute is ultimately about what counts as requiring explanation—an axiom clash that neither side wins through argument alone.
 
-The indexical question asks: what makes the fact that *I* experience this outcome true? MWI defenders argue "self-locating uncertainty" suffices—you should be uncertain which branch you occupy, just as you might be uncertain which room you woke in. But the Map holds this analogy fails: room-uncertainty involves one world with an unknown indexical fact, while MWI involves multiple worlds where all outcomes occur equally. The uncertainty framework seems inapplicable when every possibility is realized.
+The indexical question asks: what makes the fact that *I* experience this outcome true? MWI defenders invoke "self-locating uncertainty"—you should be uncertain which branch you occupy. The Map holds this analogy fails: room-uncertainty presupposes one world with a determinate but unknown fact, while MWI posits multiple equally-real worlds where every possibility occurs. What is there to be uncertain about when all outcomes are realized?
 
 This dimension reveals a blind spot across all major interpretations:
 - **QBism** treats probabilities as subjective beliefs, bracketing what consciousness is or why it has determinate content
@@ -96,9 +96,9 @@ All outcomes occur. The universe branches at every quantum event; all branches a
 
 **Relation to site tenets:** **Directly rejected** by [No Many Worlds](/tenets/#no-many-worlds). See [many-worlds](/arguments/many-worlds/) for detailed arguments. Key objections: (1) indexical—why am I *this* branch?; (2) probability—what does "70% probable" mean if all outcomes occur?; (3) mental causation excluded—incompatible with [Bidirectional Interaction](/tenets/#bidirectional-interaction).
 
-MWI has sophisticated responses. Wallace derives Born probabilities from decision-theoretic coherence constraints; Saunders and Wallace argue "self-locating uncertainty" addresses indexicality. Wallace explicitly addresses the singular-perspective concern: his derivation shows rational agents *should* weight outcomes by Born probabilities regardless of how identity is handled across branches.
+MWI has sophisticated responses. Wallace derives Born probabilities from decision-theoretic coherence constraints; Greaves develops an alternative "caring measure" approach. Saunders and Wallace argue "self-locating uncertainty" addresses indexicality—Wallace explicitly argues rational agents *should* weight outcomes by Born probabilities regardless of how personal identity is handled across branches.
 
-The Map's response: Wallace's derivation succeeds on its own terms, but the indexical problem runs deeper than decision theory reaches. MWI defenders argue the indexical question is *confused*—"I" just refers to this branch-copy. The Map holds this dissolves rather than answers the question: if "I" denotes a branch-copy, what makes *this* branch-copy the one whose experiences constitute my phenomenology? "I" in "I experience spin-up" picks out the subject of experience, not just a physical system; renaming the reference doesn't explain the phenomenological fact. This is a fundamental disagreement about whether phenomenological singularity is a genuine explanandum or a confused question.
+The Map acknowledges this response but finds it insufficient. Wallace's position: the indexical question "why am I in this branch?" is confused—"I" simply refers to this branch-copy, and there's no further fact to explain. The Map's counter: if "I" merely denotes a physical branch-copy, what makes *this* branch-copy the locus of *my* phenomenology? The term "I" in "I experience spin-up" picks out a subject of experience, not just a physical system; stipulating a new reference doesn't explain why there's something it's like to be that system. This is a fundamental disagreement about whether phenomenological singularity requires explanation or dissolves under analysis.
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
@@ -122,7 +122,7 @@ Conscious observation precipitates collapse. Von Neumann's formalism permits pla
 
 Henry Stapp developed the most detailed consciousness-based approach within orthodox quantum mechanics—though it remains speculative, contested, and represents a minority position even among quantum consciousness theorists. His key insight: mental effort can protract desired neural assemblies through the quantum Zeno effect—where rapid, repeated observation prevents state evolution. This is consciousness *selecting* among quantum possibilities through attentional focus—the orthodox "Heisenberg choice" in von Neumann's formalism—not causing collapse from outside physics.
 
-**Decoherence challenge**: This framework faces a severe objection reflecting mainstream physics consensus. Tegmark (2000) estimated quantum coherence times in brain microtubules at ~10^-13 seconds—far shorter than neural timescales. Stapp responds that Zeno effects require rapid *observation events*, not persistent coherence. Critics counter that without coherent superposition to freeze, Zeno observations have nothing to work with—and Stapp hasn't explained what these "observation events" physically are. Tegmark's position has scientific consensus; Stapp's response remains speculative. The burden of proof falls on quantum consciousness—a significant obstacle, not a minor detail.
+**Decoherence challenge**: This framework faces a severe objection representing mainstream physics consensus. Tegmark (2000) calculated quantum coherence times in neural systems at ~10^-13 seconds—far shorter than neural timescales (~10^-3 seconds). Most physicists consider this calculation decisive: the brain is too warm and wet for quantum effects to matter. Stapp responds that Zeno effects require rapid *observation events*, not persistent coherence—but critics counter that without coherent superposition to freeze, there's nothing for Zeno observations to work with. Stapp hasn't explained what these "observation events" physically are. The burden of proof lies squarely with quantum consciousness proposals.
 
 **What would challenge this view**: If neuroscience demonstrated that neural computation is entirely classical at relevant scales, Stapp's mechanism would fail. The Map would require either an alternative quantum locus or reconceiving the interface in non-quantum terms. The broader philosophical point—that the measurement problem creates logical space for consciousness—would survive, but the specific mechanism would not. See [decoherence](/concepts/decoherence/) for detailed treatment.
 
