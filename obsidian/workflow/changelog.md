@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 18:26 UTC - coalesce
+
+**Status**: No action - no candidates found
+**Candidates examined**:
+1. Attention articles (attention.md, attention-as-interface.md, attention-schema-theory.md) - Well-differentiated: survey, hypothesis development, theory critique
+2. Psychophysical articles (psychophysical-laws.md, psychophysical-coupling-law.md, psychophysical-coupling-mechanisms.md) - Well-differentiated: philosophical foundation, specification problem, mechanism proposals
+3. Consciousness amplifier articles (consciousness-as-amplifier.md, consciousness-independent-baseline-cognition.md) - Complementary: one describes the process, one describes the starting point
+**Finding**: After five iterations of searching concepts/, topics/, and voids/, no articles with genuine redundancy were identified. All examined pairs serve distinct purposes within the Map's architecture. The content is intentionally differentiated.
+**Recommendation**: No coalescing required at this time.
+
+---
+
 ## 2026-01-25 18:06 UTC - deep-review (user-requested, twenty-seventh review)
 
 **Status**: Success
