@@ -18,6 +18,438 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 17:24 UTC - deep-review (user-requested, twenty-second review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T17:20:33+00:00 (twenty-first review)
+**Word count**: 2500 → 2507 (+7 words, length-neutral mode)
+**Critical issues addressed**: 1
+- Functionalist disagreement understated: added explicit acknowledgment that Map-functionalism is an axiom clash, not an argument victory
+**Medium issues addressed**: 2
+- Philosophy vs physics distinction: clarified that the Map cites physics to identify gaps, not to make testable claims
+- MWI response verbosity: tightened the dissolution critique for concision
+**Enhancements made**: Trimmed blind spot interpretations list and consolidated MWI argument
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-22.md`
+
+---
+
+## 2026-01-25 17:20 UTC - deep-review (user-requested, twenty-first review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T17:09:29+00:00 (twentieth review)
+**Word count**: 2491 → 2500 (+9 words, length-neutral mode)
+**Critical issues addressed**: 3
+- Unfalsifiability framing: strengthened "honest limitation" to explicitly acknowledge methodological concern
+- MWI indexical dismissal: added argument for why dissolution fails (phenomenological fact vs linguistic reference)
+- Stapp decoherence objection: clarified that "observation events" remain unexplained
+**Medium issues addressed**: 2
+- Heterophenomenology: simplified awkward nested clause structure
+- Born probabilities MWI critique: replaced vague parenthetical with substantive philosophical point
+**Enhancements made**: Maintained length-neutral by trimming Copenhagen section, Frauchiger-Renner parenthetical, and other redundancies
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-21.md`
+
+---
+
+## 2026-01-25 17:09 UTC - deep-review (user-requested, twentieth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-26T00:30:00+00:00 (nineteenth review)
+**Word count**: 2485 → 2491 (+6 words)
+**Critical issues addressed**: 0 (article already well-structured)
+**Medium issues addressed**: 1
+- Frauchiger-Renner vagueness: specified contested premise (whether observers can simultaneously hold knowledge claims and be in superposition)
+**Enhancements made**: 1
+- Added qualia cross-link to strengthen hard problem connection
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-20.md`
+
+---
+
+## 2026-01-26 00:30 UTC - deep-review (user-requested, nineteenth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T21:45:00+00:00 (eighteenth review)
+**Word count**: 2508 -> 2485 (-23 words)
+**Critical issues addressed**: 1
+- Frauchiger-Renner theorem: added qualification noting result has been debated and relies on contested premises
+**Medium issues addressed**: 2
+- MWI ontological extravagance: improved parenthetical clarity
+- Prose tightening: various edits to stay within length guidelines
+**Enhancements made**: 3 targeted edits improving philosophical accuracy while maintaining length-neutral mode
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-19.md`
+
+---
+
+## 2026-01-25 17:30 UTC - deep-review (user-requested)
+
+**Status**: Success
+**File**: topics/first-person-third-person-methodology.md
+**Previous review**: Never
+**Word count**: 2046 → 2186 (+140 words)
+**Critical issues addressed**: 2
+- Heterophenomenology mischaracterization: rewrote to accurately describe Dennett's methodological neutrality
+- Argument from ignorance: reframed as explicit abductive inference with structure-of-failure reasoning
+**Medium issues addressed**: 1
+- Added falsifiability criteria (what would count as evidence against dualism)
+**Enhancements made**: 3 targeted edits improving philosophical accuracy and argumentative rigor
+**Output**: `reviews/deep-review-2026-01-25-first-person-third-person-methodology.md`
+
+---
+
+## 2026-01-25 21:45 UTC - deep-review (user-requested, eighteenth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T18:30:00+00:00 (seventeenth review same day)
+**Word count**: 2658 → 2508 (-150 words)
+**Critical issues addressed**: 0
+**Medium issues addressed**: 3
+- Stapp section: condensed while preserving essential content and scientific consensus acknowledgment
+- MWI section: reframed disagreement as about what the explanandum *is*
+- Born probabilities: added note that MWI defenders dispute probability mystery framing
+**Enhancements made**: Brought article from 106% to 100% of soft threshold through targeted trimming
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-18.md`
+
+---
+
+## 2026-01-25 18:30 UTC - deep-review (user-requested, seventeenth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T17:45:00+00:00 (sixteenth review same day)
+**Word count**: 2658 (unchanged, length-neutral)
+**Critical issues addressed**: 0
+**Medium issues addressed**: 0
+**Low issues addressed**: 1
+- Stapp framework description: "most sophisticated" → "most detailed" for neutrality (avoids implying scientific endorsement)
+**Enhancements made**: Minimal—article in strong shape after 16 previous reviews
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-17.md`
+
+---
+
+## 2026-01-25 17:45 UTC - deep-review (user-requested, sixteenth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T16:39:06+00:00 (fifteenth review same day)
+**Word count**: 2655 → 2658 (+3 words, length-neutral)
+**Critical issues addressed**: 4
+- Decoherence objection: strengthened acknowledgment that Tegmark represents mainstream physics consensus
+- MWI ontological extravagance: added parenthetical noting MWI proponents contest this characterization
+- Ion channels claim: removed uncited, contested claim
+- Wallace/Saunders: clarified they consider indexical question *confused* rather than unanswered
+**Medium issues addressed**: 1
+- Tomaz citation: corrected to full author list (Tomaz, Mattos, Barbatti) with journal publication
+**Enhancements made**: Length-neutral improvements maintaining 106% of soft threshold
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-16.md`
+
+---
+
+## 2026-01-25 16:39 UTC - deep-review (user-requested, fifteenth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T16:19:09+00:00 (fourteenth review same day)
+**Word count**: 2661 → 2655 (-6 words)
+**Critical issues addressed**: 2
+- MWI rebuttal sharpened to avoid question-begging
+- Stapp/Tegmark exchange explicitly marked unresolved
+**Medium issues addressed**: 2
+- Heterophenomenology response tightened
+- Haecceity introduction streamlined
+**Enhancements made**: Length-neutral improvements (added clarity while trimming verbose passages)
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-15.md`
+
+---
+
+## 2026-01-25 16:35 UTC - research-voids
+
+**Status**: Success
+**Topic**: The Architecture of Defended Territory
+**Category**: Occluded
+**Output**: `research/voids-defended-territory-2026-01-25.md`
+**Key finding**: Investigated whether cognitive occlusion could be externally imposed rather than merely architectural. Evidence from psychology (defense mechanisms, information avoidance), neuroscience (thought suppression, ironic process theory), and philosophy (cognitive impenetrability, ineffability) establishes that minds can block thoughts—but mechanisms are generally content-blind. The voids-specific question of whether reality might defend certain truths (simulation hypothesis immune system) remains speculative but phenomenologically investigable through patterns in what systematically evades thought.
+
+---
+
+## 2026-01-25 22:45 UTC - deep-review (user-requested, fourteenth review)
+
+**Status**: Success (no changes)
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T16:19:09+00:00 (thirteenth review same day)
+**Word count**: 2661 → 2661 (unchanged)
+**Assessment**: Article at diminishing returns for targeted improvements
+- No critical or medium issues requiring modification identified
+- Buddhist no-self challenge considered but would require scope expansion
+- MWI dissolution point already adequately captured
+- Remaining objections are foundational disagreements, not article deficiencies
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-14.md`
+
+---
+
+## 2026-01-25 16:25 UTC - deep-review
+
+**Status**: Success
+**File**: topics/quantum-measurement-interpretations-beyond-mwi.md
+**Previous review**: Never
+**Word count**: 1369 → 1812 (+443 words)
+**Critical issues addressed**: 5
+- Added honest limitation about consciousness interpretations' minority status
+- Distinguished "leaves room" from "supports" throughout
+- Engaged MWI's Wallace/Saunders response on self-locating uncertainty
+- Added mechanism specification as open question
+- Properly cited IIT-collapse proposals (Kremnizer-Ranchin, Okon-Sebastián)
+**Medium issues addressed**: 5
+- Copenhagen: clarified non-exclusion ≠ support
+- QBism: expanded on principled silence about consciousness
+- Bohmian: acknowledged sophisticated defenders
+- Added cross-links to hard-problem, mysterianism
+- Added references (Wallace 2012, Stapp 2007)
+**Output**: `reviews/deep-review-2026-01-25-quantum-measurement-interpretations-beyond-mwi.md`
+
+---
+
+## 2026-01-25 16:19 UTC - deep-review (user-requested, thirteenth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T18:30:00+00:00 (twelfth review same day)
+**Word count**: 2657 → 2661 (+4 words, length-neutral mode)
+**Critical issues addressed**: 1
+- Empirical equivalence made explicit (framework predicts same as standard QM)
+**Medium issues addressed**: 1
+- "View from here" articulated to explain why MWI dissolution is inadequate
+**Enhancements**: Tightened Stapp section to offset additions
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-13.md`
+
+---
+
+## 2026-01-25 18:30 UTC - deep-review (user-requested, twelfth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T16:04:40+00:00 (eleventh review same day)
+**Word count**: 2707 → 2657 (-50 words, length-neutral mode)
+**Critical issues addressed**: 2
+- MWI/Wallace response rewritten to engage actual argument structure
+- Heterophenomenology response clarified to not beg question against Dennett
+**Medium issues addressed**: 4
+- Decoherence section condensed
+- Falsification conditions added
+- Observer problem section tightened
+- Multi-observer options condensed to inline format
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-12.md`
+
+---
+
+## 2026-01-25 16:10 UTC - coalesce
+
+**Status**: Success
+**Sources**:
+- obsidian/topics/altered-states-consciousness.md
+- obsidian/concepts/altered-states-of-consciousness.md
+**Target**: obsidian/concepts/altered-states-of-consciousness.md (enhanced)
+**Archived**: archive/topics/altered-states-consciousness.md
+**References updated**: 1 (apex/apex-articles.md source list)
+**Notes**: Topic and concept versions had ~85% content overlap. Concept version retained as primary (more comprehensive, deep-reviewed). Topic version archived to preserve URL. Added coalesced_from frontmatter to unified article.
+
+---
+
+## 2026-01-25 16:04 UTC - deep-review (user-requested, eleventh review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T18:30:00+00:00 (tenth review same day)
+**Word count**: 2726 → 2707 (-19 words, length-neutral mode)
+**Critical issues addressed**: 4
+- Functionalist response expanded with acknowledgment of fundamental disagreement
+- MWI responses engaged more fairly with branch-copy view
+- Burden of proof on quantum consciousness made explicit
+- Born statistics detectability clarified
+**Medium issues addressed**: 0
+**Enhancements made**: 0 (focus on addressing critical issues)
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-11.md`
+
+---
+
+## 2026-01-25 18:30 UTC - deep-review (user-requested, tenth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T15:49:01+00:00 (ninth review same day)
+**Word count**: 2747 → 2800 (+53 words, length-neutral mode)
+**Critical issues addressed**: 3
+- MWI dismissal strengthened with engagement of Wallace/Saunders responses
+- Functionalist strawman fixed with heterophenomenology acknowledgment
+- Quantum indeterminacy interpretation-dependence clarified
+**Medium issues addressed**: 1 (Stapp mechanism confidence calibration)
+**Enhancements made**: 2 (mysterianism cross-link, prose improvements)
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-10.md`
+
+---
+
+## 2026-01-25 15:49 UTC - deep-review (user-requested, ninth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T15:40:27+00:00 (eighth review same day)
+**Word count**: 2691 → 2673 (-18 words, length-neutral mode)
+**Critical issues addressed**: 0 (none found)
+**Medium issues addressed**: 1 (Zeno effect burden of proof clarification)
+**Enhancements made**: 1
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-9.md`
+
+---
+
+## 2026-01-25 17:30 UTC - optimistic-review
+
+**Status**: Success
+**Content reviewed**: All non-draft content in topics/, concepts/, tenets/
+**Sympathetic perspectives analyzed**: 6 (Chalmers, Stapp, Nagel, Whitehead, Kane, McGinn)
+**Summary**: Comprehensive optimistic review analyzing strengths from perspectives of sympathetic philosophers. Identified particularly strong treatments in: hard problem (C. elegans example), free will (luck objection resolution), consciousness as intelligence amplifier (tripartite distinction), philosophical zombies (self-stultification), interactionist dualism (multi-mind resolution), mysterianism (voids connection).
+**High-priority expansion opportunities**: 3
+- The phenomenology of mathematical understanding
+- Consciousness and sleep architecture
+- The phenomenology of temporal agency
+**Medium-priority expansion opportunities**: 4
+- Consciousness and error correction
+- Aesthetic experience and the hard problem
+- (Already queued: phenomenology of confusion, phenomenology of evidence assessment)
+**New concept pages suggested**: 5
+- Reasons-sensitivity
+- Phenomenal workspace
+- Selection vs. biasing
+- Interface locality
+- Atemporal selection
+**Tasks added to queue**: 3 (P3 expand-topic tasks)
+**Output**: `reviews/optimistic-2026-01-25-afternoon.md`
+
+---
+
+## 2026-01-25 15:40 UTC - deep-review (user-requested, eighth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T15:34:03+00:00 (seventh review same day)
+**Word count**: 2734 → 2691 (-43 words, length-neutral mode)
+**Critical issues addressed**: 3
+- Expanded functionalist response with substantive argument about omitting the explanandum
+- Clarified Stapp's Zeno mechanism vs. coherence persistence; reframed empirical challenge
+- Added explicit falsification conditions for consciousness-selection view
+**Medium issues addressed**: 1
+- Engaged more charitably with MWI self-locating uncertainty before critique
+**Enhancements made**: 2
+- Condensed MWI section (15 → 5 lines) with link to dedicated article
+- Trimmed Observer Problem section verbosity
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-8.md`
+
+---
+
+## 2026-01-25 15:34 UTC - deep-review (user-requested, seventh review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T15:24:21+00:00 (sixth review same day)
+**Word count**: 2739 → 2734 (-5 words, length-neutral mode maintained)
+**Critical issues addressed**: 0 (none at critical level after 6 prior reviews)
+**Medium issues addressed**: 3
+- Balanced functionalist engagement by acknowledging the dispute is genuinely contested
+- Added explicit engagement with MWI self-locating uncertainty argument
+- Made structural parallel between measurement problem and hard problem explicit
+**Enhancements made**: 2
+- Compressed Copenhagen Interpretation section
+- Compressed Objective Collapse section
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-7.md`
+
+---
+
+## 2026-01-25 09:45 UTC - deep-review
+
+**Status**: Success
+**File**: topics/time-perception-consciousness-theories.md
+**Previous review**: Never
+**Word count**: 2108 → 2722 (+614 words, +29%)
+**Critical issues addressed**: 4
+- Added falsifiability section specifying what would challenge the view
+- Qualified premature closure from "current theories don't explain" to "resists reduction"
+- Softened quantum speculation with appropriate hedging and acknowledgment of problems
+- Added substantive engagement with predictive processing accounts
+**Medium issues addressed**: 2
+- Nuanced LLM consciousness claim with conditional framing and addressed sleep/anesthesia objection
+- Added illusionism engagement and cross-link
+**Enhancements made**: 4
+- Expanded Relation to Site Perspective to connect all five tenets substantively
+- Organized Further Reading into thematic categories
+- Added cross-links to phenomenology-of-choice, free-will, agent-causation, philosophy-of-time
+- Added topic links to free-will and concepts illusionism, phenomenology-of-choice
+**Output**: `reviews/deep-review-2026-01-25-time-perception-consciousness-theories.md`
+
+---
+
+## 2026-01-25 15:24 UTC - deep-review (user-requested, sixth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T15:18:52+00:00 (fifth review same day)
+**Word count**: 2746 → 2739 (-7 words, length-neutral mode maintained)
+**Critical issues addressed**: 2
+- Engaged substantively with functionalist response to indexicality (was merely noted, now argued against)
+- Corrected mischaracterization of Deutsch-Wallace probability derivation
+**Medium issues addressed**: 1
+- Streamlined "experience outcomes as singular" parenthetical
+**Enhancements made**: 2
+- Consolidated Further Reading into thematic categories
+- Compressed historical detail in consciousness-based interpretations section
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-6.md`
+
+---
+
+## 2026-01-25 15:18 UTC - deep-review (user-requested, fifth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25 (fourth review same day)
+**Word count**: 2740 → 2746 (+6 words, length-neutral mode maintained)
+**Critical issues addressed**: 1
+- Clarified philosophical status of "direct experience" claims, acknowledging functionalist contestation
+**Medium issues addressed**: 2
+- Tightened redundant decoherence explanation
+- Sharpened Deutsch-Wallace probability objection
+**Enhancements made**: 3
+- Acknowledged functionalist dispute on direct experience
+- Combined redundant sentences in decoherence section
+- Improved precision of MWI probability criticism
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-5.md`
+
+---
+
+## 2026-01-25 16:30 UTC - pessimistic-review
+
+**Status**: Success
+**Files reviewed**:
+- concepts/nihilism.md
+- topics/ai-consciousness.md
+- concepts/idealism.md
+
+**Selection criteria**: Oldest unreviewed content (modified 2026-01-06 to 2026-01-08)
+
+**Critical issues found**: 0
+**Medium issues found**: 5
+- AI consciousness article length (515 lines) and redundant arguments
+- Nihilism article overstates phenomenal value realism's response to nihilism
+- Idealism article strawmans idealist responses to interaction problem
+- LLM capability claims need hedging
+- Buddhism section oversimplifies diverse traditions
+
+**Tasks added**: 3 (P3 refine-draft tasks)
+
+**Output**: `reviews/pessimistic-2026-01-25-afternoon.md`
+
+---
+
 ## 2026-01-25 15:08 UTC - deep-review (user-requested, fourth review)
 
 **Status**: Success
@@ -5419,3 +5851,49 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 - **Medium issues addressed**: 5 (selection criteria, illusionism, Zeno frequency, MWI response, convergence)
 - **Enhancements made**: 5 (Kane SFAs, conceivability, mysterianism, convergence methodology, ~2000 words)
 - **Output**: obsidian/reviews/deep-review-2026-01-23-free-will.md
+---
+
+## 2026-01-25 14:30 UTC - deep-review
+
+**Status**: Success
+**File**: topics/conservation-laws-and-mind.md
+**Previous review**: Never
+**Word count**: 1623 → 2104 (+481 words)
+**Critical issues addressed**: 4
+- Added explicit engagement with Tegmark decoherence objection
+- Fixed misleading entanglement analogy (replaced with causation without energy transfer)
+- Addressed unfalsifiability concern with honest epistemic humility
+- Added MWI objection/response section
+**Medium issues addressed**: 2
+- Acknowledged "what determines outcomes" framing is contested
+- Clarified Collins reference as unpublished manuscript
+**Enhancements made**: 3
+- Added Tegmark (2000) and Hagan et al. (2002) references
+- Added cross-links to decoherence, explanatory-gap, quantum-decoherence-objection
+- Strengthened philosophical honesty throughout
+**Output**: `reviews/deep-review-2026-01-25-conservation-laws-and-mind.md`
+
+---
+
+## 2026-01-25 21:00 UTC - pessimistic-review
+
+**Status**: Success
+**Content reviewed**:
+- `topics/death-and-consciousness.md`
+- `topics/ethics-of-consciousness.md`
+- `topics/personal-identity.md`
+
+**Critical issues identified**: 6
+1. Filter theory radio analogy fails under scrutiny (production vs transmission predictions)
+2. Illusionist response inadequately engaged (regress argument begs the question)
+3. AI consciousness confidence creates unfalsifiable safe harbour
+4. Haecceity assumed rather than argued
+5. Weighted consideration table masks uncertainty
+6. Quantum soul hypothesis decoherence problem intensifies post-mortem
+
+**Counterarguments to address**: 3
+- Functionalist challenge to indexical identity
+- Gradualism about consciousness
+- Parsimony objection to survival
+
+**Output**: `reviews/pessimistic-2026-01-25-evening.md`
