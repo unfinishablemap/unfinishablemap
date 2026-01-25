@@ -12,10 +12,11 @@ Two scheduling layers:
 
 import argparse
 import logging
+import re
 import subprocess
 import sys
 import time
-from datetime import date, datetime, timezone
+from datetime import datetime, timezone
 from logging.handlers import TimedRotatingFileHandler
 from pathlib import Path
 
@@ -80,7 +81,7 @@ class SkillError(Exception):
         super().__init__(f"Skill {skill} failed with exit code {returncode}")
 
 
-class SkillTimeout(Exception):
+class SkillTimeoutError(Exception):
     """Raised when a skill invocation times out."""
 
     def __init__(self, skill: str, timeout_seconds: int):
@@ -308,7 +309,7 @@ def run_skill(
             timeout=timeout_seconds,
         )
     except subprocess.TimeoutExpired:
-        raise SkillTimeout(invocation.skill, timeout_seconds)
+        raise SkillTimeoutError(invocation.skill, timeout_seconds)
 
     output = result.stdout
     if result.stderr:
@@ -316,6 +317,84 @@ def run_skill(
 
     success = result.returncode == 0
     return success, output
+
+
+def run_agent_commit(
+    skill_name: str,
+    skill_output: str,
+    timeout_seconds: int = 300,
+    verbose: bool = False,
+) -> str | None:
+    """Run the agent-commit skill to create a meaningful commit.
+
+    Args:
+        skill_name: Name of the skill that made the changes
+        skill_output: Output from the skill (will be truncated if too long)
+        timeout_seconds: Maximum time to wait for commit skill
+        verbose: Whether to use verbose Claude output
+
+    Returns:
+        Commit hash if a commit was made, None otherwise
+    """
+    if not has_uncommitted_changes():
+        return None
+
+    # Truncate output to avoid overwhelming the commit skill
+    max_output_chars = 2000
+    output_summary = skill_output[:max_output_chars]
+    if len(skill_output) > max_output_chars:
+        output_summary += f"\n... (truncated, {len(skill_output)} total chars)"
+
+    # Build prompt for agent-commit skill
+    prompt = (
+        f"Run the agent-commit skill. "
+        f"Previous skill: {skill_name}. "
+        f"Output summary:\n{output_summary}"
+    )
+
+    log.info(f"Running agent-commit for {skill_name}...")
+
+    cmd = [
+        "claude",
+        "--dangerously-skip-permissions",
+        "--output-format", "text",
+    ]
+    if verbose:
+        cmd.append("--verbose")
+    cmd.extend(["-p", prompt])
+
+    try:
+        result = subprocess.run(
+            cmd,
+            capture_output=True,
+            text=True,
+            cwd=REPO_ROOT,
+            timeout=timeout_seconds,
+        )
+    except subprocess.TimeoutExpired:
+        log.warning(f"agent-commit timed out after {timeout_seconds}s")
+        # Fall back to simple commit
+        return commit_as_agent(skill_name)
+
+    if result.returncode != 0:
+        log.warning(f"agent-commit failed: {result.stderr[:200]}")
+        # Fall back to simple commit
+        return commit_as_agent(skill_name)
+
+    # Extract commit hash from output (skill should output it)
+    # Look for a short hash pattern in the output
+    hash_match = re.search(r"\b([0-9a-f]{7,8})\b", result.stdout)
+    if hash_match:
+        return hash_match.group(1)
+
+    # Check if a commit was actually made
+    check_result = subprocess.run(
+        ["git", "rev-parse", "HEAD"],
+        capture_output=True,
+        text=True,
+        cwd=REPO_ROOT,
+    )
+    return check_result.stdout.strip()[:8] if check_result.returncode == 0 else None
 
 
 # -----------------------------------------------------------------------------
@@ -369,7 +448,7 @@ def run_session(
                 log.info("Tweet-highlight completed")
             else:
                 log.warning("Tweet-highlight failed (non-fatal)")
-        except SkillTimeout:
+        except SkillTimeoutError:
             log.warning("Tweet-highlight timed out (non-fatal)")
 
     # 2. Queue health check
@@ -388,12 +467,12 @@ def run_session(
                 todo_content = load_todo()  # Reload
                 # Commit any changes with agent authorship
                 try:
-                    commit_hash = commit_as_agent("replenish-queue")
+                    commit_hash = run_agent_commit("replenish-queue", output)
                     if commit_hash:
                         log.info(f"Committed as agent: {commit_hash}")
-                except GitError as e:
-                    log.warning(f"Failed to commit: {e.command}")
-        except (SkillTimeout, Exception) as e:
+                except (GitError, Exception) as e:
+                    log.warning(f"Failed to commit: {e}")
+        except (SkillTimeoutError, Exception) as e:
             log.warning(f"Replenish-queue failed: {e}")
 
     # 3. Run next task in cycle
@@ -446,12 +525,11 @@ def run_session(
 
             # Commit any changes with agent authorship
             try:
-                task_info = invocation.args[:50] if invocation.args else None
-                commit_hash = commit_as_agent(invocation.skill, task_info)
+                commit_hash = run_agent_commit(invocation.skill, output)
                 if commit_hash:
                     log.info(f"Committed as agent: {commit_hash}")
-            except GitError as e:
-                log.warning(f"Failed to commit: {e.command}")
+            except (GitError, Exception) as e:
+                log.warning(f"Failed to commit: {e}")
 
             # Record in recent_tasks
             state.recent_tasks.append(
@@ -485,7 +563,7 @@ def run_session(
             for line in output_lines:
                 log.info(f"  {line}")
 
-    except SkillTimeout:
+    except SkillTimeoutError:
         log.error(f"Task timed out: {invocation.skill}")
         state.recent_tasks.append(
             TaskRecord(
@@ -519,12 +597,12 @@ def run_session(
                     state.last_runs[trigger_task] = now
                     # Commit any changes with agent authorship
                     try:
-                        commit_hash = commit_as_agent(trigger_task)
+                        commit_hash = run_agent_commit(trigger_task, output)
                         if commit_hash:
                             log.info(f"Committed as agent: {commit_hash}")
-                    except GitError as e:
-                        log.warning(f"Failed to commit: {e.command}")
-            except (SkillTimeout, Exception) as e:
+                    except (GitError, Exception) as e:
+                        log.warning(f"Failed to commit: {e}")
+            except (SkillTimeoutError, Exception) as e:
                 log.warning(f"Cycle trigger {trigger_task} failed: {e}")
 
     # Update state

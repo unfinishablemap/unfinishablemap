@@ -174,6 +174,7 @@ The Map includes scheduled AI automation for content development. All AI-generat
 | `/coalesce` | Combine multiple related articles into one unified piece. Archives originals to preserve URLs. | Yes (creates, archives) |
 | `/archive` | Archive an article while preserving its URL for external links. | Yes (moves to archive) |
 | `/apex-evolve` | Build and maintain apex articles—human-readable synthesis pieces. | Yes (creates, modifies) |
+| `/agent-commit` | Analyze changes and create a meaningful commit with agent authorship. Internal skill for evolve_loop. | Yes (git only) |
 
 ### Task Queue
 
