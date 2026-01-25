@@ -17,6 +17,29 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 14:50 UTC - deep-review
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-19
+**Word count**: 2694 → 2691 (length-neutral)
+**Critical issues addressed**: 4
+**Medium issues addressed**: 2
+**Enhancements made**: 6
+
+**Changes**:
+- Added testability limitation acknowledgment—consciousness-selection within Born probabilities is currently unfalsifiable
+- Added decoherence challenge paragraph to Stapp section with ~10^-13 second timescale objection
+- More nuanced treatment of Deutsch-Wallace decision-theoretic probability derivations
+- Corrected Wigner chronology (not "briefly" in 1961—developed through 1960s, later moved away)
+- Added inline author attribution (Tomaz) for 2025 review citation
+- Acknowledged hard problem denial position exists (Dennett)
+- Condensed MWI section for length neutrality
+
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem.md`
+
+---
+
 ## 2026-01-25 11:16 UTC - coalesce (Session 763)
 
 **Status**: Success
