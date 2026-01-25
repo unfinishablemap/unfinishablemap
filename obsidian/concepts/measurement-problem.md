@@ -3,7 +3,7 @@ title: "The Measurement Problem"
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-26T00:30:00+00:00
+ai_modified: 2026-01-25T17:09:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ concepts:
   - "[[indexical-identity-quantum-measurement]]"
   - "[[subjective-probability-quantum-measurement]]"
   - "[[arguments-for-dualism]]"
+  - "[[qualia]]"
 related_articles:
   - "[[tenets]]"
   - "[[indexical-identity-quantum-measurement]]"
@@ -33,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-26T00:30:00+00:00
+last_deep_review: 2026-01-25T17:09:29+00:00
 ---
 
 The measurement problem is the central foundational puzzle in quantum mechanics—and it creates the logical opening for consciousness to play a role in physics. Quantum systems evolve deterministically according to the Schrödinger equation, forming superpositions of all possible states. Yet measurement yields a single, definite outcome. What causes this transition? The mathematics doesn't say. As J.S. Bell framed it: "Either the wavefunction...is not everything, or it is not right."
@@ -60,7 +61,7 @@ Three aspects make this problematic:
 
 The standard measurement problem asks: why does the quantum system exhibit a definite outcome rather than remaining in superposition? But even granting that definite outcomes occur, a deeper question remains: why does *this* particular consciousness experience *this* particular result?
 
-This [[indexical-identity-quantum-measurement|indexical gap]] connects the measurement problem directly to the [[hard-problem-of-consciousness]]. Both share the same structure: third-person descriptions fail to capture first-person facts. No physical description captures *why I am experiencing spin-up rather than spin-down*—or so the Map holds.
+This [[indexical-identity-quantum-measurement|indexical gap]] connects the measurement problem directly to the [[hard-problem-of-consciousness]]. Both share the same structure: third-person descriptions fail to capture first-person facts—the [[qualia|qualitative character]] of experience. No physical description captures *why I am experiencing spin-up rather than spin-down*—or so the Map holds.
 
 Functionalists contest this. Dennett's heterophenomenology argues that what needs explaining is why systems *report* having indexical experiences, not why they *have* them—since the latter may presuppose what it seeks to prove. If "the system asking this question is functionally correlated with the spin-up branch" fully explains the report, why posit additional facts?
 
@@ -126,7 +127,7 @@ Henry Stapp developed the most detailed consciousness-based approach within orth
 
 ## The Observer Problem
 
-What makes an observer? Wigner's friend scenarios sharpen the question: Wigner describes his friend in superposition, but the friend perceives a definite result. Frauchiger and Renner (2018) derive contradictions when observers apply quantum mechanics to each other while assuming single outcomes—any interpretation must abandon at least one assumption. (This result has been debated; some argue it relies on contested premises about observer knowledge and memory.)
+What makes an observer? Wigner's friend scenarios sharpen the question: Wigner describes his friend in superposition, but the friend perceives a definite result. Frauchiger and Renner (2018) derive contradictions when observers apply quantum mechanics to each other while assuming single outcomes—any interpretation must abandon at least one assumption. (This result has been debated; contested premises include whether observers can simultaneously hold knowledge claims and be in superposition.)
 
 Experiments using photons as "observers" demonstrate quantum mechanics works as predicted but don't settle whether consciousness is relevant. As Maudlin noted: "Nobody thinks a photon is an observer." The observer problem remains: we know measurements yield definite results, but not what constitutes "measurement."
 
