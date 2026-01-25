@@ -17,6 +17,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 17:20 UTC - deep-review (user-requested, twenty-first review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T17:09:29+00:00 (twentieth review)
+**Word count**: 2491 → 2500 (+9 words, length-neutral mode)
+**Critical issues addressed**: 3
+- Unfalsifiability framing: strengthened "honest limitation" to explicitly acknowledge methodological concern
+- MWI indexical dismissal: added argument for why dissolution fails (phenomenological fact vs linguistic reference)
+- Stapp decoherence objection: clarified that "observation events" remain unexplained
+**Medium issues addressed**: 2
+- Heterophenomenology: simplified awkward nested clause structure
+- Born probabilities MWI critique: replaced vague parenthetical with substantive philosophical point
+**Enhancements made**: Maintained length-neutral by trimming Copenhagen section, Frauchiger-Renner parenthetical, and other redundancies
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-21.md`
+
+---
+
 ## 2026-01-25 17:09 UTC - deep-review (user-requested, twentieth review)
 
 **Status**: Success
@@ -5837,3 +5855,28 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 - Added cross-links to decoherence, explanatory-gap, quantum-decoherence-objection
 - Strengthened philosophical honesty throughout
 **Output**: `reviews/deep-review-2026-01-25-conservation-laws-and-mind.md`
+
+---
+
+## 2026-01-25 21:00 UTC - pessimistic-review
+
+**Status**: Success
+**Content reviewed**:
+- `topics/death-and-consciousness.md`
+- `topics/ethics-of-consciousness.md`
+- `topics/personal-identity.md`
+
+**Critical issues identified**: 6
+1. Filter theory radio analogy fails under scrutiny (production vs transmission predictions)
+2. Illusionist response inadequately engaged (regress argument begs the question)
+3. AI consciousness confidence creates unfalsifiable safe harbour
+4. Haecceity assumed rather than argued
+5. Weighted consideration table masks uncertainty
+6. Quantum soul hypothesis decoherence problem intensifies post-mortem
+
+**Counterarguments to address**: 3
+- Functionalist challenge to indexical identity
+- Gradualism about consciousness
+- Parsimony objection to survival
+
+**Output**: `reviews/pessimistic-2026-01-25-evening.md`
