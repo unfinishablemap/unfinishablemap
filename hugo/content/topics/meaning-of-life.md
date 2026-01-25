@@ -322,7 +322,7 @@ This won't satisfy those who demand cosmic purpose handed down from above. [Coli
 ### Consciousness and Experience
 - [witness-consciousness](/concepts/witness-consciousness/) — Pure awareness and its significance for meaning
 - [introspection](/concepts/introspection/) — First-person access and its reliability
-- [emotional-consciousness](/concepts/emotional-consciousness/) — Valence and the felt quality of experience
+- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — Valence and the felt quality of experience
 - [duration](/concepts/duration/) — Bergson's lived time and the texture of the present
 
 ### Metaphysical Framework

@@ -319,7 +319,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [decoherence](/concepts/decoherence/) - Why quantum mechanics doesn't eliminate the role for consciousness
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - The debate over whether thinking has phenomenal character
 - [semantic-memory](/concepts/semantic-memory/) - How cognitive qualia appear in memory retrieval
-- [emotional-consciousness](/concepts/emotional-consciousness/) - Affective qualia and why valence feels good or bad
+- [emotional-consciousness](/archive/concepts/emotional-consciousness/) - Affective qualia and why valence feels good or bad
 - [combination-problem](/concepts/combination-problem/) - How micro-experiences combine into unified consciousness
 - [tenets](/tenets/) - the Map's foundational commitments, especially Dualism
 - [materialism](/arguments/materialism/) - The view challenged by the existence of qualia

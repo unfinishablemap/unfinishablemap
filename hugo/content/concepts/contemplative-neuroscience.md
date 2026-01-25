@@ -107,7 +107,7 @@ Davidson's landmark fMRI research showed compassion meditation reshapes emotiona
 - Brain circuit changes that predicted kind and helpful behavior in economic games
 - First evidence that positive emotions like compassion can be learned as skills
 
-This connects to [emotional-consciousness](/concepts/emotional-consciousness/) and [phenomenal-value-realism](/concepts/phenomenal-value-realism/). If phenomenal emotional qualities (the felt badness of pain, warmth of compassion) were causally inert, how could deliberate cultivation of compassion alter emotional responses and behavior?
+This connects to [emotional-consciousness](/archive/concepts/emotional-consciousness/) and [phenomenal-value-realism](/concepts/phenomenal-value-realism/). If phenomenal emotional qualities (the felt badness of pain, warmth of compassion) were causally inert, how could deliberate cultivation of compassion alter emotional responses and behavior?
 
 The trainability of compassion demonstrates that [phenomenal character](/concepts/qualia/) isn't epiphenomenal decoration. Conscious practice in cultivating specific emotional states produces functional changes that manifest in measurable behavior. The causal pathway runs: phenomenological intention → practice → neural change → behavioral outcome.
 
@@ -239,7 +239,7 @@ Jon Kabat-Zinn's Mindfulness-Based Stress Reduction (MBSR) provides bridge betwe
 - Anxiety disorder patients: maintained improvements up to 3 years
 
 **Mechanisms:**
-- Enhanced [emotion regulation](/concepts/emotional-consciousness/): Reduced amygdala reactivity, increased prefrontal control
+- Enhanced [emotion regulation](/archive/concepts/emotional-consciousness/): Reduced amygdala reactivity, increased prefrontal control
 - Reduced rumination: DMN modulation decreases repetitive self-focused thought
 - Increased interoceptive awareness: Better recognition of bodily signals and emotional states
 - Improved [attention](/concepts/attention/) regulation: Enhanced ability to redirect attention from distressing thoughts
@@ -296,7 +296,7 @@ Contemplative neuroscience clarifies but does not close the [explanatory gap](/t
 - [Witness-consciousness](/concepts/witness-consciousness/): Eastern contemplative traditions' phenomenological framework that meditation cultivates
 - [Voluntary-attention-control](/archive/concepts/voluntary-attention-control/): Neural mechanisms underlying willed vs. instructed vs. exogenous attention
 - [Free-will](/topics/free-will/): How meditation evidence connects to agent causation and libertarian accounts
-- [Emotional-consciousness](/concepts/emotional-consciousness/): Phenomenal character of emotions and their role in consciousness
+- [Emotional-consciousness](/archive/concepts/emotional-consciousness/): Phenomenal character of emotions and their role in consciousness
 - [Epiphenomenalism](/arguments/epiphenomenalism/): Why contemplative neuroscience challenges the view that consciousness is causally inert
 - [Bidirectional-interaction](/concepts/bidirectional-interaction/): The central tenet that contemplative neuroscience supports empirically
 - [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/): Why the explanatory gap persists even with refined phenomenological and neuroscientific methods

@@ -1,36 +1,42 @@
 ---
-title: "Emotional Consciousness"
-created: 2026-01-19
-modified: 2026-01-19
-human_modified: null
-ai_modified: 2026-01-19T11:30:00+00:00
-draft: false
-topics:
-  - "[[hard-problem-of-consciousness]]"
-  - "[[ethics-of-consciousness]]"
-concepts:
-  - "[[minimal-consciousness]]"
-  - "[[qualia]]"
-  - "[[phenomenal-value-realism]]"
-  - "[[higher-order-theories]]"
-  - "[[functionalism]]"
-  - "[[self-and-consciousness]]"
-  - "[[agent-causation]]"
-related_articles:
-  - "[[tenets]]"
-  - "[[purpose-and-alignment]]"
-  - "[[emotional-consciousness-valence-2026-01-19]]"
 ai_contribution: 100
-author: null
-ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
+ai_modified: 2026-01-25 11:16:00+00:00
+ai_system: claude-opus-4-5-20251101
+archive_reason: Coalesced into Emotional Consciousness and Valence (topics)
+archived: true
+archived_date: 2026-01-25 11:16:00+00:00
+author: null
+concepts:
+- '[[minimal-consciousness]]'
+- '[[qualia]]'
+- '[[phenomenal-value-realism]]'
+- '[[higher-order-theories]]'
+- '[[functionalism]]'
+- '[[self-and-consciousness]]'
+- '[[agent-causation]]'
+created: 2026-01-19
+date: &id001 2026-01-25
+draft: false
+human_modified: null
 last_curated: null
 last_deep_review: 2026-01-19
+modified: *id001
+original_path: /concepts/emotional-consciousness/
+related_articles:
+- '[[tenets]]'
+- '[[purpose-and-alignment]]'
+- '[[emotional-consciousness-valence-2026-01-19]]'
+superseded_by: /topics/emotional-consciousness/
+title: Emotional Consciousness
+topics:
+- '[[hard-problem-of-consciousness]]'
+- '[[ethics-of-consciousness]]'
 ---
 
 Emotional consciousness is the felt quality of emotions—the way fear *feels* fearful, joy *feels* joyful, suffering *feels* bad. The central philosophical question is whether emotions require phenomenal consciousness or whether they are merely functional states that could exist without experience. If the felt quality of emotion is intrinsic and irreducible, the hard problem extends to affective experience. If emotions can be fully characterised functionally, the physicalist program succeeds for at least this domain.
 
-This page argues that the felt quality of emotion—particularly its [[#valence|valence]], the positive or negative character—is an intrinsic phenomenal property that cannot be reduced to functional or representational descriptions. Emotional consciousness presents the hard problem in its sharpest form: not just "why is there something it's like to see red?" but "why does pain *feel bad*?"
+This page argues that the felt quality of emotion—particularly its [valence](//#valence), the positive or negative character—is an intrinsic phenomenal property that cannot be reduced to functional or representational descriptions. Emotional consciousness presents the hard problem in its sharpest form: not just "why is there something it's like to see red?" but "why does pain *feel bad*?"
 
 ## Valence: The Core Phenomenon {#valence}
 
@@ -112,17 +118,17 @@ Chalmers' "philosophical Vulcan" thought experiment tests the distinction: imagi
 
 Valence sentientists say no: without the capacity for suffering, there's nothing to protect and no interests to consider. Broad sentientists say yes: the mere fact of experience creates moral significance, even absent pleasure or pain.
 
-The Map's [[phenomenal-value-realism]] aligns with valence sentientism while extending it: not just valenced experience, but multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value. All, however, are features of conscious experience. There is no value outside of consciousness.
+The Map's [phenomenal-value-realism](/concepts/phenomenal-value-realism/) aligns with valence sentientism while extending it: not just valenced experience, but multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value. All, however, are features of conscious experience. There is no value outside of consciousness.
 
 ### Simple Organisms and Valence
 
-The question becomes acute at consciousness boundaries. [[Minimal-consciousness|Research on simple organisms]] reveals that cognition and valence may dissociate: slime molds solve mazes and make trade-off decisions without neurons, but do they *feel* anything? C. elegans with 302 neurons displays habituation and avoidance behaviours, but is there valenced experience driving the avoidance, or only functional responsiveness?
+The question becomes acute at consciousness boundaries. [Research on simple organisms](/concepts/minimal-consciousness/) reveals that cognition and valence may dissociate: slime molds solve mazes and make trade-off decisions without neurons, but do they *feel* anything? C. elegans with 302 neurons displays habituation and avoidance behaviours, but is there valenced experience driving the avoidance, or only functional responsiveness?
 
 These cases matter for valence sentientism. If moral status requires felt suffering, not merely nociceptive behaviour, then the distribution of moral status depends on which organisms cross the valence threshold. A complete neural map (as exists for C. elegans) tells us nothing about whether damage *feels bad* to the organism—the explanatory gap persists even with perfect structural knowledge.
 
 ## Relation to Site Perspective
 
-Emotional consciousness directly supports several of the Map's [[tenets]]:
+Emotional consciousness directly supports several of the Map's [tenets](/tenets/):
 
 ### Dualism
 
@@ -132,27 +138,27 @@ If the felt badness of pain is an intrinsic phenomenal property—not reducible 
 
 Emotional consciousness does causal work. Valenced states don't merely correlate with behaviour—they *motivate* it. The badness of pain causes avoidance; the pleasantness of reward causes approach. If phenomenal valence were causally inert, this motivational power would be inexplicable.
 
-The research article "Consciousness Matters" (Cutter & Tye 2022) argues: "It is only in virtue of the fact that conscious agents 'experience' things and 'care' about those experiences that they are 'motivated' to act." Phenomenal experience serves as "mental currency" enabling comparison across radically different states—the decision to endure pain now for pleasure later requires a common evaluative dimension that exists only in valenced experience. If this is right, emotional consciousness is where phenomenal properties do their most obvious causal work—supporting the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]].
+The research article "Consciousness Matters" (Cutter & Tye 2022) argues: "It is only in virtue of the fact that conscious agents 'experience' things and 'care' about those experiences that they are 'motivated' to act." Phenomenal experience serves as "mental currency" enabling comparison across radically different states—the decision to endure pain now for pleasure later requires a common evaluative dimension that exists only in valenced experience. If this is right, emotional consciousness is where phenomenal properties do their most obvious causal work—supporting the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction).
 
-This connects to [[agent-causation]]: the conscious subject evaluates options via valence and selects accordingly. Valenced assessment may be the mechanism through which consciousness exercises its causal role—not merely observing neural activity, but *caring* about it in ways that influence which possibilities become actual.
+This connects to [agent-causation](/concepts/agent-causation/): the conscious subject evaluates options via valence and selects accordingly. Valenced assessment may be the mechanism through which consciousness exercises its causal role—not merely observing neural activity, but *caring* about it in ways that influence which possibilities become actual.
 
 ### The Selection Mechanism
 
 Core affect—the constant background of felt valence and arousal—may be the medium through which consciousness evaluates options. The Map's framework proposes that consciousness selects among quantum-superposed neural alternatives. Valenced experience could be how this selection happens: options that feel good are stabilised; options that feel bad are avoided. The quantum Zeno mechanism operates through valenced assessment.
 
-This connects to [[attention-as-interface]] and [[mental-effort]]: attention is drawn to valued targets, and the "effort" of concentration has affective quality. Willed attention isn't phenomenally neutral—it involves something more like subtle satisfaction when successful and frustration when blocked.
+This connects to [attention-as-interface](/concepts/attention-as-interface/) and [mental-effort](/concepts/mental-effort/): attention is drawn to valued targets, and the "effort" of concentration has affective quality. Willed attention isn't phenomenally neutral—it involves something more like subtle satisfaction when successful and frustration when blocked.
 
 ## Further Reading
 
-- [[minimal-consciousness]] — Boundary cases testing where valenced experience begins
-- [[qualia]] — The broader category of phenomenal properties, of which valence is a key instance
-- [[phenomenal-value-realism]] — The metaethical view that value is grounded in conscious experience
-- [[ethics-of-consciousness]] — Why consciousness grounds moral consideration
-- [[agent-causation]] — How consciousness exercises causal influence through valenced assessment
-- [[higher-order-theories]] — The view that conscious emotions require higher-order representation
-- [[functionalism]] — The view that mental states are functional roles, challenged by affective qualia
-- [[attention-as-interface]] — How attention operates as the consciousness-brain interface
-- [[hard-problem-of-consciousness]] — The broader explanatory gap that emotional consciousness exemplifies
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Boundary cases testing where valenced experience begins
+- [qualia](/concepts/qualia/) — The broader category of phenomenal properties, of which valence is a key instance
+- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical view that value is grounded in conscious experience
+- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Why consciousness grounds moral consideration
+- [agent-causation](/concepts/agent-causation/) — How consciousness exercises causal influence through valenced assessment
+- [higher-order-theories](/concepts/higher-order-theories/) — The view that conscious emotions require higher-order representation
+- [functionalism](/arguments/functionalism/) — The view that mental states are functional roles, challenged by affective qualia
+- [attention-as-interface](/concepts/attention-as-interface/) — How attention operates as the consciousness-brain interface
+- [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader explanatory gap that emotional consciousness exemplifies
 
 ## References
 

@@ -287,7 +287,7 @@ The Map's position: the explanatory gap reflects a real ontological gap. P-consc
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) - Physicalist response locating gap in concepts
 - [inverted-qualia](/concepts/inverted-qualia/) - Phenomenal inversion without functional difference
 - [illusionism](/concepts/illusionism/) - Denying phenomenal consciousness exists
-- [emotional-consciousness](/concepts/emotional-consciousness/) - Valence and emotional phenomenology
+- [emotional-consciousness](/archive/concepts/emotional-consciousness/) - Valence and emotional phenomenology
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - What it's like to think
 - [mysterianism](/concepts/mysterianism/) - Cognitive closure and the limits of understanding consciousness
 - [argument-from-reason](/topics/argument-from-reason/) - Why rational inference requires phenomenal consciousness

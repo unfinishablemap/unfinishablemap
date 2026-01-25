@@ -144,7 +144,7 @@ Feeling for another because you understand their situation. This adds a normativ
 
 **The key question**: Does the progression from contagion to cognitive empathy to empathic concern track increasing involvement of phenomenal consciousness?
 
-The [emotional-consciousness](/concepts/emotional-consciousness/) literature suggests that felt emotional states—the *phenomenal* character of emotions—may be required for empathic concern. You must feel something yourself to care about another's feeling in the way empathic concern involves. Understanding without feeling—pure cognitive empathy—might produce predictions of behaviour but not the motivation to help that characterises genuine concern.
+The [emotional-consciousness](/archive/concepts/emotional-consciousness/) literature suggests that felt emotional states—the *phenomenal* character of emotions—may be required for empathic concern. You must feel something yourself to care about another's feeling in the way empathic concern involves. Understanding without feeling—pure cognitive empathy—might produce predictions of behaviour but not the motivation to help that characterises genuine concern.
 
 This connects to the [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) thesis. Emotional contagion operates at the baseline level—automatic, unconscious, not requiring phenomenal awareness. Empathic concern requires the amplification consciousness provides: representing the other's state explicitly, feeling something in response, and being motivated by that feeling to act.
 
@@ -250,7 +250,7 @@ The simpler hypothesis—social cognition is just sophisticated information proc
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems could have genuine social understanding
 - [cumulative-culture](/concepts/cumulative-culture/) — How metarepresentational social cognition enables cultural ratcheting
 - [intentionality](/concepts/intentionality/) — The aboutness of mental states and its role in social understanding
-- [emotional-consciousness](/concepts/emotional-consciousness/) — The felt dimension of empathic concern
+- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — The felt dimension of empathic concern
 
 ### Research Notes
 - [consciousness-influence-intelligence-2026-01-21](/research/consciousness-influence-intelligence-2026-01-21/) — Evidence that consciousness causally contributes to intelligence

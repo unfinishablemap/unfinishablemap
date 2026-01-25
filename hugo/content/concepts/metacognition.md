@@ -215,7 +215,7 @@ Social metacognition includes affective dimensions—understanding and respondin
 - **Cognitive empathy**: Understanding what another feels—requires representing their emotional state, but might operate procedurally
 - **Empathic concern**: Feeling *for* another because you understand their situation—requires experiencing your response to your representation of their state
 
-Empathic concern is metacognitive because it involves not just representing the other's state but *caring about* that representation. This caring has phenomenal character—it's like something to feel concern for another. The [emotional-consciousness](/concepts/emotional-consciousness/) literature suggests this phenomenal dimension is essential: understanding without feeling produces prediction but not the motivation that characterises genuine concern.
+Empathic concern is metacognitive because it involves not just representing the other's state but *caring about* that representation. This caring has phenomenal character—it's like something to feel concern for another. The [emotional-consciousness](/archive/concepts/emotional-consciousness/) literature suggests this phenomenal dimension is essential: understanding without feeling produces prediction but not the motivation that characterises genuine concern.
 
 ### Implications for the Consciousness-Metacognition Relationship
 

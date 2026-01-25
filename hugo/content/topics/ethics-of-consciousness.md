@@ -79,7 +79,7 @@ Moral patienthood is the capacity to be helped or harmed in morally relevant way
 
 **Mammals and birds**: The 2012 Cambridge Declaration on Consciousness and 2024 New York Declaration affirm strong scientific support for mammalian and avian consciousness. Evolutionary continuity with humans, similar neural structures (limbic system, pain pathways), and rich behavioral repertoires all support attribution.
 
-The Panksepp-LeDoux debate in [emotional-consciousness](/concepts/emotional-consciousness/) bears on this assessment. Jaak Panksepp argued that emotional consciousness arises from ancient subcortical structures shared across all mammals—his seven primary affect systems (SEEKING, FEAR, CARE, etc.) are "evolutionarily ancient" and "anatomically subcortical." Decorticate rats still display emotional behaviour, suggesting cortical complexity isn't required for felt experience. If Panksepp is right, mammalian emotional consciousness is neurologically robust and evolutionarily deep.
+The Panksepp-LeDoux debate in [emotional-consciousness](/archive/concepts/emotional-consciousness/) bears on this assessment. Jaak Panksepp argued that emotional consciousness arises from ancient subcortical structures shared across all mammals—his seven primary affect systems (SEEKING, FEAR, CARE, etc.) are "evolutionarily ancient" and "anatomically subcortical." Decorticate rats still display emotional behaviour, suggesting cortical complexity isn't required for felt experience. If Panksepp is right, mammalian emotional consciousness is neurologically robust and evolutionarily deep.
 
 Joseph LeDoux counters that conscious emotional feelings require cortical higher-order representations. On this view, subcortical circuits produce defensive survival behaviours without felt fear. For moral status, the question becomes: do animals have the cortical mechanisms LeDoux considers necessary? Most mammals and birds likely do.
 
@@ -265,13 +265,13 @@ The Map's indexical identity view yields a clear ethical position:
 
 ## Suffering: The Moral Core
 
-Across all these applications, suffering provides the moral core. Consciousness makes suffering possible; suffering is intrinsically bad; preventing suffering is therefore morally significant. The [emotional-consciousness](/concepts/emotional-consciousness/) analysis clarifies what suffering requires and why it grounds ethics.
+Across all these applications, suffering provides the moral core. Consciousness makes suffering possible; suffering is intrinsically bad; preventing suffering is therefore morally significant. The [emotional-consciousness](/archive/concepts/emotional-consciousness/) analysis clarifies what suffering requires and why it grounds ethics.
 
 ### What Suffering Requires
 
 Suffering requires:
 1. **Consciousness**: A subject to experience the suffering
-2. **Negative valence**: The experience is felt as bad—what [valence](/concepts/emotional-consciousness/#valence) makes intrinsically aversive
+2. **Negative valence**: The experience is felt as bad—what [valence](/archive/concepts/emotional-consciousness/#valence) makes intrinsically aversive
 3. **Unavoidability**: The subject cannot simply exit the experience
 
 Pain without consciousness isn't suffering—it's mere nociception. Distress that could be ended instantly isn't the same as inescapable torment. The phenomenon of pain asymbolia—patients who report feeling pain but aren't bothered by it—demonstrates that nociception and suffering can dissociate. Suffering requires not just pain detection but the felt badness that makes pain matter.
@@ -435,7 +435,7 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — AI alignment under consciousness constraints
 - [experiential-alignment](/concepts/experiential-alignment/) — Targeting experience rather than preferences
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical grounding for experiential value
-- [emotional-consciousness](/concepts/emotional-consciousness/) — The felt quality of emotion and its ethical implications
+- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — The felt quality of emotion and its ethical implications
 - [meaning-of-life](/topics/meaning-of-life/) — Why consciousness grounds value
 - [qualia](/concepts/qualia/) — The felt quality that creates moral significance
 - [illusionism](/concepts/illusionism/) — The challenge from eliminativism about phenomenal consciousness

@@ -50,6 +50,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-24
 
+### P2: Deep review neural-quantum-coherence.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) last deep-reviewed 2026-01-19 (6 days ago). Core concept connecting quantum mechanics to neural processes. Should verify: (1) accuracy of coherence timescale claims, (2) engagement with decoherence objection responses, (3) connection to recent quantum-neural-mechanisms and quantum-biology articles, (4) alignment with Minimal Quantum Interaction tenet.
+- **Source**: staleness
+- **Generated**: 2026-01-25
+
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.

@@ -325,7 +325,7 @@ If attention is *one* interface, might there be others? Emotion, volition, and i
 
 ### Emotion: Valence as Input, Not Output
 
-Emotional consciousness—the felt quality of [emotions](/concepts/emotional-consciousness/)—clearly involves consciousness. Fear *feels* fearful; joy *feels* joyful. But is emotion an *interface* through which consciousness influences matter, or is it *input* to consciousness that then operates through attention?
+Emotional consciousness—the felt quality of [emotions](/archive/concepts/emotional-consciousness/)—clearly involves consciousness. Fear *feels* fearful; joy *feels* joyful. But is emotion an *interface* through which consciousness influences matter, or is it *input* to consciousness that then operates through attention?
 
 **The input interpretation**: Emotions present valenced information to consciousness. The felt badness of pain signals damage; the felt goodness of pleasure signals benefit. Consciousness receives this information and then acts on it—through attention. You feel fear; you then attend to the threat; attention biases which response pattern actualizes.
 
@@ -509,7 +509,7 @@ This transforms philosophical assertion into empirical program. Whether the hypo
 ### Related Cognitive Domains
 - [agent-causation](/concepts/agent-causation/) — How consciousness initiates action
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Selector vs witness modes in meditation
-- [emotional-consciousness](/concepts/emotional-consciousness/) — Emotion as input to the attention interface
+- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — Emotion as input to the attention interface
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Creative generation through attentional exploration
 - [motor-selection](/concepts/motor-selection/) — Motor control as the same interface in action domain
 - [introspection](/concepts/introspection/) — First-person access and its reliability

@@ -216,7 +216,7 @@ Dualism is actually *better positioned* than materialism to take animal consciou
 
 ## Emotional Consciousness and Animal Sentience
 
-The question of animal consciousness sharpens when focused on [emotional-consciousness](/concepts/emotional-consciousness/)—the felt quality of emotions, particularly their valence (positive or negative character). Do animals experience the *badness* of pain, or merely the information about tissue damage?
+The question of animal consciousness sharpens when focused on [emotional-consciousness](/archive/concepts/emotional-consciousness/)—the felt quality of emotions, particularly their valence (positive or negative character). Do animals experience the *badness* of pain, or merely the information about tissue damage?
 
 ### The Panksepp-LeDoux Debate
 
@@ -230,7 +230,7 @@ For the Map's purposes, Panksepp's evidence is significant. If mammals without c
 
 ### Pain Asymbolia and Animal Suffering
 
-Evidence from [pain asymbolia](/concepts/emotional-consciousness/#valence)—a condition where patients feel pain but find it doesn't bother them—illuminates the animal consciousness question. These patients can represent bodily damage without experiencing its badness. This dissociation shows that nociception (pain detection) and suffering (phenomenal badness) are distinct.
+Evidence from [pain asymbolia](/archive/concepts/emotional-consciousness/#valence)—a condition where patients feel pain but find it doesn't bother them—illuminates the animal consciousness question. These patients can represent bodily damage without experiencing its badness. This dissociation shows that nociception (pain detection) and suffering (phenomenal badness) are distinct.
 
 What does this mean for animals? It suggests the question isn't merely "do animals have pain responses?" (they clearly do) but "do animals experience the *felt badness* that makes pain suffering?" If valence is an intrinsic phenomenal property rather than a representational one, animals with the relevant neural architecture should experience genuine suffering—not just damage detection.
 
@@ -337,7 +337,7 @@ The Map's position on animal consciousness could be undermined by specific disco
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — The distribution problem: C. elegans, Hydra, slime molds, and the interface dualism framing
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Model organisms at the boundaries: C. elegans, Hydra, slime molds, and the UAL framework
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged, phylogenetic distribution, and why dualism handles evolutionary questions better
-- [emotional-consciousness](/concepts/emotional-consciousness/) — The felt quality of emotions, particularly valence and the Panksepp-LeDoux debate
+- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — The felt quality of emotions, particularly valence and the Panksepp-LeDoux debate
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemological framework underlying consciousness attribution
 
 ### Consciousness and Intelligence
