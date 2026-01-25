@@ -48,6 +48,7 @@ Create a commit message with a summary line and body:
 - `<type>` is one of: `feat`, `fix`, `refine`, `research`, `chore`
 - `<skill>` is the skill name (e.g., `deep-review`, `condense`, `expand-topic`)
 - `<summary>` describes WHAT was done and to WHICH file(s)
+- **File paths must include parent directory** (e.g., `topics/free-will.md` not just `free-will.md`)
 
 **Body** (required for content changes):
 - 2-5 bullet points summarizing key changes
@@ -58,7 +59,7 @@ Create a commit message with a summary line and body:
 
 **Good examples:**
 ```
-refine(condense): reduce free-will.md from 9567 to 2985 words
+refine(condense): reduce topics/free-will.md from 9567 to 2985 words
 
 - Cut quantum Zeno redundancy (7+ mentions → 1 via link)
 - Removed extended sections on altered states, process philosophy
@@ -67,7 +68,7 @@ refine(condense): reduce free-will.md from 9567 to 2985 words
 ```
 
 ```
-refine(deep-review): improve clarity in qualia.md
+refine(deep-review): improve clarity in concepts/qualia.md
 
 - Fixed circular definition in opening paragraph
 - Added concrete examples for inverted spectrum argument
@@ -77,7 +78,7 @@ refine(deep-review): improve clarity in qualia.md
 **Bad examples:**
 - `auto(deep-review): Automated execution` (too vague, no body)
 - `Updated files` (no context)
-- `Changes from deep-review skill` (doesn't say what)
+- `refine(condense): reduce free-will.md` (missing parent directory - is it topics/ or concepts?)
 
 ### 4. Create the Commit
 
@@ -101,6 +102,7 @@ Output the commit hash and message so the calling system can log it.
 ## Important
 
 - Keep commit messages under 72 characters for the summary line
+- **Always include parent directory in file paths** (e.g., `topics/free-will.md`, `concepts/qualia.md`, `research/notes.md`)
 - Focus on the "what" and "which file" - the skill name already tells us "how"
 - If multiple files changed, mention the primary one and note others exist
 - Never include time estimates or subjective assessments in commit messages
