@@ -17,6 +17,22 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 20:34 UTC - deep-review (user-requested, forty-sixth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T20:24:50+00:00
+**Word count**: 2498 → 2415 (-83 words, length-neutral mode)
+**Critical issues addressed**: 0 (none threatening coherence)
+**Medium issues addressed**: 3
+- Functionalist response risked question-begging → added clarifying sentence about denying phenomenal experience
+- Decoherence objection understated → tightened to state most physicists consider it "decisive"
+- Unfalsifiability cost unclear → made explicit acknowledgment of cost
+**Enhancements made**: 1 (consolidated Stapp/decoherence section to reach structural position sooner)
+**Report**: `reviews/deep-review-2026-01-25-measurement-problem-46.md`
+
+---
+
 ## 2026-01-25 20:29 UTC - deep-review (user-requested)
 
 **Status**: Success
