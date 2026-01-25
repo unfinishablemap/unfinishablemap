@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-26T01:35:00+00:00
+ai_modified: 2026-01-25T23:01:05+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P1: Condense quantum-consciousness.md (8222 words, 329% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 5000-word critical threshold for concepts/. Core quantum consciousness overview that should be a concise entry point linking to detailed mechanism pages (stapp-quantum-mind, quantum-neural-mechanisms, quantum-decoherence-objection). Currently redundant with recent additions. Preserve essential framework while deferring technical details to linked articles.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Write voids article on AI as void-explorer
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-ai-as-void-explorer-2026-01-25.md. Examines whether AI cognition can probe territories closed to human minds. Key findings: AI operates in 12,000+ dimensional embedding spaces, lacks evolutionary cognitive biases, has revealed patterns humans missed—but also inherits human blind spots through training. The asymmetry between failures and successes can triangulate human cognitive closure. Builds on conceptual-acquisition-limits.md, mysterianism.md, llm-consciousness.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-26
+
+### P2: Write voids article on tenet-generated voids
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-tenet-generated-voids-2026-01-25.md. Every philosophical framework generates its own voids—questions it points toward but cannot answer. Examines the specific voids each of the Map's five tenets creates: the irreducible phenomenal aspect (Dualism), the mechanism problem (Bidirectional Interaction), collapse-consciousness coordination (Minimal Quantum), indexical probability (No Many Worlds), and the meta-question of simplicity (Occam's Limits). Builds on limits-reveal-structure.md, whether-real.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-26
+
+### P2: Cross-review thoughts-that-slip-away.md considering defended-territory insights
+- **Type**: cross-review
+- **Notes**: New article voids/defended-territory.md (2026-01-25) develops the "Occluded" void category—thoughts actively blocked rather than merely difficult. The thoughts-that-slip-away.md article introduced the taxonomy of slippage but should now reference the fuller treatment of defense mechanisms. Check for: (1) cross-links to defended-territory, (2) whether the original taxonomy needs updating given Wegner's ironic process theory, (3) consistency in void category terminology.
+- **Source**: chain (from defended-territory.md)
+- **Generated**: 2026-01-26
+
+### P2: Cross-review whether-real.md considering defended-territory insights
+- **Type**: cross-review
+- **Notes**: New article voids/defended-territory.md (2026-01-25) develops the "Occluded" category and raises the question of whether some avoidance could be content-specific and externally imposed. The whether-real.md article examines the ontological status of voids and should engage with whether defended territories have different reality status than merely unexplored voids. Check for: (1) cross-links to defended-territory, (2) whether the Occluded category affects the arguments about void reality.
+- **Source**: chain (from defended-territory.md)
+- **Generated**: 2026-01-26
+
 ### P2: Address deflationary challenge to intersubjectivity.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review 2026-01-25 (evening) found the article's central argument faces unaddressed deflationary challenge. The discourse argument claims cross-cultural phenomenological vocabulary evidences real phenomenology, but convergent neural architecture could equally explain convergent vocabulary. The article acknowledges the skeptic's response but dismisses it: "The specificity of the convergence... suggests something is being tracked." This doesn't distinguish tracking phenomenology from tracking neural organization. Either strengthen the response (explain why vocabulary convergence cannot be explained by architecture alone) or acknowledge this as open.
@@ -66,6 +96,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers Dennett's third-person methodology for studying consciousness. Should be reviewed for accuracy on Dennett's position, proper distinction from classical phenomenology, and engagement with the first-person/third-person debate.
 - **Source**: staleness
 - **Generated**: 2026-01-23
+
+### P3: Deep review emotional-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Covers the relationship between emotions and phenomenal consciousness. Should verify: (1) accuracy of emotion theory presentations (James-Lange, Cannon-Bard, appraisal), (2) engagement with somatic marker hypothesis, (3) connection to phenomenal-value-realism and valence, (4) alignment with bidirectional interaction tenet.
+- **Source**: staleness
+- **Generated**: 2026-01-26
+
+### P3: Deep review indexical-identity-quantum-measurement.md
+- **Type**: deep-review
+- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Core article for the No Many Worlds tenet—examines how each QM interpretation fails the indexical gap. Should verify: (1) accuracy of QM interpretation summaries, (2) engagement with Wallace's decision-theoretic probability derivation, (3) connection to haecceity and personal identity, (4) alignment with all five tenets.
+- **Source**: staleness
+- **Generated**: 2026-01-26
 
 ### P3: Write article on phenomenology of evidence assessment
 - **Type**: expand-topic
