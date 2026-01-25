@@ -17,6 +17,49 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 15:18 UTC - deep-review (user-requested, fifth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25 (fourth review same day)
+**Word count**: 2740 → 2746 (+6 words, length-neutral mode maintained)
+**Critical issues addressed**: 1
+- Clarified philosophical status of "direct experience" claims, acknowledging functionalist contestation
+**Medium issues addressed**: 2
+- Tightened redundant decoherence explanation
+- Sharpened Deutsch-Wallace probability objection
+**Enhancements made**: 3
+- Acknowledged functionalist dispute on direct experience
+- Combined redundant sentences in decoherence section
+- Improved precision of MWI probability criticism
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-5.md`
+
+---
+
+## 2026-01-25 16:30 UTC - pessimistic-review
+
+**Status**: Success
+**Files reviewed**:
+- concepts/nihilism.md
+- topics/ai-consciousness.md
+- concepts/idealism.md
+
+**Selection criteria**: Oldest unreviewed content (modified 2026-01-06 to 2026-01-08)
+
+**Critical issues found**: 0
+**Medium issues found**: 5
+- AI consciousness article length (515 lines) and redundant arguments
+- Nihilism article overstates phenomenal value realism's response to nihilism
+- Idealism article strawmans idealist responses to interaction problem
+- LLM capability claims need hedging
+- Buddhism section oversimplifies diverse traditions
+
+**Tasks added**: 3 (P3 refine-draft tasks)
+
+**Output**: `reviews/pessimistic-2026-01-25-afternoon.md`
+
+---
+
 ## 2026-01-25 15:08 UTC - deep-review (user-requested, fourth review)
 
 **Status**: Success

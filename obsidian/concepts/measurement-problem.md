@@ -3,7 +3,7 @@ title: "The Measurement Problem"
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-25T15:08:39+00:00
+ai_modified: 2026-01-25T15:18:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-25T15:08:39+00:00
+last_deep_review: 2026-01-25T15:18:52+00:00
 ---
 
 The measurement problem is the central foundational puzzle in quantum mechanics—and it creates the logical opening for consciousness to play a role in physics. Quantum systems evolve deterministically according to the Schrödinger equation, forming superpositions of all possible states. Yet measurement yields a single, definite outcome. What causes this transition? The mathematics doesn't say. As J.S. Bell framed it: "Either the wavefunction...is not everything, or it is not right."
@@ -79,9 +79,7 @@ Decoherence describes how quantum systems lose coherence through environmental i
 
 But appearance isn't reality. As Tomaz's 2025 review notes: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured."
 
-Decoherence's explanatory scope continues to grow—it resolves the preferred basis problem and clarifies how classicality emerges. Yet it converts a pure superposition into a mixed state—a probabilistic ensemble—not a definite outcome. It cannot explain why we experience one outcome rather than remaining in a mixture.
-
-The distinction matters: decoherence explains why we don't see quantum interference at macroscopic scales. It does not explain why we see definite results at all.
+Decoherence's explanatory scope continues to grow—it resolves the preferred basis problem and clarifies how classicality emerges. Yet it converts a pure superposition into a mixed state—a probabilistic ensemble—not a definite outcome. The distinction matters: decoherence explains why we don't see quantum interference at macroscopic scales, but not why we see definite results at all.
 
 ## Major Interpretations
 
@@ -103,13 +101,13 @@ All outcomes occur. The universe branches at every quantum event; all branches a
 
 2. **The indexical problem**: Why am I *this* branch? MWI defenders say "I" simply refers to whoever is asking. The Map holds this dissolves the question rather than answering it. See [[indexical-identity-quantum-measurement]] and [[haecceity]].
 
-3. **The probability problem**: The Deutsch-Wallace program derives that rational agents should weight branches by Born probabilities. Critics argue this shows *how* to behave, not *why* probability matters when all outcomes occur.
+3. **The probability problem**: The Deutsch-Wallace program derives that rational agents should weight branches by Born probabilities. Critics argue this shows *how* to bet, not *why* probability is meaningful when every outcome is equally real.
 
 4. **The preferred basis problem**: Branch ontology depends on decoherence, reintroducing observer-dependence.
 
 5. **Mental causation excluded**: Incompatible with [[tenets#^bidirectional-interaction|Bidirectional Interaction]]—all outcomes occur regardless of consciousness.
 
-Many-worlds dissolves the measurement problem by denying single outcomes. The Map holds this dissolution fails: we directly experience single outcomes, and explaining away this experience rather than explaining it is a theoretical cost. This conclusion assumes the reality of single outcomes matters philosophically—a commitment the Map makes but MWI defenders reject.
+Many-worlds dissolves the measurement problem by denying single outcomes. The Map holds this dissolution fails: we experience outcomes as singular (functionalists dispute whether this is "direct experience" of an objective fact or cognitive construction, but the phenomenology is undeniable), and explaining away this phenomenology rather than explaining it is a theoretical cost. This conclusion assumes the reality of single outcomes matters philosophically—a commitment the Map makes but MWI defenders reject.
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
