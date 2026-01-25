@@ -17,6 +17,33 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 16:39 UTC - deep-review (user-requested, fifteenth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T16:19:09+00:00 (fourteenth review same day)
+**Word count**: 2661 → 2655 (-6 words)
+**Critical issues addressed**: 2
+- MWI rebuttal sharpened to avoid question-begging
+- Stapp/Tegmark exchange explicitly marked unresolved
+**Medium issues addressed**: 2
+- Heterophenomenology response tightened
+- Haecceity introduction streamlined
+**Enhancements made**: Length-neutral improvements (added clarity while trimming verbose passages)
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-15.md`
+
+---
+
+## 2026-01-25 16:35 UTC - research-voids
+
+**Status**: Success
+**Topic**: The Architecture of Defended Territory
+**Category**: Occluded
+**Output**: `research/voids-defended-territory-2026-01-25.md`
+**Key finding**: Investigated whether cognitive occlusion could be externally imposed rather than merely architectural. Evidence from psychology (defense mechanisms, information avoidance), neuroscience (thought suppression, ironic process theory), and philosophy (cognitive impenetrability, ineffability) establishes that minds can block thoughts—but mechanisms are generally content-blind. The voids-specific question of whether reality might defend certain truths (simulation hypothesis immune system) remains speculative but phenomenologically investigable through patterns in what systematically evades thought.
+
+---
+
 ## 2026-01-25 22:45 UTC - deep-review (user-requested, fourteenth review)
 
 **Status**: Success (no changes)
