@@ -17,6 +17,29 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 19:30 UTC - deep-review (user-requested)
+
+**Status**: Success
+**File**: concepts/subjective-probability-quantum-measurement.md
+**Previous review**: Never
+**Word count**: 1808 → 2482 (+674 words)
+**Critical issues addressed**: 4
+- Added "The Decoherence Challenge" section addressing Tegmark objection
+- Added "Epistemic Limitations" section for intellectual honesty about unfalsifiability
+- Clarified what "selection" means concretely with Stapp reference
+- Expanded MWI critique with engagement on decision-theoretic derivations
+**Medium issues addressed**: 2
+- Acknowledged QBism critique applies to Map too (with honest comparison)
+- Rewrote Wigner section to address specification problems not just solipsism
+**Enhancements made**: 4
+- New section on decoherence with three counter-considerations
+- New section on epistemic limitations
+- Added cross-links to stapp-quantum-mind, decoherence, free-will
+- Improved philosophical rigor throughout
+**Report**: `reviews/deep-review-2026-01-25-subjective-probability-quantum-measurement.md`
+
+---
+
 ## 2026-01-25 21:15 UTC - deep-review (user-requested, forty-first review)
 
 **Status**: Success
