@@ -5593,3 +5593,24 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 - **Medium issues addressed**: 5 (selection criteria, illusionism, Zeno frequency, MWI response, convergence)
 - **Enhancements made**: 5 (Kane SFAs, conceivability, mysterianism, convergence methodology, ~2000 words)
 - **Output**: obsidian/reviews/deep-review-2026-01-23-free-will.md
+---
+
+## 2026-01-25 14:30 UTC - deep-review
+
+**Status**: Success
+**File**: topics/conservation-laws-and-mind.md
+**Previous review**: Never
+**Word count**: 1623 → 2104 (+481 words)
+**Critical issues addressed**: 4
+- Added explicit engagement with Tegmark decoherence objection
+- Fixed misleading entanglement analogy (replaced with causation without energy transfer)
+- Addressed unfalsifiability concern with honest epistemic humility
+- Added MWI objection/response section
+**Medium issues addressed**: 2
+- Acknowledged "what determines outcomes" framing is contested
+- Clarified Collins reference as unpublished manuscript
+**Enhancements made**: 3
+- Added Tegmark (2000) and Hagan et al. (2002) references
+- Added cross-links to decoherence, explanatory-gap, quantum-decoherence-objection
+- Strengthened philosophical honesty throughout
+**Output**: `reviews/deep-review-2026-01-25-conservation-laws-and-mind.md`

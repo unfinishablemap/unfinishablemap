@@ -1,9 +1,9 @@
 ---
 title: "Conservation Laws and Mind-Brain Causation"
 created: 2026-01-23
-modified: 2026-01-23
+modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-23T09:45:00+00:00
+ai_modified: 2026-01-25T14:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,15 +17,19 @@ concepts:
   - "[[bidirectional-interaction]]"
   - "[[mental-causation]]"
   - "[[objections-to-interactionism]]"
+  - "[[decoherence]]"
+  - "[[explanatory-gap]]"
 related_articles:
   - "[[tenets]]"
   - "[[measurement-problem]]"
   - "[[prebiotic-collapse]]"
+  - "[[quantum-decoherence-objection]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated:
+last_deep_review: 2026-01-25T14:30:00+00:00
 ---
 
 The energy conservation objection to [[interactionist-dualism]] claims that if non-physical consciousness could move matter, energy would be created or destroyed—violating one of physics' most fundamental principles. This objection, pressed since Leibniz in the 1690s, has been revitalized by contemporary physicists like Sean Carroll who argue the Standard Model leaves no room for "soul particles." Yet recent work by philosophers of physics demonstrates that this objection rests on misunderstandings of how conservation laws actually work. Conservation is *local* and *conditional*—it holds given certain assumptions, and fails where those assumptions fail. More importantly, consciousness may influence brain states without injecting energy at all: by selecting among quantum-permitted outcomes rather than adding anything new to the physical domain.
@@ -76,7 +80,7 @@ The conservation objection assumes that any causal influence requires energy tra
 
 Quantum mechanics describes systems in superposition—simultaneously in multiple states. Upon measurement, the superposition "collapses" to a single definite outcome. The Born rule gives probabilities for each outcome, but physics doesn't explain *why* one particular outcome occurs.
 
-This is a genuine causal gap. Something determines which outcome becomes actual. Standard physics leaves this unspecified—the [[measurement-problem]] remains unsolved.
+Standard physics leaves this unspecified—the [[measurement-problem]] remains unsolved. Whether this constitutes a "causal gap" requiring a determiner, or simply irreducible indeterminacy with no further explanation possible, is itself contested. The selection framework proposes the former; instrumentalists about quantum mechanics may deny that any explanation is needed.
 
 ### Consciousness as Selector
 
@@ -86,11 +90,13 @@ Henry Stapp's [[stapp-quantum-mind|quantum Zeno mechanism]] makes this concrete.
 
 The key insight: selecting among energetically equivalent outcomes requires no energy transfer. If outcomes A, B, and C each have probability 1/3 and identical energy, then determining that A (rather than B or C) becomes actual doesn't violate conservation. All that's changed is *which* outcome occurs, not the system's total energy.
 
-### Entanglement as Precedent
+### Causation Without Energy Transfer
 
-Robin Collins observes that physics already contains examples of causal influence without energy exchange. Quantum entanglement produces correlations between distant particles that cannot be explained by any energy transfer between them—Bell's theorem rules this out. Yet the correlations are real and causally significant.
+The selection framework requires that causation can occur without energy injection. Critics might object that all causation involves energy transfer—but this assumption is questionable.
 
-If physics permits causal connections without energy exchange in entanglement, the conceptual space exists for mind-matter interaction without energy injection.
+Consider: the *direction* of an outcome can be determined by factors that contribute no energy. In chaotic systems, infinitesimal differences in initial conditions lead to vastly different outcomes. The boundary conditions of a physical system constrain which outcomes occur without adding energy. Similarly, consciousness selecting among energetically equivalent quantum outcomes could determine *which* outcome actualizes without contributing energy to *any* outcome.
+
+The philosophical point is modest: the conservation objection assumes that causal influence requires energy transfer. This assumption is not self-evident, and the selection framework provides a model where it fails.
 
 ## What Conservation Cannot Prove
 
@@ -111,7 +117,9 @@ Pitts concludes: "The real objection should come from empirical neuroscience, no
 
 One might argue that whatever selects among quantum outcomes must interact with electrons, and any such interaction would have been detected.
 
-*Response*: This assumes the selector operates through the same mechanisms as physical forces. But consciousness—if it acts at all—acts at the point of measurement, where physics explicitly leaves outcomes undetermined. Detection requires regular patterns; consciousness selecting among genuinely random alternatives might leave no detectible signature beyond the selection itself.
+*Response*: This objection has force, and the response must be honest about its limits. If consciousness biases quantum outcomes, it operates where physics leaves outcomes undetermined—at measurement. Detection requires identifying a systematic pattern that deviates from quantum mechanical predictions. If consciousness selects among outcomes in ways that are (1) rare, (2) small in magnitude, or (3) variable across individuals and contexts, the effect might fall below experimental sensitivity.
+
+This is not fully satisfying. A theory that predicts undetectable effects risks being unfalsifiable. The appropriate response is epistemic humility: the selection framework shows that mental causation is *compatible with* conservation laws, not that it is *proven by* them. The positive case for consciousness affecting brain states comes from philosophical arguments—the self-stultification of [[epiphenomenalism]], the [[explanatory-gap]], the cognitive differences between conscious and unconscious processing—not from physics.
 
 ### "This Is Just God-of-the-Gaps Reasoning"
 
@@ -123,7 +131,25 @@ Critics might see "consciousness selects at quantum indeterminacies" as insertin
 
 Doesn't [[decoherence]] eliminate quantum effects in warm biological systems, leaving no room for quantum consciousness?
 
-*Response*: Decoherence selects preferred bases and suppresses interference, but it doesn't solve the measurement problem. After decoherence, the system remains in a mixture of possible outcomes—something still determines which outcome becomes actual. The role for consciousness at measurement remains open even after decoherence has occurred. See [[quantum-decoherence-objection]] for detailed treatment.
+*Response*: This objection requires careful handling because it conflates two distinct claims.
+
+First, decoherence is extremely rapid in neural tissue. Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules—far shorter than the millisecond timescales of neural processing. If consciousness requires maintaining quantum coherence across neurons, decoherence appears to rule this out.
+
+However, the selection framework doesn't require sustained coherence. It requires only that consciousness bias *which outcome* occurs when superposition resolves—whether through decoherence or measurement. Decoherence selects preferred bases and suppresses interference, but it doesn't determine which outcome from the resulting mixture becomes actual. That determination remains unexplained by physics.
+
+Second, Tegmark's calculations have been challenged. Hagan et al. (2002) disputed his model parameters, yielding estimates seven orders of magnitude longer. The [[tenets#^minimal-quantum-interaction|tenets article]] discusses this dispute in detail.
+
+The deeper point: decoherence doesn't solve the [[measurement-problem]]. After the basis is selected and interference suppressed, the system remains in a mixture of possible outcomes. Something determines which becomes actual—and physics doesn't specify what. The role for consciousness at this juncture remains open. See [[quantum-decoherence-objection]] for extended treatment.
+
+### "Many-Worlds Eliminates the Problem"
+
+If the many-worlds interpretation (MWI) is correct, all quantum outcomes occur in different branches. There's no collapse, no selection, no causal gap for consciousness to fill.
+
+*Response*: This is correct as far as it goes. The selection framework assumes collapse is real—that only one outcome actually occurs. If MWI is true, the framework fails.
+
+The Map rejects MWI for independent reasons (see [[tenets#^no-many-worlds|No Many Worlds tenet]]). The proliferation of unobservable branches violates parsimony more severely than dualism does. More fundamentally, MWI raises indexical questions it cannot answer: why am I experiencing *this* branch rather than another? The framework provides no resources to address this, yet the question seems meaningful.
+
+This article therefore assumes that some collapse-like process occurs. Readers who accept MWI will find the conservation objection moot—but they face their own difficulties explaining definite experience.
 
 ## Relation to Site Perspective
 
@@ -152,6 +178,8 @@ This doesn't prove consciousness acts at quantum indeterminacies. It shows that 
 
 - Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
 - Pitts, J. B. (2022). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 50, 1065-1083.
-- Collins, R. "Modern Physics and the Energy Conservation Objection to Mind-Body Dualism." New Dualism Archive.
+- Collins, R. "Modern Physics and the Energy Conservation Objection to Mind-Body Dualism." Unpublished manuscript, available at New Dualism Archive.
+- Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
+- Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
 - Carroll, S. (2011). "Physics and the Immortality of the Soul." *Scientific American* (blog).
 - Stapp, H. P. (2007). "Quantum Interactive Dualism: An Alternative to Materialism." Lawrence Berkeley National Laboratory.
