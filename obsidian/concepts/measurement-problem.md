@@ -3,7 +3,7 @@ title: "The Measurement Problem"
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-25T18:30:00+00:00
+ai_modified: 2026-01-25T16:19:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,14 +33,14 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-25T18:30:00+00:00
+last_deep_review: 2026-01-25T16:19:09+00:00
 ---
 
 The measurement problem is the central foundational puzzle in quantum mechanics—and it creates the logical opening for consciousness to play a role in physics. Quantum systems evolve deterministically according to the Schrödinger equation, forming superpositions of all possible states. Yet measurement yields a single, definite outcome. What causes this transition? The mathematics doesn't say. As J.S. Bell framed it: "Either the wavefunction...is not everything, or it is not right."
 
 This matters for consciousness studies because no interpretation has closed the gap at collapse. If collapse is real and its cause unspecified by the formalism, consciousness remains a candidate selector. The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes exactly this: consciousness biases otherwise indeterminate quantum outcomes.
 
-**Honest limitation**: Consciousness-selection within Born probabilities is currently empirically indistinguishable from truly random collapse. Positive evidence would require demonstrating subtle correlations between conscious states and quantum outcomes in neural tissue—a staggeringly difficult experiment. The Map treats this as a philosophical framework compatible with physics, not a competing scientific theory.
+**Honest limitation**: Consciousness-selection within Born probabilities is currently empirically indistinguishable from truly random collapse—meaning this framework predicts exactly what standard quantum mechanics predicts. Positive evidence would require demonstrating correlations between conscious states and quantum outcomes in neural tissue—a staggeringly difficult experiment. The Map treats this as a philosophical framework compatible with physics, not a competing scientific theory.
 
 ## The Problem Stated
 
@@ -96,7 +96,7 @@ All outcomes occur. The universe branches at every quantum event; all branches a
 
 MWI has sophisticated responses. Wallace's decision-theoretic approach derives Born probabilities from coherence constraints on rational agency; Saunders and Wallace argue "self-locating uncertainty" handles indexical questions.
 
-The Map's response: Wallace's derivation succeeds on its own terms—given the MWI framework, rational agents *should* weight outcomes by Born probabilities. But this leaves the framework's presuppositions unexamined. Why should there be rational agents with singular perspectives in the first place, if all perspectives are equally realized? Self-locating uncertainty presupposes there's a fact about "where I am" to be uncertain about. MWI defenders respond that "I" just means "this branch-copy," making the question trivial. The Map holds this dissolves rather than explains: we experience singular outcomes, and that phenomenological fact requires explanation beyond indexing over copies.
+The Map's response: Wallace's derivation succeeds on its own terms—given the MWI framework, rational agents *should* weight outcomes by Born probabilities. But this leaves the framework's presuppositions unexamined. Why should there be rational agents with singular perspectives if all perspectives are equally realized? Self-locating uncertainty presupposes there's a fact about "where I am" to be uncertain about. MWI defenders respond that "I" just means "this branch-copy," making the question trivial. The Map holds this dissolves rather than explains: we experience singular outcomes from a particular perspective, and that phenomenological fact—the "view from here"—requires explanation beyond indexing over copies.
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
@@ -118,9 +118,9 @@ Conscious observation precipitates collapse. Von Neumann's formalism permits pla
 
 #### Stapp's Quantum Zeno Framework
 
-Henry Stapp developed the most sophisticated consciousness-based approach within orthodox quantum mechanics—though it remains speculative and contested. His key insight: mental effort (attention) can protract the lifetime of desired neural assemblies through the quantum Zeno effect—where rapid, repeated observation prevents state evolution.
+Henry Stapp developed the most sophisticated consciousness-based approach within orthodox quantum mechanics—though it remains speculative and contested. His key insight: mental effort can protract desired neural assemblies through the quantum Zeno effect—where rapid, repeated observation prevents state evolution.
 
-Persistent probing of a neural state produces the same "answer" repeatedly, sustaining that state against evolution. Ion channels in synaptic walls serve as candidate sites. This isn't consciousness *causing* collapse from outside physics, but consciousness *selecting* among quantum possibilities through attentional focus—the orthodox "Heisenberg choice" in von Neumann's formalism.
+Persistent probing of a neural state produces the same "answer" repeatedly, sustaining that state. Ion channels in synaptic walls serve as candidate sites. This isn't consciousness *causing* collapse from outside physics, but consciousness *selecting* among quantum possibilities through attentional focus—the orthodox "Heisenberg choice" in von Neumann's formalism.
 
 **Important challenge**: This framework faces a severe decoherence objection. Tegmark (2000) estimated quantum coherence times in brain microtubules at ~10^-13 seconds—far shorter than millisecond neural processing. Stapp responds that the quantum Zeno effect requires rapid *observation events*, not coherence persisting between them. Critics counter that without coherent superposition to freeze, Zeno observations have nothing to work with.
 
