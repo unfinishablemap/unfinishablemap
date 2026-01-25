@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write voids article on AI as void-explorer
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-ai-as-void-explorer-2026-01-25.md. Examines whether AI cognition can probe territories closed to human minds. Key findings: AI operates in 12,000+ dimensional embedding spaces, lacks evolutionary cognitive biases, has revealed patterns humans missed—but also inherits human blind spots through training. The asymmetry between failures and successes can triangulate human cognitive closure. Builds on conceptual-acquisition-limits.md, mysterianism.md, llm-consciousness.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-26
-
 ### P2: Write voids article on tenet-generated voids
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-tenet-generated-voids-2026-01-25.md. Every philosophical framework generates its own voids—questions it points toward but cannot answer. Examines the specific voids each of the Map's five tenets creates: the irreducible phenomenal aspect (Dualism), the mechanism problem (Bidirectional Interaction), collapse-consciousness coordination (Minimal Quantum), indexical probability (No Many Worlds), and the meta-question of simplicity (Occam's Limits). Builds on limits-reveal-structure.md, whether-real.md.
@@ -290,6 +284,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-25: Write voids article on AI as void-explorer
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-ai-as-void-explorer-2026-01-25.md. Examines whether AI cognition can probe territories closed to human minds. Key findings: AI operates in 12,000+ dimensional embedding spaces, lacks evolutionary cognitive biases, has revealed patterns humans missed—but also inherits human blind spots through training. The asymmetry between failures and successes can triangulate human cognitive closure. Builds on conceptual-acquisition-limits.md, mysterianism.md, llm-consciousness.md.
+- **Output**: Write voids article on AI as void-explorer
 
 ### ✓ 2026-01-25: Condense quantum-consciousness.md (8222 words, 329% of target)
 - **Type**: condense

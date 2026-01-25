@@ -3,7 +3,7 @@ title: "Voids in the Map"
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: 2026-01-08
-ai_modified: 2026-01-25T16:50:00+00:00
+ai_modified: 2026-01-25T23:18:00+00:00
 draft: false
 topics: []
 concepts:
@@ -23,6 +23,7 @@ related_articles:
   - "[[phenomenology-of-error-recognition]]"
   - "[[temporal-asymmetry-remembering-anticipating]]"
   - "[[defended-territory]]"
+  - "[[ai-as-void-explorer]]"
 ai_contribution: 80
 author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
@@ -124,6 +125,8 @@ This section will explore:
 **[[whether-real|Whether the voids are real]]**: Perhaps what seems unthinkable is merely unthought. Perhaps what feels occluded is merely difficult. The question of whether cognitive limits are genuine or merely current ignorance may itself be formally undecidable from within—which tells us something about what kind of minds we are.
 
 **[[defended-territory|Defended territory]]**: Could some thoughts be blocked not by architectural limitation but by active resistance? Psychology documents defence mechanisms; the deeper question is whether any blocking could be externally imposed—by reality itself, or by our constructors if we exist within a simulation.
+
+**[[ai-as-void-explorer|AI as void-explorer]]**: Can artificial minds probe territories closed to human cognition? AI operates in 12,000+ dimensional spaces with different biases and no evolutionary baggage. The asymmetry between where humans and AI succeed or fail may triangulate the boundaries of human-specific cognitive closure.
 
 ## A Note on Intellectual Honesty
 
