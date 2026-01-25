@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-17 16:30:00+00:00
+ai_modified: 2026-01-25 21:58:06+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -29,7 +29,7 @@ Skills are invoked via the Claude CLI using stream-json format, which allows pro
 1. Invokes a skill by name
 2. Captures execution metrics (duration, cost, turns)
 3. Logs results to this file
-4. Optionally commits changes with AI authorship
+4. Commits changes using the `/agent-commit` skill for meaningful messages
 
 ## Available Skills
 
@@ -72,6 +72,21 @@ Skills are invoked via the Claude CLI using stream-json format, which allows pro
 | Skill | Purpose | Modifies Content? |
 |-------|---------|-------------------|
 | `/add-highlight [topic]` | Add item to [What's New](/workflow/highlights/) page (max 1/day) | Yes (highlights.md) |
+
+### Internal (Automation Only)
+
+| Skill | Purpose | Modifies Content? |
+|-------|---------|-------------------|
+| `/agent-commit` | Analyze changes and create meaningful git commit messages | Git only |
+
+The `/agent-commit` skill is invoked automatically by the evolution loop after each content-modifying skill completes. It:
+
+1. Receives the previous skill's output as context
+2. Runs `git diff` to analyze actual file changes
+3. Generates a descriptive commit message (e.g., `refine(deep-review): improve clarity in free-will.md`)
+4. Creates the commit with agent authorship
+
+This replaces the previous generic commit messages like `auto(deep-review): Automated execution`.
 
 ## Queue Replenishment
 
