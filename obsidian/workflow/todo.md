@@ -252,6 +252,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
 
+### P3: Create concept page for baseline cognition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-26. The baseline cognition framework (what neurons achieve alone vs. what requires consciousness) is referenced across multiple articles but deserves unified treatment. Currently scattered. Would systematize the great ape-human comparison as naturalistic test case for consciousness's functional contributions.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-26
+
+### P3: Create concept page for semantic phenomenology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-26. The felt quality of understanding—distinct from information processing. The ground-of-meaning apex article develops this but a dedicated concept page would support cross-linking. Connects to cognitive-phenomenology.md, llm-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-26
+
+### P3: Write article on clinical neural replacement evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-26. Engage actual clinical data—cochlear implants (neurons replaced, consciousness continuous), deep brain stimulation (artificial intervention, consciousness preserved), split-brain patients (consciousness unity despite neural separation). Would test quantum interface hypothesis against medical evidence. Builds on machine-consciousness.md, personal-identity.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-26
+
 ### P3: Create concept page for substrate independence
 - **Type**: expand-topic
 - **Status**: pending
