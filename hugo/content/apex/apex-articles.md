@@ -1,7 +1,7 @@
 ---
-ai_contribution: 0
+ai_contribution: 40
 ai_generated_date: null
-ai_modified: null
+ai_modified: 2026-01-25 10:30:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -12,7 +12,7 @@ human_modified: 2026-01-24
 last_curated: null
 modified: *id001
 related_articles: []
-title: Apex Articles Master List
+title: Apex Articles Index
 topics: []
 ---
 
@@ -20,26 +20,48 @@ This document defines the approved apex article subjects. Apex articles are huma
 
 ## Approved Apex Articles
 
-### 1. The Explanatory Frontier
+### 1. Living with the Map
 
-**Slug**: `explanatory-frontier`
+**Slug**: `living-with-the-map`
 
-**Subtitle**: Why consciousness defies reduction
+**Subtitle**: What consciousness-first philosophy means for how we live
 
-**Thesis**: The hard problem isn't a puzzle to solve but a boundary marker—showing where physical explanation ends and a different kind of account begins.
+**Thesis**: If consciousness is fundamental and our choices genuinely matter, then the quest to understand our situation—what we are, why we exist, what we should do—becomes the essential precursor to every meaningful decision. The Map offers not just a metaphysical picture but practical guidance: pursue answers because they may be within reach, and let that pursuit inform how you live.
 
 **Source articles**:
-- topics/hard-problem-of-consciousness
-- topics/mysterianism-cognitive-closure
-- topics/first-person-third-person-methodology
-- topics/consciousness-and-mathematical-understanding
-- concepts/explanatory-gap
+- topics/meaning-of-life
+- topics/ethics-of-consciousness
+- topics/purpose-and-alignment
+- concepts/phenomenal-value-realism
+- concepts/moral-responsibility
+- concepts/existentialism
+- topics/free-will
 
-**Status**: Created 2026-01-24
+**Status**: Not yet created
 
 ---
 
-### 2. Consciousness and Agency
+### 2. Testing the Map from Inside
+
+**Slug**: `testing-the-map-from-inside`
+
+**Subtitle**: What your own experience reveals about consciousness and choice
+
+**Thesis**: You don't need a laboratory to investigate consciousness—you have one between your ears. By carefully attending to the phenomenology of choice, you can probe whether experience feels like selecting from options presented by your brain or like passively watching neural processes unfold. Try sitting back and not interfering: does your mind continue making choices, or does something different happen? The Map's claims are testable from the inside.
+
+**Source articles**:
+- concepts/introspection
+- concepts/witness-consciousness
+- concepts/meditation-and-consciousness-modes
+- concepts/phenomenology-of-choice
+- concepts/mental-effort
+- concepts/neurophenomenology
+
+**Status**: Not yet created
+
+---
+
+### 3. Consciousness and Agency
 
 **Slug**: `consciousness-and-agency`
 
@@ -55,26 +77,6 @@ This document defines the approved apex article subjects. Apex articles are huma
 - concepts/moral-responsibility
 - topics/time-collapse-and-agency
 - concepts/voluntary-attention-control
-
-**Status**: Created 2026-01-24
-
----
-
-### 3. The Ground of Meaning
-
-**Slug**: `ground-of-meaning`
-
-**Subtitle**: Why understanding is constitutively experiential
-
-**Thesis**: Meaning is phenomenal—understanding involves irreducible experiential character that unconscious systems lack.
-
-**Source articles**:
-- topics/meaning-and-consciousness
-- topics/language-recursion-and-consciousness
-- topics/consciousness-as-intelligence-amplifier
-- topics/baseline-cognition
-- topics/ai-consciousness
-- concepts/cognitive-phenomenology
 
 **Status**: Created 2026-01-24
 
@@ -100,46 +102,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 
 ---
 
-### 5. The Moral Weight of Experience
-
-**Slug**: `moral-weight-of-experience`
-
-**Subtitle**: Which beings matter and why
-
-**Thesis**: Consciousness grounds moral status—presence or absence of experience determines who counts morally.
-
-**Source articles**:
-- topics/ethics-of-consciousness
-- topics/animal-consciousness
-- topics/consciousness-in-simple-organisms
-- topics/emotional-consciousness
-- topics/purpose-and-alignment
-
-**Status**: Not yet created
-
----
-
-### 6. Consciousness at the Quantum Edge
-
-**Slug**: `quantum-edge`
-
-**Subtitle**: Physics, time, and measurement
-
-**Thesis**: Consciousness may be fundamental to physics itself—not an anomaly to explain away but potentially constitutive of temporal irreversibility and quantum measurement.
-
-**Source articles**:
-- topics/time-perception-consciousness-theories
-- topics/quantum-binding-and-phenomenal-unity
-- topics/quantum-neural-timing-constraints
-- topics/quantum-measurement-interpretations-beyond-mwi
-- topics/conservation-laws-and-mind
-- concepts/collapse-and-time
-
-**Status**: Not yet created
-
----
-
-### 7. The Contemplative Path
+### 5. The Contemplative Path
 
 **Slug**: `contemplative-path`
 
@@ -159,7 +122,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 
 ---
 
-### 8. Minds Without Words
+### 6. Minds Without Words
 
 **Slug**: `minds-without-words`
 
@@ -178,7 +141,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 
 ---
 
-### 9. The Machine Question
+### 7. The Machine Question
 
 **Slug**: `machine-question`
 
@@ -197,34 +160,11 @@ This document defines the approved apex article subjects. Apex articles are huma
 
 ---
 
-### 10. Living and Dying Consciously
-
-**Slug**: `living-and-dying`
-
-**Subtitle**: Consciousness and the shape of a life
-
-**Thesis**: If consciousness is what matters, then living well means cultivating rich experience, and death is the cessation of what has intrinsic value.
-
-**Source articles**:
-- topics/death-and-consciousness
-- topics/meaning-of-life
-- topics/purpose-and-alignment
-- concepts/phenomenal-value-realism
-- topics/meaning-and-consciousness
-
-**Status**: Not yet created
-
----
-
-## Reserved Slots (11-20)
+## Reserved Slots (8-20)
 
 Future apex articles will be added as the Map evolves and new thematic clusters emerge. Potential candidates:
 
-- The Unity Problem (binding, phenomenal unity, split-brain)
-- Consciousness and Creativity (aesthetic experience, imagination)
-- The Self Illusion? (selfhood, witness consciousness, Buddhism)
-- Altered States and What They Reveal
-- The Evolution of Experience
+(None so far)
 
 ---
 
