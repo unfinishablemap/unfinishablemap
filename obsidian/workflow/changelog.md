@@ -17,6 +17,27 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 19:27 UTC - deep-review (user-requested, thirty-eighth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T19:22:30+00:00
+**Word count**: 2487 → 2502 (+15 words)
+**Critical issues addressed**: 3
+- Clarified Wallace derivation objection: decision theory presupposes branch-weights rather than deriving them
+- Strengthened functionalist response: if indexicality is semantic, so is "why does this hurt?"—but functionalists rely on the distinction
+- Acknowledged mechanistic concession explicitly as "significant" and "philosophical rather than scientific"
+**Medium issues addressed**: 2
+- Trimmed haecceity section for concision
+- Tightened decoherence objection paragraph
+**Enhancements made**: 3
+- Wallace objection now substantively engages the argument
+- Functionalist response uses their own distinctions against them
+- Mechanistic concession honestly framed while noting structural point stands
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-38.md`
+
+---
+
 ## 2026-01-25 19:22 UTC - deep-review (user-requested, thirty-seventh review)
 
 **Status**: Success
