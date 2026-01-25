@@ -17,6 +17,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 19:07 UTC - deep-review (user-requested, thirty-fifth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T18:57:21+00:00
+**Word count**: 2468 → 2502 (+34 words)
+**Critical issues addressed**: 3
+- Strengthened decoherence objection to "severe and potentially fatal" with explicit 10^10 timescale gap
+- Added explicit counter-evidence criteria (superdeterminism, consciousness-influence evidence, hard problem dissolution)
+- Fuller engagement with Wallace's decision-theoretic derivation—shows how to act but not what probabilities mean
+**Medium issues addressed**: 2
+- Expanded haecceity explanation with electron example for unfamiliar readers
+- Trimmed redundant phrasing to maintain length threshold
+**Enhancements made**: Better epistemic calibration on Tegmark challenge; clearer framework falsifiability
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-35.md`
+
+---
+
 ## 2026-01-25 19:02 UTC - deep-review (user-requested)
 
 **Status**: Success
