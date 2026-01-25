@@ -17,6 +17,25 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 15:40 UTC - deep-review (user-requested, eighth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T15:34:03+00:00 (seventh review same day)
+**Word count**: 2734 → 2691 (-43 words, length-neutral mode)
+**Critical issues addressed**: 3
+- Expanded functionalist response with substantive argument about omitting the explanandum
+- Clarified Stapp's Zeno mechanism vs. coherence persistence; reframed empirical challenge
+- Added explicit falsification conditions for consciousness-selection view
+**Medium issues addressed**: 1
+- Engaged more charitably with MWI self-locating uncertainty before critique
+**Enhancements made**: 2
+- Condensed MWI section (15 → 5 lines) with link to dedicated article
+- Trimmed Observer Problem section verbosity
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-8.md`
+
+---
+
 ## 2026-01-25 15:34 UTC - deep-review (user-requested, seventh review)
 
 **Status**: Success
