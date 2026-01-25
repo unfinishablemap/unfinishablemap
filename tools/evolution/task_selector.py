@@ -8,7 +8,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Optional
 
-from tools.todo.processor import Task, TaskType, get_next_task, parse_tasks
+from tools.todo.processor import Task, TaskType, complete_task, get_next_task, parse_tasks
 
 
 @dataclass
@@ -160,3 +160,15 @@ def _find_file(filename: str) -> Optional[Path]:
 def load_todo() -> str:
     """Load todo.md content."""
     return TODO_PATH.read_text(encoding="utf-8")
+
+
+def mark_task_completed(task: Task, output: Optional[str] = None) -> None:
+    """Mark a task as completed in todo.md.
+
+    Args:
+        task: The task that was completed
+        output: Optional output file path to record
+    """
+    content = load_todo()
+    new_content = complete_task(content, task, output)
+    TODO_PATH.write_text(new_content, encoding="utf-8")

@@ -351,6 +351,106 @@ def get_next_task(content: str) -> Optional[Task]:
     return pending[0]
 
 
+def complete_task(content: str, task: Task, output: Optional[str] = None) -> str:
+    """
+    Move a task from Active to Completed section.
+
+    Args:
+        content: The todo.md file content
+        task: The task to mark as completed
+        output: Optional output file path to record
+
+    Returns:
+        Updated content with task moved to Completed section
+    """
+    lines = content.split("\n")
+    today = date.today().isoformat()
+
+    # Find the task's raw block in the content and remove it
+    # We use the line_number to locate it
+    task_start = task.line_number
+    task_end = task_start + 1
+
+    # Find where this task block ends (next ### or section header)
+    for i in range(task_start + 1, len(lines)):
+        if lines[i].startswith("### ") or lines[i].startswith("## "):
+            task_end = i
+            break
+    else:
+        task_end = len(lines)
+
+    # Remove trailing blank lines from task block
+    while task_end > task_start + 1 and lines[task_end - 1].strip() == "":
+        task_end -= 1
+
+    # Extract and remove the task block
+    new_lines = lines[:task_start] + lines[task_end:]
+
+    # Clean up multiple consecutive blank lines
+    cleaned_lines = []
+    prev_blank = False
+    for line in new_lines:
+        is_blank = line.strip() == ""
+        if is_blank and prev_blank:
+            continue
+        cleaned_lines.append(line)
+        prev_blank = is_blank
+
+    # Find Completed Tasks section
+    completed_section_idx = None
+    for i, line in enumerate(cleaned_lines):
+        if line.startswith("## Completed Tasks"):
+            completed_section_idx = i
+            break
+
+    # Build completed task entry
+    entry_lines = [
+        f"### ✓ {today}: {task.title}",
+        f"- **Type**: {task.task_type.value}",
+    ]
+    if task.notes:
+        entry_lines.append(f"- **Notes**: {task.notes}")
+    if output:
+        entry_lines.append(f"- **Output**: {output}")
+
+    completed_entry = "\n".join(entry_lines)
+
+    if completed_section_idx is not None:
+        # Find insertion point (after section header and any description)
+        insert_idx = completed_section_idx + 1
+        # Skip blank lines and description text
+        while insert_idx < len(cleaned_lines):
+            line = cleaned_lines[insert_idx]
+            if line.startswith("### "):
+                break
+            insert_idx += 1
+
+        # Insert at beginning of completed tasks (most recent first)
+        cleaned_lines.insert(insert_idx, "")
+        cleaned_lines.insert(insert_idx + 1, completed_entry)
+        cleaned_lines.insert(insert_idx + 2, "")
+    else:
+        # Create Completed Tasks section before Vetoed Tasks or at end
+        vetoed_idx = None
+        for i, line in enumerate(cleaned_lines):
+            if line.startswith("## Vetoed Tasks"):
+                vetoed_idx = i
+                break
+
+        insert_at = vetoed_idx if vetoed_idx else len(cleaned_lines)
+        section_block = [
+            "",
+            "## Completed Tasks",
+            "",
+            completed_entry,
+            "",
+        ]
+        for j, line in enumerate(section_block):
+            cleaned_lines.insert(insert_at + j, line)
+
+    return "\n".join(cleaned_lines)
+
+
 def process_todo_file(todo_path: Path) -> tuple[bool, list[Task], Optional[Task]]:
     """
     Process a todo.md file: handle vetoes and find next task.

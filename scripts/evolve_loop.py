@@ -35,6 +35,7 @@ from tools.evolution.task_selector import (
     SkillInvocation,
     count_p0_p2_tasks,
     load_todo,
+    mark_task_completed,
     select_queue_task,
     task_to_skill,
 )
@@ -316,12 +317,13 @@ def run_session(
     )
     log.info(f"Task type: {task_type}")
 
+    queue_task = None  # Track if this is a queue task for completion marking
     if task_type == "queue":
         # Pick from todo queue
-        task = select_queue_task(todo_content)
-        if task:
-            invocation = task_to_skill(task)
-            log.info(f"Queue task: P{task.priority} {task.title}")
+        queue_task = select_queue_task(todo_content)
+        if queue_task:
+            invocation = task_to_skill(queue_task)
+            log.info(f"Queue task: P{queue_task.priority} {queue_task.title}")
         else:
             log.info("No pending queue tasks, running deep-review instead")
             invocation = SkillInvocation("deep-review")
@@ -343,6 +345,14 @@ def run_session(
         if success:
             tasks_executed.append(task_name)
             log.info(f"Task completed: {task_name}")
+
+            # Mark queue task as completed in todo.md
+            if queue_task:
+                try:
+                    mark_task_completed(queue_task, invocation.args)
+                    log.info(f"Marked task completed in todo.md: {queue_task.title}")
+                except Exception as e:
+                    log.warning(f"Failed to mark task completed: {e}")
 
             # Record in recent_tasks
             state.recent_tasks.append(
