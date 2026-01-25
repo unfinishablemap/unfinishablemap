@@ -17,6 +17,22 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 21:45 UTC - deep-review (user-requested, eighteenth review)
+
+**Status**: Success
+**File**: concepts/measurement-problem.md
+**Previous review**: 2026-01-25T18:30:00+00:00 (seventeenth review same day)
+**Word count**: 2658 → 2508 (-150 words)
+**Critical issues addressed**: 0
+**Medium issues addressed**: 3
+- Stapp section: condensed while preserving essential content and scientific consensus acknowledgment
+- MWI section: reframed disagreement as about what the explanandum *is*
+- Born probabilities: added note that MWI defenders dispute probability mystery framing
+**Enhancements made**: Brought article from 106% to 100% of soft threshold through targeted trimming
+**Output**: `reviews/deep-review-2026-01-25-measurement-problem-18.md`
+
+---
+
 ## 2026-01-25 18:30 UTC - deep-review (user-requested, seventeenth review)
 
 **Status**: Success
