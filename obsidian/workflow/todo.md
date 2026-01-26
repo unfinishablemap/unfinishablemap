@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-26T18:57:44+00:00
+ai_modified: 2026-01-26T23:57:21+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Condense mysterianism.md (4136 words, 165% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers McGinn's cognitive closure and the mysterian position on consciousness. Core concept article supporting the site's treatment of explanatory limits. Preserve: central arguments for cognitive closure, engagement with both optimistic and pessimistic responses, connection to the hard problem. May defer detailed historical context to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Condense retrocausality.md (4095 words, 164% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers backward-in-time causation and its relevance to quantum consciousness frameworks. Important for understanding TSVF and transactional interpretations mentioned in the site's quantum treatment. Preserve: core arguments for retrocausal mechanisms, distinction from presentiment/parapsychology, connection to Libet-type experiments. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Condense temporal-asymmetry-remembering-anticipating.md (3551 words, 178% of threshold)
+- **Type**: condense
+- **Notes**: Voids article exceeds 3000-word hard threshold for voids/. Covers the asymmetry between memory and anticipation as a consciousness-revealing void. Preserve: core phenomenological observations, connection to time's arrow, the puzzle of why remembering feels different from anticipating. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Condense self-reference-paradox.md (3499 words, 175% of threshold)
+- **Type**: condense
+- **Notes**: Voids article exceeds 3000-word hard threshold for voids/. Covers consciousness studying itself as a fundamental void—the paradox of the observer observing observation. Preserve: core self-reference puzzle, connection to Gödel-like limitations, phenomenology of introspecting introspection. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
 
 ### P3: Condense introspection.md (4159 words, 166% of threshold)
 - **Type**: condense
