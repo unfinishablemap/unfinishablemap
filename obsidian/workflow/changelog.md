@@ -17,6 +17,20 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 19:01 UTC - deep-review
+
+- **Status**: Success
+- **File**: obsidian/concepts/epiphenomenalism.md
+- **Word count**: 2646 → 2588 (-58)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2
+  1. Expanded functionalist response to explain how functionalism claims to dissolve tracking puzzle
+  2. Rewrote contemplative neuroscience conclusion to acknowledge theory-neutrality of evidence
+- **Enhancements made**: Trimmed verbose passages in amplification section for length-neutral editing
+- **Output**: `reviews/deep-review-2026-01-26-epiphenomenalism.md`
+
+---
+
 ## 2026-01-26 - condense
 
 - **Status**: Success
