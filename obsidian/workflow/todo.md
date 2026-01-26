@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-26T22:30:00+00:00
+ai_modified: 2026-01-26T23:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Condense voluntary-attention.md (4405 words, 176% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core article for the attention-as-interface framework. Preserve: key mechanisms of top-down attention control, connection to quantum interface hypothesis, distinction from automatic attention. Defer detailed neuroscience to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Condense moral-responsibility.md (4322 words, 173% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers conditions for moral responsibility and connection to free will. Preserve: core arguments linking consciousness to responsibility, basic/derivative responsibility distinction. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Condense problem-of-other-minds.md (4315 words, 173% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Central epistemological challenge for consciousness studies. Preserve: the core problem statement, analogical argument, asymmetry with self-knowledge. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Write article on psychophysical laws framework
+- **Type**: expand-topic
+- **Notes**: Research completed in research/chalmers-psychophysical-laws-2026-01-17.md. Chalmers' framework for lawful mind-matter relations is central to dualist positions but has no dedicated article. Would support the site's treatment of consciousness-physics interface. Connects to consciousness-selecting-neural-patterns.md, tenets.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-26
+
+### P2: Create concept page for salience
+- **Type**: expand-topic
+- **Notes**: Referenced in 2+ articles (attention-motor-quantum-interface.md, dopamine-selection-interface.md) but no dedicated page exists. Key concept for understanding how consciousness selects among competing neural representations. The salience network marks stimuli for attention—bridges bottom-up and top-down attention.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-26
 
 ### P3: Condense temporal-asymmetry-remembering-anticipating.md (3551 words, 178% of target)
 - **Type**: condense
