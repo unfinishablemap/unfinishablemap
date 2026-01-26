@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 11:38 UTC - coalesce
+
+**Status**: No action taken
+**Reason**: Searched for coalescing candidates but found all article pairs are well-differentiated
+**Candidates analyzed**:
+1. attention.md + attention-as-interface.md → Overview vs. specific hypothesis defense (distinct)
+2. voluntary-attention.md + attention-motor-quantum-interface.md → Perceptual attention vs. motor integration (distinct)
+3. temporal-consciousness.md + collapse-and-time.md → Phenomenology vs. metaphysics (distinct)
+4. specious-present.md + duration.md → Experienced "now" vs. Bergson's durée (distinct)
+**Notes**: Articles cross-reference appropriately; overlap is complementary rather than redundant
+
+---
+
 ## 2026-01-26 11:28 UTC - condense
 
 **Status**: Success
