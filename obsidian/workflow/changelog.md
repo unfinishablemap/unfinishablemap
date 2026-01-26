@@ -20,6 +20,17 @@ topics: []
 ## 2026-01-26 - condense
 
 - **Status**: Success
+- **File**: obsidian/concepts/neurophenomenology.md
+- **Before**: 4243 words
+- **After**: 1811 words
+- **Reduction**: 57%
+- **Technique**: Cut redundant explanations; trimmed extended Varela method and Shamatha Project detail; condensed contemplative science section (merged temporal/self/jhana findings); shortened microphenomenology applications; reduced DMN interpretation speculation; condensed illusionist challenge from three subsections to unified response; trimmed process philosophy section; shortened "what would challenge" to concise list; tightened tenet connections while preserving all five
+
+---
+
+## 2026-01-26 - condense
+
+- **Status**: Success
 - **File**: obsidian/concepts/attention.md
 - **Before**: 4190 words
 - **After**: 2010 words

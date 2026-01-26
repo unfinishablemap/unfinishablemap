@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense neurophenomenology.md (4243 words, 170% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers Varela's methodology combining third-person neuroscience with first-person phenomenological reports. Preserve: core methodology description, epoché and reduction concepts, connection to consciousness studies. Defer detailed practice examples to contemplative-neuroscience.md. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P3: Cross-review mysterianism.md considering collective cognitive limits insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/collective-cognitive-limits.md (2026-01-26) develops group-level cognitive limits (paradigm blindness, elephants in the room, Overton windows). The mysterianism.md concept page discusses individual cognitive closure (McGinn). Check for: (1) cross-links to collective limits treatment, (2) whether collective cognitive limits offer an additional dimension to the mysterian position, (3) the distinction between individual architectural limits and collective framework limits.
@@ -328,6 +322,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense neurophenomenology.md (4243 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers Varela's methodology combining third-person neuroscience with first-person phenomenological reports. Preserve: core methodology description, epoché and reduction concepts, connection to consciousness studies. Defer detailed practice examples to contemplative-neuroscience.md. See /condense skill.
+- **Output**: obsidian/concepts/neurophenomenology.md
 
 ### ✓ 2026-01-26: Condense attention.md (4190 words, 168% of threshold)
 - **Type**: condense
