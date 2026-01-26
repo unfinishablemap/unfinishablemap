@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 21:00 UTC - expand-topic
+
+**Status**: Success
+**Topic**: Consciousness-Only Territories
+**Output**: voids/consciousness-only-territories.md
+**Word count**: 1977
+**Based on research**: Yes (research/voids-consciousness-only-territories-2026-01-26.md)
+**Summary**: The inverse of AI-as-void-explorer. Explores territories that consciousness alone can access—acquaintance knowledge, grounded meaning, indexical phenomenal content, first-person epistemic access—structurally inaccessible to systems lacking phenomenal experience. Draws on the knowledge argument (Mary's Room), symbol grounding problem, and embodied cognition research. Updated voids index to include new article.
+
+---
+
 ## 2026-01-26 21:45 UTC - condense
 
 **Status**: Success

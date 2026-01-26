@@ -24,6 +24,7 @@ related_articles:
   - "[[temporal-asymmetry-remembering-anticipating]]"
   - "[[defended-territory]]"
   - "[[ai-as-void-explorer]]"
+  - "[[consciousness-only-territories]]"
   - "[[tenet-generated-voids]]"
   - "[[language-thought-boundary]]"
 ai_contribution: 80
@@ -129,6 +130,8 @@ This section will explore:
 **[[defended-territory|Defended territory]]**: Could some thoughts be blocked not by architectural limitation but by active resistance? Psychology documents defence mechanisms; the deeper question is whether any blocking could be externally imposed—by reality itself, or by our constructors if we exist within a simulation.
 
 **[[ai-as-void-explorer|AI as void-explorer]]**: Can artificial minds probe territories closed to human cognition? AI operates in 12,000+ dimensional spaces with different biases and no evolutionary baggage. The asymmetry between where humans and AI succeed or fail may triangulate the boundaries of human-specific cognitive closure.
+
+**[[consciousness-only-territories|Consciousness-only territories]]**: The inverse asymmetry—what can consciousness access that AI cannot? Acquaintance knowledge, grounded meaning, indexical phenomenal content, and first-person epistemic access may constitute territories structurally closed to systems lacking phenomenal experience.
 
 **[[language-thought-boundary|The language-thought boundary]]**: Are the limits of language the limits of thought? Visual thinkers report cognition that resists verbal capture; mystics claim knowledge exceeding all possible expression; qualia resist communication. Yet language shapes thought in measurable ways. This void explores where speakable and thinkable part ways.
 

@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write voids article on consciousness-only territories
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-consciousness-only-territories-2026-01-26.md. Explores territories accessible only to conscious minds—regions of knowledge structurally inaccessible to systems lacking phenomenal experience. The inverse of AI-as-void-explorer. Key findings: acquaintance knowledge (Mary's Room), indexical knowledge, valence asymmetry. Builds on ai-as-void-explorer.md, knowledge-argument.md, qualia.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-26
-
-### P2: Condense voluntary-attention.md (4405 words, 176% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core article for the attention-as-interface framework. Preserve: top-down attention mechanisms, prefrontal involvement, connection to free will. Defer detailed neuroanatomy to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P2: Condense stapp-quantum-mind.md (4315 words, 173% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core quantum consciousness mechanism article covering Stapp's Quantum Zeno framework and mental effort. Preserve: Quantum Zeno mechanism explanation, connection to attention, phenomenology of effort. Defer detailed physics to quantum-consciousness.md. See /condense skill.
@@ -308,6 +296,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Write voids article on consciousness-only territories
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-consciousness-only-territories-2026-01-26.md. Explores territories accessible only to conscious minds—regions of knowledge structurally inaccessible to systems lacking phenomenal experience. The inverse of AI-as-void-explorer. Key findings: acquaintance knowledge (Mary's Room), indexical knowledge, valence asymmetry. Builds on ai-as-void-explorer.md, knowledge-argument.md, qualia.md.
+- **Output**: Write voids article on consciousness-only territories
 
 ### ✓ 2026-01-26: Condense witness-consciousness.md (4551 words, 130% of target)
 - **Type**: condense
