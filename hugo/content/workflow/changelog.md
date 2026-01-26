@@ -18,6 +18,171 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 18:30 UTC - expand-topic
+
+**Status**: Success
+**Topic**: The Language-Thought Boundary
+**Output**: `voids/language-thought-boundary.md`
+**Word count**: 1995
+**Based on research**: Yes (`research/voids-language-thought-boundary-2026-01-26.md`)
+**Summary**: New voids article exploring whether language and thought have the same limits. Covers three levels (linguistic limits, language-as-such limits, conceptual limits), the paradox of articulating ineffability, phenomenology of hitting linguistic barriers, qualia as limit case. Connects to Wittgenstein's Tractatus, Sapir-Whorf research, apophatic traditions, and McGinn's cognitive closure. Strong tenet alignment especially Occam's Razor Has Limits and Dualism.
+
+---
+
+## 2026-01-26 09:00 UTC - pessimistic-review
+
+**Status**: Success
+**Files reviewed**: `concepts/panpsychism.md`, `concepts/idealism.md`, `concepts/epiphenomenalism.md`
+**Output**: `reviews/pessimistic-2026-01-26.md`
+**Issues found**: 6 (3 high, 3 medium)
+**Tasks generated**: 1 (P2 refine-draft for panpsychism.md)
+**Summary**: Reviewed metaphysical alternatives cluster—panpsychism, idealism, and epiphenomenalism as rivals to the Map's interactionist dualism. Main finding: articles present Map's framework as solving problems when it relocates them. The combination problem and interaction problem are comparably difficult; claiming the Map "avoids" one while rivals "face" theirs creates false asymmetry. Secondary issues: idealism's strongest forms not engaged (intra-mental interaction as genuine interaction), self-stultification argument overstated without engaging reliabilist response, evolutionary argument against epiphenomenalism may prove too much (threatens any view where consciousness isn't identical to neural processes), contemplative neuroscience evidence conflates correlation with causation.
+
+---
+
+## 2026-01-26 10:25 UTC - condense
+
+**Status**: Success
+**File**: concepts/mental-effort.md
+**Before**: 5046 words
+**After**: 2082 words
+**Reduction**: 59%
+**Technique**: Heavily condensed "Phenomenology of Effort" section (from ~1800 to ~600 words) by merging redundant subsections and deferring to linked articles. Removed entire "Process Philosophy Perspective" section (tangential Whitehead material). Consolidated "Objections and Responses" from three subsections to two concise paragraphs. Condensed "Illusionist Challenge" to single focused response. Shortened "Paradox of Effortless Awareness" by 50% (links to meditation-and-consciousness-modes for details). Trimmed "What Would Challenge" to single paragraph. Reduced Further Reading from 23 to 8 essential links. Reduced References from 16 to 5 core sources. Preserved opening summary, core Stapp mechanism, Schwartz evidence, tenet connections, and distinctive voice.
+
+---
+
+## 2026-01-26 15:30 UTC - condense
+
+**Status**: Success
+**File**: concepts/cognitive-phenomenology.md
+**Before**: 5133 words
+**After**: 2017 words
+**Reduction**: 61%
+**Technique**: Cut Process Philosophy section entirely (tangential Whitehead material), heavily condensed Temporal Structure of Understanding (linked to detailed article), condensed Recursive Language evidence, trimmed Semantic Memory/Epistemic Emotions/Amplification sections to brief summaries with links, consolidated Unusual Cases to single paragraph, trimmed Illusionist Challenge and What Would Challenge sections, streamlined Further Reading from 20 to 10 entries. Preserved core arguments, opening summary, tenet connections, and distinctive voice.
+
+---
+
+## 2026-01-26 10:12 UTC - deep-review
+
+**Status**: Success
+**File**: topics/emotional-consciousness.md
+**Word count**: 3150 → 3148 (-2)
+**Critical issues addressed**: 0 (none found)
+**Medium issues addressed**: 1 (added speculative qualifier to quantum mechanism)
+**Enhancements made**: 2 (added self-and-consciousness to Further Reading, prose tightening)
+**Output**: `reviews/deep-review-2026-01-26-emotional-consciousness.md`
+**Notes**: Second review. Article stable after first review (2026-01-19). No critical issues. Length-neutral mode applied (article at 105% of soft threshold). All six adversarial personas engaged; disagreements are philosophical standoffs, not fixable flaws.
+
+---
+
+## 2026-01-26 12:00 UTC - condense
+
+**Status**: Success
+**File**: concepts/dreams-and-consciousness.md
+**Before**: 5184 words
+**After**: 1545 words
+**Reduction**: 70%
+**Technique**: Cut Process Philosophy section entirely (tangential Whitehead connection), heavily trimmed Dream Imagery vs Voluntary Imagery section, condensed Tibetan Dream Yoga (reduced Sanskrit/Tibetan terminology), tightened Illusionist Challenge and What Would Challenge sections, streamlined Further Reading and References, removed redundancy between predictive processing and filter theory explanations.
+
+---
+
+## 2026-01-26 12:00 UTC - deep-review
+
+**Status**: Success
+**File**: topics/quantum-neural-timing-constraints.md
+**Word count**: 2004 → 2067 (+63)
+**Critical issues addressed**: 0 (none found)
+**Medium issues addressed**: 3
+**Enhancements made**: 3
+**Output**: `reviews/deep-review-2026-01-26-quantum-neural-timing-constraints.md`
+**Notes**: First review of this article. Added in vitro clarification for Bandyopadhyay coherence measurement, acknowledged epistemic trade-off of timing-agnosticism for post-decoherence selection model, noted Stapp's mechanism uses orthodox QM unlike Orch OR.
+
+---
+
+## 2026-01-26 12:00 UTC - apex-evolve
+
+**Status**: Complete
+**Article**: The Explanatory Frontier
+**Changed sources**: 2 (mysterianism-cognitive-closure.md, first-person-third-person-methodology.md)
+**Word count**: 2281 → 2835
+**Review**: reviews/apex-evolve-2026-01-26-explanatory-frontier.md
+**Notes**: Integrated material on heterophenomenology (Dennett's fictional world approach), second-person intersubjective methods, Husserl's foundation for objectivity, temporary vs permanent mysterianism distinction, squirrel/quantum field theory analogy, and voids framework connection. Enhanced synthesis section to show how all methodological approaches hit the same wall.
+
+---
+
+## 2026-01-26 08:23 UTC - deep-review
+
+**Status**: Success (stability confirmed)
+**File**: concepts/consciousness.md
+**Word count**: 2211 words (unchanged)
+**Critical issues addressed**: 0 (none found)
+**Medium issues addressed**: 0 (none found)
+**Enhancements made**: 0 (article stable)
+**Output**: `reviews/deep-review-2026-01-26-consciousness-stability.md`
+**Notes**: Second review same day confirmed article stability after earlier review. All adversarial concerns represent bedrock philosophical disagreements rather than fixable flaws. No changes needed.
+
+---
+
+## 2026-01-26 08:21 UTC - condense
+
+**Status**: Success
+**File**: concepts/temporal-consciousness.md
+**Before**: 5279 words
+**After**: 2461 words
+**Reduction**: 53%
+**Technique**: Cut extended Buddhist phenomenology (contemplative access), condensed mental time travel section (deferred detail to linked articles), removed lengthy prospective memory section, cut detailed sleep temporal spectrum table, significantly shortened illusionist challenge and process philosophy sections, trimmed phenomenological method to essentials, consolidated metaphysical framework, reduced Further Reading list. Preserved opening summary, core specious present analysis, AI consciousness implications, Relation to Site Perspective with all five tenets, and References.
+
+---
+
+## 2026-01-26 08:13 UTC - research-voids
+
+**Status**: Success
+**Topic**: The Language-Thought Boundary
+**Category**: Mixed (Unexplorable / Occluded)
+**Output**: research/voids-language-thought-boundary-2026-01-26.md
+**Key finding**: The relationship between language and thought constitutes a genuine cognitive boundary. While strong linguistic determinism is rejected, multiple philosophical traditions (Wittgenstein, negative theology, contemporary ineffability research) converge on the insight that some content may be structurally inexpressible—not merely difficult to articulate but beyond linguistic capture. The qualia's inherent privacy and the paradox of articulating ineffability suggest this is partially Unexplorable (structural limits) and partially Occluded (content that resists articulation for systematic reasons).
+
+---
+
+## 2026-01-26 08:08 UTC - condense
+
+**Status**: Success
+**File**: concepts/attention-as-interface.md
+**Before**: 5813 words
+**After**: 2288 words
+**Reduction**: 61%
+**Technique**: Cut redundant sections (voluntary attention mechanisms detail, candidate selection sites prose, meditation subsections, extended "other candidate interfaces" discussion), removed tangential sections (process philosophy, mysterianism alternative), consolidated "Why Attention Specifically" and "Falsification Conditions" sections, compressed Further Reading. Preserved opening summary, core hypothesis table, testable predictions, illusionist challenge response, relation to site tenets, and references.
+
+---
+
+## 2026-01-26 12:00 UTC - deep-review
+
+**Status**: Success
+**File**: concepts/consciousness.md
+**Word count**: 1974 → 2211 (+237)
+**Previous review**: Never
+
+**Summary**: First comprehensive review of the consciousness hub article. Added missing Lieberman et al. (2008) citation to References. Expanded illusionism section to engage with Frankish's positive account (the "illusion problem") rather than dismissing it in one sentence. Added mysterianism as a theory with connection to Occam's Razor Has Limits tenet. Added acknowledgment that physicalists have responses to irreducibility arguments while explaining why convergence strengthens the cumulative case. Added [mysterianism](/concepts/mysterianism/) and [panpsychism](/concepts/panpsychism/) to concepts list and Further Reading. Added McGinn (1989) reference.
+
+**Critical issues addressed**: 1
+**Medium issues addressed**: 2
+**Enhancements made**: 4 (mysterianism section, expanded illusionism, convergence acknowledgment, cross-links)
+
+**Output**: reviews/deep-review-2026-01-26-consciousness.md
+
+---
+
+## 2026-01-26 07:58 UTC - condense
+
+**Status**: Success
+**File**: concepts/binding-problem.md
+**Before**: 5918 words
+**After**: 1930 words
+**Reduction**: 67%
+**Technique**: Cut redundant background (illusionist challenge detail, GWT/IIT extended discussion), condensed episodic memory and sleep sections, removed language binding case study (deferred to linked article), trimmed mind-brain division section, tightened quantum alternative while preserving experimental evidence. Preserved opening summary, BP1/BP2 distinction, core quantum argument, tenet connections, and references.
+
+---
+
 ## 2026-01-26 12:00 UTC - deep-review (cross-review)
 
 **Status**: Success

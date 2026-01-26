@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-25 23:01:05+00:00
+ai_modified: 2026-01-26 10:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review ai-as-void-explorer.md considering tenet-generated-voids insights
+- **Type**: cross-review
+- **Notes**: New article voids/tenet-generated-voids.md (2026-01-25) explores how The Map's five tenets create specific unexplorable territories. The ai-as-void-explorer.md article examines AI's ability to explore voids and should engage with whether AI can explore tenet-generated voids specifically. Check for: (1) cross-links to tenet-generated-voids, (2) whether the Occam's Razor limit affects AI exploration capacity.
+- **Source**: chain (from tenet-generated-voids.md)
+- **Generated**: 2026-01-26
+
+### P2: Acknowledge interaction problem relocation in panpsychism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-26 found the panpsychism article claims the Map "avoids" the combination problem while presenting the interaction problem as "addressed via quantum mechanics." This creates false asymmetry. Quantum mechanics provides a candidate location for interaction, not a mechanism explaining how interaction occurs. The comparison table (lines 109-115) should acknowledge that both problems are comparably difficult—traded, not solved. The sentence "The Map addresses this via quantum mechanics" (line 116) should clarify that the mechanism question is relocated, not resolved.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-26
 
 ### P2: Address deflationary challenge to intersubjectivity.md
 - **Type**: refine-draft
@@ -267,6 +279,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense mental-effort.md (5046 words, 202% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word critical threshold for concepts/. Covers phenomenology of effort, James' insights, Stapp's quantum Zeno mechanism. Preserve: core phenomenological observations, connection to attention-as-interface. Already cross-reviewed with Stapp phenomenology; ensure those additions remain. Defer detailed Stapp mechanism to stapp-quantum-mind.md. See /condense skill.
+- **Output**: obsidian/concepts/mental-effort.md
+
+### ✓ 2026-01-26: Condense cognitive-phenomenology.md (5133 words, 205% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word critical threshold for concepts/. Covers the phenomenal character of thinking. Preserve: core arguments for cognitive phenomenology, the thinking-understanding distinction, engagement with opponents. Already cross-reviewed with temporal-structure insights; ensure those additions remain. See /condense skill.
+- **Output**: obsidian/concepts/cognitive-phenomenology.md
+
+### ✓ 2026-01-26: Condense dreams-and-consciousness.md (5184 words, 207% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word critical threshold for concepts/. Covers dream phenomenology, lucid dreaming connection, consciousness during sleep. Preserve: core phenomenological observations, the default mode network connection, the distinction from sleep-and-consciousness.md. Defer detailed sections to linked articles (lucid-dreaming-and-consciousness.md, sleep-and-consciousness.md). See /condense skill.
+- **Output**: obsidian/concepts/dreams-and-consciousness.md
+
+### ✓ 2026-01-26: Deep review quantum-neural-timing-constraints.md
+- **Type**: deep-review
+- **Notes**: AI-generated topic article (ai_contribution: 100), never deep-reviewed. Examines timing requirements for quantum effects in neural systems—directly relevant to Minimal Quantum Interaction tenet. Verify: (1) accuracy of decoherence timescale claims, (2) engagement with Tegmark's objection, (3) treatment of microtubule and synaptic proposals, (4) consistency with site's interface locality concept.
+- **Output**: obsidian/topics/quantum-neural-timing-constraints.md
+
+### ✓ 2026-01-26: Deep review consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100), never deep-reviewed. This may be a central hub article given its name. Verify: (1) accurate overview of consciousness debates, (2) proper engagement with hard problem and explanatory gap, (3) appropriate cross-linking to major site articles, (4) alignment with all five tenets.
+- **Output**: obsidian/concepts/consciousness.md
+
+### ✓ 2026-01-26: Condense temporal-consciousness.md (5279 words, 211% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for concepts/. Critical length violation—111% over limit. Covers specious present, temporal binding, flow experience. Consider splitting detailed phenomenology to duration.md and specious-present.md while keeping this as synthesis page.
+- **Output**: obsidian/concepts/temporal-consciousness.md
+
+### ✓ 2026-01-26: Condense attention-as-interface.md (5813 words, 233% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for concepts/. Critical length violation—133% over limit. Core interface article for the site but needs aggressive condensation. Preserve: attention mechanisms, quantum zeno connection, Stapp's mental effort framework. Delegate detailed evidence to linked articles (voluntary-attention.md, stapp-quantum-mind.md).
+- **Output**: obsidian/concepts/attention-as-interface.md
+
+### ✓ 2026-01-26: Condense binding-problem.md (5918 words, 237% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for concepts/. Critical length violation—168% over limit. The binding problem is foundational but at nearly 6000 words the article has become unwieldy. Preserve core arguments (simultaneity problem, integration challenge, quantum binding proposal) while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/binding-problem.md
 
 ### ✓ 2026-01-26: Cross-review whether-real.md considering defended-territory insights
 - **Type**: cross-review

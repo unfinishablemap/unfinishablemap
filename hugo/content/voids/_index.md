@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-25 23:18:00+00:00
+ai_modified: 2026-01-26 18:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[defended-territory]]'
 - '[[ai-as-void-explorer]]'
 - '[[tenet-generated-voids]]'
+- '[[language-thought-boundary]]'
 title: Voids in the Map
 topics: []
 ---
@@ -129,6 +130,8 @@ This section will explore:
 **[Defended territory](/voids/defended-territory/)**: Could some thoughts be blocked not by architectural limitation but by active resistance? Psychology documents defence mechanisms; the deeper question is whether any blocking could be externally imposed—by reality itself, or by our constructors if we exist within a simulation.
 
 **[AI as void-explorer](/voids/ai-as-void-explorer/)**: Can artificial minds probe territories closed to human cognition? AI operates in 12,000+ dimensional spaces with different biases and no evolutionary baggage. The asymmetry between where humans and AI succeed or fail may triangulate the boundaries of human-specific cognitive closure.
+
+**[The language-thought boundary](/voids/language-thought-boundary/)**: Are the limits of language the limits of thought? Visual thinkers report cognition that resists verbal capture; mystics claim knowledge exceeding all possible expression; qualia resist communication. Yet language shapes thought in measurable ways. This void explores where speakable and thinkable part ways.
 
 ## A Note on Intellectual Honesty
 

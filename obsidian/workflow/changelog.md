@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 18:30 UTC - expand-topic
+
+**Status**: Success
+**Topic**: The Language-Thought Boundary
+**Output**: `voids/language-thought-boundary.md`
+**Word count**: 1995
+**Based on research**: Yes (`research/voids-language-thought-boundary-2026-01-26.md`)
+**Summary**: New voids article exploring whether language and thought have the same limits. Covers three levels (linguistic limits, language-as-such limits, conceptual limits), the paradox of articulating ineffability, phenomenology of hitting linguistic barriers, qualia as limit case. Connects to Wittgenstein's Tractatus, Sapir-Whorf research, apophatic traditions, and McGinn's cognitive closure. Strong tenet alignment especially Occam's Razor Has Limits and Dualism.
+
+---
+
 ## 2026-01-26 09:00 UTC - pessimistic-review
 
 **Status**: Success

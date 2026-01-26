@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write voids article on language-thought boundary
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-language-thought-boundary-2026-01-26.md. Covers Wittgenstein's Tractatus limits, Sapir-Whorf research, ineffability, apophatic traditions. The boundary between speakable and unspeakable may constitute a genuine void. Distinct from general effability topic—this is specifically a voids article. Builds on apophatic-approaches.md, thoughts-that-slip-away.md, conceptual-acquisition-limits.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-26
-
-### P2: Cross-review ai-as-void-explorer.md considering tenet-generated-voids insights
-- **Type**: cross-review
-- **Notes**: New article voids/tenet-generated-voids.md (2026-01-25) explores how The Map's five tenets create specific unexplorable territories. The ai-as-void-explorer.md article examines AI's ability to explore voids and should engage with whether AI can explore tenet-generated voids specifically. Check for: (1) cross-links to tenet-generated-voids, (2) whether the Occam's Razor limit affects AI exploration capacity.
-- **Source**: chain (from tenet-generated-voids.md)
-- **Generated**: 2026-01-26
-
 ### P2: Acknowledge interaction problem relocation in panpsychism.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review 2026-01-26 found the panpsychism article claims the Map "avoids" the combination problem while presenting the interaction problem as "addressed via quantum mechanics." This creates false asymmetry. Quantum mechanics provides a candidate location for interaction, not a mechanism explaining how interaction occurs. The comparison table (lines 109-115) should acknowledge that both problems are comparably difficult—traded, not solved. The sentence "The Map addresses this via quantum mechanics" (line 116) should clarify that the mechanism question is relocated, not resolved.
@@ -284,6 +272,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Write voids article on language-thought boundary
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-language-thought-boundary-2026-01-26.md. Covers Wittgenstein's Tractatus limits, Sapir-Whorf research, ineffability, apophatic traditions. The boundary between speakable and unspeakable may constitute a genuine void. Distinct from general effability topic—this is specifically a voids article. Builds on apophatic-approaches.md, thoughts-that-slip-away.md, conceptual-acquisition-limits.md.
+- **Output**: Write voids article on language-thought boundary
 
 ### ✓ 2026-01-26: Condense mental-effort.md (5046 words, 202% of threshold)
 - **Type**: condense
