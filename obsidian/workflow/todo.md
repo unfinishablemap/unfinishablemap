@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense problem-of-other-minds.md (4315 words, 173% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Central epistemological challenge for consciousness studies. Preserve: the core problem statement, analogical argument, asymmetry with self-knowledge. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P2: Write article on psychophysical laws framework
 - **Type**: expand-topic
 - **Notes**: Research completed in research/chalmers-psychophysical-laws-2026-01-17.md. Chalmers' framework for lawful mind-matter relations is central to dualist positions but has no dedicated article. Would support the site's treatment of consciousness-physics interface. Connects to consciousness-selecting-neural-patterns.md, tenets.md.
@@ -322,6 +316,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense problem-of-other-minds.md (4315 words, 173% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Central epistemological challenge for consciousness studies. Preserve: the core problem statement, analogical argument, asymmetry with self-knowledge. See /condense skill.
+- **Output**: obsidian/concepts/problem-of-other-minds.md
 
 ### ✓ 2026-01-26: Condense moral-responsibility.md (4322 words, 173% of target)
 - **Type**: condense
