@@ -3,7 +3,7 @@ title: "The Many-Worlds Interpretation"
 created: 2026-01-19
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-23T16:00:00+00:00
+ai_modified: 2026-01-26T13:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-01-20T06:12:00+00:00
+last_deep_review: 2026-01-26T13:00:00+00:00
 ---
 
 The Many-Worlds Interpretation (MWI) holds that quantum measurement never collapses the wave function. Instead, every possible outcome occurs—the universe splits into branches, one for each possibility. The Unfinishable Map explicitly rejects MWI in the [[tenets#^no-many-worlds|No Many Worlds]] tenet. The rejection is not merely aesthetic but principled: MWI raises unanswerable questions about identity, dissolves the meaning of probability, and fails to explain why consciousness exists at all.
@@ -80,7 +80,7 @@ The standard MWI strategy uses decision theory: rational agents should weight ou
 
 **The MWI response**: Decision-theoretic derivations (Deutsch-Wallace) claim to show that rational agents *must* weight outcomes by Born rule probabilities, given certain axioms about rational preference under branching.
 
-**The counter-response**: These derivations are contested. Critics (Kent, Albert, Loewer) argue the axioms are question-begging or insufficiently motivated. The Map of deriving probability from non-probabilistic branching may be fundamentally misguided.
+**The counter-response**: These derivations are contested. Critics (Kent, Albert, Loewer) argue the axioms are question-begging or insufficiently motivated. The project of deriving probability from non-probabilistic branching may be fundamentally misguided.
 
 ### 4. The Preferred Basis Problem
 
