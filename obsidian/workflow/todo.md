@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-26T10:44:29+00:00
+ai_modified: 2026-01-26T11:31:54+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Condense ethics-of-consciousness.md (5034 words, 126% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Covers AI consciousness ethics, moral status, and precautionary principles. Preserve core ethical framework while removing redundancy. Consider deferring detailed arguments to linked concept pages. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Condense metacognition.md (4927 words, 141% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers thinking about thinking, self-monitoring, and cognitive self-regulation. Preserve core metacognitive distinctions while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Condense episodic-memory.md (4903 words, 140% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers autobiographical memory, mental time travel, and the autonoetic consciousness connection. Preserve core arguments about episodic memory's phenomenal character while deferring details. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Write article on dopamine's role in attention-motor interface
+- **Type**: expand-topic
+- **Notes**: Based on research in research/dopamine-attention-motor-quantum-interface-2026-01-24.md. Comprehensive research on dopamine's dual role as salience-marker and threshold-modulator. Covers wanting vs. liking, tonic vs. phasic dopamine. The "can move/won't move" distinction supports Bidirectional Interaction via consciousness's role in action selection. Connects to attention-as-interface framework.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-26
+
+### P2: Create concept page for voluntary-attention-control
+- **Type**: expand-topic
+- **Notes**: Referenced 4 times across content but no dedicated page exists. The site's attention-as-interface framework depends on voluntary attention as the key mechanism. Should cover: top-down attention control, prefrontal mechanisms, the distinction from automatic/bottom-up attention, and connection to free will debates.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-26
 
 ### P3: Deep review conceptual-acquisition-limits.md
 - **Type**: deep-review
