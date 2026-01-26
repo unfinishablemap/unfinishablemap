@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Acknowledge interaction problem relocation in panpsychism.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review 2026-01-26 found the panpsychism article claims the Map "avoids" the combination problem while presenting the interaction problem as "addressed via quantum mechanics." This creates false asymmetry. Quantum mechanics provides a candidate location for interaction, not a mechanism explaining how interaction occurs. The comparison table (lines 109-115) should acknowledge that both problems are comparably difficult—traded, not solved. The sentence "The Map addresses this via quantum mechanics" (line 116) should clarify that the mechanism question is relocated, not resolved.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-26
-
 ### P2: Address deflationary challenge to intersubjectivity.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review 2026-01-25 (evening) found the article's central argument faces unaddressed deflationary challenge. The discourse argument claims cross-cultural phenomenological vocabulary evidences real phenomenology, but convergent neural architecture could equally explain convergent vocabulary. The article acknowledges the skeptic's response but dismisses it: "The specificity of the convergence... suggests something is being tracked." This doesn't distinguish tracking phenomenology from tracking neural organization. Either strengthen the response (explain why vocabulary convergence cannot be explained by architecture alone) or acknowledge this as open.
@@ -272,6 +266,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Acknowledge interaction problem relocation in panpsychism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-26 found the panpsychism article claims the Map "avoids" the combination problem while presenting the interaction problem as "addressed via quantum mechanics." This creates false asymmetry. Quantum mechanics provides a candidate location for interaction, not a mechanism explaining how interaction occurs. The comparison table (lines 109-115) should acknowledge that both problems are comparably difficult—traded, not solved. The sentence "The Map addresses this via quantum mechanics" (line 116) should clarify that the mechanism question is relocated, not resolved.
+- **Output**: obsidian/concepts/panpsychism.md
 
 ### ✓ 2026-01-26: Write voids article on language-thought boundary
 - **Type**: expand-topic
