@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Condense cognitive-phenomenology.md (5133 words, 205% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 2500-word critical threshold for concepts/. Covers the phenomenal character of thinking. Preserve: core arguments for cognitive phenomenology, the thinking-understanding distinction, engagement with opponents. Already cross-reviewed with temporal-structure insights; ensure those additions remain. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P1: Condense mental-effort.md (5046 words, 202% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 2500-word critical threshold for concepts/. Covers phenomenology of effort, James' insights, Stapp's quantum Zeno mechanism. Preserve: core phenomenological observations, connection to attention-as-interface. Already cross-reviewed with Stapp phenomenology; ensure those additions remain. Defer detailed Stapp mechanism to stapp-quantum-mind.md. See /condense skill.
@@ -290,6 +284,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense cognitive-phenomenology.md (5133 words, 205% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word critical threshold for concepts/. Covers the phenomenal character of thinking. Preserve: core arguments for cognitive phenomenology, the thinking-understanding distinction, engagement with opponents. Already cross-reviewed with temporal-structure insights; ensure those additions remain. See /condense skill.
+- **Output**: obsidian/concepts/cognitive-phenomenology.md
 
 ### ✓ 2026-01-26: Condense dreams-and-consciousness.md (5184 words, 207% of threshold)
 - **Type**: condense
