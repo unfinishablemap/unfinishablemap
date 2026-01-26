@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Condense temporal-consciousness.md (5279 words, 211% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 2500-word hard threshold for concepts/. Critical length violation—111% over limit. Covers specious present, temporal binding, flow experience. Consider splitting detailed phenomenology to duration.md and specious-present.md while keeping this as synthesis page.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P2: Deep review consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100), never deep-reviewed. This may be a central hub article given its name. Verify: (1) accurate overview of consciousness debates, (2) proper engagement with hard problem and explanatory gap, (3) appropriate cross-linking to major site articles, (4) alignment with all five tenets.
@@ -284,6 +278,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense temporal-consciousness.md (5279 words, 211% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for concepts/. Critical length violation—111% over limit. Covers specious present, temporal binding, flow experience. Consider splitting detailed phenomenology to duration.md and specious-present.md while keeping this as synthesis page.
+- **Output**: obsidian/concepts/temporal-consciousness.md
 
 ### ✓ 2026-01-26: Condense attention-as-interface.md (5813 words, 233% of threshold)
 - **Type**: condense
