@@ -3,7 +3,7 @@ title: "The Hard Problem of Consciousness"
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-01-25T22:30:00+00:00
+ai_modified: 2026-01-26T10:46:57+00:00
 draft: false
 topics: []
 concepts:
@@ -57,7 +57,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-06
 last_curated:
-last_deep_review: 2026-01-20T09:30:00+00:00
+last_deep_review: 2026-01-26T10:46:57+00:00
 ---
 
 Why is there something it is like to be you?
@@ -182,7 +182,7 @@ Research on [[neural-correlates-of-consciousness|neural correlates of consciousn
 
 **Eliminativism** denies the explanandum—but this denies what is most evident: that there is something it is like to read these words.
 
-**[[illusionism|Illusionism]]** claims phenomenal consciousness is a "user illusion." But this trades the hard problem for an "illusion problem": all illusions presuppose experience. What is the *experience of being under the illusion* made of? The regress objection applies.
+**[[illusionism|Illusionism]]** claims phenomenal consciousness is a "user illusion"—we're under an illusion that there's something it's like to have experiences. But this trades the hard problem for an "illusion problem": what generates the illusion? The illusionist must explain why the brain represents itself as having phenomenal states, and this explanation requires accounting for the *seeming*—which is itself experiential. The regress doesn't obviously terminate.
 
 **[[reductionism|Reductive physicalism]]** claims consciousness *is* brain activity, as water is H₂O. But unlike water=H₂O, the identity doesn't explain. We understand why H₂O has water's properties; we don't understand why neural activity has experiential properties.
 
@@ -266,6 +266,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [[mysterianism-cognitive-closure]] — McGinn's cognitive closure thesis
 - [[quantum-consciousness]] — How quantum mechanics might relate to consciousness
 - [[witness-consciousness]] — The subject-object structure revealed by contemplative practice
+- [[buddhism-and-dualism]] — How Buddhist philosophy engages with dualist frameworks
 - [[tenets]] — The foundational commitments of the Map
 
 ### External Resources
