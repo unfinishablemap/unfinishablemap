@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-26T15:30:00+00:00
+ai_modified: 2026-01-26T14:32:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write voids article on collective cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-collective-cognitive-limits-2026-01-26.md. Explores systematic blind spots at the level of cultures, paradigms, and societies—what groups cannot think, beyond individual cognitive limits. Key frameworks: Zerubavel's "elephants in the room," Kuhn's paradigm blindness, Overton Window, agnotology. Builds on defended-territory.md, limits-reveal-structure.md, thoughts-that-slip-away.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-26
+
+### P2: Cross-review many-worlds.md considering vertiginous question insights
+- **Type**: cross-review
+- **Notes**: New article topics/vertiginous-question.md (2026-01-26) develops the argument that MWI fails the indexical gap—it cannot explain why I am THIS observer in THIS branch. Check many-worlds.md for: (1) opportunities to cross-link to vertiginous question treatment, (2) whether indexical objection should be strengthened, (3) consistency in how the self-location problem is presented.
+- **Source**: chain (from vertiginous-question.md)
+- **Generated**: 2026-01-26
+
+### P2: Cross-review haecceity.md considering vertiginous question insights
+- **Type**: cross-review
+- **Notes**: New article topics/vertiginous-question.md (2026-01-26) develops haecceity as central to the "Why am I this one?" question. Check haecceity.md for: (1) cross-links to vertiginous question treatment, (2) opportunities to strengthen the argument from phenomenological to metaphysical haecceity, (3) engagement with Parfit's response.
+- **Source**: chain (from vertiginous-question.md)
+- **Generated**: 2026-01-26
+
+### P2: Condense specious-present.md (4274 words, 122% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers temporal experience, the specious present phenomenon, and its implications for consciousness theories. Preserve core phenomenological observations while deferring detailed sections to linked articles (temporal-consciousness.md, duration.md). See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P3: Cross-review causal-closure.md considering conservation-laws-and-mind insights
+- **Type**: cross-review
+- **Notes**: New article topics/conservation-laws-and-mind.md (2026-01-26) addresses conservation law objections and argues that consciousness may select quantum outcomes without adding energy. Check causal-closure.md for: (1) cross-links to new treatment, (2) whether the "selection without energy injection" response strengthens the article, (3) consistency in how closure is challenged.
+- **Source**: chain (from conservation-laws-and-mind.md)
+- **Generated**: 2026-01-26
+
+### P3: Condense functionalism.md (4250 words, 121% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers computational theories of mind and the multiple realizability argument. Preserve core arguments and the consciousness objections while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
 
 ### P3: Create concept page for visual-consciousness
 - **Type**: expand-topic
