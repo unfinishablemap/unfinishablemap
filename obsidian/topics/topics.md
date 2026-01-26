@@ -1,5 +1,6 @@
 ---
 title: "Topics"
+description: "AI-assisted deep dives into consciousness, free will, and meaning—continuously reviewed and refined to get closer to the truth."
 created: 2026-01-06
 modified: 2026-01-06
 human_modified: 2026-01-06

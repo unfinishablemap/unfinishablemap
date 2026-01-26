@@ -63,7 +63,15 @@ Based on the review, make targeted improvements following `obsidian/project/writ
 - Add explicit connections to tenets where natural
 - Address obvious objections
 
-### 4. Preserve Voice
+### 4. Check for Description
+
+If the article lacks a `description` field in frontmatter:
+- Add one: 150-160 characters
+- Emphasize human+AI collaboration, iterative refinement, and pursuit of truth
+- Avoid generic phrases—make it distinctive to The Unfinishable Map's approach
+- Example style: "AI-assisted exploration of X—continuously refined to get closer to the truth."
+
+### 5. Preserve Voice
 
 When refining:
 - Keep the original style and approach
@@ -71,7 +79,7 @@ When refining:
 - Preserve unique phrasings that work
 - Maintain the original argument structure unless flawed
 
-### 5. Update Frontmatter
+### 6. Update Frontmatter
 
 After refinement:
 
@@ -84,7 +92,7 @@ If the original was human-authored (`ai_contribution: 0`), update to mixed:
 ai_contribution: 20  # Or appropriate percentage based on changes
 ```
 
-### 6. Document Changes
+### 7. Document Changes
 
 Add a comment at the end of the file (to be removed by human):
 
@@ -102,7 +110,7 @@ This log should be removed after human review.
 -->
 ```
 
-### 7. Update Todo
+### 8. Update Todo
 
 If this was a todo item, mark it complete.
 
@@ -114,7 +122,7 @@ If significant issues remain, create a new todo:
 - **Notes**: Initial refinement done but [remaining issues]
 ```
 
-### 8. Log to Changelog
+### 9. Log to Changelog
 
 Append to `obsidian/workflow/changelog.md`:
 ```markdown
@@ -126,7 +134,7 @@ Append to `obsidian/workflow/changelog.md`:
 - **Published**: yes
 ```
 
-### 9. Commit
+### 10. Commit
 
 Create a git commit with message:
 ```

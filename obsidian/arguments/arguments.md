@@ -1,5 +1,6 @@
 ---
 title: "Arguments"
+description: "Why materialism, functionalism, and epiphenomenalism fail to explain consciousness. Positions refined through ongoing review."
 created: 2026-01-06
 modified: 2026-01-06
 human_modified: 2026-01-06

@@ -84,6 +84,7 @@ Or write directly with this structure:
 ```markdown
 ---
 title: "[Topic Title]"
+description: "[150-160 chars emphasizing human+AI collaboration, iterative refinement, and pursuit of truth]"
 created: YYYY-MM-DD
 modified: YYYY-MM-DD
 human_modified:
@@ -210,6 +211,7 @@ Follow the comprehensive guidance in `obsidian/project/writing-style.md`.
 ## Important
 
 - **CRITICAL: ALWAYS set `draft: false`** — Content is published directly. Never use `draft: true`.
+- **ALWAYS include a `description`** — 150-160 chars emphasizing human+AI collaboration, iterative refinement, pursuit of truth. Avoid generic descriptions.
 - ALWAYS include `ai_contribution: 100`
 - ALWAYS include current model in `ai_system`
 - ALWAYS update `ai_modified` timestamp

@@ -111,6 +111,7 @@ modified: YYYY-MM-DD
 human_modified: YYYY-MM-DD or ISO timestamp
 ai_modified: null or ISO timestamp
 draft: true/false # always default to false
+description: "Meta description for search/social (150-160 chars)"
 topics: []
 concepts: []
 related_articles: []

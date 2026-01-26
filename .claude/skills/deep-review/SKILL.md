@@ -187,6 +187,7 @@ Make targeted edits to the document:
 3. Expand thin sections where optimistic review identified opportunities
 4. Add cross-links suggested by optimistic review (using `[[wikilink]]` syntax)
 5. Preserve original voice and strong passages
+6. **Add `description` if missing** — 150-160 chars emphasizing human+AI collaboration, iterative refinement, pursuit of truth (not generic)
 
 Follow `obsidian/project/writing-style.md` guidelines:
 - Front-load important information (LLM truncation resilience)

@@ -1,5 +1,6 @@
 ---
 title: The Unfinishable Map Project
+description: "How human direction combines with AI research, writing, and iterative review to build a philosophy that improves over time."
 created: 2026-01-03
 modified: 2026-01-03
 human_modified: 2026-01-05T11:16:56+00:00

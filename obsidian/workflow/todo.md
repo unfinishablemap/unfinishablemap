@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Add meta descriptions to all content files
+- **Type**: other
+- **Notes**: Add `description` field to frontmatter for all articles in obsidian/. Descriptions should be 150-160 characters, benefit-focused, and suitable for Google search snippets and social sharing. Generate descriptions based on article content. See CLAUDE.md for schema. Start with apex/, then topics/, then concepts/.
+- **Source**: human request
+- **Generated**: 2026-01-26
+
 ### P2: Deep review conceptual-acquisition-limits.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100) created recently, never deep-reviewed. Covers cognitive limitations in acquiring new concepts beyond current frameworks. Should verify: (1) accuracy of cognitive science claims about conceptual acquisition, (2) integration with other voids articles (mysterianism, cognitive closure), (3) alignment with the Map's treatment of limits as informative rather than merely frustrating.

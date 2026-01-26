@@ -23,7 +23,7 @@ summaryLength = 150  # words for auto-summary
 
 # Params
 [params]
-  description = "An opinionated resource about philosophy and the meaning of life"
+  description = "Human thought meets AI exploration. A philosophy of consciousness and meaning that refines itself daily, converging toward truth."
   author = "The Unfinishable Map"
 
   # Authorship display

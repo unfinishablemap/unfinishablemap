@@ -1,5 +1,6 @@
 ---
 title: "The Unfinishable Map"
+description: "Human insight meets AI exploration. Philosophy that argues with itself, refines daily, and converges toward truth about consciousness and meaning."
 created: 2026-01-01
 modified: 2026-01-03
 human_modified: 2026-01-03
