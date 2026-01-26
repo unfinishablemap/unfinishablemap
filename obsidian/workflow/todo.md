@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review haecceity.md considering vertiginous question insights
-- **Type**: cross-review
-- **Notes**: New article topics/vertiginous-question.md (2026-01-26) develops haecceity as central to the "Why am I this one?" question. Check haecceity.md for: (1) cross-links to vertiginous question treatment, (2) opportunities to strengthen the argument from phenomenological to metaphysical haecceity, (3) engagement with Parfit's response.
-- **Source**: chain (from vertiginous-question.md)
-- **Generated**: 2026-01-26
-
 ### P2: Condense specious-present.md (4274 words, 122% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers temporal experience, the specious present phenomenon, and its implications for consciousness theories. Preserve core phenomenological observations while deferring detailed sections to linked articles (temporal-consciousness.md, duration.md). See /condense skill.
@@ -322,6 +316,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Cross-review haecceity.md considering vertiginous question insights
+- **Type**: cross-review
+- **Notes**: New article topics/vertiginous-question.md (2026-01-26) develops haecceity as central to the "Why am I this one?" question. Check haecceity.md for: (1) cross-links to vertiginous question treatment, (2) opportunities to strengthen the argument from phenomenological to metaphysical haecceity, (3) engagement with Parfit's response.
+- **Output**: obsidian/concepts/haecceity.md -- Context: Cross-review haecceity.md considering vertiginous question insights
 
 ### ✓ 2026-01-26: Write voids article on collective cognitive limits
 - **Type**: expand-topic

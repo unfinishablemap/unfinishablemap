@@ -1,9 +1,9 @@
 ---
 title: "Haecceity and Indexical Identity"
 created: 2026-01-16
-modified: 2026-01-23
+modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-23T06:30:00+00:00
+ai_modified: 2026-01-26T18:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[measurement-problem]]"
   - "[[quantum-consciousness]]"
+  - "[[vertiginous-question]]"
 related_articles:
   - "[[tenets]]"
   - "[[meaning-of-life]]"
@@ -27,7 +28,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-01-20T04:30:00+00:00
+last_deep_review: 2026-01-26T18:00:00+00:00
 ---
 
 Haecceity (from Latin *haec*, "this") is the quality of being *this* particular thing rather than another qualitatively identical thing. For consciousness, haecceity grounds the difference between being *you* and being someone with your exact properties—a distinction pattern-based theories cannot capture. This concept is central to The Unfinishable Map's rejection of [[many-worlds|many-worlds interpretation]], its treatment of [[personal-identity]], and its response to the [[pairing-problem]].
@@ -68,7 +69,7 @@ Consider the [[philosophical-zombies|zombie argument]]: a creature physically id
 
 The answer cannot be purely qualitative. By hypothesis, you and your zombie twin share all qualitative physical properties. The difference must be non-qualitative: you have the property of being *this* conscious subject; the zombie lacks it.
 
-This is haecceity applied to consciousness. The fact that you are conscious is not just a qualitative fact about your brain states—it's the fact that *this* subject exists and experiences.
+This is haecceity applied to consciousness. The fact that you are conscious is not just a qualitative fact about your brain states—it's the fact that *this* subject exists and experiences. Benj Hellie called this "the [[vertiginous-question|vertiginous question]]"—why, of all conscious beings, am *I* this one? The question is vertiginous because it seems unanswerable yet undeniably meaningful.
 
 This haecceitistic dimension of consciousness extends to the quantum domain. If the [[measurement-problem]] asks why definite outcomes occur rather than superpositions, the indexical question asks: given that a definite outcome occurs, why does *this* particular consciousness experience *this* particular result? The indexical gap—examined in depth in [[indexical-identity-quantum-measurement]]—reveals that no quantum interpretation adequately addresses the haecceity of conscious experience.
 
@@ -138,11 +139,9 @@ Many-worlds theorists who embrace anti-haecceitism must find another route to th
 
 ### Decision-Theoretic Defenses
 
-Sophisticated MWI defenders (Wallace 2012, Greaves 2007) argue that decision theory can derive the Born rule without haecceitistic assumptions. On their view, a rational agent facing quantum uncertainty should assign credences to branches weighted by their squared amplitude—not because of facts about which branch they'll end up in, but because this weighting follows from rational constraints on preferences across branching scenarios.
+Wallace (2012) and Greaves (2007) argue that decision theory can derive the Born rule without haecceitistic assumptions—rational agents should weight branches by squared amplitude due to constraints on preferences, not facts about "which branch I'm in."
 
-**Response**: These decision-theoretic derivations face their own challenges. The "rationality" constraints they invoke (separability, continuity, etc.) arguably presuppose that there's something it's like to be a particular agent making decisions—which reintroduces the subject whose identity is in question. More fundamentally, the question "What should I care about?" presupposes an "I" whose interests are at stake. If both post-measurement branches equally contain my continuers, why should I weight one more than another? The caring itself seems to require indexical identity.
-
-The broader [[many-worlds|MWI critique]] identifies four additional problems beyond probability—ontological extravagance, the preferred basis problem, and consciousness remaining unexplained. But the indexical identity problem and the probability problem both hinge on haecceity. If "you" can genuinely end up in multiple branches with equal claim to being you, the very concept of betting on outcomes becomes incoherent. What would you be betting *about*?
+**Response**: The question "What should I care about?" presupposes an "I" whose interests are at stake. If both post-measurement branches equally contain my continuers, why weight one more than another? The caring itself requires indexical identity. The broader [[many-worlds|MWI critique]] identifies additional problems—ontological extravagance, the preferred basis problem—but indexical identity is fundamental. If "you" genuinely end up in multiple branches, betting on outcomes becomes incoherent.
 
 ## Objections to Haecceity
 
@@ -224,6 +223,7 @@ The haecceity concept makes explicit what the Map presupposes. Personal identity
 
 ## Further Reading
 
+- [[vertiginous-question]] — Why am I *this* conscious being rather than another?
 - [[personal-identity]] — How haecceity grounds personal identity
 - [[many-worlds]] — Why indexical identity problems doom many-worlds
 - [[indexical-identity-quantum-measurement]] — How haecceity grounds which outcome *this* consciousness experiences
@@ -241,6 +241,7 @@ The haecceity concept makes explicit what the Map presupposes. Personal identity
 - Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies*, 154, 349-360.
 - Black, M. (1952). "The Identity of Indiscernibles." *Mind*, 61(242), 153-164.
 - Greaves, H. (2007). "Probability in the Everett Interpretation." *Philosophy Compass*, 2(1), 109-128.
+- Hellie, B. (2012). "Against Egalitarianism." *Analysis*, 73(2), 304-320.
 - Lewis, D. (1979). "Attitudes De Dicto and De Se." *Philosophical Review*, 88(4), 513-543.
 - Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 - Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).
