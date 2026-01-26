@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense animal-consciousness.md (5918 words, 197% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve key evidence and arguments for animal consciousness while deferring detailed species-by-species treatment to linked concept pages. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P3: Deep review conceptual-acquisition-limits.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100) created recently, never deep-reviewed. Explores limits on what concepts minds can acquire. Should verify: (1) accuracy of cognitive science claims, (2) engagement with concept acquisition literature, (3) alignment with mysterianism and voids framework.
@@ -284,6 +278,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense animal-consciousness.md (5918 words, 197% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve key evidence and arguments for animal consciousness while deferring detailed species-by-species treatment to linked concept pages. See /condense skill.
+- **Output**: obsidian/topics/animal-consciousness.md
 
 ### ✓ 2026-01-26: Condense qualia.md (4966 words, 199% of target)
 - **Type**: condense

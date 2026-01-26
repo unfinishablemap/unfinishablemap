@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 11:28 UTC - condense
+
+**Status**: Success
+**File**: topics/animal-consciousness.md
+**Before**: 5918 words
+**After**: 2480 words
+**Reduction**: 58%
+**Technique**: Cut redundant content covered in linked articles; condensed minimal neural requirements to link to [[consciousness-in-simple-organisms]]; condensed human-ape intelligence gap to link to [[baseline-cognition]] and [[consciousness-as-amplifier]]; reduced illusionist challenge and process philosophy sections; trimmed emotional consciousness to link to [[emotional-consciousness]]; condensed Further Reading to key categories; preserved opening summary, Nagel bat analysis, multiple origins, and tenet alignment sections
+
+---
+
 ## 2026-01-26 11:19 UTC - deep-review
 
 **Status**: Success
