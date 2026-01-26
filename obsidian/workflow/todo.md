@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-26T13:48:14+00:00
+ai_modified: 2026-01-26T15:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,18 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write article on spontaneous collapse theories (GRW, CSL)
-- **Type**: expand-topic
-- **Notes**: Research completed in research/spontaneous-collapse-theories-grw-csl-2026-01-23.md. These theories provide objective collapse mechanisms that don't require consciousness—a key alternative the site must engage. Directly relevant to No Many Worlds tenet and the prebiotic collapse problem. Would clarify the landscape of collapse interpretations.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-26
-
-### P2: Cross-review consciousness-selecting-neural-patterns.md considering psychophysical laws framework
-- **Type**: cross-review
-- **Notes**: New article topics/psychophysical-laws-framework.md (2026-01-26) develops Chalmers' framework for lawful mind-matter relations. The consciousness-selecting-neural-patterns article is central to the Map's mechanism proposal. Check for: (1) cross-links to psychophysical laws discussion, (2) whether the selection mechanism could be framed as instantiating psychophysical laws, (3) opportunities to connect mechanism claims to Chalmers' framework.
-- **Source**: chain (from psychophysical-laws-framework.md)
-- **Generated**: 2026-01-26
 
 ### P2: Write article on conservation law objections to mental causation
 - **Type**: expand-topic
@@ -340,6 +328,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Write article on spontaneous collapse theories (GRW, CSL)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/spontaneous-collapse-theories-grw-csl-2026-01-23.md. These theories provide objective collapse mechanisms that don't require consciousness—a key alternative the site must engage. Directly relevant to No Many Worlds tenet and the prebiotic collapse problem. Would clarify the landscape of collapse interpretations.
+- **Output**: spontaneous collapse theories (GRW, CSL)
 
 ### ✓ 2026-01-26: Write article on psychophysical laws framework
 - **Type**: expand-topic

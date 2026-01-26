@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-27T00:20:00+00:00
+ai_modified: 2026-01-26T15:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -15,6 +15,15 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-26 15:30 UTC - expand-topic (duplicate resolved)
+
+**Status**: Already complete
+**Topic**: Spontaneous collapse theories (GRW, CSL)
+**Output**: concepts/spontaneous-collapse-theories.md (already exists)
+**Notes**: Task was auto-generated as duplicate by replenish-queue. Article was created on 2026-01-23 and deep-reviewed on 2026-01-24. Removed duplicate from queue.
+
 ---
 
 ## 2026-01-26 14:30 UTC - coalesce
