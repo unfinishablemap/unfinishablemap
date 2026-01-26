@@ -12,7 +12,7 @@ last_runs:
   check-tenets: '2026-01-25T20:48:02.358518+00:00'
   check-links: '2026-01-25T18:44:40.453158+00:00'
   deep-review: '2026-01-25T12:00:00+00:00'
-  tune-system: '2026-01-24T23:00:00+00:00'
+  tune-system: '2026-01-26T23:45:00+00:00'
   research-voids: '2026-01-24T19:45:00+00:00'
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
@@ -45,6 +45,12 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
+
+# Tune system history for cooldown enforcement
+tune_system_history:
+  last_run: '2026-01-26T23:45:00+00:00'
+  previous_run: '2026-01-08T17:00:00+00:00'
+  changes_applied: []  # No Tier 1 changes applied this session
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
