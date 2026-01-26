@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 21:45 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: Collective Cognitive Limits
+- **Category**: Mixed (Unexplored/Unexplorable/Occluded)
+- **Output**: research/voids-collective-cognitive-limits-2026-01-26.md
+- **Key finding**: Groups, cultures, and paradigms have systematic blind spots beyond individual limitations—including socially enforced silence (Zerubavel), paradigm blindness (Kuhn), Overton Window boundaries, and agnotologically produced ignorance
+
+---
+
 ## 2026-01-26 22:30 UTC - deep-review (cross-review)
 
 - **Status**: Success
