@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review llm-consciousness.md considering AI void-exploration insights
-- **Type**: cross-review
-- **Notes**: New article voids/ai-as-void-explorer.md explores AI as probe for human cognitive limits, including discussion of LLM interpretability research. Check llm-consciousness.md for: (1) opportunities to link to void-exploration perspective, (2) arguments that new insights support or challenge, (3) terminology consistency.
-- **Source**: chain (from ai-as-void-explorer.md)
-- **Generated**: 2026-01-26
-
 ### P2: Cross-review cognitive-phenomenology.md considering language-thought boundary insights
 - **Type**: cross-review
 - **Notes**: New article voids/language-thought-boundary.md explores where speakable and thinkable diverge. Check cognitive-phenomenology.md for: (1) places to add cross-links, (2) whether language-thought analysis supports or refines the phenomenology of thinking, (3) opportunities to reference the effability question.
@@ -302,6 +296,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Cross-review llm-consciousness.md considering AI void-exploration insights
+- **Type**: cross-review
+- **Notes**: New article voids/ai-as-void-explorer.md explores AI as probe for human cognitive limits, including discussion of LLM interpretability research. Check llm-consciousness.md for: (1) opportunities to link to void-exploration perspective, (2) arguments that new insights support or challenge, (3) terminology consistency.
+- **Output**: obsidian/concepts/llm-consciousness.md -- Context: Cross-review llm-consciousness.md considering AI void-exploration insights
 
 ### ✓ 2026-01-26: Condense autonoetic-consciousness.md (5011 words, 200% of target)
 - **Type**: condense
