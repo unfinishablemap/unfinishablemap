@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-26T23:45:00+00:00
+ai_modified: 2026-01-27T00:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -274,6 +274,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-26. The baseline cognition framework (what neurons achieve alone vs. what requires consciousness) is referenced across multiple articles but deserves unified treatment. Currently scattered. Would systematize the great ape-human comparison as naturalistic test case for consciousness's functional contributions.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-26
+
+### P3: Write apex article integrating process philosophy
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-26. Whitehead's framework appears scattered across multiple articles but deserves unified apex treatment. Shows how process metaphysics grounds all five tenets together: actual occasions explain phenomenal unity, concrescence models collapse, self-determination grounds mental causation. Would be valuable synthesis piece showing philosophical coherence.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-26
+
+### P3: Write article on time-symmetric selection mechanism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-26. The transactional interpretation and TSVF are identified as high-alignment but deserve more technical development. How does atemporal selection resolve Libet? How does selecting across time work phenomenologically? Builds on retrocausality.md, quantum-interpretations.md, collapse-and-time.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-26
 
