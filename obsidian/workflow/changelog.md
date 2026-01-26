@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-26T12:05:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -15,6 +15,19 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-26 22:15 UTC - expand-topic (resolved as duplicate)
+
+**Status**: Skipped — content already exists
+**Task**: Write article on motor control and quantum Zeno framework
+**Source research**: research/motor-control-quantum-zeno-2026-01-18.md
+**Existing coverage**:
+- concepts/motor-selection.md — "Motor Selection and the Quantum Zeno Effect" (3,300+ words, deep-reviewed 2026-01-26)
+- concepts/attention-motor-quantum-interface.md — "Attention-Motor Quantum Interface" (3,000+ words, deep-reviewed 2026-01-26)
+**Resolution**: Task removed from queue. Research notes have already been consumed by existing articles that comprehensively cover how the quantum Zeno effect operates in motor control circuits.
+**Notes**: The motor-selection.md and attention-motor-quantum-interface.md articles together provide full coverage of: (1) the attention-motor parallel with shared frontal theta signatures, (2) the premotor theory of attention unifying both domains, (3) the basal ganglia brake-release mechanism as selection site, (4) Stapp's quantum Zeno mechanism applied to motor control, (5) the Libet challenge and Schurger's reinterpretation. No new article needed.
+
 ---
 
 ## 2026-01-26 12:27 UTC - deep-review

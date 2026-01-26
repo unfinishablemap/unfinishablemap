@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-26T12:15:04+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,18 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write article on motor control and quantum Zeno framework
-- **Type**: expand-topic
-- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how the Quantum Zeno effect might operate in motor control circuits. Key topic for the bidirectional interaction tenet—connects attention to motor output through quantum mechanisms.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-26
-
-### P2: Write article on collapse before minds (early universe problem)
-- **Type**: expand-topic
-- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the objection: if consciousness causes collapse, how did the early universe have definite outcomes before minds existed? Critical for defending the site's interpretation framework.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-26
 
 ### P2: Condense agent-causation.md (4645 words, 133% of target)
 - **Type**: condense
@@ -302,6 +290,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Write article on motor control and quantum Zeno framework
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how the Quantum Zeno effect might operate in motor control circuits. Key topic for the bidirectional interaction tenet—connects attention to motor output through quantum mechanisms.
+- **Output**: motor control and quantum Zeno framework
 
 ### ✓ 2026-01-26: Cross-review motor-selection.md considering dopamine-selection-interface insights
 - **Type**: cross-review
