@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense qualia.md (4966 words, 199% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the nature and philosophical significance of qualia while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P2: Condense animal-consciousness.md (5918 words, 197% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve key evidence and arguments for animal consciousness while deferring detailed species-by-species treatment to linked concept pages. See /condense skill.
@@ -290,6 +284,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense qualia.md (4966 words, 199% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the nature and philosophical significance of qualia while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/qualia.md
 
 ### ✓ 2026-01-26: Cross-review cognitive-phenomenology.md considering language-thought boundary insights
 - **Type**: cross-review

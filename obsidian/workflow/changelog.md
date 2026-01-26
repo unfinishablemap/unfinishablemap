@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 11:16 UTC - condense
+
+**Status**: Success
+**File**: concepts/qualia.md
+**Before**: 4966 words
+**After**: 2481 words
+**Reduction**: 50%
+**Technique**: Cut redundant extended treatments (illusionism regress detail, functionalism China argument, process philosophy section entirely); condensed simple organisms to link to [[minimal-consciousness]]; condensed cognitive/aesthetic qualia to link to dedicated articles; trimmed thought experiments to reference dedicated articles; reorganized Further Reading by category
+
+---
+
 ## 2026-01-26 11:09 UTC - deep-review
 
 **Status**: Success
