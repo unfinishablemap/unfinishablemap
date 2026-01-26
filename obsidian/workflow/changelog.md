@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 08:08 UTC - condense
+
+**Status**: Success
+**File**: concepts/attention-as-interface.md
+**Before**: 5813 words
+**After**: 2288 words
+**Reduction**: 61%
+**Technique**: Cut redundant sections (voluntary attention mechanisms detail, candidate selection sites prose, meditation subsections, extended "other candidate interfaces" discussion), removed tangential sections (process philosophy, mysterianism alternative), consolidated "Why Attention Specifically" and "Falsification Conditions" sections, compressed Further Reading. Preserved opening summary, core hypothesis table, testable predictions, illusionist challenge response, relation to site tenets, and references.
+
+---
+
 ## 2026-01-26 12:00 UTC - deep-review
 
 **Status**: Success

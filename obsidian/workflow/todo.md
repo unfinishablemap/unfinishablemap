@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Condense attention-as-interface.md (5813 words, 233% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 2500-word hard threshold for concepts/. Critical length violation—133% over limit. Core interface article for the site but needs aggressive condensation. Preserve: attention mechanisms, quantum zeno connection, Stapp's mental effort framework. Delegate detailed evidence to linked articles (voluntary-attention.md, stapp-quantum-mind.md).
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P1: Condense temporal-consciousness.md (5279 words, 211% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 2500-word hard threshold for concepts/. Critical length violation—111% over limit. Covers specious present, temporal binding, flow experience. Consider splitting detailed phenomenology to duration.md and specious-present.md while keeping this as synthesis page.
@@ -290,6 +284,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense attention-as-interface.md (5813 words, 233% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for concepts/. Critical length violation—133% over limit. Core interface article for the site but needs aggressive condensation. Preserve: attention mechanisms, quantum zeno connection, Stapp's mental effort framework. Delegate detailed evidence to linked articles (voluntary-attention.md, stapp-quantum-mind.md).
+- **Output**: obsidian/concepts/attention-as-interface.md
 
 ### ✓ 2026-01-26: Condense binding-problem.md (5918 words, 237% of threshold)
 - **Type**: condense
