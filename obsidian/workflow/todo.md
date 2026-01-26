@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense witness-consciousness.md (4551 words, 130% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the observer-witness phenomenon in meditation and its implications for consciousness theories. Preserve core phenomenological descriptions while deferring detailed meditation tradition comparisons. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P3: Deep review dopamine-selection-interface.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-26, never deep-reviewed. Covers dopamine's role in the attention-motor quantum interface. Should verify: (1) accuracy of neuroscience claims about dopamine pathways, (2) integration with existing motor-selection and attention articles, (3) alignment with bidirectional interaction tenet.
@@ -284,6 +278,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense witness-consciousness.md (4551 words, 130% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the observer-witness phenomenon in meditation and its implications for consciousness theories. Preserve core phenomenological descriptions while deferring detailed meditation tradition comparisons. See /condense skill.
+- **Output**: obsidian/concepts/witness-consciousness.md
 
 ### ✓ 2026-01-26: Condense agent-causation.md (4645 words, 133% of target)
 - **Type**: condense
