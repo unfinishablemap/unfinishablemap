@@ -350,6 +350,62 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: pessimistic-review
 - **Generated**: 2026-01-25
 
+### P3: Write article on phenomenology of recursive thought
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. The Map claims recursive processing requires consciousness but hasn't systematically explored *what it's like* to think recursively. Center-embedding sentences, mathematical recursion, and self-referential thought provide empirical access points. Builds on language-recursion-and-consciousness.md, working-memory.md, metarepresentation.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on structure of attention (unified treatment)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. Attention as the mind-matter interface is central to the Map's framework. A dedicated article synthesizing the neuroscience (frontal theta, DLPFC/ACC activation, 300ms deployment window) with the phenomenology (effort, selection, sustained vs. captured) would strengthen this crucial piece. Builds on attention.md, voluntary-attention.md, attention-as-interface.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on dreams and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. Dreams provide a natural laboratory for studying consciousness dissociated from external input. Lucid dreaming particularly interesting—consciousness aware it's dreaming while dreaming. What does this tell us about the interface? Builds on lucid-dreaming-and-consciousness.md, sleep-and-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on phenomenology of intellectual effort
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. The argument from reason shows consciousness grasps reasons *as* reasons. But what is it *like* to find an argument compelling? To feel the force of evidence? The phenomenology of intellectual engagement. Builds on argument-from-reason.md, phenomenology-of-choice.md, mental-effort.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on emotional consciousness and value
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. How does emotional phenomenology relate to the value realism framework? Emotions as ways experience presents as mattering. Distinguishes felt importance from mere information about importance. Builds on emotional-consciousness.md, phenomenal-value-realism.md, epistemic-emotions.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Create concept page for selection laws
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. The psychophysical-laws-framework introduces this concept; deserves dedicated treatment (attention-intention mappings, effort-selection correlations). Currently referenced but not fully developed.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Create concept page for phenomenal binding
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. Referenced throughout but no dedicated page; how distributed processing becomes unified experience. Central to binding problem treatment and quantum binding arguments.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Create concept page for reasons-responsiveness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. Central to argument from reason; how consciousness tracks normative relationships. The space of reasons vs. space of causes distinction deserves dedicated treatment.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
 ## Completed Tasks
 
 
