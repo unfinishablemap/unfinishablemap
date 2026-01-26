@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 12:00 UTC - condense
+
+- **Status**: Success
+- **File**: obsidian/concepts/self-and-consciousness.md
+- **Before**: 4184 words
+- **After**: 1752 words
+- **Reduction**: 58%
+- **Technique**: Trimmed Minimal/Narrative Self section (removed redundancy), condensed Autonoetic Consciousness section (linked to dedicated article), heavily cut Metacognition section (deferred detail to linked articles, removed extended Jourdain tables and examples), tightened Metzinger's Challenge (kept core argument), condensed Buddhist No-Self (deferred to buddhism-and-dualism), trimmed Binding Connection and Testability sections, reduced Further Reading from 17 to 9 entries
+
+---
+
 ## 2026-01-26 19:39 UTC - condense
 
 - **Status**: Success

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense self-and-consciousness.md (4184 words, 167% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the relationship between self and consciousness. Preserve phenomenological distinctions while removing redundancy. May defer detailed treatments to linked articles on personal-identity.md, introspection.md. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P2: Deep review conceptual-acquisition-limits.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100) created recently, never deep-reviewed. Covers cognitive limitations in acquiring new concepts beyond current frameworks. Should verify: (1) accuracy of cognitive science claims about conceptual acquisition, (2) integration with other voids articles (mysterianism, cognitive closure), (3) alignment with the Map's treatment of limits as informative rather than merely frustrating.
@@ -402,6 +396,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense self-and-consciousness.md (4184 words, 167% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the relationship between self and consciousness. Preserve phenomenological distinctions while removing redundancy. May defer detailed treatments to linked articles on personal-identity.md, introspection.md. See /condense skill.
+- **Output**: obsidian/concepts/self-and-consciousness.md
 
 ### ✓ 2026-01-26: Condense luck-objection.md (4189 words, 168% of threshold)
 - **Type**: condense
