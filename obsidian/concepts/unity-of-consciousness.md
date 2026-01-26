@@ -16,7 +16,6 @@ concepts:
   - "[[phenomenal-unity]]"
   - "[[varieties-of-unity]]"
   - "[[binding-problem]]"
-  - "[[phenomenal-binding]]"
   - "[[combination-problem]]"
   - "[[split-brain-consciousness]]"
   - "[[self-and-consciousness]]"
@@ -48,7 +47,7 @@ The unity of consciousness intersects with but differs from related problems:
 
 **The [[binding-problem|binding problem]]** asks how the brain coordinates distributed processing—how color neurons and shape neurons "tag" their outputs as belonging to the same object. This is partly a neural engineering problem (BP1: computational binding) and partly a consciousness problem (BP2: phenomenal binding). Unity of consciousness concerns why the bound result is *one* experience rather than coordinated parallel processes.
 
-**[[phenomenal-binding|Phenomenal binding]]** focuses specifically on BP2—why coordinated neural activity produces unified phenomenology. This overlaps substantially with unity of consciousness but approaches it from the neural side. The unity problem is more general: it asks about unity regardless of mechanism.
+**Phenomenal binding** (the BP2 dimension of the [[binding-problem|binding problem]]) focuses specifically on why coordinated neural activity produces unified phenomenology. This overlaps substantially with unity of consciousness but approaches it from the neural side. The unity problem is more general: it asks about unity regardless of mechanism.
 
 **The [[combination-problem|combination problem]]** asks how micro-experiences (if they exist) combine into macro-experience. This is panpsychism's version of the unity puzzle. The unity of consciousness is the explanandum; the combination problem concerns one candidate explanation.
 
@@ -190,7 +189,6 @@ The unity of consciousness illustrates why simplicity is not a reliable guide. T
 - [[quantum-neural-timing-constraints]] — Timing constraints on quantum mechanisms for unity
 - [[varieties-of-unity]] — Detailed taxonomy of synchronic, diachronic, and subject unity
 - [[phenomenal-unity]] — Why experience comes as integrated wholes
-- [[phenomenal-binding]] — The BP1/BP2 distinction and neural mechanisms
 - [[temporal-consciousness]] — Diachronic structure and the specious present
 - [[self-and-consciousness]] — Subject unity and the minimal self
 - [[consciousness]] — The Map's foundational concept page

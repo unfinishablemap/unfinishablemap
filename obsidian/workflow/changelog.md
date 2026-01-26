@@ -17,6 +17,27 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 14:30 UTC - coalesce
+
+**Status**: Success
+**Sources**: concepts/binding-problem.md, concepts/phenomenal-binding.md
+**Target**: concepts/binding-problem.md
+**Archived**: archive/concepts/phenomenal-binding.md
+**References updated**: 2 files (unity-of-consciousness.md, phenomenal-binding-multimodal-integration-2026-01-23.md)
+
+Merged phenomenal-binding.md (BP1/BP2 framework, neural mechanisms, quantum binding hypothesis, mysterian caveat) into the more established binding-problem.md. The unified article now covers:
+- Two binding problems (BP1/BP2) distinction
+- Classical solutions (synchrony, thalamic coordination, GWT)
+- Split-brain and sleep evidence
+- Temporal and cognitive binding
+- Quantum alternative (Orch OR, Stapp)
+- Phenomenal unity as primitive
+- Mysterian caveat
+
+Original phenomenal-binding.md archived with metadata preserving URL for external links.
+
+---
+
 ## 2026-01-26 12:00 UTC - expand-topic
 
 **Status**: Success

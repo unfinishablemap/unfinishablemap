@@ -31,6 +31,11 @@ ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-01-23
 last_curated:
 last_deep_review: 2026-01-24T19:30:00+00:00
+archived: true
+archived_date: 2026-01-26T14:30:00+00:00
+superseded_by: "/concepts/binding-problem/"
+archive_reason: "Coalesced into The Binding Problem"
+original_path: "/concepts/phenomenal-binding/"
 ---
 
 How does your brain take separate sensory streams—visual information from the occipital lobe, sounds processed in temporal cortex, touch mapped in parietal regions, all arriving at slightly different times—and deliver a single unified conscious experience of sitting in a room reading this sentence? This is the phenomenal binding problem, and it splits into two fundamentally different challenges: the computational task of coordinating distributed neural activity (BP1), which neuroscience is making progress on, and the metaphysical mystery of why that coordination produces unified subjective experience at all (BP2), which remains as intractable as the [[hard-problem-of-consciousness|hard problem]] itself. The [[explanatory-gap]] between information integration and phenomenal unity may reflect genuine ontological distinction—or, as [[mysterianism|mysterians]] suggest, it may mark the boundary of human cognitive reach.
