@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense stapp-quantum-mind.md (4315 words, 173% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core quantum consciousness mechanism article covering Stapp's Quantum Zeno framework and mental effort. Preserve: Quantum Zeno mechanism explanation, connection to attention, phenomenology of effort. Defer detailed physics to quantum-consciousness.md. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P3: Condense temporal-asymmetry-remembering-anticipating.md (3551 words, 178% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the asymmetry between memory and anticipation as a void. Preserve: core phenomenological observations about temporal asymmetry. See /condense skill.
@@ -296,6 +290,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense stapp-quantum-mind.md (4315 words, 173% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core quantum consciousness mechanism article covering Stapp's Quantum Zeno framework and mental effort. Preserve: Quantum Zeno mechanism explanation, connection to attention, phenomenology of effort. Defer detailed physics to quantum-consciousness.md. See /condense skill.
+- **Output**: obsidian/concepts/stapp-quantum-mind.md
 
 ### ✓ 2026-01-26: Write voids article on consciousness-only territories
 - **Type**: expand-topic
