@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-26T07:51:41+00:00
+ai_modified: 2026-01-26T10:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Condense dreams-and-consciousness.md (5184 words, 207% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word critical threshold for concepts/. Covers dream phenomenology, lucid dreaming connection, consciousness during sleep. Preserve: core phenomenological observations, the default mode network connection, the distinction from sleep-and-consciousness.md. Defer detailed sections to linked articles (lucid-dreaming-and-consciousness.md, sleep-and-consciousness.md). See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P1: Condense cognitive-phenomenology.md (5133 words, 205% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word critical threshold for concepts/. Covers the phenomenal character of thinking. Preserve: core arguments for cognitive phenomenology, the thinking-understanding distinction, engagement with opponents. Already cross-reviewed with temporal-structure insights; ensure those additions remain. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P1: Condense mental-effort.md (5046 words, 202% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word critical threshold for concepts/. Covers phenomenology of effort, James' insights, Stapp's quantum Zeno mechanism. Preserve: core phenomenological observations, connection to attention-as-interface. Already cross-reviewed with Stapp phenomenology; ensure those additions remain. Defer detailed Stapp mechanism to stapp-quantum-mind.md. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Write voids article on language-thought boundary
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-language-thought-boundary-2026-01-26.md. Covers Wittgenstein's Tractatus limits, Sapir-Whorf research, ineffability, apophatic traditions. The boundary between speakable and unspeakable may constitute a genuine void. Distinct from general effability topic—this is specifically a voids article. Builds on apophatic-approaches.md, thoughts-that-slip-away.md, conceptual-acquisition-limits.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-26
+
+### P2: Cross-review ai-as-void-explorer.md considering tenet-generated-voids insights
+- **Type**: cross-review
+- **Notes**: New article voids/tenet-generated-voids.md (2026-01-25) explores how The Map's five tenets create specific unexplorable territories. The ai-as-void-explorer.md article examines AI's ability to explore voids and should engage with whether AI can explore tenet-generated voids specifically. Check for: (1) cross-links to tenet-generated-voids, (2) whether the Occam's Razor limit affects AI exploration capacity.
+- **Source**: chain (from tenet-generated-voids.md)
+- **Generated**: 2026-01-26
 
 ### P2: Address deflationary challenge to intersubjectivity.md
 - **Type**: refine-draft
