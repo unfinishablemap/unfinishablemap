@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-26T23:00:00+00:00
+ai_modified: 2026-01-26T18:57:44+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review measurement-problem.md considering spontaneous-collapse-theories
+- **Type**: cross-review
+- **Notes**: New article concepts/spontaneous-collapse-theories.md (2026-01-26) covers GRW and CSL as alternatives to consciousness-collapse. The measurement-problem.md concept page presents the measurement problem and its connection to consciousness. Check for: (1) cross-links to spontaneous collapse treatment, (2) whether the article adequately distinguishes consciousness-collapse from objective-collapse theories, (3) opportunity to strengthen the argument for why consciousness-collapse is preferable despite spontaneous-collapse alternatives.
+- **Source**: chain (from spontaneous-collapse-theories.md)
+- **Generated**: 2026-01-26
+
+### P2: Cross-review downward-causation.md considering psychophysical-laws-framework
+- **Type**: cross-review
+- **Notes**: New article topics/psychophysical-laws-framework.md (2026-01-26) develops the framework for how psychophysical laws might operate. The downward-causation.md concept page discusses mental-to-physical causation generally. Check for: (1) cross-links to psychophysical laws framework, (2) whether downward causation treatment should reference the specific law types (correlation vs. production laws), (3) consistency between general downward causation claims and the specific framework proposed.
+- **Source**: chain (from psychophysical-laws-framework.md)
+- **Generated**: 2026-01-26
+
+### P2: Condense luck-objection.md (4189 words, 168% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the luck objection to libertarian free will and various responses. Preserve core argument structure while removing redundancy. The article may have overlapping content with agent-causation.md and free-will.md. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Condense self-and-consciousness.md (4184 words, 167% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the relationship between self and consciousness. Preserve phenomenological distinctions while removing redundancy. May defer detailed treatments to linked articles on personal-identity.md, introspection.md. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Deep review conceptual-acquisition-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) created recently, never deep-reviewed. Covers cognitive limitations in acquiring new concepts beyond current frameworks. Should verify: (1) accuracy of cognitive science claims about conceptual acquisition, (2) integration with other voids articles (mysterianism, cognitive closure), (3) alignment with the Map's treatment of limits as informative rather than merely frustrating.
+- **Source**: staleness
+- **Generated**: 2026-01-26
+
+### P3: Condense introspection.md (4159 words, 166% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers first-person access to mental states and reliability debates. Preserve engagement with introspection skeptics while removing redundancy. May defer detailed methodology to phenomenology.md. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P3: Deep review tenet-generated-voids.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers voids that arise specifically from the Map's five tenets. Should verify: (1) accurate representation of each tenet's implications, (2) that claimed voids are genuine rather than mere gaps in current knowledge, (3) alignment with other voids articles and the voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-26
 
 ### P3: Cross-review mysterianism.md considering collective cognitive limits insights
 - **Type**: cross-review
