@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-26T14:32:00+00:00
+ai_modified: 2026-01-26T23:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,10 +37,40 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense specious-present.md (4274 words, 122% of threshold)
+### P2: Cross-review psychophysical-laws.md considering framework article insights
+- **Type**: cross-review
+- **Notes**: New article topics/psychophysical-laws-framework.md (2026-01-26) provides a comprehensive treatment of Chalmers' psychophysical laws. The concept page psychophysical-laws.md should be reviewed for: (1) cross-links to new topic article, (2) consistency in how supervenience vs selection laws are distinguished, (3) whether the framework article's treatment of upward/downward asymmetry should be referenced.
+- **Source**: chain (from psychophysical-laws-framework.md)
+- **Generated**: 2026-01-26
+
+### P2: Cross-review mental-causation.md considering psychophysical laws framework
+- **Type**: cross-review
+- **Notes**: New article topics/psychophysical-laws-framework.md (2026-01-26) develops selection laws as the downward direction of psychophysical causation. The mental-causation.md concept page should be reviewed for: (1) cross-links to framework treatment, (2) integration of the "selection without energy injection" insight from the new article, (3) consistency with how mental-to-physical causation is framed.
+- **Source**: chain (from psychophysical-laws-framework.md)
+- **Generated**: 2026-01-26
+
+### P2: Condense attention.md (4190 words, 168% of threshold)
 - **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers temporal experience, the specious present phenomenon, and its implications for consciousness theories. Preserve core phenomenological observations while deferring detailed sections to linked articles (temporal-consciousness.md, duration.md). See /condense skill.
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core interface article covering attention mechanisms, top-down vs bottom-up attention, and connection to consciousness. Preserve: key attention concepts, Quantum Zeno connection, distinction between types of attention. Defer detailed neuroscience to voluntary-attention.md and attention-motor-quantum-interface.md. See /condense skill.
 - **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Condense neurophenomenology.md (4243 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers Varela's methodology combining third-person neuroscience with first-person phenomenological reports. Preserve: core methodology description, epoché and reduction concepts, connection to consciousness studies. Defer detailed practice examples to contemplative-neuroscience.md. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P3: Cross-review mysterianism.md considering collective cognitive limits insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/collective-cognitive-limits.md (2026-01-26) develops group-level cognitive limits (paradigm blindness, elephants in the room, Overton windows). The mysterianism.md concept page discusses individual cognitive closure (McGinn). Check for: (1) cross-links to collective limits treatment, (2) whether collective cognitive limits offer an additional dimension to the mysterian position, (3) the distinction between individual architectural limits and collective framework limits.
+- **Source**: chain (from collective-cognitive-limits.md)
+- **Generated**: 2026-01-26
+
+### P3: Cross-review limits-reveal-structure.md considering collective cognitive limits
+- **Type**: cross-review
+- **Notes**: New voids article voids/collective-cognitive-limits.md (2026-01-26) adds group-level limits to the voids framework. The limits-reveal-structure.md article argues that limits themselves are informative. Check for: (1) cross-links to collective limits article, (2) whether collective limits reveal different structures than individual limits, (3) opportunities to strengthen the argument that group blind spots may illuminate different aspects of consciousness.
+- **Source**: chain (from collective-cognitive-limits.md)
 - **Generated**: 2026-01-26
 
 ### P3: Cross-review causal-closure.md considering conservation-laws-and-mind insights
@@ -316,6 +346,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense specious-present.md (4274 words, 122% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers temporal experience, the specious present phenomenon, and its implications for consciousness theories. Preserve core phenomenological observations while deferring detailed sections to linked articles (temporal-consciousness.md, duration.md). See /condense skill.
+- **Output**: obsidian/concepts/specious-present.md
 
 ### ✓ 2026-01-26: Cross-review haecceity.md considering vertiginous question insights
 - **Type**: cross-review
