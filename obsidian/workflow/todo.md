@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write voids article on collective cognitive limits
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-collective-cognitive-limits-2026-01-26.md. Explores systematic blind spots at the level of cultures, paradigms, and societies—what groups cannot think, beyond individual cognitive limits. Key frameworks: Zerubavel's "elephants in the room," Kuhn's paradigm blindness, Overton Window, agnotology. Builds on defended-territory.md, limits-reveal-structure.md, thoughts-that-slip-away.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-26
-
-### P2: Cross-review many-worlds.md considering vertiginous question insights
-- **Type**: cross-review
-- **Notes**: New article topics/vertiginous-question.md (2026-01-26) develops the argument that MWI fails the indexical gap—it cannot explain why I am THIS observer in THIS branch. Check many-worlds.md for: (1) opportunities to cross-link to vertiginous question treatment, (2) whether indexical objection should be strengthened, (3) consistency in how the self-location problem is presented.
-- **Source**: chain (from vertiginous-question.md)
-- **Generated**: 2026-01-26
-
 ### P2: Cross-review haecceity.md considering vertiginous question insights
 - **Type**: cross-review
 - **Notes**: New article topics/vertiginous-question.md (2026-01-26) develops haecceity as central to the "Why am I this one?" question. Check haecceity.md for: (1) cross-links to vertiginous question treatment, (2) opportunities to strengthen the argument from phenomenological to metaphysical haecceity, (3) engagement with Parfit's response.
@@ -334,6 +322,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Write voids article on collective cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-collective-cognitive-limits-2026-01-26.md. Explores systematic blind spots at the level of cultures, paradigms, and societies—what groups cannot think, beyond individual cognitive limits. Key frameworks: Zerubavel's "elephants in the room," Kuhn's paradigm blindness, Overton Window, agnotology. Builds on defended-territory.md, limits-reveal-structure.md, thoughts-that-slip-away.md.
+- **Output**: Write voids article on collective cognitive limits
 
 ### ✓ 2026-01-26: Write article on indexical identity and haecceity
 - **Type**: expand-topic

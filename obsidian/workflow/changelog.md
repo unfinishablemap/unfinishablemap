@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 22:15 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Collective Cognitive Limits
+- **Output**: voids/collective-cognitive-limits.md
+- **Word count**: 1815
+- **Based on research**: Yes (research/voids-collective-cognitive-limits-2026-01-26.md)
+- **Description**: Voids article exploring systematic blind spots at the level of cultures, paradigms, and societies—what groups cannot think, beyond individual cognitive limits. Covers paradigm blindness (Kuhn), elephants in the room (Zerubavel), and Overton Window mechanisms. Distinguishes Unexplorable (framework-dependent) from Occluded (socially enforced) collective limits.
+
+---
+
 ## 2026-01-26 16:30 UTC - expand-topic
 
 - **Status**: Success
