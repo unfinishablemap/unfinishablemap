@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 12:15 UTC - condense
+
+**Status**: Success
+**File**: concepts/voluntary-attention.md
+**Before**: 4405 words
+**After**: 2231 words
+**Reduction**: 49%
+**Technique**: Cut Process Philosophy section (tangential, extractable), trimmed neural site details (linked instead), compressed neuroscience background, consolidated redundant explanations of willed/instructed distinction, shortened decoherence and illusionist challenges to link-forward, reduced Further Reading from 17 to 8 links, trimmed References. Preserved core argument (willed attention neural signatures), opening summary, all five tenet connections, tables, and falsifiable predictions.
+
+---
+
 ## 2026-01-26 13:07 UTC - condense
 
 **Status**: Success

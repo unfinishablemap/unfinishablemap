@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense voluntary-attention.md (4405 words, 176% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core article for the attention-as-interface framework. Preserve: key mechanisms of top-down attention control, connection to quantum interface hypothesis, distinction from automatic attention. Defer detailed neuroscience to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P2: Condense moral-responsibility.md (4322 words, 173% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers conditions for moral responsibility and connection to free will. Preserve: core arguments linking consciousness to responsibility, basic/derivative responsibility distinction. See /condense skill.
@@ -320,6 +314,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense voluntary-attention.md (4405 words, 176% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core article for the attention-as-interface framework. Preserve: key mechanisms of top-down attention control, connection to quantum interface hypothesis, distinction from automatic attention. Defer detailed neuroscience to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/voluntary-attention.md
 
 ### ✓ 2026-01-26: Condense stapp-quantum-mind.md (4315 words, 173% of target)
 - **Type**: condense
