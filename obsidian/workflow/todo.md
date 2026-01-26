@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-26T12:05:00+00:00
+ai_modified: 2026-01-26T12:15:04+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review attention-motor-quantum-interface.md considering dopamine-selection-interface insights
+- **Type**: cross-review
+- **Notes**: New article concepts/dopamine-selection-interface.md explores dopamine's role in the attention-motor quantum interface. Check attention-motor-quantum-interface.md for: (1) cross-links to dopamine discussion, (2) consistency with salience/selection mechanisms described, (3) opportunities to strengthen the interface model.
+- **Source**: chain (from dopamine-selection-interface.md)
+- **Generated**: 2026-01-26
+
+### P2: Cross-review motor-selection.md considering dopamine-selection-interface insights
+- **Type**: cross-review
+- **Notes**: New article concepts/dopamine-selection-interface.md discusses dopamine's role in motor selection. Check motor-selection.md for: (1) cross-links to dopamine mechanisms, (2) reinforcement of Quantum Zeno framework with neurochemical details, (3) consistency in how selection is described.
+- **Source**: chain (from dopamine-selection-interface.md)
+- **Generated**: 2026-01-26
+
+### P2: Write article on motor control and quantum Zeno framework
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how the Quantum Zeno effect might operate in motor control circuits. Key topic for the bidirectional interaction tenet—connects attention to motor output through quantum mechanisms.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-26
+
+### P2: Write article on collapse before minds (early universe problem)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the objection: if consciousness causes collapse, how did the early universe have definite outcomes before minds existed? Critical for defending the site's interpretation framework.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-26
+
+### P2: Condense agent-causation.md (4645 words, 133% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core article on libertarian free will mechanism. Preserve the central argument for irreducible agent causation while removing redundancy and deferring detailed objection responses to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Condense witness-consciousness.md (4551 words, 130% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the observer-witness phenomenon in meditation and its implications for consciousness theories. Preserve core phenomenological descriptions while deferring detailed meditation tradition comparisons. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P3: Deep review dopamine-selection-interface.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-26, never deep-reviewed. Covers dopamine's role in the attention-motor quantum interface. Should verify: (1) accuracy of neuroscience claims about dopamine pathways, (2) integration with existing motor-selection and attention articles, (3) alignment with bidirectional interaction tenet.
+- **Source**: staleness
+- **Generated**: 2026-01-26
 
 ### P3: Deep review defended-territory.md
 - **Type**: deep-review
