@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review measurement-problem.md considering spontaneous-collapse-theories
-- **Type**: cross-review
-- **Notes**: New article concepts/spontaneous-collapse-theories.md (2026-01-26) covers GRW and CSL as alternatives to consciousness-collapse. The measurement-problem.md concept page presents the measurement problem and its connection to consciousness. Check for: (1) cross-links to spontaneous collapse treatment, (2) whether the article adequately distinguishes consciousness-collapse from objective-collapse theories, (3) opportunity to strengthen the argument for why consciousness-collapse is preferable despite spontaneous-collapse alternatives.
-- **Source**: chain (from spontaneous-collapse-theories.md)
-- **Generated**: 2026-01-26
-
 ### P2: Cross-review downward-causation.md considering psychophysical-laws-framework
 - **Type**: cross-review
 - **Notes**: New article topics/psychophysical-laws-framework.md (2026-01-26) develops the framework for how psychophysical laws might operate. The downward-causation.md concept page discusses mental-to-physical causation generally. Check for: (1) cross-links to psychophysical laws framework, (2) whether downward causation treatment should reference the specific law types (correlation vs. production laws), (3) consistency between general downward causation claims and the specific framework proposed.
@@ -364,6 +358,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Cross-review measurement-problem.md considering spontaneous-collapse-theories
+- **Type**: cross-review
+- **Notes**: New article concepts/spontaneous-collapse-theories.md (2026-01-26) covers GRW and CSL as alternatives to consciousness-collapse. The measurement-problem.md concept page presents the measurement problem and its connection to consciousness. Check for: (1) cross-links to spontaneous collapse treatment, (2) whether the article adequately distinguishes consciousness-collapse from objective-collapse theories, (3) opportunity to strengthen the argument for why consciousness-collapse is preferable despite spontaneous-collapse alternatives.
+- **Output**: obsidian/concepts/measurement-problem.md -- Context: Cross-review measurement-problem.md considering spontaneous-collapse-theories
 
 ### ✓ 2026-01-26: Condense neurophenomenology.md (4243 words, 170% of threshold)
 - **Type**: condense
