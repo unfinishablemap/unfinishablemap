@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-26T19:34:37.695759+00:00'
-session_count: 920
-cycle_position: 157
+last_updated: '2026-01-26T23:24:28.460271+00:00'
+session_count: 936
+cycle_position: 173
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-01-26T08:22:50.095376+00:00'
-last_git_push: '2026-01-26T18:07:09.247267+00:00'
+last_git_push: '2026-01-26T21:30:31.898181+00:00'
 last_tweet_date: '2026-01-26'
 content_stats:
   total_files: 297
@@ -46,70 +46,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (spontaneous collapse theories (GRW, CSL))
-  type: expand-topic
-  date: '2026-01-26'
-  outcome: success
-- task: expand-topic (conservation law objections to mental causation)
-  type: expand-topic
-  date: '2026-01-26'
-  outcome: success
-- task: deep-review
-  type: deep-review
-  date: '2026-01-26'
-  outcome: success
-- task: deep-review (obsidian/concepts/knowledge-argument.md -- Context)
-  type: deep-review
-  date: '2026-01-26'
-  outcome: success
-- task: research-voids
-  type: research-voids
-  date: '2026-01-26'
-  outcome: success
-- task: expand-topic (indexical identity and haecceity)
-  type: expand-topic
-  date: '2026-01-26'
-  outcome: success
-- task: expand-topic (Write voids article on collective cognitive limits)
-  type: expand-topic
-  date: '2026-01-26'
-  outcome: success
-- task: 'deep-review (obsidian/concepts/haecceity.md -- Context: Cross-r)'
-  type: deep-review
-  date: '2026-01-26'
-  outcome: success
-- task: condense (obsidian/concepts/specious-present.md)
-  type: condense
-  date: '2026-01-26'
-  outcome: success
-- task: deep-review
-  type: deep-review
-  date: '2026-01-26'
-  outcome: success
-- task: deep-review (obsidian/concepts/psychophysical-laws.md -- Contex)
-  type: deep-review
-  date: '2026-01-26'
-  outcome: success
-- task: 'deep-review (obsidian/concepts/mental-causation.md -- Context: )'
-  type: deep-review
-  date: '2026-01-26'
-  outcome: success
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-01-26'
-  outcome: success
-- task: condense (obsidian/concepts/attention.md)
-  type: condense
-  date: '2026-01-26'
-  outcome: success
-- task: condense (obsidian/concepts/neurophenomenology.md)
-  type: condense
-  date: '2026-01-26'
-  outcome: success
-- task: deep-review
-  type: deep-review
-  date: '2026-01-26'
-  outcome: success
 - task: deep-review (obsidian/concepts/measurement-problem.md -- Contex)
   type: deep-review
   date: '2026-01-26'
@@ -126,3 +62,67 @@ recent_tasks:
   type: condense
   date: '2026-01-26'
   outcome: success
+- task: condense (obsidian/concepts/self-and-consciousness.md)
+  type: condense
+  date: '2026-01-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-01-26'
+  outcome: failed
+- task: deep-review (obsidian/voids/conceptual-acquisition-limits.md)
+  type: deep-review
+  date: '2026-01-26'
+  outcome: failed
+- task: coalesce
+  type: coalesce
+  date: '2026-01-26'
+  outcome: failed
+- task: deep-review (obsidian/voids/conceptual-acquisition-limits.md)
+  type: deep-review
+  date: '2026-01-26'
+  outcome: failed
+- task: deep-review (obsidian/voids/conceptual-acquisition-limits.md)
+  type: deep-review
+  date: '2026-01-26'
+  outcome: failed
+- task: deep-review
+  type: deep-review
+  date: '2026-01-26'
+  outcome: failed
+- task: deep-review (obsidian/voids/conceptual-acquisition-limits.md)
+  type: deep-review
+  date: '2026-01-26'
+  outcome: failed
+- task: research-voids
+  type: research-voids
+  date: '2026-01-26'
+  outcome: failed
+- task: deep-review (obsidian/voids/conceptual-acquisition-limits.md)
+  type: deep-review
+  date: '2026-01-26'
+  outcome: failed
+- task: deep-review (obsidian/voids/conceptual-acquisition-limits.md)
+  type: deep-review
+  date: '2026-01-26'
+  outcome: failed
+- task: deep-review (obsidian/voids/conceptual-acquisition-limits.md)
+  type: deep-review
+  date: '2026-01-26'
+  outcome: failed
+- task: deep-review (obsidian/voids/conceptual-acquisition-limits.md)
+  type: deep-review
+  date: '2026-01-26'
+  outcome: failed
+- task: deep-review
+  type: deep-review
+  date: '2026-01-26'
+  outcome: failed
+- task: deep-review (obsidian/voids/conceptual-acquisition-limits.md)
+  type: deep-review
+  date: '2026-01-26'
+  outcome: failed
+- task: deep-review (obsidian/voids/conceptual-acquisition-limits.md)
+  type: deep-review
+  date: '2026-01-26'
+  outcome: failed
