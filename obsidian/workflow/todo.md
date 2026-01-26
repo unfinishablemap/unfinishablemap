@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense attention.md (4190 words, 168% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core interface article covering attention mechanisms, top-down vs bottom-up attention, and connection to consciousness. Preserve: key attention concepts, Quantum Zeno connection, distinction between types of attention. Defer detailed neuroscience to voluntary-attention.md and attention-motor-quantum-interface.md. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P2: Condense neurophenomenology.md (4243 words, 170% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers Varela's methodology combining third-person neuroscience with first-person phenomenological reports. Preserve: core methodology description, epoché and reduction concepts, connection to consciousness studies. Defer detailed practice examples to contemplative-neuroscience.md. See /condense skill.
@@ -334,6 +328,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense attention.md (4190 words, 168% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core interface article covering attention mechanisms, top-down vs bottom-up attention, and connection to consciousness. Preserve: key attention concepts, Quantum Zeno connection, distinction between types of attention. Defer detailed neuroscience to voluntary-attention.md and attention-motor-quantum-interface.md. See /condense skill.
+- **Output**: obsidian/concepts/attention.md
 
 ### ✓ 2026-01-26: Cross-review mental-causation.md considering psychophysical laws framework
 - **Type**: cross-review

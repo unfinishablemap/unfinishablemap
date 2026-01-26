@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 - condense
+
+- **Status**: Success
+- **File**: obsidian/concepts/attention.md
+- **Before**: 4190 words
+- **After**: 2010 words
+- **Reduction**: 52%
+- **Technique**: Cut redundancy throughout (repeated explanations, multiple examples making same points); trimmed standard background material (linked instead to decoherence, mental-effort, meditation-and-consciousness-modes); condensed verbose prose; shortened theory survey sections; reduced Further Reading from 18 to 9 entries
+
+---
+
 ## 2026-01-26 23:45 UTC - pessimistic-review
 
 - **Status**: Success
