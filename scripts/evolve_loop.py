@@ -33,6 +33,7 @@ from tools.evolution.cycle import (
 )
 from tools.evolution.state import EvolutionState, TaskRecord, load_state, save_state
 from tools.evolution.task_selector import (
+    LogicFlawError,
     SkillInvocation,
     count_p0_p2_tasks,
     load_todo,
@@ -567,18 +568,33 @@ def run_session(
     log.info(f"Task type: {task_type}")
 
     queue_task = None  # Track if this is a queue task for completion marking
+    invocation = None  # None means skip this cycle slot
     if task_type == "queue":
-        # Pick from todo queue
+        # Pick from todo queue (only executable tasks by default)
         queue_task = select_queue_task(todo_content)
         if queue_task:
-            invocation = task_to_skill(queue_task)
-            log.info(f"Queue task: P{queue_task.priority} {queue_task.title}")
+            try:
+                invocation = task_to_skill(queue_task)
+                log.info(f"Queue task: P{queue_task.priority} {queue_task.title}")
+            except LogicFlawError as e:
+                # Task type not mapped - skip this slot entirely
+                log.warning(f"Cannot execute queue task (skipping slot): {e}")
+                queue_task = None
+                invocation = None
         else:
-            log.info("No pending queue tasks, running deep-review instead")
-            invocation = SkillInvocation("deep-review")
+            # No executable tasks in queue - skip this slot
+            log.info("No executable queue tasks, skipping this cycle slot")
+            invocation = None
     else:
         # Run the scheduled skill
         invocation = SkillInvocation(task_type)
+
+    # Skip execution if no invocation (e.g., no executable queue tasks)
+    if invocation is None:
+        log.info("No task to execute, advancing cycle position")
+        state.cycle_position += 1
+        save_state(state, STATE_PATH)
+        return state, tasks_executed
 
     try:
         success, output = run_skill(

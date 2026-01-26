@@ -51,14 +51,61 @@ def count_p0_p2_tasks(content: str) -> int:
     return sum(1 for t in parsed["active"] if t.priority <= 2)
 
 
-def select_queue_task(content: str) -> Optional[Task]:
+# Task types that can be automatically executed by mapping to a skill
+EXECUTABLE_TASK_TYPES = {
+    TaskType.EXPAND_TOPIC,
+    TaskType.RESEARCH_TOPIC,
+    TaskType.REFINE_DRAFT,
+    TaskType.DEEP_REVIEW,
+    TaskType.VALIDATE_ALL,
+    TaskType.CHECK_TENETS,
+    TaskType.PESSIMISTIC_REVIEW,
+    TaskType.OPTIMISTIC_REVIEW,
+    TaskType.CONDENSE,
+    TaskType.CROSS_REVIEW,
+}
+
+
+def select_queue_task(content: str, executable_only: bool = True) -> Optional[Task]:
     """Select the next task from the queue.
 
-    Delegates to processor.get_next_task which handles:
+    Handles:
     - Priority ordering (P0 > P1 > P2 > P3)
     - Skipping blocked/vetoed/in-progress tasks
+
+    Args:
+        content: The todo.md content
+        executable_only: If True (default), skip tasks with type OTHER that
+            can't be mapped to skills. Set to False to return any pending task.
     """
-    return get_next_task(content)
+    if not executable_only:
+        return get_next_task(content)
+
+    # Get all pending tasks and find first executable one
+    parsed = parse_tasks(content)
+
+    # Filter to pending tasks without blockers
+    from tools.todo.processor import TaskStatus
+
+    pending = [
+        t
+        for t in parsed["active"]
+        if t.status == TaskStatus.PENDING and not t.blocked_by
+    ]
+
+    if not pending:
+        return None
+
+    # Sort by priority (ascending) then by line number (ascending)
+    pending.sort(key=lambda t: (t.priority, t.line_number))
+
+    # Find first executable task
+    for task in pending:
+        if task.task_type in EXECUTABLE_TASK_TYPES:
+            return task
+
+    # No executable tasks found
+    return None
 
 
 def task_to_skill(task: Task) -> SkillInvocation:
