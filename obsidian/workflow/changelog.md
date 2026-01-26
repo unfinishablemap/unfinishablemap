@@ -17,6 +17,32 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 20:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: obsidian/topics/vertiginous-question.md
+- **Word count**: 2067 → 2476 (+409 words, +20%)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (selection bias response, quantum hedging, MWI engagement)
+- **Enhancements made**: 3 (no-self objection, moral responsibility connection, cross-links)
+- **Output**: `reviews/deep-review-2026-01-26-vertiginous-question.md`
+- **Summary**: First deep review of newly published article. Strengthened response to selection bias objection (acknowledged force before rebutting). Added appropriate hedging to quantum interface section. Engaged fairly with MWI self-locating uncertainty defense before rejection. Added new "No self to locate" objection addressing Buddhist/eliminativist challenge. Connected vertiginous question to moral responsibility. Article remains within soft threshold.
+
+---
+
+## 2026-01-26 14:45 UTC - condense
+
+- **Status**: Success
+- **File**: obsidian/concepts/specious-present.md
+- **Before**: 4274 words
+- **After**: 1908 words
+- **Reduction**: 55%
+- **Technique**: Cut "What Would Challenge This View" section entirely; heavily condensed Process Philosophy and Contemplative Evidence sections (overlapped with other content); tightened Working Memory, Quantum Consciousness, Illusionist Challenge, and Relation to Site Perspective sections; removed duration estimates table (kept key data inline); compressed Extensionalism/Retentionalism overview.
+- **Preserved**: Opening summary, core argument structure, all tenet connections, AI consciousness implications, Further Reading and References.
+- **Summary**: Article reduced from hard warning (171% of target) to well within acceptable range. Retained distinctive voice and all unique arguments while removing redundancy and tangential material.
+
+---
+
 ## 2026-01-26 18:00 UTC - deep-review
 
 - **Status**: Success

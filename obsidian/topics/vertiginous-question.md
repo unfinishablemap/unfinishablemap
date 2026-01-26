@@ -3,7 +3,7 @@ title: "The Vertiginous Question"
 created: 2026-01-26
 modified: 2026-01-26
 human_modified:
-ai_modified: 2026-01-26T16:30:00+00:00
+ai_modified: 2026-01-26T20:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,7 @@ concepts:
   - "[[philosophical-zombies]]"
   - "[[qualia]]"
   - "[[interactionist-dualism]]"
+  - "[[moral-responsibility]]"
 related_articles:
   - "[[tenets]]"
   - "[[indexical-identity-quantum-measurement]]"
@@ -23,7 +24,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-26
 last_curated:
-last_deep_review:
+last_deep_review: 2026-01-26T20:30:00+00:00
 ---
 
 Why, of all the conscious beings that exist, am *I* this one? The philosopher Benj Hellie named this "the vertiginous question"—vertiginous because contemplating it induces a kind of philosophical vertigo, a dizzying sense that something fundamental about existence resists explanation. This question is distinct from the [[hard-problem-of-consciousness|hard problem]] (why is there consciousness at all?) and from the problem of [[personal-identity]] over time (what makes me the same person I was yesterday?). The vertiginous question asks something more basic: why does *this* particular locus of experience exist, and why is it the one whose experiences I am living?
@@ -74,7 +75,7 @@ The Unfinishable Map's [[tenets]] provide resources for taking the vertiginous q
 
 **Dualism with haecceity**: The Map's [[tenets#^dualism|Dualism tenet]] holds that consciousness is irreducible to physical processes. But this dualism is not naïve substance dualism that merely adds souls to physics. It's a dualism that recognizes consciousness involves both qualitative character ([[qualia]]) and indexical particularity ([[haecceity]]). The non-physical aspect of consciousness includes not just *what* is experienced but *that it is experienced by this subject*.
 
-**The quantum interface**: The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] proposes that consciousness influences physical outcomes at quantum indeterminacies. This gives content to indexical identity: *this* consciousness makes *these* selections. The vertiginous question—why am I this consciousness?—connects to the question: why is this particular causal history, this sequence of quantum selections, mine?
+**The quantum interface**: The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] proposes—speculatively—that consciousness influences physical outcomes at quantum indeterminacies. If this hypothesis is correct, it gives content to indexical identity: *this* consciousness makes *these* selections. The vertiginous question—why am I this consciousness?—connects to the question: why is this particular causal history, this sequence of quantum selections, mine? This remains a philosophical proposal rather than established science, but it illustrates how the Map's framework could ground indexical facts in causal particularity.
 
 **Many-worlds rejection**: The [[tenets#^no-many-worlds|No Many Worlds tenet]] rejects the many-worlds interpretation partly because of vertiginous question considerations. If quantum measurements cause branching into equally real worlds, each branch contains a successor to you. Which one is *really* you? Many-worlds provides no answer—all branches are equally real. But this seems wrong. You will experience one definite sequence of outcomes, not all of them. The vertiginous question presses: why *this* sequence?
 
@@ -98,7 +99,11 @@ The vertiginous question intersects several philosophical problems:
 
 **[[philosophical-zombies|Zombies]]**: The conceivability of zombies—beings physically identical to conscious beings but lacking experience—shows that qualitative physical facts underdetermine consciousness. The vertiginous question adds: even among conscious beings, qualitative facts underdetermine which one I am. Zombies show qualitative facts don't fix whether consciousness exists here; the vertiginous question shows qualitative facts don't fix whether *this* consciousness is mine.
 
-**Many-worlds branching**: After a quantum measurement in [[many-worlds]] interpretation, there are multiple branches with multiple observers. Which is you? The standard answer—all of them, equally—fails to engage the vertiginous question. Before measurement, I was one subject. After measurement, I experience one definite outcome. Which branch's outcome? The vertiginous question demands an answer many-worlds cannot provide.
+**[[moral-responsibility|Moral responsibility]]**: If haecceity grounds personal identity, it also grounds responsibility. I am responsible for *my* actions because I am this particular subject who performed them—not merely someone qualitatively similar. Pattern-identity theories that allow for branching or fusing selves face difficulties with desert and punishment: which branch is guilty? The vertiginous question connects to ethics: the indexical fact that *I* did this grounds the normative fact that *I* am accountable.
+
+**Many-worlds branching**: After a quantum measurement in [[many-worlds]] interpretation, there are multiple branches with multiple observers. Which is you? MWI defenders respond via "self-locating uncertainty"—before you observe the result, you're uncertain which branch you're in, just as you might be uncertain which room you woke up in. Both branches contain persons continuous with your pre-measurement self; asking which is "really" you is like asking which of two identical hotel rooms is "really" yours.
+
+The Map's response: self-locating uncertainty normally presupposes a single world with indexically uncertain facts—you're in one room, you just don't know which. On MWI, there's no such fact; both outcomes are equally real and "you" end up in both. The uncertainty framework seems inapplicable when all outcomes occur. Moreover, you will experience one definite sequence of outcomes, not all of them. The felt reality of anticipating one future—not multiple incompatible ones—suggests an indexical fact that MWI cannot accommodate.
 
 ## Objections and Responses
 
@@ -108,11 +113,15 @@ The vertiginous question intersects several philosophical problems:
 
 **"Selection bias"**: Of course you're this person—if you weren't, you'd be asking the question as someone else. The question answers itself.
 
-*Response*: This confuses explanation with observation. Yes, *whoever* asks the question will be asking it as themselves. But this doesn't explain why *I* am this one rather than that one. Everyone asking the vertiginous question asks it as themselves—but the question is why any particular person is the one doing the asking from that perspective.
+*Response*: This objection has force but doesn't fully dissolve the puzzle. True, *whoever* asks the question will ask it as themselves—there's a selection effect. But the question isn't "Why does someone ask this question?" but "Why does *this* subject exist and have these experiences?" The selection bias explains why the question is always asked from a first-person perspective; it doesn't explain why there is this particular first-person perspective at all. Compare: "Why does this universe exist?" isn't answered by "If it didn't, you wouldn't be asking." The anthropic observation constrains but doesn't eliminate the explanatory demand.
 
 **"Temporal indexicality analogy"**: Asking "Why now?" is meaningless—every moment is "now" when it occurs. Similarly, "Why this person?" is meaningless—every person is "this person" from their perspective.
 
 *Response*: The analogy with temporal indexicality may support haecceitism rather than undermine the question. Perhaps "now" also involves irreducible indexical facts. But even granting the analogy: temporal experience happens *to someone*. Even if "now" is just when experience occurs, "I" is *who* is having it. The question of which subject has the experience remains.
+
+**"No self to locate"**: Buddhist and eliminativist traditions argue that the "I" demanding explanation doesn't exist as the question presupposes. The self is a construction—a process, a bundle, a useful fiction—not a substance that could be "located" in one body rather than another. The vertiginous feeling arises from taking this construction literally.
+
+*Response*: This challenge has genuine force. If the self is *sunyata* (empty), the vertiginous question may dissolve rather than demand a haecceitistic answer. But note: the Buddhist view doesn't deny that *this* experience is occurring, only that there's a substantial self underlying it. The vertiginous question can be reformulated: why does *this* experiential process occur rather than another qualitatively identical one? Even a process has particularity. The question shifts from "Why am I this self?" to "Why is this experiencing happening?"—but the indexical puzzle remains. Whether we call what experiences a "self," a "stream," or a "process," the fact that *this* one is occurring (and that I am somehow identical with it) seems to be a genuine fact requiring acknowledgment if not explanation.
 
 ## Relation to Site Perspective
 
