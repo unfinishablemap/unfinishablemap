@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-25T23:01:05+00:00
+ai_modified: 2026-01-26T07:51:41+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Condense binding-problem.md (5918 words, 237% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for concepts/. Critical length violation—168% over limit. The binding problem is foundational but at nearly 6000 words the article has become unwieldy. Preserve core arguments (simultaneity problem, integration challenge, quantum binding proposal) while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P1: Condense attention-as-interface.md (5813 words, 233% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for concepts/. Critical length violation—133% over limit. Core interface article for the site but needs aggressive condensation. Preserve: attention mechanisms, quantum zeno connection, Stapp's mental effort framework. Delegate detailed evidence to linked articles (voluntary-attention.md, stapp-quantum-mind.md).
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P1: Condense temporal-consciousness.md (5279 words, 211% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for concepts/. Critical length violation—111% over limit. Covers specious present, temporal binding, flow experience. Consider splitting detailed phenomenology to duration.md and specious-present.md while keeping this as synthesis page.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Deep review consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100), never deep-reviewed. This may be a central hub article given its name. Verify: (1) accurate overview of consciousness debates, (2) proper engagement with hard problem and explanatory gap, (3) appropriate cross-linking to major site articles, (4) alignment with all five tenets.
+- **Source**: staleness
+- **Generated**: 2026-01-26
+
+### P2: Deep review quantum-neural-timing-constraints.md
+- **Type**: deep-review
+- **Notes**: AI-generated topic article (ai_contribution: 100), never deep-reviewed. Examines timing requirements for quantum effects in neural systems—directly relevant to Minimal Quantum Interaction tenet. Verify: (1) accuracy of decoherence timescale claims, (2) engagement with Tegmark's objection, (3) treatment of microtubule and synaptic proposals, (4) consistency with site's interface locality concept.
+- **Source**: staleness
+- **Generated**: 2026-01-26
 
 ### P2: Address deflationary challenge to intersubjectivity.md
 - **Type**: refine-draft
