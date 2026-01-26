@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review consciousness.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100), never deep-reviewed. This may be a central hub article given its name. Verify: (1) accurate overview of consciousness debates, (2) proper engagement with hard problem and explanatory gap, (3) appropriate cross-linking to major site articles, (4) alignment with all five tenets.
-- **Source**: staleness
-- **Generated**: 2026-01-26
-
 ### P2: Deep review quantum-neural-timing-constraints.md
 - **Type**: deep-review
 - **Notes**: AI-generated topic article (ai_contribution: 100), never deep-reviewed. Examines timing requirements for quantum effects in neural systems—directly relevant to Minimal Quantum Interaction tenet. Verify: (1) accuracy of decoherence timescale claims, (2) engagement with Tegmark's objection, (3) treatment of microtubule and synaptic proposals, (4) consistency with site's interface locality concept.
@@ -278,6 +272,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Deep review consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100), never deep-reviewed. This may be a central hub article given its name. Verify: (1) accurate overview of consciousness debates, (2) proper engagement with hard problem and explanatory gap, (3) appropriate cross-linking to major site articles, (4) alignment with all five tenets.
+- **Output**: obsidian/concepts/consciousness.md
 
 ### ✓ 2026-01-26: Condense temporal-consciousness.md (5279 words, 211% of threshold)
 - **Type**: condense
