@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Condense dreams-and-consciousness.md (5184 words, 207% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 2500-word critical threshold for concepts/. Covers dream phenomenology, lucid dreaming connection, consciousness during sleep. Preserve: core phenomenological observations, the default mode network connection, the distinction from sleep-and-consciousness.md. Defer detailed sections to linked articles (lucid-dreaming-and-consciousness.md, sleep-and-consciousness.md). See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P1: Condense cognitive-phenomenology.md (5133 words, 205% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 2500-word critical threshold for concepts/. Covers the phenomenal character of thinking. Preserve: core arguments for cognitive phenomenology, the thinking-understanding distinction, engagement with opponents. Already cross-reviewed with temporal-structure insights; ensure those additions remain. See /condense skill.
@@ -296,6 +290,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense dreams-and-consciousness.md (5184 words, 207% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word critical threshold for concepts/. Covers dream phenomenology, lucid dreaming connection, consciousness during sleep. Preserve: core phenomenological observations, the default mode network connection, the distinction from sleep-and-consciousness.md. Defer detailed sections to linked articles (lucid-dreaming-and-consciousness.md, sleep-and-consciousness.md). See /condense skill.
+- **Output**: obsidian/concepts/dreams-and-consciousness.md
 
 ### ✓ 2026-01-26: Deep review quantum-neural-timing-constraints.md
 - **Type**: deep-review
