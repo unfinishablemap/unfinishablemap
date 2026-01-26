@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 13:28 UTC - condense
+
+**Status**: Success
+**File**: concepts/moral-responsibility.md
+**Before**: 4322 words
+**After**: 2063 words
+**Reduction**: 52%
+**Technique**: Cut Process Philosophy section entirely (tangential, could be separate article), trimmed Traditional Problem (consolidated compatibilist/libertarian summaries), compressed Agent Causation and Desert (removed Kane's convergence detail, cut table), shortened How Desert Differs (unified into bold-lead paragraphs), condensed Role of Consciousness, trimmed Relation to Site Perspective (kept all five tenets but tightened), heavily cut Illusionist Challenge (link to illusionism article for full treatment), heavily cut Decoherence Challenge (link forward), trimmed Objections and Responses, reduced Further Reading from 15 to 9 links. Preserved opening summary, core argument (agent causation grounds metaphysical desert), all tenet connections, falsifiable predictions, and References.
+
+---
+
 ## 2026-01-27 00:20 UTC - optimistic-review
 
 **Status**: Success
