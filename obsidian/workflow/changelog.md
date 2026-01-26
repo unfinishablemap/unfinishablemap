@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-26T01:35:00+00:00
+ai_modified: 2026-01-26T12:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -15,6 +15,47 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-26 12:05 UTC - expand-topic
+
+**Status**: No action needed (content exists)
+**Topic**: voluntary-attention-control
+**Existing content**: concepts/voluntary-attention.md
+**Notes**: Task requested creating a concept page for "voluntary-attention-control", but this content already exists as `voluntary-attention.md` (3300+ words). That article was previously coalesced from `/topics/voluntary-attention-control/` and `/concepts/voluntary-attention-control/` on an earlier date. The existing article comprehensively covers: top-down attention control, the willed/instructed/exogenous distinction, frontal theta and bidirectional coherence signatures, prefrontal mechanisms, salience network, the stochastic pre-state challenge, temporal profile and quantum Zeno connection, motor selection parallels, decoherence challenges, illusionist objections, meditation evidence, and connection to free will. Task removed from queue.
+
+---
+
+## 2026-01-26 19:50 UTC - expand-topic
+
+**Status**: Success
+**Topic**: Dopamine's Role in Attention-Motor Interface
+**Output**: concepts/dopamine-selection-interface.md
+**Word count**: 1907
+**Based on research**: Yes (dopamine-attention-motor-quantum-interface-2026-01-24.md)
+**Notes**: Focused concept article on dopamine's role in the quantum selection interface. Covers the "can move / won't move" distinction, wanting vs. liking dissociation, tonic/phasic modes, threshold modulation, and Parkinson's as a window into selection architecture. Complements the existing attention-motor-quantum-interface article which integrates dopamine but at less depth.
+
+---
+
+## 2026-01-26 19:45 UTC - research-voids
+
+**Status**: Success
+**Topic**: Consciousness-Only Territories
+**Category**: Unexplorable (for AI) / Mixed
+**Output**: research/voids-consciousness-only-territories-2026-01-26.md
+**Key finding**: The inverse of AI-as-void-explorer—territories that consciousness alone can access, closed to non-conscious systems. Acquaintance knowledge, grounded understanding, and first-person epistemic access represent structural limits for AI, regardless of computational sophistication.
+
+---
+
+## 2026-01-26 12:00 UTC - condense
+
+**Status**: Success
+**File**: concepts/episodic-memory.md
+**Before**: 4903 words
+**After**: 2158 words
+**Reduction**: 56%
+**Technique**: Condensed Encoding/Retrieval section (merged subsections, removed detailed examples); trimmed Memory Consolidation section (kept binding insight, cut bandwidth discussion and table); condensed Constructive Nature (removed detailed false memory mechanisms); trimmed Hippocampal Binding (kept consciousness connection, cut pattern separation details); removed Encoding/Retrieval Asymmetry section entirely; condensed Phenomenology section (merged anoetic-autonoetic contrast, kept pastness quale and remember/know, trimmed involuntary memory); condensed Personal Identity section (merged responses, kept extended self and temporal asymmetry); compressed Illusionist Challenge to single paragraph; trimmed Contemplative Evidence; removed Process Philosophy section entirely; condensed What Would Challenge to single paragraph; reduced Further Reading from 18 to 8 items
+
 ---
 
 ## 2026-01-26 11:49 UTC - deep-review

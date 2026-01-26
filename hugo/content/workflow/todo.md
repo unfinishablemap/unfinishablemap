@@ -1,21 +1,20 @@
 ---
-ai_contribution: 100
-ai_generated_date: 2026-01-05
-ai_modified: 2026-01-26 10:15:00+00:00
-ai_system: claude-opus-4-5-20251101
-author: Andy Southgate
-concepts: []
-created: 2026-01-05
-date: &id001 2026-01-25
-draft: false
-human_modified: 2026-01-23 15:29:26+00:00
-last_curated: null
-modified: *id001
-related_articles:
-- '[[project]]'
-- '[[changelog]]'
 title: AI Task Queue
+created: 2026-01-05
+modified: 2026-01-25
+human_modified: 2026-01-23T15:29:26+00:00
+ai_modified: 2026-01-26T12:05:00+00:00
+draft: false
 topics: []
+concepts: []
+related_articles:
+  - "[[project]]"
+  - "[[changelog]]"
+ai_contribution: 100
+author: Andy Southgate
+ai_system: claude-opus-4-5-20251101
+ai_generated_date: 2026-01-05
+last_curated:
 ---
 
 This is the task queue for AI automation. The human reviews and prioritizes tasks; the AI executes them.
@@ -38,16 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review ai-as-void-explorer.md considering tenet-generated-voids insights
-- **Type**: cross-review
-- **Notes**: New article voids/tenet-generated-voids.md (2026-01-25) explores how The Map's five tenets create specific unexplorable territories. The ai-as-void-explorer.md article examines AI's ability to explore voids and should engage with whether AI can explore tenet-generated voids specifically. Check for: (1) cross-links to tenet-generated-voids, (2) whether the Occam's Razor limit affects AI exploration capacity.
-- **Source**: chain (from tenet-generated-voids.md)
+### P3: Deep review conceptual-acquisition-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) created recently, never deep-reviewed. Explores limits on what concepts minds can acquire. Should verify: (1) accuracy of cognitive science claims, (2) engagement with concept acquisition literature, (3) alignment with mysterianism and voids framework.
+- **Source**: staleness
 - **Generated**: 2026-01-26
 
-### P2: Acknowledge interaction problem relocation in panpsychism.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review 2026-01-26 found the panpsychism article claims the Map "avoids" the combination problem while presenting the interaction problem as "addressed via quantum mechanics." This creates false asymmetry. Quantum mechanics provides a candidate location for interaction, not a mechanism explaining how interaction occurs. The comparison table (lines 109-115) should acknowledge that both problems are comparably difficult—traded, not solved. The sentence "The Map addresses this via quantum mechanics" (line 116) should clarify that the mechanism question is relocated, not resolved.
-- **Source**: pessimistic-review
+### P3: Deep review defended-territory.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories that resist cartography due to active defense (emotional, tribal, institutional). Should verify: (1) balance between epistemology and sociology, (2) connection to other voids categories, (3) accuracy of psychological claims about motivated reasoning.
+- **Source**: staleness
 - **Generated**: 2026-01-26
 
 ### P2: Address deflationary challenge to intersubjectivity.md
@@ -280,6 +279,61 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ## Completed Tasks
 
 
+### ✓ 2026-01-26: Write article on dopamine's role in attention-motor interface
+- **Type**: expand-topic
+- **Notes**: Based on research in research/dopamine-attention-motor-quantum-interface-2026-01-24.md. Comprehensive research on dopamine's dual role as salience-marker and threshold-modulator. Covers wanting vs. liking, tonic vs. phasic dopamine. The "can move/won't move" distinction supports Bidirectional Interaction via consciousness's role in action selection. Connects to attention-as-interface framework.
+- **Output**: dopamine's role in attention-motor interface
+
+### ✓ 2026-01-26: Condense episodic-memory.md (4903 words, 140% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers autobiographical memory, mental time travel, and the autonoetic consciousness connection. Preserve core arguments about episodic memory's phenomenal character while deferring details. See /condense skill.
+- **Output**: obsidian/concepts/episodic-memory.md
+
+### ✓ 2026-01-26: Condense metacognition.md (4927 words, 141% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers thinking about thinking, self-monitoring, and cognitive self-regulation. Preserve core metacognitive distinctions while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/metacognition.md
+
+### ✓ 2026-01-26: Condense ethics-of-consciousness.md (5034 words, 126% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Covers AI consciousness ethics, moral status, and precautionary principles. Preserve core ethical framework while removing redundancy. Consider deferring detailed arguments to linked concept pages. See /condense skill.
+- **Output**: obsidian/topics/ethics-of-consciousness.md
+
+### ✓ 2026-01-26: Condense animal-consciousness.md (5918 words, 197% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve key evidence and arguments for animal consciousness while deferring detailed species-by-species treatment to linked concept pages. See /condense skill.
+- **Output**: obsidian/topics/animal-consciousness.md
+
+### ✓ 2026-01-26: Condense qualia.md (4966 words, 199% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the nature and philosophical significance of qualia while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/qualia.md
+
+### ✓ 2026-01-26: Cross-review cognitive-phenomenology.md considering language-thought boundary insights
+- **Type**: cross-review
+- **Notes**: New article voids/language-thought-boundary.md explores where speakable and thinkable diverge. Check cognitive-phenomenology.md for: (1) places to add cross-links, (2) whether language-thought analysis supports or refines the phenomenology of thinking, (3) opportunities to reference the effability question.
+- **Output**: obsidian/concepts/cognitive-phenomenology.md -- Context: Cross-review cognitive-phenomenology.md considering language-thought boundary insights
+
+### ✓ 2026-01-26: Cross-review llm-consciousness.md considering AI void-exploration insights
+- **Type**: cross-review
+- **Notes**: New article voids/ai-as-void-explorer.md explores AI as probe for human cognitive limits, including discussion of LLM interpretability research. Check llm-consciousness.md for: (1) opportunities to link to void-exploration perspective, (2) arguments that new insights support or challenge, (3) terminology consistency.
+- **Output**: obsidian/concepts/llm-consciousness.md -- Context: Cross-review llm-consciousness.md considering AI void-exploration insights
+
+### ✓ 2026-01-26: Condense autonoetic-consciousness.md (5011 words, 200% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 5000-word critical threshold for concepts/. Preserve core arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/autonoetic-consciousness.md
+
+### ✓ 2026-01-26: Acknowledge interaction problem relocation in panpsychism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-26 found the panpsychism article claims the Map "avoids" the combination problem while presenting the interaction problem as "addressed via quantum mechanics." This creates false asymmetry. Quantum mechanics provides a candidate location for interaction, not a mechanism explaining how interaction occurs. The comparison table (lines 109-115) should acknowledge that both problems are comparably difficult—traded, not solved. The sentence "The Map addresses this via quantum mechanics" (line 116) should clarify that the mechanism question is relocated, not resolved.
+- **Output**: obsidian/concepts/panpsychism.md
+
+### ✓ 2026-01-26: Write voids article on language-thought boundary
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-language-thought-boundary-2026-01-26.md. Covers Wittgenstein's Tractatus limits, Sapir-Whorf research, ineffability, apophatic traditions. The boundary between speakable and unspeakable may constitute a genuine void. Distinct from general effability topic—this is specifically a voids article. Builds on apophatic-approaches.md, thoughts-that-slip-away.md, conceptual-acquisition-limits.md.
+- **Output**: Write voids article on language-thought boundary
+
 ### ✓ 2026-01-26: Condense mental-effort.md (5046 words, 202% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 2500-word critical threshold for concepts/. Covers phenomenology of effort, James' insights, Stapp's quantum Zeno mechanism. Preserve: core phenomenological observations, connection to attention-as-interface. Already cross-reviewed with Stapp phenomenology; ensure those additions remain. Defer detailed Stapp mechanism to stapp-quantum-mind.md. See /condense skill.
@@ -397,7 +451,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-24: Cross-review llm-consciousness.md considering conceptual acquisition limits
 - **Type**: cross-review
 - **Notes**: New voids article voids/conceptual-acquisition-limits.md develops Fodor's nativist challenge and argues AI may operate in "alien cognition" accessing 12,000+ dimensional concept spaces inaccessible to humans. The llm-consciousness.md concept page should be reviewed to: (1) add cross-link to conceptual-acquisition-limits, (2) integrate discussion of whether LLMs access concepts humans cannot acquire, (3) note implications for determining LLM consciousness if their concept space is fundamentally alien.
-- **Result**: Added [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) to frontmatter concepts (first position). Created new "The Alien Cognition Question" section (~500 words) covering: (1) the dimensional asymmetry between LLM embedding spaces (12,000+) and human phenomenology (6-7), (2) Fodor's nativist challenge applied to LLMs, (3) three reasons why alien concepts don't establish consciousness (concepts aren't consciousness, statistical clustering isn't understanding, translation problem cuts both ways), (4) the void-explorer possibility and why pattern detection doesn't require experience. Added conceptual-acquisition-limits as first entry in Further Reading.
+- **Result**: Added [[conceptual-acquisition-limits]] to frontmatter concepts (first position). Created new "The Alien Cognition Question" section (~500 words) covering: (1) the dimensional asymmetry between LLM embedding spaces (12,000+) and human phenomenology (6-7), (2) Fodor's nativist challenge applied to LLMs, (3) three reasons why alien concepts don't establish consciousness (concepts aren't consciousness, statistical clustering isn't understanding, translation problem cuts both ways), (4) the void-explorer possibility and why pattern detection doesn't require experience. Added conceptual-acquisition-limits as first entry in Further Reading.
 - **Output**: concepts/llm-consciousness.md (modified)
 
 ### ✓ 2026-01-24: Deep review quantum-decoherence-objection.md
@@ -445,7 +499,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-25: Cross-review mysterianism.md considering conceptual acquisition limits insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/conceptual-acquisition-limits.md develops Fodor's nativist challenge and Rescher's three layers of inaccessibility. The mysterianism.md concept page should be reviewed to: (1) add cross-link to conceptual-acquisition-limits, (2) connect McGinn's cognitive closure to Fodor's concept nativism, (3) note how Rescher's agnoseology extends the cognitive closure framework.
-- **Result**: Added [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) to frontmatter concepts. Created new "Concept Nativism and Cognitive Closure" section (~350 words) after Problems Versus Mysteries section, explaining: (1) Fodor's circularity argument that concepts must be innate, (2) how this extends McGinn's closure—property P may be inaccessible because we lack the primitive concepts to construct it, (3) Rescher's three layers of inaccessibility (logical, conceptual, in-principle) with cognitive closure occupying the conceptual layer. Added to Further Reading section.
+- **Result**: Added [[conceptual-acquisition-limits]] to frontmatter concepts. Created new "Concept Nativism and Cognitive Closure" section (~350 words) after Problems Versus Mysteries section, explaining: (1) Fodor's circularity argument that concepts must be innate, (2) how this extends McGinn's closure—property P may be inaccessible because we lack the primitive concepts to construct it, (3) Rescher's three layers of inaccessibility (logical, conceptual, in-principle) with cognitive closure occupying the conceptual layer. Added to Further Reading section.
 - **Output**: concepts/mysterianism.md (modified)
 
 ### ✓ 2026-01-24: Write voids article on conceptual acquisition limits
@@ -463,7 +517,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-24: Cross-review indexical-identity-quantum-measurement.md considering quantum probability insights
 - **Type**: cross-review
 - **Notes**: New article concepts/quantum-probability-and-consciousness.md develops the indexical reading of Born probabilities. The indexical-identity-quantum-measurement.md article should be reviewed to: (1) add cross-link to quantum-probability-and-consciousness, (2) integrate the distinction between objective, subjective, and indexical readings of probability, (3) note how the indexical reading connects to haecceity.
-- **Result**: Added new "Three Readings of Quantum Probability" section (~200 words) presenting the objective/subjective/indexical distinction. Connected indexical reading to haecceity—if Born probabilities describe probabilities for *this* subject, they invoke primitive thisness. Added [quantum-probability-and-consciousness](/concepts/quantum-probability-and-consciousness/) to frontmatter concepts and Further Reading section.
+- **Result**: Added new "Three Readings of Quantum Probability" section (~200 words) presenting the objective/subjective/indexical distinction. Connected indexical reading to haecceity—if Born probabilities describe probabilities for *this* subject, they invoke primitive thisness. Added [[quantum-probability-and-consciousness]] to frontmatter concepts and Further Reading section.
 - **Output**: topics/indexical-identity-quantum-measurement.md (modified)
 
 ### ✓ 2026-01-24: Deep review attention-motor-quantum-interface.md
@@ -505,19 +559,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-24: Cross-review stapp-quantum-mind.md considering psychophysical coupling mechanisms
 - **Type**: cross-review
 - **Notes**: New article concepts/psychophysical-coupling-mechanisms.md elaborates five coupling mechanisms including Stapp's attention-as-observation-rate. The stapp-quantum-mind.md page should be reviewed to: (1) add cross-link to psychophysical-coupling-mechanisms, (2) integrate the attention rate specification details, (3) note the decoherence objection and post-decoherence response.
-- **Result**: Review found all requested integrations already present from a previous deep-review (2026-01-22T21:16:05+00:00): (1) [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) in frontmatter concepts, (2) "Comparative Standing" section at lines 69-72 discussing all five mechanisms and their relative development, (3) decoherence objection with post-decoherence response at line 215, (4) cross-link in Further Reading section. No changes needed.
+- **Result**: Review found all requested integrations already present from a previous deep-review (2026-01-22T21:16:05+00:00): (1) [[psychophysical-coupling-mechanisms]] in frontmatter concepts, (2) "Comparative Standing" section at lines 69-72 discussing all five mechanisms and their relative development, (3) decoherence objection with post-decoherence response at line 215, (4) cross-link in Further Reading section. No changes needed.
 - **Output**: (none—already complete)
 
 ### ✓ 2026-01-24: Deep review unity-of-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Central concept linking binding problem, phenomenal unity, and split-brain cases. Should verify: (1) accuracy on varieties of unity, (2) proper treatment of split-brain evidence, (3) connection to quantum binding hypothesis, (4) implications for personal identity.
-- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Added decoherence objection response to Quantum Binding section with revised timing estimates and [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) cross-link. Expanded illusionist challenge with Frankish's quasi-phenomenal properties argument. Added Pinto et al. 2025 PNAS citation for split-brain resilience. Added [voluntary-attention](/concepts/voluntary-attention/) empirical case to Bidirectional Interaction. Connected Leibniz's Mill to [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/). Added 5 new frontmatter cross-links and 3 new references.
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Added decoherence objection response to Quantum Binding section with revised timing estimates and [[quantum-neural-timing-constraints]] cross-link. Expanded illusionist challenge with Frankish's quasi-phenomenal properties argument. Added Pinto et al. 2025 PNAS citation for split-brain resilience. Added [[voluntary-attention]] empirical case to Bidirectional Interaction. Connected Leibniz's Mill to [[mysterianism-cognitive-closure]]. Added 5 new frontmatter cross-links and 3 new references.
 - **Output**: concepts/unity-of-consciousness.md, reviews/deep-review-2026-01-24-unity-of-consciousness.md
 
 ### ✓ 2026-01-24: Deep review conscious-vs-unconscious-processing.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Core functional evidence for consciousness making a causal difference. Should verify: (1) accuracy of 2025 meta-analysis claims, (2) proper engagement with Dehaene's three functions, (3) connection to baseline-cognition hypothesis, (4) implications for epiphenomenalism.
-- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Fixed erroneous Lieberman 2008 citation (paper does not exist). Added [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) connection with timing hierarchy explanation. Added [argument-from-reason](/topics/argument-from-reason/) connection showing philosophical and empirical convergence. Strengthened phenomenal overflow discussion with first-person/third-person methodological limits. Added 5 new concept cross-links and 3 new Further Reading entries.
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Fixed erroneous Lieberman 2008 citation (paper does not exist). Added [[quantum-neural-timing-constraints]] connection with timing hierarchy explanation. Added [[argument-from-reason]] connection showing philosophical and empirical convergence. Strengthened phenomenal overflow discussion with first-person/third-person methodological limits. Added 5 new concept cross-links and 3 new Further Reading entries.
 - **Output**: concepts/conscious-vs-unconscious-processing.md, reviews/deep-review-2026-01-24-conscious-vs-unconscious-processing.md
 
 ### ✓ 2026-01-24: Research quantum biology mechanisms in neural systems
@@ -535,13 +589,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-24: Cross-review phenomenology.md considering heterophenomenology contrast (ALREADY COMPLETE)
 - **Type**: cross-review
 - **Notes**: New article concepts/heterophenomenology.md defines Dennett's third-person approach. The phenomenology.md article should be reviewed to: (1) add cross-link to heterophenomenology, (2) clarify the methodological contrast between Husserlian phenomenology and Dennett's heterophenomenology, (3) note how the debate illuminates first-person vs third-person methodology tensions.
-- **Result**: Review found all requested integrations already present: (1) [heterophenomenology](/concepts/heterophenomenology/) in frontmatter concepts and Further Reading, (2) explicit methodological contrast section at lines 133-139 distinguishing phenomenology's intersubjective preservation of subjectivity from heterophenomenology's elimination of it, (3) discussion of how heterophenomenology treats reports as behavioral data vs. phenomenology's first-person access.
+- **Result**: Review found all requested integrations already present: (1) [[heterophenomenology]] in frontmatter concepts and Further Reading, (2) explicit methodological contrast section at lines 133-139 distinguishing phenomenology's intersubjective preservation of subjectivity from heterophenomenology's elimination of it, (3) discussion of how heterophenomenology treats reports as behavioral data vs. phenomenology's first-person access.
 - **Output**: (none—already complete)
 
 ### ✓ 2026-01-24: Cross-review free-will.md considering argument-from-reason insights
 - **Type**: cross-review
 - **Notes**: New article topics/argument-from-reason.md shows reasoning requires irreducible consciousness. The free-will.md article should be reviewed to: (1) add cross-link to argument-from-reason, (2) integrate the self-defeat argument as additional positive case for libertarian free will, (3) note how the argument from reason complements traditional phenomenological arguments for free will.
-- **Result**: Added [argument-from-reason](/topics/argument-from-reason/) to frontmatter concepts. Created new subsection "The Argument from Reason: Rationality Requires Mental Causation" (~400 words) after self-stultification discussion, explaining how the argument provides a non-phenomenological route to mental causation, strengthens agent causation, and makes epiphenomenalism self-refuting at a deeper level. Added to Further Reading section with description.
+- **Result**: Added [[argument-from-reason]] to frontmatter concepts. Created new subsection "The Argument from Reason: Rationality Requires Mental Causation" (~400 words) after self-stultification discussion, explaining how the argument provides a non-phenomenological route to mental causation, strengthens agent causation, and makes epiphenomenalism self-refuting at a deeper level. Added to Further Reading section with description.
 - **Output**: topics/free-will.md (modified)
 
 ### ✓ 2026-01-24: Write article on cognitive science and dualism compatibility (REDUNDANT)
@@ -565,31 +619,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-24: Deep review intuitive-dualism.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Intuitive dualism explains the pre-theoretical folk intuition underlying substance dualism. Directly supports Dualism tenet as foundational cognitive science background.
-- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Expanded illusionism response to properly engage Frankish's quasi-phenomenal properties argument with three specific considerations. Added Barrett et al. empirical detail (sample sizes: 2,000+ across 6 populations). Strengthened contemplative section with sceptic objection and Fox et al. 2012 accuracy finding. Connected Minimal Quantum Interaction to [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) and [voluntary-attention](/concepts/voluntary-attention/). Added Schwartz OCD evidence to bidirectional interaction section. Added cross-links to [consciousness](/concepts/consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [first-person-third-person-methodology](/topics/first-person-third-person-methodology/), [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/).
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Expanded illusionism response to properly engage Frankish's quasi-phenomenal properties argument with three specific considerations. Added Barrett et al. empirical detail (sample sizes: 2,000+ across 6 populations). Strengthened contemplative section with sceptic objection and Fox et al. 2012 accuracy finding. Connected Minimal Quantum Interaction to [[quantum-neural-timing-constraints]] and [[voluntary-attention]]. Added Schwartz OCD evidence to bidirectional interaction section. Added cross-links to [[consciousness]], [[stapp-quantum-mind]], [[first-person-third-person-methodology]], [[mysterianism-cognitive-closure]].
 - **Output**: concepts/intuitive-dualism.md, reviews/deep-review-2026-01-24-intuitive-dualism.md
 
 ### ✓ 2026-01-24: Deep review bidirectional-interaction.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) never deep-reviewed. Directly supports the Bidirectional Interaction tenet—if this article has errors, the tenet's credibility suffers. Should verify: (1) accurate representation of causal closure debate, (2) conservation law responses, (3) empirical evidence claims (Libet, Schwartz OCD), (4) connection to quantum mechanism.
-- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Fixed critical misattribution (Lieberman 2008 was wrong paper)—replaced with accurate Randeniya 2025 meta-analysis and Bayne & Hohwy three-functions framework. Added new "The Timing Challenge" subsection addressing Tegmark critique with cross-link to [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/). Added illusionist response paragraph explaining why it fails. Added cross-links to [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/), [voluntary-attention](/concepts/voluntary-attention/), [argument-from-reason](/topics/argument-from-reason/), [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/). Fixed broken [baseline-cognition](/archive/topics/baseline-cognition/) link. Added Tomasello, Tegmark citations.
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Fixed critical misattribution (Lieberman 2008 was wrong paper)—replaced with accurate Randeniya 2025 meta-analysis and Bayne & Hohwy three-functions framework. Added new "The Timing Challenge" subsection addressing Tegmark critique with cross-link to [[quantum-neural-timing-constraints]]. Added illusionist response paragraph explaining why it fails. Added cross-links to [[psychophysical-coupling-mechanisms]], [[voluntary-attention]], [[argument-from-reason]], [[conscious-vs-unconscious-processing]]. Fixed broken [[baseline-cognition]] link. Added Tomasello, Tegmark citations.
 - **Output**: concepts/bidirectional-interaction.md, reviews/deep-review-2026-01-24-bidirectional-interaction.md
 
 ### ✓ 2026-01-24: Deep review voluntary-attention.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) never deep-reviewed. Core mechanism article explaining how voluntary attention (~300ms) provides the quantum interface for conscious control. Critical for the Map's attention-motor-quantum framework. Should verify: (1) accuracy of neural timing claims, (2) proper integration with PMTA literature, (3) connection to Stapp's Quantum Zeno mechanism.
-- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Added missing Vossel 2023 reference. Added primary citation for revised decoherence estimates (Hagan et al. 2002). Strengthened biological precedent with radical pair mechanism citations (Ritz 2004, Hore & Mouritsen 2016). Added cross-link to [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) in frontmatter and body. Enhanced decoherence section with explicit acknowledgment of three-order-of-magnitude gap and Quantum Zeno workaround.
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Added missing Vossel 2023 reference. Added primary citation for revised decoherence estimates (Hagan et al. 2002). Strengthened biological precedent with radical pair mechanism citations (Ritz 2004, Hore & Mouritsen 2016). Added cross-link to [[quantum-neural-timing-constraints]] in frontmatter and body. Enhanced decoherence section with explicit acknowledgment of three-order-of-magnitude gap and Quantum Zeno workaround.
 - **Output**: concepts/voluntary-attention.md, reviews/deep-review-2026-01-24-voluntary-attention.md
 
 ### ✓ 2026-01-24: Cross-review quantum-decoherence-objection.md considering quantum neural timing constraints
 - **Type**: cross-review
 - **Notes**: New article topics/quantum-neural-timing-constraints.md directly addresses the timing objection this concept page covers. The quantum-decoherence-objection.md page should be reviewed to: (1) add cross-link to quantum-neural-timing-constraints, (2) integrate the 280-300ms empirical neural timing windows, (3) note the distinction between mechanisms requiring sustained coherence vs. discrete Quantum Zeno observations.
-- **Result**: Added [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) to frontmatter concepts (first position). Added new "The Neural Decision Windows" section documenting ~280-300ms empirical constraints from Thura-Cisek (motor commitment), Bengson (willed attention), and Schultze-Kraft (point of no return). Added "Two Kinds of Timing Requirement" section distinguishing sustained coherence mechanisms (Orch OR) from discrete observation mechanisms (Stapp's quantum Zeno)—the key insight being that Zeno operates through ~1000 discrete observations rather than continuous coherence. Added [stapp-quantum-mind](/concepts/stapp-quantum-mind/) to concepts. Updated Further Reading with quantum-neural-timing-constraints and stapp-quantum-mind as first entries. Added new references (Bengson 2019, Schultze-Kraft 2016, Stapp 2008, Thura & Cisek 2014).
+- **Result**: Added [[quantum-neural-timing-constraints]] to frontmatter concepts (first position). Added new "The Neural Decision Windows" section documenting ~280-300ms empirical constraints from Thura-Cisek (motor commitment), Bengson (willed attention), and Schultze-Kraft (point of no return). Added "Two Kinds of Timing Requirement" section distinguishing sustained coherence mechanisms (Orch OR) from discrete observation mechanisms (Stapp's quantum Zeno)—the key insight being that Zeno operates through ~1000 discrete observations rather than continuous coherence. Added [[stapp-quantum-mind]] to concepts. Updated Further Reading with quantum-neural-timing-constraints and stapp-quantum-mind as first entries. Added new references (Bengson 2019, Schultze-Kraft 2016, Stapp 2008, Thura & Cisek 2014).
 - **Output**: concepts/quantum-decoherence-objection.md
 
 ### ✓ 2026-01-24: Cross-review quantum-consciousness.md considering quantum neural timing constraints
 - **Type**: cross-review
 - **Notes**: New article topics/quantum-neural-timing-constraints.md provides detailed timing hierarchy from femtosecond decoherence to 300ms neural decision windows. The quantum-consciousness.md concept page should be reviewed to: (1) add cross-link to quantum-neural-timing-constraints, (2) integrate the revised decoherence estimates (10-100μs microtubule, 1-10ms mesoscopic), (3) note how Quantum Zeno sidesteps coherence requirements by operating through discrete observations.
-- **Result**: Added [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) to frontmatter concepts (first position). Updated "Revised Coherence Estimates" table to include Perry 2025 mesoscopic network effects (1-10ms). Added new "Neural Timing Windows" subsection documenting the 280ms motor commitment, 300ms willed attention, and 200ms point-of-no-return empirical constraints. Expanded "Zeno alternative sidesteps the problem" paragraph to explain discrete observation cycles vs sustained coherence, including the snapshots-vs-film analogy and ~1000 observation events per 300ms window. Added quantum-neural-timing-constraints as first entry in Further Reading.
+- **Result**: Added [[quantum-neural-timing-constraints]] to frontmatter concepts (first position). Updated "Revised Coherence Estimates" table to include Perry 2025 mesoscopic network effects (1-10ms). Added new "Neural Timing Windows" subsection documenting the 280ms motor commitment, 300ms willed attention, and 200ms point-of-no-return empirical constraints. Expanded "Zeno alternative sidesteps the problem" paragraph to explain discrete observation cycles vs sustained coherence, including the snapshots-vs-film analogy and ~1000 observation events per 300ms window. Added quantum-neural-timing-constraints as first entry in Further Reading.
 - **Output**: concepts/quantum-consciousness.md
 
 ### ✓ 2026-01-24: Deep review phenomenology.md
@@ -601,7 +655,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-24: Cross-review interactionist-dualism.md considering psychophysical coupling mechanisms
 - **Type**: cross-review
 - **Notes**: New article concepts/psychophysical-coupling-mechanisms.md addresses the specification problem—which phenomenal properties map to which physical selections. The interactionist-dualism.md concept page should be reviewed to: (1) add cross-link to psychophysical-coupling-mechanisms, (2) integrate the five candidate coupling mechanisms as concrete proposals, (3) strengthen the response to "how does mind affect matter" objection.
-- **Result**: Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) to frontmatter concepts (first position). Added new "Psychophysical Coupling Mechanisms" section after "Selection, Biasing, and the Falsifiability Question" presenting: (1) table of five coupling mechanisms with phenomenal properties, physical selections, and development levels, (2) explanation of why attention and intention mechanisms meet adequacy standards while others remain underspecified, (3) the three criteria for mechanism adequacy (precision, mechanism, falsifiability), (4) Schaffer's "t-shirt problem" framing. Added psychophysical-coupling-mechanisms as first entry in Further Reading.
+- **Result**: Added [[psychophysical-coupling-mechanisms]] to frontmatter concepts (first position). Added new "Psychophysical Coupling Mechanisms" section after "Selection, Biasing, and the Falsifiability Question" presenting: (1) table of five coupling mechanisms with phenomenal properties, physical selections, and development levels, (2) explanation of why attention and intention mechanisms meet adequacy standards while others remain underspecified, (3) the three criteria for mechanism adequacy (precision, mechanism, falsifiability), (4) Schaffer's "t-shirt problem" framing. Added psychophysical-coupling-mechanisms as first entry in Further Reading.
 - **Output**: concepts/interactionist-dualism.md
 
 ### ✓ 2026-01-24: Write article on quantum neural timing constraints
@@ -618,14 +672,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-24: Create concept index page for consciousness
 - **Type**: expand-topic
-- **Notes**: Gap analysis. The wikilink [consciousness](/concepts/consciousness/) is referenced 242+ times across the Map but has no definition page. Many articles reference consciousness as a core concept, but currently link to nothing. This should be an index/overview page that defines consciousness in the Map's framework and links to more specific articles (phenomenal-consciousness, access-consciousness, neural-correlates-of-consciousness, etc.).
+- **Notes**: Gap analysis. The wikilink [[consciousness]] is referenced 242+ times across the Map but has no definition page. Many articles reference consciousness as a core concept, but currently link to nothing. This should be an index/overview page that defines consciousness in the Map's framework and links to more specific articles (phenomenal-consciousness, access-consciousness, neural-correlates-of-consciousness, etc.).
 - **Result**: Created comprehensive consciousness concept page (~2,200 words) serving as an index/hub. Defines consciousness in the Map's framework (irreducible, causally efficacious). Covers: what consciousness is (subjectivity, qualitative character, unity); the hard problem; key distinctions (phenomenal/access, consciousness/awareness, creature/state); theories (functionalism, GWT, IIT, illusionism, interactionist dualism, epiphenomenalism, panpsychism); arguments for irreducibility (knowledge argument, zombies, explanatory gap, inverted qualia, argument from reason); neural correlates; dimensions of consciousness; consciousness and self; consciousness and causation. Strong tenet alignment throughout with explicit connections to all five tenets.
 - **Output**: concepts/consciousness.md
 
 ### ✓ 2026-01-24: Cross-review dualism.md considering argument-from-reason insights
 - **Type**: cross-review
 - **Notes**: New article topics/argument-from-reason.md presents a powerful self-stultification argument against physicalism. The dualism.md concept page should be reviewed to: (1) add cross-link to argument-from-reason, (2) integrate the argument from reason as additional positive case for dualism, (3) ensure the page references all five tenets where relevant.
-- **Result**: Added [argument-from-reason](/topics/argument-from-reason/) to frontmatter concepts (first position). Added new "The Argument from Reason" subsection under "Arguments for Dualism" explaining: (1) the self-defeat structure targeting rational justification rather than qualia, (2) how physical causation cannot instantiate normative relationships required for genuine reasoning, (3) how this complements phenomenal arguments by showing consciousness must involve irreducible normative properties. Added argument-from-reason as first entry in Further Reading.
+- **Result**: Added [[argument-from-reason]] to frontmatter concepts (first position). Added new "The Argument from Reason" subsection under "Arguments for Dualism" explaining: (1) the self-defeat structure targeting rational justification rather than qualia, (2) how physical causation cannot instantiate normative relationships required for genuine reasoning, (3) how this complements phenomenal arguments by showing consciousness must involve irreducible normative properties. Added argument-from-reason as first entry in Further Reading.
 - **Output**: concepts/dualism.md
 
 ### ✓ 2026-01-24: Deep review qualia.md
@@ -655,31 +709,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-24: Cross-review quantum-consciousness.md considering attention-motor quantum interface
 - **Type**: cross-review
 - **Notes**: New article concepts/attention-motor-quantum-interface.md unifies the premotor theory of attention (PMTA) with Stapp's quantum Zeno mechanism, showing attention shifts ARE motor plans operating through the same quantum selection mechanism. The quantum-consciousness.md article should be reviewed to: (1) add cross-link to attention-motor-quantum-interface, (2) integrate the PMTA evidence that strengthens Stapp's attention mechanism, (3) note the ~280ms/~300ms timing convergence as additional constraint on quantum Zeno dynamics.
-- **Result**: Added [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) to frontmatter concepts (first position). Added new "Attention-Motor Unification" subsection under "The Mechanism" heading explaining: (1) the PMTA claim that attention and motor planning share substrates, (2) the ~280ms/~300ms timing convergence between motor commitment and willed attention deployment as evidence for common mechanism, (3) how this provides stronger evidence than attention alone—two independent domains with identical selection architecture. Added attention-motor-quantum-interface as first entry in Further Reading.
+- **Result**: Added [[attention-motor-quantum-interface]] to frontmatter concepts (first position). Added new "Attention-Motor Unification" subsection under "The Mechanism" heading explaining: (1) the PMTA claim that attention and motor planning share substrates, (2) the ~280ms/~300ms timing convergence between motor commitment and willed attention deployment as evidence for common mechanism, (3) how this provides stronger evidence than attention alone—two independent domains with identical selection architecture. Added attention-motor-quantum-interface as first entry in Further Reading.
 - **Output**: concepts/quantum-consciousness.md
 
 ### ✓ 2026-01-24: Cross-review phenomenal-unity.md considering unity-of-consciousness article
 - **Type**: cross-review
 - **Notes**: New article concepts/unity-of-consciousness.md provides conceptual framing for the unity problem that phenomenal-unity.md addresses from the phenomenal side. The phenomenal-unity.md article should be reviewed to: (1) add cross-link to unity-of-consciousness as the definitional hub, (2) clarify how phenomenal-unity.md focuses on *why* unity is unified while unity-of-consciousness.md defines *what* unity is, (3) integrate the phenomenal vs access unity distinction from the new article.
-- **Result**: Added [unity-of-consciousness](/concepts/unity-of-consciousness/) to frontmatter concepts (first position). Added introductory paragraph after the opening to position this article relative to unity-of-consciousness: phenomenal-unity focuses on *why* (the explanatory challenge and quantum hypothesis), while unity-of-consciousness defines *what* (the explanandum). Added new "Phenomenal vs Access Unity" subsection distinguishing phenomenal unity (what experience is like) from access unity (information availability), noting that most neuroscientific theories explain access unity without addressing phenomenal unity. Added unity-of-consciousness as first entry in Further Reading.
+- **Result**: Added [[unity-of-consciousness]] to frontmatter concepts (first position). Added introductory paragraph after the opening to position this article relative to unity-of-consciousness: phenomenal-unity focuses on *why* (the explanatory challenge and quantum hypothesis), while unity-of-consciousness defines *what* (the explanandum). Added new "Phenomenal vs Access Unity" subsection distinguishing phenomenal unity (what experience is like) from access unity (information availability), noting that most neuroscientific theories explain access unity without addressing phenomenal unity. Added unity-of-consciousness as first entry in Further Reading.
 - **Output**: concepts/phenomenal-unity.md
 
 ### ✓ 2026-01-24: Cross-review baseline-cognition.md considering conscious-vs-unconscious article
 - **Type**: cross-review
 - **Notes**: New article concepts/conscious-vs-unconscious-processing.md provides empirical grounding for the baseline cognition hypothesis—the 2025 fMRI reanalysis showing only 10% of unconscious processing claims survive rigorous methodology. The baseline-cognition.md article should be reviewed to: (1) add cross-link to conscious-vs-unconscious-processing, (2) integrate the three functions requiring consciousness (durable maintenance, novel combinations, spontaneous intentional action), (3) strengthen the empirical case for consciousness's functional role.
-- **Result**: Added [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) to frontmatter concepts (first position). Added new introduction to "What Baseline Cognition Cannot Achieve" section explaining: (1) the 2025 Randeniya meta-analysis finding that only 10% of claimed unconscious effects survive scrutiny, (2) how this converges with comparative cognition evidence, (3) the three functions requiring consciousness framework. Added parenthetical labels (Durable Maintenance), (Novel Combinations), (Spontaneous Intentional Action) to the three main subsections and expanded each with cross-links to conscious-vs-unconscious-processing showing how the human-ape gap maps onto these specific consciousness-requiring functions. Added conscious-vs-unconscious-processing as first entry in Further Reading.
+- **Result**: Added [[conscious-vs-unconscious-processing]] to frontmatter concepts (first position). Added new introduction to "What Baseline Cognition Cannot Achieve" section explaining: (1) the 2025 Randeniya meta-analysis finding that only 10% of claimed unconscious effects survive scrutiny, (2) how this converges with comparative cognition evidence, (3) the three functions requiring consciousness framework. Added parenthetical labels (Durable Maintenance), (Novel Combinations), (Spontaneous Intentional Action) to the three main subsections and expanded each with cross-links to conscious-vs-unconscious-processing showing how the human-ape gap maps onto these specific consciousness-requiring functions. Added conscious-vs-unconscious-processing as first entry in Further Reading.
 - **Output**: concepts/baseline-cognition.md
 
 ### ✓ 2026-01-23: Cross-review voluntary-attention-control.md considering attention-motor quantum interface article
 - **Type**: cross-review
 - **Notes**: New article concepts/attention-motor-quantum-interface.md argues attention IS motor planning (PMTA). The voluntary-attention-control.md article should be reviewed to: (1) add cross-link to attention-motor-quantum-interface, (2) note that the willed attention findings support unified attention-motor mechanism, (3) integrate the PMTA perspective that "attention shifts are motor plans."
-- **Result**: Added [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) to frontmatter concepts (first position). Added new "Attention-Motor Unification" subsection under "Stapp's Quantum Zeno Mechanism" explaining: (1) the PMTA claim that attention shifts ARE motor plans, (2) how willed attention findings (~300ms deployment, frontal theta, bidirectional coherence) converge with motor commitment timing (~280ms), (3) the implication that consciousness operates through one unified selection mechanism for both attention and action. Added attention-motor-quantum-interface as first entry in Further Reading.
+- **Result**: Added [[attention-motor-quantum-interface]] to frontmatter concepts (first position). Added new "Attention-Motor Unification" subsection under "Stapp's Quantum Zeno Mechanism" explaining: (1) the PMTA claim that attention shifts ARE motor plans, (2) how willed attention findings (~300ms deployment, frontal theta, bidirectional coherence) converge with motor commitment timing (~280ms), (3) the implication that consciousness operates through one unified selection mechanism for both attention and action. Added attention-motor-quantum-interface as first entry in Further Reading.
 - **Output**: concepts/voluntary-attention-control.md
 
 ### ✓ 2026-01-23: Cross-review motor-selection.md considering attention-motor quantum interface article
 - **Type**: cross-review
 - **Notes**: New article concepts/attention-motor-quantum-interface.md unifies PMTA with Stapp's quantum Zeno mechanism. The motor-selection.md article should be reviewed to: (1) add cross-link to attention-motor-quantum-interface, (2) note the PMTA evidence that attention and motor planning share substrates, (3) reference the 280ms/300ms timing convergence, (4) strengthen connection between the "attention-motor parallel" section and the unified mechanism.
-- **Result**: Added [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) to frontmatter concepts (first position). Added new "The Premotor Theory of Attention" subsection after the parallel table explaining PMTA unification: attention shifts ARE motor plans, the ~300ms/~280ms timing match reflects single selection mechanism. Updated timing table to show 280ms motor commitment. Added attention-motor-quantum-interface as first entry in Further Reading.
+- **Result**: Added [[attention-motor-quantum-interface]] to frontmatter concepts (first position). Added new "The Premotor Theory of Attention" subsection after the parallel table explaining PMTA unification: attention shifts ARE motor plans, the ~300ms/~280ms timing match reflects single selection mechanism. Updated timing table to show 280ms motor commitment. Added attention-motor-quantum-interface as first entry in Further Reading.
 - **Output**: concepts/motor-selection.md
 
 ### ✓ 2026-01-23: Write article on attention-motor quantum interface
@@ -690,8 +744,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-23: Cross-review binding-problem.md considering unity-of-consciousness article
 - **Type**: cross-review
-- **Notes**: New article concepts/unity-of-consciousness.md provides the canonical definition page for unity of consciousness, which binding-problem.md references but previously had no target. The binding-problem.md article should be reviewed to: (1) verify [unity-of-consciousness](/concepts/unity-of-consciousness/) links now resolve correctly, (2) integrate the distinction between binding problem (neural mechanism) and unity of consciousness (philosophical problem), (3) note how the new article clarifies the relationship between synchronic/diachronic/subject unity and the binding challenge.
-- **Result**: Added [unity-of-consciousness](/concepts/unity-of-consciousness/) to frontmatter concepts (first position). Updated second paragraph to explicitly frame binding as one dimension of the broader unity-of-consciousness problem, with direct wikilink to new concept page. Added dissociation evidence (split-brain, dreamless sleep) showing the unity dimensions can come apart. Added unity-of-consciousness as first entry in Further Reading with description noting it provides the broader framing.
+- **Notes**: New article concepts/unity-of-consciousness.md provides the canonical definition page for unity of consciousness, which binding-problem.md references but previously had no target. The binding-problem.md article should be reviewed to: (1) verify [[unity-of-consciousness]] links now resolve correctly, (2) integrate the distinction between binding problem (neural mechanism) and unity of consciousness (philosophical problem), (3) note how the new article clarifies the relationship between synchronic/diachronic/subject unity and the binding challenge.
+- **Result**: Added [[unity-of-consciousness]] to frontmatter concepts (first position). Updated second paragraph to explicitly frame binding as one dimension of the broader unity-of-consciousness problem, with direct wikilink to new concept page. Added dissociation evidence (split-brain, dreamless sleep) showing the unity dimensions can come apart. Added unity-of-consciousness as first entry in Further Reading with description noting it provides the broader framing.
 - **Output**: concepts/binding-problem.md
 
 ### ✓ 2026-01-23: Research attention and motor planning quantum interface
@@ -715,42 +769,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-23: Cross-review mental-causation.md considering psychophysical coupling mechanisms
 - **Type**: cross-review
 - **Notes**: New article concepts/psychophysical-coupling-mechanisms.md addresses the specification problem for mental causation—which phenomenal properties map to which physical selections. The mental-causation.md concept page should be reviewed to: (1) add cross-link to psychophysical-coupling-mechanisms, (2) note that the specification challenge is distinct from the overdetermination and conservation challenges, (3) integrate the five candidate coupling mechanisms as concrete proposals for how mental causation might work.
-- **Result**: Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) to frontmatter concepts (first position). Added new "The Specification Challenge" section after "The Quantum Opening" distinguishing the specification problem from overdetermination and conservation challenges. Integrated the five candidate coupling mechanisms as concrete proposals (attention→observation rate, intention→probability weighting, valence→action selection, qualia→basis selection, unity→sustained entanglement), noting only the first two meet basic adequacy standards. Added psychophysical-coupling-mechanisms as first entry in Further Reading.
+- **Result**: Added [[psychophysical-coupling-mechanisms]] to frontmatter concepts (first position). Added new "The Specification Challenge" section after "The Quantum Opening" distinguishing the specification problem from overdetermination and conservation challenges. Integrated the five candidate coupling mechanisms as concrete proposals (attention→observation rate, intention→probability weighting, valence→action selection, qualia→basis selection, unity→sustained entanglement), noting only the first two meet basic adequacy standards. Added psychophysical-coupling-mechanisms as first entry in Further Reading.
 - **Output**: concepts/mental-causation.md
 
 ### ✓ 2026-01-23: Cross-review stapp-quantum-mind.md considering psychophysical coupling mechanisms
 - **Type**: cross-review
 - **Notes**: New article concepts/psychophysical-coupling-mechanisms.md provides systematic treatment of five candidate coupling mechanisms (attention, intention, valence, qualia, unity) with Stapp's quantum Zeno mechanism as the most developed. The stapp-quantum-mind.md concept page should be reviewed to: (1) add cross-link to psychophysical-coupling-mechanisms, (2) note how Stapp's attention mechanism is the only one with developed testable predictions, (3) integrate the decoherence objection and post-decoherence selection response from the new article.
-- **Result**: Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) to frontmatter concepts (first position). Added new "Comparative Standing" subsection under "The Core Mechanism" explaining: (1) Stapp's model is the most developed among five candidate coupling mechanisms, (2) only Stapp's mechanism satisfies all three criteria for scientific adequacy (precision, mechanism, falsifiability), (3) Eccles' intention mechanism provides moderate specification but faces the pairing problem, (4) remaining mechanisms (valence, qualia, unity) are underspecified. Integrated post-decoherence selection response into the decoherence objection section—consciousness could bias outcome selection *after* decoherence. Added psychophysical-coupling-mechanisms as first entry in Further Reading.
+- **Result**: Added [[psychophysical-coupling-mechanisms]] to frontmatter concepts (first position). Added new "Comparative Standing" subsection under "The Core Mechanism" explaining: (1) Stapp's model is the most developed among five candidate coupling mechanisms, (2) only Stapp's mechanism satisfies all three criteria for scientific adequacy (precision, mechanism, falsifiability), (3) Eccles' intention mechanism provides moderate specification but faces the pairing problem, (4) remaining mechanisms (valence, qualia, unity) are underspecified. Integrated post-decoherence selection response into the decoherence objection section—consciousness could bias outcome selection *after* decoherence. Added psychophysical-coupling-mechanisms as first entry in Further Reading.
 - **Output**: concepts/stapp-quantum-mind.md
 
 ### ✓ 2026-01-23: Cross-review phenomenology.md considering intersubjectivity insights
 - **Type**: cross-review
 - **Notes**: New article concepts/intersubjectivity.md explains how phenomenological findings can be validated intersubjectively without reducing to third-person description. The phenomenology.md concept page should be reviewed to: (1) add cross-link to intersubjectivity, (2) note how Husserl's analysis of intersubjectivity grounds phenomenological method—if phenomenology were purely private it couldn't be shared or validated, (3) distinguish phenomenology's approach to intersubjectivity from heterophenomenology's third-person stance.
-- **Result**: Added [intersubjectivity](/concepts/intersubjectivity/) to frontmatter concepts (first position). Added new "Intersubjective Validation" section after the reliability objection, explaining: (1) how Husserl's analysis of intersubjectivity grounds phenomenological method—phenomenological findings can be shared and validated because consciousness is inherently intersubjective, (2) intersubjective convergence across independent phenomenological traditions as evidence for genuine structure, (3) crucial distinction between phenomenology's approach (shared subjectivity preserving first-person character) and heterophenomenology's third-person stance (eliminating subjectivity by treating reports as behavioral data). Added intersubjectivity as first entry in Further Reading.
+- **Result**: Added [[intersubjectivity]] to frontmatter concepts (first position). Added new "Intersubjective Validation" section after the reliability objection, explaining: (1) how Husserl's analysis of intersubjectivity grounds phenomenological method—phenomenological findings can be shared and validated because consciousness is inherently intersubjective, (2) intersubjective convergence across independent phenomenological traditions as evidence for genuine structure, (3) crucial distinction between phenomenology's approach (shared subjectivity preserving first-person character) and heterophenomenology's third-person stance (eliminating subjectivity by treating reports as behavioral data). Added intersubjectivity as first entry in Further Reading.
 - **Output**: concepts/phenomenology.md
 
 ### ✓ 2026-01-23: Cross-review stapp-quantum-mind.md considering voluntary-attention-control insights
 - **Type**: cross-review
 - **Notes**: New article concepts/voluntary-attention-control.md provides empirical grounding for Stapp's framework with specific neural signatures of willed attention (LPFC activation, theta-band synchronization, ~300ms deployment). The stapp-quantum-mind.md concept page should be reviewed to: (1) add cross-link to voluntary-attention-control, (2) integrate the empirical neural evidence that aligns with Stapp's theoretical predictions, (3) note the willed/instructed distinction as operationalizing what Stapp means by "mental effort."
-- **Result**: Added [voluntary-attention-control](/archive/concepts/voluntary-attention-control/) to frontmatter concepts (first position) and Further Reading. Added new paragraph to "The Willed-Instructed Distinction" section explaining: (1) the ~300ms deployment matching quantum Zeno timescales, (2) DLPFC/ACC involvement in willed vs instructed attention, (3) how the empirical picture operationalises "mental effort" in neurally measurable terms.
+- **Result**: Added [[voluntary-attention-control]] to frontmatter concepts (first position) and Further Reading. Added new paragraph to "The Willed-Instructed Distinction" section explaining: (1) the ~300ms deployment matching quantum Zeno timescales, (2) DLPFC/ACC involvement in willed vs instructed attention, (3) how the empirical picture operationalises "mental effort" in neurally measurable terms.
 - **Output**: concepts/stapp-quantum-mind.md
 
 ### ✓ 2026-01-23: Cross-review attention.md considering voluntary-attention-control insights
 - **Type**: cross-review
 - **Notes**: New article concepts/voluntary-attention-control.md provides detailed treatment of willed vs instructed vs exogenous attention, with neural signatures and Stapp's quantum Zeno mechanism. The attention.md concept page should be reviewed to: (1) add cross-link to voluntary-attention-control, (2) integrate the willed-instructed-exogenous distinction that goes beyond top-down/bottom-up, (3) note the quantum Zeno framework as potential mechanism for voluntary attention's causal efficacy.
-- **Result**: Added [voluntary-attention-control](/archive/concepts/voluntary-attention-control/) to frontmatter concepts (first position) and Further Reading. Added new "The Willed-Instructed-Exogenous Distinction" subsection under "Attention as the Mind-Matter Interface" explaining: (1) the three attention modes (Vossel 2023, Bengson 2019), (2) why top-down ≠ voluntary—instructed attention is top-down but automatic, (3) neural signatures of willed attention (frontal theta, bidirectional frontoparietal coherence, additional DLPFC/ACC recruitment), (4) philosophical significance—if consciousness operates through attention, it operates specifically through the willed mode.
+- **Result**: Added [[voluntary-attention-control]] to frontmatter concepts (first position) and Further Reading. Added new "The Willed-Instructed-Exogenous Distinction" subsection under "Attention as the Mind-Matter Interface" explaining: (1) the three attention modes (Vossel 2023, Bengson 2019), (2) why top-down ≠ voluntary—instructed attention is top-down but automatic, (3) neural signatures of willed attention (frontal theta, bidirectional frontoparietal coherence, additional DLPFC/ACC recruitment), (4) philosophical significance—if consciousness operates through attention, it operates specifically through the willed mode.
 - **Output**: concepts/attention.md
 
 ### ✓ 2026-01-23: Cross-review first-person-third-person-methodology.md considering intersubjectivity article
 - **Type**: cross-review
 - **Notes**: New article concepts/intersubjectivity.md provides grounding for second-person methodology discussion. The first-person-third-person-methodology.md topic page discusses empathic intersubjectivity but doesn't link to a dedicated article. Should be reviewed to: (1) add cross-link to intersubjectivity, (2) note how intersubjectivity bridges first-person and third-person perspectives, (3) integrate Husserl's constitution of intersubjectivity as theoretical foundation for second-person methods.
-- **Result**: Added [intersubjectivity](/concepts/intersubjectivity/) to frontmatter concepts and related_articles (first position). Expanded "Second-Person Methods" section with two new subsections: (1) "Husserl's Foundation" explaining appresentation and how objectivity is grounded in intersubjectivity, (2) "Intersubjectivity vs Objectivity" distinguishing the two approaches and explaining why intersubjective methods may access phenomenal consciousness where purely objective methods cannot. Added intersubjectivity as first entry in Further Reading.
+- **Result**: Added [[intersubjectivity]] to frontmatter concepts and related_articles (first position). Expanded "Second-Person Methods" section with two new subsections: (1) "Husserl's Foundation" explaining appresentation and how objectivity is grounded in intersubjectivity, (2) "Intersubjectivity vs Objectivity" distinguishing the two approaches and explaining why intersubjective methods may access phenomenal consciousness where purely objective methods cannot. Added intersubjectivity as first entry in Further Reading.
 - **Output**: topics/first-person-third-person-methodology.md
 
 ### ✓ 2026-01-23: Cross-review objectivity-and-consciousness.md considering intersubjectivity article
 - **Type**: cross-review
-- **Notes**: New article concepts/intersubjectivity.md defines the shared space between minds and how phenomenology can be validated intersubjectively. The objectivity-and-consciousness.md concept page references [intersubjectivity](/concepts/intersubjectivity/) in its Further Reading but the link was broken. Should be reviewed to: (1) verify link now works, (2) integrate distinction between objectivity (view from nowhere) and intersubjectivity (shared subjectivity), (3) note that objectivity may emerge from intersubjective agreement.
+- **Notes**: New article concepts/intersubjectivity.md defines the shared space between minds and how phenomenology can be validated intersubjectively. The objectivity-and-consciousness.md concept page references [[intersubjectivity]] in its Further Reading but the link was broken. Should be reviewed to: (1) verify link now works, (2) integrate distinction between objectivity (view from nowhere) and intersubjectivity (shared subjectivity), (3) note that objectivity may emerge from intersubjective agreement.
 - **Result**: Added new "Objectivity Versus Intersubjectivity" section after "The View From Nowhere" explaining: (1) how intersubjectivity retains perspective while finding convergence, unlike objectivity which eliminates perspective, (2) Husserl's analysis that objectivity is grounded in intersubjectivity—the objective world emerges from convergent perspectives, (3) the methodological implication that intersubjective methods might access phenomenal consciousness where objective methods fail. Moved intersubjectivity to first position in Further Reading with updated description.
 - **Output**: concepts/objectivity-and-consciousness.md
 
@@ -763,13 +817,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-23: Cross-review quantum-interpretations.md considering subjective probability article
 - **Type**: cross-review
 - **Notes**: New article concepts/subjective-probability-quantum-measurement.md distinguishes how QBism, objective-chance views, and many-worlds treat Born probabilities. The quantum-interpretations.md page should be reviewed to: (1) add cross-link to subjective-probability-quantum-measurement, (2) note the distinctive treatment of probability in each interpretation, (3) integrate the criticism that all interpretations fail to address the first-person perspective on probability.
-- **Result**: Added [subjective-probability-quantum-measurement](/concepts/subjective-probability-quantum-measurement/) to frontmatter concepts and related_articles. Added new "How Interpretations Handle Probability" section before the Comparison Table explaining: (1) how standard/Copenhagen views treat Born probabilities as objective propensities but struggle with single cases, (2) how QBism treats them as subjective beliefs but presupposes determinate experience, (3) how many-worlds reinterprets probability as branch measure but faces the meaninglessness objection. Integrated the Map's proposal that Born probabilities describe interface structure at consciousness-quantum coupling. Added subjective-probability-quantum-measurement as first entry in Further Reading.
+- **Result**: Added [[subjective-probability-quantum-measurement]] to frontmatter concepts and related_articles. Added new "How Interpretations Handle Probability" section before the Comparison Table explaining: (1) how standard/Copenhagen views treat Born probabilities as objective propensities but struggle with single cases, (2) how QBism treats them as subjective beliefs but presupposes determinate experience, (3) how many-worlds reinterprets probability as branch measure but faces the meaninglessness objection. Integrated the Map's proposal that Born probabilities describe interface structure at consciousness-quantum coupling. Added subjective-probability-quantum-measurement as first entry in Further Reading.
 - **Output**: concepts/quantum-interpretations.md
 
 ### ✓ 2026-01-23: Cross-review measurement-problem.md considering subjective probability article
 - **Type**: cross-review
 - **Notes**: New article concepts/subjective-probability-quantum-measurement.md examines how Born rule probabilities relate to consciousness and different interpretations. The measurement-problem.md concept page should be reviewed to: (1) add cross-link to subjective-probability-quantum-measurement, (2) note that the article provides detailed treatment of what Born probabilities *mean* rather than just how they're used, (3) integrate the interface-structure proposal where probabilities describe consciousness-quantum coupling.
-- **Result**: Added [subjective-probability-quantum-measurement](/concepts/subjective-probability-quantum-measurement/) to frontmatter concepts and related_articles. Added new "What Are Born Probabilities?" section explaining three major interpretations (objective chance, QBism, many-worlds branch measure) and their blind spots. Integrated the interface-structure proposal: Born probabilities describe objective structure at consciousness-quantum coupling, connecting measurement problem to hard problem. Added subjective-probability-quantum-measurement as first entry in Further Reading.
+- **Result**: Added [[subjective-probability-quantum-measurement]] to frontmatter concepts and related_articles. Added new "What Are Born Probabilities?" section explaining three major interpretations (objective chance, QBism, many-worlds branch measure) and their blind spots. Integrated the interface-structure proposal: Born probabilities describe objective structure at consciousness-quantum coupling, connecting measurement problem to hard problem. Added subjective-probability-quantum-measurement as first entry in Further Reading.
 - **Output**: concepts/measurement-problem.md
 
 ### ✓ 2026-01-23: Create concept page for voluntary-attention-control
@@ -787,13 +841,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-23: Cross-review problem-of-other-minds.md considering objectivity article
 - **Type**: cross-review
 - **Notes**: New article concepts/objectivity-and-consciousness.md addresses Nagel's "view from nowhere" and how consciousness relates to objective description. The problem-of-other-minds.md concept page should be reviewed to: (1) add cross-link to objectivity-and-consciousness, (2) integrate the insight that the subjectivity of consciousness grounds the problem of other minds, (3) note how objectivity requirements shape our epistemological access to other minds.
-- **Result**: Added [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) to frontmatter concepts. Added new "The Objectivity Paradox" subsection after the Asymmetry Problem explaining: (1) science aspires to "view from nowhere" but consciousness *is* viewpoint, (2) objective methods succeed by eliminating perspective but phenomenal consciousness is constituted by perspective, (3) the asymmetry isn't epistemic accident but consequence of consciousness resisting objectifying gaze. Added objectivity-and-consciousness as first entry in Further Reading.
+- **Result**: Added [[objectivity-and-consciousness]] to frontmatter concepts. Added new "The Objectivity Paradox" subsection after the Asymmetry Problem explaining: (1) science aspires to "view from nowhere" but consciousness *is* viewpoint, (2) objective methods succeed by eliminating perspective but phenomenal consciousness is constituted by perspective, (3) the asymmetry isn't epistemic accident but consequence of consciousness resisting objectifying gaze. Added objectivity-and-consciousness as first entry in Further Reading.
 - **Output**: concepts/problem-of-other-minds.md
 
 ### ✓ 2026-01-23: Cross-review binding-problem.md considering multimodal-binding article
 - **Type**: cross-review
 - **Notes**: New article concepts/multimodal-binding.md covers phenomenal integration across sensory modalities. The binding-problem.md topic page should be reviewed to: (1) add cross-link to multimodal-binding, (2) distinguish the general binding problem from specifically multimodal binding, (3) note how multimodal binding provides paradigm evidence for unity of consciousness.
-- **Result**: Added [multimodal-binding](/concepts/multimodal-binding/) to frontmatter concepts. Added new "Intra-Modal vs Cross-Modal Binding" subsection after the opening paragraph distinguishing the two levels of binding, explaining why multimodal binding provides paradigm evidence (different cortical regions, different processing speeds, different neural codes yet unified experience). Added multimodal-binding as first entry in Further Reading with description of cross-modal case.
+- **Result**: Added [[multimodal-binding]] to frontmatter concepts. Added new "Intra-Modal vs Cross-Modal Binding" subsection after the opening paragraph distinguishing the two levels of binding, explaining why multimodal binding provides paradigm evidence (different cortical regions, different processing speeds, different neural codes yet unified experience). Added multimodal-binding as first entry in Further Reading with description of cross-modal case.
 - **Output**: concepts/binding-problem.md
 
 ### ✓ 2026-01-23: Research introspective reliability and first-person access
@@ -811,31 +865,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-23: Cross-review psychophysical-laws.md considering coupling mechanisms article
 - **Type**: cross-review
 - **Notes**: New article concepts/psychophysical-coupling-mechanisms.md provides detailed treatment of mechanism proposals for how consciousness and brain interact. The psychophysical-laws.md concept page should be reviewed to: (1) add cross-link to psychophysical-coupling-mechanisms, (2) distinguish law *form* from mechanism *implementation*, (3) integrate any relevant material on Chalmers's structural coherence principles.
-- **Result**: Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) to frontmatter concepts. Added explanatory paragraph under "The Selection Mechanism" section distinguishing law *form* (what psychophysical-laws covers) from mechanism *implementation* (what psychophysical-coupling-mechanisms covers). Added psychophysical-coupling-mechanisms as first entry in Further Reading with description of the five mechanism proposals.
+- **Result**: Added [[psychophysical-coupling-mechanisms]] to frontmatter concepts. Added explanatory paragraph under "The Selection Mechanism" section distinguishing law *form* (what psychophysical-laws covers) from mechanism *implementation* (what psychophysical-coupling-mechanisms covers). Added psychophysical-coupling-mechanisms as first entry in Further Reading with description of the five mechanism proposals.
 - **Output**: concepts/psychophysical-laws.md
 
 ### ✓ 2026-01-23: Cross-review neurophenomenology.md considering contemplative-neuroscience evidence
 - **Type**: cross-review
 - **Notes**: New article concepts/contemplative-neuroscience.md provides extensive empirical data from the neurophenomenological research program (Varela, Davidson, Saron). The neurophenomenology concept page should be reviewed to: (1) ensure proper cross-links to contemplative-neuroscience, (2) update with Shamatha Project findings, (3) strengthen the mutual-constraint methodology section with concrete examples.
-- **Result**: Added [contemplative-neuroscience](/concepts/contemplative-neuroscience/) to frontmatter concepts. Added new paragraph to Varela's Method section explaining Shamatha Project validation of mutual constraints—phenomenological training producing measurable improvements in attention and perceptual discrimination. Added willed/instructed/exogenous attention distinction to Bidirectional Interaction section showing how conscious intention's content matters causally. Added contemplative-neuroscience as first entry in Further Reading with description.
+- **Result**: Added [[contemplative-neuroscience]] to frontmatter concepts. Added new paragraph to Varela's Method section explaining Shamatha Project validation of mutual constraints—phenomenological training producing measurable improvements in attention and perceptual discrimination. Added willed/instructed/exogenous attention distinction to Bidirectional Interaction section showing how conscious intention's content matters causally. Added contemplative-neuroscience as first entry in Further Reading with description.
 - **Output**: concepts/neurophenomenology.md
 
 ### ✓ 2026-01-23: Cross-review attention.md considering mental-imagery insights
 - **Type**: cross-review
 - **Notes**: New article concepts/mental-imagery.md demonstrates that voluntary imagery requires conscious attention and LPFC engagement. The attention concept page should be reviewed to: (1) add cross-link to mental-imagery, (2) note how attention enables voluntary imagery generation (distinct from involuntary flashbacks/dreams), (3) strengthen the attention-as-interface argument with imagery evidence.
-- **Result**: Added [mental-imagery](/concepts/mental-imagery/) to frontmatter concepts. Added new "Voluntary Imagery as Paradigm Case" subsection under "Attention as the Mind-Matter Interface" explaining: (1) voluntary imagery requires LPFC + conscious engagement while involuntary doesn't, (2) this dissociation supports attention determining which imagery becomes conscious, (3) motor imagery evidence—conscious rehearsal produces physical performance gains, (4) aphantasia evidence—neural imagery exists without conscious access, supporting interface hypothesis. Added mental-imagery as first entry in Further Reading.
+- **Result**: Added [[mental-imagery]] to frontmatter concepts. Added new "Voluntary Imagery as Paradigm Case" subsection under "Attention as the Mind-Matter Interface" explaining: (1) voluntary imagery requires LPFC + conscious engagement while involuntary doesn't, (2) this dissociation supports attention determining which imagery becomes conscious, (3) motor imagery evidence—conscious rehearsal produces physical performance gains, (4) aphantasia evidence—neural imagery exists without conscious access, supporting interface hypothesis. Added mental-imagery as first entry in Further Reading.
 - **Output**: concepts/attention.md
 
 ### ✓ 2026-01-23: Cross-review epiphenomenalism.md considering contemplative-neuroscience evidence
 - **Type**: cross-review
 - **Notes**: New article concepts/contemplative-neuroscience.md provides empirical evidence against epiphenomenalism—if conscious practice causes neuroplastic changes (cortical thickening, network connectivity alterations), consciousness cannot be causally inert. The epiphenomenalism page should be reviewed to: (1) add cross-link to contemplative-neuroscience, (2) note this empirical challenge alongside the theoretical arguments.
-- **Result**: Added [contemplative-neuroscience](/concepts/contemplative-neuroscience/) to frontmatter concepts and related_articles. Added new "The Contemplative Neuroscience Evidence" subsection after the Amplification Evidence, covering: structural changes (cortical thickness), functional connectivity changes, dose-response relationship, the content/quality argument (compassion vs attention meditation produce different changes), willed vs instructed attention distinction showing phenomenological engagement matters. Added contemplative-neuroscience as first entry in Further Reading.
+- **Result**: Added [[contemplative-neuroscience]] to frontmatter concepts and related_articles. Added new "The Contemplative Neuroscience Evidence" subsection after the Amplification Evidence, covering: structural changes (cortical thickness), functional connectivity changes, dose-response relationship, the content/quality argument (compassion vs attention meditation produce different changes), willed vs instructed attention distinction showing phenomenological engagement matters. Added contemplative-neuroscience as first entry in Further Reading.
 - **Output**: concepts/epiphenomenalism.md
 
 ### ✓ 2026-01-23: Cross-review materialism.md considering argument-from-reason insights
 - **Type**: cross-review
 - **Notes**: New article topics/argument-from-reason.md presents the self-stultification argument against physicalism—if all beliefs are fully explainable by physical causes, rational inference becomes impossible, undermining physicalism's own justification. The materialism concept page should be reviewed to: (1) add cross-link to argument-from-reason, (2) note this challenge in the "Objections" section, (3) ensure consistent framing of the normative vs causal distinction.
-- **Result**: Added [argument-from-reason](/topics/argument-from-reason/) to frontmatter concepts. Added new "The Self-Stultification Problem" subsection under "Why Materialism Fails" explaining the core argument: rational inference requires tracking normative relationships that physical causation cannot instantiate, so physicalism undermines its own rational foundations. Included references to reliabilism response and Plantinga's EAAN. Added argument-from-reason as first entry in Further Reading with description.
+- **Result**: Added [[argument-from-reason]] to frontmatter concepts. Added new "The Self-Stultification Problem" subsection under "Why Materialism Fails" explaining the core argument: rational inference requires tracking normative relationships that physical causation cannot instantiate, so physicalism undermines its own rational foundations. Included references to reliabilism response and Plantinga's EAAN. Added argument-from-reason as first entry in Further Reading with description.
 - **Output**: concepts/materialism.md
 
 ### ✓ 2026-01-23: Write article on sleep, memory consolidation, and consciousness
@@ -883,7 +937,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-23: Cross-review objections-to-interactionism.md considering conservation laws article
 - **Type**: cross-review
 - **Notes**: New article topics/conservation-laws-and-mind.md addresses the energy conservation objection. The objections-to-interactionism page should be reviewed to: (1) add cross-link to conservation-laws-and-mind, (2) reference Pitts/Cucu on locality and conditionality, (3) integrate the "selection not injection" framework.
-- **Result**: Updated Conservation Laws section with: (1) added [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) to related_articles frontmatter and Further Reading, (2) integrated Pitts/Cucu argument that conservation is local and conditional—the objection begs the question by assuming no external influences, (3) added "selection not injection" framework with entanglement precedent, (4) updated summary table with new response, (5) added Cucu/Pitts references.
+- **Result**: Updated Conservation Laws section with: (1) added [[conservation-laws-and-mind]] to related_articles frontmatter and Further Reading, (2) integrated Pitts/Cucu argument that conservation is local and conditional—the objection begs the question by assuming no external influences, (3) added "selection not injection" framework with entanglement precedent, (4) updated summary table with new response, (5) added Cucu/Pitts references.
 - **Output**: concepts/objections-to-interactionism.md
 
 ### ✓ 2026-01-23: Write article on meditation observer phenomenon
@@ -913,13 +967,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-23: Cross-review interactionist-dualism.md considering conservation laws article
 - **Type**: cross-review
 - **Notes**: New article topics/conservation-laws-and-mind.md addresses the conservation objection. The interactionist-dualism article is a foundational page that should reference the conservation laws response. Add cross-links and integrate the key insight that energy conservation is local/conditional, not a barrier to mental causation.
-- **Result**: Added [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) to related_articles frontmatter. Updated "The Historical Problem" section to reference Pitts/Cucu findings on conservation being local and conditional, linking to the full article. Updated objections table to reference the conservation-laws-and-mind article. Added conservation-laws-and-mind as first entry in Further Reading section.
+- **Result**: Added [[conservation-laws-and-mind]] to related_articles frontmatter. Updated "The Historical Problem" section to reference Pitts/Cucu findings on conservation being local and conditional, linking to the full article. Updated objections table to reference the conservation-laws-and-mind article. Added conservation-laws-and-mind as first entry in Further Reading section.
 - **Output**: concepts/interactionist-dualism.md
 
 ### ✓ 2026-01-23: Cross-review causal-closure.md considering conservation laws article
 - **Type**: cross-review
 - **Notes**: New article topics/conservation-laws-and-mind.md directly addresses the causal closure principle. The causal-closure concept page should be reviewed to: (1) add cross-link to conservation-laws-and-mind, (2) integrate the "selection not injection" response showing consciousness can influence outcomes without violating physical laws, (3) note that conservation is conditional not absolute per Pitts.
-- **Result**: Added [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) to related_articles frontmatter. Updated "Why Causal Closure Seems Plausible" section to reference Pitts/Cucu on conservation being local and conditional, and linked to the full article. Added conservation-laws-and-mind as first entry in Further Reading section.
+- **Result**: Added [[conservation-laws-and-mind]] to related_articles frontmatter. Updated "Why Causal Closure Seems Plausible" section to reference Pitts/Cucu on conservation being local and conditional, and linked to the full article. Added conservation-laws-and-mind as first entry in Further Reading section.
 - **Output**: concepts/causal-closure.md
 
 ### ✓ 2026-01-23: Write article on conservation laws and mind-brain causation
@@ -955,13 +1009,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-23: Review mental-causation.md considering bidirectional-interaction insights
 - **Type**: cross-review
 - **Notes**: New article concepts/bidirectional-interaction.md provides focused treatment of how consciousness causally influences physics. The mental-causation concept page should be reviewed for cross-links and to ensure consistent framing of the quantum interface mechanism.
-- **Result**: Added [bidirectional-interaction](/concepts/bidirectional-interaction/) to frontmatter concepts list. Updated "Relation to the Map's Perspective" section to link directly to the bidirectional-interaction concept page with description of its content (self-stultification argument, quantum interface mechanism). Added bidirectional-interaction as first entry in Further Reading with description.
+- **Result**: Added [[bidirectional-interaction]] to frontmatter concepts list. Updated "Relation to the Map's Perspective" section to link directly to the bidirectional-interaction concept page with description of its content (self-stultification argument, quantum interface mechanism). Added bidirectional-interaction as first entry in Further Reading with description.
 - **Output**: concepts/mental-causation.md
 
 ### ✓ 2026-01-23: Review epiphenomenalism.md considering bidirectional-interaction insights
 - **Type**: cross-review
 - **Notes**: New article concepts/bidirectional-interaction.md develops the self-stultification argument against epiphenomenalism and the quantum interface mechanism. The epiphenomenalism concept page should be reviewed to ensure proper cross-linking and to check if any arguments need updating in light of the new dedicated tenet article.
-- **Result**: Added [bidirectional-interaction](/concepts/bidirectional-interaction/) to frontmatter concepts list. Updated "Relation to the Map's Perspective" section to link directly to the new bidirectional-interaction concept page and describe its content (self-stultification argument, quantum interface mechanism). Added bidirectional-interaction as first entry in Further Reading with description.
+- **Result**: Added [[bidirectional-interaction]] to frontmatter concepts list. Updated "Relation to the Map's Perspective" section to link directly to the new bidirectional-interaction concept page and describe its content (self-stultification argument, quantum interface mechanism). Added bidirectional-interaction as first entry in Further Reading with description.
 - **Output**: concepts/epiphenomenalism.md
 
 ### ✓ 2026-01-23: Review measurement-problem.md considering indexical identity insights
@@ -984,7 +1038,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ### ✓ 2026-01-23: Create concept page for bidirectional-interaction
 - **Type**: expand-topic
-- **Notes**: The Bidirectional Interaction tenet is one of the five foundational commitments but has no dedicated concept page. The wikilink [bidirectional-interaction](/concepts/bidirectional-interaction/) is referenced 10+ times across the Map but points to nothing. Need article explaining the tenet's core claim (consciousness causally influences physical world), distinguishing it from epiphenomenalism, covering the quantum interface mechanism, and addressing the causal closure objection.
+- **Notes**: The Bidirectional Interaction tenet is one of the five foundational commitments but has no dedicated concept page. The wikilink [[bidirectional-interaction]] is referenced 10+ times across the Map but points to nothing. Need article explaining the tenet's core claim (consciousness causally influences physical world), distinguishing it from epiphenomenalism, covering the quantum interface mechanism, and addressing the causal closure objection.
 - **Result**: Created focused concept page (~1,800 words) explaining the Bidirectional Interaction tenet. Covers the core claim (consciousness causally influences physics), the self-stultification argument against epiphenomenalism, the quantum interface mechanism (Stapp's Zeno effect and Orch OR), empirical support (Lieberman reasoning study, baseline cognition gap, evolutionary convergence), response to the causal closure objection, and clarifications about what bidirectional interaction is not. Proper cross-linking to interactionist-dualism (comprehensive treatment), epiphenomenalism, mental-causation, and related articles.
 - **Output**: concepts/bidirectional-interaction.md
 
@@ -1213,7 +1267,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-23: Cross-review hard-problem-of-consciousness.md considering mysterianism insights
 - **Type**: cross-review
 - **Notes**: New article topics/mysterianism-cognitive-closure.md presents McGinn's cognitive closure thesis—humans may be constitutionally incapable of solving the hard problem. The hard-problem-of-consciousness.md article should connect this epistemic limitation view, especially how it relates to the explanatory gap and supports the Occam's Razor Has Limits tenet.
-- **Result**: Enhanced the Mysterianism section with much more detail from the new article—added McGinn's Transcendental Naturalism formulation, the squirrel-quantum mechanics analogy, and strengthened connection to Occam's Razor Has Limits tenet. Updated wikilink from [mysterianism](/concepts/mysterianism/) to [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/) throughout. Explained how the hard problem's persistence (despite C. elegans connectome, IIT/GNWT theories, quantum biology advances) suggests mystery rather than problem. Connected to voids framework—property "P" as unchartable territory. Added mysterianism-cognitive-closure to top of related_articles frontmatter and updated Further Reading section.
+- **Result**: Enhanced the Mysterianism section with much more detail from the new article—added McGinn's Transcendental Naturalism formulation, the squirrel-quantum mechanics analogy, and strengthened connection to Occam's Razor Has Limits tenet. Updated wikilink from [[mysterianism]] to [[mysterianism-cognitive-closure]] throughout. Explained how the hard problem's persistence (despite C. elegans connectome, IIT/GNWT theories, quantum biology advances) suggests mystery rather than problem. Connected to voids framework—property "P" as unchartable territory. Added mysterianism-cognitive-closure to top of related_articles frontmatter and updated Further Reading section.
 - **Output**: obsidian/topics/hard-problem-of-consciousness.md
 
 ### ✓ 2026-01-23: Write article on mysterianism and cognitive closure

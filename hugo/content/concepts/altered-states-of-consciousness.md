@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-25 15:00:00+00:00
+ai_modified: 2026-01-26 11:49:09+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -21,7 +21,7 @@ date: &id001 2026-01-19
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-19 20:30:00+00:00
+last_deep_review: 2026-01-26 11:49:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -29,13 +29,15 @@ related_articles:
 - '[[eastern]]'
 - '[[neurophenomenology]]'
 - '[[epiphenomenalism]]'
+- '[[mysterianism]]'
+- '[[qualia]]'
 title: Altered States of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[loss-of-consciousness]]'
 ---
 
-Altered states of consciousness (ASCs) constitute a diverse family of experiences—psychedelics, anesthesia, meditation, hypnosis, flow states, dreaming, near-death experiences—unified by qualitative deviation from baseline waking consciousness. For dualism, ASCs are particularly revealing: they demonstrate that consciousness operates in multiple modes with distinct phenomenal qualities, suggesting the brain-consciousness interface has configurable settings rather than being a simple on/off producer. The [filter theory](/concepts/filter-theory/) interprets each ASC as a different configuration of the filtering mechanism—some states *loosen* the filter (psychedelics, mystical experiences), others *narrow* it (anesthesia, sleep), still others *reconfigure* it (meditation, flow).
+Altered states of consciousness (ASCs) constitute a diverse family of experiences—psychedelics, anesthesia, meditation, hypnosis, flow states, dreaming, near-death experiences—unified by [qualitative](/concepts/qualia/) deviation from baseline waking consciousness. For dualism, ASCs are particularly revealing: they demonstrate that consciousness operates in multiple modes with distinct phenomenal qualities, suggesting the brain-consciousness interface has configurable settings rather than being a simple on/off producer. The [filter theory](/concepts/filter-theory/) interprets each ASC as a different configuration of the filtering mechanism—some states *loosen* the filter (psychedelics, mystical experiences), others *narrow* it (anesthesia, sleep), still others *reconfigure* it (meditation, flow).
 
 ## Defining Altered States
 
@@ -61,7 +63,7 @@ Several findings support the filter interpretation:
 
 **Expansion rather than distortion.** Psychedelics don't merely scramble perception—they often *expand* it. Users report insights, enhanced pattern recognition, and access to normally unconscious material. Aldous Huxley's "reducing valve" metaphor captures this: the brain normally constrains consciousness to action-relevant information; psychedelics loosen this constraint.
 
-A materialist objection holds that these "insights" are illusory—confabulations that merely *feel* profound without genuine epistemic value. The response: some psychedelic insights prove verifiable (therapeutic breakthroughs, creative solutions), and the expansion hypothesis predicts their *selectivity*—not random confabulation but access to genuinely suppressed information (childhood memories, repressed patterns). Pure confabulation would be random; genuine filter-loosening would be informative. Controlled studies increasingly support the latter.
+A materialist objection holds that these "insights" are illusory—confabulations that merely *feel* profound without genuine epistemic value. A deeper version notes that psychedelics disrupt the very neural processes required for accurate introspection—how can we trust reports from compromised metacognitive systems? The response: some psychedelic insights prove verifiable (therapeutic breakthroughs, creative solutions), and the expansion hypothesis predicts their *selectivity*—not random confabulation but access to genuinely suppressed information (childhood memories, repressed patterns). Pure confabulation would be random; genuine filter-loosening would be informative. Clinical studies of psilocybin-assisted therapy show lasting improvements in depression and anxiety that correlate with reported mystical-type experiences, suggesting the insights have functional validity beyond subjective impression.
 
 **Identical outputs, divergent experiences.** Different anaesthetics (propofol vs. ketamine) can produce identical behavioural outputs—unresponsiveness, amnesia—while producing radically different conscious experiences. Ketamine preserves vivid experience despite behavioural unresponsiveness; propofol seems to eliminate experience entirely. Mashour et al. (2024) demonstrate this asymmetry neuroimaging: both agents suppress cortical activity, but through different thalamic pathways with different phenomenal consequences. If consciousness were simply produced by brain states, similar behavioural suppression should correlate with similar phenomenal suppression. The divergence suggests the brain *mediates* rather than *generates* experience.
 
@@ -71,7 +73,7 @@ A materialist objection holds that these "insights" are illusory—confabulation
 
 ### Psychedelics
 
-The REBUS model (Relaxed Beliefs Under Psychedelics) proposes that psychedelics relax high-level predictive constraints—the brain's expectations become less rigid, allowing bottom-up sensory information greater influence. The 2025 ALBUS extension (Altered Beliefs Under Psychedelics) connects this to predictive processing frameworks.
+The REBUS model (Relaxed Beliefs Under Psychedelics) proposes that psychedelics relax high-level predictive constraints—the brain's expectations become less rigid, allowing bottom-up sensory information greater influence (Carhart-Harris & Friston, 2019).
 
 Neuroimaging reveals a paradox: psychedelics *decrease* within-network connectivity (especially in the [default mode network](/concepts/neural-correlates-of-consciousness/#the-default-mode-network)) while *increasing* between-network connectivity. The brain becomes simultaneously less integrated locally and more integrated globally.
 
