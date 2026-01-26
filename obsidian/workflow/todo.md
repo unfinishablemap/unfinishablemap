@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense agent-causation.md (4645 words, 133% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core article on libertarian free will mechanism. Preserve the central argument for irreducible agent causation while removing redundancy and deferring detailed objection responses to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P2: Condense witness-consciousness.md (4551 words, 130% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the observer-witness phenomenon in meditation and its implications for consciousness theories. Preserve core phenomenological descriptions while deferring detailed meditation tradition comparisons. See /condense skill.
@@ -290,6 +284,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense agent-causation.md (4645 words, 133% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core article on libertarian free will mechanism. Preserve the central argument for irreducible agent causation while removing redundancy and deferring detailed objection responses to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/agent-causation.md
 
 ### ✓ 2026-01-26: Write article on motor control and quantum Zeno framework
 - **Type**: expand-topic

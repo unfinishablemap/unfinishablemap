@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 12:39 UTC - condense
+
+**Status**: Success
+**File**: concepts/agent-causation.md
+**Before**: 4645 words
+**After**: 1893 words
+**Reduction**: 59%
+**Technique**: Cut redundant philosophical background (Major Defenders section condensed to single paragraph), trimmed extended luck objection response (4 dimensions preserved but details moved to linked articles), condensed voluntary attention section (detailed neural signatures deferred to attention-as-interface and phenomenology-of-choice), reduced motor selection section (convergence evidence preserved, details in motor-selection.md), trimmed creative generation section (core argument preserved, details in consciousness-and-creativity.md), streamlined Further Reading list. Preserved opening summary, core argument structure, Relation to Site Perspective section, and all essential cross-links.
+
+---
+
 ## 2026-01-26 22:15 UTC - expand-topic (resolved as duplicate)
 
 **Status**: Skipped — content already exists
