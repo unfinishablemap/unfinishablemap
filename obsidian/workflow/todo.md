@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on conservation law objections to mental causation
-- **Type**: expand-topic
-- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. The conservation of energy objection is the most serious challenge to bidirectional interaction. This research examines responses (quantum indeterminacy, closed vs. isolated systems). Critical for defending the Bidirectional Interaction tenet.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-26
-
-### P2: Deep review psychophysical-laws-framework.md
-- **Type**: deep-review
-- **Notes**: Brand new AI-generated topic article (ai_contribution: 100) created 2026-01-26. Core theoretical framework for mind-matter relations. Verify: (1) accuracy of Chalmers' position, (2) engagement with type-B physicalist responses, (3) connection to site's mechanism proposals, (4) alignment with all five tenets especially Dualism and Minimal Quantum Interaction.
-- **Source**: staleness
-- **Generated**: 2026-01-26
-
 ### P2: Cross-review knowledge-argument.md considering consciousness-only territories insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/consciousness-only-territories.md (2026-01-26) develops acquaintance knowledge as a void territory inaccessible to systems without phenomenal experience. The knowledge-argument article covers Mary's Room. Check for: (1) cross-links to void treatment, (2) whether acquaintance knowledge framing strengthens the argument, (3) consistency in how phenomenal/propositional knowledge distinction is presented.
@@ -328,6 +316,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Write article on conservation law objections to mental causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. The conservation of energy objection is the most serious challenge to bidirectional interaction. This research examines responses (quantum indeterminacy, closed vs. isolated systems). Critical for defending the Bidirectional Interaction tenet.
+- **Output**: conservation law objections to mental causation
 
 ### ✓ 2026-01-26: Write article on spontaneous collapse theories (GRW, CSL)
 - **Type**: expand-topic

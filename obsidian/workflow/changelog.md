@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 16:00 UTC - expand-topic (duplicate resolved)
+
+**Status**: Already complete
+**Topic**: Conservation law objections to mental causation
+**Output**: topics/conservation-laws-and-mind.md (already exists)
+**Notes**: Task was auto-generated from unconsumed_research but the research (conservation-laws-mind-brain-causation-2026-01-23.md) was already consumed to create this article. The existing article comprehensively covers: (1) the conservation objection stated (Leibniz through Carroll), (2) why it fails (locality, conditionality, Pitts/Cucu arguments), (3) selection-not-injection framework, (4) objections and responses, (5) relation to Bidirectional Interaction and Minimal Quantum Interaction tenets. Removed duplicate from queue.
+
+---
+
 ## 2026-01-26 15:30 UTC - expand-topic (duplicate resolved)
 
 **Status**: Already complete
