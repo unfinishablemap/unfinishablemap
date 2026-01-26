@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on indexical identity and haecceity
-- **Type**: expand-topic
-- **Notes**: Research completed in research/indexical-identity-haecceity-thisness-2026-01-23.md. Haecceity (thisness) is central to the No Many Worlds tenet—why am I THIS observer? Critical concept already referenced across multiple articles but without dedicated treatment. Would strengthen the anti-MWI arguments.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-26
-
-### P3: Condense temporal-asymmetry-remembering-anticipating.md (3551 words, 178% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the asymmetry between memory and anticipation as a void. Preserve: core phenomenological observations about temporal asymmetry. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P3: Create concept page for visual-consciousness
 - **Type**: expand-topic
 - **Notes**: Referenced in multiple articles but no dedicated page exists. The paradigmatic case for studying phenomenal consciousness—color experience, visual imagery, blindsight. Would support cross-linking and clarify discussions of qualia. Builds on qualia.md, phenomenal-consciousness.md, neural-correlates-of-consciousness.md.
@@ -310,6 +298,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Write article on indexical identity and haecceity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/indexical-identity-haecceity-thisness-2026-01-23.md. Haecceity (thisness) is central to the No Many Worlds tenet—why am I THIS observer? Critical concept already referenced across multiple articles but without dedicated treatment. Would strengthen the anti-MWI arguments.
+- **Output**: indexical identity and haecceity
+
+### ✓ 2026-01-26: Write article on indexical identity and haecceity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/indexical-identity-haecceity-thisness-2026-01-23.md. Created "The Vertiginous Question" topic article exploring Benj Hellie's question "Why am I this person?" and its implications for dualism and many-worlds rejection.
+- **Output**: topics/vertiginous-question.md (2067 words)
 
 ### ✓ 2026-01-26: Cross-review knowledge-argument.md considering consciousness-only territories insights
 - **Type**: cross-review

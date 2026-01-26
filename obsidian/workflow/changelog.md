@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 16:30 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Indexical identity and haecceity (The Vertiginous Question)
+- **Output**: topics/vertiginous-question.md
+- **Word count**: 2067
+- **Based on research**: Yes (research/indexical-identity-haecceity-thisness-2026-01-23.md)
+- **Description**: Article exploring Benj Hellie's "vertiginous question"—why am I this person rather than another? Covers the question's distinction from the hard problem and personal identity, its connection to haecceity, why it challenges third-personal metaphysics (both physicalism and naive dualism), and how the Map's tenets address it.
+
+---
+
 ## 2026-01-26 21:45 UTC - research-voids
 
 - **Status**: Success
