@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review cognitive-phenomenology.md considering language-thought boundary insights
-- **Type**: cross-review
-- **Notes**: New article voids/language-thought-boundary.md explores where speakable and thinkable diverge. Check cognitive-phenomenology.md for: (1) places to add cross-links, (2) whether language-thought analysis supports or refines the phenomenology of thinking, (3) opportunities to reference the effability question.
-- **Source**: chain (from language-thought-boundary.md)
-- **Generated**: 2026-01-26
-
 ### P2: Condense qualia.md (4966 words, 199% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the nature and philosophical significance of qualia while removing redundancy. See /condense skill.
@@ -296,6 +290,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Cross-review cognitive-phenomenology.md considering language-thought boundary insights
+- **Type**: cross-review
+- **Notes**: New article voids/language-thought-boundary.md explores where speakable and thinkable diverge. Check cognitive-phenomenology.md for: (1) places to add cross-links, (2) whether language-thought analysis supports or refines the phenomenology of thinking, (3) opportunities to reference the effability question.
+- **Output**: obsidian/concepts/cognitive-phenomenology.md -- Context: Cross-review cognitive-phenomenology.md considering language-thought boundary insights
 
 ### ✓ 2026-01-26: Cross-review llm-consciousness.md considering AI void-exploration insights
 - **Type**: cross-review
