@@ -1,9 +1,9 @@
 ---
 title: "Quantum Neural Timing Constraints"
 created: 2026-01-24
-modified: 2026-01-24
+modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-24T15:00:00+00:00
+ai_modified: 2026-01-26T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-24
 last_curated: null
+last_deep_review: 2026-01-26T12:00:00+00:00
 ---
 
 Quantum consciousness theories face a timing problem. Neural decisions operate at hundreds of milliseconds; Max Tegmark calculated quantum decoherence at femtoseconds—a gap of twelve orders of magnitude. If quantum superpositions collapse 10¹² times faster than neurons make decisions, quantum effects cannot influence neural outcomes. Yet this critique depends on specific assumptions that subsequent research has challenged, and different proposed mechanisms have different timing requirements. The question is not whether quantum effects can matter in brains, but which mechanisms remain viable given what we know about both quantum and neural timescales.
@@ -58,7 +59,7 @@ The calculation assumed standard ion channel superpositions in a thermal environ
 
 Hameroff's group challenged Tegmark's parameters (Hagan et al. 2002). They argued that Tegmark analysed ion channels rather than the Orch OR model's microtubule sites, assumed superposition separations of 24 nanometers when the theory specifies smaller distances, and used inappropriate models for charge interactions.
 
-Corrected calculations yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer. Laboratory measurements by Bandyopadhyay (2014) found collective oscillations in single microtubules at warm temperatures consistent with coherence lasting approximately 100 microseconds.
+Corrected calculations yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer. Laboratory measurements by Bandyopadhyay (2014) found collective oscillations in isolated single microtubules at warm temperatures consistent with coherence lasting approximately 100 microseconds. These were in vitro measurements; whether such coherence persists in the noisy environment of living neural tissue remains undemonstrated.
 
 This narrows the gap from twelve orders of magnitude to roughly three. Yet even 100 microseconds is far shorter than the 280–300ms timing windows for motor commitment and willed attention deployment.
 
@@ -100,7 +101,7 @@ This defines the veto window: consciousness can influence motor outcomes up to 2
 
 ## Quantum Zeno: A Different Timing Logic
 
-[[stapp-quantum-mind|Stapp's quantum Zeno model]] operates differently from Orch OR and faces different timing constraints. The quantum Zeno effect occurs when rapid, repeated observation prevents a quantum system from evolving. In Stapp's framework:
+[[stapp-quantum-mind|Stapp's quantum Zeno model]] operates differently from Orch OR and faces different timing constraints. Crucially, Stapp's mechanism uses orthodox quantum mechanics—no new physics is required, unlike Orch OR's appeal to gravitational self-collapse. The quantum Zeno effect occurs when rapid, repeated observation prevents a quantum system from evolving. In Stapp's framework:
 
 1. Neural systems exist in superposition of firing patterns
 2. Mental attention acts as "observation" of these states
@@ -149,7 +150,7 @@ Different timing requirements apply to different proposals:
 
 **Requirement**: None for coherence maintenance. Consciousness biases outcome selection after decoherence has already selected the measurement basis.
 
-**Status**: Timing-agnostic. If consciousness operates at the moment of definite outcome determination (the measurement problem), decoherence timescales are irrelevant—decoherence determines *which basis*, consciousness influences *which outcome*. This is The Unfinishable Map's primary position.
+**Status**: Timing-agnostic. If consciousness operates at the moment of definite outcome determination (the measurement problem), decoherence timescales are irrelevant—decoherence determines *which basis*, consciousness influences *which outcome*. This is The Unfinishable Map's primary position. The trade-off: timing-agnosticism makes the model immune to decoherence objections but also reduces its empirical content—timing evidence cannot rule it out, which cuts both ways.
 
 ## Relation to Site Perspective
 

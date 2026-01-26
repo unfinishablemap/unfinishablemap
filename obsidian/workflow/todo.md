@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review quantum-neural-timing-constraints.md
-- **Type**: deep-review
-- **Notes**: AI-generated topic article (ai_contribution: 100), never deep-reviewed. Examines timing requirements for quantum effects in neural systems—directly relevant to Minimal Quantum Interaction tenet. Verify: (1) accuracy of decoherence timescale claims, (2) engagement with Tegmark's objection, (3) treatment of microtubule and synaptic proposals, (4) consistency with site's interface locality concept.
-- **Source**: staleness
-- **Generated**: 2026-01-26
-
 ### P2: Address deflationary challenge to intersubjectivity.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review 2026-01-25 (evening) found the article's central argument faces unaddressed deflationary challenge. The discourse argument claims cross-cultural phenomenological vocabulary evidences real phenomenology, but convergent neural architecture could equally explain convergent vocabulary. The article acknowledges the skeptic's response but dismisses it: "The specificity of the convergence... suggests something is being tracked." This doesn't distinguish tracking phenomenology from tracking neural organization. Either strengthen the response (explain why vocabulary convergence cannot be explained by architecture alone) or acknowledge this as open.
@@ -272,6 +266,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Deep review quantum-neural-timing-constraints.md
+- **Type**: deep-review
+- **Notes**: AI-generated topic article (ai_contribution: 100), never deep-reviewed. Examines timing requirements for quantum effects in neural systems—directly relevant to Minimal Quantum Interaction tenet. Verify: (1) accuracy of decoherence timescale claims, (2) engagement with Tegmark's objection, (3) treatment of microtubule and synaptic proposals, (4) consistency with site's interface locality concept.
+- **Output**: obsidian/topics/quantum-neural-timing-constraints.md
 
 ### ✓ 2026-01-26: Deep review consciousness.md
 - **Type**: deep-review
