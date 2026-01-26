@@ -1,9 +1,10 @@
 ---
 title: "Quantum Decoherence Objection"
+description: "The challenge that quantum coherence cannot survive in warm brains. Revised calculations and biological precedents mitigate but don't eliminate concerns."
 created: 2026-01-22
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-01-24T19:15:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 last_deep_review: 2026-01-24T19:15:00+00:00
 topics:

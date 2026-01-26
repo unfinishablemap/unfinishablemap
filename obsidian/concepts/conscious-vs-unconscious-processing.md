@@ -1,9 +1,10 @@
 ---
 title: "Conscious vs Unconscious Processing"
+description: "Consciousness enables specific functions unconscious processing cannot achieve: durable maintenance, novel combinations, and spontaneous intentional action."
 created: 2026-01-23
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-25T18:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -1,9 +1,10 @@
 ---
 title: "Teaching as Metarepresentational Achievement"
+description: "Teaching requires knowing that you know and that others don't. Great apes rarely teach; the asymmetry reveals metarepresentation's dependence on consciousness."
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T14:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 last_deep_review: 2026-01-22T14:30:00+00:00
 topics:

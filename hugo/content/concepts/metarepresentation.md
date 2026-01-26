@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-22 14:00:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,6 +24,8 @@ concepts:
 - '[[teaching-as-metarepresentation]]'
 created: 2026-01-21
 date: &id001 2026-01-21
+description: Knowing that you know requires consciousness. Great apes possess knowledge
+  but may not represent their knowledge as knowledge—the Jourdain Hypothesis.
 draft: false
 human_modified: null
 last_curated: null

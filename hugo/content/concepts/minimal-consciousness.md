@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-22 14:15:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,6 +20,8 @@ concepts:
 - '[[consciousness-as-amplifier]]'
 created: 2026-01-19
 date: &id001 2026-01-20
+description: What the simplest possible conscious experience might be. Evidence from
+  C. elegans, Hydra, and slime molds challenges assumptions about neural complexity.
 draft: false
 human_modified: null
 last_curated: null

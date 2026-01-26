@@ -1,9 +1,10 @@
 ---
 title: "Mind-Brain Separation and the Division of Faculties"
+description: "Filter theory's division of faculties: qualia belong to mind, automatic functions to brain, most faculties emerge from their interaction."
 created: 2026-01-14
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T18:45:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

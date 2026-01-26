@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-20 01:00:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,12 +19,16 @@ concepts:
 - '[[luck-objection]]'
 - '[[pairing-problem]]'
 - '[[decoherence]]'
+- '[[psychophysical-laws]]'
 created: 2026-01-18
 date: &id001 2026-01-18
+description: Higher-level properties can causally influence lower-level processes.
+  Consciousness exercises downward causation at quantum indeterminacies in neural
+  systems.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 01:00:00+00:00
+last_deep_review: 2026-01-26 19:17:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,7 +39,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Downward causation is the thesis that higher-level properties can causally influence lower-level processes. When your decision to speak causes neurons to fire, this is downward causation—mental properties affecting physical events. This concept is central to defending The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet against Jaegwon Kim's exclusion argument. Kim contends that physical causes "screen off" higher-level causes, draining all causal efficacy to fundamental physics. The Map's quantum framework provides a response: consciousness causally influences physical outcomes at points where physics is genuinely incomplete.
+Downward causation is the thesis that higher-level properties can causally influence lower-level processes. When your decision to speak causes neurons to fire, this is downward causation—mental properties affecting physical events. This concept is central to defending The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet against Jaegwon Kim's exclusion argument. Kim contends that physical causes "screen off" higher-level causes, draining all causal efficacy to fundamental physics. The Map's quantum framework provides a response: consciousness causally influences physical outcomes at points where physics is genuinely incomplete. In the terminology of [psychophysical laws](/topics/psychophysical-laws-framework/), downward causation requires *selection laws*—laws specifying how mental states influence which physical outcomes become actual—not merely the supervenience laws that map physical states to experiences.
 
 ## The Concept Distinguished
 
@@ -57,7 +61,7 @@ Downward causation is distinct from, though related to, several adjacent concept
 
 ## Kim's Causal Exclusion Argument
 
-Jaegwon Kim's exclusion argument is the most influential contemporary challenge to downward causation. The argument appears most fully developed in *Physicalism, or Something Near Enough* (2005):
+Jaegwon Kim's exclusion argument (*Physicalism, or Something Near Enough*, 2005) is the most influential challenge to downward causation:
 
 1. **Causal closure**: Every physical event that has a cause has a sufficient physical cause
 2. **Higher-level causation**: Higher-level properties cause lower-level effects (common-sense premise)
@@ -89,7 +93,7 @@ This drainage threatens not just mental causation but *all* higher-level causati
 
 One response to exclusion: perhaps mental and physical causes both contribute. Both your desire for coffee *and* your neural states cause your arm to reach for the cup.
 
-Kim argues this systematic overdetermination is untenable. When two firing squads simultaneously shoot a prisoner, either could have killed him alone—this is genuine overdetermination. But it's coincidental. If *every* action were overdetermined by both mental and physical causes, this would require an intolerable coincidence: two independent causal chains reliably converging on identical effects.
+Kim argues this systematic overdetermination is untenable. If *every* action were overdetermined by both mental and physical causes, two independent causal chains would need to reliably converge on identical effects—an intolerable coincidence.
 
 Responses to the overdetermination charge:
 
@@ -147,7 +151,7 @@ This is precisely the opening downward causation requires. Kim's argument depend
 
 The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies how consciousness exercises downward causation: by biasing quantum outcomes where physics leaves the result undetermined.
 
-Henry Stapp's quantum Zeno mechanism provides a concrete proposal. When you sustain attention on a neural pattern, you repeatedly "observe" the quantum states involved, holding them in place through the quantum Zeno effect (a watched pot that really never boils). This is downward causation—your attention (mental level) influences which neural patterns (physical level) become actual.
+Several mechanisms have been proposed for how consciousness might bias quantum outcomes. Henry Stapp's quantum Zeno mechanism is the most developed: when you sustain attention on a neural pattern, you repeatedly "observe" the quantum states involved, holding them in place through the quantum Zeno effect. Other proposals include Eccles' intention-modulated vesicle release and frameworks coupling phenomenal valence to action selection (see [psychophysical-laws-framework](/topics/psychophysical-laws-framework/) for detailed evaluation). The common structure: consciousness influences which neural patterns become actual through quantum-level selection.
 
 Key features:
 
@@ -163,7 +167,7 @@ The main physics-based objection: warm neural tissue decoheres quantum superposi
 
 First, recent calculations incorporating biological protective mechanisms (Fröhlich coherence, hydrophobic interiors, nuclear spin isolation) extend coherence estimates by many orders of magnitude. Hameroff's group found seven orders of magnitude longer than Tegmark's estimate. Second, [decoherence](/concepts/decoherence/) doesn't eliminate quantum indeterminacy—it explains why interference effects wash out, but outcomes still require determination. As a 2025 review notes: "the problem of outcomes is still open."
 
-Third, the quantum Zeno mechanism may sidestep decoherence entirely. If consciousness operates through rapid repeated observation events rather than maintained superposition, decoherence times may not matter—the observations happen faster than decoherence can act.
+Third, the bandwidth of conscious thought—measured at roughly 10 bits per second—suggests consciousness operates at the level of policies and attention allocation, not individual quantum events. If consciousness doesn't need to micromanage femtosecond-scale processes but instead biases which action patterns dominate, decoherence at quantum timescales may be less critical than initially appears.
 
 The decoherence objection is a serious empirical challenge, not a philosophical refutation. The quantum opening for downward causation remains open.
 
@@ -270,6 +274,7 @@ Kim's exclusion argument remains the primary challenge. But its key premise—ca
 - [luck-objection](/concepts/luck-objection/) — The parallel challenge to agent causation
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge to emergence
+- [psychophysical-laws-framework](/topics/psychophysical-laws-framework/) — The framework for specifying mind-matter laws
 - [tenets](/tenets/) — the Map's foundational commitments
 
 ## References

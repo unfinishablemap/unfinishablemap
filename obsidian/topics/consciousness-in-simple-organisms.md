@@ -1,9 +1,10 @@
 ---
 title: "Consciousness in Simple Organisms"
+description: "From nematodes to slime molds: where does consciousness begin? The distribution puzzle may have no principled answer if mind interfaces with matter."
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-22T04:56:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

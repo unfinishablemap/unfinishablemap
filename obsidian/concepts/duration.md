@@ -1,9 +1,10 @@
 ---
 title: "Duration (Durée)"
+description: "Bergson's durée names the qualitative flow of lived time, fundamentally different from clock time. It may name exactly what physical descriptions leave out."
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-21T00:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

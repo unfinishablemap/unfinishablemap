@@ -1,9 +1,10 @@
 ---
 title: "Illusionism"
+description: "The radical claim that phenomenal consciousness is an introspective illusion. Trades the hard problem for an equally hard illusion problem."
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-20T01:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

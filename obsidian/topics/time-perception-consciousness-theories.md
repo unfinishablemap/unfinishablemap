@@ -1,9 +1,10 @@
 ---
 title: "Time Perception and Consciousness Theories"
+description: "Consciousness theories explain sub-300ms moments, but experience spans seconds. The failure to explain extended temporal phenomenology strengthens dualism."
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-25T09:45:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

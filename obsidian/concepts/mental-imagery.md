@@ -1,9 +1,10 @@
 ---
 title: "Mental Imagery and Consciousness"
+description: "Voluntary mental imagery provides paradigm evidence for consciousness's causal efficacy. Motor imagery training improves physical performance measurably."
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-23T20:15:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

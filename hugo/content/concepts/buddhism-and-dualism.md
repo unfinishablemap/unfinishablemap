@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-19 12:00:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,9 @@ concepts:
 - '[[filter-theory]]'
 created: 2026-01-19
 date: &id001 2026-01-19
+description: Buddhism rejects permanent self while affirming irreducible consciousness.
+  Compatible with the Map's property dualism when permanence and irreducibility are
+  distinguished.
 draft: false
 human_modified: null
 last_curated: null

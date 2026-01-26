@@ -1,9 +1,10 @@
 ---
 title: "The Meaning of Life"
+description: "What makes life meaningful? The Map suggests meaning is grounded in the intrinsic significance of conscious experience itself—neither God nor mere preference."
 created: 2026-01-08
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T12:00:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

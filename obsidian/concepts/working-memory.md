@@ -1,9 +1,10 @@
 ---
 title: "Working Memory and Consciousness"
+description: "Maintenance can be unconscious; manipulation requires conscious access. This asymmetry reveals where consciousness participates in cognition."
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-23T17:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-21 19:22:16+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,6 +20,8 @@ concepts:
 - '[[consciousness-as-amplifier]]'
 created: 2026-01-21
 date: &id001 2026-01-21
+description: Quantum entanglement may alone explain phenomenal unity. Classical binding
+  coordinates separate processes but cannot make them genuinely one.
 draft: false
 human_modified: null
 last_curated: null

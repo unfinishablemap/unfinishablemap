@@ -1,9 +1,10 @@
 ---
 title: "Moral Responsibility"
+description: "How agent causation grounds genuine moral desert. Agents originate actions through irreducible causal power, making praise and blame metaphysically robust."
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-26T13:28:48+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-23 07:55:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -19,6 +19,8 @@ concepts:
 - '[[reductionism]]'
 created: 2026-01-14
 date: &id001 2026-01-22
+description: 'Causal closure claims every physical event has sufficient physical cause.
+  The Map rejects this: quantum indeterminacy leaves room for consciousness to act.'
 draft: false
 human_modified: null
 last_curated: null

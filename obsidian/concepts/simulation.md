@@ -1,9 +1,10 @@
 ---
 title: "The Simulation Hypothesis"
+description: "If reality is computed, mind-matter interaction becomes unsurprising. Locality dissolves, physical closure becomes contingent, and consciousness may interface naturally."
 created: 2026-01-07
 modified: 2026-01-07
 human_modified: null
-ai_modified: 2026-01-21T20:15:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"

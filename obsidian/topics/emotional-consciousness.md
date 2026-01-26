@@ -1,9 +1,10 @@
 ---
 title: "Emotional Consciousness and Valence"
+description: "Why does pain feel bad? Emotional consciousness poses the hard problem starkly. Valence—the felt quality of good and bad—resists functional analysis."
 created: 2026-01-19
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-26T10:12:46+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 last_deep_review: 2026-01-26T10:12:46+00:00
 draft: false
 topics:

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-19 13:45:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,6 +14,8 @@ concepts:
 - '[[binding-problem]]'
 created: 2026-01-07
 date: &id001 2026-01-19
+description: If consciousness influences quantum events, where does this happen? The
+  problem dissolves when we examine assumptions about non-physical causation.
 draft: false
 human_modified: null
 last_curated: null

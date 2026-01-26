@@ -1,9 +1,10 @@
 ---
 title: "Conservation Laws and Mind-Brain Causation"
+description: "Does mental causation violate energy conservation? No—conservation is local and conditional. Consciousness may influence outcomes without injecting energy."
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-25T14:30:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

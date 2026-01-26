@@ -1,9 +1,10 @@
 ---
 title: "Autonoetic Consciousness"
+description: "Autonoetic consciousness enables mental time travel, re-experiencing past events with felt pastness. Memory involves irreducible phenomenology, not mere retrieval."
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-26T10:52:55+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

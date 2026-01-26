@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-21 19:30:00+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,9 @@ concepts:
 - '[[decoherence]]'
 created: 2026-01-14
 date: &id001 2026-01-16
+description: When the corpus callosum is severed, does consciousness split? Recent
+  evidence shows remarkable unity resilience. Our concept of 'single mind' may be
+  inadequate.
 draft: false
 human_modified: null
 last_curated: null

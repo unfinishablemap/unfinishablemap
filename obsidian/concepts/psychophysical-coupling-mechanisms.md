@@ -1,5 +1,6 @@
 ---
 title: "Psychophysical Coupling Mechanisms"
+description: "Five candidate mechanisms for mind-matter coupling: attention as observation, intention as probability, and three underspecified alternatives."
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:

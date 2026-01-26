@@ -1,9 +1,10 @@
 ---
 title: "Heterophenomenology"
+description: "Dennett's third-person method for studying consciousness. Its official neutrality about phenomenology functions as methodological eliminativism."
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-01-25T19:31:47+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 last_deep_review: 2026-01-25T19:31:47+00:00
 draft: false
 topics:

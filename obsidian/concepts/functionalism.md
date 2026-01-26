@@ -1,9 +1,10 @@
 ---
 title: "Functionalism"
+description: "Mental states defined by causal roles, not substrate. Absent qualia, inverted spectra, and the Chinese Room show functional identity misses phenomenal character."
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-01-19T21:15:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

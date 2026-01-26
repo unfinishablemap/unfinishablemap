@@ -1,5 +1,6 @@
 ---
 title: "Problem of Other Minds"
+description: "How can we know others are conscious? The epistemic asymmetry between first-person certainty and third-person inference."
 created: 2026-01-14
 modified: 2026-01-23
 human_modified: null

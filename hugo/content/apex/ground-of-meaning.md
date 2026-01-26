@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-01-24 21:50:00+00:00
+ai_modified: 2026-01-26 22:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 apex_last_synthesis: 2026-01-24 21:50:00+00:00
 apex_sources:
@@ -21,6 +21,8 @@ concepts:
 - '[[phenomenology]]'
 created: 2026-01-24
 date: &id001 2026-01-24
+description: Meaning requires consciousness. Understanding involves irreducible phenomenal
+  character that symbol manipulation—including AI systems—cannot achieve.
 draft: false
 human_modified: null
 last_curated: null

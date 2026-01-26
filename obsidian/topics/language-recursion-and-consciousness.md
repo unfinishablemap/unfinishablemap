@@ -1,9 +1,10 @@
 ---
 title: "Language, Recursion, and Consciousness"
+description: "Recursive language structure may require phenomenal consciousness. Holding embedded clauses demands working memory manipulation that requires conscious access."
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T15:30:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

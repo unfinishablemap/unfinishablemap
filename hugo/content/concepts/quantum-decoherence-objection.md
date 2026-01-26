@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-24 19:15:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -20,6 +20,8 @@ concepts:
 - '[[explanatory-gap]]'
 created: 2026-01-22
 date: &id001 2026-01-24
+description: The challenge that quantum coherence cannot survive in warm brains. Revised
+  calculations and biological precedents mitigate but don't eliminate concerns.
 draft: false
 human_modified: null
 last_curated: null

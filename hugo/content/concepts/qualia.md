@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-26 11:16:08+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -30,6 +30,8 @@ concepts:
 - '[[buddhism-and-dualism]]'
 created: 2026-01-07
 date: &id001 2026-01-24
+description: The intrinsic, subjective qualities of conscious experience—the redness
+  of red, the painfulness of pain—that resist physical explanation.
 draft: false
 human_modified: null
 last_curated: null

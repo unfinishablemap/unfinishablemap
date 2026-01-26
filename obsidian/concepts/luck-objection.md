@@ -1,9 +1,10 @@
 ---
 title: "The Luck Objection to Libertarian Free Will"
+description: "Why indeterminism seems to threaten free will as much as determinism, and how consciousness-selection provides a distinctive response to the luck objection."
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-26T19:39:41+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"

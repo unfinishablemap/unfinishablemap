@@ -11,6 +11,8 @@ concepts:
 - '[[stapp-quantum-mind]]'
 created: 2026-01-23
 date: &id001 2026-01-25
+description: 'Five candidate mechanisms for mind-matter coupling: attention as observation,
+  intention as probability, and three underspecified alternatives.'
 draft: false
 human_modified: null
 last_curated: null

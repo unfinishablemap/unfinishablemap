@@ -1,9 +1,10 @@
 ---
 title: "Mysterianism and Cognitive Closure"
+description: "McGinn's cognitive closure thesis: human minds may be constitutionally unable to solve the mind-body problem, like rats unable to grasp calculus."
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-25T00:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

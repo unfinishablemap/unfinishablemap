@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-19 21:15:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,6 +19,9 @@ concepts:
 - '[[illusionism]]'
 created: 2026-01-09
 date: &id001 2026-01-09
+description: Mental states defined by causal roles, not substrate. Absent qualia,
+  inverted spectra, and the Chinese Room show functional identity misses phenomenal
+  character.
 draft: false
 human_modified: null
 last_curated: null

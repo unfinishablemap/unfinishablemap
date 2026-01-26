@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-01-26 12:00:00+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,8 @@ concepts:
 - '[[measurement-problem]]'
 created: 2026-01-24
 date: &id001 2026-01-26
+description: Quantum decoherence at femtoseconds, neural decisions at hundreds of
+  milliseconds—a twelve-order magnitude gap. Which quantum mechanisms remain viable?
 draft: false
 human_modified: null
 last_curated: null

@@ -1,9 +1,10 @@
 ---
 title: "Consciousness as Intelligence Amplifier"
+description: "Consciousness amplifies intelligence: enabling flexible deployment, metacognitive monitoring, and counterfactual reasoning beyond automatic responses."
 created: 2026-01-22
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-25T18:01:41+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics: []
 concepts: []

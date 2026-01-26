@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-26 11:19:31+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,6 +20,8 @@ concepts:
 - '[[integrated-information-theory]]'
 created: 2026-01-08
 date: &id001 2026-01-08
+description: Can machines be conscious? The Map argues purely computational systems
+  cannot—consciousness requires something non-physical that computation lacks.
 draft: false
 human_modified: null
 last_curated: null

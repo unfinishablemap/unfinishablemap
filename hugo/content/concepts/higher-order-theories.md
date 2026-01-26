@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-21 19:30:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,6 +16,8 @@ concepts:
 - '[[mental-causation]]'
 created: 2026-01-14
 date: &id001 2026-01-19
+description: Mental states become conscious when we become aware of them. HOT explains
+  access without explaining why this awareness feels like anything.
 draft: false
 human_modified: null
 last_curated: null

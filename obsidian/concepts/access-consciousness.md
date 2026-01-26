@@ -1,9 +1,10 @@
 ---
 title: "Access Consciousness"
+description: "Access consciousness makes mental states available for reasoning and behavior control, distinct from phenomenal consciousness's subjective experience."
 created: 2026-01-22
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-24T04:27:53+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 last_deep_review: 2026-01-23T12:15:00+00:00
 topics:

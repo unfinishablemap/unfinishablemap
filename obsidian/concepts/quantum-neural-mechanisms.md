@@ -1,9 +1,10 @@
 ---
 title: "Quantum Neural Mechanisms"
+description: "Five neural quantum mechanisms: radical pairs, ion tunneling, microtubule coherence, SNARE protein tunneling, and Posner molecule entanglement."
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-24T17:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

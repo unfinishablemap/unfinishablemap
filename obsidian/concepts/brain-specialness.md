@@ -1,9 +1,10 @@
 ---
 title: "Brain Specialness: What Makes Neural Systems the Interface"
+description: "Brains meet five criteria for consciousness interfaces: quantum sensitivity, representation, attention, feedback, and developmental history. Rocks lack all five."
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-20T07:20:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

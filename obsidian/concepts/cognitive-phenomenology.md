@@ -1,9 +1,10 @@
 ---
 title: "Cognitive Phenomenology"
+description: "Is there something it's like to think, beyond sensory accompaniments? The debate bears on whether understanding requires phenomenal experience LLMs may lack."
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-26T11:09:31+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

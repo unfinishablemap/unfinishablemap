@@ -1,9 +1,10 @@
 ---
 title: "Retrocausality"
+description: "Backward causation in time-symmetric quantum mechanics. Resolves the Libet problem: consciousness can select outcomes despite neural activity preceding awareness."
 created: 2026-01-07
 modified: 2026-01-07
 human_modified: null
-ai_modified: 2026-01-23T17:15:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

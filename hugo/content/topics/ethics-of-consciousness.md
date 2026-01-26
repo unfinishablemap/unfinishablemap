@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-26 11:40:07+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,6 +22,8 @@ concepts:
 - '[[quantum-biology]]'
 created: 2026-01-16
 date: &id001 2026-01-16
+description: Consciousness creates moral status. Beings with subjective experience
+  can suffer and flourish in ways that matter. Dualism strengthens this foundation.
 draft: false
 human_modified: null
 last_curated: null

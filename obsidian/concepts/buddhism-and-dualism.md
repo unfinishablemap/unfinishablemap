@@ -1,9 +1,10 @@
 ---
 title: "Buddhism and Dualism"
+description: "Buddhism rejects permanent self while affirming irreducible consciousness. Compatible with the Map's property dualism when permanence and irreducibility are distinguished."
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T12:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -1,9 +1,10 @@
 ---
 title: "Decoherence and Quantum Biology"
+description: "Decoherence challenges quantum consciousness theories, but biology exploits quantum effects in photosynthesis and magnetoreception. The objection is empirical, not fatal."
 created: 2026-01-14
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-22T23:52:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

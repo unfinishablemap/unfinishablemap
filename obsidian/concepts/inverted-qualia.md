@@ -1,9 +1,10 @@
 ---
 title: "Inverted Qualia"
+description: "What if your red looks like my green? Functionally identical beings could differ in experience—proving function doesn't fix phenomenology."
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T08:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -1,9 +1,10 @@
 ---
 title: "Neurophenomenology and Contemplative Science"
+description: "Varela's research program integrating first-person phenomenology with neuroscience. Contemplative training reveals consciousness structures invisible to ordinary introspection."
 created: 2026-01-14
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-26T14:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

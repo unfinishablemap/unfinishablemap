@@ -1,9 +1,10 @@
 ---
 title: "Semantic Memory and Noetic Consciousness"
+description: "Factual knowledge has its own phenomenology: tip-of-the-tongue frustration, feeling of knowing, the qualitative character of understanding itself."
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-22T07:45:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

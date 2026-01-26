@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-24 07:15:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,6 +18,8 @@ concepts:
 - '[[downward-causation]]'
 created: 2026-01-23
 date: &id001 2026-01-24
+description: Consciousness and matter causally influence each other. This tenet distinguishes
+  interactionist dualism from epiphenomenalism and grounds free will.
 draft: false
 human_modified: null
 last_curated: null

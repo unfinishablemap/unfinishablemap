@@ -1,9 +1,10 @@
 ---
 title: "Psychophysical Laws"
+description: "Fundamental principles connecting conscious experience to physical processes. Chalmers' framework for bridging the explanatory gap with new basic laws."
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-26T18:01:28+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

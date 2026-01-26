@@ -1,9 +1,10 @@
 ---
 title: "The Explanatory Frontier"
+description: "The hard problem isn't a puzzle awaiting solution—it's a boundary marker. Multiple arguments converge: consciousness involves what physics cannot capture."
 created: 2026-01-24
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T12:00:00+00:00
+ai_modified: 2026-01-26T22:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

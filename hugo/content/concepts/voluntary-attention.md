@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-26 12:15:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -28,6 +28,8 @@ concepts:
 - '[[phenomenology-of-choice]]'
 created: 2026-01-19
 date: &id001 2026-01-23
+description: 'Willed attention shows unique neural signatures: frontal theta, bidirectional
+  coherence. This marks where consciousness adds something beyond neural computation.'
 draft: false
 human_modified: null
 last_curated: null

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-21 12:00:00+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,6 +22,8 @@ concepts:
 - '[[duration]]'
 created: 2026-01-08
 date: &id001 2026-01-21
+description: What makes life meaningful? The Map suggests meaning is grounded in the
+  intrinsic significance of conscious experience itself—neither God nor mere preference.
 draft: false
 human_modified: null
 last_curated: null

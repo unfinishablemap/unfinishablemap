@@ -1,9 +1,10 @@
 ---
 title: "Metacognition and Consciousness"
+description: "Thinking about thinking is not consciousness itself. Dissociation evidence shows metacognition and phenomenal awareness are distinct but related capacities."
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-26T11:46:17+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

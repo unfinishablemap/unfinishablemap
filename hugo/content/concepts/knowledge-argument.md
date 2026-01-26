@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-26 22:30:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,8 @@ concepts:
 - '[[consciousness-only-territories]]'
 created: 2026-01-15
 date: &id001 2026-01-15
+description: Mary knows all physical facts about color but learns something new seeing
+  red. What she learns can't be physical—so physicalism fails.
 draft: false
 human_modified: null
 last_curated: null

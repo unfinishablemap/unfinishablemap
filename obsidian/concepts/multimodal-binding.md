@@ -1,9 +1,10 @@
 ---
 title: "Multimodal Binding"
+description: "How consciousness integrates sight, sound, and touch into unified experience. Classical mechanisms explain coordination but not phenomenal unity."
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-25T18:26:05+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics: []
 concepts:

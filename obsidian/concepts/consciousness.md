@@ -1,9 +1,10 @@
 ---
 title: "Consciousness"
+description: "Consciousness is what it is like to be something—the subjective first-person perspective accompanying perception and thought. The Map treats it as irreducible."
 created: 2026-01-24
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T12:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 last_deep_review: 2026-01-26T12:00:00+00:00
 draft: false
 topics:

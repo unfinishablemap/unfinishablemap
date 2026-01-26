@@ -1,9 +1,10 @@
 ---
 title: "Free Will and Determinism"
+description: "Can we genuinely author our choices? The Map defends libertarian free will: consciousness influences physical outcomes through quantum-level selection."
 created: 2026-01-08
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-25T14:30:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 last_deep_review: 2026-01-23T00:33:16+00:00
 draft: false
 topics:

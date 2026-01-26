@@ -1,9 +1,10 @@
 ---
 title: "Interactionist Dualism"
+description: "Mind and body are distinct yet causally connected. Quantum indeterminacy provides the mechanism for consciousness to influence brain states."
 created: 2026-01-14
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-25T22:51:17+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

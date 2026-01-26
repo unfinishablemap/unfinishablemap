@@ -1,9 +1,10 @@
 ---
 title: "Experiential Alignment"
+description: "AI should target experiential quality, not preference satisfaction. Phenomenal consciousness grounds what ultimately matters for alignment."
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-20T23:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[purpose-and-alignment]]"

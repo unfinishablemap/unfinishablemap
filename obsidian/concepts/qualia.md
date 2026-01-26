@@ -1,9 +1,10 @@
 ---
 title: "Qualia"
+description: "The intrinsic, subjective qualities of conscious experience—the redness of red, the painfulness of pain—that resist physical explanation."
 created: 2026-01-07
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-01-26T11:16:08+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

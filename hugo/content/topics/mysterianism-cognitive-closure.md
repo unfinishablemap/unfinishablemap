@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-25 14:30:00+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,8 @@ concepts:
 - '[[dualism]]'
 created: 2026-01-23
 date: &id001 2026-01-25
+description: Are humans cognitively closed to consciousness? Like squirrels and calculus,
+  some problems may be structurally beyond minds like ours to solve.
 draft: false
 human_modified: null
 last_curated: null

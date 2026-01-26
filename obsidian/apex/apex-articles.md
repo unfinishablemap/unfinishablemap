@@ -1,12 +1,13 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-01-25T10:30:00+00:00
+ai_modified: 2026-01-26T22:10:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
 created: 2026-01-24
 date: &id001 2026-01-24
+description: "Index of apex articles: curated synthesis pieces weaving the Map's topics and concepts into unified philosophical narratives. Guidelines included."
 draft: false
 human_modified: 2026-01-24
 last_curated: null

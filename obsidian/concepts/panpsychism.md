@@ -1,9 +1,10 @@
 ---
 title: "Panpsychism"
+description: "The view that consciousness is fundamental and ubiquitous in nature. Shares dualism's anti-emergence insight but faces the combination problem."
 created: 2026-01-08
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T10:38:23+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

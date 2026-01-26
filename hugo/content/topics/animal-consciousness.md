@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-26 11:28:07+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,6 +29,8 @@ concepts:
 - '[[working-memory]]'
 created: 2026-01-14
 date: &id001 2026-01-14
+description: Do animals have conscious experience? Convergent evidence suggests many
+  do. Dualism handles this better than materialism—no anthropocentric barrier.
 draft: false
 human_modified: null
 last_curated: null

@@ -1,9 +1,10 @@
 ---
 title: "Eastern Philosophy and Consciousness"
+description: "Buddhism takes consciousness seriously while denying permanent self. This tension with Western dualism is productive—forcing clarity about what dualism requires."
 created: 2026-01-09
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T22:30:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

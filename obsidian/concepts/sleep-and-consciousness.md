@@ -1,9 +1,10 @@
 ---
 title: "Sleep and Consciousness"
+description: "Consciousness operates in gradations during sleep. Memory consolidation bypasses the conscious bottleneck; lucid dreaming proves the interface is trainable."
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-21T21:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

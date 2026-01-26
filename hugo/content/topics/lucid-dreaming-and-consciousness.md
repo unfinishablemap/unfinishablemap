@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-21 16:00:00+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,6 +20,8 @@ concepts:
 - '[[interactionist-dualism]]'
 created: 2026-01-21
 date: &id001 2026-01-21
+description: Lucid dreaming demonstrates consciousness can voluntarily modulate its
+  own mode while the body sleeps. A distinct state, not a blend of waking and REM.
 draft: false
 human_modified: null
 last_curated: null

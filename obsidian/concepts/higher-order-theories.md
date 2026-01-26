@@ -1,9 +1,10 @@
 ---
 title: "Higher-Order Theories of Consciousness"
+description: "Mental states become conscious when we become aware of them. HOT explains access without explaining why this awareness feels like anything."
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-21T19:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 last_deep_review: 2026-01-19T22:50:00+00:00
 topics:

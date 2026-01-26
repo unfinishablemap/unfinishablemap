@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-22 02:15:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,6 +20,8 @@ concepts:
 - '[[attention-schema-theory]]'
 created: 2026-01-21
 date: &id001 2026-01-22
+description: Synchronic, diachronic, and subject unity are distinct phenomena that
+  can dissociate. Split-brain cases and dreamless sleep reveal unity is not monolithic.
 draft: false
 human_modified: null
 last_curated: null

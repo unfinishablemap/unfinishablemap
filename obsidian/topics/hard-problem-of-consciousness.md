@@ -1,9 +1,10 @@
 ---
 title: "The Hard Problem of Consciousness"
+description: "Why is there something it is like to be conscious? Physical descriptions, however complete, leave experience unexplained. This is the hard problem."
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-01-26T10:46:57+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics: []
 concepts:

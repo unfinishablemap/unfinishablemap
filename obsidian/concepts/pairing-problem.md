@@ -1,9 +1,10 @@
 ---
 title: "The Pairing Problem"
+description: "What connects a particular mind to a particular body? Kim's challenge to substance dualism. Interface locality and developmental co-construction provide the answer."
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T19:45:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

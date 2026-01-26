@@ -1,9 +1,10 @@
 ---
 title: "Consciousness-Selecting Neural Patterns"
+description: "Consciousness selects which quantum possibilities become actual neural patterns. The mechanism operates at quantum indeterminacies where physics leaves outcomes open."
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-20T15:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

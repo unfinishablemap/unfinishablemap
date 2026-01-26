@@ -1,9 +1,10 @@
 ---
 title: "Self and Consciousness"
+description: "The minimal self is not added to consciousness but is its very form. For-me-ness is structural, not constructed; experience always belongs to someone."
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-26T12:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

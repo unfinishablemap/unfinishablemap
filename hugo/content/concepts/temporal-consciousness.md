@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-26 08:21:58+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,6 +27,8 @@ concepts:
 - '[[cognitive-phenomenology]]'
 created: 2026-01-15
 date: &id001 2026-01-15
+description: Experience flows through time in the specious present. LLMs lack this
+  temporal binding, suggesting consciousness requires more than sequential processing.
 draft: false
 human_modified: null
 last_curated: null

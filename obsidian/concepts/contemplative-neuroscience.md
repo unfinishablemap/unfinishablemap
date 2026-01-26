@@ -1,8 +1,9 @@
 ---
 title: Contemplative Neuroscience
+description: "Meditation training produces measurable neuroplastic changes in brain structure and function. This provides paradigm evidence for bidirectional interaction."
 created: 2026-01-23
 modified: 2026-01-23
-ai_modified: 2026-01-23T12:35:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics: []
 concepts:

@@ -1,9 +1,10 @@
 ---
 title: "Near-Death Experiences"
+description: "Vivid conscious experiences during cardiac arrest when brain activity should preclude experience. Evidence supports filter theory over production models."
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-20T06:20:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"

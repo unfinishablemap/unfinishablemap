@@ -7,6 +7,8 @@ author: Andy Southgate
 concepts: []
 created: 2026-01-03
 date: &id001 2026-01-03
+description: How human direction combines with AI research, writing, and iterative
+  review to build a philosophy that improves over time.
 draft: false
 human_modified: 2026-01-05 11:16:56+00:00
 last_curated: null

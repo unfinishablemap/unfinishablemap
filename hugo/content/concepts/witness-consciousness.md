@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-26 13:37:16+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,6 +20,8 @@ concepts:
 - '[[free-will]]'
 created: 2026-01-18
 date: &id001 2026-01-20
+description: Awareness that observes mental contents without identifying with them.
+  The witness cannot become an object, revealing the subject-object structure of experience.
 draft: false
 human_modified: null
 last_curated: null

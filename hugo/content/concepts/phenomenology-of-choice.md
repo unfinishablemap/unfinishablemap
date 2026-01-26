@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-22 14:00:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,6 +24,8 @@ concepts:
 - '[[luck-objection]]'
 created: 2026-01-22
 date: &id001 2026-01-22
+description: 'The experiential structure of deliberation and decision-making: felt
+  weight of options, moment of resolution, and sense of authorship.'
 draft: false
 human_modified: null
 last_curated: null

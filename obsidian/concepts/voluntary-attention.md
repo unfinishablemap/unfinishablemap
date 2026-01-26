@@ -1,9 +1,10 @@
 ---
 title: "Voluntary Attention"
+description: "Willed attention shows unique neural signatures: frontal theta, bidirectional coherence. This marks where consciousness adds something beyond neural computation."
 created: 2026-01-19
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-26T12:15:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"

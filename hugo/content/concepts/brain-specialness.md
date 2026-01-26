@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-20 07:20:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,8 @@ concepts:
 - '[[attention-as-interface]]'
 created: 2026-01-18
 date: &id001 2026-01-18
+description: 'Brains meet five criteria for consciousness interfaces: quantum sensitivity,
+  representation, attention, feedback, and developmental history. Rocks lack all five.'
 draft: false
 human_modified: null
 last_curated: null

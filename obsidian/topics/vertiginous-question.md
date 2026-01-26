@@ -1,9 +1,10 @@
 ---
 title: "The Vertiginous Question"
+description: "Why, of all conscious beings, am *I* this one? The vertiginous question reveals that first-person indexicality may be irreducible to third-person facts."
 created: 2026-01-26
 modified: 2026-01-26
 human_modified:
-ai_modified: 2026-01-26T20:30:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

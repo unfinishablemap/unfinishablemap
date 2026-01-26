@@ -1,9 +1,10 @@
 ---
 title: "Consciousness and Agency"
+description: "How does consciousness author action in a physical world? Through quantum selection—grounding free will, mental causation, and moral responsibility."
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-24T22:00:00+00:00
+ai_modified: 2026-01-26T22:10:00+00:00
 draft: false
 topics:
   - "[[free-will]]"

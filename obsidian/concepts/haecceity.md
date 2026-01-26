@@ -1,9 +1,10 @@
 ---
 title: "Haecceity and Indexical Identity"
+description: "The quality of being this particular conscious subject. Pattern-based theories cannot capture what makes you you rather than a qualitative duplicate."
 created: 2026-01-16
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T18:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

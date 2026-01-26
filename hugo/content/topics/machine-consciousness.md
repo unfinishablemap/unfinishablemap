@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-25 22:42:02+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -15,6 +15,8 @@ concepts:
 - '[[personal-identity]]'
 created: 2026-01-23
 date: &id001 2026-01-23
+description: Could we upload minds to computers? The Map's dualist framework suggests
+  mind uploading cannot preserve consciousness—the pattern isn't what matters.
 draft: false
 human_modified: null
 last_curated: null

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-01-26 12:00:00+00:00
+ai_modified: 2026-01-26 22:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 apex_last_synthesis: 2026-01-26 12:00:00+00:00
 apex_sources:
@@ -20,6 +20,9 @@ concepts:
 - '[[voids]]'
 created: 2026-01-24
 date: &id001 2026-01-26
+description: 'The hard problem isn''t a puzzle awaiting solution—it''s a boundary
+  marker. Multiple arguments converge: consciousness involves what physics cannot
+  capture.'
 draft: false
 human_modified: null
 last_curated: null

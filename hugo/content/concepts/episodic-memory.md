@@ -25,6 +25,8 @@ concepts:
 - '[[meditation-and-consciousness-modes]]'
 created: 2026-01-17
 date: &id001 2026-01-20
+description: 'Autobiographical memory and autonoetic consciousness: remembering is
+  re-experiencing, not data retrieval, revealing consciousness''s role.'
 draft: false
 human_modified: null
 last_curated: null

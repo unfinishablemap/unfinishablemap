@@ -1,9 +1,10 @@
 ---
 title: "The Jourdain Hypothesis"
+description: "Apes have culture but may not know they have culture. The gap between having mental states and representing them reveals consciousness's causal role."
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T22:37:45+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"

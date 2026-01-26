@@ -1,9 +1,10 @@
 ---
 title: "The Specious Present"
+description: "The experienced duration of now: 100ms to 3 seconds within which succession appears unified. Consciousness may participate in time's constitution, not merely represent it."
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-26T14:45:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

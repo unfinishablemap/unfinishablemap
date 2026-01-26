@@ -1,9 +1,10 @@
 ---
 title: "Witness Consciousness"
+description: "Awareness that observes mental contents without identifying with them. The witness cannot become an object, revealing the subject-object structure of experience."
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-26T13:37:16+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

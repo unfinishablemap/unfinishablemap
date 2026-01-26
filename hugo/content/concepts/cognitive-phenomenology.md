@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-26 11:09:31+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,6 +25,9 @@ concepts:
 - '[[specious-present]]'
 created: 2026-01-16
 date: &id001 2026-01-20
+description: Is there something it's like to think, beyond sensory accompaniments?
+  The debate bears on whether understanding requires phenomenal experience LLMs may
+  lack.
 draft: false
 human_modified: null
 last_curated: null

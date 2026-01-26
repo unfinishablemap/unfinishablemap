@@ -1,9 +1,10 @@
 ---
 title: "Bidirectional Interaction"
+description: "Consciousness and matter causally influence each other. This tenet distinguishes interactionist dualism from epiphenomenalism and grounds free will."
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-01-24T07:15:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 last_deep_review: 2026-01-24T07:15:00+00:00
 draft: false
 topics:

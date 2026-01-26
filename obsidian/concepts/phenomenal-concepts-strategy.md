@@ -1,9 +1,10 @@
 ---
 title: "The Phenomenal Concepts Strategy"
+description: "Physicalism's best response to the explanatory gap: the puzzle is in our concepts, not reality. Chalmers's master argument shows why this strategy fails."
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T01:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

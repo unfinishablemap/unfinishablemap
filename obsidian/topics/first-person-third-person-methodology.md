@@ -1,9 +1,10 @@
 ---
 title: "First-Person vs Third-Person Methodology in Consciousness Science"
+description: "First-person and third-person methods reveal different aspects of consciousness. This persistent methodological gap may reflect ontological difference."
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-25T17:30:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"

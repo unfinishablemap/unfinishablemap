@@ -1,5 +1,6 @@
 ---
 title: "Prospective Memory and Future-Oriented Consciousness"
+description: "Remembering to act in the future: how intentions persist and episodic future thinking shapes present decisions."
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null

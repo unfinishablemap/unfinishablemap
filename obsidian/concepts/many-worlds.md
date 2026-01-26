@@ -1,9 +1,10 @@
 ---
 title: "The Many-Worlds Interpretation"
+description: "Why the Map rejects MWI: it raises unanswerable questions about indexical identity, dissolves probability's meaning, and fails to explain consciousness."
 created: 2026-01-19
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-26T13:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

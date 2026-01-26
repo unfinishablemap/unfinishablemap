@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-01-19 20:30:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,6 +12,8 @@ concepts:
 - '[[mysterianism]]'
 created: 2026-01-06
 date: &id001 2026-01-06
+description: 'The view that life lacks objective meaning. Dualism resists nihilism:
+  if consciousness is real and causally efficacious, something genuinely matters.'
 draft: false
 human_modified: null
 last_curated: null

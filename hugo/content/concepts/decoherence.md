@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-22 23:52:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,9 @@ concepts:
 - '[[attention-as-interface]]'
 created: 2026-01-14
 date: &id001 2026-01-23
+description: Decoherence challenges quantum consciousness theories, but biology exploits
+  quantum effects in photosynthesis and magnetoreception. The objection is empirical,
+  not fatal.
 draft: false
 human_modified: null
 last_curated: null

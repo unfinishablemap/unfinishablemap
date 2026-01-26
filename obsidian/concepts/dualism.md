@@ -1,9 +1,10 @@
 ---
 title: "Dualism"
+description: "Dualism holds that consciousness is distinct from physical matter. Multiple independent arguments—the explanatory gap, zombies, Mary's Room—converge on this conclusion."
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-24T03:25:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

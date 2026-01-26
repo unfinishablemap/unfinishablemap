@@ -1,9 +1,10 @@
 ---
 title: "Quantum Binding and Phenomenal Unity"
+description: "Quantum entanglement may alone explain phenomenal unity. Classical binding coordinates separate processes but cannot make them genuinely one."
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T19:22:16+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

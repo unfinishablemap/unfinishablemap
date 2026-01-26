@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-01-24 22:00:00+00:00
+ai_modified: 2026-01-26 22:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 apex_last_synthesis: 2026-01-24 22:00:00+00:00
 apex_sources:
@@ -21,6 +21,8 @@ concepts:
 - '[[quantum-consciousness]]'
 created: 2026-01-24
 date: &id001 2026-01-24
+description: How does consciousness author action in a physical world? Through quantum
+  selection—grounding free will, mental causation, and moral responsibility.
 draft: false
 human_modified: null
 last_curated: null

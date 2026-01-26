@@ -1,9 +1,10 @@
 ---
 title: "The Explanatory Gap"
+description: "Physical descriptions leave unexplained why neural activity feels like anything. This chasm between mechanism and experience resists closure."
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T18:15:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

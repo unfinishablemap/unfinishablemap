@@ -1,9 +1,10 @@
 ---
 title: "Epistemic Emotions"
+description: "Curiosity, doubt, certainty, insight: feelings directed at knowledge itself. Their irreducible phenomenal character challenges functionalism."
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T18:48:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

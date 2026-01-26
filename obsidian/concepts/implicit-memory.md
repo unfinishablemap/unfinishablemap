@@ -1,9 +1,10 @@
 ---
 title: "Implicit Memory and Anoetic Consciousness"
+description: "Knowledge that shows in action without conscious recollection. Choking under pressure proves consciousness causally affects procedural execution."
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-20T21:15:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

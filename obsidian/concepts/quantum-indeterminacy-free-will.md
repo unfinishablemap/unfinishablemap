@@ -1,9 +1,10 @@
 ---
 title: "Quantum Indeterminacy and Free Will"
+description: "How quantum mechanics creates logical space for libertarian free will. The luck objection dissolves when consciousness selects based on reasons, not chance."
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T12:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"

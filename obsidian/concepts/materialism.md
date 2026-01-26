@@ -1,9 +1,10 @@
 ---
 title: "Materialism"
+description: "Why physicalism fails to explain consciousness. The explanatory gap, knowledge argument, and zombie conceivability reveal irreducible phenomenal properties."
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-23T12:55:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

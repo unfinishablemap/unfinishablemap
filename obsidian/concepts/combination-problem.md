@@ -1,9 +1,10 @@
 ---
 title: "The Combination Problem"
+description: "If electrons have micro-experiences, how do billions combine into unified human consciousness? This problem for panpsychism remains unsolved. Interactionism avoids it entirely."
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-19T21:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

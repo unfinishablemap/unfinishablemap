@@ -1,9 +1,10 @@
 ---
 title: "Philosophy of Time"
+description: "A-theory versus B-theory, presentism, eternalism, and the growing block view. How consciousness may participate in constituting temporal structure."
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T16:45:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-21 12:35:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,6 +19,8 @@ concepts:
 - '[[haecceity]]'
 created: 2026-01-14
 date: &id001 2026-01-14
+description: 'The conceivability argument against physicalism: beings functionally
+  identical to us but lacking experience suggest consciousness is non-physical.'
 draft: false
 human_modified: null
 last_curated: null

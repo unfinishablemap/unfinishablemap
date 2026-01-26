@@ -22,6 +22,8 @@ concepts:
 - '[[motor-selection]]'
 created: 2026-01-17
 date: &id001 2026-01-20
+description: 'Remembering to act in the future: how intentions persist and episodic
+  future thinking shapes present decisions.'
 draft: false
 human_modified: null
 last_curated: null

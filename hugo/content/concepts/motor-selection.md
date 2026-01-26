@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-26 21:00:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,8 @@ concepts:
 - '[[dopamine-selection-interface]]'
 created: 2026-01-18
 date: &id001 2026-01-26
+description: How consciousness selects among motor possibilities through quantum Zeno.
+  The Libet challenge has been substantially weakened by recent neuroscience.
 draft: false
 human_modified: null
 last_curated: null

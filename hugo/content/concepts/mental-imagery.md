@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-23 20:15:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,6 +18,8 @@ concepts:
 - '[[contemplative-neuroscience]]'
 created: 2026-01-23
 date: &id001 2026-01-23
+description: Voluntary mental imagery provides paradigm evidence for consciousness's
+  causal efficacy. Motor imagery training improves physical performance measurably.
 draft: false
 human_modified: null
 last_curated: null

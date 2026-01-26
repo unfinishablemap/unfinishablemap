@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-22 00:35:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,6 +21,9 @@ concepts:
 - '[[metarepresentation]]'
 created: 2026-01-21
 date: &id001 2026-01-21
+description: Consciousness amplifies intelligence by enabling flexible deployment
+  of cognitive resources, not by adding computational power. The human-ape gap provides
+  key evidence.
 draft: false
 human_modified: null
 last_curated: null

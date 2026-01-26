@@ -1,9 +1,10 @@
 ---
 title: "Meditation and Consciousness Modes"
+description: "Two modes of consciousness: active selection through attention and passive witnessing. Neuroscience confirms distinct brain signatures for each mode."
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T18:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"

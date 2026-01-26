@@ -1,9 +1,10 @@
 ---
 title: "Integrated Information Theory"
+description: "Consciousness as integrated information (phi). IIT takes phenomenology seriously but faces the expander graph problem and temporal gap."
 created: 2026-01-09
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-23T01:08:06.732224+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

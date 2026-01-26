@@ -1,9 +1,10 @@
 ---
 title: "Parfit's Reductionism"
+description: "Parfit claims identity is just pattern continuity with no further fact. The Map rejects this: patterns don't make choices; consciousnesses do."
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T22:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"

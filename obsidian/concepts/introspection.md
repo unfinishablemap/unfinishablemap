@@ -1,9 +1,10 @@
 ---
 title: "Introspection and First-Person Methods"
+description: "Our primary access to consciousness is contested. But critiques target causal processes, not phenomenal content—what it's like remains accessible."
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-22T07:32:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -1,9 +1,10 @@
 ---
 title: "Embodied Cognition and the Extended Mind"
+description: "Cognition depends on the body and extends into the environment. This challenges Cartesian dualism while leaving property dualism untouched."
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-22T11:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

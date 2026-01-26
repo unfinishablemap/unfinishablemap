@@ -1,9 +1,10 @@
 ---
 title: "Quantum Coherence Protection in Neural Systems"
+description: "Four mechanisms protecting quantum coherence in brains: hydrophobic microtubule shielding, Fröhlich condensation, nuclear spin isolation, and ordered water."
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T12:21:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

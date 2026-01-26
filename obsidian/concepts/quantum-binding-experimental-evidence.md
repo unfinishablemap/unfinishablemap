@@ -1,9 +1,10 @@
 ---
 title: "Quantum Binding: Experimental Evidence"
+description: "Recent empirical support for quantum consciousness: microtubule-stabilizing drugs delay anesthesia, MRI detects entanglement signatures in conscious brains."
 created: 2026-01-22
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-01-24T08:20:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-26 10:52:55+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,6 +28,9 @@ concepts:
 - '[[consciousness-as-amplifier]]'
 created: 2026-01-17
 date: &id001 2026-01-17
+description: Autonoetic consciousness enables mental time travel, re-experiencing
+  past events with felt pastness. Memory involves irreducible phenomenology, not mere
+  retrieval.
 draft: false
 human_modified: null
 last_curated: null

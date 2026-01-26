@@ -1,9 +1,10 @@
 ---
 title: "Continual Learning Argument"
+description: "Current LLMs cannot be conscious because they lack continual learning during inference. Systems without ongoing learning are too close to lookup tables."
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T21:50:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"

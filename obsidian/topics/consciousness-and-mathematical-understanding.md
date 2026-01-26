@@ -1,9 +1,10 @@
 ---
 title: "Consciousness and Mathematical Understanding"
+description: "Mathematical insight—grasping why a proof works, not just verifying steps—may require non-algorithmic understanding that computation cannot capture."
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-22T00:30:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

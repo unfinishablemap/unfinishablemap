@@ -1,9 +1,10 @@
 ---
 title: "Animal Consciousness"
+description: "Do animals have conscious experience? Convergent evidence suggests many do. Dualism handles this better than materialism—no anthropocentric barrier."
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-26T11:28:07+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

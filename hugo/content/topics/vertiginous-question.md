@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-01-26 20:30:00+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,6 +14,8 @@ concepts:
 - '[[moral-responsibility]]'
 created: 2026-01-26
 date: &id001 2026-01-26
+description: Why, of all conscious beings, am *I* this one? The vertiginous question
+  reveals that first-person indexicality may be irreducible to third-person facts.
 draft: false
 human_modified: null
 last_curated: null

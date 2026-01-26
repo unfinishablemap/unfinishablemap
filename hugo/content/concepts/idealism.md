@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-19 11:45:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,6 +12,9 @@ concepts:
 - '[[explanatory-gap]]'
 created: 2026-01-08
 date: &id001 2026-01-08
+description: Consciousness is fundamental; matter is derivative or appearance. The
+  Map shares idealism's conviction about consciousness while insisting physics is
+  real.
 draft: false
 human_modified: null
 last_curated: null

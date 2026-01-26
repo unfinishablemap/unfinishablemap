@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-25 14:30:00+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,6 +23,8 @@ concepts:
 - '[[phenomenology-of-choice]]'
 created: 2026-01-08
 date: &id001 2026-01-25
+description: 'Can we genuinely author our choices? The Map defends libertarian free
+  will: consciousness influences physical outcomes through quantum-level selection.'
 draft: false
 human_modified: null
 last_curated: null

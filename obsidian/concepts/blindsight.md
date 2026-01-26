@@ -1,9 +1,10 @@
 ---
 title: "Blindsight"
+description: "Blindsight patients discriminate visual stimuli they cannot consciously see. This dissociation reveals that processing and phenomenal awareness come apart."
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-01-24T16:55:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 last_deep_review: 2026-01-24T16:55:00+00:00
 draft: false
 topics: []

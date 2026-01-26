@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-24 17:15:00+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -15,6 +15,8 @@ concepts:
 - '[[voluntary-attention]]'
 created: 2026-01-23
 date: &id001 2026-01-24
+description: If thoughts are fully explained by physical causes, no belief is rationally
+  justified—including physicalism itself. A self-defeat argument for dualism.
 draft: false
 human_modified: null
 last_curated: null

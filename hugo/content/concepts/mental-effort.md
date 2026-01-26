@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-26 10:25:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,6 +24,8 @@ concepts:
 - '[[phenomenology-of-choice]]'
 created: 2026-01-14
 date: &id001 2026-01-14
+description: The phenomenology of effortful attention as evidence for consciousness-matter
+  interaction. Stapp's quantum Zeno mechanism explains why focus feels like work.
 draft: false
 human_modified: null
 last_curated: null

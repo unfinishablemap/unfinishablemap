@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-20 06:30:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,8 @@ concepts:
 - '[[explanatory-gap]]'
 created: 2026-01-15
 date: &id001 2026-01-20
+description: The view that physics describes only structure while intrinsic quiddities
+  ground consciousness. A middle path facing the combination problem.
 draft: false
 human_modified: null
 last_curated: null

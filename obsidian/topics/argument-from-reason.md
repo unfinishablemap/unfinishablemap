@@ -1,9 +1,10 @@
 ---
 title: "The Argument from Reason"
+description: "If thoughts are fully explained by physical causes, no belief is rationally justified—including physicalism itself. A self-defeat argument for dualism."
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-01-24T17:15:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 last_deep_review: 2026-01-24T17:15:00+00:00
 topics:

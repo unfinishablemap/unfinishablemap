@@ -1,9 +1,10 @@
 ---
 title: "Phenomenal Value Realism"
+description: "The metaethical view that intrinsic value is a feature of conscious experience itself. Pleasure constitutes goodness; suffering constitutes badness."
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-22T11:35:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"

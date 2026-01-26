@@ -1,9 +1,10 @@
 ---
 title: "Intuitive Dualism"
+description: "Do humans naturally separate mind from body? Evidence is mixed—but cognitive naturalness doesn't settle metaphysical truth either way."
 created: 2026-01-19
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-24T07:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

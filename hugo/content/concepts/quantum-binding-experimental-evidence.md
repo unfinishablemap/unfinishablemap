@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-24 08:20:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,6 +16,8 @@ concepts:
 - '[[illusionism]]'
 created: 2026-01-22
 date: &id001 2026-01-24
+description: 'Recent empirical support for quantum consciousness: microtubule-stabilizing
+  drugs delay anesthesia, MRI detects entanglement signatures in conscious brains.'
 draft: false
 human_modified: null
 last_curated: null

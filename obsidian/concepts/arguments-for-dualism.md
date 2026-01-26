@@ -1,9 +1,10 @@
 ---
 title: "Arguments for Dualism"
+description: "Positive arguments for dualism span metaphysics, epistemology, and phenomenology. Their convergence from independent starting points strengthens the case."
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-20T06:45:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

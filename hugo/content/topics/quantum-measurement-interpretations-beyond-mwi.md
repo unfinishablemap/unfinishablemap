@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-25 16:25:25+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -11,6 +11,9 @@ concepts:
 - '[[many-worlds]]'
 created: 2026-01-23
 date: &id001 2026-01-25
+description: Many-Worlds isn't the only quantum interpretation. Several alternatives
+  don't exclude consciousness from measurement—the interpretive landscape remains
+  open.
 draft: false
 human_modified: null
 last_curated: null

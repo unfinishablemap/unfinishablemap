@@ -1,9 +1,10 @@
 ---
 title: "Evolution of Consciousness"
+description: "When did consciousness arise? Dualism avoids the strong emergence puzzle: brains didn't produce consciousness, they evolved as interfaces."
 created: 2026-01-19
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-22T08:45:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

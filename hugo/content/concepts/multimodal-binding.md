@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-25 18:26:05+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -13,6 +13,8 @@ concepts:
 - '[[philosophical-zombies]]'
 created: 2026-01-23
 date: &id001 2026-01-25
+description: How consciousness integrates sight, sound, and touch into unified experience.
+  Classical mechanisms explain coordination but not phenomenal unity.
 draft: false
 human_modified: null
 last_curated: null

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-26 23:00:00+00:00
+ai_modified: 2026-01-26 18:57:44+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense attention.md (4190 words, 168% of threshold)
+### P2: Add meta descriptions to all content files
+- **Type**: other
+- **Notes**: Add `description` field to frontmatter for all articles in obsidian/. Descriptions should be 150-160 characters, benefit-focused, and suitable for Google search snippets and social sharing. Generate descriptions based on article content. See CLAUDE.md for schema. Start with apex/, then topics/, then concepts/.
+- **Source**: human request
+- **Generated**: 2026-01-26
+
+### P2: Deep review conceptual-acquisition-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) created recently, never deep-reviewed. Covers cognitive limitations in acquiring new concepts beyond current frameworks. Should verify: (1) accuracy of cognitive science claims about conceptual acquisition, (2) integration with other voids articles (mysterianism, cognitive closure), (3) alignment with the Map's treatment of limits as informative rather than merely frustrating.
+- **Source**: staleness
+- **Generated**: 2026-01-26
+
+### P3: Condense introspection.md (4159 words, 166% of threshold)
 - **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core interface article covering attention mechanisms, top-down vs bottom-up attention, and connection to consciousness. Preserve: key attention concepts, Quantum Zeno connection, distinction between types of attention. Defer detailed neuroscience to voluntary-attention.md and attention-motor-quantum-interface.md. See /condense skill.
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers first-person access to mental states and reliability debates. Preserve engagement with introspection skeptics while removing redundancy. May defer detailed methodology to phenomenology.md. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-01-26
 
-### P2: Condense neurophenomenology.md (4243 words, 170% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers Varela's methodology combining third-person neuroscience with first-person phenomenological reports. Preserve: core methodology description, epoché and reduction concepts, connection to consciousness studies. Defer detailed practice examples to contemplative-neuroscience.md. See /condense skill.
-- **Source**: length_analysis
+### P3: Deep review tenet-generated-voids.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers voids that arise specifically from the Map's five tenets. Should verify: (1) accurate representation of each tenet's implications, (2) that claimed voids are genuine rather than mere gaps in current knowledge, (3) alignment with other voids articles and the voids framework.
+- **Source**: staleness
 - **Generated**: 2026-01-26
 
 ### P3: Cross-review mysterianism.md considering collective cognitive limits insights
@@ -333,8 +345,94 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: pessimistic-review
 - **Generated**: 2026-01-25
 
+### P3: Write article on phenomenology of recursive thought
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. The Map claims recursive processing requires consciousness but hasn't systematically explored *what it's like* to think recursively. Center-embedding sentences, mathematical recursion, and self-referential thought provide empirical access points. Builds on language-recursion-and-consciousness.md, working-memory.md, metarepresentation.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on structure of attention (unified treatment)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. Attention as the mind-matter interface is central to the Map's framework. A dedicated article synthesizing the neuroscience (frontal theta, DLPFC/ACC activation, 300ms deployment window) with the phenomenology (effort, selection, sustained vs. captured) would strengthen this crucial piece. Builds on attention.md, voluntary-attention.md, attention-as-interface.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on dreams and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. Dreams provide a natural laboratory for studying consciousness dissociated from external input. Lucid dreaming particularly interesting—consciousness aware it's dreaming while dreaming. What does this tell us about the interface? Builds on lucid-dreaming-and-consciousness.md, sleep-and-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on phenomenology of intellectual effort
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. The argument from reason shows consciousness grasps reasons *as* reasons. But what is it *like* to find an argument compelling? To feel the force of evidence? The phenomenology of intellectual engagement. Builds on argument-from-reason.md, phenomenology-of-choice.md, mental-effort.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on emotional consciousness and value
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. How does emotional phenomenology relate to the value realism framework? Emotions as ways experience presents as mattering. Distinguishes felt importance from mere information about importance. Builds on emotional-consciousness.md, phenomenal-value-realism.md, epistemic-emotions.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Create concept page for selection laws
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. The psychophysical-laws-framework introduces this concept; deserves dedicated treatment (attention-intention mappings, effort-selection correlations). Currently referenced but not fully developed.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Create concept page for phenomenal binding
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. Referenced throughout but no dedicated page; how distributed processing becomes unified experience. Central to binding problem treatment and quantum binding arguments.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Create concept page for reasons-responsiveness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. Central to argument from reason; how consciousness tracks normative relationships. The space of reasons vs. space of causes distinction deserves dedicated treatment.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense self-and-consciousness.md (4184 words, 167% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the relationship between self and consciousness. Preserve phenomenological distinctions while removing redundancy. May defer detailed treatments to linked articles on personal-identity.md, introspection.md. See /condense skill.
+- **Output**: obsidian/concepts/self-and-consciousness.md
+
+### ✓ 2026-01-26: Condense luck-objection.md (4189 words, 168% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the luck objection to libertarian free will and various responses. Preserve core argument structure while removing redundancy. The article may have overlapping content with agent-causation.md and free-will.md. See /condense skill.
+- **Output**: obsidian/concepts/luck-objection.md
+
+### ✓ 2026-01-26: Cross-review downward-causation.md considering psychophysical-laws-framework
+- **Type**: cross-review
+- **Notes**: New article topics/psychophysical-laws-framework.md (2026-01-26) develops the framework for how psychophysical laws might operate. The downward-causation.md concept page discusses mental-to-physical causation generally. Check for: (1) cross-links to psychophysical laws framework, (2) whether downward causation treatment should reference the specific law types (correlation vs. production laws), (3) consistency between general downward causation claims and the specific framework proposed.
+- **Output**: obsidian/concepts/downward-causation.md -- Context: Cross-review downward-causation.md considering psychophysical-laws-framework
+
+### ✓ 2026-01-26: Cross-review measurement-problem.md considering spontaneous-collapse-theories
+- **Type**: cross-review
+- **Notes**: New article concepts/spontaneous-collapse-theories.md (2026-01-26) covers GRW and CSL as alternatives to consciousness-collapse. The measurement-problem.md concept page presents the measurement problem and its connection to consciousness. Check for: (1) cross-links to spontaneous collapse treatment, (2) whether the article adequately distinguishes consciousness-collapse from objective-collapse theories, (3) opportunity to strengthen the argument for why consciousness-collapse is preferable despite spontaneous-collapse alternatives.
+- **Output**: obsidian/concepts/measurement-problem.md -- Context: Cross-review measurement-problem.md considering spontaneous-collapse-theories
+
+### ✓ 2026-01-26: Condense neurophenomenology.md (4243 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers Varela's methodology combining third-person neuroscience with first-person phenomenological reports. Preserve: core methodology description, epoché and reduction concepts, connection to consciousness studies. Defer detailed practice examples to contemplative-neuroscience.md. See /condense skill.
+- **Output**: obsidian/concepts/neurophenomenology.md
+
+### ✓ 2026-01-26: Condense attention.md (4190 words, 168% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core interface article covering attention mechanisms, top-down vs bottom-up attention, and connection to consciousness. Preserve: key attention concepts, Quantum Zeno connection, distinction between types of attention. Defer detailed neuroscience to voluntary-attention.md and attention-motor-quantum-interface.md. See /condense skill.
+- **Output**: obsidian/concepts/attention.md
 
 ### ✓ 2026-01-26: Cross-review mental-causation.md considering psychophysical laws framework
 - **Type**: cross-review

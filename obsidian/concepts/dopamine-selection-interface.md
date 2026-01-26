@@ -1,9 +1,10 @@
 ---
 title: "Dopamine and the Selection Interface"
+description: "Dopamine marks what is worth pursuing and sets action thresholds. It does not cause movement—consciousness selects among dopamine-tagged options."
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T12:27:42+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"

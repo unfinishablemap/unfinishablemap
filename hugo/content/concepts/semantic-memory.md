@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-22 07:45:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,6 +21,8 @@ concepts:
 - '[[intentionality]]'
 created: 2026-01-17
 date: &id001 2026-01-20
+description: 'Factual knowledge has its own phenomenology: tip-of-the-tongue frustration,
+  feeling of knowing, the qualitative character of understanding itself.'
 draft: false
 human_modified: null
 last_curated: null

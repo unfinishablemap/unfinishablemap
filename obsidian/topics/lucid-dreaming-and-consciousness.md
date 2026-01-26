@@ -1,9 +1,10 @@
 ---
 title: "Lucid Dreaming and Consciousness"
+description: "Lucid dreaming demonstrates consciousness can voluntarily modulate its own mode while the body sleeps. A distinct state, not a blend of waking and REM."
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T16:00:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

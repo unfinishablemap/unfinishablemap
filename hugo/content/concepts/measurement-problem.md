@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-25 20:51:17+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,12 +19,16 @@ concepts:
 - '[[subjective-probability-quantum-measurement]]'
 - '[[arguments-for-dualism]]'
 - '[[qualia]]'
+- '[[spontaneous-collapse-theories]]'
+- '[[free-will]]'
 created: 2026-01-14
 date: &id001 2026-01-16
+description: 'Quantum mechanics'' central puzzle: why measurement yields definite
+  outcomes. This gap creates logical space for consciousness to participate in collapse.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-25 20:51:17+00:00
+last_deep_review: 2026-01-26 14:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -98,9 +102,9 @@ On indexicals: MWI defenders argue there is no fact about "which branch I occupy
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
-The wave function undergoes real, physical collapse according to modified dynamics. GRW and CSL introduce collapse as a random physical process; Penrose links it to gravitational self-energy.
+The wave function undergoes real, physical collapse according to modified dynamics. GRW and CSL introduce collapse as a random physical process; Penrose links it to gravitational self-energy. See [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) for detailed treatment.
 
-**Relation to site tenets:** Compatible if collapse can be influenced by consciousness. These theories make testable predictions not yet experimentally ruled out.
+**Relation to site tenets:** These theories solve a critical problem: wave functions collapsed for billions of years before consciousness evolved. GRW/CSL provide a baseline—consciousness modulates existing collapse dynamics rather than causing collapse *ex nihilo*. This supports [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction): consciousness nudges stochastic processes rather than generating them. McQueen's CSL-IIT hybrid—where integrated information (Φ) amplifies collapse strength—exemplifies how the Map's framework might be implemented. These theories make testable predictions not yet experimentally ruled out.
 
 ### Hidden Variables (Bohmian Mechanics)
 
@@ -171,8 +175,10 @@ The measurement problem is central to the Map's framework. It creates the logica
 - [many-worlds](/arguments/many-worlds/) — Arguments against MWI
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for mind-matter interaction
 - [decoherence](/concepts/decoherence/) — What decoherence does and doesn't explain
+- [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and consciousness-modulated collapse
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The broader framework
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/), [interface-locality](/concepts/interface-locality/), [prebiotic-collapse](/concepts/prebiotic-collapse/) — How the Map resolves coordination puzzles
+- [free-will](/topics/free-will/) — How quantum indeterminacy enables libertarian free will
 - [haecceity](/concepts/haecceity/) — The "thisness" grounding indexical identity
 - [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/) — Why some explanatory gaps may be unclosable
 - [tenets](/tenets/) — The Map's foundational commitments
@@ -183,9 +189,6 @@ The measurement problem is central to the Map's framework. It creates the logica
 - Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*.
 - Ghirardi, G.C., Rimini, A., Weber, T. (1986). "Unified dynamics for microscopic and macroscopic systems." *Physical Review D*.
 - Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
-- Stanford Encyclopedia of Philosophy. "Philosophical Issues in Quantum Theory." https://plato.stanford.edu/entries/qt-issues/
-- Stanford Encyclopedia of Philosophy. "Collapse Theories." https://plato.stanford.edu/entries/qm-collapse/
-- Stanford Encyclopedia of Philosophy. "Many-Worlds Interpretation." https://plato.stanford.edu/entries/qm-manyworlds/
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194-4206.
 - Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278 [quant-ph].

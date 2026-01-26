@@ -1,9 +1,10 @@
 ---
 title: "Philosophical Zombies"
+description: "The conceivability argument against physicalism: beings functionally identical to us but lacking experience suggest consciousness is non-physical."
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-21T12:35:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

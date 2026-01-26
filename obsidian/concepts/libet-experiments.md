@@ -1,9 +1,10 @@
 ---
 title: "Libet Experiments and the Neuroscience of Volition"
+description: "Do brains decide before we're aware? The readiness potential may be noise, not decision. Consciousness retains genuine causal power over action."
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T01:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 last_deep_review: 2026-01-20T01:30:00+00:00
 draft: false
 topics:

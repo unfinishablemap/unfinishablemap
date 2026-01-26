@@ -1,5 +1,6 @@
 ---
 title: "Episodic Memory"
+description: "Autobiographical memory and autonoetic consciousness: remembering is re-experiencing, not data retrieval, revealing consciousness's role."
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null

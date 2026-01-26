@@ -1,9 +1,10 @@
 ---
 title: "Relational Quantum Mechanics"
+description: "Rovelli's interpretation where quantum facts are relative to observers. Elegant but conflicts with the Map by eliminating consciousness's special role."
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T14:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

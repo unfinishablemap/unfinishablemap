@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-26 12:00:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,6 +22,9 @@ concepts:
 - '[[haecceity]]'
 created: 2026-01-15
 date: &id001 2026-01-15
+description: Dreams show consciousness generating immersive experiential worlds without
+  external input. Lucid dreaming proves consciousness can stabilize novel modes of
+  operation.
 draft: false
 human_modified: null
 last_curated: null

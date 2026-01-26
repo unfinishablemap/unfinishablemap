@@ -7,6 +7,8 @@ author: Andy Southgate
 concepts: []
 created: 2026-01-06
 date: &id001 2026-01-06
+description: Why materialism, functionalism, and epiphenomenalism fail to explain
+  consciousness. Positions refined through ongoing review.
 draft: false
 human_modified: 2026-01-06
 last_curated: null

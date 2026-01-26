@@ -7,6 +7,8 @@ author: Andy Southgate
 concepts: []
 created: 2026-01-24
 date: &id001 2026-01-24
+description: Not an AI content farm. Human-directed, AI-assisted philosophy with full
+  version history. Every article reviewed and refined.
 draft: false
 human_modified: 2026-01-24 00:00:00+00:00
 last_curated: null

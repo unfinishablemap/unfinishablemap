@@ -1,9 +1,10 @@
 ---
 title: "The Multi-Mind Collapse Problem"
+description: "When multiple minds observe entangled systems, whose consciousness collapses the wave function? Interface locality dissolves the coordination paradox."
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T15:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

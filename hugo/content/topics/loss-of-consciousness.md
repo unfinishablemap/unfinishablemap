@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-21 03:30:00+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,6 +22,8 @@ concepts:
 - '[[haecceity]]'
 created: 2026-01-15
 date: &id001 2026-01-18
+description: 'Anesthesia and coma don''t prove brains produce consciousness. Filter
+  theory: the brain interfaces with consciousness rather than generating it.'
 draft: false
 human_modified: null
 last_curated: null

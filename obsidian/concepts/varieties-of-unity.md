@@ -1,9 +1,10 @@
 ---
 title: "Varieties of Unity in Consciousness"
+description: "Synchronic, diachronic, and subject unity are distinct phenomena that can dissociate. Split-brain cases and dreamless sleep reveal unity is not monolithic."
 created: 2026-01-21
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T02:15:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

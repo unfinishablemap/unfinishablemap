@@ -1,9 +1,10 @@
 ---
 title: "Quantum Biology"
+description: "Non-trivial quantum effects in living systems—photosynthesis, bird navigation, enzyme catalysis—proving warm biology can harness quantum phenomena."
 created: 2026-01-16
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-24T13:20:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

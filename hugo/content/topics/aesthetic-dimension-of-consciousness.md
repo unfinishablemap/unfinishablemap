@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-22 05:30:00+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,6 +19,8 @@ concepts:
 - '[[meaning-and-consciousness]]'
 created: 2026-01-22
 date: &id001 2026-01-22
+description: Beauty, elegance, and aesthetic quality pervade conscious experience.
+  Why does anything seem beautiful? The aesthetic dimension resists physical reduction.
 draft: false
 human_modified: null
 last_curated: null

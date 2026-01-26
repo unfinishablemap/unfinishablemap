@@ -1,9 +1,10 @@
 ---
 title: "Apex Articles"
+description: "Apex articles integrate philosophical topics, concepts, and arguments into unified narratives—entry points for understanding the Map's coherent worldview."
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: 2026-01-24
-ai_modified: null
+ai_modified: 2026-01-26T22:10:00+00:00
 draft: false
 topics: []
 concepts: []

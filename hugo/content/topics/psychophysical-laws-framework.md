@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-01-26 14:10:30+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,8 @@ concepts:
 - '[[mysterianism]]'
 created: 2026-01-26
 date: &id001 2026-01-26
+description: If consciousness is distinct from physics, psychophysical laws must bridge
+  mind and matter. The Map adds downward causation to Chalmers' framework.
 draft: false
 human_modified: null
 last_curated: null

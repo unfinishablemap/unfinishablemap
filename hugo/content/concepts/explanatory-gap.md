@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-20 18:15:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,8 @@ concepts:
 - '[[integrated-information-theory]]'
 created: 2026-01-14
 date: &id001 2026-01-20
+description: Physical descriptions leave unexplained why neural activity feels like
+  anything. This chasm between mechanism and experience resists closure.
 draft: false
 human_modified: null
 last_curated: null

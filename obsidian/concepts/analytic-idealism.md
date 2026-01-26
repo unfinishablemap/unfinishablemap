@@ -1,9 +1,10 @@
 ---
 title: "Analytic Idealism"
+description: "Analytic idealism posits consciousness as fundamental, with matter as its appearance. Kastrup's framework dissolves the hard problem by reversing ontology."
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T08:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-25 19:45:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,6 +13,8 @@ concepts:
 - '[[neurophenomenology]]'
 created: 2026-01-23
 date: &id001 2026-01-25
+description: 'The shared space between minds: how first-person experience can be communicated
+  and validated without reducing to third-person description.'
 draft: false
 human_modified: null
 last_curated: null

@@ -1,9 +1,10 @@
 ---
 title: "Attention and Consciousness"
+description: "Attention selects information for conscious processing. Its relationship to consciousness remains contested, with major implications for mind-brain theories."
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-26T12:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

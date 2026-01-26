@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-20 22:30:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,8 @@ concepts:
 - '[[buddhism-and-dualism]]'
 created: 2026-01-17
 date: &id001 2026-01-20
+description: 'Parfit claims identity is just pattern continuity with no further fact.
+  The Map rejects this: patterns don''t make choices; consciousnesses do.'
 draft: false
 human_modified: null
 last_curated: null

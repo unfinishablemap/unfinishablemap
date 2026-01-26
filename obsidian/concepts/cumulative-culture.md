@@ -1,9 +1,10 @@
 ---
 title: "Cumulative Culture"
+description: "Cumulative culture requires metarepresentation—representing knowledge as knowledge. Only humans achieve it. This may depend on phenomenal consciousness."
 created: 2026-01-21
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T08:14:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"

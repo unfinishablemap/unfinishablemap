@@ -1,9 +1,10 @@
 ---
 title: "Interpretations of Quantum Mechanics"
+description: "Survey of quantum interpretations and their consciousness implications. Why the Map favors time-symmetric collapse over Many-Worlds or Bohmian mechanics."
 created: 2026-01-17
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-23T23:20:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

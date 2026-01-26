@@ -1,9 +1,10 @@
 ---
 title: "Ethics of Consciousness"
+description: "Consciousness creates moral status. Beings with subjective experience can suffer and flourish in ways that matter. Dualism strengthens this foundation."
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-26T11:40:07+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

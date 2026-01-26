@@ -1,9 +1,10 @@
 ---
 title: "Dreams and Consciousness"
+description: "Dreams show consciousness generating immersive experiential worlds without external input. Lucid dreaming proves consciousness can stabilize novel modes of operation."
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-26T12:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

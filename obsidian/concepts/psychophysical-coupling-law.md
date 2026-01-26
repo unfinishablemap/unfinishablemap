@@ -1,5 +1,6 @@
 ---
 title: "The Psychophysical Coupling Law"
+description: "Specifying how conscious states map to quantum selections: the bridging law interactionist dualism requires."
 created: 2026-01-16
 modified: 2026-01-17
 human_modified: null

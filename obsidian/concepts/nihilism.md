@@ -1,9 +1,10 @@
 ---
 title: "Nihilism"
+description: "The view that life lacks objective meaning. Dualism resists nihilism: if consciousness is real and causally efficacious, something genuinely matters."
 created: 2026-01-06
 modified: 2026-01-06
 human_modified:
-ai_modified: 2026-01-19T20:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"

@@ -1,9 +1,10 @@
 ---
 title: "Split-Brain Cases and Consciousness Unity"
+description: "When the corpus callosum is severed, does consciousness split? Recent evidence shows remarkable unity resilience. Our concept of 'single mind' may be inadequate."
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-21T19:30:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -1,9 +1,10 @@
 ---
 title: "AI Consciousness"
+description: "Can machines be conscious? The Map argues purely computational systems cannot—consciousness requires something non-physical that computation lacks."
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-01-26T11:19:31+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 last_deep_review: 2026-01-26T11:19:31+00:00
 topics:

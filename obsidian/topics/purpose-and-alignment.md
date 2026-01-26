@@ -1,9 +1,10 @@
 ---
 title: "Purpose and AI Alignment"
+description: "AI alignment assumes human values can be learned from behavior. But if we don't know humanity's purpose, alignment builds on unstable foundations."
 created: 2026-01-13
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T00:15:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"

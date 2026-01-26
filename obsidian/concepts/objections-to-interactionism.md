@@ -1,9 +1,10 @@
 ---
 title: "Objections to Interactionist Dualism"
+description: "Six major challenges to dualism: pairing, conservation, parsimony, decoherence, evolution, exclusion. Five have principled responses; one supports dualism."
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-23T16:15:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -1,9 +1,10 @@
 ---
 title: "Interface Locality: Why Selection Is Brain-Restricted"
+description: "Why consciousness affects only its own brain: attention is neurally implemented, limiting quantum selection to local neural systems."
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T07:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

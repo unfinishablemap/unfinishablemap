@@ -1,9 +1,10 @@
 ---
 title: "Machine Consciousness and Mind Uploading"
+description: "Could we upload minds to computers? The Map's dualist framework suggests mind uploading cannot preserve consciousness—the pattern isn't what matters."
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-25T22:42:02+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 last_deep_review: 2026-01-25T22:42:02+00:00
 draft: false
 topics:

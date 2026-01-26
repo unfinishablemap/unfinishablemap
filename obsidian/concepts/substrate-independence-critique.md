@@ -1,9 +1,10 @@
 ---
 title: "Critique of Substrate Independence"
+description: "Why consciousness requires more than functional organization. Absent qualia, temporal structure, and quantum interface arguments challenge AI consciousness claims."
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-20T21:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"

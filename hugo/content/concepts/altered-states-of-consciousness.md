@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-26 11:49:09+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -18,6 +18,8 @@ concepts:
 - '[[global-workspace-theory]]'
 created: 2026-01-18
 date: &id001 2026-01-19
+description: Altered states reveal consciousness's range through meditation, psychedelics,
+  and sleep. They challenge reductive accounts and support dualist frameworks.
 draft: false
 human_modified: null
 last_curated: null

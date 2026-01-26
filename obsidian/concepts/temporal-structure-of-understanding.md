@@ -1,9 +1,10 @@
 ---
 title: "The Temporal Structure of Understanding"
+description: "The click of comprehension has temporal phenomenology: suddenness, integration, completion. Understanding may require consciousness, not just computation."
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-25T20:29:56+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

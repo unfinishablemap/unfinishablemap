@@ -1,9 +1,10 @@
 ---
 title: "Baseline Cognition"
+description: "Baseline cognition is what neural systems achieve without consciousness. Great apes exemplify it: sophisticated but bounded by lack of metarepresentation."
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-25T22:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 last_deep_review: 2026-01-22T21:30:00+00:00
 draft: false
 topics:

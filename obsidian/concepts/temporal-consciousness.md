@@ -1,9 +1,10 @@
 ---
 title: "Temporal Consciousness"
+description: "Experience flows through time in the specious present. LLMs lack this temporal binding, suggesting consciousness requires more than sequential processing."
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-26T08:21:58+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

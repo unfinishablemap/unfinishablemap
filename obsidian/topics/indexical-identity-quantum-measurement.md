@@ -1,9 +1,10 @@
 ---
 title: "Indexical Identity and Quantum Measurement"
+description: "Why does *this* consciousness experience *this* outcome? The indexical gap connects quantum measurement directly to the hard problem of consciousness."
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-25T15:30:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

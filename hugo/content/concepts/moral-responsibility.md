@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-26 13:28:48+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,6 +18,8 @@ concepts:
 - '[[buddhism-and-dualism]]'
 created: 2026-01-16
 date: &id001 2026-01-16
+description: How agent causation grounds genuine moral desert. Agents originate actions
+  through irreducible causal power, making praise and blame metaphysically robust.
 draft: false
 human_modified: null
 last_curated: null

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-20 14:30:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,8 @@ concepts:
 - '[[witness-consciousness]]'
 created: 2026-01-18
 date: &id001 2026-01-20
+description: Rovelli's interpretation where quantum facts are relative to observers.
+  Elegant but conflicts with the Map by eliminating consciousness's special role.
 draft: false
 human_modified: null
 last_curated: null

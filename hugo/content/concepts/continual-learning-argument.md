@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-20
-ai_modified: 2026-01-20 21:50:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,6 +20,8 @@ concepts:
 - '[[epiphenomenalism]]'
 created: 2026-01-20
 date: &id001 2026-01-20
+description: Current LLMs cannot be conscious because they lack continual learning
+  during inference. Systems without ongoing learning are too close to lookup tables.
 draft: false
 human_modified: null
 last_curated: null

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-25 08:12:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,6 +18,8 @@ concepts:
 - '[[quantum-biology]]'
 created: 2026-01-09
 date: &id001 2026-01-25
+description: 'How consciousness might interact with quantum mechanics: Orch OR microtubule
+  collapse, Stapp''s quantum Zeno effect, and Fisher''s nuclear spin entanglement.'
 draft: false
 human_modified: null
 last_curated: null

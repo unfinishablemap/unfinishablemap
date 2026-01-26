@@ -21,6 +21,8 @@ concepts:
 - '[[mental-effort]]'
 created: 2026-01-16
 date: &id001 2026-01-17
+description: 'Specifying how conscious states map to quantum selections: the bridging
+  law interactionist dualism requires.'
 draft: false
 human_modified: null
 last_curated: null

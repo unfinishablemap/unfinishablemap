@@ -1,9 +1,10 @@
 ---
 title: "Epistemic Advantages of Non-Materialist Theories"
+description: "Dualism opens intellectual territory materialism forecloses. Epistemic humility favors keeping possibilities open when confronting consciousness's mysteries."
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T23:30:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -1,9 +1,10 @@
 ---
 title: "Consciousness as Intelligence Amplifier"
+description: "Consciousness amplifies intelligence by enabling flexible deployment of cognitive resources, not by adding computational power. The human-ape gap provides key evidence."
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-22T00:35:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 last_deep_review: 2026-01-21T18:59:11+00:00
 draft: false
 topics:

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-26 12:39:38+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,6 +23,8 @@ concepts:
 - '[[phenomenology-of-choice]]'
 created: 2026-01-15
 date: &id001 2026-01-15
+description: Agent causation holds that persons originate actions directly, not through
+  prior events. Central to libertarian free will and interactionist dualism.
 draft: false
 human_modified: null
 last_curated: null

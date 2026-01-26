@@ -1,9 +1,10 @@
 ---
 title: "Arguments Against Materialism"
+description: "The case against materialism includes the explanatory gap, zombie arguments, knowledge argument, and causal exclusion. Multiple paths lead to dualism."
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T04:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

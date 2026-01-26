@@ -1,9 +1,10 @@
 ---
 title: "Objectivity and Consciousness"
+description: "Why consciousness resists the view from nowhere. Scientific objectivity eliminates perspective; consciousness IS perspective. The paradox is structural."
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-01-24T16:45:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 last_deep_review: 2026-01-24T16:45:00+00:00
 draft: false
 topics:

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-19 16:00:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,6 +19,8 @@ concepts:
 - '[[brain-specialness]]'
 created: 2026-01-15
 date: &id001 2026-01-15
+description: The brain transmits and constrains consciousness rather than producing
+  it. Correlation doesn't prove production; the brain is interface, not generator.
 draft: false
 human_modified: null
 last_curated: null

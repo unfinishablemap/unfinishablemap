@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-19 20:13:53+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,6 +16,9 @@ concepts:
 - '[[temporal-consciousness]]'
 created: 2026-01-14
 date: &id001 2026-01-14
+description: Wavefunction collapse introduces temporal asymmetry into physics. If
+  consciousness participates in collapse, it may help constitute time's direction
+  rather than merely experiencing it.
 draft: false
 human_modified: null
 last_curated: null

@@ -1,9 +1,10 @@
 ---
 title: "Quantum Measurement Interpretations Beyond Many-Worlds"
+description: "Many-Worlds isn't the only quantum interpretation. Several alternatives don't exclude consciousness from measurement—the interpretive landscape remains open."
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-25T16:25:25+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

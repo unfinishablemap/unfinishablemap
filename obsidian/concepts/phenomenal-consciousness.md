@@ -1,9 +1,10 @@
 ---
 title: "Phenomenal Consciousness"
+description: "What it is like to be in a mental state—the subjective quality of experience. The hard problem's core and the primary reason for rejecting materialism."
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-25T11:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 last_deep_review: 2026-01-25T11:00:00+00:00
 draft: false
 topics:

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-23 21:30:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,6 +23,8 @@ concepts:
 - '[[many-worlds]]'
 created: 2026-01-14
 date: &id001 2026-01-14
+description: Attention selects information for conscious processing. Its relationship
+  to consciousness remains contested, with major implications for mind-brain theories.
 draft: false
 human_modified: null
 last_curated: null
@@ -46,47 +48,31 @@ This article surveys the dissociation evidence, examines what the debate means f
 
 ### Can You Be Conscious Without Attention?
 
-Jesse Prinz and Global Workspace Theory proponents argue no: attention is what makes representations conscious. Without attention, information may be processed but never enters phenomenal experience. Inattentional blindness—where people fail to notice a gorilla walking through a basketball game—seems to support this: no attention, no awareness.
+Jesse Prinz and Global Workspace Theory proponents argue no: attention is what makes representations conscious. But Koch and Tsuchiya (2006) documented cases challenging this view:
 
-But the evidence is more complex. Koch and Tsuchiya's influential 2006 paper documented cases of consciousness without focused attention:
+- **Peripheral awareness**: Objects in peripheral vision remain phenomenally present despite lack of focal attention
+- **Gist perception**: Scene recognition occurs within 20-30ms, before attention engages
+- **Ned Block's overflow**: In iconic memory experiments, subjects report seeing all letters though they can only report 3-4. Consciousness "overflows" attentional access.
 
-**Peripheral awareness.** You see objects in your peripheral vision even when focusing elsewhere. The experience is degraded—less detailed—but still phenomenally present.
-
-**Gist perception.** Subjects can perceive the gist of a scene (forest, kitchen, crowded room) within 20-30 milliseconds, before attention has time to engage. Something appears in consciousness without attentional selection.
-
-**Ned Block's overflow argument.** In iconic memory experiments, subjects briefly see a grid of letters. They can report only 3-4, but report seeing all of them. Block argues phenomenal consciousness "overflows" what attention makes accessible. We're conscious of more than we can think about or report.
-
-Recent research strengthens the dissociation case. A 2025 eLife study (Nartker et al.) found that inattentionally blind participants retain significant visual sensitivity to stimuli they deny noticing—they can report location, colour, and shape of objects they claim not to have seen. Rather than supporting the claim that awareness requires attention, these findings create problems for equivalency views.
+A 2025 eLife study (Nartker et al.) strengthened the dissociation case: inattentionally blind participants retain visual sensitivity to stimuli they deny noticing.
 
 ### Can You Attend Without Being Conscious?
 
-This direction seems clearer. Blindsight patients have damage to visual cortex that eliminates conscious vision in part of their visual field. Yet when forced to guess about stimuli in the "blind" region, they perform above chance. Something processes the information—orienting, reaching, discriminating—without conscious experience.
+This direction is clearer. Blindsight patients orient toward stimuli in their "blind" field without conscious vision. Masked priming shows attention operating on stimuli that never reach awareness.
 
-Similarly, masked priming demonstrates attention to unconscious stimuli. A briefly presented and masked word can prime subsequent processing without ever reaching awareness. Attention—in the sense of selective processing—operates on stimuli the subject never consciously perceives.
-
-If attention can operate without consciousness and consciousness can occur without attention, they are distinct processes with different neural mechanisms. Koch and Tsuchiya identified different substrates: fronto-parietal networks for attention, temporo-parietal-occipital regions for phenomenal content.
+If attention operates without consciousness and vice versa, they are distinct processes with different neural substrates: fronto-parietal networks for attention, temporo-parietal-occipital regions for phenomenal content (Koch & Tsuchiya).
 
 ## What Dissociation Means for Theory
 
 ### Against Functionalism
 
-If consciousness simply *is* what attention does—as AIR theory (Attended Intermediate Representations) holds—the dissociation evidence is problematic. Prinz argues consciousness arises when and only when intermediate-level representations are modulated by attention. But peripheral awareness and gist perception suggest representations can be conscious without attentional modulation, and blindsight suggests modulation can occur without consciousness.
+The [functionalist](/arguments/functionalism/) equation of consciousness with a functional role stumbles on dissociation evidence. Prinz's AIR theory claims consciousness arises when and only when attention modulates intermediate representations—but peripheral awareness suggests conscious content without attentional modulation, and blindsight suggests modulation without consciousness. Consciousness seems to be something over and above the function.
 
-The [functionalist](/arguments/functionalism/) equation of consciousness with a functional role (being available for report, guiding action, entering working memory) stumbles here. Consciousness seems to be something over and above the function—present when the function is absent, absent when the function operates.
+### The Methodological Challenge
 
-### The Refrigerator-Light Problem
+To check whether unattended items are conscious, we must redirect attention—but this changes what we're measuring. The debate remains "in something of a deadlock" (Stanford Encyclopedia). Equivalency theorists can always argue apparent consciousness-without-attention involves rapid, unnoticed attention shifts.
 
-A methodological puzzle haunts the debate. To check whether unattended items are conscious, we must redirect attention to them—but redirecting attention changes what we're measuring. It's like checking if the refrigerator light is off when the door is closed: the act of checking changes the phenomenon.
-
-This is why the debate remains "in something of a deadlock" (Stanford Encyclopedia). The evidence supports dissociation, but equivalency theorists can always argue that apparent consciousness-without-attention involves rapid, unnoticed attention shifts.
-
-### The Mysterian Angle
-
-Colin McGinn's [mysterianism](/concepts/mysterianism/) offers a sobering possibility: the attention-consciousness relationship might be inherently opaque to investigation. Our cognitive architecture may lack the resources to understand how attention relates to consciousness—not because there's nothing to understand, but because the relationship falls outside our conceptual reach.
-
-This would explain the persistent "deadlock": every attempt to study the relationship (whether through introspection, neuroimaging, or philosophical analysis) runs into the same barriers because we're constitutionally incapable of grasping the answer. If true, the best we can do is characterise the relationship's functional properties—which the interface hypothesis does—while acknowledging that deeper understanding may remain closed to us.
-
-The Map's position: genuine uncertainty about the attention-consciousness relationship supports the [Occam's Razor Has Limits](/tenets/#occam) tenet. Simple identification of consciousness with attention fails to capture the phenomenon's complexity. Whether the complexity reflects richness we haven't yet understood or limits we cannot transcend, something else is going on.
+Colin McGinn's [mysterianism](/concepts/mysterianism/) suggests the relationship might be inherently opaque to investigation. The Map's position: genuine uncertainty supports the [Occam's Razor Has Limits](/tenets/#occam) tenet. Simple identification fails; something else is going on.
 
 ## Attention as the Mind-Matter Interface
 
@@ -94,7 +80,7 @@ Here the Map's framework offers a distinctive perspective. Rather than asking wh
 
 ### The Willed-Instructed-Exogenous Distinction
 
-Recent neuroscience reveals that "voluntary attention" encompasses importantly different modes. [Vossel (2023) and Bengson (2019)](/archive/concepts/voluntary-attention-control/) identify three distinct attention types:
+[Recent neuroscience](/archive/concepts/voluntary-attention-control/) distinguishes three attention types:
 
 | Mode | Trigger | Deployment Time | Effort |
 |------|---------|-----------------|--------|
@@ -102,217 +88,119 @@ Recent neuroscience reveals that "voluntary attention" encompasses importantly d
 | **Instructed** | External cues | ~300ms | Low |
 | **Willed** | Internal decision | ~300ms | High |
 
-The critical philosophical distinction is between instructed and willed attention. Both count as "top-down" in overriding stimulus-driven capture, but only willed attention involves genuine decision-making. Following an instruction to "attend left" is top-down but automatic—you implement an externally provided goal. *Choosing* to attend left without prompting requires generating the goal internally.
+The critical distinction is between instructed and willed attention. Both are "top-down," but only willed attention involves genuine decision-making—internally generating the attentional goal rather than implementing an externally provided one.
 
-This distinction matters for the interface hypothesis. Evidence for top-down attention is often cited as evidence for voluntary control, but the inference is unwarranted. Top-down control can be purely automatic (task-set maintenance, learned associations). Genuine volition requires internal generation of the attentional goal.
-
-Willed attention engages distinct neural mechanisms:
-
-- **Frontal theta oscillations** (~500ms post-decision)—suggesting engagement of prefrontal decision-making processes
-- **Bidirectional frontoparietal coherence**—information flows both ways between frontal executive and parietal attention regions, versus primarily unidirectional flow during instructed attention
-- **Additional DLPFC and ACC recruitment**—regions associated with cognitive control and conflict monitoring engage more strongly
-
-These findings demonstrate that willed attention is neurally distinct from cued attention. The phenomenological difference—willed attention feels more effortful—tracks a real difference in brain function. If consciousness operates through attention, it operates specifically through the willed mode, not merely through any top-down modulation.
+Willed attention engages distinct neural mechanisms: frontal theta oscillations, bidirectional frontoparietal coherence, and additional DLPFC/ACC recruitment. The phenomenological difference—willed attention feels more effortful—tracks real neural differences. If consciousness operates through attention, it operates through the willed mode specifically.
 
 ### Stapp's Proposal
 
-Henry Stapp places attention at the centre of his quantum consciousness mechanism. The quantum Zeno effect demonstrates that rapidly observing a quantum system prevents its evolution—"freezes" it in place. Stapp proposes that mental effort (sustained attention) functions as repeated observation, holding desired neural patterns stable against decoherence.
+Henry Stapp proposes that mental effort (sustained attention) functions as repeated quantum observation, holding desired neural patterns stable via the quantum Zeno effect. On this view, consciousness is the non-physical subject that attends; attention is how consciousness influences quantum outcomes; brain states are what attention selects among.
 
-On this view:
-- **Consciousness** is the non-physical subject that attends
-- **Attention** is the act by which consciousness influences quantum outcomes
-- **Brain states** are what attention selects among
-
-Attention isn't identical to consciousness but is the mechanism by which consciousness engages causally with matter. This explains the dissociation evidence: consciousness can exist without directing attention outward (resting awareness, background phenomenology), and attentional mechanisms can operate without consciousness driving them (automatic processing, blindsight). But when consciousness *acts* on the world, it does so through attention.
+This explains the dissociation evidence: consciousness can exist without directing attention outward (resting awareness), and attentional mechanisms can operate without consciousness driving them (blindsight). But when consciousness *acts* on the world, it does so through attention.
 
 ### The Phenomenology of Effort
 
-The [phenomenology of mental effort](/concepts/mental-effort/) supports this picture. William James observed that "the free will question relates solely to the amount of effort of attention." Sustaining attention feels effortful—and if Stapp is right, it *is* effortful: each mental observation requires engagement.
+William James observed that "the free will question relates solely to the amount of effort of attention." Jeffrey Schwartz's OCD therapy provides evidence: training patients to redirect attention produces measurable brain changes (altered caudate metabolism). Mental effort has physical consequences.
 
-Jeffrey Schwartz's OCD research provides indirect evidence. His therapy trains patients to redirect attention away from obsessive thoughts. This produces measurable brain changes—altered metabolism in the caudate nucleus visible on PET scans. Patients *think* their way to neuroplastic change. Whatever the mechanism, mental effort has physical consequences.
-
-If attention is merely a physical process (neural competition, gain modulation), the feeling of effort is mysterious—why should information processing *feel* like work? But if attention is how consciousness engages with matter, the phenomenology makes sense. Holding attention is work because something non-physical is maintaining engagement.
+If attention is merely neural competition, why does it *feel* like work? But if attention is how consciousness engages matter, the phenomenology makes sense. See [mental-effort](/concepts/mental-effort/) for detailed treatment.
 
 ### Voluntary Imagery as Paradigm Case
 
-[Mental-imagery](/concepts/mental-imagery/) provides striking evidence for attention's role in consciousness-matter interaction. The distinction between voluntary and involuntary imagery maps directly onto the attention-consciousness interface:
+[Mental-imagery](/concepts/mental-imagery/) provides striking evidence. Voluntary imagery (deliberate visualization) requires LPFC activation and conscious engagement. Involuntary imagery (dreams, flashbacks) arises without either. Many aphantasics experience vivid dreams despite inability to voluntarily generate images—the neural machinery operates without the attentional control system.
 
-**Voluntary imagery** (deliberate visualization, mental rehearsal) requires both conscious engagement and lateral prefrontal cortex (LPFC) activation. When you deliberately imagine your childhood home or mentally rehearse a difficult conversation, attention directs neural resources toward generating and maintaining the image.
-
-**Involuntary imagery** (dreams, intrusive flashbacks, earworms) arises without LPFC involvement and without deliberate attentional engagement. Many aphantasics—people unable to voluntarily generate mental images—still experience vivid dreams, demonstrating that the neural machinery for imagery can operate without the attentional control system.
-
-This dissociation supports the interface hypothesis. Attention determines which imagery becomes conscious and manipulable. Motor imagery research strengthens the case: athletes who mentally rehearse movements show performance gains comparable to physical practice. Conscious rehearsal—attention directed at motor representations—produces physical improvements in motor execution. If attention were merely information filtering, this causal pathway would be puzzling. But if attention is how consciousness selects and stabilises neural patterns, motor imagery's efficacy makes sense.
-
-The aphantasia spectrum offers additional evidence. Some aphantasics show visual cortex activation during imagery tasks despite reporting no conscious experience. The imagery exists neurally; consciousness simply doesn't access it. This aligns with the interface hypothesis: imagery generation may be automatic, but attention determines which imagery enters awareness and becomes available for voluntary manipulation.
+Motor imagery strengthens the case: athletes mentally rehearsing movements show performance gains comparable to physical practice. If attention were merely information filtering, this causal pathway would be puzzling. But if attention is how consciousness selects and stabilises neural patterns, motor imagery's efficacy makes sense.
 
 ### The Decoherence Challenge
 
-A standard objection: warm biological systems cannot maintain quantum coherence long enough for the Zeno mechanism to operate. Max Tegmark's influential 2000 calculation claimed brain microtubules would decohere in femtoseconds—far too fast for attention's millisecond timescales.
+A standard objection: warm biological systems cannot maintain quantum coherence long enough. Max Tegmark calculated brain microtubules would decohere in femtoseconds.
 
-This challenge is addressed in detail in [decoherence](/concepts/decoherence/). Briefly: (1) Tegmark's calculation has been disputed—corrected models give coherence times seven orders of magnitude longer. (2) Quantum biology demonstrates that living systems can sustain coherence for functionally relevant timescales (magnetoreception maintains spin coherence for microseconds). (3) Most importantly, the Zeno mechanism doesn't require sustained coherence *between* observations—it operates through rapid repeated observation events. The relevant question is whether observation cycles can occur faster than decoherence, which may have different answers than whether coherence can be maintained passively.
+This challenge is addressed in [decoherence](/concepts/decoherence/). Briefly: Tegmark's calculation has been disputed (corrected models give coherence times seven orders longer); quantum biology shows living systems can sustain functionally relevant coherence; and the Zeno mechanism doesn't require sustained coherence *between* observations. The objection remains serious but not categorical.
 
-The decoherence objection remains a serious empirical challenge, but it's not the categorical refutation it's sometimes presented as. See [decoherence](/concepts/decoherence/) for the full treatment including 2024-2025 experimental developments.
+### Precision Weighting
 
-### Precision Weighting and Consciousness
-
-Predictive processing offers a compatible framework. Attention, on this view, is precision weighting—the brain upweighting prediction errors from sources expected to be reliable. This is a computational description of what attention *does*, not what attention *is*.
-
-The question remains: what determines precision weights? If predictive processing is merely describing neural dynamics, it leaves the hard problem untouched. But if precision weighting is how consciousness *selects* which information becomes salient—if the Stapp mechanism operates through precision signals—then predictive processing and quantum consciousness complement rather than compete.
+Predictive processing describes attention as precision weighting—upweighting prediction errors from reliable sources. This is what attention *does*, not what it *is*. If precision weighting is how consciousness selects what becomes salient, predictive processing and quantum consciousness complement rather than compete.
 
 ### Working Memory and the Interface
 
-Working memory and attention are deeply interlinked—attention determines what enters working memory, and working memory contents guide attention. This bidirectional relationship strengthens the [interface hypothesis](/concepts/attention-as-interface/).
+Working memory and attention are deeply interlinked, strengthening the [interface hypothesis](/concepts/attention-as-interface/). The Map's [coupling law research](/concepts/psychophysical-coupling-law/) notes a ~10 bits/second limit on conscious throughput—matching working memory capacity remarkably well.
 
-**The bidirectional loop.** Baddeley's central executive coordinates what information gains access to consciousness. Information in working memory is broadcast to specialised processors; this broadcasting resembles the global workspace mechanism. But the loop runs both ways: what you hold in working memory shapes what you attend to, which in turn shapes what enters working memory.
+Recent research distinguishes working memory *storage* (which can be unconscious, maintained via synaptic calcium) from *manipulation* (which requires conscious reactivation). This maps onto the Map's framework: passive storage might be purely neural; active manipulation might require consciousness's participation. Working memory manipulation could be the interface in action.
 
-**Bandwidth constraint.** the Map's [coupling law research](/concepts/psychophysical-coupling-law/) notes a ~10 bits/second limit on conscious information throughput—the bandwidth for consciousness influencing brain states. This matches working memory capacity limitations remarkably well. If attention is how consciousness acts, working memory may be consciousness's "holding space" for the information attention can operate upon.
+## Evidence from Meditation
 
-**Manipulation versus maintenance.** Recent research distinguishes working memory *storage* from working memory *manipulation*. Activity-silent states—maintained through synaptic calcium rather than sustained firing—can preserve information unconsciously. But *using* that information requires conscious reactivation. This maps onto the Map's framework: passive storage might be purely neural; active selection and manipulation might require consciousness's participation. Working memory manipulation could be the interface in action.
+Meditation research provides striking support for the [interface hypothesis](/concepts/attention-as-interface/). Two broad practice families reveal different modes of engagement:
 
-**Executive and content.** The 2025 COGITATE results found conscious perception tracked by posterior cortex, not prefrontal regions. This suggests executive functions (including working memory control) are distinct from conscious content. The interface may be precisely where these systems meet—prefrontal executive mechanisms execute control while posterior regions hold conscious content.
+**Focused Attention (FA)**: Concentration on a single object, redirecting attention when it wanders. This is *active selection*—consciousness repeatedly chooses where attention goes.
 
-Working memory isn't consciousness, but it may be where we observe consciousness working.
+**Open Monitoring (OM)**: Non-reactive awareness of whatever arises. This is *passive witnessing*—consciousness observes without intervening.
 
-## Evidence from Meditation: Training the Interface
+These produce measurably different brain states. FA increases frontal theta and ACC activation; OM reduces them and increases alpha. A neurofeedback study (Brewer et al., 2011) found meditators' posterior cingulate cortex deactivated when they reported "not efforting" and activated when they struggled.
 
-If attention is how consciousness engages with matter, we should expect that attention can be *trained*—and that different training approaches would reveal different modes of engagement. Meditation research confirms both predictions, providing striking support for the [interface hypothesis](/concepts/attention-as-interface/).
+Key implications for the interface hypothesis: attention is trainable (FA practitioners develop stronger concentration); effortlessness follows initial effort (training the brain allows consciousness to observe without constantly intervening); and both selection and witnessing are genuine modes. See [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) for detailed treatment.
 
-### Two Families of Practice
-
-Meditation traditions distinguish two broad families:
-
-**Focused Attention (FA) meditation** involves concentration on a single object—breath, mantra, or visual focus. The meditator notices when attention wanders and redirects it. This is *active selection* in action: consciousness repeatedly chooses where attention goes, strengthening the selection mechanism itself.
-
-**Open Monitoring (OM) meditation** involves non-reactive awareness of whatever arises. The meditator doesn't select a focus; all contents are equally received. This is *passive witnessing*: consciousness observes without intervening, allowing neural dynamics to unfold without Zeno-effect stabilisation.
-
-### Distinct Neural Signatures
-
-The two practices produce measurably different brain states:
-
-| Feature | Focused Attention | Open Monitoring |
-|---------|-------------------|-----------------|
-| **Phenomenology** | Effortful, focused | Effortless, open |
-| **Frontal theta** | Increased | Reduced |
-| **Alpha activity** | Suppressed | Increased |
-| **ACC activation** | High (conflict monitoring) | Low |
-| **PCC activity** | Active | Deactivated |
-| **DMN** | Actively suppressed | Passively disengaged |
-
-A neurofeedback study (Brewer et al., 2011, *PNAS*) found that when experienced meditators reported "undistracted awareness" and "not efforting," their posterior cingulate cortex deactivated. When they struggled or tried to control their experience, PCC activated. The subjective report of effortlessness corresponds to a measurable brain state.
-
-### Alpha-Theta Dynamics
-
-A 2020 study (Maheshwari & Bhowmik, *Frontiers in Psychology*) tracked alpha-theta coupling across states and found a clear gradient:
-
-- **Effortful cognition** (arithmetic): High alpha-theta coupling (2:1 harmonic)
-- **Resting state**: Medium coupling
-- **Deep meditation**: Low coupling ("mental emptiness")
-
-The pattern maps directly onto the Map's framework: selection engages the brain's executive systems (coupling increases); witnessing disengages them (coupling decreases). Alpha-theta dynamics may be a neural signature of consciousness's engagement level.
-
-### Why This Matters for the Interface Hypothesis
-
-The meditation evidence supports several claims:
-
-**Attention is trainable.** FA practitioners develop stronger concentration; the interface can be strengthened through practice. This explains how some people—meditators, athletes in flow states, trained contemplatives—report greater facility with voluntary attention.
-
-**Effortlessness follows effort.** Beginners find meditation effortful; advanced practitioners describe effortlessness. Initial effort trains the brain; later effortlessness reflects a trained brain requiring less correction. Consciousness has done its work; now it can observe without constantly intervening.
-
-**Selection and witnessing are both genuine.** The phenomenology of "letting go" is as real as the phenomenology of "trying." Consciousness can both influence matter and refrain from influencing. [Bidirectional interaction describes a capacity, not a compulsion](/concepts/meditation-and-consciousness-modes/).
-
-**Therapeutic implications.** Jeffrey Schwartz's OCD therapy trains patients to redirect attention—essentially FA meditation applied to obsessive thoughts. The neuroplasticity Schwartz documented (altered caudate metabolism) makes sense if attention really is how consciousness shapes brain states. The therapy works because it strengthens the interface.
-
-## Major Theories of Attention and Consciousness
+## Major Theories
 
 ### Global Workspace Theory
 
-Stanislas Dehaene's Global Workspace Theory holds that consciousness arises when information achieves global availability—broadcast across brain regions via prefrontal-parietal networks. Attention is the "spotlight" that brings information onto the "global workspace stage."
-
-GWT is neutral on whether consciousness is something over and above this global broadcasting. Dehaene takes a functionalist line, identifying consciousness with the broadcasting itself. The Map's framework allows for a different interpretation: global broadcasting is *what happens in the brain* when consciousness attends, not what consciousness *is*.
+Stanislas Dehaene's Global Workspace Theory holds that consciousness arises when information achieves global availability—broadcast across brain regions. Dehaene identifies consciousness with the broadcasting itself. The Map's interpretation: broadcasting is *what happens* when consciousness attends, not what consciousness *is*.
 
 ### IIT and Its Attention Problem
 
-Integrated Information Theory (Tononi) measures consciousness by Φ—the amount of integrated information a system generates. Unlike GWT, IIT initially celebrated the dissociation between attention and consciousness, treating them as distinct phenomena.
+[Integrated Information Theory](/concepts/integrated-information-theory/) measures consciousness by Φ (integrated information). A 2025 *Erkenntnis* analysis argues IIT "urgently needs an account of attention"—it fails to explain how attention affects Φ, which it must if attention modulates experience.
 
-But a 2025 analysis in *Erkenntnis* argues that IIT "urgently needs an account of attention." The critique notes that IIT fails to acknowledge attention's crucial role in generating phenomenal experience. Worse, close analysis suggests that genuine attention-consciousness dissociation may be *incompatible* with IIT's core commitments. If consciousness is integrated information and attention can modulate what we experience, IIT must explain how attention affects Φ—which it currently does not.
+### The 2025 Adversarial Testing
 
-### The 2025 Adversarial Testing Results
+The COGITATE project (2025, *Nature*) tested GWT and IIT predictions. Results "critically challenge key tenets of both theories"—neither was clearly vindicated. This suggests neither purely functionalist nor purely informational accounts capture consciousness. Something is missing; the Map's tenets point toward consciousness as an irreducible player using these mechanisms without being identical to them.
 
-The COGITATE project's 2025 adversarial collaboration published in *Nature* directly tested GWT and IIT predictions using fMRI, MEG, and intracranial EEG (n=256). The results "critically challenge key tenets of both theories." Neither theory was clearly vindicated:
+### Attention Schema Theory
 
-- Information about conscious content appeared in visual, ventrotemporal, and inferior frontal cortex
-- Both theories had some predictions confirmed and others falsified
-- The global broadcast signature GWT predicts wasn't as clean as predicted
-- IIT's predictions about the posterior cortex weren't fully supported
+Michael Graziano's [Attention Schema Theory](/concepts/attention-schema-theory/) proposes consciousness is the brain's schematic model of its own attention. Because this model omits underlying mechanism details, the brain concludes it has a "non-physical essence of awareness."
 
-This suggests neither purely functionalist (GWT) nor purely informational (IIT) accounts fully capture consciousness. Something is missing, and the Map's tenets point toward what: consciousness as an irreducible player that *uses* these mechanisms without being identical to them.
+**Why the Map rejects AST:** If consciousness is merely a model, what is doing the "seeming"? The appearance must appear *to something*. AST explains access to attention states but not phenomenal character, merely relocating the hard problem. Moreover, AST conflicts with the [Dualism](/tenets/#dualism) tenet—if consciousness is merely a neural model, there's nothing non-physical about it. See [illusionism](/concepts/illusionism/) for the broader critique.
 
-### Attention Schema Theory: An Illusionist Challenge
+### Process Philosophy
 
-Michael Graziano's [Attention Schema Theory](/concepts/attention-schema-theory/) (AST) offers a radically deflationary account. AST proposes that consciousness is simply the brain's schematic model of its own attention—like the body schema that helps us track and control our limbs, an "attention schema" helps monitor and control attention.
-
-On this view, the brain constructs a simplified, incomplete model of its attention process. Because the model omits the underlying mechanism's details, the brain concludes it has a "non-physical essence of awareness." Consciousness is an illusion generated by imperfect self-modelling.
-
-AST shares commitments with [illusionism](/concepts/illusionism/)—Dennett's and Frankish's view that phenomenal consciousness is itself the illusion. A 2025 fMRI study at MIT found the same brain regions (TPJ, STS) track both one's own attention and others' attention, supporting AST's claim that consciousness is modelled the same way we model other minds.
-
-**Why the Map rejects AST:** AST faces the same problems as all illusionist theories. If consciousness is merely a model the brain builds, what is doing the "seeming"? The appearance of experience must appear *to something*—and that something cannot be another model without infinite regress. AST explains *access* to attention states but not the phenomenal character of experience itself. It shares the hard problem's explanatory gap, merely relocating it from "why does matter generate experience?" to "why does modelling attention generate the *appearance* of experience?" The appearance is the phenomenon that needs explaining. Moreover, AST directly conflicts with the [Dualism](/tenets/#dualism) tenet: if consciousness is merely a neural model, there's nothing non-physical about it.
-
-### Process Philosophy Perspective
-
-Alfred North Whitehead's process philosophy offers a complementary framework for understanding the attention-consciousness relationship. For Whitehead, reality consists of "actual occasions"—momentary events of experience that are both physical and experiential. There is no inert matter that somehow generates consciousness; experience is woven into the fabric of reality at every level.
-
-Each moment of attention, on this view, is an actual occasion in which the subject "prehends" (grasps) its data and makes a decision about what to emphasise. The effort of attention is the effort of creative synthesis—of selecting which elements of the past become relevant to the present moment. This provides metaphysical grounding for why attention feels like genuine selection rather than mere information processing: each attentional act is a moment of becoming in which the subject determines itself.
-
-The process view complements the interface hypothesis: attention isn't consciousness's *mechanism* for influencing an alien physical world, but rather consciousness's mode of participation in a reality that has experiential character at every scale. The [pairing-problem](/concepts/pairing-problem/)—how non-physical consciousness connects to physical matter—is dissolved rather than solved: there is no fundamental gap to bridge because experience and process are primordial.
+Whitehead's process philosophy offers a complementary framework: reality consists of "actual occasions"—momentary events that are both physical and experiential. Each moment of attention is creative synthesis, selecting which elements of the past become relevant. This grounds why attention feels like genuine selection. The process view complements the interface hypothesis while dissolving the [pairing-problem](/concepts/pairing-problem/): no fundamental gap exists because experience is primordial.
 
 ## What Would Challenge This View?
 
-The Map's position on attention and consciousness would face serious difficulty if:
+The Map's position would face serious difficulty if:
 
-1. **Attention proves fully computational**: If predictive processing or similar frameworks explain all attention phenomena—including the willed/instructed distinction, the phenomenology of effort, and the neuroplasticity effects—without any explanatory remainder, there's no gap for consciousness to fill. Currently, computational theories describe what attention does but not why it feels like anything to attend.
+1. **Attention proves fully computational**: If computational theories explain all attention phenomena without explanatory remainder—currently they describe what attention does but not why it feels like anything.
 
-2. **Dissociation evidence reverses**: If future research shows that apparent consciousness-without-attention (peripheral awareness, gist perception, Block's overflow) is actually accompanied by undetected micro-attention, the equivalency theorists would be vindicated. The COGITATE results partially support dissociation, but cleaner separation is needed.
+2. **Dissociation evidence reverses**: If apparent consciousness-without-attention (peripheral awareness, gist perception) is actually accompanied by undetected micro-attention.
 
-3. **The Zeno mechanism fails**: If the quantum Zeno effect proves inoperative at neural scales and timescales—if attention cannot function as rapid observation—the specific mechanism proposed here collapses. Alternative mechanisms might salvage the interface hypothesis, but Stapp's proposal is the most developed candidate.
+3. **The Zeno mechanism fails**: If the quantum Zeno effect proves inoperative at neural scales. Alternative mechanisms might salvage the interface hypothesis, but Stapp's is the most developed.
 
-4. **Illusionism succeeds**: If a satisfactory account of how "seeming" can occur without a subject emerges, the motivation for non-physical consciousness weakens. AST and related theories would explain the phenomenology without needing an irreducible experiencer. Current illusionist accounts face the regress problem, but future developments could change this.
+4. **Illusionism succeeds**: If "seeming" can occur without a subject. Current illusionist accounts face the regress problem.
 
-5. **Many-worlds is confirmed**: If branching can be detected and quantum selection proves illusory—if all outcomes occur in different branches rather than being genuinely selected—then attention selects nothing. The interface hypothesis requires real collapse; [many-worlds](/arguments/many-worlds/) eliminates it.
+5. **Many-worlds is confirmed**: If all outcomes occur in different branches rather than being selected. The interface hypothesis requires real collapse; [many-worlds](/arguments/many-worlds/) eliminates it.
 
 ## Relation to the Map's Perspective
 
 The attention-consciousness relationship illuminates all five tenets:
 
-**[Dualism](/tenets/#dualism)**: The dissociation evidence suggests consciousness cannot be reduced to attentional mechanisms. Attention is a process; consciousness is a subject. The process serves the subject, but isn't identical to it.
+**[Dualism](/tenets/#dualism)**: Dissociation evidence suggests consciousness cannot be reduced to attentional mechanisms. Attention is a process; consciousness is a subject.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Attention may be the specific mechanism by which consciousness influences quantum indeterminacies. Stapp's quantum Zeno approach makes this concrete: sustained attention is repeated observation, and repeated observation shapes which quantum states become actual.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Attention may be how consciousness influences quantum indeterminacies—sustained attention as repeated observation shaping which states become actual.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The neuroplasticity evidence (Schwartz's OCD therapy) demonstrates downward causation. Directed attention changes brain structure. This is hard to explain if consciousness is epiphenomenal.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Neuroplasticity evidence (Schwartz's OCD therapy) demonstrates downward causation. Directed attention changes brain structure.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: If attention operates through quantum selection, it presupposes real collapse. Attention selects among possibilities; it doesn't split into branches attending to each.
+**[No Many Worlds](/tenets/#no-many-worlds)**: If attention operates through quantum selection, it presupposes real collapse—selection among possibilities, not splitting into branches.
 
-**[Occam's Razor Has Limits](/tenets/#occam)**: The debate between equivalency and dissociationist views, the refrigerator-light problem, the multiple competing theories—all suggest consciousness and attention resist simple identification. The phenomenon is more complex than reductive theories admit.
+**[Occam's Razor Has Limits](/tenets/#occam)**: Multiple competing theories and the methodological challenge suggest consciousness and attention resist simple identification.
 
 ## Further Reading
 
-- [voluntary-attention](/concepts/voluntary-attention/) — The willed-instructed-exogenous distinction and why top-down ≠ voluntary
-- [mental-imagery](/concepts/mental-imagery/) — Voluntary vs involuntary imagery as evidence for attention-mediated conscious control
-- [voluntary-attention](/concepts/voluntary-attention/) — The endogenous/willed attention distinction and its neural signatures
-- [attention-as-interface](/concepts/attention-as-interface/) — The hypothesis that attention mediates consciousness's causal influence on matter
-- [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — FA/OM meditation as evidence for active selection and passive witnessing modes
-- [mental-effort](/concepts/mental-effort/) — Detailed treatment of phenomenology of effort and Stapp's mechanism
-- [decoherence](/concepts/decoherence/) — The challenge of quantum coherence in warm biological systems and responses
-- [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding consciousness
-- [agent-causation](/concepts/agent-causation/) — The philosophical framework for conscious initiation of action
-- [pairing-problem](/concepts/pairing-problem/) — How non-physical consciousness connects to physical matter
-- [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) — Bandwidth constraints and the ~10 bits/second limit
+- [voluntary-attention](/concepts/voluntary-attention/) — The willed-instructed-exogenous distinction
+- [attention-as-interface](/concepts/attention-as-interface/) — Attention mediates consciousness's causal influence on matter
+- [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — FA/OM meditation and selection vs witnessing modes
+- [mental-effort](/concepts/mental-effort/) — Phenomenology of effort and Stapp's mechanism
+- [mental-imagery](/concepts/mental-imagery/) — Voluntary vs involuntary imagery
+- [decoherence](/concepts/decoherence/) — Quantum coherence in biological systems
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum consciousness mechanisms
-- [functionalism](/arguments/functionalism/) — The view that consciousness is defined by functional role
-- [illusionism](/concepts/illusionism/) — The view that phenomenal consciousness is systematically misrepresented
-- [attention-schema-theory](/concepts/attention-schema-theory/) — Graziano's specific illusionist theory and the Map's critique
+- [attention-schema-theory](/concepts/attention-schema-theory/) — Graziano's theory and the Map's critique
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why attention alone can't solve the hard problem
-- [attention-consciousness-relationship-2026-01-15](/research/attention-consciousness-relationship-2026-01-15/) — Detailed research notes
-- [consciousness-working-memory-2026-01-17](/research/consciousness-working-memory-2026-01-17/) — Research on working memory and consciousness
 
 ## References
 

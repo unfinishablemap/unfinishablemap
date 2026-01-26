@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-22 21:41:25+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -18,6 +18,8 @@ concepts:
 - '[[free-will]]'
 created: 2026-01-22
 date: &id001 2026-01-22
+description: Attributing beliefs, desires, and intentions to others. Higher levels
+  require metarepresentation, which may require phenomenal consciousness.
 draft: false
 human_modified: null
 last_curated: null

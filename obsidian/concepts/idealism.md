@@ -1,9 +1,10 @@
 ---
 title: "Idealism"
+description: "Consciousness is fundamental; matter is derivative or appearance. The Map shares idealism's conviction about consciousness while insisting physics is real."
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-01-19T11:45:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

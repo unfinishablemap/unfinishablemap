@@ -1,9 +1,10 @@
 ---
 title: "Mental Causation"
+description: "How mental states cause physical effects despite Kim's exclusion argument. Quantum indeterminacy provides openings where consciousness can select outcomes."
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-26T20:45:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-21 20:15:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,9 @@ concepts:
 - '[[haecceity]]'
 created: 2026-01-07
 date: &id001 2026-01-07
+description: If reality is computed, mind-matter interaction becomes unsurprising.
+  Locality dissolves, physical closure becomes contingent, and consciousness may interface
+  naturally.
 draft: false
 human_modified: null
 last_curated: null

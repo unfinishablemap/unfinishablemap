@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-19 13:30:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,6 +16,8 @@ concepts:
 - '[[buddhism-and-dualism]]'
 created: 2026-01-19
 date: &id001 2026-01-19
+description: Why consciousness resists reduction to physical processes. The explanatory
+  gap, hard problem, and multiple realizability converge on irreducibility.
 draft: false
 human_modified: null
 last_curated: null

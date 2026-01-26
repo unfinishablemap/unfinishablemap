@@ -1,9 +1,10 @@
 ---
 title: "The Mind-Matter Interface: Unifying Filter Theory and Quantum Selection"
+description: "A two-layer architecture unifying filter theory and quantum selection. The brain transmits consciousness and provides interaction points."
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T18:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

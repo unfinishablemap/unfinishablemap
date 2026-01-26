@@ -1,9 +1,10 @@
 ---
 title: "Neural Quantum Coherence"
+description: "Can quantum effects persist in warm brains? Evidence from 2024-2025 suggests yes: revised estimates extend coherence times by seven orders of magnitude."
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-25T00:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

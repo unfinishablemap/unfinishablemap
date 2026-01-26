@@ -1,9 +1,10 @@
 ---
 title: "Existentialism"
+description: "Existence precedes essence: we create ourselves through choices. Dualism grounds the freedom existentialism assumes but never explains."
 created: 2026-01-06
 modified: 2026-01-21
 human_modified:
-ai_modified: 2026-01-21T00:15:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"

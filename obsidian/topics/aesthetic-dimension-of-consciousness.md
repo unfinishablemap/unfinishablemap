@@ -1,9 +1,10 @@
 ---
 title: "The Aesthetic Dimension of Consciousness"
+description: "Beauty, elegance, and aesthetic quality pervade conscious experience. Why does anything seem beautiful? The aesthetic dimension resists physical reduction."
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T05:30:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 last_deep_review: 2026-01-22T05:30:00+00:00
 topics:

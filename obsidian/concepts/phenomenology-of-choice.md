@@ -1,9 +1,10 @@
 ---
 title: "Phenomenology of Choice"
+description: "The experiential structure of deliberation and decision-making: felt weight of options, moment of resolution, and sense of authorship."
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T14:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"

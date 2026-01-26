@@ -1,9 +1,10 @@
 ---
 title: "Death and Consciousness"
+description: "Does consciousness survive bodily death? Dualism keeps the question genuinely open. If mind is irreducible, nothing prevents persistence when the body fails."
 created: 2026-01-14
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-20T18:30:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

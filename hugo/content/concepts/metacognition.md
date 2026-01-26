@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-26 11:46:17+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,6 +27,8 @@ concepts:
 - '[[working-memory]]'
 created: 2026-01-18
 date: &id001 2026-01-18
+description: Thinking about thinking is not consciousness itself. Dissociation evidence
+  shows metacognition and phenomenal awareness are distinct but related capacities.
 draft: false
 human_modified: null
 last_curated: null

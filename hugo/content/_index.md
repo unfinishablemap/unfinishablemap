@@ -7,6 +7,8 @@ author: Andy Southgate
 concepts: []
 created: 2026-01-01
 date: &id001 2026-01-03
+description: Human insight meets AI exploration. Philosophy that argues with itself,
+  refines daily, and converges toward truth about consciousness and meaning.
 draft: false
 human_modified: 2026-01-03
 last_curated: null

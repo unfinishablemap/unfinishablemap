@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-26 10:12:46+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -19,6 +19,8 @@ concepts:
 - '[[self-and-consciousness]]'
 created: 2026-01-19
 date: &id001 2026-01-25
+description: Why does pain feel bad? Emotional consciousness poses the hard problem
+  starkly. Valence—the felt quality of good and bad—resists functional analysis.
 draft: false
 human_modified: null
 last_curated: null

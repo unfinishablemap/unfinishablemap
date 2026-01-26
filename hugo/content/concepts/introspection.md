@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-22 07:32:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,6 +21,8 @@ concepts:
 - '[[the-unobservable-self]]'
 created: 2026-01-15
 date: &id001 2026-01-15
+description: Our primary access to consciousness is contested. But critiques target
+  causal processes, not phenomenal content—what it's like remains accessible.
 draft: false
 human_modified: null
 last_curated: null

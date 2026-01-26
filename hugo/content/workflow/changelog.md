@@ -18,6 +18,144 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 12:00 UTC - condense
+
+- **Status**: Success
+- **File**: obsidian/concepts/self-and-consciousness.md
+- **Before**: 4184 words
+- **After**: 1752 words
+- **Reduction**: 58%
+- **Technique**: Trimmed Minimal/Narrative Self section (removed redundancy), condensed Autonoetic Consciousness section (linked to dedicated article), heavily cut Metacognition section (deferred detail to linked articles, removed extended Jourdain tables and examples), tightened Metzinger's Challenge (kept core argument), condensed Buddhist No-Self (deferred to buddhism-and-dualism), trimmed Binding Connection and Testability sections, reduced Further Reading from 17 to 9 entries
+
+---
+
+## 2026-01-26 19:39 UTC - condense
+
+- **Status**: Success
+- **File**: obsidian/concepts/luck-objection.md
+- **Before**: 4189 words
+- **After**: 1747 words
+- **Reduction**: 58%
+- **Technique**: Cut redundant Process Philosophy section (tangential, could be separate article), removed duplicate "What Would Challenge" section (redundant with "What Would Make Luck Objection Succeed"), tightened Van Inwagen/Mele summaries, compressed Kane's SFAs, streamlined Map's framework presentation, trimmed contemplative evidence to essentials, condensed Relation to Site Perspective, reduced Further Reading links from 14 to 7
+
+---
+
+## 2026-01-27 - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: 35 topics, 100+ concepts, tenets, apex articles, recent deep reviews
+- **Report created**: `obsidian/reviews/optimistic-2026-01-27.md`
+- **Key findings**:
+  - Strong multi-perspective support from Chalmers, Stapp, Nagel, Whitehead, Kane, and McGinn perspectives
+  - *C. elegans* example powerfully demonstrates structural knowledge doesn't yield phenomenal knowledge
+  - Self-stultification argument against epiphenomenalism presented with exceptional clarity
+  - Conservation-laws-and-mind article strengthens physical plausibility of quantum interface
+  - Integration of process philosophy throughout demonstrates genuine philosophical synthesis
+- **Expansion opportunities identified**:
+  - Phenomenology of recursive thought (how recursive thinking feels)
+  - Unified treatment of attention as mind-matter interface
+  - Dreams and consciousness (natural laboratory for interface)
+  - Phenomenology of intellectual effort (what it's like to find argument compelling)
+  - Emotional consciousness and value integration
+- **New concept pages suggested**:
+  - Selection laws (from psychophysical-laws-framework)
+  - Phenomenal binding (how distributed processing becomes unified)
+  - Reasons-responsiveness (tracking normative relationships)
+- **Tasks added to todo.md**: 8 new P3 tasks
+
+---
+
+## 2026-01-26 19:18 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: obsidian/concepts/downward-causation.md
+- **Context**: Cross-review considering psychophysical-laws-framework.md
+- **Word count**: 3208 → ~3200 (length-neutral)
+- **Critical issues addressed**: 0 (none found—previous review achieved stability)
+- **Medium issues addressed**: 3
+  1. Added cross-link and selection laws terminology from [psychophysical-laws-framework](/topics/psychophysical-laws-framework/)
+  2. Revised quantum mechanism section to acknowledge multiple proposals (Stapp, Eccles, valence)
+  3. Replaced quantum Zeno decoherence response with bandwidth constraint argument
+- **Enhancements made**: Tightened Kim's argument and overdetermination sections for length neutrality
+- **Output**: `reviews/deep-review-2026-01-26-downward-causation.md`
+
+---
+
+## 2026-01-26 19:07 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: obsidian/concepts/measurement-problem.md
+- **Context**: Cross-review considering spontaneous-collapse-theories.md
+- **Word count**: 2444 → 2494 (+50)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  1. Added cross-link and integration with [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
+  2. Added prebiotic collapse problem mention and CSL-IIT hybrid reference
+  3. Added [free-will](/topics/free-will/) connection to concepts and Further Reading
+- **Enhancements made**: Removed 3 generic Stanford Encyclopedia references for length neutrality
+- **Output**: `reviews/deep-review-2026-01-26-measurement-problem.md`
+
+---
+
+## 2026-01-26 19:01 UTC - deep-review
+
+- **Status**: Success
+- **File**: obsidian/concepts/epiphenomenalism.md
+- **Word count**: 2646 → 2588 (-58)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2
+  1. Expanded functionalist response to explain how functionalism claims to dissolve tracking puzzle
+  2. Rewrote contemplative neuroscience conclusion to acknowledge theory-neutrality of evidence
+- **Enhancements made**: Trimmed verbose passages in amplification section for length-neutral editing
+- **Output**: `reviews/deep-review-2026-01-26-epiphenomenalism.md`
+
+---
+
+## 2026-01-26 - condense
+
+- **Status**: Success
+- **File**: obsidian/concepts/neurophenomenology.md
+- **Before**: 4243 words
+- **After**: 1811 words
+- **Reduction**: 57%
+- **Technique**: Cut redundant explanations; trimmed extended Varela method and Shamatha Project detail; condensed contemplative science section (merged temporal/self/jhana findings); shortened microphenomenology applications; reduced DMN interpretation speculation; condensed illusionist challenge from three subsections to unified response; trimmed process philosophy section; shortened "what would challenge" to concise list; tightened tenet connections while preserving all five
+
+---
+
+## 2026-01-26 - condense
+
+- **Status**: Success
+- **File**: obsidian/concepts/attention.md
+- **Before**: 4190 words
+- **After**: 2010 words
+- **Reduction**: 52%
+- **Technique**: Cut redundancy throughout (repeated explanations, multiple examples making same points); trimmed standard background material (linked instead to decoherence, mental-effort, meditation-and-consciousness-modes); condensed verbose prose; shortened theory survey sections; reduced Further Reading from 18 to 9 entries
+
+---
+
+## 2026-01-26 23:45 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**:
+  - `topics/psychophysical-laws-framework.md`
+  - `topics/vertiginous-question.md`
+  - `concepts/specious-present.md`
+- **Critical issues identified**: 6
+  1. Psychophysical laws framework conflates programmatic hope with scientific status
+  2. Vertiginous question's unanswerable-ness treated as evidence rather than diagnosis of confusion
+  3. Specious present's quantum connection relies on unverified/uncited coherence estimates
+  4. "Selection laws" concept conflates different kinds of influence (attention/intention/effort/valence)
+  5. Haecceity assumed throughout rather than argued for
+  6. Illusionist challenge handled inconsistently across three different response strategies
+- **Counterarguments to address**: 3
+  - The confused question challenge (vertiginous question might be confused, not deep)
+  - The framework unfalsifiability challenge (what would refute psychophysical laws?)
+  - Multiple realizability of temporal experience (specious present may be implementation-specific)
+- **Output**: `reviews/pessimistic-2026-01-26-late.md`
+- **Summary**: This cluster addresses foundational metaphysical questions—how mind/matter relate lawfully, why *this* consciousness exists, and what temporal thickness reveals. All three articles share a fundamental vulnerability: treating philosophical puzzles as evidence for the Map's framework rather than as puzzles requiring solution. The vertiginous question's resistance to answers becomes argument for haecceity rather than potential sign of confusion. The specious present's computational resistance becomes evidence for quantum involvement rather than for incomplete understanding of computation. Sophisticated about philosophy but optimistic about physics—backwards for a project claiming empirical grounding.
+
+---
+
 ## 2026-01-26 20:45 UTC - deep-review
 
 - **Status**: Success

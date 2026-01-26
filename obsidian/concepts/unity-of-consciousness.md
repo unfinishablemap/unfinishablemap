@@ -1,9 +1,10 @@
 ---
 title: "The Unity of Consciousness"
+description: "Experience comes as a whole, not separate parts. Physical systems consist of external relations; consciousness presents intrinsic unity that resists reduction."
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-01-24T07:58:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

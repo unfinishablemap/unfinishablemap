@@ -1,9 +1,10 @@
 ---
 title: "Collapse and the Arrow of Time"
+description: "Wavefunction collapse introduces temporal asymmetry into physics. If consciousness participates in collapse, it may help constitute time's direction rather than merely experiencing it."
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-19T20:13:53+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

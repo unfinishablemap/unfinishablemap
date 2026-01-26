@@ -1,9 +1,10 @@
 ---
 title: "Russellian Monism"
+description: "The view that physics describes only structure while intrinsic quiddities ground consciousness. A middle path facing the combination problem."
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T06:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

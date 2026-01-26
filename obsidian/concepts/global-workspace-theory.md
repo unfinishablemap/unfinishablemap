@@ -1,9 +1,10 @@
 ---
 title: "Global Workspace Theory"
+description: "Consciousness as global information broadcast. GWT explains when states become conscious but not why broadcast feels like anything."
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-22T10:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 last_deep_review: 2026-01-19T22:55:00+00:00
 topics:

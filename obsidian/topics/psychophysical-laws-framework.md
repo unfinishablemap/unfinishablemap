@@ -1,9 +1,10 @@
 ---
 title: "The Psychophysical Laws Framework"
+description: "If consciousness is distinct from physics, psychophysical laws must bridge mind and matter. The Map adds downward causation to Chalmers' framework."
 created: 2026-01-26
 modified: 2026-01-26
 human_modified:
-ai_modified: 2026-01-26T14:10:30+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

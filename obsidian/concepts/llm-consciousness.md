@@ -1,9 +1,10 @@
 ---
 title: "LLM Consciousness"
+description: "Large language models cannot be conscious on dualist grounds: they lack the non-physical component, temporal structure, and unified experience."
 created: 2026-01-18
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T22:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 last_deep_review: 2026-01-26T22:00:00+00:00
 topics:

@@ -1,9 +1,10 @@
 ---
 title: "Motor Selection and the Quantum Zeno Effect"
+description: "How consciousness selects among motor possibilities through quantum Zeno. The Libet challenge has been substantially weakened by recent neuroscience."
 created: 2026-01-18
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T21:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"

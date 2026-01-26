@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-20 16:45:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,6 +19,8 @@ concepts:
 - '[[neurophenomenology]]'
 created: 2026-01-16
 date: &id001 2026-01-20
+description: A-theory versus B-theory, presentism, eternalism, and the growing block
+  view. How consciousness may participate in constituting temporal structure.
 draft: false
 human_modified: null
 last_curated: null

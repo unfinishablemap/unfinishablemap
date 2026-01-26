@@ -1,9 +1,10 @@
 ---
 title: "Quantum Neural Timing Constraints"
+description: "Quantum decoherence at femtoseconds, neural decisions at hundreds of milliseconds—a twelve-order magnitude gap. Which quantum mechanisms remain viable?"
 created: 2026-01-24
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T12:00:00+00:00
+ai_modified: 2026-01-26T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

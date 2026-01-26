@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-22 04:56:00+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,6 +25,8 @@ concepts:
 - '[[metacognition]]'
 created: 2026-01-21
 date: &id001 2026-01-21
+description: 'From nematodes to slime molds: where does consciousness begin? The distribution
+  puzzle may have no principled answer if mind interfaces with matter.'
 draft: false
 human_modified: null
 last_curated: null

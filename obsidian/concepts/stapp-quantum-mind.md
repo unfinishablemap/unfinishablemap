@@ -1,9 +1,10 @@
 ---
 title: "Stapp's Quantum Mind Model"
+description: "Mental effort operates through the quantum Zeno effect: rapid attention holds neural patterns against decay, providing a mechanism for mind-matter interaction."
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-26T13:07:18+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"

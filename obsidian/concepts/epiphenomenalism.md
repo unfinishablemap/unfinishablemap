@@ -1,5 +1,6 @@
 ---
 title: "Epiphenomenalism"
+description: "The view that consciousness is causally inert faces the self-stultification problem: if true, we could not know it."
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null

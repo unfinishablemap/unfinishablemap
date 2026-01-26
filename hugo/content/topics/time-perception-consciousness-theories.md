@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-25 09:45:00+00:00
+ai_modified: 2026-01-26 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,6 +18,8 @@ concepts:
 - '[[phenomenology-of-choice]]'
 created: 2026-01-23
 date: &id001 2026-01-25
+description: Consciousness theories explain sub-300ms moments, but experience spans
+  seconds. The failure to explain extended temporal phenomenology strengthens dualism.
 draft: false
 human_modified: null
 last_curated: null

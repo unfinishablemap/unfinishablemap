@@ -1,9 +1,10 @@
 ---
 title: "Prebiotic Collapse: What Selected Outcomes Before Minds?"
+description: "How quantum wave functions collapsed before conscious observers existed. Objective reduction provides baseline collapse; consciousness modulates."
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-20T12:30:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -1,9 +1,10 @@
 ---
 title: "Agent Causation"
+description: "Agent causation holds that persons originate actions directly, not through prior events. Central to libertarian free will and interactionist dualism."
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-26T12:39:38+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"

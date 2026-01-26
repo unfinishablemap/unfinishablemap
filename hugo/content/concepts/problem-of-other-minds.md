@@ -18,6 +18,8 @@ concepts:
 - '[[objectivity-and-consciousness]]'
 created: 2026-01-14
 date: &id001 2026-01-23
+description: How can we know others are conscious? The epistemic asymmetry between
+  first-person certainty and third-person inference.
 draft: false
 human_modified: null
 last_curated: null

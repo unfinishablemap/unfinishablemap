@@ -1,9 +1,10 @@
 ---
 title: "Metarepresentation and Phenomenal Consciousness"
+description: "Knowing that you know requires consciousness. Great apes possess knowledge but may not represent their knowledge as knowledge—the Jourdain Hypothesis."
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-22T14:00:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

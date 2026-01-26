@@ -1,12 +1,14 @@
 ---
 ai_contribution: 0
 ai_generated_date: null
-ai_modified: null
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
 created: 2026-01-06
 date: &id001 2026-01-06
+description: Core philosophical concepts referenced throughout The Unfinishable Map.
+  Building blocks for topic discussions, from qualia to quantum consciousness.
 draft: false
 human_modified: 2026-01-06
 last_curated: null

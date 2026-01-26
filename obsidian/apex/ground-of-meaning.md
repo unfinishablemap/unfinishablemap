@@ -1,9 +1,10 @@
 ---
 title: "The Ground of Meaning"
+description: "Meaning requires consciousness. Understanding involves irreducible phenomenal character that symbol manipulation—including AI systems—cannot achieve."
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-24T21:50:00+00:00
+ai_modified: 2026-01-26T22:10:00+00:00
 draft: false
 topics: []
 concepts:

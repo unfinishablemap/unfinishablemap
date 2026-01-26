@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-25 11:00:00+00:00
+ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -24,6 +24,8 @@ concepts:
 - '[[voluntary-attention]]'
 created: 2026-01-22
 date: &id001 2026-01-25
+description: What it is like to be in a mental state—the subjective quality of experience.
+  The hard problem's core and the primary reason for rejecting materialism.
 draft: false
 human_modified: null
 last_curated: null

@@ -1,9 +1,10 @@
 ---
 title: "Mental Effort and the Quantum Zeno Effect"
+description: "The phenomenology of effortful attention as evidence for consciousness-matter interaction. Stapp's quantum Zeno mechanism explains why focus feels like work."
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-26T10:25:00+00:00
+ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
