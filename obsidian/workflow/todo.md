@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense metacognition.md (4927 words, 141% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers thinking about thinking, self-monitoring, and cognitive self-regulation. Preserve core metacognitive distinctions while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P2: Condense episodic-memory.md (4903 words, 140% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers autobiographical memory, mental time travel, and the autonoetic consciousness connection. Preserve core arguments about episodic memory's phenomenal character while deferring details. See /condense skill.
@@ -302,6 +296,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense metacognition.md (4927 words, 141% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers thinking about thinking, self-monitoring, and cognitive self-regulation. Preserve core metacognitive distinctions while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/metacognition.md
 
 ### ✓ 2026-01-26: Condense ethics-of-consciousness.md (5034 words, 126% of target)
 - **Type**: condense
