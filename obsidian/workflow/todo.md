@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review attention-motor-quantum-interface.md considering dopamine-selection-interface insights
-- **Type**: cross-review
-- **Notes**: New article concepts/dopamine-selection-interface.md explores dopamine's role in the attention-motor quantum interface. Check attention-motor-quantum-interface.md for: (1) cross-links to dopamine discussion, (2) consistency with salience/selection mechanisms described, (3) opportunities to strengthen the interface model.
-- **Source**: chain (from dopamine-selection-interface.md)
-- **Generated**: 2026-01-26
-
 ### P2: Cross-review motor-selection.md considering dopamine-selection-interface insights
 - **Type**: cross-review
 - **Notes**: New article concepts/dopamine-selection-interface.md discusses dopamine's role in motor selection. Check motor-selection.md for: (1) cross-links to dopamine mechanisms, (2) reinforcement of Quantum Zeno framework with neurochemical details, (3) consistency in how selection is described.
@@ -314,6 +308,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Cross-review attention-motor-quantum-interface.md considering dopamine-selection-interface insights
+- **Type**: cross-review
+- **Notes**: New article concepts/dopamine-selection-interface.md explores dopamine's role in the attention-motor quantum interface. Check attention-motor-quantum-interface.md for: (1) cross-links to dopamine discussion, (2) consistency with salience/selection mechanisms described, (3) opportunities to strengthen the interface model.
+- **Output**: obsidian/concepts/attention-motor-quantum-interface.md -- Context: Cross-review attention-motor-quantum-interface.md considering dopamine-selection-interface insights
 
 ### ✓ 2026-01-26: Create concept page for voluntary-attention-control
 - **Type**: expand-topic
