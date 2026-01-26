@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review whether-real.md considering defended-territory insights
-- **Type**: cross-review
-- **Notes**: New article voids/defended-territory.md (2026-01-25) develops the "Occluded" category and raises the question of whether some avoidance could be content-specific and externally imposed. The whether-real.md article examines the ontological status of voids and should engage with whether defended territories have different reality status than merely unexplored voids. Check for: (1) cross-links to defended-territory, (2) whether the Occluded category affects the arguments about void reality.
-- **Source**: chain (from defended-territory.md)
-- **Generated**: 2026-01-26
-
 ### P2: Address deflationary challenge to intersubjectivity.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review 2026-01-25 (evening) found the article's central argument faces unaddressed deflationary challenge. The discourse argument claims cross-cultural phenomenological vocabulary evidences real phenomenology, but convergent neural architecture could equally explain convergent vocabulary. The article acknowledges the skeptic's response but dismisses it: "The specificity of the convergence... suggests something is being tracked." This doesn't distinguish tracking phenomenology from tracking neural organization. Either strengthen the response (explain why vocabulary convergence cannot be explained by architecture alone) or acknowledge this as open.
@@ -272,6 +266,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Cross-review whether-real.md considering defended-territory insights
+- **Type**: cross-review
+- **Notes**: New article voids/defended-territory.md (2026-01-25) develops the "Occluded" category and raises the question of whether some avoidance could be content-specific and externally imposed. The whether-real.md article examines the ontological status of voids and should engage with whether defended territories have different reality status than merely unexplored voids. Check for: (1) cross-links to defended-territory, (2) whether the Occluded category affects the arguments about void reality.
+- **Output**: obsidian/voids/whether-real.md -- Context: Cross-review whether-real.md considering defended-territory insights
 
 ### ✓ 2026-01-25: Write voids article on tenet-generated voids
 - **Type**: expand-topic
