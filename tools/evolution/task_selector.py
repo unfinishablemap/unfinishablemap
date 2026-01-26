@@ -105,6 +105,13 @@ def task_to_skill(task: Task) -> SkillInvocation:
         file_path = _extract_file_path(task.title, task.notes)
         return SkillInvocation("condense", file_path)
 
+    elif task_type == TaskType.CROSS_REVIEW:
+        # Cross-review: review a file considering insights from new content
+        # Title like "Cross-review whether-real.md considering defended-territory insights"
+        file_path = _extract_file_path(task.title, task.notes)
+        # Pass full title as context so deep-review knows what to consider
+        return SkillInvocation("deep-review", f"{file_path} -- Context: {task.title}")
+
     elif task_type == TaskType.OTHER:
         # OTHER is explicitly unsupported - tasks must have a specific type
         log.error(

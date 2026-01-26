@@ -30,6 +30,7 @@ class TaskType(Enum):
     PESSIMISTIC_REVIEW = "pessimistic-review"
     OPTIMISTIC_REVIEW = "optimistic-review"
     DEEP_REVIEW = "deep-review"
+    CROSS_REVIEW = "cross-review"
     CONDENSE = "condense"
     OTHER = "other"
 
