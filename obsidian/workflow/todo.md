@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Condense binding-problem.md (5918 words, 237% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 2500-word hard threshold for concepts/. Critical length violation—168% over limit. The binding problem is foundational but at nearly 6000 words the article has become unwieldy. Preserve core arguments (simultaneity problem, integration challenge, quantum binding proposal) while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P1: Condense attention-as-interface.md (5813 words, 233% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 2500-word hard threshold for concepts/. Critical length violation—133% over limit. Core interface article for the site but needs aggressive condensation. Preserve: attention mechanisms, quantum zeno connection, Stapp's mental effort framework. Delegate detailed evidence to linked articles (voluntary-attention.md, stapp-quantum-mind.md).
@@ -296,6 +290,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense binding-problem.md (5918 words, 237% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for concepts/. Critical length violation—168% over limit. The binding problem is foundational but at nearly 6000 words the article has become unwieldy. Preserve core arguments (simultaneity problem, integration challenge, quantum binding proposal) while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/binding-problem.md
 
 ### ✓ 2026-01-26: Cross-review whether-real.md considering defended-territory insights
 - **Type**: cross-review

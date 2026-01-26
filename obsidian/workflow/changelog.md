@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 07:58 UTC - condense
+
+**Status**: Success
+**File**: concepts/binding-problem.md
+**Before**: 5918 words
+**After**: 1930 words
+**Reduction**: 67%
+**Technique**: Cut redundant background (illusionist challenge detail, GWT/IIT extended discussion), condensed episodic memory and sleep sections, removed language binding case study (deferred to linked article), trimmed mind-brain division section, tightened quantum alternative while preserving experimental evidence. Preserved opening summary, BP1/BP2 distinction, core quantum argument, tenet connections, and references.
+
+---
+
 ## 2026-01-26 12:00 UTC - deep-review (cross-review)
 
 **Status**: Success
