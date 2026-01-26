@@ -17,6 +17,57 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 23:45 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**:
+  - `topics/psychophysical-laws-framework.md`
+  - `topics/vertiginous-question.md`
+  - `concepts/specious-present.md`
+- **Critical issues identified**: 6
+  1. Psychophysical laws framework conflates programmatic hope with scientific status
+  2. Vertiginous question's unanswerable-ness treated as evidence rather than diagnosis of confusion
+  3. Specious present's quantum connection relies on unverified/uncited coherence estimates
+  4. "Selection laws" concept conflates different kinds of influence (attention/intention/effort/valence)
+  5. Haecceity assumed throughout rather than argued for
+  6. Illusionist challenge handled inconsistently across three different response strategies
+- **Counterarguments to address**: 3
+  - The confused question challenge (vertiginous question might be confused, not deep)
+  - The framework unfalsifiability challenge (what would refute psychophysical laws?)
+  - Multiple realizability of temporal experience (specious present may be implementation-specific)
+- **Output**: `reviews/pessimistic-2026-01-26-late.md`
+- **Summary**: This cluster addresses foundational metaphysical questions—how mind/matter relate lawfully, why *this* consciousness exists, and what temporal thickness reveals. All three articles share a fundamental vulnerability: treating philosophical puzzles as evidence for the Map's framework rather than as puzzles requiring solution. The vertiginous question's resistance to answers becomes argument for haecceity rather than potential sign of confusion. The specious present's computational resistance becomes evidence for quantum involvement rather than for incomplete understanding of computation. Sophisticated about philosophy but optimistic about physics—backwards for a project claiming empirical grounding.
+
+---
+
+## 2026-01-26 20:45 UTC - deep-review
+
+- **Status**: Success
+- **File**: obsidian/concepts/mental-causation.md
+- **Context**: Cross-review considering psychophysical-laws-framework
+- **Word count**: 2907 → 2908 (+1 word, length-neutral)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (missing psychophysical-laws-framework cross-reference)
+- **Enhancements made**: 2 (added framework link with supervenience/selection laws distinction, added to Further Reading)
+- **Output**: `reviews/deep-review-2026-01-26-mental-causation.md`
+- **Summary**: Second deep review (cross-review). Integrated psychophysical-laws-framework reference into Specification Challenge section, explaining the distinction between supervenience laws and selection laws. Article at soft threshold (116%), so operated in length-neutral mode—tightened mechanism list descriptions to offset additions. Article has reached stability; main philosophical standoffs (MWI, illusionism, decoherence) are acknowledged as ongoing debates rather than resolvable issues.
+
+---
+
+## 2026-01-26 18:01 UTC - deep-review
+
+- **Status**: Success
+- **File**: obsidian/concepts/psychophysical-laws.md
+- **Context**: Cross-review considering psychophysical-laws-framework.md insights
+- **Word count**: 3234 → 3180 (-54 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (decoherence language consistency, phenomenology skepticism acknowledgment, framework cross-reference, falsifiability section redundancy)
+- **Enhancements made**: 4 (cross-reference to framework article, balanced decoherence presentation, strengthened contemplative evidence with skeptic response, condensed falsifiability section)
+- **Output**: `reviews/deep-review-2026-01-26-psychophysical-laws.md`
+- **Summary**: Cross-review to ensure consistency with newly reviewed framework article. Updated decoherence language to match framework's balanced presentation of physics consensus. Added acknowledgment that phenomenology might be confabulation with Map's principled response. Added cross-references to framework article in opening, related_articles, and Further Reading. Condensed falsifiability section to reduce redundancy with framework article. Article approaching stability after second review.
+
+---
+
 ## 2026-01-26 20:30 UTC - deep-review
 
 - **Status**: Success

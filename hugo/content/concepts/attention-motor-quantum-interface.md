@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-24 10:34:00+00:00
+ai_modified: 2026-01-26 12:18:15+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,12 +17,13 @@ concepts:
 - '[[libet-experiments]]'
 - '[[quantum-neural-timing-constraints]]'
 - '[[quantum-decoherence-objection]]'
+- '[[dopamine-selection-interface]]'
 created: 2026-01-23
-date: &id001 2026-01-23
+date: &id001 2026-01-26
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-24 10:34:00+00:00
+last_deep_review: 2026-01-26 12:18:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -139,16 +140,9 @@ The phasic timescale is where quantum selection may operate. While tonic dopamin
 
 ### Dopamine and Salience
 
-Dopamine mediates **salience**—the neural process by which certain stimuli or internal states gain prominence and preferentially capture cognitive and behavioral resources. The salience network (anterior cingulate, ventral anterior insula, amygdala, ventral striatum) shows reduced connectivity after dopamine depletion.
+Dopamine mediates **salience**—the neural process by which certain stimuli or internal states gain prominence and preferentially capture cognitive and behavioral resources. Berridge and Robinson's dissociation between "wanting" (dopamine-dependent incentive salience) and "liking" (opioid-dependent hedonic pleasure) clarifies this: dopamine marks options as worth pursuing without determining whether pursuit succeeds. Parkinson's patients retain normal hedonic ratings while losing motivational drive.
 
-Berridge and Robinson's work on "wanting vs. liking" clarifies this role:
-
-- **Wanting** (dopamine-dependent): Incentive salience, motivation to pursue
-- **Liking** (opioid-dependent): Hedonic pleasure, consummatory enjoyment
-
-Parkinson's patients with extensive dopamine depletion give normal hedonic ratings to sweet tastes—their "liking" is intact while their "wanting" is impaired. Dopamine marks options as worth pursuing without determining whether pursuit succeeds. This matches the selection model: dopamine tags options as salient/valuable, while consciousness chooses among marked options.
-
-The evolutionary question—why does one neurotransmitter mediate both reward and movement initiation?—has a clear answer: in natural environments, wanting and pursuing are inseparable. Dopamine connects value perception with action initiation. If attention is motor planning (PMTA), and dopamine marks salience for both perception and action, then a single dopaminergic system appropriately serves the unified interface.
+This matches the selection model: dopamine tags options as salient, while consciousness chooses among marked options. The [dopamine-selection-interface](/concepts/dopamine-selection-interface/) article develops this framework in detail, including the evolutionary rationale for why one neurotransmitter mediates both reward and movement initiation.
 
 ## Stapp's Quantum Zeno Applied
 
@@ -179,7 +173,7 @@ The basal ganglia timing is suggestive. Beta oscillations (13-30 Hz) develop dur
 
 A 2024 *Brain* study connects dopamine directly to this oscillatory substrate. Both dopamine and deep brain stimulation shorten latencies between motor intention and motor execution by shifting cortico-subthalamic oscillatory flow from **antikinetic beta** (13-35 Hz) to **prokinetic theta** (4-10 Hz). Theta oscillations facilitate the transition from preparation to action.
 
-This creates a coherent picture: dopamine promotes the theta state that may provide the timing substrate for quantum selection events. The frontal theta signature observed in both willed attention (Bengson 2019) and motor preparation may be dopamine-facilitated, linking the neurotransmitter system to the quantum mechanism.
+This creates a coherent picture: dopamine promotes the theta state that may provide the timing substrate for quantum selection events. The frontal theta signature observed in both willed attention (Bengson 2019) and motor preparation may be dopamine-facilitated, linking the neurotransmitter system to the quantum mechanism. If theta cycles provide windows for selection, and dopamine is required to enter theta, then dopamine gates access to the quantum interface without itself performing selection.
 
 Additionally, the [post-decoherence selection response](/concepts/psychophysical-coupling-mechanisms/) applies: consciousness might bias outcome selection *after* decoherence, at the moment of measurement collapse. Decoherence determines which basis collapses into; consciousness could still influence which outcome within that basis becomes actual.
 
@@ -284,8 +278,10 @@ This framework identifies *where* consciousness might influence motor selection�
 - [free-will](/topics/free-will/) — The broader topic this supports
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis of Libet's readiness potential experiments
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing constraints on quantum effects in neural systems
+- [dopamine-selection-interface](/concepts/dopamine-selection-interface/) — Dopamine's role in the selection interface: wanting vs. liking, threshold modulation
 - [attention-motor-planning-quantum-interface-2026-01-23](/research/attention-motor-planning-quantum-interface-2026-01-23/) — Detailed research notes on attention-motor integration
-- [dopamine-attention-motor-quantum-interface-2026-01-24](/research/dopamine-attention-motor-quantum-interface-2026-01-24/) — Research on dopamine's role in the selection interface
+- [dopamine-attention-motor-quantum-interface-2026-01-24](/research/dopamine-attention-motor-quantum-interface-2026-01-24/) — Research notes on dopamine's role in the selection interface
+- [agent-causation](/concepts/agent-causation/) — The metaphysics of agents as causes
 
 ## References
 

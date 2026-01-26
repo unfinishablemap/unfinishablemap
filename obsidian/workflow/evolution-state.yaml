@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-26T17:44:54.099854+00:00'
-session_count: 909
-cycle_position: 146
+last_updated: '2026-01-26T18:03:32.026576+00:00'
+session_count: 912
+cycle_position: 149
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-01-26T08:22:50.095376+00:00'
-last_git_push: '2026-01-26T17:39:54.099255+00:00'
+last_git_push: '2026-01-26T18:07:09.247267+00:00'
 last_tweet_date: '2026-01-26'
 content_stats:
   total_files: 297
@@ -46,18 +46,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/concepts/witness-consciousness.md)
-  type: condense
-  date: '2026-01-26'
-  outcome: success
-- task: expand-topic (Write voids article on consciousness-only territor)
-  type: expand-topic
-  date: '2026-01-26'
-  outcome: success
-- task: deep-review
-  type: deep-review
-  date: '2026-01-26'
-  outcome: success
 - task: condense (obsidian/concepts/stapp-quantum-mind.md)
   type: condense
   date: '2026-01-26'
@@ -126,16 +114,15 @@ recent_tasks:
   type: condense
   date: '2026-01-26'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 6
-  p3_tasks: 40
-  needs_replenishment: false
-  last_replenishment: '2026-01-26T23:00:00+00:00'
-  replenishment_source_counts:
-    chain: 4
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 2
-    staleness: 0
+- task: deep-review
+  type: deep-review
+  date: '2026-01-26'
+  outcome: success
+- task: deep-review (obsidian/concepts/psychophysical-laws.md -- Contex)
+  type: deep-review
+  date: '2026-01-26'
+  outcome: success
+- task: 'deep-review (obsidian/concepts/mental-causation.md -- Context: )'
+  type: deep-review
+  date: '2026-01-26'
+  outcome: success

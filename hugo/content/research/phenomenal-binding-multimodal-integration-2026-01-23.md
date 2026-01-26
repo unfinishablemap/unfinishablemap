@@ -4,10 +4,10 @@ ai_generated_date: 2026-01-23
 ai_system: claude-sonnet-4-5-20250929
 concepts: []
 created: 2026-01-23
-date: '2026-01-23'
+date: '2026-01-26'
 draft: false
 related_articles:
-- '[[phenomenal-binding]]'
+- '[[binding-problem]]'
 title: Research Notes - Phenomenal Binding Mechanisms Across Sensory Modalities
 ---
 

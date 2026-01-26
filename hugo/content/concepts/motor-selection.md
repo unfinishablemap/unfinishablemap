@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-23 21:50:00+00:00
+ai_modified: 2026-01-26 21:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,12 +14,13 @@ concepts:
 - '[[phenomenology-of-choice]]'
 - '[[consciousness-as-amplifier]]'
 - '[[illusionism]]'
+- '[[dopamine-selection-interface]]'
 created: 2026-01-18
-date: &id001 2026-01-23
+date: &id001 2026-01-26
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-21 16:15:00+00:00
+last_deep_review: 2026-01-26 21:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -140,30 +141,28 @@ The basal ganglia's output is tonically inhibitory—it continuously suppresses 
 - **Indirect pathway** (D2 receptors): Maintains brake on competing actions
 - **Result**: One motor program is disinhibited while alternatives remain suppressed
 
-This is precisely a selection mechanism. The brain generates multiple competing motor programs; the basal ganglia determine which one "wins" by selective disinhibition. Consciousness might operate at this selection point—biasing which program is released.
+This is precisely a selection mechanism. The brain generates multiple competing motor programs; the basal ganglia determine which one "wins" by selective disinhibition.
+
+### Dopamine's Role in Selection
+
+The [dopamine research](/concepts/dopamine-selection-interface/) clarifies what dopamine contributes and what remains for consciousness. Dopamine performs two functions:
+
+1. **Marks salience**: Phasic dopamine bursts tag options as worth pursuing—creating the phenomenal "pull" of wanting
+2. **Sets threshold**: Tonic dopamine modulates how much evidence suffices for action
+
+Crucially, dopamine doesn't determine which option wins. Palmiter's dopamine-deficient mice retain motor *capacity* but lose motor *initiative*—they can move but won't move. The motor system works; something upstream in selection is compromised.
+
+This dissociation supports the Map's three-layer model: neural computation generates options, dopamine marks them as worth selecting and adjusts the threshold, and consciousness determines which marked option actualizes first. Dopamine does the motivational work; consciousness provides the selection that channels it.
 
 ### Parallel to Thalamic Gating
 
-The [attention as interface hypothesis](/concepts/attention-as-interface/) identifies thalamic gating as a candidate site for attentional selection. The basal ganglia play an analogous role for motor selection:
-
-| Domain | Selection Site | Mechanism |
-|--------|---------------|-----------|
-| Attention | Thalamus | Gating sensory signals to cortex |
-| Motor | Basal ganglia | Releasing brake on motor programs |
-
-Both involve selective disinhibition rather than direct activation. Both present candidate interfaces where consciousness might bias selection without controlling execution.
+The [attention as interface hypothesis](/concepts/attention-as-interface/) identifies thalamic gating as a candidate for attentional selection. The basal ganglia serve the analogous role for motor selection—both involve selective disinhibition where consciousness might bias selection without controlling execution.
 
 ## "Free Won't": The Veto Model
 
-Libet himself proposed that consciousness contributes through *veto*—the ability to stop prepared actions rather than initiate them. This "free won't" model preserves a role for consciousness within the constraints of his timing data.
+Libet himself proposed that consciousness contributes through *veto*—the ability to stop prepared actions rather than initiate them. The ~200ms between awareness and action suffices for this.
 
-The veto model aligns with the selection framework. Even if motor preparation begins unconsciously, consciousness might select by:
-1. Allowing prepared actions to proceed (non-intervention)
-2. Vetoing prepared actions (active suppression)
-
-The ~200ms between awareness and action in Libet's data is enough time for veto. Selection doesn't require initiating action from scratch—it can operate by permitting or blocking what the brain proposes.
-
-However, the Schurger reinterpretation suggests veto is not the whole story. If the RP is noise rather than decision, consciousness might contribute earlier—selecting when to let noise cross threshold, not merely vetoing after decision.
+The veto model aligns with selection: consciousness might allow prepared actions to proceed or actively suppress them. However, the Schurger reinterpretation suggests veto is not the whole story. If the RP is noise rather than decision, consciousness might contribute earlier—selecting when to let noise cross threshold, not merely vetoing after decision.
 
 ## Sense of Agency and Efference Copy
 
@@ -306,6 +305,7 @@ This aligns with the [Minimal Quantum Interaction](/tenets/#minimal-quantum-inte
 ## Further Reading
 
 - [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — Unified framework arguing attention IS motor planning (PMTA), with single quantum selection mechanism
+- [dopamine-selection-interface](/concepts/dopamine-selection-interface/) — Dopamine's role in marking salience and setting selection thresholds
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of choosing, with motor selection as key case
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances cognitive capacities including motor control
 - [attention-as-interface](/concepts/attention-as-interface/) — The parallel hypothesis for attention

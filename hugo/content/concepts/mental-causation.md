@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-23 19:15:26+00:00
+ai_modified: 2026-01-26 20:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[psychophysical-coupling-mechanisms]]'
+- '[[psychophysical-laws-framework]]'
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
 - '[[epiphenomenalism]]'
@@ -26,7 +27,7 @@ date: &id001 2026-01-15
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 11:30:00+00:00
+last_deep_review: 2026-01-26 20:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,21 +131,21 @@ Consciousness could bias outcomes at the point of measurement even after decoher
 
 Even granting that quantum indeterminacy provides an opening for mental causation, a further challenge remains: *which* phenomenal properties map to *which* physical selections? This specification problem is distinct from overdetermination (whether mental causes compete with physical causes) and conservation (whether mental causation violates energy conservation). Specification asks: if consciousness biases quantum outcomes, how does it do so systematically?
 
+The [psychophysical-laws-framework](/topics/psychophysical-laws-framework/) provides the conceptual structure for addressing this challenge. Chalmers distinguished *supervenience laws* (which physical states produce which experiences) from what the Map calls *selection laws* (which mental states influence which physical outcomes). Mental causation requires selection laws—not merely supervenience laws running upward from physics to phenomenology, but laws specifying how consciousness participates in determining physical outcomes.
+
 The [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) article surveys five candidate mechanisms:
 
-1. **Attention → observation rate** (Stapp): Sustained attention increases quantum measurement frequency, "freezing" neural patterns via the quantum Zeno effect. This is the most developed proposal with testable predictions—meditation training, willed vs. instructed attention differences.
+1. **Attention → observation rate** (Stapp): Sustained attention increases quantum measurement frequency, "freezing" neural patterns via the quantum Zeno effect. The most developed proposal with testable predictions.
 
 2. **Intention → probability weighting** (Eccles): Mental intention modulates vesicle release probabilities via quantum tunneling. Moderately developed but faces the pairing problem.
 
-3. **Valence → action selection**: Phenomenal pleasure/pain influences approach/avoidance. Evidence from pain asymbolia supports the causal role of felt badness, but no quantum mechanism has been proposed.
+3. **Valence → action selection**: Phenomenal pleasure/pain influences approach/avoidance. Evidence from pain asymbolia supports the causal role of felt badness, but no quantum mechanism proposed.
 
 4. **Qualia → basis selection**: Qualitative character might determine which measurement basis applies. Purely speculative.
 
-5. **Unity → sustained entanglement**: Phenomenal binding might correspond to sustained quantum coherence. Kerskens-Pérez found correlation with conscious states, but correlation doesn't establish causation.
+5. **Unity → sustained entanglement**: Phenomenal binding might correspond to sustained quantum coherence. Correlation found but doesn't establish causation.
 
-Only the first two mechanisms meet basic adequacy standards—specifying which phenomenal property affects which physical parameter through what mechanism. The others identify plausible coupling relationships but lack developed accounts of how the coupling works.
-
-Without such specification, mental causation risks unfalsifiability. The challenge is developing testable proposals that connect phenomenal properties to physical parameters with enough precision to generate predictions. Stapp's attention mechanism comes closest, predicting measurable differences between willed and instructed attention and documented effects of mindfulness training on neural plasticity.
+Only the first two mechanisms meet basic adequacy standards—specifying which phenomenal property affects which physical parameter through what mechanism. Without such specification, mental causation risks unfalsifiability.
 
 ### Why Not Many Worlds?
 
@@ -239,6 +240,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 
 ## Further Reading
 
+- [psychophysical-laws-framework](/topics/psychophysical-laws-framework/) — Integrated overview of the framework requiring selection laws for mental causation
 - [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) — Five candidate mechanisms specifying how mental causation might work at the neural interface
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's foundational commitment to consciousness causally influencing the physical world
 - [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness exists

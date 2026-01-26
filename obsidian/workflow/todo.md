@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review psychophysical-laws.md considering framework article insights
-- **Type**: cross-review
-- **Notes**: New article topics/psychophysical-laws-framework.md (2026-01-26) provides a comprehensive treatment of Chalmers' psychophysical laws. The concept page psychophysical-laws.md should be reviewed for: (1) cross-links to new topic article, (2) consistency in how supervenience vs selection laws are distinguished, (3) whether the framework article's treatment of upward/downward asymmetry should be referenced.
-- **Source**: chain (from psychophysical-laws-framework.md)
-- **Generated**: 2026-01-26
-
-### P2: Cross-review mental-causation.md considering psychophysical laws framework
-- **Type**: cross-review
-- **Notes**: New article topics/psychophysical-laws-framework.md (2026-01-26) develops selection laws as the downward direction of psychophysical causation. The mental-causation.md concept page should be reviewed for: (1) cross-links to framework treatment, (2) integration of the "selection without energy injection" insight from the new article, (3) consistency with how mental-to-physical causation is framed.
-- **Source**: chain (from psychophysical-laws-framework.md)
-- **Generated**: 2026-01-26
-
 ### P2: Condense attention.md (4190 words, 168% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core interface article covering attention mechanisms, top-down vs bottom-up attention, and connection to consciousness. Preserve: key attention concepts, Quantum Zeno connection, distinction between types of attention. Defer detailed neuroscience to voluntary-attention.md and attention-motor-quantum-interface.md. See /condense skill.
@@ -346,6 +334,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Cross-review mental-causation.md considering psychophysical laws framework
+- **Type**: cross-review
+- **Notes**: New article topics/psychophysical-laws-framework.md (2026-01-26) develops selection laws as the downward direction of psychophysical causation. The mental-causation.md concept page should be reviewed for: (1) cross-links to framework treatment, (2) integration of the "selection without energy injection" insight from the new article, (3) consistency with how mental-to-physical causation is framed.
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Cross-review mental-causation.md considering psychophysical laws framework
+
+### ✓ 2026-01-26: Cross-review psychophysical-laws.md considering framework article insights
+- **Type**: cross-review
+- **Notes**: New article topics/psychophysical-laws-framework.md (2026-01-26) provides a comprehensive treatment of Chalmers' psychophysical laws. The concept page psychophysical-laws.md should be reviewed for: (1) cross-links to new topic article, (2) consistency in how supervenience vs selection laws are distinguished, (3) whether the framework article's treatment of upward/downward asymmetry should be referenced.
+- **Output**: obsidian/concepts/psychophysical-laws.md -- Context: Cross-review psychophysical-laws.md considering framework article insights
 
 ### ✓ 2026-01-26: Condense specious-present.md (4274 words, 122% of threshold)
 - **Type**: condense

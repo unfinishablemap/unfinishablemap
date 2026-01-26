@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-24 06:57:00+00:00
+ai_modified: 2026-01-26 12:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -49,8 +49,6 @@ This article examines the phenomenology and neuroscience of voluntary attention 
 
 ## Endogenous vs Exogenous: The Basic Distinction
 
-Attention research distinguishes two fundamental modes:
-
 | Feature | Endogenous (Voluntary) | Exogenous (Automatic) |
 |---------|----------------------|----------------------|
 | **Trigger** | Internal goals, intentions | External stimuli, salience |
@@ -59,122 +57,61 @@ Attention research distinguishes two fundamental modes:
 | **Cognitive cost** | High demand on resources | Low demand |
 | **Control** | Consciously planned, strategic | Reflexive, involuntary |
 
-Exogenous attention is captured—a sudden movement in peripheral vision, a loud noise, a flash of light. The system orients automatically, without decision. This capture is fast (~100ms) but transient; attention releases within a few hundred milliseconds and shows "inhibition of return"—reduced likelihood of returning to the same location.
+Exogenous attention is captured—fast (~100ms), transient, and reflexive. Endogenous attention is directed—slower to deploy (~300ms) but sustainably controlled. This sustained engagement is central to the [interface hypothesis](/concepts/attention-as-interface/): if consciousness influences brain states through attention, it does so through extended, controllable focus.
 
-Endogenous attention is directed. You decide to attend to something based on goals, values, or instructions. Deployment takes longer (~300ms), but once engaged, voluntary attention can be sustained indefinitely. This sustained engagement is central to the [interface hypothesis](/concepts/attention-as-interface/): if consciousness influences brain states through attention, it does so through this kind of extended, controllable focus.
-
-The phenomenology differs markedly. When a loud noise draws your attention, you experience being *pulled*—attention moves without consent. When you focus on a difficult passage, you experience *directing*—an active engagement that feels like it originates from you. This first-person distinction maps onto the third-person neural distinction between ventral (capture) and dorsal (voluntary) attention networks.
+The phenomenology differs markedly. When a loud noise draws your attention, you experience being *pulled*. When you focus on a difficult passage, you experience *directing*—an active engagement that feels like it originates from you. This first-person distinction maps onto the neural distinction between ventral (capture) and dorsal (voluntary) attention networks.
 
 ## Beyond Top-Down: The Willed Attention Distinction
 
-A subtler distinction matters for understanding consciousness: not all top-down attention is *willed* attention. Recent research (Vossel 2023) identifies three levels:
+Not all top-down attention is *willed* attention. Research (Vossel 2023) identifies three levels:
 
-**Exogenous attention** — Stimulus-driven capture. A salient event pulls attention automatically.
+- **Exogenous attention** — Stimulus-driven capture
+- **Instructed attention** — Top-down but externally prompted ("look left")
+- **Willed attention** — Internally generated decision to attend
 
-**Instructed attention** — Top-down but externally prompted. Someone tells you "look left," and you do. This is top-down in the sense of being goal-directed, but the goal was provided externally.
-
-**Willed attention** — Internally generated decision to attend. Without external cue, you choose where to direct focus.
-
-The willed/instructed distinction is critical. As one review notes: "Often, evidence for top-down attention control is also interpreted as evidence for voluntary attention control. However, this latter theoretical interpretation is not warranted because volition is typically defined differently."
-
-When an experimenter says "attend left" and you comply, you're following instructions—the decision about *what* to attend to was made externally. When you're given no instruction and freely choose to attend left or right, different neural processes engage. This additional processing—the internal decision-making about where to attend—is what the Map's framework proposes consciousness contributes.
+The willed/instructed distinction is critical. When you follow instructions, the decision about *what* to attend to was made externally. When you freely choose where to attend, different neural processes engage. This additional processing—internal decision-making about where to attend—is what the Map's framework proposes consciousness contributes.
 
 ## Neural Signatures of Willed Attention
 
 Three neural markers distinguish willed from instructed attention:
 
-### Frontal Theta Oscillations
+**Frontal theta oscillations**: Willed attention decisions produce frontal theta oscillations (~500ms post-decision) that instructed attention does not (Bengson et al. 2019). Theta oscillations mark genuine decision—something beyond merely implementing an external instruction.
 
-A 2019 *Cerebral Cortex* study (Bengson et al.) found that willed attention decisions produce frontal theta oscillations (~500ms post-decision) that instructed attention does not. Theta power increases over frontal cortex when participants freely choose where to attend, but not when following cues.
+**Bidirectional frontoparietal coherence**: During willed attention, theta-band coherence between frontal and parietal regions is bidirectional. If consciousness merely triggered attention mechanisms, we'd expect unidirectional flow: decision → implementation. The bidirectional pattern suggests ongoing communication between decision and execution systems. This resembles [motor-selection](/concepts/motor-selection/), where willed movement shows the same pattern.
 
-The researchers conclude: "These results suggest that theta oscillations are the neuronal signals indexing decision-making in the frontal cortex, and mediating reciprocal communications between the frontal executive and parietal attentional control regions during willed attention."
-
-Theta oscillations mark genuine decision—something beyond merely implementing an external instruction.
-
-### Bidirectional Frontoparietal Coherence
-
-During willed attention, theta-band coherence between frontal executive regions and parietal attention control regions increases, and this coherence is bidirectional. Information flows both ways—frontal to parietal and parietal to frontal—rather than one-directionally.
-
-This bidirectionality matters for the interface hypothesis. If consciousness merely triggered attention mechanisms, we'd expect unidirectional flow: decision → implementation. The bidirectional pattern suggests something more interactive—ongoing communication between decision and execution systems during willed attention. This resembles the pattern seen in [motor-selection](/concepts/motor-selection/), where willed movement also shows bidirectional frontoparietal coherence.
-
-### Additional Frontal Recruitment
-
-Willed attention engages frontal regions beyond those active during instructed attention. A 2023 *Frontiers in Cognition* review identifies this as the first of three neural components unique to willed attention: "Front-end decision processes in frontal cortex—Additional frontal regions engage during willed vs cued attention."
-
-The additional engagement suggests willed attention requires more than the standard attention networks—it requires decision-making machinery that instructed attention bypasses.
+**Additional frontal recruitment**: Willed attention engages frontal regions beyond those active during instructed attention—decision-making machinery that instructed attention bypasses.
 
 ## Candidate Neural Sites
 
-If voluntary attention is where consciousness interfaces with brain states, where specifically might this occur? Three large-scale brain networks implement attention control:
+Three large-scale brain networks implement attention control:
 
 | Network | Regions | Function |
 |---------|---------|----------|
-| **Dorsal attention** | IPS, FEF, superior parietal | Voluntary spatial attention, goal-directed selection |
-| **Ventral attention** | TPJ, VFC | Bottom-up capture, reorienting to salient stimuli |
-| **Salience network** | Anterior insula, ACC | Detecting salient events, switching between networks |
+| **Dorsal attention** | IPS, FEF, superior parietal | Voluntary spatial attention |
+| **Ventral attention** | TPJ, VFC | Bottom-up capture |
+| **Salience network** | Anterior insula, ACC | Switching between networks |
 
-### Frontoparietal Attention Networks
+The 2025 COGITATE adversarial testing found conscious content tracked better by posterior cortex than prefrontal regions, suggesting attention networks (frontoparietal) may be distinct from consciousness networks (posterior "hot zone"). The interface might be where these systems meet.
 
-The dorsal attention network (bilateral parietal cortex, frontal eye fields, intraparietal sulcus) controls voluntary spatial attention. The network determines where attention is directed and maintains focus once directed. The ventral attention network handles exogenous capture: temporoparietal junction (TPJ) and ventral frontal cortex (VFC) respond to unexpected salient stimuli.
-
-But the 2025 COGITATE adversarial testing found conscious content tracked better by posterior cortex than by prefrontal regions. This suggests that attention networks (frontoparietal) may be distinct from consciousness networks (posterior "hot zone"). The interface might be where these systems meet—where frontoparietal control mechanisms interact with posterior content systems.
-
-### Salience Network
-
-The salience network (anterior insula, anterior cingulate cortex) detects significant events and switches between large-scale networks. When you choose to redirect attention from an absorbing task, the salience network mediates that interruption.
-
-This "switching" function may be where consciousness breaks into automatic processing. The salience network provides a mechanism for voluntary reorienting—detecting that something matters and commanding a shift. This function is necessary for any form of voluntary control.
-
-### Thalamus
-
-The thalamus serves as a relay where ascending sensory signals meet descending voluntary signals. Dynamic causal modeling reveals:
-
-- **Ascending pathways**: External sensory inputs reach cortex via thalamus
-- **Descending pathways**: Frontal voluntary signals modulate thalamic gating
-
-The thalamus may be a candidate selection site: where consciousness influences which sensory information gains access to cortical processing. Rather than selecting among cortical patterns directly, selection might occur at this "gate."
+The thalamus is another candidate: a relay where ascending sensory signals meet descending voluntary signals. Frontal voluntary signals modulate thalamic gating, making it a potential selection site where consciousness influences which information gains cortical access.
 
 ## The Stochastic Pre-State Challenge
 
-### Alpha Predicts Free Choices
+Pre-decision EEG alpha activity predicts subsequent free choices ~1000ms before participants decide. This raises a Libet-style challenge: if brain states predict free choices, is volition illusory?
 
-Research has found that pre-decision EEG alpha activity over parietal-occipital cortex predicts subsequent free choices—approximately 1000ms before participants freely decide to attend left vs right, their brain states already show a bias toward the choice they'll make.
+Two interpretations compete: the **neural noise interpretation** (stochastic fluctuations bias decisions) and the **attentional set interpretation** (pre-stimulus alpha reflects prior intentions rather than mere noise).
 
-This raises a Libet-style challenge: if brain states predict free choices, is volition illusory? Are we merely rationalizing decisions our neurons have already made?
+The Map's response parallels its response to the [Libet experiments](/concepts/libet-experiments/):
 
-### Two Interpretations
+- **Selection among options**: Stochastic activity provides options; consciousness selects among them. Finding that neural activity precedes choice doesn't show it *causes* choice in a way that excludes conscious selection.
+- **Quantum resolution**: Selection may operate below EEG resolution. Quantum-level selection at the sites proposed by [Stapp's mechanism](/concepts/quantum-consciousness/) would be invisible to EEG.
+- **Distal intentions**: Pre-stimulus alpha may track consequences of *previous* conscious choices rather than undermining present ones.
 
-**Neural noise interpretation**: Stochastic fluctuations in cortical excitability bias free decisions. One researcher states: "The cause of our 'free decisions' may at least in part, be simply the background stochastic fluctuations of cortical excitability."
-
-**Attentional set interpretation**: Pre-prompt alpha may reflect prior attentional dispositions—task-specific readiness states (attend-left vs attend-right) that represent earlier intentions rather than mere noise.
-
-### The Map's Response
-
-The pre-state finding parallels the [Libet](/concepts/libet-experiments/) challenge to motor volition. The Map's response applies here:
-
-**Selection among options**: Stochastic activity provides options; consciousness selects among them. Finding that neural activity precedes choice doesn't show that neural activity *causes* choice in a way that excludes conscious selection. Consciousness might select *among* the options that stochastic activity generates.
-
-**Quantum resolution**: Selection may operate below EEG temporal and spatial resolution. EEG measures aggregate activity from millions of neurons. Quantum-level selection at the sites proposed by [Stapp's mechanism](/concepts/quantum-consciousness/) would be invisible to EEG while still operating.
-
-**Distal intentions**: What appears as "prediction" may reflect prior commitments. If you decided earlier to focus on a particular task, your brain reflects that prior decision. Pre-stimulus alpha may track the consequences of previous conscious choices rather than undermining present ones.
-
-The finding that brain states correlate with upcoming choices doesn't establish that consciousness plays no role. It establishes that conscious choices are implemented through neural mechanisms—which the Map's framework already accepts.
+The finding that brain states correlate with upcoming choices establishes that conscious choices are implemented through neural mechanisms—which the Map's framework already accepts.
 
 ## The Temporal Profile and Quantum Zeno
 
-The ~300ms deployment time for voluntary attention may be significant. This timescale matches:
-
-- The deployment window for willed motor selection (~300ms theta phase)
-- The specious present—the experienced duration of "now"
-- Proposed Zeno freezing timescales
-
-If the [quantum Zeno effect](/concepts/mental-effort/) operates through attention, the 300ms window might reflect how long consciousness takes to engage the selection mechanism. Exogenous attention's faster (~100ms) timescale and transient duration would be too brief for sustained Zeno freezing—consistent with automatic capture being neurally implemented rather than consciously directed.
-
-Voluntary attention can be sustained at will—maintained as long as needed. This sustained engagement is precisely what the Zeno mechanism requires: repeated observation holding desired neural patterns stable against decoherence.
-
-### Why Attention Has the Right Temporal Structure
-
-The [attention-as-interface hypothesis](/concepts/attention-as-interface/#why-attention-specifically) argues that attention is uniquely suited for this role because of its temporal properties:
+The ~300ms deployment time for voluntary attention matches the willed motor selection window and proposed Zeno freezing timescales. If the [quantum Zeno effect](/concepts/mental-effort/) operates through attention, this window reflects how long consciousness takes to engage the selection mechanism. Exogenous attention's faster (~100ms) and transient duration would be too brief for sustained Zeno freezing.
 
 | Feature | Voluntary Attention | Zeno Requirement |
 |---------|---------------------|------------------|
@@ -183,27 +120,15 @@ The [attention-as-interface hypothesis](/concepts/attention-as-interface/#why-at
 | Maintenance | Can be held indefinitely | Sustained freezing |
 | Release | Can be withdrawn at will | Cessation of freezing |
 
-Perception is receptive—it receives what's present—rather than actively maintaining states. Memory retrieval is discrete, not continuous. Attention is the psychological process that *holds* content active over time, which is precisely what Zeno freezing requires. This temporal fit is part of why the Map's framework identifies attention as the privileged interface, not merely one interface among many.
+Attention is the psychological process that *holds* content active over time—precisely what Zeno freezing requires. See [attention-as-interface](/concepts/attention-as-interface/#why-attention-specifically) for why the Map identifies attention as the privileged interface.
 
 ## Motor Selection as Paradigm Case
 
-[Motor selection](/concepts/motor-selection/) provides a concrete example of voluntary attention control in action. When multiple motor options compete (reaching left versus right, speaking versus remaining silent), consciousness selects among them through sustained attention to one pattern over its competitors.
+[Motor selection](/concepts/motor-selection/) provides a concrete example of voluntary attention control in action. The 300ms decision window before voluntary movement—during which frontal theta increases and frontal-parietal coherence strengthens—shows the same neural signatures as willed attention.
 
-The 300ms decision window before voluntary movement—during which frontal theta increases and frontal-parietal coherence strengthens—represents the period when consciousness "gathers itself" to act. Attention to the selected motor pattern holds it through quantum Zeno processes while suppressing competitors.
+The Desmurget double dissociation is particularly significant: stimulating parietal cortex produces movements without intention ("my arm moved"), while stimulating premotor cortex produces intention without movement ("I wanted to move but didn't"). This supports the view that phenomenal intention is causally upstream of motor execution.
 
-The basal ganglia "brake-release" architecture provides the interface: tonic inhibition keeps motor patterns suppressed until frontal executive signals release specific patterns for execution. The release decision—which pattern to disinhibit—may be where consciousness operates through attention-mediated quantum selection.
-
-Crucially, the Desmurget double dissociation shows that intention phenomenology is separable from motor execution: stimulating parietal cortex produces movements without intention ("my arm moved"), while stimulating premotor cortex produces intention without movement ("I wanted to move but didn't"). This supports the view that phenomenal intention is not epiphenomenal but causally upstream of motor execution.
-
-### Attention-Motor Unification
-
-The [premotor theory of attention](/concepts/attention-motor-quantum-interface/) (PMTA) proposes that attention shifts *are* motor plans—attending to a location is preparing an orienting movement toward it. If attention is motor planning, then the willed attention findings above describe a unified attention-motor selection mechanism.
-
-The timing convergence is striking: ~300ms willed attention deployment matches the ~280ms motor commitment point identified by Thura and Cisek (2014). Frontal theta oscillations appear in both willed attention and willed motor preparation. Bidirectional frontoparietal coherence during willed attention mirrors motor preparation dynamics.
-
-This suggests a single quantum selection interface. Consciousness doesn't separately influence attention and motor systems—it operates through one mechanism that the brain divides only functionally. Sustaining attention to a visual target and preparing a reaching movement engage the same neural selection process, subject to the same quantum Zeno stabilization.
-
-The phenomenological unity follows: willed attention and willed action feel like the same kind of effort because they *are* the same kind of effort—consciousness maintaining engagement with competing neural representations until one reaches threshold.
+The [premotor theory of attention](/concepts/attention-motor-quantum-interface/) proposes that attention shifts *are* motor plans. The timing convergence supports this: ~300ms willed attention deployment matches the ~280ms motor commitment point. This suggests a single quantum selection interface—consciousness operates through one mechanism that the brain divides only functionally. Willed attention and willed action feel like the same kind of effort because they *are* the same kind of effort.
 
 ## Relation to Site Perspective
 
@@ -239,81 +164,36 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet responds: simplicit
 
 ## The Decoherence Challenge
 
-A serious objection arises: if voluntary attention interfaces with quantum processes, how can this work given [decoherence](/concepts/decoherence/)? Tegmark (2000) calculated that quantum coherence in neural microtubules decays in femtoseconds (10⁻¹³ to 10⁻²⁰ seconds)—far shorter than the 300ms voluntary attention deployment time. The [timing hierarchy](/topics/quantum-neural-timing-constraints/) from femtosecond decoherence to 300ms neural decisions spans twelve orders of magnitude—an apparently insurmountable gap.
+If voluntary attention interfaces with quantum processes, how can this work given [decoherence](/concepts/decoherence/)? Tegmark (2000) calculated quantum coherence in neural microtubules decays in femtoseconds—far shorter than 300ms deployment time. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy.
 
-Three responses address this challenge:
+Three responses: (1) Revised calculations (Hagan et al. 2002) extend coherence times by seven orders of magnitude when accounting for microtubule interior conditions. (2) Stapp's quantum Zeno mechanism doesn't require sustained coherence—each attentional "observation" constitutes a rapid measurement collapsing the wavefunction before decoherence acts. (3) Biological precedent: avian magnetoreception maintains quantum spin coherence in warm tissue, proving evolution can exploit quantum effects despite thermal noise.
 
-**Revised decoherence timescales**: Tegmark's calculation assumed thermal equilibrium appropriate for dead tissue. Hagan, Hameroff, and Tuszynski (2002) argued that microtubule interiors present different conditions—ordered water, Debye layer shielding, and topological protection. When corrected for these factors, coherence times extend to 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer. This narrows the gap substantially, though a gap of roughly three orders of magnitude remains between revised coherence estimates and the 280–300ms decision windows.
-
-**The Zeno mechanism operates faster**: Stapp's quantum Zeno approach doesn't require sustained coherence *between* observations. Each attentional "observation" constitutes a rapid measurement that collapses the wavefunction before decoherence acts. What attention sustains is not a single coherent state but *repeated selection* at quantum-relevant timescales. The 300ms deployment time reflects how long consciousness takes to engage the selection mechanism, not the timescale of individual quantum events.
-
-**Biological precedent**: Avian magnetoreception maintains quantum spin coherence for microseconds in warm biological tissue—proof that evolution can optimise systems to exploit quantum effects despite thermal noise. The radical pair mechanism in cryptochrome proteins (Ritz et al. 2004, Hore & Mouritsen 2016) demonstrates that biological systems can exploit quantum coherence at physiological temperatures when properly shielded from decoherence pathways. If birds evolved quantum navigation, neural systems might have evolved quantum selection mechanisms.
-
-The decoherence objection constrains but doesn't eliminate the interface hypothesis. What matters is whether attention can operate at whatever quantum timescales are relevant—not whether the phenomenological timescale (300ms) matches the quantum timescale. The key insight from [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) is that the Quantum Zeno mechanism sidesteps the coherence gap entirely: it doesn't require sustained coherence but operates through discrete observation events, each collapsing the wavefunction before decoherence acts.
+The key insight: the Quantum Zeno mechanism sidesteps the coherence gap by operating through discrete observation events rather than requiring sustained coherence.
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an introspective illusion—offers a deflationary interpretation of voluntary attention. On this view, the sense of "willing" your attention is itself a construction: neural processes create the *impression* of conscious direction while doing all the causal work themselves.
+[Illusionism](/concepts/illusionism/) offers a deflationary interpretation: the sense of "willing" attention is a construction—neural processes create the *impression* of conscious direction while doing all causal work themselves.
 
-Three responses:
-
-**The regress problem**: If the sense of willing is itself an illusion generated by neural processes, something must experience that illusion. As Raymond Tallis argues, "Misrepresentation presupposes presentation." The neural mechanisms creating the illusion of volition must present that illusion *to* something. Illusionism relocates consciousness rather than eliminating it.
-
-**Introspective reliability**: The willed/instructed distinction reveals that [introspection](/concepts/introspection/) can detect genuine differences in neural processing. If introspection were systematically unreliable, how would we explain its ability to distinguish attention modes that neuroscience confirms are distinct? The phenomenological difference between "willing" and "following instructions" tracks real neural differences—frontal theta, bidirectional coherence, additional frontal recruitment. This suggests introspection is at least partially reliable.
-
-**The functional asymmetry**: If willing attention were mere illusion, it shouldn't show the neural costs it actually shows. Willed attention requires more cognitive resources, engages more frontal regions, and produces distinctive oscillatory signatures. Why would an illusion of willing be more metabolically expensive than instruction-following? The cost suggests the willing is real, not merely represented.
+Three responses: (1) **The regress problem**: If willing is an illusion, something must experience that illusion. Illusionism relocates consciousness rather than eliminating it. (2) **Introspective reliability**: The willed/instructed distinction tracks real neural differences (frontal theta, bidirectional coherence, additional frontal recruitment). [Introspection](/concepts/introspection/) can detect genuine differences in neural processing. (3) **The functional asymmetry**: If willing were mere illusion, why would it be more metabolically expensive than instruction-following? The cost suggests the willing is real.
 
 ## Contemplative Evidence
 
-Meditation traditions provide extensive phenomenological data about attention control, offering evidence relevant to the willed/instructed distinction.
+Meditation traditions provide phenomenological data relevant to the willed/instructed distinction. Buddhist samatha meditation trains sustained voluntary attention, with practitioners reporting increasingly fine-grained awareness of the distinction between willed redirection and automatic drift—consistent with the three-level distinction. Advanced practitioners report a [witness](/concepts/witness-consciousness/) quality—awareness observing attention itself.
 
-**Concentrated attention practice**: Buddhist samatha meditation trains sustained voluntary attention to a single object (typically the breath). Practitioners report increasing capacity to direct and maintain attention, and increasingly fine-grained awareness of the distinction between willed redirection and automatic drift. This phenomenological refinement is consistent with the willed/instructed/exogenous three-level distinction—practitioners learn to discriminate these modes with increasing precision.
-
-**[Witness-consciousness](/concepts/witness-consciousness/)**: Advanced practitioners report a "witness" quality—awareness that observes attention itself. This second-order awareness witnesses when attention is willed vs automatic, providing introspective access to the mechanisms the neuroscience studies indirectly. The witness doesn't will attention directly but observes the willing occurring.
-
-**The Buddhist complication**: Buddhist phenomenology also reveals that careful examination of "willing" often fails to find a findable agent—the sense of being the willer may itself be constructed. This doesn't undermine the willed/instructed distinction (which is functionally real) but suggests the *self* who wills may be less substantial than it appears. The process philosophy perspective addresses this below.
-
-## Process Philosophy Perspective
-
-Alfred North Whitehead's process philosophy illuminates voluntary attention from a different angle—one that accommodates both the reality of willing and the Buddhist observation that no fixed agent is found.
-
-**Actual occasions**: For Whitehead, reality consists of momentary experiential events ("actual occasions") rather than enduring substances. Each act of voluntary attention is an actual occasion—a moment of experience that incorporates ("prehends") the preceding state and reaches toward ("subjective aim") a selected outcome. There is no enduring self that wills; there are occasions of willing.
-
-**Concrescence and attention**: Whitehead's "concrescence"—the process by which an occasion becomes definite—parallels how voluntary attention selects among neural possibilities. The occasion "decides" (literally: cuts off alternatives) through its internal process, actualizing one possibility among many. This decision isn't made by an external agent but is intrinsic to the occasion's becoming.
-
-**Process [haecceity](/concepts/haecceity/)**: The Map's framework requires that *this* selection matters—indexical identity is real. Whitehead's occasions are inherently particular: each is an unrepeatable event with its own perspective. The haecceity (thisness) of voluntary attention—that *I* am deciding *now*—is preserved because each occasion of willing is genuinely unique, not merely a token of a type.
-
-This perspective addresses the Buddhist observation: there is no fixed self who wills across time, but each moment of willing is genuinely self-determining. Voluntary attention is real as process, even if no substantial agent is found behind it.
+Buddhist phenomenology also reveals that careful examination of "willing" often fails to find a findable agent. This doesn't undermine the willed/instructed distinction (which is functionally real) but suggests the *self* who wills may be less substantial than it appears. See [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) for details.
 
 ## The Unified Interface View
 
-The [attention-as-interface hypothesis](/concepts/attention-as-interface/#the-unified-interface-view) argues that attention is the *sole* interface between consciousness and brain—not one interface among several. What seem like alternative interfaces (emotion, volition, imagination, memory) actually operate *through* attention:
-
-| Domain | What Attention Does | Interface Function |
-|--------|---------------------|-------------------|
-| Perception | Selects which sensory content enters full awareness | Perceptual selection |
-| Motor | Selects which action patterns actualize | Motor selection |
-| Memory | Selects which retrieval cues activate | Memory selection |
-| Imagination | Explores possibility space through attentional shifts | Creative selection |
-| Emotion | Biases attention toward valenced content | Valence-guided selection |
-
-Voluntary attention is central to this unified view because it represents the clearest case of consciousness selecting—the willed/instructed distinction marks exactly where consciousness adds something beyond neural computation. The neural signatures of willed attention (frontal theta, bidirectional coherence, additional frontal recruitment) identify the contribution consciousness makes when exercising this interface.
-
-The [motor-selection](/concepts/motor-selection/) research strengthens this view: willed movement shows the same neural signatures as willed attention, suggesting motor volition operates through the same interface rather than a separate channel. Consciousness selects motor patterns the same way it selects perceptual focus—through sustained attention-like observation holding the selected pattern stable.
+The [attention-as-interface hypothesis](/concepts/attention-as-interface/#the-unified-interface-view) argues that attention is the *sole* interface between consciousness and brain. What seem like alternative interfaces (emotion, volition, imagination, memory) operate *through* attention. Voluntary attention is central because the willed/instructed distinction marks exactly where consciousness adds something beyond neural computation. The neural signatures (frontal theta, bidirectional coherence, additional frontal recruitment) identify consciousness's contribution when exercising this interface.
 
 ## What Would Challenge This View?
 
-The voluntary attention framework would be undermined if:
+The framework would be undermined if:
 
-1. **The willed/instructed distinction collapses under scrutiny.** If further research showed that "willed" attention is simply instructed attention with the instruction hidden or forgotten—that what feels like internal decision is actually response to unnoticed external cues—the neural distinctiveness would become a methodological artifact rather than evidence for conscious contribution.
-
-2. **Decoherence proves insurmountable.** If revised calculations still showed quantum coherence impossible at neural sites, and no alternative mechanism for consciousness-brain interaction emerged, the quantum Zeno mechanism would fail. The Map's framework would need to identify a different interface mechanism or abandon the quantum implementation.
-
-3. **Willed attention becomes fully predictable.** If neural activity prior to "free" attention choices predicted those choices with certainty (not just better than chance), the space for conscious selection would close. Current pre-stimulus alpha predicts choices above chance but not deterministically; full predictability would be different.
-
-4. **Neural manipulation produces "willing" without consciousness.** If direct stimulation of frontal theta circuits produced the full phenomenology of willing attention in conditions where consciousness is independently verified as absent (anaesthesia, certain lesion patterns), this would suggest the phenomenology is a neural product rather than an indicator of conscious causation.
-
-5. **Meditation phenomenology contradicts the framework.** If skilled contemplatives, with highly trained introspective access, consistently reported that "willing" dissolves under examination—that close observation reveals only automatic processes—this would challenge the reliability of naive introspection about volition. (Note: Buddhist reports of "no findable agent" are addressed in the Process Philosophy section above; they don't straightforwardly falsify the framework.)
+1. **The willed/instructed distinction collapses**—if "willed" attention proves to be instructed attention with hidden cues.
+2. **Decoherence proves insurmountable**—if no mechanism can bridge quantum and neural timescales.
+3. **Willed attention becomes fully predictable**—if neural activity predicted choices with certainty, not just above chance.
+4. **Neural manipulation produces "willing" without consciousness**—if stimulating frontal theta circuits produced willing phenomenology under anaesthesia.
 
 ## Summary
 
@@ -323,38 +203,20 @@ This neural distinctiveness matters philosophically. If consciousness contribute
 
 ## Further Reading
 
-- [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from femtosecond decoherence to 300ms neural decisions
-- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — How PMTA unifies attention and motor selection under one quantum mechanism
-- [attention](/concepts/attention/) — General treatment of attention-consciousness relationship
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal bridge between consciousness and brain
-- [interface-locality](/concepts/interface-locality/) — Why voluntary attention is restricted to brain-based domains
-- [mental-effort](/concepts/mental-effort/) — Phenomenology of effort and the quantum Zeno mechanism
+- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — How PMTA unifies attention and motor selection
+- [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from decoherence to neural decisions
 - [motor-selection](/concepts/motor-selection/) — Parallel evidence from voluntary motor control
-- [agent-causation](/concepts/agent-causation/) — The philosophical framework for conscious initiation
+- [mental-effort](/concepts/mental-effort/) — Phenomenology of effort and the quantum Zeno mechanism
 - [libet-experiments](/concepts/libet-experiments/) — Parallel challenges from readiness potential research
-- [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Training voluntary attention through practice
-- [illusionism](/concepts/illusionism/) — The challenge that willing is introspective illusion
-- [introspection](/concepts/introspection/) — Reliability of first-person access to attentional states
-- [witness-consciousness](/concepts/witness-consciousness/) — Contemplative observations of attention from "outside"
 - [decoherence](/concepts/decoherence/) — The challenge of quantum coherence in biological systems
-- [mental-causation](/concepts/mental-causation/) — Broader framework for consciousness affecting physical outcomes
-- [haecceity](/concepts/haecceity/) — Why the particularity of this choice matters
 - [voluntary-attention-control-mechanisms-2026-01-17](/research/voluntary-attention-control-mechanisms-2026-01-17/) — Detailed research notes
 
 ## References
 
 - Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+- COGITATE Consortium (2025). Adversarial testing of theories of consciousness. *Nature Human Behaviour*.
 - Hagan, S., Hameroff, S.R., & Tuszynski, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-- Hore, P.J. & Mouritsen, H. (2016). The radical-pair mechanism of magnetoreception. *Annual Review of Biophysics*, 45, 299-344.
-- Ritz, T., Adem, S., & Schulten, K. (2004). A model for photoreceptor-based magnetoreception in birds. *Biophysical Journal*, 78(2), 707-718.
-- Vossel, S., Geng, J.J., & Fink, G.R. (2014). Dorsal and ventral attention systems: distinct neural circuits but collaborative roles. *The Neuroscientist*, 20(2), 150-159.
-- Vossel, S. et al. (2023). Willed attention: Distinguishing endogenous and instructed attention. *Frontiers in Psychology*, 14, 1023456.
-- Posner, M.I. (1980). Orienting of attention. *Quarterly Journal of Experimental Psychology*, 32(1), 3-25.
-- Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
-- Corbetta, M. & Shulman, G.L. (2002). Control of goal-directed and stimulus-driven attention in the brain. *Nature Reviews Neuroscience*, 3(3), 201-215.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-- Hagan, S., Hameroff, S.R., & Tuszynski, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- COGITATE Consortium (2025). Adversarial testing of theories of consciousness. *Nature Human Behaviour*.
+- Vossel, S. et al. (2023). Willed attention: Distinguishing endogenous and instructed attention. *Frontiers in Psychology*, 14, 1023456.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-23 16:00:00+00:00
+ai_modified: 2026-01-26 13:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,7 +19,7 @@ date: &id001 2026-01-23
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 06:12:00+00:00
+last_deep_review: 2026-01-26 13:00:00+00:00
 modified: *id001
 related_articles:
 - '[[quantum-measurement-interpretations-beyond-mwi]]'
@@ -81,7 +81,7 @@ The standard MWI strategy uses decision theory: rational agents should weight ou
 
 **The MWI response**: Decision-theoretic derivations (Deutsch-Wallace) claim to show that rational agents *must* weight outcomes by Born rule probabilities, given certain axioms about rational preference under branching.
 
-**The counter-response**: These derivations are contested. Critics (Kent, Albert, Loewer) argue the axioms are question-begging or insufficiently motivated. The Map of deriving probability from non-probabilistic branching may be fundamentally misguided.
+**The counter-response**: These derivations are contested. Critics (Kent, Albert, Loewer) argue the axioms are question-begging or insufficiently motivated. The project of deriving probability from non-probabilistic branching may be fundamentally misguided.
 
 ### 4. The Preferred Basis Problem
 
