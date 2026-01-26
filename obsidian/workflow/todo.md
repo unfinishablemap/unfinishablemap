@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Condense mental-effort.md (5046 words, 202% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 2500-word critical threshold for concepts/. Covers phenomenology of effort, James' insights, Stapp's quantum Zeno mechanism. Preserve: core phenomenological observations, connection to attention-as-interface. Already cross-reviewed with Stapp phenomenology; ensure those additions remain. Defer detailed Stapp mechanism to stapp-quantum-mind.md. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P2: Write voids article on language-thought boundary
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-language-thought-boundary-2026-01-26.md. Covers Wittgenstein's Tractatus limits, Sapir-Whorf research, ineffability, apophatic traditions. The boundary between speakable and unspeakable may constitute a genuine void. Distinct from general effability topic—this is specifically a voids article. Builds on apophatic-approaches.md, thoughts-that-slip-away.md, conceptual-acquisition-limits.md.
@@ -284,6 +278,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense mental-effort.md (5046 words, 202% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word critical threshold for concepts/. Covers phenomenology of effort, James' insights, Stapp's quantum Zeno mechanism. Preserve: core phenomenological observations, connection to attention-as-interface. Already cross-reviewed with Stapp phenomenology; ensure those additions remain. Defer detailed Stapp mechanism to stapp-quantum-mind.md. See /condense skill.
+- **Output**: obsidian/concepts/mental-effort.md
 
 ### ✓ 2026-01-26: Condense cognitive-phenomenology.md (5133 words, 205% of threshold)
 - **Type**: condense

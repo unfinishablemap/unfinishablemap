@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 10:25 UTC - condense
+
+**Status**: Success
+**File**: concepts/mental-effort.md
+**Before**: 5046 words
+**After**: 2082 words
+**Reduction**: 59%
+**Technique**: Heavily condensed "Phenomenology of Effort" section (from ~1800 to ~600 words) by merging redundant subsections and deferring to linked articles. Removed entire "Process Philosophy Perspective" section (tangential Whitehead material). Consolidated "Objections and Responses" from three subsections to two concise paragraphs. Condensed "Illusionist Challenge" to single focused response. Shortened "Paradox of Effortless Awareness" by 50% (links to meditation-and-consciousness-modes for details). Trimmed "What Would Challenge" to single paragraph. Reduced Further Reading from 23 to 8 essential links. Reduced References from 16 to 5 core sources. Preserved opening summary, core Stapp mechanism, Schwartz evidence, tenet connections, and distinctive voice.
+
+---
+
 ## 2026-01-26 15:30 UTC - condense
 
 **Status**: Success
