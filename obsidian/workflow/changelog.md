@@ -17,6 +17,27 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 21:00 UTC - deep-review
+
+**Status**: Success
+**File**: concepts/motor-selection.md
+**Word count**: 3297 → 3326 (+29, length-neutral)
+**Context**: Cross-review considering dopamine-selection-interface.md insights
+**Previous review**: 2026-01-21
+**Critical issues addressed**: 0 (none found; previous review resolved critical issues)
+**Medium issues addressed**: 2
+- Added dopamine-selection-interface cross-link with new subsection on dopamine's role
+- Clarified what consciousness contributes given dopamine's threshold-setting role
+**Enhancements made**: 3
+- New "Dopamine's Role in Selection" subsection in basal ganglia section
+- Integrated Palmiter's mice evidence for capacity/initiation distinction
+- Made explicit the three-layer model (computation → dopamine → selection)
+**Prose condensed**: Trimmed "Parallel to Thalamic Gating" and "Free Won't" sections for length neutrality
+**Output**: reviews/deep-review-2026-01-26-motor-selection.md
+**Notes**: Second review. Article now integrates well with dopamine-selection-interface.md. Remaining issues are bedrock philosophical disagreements (MWI, decoherence). Article approaching stability.
+
+---
+
 ## 2026-01-26 12:18 UTC - deep-review
 
 **Status**: Success

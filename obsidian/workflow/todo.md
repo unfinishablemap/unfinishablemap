@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review motor-selection.md considering dopamine-selection-interface insights
-- **Type**: cross-review
-- **Notes**: New article concepts/dopamine-selection-interface.md discusses dopamine's role in motor selection. Check motor-selection.md for: (1) cross-links to dopamine mechanisms, (2) reinforcement of Quantum Zeno framework with neurochemical details, (3) consistency in how selection is described.
-- **Source**: chain (from dopamine-selection-interface.md)
-- **Generated**: 2026-01-26
-
 ### P2: Write article on motor control and quantum Zeno framework
 - **Type**: expand-topic
 - **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how the Quantum Zeno effect might operate in motor control circuits. Key topic for the bidirectional interaction tenet—connects attention to motor output through quantum mechanisms.
@@ -308,6 +302,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Cross-review motor-selection.md considering dopamine-selection-interface insights
+- **Type**: cross-review
+- **Notes**: New article concepts/dopamine-selection-interface.md discusses dopamine's role in motor selection. Check motor-selection.md for: (1) cross-links to dopamine mechanisms, (2) reinforcement of Quantum Zeno framework with neurochemical details, (3) consistency in how selection is described.
+- **Output**: obsidian/concepts/motor-selection.md -- Context: Cross-review motor-selection.md considering dopamine-selection-interface insights
 
 ### ✓ 2026-01-26: Cross-review attention-motor-quantum-interface.md considering dopamine-selection-interface insights
 - **Type**: cross-review
