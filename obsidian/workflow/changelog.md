@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 11:40 UTC - condense
+
+**Status**: Success
+**File**: topics/ethics-of-consciousness.md
+**Before**: 5034 words
+**After**: 2001 words
+**Reduction**: 60%
+**Technique**: Removed tangential Process Philosophy section; condensed Foundation section to summary of convergent traditions; condensed Moral Responsibility to key points with link to [[moral-responsibility]]; consolidated Moral Patienthood categories; trimmed Moral Uncertainty arguments (kept weighted consideration table); condensed Animal Ethics to essentials with link to [[animal-consciousness]]; tightened AI Ethics and Identity Ethics sections; condensed Suffering section (kept valence sentientism table); compressed Illusionist Challenge to three response summary; shortened falsification section; tightened Relation to Site Perspective; trimmed Further Reading
+
+---
+
 ## 2026-01-26 11:38 UTC - coalesce
 
 **Status**: No action taken
