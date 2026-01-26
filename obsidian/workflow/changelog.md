@@ -17,6 +17,22 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 19:18 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: obsidian/concepts/downward-causation.md
+- **Context**: Cross-review considering psychophysical-laws-framework.md
+- **Word count**: 3208 → ~3200 (length-neutral)
+- **Critical issues addressed**: 0 (none found—previous review achieved stability)
+- **Medium issues addressed**: 3
+  1. Added cross-link and selection laws terminology from [[psychophysical-laws-framework]]
+  2. Revised quantum mechanism section to acknowledge multiple proposals (Stapp, Eccles, valence)
+  3. Replaced quantum Zeno decoherence response with bandwidth constraint argument
+- **Enhancements made**: Tightened Kim's argument and overdetermination sections for length neutrality
+- **Output**: `reviews/deep-review-2026-01-26-downward-causation.md`
+
+---
+
 ## 2026-01-26 19:07 UTC - deep-review (cross-review)
 
 - **Status**: Success

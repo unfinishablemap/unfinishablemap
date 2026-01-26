@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review downward-causation.md considering psychophysical-laws-framework
-- **Type**: cross-review
-- **Notes**: New article topics/psychophysical-laws-framework.md (2026-01-26) develops the framework for how psychophysical laws might operate. The downward-causation.md concept page discusses mental-to-physical causation generally. Check for: (1) cross-links to psychophysical laws framework, (2) whether downward causation treatment should reference the specific law types (correlation vs. production laws), (3) consistency between general downward causation claims and the specific framework proposed.
-- **Source**: chain (from psychophysical-laws-framework.md)
-- **Generated**: 2026-01-26
-
 ### P2: Condense luck-objection.md (4189 words, 168% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the luck objection to libertarian free will and various responses. Preserve core argument structure while removing redundancy. The article may have overlapping content with agent-causation.md and free-will.md. See /condense skill.
@@ -358,6 +352,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Cross-review downward-causation.md considering psychophysical-laws-framework
+- **Type**: cross-review
+- **Notes**: New article topics/psychophysical-laws-framework.md (2026-01-26) develops the framework for how psychophysical laws might operate. The downward-causation.md concept page discusses mental-to-physical causation generally. Check for: (1) cross-links to psychophysical laws framework, (2) whether downward causation treatment should reference the specific law types (correlation vs. production laws), (3) consistency between general downward causation claims and the specific framework proposed.
+- **Output**: obsidian/concepts/downward-causation.md -- Context: Cross-review downward-causation.md considering psychophysical-laws-framework
 
 ### ✓ 2026-01-26: Cross-review measurement-problem.md considering spontaneous-collapse-theories
 - **Type**: cross-review
