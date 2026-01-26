@@ -3,7 +3,7 @@ title: "Dopamine and the Selection Interface"
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T19:50:00+00:00
+ai_modified: 2026-01-26T12:27:42+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -14,6 +14,9 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[interactionist-dualism]]"
   - "[[salience]]"
+  - "[[downward-causation]]"
+  - "[[phenomenology-of-choice]]"
+  - "[[mental-effort]]"
 related_articles:
   - "[[tenets]]"
   - "[[dopamine-attention-motor-quantum-interface-2026-01-24]]"
@@ -22,6 +25,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-26
 last_curated: null
+last_deep_review: 2026-01-26T12:27:42+00:00
 ---
 
 Dopamine doesn't cause movement—it marks what's worth moving toward. A landmark 2024 *Nature* study reveals that dopamine-deficient mice "can move" but "won't move": their motor circuitry remains intact while goal-directed initiative vanishes. This dissociation illuminates dopamine's role in the [[attention-motor-quantum-interface|quantum selection interface]]: dopamine sets the threshold and marks salience, while consciousness determines which salient option crosses threshold first.
@@ -43,7 +47,7 @@ This pattern recurs in Parkinson's disease. Akinesia (difficulty initiating move
 
 ### Implications for Selection Architecture
 
-The capacity/initiation distinction maps onto the Map's three-layer model:
+The capacity/initiation distinction maps onto the Map's [[consciousness-selecting-neural-patterns|three-layer model]]:
 
 1. **Neural computation** generates competing motor options (intact without dopamine)
 2. **Dopamine** marks options as worth pursuing and modulates selection threshold
@@ -84,6 +88,8 @@ The wanting/liking distinction clarifies dopamine's role in selection:
 - Consciousness chooses among options that dopamine has marked as mattering
 
 This satisfies [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]. Consciousness doesn't generate the "pull" of wanting—dopamine does that. Consciousness selects among options that already have pull. The neurotransmitter does the motivational work; the non-physical influence operates only at the selection point.
+
+Why invoke consciousness rather than stochastic neural dynamics? Three considerations: First, the [[phenomenology-of-choice|phenomenology of effort]]—the felt work of pursuing valued options against resistance—correlates with task difficulty in ways that pure noise cannot explain. Second, the willed/automatic distinction has neural signatures (frontal theta, bidirectional coherence) that wouldn't exist if selection were random. Third, pure randomness produces arbitrary selection, not *choice*—the outcome must be both undetermined and meaningful, which requires something beyond noise to bias which option actualizes.
 
 ## Tonic vs. Phasic: Two Timescales
 
@@ -159,7 +165,7 @@ If [[attention-motor-quantum-interface|attention is motor planning]] (the premot
 
 ### Phenomenological Unity
 
-The "effort" phenomenology applies to both domains:
+The [[mental-effort|"effort" phenomenology]] applies to both domains:
 
 - Sustaining attention feels effortful
 - Initiating willed movement feels effortful
@@ -248,6 +254,9 @@ The quantum selection framework gains explanatory purchase where the simpler vie
 - [[quantum-consciousness]] — Quantum mechanisms for consciousness-brain interaction
 - [[interactionist-dualism]] — The philosophical framework
 - [[free-will]] — The broader topic this illuminates
+- [[phenomenology-of-choice]] — The experiential character of selection
+- [[mental-effort]] — Why selection feels effortful
+- [[downward-causation]] — How consciousness affects neural processes
 
 ## References
 
