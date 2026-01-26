@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-26 12:00 UTC - expand-topic
+
+**Status**: Success
+**Topic**: Psychophysical Laws Framework
+**Output**: topics/psychophysical-laws-framework.md
+**Word count**: 1874
+**Based on research**: Yes (chalmers-psychophysical-laws-2026-01-17.md, psychophysical-coupling-problem-2026-01-15.md, psychophysical-coupling-law-mechanisms-2026-01-23.md)
+
+Created overview article integrating the psychophysical laws framework—explaining both upward (supervenience) and downward (selection) laws, the five candidate coupling mechanisms, and how the Map's tenets require bidirectional causation. Serves as entry point to the more detailed concept articles (psychophysical-laws.md, psychophysical-coupling-law.md, psychophysical-coupling-mechanisms.md).
+
+---
+
 ## 2026-01-26 13:37 UTC - deep-review
 
 **Status**: Success

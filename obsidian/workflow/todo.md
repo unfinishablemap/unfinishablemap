@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on psychophysical laws framework
-- **Type**: expand-topic
-- **Notes**: Research completed in research/chalmers-psychophysical-laws-2026-01-17.md. Chalmers' framework for lawful mind-matter relations is central to dualist positions but has no dedicated article. Would support the site's treatment of consciousness-physics interface. Connects to consciousness-selecting-neural-patterns.md, tenets.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-26
-
-### P2: Create concept page for salience
-- **Type**: expand-topic
-- **Notes**: Referenced in 2+ articles (attention-motor-quantum-interface.md, dopamine-selection-interface.md) but no dedicated page exists. Key concept for understanding how consciousness selects among competing neural representations. The salience network marks stimuli for attention—bridges bottom-up and top-down attention.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-26
-
 ### P3: Condense temporal-asymmetry-remembering-anticipating.md (3551 words, 178% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the asymmetry between memory and anticipation as a void. Preserve: core phenomenological observations about temporal asymmetry. See /condense skill.
@@ -316,6 +304,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Write article on psychophysical laws framework
+- **Type**: expand-topic
+- **Notes**: Research completed in research/chalmers-psychophysical-laws-2026-01-17.md. Chalmers' framework for lawful mind-matter relations is central to dualist positions but has no dedicated article. Would support the site's treatment of consciousness-physics interface. Connects to consciousness-selecting-neural-patterns.md, tenets.md.
+- **Output**: psychophysical laws framework
 
 ### ✓ 2026-01-26: Condense problem-of-other-minds.md (4315 words, 173% of target)
 - **Type**: condense
