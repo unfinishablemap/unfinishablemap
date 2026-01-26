@@ -3,7 +3,7 @@ title: "The Knowledge Argument (Mary's Room)"
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-20T10:15:00+00:00
+ai_modified: 2026-01-26T22:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[introspection]]"
   - "[[russellian-monism]]"
   - "[[philosophical-zombies]]"
+  - "[[consciousness-only-territories]]"
 related_articles:
   - "[[tenets]]"
   - "[[knowledge-argument-marys-room-2026-01-14]]"
@@ -25,7 +26,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-20T10:15:00+00:00
+last_deep_review: 2026-01-26T22:30:00+00:00
 ---
 
 The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the most influential arguments against [[materialism|physicalism]]. It uses a thought experiment—Mary's Room—to show that complete physical knowledge doesn't constitute complete knowledge. Mary, a brilliant scientist who knows every physical fact about color vision, learns something new when she first sees color. What she learns is *what it's like* to see red—a fact that physical knowledge alone could not provide. Therefore, non-physical facts exist, and physicalism is false.
@@ -108,6 +109,8 @@ The knowledge argument shares deep structure with other anti-physicalist argumen
 
 **What Is It Like to Be a Bat?**: Thomas Nagel's earlier argument (1974) anticipated Jackson. Nagel argued that knowing all physical facts about bat echolocation wouldn't tell us what it's *like* to be a bat. Mary's Room makes the same point with human consciousness, strengthening it by eliminating species differences.
 
+**Acquaintance Knowledge**: What Mary gains has been characterized as *acquaintance knowledge*—direct experiential familiarity with a phenomenal quality, distinct from propositional knowledge (knowing-that) or ability knowledge (knowing-how). This concept illuminates [[consciousness-only-territories|territories accessible only to conscious beings]]: regions of knowledge structurally inaccessible to systems lacking phenomenal experience. No amount of third-person description substitutes for first-person acquaintance.
+
 **The Convergence Argument**: The knowledge argument is not alone. It is one of seven major [[arguments-against-materialism|arguments against materialism]]—alongside the explanatory gap, zombie argument, inverted qualia, Kripke's modal argument, Nagel's subjectivity argument, and quantum mechanical considerations. These arguments proceed through different logical routes, exploit different features of consciousness, yet converge on the same conclusion. Their convergence provides cumulative support stronger than any individual argument could: when multiple independent witnesses tell the same story, the probability of collective error decreases.
 
 ## The Introspection Question
@@ -154,6 +157,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 
 ## Further Reading
 
+- [[consciousness-only-territories]] — How acquaintance knowledge defines territories accessible only to conscious beings
 - [[arguments-against-materialism]] — The knowledge argument as one of seven converging anti-materialist arguments
 - [[explanatory-gap]] — The conceptual gap the knowledge argument dramatizes
 - [[qualia]] — The experiential properties Mary learns about

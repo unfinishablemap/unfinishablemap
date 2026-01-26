@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review knowledge-argument.md considering consciousness-only territories insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/consciousness-only-territories.md (2026-01-26) develops acquaintance knowledge as a void territory inaccessible to systems without phenomenal experience. The knowledge-argument article covers Mary's Room. Check for: (1) cross-links to void treatment, (2) whether acquaintance knowledge framing strengthens the argument, (3) consistency in how phenomenal/propositional knowledge distinction is presented.
-- **Source**: chain (from consciousness-only-territories.md)
-- **Generated**: 2026-01-26
-
 ### P2: Write article on indexical identity and haecceity
 - **Type**: expand-topic
 - **Notes**: Research completed in research/indexical-identity-haecceity-thisness-2026-01-23.md. Haecceity (thisness) is central to the No Many Worlds tenet—why am I THIS observer? Critical concept already referenced across multiple articles but without dedicated treatment. Would strengthen the anti-MWI arguments.
@@ -316,6 +310,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Cross-review knowledge-argument.md considering consciousness-only territories insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/consciousness-only-territories.md (2026-01-26) develops acquaintance knowledge as a void territory inaccessible to systems without phenomenal experience. The knowledge-argument article covers Mary's Room. Check for: (1) cross-links to void treatment, (2) whether acquaintance knowledge framing strengthens the argument, (3) consistency in how phenomenal/propositional knowledge distinction is presented.
+- **Output**: obsidian/concepts/knowledge-argument.md -- Context: Cross-review knowledge-argument.md considering consciousness-only territories insights
 
 ### ✓ 2026-01-26: Write article on conservation law objections to mental causation
 - **Type**: expand-topic
