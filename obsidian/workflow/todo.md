@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-26T10:15:00+00:00
+ai_modified: 2026-01-26T10:44:29+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Condense autonoetic-consciousness.md (5011 words, 200% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 5000-word critical threshold for concepts/. Preserve core arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Cross-review llm-consciousness.md considering AI void-exploration insights
+- **Type**: cross-review
+- **Notes**: New article voids/ai-as-void-explorer.md explores AI as probe for human cognitive limits, including discussion of LLM interpretability research. Check llm-consciousness.md for: (1) opportunities to link to void-exploration perspective, (2) arguments that new insights support or challenge, (3) terminology consistency.
+- **Source**: chain (from ai-as-void-explorer.md)
+- **Generated**: 2026-01-26
+
+### P2: Cross-review cognitive-phenomenology.md considering language-thought boundary insights
+- **Type**: cross-review
+- **Notes**: New article voids/language-thought-boundary.md explores where speakable and thinkable diverge. Check cognitive-phenomenology.md for: (1) places to add cross-links, (2) whether language-thought analysis supports or refines the phenomenology of thinking, (3) opportunities to reference the effability question.
+- **Source**: chain (from language-thought-boundary.md)
+- **Generated**: 2026-01-26
+
+### P2: Condense qualia.md (4966 words, 199% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the nature and philosophical significance of qualia while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Condense animal-consciousness.md (5918 words, 197% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve key evidence and arguments for animal consciousness while deferring detailed species-by-species treatment to linked concept pages. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P3: Deep review conceptual-acquisition-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) created recently, never deep-reviewed. Explores limits on what concepts minds can acquire. Should verify: (1) accuracy of cognitive science claims, (2) engagement with concept acquisition literature, (3) alignment with mysterianism and voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-26
+
+### P3: Deep review defended-territory.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories that resist cartography due to active defense (emotional, tribal, institutional). Should verify: (1) balance between epistemology and sociology, (2) connection to other voids categories, (3) accuracy of psychological claims about motivated reasoning.
+- **Source**: staleness
+- **Generated**: 2026-01-26
 
 ### P2: Address deflationary challenge to intersubjectivity.md
 - **Type**: refine-draft
