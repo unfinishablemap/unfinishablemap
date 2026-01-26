@@ -6,7 +6,7 @@ Runs tasks in a deterministic cycle. Speed is controlled by --interval.
 The cycle ensures consistent task ratios regardless of speed.
 
 Two scheduling layers:
-1. Time-triggered: tweet-highlight at 7am UTC (wall clock)
+1. Time-triggered: add-highlight-tweet at 8am UTC (wall clock)
 2. Cycle-triggered: everything else follows the repeating task cycle
 """
 
@@ -49,8 +49,8 @@ REPO_ROOT = Path(__file__).parent.parent
 STATE_PATH = REPO_ROOT / "obsidian" / "workflow" / "evolution-state.yaml"
 CHANGELOG_PATH = REPO_ROOT / "obsidian" / "workflow" / "changelog.md"
 
-# Tweet time (7am UTC)
-TWEET_HOUR_UTC = 7
+# Add-and-tweet time (8am UTC)
+TWEET_HOUR_UTC = 8
 
 # Minimum P0-P2 tasks before replenishment
 MIN_QUEUE_TASKS = 3
@@ -422,11 +422,57 @@ def run_agent_commit(
 # Time-triggered tasks
 # -----------------------------------------------------------------------------
 
+# Task types worth highlighting
+HIGHLIGHT_WORTHY = {
+    "expand-topic",
+    "research-topic",
+    "research-voids",
+    "deep-review",
+    "coalesce",
+    "apex-evolve",
+}
 
-def should_tweet(now: datetime, state: EvolutionState) -> bool:
-    """Check if we should run tweet-highlight.
+# Task types to skip for highlighting
+HIGHLIGHT_SKIP = {
+    "validate-all",
+    "check-links",
+    "check-tenets",
+    "condense",
+    "replenish-queue",
+    "tweet-highlight",
+    "add-highlight",
+}
 
-    Tweets once per day at/after 7am UTC.
+
+def find_highlight_candidate(
+    recent_tasks: list[TaskRecord], today: str
+) -> TaskRecord | None:
+    """Find highlight-worthy work from today's successful tasks.
+
+    Args:
+        recent_tasks: List of recent task records
+        today: ISO date string for today
+
+    Returns:
+        TaskRecord to highlight, or None if nothing worthy found.
+    """
+    for task in reversed(recent_tasks):  # Most recent first
+        if task.date != today:
+            continue
+        if task.outcome != "success":
+            continue
+        if task.task_type in HIGHLIGHT_SKIP:
+            continue
+        if task.task_type in HIGHLIGHT_WORTHY:
+            return task
+
+    return None
+
+
+def should_add_and_tweet(now: datetime, state: EvolutionState) -> bool:
+    """Check if we should run add-highlight with tweet.
+
+    Runs once per day at/after 8am UTC.
     """
     if now.hour < TWEET_HOUR_UTC:
         return False
@@ -454,23 +500,37 @@ def run_session(
     tasks_executed = []
     todo_content = load_todo()
 
-    # 1. Time-triggered: Tweet at 7am
-    if should_tweet(now, state):
-        log.info(f"Tweet-highlight triggered ({now.hour}:00 UTC)")
-        try:
-            success, output = run_skill(
-                SkillInvocation("tweet-highlight"),
-                timeout_seconds=timeout,
-                verbose=verbose,
-            )
-            if success:
-                state.last_tweet_date = now.date().isoformat()
-                tasks_executed.append("tweet-highlight")
-                log.info("Tweet-highlight completed")
-            else:
-                log.warning("Tweet-highlight failed (non-fatal)")
-        except SkillTimeoutError:
-            log.warning("Tweet-highlight timed out (non-fatal)")
+    # 1. Time-triggered: Add highlight and tweet at 8am UTC
+    today = now.date().isoformat()
+    if should_add_and_tweet(now, state):
+        log.info(f"Add-and-tweet triggered ({now.hour}:00 UTC)")
+        candidate = find_highlight_candidate(state.recent_tasks, today)
+        if candidate:
+            log.info(f"Highlight candidate: {candidate.task_type} - {candidate.task}")
+            try:
+                # Pass task info to skill - Claude will read file and compose highlight
+                # The --tweet flag triggers: add → commit → push → wait for deploy → tweet
+                success, output = run_skill(
+                    SkillInvocation(
+                        "add-highlight",
+                        f"--from-task '{candidate.task_type}: {candidate.task}' --tweet",
+                    ),
+                    timeout_seconds=600,  # 10 min for push+deploy+tweet
+                    verbose=verbose,
+                )
+                if success:
+                    state.last_tweet_date = today
+                    tasks_executed.append("add-highlight-tweet")
+                    log.info("Add-and-tweet completed")
+                else:
+                    log.warning("Add-and-tweet failed (non-fatal)")
+                    state.last_tweet_date = today  # Don't retry today
+            except SkillTimeoutError:
+                log.warning("Add-and-tweet timed out (non-fatal)")
+                state.last_tweet_date = today  # Don't retry today
+        else:
+            log.info("No highlight-worthy work found today")
+            state.last_tweet_date = today  # Don't retry today
 
     # 2. Queue health check
     p0_p2_count = count_p0_p2_tasks(todo_content)

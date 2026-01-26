@@ -109,9 +109,53 @@ uv run python scripts/highlights.py add \
   --link "[[consciousness-selecting-neural-patterns]]"
 ```
 
-## Integration with /evolve
+## Automated Invocation (from evolve_loop)
 
-The `/evolve` skill automatically considers adding a highlight at the end of each session. You don't need to manually call `/add-highlight` after evolve—it handles this.
+The evolution loop automatically invokes this skill at **8am UTC daily** when there's highlight-worthy work from today's successful tasks. It passes task context via `--from-task`.
+
+### When invoked with `--from-task`
+
+Parse the task info and compose an appropriate highlight:
+
+1. **Parse the context** (e.g., `expand-topic: concepts/qualia.md`)
+2. **Read the relevant file** to understand what was created/changed
+3. **Compose an engaging highlight**:
+   - **Title**: 5-10 words, engaging, makes people want to click
+   - **Description**: 1-2 sentences, max 280 chars
+   - **Type**: new-article, insight, research, or refinement
+   - **Link**: wikilink to the content
+4. **Call the CLI** with `--tweet` flag
+
+### Example
+
+Input: `--from-task 'expand-topic: concepts/quantum-timing.md' --tweet`
+
+Steps:
+1. Read `obsidian/concepts/quantum-timing.md`
+2. Understand the article's thesis
+3. Compose highlight and run:
+
+```bash
+uv run python scripts/highlights.py add \
+  "Quantum Timing: When Mind Meets Matter" \
+  "New article maps timescales from femtosecond decoherence to 300ms decisions, showing how quantum effects must operate within neural constraints." \
+  --type new-article \
+  --link "[[quantum-timing]]" \
+  --tweet
+```
+
+The `--tweet` flag triggers the full chain: **add → commit → push → wait for deployment → tweet**.
+
+### Task type to highlight type mapping
+
+| Task Type | Highlight Type |
+|-----------|---------------|
+| expand-topic | new-article |
+| research-topic | research |
+| research-voids | research |
+| deep-review | insight |
+| coalesce | new-article |
+| apex-evolve | new-article |
 
 ## Important
 

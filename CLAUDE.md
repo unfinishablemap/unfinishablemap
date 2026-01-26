@@ -200,7 +200,7 @@ The Map includes scheduled AI automation for content development. All AI-generat
 | `/replenish-queue [mode]` | Auto-generate tasks when queue is empty (chains, gaps, research) | Yes (todo.md only) |
 | `/tune-system` | Monthly meta-review: analyze system operation | Yes (state, minor) |
 | `/add-highlight` | Add item to highlights page (max 1/day) | Yes (highlights.md) |
-| `/tweet-highlight` | Tweet the most recent untweeted highlight. Scheduled for 7am UTC daily. | No (external only) |
+| `/tweet-highlight` | [DEPRECATED] Use add-highlight --tweet instead. Tweets existing highlight without deployment verification. | No (external only) |
 | `/outer-review` | Commission and process external AI analysis to reduce blind spots | Yes (creates review, tasks) |
 | `/coalesce` | Combine multiple related articles into one unified piece. Archives originals to preserve URLs. | Yes (creates, archives) |
 | `/archive` | Archive an article while preserving its URL for external links. | Yes (moves to archive) |
@@ -267,7 +267,7 @@ The evolution loop (`scripts/evolve_loop.py`) uses a deterministic task cycle. S
 - tune-system: every 6 cycles
 
 **Time-triggered** (wall clock):
-- tweet-highlight: 7am UTC daily
+- add-highlight-tweet: 8am UTC daily (finds highlight-worthy work, adds highlight, pushes, waits for deploy, tweets)
 
 **Speed examples:**
 | Interval | Sessions/day | Cycle duration |

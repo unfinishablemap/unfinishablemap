@@ -1,50 +1,48 @@
 ---
 name: tweet-highlight
-description: Tweet the most recent untweeted highlight. Scheduled for 7am UTC daily.
+description: "[DEPRECATED] Use add-highlight --tweet instead. Tweets existing highlight without deployment verification."
 ---
 
-# Tweet Highlight
+# Tweet Highlight (DEPRECATED)
 
-Posts the most recent highlight to Twitter/X.
+**This skill is deprecated.** Use `add-highlight --tweet` instead, which:
+- Creates the highlight
+- Commits and pushes
+- Waits for deployment verification
+- Then tweets
 
-## When to Use
+This skill only tweets an existing highlight without verifying the linked content is deployed.
 
-- Automatically invoked by `evolve_loop.py` at 7am UTC daily
-- Manual invocation: `/tweet-highlight`
+## Legacy Behavior
 
-## Instructions
-
-### 1. Check for Recent Highlight
-
-Read the highlights file and find the most recent entry:
-
-```bash
-uv run python scripts/highlights.py list --limit 1
-```
-
-If no highlights exist, report this and exit.
-
-### 2. Post the Tweet
-
-Use the highlights CLI to tweet the most recent highlight:
+Posts the most recent untweeted highlight to Twitter/X using:
 
 ```bash
 uv run python scripts/highlights.py tweet-latest
 ```
 
-This will:
-- Get the most recent highlight
-- Format it for Twitter (description + link URL)
-- Post via Twitter API
-- Return success/failure status
+## Why Deprecated
 
-### 3. Report Result
+The old flow was:
+1. Highlight added manually at some point
+2. Content pushed at some point
+3. `tweet-highlight` runs at 7am → tweets without verifying deployment
 
-Log whether the tweet was posted successfully or if there was an error.
+The new flow (via `add-highlight --tweet`) is:
+1. Find highlight-worthy work from today's tasks
+2. Compose and add highlight
+3. Commit and push
+4. Wait for deployment (polls URL for up to 5 minutes)
+5. Tweet only after content is verified live
 
-## Important
+This ensures tweets never link to 404 pages.
 
-- **Timing is handled by Python** - `evolve_loop.py` controls when this skill runs (7am UTC)
-- **Duplicate prevention** - Each highlight stores its tweet URL; won't tweet the same highlight twice
-- **Requires Twitter credentials** - if not configured, logs warning and skips
-- **Non-blocking** - Twitter failures don't affect other tasks
+## Manual Use
+
+If you need to tweet an existing highlight that wasn't tweeted:
+
+```bash
+uv run python scripts/highlights.py tweet-latest
+```
+
+But prefer using `add-highlight --tweet` for new highlights.
