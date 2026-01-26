@@ -3,7 +3,7 @@ title: "The Psychophysical Laws Framework"
 created: 2026-01-26
 modified: 2026-01-26
 human_modified:
-ai_modified: 2026-01-26T12:00:00+00:00
+ai_modified: 2026-01-26T14:10:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[decoherence]]"
   - "[[epiphenomenalism]]"
+  - "[[mysterianism]]"
 related_articles:
   - "[[tenets]]"
   - "[[chalmers-psychophysical-laws-2026-01-17]]"
@@ -25,12 +26,12 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-26
 last_curated:
-last_deep_review:
+last_deep_review: 2026-01-26T14:10:30+00:00
 ---
 
 If consciousness is ontologically distinct from physics—as The Unfinishable Map's [[tenets#^dualism|Dualism tenet]] holds—then the relationship between mind and matter requires specification through fundamental laws. These psychophysical laws bridge what physics describes (neurons, fields, particles) and what we experience (pain, colour, intention). Without such laws, dualism remains a bare assertion; with them, it becomes a research program with testable structure.
 
-David Chalmers developed the canonical framework for psychophysical laws, arguing that consciousness requires extending our fundamental ontology just as electromagnetism required new laws beyond mechanics. The Map builds on this framework while emphasizing a critical asymmetry: Chalmers focuses on *upward* laws (which physical states produce which experiences), while the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires *downward* laws (which conscious states select which physical outcomes). This page provides an integrated overview of the framework—what psychophysical laws are, why they're needed, how the upward and downward directions differ, and what challenges any such framework must address.
+David Chalmers developed the canonical framework for psychophysical laws, arguing that consciousness requires extending our fundamental ontology just as electromagnetism required new laws beyond mechanics. The Map builds on this framework while emphasizing a critical asymmetry: Chalmers focuses on *upward* laws (which physical states produce which experiences), while the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires *downward* laws (which conscious states select which physical outcomes). This page provides an integrated overview of the framework—what psychophysical laws are, why they're needed, how the upward and downward directions differ, and what challenges any such framework must address. For Chalmers' framework in greater depth, see the companion [[psychophysical-laws]] concept page.
 
 ## The Structure of Psychophysical Laws
 
@@ -60,7 +61,7 @@ Selection laws must specify:
 
 1. **Variables on the mental side**: What aspects of experience map to selection? Attention? Intention? Effort? Valence?
 2. **Variables on the physical side**: What physical parameters does consciousness influence? Observation rate? Probability weights? Measurement basis?
-3. **Bandwidth constraints**: How much selection can consciousness accomplish per unit time? (Research suggests ~10 bits/second—the measured bandwidth of conscious thought.)
+3. **Bandwidth constraints**: How much selection can consciousness accomplish per unit time? Research suggests ~10 bits/second—the measured bandwidth of conscious thought. This constraint is significant: it implies consciousness operates at the level of policies and action patterns, not individual quantum events. The tight bandwidth limit actually supports the framework by explaining why mental causation operates through attention allocation rather than micromanaging neural activity.
 4. **Scope constraints**: What is *not* selectable? (External systems? Others' brains? Events outside attention?)
 
 The [[psychophysical-coupling-law]] page develops these requirements in detail.
@@ -137,7 +138,7 @@ Any quantum approach to psychophysical laws faces the decoherence objection: war
 
 Three considerations moderate this concern:
 
-**Disputed timescales**: Tegmark's influential calculations assumed conditions that may not apply in biological systems. Under biologically realistic assumptions, Hameroff's group obtained coherence times seven orders of magnitude longer.
+**Disputed timescales**: Tegmark's (2000) calculations remain influential and most physicists accept them. However, Hameroff's group challenged specific assumptions—arguing that Tegmark modelled the wrong physical system (treating microtubules as isolated quantum systems rather than coupled networks) and used unrealistic thermal parameters. Under revised assumptions, they obtained coherence times several orders of magnitude longer. The debate is ongoing; the Map does not claim it is resolved but notes that categorical dismissal of neural quantum effects is premature.
 
 **Biological quantum effects exist**: Avian magnetoreception maintains spin coherence for microseconds in warm tissue. Photosynthesis exploits quantum coherence for energy transfer. Evolution has found ways to harness quantum effects in biology.
 
@@ -153,7 +154,7 @@ Three responses are available:
 
 **Scientific immaturity**: Physics took centuries to achieve its current systematization. Consciousness science is young. The absence of simple laws now doesn't imply their absence in principle.
 
-**Cognitive closure**: Perhaps psychophysical laws involve concepts our minds aren't built to grasp—not because the laws don't exist, but because our evolutionary history didn't require comprehending them. This [[mysterianism|mysterian]] response shifts the problem from metaphysics to epistemology.
+**Cognitive closure**: Perhaps psychophysical laws involve concepts our minds aren't built to grasp—not because the laws don't exist, but because our evolutionary history didn't require comprehending them. This [[mysterianism|mysterian]] response shifts the problem from metaphysics to epistemology. See [[mysterianism]] for the fuller argument that consciousness may be cognitively closed to human understanding.
 
 **Piecemeal progress**: The framework may never achieve physics-like elegance while still providing testable constraints. Stapp's attention mechanism and Eccles' intention mechanism offer specific predictions even without grand unification.
 
@@ -174,6 +175,20 @@ The psychophysical laws framework is where the Map's [[tenets]] become theoretic
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** justifies the ontological expansion. Adding fundamental laws seems less parsimonious than physicalism. But a parsimonious theory that ignores robust data isn't genuinely simpler—it's inadequate. If consciousness exists and isn't physical, psychophysical laws are necessary completions of our picture, not optional additions.
 
 The framework transforms abstract tenets into researchable questions: Which phenomenal properties map to selection? Through what mechanisms? With what bandwidth? Subject to what constraints? These questions have structure even where they lack final answers.
+
+## What Would Challenge This View?
+
+The psychophysical laws framework would face serious difficulty if:
+
+1. **The hard problem dissolves.** If neuroscience develops a fully satisfying explanation of why we *believe* we have phenomenal experiences without invoking phenomenal properties—and this explanation doesn't tacitly reintroduce experience—the motivation for psychophysical laws evaporates. Current illusionist proposals face the regress problem (misrepresentation presupposes presentation), but a proposal that genuinely avoided it would challenge the framework.
+
+2. **Quantum mechanisms prove unavailable.** If decoherence in neural tissue is so rapid and complete that no quantum indeterminacy survives at any relevant scale—and no protective mechanism (Fröhlich coherence, nuclear spin isolation) proves viable—the Map's specific account of downward causation loses its physical basis. The conceptual need for selection laws would remain, but implementation would need rethinking.
+
+3. **Many-worlds is confirmed.** If MWI were empirically vindicated and the Born rule derived without collapse, selection laws would lose their target. All outcomes would occur; "selection" would be mere indexical uncertainty. Psychophysical laws would collapse to supervenience laws. How MWI could be empirically confirmed remains unclear, but were it confirmed, the framework would need substantial revision.
+
+4. **Specification remains impossible.** If after decades of further work, no psychophysical law can be formulated with enough precision to generate testable predictions, the framework risks unfalsifiability. The existence of candidate mechanisms (Stapp, Eccles) provides hope, but if these prove untestable in principle, the framework's scientific status weakens.
+
+5. **Phenomenology contradicts the mechanism.** If careful phenomenological investigation reveals that mental effort, attention, and intention have structures incompatible with the proposed quantum coupling—for instance, if attention operates continuously rather than in discrete "observations"—the specific mechanisms would need revision. The phenomenology currently supports the attention-based account, but future investigation could challenge this.
 
 ## Further Reading
 
