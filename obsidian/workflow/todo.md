@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-26T22:15:00+00:00
+ai_modified: 2026-01-26T22:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write voids article on consciousness-only territories
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-consciousness-only-territories-2026-01-26.md. Explores territories accessible only to conscious minds—regions of knowledge structurally inaccessible to systems lacking phenomenal experience. The inverse of AI-as-void-explorer. Key findings: acquaintance knowledge (Mary's Room), indexical knowledge, valence asymmetry. Builds on ai-as-void-explorer.md, knowledge-argument.md, qualia.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-26
+
+### P2: Condense voluntary-attention.md (4405 words, 176% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core article for the attention-as-interface framework. Preserve: top-down attention mechanisms, prefrontal involvement, connection to free will. Defer detailed neuroanatomy to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P2: Condense stapp-quantum-mind.md (4315 words, 173% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core quantum consciousness mechanism article covering Stapp's Quantum Zeno framework and mental effort. Preserve: Quantum Zeno mechanism explanation, connection to attention, phenomenology of effort. Defer detailed physics to quantum-consciousness.md. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P3: Condense temporal-asymmetry-remembering-anticipating.md (3551 words, 178% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the asymmetry between memory and anticipation as a void. Preserve: core phenomenological observations about temporal asymmetry. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-26
+
+### P3: Create concept page for visual-consciousness
+- **Type**: expand-topic
+- **Notes**: Referenced in multiple articles but no dedicated page exists. The paradigmatic case for studying phenomenal consciousness—color experience, visual imagery, blindsight. Would support cross-linking and clarify discussions of qualia. Builds on qualia.md, phenomenal-consciousness.md, neural-correlates-of-consciousness.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-26
 
 ### P3: Deep review dopamine-selection-interface.md
 - **Type**: deep-review
