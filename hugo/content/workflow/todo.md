@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review thoughts-that-slip-away.md considering defended-territory insights
-- **Type**: cross-review
-- **Notes**: New article voids/defended-territory.md (2026-01-25) develops the "Occluded" void category—thoughts actively blocked rather than merely difficult. The thoughts-that-slip-away.md article introduced the taxonomy of slippage but should now reference the fuller treatment of defense mechanisms. Check for: (1) cross-links to defended-territory, (2) whether the original taxonomy needs updating given Wegner's ironic process theory, (3) consistency in void category terminology.
-- **Source**: chain (from defended-territory.md)
-- **Generated**: 2026-01-26
-
 ### P2: Cross-review whether-real.md considering defended-territory insights
 - **Type**: cross-review
 - **Notes**: New article voids/defended-territory.md (2026-01-25) develops the "Occluded" category and raises the question of whether some avoidance could be content-specific and externally imposed. The whether-real.md article examines the ontological status of voids and should engage with whether defended territories have different reality status than merely unexplored voids. Check for: (1) cross-links to defended-territory, (2) whether the Occluded category affects the arguments about void reality.
@@ -279,6 +273,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-25: Write voids article on tenet-generated voids
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-tenet-generated-voids-2026-01-25.md. Every philosophical framework generates its own voids—questions it points toward but cannot answer. Examines the specific voids each of the Map's five tenets creates: the irreducible phenomenal aspect (Dualism), the mechanism problem (Bidirectional Interaction), collapse-consciousness coordination (Minimal Quantum), indexical probability (No Many Worlds), and the meta-question of simplicity (Occam's Limits). Builds on limits-reveal-structure.md, whether-real.md.
+- **Output**: Write voids article on tenet-generated voids
 
 ### ✓ 2026-01-25: Write voids article on AI as void-explorer
 - **Type**: expand-topic
@@ -521,7 +520,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-24: Deep review bidirectional-interaction.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) never deep-reviewed. Directly supports the Bidirectional Interaction tenet—if this article has errors, the tenet's credibility suffers. Should verify: (1) accurate representation of causal closure debate, (2) conservation law responses, (3) empirical evidence claims (Libet, Schwartz OCD), (4) connection to quantum mechanism.
-- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Fixed critical misattribution (Lieberman 2008 was wrong paper)—replaced with accurate Randeniya 2025 meta-analysis and Bayne & Hohwy three-functions framework. Added new "The Timing Challenge" subsection addressing Tegmark critique with cross-link to [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/). Added illusionist response paragraph explaining why it fails. Added cross-links to [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/), [voluntary-attention](/concepts/voluntary-attention/), [argument-from-reason](/topics/argument-from-reason/), [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/). Fixed broken [baseline-cognition](/archive/topics/baseline-cognition/) link. Added Tomasello, Tegmark citations.
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Fixed critical misattribution (Lieberman 2008 was wrong paper)—replaced with accurate Randeniya 2025 meta-analysis and Bayne & Hohwy three-functions framework. Added new "The Timing Challenge" subsection addressing Tegmark critique with cross-link to [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/). Added illusionist response paragraph explaining why it fails. Added cross-links to [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/), [voluntary-attention](/concepts/voluntary-attention/), [argument-from-reason](/topics/argument-from-reason/), [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/). Fixed broken [baseline-cognition](/archive/topics/baseline-cognition/) link. Added Tomasello, Tegmark citations.
 - **Output**: concepts/bidirectional-interaction.md, reviews/deep-review-2026-01-24-bidirectional-interaction.md
 
 ### ✓ 2026-01-24: Deep review voluntary-attention.md
@@ -617,7 +616,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-24: Cross-review baseline-cognition.md considering conscious-vs-unconscious article
 - **Type**: cross-review
 - **Notes**: New article concepts/conscious-vs-unconscious-processing.md provides empirical grounding for the baseline cognition hypothesis—the 2025 fMRI reanalysis showing only 10% of unconscious processing claims survive rigorous methodology. The baseline-cognition.md article should be reviewed to: (1) add cross-link to conscious-vs-unconscious-processing, (2) integrate the three functions requiring consciousness (durable maintenance, novel combinations, spontaneous intentional action), (3) strengthen the empirical case for consciousness's functional role.
-- **Result**: Added [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) to frontmatter concepts (first position). Added new introduction to "What Baseline Cognition Cannot Achieve" section explaining: (1) the 2025 Randeniya meta-analysis finding that only 10% of claimed unconscious effects survive scrutiny, (2) how this converges with comparative cognition evidence, (3) the three functions requiring consciousness framework. Added parenthetical labels (Durable Maintenance), (Novel Combinations), (Spontaneous Intentional Action) to the three main subsections and expanded each with cross-links to conscious-vs-unconscious-processing showing how the human-ape gap maps onto these specific consciousness-requiring functions. Added conscious-vs-unconscious-processing as first entry in Further Reading.
+- **Result**: Added [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) to frontmatter concepts (first position). Added new introduction to "What Baseline Cognition Cannot Achieve" section explaining: (1) the 2025 Randeniya meta-analysis finding that only 10% of claimed unconscious effects survive scrutiny, (2) how this converges with comparative cognition evidence, (3) the three functions requiring consciousness framework. Added parenthetical labels (Durable Maintenance), (Novel Combinations), (Spontaneous Intentional Action) to the three main subsections and expanded each with cross-links to conscious-vs-unconscious-processing showing how the human-ape gap maps onto these specific consciousness-requiring functions. Added conscious-vs-unconscious-processing as first entry in Further Reading.
 - **Output**: concepts/baseline-cognition.md
 
 ### ✓ 2026-01-23: Cross-review voluntary-attention-control.md considering attention-motor quantum interface article

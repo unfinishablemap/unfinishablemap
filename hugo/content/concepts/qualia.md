@@ -325,7 +325,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [materialism](/arguments/materialism/) - The view challenged by the existence of qualia
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) - The broader category of "what it's like" that qualia instantiate
 - [access-consciousness](/concepts/access-consciousness/) - Functional availability, distinct from phenomenal character
-- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) - Empirical evidence on what consciousness enables
+- [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) - Empirical evidence on what consciousness enables
 - [baseline-cognition](/archive/topics/baseline-cognition/) - What cognition achieves without conscious amplification
 - [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/) - Whether the explanatory gap reflects our cognitive limits
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) - The no-self challenge to qualia ownership

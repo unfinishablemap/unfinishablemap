@@ -78,7 +78,7 @@ Six philosopher personas applied: Property Dualist, Quantum Mind Theorist, Pheno
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
 - [voluntary-attention](/concepts/voluntary-attention/)
 - [argument-from-reason](/topics/argument-from-reason/)
-- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
+- [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/)
 - [baseline-cognition](/archive/topics/baseline-cognition/) (corrected from broken link)
 
 ## Remaining Items

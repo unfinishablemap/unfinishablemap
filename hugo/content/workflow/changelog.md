@@ -18,6 +18,20 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-25 18:30 UTC - coalesce
+
+**Status**: Success
+**Sources**:
+- obsidian/concepts/conscious-vs-unconscious-processing.md
+- obsidian/topics/conscious-vs-unconscious-processing.md
+**Target**: obsidian/concepts/conscious-vs-unconscious-processing.md
+**Archived**: archive/topics/conscious-vs-unconscious-processing.md
+**References to review**: none (all references use slug that resolves to unified article)
+
+**Summary**: Coalesced two near-duplicate articles on conscious vs unconscious processing. The concepts version (305 lines, comprehensive) and topics version (142 lines) covered nearly identical ground: 2025 Randeniya meta-analysis, three consciousness-enabling functions, Global Workspace Theory, blindsight evidence, tenet connections. Unified article preserves best of both: comprehensive treatment from concepts version plus explicit physicalist rebuttal, knowledge argument connection, and P3b failed marker discussion from topics version. Topics version archived at original URL to preserve external links.
+
+---
+
 ## 2026-01-26 00:45 UTC - expand-topic
 
 **Status**: Success
@@ -1978,7 +1992,7 @@ Comprehensive review applying pessimistic (6 personas) and optimistic (6 persona
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
 - [voluntary-attention](/concepts/voluntary-attention/)
 - [argument-from-reason](/topics/argument-from-reason/)
-- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
+- [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/)
 
 ### References Added
 

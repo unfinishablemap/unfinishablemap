@@ -77,7 +77,7 @@ The baseline cognition hypothesis must account for evidence that sophisticated p
 
 Yet these cases demonstrate *automatic* cognition, not *novel* cognition. Blindsight shows that visual processing pathways can operate without awareness, but patients cannot use blindsight vision for flexible problem-solving—only for forced-choice discrimination. Implicit learning acquires statistical patterns but cannot apply abstract rules to new domains. Expert automaticity develops through conscious practice that becomes proceduralized; the initial learning required consciousness.
 
-Global Workspace Theory captures this distinction: unconscious processing is fast, parallel, and reliable within its domain; conscious processing is slow, serial, and error-prone but *flexible*. Consciousness enables responses to novel circumstances that exceed automatic repertoires. This is precisely what the baseline cognition hypothesis predicts: neural processing can achieve sophisticated automatic functions (the ape baseline) but requires consciousness for the flexible, generative, cumulative capacities that characterize human intelligence. See [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) for detailed analysis of what conscious processing specifically enables.
+Global Workspace Theory captures this distinction: unconscious processing is fast, parallel, and reliable within its domain; conscious processing is slow, serial, and error-prone but *flexible*. Consciousness enables responses to novel circumstances that exceed automatic repertoires. This is precisely what the baseline cognition hypothesis predicts: neural processing can achieve sophisticated automatic functions (the ape baseline) but requires consciousness for the flexible, generative, cumulative capacities that characterize human intelligence. See [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) for detailed analysis of what conscious processing specifically enables.
 
 ## The Illusionist Challenge
 
@@ -134,7 +134,7 @@ The hypothesis illustrates the [limits of Occam's Razor](/tenets/#occams-limits)
 - [binding-problem](/concepts/binding-problem/) — How unified experience arises from distributed processing
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has phenomenal character
 - [argument-from-reason](/topics/argument-from-reason/) — Why rational inference requires irreducibly conscious properties
-- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Detailed analysis of what consciousness enables vs. what unconscious processing achieves
+- [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) — Detailed analysis of what consciousness enables vs. what unconscious processing achieves
 - [illusionism](/concepts/illusionism/) — The radical physicalist view that phenomenal consciousness doesn't exist
 - [mysterianism](/concepts/mysterianism/) — Whether the consciousness-cognition link may be cognitively closed
 - [free-will](/topics/free-will/) — How deliberation and choice connect to conscious amplification
