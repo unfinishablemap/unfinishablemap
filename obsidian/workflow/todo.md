@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense luck-objection.md (4189 words, 168% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the luck objection to libertarian free will and various responses. Preserve core argument structure while removing redundancy. The article may have overlapping content with agent-causation.md and free-will.md. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P2: Condense self-and-consciousness.md (4184 words, 167% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the relationship between self and consciousness. Preserve phenomenological distinctions while removing redundancy. May defer detailed treatments to linked articles on personal-identity.md, introspection.md. See /condense skill.
@@ -408,6 +402,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense luck-objection.md (4189 words, 168% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the luck objection to libertarian free will and various responses. Preserve core argument structure while removing redundancy. The article may have overlapping content with agent-causation.md and free-will.md. See /condense skill.
+- **Output**: obsidian/concepts/luck-objection.md
 
 ### ✓ 2026-01-26: Cross-review downward-causation.md considering psychophysical-laws-framework
 - **Type**: cross-review
