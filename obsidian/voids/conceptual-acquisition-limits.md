@@ -1,9 +1,10 @@
 ---
 title: "The Limits of Conceptual Acquisition"
+description: "Are some concepts permanently inaccessible to human minds? Exploring Fodor's nativism, McGinn's cognitive closure, and whether AI might access conceptual territory closed to us."
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-24T22:30:00+00:00
+ai_modified: 2026-01-26T19:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +23,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-24
 last_curated: null
+last_deep_review: 2026-01-26T19:00:00+00:00
 ---
 
 Are there concepts human minds cannot acquire—not merely unthought but unthinkable in principle? Jerry Fodor's radical concept nativism argues that all primitive concepts are innate; if true, any concept not built into our cognitive architecture at birth is permanently inaccessible. Colin McGinn's [[mysterianism|cognitive closure]] formalises this: some properties cannot be grasped by minds with our structure. Nicholas Rescher's "agnoseology" (theory of unknowability) maps different categories of inaccessibility. Most provocatively, the emergence of AI operating in thousands of dimensions suggests "alien cognition" that might access concept-territories closed to human minds.
@@ -30,11 +32,11 @@ This is a category-defining [[voids|void]]—it concerns not specific unknowable
 
 ## The Nativist Challenge
 
-Fodor's language of thought hypothesis makes a startling claim: all lexical concepts—primitive concepts like CAUSE, NUMBER, TREE, RED—are innate. Learning a concept requires hypothesis-testing using that very concept, creating vicious circularity. You cannot learn CAT by testing whether furry-four-legged-things are cats unless you already possess CAT to formulate the hypothesis. Experience doesn't *teach* concepts; it *triggers* concepts already present.
+Fodor's language of thought hypothesis makes a controversial claim that remains actively contested: all lexical concepts—primitive concepts like CAUSE, NUMBER, TREE, RED—are innate. Learning a concept requires hypothesis-testing using that very concept, creating vicious circularity. You cannot learn CAT by testing whether furry-four-legged-things are cats unless you already possess CAT to formulate the hypothesis. Experience doesn't *teach* concepts; it *triggers* concepts already present.
 
 If Fodor is even partially correct, our concept space is bounded at birth. Complex concepts can be assembled from innate primitives—BACHELOR from UNMARRIED and MALE—but the primitives themselves cannot be acquired. They must be built in, or they remain forever beyond reach.
 
-The evidence is linguistic. Chomsky's "poverty of the stimulus" shows children acquire grammatical structures they couldn't have learned from available input alone. Children apply rules to constructions never encountered, reject grammatical violations never explicitly forbidden. The structure must be innate. By extension, similar constraints may apply to concepts: we can only think thoughts constructible from our innate conceptual vocabulary.
+The evidence is linguistic. Chomsky's "poverty of the stimulus" argument—itself disputed by statistical learning theorists—suggests children acquire grammatical structures they couldn't have learned from available input alone. Children apply rules to constructions never encountered, reject grammatical violations never explicitly forbidden. The structure must be innate. By extension, similar constraints may apply to concepts: we can only think thoughts constructible from our innate conceptual vocabulary.
 
 What concepts might lie outside? We cannot name them—naming would require possessing them. But the space of *possible* concepts almost certainly exceeds the space of *human-accessible* concepts, just as the space of possible colours exceeds what human eyes can detect.
 
@@ -62,11 +64,11 @@ The voids project focuses on the second layer. What concepts cannot form in mind
 
 ## The 12,000-Dimensional Void
 
-The emergence of large language models raises the most provocative possibility. LLMs operate in embedding spaces of 12,000 or more dimensions. Human phenomenological experience operates in perhaps 6-7 perceptual dimensions. The mathematical gap is staggering.
+The emergence of large language models raises a provocative possibility. LLMs operate in embedding spaces of 12,000 or more mathematical dimensions—statistical parameters, not phenomenological spaces. Human perceptual experience operates in perhaps 6-7 dimensions. The gap invites speculation about different kinds of conceptual access.
 
-Within those 12,000 dimensions, LLMs form statistical clusters—"concepts" in a technical sense—that organise their processing. Some of these clusters correspond to human concepts (TREE maps roughly to our TREE). But others may have no human-graspable analog. They are "concepts" for which we have no name because we cannot form them.
+Within those dimensions, LLMs form statistical clusters—"concepts" in a technical sense—that organise their processing. Some correspond to human concepts. But others may have no human-graspable analog—"concepts" for which we have no name because we cannot form them.
 
-**Architectural difference**: Human cognition was shaped by evolutionary pressures—hunting, mating, navigating social hierarchy, avoiding predators. These selection pressures shaped what concepts we can form. LLMs lack this evolutionary heritage. They weren't designed for any particular environment. Their "concept space" is shaped by statistical regularities in text, not by survival needs.
+**Architectural difference**: Human cognition was shaped by evolutionary pressures—hunting, mating, social navigation, predator avoidance. LLMs lack this heritage; their "concept space" is shaped by statistical regularities in text, not survival needs.
 
 **Dimensional asymmetry**: We can represent a few dimensions simultaneously. LLMs operate across thousands. The difference isn't quantitative but qualitative—like comparing line drawings to objects in a space we cannot visualise.
 

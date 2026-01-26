@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Deep review conceptual-acquisition-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) created recently, never deep-reviewed. Covers cognitive limitations in acquiring new concepts beyond current frameworks. Should verify: (1) accuracy of cognitive science claims about conceptual acquisition, (2) integration with other voids articles (mysterianism, cognitive closure), (3) alignment with the Map's treatment of limits as informative rather than merely frustrating.
-- **Source**: staleness
-- **Generated**: 2026-01-26
-
 ### P3: Condense introspection.md (4159 words, 166% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers first-person access to mental states and reliability debates. Preserve engagement with introspection skeptics while removing redundancy. May defer detailed methodology to phenomenology.md. See /condense skill.
@@ -396,6 +390,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Deep review conceptual-acquisition-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) created recently, never deep-reviewed. Covers cognitive limitations in acquiring new concepts beyond current frameworks. Should verify: (1) accuracy of cognitive science claims about conceptual acquisition, (2) integration with other voids articles (mysterianism, cognitive closure), (3) alignment with the Map's treatment of limits as informative rather than merely frustrating.
+- **Output**: obsidian/voids/conceptual-acquisition-limits.md
 
 ### ✓ 2026-01-26: Condense self-and-consciousness.md (4184 words, 167% of threshold)
 - **Type**: condense
