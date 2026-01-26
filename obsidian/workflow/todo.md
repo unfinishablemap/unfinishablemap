@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P1: Condense autonoetic-consciousness.md (5011 words, 200% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 5000-word critical threshold for concepts/. Preserve core arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P2: Cross-review llm-consciousness.md considering AI void-exploration insights
 - **Type**: cross-review
 - **Notes**: New article voids/ai-as-void-explorer.md explores AI as probe for human cognitive limits, including discussion of LLM interpretability research. Check llm-consciousness.md for: (1) opportunities to link to void-exploration perspective, (2) arguments that new insights support or challenge, (3) terminology consistency.
@@ -308,6 +302,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-26: Condense autonoetic-consciousness.md (5011 words, 200% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 5000-word critical threshold for concepts/. Preserve core arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/autonoetic-consciousness.md
 
 ### ✓ 2026-01-26: Acknowledge interaction problem relocation in panpsychism.md
 - **Type**: refine-draft
