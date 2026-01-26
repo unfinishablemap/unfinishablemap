@@ -1,9 +1,10 @@
 ---
 title: "Consciousness"
 created: 2026-01-24
-modified: 2026-01-24
+modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-24T03:25:00+00:00
+ai_modified: 2026-01-26T12:00:00+00:00
+last_deep_review: 2026-01-26T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +19,8 @@ concepts:
   - "[[materialism]]"
   - "[[illusionism]]"
   - "[[functionalism]]"
+  - "[[mysterianism]]"
+  - "[[panpsychism]]"
   - "[[philosophical-zombies]]"
   - "[[knowledge-argument]]"
   - "[[introspection]]"
@@ -98,7 +101,9 @@ Over 200 theories of consciousness exist. The Map engages with the most prominen
 
 **[[Integrated-information-theory|Integrated Information Theory]]** (Tononi) proposes that consciousness *is* integrated information (measured as Φ). IIT makes surprising predictions: even simple systems with high Φ would be conscious. The theory offers an interesting bridge between structure and experience but faces the hard problem at its foundation: why does integrated information feel like anything? The Map treats IIT as identifying a necessary condition that falls short of explanation.
 
-**[[Illusionism]]** (Dennett, Frankish) denies phenomenal consciousness exists. We *represent* ourselves as having qualia, but the representation is false—there is no "what it's like," only the illusion of one. The Map rejects this as denying the phenomenon to be explained. Even illusions require something it is like to be under the illusion.
+**[[Illusionism]]** (Dennett, Frankish) denies phenomenal consciousness exists as traditionally conceived. We *represent* ourselves as having intrinsic, ineffable qualia, but this representation is mistaken—there is no "what it's like" beyond these representational states themselves. Keith Frankish's positive account proposes that certain cognitive mechanisms generate representations that *seem* phenomenal without being so; the "illusion problem" (explaining these representations) replaces the hard problem.
+
+The Map rejects illusionism but takes it seriously as the strongest physicalist strategy. The core objection: even if our concept of qualia misrepresents something, the seeming itself has experiential character. When pain *seems* to hurt, that seeming is not nothing—it is itself something it is like. Illusionism relocates rather than dissolves the explanatory gap.
 
 ### Dualist Theories
 
@@ -107,6 +112,8 @@ Over 200 theories of consciousness exist. The Map engages with the most prominen
 **[[Epiphenomenalism]]** accepts dualism but denies causal efficacy—consciousness is a byproduct with no effects on the physical world. The Map rejects this: the very fact that we discuss consciousness shows that information about consciousness enters the physical domain, influencing speech and behaviour.
 
 **[[Panpsychism]]** holds that consciousness is fundamental and ubiquitous—even simple physical systems have experiential aspects. This avoids the "emergence problem" (how does experience arise from non-experience?) but faces the [[combination-problem]] (how do micro-experiences combine into unified macro-experience?).
+
+**[[Mysterianism]]** (McGinn) accepts the reality of the explanatory gap but locates it in human cognitive limitations rather than in ontology. Just as rats cannot grasp calculus, humans may be permanently unable to understand how consciousness relates to brain processes—not because the connection is supernatural but because our cognitive architecture is closed to the relevant concepts. This remains compatible with either physicalism or dualism; it concerns our limits, not reality's structure. The Map takes mysterianism seriously under the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet while noting it offers no alternative to working with the evidence we have.
 
 ## Arguments for Irreducibility {#arguments}
 
@@ -122,7 +129,7 @@ Multiple independent arguments converge on consciousness's irreducibility:
 
 **The [[argument-from-reason|Argument from Reason]]**: Genuine reasoning requires normative relations (one belief supporting another). Physical causation instantiates only efficient causation, not normative relations. Therefore reasoning requires irreducibly mental properties.
 
-The Map takes these arguments as jointly establishing that consciousness is not reducible to physical processes.
+Physicalists have responses to each argument—the phenomenal concept strategy for the knowledge argument, denials of zombie conceivability for the conceivability argument, functionalist theories of qualia. The Map takes the arguments as jointly establishing that consciousness is not reducible to physical processes: while individual arguments face objections, their convergence from independent premises strengthens the cumulative case.
 
 ## Neural Correlates {#neural-correlates}
 
@@ -205,6 +212,7 @@ The Map's extensive coverage of consciousness includes:
 - [[philosophical-zombies]] — Conceivability argument against physicalism
 - [[knowledge-argument]] — Mary's Room and phenomenal knowledge
 - [[interactionist-dualism]] — The Map's position on mind-body relation
+- [[mysterianism]] — Cognitive closure and limits of understanding consciousness
 - [[quantum-consciousness]] — Proposed mechanisms for mind-matter interaction
 - [[conscious-vs-unconscious-processing]] — What consciousness adds to cognition
 - [[baseline-cognition]] — Cognitive functions consciousness enables
@@ -215,5 +223,7 @@ The Map's extensive coverage of consciousness includes:
 - Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*.
 - Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 - Koch, C. (2019). *The Feeling of Life Itself: Why Consciousness Is Widespread but Can't Be Computed*. MIT Press.
+- Lieberman, M.D., et al. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(2), 628-645.
+- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*.
 - Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*.
 - Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*.
