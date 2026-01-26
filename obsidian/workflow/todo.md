@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-27T00:15:00+00:00
+ai_modified: 2026-01-26T13:48:14+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on spontaneous collapse theories (GRW, CSL)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/spontaneous-collapse-theories-grw-csl-2026-01-23.md. These theories provide objective collapse mechanisms that don't require consciousness—a key alternative the site must engage. Directly relevant to No Many Worlds tenet and the prebiotic collapse problem. Would clarify the landscape of collapse interpretations.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-26
+
+### P2: Cross-review consciousness-selecting-neural-patterns.md considering psychophysical laws framework
+- **Type**: cross-review
+- **Notes**: New article topics/psychophysical-laws-framework.md (2026-01-26) develops Chalmers' framework for lawful mind-matter relations. The consciousness-selecting-neural-patterns article is central to the Map's mechanism proposal. Check for: (1) cross-links to psychophysical laws discussion, (2) whether the selection mechanism could be framed as instantiating psychophysical laws, (3) opportunities to connect mechanism claims to Chalmers' framework.
+- **Source**: chain (from psychophysical-laws-framework.md)
+- **Generated**: 2026-01-26
+
+### P2: Write article on conservation law objections to mental causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. The conservation of energy objection is the most serious challenge to bidirectional interaction. This research examines responses (quantum indeterminacy, closed vs. isolated systems). Critical for defending the Bidirectional Interaction tenet.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-26
+
+### P2: Deep review psychophysical-laws-framework.md
+- **Type**: deep-review
+- **Notes**: Brand new AI-generated topic article (ai_contribution: 100) created 2026-01-26. Core theoretical framework for mind-matter relations. Verify: (1) accuracy of Chalmers' position, (2) engagement with type-B physicalist responses, (3) connection to site's mechanism proposals, (4) alignment with all five tenets especially Dualism and Minimal Quantum Interaction.
+- **Source**: staleness
+- **Generated**: 2026-01-26
+
+### P2: Cross-review knowledge-argument.md considering consciousness-only territories insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/consciousness-only-territories.md (2026-01-26) develops acquaintance knowledge as a void territory inaccessible to systems without phenomenal experience. The knowledge-argument article covers Mary's Room. Check for: (1) cross-links to void treatment, (2) whether acquaintance knowledge framing strengthens the argument, (3) consistency in how phenomenal/propositional knowledge distinction is presented.
+- **Source**: chain (from consciousness-only-territories.md)
+- **Generated**: 2026-01-26
+
+### P2: Write article on indexical identity and haecceity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/indexical-identity-haecceity-thisness-2026-01-23.md. Haecceity (thisness) is central to the No Many Worlds tenet—why am I THIS observer? Critical concept already referenced across multiple articles but without dedicated treatment. Would strengthen the anti-MWI arguments.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-26
 
 ### P3: Condense temporal-asymmetry-remembering-anticipating.md (3551 words, 178% of target)
 - **Type**: condense
