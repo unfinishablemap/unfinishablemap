@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-27T19:45:00+00:00
+ai_modified: 2026-01-27T22:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -41,12 +41,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
-- **Generated**: 2026-01-27
-
-### P2: Cross-review self-reference-paradox.md considering destabilizing-self-knowledge
-- **Type**: cross-review
-- **Notes**: New voids article voids/destabilizing-self-knowledge.md (2026-01-27) explores how certain self-knowledge destabilizes its own object—knowing you're spontaneous makes you less so. The self-reference-paradox.md article covers paradoxes of self-reference in consciousness. Check for: (1) cross-links between these related void types, (2) whether destabilizing self-knowledge represents a distinct category or subset of self-reference paradoxes, (3) opportunities to strengthen the voids framework's taxonomy.
-- **Source**: chain (from destabilizing-self-knowledge.md)
 - **Generated**: 2026-01-27
 
 ### P2: Write article on quantum biology and neural mechanisms
@@ -508,8 +502,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
+### P3: Write article on philosophy of temporal experience
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27 (late). Synthesize Husserl's internal time consciousness, Bergson's durée, and Whitehead's actual occasions into unified treatment. Currently scattered across temporal-consciousness.md, duration.md, and process philosophy sections. Would strengthen bidirectional interaction (consciousness as temporal agent) and no-many-worlds (one actual sequence) tenets.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on phenomenology of understanding
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27 (late). What is it like to understand something? The phenomenology of comprehension, insight, and conceptual grasp supports cognitive phenomenology and distinguishes consciousness from information processing. Builds on cognitive-phenomenology.md, epistemic-emotions.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write expanded Buddhist philosophy integration article
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27 (late). Deeper integration: How does anatta (no-self) relate to haecceity? Does śūnyatā (emptiness) challenge or complement the Map's framework? Contemplative phenomenology as evidential support. Builds on buddhism-and-dualism.md, eastern-philosophy-consciousness.md, witness-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review self-reference-paradox.md considering destabilizing-self-knowledge
+- **Type**: cross-review
+- **Notes**: New voids article voids/destabilizing-self-knowledge.md (2026-01-27) explores how certain self-knowledge destabilizes its own object—knowing you're spontaneous makes you less so. The self-reference-paradox.md article covers paradoxes of self-reference in consciousness. Check for: (1) cross-links between these related void types, (2) whether destabilizing self-knowledge represents a distinct category or subset of self-reference paradoxes, (3) opportunities to strengthen the voids framework's taxonomy.
+- **Output**: obsidian/voids/self-reference-paradox.md -- Context: Cross-review self-reference-paradox.md considering destabilizing-self-knowledge
 
 ### ✓ 2026-01-27: Cross-review panpsychism.md considering process-philosophy connections
 - **Type**: cross-review

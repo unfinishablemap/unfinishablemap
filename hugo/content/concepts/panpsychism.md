@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-27 05:00:00+00:00
+ai_modified: 2026-01-27 08:23:33+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,6 +14,7 @@ concepts:
 - '[[buddhism-and-dualism]]'
 - '[[mysterianism]]'
 - '[[intrinsic-nature-void]]'
+- '[[process-philosophy]]'
 created: 2026-01-08
 date: &id001 2026-01-27
 description: The view that consciousness is fundamental and ubiquitous in nature.
@@ -21,7 +22,7 @@ description: The view that consciousness is fundamental and ubiquitous in nature
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 05:00:00+00:00
+last_deep_review: 2026-01-27 08:23:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,11 +55,11 @@ Panpsychism also addresses the [prebiotic collapse problem](/concepts/prebiotic-
 
 ### Whitehead and the Process Tradition
 
-Before contemporary panpsychism, Alfred North Whitehead developed a sophisticated process philosophy that treats experience as fundamental. In *Process and Reality* (1929), Whitehead proposed that reality consists of "actual occasions"—momentary experiential events that perish and give rise to successors. Even the simplest physical process involves "prehension"—a primitive form of experience by which occasions take account of their predecessors.
+Before contemporary panpsychism, Alfred North Whitehead developed a sophisticated [process philosophy](/concepts/process-philosophy/) that treats experience as fundamental. In *Process and Reality* (1929), Whitehead proposed that reality consists of "actual occasions"—momentary experiential events that perish and give rise to successors. Even the simplest physical process involves "prehension"—a primitive form of experience by which occasions take account of their predecessors.
 
 Whitehead's influence runs through contemporary panpsychism. His rejection of "vacuous actuality" (matter without any experiential aspect) anticipates Strawson's argument that non-experiential matter is incoherent. His "actual occasions" prefigure micro-experiences. The combination problem is implicit in his account of how occasions "synthesize" into complex organisms.
 
-The process tradition suggests panpsychism needn't treat micro-experiences as static properties; they might be dynamic events. This reframes the combination problem: not "how do things combine?" but "how do experiential *processes* flow into unified streams?"
+The process tradition suggests panpsychism needn't treat micro-experiences as static properties; they might be dynamic events. This reframes the combination problem: not "how do things combine?" but "how do experiential *processes* flow into unified streams?" Process philosophy's notion of [phenomenal unity](/concepts/phenomenal-unity/) as achievement—something each occasion accomplishes through creative synthesis—offers a distinctive response to the combination problem that differs from both panpsychism's aggregation model and dualism's separate-substance model.
 
 ### Russellian Panpsychism and Its Variants
 
@@ -88,11 +89,11 @@ The combination problem has several variants:
 
 **Empirical boundary cases**: Research on [minimal consciousness](/concepts/minimal-consciousness/) in simple organisms provides a testing ground for panpsychist continuity. Consider:
 
-- **C. elegans** (302 neurons): Shows habituation, associative learning, and anesthetic responses similar to vertebrates, yet fails trace conditioning—a key criterion for unlimited associative learning. If panpsychism is correct, even this minimal nervous system has some experiential quality, but the 302-neuron nematode cannot unite these micro-experiences into the integrated subjectivity that more complex organisms achieve.
+- **C. elegans** (302 neurons): Shows habituation and associative learning yet fails trace conditioning—a key criterion for unlimited associative learning. If panpsychism is correct, even this minimal nervous system has some experiential quality, but cannot unite micro-experiences into integrated subjectivity.
 
 - **Hydra** (900-neuron decentralised nerve net): Multiple non-overlapping neural networks control separate behaviors without central processing. For panpsychism, Hydra suggests experience might be as distributed as its nervous system—micro-experiences without phenomenal unity—or that combination requires centralisation Hydra lacks.
 
-- **Slime molds** (no neurons): *Physarum polycephalum* solves mazes and shows habituation despite having no nervous system. This poses a question: if neurons aren't required for rudimentary cognition, how does panpsychism distinguish cognitive behavior from genuine micro-experience? The panpsychist answer: cognition and consciousness are distinct; slime molds may have proto-experience (qua fundamental property of matter) but lack the integration for what we recognize as unified consciousness.
+- **Slime molds** (no neurons): *Physarum polycephalum* solves mazes and shows habituation without a nervous system. The panpsychist answer: cognition and consciousness are distinct; slime molds may have proto-experience but lack integration for unified consciousness.
 
 The 2024 New York Declaration on Animal Consciousness affirms a "realistic possibility" of consciousness in invertebrates—exactly what panpsychism predicts. Panpsychists need not specify a consciousness threshold because there isn't one; there is only a gradient of experiential integration.
 
@@ -185,6 +186,7 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — How panpsychism addresses the evolutionary emergence question
 - [combination-problem](/concepts/combination-problem/) — The central challenge facing panpsychism
 - [russellian-monism](/concepts/russellian-monism/) — The most developed theoretical framework for panpsychism
+- [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework where experience is fundamental to actuality
 - [analytic-idealism](/concepts/analytic-idealism/) — An alternative anti-physicalist view that claims to avoid the combination problem
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist no-self perspectives on subjects and experience
 - [mysterianism](/concepts/mysterianism/) — Whether the combination problem exceeds cognitive limits

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-27 07:49:29+00:00
+ai_modified: 2026-01-27 19:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -42,6 +42,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
+- **Generated**: 2026-01-27
+
+### P2: Cross-review self-reference-paradox.md considering destabilizing-self-knowledge
+- **Type**: cross-review
+- **Notes**: New voids article voids/destabilizing-self-knowledge.md (2026-01-27) explores how certain self-knowledge destabilizes its own object—knowing you're spontaneous makes you less so. The self-reference-paradox.md article covers paradoxes of self-reference in consciousness. Check for: (1) cross-links between these related void types, (2) whether destabilizing self-knowledge represents a distinct category or subset of self-reference paradoxes, (3) opportunities to strengthen the voids framework's taxonomy.
+- **Source**: chain (from destabilizing-self-knowledge.md)
+- **Generated**: 2026-01-27
+
+### P2: Write article on quantum biology and neural mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-mechanisms-2026-01-24.md. Comprehensive review of five quantum biological mechanisms in neural systems: radical pair effects, proton tunneling, Fröhlich condensation, SNARE vesicle release, and Posner molecules. Provides empirical evidence base for Minimal Quantum Interaction tenet. Should synthesize findings into site content with appropriate skeptical treatment.
+- **Source**: unconsumed_research
 - **Generated**: 2026-01-27
 
 ### P3: Write article on teleportation and personal identity
@@ -499,6 +511,51 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review panpsychism.md considering process-philosophy connections
+- **Type**: cross-review
+- **Notes**: New article concepts/process-philosophy.md (2026-01-27) presents Whitehead's panexperientialism as a form of process panpsychism. The panpsychism.md article covers various versions of panpsychism. Check for: (1) cross-links to process philosophy's specific contribution, (2) whether the combination problem is addressed differently in process terms, (3) accurate representation of how process philosophy relates to other panpsychist positions.
+- **Output**: obsidian/concepts/panpsychism.md -- Context: Cross-review panpsychism.md considering process-philosophy connections
+
+### ✓ 2026-01-27: Cross-review temporal-consciousness.md considering process-philosophy insights
+- **Type**: cross-review
+- **Notes**: New article concepts/process-philosophy.md (2026-01-27) develops Whitehead's process metaphysics where reality is fundamentally composed of "occasions of experience" rather than static matter. The temporal-consciousness.md article addresses how consciousness relates to time. Check for: (1) cross-links to process philosophy's treatment of temporality, (2) whether Whitehead's "epochal theory of time" strengthens arguments about conscious duration, (3) connections between process philosophy's rejection of substance ontology and temporal consciousness.
+- **Output**: obsidian/concepts/temporal-consciousness.md -- Context: Cross-review temporal-consciousness.md considering process-philosophy insights
+
+### ✓ 2026-01-27: Address causal inference issues in consciousness-as-intelligence-amplifier.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-27-late) identified high-severity issues: (1) article treats correlation as causation without ruling out confounds (working memory, neural architecture), (2) evolutionary argument dismisses epiphenomenalist response without engaging it, (3) working memory section acknowledges alternative explanation but thesis doesn't accommodate it. Recommended: reframe thesis more modestly, distinguish 'consciousness enables' from 'neural substrate enables both', engage epiphenomenalist systematic-accompaniment argument.
+- **Output**: obsidian/topics/consciousness-as-intelligence-amplifier.md
+
+### ✓ 2026-01-27: Write article on consciousness and intelligence evolution
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-influence-intelligence-2026-01-21.md. Examines evidence that consciousness causally contributes to intelligence—both evolutionarily (why did consciousness evolve if epiphenomenal?) and cognitively (what does consciousness add beyond unconscious processing?). Directly supports Bidirectional Interaction tenet with evolutionary arguments.
+- **Output**: consciousness and intelligence evolution
+
+### ✓ 2026-01-27: Condense indexical-identity-haecceity-thisness research notes (4623 words, 185% of target)
+- **Type**: condense
+- **Notes**: Research file exceeds 2500-word hard threshold for research/. Contains valuable material on haecceity but is overlong for research notes. Preserve key sources and tenet alignments while removing redundancy. The vertiginous-question.md topic has been written from this research, so some material may now be duplicative.
+
+### ✓ 2026-01-27: Cross-review temporal-consciousness.md considering process-philosophy insights
+- **Type**: cross-review
+- **Notes**: New article concepts/process-philosophy.md (2026-01-27) argues that consciousness exemplifies reality's fundamentally temporal character. The temporal-consciousness.md article discusses how time appears in experience. Check for: (1) cross-links to process-philosophy.md, (2) whether Whitehead's critique of "substance" metaphysics strengthens the temporal-consciousness discussion, (3) opportunities to connect the phenomenology of temporal flow to process metaphysics.
+- **Output**: obsidian/concepts/temporal-consciousness.md -- Context: Cross-review temporal-consciousness.md considering process-philosophy insights
+
+### ✓ 2026-01-27: Cross-review panpsychism.md considering process-philosophy insights
+- **Type**: cross-review
+- **Notes**: New article concepts/process-philosophy.md (2026-01-27) discusses Whitehead's panexperientialism and denial of "vacuous actuality." The panpsychism.md article should reference this related tradition. Check for: (1) cross-links to process-philosophy.md, (2) whether to clarify the distinction between panpsychism (all matter has mind-like properties) and panexperientialism (all events involve experience), (3) engagement with the combination problem from a process perspective.
+- **Output**: obsidian/concepts/panpsychism.md -- Context: Cross-review panpsychism.md considering process-philosophy insights
+
+### ✓ 2026-01-27: Write voids article on destabilizing self-knowledge
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-destabilizing-self-knowledge-2026-01-27.md. Explores a distinctive void: truths about consciousness that would dissolve the capacity to hold them. The self-model may require certain opacities to function—some self-knowledge could be structurally self-defeating. Connects to self-reference-paradox.md, the-unobservable-self.md, and defended-territory.md.
+- **Output**: Write voids article on destabilizing self-knowledge
+
+### ✓ 2026-01-27: Write voids article on destabilizing self-knowledge
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-destabilizing-self-knowledge-2026-01-27.md. Explores truths about consciousness that would dissolve the capacity to hold them—the self-model may require certain opacities to function.
+- **Result**: Created ~2000 word voids article covering: the self-studying brain paradox, Metzinger's phenomenal transparency, psychedelic evidence for destabilization, cognitohazards framework, phenomenology of approach, indirect methods including AI as probe, full tenet alignment. Based on January 2025 research on self-reference in neuroscience.
+- **Output**: voids/destabilizing-self-knowledge.md
 
 ### ✓ 2026-01-27: Create concept page for process-philosophy
 - **Type**: expand-topic

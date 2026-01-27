@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-01-27 18:00:00+00:00
+ai_modified: 2026-01-27 19:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,6 +21,7 @@ description: A metaphysical tradition treating reality as fundamentally dynamic�
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-27 19:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -119,6 +120,8 @@ This matters practically. The Map's framework explains why rocks lack experience
 
 The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes consciousness influences quantum outcomes. Process philosophy, developed before quantum mechanics matured, offers no specific mechanism. Some process philosophers have incorporated quantum insights—noting that wave function collapse resembles Whiteheadian concrescence—but the connection remains underdeveloped.
 
+Henry Stapp explicitly builds on Whitehead's framework, proposing that quantum events are the modern physics counterpart to actual occasions. For Stapp, the "Heisenberg choice" (which observable to measure) and the "Dirac choice" (which outcome occurs) parallel Whitehead's subjective aim and satisfaction. This represents the most developed attempt to integrate process philosophy with quantum mechanics, though it remains controversial.
+
 ### No Many Worlds
 
 The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the many-worlds interpretation of quantum mechanics. Process philosophy is broadly compatible with this rejection: actual occasions achieve definite outcomes rather than splitting into parallel branches. But Whitehead's framework doesn't explicitly address quantum interpretations.
@@ -150,6 +153,12 @@ Process philosophy shares the Map's anti-materialist orientation but takes a dif
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Process philosophy exemplifies the tenet: Whitehead's framework is elaborate, but the apparent simplicity of materialist alternatives comes at the cost of ignoring experience. Sometimes complexity better captures reality.
 
 Process philosophy remains a valuable interlocutor for the Map—a fellow traveler rejecting materialism, though taking a different path.
+
+## Testability and Limitations
+
+Process philosophy is primarily a metaphysical framework rather than a scientific theory. Its core claims—that reality is processual, that experience is fundamental—don't generate distinctive empirical predictions that would distinguish them from alternatives. Terms like "prehension" and "actual occasions" describe metaphysical structure without specifying observable consequences.
+
+This isn't unique to process philosophy; the same applies to substance metaphysics and many interpretations of quantum mechanics. But it means process philosophy's value lies in conceptual clarification rather than empirical prediction. It offers a framework for thinking about consciousness that avoids certain problems (emergence from the non-experiential) while facing others (combination). Whether that framework illuminates reality depends on philosophical argument, not experimental test.
 
 ## Further Reading
 
