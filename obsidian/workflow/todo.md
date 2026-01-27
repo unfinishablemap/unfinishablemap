@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review simulation.md considering computational-cognitive-limits insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/computational-cognitive-limits.md (2026-01-27) establishes formal limits on what any computational system can know. The simulation.md concept article discusses computed reality and its implications for consciousness. Check for: (1) cross-links to computational limits discussion, (2) whether computational limits apply differently in simulated contexts, (3) engagement with the question of whether a simulated mind inherits the halting problem and Gödel limits.
-- **Source**: chain (from computational-cognitive-limits.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review ai-as-void-explorer.md considering computational-cognitive-limits insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/computational-cognitive-limits.md (2026-01-27) proves AI faces Gödel/Turing/Rice limits like any computational system. The ai-as-void-explorer.md voids article discusses AI as a probe for cognitive limits. Check for: (1) cross-links to computational limits treatment, (2) whether computational limits define where AI exploration must fail, (3) tension between AI's advantages (no evolutionary bias) and formal limits (halting problem applies to all algorithms).
@@ -558,6 +552,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review simulation.md considering computational-cognitive-limits insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/computational-cognitive-limits.md (2026-01-27) establishes formal limits on what any computational system can know. The simulation.md concept article discusses computed reality and its implications for consciousness. Check for: (1) cross-links to computational limits discussion, (2) whether computational limits apply differently in simulated contexts, (3) engagement with the question of whether a simulated mind inherits the halting problem and Gödel limits.
+- **Output**: obsidian/concepts/simulation.md -- Context: Cross-review simulation.md considering computational-cognitive-limits insights
 
 ### ✓ 2026-01-27: Strengthen illusionism response in consciousness-only-territories.md
 - **Type**: refine-draft
