@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 19:29 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Pre-Conceptual Knowing
+- **Output**: `voids/pre-conceptual-knowing.md`
+- **Word count**: 1933
+- **Based on research**: Yes — `research/voids-pre-conceptual-knowing-2026-01-27.md`
+- **Key themes**: Fineness of grain problem, phenomenal overflow, knowledge by acquaintance, prereflective bodily awareness
+- **Void type**: Unexplorable — structural feature of conceptual cognition
+
 ## 2026-01-27 19:15 UTC - deep-review (cross-review)
 
 - **Status**: Success
