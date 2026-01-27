@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Condense phenomenology.md (4049 words, 162% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core methodological article covering Husserl's phenomenology, epoché, phenomenological reduction. Preserve: key methodological concepts, distinction from heterophenomenology, connection to neurophenomenology. May defer detailed historical context to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
+
+### P2: Condense neural-correlates-of-consciousness.md (4038 words, 163% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Central empirical concept linking consciousness to brain states. Preserve: core NCC methodology, distinction between content/full NCCs, relationship to hard problem. Defer detailed neuroscience to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
+
+### P3: Condense metarepresentation.md (3960 words, 158% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers representing representations—central to consciousness theories (HOT, metacognition, theory of mind). Preserve: core metarepresentational distinctions, connection to consciousness threshold, ToM level mappings. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
+
+### P3: Deep review the-unobservable-self.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the paradox that the observing self cannot observe itself—a structural cognitive void. Should verify: (1) accuracy of self-reference arguments, (2) connection to introspection limitations and witness-consciousness, (3) alignment with other voids articles, (4) proper engagement with Buddhist no-self perspectives.
+- **Source**: staleness
+- **Generated**: 2026-01-27
+
+### P3: Deep review phenomenology-of-error-recognition.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the bootstrap problem where the mind that was wrong must recognize its error. Should verify: (1) accuracy of Schulz's error-blindness claims, (2) engagement with Dunning-Kruger and metacognitive monitoring, (3) connection to self-reference-paradox and epistemic-emotions, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-27
+
+### P3: Deep review conceptual-impossibility.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers concepts that cannot be coherently formed—not merely unknown but structurally unthinkable. Should verify: (1) accuracy of modal collapse and self-reference arguments, (2) distinction from mere ignorance vs. structural impossibility, (3) connection to mysterianism and cognitive closure, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-27
+
 ### P3: Condense introspection.md (4159 words, 166% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers first-person access to mental states and reliability debates. Preserve engagement with introspection skeptics while removing redundancy. May defer detailed methodology to phenomenology.md. See /condense skill.
