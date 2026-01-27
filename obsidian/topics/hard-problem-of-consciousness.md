@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-01-26T22:15:00+00:00
+ai_modified: 2026-01-27T16:45:00+00:00
 draft: false
 topics: []
 concepts:
@@ -46,6 +46,7 @@ concepts:
   - "[[buddhism-and-dualism]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[working-memory]]"
+  - "[[intrinsic-nature-void]]"
 related_articles:
   - "[[tenets]]"
   - "[[mysterianism-cognitive-closure]]"
@@ -58,7 +59,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-06
 last_curated:
-last_deep_review: 2026-01-26T10:46:57+00:00
+last_deep_review: 2026-01-27T16:45:00+00:00
 ---
 
 Why is there something it is like to be you?
@@ -93,6 +94,8 @@ Now consider: pain is C-fiber firing (or some other neural state). Does this exp
 The identity statement might be true. Pain might *be* C-fiber firing in some metaphysical sense. But the identity doesn't *explain*. It leaves us wondering: why does C-fiber firing feel like *that*? Why does it feel like *anything*?
 
 This gap is not merely a current limitation. It seems structural—a consequence of what physical explanations *are*. Physics describes structure, function, and dynamics. It tells us how parts relate, how systems evolve, what causes what. But the qualitative character of experience—the redness of red, the painfulness of pain—seems to be a different kind of thing entirely.
+
+As Russell and Eddington observed, physics tells us what things *do*—how they relate to other things—but not what they *are* intrinsically. The [[intrinsic-nature-void]] lies at the heart of scientific knowledge: every physical description is relational. Consciousness may be our only window into intrinsic nature, which is why structural descriptions—however complete—cannot reach it.
 
 ## The Gap Illustrated: Complete Knowledge of Simple Minds
 
@@ -265,6 +268,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [[substrate-independence-critique]] — Why the hard problem entails substrate skepticism
 - [[combination-problem]] — Panpsychism's parallel challenge
 - [[mysterianism-cognitive-closure]] — McGinn's cognitive closure thesis
+- [[intrinsic-nature-void]] — Why physics describes only structure, leaving intrinsic nature unknowable
 - [[quantum-consciousness]] — How quantum mechanics might relate to consciousness
 - [[witness-consciousness]] — The subject-object structure revealed by contemplative practice
 - [[buddhism-and-dualism]] — How Buddhist philosophy engages with dualist frameworks
