@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 18:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Process Philosophy
+- **Output**: `concepts/process-philosophy.md`
+- **Word count**: 1698
+- **Based on research**: No (general knowledge)
+- **Summary**: Created concept page covering Whitehead's process metaphysics and Bergson's durée. Key sections: events over substances, prehension and experience, concrescence and creativity, Bergson connection, combination problem, relevance to consciousness studies. Distinguishes process philosophy's panpsychist monism from the Map's interactionist dualism while affirming shared anti-materialist insights. Links to duration, panpsychism, emergence, phenomenal-unity, temporal-consciousness.
+
 ## 2026-01-27 11:30 UTC - research-voids
 
 - **Status**: Success

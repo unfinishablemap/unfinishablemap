@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Create concept page for process-philosophy
-- **Type**: expand-topic
-- **Notes**: Alfred North Whitehead's process philosophy is referenced throughout the site (quantum-consciousness.md, prebiotic-collapse.md, apex articles) but has no dedicated concept page. Key connections: actual occasions explain phenomenal unity, concrescence models collapse, self-determination grounds mental causation. Process philosophy provides philosophical grounding for several tenets. See apex article suggestion for deeper synthesis.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-27
-
-### P2: Create concept page for default-mode-network
-- **Type**: expand-topic
-- **Notes**: The default mode network is referenced in meditation-and-consciousness-modes.md and contemplative-neuroscience.md but lacks a dedicated page. The DMN's role in self-referential thought, mind-wandering, and its suppression during focused attention is relevant to the attention-as-interface framework. Neuroscience foundation for consciousness-related discussions.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-27
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -510,6 +498,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Create concept page for process-philosophy
+- **Type**: expand-topic
+- **Notes**: Alfred North Whitehead's process philosophy is referenced throughout the site (quantum-consciousness.md, prebiotic-collapse.md, apex articles) but has no dedicated concept page. Key connections: actual occasions explain phenomenal unity, concrescence models collapse, self-determination grounds mental causation. Process philosophy provides philosophical grounding for several tenets. See apex article suggestion for deeper synthesis.
+- **Output**: Create concept page for process-philosophy
+
+### ✓ 2026-01-27: Create concept page for process-philosophy
+- **Type**: expand-topic
+- **Notes**: Alfred North Whitehead's process philosophy is referenced throughout the site (quantum-consciousness.md, prebiotic-collapse.md, apex articles) but had no dedicated concept page.
+- **Result**: Created ~1700 word article covering: events over substances, prehension and experience, concrescence and creativity, Bergson's durée connection, combination problem, relevance to consciousness studies, and tensions with the Map's framework. Connects to duration, panpsychism, emergence, phenomenal-unity, temporal-consciousness concepts. Distinguishes process philosophy's panpsychist monism from the Map's interactionist dualism while affirming shared anti-materialist insights.
+- **Output**: concepts/process-philosophy.md
 
 ### ✓ 2026-01-27: Address deflationary challenge to intersubjectivity.md
 - **Type**: refine-draft
