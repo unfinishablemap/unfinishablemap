@@ -30,6 +30,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
 last_deep_review: 2026-01-20T07:20:00+00:00
+archived: true
+archived_date: 2026-01-27T19:45:00+00:00
+superseded_by: "/concepts/brain-interface-boundary/"
+archive_reason: "Coalesced into Brain Interface Boundary"
+original_path: "/concepts/brain-specialness/"
 ---
 
 If consciousness interfaces with the physical world through brains, what makes brains special? Why neural systems and not rocks, thermostats, or random number generators? The [[interface-locality]] article explains why consciousness *doesn't* act on external systems; this article addresses the complementary question: what positive features make brains *suitable* interfaces in the first place?

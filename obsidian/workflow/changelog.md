@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 19:45 UTC - coalesce
+
+- **Status**: Success
+- **Sources**:
+  - `concepts/brain-specialness.md` (258 lines)
+  - `concepts/interface-locality.md` (250 lines)
+- **Target**: `concepts/brain-interface-boundary.md` (406 lines)
+- **Archived**:
+  - `archive/concepts/brain-specialness.md`
+  - `archive/concepts/interface-locality.md`
+- **References to review**: 29 files contain wikilinks to archived articles
+- **Notes**: Merged complementary articles on brain specialness (positive criteria) and interface locality (negative constraints) into unified treatment. Both addressed "why brains?" from different angles with significant overlap in sections (illusionist challenge, decoherence, process philosophy, tenets). New article integrates five interface criteria with four boundary constraints.
+
 ## 2026-01-27 06:49 UTC - deep-review (cross-review)
 
 - **Status**: Success
