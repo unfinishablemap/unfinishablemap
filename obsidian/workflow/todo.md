@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Address quantum-phenomenal unity gap in binding-problem.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-01-28) found high-severity issue: article claims quantum entanglement provides 'genuine physical holism' that solves BP2 (phenomenal unity), but doesn't explain *how* physical holism maps to phenomenal unity. The same explanatory gap that blocks classical theories applies to quantum theories. Either argue for the mapping or acknowledge quantum hypothesis relocates rather than solves BP2. See pessimistic-2026-01-28.md Issue 1.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-28
+
+### P2: Strengthen illusionism response in consciousness-only-territories.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-01-28) found high-severity issue: article assumes acquaintance knowledge is real to argue for consciousness-only territories, making argument circular against illusionists. Current response (lines 114-116) merely restates contested premise. Either engage seriously with functional reinterpretation of Mary's case, or explicitly acknowledge article presupposes anti-illusionism. See pessimistic-2026-01-28.md Issue 2.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-28
+
 ### P2: Update references to coalesced nihilism/existentialism articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `nihilism.md` and `existentialism.md` into `nihilism-and-existentialism.md`. 8 files reference the archived articles: meaning-of-life.md, eastern-philosophy-consciousness.md, purpose-and-alignment.md, qualia.md, highlights.md, and research notes. Update wikilinks to point to nihilism-and-existentialism or leave as-is if the link still works (archived articles display redirect notice).
