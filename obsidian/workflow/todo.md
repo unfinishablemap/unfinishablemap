@@ -49,6 +49,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
+### P2: Address physical-to-phenomenal holism gap in quantum-binding article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-27 night) found the article claims quantum entanglement provides "genuine ontological holism" matching phenomenal unity, but doesn't explain how physical holism produces phenomenal unity—the same explanatory gap identified for classical binding. Either provide argument for the mapping, or acknowledge quantum binding relocates rather than solves BP2. See pessimistic-2026-01-27-night.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-27
+
 ### P2: Condense death-and-consciousness.md (4511 words, 150% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 4000-word hard threshold for topics/. Covers filter theory, survival hypothesis, and relationship between consciousness and biological death. Preserve: core filter argument, engagement with illusionism, connection to dualism tenet. See /condense skill.
