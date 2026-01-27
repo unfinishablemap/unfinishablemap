@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-27T16:30:00+00:00
+ai_modified: 2026-01-27T20:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,12 +30,13 @@ related_articles:
   - "[[prebiotic-collapse]]"
   - "[[multi-mind-collapse-problem]]"
   - "[[illusionism]]"
+  - "[[decoherence-and-macroscopic-superposition]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-01-27T16:30:00+00:00
+last_deep_review: 2026-01-27T20:45:00+00:00
 ---
 
 Several scientific proposals explain how consciousness might interact with physics at the quantum level. These aren't "quantum mysticism" but rigorous theories by physicists and neuroscientists, proposing mechanisms by which consciousness could influence brain activity without violating physical law.
@@ -111,7 +112,7 @@ See [[quantum-decoherence-objection]] for comprehensive analysis. The key points
 
 **Decoherence doesn't eliminate quantum indeterminacy.** Decoherence explains basis selection but not outcome selection. After decoherence, the system remains in a statistical mixture—something must still select which outcome becomes actual.
 
-**Biology exploits quantum effects.** Avian magnetoreception, photosynthesis, and enzyme catalysis all use quantum coherence in warm biological systems. [[quantum-biology|Quantum biology]] establishes that evolution can optimize quantum effects.
+**Biology exploits quantum effects.** Avian magnetoreception, photosynthesis, and enzyme catalysis all use quantum coherence in warm biological systems. [[quantum-biology|Quantum biology]] establishes that evolution can optimize quantum effects. Laboratory demonstrations of macroscopic superposition (hot cat states, nanoparticle interference) still require precisely engineered conditions distant from biological reality—but avian magnetoreception proves the principle that evolution *can* harness quantum effects in warm, wet systems. See [[decoherence-and-macroscopic-superposition]] for the experimental evidence that the quantum-classical boundary keeps receding.
 
 **Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). But several mechanisms operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect. These sidestep the timing gap entirely because each event is instantaneous. See [[quantum-neural-mechanisms]] for five distinct mechanisms spanning this spectrum.
 

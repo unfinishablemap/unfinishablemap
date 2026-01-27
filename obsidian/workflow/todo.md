@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review quantum-consciousness.md considering decoherence-and-macroscopic-superposition insights
-- **Type**: cross-review
-- **Notes**: New article topics/decoherence-and-macroscopic-superposition.md (2026-01-27) examines how quantum superpositions decohere and what this means for macroscopic quantum effects. The existing quantum-consciousness.md concept discusses Orch-OR and other quantum consciousness theories. Check for: (1) cross-links to decoherence treatment, (2) whether the decoherence timeline data strengthens or challenges quantum consciousness claims, (3) consistency in how decoherence objections are addressed.
-- **Source**: chain (from decoherence-and-macroscopic-superposition.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review retrocausality.md considering presentiment-and-retrocausality insights
 - **Type**: cross-review
 - **Notes**: New article topics/presentiment-and-retrocausality.md (2026-01-27) covers empirical presentiment research (Bem, Radin, Mossbridge meta-analysis). The existing retrocausality.md concept page discusses theoretical frameworks. Check for: (1) cross-links to empirical treatment, (2) whether presentiment evidence strengthens the theoretical framework, (3) consistency between empirical and conceptual articles.
@@ -576,6 +570,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review quantum-consciousness.md considering decoherence-and-macroscopic-superposition insights
+- **Type**: cross-review
+- **Notes**: New article topics/decoherence-and-macroscopic-superposition.md (2026-01-27) examines how quantum superpositions decohere and what this means for macroscopic quantum effects. The existing quantum-consciousness.md concept discusses Orch-OR and other quantum consciousness theories. Check for: (1) cross-links to decoherence treatment, (2) whether the decoherence timeline data strengthens or challenges quantum consciousness claims, (3) consistency in how decoherence objections are addressed.
+- **Output**: obsidian/concepts/quantum-consciousness.md -- Context: Cross-review quantum-consciousness.md considering decoherence-and-macroscopic-superposition insights
 
 ### ✓ 2026-01-27: Condense materialism.md (3788 words, 152% of threshold)
 - **Type**: condense
