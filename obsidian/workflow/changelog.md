@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 - expand-topic
+
+- **Status**: Success
+- **Topic**: Quantum measurement and subjective probability
+- **Output**: `topics/quantum-measurement-and-subjective-probability.md`
+- **Word count**: 1777
+- **Based on research**: Yes, `research/quantum-measurement-subjective-probability-2026-01-23.md`
+- **Key decisions**:
+  - Placed in topics/ as it addresses the philosophical failure of subjective probability interpretations
+  - Focused on QBism's phenomenological gap—presupposing consciousness without explaining it
+  - Complemented existing indexical-identity and interpretations-beyond-mwi articles
+  - Developed the "participation ambiguity" in Wheeler/Fuchs's participatory realism
+
 ## 2026-01-27 18:00 UTC - coalesce
 
 - **Status**: Success (cleanup)

@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on quantum measurement and subjective probability
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. Explores the Born rule's status: is probability fundamental or derived? What role does the observer play? Connects to indexical-identity-quantum-measurement.md, quantum-interpretations.md. Supports No Many Worlds tenet (indexical probability makes sense only with single outcomes).
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-27
-
 ### P2: Write article on psychophysical coupling mechanisms (Chalmers)
 - **Type**: expand-topic
 - **Notes**: Research completed in research/chalmers-psychophysical-laws-2026-01-17.md. Develops Chalmers's framework for lawful connections between physical and phenomenal domains. The Map's Bidirectional Interaction tenet requires such laws; this article would provide philosophical grounding. Builds on hard-problem-of-consciousness.md, interactionist-dualism.md.
@@ -576,6 +570,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Write article on quantum measurement and subjective probability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. Explores the Born rule's status: is probability fundamental or derived? What role does the observer play? Connects to indexical-identity-quantum-measurement.md, quantum-interpretations.md. Supports No Many Worlds tenet (indexical probability makes sense only with single outcomes).
+- **Output**: quantum measurement and subjective probability
 
 ### ✓ 2026-01-27: Write article on quantum biology and neural mechanisms
 - **Type**: expand-topic
