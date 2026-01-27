@@ -4,7 +4,7 @@ description: "The view that consciousness is fundamental and ubiquitous in natur
 created: 2026-01-08
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T05:00:00+00:00
+ai_modified: 2026-01-27T08:23:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[buddhism-and-dualism]]"
   - "[[mysterianism]]"
   - "[[intrinsic-nature-void]]"
+  - "[[process-philosophy]]"
 related_articles:
   - "[[tenets]]"
   - "[[panpsychism-consciousness-2026-01-08]]"
@@ -27,7 +28,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-08
 last_curated: null
-last_deep_review: 2026-01-27T05:00:00+00:00
+last_deep_review: 2026-01-27T08:23:33+00:00
 ---
 
 Panpsychism holds that consciousness is a fundamental and ubiquitous feature of reality—all matter has some experiential quality. An electron doesn't merely have mass and charge; it has something it's like to be that electron. This view has experienced a resurgence in contemporary philosophy of mind, championed by thinkers like Galen Strawson and Philip Goff.
@@ -52,11 +53,11 @@ Panpsychism also addresses the [[prebiotic-collapse|prebiotic collapse problem]]
 
 ### Whitehead and the Process Tradition
 
-Before contemporary panpsychism, Alfred North Whitehead developed a sophisticated process philosophy that treats experience as fundamental. In *Process and Reality* (1929), Whitehead proposed that reality consists of "actual occasions"—momentary experiential events that perish and give rise to successors. Even the simplest physical process involves "prehension"—a primitive form of experience by which occasions take account of their predecessors.
+Before contemporary panpsychism, Alfred North Whitehead developed a sophisticated [[process-philosophy|process philosophy]] that treats experience as fundamental. In *Process and Reality* (1929), Whitehead proposed that reality consists of "actual occasions"—momentary experiential events that perish and give rise to successors. Even the simplest physical process involves "prehension"—a primitive form of experience by which occasions take account of their predecessors.
 
 Whitehead's influence runs through contemporary panpsychism. His rejection of "vacuous actuality" (matter without any experiential aspect) anticipates Strawson's argument that non-experiential matter is incoherent. His "actual occasions" prefigure micro-experiences. The combination problem is implicit in his account of how occasions "synthesize" into complex organisms.
 
-The process tradition suggests panpsychism needn't treat micro-experiences as static properties; they might be dynamic events. This reframes the combination problem: not "how do things combine?" but "how do experiential *processes* flow into unified streams?"
+The process tradition suggests panpsychism needn't treat micro-experiences as static properties; they might be dynamic events. This reframes the combination problem: not "how do things combine?" but "how do experiential *processes* flow into unified streams?" Process philosophy's notion of [[phenomenal-unity|phenomenal unity]] as achievement—something each occasion accomplishes through creative synthesis—offers a distinctive response to the combination problem that differs from both panpsychism's aggregation model and dualism's separate-substance model.
 
 ### Russellian Panpsychism and Its Variants
 
@@ -86,11 +87,11 @@ The combination problem has several variants:
 
 **Empirical boundary cases**: Research on [[minimal-consciousness|minimal consciousness]] in simple organisms provides a testing ground for panpsychist continuity. Consider:
 
-- **C. elegans** (302 neurons): Shows habituation, associative learning, and anesthetic responses similar to vertebrates, yet fails trace conditioning—a key criterion for unlimited associative learning. If panpsychism is correct, even this minimal nervous system has some experiential quality, but the 302-neuron nematode cannot unite these micro-experiences into the integrated subjectivity that more complex organisms achieve.
+- **C. elegans** (302 neurons): Shows habituation and associative learning yet fails trace conditioning—a key criterion for unlimited associative learning. If panpsychism is correct, even this minimal nervous system has some experiential quality, but cannot unite micro-experiences into integrated subjectivity.
 
 - **Hydra** (900-neuron decentralised nerve net): Multiple non-overlapping neural networks control separate behaviors without central processing. For panpsychism, Hydra suggests experience might be as distributed as its nervous system—micro-experiences without phenomenal unity—or that combination requires centralisation Hydra lacks.
 
-- **Slime molds** (no neurons): *Physarum polycephalum* solves mazes and shows habituation despite having no nervous system. This poses a question: if neurons aren't required for rudimentary cognition, how does panpsychism distinguish cognitive behavior from genuine micro-experience? The panpsychist answer: cognition and consciousness are distinct; slime molds may have proto-experience (qua fundamental property of matter) but lack the integration for what we recognize as unified consciousness.
+- **Slime molds** (no neurons): *Physarum polycephalum* solves mazes and shows habituation without a nervous system. The panpsychist answer: cognition and consciousness are distinct; slime molds may have proto-experience but lack integration for unified consciousness.
 
 The 2024 New York Declaration on Animal Consciousness affirms a "realistic possibility" of consciousness in invertebrates—exactly what panpsychism predicts. Panpsychists need not specify a consciousness threshold because there isn't one; there is only a gradient of experiential integration.
 
@@ -183,6 +184,7 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 - [[evolution-of-consciousness]] — How panpsychism addresses the evolutionary emergence question
 - [[combination-problem]] — The central challenge facing panpsychism
 - [[russellian-monism]] — The most developed theoretical framework for panpsychism
+- [[process-philosophy]] — Whitehead's framework where experience is fundamental to actuality
 - [[analytic-idealism]] — An alternative anti-physicalist view that claims to avoid the combination problem
 - [[buddhism-and-dualism]] — Buddhist no-self perspectives on subjects and experience
 - [[mysterianism]] — Whether the combination problem exceeds cognitive limits

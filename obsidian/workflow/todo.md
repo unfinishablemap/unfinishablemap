@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review panpsychism.md considering process-philosophy insights
-- **Type**: cross-review
-- **Notes**: New article concepts/process-philosophy.md (2026-01-27) discusses Whitehead's panexperientialism and denial of "vacuous actuality." The panpsychism.md article should reference this related tradition. Check for: (1) cross-links to process-philosophy.md, (2) whether to clarify the distinction between panpsychism (all matter has mind-like properties) and panexperientialism (all events involve experience), (3) engagement with the combination problem from a process perspective.
-- **Source**: chain (from process-philosophy.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review temporal-consciousness.md considering process-philosophy insights
 - **Type**: cross-review
 - **Notes**: New article concepts/process-philosophy.md (2026-01-27) argues that consciousness exemplifies reality's fundamentally temporal character. The temporal-consciousness.md article discusses how time appears in experience. Check for: (1) cross-links to process-philosophy.md, (2) whether Whitehead's critique of "substance" metaphysics strengthens the temporal-consciousness discussion, (3) opportunities to connect the phenomenology of temporal flow to process metaphysics.
@@ -522,6 +516,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review panpsychism.md considering process-philosophy insights
+- **Type**: cross-review
+- **Notes**: New article concepts/process-philosophy.md (2026-01-27) discusses Whitehead's panexperientialism and denial of "vacuous actuality." The panpsychism.md article should reference this related tradition. Check for: (1) cross-links to process-philosophy.md, (2) whether to clarify the distinction between panpsychism (all matter has mind-like properties) and panexperientialism (all events involve experience), (3) engagement with the combination problem from a process perspective.
+- **Output**: obsidian/concepts/panpsychism.md -- Context: Cross-review panpsychism.md considering process-philosophy insights
 
 ### ✓ 2026-01-27: Write voids article on destabilizing self-knowledge
 - **Type**: expand-topic
