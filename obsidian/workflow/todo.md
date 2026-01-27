@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-27T19:30:00+00:00
+ai_modified: 2026-01-27T19:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -41,6 +41,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
+- **Generated**: 2026-01-27
+
+### P2: Write article on consciousness and intelligence evolution
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-influence-intelligence-2026-01-21.md. Examines evidence that consciousness causally contributes to intelligence—both evolutionarily (why did consciousness evolve if epiphenomenal?) and cognitively (what does consciousness add beyond unconscious processing?). Directly supports Bidirectional Interaction tenet with evolutionary arguments.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-27
+
+### P2: Cross-review temporal-consciousness.md considering process-philosophy insights
+- **Type**: cross-review
+- **Notes**: New article concepts/process-philosophy.md (2026-01-27) develops Whitehead's process metaphysics where reality is fundamentally composed of "occasions of experience" rather than static matter. The temporal-consciousness.md article addresses how consciousness relates to time. Check for: (1) cross-links to process philosophy's treatment of temporality, (2) whether Whitehead's "epochal theory of time" strengthens arguments about conscious duration, (3) connections between process philosophy's rejection of substance ontology and temporal consciousness.
+- **Source**: chain (from process-philosophy.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review panpsychism.md considering process-philosophy connections
+- **Type**: cross-review
+- **Notes**: New article concepts/process-philosophy.md (2026-01-27) presents Whitehead's panexperientialism as a form of process panpsychism. The panpsychism.md article covers various versions of panpsychism. Check for: (1) cross-links to process philosophy's specific contribution, (2) whether the combination problem is addressed differently in process terms, (3) accurate representation of how process philosophy relates to other panpsychist positions.
+- **Source**: chain (from process-philosophy.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review self-reference-paradox.md considering destabilizing-self-knowledge
+- **Type**: cross-review
+- **Notes**: New voids article voids/destabilizing-self-knowledge.md (2026-01-27) explores how certain self-knowledge destabilizes its own object—knowing you're spontaneous makes you less so. The self-reference-paradox.md article covers paradoxes of self-reference in consciousness. Check for: (1) cross-links between these related void types, (2) whether destabilizing self-knowledge represents a distinct category or subset of self-reference paradoxes, (3) opportunities to strengthen the voids framework's taxonomy.
+- **Source**: chain (from destabilizing-self-knowledge.md)
+- **Generated**: 2026-01-27
+
+### P2: Write article on quantum biology and neural mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-mechanisms-2026-01-24.md. Comprehensive review of five quantum biological mechanisms in neural systems: radical pair effects, proton tunneling, Fröhlich condensation, SNARE vesicle release, and Posner molecules. Provides empirical evidence base for Minimal Quantum Interaction tenet. Should synthesize findings into site content with appropriate skeptical treatment.
+- **Source**: unconsumed_research
 - **Generated**: 2026-01-27
 
 ### P3: Write article on teleportation and personal identity
