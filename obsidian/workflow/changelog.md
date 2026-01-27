@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 07:10 UTC - condense
+
+- **Status**: Success
+- **File**: `concepts/philosophical-zombies.md`
+- **Before**: 3906 words
+- **After**: 2424 words
+- **Reduction**: 38%
+- **Technique**: Cut redundancy in physicalist responses (two-dimensional, phenomenal concepts sections), substantially condensed zombies-and-functionalism (defer to existing article), trimmed inverted-qualia section (link-based), reduced process philosophy to single paragraph, shortened convergence argument (covered in arguments-against-materialism), tightened illusionist challenge subsections, condensed tenet connections, trimmed external sources list.
+- **Preserved**: Opening summary, core three-step argument, explanatory gap grounding, self-stultification problem, all tenet connections, full site content links.
+
 ## 2026-01-27 19:45 UTC - coalesce
 
 - **Status**: Success
