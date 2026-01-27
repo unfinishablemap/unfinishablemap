@@ -4,7 +4,7 @@ description: "Why consciousness resists reduction to physical processes. The exp
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-27T01:58:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-01-19T13:30:00+00:00
+last_deep_review: 2026-01-27T01:58:56+00:00
 ---
 
 Reductionism is the philosophical thesis that complex phenomena can be explained by—and ultimately reduced to—their simpler constituents. Three types must be distinguished: ontological (claims about what exists), methodological (scientific strategy), and epistemic (claims about understanding). The Unfinishable Map accepts methodological reductionism as a powerful scientific tool while rejecting ontological and explanatory reductionism about consciousness. The [[explanatory-gap|explanatory gap]], the [[hard-problem-of-consciousness|hard problem]], and [[#Multiple Realizability|multiple realizability]] (explained below) converge on a single conclusion: consciousness cannot be reduced to physical processes.
