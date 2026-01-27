@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 18:52 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `voids/consciousness-only-territories.md`
+- **Original score**: ~8/10 (manual review)
+- **Changes**:
+  - Added description field for SEO/social sharing
+  - Removed "This isn't about X. It is Y." LLM cliché per style guide
+  - Changed relative time reference ("Fifty years") to explicit date ("Since Jackson's 1982 paper")
+- **Published**: yes
+
 ## 2026-01-27 14:48 UTC - refine-draft
 
 - **Status**: Success
