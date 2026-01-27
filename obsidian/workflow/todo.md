@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-27T07:49:29+00:00
+ai_modified: 2026-01-27T19:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -41,6 +41,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
+- **Generated**: 2026-01-27
+
+### P2: Write voids article on destabilizing self-knowledge
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-destabilizing-self-knowledge-2026-01-27.md. Explores a distinctive void: truths about consciousness that would dissolve the capacity to hold them. The self-model may require certain opacities to function—some self-knowledge could be structurally self-defeating. Connects to self-reference-paradox.md, the-unobservable-self.md, and defended-territory.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-27
+
+### P2: Cross-review duration.md considering process-philosophy insights
+- **Type**: cross-review
+- **Notes**: New article concepts/process-philosophy.md (2026-01-27) develops Whitehead's process metaphysics and Bergson's durée. The duration.md article already discusses Bergson but doesn't link to the new process-philosophy treatment. Check for: (1) cross-links to process-philosophy.md, (2) whether Whitehead's "actual occasions" framework enriches the discussion, (3) consistency in how temporal experience is characterized.
+- **Source**: chain (from process-philosophy.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review panpsychism.md considering process-philosophy insights
+- **Type**: cross-review
+- **Notes**: New article concepts/process-philosophy.md (2026-01-27) discusses Whitehead's panexperientialism and denial of "vacuous actuality." The panpsychism.md article should reference this related tradition. Check for: (1) cross-links to process-philosophy.md, (2) whether to clarify the distinction between panpsychism (all matter has mind-like properties) and panexperientialism (all events involve experience), (3) engagement with the combination problem from a process perspective.
+- **Source**: chain (from process-philosophy.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review temporal-consciousness.md considering process-philosophy insights
+- **Type**: cross-review
+- **Notes**: New article concepts/process-philosophy.md (2026-01-27) argues that consciousness exemplifies reality's fundamentally temporal character. The temporal-consciousness.md article discusses how time appears in experience. Check for: (1) cross-links to process-philosophy.md, (2) whether Whitehead's critique of "substance" metaphysics strengthens the temporal-consciousness discussion, (3) opportunities to connect the phenomenology of temporal flow to process metaphysics.
+- **Source**: chain (from process-philosophy.md)
+- **Generated**: 2026-01-27
+
+### P2: Condense indexical-identity-haecceity-thisness research notes (4623 words, 185% of target)
+- **Type**: condense
+- **Notes**: Research file exceeds 2500-word hard threshold for research/. Contains valuable material on haecceity but is overlong for research notes. Preserve key sources and tenet alignments while removing redundancy. The vertiginous-question.md topic has been written from this research, so some material may now be duplicative.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
+
+### P2: Condense arguments-against-materialism research notes (4518 words, 181% of target)
+- **Type**: condense
+- **Notes**: Research file exceeds 2500-word hard threshold for research/. Core arguments should be preserved but the file may contain redundant elaboration. Check what material has been incorporated into arguments-against-materialism.md concept article.
+- **Source**: length_analysis
 - **Generated**: 2026-01-27
 
 ### P3: Write article on teleportation and personal identity
