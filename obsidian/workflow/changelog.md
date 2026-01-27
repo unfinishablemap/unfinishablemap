@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 11:30 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: Destabilizing Self-Knowledge
+- **Category**: Mixed (Unexplorable and Occluded)
+- **Output**: `research/voids-destabilizing-self-knowledge-2026-01-27.md`
+- **Key finding**: Certain truths about consciousness may be inherently destabilizing—the self-model requires phenomenal transparency (invisibility as a model) to function, and seeing through this transparency causes pathology (depersonalization) rather than enlightenment. The 2025 "paradox of the self-studying brain" research converges with Metzinger's transparency analysis and psychedelic ego dissolution studies to suggest some self-knowledge is structurally self-defeating.
+
 ## 2026-01-27 07:38 UTC - refine-draft
 
 - **Status**: Success
