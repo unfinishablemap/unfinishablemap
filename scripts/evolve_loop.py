@@ -244,7 +244,18 @@ def run_pre_push_validation() -> bool:
         log.error(f"Sync failed: {result.stderr}")
         return False
 
-    # 2. Build Hugo
+    # 2. Commit any synced files (hugo/ files created by sync)
+    # This fixes the bug where sync creates hugo/ files but they're never committed
+    if has_uncommitted_changes():
+        try:
+            commit_hash = commit_as_agent("sync", "Sync obsidian → hugo")
+            if commit_hash:
+                log.info(f"Committed synced files: {commit_hash}")
+        except GitError as e:
+            log.warning(f"Failed to commit synced files: {e}")
+            # Continue anyway - validation can still pass
+
+    # 3. Build Hugo
     result = subprocess.run(
         ["hugo", "--gc", "--minify"],
         capture_output=True,
