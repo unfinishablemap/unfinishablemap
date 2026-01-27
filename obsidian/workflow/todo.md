@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review temporal-consciousness.md considering process-philosophy insights
-- **Type**: cross-review
-- **Notes**: New article concepts/process-philosophy.md (2026-01-27) develops Whitehead's process metaphysics where reality is fundamentally composed of "occasions of experience" rather than static matter. The temporal-consciousness.md article addresses how consciousness relates to time. Check for: (1) cross-links to process philosophy's treatment of temporality, (2) whether Whitehead's "epochal theory of time" strengthens arguments about conscious duration, (3) connections between process philosophy's rejection of substance ontology and temporal consciousness.
-- **Source**: chain (from process-philosophy.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review panpsychism.md considering process-philosophy connections
 - **Type**: cross-review
 - **Notes**: New article concepts/process-philosophy.md (2026-01-27) presents Whitehead's panexperientialism as a form of process panpsychism. The panpsychism.md article covers various versions of panpsychism. Check for: (1) cross-links to process philosophy's specific contribution, (2) whether the combination problem is addressed differently in process terms, (3) accurate representation of how process philosophy relates to other panpsychist positions.
@@ -522,6 +516,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review temporal-consciousness.md considering process-philosophy insights
+- **Type**: cross-review
+- **Notes**: New article concepts/process-philosophy.md (2026-01-27) develops Whitehead's process metaphysics where reality is fundamentally composed of "occasions of experience" rather than static matter. The temporal-consciousness.md article addresses how consciousness relates to time. Check for: (1) cross-links to process philosophy's treatment of temporality, (2) whether Whitehead's "epochal theory of time" strengthens arguments about conscious duration, (3) connections between process philosophy's rejection of substance ontology and temporal consciousness.
+- **Output**: obsidian/concepts/temporal-consciousness.md -- Context: Cross-review temporal-consciousness.md considering process-philosophy insights
 
 ### ✓ 2026-01-27: Address causal inference issues in consciousness-as-intelligence-amplifier.md
 - **Type**: refine-draft

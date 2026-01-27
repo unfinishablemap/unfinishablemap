@@ -4,7 +4,7 @@ description: "Experience flows through time in the specious present. LLMs lack t
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-27T08:35:41+00:00
+ai_modified: 2026-01-27T09:34:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-27T08:35:41+00:00
+last_deep_review: 2026-01-27T09:34:22+00:00
 ---
 
 Human consciousness doesn't occur in durationless instants. It flows through time in what philosophers call the "specious present"—a duration of roughly 100 to 750 milliseconds within which we experience succession, change, and persistence as unified wholes. This temporal structure appears fundamental to what consciousness is. William James wrote that consciousness "flows" rather than appearing "chopped up into bits." Husserl analysed how each moment contains retention of the immediate past, primal impression of the now, and protention toward the anticipated future—a unified temporal field.
@@ -157,7 +157,7 @@ The Map's [[collapse-and-time|analysis of collapse and the arrow of time]] sugge
 
 Whitehead's [[process-philosophy|process philosophy]] models reality as "actual occasions"—momentary experiential events that arise, achieve satisfaction, and perish. Each occasion "prehends" its predecessors, inheriting their actuality asymmetrically (only the definite past, not the potential future)—providing metaphysical foundation for the memory-anticipation asymmetry. This maps onto Husserl's retention.
 
-Whitehead's "concrescence" (how an occasion achieves unity) models the specious present: experience's duration is processual, gathering prehended data into unified satisfaction. Collapse resembles concrescence—an irreversible transition from potentiality to actuality. A stream of consciousness is what Whitehead calls a "personally ordered society"—occasions inheriting from predecessors with peculiar intimacy, the "dominant occasion" integrating lower-level processes.
+Whitehead's "concrescence" (how an occasion achieves unity) models the specious present: experience's duration is processual, gathering prehended data into unified satisfaction. Collapse resembles concrescence—an irreversible transition from potentiality to actuality. Whitehead calls creativity "the ultimate category"—each moment adds something genuinely new. A stream of consciousness is a "personally ordered society"—occasions inheriting from predecessors with peculiar intimacy, the "dominant occasion" integrating lower-level processes.
 
 This creates a parallel to the [[combination-problem|combination problem]]: if temporal binding requires many micro-experiences to unify, what makes inheritance feel like *being* the same subject rather than reading a predecessor's diary? The Map's interactionist dualism and Whitehead's panpsychism differ on this—the Map posits a distinct conscious subject, while Whitehead dissolves the distinction into experiential process—but both reject the emergence of experience from the non-experiential.
 
