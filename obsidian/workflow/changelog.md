@@ -17,6 +17,23 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 23:00 UTC - coalesce
+
+- **Status**: Success
+- **Sources**:
+  - `concepts/quantum-probability-and-consciousness.md`
+  - `concepts/subjective-probability-quantum-measurement.md`
+- **Target**: `concepts/quantum-probability-consciousness.md`
+- **Archived**:
+  - `archive/concepts/quantum-probability-and-consciousness.md`
+  - `archive/concepts/subjective-probability-quantum-measurement.md`
+- **References updated**: 3 files
+  - `concepts/quantum-interpretations.md` (4 references)
+  - `concepts/measurement-problem.md` (4 references)
+  - `topics/indexical-identity-quantum-measurement.md` (3 references)
+- **Word count**: ~4000 combined → ~3800 unified
+- **Notes**: Both source articles covered the Born rule problem, QBism, objective probability, and indexical probability. First article emphasized participatory realism and philosophical challenges (illusionism, mysterianism). Second emphasized the Map's interface view and practical challenges (decoherence, conservation). Unified article preserves both perspectives in a comprehensive treatment.
+
 ## 2026-01-27 19:00 UTC - deep-review
 
 - **Status**: Success

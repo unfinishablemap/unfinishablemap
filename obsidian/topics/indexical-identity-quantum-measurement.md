@@ -4,7 +4,7 @@ description: "Why does *this* consciousness experience *this* outcome? The index
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-27T14:30:00+00:00
+ai_modified: 2026-01-27T23:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[many-worlds]]"
   - "[[mind-matter-interface]]"
   - "[[interactionist-dualism]]"
-  - "[[quantum-probability-and-consciousness]]"
+  - "[[quantum-probability-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-measurement-interpretations-beyond-mwi]]"
@@ -97,7 +97,7 @@ Fuchs writes that participatory realism represents "attempts to make a deep stat
 
 ## Three Readings of Quantum Probability
 
-The indexical gap has implications for understanding what quantum probabilities actually describe. The [[quantum-probability-and-consciousness]] article develops three distinct readings:
+The indexical gap has implications for understanding what quantum probabilities actually describe. The [[quantum-probability-consciousness]] article develops three distinct readings:
 
 **Objective reading**: Born probabilities are propensities—real features of physical systems that would yield the same statistics regardless of observers. On this view, a radioactive atom has a 50% probability of decaying in one half-life whether or not anyone is watching. Consciousness is irrelevant.
 
@@ -148,7 +148,7 @@ This topic intersects all five tenets:
 ## Further Reading
 
 - [[haecceity]] - The quality of being *this* particular thing
-- [[quantum-probability-and-consciousness]] - Three readings of the Born rule
+- [[quantum-probability-consciousness]] - Three readings of the Born rule
 - [[quantum-measurement-interpretations-beyond-mwi]] - Survey of interpretations
 - [[measurement-problem]] - Why definite outcomes occur
 - [[mind-matter-interface]] - How consciousness meets matter

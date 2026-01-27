@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-27T13:48:50+00:00
+ai_modified: 2026-01-27T23:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,7 @@ concepts:
   - "[[interface-locality]]"
   - "[[prebiotic-collapse]]"
   - "[[indexical-identity-quantum-measurement]]"
-  - "[[subjective-probability-quantum-measurement]]"
+  - "[[quantum-probability-consciousness]]"
   - "[[arguments-for-dualism]]"
   - "[[qualia]]"
   - "[[spontaneous-collapse-theories]]"
@@ -28,7 +28,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[indexical-identity-quantum-measurement]]"
-  - "[[subjective-probability-quantum-measurement]]"
+  - "[[quantum-probability-consciousness]]"
   - "[[measurement-problem-quantum-mechanics-2026-01-14]]"
   - "[[consciousness-measurement-problem-2026-01-16]]"
   - "[[many-worlds]]"
@@ -174,7 +174,7 @@ The measurement problem focuses on *why* definite outcomes occur, but there's a 
 
 The Born rule—squared amplitude gives measurement probabilities—is postulated, not derived. Interpretations vary: objective propensities, subjective beliefs (QBism), or branch weights (MWI). Each leaves something unexplained.
 
-The Unfinishable Map proposes a different view: [[subjective-probability-quantum-measurement|Born probabilities describe the objective structure of the interface]] where consciousness meets quantum indeterminacy—neither purely subjective beliefs nor features of physics independent of consciousness. The Born rule becomes a window into the [[mind-matter-interface]]. If this is right, both the measurement problem (why definite outcomes?) and the hard problem (why first-person experience?) are faces of the same puzzle: what happens where consciousness meets physical possibility.
+The Unfinishable Map proposes a different view: [[quantum-probability-consciousness|Born probabilities describe the objective structure of the interface]] where consciousness meets quantum indeterminacy—neither purely subjective beliefs nor features of physics independent of consciousness. The Born rule becomes a window into the [[mind-matter-interface]]. If this is right, both the measurement problem (why definite outcomes?) and the hard problem (why first-person experience?) are faces of the same puzzle: what happens where consciousness meets physical possibility.
 
 ## Relation to Site Perspective
 
@@ -183,7 +183,7 @@ The measurement problem is central to the Map's framework. It creates the logica
 ## Further Reading
 
 - [[indexical-identity-quantum-measurement]] — The indexical gap all interpretations leave untreated
-- [[subjective-probability-quantum-measurement]] — Born probabilities as interface structure
+- [[quantum-probability-consciousness]] — Born probabilities as interface structure
 - [[many-worlds]] — Arguments against MWI
 - [[quantum-consciousness]] — Mechanisms for mind-matter interaction
 - [[decoherence]] — What decoherence does and doesn't explain

@@ -29,6 +29,11 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-24
 last_curated:
+archived: true
+archived_date: 2026-01-27T23:00:00+00:00
+superseded_by: "/concepts/quantum-probability-consciousness/"
+archive_reason: "Coalesced into Quantum Probability and Consciousness"
+original_path: "/concepts/quantum-probability-and-consciousness/"
 ---
 
 The Born rule—quantum mechanics' prescription for calculating measurement probabilities—remains philosophically contested despite near-universal use. Are these probabilities objective features of reality, subjective degrees of belief, or something else entirely? The answer matters profoundly for understanding consciousness's role in quantum mechanics. If probabilities are purely objective, consciousness might be irrelevant to their origin. If probabilities are irreducibly tied to agents and experience, consciousness becomes central to understanding what quantum probabilities *are*.

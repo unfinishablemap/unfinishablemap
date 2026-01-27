@@ -28,6 +28,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated:
 last_deep_review: 2026-01-25T19:30:00+00:00
+archived: true
+archived_date: 2026-01-27T23:00:00+00:00
+superseded_by: "/concepts/quantum-probability-consciousness/"
+archive_reason: "Coalesced into Quantum Probability and Consciousness"
+original_path: "/concepts/subjective-probability-quantum-measurement/"
 ---
 
 Quantum mechanics predicts outcomes probabilistically through the Born rule—the squared amplitude of the wave function gives the probability of each measurement result. But what *are* these probabilities? The dominant interpretations split dramatically: QBism treats them as subjective beliefs, consciousness-collapse theories treat them as objective tendencies modified by consciousness, and many-worlds denies they are probabilities at all. Each interpretation's answer reveals its stance on whether consciousness participates in physics—and each fails to fully account for the first-person perspective.
