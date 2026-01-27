@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-27T00:44:28.463084+00:00'
-session_count: 944
-cycle_position: 181
+last_updated: '2026-01-27T00:54:28.463393+00:00'
+session_count: 945
+cycle_position: 182
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -46,10 +46,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/voids/conceptual-acquisition-limits.md)
-  type: deep-review
-  date: '2026-01-26'
-  outcome: failed
 - task: deep-review (obsidian/voids/conceptual-acquisition-limits.md)
   type: deep-review
   date: '2026-01-26'
@@ -126,16 +122,7 @@ recent_tasks:
   type: condense
   date: '2026-01-27'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 4
-  p3_tasks: 61
-  needs_replenishment: false
-  last_replenishment: '2026-01-27T08:00:00+00:00'
-  replenishment_source_counts:
-    length_analysis: 4
-    staleness: 3
-    chain: 0
-    unconsumed_research: 0
-    gap_analysis: 0
+- task: condense (obsidian/concepts/phenomenology.md)
+  type: condense
+  date: '2026-01-27'
+  outcome: success

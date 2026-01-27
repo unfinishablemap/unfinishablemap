@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 01:07 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/filter-theory.md`
+- **Word count**: 3206 → 3188 (-18 words)
+- **Critical issues addressed**: 0 (none found—previous review's fixes remain solid)
+- **Medium issues addressed**: 2 (empirical equivalence tension, Buddhism parallel oversimplification)
+- **Enhancements made**: Clarified empirical equivalence vs. distinctive predictions relationship, added anātman disanalogy in Buddhism section
+- **Output**: `reviews/deep-review-2026-01-27-filter-theory.md`
+- **Notes**: Second review of this article. Approaching stability—made clarifying refinements rather than structural changes. Bedrock disagreements (eliminativism, MWI) documented in stability notes.
+
+---
+
 ## 2026-01-27 17:45 UTC - condense
 
 - **Status**: Success
