@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review evolution-of-consciousness.md considering prebiotic collapse insights
-- **Type**: cross-review
-- **Notes**: New article concepts/prebiotic-collapse.md (2026-01-27) separates cosmological timeline (prebiotic collapse) from phylogenetic timeline (when consciousness emerged in life). The evolution-of-consciousness.md concept page discusses when consciousness arose. Check for: (1) cross-link to prebiotic-collapse article, (2) note the distinction between "what caused collapse before minds" vs. "when did minds begin interfacing with collapse", (3) clarify that objective reduction handles cosmological timeline regardless of phylogenetic timing.
-- **Source**: chain (from prebiotic-collapse.md)
-- **Generated**: 2026-01-27
-
 ### P3: Deep review language-thought-boundary.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers Wittgenstein's Tractatus limits, Sapir-Whorf research, ineffability. Should verify: (1) accuracy of philosophical positions, (2) engagement with cognitive science of language, (3) distinction from general effability topic, (4) alignment with voids framework.
@@ -460,6 +454,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review evolution-of-consciousness.md considering prebiotic collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/prebiotic-collapse.md (2026-01-27) separates cosmological timeline (prebiotic collapse) from phylogenetic timeline (when consciousness emerged in life). The evolution-of-consciousness.md concept page discusses when consciousness arose. Check for: (1) cross-link to prebiotic-collapse article, (2) note the distinction between "what caused collapse before minds" vs. "when did minds begin interfacing with collapse", (3) clarify that objective reduction handles cosmological timeline regardless of phylogenetic timing.
+- **Output**: obsidian/concepts/evolution-of-consciousness.md -- Context: Cross-review evolution-of-consciousness.md considering prebiotic collapse insights
 
 ### ✓ 2026-01-27: Cross-review spontaneous-collapse-theories.md considering prebiotic collapse
 - **Type**: cross-review
