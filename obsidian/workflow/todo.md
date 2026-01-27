@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense meaning-of-life.md (4722 words, 157% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Covers existential meaning from consciousness perspective—purpose, value, death anxiety. Preserve: connection between consciousness and meaning, engagement with nihilism challenge, alignment with site's dualist position. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-27
-
 ### P2: Condense thoughts-that-slip-away.md (3151 words, 158% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the phenomenon of forgetting thoughts mid-sentence—introspective failures as void indicators. Preserve: phenomenology of thought slippage, connection to working memory limits, relation to voids framework. See /condense skill.
@@ -478,6 +472,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Condense meaning-of-life.md (4722 words, 157% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Covers existential meaning from consciousness perspective—purpose, value, death anxiety. Preserve: connection between consciousness and meaning, engagement with nihilism challenge, alignment with site's dualist position. See /condense skill.
+- **Output**: obsidian/topics/meaning-of-life.md
 
 ### ✓ 2026-01-27: Condense neural-correlates-of-consciousness.md (4038 words, 163% of threshold)
 - **Type**: condense
