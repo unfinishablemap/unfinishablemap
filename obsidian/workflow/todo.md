@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review introspection.md considering pre-conceptual-knowing insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/pre-conceptual-knowing.md (2026-01-27) raises whether introspection can access pre-conceptual content. The introspection.md concept discusses first-person methods and their reliability. Check for: (1) cross-links to pre-conceptual knowing, (2) whether the article addresses limits of conceptual introspection, (3) connection to contemplative methods as approaches to non-conceptual awareness.
-- **Source**: chain (from pre-conceptual-knowing.md)
-- **Generated**: 2026-01-28
-
 ### P2: Write article on Integrated Information Theory (IIT) critique
 - **Type**: expand-topic
 - **Notes**: IIT (Tononi) is a major competitor consciousness theory referenced throughout the Map but lacking dedicated engagement. The phi measure, its relationship to phenomenology, and whether it actually solves the hard problem need systematic treatment. Key questions: Does IIT explain why phi correlates with consciousness? How does it handle the hard problem? Builds on quantum-consciousness.md, hard-problem-of-consciousness.md, panpsychism.md.
@@ -606,6 +600,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review introspection.md considering pre-conceptual-knowing insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/pre-conceptual-knowing.md (2026-01-27) raises whether introspection can access pre-conceptual content. The introspection.md concept discusses first-person methods and their reliability. Check for: (1) cross-links to pre-conceptual knowing, (2) whether the article addresses limits of conceptual introspection, (3) connection to contemplative methods as approaches to non-conceptual awareness.
+- **Output**: obsidian/concepts/introspection.md -- Context: Cross-review introspection.md considering pre-conceptual-knowing insights
 
 ### ✓ 2026-01-27: Cross-review qualia.md considering pre-conceptual-knowing insights
 - **Type**: cross-review

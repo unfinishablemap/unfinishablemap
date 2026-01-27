@@ -17,6 +17,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 22:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/introspection.md`
+- **Context**: Cross-review considering pre-conceptual-knowing insights
+- **Word count**: 4159 → 4175 (+16)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Added phenomenal overflow connection (Block's grid experiment)
+  - Integrated Russell's acquaintance/description distinction
+  - Added cross-reference to pre-conceptual-knowing
+- **Enhancements made**: 4
+  - New "Phenomenal Overflow: Evidence for the Distinction" subsection
+  - Fineness of grain argument supporting process/content distinction
+  - Pre-conceptual-knowing added to concepts and Further Reading
+  - Condensed metamemory, aPFC, and illusionist sections for length-neutrality
+- **Output**: `reviews/deep-review-2026-01-27-introspection.md`
+
 ## 2026-01-27 23:00 UTC - coalesce
 
 - **Status**: Success
