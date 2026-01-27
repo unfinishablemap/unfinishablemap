@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 20:45 UTC - condense
+
+- **Status**: Success
+- **File**: `concepts/working-memory.md`
+- **Before**: 3910 words
+- **After**: 1864 words
+- **Reduction**: 52%
+- **Technique**: Cut redundant background (Baddeley model condensed to essentials), removed Process Philosophy section (tangential), trimmed Semantic Retrieval section (deferred to semantic-memory article), condensed Specious Present and GWT sections (overlap with linked articles), shortened What Would Challenge section, reduced Further Reading to core links. Preserved: opening summary, maintenance/manipulation core distinction, full Relation to Site Tenets section, Amplification Hypothesis core argument, Illusionist Challenge.
+
+---
+
 ## 2026-01-27 04:38 UTC - deep-review
 
 - **Status**: Success

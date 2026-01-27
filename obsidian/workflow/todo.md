@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense working-memory.md (3910 words, 112% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the workspace where conscious processing occurs—central to GWT, attention, and the consciousness-cognition interface. Preserve: core working memory models (Baddeley, Cowan), relationship to consciousness, connection to attention and binding. May defer detailed neuroscience to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-27
-
 ### P3: Deep review language-thought-boundary.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers Wittgenstein's Tractatus limits, Sapir-Whorf research, ineffability. Should verify: (1) accuracy of philosophical positions, (2) engagement with cognitive science of language, (3) distinction from general effability topic, (4) alignment with voids framework.
@@ -460,6 +454,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Condense working-memory.md (3910 words, 112% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the workspace where conscious processing occurs—central to GWT, attention, and the consciousness-cognition interface. Preserve: core working memory models (Baddeley, Cowan), relationship to consciousness, connection to attention and binding. May defer detailed neuroscience to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/working-memory.md
 
 ### ✓ 2026-01-27: Cross-review limits-reveal-structure.md considering intrinsic nature void
 - **Type**: cross-review
