@@ -4,15 +4,16 @@ description: "GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-01-27T12:30:00+00:00
+ai_modified: 2026-01-27T19:45:00+00:00
 draft: false
-last_deep_review: 2026-01-27T12:30:00+00:00
+last_deep_review: 2026-01-27T19:45:00+00:00
 topics: []
 concepts:
   - "[[measurement-problem]]"
   - "[[many-worlds]]"
   - "[[decoherence]]"
   - "[[quantum-consciousness]]"
+  - "[[quantum-neural-mechanisms]]"
   - "[[illusionism]]"
   - "[[mysterianism]]"
   - "[[free-will]]"
@@ -105,7 +106,7 @@ Stuart Hameroff extends Penrose OR by proposing that consciousness arises when *
 - Requires large-scale quantum effects (microtubule-level), not minimal interaction
 - Experimental tests (germanium detectors, matter-wave interference) increasingly constrain Orch OR parameter space
 
-Orch OR aligns with [[tenets#^dualism|Dualism]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] but conflicts with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] by requiring macroscopic quantum coherence. The Map's framework favors smaller-scale quantum selection (see [[stapp-quantum-mind]]) or hybrid CSL-IIT models.
+Orch OR aligns with [[tenets#^dualism|Dualism]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] but conflicts with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] by requiring macroscopic quantum coherence. The Map's framework favors smaller-scale quantum selection (see [[stapp-quantum-mind]]) or hybrid CSL-IIT models. For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [[quantum-neural-mechanisms]].
 
 ## Experimental Status (2020-2025)
 
@@ -186,6 +187,7 @@ The **consciousness-modulated CSL** model (McQueen's CSL-IIT or similar) best in
 - [[measurement-problem]] - the crisis spontaneous collapse theories address
 - [[prebiotic-collapse]] - dedicated treatment of what collapsed before consciousness
 - [[quantum-consciousness]] - how consciousness modulates baseline collapse
+- [[quantum-neural-mechanisms]] - neural loci for quantum effects (radical pairs, microtubules, ion tunneling)
 - [[stapp-quantum-mind]] - alternative consciousness-collapse model (observer-selection)
 - [[psychophysical-coupling-mechanisms]] - how phenomenal properties map to physical parameters
 - [[decoherence]] - relationship between environmental decoherence and objective collapse
