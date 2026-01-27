@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-27T11:05:23+00:00
+ai_modified: 2026-01-27T14:00:52+00:00
 draft: false
 topics: []
 concepts: []
@@ -47,6 +47,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
+- **Generated**: 2026-01-27
+
+### P2: Write voids article on computational cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-computational-cognitive-limits-2026-01-27.md. Explores Gödel incompleteness, halting problem, computational irreducibility as structural limits on what minds can know. Directly supports "Occam's Razor Has Limits" tenet—some truths may be formally inaccessible.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-27
+
+### P2: Cross-review agent-causation.md considering quantum-neural-mechanisms insights
+- **Type**: cross-review
+- **Notes**: Agent causation (libertarian free will) proposes consciousness as irreducible cause. The quantum-neural-mechanisms.md article details five concrete mechanisms (radical pairs, ion tunneling, microtubules, SNARE proteins, Posner molecules). Cross-review may strengthen agent-causation.md by connecting philosophical position to potential physical implementation.
+- **Source**: chain (from quantum-neural-mechanisms.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review spontaneous-collapse-theories.md considering quantum-neural-mechanisms
+- **Type**: cross-review
+- **Notes**: Spontaneous collapse theories (GRW, CSL) provide consciousness-independent collapse but are mentioned in quantum-neural-mechanisms.md as alternatives. Cross-review should ensure proper integration, cross-links, and clarity on how the Map's position relates to these theories.
+- **Source**: chain (from quantum-neural-mechanisms.md)
+- **Generated**: 2026-01-27
+
+### P3: Condense first-person-third-person-methodology.md (4271 words, 171% of threshold)
+- **Type**: condense
+- **Notes**: Topic article exceeds 3500-word hard threshold. Covers methodological divide between subjective and objective consciousness research. Preserve core tensions (Nagel vs Dennett, neurophenomenology compromise) while reducing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
+
+### P3: Write article on auditory consciousness
+- **Type**: expand-topic
+- **Notes**: Auditory phenomenology (hearing music, speech, environmental sounds) is under-explored compared to visual consciousness. Relevant to binding problem (synchronizing sound with vision), temporal consciousness (audition is inherently temporal), and phenomenal richness. Would balance the visual-consciousness task already in queue.
+- **Source**: gap_analysis
 - **Generated**: 2026-01-27
 
 ### P3: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
