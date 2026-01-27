@@ -18,6 +18,334 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 18:10 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/decoherence-and-macroscopic-superposition.md`
+- **Word count**: 1722 → 2046 (+324)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Distinguished two hypotheses (coherence-enabling vs. measurement-biasing)
+  - Acknowledged lab-to-biology gap explicitly (cryogenic/vacuum vs. 310K aqueous)
+  - Added specific attribution for researcher quote (Michel Devoret)
+- **Enhancements made**: 5
+  - Added quantum Zeno effect mention as specific mechanism
+  - Added spontaneous collapse theories connection
+  - Added free will tenet connection
+  - Expanded Further Reading with two new entries
+  - Strengthened biological disanalogy acknowledgment
+- **Output**: `reviews/deep-review-2026-01-27-decoherence-and-macroscopic-superposition.md`
+
+## 2026-01-27 23:30 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `topics/free-will.md`
+- **Context**: Cross-review considering presentiment-and-retrocausality.md
+- **Word count**: 2085 → 2130 (+45)
+- **Critical issues addressed**: 0 (none found—article stable from four previous reviews)
+- **Medium issues addressed**: 1
+  - Added presentiment distinction: clarified physics-based retrocausality is distinct from contested parapsychological presentiment claims
+- **Enhancements made**: 1
+  - Cross-link to [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) in body and Further Reading
+- **Output**: `reviews/deep-review-2026-01-27-free-will.md`
+- **Convergence note**: Fifth review of this article (previous: 2026-01-13, 2026-01-15, 2026-01-20, 2026-01-23); article has reached stability
+
+## 2026-01-27 14:30 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `topics/indexical-identity-quantum-measurement.md`
+- **Context**: Cross-review considering subjective probability research
+- **Word count**: 2138 → 2165 (+27)
+- **Critical issues addressed**: 0 (none found—article stable from previous review)
+- **Medium issues addressed**: 1
+  - Strengthened QBism circularity argument: having beliefs is itself experiential, so QBism's subjective probabilities presuppose phenomenal determinacy
+- **Enhancements made**: 1
+  - Connected QBism critique to phenomenological tradition (something it is like to expect spin-up)
+- **Output**: `reviews/deep-review-2026-01-27-indexical-identity-quantum-measurement.md`
+- **Convergence note**: Second review of this article (previous: 2026-01-25); article has reached stability
+
+## 2026-01-27 17:39 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `topics/psychophysical-laws-framework.md`
+- **Context**: Cross-review considering new [chalmers-psychophysical-coupling](/topics/chalmers-psychophysical-coupling/) article
+- **Word count**: 2275 → 2284 (+9)
+- **Critical issues addressed**: 0 (none found—article stable from previous review)
+- **Medium issues addressed**: 1
+  - Added cross-link to chalmers-psychophysical-coupling article in opening, frontmatter, and Further Reading
+- **Enhancements made**: 1
+  - Integrated references to companion article covering Chalmers' 2022 quantum development
+- **Output**: `reviews/deep-review-2026-01-27-psychophysical-laws-framework.md`
+- **Convergence note**: Second review of this article; approaching stability
+
+## 2026-01-27 17:29 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `topics/quantum-neural-timing-constraints.md`
+- **Context**: Cross-review considering decoherence insights from new article
+- **Word count**: 2067 → 2109 (+42)
+- **Critical issues addressed**: 0 (none found—article stable from previous review)
+- **Medium issues addressed**: 2
+  - Added cross-reference to decoherence-and-macroscopic-superposition article
+  - Strengthened Perry 2025 theoretical framing
+- **Enhancements made**: 3
+  - Connected mesoscopic coherence to recent experimental evidence
+  - Added to Further Reading and related_articles
+- **Output**: `reviews/deep-review-2026-01-27-quantum-neural-timing-constraints.md`
+
+## 2026-01-27 17:26 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: The Void of Pre-Conceptual Knowing
+- **Category**: Unexplorable / Mixed
+- **Output**: `research/voids-pre-conceptual-knowing-2026-01-27.md`
+- **Key finding**: Conceptual thought may simultaneously enable and limit knowledge—beings who think through concepts may be structurally blocked from modes of knowing available to non-conceptual minds
+- **Sources explored**: Non-conceptual content (Evans, McDowell), fineness of grain argument, phenomenal overflow (Block), knowledge by acquaintance (Russell), prereflective awareness (phenomenology), ineffability (Wittgenstein)
+
+## 2026-01-27 17:00 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/chalmers-psychophysical-coupling.md`
+- **Word count**: 2224 → 2431 (+207)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Developed haecceity argument (connected to zombie conceivability)
+  - Upgraded quantum Zeno problem treatment with Stapp's response
+  - Added empirical testability discussion
+- **Enhancements made**: 4
+  - Front-loaded opening sentence for LLM truncation resilience
+  - Clarified cross-links
+- **Output**: `reviews/deep-review-2026-01-27-chalmers-psychophysical-coupling.md`
+
+## 2026-01-27 - expand-topic
+
+- **Status**: Success
+- **Topic**: Chalmers on psychophysical coupling
+- **Output**: `topics/chalmers-psychophysical-coupling.md`
+- **Word count**: 2224
+- **Based on research**: Yes, multiple research files (`research/chalmers-psychophysical-laws-2026-01-17.md`, `research/psychophysical-coupling-problem-2026-01-15.md`, `research/psychophysical-coupling-law-mechanisms-2026-01-23.md`)
+- **Key decisions**:
+  - Placed in topics/ as it addresses Chalmers' philosophical framework for bridging mind and matter
+  - Distinguished from existing psychophysical-laws.md (concept) and psychophysical-laws-framework.md (overview) by focusing specifically on Chalmers' contributions
+  - Emphasized where the Map builds on vs diverges from Chalmers (organizational invariance, epiphenomenalism, downward causation)
+  - Treated Chalmers-McQueen (2022) quantum development and super-resistance principle
+
+## 2026-01-27 - expand-topic
+
+- **Status**: Success
+- **Topic**: Quantum measurement and subjective probability
+- **Output**: `topics/quantum-measurement-and-subjective-probability.md`
+- **Word count**: 1777
+- **Based on research**: Yes, `research/quantum-measurement-subjective-probability-2026-01-23.md`
+- **Key decisions**:
+  - Placed in topics/ as it addresses the philosophical failure of subjective probability interpretations
+  - Focused on QBism's phenomenological gap—presupposing consciousness without explaining it
+  - Complemented existing indexical-identity and interpretations-beyond-mwi articles
+  - Developed the "participation ambiguity" in Wheeler/Fuchs's participatory realism
+
+## 2026-01-27 18:00 UTC - coalesce
+
+- **Status**: Success (cleanup)
+- **Action**: Removed duplicate topic file
+- **Removed**: `topics/consciousness-as-intelligence-amplifier.md` (created 2026-01-27, duplicated content)
+- **Canonical version**: `concepts/consciousness-as-amplifier.md` (comprehensive merged version)
+- **Already archived**: `archive/topics/consciousness-as-intelligence-amplifier.md` (original from 2026-01-22)
+- **Notes**: The topic file was recreated by expand-topic after a previous coalesce had already merged and archived it. The concept version (264 lines) is more comprehensive than the duplicate (163 lines). References in `topics/animal-consciousness.md` updated to point to canonical version.
+
+## 2026-01-27 12:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Quantum biology and neural mechanisms
+- **Output**: `topics/quantum-biology-and-the-consciousness-debate.md`
+- **Word count**: 1624
+- **Based on research**: Yes, `research/quantum-biology-neural-mechanisms-2026-01-24.md`
+- **Key decisions**:
+  - Placed in topics/ (not concepts/) as it addresses broader philosophical question of what quantum biology means for consciousness debates
+  - Distinguished from existing quantum-biology.md and quantum-neural-mechanisms.md concepts by focusing on burden-of-proof shift rather than mechanism catalogs
+  - Emphasized what remains uncertain alongside what's established
+
+## 2026-01-27 22:45 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/presentiment-and-retrocausality.md`
+- **Word count**: 1399 → 1483 (+84 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2
+  - Better justified asymmetry between physics-based neural retrocausality and presentiment mechanism gap
+  - Added operationalization for "consciousness selects" via links to qualia and agent-causation
+- **Enhancements made**: 4
+  - Noted other interpretations beyond transactional (retrocausal hidden-variable theories)
+  - Clarified Libet vs presentiment distinction (internal decision vs external event)
+  - Added cross-links to [qualia](/concepts/qualia/) and [agent-causation](/concepts/agent-causation/)
+  - Updated frontmatter with new concept links and last_deep_review timestamp
+- **Output**: `reviews/deep-review-2026-01-27-presentiment-and-retrocausality.md`
+
+## 2026-01-27 21:30 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Retrocausal neural firing and presentiment
+- **Output**: `topics/presentiment-and-retrocausality.md`
+- **Word count**: 1399
+- **Based on research**: Yes, `research/retrocausal-neural-firing-presentiment-2026-01-23.md`
+- **Key decisions**:
+  - Placed in topics/ (not concepts/) as it addresses substantive philosophical question
+  - Followed research recommendation to distinguish physics-based retrocausality from contested parapsychology
+  - Emphasized that the Map's commitments rest on physics, not presentiment claims
+
+## 2026-01-27 15:50 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `concepts/mysterianism.md`
+- **Context**: Cross-review considering computational-cognitive-limits insights
+- **Word count**: 2430 → 2476 (+46 words, under soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1
+  - Distinguished formal computational limits (proven) from biological cognitive closure (proposed)
+- **Enhancements made**: 3
+  - Rewrote "Mathematical Understanding" section with formal/biological distinction
+  - Tightened Fodor paragraph for length neutrality
+  - Added cross-link to [computational-cognitive-limits](/voids/computational-cognitive-limits/) in frontmatter and Further Reading
+- **Output**: `reviews/deep-review-2026-01-27-mysterianism-ccl.md`
+- **Stability notes**: Third deep review; article now at convergence
+
+## 2026-01-27 22:30 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: All non-draft topics, concepts, and tenets
+- **Output**: `reviews/optimistic-2026-01-27-night.md`
+- **Key findings**:
+  - Content strengths: argument from reason, aesthetic dimension, consciousness in simple organisms, hard problem treatment
+  - Sympathetic philosopher analysis: praise from Chalmers, Stapp, Nagel, Whitehead, Kane, McGinn perspectives
+  - High-priority expansion opportunities: binding problem deep dive, consciousness-as-amplifier, process philosophy integration
+  - New concept pages needed: baseline-cognition, phenomenal-unity, cognitive-phenomenology, specious-present
+- **Tasks added**: 3 P3 tasks to todo.md (baseline-cognition concept page, process philosophy article, binding problem article)
+
+## 2026-01-27 20:45 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `voids/ai-as-void-explorer.md`
+- **Context**: Cross-review considering computational-cognitive-limits insights
+- **Word count**: 1893 → 2001 (+108 words, length-neutral with prose tightening)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4
+  - Clarified dimensional claim (representation vs cognition)
+  - Added quantum speculation caveats
+  - Sharpened falsifiability conditions re: shared computational limits
+  - Added "Computational Versus Conceptual Limits" section
+- **Enhancements made**: 4
+  - New section distinguishing computational from conceptual limits
+  - Added description field
+  - Cross-link to computational-cognitive-limits
+  - Stability notes for future reviews
+- **Output**: `reviews/deep-review-2026-01-27-ai-as-void-explorer.md`
+
+## 2026-01-27 15:21 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `concepts/simulation.md`
+- **Context**: Cross-review considering computational-cognitive-limits insights
+- **Word count**: 2664 → 2747 (+83 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4
+- **Enhancements made**: 5 (player-game analogy qualification, MWI caveat, computational limits subsection, cross-link to computational-cognitive-limits, prose tightening)
+- **Output**: `reviews/deep-review-2026-01-27-simulation.md`
+
+## 2026-01-27 15:10 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/locality.md`
+- **Word count**: 1171 → 1163 (-8 words)
+- **Critical issues addressed**: 1 (broken links to coalesced articles)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (updated all broken links, added free-will cross-link)
+- **Output**: `reviews/deep-review-2026-01-27-locality.md`
+
+## 2026-01-27 18:52 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `voids/consciousness-only-territories.md`
+- **Original score**: ~8/10 (manual review)
+- **Changes**:
+  - Added description field for SEO/social sharing
+  - Removed "This isn't about X. It is Y." LLM cliché per style guide
+  - Changed relative time reference ("Fifty years") to explicit date ("Since Jackson's 1982 paper")
+- **Published**: yes
+
+## 2026-01-27 14:48 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `concepts/binding-problem.md`
+- **Original score**: ~8/10 (manual review)
+- **Changes**:
+  - Clarified argument from reason in Illusionist Challenge section
+  - Added emphasis: "Correlation is not unity" in quantum alternative introduction
+  - Expanded Testable Commitments with supporting predictions (not just falsifying conditions)
+  - Strengthened binding by synchrony critique with explicit physical separation
+  - Minor phrasing improvement in sleep section transition
+- **Published**: yes
+
+## 2026-01-28 00:30 UTC - pessimistic-review
+
+- **Status**: Success
+- **Files reviewed**:
+  - `concepts/binding-problem.md`
+  - `voids/consciousness-only-territories.md`
+  - `topics/animal-consciousness.md`
+- **Critical issues found**: 2 (high-severity)
+  1. Quantum-phenomenal unity gap: binding-problem.md claims quantum holism solves BP2 without explaining how physical holism maps to phenomenal unity
+  2. Circular acquaintance argument: consciousness-only-territories.md assumes acquaintance knowledge to argue for consciousness-only territories, circular against illusionism
+- **Medium issues found**: 4
+  - Correlation-causation conflation in animal-consciousness (inherits from consciousness-as-amplifier)
+  - Decoherence timescale mismatch insufficiently addressed
+  - Animal-AI inference asymmetry overstated
+  - Process philosophy panpsychism tension unresolved
+- **Tasks generated**: 2 P2 tasks added to todo.md
+- **Output**: `reviews/pessimistic-2026-01-28.md`
+- **Notes**: Cluster addresses binding, consciousness-only territories, and animal consciousness. Multi-perspective critical analysis from eliminativist, physicalist, quantum skeptic, MWI defender, empiricist, and Buddhist viewpoints. Main vulnerability: articles assume phenomenal consciousness is real rather than arguing against eliminativist/illusionist challenges deeply enough.
+
+## 2026-01-27 19:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/consciousness-and-mathematical-understanding.md`
+- **Context**: Cross-review considering computational-cognitive-limits
+- **Word count**: 2565 → 2610 (+45 words, 87% of soft threshold)
+- **Critical issues addressed**: 0 (none found—article at stability)
+- **Medium issues addressed**: 2
+  - Added cross-reference to [computational-cognitive-limits](/voids/computational-cognitive-limits/) in Penrose section
+  - Added [computational-cognitive-limits](/voids/computational-cognitive-limits/) to related_articles frontmatter and Further Reading
+- **Enhancements made**: 1
+  - Updated time-relative language ("Current LLMs" → "As of 2025, LLMs")
+- **Output**: `reviews/deep-review-2026-01-27-consciousness-and-mathematical-understanding.md`
+- **Notes**: Second review of this article. Stability achieved. Cross-reference integration with computational-cognitive-limits connects the phenomenological argument (this article) with the formal mathematical argument (voids article). Bedrock disagreements (MWI, zombie circularity, Gödelian contestation) acknowledged, not flagged.
+
+## 2026-01-27 19:45 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/spontaneous-collapse-theories.md`
+- **Context**: Cross-review considering quantum-neural-mechanisms
+- **Word count**: 2304 → 2330 (+26 words, 93% of soft threshold)
+- **Critical issues addressed**: 0 (none found—article at stability)
+- **Medium issues addressed**: 2
+  - Added cross-link to [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) in Orch OR section
+  - Added [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) to concepts frontmatter and Further Reading
+- **Enhancements made**: 1
+  - Integration with neural quantum mechanisms coverage now complete
+- **Output**: `reviews/deep-review-2026-01-27-spontaneous-collapse-theories.md` (updated)
+- **Notes**: Third review of this article. Stability achieved. Cross-reference integration with quantum-neural-mechanisms completes the Map's quantum consciousness coverage. Bedrock philosophical disagreements (MWI, eliminativism) are acknowledged, not flagged.
+
+## 2026-01-27 14:09 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/buddhism-and-dualism.md`
+- **Word count**: 2192 → 2230 (+38 words, 89% of soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1
+  - Clarified *ālaya-vijñāna* mechanism for mental causation (seeds ripen, actions deposit—genuine causal transmission)
+- **Enhancements made**: 1
+  - Expanded Whitehead/process philosophy parallel with *kṣaṇavāda* (momentariness doctrine)
+- **Output**: `reviews/deep-review-2026-01-27-buddhism-and-dualism.md`
+- **Notes**: Second review of this article. Near-stability achieved. Core compatibility thesis (irreducibility ≠ permanence) is sound. Remaining philosophical objections are bedrock disagreements, not fixable flaws.
+
 ## 2026-01-27 18:00 UTC - expand-topic
 
 - **Status**: Success
@@ -8602,3 +8930,13 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 - Decoherence response: tightened passage, acknowledged objection "remains severe"
 **Enhancements made**: Fairer treatment of MWI position
 **Output**: `reviews/deep-review-2026-01-25-measurement-problem-42.md`
+
+---
+
+## 2026-01-27 15:00 UTC - expand-topic
+
+**Status**: Success
+**Topic**: Decoherence and Macroscopic Superposition
+**Output**: `topics/decoherence-and-macroscopic-superposition.md`
+**Word count**: 1722
+**Based on research**: Yes (`research/decoherence-macroscopic-superposition-2026-01-14.md`)

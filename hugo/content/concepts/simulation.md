@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-27 15:21:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,7 @@ concepts:
 - '[[consciousness-as-amplifier]]'
 - '[[decoherence]]'
 - '[[haecceity]]'
+- '[[computational-cognitive-limits]]'
 created: 2026-01-07
 date: &id001 2026-01-07
 description: If reality is computed, mind-matter interaction becomes unsurprising.
@@ -23,7 +24,7 @@ description: If reality is computed, mind-matter interaction becomes unsurprisin
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-21 20:15:00+00:00
+last_deep_review: 2026-01-27 15:21:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,7 +71,7 @@ In simulations we create today, we routinely couple mental states to simulated p
 - A programmer's decision changes physical laws
 - Conscious choices determine simulated outcomes
 
-We don't find this mysterious because we understand the mechanism: the simulation layer accepts inputs that modify the physics engine. If our reality is analogous, consciousness influencing physics is no stranger than a player influencing a game world.
+We don't find this mysterious because we understand the mechanism: the simulation layer accepts inputs that modify the physics engine. The analogy is imperfect—players exist *outside* the game with known causal interfaces, while we're supposedly *inside* the simulation. Yet the simulation framework shows that consciousness-physics coupling is architecturally possible; the question becomes whether our simulation includes such an interface, not whether such interfaces are conceivable.
 
 ### Physical Laws Are Implementation Choices
 
@@ -113,9 +114,11 @@ The simulation hypothesis provides an alternative to many-worlds that explains q
 - Other "branches" are simply not computed
 - Indexical identity is preserved because there's only one instance of each observer
 
-**Engaging MWI defenses**: Many-worlds proponents argue that decoherence already explains why we *perceive* single outcomes without requiring actual collapse—all branches exist, but interference between them becomes negligible. The simulation framework responds: even granting decoherence, MWI still faces the [indexical identity problem](/concepts/haecceity/). Why am I *this* branch-instance rather than another? MWI provides no resources to answer this question, yet it seems meaningful. In a simulation with genuine single outcomes, indexical identity is preserved because there's genuinely only one instance to be.
+**Caveat:** This alternative requires that the simulation can compute quantum physics without itself being a quantum computer—or that quantum computation somehow avoids MWI's branching structure. If faithfully simulating quantum mechanics requires quantum computation, and quantum computation implies branching, then MWI may apply within the simulation. The hypothesis is most powerful when paired with objective collapse interpretations at the substrate level.
 
-The simulation hypothesis doesn't refute MWI but provides a framework where the apparent single-outcome character of experience reflects genuine single outcomes rather than decoherence-masked branching. For the Map's commitment to [choice phenomenology](/concepts/phenomenology-of-choice/), this matters: the felt reality of selecting one option rather than merely splitting into copies aligns better with simulation than with many-worlds.
+**Engaging MWI defenses**: Many-worlds proponents argue decoherence explains why we *perceive* single outcomes—all branches exist, but interference becomes negligible. The simulation framework responds: even granting decoherence, MWI faces the [indexical identity problem](/concepts/haecceity/). Why am I *this* branch-instance rather than another? MWI provides no answer, yet the question seems meaningful. In a simulation with single outcomes, indexical identity is preserved because there's genuinely only one instance.
+
+The simulation hypothesis provides a framework where the apparent single-outcome character of experience reflects genuine single outcomes rather than decoherence-masked branching. For the Map's commitment to [choice phenomenology](/concepts/phenomenology-of-choice/), this matters: the felt reality of selecting one option aligns better with simulation than with many-worlds.
 
 ## The Meta-Problem: Where Is Consciousness?
 
@@ -130,6 +133,12 @@ A simulation running on physical substrate is still physical—the computer exis
 **Consciousness at both levels**: Both simulators and simulated beings are conscious. This may follow if [consciousness depends on quantum effects](/concepts/quantum-consciousness/) that the simulation faithfully implements. The simulation doesn't create pseudo-consciousness; it creates the conditions for genuine consciousness.
 
 The Map's framework suggests the third option. If consciousness operates through [quantum measurement](/concepts/measurement-problem/) and the simulation implements quantum mechanics (rather than merely approximating classical physics), then simulated beings might be genuinely conscious. The hard problem shifts from "how does matter produce consciousness?" to "under what computational conditions does consciousness arise?"—but it doesn't disappear.
+
+### Computational Limits Within Simulations
+
+If we are simulated and our minds are computational, we inherit all [computational limits](/voids/computational-cognitive-limits/): Gödel's incompleteness, the halting problem, Rice's theorem. Simulated minds cannot prove their own consistency, cannot determine whether their own processes will halt, cannot algorithmically determine semantic properties of their own mental programs. The simulation framework doesn't dissolve these limits—it confirms them.
+
+This creates a tension with Penrose-style arguments. If consciousness genuinely grasps Gödel sentences that formal systems cannot prove, it transcends computation. But if we're simulated computations, we *can't* genuinely grasp these truths—we only seem to. Either the simulation hypothesis is false, or Lucas-Penrose arguments fail, or consciousness operates non-computationally even within the simulation (perhaps at the substrate level). The Map's commitment to bidirectional interaction suggests the third option: consciousness interfaces with the simulation in ways that transcend the simulation's internal computational limits.
 
 This has implications for [ai-consciousness](/topics/ai-consciousness/): if we're simulated and conscious, digital systems might also achieve consciousness under the right conditions. The barrier would be architectural, not substrate-based.
 
@@ -166,7 +175,7 @@ More importantly, the simulation hypothesis reframes questions rather than answe
 
 [Illusionists](/concepts/illusionism/) might argue that the simulation hypothesis dissolves consciousness-related puzzles because there's nothing genuinely puzzling to begin with. If phenomenal consciousness is an illusion—a misrepresentation by introspective systems—then the "hard problem" disappears whether or not we're simulated. The simulation framework would merely relocate an illusory problem.
 
-This challenge has force but faces a regress. Keith Frankish's quasi-phenomenal framework holds that we *seem* to have experiences without genuinely having them. But what does "seeming" amount to in a simulation? If simulated beings have quasi-phenomenal states—representations *as if* there were phenomenal properties—then either:
+This challenge has force but faces a regress. Frankish's quasi-phenomenal framework holds that we *seem* to have experiences without genuinely having them. What does "seeming" amount to in a simulation? If simulated beings have quasi-phenomenal states, then either:
 
 1. **The quasi-phenomenal is itself simulated**, in which case the simulation implements misrepresentation. But misrepresentation requires something to be misrepresented *to*. The [zombie reformulation](/concepts/philosophical-zombies/) applies: could there be a simulation where beings have all the same quasi-phenomenal representations but no seeming at all? If yes, something beyond representation is at stake. If no, the quasi-phenomenal isn't merely functional.
 
@@ -182,11 +191,11 @@ From this perspective, the simulation hypothesis raises intriguing questions:
 
 **Simulated prehension**: If the simulation implements genuine actual occasions—events with their own experiential aspect—then simulated beings would be genuinely conscious. The simulation wouldn't create pseudo-experience but would instantiate the conditions for real prehension. This aligns with the "consciousness at both levels" option discussed above.
 
-**Concrescence and computation**: Whitehead's "concrescence"—the process by which occasions unify their prehensions—resembles computation in some ways. Both involve integration of inputs into novel outputs. But concrescence has intrinsic experiential character; whether computation does is precisely the hard problem. The simulation hypothesis doesn't resolve this but reframes it: under what computational conditions does concrescence occur?
+**Concrescence and computation**: Whitehead's "concrescence"—the process by which occasions unify their prehensions—resembles computation: both integrate inputs into novel outputs. But concrescence has intrinsic experiential character; whether computation does is precisely the hard problem. The simulation hypothesis reframes rather than resolves this question.
 
-**The extensive continuum**: Whitehead held that space and time form a "extensive continuum" that actual occasions individuate. In a simulation, the extensive continuum would be represented rather than fundamental—coordinates in memory rather than intrinsic spatiotemporal structure. This aligns with how the simulation hypothesis dissolves locality concerns: the continuum is data, not constraint.
+**The extensive continuum**: Whitehead held that space and time form an "extensive continuum." In a simulation, this continuum would be represented rather than fundamental—coordinates in memory rather than intrinsic spatiotemporal structure. This aligns with how the simulation hypothesis dissolves locality concerns.
 
-Process philosophy neither confirms nor refutes the simulation hypothesis but suggests that if simulated, reality would be no less genuinely experiential than "base" reality—provided the simulation implements the conditions for actual occasions rather than merely approximating their functional effects.
+Process philosophy suggests that if simulated, reality would be no less genuinely experiential than "base" reality—provided the simulation implements conditions for actual occasions rather than merely approximating functional effects.
 
 ## What Would Challenge This View?
 
@@ -204,15 +213,15 @@ The simulation hypothesis would be undermined or significantly constrained if:
 
 ## Buddhist Contemplative Perspective
 
-Buddhist philosophy offers distinctive resources for evaluating the simulation hypothesis. The doctrine of *māyā* (illusion) and the analysis of *saṃsāra* (the cycle of existence) suggest that ordinary experience already has simulation-like qualities—constructed, dependent on conditions, lacking inherent existence.
+Buddhist philosophy offers distinctive resources for evaluating the simulation hypothesis. The doctrine of *māyā* (illusion) suggests ordinary experience already has simulation-like qualities—constructed, dependent on conditions, lacking inherent existence.
 
-**Yogācāra parallels**: The Yogācāra school's "mind-only" (*cittamātra*) doctrine holds that what we take to be external reality is actually mental construction—*vijñaptimātra*, "representation only." This resembles simulation theory's core insight: the reality we experience is mediated, constructed, dependent on underlying processes we don't directly perceive. The simulation hypothesis adds only that these processes might be computational.
+**Yogācāra parallels**: The Yogācāra school's "mind-only" (*cittamātra*) doctrine holds that what we take to be external reality is actually mental construction. This resembles simulation theory's core insight: reality is mediated, dependent on processes we don't directly perceive. The simulation hypothesis adds only that these processes might be computational.
 
-**Emptiness and simulation**: Nāgārjuna's *śūnyatā* (emptiness) doctrine holds that all phenomena lack inherent existence—they exist only in dependence on conditions and conceptual imputation. From this perspective, the question "are we in a simulation?" may be malformed. Neither "base reality" nor "simulated reality" possesses the inherent existence the question presupposes. Both are equally empty, equally dependently originated. The simulation hypothesis, like other metaphysical frameworks, is a useful *upāya* (skilful means) rather than ultimate truth.
+**Emptiness and simulation**: Nāgārjuna's *śūnyatā* (emptiness) doctrine holds that all phenomena lack inherent existence. From this perspective, the question "are we in a simulation?" may be malformed—neither "base reality" nor "simulated reality" possesses inherent existence. Both are equally empty, equally dependently originated. The simulation hypothesis is a useful *upāya* (skilful means) rather than ultimate truth.
 
-**Contemplative access**: Meditation traditions report states where the constructed nature of experience becomes apparent. In *vipassanā*, practitioners observe phenomena arising and passing with increasing granularity, revealing the discrete, momentary character of experience. In *samādhi* states, the ordinary subject-object structure of experience dissolves. These reports neither confirm nor refute the simulation hypothesis but suggest that whatever reality's ultimate nature, contemplative investigation can access aspects invisible to ordinary cognition.
+**Contemplative access**: Meditation traditions report states revealing the constructed nature of experience. These reports neither confirm nor refute the simulation hypothesis but suggest that contemplative investigation can access aspects invisible to ordinary cognition.
 
-The Buddhist perspective suggests epistemic humility: the simulation hypothesis is one conceptual framework among many for pointing at features of experience that exceed ordinary understanding. Its value lies not in literal truth but in revealing the contingent nature of assumptions we rarely examine.
+The Buddhist perspective counsels epistemic humility: the simulation hypothesis is one conceptual framework for pointing at features of experience exceeding ordinary understanding.
 
 ## Status
 
@@ -239,6 +248,7 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 - [ai-consciousness](/topics/ai-consciousness/) — Implications for digital consciousness
 - [haecceity](/concepts/haecceity/) — The indexical identity problem that simulation resolves
 - [decoherence](/concepts/decoherence/) — The timescale objection and its application within simulations
+- [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Formal limits that constrain simulated minds
 - [tenets](/tenets/) — The foundational commitments these concepts serve
 
 ## References

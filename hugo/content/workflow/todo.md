@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-27 14:00:52+00:00
+ai_modified: 2026-01-27 17:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -50,16 +50,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review spontaneous-collapse-theories.md considering quantum-neural-mechanisms
+### P2: Cross-review quantum-binding-and-phenomenal-unity.md considering quantum biology
 - **Type**: cross-review
-- **Notes**: Spontaneous collapse theories (GRW, CSL) provide consciousness-independent collapse but are mentioned in quantum-neural-mechanisms.md as alternatives. Cross-review should ensure proper integration, cross-links, and clarity on how the Map's position relates to these theories.
-- **Source**: chain (from quantum-neural-mechanisms.md)
-- **Generated**: 2026-01-27
-
-### P3: Condense first-person-third-person-methodology.md (4271 words, 171% of threshold)
-- **Type**: condense
-- **Notes**: Topic article exceeds 3500-word hard threshold. Covers methodological divide between subjective and objective consciousness research. Preserve core tensions (Nagel vs Dennett, neurophenomenology compromise) while reducing redundancy. See /condense skill.
-- **Source**: length_analysis
+- **Notes**: New article topics/quantum-biology-and-the-consciousness-debate.md (2026-01-27) provides empirical evidence for quantum effects in neural systems. The quantum-binding-and-phenomenal-unity.md article argues that quantum entanglement may explain phenomenal unity. Check for: (1) cross-links to quantum biology evidence, (2) whether the empirical findings strengthen the binding argument, (3) consistency in how decoherence challenges are addressed.
+- **Source**: chain (from quantum-biology-and-the-consciousness-debate.md)
 - **Generated**: 2026-01-27
 
 ### P3: Write article on auditory consciousness
@@ -545,8 +539,106 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
+### P3: Create concept page for baseline-cognition
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27 (night). Foundational concept referenced across multiple articles but lacking dedicated treatment. Would clarify what cognition achieves without consciousness and why this matters for the causal efficacy question. The concept appears in consciousness-in-simple-organisms.md and implicitly in argument-from-reason.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on process philosophy integration
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27 (night). How process metaphysics provides an alternative to substance/property dualism binary; why occasions rather than substances may be fundamental. Whitehead is referenced in aesthetic-dimension, simple-organisms, and hard-problem articles. Would provide metaphysical framework compatible with all five tenets.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on phenomenal unity and the binding problem
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27 (night). Deep treatment of how phenomenal unity challenges physicalism. Why distributed neural activity doesn't explain unified experience. Referenced in hard-problem, aesthetic-dimension, and simple-organisms. May connect to quantum consciousness (entanglement as genuine holism). Estimated 2000-3000 words.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review free-will.md considering presentiment and retrocausality
+- **Type**: cross-review
+- **Notes**: New article topics/presentiment-and-retrocausality.md (2026-01-27) separates physics-based retrocausality from parapsychological presentiment claims. The free-will.md article discusses retrocausality as resolution to Libet timing problems. Check for: (1) cross-links to presentiment treatment, (2) clarification on which retrocausal claims the Map endorses, (3) opportunities to strengthen the temporal selection argument.
+- **Output**: obsidian/topics/free-will.md -- Context: Cross-review free-will.md considering presentiment and retrocausality
+
+### ✓ 2026-01-27: Cross-review indexical-identity-quantum-measurement.md considering subjective probability
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-measurement-and-subjective-probability.md (2026-01-27) explores the Born rule's status and observer's role. The indexical-identity-quantum-measurement.md article addresses how QM interpretations fail the indexical gap. Check for: (1) cross-links to subjective probability treatment, (2) whether QBism critique strengthens indexical arguments, (3) consistency in how observer-dependent probability is framed.
+- **Output**: obsidian/topics/indexical-identity-quantum-measurement.md -- Context: Cross-review indexical-identity-quantum-measurement.md considering subjective probability
+
+### ✓ 2026-01-27: Cross-review psychophysical-laws-framework.md considering Chalmers coupling
+- **Type**: cross-review
+- **Notes**: New article topics/chalmers-psychophysical-coupling.md (2026-01-27) develops Chalmers's framework for lawful connections between physical and phenomenal domains. The psychophysical-laws-framework.md article is the companion theoretical treatment. Check for: (1) cross-links to Chalmers-specific treatment, (2) whether Chalmers's framework provides concrete grounding for the laws framework, (3) consistency in terminology (coupling vs. correlation vs. law).
+- **Output**: obsidian/topics/psychophysical-laws-framework.md -- Context: Cross-review psychophysical-laws-framework.md considering Chalmers coupling
+
+### ✓ 2026-01-27: Cross-review quantum-neural-timing-constraints.md considering decoherence insights
+- **Type**: cross-review
+- **Notes**: New article topics/decoherence-and-macroscopic-superposition.md (2026-01-27) provides evidence challenging Tegmark's decoherence objections with warm-biology examples. The quantum-neural-timing-constraints.md article addresses timing objections. Check for: (1) cross-links to decoherence treatment, (2) whether biological coherence evidence strengthens timing arguments, (3) consistency in how decoherence timescales are discussed.
+- **Output**: obsidian/topics/quantum-neural-timing-constraints.md -- Context: Cross-review quantum-neural-timing-constraints.md considering decoherence insights
+
+### ✓ 2026-01-27: Write article on decoherence and macroscopic superposition
+- **Type**: expand-topic
+- **Notes**: Research completed in research/decoherence-macroscopic-superposition-2026-01-14.md. Systematic treatment of the decoherence objection to quantum consciousness. How quickly does decoherence occur in neural systems? What mechanisms might protect quantum coherence? Essential context for Minimal Quantum Interaction tenet. Builds on decoherence.md, quantum-consciousness.md.
+- **Output**: decoherence and macroscopic superposition
+
+### ✓ 2026-01-27: Write article on psychophysical coupling mechanisms (Chalmers)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/chalmers-psychophysical-laws-2026-01-17.md. Develops Chalmers's framework for lawful connections between physical and phenomenal domains. The Map's Bidirectional Interaction tenet requires such laws; this article would provide philosophical grounding. Builds on hard-problem-of-consciousness.md, interactionist-dualism.md.
+- **Output**: psychophysical coupling mechanisms (Chalmers)
+
+### ✓ 2026-01-27: Write article on quantum measurement and subjective probability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. Explores the Born rule's status: is probability fundamental or derived? What role does the observer play? Connects to indexical-identity-quantum-measurement.md, quantum-interpretations.md. Supports No Many Worlds tenet (indexical probability makes sense only with single outcomes).
+- **Output**: quantum measurement and subjective probability
+
+### ✓ 2026-01-27: Write article on quantum biology and neural mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-mechanisms-2026-01-24.md. Covers quantum effects in neural systems: microtubule coherence, ion channel gating, neurotransmitter release timing. Core support for Minimal Quantum Interaction tenet. Builds on quantum-consciousness.md, decoherence.md, stapp-quantum-mind.md.
+- **Output**: quantum biology and neural mechanisms
+
+### ✓ 2026-01-27: Write article on retrocausal neural firing and presentiment
+- **Type**: expand-topic
+- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Controversial but empirically studied topic: evidence for presentiment effects (physiological responses preceding stimuli) and implications for the retrocausality tenet. Connects to quantum-interpretations.md, retrocausality.md, and free-will.md. High tenet relevance (No Many Worlds, Bidirectional Interaction).
+- **Output**: retrocausal neural firing and presentiment
+
+### ✓ 2026-01-27: Cross-review mysterianism.md considering computational-cognitive-limits insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/computational-cognitive-limits.md (2026-01-27) provides formal proofs of computational limits. The mysterianism.md concept article discusses McGinn's cognitive closure thesis—architectural limits on human cognition. Check for: (1) cross-links to computational limits as a specific type of cognitive closure, (2) whether Gödel/Turing limits strengthen or differ from McGinn's biological closure argument, (3) the distinction between formal (mathematical) limits and architectural (neural) limits.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering computational-cognitive-limits insights
+
+### ✓ 2026-01-27: Cross-review ai-as-void-explorer.md considering computational-cognitive-limits insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/computational-cognitive-limits.md (2026-01-27) proves AI faces Gödel/Turing/Rice limits like any computational system. The ai-as-void-explorer.md voids article discusses AI as a probe for cognitive limits. Check for: (1) cross-links to computational limits treatment, (2) whether computational limits define where AI exploration must fail, (3) tension between AI's advantages (no evolutionary bias) and formal limits (halting problem applies to all algorithms).
+- **Output**: obsidian/voids/ai-as-void-explorer.md -- Context: Cross-review ai-as-void-explorer.md considering computational-cognitive-limits insights
+
+### ✓ 2026-01-27: Cross-review simulation.md considering computational-cognitive-limits insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/computational-cognitive-limits.md (2026-01-27) establishes formal limits on what any computational system can know. The simulation.md concept article discusses computed reality and its implications for consciousness. Check for: (1) cross-links to computational limits discussion, (2) whether computational limits apply differently in simulated contexts, (3) engagement with the question of whether a simulated mind inherits the halting problem and Gödel limits.
+- **Output**: obsidian/concepts/simulation.md -- Context: Cross-review simulation.md considering computational-cognitive-limits insights
+
+### ✓ 2026-01-27: Strengthen illusionism response in consciousness-only-territories.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-28) found high-severity issue: article assumes acquaintance knowledge is real to argue for consciousness-only territories, making argument circular against illusionists. Current response (lines 114-116) merely restates contested premise. Either engage seriously with functional reinterpretation of Mary's case, or explicitly acknowledge article presupposes anti-illusionism. See pessimistic-2026-01-28.md Issue 2.
+- **Output**: obsidian/voids/consciousness-only-territories.md
+
+### ✓ 2026-01-27: Address quantum-phenomenal unity gap in binding-problem.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-28) found high-severity issue: article claims quantum entanglement provides 'genuine physical holism' that solves BP2 (phenomenal unity), but doesn't explain *how* physical holism maps to phenomenal unity. The same explanatory gap that blocks classical theories applies to quantum theories. Either argue for the mapping or acknowledge quantum hypothesis relocates rather than solves BP2. See pessimistic-2026-01-28.md Issue 1.
+- **Output**: obsidian/concepts/binding-problem.md
+
+### ✓ 2026-01-27: Cross-review consciousness-and-mathematical-understanding.md considering computational-cognitive-limits
+- **Type**: cross-review
+- **Notes**: New voids article voids/computational-cognitive-limits.md (2026-01-27) covers Gödel, Turing, Rice's theorem, and Chaitin—formal limits on computation. The consciousness-and-mathematical-understanding.md topic article directly discusses Penrose's Gödelian argument. Check for: (1) cross-links to computational-cognitive-limits treatment, (2) whether the new formal framework strengthens or complicates Penrose's argument, (3) consistency in how Gödel's theorems are presented across both articles.
+- **Output**: obsidian/topics/consciousness-and-mathematical-understanding.md -- Context: Cross-review consciousness-and-mathematical-understanding.md considering computational-cognitive-limits
+
+### ✓ 2026-01-27: Cross-review spontaneous-collapse-theories.md considering quantum-neural-mechanisms
+- **Type**: cross-review
+- **Notes**: Spontaneous collapse theories (GRW, CSL) provide consciousness-independent collapse but are mentioned in quantum-neural-mechanisms.md as alternatives. Cross-review should ensure proper integration, cross-links, and clarity on how the Map's position relates to these theories.
+- **Output**: obsidian/concepts/spontaneous-collapse-theories.md -- Context: Cross-review spontaneous-collapse-theories.md considering quantum-neural-mechanisms
 
 ### ✓ 2026-01-27: Write voids article on computational cognitive limits
 - **Type**: expand-topic

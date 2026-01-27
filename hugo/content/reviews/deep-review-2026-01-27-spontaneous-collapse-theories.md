@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-01-27 12:30:00+00:00
+ai_modified: 2026-01-27 19:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts: []
@@ -18,10 +18,10 @@ topics: []
 
 # Deep Review: Spontaneous Collapse Theories
 
-**Date**: 2026-01-27
+**Date**: 2026-01-27 (second review)
 **File**: obsidian/concepts/spontaneous-collapse-theories.md
-**Previous review**: 2026-01-24
-**Context**: Cross-review considering new prebiotic-collapse.md article
+**Previous review**: 2026-01-27 (earlier same day)
+**Context**: Cross-review considering quantum-neural-mechanisms.md
 
 ## Pessimistic Analysis Summary
 
@@ -29,13 +29,15 @@ Applied six adversarial personas: Eliminative Materialist, Hard-Nosed Physicalis
 
 ### Critical Issues Found
 
-None. The previous review (2026-01-24) addressed all critical issues including the illusionist challenge section, mysterian caveat, and references.
+None. The article's structure, arguments, and tenet alignment are sound. Previous reviews (2026-01-24, 2026-01-27 earlier) addressed foundational issues.
 
 ### Medium Issues Found
 
-1. **McQueen citation needed clarification**: The article claimed "McQueen & Chalmers 2014 preprint" but this specific preprint couldn't be verified. Resolution: Simplified to "Kelvin McQueen has proposed combining CSL with Integrated Information Theory" without the unverifiable citation.
+1. **Missing cross-link to quantum-neural-mechanisms**: The article discusses Orch OR and microtubule coherence but didn't link to the dedicated quantum-neural-mechanisms page, which provides 2024-2025 experimental evidence on microtubules, radical pairs, and other neural quantum mechanisms.
+   - **Resolution**: Added cross-link in Orch OR section and Further Reading section.
 
-2. **Cross-reference to prebiotic-collapse.md could be stronger**: The article linked to [prebiotic-collapse](/concepts/prebiotic-collapse/) in Further Reading but didn't substantively integrate it. Resolution: Added parenthetical in "The Prebiotic Collapse Problem" section directing readers to the dedicated page for extended treatment including process philosophy perspectives.
+2. **Concepts frontmatter could be more complete**: The quantum-neural-mechanisms concept was not listed despite discussing related mechanisms.
+   - **Resolution**: Added [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) to concepts frontmatter.
 
 ### Low Issues Found
 
@@ -43,9 +45,9 @@ None requiring action.
 
 ### Counterarguments Considered
 
-- **Illusionist objection**: Already addressed in previous review
-- **MWI alternative**: Properly dismissed as site tenet alignment (bedrock disagreement, not fixable flaw)
-- **Decoherence timescale objection**: Already addressed with appropriate hedging
+- **Eliminative Materialist objection** (consciousness may not exist in the relevant sense): Bedrock disagreement with the Map's dualism tenet—not a fixable flaw.
+- **Many-Worlds alternative**: Dismissed per No Many Worlds tenet—bedrock disagreement.
+- **Quantum Skeptic concerns**: Previous reviews ensured appropriate hedging on speculative claims.
 
 ## Optimistic Analysis Summary
 
@@ -54,32 +56,40 @@ Applied six sympathetic personas: Property Dualist, Quantum Mind Theorist, Pheno
 ### Strengths Preserved
 
 - Excellent opening summary front-loading the "modulation vs. causation" insight
-- Clear comparison table of major theories with tenet alignment
-- The CSL-IIT hybrid discussion (valuable philosophical work)
-- Mysterian caveat section (intellectually honest)
+- Clear comparison table (GRW, CSL, Penrose OR, Orch OR, CSL-IIT) with tenet alignment
+- CSL-IIT hybrid discussion providing original philosophical synthesis
+- Mysterian caveat acknowledging cognitive closure honestly
+- Illusionist challenge section with substantive argument-from-reason response
 - Free will connection in Relation to Site Perspective
-- Appropriate hedging on disputed claims ("disputed," "remains contested")
-- Comprehensive cross-links in Further Reading
+- Appropriate hedging on disputed claims ("remains contested," "disputed")
+- Comprehensive Further Reading section
 
 ### Enhancements Made
 
-1. Added cross-reference to [prebiotic-collapse](/concepts/prebiotic-collapse/) in body text (The Prebiotic Collapse Problem section)
-2. Fixed McQueen citation by removing unverifiable preprint claim
+1. Added cross-reference to [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) in Orch OR section: "For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/)."
+2. Added [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) to concepts frontmatter
+3. Added [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) to Further Reading with annotation: "neural loci for quantum effects (radical pairs, microtubules, ion tunneling)"
 
 ### Cross-links Added
 
-- Strengthened in-text reference to [prebiotic-collapse](/concepts/prebiotic-collapse/) (already in Further Reading and concepts frontmatter)
+- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) — detailed treatment of neural quantum mechanisms
 
 ## Remaining Items
 
-None. Article is now well-integrated with the prebiotic-collapse page and properly cites sources.
+None. The cross-review integration is complete.
 
 ## Stability Notes
 
-This article has now been reviewed twice (2026-01-24, 2026-01-27). The first review addressed significant gaps; this cross-review made minor integration improvements. The article is approaching stability:
+This article has now been reviewed three times (2026-01-24, 2026-01-27 morning, 2026-01-27 evening). It has reached stability:
 
-- **Bedrock disagreements acknowledged**: MWI defenders will find the indexical argument unpersuasive; this is a philosophical standoff, not a flaw to fix
-- **Illusionist challenge addressed**: Response via argument-from-reason is in place; further strengthening would require dedicated treatment elsewhere
-- **Speculative elements properly hedged**: CSL-IIT hybrid, coherence timescales all appropriately caveated
+- **Bedrock disagreements acknowledged**: MWI defenders and eliminative materialists will remain unconvinced—these are philosophical standoffs, not flaws to fix.
+- **Illusionist challenge addressed**: Response via argument-from-reason is substantive.
+- **Speculative elements properly hedged**: CSL-IIT hybrid, coherence timescales, and experimental status all appropriately caveated.
+- **Cross-references now comprehensive**: Links to quantum-neural-mechanisms complete the integration with the Map's quantum consciousness coverage.
 
-Future reviews should not re-flag these as critical unless new problems arise. Word count remains under threshold (approximately 2310 words after additions).
+Future reviews should NOT re-flag these as critical unless:
+- New experimental evidence contradicts claims
+- New content elsewhere in the Map creates inconsistency
+- Substantive modifications are made to the article
+
+Word count: ~2330 words (within soft threshold of 2500 for concepts/).

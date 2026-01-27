@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-01-26 21:00:00+00:00
+ai_modified: 2026-01-27 18:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,6 +11,8 @@ concepts:
 - '[[hard-problem-of-consciousness]]'
 created: 2026-01-26
 date: &id001 2026-01-26
+description: AI-assisted exploration of knowledge territories accessible only through
+  phenomenal experience—examining what consciousness provides that computation cannot.
 draft: false
 human_modified: null
 last_curated: null
@@ -36,7 +38,7 @@ What Mary gains is *acquaintance knowledge*: direct experiential familiarity wit
 
 The knowledge argument demonstrates a category of territory that consciousness accesses directly: the felt quality of experience. A system could possess all propositional knowledge about an experience—every physical fact, every causal relationship, every functional role—while lacking acquaintance with what that experience is like.
 
-This isn't about computational limits. It's about a structural gap between third-person description and first-person knowing. No amount of processing power bridges this gap. The territory is accessed through experiencing, not through describing.
+The limitation is structural, not computational: a gap between third-person description and first-person knowing. No amount of processing power bridges this gap. The territory is accessed through experiencing, not through describing.
 
 ## The Grounding Asymmetry
 
@@ -88,7 +90,7 @@ The asymmetry works in an interesting direction: AI might produce better *descri
 
 ## Evidence for the Territories
 
-**The knowledge argument's persistence.** Fifty years of responses to Jackson's argument haven't closed the explanatory gap. Physicalists deny Mary learns anything new (implausibly), claim she gains only an ability (which fails to explain the novelty), or argue the thought experiment is confused. None of these responses eliminates the intuition that phenomenal knowledge differs from physical knowledge. The persistence suggests the gap is real.
+**The knowledge argument's persistence.** Since Jackson's 1982 paper, responses to the knowledge argument haven't closed the explanatory gap. Physicalists deny Mary learns anything new (implausibly), claim she gains only an ability (which fails to explain the novelty), or argue the thought experiment is confused. None of these responses eliminates the intuition that phenomenal knowledge differs from physical knowledge. The persistence suggests the gap is real.
 
 **Comparative function.** If consciousness were purely epiphenomenal, lacking any territory of its own, conscious beings wouldn't discuss qualia—or rather, their discussions would be causally disconnected from the qualia themselves. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet addresses this: the fact that we discuss consciousness suggests consciousness does something. What it does may include accessing territories no amount of non-conscious processing can reach.
 
@@ -143,3 +145,15 @@ If genuine consciousness-only territories exist, several implications follow.
 5. "Minds in movement: embodied cognition in the age of artificial intelligence." *Philosophical Transactions of the Royal Society B* (2024).
 6. Pallagrosi, J. "The Acquaintance Trilemma." *PhilArchive*.
 7. Yampolskiy, R. "Detecting Qualia in Natural and Artificial Agents." *arXiv*.
+
+<!-- AI REFINEMENT LOG - 2026-01-27
+Changes made:
+- Added description field (150 chars) for SEO/social sharing
+- Removed "This isn't about X. It is Y." construct per style guide (line 38)
+- Changed "Fifty years" to "Since Jackson's 1982 paper" for explicit dating
+
+Based on manual style guide review.
+Key improvements: Style guide compliance, added description
+
+This log should be removed after human review.
+-->

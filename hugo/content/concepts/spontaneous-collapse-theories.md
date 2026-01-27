@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-27 12:30:00+00:00
+ai_modified: 2026-01-27 19:45:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[many-worlds]]'
 - '[[decoherence]]'
 - '[[quantum-consciousness]]'
+- '[[quantum-neural-mechanisms]]'
 - '[[illusionism]]'
 - '[[mysterianism]]'
 - '[[free-will]]'
@@ -22,7 +23,7 @@ description: 'GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 12:30:00+00:00
+last_deep_review: 2026-01-27 19:45:00+00:00
 modified: *id001
 related_articles:
 - '[[quantum-consciousness]]'
@@ -107,7 +108,7 @@ Stuart Hameroff extends Penrose OR by proposing that consciousness arises when *
 - Requires large-scale quantum effects (microtubule-level), not minimal interaction
 - Experimental tests (germanium detectors, matter-wave interference) increasingly constrain Orch OR parameter space
 
-Orch OR aligns with [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) but conflicts with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) by requiring macroscopic quantum coherence. The Map's framework favors smaller-scale quantum selection (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) or hybrid CSL-IIT models.
+Orch OR aligns with [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) but conflicts with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) by requiring macroscopic quantum coherence. The Map's framework favors smaller-scale quantum selection (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) or hybrid CSL-IIT models. For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/).
 
 ## Experimental Status (2020-2025)
 
@@ -188,6 +189,7 @@ The **consciousness-modulated CSL** model (McQueen's CSL-IIT or similar) best in
 - [measurement-problem](/concepts/measurement-problem/) - the crisis spontaneous collapse theories address
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) - dedicated treatment of what collapsed before consciousness
 - [quantum-consciousness](/concepts/quantum-consciousness/) - how consciousness modulates baseline collapse
+- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) - neural loci for quantum effects (radical pairs, microtubules, ion tunneling)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) - alternative consciousness-collapse model (observer-selection)
 - [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) - how phenomenal properties map to physical parameters
 - [decoherence](/concepts/decoherence/) - relationship between environmental decoherence and objective collapse

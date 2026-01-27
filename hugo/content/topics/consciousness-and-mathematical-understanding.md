@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-26 22:15:00+00:00
+ai_modified: 2026-01-27 19:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,10 +23,11 @@ description: Mathematical insight—grasping why a proof works, not just verifyi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-22 00:30:00+00:00
+last_deep_review: 2026-01-27 19:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[computational-cognitive-limits]]'
 title: Consciousness and Mathematical Understanding
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -47,6 +48,8 @@ The argument runs roughly:
 2. Mathematicians can recognise G as true by understanding what it says.
 3. No algorithm operating within F can recognise G as true.
 4. Therefore, mathematical understanding involves something non-algorithmic.
+
+These formal results—Gödel's incompleteness, the halting problem, Rice's theorem—constitute [proven limits on computation](/voids/computational-cognitive-limits/) that no algorithmic process can circumvent. The philosophical question is whether consciousness accesses something beyond these limits or shares them.
 
 Critics object that this proves too much or too little. Perhaps mathematicians use some larger system F' to recognise G—but then F' has its own unprovable truth G'. The regress suggests mathematical understanding cannot be captured by *any* fixed algorithm, which is Penrose's point.
 
@@ -161,7 +164,7 @@ Reports from mathematicians describe periods of intense concentration leading to
 
 The claim that mathematical understanding requires phenomenal consciousness would be undermined by:
 
-**AI systems demonstrating genuine mathematical insight.** If an artificial system—one we have strong reason to believe lacks phenomenal consciousness—could not merely verify proofs but generate novel mathematical insights, explain *why* proofs work, and exhibit the hallmarks of genuine understanding (success-coupling, creative application, error detection), this would challenge the consciousness requirement. Current LLMs can manipulate mathematical symbols impressively but show limited capacity for the kind of "seeing necessity" that characterises insight. Future systems might change this picture.
+**AI systems demonstrating genuine mathematical insight.** If an artificial system—one we have strong reason to believe lacks phenomenal consciousness—could not merely verify proofs but generate novel mathematical insights, explain *why* proofs work, and exhibit the hallmarks of genuine understanding (success-coupling, creative application, error detection), this would challenge the consciousness requirement. As of 2025, LLMs can manipulate mathematical symbols impressively but show limited capacity for the kind of "seeing necessity" that characterises insight. Future systems might change this picture.
 
 **Neuroscientific reduction of "insight" to computation.** If the neural correlates of the "aha" moment turned out to be straightforward information integration—functionally identical to processes in systems we don't consider conscious—this would support the illusionist interpretation. The current evidence suggests insight involves distinctive neural signatures, but a fully computational account of these signatures would challenge the non-computational thesis.
 
@@ -184,6 +187,7 @@ The view would be *supported* by:
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems could understand mathematics
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — Parallels between choice phenomenology and insight phenomenology
 - [agent-causation](/concepts/agent-causation/) — Mathematical creativity as a case of genuine causal agency
+- [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Formal proofs of what computation cannot do
 
 ## References
 

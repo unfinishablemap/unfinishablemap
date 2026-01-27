@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-27 14:09:48+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Buddhism rejects permanent self while affirming irreducible conscio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-19 12:00:00+00:00
+last_deep_review: 2026-01-27 14:09:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,7 +77,7 @@ This aligns with **property dualism** rather than substance dualism. At each mom
 
 The Yogācāra ("Mind-Only") school provides another bridge. By treating consciousness as fundamental—what appears as external world being mental construction—Yogācāra aligns with the Map's rejection of physicalism while maintaining Buddhist impermanence. Consciousness is fundamental *and* constantly changing.
 
-Yogācāra introduces the *ālaya-vijñāna* ("storehouse consciousness")—a deep level of awareness that carries karmic seeds across moments and lifetimes. This is not a permanent soul; the storehouse itself constantly changes. But it provides continuity without substance: patterns persist while their substrate remains impermanent. This resembles the Map's emphasis on consciousness as fundamental without requiring a static carrier. The storehouse transmits causal influence through time—exactly what mental causation requires.
+Yogācāra introduces the *ālaya-vijñāna* ("storehouse consciousness")—a deep level of awareness that carries karmic seeds across moments and lifetimes. This is not a permanent soul; the storehouse itself constantly changes. But it provides continuity without substance: patterns persist while their substrate remains impermanent. Crucially, the *ālaya-vijñāna* is causally active—karmic seeds ripen into effects, and new actions deposit new seeds. This is not mere recording but genuine transmission of causal influence through an impermanent medium. Mental causation operates through the storehouse without requiring anything permanent to do the causing.
 
 ## Karma and Bidirectional Interaction
 
@@ -136,7 +136,7 @@ What does each framework offer the other?
 - The insight that permanence isn't required for irreducibility
 - A worked example of taking consciousness seriously without physicalism
 - Practical methods (meditation) for investigating consciousness directly
-- A process metaphysics compatible with property dualism (moments of experience arise, persist briefly, and pass—Whitehead's "actual occasions" share this structure)
+- A process metaphysics compatible with property dualism: Buddhist *kṣaṇavāda* (momentariness doctrine) holds that experience arises in discrete moments, each with its own phenomenal character. Whitehead's "actual occasions" share this structure—reality as a series of experiential events rather than enduring substances. Both frameworks reject the notion of static carriers while affirming the reality of experience.
 
 **the Map offers Buddhism:**
 - A mechanism (quantum selection) for how mental causation might work

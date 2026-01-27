@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-26 22:15:00+00:00
+ai_modified: 2026-01-27 14:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Why does *this* consciousness experience *this* outcome? The indexi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-25 15:30:00+00:00
+last_deep_review: 2026-01-27 14:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,7 +59,7 @@ Christopher Fuchs, QBism's founder, explains: "The wave function does not descri
 
 **The indexical gap**: QBism presupposes that conscious agents have determinate experiences to update beliefs *about*. If quantum probabilities are beliefs about future experiences, the theory requires that consciousness already has definite experiential content. But whence this content? QBism treats consciousness as an epistemic stance—a user of quantum theory—without explaining why consciousness exists or why it experiences anything definite.
 
-Saying "belief updating occurs after measurement" assumes measurement yields an experience to form beliefs about. QBism provides no account of why there is an experiencing subject in the first place, let alone why *this* subject has *this* experience.
+Saying "belief updating occurs after measurement" assumes measurement yields an experience to form beliefs about. But having beliefs is itself an experiential state—there is something it is like to expect spin-up rather than spin-down. QBism's subjective probabilities thus presuppose the very phenomenal determinacy they cannot explain. The theory provides no account of why there is an experiencing subject in the first place, let alone why *this* subject has *this* experience.
 
 ### Consciousness-Collapse: Why *This* Consciousness? {#collapse}
 

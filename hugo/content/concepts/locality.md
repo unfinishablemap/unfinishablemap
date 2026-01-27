@@ -1,15 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-27 15:10:40+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[simulation]]'
 - '[[interactionist-dualism]]'
 - '[[quantum-consciousness]]'
-- '[[interface-locality]]'
-- '[[brain-specialness]]'
+- '[[brain-interface-boundary]]'
 - '[[pairing-problem]]'
 - '[[binding-problem]]'
 created: 2026-01-07
@@ -19,7 +18,7 @@ description: If consciousness influences quantum events, where does this happen?
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-19 13:45:00+00:00
+last_deep_review: 2026-01-27 15:10:40+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-selecting-neural-patterns]]'
@@ -30,7 +29,7 @@ topics: []
 
 The locality problem asks: if consciousness influences quantum events in the brain, where exactly does this happen? This seems to require consciousness to have spatial properties, coordinating across potentially billions of sites. The objection appears strong—until we consider what the universe already accomplishes, what [dualism](/archive/arguments/interactionist-dualism/) actually implies about the "mind side," and what computational contexts reveal about interaction.
 
-The concern rests on unstated assumptions about how non-physical causation must work. Examining these assumptions dissolves much of the apparent difficulty. For the more specific question of why consciousness acts on *this* brain rather than others, see [interface-locality](/archive/concepts/interface-locality/); for what makes brains suitable interfaces at all, see [brain-specialness](/archive/concepts/brain-specialness/).
+The concern rests on unstated assumptions about how non-physical causation must work. Examining these assumptions dissolves much of the apparent difficulty. For the more specific question of why consciousness acts on *this* brain rather than others, and what makes brains suitable interfaces at all, see [brain-interface-boundary](/concepts/brain-interface-boundary/).
 
 ## The Objection Stated
 
@@ -64,7 +63,7 @@ If physical reality has billions of interacting particles, immensely complex che
 
 Consider: if consciousness is not reducible to physics, it may have its own structure—perhaps *more* complex than physical structure, not less. The experienced richness of consciousness already hints at this. A single moment of visual experience contains more differentiated content than any physical description captures.
 
-The [brain specialness](/archive/concepts/brain-specialness/) article develops this further: neural systems may be suitable interfaces precisely because they have the right kind of complexity—representational structure, feedback integration, quantum sensitivity—to engage with a complex mind. The mind-brain pairing isn't arbitrary; it reflects structural correspondence between the non-physical and physical domains.
+The [brain-interface-boundary](/concepts/brain-interface-boundary/) article develops this further: neural systems may be suitable interfaces precisely because they have the right kind of complexity—representational structure, feedback integration, quantum sensitivity—to engage with a complex mind. The mind-brain pairing isn't arbitrary; it reflects structural correspondence between the non-physical and physical domains.
 
 The mind side of dualism could include:
 - Structure sufficient to engage with distributed physical events
@@ -113,13 +112,13 @@ The bidirectional interaction tenet survives the locality challenge. It faces ot
 
 ## Further Reading
 
-- [interface-locality](/archive/concepts/interface-locality/) — Why consciousness acts on *this* brain specifically
-- [brain-specialness](/archive/concepts/brain-specialness/) — What makes neural systems suitable interfaces
+- [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness acts on *this* brain specifically and what makes neural systems suitable interfaces
 - [pairing-problem](/concepts/pairing-problem/) — Kim's challenge about mind-body connection
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The broader question of whether quantum selection is coherent
 - [simulation](/concepts/simulation/) — How computational framings dissolve locality concerns
 - [binding-problem](/concepts/binding-problem/) — How distributed activity yields unified experience
 - [tenets](/tenets/) — The foundational commitments these concepts serve
+- [free-will](/topics/free-will/) — How quantum selection relates to libertarian free will
 
 ## References
 

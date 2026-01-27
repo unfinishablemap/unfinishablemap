@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-27 18:30:00+00:00
+ai_modified: 2026-01-27 15:50:09+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,6 +16,7 @@ concepts:
 - '[[decoherence]]'
 - '[[consciousness-and-mathematical-understanding]]'
 - '[[conceptual-acquisition-limits]]'
+- '[[computational-cognitive-limits]]'
 created: 2026-01-15
 date: &id001 2026-01-20
 description: 'McGinn''s cognitive closure thesis: human minds may be constitutionally
@@ -23,7 +24,7 @@ description: 'McGinn''s cognitive closure thesis: human minds may be constitutio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 18:30:00+00:00
+last_deep_review: 2026-01-27 15:50:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,9 +69,9 @@ Consciousness might be such a mystery. The [explanatory-gap](/concepts/explanato
 
 ## Concept Nativism and Cognitive Closure
 
-Jerry Fodor's [radical concept nativism](/voids/conceptual-acquisition-limits/) complements McGinn: while McGinn argues we cannot *conceive* certain properties, Fodor argues we cannot *acquire* certain concepts at all. Learning a concept requires already possessing it to formulate hypotheses—experience triggers innate concepts rather than teaching new ones. If the concept isn't built in, no amount of experience produces it.
+Jerry Fodor's [radical concept nativism](/voids/conceptual-acquisition-limits/) complements McGinn: while McGinn argues we cannot *conceive* certain properties, Fodor argues we cannot *acquire* certain concepts at all. Learning a concept requires already possessing it to formulate hypotheses—if the concept isn't built in, no amount of experience produces it.
 
-McGinn's "property P" may be closed to us because we lack the primitive concepts required to build toward it. This convergence—Fodor on concept acquisition, McGinn on conception, Nicholas Rescher's "agnoseology" on layers of unknowability—suggests cognitive closure is part of a broader recognition that finite cognitive architectures necessarily have boundaries. Any mind powerful enough to think some thoughts is thereby prevented from thinking others.
+McGinn's "property P" may be closed to us because we lack the primitive concepts required to build toward it. This convergence—Fodor on acquisition, McGinn on conception, Rescher's "agnoseology" on unknowability—suggests cognitive closure reflects a broader truth: any mind powerful enough to think some thoughts is thereby prevented from thinking others.
 
 ## The Intrinsic Nature Connection
 
@@ -82,7 +83,7 @@ Property P may be the intrinsic categorical nature of matter—whatever underlie
 
 [Mathematical understanding](/topics/consciousness-and-mathematical-understanding/) provides evidence for cognitive limits. Roger Penrose argued that mathematicians recognise truths that no formal system can prove—we can see that the Gödel sentence G is true, even though the system containing G cannot derive it.
 
-This parallels mysterianism: we grasp mathematical truths while remaining unable to explain *how* we grasp them. We understand mathematics without understanding how we understand mathematics. Something real happens, but the mechanism may be cognitively closed to us.
+Two distinct types of limits converge here. [Computational limits](/voids/computational-cognitive-limits/)—Gödel's incompleteness, the halting problem, Chaitin's constant—are *mathematically proven* and constrain any algorithmic process. McGinn's cognitive closure is a *hypothesis* about human biology: evolution shaped minds for survival, not for solving every problem. If human cognition is computational, both limits apply; if consciousness transcends computation (as Penrose suggests), we might escape formal limits while remaining subject to biological ones—or vice versa. The computational void is certain; cognitive closure is proposed. Both point toward the same conclusion: not all truths are accessible to all minds.
 
 ## The Phenomenology of Cognitive Closure
 
@@ -188,6 +189,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 
 ## Further Reading
 
+- [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Proven mathematical limits on what any algorithmic mind can know
 - [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) — Fodor's nativist argument that concepts must be innate or inaccessible
 - [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) — Mathematical insight as evidence for cognitive limits
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Complete neural mapping yet unknowable experience

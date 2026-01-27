@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-27 16:30:00+00:00
+ai_modified: 2026-01-27 18:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -40,7 +40,7 @@ related_articles:
 - '[[tenets]]'
 - '[[ai-consciousness]]'
 - '[[consciousness-in-simple-organisms]]'
-- '[[consciousness-as-intelligence-amplifier]]'
+- '[[consciousness-as-amplifier]]'
 - '[[animal-consciousness-2026-01-14]]'
 - '[[consciousness-influence-intelligence-2026-01-21]]'
 - '[[consciousness-independent-baseline-cognition-2026-01-21]]'
@@ -110,7 +110,7 @@ The result: stronger reasons to attribute consciousness to animals than to curre
 
 ## Consciousness and the Human-Ape Intelligence Gap
 
-Great apes share 98-99% of our DNA and display sophisticated cognition—tool use, social reasoning, emotional complexity. Yet humans alone produce [cumulative culture](/concepts/cumulative-culture/), abstract mathematics, and technological civilisation. The [baseline-cognition](/archive/topics/baseline-cognition/) hypothesis proposes that great ape cognition represents what neural processing achieves *without* substantial conscious contribution, while human-level cognition requires expanded conscious access. See [consciousness-as-intelligence-amplifier](/archive/topics/consciousness-as-intelligence-amplifier/) for a comprehensive treatment of how consciousness transforms baseline cognition into human-level intelligence.
+Great apes share 98-99% of our DNA and display sophisticated cognition—tool use, social reasoning, emotional complexity. Yet humans alone produce [cumulative culture](/concepts/cumulative-culture/), abstract mathematics, and technological civilisation. The [baseline-cognition](/archive/topics/baseline-cognition/) hypothesis proposes that great ape cognition represents what neural processing achieves *without* substantial conscious contribution, while human-level cognition requires expanded conscious access. See [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) for a comprehensive treatment of how consciousness transforms baseline cognition into human-level intelligence.
 
 The [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) thesis proposes that consciousness enables *flexible deployment* of cognitive resources—not computational power (neurons handle that), but metacognitive monitoring and counterfactual reasoning. Key evidence:
 
@@ -195,9 +195,8 @@ Several discoveries could undermine this position:
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemological framework underlying consciousness attribution
 
 ### Consciousness and Intelligence
-- [consciousness-as-intelligence-amplifier](/archive/topics/consciousness-as-intelligence-amplifier/) — How consciousness transforms baseline cognition into human-level intelligence
+- [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness transforms baseline cognition into human-level intelligence
 - [baseline-cognition](/archive/topics/baseline-cognition/) — What neural systems achieve without consciousness
-- [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognitive capacity
 - [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/) — Theory of mind levels and shared intentionality
 
 ### Related Topics

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-01-26 22:15:00+00:00
+ai_modified: 2026-01-27 17:39:53+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,10 +20,11 @@ description: If consciousness is distinct from physics, psychophysical laws must
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-26 14:10:30+00:00
+last_deep_review: 2026-01-27 17:39:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[chalmers-psychophysical-coupling]]'
 - '[[chalmers-psychophysical-laws-2026-01-17]]'
 - '[[psychophysical-coupling-problem-2026-01-15]]'
 title: The Psychophysical Laws Framework
@@ -34,7 +35,7 @@ topics:
 
 If consciousness is ontologically distinct from physics—as The Unfinishable Map's [Dualism tenet](/tenets/#dualism) holds—then the relationship between mind and matter requires specification through fundamental laws. These psychophysical laws bridge what physics describes (neurons, fields, particles) and what we experience (pain, colour, intention). Without such laws, dualism remains a bare assertion; with them, it becomes a research program with testable structure.
 
-David Chalmers developed the canonical framework for psychophysical laws, arguing that consciousness requires extending our fundamental ontology just as electromagnetism required new laws beyond mechanics. The Map builds on this framework while emphasizing a critical asymmetry: Chalmers focuses on *upward* laws (which physical states produce which experiences), while the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires *downward* laws (which conscious states select which physical outcomes). This page provides an integrated overview of the framework—what psychophysical laws are, why they're needed, how the upward and downward directions differ, and what challenges any such framework must address. For Chalmers' framework in greater depth, see the companion [psychophysical-laws](/concepts/psychophysical-laws/) concept page.
+David Chalmers developed the canonical framework for psychophysical laws, arguing that consciousness requires extending our fundamental ontology just as electromagnetism required new laws beyond mechanics. The Map builds on this framework while emphasizing a critical asymmetry: Chalmers focuses on *upward* laws (which physical states produce which experiences), while the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires *downward* laws (which conscious states select which physical outcomes). This page provides an integrated overview of the framework—what psychophysical laws are, why they're needed, how the upward and downward directions differ, and what challenges any such framework must address. For Chalmers' specific contributions and his 2022 quantum development with McQueen, see [chalmers-psychophysical-coupling](/topics/chalmers-psychophysical-coupling/); for the foundational concept, see [psychophysical-laws](/concepts/psychophysical-laws/).
 
 ## The Structure of Psychophysical Laws
 
@@ -195,7 +196,8 @@ The psychophysical laws framework would face serious difficulty if:
 
 ## Further Reading
 
-- [psychophysical-laws](/concepts/psychophysical-laws/) — Chalmers' foundational framework in depth
+- [chalmers-psychophysical-coupling](/topics/chalmers-psychophysical-coupling/) — Chalmers' specific contributions, including his 2022 quantum development with McQueen
+- [psychophysical-laws](/concepts/psychophysical-laws/) — The foundational concept in depth
 - [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) — The selection law problem specifically
 - [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) — Five candidate mechanisms evaluated
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The philosophical position requiring bidirectional laws
