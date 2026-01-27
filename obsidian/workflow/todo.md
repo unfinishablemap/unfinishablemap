@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-26T23:57:21+00:00
+ai_modified: 2026-01-27T01:26:51+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Condense meaning-of-life.md (4722 words, 157% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Covers existential meaning from consciousness perspective—purpose, value, death anxiety. Preserve: connection between consciousness and meaning, engagement with nihilism challenge, alignment with site's dualist position. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
+
+### P2: Condense thoughts-that-slip-away.md (3151 words, 158% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the phenomenon of forgetting thoughts mid-sentence—introspective failures as void indicators. Preserve: phenomenology of thought slippage, connection to working memory limits, relation to voids framework. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
+
+### P2: Write article on early-universe collapse before minds
+- **Type**: expand-topic
+- **Notes**: Based on research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the question: if consciousness causes quantum collapse, how did outcomes occur before minds existed? Critical for site's quantum-consciousness framework. Must engage with: cosmological decoherence, observer-selection effects, Block Universe alternatives.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-27
+
+### P3: Deep review consciousness-only-territories.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories accessible only through phenomenal experience—acquaintance knowledge, indexical knowledge, valence asymmetry. Should verify: (1) accuracy of knowledge-argument framing, (2) distinction from general qualia discussions, (3) alignment with voids framework and site tenets.
+- **Source**: staleness
+- **Generated**: 2026-01-27
+
+### P3: Deep review language-thought-boundary.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers Wittgenstein's Tractatus limits, Sapir-Whorf research, ineffability. Should verify: (1) accuracy of philosophical positions, (2) engagement with cognitive science of language, (3) distinction from general effability topic, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-27
+
+### P3: Deep review ai-as-void-explorer.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers AI as probe for human cognitive limits—12,000+ dimensional embedding spaces, lack of evolutionary biases. Should verify: (1) accuracy of AI capability claims, (2) whether asymmetry argument (failures vs successes) is sound, (3) connection to mysterianism and cognitive closure, (4) alignment with site's AI consciousness position.
+- **Source**: staleness
+- **Generated**: 2026-01-27
 
 ### P3: Condense metarepresentation.md (3960 words, 158% of threshold)
 - **Type**: condense
