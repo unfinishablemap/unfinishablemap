@@ -2,9 +2,9 @@
 title: "Quantum Neural Timing Constraints"
 description: "Quantum decoherence at femtoseconds, neural decisions at hundreds of milliseconds—a twelve-order magnitude gap. Which quantum mechanisms remain viable?"
 created: 2026-01-24
-modified: 2026-01-26
+modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-26T22:15:00+00:00
+ai_modified: 2026-01-27T17:29:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,12 +21,13 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[quantum-neural-timing-constraints-2026-01-24]]"
+  - "[[decoherence-and-macroscopic-superposition]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-24
 last_curated: null
-last_deep_review: 2026-01-26T12:00:00+00:00
+last_deep_review: 2026-01-27T17:29:25+00:00
 ---
 
 Quantum consciousness theories face a timing problem. Neural decisions operate at hundreds of milliseconds; Max Tegmark calculated quantum decoherence at femtoseconds—a gap of twelve orders of magnitude. If quantum superpositions collapse 10¹² times faster than neurons make decisions, quantum effects cannot influence neural outcomes. Yet this critique depends on specific assumptions that subsequent research has challenged, and different proposed mechanisms have different timing requirements. The question is not whether quantum effects can matter in brains, but which mechanisms remain viable given what we know about both quantum and neural timescales.
@@ -66,9 +67,9 @@ This narrows the gap from twelve orders of magnitude to roughly three. Yet even 
 
 ### Mesoscopic Network Effects
 
-Perry (2025) proposed that individual microtubule coherence times underestimate what the brain achieves. Collective quantum effects across microtubule networks create "mesoscopic coherent domains" with predicted coherence times of 1–10 milliseconds—sufficient to influence neural timing precision.
+Perry (2025) proposed that individual microtubule coherence times underestimate what the brain achieves. Collective quantum effects across microtubule networks create "mesoscopic coherent domains" with predicted coherence times of 1–10 milliseconds—sufficient to influence neural timing precision. This remains a theoretical prediction awaiting experimental verification.
 
-This theoretical framework predicts network-level quantum effects that individual components cannot achieve. If verified experimentally, mesoscopic coherence would bring quantum timescales into contact with gamma oscillations (~25ms cycles) and potentially influence the faster end of neural decision-making.
+If confirmed, mesoscopic coherence would bring quantum timescales into contact with gamma oscillations (~25ms cycles) and potentially influence the faster end of neural decision-making. Recent demonstrations that the quantum-classical boundary keeps receding—including [[decoherence-and-macroscopic-superposition|hot cat states at 1.8K and nanoparticle interference exceeding 7,000 atoms]]—suggest that categorical dismissal of such network effects may be premature.
 
 ## The 280–300ms Decision Window
 
@@ -184,6 +185,7 @@ The timing compatibility question generates testable predictions:
 ## Further Reading
 
 - [[quantum-decoherence-objection]] — The decoherence objection and biological precedents
+- [[decoherence-and-macroscopic-superposition]] — Recent experiments pushing the quantum-classical boundary
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism for mental effort
 - [[motor-selection]] — The 280ms motor commitment point and Libet dissolution
 - [[voluntary-attention]] — The 300ms willed attention deployment

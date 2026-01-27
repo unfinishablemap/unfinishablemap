@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review quantum-neural-timing-constraints.md considering decoherence insights
-- **Type**: cross-review
-- **Notes**: New article topics/decoherence-and-macroscopic-superposition.md (2026-01-27) provides evidence challenging Tegmark's decoherence objections with warm-biology examples. The quantum-neural-timing-constraints.md article addresses timing objections. Check for: (1) cross-links to decoherence treatment, (2) whether biological coherence evidence strengthens timing arguments, (3) consistency in how decoherence timescales are discussed.
-- **Source**: chain (from decoherence-and-macroscopic-superposition.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review psychophysical-laws-framework.md considering Chalmers coupling
 - **Type**: cross-review
 - **Notes**: New article topics/chalmers-psychophysical-coupling.md (2026-01-27) develops Chalmers's framework for lawful connections between physical and phenomenal domains. The psychophysical-laws-framework.md article is the companion theoretical treatment. Check for: (1) cross-links to Chalmers-specific treatment, (2) whether Chalmers's framework provides concrete grounding for the laws framework, (3) consistency in terminology (coupling vs. correlation vs. law).
@@ -582,6 +576,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review quantum-neural-timing-constraints.md considering decoherence insights
+- **Type**: cross-review
+- **Notes**: New article topics/decoherence-and-macroscopic-superposition.md (2026-01-27) provides evidence challenging Tegmark's decoherence objections with warm-biology examples. The quantum-neural-timing-constraints.md article addresses timing objections. Check for: (1) cross-links to decoherence treatment, (2) whether biological coherence evidence strengthens timing arguments, (3) consistency in how decoherence timescales are discussed.
+- **Output**: obsidian/topics/quantum-neural-timing-constraints.md -- Context: Cross-review quantum-neural-timing-constraints.md considering decoherence insights
 
 ### ✓ 2026-01-27: Write article on decoherence and macroscopic superposition
 - **Type**: expand-topic

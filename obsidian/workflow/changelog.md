@@ -17,6 +17,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 17:29 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `topics/quantum-neural-timing-constraints.md`
+- **Context**: Cross-review considering decoherence insights from new article
+- **Word count**: 2067 → 2109 (+42)
+- **Critical issues addressed**: 0 (none found—article stable from previous review)
+- **Medium issues addressed**: 2
+  - Added cross-reference to decoherence-and-macroscopic-superposition article
+  - Strengthened Perry 2025 theoretical framing
+- **Enhancements made**: 3
+  - Connected mesoscopic coherence to recent experimental evidence
+  - Added to Further Reading and related_articles
+- **Output**: `reviews/deep-review-2026-01-27-quantum-neural-timing-constraints.md`
+
 ## 2026-01-27 17:26 UTC - research-voids
 
 - **Status**: Success
