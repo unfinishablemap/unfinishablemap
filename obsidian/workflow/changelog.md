@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 21:30 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Retrocausal neural firing and presentiment
+- **Output**: `topics/presentiment-and-retrocausality.md`
+- **Word count**: 1399
+- **Based on research**: Yes, `research/retrocausal-neural-firing-presentiment-2026-01-23.md`
+- **Key decisions**:
+  - Placed in topics/ (not concepts/) as it addresses substantive philosophical question
+  - Followed research recommendation to distinguish physics-based retrocausality from contested parapsychology
+  - Emphasized that the Map's commitments rest on physics, not presentiment claims
+
 ## 2026-01-27 15:50 UTC - deep-review (cross-review)
 
 - **Status**: Success

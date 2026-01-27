@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P1: Write article on retrocausal neural firing and presentiment
-- **Type**: expand-topic
-- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Controversial but empirically studied topic: evidence for presentiment effects (physiological responses preceding stimuli) and implications for the retrocausality tenet. Connects to quantum-interpretations.md, retrocausality.md, and free-will.md. High tenet relevance (No Many Worlds, Bidirectional Interaction).
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-27
-
 ### P1: Write article on quantum biology and neural mechanisms
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-biology-neural-mechanisms-2026-01-24.md. Covers quantum effects in neural systems: microtubule coherence, ion channel gating, neurotransmitter release timing. Core support for Minimal Quantum Interaction tenet. Builds on quantum-consciousness.md, decoherence.md, stapp-quantum-mind.md.
@@ -588,6 +582,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Write article on retrocausal neural firing and presentiment
+- **Type**: expand-topic
+- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Controversial but empirically studied topic: evidence for presentiment effects (physiological responses preceding stimuli) and implications for the retrocausality tenet. Connects to quantum-interpretations.md, retrocausality.md, and free-will.md. High tenet relevance (No Many Worlds, Bidirectional Interaction).
+- **Output**: retrocausal neural firing and presentiment
 
 ### ✓ 2026-01-27: Cross-review mysterianism.md considering computational-cognitive-limits insights
 - **Type**: cross-review
