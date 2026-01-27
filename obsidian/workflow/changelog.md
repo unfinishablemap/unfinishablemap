@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 09:44 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/consciousness-as-intelligence-amplifier.md`
+- **Word count**: 1372 → 1466 (+94 words)
+- **Critical issues addressed**: 2 (removed stale AI log, added decoherence acknowledgment)
+- **Medium issues addressed**: 2 (clarified access vs phenomenal consciousness, added metacognition link)
+- **Enhancements made**: 3 cross-links (metacognition, temporal-consciousness, free-will)
+- **Output**: `reviews/deep-review-2026-01-27-consciousness-as-intelligence-amplifier.md`
+- **Notes**: Article was substantially rewritten since previous review (2026-01-25). Added clarifying paragraph distinguishing access and phenomenal consciousness. Article well within length threshold.
+
 ## 2026-01-27 09:34 UTC - deep-review
 
 - **Status**: Success

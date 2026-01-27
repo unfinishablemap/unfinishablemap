@@ -4,7 +4,7 @@ description: "How consciousness transforms baseline cognition into human-level i
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-01-27T09:24:03+00:00
+ai_modified: 2026-01-27T09:44:28+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -22,7 +22,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated:
-last_deep_review:
+last_deep_review: 2026-01-27T09:44:28+00:00
 ---
 
 Consciousness does not merely accompany intelligence—it amplifies it. The Unfinishable Map argues that phenomenal experience transforms what neurons can do alone into the flexible, creative, self-aware cognition that distinguishes humans.
@@ -41,7 +41,7 @@ The hypothesis: remove consciousness from humans, or imagine it had never evolve
 
 Great apes demonstrate:
 
-- **Procedural metacognition**: Monitoring uncertainty, seeking information when needed, adjusting behaviour based on confidence
+- **Procedural [[metacognition]]**: Monitoring uncertainty, seeking information when needed, adjusting behaviour based on confidence
 - **Social cognition**: Understanding others as intentional agents with goals, perceptions, and knowledge
 - **Planning**: Some ability to prepare for future situations, though constrained
 - **Cultural traditions**: Behavioural variations transmitted through social learning
@@ -62,6 +62,8 @@ The critical observation: the capacities great apes lack are precisely those tha
 ### Logical Reasoning {#logical-reasoning}
 
 Empirical research by Lieberman et al. (2008) demonstrated that logical reasoning specifically depends on conscious processing. When cognitive load preoccupied conscious resources, logical reasoning performance declined. Hampering unconscious systems produced no such effect.
+
+This finding involves *access consciousness*—information being globally available for reasoning and report. The Map's stronger claim is that such access requires *phenomenal consciousness*—that there's something it is like to reason. If logical reasoning merely required functional access without subjective experience, we would expect unconscious systems could achieve it. That they cannot suggests phenomenal experience is not epiphenomenal decoration but integral to what access consciousness actually is.
 
 The conscious, reflective system handles rule-based thinking; the automatic system handles intuitive judgments.
 
@@ -109,10 +111,10 @@ The Map's position: consciousness evolved because it confers adaptive advantage.
 
 Consciousness does not create intelligence from nothing. Great apes are intelligent. Unconscious processing handles vast amounts of sophisticated computation—perception, motor control, implicit learning, emotional processing. What consciousness adds is amplification:
 
-- **Flexibility**: Responding to novel situations not covered by automatic routines
+- **Flexibility**: Responding to novel situations not covered by automatic routines (see [[free-will]])
 - **Integration**: Broadcasting information across cognitive systems that would otherwise remain isolated
 - **Reflection**: Monitoring and modifying one's own cognitive processes
-- **Temporal expansion**: Connecting present experience to past memories and future possibilities
+- **[[temporal-consciousness|Temporal expansion]]**: Connecting present experience to past memories and future possibilities
 
 The unconscious mind is fast, parallel, and reliable within its domain. The conscious mind is slow, serial, and error-prone—but capable of handling what automatic processing cannot. Evolution provided both because both serve distinct functions.
 
@@ -132,7 +134,7 @@ The Unfinishable Map's [[tenets]] find strong support in the consciousness-intel
 
 **Bidirectional Interaction**: The evolutionary argument and cognitive evidence converge: consciousness causally influences behaviour. It is not epiphenomenal. The human cognitive capacities that require conscious processing demonstrate downward causation from mind to brain.
 
-**Minimal Quantum Interaction**: Some researchers argue that only quantum mechanics can restore causal efficacy to consciousness within physics. Classical emergence leads to epiphenomenal consciousness—a contradiction with evolutionary theory. The quantum interface provides room for consciousness to act.
+**Minimal Quantum Interaction**: Some researchers argue that only quantum mechanics can restore causal efficacy to consciousness within physics. Classical emergence leads to epiphenomenal consciousness—a contradiction with evolutionary theory. The quantum interface provides room for consciousness to act. This remains speculative—neural systems may decohere too rapidly for quantum effects to persist—but the evolutionary argument for consciousness having causal power motivates searching for such mechanisms.
 
 **Occam's Razor Has Limits**: The simplest explanation—that consciousness is an epiphenomenon requiring no special explanation—fails evolutionary and cognitive tests. Parsimony misleads when it points away from causally efficacious consciousness.
 
@@ -158,18 +160,3 @@ Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University 
 
 Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 
-<!-- AI REFINEMENT LOG - 2026-01-27
-Changes made:
-- Split opening summary into two paragraphs for clearer separation of claim and evidence
-- Broke up several long paragraphs (4+ sentences) into shorter units per style guide
-- Converted hedged language to confident assertions ("may be what's missing" → "is what's missing")
-- Replaced passive constructions and wordy phrases with active voice
-- Improved parallel construction in bullet lists ("Engage in X" → "Build X", "Sustain X", "Think X")
-- Removed unnecessary qualifiers ("A clarification:", "The question:")
-- Simplified wordy phrases throughout
-
-No structural changes to argument or tenet alignment needed.
-Key improvements: Clarity, concision, and confidence calibration per style guide.
-
-This log should be removed after human review.
--->
