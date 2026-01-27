@@ -4,8 +4,8 @@ description: "Can we genuinely author our choices? The Map defends libertarian f
 created: 2026-01-08
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-26T22:15:00+00:00
-last_deep_review: 2026-01-23T00:33:16+00:00
+ai_modified: 2026-01-27T23:30:00+00:00
+last_deep_review: 2026-01-27T23:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -93,7 +93,7 @@ Free will operates through the gap quantum mechanics leaves open. Consciousness 
 
 If consciousness selects neural patterns, shouldn't selection occur *before* neural preparation, not after? Libet's data shows neural activity precedes conscious awareness.
 
-[[retrocausality|Retrocausal]] interpretations resolve this. Quantum mechanics is time-symmetric; Cramer's transactional interpretation involves "offer waves" forward and "confirmation waves" backward, with the "handshake" being atemporal. If consciousness operates at this level, it doesn't need to precede neural preparation to be its cause—the selection determines which temporal sequence becomes real, including its apparent ordering.
+[[retrocausality|Retrocausal]] interpretations resolve this. Quantum mechanics is time-symmetric; Cramer's transactional interpretation involves "offer waves" forward and "confirmation waves" backward, with the "handshake" being atemporal. If consciousness operates at this level, it doesn't need to precede neural preparation to be its cause—the selection determines which temporal sequence becomes real, including its apparent ordering. This physics-based retrocausality is distinct from contested parapsychological "presentiment" claims—see [[presentiment-and-retrocausality]] for why the Map's framework rests on quantum mechanics rather than anticipatory physiology.
 
 ## Mental Causation and Epiphenomenalism
 
@@ -196,6 +196,7 @@ Free will stands at the intersection of all five [[tenets]]:
 - [[voluntary-attention]] — Paradigm case of consciousness selecting neural patterns
 - [[motor-selection]] — Second selection domain with parallel neural signatures
 - [[retrocausality]] — How backward causation resolves the timing problem
+- [[presentiment-and-retrocausality]] — Distinguishing physics-based retrocausality from contested presentiment claims
 - [[decoherence]] — The decoherence objection and biological quantum effects
 - [[consciousness-and-creativity]] — How consciousness generates and selects possibilities
 - [[moral-responsibility]] — How agent causation grounds desert

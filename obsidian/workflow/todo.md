@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review free-will.md considering presentiment and retrocausality
-- **Type**: cross-review
-- **Notes**: New article topics/presentiment-and-retrocausality.md (2026-01-27) separates physics-based retrocausality from parapsychological presentiment claims. The free-will.md article discusses retrocausality as resolution to Libet timing problems. Check for: (1) cross-links to presentiment treatment, (2) clarification on which retrocausal claims the Map endorses, (3) opportunities to strengthen the temporal selection argument.
-- **Source**: chain (from presentiment-and-retrocausality.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review quantum-binding-and-phenomenal-unity.md considering quantum biology
 - **Type**: cross-review
 - **Notes**: New article topics/quantum-biology-and-the-consciousness-debate.md (2026-01-27) provides empirical evidence for quantum effects in neural systems. The quantum-binding-and-phenomenal-unity.md article argues that quantum entanglement may explain phenomenal unity. Check for: (1) cross-links to quantum biology evidence, (2) whether the empirical findings strengthen the binding argument, (3) consistency in how decoherence challenges are addressed.
@@ -564,6 +558,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review free-will.md considering presentiment and retrocausality
+- **Type**: cross-review
+- **Notes**: New article topics/presentiment-and-retrocausality.md (2026-01-27) separates physics-based retrocausality from parapsychological presentiment claims. The free-will.md article discusses retrocausality as resolution to Libet timing problems. Check for: (1) cross-links to presentiment treatment, (2) clarification on which retrocausal claims the Map endorses, (3) opportunities to strengthen the temporal selection argument.
+- **Output**: obsidian/topics/free-will.md -- Context: Cross-review free-will.md considering presentiment and retrocausality
 
 ### ✓ 2026-01-27: Cross-review indexical-identity-quantum-measurement.md considering subjective probability
 - **Type**: cross-review
