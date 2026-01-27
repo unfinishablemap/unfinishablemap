@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Address quantum-phenomenal unity gap in binding-problem.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-01-28) found high-severity issue: article claims quantum entanglement provides 'genuine physical holism' that solves BP2 (phenomenal unity), but doesn't explain *how* physical holism maps to phenomenal unity. The same explanatory gap that blocks classical theories applies to quantum theories. Either argue for the mapping or acknowledge quantum hypothesis relocates rather than solves BP2. See pessimistic-2026-01-28.md Issue 1.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-28
-
 ### P2: Strengthen illusionism response in consciousness-only-territories.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -572,6 +565,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Address quantum-phenomenal unity gap in binding-problem.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-28) found high-severity issue: article claims quantum entanglement provides 'genuine physical holism' that solves BP2 (phenomenal unity), but doesn't explain *how* physical holism maps to phenomenal unity. The same explanatory gap that blocks classical theories applies to quantum theories. Either argue for the mapping or acknowledge quantum hypothesis relocates rather than solves BP2. See pessimistic-2026-01-28.md Issue 1.
+- **Output**: obsidian/concepts/binding-problem.md
 
 ### ✓ 2026-01-27: Cross-review consciousness-and-mathematical-understanding.md considering computational-cognitive-limits
 - **Type**: cross-review

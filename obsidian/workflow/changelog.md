@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 14:48 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `concepts/binding-problem.md`
+- **Original score**: ~8/10 (manual review)
+- **Changes**:
+  - Clarified argument from reason in Illusionist Challenge section
+  - Added emphasis: "Correlation is not unity" in quantum alternative introduction
+  - Expanded Testable Commitments with supporting predictions (not just falsifying conditions)
+  - Strengthened binding by synchrony critique with explicit physical separation
+  - Minor phrasing improvement in sleep section transition
+- **Published**: yes
+
 ## 2026-01-28 00:30 UTC - pessimistic-review
 
 - **Status**: Success
