@@ -113,6 +113,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 
 **Source articles**:
 - topics/eastern-philosophy-consciousness
+- topics/contemplative-evidence-for-consciousness-theories
 - concepts/witness-consciousness
 - concepts/meditation-consciousness-modes
 - concepts/introspection

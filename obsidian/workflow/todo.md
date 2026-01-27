@@ -49,18 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on contemplative evidence for consciousness theories
-- **Type**: expand-topic
-- **Notes**: The Map mentions meditation and contemplative evidence but could develop this systematically. Different traditions (Theravada vipassana, Tibetan Dzogchen, Christian contemplative) provide converging phenomenological data on: witness consciousness, selfless awareness, altered time perception, and phenomenal unity. Builds on meditation-and-consciousness-modes.md, witness-consciousness.md, stapp-quantum-mind.md. Supports multiple tenets.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-28
-
-### P3: Write article on auditory consciousness
-- **Type**: expand-topic
-- **Notes**: Auditory phenomenology (hearing music, speech, environmental sounds) is under-explored compared to visual consciousness. Relevant to binding problem (synchronizing sound with vision), temporal consciousness (audition is inherently temporal), and phenomenal richness. Would balance the visual-consciousness task already in queue.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-27
-
 ### P3: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the bootstrap problem where the mind that was wrong must recognize its error. Preserve: Schulz's error-blindness claims, connection to self-reference-paradox. See /condense skill.
@@ -588,6 +576,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Write article on contemplative evidence for consciousness theories
+- **Type**: expand-topic
+- **Notes**: The Map mentions meditation and contemplative evidence but could develop this systematically. Different traditions (Theravada vipassana, Tibetan Dzogchen, Christian contemplative) provide converging phenomenological data on: witness consciousness, selfless awareness, altered time perception, and phenomenal unity. Builds on meditation-and-consciousness-modes.md, witness-consciousness.md, stapp-quantum-mind.md. Supports multiple tenets.
+- **Output**: contemplative evidence for consciousness theories
 
 ### ✓ 2026-01-27: Create concept page for indexical facts
 - **Type**: expand-topic
