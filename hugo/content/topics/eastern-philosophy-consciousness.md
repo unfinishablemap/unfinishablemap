@@ -304,7 +304,7 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 - [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Dreams, lucid dreaming, and Tibetan dream yoga
 - [neurophenomenology](/concepts/neurophenomenology/) — The scientific research program bridging contemplative traditions and neuroscience
 - [meaning-of-life](/topics/meaning-of-life/) — Western approaches to significance
-- [nihilism](/concepts/nihilism/) — Compare Buddhist and Western responses to meaninglessness
+- [nihilism](/archive/concepts/nihilism/) — Compare Buddhist and Western responses to meaninglessness
 - [buddhist-perspectives-meaning-2026-01-06](/research/buddhist-perspectives-meaning-2026-01-06/) — Detailed research notes
 - [tenets](/tenets/) — the Map's framework for comparison
 

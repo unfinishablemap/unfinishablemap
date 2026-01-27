@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-26 19:01:35+00:00
+ai_modified: 2026-01-27 10:54:22+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,6 +16,7 @@ concepts:
 - '[[consciousness-as-amplifier]]'
 - '[[bidirectional-interaction]]'
 - '[[contemplative-neuroscience]]'
+- '[[phenomenal-consciousness]]'
 created: 2026-01-09
 date: &id001 2026-01-09
 description: 'The view that consciousness is causally inert faces the self-stultification
@@ -23,7 +24,7 @@ description: 'The view that consciousness is causally inert faces the self-stult
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-26 19:01:35+00:00
+last_deep_review: 2026-01-27 10:54:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -117,7 +118,7 @@ The [consciousness-as-amplifier hypothesis](/concepts/consciousness-as-amplifier
 
 The gap isn't random. It systematically tracks capacities that appear to require conscious processing:
 
-**Working memory**: Chimpanzee working memory holds approximately 2±1 items; human working memory holds 7±2. This expansion isn't mere storage—it's the capacity for simultaneous comparison and flexible combination. If working memory depends on conscious access (as [Global Workspace Theory](/concepts/global-workspace-theory/) suggests), the expansion implies consciousness contributes something.
+**Working memory**: Chimpanzee working memory holds approximately 2±1 items; human working memory holds 7±2. This expansion isn't mere storage—it's the capacity for simultaneous comparison and flexible combination. [Global Workspace Theory](/concepts/global-workspace-theory/) describes access consciousness—information globally available for processing—but the Map's claim is stronger: [phenomenal consciousness](/concepts/phenomenal-consciousness/) (the "what it's like") contributes causally, not merely the functional availability. The [amplifier article](/concepts/consciousness-as-amplifier/) develops this distinction.
 
 **Logical reasoning**: Lieberman et al. (2008) found that cognitive load disrupting conscious attention impairs rule-based logical reasoning; disrupting unconscious processes does not. If consciousness were epiphenomenal, logical reasoning should proceed regardless of conscious interference.
 
@@ -139,9 +140,9 @@ The epiphenomenalist must claim this correspondence is coincidence. This strains
 
 The *content* of conscious intention matters—compassion meditation produces different neural changes than focused attention meditation. The *quality* of phenomenological engagement (vivid vs. dull attention) predicts outcomes.
 
-The epiphenomenalist will respond that these are just brain states causing other brain states—the phenomenological component is epiphenomenal. Studies distinguish between willed attention (self-directed focus) and instructed attention (following external cues), finding distinct neural signatures. But the epiphenomenalist can accommodate this: the brain states underlying willed attention differ from those underlying instructed attention, and these different brain states produce different neural outcomes. The phenomenal difference is a byproduct, not a cause.
+The epiphenomenalist will respond that these are just brain states causing other brain states—the phenomenological component is epiphenomenal. Studies distinguish between willed attention and instructed attention, finding distinct neural signatures. But the epiphenomenalist can accommodate this: different brain states produce different outcomes, and the phenomenal difference is a byproduct.
 
-This makes the contemplative neuroscience evidence *suggestive* rather than *decisive*. Both interactionism and epiphenomenalism predict that meditation practice produces neural changes—they disagree about whether phenomenal consciousness contributes causally or merely accompanies the causal brain processes. Current experiments cannot isolate the causal contribution of phenomenal consciousness *per se*. The evidence is consistent with both interpretations, though the interactionist explanation is arguably more parsimonious: it doesn't require explaining why causally inert qualia systematically track brain states with such precision.
+This makes the contemplative neuroscience evidence *suggestive* rather than *decisive*. Both interactionism and epiphenomenalism predict that meditation produces neural changes—they disagree about whether phenomenal consciousness contributes causally. Current experiments cannot isolate phenomenal consciousness *per se*. The interactionist explanation is arguably more parsimonious: it doesn't require explaining why causally inert qualia systematically track brain states with such precision.
 
 ## Relation to the Map's Perspective
 

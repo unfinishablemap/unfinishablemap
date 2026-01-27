@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-27 19:45:00+00:00
+ai_modified: 2026-01-27 14:00:52+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,27 +38,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Update references to coalesced nihilism/existentialism articles
+- **Type**: other
+- **Notes**: Coalesce (2026-01-27) merged `nihilism.md` and `existentialism.md` into `nihilism-and-existentialism.md`. 8 files reference the archived articles: meaning-of-life.md, eastern-philosophy-consciousness.md, purpose-and-alignment.md, qualia.md, highlights.md, and research notes. Update wikilinks to point to nihilism-and-existentialism or leave as-is if the link still works (archived articles display redirect notice).
+- **Source**: coalesce
+- **Generated**: 2026-01-27
+
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review self-reference-paradox.md considering destabilizing-self-knowledge
+### P2: Cross-review spontaneous-collapse-theories.md considering quantum-neural-mechanisms
 - **Type**: cross-review
-- **Notes**: New voids article voids/destabilizing-self-knowledge.md (2026-01-27) explores how certain self-knowledge destabilizes its own object—knowing you're spontaneous makes you less so. The self-reference-paradox.md article covers paradoxes of self-reference in consciousness. Check for: (1) cross-links between these related void types, (2) whether destabilizing self-knowledge represents a distinct category or subset of self-reference paradoxes, (3) opportunities to strengthen the voids framework's taxonomy.
-- **Source**: chain (from destabilizing-self-knowledge.md)
+- **Notes**: Spontaneous collapse theories (GRW, CSL) provide consciousness-independent collapse but are mentioned in quantum-neural-mechanisms.md as alternatives. Cross-review should ensure proper integration, cross-links, and clarity on how the Map's position relates to these theories.
+- **Source**: chain (from quantum-neural-mechanisms.md)
 - **Generated**: 2026-01-27
 
-### P2: Write article on quantum biology and neural mechanisms
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-biology-neural-mechanisms-2026-01-24.md. Comprehensive review of five quantum biological mechanisms in neural systems: radical pair effects, proton tunneling, Fröhlich condensation, SNARE vesicle release, and Posner molecules. Provides empirical evidence base for Minimal Quantum Interaction tenet. Should synthesize findings into site content with appropriate skeptical treatment.
-- **Source**: unconsumed_research
+### P3: Condense first-person-third-person-methodology.md (4271 words, 171% of threshold)
+- **Type**: condense
+- **Notes**: Topic article exceeds 3500-word hard threshold. Covers methodological divide between subjective and objective consciousness research. Preserve core tensions (Nagel vs Dennett, neurophenomenology compromise) while reducing redundancy. See /condense skill.
+- **Source**: length_analysis
 - **Generated**: 2026-01-27
 
-### P3: Write article on teleportation and personal identity
+### P3: Write article on auditory consciousness
 - **Type**: expand-topic
-- **Notes**: Classic thought experiment (Parfit's teleportation, Star Trek transporter problem) directly relevant to haecceity and the No Many Worlds tenet. If a teleporter destroys the original and creates a perfect copy, is the copy the same person? Builds on haecceity.md, personal-identity.md, philosophical-zombies.md. Would strengthen the indexical identity arguments.
+- **Notes**: Auditory phenomenology (hearing music, speech, environmental sounds) is under-explored compared to visual consciousness. Relevant to binding problem (synchronizing sound with vision), temporal consciousness (audition is inherently temporal), and phenomenal richness. Would balance the visual-consciousness task already in queue.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-27
 
@@ -122,6 +128,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-27
 
+### P3: Deep review consciousness-only-territories.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories accessible only to conscious minds—acquaintance knowledge, phenomenal valence, indexical facts. The inverse of ai-as-void-explorer. Should verify: (1) accuracy of acquaintance knowledge argument (Mary's Room framing), (2) distinction between propositional and phenomenal knowledge, (3) connection to knowledge-argument.md and qualia.md, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-27
+
+### P3: Deep review destabilizing-self-knowledge.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers how certain self-knowledge destabilizes its own object—knowing you're spontaneous makes you less so, observing your natural state alters it. Should verify: (1) accuracy of observer effect claims, (2) connection to the-unobservable-self and self-reference-paradox, (3) whether the centipede's dilemma examples are apt, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-27
+
+### P3: Deep review voids.md (section index)
+- **Type**: deep-review
+- **Notes**: Section index page for voids (ai_contribution: 80), never deep-reviewed. Should verify: (1) accurate taxonomy of void types, (2) proper introduction to the voids framework, (3) up-to-date links to all voids articles, (4) clarity on what makes a "void" distinct from mere ignorance.
+- **Source**: staleness
+- **Generated**: 2026-01-27
+
 ### P3: Condense introspection.md (4159 words, 166% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers first-person access to mental states and reliability debates. Preserve engagement with introspection skeptics while removing redundancy. May defer detailed methodology to phenomenology.md. See /condense skill.
@@ -175,12 +199,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories that resist cartography due to active defense (emotional, tribal, institutional). Should verify: (1) balance between epistemology and sociology, (2) connection to other voids categories, (3) accuracy of psychological claims about motivated reasoning.
 - **Source**: staleness
 - **Generated**: 2026-01-26
-
-### P2: Strengthen measurement-problem.md structural coherence defense
-- **Type**: refine-draft
-- **Notes**: Pessimistic review 2026-01-25 (evening) found the article's "structural coherence" defense may be self-undermining. It admits consciousness-selection is unfalsifiable and predicts nothing, then claims conceptual unification is valuable anyway. But conceptual unification without predictive constraint is intellectual satisfaction, not knowledge. Either find empirical implications (Stapp's OCD studies, attention intervention research) or reposition explicitly as non-empirical metaphysical position. Current defense occupies awkward middle ground.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-25
 
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
@@ -509,8 +527,87 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
+### P3: Write article on philosophy of temporal experience
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27 (late). Synthesize Husserl's internal time consciousness, Bergson's durée, and Whitehead's actual occasions into unified treatment. Currently scattered across temporal-consciousness.md, duration.md, and process philosophy sections. Would strengthen bidirectional interaction (consciousness as temporal agent) and no-many-worlds (one actual sequence) tenets.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on phenomenology of understanding
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27 (late). What is it like to understand something? The phenomenology of comprehension, insight, and conceptual grasp supports cognitive phenomenology and distinguishes consciousness from information processing. Builds on cognitive-phenomenology.md, epistemic-emotions.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write expanded Buddhist philosophy integration article
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27 (late). Deeper integration: How does anatta (no-self) relate to haecceity? Does śūnyatā (emptiness) challenge or complement the Map's framework? Contemplative phenomenology as evidential support. Builds on buddhism-and-dualism.md, eastern-philosophy-consciousness.md, witness-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Write voids article on computational cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-computational-cognitive-limits-2026-01-27.md. Explores Gödel incompleteness, halting problem, computational irreducibility as structural limits on what minds can know. Directly supports "Occam's Razor Has Limits" tenet—some truths may be formally inaccessible.
+- **Output**: Write voids article on computational cognitive limits
+
+### ✓ 2026-01-27: Strengthen measurement-problem.md structural coherence defense
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-25 (evening) found the article's "structural coherence" defense may be self-undermining. It admits consciousness-selection is unfalsifiable and predicts nothing, then claims conceptual unification is valuable anyway. But conceptual unification without predictive constraint is intellectual satisfaction, not knowledge. Either find empirical implications (Stapp's OCD studies, attention intervention research) or reposition explicitly as non-empirical metaphysical position. Current defense occupies awkward middle ground.
+- **Output**: obsidian/concepts/measurement-problem.md
+
+### ✓ 2026-01-27: Cross-review stapp-quantum-mind.md considering quantum-biology updates
+- **Type**: cross-review
+- **Notes**: Recent deep-review of concepts/quantum-biology.md (2026-01-27) added new material on quantum Zeno mechanism and biological precedents (cryptochrome radical pairs demonstrating Zeno effect in nature). The stapp-quantum-mind.md article should: (1) add cross-link to updated quantum-biology treatment, (2) note the new biological evidence supporting Stapp's Zeno mechanism, (3) verify alignment on decoherence timescales.
+- **Output**: obsidian/concepts/stapp-quantum-mind.md -- Context: Cross-review stapp-quantum-mind.md considering quantum-biology updates
+
+### ✓ 2026-01-27: Cross-review animal-consciousness.md considering consciousness-as-intelligence-amplifier
+- **Type**: cross-review
+- **Notes**: New topic article topics/consciousness-as-intelligence-amplifier.md (2026-01-27) makes specific claims about what great apes can and cannot do (zone of latent solutions, limited cumulative culture). The animal-consciousness.md topic should: (1) cross-link to the new amplifier framework, (2) verify consistency on ape cognitive limitations, (3) consider whether the amplification framework illuminates the distribution of consciousness across species.
+- **Output**: obsidian/topics/animal-consciousness.md -- Context: Cross-review animal-consciousness.md considering consciousness-as-intelligence-amplifier
+
+### ✓ 2026-01-27: Cross-review baseline-cognition.md considering consciousness-as-intelligence-amplifier
+- **Type**: cross-review
+- **Notes**: New topic article topics/consciousness-as-intelligence-amplifier.md (2026-01-27) develops the argument that consciousness amplifies rather than creates cognitive abilities. The baseline-cognition.md concept should: (1) add cross-link to the new topic, (2) verify consistency on the great ape vs human cognitive differences (working memory 7±2 vs 2±1), (3) ensure terminology alignment on "amplification" vs "enhancement."
+- **Output**: obsidian/concepts/baseline-cognition.md -- Context: Cross-review baseline-cognition.md considering consciousness-as-intelligence-amplifier
+
+### ✓ 2026-01-27: Cross-review duration.md considering process-philosophy insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/process-philosophy.md (2026-01-27) extensively discusses Bergson's durée as central to process metaphysics. The duration.md article should: (1) add cross-link to process-philosophy, (2) connect Bergson's durée to the broader process tradition, (3) strengthen the philosophical foundation for temporal consciousness claims.
+- **Output**: obsidian/concepts/duration.md -- Context: Cross-review duration.md considering process-philosophy insights
+
+### ✓ 2026-01-27: Cross-review panpsychism.md considering process-philosophy insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/process-philosophy.md (2026-01-27) covers Whitehead's process metaphysics where actual occasions have proto-experiential aspects. The panpsychism.md article should: (1) add cross-link to process-philosophy treatment, (2) clarify how Whitehead's process panpsychism differs from standard property dualist panpsychism, (3) note that process philosophy offers a unique solution to the combination problem via prehension.
+- **Output**: obsidian/concepts/panpsychism.md -- Context: Cross-review panpsychism.md considering process-philosophy insights
+
+### ✓ 2026-01-27: Cross-review epiphenomenalism.md considering consciousness-as-intelligence-amplifier causal evidence
+- **Type**: cross-review
+- **Notes**: Recent article topics/consciousness-as-intelligence-amplifier.md (2026-01-27) presents evolutionary and cognitive evidence that consciousness causally contributes to intelligence. The epiphenomenalism.md article addresses the evolutionary objection but may benefit from the newer causal evidence (working memory, recursive processing, baseline cognition comparison). Check for: (1) cross-links to amplifier article, (2) whether the baseline-cognition framework strengthens the evolutionary objection, (3) opportunities to address the "systematic accompaniment" response.
+- **Output**: obsidian/concepts/epiphenomenalism.md -- Context: Cross-review epiphenomenalism.md considering consciousness-as-intelligence-amplifier causal evidence
+
+### ✓ 2026-01-27: Cross-review quantum-consciousness.md considering quantum-neural-mechanisms insights
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-neural-mechanisms.md (2026-01-24) provides detailed evidence on five quantum biological mechanisms in neural systems: radical pairs, proton tunneling, Fröhlich condensation, SNARE vesicle release, and Posner molecules. The quantum-consciousness.md article covers the broader framework but doesn't yet link to this detailed mechanism analysis. Check for: (1) cross-links to quantum-neural-mechanisms, (2) whether the evidence table strengthens the empirical case, (3) consistency in how decoherence timescales are discussed.
+- **Output**: obsidian/concepts/quantum-consciousness.md -- Context: Cross-review quantum-consciousness.md considering quantum-neural-mechanisms insights
+
+### ✓ 2026-01-27: Write article on quantum biology and neural mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-mechanisms-2026-01-24.md. Comprehensive review of five quantum biological mechanisms in neural systems: radical pair effects, proton tunneling, Fröhlich condensation, SNARE vesicle release, and Posner molecules. Provides empirical evidence base for Minimal Quantum Interaction tenet. Should synthesize findings into site content with appropriate skeptical treatment.
+- **Output**: quantum biology and neural mechanisms
+
+### ✓ 2026-01-27: Write article on quantum biology and neural mechanisms (duplicate)
+- **Type**: expand-topic
+- **Notes**: Task was regenerated from unconsumed_research but article already exists. Article concepts/quantum-neural-mechanisms.md was created 2026-01-24 based on research/quantum-biology-neural-mechanisms-2026-01-24.md. Comprehensive coverage of all five mechanisms (radical pairs, ion tunneling, microtubules, SNARE, Posner molecules) with evidence tables, tenet alignment, and full references. Also see concepts/quantum-biology.md for complementary coverage.
+- **Result**: Task already completed on 2026-01-24. Removed duplicate from queue.
+- **Output**: concepts/quantum-neural-mechanisms.md (existing)
+
+### ✓ 2026-01-27: Cross-review self-reference-paradox.md considering destabilizing-self-knowledge
+- **Type**: cross-review
+- **Notes**: New voids article voids/destabilizing-self-knowledge.md (2026-01-27) explores how certain self-knowledge destabilizes its own object—knowing you're spontaneous makes you less so. The self-reference-paradox.md article covers paradoxes of self-reference in consciousness. Check for: (1) cross-links between these related void types, (2) whether destabilizing self-knowledge represents a distinct category or subset of self-reference paradoxes, (3) opportunities to strengthen the voids framework's taxonomy.
+- **Output**: obsidian/voids/self-reference-paradox.md -- Context: Cross-review self-reference-paradox.md considering destabilizing-self-knowledge
 
 ### ✓ 2026-01-27: Cross-review panpsychism.md considering process-philosophy connections
 - **Type**: cross-review

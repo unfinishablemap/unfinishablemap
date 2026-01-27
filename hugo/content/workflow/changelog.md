@@ -18,6 +18,179 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 18:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Computational Cognitive Limits
+- **Output**: `voids/computational-cognitive-limits.md`
+- **Word count**: 1838 (92% of soft threshold)
+- **Based on research**: yes (`research/voids-computational-cognitive-limits-2026-01-27.md`)
+- **Notes**: Explores formal limits on what algorithmic minds can know—halting problem, Gödel incompleteness, Rice's theorem, Chaitin's incompleteness, computational irreducibility. Connects to Penrose argument for non-computational consciousness. Strong support for "Occam's Razor Has Limits" tenet.
+
+## 2026-01-27 13:48 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `concepts/measurement-problem.md`
+- **Changes**:
+  - Broke up dense "Honest limitation" paragraph into multiple focused paragraphs with clear subheading
+  - Improved paragraph structure in "The Indexical Dimension", "Many-Worlds", and "Objective Collapse Theories" sections
+  - Tightened language in decoherence challenge section
+  - Removed some formulaic "The Map's response/objection:" patterns for more natural flow
+- **Published**: yes
+
+## 2026-01-27 15:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/stapp-quantum-mind.md`
+- **Context**: Cross-review considering quantum-biology updates
+- **Word count**: 1828 → 1922 (+94 words, 77% of soft threshold)
+- **Critical issues addressed**: 0 (none found—previous review addressed all critical issues)
+- **Medium issues addressed**: 3
+  - Fixed Prediction 4 wording (was inconsistent with established quantum biology evidence)
+  - Added cross-reference to 2024 quantum Zeno cryptochrome discovery from quantum-biology article
+  - Acknowledged 2024 Monte Carlo critique of Zeno mechanism robustness
+- **Enhancements made**: Strengthened quantum biology cross-reference, added biological precedent for Zeno mechanism, honest acknowledgment of ongoing debates
+- **Output**: `reviews/deep-review-2026-01-27-stapp-quantum-mind.md`
+- **Notes**: Second review of this article (previous: 2026-01-22). Article approaching stability—core mechanism, free will section, falsifiability predictions all strong. Cross-review integrated recent quantum biology updates demonstrating biological precedent for Zeno mechanism.
+
+## 2026-01-27 11:57 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: Computational Cognitive Limits
+- **Category**: Unexplorable (primarily)
+- **Output**: `research/voids-computational-cognitive-limits-2026-01-27.md`
+- **Key finding**: Formal results from computability theory (halting problem, Gödel's incompleteness, Rice's theorem, Chaitin's incompleteness) and complexity theory (NP-hardness, computational irreducibility) establish mathematical limits on what any computational system can know—creating a genuine "unexplorable" void if minds are computational, or a potential window for non-computational consciousness (Penrose) if they are not.
+
+## 2026-01-27 16:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/animal-consciousness.md`
+- **Context**: Cross-review considering consciousness-as-intelligence-amplifier
+- **Word count**: 2480 → ~2520 (length-neutral, below soft threshold)
+- **Critical issues addressed**: 0 (none found—article stable from previous reviews)
+- **Medium issues addressed**: 2 (added cross-reference to consciousness-as-intelligence-amplifier, added decoherence caveat to quantum section)
+- **Enhancements made**: Added [consciousness-as-intelligence-amplifier](/archive/topics/consciousness-as-intelligence-amplifier/) to frontmatter, inline references, and Further Reading; added appropriate hedging to quantum mechanism claims
+- **Output**: `reviews/deep-review-2026-01-27-animal-consciousness.md`
+- **Notes**: Second review of this article (previous: 2026-01-22). Article is stable—no critical issues, counterarguments addressed, all tenet connections present. Cross-review confirmed integration with consciousness-as-intelligence-amplifier is now explicit.
+
+## 2026-01-27 18:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/baseline-cognition.md`
+- **Context**: Cross-review considering consciousness-as-intelligence-amplifier
+- **Word count**: 3283 → ~3288 (length-neutral)
+- **Critical issues addressed**: 0 (none found—article stable from previous reviews)
+- **Medium issues addressed**: 1 (explicit cross-reference to consciousness-as-amplifier added)
+- **Enhancements made**: Added bidirectional cross-reference in opening paragraph clarifying relationship between baseline-cognition and consciousness-as-amplifier articles
+- **Output**: `reviews/deep-review-2026-01-27-baseline-cognition.md`
+- **Notes**: Third review of this article (previous: 2026-01-22, 2026-01-25). Article is stable—no critical issues, counterarguments addressed, all tenet connections present. Cross-review confirmed complementary relationship with consciousness-as-intelligence-amplifier is now explicit.
+
+## 2026-01-27 11:36 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/nihilism-and-existentialism.md`
+- **Word count**: 2143 → 2263 (+120 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (illusionism functionalist response, MWI decision-theoretic acknowledgment, contemplative evidence qualification, śūnyatā tension note)
+- **Enhancements made**: Added [mental-causation](/concepts/mental-causation/) cross-link, strengthened philosophical engagement with opposing views
+- **Output**: `reviews/deep-review-2026-01-27-nihilism-and-existentialism.md`
+- **Notes**: First review of coalesced article. No critical issues—article is philosophically competent with all required sections. Improvements focused on steelmanning opposing positions (illusionism, MWI) while maintaining the Map's commitments.
+
+## 2026-01-27 23:45 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/duration.md`
+- **Context**: Cross-review considering process-philosophy insights
+- **Word count**: 3765 → 3625 (-140 words)
+- **Critical issues addressed**: 0 (none found—article stable from previous review)
+- **Medium issues addressed**: 3 (process-philosophy section condensed with cross-link, khanika explanation tightened, microphenomenology paragraph streamlined)
+- **Enhancements made**: Added [process-philosophy](/concepts/process-philosophy/) and [combination-problem](/concepts/combination-problem/) cross-links to frontmatter and Further Reading. Process Philosophy Perspective section condensed from ~200 to ~130 words by replacing detailed explanations with links to dedicated concept page.
+- **Output**: `reviews/deep-review-2026-01-27-duration.md`
+- **Notes**: Second review of this article. Previous review (2026-01-21) added major sections (illusionist challenge, decoherence engagement, falsifiability). This review focused on integration with newly created process-philosophy.md. Article remains at hard_warning (145% of target) but content is substantive rather than verbose. Approaching stability.
+
+## 2026-01-27 11:15 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/panpsychism.md`
+- **Context**: Cross-review considering process-philosophy insights
+- **Word count**: 2602 → 2601 (-1 word)
+- **Critical issues addressed**: 0 (none found—article stable from previous reviews)
+- **Medium issues addressed**: 1 (simplified Whitehead section cross-link to [process-philosophy](/concepts/process-philosophy/))
+- **Enhancements made**: Changed display-text link to direct wikilink for process-philosophy, improving discoverability now that dedicated article exists.
+- **Output**: `reviews/deep-review-2026-01-27-panpsychism.md`
+- **Notes**: Third review today. Article has clearly stabilized—only minimal link cleanup needed. The process-philosophy article explicitly discusses tensions with the Map's framework; panpsychism article cross-links rather than duplicating.
+
+## 2026-01-27 07:00 UTC - coalesce
+
+- **Status**: Success
+- **Sources**: `concepts/nihilism.md`, `concepts/existentialism.md`
+- **Target**: `concepts/nihilism-and-existentialism.md`
+- **Archived**: `archive/concepts/nihilism.md`, `archive/concepts/existentialism.md`
+- **Rationale**: The two articles were dialectically connected—existentialism is explicitly the philosophical response to nihilism. Both were ~150 lines and shared significant thematic overlap (meaning-of-life, free-will, relationship to Eastern philosophy). A unified article provides a more coherent treatment of the problem of meaning.
+- **References to review**: 8 files reference the archived articles (see grep for `\[\[nihilism\]\]` and `\[\[existentialism\]\]`). These wikilinks will continue to work via archive redirect but may warrant review.
+- **Notes**: The unified article preserves all key content from both sources while eliminating redundancy and providing better narrative flow from problem (nihilism) to response (existentialism).
+
+## 2026-01-27 10:54 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/epiphenomenalism.md`
+- **Context**: Cross-review considering consciousness-as-intelligence-amplifier causal evidence
+- **Word count**: 2588 → 2562 (-26 words)
+- **Critical issues addressed**: 0 (none found—article was stable from previous review)
+- **Medium issues addressed**: 1 (access vs phenomenal consciousness distinction in amplification section)
+- **Enhancements made**: Clarified that the Map's claim involves phenomenal consciousness (not just access consciousness), added explicit cross-reference to amplifier article, tightened contemplative neuroscience section.
+- **Output**: `reviews/deep-review-2026-01-27-epiphenomenalism.md`
+- **Notes**: Second review in two days. Article has reached convergence—targeted cross-review enhancement only. The previous review (2026-01-26) found no critical issues. This review aligned the amplification evidence with the consciousness-as-amplifier article's treatment of the access/phenomenal distinction.
+
+## 2026-01-27 12:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/arguments-for-dualism.md`
+- **Word count**: 3779 → 3238 (-541 words)
+- **Critical issues addressed**: 0 (none found—article was stable from previous review)
+- **Medium issues addressed**: 1 (length exceeded hard threshold)
+- **Enhancements made**: Condensed Folk Error section, Process Philosophy section, Relation to Site Perspective, and Further Reading list. Sharpened falsifiability condition 1.
+- **Output**: `reviews/deep-review-2026-01-27-arguments-for-dualism.md`
+- **Notes**: Second review. Article reached convergence—no critical issues, comprehensive coverage of dualist arguments, all five tenets engaged. Length reduced from 151% to 130% of soft threshold.
+
+## 2026-01-27 16:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/quantum-consciousness.md`
+- **Context**: Cross-review considering quantum-neural-mechanisms insights
+- **Word count**: 1674 → ~1750
+- **Critical issues addressed**: 1 (discrete vs. sustained coherence distinction underemphasized)
+- **Medium issues addressed**: 4 (timing gap acknowledgment, quantum-neural-mechanisms cross-link, mysterian caveat, Atkins 2024 citation)
+- **Enhancements made**: 5
+- **Output**: `reviews/deep-review-2026-01-27-quantum-consciousness.md`
+- **Notes**: Cross-review integrating key insight from quantum-neural-mechanisms: discrete mechanisms (Stapp Zeno, synaptic tunneling) sidestep the decoherence timing gap entirely. Added mysterian caveat for epistemic humility about ultimate explanation. Third review of this article—now stable with good cross-linking to companion articles.
+
+## 2026-01-27 23:15 UTC - expand-topic (duplicate resolved)
+
+- **Status**: Task already completed
+- **Topic**: quantum biology and neural mechanisms
+- **Output**: concepts/quantum-neural-mechanisms.md (existing, created 2026-01-24)
+- **Notes**: Task was regenerated by unconsumed_research detector but article already exists. concepts/quantum-neural-mechanisms.md (~2955 words) comprehensively covers all five mechanisms from research/quantum-biology-neural-mechanisms-2026-01-24.md: radical pairs, ion tunneling, microtubules (Orch OR/QBIT), SNARE tunneling, Posner molecules. Also see concepts/quantum-biology.md (~2846 words) for complementary coverage of established quantum biological effects. No new content needed—removed duplicate task from queue.
+
+## 2026-01-27 22:30 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: tenets.md, hard-problem-of-consciousness.md, free-will.md, personal-identity.md, indexical-identity-quantum-measurement.md, dualism.md, qualia.md, meaning-of-life.md, quantum-consciousness.md, vertiginous-question.md, interactionist-dualism.md
+- **Output**: `reviews/optimistic-2026-01-27-late.md`
+- **Summary**: Multi-perspective strength analysis from six sympathetic philosophers (Chalmers, Stapp, Nagel, Whitehead, Kane, McGinn). Key strengths identified: systematic tenet integration, sophisticated indexical identity/haecceity treatment, rigorous engagement with objections. Strongest articles: hard-problem-of-consciousness.md (structural gap analysis), indexical-identity-quantum-measurement.md (novel contribution connecting QM to hard problem), vertiginous-question.md (clear formulation of why-this-consciousness question). High-priority expansion opportunities: philosophy of temporal experience, phenomenology of understanding, expanded Buddhist philosophy integration. Added 3 new P3 expand-topic tasks to todo.md.
+
+## 2026-01-27 18:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `voids/self-reference-paradox.md`
+- **Context**: Cross-review considering destabilizing-self-knowledge
+- **Word count**: 1768 → ~1770 (length-neutral)
+- **Critical issues addressed**: 0 (none found—article stable from 2026-01-20 review)
+- **Medium issues addressed**: 2 (cross-link to destabilizing-self-knowledge, qualified eye metaphor)
+- **Enhancements made**: 1 cross-link to destabilizing-self-knowledge
+- **Output**: `reviews/deep-review-2026-01-27-self-reference-paradox.md`
+- **Notes**: Second review of this article. Previous review (2026-01-20) addressed major structural issues. This cross-review integrated with destabilizing-self-knowledge and qualified the "eye cannot see itself" metaphor to address Dennett-style objection.
+
 ## 2026-01-27 09:53 UTC - deep-review
 
 - **Status**: Success (no changes needed)

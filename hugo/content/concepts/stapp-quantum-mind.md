@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-27 15:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,7 +28,7 @@ description: 'Mental effort operates through the quantum Zeno effect: rapid atte
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-22 21:16:05+00:00
+last_deep_review: 2026-01-27 15:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -108,7 +108,11 @@ This framework avoids standard objections: the selection is *not random* (follow
 
 The most serious challenge: quantum coherence in warm brains should decay far too quickly (Tegmark calculated 10⁻¹³ seconds) for the Zeno mechanism to operate at neural timescales (milliseconds).
 
-**Response**: Several considerations complicate this objection without definitively resolving it. Revised calculations produce longer coherence times (10⁻⁵ seconds), though still contested. Quantum effects operate in other warm biological systems (photosynthesis, bird navigation)—the precedent shows warm quantum effects are *possible*. Most importantly, decoherence doesn't solve the measurement problem: it explains why superpositions appear classical but not why measurements yield *definite* outcomes. Consciousness could bias outcome selection *after* decoherence, at measurement collapse. See [decoherence](/concepts/decoherence/) for detailed treatment.
+**Response**: Several considerations complicate this objection without definitively resolving it. Revised calculations produce longer coherence times (10⁻⁵ seconds), though still contested. Crucially, [quantum-biology](/concepts/quantum-biology/) has demonstrated functional quantum effects in warm biological systems—and in 2024, Nature Communications published evidence that the quantum Zeno effect itself enables magnetosensitivity in cryptochrome radical pairs. Tight binding of radicals within the protein preserves coherence against decoherence—providing the first biological precedent for the Zeno mechanism at neural-relevant timescales (microseconds, not femtoseconds).
+
+**Monte Carlo critique**: 2024 simulations challenged whether the Zeno mechanism remains robust for timescales longer than brain decoherence time, unless consciousness acts globally on brain-plus-environment. This remains an active area of investigation—the cryptochrome precedent shows Zeno can work in protected biological microenvironments, but whether neural tissue provides analogous protection is unconfirmed.
+
+Most importantly, decoherence doesn't solve the [measurement-problem](/concepts/measurement-problem/): it explains why superpositions appear classical but not why measurements yield *definite* outcomes. Consciousness could bias outcome selection *after* decoherence, at measurement collapse. See [decoherence](/concepts/decoherence/) for detailed treatment.
 
 ### The Formalism Objection
 
@@ -157,7 +161,7 @@ The model generates falsifiable predictions:
 1. **Effort phenomenology proves inconsistent** across trained observers (>30% disagreement)
 2. **The willed/instructed neural distinction** (frontal theta, bidirectional coherence) proves artifactual across replications
 3. **Neuroplasticity occurs without conscious engagement**—equivalent brain changes under anaesthesia or sleep
-4. **Quantum biology proves non-functional**—all biological quantum effects are epiphenomenal
+4. **Neural quantum effects prove non-functional**—quantum coherence occurs in neurons but plays no role in processing or consciousness
 5. **Attention bandwidth exceeds conscious limits** (>15 bits/second consistently)
 6. **Contemplative training reveals effort as illusory**—advanced meditators report the distinction dissolves (current evidence shows it becomes clearer)
 

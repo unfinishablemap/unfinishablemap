@@ -66,7 +66,7 @@ New article argues recursive linguistic structure—unique to human language—r
 Deep review: Sartre's pour-soi structure—consciousness as radically different from things—anticipates the regress problem illusionism faces. The witness who observes cannot itself become the witnessed.
 
 **Type**: insight  
-**Link**: [existentialism](/concepts/existentialism/)
+**Link**: [existentialism](/archive/concepts/existentialism/)
 
 ---
 

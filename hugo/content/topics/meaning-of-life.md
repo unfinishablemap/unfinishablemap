@@ -254,8 +254,8 @@ The position takes seriously what we actually know: consciousness exists, it's r
 ## Further Reading
 
 ### Core Concepts
-- [nihilism](/concepts/nihilism/) — The case for meaninglessness and responses to it
-- [existentialism](/concepts/existentialism/) — Self-creation in an indifferent universe
+- [nihilism](/archive/concepts/nihilism/) — The case for meaninglessness and responses to it
+- [existentialism](/archive/concepts/existentialism/) — Self-creation in an indifferent universe
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical grounding for consciousness-based value
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — How AI alignment depends on unresolved questions about meaning
 

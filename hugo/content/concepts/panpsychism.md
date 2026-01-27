@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-27 08:23:33+00:00
+ai_modified: 2026-01-27 11:15:33+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: The view that consciousness is fundamental and ubiquitous in nature
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 08:23:33+00:00
+last_deep_review: 2026-01-27 11:15:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,7 +55,7 @@ Panpsychism also addresses the [prebiotic collapse problem](/concepts/prebiotic-
 
 ### Whitehead and the Process Tradition
 
-Before contemporary panpsychism, Alfred North Whitehead developed a sophisticated [process philosophy](/concepts/process-philosophy/) that treats experience as fundamental. In *Process and Reality* (1929), Whitehead proposed that reality consists of "actual occasions"—momentary experiential events that perish and give rise to successors. Even the simplest physical process involves "prehension"—a primitive form of experience by which occasions take account of their predecessors.
+Before contemporary panpsychism, Alfred North Whitehead developed a sophisticated [process-philosophy](/concepts/process-philosophy/) that treats experience as fundamental. In *Process and Reality* (1929), Whitehead proposed that reality consists of "actual occasions"—momentary experiential events that perish and give rise to successors. Even the simplest physical process involves "prehension"—a primitive form of experience by which occasions take account of their predecessors.
 
 Whitehead's influence runs through contemporary panpsychism. His rejection of "vacuous actuality" (matter without any experiential aspect) anticipates Strawson's argument that non-experiential matter is incoherent. His "actual occasions" prefigure micro-experiences. The combination problem is implicit in his account of how occasions "synthesize" into complex organisms.
 

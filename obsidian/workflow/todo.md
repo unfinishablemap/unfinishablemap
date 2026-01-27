@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-27T14:00:52+00:00
+ai_modified: 2026-01-27T14:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,10 +49,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review spontaneous-collapse-theories.md considering quantum-neural-mechanisms
+### P2: Cross-review consciousness-and-mathematical-understanding.md considering computational-cognitive-limits
 - **Type**: cross-review
-- **Notes**: Spontaneous collapse theories (GRW, CSL) provide consciousness-independent collapse but are mentioned in quantum-neural-mechanisms.md as alternatives. Cross-review should ensure proper integration, cross-links, and clarity on how the Map's position relates to these theories.
-- **Source**: chain (from quantum-neural-mechanisms.md)
+- **Notes**: New voids article voids/computational-cognitive-limits.md (2026-01-27) covers Gödel, Turing, Rice's theorem, and Chaitin—formal limits on computation. The consciousness-and-mathematical-understanding.md topic article directly discusses Penrose's Gödelian argument. Check for: (1) cross-links to computational-cognitive-limits treatment, (2) whether the new formal framework strengthens or complicates Penrose's argument, (3) consistency in how Gödel's theorems are presented across both articles.
+- **Source**: chain (from computational-cognitive-limits.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review simulation.md considering computational-cognitive-limits insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/computational-cognitive-limits.md (2026-01-27) establishes formal limits on what any computational system can know. The simulation.md concept article discusses computed reality and its implications for consciousness. Check for: (1) cross-links to computational limits discussion, (2) whether computational limits apply differently in simulated contexts, (3) engagement with the question of whether a simulated mind inherits the halting problem and Gödel limits.
+- **Source**: chain (from computational-cognitive-limits.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review ai-as-void-explorer.md considering computational-cognitive-limits insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/computational-cognitive-limits.md (2026-01-27) proves AI faces Gödel/Turing/Rice limits like any computational system. The ai-as-void-explorer.md voids article discusses AI as a probe for cognitive limits. Check for: (1) cross-links to computational limits treatment, (2) whether computational limits define where AI exploration must fail, (3) tension between AI's advantages (no evolutionary bias) and formal limits (halting problem applies to all algorithms).
+- **Source**: chain (from computational-cognitive-limits.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review mysterianism.md considering computational-cognitive-limits insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/computational-cognitive-limits.md (2026-01-27) provides formal proofs of computational limits. The mysterianism.md concept article discusses McGinn's cognitive closure thesis—architectural limits on human cognition. Check for: (1) cross-links to computational limits as a specific type of cognitive closure, (2) whether Gödel/Turing limits strengthen or differ from McGinn's biological closure argument, (3) the distinction between formal (mathematical) limits and architectural (neural) limits.
+- **Source**: chain (from computational-cognitive-limits.md)
 - **Generated**: 2026-01-27
 
 ### P3: Condense first-person-third-person-methodology.md (4271 words, 171% of threshold)
@@ -546,6 +564,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review spontaneous-collapse-theories.md considering quantum-neural-mechanisms
+- **Type**: cross-review
+- **Notes**: Spontaneous collapse theories (GRW, CSL) provide consciousness-independent collapse but are mentioned in quantum-neural-mechanisms.md as alternatives. Cross-review should ensure proper integration, cross-links, and clarity on how the Map's position relates to these theories.
+- **Output**: obsidian/concepts/spontaneous-collapse-theories.md -- Context: Cross-review spontaneous-collapse-theories.md considering quantum-neural-mechanisms
 
 ### ✓ 2026-01-27: Write voids article on computational cognitive limits
 - **Type**: expand-topic

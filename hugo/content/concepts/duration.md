@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-27 23:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,6 +18,8 @@ concepts:
 - '[[mental-effort]]'
 - '[[specious-present]]'
 - '[[philosophy-of-time]]'
+- '[[process-philosophy]]'
+- '[[combination-problem]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 description: Bergson's durée names the qualitative flow of lived time, fundamentally
@@ -26,7 +28,7 @@ description: Bergson's durée names the qualitative flow of lived time, fundamen
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-21 00:00:00+00:00
+last_deep_review: 2026-01-27 23:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -91,9 +93,9 @@ This supports the [Dualism](/tenets/#dualism) tenet. If mainstream theories syst
 
 **Husserl's retention-primal impression-protention**: Phenomenologist Edmund Husserl analyzed time-consciousness into retention (the just-past echoing in the now), primal impression (the present moment), and protention (anticipation of what's coming). Contemplative practice reveals this structure experientially. Meditators report accessing the "specious present" at temporal scales normally below conscious threshold—the very interpenetration that constitutes durée.
 
-**The khanika tension**: Buddhist traditions describe *khanika* (momentariness)—experience arising and passing in rapid succession. At first glance, this seems to contradict durée's continuous flow. But the tension is productive. *Khanika* describes the arising-passing rhythm of discrete moments; durée names the qualitative character *within* each moment and the way each moment carries its predecessors. The trained meditator observes both: discrete phases of consciousness, yet each phase interpenetrated by what came before. Momentariness without qualitative multiplicity would be a mere succession of snapshots; qualitative multiplicity without momentariness would blur into undifferentiated continuity. Contemplative phenomenology reveals both structures operating together.
+**The khanika tension**: Buddhist *khanika* (momentariness)—experience arising and passing rapidly—seems to contradict durée's continuous flow. But contemplative phenomenology reveals both: discrete phases of consciousness, yet each interpenetrated by predecessors. Momentariness without qualitative multiplicity is mere snapshots; qualitative multiplicity without momentariness blurs into undifferentiated continuity. Both structures operate together.
 
-**Microphenomenology**: Claire Petitmengin's microphenomenological interview techniques elicit fine-grained descriptions of brief moments of experience. The findings consistently reveal micro-dynamics invisible to casual introspection: subtle rises and falls, shifts between focal and peripheral awareness, the "grain" of temporal flow. These are not theoretical constructs but phenomenal data—evidence that durée is not merely a philosophical concept but a describable structure of experience.
+**Microphenomenology**: Claire Petitmengin's interview techniques elicit fine-grained descriptions of brief experiential moments, revealing micro-dynamics invisible to casual introspection: subtle rises and falls, shifts between focal and peripheral awareness, the "grain" of temporal flow. This is phenomenal data—evidence that durée is a describable experiential structure, not merely philosophical concept.
 
 **Cessation and the absence of duration**: Perhaps most striking, advanced meditators can voluntarily enter *nirodha samapatti*—cessation of perception and feeling. In this state, subjective time stops entirely. When meditators emerge, they report that no time seemed to pass—not shortened time, but the complete absence of temporal experience. This provides a kind of negative evidence for durée: when durée stops, there is no experience at all. Duration is not a feature of experience but its fundamental medium.
 
@@ -155,15 +157,13 @@ The illusionist might respond that the discourse correlation merely shows which 
 
 ## Process Philosophy Perspective
 
-Bergson's durée finds a natural home in process philosophy, particularly the work of Alfred North Whitehead. Both thinkers reject the "substance" metaphysics that treats time as a container holding static objects. For Whitehead, reality consists of "actual occasions"—momentary events of experience that arise, achieve satisfaction, and perish.
+Bergson's durée finds a natural home in [process philosophy](/concepts/process-philosophy/), particularly Alfred North Whitehead's framework. Both reject "substance" metaphysics that treats time as a container holding static objects; both hold that reality is fundamentally processual.
 
-**Concrescence and qualitative multiplicity**: Whitehead's "concrescence" describes how each actual occasion integrates its entire past into a novel unity. This parallels Bergson's qualitative multiplicity: the past is not external to the present but constitutive of it. Where Bergson speaks of interpenetration, Whitehead speaks of "prehension"—each occasion "prehends" (grasps, includes) prior occasions.
+Key parallels: Whitehead's "concrescence" (how each actual occasion integrates its past into novel unity) parallels Bergson's qualitative multiplicity. Where Bergson speaks of interpenetration, Whitehead speaks of "prehension"—each occasion grasps and includes its predecessors. Both insist that time brings genuine novelty: creativity, not mere rearrangement.
 
-**Temporal atomism meets flow**: Whitehead's actual occasions are temporally discrete, yet they form continuous processes through their internal relations. This resolves the apparent tension between Buddhist momentariness and Bergsonian flow: experience comes in discrete phases (actual occasions), but each phase contains its predecessors through prehension, creating the qualitative continuity Bergson describes.
+The traditions diverge on temporal atomism. Whitehead's actual occasions are discrete (though internally temporal); Bergson's durée is continuous flux. Yet both reject treating time as a sequence of static states. See [process-philosophy](/concepts/process-philosophy/) for detailed treatment of concrescence, prehension, and how process philosophy addresses the [combination problem](/concepts/combination-problem/).
 
-**Creativity and novelty**: Both thinkers emphasise that time brings genuine novelty. Whitehead calls creativity "the ultimate category"—the process by which the many become one and are increased by one. Bergson's claim that "time is invention or it is nothing at all" expresses the same insight: real temporality creates what could not be predicted from the past alone.
-
-**[Haecceity](/concepts/haecceity/) and temporal identity**: For the Map's framework, the process philosophy connection strengthens the [No Many Worlds](/tenets/#no-many-worlds) tenet. Whitehead's actual occasions have haecceity—each is *this* particular event, not a pattern that could be multiply instantiated. The continuity of durée through temporal phases presupposes that it's the *same* experiencer persisting, not copies in parallel branches.
+For the Map's framework, Whitehead's actual occasions have [haecceity](/concepts/haecceity/)—each is *this* particular event, not multiply instantiable. The continuity of durée presupposes the *same* experiencer persisting, not copies in parallel branches. This strengthens the [No Many Worlds](/tenets/#no-many-worlds) tenet.
 
 ## What Would Challenge This View?
 
@@ -200,6 +200,7 @@ Bergson's durée aligns with all five site tenets:
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and neuroscience of time
 - [specious-present](/concepts/specious-present/) — The experienced duration of the present moment
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the Map's growing block position
+- [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework; concrescence, prehension, and the combination problem
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How duration's creative novelty relates to the generation-selection model
 - [neurophenomenology](/concepts/neurophenomenology/) — Contemplative science and access to temporal microstructure
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
@@ -213,6 +214,7 @@ Bergson's durée aligns with all five site tenets:
 - [mental-effort](/concepts/mental-effort/) — Stapp's quantum Zeno mechanism and temporal holding
 - [haecceity](/concepts/haecceity/) — The thisness that grounds temporal identity
 - [decoherence](/concepts/decoherence/) — The quantum challenge to consciousness-collapse theories
+- [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into unified consciousness
 - [consciousness-time-perception-2026-01-14](/research/consciousness-time-perception-2026-01-14/) — Research notes on this topic
 
 ## References
