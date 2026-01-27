@@ -17,6 +17,20 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 06:15 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `voids/intrinsic-nature-void.md`
+- **Word count**: ~1700 → ~2100
+- **Changes**:
+  - Expanded "Consciousness as Exception" section with new "The Functionalist Challenge" subsection
+  - Added explicit argument responding to functionalist and higher-order theory challenges
+  - Clarified that intrinsic nature claim is not about absence of relations but what lies beyond them
+  - Restructured section with "The Panpsychist Inference" subsection
+  - Added wikilink to panpsychism concept page
+- **Addresses**: P2 todo from pessimistic-review (2026-01-27) regarding unaddressed functionalist challenges
+- **Published**: yes
+
 ## 2026-01-27 21:30 UTC - pessimistic-review
 
 - **Status**: Success
