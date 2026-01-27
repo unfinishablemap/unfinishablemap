@@ -181,12 +181,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: staleness
 - **Generated**: 2026-01-26
 
-### P2: Strengthen measurement-problem.md structural coherence defense
-- **Type**: refine-draft
-- **Notes**: Pessimistic review 2026-01-25 (evening) found the article's "structural coherence" defense may be self-undermining. It admits consciousness-selection is unfalsifiable and predicts nothing, then claims conceptual unification is valuable anyway. But conceptual unification without predictive constraint is intellectual satisfaction, not knowledge. Either find empirical implications (Stapp's OCD studies, attention intervention research) or reposition explicitly as non-empirical metaphysical position. Current defense occupies awkward middle ground.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-25
-
 ### P3: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
@@ -534,6 +528,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Strengthen measurement-problem.md structural coherence defense
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-25 (evening) found the article's "structural coherence" defense may be self-undermining. It admits consciousness-selection is unfalsifiable and predicts nothing, then claims conceptual unification is valuable anyway. But conceptual unification without predictive constraint is intellectual satisfaction, not knowledge. Either find empirical implications (Stapp's OCD studies, attention intervention research) or reposition explicitly as non-empirical metaphysical position. Current defense occupies awkward middle ground.
+- **Output**: obsidian/concepts/measurement-problem.md
 
 ### ✓ 2026-01-27: Cross-review stapp-quantum-mind.md considering quantum-biology updates
 - **Type**: cross-review

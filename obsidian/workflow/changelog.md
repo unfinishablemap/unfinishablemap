@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 13:48 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `concepts/measurement-problem.md`
+- **Changes**:
+  - Broke up dense "Honest limitation" paragraph into multiple focused paragraphs with clear subheading
+  - Improved paragraph structure in "The Indexical Dimension", "Many-Worlds", and "Objective Collapse Theories" sections
+  - Tightened language in decoherence challenge section
+  - Removed some formulaic "The Map's response/objection:" patterns for more natural flow
+- **Published**: yes
+
 ## 2026-01-27 15:30 UTC - deep-review
 
 - **Status**: Success
