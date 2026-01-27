@@ -39,8 +39,7 @@
     "sdPublisher": {
         "@type": "Organization",
         "name": "The Unfinishable Map"
-    }{{ if or (eq $type "ai") (eq $type "mixed") }},
-    "creditText": "{{ if eq $type "ai" }}AI-generated content under human supervision{{ else }}Human-AI collaborative content{{ end }}"{{ with .Params.last_curated }},
+    }{{ with .Params.last_curated }},
     "review": {
         "@type": "Review",
         "datePublished": "{{ . | time.Format "2006-01-02T15:04:05Z07:00" }}",
@@ -48,6 +47,6 @@
             "@type": "Person",
             "name": "Human Editor"
         }
-    }{{ end }}{{ end }}
+    }{{ end }}
 }
 </script>
