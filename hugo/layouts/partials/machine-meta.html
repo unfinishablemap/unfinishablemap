@@ -12,15 +12,18 @@
     "url": "{{ .Permalink }}",
     "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
     "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
-    "author": {
-        "@type": "{{ if eq $type "ai" }}Organization{{ else }}Person{{ end }}",
-        {{ if eq $type "ai" }}
-        "name": "{{ with .Params.ai_system }}{{ . }}{{ else }}AI System{{ end }}"
-        {{ else }}
-        "name": "{{ with .Params.author }}{{ . }}{{ else }}Andy Southgate{{ end }}",
-        "honorificPrefix": "Dr"
-        {{ end }}
-    },
+    "author": [
+        {
+            "@type": "Person",
+            "name": "{{ with .Params.author }}{{ . }}{{ else }}Andy Southgate{{ end }}",
+            "honorificPrefix": "Dr"
+        }{{ if gt $ai 0 }},
+        {
+            "@type": "Organization",
+            "name": "The Unfinishable Map AI Agent",
+            "url": "https://unfinishablemap.org/project/"
+        }{{ end }}
+    ],
     "creator": {
         "@type": "Organization",
         "name": "The Unfinishable Map",
