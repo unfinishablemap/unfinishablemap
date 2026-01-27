@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-27T02:29:49+00:00
+ai_modified: 2026-01-27T04:19:55+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review mysterianism.md considering intrinsic nature void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) develops the Russell-Eddington intrinsic nature problem: physics describes what matter does but not what it is. The mysterianism.md concept page discusses cognitive closure (McGinn). Check for: (1) cross-links to intrinsic nature void treatment, (2) whether the intrinsic nature void strengthens the mysterian position—if physical science is structurally limited to relational knowledge, McGinn's closure argument gains independent support, (3) connection between Kant's phenomena/noumena distinction and cognitive closure.
+- **Source**: chain (from intrinsic-nature-void.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review limits-reveal-structure.md considering intrinsic nature void
+- **Type**: cross-review
+- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) argues the intrinsic nature void is structural rather than merely unsolved—physics advances by discovering relations, so intrinsic nature lies permanently outside its method. The limits-reveal-structure.md article argues that limits themselves are informative. Check for: (1) cross-links to intrinsic nature void, (2) whether the intrinsic nature void exemplifies the limits-reveal-structure thesis—this particular limit reveals that physical science is structural description, (3) the Russell-Eddington insight as paradigm case.
+- **Source**: chain (from intrinsic-nature-void.md)
+- **Generated**: 2026-01-27
+
+### P2: Condense working-memory.md (3910 words, 112% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the workspace where conscious processing occurs—central to GWT, attention, and the consciousness-cognition interface. Preserve: core working memory models (Baddeley, Cowan), relationship to consciousness, connection to attention and binding. May defer detailed neuroscience to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
 
 ### P3: Deep review language-thought-boundary.md
 - **Type**: deep-review
