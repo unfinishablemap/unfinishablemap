@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-26 15:30:00+00:00
+ai_modified: 2026-01-27 02:23:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
 created: 2026-01-05
-date: &id001 2026-01-25
+date: &id001 2026-01-27
 draft: false
 human_modified: 2026-01-23
 last_curated: null
@@ -16,6 +16,75 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-27 02:42 UTC - condense
+
+- **Status**: Success
+- **File**: `concepts/existentialism.md`
+- **Before**: 3907 words
+- **After**: 1418 words
+- **Reduction**: 64%
+- **Technique**: Removed Origins section (LLM-known history), condensed Process Philosophy section (tangential), merged Illusionist Challenge and Contemplative Evidence sections, reduced What Would Challenge to bullet points, tightened prose throughout. Preserved all Core Themes subsections, Relation to Site Perspective, Compatibility Thesis, opening summary, and References.
+
+---
+
+## 2026-01-27 03:30 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: The Intrinsic Nature Void
+- **Output**: `voids/intrinsic-nature-void.md`
+- **Word count**: 1699
+- **Based on research**: yes - `research/voids-intrinsic-nature-void-2026-01-27.md`
+- **Notes**: Explores the structural gap between what physics describes (structure, relations) and what matter intrinsically is. Physics cannot in principle reveal intrinsic nature—the method is structural description. Consciousness may be the only window into intrinsic nature (from inside). Connects Russell/Eddington/Kant to the hard problem. Supports dualism independently of qualia arguments.
+
+---
+
+## 2026-01-27 02:23 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: The Intrinsic Nature Void
+- **Category**: Unexplorable / Mixed
+- **Output**: `research/voids-intrinsic-nature-void-2026-01-27.md`
+- **Key finding**: Physics describes only structure and relations—what matter does—never what matter intrinsically is. This "intrinsic nature void" may be the deepest structural gap in knowledge, with consciousness providing our only window into intrinsic nature (from inside). Connected Russell/Eddington structuralism to Kant's noumena, McGinn's cognitive closure, and the Map's dualist framework.
+- **Article angles identified**: (1) "The Void of Intrinsic Nature" exploring how physics leaves intrinsic nature untouched; (2) "What Physics Cannot Say" focusing on structural completeness without intrinsic knowledge
+
+---
+
+## 2026-01-27 02:08 UTC - expand-topic
+
+- **Status**: Already complete
+- **Topic**: early-universe collapse before minds
+- **Existing article**: `concepts/prebiotic-collapse.md`
+- **Word count**: 2870 (within target)
+- **Based on research**: yes - `research/collapse-before-minds-early-universe-2026-01-16.md`
+- **Notes**: Task requested expansion on "early-universe collapse before minds" but comprehensive article already exists at `concepts/prebiotic-collapse.md` (created 2026-01-16, last deep-reviewed 2026-01-20). Article covers all research points: Wheeler's Participatory Universe, panpsychism, objective reduction, decoherence, illusionism challenge, process philosophy, experimental status. Includes full tenet alignment section. Task removed from queue as duplicate.
+
+---
+
+## 2026-01-27 01:58 UTC - deep-review
+
+- **Status**: Success (stable - no modifications needed)
+- **File**: `concepts/reductionism.md`
+- **Word count**: 1554 (unchanged)
+- **Previous review**: 2026-01-19
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (previous issues remain resolved)
+- **Enhancements made**: 0 (article has reached stability)
+- **Assessment**: Second deep review confirms article stability after first review's improvements. All adversarial critiques represent bedrock philosophical disagreements rather than fixable flaws.
+- **Output**: `reviews/deep-review-2026-01-27-reductionism.md`
+
+---
+
+## 2026-01-27 15:45 UTC - condense
+
+- **Status**: Success
+- **File**: `voids/thoughts-that-slip-away.md`
+- **Before**: 3151 words
+- **After**: 1547 words
+- **Reduction**: 51%
+- **Technique**: Removed entire Process Philosophy section (~300 words, tangential Whitehead material), removed entire Contemplative Perspectives section (~250 words, overlaps with other articles), tightened Spectrum of Slippage mechanisms (kept core explanations, cut elaboration), condensed AI as Slippage Probe (overlaps with main voids article), condensed Illusionist Challenge responses (three points now in one paragraph), tightened Relation to Site Perspective (kept all five tenet connections but reduced verbosity), trimmed What Would Challenge This View and Further Reading. Preserved opening summary, core slippage mechanisms, all tenet connections, falsifiability criteria, and distinctive phenomenological observations.
+
 ---
 
 ## 2026-01-27 01:43 UTC - condense

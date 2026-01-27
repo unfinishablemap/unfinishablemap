@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-27 21:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,7 +9,6 @@ concepts:
 - '[[motor-selection]]'
 - '[[quantum-consciousness]]'
 - '[[interactionist-dualism]]'
-- '[[salience]]'
 - '[[downward-causation]]'
 - '[[phenomenology-of-choice]]'
 - '[[mental-effort]]'
@@ -253,7 +252,6 @@ The quantum selection framework gains explanatory purchase where the simpler vie
 
 - [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — The broader framework integrating attention and motor selection
 - [motor-selection](/concepts/motor-selection/) — Motor selection mechanisms in detail
-- [salience](/salience/) — The neural marking of what matters
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for consciousness-brain interaction
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The philosophical framework
 - [free-will](/topics/free-will/) — The broader topic this illuminates

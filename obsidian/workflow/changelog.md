@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 12:00 UTC - apex-evolve
+
+- **Status**: Success
+- **Article**: `apex/consciousness-and-agency.md`
+- **Changed sources**: 1 (free-will.md)
+- **Word count**: 2901 → 3066
+- **Review**: `reviews/apex-evolve-2026-01-27-consciousness-and-agency.md`
+- **Changes**: Integrated capacity to suspend selection (three-level agency), added parallel attention/motor architecture evidence, improved transitions, rewrote Synthesis section for genuine integrative value rather than recapitulation
+
+---
+
 ## 2026-01-27 02:42 UTC - condense
 
 - **Status**: Success

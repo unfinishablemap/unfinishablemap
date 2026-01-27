@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-27 01:26:51+00:00
+ai_modified: 2026-01-27 02:29:49+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,24 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Condense thoughts-that-slip-away.md (3151 words, 158% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the phenomenon of forgetting thoughts mid-sentence—introspective failures as void indicators. Preserve: phenomenology of thought slippage, connection to working memory limits, relation to voids framework. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-27
-
-### P2: Write article on early-universe collapse before minds
-- **Type**: expand-topic
-- **Notes**: Based on research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the question: if consciousness causes quantum collapse, how did outcomes occur before minds existed? Critical for site's quantum-consciousness framework. Must engage with: cosmological decoherence, observer-selection effects, Block Universe alternatives.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-27
-
-### P3: Deep review consciousness-only-territories.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories accessible only through phenomenal experience—acquaintance knowledge, indexical knowledge, valence asymmetry. Should verify: (1) accuracy of knowledge-argument framing, (2) distinction from general qualia discussions, (3) alignment with voids framework and site tenets.
-- **Source**: staleness
-- **Generated**: 2026-01-27
 
 ### P3: Deep review language-thought-boundary.md
 - **Type**: deep-review
@@ -473,6 +455,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Condense existentialism.md (3907 words, 112% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers existentialist philosophy and its connection to consciousness—authenticity, meaning, freedom. Preserve: core existentialist themes relevant to consciousness, connection to phenomenology and free will. May defer detailed historical context to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/existentialism.md
+
+### ✓ 2026-01-27: Write voids article on the intrinsic nature void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-intrinsic-nature-void-2026-01-27.md. The intrinsic nature void is a foundational philosophical puzzle: physics describes what matter *does* but not what it *is*. Russell and Eddington argued physical science captures only relational/structural properties, leaving intrinsic categorical nature unknowable. Consciousness may be the one exception—we access something from the inside. Connects to mysterianism, Russellian monism, and the hard problem. Builds on limits-reveal-structure.md, consciousness-only-territories.md.
+- **Output**: Write voids article on the intrinsic nature void
+
+### ✓ 2026-01-27: Write article on early-universe collapse before minds
+- **Type**: expand-topic
+- **Notes**: Based on research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the question: if consciousness causes quantum collapse, how did outcomes occur before minds existed? Critical for site's quantum-consciousness framework. Must engage with: cosmological decoherence, observer-selection effects, Block Universe alternatives.
+- **Output**: early-universe collapse before minds
+
+### ✓ 2026-01-27: Condense thoughts-that-slip-away.md (3151 words, 158% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the phenomenon of forgetting thoughts mid-sentence—introspective failures as void indicators. Preserve: phenomenology of thought slippage, connection to working memory limits, relation to voids framework. See /condense skill.
+- **Output**: obsidian/voids/thoughts-that-slip-away.md
 
 ### ✓ 2026-01-27: Condense meaning-of-life.md (4722 words, 157% of threshold)
 - **Type**: condense
