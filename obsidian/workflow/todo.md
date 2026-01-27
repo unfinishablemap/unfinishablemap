@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-27T10:36:05+00:00
+ai_modified: 2026-01-27T11:05:23+00:00
 draft: false
 topics: []
 concepts: []
@@ -41,6 +41,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
+- **Generated**: 2026-01-27
+
+### P2: Cross-review panpsychism.md considering process-philosophy insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/process-philosophy.md (2026-01-27) covers Whitehead's process metaphysics where actual occasions have proto-experiential aspects. The panpsychism.md article should: (1) add cross-link to process-philosophy treatment, (2) clarify how Whitehead's process panpsychism differs from standard property dualist panpsychism, (3) note that process philosophy offers a unique solution to the combination problem via prehension.
+- **Source**: chain (from process-philosophy.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review duration.md considering process-philosophy insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/process-philosophy.md (2026-01-27) extensively discusses Bergson's durée as central to process metaphysics. The duration.md article should: (1) add cross-link to process-philosophy, (2) connect Bergson's durée to the broader process tradition, (3) strengthen the philosophical foundation for temporal consciousness claims.
+- **Source**: chain (from process-philosophy.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review baseline-cognition.md considering consciousness-as-intelligence-amplifier
+- **Type**: cross-review
+- **Notes**: New topic article topics/consciousness-as-intelligence-amplifier.md (2026-01-27) develops the argument that consciousness amplifies rather than creates cognitive abilities. The baseline-cognition.md concept should: (1) add cross-link to the new topic, (2) verify consistency on the great ape vs human cognitive differences (working memory 7±2 vs 2±1), (3) ensure terminology alignment on "amplification" vs "enhancement."
+- **Source**: chain (from consciousness-as-intelligence-amplifier.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review animal-consciousness.md considering consciousness-as-intelligence-amplifier
+- **Type**: cross-review
+- **Notes**: New topic article topics/consciousness-as-intelligence-amplifier.md (2026-01-27) makes specific claims about what great apes can and cannot do (zone of latent solutions, limited cumulative culture). The animal-consciousness.md topic should: (1) cross-link to the new amplifier framework, (2) verify consistency on ape cognitive limitations, (3) consider whether the amplification framework illuminates the distribution of consciousness across species.
+- **Source**: chain (from consciousness-as-intelligence-amplifier.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review stapp-quantum-mind.md considering quantum-biology updates
+- **Type**: cross-review
+- **Notes**: Recent deep-review of concepts/quantum-biology.md (2026-01-27) added new material on quantum Zeno mechanism and biological precedents (cryptochrome radical pairs demonstrating Zeno effect in nature). The stapp-quantum-mind.md article should: (1) add cross-link to updated quantum-biology treatment, (2) note the new biological evidence supporting Stapp's Zeno mechanism, (3) verify alignment on decoherence timescales.
+- **Source**: chain (from quantum-biology.md deep-review)
 - **Generated**: 2026-01-27
 
 ### P3: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
