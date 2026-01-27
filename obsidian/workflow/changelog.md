@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 18:00 UTC - coalesce
+
+- **Status**: Success (cleanup)
+- **Action**: Removed duplicate topic file
+- **Removed**: `topics/consciousness-as-intelligence-amplifier.md` (created 2026-01-27, duplicated content)
+- **Canonical version**: `concepts/consciousness-as-amplifier.md` (comprehensive merged version)
+- **Already archived**: `archive/topics/consciousness-as-intelligence-amplifier.md` (original from 2026-01-22)
+- **Notes**: The topic file was recreated by expand-topic after a previous coalesce had already merged and archived it. The concept version (264 lines) is more comprehensive than the duplicate (163 lines). References in `topics/animal-consciousness.md` updated to point to canonical version.
+
 ## 2026-01-27 12:00 UTC - expand-topic
 
 - **Status**: Success
