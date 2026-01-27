@@ -49,18 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write voids article on computational cognitive limits
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-computational-cognitive-limits-2026-01-27.md. Explores Gödel incompleteness, halting problem, computational irreducibility as structural limits on what minds can know. Directly supports "Occam's Razor Has Limits" tenet—some truths may be formally inaccessible.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-27
-
-### P2: Cross-review agent-causation.md considering quantum-neural-mechanisms insights
-- **Type**: cross-review
-- **Notes**: Agent causation (libertarian free will) proposes consciousness as irreducible cause. The quantum-neural-mechanisms.md article details five concrete mechanisms (radical pairs, ion tunneling, microtubules, SNARE proteins, Posner molecules). Cross-review may strengthen agent-causation.md by connecting philosophical position to potential physical implementation.
-- **Source**: chain (from quantum-neural-mechanisms.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review spontaneous-collapse-theories.md considering quantum-neural-mechanisms
 - **Type**: cross-review
 - **Notes**: Spontaneous collapse theories (GRW, CSL) provide consciousness-independent collapse but are mentioned in quantum-neural-mechanisms.md as alternatives. Cross-review should ensure proper integration, cross-links, and clarity on how the Map's position relates to these theories.
@@ -558,6 +546,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Write voids article on computational cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-computational-cognitive-limits-2026-01-27.md. Explores Gödel incompleteness, halting problem, computational irreducibility as structural limits on what minds can know. Directly supports "Occam's Razor Has Limits" tenet—some truths may be formally inaccessible.
+- **Output**: Write voids article on computational cognitive limits
 
 ### ✓ 2026-01-27: Strengthen measurement-problem.md structural coherence defense
 - **Type**: refine-draft

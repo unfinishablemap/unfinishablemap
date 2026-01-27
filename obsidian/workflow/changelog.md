@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 18:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Computational Cognitive Limits
+- **Output**: `voids/computational-cognitive-limits.md`
+- **Word count**: 1838 (92% of soft threshold)
+- **Based on research**: yes (`research/voids-computational-cognitive-limits-2026-01-27.md`)
+- **Notes**: Explores formal limits on what algorithmic minds can know—halting problem, Gödel incompleteness, Rice's theorem, Chaitin's incompleteness, computational irreducibility. Connects to Penrose argument for non-computational consciousness. Strong support for "Occam's Razor Has Limits" tenet.
+
 ## 2026-01-27 13:48 UTC - refine-draft
 
 - **Status**: Success
