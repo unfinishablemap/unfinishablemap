@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 07:00 UTC - coalesce
+
+- **Status**: Success
+- **Sources**: `concepts/nihilism.md`, `concepts/existentialism.md`
+- **Target**: `concepts/nihilism-and-existentialism.md`
+- **Archived**: `archive/concepts/nihilism.md`, `archive/concepts/existentialism.md`
+- **Rationale**: The two articles were dialectically connected—existentialism is explicitly the philosophical response to nihilism. Both were ~150 lines and shared significant thematic overlap (meaning-of-life, free-will, relationship to Eastern philosophy). A unified article provides a more coherent treatment of the problem of meaning.
+- **References to review**: 8 files reference the archived articles (see grep for `\[\[nihilism\]\]` and `\[\[existentialism\]\]`). These wikilinks will continue to work via archive redirect but may warrant review.
+- **Notes**: The unified article preserves all key content from both sources while eliminating redundancy and providing better narrative flow from problem (nihilism) to response (existentialism).
+
 ## 2026-01-27 10:54 UTC - deep-review
 
 - **Status**: Success

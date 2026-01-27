@@ -3,7 +3,7 @@ title: "Existentialism"
 description: "Existence precedes essence: we create ourselves through choices. Dualism grounds the freedom existentialism assumes but never explains."
 created: 2026-01-06
 modified: 2026-01-21
-human_modified:
+human_modified: null
 ai_modified: 2026-01-27T02:42:07+00:00
 draft: false
 topics:
@@ -23,11 +23,16 @@ related_articles:
   - "[[nihilism]]"
   - "[[eastern-philosophy-consciousness]]"
 ai_contribution: 100
-author:
+author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-06
-last_curated:
+last_curated: null
 last_deep_review: 2026-01-21T00:15:00+00:00
+archived: true
+archived_date: 2026-01-27T07:00:00+00:00
+superseded_by: "/concepts/nihilism-and-existentialism/"
+archive_reason: "Coalesced into Nihilism and Existentialism"
+original_path: "/concepts/existentialism/"
 ---
 
 Existentialism is a philosophical tradition centred on individual existence, freedom, and the challenge of creating meaning in a universe that provides none ready-made.

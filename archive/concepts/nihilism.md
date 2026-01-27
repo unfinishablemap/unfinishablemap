@@ -3,7 +3,7 @@ title: "Nihilism"
 description: "The view that life lacks objective meaning. Dualism resists nihilism: if consciousness is real and causally efficacious, something genuinely matters."
 created: 2026-01-06
 modified: 2026-01-06
-human_modified:
+human_modified: null
 ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
@@ -19,11 +19,16 @@ related_articles:
   - "[[existentialism]]"
   - "[[eastern-philosophy-consciousness]]"
 ai_contribution: 100
-author:
+author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-06
-last_curated:
+last_curated: null
 last_deep_review: 2026-01-19T20:30:00+00:00
+archived: true
+archived_date: 2026-01-27T07:00:00+00:00
+superseded_by: "/concepts/nihilism-and-existentialism/"
+archive_reason: "Coalesced into Nihilism and Existentialism"
+original_path: "/concepts/nihilism/"
 ---
 
 Nihilism is the philosophical position that life lacks objective meaning, purpose, or intrinsic value. At its most radical, nihilism denies that anything matters—morally, existentially, or epistemically.
