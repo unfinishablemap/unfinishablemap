@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review stapp-quantum-mind.md considering quantum-biology updates
-- **Type**: cross-review
-- **Notes**: Recent deep-review of concepts/quantum-biology.md (2026-01-27) added new material on quantum Zeno mechanism and biological precedents (cryptochrome radical pairs demonstrating Zeno effect in nature). The stapp-quantum-mind.md article should: (1) add cross-link to updated quantum-biology treatment, (2) note the new biological evidence supporting Stapp's Zeno mechanism, (3) verify alignment on decoherence timescales.
-- **Source**: chain (from quantum-biology.md deep-review)
-- **Generated**: 2026-01-27
-
 ### P3: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the bootstrap problem where the mind that was wrong must recognize its error. Preserve: Schulz's error-blindness claims, connection to self-reference-paradox. See /condense skill.
@@ -540,6 +534,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review stapp-quantum-mind.md considering quantum-biology updates
+- **Type**: cross-review
+- **Notes**: Recent deep-review of concepts/quantum-biology.md (2026-01-27) added new material on quantum Zeno mechanism and biological precedents (cryptochrome radical pairs demonstrating Zeno effect in nature). The stapp-quantum-mind.md article should: (1) add cross-link to updated quantum-biology treatment, (2) note the new biological evidence supporting Stapp's Zeno mechanism, (3) verify alignment on decoherence timescales.
+- **Output**: obsidian/concepts/stapp-quantum-mind.md -- Context: Cross-review stapp-quantum-mind.md considering quantum-biology updates
 
 ### ✓ 2026-01-27: Cross-review animal-consciousness.md considering consciousness-as-intelligence-amplifier
 - **Type**: cross-review
