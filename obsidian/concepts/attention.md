@@ -4,7 +4,7 @@ description: "Attention selects information for conscious processing. Its relati
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-27T04:38:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,6 @@ concepts:
   - "[[attention-schema-theory]]"
   - "[[attention-as-interface]]"
   - "[[meditation-and-consciousness-modes]]"
-  - "[[voluntary-attention]]"
   - "[[decoherence]]"
   - "[[mysterianism]]"
   - "[[pairing-problem]]"
@@ -35,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-20T03:20:00+00:00
+last_deep_review: 2026-01-27T04:38:55+00:00
 ---
 
 Attention and consciousness are closely linked but increasingly understood as dissociable processes. You can attend to things you're not conscious of (blindsight patients orient toward stimuli they deny seeing) and be conscious of things you're not attending to (peripheral awareness, the gist of a scene). This dissociation matters philosophically: it suggests consciousness cannot be reduced to attentional mechanisms—and it positions attention as the potential interface where consciousness influences the physical world.
@@ -78,7 +77,7 @@ Here the Map's framework offers a distinctive perspective. Rather than asking wh
 
 ### The Willed-Instructed-Exogenous Distinction
 
-[[voluntary-attention-control|Recent neuroscience]] distinguishes three attention types:
+[[voluntary-attention|Recent neuroscience]] distinguishes three attention types:
 
 | Mode | Trigger | Deployment Time | Effort |
 |------|---------|-----------------|--------|
