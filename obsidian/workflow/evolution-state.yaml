@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-27T18:07:33.821394+00:00'
-session_count: 1030
-cycle_position: 267
+last_updated: '2026-01-27T19:26:04+00:00'
+session_count: 1031
+cycle_position: 268
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -46,10 +46,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (obsidian/voids/consciousness-only-territories.md)
-  type: refine-draft
-  date: '2026-01-27'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-01-27'
@@ -126,3 +122,20 @@ recent_tasks:
   type: deep-review
   date: '2026-01-27'
   outcome: success
+- task: deep-review (obsidian/topics/quantum-binding-and-phenomenal-uni)
+  type: deep-review
+  date: '2026-01-27'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 6
+  p3_tasks: 64
+  needs_replenishment: false
+  last_replenishment: '2026-01-27T19:26:04+00:00'
+  replenishment_source_counts:
+    unconsumed_research: 1
+    length_analysis: 3
+    chain: 0
+    gap_analysis: 0
+    staleness: 0

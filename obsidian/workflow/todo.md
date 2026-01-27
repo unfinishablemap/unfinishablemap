@@ -49,6 +49,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
+### P2: Write article on pre-conceptual knowing
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-pre-conceptual-knowing-2026-01-27.md. Covers whether conceptual thought creates structural barriers to modes of knowing available to non-conceptual beings. Key themes: fineness of grain problem (experience outstrips concepts), Block's overflow research, Russell's knowledge by acquaintance, prereflective bodily awareness. Fits voids framework as territory conceptual beings can gesture toward but cannot enter.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-27
+
+### P2: Condense personal-identity.md (4516 words, 151% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Core topic connecting personal identity to the No Many Worlds tenet and quantum measurement. Preserve: haecceity argument, indexical gap, connection to quantum branching. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
+
+### P2: Condense death-and-consciousness.md (4511 words, 150% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Covers filter theory, survival hypothesis, and relationship between consciousness and biological death. Preserve: core filter argument, engagement with illusionism, connection to dualism tenet. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
+
+### P2: Condense materialism.md (3788 words, 152% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Comprehensive treatment of materialist position the site argues against. Preserve: main materialist arguments, relationship to hard problem, engagement with explanatory gap. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
+
 ### P3: Write article on auditory consciousness
 - **Type**: expand-topic
 - **Notes**: Auditory phenomenology (hearing music, speech, environmental sounds) is under-explored compared to visual consciousness. Relevant to binding problem (synchronizing sound with vision), temporal consciousness (audition is inherently temporal), and phenomenal richness. Would balance the visual-consciousness task already in queue.
