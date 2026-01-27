@@ -30,7 +30,7 @@
         "url": "https://unfinishablemap.org"
     },
     {{ with .Params.concepts }}
-    "keywords": [{{ range $i, $c := . }}{{ if $i }}, {{ end }}"{{ $c | replaceRE `\[\[|\]\]` "" }}"{{ end }}],
+    "keywords": [{{ range $i, $c := . }}{{ if $i }}, {{ end }}"{{ $c | replaceRE `\[\[|\]\]` "" | replaceRE `-` " " }}"{{ end }}],
     {{ end }}
     "publisher": {
         "@type": "Organization",
