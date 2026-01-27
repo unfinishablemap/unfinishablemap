@@ -4,7 +4,7 @@ description: "The view that consciousness is fundamental and ubiquitous in natur
 created: 2026-01-08
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T08:23:33+00:00
+ai_modified: 2026-01-27T11:15:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-08
 last_curated: null
-last_deep_review: 2026-01-27T08:23:33+00:00
+last_deep_review: 2026-01-27T11:15:33+00:00
 ---
 
 Panpsychism holds that consciousness is a fundamental and ubiquitous feature of reality—all matter has some experiential quality. An electron doesn't merely have mass and charge; it has something it's like to be that electron. This view has experienced a resurgence in contemporary philosophy of mind, championed by thinkers like Galen Strawson and Philip Goff.
@@ -53,7 +53,7 @@ Panpsychism also addresses the [[prebiotic-collapse|prebiotic collapse problem]]
 
 ### Whitehead and the Process Tradition
 
-Before contemporary panpsychism, Alfred North Whitehead developed a sophisticated [[process-philosophy|process philosophy]] that treats experience as fundamental. In *Process and Reality* (1929), Whitehead proposed that reality consists of "actual occasions"—momentary experiential events that perish and give rise to successors. Even the simplest physical process involves "prehension"—a primitive form of experience by which occasions take account of their predecessors.
+Before contemporary panpsychism, Alfred North Whitehead developed a sophisticated [[process-philosophy]] that treats experience as fundamental. In *Process and Reality* (1929), Whitehead proposed that reality consists of "actual occasions"—momentary experiential events that perish and give rise to successors. Even the simplest physical process involves "prehension"—a primitive form of experience by which occasions take account of their predecessors.
 
 Whitehead's influence runs through contemporary panpsychism. His rejection of "vacuous actuality" (matter without any experiential aspect) anticipates Strawson's argument that non-experiential matter is incoherent. His "actual occasions" prefigure micro-experiences. The combination problem is implicit in his account of how occasions "synthesize" into complex organisms.
 
