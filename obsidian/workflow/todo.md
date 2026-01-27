@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on quantum biology and neural mechanisms
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-biology-neural-mechanisms-2026-01-24.md. Comprehensive review of five quantum biological mechanisms in neural systems: radical pair effects, proton tunneling, Fröhlich condensation, SNARE vesicle release, and Posner molecules. Provides empirical evidence base for Minimal Quantum Interaction tenet. Should synthesize findings into site content with appropriate skeptical treatment.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-27
-
-### P3: Write article on teleportation and personal identity
-- **Type**: expand-topic
-- **Notes**: Classic thought experiment (Parfit's teleportation, Star Trek transporter problem) directly relevant to haecceity and the No Many Worlds tenet. If a teleporter destroys the original and creates a perfect copy, is the copy the same person? Builds on haecceity.md, personal-identity.md, philosophical-zombies.md. Would strengthen the indexical identity arguments.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-27
-
 ### P3: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the bootstrap problem where the mind that was wrong must recognize its error. Preserve: Schulz's error-blindness claims, connection to self-reference-paradox. See /condense skill.
@@ -522,6 +510,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Write article on quantum biology and neural mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-mechanisms-2026-01-24.md. Comprehensive review of five quantum biological mechanisms in neural systems: radical pair effects, proton tunneling, Fröhlich condensation, SNARE vesicle release, and Posner molecules. Provides empirical evidence base for Minimal Quantum Interaction tenet. Should synthesize findings into site content with appropriate skeptical treatment.
+- **Output**: quantum biology and neural mechanisms
+
+### ✓ 2026-01-27: Write article on quantum biology and neural mechanisms (duplicate)
+- **Type**: expand-topic
+- **Notes**: Task was regenerated from unconsumed_research but article already exists. Article concepts/quantum-neural-mechanisms.md was created 2026-01-24 based on research/quantum-biology-neural-mechanisms-2026-01-24.md. Comprehensive coverage of all five mechanisms (radical pairs, ion tunneling, microtubules, SNARE, Posner molecules) with evidence tables, tenet alignment, and full references. Also see concepts/quantum-biology.md for complementary coverage.
+- **Result**: Task already completed on 2026-01-24. Removed duplicate from queue.
+- **Output**: concepts/quantum-neural-mechanisms.md (existing)
 
 ### ✓ 2026-01-27: Cross-review self-reference-paradox.md considering destabilizing-self-knowledge
 - **Type**: cross-review
