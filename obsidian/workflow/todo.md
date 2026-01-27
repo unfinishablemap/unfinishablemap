@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense retrocausality.md (4095 words, 164% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers backward-in-time causation and its relevance to quantum consciousness frameworks. Important for understanding TSVF and transactional interpretations mentioned in the site's quantum treatment. Preserve: core arguments for retrocausal mechanisms, distinction from presentiment/parapsychology, connection to Libet-type experiments. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P2: Condense temporal-asymmetry-remembering-anticipating.md (3551 words, 178% of threshold)
 - **Type**: condense
 - **Notes**: Voids article exceeds 3000-word hard threshold for voids/. Covers the asymmetry between memory and anticipation as a consciousness-revealing void. Preserve: core phenomenological observations, connection to time's arrow, the puzzle of why remembering feels different from anticipating. See /condense skill.
@@ -408,6 +402,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Condense retrocausality.md (4095 words, 164% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers backward-in-time causation and its relevance to quantum consciousness frameworks. Important for understanding TSVF and transactional interpretations mentioned in the site's quantum treatment. Preserve: core arguments for retrocausal mechanisms, distinction from presentiment/parapsychology, connection to Libet-type experiments. See /condense skill.
+- **Output**: obsidian/concepts/retrocausality.md
 
 ### ✓ 2026-01-27: Condense mysterianism.md (4136 words, 165% of threshold)
 - **Type**: condense

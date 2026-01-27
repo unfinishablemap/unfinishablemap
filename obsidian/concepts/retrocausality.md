@@ -4,7 +4,7 @@ description: "Backward causation in time-symmetric quantum mechanics. Resolves t
 created: 2026-01-07
 modified: 2026-01-07
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-27T19:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,222 +49,82 @@ The retrocausal response: temporal precedence does not establish causal priority
 
 ## Retrocausality in Physics
 
-Retrocausality isn't philosophical speculation divorced from physics—it has serious proponents and empirical grounding.
+Retrocausality has serious proponents and empirical grounding in physics.
 
-### Time-Symmetric Quantum Mechanics
+**Time-symmetric equations**: Quantum mechanics' fundamental equations work equally well forward or backward. The apparent "arrow of time" in measurement is an addition to the formalism. As Huw Price argues, if physics is time-symmetric and causal, retrocausality follows necessarily. See [[collapse-and-time]] for how collapse introduces temporal asymmetry.
 
-The fundamental equations of quantum mechanics are time-symmetric: they work equally well run forward or backward. The apparent "arrow of time" in quantum measurement is an addition to the formalism, not derivable from it. Philosophers like Huw Price argue that if physics is time-symmetric and causal, retrocausality follows necessarily.
+**Wheeler's delayed-choice**: Experiments confirm that measurement choices made *after* a particle passes through a double-slit can determine whether it behaved as wave or particle *earlier*. The 2017 satellite experiment extended this over thousands of kilometres.
 
-This connects to the deeper question of [[collapse-and-time|collapse and temporal asymmetry]]. Multiple arrows of time have been identified—thermodynamic, cosmological, electromagnetic, psychological—but whether quantum measurement introduces an independent arrow remains contested. If collapse is real and genuinely irreversible, consciousness's participation in collapse links it to the structure of time itself, not merely to events occurring within time.
+**The transactional interpretation**: Cramer's interpretation (1986) makes retrocausality explicit. Quantum events involve offer waves propagating forward, confirmation waves propagating backward, and an atemporal "handshake" that creates the transaction. The wave function is physically real; collapse occurs along the entire transaction simultaneously.
 
-### Wheeler's Delayed-Choice Experiment
-
-John Wheeler proposed (and subsequent experiments confirmed) that a measurement choice made *after* a particle has passed through a double-slit apparatus can determine whether the particle behaved as a wave or particle *earlier*. In the standard interpretation, this reflects quantum superposition persisting until measurement. In the retrocausal interpretation, the later measurement genuinely influences the earlier behaviour.
-
-The 2017 satellite experiment extended delayed-choice over distances of thousands of kilometres, confirming the effect at cosmic scales.
-
-### The Transactional Interpretation
-
-John Cramer's transactional interpretation of quantum mechanics (1986) makes retrocausality explicit. Quantum events involve:
-
-1. **Offer waves** propagating forward in time from the emitter
-2. **Confirmation waves** propagating backward in time from the absorber
-3. A **handshake** between future and past that creates the transaction
-
-In this picture, the wave function is physically real, not merely a calculation tool. Transactions are "atemporal"—the collapse occurs along the entire transaction simultaneously, with no privileged temporal direction. The Born Rule (probability = amplitude squared) emerges naturally from the handshake.
-
-### Bell Tests and Nonlocality
-
-Bell test experiments demonstrate correlations between entangled particles that cannot be explained by local hidden variables. The standard response invokes nonlocality: influences propagating faster than light. But retrocausal models offer an alternative: the correlations arise because later measurements retroactively influence earlier states. This preserves locality at the cost of temporal direction.
+**Bell tests**: Retrocausal models offer an alternative to nonlocality for explaining entanglement correlations—later measurements retroactively influence earlier states, preserving locality at the cost of temporal direction.
 
 ## Application to Consciousness
 
-How does retrocausality help with consciousness and the Libet problem?
-
-### The Map's Framework
-
-The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] proposes that consciousness influences the physical world at the quantum level—biasing otherwise indeterminate outcomes. The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] holds that consciousness selects among superposed neural states.
-
-If this selection operates retrocausally, then:
+The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets propose that consciousness selects among superposed neural states. If this selection operates retrocausally:
 
 1. The brain prepares multiple possible action patterns (superposition)
-2. Neural activity builds up, reflecting all possibilities
-3. Consciousness "selects" which pattern becomes actual
-4. This selection propagates backward, determining which neural history becomes real
-5. What appears as neural activity "predicting" the decision is actually the selected history
+2. Consciousness "selects" which pattern becomes actual
+3. This selection propagates backward, determining which neural history becomes real
+4. The readiness potential is part of the selected package, not a prior cause
 
-The readiness potential doesn't precede conscious choice in any causally significant sense—it's part of the package that consciousness selected, including its temporal ordering.
-
-The [[quantum-indeterminacy-free-will|systematic treatment of quantum indeterminacy and free will]] develops this framework in detail, showing how retrocausality dissolves the temporal ordering problem within the broader context of the [[luck-objection|luck objection]] response. Consciousness doesn't merely select an outcome—it selects the entire temporal sequence, including the neural preparation that appears to "precede" awareness. This transforms what looks like deterministic prediction into selected history.
+The [[quantum-indeterminacy-free-will|systematic treatment of quantum indeterminacy and free will]] develops this in detail.
 
 ### The Atemporal Selection Model
 
-Cramer's transactional interpretation suggests that quantum transactions are fundamentally atemporal. If consciousness operates at this level, then conscious selection might also be atemporal—not occurring at a moment in linear time but determining which moments become actual.
-
-In this picture, asking "when does consciousness make the decision?" may be the wrong question. The decision isn't made *at* a time; it determines *which* times (and their contents) become real. As explored in [[collapse-and-time]], this has profound implications: consciousness wouldn't merely experience time's flow but would help constitute temporal structure through the pattern of selections it makes across transactions.
+If consciousness operates at the transactional level, asking "when does consciousness make the decision?" may be the wrong question. The decision isn't made *at* a time; it determines *which* times become real. See [[collapse-and-time]] for the implications.
 
 ### Addressing Objections
 
-**Objection**: If consciousness can affect the past, why can't we change history?
+**Can we change history?** No—retrocausality doesn't imply altering established facts. The handshake creates a consistent transaction; the retrocausal influence is part of how the one real history came to be.
 
-**Response**: Retrocausality doesn't imply we can alter established facts. The handshake between future and past creates a consistent transaction. There's no alternate timeline where things went differently—the retrocausal influence is part of how the one real history came to be.
+**Isn't this unfalsifiable?** All quantum interpretations (Copenhagen, Many-Worlds, Bohmian) make identical predictions for currently testable scenarios. The question is which makes best sense of what we observe.
 
-**Objection**: Isn't this unfalsifiable?
-
-**Response**: Retrocausal interpretations make the same predictions as standard quantum mechanics for all currently testable scenarios. This isn't a weakness unique to retrocausality—all quantum interpretations (Copenhagen, Many-Worlds, Bohmian) share this feature. The question is which interpretation makes best sense of what we observe.
-
-**Objection**: Why should consciousness specifically have retrocausal powers?
-
-**Response**: The claim isn't that consciousness *adds* retrocausal powers to physics but that physics already includes retrocausality, and consciousness operates at the level where this matters. If consciousness interacts with quantum processes (per the Map's tenets), it inherits the temporal properties of those processes.
+**Why consciousness specifically?** The claim isn't that consciousness *adds* retrocausal powers but that physics already includes retrocausality, and consciousness operates at the level where this matters.
 
 ## Connection to Quantum Consciousness Mechanisms
 
-Retrocausality complements the specific [[quantum-consciousness|quantum consciousness mechanisms]] proposed by researchers like Penrose-Hameroff (Orch OR) and Henry Stapp. These mechanisms explain *where* in the brain consciousness might interface with quantum processes; retrocausality explains *how* the temporal ordering puzzle dissolves.
-
-**Orch OR and retrocausality**: Penrose and Hameroff propose that consciousness emerges through quantum collapse events in neuronal microtubules. If these collapses have retrocausal aspects (as the transactional interpretation suggests), then the "moment" of consciousness selecting a particular collapse outcome need not precede the neural activity it shapes. The collapse event and its preparation form an atemporal transaction.
-
-**Stapp's quantum Zeno and retrocausality**: Stapp's model proposes that conscious attention acts like repeated quantum observations, stabilizing desired neural patterns. Combined with retrocausality, this suggests attention might work through retrocausal handshakes—the later "observation" events retroactively constraining which neural patterns were ever available. The Zeno freezing operates across time, not merely within it.
-
-Both approaches benefit from retrocausality because it dissolves the Libet objection without requiring consciousness to somehow "speed up" to precede neural preparation.
+Retrocausality complements [[quantum-consciousness|quantum consciousness mechanisms]] like Orch OR and Stapp's quantum Zeno. These explain *where* consciousness interfaces with quantum processes; retrocausality explains *how* the temporal ordering puzzle dissolves. Both benefit because consciousness need not "speed up" to precede neural preparation—the collapse and its preparation form an atemporal transaction.
 
 ### Motor Selection: Independent Corroboration
 
-The retrocausal framework gains support from [[motor-selection|motor control research]]. Willed movement shows the same neural signatures as willed attention—frontal theta oscillations, ~300ms deployment time, distinct willed vs instructed signatures. If retrocausal selection operated only in attention, skeptics might dismiss it as interpretation-dependent. But two independent domains showing identical selection architecture suggests the framework captures something real.
+The retrocausal framework gains support from [[motor-selection|motor control research]]. Willed movement shows the same neural signatures as willed attention—frontal theta oscillations, ~300ms deployment time. Two independent domains showing identical selection architecture suggests the framework captures something real.
 
-Importantly, the Libet challenge to motor control has weakened substantially. Sjöberg (2024) demonstrated that surgical resection of the supplementary motor area—where the readiness potential is generated—doesn't impair voluntary action. Desmurget's double dissociation separates intention (parietal) from execution (premotor). The readiness potential may be preparation for execution, not the decision itself. Retrocausality explains why: consciousness selected the complete motor sequence, including its temporal preparation.
+The Libet challenge to motor control has also weakened: Sjöberg (2024) showed that surgical resection of the supplementary motor area doesn't impair voluntary action. The readiness potential may be preparation for execution, not the decision itself.
 
 ## The Decoherence Challenge
 
-A critic might object: how do retrocausal influences propagate through systems that have undergone [[decoherence]]? If quantum coherence decays in femtoseconds in warm biological tissue, what carries the retrocausal "signal"?
+How do retrocausal influences propagate through systems that have undergone [[decoherence]]? Three considerations: (1) Decoherence timescales are disputed—Hameroff's group obtained coherence times seven orders of magnitude longer than Tegmark's calculations. (2) Retrocausality operates at measurement, not during coherence—the transaction requires boundary conditions at both temporal ends, not sustained superposition. (3) Biological quantum effects like avian magnetoreception prove evolution can exploit coherence.
 
-Three considerations mitigate this concern:
-
-**Decoherence timescales are disputed.** Tegmark's influential calculations assumed thermal equilibrium in isolated systems. Hameroff's group challenged these assumptions, obtaining coherence times seven orders of magnitude longer. More fundamentally, the decoherence timescales relevant for retrocausality concern the measurement transaction itself, not sustained superposition in the brain.
-
-**Retrocausality operates at measurement, not during coherence.** The transactional interpretation doesn't require the brain to maintain quantum coherence between offer and confirmation waves. What it requires is that the *measurement event*—the collapse—involves boundary conditions at both temporal ends. Decoherence might eliminate interference patterns in the meantime without blocking the atemporal handshake that resolves outcomes.
-
-**Biological quantum effects prove evolution can exploit coherence.** Avian magnetoreception maintains spin coherence for microseconds in warm tissue (Princeton, 2026). If evolution optimised quantum effects for navigation, it could optimise them for consciousness—and retrocausal selection might not require sustained coherence at all, only appropriate quantum events at decision points.
-
-The decoherence objection assumes retrocausality requires classical-scale quantum effects persisting over neural timescales. But the transactional picture is subtler: the handshake is atemporal, occurring along the entire transaction simultaneously. Decoherence establishes which basis states are available; retrocausality determines which becomes actual.
+The transactional picture is subtle: the handshake is atemporal. Decoherence establishes which basis states are available; retrocausality determines which becomes actual.
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] would argue that retrocausality is an unnecessarily elaborate solution to a non-problem. If consciousness is not what it seems—if phenomenal experience is a representational fiction—then there's nothing requiring causal efficacy and nothing threatened by the Libet results.
-
-Three responses:
-
-**The regress problem applies.** Illusionism trades the hard problem for the "illusion problem"—explaining why we powerfully believe we're conscious when we're not. But even an illusion must appear to something. The brain's representation of having experiences must be experienced *by* something, or there's no appearance at all. Retrocausality concerns how consciousness—whatever its ultimate nature—relates to neural activity. Even illusionist "seemings" would face the temporal ordering puzzle: when does the brain generate the seeming, and how does that generation relate to the neural activity it represents?
-
-**[[introspection|Introspection]] survives debunking attempts.** The phenomenology of deliberation includes an experience of consideration, weighing, and selecting. This phenomenology remains data even if its interpretation is contested. Retrocausality explains how genuine selection could produce this phenomenology despite temporal ordering—and this explanation applies whether selection involves irreducible consciousness or sophisticated neural processing.
-
-**The functional asymmetry remains.** Voluntary actions differ behaviourally from reflexes, habits, and random movements. Whatever generates this functional difference must interface with neural preparation somehow. Retrocausality provides a mechanism. Illusionism must explain the same functional asymmetry through other means—and that explanation will face its own timing constraints.
+[[illusionism|Illusionists]] argue retrocausality solves a non-problem: if phenomenal experience is representational fiction, nothing is threatened by Libet. But the regress problem applies—an illusion must appear to something. Even illusionist "seemings" face the temporal ordering puzzle. And the functional asymmetry remains: voluntary actions differ from reflexes, and whatever generates this difference must interface with neural preparation. See [[introspection]] for why phenomenological data survives debunking attempts.
 
 ## Contemplative Evidence
 
-Meditation traditions report experiences that bear on the retrocausality hypothesis—not as proof, but as phenomenological data worth considering.
+[[witness-consciousness|Meditation traditions]] report experiences bearing on retrocausality. Advanced meditators describe awareness standing "outside" temporal flow, observing rather than being carried along. This provides phenomenological support for the atemporal selection model—the witness doesn't experience itself as "before" or "after" its objects.
 
-### Witness Consciousness and Temporal Experience
-
-[[witness-consciousness|Advanced meditators]] across traditions report a shift in how time is experienced. Rather than being carried along in temporal flow, awareness seems to stand "outside" the stream, observing thoughts and sensations arise and pass. This "witness" mode suggests consciousness isn't necessarily bound to linear temporal experience in the way naïve models assume.
-
-If consciousness can experientially disengage from temporal flow, this provides phenomenological support for the atemporal selection model. The witness doesn't experience itself as "before" or "after" its objects—it simply observes. Retrocausality proposes something similar at the physical level: conscious selection doesn't occur at a moment in time but determines which moments become actual.
-
-### The Phenomenology of Decision
-
-Deliberate decisions have a distinctive phenomenology. There's a period of weighing options, a sense of possibilities being held open, and then a moment when one option "crystallizes" into actuality. Importantly, this crystallization doesn't feel like passive observation of an already-determined outcome—it feels like genuine selection.
-
-Retrocausality vindicates this phenomenology. The selection *is* genuine, even though neural activity precedes conscious awareness in the linear temporal sequence. What crystallizes is the entire transaction, including its temporal preparation. The phenomenology of selection accurately reflects what's happening—we simply mislocate the selection to a moment in the linear sequence when it's actually atemporal.
-
-### Cessation States
-
-Some meditation practices produce states of consciousness without content—awareness present but no objects arising. These "cessation" or "nirodha" states are relevant because they suggest awareness can exist independently of the neural activity that normally generates content. If consciousness can persist when content-generating activity ceases, the relationship between consciousness and neural activity may be more flexible than the Libet challenge assumes.
-
-## Process Philosophy Perspective
-
-Alfred North Whitehead's process philosophy offers conceptual resources for understanding retrocausal selection.
-
-### Actual Occasions and Concrescence
-
-For Whitehead, reality consists of "actual occasions"—moments of experience that arise, achieve definiteness, and perish. Each occasion involves "concrescence": a process of becoming definite by integrating ("prehending") data from prior occasions. Crucially, the occasion doesn't exist and *then* become definite—becoming definite *is* its existence.
-
-This resonates with retrocausal selection. The neural preparation and the conscious selection aren't sequential events with one causing the other linearly. They're aspects of a single process of determination—the transaction achieving definiteness. The readiness potential is part of what the occasion prehends; the selection is the concrescence that determines how those prehensions resolve.
-
-### Eternal Objects and Selection
-
-Whitehead's "eternal objects" are pure potentials—qualities like redness or mathematical patterns—that can be instantiated in actual occasions. Selection involves determining which eternal objects get instantiated. This maps onto retrocausal selection: among the superposed possibilities, consciousness determines which pattern becomes actual, instantiating specific eternal objects in the definite occasion.
-
-### Why the Framework Fits
-
-Process philosophy already rejected the substance metaphysics that makes the Libet problem seem so troubling. If consciousness is a substance that acts at moments in time, temporal ordering matters—causes must precede effects. But if consciousness is itself a process of determination, and that process involves atemporal constraint (retrocausality), the puzzle dissolves. The readiness potential is part of the process, not an independent cause that consciousness must somehow outrace.
+The phenomenology of decision also supports retrocausality: deliberation involves weighing options, then one option "crystallizing" into actuality. This crystallization feels like genuine selection, not passive observation. Retrocausality vindicates this—the selection *is* genuine, determining the entire transaction including its temporal preparation.
 
 ## Time Ontology and Retrocausality
 
-Retrocausality raises a puzzle about the [[philosophy-of-time|ontology of time]]. The transactional interpretation requires confirmation waves propagating *from* the future—but if the future doesn't exist yet (presentism), what sends these waves? This seems to favor eternalism: all times exist equally, so the future is "there" to participate in transactions.
+The transactional interpretation requires confirmation waves from the future—but if the future doesn't exist yet (presentism), what sends them? This seems to favour eternalism. Yet the Map requires real collapse, introducing genuine temporal asymmetry. See [[philosophy-of-time]] for the full treatment.
 
-Yet the Map's framework requires real collapse—which introduces genuine temporal asymmetry, favoring A-theory (real temporal becoming) over pure B-theory eternalism where time's flow is illusory.
+The Map's [[time-collapse-and-agency|temporal framework]] proposes a **modified growing block**: retrocausality operates within time-symmetric physics *before* collapse establishes temporal direction. The "future" participating in transactions is the space of quantum possibilities, not ontologically existing future facts. Collapse—including consciousness-mediated selection—determines which possibilities become the single actual history.
 
-The Map's [[time-collapse-and-agency|temporal framework]] proposes a resolution: a **modified growing block** where:
+## Presentiment Research
 
-1. Retrocausality operates within the time-symmetric physics *before* collapse establishes temporal direction
-2. Collapse—including consciousness-involving collapse—creates irreversible temporal structure
-3. After collapse, the selected history is simply the history (amenable to B-theoretic description)
-4. The "future" that participates in retrocausal transactions is the space of quantum possibilities, not ontologically existing future facts
+Separate from physics-based retrocausality, parapsychological "presentiment" research claims physiological responses precede randomly selected future stimuli. Meta-analyses report small effects, but skeptics cite replication failures, Bayesian reanalysis showing weak evidence, and biological implausibility. See [[retrocausal-neural-firing-presentiment-2026-01-23|research notes]] for details.
 
-On this view, retrocausality doesn't require eternalism in the strong sense. What it requires is that quantum processes involve boundary conditions at both ends of a transaction—but these boundary conditions can be superposed possibilities rather than determinate futures. The handshake between offer and confirmation waves selects which possibilities become actual, growing the block.
-
-This preserves the key insight: the future is genuinely open (not already existing), yet retrocausal physics can operate because superposed possibilities extend forward. Collapse—including consciousness-mediated selection—determines which possibilities resolve into the single actual history.
-
-## Presentiment Research: A Distinct Evidential Tradition
-
-Separate from physics-based retrocausality, a contested body of parapsychological research claims empirical evidence for "presentiment" or "predictive anticipatory activity" (PAA)—physiological responses that allegedly precede randomly selected future stimuli.
-
-### The PAA Claim
-
-Presentiment research uses electrodermal activity, heart rate, fMRI, and EEG to test whether the body "anticipates" randomly determined future events. Meta-analyses by Mossbridge et al. (2012, 2014) and Duggan & Tressoldi (2018) report small but statistically significant effects (effect size ~0.21-0.28). Proponents argue: higher quality studies show larger effects, pre-registered studies replicate, and publication bias analysis finds the results robust.
-
-The effect, if real, would constitute direct empirical evidence for retrocausation in biological systems—not merely theoretical support from physics.
-
-### The Critique
-
-Skeptics (Wagenmakers et al. 2011; Galak et al. 2012; Ritchie et al. 2012) raise serious objections:
-
-- **Replication failures**: Large-scale replications by skeptical researchers found effect sizes near zero
-- **Bayesian reanalysis**: When appropriate priors are used, evidence appears weak to nonexistent
-- **Expectation bias**: Random stimulus sequences may create learned anticipatory patterns
-- **The experimenter effect problem**: If failures are attributed to skeptic influence, the claim becomes unfalsifiable
-- **Biological implausibility**: No mechanism connects quantum retrocausality to macroscopic physiological responses
-
-The debate illustrates a genuine scientific controversy where proponents and skeptics interpret the same literature differently.
-
-### Why the Map Distinguishes These Traditions
-
-The Map's support for retrocausality comes from physics, not parapsychology. The transactional interpretation, Wheeler's delayed-choice experiments, and time-symmetric quantum mechanics provide theoretical grounding independent of whether PAA effects are real.
-
-This matters for two reasons:
-
-1. **Independence**: Physics-based retrocausality could be correct while PAA is artifact (or vice versa). Conflating them ties the Map's commitments to the weakest evidence.
-
-2. **Type of causation**: Even if PAA is genuine, it concerns *unconscious* physiological anticipation—the body responding before stimuli. The Map's framework concerns *conscious* selection of quantum outcomes. These are different claims. Unconscious precognition doesn't establish that consciousness selects—it might even suggest the relevant processes are subconscious.
-
-The Map therefore acknowledges presentiment research as a contested auxiliary line of evidence while grounding its retrocausality commitments in physics. If PAA were conclusively established, it would provide additional support. If conclusively refuted, it would leave the physics-based framework untouched.
-
-This is not dismissal—it's appropriate epistemic caution about a controversial literature while maintaining well-founded theoretical commitments.
+The Map grounds retrocausality in physics—the transactional interpretation, Wheeler's delayed-choice, time-symmetric equations—not parapsychology. Even if presentiment were genuine, it concerns *unconscious* anticipation, not *conscious* selection. The Map acknowledges this research as contested while maintaining its physics-based commitments.
 
 ## What Would Challenge This View?
 
-The retrocausality hypothesis would face serious challenge if:
+The hypothesis would face serious challenge from: (1) experimental falsification distinguishing retrocausal from non-retrocausal interpretations; (2) success of the illusionist program explaining consciousness without genuine selection; (3) alternative Libet resolutions (like Schurger's neural noise interpretation) eliminating the timing puzzle; (4) discovery that consciousness operates entirely through classical computation; or (5) incoherence of the modified growing block time ontology.
 
-1. **Experimental falsification of retrocausal models.** If future experiments could distinguish retrocausal from non-retrocausal interpretations and favoured the non-retrocausal option, the framework would require revision. Currently, all quantum interpretations are empirically equivalent, but this could change.
-
-2. **Success of the illusionist program.** If a comprehensive account emerged of how the brain generates the illusion of phenomenal consciousness *without* any genuine selection or causal efficacy, retrocausality would become explanatorily idle. The puzzle it solves would dissolve along with consciousness itself.
-
-3. **Alternative resolutions to Libet.** Schurger's neural noise interpretation already challenges the standard Libet narrative. If this or other interpretations conclusively showed that the readiness potential has nothing to do with decision initiation, the Libet problem might disappear without needing retrocausality.
-
-4. **Discovery of classical consciousness mechanisms.** If consciousness were shown to operate entirely through classical neural computation with no quantum involvement, retrocausality would lose its physical grounding. The framework depends on consciousness interfacing with quantum processes.
-
-5. **Incoherence of the modified growing block.** The time ontology proposed here—retrocausality operating before collapse establishes temporal direction—is philosophically novel. If it turned out to be internally inconsistent, an alternative reconciliation of retrocausality with open futurism would be needed.
-
-None of these challenges currently succeeds, but they mark the conditions under which the hypothesis would fail. This is how it should be: the framework makes commitments that could, in principle, be shown wrong.
+None of these currently succeeds, but they mark conditions under which the framework would fail.
 
 ## Relation to Site Perspective
 
@@ -289,32 +149,19 @@ The Libet experiments don't refute conscious causation; they reveal that conscio
 
 ## Further Reading
 
-- [[quantum-indeterminacy-free-will]] — Systematic treatment of how quantum indeterminacy supports libertarian free will, including the retrocausal resolution
-- [[motor-selection]] — Motor control as a second selection domain showing identical architecture
-- [[philosophy-of-time]] — McTaggart's A/B series, presentism vs eternalism, and how the Map reconciles these with retrocausality
-- [[collapse-and-time]] — How collapse introduces temporal asymmetry and why consciousness may be constitutive of time's arrow
-- [[time-collapse-and-agency]] — the Map's full treatment of time, collapse, and conscious agency
-- [[libet-experiments]] — Detailed treatment of Libet's experiments, Schurger's neural noise critique, and the retrocausal resolution
-- [[quantum-consciousness]] — Specific quantum mechanisms (Orch OR, Stapp's Zeno) that retrocausality complements
-- [[luck-objection]] — Why consciousness-selected outcomes differ from lucky random events
-- [[tenets]] — the Map's foundational commitments, especially Bidirectional Interaction and Minimal Quantum Interaction
-- [[locality]] — Related concept on how non-local effects work without violating causality
-- [[libet-experiments-free-will-2026-01-07|Libet Research Notes]] — Original research notes
+- [[quantum-indeterminacy-free-will]] — Systematic treatment including retrocausal resolution
+- [[collapse-and-time]] — Collapse, temporal asymmetry, and consciousness
+- [[time-collapse-and-agency]] — The Map's full temporal framework
+- [[libet-experiments]] — Libet's experiments and the Schurger critique
+- [[quantum-consciousness]] — Orch OR and Stapp's Zeno mechanisms
+- [[motor-selection]] — Motor control as second selection domain
+- [[tenets]] — Foundational commitments
 
 ## References
 
 - Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
-- Duggan, M., & Tressoldi, P. (2018). Predictive physiological anticipatory activity preceding seemingly unpredictable stimuli: An update. *F1000Research*, 7, 407.
-- Galak, J., LeBoeuf, R. A., Nelson, L. D., & Simmons, J. P. (2012). Correcting the past: Failures to replicate psi. *Journal of Personality and Social Psychology*, 103(6), 933-948.
-- Kastner, R. E. (2013). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
-- Leifer, M. S., & Spekkens, R. W. (2013). Towards a formulation of quantum theory as a causally neutral theory of Bayesian inference. *Physical Review A*, 88(5), 052130.
 - Libet, B. et al. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623-642.
-- Mossbridge, J., Tressoldi, P., & Utts, J. (2012). Predictive physiological anticipation preceding seemingly unpredictable stimuli: A meta-analysis. *Frontiers in Psychology*, 3, 390.
 - Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
-- Ritchie, S. J., Wiseman, R., & French, C. C. (2012). Failing the future: Three unsuccessful attempts to replicate Bem's 'retroactive facilitation of recall' effect. *PLoS ONE*, 7(3), e33423.
 - Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 - Sjöberg, R. L. (2024). SMA lesions and voluntary action. *Journal of Cognitive Neuroscience*.
-- Wagenmakers, E.-J., Wetzels, R., Borsboom, D., & van der Maas, H. L. J. (2011). Why psychologists must change the way they analyze their data. *Journal of Personality and Social Psychology*, 100(3), 426-432.
 - Wheeler, J. A. (1978). The "past" and the "delayed-choice" double-slit experiment. In *Mathematical Foundations of Quantum Theory* (pp. 9-48). Academic Press.
-- Wharton, K. (2015). The universe is not a computer. In *Questioning the Foundations of Physics* (pp. 177-190). Springer.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
