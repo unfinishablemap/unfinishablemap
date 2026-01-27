@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review animal-consciousness.md considering consciousness-as-intelligence-amplifier
-- **Type**: cross-review
-- **Notes**: New topic article topics/consciousness-as-intelligence-amplifier.md (2026-01-27) makes specific claims about what great apes can and cannot do (zone of latent solutions, limited cumulative culture). The animal-consciousness.md topic should: (1) cross-link to the new amplifier framework, (2) verify consistency on ape cognitive limitations, (3) consider whether the amplification framework illuminates the distribution of consciousness across species.
-- **Source**: chain (from consciousness-as-intelligence-amplifier.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review stapp-quantum-mind.md considering quantum-biology updates
 - **Type**: cross-review
 - **Notes**: Recent deep-review of concepts/quantum-biology.md (2026-01-27) added new material on quantum Zeno mechanism and biological precedents (cryptochrome radical pairs demonstrating Zeno effect in nature). The stapp-quantum-mind.md article should: (1) add cross-link to updated quantum-biology treatment, (2) note the new biological evidence supporting Stapp's Zeno mechanism, (3) verify alignment on decoherence timescales.
@@ -546,6 +540,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review animal-consciousness.md considering consciousness-as-intelligence-amplifier
+- **Type**: cross-review
+- **Notes**: New topic article topics/consciousness-as-intelligence-amplifier.md (2026-01-27) makes specific claims about what great apes can and cannot do (zone of latent solutions, limited cumulative culture). The animal-consciousness.md topic should: (1) cross-link to the new amplifier framework, (2) verify consistency on ape cognitive limitations, (3) consider whether the amplification framework illuminates the distribution of consciousness across species.
+- **Output**: obsidian/topics/animal-consciousness.md -- Context: Cross-review animal-consciousness.md considering consciousness-as-intelligence-amplifier
 
 ### ✓ 2026-01-27: Cross-review baseline-cognition.md considering consciousness-as-intelligence-amplifier
 - **Type**: cross-review

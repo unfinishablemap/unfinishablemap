@@ -25,6 +25,18 @@ topics: []
 - **Output**: `research/voids-computational-cognitive-limits-2026-01-27.md`
 - **Key finding**: Formal results from computability theory (halting problem, Gödel's incompleteness, Rice's theorem, Chaitin's incompleteness) and complexity theory (NP-hardness, computational irreducibility) establish mathematical limits on what any computational system can know—creating a genuine "unexplorable" void if minds are computational, or a potential window for non-computational consciousness (Penrose) if they are not.
 
+## 2026-01-27 16:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/animal-consciousness.md`
+- **Context**: Cross-review considering consciousness-as-intelligence-amplifier
+- **Word count**: 2480 → ~2520 (length-neutral, below soft threshold)
+- **Critical issues addressed**: 0 (none found—article stable from previous reviews)
+- **Medium issues addressed**: 2 (added cross-reference to consciousness-as-intelligence-amplifier, added decoherence caveat to quantum section)
+- **Enhancements made**: Added [[consciousness-as-intelligence-amplifier]] to frontmatter, inline references, and Further Reading; added appropriate hedging to quantum mechanism claims
+- **Output**: `reviews/deep-review-2026-01-27-animal-consciousness.md`
+- **Notes**: Second review of this article (previous: 2026-01-22). Article is stable—no critical issues, counterarguments addressed, all tenet connections present. Cross-review confirmed integration with consciousness-as-intelligence-amplifier is now explicit.
+
 ## 2026-01-27 18:30 UTC - deep-review
 
 - **Status**: Success
