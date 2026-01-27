@@ -4,16 +4,15 @@ description: "If consciousness influences quantum events, where does this happen
 created: 2026-01-07
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-27T15:10:40+00:00
 draft: false
 topics: []
-last_deep_review: 2026-01-19T13:45:00+00:00
+last_deep_review: 2026-01-27T15:10:40+00:00
 concepts:
   - "[[simulation]]"
   - "[[interactionist-dualism]]"
   - "[[quantum-consciousness]]"
-  - "[[interface-locality]]"
-  - "[[brain-specialness]]"
+  - "[[brain-interface-boundary]]"
   - "[[pairing-problem]]"
   - "[[binding-problem]]"
 related_articles:
@@ -28,7 +27,7 @@ last_curated: null
 
 The locality problem asks: if consciousness influences quantum events in the brain, where exactly does this happen? This seems to require consciousness to have spatial properties, coordinating across potentially billions of sites. The objection appears strong—until we consider what the universe already accomplishes, what [[interactionist-dualism|dualism]] actually implies about the "mind side," and what computational contexts reveal about interaction.
 
-The concern rests on unstated assumptions about how non-physical causation must work. Examining these assumptions dissolves much of the apparent difficulty. For the more specific question of why consciousness acts on *this* brain rather than others, see [[interface-locality]]; for what makes brains suitable interfaces at all, see [[brain-specialness]].
+The concern rests on unstated assumptions about how non-physical causation must work. Examining these assumptions dissolves much of the apparent difficulty. For the more specific question of why consciousness acts on *this* brain rather than others, and what makes brains suitable interfaces at all, see [[brain-interface-boundary]].
 
 ## The Objection Stated
 
@@ -62,7 +61,7 @@ If physical reality has billions of interacting particles, immensely complex che
 
 Consider: if consciousness is not reducible to physics, it may have its own structure—perhaps *more* complex than physical structure, not less. The experienced richness of consciousness already hints at this. A single moment of visual experience contains more differentiated content than any physical description captures.
 
-The [[brain-specialness|brain specialness]] article develops this further: neural systems may be suitable interfaces precisely because they have the right kind of complexity—representational structure, feedback integration, quantum sensitivity—to engage with a complex mind. The mind-brain pairing isn't arbitrary; it reflects structural correspondence between the non-physical and physical domains.
+The [[brain-interface-boundary]] article develops this further: neural systems may be suitable interfaces precisely because they have the right kind of complexity—representational structure, feedback integration, quantum sensitivity—to engage with a complex mind. The mind-brain pairing isn't arbitrary; it reflects structural correspondence between the non-physical and physical domains.
 
 The mind side of dualism could include:
 - Structure sufficient to engage with distributed physical events
@@ -111,13 +110,13 @@ The bidirectional interaction tenet survives the locality challenge. It faces ot
 
 ## Further Reading
 
-- [[interface-locality]] — Why consciousness acts on *this* brain specifically
-- [[brain-specialness]] — What makes neural systems suitable interfaces
+- [[brain-interface-boundary]] — Why consciousness acts on *this* brain specifically and what makes neural systems suitable interfaces
 - [[pairing-problem]] — Kim's challenge about mind-body connection
 - [[consciousness-selecting-neural-patterns]] — The broader question of whether quantum selection is coherent
 - [[simulation]] — How computational framings dissolve locality concerns
 - [[binding-problem]] — How distributed activity yields unified experience
 - [[tenets]] — The foundational commitments these concepts serve
+- [[free-will]] — How quantum selection relates to libertarian free will
 
 ## References
 

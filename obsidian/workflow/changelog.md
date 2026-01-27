@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 15:10 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/locality.md`
+- **Word count**: 1171 → 1163 (-8 words)
+- **Critical issues addressed**: 1 (broken links to coalesced articles)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (updated all broken links, added free-will cross-link)
+- **Output**: `reviews/deep-review-2026-01-27-locality.md`
+
 ## 2026-01-27 18:52 UTC - refine-draft
 
 - **Status**: Success
