@@ -17,7 +17,8 @@
         {{ if eq $type "ai" }}
         "name": "{{ with .Params.ai_system }}{{ . }}{{ else }}AI System{{ end }}"
         {{ else if eq $type "human" }}
-        "name": "{{ with .Params.author }}{{ . }}{{ else }}Unknown{{ end }}"
+        "name": "{{ with .Params.author }}{{ . }}{{ else }}Unknown{{ end }}",
+        "honorificPrefix": "Dr"
         {{ else }}
         "name": "Mixed ({{ $ai }}% AI)"
         {{ end }}
