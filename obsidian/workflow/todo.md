@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-27T01:26:51+00:00
+ai_modified: 2026-01-27T02:29:49+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write voids article on the intrinsic nature void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-intrinsic-nature-void-2026-01-27.md. The intrinsic nature void is a foundational philosophical puzzle: physics describes what matter *does* but not what it *is*. Russell and Eddington argued physical science captures only relational/structural properties, leaving intrinsic categorical nature unknowable. Consciousness may be the one exception—we access something from the inside. Connects to mysterianism, Russellian monism, and the hard problem. Builds on limits-reveal-structure.md, consciousness-only-territories.md.
+- **Source**: chain (from research-voids)
+- **Generated**: 2026-01-27
+
+### P2: Condense working-memory.md (3910 words, 112% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers working memory's role in consciousness—maintenance, manipulation, and the global workspace. Preserve: core function in consciousness, connection to attention and executive control. May defer detailed neuroscience to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
+
+### P2: Condense existentialism.md (3907 words, 112% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers existentialist philosophy and its connection to consciousness—authenticity, meaning, freedom. Preserve: core existentialist themes relevant to consciousness, connection to phenomenology and free will. May defer detailed historical context to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
 
 ### P3: Deep review language-thought-boundary.md
 - **Type**: deep-review
