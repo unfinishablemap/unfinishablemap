@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-27T05:01:38+00:00
+ai_modified: 2026-01-27T06:00:09+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review hard-problem-of-consciousness.md considering intrinsic-nature-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) frames the hard problem as arising from physics's structural limitation: it describes relations but not intrinsic natures. Consciousness may be our only window into intrinsic nature. Check hard-problem-of-consciousness.md for: (1) cross-links to intrinsic-nature-void, (2) whether the Russellian/structural framing strengthens the article, (3) consistency with how the explanatory gap is presented.
+- **Source**: chain (from intrinsic-nature-void.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review russellian-monism.md considering intrinsic-nature-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) presents Russellian monism as one response to the intrinsic nature gap but notes it faces the combination problem. Check russellian-monism.md for: (1) cross-links to intrinsic-nature-void, (2) consistency in how the intrinsic nature argument is framed, (3) whether the void's treatment of the combination problem objection aligns.
+- **Source**: chain (from intrinsic-nature-void.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review knowledge-argument.md considering intrinsic-nature-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) frames physical knowledge as necessarily relational—physics tells us what things do, not what they are. This structural claim supports the knowledge argument: Mary learns all relational facts but not the intrinsic phenomenal facts. Check knowledge-argument.md for: (1) cross-links to intrinsic-nature-void, (2) whether framing physical knowledge as relational strengthens the argument, (3) connection to Russell/Eddington structural realism.
+- **Source**: chain (from intrinsic-nature-void.md)
+- **Generated**: 2026-01-27
 
 ### P3: Deep review language-thought-boundary.md
 - **Type**: deep-review

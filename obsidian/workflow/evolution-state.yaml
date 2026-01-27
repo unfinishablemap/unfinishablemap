@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-27T05:36:50.781770+00:00'
-session_count: 964
-cycle_position: 201
+last_updated: '2026-01-27T05:46:50.781947+00:00'
+session_count: 965
+cycle_position: 202
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-01-27T02:37:10.856624+00:00'
-last_git_push: '2026-01-27T01:37:10.854393+00:00'
+last_git_push: '2026-01-27T05:46:50.781947+00:00'
 last_tweet_date: '2026-01-26'
 content_stats:
   total_files: 297
@@ -45,11 +45,20 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 5
+  p3_tasks: 61
+  needs_replenishment: false
+  last_replenishment: '2026-01-27T06:00:09+00:00'
+  replenishment_source_counts:
+    chain: 3
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
 recent_tasks:
-- task: condense (obsidian/concepts/phenomenology.md)
-  type: condense
-  date: '2026-01-27'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-01-27'
@@ -123,6 +132,10 @@ recent_tasks:
   date: '2026-01-27'
   outcome: success
 - task: deep-review
+  type: deep-review
+  date: '2026-01-27'
+  outcome: success
+- task: deep-review (obsidian/concepts/evolution-of-consciousness.md --)
   type: deep-review
   date: '2026-01-27'
   outcome: success
