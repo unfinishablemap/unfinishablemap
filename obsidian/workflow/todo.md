@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-27T22:30:00+00:00
+ai_modified: 2026-01-27T10:36:05+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review quantum-consciousness.md considering quantum-neural-mechanisms insights
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-neural-mechanisms.md (2026-01-24) provides detailed evidence on five quantum biological mechanisms in neural systems: radical pairs, proton tunneling, Fröhlich condensation, SNARE vesicle release, and Posner molecules. The quantum-consciousness.md article covers the broader framework but doesn't yet link to this detailed mechanism analysis. Check for: (1) cross-links to quantum-neural-mechanisms, (2) whether the evidence table strengthens the empirical case, (3) consistency in how decoherence timescales are discussed.
+- **Source**: chain (from quantum-neural-mechanisms.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review epiphenomenalism.md considering consciousness-as-intelligence-amplifier causal evidence
+- **Type**: cross-review
+- **Notes**: Recent article topics/consciousness-as-intelligence-amplifier.md (2026-01-27) presents evolutionary and cognitive evidence that consciousness causally contributes to intelligence. The epiphenomenalism.md article addresses the evolutionary objection but may benefit from the newer causal evidence (working memory, recursive processing, baseline cognition comparison). Check for: (1) cross-links to amplifier article, (2) whether the baseline-cognition framework strengthens the evolutionary objection, (3) opportunities to address the "systematic accompaniment" response.
+- **Source**: chain (from consciousness-as-intelligence-amplifier.md)
+- **Generated**: 2026-01-27
 
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
@@ -100,6 +112,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### P3: Deep review conceptual-impossibility.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers concepts that cannot be coherently formed—not merely unknown but structurally unthinkable. Should verify: (1) accuracy of modal collapse and self-reference arguments, (2) distinction from mere ignorance vs. structural impossibility, (3) connection to mysterianism and cognitive closure, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-27
+
+### P3: Deep review consciousness-only-territories.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories accessible only to conscious minds—acquaintance knowledge, phenomenal valence, indexical facts. The inverse of ai-as-void-explorer. Should verify: (1) accuracy of acquaintance knowledge argument (Mary's Room framing), (2) distinction between propositional and phenomenal knowledge, (3) connection to knowledge-argument.md and qualia.md, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-27
+
+### P3: Deep review destabilizing-self-knowledge.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers how certain self-knowledge destabilizes its own object—knowing you're spontaneous makes you less so, observing your natural state alters it. Should verify: (1) accuracy of observer effect claims, (2) connection to the-unobservable-self and self-reference-paradox, (3) whether the centipede's dilemma examples are apt, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-27
+
+### P3: Deep review voids.md (section index)
+- **Type**: deep-review
+- **Notes**: Section index page for voids (ai_contribution: 80), never deep-reviewed. Should verify: (1) accurate taxonomy of void types, (2) proper introduction to the voids framework, (3) up-to-date links to all voids articles, (4) clarity on what makes a "void" distinct from mere ignorance.
 - **Source**: staleness
 - **Generated**: 2026-01-27
 
