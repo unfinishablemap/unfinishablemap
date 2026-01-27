@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review knowledge-argument.md considering intrinsic-nature-void insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) frames physical knowledge as necessarily relational—physics tells us what things do, not what they are. This structural claim supports the knowledge argument: Mary learns all relational facts but not the intrinsic phenomenal facts. Check knowledge-argument.md for: (1) cross-links to intrinsic-nature-void, (2) whether framing physical knowledge as relational strengthens the argument, (3) connection to Russell/Eddington structural realism.
-- **Source**: chain (from intrinsic-nature-void.md)
-- **Generated**: 2026-01-27
-
 ### P3: Deep review language-thought-boundary.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers Wittgenstein's Tractatus limits, Sapir-Whorf research, ineffability. Should verify: (1) accuracy of philosophical positions, (2) engagement with cognitive science of language, (3) distinction from general effability topic, (4) alignment with voids framework.
@@ -474,6 +468,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review knowledge-argument.md considering intrinsic-nature-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) frames physical knowledge as necessarily relational—physics tells us what things do, not what they are. This structural claim supports the knowledge argument: Mary learns all relational facts but not the intrinsic phenomenal facts. Check knowledge-argument.md for: (1) cross-links to intrinsic-nature-void, (2) whether framing physical knowledge as relational strengthens the argument, (3) connection to Russell/Eddington structural realism.
+- **Output**: obsidian/concepts/knowledge-argument.md -- Context: Cross-review knowledge-argument.md considering intrinsic-nature-void insights
 
 ### ✓ 2026-01-27: Cross-review russellian-monism.md considering intrinsic-nature-void insights
 - **Type**: cross-review

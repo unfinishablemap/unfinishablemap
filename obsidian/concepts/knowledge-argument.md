@@ -4,7 +4,7 @@ description: "Mary knows all physical facts about color but learns something new
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-27T16:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,7 @@ concepts:
   - "[[russellian-monism]]"
   - "[[philosophical-zombies]]"
   - "[[consciousness-only-territories]]"
+  - "[[intrinsic-nature-void]]"
 related_articles:
   - "[[tenets]]"
   - "[[knowledge-argument-marys-room-2026-01-14]]"
@@ -27,7 +28,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-26T22:30:00+00:00
+last_deep_review: 2026-01-27T16:45:00+00:00
 ---
 
 The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the most influential arguments against [[materialism|physicalism]]. It uses a thought experiment—Mary's Room—to show that complete physical knowledge doesn't constitute complete knowledge. Mary, a brilliant scientist who knows every physical fact about color vision, learns something new when she first sees color. What she learns is *what it's like* to see red—a fact that physical knowledge alone could not provide. Therefore, non-physical facts exist, and physicalism is false.
@@ -130,7 +131,7 @@ Alfred North Whitehead's process philosophy offers an alternative framing. For W
 
 On this view, Mary's situation illustrates a general truth: structure never entails experience. Physical science describes patterns of relationship, but the intrinsic nature of what stands in those relationships—what Whitehead calls "subjective form"—remains inaccessible from outside. When Mary sees red, she gains access to the subjective form of a new type of occasion, something no external description could provide.
 
-This resonates with Bertrand Russell's insight that physics describes structure without revealing intrinsic nature. [[russellian-monism|Russellian monism]] develops this idea—physical science tells us what things *do*, not what they *are*. Mary learns what color experience *is* by having it, not by knowing what it does.
+This resonates with Bertrand Russell's insight that physics describes structure without revealing intrinsic nature—the [[intrinsic-nature-void]] at the heart of physical science. [[russellian-monism|Russellian monism]] develops this idea—physical science tells us what things *do*, not what they *are*. Mary's Room dramatizes this void: she possessed complete structural knowledge yet lacked intrinsic knowledge of red. What she gains upon seeing color is precisely what physics structurally cannot provide.
 
 ## What Would Challenge This View?
 
@@ -158,6 +159,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 
 ## Further Reading
 
+- [[intrinsic-nature-void]] — Why physics describes structure but not intrinsic nature—what Mary's case dramatizes
 - [[consciousness-only-territories]] — How acquaintance knowledge defines territories accessible only to conscious beings
 - [[arguments-against-materialism]] — The knowledge argument as one of seven converging anti-materialist arguments
 - [[explanatory-gap]] — The conceptual gap the knowledge argument dramatizes
