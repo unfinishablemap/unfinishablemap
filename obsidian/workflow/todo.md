@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review mysterianism.md considering computational-cognitive-limits insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/computational-cognitive-limits.md (2026-01-27) provides formal proofs of computational limits. The mysterianism.md concept article discusses McGinn's cognitive closure thesis—architectural limits on human cognition. Check for: (1) cross-links to computational limits as a specific type of cognitive closure, (2) whether Gödel/Turing limits strengthen or differ from McGinn's biological closure argument, (3) the distinction between formal (mathematical) limits and architectural (neural) limits.
-- **Source**: chain (from computational-cognitive-limits.md)
-- **Generated**: 2026-01-27
-
 ### P3: Condense first-person-third-person-methodology.md (4271 words, 171% of threshold)
 - **Type**: condense
 - **Notes**: Topic article exceeds 3500-word hard threshold. Covers methodological divide between subjective and objective consciousness research. Preserve core tensions (Nagel vs Dennett, neurophenomenology compromise) while reducing redundancy. See /condense skill.
@@ -564,6 +558,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review mysterianism.md considering computational-cognitive-limits insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/computational-cognitive-limits.md (2026-01-27) provides formal proofs of computational limits. The mysterianism.md concept article discusses McGinn's cognitive closure thesis—architectural limits on human cognition. Check for: (1) cross-links to computational limits as a specific type of cognitive closure, (2) whether Gödel/Turing limits strengthen or differ from McGinn's biological closure argument, (3) the distinction between formal (mathematical) limits and architectural (neural) limits.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering computational-cognitive-limits insights
 
 ### ✓ 2026-01-27: Cross-review ai-as-void-explorer.md considering computational-cognitive-limits insights
 - **Type**: cross-review
