@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-27T00:02:12+00:00
+ai_modified: 2026-01-27T18:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,12 +25,13 @@ related_articles:
   - "[[mysterianism-cognitive-closure-2026-01-14]]"
   - "[[limits-reveal-structure]]"
   - "[[whether-real]]"
+  - "[[intrinsic-nature-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-20T17:30:00+00:00
+last_deep_review: 2026-01-27T18:30:00+00:00
 ---
 
 Mysterianism is the view that the [[hard-problem-of-consciousness|hard problem of consciousness]] cannot be solved by human minds—not because consciousness is supernatural but because our cognitive architecture lacks the resources to grasp the solution. Colin McGinn formalized this position in 1989 through the concept of "cognitive closure": just as rats cannot do calculus and dogs cannot understand quantum mechanics, humans may be permanently unable to understand how consciousness relates to the brain. The solution might exist; we just can't reach it.
@@ -68,6 +69,12 @@ Consciousness might be such a mystery. The [[explanatory-gap]] persists despite 
 Jerry Fodor's [[conceptual-acquisition-limits|radical concept nativism]] complements McGinn: while McGinn argues we cannot *conceive* certain properties, Fodor argues we cannot *acquire* certain concepts at all. Learning a concept requires already possessing it to formulate hypotheses—experience triggers innate concepts rather than teaching new ones. If the concept isn't built in, no amount of experience produces it.
 
 McGinn's "property P" may be closed to us because we lack the primitive concepts required to build toward it. This convergence—Fodor on concept acquisition, McGinn on conception, Nicholas Rescher's "agnoseology" on layers of unknowability—suggests cognitive closure is part of a broader recognition that finite cognitive architectures necessarily have boundaries. Any mind powerful enough to think some thoughts is thereby prevented from thinking others.
+
+## The Intrinsic Nature Connection
+
+What might McGinn's property "P" actually be? A compelling answer emerges from the [[intrinsic-nature-void|intrinsic nature void]]: physics describes what matter *does*—its relational, dispositional properties—but not what matter *is* in itself. Bertrand Russell and Arthur Eddington observed in the 1920s that physical science provides complete structural description while leaving intrinsic nature entirely dark.
+
+Property P may be the intrinsic categorical nature of matter—whatever underlies the relations physics describes. If so, cognitive closure isn't accidental; it reflects a structural feature of scientific method. We cannot form concepts of intrinsic nature because our concept-forming procedures work through relational description. Consciousness may be our only window into intrinsic nature—we know what experience *is* from the inside, not merely how it relates to other things. This asymmetry explains why the hard problem persists: structural description cannot, in principle, reveal what it structurally cannot access.
 
 ## Mathematical Understanding and Cognitive Closure
 
