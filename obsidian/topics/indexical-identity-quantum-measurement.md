@@ -4,7 +4,7 @@ description: "Why does *this* consciousness experience *this* outcome? The index
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-26T22:15:00+00:00
+ai_modified: 2026-01-27T14:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated:
-last_deep_review: 2026-01-25T15:30:00+00:00
+last_deep_review: 2026-01-27T14:30:00+00:00
 ---
 
 Every interpretation of quantum mechanics faces the same unresolved question: why does *this* particular consciousness experience *this* particular measurement outcome? The [[measurement-problem]] asks why we observe definite outcomes rather than superpositions. But even granting that definite outcomes occur, a deeper problem remains—what determines which outcome *I* experience, and why am *I* experiencing any outcome at all? This is the indexical gap, and it connects quantum mechanics directly to the [[hard-problem-of-consciousness]].
@@ -57,7 +57,7 @@ Christopher Fuchs, QBism's founder, explains: "The wave function does not descri
 
 **The indexical gap**: QBism presupposes that conscious agents have determinate experiences to update beliefs *about*. If quantum probabilities are beliefs about future experiences, the theory requires that consciousness already has definite experiential content. But whence this content? QBism treats consciousness as an epistemic stance—a user of quantum theory—without explaining why consciousness exists or why it experiences anything definite.
 
-Saying "belief updating occurs after measurement" assumes measurement yields an experience to form beliefs about. QBism provides no account of why there is an experiencing subject in the first place, let alone why *this* subject has *this* experience.
+Saying "belief updating occurs after measurement" assumes measurement yields an experience to form beliefs about. But having beliefs is itself an experiential state—there is something it is like to expect spin-up rather than spin-down. QBism's subjective probabilities thus presuppose the very phenomenal determinacy they cannot explain. The theory provides no account of why there is an experiencing subject in the first place, let alone why *this* subject has *this* experience.
 
 ### Consciousness-Collapse: Why *This* Consciousness? {#collapse}
 

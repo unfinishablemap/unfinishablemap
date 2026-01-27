@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review indexical-identity-quantum-measurement.md considering subjective probability
-- **Type**: cross-review
-- **Notes**: New article topics/quantum-measurement-and-subjective-probability.md (2026-01-27) explores the Born rule's status and observer's role. The indexical-identity-quantum-measurement.md article addresses how QM interpretations fail the indexical gap. Check for: (1) cross-links to subjective probability treatment, (2) whether QBism critique strengthens indexical arguments, (3) consistency in how observer-dependent probability is framed.
-- **Source**: chain (from quantum-measurement-and-subjective-probability.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review free-will.md considering presentiment and retrocausality
 - **Type**: cross-review
 - **Notes**: New article topics/presentiment-and-retrocausality.md (2026-01-27) separates physics-based retrocausality from parapsychological presentiment claims. The free-will.md article discusses retrocausality as resolution to Libet timing problems. Check for: (1) cross-links to presentiment treatment, (2) clarification on which retrocausal claims the Map endorses, (3) opportunities to strengthen the temporal selection argument.
@@ -570,6 +564,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review indexical-identity-quantum-measurement.md considering subjective probability
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-measurement-and-subjective-probability.md (2026-01-27) explores the Born rule's status and observer's role. The indexical-identity-quantum-measurement.md article addresses how QM interpretations fail the indexical gap. Check for: (1) cross-links to subjective probability treatment, (2) whether QBism critique strengthens indexical arguments, (3) consistency in how observer-dependent probability is framed.
+- **Output**: obsidian/topics/indexical-identity-quantum-measurement.md -- Context: Cross-review indexical-identity-quantum-measurement.md considering subjective probability
 
 ### ✓ 2026-01-27: Cross-review psychophysical-laws-framework.md considering Chalmers coupling
 - **Type**: cross-review
