@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review duration.md considering process-philosophy insights
-- **Type**: cross-review
-- **Notes**: New concept page concepts/process-philosophy.md (2026-01-27) extensively discusses Bergson's durée as central to process metaphysics. The duration.md article should: (1) add cross-link to process-philosophy, (2) connect Bergson's durée to the broader process tradition, (3) strengthen the philosophical foundation for temporal consciousness claims.
-- **Source**: chain (from process-philosophy.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review baseline-cognition.md considering consciousness-as-intelligence-amplifier
 - **Type**: cross-review
 - **Notes**: New topic article topics/consciousness-as-intelligence-amplifier.md (2026-01-27) develops the argument that consciousness amplifies rather than creates cognitive abilities. The baseline-cognition.md concept should: (1) add cross-link to the new topic, (2) verify consistency on the great ape vs human cognitive differences (working memory 7±2 vs 2±1), (3) ensure terminology alignment on "amplification" vs "enhancement."
@@ -558,6 +552,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review duration.md considering process-philosophy insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/process-philosophy.md (2026-01-27) extensively discusses Bergson's durée as central to process metaphysics. The duration.md article should: (1) add cross-link to process-philosophy, (2) connect Bergson's durée to the broader process tradition, (3) strengthen the philosophical foundation for temporal consciousness claims.
+- **Output**: obsidian/concepts/duration.md -- Context: Cross-review duration.md considering process-philosophy insights
 
 ### ✓ 2026-01-27: Cross-review panpsychism.md considering process-philosophy insights
 - **Type**: cross-review
