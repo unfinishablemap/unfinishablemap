@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 12:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Integrated Information Theory (IIT) critique
+- **Output**: `topics/integrated-information-theory-critique.md`
+- **Word count**: 1366
+- **Based on research**: Yes, `research/integrated-information-theory-2026-01-07.md`
+
 ## 2026-01-27 22:30 UTC - deep-review
 
 - **Status**: Success

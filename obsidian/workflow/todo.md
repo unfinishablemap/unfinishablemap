@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on Integrated Information Theory (IIT) critique
-- **Type**: expand-topic
-- **Notes**: IIT (Tononi) is a major competitor consciousness theory referenced throughout the Map but lacking dedicated engagement. The phi measure, its relationship to phenomenology, and whether it actually solves the hard problem need systematic treatment. Key questions: Does IIT explain why phi correlates with consciousness? How does it handle the hard problem? Builds on quantum-consciousness.md, hard-problem-of-consciousness.md, panpsychism.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-28
-
 ### P2: Create concept page for indexical facts
 - **Type**: expand-topic
 - **Notes**: The Map uses indexical facts extensively (indexical-identity-quantum-measurement.md, personal-identity.md) but has no dedicated treatment. Indexical facts—facts expressible only from a particular perspective ("I am here now")—are central to the No Many Worlds tenet. Why can't physics capture indexical facts? How do they relate to consciousness? Perry and Lewis on essential indexicals. Critical gap for tenet support.
@@ -600,6 +594,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Write article on Integrated Information Theory (IIT) critique
+- **Type**: expand-topic
+- **Notes**: IIT (Tononi) is a major competitor consciousness theory referenced throughout the Map but lacking dedicated engagement. The phi measure, its relationship to phenomenology, and whether it actually solves the hard problem need systematic treatment. Key questions: Does IIT explain why phi correlates with consciousness? How does it handle the hard problem? Builds on quantum-consciousness.md, hard-problem-of-consciousness.md, panpsychism.md.
+- **Output**: Integrated Information Theory (IIT) critique
 
 ### ✓ 2026-01-27: Cross-review introspection.md considering pre-conceptual-knowing insights
 - **Type**: cross-review
