@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 18:42 UTC - condense
+
+- **Status**: Success
+- **File**: `concepts/multi-mind-collapse-problem.md`
+- **Before**: 3847 words
+- **After**: 2002 words
+- **Reduction**: 48%
+- **Technique**: Condensed "Problem Stated" section (removed redundant explanations of options), trimmed nonlocal coordination and RQM approaches (link to research note), removed "Lessons from RQM" section (redundant with RQM approach), cut Process Philosophy section substantially (kept core insight), reduced "What Would Challenge" from 6 to 4 items (defer detailed treatment to interface-locality), condensed illusionist challenge (removed separate subsection headings), tightened objections and responses (removed entanglement objection—covered in challenges), shortened tenet connections while preserving all five, trimmed Further Reading from 12 to 6 most relevant links.
+- **Preserved**: Opening summary with resolution, four approaches structure, core interface locality and objective collapse arguments, decoherence challenge, all tenet connections, summary, references.
+
 ## 2026-01-27 07:10 UTC - condense
 
 - **Status**: Success

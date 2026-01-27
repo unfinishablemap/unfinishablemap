@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Condense multi-mind-collapse-problem.md (3847 words, 154% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the philosophical puzzle of whose consciousness counts for collapse when multiple observers are present. Preserve: core problem formulation, response strategies, connection to haecceity. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-27
-
 ### P3: Condense sleep-and-consciousness.md (3816 words, 153% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for topics/. Covers consciousness states across sleep stages. Preserve: core distinctions between NREM/REM consciousness, connection to neural correlates and quantum interface. See /condense skill.
@@ -492,6 +486,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Condense multi-mind-collapse-problem.md (3847 words, 154% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the philosophical puzzle of whose consciousness counts for collapse when multiple observers are present. Preserve: core problem formulation, response strategies, connection to haecceity. See /condense skill.
+- **Output**: obsidian/concepts/multi-mind-collapse-problem.md
 
 ### ✓ 2026-01-27: Condense philosophical-zombies.md (3906 words, 156% of threshold)
 - **Type**: condense
