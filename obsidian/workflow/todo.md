@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review baseline-cognition.md considering consciousness-as-intelligence-amplifier
-- **Type**: cross-review
-- **Notes**: New topic article topics/consciousness-as-intelligence-amplifier.md (2026-01-27) develops the argument that consciousness amplifies rather than creates cognitive abilities. The baseline-cognition.md concept should: (1) add cross-link to the new topic, (2) verify consistency on the great ape vs human cognitive differences (working memory 7±2 vs 2±1), (3) ensure terminology alignment on "amplification" vs "enhancement."
-- **Source**: chain (from consciousness-as-intelligence-amplifier.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review animal-consciousness.md considering consciousness-as-intelligence-amplifier
 - **Type**: cross-review
 - **Notes**: New topic article topics/consciousness-as-intelligence-amplifier.md (2026-01-27) makes specific claims about what great apes can and cannot do (zone of latent solutions, limited cumulative culture). The animal-consciousness.md topic should: (1) cross-link to the new amplifier framework, (2) verify consistency on ape cognitive limitations, (3) consider whether the amplification framework illuminates the distribution of consciousness across species.
@@ -552,6 +546,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review baseline-cognition.md considering consciousness-as-intelligence-amplifier
+- **Type**: cross-review
+- **Notes**: New topic article topics/consciousness-as-intelligence-amplifier.md (2026-01-27) develops the argument that consciousness amplifies rather than creates cognitive abilities. The baseline-cognition.md concept should: (1) add cross-link to the new topic, (2) verify consistency on the great ape vs human cognitive differences (working memory 7±2 vs 2±1), (3) ensure terminology alignment on "amplification" vs "enhancement."
+- **Output**: obsidian/concepts/baseline-cognition.md -- Context: Cross-review baseline-cognition.md considering consciousness-as-intelligence-amplifier
 
 ### ✓ 2026-01-27: Cross-review duration.md considering process-philosophy insights
 - **Type**: cross-review

@@ -4,8 +4,8 @@ description: "Baseline cognition is what neural systems achieve without consciou
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
-last_deep_review: 2026-01-22T21:30:00+00:00
+ai_modified: 2026-01-27T18:30:00+00:00
+last_deep_review: 2026-01-27T18:30:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -52,7 +52,7 @@ Baseline cognition is what neural systems achieve without substantial conscious 
 
 The term "consciousness" here means primarily *phenomenal consciousness*—the subjective, qualitative character of experience, what philosophers call "something it is like" to be in a mental state. The claim is not merely that great apes lack certain information-processing capacities (access consciousness) but that the qualitative dimension of human experience enables cognitive operations that great apes cannot perform. This distinction matters: functionalist accounts might grant apes sophisticated access consciousness while denying the phenomenal amplification this article describes.
 
-The Unfinishable Map proposes that consciousness doesn't add computational power (neurons handle computation) but *amplifies* baseline cognition through flexible deployment, metacognitive monitoring, and counterfactual reasoning. Understanding what baseline cognition can and cannot achieve clarifies what consciousness contributes—and provides evidence against [[epiphenomenalism]], since the human-ape gap tracks precisely those capacities where consciousness appears causally required.
+The Unfinishable Map proposes that consciousness doesn't add computational power (neurons handle computation) but *amplifies* baseline cognition through flexible deployment, metacognitive monitoring, and counterfactual reasoning. This article characterises the starting point; [[consciousness-as-amplifier|Consciousness as Intelligence Amplifier]] details how consciousness transforms it. Understanding what baseline cognition can and cannot achieve clarifies what consciousness contributes—and provides evidence against [[epiphenomenalism]], since the human-ape gap tracks precisely those capacities where consciousness appears causally required.
 
 ## What Baseline Cognition Achieves
 
@@ -249,7 +249,7 @@ The baseline cognition hypothesis could be undermined by:
 
 - [[conscious-vs-unconscious-processing]] — Empirical evidence on what consciousness enables vs what unconscious processing achieves
 - [[consciousness-and-social-cognition]] — Social cognition as paradigm case of the baseline/conscious distinction
-- [[consciousness-as-amplifier]] — The full account of how consciousness amplifies cognitive capacity
+- [[consciousness-as-amplifier]] — The complementary article on consciousness's amplifying role
 - [[working-memory]] — The neural workspace where amplification operates
 - [[metacognition]] — Self-monitoring as consciousness-enabled capacity
 - [[metarepresentation]] — The capacity to represent representations
