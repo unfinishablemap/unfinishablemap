@@ -20,6 +20,19 @@ topics: []
 ## 2026-01-27 - expand-topic
 
 - **Status**: Success
+- **Topic**: Chalmers on psychophysical coupling
+- **Output**: `topics/chalmers-psychophysical-coupling.md`
+- **Word count**: 2224
+- **Based on research**: Yes, multiple research files (`research/chalmers-psychophysical-laws-2026-01-17.md`, `research/psychophysical-coupling-problem-2026-01-15.md`, `research/psychophysical-coupling-law-mechanisms-2026-01-23.md`)
+- **Key decisions**:
+  - Placed in topics/ as it addresses Chalmers' philosophical framework for bridging mind and matter
+  - Distinguished from existing psychophysical-laws.md (concept) and psychophysical-laws-framework.md (overview) by focusing specifically on Chalmers' contributions
+  - Emphasized where the Map builds on vs diverges from Chalmers (organizational invariance, epiphenomenalism, downward causation)
+  - Treated Chalmers-McQueen (2022) quantum development and super-resistance principle
+
+## 2026-01-27 - expand-topic
+
+- **Status**: Success
 - **Topic**: Quantum measurement and subjective probability
 - **Output**: `topics/quantum-measurement-and-subjective-probability.md`
 - **Word count**: 1777

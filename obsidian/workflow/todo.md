@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on psychophysical coupling mechanisms (Chalmers)
-- **Type**: expand-topic
-- **Notes**: Research completed in research/chalmers-psychophysical-laws-2026-01-17.md. Develops Chalmers's framework for lawful connections between physical and phenomenal domains. The Map's Bidirectional Interaction tenet requires such laws; this article would provide philosophical grounding. Builds on hard-problem-of-consciousness.md, interactionist-dualism.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-27
-
 ### P2: Write article on decoherence and macroscopic superposition
 - **Type**: expand-topic
 - **Notes**: Research completed in research/decoherence-macroscopic-superposition-2026-01-14.md. Systematic treatment of the decoherence objection to quantum consciousness. How quickly does decoherence occur in neural systems? What mechanisms might protect quantum coherence? Essential context for Minimal Quantum Interaction tenet. Builds on decoherence.md, quantum-consciousness.md.
@@ -570,6 +564,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Write article on psychophysical coupling mechanisms (Chalmers)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/chalmers-psychophysical-laws-2026-01-17.md. Develops Chalmers's framework for lawful connections between physical and phenomenal domains. The Map's Bidirectional Interaction tenet requires such laws; this article would provide philosophical grounding. Builds on hard-problem-of-consciousness.md, interactionist-dualism.md.
+- **Output**: psychophysical coupling mechanisms (Chalmers)
 
 ### ✓ 2026-01-27: Write article on quantum measurement and subjective probability
 - **Type**: expand-topic
