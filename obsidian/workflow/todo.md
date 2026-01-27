@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review limits-reveal-structure.md considering intrinsic nature void
-- **Type**: cross-review
-- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) argues the intrinsic nature void is structural rather than merely unsolved—physics advances by discovering relations, so intrinsic nature lies permanently outside its method. The limits-reveal-structure.md article argues that limits themselves are informative. Check for: (1) cross-links to intrinsic nature void, (2) whether the intrinsic nature void exemplifies the limits-reveal-structure thesis—this particular limit reveals that physical science is structural description, (3) the Russell-Eddington insight as paradigm case.
-- **Source**: chain (from intrinsic-nature-void.md)
-- **Generated**: 2026-01-27
-
 ### P2: Condense working-memory.md (3910 words, 112% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the workspace where conscious processing occurs—central to GWT, attention, and the consciousness-cognition interface. Preserve: core working memory models (Baddeley, Cowan), relationship to consciousness, connection to attention and binding. May defer detailed neuroscience to linked articles. See /condense skill.
@@ -466,6 +460,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review limits-reveal-structure.md considering intrinsic nature void
+- **Type**: cross-review
+- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) argues the intrinsic nature void is structural rather than merely unsolved—physics advances by discovering relations, so intrinsic nature lies permanently outside its method. The limits-reveal-structure.md article argues that limits themselves are informative. Check for: (1) cross-links to intrinsic nature void, (2) whether the intrinsic nature void exemplifies the limits-reveal-structure thesis—this particular limit reveals that physical science is structural description, (3) the Russell-Eddington insight as paradigm case.
+- **Output**: obsidian/voids/limits-reveal-structure.md -- Context: Cross-review limits-reveal-structure.md considering intrinsic nature void
 
 ### ✓ 2026-01-27: Cross-review mysterianism.md considering intrinsic nature void insights
 - **Type**: cross-review
