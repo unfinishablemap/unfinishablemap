@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review psychophysical-laws.md considering chalmers-psychophysical-coupling insights
-- **Type**: cross-review
-- **Notes**: New article topics/chalmers-psychophysical-coupling.md (2026-01-27) develops Chalmers's specific framework for psychophysical laws. The existing psychophysical-laws.md concept page gives broader treatment. Check for: (1) cross-links between general and Chalmers-specific treatments, (2) whether the new article's structural coupling mechanisms enrich the concept page, (3) avoid redundancy by ensuring complementary rather than overlapping coverage.
-- **Source**: chain (from chalmers-psychophysical-coupling.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review libet-experiments.md considering quantum-measurement-and-subjective-probability insights
 - **Type**: cross-review
 - **Notes**: New article topics/quantum-measurement-and-subjective-probability.md (2026-01-27) examines how subjective probability emerges in quantum measurement. The Libet experiments page discusses timing of conscious will. Check for: (1) cross-links to quantum measurement treatment, (2) whether quantum timing considerations reframe Libet interpretation, (3) connection between subjective probability and the experience of choosing.
@@ -594,6 +588,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review psychophysical-laws.md considering chalmers-psychophysical-coupling insights
+- **Type**: cross-review
+- **Notes**: New article topics/chalmers-psychophysical-coupling.md (2026-01-27) develops Chalmers's specific framework for psychophysical laws. The existing psychophysical-laws.md concept page gives broader treatment. Check for: (1) cross-links between general and Chalmers-specific treatments, (2) whether the new article's structural coupling mechanisms enrich the concept page, (3) avoid redundancy by ensuring complementary rather than overlapping coverage.
+- **Output**: obsidian/concepts/psychophysical-laws.md -- Context: Cross-review psychophysical-laws.md considering chalmers-psychophysical-coupling insights
 
 ### ✓ 2026-01-27: Cross-review retrocausality.md considering presentiment-and-retrocausality insights
 - **Type**: cross-review
