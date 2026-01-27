@@ -4,9 +4,9 @@ description: "Mental states become conscious when we become aware of them. HOT e
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-27T17:30:00+00:00
 draft: false
-last_deep_review: 2026-01-19T22:50:00+00:00
+last_deep_review: 2026-01-27T17:30:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
@@ -161,7 +161,7 @@ HOT theorists might argue unconscious higher-order thoughts persist during dream
 
 Buddhist and other contemplative traditions report states of awareness *without* the subject-object structure HOT requires. Advanced meditators describe "choiceless awareness" or "pure consciousness" where the observer-observed distinction dissolves. If these reports are accurate, they describe consciousness without higher-order targeting—the first-order experience is its own awareness rather than being made conscious by a separate meta-representation.
 
-HOT theorists might dismiss such reports as misinterpretation or might claim subtle higher-order processes persist. The disagreement may be unresolvable empirically, which itself suggests HOT operates more as a philosophical framework than an empirical theory.
+HOT theorists might dismiss such reports as misinterpretation or might claim subtle higher-order processes persist. First-person reports, however detailed, cannot directly settle third-person theoretical questions—the disagreement may be unresolvable empirically, which itself suggests HOT operates more as a philosophical framework than an empirical theory.
 
 ## Connection to Self-Reference
 
@@ -199,7 +199,7 @@ HOT might respond that the beliefs *are* accurate because they just *are* the co
 
 HOT operates at the cognitive level without invoking [[tenets#^minimal-quantum-interaction|quantum mechanics]]. If HOT were correct, consciousness would be a classical computational phenomenon—no room for the quantum interface the Map proposes. This represents a fundamental disagreement about the level at which mind and matter meet.
 
-The disagreement has empirical implications. HOT predicts consciousness should be fully explicable in terms of classical neural computation—higher-order representations implemented in prefrontal circuits. The Map's quantum proposal predicts anomalies: effects of consciousness on physical outcomes that classical HOT cannot accommodate, potentially detectable as correlations between conscious states and quantum measurement outcomes.
+The disagreement has empirical implications. HOT predicts consciousness should be fully explicable in terms of classical neural computation. The Map's quantum proposal predicts anomalies that classical HOT cannot accommodate—though detecting such effects remains technically challenging.
 
 HOT's classical framing also affects its treatment of [[mental-causation|mental causation]]. If higher-order thoughts are just neural computations, they inherit whatever causal efficacy neural computations have—but this is garden-variety physical causation, not the distinctive mental causation the Map's framework requires. The felt efficacy of conscious effort, attention, and decision would be epiphenomenal: the computation does the work while consciousness watches. HOT thus struggles with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet for reasons beyond its bottom-up framing.
 
