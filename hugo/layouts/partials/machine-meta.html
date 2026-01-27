@@ -27,7 +27,7 @@
         "url": "https://unfinishablemap.org"
     },
     {{ with .Params.concepts }}
-    "keywords": [{{ range $i, $c := . }}{{ if $i }}, {{ end }}"{{ $c }}"{{ end }}],
+    "keywords": [{{ range $i, $c := . }}{{ if $i }}, {{ end }}"{{ $c | replaceRE `\[\[|\]\]` "" }}"{{ end }}],
     {{ end }}
     "publisher": {
         "@type": "Organization",
