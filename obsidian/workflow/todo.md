@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense self-reference-paradox.md (3499 words, 175% of threshold)
-- **Type**: condense
-- **Notes**: Voids article exceeds 3000-word hard threshold for voids/. Covers consciousness studying itself as a fundamental void—the paradox of the observer observing observation. Preserve: core self-reference puzzle, connection to Gödel-like limitations, phenomenology of introspecting introspection. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P3: Condense introspection.md (4159 words, 166% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers first-person access to mental states and reliability debates. Preserve engagement with introspection skeptics while removing redundancy. May defer detailed methodology to phenomenology.md. See /condense skill.
@@ -424,6 +418,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Condense self-reference-paradox.md (3499 words, 175% of threshold)
+- **Type**: condense
+- **Notes**: Voids article exceeds 3000-word hard threshold for voids/. Covers consciousness studying itself as a fundamental void—the paradox of the observer observing observation. Preserve: core self-reference puzzle, connection to Gödel-like limitations, phenomenology of introspecting introspection. See /condense skill.
+- **Output**: obsidian/voids/self-reference-paradox.md
 
 ### ✓ 2026-01-27: Condense temporal-asymmetry-remembering-anticipating.md (3551 words, 178% of threshold)
 - **Type**: condense
