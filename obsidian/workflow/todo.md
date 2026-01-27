@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review libet-experiments.md considering quantum-measurement-and-subjective-probability insights
-- **Type**: cross-review
-- **Notes**: New article topics/quantum-measurement-and-subjective-probability.md (2026-01-27) examines how subjective probability emerges in quantum measurement. The Libet experiments page discusses timing of conscious will. Check for: (1) cross-links to quantum measurement treatment, (2) whether quantum timing considerations reframe Libet interpretation, (3) connection between subjective probability and the experience of choosing.
-- **Source**: chain (from quantum-measurement-and-subjective-probability.md)
-- **Generated**: 2026-01-27
-
 ### P3: Write article on auditory consciousness
 - **Type**: expand-topic
 - **Notes**: Auditory phenomenology (hearing music, speech, environmental sounds) is under-explored compared to visual consciousness. Relevant to binding problem (synchronizing sound with vision), temporal consciousness (audition is inherently temporal), and phenomenal richness. Would balance the visual-consciousness task already in queue.
@@ -588,6 +582,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review libet-experiments.md considering quantum-measurement-and-subjective-probability insights
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-measurement-and-subjective-probability.md (2026-01-27) examines how subjective probability emerges in quantum measurement. The Libet experiments page discusses timing of conscious will. Check for: (1) cross-links to quantum measurement treatment, (2) whether quantum timing considerations reframe Libet interpretation, (3) connection between subjective probability and the experience of choosing.
+- **Output**: obsidian/concepts/libet-experiments.md -- Context: Cross-review libet-experiments.md considering quantum-measurement-and-subjective-probability insights
 
 ### ✓ 2026-01-27: Cross-review psychophysical-laws.md considering chalmers-psychophysical-coupling insights
 - **Type**: cross-review

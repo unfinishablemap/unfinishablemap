@@ -2,10 +2,10 @@
 title: "Libet Experiments and the Neuroscience of Volition"
 description: "Do brains decide before we're aware? The readiness potential may be noise, not decision. Consciousness retains genuine causal power over action."
 created: 2026-01-14
-modified: 2026-01-20
+modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
-last_deep_review: 2026-01-20T01:30:00+00:00
+ai_modified: 2026-01-27T20:54:30+00:00
+last_deep_review: 2026-01-27T20:54:30+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -21,9 +21,11 @@ concepts:
   - "[[luck-objection]]"
   - "[[decoherence]]"
   - "[[illusionism]]"
+  - "[[phenomenal-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[libet-experiments-free-will-2026-01-07]]"
+  - "[[quantum-measurement-and-subjective-probability]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -169,6 +171,8 @@ The Libet experiments engage directly with the Map's core commitments.
 
 **Against [[epiphenomenalism]]**: If consciousness were epiphenomenal, our beliefs about consciousness would be produced by neural processes unconnected to consciousness itself. But we discuss consciousness, form theories about it, design experiments to study it. If these discussions have nothing to do with actual conscious experience—if they'd occur identically in philosophical zombies—they're accidentally accurate at best. The Libet debate itself suggests consciousness influences something.
 
+**The indexical gap**: Any account of conscious selection faces a deeper question: why does *this* consciousness exist to select *this* outcome? The retrocausal framework explains how consciousness might influence timing; it doesn't explain why there is [[phenomenal-consciousness|phenomenal experience]] at all, or why this particular subject exists (see [[quantum-measurement-and-subjective-probability]]). This is the same gap that consciousness-collapse theories face. The Map acknowledges this as an open problem rather than a solved one—the Libet evidence addresses causal efficacy, not the hard problem of why experience exists.
+
 ## What Would Challenge This View?
 
 The Map's interpretation of Libet is falsifiable. Evidence against it would include:
@@ -200,6 +204,8 @@ The Map's position is that current evidence supports selection over randomness, 
 - [[epiphenomenalism]] — The view these experiments seem to support, and its problems
 - [[interactionist-dualism]] — The framework that makes conscious selection coherent
 - [[agent-causation]] — The metaphysics of conscious causation
+- [[phenomenal-consciousness]] — The reality of qualitative experience
+- [[quantum-measurement-and-subjective-probability]] — Why subjective probability interpretations fail phenomenologically
 - [[libet-experiments-free-will-2026-01-07]] — Detailed research notes
 
 ## References
