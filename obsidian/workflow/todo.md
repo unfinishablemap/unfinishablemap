@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review qualia.md considering pre-conceptual-knowing insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/pre-conceptual-knowing.md (2026-01-27) examines whether conceptual thought creates barriers to modes of knowing available to non-conceptual beings. The qualia.md concept discusses phenomenal properties that resist conceptual capture. Check for: (1) cross-links to pre-conceptual knowing treatment, (2) whether the fineness-of-grain argument connects to qualia ineffability, (3) integration of Russell's knowledge by acquaintance as support for qual irreducibility.
-- **Source**: chain (from pre-conceptual-knowing.md)
-- **Generated**: 2026-01-28
-
 ### P2: Cross-review introspection.md considering pre-conceptual-knowing insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/pre-conceptual-knowing.md (2026-01-27) raises whether introspection can access pre-conceptual content. The introspection.md concept discusses first-person methods and their reliability. Check for: (1) cross-links to pre-conceptual knowing, (2) whether the article addresses limits of conceptual introspection, (3) connection to contemplative methods as approaches to non-conceptual awareness.
@@ -612,6 +606,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review qualia.md considering pre-conceptual-knowing insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/pre-conceptual-knowing.md (2026-01-27) examines whether conceptual thought creates barriers to modes of knowing available to non-conceptual beings. The qualia.md concept discusses phenomenal properties that resist conceptual capture. Check for: (1) cross-links to pre-conceptual knowing treatment, (2) whether the fineness-of-grain argument connects to qualia ineffability, (3) integration of Russell's knowledge by acquaintance as support for qual irreducibility.
+- **Output**: obsidian/concepts/qualia.md -- Context: Cross-review qualia.md considering pre-conceptual-knowing insights
 
 ### ✓ 2026-01-27: Cross-review libet-experiments.md considering quantum-measurement-and-subjective-probability insights
 - **Type**: cross-review

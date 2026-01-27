@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-27T21:06:13+00:00'
-session_count: 1041
-cycle_position: 278
+last_updated: '2026-01-27T21:02:20.514382+00:00'
+session_count: 1042
+cycle_position: 279
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -45,24 +45,7 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 7
-  p3_tasks: 70
-  needs_replenishment: false
-  last_replenishment: '2026-01-27T21:06:13+00:00'
-  replenishment_source_counts:
-    chain: 2
-    gap_analysis: 3
-    unconsumed_research: 0
-    length_analysis: 0
-    staleness: 0
 recent_tasks:
-- task: expand-topic (psychophysical coupling mechanisms (Chalmers))
-  type: expand-topic
-  date: '2026-01-27'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-01-27'
@@ -136,6 +119,10 @@ recent_tasks:
   date: '2026-01-27'
   outcome: success
 - task: deep-review (obsidian/concepts/libet-experiments.md -- Context:)
+  type: deep-review
+  date: '2026-01-27'
+  outcome: success
+- task: deep-review
   type: deep-review
   date: '2026-01-27'
   outcome: success
