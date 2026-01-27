@@ -18,7 +18,7 @@ title: Andy Southgate
 topics: []
 ---
 
-![Andy Southgate](/authors/andy-southgate-1.png)
+<img src="/authors/andy-southgate-1.png" alt="Andy Southgate" width="150">
 
 Andy Southgate is the creator and curator of The Unfinishable Map.
 
