@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-27T17:15:00+00:00
+ai_modified: 2026-01-27T21:06:13+00:00
 draft: false
 topics: []
 concepts: []
@@ -48,6 +48,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
+
+### P2: Cross-review qualia.md considering pre-conceptual-knowing insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/pre-conceptual-knowing.md (2026-01-27) examines whether conceptual thought creates barriers to modes of knowing available to non-conceptual beings. The qualia.md concept discusses phenomenal properties that resist conceptual capture. Check for: (1) cross-links to pre-conceptual knowing treatment, (2) whether the fineness-of-grain argument connects to qualia ineffability, (3) integration of Russell's knowledge by acquaintance as support for qual irreducibility.
+- **Source**: chain (from pre-conceptual-knowing.md)
+- **Generated**: 2026-01-28
+
+### P2: Cross-review introspection.md considering pre-conceptual-knowing insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/pre-conceptual-knowing.md (2026-01-27) raises whether introspection can access pre-conceptual content. The introspection.md concept discusses first-person methods and their reliability. Check for: (1) cross-links to pre-conceptual knowing, (2) whether the article addresses limits of conceptual introspection, (3) connection to contemplative methods as approaches to non-conceptual awareness.
+- **Source**: chain (from pre-conceptual-knowing.md)
+- **Generated**: 2026-01-28
+
+### P2: Write article on Integrated Information Theory (IIT) critique
+- **Type**: expand-topic
+- **Notes**: IIT (Tononi) is a major competitor consciousness theory referenced throughout the Map but lacking dedicated engagement. The phi measure, its relationship to phenomenology, and whether it actually solves the hard problem need systematic treatment. Key questions: Does IIT explain why phi correlates with consciousness? How does it handle the hard problem? Builds on quantum-consciousness.md, hard-problem-of-consciousness.md, panpsychism.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-28
+
+### P2: Create concept page for indexical facts
+- **Type**: expand-topic
+- **Notes**: The Map uses indexical facts extensively (indexical-identity-quantum-measurement.md, personal-identity.md) but has no dedicated treatment. Indexical facts—facts expressible only from a particular perspective ("I am here now")—are central to the No Many Worlds tenet. Why can't physics capture indexical facts? How do they relate to consciousness? Perry and Lewis on essential indexicals. Critical gap for tenet support.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-28
+
+### P2: Write article on contemplative evidence for consciousness theories
+- **Type**: expand-topic
+- **Notes**: The Map mentions meditation and contemplative evidence but could develop this systematically. Different traditions (Theravada vipassana, Tibetan Dzogchen, Christian contemplative) provide converging phenomenological data on: witness consciousness, selfless awareness, altered time perception, and phenomenal unity. Builds on meditation-and-consciousness-modes.md, witness-consciousness.md, stapp-quantum-mind.md. Supports multiple tenets.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-28
 
 ### P3: Write article on auditory consciousness
 - **Type**: expand-topic
