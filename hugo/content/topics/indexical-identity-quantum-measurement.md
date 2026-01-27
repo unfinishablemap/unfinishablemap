@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-27 14:30:00+00:00
+ai_modified: 2026-01-27 23:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[many-worlds]]'
 - '[[mind-matter-interface]]'
 - '[[interactionist-dualism]]'
-- '[[quantum-probability-and-consciousness]]'
+- '[[quantum-probability-consciousness]]'
 created: 2026-01-23
 date: &id001 2026-01-25
 description: Why does *this* consciousness experience *this* outcome? The indexical
@@ -99,7 +99,7 @@ Fuchs writes that participatory realism represents "attempts to make a deep stat
 
 ## Three Readings of Quantum Probability
 
-The indexical gap has implications for understanding what quantum probabilities actually describe. The [quantum-probability-and-consciousness](/concepts/quantum-probability-and-consciousness/) article develops three distinct readings:
+The indexical gap has implications for understanding what quantum probabilities actually describe. The [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) article develops three distinct readings:
 
 **Objective reading**: Born probabilities are propensities—real features of physical systems that would yield the same statistics regardless of observers. On this view, a radioactive atom has a 50% probability of decaying in one half-life whether or not anyone is watching. Consciousness is irrelevant.
 
@@ -150,7 +150,7 @@ This topic intersects all five tenets:
 ## Further Reading
 
 - [haecceity](/concepts/haecceity/) - The quality of being *this* particular thing
-- [quantum-probability-and-consciousness](/concepts/quantum-probability-and-consciousness/) - Three readings of the Born rule
+- [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) - Three readings of the Born rule
 - [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) - Survey of interpretations
 - [measurement-problem](/concepts/measurement-problem/) - Why definite outcomes occur
 - [mind-matter-interface](/concepts/mind-matter-interface/) - How consciousness meets matter

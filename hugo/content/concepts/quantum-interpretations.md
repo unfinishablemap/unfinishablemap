@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-27 23:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,7 +19,7 @@ concepts:
 - '[[buddhism-and-dualism]]'
 - '[[quantum-coherence-protection]]'
 - '[[decoherence]]'
-- '[[subjective-probability-quantum-measurement]]'
+- '[[quantum-probability-consciousness]]'
 created: 2026-01-17
 date: &id001 2026-01-23
 description: Survey of quantum interpretations and their consciousness implications.
@@ -32,7 +32,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[qm-interpretations-beyond-mwi-2026-01-16]]'
-- '[[subjective-probability-quantum-measurement]]'
+- '[[quantum-probability-consciousness]]'
 title: Interpretations of Quantum Mechanics
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -142,7 +142,7 @@ Answers fall into three categories:
 
 ## How Interpretations Handle Probability
 
-Each interpretation must account for the Born rule—the squared amplitude giving measurement probabilities. The [subjective-probability-quantum-measurement](/concepts/subjective-probability-quantum-measurement/) article examines this in depth, revealing how probability treatment exposes each interpretation's stance on consciousness.
+Each interpretation must account for the Born rule—the squared amplitude giving measurement probabilities. The [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) article examines this in depth, revealing how probability treatment exposes each interpretation's stance on consciousness.
 
 **The Standard View (Copenhagen, Collapse Theories):** Born probabilities are objective propensities—features of physical reality independent of any observer. The radioactive atom *has* a 50% chance of decaying. This works for statistics but struggles with single cases: what does "propensity" mean for *this* atom? And it leaves consciousness entirely outside the picture.
 
@@ -306,7 +306,7 @@ The choice of quantum interpretation bears directly on all five [tenets](/tenets
 ## Further Reading
 
 ### Interpretations and Physics
-- [subjective-probability-quantum-measurement](/concepts/subjective-probability-quantum-measurement/) — How each interpretation handles Born rule probabilities and the first-person gap
+- [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — How each interpretation handles Born rule probabilities and the first-person gap
 - [measurement-problem](/concepts/measurement-problem/) — The problem all interpretations address
 - [many-worlds](/arguments/many-worlds/) — Why the Map rejects MWI
 - [relational-quantum-mechanics](/concepts/relational-quantum-mechanics/) — Rovelli's interpretation and why the Map rejects it

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-27 19:45:00+00:00
+ai_modified: 2026-01-27 23:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,12 +26,13 @@ description: 'Backward causation in time-symmetric quantum mechanics. Resolves t
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-21 01:00:00+00:00
+last_deep_review: 2026-01-27 23:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[libet-experiments-free-will-2026-01-07]]'
 - '[[retrocausal-neural-firing-presentiment-2026-01-23]]'
+- '[[presentiment-and-retrocausality]]'
 title: Retrocausality
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -119,9 +120,9 @@ The Map's [temporal framework](/topics/time-collapse-and-agency/) proposes a **m
 
 ## Presentiment Research
 
-Separate from physics-based retrocausality, parapsychological "presentiment" research claims physiological responses precede randomly selected future stimuli. Meta-analyses report small effects, but skeptics cite replication failures, Bayesian reanalysis showing weak evidence, and biological implausibility. See [research notes](/research/retrocausal-neural-firing-presentiment-2026-01-23/) for details.
+Separate from physics-based retrocausality, parapsychological "presentiment" research claims physiological responses precede randomly selected future stimuli. Meta-analyses report small effects, but skeptics cite replication failures, Bayesian reanalysis showing weak evidence, and biological implausibility. See [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) for a detailed treatment distinguishing the two lines of inquiry.
 
-The Map grounds retrocausality in physics—the transactional interpretation, Wheeler's delayed-choice, time-symmetric equations—not parapsychology. Even if presentiment were genuine, it concerns *unconscious* anticipation, not *conscious* selection. The Map acknowledges this research as contested while maintaining its physics-based commitments.
+The Map grounds retrocausality in physics—the transactional interpretation, Wheeler's delayed-choice, time-symmetric equations—not parapsychology. The mechanism gap matters: neural quantum selection involves quantum events at synapses and ion channels, plausibly interfacing with measurement. Presentiment would require amplifying retrocausality to coordinated responses across millions of cells anticipating external events—a qualitatively larger gap. Even if presentiment were genuine, it concerns *unconscious* anticipation, not *conscious* selection. The Map acknowledges this research as contested while maintaining its physics-based commitments.
 
 ## What Would Challenge This View?
 
@@ -156,6 +157,7 @@ The Libet experiments don't refute conscious causation; they reveal that conscio
 - [collapse-and-time](/concepts/collapse-and-time/) — Collapse, temporal asymmetry, and consciousness
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — The Map's full temporal framework
 - [libet-experiments](/concepts/libet-experiments/) — Libet's experiments and the Schurger critique
+- [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Distinguishing physics-based retrocausality from contested parapsychology
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR and Stapp's Zeno mechanisms
 - [motor-selection](/concepts/motor-selection/) — Motor control as second selection domain
 - [tenets](/tenets/) — Foundational commitments

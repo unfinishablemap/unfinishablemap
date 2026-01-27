@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-27 17:15:00+00:00
+ai_modified: 2026-01-27 21:06:13+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -48,18 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
-- **Generated**: 2026-01-27
-
-### P2: Cross-review quantum-binding-and-phenomenal-unity.md considering quantum biology
-- **Type**: cross-review
-- **Notes**: New article topics/quantum-biology-and-the-consciousness-debate.md (2026-01-27) provides empirical evidence for quantum effects in neural systems. The quantum-binding-and-phenomenal-unity.md article argues that quantum entanglement may explain phenomenal unity. Check for: (1) cross-links to quantum biology evidence, (2) whether the empirical findings strengthen the binding argument, (3) consistency in how decoherence challenges are addressed.
-- **Source**: chain (from quantum-biology-and-the-consciousness-debate.md)
-- **Generated**: 2026-01-27
-
-### P3: Write article on auditory consciousness
-- **Type**: expand-topic
-- **Notes**: Auditory phenomenology (hearing music, speech, environmental sounds) is under-explored compared to visual consciousness. Relevant to binding problem (synchronizing sound with vision), temporal consciousness (audition is inherently temporal), and phenomenal richness. Would balance the visual-consciousness task already in queue.
-- **Source**: gap_analysis
 - **Generated**: 2026-01-27
 
 ### P3: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
@@ -557,8 +545,107 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
+### P3: Write article on phenomenology of temporal experience
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28. What the experience of time actually consists of; how the "specious present" bears on physics-consciousness interface; phenomenological evidence for or against temporal flow. Builds on retrocausality.md, philosophy-of-time.md, witness-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Write article on quantum measurement and definite outcomes
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28. The gap between "mixture of possibilities" and "one actual outcome" that decoherence doesn't close; why this gap is where consciousness might operate. Builds on measurement-problem.md, decoherence.md, collapse-and-time.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Write article on neural implementation specifics
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28. Which of the five proposed mechanisms (radical pairs, ion tunnelling, microtubules, synaptic tunnelling, Posner molecules) has strongest evidence; what experiments would distinguish them. Builds on quantum-neural-mechanisms.md, quantum-biology.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for specious present (dedicated)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28. The phenomenology of the experienced moment—central to temporal consciousness and potentially relevant to collapse timing. Currently mentioned but not treated systematically in its own page.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for time-symmetric physics
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28. Foundational for retrocausality; currently assumed rather than explained. Would clarify why retrocausality follows from taking physics seriously. The transactional interpretation and TSVF depend on this.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Write article on contemplative evidence for consciousness theories
+- **Type**: expand-topic
+- **Notes**: The Map mentions meditation and contemplative evidence but could develop this systematically. Different traditions (Theravada vipassana, Tibetan Dzogchen, Christian contemplative) provide converging phenomenological data on: witness consciousness, selfless awareness, altered time perception, and phenomenal unity. Builds on meditation-and-consciousness-modes.md, witness-consciousness.md, stapp-quantum-mind.md. Supports multiple tenets.
+- **Output**: contemplative evidence for consciousness theories
+
+### ✓ 2026-01-27: Create concept page for indexical facts
+- **Type**: expand-topic
+- **Notes**: The Map uses indexical facts extensively (indexical-identity-quantum-measurement.md, personal-identity.md) but has no dedicated treatment. Indexical facts—facts expressible only from a particular perspective ("I am here now")—are central to the No Many Worlds tenet. Why can't physics capture indexical facts? How do they relate to consciousness? Perry and Lewis on essential indexicals. Critical gap for tenet support.
+- **Output**: Create concept page for indexical facts
+
+### ✓ 2026-01-27: Write article on Integrated Information Theory (IIT) critique
+- **Type**: expand-topic
+- **Notes**: IIT (Tononi) is a major competitor consciousness theory referenced throughout the Map but lacking dedicated engagement. The phi measure, its relationship to phenomenology, and whether it actually solves the hard problem need systematic treatment. Key questions: Does IIT explain why phi correlates with consciousness? How does it handle the hard problem? Builds on quantum-consciousness.md, hard-problem-of-consciousness.md, panpsychism.md.
+- **Output**: Integrated Information Theory (IIT) critique
+
+### ✓ 2026-01-27: Cross-review introspection.md considering pre-conceptual-knowing insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/pre-conceptual-knowing.md (2026-01-27) raises whether introspection can access pre-conceptual content. The introspection.md concept discusses first-person methods and their reliability. Check for: (1) cross-links to pre-conceptual knowing, (2) whether the article addresses limits of conceptual introspection, (3) connection to contemplative methods as approaches to non-conceptual awareness.
+- **Output**: obsidian/concepts/introspection.md -- Context: Cross-review introspection.md considering pre-conceptual-knowing insights
+
+### ✓ 2026-01-27: Cross-review qualia.md considering pre-conceptual-knowing insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/pre-conceptual-knowing.md (2026-01-27) examines whether conceptual thought creates barriers to modes of knowing available to non-conceptual beings. The qualia.md concept discusses phenomenal properties that resist conceptual capture. Check for: (1) cross-links to pre-conceptual knowing treatment, (2) whether the fineness-of-grain argument connects to qualia ineffability, (3) integration of Russell's knowledge by acquaintance as support for qual irreducibility.
+- **Output**: obsidian/concepts/qualia.md -- Context: Cross-review qualia.md considering pre-conceptual-knowing insights
+
+### ✓ 2026-01-27: Cross-review libet-experiments.md considering quantum-measurement-and-subjective-probability insights
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-measurement-and-subjective-probability.md (2026-01-27) examines how subjective probability emerges in quantum measurement. The Libet experiments page discusses timing of conscious will. Check for: (1) cross-links to quantum measurement treatment, (2) whether quantum timing considerations reframe Libet interpretation, (3) connection between subjective probability and the experience of choosing.
+- **Output**: obsidian/concepts/libet-experiments.md -- Context: Cross-review libet-experiments.md considering quantum-measurement-and-subjective-probability insights
+
+### ✓ 2026-01-27: Cross-review psychophysical-laws.md considering chalmers-psychophysical-coupling insights
+- **Type**: cross-review
+- **Notes**: New article topics/chalmers-psychophysical-coupling.md (2026-01-27) develops Chalmers's specific framework for psychophysical laws. The existing psychophysical-laws.md concept page gives broader treatment. Check for: (1) cross-links between general and Chalmers-specific treatments, (2) whether the new article's structural coupling mechanisms enrich the concept page, (3) avoid redundancy by ensuring complementary rather than overlapping coverage.
+- **Output**: obsidian/concepts/psychophysical-laws.md -- Context: Cross-review psychophysical-laws.md considering chalmers-psychophysical-coupling insights
+
+### ✓ 2026-01-27: Cross-review retrocausality.md considering presentiment-and-retrocausality insights
+- **Type**: cross-review
+- **Notes**: New article topics/presentiment-and-retrocausality.md (2026-01-27) covers empirical presentiment research (Bem, Radin, Mossbridge meta-analysis). The existing retrocausality.md concept page discusses theoretical frameworks. Check for: (1) cross-links to empirical treatment, (2) whether presentiment evidence strengthens the theoretical framework, (3) consistency between empirical and conceptual articles.
+- **Output**: obsidian/concepts/retrocausality.md -- Context: Cross-review retrocausality.md considering presentiment-and-retrocausality insights
+
+### ✓ 2026-01-27: Cross-review quantum-consciousness.md considering decoherence-and-macroscopic-superposition insights
+- **Type**: cross-review
+- **Notes**: New article topics/decoherence-and-macroscopic-superposition.md (2026-01-27) examines how quantum superpositions decohere and what this means for macroscopic quantum effects. The existing quantum-consciousness.md concept discusses Orch-OR and other quantum consciousness theories. Check for: (1) cross-links to decoherence treatment, (2) whether the decoherence timeline data strengthens or challenges quantum consciousness claims, (3) consistency in how decoherence objections are addressed.
+- **Output**: obsidian/concepts/quantum-consciousness.md -- Context: Cross-review quantum-consciousness.md considering decoherence-and-macroscopic-superposition insights
+
+### ✓ 2026-01-27: Condense materialism.md (3788 words, 152% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Comprehensive treatment of materialist position the site argues against. Preserve: main materialist arguments, relationship to hard problem, engagement with explanatory gap. See /condense skill.
+- **Output**: obsidian/concepts/materialism.md
+
+### ✓ 2026-01-27: Address physical-to-phenomenal holism gap in quantum-binding article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-27 night) found the article claims quantum entanglement provides "genuine ontological holism" matching phenomenal unity, but doesn't explain how physical holism produces phenomenal unity—the same explanatory gap identified for classical binding. Either provide argument for the mapping, or acknowledge quantum binding relocates rather than solves BP2. See pessimistic-2026-01-27-night.md.
+
+### ✓ 2026-01-27: Address physical-to-phenomenal holism gap in quantum-binding article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-27 night) identified that the article claimed quantum holism "explains" phenomenal unity without argument. Refined to: (1) revised opening to "structurally corresponds to" rather than "explains"; (2) added "The Remaining Gap" subsection explicitly acknowledging quantum holism relocates rather than dissolves hard problem; (3) improved illusionism precondition response to acknowledge counter-response; (4) updated Dualism tenet section for consistency.
+- **Output**: obsidian/topics/quantum-binding-and-phenomenal-unity.md
+
+### ✓ 2026-01-27: Write article on pre-conceptual knowing
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-pre-conceptual-knowing-2026-01-27.md. Covers whether conceptual thought creates structural barriers to modes of knowing available to non-conceptual beings. Key themes: fineness of grain problem (experience outstrips concepts), Block's overflow research, Russell's knowledge by acquaintance, prereflective bodily awareness. Fits voids framework as territory conceptual beings can gesture toward but cannot enter.
+- **Output**: pre-conceptual knowing
+
+### ✓ 2026-01-27: Cross-review quantum-binding-and-phenomenal-unity.md considering quantum biology
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-biology-and-the-consciousness-debate.md (2026-01-27) provides empirical evidence for quantum effects in neural systems. The quantum-binding-and-phenomenal-unity.md article argues that quantum entanglement may explain phenomenal unity. Check for: (1) cross-links to quantum biology evidence, (2) whether the empirical findings strengthen the binding argument, (3) consistency in how decoherence challenges are addressed.
+- **Output**: obsidian/topics/quantum-binding-and-phenomenal-unity.md -- Context: Cross-review quantum-binding-and-phenomenal-unity.md considering quantum biology
 
 ### ✓ 2026-01-27: Cross-review free-will.md considering presentiment and retrocausality
 - **Type**: cross-review
@@ -1265,7 +1352,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-24: Cross-review indexical-identity-quantum-measurement.md considering quantum probability insights
 - **Type**: cross-review
 - **Notes**: New article concepts/quantum-probability-and-consciousness.md develops the indexical reading of Born probabilities. The indexical-identity-quantum-measurement.md article should be reviewed to: (1) add cross-link to quantum-probability-and-consciousness, (2) integrate the distinction between objective, subjective, and indexical readings of probability, (3) note how the indexical reading connects to haecceity.
-- **Result**: Added new "Three Readings of Quantum Probability" section (~200 words) presenting the objective/subjective/indexical distinction. Connected indexical reading to haecceity—if Born probabilities describe probabilities for *this* subject, they invoke primitive thisness. Added [quantum-probability-and-consciousness](/concepts/quantum-probability-and-consciousness/) to frontmatter concepts and Further Reading section.
+- **Result**: Added new "Three Readings of Quantum Probability" section (~200 words) presenting the objective/subjective/indexical distinction. Connected indexical reading to haecceity—if Born probabilities describe probabilities for *this* subject, they invoke primitive thisness. Added [quantum-probability-and-consciousness](/archive/concepts/quantum-probability-and-consciousness/) to frontmatter concepts and Further Reading section.
 - **Output**: topics/indexical-identity-quantum-measurement.md (modified)
 
 ### ✓ 2026-01-24: Deep review attention-motor-quantum-interface.md
@@ -1565,13 +1652,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 ### ✓ 2026-01-23: Cross-review quantum-interpretations.md considering subjective probability article
 - **Type**: cross-review
 - **Notes**: New article concepts/subjective-probability-quantum-measurement.md distinguishes how QBism, objective-chance views, and many-worlds treat Born probabilities. The quantum-interpretations.md page should be reviewed to: (1) add cross-link to subjective-probability-quantum-measurement, (2) note the distinctive treatment of probability in each interpretation, (3) integrate the criticism that all interpretations fail to address the first-person perspective on probability.
-- **Result**: Added [subjective-probability-quantum-measurement](/concepts/subjective-probability-quantum-measurement/) to frontmatter concepts and related_articles. Added new "How Interpretations Handle Probability" section before the Comparison Table explaining: (1) how standard/Copenhagen views treat Born probabilities as objective propensities but struggle with single cases, (2) how QBism treats them as subjective beliefs but presupposes determinate experience, (3) how many-worlds reinterprets probability as branch measure but faces the meaninglessness objection. Integrated the Map's proposal that Born probabilities describe interface structure at consciousness-quantum coupling. Added subjective-probability-quantum-measurement as first entry in Further Reading.
+- **Result**: Added [subjective-probability-quantum-measurement](/archive/concepts/subjective-probability-quantum-measurement/) to frontmatter concepts and related_articles. Added new "How Interpretations Handle Probability" section before the Comparison Table explaining: (1) how standard/Copenhagen views treat Born probabilities as objective propensities but struggle with single cases, (2) how QBism treats them as subjective beliefs but presupposes determinate experience, (3) how many-worlds reinterprets probability as branch measure but faces the meaninglessness objection. Integrated the Map's proposal that Born probabilities describe interface structure at consciousness-quantum coupling. Added subjective-probability-quantum-measurement as first entry in Further Reading.
 - **Output**: concepts/quantum-interpretations.md
 
 ### ✓ 2026-01-23: Cross-review measurement-problem.md considering subjective probability article
 - **Type**: cross-review
 - **Notes**: New article concepts/subjective-probability-quantum-measurement.md examines how Born rule probabilities relate to consciousness and different interpretations. The measurement-problem.md concept page should be reviewed to: (1) add cross-link to subjective-probability-quantum-measurement, (2) note that the article provides detailed treatment of what Born probabilities *mean* rather than just how they're used, (3) integrate the interface-structure proposal where probabilities describe consciousness-quantum coupling.
-- **Result**: Added [subjective-probability-quantum-measurement](/concepts/subjective-probability-quantum-measurement/) to frontmatter concepts and related_articles. Added new "What Are Born Probabilities?" section explaining three major interpretations (objective chance, QBism, many-worlds branch measure) and their blind spots. Integrated the interface-structure proposal: Born probabilities describe objective structure at consciousness-quantum coupling, connecting measurement problem to hard problem. Added subjective-probability-quantum-measurement as first entry in Further Reading.
+- **Result**: Added [subjective-probability-quantum-measurement](/archive/concepts/subjective-probability-quantum-measurement/) to frontmatter concepts and related_articles. Added new "What Are Born Probabilities?" section explaining three major interpretations (objective chance, QBism, many-worlds branch measure) and their blind spots. Integrated the interface-structure proposal: Born probabilities describe objective structure at consciousness-quantum coupling, connecting measurement problem to hard problem. Added subjective-probability-quantum-measurement as first entry in Further Reading.
 - **Output**: concepts/measurement-problem.md
 
 ### ✓ 2026-01-23: Create concept page for voluntary-attention-control

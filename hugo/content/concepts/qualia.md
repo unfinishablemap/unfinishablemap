@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-27 19:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,6 +28,7 @@ concepts:
 - '[[aesthetic-dimension-of-consciousness]]'
 - '[[mysterianism-cognitive-closure]]'
 - '[[buddhism-and-dualism]]'
+- '[[pre-conceptual-knowing]]'
 created: 2026-01-07
 date: &id001 2026-01-24
 description: The intrinsic, subjective qualities of conscious experience—the redness
@@ -35,7 +36,7 @@ description: The intrinsic, subjective qualities of conscious experience—the r
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-24 03:15:00+00:00
+last_deep_review: 2026-01-27 19:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +77,7 @@ You cannot directly access my qualia, nor I yours. We can compare behaviour, poi
 
 ### Ineffable
 
-Qualia resist complete verbal description. How would you explain the taste of coffee to someone who has never tasted it? You might describe it as "bitter" or "rich," but these words don't convey the actual quale. The experience itself exceeds any description.
+Qualia resist complete verbal description. How would you explain the taste of coffee to someone who has never tasted it? You might describe it as "bitter" or "rich," but these words don't convey the actual quale. The experience exceeds any description—a structural feature of [conceptual thought itself](/voids/pre-conceptual-knowing/), which classifies by abstracting from particulars and thereby loses qualitative character.
 
 ### Directly Apprehensible
 
@@ -86,7 +87,7 @@ Despite being ineffable to others, qualia are immediately known to the one exper
 
 The question of [qualia in simple organisms](/concepts/minimal-consciousness/) sharpens the hard problem. *C. elegans* has exactly 302 neurons with a completely mapped connectome—yet we cannot determine whether there is something it is like to be this worm. Complete structural knowledge doesn't tell us whether qualia exist.
 
-This illuminates qualia's resistance to physical description: the gap is not about missing details but about the categorical difference between structure and experience. If the worm has qualia, are they analogous to ours, alien to us, or absent entirely? No principled answer exists because we lack any bridge from neural description to qualitative character.
+This illuminates qualia's resistance to physical description: the gap is not about missing details but about the categorical difference between structure and experience. If the worm has qualia, no principled answer exists about whether they're analogous to ours or alien.
 
 The [combination-problem](/concepts/combination-problem/) sharpens when considering proto-qualia—phenomenal properties simpler than human experiences. How would 302 micro-experiences combine into unified worm-experience? Slime molds (*Physarum polycephalum*) solve mazes without neurons, suggesting cognition and qualia may fully dissociate. See [minimal-consciousness](/concepts/minimal-consciousness/) for detailed treatment.
 
@@ -96,9 +97,9 @@ The paradigm cases of qualia—redness, pain, taste—are sensory. But phenomeno
 
 ### Cognitive Qualia
 
-The tip-of-the-tongue phenomenon has undeniable phenomenal character: the sense of imminence, the frustration of blocked retrieval. The *feeling* of a word approaching consciousness resists functional reduction. Similarly, the feeling-of-knowing—confidence you would recognise an answer you cannot recall—has qualitative character distinct from the functional access it reflects. The "aha" experience when understanding arrives involves something it's like to grasp a concept.
+The tip-of-the-tongue phenomenon has undeniable phenomenal character: the sense of imminence, the frustration of blocked retrieval. The *feeling* of a word approaching consciousness resists functional reduction. Similarly, the feeling-of-knowing—confidence you would recognise an answer you cannot recall—has qualitative character distinct from the functional access it reflects.
 
-If [liberalism about cognitive phenomenology](/concepts/cognitive-phenomenology/) is correct—if thinking has proprietary phenomenal character beyond sensory accompaniments—then qualia pervade cognition, not just sensation. See [cognitive-phenomenology](/concepts/cognitive-phenomenology/) and [semantic-memory](/concepts/semantic-memory/) for detailed treatment.
+Block's [phenomenal overflow](/voids/pre-conceptual-knowing/#phenomenal-overflow) research strengthens this: phenomenal consciousness exceeds cognitive access. If thinking has proprietary phenomenal character beyond sensory accompaniments—as [liberalism about cognitive phenomenology](/concepts/cognitive-phenomenology/) holds—then qualia pervade cognition, not just sensation.
 
 ### Aesthetic Qualia
 
@@ -222,6 +223,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) - The broader problem qualia exemplify
 - [explanatory-gap](/concepts/explanatory-gap/) - The chasm between physical description and experience
 - [combination-problem](/concepts/combination-problem/) - How micro-experiences combine
+- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) - The void where conceptual thought cannot reach qualitative character
 - [tenets](/tenets/) - The Map's foundational commitments
 
 ## References

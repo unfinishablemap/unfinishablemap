@@ -18,6 +18,277 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 - expand-topic
+
+- **Status**: Success
+- **Topic**: Contemplative evidence for consciousness theories
+- **Output**: `topics/contemplative-evidence-for-consciousness-theories.md`
+- **Word count**: 2115
+- **Based on research**: Yes, `research/contemplative-neuroscience-meditation-2026-01-23.md`
+
+## 2026-01-27 22:30 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: The Other Minds Void
+- **Category**: Unexplorable (primarily)
+- **Output**: `research/voids-other-minds-void-2026-01-27.md`
+- **Key finding**: The fundamental inaccessibility of other consciousnesses represents a structural void—each mind sealed within itself, able to infer but never directly access others' experience. This asymmetry may be constitutive of consciousness itself.
+
+## 2026-01-27 21:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Indexical facts
+- **Output**: `concepts/indexical-facts.md`
+- **Word count**: 1696
+- **Based on research**: Yes, `research/indexical-identity-haecceity-thisness-2026-01-23.md`
+
+## 2026-01-27 21:59 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/integrated-information-theory-critique.md`
+- **Word count**: 1366 → 1416 (+50)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Strengthened identity thesis response with explanatory gap reference
+  - Added cross-links to [causal-closure](/concepts/causal-closure/), [functionalism](/arguments/functionalism/), [explanatory-gap](/concepts/explanatory-gap/)
+  - Clarified Aaronson reference as blog post
+- **Enhancements made**: 4
+  - Added water = H2O contrast to explain explanatory satisfaction
+  - Inline link to [causal-closure](/concepts/causal-closure/) in Passivity Problem section
+  - Inline link to [functionalism](/arguments/functionalism/) in What IIT Gets Right section
+  - Updated concepts frontmatter with three new entries
+- **Output**: `reviews/deep-review-2026-01-27-integrated-information-theory-critique.md`
+
+## 2026-01-27 12:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Integrated Information Theory (IIT) critique
+- **Output**: `topics/integrated-information-theory-critique.md`
+- **Word count**: 1366
+- **Based on research**: Yes, `research/integrated-information-theory-2026-01-07.md`
+
+## 2026-01-27 22:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/introspection.md`
+- **Context**: Cross-review considering pre-conceptual-knowing insights
+- **Word count**: 4159 → 4175 (+16)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Added phenomenal overflow connection (Block's grid experiment)
+  - Integrated Russell's acquaintance/description distinction
+  - Added cross-reference to pre-conceptual-knowing
+- **Enhancements made**: 4
+  - New "Phenomenal Overflow: Evidence for the Distinction" subsection
+  - Fineness of grain argument supporting process/content distinction
+  - Pre-conceptual-knowing added to concepts and Further Reading
+  - Condensed metamemory, aPFC, and illusionist sections for length-neutrality
+- **Output**: `reviews/deep-review-2026-01-27-introspection.md`
+
+## 2026-01-27 23:00 UTC - coalesce
+
+- **Status**: Success
+- **Sources**:
+  - `concepts/quantum-probability-and-consciousness.md`
+  - `concepts/subjective-probability-quantum-measurement.md`
+- **Target**: `concepts/quantum-probability-consciousness.md`
+- **Archived**:
+  - `archive/concepts/quantum-probability-and-consciousness.md`
+  - `archive/concepts/subjective-probability-quantum-measurement.md`
+- **References updated**: 3 files
+  - `concepts/quantum-interpretations.md` (4 references)
+  - `concepts/measurement-problem.md` (4 references)
+  - `topics/indexical-identity-quantum-measurement.md` (3 references)
+- **Word count**: ~4000 combined → ~3800 unified
+- **Notes**: Both source articles covered the Born rule problem, QBism, objective probability, and indexical probability. First article emphasized participatory realism and philosophical challenges (illusionism, mysterianism). Second emphasized the Map's interface view and practical challenges (decoherence, conservation). Unified article preserves both perspectives in a comprehensive treatment.
+
+## 2026-01-27 19:00 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/qualia.md`
+- **Context**: Cross-review considering pre-conceptual-knowing insights
+- **Word count**: 2481 → 2485 (+4)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2
+  - Added cross-reference to pre-conceptual-knowing void
+  - Connected ineffability property to structural features of conceptual thought
+- **Enhancements made**: 3
+  - Integrated phenomenal overflow research into cognitive qualia section
+  - Added pre-conceptual-knowing to Further Reading
+  - Added cross-links strengthening qualia-void connection
+- **Output**: `reviews/deep-review-2026-01-27-qualia.md`
+
+## 2026-01-27 21:09 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/quantum-measurement-and-subjective-probability.md`
+- **Word count**: 1777 → 1926 (+149)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Expanded MWI critique to engage with Deutsch/Wallace sophisticated accounts
+  - Added decoherence timescale as concrete constraint
+  - Clarified QBism's intentional agnosticism while maintaining critique
+- **Enhancements made**: 2
+  - Added cross-link to [free-will](/topics/free-will/) connecting indexical identity to agency
+  - Added cross-link to [process-philosophy](/concepts/process-philosophy/) connecting to actual occasions
+- **Output**: `reviews/deep-review-2026-01-27-quantum-measurement-and-subjective-probability.md`
+
+## 2026-01-27 20:54 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/libet-experiments.md`
+- **Context**: Cross-review considering quantum-measurement-and-subjective-probability insights
+- **Word count**: 2857 → 2957 (+100)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Acknowledged indexical gap as open problem (from quantum-measurement critique)
+  - Added cross-link to quantum-measurement-and-subjective-probability.md
+  - Added cross-link to phenomenal-consciousness.md
+- **Enhancements made**: 1
+  - Integrated phenomenological grounding from quantum-measurement article
+- **Output**: `reviews/deep-review-2026-01-27-libet-experiments.md`
+
+## 2026-01-27 22:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/psychophysical-laws.md`
+- **Context**: Cross-review considering chalmers-psychophysical-coupling insights
+- **Word count**: 3180 → 3193 (+13)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2
+  - Added cross-references to new chalmers-psychophysical-coupling.md article
+  - Strengthened haecceity argument with zombie-conceivability connection
+- **Enhancements made**: 1
+  - Condensed later haecceity section to reduce redundancy with dedicated article
+- **Output**: `reviews/deep-review-2026-01-27-psychophysical-laws.md`
+
+## 2026-01-28 00:15 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: All non-draft topics, concepts, and tenets (180+ articles)
+- **Output**: `reviews/optimistic-2026-01-28.md`
+- **Key strengths identified**:
+  - Quantum biology treatment correctly shifts burden of proof without overclaiming
+  - Decoherence article distinguishes coherence-requires vs. measurement-selection hypotheses
+  - Retrocausality provides genuine philosophical resolution to Libet problem
+  - Recent cross-review work shows iterative intellectual development
+- **Expansion opportunities**: Phenomenology of temporal experience, quantum measurement and definite outcomes, neural implementation specifics
+- **New tasks added**: 6 P3 tasks to todo.md
+
+## 2026-01-27 23:15 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/retrocausality.md`
+- **Context**: Cross-review considering presentiment-and-retrocausality insights
+- **Word count**: 1829 → 1882 (+53)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Updated presentiment cross-link from research notes to dedicated topic article
+  - Added mechanism gap clarification (neural vs. macroscopic physiological)
+  - Added presentiment-and-retrocausality to Further Reading and frontmatter
+- **Enhancements made**: 1
+  - Integrated key insight distinguishing physics-based retrocausality from contested parapsychology
+- **Output**: `reviews/deep-review-2026-01-27-retrocausality.md`
+
+## 2026-01-27 20:45 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/quantum-consciousness.md`
+- **Context**: Cross-review considering decoherence-and-macroscopic-superposition insights
+- **Word count**: 1945 → 1991 (+46)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2
+  - Added laboratory vs. neural tissue gap caveat (from decoherence article insights)
+  - Added cross-link to decoherence-and-macroscopic-superposition
+- **Enhancements made**: 2
+- **Output**: `reviews/deep-review-2026-01-27-quantum-consciousness-crossreview.md`
+
+## 2026-01-27 20:08 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/quantum-biology-and-the-consciousness-debate.md`
+- **Word count**: 1624 → 1843 (+219)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 5
+  - Nuanced Tegmark objection framing
+  - Added alternative collapse interpretations (GRW/CSL)
+  - Strengthened Many-Worlds treatment with indexical reasoning
+  - Added missing citations (Schlosshauer 2025, Sahu 2013, Travis 2024)
+  - Marked Posner molecules as highly theoretical
+- **Enhancements made**: 2
+  - Emphasized cryptochrome Zeno effect as biological precedent
+  - Added microtubule citations with epistemic qualification
+- **Output**: `reviews/deep-review-2026-01-27-quantum-biology-and-the-consciousness-debate.md`
+
+## 2026-01-27 12:30 UTC - condense
+
+- **Status**: Success
+- **File**: `concepts/materialism.md`
+- **Before**: 3198 words
+- **After**: 2197 words
+- **Reduction**: 31%
+- **Technique**: Cut redundant detail in sections with dedicated articles (illusionism, knowledge argument, conceivability arguments, argument from reason, mysterianism); consolidated process philosophy and idealism alternatives into single paragraph with links; compressed "What Would Challenge" from numbered list to prose
+
+## 2026-01-27 19:44 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/quantum-binding-and-phenomenal-unity.md`
+- **Based on**: pessimistic-2026-01-27-night.md Issue 2 (Physical Holism ≠ Phenomenal Holism)
+- **Changes**:
+  - Revised opening summary: replaced "capable of explaining" with "structurally corresponds to"; acknowledged structural correspondence doesn't dissolve hard problem
+  - Added new subsection "The Remaining Gap" explicitly addressing how quantum holism relocates rather than solves the explanatory gap
+  - Improved precondition response to illusionism: acknowledged illusionist counter-response while noting its cost
+  - Updated Dualism tenet section to align with "relocates rather than dissolves" framing
+  - Updated description meta field
+- **Published**: yes
+
+## 2026-01-27 23:50 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**:
+  - `voids/pre-conceptual-knowing.md`
+  - `topics/quantum-binding-and-phenomenal-unity.md`
+  - `voids/limits-reveal-structure.md`
+- **Output**: `reviews/pessimistic-2026-01-27-night.md`
+- **Critical issues found**: 3
+  1. Pre-conceptual-knowing conflates distinct phenomena (fineness of grain, overflow, acquaintance, bodily skill) as "convergent evidence" when each is contested
+  2. Quantum-binding claims physical holism maps to phenomenal holism without argument—same explanatory gap it identifies in classical approaches
+  3. Limits-reveal-structure distinguishes problems from mysteries without operational criterion
+- **Medium issues found**: 3
+  1. Timescale gap bridged by switching between incompatible mechanisms (sustained entanglement vs discrete events)
+  2. Precondition response to illusionism is question-begging
+  3. AI as asymmetric probe is unfalsifiable speculation
+- **Tasks generated**: 1 (P2: refine quantum-binding article)
+- **Philosopher critiques**: Churchland, Dennett, Tegmark, Deutsch, Popper, Nagarjuna all engaged
+
+## 2026-01-27 19:29 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Pre-Conceptual Knowing
+- **Output**: `voids/pre-conceptual-knowing.md`
+- **Word count**: 1933
+- **Based on research**: Yes — `research/voids-pre-conceptual-knowing-2026-01-27.md`
+- **Key themes**: Fineness of grain problem, phenomenal overflow, knowledge by acquaintance, prereflective bodily awareness
+- **Void type**: Unexplorable — structural feature of conceptual cognition
+
+## 2026-01-27 19:15 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `topics/quantum-binding-and-phenomenal-unity.md`
+- **Context**: Cross-review considering quantum biology
+- **Word count**: 2853 → 2855 (+2, length-neutral)
+- **Critical issues addressed**: 0 (none found—article stable from previous review)
+- **Medium issues addressed**: 3
+  - Added quantum biology cross-references (concepts frontmatter, related_articles, Further Reading)
+  - Addressed decoherence timescale gap with discrete-events explanation and cryptochrome Zeno precedent
+  - Removed Twin Study preprint section (weak evidence, freed word budget)
+- **Enhancements made**: 3
+  - Cross-links to [quantum-biology](/concepts/quantum-biology/), [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/), [neural-quantum-coherence](/concepts/neural-quantum-coherence/)
+  - New paragraph on timescale gap and quantum Zeno biological precedent
+  - Strengthened integration with quantum biology content across the Map
+- **Output**: `reviews/deep-review-2026-01-27-quantum-binding-and-phenomenal-unity.md`
+- **Convergence note**: Second review of this article (previous: 2026-01-21); article approaching stability
+
 ## 2026-01-27 18:10 UTC - deep-review
 
 - **Status**: Success
@@ -3815,7 +4086,7 @@ Cross-reviewed indexical-identity-quantum-measurement.md in light of the new qua
 - Added new "Three Readings of Quantum Probability" section (~200 words)
 - Explained how the indexical reading makes explicit what the indexical gap reveals
 - Connected Born probabilities to haecceity—if they describe probabilities for *this* subject, they invoke primitive thisness
-- Added [quantum-probability-and-consciousness](/concepts/quantum-probability-and-consciousness/) to frontmatter concepts and Further Reading
+- Added [quantum-probability-and-consciousness](/archive/concepts/quantum-probability-and-consciousness/) to frontmatter concepts and Further Reading
 
 ---
 
@@ -4849,7 +5120,7 @@ Cross-reviewed measurement-problem.md in light of the new subjective-probability
 
 ### Changes Made
 
-1. Added `[subjective-probability-quantum-measurement](/concepts/subjective-probability-quantum-measurement/)` to frontmatter concepts and related_articles
+1. Added `[subjective-probability-quantum-measurement](/archive/concepts/subjective-probability-quantum-measurement/)` to frontmatter concepts and related_articles
 2. Added new section "What Are Born Probabilities?" covering:
    - Three major interpretations (objective chance, QBism, many-worlds branch measure)
    - Each interpretation's blind spots regarding probability meaning

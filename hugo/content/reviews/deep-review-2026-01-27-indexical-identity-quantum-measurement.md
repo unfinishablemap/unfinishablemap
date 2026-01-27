@@ -66,7 +66,7 @@ None. The article maintains proper structure, no factual errors, and includes su
 1. Strengthened QBism critique by connecting subjective probabilities to phenomenal determinacy—having beliefs requires something it is like to have them
 
 ### Cross-links Verified
-- [quantum-probability-and-consciousness](/concepts/quantum-probability-and-consciousness/) — Valid, points to companion concept article that develops the three readings in more depth
+- [quantum-probability-and-consciousness](/archive/concepts/quantum-probability-and-consciousness/) — Valid, points to companion concept article that develops the three readings in more depth
 - [quantum-measurement-subjective-probability-2026-01-23](/research/quantum-measurement-subjective-probability-2026-01-23/) — Listed in related_articles frontmatter
 
 ## Word Count
