@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense existentialism.md (3907 words, 112% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers existentialist philosophy and its connection to consciousness—authenticity, meaning, freedom. Preserve: core existentialist themes relevant to consciousness, connection to phenomenology and free will. May defer detailed historical context to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-27
-
 ### P3: Deep review language-thought-boundary.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers Wittgenstein's Tractatus limits, Sapir-Whorf research, ineffability. Should verify: (1) accuracy of philosophical positions, (2) engagement with cognitive science of language, (3) distinction from general effability topic, (4) alignment with voids framework.
@@ -460,6 +454,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Condense existentialism.md (3907 words, 112% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers existentialist philosophy and its connection to consciousness—authenticity, meaning, freedom. Preserve: core existentialist themes relevant to consciousness, connection to phenomenology and free will. May defer detailed historical context to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/existentialism.md
 
 ### ✓ 2026-01-27: Write voids article on the intrinsic nature void
 - **Type**: expand-topic
