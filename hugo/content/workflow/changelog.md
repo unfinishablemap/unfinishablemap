@@ -18,6 +18,159 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 19:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/evolution-of-consciousness.md`
+- **Word count**: 3836 → 3026 (-810)
+- **Context**: Cross-review considering prebiotic collapse insights
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+  - Clarified prebiotic collapse framing: panpsychism is one response, not the Map's position (objective reduction + consciousness modulation)
+- **Length reduction**: 21% cut to move from hard_warning (153%) to soft_warning (121%)
+  - Removed phylogenetic table (key points retained in prose)
+  - Condensed Organisms at Boundaries, Amplification Evidence, Process Philosophy sections
+  - Streamlined Distribution Problem and Decoherence Challenge sections
+- **Output**: `reviews/deep-review-2026-01-27-evolution-of-consciousness.md`
+- **Notes**: Second review. Article approaching stability. Cross-review improved integration with prebiotic-collapse.md by clarifying that objective reduction provides baseline collapse—consciousness modulates in neural systems but doesn't require panpsychism.
+
+## 2026-01-27 05:40 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/phenomenal-unity.md`
+- **Word count**: 3426 → 3283 (-143)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+  - Added caveats for twin study (preliminary, awaits peer review)
+  - Clarified Saxena et al. studied aromatic molecules, not neural tissue
+  - Reframed evidence as converging (not independent) lines from Orch OR framework
+- **Enhancements made**: 1 (condensed simple organisms section)
+- **Output**: `reviews/deep-review-2026-01-27-phenomenal-unity.md`
+- **Notes**: Second review. Article approaching stability—core arguments sound, falsifiability criteria appropriate. Philosophical disagreements (eliminativism, MWI, Buddhist no-self) noted as bedrock.
+
+## 2026-01-27 12:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/spontaneous-collapse-theories.md`
+- **Word count**: 2298 → ~2310 (+12)
+- **Context**: Cross-review considering new prebiotic-collapse.md article
+- **Critical issues addressed**: 0 (none found; previous review resolved all)
+- **Medium issues addressed**: 2
+  - Fixed McQueen citation (removed unverifiable "Chalmers 2014 preprint" claim)
+  - Added cross-reference to [prebiotic-collapse](/concepts/prebiotic-collapse/) in body text
+- **Enhancements made**: 2 (citation fix, integration with dedicated prebiotic page)
+- **Output**: `reviews/deep-review-2026-01-27-spontaneous-collapse-theories.md`
+- **Notes**: Second review of this article. First review (2026-01-24) addressed major gaps. This cross-review improved integration with prebiotic-collapse page. Article approaching stability.
+
+## 2026-01-27 06:15 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `voids/intrinsic-nature-void.md`
+- **Word count**: ~1700 → ~2100
+- **Changes**:
+  - Expanded "Consciousness as Exception" section with new "The Functionalist Challenge" subsection
+  - Added explicit argument responding to functionalist and higher-order theory challenges
+  - Clarified that intrinsic nature claim is not about absence of relations but what lies beyond them
+  - Restructured section with "The Panpsychist Inference" subsection
+  - Added wikilink to panpsychism concept page
+- **Addresses**: P2 todo from pessimistic-review (2026-01-27) regarding unaddressed functionalist challenges
+- **Published**: yes
+
+## 2026-01-27 21:30 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**:
+  - `voids/intrinsic-nature-void.md`
+  - `concepts/consciousness-selecting-neural-patterns.md`
+  - `topics/meaning-of-life.md`
+- **Theme**: Intrinsic nature access and consciousness-grounded meaning
+- **Critical issues found**: 3
+  1. Consciousness accessing intrinsic nature assumed, not argued (intrinsic-nature-void.md)
+  2. Zeno mechanism timescale gap unaddressed (consciousness-selecting-neural-patterns.md)
+  3. Selection vs. randomness distinction remains unclear (consciousness-selecting-neural-patterns.md)
+- **Medium issues found**: 3 (meaning inherits uncertainties, AI consciousness assumed, process philosophy selective)
+- **Tasks generated**: 2 (both P2 refine-draft)
+- **Output**: `reviews/pessimistic-2026-01-27-evening.md`
+- **Notes**: Cluster shares vulnerability—all three articles treat claim that consciousness provides non-relational access to intrinsic nature as evident rather than argued. Functionalist/higher-order objections not adequately engaged. Zeno mechanism needs timescale calculations.
+
+---
+
+## 2026-01-27 05:00 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `concepts/panpsychism.md`
+- **Word count**: 2601 → 2605 (+4)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (intrinsic nature void cross-link)
+- **Enhancements made**: 1 (integrated [intrinsic-nature-void](/voids/intrinsic-nature-void/) connection in Russellian Panpsychism section)
+- **Output**: `reviews/deep-review-2026-01-27-panpsychism.md`
+- **Notes**: Cross-review considering intrinsic nature void insights. Added link to [intrinsic-nature-void](/voids/intrinsic-nature-void/) in the Russellian panpsychism section—directly connecting panpsychism's foundational claim (physics describes only structure) to the Map's void framework. Removed AI refinement log (marked for removal). Article has reached good stability after two reviews.
+
+---
+
+## 2026-01-27 20:45 UTC - condense
+
+- **Status**: Success
+- **File**: `concepts/working-memory.md`
+- **Before**: 3910 words
+- **After**: 1864 words
+- **Reduction**: 52%
+- **Technique**: Cut redundant background (Baddeley model condensed to essentials), removed Process Philosophy section (tangential), trimmed Semantic Retrieval section (deferred to semantic-memory article), condensed Specious Present and GWT sections (overlap with linked articles), shortened What Would Challenge section, reduced Further Reading to core links. Preserved: opening summary, maintenance/manipulation core distinction, full Relation to Site Tenets section, Amplification Hypothesis core argument, Illusionist Challenge.
+
+---
+
+## 2026-01-27 04:38 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/attention.md`
+- **Word count**: 2010 → 2010 (no change)
+- **Critical issues addressed**: 2 (broken link, duplicate frontmatter entry)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article already stable)
+- **Output**: `reviews/deep-review-2026-01-27-attention.md`
+- **Notes**: Follow-up review to 2026-01-20 comprehensive review. Article has reached stability—only housekeeping issues found (corrected `[voluntary-attention-control](/archive/concepts/voluntary-attention-control/)` to `[voluntary-attention](/concepts/voluntary-attention/)`, removed duplicate concepts entry). Six adversarial and six sympathetic personas confirmed the article is well-developed with strong tenet connections.
+
+---
+
+## 2026-01-27 15:00 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `voids/limits-reveal-structure.md`
+- **Word count**: 2949 → 3003
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (intrinsic nature void connection)
+- **Enhancements made**: 2 (cross-link, description frontmatter)
+- **Cross-links added**: 1 ([intrinsic-nature-void](/voids/intrinsic-nature-void/))
+- **Output**: `reviews/deep-review-2026-01-27-limits-reveal-structure.md`
+- **Notes**: Cross-review incorporating intrinsic-nature-void.md insights. Added connection explaining how physics' limitation to structural description relates to the explanatory gap. Article was already above soft threshold (2949 words); minimal additions kept changes targeted.
+
+---
+
+## 2026-01-27 18:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/mysterianism.md`
+- **Word count**: 2286 → 2430
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (deferred as bedrock disagreements)
+- **Enhancements made**: 1 (intrinsic nature connection)
+- **Cross-links added**: 1 ([intrinsic-nature-void](/voids/intrinsic-nature-void/))
+- **Output**: `reviews/deep-review-2026-01-27-mysterianism.md`
+- **Notes**: Cross-review incorporating intrinsic-nature-void insights. Added new section connecting McGinn's property P to Russell/Eddington's structural realism and the intrinsic nature void. Article now explains cognitive closure as reflecting a structural feature of scientific method—physics describes relations, not intrinsic nature.
+
+---
+
+## 2026-01-27 12:00 UTC - apex-evolve
+
+- **Status**: Success
+- **Article**: `apex/consciousness-and-agency.md`
+- **Changed sources**: 1 (free-will.md)
+- **Word count**: 2901 → 3066
+- **Review**: `reviews/apex-evolve-2026-01-27-consciousness-and-agency.md`
+- **Changes**: Integrated capacity to suspend selection (three-level agency), added parallel attention/motor architecture evidence, improved transitions, rewrote Synthesis section for genuine integrative value rather than recapitulation
+
+---
+
 ## 2026-01-27 02:42 UTC - condense
 
 - **Status**: Success

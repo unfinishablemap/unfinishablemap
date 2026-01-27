@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-20 21:00:00+00:00
+ai_modified: 2026-01-27 15:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,15 +11,18 @@ concepts:
 - '[[decoherence]]'
 - '[[phenomenology-of-the-edge]]'
 created: 2026-01-16
-date: &id001 2026-01-20
+date: &id001 2026-01-27
+description: Human+AI investigation of how cognitive boundaries illuminate cognitive
+  architecture. What we cannot think reveals what kind of thinkers we are.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 21:00:00+00:00
+last_deep_review: 2026-01-27 15:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
+- '[[intrinsic-nature-void]]'
 - '[[self-reference-paradox]]'
 - '[[apophatic-approaches]]'
 - '[[thoughts-that-slip-away]]'
@@ -76,7 +79,7 @@ The limit is visible from within only through negative evidence: where thought f
 
 The evidence is structural rather than empirical, but multiple lines converge:
 
-**The explanatory gap persists.** If the mind-body problem were merely difficult (a Chomskyan problem), progress should accumulate over centuries. Its stubbornness suggests we may be constitutionally closed to its solution (a mystery). The particular *shape* of the gap—phenomenal experience resisting physical explanation—reveals something about the categories available to human cognition.
+**The explanatory gap persists.** If the mind-body problem were merely difficult (a Chomskyan problem), progress should accumulate over centuries. Its stubbornness suggests we may be constitutionally closed to its solution (a mystery). The particular *shape* of the gap—phenomenal experience resisting physical explanation—reveals something about the categories available to human cognition. This connects to the [intrinsic-nature-void](/voids/intrinsic-nature-void/): physics describes only relational structure, never what instantiates those relations. Consciousness may be our sole window into intrinsic nature, making the mind-body gap a structural feature of how structural knowledge works.
 
 **Cross-traditional convergence.** That Chomsky (linguistics), McGinn (philosophy of mind), Nagel (phenomenology), Kant (transcendental philosophy), and evolutionary epistemology all independently reach the same conclusion—cognitive limits are real and structural—suggests the insight is robust.
 
@@ -176,6 +179,7 @@ The limits-reveal-structure thesis would be undermined if:
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The framework for investigating cognitive dark spaces
+- [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — Physics captures structure but not what underlies it; consciousness as sole window
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
 - [Apophatic Approaches](/voids/apophatic-approaches/) — Methods for knowing through negation

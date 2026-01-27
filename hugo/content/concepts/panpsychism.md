@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-27 05:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,14 +13,15 @@ concepts:
 - '[[analytic-idealism]]'
 - '[[buddhism-and-dualism]]'
 - '[[mysterianism]]'
+- '[[intrinsic-nature-void]]'
 created: 2026-01-08
-date: &id001 2026-01-26
+date: &id001 2026-01-27
 description: The view that consciousness is fundamental and ubiquitous in nature.
   Shares dualism's anti-emergence insight but faces the combination problem.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 00:30:00+00:00
+last_deep_review: 2026-01-27 05:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,7 +62,7 @@ The process tradition suggests panpsychism needn't treat micro-experiences as st
 
 ### Russellian Panpsychism and Its Variants
 
-[Russellian panpsychism](/concepts/russellian-monism/) (named after Bertrand Russell's insight) provides the most developed theoretical framework for contemporary panpsychism. Russell and Eddington observed that physics describes only the *relational* properties of matter—what things do to each other—leaving intrinsic nature unspecified. Mass describes gravitational and inertial behavior; charge describes electromagnetic interactions. But what *is* the stuff that has these dispositions? Physics doesn't say. These hidden intrinsic properties are called *quiddities*.
+[Russellian panpsychism](/concepts/russellian-monism/) (named after Bertrand Russell's insight) provides the most developed theoretical framework for contemporary panpsychism. Russell and Eddington observed that physics describes only the *relational* properties of matter—what things do to each other—leaving intrinsic nature unspecified. This is the [intrinsic-nature-void](/voids/intrinsic-nature-void/)—physics tells us what mass and charge *do* but not what they *are*. The hidden intrinsic properties are called *quiddities*.
 
 Panpsychists propose that consciousness—or something proto-conscious—is what quiddities are. The view splits into two main variants:
 
@@ -187,6 +188,7 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 - [analytic-idealism](/concepts/analytic-idealism/) — An alternative anti-physicalist view that claims to avoid the combination problem
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist no-self perspectives on subjects and experience
 - [mysterianism](/concepts/mysterianism/) — Whether the combination problem exceeds cognitive limits
+- [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The structural gap panpsychism proposes to fill
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — The problem of quantum collapse before biological minds
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The central puzzle both views address
 - [panpsychism-consciousness-2026-01-08](/research/panpsychism-consciousness-2026-01-08/) — Detailed research notes
@@ -201,17 +203,3 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 - Seager, W. (1995). Consciousness, Information and Panpsychism. *Journal of Consciousness Studies*, 2(3), 272-288.
 - Strawson, G. (2006). Realistic Monism: Why Physicalism Entails Panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
 - Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-
-<!-- AI REFINEMENT LOG - 2026-01-26
-Changes made:
-- Removed redundant "This is the *combination problem*" sentence that repeated information from preceding text
-- Improved palette problem wording: "generate the rich palette" → "give rise to the diversity"
-- Front-loaded testability conclusion in "Can Panpsychism Be Tested?" section per style guide
-- Removed redundant closing paragraph in testability section (content now appears in opening)
-- Tightened "Evaluating the Positions" section to reduce repetition and improve clarity
-
-Based on manual review against writing-style.md.
-Key improvements: Better front-loading of key conclusions, reduced redundancy, clearer prose.
-
-This log should be removed after human review.
--->

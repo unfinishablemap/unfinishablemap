@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-27 02:29:49+00:00
+ai_modified: 2026-01-27 05:01:38+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -455,6 +455,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review evolution-of-consciousness.md considering prebiotic collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/prebiotic-collapse.md (2026-01-27) separates cosmological timeline (prebiotic collapse) from phylogenetic timeline (when consciousness emerged in life). The evolution-of-consciousness.md concept page discusses when consciousness arose. Check for: (1) cross-link to prebiotic-collapse article, (2) note the distinction between "what caused collapse before minds" vs. "when did minds begin interfacing with collapse", (3) clarify that objective reduction handles cosmological timeline regardless of phylogenetic timing.
+- **Output**: obsidian/concepts/evolution-of-consciousness.md -- Context: Cross-review evolution-of-consciousness.md considering prebiotic collapse insights
+
+### ✓ 2026-01-27: Cross-review spontaneous-collapse-theories.md considering prebiotic collapse
+- **Type**: cross-review
+- **Notes**: New article concepts/prebiotic-collapse.md (2026-01-27) addresses what collapsed quantum states before conscious observers existed, proposing objective reduction as baseline with consciousness modulating in brains. The spontaneous-collapse-theories.md concept page covers GRW/CSL mechanisms. Check for: (1) cross-link to prebiotic-collapse treatment, (2) whether objective reduction as baseline strengthens the GRW/CSL discussion, (3) consistency in how spontaneous collapse relates to consciousness-collapse interface.
+- **Output**: obsidian/concepts/spontaneous-collapse-theories.md -- Context: Cross-review spontaneous-collapse-theories.md considering prebiotic collapse
+
+### ✓ 2026-01-27: Strengthen intrinsic-nature-void.md argument for non-relational access
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-27-evening) found that the article assumes consciousness provides non-relational access to intrinsic nature rather than arguing for it. The "Consciousness as Exception" section claims we know red "by seeing it" rather than relationally, but doesn't address functionalist responses that seeing *is* relational (standing in causal-functional relations). Either add explicit argument addressing higher-order/functionalist views, or acknowledge this as a framework assumption. High severity issue affecting downstream articles.
+- **Output**: obsidian/voids/intrinsic-nature-void.md
+
+### ✓ 2026-01-27: Cross-review panpsychism.md considering intrinsic nature void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) develops the argument that physics describes relations but not intrinsic natures, and that consciousness may be our only window into intrinsic categorical nature. The panpsychism.md concept page should be reviewed to: (1) add cross-link to intrinsic-nature-void article, (2) connect the Russellian monism discussion to the intrinsic nature gap, (3) strengthen the argument that consciousness-as-intrinsic-nature responds to the structural knowledge limitation.
+- **Output**: obsidian/concepts/panpsychism.md -- Context: Cross-review panpsychism.md considering intrinsic nature void insights
+
+### ✓ 2026-01-27: Condense working-memory.md (3910 words, 112% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the workspace where conscious processing occurs—central to GWT, attention, and the consciousness-cognition interface. Preserve: core working memory models (Baddeley, Cowan), relationship to consciousness, connection to attention and binding. May defer detailed neuroscience to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/working-memory.md
+
+### ✓ 2026-01-27: Cross-review limits-reveal-structure.md considering intrinsic nature void
+- **Type**: cross-review
+- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) argues the intrinsic nature void is structural rather than merely unsolved—physics advances by discovering relations, so intrinsic nature lies permanently outside its method. The limits-reveal-structure.md article argues that limits themselves are informative. Check for: (1) cross-links to intrinsic nature void, (2) whether the intrinsic nature void exemplifies the limits-reveal-structure thesis—this particular limit reveals that physical science is structural description, (3) the Russell-Eddington insight as paradigm case.
+- **Output**: obsidian/voids/limits-reveal-structure.md -- Context: Cross-review limits-reveal-structure.md considering intrinsic nature void
+
+### ✓ 2026-01-27: Cross-review mysterianism.md considering intrinsic nature void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) develops the Russell-Eddington intrinsic nature problem: physics describes what matter does but not what it is. The mysterianism.md concept page discusses cognitive closure (McGinn). Check for: (1) cross-links to intrinsic nature void treatment, (2) whether the intrinsic nature void strengthens the mysterian position—if physical science is structurally limited to relational knowledge, McGinn's closure argument gains independent support, (3) connection between Kant's phenomena/noumena distinction and cognitive closure.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering intrinsic nature void insights
 
 ### ✓ 2026-01-27: Condense existentialism.md (3907 words, 112% of threshold)
 - **Type**: condense

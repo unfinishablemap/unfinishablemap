@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-27 05:40:12+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: Why conscious experiences come as integrated wholes rather than sep
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 00:32:00+00:00
+last_deep_review: 2026-01-27 05:40:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -158,13 +158,13 @@ Recent research has moved from theoretical possibility to direct experimental su
 
 **Brain entanglement signatures (Kerskens & Pérez, 2022-2023)**: Using a novel quantum entanglement-detection MRI protocol, researchers observed signals indicating entanglement that correlated specifically with consciousness—present during waking awareness, disappearing during sleep, and correlating with working memory performance. This provides the first direct evidence that entangled quantum states may track phenomenal unity. Warren (2023) raised methodological concerns, but offered no alternative classical account explaining the consciousness-correlated signal patterns.
 
-**Decoherence debate**: Tegmark's influential 2000 calculation claimed quantum effects would decohere in 10⁻¹³ to 10⁻²⁰ seconds. Hagan, Hameroff, and Tuszynski (2002) identified critical errors: Tegmark assumed unrealistically large superposition separations and thermal equilibrium equivalent to death, not life. Corrected estimates: 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer**, placing coherence times well within the millisecond range of neural processing. Recent experimental measurements (Saxena et al., 2020) confirm these longer coherence times in biological systems. Moreover, biological quantum effects in avian magnetoreception and photosynthesis demonstrate evolution can harness quantum coherence—if it optimizes coherence for navigation and energy transfer, it can optimize for consciousness.
+**Decoherence debate**: Tegmark's influential 2000 calculation claimed quantum effects would decohere in 10⁻¹³ to 10⁻²⁰ seconds. Hagan, Hameroff, and Tuszynski (2002) identified critical errors: Tegmark assumed unrealistically large superposition separations and thermal equilibrium equivalent to death, not life. Corrected estimates: 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer**, placing coherence times within the millisecond range of neural processing. These remain theoretical calculations; experimental measurements of coherence in aromatic molecules (Saxena et al., 2020) support longer timescales, though direct measurement in neural microtubules remains an open challenge. That said, biological quantum effects in avian magnetoreception and photosynthesis demonstrate evolution can harness quantum coherence—if it optimizes coherence for navigation and energy transfer, the same may be possible for consciousness.
 
-**Twin study quantum effects (2025)**: A study of 106 monozygotic twin pairs found that entanglement of qubits in stimulus configurations explained 13.5% of variance in implicit learning accuracy, with the Q coefficient (quantum correlation measure) showing up to 31.6% increase in variance across twin responses.
+**Twin study quantum effects (2025)**: A preliminary study of 106 monozygotic twin pairs reported correlations between quantum entanglement measures in stimulus configurations and implicit learning accuracy. These findings are suggestive but await replication and peer review before drawing strong conclusions.
 
 **Relativistic constraint**: Baum (2024) formalized a crucial argument: zero-lag gamma synchrony (40-100 Hz, <1ms precision) cannot arise classically without violating relativistic causality. Bell's theorem and loophole-free experiments confirm that non-local correlations are exclusively quantum. Therefore, conscious binding necessitates quantum non-locality.
 
-None of this proves quantum unity generates phenomenal unity. But three independent lines of evidence converge: pharmacological predictions confirmed (microtubule-anesthesia link), imaging signatures detected (MRI entanglement correlating with awareness), and physical constraints identified (classical mechanisms cannot produce observed synchrony). The debate has shifted from "quantum effects are impossible in warm biology" to "classical theories must now explain these specific empirical patterns."
+None of this proves quantum unity generates phenomenal unity. But three converging lines of evidence from the quantum consciousness framework point in this direction: pharmacological predictions confirmed (microtubule-anesthesia link), imaging signatures detected (MRI entanglement correlating with awareness), and physical constraints identified (classical mechanisms cannot produce observed synchrony). These are not fully independent—they share the Orch OR theoretical framework—but their convergence strengthens the case. The debate has shifted from "quantum effects are impossible in warm biology" to "classical theories must now explain these specific empirical patterns."
 
 ### What Would Challenge This View?
 
@@ -202,15 +202,9 @@ These cases dissociate computational binding from phenomenal binding. The brain 
 
 ### Simple Organisms: Testing the Limits of Unity
 
-Research on [organisms at consciousness boundaries](/concepts/minimal-consciousness/) offers natural experiments on whether unity is constitutive of experience or an additional feature that some conscious systems possess.
+Research on [organisms at consciousness boundaries](/concepts/minimal-consciousness/) offers natural experiments. **Hydra** has ~900 neurons in a decentralized nerve net with no central processing—if it has experience, is it unified? **C. elegans** (302 neurons) shows positive Phi but fails trace-conditioning, suggesting integration and phenomenal unity may not perfectly track each other. **Slime molds** solve mazes without any neurons, demonstrating that information integration alone doesn't produce the structures quantum approaches identify with conscious unity.
 
-**Hydra**: The freshwater Hydra has ~900 neurons arranged in a decentralized nerve net—no brain, no ganglia, no central processing. Multiple non-overlapping networks control different behaviors independently. If Hydra has any experience, is it unified? Or does Hydra's distributed architecture produce multiple micro-experiences without phenomenal unity? The Hydra case challenges whether unity requires centralized integration or whether experience can be as distributed as the underlying substrate.
-
-**C. elegans**: The nematode has exactly 302 neurons with completely mapped connectivity. Computational models show positive Phi (integrated information), suggesting some degree of integration. But C. elegans fails trace-conditioning paradigms—a hallmark of unlimited associative learning. If IIT equates consciousness with integration (Φ), the worm should have unified experience. If the UAL framework locates consciousness where unlimited learning emerges, the worm falls short. The tension reveals that integration and phenomenal unity may not perfectly track each other: a system can have measurable integration without demonstrating the behavioral signatures of unified consciousness.
-
-**Slime molds**: *Physarum polycephalum* solves mazes and optimizes networks without any neurons. If cognition can occur without neural substrates, can phenomenal unity? The slime mold case suggests that whatever produces unity, it is not merely information integration—slime molds integrate information across their cellular mass without the structures (microtubules, neurons) that quantum approaches identify with conscious unity.
-
-These boundary cases illuminate why phenomenal unity may require quantum mechanisms. Classical integration happens in Hydra's nerve net and slime mold networks, yet neither shows the behavioral markers of unified consciousness. If quantum entanglement provides genuine holism where classical coordination cannot, simple organisms that lack quantum-coherent neural structures would lack unity even while processing information—which appears to be exactly what we observe.
+These cases suggest phenomenal unity may require quantum mechanisms: classical integration happens in distributed systems like Hydra and slime molds, yet neither shows behavioral markers of unified consciousness. If quantum entanglement provides genuine holism where classical coordination cannot, organisms lacking quantum-coherent neural structures would lack unity even while processing information.
 
 ## Relation to Site Perspective
 

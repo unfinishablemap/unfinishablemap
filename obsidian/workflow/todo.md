@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review hard-problem-of-consciousness.md considering intrinsic-nature-void insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) frames the hard problem as arising from physics's structural limitation: it describes relations but not intrinsic natures. Consciousness may be our only window into intrinsic nature. Check hard-problem-of-consciousness.md for: (1) cross-links to intrinsic-nature-void, (2) whether the Russellian/structural framing strengthens the article, (3) consistency with how the explanatory gap is presented.
-- **Source**: chain (from intrinsic-nature-void.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review russellian-monism.md considering intrinsic-nature-void insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) presents Russellian monism as one response to the intrinsic nature gap but notes it faces the combination problem. Check russellian-monism.md for: (1) cross-links to intrinsic-nature-void, (2) consistency in how the intrinsic nature argument is framed, (3) whether the void's treatment of the combination problem objection aligns.
@@ -470,8 +464,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
+### P3: Write article on phenomenal value realism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27 (evening). The metaethical foundations of consciousness-based value claims—how phenomenal properties ground objective value. Currently referenced in meaning-of-life.md but not developed. Builds on meaning-of-life.md, qualia.md, emotional-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on Attention Schema Theory critique
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27 (evening). Graziano's AST is a major illusionist theory not yet given dedicated treatment. The Map's attention-as-interface concept provides resources for critique—attention is mechanism, not explanation. Builds on illusionism.md, attention-as-interface.md, stapp-quantum-mind.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review hard-problem-of-consciousness.md considering intrinsic-nature-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) frames the hard problem as arising from physics's structural limitation: it describes relations but not intrinsic natures. Consciousness may be our only window into intrinsic nature. Check hard-problem-of-consciousness.md for: (1) cross-links to intrinsic-nature-void, (2) whether the Russellian/structural framing strengthens the article, (3) consistency with how the explanatory gap is presented.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering intrinsic-nature-void insights
 
 ### ✓ 2026-01-27: Cross-review evolution-of-consciousness.md considering prebiotic collapse insights
 - **Type**: cross-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-27 00:02:12+00:00
+ai_modified: 2026-01-27 18:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,13 +23,14 @@ description: 'McGinn''s cognitive closure thesis: human minds may be constitutio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 17:30:00+00:00
+last_deep_review: 2026-01-27 18:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[mysterianism-cognitive-closure-2026-01-14]]'
 - '[[limits-reveal-structure]]'
 - '[[whether-real]]'
+- '[[intrinsic-nature-void]]'
 title: Mysterianism and Cognitive Closure
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -70,6 +71,12 @@ Consciousness might be such a mystery. The [explanatory-gap](/concepts/explanato
 Jerry Fodor's [radical concept nativism](/voids/conceptual-acquisition-limits/) complements McGinn: while McGinn argues we cannot *conceive* certain properties, Fodor argues we cannot *acquire* certain concepts at all. Learning a concept requires already possessing it to formulate hypotheses—experience triggers innate concepts rather than teaching new ones. If the concept isn't built in, no amount of experience produces it.
 
 McGinn's "property P" may be closed to us because we lack the primitive concepts required to build toward it. This convergence—Fodor on concept acquisition, McGinn on conception, Nicholas Rescher's "agnoseology" on layers of unknowability—suggests cognitive closure is part of a broader recognition that finite cognitive architectures necessarily have boundaries. Any mind powerful enough to think some thoughts is thereby prevented from thinking others.
+
+## The Intrinsic Nature Connection
+
+What might McGinn's property "P" actually be? A compelling answer emerges from the [intrinsic nature void](/voids/intrinsic-nature-void/): physics describes what matter *does*—its relational, dispositional properties—but not what matter *is* in itself. Bertrand Russell and Arthur Eddington observed in the 1920s that physical science provides complete structural description while leaving intrinsic nature entirely dark.
+
+Property P may be the intrinsic categorical nature of matter—whatever underlies the relations physics describes. If so, cognitive closure isn't accidental; it reflects a structural feature of scientific method. We cannot form concepts of intrinsic nature because our concept-forming procedures work through relational description. Consciousness may be our only window into intrinsic nature—we know what experience *is* from the inside, not merely how it relates to other things. This asymmetry explains why the hard problem persists: structural description cannot, in principle, reveal what it structurally cannot access.
 
 ## Mathematical Understanding and Cognitive Closure
 
