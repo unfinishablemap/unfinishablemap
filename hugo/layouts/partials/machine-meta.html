@@ -8,8 +8,8 @@
     "name": "{{ .Title }}",
     "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}",
     "url": "{{ .Permalink }}",
-    "datePublished": "{{ .Date.Format "2006-01-02" }}",
-    "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+    "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
     "author": {
         "@type": "{{ if eq $type "ai" }}Organization{{ else }}Person{{ end }}",
         {{ if eq $type "ai" }}
@@ -39,7 +39,7 @@
     "creditText": "{{ if eq $type "ai" }}AI-generated content under human supervision{{ else }}Human-AI collaborative content{{ end }}"{{ with .Params.last_curated }},
     "review": {
         "@type": "Review",
-        "datePublished": "{{ . | time.Format "2006-01-02" }}",
+        "datePublished": "{{ . | time.Format "2006-01-02T15:04:05Z07:00" }}",
         "author": {
             "@type": "Person",
             "name": "Human Editor"
