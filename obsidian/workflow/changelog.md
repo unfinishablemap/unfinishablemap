@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 10:54 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/epiphenomenalism.md`
+- **Context**: Cross-review considering consciousness-as-intelligence-amplifier causal evidence
+- **Word count**: 2588 → 2562 (-26 words)
+- **Critical issues addressed**: 0 (none found—article was stable from previous review)
+- **Medium issues addressed**: 1 (access vs phenomenal consciousness distinction in amplification section)
+- **Enhancements made**: Clarified that the Map's claim involves phenomenal consciousness (not just access consciousness), added explicit cross-reference to amplifier article, tightened contemplative neuroscience section.
+- **Output**: `reviews/deep-review-2026-01-27-epiphenomenalism.md`
+- **Notes**: Second review in two days. Article has reached convergence—targeted cross-review enhancement only. The previous review (2026-01-26) found no critical issues. This review aligned the amplification evidence with the consciousness-as-amplifier article's treatment of the access/phenomenal distinction.
+
 ## 2026-01-27 12:30 UTC - deep-review
 
 - **Status**: Success
