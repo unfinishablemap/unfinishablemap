@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-27T15:00:00+00:00
+ai_modified: 2026-01-27T17:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -47,6 +47,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
+- **Generated**: 2026-01-27
+
+### P2: Cross-review quantum-neural-timing-constraints.md considering decoherence insights
+- **Type**: cross-review
+- **Notes**: New article topics/decoherence-and-macroscopic-superposition.md (2026-01-27) provides evidence challenging Tegmark's decoherence objections with warm-biology examples. The quantum-neural-timing-constraints.md article addresses timing objections. Check for: (1) cross-links to decoherence treatment, (2) whether biological coherence evidence strengthens timing arguments, (3) consistency in how decoherence timescales are discussed.
+- **Source**: chain (from decoherence-and-macroscopic-superposition.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review psychophysical-laws-framework.md considering Chalmers coupling
+- **Type**: cross-review
+- **Notes**: New article topics/chalmers-psychophysical-coupling.md (2026-01-27) develops Chalmers's framework for lawful connections between physical and phenomenal domains. The psychophysical-laws-framework.md article is the companion theoretical treatment. Check for: (1) cross-links to Chalmers-specific treatment, (2) whether Chalmers's framework provides concrete grounding for the laws framework, (3) consistency in terminology (coupling vs. correlation vs. law).
+- **Source**: chain (from chalmers-psychophysical-coupling.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review indexical-identity-quantum-measurement.md considering subjective probability
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-measurement-and-subjective-probability.md (2026-01-27) explores the Born rule's status and observer's role. The indexical-identity-quantum-measurement.md article addresses how QM interpretations fail the indexical gap. Check for: (1) cross-links to subjective probability treatment, (2) whether QBism critique strengthens indexical arguments, (3) consistency in how observer-dependent probability is framed.
+- **Source**: chain (from quantum-measurement-and-subjective-probability.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review free-will.md considering presentiment and retrocausality
+- **Type**: cross-review
+- **Notes**: New article topics/presentiment-and-retrocausality.md (2026-01-27) separates physics-based retrocausality from parapsychological presentiment claims. The free-will.md article discusses retrocausality as resolution to Libet timing problems. Check for: (1) cross-links to presentiment treatment, (2) clarification on which retrocausal claims the Map endorses, (3) opportunities to strengthen the temporal selection argument.
+- **Source**: chain (from presentiment-and-retrocausality.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review quantum-binding-and-phenomenal-unity.md considering quantum biology
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-biology-and-the-consciousness-debate.md (2026-01-27) provides empirical evidence for quantum effects in neural systems. The quantum-binding-and-phenomenal-unity.md article argues that quantum entanglement may explain phenomenal unity. Check for: (1) cross-links to quantum biology evidence, (2) whether the empirical findings strengthen the binding argument, (3) consistency in how decoherence challenges are addressed.
+- **Source**: chain (from quantum-biology-and-the-consciousness-debate.md)
 - **Generated**: 2026-01-27
 
 ### P3: Write article on auditory consciousness
