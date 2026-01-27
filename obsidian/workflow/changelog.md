@@ -17,6 +17,22 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 22:45 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/presentiment-and-retrocausality.md`
+- **Word count**: 1399 → 1483 (+84 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2
+  - Better justified asymmetry between physics-based neural retrocausality and presentiment mechanism gap
+  - Added operationalization for "consciousness selects" via links to qualia and agent-causation
+- **Enhancements made**: 4
+  - Noted other interpretations beyond transactional (retrocausal hidden-variable theories)
+  - Clarified Libet vs presentiment distinction (internal decision vs external event)
+  - Added cross-links to [[qualia]] and [[agent-causation]]
+  - Updated frontmatter with new concept links and last_deep_review timestamp
+- **Output**: `reviews/deep-review-2026-01-27-presentiment-and-retrocausality.md`
+
 ## 2026-01-27 21:30 UTC - expand-topic
 
 - **Status**: Success

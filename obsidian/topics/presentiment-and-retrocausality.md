@@ -4,7 +4,7 @@ description: "Distinguishing physics-based retrocausality from contested parapsy
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-01-27T21:30:00+00:00
+ai_modified: 2026-01-27T22:45:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -13,6 +13,8 @@ concepts:
   - "[[retrocausality]]"
   - "[[quantum-consciousness]]"
   - "[[libet-experiments]]"
+  - "[[qualia]]"
+  - "[[agent-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[retrocausal-neural-firing-presentiment-2026-01-23]]"
@@ -21,13 +23,14 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated:
+last_deep_review: 2026-01-27T22:45:00+00:00
 ---
 
 The Unfinishable Map grounds retrocausality in physics—time-symmetric quantum mechanics, Wheeler's delayed-choice experiments, the transactional interpretation. Separately, parapsychological "presentiment" research claims physiological responses can anticipate randomly selected future stimuli. These are independent lines of inquiry. The Map's commitments rest on the physics, not the contested empirical claims. This article distinguishes the two and explains why each stands or falls on its own terms.
 
 ## Two Distinct Claims
 
-**Physics-based retrocausality** holds that quantum mechanics' fundamental equations are time-symmetric, and that this symmetry has physical significance. The claim is interpretive: retrocausality is one way to make sense of Bell correlations, delayed-choice experiments, and the measurement problem. Cramer's transactional interpretation and Price's time-symmetric causation represent sophisticated philosophical positions developed within mainstream physics.
+**Physics-based retrocausality** holds that quantum mechanics' fundamental equations are time-symmetric, and that this symmetry has physical significance. The claim is interpretive: retrocausality is one way to make sense of Bell correlations, delayed-choice experiments, and the measurement problem. Cramer's transactional interpretation, Price's time-symmetric causation, and retrocausal variants of hidden-variable theories represent sophisticated positions developed within mainstream physics.
 
 **Presentiment (or predictive anticipatory activity)** claims that physiological measures—skin conductance, heart rate, pupil dilation, brain activity—can respond to randomly selected stimuli *before* the stimulus is selected. The claim is empirical: bodies somehow anticipate future events.
 
@@ -65,13 +68,13 @@ The Bayesian debate is particularly instructive. Bem's mega-analysis claims a Ba
 
 Even granting the presentiment literature's most generous interpretation, several considerations keep the Map's foundations independent:
 
-**Unconscious responses don't establish conscious causation.** Presentiment concerns involuntary physiological activity—skin conductance, pupil dilation, autonomic responses. This is precisely *not* the conscious selection the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] describes. The tenet claims consciousness selects among neural possibilities. Unconscious anticipation, even if real, would be something different.
+**Unconscious responses don't establish conscious causation.** Presentiment concerns involuntary physiological activity—skin conductance, pupil dilation, autonomic responses. This is precisely *not* the conscious selection the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] describes. The tenet claims consciousness selects among neural possibilities—a selection that manifests in [[qualia|phenomenal experience]], reasoned deliberation, and actions attributable to the agent. Unconscious anticipation, even if real, would be something different: automatic organismic response rather than [[agent-causation|agent-level selection]].
 
 **Physics-based retrocausality is independently grounded.** The transactional interpretation doesn't require presentiment. Wheeler's delayed-choice is experimentally confirmed. Time-symmetric quantum mechanics is mathematically sound. The Map can affirm retrocausality while remaining agnostic about presentiment because the physics stands alone.
 
 **Controversial evidence is fragile foundation.** The Map's [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] acknowledges that simplicity preferences can mislead. But this cuts against relying on contested evidence too. If the Map's claims required presentiment, critics could dismiss the entire framework by attacking the weakest evidence. Grounding retrocausality in physics insulates core commitments from parapsychological controversies.
 
-**The mechanism gap remains unbridged.** Even if quantum retrocausality is real, no demonstrated pathway connects it to macroscopic physiological responses. How would retrocausal quantum effects produce systematic skin conductance changes seconds before random stimuli? The theoretical connection is missing.
+**The mechanism gap is far larger for presentiment.** Even if quantum retrocausality is real, no demonstrated pathway connects it to macroscopic physiological responses. Physics-based retrocausality operates at quantum measurement—the transition from superposition to definite outcome. Neural firing involves quantum events at synapses and ion channels, plausibly interfacing with this level. But skin conductance changes require coordinated activity across millions of sweat glands. The mechanism gap for presentiment is qualitatively larger: it requires amplifying quantum retrocausality not just to individual neural decisions but to coherent organismic responses anticipating external events the organism has no information about.
 
 ## What Presentiment Would Mean If Real
 
@@ -87,7 +90,7 @@ For the Map, presentiment would be interesting auxiliary evidence, not foundatio
 
 [[libet-experiments|Libet's experiments]] concern a different temporal puzzle. Libet showed that neural "readiness potentials" precede conscious awareness of deciding to move. This challenges the intuition that conscious decisions cause actions—the neural activity seems to come first.
 
-Presentiment studies claim something else: physiological responses precede randomly selected *external* stimuli. This isn't about decisions at all. It's about somehow knowing what will happen before it's determined.
+Presentiment studies claim something else: physiological responses precede randomly selected *external* stimuli. This isn't about the timing of *internal* decisions—it's about somehow accessing information about *external* events before that information exists.
 
 The Map's retrocausal framework addresses Libet. If consciousness operates through atemporal quantum transactions, the readiness potential can be part of the selected package rather than a prior cause. The temporal ordering is an artifact of viewing the transaction from within time.
 
