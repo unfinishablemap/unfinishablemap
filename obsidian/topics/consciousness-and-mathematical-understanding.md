@@ -4,7 +4,7 @@ description: "Mathematical insight—grasping why a proof works, not just verify
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-26T22:15:00+00:00
+ai_modified: 2026-01-27T19:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,12 +23,13 @@ concepts:
   - "[[philosophical-zombies]]"
 related_articles:
   - "[[tenets]]"
+  - "[[computational-cognitive-limits]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-21
 last_curated: null
-last_deep_review: 2026-01-22T00:30:00+00:00
+last_deep_review: 2026-01-27T19:30:00+00:00
 ---
 
 Mathematical understanding presents a challenge to physicalist accounts of mind. When you grasp why a proof works—not merely verify each step but *see* the necessity—something happens that resists description in purely computational terms. Roger Penrose argued that this mathematical insight demonstrates consciousness cannot be algorithmic. Whether or not his specific argument succeeds, the phenomenology of mathematical understanding reveals features of consciousness that physical description struggles to capture.
@@ -45,6 +46,8 @@ The argument runs roughly:
 2. Mathematicians can recognise G as true by understanding what it says.
 3. No algorithm operating within F can recognise G as true.
 4. Therefore, mathematical understanding involves something non-algorithmic.
+
+These formal results—Gödel's incompleteness, the halting problem, Rice's theorem—constitute [[computational-cognitive-limits|proven limits on computation]] that no algorithmic process can circumvent. The philosophical question is whether consciousness accesses something beyond these limits or shares them.
 
 Critics object that this proves too much or too little. Perhaps mathematicians use some larger system F' to recognise G—but then F' has its own unprovable truth G'. The regress suggests mathematical understanding cannot be captured by *any* fixed algorithm, which is Penrose's point.
 
@@ -159,7 +162,7 @@ Reports from mathematicians describe periods of intense concentration leading to
 
 The claim that mathematical understanding requires phenomenal consciousness would be undermined by:
 
-**AI systems demonstrating genuine mathematical insight.** If an artificial system—one we have strong reason to believe lacks phenomenal consciousness—could not merely verify proofs but generate novel mathematical insights, explain *why* proofs work, and exhibit the hallmarks of genuine understanding (success-coupling, creative application, error detection), this would challenge the consciousness requirement. Current LLMs can manipulate mathematical symbols impressively but show limited capacity for the kind of "seeing necessity" that characterises insight. Future systems might change this picture.
+**AI systems demonstrating genuine mathematical insight.** If an artificial system—one we have strong reason to believe lacks phenomenal consciousness—could not merely verify proofs but generate novel mathematical insights, explain *why* proofs work, and exhibit the hallmarks of genuine understanding (success-coupling, creative application, error detection), this would challenge the consciousness requirement. As of 2025, LLMs can manipulate mathematical symbols impressively but show limited capacity for the kind of "seeing necessity" that characterises insight. Future systems might change this picture.
 
 **Neuroscientific reduction of "insight" to computation.** If the neural correlates of the "aha" moment turned out to be straightforward information integration—functionally identical to processes in systems we don't consider conscious—this would support the illusionist interpretation. The current evidence suggests insight involves distinctive neural signatures, but a fully computational account of these signatures would challenge the non-computational thesis.
 
@@ -182,6 +185,7 @@ The view would be *supported* by:
 - [[ai-consciousness]] — Whether artificial systems could understand mathematics
 - [[phenomenology-of-choice]] — Parallels between choice phenomenology and insight phenomenology
 - [[agent-causation]] — Mathematical creativity as a case of genuine causal agency
+- [[computational-cognitive-limits]] — Formal proofs of what computation cannot do
 
 ## References
 
