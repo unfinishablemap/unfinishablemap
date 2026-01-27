@@ -17,6 +17,20 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 12:00 UTC - coalesce
+
+- **Status**: Success
+- **Sources**:
+  - `concepts/consciousness-as-amplifier.md` (2300 words)
+  - `topics/consciousness-as-intelligence-amplifier.md` (1900 words)
+- **Target**: `concepts/consciousness-as-amplifier.md`
+- **Archived**: `archive/topics/consciousness-as-intelligence-amplifier.md`
+- **Final word count**: ~3400 words
+- **References updated**: 2 files (`bidirectional-interaction.md`, `interactionist-dualism.md`)
+- **Notes**: Merged two parallel treatments of the consciousness-as-amplifier thesis. Topics version contributed careful philosophical distinctions (three senses of consciousness: phenomenal, access, executive function). Concepts version contributed baseline cognition hypothesis, Jourdain hypothesis, process philosophy, contemplative evidence. Unified article preserves both contributions. Topics version archived with proper metadata for URL preservation.
+
+---
+
 ## 2026-01-27 01:18 UTC - condense
 
 - **Status**: Success

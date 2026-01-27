@@ -25,7 +25,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[stapp-quantum-mind]]"
-  - "[[consciousness-as-intelligence-amplifier]]"
+  - "[[consciousness-as-amplifier]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -143,7 +143,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 - [[mental-causation]] — The broader problem of how mind causes anything
 - [[causal-closure]] — The closure objection and its limits
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism in detail
-- [[consciousness-as-intelligence-amplifier]] — Evolutionary evidence for causal efficacy
+- [[consciousness-as-amplifier]] — Evolutionary evidence for causal efficacy
 - [[baseline-cognition]] — The great ape comparison
 - [[downward-causation]] — Top-down causation more generally
 - [[tenets]] — The Map's foundational commitments

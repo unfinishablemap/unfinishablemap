@@ -21,6 +21,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated:
 last_deep_review: 2026-01-25T18:01:41+00:00
+archived: true
+archived_date: 2026-01-27T12:00:00+00:00
+superseded_by: "/concepts/consciousness-as-amplifier/"
+archive_reason: "Coalesced into Consciousness as Intelligence Amplifier (concepts version)"
+original_path: "/topics/consciousness-as-intelligence-amplifier/"
 ---
 
 Consciousness may not create intelligence from scratch, but it amplifies what is already present. Where unconscious processing provides fast, automatic responses to familiar situations, consciousness enables flexible deployment of cognitive resources, metacognitive monitoring for error correction, and counterfactual reasoning about what might be rather than what is. This amplification effect offers a compelling answer to a central question in philosophy of mind: if consciousness exists, what does it do?

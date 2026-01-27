@@ -36,7 +36,7 @@ concepts:
   - "[[attention-as-interface]]"
 related_articles:
   - "[[tenets]]"
-  - "[[consciousness-as-intelligence-amplifier]]"
+  - "[[consciousness-as-amplifier]]"
   - "[[conservation-laws-and-mind]]"
   - "[[interactionist-dualism-2026-01-06]]"
   - "[[objections-to-interactionist-dualism-2026-01-15]]"
@@ -319,7 +319,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [[causal-closure]] — The closure objection and responses
 
 **Related topics:**
-- [[mental-causation]], [[agent-causation]], [[emergence]], [[epiphenomenalism]], [[evolution-of-consciousness]], [[quantum-indeterminacy-free-will]], [[consciousness-as-intelligence-amplifier]]
+- [[mental-causation]], [[agent-causation]], [[emergence]], [[epiphenomenalism]], [[evolution-of-consciousness]], [[quantum-indeterminacy-free-will]], [[consciousness-as-amplifier]]
 
 ## References
 
