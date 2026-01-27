@@ -49,18 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Address physical-to-phenomenal holism gap in quantum-binding article
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-01-27 night) found the article claims quantum entanglement provides "genuine ontological holism" matching phenomenal unity, but doesn't explain how physical holism produces phenomenal unity—the same explanatory gap identified for classical binding. Either provide argument for the mapping, or acknowledge quantum binding relocates rather than solves BP2. See pessimistic-2026-01-27-night.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-27
-
-### P2: Condense death-and-consciousness.md (4511 words, 150% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Covers filter theory, survival hypothesis, and relationship between consciousness and biological death. Preserve: core filter argument, engagement with illusionism, connection to dualism tenet. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-27
-
 ### P2: Condense materialism.md (3788 words, 152% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for arguments/. Comprehensive treatment of materialist position the site argues against. Preserve: main materialist arguments, relationship to hard problem, engagement with explanatory gap. See /condense skill.
@@ -570,6 +558,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Address physical-to-phenomenal holism gap in quantum-binding article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-27 night) found the article claims quantum entanglement provides "genuine ontological holism" matching phenomenal unity, but doesn't explain how physical holism produces phenomenal unity—the same explanatory gap identified for classical binding. Either provide argument for the mapping, or acknowledge quantum binding relocates rather than solves BP2. See pessimistic-2026-01-27-night.md.
+
+### ✓ 2026-01-27: Address physical-to-phenomenal holism gap in quantum-binding article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-27 night) identified that the article claimed quantum holism "explains" phenomenal unity without argument. Refined to: (1) revised opening to "structurally corresponds to" rather than "explains"; (2) added "The Remaining Gap" subsection explicitly acknowledging quantum holism relocates rather than dissolves hard problem; (3) improved illusionism precondition response to acknowledge counter-response; (4) updated Dualism tenet section for consistency.
+- **Output**: obsidian/topics/quantum-binding-and-phenomenal-unity.md
 
 ### ✓ 2026-01-27: Write article on pre-conceptual knowing
 - **Type**: expand-topic

@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 19:44 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/quantum-binding-and-phenomenal-unity.md`
+- **Based on**: pessimistic-2026-01-27-night.md Issue 2 (Physical Holism ≠ Phenomenal Holism)
+- **Changes**:
+  - Revised opening summary: replaced "capable of explaining" with "structurally corresponds to"; acknowledged structural correspondence doesn't dissolve hard problem
+  - Added new subsection "The Remaining Gap" explicitly addressing how quantum holism relocates rather than solves the explanatory gap
+  - Improved precondition response to illusionism: acknowledged illusionist counter-response while noting its cost
+  - Updated Dualism tenet section to align with "relocates rather than dissolves" framing
+  - Updated description meta field
+- **Published**: yes
+
 ## 2026-01-27 23:50 UTC - pessimistic-review
 
 - **Status**: Success
