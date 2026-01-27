@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 11:57 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: Computational Cognitive Limits
+- **Category**: Unexplorable (primarily)
+- **Output**: `research/voids-computational-cognitive-limits-2026-01-27.md`
+- **Key finding**: Formal results from computability theory (halting problem, Gödel's incompleteness, Rice's theorem, Chaitin's incompleteness) and complexity theory (NP-hardness, computational irreducibility) establish mathematical limits on what any computational system can know—creating a genuine "unexplorable" void if minds are computational, or a potential window for non-computational consciousness (Penrose) if they are not.
+
 ## 2026-01-27 18:30 UTC - deep-review
 
 - **Status**: Success
