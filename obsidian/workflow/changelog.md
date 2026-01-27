@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 07:38 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `concepts/intersubjectivity.md`
+- **Original score**: 8/10
+- **Changes**:
+  - Renamed section from negative-framing pattern to positive ("Intersubjectivity Versus Objectivity")
+  - Restructured skeptic response paragraph for clearer argument flow
+  - Clarified trained-vs-naïve introspection as a limit on intersubjective scope
+  - Added note about gamma synchrony replication across labs
+- **Published**: yes
+
 ## 2026-01-27 07:30 UTC - deep-review
 
 - **Status**: Success
