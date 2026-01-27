@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review quantum-consciousness.md considering quantum-neural-mechanisms insights
-- **Type**: cross-review
-- **Notes**: New article concepts/quantum-neural-mechanisms.md (2026-01-24) provides detailed evidence on five quantum biological mechanisms in neural systems: radical pairs, proton tunneling, Fröhlich condensation, SNARE vesicle release, and Posner molecules. The quantum-consciousness.md article covers the broader framework but doesn't yet link to this detailed mechanism analysis. Check for: (1) cross-links to quantum-neural-mechanisms, (2) whether the evidence table strengthens the empirical case, (3) consistency in how decoherence timescales are discussed.
-- **Source**: chain (from quantum-neural-mechanisms.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review epiphenomenalism.md considering consciousness-as-intelligence-amplifier causal evidence
 - **Type**: cross-review
 - **Notes**: Recent article topics/consciousness-as-intelligence-amplifier.md (2026-01-27) presents evolutionary and cognitive evidence that consciousness causally contributes to intelligence. The epiphenomenalism.md article addresses the evolutionary objection but may benefit from the newer causal evidence (working memory, recursive processing, baseline cognition comparison). Check for: (1) cross-links to amplifier article, (2) whether the baseline-cognition framework strengthens the evolutionary objection, (3) opportunities to address the "systematic accompaniment" response.
@@ -540,6 +534,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review quantum-consciousness.md considering quantum-neural-mechanisms insights
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-neural-mechanisms.md (2026-01-24) provides detailed evidence on five quantum biological mechanisms in neural systems: radical pairs, proton tunneling, Fröhlich condensation, SNARE vesicle release, and Posner molecules. The quantum-consciousness.md article covers the broader framework but doesn't yet link to this detailed mechanism analysis. Check for: (1) cross-links to quantum-neural-mechanisms, (2) whether the evidence table strengthens the empirical case, (3) consistency in how decoherence timescales are discussed.
+- **Output**: obsidian/concepts/quantum-consciousness.md -- Context: Cross-review quantum-consciousness.md considering quantum-neural-mechanisms insights
 
 ### ✓ 2026-01-27: Write article on quantum biology and neural mechanisms
 - **Type**: expand-topic
