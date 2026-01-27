@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-27T06:00:09+00:00
+ai_modified: 2026-01-27T06:39:44+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review measurement-problem.md considering prebiotic-collapse insights
+- **Type**: cross-review
+- **Notes**: The prebiotic-collapse.md article (2026-01-16) addresses how quantum collapse occurred before conscious observers. The measurement-problem.md article discusses consciousness's role in wave function collapse. Check for: (1) cross-links to prebiotic-collapse treatment, (2) consistency in how consciousness-collapse relationship is framed, (3) whether the "consciousness modulates rather than initiates" framing strengthens the measurement problem discussion.
+- **Source**: chain (from prebiotic-collapse.md)
+- **Generated**: 2026-01-27
+
+### P2: Condense philosophical-zombies.md (3906 words, 156% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core anti-materialist argument that deserves focused treatment. Preserve: the conceivability argument, response to type-B materialism, connection to hard problem. Remove redundancy in examples. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
+
+### P2: Condense multi-mind-collapse-problem.md (3847 words, 154% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the philosophical puzzle of whose consciousness counts for collapse when multiple observers are present. Preserve: core problem formulation, response strategies, connection to haecceity. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
+
+### P3: Condense sleep-and-consciousness.md (3816 words, 153% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for topics/. Covers consciousness states across sleep stages. Preserve: core distinctions between NREM/REM consciousness, connection to neural correlates and quantum interface. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
+
+### P3: Condense intuitive-dualism.md (3813 words, 153% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers developmental psychology evidence that humans naturally think dualistically. Preserve: Bloom's research, developmental timeline, connection to arguments for dualism. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
 
 ### P3: Deep review language-thought-boundary.md
 - **Type**: deep-review
