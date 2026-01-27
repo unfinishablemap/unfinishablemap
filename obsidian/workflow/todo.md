@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense phenomenology.md (4049 words, 162% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core methodological article covering Husserl's phenomenology, epoché, phenomenological reduction. Preserve: key methodological concepts, distinction from heterophenomenology, connection to neurophenomenology. May defer detailed historical context to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-27
-
 ### P2: Condense neural-correlates-of-consciousness.md (4038 words, 163% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Central empirical concept linking consciousness to brain states. Preserve: core NCC methodology, distinction between content/full NCCs, relationship to hard problem. Defer detailed neuroscience to linked articles. See /condense skill.
@@ -454,6 +448,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Condense phenomenology.md (4049 words, 162% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core methodological article covering Husserl's phenomenology, epoché, phenomenological reduction. Preserve: key methodological concepts, distinction from heterophenomenology, connection to neurophenomenology. May defer detailed historical context to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/phenomenology.md
 
 ### ✓ 2026-01-27: Condense self-reference-paradox.md (3499 words, 175% of threshold)
 - **Type**: condense
