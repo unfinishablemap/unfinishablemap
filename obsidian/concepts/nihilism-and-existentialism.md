@@ -4,7 +4,7 @@ description: "The crisis of meaning and its philosophical response. Nihilism dia
 created: 2026-01-06
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T07:00:00+00:00
+ai_modified: 2026-01-27T11:36:35+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-27T11:36:35+00:00
 coalesced_from:
   - "/concepts/nihilism/"
   - "/concepts/existentialism/"
@@ -98,9 +98,11 @@ The challenge is to create meaning without pretending it was there all along—o
 
 [[Illusionism]] argues that phenomenal consciousness is an introspective illusion—that there's nothing it's *like* to choose or feel anguish. If true, existentialism's starting point collapses.
 
-But illusionism faces a regress: for anguish to be illusory, something must experience that illusory anguish. The *seeming* of choice must *seem to* something. Sartre anticipated this—his pour-soi (being-for-itself) is precisely the awareness structure that resists reduction to thinghood. The illusionist's move is itself a form of bad faith: treating consciousness as an en-soi (thing) rather than the pour-soi it reveals itself to be.
+But illusionism faces a regress: for anguish to be illusory, something must experience that illusory anguish. The *seeming* of choice must *seem to* something. The functionalist might reply that the "seeming" is just a functional state representing itself a certain way—no traditional experiencer required. Yet this pushes the question back: what makes a representation *seem* rather than merely *be*? A thermostat represents temperature without anything seeming any way to it. The distinction between representations that seem and those that don't reintroduces the explanandum.
 
-Contemplative evidence supports existentialism here. If illusionism were correct, sustained [[introspection]] should dissolve the "illusion" of consciousness. Instead, practice *refines* phenomenal access. [[Witness-consciousness|Witness consciousness]]—observing thoughts without identification—demonstrates the subject-object structure existentialism requires.
+Sartre anticipated this—his pour-soi (being-for-itself) is precisely the awareness structure that resists reduction to thinghood. The illusionist's move is itself a form of bad faith: treating consciousness as an en-soi (thing) rather than the pour-soi it reveals itself to be.
+
+Contemplative traditions report that sustained practice *refines* rather than dissolves phenomenal access—though this evidence is first-personal and contested. [[Witness-consciousness|Witness consciousness]]—observing thoughts without identification—demonstrates the subject-object structure existentialism requires.
 
 The connection to [[haecceity]] deepens the point. Existentialist self-creation produces not a replicable pattern but *this* unrepeatable subject. Illusionism treats consciousness as multiply realisable; existentialism insists on the non-substitutability of this particular perspective making these particular choices.
 
@@ -112,7 +114,7 @@ The [[eastern-philosophy-consciousness|Four Noble Truths]] diagnose the human co
 
 Where Western nihilism often concludes "nothing matters," Buddhism argues that *any* desperate grasping perpetuates suffering. The middle way isn't to deny experience's value or to grasp it desperately, but to engage fully while holding lightly.
 
-The Madhyamaka school's concept of *śūnyatā* (emptiness) specifically addresses the nihilism charge. Emptiness doesn't mean "nothing exists" but "nothing exists independently." Meaning exists relationally, not absolutely.
+The Madhyamaka school's concept of *śūnyatā* (emptiness) specifically addresses the nihilism charge. Emptiness doesn't mean "nothing exists" but "nothing exists with inherent, independent nature." Meaning exists relationally, not absolutely. This creates tension with any strong claim about consciousness having intrinsic properties—a point the [[buddhism-and-dualism|compatibility thesis]] must navigate carefully.
 
 ### The Compatibility Thesis
 
@@ -140,7 +142,7 @@ Sartre's pour-soi (being-for-itself) is radically distinct from en-soi (being-in
 
 ### Bidirectional Interaction
 
-Existentialism assumes that choices make a difference but never explains how. The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] provides the mechanism: consciousness influences outcomes through quantum selection, biasing which neural patterns actualise. The phenomenology of mental effort—trying, sustaining attention—gains significance here.
+Existentialism assumes that choices make a difference but never explains how. The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] provides the mechanism: consciousness influences outcomes through quantum selection, biasing which neural patterns actualise. The phenomenology of mental effort—trying, sustaining attention—gains significance here. For detailed treatment of how consciousness might causally influence physical outcomes without violating physics, see [[mental-causation]].
 
 ### Minimal Quantum Interaction
 
@@ -148,7 +150,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] pr
 
 ### No Many Worlds
 
-The [[tenets#^no-many-worlds|No Many Worlds tenet]] is crucial for existentialism. If Many-Worlds were true, every choice actualises all options across branches—the authentic self coexists with the self in bad faith. Existentialist emphasis on the weight of singular choice requires that decisions genuinely select one outcome. The Map's rejection of MWI preserves what existentialism needs: choices that matter because made by *this* unrepeatable subject.
+The [[tenets#^no-many-worlds|No Many Worlds tenet]] is crucial for existentialism. If Many-Worlds were true, every choice actualises all options across branches—the authentic self coexists with the self in bad faith. MWI defenders argue that choices still matter from each branch-bound observer's perspective, but this relocates meaning to subjective reference frames rather than grounding it in genuine selection. Existentialist emphasis on the weight of singular choice requires that decisions genuinely select one outcome. The Map's rejection of MWI preserves what existentialism needs: choices that matter because made by *this* unrepeatable subject.
 
 ### Existential Nihilism Remains Complex
 
