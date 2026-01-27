@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on consciousness and intelligence evolution
-- **Type**: expand-topic
-- **Notes**: Research completed in research/consciousness-influence-intelligence-2026-01-21.md. Examines evidence that consciousness causally contributes to intelligence—both evolutionarily (why did consciousness evolve if epiphenomenal?) and cognitively (what does consciousness add beyond unconscious processing?). Directly supports Bidirectional Interaction tenet with evolutionary arguments.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review temporal-consciousness.md considering process-philosophy insights
 - **Type**: cross-review
 - **Notes**: New article concepts/process-philosophy.md (2026-01-27) develops Whitehead's process metaphysics where reality is fundamentally composed of "occasions of experience" rather than static matter. The temporal-consciousness.md article addresses how consciousness relates to time. Check for: (1) cross-links to process philosophy's treatment of temporality, (2) whether Whitehead's "epochal theory of time" strengthens arguments about conscious duration, (3) connections between process philosophy's rejection of substance ontology and temporal consciousness.
@@ -528,6 +522,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Write article on consciousness and intelligence evolution
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-influence-intelligence-2026-01-21.md. Examines evidence that consciousness causally contributes to intelligence—both evolutionarily (why did consciousness evolve if epiphenomenal?) and cognitively (what does consciousness add beyond unconscious processing?). Directly supports Bidirectional Interaction tenet with evolutionary arguments.
+- **Output**: consciousness and intelligence evolution
 
 ### ✓ 2026-01-27: Condense indexical-identity-haecceity-thisness research notes (4623 words, 185% of target)
 - **Type**: condense

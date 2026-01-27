@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 12:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Consciousness as Intelligence Amplifier
+- **Output**: `topics/consciousness-as-intelligence-amplifier.md`
+- **Word count**: 1400
+- **Based on research**: Yes
+  - `research/consciousness-influence-intelligence-2026-01-21.md`
+  - `research/consciousness-independent-baseline-cognition-2026-01-21.md`
+- **Summary**: Article explores how consciousness transforms baseline cognition into human-level intelligence. Covers the baseline cognition hypothesis (great apes as model), consciousness-dependent cognitive functions (logical reasoning, counterfactual thinking, metarepresentation), the evolutionary argument against epiphenomenalism, and implications for AI. Listed as source article for Machine Question apex article.
+
 ## 2026-01-27 20:00 UTC - condense
 
 - **Status**: Success
