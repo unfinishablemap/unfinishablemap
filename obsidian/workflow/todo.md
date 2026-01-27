@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Condense indexical-identity-haecceity-thisness research notes (4623 words, 185% of target)
-- **Type**: condense
-- **Notes**: Research file exceeds 2500-word hard threshold for research/. Contains valuable material on haecceity but is overlong for research notes. Preserve key sources and tenet alignments while removing redundancy. The vertiginous-question.md topic has been written from this research, so some material may now be duplicative.
-- **Source**: length_analysis
-- **Generated**: 2026-01-27
-
-### P2: Condense arguments-against-materialism research notes (4518 words, 181% of target)
-- **Type**: condense
-- **Notes**: Research file exceeds 2500-word hard threshold for research/. Core arguments should be preserved but the file may contain redundant elaboration. Check what material has been incorporated into arguments-against-materialism.md concept article.
-- **Source**: length_analysis
-- **Generated**: 2026-01-27
-
 ### P3: Write article on teleportation and personal identity
 - **Type**: expand-topic
 - **Notes**: Classic thought experiment (Parfit's teleportation, Star Trek transporter problem) directly relevant to haecceity and the No Many Worlds tenet. If a teleporter destroys the original and creates a perfect copy, is the copy the same person? Builds on haecceity.md, personal-identity.md, philosophical-zombies.md. Would strengthen the indexical identity arguments.
@@ -510,6 +498,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Condense indexical-identity-haecceity-thisness research notes (4623 words, 185% of target)
+- **Type**: condense
+- **Notes**: Research file exceeds 2500-word hard threshold for research/. Contains valuable material on haecceity but is overlong for research notes. Preserve key sources and tenet alignments while removing redundancy. The vertiginous-question.md topic has been written from this research, so some material may now be duplicative.
 
 ### ✓ 2026-01-27: Cross-review temporal-consciousness.md considering process-philosophy insights
 - **Type**: cross-review

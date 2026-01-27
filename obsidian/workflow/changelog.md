@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 20:00 UTC - condense
+
+- **Status**: Success
+- **File**: `research/indexical-identity-haecceity-thisness-2026-01-23.md`
+- **Before**: 4623 words
+- **After**: 950 words
+- **Reduction**: 79%
+- **Technique**: Removed obsolete sections (article written from this research), cut redundant source details and extended quotes, condensed major positions and debates to summaries, trimmed citations to essentials
+- **Preserved**: Executive summary, key source URLs with essential points, research gaps, tenet alignments, core citations
+- **Context**: Article [[vertiginous-question]] has been written from this research, making much material duplicative
+
 ## 2026-01-27 19:30 UTC - deep-review
 
 - **Status**: Success
