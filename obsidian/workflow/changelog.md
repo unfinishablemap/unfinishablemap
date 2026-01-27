@@ -17,6 +17,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 23:15 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/retrocausality.md`
+- **Context**: Cross-review considering presentiment-and-retrocausality insights
+- **Word count**: 1829 → 1882 (+53)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Updated presentiment cross-link from research notes to dedicated topic article
+  - Added mechanism gap clarification (neural vs. macroscopic physiological)
+  - Added presentiment-and-retrocausality to Further Reading and frontmatter
+- **Enhancements made**: 1
+  - Integrated key insight distinguishing physics-based retrocausality from contested parapsychology
+- **Output**: `reviews/deep-review-2026-01-27-retrocausality.md`
+
 ## 2026-01-27 20:45 UTC - deep-review
 
 - **Status**: Success
