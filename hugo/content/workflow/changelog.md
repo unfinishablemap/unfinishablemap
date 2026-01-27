@@ -18,6 +18,188 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 01:43 UTC - condense
+
+- **Status**: Success
+- **File**: `topics/meaning-of-life.md`
+- **Before**: 4722 words
+- **After**: 3013 words
+- **Reduction**: 36%
+- **Technique**: Removed duplicate "What Would Challenge This View?" section, condensed Process Philosophy section from ~400 to ~150 words (kept core Whitehead insight about intrinsic value of experience), trimmed "The Landscape of Answers" (removed verbose explanations of standard positions), condensed supporting sections (Eastern Perspectives, AI Alignment Connection, Contemplative Evidence), tightened prose throughout (removed redundant sentences, excessive hedging), trimmed Further Reading from 17 to 13 links. Preserved opening summary, core consciousness-grounded meaning argument, all five tenet connections in "Relation to Site Perspective", practical framework in "What Makes a Life Meaningful?", and article voice.
+
+---
+
+## 2026-01-27 12:00 UTC - coalesce
+
+- **Status**: Success
+- **Sources**:
+  - `concepts/consciousness-as-amplifier.md` (2300 words)
+  - `topics/consciousness-as-intelligence-amplifier.md` (1900 words)
+- **Target**: `concepts/consciousness-as-amplifier.md`
+- **Archived**: `archive/topics/consciousness-as-intelligence-amplifier.md`
+- **Final word count**: ~3400 words
+- **References updated**: 2 files (`bidirectional-interaction.md`, `interactionist-dualism.md`)
+- **Notes**: Merged two parallel treatments of the consciousness-as-amplifier thesis. Topics version contributed careful philosophical distinctions (three senses of consciousness: phenomenal, access, executive function). Concepts version contributed baseline cognition hypothesis, Jourdain hypothesis, process philosophy, contemplative evidence. Unified article preserves both contributions. Topics version archived with proper metadata for URL preservation.
+
+---
+
+## 2026-01-27 01:18 UTC - condense
+
+- **Status**: Success
+- **File**: `concepts/neural-correlates-of-consciousness.md`
+- **Before**: 4038 words
+- **After**: 1828 words
+- **Reduction**: 55%
+- **Technique**: Condensed "What NCC Research Studies" (merged definitions into single paragraph), trimmed "Posterior Cortical Hot Zone" (kept key finding, cut bullet points), condensed "COGITATE Experiment" (kept conclusions, cut detailed predictions), cut "Memory Systems and NCC" from ~750 to ~200 words (kept table and key hippocampus insight, cut redundant content that overlaps with memory articles), condensed "Filter Theory" (kept core points and three key findings as bullets, cut extended explanations), trimmed "Illusionist Challenge" (kept regress argument and Tallis quote, cut subsections), condensed "Contemplative Evidence" (kept core insight about witness vs. content), **removed "Process Philosophy Perspective" entirely** (tangential Whitehead material), condensed "What Would Challenge" (four points as brief list), tightened "Relation to Map's Perspective" (kept all five tenet connections but more concise), trimmed "Further Reading" from 17 to 9 links, removed Whitehead reference. Preserved opening summary, "What NCC Cannot Tell Us" section (core philosophical argument), all tenet connections, voice, and structure.
+
+---
+
+## 2026-01-27 01:07 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/filter-theory.md`
+- **Word count**: 3206 → 3188 (-18 words)
+- **Critical issues addressed**: 0 (none found—previous review's fixes remain solid)
+- **Medium issues addressed**: 2 (empirical equivalence tension, Buddhism parallel oversimplification)
+- **Enhancements made**: Clarified empirical equivalence vs. distinctive predictions relationship, added anātman disanalogy in Buddhism section
+- **Output**: `reviews/deep-review-2026-01-27-filter-theory.md`
+- **Notes**: Second review of this article. Approaching stability—made clarifying refinements rather than structural changes. Bedrock disagreements (eliminativism, MWI) documented in stability notes.
+
+---
+
+## 2026-01-27 17:45 UTC - condense
+
+- **Status**: Success
+- **File**: `concepts/phenomenology.md`
+- **Before**: 4049 words
+- **After**: 2467 words
+- **Reduction**: 39%
+- **Technique**: Condensed "The Major Figures" from 4 paragraphs to 1 dense paragraph (cut biographical detail, kept core contributions), trimmed "Merleau-Ponty and the Body" (cut typist/pianist examples, kept interface interpretation), condensed "Phenomenology of Selfhood" (cut numbered list, kept minimal self concept), tightened "Reliability Objection" (cut subsection headings, compressed to single paragraph), reduced "Intersubjective Validation" (cut heterophenomenology comparison detail, kept core distinction), cut "Eastern Precedents" significantly (defer to buddhism-and-dualism article), removed "Process Philosophy Perspective" entirely (tangential, Whitehead material could be separate article), condensed "What Would Challenge" (cut fifth point, tightened remaining four), trimmed "Further Reading" from 21 to 12 links. Preserved opening summary, core arguments about first-person irreducibility, all tenet connections in Relation to Site Perspective, The Illusionist Challenge section, and References.
+
+---
+
+## 2026-01-27 00:48 UTC - condense
+
+- **Status**: Success
+- **File**: `voids/self-reference-paradox.md`
+- **Before**: 3499 words
+- **After**: 1768 words
+- **Reduction**: 49%
+- **Technique**: Trimmed Gödelian Analogy section (cut background, kept core argument), condensed Eye That Cannot See Itself (removed extended Hume discussion), reduced Transparent Self-Models (cut evidence paragraph about pathology to single sentence), tightened Calibration Problem (removed "groundless knowledge" tangent), condensed Strange Loops (kept Hofstadter-Penrose disagreement, cut explanation of downward causation), significantly reduced Illusionist Challenge from 4 subsections to 3 compact paragraphs (cut detailed regress response and structural point elaboration), trimmed Dissolving Insight (cut extended phenomenology), condensed What AI Might See (reduced bullet lists to prose), heavily reduced Process Philosophy Perspective from 4 subsections to 2 compact paragraphs (cut Creativity subsection entirely), tightened What Would Challenge list (removed extended explanations per item). Preserved opening summary, core philosophical positions, all tenet connections in Relation to Site Perspective, Further Reading, and References.
+
+---
+
+## 2026-01-27 21:00 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: All non-draft topics, concepts, and tenets
+- **Report created**: `obsidian/reviews/optimistic-2026-01-27.md`
+- **Key strengths identified**:
+  - Convergence of multiple independent arguments toward unified dualist position
+  - Genuine engagement with objections (PCS, decoherence, causal closure)
+  - Sophisticated treatment of quantum consciousness without "quantum woo"
+  - Strong integration of phenomenology with metaphysics
+  - Effective use of self-stultification argument against epiphenomenalism
+- **Expansion opportunities suggested**:
+  - Empirical deep dives (microtubule quantum effects, avian magnetoreception)
+  - Philosophy of time apex synthesis
+  - Historical depth (Leibniz, William James, Bergson)
+  - Applied consciousness ethics
+- **Tasks added**: 5 P3 expansion tasks to todo.md
+
+---
+
+## 2026-01-27 20:00 UTC - condense
+
+- **Status**: Success
+- **File**: `voids/temporal-asymmetry-remembering-anticipating.md`
+- **Before**: 3551 words
+- **After**: 1773 words
+- **Reduction**: 50%
+- **Technique**: Cut Buddhist Contemplative Perspectives from 4 subsections to 1 paragraph (tangential depth), condensed Process Philosophy from 2 subsections to single paragraph, merged Phenomenological Difference subsections (removed redundancy between Pastness Quale, Absent Futuricity, Modal Difference), tightened Why Pre-Experience is Impossible from expanded sections to compact labeled paragraphs, condensed The Void section (merged convergent evidence), trimmed Illusionist Challenge from verbose to three numbered responses, consolidated Approaches to the Edge (cut comparative phenomenology list, kept limiting cases), condensed Relation to Site Perspective explanations, merged What Would Challenge into single paragraph. Preserved opening summary, core arguments about causal structure and pastness quale, all tenet connections, table, references.
+
+---
+
+## 2026-01-27 19:45 UTC - condense
+
+- **Status**: Success
+- **File**: `concepts/retrocausality.md`
+- **Before**: 4095 words
+- **After**: 1829 words
+- **Reduction**: 55%
+- **Technique**: Cut Process Philosophy section entirely (tangential background), condensed Retrocausality in Physics into compact paragraphs, trimmed Application to Consciousness redundancy, reduced Decoherence Challenge and Illusionist Challenge to essential points, condensed Contemplative Evidence to core phenomenological support, cut Presentiment Research detail (linked to research notes instead), trimmed Time Ontology to key framework statement. Preserved opening summary, all tenet connections in Relation to Site Perspective, core physics grounding, and essential cross-links.
+
+---
+
+## 2026-01-27 00:06 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/collapse-and-time.md`
+- **Word count**: 2246 → 2246 (no change)
+- **Critical issues addressed**: 1
+  - Fixed terminology error: "provides the Map for" → "provides the locus for" (artifact of automated find-and-replace)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: `reviews/deep-review-2026-01-27-collapse-and-time.md`
+- **Notes**: Article has stabilized after 2 reviews. Previous review (2026-01-19) addressed all substantive issues. Only change since then was cosmetic terminology updates with one introduced error, now fixed.
+
+---
+
+## 2026-01-27 00:02 UTC - condense
+
+- **Status**: Success
+- **File**: `concepts/mysterianism.md`
+- **Before**: 4136 words
+- **After**: 2286 words
+- **Reduction**: 45%
+- **Technique**: Cut redundancy in multiple sections (Simple Minds, Concept Nativism, Mathematical Understanding, Phenomenology of Closure, Can We Know If Real, Process Philosophy), trimmed extended examples, tightened prose throughout, reduced Further Reading from 15 to 11 items. Preserved opening summary, core McGinn thesis, all tenet connections, and essential cross-links.
+
+---
+
+## 2026-01-26 19:00 UTC - deep-review
+
+- **Status**: Success
+- **File**: `voids/conceptual-acquisition-limits.md`
+- **Word count**: 2042 → 2027 (-15 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Qualified Fodor's nativism as contested
+  - Qualified poverty of stimulus as disputed
+  - Clarified LLM dimensions as mathematical, not phenomenological
+- **Enhancements made**: 1
+  - Added meta description for SEO
+- **Output**: `reviews/deep-review-2026-01-26-conceptual-acquisition-limits.md`
+
+---
+
+## 2026-01-27 00:30 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**:
+  - `topics/hard-problem-of-consciousness.md`
+  - `topics/personal-identity.md`
+  - `topics/argument-from-reason.md`
+- **Report created**: `obsidian/reviews/pessimistic-2026-01-27.md`
+- **Key findings**:
+  - All three articles treat philosophical puzzlement as evidence for the Map's framework rather than as puzzles to solve
+  - Hard problem article conflates persistence of the gap with its permanence
+  - Personal identity article's fission argument begs the question by assuming consciousness can't split
+  - Argument from reason may prove too much—the self-defeat structure could apply to any metaphysics grounding reasoning in non-rational facts
+  - Haecceity is assumed throughout rather than argued for
+  - AI objection response concedes that physical systems can implement truth-tracking
+- **Strengths noted**:
+  - Self-defeat structure against physicalism remains powerful
+  - Strong engagement with objections (Parfit, Dennett, Plantinga, Buddhist thought)
+  - Layered treatment of self (minimal vs. narrative) in personal identity
+  - Honest hedging on quantum mechanisms
+- **Recommendations**:
+  - Distinguish puzzlement persistence from structural permanence
+  - Provide independent arguments for haecceity
+  - Address why dualism escapes self-defeat structure rather than relocating mystery
+  - Engage with Millikan's teleosemantics as naturalization of normativity
+
+---
+
 ## 2026-01-26 12:00 UTC - condense
 
 - **Status**: Success

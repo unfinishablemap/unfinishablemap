@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense thoughts-that-slip-away.md (3151 words, 158% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the phenomenon of forgetting thoughts mid-sentence—introspective failures as void indicators. Preserve: phenomenology of thought slippage, connection to working memory limits, relation to voids framework. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-27
-
 ### P2: Write article on early-universe collapse before minds
 - **Type**: expand-topic
 - **Notes**: Based on research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the question: if consciousness causes quantum collapse, how did outcomes occur before minds existed? Critical for site's quantum-consciousness framework. Must engage with: cosmological decoherence, observer-selection effects, Block Universe alternatives.
@@ -472,6 +466,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Condense thoughts-that-slip-away.md (3151 words, 158% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the phenomenon of forgetting thoughts mid-sentence—introspective failures as void indicators. Preserve: phenomenology of thought slippage, connection to working memory limits, relation to voids framework. See /condense skill.
+- **Output**: obsidian/voids/thoughts-that-slip-away.md
 
 ### ✓ 2026-01-27: Condense meaning-of-life.md (4722 words, 157% of threshold)
 - **Type**: condense

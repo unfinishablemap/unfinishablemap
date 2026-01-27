@@ -42,7 +42,7 @@ last_deep_review: 2026-01-25 22:51:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[consciousness-as-intelligence-amplifier]]'
+- '[[consciousness-as-amplifier]]'
 - '[[conservation-laws-and-mind]]'
 - '[[interactionist-dualism-2026-01-06]]'
 - '[[objections-to-interactionist-dualism-2026-01-15]]'
@@ -127,7 +127,7 @@ We discuss consciousness—we write about qualia, debate the hard problem, repor
 
 This argument is often overlooked but decisive against epiphenomenal dualism. The very fact that we discuss consciousness proves it is not epiphenomenal. An epiphenomenon—causally inert by definition—could not influence the neurons that move our mouths or type our words.
 
-The [consciousness as intelligence amplifier thesis](/topics/consciousness-as-intelligence-amplifier/) reinforces this with evolutionary evidence. If phenomenal consciousness were causally inert, natural selection could not favor it—yet consciousness systematically correlates with adaptive significance. Pleasure accompanies beneficial stimuli, pain accompanies harmful ones, and phenomenal character tracks biological urgency with remarkable precision. The epiphenomenalist must explain why causally inert qualia would reliably track what matters for survival. The interactionist offers a simpler explanation: phenomenal consciousness exists because it influences behavior. See the [dedicated page](/topics/consciousness-as-intelligence-amplifier/) for how working memory expansion, metacognitive monitoring, and flexible response to novelty constitute the specific amplification mechanisms.
+The [consciousness as intelligence amplifier thesis](/archive/topics/consciousness-as-intelligence-amplifier/) reinforces this with evolutionary evidence. If phenomenal consciousness were causally inert, natural selection could not favor it—yet consciousness systematically correlates with adaptive significance. Pleasure accompanies beneficial stimuli, pain accompanies harmful ones, and phenomenal character tracks biological urgency with remarkable precision. The epiphenomenalist must explain why causally inert qualia would reliably track what matters for survival. The interactionist offers a simpler explanation: phenomenal consciousness exists because it influences behavior. See the [dedicated page](/archive/topics/consciousness-as-intelligence-amplifier/) for how working memory expansion, metacognitive monitoring, and flexible response to novelty constitute the specific amplification mechanisms.
 
 ### Argument 7: Quantum Indeterminacy
 
@@ -321,7 +321,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [causal-closure](/concepts/causal-closure/) — The closure objection and responses
 
 **Related topics:**
-- [mental-causation](/concepts/mental-causation/), [agent-causation](/concepts/agent-causation/), [emergence](/concepts/emergence/), [epiphenomenalism](/arguments/epiphenomenalism/), [evolution-of-consciousness](/concepts/evolution-of-consciousness/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [consciousness-as-intelligence-amplifier](/topics/consciousness-as-intelligence-amplifier/)
+- [mental-causation](/concepts/mental-causation/), [agent-causation](/concepts/agent-causation/), [emergence](/concepts/emergence/), [epiphenomenalism](/arguments/epiphenomenalism/), [evolution-of-consciousness](/concepts/evolution-of-consciousness/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
 
 ## References
 

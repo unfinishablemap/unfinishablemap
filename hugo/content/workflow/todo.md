@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-26 18:57:44+00:00
+ai_modified: 2026-01-27 01:26:51+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,17 +38,59 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Add meta descriptions to all content files
-- **Type**: other
-- **Notes**: Add `description` field to frontmatter for all articles in obsidian/. Descriptions should be 150-160 characters, benefit-focused, and suitable for Google search snippets and social sharing. Generate descriptions based on article content. See CLAUDE.md for schema. Start with apex/, then topics/, then concepts/.
-- **Source**: human request
-- **Generated**: 2026-01-26
+### P2: Condense thoughts-that-slip-away.md (3151 words, 158% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the phenomenon of forgetting thoughts mid-sentence—introspective failures as void indicators. Preserve: phenomenology of thought slippage, connection to working memory limits, relation to voids framework. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
 
-### P2: Deep review conceptual-acquisition-limits.md
+### P2: Write article on early-universe collapse before minds
+- **Type**: expand-topic
+- **Notes**: Based on research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the question: if consciousness causes quantum collapse, how did outcomes occur before minds existed? Critical for site's quantum-consciousness framework. Must engage with: cosmological decoherence, observer-selection effects, Block Universe alternatives.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-27
+
+### P3: Deep review consciousness-only-territories.md
 - **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) created recently, never deep-reviewed. Covers cognitive limitations in acquiring new concepts beyond current frameworks. Should verify: (1) accuracy of cognitive science claims about conceptual acquisition, (2) integration with other voids articles (mysterianism, cognitive closure), (3) alignment with the Map's treatment of limits as informative rather than merely frustrating.
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories accessible only through phenomenal experience—acquaintance knowledge, indexical knowledge, valence asymmetry. Should verify: (1) accuracy of knowledge-argument framing, (2) distinction from general qualia discussions, (3) alignment with voids framework and site tenets.
 - **Source**: staleness
-- **Generated**: 2026-01-26
+- **Generated**: 2026-01-27
+
+### P3: Deep review language-thought-boundary.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers Wittgenstein's Tractatus limits, Sapir-Whorf research, ineffability. Should verify: (1) accuracy of philosophical positions, (2) engagement with cognitive science of language, (3) distinction from general effability topic, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-27
+
+### P3: Deep review ai-as-void-explorer.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers AI as probe for human cognitive limits—12,000+ dimensional embedding spaces, lack of evolutionary biases. Should verify: (1) accuracy of AI capability claims, (2) whether asymmetry argument (failures vs successes) is sound, (3) connection to mysterianism and cognitive closure, (4) alignment with site's AI consciousness position.
+- **Source**: staleness
+- **Generated**: 2026-01-27
+
+### P3: Condense metarepresentation.md (3960 words, 158% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers representing representations—central to consciousness theories (HOT, metacognition, theory of mind). Preserve: core metarepresentational distinctions, connection to consciousness threshold, ToM level mappings. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
+
+### P3: Deep review the-unobservable-self.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the paradox that the observing self cannot observe itself—a structural cognitive void. Should verify: (1) accuracy of self-reference arguments, (2) connection to introspection limitations and witness-consciousness, (3) alignment with other voids articles, (4) proper engagement with Buddhist no-self perspectives.
+- **Source**: staleness
+- **Generated**: 2026-01-27
+
+### P3: Deep review phenomenology-of-error-recognition.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the bootstrap problem where the mind that was wrong must recognize its error. Should verify: (1) accuracy of Schulz's error-blindness claims, (2) engagement with Dunning-Kruger and metacognitive monitoring, (3) connection to self-reference-paradox and epistemic-emotions, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-27
+
+### P3: Deep review conceptual-impossibility.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers concepts that cannot be coherently formed—not merely unknown but structurally unthinkable. Should verify: (1) accuracy of modal collapse and self-reference arguments, (2) distinction from mere ignorance vs. structural impossibility, (3) connection to mysterianism and cognitive closure, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-27
 
 ### P3: Condense introspection.md (4159 words, 166% of threshold)
 - **Type**: condense
@@ -401,8 +443,76 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
+### P3: Write article on microtubule quantum effects
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. The 2025 Wiest et al. anesthetic studies deserve dedicated treatment—613 THz oscillation suppression by anesthetics is a testable signature. Builds on quantum-consciousness.md and decoherence.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write apex article synthesising philosophy of time resources
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. Integrate: the arrow of time and collapse, Bergson's durée, the specious present, retrocausality, and temporal phenomenology of consciousness. Builds on philosophy-of-time.md, collapse-and-time.md, duration.md. Apex article format.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on Leibniz's Mill Argument
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. Historical depth—often referenced but deserves dedicated treatment as a proto-zombie argument. Would strengthen historical grounding of dualist arguments.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on William James and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. Historical depth—his radical empiricism and stream of consciousness are natural allies to the Map's framework. Would strengthen historical grounding.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Condense meaning-of-life.md (4722 words, 157% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Covers existential meaning from consciousness perspective—purpose, value, death anxiety. Preserve: connection between consciousness and meaning, engagement with nihilism challenge, alignment with site's dualist position. See /condense skill.
+- **Output**: obsidian/topics/meaning-of-life.md
+
+### ✓ 2026-01-27: Condense neural-correlates-of-consciousness.md (4038 words, 163% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Central empirical concept linking consciousness to brain states. Preserve: core NCC methodology, distinction between content/full NCCs, relationship to hard problem. Defer detailed neuroscience to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md
+
+### ✓ 2026-01-27: Condense phenomenology.md (4049 words, 162% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core methodological article covering Husserl's phenomenology, epoché, phenomenological reduction. Preserve: key methodological concepts, distinction from heterophenomenology, connection to neurophenomenology. May defer detailed historical context to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/phenomenology.md
+
+### ✓ 2026-01-27: Condense self-reference-paradox.md (3499 words, 175% of threshold)
+- **Type**: condense
+- **Notes**: Voids article exceeds 3000-word hard threshold for voids/. Covers consciousness studying itself as a fundamental void—the paradox of the observer observing observation. Preserve: core self-reference puzzle, connection to Gödel-like limitations, phenomenology of introspecting introspection. See /condense skill.
+- **Output**: obsidian/voids/self-reference-paradox.md
+
+### ✓ 2026-01-27: Condense temporal-asymmetry-remembering-anticipating.md (3551 words, 178% of threshold)
+- **Type**: condense
+- **Notes**: Voids article exceeds 3000-word hard threshold for voids/. Covers the asymmetry between memory and anticipation as a consciousness-revealing void. Preserve: core phenomenological observations, connection to time's arrow, the puzzle of why remembering feels different from anticipating. See /condense skill.
+- **Output**: obsidian/voids/temporal-asymmetry-remembering-anticipating.md
+
+### ✓ 2026-01-27: Condense retrocausality.md (4095 words, 164% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers backward-in-time causation and its relevance to quantum consciousness frameworks. Important for understanding TSVF and transactional interpretations mentioned in the site's quantum treatment. Preserve: core arguments for retrocausal mechanisms, distinction from presentiment/parapsychology, connection to Libet-type experiments. See /condense skill.
+- **Output**: obsidian/concepts/retrocausality.md
+
+### ✓ 2026-01-27: Condense mysterianism.md (4136 words, 165% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers McGinn's cognitive closure and the mysterian position on consciousness. Core concept article supporting the site's treatment of explanatory limits. Preserve: central arguments for cognitive closure, engagement with both optimistic and pessimistic responses, connection to the hard problem. May defer detailed historical context to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/mysterianism.md
+
+### ✓ 2026-01-26: Deep review conceptual-acquisition-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) created recently, never deep-reviewed. Covers cognitive limitations in acquiring new concepts beyond current frameworks. Should verify: (1) accuracy of cognitive science claims about conceptual acquisition, (2) integration with other voids articles (mysterianism, cognitive closure), (3) alignment with the Map's treatment of limits as informative rather than merely frustrating.
+- **Output**: obsidian/voids/conceptual-acquisition-limits.md
 
 ### ✓ 2026-01-26: Condense self-and-consciousness.md (4184 words, 167% of threshold)
 - **Type**: condense

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-27 00:06:03+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Wavefunction collapse introduces temporal asymmetry into physics. I
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-19 20:13:53+00:00
+last_deep_review: 2026-01-27 00:06:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -143,7 +143,7 @@ The connection between collapse and time strengthens multiple tenets:
 
 **[Dualism](/tenets/#dualism)**: If consciousness participates in collapse, and collapse introduces time asymmetry, then consciousness is not merely a passive observer of time but a constituent of temporal structure. This deepens dualism beyond the hard problem—consciousness isn't just qualitatively different from matter; it's implicated in the fundamental structure of physical reality.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The collapse mechanism provides the Map for consciousness-matter interaction. Time-symmetric interpretations suggest this interaction operates atemporally—consciousness doesn't push physical systems at a moment but constrains which transactions complete across time. This is even more minimal than energy injection: it's constraint satisfaction.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The collapse mechanism provides the locus for consciousness-matter interaction. Time-symmetric interpretations suggest this interaction operates atemporally—consciousness doesn't push physical systems at a moment but constrains which transactions complete across time. This is even more minimal than energy injection: it's constraint satisfaction.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Retrocausal frameworks make bidirectional interaction natural rather than paradoxical. If fundamental physics is time-symmetric, backward causation (from future to past) has the same status as forward causation. Consciousness influencing the past isn't stranger than consciousness influencing the future—both are selection among possible transactions.
 

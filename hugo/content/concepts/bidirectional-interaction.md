@@ -28,7 +28,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[stapp-quantum-mind]]'
-- '[[consciousness-as-intelligence-amplifier]]'
+- '[[consciousness-as-amplifier]]'
 title: Bidirectional Interaction
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -95,7 +95,7 @@ The [baseline cognition hypothesis](/archive/topics/baseline-cognition/) observe
 
 ### Evolutionary Convergence
 
-The [intelligence amplifier thesis](/topics/consciousness-as-intelligence-amplifier/) notes that phenomenal consciousness systematically tracks adaptive significance. Pleasure accompanies beneficial stimuli, pain accompanies harmful ones, and subtle differences in phenomenal character track subtle differences in biological urgency. If consciousness were causally inert, this systematic correlation would be a remarkable coincidence—evolution would have produced costly neural complexity generating an experience that does nothing, yet happens to reliably indicate what matters for survival.
+The [intelligence amplifier thesis](/archive/topics/consciousness-as-intelligence-amplifier/) notes that phenomenal consciousness systematically tracks adaptive significance. Pleasure accompanies beneficial stimuli, pain accompanies harmful ones, and subtle differences in phenomenal character track subtle differences in biological urgency. If consciousness were causally inert, this systematic correlation would be a remarkable coincidence—evolution would have produced costly neural complexity generating an experience that does nothing, yet happens to reliably indicate what matters for survival.
 
 The interactionist alternative offers a simpler explanation: consciousness evolved *because* it influences behaviour. Evolution favoured organisms whose consciousness provided functional advantages.
 
@@ -145,7 +145,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 - [mental-causation](/concepts/mental-causation/) — The broader problem of how mind causes anything
 - [causal-closure](/concepts/causal-closure/) — The closure objection and its limits
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism in detail
-- [consciousness-as-intelligence-amplifier](/topics/consciousness-as-intelligence-amplifier/) — Evolutionary evidence for causal efficacy
+- [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Evolutionary evidence for causal efficacy
 - [baseline-cognition](/archive/topics/baseline-cognition/) — The great ape comparison
 - [downward-causation](/concepts/downward-causation/) — Top-down causation more generally
 - [tenets](/tenets/) — The Map's foundational commitments

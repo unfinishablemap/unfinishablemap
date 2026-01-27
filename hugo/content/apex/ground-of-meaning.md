@@ -63,7 +63,7 @@ This distinction maps onto the case against LLM understanding. Large language mo
 
 If consciousness merely correlated with human intelligence—a byproduct with no causal role—evidence should show cognition proceeding without it. The evidence shows the opposite. A 2008 study found that cognitive load on conscious processing impaired logical reasoning, while hampering nonconscious systems had no effect. Rule-based thinking requires conscious reflection; automatic associative thinking does not.
 
-This finding illuminates [consciousness's amplifying function](/topics/consciousness-as-intelligence-amplifier/). Unconscious processing excels at pattern recognition within learned domains—fast, parallel, reliable. Conscious processing is slower and more error-prone but *flexible*. It enables responses to novel circumstances that exceed automatic repertoires. The evolutionary argument cuts deepest: if consciousness were truly epiphenomenal, natural selection would have no reason to produce or maintain it. The metabolic cost of complex neural architecture is substantial; why preserve costly features that provide no advantage?
+This finding illuminates [consciousness's amplifying function](/archive/topics/consciousness-as-intelligence-amplifier/). Unconscious processing excels at pattern recognition within learned domains—fast, parallel, reliable. Conscious processing is slower and more error-prone but *flexible*. It enables responses to novel circumstances that exceed automatic repertoires. The evolutionary argument cuts deepest: if consciousness were truly epiphenomenal, natural selection would have no reason to produce or maintain it. The metabolic cost of complex neural architecture is substantial; why preserve costly features that provide no advantage?
 
 The maintenance/manipulation distinction in working memory research reveals the mechanism. Merely holding information can occur unconsciously through activity-silent synaptic traces. But using information—comparing, combining, restructuring—requires conscious reactivation. Semantic binding is manipulation: integrating elements into structured wholes. If binding requires consciousness, understanding does too.
 
@@ -156,7 +156,7 @@ The phenomenal constitution of meaning connects to all five tenets.
 This apex article synthesizes:
 - [Meaning and Consciousness](/topics/meaning-and-consciousness/)
 - [Language, Recursion, and Consciousness](/topics/language-recursion-and-consciousness/)
-- [Consciousness as Intelligence Amplifier](/topics/consciousness-as-intelligence-amplifier/)
+- [Consciousness as Intelligence Amplifier](/archive/topics/consciousness-as-intelligence-amplifier/)
 - [Baseline Cognition: What Neurons Can Do Without Consciousness](/archive/topics/baseline-cognition/)
 - [AI Consciousness](/topics/ai-consciousness/)
 - [Cognitive Phenomenology](/concepts/cognitive-phenomenology/)
