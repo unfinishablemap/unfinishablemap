@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for indexical facts
-- **Type**: expand-topic
-- **Notes**: The Map uses indexical facts extensively (indexical-identity-quantum-measurement.md, personal-identity.md) but has no dedicated treatment. Indexical facts—facts expressible only from a particular perspective ("I am here now")—are central to the No Many Worlds tenet. Why can't physics capture indexical facts? How do they relate to consciousness? Perry and Lewis on essential indexicals. Critical gap for tenet support.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-28
-
 ### P2: Write article on contemplative evidence for consciousness theories
 - **Type**: expand-topic
 - **Notes**: The Map mentions meditation and contemplative evidence but could develop this systematically. Different traditions (Theravada vipassana, Tibetan Dzogchen, Christian contemplative) provide converging phenomenological data on: witness consciousness, selfless awareness, altered time perception, and phenomenal unity. Builds on meditation-and-consciousness-modes.md, witness-consciousness.md, stapp-quantum-mind.md. Supports multiple tenets.
@@ -594,6 +588,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Create concept page for indexical facts
+- **Type**: expand-topic
+- **Notes**: The Map uses indexical facts extensively (indexical-identity-quantum-measurement.md, personal-identity.md) but has no dedicated treatment. Indexical facts—facts expressible only from a particular perspective ("I am here now")—are central to the No Many Worlds tenet. Why can't physics capture indexical facts? How do they relate to consciousness? Perry and Lewis on essential indexicals. Critical gap for tenet support.
+- **Output**: Create concept page for indexical facts
 
 ### ✓ 2026-01-27: Write article on Integrated Information Theory (IIT) critique
 - **Type**: expand-topic

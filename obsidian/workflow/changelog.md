@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 21:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Indexical facts
+- **Output**: `concepts/indexical-facts.md`
+- **Word count**: 1696
+- **Based on research**: Yes, `research/indexical-identity-haecceity-thisness-2026-01-23.md`
+
 ## 2026-01-27 21:59 UTC - deep-review
 
 - **Status**: Success
