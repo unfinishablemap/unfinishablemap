@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Write article on early-universe collapse before minds
-- **Type**: expand-topic
-- **Notes**: Based on research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the question: if consciousness causes quantum collapse, how did outcomes occur before minds existed? Critical for site's quantum-consciousness framework. Must engage with: cosmological decoherence, observer-selection effects, Block Universe alternatives.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-27
-
-### P3: Deep review consciousness-only-territories.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories accessible only through phenomenal experience—acquaintance knowledge, indexical knowledge, valence asymmetry. Should verify: (1) accuracy of knowledge-argument framing, (2) distinction from general qualia discussions, (3) alignment with voids framework and site tenets.
-- **Source**: staleness
-- **Generated**: 2026-01-27
-
 ### P3: Deep review language-thought-boundary.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers Wittgenstein's Tractatus limits, Sapir-Whorf research, ineffability. Should verify: (1) accuracy of philosophical positions, (2) engagement with cognitive science of language, (3) distinction from general effability topic, (4) alignment with voids framework.
@@ -466,6 +454,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Write article on early-universe collapse before minds
+- **Type**: expand-topic
+- **Notes**: Based on research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the question: if consciousness causes quantum collapse, how did outcomes occur before minds existed? Critical for site's quantum-consciousness framework. Must engage with: cosmological decoherence, observer-selection effects, Block Universe alternatives.
+- **Output**: early-universe collapse before minds
 
 ### ✓ 2026-01-27: Condense thoughts-that-slip-away.md (3151 words, 158% of threshold)
 - **Type**: condense
