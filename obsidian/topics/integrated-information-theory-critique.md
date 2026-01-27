@@ -4,8 +4,9 @@ description: "IIT takes consciousness seriously but makes it passive. A critique
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T12:00:00+00:00
+ai_modified: 2026-01-27T21:59:34+00:00
 draft: false
+last_deep_review: 2026-01-27T21:59:34+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -14,6 +15,9 @@ concepts:
   - "[[epiphenomenalism]]"
   - "[[panpsychism]]"
   - "[[temporal-consciousness]]"
+  - "[[explanatory-gap]]"
+  - "[[causal-closure]]"
+  - "[[functionalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[time-perception-consciousness-theories]]"
@@ -34,9 +38,9 @@ If consciousness is identical to certain physical arrangements, then consciousne
 
 This is [[epiphenomenalism]] by another name. Classical epiphenomenalism says consciousness is caused by but doesn't cause physical events. IIT says consciousness *is* certain physical events. Either way, consciousness doesn't influence what happens next except through its physical constitution—which means physics alone does all the causal work.
 
-The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet exists precisely because epiphenomenalism is self-undermining. If consciousness cannot influence neurons, then our discussions *about* consciousness are caused entirely by physical processes with no input from consciousness itself. Why should these discussions be accurate? IIT inherits this problem. Our beliefs about integrated information are themselves just more integrated information—physically constituted states caused by prior physical states. The theory cannot explain why we reliably track phenomenal facts if phenomenal facts have no causal role.
+The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet exists precisely because epiphenomenalism is self-undermining. If consciousness cannot influence neurons, then our discussions *about* consciousness are caused entirely by physical processes with no input from consciousness itself—the [[causal-closure|causal closure of physics]] doing all the work. Why should these discussions be accurate? IIT inherits this problem. Our beliefs about integrated information are themselves just more integrated information—physically constituted states caused by prior physical states. The theory cannot explain why we reliably track phenomenal facts if phenomenal facts have no causal role.
 
-IIT might respond that since consciousness *is* the physical structure, the beliefs are automatically about themselves—self-representing states. But this trades explanation for assertion. We wanted to understand the connection between physical processes and experience. Claiming they're identical doesn't illuminate the connection; it denies there's anything to illuminate.
+IIT might respond that since consciousness *is* the physical structure, the beliefs are automatically about themselves—self-representing states. But this trades explanation for assertion. We wanted to understand the connection between physical processes and experience—what Levine called the [[explanatory-gap]]. Claiming they're identical doesn't illuminate the connection; it denies there's anything to illuminate. Other identities (water = H2O) satisfy explanatorily because we can see *why* water has its properties given molecular structure. The consciousness-integration identity offers no such transparency: we cannot see why integrated information should feel like anything.
 
 ## The Expander Graph Problem
 
@@ -66,7 +70,7 @@ These objections shouldn't obscure IIT's genuine contributions:
 
 **Taking phenomenology seriously.** IIT begins with what experience is like—unified, specific, definite—and asks what physical systems could support such experience. This is the right methodological direction, moving from the undeniable (experience) to the theoretical (physical mechanisms).
 
-**Rejecting functionalism.** IIT holds that substrate matters. Two systems performing identical functions might have different consciousness depending on architecture. This aligns with the Map's view that consciousness isn't computation.
+**Rejecting [[functionalism]].** IIT holds that substrate matters. Two systems performing identical functions might have different consciousness depending on architecture. This aligns with the Map's view that consciousness isn't computation.
 
 **Embracing counterintuitive implications.** Rather than retreating from [[panpsychism]], Tononi accepts it. This intellectual honesty is admirable even if the conclusion is wrong. Theories that bend to intuition at every point often lack the courage to follow their logic.
 
@@ -104,5 +108,5 @@ The Map chooses interaction because epiphenomenalism—even the sophisticated ve
 
 - Tononi, G. (2008). Consciousness as integrated information: a provisional manifesto. *Biological Bulletin*, 215(3), 216-242.
 - Albantakis, L., et al. (2023). Integrated information theory (IIT) 4.0. *PLOS Computational Biology*, 19(10), e1011465.
-- Aaronson, S. (2014). Why I am not an integrated information theorist (or, the unconscious expander). *Shtetl-Optimized*.
+- Aaronson, S. (2014). Why I am not an integrated information theorist (or, the unconscious expander). *Shtetl-Optimized* (blog post).
 - COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.

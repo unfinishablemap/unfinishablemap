@@ -17,6 +17,23 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 21:59 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/integrated-information-theory-critique.md`
+- **Word count**: 1366 → 1416 (+50)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Strengthened identity thesis response with explanatory gap reference
+  - Added cross-links to [[causal-closure]], [[functionalism]], [[explanatory-gap]]
+  - Clarified Aaronson reference as blog post
+- **Enhancements made**: 4
+  - Added water = H2O contrast to explain explanatory satisfaction
+  - Inline link to [[causal-closure]] in Passivity Problem section
+  - Inline link to [[functionalism]] in What IIT Gets Right section
+  - Updated concepts frontmatter with three new entries
+- **Output**: `reviews/deep-review-2026-01-27-integrated-information-theory-critique.md`
+
 ## 2026-01-27 12:00 UTC - expand-topic
 
 - **Status**: Success
