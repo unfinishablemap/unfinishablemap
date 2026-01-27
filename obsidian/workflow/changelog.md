@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 14:30 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Destabilizing Self-Knowledge
+- **Output**: `voids/destabilizing-self-knowledge.md`
+- **Word count**: 2011
+- **Based on research**: Yes, `research/voids-destabilizing-self-knowledge-2026-01-27.md`
+- **Summary**: Created voids article exploring knowledge that would dissolve the knower's capacity to hold it. Covers the self-studying brain paradox (2025 research), Metzinger's phenomenal transparency, psychedelic ego dissolution evidence, cognitohazards framework, phenomenology of approach (dissolving insights, destabilization anxiety, ineffability). Explores direct and indirect methods including AI as asymmetric probe. Full tenet alignment with emphasis on Occam's Razor Has Limits—the simplest assumption (minds can understand themselves) may be fundamentally wrong.
+
 ## 2026-01-27 18:00 UTC - expand-topic
 
 - **Status**: Success

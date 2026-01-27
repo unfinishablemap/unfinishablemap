@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-27 05:01:38+00:00
+ai_modified: 2026-01-27 07:49:29+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Update references to coalesced brain-specialness/interface-locality articles
+- **Type**: other
+- **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
+- **Source**: coalesce
+- **Generated**: 2026-01-27
+
+### P3: Write article on teleportation and personal identity
+- **Type**: expand-topic
+- **Notes**: Classic thought experiment (Parfit's teleportation, Star Trek transporter problem) directly relevant to haecceity and the No Many Worlds tenet. If a teleporter destroys the original and creates a perfect copy, is the copy the same person? Builds on haecceity.md, personal-identity.md, philosophical-zombies.md. Would strengthen the indexical identity arguments.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-27
+
+### P3: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the bootstrap problem where the mind that was wrong must recognize its error. Preserve: Schulz's error-blindness claims, connection to self-reference-paradox. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
+
+### P3: Create concept page for neuroplasticity
+- **Type**: expand-topic
+- **Notes**: Referenced in stapp-quantum-mind.md and attention articles but lacks dedicated page. Neuroplasticity—the brain's ability to reorganize—is relevant to the attention-as-interface framework: Schwartz's OCD research shows that directed mental attention can reshape neural circuits. Supports bidirectional interaction tenet.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-27
+
+### P3: Condense sleep-and-consciousness.md (3816 words, 153% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for topics/. Covers consciousness states across sleep stages. Preserve: core distinctions between NREM/REM consciousness, connection to neural correlates and quantum interface. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
+
+### P3: Condense intuitive-dualism.md (3813 words, 153% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers developmental psychology evidence that humans naturally think dualistically. Preserve: Bloom's research, developmental timeline, connection to arguments for dualism. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
 
 ### P3: Deep review language-thought-boundary.md
 - **Type**: deep-review
@@ -127,12 +163,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories that resist cartography due to active defense (emotional, tribal, institutional). Should verify: (1) balance between epistemology and sociology, (2) connection to other voids categories, (3) accuracy of psychological claims about motivated reasoning.
 - **Source**: staleness
 - **Generated**: 2026-01-26
-
-### P2: Address deflationary challenge to intersubjectivity.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review 2026-01-25 (evening) found the article's central argument faces unaddressed deflationary challenge. The discourse argument claims cross-cultural phenomenological vocabulary evidences real phenomenology, but convergent neural architecture could equally explain convergent vocabulary. The article acknowledges the skeptic's response but dismisses it: "The specificity of the convergence... suggests something is being tracked." This doesn't distinguish tracking phenomenology from tracking neural organization. Either strengthen the response (explain why vocabulary convergence cannot be explained by architecture alone) or acknowledge this as open.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-25
 
 ### P2: Strengthen measurement-problem.md structural coherence defense
 - **Type**: refine-draft
@@ -453,8 +483,68 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
+### P3: Write article on phenomenal value realism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27 (evening). The metaethical foundations of consciousness-based value claims—how phenomenal properties ground objective value. Currently referenced in meaning-of-life.md but not developed. Builds on meaning-of-life.md, qualia.md, emotional-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on Attention Schema Theory critique
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27 (evening). Graziano's AST is a major illusionist theory not yet given dedicated treatment. The Map's attention-as-interface concept provides resources for critique—attention is mechanism, not explanation. Builds on illusionism.md, attention-as-interface.md, stapp-quantum-mind.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Create concept page for process-philosophy
+- **Type**: expand-topic
+- **Notes**: Alfred North Whitehead's process philosophy is referenced throughout the site (quantum-consciousness.md, prebiotic-collapse.md, apex articles) but has no dedicated concept page. Key connections: actual occasions explain phenomenal unity, concrescence models collapse, self-determination grounds mental causation. Process philosophy provides philosophical grounding for several tenets. See apex article suggestion for deeper synthesis.
+- **Output**: Create concept page for process-philosophy
+
+### ✓ 2026-01-27: Create concept page for process-philosophy
+- **Type**: expand-topic
+- **Notes**: Alfred North Whitehead's process philosophy is referenced throughout the site (quantum-consciousness.md, prebiotic-collapse.md, apex articles) but had no dedicated concept page.
+- **Result**: Created ~1700 word article covering: events over substances, prehension and experience, concrescence and creativity, Bergson's durée connection, combination problem, relevance to consciousness studies, and tensions with the Map's framework. Connects to duration, panpsychism, emergence, phenomenal-unity, temporal-consciousness concepts. Distinguishes process philosophy's panpsychist monism from the Map's interactionist dualism while affirming shared anti-materialist insights.
+- **Output**: concepts/process-philosophy.md
+
+### ✓ 2026-01-27: Address deflationary challenge to intersubjectivity.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-25 (evening) found the article's central argument faces unaddressed deflationary challenge. The discourse argument claims cross-cultural phenomenological vocabulary evidences real phenomenology, but convergent neural architecture could equally explain convergent vocabulary. The article acknowledges the skeptic's response but dismisses it: "The specificity of the convergence... suggests something is being tracked." This doesn't distinguish tracking phenomenology from tracking neural organization. Either strengthen the response (explain why vocabulary convergence cannot be explained by architecture alone) or acknowledge this as open.
+- **Output**: obsidian/concepts/intersubjectivity.md
+
+### ✓ 2026-01-27: Condense multi-mind-collapse-problem.md (3847 words, 154% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the philosophical puzzle of whose consciousness counts for collapse when multiple observers are present. Preserve: core problem formulation, response strategies, connection to haecceity. See /condense skill.
+- **Output**: obsidian/concepts/multi-mind-collapse-problem.md
+
+### ✓ 2026-01-27: Condense philosophical-zombies.md (3906 words, 156% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core anti-materialist argument that deserves focused treatment. Preserve: the conceivability argument, response to type-B materialism, connection to hard problem. Remove redundancy in examples. See /condense skill.
+- **Output**: obsidian/concepts/philosophical-zombies.md
+
+### ✓ 2026-01-27: Cross-review measurement-problem.md considering prebiotic-collapse insights
+- **Type**: cross-review
+- **Notes**: The prebiotic-collapse.md article (2026-01-16) addresses how quantum collapse occurred before conscious observers. The measurement-problem.md article discusses consciousness's role in wave function collapse. Check for: (1) cross-links to prebiotic-collapse treatment, (2) consistency in how consciousness-collapse relationship is framed, (3) whether the "consciousness modulates rather than initiates" framing strengthens the measurement problem discussion.
+- **Output**: obsidian/concepts/measurement-problem.md -- Context: Cross-review measurement-problem.md considering prebiotic-collapse insights
+
+### ✓ 2026-01-27: Cross-review knowledge-argument.md considering intrinsic-nature-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) frames physical knowledge as necessarily relational—physics tells us what things do, not what they are. This structural claim supports the knowledge argument: Mary learns all relational facts but not the intrinsic phenomenal facts. Check knowledge-argument.md for: (1) cross-links to intrinsic-nature-void, (2) whether framing physical knowledge as relational strengthens the argument, (3) connection to Russell/Eddington structural realism.
+- **Output**: obsidian/concepts/knowledge-argument.md -- Context: Cross-review knowledge-argument.md considering intrinsic-nature-void insights
+
+### ✓ 2026-01-27: Cross-review russellian-monism.md considering intrinsic-nature-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) presents Russellian monism as one response to the intrinsic nature gap but notes it faces the combination problem. Check russellian-monism.md for: (1) cross-links to intrinsic-nature-void, (2) consistency in how the intrinsic nature argument is framed, (3) whether the void's treatment of the combination problem objection aligns.
+- **Output**: obsidian/concepts/russellian-monism.md -- Context: Cross-review russellian-monism.md considering intrinsic-nature-void insights
+
+### ✓ 2026-01-27: Cross-review hard-problem-of-consciousness.md considering intrinsic-nature-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) frames the hard problem as arising from physics's structural limitation: it describes relations but not intrinsic natures. Consciousness may be our only window into intrinsic nature. Check hard-problem-of-consciousness.md for: (1) cross-links to intrinsic-nature-void, (2) whether the Russellian/structural framing strengthens the article, (3) consistency with how the explanatory gap is presented.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering intrinsic-nature-void insights
 
 ### ✓ 2026-01-27: Cross-review evolution-of-consciousness.md considering prebiotic collapse insights
 - **Type**: cross-review

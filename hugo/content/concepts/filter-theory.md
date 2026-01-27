@@ -134,7 +134,7 @@ The [minimal-consciousness](/concepts/minimal-consciousness/) literature raises 
 
 The slime mold case is more puzzling. *Physarum polycephalum* solves mazes, optimizes networks, and displays habituation—all without neurons. If filter theory requires neural interfaces, slime mold cognition should be impossible. The resolution: cognition and consciousness may fully dissociate. Slime molds may process information without providing any interface for phenomenal experience. Their behaviors are adaptive responses, not conscious choices. This preserves filter theory while acknowledging that information processing doesn't require consciousness.
 
-This has implications for the [brain-specialness](/concepts/brain-specialness/) question. Not just *any* complex system serves as a consciousness interface—the brain's specific properties (quantum sensitivity, representational structure, attention mechanisms) make it suitable. Slime molds, despite sophisticated computation, may lack whatever property makes the interface work.
+This has implications for the [brain-specialness](/archive/concepts/brain-specialness/) question. Not just *any* complex system serves as a consciousness interface—the brain's specific properties (quantum sensitivity, representational structure, attention mechanisms) make it suitable. Slime molds, despite sophisticated computation, may lack whatever property makes the interface work.
 
 ## The Rendering Engine Analogy
 
@@ -160,7 +160,7 @@ This is a fair challenge. How does non-physical consciousness interface with phy
 
 ### "Why brains specifically?"
 
-If consciousness transmits through physical interfaces, why are brains suitable interfaces while rocks are not? The [brain-specialness](/concepts/brain-specialness/) article identifies five criteria that an interface requires: quantum sensitivity (functionally relevant quantum effects), representational structure (encoding alternatives), attention mechanisms (directed focus), feedback integration (outcome evaluation), and developmental history (co-construction). Brains evolved under selection pressure to meet all five criteria; most physical systems meet none. This explains the specificity of brain-consciousness correlation without reducing consciousness to brain activity.
+If consciousness transmits through physical interfaces, why are brains suitable interfaces while rocks are not? The [brain-specialness](/archive/concepts/brain-specialness/) article identifies five criteria that an interface requires: quantum sensitivity (functionally relevant quantum effects), representational structure (encoding alternatives), attention mechanisms (directed focus), feedback integration (outcome evaluation), and developmental history (co-construction). Brains evolved under selection pressure to meet all five criteria; most physical systems meet none. This explains the specificity of brain-consciousness correlation without reducing consciousness to brain activity.
 
 ### "Isn't 'filtering' just a metaphor?"
 
@@ -226,7 +226,7 @@ The Buddhist framework offers something filter theory lacks: a detailed phenomen
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist parallels to filter theory and meditation as filter reduction
 - [mysterianism](/concepts/mysterianism/) — Filter theory is compatible with cognitive closure about consciousness
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Psychedelics, flow, hypnosis, and interface configurations
-- [brain-specialness](/concepts/brain-specialness/) — Why brains specifically can serve as consciousness interfaces
+- [brain-specialness](/archive/concepts/brain-specialness/) — Why brains specifically can serve as consciousness interfaces
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy and faculty division
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Anesthesia, covert consciousness, and the filter interpretation
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced experience during brain compromise

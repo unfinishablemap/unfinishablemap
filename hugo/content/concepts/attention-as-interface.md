@@ -55,7 +55,7 @@ Attention functions as the **interface layer** between consciousness and neural 
 |-------|-------------|
 | Attention is not identical to consciousness | Explains dissociation evidence (consciousness without attention, attention without consciousness) |
 | Attention mediates consciousness's causal influence | Specifies the downward direction of bidirectional interaction |
-| Consciousness can only influence what it attends to | Explains [brain specialness](/concepts/interface-locality/)—why not psychokinesis |
+| Consciousness can only influence what it attends to | Explains [brain specialness](/archive/concepts/interface-locality/)—why not psychokinesis |
 | Attention has bandwidth limits (~10 bits/second) | Constrains what consciousness can select |
 | The quantum Zeno effect is the mechanism | Rapid observation holds desired neural patterns |
 
@@ -63,7 +63,7 @@ This gives attention a distinctive role: not mere information processing, but th
 
 ## Why Not Direct Causation?
 
-If consciousness can influence matter, why not everywhere? The [interface-locality](/concepts/interface-locality/) article develops this in detail: attention requires neural infrastructure (you can only attend to what attention networks can target), the quantum Zeno effect requires rapid observation achievable only within neural systems, and [selection](/questions/consciousness-selecting-neural-patterns/) works by biasing ongoing neural competition that external systems aren't part of. Consciousness influences matter where attention can operate.
+If consciousness can influence matter, why not everywhere? The [interface-locality](/archive/concepts/interface-locality/) article develops this in detail: attention requires neural infrastructure (you can only attend to what attention networks can target), the quantum Zeno effect requires rapid observation achievable only within neural systems, and [selection](/questions/consciousness-selecting-neural-patterns/) works by biasing ongoing neural competition that external systems aren't part of. Consciousness influences matter where attention can operate.
 
 ## Voluntary Attention Mechanisms
 
@@ -213,7 +213,7 @@ This transforms philosophical assertion into empirical program. Whether the hypo
 
 ## Further Reading
 
-**Core concepts**: [attention](/concepts/attention/), [voluntary-attention](/concepts/voluntary-attention/), [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/), [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/), [interface-locality](/concepts/interface-locality/)
+**Core concepts**: [attention](/concepts/attention/), [voluntary-attention](/concepts/voluntary-attention/), [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/), [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/), [interface-locality](/archive/concepts/interface-locality/)
 
 **Quantum mechanisms**: [quantum-consciousness](/concepts/quantum-consciousness/), [decoherence](/concepts/decoherence/), [many-worlds](/arguments/many-worlds/)
 

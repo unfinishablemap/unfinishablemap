@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 New article explores process philosophy—reality as events and becoming rather than static things. Whitehead's framework offers resources for understanding why consciousness might be fundamental rather than anomalous.
 
 **Type**: new-article  
+**Tweet**: https://x.com/i/web/status/2016060594827223407  
 **Link**: [[process-philosophy]]
 
 ---

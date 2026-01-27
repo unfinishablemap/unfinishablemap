@@ -18,6 +18,159 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 18:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Process Philosophy
+- **Output**: `concepts/process-philosophy.md`
+- **Word count**: 1698
+- **Based on research**: No (general knowledge)
+- **Summary**: Created concept page covering Whitehead's process metaphysics and Bergson's durée. Key sections: events over substances, prehension and experience, concrescence and creativity, Bergson connection, combination problem, relevance to consciousness studies. Distinguishes process philosophy's panpsychist monism from the Map's interactionist dualism while affirming shared anti-materialist insights. Links to duration, panpsychism, emergence, phenomenal-unity, temporal-consciousness.
+
+## 2026-01-27 11:30 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: Destabilizing Self-Knowledge
+- **Category**: Mixed (Unexplorable and Occluded)
+- **Output**: `research/voids-destabilizing-self-knowledge-2026-01-27.md`
+- **Key finding**: Certain truths about consciousness may be inherently destabilizing—the self-model requires phenomenal transparency (invisibility as a model) to function, and seeing through this transparency causes pathology (depersonalization) rather than enlightenment. The 2025 "paradox of the self-studying brain" research converges with Metzinger's transparency analysis and psychedelic ego dissolution studies to suggest some self-knowledge is structurally self-defeating.
+
+## 2026-01-27 07:38 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `concepts/intersubjectivity.md`
+- **Original score**: 8/10
+- **Changes**:
+  - Renamed section from negative-framing pattern to positive ("Intersubjectivity Versus Objectivity")
+  - Restructured skeptic response paragraph for clearer argument flow
+  - Clarified trained-vs-naïve introspection as a limit on intersubjective scope
+  - Added note about gamma synchrony replication across labs
+- **Published**: yes
+
+## 2026-01-27 07:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/brain-interface-boundary.md`
+- **Word count**: 3220 → 3018 (-202)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+  - Added disclaimer that Hameroff coherence calculations are disputed
+  - Added note about PEAR methodological controversies
+  - Improved illusionism section with acknowledgment of deeper engagement needed
+- **Enhancements made**: 3
+  - Added cross-link to [introspection](/concepts/introspection/) in feedback integration section
+  - Tightened Process Philosophy section
+  - Condensed "The Key Insight" section (removed redundancy with Summary)
+- **Output**: `reviews/deep-review-2026-01-27-brain-interface-boundary.md`
+
+## 2026-01-27 18:42 UTC - condense
+
+- **Status**: Success
+- **File**: `concepts/multi-mind-collapse-problem.md`
+- **Before**: 3847 words
+- **After**: 2002 words
+- **Reduction**: 48%
+- **Technique**: Condensed "Problem Stated" section (removed redundant explanations of options), trimmed nonlocal coordination and RQM approaches (link to research note), removed "Lessons from RQM" section (redundant with RQM approach), cut Process Philosophy section substantially (kept core insight), reduced "What Would Challenge" from 6 to 4 items (defer detailed treatment to interface-locality), condensed illusionist challenge (removed separate subsection headings), tightened objections and responses (removed entanglement objection—covered in challenges), shortened tenet connections while preserving all five, trimmed Further Reading from 12 to 6 most relevant links.
+- **Preserved**: Opening summary with resolution, four approaches structure, core interface locality and objective collapse arguments, decoherence challenge, all tenet connections, summary, references.
+
+## 2026-01-27 07:10 UTC - condense
+
+- **Status**: Success
+- **File**: `concepts/philosophical-zombies.md`
+- **Before**: 3906 words
+- **After**: 2424 words
+- **Reduction**: 38%
+- **Technique**: Cut redundancy in physicalist responses (two-dimensional, phenomenal concepts sections), substantially condensed zombies-and-functionalism (defer to existing article), trimmed inverted-qualia section (link-based), reduced process philosophy to single paragraph, shortened convergence argument (covered in arguments-against-materialism), tightened illusionist challenge subsections, condensed tenet connections, trimmed external sources list.
+- **Preserved**: Opening summary, core three-step argument, explanatory gap grounding, self-stultification problem, all tenet connections, full site content links.
+
+## 2026-01-27 19:45 UTC - coalesce
+
+- **Status**: Success
+- **Sources**:
+  - `concepts/brain-specialness.md` (258 lines)
+  - `concepts/interface-locality.md` (250 lines)
+- **Target**: `concepts/brain-interface-boundary.md` (406 lines)
+- **Archived**:
+  - `archive/concepts/brain-specialness.md`
+  - `archive/concepts/interface-locality.md`
+- **References to review**: 29 files contain wikilinks to archived articles
+- **Notes**: Merged complementary articles on brain specialness (positive criteria) and interface locality (negative constraints) into unified treatment. Both addressed "why brains?" from different angles with significant overlap in sections (illusionist challenge, decoherence, process philosophy, tenets). New article integrates five interface criteria with four boundary constraints.
+
+## 2026-01-27 06:49 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `concepts/measurement-problem.md`
+- **Word count**: 2494 → 2502 (+8)
+- **Context**: Cross-review considering prebiotic-collapse insights
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+  - Clarified that GRW/CSL provide *baseline* collapse; consciousness *modulates* rather than initiates
+  - Strengthened multi-observer section with explicit "collapse happens throughout the universe" framing
+- **Enhancements made**: 2 (prebiotic-collapse terminology alignment, modulation framing)
+- **Output**: `reviews/deep-review-2026-01-27-measurement-problem.md`
+- **Notes**: Third review. Article has reached high stability. Integrated key insight from prebiotic-collapse.md: objective reduction provides baseline, consciousness modulates. Operating in length-neutral mode (100% of soft threshold). No critical issues; philosophical standoffs (MWI, functionalism, unfalsifiability) are acknowledged bedrock disagreements.
+
+## 2026-01-27 17:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/higher-order-theories.md`
+- **Word count**: 2716 → 2709 (-7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+  - Softened vague quantum prediction claim
+  - Added epistemological caveat to contemplative evidence section
+- **Enhancements made**: 2 (prose tightening, clearer hedging)
+- **Output**: `reviews/deep-review-2026-01-27-higher-order-theories.md`
+- **Notes**: Second review. Article has reached stability. Previous review (2026-01-19) addressed all major structural issues. This review made editorial improvements: tightened quantum prediction language and acknowledged limits of first-person evidence. Operating in length-neutral mode (108% of soft threshold). No critical issues; philosophical disagreements are expected bedrock standoffs.
+
+## 2026-01-27 06:19 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `concepts/russellian-monism.md`
+- **Word count**: 2671 → 2692 (+21)
+- **Context**: Cross-review considering intrinsic-nature-void insights
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+  - Added cross-link to intrinsic-nature-void (frontmatter + Further Reading)
+  - Added Kant phenomena/noumena paragraph in "The Core Insight" section
+- **Enhancements made**: 3 (Kant reference, cross-links, prose tightening)
+- **Output**: `reviews/deep-review-2026-01-27-russellian-monism.md`
+- **Notes**: Second review. Article has reached stability. Integrated intrinsic-nature-void connection via Kant's phenomena/noumena distinction. Operating in length-neutral mode (108% of soft threshold). No critical issues remain; philosophical disagreements from adversarial personas are bedrock standoffs, not fixable flaws.
+
+## 2026-01-27 06:11 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: Non-draft content in topics/, concepts/, tenets/
+- **Output**: `reviews/optimistic-2026-01-27-evening.md`
+- **Tasks added**: 2 (phenomenal value realism, Attention Schema Theory critique)
+- **Notes**: Multi-perspective strength analysis from sympathetic philosophers (Chalmers, Stapp, Nagel, Whitehead, Kane, McGinn). Identified site's key strengths in coherence, tenet integration, and honest engagement with challenges. Earlier review already covered many expansion opportunities; added two novel high-priority suggestions.
+
+## 2026-01-27 16:45 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `concepts/knowledge-argument.md`
+- **Word count**: 2445 → 2480 (+35)
+- **Context**: Cross-review considering intrinsic-nature-void insights
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+  - Added explicit intrinsic-nature-void connection in Process Philosophy section
+- **Enhancements made**: 3 (frontmatter link, Further Reading entry, prose addition)
+- **Output**: `reviews/deep-review-2026-01-27-knowledge-argument.md`
+- **Notes**: Third review. Article has reached stability. Mary's Room directly dramatizes the intrinsic nature void—complete structural knowledge yet missing intrinsic knowledge. Operating in length-neutral mode (99% of soft threshold). Minimal changes; philosophical disagreements from adversarial personas are bedrock standoffs.
+
+## 2026-01-27 16:45 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `topics/hard-problem-of-consciousness.md`
+- **Word count**: 2773 → 2837 (+64)
+- **Context**: Cross-review considering intrinsic-nature-void insights
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+  - Added explicit intrinsic nature connection in Explanatory Gap section (Russell/Eddington)
+- **Cross-links added**: [intrinsic-nature-void](/voids/intrinsic-nature-void/)
+- **Output**: `reviews/deep-review-2026-01-27-hard-problem-of-consciousness.md`
+- **Notes**: Third review. Article has reached stability. The intrinsic nature void provides independent support for the explanatory gap's structural nature—physics describes relations, not intrinsic nature. Modest addition within length-neutral constraint (95% of soft threshold).
+
 ## 2026-01-27 19:30 UTC - deep-review
 
 - **Status**: Success
@@ -3481,7 +3634,7 @@ Comprehensive deep review of the core phenomenology concept article. Applied six
 
 ### Summary
 
-Fixed 11 broken internal links across 9 content files. Links were pointing to pages that don't exist: `[kane-self-forming-actions](/kane-self-forming-actions/)`, `[many-worlds-interpretation](/many-worlds-interpretation/)`, `[process-philosophy](/process-philosophy/)`, `[cognition](/cognition/)`, `[visual-consciousness](/visual-consciousness/)`, `[temporal-synchrony](/temporal-synchrony/)`, `[quantum-measurement-problem](/quantum-measurement-problem/)`, `[minimal-quantum-interaction](/minimal-quantum-interaction/)`, `[teleportation-and-identity](/teleportation-and-identity/)`.
+Fixed 11 broken internal links across 9 content files. Links were pointing to pages that don't exist: `[kane-self-forming-actions](/kane-self-forming-actions/)`, `[many-worlds-interpretation](/many-worlds-interpretation/)`, `[process-philosophy](/concepts/process-philosophy/)`, `[cognition](/cognition/)`, `[visual-consciousness](/visual-consciousness/)`, `[temporal-synchrony](/temporal-synchrony/)`, `[quantum-measurement-problem](/quantum-measurement-problem/)`, `[minimal-quantum-interaction](/minimal-quantum-interaction/)`, `[teleportation-and-identity](/teleportation-and-identity/)`.
 
 ### Fixes Applied
 
@@ -3489,7 +3642,7 @@ Fixed 11 broken internal links across 9 content files. Links were pointing to pa
 - `[quantum-measurement-problem](/quantum-measurement-problem/)` → `[measurement-problem](/concepts/measurement-problem/)` (page exists with shorter name)
 - `[minimal-quantum-interaction](/minimal-quantum-interaction/)` → `[tenets](/tenets/#minimal-quantum-interaction)` (anchor to tenets page)
 - `[kane-self-forming-actions](/kane-self-forming-actions/)` → plain text (no page exists)
-- `[process-philosophy](/process-philosophy/)`, `[cognition](/cognition/)`, `[visual-consciousness](/visual-consciousness/)`, `[temporal-synchrony](/temporal-synchrony/)` → plain text
+- `[process-philosophy](/concepts/process-philosophy/)`, `[cognition](/cognition/)`, `[visual-consciousness](/visual-consciousness/)`, `[temporal-synchrony](/temporal-synchrony/)` → plain text
 - `[teleportation-and-identity](/teleportation-and-identity/)` → `[personal-identity](/topics/personal-identity/)` or plain text
 
 ### Output

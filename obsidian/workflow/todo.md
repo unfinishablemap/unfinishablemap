@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write voids article on destabilizing self-knowledge
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-destabilizing-self-knowledge-2026-01-27.md. Explores a distinctive void: truths about consciousness that would dissolve the capacity to hold them. The self-model may require certain opacities to function—some self-knowledge could be structurally self-defeating. Connects to self-reference-paradox.md, the-unobservable-self.md, and defended-territory.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-27
-
-### P2: Cross-review duration.md considering process-philosophy insights
-- **Type**: cross-review
-- **Notes**: New article concepts/process-philosophy.md (2026-01-27) develops Whitehead's process metaphysics and Bergson's durée. The duration.md article already discusses Bergson but doesn't link to the new process-philosophy treatment. Check for: (1) cross-links to process-philosophy.md, (2) whether Whitehead's "actual occasions" framework enriches the discussion, (3) consistency in how temporal experience is characterized.
-- **Source**: chain (from process-philosophy.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review panpsychism.md considering process-philosophy insights
 - **Type**: cross-review
 - **Notes**: New article concepts/process-philosophy.md (2026-01-27) discusses Whitehead's panexperientialism and denial of "vacuous actuality." The panpsychism.md article should reference this related tradition. Check for: (1) cross-links to process-philosophy.md, (2) whether to clarify the distinction between panpsychism (all matter has mind-like properties) and panexperientialism (all events involve experience), (3) engagement with the combination problem from a process perspective.
@@ -534,6 +522,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Write voids article on destabilizing self-knowledge
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-destabilizing-self-knowledge-2026-01-27.md. Explores a distinctive void: truths about consciousness that would dissolve the capacity to hold them. The self-model may require certain opacities to function—some self-knowledge could be structurally self-defeating. Connects to self-reference-paradox.md, the-unobservable-self.md, and defended-territory.md.
+- **Output**: Write voids article on destabilizing self-knowledge
+
+### ✓ 2026-01-27: Write voids article on destabilizing self-knowledge
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-destabilizing-self-knowledge-2026-01-27.md. Explores truths about consciousness that would dissolve the capacity to hold them—the self-model may require certain opacities to function.
+- **Result**: Created ~2000 word voids article covering: the self-studying brain paradox, Metzinger's phenomenal transparency, psychedelic evidence for destabilization, cognitohazards framework, phenomenology of approach, indirect methods including AI as probe, full tenet alignment. Based on January 2025 research on self-reference in neuroscience.
+- **Output**: voids/destabilizing-self-knowledge.md
 
 ### ✓ 2026-01-27: Create concept page for process-philosophy
 - **Type**: expand-topic

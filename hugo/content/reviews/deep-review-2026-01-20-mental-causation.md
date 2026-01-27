@@ -59,7 +59,7 @@ topics: []
 
 ### Cross-links Added
 - [illusionism](/concepts/illusionism/)
-- [interface-locality](/concepts/interface-locality/)
+- [interface-locality](/archive/concepts/interface-locality/)
 - [many-worlds](/arguments/many-worlds/)
 - [pairing-problem](/concepts/pairing-problem/)
 - [decoherence](/concepts/decoherence/)

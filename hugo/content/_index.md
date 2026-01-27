@@ -82,7 +82,7 @@ flowchart BT
 
 **[Attention as Interface](/concepts/attention-as-interface/)** — How consciousness might actually touch the physical world.
 
-**[Interface Locality](/concepts/interface-locality/)** — Why minds can't move objects at a distance (and why that's the right answer).
+**[Interface Locality](/archive/concepts/interface-locality/)** — Why minds can't move objects at a distance (and why that's the right answer).
 
 **[Phenomenal Value Realism](/concepts/phenomenal-value-realism/)** — The case that consciousness is the only source of intrinsic value.
 

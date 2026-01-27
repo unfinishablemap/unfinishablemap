@@ -220,8 +220,8 @@ The key point: embodied cognition challenges a specific historical position (Car
 - [ai-consciousness](/topics/ai-consciousness/) — Why the grounding problem matters for machine minds
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's integration of embodied cognition with consciousness science
 - [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness, the Dreyfus model, and choking as bidirectional evidence
-- [brain-specialness](/concepts/brain-specialness/) — What makes neural systems the interface for consciousness
-- [interface-locality](/concepts/interface-locality/) — Why selection is brain-restricted
+- [brain-specialness](/archive/concepts/brain-specialness/) — What makes neural systems the interface for consciousness
+- [interface-locality](/archive/concepts/interface-locality/) — Why selection is brain-restricted
 - [substrate-independence-critique](/concepts/substrate-independence-critique/) — Why computational substrate matters
 - [attention-as-interface](/concepts/attention-as-interface/) — The quantum Zeno mechanism for mind-body interaction
 - [voluntary-attention](/concepts/voluntary-attention/) — The phenomenology of directed attention

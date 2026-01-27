@@ -68,7 +68,7 @@ If haecceities don't exist, the pairing problem generalizes to all causation. Wh
 
 The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework provides a natural answer. If consciousness interfaces with the brain at quantum indeterminacies in specific neural structures, consciousness is located *where those structures are*. The distinctiveness of consciousness is metaphysical, not spatial—it can be a different kind of thing from matter while still occupying space.
 
-[Interface locality](/concepts/interface-locality/) reinforces this: each consciousness can only interface with its own brain because the quantum Zeno mechanism requires the observer-system coupling that exists only within one's neural substrate. You cannot attend to distant quantum systems the way you attend to your own neural states. The pairing is built into the mechanism.
+[Interface locality](/archive/concepts/interface-locality/) reinforces this: each consciousness can only interface with its own brain because the quantum Zeno mechanism requires the observer-system coupling that exists only within one's neural substrate. You cannot attend to distant quantum systems the way you attend to your own neural states. The pairing is built into the mechanism.
 
 ## Conservation Laws
 
@@ -274,7 +274,7 @@ These are empirical and interpretive questions, not settled by philosophical arg
 
 | Objection | Target | Site's Response | Strength |
 |-----------|--------|-----------------|----------|
-| Pairing problem | Substance dualism | Minds are spatially located (in brains); [interface-locality](/concepts/interface-locality/) provides natural pairing; [haecceity](/concepts/haecceity/) offers alternative grounding | Strong |
+| Pairing problem | Substance dualism | Minds are spatially located (in brains); [interface-locality](/archive/concepts/interface-locality/) provides natural pairing; [haecceity](/concepts/haecceity/) offers alternative grounding | Strong |
 | Conservation laws | Interactionism | Conservation is local/conditional (Pitts/Cucu); selection not injection at quantum indeterminacies; see [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) | Strong |
 | Parsimony | Dualism | Consciousness is evidence; materialism doesn't explain it; simplicity isn't truth | Strong |
 | Decoherence | Quantum interactionism | Revised calculations, quantum biology evidence, decoherence doesn't solve measurement problem | Moderate |
@@ -307,7 +307,7 @@ These objections have been taken seriously throughout the history of philosophy.
 - [arguments-for-dualism](/concepts/arguments-for-dualism/) — Positive arguments for the Map's position
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The mechanism for mind-matter interface
 - [decoherence](/concepts/decoherence/) — The quantum biology challenge and evidence
-- [interface-locality](/concepts/interface-locality/) — Why consciousness can only select within its own brain
+- [interface-locality](/archive/concepts/interface-locality/) — Why consciousness can only select within its own brain
 - [haecceity](/concepts/haecceity/) — Primitive "thisness" as pairing relation
 - [luck-objection](/concepts/luck-objection/) — Parallel challenge to libertarian free will
 - [many-worlds](/arguments/many-worlds/) — The interpretation whose rejection grounds the Map's view

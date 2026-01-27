@@ -30,7 +30,7 @@ topics: []
 
 The locality problem asks: if consciousness influences quantum events in the brain, where exactly does this happen? This seems to require consciousness to have spatial properties, coordinating across potentially billions of sites. The objection appears strong—until we consider what the universe already accomplishes, what [dualism](/archive/arguments/interactionist-dualism/) actually implies about the "mind side," and what computational contexts reveal about interaction.
 
-The concern rests on unstated assumptions about how non-physical causation must work. Examining these assumptions dissolves much of the apparent difficulty. For the more specific question of why consciousness acts on *this* brain rather than others, see [interface-locality](/concepts/interface-locality/); for what makes brains suitable interfaces at all, see [brain-specialness](/concepts/brain-specialness/).
+The concern rests on unstated assumptions about how non-physical causation must work. Examining these assumptions dissolves much of the apparent difficulty. For the more specific question of why consciousness acts on *this* brain rather than others, see [interface-locality](/archive/concepts/interface-locality/); for what makes brains suitable interfaces at all, see [brain-specialness](/archive/concepts/brain-specialness/).
 
 ## The Objection Stated
 
@@ -64,7 +64,7 @@ If physical reality has billions of interacting particles, immensely complex che
 
 Consider: if consciousness is not reducible to physics, it may have its own structure—perhaps *more* complex than physical structure, not less. The experienced richness of consciousness already hints at this. A single moment of visual experience contains more differentiated content than any physical description captures.
 
-The [brain specialness](/concepts/brain-specialness/) article develops this further: neural systems may be suitable interfaces precisely because they have the right kind of complexity—representational structure, feedback integration, quantum sensitivity—to engage with a complex mind. The mind-brain pairing isn't arbitrary; it reflects structural correspondence between the non-physical and physical domains.
+The [brain specialness](/archive/concepts/brain-specialness/) article develops this further: neural systems may be suitable interfaces precisely because they have the right kind of complexity—representational structure, feedback integration, quantum sensitivity—to engage with a complex mind. The mind-brain pairing isn't arbitrary; it reflects structural correspondence between the non-physical and physical domains.
 
 The mind side of dualism could include:
 - Structure sufficient to engage with distributed physical events
@@ -113,8 +113,8 @@ The bidirectional interaction tenet survives the locality challenge. It faces ot
 
 ## Further Reading
 
-- [interface-locality](/concepts/interface-locality/) — Why consciousness acts on *this* brain specifically
-- [brain-specialness](/concepts/brain-specialness/) — What makes neural systems suitable interfaces
+- [interface-locality](/archive/concepts/interface-locality/) — Why consciousness acts on *this* brain specifically
+- [brain-specialness](/archive/concepts/brain-specialness/) — What makes neural systems suitable interfaces
 - [pairing-problem](/concepts/pairing-problem/) — Kim's challenge about mind-body connection
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The broader question of whether quantum selection is coherent
 - [simulation](/concepts/simulation/) — How computational framings dissolve locality concerns

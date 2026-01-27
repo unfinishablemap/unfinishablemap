@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-27 16:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,7 @@ concepts:
 - '[[russellian-monism]]'
 - '[[philosophical-zombies]]'
 - '[[consciousness-only-territories]]'
+- '[[intrinsic-nature-void]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 description: Mary knows all physical facts about color but learns something new seeing
@@ -22,7 +23,7 @@ description: Mary knows all physical facts about color but learns something new 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-26 22:30:00+00:00
+last_deep_review: 2026-01-27 16:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -132,7 +133,7 @@ Alfred North Whitehead's process philosophy offers an alternative framing. For W
 
 On this view, Mary's situation illustrates a general truth: structure never entails experience. Physical science describes patterns of relationship, but the intrinsic nature of what stands in those relationships—what Whitehead calls "subjective form"—remains inaccessible from outside. When Mary sees red, she gains access to the subjective form of a new type of occasion, something no external description could provide.
 
-This resonates with Bertrand Russell's insight that physics describes structure without revealing intrinsic nature. [Russellian monism](/concepts/russellian-monism/) develops this idea—physical science tells us what things *do*, not what they *are*. Mary learns what color experience *is* by having it, not by knowing what it does.
+This resonates with Bertrand Russell's insight that physics describes structure without revealing intrinsic nature—the [intrinsic-nature-void](/voids/intrinsic-nature-void/) at the heart of physical science. [Russellian monism](/concepts/russellian-monism/) develops this idea—physical science tells us what things *do*, not what they *are*. Mary's Room dramatizes this void: she possessed complete structural knowledge yet lacked intrinsic knowledge of red. What she gains upon seeing color is precisely what physics structurally cannot provide.
 
 ## What Would Challenge This View?
 
@@ -160,6 +161,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 
 ## Further Reading
 
+- [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes structure but not intrinsic nature—what Mary's case dramatizes
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — How acquaintance knowledge defines territories accessible only to conscious beings
 - [arguments-against-materialism](/concepts/arguments-against-materialism/) — The knowledge argument as one of seven converging anti-materialist arguments
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap the knowledge argument dramatizes

@@ -98,7 +98,7 @@ Even for those who reject RQM, engaging with it clarifies what's at stake:
 
 **The price of consciousness-causes-collapse.** RQM shows there's a coherent interpretation where consciousness plays no role. Choosing a consciousness-based framework isn't forced by quantum mechanics—it's a philosophical commitment. Understanding RQM helps distinguish what quantum mechanics requires from what the Map's tenets add.
 
-**The multi-observer problem.** RQM's treatment of multiple observers (each with valid but relative perspectives) illuminates the challenges consciousness-causes-collapse faces. If Alice's consciousness collapses the wavefunction and Bob's does too, how are their selections reconciled? RQM dissolves this by relativizing collapse to each observer. The Map's alternative—[interface-locality](/concepts/interface-locality/)—achieves something similar by different means: each consciousness modulates only its own brain.
+**The multi-observer problem.** RQM's treatment of multiple observers (each with valid but relative perspectives) illuminates the challenges consciousness-causes-collapse faces. If Alice's consciousness collapses the wavefunction and Bob's does too, how are their selections reconciled? RQM dissolves this by relativizing collapse to each observer. The Map's alternative—[interface-locality](/archive/concepts/interface-locality/)—achieves something similar by different means: each consciousness modulates only its own brain.
 
 **Lessons for perspectivalism.** RQM's insight that intermediate states needn't be coordinated until observers interact has value even within a different framework. The Map can accept that before Alice and Bob communicate, their brain states (modulated by their respective consciousnesses) needn't be compared. Agreement is verified only through physical interaction.
 
@@ -185,7 +185,7 @@ The Map rejects this trade-off. Understanding consciousness as causally efficaci
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Survey of interpretations and their consciousness implications
 - [many-worlds](/arguments/many-worlds/) — The interpretation both RQM and the Map reject, for different reasons
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — How the Map handles multiple conscious observers
-- [interface-locality](/concepts/interface-locality/) — Why consciousness can only affect its own brain
+- [interface-locality](/archive/concepts/interface-locality/) — Why consciousness can only affect its own brain
 - [measurement-problem](/concepts/measurement-problem/) — The puzzle RQM dissolves
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms the Map endorses
 - [illusionism](/concepts/illusionism/) — The eliminativist position that finds RQM congenial

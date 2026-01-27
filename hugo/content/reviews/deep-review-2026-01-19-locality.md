@@ -55,8 +55,8 @@ topics: []
 - Added Kim's work to References
 
 ### Cross-links Added
-- [interface-locality](/concepts/interface-locality/)
-- [brain-specialness](/concepts/brain-specialness/)
+- [interface-locality](/archive/concepts/interface-locality/)
+- [brain-specialness](/archive/concepts/brain-specialness/)
 - [pairing-problem](/concepts/pairing-problem/)
 - [binding-problem](/concepts/binding-problem/)
 - [quantum-consciousness](/concepts/quantum-consciousness/)

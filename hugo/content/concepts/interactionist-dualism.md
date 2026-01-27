@@ -157,7 +157,7 @@ Kim raises a distinct challenge: what pairs a particular mind with a particular 
 
 If consciousness causes quantum collapse, what happens when multiple minds observe the same system? The [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) sharpens this: how are Alice's and Bob's conscious selections reconciled?
 
-The Map's resolution combines [interface-locality](/concepts/interface-locality/) with [prebiotic-collapse](/concepts/prebiotic-collapse/): each consciousness interfaces only with its own brain, modulating collapse locally. External systems collapse through objective physical processes. No coordination is needed because each mind operates on its own substrate.
+The Map's resolution combines [interface-locality](/archive/concepts/interface-locality/) with [prebiotic-collapse](/concepts/prebiotic-collapse/): each consciousness interfaces only with its own brain, modulating collapse locally. External systems collapse through objective physical processes. No coordination is needed because each mind operates on its own substrate.
 
 This emerges naturally from the mechanism. Attention—the proposed interface—is neurally implemented; you cannot attend to distant quantum systems as you attend to your own neural states.
 

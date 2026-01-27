@@ -171,7 +171,7 @@ This reframes mental causation as continuous with causation generally rather tha
 
 ### The Interface Question
 
-If consciousness causes physical effects, why only in *this* brain? The [pairing problem](/concepts/pairing-problem/) asks what connects a particular mind to a particular body. The Map's response: consciousness is spatially located where it causally interfaces with the brain. [Interface-locality](/concepts/interface-locality/) constrains mental causation to neural systems already integrated into the subject's control loop—consciousness can only influence quantum systems it can "observe" through the [attention mechanism](/concepts/attention-as-interface/).
+If consciousness causes physical effects, why only in *this* brain? The [pairing problem](/concepts/pairing-problem/) asks what connects a particular mind to a particular body. The Map's response: consciousness is spatially located where it causally interfaces with the brain. [Interface-locality](/archive/concepts/interface-locality/) constrains mental causation to neural systems already integrated into the subject's control loop—consciousness can only influence quantum systems it can "observe" through the [attention mechanism](/concepts/attention-as-interface/).
 
 ## The Self-Stultification Argument
 
@@ -257,7 +257,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [agent-causation](/concepts/agent-causation/) — The metaphysical framework for substance causation
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How consciousness interfaces with physics
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening
-- [interface-locality](/concepts/interface-locality/) — Why consciousness affects only its own brain
+- [interface-locality](/archive/concepts/interface-locality/) — Why consciousness affects only its own brain
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention implements the consciousness-physics interface
 - [free-will](/topics/free-will/) — The implications for agency

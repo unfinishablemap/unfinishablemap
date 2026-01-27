@@ -180,7 +180,7 @@ Multiple independent perspectives can coexist:
 - **Problem**: Explicitly removes consciousness's special role—contradicts site tenets
 
 ### Option 3: Interface Locality (Potential Site Position)
-The Map's [interface-locality](/concepts/interface-locality/) concept may help:
+The Map's [interface-locality](/archive/concepts/interface-locality/) concept may help:
 - Each consciousness interfaces only with "its" brain
 - Collapses are local to specific neural systems
 - No mind can affect distant systems without physical mediation

@@ -68,13 +68,13 @@ topics: []
 Frontmatter concepts:
 - [illusionism](/concepts/illusionism/)
 - [attention-as-interface](/concepts/attention-as-interface/)
-- [brain-specialness](/concepts/brain-specialness/)
-- [interface-locality](/concepts/interface-locality/)
+- [brain-specialness](/archive/concepts/brain-specialness/)
+- [interface-locality](/archive/concepts/interface-locality/)
 - [witness-consciousness](/concepts/witness-consciousness/)
 
 Further Reading additions:
-- [brain-specialness](/concepts/brain-specialness/)
-- [interface-locality](/concepts/interface-locality/)
+- [brain-specialness](/archive/concepts/brain-specialness/)
+- [interface-locality](/archive/concepts/interface-locality/)
 - [substrate-independence-critique](/concepts/substrate-independence-critique/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [voluntary-attention](/concepts/voluntary-attention/)

@@ -184,7 +184,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 **Key concepts:**
 - [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — Analysis of the decoherence challenge
 - [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) — What a coupling law must specify
-- [interface-locality](/concepts/interface-locality/) — Why consciousness selects only within its own brain
+- [interface-locality](/archive/concepts/interface-locality/) — Why consciousness selects only within its own brain
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Entanglement and phenomenal unity
 
 **Objections and resolutions:**
