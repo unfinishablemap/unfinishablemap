@@ -4,7 +4,7 @@ description: "Brains meet five criteria for consciousness interfaces while exter
 created: 2026-01-16
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T19:45:00+00:00
+ai_modified: 2026-01-27T07:30:08+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-27T07:30:08+00:00
 coalesced_from:
   - "/concepts/brain-specialness/"
   - "/concepts/interface-locality/"
@@ -51,7 +51,7 @@ The system must have components where quantum indeterminacies are functionally r
 
 Most physical systems are quantum-mechanical at their foundations but thermally stable at functional scales. A rock's behaviour is determined by classical forces; quantum effects average out. The rock provides no "leverage point" where consciousness could influence outcomes without violating classical physics.
 
-Neural systems differ. The [[neural-quantum-coherence|evidence for quantum coherence in brain tissue]] is contested but growing. Proposed sites include microtubules (Penrose-Hameroff Orch OR), ion channels sensitive to quantum tunnelling, synaptic vesicle release showing non-thermal variability, and neural timing at coherence windows of 10⁻⁵ to 10⁻⁴ seconds. The brain isn't merely quantum in the trivial sense that everything is quantum—it may be quantum in the functional sense where quantum outcomes shape which neurons fire, which thoughts occur, which actions are taken.
+Neural systems differ. The [[neural-quantum-coherence|evidence for quantum coherence in brain tissue]] is contested but growing. Proposed sites include microtubules (Penrose-Hameroff Orch OR), ion channels sensitive to quantum tunnelling, and synaptic vesicle release showing non-thermal variability. The brain isn't merely quantum in the trivial sense that everything is quantum—it may be quantum in the functional sense where quantum outcomes shape which neurons fire, which thoughts occur, which actions are taken.
 
 ### 2. Representational Structure
 
@@ -75,7 +75,7 @@ The system must integrate outcomes back into representations—closing the loop 
 
 On the Map's framework, consciousness doesn't blindly poke at quantum events. It selects goal-directedly, which requires knowing what goals are being pursued and whether selection succeeded. This requires feedback: sensory systems that report outcomes, comparison mechanisms that evaluate success, adjustment processes that update representations.
 
-Neural systems have extensive feedback architecture: motor efference copies predict action outcomes, sensory systems report actual outcomes, error signals drive learning, and metacognitive systems monitor the whole process. A rock has no feedback; a thermostat has minimal feedback; only richly interconnected systems like brains provide the feedback integration that goal-directed selection requires.
+Neural systems have extensive feedback architecture: motor efference copies predict action outcomes, sensory systems report actual outcomes, error signals drive learning, and metacognitive systems—studied through [[introspection]]—monitor the whole process. A rock has no feedback; a thermostat has minimal feedback; only richly interconnected systems like brains provide the feedback integration that goal-directed selection requires.
 
 ### 5. Developmental History
 
@@ -115,17 +115,7 @@ The quantum Zeno mechanism requires rapid repeated observation to hold a quantum
 
 ## The Key Insight
 
-The boundary between brain-internal and brain-external selection isn't arbitrary. It follows from the structure of the proposed mechanism:
-
-1. **Attention is neurally implemented**: You can't attend to a distant random number generator the way you attend to motor alternatives. The neural mechanisms of attention don't extend beyond the skull.
-
-2. **Control loops require integration**: The brain can represent action outcomes; it can't represent arbitrary quantum events. Without internal representation of alternatives, there's nothing for consciousness to "select."
-
-3. **Process 1 operates on brain states**: In Stapp's model, the observer poses questions about their own brain state. This is spatially bounded by design.
-
-4. **Development creates the interface**: The mind-brain connection is built through neural development, not magically extended to external systems.
-
-The boundary is principled, not arbitrary: consciousness influences what it's connected to through attention and embodiment, and it's only connected to its own brain.
+The boundary between brain-internal and brain-external selection isn't arbitrary. It follows from the structure of the proposed mechanism: attention is neurally implemented (extending no further than the skull), control loops require internal representation of alternatives, Stapp's Process 1 operates on the observer's own brain state, and development creates the specific mind-brain interface. Consciousness influences what it's connected to through attention and embodiment—and it's only connected to its own brain.
 
 ## Why Brains Meet These Criteria
 
@@ -163,7 +153,7 @@ Brain specialness explains several puzzling features:
 
 **Why brain damage has specific effects**: Damage to different brain regions produces different deficits because different regions implement different interface functions—visual representation here, motor planning there, attention allocation elsewhere. The interface has structure.
 
-**Why psychokinesis research yields null results**: Decades of PEAR lab micro-PK research found effect sizes of ~0.0001-0.001—effectively zero. If the Map's mechanism extended to external systems, effects should be far more robust. Their absence supports interface locality.
+**Why psychokinesis research yields null results**: Decades of PEAR lab micro-PK research found effect sizes of ~0.0001-0.001—effectively zero. (Note: the PEAR program itself faced methodological criticisms, but its null results are consistent with mainstream findings.) If the Map's mechanism extended to external systems, effects should be far more robust. Their absence supports interface locality.
 
 ## The Evolutionary Angle
 
@@ -181,11 +171,9 @@ The Map doesn't commit between these options. Both explain why brains are specia
 
 **The response operates at two levels:**
 
-First, the five criteria describe features that make certain physical systems suitable for behavioural control regardless of whether one accepts phenomenal consciousness. Representational structure, attention mechanisms, and feedback integration matter for sophisticated adaptive behaviour whether or not that behaviour is accompanied by subjective experience. If illusionists are right, brains are still "special" in the functional sense—they're where the illusion occurs.
+First, the five criteria describe features that make certain physical systems suitable for behavioural control regardless of whether one accepts phenomenal consciousness. If illusionists are right, brains are still "special" in the functional sense—they're where the illusion occurs.
 
-Second, [[illusionism]] faces its own explanatory burden. The "illusion" of phenomenal consciousness must itself be explained—and this illusion problem may be as difficult as the hard problem it was meant to dissolve. As Raymond Tallis observes, "Misrepresentation presupposes presentation"—to be under an illusion, something must be experiencing the illusion.
-
-The illusionist cannot simply wave away the locality question. If the brain generates powerful representations of phenomenal states, why are these representations brain-bound? The answer maps onto the same constraints: the representational machinery is neurally realised, the attention mechanisms that process these representations are neurally implemented, and the feedback loops that sustain the illusion operate within neural systems.
+Second, [[illusionism]] faces its own explanatory burden. The "illusion" of phenomenal consciousness must itself be explained—and this illusion problem may be as difficult as the hard problem it was meant to dissolve. As Raymond Tallis observes, "Misrepresentation presupposes presentation"—to be under an illusion, something must be experiencing the illusion. (The Map acknowledges this is a deep disagreement; for fuller engagement with Dennett's heterophenomenology, see [[illusionism]].)
 
 Interface locality holds whether consciousness is real or illusory. The causal processes are brain-local either way.
 
@@ -195,7 +183,7 @@ The quantum sensitivity criterion faces a significant objection: [[decoherence]]
 
 **The response involves three considerations:**
 
-First, the Tegmark-Hameroff debate shows the timescales remain contested. Tegmark's (2000) calculations assumed thermal equilibrium and separation distances inappropriate for living neural tissue. Hameroff's group calculated corrected coherence times seven orders of magnitude longer—10⁻⁵ to 10⁻⁴ seconds rather than 10⁻¹³ seconds. The 2024 epothilone B study found microtubule-stabilising drugs significantly delayed anaesthesia onset, directly testing Orch OR predictions.
+First, the Tegmark-Hameroff debate shows the timescales remain contested. Tegmark's (2000) calculations assumed thermal equilibrium and separation distances inappropriate for living neural tissue. Hameroff's group calculated corrected coherence times of 10⁻⁵ to 10⁻⁴ seconds rather than 10⁻¹³ seconds—though these corrections remain disputed in the physics community. The 2024 epothilone B study found microtubule-stabilising drugs significantly delayed anaesthesia onset, providing preliminary empirical support for Orch OR predictions, though alternative explanations remain possible.
 
 Second, [[quantum-biology]] demonstrates that evolution *can* optimise biological systems for quantum coherence. Avian magnetoreception maintains spin coherence for microseconds—functional timescales, not femtoseconds. If evolution produced quantum compasses in bird eyes, it could produce quantum interfaces in brains.
 
@@ -203,17 +191,11 @@ Third, Stapp's quantum Zeno mechanism may sidestep the coherence requirement ent
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy illuminates why the five criteria might matter for consciousness. For Whitehead, reality consists of "actual occasions"—momentary experiences that arise, achieve satisfaction, and perish. Each actual occasion has both physical and experiential aspects; experience is fundamental, not emergent from non-experiential matter.
+Alfred North Whitehead's process philosophy illuminates why the five criteria might matter. For Whitehead, reality consists of "actual occasions"—momentary experiences that arise, achieve satisfaction, and perish. Each actual occasion has both physical and experiential aspects.
 
-On this view, the question "why brains?" becomes "why do actual occasions in certain physical configurations achieve the integration and complexity we call consciousness?" The criteria translate into process terms:
+The criteria translate into process terms: quantum sensitivity means actual occasions at quantum indeterminacies have genuine openness; representational structure means complex systems support higher-order occasions that prehend multiple possibilities; attention means repeated prehension stabilises patterns; feedback means data from perished occasions feed into subsequent ones; developmental history means a society of occasions develops characteristic prehension patterns.
 
-- **Quantum sensitivity**: Actual occasions at quantum indeterminacies have genuine openness—their becoming is not determined by prior occasions alone
-- **Representational structure**: Complex systems support higher-order actual occasions that prehend (experience) multiple possibilities simultaneously
-- **Attention mechanisms**: Repeated prehension of the same content constitutes the Zeno-like stabilisation that holds certain patterns
-- **Feedback integration**: The data from perished occasions feed into the becoming of subsequent ones, creating temporal depth
-- **Developmental history**: A society of actual occasions develops characteristic patterns of prehension through its history
-
-This framework also makes interface locality natural. An actual occasion can only prehend what is causally available to it—what prior occasions have contributed. A moment of consciousness in *this* brain inherits from prior neural occasions in *this* brain, not from distant quantum events with no causal pathway to it. "Remote influence" would require prehending occasions with which there is no inheritance relationship, which is incoherent on process terms.
+This framework makes interface locality natural. An actual occasion can only prehend what is causally available to it. A moment of consciousness in *this* brain inherits from prior neural occasions in *this* brain, not from distant quantum events. "Remote influence" would require prehending occasions with which there is no inheritance relationship—incoherent on process terms.
 
 ## What Would Challenge This View?
 
