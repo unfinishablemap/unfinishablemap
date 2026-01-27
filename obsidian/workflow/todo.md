@@ -544,6 +544,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
+### P3: Create concept page for baseline-cognition
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27 (night). Foundational concept referenced across multiple articles but lacking dedicated treatment. Would clarify what cognition achieves without consciousness and why this matters for the causal efficacy question. The concept appears in consciousness-in-simple-organisms.md and implicitly in argument-from-reason.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on process philosophy integration
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27 (night). How process metaphysics provides an alternative to substance/property dualism binary; why occasions rather than substances may be fundamental. Whitehead is referenced in aesthetic-dimension, simple-organisms, and hard-problem articles. Would provide metaphysical framework compatible with all five tenets.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on phenomenal unity and the binding problem
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27 (night). Deep treatment of how phenomenal unity challenges physicalism. Why distributed neural activity doesn't explain unified experience. Referenced in hard-problem, aesthetic-dimension, and simple-organisms. May connect to quantum consciousness (entanglement as genuine holism). Estimated 2000-3000 words.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
 ## Completed Tasks
 
 
