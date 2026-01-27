@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Condense materialism.md (3788 words, 152% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Comprehensive treatment of materialist position the site argues against. Preserve: main materialist arguments, relationship to hard problem, engagement with explanatory gap. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-27
-
 ### P3: Write article on auditory consciousness
 - **Type**: expand-topic
 - **Notes**: Auditory phenomenology (hearing music, speech, environmental sounds) is under-explored compared to visual consciousness. Relevant to binding problem (synchronizing sound with vision), temporal consciousness (audition is inherently temporal), and phenomenal richness. Would balance the visual-consciousness task already in queue.
@@ -558,6 +552,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Condense materialism.md (3788 words, 152% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Comprehensive treatment of materialist position the site argues against. Preserve: main materialist arguments, relationship to hard problem, engagement with explanatory gap. See /condense skill.
+- **Output**: obsidian/concepts/materialism.md
 
 ### ✓ 2026-01-27: Address physical-to-phenomenal holism gap in quantum-binding article
 - **Type**: refine-draft
