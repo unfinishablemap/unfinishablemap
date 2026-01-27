@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 12:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Quantum biology and neural mechanisms
+- **Output**: `topics/quantum-biology-and-the-consciousness-debate.md`
+- **Word count**: 1624
+- **Based on research**: Yes, `research/quantum-biology-neural-mechanisms-2026-01-24.md`
+- **Key decisions**:
+  - Placed in topics/ (not concepts/) as it addresses broader philosophical question of what quantum biology means for consciousness debates
+  - Distinguished from existing quantum-biology.md and quantum-neural-mechanisms.md concepts by focusing on burden-of-proof shift rather than mechanism catalogs
+  - Emphasized what remains uncertain alongside what's established
+
 ## 2026-01-27 22:45 UTC - deep-review
 
 - **Status**: Success
