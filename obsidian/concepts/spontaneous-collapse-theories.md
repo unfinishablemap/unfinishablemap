@@ -4,9 +4,9 @@ description: "GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-27T12:30:00+00:00
 draft: false
-last_deep_review: 2026-01-24T17:45:00+00:00
+last_deep_review: 2026-01-27T12:30:00+00:00
 topics: []
 concepts:
   - "[[measurement-problem]]"
@@ -41,7 +41,7 @@ The von Neumann-Wigner interpretation posits that consciousness causes [[measure
 1. **Infinite regress**: If measurement requires conscious observation, what collapses the observer's own wave function? An infinite chain of observers?
 2. **Prebiotic collapse**: Quantum events occurred for billions of years before consciousness evolved. Did superpositions persist across the early universe? Did the first bacteria collapse cosmic wave functions? (See [[measurement-problem]] for the broader context.)
 
-These problems motivate consciousness-independent collapse mechanisms. If wave functions collapse spontaneously through physical processes, consciousness can still play a role by *modulating* collapse parameters (rate, location, basis selection) rather than wholly causing collapse. This is exactly what the Map's framework requires: minimal quantum interaction, not ubiquitous quantum-scale consciousness.
+These problems motivate consciousness-independent collapse mechanisms. If wave functions collapse spontaneously through physical processes, consciousness can still play a role by *modulating* collapse parameters (rate, location, basis selection) rather than wholly causing collapse. This is exactly what the Map's framework requires: minimal quantum interaction, not ubiquitous quantum-scale consciousness. (For extended treatment of this problem, including process philosophy perspectives and the decoherence challenge, see [[prebiotic-collapse]].)
 
 ## GRW Theory (Discrete Spontaneous Collapse)
 
@@ -76,7 +76,7 @@ CSL is more elegant than GRW mathematically and makes similar experimental predi
 
 ### Consciousness-Modulated CSL (Hybrid Model)
 
-Kelvin McQueen has proposed combining CSL with [[integrated-information-theory|Integrated Information Theory]] (see McQueen & Chalmers 2014 preprint; McQueen 2015 dissertation work). In this hybrid:
+Kelvin McQueen has proposed combining CSL with [[integrated-information-theory|Integrated Information Theory]]. In this hybrid:
 
 - **Baseline collapse**: CSL noise field operates universally (prebiotic collapse solved)
 - **Consciousness amplification**: Systems with high Φ (integrated information) experience stronger/faster collapse

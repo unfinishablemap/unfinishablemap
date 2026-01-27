@@ -17,6 +17,20 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 12:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/spontaneous-collapse-theories.md`
+- **Word count**: 2298 → ~2310 (+12)
+- **Context**: Cross-review considering new prebiotic-collapse.md article
+- **Critical issues addressed**: 0 (none found; previous review resolved all)
+- **Medium issues addressed**: 2
+  - Fixed McQueen citation (removed unverifiable "Chalmers 2014 preprint" claim)
+  - Added cross-reference to [[prebiotic-collapse]] in body text
+- **Enhancements made**: 2 (citation fix, integration with dedicated prebiotic page)
+- **Output**: `reviews/deep-review-2026-01-27-spontaneous-collapse-theories.md`
+- **Notes**: Second review of this article. First review (2026-01-24) addressed major gaps. This cross-review improved integration with prebiotic-collapse page. Article approaching stability.
+
 ## 2026-01-27 06:15 UTC - refine-draft
 
 - **Status**: Success

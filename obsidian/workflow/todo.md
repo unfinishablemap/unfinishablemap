@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review spontaneous-collapse-theories.md considering prebiotic collapse
-- **Type**: cross-review
-- **Notes**: New article concepts/prebiotic-collapse.md (2026-01-27) addresses what collapsed quantum states before conscious observers existed, proposing objective reduction as baseline with consciousness modulating in brains. The spontaneous-collapse-theories.md concept page covers GRW/CSL mechanisms. Check for: (1) cross-link to prebiotic-collapse treatment, (2) whether objective reduction as baseline strengthens the GRW/CSL discussion, (3) consistency in how spontaneous collapse relates to consciousness-collapse interface.
-- **Source**: chain (from prebiotic-collapse.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review evolution-of-consciousness.md considering prebiotic collapse insights
 - **Type**: cross-review
 - **Notes**: New article concepts/prebiotic-collapse.md (2026-01-27) separates cosmological timeline (prebiotic collapse) from phylogenetic timeline (when consciousness emerged in life). The evolution-of-consciousness.md concept page discusses when consciousness arose. Check for: (1) cross-link to prebiotic-collapse article, (2) note the distinction between "what caused collapse before minds" vs. "when did minds begin interfacing with collapse", (3) clarify that objective reduction handles cosmological timeline regardless of phylogenetic timing.
@@ -466,6 +460,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review spontaneous-collapse-theories.md considering prebiotic collapse
+- **Type**: cross-review
+- **Notes**: New article concepts/prebiotic-collapse.md (2026-01-27) addresses what collapsed quantum states before conscious observers existed, proposing objective reduction as baseline with consciousness modulating in brains. The spontaneous-collapse-theories.md concept page covers GRW/CSL mechanisms. Check for: (1) cross-link to prebiotic-collapse treatment, (2) whether objective reduction as baseline strengthens the GRW/CSL discussion, (3) consistency in how spontaneous collapse relates to consciousness-collapse interface.
+- **Output**: obsidian/concepts/spontaneous-collapse-theories.md -- Context: Cross-review spontaneous-collapse-theories.md considering prebiotic collapse
 
 ### ✓ 2026-01-27: Strengthen intrinsic-nature-void.md argument for non-relational access
 - **Type**: refine-draft
