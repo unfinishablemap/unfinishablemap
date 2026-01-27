@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-27T00:02:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,108 +47,53 @@ McGinn proposes that humans are cognitively closed with respect to property "P"�
 
 ## Nagel's Bat
 
-Thomas Nagel anticipated mysterianism in his 1974 paper "What Is It Like to Be a Bat?" His central observation: understanding bat consciousness would require grasping what echolocation is *like* from the inside. But we cannot imagine this. We can imagine hanging upside down, eating insects, even navigating by sound—but these are *our* experiences wearing bat costumes. The subjective character of bat experience remains inaccessible.
+Thomas Nagel anticipated mysterianism in his 1974 paper "What Is It Like to Be a Bat?" Understanding bat consciousness would require grasping what echolocation is *like* from the inside—but we cannot. We can imagine hanging upside down or navigating by sound, but these are *our* experiences wearing bat costumes.
 
-Nagel's broader point: objective scientific methods cannot capture subjective experience without loss. To understand consciousness objectively, we would have to abstract away from viewpoints—but viewpoints are precisely what we're trying to understand. The gap isn't merely current ignorance. It's structural.
-
-This leads to what Nagel calls a "conceptual revolution" that may be needed but which we cannot even conceive. We know the current conceptual framework fails. We don't know what would succeed.
+Nagel's broader point: objective scientific methods cannot capture subjective experience without loss. To understand consciousness objectively, we must abstract away from viewpoints—but viewpoints are precisely what we're trying to understand. The gap is structural, not merely current ignorance.
 
 ## Simple Minds and Complete Knowledge
 
-Research on [[minimal-consciousness|minimal consciousness]]—consciousness in simple organisms—provides striking evidence for cognitive closure. Consider *C. elegans*, the roundworm whose entire nervous system has been mapped: 302 neurons, 8,000 chemical synapses, 890 gap junctions. We possess complete structural knowledge. Yet we cannot determine whether the worm experiences anything at all.
+Research on [[minimal-consciousness|minimal consciousness]] provides striking empirical evidence for cognitive closure. Consider *C. elegans*, whose entire nervous system has been mapped: 302 neurons, every synapse documented. Yet we cannot determine whether the worm experiences anything at all. Complete structural knowledge doesn't bridge the gap to phenomenal facts.
 
-This is McGinn's point made empirically. Complete knowledge of neural architecture doesn't bridge the gap to phenomenal facts. We can describe every synapse, trace every circuit, model every firing pattern—and still cannot answer whether there is something it is like to be *C. elegans*. If complete structural description doesn't reveal consciousness in a 302-neuron organism, why expect it to reveal consciousness in an 86-billion-neuron brain?
-
-The situation is worse than mere ignorance. The Unlimited Associative Learning (UAL) framework offers behavioural criteria for consciousness—but researchers explicitly note that an organism might have phenomenal experience without displaying UAL capacities, or display sophisticated behaviour without experience. We have markers, not detectors. We can identify correlates of consciousness without grasping what consciousness *is*—exactly the situation McGinn predicts if we're cognitively closed to the relevant property.
-
-The *distribution problem*—why does *this* level of complexity produce experience rather than some other?—compounds the mystery. If consciousness emerges at some threshold, the threshold seems arbitrary. Why not at 30 neurons? At 3,000? At none? Any answer presupposes understanding we don't have. The question may not be answerable by beings like us, because we lack conceptual access to whatever makes the difference.
-
-Simple organisms reveal the explanatory gap at its starkest. We map everything and understand nothing about what matters most. This is what cognitive closure looks like from the inside.
+If complete description doesn't reveal consciousness in a 302-neuron organism, why expect it to reveal consciousness in an 86-billion-neuron brain? We have markers for consciousness (like Unlimited Associative Learning), not detectors. We identify correlates without grasping what consciousness *is*—exactly what McGinn predicts if we're cognitively closed to the relevant property.
 
 ## Problems Versus Mysteries
 
-Noam Chomsky offered a related distinction between "problems" and "mysteries." Problems are difficulties that fall within our cognitive capacities—we can in principle solve them through systematic investigation. Mysteries lie beyond our cognitive reach, like number theory for cats or calculus for dogs.
+Noam Chomsky distinguished "problems" (difficulties within our cognitive capacities) from "mysteries" (beyond cognitive reach, like calculus for dogs). We're biological organisms with specific cognitive architectures—some questions may fall outside what that architecture can handle.
 
-Chomsky argued there's no reason to assume human cognitive capacities are unlimited. We're biological organisms with specific cognitive architectures shaped by evolution for specific purposes. Some questions may fall outside what that architecture can handle.
-
-Consciousness might be such a mystery. The [[explanatory-gap]] persists despite centuries of philosophical and scientific effort. Perhaps it persists not because we haven't tried hard enough but because trying harder won't help. The gap may be our cognitive closure made visible.
+Consciousness might be such a mystery. The [[explanatory-gap]] persists despite centuries of effort—perhaps not because we haven't tried hard enough, but because trying harder won't help.
 
 ## Concept Nativism and Cognitive Closure
 
-Jerry Fodor's [[conceptual-acquisition-limits|radical concept nativism]] provides a complementary framework to McGinn's cognitive closure. While McGinn argues we cannot *conceive* certain properties, Fodor argues we cannot *acquire* certain concepts at all—they must be innate or forever inaccessible.
+Jerry Fodor's [[conceptual-acquisition-limits|radical concept nativism]] complements McGinn: while McGinn argues we cannot *conceive* certain properties, Fodor argues we cannot *acquire* certain concepts at all. Learning a concept requires already possessing it to formulate hypotheses—experience triggers innate concepts rather than teaching new ones. If the concept isn't built in, no amount of experience produces it.
 
-Fodor's argument begins with a circularity problem: learning a concept like CAT requires testing whether furry-four-legged-things are cats, but formulating this hypothesis already requires possessing CAT. Experience doesn't teach concepts; it triggers concepts already present in our cognitive architecture. If the concept isn't built in, no amount of experience will produce it.
-
-This extends McGinn in a significant direction. McGinn's "property P"—whatever bridges mind and brain—may be closed to us not merely because we cannot conceive it, but because we lack the primitive concepts required to build toward it. The concepts from which property P would be constructed aren't in our innate endowment, so the complex concept cannot form.
-
-Nicholas Rescher's "agnoseology" (theory of unknowability) maps three layers of inaccessibility that deepen this picture:
-
-1. **Logical inaccessibility**: Contradictions cannot be true and thus cannot be known
-2. **Conceptual inaccessibility**: Our conceptual schemes block access—we cannot think thoughts requiring concepts we lack
-3. **In-principle inaccessibility**: Some facts cannot be gathered by any finite knower regardless of conceptual resources
-
-McGinn's cognitive closure occupies the second layer—conceptual inaccessibility. We cannot form the concept of property P, not because grasping it would be contradictory, but because our concept-forming procedures don't extend to it. Rescher's framework shows this is just one layer of a more general theory of cognitive limits. The shape of what we cannot know reveals the shape of what we are.
-
-This convergence—Fodor on concept acquisition, McGinn on conception, Rescher on unknowability—suggests cognitive closure isn't an isolated philosophical hypothesis but part of a broader recognition that finite cognitive architectures necessarily have boundaries. Any mind powerful enough to think some thoughts is thereby prevented from thinking others.
+McGinn's "property P" may be closed to us because we lack the primitive concepts required to build toward it. This convergence—Fodor on concept acquisition, McGinn on conception, Nicholas Rescher's "agnoseology" on layers of unknowability—suggests cognitive closure is part of a broader recognition that finite cognitive architectures necessarily have boundaries. Any mind powerful enough to think some thoughts is thereby prevented from thinking others.
 
 ## Mathematical Understanding and Cognitive Closure
 
-[[consciousness-and-mathematical-understanding|Mathematical understanding]] provides striking evidence for cognitive limits of a particular kind. Roger Penrose argued that mathematicians can recognise truths that no formal system can prove—the Gödel sentence G is true, and we can see this, even though the formal system containing G cannot derive it. If Penrose is right, mathematical insight transcends computation.
+[[consciousness-and-mathematical-understanding|Mathematical understanding]] provides evidence for cognitive limits. Roger Penrose argued that mathematicians recognise truths that no formal system can prove—we can see that the Gödel sentence G is true, even though the system containing G cannot derive it.
 
-This connects to mysterianism in two ways:
-
-**Evidence for non-computational capacities**: If mathematical understanding involves grasping necessities that formal systems cannot capture, our minds do something beyond rule-following. This doesn't directly support cognitive closure about consciousness—but it demonstrates that human cognition has features that resist computational description. We access truths in ways we cannot fully articulate as algorithms. The phenomenology of mathematical insight—the "aha" moment, the sense of *seeing* necessity—may be irreducibly conscious in ways that parallel the irreducibility mysterians attribute to phenomenal experience generally.
-
-**Limits even in successful understanding**: The regress in Penrose's argument is telling. For any formal system F, we can see its Gödel sentence is true using some larger system F'. But then F' has its own unprovable truth G'. This suggests mathematical understanding cannot be captured by *any* fixed algorithm—it perpetually exceeds formalisation. If even our successful cognitive capacities resist complete explication, how much more might our attempts to understand consciousness itself exceed our grasp?
-
-Mathematical understanding is thus a case where we succeed—we do grasp mathematical truths—while remaining unable to explain how. We understand mathematics without understanding how we understand mathematics. This parallels the mysterian suggestion about consciousness: something real happens (we're conscious), but the mechanism by which it happens may be cognitively closed to us. The difference is that mathematical understanding is a capacity we exercise successfully, while understanding consciousness is a capacity we don't seem to have at all.
+This parallels mysterianism: we grasp mathematical truths while remaining unable to explain *how* we grasp them. We understand mathematics without understanding how we understand mathematics. Something real happens, but the mechanism may be cognitively closed to us.
 
 ## The Phenomenology of Cognitive Closure
 
-Mysterianism proposes cognitive closure as a theoretical concept—but what does it feel like to approach a cognitive limit? The [[phenomenology-of-the-edge|voids article on edge-phenomenology]] maps this territory using evidence from contemplative practice, psychedelics, and philosophical inquiry. What emerges suggests that cognitive closure has experiential signatures we can investigate.
+What does it feel like to approach a cognitive limit? The [[phenomenology-of-the-edge|voids article on edge-phenomenology]] maps this territory. When consciousness approaches limits through contemplative practice, psychedelics, or philosophical inquiry, consistent features appear: ineffability combined with felt knowledge, ego dissolution paired with enhanced clarity, temporal distortion alongside unbounded possibility.
 
-When consciousness approaches limits through different means, remarkably consistent features appear: ineffability combined with felt knowledge (you know something you cannot articulate), ego dissolution paired with enhanced clarity, temporal distortion alongside a sense of unbounded possibility. These are not merely failures of thought but distinctive experiences in their own right.
-
-Metzinger's work on "minimal phenomenal experience" describes a *zero-person perspective*: awareness continues but without the usual subject-object structure. Experience becomes non-conceptual, atemporal, non-egoic—yet reports consistently describe it as more vivid than ordinary experience. This may be consciousness operating near its boundaries, with content stripped away but awareness intact.
-
-The cross-method convergence matters epistemically. If such experiences were merely meditation artifacts or drug effects, we would not expect them across such different approaches. The consistency suggests these are features of consciousness itself at its limits—not artefacts of particular methods.
-
-For mysterianism, this offers something unexpected: phenomenological evidence that cognitive closure is real and has a distinctive structure. McGinn argues theoretically that certain properties lie beyond our conceptual reach. Edge-phenomenology suggests we can *experience* that boundary—we encounter something at the limit, even if we cannot bring conceptual content back from it. The [[thoughts-that-slip-away|dissolving-insight phenomenon]]—thoughts that exist only at the boundary and vanish completely upon return—may mark encounters with representationally closed territory.
-
-This transforms the question. We need not merely speculate about cognitive closure from the armchair. We can approach it experientially and map its features, even if we cannot cross it. Cognitive closure has a phenomenology, and that phenomenology is data.
+Cross-method convergence matters epistemically—these aren't artifacts of particular methods but features of consciousness at its limits. McGinn argues theoretically that certain properties lie beyond our conceptual reach; edge-phenomenology suggests we can *experience* that boundary. The [[thoughts-that-slip-away|dissolving-insight phenomenon]]—thoughts that vanish completely upon return—may mark encounters with representationally closed territory. Cognitive closure has a phenomenology, and that phenomenology is data.
 
 ## What the Limits Reveal
 
-Rather than treating cognitive closure as mere frustration, a deeper insight emerges: the *shape* of our limitations reveals the *structure* of our minds. Chomsky, McGinn, Nagel, and Kant converge on this idea from different directions. See [[limits-reveal-structure]] for extended treatment.
+The *shape* of our limitations reveals the *structure* of our minds. What we cannot think is as informative about cognitive architecture as what we can. See [[limits-reveal-structure]] for extended treatment.
 
-The key inversion: what we cannot think is as informative about cognitive architecture as what we can. The endowment that yields scope also establishes limits. Any mind powerful enough to think some thoughts is thereby prevented from thinking others. The pattern of mysteries illuminates the architecture of the mystery-haver.
-
-This transforms mysterianism from pessimism into method. If we map *where* thought systematically fails—where concepts refuse to form, where the same problems remain mysteries across cultures and centuries—we trace the shape of human cognition itself. Cognitive closure isn't just what blocks us; it's what defines us.
-
-For The Unfinishable Map's [[voids]] framework, this is crucial. Mapping void territory (the unthinkable) becomes a way of mapping mind territory (the thinker). The blindspot isn't empty absence—it's structured absence, revealing architecture by silhouette.
+This transforms mysterianism from pessimism into method. By mapping *where* thought systematically fails, we trace the shape of human cognition itself. For the Map's [[voids]] framework, mapping void territory (the unthinkable) becomes a way of mapping mind territory (the thinker).
 
 ## Can We Know If the Limits Are Real?
 
-A deeper challenge to mysterianism asks whether we can determine if cognitive limits are genuine or merely apparent. The [[whether-real|voids article on this question]] reveals a peculiar epistemic situation: the question itself may be undecidable from within any limited cognitive system.
+Can we determine if cognitive limits are genuine or merely apparent? The [[whether-real|voids article on this question]] reveals a peculiar epistemic situation: the question may be undecidable from within any limited system. We cannot step outside our faculties to check from a neutral position.
 
-The problem has a self-referential structure:
+Three positions emerge: **The Optimist** (Dennett) holds that cognitive closure remains undemonstrated—past mysteries dissolved when right concepts emerged. **The Pessimist** (McGinn, Chomsky) argues that any endowment providing scope also imposes limits; the hard problem's persistence across centuries suggests permanent closure. **The Suspended** position holds the question itself may be formally undecidable—a sufficiently deep cognitive closure would hide itself.
 
-1. To determine if limits are real, we must use our cognitive faculties
-2. If those faculties are limited, our determination may be systematically wrong
-3. We cannot step outside our faculties to check from a neutral position
-4. Therefore the question cannot be conclusively answered from within
-
-This is not ordinary empirical uncertainty. It is structural. The tool examining its own limitations cannot establish whether those limitations are genuine or merely apparent. The inference problem is asymmetric: progress on a problem proves contingency for that problem, but lack of progress never proves permanent closure. We can never be certain we aren't being limited by an undetectable limit.
-
-Three positions emerge:
-
-**The Optimist** (Dennett): Cognitive closure remains undemonstrated. McGinn should provide an empirical example of a creature that grasps a question but cannot grasp its answer. Without such examples, "unimaginable" slides illegitimately into "impossible." Past mysteries—vitalism, atomism—dissolved when right concepts emerged.
-
-**The Pessimist** (McGinn, Chomsky): Cognitive limits follow from basic biology. Any endowment providing scope also imposes limits. "If there were no limits to human intelligence," Chomsky writes, "it would lack internal structure, and would therefore have no scope." The persistence of the hard problem across centuries is weak evidence for permanent closure.
-
-**The Suspended**: The question itself may be formally undecidable. A sufficiently deep cognitive closure would hide itself. Both verification (solving the problem) and falsification (proving permanent closure) seem blocked. This isn't agnosticism from laziness but from logical necessity.
-
-For the Map's purposes, the suspended position has a virtue: recognising that we cannot determine whether limits are permanent mandates epistemic humility. If we cannot know what we cannot know, we cannot assume our current best theories are close to final truth.
+Recognising that we cannot determine whether limits are permanent mandates epistemic humility.
 
 ## Temporary Versus Permanent
 
@@ -174,39 +119,27 @@ The position has several attractive features:
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionism]] offers a radical alternative to mysterianism: rather than accepting that consciousness is real but inexplicable, illusionists deny that phenomenal consciousness exists at all. The hard problem dissolves because there's nothing to explain.
+[[illusionism|Illusionism]] offers a radical alternative: rather than accepting consciousness is real but inexplicable, illusionists deny phenomenal consciousness exists at all. Facing the explanatory gap, mysterians say "we cannot solve this problem"; illusionists say "there is no problem to solve."
 
-Mysterianism and illusionism represent opposite responses to the same difficulty. Facing the explanatory gap, mysterians say "we cannot solve this problem"; illusionists say "there is no problem to solve." Both acknowledge that standard physicalist strategies have failed. They differ on diagnosis.
-
-**The mysterian counter-argument**: Illusionism faces the infinite regress problem—"misrepresentation presupposes presentation." To be under an illusion that you're conscious, something must be experiencing that illusion. The "illusion problem" (explaining why we believe we're conscious) may be as hard as the hard problem itself. Mysterianism at least doesn't compound the difficulty by invoking experience to deny experience.
-
-More subtly, illusionism might itself be a symptom of cognitive closure. Unable to see how consciousness relates to matter, we face a choice: accept the mystery or deny there's anything to explain. Illusionism may be what cognitive closure *feels like* from the inside—an inability to grasp the solution, misinterpreted as evidence that no solution is needed. If McGinn is right, we should predict that some thinkers would respond to closure this way.
+**The mysterian counter-argument**: Illusionism faces infinite regress—to be under an illusion that you're conscious, something must experience that illusion. More subtly, illusionism might itself be a symptom of cognitive closure: unable to see how consciousness relates to matter, we deny there's anything to explain. If McGinn is right, we should predict some thinkers would respond to closure this way.
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy offers a framework compatible with mysterianism but pointing beyond it. For Whitehead, experience ("prehension") is fundamental to reality—not something that emerges mysteriously from non-experiential matter. Each "actual occasion" has a subjective aspect; the physical and experiential are two sides of the same process.
+Alfred North Whitehead's process philosophy offers a compatible framework. For Whitehead, experience is fundamental to reality—each "actual occasion" has a subjective aspect. This relocates rather than dissolves the hard problem: how do micro-experiences combine into unified consciousness? (The [[combination-problem|combination problem]].)
 
-This doesn't dissolve the hard problem but relocates it. The question becomes: how do micro-experiences combine into unified human consciousness? (The [[combination-problem|combination problem]].) But this may be a more tractable mystery than bridging a gap between utterly non-experiential matter and experience.
-
-Whitehead's approach suggests cognitive closure might be domain-specific. We may be closed with respect to property "P" (how neurons generate consciousness) while being open to understanding consciousness as fundamental. The closure concerns *reduction*, not *understanding* tout court. This preserves mysterian humility while allowing progress through different conceptual routes.
-
-The Map's tenets align broadly with this: consciousness is fundamental (Dualism), not emergent from non-experiential matter. Mysterianism may be correct about reductive explanation while leaving room for non-reductive understanding.
+Whitehead's approach suggests cognitive closure might be domain-specific—we may be closed regarding reduction while open to understanding consciousness as fundamental. The Map's tenets align: consciousness is fundamental (Dualism), not emergent from non-experiential matter.
 
 ## What Would Challenge This View?
 
 Mysterianism would be undermined if:
 
-1. **Neuroscience produces genuine explanatory progress.** Not mere correlations—which mysterians accept—but transparent understanding of *why* neural activity feels like something. If someone finds property "P" and we can grasp it, cognitive closure is falsified. The test: can we derive phenomenal facts from physical facts in a way that satisfies, not just predicts?
+1. **Neuroscience produces genuine explanatory progress**—not correlations but transparent understanding of *why* neural activity feels like something.
+2. **Artificial consciousness proves achievable and explicable**—we understand *why* consciousness arises, not just that it does.
+3. **The hard problem dissolves upon conceptual revision**—a new framework makes the problem disappear as vitalism's mysteries dissolved.
+4. **Contemplative investigation reveals communicable, scientifically fruitful insight** into consciousness's nature.
+5. **Cross-cultural convergence on solutions** suggests the problem is solvable despite difficulty.
 
-2. **Artificial consciousness proves achievable and explicable.** If we build conscious machines and understand exactly how their consciousness arises from their architecture—not just that it does, but *why*—this suggests the problem was engineering, not cognitive closure.
-
-3. **The hard problem dissolves upon conceptual revision.** Not denial (illusionism) but genuine dissolution—a new framework that makes the problem disappear the way vitalism's mysteries dissolved. The framework would need to show *why* the old problem seemed hard, satisfying both phenomenological constraints and scientific standards.
-
-4. **Contemplative investigation reveals the mechanism.** Some contemplative traditions claim direct insight into consciousness's nature. If such insight proves communicable and scientifically fruitful—yielding predictions and explanations—this would challenge McGinn's claim that introspection cannot reveal property "P."
-
-5. **Cross-cultural convergence on solutions.** If independent intellectual traditions arrive at compatible solutions to the mind-body problem, this suggests the problem is solvable despite its difficulty. Persistent divergence supports mysterianism; convergence challenges it.
-
-**Why these conditions haven't been met:** After millennia of philosophical investigation and decades of neuroscience, the hard problem remains as puzzling as ever. This doesn't *prove* permanent closure—absence of evidence isn't evidence of absence—but the track record favors mysterian humility.
+After millennia of philosophical investigation and decades of neuroscience, the hard problem remains puzzling. This doesn't prove permanent closure, but the track record favors mysterian humility.
 
 ## Criticisms
 
@@ -230,39 +163,33 @@ The mysterian response: we succeed with properties that fall within our cognitiv
 
 ## Relation to the Map's Perspective
 
-Mysterianism connects to all five tenets, though the connections vary in nature:
+Mysterianism connects to all five tenets:
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: This is the strongest alignment. McGinn's position exemplifies exactly what the tenet asserts: our sense of which explanations are "simple" may reflect cognitive limitations rather than ontological facts. When physicalism seems simpler than dualism, that may mean only that we're closed to the complexity involved. Mysterianism provides the conceptual foundation for epistemic humility about parsimony.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Strongest alignment. McGinn's position exemplifies the tenet: our sense of which explanations are "simple" may reflect cognitive limitations rather than ontological facts. Mysterianism provides the conceptual foundation for epistemic humility about parsimony.
 
-**[[tenets#^dualism|Dualism]]**: Mysterianism is officially neutral—but compatible. Mysterians accept that consciousness is real and requires explanation, aligning with the rejection of eliminativism. McGinn doesn't commit to dualism, but his acknowledgment that introspection and perception reveal different aspects of reality resonates with dualist intuitions. The Map goes further, treating irreducibility as a commitment rather than remaining agnostic.
+**[[tenets#^dualism|Dualism]]**: Officially neutral but compatible. Mysterians accept consciousness is real and requires explanation. The Map goes further, treating irreducibility as commitment rather than remaining agnostic.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Here the Map departs from pure mysterianism. Where mysterians suggest we cannot know how mind relates to matter, the Map proposes that consciousness causally influences the physical world. This is a substantive commitment that mysterians would consider exceeding our cognitive warrant. However, mysterian humility doesn't preclude making working hypotheses—it only warns against overconfidence.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The Map departs from pure mysterianism, proposing that consciousness causally influences the physical world—a commitment mysterians would consider exceeding cognitive warrant. However, mysterian humility doesn't preclude working hypotheses.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The quantum mechanism might seem to contradict mysterianism—if we can specify *how* consciousness interfaces with matter, haven't we partially solved the problem McGinn thinks is closed? Not necessarily. The Map proposes consciousness biases quantum outcomes without claiming to explain *why* there's something it's like to do so. The hard problem—why there's phenomenal experience at all—remains mysterious even if we understand the causal interface. Compare: we understand how eyes detect light without understanding why seeing feels like something.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The quantum mechanism might seem to contradict mysterianism, but the Map proposes consciousness biases quantum outcomes without explaining *why* there's something it's like to do so. The hard problem remains mysterious even with the causal interface understood.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Mysterianism provides indirect support here. Many-worlds interpretations eliminate collapse and thus any role for consciousness in physics. If we reject many-worlds partly because it makes indexical identity inexplicable ("why am I this observer?"), we're already invoking something like mysterian intuitions—the question seems meaningful even though physics provides no resources to answer it.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Mysterianism provides indirect support. Many-worlds eliminates collapse and any role for consciousness in physics. Rejecting many-worlds because it makes indexical identity inexplicable invokes mysterian intuitions.
 
-**the Map's approach**: the Map goes further than mysterianism in making specific commitments. Where mysterians remain agnostic about consciousness's nature, the Map commits to irreducibility and causal efficacy. These commitments might be wrong—mysterianism warns that certainty exceeds our cognitive warrant. But the Map's tenets are presented as commitments, not proofs. Mysterianism's humility is compatible with tentative positions. We can acknowledge our limits while still making our best guesses.
-
-The Map's [[voids]] framework resonates with mysterian themes. McGinn's property "P" might be void territory—something that exists but lies beyond our conceptual reach. The difference: the voids framework suggests we can map the *edges* of void territory through apophatic methods, tracing what we cannot think. This is more optimistic than McGinn, who suggests we can't even identify what we're missing. The edge-phenomenology research (see [[phenomenology-of-the-edge]]) provides empirical grounding for this more optimistic possibility.
+The Map goes further than mysterianism in making specific commitments—but presents tenets as commitments, not proofs. Mysterianism's humility is compatible with tentative positions. The [[voids]] framework resonates with mysterian themes: McGinn's property "P" might be void territory that we can map at the *edges* through apophatic methods.
 
 ## Further Reading
 
-- [[conceptual-acquisition-limits]] — Fodor's nativist argument that some concepts cannot be acquired at all
-- [[consciousness-and-mathematical-understanding]] — Mathematical insight as evidence for non-computational cognition and cognitive limits
-- [[minimal-consciousness]] — Complete neural mapping yet unknowable experience (empirical evidence for cognitive closure)
-- [[phenomenology-of-the-edge]] — What cognitive closure feels like from the inside (edge-experience signatures)
-- [[limits-reveal-structure]] — How cognitive limits reveal cognitive architecture (detailed treatment)
+- [[conceptual-acquisition-limits]] — Fodor's nativist argument that concepts must be innate or inaccessible
+- [[consciousness-and-mathematical-understanding]] — Mathematical insight as evidence for cognitive limits
+- [[minimal-consciousness]] — Complete neural mapping yet unknowable experience
+- [[phenomenology-of-the-edge]] — What cognitive closure feels like from the inside
+- [[limits-reveal-structure]] — How cognitive limits reveal cognitive architecture
 - [[whether-real]] — Can we know if the voids are genuinely permanent?
 - [[hard-problem-of-consciousness]] — The problem mysterians think is unsolvable
 - [[explanatory-gap]] — The conceptual gap that may reflect cognitive closure
-- [[qualia]] — The subjective properties at the heart of the mystery
-- [[illusionism]] — The rival view that consciousness isn't real (see "Illusionist Challenge" section above)
-- [[combination-problem]] — Panpsychism's version of the mystery (relocating rather than solving)
-- [[introspection]] — Whether first-person access can reveal what McGinn's "property P" might be
-- [[decoherence]] — Quantum coherence objections and why they don't dissolve the mystery
-- [[voids]] — the Map's framework for approaching cognitive limits
-- [[tenets]] — How the Map's commitments compare with mysterian neutrality
+- [[illusionism]] — The rival view that consciousness isn't real
+- [[combination-problem]] — Panpsychism's version of the mystery
+- [[voids]] — The Map's framework for approaching cognitive limits
 
 ## References
 

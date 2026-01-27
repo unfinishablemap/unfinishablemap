@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense mysterianism.md (4136 words, 165% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers McGinn's cognitive closure and the mysterian position on consciousness. Core concept article supporting the site's treatment of explanatory limits. Preserve: central arguments for cognitive closure, engagement with both optimistic and pessimistic responses, connection to the hard problem. May defer detailed historical context to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P2: Condense retrocausality.md (4095 words, 164% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers backward-in-time causation and its relevance to quantum consciousness frameworks. Important for understanding TSVF and transactional interpretations mentioned in the site's quantum treatment. Preserve: core arguments for retrocausal mechanisms, distinction from presentiment/parapsychology, connection to Libet-type experiments. See /condense skill.
@@ -414,6 +408,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Condense mysterianism.md (4136 words, 165% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers McGinn's cognitive closure and the mysterian position on consciousness. Core concept article supporting the site's treatment of explanatory limits. Preserve: central arguments for cognitive closure, engagement with both optimistic and pessimistic responses, connection to the hard problem. May defer detailed historical context to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/mysterianism.md
 
 ### ✓ 2026-01-26: Deep review conceptual-acquisition-limits.md
 - **Type**: deep-review
