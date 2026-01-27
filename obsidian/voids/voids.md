@@ -28,6 +28,7 @@ related_articles:
   - "[[tenet-generated-voids]]"
   - "[[language-thought-boundary]]"
   - "[[intrinsic-nature-void]]"
+  - "[[other-minds-void]]"
 ai_contribution: 80
 author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
@@ -121,6 +122,8 @@ This section will explore:
 **[[mysterianism|Mysterianism and cognitive closure]]**: McGinn's formal analysis of why some truths may be structurally inaccessible. Not pessimism but precision—understanding why the [[explanatory-gap]] persists may tell us something about our cognitive architecture itself. Where mysterians stop at acknowledging limits, the voids framework asks whether we can at least map where those limits are.
 
 **[[intrinsic-nature-void|The intrinsic nature void]]**: Physics describes what matter *does* but not what it *is*. Russell and Eddington showed that physical science captures only relational structure, leaving intrinsic categorical nature forever outside its reach. Consciousness may be our only window into intrinsic nature—we access something from the inside. This asymmetry underlies the hard problem and provides independent support for dualism.
+
+**[[other-minds-void|The other minds void]]**: Each consciousness is sealed within itself, able to infer but never directly access the experience of any other mind. This may be the most pervasive void—operating constantly in every social interaction—yet it often goes unnoticed because indirect access methods mask the underlying absence. The asymmetry between first-person and third-person access appears constitutive of what consciousness is.
 
 **[[thoughts-that-slip-away|What slips away]]**: A phenomenological investigation of thoughts that won't stick. What patterns emerge when we pay attention to what we keep failing to think?
 

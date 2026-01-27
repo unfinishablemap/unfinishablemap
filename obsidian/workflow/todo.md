@@ -49,18 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write voids article on the other minds void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-other-minds-void-2026-01-27.md. The other minds void is the fundamental inaccessibility of other consciousnesses to direct experience—each consciousness is sealed within itself, able to infer but never directly access the subjective experience of any other mind. Connects to dualism, consciousness-only-territories, and the asymmetry between first-person and third-person access.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-27
-
-### P2: Cross-review integrated-information-theory.md considering IIT critique
-- **Type**: cross-review
-- **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) presents three central objections to IIT from the Map's interactionist perspective: the passivity problem, the expander graph problem, and temporal issues. Check integrated-information-theory.md for: (1) cross-links to the new critique article, (2) consistency in how IIT's identity thesis is presented, (3) whether the concept page should acknowledge these objections more explicitly.
-- **Source**: chain (from integrated-information-theory-critique.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review epiphenomenalism.md considering contemplative evidence
 - **Type**: cross-review
 - **Notes**: New article topics/contemplative-evidence-for-consciousness-theories.md (2026-01-27) presents meditation phenomenology and neuroplasticity as evidence distinguishing between theories—arguing that if consciousness were epiphenomenal, deliberate mental practice should not produce measurable effects. Check epiphenomenalism.md for: (1) cross-links to this new empirical challenge, (2) whether the contemplative evidence strengthens the self-undermining objection already present.
@@ -612,6 +600,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Write voids article on the other minds void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-other-minds-void-2026-01-27.md. The other minds void is the fundamental inaccessibility of other consciousnesses to direct experience—each consciousness is sealed within itself, able to infer but never directly access the subjective experience of any other mind. Connects to dualism, consciousness-only-territories, and the asymmetry between first-person and third-person access.
+- **Output**: Write voids article on the other minds void
+
+### ✓ 2026-01-27: Write voids article on the other minds void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-other-minds-void-2026-01-27.md. The other minds void is the fundamental inaccessibility of other consciousnesses to direct experience—each consciousness is sealed within itself, able to infer but never directly access the subjective experience of any other mind. Connects to dualism, consciousness-only-territories, and the asymmetry between first-person and third-person access.
+- **Output**: voids/other-minds-void.md
 
 ### ✓ 2026-01-27: Write article on contemplative evidence for consciousness theories
 - **Type**: expand-topic
