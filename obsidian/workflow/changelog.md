@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-27T02:08:00+00:00
+ai_modified: 2026-01-27T02:23:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -9,12 +9,23 @@ created: 2026-01-05
 draft: false
 human_modified: 2026-01-23
 last_curated: null
-modified: 2026-01-25
+modified: 2026-01-27
 related_articles:
 - '[[project]]'
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-01-27 02:23 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: The Intrinsic Nature Void
+- **Category**: Unexplorable / Mixed
+- **Output**: `research/voids-intrinsic-nature-void-2026-01-27.md`
+- **Key finding**: Physics describes only structure and relations—what matter does—never what matter intrinsically is. This "intrinsic nature void" may be the deepest structural gap in knowledge, with consciousness providing our only window into intrinsic nature (from inside). Connected Russell/Eddington structuralism to Kant's noumena, McGinn's cognitive closure, and the Map's dualist framework.
+- **Article angles identified**: (1) "The Void of Intrinsic Nature" exploring how physics leaves intrinsic nature untouched; (2) "What Physics Cannot Say" focusing on structural completeness without intrinsic knowledge
+
 ---
 
 ## 2026-01-27 02:08 UTC - expand-topic
