@@ -4,7 +4,7 @@ description: "Wavefunction collapse introduces temporal asymmetry into physics. 
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-27T00:06:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-19T20:13:53+00:00
+last_deep_review: 2026-01-27T00:06:03+00:00
 ---
 
 Wavefunction collapse—the transition from quantum superposition to definite outcome—appears to introduce an arrow of time into physics. The Schrödinger equation runs equally well forward or backward, yet measurement seems irreversible. If consciousness participates in collapse (as The Unfinishable Map's framework proposes), then consciousness may be connected to temporal directionality itself—not merely experiencing time's flow but helping constitute it. Time-symmetric interpretations of quantum mechanics offer an even more striking possibility: consciousness's "selection" at collapse might be atemporal, determining which outcomes become actual across time rather than at a moment.
@@ -140,7 +140,7 @@ The connection between collapse and time strengthens multiple tenets:
 
 **[[tenets#^dualism|Dualism]]**: If consciousness participates in collapse, and collapse introduces time asymmetry, then consciousness is not merely a passive observer of time but a constituent of temporal structure. This deepens dualism beyond the hard problem—consciousness isn't just qualitatively different from matter; it's implicated in the fundamental structure of physical reality.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The collapse mechanism provides the Map for consciousness-matter interaction. Time-symmetric interpretations suggest this interaction operates atemporally—consciousness doesn't push physical systems at a moment but constrains which transactions complete across time. This is even more minimal than energy injection: it's constraint satisfaction.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The collapse mechanism provides the locus for consciousness-matter interaction. Time-symmetric interpretations suggest this interaction operates atemporally—consciousness doesn't push physical systems at a moment but constrains which transactions complete across time. This is even more minimal than energy injection: it's constraint satisfaction.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Retrocausal frameworks make bidirectional interaction natural rather than paradoxical. If fundamental physics is time-symmetric, backward causation (from future to past) has the same status as forward causation. Consciousness influencing the past isn't stranger than consciousness influencing the future—both are selection among possible transactions.
 

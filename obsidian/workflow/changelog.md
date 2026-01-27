@@ -17,6 +17,20 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 00:06 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/collapse-and-time.md`
+- **Word count**: 2246 → 2246 (no change)
+- **Critical issues addressed**: 1
+  - Fixed terminology error: "provides the Map for" → "provides the locus for" (artifact of automated find-and-replace)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: `reviews/deep-review-2026-01-27-collapse-and-time.md`
+- **Notes**: Article has stabilized after 2 reviews. Previous review (2026-01-19) addressed all substantive issues. Only change since then was cosmetic terminology updates with one introduced error, now fixed.
+
+---
+
 ## 2026-01-27 00:02 UTC - condense
 
 - **Status**: Success
