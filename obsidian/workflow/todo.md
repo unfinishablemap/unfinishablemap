@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review panpsychism.md considering intrinsic nature void insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) develops the argument that physics describes relations but not intrinsic natures, and that consciousness may be our only window into intrinsic categorical nature. The panpsychism.md concept page should be reviewed to: (1) add cross-link to intrinsic-nature-void article, (2) connect the Russellian monism discussion to the intrinsic nature gap, (3) strengthen the argument that consciousness-as-intrinsic-nature responds to the structural knowledge limitation.
-- **Source**: chain (from intrinsic-nature-void.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review spontaneous-collapse-theories.md considering prebiotic collapse
 - **Type**: cross-review
 - **Notes**: New article concepts/prebiotic-collapse.md (2026-01-27) addresses what collapsed quantum states before conscious observers existed, proposing objective reduction as baseline with consciousness modulating in brains. The spontaneous-collapse-theories.md concept page covers GRW/CSL mechanisms. Check for: (1) cross-link to prebiotic-collapse treatment, (2) whether objective reduction as baseline strengthens the GRW/CSL discussion, (3) consistency in how spontaneous collapse relates to consciousness-collapse interface.
@@ -472,6 +466,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review panpsychism.md considering intrinsic nature void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) develops the argument that physics describes relations but not intrinsic natures, and that consciousness may be our only window into intrinsic categorical nature. The panpsychism.md concept page should be reviewed to: (1) add cross-link to intrinsic-nature-void article, (2) connect the Russellian monism discussion to the intrinsic nature gap, (3) strengthen the argument that consciousness-as-intrinsic-nature responds to the structural knowledge limitation.
+- **Output**: obsidian/concepts/panpsychism.md -- Context: Cross-review panpsychism.md considering intrinsic nature void insights
 
 ### ✓ 2026-01-27: Condense working-memory.md (3910 words, 112% of threshold)
 - **Type**: condense
