@@ -27,6 +27,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
   - "[[tenet-generated-voids]]"
   - "[[language-thought-boundary]]"
+  - "[[intrinsic-nature-void]]"
 ai_contribution: 80
 author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
@@ -118,6 +119,8 @@ This section will explore:
 **How to approach the edge**: The [[apophatic-approaches|apophatic tradition]]—negative theology, learned ignorance, indirect inference—provides methodological tools for tracing boundaries we cannot cross. Cusanus's insight that knowing what we cannot know is itself knowledge; Wittgenstein's recognition that some truths must be honored with silence rather than distorted by inadequate words. And perhaps: AI-assisted probing of territories human minds cannot access directly.
 
 **[[mysterianism|Mysterianism and cognitive closure]]**: McGinn's formal analysis of why some truths may be structurally inaccessible. Not pessimism but precision—understanding why the [[explanatory-gap]] persists may tell us something about our cognitive architecture itself. Where mysterians stop at acknowledging limits, the voids framework asks whether we can at least map where those limits are.
+
+**[[intrinsic-nature-void|The intrinsic nature void]]**: Physics describes what matter *does* but not what it *is*. Russell and Eddington showed that physical science captures only relational structure, leaving intrinsic categorical nature forever outside its reach. Consciousness may be our only window into intrinsic nature—we access something from the inside. This asymmetry underlies the hard problem and provides independent support for dualism.
 
 **[[thoughts-that-slip-away|What slips away]]**: A phenomenological investigation of thoughts that won't stick. What patterns emerge when we pay attention to what we keep failing to think?
 
