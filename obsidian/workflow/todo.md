@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense temporal-asymmetry-remembering-anticipating.md (3551 words, 178% of threshold)
-- **Type**: condense
-- **Notes**: Voids article exceeds 3000-word hard threshold for voids/. Covers the asymmetry between memory and anticipation as a consciousness-revealing void. Preserve: core phenomenological observations, connection to time's arrow, the puzzle of why remembering feels different from anticipating. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P2: Condense self-reference-paradox.md (3499 words, 175% of threshold)
 - **Type**: condense
 - **Notes**: Voids article exceeds 3000-word hard threshold for voids/. Covers consciousness studying itself as a fundamental void—the paradox of the observer observing observation. Preserve: core self-reference puzzle, connection to Gödel-like limitations, phenomenology of introspecting introspection. See /condense skill.
@@ -402,6 +396,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Condense temporal-asymmetry-remembering-anticipating.md (3551 words, 178% of threshold)
+- **Type**: condense
+- **Notes**: Voids article exceeds 3000-word hard threshold for voids/. Covers the asymmetry between memory and anticipation as a consciousness-revealing void. Preserve: core phenomenological observations, connection to time's arrow, the puzzle of why remembering feels different from anticipating. See /condense skill.
+- **Output**: obsidian/voids/temporal-asymmetry-remembering-anticipating.md
 
 ### ✓ 2026-01-27: Condense retrocausality.md (4095 words, 164% of threshold)
 - **Type**: condense
