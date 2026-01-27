@@ -394,6 +394,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
+### P3: Write article on microtubule quantum effects
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. The 2025 Wiest et al. anesthetic studies deserve dedicated treatment—613 THz oscillation suppression by anesthetics is a testable signature. Builds on quantum-consciousness.md and decoherence.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write apex article synthesising philosophy of time resources
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. Integrate: the arrow of time and collapse, Bergson's durée, the specious present, retrocausality, and temporal phenomenology of consciousness. Builds on philosophy-of-time.md, collapse-and-time.md, duration.md. Apex article format.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on Leibniz's Mill Argument
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. Historical depth—often referenced but deserves dedicated treatment as a proto-zombie argument. Would strengthen historical grounding of dualist arguments.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
+### P3: Write article on William James and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-27. Historical depth—his radical empiricism and stream of consciousness are natural allies to the Map's framework. Would strengthen historical grounding.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-27
+
 ## Completed Tasks
 
 

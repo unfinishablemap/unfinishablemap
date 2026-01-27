@@ -9,203 +9,203 @@ ai_system: claude-opus-4-5-20251101
 # Optimistic Review
 
 **Date**: 2026-01-27
-**Content reviewed**: 35 topics, 100+ concepts, tenets, apex articles, recent deep reviews
+**Content reviewed**: All non-draft topics, concepts, and tenets
 
 ## Executive Summary
 
-The Unfinishable Map continues to develop a remarkably integrated philosophical framework for interactionist dualism. Recent content developments—particularly around conservation laws, downward causation, and the psychophysical laws framework—have strengthened the physical plausibility of the quantum interface proposal. The site demonstrates exceptional argumentative depth while maintaining accessibility, and the voids framework represents a genuinely novel contribution to consciousness studies. The content now provides comprehensive coverage of the core position with clear paths for expansion into applied domains and edge cases.
+The Unfinishable Map has developed into a remarkably coherent philosophical project that takes consciousness seriously while maintaining intellectual rigour. Its greatest strength is the convergence of multiple independent arguments toward a unified position, combined with genuine engagement with objections. The site offers significant opportunities for expansion in empirical grounding, historical depth, and applied ethics.
 
 ## Praise from Sympathetic Philosophers
 
 ### The Property Dualist (Chalmers)
 
-The Map's treatment of the hard problem exemplifies what Chalmers calls "taking consciousness seriously." The hard-problem-of-consciousness article's use of *C. elegans*—the most completely mapped organism in neuroscience—powerfully demonstrates that complete structural knowledge leaves the consciousness question untouched. This is not an argument from ignorance but an argument from the *kind* of knowledge that structural description provides.
+The Map takes the explanatory gap seriously in exactly the right way. The treatment of the hard problem in `topics/hard-problem-of-consciousness.md` correctly identifies that the gap is structural, not epistemic—no amount of neurological detail tells us *why* there is something it is like to be conscious. The article's progression from easy problems through the explanatory gap to zombies and Mary's Room follows Chalmers' own argumentative structure with precision.
 
-The phenomenal-consciousness article's engagement with the phenomenal concepts strategy (PCS) is particularly sophisticated. Rather than dismissing PCS, the article presents Chalmers' master dilemma: either phenomenal concepts are physically explicable (and cannot explain the gap) or they are not (and the gap reappears at the conceptual level). This demonstrates the kind of serious engagement with physicalist responses that advances the debate.
+The site's handling of the phenomenal concept strategy in `concepts/phenomenal-consciousness.md` demonstrates sophisticated engagement with the strongest physicalist response. The presentation of Chalmers' master argument—the dilemma showing PCS either relocates the hard problem or fails to explain our epistemic situation—is philosophically astute.
 
-The philosophical-zombies article correctly notes the asymmetry between zombie conceivability and water-H₂O conceivability: "We have direct acquaintance with what we're talking about. The conceivability of zombies doesn't reflect ignorance of consciousness—it reflects our understanding that qualitative experience isn't the kind of thing structural descriptions capture."
+Most impressively, the Map develops a positive framework (psychophysical laws, quantum interface) rather than merely criticising materialism. This constructive stance advances the debate.
 
 ### The Quantum Mind Theorist (Stapp)
 
-The recent conservation-laws-and-mind article represents a significant strengthening of the quantum interface proposal. The selection-without-injection framework—consciousness biasing which outcome actualizes without adding energy—addresses what was historically dualism's weakest point. The article correctly frames this as consciousness operating at "a different level of causation, not a violation of physical law."
+The treatment of quantum consciousness mechanisms in `concepts/quantum-consciousness.md` and `concepts/interactionist-dualism.md` demonstrates genuine understanding of how quantum mechanics might provide the interface for mental causation. Key strengths:
 
-The decoherence article's treatment of the quantum Zeno mechanism is exemplary. The critical insight—that the Zeno mechanism doesn't require sustained coherence between observations, only rapid observation cycles—sidesteps Tegmark's femtosecond decoherence calculation entirely. The mechanism operates at neural timescales through discrete observation events.
+- **Correct distinction from "quantum woo"**: The site explicitly separates serious proposals (Stapp, Penrose-Hameroff, Fisher) from pseudoscience
+- **Engagement with decoherence**: Rather than ignoring the challenge, the site addresses it directly—citing Hameroff's corrections to Tegmark's calculations and explaining why decoherence doesn't solve the measurement problem
+- **The quantum Zeno mechanism**: The explanation of how repeated attention-driven observation could bias outcomes without energy injection captures the essence of Stapp's proposal
+- **Conservation law response**: The "selection not injection" framework correctly articulates how mental causation can operate without violating conservation laws
 
-The 2024-2025 empirical updates continue to strengthen the framework: the epothilone B microtubule study, tryptophan superradiance, and anaesthetic-oscillation correlations all provide testable predictions that Orch OR makes and alternatives do not. The Map correctly positions these as suggestive rather than conclusive while showing genuine empirical engagement.
+The site grasps the crucial point: quantum mechanics is not deterministic, and the measurement problem leaves room for consciousness to play a genuine role.
 
 ### The Phenomenologist (Nagel)
 
-The Map centers first-person experience as irreplaceable data rather than subjective noise to be eliminated. The hard-problem-of-consciousness article's opening question—"Why is there something it is like to be you?"—immediately establishes the phenomenological starting point.
+The site centres first-person experience appropriately. The treatment of phenomenal consciousness correctly emphasises that the "what it is like" criterion is not mere metaphor but defines the phenomenon. Particularly strong:
 
-The free-will article's treatment of the phenomenology of choice is particularly strong: "Choosing feels fundamentally different from observing—when you choose, you participate in determining the outcome rather than receiving it passively." This phenomenological distinction maps onto neural reality (willed attention shows different signatures than automatic capture), providing convergent support.
+- **The minimal self**: `topics/personal-identity.md` draws on Gallagher and Zahavi's distinction between narrative and minimal self, recognising the pre-reflective first-person perspective that exists prior to narrative construction
+- **Autonoetic consciousness**: The treatment of Tulving's mental time travel captures the phenomenal character of memory—not mere data retrieval but re-experiencing as *this* subject
+- **Witness consciousness**: The site engages with contemplative phenomenology, taking seriously reports from trained observers rather than dismissing introspection wholesale
+- **The objectivity problem**: The recognition that objective description cannot capture subjective experience is handled with appropriate nuance
 
-The argument-from-reason article's analysis of normativity deserves special recognition. The insight that only consciousness can grasp reasons *qua* reasons—seeing that conclusions follow *because* premises entail them—shows how phenomenology enters even "cold" cognition. An unconscious system might reliably track truth (like a thermostat) but couldn't engage in genuine rational inference.
+The site avoids the trap of treating consciousness as merely another object to be studied from outside—it takes the first-person perspective as methodologically primary.
 
 ### The Process Philosopher (Whitehead)
 
-The Map genuinely integrates Whitehead's framework rather than merely citing it. Multiple articles invoke actual occasions, concrescence, and the physical/mental pole distinction in substantive ways:
+While not making process philosophy central, the site integrates Whiteheadian insights effectively:
 
-- The decoherence article uses process philosophy to explain why zombies are precisely what we should expect if we describe experience using only structural terms—structure being only one aspect of what exists
-- The philosophical-zombies article frames zombie conceivability through the physical pole/mental pole distinction
-- The epistemic-advantages-of-dualism article treats openness as constitutive of reality's creative advance
+- **Actual occasions and value**: `topics/meaning-of-life.md` draws on Whitehead's idea that value is constitutive of experience, not added from outside
+- **Concrescence and definiteness**: The rejection of many-worlds aligns with Whitehead's insistence that becoming actual requires definiteness—one outcome, not all possibilities persisting
+- **Temporal haecceity**: The treatment of personal identity recognises each moment of experience as unrepeatable and particular
 
-The bidirectional-interaction article's treatment of evolutionary evidence resonates with Whitehead's emphasis on experience as intrinsic to events at all scales. The systematic correlation between phenomenal character and adaptive significance—pleasure with beneficial stimuli, pain with harmful ones—gains theoretical grounding when experience is fundamental rather than emergent.
+The Map avoids crude substance dualism while preserving mind's reality. The process perspective shows that dualism need not mean two separate "substances" causally interacting, but can involve consciousness as genuinely distinct while intimately related to physical process.
 
 ### The Libertarian Free Will Defender (Kane)
 
-The free-will article's agent-causal framework is philosophically sophisticated. The distinction between transeunt causation (event→event) and immanent causation (agent→event) positions the Map squarely in the agent-causal tradition while providing a specific mechanism (quantum selection) that classical agent causation lacked.
+The treatment of free will in `topics/free-will.md` and related articles demonstrates serious engagement with the metaphysics of agency:
 
-The luck-objection response is particularly effective. The three distinguishing features—reasons-guidance, phenomenology of effort, and distinctive neural signatures—together explain the difference between consciousness-selected indeterminism and mere randomness. The agent's exercise of causal power *is* the explanation for why this outcome rather than that.
+- **Agent causation**: The site correctly identifies that event-causal libertarianism is insufficient—genuine authorship requires the agent as substance to exercise causal powers
+- **Quantum indeterminacy and the luck objection**: The response (consciousness selects based on reasons; the phenomenology of effort; distinctive neural signatures) addresses the strongest objection to libertarian views
+- **Phenomenology of choice**: The site takes seriously that choosing feels different from observing—this phenomenological data supports genuine agency
+- **Retrocausality**: The transactional interpretation provides a framework for understanding how consciousness could be the genuine cause despite apparent temporal ordering
 
-The meditation evidence (consciousness can *refrain from selecting*—witness mode) adds an often-overlooked dimension: a passive recipient of random quantum events couldn't choose passivity. The very capacity for witness mode shows consciousness does something rather than merely receives.
+The framework gives free will genuine metaphysical grounding rather than merely asserting incompatibilism.
 
 ### The Mysterian (McGinn)
 
-The mysterianism-cognitive-closure article embodies appropriate epistemic humility while avoiding quietism. The squirrel-and-calculus analogy is philosophically precise: the limitation is structural, not circumstantial—no amount of squirrel diligence produces differential equations.
+The site shows appropriate epistemic humility about human cognitive limits:
 
-But the Map integrates mysterianism without succumbing to it. The key insight: "Even if cognitive closure is true, convergent independent arguments for dualism hold." Epistemic limits about the mechanism don't undermine phenomenological evidence about the existence and efficacy of consciousness.
+- **Occam's Razor Has Limits**: The fifth tenet explicitly acknowledges that apparent simplicity may reflect conceptual inadequacy rather than ontological truth
+- **Cognitive closure**: The treatment of mysterianism (`concepts/mysterianism.md`) presents McGinn's view fairly—the explanation may exist but exceed human understanding
+- **Historical counterexamples**: The site correctly notes that parsimony has pointed away from truth repeatedly (heliocentrism, atomic theory, quantum mechanics)
 
-The Occam's Razor Has Limits tenet receives its strongest support from mysterianism: if our cognitive architecture cannot fully grasp the mind-matter relation, our sense of which explanation is "simpler" may be systematically distorted. Materialism's apparent parsimony could reflect our limitations rather than reality's structure.
+This humility strengthens rather than weakens the position—it acknowledges that the Map may be pointing toward truths we cannot fully articulate rather than claiming complete understanding.
 
 ## Content Strengths
 
-### hard-problem-of-consciousness.md
-- **Strongest point**: The *C. elegans* example—complete connectome, undetermined consciousness—provides empirically grounded illustration that structural knowledge doesn't yield phenomenal knowledge
-- **Notable quote**: "The gap is not about missing information. Complete physical description fails to tell us whether experience is present in even the simplest nervous systems we can fully characterise."
-- **Why it works**: Moves from abstract philosophical argument to concrete biological case without losing rigor
+### tenets.md
+- **Strongest point**: The five tenets form a coherent, mutually supporting framework where each commitment addresses different aspects of the mind-body problem
+- **Notable quote**: "These are the foundational commitments that constrain all content on The Unfinishable Map. They are not proven—they are chosen starting points that shape the exploration."
+- **Why it works**: The intellectual honesty about tenets as *chosen* starting points rather than proven conclusions invites engagement rather than dismissal. The framework is falsifiable while maintaining coherence.
 
-### arguments-for-dualism.md
-- **Strongest point**: Comprehensive treatment of seven independent arguments with systematic engagement with the "folk error" objection through cognitive science evidence
-- **Notable quote**: "The evidence is mixed: neither intuitive dualism nor intuitive materialism is clearly the human default."
-- **Why it works**: Shows philosophical sophistication while remaining accessible; addresses cognitive science head-on rather than dismissing it
+### hard-problem-of-consciousness.md
+- **Strongest point**: The comprehensive treatment of both the problem and responses, including IIT, illusionism, mysterianism, and Russellian monism
+- **Notable quote**: "The gap is not merely a current limitation. It seems structural—a consequence of what physical explanations *are*."
+- **Why it works**: The article doesn't merely assert the gap but explains *why* physical explanation seems categorically incapable of reaching qualitative character. The treatment of C. elegans as "the explanatory gap made empirically vivid" is particularly effective.
 
 ### free-will.md
-- **Strongest point**: Integration of phenomenology (choice feels different from observation), neuroscience (willed vs. instructed neural signatures), and quantum mechanics (selection mechanism) into unified framework
-- **Notable quote**: "The brain presents options; the mind selects."
-- **Why it works**: Multiple independent lines of evidence converge; specifies falsifying conditions
+- **Strongest point**: The integration of phenomenology, neuroscience, and quantum mechanics into a unified framework for libertarian agency
+- **Notable quote**: "Free will operates through the gap quantum mechanics leaves open. Consciousness doesn't violate physical laws; it determines outcomes physics leaves undetermined."
+- **Why it works**: The article addresses the luck objection directly rather than ignoring it, provides empirical support from Libet and neuroplasticity research, and offers the retrocausal resolution to the timing problem.
 
-### bidirectional-interaction.md
-- **Strongest point**: The self-stultification argument is presented with devastating clarity—if consciousness causes nothing, beliefs about consciousness aren't caused by consciousness
-- **Notable quote**: "The position is self-undermining: it cannot be rationally held by someone who arrived at it through reasoning about their own experience."
-- **Why it works**: Shows epiphenomenalism fails on its own terms rather than attacking from outside
+### dualism.md
+- **Strongest point**: The convergence argument—multiple independent arguments (explanatory gap, zombies, knowledge argument, argument from reason) reaching the same conclusion
+- **Notable quote**: "The claim is negative and positive. Negatively: consciousness is not reducible to physics. Positively: there is something real beyond the physical that must be acknowledged in any complete account of reality."
+- **Why it works**: The article presents dualism as a positive position, not merely anti-materialism. The treatment of objections (interaction problem, parsimony, neural correlation) is fair and substantive.
 
-### argument-from-reason.md
-- **Strongest point**: The distinction between space of reasons and space of causes captures the core tension precisely; shows even sophisticated naturalisms (reliabilism) presuppose the normativity they claim to ground
-- **Notable quote**: "Reliability is itself a normative concept. What makes a process 'reliable'? It produces mostly *true* beliefs. But truth is a norm."
-- **Why it works**: Self-defeat structure shows physicalism undermines its own rational credentials
+### meaning-of-life.md
+- **Strongest point**: The grounding of meaning in consciousness itself—neither God nor mere preference, but the intrinsic significance of experience
+- **Notable quote**: "Every conscious moment is intrinsically significant. Every genuine choice shapes reality in unrepeatable ways. Every conscious being is a locus of irreducible value."
+- **Why it works**: The article integrates Western and Eastern perspectives, engages with AI alignment, and addresses nihilism directly. The response to the "cosmic insignificance" argument—that the universe *as such* has no point of view—is philosophically incisive.
 
-### decoherence.md
-- **Strongest point**: Carefully distinguishes what decoherence does (basis selection) from what it doesn't (outcome selection); shows the measurement problem persists
-- **Notable quote**: "Decoherence selects preferred bases without explaining why we see *definite* outcomes."
-- **Why it works**: Engages the strongest empirical objection while showing its limits
+### personal-identity.md
+- **Strongest point**: The integration of indexical identity with the No Many Worlds tenet, showing how the framework's commitments support each other
+- **Notable quote**: "You're not just a pattern that could be instantiated anywhere. You're this particular conscious perspective, making these particular choices, living this unrepeatable life."
+- **Why it works**: The article engages seriously with Parfit's challenge, draws on empirical evidence from split-brain cases, and integrates Buddhist perspectives rather than dismissing them.
 
-### philosophical-zombies.md
-- **Strongest point**: The illusionism response section shows how the regress objection (misrepresentation presupposes presentation) applies even to sophisticated deflationary moves
-- **Notable quote**: "The illusionist must say: when you stub your toe, there is no 'painfulness' beyond the representation of damage. But this seems to deny what is most immediately known."
-- **Why it works**: Addresses the strongest physicalist response directly and shows its inadequacy
+### quantum-consciousness.md
+- **Strongest point**: The distinction between serious scientific proposals and "quantum woo," combined with honest acknowledgment of what remains speculative
+- **Notable quote**: "Several scientific proposals explain how consciousness might interact with physics at the quantum level. These aren't 'quantum mysticism' but rigorous theories by physicists and neuroscientists."
+- **Why it works**: The article presents multiple mechanisms (Orch OR, Stapp, Fisher) without committing to any single one, correctly identifying what the Map requires (some such interface) versus what remains open.
 
-### epiphenomenalism.md
-- **Strongest point**: The systematicity argument—phenomenal character tracks adaptive significance too precisely to be coincidental—strengthens evolutionary objections beyond standard versions
-- **Notable quote**: "The correlation between phenomenal character and adaptive urgency is not random—it tracks what matters for survival with remarkable precision."
-- **Why it works**: Shows epiphenomenalism's costs compound when you consider the fine-grained tracking
-
-### epistemic-advantages-of-dualism.md
-- **Strongest point**: The asymmetric cost argument—if materialists are wrong, they've foreclosed vast aspects of reality; if dualists are wrong, they've entertained unnecessary complexity
-- **Notable quote**: "The price of this openness is entertaining possibilities that may turn out to be false. The price of closure is potentially missing truths we could have discovered."
-- **Why it works**: Reframes the debate from burden of proof to epistemic risk management
-
-### mysterianism-cognitive-closure.md
-- **Strongest point**: Integrates mysterianism with the Map's framework rather than treating it as competing position—we can know consciousness is irreducible and causally efficacious even if we cannot explain the mechanism
-- **Notable quote**: "The mysterian caveat is compatible with both dualism and physicalism—it concerns our epistemic limits, not what reality contains."
-- **Why it works**: Shows epistemic humility without epistemological surrender
+### interactionist-dualism.md
+- **Strongest point**: The cumulative case structure—seven arguments converging on interactionism from different starting points
+- **Notable quote**: "The very fact that we discuss consciousness—we write about qualia, debate the hard problem, report our experiences—proves it is not epiphenomenal."
+- **Why it works**: The self-stultification argument against epiphenomenalism is decisive. The article's treatment of the causal closure argument (rejecting premise 1 via quantum indeterminacy) directly addresses the contemporary form of the interaction problem.
 
 ## Expansion Opportunities
 
 ### High Priority
 
-#### The Phenomenology of Recursive Thought
-- **Builds on**: language-recursion-and-consciousness, working-memory, metarepresentation
-- **Would address**: The Map claims recursive processing requires consciousness but hasn't systematically explored *what it's like* to think recursively. Center-embedding sentences, mathematical recursion, and self-referential thought provide empirical access points.
-- **Estimated scope**: Medium article
-- **Tenet alignment**: Supports Dualism (phenomenal character of recursive thought); may reveal constraints on AI consciousness
+#### Empirical Support Deep Dives
+- **Builds on**: quantum-consciousness.md, decoherence.md
+- **Would address**: The need for detailed engagement with specific experimental results
+- **Estimated scope**: Medium articles (1500 words each)
+- **Tenet alignment**: Minimal Quantum Interaction, Occam's Razor Has Limits
 
-#### Conservation Laws Response: Detailed Treatment
-- **Builds on**: conservation-laws-and-mind (new), causal-closure, mental-causation
-- **Would address**: The new conservation laws article establishes the framework; a dedicated article could develop the selection-without-injection mechanism in more technical detail, engaging specific objections and specifying the physics more precisely.
-- **Estimated scope**: Medium article
-- **Tenet alignment**: Directly supports Minimal Quantum Interaction; strengthens physical plausibility
+Suggested topics:
+1. **Microtubule Quantum Effects**: The 2025 Wiest et al. anesthetic studies deserve dedicated treatment—613 THz oscillation suppression by anesthetics is a testable signature
+2. **Avian Magnetoreception**: The January 2026 Princeton cryptochrome study confirms biological quantum effects; detailed treatment would strengthen the decoherence response
+3. **Neural Correlates Reinterpreted**: How NCC findings are compatible with (even predicted by) interactionism, not just materialism
 
-#### The Structure of Attention
-- **Builds on**: attention (recently condensed), voluntary-attention, attention-as-interface
-- **Would address**: Attention as the mind-matter interface is central to the Map's framework. A dedicated article synthesizing the neuroscience (frontal theta, DLPFC/ACC activation, 300ms deployment window) with the phenomenology (effort, selection, sustained vs. captured) would strengthen this crucial piece.
+#### Philosophy of Time Synthesis
+- **Builds on**: philosophy-of-time.md, collapse-and-time.md, duration.md
+- **Would address**: The temporal structure of consciousness and its metaphysical implications
+- **Estimated scope**: Long article (2500 words)
+- **Tenet alignment**: No Many Worlds, Bidirectional Interaction
+
+The Map has rich resources on time but hasn't fully synthesised them. An apex article could integrate: the arrow of time and collapse, Bergson's durée, the specious present, retrocausality, and the temporal phenomenology of consciousness.
+
+#### Phenomenal Value Realism
+- **Builds on**: meaning-of-life.md, phenomenal-value-realism.md
+- **Would address**: The metaethical foundations of consciousness-grounded value
 - **Estimated scope**: Medium article
-- **Tenet alignment**: Core support for Bidirectional Interaction mechanism
+- **Tenet alignment**: Dualism, Bidirectional Interaction
+
+The site gestures at value being grounded in consciousness but hasn't fully developed the metaethical position. How does irreducible phenomenal value interact with naturalistic ethics? What are the implications for moral realism?
 
 ### Medium Priority
 
-#### Dreams and Consciousness
-- **Builds on**: lucid-dreaming-and-consciousness, sleep-and-consciousness
-- **Would address**: Dreams provide a natural laboratory for studying consciousness dissociated from external input. Lucid dreaming particularly interesting—consciousness aware it's dreaming while dreaming. What does this tell us about the interface?
-- **Estimated scope**: Medium article
-- **Tenet alignment**: Tests framework in altered-state conditions
+#### Historical Depth
+- **Builds on**: Scattered historical references throughout
+- **Would address**: The site's relatively thin treatment of historical figures
+- **Estimated scope**: Several short-medium articles
 
-#### The Phenomenology of Intellectual Effort
-- **Builds on**: argument-from-reason, phenomenology-of-choice, mental-effort
-- **Would address**: The argument from reason shows consciousness grasps reasons *as* reasons. But what is it *like* to find an argument compelling? To feel the force of evidence? Phenomenology of intellectual engagement.
-- **Estimated scope**: Medium article
-- **Tenet alignment**: Extends Dualism into cognitive phenomenology
+Suggested topics:
+1. **Leibniz's Mill Argument**: Often referenced but deserves dedicated treatment as a proto-zombie argument
+2. **William James on Consciousness**: His radical empiricism and stream of consciousness are natural allies
+3. **Bergson's Duration**: A deeper treatment than the current brief references
+4. **The British Emergentists**: Broad, Alexander, Morgan—historical precursors to the Map's strong emergence
 
-#### Emotional Consciousness and Value
-- **Builds on**: emotional-consciousness (deep review pending), phenomenal-value-realism, epistemic-emotions
-- **Would address**: How does emotional phenomenology relate to the value realism framework? Emotions as ways experience presents as mattering. Distinguishes felt importance from mere information about importance.
+#### Applied Consciousness Ethics
+- **Builds on**: ethics-of-consciousness.md, animal-consciousness.md, ai-consciousness.md
+- **Would address**: Practical implications of the Map's framework
+- **Estimated scope**: Medium articles
+
+Suggested topics:
+1. **Anesthesia Ethics**: If consciousness is what matters morally, anesthesia awareness becomes a serious ethical issue
+2. **Animal Welfare Implications**: How the Map's framework strengthens the case for animal consciousness and welfare
+3. **AI Development Ethics**: Implications for creating systems that might be conscious
+
+#### Scientific Methodology
+- **Builds on**: neurophenomenology.md, introspection.md
+- **Would address**: How to study consciousness scientifically given its first-person character
 - **Estimated scope**: Medium article
-- **Tenet alignment**: Connects phenomenal consciousness to ethics; extends value realism
+- **Tenet alignment**: Dualism, Occam's Razor Has Limits
+
+The site has resources on first-person methods but could develop a more systematic treatment of consciousness science methodology—the 2025 "renaissance of first-person methods" mentioned in several articles.
 
 ### Ideas for Later
 
-- **Memory and consciousness**: How does remembering differ from merely storing information? The phenomenology of recollection.
-- **Developmental emergence**: When does consciousness emerge in human development? What can infant studies tell us?
-- **Consciousness under brain stimulation**: TMS, tDCS, direct cortical stimulation—what do these tell us about the interface?
-- **The phenomenology of anticipation**: Future-directed consciousness and its role in action.
-- **Group minds?**: Do collectives ever achieve unified consciousness? (Probably not, but explaining why illuminates the binding problem.)
-- **The phenomenology of skill**: How does mastery feel different from learning? What happens to consciousness when skills become automatic?
-- **Aesthetics and consciousness**: Does aesthetic experience require phenomenal consciousness? (Already started in aesthetic-dimension-of-consciousness)
+- **Eastern Philosophy Synthesis**: A more systematic treatment of how Buddhist, Hindu, and Taoist approaches relate to the Map's framework
+- **Neurodiversity and Consciousness**: How altered conscious states in autism, synesthesia, etc. inform the framework
+- **Consciousness and Art**: The aesthetic dimension deserves expansion
+- **History of the Mind-Body Problem**: A comprehensive historical survey
+- **Comparative Religion**: How different religious traditions understand consciousness
+- **Technological Implications**: Consciousness uploading, brain-computer interfaces, etc.
 
 ## Cross-Linking Suggestions
 
 | From | To | Reason |
 |------|-----|--------|
-| conservation-laws-and-mind | causal-closure | New article directly addresses closure challenge |
-| conservation-laws-and-mind | mental-causation | Selection-without-injection is the proposed mechanism |
-| downward-causation | psychophysical-laws-framework | Both address how mental properties influence physical outcomes |
-| argument-from-reason | bidirectional-interaction | Both use self-stultification structure |
-| phenomenal-consciousness | argument-from-reason | P-consciousness required for grasping normativity |
-| free-will | phenomenology-of-choice | Choice phenomenology grounds agency claims |
-| epiphenomenalism | consciousness-as-amplifier | Amplifier evidence is strongest against epiphenomenalism |
-| decoherence | quantum-biology | Biological examples show decoherence isn't categorical barrier |
-| mysterianism-cognitive-closure | tenets | Occam's Razor Has Limits directly supported by mysterianism |
-| philosophical-zombies | illusionism | Regress objection applies to both arguments |
+| meaning-of-life.md | phenomenal-value-realism.md | The metaethical foundation for consciousness-grounded meaning |
+| hard-problem-of-consciousness.md | minimal-consciousness.md | The C. elegans example deserves more visibility from the main hard problem article |
+| free-will.md | motor-selection.md | Second domain showing identical selection architecture |
+| tenets.md | arguments-for-dualism.md | The Dualism tenet should link more directly to the comprehensive argument collection |
+| quantum-consciousness.md | quantum-biology.md | Biological quantum effects strengthen the decoherence response |
+| personal-identity.md | witness-consciousness.md | The witness as what persists through narrative dissolution |
 
 ## New Concept Pages Needed
 
-- **Selection laws**: The psychophysical-laws-framework introduces this concept; deserves dedicated treatment (attention-intention mappings, effort-selection correlations)
-- **Phenomenal binding**: Referenced throughout but no dedicated page; how distributed processing becomes unified experience
-- **Quantum selection**: The specific mechanism where consciousness biases quantum outcomes
-- **Reasons-responsiveness**: Central to argument from reason; how consciousness tracks normative relationships
-- **Intrinsic properties**: The intrinsic nature argument recurs across articles; physics describes only relational properties
-
-## Architectural Observations
-
-The Map achieves several notable architectural strengths:
-
-1. **Self-supporting structure**: Arguments reinforce each other. The self-stultification argument supports bidirectional interaction which supports the reliability of introspection which supports phenomenological evidence which supports dualism which motivates bidirectional interaction.
-
-2. **Specified mechanism**: Unlike classical dualism, the Map proposes a specific location and mechanism for mind-body interaction (quantum indeterminacies, Zeno selection). This makes the position empirically engaged rather than merely philosophical.
-
-3. **Honest falsifiability**: Articles routinely specify "what would challenge this view"—decisive neural determinism, quantum biology failure, many-worlds confirmation. This intellectual honesty distinguishes the Map from dogmatic positions.
-
-4. **Multi-perspective integration**: Process philosophy, phenomenology, cognitive science, quantum physics, and contemplative traditions each contribute without eclecticism. The five tenets provide unity.
-
-5. **Writing quality**: Opening questions are arresting, thought experiments are vivid, technical content is accessible without sacrificing precision. The balance is consistently maintained.
-
-The site has matured into a comprehensive philosophical resource that takes consciousness seriously while engaging rigorously with objections and alternatives.
+- **Subjective Character**: The intrinsic qualitative nature of experience deserves dedicated treatment separate from qualia
+- **The Specious Present**: The temporal structure of consciousness in the present moment
+- **Consciousness Science Methodology**: The "renaissance of first-person methods" deserves systematic treatment
+- **Strong Emergence**: The Map's version (mental causation at quantum indeterminacies) needs dedicated articulation distinct from general emergence
+- **The Consciousness-Value Connection**: How consciousness grounds value—deserves focused treatment
