@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 17:26 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: The Void of Pre-Conceptual Knowing
+- **Category**: Unexplorable / Mixed
+- **Output**: `research/voids-pre-conceptual-knowing-2026-01-27.md`
+- **Key finding**: Conceptual thought may simultaneously enable and limit knowledge—beings who think through concepts may be structurally blocked from modes of knowing available to non-conceptual minds
+- **Sources explored**: Non-conceptual content (Evans, McDowell), fineness of grain argument, phenomenal overflow (Block), knowledge by acquaintance (Russell), prereflective awareness (phenomenology), ineffability (Wittgenstein)
+
 ## 2026-01-27 17:00 UTC - deep-review
 
 - **Status**: Success
