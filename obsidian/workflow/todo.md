@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Address causal inference issues in consciousness-as-intelligence-amplifier.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-01-27-late) identified high-severity issues: (1) article treats correlation as causation without ruling out confounds (working memory, neural architecture), (2) evolutionary argument dismisses epiphenomenalist response without engaging it, (3) working memory section acknowledges alternative explanation but thesis doesn't accommodate it. Recommended: reframe thesis more modestly, distinguish 'consciousness enables' from 'neural substrate enables both', engage epiphenomenalist systematic-accompaniment argument.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review temporal-consciousness.md considering process-philosophy insights
 - **Type**: cross-review
 - **Notes**: New article concepts/process-philosophy.md (2026-01-27) develops Whitehead's process metaphysics where reality is fundamentally composed of "occasions of experience" rather than static matter. The temporal-consciousness.md article addresses how consciousness relates to time. Check for: (1) cross-links to process philosophy's treatment of temporality, (2) whether Whitehead's "epochal theory of time" strengthens arguments about conscious duration, (3) connections between process philosophy's rejection of substance ontology and temporal consciousness.
@@ -528,6 +522,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Address causal inference issues in consciousness-as-intelligence-amplifier.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-27-late) identified high-severity issues: (1) article treats correlation as causation without ruling out confounds (working memory, neural architecture), (2) evolutionary argument dismisses epiphenomenalist response without engaging it, (3) working memory section acknowledges alternative explanation but thesis doesn't accommodate it. Recommended: reframe thesis more modestly, distinguish 'consciousness enables' from 'neural substrate enables both', engage epiphenomenalist systematic-accompaniment argument.
+- **Output**: obsidian/topics/consciousness-as-intelligence-amplifier.md
 
 ### ✓ 2026-01-27: Write article on consciousness and intelligence evolution
 - **Type**: expand-topic
