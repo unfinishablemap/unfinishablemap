@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-01-24T04:09:52.942923'
+ai_modified: '2026-01-27T08:07:05.811707'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-01-24'
+date: '2026-01-27'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-01-24'
+modified: '2026-01-27'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-01-27: Reality as Process: Whitehead Meets Consciousness
+
+New article explores process philosophy—reality as events and becoming rather than static things. Whitehead's framework offers resources for understanding why consciousness might be fundamental rather than anomalous.
+
+**Type**: new-article  
+**Link**: [process-philosophy](/concepts/process-philosophy/)
+
+---
+
 ### 2026-01-24: Quantum Timing Hierarchy
 
 New article maps timescales from femtosecond decoherence to 300ms neural decisions, showing how quantum mechanisms must operate within these constraints.
