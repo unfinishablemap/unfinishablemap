@@ -17,6 +17,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 21:09 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/quantum-measurement-and-subjective-probability.md`
+- **Word count**: 1777 → 1926 (+149)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Expanded MWI critique to engage with Deutsch/Wallace sophisticated accounts
+  - Added decoherence timescale as concrete constraint
+  - Clarified QBism's intentional agnosticism while maintaining critique
+- **Enhancements made**: 2
+  - Added cross-link to [[free-will]] connecting indexical identity to agency
+  - Added cross-link to [[process-philosophy]] connecting to actual occasions
+- **Output**: `reviews/deep-review-2026-01-27-quantum-measurement-and-subjective-probability.md`
+
 ## 2026-01-27 20:54 UTC - deep-review
 
 - **Status**: Success

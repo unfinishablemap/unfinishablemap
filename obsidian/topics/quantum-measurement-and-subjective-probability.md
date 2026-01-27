@@ -4,7 +4,8 @@ description: "Subjective interpretations of quantum probability—QBism, partici
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-01-27T00:00:00+00:00
+ai_modified: 2026-01-27T21:09:37+00:00
+last_deep_review: 2026-01-27T21:09:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +40,7 @@ As Fuchs explains: "The wave function does not describe the world—it describes
 
 This move has real advantages. It dissolves the measurement problem by denying there was ever a physical superposition to collapse. It explains why different observers can consistently assign different quantum states to the same system. It avoids the ontological extravagance of Many-Worlds while preserving single-world definiteness.
 
-But these advantages come from making consciousness (or "agency") foundational while refusing to explain it.
+But these advantages come from making consciousness (or "agency") foundational while refusing to explain it. QBism's proponents consider this agnosticism a feature—the interpretation should specify rational constraints on belief without committing to metaphysics. But for anyone interested in consciousness as an explanatory target, deliberate silence is still a gap.
 
 ## Where Subjective Probability Fails
 
@@ -84,7 +85,7 @@ This approach takes consciousness seriously as a causal agent. But it faces its 
 
 **The indexical gap**: Even if consciousness triggers collapse, this doesn't explain why *this* consciousness exists. Consciousness-collapse tells us *how* collapse happens (conscious observation) without addressing why any particular conscious subject exists to observe. See [[indexical-identity-quantum-measurement]] for detailed treatment.
 
-**Mechanism questions**: How would consciousness interact with quantum systems? Where in the brain does collapse occur? What counts as "conscious" observation? These remain unanswered.
+**Mechanism questions**: How would consciousness interact with quantum systems? Where in the brain does collapse occur? What counts as "conscious" observation? These remain unanswered. Decoherence presents a particular challenge: quantum superpositions in warm biological systems collapse in ~10^-13 seconds through environmental interaction alone—far too fast for consciousness to play a role through ordinary neural processes.
 
 Consciousness-collapse avoids QBism's phenomenological gap by making consciousness genuinely causal. But it opens other gaps: the mechanism of interaction, and the deeper question of why consciousness exists at all.
 
@@ -122,11 +123,11 @@ The Map's [[tenets]] commit to positions that bear on this debate:
 
 **Bidirectional Interaction**: Consciousness causally influences the physical world. Our reports about experience must involve real causal flow from mind to matter—not just from belief to belief.
 
-**No Many Worlds**: There is one actual world with definite outcomes. The indexical question is real, not dissolved by treating all outcomes as equally actual.
+**No Many Worlds**: There is one actual world with definite outcomes. Many-Worlds Interpretation (MWI) has sophisticated accounts of probability and identity—proponents like Deutsch and Wallace argue that "why am I in this branch?" has a trivial answer: that's what "I" means in a branching universe. But this treats the indexical question as purely semantic rather than metaphysically substantive. The Map maintains that personal identity and the first-person perspective resist such dissolution. See [[free-will]] for related discussion of how indexical identity matters for agency.
 
 These commitments suggest an account where consciousness neither causes collapse globally nor is merely epistemic. Instead, consciousness grounds the indexical fact—making it the case that *this* subject experiences *this* outcome—at points where physics leaves outcomes undetermined.
 
-This differs from QBism by treating consciousness as genuinely causal, not just epistemic. It differs from consciousness-collapse by not requiring consciousness to cause physical changes detectable from outside. The causal contribution is indexical: determining which of the physically possible outcomes is actual *for this subject*.
+This differs from QBism by treating consciousness as genuinely causal, not just epistemic. It differs from consciousness-collapse by not requiring consciousness to cause physical changes detectable from outside. The causal contribution is indexical: determining which of the physically possible outcomes is actual *for this subject*. This resonates with [[process-philosophy]]'s account of actual occasions—moments where indeterminacy resolves into determinate fact through a process that is neither purely physical nor external to experience.
 
 ## The Phenomenological Test
 
