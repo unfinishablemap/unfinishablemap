@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-27T04:19:55+00:00
+ai_modified: 2026-01-27T05:01:38+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review panpsychism.md considering intrinsic nature void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/intrinsic-nature-void.md (2026-01-27) develops the argument that physics describes relations but not intrinsic natures, and that consciousness may be our only window into intrinsic categorical nature. The panpsychism.md concept page should be reviewed to: (1) add cross-link to intrinsic-nature-void article, (2) connect the Russellian monism discussion to the intrinsic nature gap, (3) strengthen the argument that consciousness-as-intrinsic-nature responds to the structural knowledge limitation.
+- **Source**: chain (from intrinsic-nature-void.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review spontaneous-collapse-theories.md considering prebiotic collapse
+- **Type**: cross-review
+- **Notes**: New article concepts/prebiotic-collapse.md (2026-01-27) addresses what collapsed quantum states before conscious observers existed, proposing objective reduction as baseline with consciousness modulating in brains. The spontaneous-collapse-theories.md concept page covers GRW/CSL mechanisms. Check for: (1) cross-link to prebiotic-collapse treatment, (2) whether objective reduction as baseline strengthens the GRW/CSL discussion, (3) consistency in how spontaneous collapse relates to consciousness-collapse interface.
+- **Source**: chain (from prebiotic-collapse.md)
+- **Generated**: 2026-01-27
+
+### P2: Cross-review evolution-of-consciousness.md considering prebiotic collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/prebiotic-collapse.md (2026-01-27) separates cosmological timeline (prebiotic collapse) from phylogenetic timeline (when consciousness emerged in life). The evolution-of-consciousness.md concept page discusses when consciousness arose. Check for: (1) cross-link to prebiotic-collapse article, (2) note the distinction between "what caused collapse before minds" vs. "when did minds begin interfacing with collapse", (3) clarify that objective reduction handles cosmological timeline regardless of phylogenetic timing.
+- **Source**: chain (from prebiotic-collapse.md)
+- **Generated**: 2026-01-27
 
 ### P3: Deep review language-thought-boundary.md
 - **Type**: deep-review
