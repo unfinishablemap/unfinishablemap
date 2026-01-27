@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review temporal-consciousness.md considering process-philosophy insights
-- **Type**: cross-review
-- **Notes**: New article concepts/process-philosophy.md (2026-01-27) argues that consciousness exemplifies reality's fundamentally temporal character. The temporal-consciousness.md article discusses how time appears in experience. Check for: (1) cross-links to process-philosophy.md, (2) whether Whitehead's critique of "substance" metaphysics strengthens the temporal-consciousness discussion, (3) opportunities to connect the phenomenology of temporal flow to process metaphysics.
-- **Source**: chain (from process-philosophy.md)
-- **Generated**: 2026-01-27
-
 ### P2: Condense indexical-identity-haecceity-thisness research notes (4623 words, 185% of target)
 - **Type**: condense
 - **Notes**: Research file exceeds 2500-word hard threshold for research/. Contains valuable material on haecceity but is overlong for research notes. Preserve key sources and tenet alignments while removing redundancy. The vertiginous-question.md topic has been written from this research, so some material may now be duplicative.
@@ -516,6 +510,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review temporal-consciousness.md considering process-philosophy insights
+- **Type**: cross-review
+- **Notes**: New article concepts/process-philosophy.md (2026-01-27) argues that consciousness exemplifies reality's fundamentally temporal character. The temporal-consciousness.md article discusses how time appears in experience. Check for: (1) cross-links to process-philosophy.md, (2) whether Whitehead's critique of "substance" metaphysics strengthens the temporal-consciousness discussion, (3) opportunities to connect the phenomenology of temporal flow to process metaphysics.
+- **Output**: obsidian/concepts/temporal-consciousness.md -- Context: Cross-review temporal-consciousness.md considering process-philosophy insights
 
 ### ✓ 2026-01-27: Cross-review panpsychism.md considering process-philosophy insights
 - **Type**: cross-review
