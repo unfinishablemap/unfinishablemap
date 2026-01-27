@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-27T06:39:44+00:00
+ai_modified: 2026-01-27T07:49:29+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,10 +37,40 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
+### P2: Create concept page for process-philosophy
+- **Type**: expand-topic
+- **Notes**: Alfred North Whitehead's process philosophy is referenced throughout the site (quantum-consciousness.md, prebiotic-collapse.md, apex articles) but has no dedicated concept page. Key connections: actual occasions explain phenomenal unity, concrescence models collapse, self-determination grounds mental causation. Process philosophy provides philosophical grounding for several tenets. See apex article suggestion for deeper synthesis.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-27
+
+### P2: Create concept page for default-mode-network
+- **Type**: expand-topic
+- **Notes**: The default mode network is referenced in meditation-and-consciousness-modes.md and contemplative-neuroscience.md but lacks a dedicated page. The DMN's role in self-referential thought, mind-wandering, and its suppression during focused attention is relevant to the attention-as-interface framework. Neuroscience foundation for consciousness-related discussions.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-27
+
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
+- **Generated**: 2026-01-27
+
+### P3: Write article on teleportation and personal identity
+- **Type**: expand-topic
+- **Notes**: Classic thought experiment (Parfit's teleportation, Star Trek transporter problem) directly relevant to haecceity and the No Many Worlds tenet. If a teleporter destroys the original and creates a perfect copy, is the copy the same person? Builds on haecceity.md, personal-identity.md, philosophical-zombies.md. Would strengthen the indexical identity arguments.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-27
+
+### P3: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the bootstrap problem where the mind that was wrong must recognize its error. Preserve: Schulz's error-blindness claims, connection to self-reference-paradox. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-27
+
+### P3: Create concept page for neuroplasticity
+- **Type**: expand-topic
+- **Notes**: Referenced in stapp-quantum-mind.md and attention articles but lacks dedicated page. Neuroplasticity—the brain's ability to reorganize—is relevant to the attention-as-interface framework: Schwartz's OCD research shows that directed mental attention can reshape neural circuits. Supports bidirectional interaction tenet.
+- **Source**: gap_analysis
 - **Generated**: 2026-01-27
 
 ### P3: Condense sleep-and-consciousness.md (3816 words, 153% of threshold)
