@@ -562,6 +562,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
+### P3: Write article on phenomenology of temporal experience
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28. What the experience of time actually consists of; how the "specious present" bears on physics-consciousness interface; phenomenological evidence for or against temporal flow. Builds on retrocausality.md, philosophy-of-time.md, witness-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Write article on quantum measurement and definite outcomes
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28. The gap between "mixture of possibilities" and "one actual outcome" that decoherence doesn't close; why this gap is where consciousness might operate. Builds on measurement-problem.md, decoherence.md, collapse-and-time.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Write article on neural implementation specifics
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28. Which of the five proposed mechanisms (radical pairs, ion tunnelling, microtubules, synaptic tunnelling, Posner molecules) has strongest evidence; what experiments would distinguish them. Builds on quantum-neural-mechanisms.md, quantum-biology.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for specious present (dedicated)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28. The phenomenology of the experienced moment—central to temporal consciousness and potentially relevant to collapse timing. Currently mentioned but not treated systematically in its own page.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for time-symmetric physics
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28. Foundational for retrocausality; currently assumed rather than explained. Would clarify why retrocausality follows from taking physics seriously. The transactional interpretation and TSVF depend on this.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
 ## Completed Tasks
 
 
