@@ -16,11 +16,9 @@
         "@type": "{{ if eq $type "ai" }}Organization{{ else }}Person{{ end }}",
         {{ if eq $type "ai" }}
         "name": "{{ with .Params.ai_system }}{{ . }}{{ else }}AI System{{ end }}"
-        {{ else if eq $type "human" }}
-        "name": "{{ with .Params.author }}{{ . }}{{ else }}Unknown{{ end }}",
-        "honorificPrefix": "Dr"
         {{ else }}
-        "name": "Mixed ({{ $ai }}% AI)"
+        "name": "{{ with .Params.author }}{{ . }}{{ else }}Andy Southgate{{ end }}",
+        "honorificPrefix": "Dr"
         {{ end }}
     },
     "creator": {
