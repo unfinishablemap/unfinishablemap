@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Condense neural-correlates-of-consciousness.md (4038 words, 163% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Central empirical concept linking consciousness to brain states. Preserve: core NCC methodology, distinction between content/full NCCs, relationship to hard problem. Defer detailed neuroscience to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-27
-
 ### P3: Condense metarepresentation.md (3960 words, 158% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers representing representations—central to consciousness theories (HOT, metacognition, theory of mind). Preserve: core metarepresentational distinctions, connection to consciousness threshold, ToM level mappings. See /condense skill.
@@ -448,6 +442,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Condense neural-correlates-of-consciousness.md (4038 words, 163% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Central empirical concept linking consciousness to brain states. Preserve: core NCC methodology, distinction between content/full NCCs, relationship to hard problem. Defer detailed neuroscience to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md
 
 ### ✓ 2026-01-27: Condense phenomenology.md (4049 words, 162% of threshold)
 - **Type**: condense

@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-27 01:18 UTC - condense
+
+- **Status**: Success
+- **File**: `concepts/neural-correlates-of-consciousness.md`
+- **Before**: 4038 words
+- **After**: 1828 words
+- **Reduction**: 55%
+- **Technique**: Condensed "What NCC Research Studies" (merged definitions into single paragraph), trimmed "Posterior Cortical Hot Zone" (kept key finding, cut bullet points), condensed "COGITATE Experiment" (kept conclusions, cut detailed predictions), cut "Memory Systems and NCC" from ~750 to ~200 words (kept table and key hippocampus insight, cut redundant content that overlaps with memory articles), condensed "Filter Theory" (kept core points and three key findings as bullets, cut extended explanations), trimmed "Illusionist Challenge" (kept regress argument and Tallis quote, cut subsections), condensed "Contemplative Evidence" (kept core insight about witness vs. content), **removed "Process Philosophy Perspective" entirely** (tangential Whitehead material), condensed "What Would Challenge" (four points as brief list), tightened "Relation to Map's Perspective" (kept all five tenet connections but more concise), trimmed "Further Reading" from 17 to 9 links, removed Whitehead reference. Preserved opening summary, "What NCC Cannot Tell Us" section (core philosophical argument), all tenet connections, voice, and structure.
+
+---
+
 ## 2026-01-27 01:07 UTC - deep-review
 
 - **Status**: Success
