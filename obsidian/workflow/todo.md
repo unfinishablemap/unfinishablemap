@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review quantum-binding-and-phenomenal-unity.md considering quantum biology
-- **Type**: cross-review
-- **Notes**: New article topics/quantum-biology-and-the-consciousness-debate.md (2026-01-27) provides empirical evidence for quantum effects in neural systems. The quantum-binding-and-phenomenal-unity.md article argues that quantum entanglement may explain phenomenal unity. Check for: (1) cross-links to quantum biology evidence, (2) whether the empirical findings strengthen the binding argument, (3) consistency in how decoherence challenges are addressed.
-- **Source**: chain (from quantum-biology-and-the-consciousness-debate.md)
-- **Generated**: 2026-01-27
-
 ### P3: Write article on auditory consciousness
 - **Type**: expand-topic
 - **Notes**: Auditory phenomenology (hearing music, speech, environmental sounds) is under-explored compared to visual consciousness. Relevant to binding problem (synchronizing sound with vision), temporal consciousness (audition is inherently temporal), and phenomenal richness. Would balance the visual-consciousness task already in queue.
@@ -558,6 +552,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review quantum-binding-and-phenomenal-unity.md considering quantum biology
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-biology-and-the-consciousness-debate.md (2026-01-27) provides empirical evidence for quantum effects in neural systems. The quantum-binding-and-phenomenal-unity.md article argues that quantum entanglement may explain phenomenal unity. Check for: (1) cross-links to quantum biology evidence, (2) whether the empirical findings strengthen the binding argument, (3) consistency in how decoherence challenges are addressed.
+- **Output**: obsidian/topics/quantum-binding-and-phenomenal-unity.md -- Context: Cross-review quantum-binding-and-phenomenal-unity.md considering quantum biology
 
 ### ✓ 2026-01-27: Cross-review free-will.md considering presentiment and retrocausality
 - **Type**: cross-review
