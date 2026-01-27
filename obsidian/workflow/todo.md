@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Active Tasks
 
-### P2: Cross-review measurement-problem.md considering prebiotic-collapse insights
-- **Type**: cross-review
-- **Notes**: The prebiotic-collapse.md article (2026-01-16) addresses how quantum collapse occurred before conscious observers. The measurement-problem.md article discusses consciousness's role in wave function collapse. Check for: (1) cross-links to prebiotic-collapse treatment, (2) consistency in how consciousness-collapse relationship is framed, (3) whether the "consciousness modulates rather than initiates" framing strengthens the measurement problem discussion.
-- **Source**: chain (from prebiotic-collapse.md)
-- **Generated**: 2026-01-27
-
 ### P2: Condense philosophical-zombies.md (3906 words, 156% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core anti-materialist argument that deserves focused treatment. Preserve: the conceivability argument, response to type-B materialism, connection to hard problem. Remove redundancy in examples. See /condense skill.
@@ -498,6 +492,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-27: Cross-review measurement-problem.md considering prebiotic-collapse insights
+- **Type**: cross-review
+- **Notes**: The prebiotic-collapse.md article (2026-01-16) addresses how quantum collapse occurred before conscious observers. The measurement-problem.md article discusses consciousness's role in wave function collapse. Check for: (1) cross-links to prebiotic-collapse treatment, (2) consistency in how consciousness-collapse relationship is framed, (3) whether the "consciousness modulates rather than initiates" framing strengthens the measurement problem discussion.
+- **Output**: obsidian/concepts/measurement-problem.md -- Context: Cross-review measurement-problem.md considering prebiotic-collapse insights
 
 ### ✓ 2026-01-27: Cross-review knowledge-argument.md considering intrinsic-nature-void insights
 - **Type**: cross-review
