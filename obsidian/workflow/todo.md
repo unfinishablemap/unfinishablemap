@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-28T14:56:29+00:00
+ai_modified: 2026-01-28T15:58:01+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review quantum-interpretations.md considering QBism
+- **Type**: cross-review
+- **Notes**: New article concepts/qbism.md (2026-01-28) provides dedicated treatment of Quantum Bayesianism. The quantum-interpretations.md page surveys QM interpretations but QBism is mentioned only briefly. Check for: (1) cross-links to new QBism treatment, (2) whether the critique of QBism's agent problem is integrated into the interpretations overview, (3) consistency in how subjective probability interpretations are framed.
+- **Source**: chain (from qbism.md)
+- **Generated**: 2026-01-28
+
+### P2: Cross-review measurement-problem.md considering QBism
+- **Type**: cross-review
+- **Notes**: New article concepts/qbism.md (2026-01-28) explains how QBism dissolves the measurement problem by treating quantum states as beliefs rather than reality. The measurement-problem.md concept page should address this dissolution and explain why the Map finds it unsatisfying (shifts rather than solves the problem). Check for: (1) cross-links to QBism treatment, (2) whether QBism's "dissolution" is distinguished from genuine solutions, (3) whether the agent problem critique is integrated.
+- **Source**: chain (from qbism.md)
+- **Generated**: 2026-01-28
+
+### P2: Cross-review phenomenal-unity.md considering neural-binding-mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) distinguishes classical binding (gamma synchrony, thalamocortical loops) from quantum binding (entanglement). The phenomenal-unity.md concept page discusses why unity resists physical explanation. Check for: (1) cross-links to neural-binding-mechanisms treatment, (2) whether the classical/quantum binding distinction strengthens the unity argument, (3) integration of the "correlation vs. identity" critique of classical mechanisms.
+- **Source**: chain (from neural-binding-mechanisms.md)
+- **Generated**: 2026-01-28
+
+### P2: Deep review neural-binding-mechanisms.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-28, never deep-reviewed. Covers classical binding mechanisms (gamma synchrony, thalamocortical resonance, global workspace) and quantum binding (entanglement as genuine holism). Should verify: (1) accuracy of neuroscience claims about binding mechanisms, (2) fair presentation of classical binding research before critiquing, (3) engagement with decoherence objections to quantum binding, (4) alignment with Minimal Quantum Interaction tenet.
+- **Source**: staleness
+- **Generated**: 2026-01-28
+
+### P2: Deep review qbism.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-28, deep-reviewed same day but should verify comprehensive accuracy. Covers QBism's core claims, dissolution of measurement problem, and the agent problem. Should verify: (1) accurate representation of Fuchs/Caves/Schack position, (2) fair presentation before critique, (3) whether the "agent problem" critique is sufficiently developed, (4) appropriate engagement with QBist responses to consciousness-based objections.
+- **Source**: staleness
+- **Generated**: 2026-01-28
 
 ### P2: Update references to coalesced nihilism/existentialism articles
 - **Type**: other
