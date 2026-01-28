@@ -16,7 +16,7 @@ Modes:
 ## When to Use
 
 - When `todo.md` Active Tasks section is empty
-- When `/evolve` detects `needs_replenishment: true`
+- When the evolution loop detects the queue is low
 - Monthly strategic planning sessions
 - After completing a major content push
 
@@ -392,7 +392,7 @@ This skill introduces a new task type: `cross-review`
 3. Identify arguments that could be strengthened by the new material
 4. Ensure consistent terminology
 
-**Execution**: When `/evolve` encounters a `cross-review` task:
+**Execution**: When the evolution loop encounters a `cross-review` task:
 1. Read the new article (chain_parent)
 2. Read the target article
 3. Look for:

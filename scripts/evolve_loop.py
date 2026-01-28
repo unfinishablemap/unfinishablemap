@@ -41,6 +41,7 @@ from tools.evolution.task_selector import (
     select_queue_task,
     task_to_skill,
 )
+from tools.highlights import find_unhighlighted_content
 
 # Module-level logger
 log = logging.getLogger("evolve_loop")
@@ -459,7 +460,11 @@ HIGHLIGHT_SKIP = {
 def find_highlight_candidate(
     recent_tasks: list[TaskRecord], today: str
 ) -> TaskRecord | None:
-    """Find highlight-worthy work from today's successful tasks.
+    """Find highlight-worthy work from today's tasks or unhighlighted backlog.
+
+    First checks today's successful tasks for new highlight-worthy work.
+    If none found, falls back to existing content that hasn't been
+    highlighted in the last 90 days.
 
     Args:
         recent_tasks: List of recent task records
@@ -467,7 +472,10 @@ def find_highlight_candidate(
 
     Returns:
         TaskRecord to highlight, or None if nothing worthy found.
+        For backlog content, returns a synthetic TaskRecord with
+        task_type="backlog" and task=file path.
     """
+    # First: Check today's tasks for new work
     for task in reversed(recent_tasks):  # Most recent first
         if task.date != today:
             continue
@@ -477,6 +485,29 @@ def find_highlight_candidate(
             continue
         if task.task_type in HIGHLIGHT_WORTHY:
             return task
+
+    # Fallback: Find unhighlighted existing content
+    highlights_file = Path("obsidian/workflow/highlights.md")
+    content_root = Path("obsidian")
+
+    if not highlights_file.exists():
+        return None
+
+    unhighlighted = find_unhighlighted_content(
+        highlights_file=highlights_file,
+        content_root=content_root,
+        days=90,
+    )
+
+    if unhighlighted:
+        # Return synthetic TaskRecord for the most recently modified unhighlighted content
+        backlog_file = unhighlighted[0]
+        return TaskRecord(
+            task=str(backlog_file),
+            task_type="backlog",
+            date=today,
+            outcome="success",
+        )
 
     return None
 

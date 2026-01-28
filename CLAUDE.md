@@ -194,13 +194,13 @@ The Map includes scheduled AI automation for content development. All AI-generat
 | `/optimistic-review` | Find strengths, expansion opportunities | No (reports only) |
 | `/research-topic [topic]` | Web research, outputs notes to `research/` | No (research notes only) |
 | `/research-voids` | Research voids (cognitive gaps, unchartable territories). Daily. | No (research notes only) |
-| `/expand-topic [topic]` | Generate new article (always `draft: true`) | Yes (creates drafts) |
+| `/expand-topic [topic]` | Generate new article (publishes directly) | Yes (creates articles) |
 | `/refine-draft [file]` | Improve existing draft content | Yes (keeps as draft) |
 | `/deep-review [file]` | Comprehensive single-document review with improvements | Yes (modifies content) |
 | `/condense [file]` | Intelligently reduce article length while preserving value | Yes (modifies content) |
 | `/replenish-queue [mode]` | Auto-generate tasks when queue is empty (chains, gaps, research) | Yes (todo.md only) |
 | `/tune-system` | Monthly meta-review: analyze system operation | Yes (state, minor) |
-| `/add-highlight` | Add item to highlights page (max 1/day) | Yes (highlights.md) |
+| `/add-highlight` | Add item to highlights page (max 1/day). Supports backlog: can feature any content not highlighted in last 90 days | Yes (highlights.md) |
 | `/tweet-highlight` | [DEPRECATED] Use add-highlight --tweet instead. Tweets existing highlight without deployment verification. | No (external only) |
 | `/outer-review` | Commission and process external AI analysis to reduce blind spots | Yes (creates review, tasks) |
 | `/coalesce` | Combine multiple related articles into one unified piece. Archives originals to preserve URLs. | Yes (creates, archives) |
@@ -229,7 +229,7 @@ Tasks are managed in `obsidian/workflow/todo.md`:
 
 #### Queue Replenishment
 
-The queue auto-replenishes when active tasks (P0-P2) drop below 3. `/evolve` triggers `/replenish-queue` automatically. Tasks are generated from:
+The queue auto-replenishes when active tasks (P0-P2) drop below 3. The evolution loop triggers `/replenish-queue` automatically. Tasks are generated from:
 
 1. **Task chains**: `research-topic` → `expand-topic` → `cross-review`
 2. **Unconsumed research**: Research notes without corresponding articles
@@ -348,12 +348,12 @@ description: Brief description for skill listing.
 - Key constraints or requirements
 ```
 
-#### 2. Register with /evolve (if maintenance task)
+#### 2. Register with evolution loop (if scheduled task)
 
-If the skill should run on a schedule, update `.claude/skills/evolve/SKILL.md`:
+If the skill should run on a schedule, update `scripts/evolve_loop.py`:
 
-1. Add to the **Check Staleness** table with cadence and overdue threshold
-2. Add to the **Execute Tasks** section showing how to invoke it
+1. Add to the task cycle in `tools/evolution/cycle.py`
+2. Add handling in the loop's task execution logic
 
 #### 3. Update evolution-state.yaml
 

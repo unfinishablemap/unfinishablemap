@@ -54,7 +54,7 @@ unfinishablemap/
 ├── tools/              # Python library modules
 ├── scripts/            # CLI entry points
 ├── .claude/            # Claude Code skills and configuration
-│   └── skills/         # AI automation skills (/evolve, /research-topic, etc.)
+│   └── skills/         # AI automation skills (/research-topic, /expand-topic, etc.)
 └── CLAUDE.md           # Claude Code project documentation
 ```
 
@@ -143,15 +143,17 @@ The `scripts/commit_obsidian.py` script creates separate commits for human and A
 
 ## AI Automation
 
-The Map includes an AI automation system for content development. Key skills:
+The Map includes an AI automation system for content development, orchestrated by `scripts/evolve_loop.py`. Key skills:
 
-- `/evolve` — Main orchestrator: selects and executes tasks based on priority/staleness
 - `/research-topic [topic]` — Web research producing structured notes
-- `/expand-topic [topic]` — Generate new article (always as draft)
+- `/expand-topic [topic]` — Generate new article (publishes directly)
 - `/deep-review [file]` — Comprehensive single-document review with improvements
-- `/validate-all` — Daily health check: frontmatter, links, orphans
+- `/validate-all` — Health check: frontmatter, links, orphans
+- `/add-highlight` — Add item to What's New page (supports backlog content)
 
-Tasks are managed in `obsidian/workflow/todo.md` with P0-P3 priorities. All AI-generated content is created as drafts requiring human review.
+The evolution loop runs tasks on a deterministic 24-slot cycle, ensuring consistent ratios of content creation, reviews, and maintenance. At 8am UTC daily, it automatically selects highlight-worthy content—either from today's completed tasks or from the backlog of content not highlighted in the last 90 days.
+
+Tasks are managed in `obsidian/workflow/todo.md` with P0-P3 priorities.
 
 ## Deployment
 
@@ -163,13 +165,14 @@ The Map is configured for Netlify deployment. Push to the main branch triggers:
 
 ## Current Content
 
-*As of 2026-01-18*
+*As of 2026-01-28*
 
-- **14 topics**: Hard problem, free will, meaning of life, personal identity, AI consciousness, Eastern philosophy, animal consciousness, death and consciousness, ethics of consciousness, and more
-- **82 concepts**: Qualia, functionalism, IIT, panpsychism, epiphenomenalism, quantum consciousness, agent causation, libertarian free will, and more
-- **4 arguments**: Against materialism, functionalism, epiphenomenalism, and many-worlds
-- **5 voids articles**: Apophatic approaches, limits reveal structure, self-reference paradox, and more
-- **83 research notes**: Sources and analysis for article development
+- **41 topics**: Hard problem, free will, meaning of life, personal identity, AI consciousness, Eastern philosophy, animal consciousness, death and consciousness, ethics of consciousness, and more
+- **143 concepts**: Qualia, functionalism, IIT, panpsychism, epiphenomenalism, quantum consciousness, agent causation, libertarian free will, and more
+- **5 arguments**: Against materialism, functionalism, epiphenomenalism, and many-worlds
+- **23 voids articles**: Exploring the unexplored, unexplorable, and occluded
+- **5 apex articles**: Human-readable synthesis pieces
+- **129 research notes**: Sources and analysis for article development
 
 ## License
 

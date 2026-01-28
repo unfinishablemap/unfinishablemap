@@ -9,7 +9,7 @@ Conduct exploratory research into cognitive gaps and unchartable territories—a
 
 ## When to Use
 
-- Daily during `/evolve` sessions (synthetic task)
+- Daily as part of the evolution loop cycle
 - When `/research-voids` is invoked directly
 - When exploring the boundaries of human cognition
 
@@ -181,7 +181,7 @@ Based on this research, a voids article could:
 
 ### 7. Update State
 
-If this was triggered by `/evolve`:
+If this was triggered by the evolution loop:
 - Add research file to `task_chains.pending_articles` in `evolution-state.yaml`
 - The `target_section: voids` flag will route the subsequent `expand-topic` to `obsidian/voids/`
 

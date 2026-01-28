@@ -434,6 +434,116 @@ def parse_highlights(file_path: Path) -> list[Highlight]:
     return results
 
 
+def get_recently_highlighted_links(file_path: Path, days: int = 90) -> set[str]:
+    """
+    Get links that have been highlighted within the last N days.
+
+    Args:
+        file_path: Path to highlights.md
+        days: Number of days to look back (default 90)
+
+    Returns:
+        Set of wikilink targets (e.g., {"process-philosophy", "qualia"})
+    """
+    from datetime import timedelta
+
+    highlights = parse_highlights(file_path)
+    cutoff = date.today() - timedelta(days=days)
+    recent_links: set[str] = set()
+
+    for h in highlights:
+        try:
+            highlight_date = date.fromisoformat(h["date"])
+        except ValueError:
+            continue
+
+        if highlight_date >= cutoff and h["link"]:
+            # Extract the link target from wikilink format [[target]]
+            link = h["link"].strip()
+            if link.startswith("[[") and link.endswith("]]"):
+                target = link[2:-2]
+                # Handle display text: [[target|display]] -> target
+                if "|" in target:
+                    target = target.split("|")[0]
+                recent_links.add(target)
+
+    return recent_links
+
+
+def find_unhighlighted_content(
+    highlights_file: Path,
+    content_root: Path,
+    days: int = 90,
+) -> list[Path]:
+    """
+    Find published content that hasn't been highlighted recently.
+
+    Scans topics, concepts, apex, and voids directories for articles
+    that are not drafts and haven't been highlighted in the last N days.
+
+    Args:
+        highlights_file: Path to highlights.md
+        content_root: Path to obsidian/ directory
+        days: Number of days to look back for recent highlights
+
+    Returns:
+        List of Path objects to unhighlighted content files, sorted by
+        modification date (most recent first).
+    """
+    # Get recently highlighted links
+    recent_links = get_recently_highlighted_links(highlights_file, days)
+
+    # Directories to scan for highlight-worthy content
+    content_dirs = ["topics", "concepts", "apex", "voids"]
+
+    candidates: list[tuple[Path, datetime]] = []
+
+    for dir_name in content_dirs:
+        content_dir = content_root / dir_name
+        if not content_dir.exists():
+            continue
+
+        for md_file in content_dir.glob("*.md"):
+            # Skip section index files
+            if md_file.stem == dir_name or md_file.name == "_index.md":
+                continue
+
+            try:
+                post = frontmatter.load(md_file)
+            except Exception:
+                continue
+
+            # Skip drafts
+            if post.metadata.get("draft", False):
+                continue
+
+            # Check if already highlighted recently
+            if md_file.stem in recent_links:
+                continue
+
+            # Get modification date for sorting
+            modified = post.metadata.get("modified") or post.metadata.get("created")
+            if modified:
+                if isinstance(modified, str):
+                    try:
+                        mod_date = datetime.fromisoformat(modified.replace("Z", "+00:00"))
+                    except ValueError:
+                        mod_date = datetime.min
+                elif isinstance(modified, date):
+                    mod_date = datetime.combine(modified, datetime.min.time())
+                else:
+                    mod_date = datetime.min
+            else:
+                mod_date = datetime.min
+
+            candidates.append((md_file, mod_date))
+
+    # Sort by modification date (most recent first)
+    candidates.sort(key=lambda x: x[1], reverse=True)
+
+    return [path for path, _ in candidates]
+
+
 def update_highlight_tweet(file_path: Path, highlight_date: str, tweet_url: str) -> bool:
     """
     Add tweet URL to an existing highlight.

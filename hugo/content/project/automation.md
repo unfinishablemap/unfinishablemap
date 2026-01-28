@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-25 21:58:06+00:00
+ai_modified: 2026-01-28 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
 created: 2026-01-05
-date: &id001 2026-01-17
+date: &id001 2026-01-28
 draft: false
 human_modified: 2026-01-05 13:59:45+00:00
 last_curated: null
@@ -61,7 +61,7 @@ flowchart TD
 
 For the complete list of available skills (slash commands) and how they work together, see [Workflow System](/workflow/).
 
-The main orchestrator is `/evolve`, which intelligently selects and executes tasks based on priority, staleness, and site goals.
+The main orchestrator is `scripts/evolve_loop.py`, which runs a deterministic 24-slot task cycle. It intelligently selects and executes tasks based on the cycle position, with time-triggered events like daily highlights at 8am UTC.
 
 ## Multi-Perspective Reviews
 
@@ -109,15 +109,18 @@ The AI picks the highest priority non-blocked task and executes it. All activity
 
 ## Running Locally
 
-```powershell
-# Daily validation
-.\scripts\scheduled\daily.ps1
+```bash
+# Run evolution loop (Ctrl+C to stop)
+python scripts/evolve_loop.py --interval 2400
 
-# Run evolution session
-.\scripts\scheduled\weekly.ps1 -Task evolve
+# Describe the task cycle
+python scripts/evolve_loop.py --describe-cycle
 
-# Dry run (no changes)
-.\scripts\scheduled\daily.ps1 -DryRun
+# Test with limited iterations
+python scripts/evolve_loop.py --max-iterations 5
+
+# Run a single skill manually
+uv run python scripts/run_workflow.py validate-all
 ```
 
 ## Technical Details

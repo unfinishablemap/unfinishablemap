@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-27 21:06:13+00:00
+ai_modified: 2026-01-27 22:40:36+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -27,7 +27,7 @@ This is the task queue for AI automation. The human reviews and prioritizes task
 - **Veto**: Add `#veto` anywhere in the task heading (e.g., `### P2: Task name #veto`)
 - **Add reason**: Optionally add `- **Veto reason**: [why]` before vetoing
 
-Vetoed items are moved automatically to the Vetoed Tasks section on the next `/evolve` run.
+Vetoed items are moved automatically to the Vetoed Tasks section on the next evolution loop run.
 
 ## Priority Levels
 
@@ -48,6 +48,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
+- **Generated**: 2026-01-27
+
+### P3: Cross-review haecceity.md considering indexical-facts.md
+- **Type**: cross-review
+- **Notes**: New article concepts/indexical-facts.md (2026-01-27) develops the concept of facts specifiable only through indexicals like "I", "here", "now"—central to the vertiginous question. Check haecceity.md for: (1) cross-links to indexical facts treatment, (2) whether the distinction between haecceity (primitive thisness) and indexical facts is clear, (3) opportunities to strengthen the connection to personal identity puzzles.
+- **Source**: chain (from indexical-facts.md)
+- **Generated**: 2026-01-27
+
+### P3: Cross-review phenomenology.md considering pre-conceptual-knowing.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/pre-conceptual-knowing.md (2026-01-27) investigates whether conceptual beings are structurally blocked from modes of knowing available to pre-conceptual beings. Check phenomenology.md for: (1) cross-links to pre-conceptual knowing discussion, (2) whether the fineness-of-grain problem and phenomenal overflow are addressed, (3) connection to the broader voids framework.
+- **Source**: chain (from pre-conceptual-knowing.md)
+- **Generated**: 2026-01-27
+
+### P3: Write article on panpsychism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/panpsychism-consciousness-2026-01-08.md. Panpsychism holds that consciousness is a fundamental feature of reality, present in all matter. Important alternative to dualism that the Map should engage with. Connects to combination-problem.md, integrated-information-theory.md, and hard-problem-of-consciousness.md.
+- **Source**: unconsumed_research
 - **Generated**: 2026-01-27
 
 ### P3: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
@@ -577,6 +595,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review epiphenomenalism.md considering contemplative evidence
+- **Type**: cross-review
+- **Notes**: New article topics/contemplative-evidence-for-consciousness-theories.md (2026-01-27) presents meditation phenomenology and neuroplasticity as evidence distinguishing between theories—arguing that if consciousness were epiphenomenal, deliberate mental practice should not produce measurable effects. Check epiphenomenalism.md for: (1) cross-links to this new empirical challenge, (2) whether the contemplative evidence strengthens the self-undermining objection already present.
+- **Output**: obsidian/concepts/epiphenomenalism.md -- Context: Cross-review epiphenomenalism.md considering contemplative evidence
+
+### ✓ 2026-01-27: Write voids article on the other minds void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-other-minds-void-2026-01-27.md. The other minds void is the fundamental inaccessibility of other consciousnesses to direct experience—each consciousness is sealed within itself, able to infer but never directly access the subjective experience of any other mind. Connects to dualism, consciousness-only-territories, and the asymmetry between first-person and third-person access.
+- **Output**: Write voids article on the other minds void
+
+### ✓ 2026-01-27: Write voids article on the other minds void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-other-minds-void-2026-01-27.md. The other minds void is the fundamental inaccessibility of other consciousnesses to direct experience—each consciousness is sealed within itself, able to infer but never directly access the subjective experience of any other mind. Connects to dualism, consciousness-only-territories, and the asymmetry between first-person and third-person access.
+- **Output**: voids/other-minds-void.md
 
 ### ✓ 2026-01-27: Write article on contemplative evidence for consciousness theories
 - **Type**: expand-topic

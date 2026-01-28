@@ -3,7 +3,9 @@
 from .manager import (
     add_highlight,
     can_add_today,
+    find_unhighlighted_content,
     get_latest_date,
+    get_recently_highlighted_links,
     parse_highlights,
     trim_highlights,
     update_highlight_tweet,
@@ -11,17 +13,21 @@ from .manager import (
 from .twitter import (
     TweetResult,
     format_tweet,
-    is_configured as twitter_is_configured,
     post_tweet,
     wikilink_to_url,
+)
+from .twitter import (
+    is_configured as twitter_is_configured,
 )
 
 __all__ = [
     "TweetResult",
     "add_highlight",
     "can_add_today",
+    "find_unhighlighted_content",
     "format_tweet",
     "get_latest_date",
+    "get_recently_highlighted_links",
     "parse_highlights",
     "post_tweet",
     "trim_highlights",

@@ -26,7 +26,7 @@ This is the task queue for AI automation. The human reviews and prioritizes task
 - **Veto**: Add `#veto` anywhere in the task heading (e.g., `### P2: Task name #veto`)
 - **Add reason**: Optionally add `- **Veto reason**: [why]` before vetoing
 
-Vetoed items are moved automatically to the Vetoed Tasks section on the next `/evolve` run.
+Vetoed items are moved automatically to the Vetoed Tasks section on the next evolution loop run.
 
 ## Priority Levels
 

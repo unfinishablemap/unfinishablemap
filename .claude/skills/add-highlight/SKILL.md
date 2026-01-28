@@ -156,6 +156,23 @@ The `--tweet` flag triggers the full chain: **add → commit → push → wait f
 | deep-review | insight |
 | coalesce | new-article |
 | apex-evolve | new-article |
+| backlog | (infer from content - see below) |
+
+### Handling backlog content
+
+When invoked with `--from-task 'backlog: obsidian/path/to/file.md'`, this means we're highlighting existing content that hasn't been featured in the last 90 days. This is NOT necessarily new work—it's content worth sharing that hasn't had recent attention.
+
+1. **Read the file** at the given path
+2. **Determine highlight type** from the file's directory:
+   - `obsidian/topics/` → new-article (even if old, it's an article)
+   - `obsidian/concepts/` → new-article
+   - `obsidian/apex/` → new-article
+   - `obsidian/voids/` → insight (these explore cognitive limits)
+3. **Compose an engaging highlight**:
+   - The title and description should present the content as interesting/worth reading
+   - Don't frame it as "new" if it's older content—just make it sound appealing
+   - Focus on the most compelling aspect of the article
+4. **Call the CLI** with appropriate flags
 
 ## Important
 

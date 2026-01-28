@@ -1,9 +1,9 @@
 ---
 title: Workflow System
 created: 2026-01-05
-modified: 2026-01-10
+modified: 2026-01-28
 human_modified: 2026-01-05
-ai_modified: 2026-01-25T21:58:06+00:00
+ai_modified: 2026-01-28T12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -34,9 +34,10 @@ Skills are invoked via the Claude CLI using stream-json format, which allows pro
 
 ### Orchestration
 
+The evolution loop (`scripts/evolve_loop.py`) is the main orchestrator. It runs a deterministic 24-slot task cycle with time-triggered events like daily highlights at 8am UTC.
+
 | Skill | Purpose | Modifies Content? |
 |-------|---------|-------------------|
-| `/evolve [mode]` | Main orchestrator—selects and executes tasks based on priority and staleness | Yes (runs other skills) |
 | `/replenish-queue [mode]` | Auto-generate tasks when queue is empty or near-empty | Yes (todo.md only) |
 | `/tune-system` | Monthly meta-review—analyze system operation, adjust cadences/thresholds | Yes (state, minor) |
 
@@ -70,7 +71,7 @@ Skills are invoked via the Claude CLI using stream-json format, which allows pro
 
 | Skill | Purpose | Modifies Content? |
 |-------|---------|-------------------|
-| `/add-highlight [topic]` | Add item to [[highlights\|What's New]] page (max 1/day) | Yes (highlights.md) |
+| `/add-highlight [topic]` | Add item to [[highlights\|What's New]] page (max 1/day). Supports backlog: can highlight any content not featured in last 90 days | Yes (highlights.md) |
 
 ### Internal (Automation Only)
 
@@ -89,7 +90,7 @@ This replaces the previous generic commit messages like `auto(deep-review): Auto
 
 ## Queue Replenishment
 
-The task queue in [[todo]] auto-replenishes when active tasks (P0-P2) drop below 3. `/evolve` triggers `/replenish-queue` automatically as its first step.
+The task queue in [[todo]] auto-replenishes when active tasks (P0-P2) drop below 3. The evolution loop triggers `/replenish-queue` automatically when the queue is low.
 
 ### Task Types and Chains
 
@@ -160,32 +161,29 @@ Creates report at `reviews/system-tune-YYYY-MM-DD.md` documenting findings, chan
 
 ## Running Workflows
 
-### From Command Line
+### Evolution Loop
+
+The evolution loop runs continuously, executing tasks on a 24-slot cycle:
 
 ```bash
-# Run a skill
-uv run python scripts/run_workflow.py validate-all
+# Run evolution loop (Ctrl+C to stop)
+python scripts/evolve_loop.py --interval 2400
 
-# Dry run (see what would happen)
-uv run python scripts/run_workflow.py evolve --dry-run
+# Describe the task cycle
+python scripts/evolve_loop.py --describe-cycle
+
+# Test with limited iterations
+python scripts/evolve_loop.py --max-iterations 5
+```
+
+### Individual Skills
+
+```bash
+# Run a skill manually
+uv run python scripts/run_workflow.py validate-all
 
 # Run with more turns for complex tasks
 uv run python scripts/run_workflow.py expand-topic --max-turns 30
-
-# Run and commit changes
-uv run python scripts/run_workflow.py evolve --commit
-```
-
-### From PowerShell Scripts
-
-The scheduled scripts in `scripts/scheduled/` call the workflow executor:
-
-```powershell
-# Daily validation
-.\scripts\scheduled\daily.ps1
-
-# Weekly tasks
-.\scripts\scheduled\weekly.ps1 -Task evolve
 ```
 
 ## Execution Format

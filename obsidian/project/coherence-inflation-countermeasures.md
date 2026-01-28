@@ -1,9 +1,9 @@
 ---
 title: "Coherence Inflation Countermeasures"
 created: 2026-01-16
-modified: 2026-01-16
+modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-16T15:30:00+00:00
+ai_modified: 2026-01-28T12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -216,7 +216,7 @@ The evolution system already tracks `last_deep_review` in frontmatter. Extend th
 
 - Articles in fast-moving fields should have research sources dated
 - `/validate-all` should flag articles where the most recent citation is older than threshold
-- `/evolve` should prioritize updating stale content
+- The evolution loop should prioritize updating stale content
 
 ## Countermeasure 7: Explicit Uncertainty Propagation
 
@@ -259,7 +259,7 @@ Track these metrics across evolution sessions:
 
 ### Reporting
 
-The `/evolve` skill should periodically (monthly) generate a coherence health report including these metrics.
+The `/tune-system` skill should periodically (monthly) generate a coherence health report including these metrics.
 
 ## Relation to Site Perspective
 

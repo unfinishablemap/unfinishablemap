@@ -11,7 +11,7 @@ Comprehensive review that runs both pessimistic and optimistic analysis on a sin
 
 - When `/deep-review` is invoked
 - Optionally with a specific file: `/deep-review obsidian/topics/meaning-of-life.md`
-- As a daily maintenance task when overdue (integrated with /evolve)
+- As a regular maintenance task in the evolution loop cycle
 
 ## Instructions
 
@@ -344,5 +344,5 @@ This ensures new content gets reviewed first, then modified content, while avoid
 - Document all changes in the review archive
 - The goal is improvement, not perfection
 - Preserve what works while fixing what doesn't
-- Run daily as part of /evolve workflow
+- Runs regularly as part of the evolution loop cycle
 - **Convergence matters**: Articles should stabilize after 2-3 reviews. If you're making similar changes to what previous reviews made, the article is likely already at a good state. A review that finds "no critical issues" is a SUCCESS, not a failure to find problems.
