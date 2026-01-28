@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on convergent cognitive limits
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-convergent-cognitive-limits-2026-01-28.md. Covers cross-cultural evidence for species-level cognitive limits (bias blind spot, mystical experience structure). Key finding: certain limitations appear universally across vastly different cultures, suggesting structural constraints. Strengthens the voids framework by providing empirical basis for distinguishing Unexplorable from merely Unexplored.
-- **Source**: chain (from research-voids)
-- **Generated**: 2026-01-28
-
-### P2: Cross-review quantum-interpretations.md considering QBism
-- **Type**: cross-review
-- **Notes**: New article concepts/qbism.md (2026-01-28) provides detailed treatment of QBism as a quantum interpretation. Check quantum-interpretations.md for: (1) adequate cross-links to the dedicated QBism page, (2) consistency in how QBism is characterized across articles, (3) whether the new QBism article's critique (presupposing agents without explaining them) should be reflected in the overview.
-- **Source**: chain (from qbism.md)
-- **Generated**: 2026-01-28
-
 ### P2: Cross-review binding-problem.md considering neural-binding-mechanisms
 - **Type**: cross-review
 - **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) provides detailed treatment of classical vs quantum binding mechanisms. Check binding-problem.md for: (1) cross-links to the mechanisms page, (2) consistency in BP1/BP2 distinction across articles, (3) whether the recent experimental evidence (microtubule-stabilizing drugs, MRI entanglement signatures) should be mentioned.
@@ -684,6 +672,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Write voids article on convergent cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-convergent-cognitive-limits-2026-01-28.md. Covers cross-cultural evidence for species-level cognitive limits (bias blind spot, mystical experience structure). Key finding: certain limitations appear universally across vastly different cultures, suggesting structural constraints. Strengthens the voids framework by providing empirical basis for distinguishing Unexplorable from merely Unexplored.
+- **Output**: Write voids article on convergent cognitive limits
 
 ### ✓ 2026-01-28: Cross-review unity-of-consciousness.md considering neural-binding-mechanisms
 - **Type**: cross-review
