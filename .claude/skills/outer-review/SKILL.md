@@ -156,9 +156,12 @@ For high-value findings, create tasks in `obsidian/workflow/todo.md`:
 ### P1: [Specific issue from outer review]
 - **Type**: [research-topic | expand-topic | refine-draft | cross-review]
 - **Notes**: From outer review YYYY-MM-DD. [Brief description of the issue and why it matters]
+- **Review file**: `reviews/outer-review-YYYY-MM-DD-[slug].md`
 - **Source**: outer-review
 - **Generated**: YYYY-MM-DD
 ```
+
+**Important**: Always include the `Review file` field with the path to the outer review. This allows the refine-draft skill to read the full context and verification notes when addressing the issue.
 
 Priority guidance:
 - **P1**: Logical errors, internal contradictions, unaddressed strong objections
