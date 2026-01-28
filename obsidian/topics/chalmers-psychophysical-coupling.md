@@ -4,7 +4,7 @@ description: "David Chalmers' framework for bridging consciousness and physics t
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-01-27T17:00:00+00:00
+ai_modified: 2026-01-28T18:27:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -88,7 +88,7 @@ The [[psychophysical-coupling-law]] page develops what downward selection laws m
 
 ## Five Constraints on Dualist Laws
 
-In "Consciousness and the Collapse of the Wave Function" (2022), Chalmers and Kelvin McQueen identify five constraints any dualist psychophysical law must satisfy:
+Bradford Saad's "A dualist theory of experience" (2025) provides a useful framework for evaluating any dualist psychophysical law. Saad identifies five constraints such laws must satisfy:
 
 1. **Experiences must cause physical effects.** This is the minimal requirement for avoiding epiphenomenalism—mental states must make some causal difference.
 
@@ -100,7 +100,7 @@ In "Consciousness and the Collapse of the Wave Function" (2022), Chalmers and Ke
 
 5. **Ensure functional duplication preserves phenomenology.** This is organisational invariance again: systems with identical functional organisation should have identical experiences.
 
-The quantum framework Chalmers and McQueen develop addresses constraints (1) and (2) elegantly: consciousness causes collapse (satisfying constraint 1) without violating closure (satisfying constraint 2, since collapse is physically underdetermined). Quantum mechanics leaves room for mental causation precisely where physics doesn't determine outcomes.
+These constraints prove useful for evaluating Chalmers and McQueen's quantum framework. Their consciousness-collapse proposal addresses constraints (1) and (2) elegantly: consciousness causes collapse (satisfying constraint 1) without violating closure (satisfying constraint 2, since collapse is physically underdetermined). Quantum mechanics leaves room for mental causation precisely where physics doesn't determine outcomes.
 
 **The Map's position on constraint 5**: As noted above, the Map is skeptical of constraint 5. Organisational invariance may not hold if haecceity matters. The Map would replace constraint 5 with something weaker: "Ensure phenomenology supervenes on at least functional organisation plus whatever additional factors (particular subject, physical substrate, etc.) turn out to matter." This leaves the door open for consciousness to depend on more than abstract pattern.
 
@@ -178,6 +178,19 @@ Chalmers provides the philosophical framework the Map requires. His naturalistic
 1. Chalmers, D.J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2(3), 200-219.
 2. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 3. Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
-4. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
-5. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
-6. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+4. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*. https://doi.org/10.1007/s11098-025-02290-3
+5. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
+6. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
+7. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+
+<!-- AI REFINEMENT LOG - 2026-01-28
+Changes made:
+- Corrected misattribution of "five constraints" framework from Chalmers & McQueen (2022) to Bradford Saad (2025)
+- Added Saad's paper to References section with DOI
+- Adjusted text to clarify the constraints are from Saad's framework, useful for evaluating Chalmers-McQueen's work
+
+Based on outer review by ChatGPT 5.2 Pro (2026-01-28) which verified the attribution error against source materials.
+Key improvement: Accurate scholarly attribution.
+
+This log should be removed after human review.
+-->

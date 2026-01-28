@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 18:27 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/chalmers-psychophysical-coupling.md`
+- **Based on**: Outer review by ChatGPT 5.2 Pro (2026-01-28)
+- **Changes**:
+  - Corrected "five constraints" attribution from Chalmers & McQueen (2022) to Bradford Saad (2025)
+  - Added Saad citation to References section
+- **Published**: yes
+
 ## 2026-01-28 22:30 UTC - outer-review
 
 - **Status**: Success
