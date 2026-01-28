@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-27 22:40:36+00:00
+ai_modified: 2026-01-28 12:17:25+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -49,6 +49,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
+
+### P3: Cross-review global-workspace-theory.md considering IIT critique
+- **Type**: cross-review
+- **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) provides detailed critique of IIT from the Map's interactionist perspective. Global Workspace Theory is often compared to IIT. Check global-workspace-theory.md for: (1) cross-links to IIT critique, (2) whether GWT avoids the passivity objection raised against IIT, (3) opportunities to clarify how both theories handle consciousness's causal role.
+- **Source**: chain (from integrated-information-theory-critique.md)
+- **Generated**: 2026-01-28
+
+### P3: Cross-review panpsychism.md considering IIT critique
+- **Type**: cross-review
+- **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) discusses IIT's panpsychist implications (expander graphs, ubiquitous consciousness). Check panpsychism.md for: (1) cross-links to the IIT critique's treatment of panpsychism, (2) whether the combination problem is connected to IIT's mathematical framework, (3) consistency between the two articles on panpsychism's relationship to interactionism.
+- **Source**: chain (from integrated-information-theory-critique.md)
+- **Generated**: 2026-01-28
+
+### P3: Deep review temporal-asymmetry-remembering-anticipating.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the asymmetry between remembering (re-experiencing the past) and anticipating (only imagining the future). Pre-experience appears structurally impossible. Should verify: (1) accuracy of causal trace arguments, (2) connection to duration.md and temporal-consciousness.md, (3) alignment with voids framework, (4) engagement with philosophical literature on temporal phenomenology.
+- **Source**: staleness
+- **Generated**: 2026-01-28
+
+### P3: Cross-review functionalism.md considering IIT critique
+- **Type**: cross-review
+- **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) argues IIT is epiphenomenalism by another name. Functionalism also faces questions about consciousness's causal role. Check functionalism.md for: (1) cross-links to IIT critique, (2) whether functionalism handles the passivity objection differently than IIT, (3) connection between the expander graph problem and multiple realizability.
+- **Source**: chain (from integrated-information-theory-critique.md)
+- **Generated**: 2026-01-28
 
 ### P3: Cross-review haecceity.md considering indexical-facts.md
 - **Type**: cross-review
@@ -595,6 +619,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review hard-problem-of-consciousness.md considering IIT critique
+- **Type**: cross-review
+- **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) argues IIT renders consciousness passive despite mathematical sophistication. Check hard-problem-of-consciousness.md for: (1) cross-links to the new critique, (2) whether IIT's approach to the hard problem is adequately addressed, (3) consistency with the critique's argument that IIT trades explanation for assertion.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering IIT critique
 
 ### ✓ 2026-01-28: Cross-review epiphenomenalism.md considering contemplative evidence
 - **Type**: cross-review
