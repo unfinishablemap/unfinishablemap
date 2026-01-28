@@ -17,6 +17,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 13:00 UTC - apex-evolve
+
+- **Status**: Complete
+- **Article**: The Ground of Meaning (`apex/ground-of-meaning.md`)
+- **Changed sources**: 2 (consciousness-as-amplifier, baseline-cognition)
+- **Word count**: ~3,400 → ~3,700
+- **Key improvements**:
+  - Added "Three Senses of Consciousness" section distinguishing phenomenal/access/executive
+  - Integrated 2025 Randeniya meta-analysis on unconscious processing limits
+  - Added three consciousness-requiring functions framework
+  - Incorporated social cognition evidence on phenomenal binding
+  - Addressed Frankish quasi-phenomenal objection
+  - Corrected apex_sources paths
+- **Review**: `reviews/apex-evolve-2026-01-28-ground-of-meaning.md`
+
 ## 2026-01-28 12:50 UTC - check-tenets
 
 - **Status**: Success
