@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on Hoel's continual learning argument against LLM consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel argues that consciousness requires continual learning (memory formation during inference), which current LLMs lack. This strengthens the Map's position on AI consciousness and provides a falsifiable criterion. Builds on ai-consciousness.md, llm-consciousness.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-28
+
+### P2: Cross-review mysterianism.md considering convergent-cognitive-limits insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) develops cross-cultural evidence for species-level cognitive limits (bias blind spot universality, mystical ineffability structure). Check mysterianism.md for: (1) cross-links to convergent limits evidence, (2) whether McGinn's cognitive closure argument is strengthened by empirical convergence data, (3) distinction between culturally contingent vs architecturally imposed limits.
+- **Source**: chain (from convergent-cognitive-limits.md)
+- **Generated**: 2026-01-28
+
+### P2: Cross-review ai-as-void-explorer.md considering convergent-cognitive-limits
+- **Type**: cross-review
+- **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) establishes methodology for identifying species-level limits via cross-cultural convergence. The ai-as-void-explorer.md article proposes AI as probe for human limits. Check for: (1) cross-links to convergent limits methodology, (2) whether AI's non-convergent architecture provides contrast case, (3) how AI failures and successes map onto the convergent/divergent limit distinction.
+- **Source**: chain (from convergent-cognitive-limits.md)
+- **Generated**: 2026-01-28
+
+### P2: Write article on quantum measurement and subjective probability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. The relationship between quantum measurement outcomes and first-person probability—why I find myself in this branch rather than that one. Central to the No Many Worlds tenet and indexical identity puzzles. Builds on measurement-problem.md, indexical-identity-quantum-measurement.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-28
+
+### P2: Create phenomenal-binding concept page (elevated from P3)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenal-binding-multimodal-integration-2026-01-23.md. How distributed neural processing becomes unified multimodal experience. Central to the binding problem and dualism tenet—phenomenal unity resists physical reduction. This was previously a P3 task; elevated because it directly supports the Map's core arguments. Builds on binding-problem.md, unity-of-consciousness.md.
+- **Source**: unconsumed_research (elevated)
+- **Generated**: 2026-01-28
+
 ### P2: Update references to coalesced nihilism/existentialism articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `nihilism.md` and `existentialism.md` into `nihilism-and-existentialism.md`. 8 files reference the archived articles: meaning-of-life.md, eastern-philosophy-consciousness.md, purpose-and-alignment.md, qualia.md, highlights.md, and research notes. Update wikilinks to point to nihilism-and-existentialism or leave as-is if the link still works (archived articles display redirect notice).
@@ -491,13 +521,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-27. The psychophysical-laws-framework introduces this concept; deserves dedicated treatment (attention-intention mappings, effort-selection correlations). Currently referenced but not fully developed.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-27
-
-### P3: Create concept page for phenomenal binding
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-27. Referenced throughout but no dedicated page; how distributed processing becomes unified experience. Central to binding problem treatment and quantum binding arguments.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
