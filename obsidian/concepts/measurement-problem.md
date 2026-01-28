@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-27T23:00:00+00:00
+ai_modified: 2026-01-28T16:16:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ concepts:
   - "[[qualia]]"
   - "[[spontaneous-collapse-theories]]"
   - "[[free-will]]"
+  - "[[qbism]]"
 related_articles:
   - "[[tenets]]"
   - "[[indexical-identity-quantum-measurement]]"
@@ -37,7 +38,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-27T06:49:39+00:00
+last_deep_review: 2026-01-28T16:16:15+00:00
 ---
 
 The measurement problem is the central foundational puzzle in quantum mechanics—and it creates the logical opening for consciousness to play a role in physics. Quantum systems evolve deterministically according to the Schrödinger equation, forming superpositions of all possible states. Yet measurement yields a single, definite outcome. What causes this transition? The mathematics doesn't say. As J.S. Bell framed it: "Either the wavefunction...is not everything, or it is not right."
@@ -79,12 +80,12 @@ Functionalists contest this, holding that "why am I this one?" confuses indexica
 The functionalist can insist no such fact exists beyond functional states, but this denies the explanandum rather than explaining it. The strategy generalizes: if "why am I this one?" collapses into convention, "why does this hurt?" faces the same move. Both concern facts about subjective experience.
 
 This reveals a gap across major interpretations:
-- **QBism** treats probabilities as subjective beliefs, bracketing why consciousness has determinate content
+- **[[qbism|QBism]]** dissolves the measurement problem by treating quantum states as subjective beliefs—"collapse" becomes belief-updating. Yet QBism centres agents who must have determinate experiences to form beliefs; it presupposes rather than explains why consciousness has first-person content
 - **Consciousness-collapse** explains how collapse happens but not why *this* consciousness exists
 - **Relational QM** treats any physical system as "observer," leaving first-person perspective outside
 - **Many-Worlds** makes every outcome equally real yet requires explaining which branch "I" occupy
 
-[[Haecceity]]—"thisness"—names what needs explaining. Two functionally identical minds would be numerically distinct; something makes one *mine*. Whether haecceity is primitive (explanatorily basic), derivative (grounded in something further), or merely conventional (an empty imputation, as Buddhist philosophy might argue) remains open. The Map takes no position on haecceity's ultimate nature—only that the phenomenon of being *this* particular subject, whatever its metaphysical status, is what any complete account must address. If consciousness participates in collapse, it does so *as* the particularity of a subject—determining which outcome is actual *for this consciousness* without requiring consciousness to cause collapse universally.
+[[Haecceity]]—"thisness"—names what needs explaining. Two functionally identical minds would be numerically distinct; something makes one *mine*. Whether haecceity is primitive, derivative, or merely conventional (as Buddhist philosophy might argue) remains open. The Map takes no position on haecceity's ultimate nature—only that the phenomenon of being *this* particular subject is what any complete account must address. If consciousness participates in collapse, it does so *as* the particularity of a subject—determining which outcome is actual *for this consciousness*.
 
 ## Why Decoherence Doesn't Solve It
 

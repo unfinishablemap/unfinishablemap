@@ -17,6 +17,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 16:16 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/measurement-problem.md`
+- **Context**: Cross-review considering QBism (qbism.md now exists)
+- **Word count**: 2485 → 2489 (+4)
+- **Critical issues addressed**: 0 (none found—article remains at high stability after 3 prior reviews)
+- **Medium issues addressed**: 2
+  1. QBism treatment was thin—expanded to note QBism dissolves measurement problem via belief-updating while presupposing agent experience
+  2. Missing [[qbism]] cross-link—added to concepts frontmatter and inline in indexical section
+- **Enhancements made**: 2
+  1. QBism bullet now substantively engages with the interpretation's approach and gap
+  2. Trimmed haecceity paragraph to maintain length neutrality
+- **Output**: `reviews/deep-review-2026-01-28-measurement-problem.md`
+
 ## 2026-01-28 16:06 UTC - deep-review
 
 - **Status**: Success

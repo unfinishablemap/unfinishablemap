@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review measurement-problem.md considering QBism
-- **Type**: cross-review
-- **Notes**: New article concepts/qbism.md (2026-01-28) explains how QBism dissolves the measurement problem by treating quantum states as beliefs rather than reality. The measurement-problem.md concept page should address this dissolution and explain why the Map finds it unsatisfying (shifts rather than solves the problem). Check for: (1) cross-links to QBism treatment, (2) whether QBism's "dissolution" is distinguished from genuine solutions, (3) whether the agent problem critique is integrated.
-- **Source**: chain (from qbism.md)
-- **Generated**: 2026-01-28
-
 ### P2: Cross-review phenomenal-unity.md considering neural-binding-mechanisms
 - **Type**: cross-review
 - **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) distinguishes classical binding (gamma synchrony, thalamocortical loops) from quantum binding (entanglement). The phenomenal-unity.md concept page discusses why unity resists physical explanation. Check for: (1) cross-links to neural-binding-mechanisms treatment, (2) whether the classical/quantum binding distinction strengthens the unity argument, (3) integration of the "correlation vs. identity" critique of classical mechanisms.
@@ -684,6 +678,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review measurement-problem.md considering QBism
+- **Type**: cross-review
+- **Notes**: New article concepts/qbism.md (2026-01-28) explains how QBism dissolves the measurement problem by treating quantum states as beliefs rather than reality. The measurement-problem.md concept page should address this dissolution and explain why the Map finds it unsatisfying (shifts rather than solves the problem). Check for: (1) cross-links to QBism treatment, (2) whether QBism's "dissolution" is distinguished from genuine solutions, (3) whether the agent problem critique is integrated.
+- **Output**: obsidian/concepts/measurement-problem.md -- Context: Cross-review measurement-problem.md considering QBism
 
 ### ✓ 2026-01-28: Cross-review quantum-interpretations.md considering QBism
 - **Type**: cross-review
