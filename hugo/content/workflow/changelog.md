@@ -18,6 +18,25 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 11:27 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/epiphenomenalism.md`
+- **Word count**: 2562 → 2542 (-20 words)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-reference to new contemplative evidence article)
+- **Enhancements made**: 3 (frontmatter link, Further Reading entry, body text reference with therapeutic efficacy argument)
+- **Cross-review context**: contemplative-evidence-for-consciousness-theories.md
+- **Output**: `reviews/deep-review-2026-01-28-epiphenomenalism.md`
+
+## 2026-01-27 23:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: The Other Minds Void
+- **Output**: `voids/other-minds-void.md`
+- **Word count**: 1942
+- **Based on research**: Yes, `research/voids-other-minds-void-2026-01-27.md`
+
 ## 2026-01-27 - expand-topic
 
 - **Status**: Success
