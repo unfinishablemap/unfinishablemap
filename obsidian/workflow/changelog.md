@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 12:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: QBism (Quantum Bayesianism)
+- **Output**: `concepts/qbism.md`
+- **Word count**: 1610
+- **Based on research**: No (general knowledge)
+- **Content**: Concept page covering QBism's core claims (quantum states as beliefs, subjective probabilities, measurement as belief-updating), the agent problem (presupposes experiencing subjects without explaining them), comparison with other interpretations, and detailed tenet alignment. QBism centers the agent yet leaves consciousness unexplained—a gap the Map addresses.
+
 ## 2026-01-28 15:05 UTC - deep-review
 
 - **Status**: Success

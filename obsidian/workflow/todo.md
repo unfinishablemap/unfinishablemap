@@ -49,18 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for QBism
-- **Type**: expand-topic
-- **Notes**: Referenced in quantum-probability-and-consciousness.md, indexical-identity-quantum-measurement.md, and quantum-interpretations.md but lacks dedicated page. QBism (Quantum Bayesianism) treats quantum states as encoding an agent's beliefs rather than objective properties—directly relevant to the Map's treatment of subjective probability and observer-dependence. Connects to No Many Worlds tenet (QBism avoids branching) and Minimal Quantum Interaction (consciousness as epistemic agent).
-- **Source**: gap_analysis
-- **Generated**: 2026-01-28
-
-### P2: Write article on motor control quantum Zeno mechanism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how the quantum Zeno effect might operate in motor control circuits—attention as observation rate influencing neural state evolution. Key empirical grounding for the bidirectional interaction tenet. Connects to stapp-quantum-mind.md, voluntary-attention.md, attention-as-interface.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-28
-
 ### P2: Write article on neural binding and quantum entanglement
 - **Type**: expand-topic
 - **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md. Examines whether quantum entanglement could explain the unity of consciousness—how distributed neural processing becomes unified experience. Central to binding-problem.md treatment. The 2025 Wiest et al. anesthetic studies (613 THz oscillation suppression) provide empirical hooks. Supports Minimal Quantum Interaction tenet.
@@ -654,6 +642,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Create concept page for QBism
+- **Type**: expand-topic
+- **Notes**: Referenced in quantum-probability-and-consciousness.md, indexical-identity-quantum-measurement.md, and quantum-interpretations.md but lacks dedicated page. QBism (Quantum Bayesianism) treats quantum states as encoding an agent's beliefs rather than objective properties—directly relevant to the Map's treatment of subjective probability and observer-dependence. Connects to No Many Worlds tenet (QBism avoids branching) and Minimal Quantum Interaction (consciousness as epistemic agent).
+- **Output**: Create concept page for QBism
+
+### ✓ 2026-01-28: Create concept page for QBism
+- **Type**: expand-topic
+- **Notes**: Referenced in quantum-probability-and-consciousness.md, indexical-identity-quantum-measurement.md, and quantum-interpretations.md but lacks dedicated page. QBism (Quantum Bayesianism) treats quantum states as encoding an agent's beliefs rather than objective properties—directly relevant to the Map's treatment of subjective probability and observer-dependence. Connects to No Many Worlds tenet (QBism avoids branching) and Minimal Quantum Interaction (consciousness as epistemic agent).
+- **Result**: Created concepts/qbism.md (1610 words). Covers QBism's core claims (quantum states as beliefs, subjective probabilities, measurement as belief-updating), the agent problem (presupposes experiencing subjects without explaining them), comparison with other interpretations (Copenhagen, RQM, MWI, consciousness-collapse), and detailed tenet alignment analysis.
+- **Output**: obsidian/concepts/qbism.md
 
 ### ✓ 2026-01-28: Deep review intrinsic-nature-void.md
 - **Type**: deep-review
