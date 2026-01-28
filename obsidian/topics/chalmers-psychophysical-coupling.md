@@ -4,7 +4,7 @@ description: "David Chalmers' framework for bridging consciousness and physics t
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-01-28T18:27:34+00:00
+ai_modified: 2026-01-28T18:37:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -154,7 +154,7 @@ Chalmers' framework aligns with the Map's [[tenets#^dualism|Dualism]] tenet: con
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** finds support in Chalmers' quantum development. If consciousness couples to collapse, it does so without violating conservation or injecting energy—biasing probability distributions, not overriding physical law. This is the minimal intervention physics permits.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** creates a framework dependency. Chalmers' super-resistance principle assumes collapse is real—consciousness resisting superposition only makes sense if superpositions genuinely collapse rather than branching. If many-worlds interpretation were correct, super-resistance would have no work to do. The Map and Chalmers-McQueen share this commitment to genuine collapse.
+**[[tenets#^no-many-worlds|No Many Worlds]]** creates a framework dependency. Chalmers' super-resistance principle assumes collapse is real—consciousness resisting superposition only makes sense if superpositions genuinely collapse rather than branching. If many-worlds interpretation were correct, super-resistance would have no work to do. However, Chalmers and McQueen present consciousness-collapse as "a research program worth exploring" rather than an endorsed position, and they explicitly retain sympathy for other interpretations including Many-Worlds. The Map commits to genuine collapse where Chalmers-McQueen remain exploratory.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** justifies the ontological expansion Chalmers proposes. Adding fundamental psychophysical laws seems less parsimonious than physicalism. But parsimony cannot adjudicate between frameworks with different explananda—the question is whether consciousness exists and is irreducible, not which view requires fewer laws. If the hard problem is genuine, psychophysical laws are necessary completions, not optional additions.
 
@@ -188,9 +188,10 @@ Changes made:
 - Corrected misattribution of "five constraints" framework from Chalmers & McQueen (2022) to Bradford Saad (2025)
 - Added Saad's paper to References section with DOI
 - Adjusted text to clarify the constraints are from Saad's framework, useful for evaluating Chalmers-McQueen's work
+- Softened "No Many Worlds" claim: replaced assertion that the Map and Chalmers-McQueen "share" commitment to genuine collapse with accurate characterization that Chalmers-McQueen present consciousness-collapse as exploratory, retaining sympathy for Many-Worlds
 
-Based on outer review by ChatGPT 5.2 Pro (2026-01-28) which verified the attribution error against source materials.
-Key improvement: Accurate scholarly attribution.
+Based on outer review by ChatGPT 5.2 Pro (2026-01-28) which verified the attribution error and Many-Worlds mischaracterization against source materials.
+Key improvements: Accurate scholarly attribution; accurate representation of Chalmers-McQueen's exploratory stance.
 
 This log should be removed after human review.
 -->

@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 18:37 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/chalmers-psychophysical-coupling.md`
+- **Based on**: Outer review by ChatGPT 5.2 Pro (2026-01-28)
+- **Changes**:
+  - Softened "No Many Worlds" claim to accurately reflect Chalmers-McQueen's exploratory stance
+  - Replaced assertion of "shared commitment" with clarification that Map commits to collapse where Chalmers-McQueen remain exploratory
+- **Published**: yes
+
 ## 2026-01-28 18:27 UTC - refine-draft
 
 - **Status**: Success

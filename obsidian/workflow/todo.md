@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Correct Many-Worlds claim in chalmers-psychophysical-coupling.md
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-01-28. The article claims the Map and Chalmers-McQueen "share" a commitment to genuine collapse, implying they reject Many-Worlds. But Chalmers & McQueen explicitly state they are "exploring" consciousness-collapse models, not endorsing them. The arXiv abstract says "a research program worth exploring." Soften the claim to reflect their exploratory stance.
-- **Review file**: `reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-chatgpt-5-2-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-01-28
-
 ### P2: Soften double-aspect information claim in chalmers-psychophysical-coupling.md
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-01-28. The article states "wherever information exists" it has phenomenal character. But Chalmers uses "information (or at least some information)" and treats "does all information have a phenomenal aspect?" as an open question. Add Chalmers' qualification. **Verified against "Facing Up".**
@@ -693,6 +686,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Correct Many-Worlds claim in chalmers-psychophysical-coupling.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-01-28. The article claims the Map and Chalmers-McQueen "share" a commitment to genuine collapse, implying they reject Many-Worlds. But Chalmers & McQueen explicitly state they are "exploring" consciousness-collapse models, not endorsing them. The arXiv abstract says "a research program worth exploring." Soften the claim to reflect their exploratory stance.
+- **Output**: obsidian/topics/chalmers-psychophysical-coupling.md
+
+Task context:
+From outer review 2026-01-28. The article claims the Map and Chalmers-McQueen "share" a commitment to genuine collapse, implying they reject Many-Worlds. But Chalmers & McQueen explicitly state they are "exploring" consciousness-collapse models, not endorsing them. The arXiv abstract says "a research program worth exploring." Soften the claim to reflect their exploratory stance.
+
+Review file: reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-chatgpt-5-2-pro.md
 
 ### ✓ 2026-01-28: Fix five constraints misattribution in chalmers-psychophysical-coupling.md
 - **Type**: refine-draft
