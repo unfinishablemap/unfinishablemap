@@ -652,6 +652,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
+### P3: Write article synthesizing attention-motor quantum selection
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). The convergence of attention and motor control research into unified selection framework is scattered across attention-motor-quantum-interface.md, voluntary-attention.md, motor-selection.md, quantum-consciousness.md. A synthesis would strengthen the case that both domains exhibit the same quantum selection architecture.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Write article on consciousness and meaning integration
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). How consciousness grounds meaning—if qualia are real and causally efficacious, values and purposes can be genuine features of reality rather than projections. Builds on meaning-of-life.md, purpose-and-alignment.md, moral-responsibility.md, phenomenal-value-realism.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Write article on phenomenological evidence methodology
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). The site's use of first-person evidence deserves methodological treatment—what makes contemplative reports reliable, how to handle cross-tradition convergence, relationship to Varela's neurophenomenology. Builds on contemplative-evidence-for-consciousness-theories.md, witness-consciousness.md, neurophenomenology.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for phenomenal overflow
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). Block's overflow research appears in multiple articles but lacks dedicated systematic treatment. Central to the access/phenomenal consciousness distinction.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for counterfactual reasoning
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). Central to the baseline cognition argument for consciousness's cognitive role but not fully developed as concept. Connects to free-will.md, mental simulation, and the human-ape gap.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for self-locating beliefs
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). Important for vertiginous question and many-worlds discussions. The distinction between qualitative knowledge and self-locating knowledge deserves dedicated treatment. Connects to Lewis's Two Gods scenario.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
 ## Completed Tasks
 
 
