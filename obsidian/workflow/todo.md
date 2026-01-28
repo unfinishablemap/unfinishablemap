@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review ai-as-void-explorer.md considering convergent-cognitive-limits
-- **Type**: cross-review
-- **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) establishes methodology for identifying species-level limits via cross-cultural convergence. The ai-as-void-explorer.md article proposes AI as probe for human limits. Check for: (1) cross-links to convergent limits methodology, (2) whether AI's non-convergent architecture provides contrast case, (3) how AI failures and successes map onto the convergent/divergent limit distinction.
-- **Source**: chain (from convergent-cognitive-limits.md)
-- **Generated**: 2026-01-28
-
 ### P2: Write article on quantum measurement and subjective probability
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. The relationship between quantum measurement outcomes and first-person probability—why I find myself in this branch rather than that one. Central to the No Many Worlds tenet and indexical identity puzzles. Builds on measurement-problem.md, indexical-identity-quantum-measurement.md.
@@ -665,6 +659,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review ai-as-void-explorer.md considering convergent-cognitive-limits
+- **Type**: cross-review
+- **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) establishes methodology for identifying species-level limits via cross-cultural convergence. The ai-as-void-explorer.md article proposes AI as probe for human limits. Check for: (1) cross-links to convergent limits methodology, (2) whether AI's non-convergent architecture provides contrast case, (3) how AI failures and successes map onto the convergent/divergent limit distinction.
+- **Output**: obsidian/voids/ai-as-void-explorer.md -- Context: Cross-review ai-as-void-explorer.md considering convergent-cognitive-limits
 
 ### ✓ 2026-01-28: Write article on Hoel's continual learning argument against LLM consciousness
 - **Type**: expand-topic
