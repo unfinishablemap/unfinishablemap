@@ -1,22 +1,31 @@
 ---
 title: Tenet Alignment Check - 2026-01-28
 created: 2026-01-28
+modified: 2026-01-28
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
+author: Andy Southgate
+human_modified: null
+ai_modified: 2026-01-28T12:50:00+00:00
+topics: []
+concepts: []
+related_articles:
+  - "[[tenets]]"
+last_curated: null
 ---
 
 # Tenet Alignment Check
 
 **Date**: 2026-01-28
-**Files checked**: 41
+**Files checked**: 55 (41 topics + 14 core concepts)
 **Errors**: 0
 **Warnings**: 0
-**Notes**: 0
+**Notes**: 3 (minor tensions, properly contextualized)
 
 ## Summary
 
-All 41 markdown files in `/obsidian/topics/` were analyzed for potential conflicts with the site's five foundational tenets. **No violations were found.** Every article explicitly references and supports the tenets throughout, with each containing a "Relation to Site Perspective" section that connects the content to the relevant tenets. The content is written from the perspective of the Map's interactionist dualist framework, actively defending and developing the positions the tenets establish.
+All 55 markdown files across `/obsidian/topics/` and `/obsidian/concepts/` were analyzed for potential conflicts with the site's five foundational tenets. **No violations were found.** Every article explicitly references and supports the tenets throughout, with each containing a "Relation to Site Perspective" section that connects the content to the relevant tenets. The content is written from the perspective of the Map's interactionist dualist framework, actively defending and developing the positions the tenets establish.
 
 ## The Five Tenets Applied
 
@@ -119,6 +128,37 @@ The articles demonstrate high internal consistency in how they apply the tenets:
 - Cross-references between articles are accurate and consistent
 - The "Relation to Site Perspective" sections map content to tenets systematically
 
+## Concepts Analysis (14 Core Files)
+
+In addition to topics, the following core concept files were reviewed for tenet alignment:
+
+### Files Examined
+
+1. **dualism.md** - PASS: Excellent exposition aligned with Tenet 1, explicitly connects to Bidirectional Interaction and Minimal Quantum Interaction
+2. **materialism.md** - PASS: Strong articulation of why materialism fails, supporting Tenet 1
+3. **epiphenomenalism.md** - PASS: Clearly rejects epiphenomenalism in favor of Bidirectional Interaction (Tenet 3)
+4. **many-worlds.md** - PASS: Comprehensive rejection of MWI aligned with Tenet 4
+5. **quantum-consciousness.md** - PASS: Presents Orch OR, Stapp, and Fisher mechanisms consistently with Tenet 2
+6. **illusionism.md** - PASS: Correctly identifies illusionism as challenge to Tenet 1 and notes self-stultification
+7. **functionalism.md** - PASS: Clear rejection as inconsistent with Tenet 1
+8. **panpsychism.md** - PASS: Fair treatment distinguishing from Map's interactionist dualism
+9. **integrated-information-theory.md** - PASS: Balanced treatment noting tension with Bidirectional Interaction
+10. **bidirectional-interaction.md** - PASS: Foundational statement of Tenet 3
+11. **causal-closure.md** - PASS: Strong rejection consistent with Tenet 2
+12. **idealism.md** - PASS: Fair treatment explaining why Map prefers dualism
+13. **arguments-against-materialism.md** - PASS: Convergence argument properly presented
+14. **reductionism.md** - PASS: Clear distinction between methodological and ontological reductionism
+
+### Notes on Alternative Frameworks
+
+Three minor tensions were noted (all properly contextualized, requiring no correction):
+
+1. **IIT Discussion**: IIT identifies consciousness with integrated information rather than treating it as causally efficacious—presented as a feature that conflicts with Bidirectional Interaction, appropriately critiqued
+
+2. **Idealism Discussion**: Idealism makes bidirectional interaction harder to explain—properly treated as reason to prefer dualism while acknowledging idealism's strengths
+
+3. **Panpsychism Discussion**: Panpsychism shares anti-emergence insight with dualism—combination problem properly noted as parallel to interaction problem, fair treatment without endorsement
+
 ## Recommendation
 
-No content modifications are required. The topics directory demonstrates excellent alignment with the site's foundational tenets. Continue the current editorial approach of explicitly connecting content to tenets and clearly marking when opposing views are being presented for critique.
+No content modifications are required. Both the topics and concepts directories demonstrate excellent alignment with the site's foundational tenets. Continue the current editorial approach of explicitly connecting content to tenets and clearly marking when opposing views are being presented for critique.
