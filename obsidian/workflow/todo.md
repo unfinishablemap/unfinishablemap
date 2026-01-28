@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review free-will.md considering motor-selection insights
-- **Type**: cross-review
-- **Notes**: New article concepts/motor-selection.md (2026-01-28) provides detailed neuroscientific evidence for quantum Zeno selection in motor control (Desmurget dissociation, frontal theta, basal ganglia brake-release). The free-will.md article discusses quantum selection abstractly; should explicitly reference motor selection as concrete instantiation. Check for: (1) cross-links to motor-selection, (2) whether neuroscientific evidence strengthens libertarian case, (3) connection between voluntary attention and motor output.
-- **Source**: chain (from motor-selection.md)
-- **Generated**: 2026-01-28
-
 ### P2: Cross-review ai-consciousness.md considering continual-learning-argument insights
 - **Type**: cross-review
 - **Notes**: Article concepts/continual-learning-argument.md (2026-01-28) develops Hoel's criterion: consciousness requires continual learning (memory formation during inference). Current LLMs lack this. Check ai-consciousness.md for: (1) cross-links to the formal criterion, (2) whether the proximity-to-lookup-table argument strengthens existing position, (3) adding the falsifiable test conditions.
@@ -743,6 +737,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review free-will.md considering motor-selection insights
+- **Type**: cross-review
+- **Notes**: New article concepts/motor-selection.md (2026-01-28) provides detailed neuroscientific evidence for quantum Zeno selection in motor control (Desmurget dissociation, frontal theta, basal ganglia brake-release). The free-will.md article discusses quantum selection abstractly; should explicitly reference motor selection as concrete instantiation. Check for: (1) cross-links to motor-selection, (2) whether neuroscientific evidence strengthens libertarian case, (3) connection between voluntary attention and motor output.
+- **Output**: obsidian/topics/free-will.md -- Context: Cross-review free-will.md considering motor-selection insights
 
 ### ✓ 2026-01-28: Write article on quantum measurement and subjective probability
 - **Type**: expand-topic

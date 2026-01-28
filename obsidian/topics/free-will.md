@@ -2,10 +2,10 @@
 title: "Free Will and Determinism"
 description: "Can we genuinely author our choices? The Map defends libertarian free will: consciousness influences physical outcomes through quantum-level selection."
 created: 2026-01-08
-modified: 2026-01-25
+modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-27T23:30:00+00:00
-last_deep_review: 2026-01-27T23:30:00+00:00
+ai_modified: 2026-01-28T20:29:26+00:00
+last_deep_review: 2026-01-28T20:29:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ Bergson's [[duration|durée]] offers additional resources: if mental states inte
 
 [[libet-experiments|Libet's experiments]] found that neural "readiness potentials" precede conscious awareness of deciding to move. The implication seems devastating: if neural activity "decides" before awareness, isn't consciousness merely an epiphenomenal spectator?
 
-But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation—participants act when random fluctuations cross a threshold. Libet himself argued consciousness retains "veto power" to cancel prepared actions. The brain prepares options; consciousness selects or vetoes. See [[libet-experiments]] for detailed analysis including the retrocausal resolution.
+But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation—participants act when random fluctuations cross a threshold. Sjöberg (2024) provides stronger evidence: patients with surgical resection of the supplementary motor area—the region generating the readiness potential—retain their sense of voluntary action. If the RP reflected genuine volition, removing its source should impair it. It doesn't. Libet himself argued consciousness retains "veto power" to cancel prepared actions. The brain prepares options; consciousness selects or vetoes. See [[libet-experiments]] for detailed analysis including the retrocausal resolution.
 
 ## Quantum Indeterminacy and the Luck Objection
 
@@ -208,4 +208,5 @@ Free will stands at the intersection of all five [[tenets]]:
 - Libet, B. et al. (1983). Time of conscious intention to act. *Brain*, 106(3), 623-642.
 - Schurger, A. et al. (2012). Accumulator model for spontaneous neural activity. *PNAS*, 109(42), E2904-E2913.
 - Desmurget, M. et al. (2009). Movement intention after parietal cortex stimulation. *Science*, 324(5928), 811-813.
+- Sjöberg, R. L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
 - Cramer, J. G. (1986). Transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
