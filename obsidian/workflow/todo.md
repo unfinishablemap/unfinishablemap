@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P1: Deep review intrinsic-nature-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the gap between structural/relational description and intrinsic nature—physics describes how things relate but not what they are in themselves. Consciousness may be our only direct access to intrinsic nature. Should verify: (1) accuracy of Russell's structural realism presentation, (2) distinction from related concepts (qualia, explanatory gap), (3) engagement with Russellian monism as a response, (4) alignment with voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-28
-
 ### P2: Create concept page for QBism
 - **Type**: expand-topic
 - **Notes**: Referenced in quantum-probability-and-consciousness.md, indexical-identity-quantum-measurement.md, and quantum-interpretations.md but lacks dedicated page. QBism (Quantum Bayesianism) treats quantum states as encoding an agent's beliefs rather than objective properties—directly relevant to the Map's treatment of subjective probability and observer-dependence. Connects to No Many Worlds tenet (QBism avoids branching) and Minimal Quantum Interaction (consciousness as epistemic agent).
@@ -660,6 +654,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Deep review intrinsic-nature-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the gap between structural/relational description and intrinsic nature—physics describes how things relate but not what they are in themselves. Consciousness may be our only direct access to intrinsic nature. Should verify: (1) accuracy of Russell's structural realism presentation, (2) distinction from related concepts (qualia, explanatory gap), (3) engagement with Russellian monism as a response, (4) alignment with voids framework.
+- **Output**: obsidian/voids/intrinsic-nature-void.md
 
 ### ✓ 2026-01-28: Deep review contemplative-evidence-for-consciousness-theories.md
 - **Type**: deep-review
