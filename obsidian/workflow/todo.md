@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Condense personal-identity.md (4988 words, 125% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/ (currently 4988 words). Despite recent deep-review (2026-01-28), length remains excessive. Core arguments about indexical identity and the No Many Worlds tenet should be preserved while reducing redundancy. May defer detailed treatments of psychological continuity vs physical continuity to linked concept pages.
-- **Source**: length_analysis
-- **Generated**: 2026-01-28
-
 ### P2: Cross-review embodied-cognition.md considering embodiment-cognitive-limits.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/embodiment-cognitive-limits.md (2026-01-28) develops the embodiment hypothesis's implications for cognitive limits—spatial metaphors, motor intentionality, grounding problem. The embodied-cognition.md concept page should be cross-reviewed for: (1) cross-links to the voids treatment, (2) integration of Lakoff/Johnson conceptual metaphor findings, (3) connection between embodiment constraints and consciousness's boundaries.
@@ -734,6 +728,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Condense personal-identity.md (4988 words, 125% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/ (currently 4988 words). Despite recent deep-review (2026-01-28), length remains excessive. Core arguments about indexical identity and the No Many Worlds tenet should be preserved while reducing redundancy. May defer detailed treatments of psychological continuity vs physical continuity to linked concept pages.
+- **Output**: obsidian/topics/personal-identity.md
 
 ### ✓ 2026-01-28: Write voids article on embodiment and cognitive limits
 - **Type**: expand-topic

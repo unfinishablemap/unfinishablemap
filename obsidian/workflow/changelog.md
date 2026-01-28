@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 22:50 UTC - condense
+
+- **Status**: Success
+- **File**: `topics/personal-identity.md`
+- **Before**: 4988 words
+- **After**: 2972 words
+- **Reduction**: 40%
+- **Technique**: Removed tangential sections (Process Philosophy Perspective, Buddhist Perspective—linked articles cover these); condensed Standard Positions (~550 words → ~280); merged and tightened Illusionist Challenge subsections; reduced Decoherence Challenge; trimmed Implications for Survival (removed Quantum Persistence subsection); consolidated What Would Challenge This View. Preserved core arguments, opening summary, Relation to Site Perspective section, and all tenet connections.
+
 ## 2026-01-28 21:15 UTC - refine-draft
 
 - **Status**: Success
