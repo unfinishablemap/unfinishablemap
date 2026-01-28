@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-28T23:15:00+00:00
+ai_modified: 2026-01-28T23:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -47,6 +47,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Notes**: Central to the baseline-cognition.md argument that consciousness enables counterfactual thinking (what *would* happen if...). Great apes are restricted to "zone of latent solutions" while humans explore counterfactual possibilities. Connects to free-will.md (libertarian choice requires counterfactual assessment) and mental-simulation concepts. A dedicated page would strengthen the consciousness-as-amplifier framework.
 - **Source**: gap_analysis (optimistic review 2026-01-28)
+- **Generated**: 2026-01-28
+
+### P2: Write article on delegatory dualism (Bradford Saad)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Saad's "A dualist theory of experience" (2025) develops delegatory dualism—a novel interactionist position where physical states "delegate" causal responsibilities to experiences. Addresses causal exclusion problem without overdetermination or epiphenomenalism. Strongly aligns with Bidirectional Interaction tenet. Key concepts: five constraints (Efficacy, Non-Overdetermination, Observational Closure, Upward Systematicity, Organizational Invariance), delegation mechanism, preemption structure.
+- **Source**: chain (from bradford-saad-delegatory-dualism-2026-01-28.md)
+- **Generated**: 2026-01-28
+
+### P2: Cross-review access-consciousness.md considering phenomenal-overflow insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenal-overflow.md (2026-01-28) develops Block's argument that phenomenal consciousness exceeds cognitive access (Sperling experiments, partial report paradigm). The access-consciousness.md article defines A-consciousness. Check for: (1) cross-links to phenomenal-overflow treatment, (2) clarity on how overflow challenges the P=A identification, (3) whether the distinction between access and phenomenal is properly drawn.
+- **Source**: chain (from phenomenal-overflow.md)
+- **Generated**: 2026-01-28
+
+### P2: Cross-review conscious-vs-unconscious-processing.md considering phenomenal-overflow insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenal-overflow.md (2026-01-28) argues that phenomenal consciousness has higher capacity than cognitive access. The conscious-vs-unconscious-processing.md article discusses the boundary between conscious and unconscious cognition. Check for: (1) cross-links to phenomenal-overflow, (2) whether the overflow argument complicates simple conscious/unconscious dichotomy, (3) connection to global workspace accounts of what makes processing "conscious."
+- **Source**: chain (from phenomenal-overflow.md)
+- **Generated**: 2026-01-28
+
+### P2: Cross-review llm-consciousness.md considering embodiment-cognitive-limits insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/embodiment-cognitive-limits.md (2026-01-28) explores how embodiment shapes and constrains cognition—the grounding problem suggests meaning may require embodiment. The llm-consciousness.md article discusses AI consciousness. Check for: (1) cross-links to embodiment limits, (2) whether the grounding objection applies to LLMs (disembodied systems), (3) how conceptual metaphor research bears on whether LLMs can genuinely understand.
+- **Source**: chain (from embodiment-cognitive-limits.md)
+- **Generated**: 2026-01-28
+
+### P2: Condense arguments-against-materialism-2026-01-06.md (4518 words, 129% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for research/. This is a research notes file—may need restructuring rather than pure condensation. Check whether content should be split into multiple notes or whether redundant sections can be removed. Preserve: key arguments against materialism, source citations, tenet alignments. See /condense skill.
+- **Source**: length_analysis
 - **Generated**: 2026-01-28
 
 ### P3: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
