@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review problem-of-other-minds.md considering other-minds-void insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/other-minds-void.md (2026-01-27) develops the fundamental inaccessibility of other consciousnesses—each mind sealed within itself. The problem-of-other-minds.md concept discusses the epistemological challenge. Check for: (1) cross-links to the new voids treatment, (2) whether the void framing (structural vs. merely epistemic) enriches the concept page, (3) connection between the Map's dualism and the other minds problem.
-- **Source**: chain (from other-minds-void.md)
-- **Generated**: 2026-01-28
-
 ### P2: Cross-review intersubjectivity.md considering other-minds-void insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/other-minds-void.md (2026-01-27) argues each consciousness is fundamentally sealed—we infer but never access other minds directly. The intersubjectivity.md concept discusses how we share phenomenological understanding despite this barrier. Check for: (1) cross-links to the void framing, (2) whether intersubjective agreement constitutes evidence that overcomes the void, (3) tension or complementarity between the articles.
@@ -642,6 +636,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review problem-of-other-minds.md considering other-minds-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/other-minds-void.md (2026-01-27) develops the fundamental inaccessibility of other consciousnesses—each mind sealed within itself. The problem-of-other-minds.md concept discusses the epistemological challenge. Check for: (1) cross-links to the new voids treatment, (2) whether the void framing (structural vs. merely epistemic) enriches the concept page, (3) connection between the Map's dualism and the other minds problem.
+- **Output**: obsidian/concepts/problem-of-other-minds.md -- Context: Cross-review problem-of-other-minds.md considering other-minds-void insights
 
 ### ✓ 2026-01-28: Cross-review hard-problem-of-consciousness.md considering IIT critique
 - **Type**: cross-review
