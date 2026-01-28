@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-28T22:46:05+00:00
+ai_modified: 2026-01-28T23:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P0: Research Bradford Saad's "A dualist theory of experience" (2025)
+- **Type**: research-topic
+- **Notes**: Bradford Saad's 2025 paper presents a contemporary dualist theory of experience. Research the paper's core arguments, how it relates to the Map's interactionist dualism, and identify potential integration points with existing content.
+- **Source**: human
+- **Generated**: 2026-01-28
 
 ### P2: Update references to coalesced nihilism/existentialism articles
 - **Type**: other
