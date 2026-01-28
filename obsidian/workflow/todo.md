@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-28T15:58:01+00:00
+ai_modified: 2026-01-28T17:56:28+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write voids article on convergent cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-convergent-cognitive-limits-2026-01-28.md. Covers cross-cultural evidence for species-level cognitive limits (bias blind spot, mystical experience structure). Key finding: certain limitations appear universally across vastly different cultures, suggesting structural constraints. Strengthens the voids framework by providing empirical basis for distinguishing Unexplorable from merely Unexplored.
+- **Source**: chain (from research-voids)
+- **Generated**: 2026-01-28
+
+### P2: Cross-review quantum-interpretations.md considering QBism
+- **Type**: cross-review
+- **Notes**: New article concepts/qbism.md (2026-01-28) provides detailed treatment of QBism as a quantum interpretation. Check quantum-interpretations.md for: (1) adequate cross-links to the dedicated QBism page, (2) consistency in how QBism is characterized across articles, (3) whether the new QBism article's critique (presupposing agents without explaining them) should be reflected in the overview.
+- **Source**: chain (from qbism.md)
+- **Generated**: 2026-01-28
+
+### P2: Cross-review binding-problem.md considering neural-binding-mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) provides detailed treatment of classical vs quantum binding mechanisms. Check binding-problem.md for: (1) cross-links to the mechanisms page, (2) consistency in BP1/BP2 distinction across articles, (3) whether the recent experimental evidence (microtubule-stabilizing drugs, MRI entanglement signatures) should be mentioned.
+- **Source**: chain (from neural-binding-mechanisms.md)
+- **Generated**: 2026-01-28
+
+### P2: Write article on motor control and quantum Zeno effect
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Stapp's theory proposes that mental effort prolongs quantum superposition via the Zeno effect, biasing neural activity toward intended outcomes. Supports bidirectional interaction tenet—connects attention-as-interface to motor output.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-28
+
+### P2: Write article on collapse in the prebiotic universe
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the objection: if consciousness causes collapse, what collapsed wave functions before conscious observers existed? Options include Penrose's objective reduction, decoherence-without-collapse, and the Map's prebiotic-collapse concept. Critical gap in the site's defense of consciousness-collapse theories.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-28
 
 ### P2: Update references to coalesced nihilism/existentialism articles
 - **Type**: other

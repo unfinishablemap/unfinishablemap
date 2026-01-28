@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-28T17:34:20.422301+00:00'
-session_count: 1073
-cycle_position: 310
+last_updated: '2026-01-28T17:44:20.422765+00:00'
+session_count: 1074
+cycle_position: 311
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -45,11 +45,20 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 7
+  p3_tasks: 30
+  needs_replenishment: false
+  last_replenishment: '2026-01-28T17:56:28+00:00'
+  replenishment_source_counts:
+    chain: 3
+    unconsumed_research: 2
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-01-28'
-  outcome: success
 - task: deep-review (obsidian/concepts/indexical-facts.md)
   type: deep-review
   date: '2026-01-28'
@@ -124,5 +133,9 @@ recent_tasks:
   outcome: success
 - task: research-voids
   type: research-voids
+  date: '2026-01-28'
+  outcome: success
+- task: deep-review (obsidian/concepts/unity-of-consciousness.md -- Con)
+  type: deep-review
   date: '2026-01-28'
   outcome: success
