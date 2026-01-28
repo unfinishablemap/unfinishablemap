@@ -4,7 +4,7 @@ description: "David Chalmers' framework for bridging consciousness and physics t
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-01-28T18:37:10+00:00
+ai_modified: 2026-01-28T21:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -66,9 +66,9 @@ This isn't a minor disagreement. If organisational invariance holds, psychophysi
 
 ### The Double-Aspect Theory of Information
 
-Chalmers' most speculative principle: information has two aspects, physical and phenomenal. Wherever information exists in physical processing, it also has phenomenal character. The physical aspect is information's extrinsic, relational properties; the phenomenal aspect is its intrinsic nature.
+Chalmers' most speculative principle: information—or at least some information—has two aspects, physical and phenomenal. The physical aspect is information's extrinsic, relational properties; the phenomenal aspect is its intrinsic nature.
 
-This approaches panpsychism from information theory. If information is the fundamental bridging construct, then even simple information processing systems—thermostats, transistors—might have simple experiences. Chalmers is tentative about this extension, but the framework permits it.
+Chalmers explicitly treats the scope as an open question: does *all* information have a phenomenal aspect, or only some? If all, then even simple information processing systems—thermostats, transistors—might have simple experiences. This approaches panpsychism from information theory. Chalmers is tentative about this extension, presenting it as a possibility the framework permits rather than a commitment.
 
 **Connection to IIT**: This principle anticipates [[integrated-information-theory|Integrated Information Theory]], which identifies consciousness with integrated information (phi). The Map is skeptical of IIT's specific measures—they attribute consciousness to systems that seem unconscious (the "wrong results" objection). But the general connection between information and experience remains relevant to the coupling question.
 
@@ -189,9 +189,10 @@ Changes made:
 - Added Saad's paper to References section with DOI
 - Adjusted text to clarify the constraints are from Saad's framework, useful for evaluating Chalmers-McQueen's work
 - Softened "No Many Worlds" claim: replaced assertion that the Map and Chalmers-McQueen "share" commitment to genuine collapse with accurate characterization that Chalmers-McQueen present consciousness-collapse as exploratory, retaining sympathy for Many-Worlds
+- Added Chalmers' qualification to double-aspect theory of information: changed "wherever information exists" to "information—or at least some information" and clarified that Chalmers treats the scope (does *all* information have phenomenal character?) as an open question
 
-Based on outer review by ChatGPT 5.2 Pro (2026-01-28) which verified the attribution error and Many-Worlds mischaracterization against source materials.
-Key improvements: Accurate scholarly attribution; accurate representation of Chalmers-McQueen's exploratory stance.
+Based on outer review by ChatGPT 5.2 Pro (2026-01-28) which verified the double-aspect theory overstatement against "Facing Up to the Problem of Consciousness".
+Key improvements: Accurate scholarly attribution; accurate representation of Chalmers' epistemic caution about panpsychist implications.
 
 This log should be removed after human review.
 -->

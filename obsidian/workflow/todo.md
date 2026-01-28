@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-28T17:56:28+00:00
+ai_modified: 2026-01-28T21:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,20 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Soften double-aspect information claim in chalmers-psychophysical-coupling.md
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-01-28. The article states "wherever information exists" it has phenomenal character. But Chalmers uses "information (or at least some information)" and treats "does all information have a phenomenal aspect?" as an open question. Add Chalmers' qualification. **Verified against "Facing Up".**
-- **Review file**: `reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-chatgpt-5-2-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-01-28
-
-### P2: Nuance epiphenomenalism characterization in chalmers-psychophysical-coupling.md
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-01-28. The article says Chalmers "tends toward epiphenomenalism." But in "Consciousness and Its Place in Nature" he distinguishes Type-D (interactionist) vs Type-E (epiphenomenalist) dualism and presents them as competing options without endorsing either. Rephrase to reflect his neutrality. **Verified against source.**
-- **Review file**: `reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-chatgpt-5-2-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-01-28
 
 ### P2: Cross-review binding-problem.md considering neural-binding-mechanisms
 - **Type**: cross-review
@@ -686,6 +672,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Soften double-aspect information claim in chalmers-psychophysical-coupling.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-01-28. The article states "wherever information exists" it has phenomenal character. But Chalmers uses "information (or at least some information)" and treats "does all information have a phenomenal aspect?" as an open question. Add Chalmers' qualification. **Verified against "Facing Up".**
+- **Output**: obsidian/topics/chalmers-psychophysical-coupling.md
+
+Task context:
+From outer review 2026-01-28. The article states "wherever information exists" it has phenomenal character. But Chalmers uses "information (or at least some information)" and treats "does all information have a phenomenal aspect?" as an open question. Add Chalmers' qualification. **Verified against "Facing Up".**
+
+Review file: reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-chatgpt-5-2-pro.md
 
 ### ✓ 2026-01-28: Correct Many-Worlds claim in chalmers-psychophysical-coupling.md
 - **Type**: refine-draft

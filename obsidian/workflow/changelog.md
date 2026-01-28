@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-27T02:23:00+00:00
+ai_modified: 2026-01-28T21:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,16 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-01-28 21:15 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/chalmers-psychophysical-coupling.md`
+- **Based on**: Outer review by ChatGPT 5.2 Pro (2026-01-28)
+- **Changes**:
+  - Added Chalmers' qualification to double-aspect theory: changed "wherever information exists" to "information—or at least some information"
+  - Clarified that Chalmers treats the scope question (does all information have phenomenal character?) as open rather than settled
+- **Published**: yes
 
 ## 2026-01-28 18:49 UTC - deep-review
 
