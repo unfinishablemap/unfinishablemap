@@ -4,7 +4,7 @@ description: "Classical neural binding (gamma synchrony, thalamocortical loops) 
 created: 2026-01-28
 modified: 2026-01-28
 human_modified:
-ai_modified: 2026-01-28T19:30:00+00:00
+ai_modified: 2026-01-28T16:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,8 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[free-will]]"
   - "[[agent-causation]]"
+  - "[[measurement-problem]]"
+  - "[[phenomenal-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-binding-and-phenomenal-unity]]"
@@ -27,7 +29,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-28
 last_curated:
-last_deep_review: 2026-01-28T19:30:00+00:00
+last_deep_review: 2026-01-28T16:57:00+00:00
 ---
 
 Neural binding mechanisms attempt to explain how distributed brain processes combine into unified conscious experience. Classical mechanisms—gamma synchrony, thalamocortical resonance, global workspace broadcasting—successfully explain how the brain coordinates information across regions (BP1: the segregation problem). They fail to explain why that coordination produces phenomenal unity rather than parallel processes happening to be correlated (BP2: the combination problem). Quantum entanglement provides what classical mechanisms cannot: genuine ontological holism where the whole is irreducible to its parts.
@@ -77,7 +79,7 @@ Bell's theorem and loophole-free experiments confirm that non-local correlations
 
 Classical physics describes reality as composed of fundamentally separate particles interacting through local forces. All large-scale phenomena reduce to arrangements of parts that interact—there are no genuine wholes, only coordinated pluralities.
 
-This creates a structural mismatch with phenomenal unity—what philosophers call the [[explanatory-gap|explanatory gap]] appears here in acute form. Experience comes as irreducible wholes. The redness of the apple and its shape are not experienced separately and then assembled; they are aspects of one unified experience from the start. Classical binding mechanisms inherit classical physics' limitation: they can coordinate separate things but cannot make them one thing.
+This creates a structural mismatch with [[phenomenal-consciousness|phenomenal unity]]—what philosophers call the [[explanatory-gap|explanatory gap]] appears here in acute form. Experience comes as irreducible wholes. The redness of the apple and its shape are not experienced separately and then assembled; they are aspects of one unified experience from the start. Classical binding mechanisms inherit classical physics' limitation: they can coordinate separate things but cannot make them one thing.
 
 Consider the analogy: a symphony orchestra coordinates hundreds of separate instruments. The coordination is exquisite—precise timing, shared tempo, musical integration. Yet there remain separate instruments making separate sounds that happen to be coordinated. The unity of the music exists for the listener, not in the physical events themselves. Classical neural binding faces the same problem: it coordinates separate neurons without producing ontological unity.
 
@@ -117,7 +119,7 @@ Hartmut Neven of Google Quantum AI argues that entanglement is the only true bin
 
 This matches phenomenal unity's structure. Experience does not feel assembled from separate quale-atoms that are then unified. It comes as a whole from the ground up. The structural correspondence between quantum holism and phenomenal holism may not be coincidence. Process philosophy (Whitehead) provides conceptual resources here: each quantum collapse event could be understood as an "actual occasion"—a moment of experience that is internally unified rather than assembled from separates.
 
-**The remaining gap:** Structural correspondence is not full explanation. Quantum holism is still physical holism—mathematical irreducibility in Hilbert space. The question of why *any* physical state produces phenomenal experience remains open. The quantum approach succeeds where classical approaches fail (providing genuine unity at the physical level), but the hard problem persists. What quantum mechanics provides is the right *kind* of substrate for phenomenal unity, and a locus where consciousness might participate: at collapse, where indeterminacy resolves into definite actuality.
+**The remaining gap:** Structural correspondence is not full explanation. Quantum holism is still physical holism—mathematical irreducibility in Hilbert space. The question of why *any* physical state produces phenomenal experience remains open. The quantum approach succeeds where classical approaches fail (providing genuine unity at the physical level), but the hard problem persists. What quantum mechanics provides is the right *kind* of substrate for phenomenal unity, and a locus where consciousness might participate: at [[measurement-problem|collapse]], where indeterminacy resolves into definite actuality.
 
 ## Relation to Site Perspective
 
@@ -135,10 +137,12 @@ This matches phenomenal unity's structure. Experience does not feel assembled fr
 
 - [[binding-problem]] — The full binding problem including BP1 and BP2
 - [[phenomenal-unity]] — What binding mechanisms aim to explain
+- [[phenomenal-consciousness]] — The experiential character that binding must produce
 - [[quantum-binding-and-phenomenal-unity]] — Extended argument for quantum binding
 - [[quantum-binding-experimental-evidence]] — Detailed experimental support
 - [[quantum-consciousness]] — Orch OR and quantum Zeno approaches
 - [[stapp-quantum-mind]] — Quantum Zeno mechanism for mental effort
+- [[measurement-problem]] — Why collapse is philosophically contentious
 - [[decoherence]] — Why quantum effects might persist in biological systems
 - [[global-workspace-theory]] — Classical alternative (information broadcasting)
 - [[integrated-information-theory]] — Classical alternative (Φ as consciousness)

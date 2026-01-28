@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review neural-binding-mechanisms.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-28, never deep-reviewed. Covers classical binding mechanisms (gamma synchrony, thalamocortical resonance, global workspace) and quantum binding (entanglement as genuine holism). Should verify: (1) accuracy of neuroscience claims about binding mechanisms, (2) fair presentation of classical binding research before critiquing, (3) engagement with decoherence objections to quantum binding, (4) alignment with Minimal Quantum Interaction tenet.
-- **Source**: staleness
-- **Generated**: 2026-01-28
-
 ### P2: Deep review qbism.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-28, deep-reviewed same day but should verify comprehensive accuracy. Covers QBism's core claims, dissolution of measurement problem, and the agent problem. Should verify: (1) accurate representation of Fuchs/Caves/Schack position, (2) fair presentation before critique, (3) whether the "agent problem" critique is sufficiently developed, (4) appropriate engagement with QBist responses to consciousness-based objections.
@@ -672,6 +666,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Deep review neural-binding-mechanisms.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-28, never deep-reviewed. Covers classical binding mechanisms (gamma synchrony, thalamocortical resonance, global workspace) and quantum binding (entanglement as genuine holism). Should verify: (1) accuracy of neuroscience claims about binding mechanisms, (2) fair presentation of classical binding research before critiquing, (3) engagement with decoherence objections to quantum binding, (4) alignment with Minimal Quantum Interaction tenet.
+- **Output**: obsidian/concepts/neural-binding-mechanisms.md
 
 ### ✓ 2026-01-28: Cross-review phenomenal-unity.md considering neural-binding-mechanisms
 - **Type**: cross-review
