@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-01-27 21:00:00+00:00
+ai_modified: 2026-01-28 15:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,12 +10,13 @@ concepts:
 - '[[qualia]]'
 - '[[phenomenal-consciousness]]'
 created: 2026-01-27
-date: &id001 2026-01-27
+date: &id001 2026-01-28
 description: Facts specifiable only through indexical terms like 'I', 'here', 'now'—irreducible
   to impersonal descriptions, central to consciousness and the vertiginous question.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-28 15:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,11 +52,19 @@ This connects to [qualia](/concepts/qualia/) and [phenomenal-consciousness](/con
 
 Christian List argues that irreducible indexical facts provide evidence against "third-personal metaphysics"—any picture claiming reality is fully describable without indexicals. If "I am this person" is a genuine fact not derivable from impersonal facts, then reality includes more than physics captures.
 
+### The Epistemic Objection
+
+Physicalists may respond: indexical facts are *epistemic*, not *ontological*. The Two Gods don't lack a fact about which one they are; they lack *knowledge* of that fact. Their ignorance is a feature of their perspective, not a gap in reality. On this view, "I am the god in the mountain" is true or false depending on who utters it, but there's no additional metaphysical fact beyond the physical facts about which god is where.
+
+The response: this conflates what a statement *expresses* with what it's *about*. When I believe "I am making the mess," I grasp something I didn't grasp when I only believed "someone is making the mess"—even though the physical facts are the same. If indexical beliefs were just third-person beliefs in disguise, Perry's shopper would never have needed to change his behaviour upon realising "I am the one." The motivational and cognitive differences between indexical and non-indexical beliefs suggest they track genuinely different features of reality, not just different ways of knowing the same facts. The burden is on the physicalist to explain these differences without positing indexical facts.
+
 ## Indexical Facts and Personal Identity
 
 The question "what makes me the same person over time?" is traditionally about criteria of identity—psychological continuity, physical continuity, or some combination. But indexical facts raise a prior question: what makes me *this* person right now?
 
 Pattern-identity theories (like those following Parfit) hold that personal identity consists in patterns of psychological continuity—memories, personality traits, beliefs. But indexical facts resist pattern reduction. Two people could hypothetically share all psychological patterns (through perfect copying), yet there would be a fact about which one is me. The indexical "I" picks out something that patterns alone don't determine.
+
+Some philosophers—notably Parfit himself and Buddhist traditions—would reject this. If personal identity is just psychological continuity, and two copies are equally continuous with your past self, then perhaps there's no fact about which is "really" you. The "I" might be a useful fiction rather than a metaphysical primitive. The vertiginous question would then be a pseudo-question, arising from the mistaken assumption that the self is a unified, persistent entity rather than a conventional designation. The Map takes the opposing view: the vertiginous question is not dissolved by noting that selves are complex. Even if "I" is constructed from moment to moment, there remains a fact about which construction is happening *here*, from *this* perspective. The indexical element persists even under Buddhist-style analysis of the self.
 
 This connects to [haecceity](/concepts/haecceity/)—primitive "thisness" that individuates particulars beyond their qualitative features. Robert Adams argued that "primitive thisness" cannot be reduced to general properties. Applied to persons: the fact that I am *this* individual is basic, not derivable from what properties I have or what patterns I instantiate.
 
@@ -83,7 +92,7 @@ The [many-worlds](/arguments/many-worlds/) interpretation holds that every quant
 
 Before measurement, there's one observer. After measurement, there are multiple observers in different branches. Which one is "really" you? Many-worlds provides no answer—all branches are equally real, all successors are equally continuous with your pre-measurement self. But you will experience one definite outcome, not all of them. The indexical fact "I am in this branch" seems meaningful, yet MWI gives it no grounding.
 
-Everettians sometimes appeal to "self-locating uncertainty"—before observing the result, you're uncertain which branch you're in. But critics (including Friederich and Dawid) argue this fails: either the uncertainty is spurious (all outcomes occur, so there's no fact to be uncertain about) or it presupposes what it's meant to explain (why you'd expect one outcome rather than all).
+Everettians sometimes appeal to "self-locating uncertainty"—before observing the result, you're uncertain which branch you're in. But critics argue this fails. Friederich and Dawid show that attempts to derive the Born rule from self-locating uncertainty (as in Sebens and Carroll's approach) rely on principles that tacitly assume what they're meant to prove. More fundamentally, the uncertainty is spurious: all outcomes occur, so there's no single fact about "which branch you end up in"—you end up in all of them. Self-locating uncertainty makes sense when there's a fact you don't know; in MWI, the supposed fact doesn't exist. The move from "I don't know which branch I'm in" to "there are genuine indexical facts about branch location" requires that one branch be privileged, which MWI explicitly denies.
 
 The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects MWI partly for this reason: indexical facts about which outcome you experience cannot be accommodated if all outcomes occur equally. Consciousness tracking one definite trajectory suggests genuine selection, not branching into all possibilities.
 
@@ -124,6 +133,7 @@ Indexical facts connect to The Unfinishable Map's [tenets](/tenets/) in several 
 
 - Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
 - Chalmers, D. (2010). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
+- Friederich, S. & Dawid, R. (2022). "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll." *British Journal for the Philosophy of Science*, 73(3), 711-721.
 - Lewis, D. (1979). "Attitudes De Dicto and De Se." *Philosophical Review*, 88(4), 513-543.
-- List, C. (2025). "The Many-Worlds Theory of Consciousness." *Noûs*.
+- List, C. (2022). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340.
 - Perry, J. (1979). "The Problem of the Essential Indexical." *Noûs*, 13(1), 3-21.

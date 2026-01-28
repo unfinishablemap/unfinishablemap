@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-26 12:00:00+00:00
+ai_modified: 2026-01-28 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,11 +23,12 @@ description: How can we know others are conscious? The epistemic asymmetry betwe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-22 04:00:00+00:00
+last_deep_review: 2026-01-28 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[problem-of-other-minds-2026-01-14]]'
+- '[[other-minds-void]]'
 title: Problem of Other Minds
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -74,6 +75,12 @@ This dissolution sits uneasily with dualism. If behavioral criteria fully determ
 A recent alternative holds that we perceive other minds directly. When I see your face contort in anger, I don't infer your anger from the contortion—I see the anger itself. Mental properties are available in experience, not hidden behind behavior.
 
 This captures how interpersonal understanding actually feels: immediate, perceptual, not inferential. Yet what exactly do we perceive? If I perceive your anger by seeing your expression, I seem to perceive the expression, not the feeling itself. The approach may relocate rather than resolve the problem.
+
+### Husserl's Constitutive Paradox
+
+Edmund Husserl's phenomenological analysis offers a deeper insight: the other is accessible *precisely insofar as* they are constituted as inaccessible. When I encounter you, I encounter another *subject*—someone with their own inner life that I cannot enter. The very constitution of you as another subject requires recognizing what I cannot access.
+
+This reframes the problem. The asymmetry is not failure but success—if I could directly access your experience, you would not be another subject but an extension of me. The [void between minds](/voids/other-minds-void/) is constitutive of intersubjectivity itself. Recognition of the void *is* recognition of the other as other. Empathy operates through this structure: we "feel into" the other, imagining their perspective while knowing we imagine rather than share it.
 
 ### The Argument from Discourse
 
@@ -129,6 +136,16 @@ The Map maintains illusionism relocates rather than dissolves the problem. If I'
 
 **Buddhist philosophy:** The problem presupposes sharp boundaries between minds, but contemplative investigation reveals both to be processes without fixed boundaries. Compassion practices cultivate direct experiential insight into others' suffering—trained perceptual capacities rather than inferences from behavior.
 
+## Is the Asymmetry Absolute?
+
+The standard picture treats first-person access as necessarily private. But unusual cases suggest the boundary may be contingent rather than constitutive.
+
+Conjoined twins Krista and Tatiana Hogan share a thalamic bridge—neural tissue connecting their thalami. Reports suggest partial sharing of sensory experience: one twin may taste what the other eats, see what the other sees. If accurate, this challenges the absolute privacy of consciousness. The boundary may depend on neural separation rather than being intrinsic to the nature of minds.
+
+Brain-computer interface research raises similar questions in principle: if connecting neural systems could yield shared experience, the asymmetry would be technological rather than metaphysical. The thought experiment clarifies what's at stake without resolving it.
+
+These cases don't eliminate the [void between minds](/voids/other-minds-void/) but suggest its boundaries may be more complex than simple introspection reveals. For almost all humans in almost all circumstances, the asymmetry holds. Whether it is *necessarily* so remains open.
+
 ## What Would Challenge This View?
 
 Several findings would change the landscape: (1) successful illusionist explanation of why introspection produces *specific* qualitative character without invoking phenomenality; (2) technology enabling genuine sharing of first-person experience; (3) definitive markers of phenomenal consciousness beyond behavioral similarity; (4) evidence that cross-cultural consciousness concepts don't actually converge; (5) construction of behaviorally indistinguishable systems with strong theoretical reasons to deny their consciousness.
@@ -146,6 +163,7 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 ## Further Reading
 
 ### Site Content
+- [other-minds-void](/voids/other-minds-void/) — The voids framework treatment: why the gap is constitutive of intersubjectivity
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Why the "view from nowhere" fails for consciousness
 - [theory-of-mind](/concepts/theory-of-mind/) — Mental state attribution as evidence for other minds
 - [metarepresentation](/concepts/metarepresentation/) — Why representing minds as minds requires consciousness

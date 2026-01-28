@@ -18,6 +18,210 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 16:16 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/measurement-problem.md`
+- **Context**: Cross-review considering QBism (qbism.md now exists)
+- **Word count**: 2485 → 2489 (+4)
+- **Critical issues addressed**: 0 (none found—article remains at high stability after 3 prior reviews)
+- **Medium issues addressed**: 2
+  1. QBism treatment was thin—expanded to note QBism dissolves measurement problem via belief-updating while presupposing agent experience
+  2. Missing [qbism](/concepts/qbism/) cross-link—added to concepts frontmatter and inline in indexical section
+- **Enhancements made**: 2
+  1. QBism bullet now substantively engages with the interpretation's approach and gap
+  2. Trimmed haecceity paragraph to maintain length neutrality
+- **Output**: `reviews/deep-review-2026-01-28-measurement-problem.md`
+
+## 2026-01-28 16:06 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/quantum-interpretations.md`
+- **Context**: Cross-review considering new [qbism](/concepts/qbism/) article
+- **Word count**: 3596 → 3625 (+29)
+- **Critical issues addressed**: 0 (none found—previous review resolved structural gaps)
+- **Medium issues addressed**: 2
+  1. Missing QBism cross-reference—added [qbism](/concepts/qbism/) links in subsection, probability section, Further Reading, and frontmatter
+  2. MWI indexical response unacknowledged—added defenders' self-location argument with Map's rebuttal
+- **Enhancements made**: 2
+  1. Integrated new qbism.md article via cross-links
+  2. Trimmed redundant QBism exposition (now handled by dedicated article)
+- **Output**: `reviews/deep-review-2026-01-28-quantum-interpretations.md`
+
+## 2026-01-28 17:30 UTC - optimistic-review
+
+- **Status**: Success
+- **Files reviewed**: 41 published topics, 145 published concepts, 1 tenets page (comprehensive review)
+- **Output**: `reviews/optimistic-2026-01-28-comprehensive.md`
+- **Content**: Multi-perspective strength analysis from sympathetic philosopher personas (Chalmers, Stapp, Nagel, Whitehead, Kane, McGinn). Identified key content strengths including: systematic integration of tenets across articles, contemplative evidence as empirical test, the human-ape gap as evidence against epiphenomenalism, indexical identity treatment in vertiginous question. Generated 7 new P3 expansion tasks: attention-motor-quantum synthesis, consciousness and meaning integration, phenomenological evidence methodology, phenomenal overflow concept page, counterfactual reasoning concept page, self-locating beliefs concept page.
+
+## 2026-01-28 15:45 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/witness-consciousness.md`
+- **Context**: Cross-review considering contemplative evidence
+- **Word count**: 2304 → 2329 (+25)
+- **Critical issues addressed**: 0 (none found—article stable after 2 prior reviews)
+- **Medium issues addressed**: 2
+  1. Contemplative evidence methodological status—added note framing meditation traditions as systematic phenomenological investigation
+  2. Madhyamaka emptiness challenge—added cross-link to buddhism-and-dualism's more developed treatment
+- **Enhancements made**: 2
+  1. Strengthened evidential basis for contemplative claims
+  2. Improved Buddhist integration via emptiness challenge cross-link
+- **Output**: `reviews/deep-review-2026-01-28-witness-consciousness.md`
+
+## 2026-01-28 - expand-topic
+
+- **Status**: Success
+- **Topic**: Neural Binding Mechanisms
+- **Output**: `concepts/neural-binding-mechanisms.md`
+- **Word count**: 1802
+- **Based on research**: Yes (`research/neural-binding-quantum-entanglement-2026-01-19.md`)
+- **Content**: Concept page covering classical neural binding mechanisms (gamma synchrony, thalamocortical resonance, global workspace) and their limitations at explaining phenomenal unity (BP2), contrasted with quantum entanglement as the only physical mechanism providing genuine ontological holism. Includes the zero-lag synchrony problem, experimental evidence, and the structural match between quantum and phenomenal unity.
+
+## 2026-01-28 22:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/qbism.md`
+- **Word count**: 1610 → 1757 (+147)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2
+  1. MWI indexical objection—added acknowledgment of defenders' "selection effect" response while maintaining Map's position
+  2. "All physics leaves consciousness unexplained" objection—added explanation of why QBism is uniquely vulnerable (structural gap)
+- **Enhancements made**: 2
+  1. Added citation for Fuchs 2017 on agents as "most basic category"
+  2. Added wikilink to [many-worlds](/arguments/many-worlds/) concept page
+- **Output**: `reviews/deep-review-2026-01-28-qbism.md`
+
+## 2026-01-28 12:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: QBism (Quantum Bayesianism)
+- **Output**: `concepts/qbism.md`
+- **Word count**: 1610
+- **Based on research**: No (general knowledge)
+- **Content**: Concept page covering QBism's core claims (quantum states as beliefs, subjective probabilities, measurement as belief-updating), the agent problem (presupposes experiencing subjects without explaining them), comparison with other interpretations, and detailed tenet alignment. QBism centers the agent yet leaves consciousness unexplained—a gap the Map addresses.
+
+## 2026-01-28 15:05 UTC - deep-review
+
+- **Status**: Success
+- **File**: `voids/intrinsic-nature-void.md`
+- **Word count**: 1922 → 1974 (+52)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2
+  1. Added explicit connection to No Many Worlds tenet via indexical identity
+  2. Added acknowledgment that introspective access may be partial/constructed (Buddhist critique)
+- **Enhancements made**: 3
+  1. Added Shoemaker reference for inverted spectrum debate
+  2. Trimmed AI section redundancy for length neutrality
+  3. Removed outdated refinement log comment
+- **Output**: `reviews/deep-review-2026-01-28-intrinsic-nature-void.md`
+
+## 2026-01-28 16:00 UTC - pessimistic-review
+
+- **Status**: Success
+- **Files reviewed**:
+  - `voids/apophatic-approaches.md`
+  - `voids/phenomenology-of-the-edge.md`
+  - `voids/the-unobservable-self.md`
+- **Critical issues found**: 2
+  1. Phenomenological reports treated as epistemically privileged without addressing trained confabulation hypothesis
+  2. Cross-cultural convergence assumed to indicate reality-contact rather than shared brain architecture
+- **Medium issues found**: 4
+  1. Illusionist regress objection applied asymmetrically
+  2. Attention dynamics conflated with consciousness's nature in unobservable-self
+  3. Edge-clarity assumed to indicate deeper access rather than noise subtraction
+  4. Falsifiability criteria in apophatic-approaches may be unfalsifiable
+- **Counterarguments identified**: 3
+  1. Trained confabulation hypothesis (convergent phenomenology as convergent confabulation)
+  2. Subtraction explanation for edge-clarity
+  3. Structural vs contingent distinction for observer-regress
+- **Tasks added**: 1 (P2: Address trained confabulation hypothesis in voids cluster)
+- **Output**: `reviews/pessimistic-2026-01-28-evening.md`
+
+## 2026-01-28 14:45 UTC - deep-review (follow-up)
+
+- **Status**: Success
+- **File**: `topics/contemplative-evidence-for-consciousness-theories.md`
+- **Word count**: 2389 → 2425 (+36)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1
+  1. Added missing Demir et al. (2025) citation for 7-Tesla fMRI jhana research
+- **Enhancements made**: 1
+  1. Added cross-link to [buddhism-and-dualism](/concepts/buddhism-and-dualism/) in trained confabulation response
+- **Notes**: Second review of this article. First review (2026-01-28 14:26) addressed substantive issues. Article has reached stability; future reviews should confirm rather than seek changes.
+- **Output**: `reviews/deep-review-2026-01-28b-contemplative-evidence-for-consciousness-theories.md`
+
+## 2026-01-28 15:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/indexical-facts.md`
+- **Word count**: 1696 → 2105 (+409)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 5
+  1. Added "The Epistemic Objection" subsection responding to physicalist challenge
+  2. Added paragraph on Buddhist/Parfitian no-self views with response
+  3. Expanded MWI section explaining why self-locating uncertainty fails
+  4. Corrected List citation (2022, not 2025)
+  5. Added complete Friederich & Dawid citation
+- **Enhancements made**: 3
+  1. Direct engagement with strongest counterarguments
+  2. Clarified Friederich & Dawid critique of Sebens-Carroll approach
+  3. Strengthened connection to vertiginous question
+- **Output**: `reviews/deep-review-2026-01-28-indexical-facts.md`
+
+## 2026-01-28 14:26 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/contemplative-evidence-for-consciousness-theories.md`
+- **Word count**: 2115 → 2389 (+274)
+- **Critical issues addressed**: 2
+  1. Fixed Davidson citation error (now correctly cites Weng et al. 2013)
+  2. Added Falsifiability section with testable predictions
+- **Medium issues addressed**: 4
+  1. Added epistemological caveat to nirodha samapatti claims
+  2. Strengthened epiphenomenalism response with "brute correlations" argument
+  3. Added [qualia](/concepts/qualia/) cross-link in jhana section
+  4. Added Free Will subsection in Relation to Site Perspective
+- **Enhancements made**: 2
+  1. New Falsifiability section specifying what would count as counter-evidence
+  2. Expanded response to "causal contribution is purely neural" objection
+- **Output**: `reviews/deep-review-2026-01-28-contemplative-evidence-for-consciousness-theories.md`
+
+## 2026-01-28 14:30 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `concepts/intersubjectivity.md`
+- **Context**: Cross-review considering other-minds-void.md insights
+- **Word count**: 1899 → 2188 (+289)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  1. Added cross-link to other-minds-void
+  2. Added Husserl's constitutive paradox framing
+  3. Acknowledged contemplative evidence confounds
+- **Enhancements made**: 4
+  1. New paragraph on Husserl's constitutive paradox
+  2. New paragraph on contemplative evidence confounds
+  3. New "Contingency of the boundary" subsection in Limits
+  4. Cross-link to other-minds-void in concepts and Further Reading
+- **Output**: `reviews/deep-review-2026-01-28-intersubjectivity.md`
+
+## 2026-01-28 14:00 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `concepts/problem-of-other-minds.md`
+- **Context**: Cross-review considering other-minds-void.md insights
+- **Word count**: 1812 → 2107 (+295)
+- **Critical issues addressed**: 0 (none found; previous review addressed major gaps)
+- **Medium issues addressed**: 2
+  1. Added cross-reference to other-minds-void
+  2. Added Husserl's constitutive paradox framing
+- **Enhancements made**: 3
+  1. New "Husserl's Constitutive Paradox" subsection
+  2. New "Is the Asymmetry Absolute?" section (Hogan twins case)
+  3. Cross-link to other-minds-void in related_articles and Further Reading
+- **Output**: `reviews/deep-review-2026-01-28-problem-of-other-minds.md`
+
 ## 2026-01-28 13:30 UTC - tune-system
 
 - **Status**: Success

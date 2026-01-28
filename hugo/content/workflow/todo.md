@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-28 12:17:25+00:00
+ai_modified: 2026-01-28 15:58:01+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,6 +38,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review phenomenal-unity.md considering neural-binding-mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) distinguishes classical binding (gamma synchrony, thalamocortical loops) from quantum binding (entanglement). The phenomenal-unity.md concept page discusses why unity resists physical explanation. Check for: (1) cross-links to neural-binding-mechanisms treatment, (2) whether the classical/quantum binding distinction strengthens the unity argument, (3) integration of the "correlation vs. identity" critique of classical mechanisms.
+- **Source**: chain (from neural-binding-mechanisms.md)
+- **Generated**: 2026-01-28
+
+### P2: Deep review neural-binding-mechanisms.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-28, never deep-reviewed. Covers classical binding mechanisms (gamma synchrony, thalamocortical resonance, global workspace) and quantum binding (entanglement as genuine holism). Should verify: (1) accuracy of neuroscience claims about binding mechanisms, (2) fair presentation of classical binding research before critiquing, (3) engagement with decoherence objections to quantum binding, (4) alignment with Minimal Quantum Interaction tenet.
+- **Source**: staleness
+- **Generated**: 2026-01-28
+
+### P2: Deep review qbism.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-28, deep-reviewed same day but should verify comprehensive accuracy. Covers QBism's core claims, dissolution of measurement problem, and the agent problem. Should verify: (1) accurate representation of Fuchs/Caves/Schack position, (2) fair presentation before critique, (3) whether the "agent problem" critique is sufficiently developed, (4) appropriate engagement with QBist responses to consciousness-based objections.
+- **Source**: staleness
+- **Generated**: 2026-01-28
+
 ### P2: Update references to coalesced nihilism/existentialism articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `nihilism.md` and `existentialism.md` into `nihilism-and-existentialism.md`. 8 files reference the archived articles: meaning-of-life.md, eastern-philosophy-consciousness.md, purpose-and-alignment.md, qualia.md, highlights.md, and research notes. Update wikilinks to point to nihilism-and-existentialism or leave as-is if the link still works (archived articles display redirect notice).
@@ -49,6 +67,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
+
+### P3: Cross-review meditation-and-consciousness-modes.md considering contemplative evidence
+- **Type**: cross-review
+- **Notes**: New article topics/contemplative-evidence-for-consciousness-theories.md (2026-01-27) develops contemplative phenomenology as evidence for consciousness theories. The meditation-and-consciousness-modes.md article discusses meditation states. Check for: (1) cross-links to the systematic contemplative evidence treatment, (2) consistency between state descriptions, (3) whether the new article's theoretical framing enriches the meditation modes treatment.
+- **Source**: chain (from contemplative-evidence-for-consciousness-theories.md)
+- **Generated**: 2026-01-28
 
 ### P3: Cross-review global-workspace-theory.md considering IIT critique
 - **Type**: cross-review
@@ -617,8 +641,100 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
+### P3: Write article synthesizing attention-motor quantum selection
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). The convergence of attention and motor control research into unified selection framework is scattered across attention-motor-quantum-interface.md, voluntary-attention.md, motor-selection.md, quantum-consciousness.md. A synthesis would strengthen the case that both domains exhibit the same quantum selection architecture.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Write article on consciousness and meaning integration
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). How consciousness grounds meaning—if qualia are real and causally efficacious, values and purposes can be genuine features of reality rather than projections. Builds on meaning-of-life.md, purpose-and-alignment.md, moral-responsibility.md, phenomenal-value-realism.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Write article on phenomenological evidence methodology
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). The site's use of first-person evidence deserves methodological treatment—what makes contemplative reports reliable, how to handle cross-tradition convergence, relationship to Varela's neurophenomenology. Builds on contemplative-evidence-for-consciousness-theories.md, witness-consciousness.md, neurophenomenology.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for phenomenal overflow
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). Block's overflow research appears in multiple articles but lacks dedicated systematic treatment. Central to the access/phenomenal consciousness distinction.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for counterfactual reasoning
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). Central to the baseline cognition argument for consciousness's cognitive role but not fully developed as concept. Connects to free-will.md, mental simulation, and the human-ape gap.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for self-locating beliefs
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). Important for vertiginous question and many-worlds discussions. The distinction between qualitative knowledge and self-locating knowledge deserves dedicated treatment. Connects to Lewis's Two Gods scenario.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review measurement-problem.md considering QBism
+- **Type**: cross-review
+- **Notes**: New article concepts/qbism.md (2026-01-28) explains how QBism dissolves the measurement problem by treating quantum states as beliefs rather than reality. The measurement-problem.md concept page should address this dissolution and explain why the Map finds it unsatisfying (shifts rather than solves the problem). Check for: (1) cross-links to QBism treatment, (2) whether QBism's "dissolution" is distinguished from genuine solutions, (3) whether the agent problem critique is integrated.
+- **Output**: obsidian/concepts/measurement-problem.md -- Context: Cross-review measurement-problem.md considering QBism
+
+### ✓ 2026-01-28: Cross-review quantum-interpretations.md considering QBism
+- **Type**: cross-review
+- **Notes**: New article concepts/qbism.md (2026-01-28) provides dedicated treatment of Quantum Bayesianism. The quantum-interpretations.md page surveys QM interpretations but QBism is mentioned only briefly. Check for: (1) cross-links to new QBism treatment, (2) whether the critique of QBism's agent problem is integrated into the interpretations overview, (3) consistency in how subjective probability interpretations are framed.
+- **Output**: obsidian/concepts/quantum-interpretations.md -- Context: Cross-review quantum-interpretations.md considering QBism
+
+### ✓ 2026-01-28: Cross-review witness-consciousness.md considering contemplative evidence
+- **Type**: cross-review
+- **Notes**: New article topics/contemplative-evidence-for-consciousness-theories.md (2026-01-27) presents systematic contemplative phenomenology across traditions. The witness-consciousness.md concept is central to this evidence base—the pure awareness that observes without identifying with content. Check for: (1) cross-links to contemplative evidence treatment, (2) whether the phenomenological descriptions are consistent, (3) whether witness-consciousness strengthens the dualist interpretation of contemplative reports.
+- **Output**: obsidian/concepts/witness-consciousness.md -- Context: Cross-review witness-consciousness.md considering contemplative evidence
+
+### ✓ 2026-01-28: Write article on neural binding and quantum entanglement
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md. Examines whether quantum entanglement could explain the unity of consciousness—how distributed neural processing becomes unified experience. Central to binding-problem.md treatment. The 2025 Wiest et al. anesthetic studies (613 THz oscillation suppression) provide empirical hooks. Supports Minimal Quantum Interaction tenet.
+- **Output**: neural binding and quantum entanglement
+
+### ✓ 2026-01-28: Create concept page for QBism
+- **Type**: expand-topic
+- **Notes**: Referenced in quantum-probability-and-consciousness.md, indexical-identity-quantum-measurement.md, and quantum-interpretations.md but lacks dedicated page. QBism (Quantum Bayesianism) treats quantum states as encoding an agent's beliefs rather than objective properties—directly relevant to the Map's treatment of subjective probability and observer-dependence. Connects to No Many Worlds tenet (QBism avoids branching) and Minimal Quantum Interaction (consciousness as epistemic agent).
+- **Output**: Create concept page for QBism
+
+### ✓ 2026-01-28: Create concept page for QBism
+- **Type**: expand-topic
+- **Notes**: Referenced in quantum-probability-and-consciousness.md, indexical-identity-quantum-measurement.md, and quantum-interpretations.md but lacks dedicated page. QBism (Quantum Bayesianism) treats quantum states as encoding an agent's beliefs rather than objective properties—directly relevant to the Map's treatment of subjective probability and observer-dependence. Connects to No Many Worlds tenet (QBism avoids branching) and Minimal Quantum Interaction (consciousness as epistemic agent).
+- **Result**: Created concepts/qbism.md (1610 words). Covers QBism's core claims (quantum states as beliefs, subjective probabilities, measurement as belief-updating), the agent problem (presupposes experiencing subjects without explaining them), comparison with other interpretations (Copenhagen, RQM, MWI, consciousness-collapse), and detailed tenet alignment analysis.
+- **Output**: obsidian/concepts/qbism.md
+
+### ✓ 2026-01-28: Deep review intrinsic-nature-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the gap between structural/relational description and intrinsic nature—physics describes how things relate but not what they are in themselves. Consciousness may be our only direct access to intrinsic nature. Should verify: (1) accuracy of Russell's structural realism presentation, (2) distinction from related concepts (qualia, explanatory gap), (3) engagement with Russellian monism as a response, (4) alignment with voids framework.
+- **Output**: obsidian/voids/intrinsic-nature-void.md
+
+### ✓ 2026-01-28: Deep review contemplative-evidence-for-consciousness-theories.md
+- **Type**: deep-review
+- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-27, never deep-reviewed. Presents meditation phenomenology across traditions as evidence distinguishing consciousness theories. Should verify: (1) accuracy of contemplative tradition summaries, (2) whether neuroplasticity evidence is sound, (3) engagement with skeptical responses to first-person evidence, (4) alignment with bidirectional interaction tenet.
+- **Output**: obsidian/topics/contemplative-evidence-for-consciousness-theories.md
+
+### ✓ 2026-01-28: Deep review indexical-facts.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-27, never deep-reviewed. Core concept for No Many Worlds tenet—facts expressible only from a particular perspective ("I am here now"). Should verify: (1) accuracy of Perry and Lewis on essential indexicals, (2) connection to vertiginous-question.md and personal-identity.md, (3) whether the indexical gap argument is sound, (4) alignment with tenet position.
+- **Output**: obsidian/concepts/indexical-facts.md
+
+### ✓ 2026-01-28: Cross-review intersubjectivity.md considering other-minds-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/other-minds-void.md (2026-01-27) argues each consciousness is fundamentally sealed—we infer but never access other minds directly. The intersubjectivity.md concept discusses how we share phenomenological understanding despite this barrier. Check for: (1) cross-links to the void framing, (2) whether intersubjective agreement constitutes evidence that overcomes the void, (3) tension or complementarity between the articles.
+- **Output**: obsidian/concepts/intersubjectivity.md -- Context: Cross-review intersubjectivity.md considering other-minds-void insights
+
+### ✓ 2026-01-28: Cross-review problem-of-other-minds.md considering other-minds-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/other-minds-void.md (2026-01-27) develops the fundamental inaccessibility of other consciousnesses—each mind sealed within itself. The problem-of-other-minds.md concept discusses the epistemological challenge. Check for: (1) cross-links to the new voids treatment, (2) whether the void framing (structural vs. merely epistemic) enriches the concept page, (3) connection between the Map's dualism and the other minds problem.
+- **Output**: obsidian/concepts/problem-of-other-minds.md -- Context: Cross-review problem-of-other-minds.md considering other-minds-void insights
 
 ### ✓ 2026-01-28: Cross-review hard-problem-of-consciousness.md considering IIT critique
 - **Type**: cross-review
