@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 12:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: phenomenal-overflow
+- **Output**: `concepts/phenomenal-overflow.md`
+- **Word count**: 1687
+- **Based on research**: yes (`research/voids-pre-conceptual-knowing-2026-01-27.md`)
+- **Notes**: Dedicated concept page for Ned Block's phenomenal overflow argument. Previously referenced across multiple articles (access-consciousness, phenomenal-consciousness, pre-conceptual-knowing) without systematic treatment. Covers Sperling paradigm evidence, deflationary responses, theoretical stakes, and connection to the Map's tenets. Appropriately flags contested status while presenting as evidence for phenomenal richness beyond function.
+
 ## 2026-01-28 23:55 UTC - pessimistic-review
 
 - **Status**: Success

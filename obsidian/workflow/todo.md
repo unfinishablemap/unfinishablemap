@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for phenomenal-overflow
-- **Type**: expand-topic
-- **Notes**: Block's phenomenal overflow research is referenced in multiple articles (access-consciousness.md, consciousness-vs-unconscious-processing.md) but lacks dedicated systematic treatment. Central to the access/phenomenal consciousness distinction—the claim that phenomenal experience outstrips cognitive access. Supports the Map's position that consciousness exceeds what can be reported.
-- **Source**: gap_analysis (optimistic review 2026-01-28)
-- **Generated**: 2026-01-28
-
 ### P2: Create concept page for counterfactual-reasoning
 - **Type**: expand-topic
 - **Notes**: Central to the baseline-cognition.md argument that consciousness enables counterfactual thinking (what *would* happen if...). Great apes are restricted to "zone of latent solutions" while humans explore counterfactual possibilities. Connects to free-will.md (libertarian choice requires counterfactual assessment) and mental-simulation concepts. A dedicated page would strengthen the consciousness-as-amplifier framework.
@@ -716,6 +710,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Create concept page for phenomenal-overflow
+- **Type**: expand-topic
+- **Notes**: Block's phenomenal overflow research is referenced in multiple articles (access-consciousness.md, consciousness-vs-unconscious-processing.md) but lacks dedicated systematic treatment. Central to the access/phenomenal consciousness distinction—the claim that phenomenal experience outstrips cognitive access. Supports the Map's position that consciousness exceeds what can be reported.
+- **Output**: Create concept page for phenomenal-overflow
 
 ### ✓ 2026-01-28: Cross-review embodied-cognition.md considering embodiment-cognitive-limits.md
 - **Type**: cross-review
