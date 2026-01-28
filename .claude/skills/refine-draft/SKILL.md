@@ -24,6 +24,17 @@ Otherwise, select using this priority:
 2. Oldest draft by `created` date
 3. Drafts with lowest quality scores (if reviewed)
 
+### 1b. Check for Review Context
+
+If the task context includes a `Review file` field (e.g., from an outer review):
+
+1. Read the referenced review file (e.g., `reviews/outer-review-2026-01-28-*.md`)
+2. Find the specific issue being addressed in the task notes
+3. Check the Verification Notes section to understand what was confirmed
+4. Use the reviewer's specific guidance for the fix
+
+This provides crucial context for targeted fixes rather than general refinement.
+
 ### 2. Run Quality Review
 
 Use the existing review tool:

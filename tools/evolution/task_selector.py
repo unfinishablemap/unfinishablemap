@@ -128,7 +128,11 @@ def task_to_skill(task: Task) -> SkillInvocation:
     elif task_type == TaskType.REFINE_DRAFT:
         # Extract file path from title or notes
         file_path = _extract_file_path(task.title, task.notes)
-        return SkillInvocation("refine-draft", file_path)
+        # Include full task context so skill can read review files, etc.
+        args = file_path or ""
+        if task.notes:
+            args = f"{args}\n\nTask context:\n{task.notes}"
+        return SkillInvocation("refine-draft", args.strip())
 
     elif task_type == TaskType.DEEP_REVIEW:
         # Extract file path from title like "Deep review X.md"
