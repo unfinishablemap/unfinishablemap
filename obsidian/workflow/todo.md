@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-28T20:07:05+00:00
+ai_modified: 2026-01-28T20:20:48+00:00
 draft: false
 topics: []
 concepts: []
@@ -48,6 +48,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
+
+### P2: Cross-review free-will.md considering motor-selection insights
+- **Type**: cross-review
+- **Notes**: New article concepts/motor-selection.md (2026-01-28) provides detailed neuroscientific evidence for quantum Zeno selection in motor control (Desmurget dissociation, frontal theta, basal ganglia brake-release). The free-will.md article discusses quantum selection abstractly; should explicitly reference motor selection as concrete instantiation. Check for: (1) cross-links to motor-selection, (2) whether neuroscientific evidence strengthens libertarian case, (3) connection between voluntary attention and motor output.
+- **Source**: chain (from motor-selection.md)
+- **Generated**: 2026-01-28
+
+### P2: Cross-review ai-consciousness.md considering continual-learning-argument insights
+- **Type**: cross-review
+- **Notes**: Article concepts/continual-learning-argument.md (2026-01-28) develops Hoel's criterion: consciousness requires continual learning (memory formation during inference). Current LLMs lack this. Check ai-consciousness.md for: (1) cross-links to the formal criterion, (2) whether the proximity-to-lookup-table argument strengthens existing position, (3) adding the falsifiable test conditions.
+- **Source**: chain (from continual-learning-argument.md)
+- **Generated**: 2026-01-28
+
+### P2: Cross-review quantum-measurement-interpretations-beyond-mwi.md considering subjective-probability insights
+- **Type**: cross-review
+- **Notes**: Article topics/quantum-measurement-and-subjective-probability.md (2026-01-28) critiques QBism and participatory realism for presupposing consciousness without explaining it. The interpretations survey should integrate this phenomenological gap argument. Check for: (1) cross-links to subjective probability treatment, (2) updating QBism section with phenomenological objection, (3) consistency with the No Many Worlds tenet.
+- **Source**: chain (from quantum-measurement-and-subjective-probability.md)
+- **Generated**: 2026-01-28
+
+### P3: Deep review computational-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers computational limits on cognition (NP-hardness of inference, finite working memory). Should verify: (1) accuracy of computational complexity claims, (2) connection to mysterianism and cognitive closure, (3) distinction from collective-cognitive-limits and convergent-cognitive-limits, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-28
+
+### P3: Deep review other-minds-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the structural impossibility of direct access to other conscious experiences. Should verify: (1) accuracy of epistemological arguments, (2) connection to problem-of-other-minds.md, (3) whether it properly distinguishes the void (structural limit) from mere empirical difficulty, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-28
 
 ### P3: Cross-review meditation-and-consciousness-modes.md considering contemplative evidence
 - **Type**: cross-review
