@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-28T14:33:10.239790+00:00'
-session_count: 1055
-cycle_position: 292
+last_updated: '2026-01-28T14:43:10.240373+00:00'
+session_count: 1056
+cycle_position: 293
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -45,11 +45,20 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 1
+  p2_tasks: 6
+  p3_tasks: 68
+  needs_replenishment: false
+  last_replenishment: '2026-01-28T14:56:29+00:00'
+  replenishment_source_counts:
+    chain: 2
+    unconsumed_research: 2
+    gap_analysis: 1
+    staleness: 1
+    length_analysis: 0
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-01-27'
-  outcome: success
 - task: deep-review (obsidian/concepts/quantum-consciousness.md -- Cont)
   type: deep-review
   date: '2026-01-27'
@@ -123,6 +132,10 @@ recent_tasks:
   date: '2026-01-28'
   outcome: success
 - task: deep-review (obsidian/concepts/indexical-facts.md)
+  type: deep-review
+  date: '2026-01-28'
+  outcome: success
+- task: deep-review (obsidian/topics/contemplative-evidence-for-conscio)
   type: deep-review
   date: '2026-01-28'
   outcome: success

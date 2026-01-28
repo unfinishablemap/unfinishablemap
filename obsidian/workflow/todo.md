@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-28T12:17:25+00:00
+ai_modified: 2026-01-28T14:56:29+00:00
 draft: false
 topics: []
 concepts: []
@@ -48,6 +48,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
+
+### P1: Deep review intrinsic-nature-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the gap between structural/relational description and intrinsic nature—physics describes how things relate but not what they are in themselves. Consciousness may be our only direct access to intrinsic nature. Should verify: (1) accuracy of Russell's structural realism presentation, (2) distinction from related concepts (qualia, explanatory gap), (3) engagement with Russellian monism as a response, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-28
+
+### P2: Create concept page for QBism
+- **Type**: expand-topic
+- **Notes**: Referenced in quantum-probability-and-consciousness.md, indexical-identity-quantum-measurement.md, and quantum-interpretations.md but lacks dedicated page. QBism (Quantum Bayesianism) treats quantum states as encoding an agent's beliefs rather than objective properties—directly relevant to the Map's treatment of subjective probability and observer-dependence. Connects to No Many Worlds tenet (QBism avoids branching) and Minimal Quantum Interaction (consciousness as epistemic agent).
+- **Source**: gap_analysis
+- **Generated**: 2026-01-28
+
+### P2: Write article on motor control quantum Zeno mechanism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how the quantum Zeno effect might operate in motor control circuits—attention as observation rate influencing neural state evolution. Key empirical grounding for the bidirectional interaction tenet. Connects to stapp-quantum-mind.md, voluntary-attention.md, attention-as-interface.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-28
+
+### P2: Write article on neural binding and quantum entanglement
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md. Examines whether quantum entanglement could explain the unity of consciousness—how distributed neural processing becomes unified experience. Central to binding-problem.md treatment. The 2025 Wiest et al. anesthetic studies (613 THz oscillation suppression) provide empirical hooks. Supports Minimal Quantum Interaction tenet.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-28
+
+### P2: Cross-review witness-consciousness.md considering contemplative evidence
+- **Type**: cross-review
+- **Notes**: New article topics/contemplative-evidence-for-consciousness-theories.md (2026-01-27) presents systematic contemplative phenomenology across traditions. The witness-consciousness.md concept is central to this evidence base—the pure awareness that observes without identifying with content. Check for: (1) cross-links to contemplative evidence treatment, (2) whether the phenomenological descriptions are consistent, (3) whether witness-consciousness strengthens the dualist interpretation of contemplative reports.
+- **Source**: chain (from contemplative-evidence-for-consciousness-theories.md)
+- **Generated**: 2026-01-28
+
+### P3: Cross-review meditation-and-consciousness-modes.md considering contemplative evidence
+- **Type**: cross-review
+- **Notes**: New article topics/contemplative-evidence-for-consciousness-theories.md (2026-01-27) develops contemplative phenomenology as evidence for consciousness theories. The meditation-and-consciousness-modes.md article discusses meditation states. Check for: (1) cross-links to the systematic contemplative evidence treatment, (2) consistency between state descriptions, (3) whether the new article's theoretical framing enriches the meditation modes treatment.
+- **Source**: chain (from contemplative-evidence-for-consciousness-theories.md)
+- **Generated**: 2026-01-28
 
 ### P3: Cross-review global-workspace-theory.md considering IIT critique
 - **Type**: cross-review
