@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review unity-of-consciousness.md considering neural-binding-mechanisms
-- **Type**: cross-review
-- **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) argues quantum entanglement provides genuine ontological holism that classical mechanisms lack. Check unity-of-consciousness.md for: (1) cross-links to neural-binding-mechanisms, (2) whether the distinction between correlation and genuine unity is reflected, (3) connection between phenomenal unity and the quantum binding hypothesis.
-- **Source**: chain (from neural-binding-mechanisms.md)
-- **Generated**: 2026-01-28
-
 ### P3: Cross-review meditation-and-consciousness-modes.md considering contemplative evidence
 - **Type**: cross-review
 - **Notes**: New article topics/contemplative-evidence-for-consciousness-theories.md (2026-01-27) develops contemplative phenomenology as evidence for consciousness theories. The meditation-and-consciousness-modes.md article discusses meditation states. Check for: (1) cross-links to the systematic contemplative evidence treatment, (2) consistency between state descriptions, (3) whether the new article's theoretical framing enriches the meditation modes treatment.
@@ -660,6 +654,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review unity-of-consciousness.md considering neural-binding-mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) argues quantum entanglement provides genuine ontological holism that classical mechanisms lack. Check unity-of-consciousness.md for: (1) cross-links to neural-binding-mechanisms, (2) whether the distinction between correlation and genuine unity is reflected, (3) connection between phenomenal unity and the quantum binding hypothesis.
+- **Output**: obsidian/concepts/unity-of-consciousness.md -- Context: Cross-review unity-of-consciousness.md considering neural-binding-mechanisms
 
 ### ✓ 2026-01-28: Cross-review binding-problem.md considering neural-binding-mechanisms
 - **Type**: cross-review

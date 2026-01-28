@@ -4,7 +4,7 @@ description: "Experience comes as a whole, not separate parts. Physical systems 
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-28T17:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ concepts:
   - "[[global-workspace-theory]]"
   - "[[integrated-information-theory]]"
   - "[[quantum-consciousness]]"
+  - "[[neural-binding-mechanisms]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-binding-and-phenomenal-unity]]"
@@ -35,7 +36,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated:
-last_deep_review: 2026-01-24T07:58:00+00:00
+last_deep_review: 2026-01-28T17:46:00+00:00
 ---
 
 The unity of consciousness is the fact that experience comes as a whole rather than a collection of separate parts. When you see, hear, think, and feel, these are not isolated streams running in parallel—they are aspects of one unified conscious state that is yours. This unity is among the most puzzling features of experience. Physical systems consist of many parts in external relation; consciousness presents itself as intrinsically unified. Explaining how distributed neural processes produce this unity—or whether they produce it at all—is the unity problem.
@@ -140,9 +141,9 @@ The Map proposes that quantum entanglement may provide the physical basis for ph
 
 The standard objection is decoherence: quantum coherence in warm, wet biological systems collapses in femtoseconds, far too fast for neural processes. However, revised estimates suggest microtubule interiors may sustain coherence for 10-100 microseconds, with mesoscopic network effects extending to 1-10 milliseconds. Moreover, [[stapp-quantum-mind|Stapp's quantum Zeno mechanism]] doesn't require continuous coherence—it operates through discrete observation events at neural timescales (~300ms). For detailed treatment of these timing constraints, see [[quantum-neural-timing-constraints]].
 
-This differs structurally from classical coordination. Classical mechanisms combine, correlate, or integrate things that remain metaphysically distinct. Quantum entanglement creates systems that were never fully separate. If phenomenal unity requires genuine holism—not just functional coordination—quantum mechanics is the only physics that provides it.
+This differs structurally from classical coordination. Classical mechanisms combine, correlate, or integrate things that remain metaphysically distinct. Quantum entanglement creates systems that were never fully separate. If phenomenal unity requires genuine holism—not just functional coordination—quantum mechanics is the only physics that provides it. For detailed comparison of classical binding mechanisms (gamma synchrony, thalamocortical loops) with quantum alternatives, see [[neural-binding-mechanisms]].
 
-For detailed treatment of this proposal and its experimental support, see [[quantum-binding-and-phenomenal-unity]] and [[phenomenal-unity#The Quantum Alternative]].
+For the philosophical argument and experimental support, see [[quantum-binding-and-phenomenal-unity]] and [[phenomenal-unity#The Quantum Alternative]].
 
 ## The Illusionist Challenge
 
@@ -202,6 +203,7 @@ The unity of consciousness illustrates why simplicity is not a reliable guide. T
 - [[mysterianism-cognitive-closure]] — Why unity may exceed our cognitive grasp
 
 ### Proposed Mechanisms
+- [[neural-binding-mechanisms]] — Classical vs quantum binding, experimental evidence
 - [[stapp-quantum-mind]] — Quantum Zeno mechanism and unified attention
 - [[quantum-binding-and-phenomenal-unity]] — Entanglement as physical basis for unity
 - [[quantum-consciousness]] — Mechanisms for consciousness-quantum interface
