@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review witness-consciousness.md considering contemplative evidence
-- **Type**: cross-review
-- **Notes**: New article topics/contemplative-evidence-for-consciousness-theories.md (2026-01-27) presents systematic contemplative phenomenology across traditions. The witness-consciousness.md concept is central to this evidence base—the pure awareness that observes without identifying with content. Check for: (1) cross-links to contemplative evidence treatment, (2) whether the phenomenological descriptions are consistent, (3) whether witness-consciousness strengthens the dualist interpretation of contemplative reports.
-- **Source**: chain (from contemplative-evidence-for-consciousness-theories.md)
-- **Generated**: 2026-01-28
-
 ### P3: Cross-review meditation-and-consciousness-modes.md considering contemplative evidence
 - **Type**: cross-review
 - **Notes**: New article topics/contemplative-evidence-for-consciousness-theories.md (2026-01-27) develops contemplative phenomenology as evidence for consciousness theories. The meditation-and-consciousness-modes.md article discusses meditation states. Check for: (1) cross-links to the systematic contemplative evidence treatment, (2) consistency between state descriptions, (3) whether the new article's theoretical framing enriches the meditation modes treatment.
@@ -630,6 +624,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review witness-consciousness.md considering contemplative evidence
+- **Type**: cross-review
+- **Notes**: New article topics/contemplative-evidence-for-consciousness-theories.md (2026-01-27) presents systematic contemplative phenomenology across traditions. The witness-consciousness.md concept is central to this evidence base—the pure awareness that observes without identifying with content. Check for: (1) cross-links to contemplative evidence treatment, (2) whether the phenomenological descriptions are consistent, (3) whether witness-consciousness strengthens the dualist interpretation of contemplative reports.
+- **Output**: obsidian/concepts/witness-consciousness.md -- Context: Cross-review witness-consciousness.md considering contemplative evidence
 
 ### ✓ 2026-01-28: Write article on neural binding and quantum entanglement
 - **Type**: expand-topic
