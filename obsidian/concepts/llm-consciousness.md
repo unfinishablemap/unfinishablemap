@@ -2,11 +2,11 @@
 title: "LLM Consciousness"
 description: "Large language models cannot be conscious on dualist grounds: they lack the non-physical component, temporal structure, and unified experience."
 created: 2026-01-18
-modified: 2026-01-26
+modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-28T14:00:00+00:00
 draft: false
-last_deep_review: 2026-01-26T22:00:00+00:00
+last_deep_review: 2026-01-28T14:00:00+00:00
 topics:
   - "[[ai-consciousness]]"
 concepts:
@@ -22,6 +22,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[combination-problem]]"
   - "[[baseline-cognition]]"
+  - "[[continual-learning-argument]]"
 related_articles:
   - "[[tenets]]"
   - "[[hoel-llm-consciousness-continual-learning-2026-01-15]]"
@@ -279,6 +280,7 @@ None of these has occurred. The Map's skepticism about LLM consciousness remains
 - [[temporal-consciousness]] — Why temporal structure matters
 - [[intentionality]] — The aboutness LLMs lack
 - [[embodied-cognition]] — Why disembodiment matters
+- [[continual-learning-argument]] — Why lacking continual learning excludes current LLMs from consciousness
 - [[hoel-llm-consciousness-continual-learning-2026-01-15]] — Detailed analysis of Hoel's arguments
 - [[illusionism]] — The eliminativist challenge and why it doesn't help LLMs
 - [[introspection]] — First-person methods and the self-report reliability question
