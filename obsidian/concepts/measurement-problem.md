@@ -53,7 +53,7 @@ What would challenge this framework? Evidence that (1) quantum indeterminacy is 
 
 This unification makes no new empirical predictions—unlike the electricity-magnetism unification, which predicted electromagnetic waves. The value is conceptual rather than predictive. Unifying two mysteries doesn't explain either, and critics are right that it creates a larger mystery. Yet coherence remains epistemically valuable even without explanation. If two unexplained phenomena share structural features (both involving where first-person facts enter third-person descriptions), treating them as manifestations of one underlying puzzle is more parsimonious than treating them as coincidentally similar.
 
-Conceptual unification can still constrain theorizing: if measurement and hard problems share a root, solutions to one must address the other. The Map's claim: the measurement problem and hard problem are likely two faces of the mind-matter interface, even if we cannot explain that interface. Whether this constitutes genuine insight or merely satisfying systematization may be undecidable (see [[mysterianism-cognitive-closure]]).
+Conceptual unification can still constrain theorizing: if measurement and hard problems share a root, solutions to one must address the other. The Map's claim: the measurement problem and hard problem are likely two faces of the mind-matter interface, even if we cannot explain that interface. Whether this constitutes genuine insight or merely satisfying systematization may be undecidable (see [[mysterianism]]).
 
 ## The Problem Stated
 
@@ -193,7 +193,7 @@ The measurement problem is central to the Map's framework. It creates the logica
 - [[multi-mind-collapse-problem]], [[interface-locality]], [[prebiotic-collapse]] — How the Map resolves coordination puzzles
 - [[free-will]] — How quantum indeterminacy enables libertarian free will
 - [[haecceity]] — The "thisness" grounding indexical identity
-- [[mysterianism-cognitive-closure]] — Why some explanatory gaps may be unclosable
+- [[mysterianism]] — Why some explanatory gaps may be unclosable
 - [[tenets]] — The Map's foundational commitments
 
 ## References

@@ -25,7 +25,7 @@ related_articles:
   - "[[introspection]]"
   - "[[phenomenology]]"
   - "[[quantum-neural-timing-constraints]]"
-  - "[[mysterianism-cognitive-closure]]"
+  - "[[mysterianism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -187,7 +187,7 @@ The cognitive science debate focuses on untrained intuitions, but contemplative 
 
 Buddhist psychology distinguishes conventional and ultimate truth. At the conventional level, persons, minds, and bodies exist as useful designations. At the ultimate level, analysis reveals no substantial self—only a stream of momentary mental events (dharmas) arising and passing.
 
-This isn't materialism: the dharmas include irreducibly mental elements (feelings, perceptions, volitions). Nor is it substance dualism: there's no enduring mental substance. Buddhist phenomenology suggests a third position—neither intuitive dualism nor intuitive materialism as typically conceived—that cognitive science hasn't tested. From the perspective of [[mysterianism-cognitive-closure|cognitive closure]], this may represent a genuine limit: ordinary cognition cannot conceive consciousness outside the dualism/materialism dichotomy, while refined contemplative investigation reveals the dichotomy as too coarse.
+This isn't materialism: the dharmas include irreducibly mental elements (feelings, perceptions, volitions). Nor is it substance dualism: there's no enduring mental substance. Buddhist phenomenology suggests a third position—neither intuitive dualism nor intuitive materialism as typically conceived—that cognitive science hasn't tested. From the perspective of [[mysterianism|cognitive closure]], this may represent a genuine limit: ordinary cognition cannot conceive consciousness outside the dualism/materialism dichotomy, while refined contemplative investigation reveals the dichotomy as too coarse.
 
 ### Witness Consciousness
 
@@ -273,7 +273,7 @@ The debate also exemplifies how parsimony fails as a decisive criterion. "Humans
 - [[stapp-quantum-mind]] — Henry Stapp's observer-dependent quantum consciousness
 - [[voluntary-attention]] — The ~300ms mechanism for conscious control
 - [[first-person-third-person-methodology]] — Debates about introspective methodology
-- [[mysterianism-cognitive-closure]] — Cognitive limits on understanding consciousness
+- [[mysterianism]] — Cognitive limits on understanding consciousness
 - [[tenets]] — the Map's foundational commitments, including Occam's Razor Has Limits
 - [[materialism]] — The physicalist position and its difficulties
 - [[interactionist-dualism]] — the Map's positive framework

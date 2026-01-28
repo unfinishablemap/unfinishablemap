@@ -12,7 +12,7 @@ concepts:
   - "[[quantum-neural-timing-constraints]]"
   - "[[consciousness]]"
   - "[[stapp-quantum-mind]]"
-  - "[[mysterianism-cognitive-closure]]"
+  - "[[mysterianism]]"
   - "[[voluntary-attention]]"
   - "[[phenomenal-unity]]"
   - "[[varieties-of-unity]]"
@@ -101,7 +101,7 @@ The puzzle is not that experience *seems* unified but that it *is* unified. Seve
 
 Imagine walking through a brain enlarged to mill-size. You would observe mechanical interactions—neurons firing, chemicals diffusing, signals propagating. But nowhere would you find a unified *experience*. The physical system consists of parts external to one another; experience is unified without parts in that sense. The unity of consciousness cannot be found by looking at the brain's components, no matter how closely we look.
 
-This argument doesn't show that the brain doesn't produce unity—only that unity cannot be *seen* in the brain's physical structure. But this raises the question: if unity isn't in the parts or their relations, where is it? [[mysterianism-cognitive-closure|Mysterianism]] holds that our cognitive architecture may be structurally incapable of grasping how physical processes produce unified experience—not because the answer is supernatural, but because our concepts are inadequate to the task.
+This argument doesn't show that the brain doesn't produce unity—only that unity cannot be *seen* in the brain's physical structure. But this raises the question: if unity isn't in the parts or their relations, where is it? [[mysterianism|Mysterianism]] holds that our cognitive architecture may be structurally incapable of grasping how physical processes produce unified experience—not because the answer is supernatural, but because our concepts are inadequate to the task.
 
 ### The Subject-Summing Problem
 
@@ -200,7 +200,7 @@ The unity of consciousness illustrates why simplicity is not a reliable guide. T
 - [[combination-problem]] — Panpsychism's version of the unity puzzle
 - [[hard-problem-of-consciousness]] — Why experience exists at all
 - [[split-brain-consciousness]] — Natural experiments on unity dissociation
-- [[mysterianism-cognitive-closure]] — Why unity may exceed our cognitive grasp
+- [[mysterianism]] — Why unity may exceed our cognitive grasp
 
 ### Proposed Mechanisms
 - [[neural-binding-mechanisms]] — Classical vs quantum binding, experimental evidence

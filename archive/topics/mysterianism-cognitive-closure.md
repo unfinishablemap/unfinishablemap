@@ -24,6 +24,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated:
 last_deep_review: 2026-01-25T14:30:00+00:00
+archived: true
+archived_date: 2026-01-28T21:18:08+00:00
+superseded_by: "/concepts/mysterianism/"
+archive_reason: "Coalesced into the more comprehensive concepts/mysterianism.md article"
+original_path: "/topics/mysterianism-cognitive-closure/"
 ---
 
 Human minds may be constitutionally incapable of solving the [[hard-problem-of-consciousness|hard problem of consciousness]]—not because consciousness is supernatural, but because our cognitive architecture lacks the conceptual tools. This position, called **mysterianism** or "new mysterianism," argues that certain problems may be permanently closed to minds like ours, just as calculus is closed to rats or quantum field theory is closed to chimpanzees. Colin McGinn formalized this view in 1989 through the concept of **cognitive closure**: the idea that particular properties can be inaccessible to particular cognitive systems, regardless of effort or time.

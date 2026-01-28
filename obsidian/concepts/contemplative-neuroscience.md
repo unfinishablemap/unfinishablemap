@@ -15,7 +15,7 @@ concepts:
   - "[[default-mode-network]]"
   - "[[voluntary-attention]]"
   - "[[mental-effort]]"
-  - "[[mysterianism-cognitive-closure]]"
+  - "[[mysterianism]]"
 related_articles:
   - "[[neurophenomenology]]"
   - "[[bidirectional-interaction]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[free-will]]"
   - "[[epiphenomenalism]]"
   - "[[mental-effort]]"
-  - "[[mysterianism-cognitive-closure]]"
+  - "[[mysterianism]]"
 ai_contribution: 100
 author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
@@ -287,7 +287,7 @@ Simplicity (eliminating first-person methods) comes at cost of explanatory adequ
 
 ### The Explanatory Gap Persists
 
-Contemplative neuroscience clarifies but does not close the [[mysterianism-cognitive-closure|explanatory gap]]. The more sophisticated our phenomenological categories become (attention modes, jhana states, emotional qualities) and the more precise our neural correlates (DMN modulation, gamma synchrony, structural plasticity), the more obvious it becomes that correlation is not explanation. We can predict *that* compassion meditation correlates with insula activation, but contemplative neuroscience provides no account of *why* this neural pattern feels like warmth and care rather than something else entirely or nothing at all. This supports mysterian conclusions: the connection between physical processes and phenomenal properties may remain permanently beyond our conceptual reach, even as both phenomenological and neuroscientific methods become more refined.
+Contemplative neuroscience clarifies but does not close the [[mysterianism|explanatory gap]]. The more sophisticated our phenomenological categories become (attention modes, jhana states, emotional qualities) and the more precise our neural correlates (DMN modulation, gamma synchrony, structural plasticity), the more obvious it becomes that correlation is not explanation. We can predict *that* compassion meditation correlates with insula activation, but contemplative neuroscience provides no account of *why* this neural pattern feels like warmth and care rather than something else entirely or nothing at all. This supports mysterian conclusions: the connection between physical processes and phenomenal properties may remain permanently beyond our conceptual reach, even as both phenomenological and neuroscientific methods become more refined.
 
 ## Further Reading
 
@@ -299,7 +299,7 @@ Contemplative neuroscience clarifies but does not close the [[mysterianism-cogni
 - [[Emotional-consciousness]]: Phenomenal character of emotions and their role in consciousness
 - [[Epiphenomenalism]]: Why contemplative neuroscience challenges the view that consciousness is causally inert
 - [[Bidirectional-interaction]]: The central tenet that contemplative neuroscience supports empirically
-- [[mysterianism-cognitive-closure]]: Why the explanatory gap persists even with refined phenomenological and neuroscientific methods
+- [[mysterianism]]: Why the explanatory gap persists even with refined phenomenological and neuroscientific methods
 
 [^lazar]: Lazar, S. W., et al. (2005). "Meditation experience is associated with increased cortical thickness." PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC1361002/
 

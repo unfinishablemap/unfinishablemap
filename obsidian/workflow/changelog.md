@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 21:19 UTC - coalesce
+
+- **Status**: Success
+- **Sources**: `topics/mysterianism-cognitive-closure.md`
+- **Target**: `concepts/mysterianism.md`
+- **Archived**: `archive/topics/mysterianism-cognitive-closure.md`
+- **References updated**: 13 files (concepts/*, topics/*, apex/*)
+- **Notes**: topics/mysterianism-cognitive-closure.md was largely duplicative of the more comprehensive concepts/mysterianism.md. Merged the "tool-extension objection" paragraph (the only unique content) into the concept article and archived the topic. Updated all wikilinks from mysterianism-cognitive-closure to mysterianism.
+
 ## 2026-01-28 16:45 UTC - deep-review
 
 - **Status**: Success

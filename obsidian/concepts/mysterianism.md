@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-27T15:50:09+00:00
+ai_modified: 2026-01-28T21:18:08+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,11 +33,15 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-01-27T15:50:09+00:00
+coalesced_from:
+  - "/topics/mysterianism-cognitive-closure/"
 ---
 
 Mysterianism is the view that the [[hard-problem-of-consciousness|hard problem of consciousness]] cannot be solved by human minds—not because consciousness is supernatural but because our cognitive architecture lacks the resources to grasp the solution. Colin McGinn formalized this position in 1989 through the concept of "cognitive closure": just as rats cannot do calculus and dogs cannot understand quantum mechanics, humans may be permanently unable to understand how consciousness relates to the brain. The solution might exist; we just can't reach it.
 
 This position occupies important middle ground. Unlike eliminativism, mysterianism takes consciousness seriously as a real phenomenon requiring explanation. Unlike confident physicalism or dualism, it acknowledges the depth of the problem. The position strongly supports the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet: our sense of which explanations are "simple" may reflect our cognitive limitations rather than reality.
+
+**The tool-extension objection**: Critics note that squirrels have no extensible cognitive tools, but humans do—mathematics, scientific instruments, computers. We transcend biological limits through technology. Why assume consciousness is different? McGinn's response is twofold. First, all our tools ultimately produce outputs for human understanding—we still need to *grasp* the solution, and if property P lies outside our conceptual reach, no tool can help us grasp it. Second, four centuries of tool-assisted inquiry have not closed the explanatory gap—if anything, neuroscience has sharpened it by revealing the gulf between neural activity and experience.
 
 ## Cognitive Closure
 

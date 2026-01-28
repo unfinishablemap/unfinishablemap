@@ -118,7 +118,7 @@ Finally, rejecting Bohmian determinism preserves the phenomenological legitimacy
 - [[retrocausality]] — Backward-in-time influences in physics
 - [[process-philosophy]] — How actual occasions relate to quantum becoming
 - [[hard-problem-of-consciousness]] — Why consciousness is the explanatory target
-- [[mysterianism-cognitive-closure]] — Why some gaps may be permanently open
+- [[mysterianism]] — Why some gaps may be permanently open
 
 ## References
 

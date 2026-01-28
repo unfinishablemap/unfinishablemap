@@ -49,7 +49,7 @@ concepts:
   - "[[intrinsic-nature-void]]"
 related_articles:
   - "[[tenets]]"
-  - "[[mysterianism-cognitive-closure]]"
+  - "[[mysterianism]]"
   - "[[materialism]]"
   - "[[integrated-information-theory]]"
   - "[[integrated-information-theory-critique]]"
@@ -244,9 +244,9 @@ The Map's interactionist framework addresses its challenge through quantum mecha
 
 ### Mysterianism
 
-[[mysterianism-cognitive-closure|Mysterianism]] proposes that the hard problem may be permanently beyond human understanding—not because consciousness is supernatural but because our cognitive architecture lacks the resources. Colin McGinn's "cognitive closure": just as squirrels cannot understand quantum mechanics, humans may be constitutionally unable to understand consciousness. McGinn holds the explanation exists but human minds cannot grasp it.
+[[mysterianism|Mysterianism]] proposes that the hard problem may be permanently beyond human understanding—not because consciousness is supernatural but because our cognitive architecture lacks the resources. Colin McGinn's "cognitive closure": just as squirrels cannot understand quantum mechanics, humans may be constitutionally unable to understand consciousness. McGinn holds the explanation exists but human minds cannot grasp it.
 
-This supports the Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet: our sense of which explanations are "simple" may reflect cognitive limitations rather than ontological facts. See [[mysterianism-cognitive-closure]] for detailed treatment.
+This supports the Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet: our sense of which explanations are "simple" may reflect cognitive limitations rather than ontological facts. See [[mysterianism]] for detailed treatment.
 
 ## What Would Challenge This View?
 
@@ -270,7 +270,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [[materialism]] — Why physicalist explanations fail
 - [[substrate-independence-critique]] — Why the hard problem entails substrate skepticism
 - [[combination-problem]] — Panpsychism's parallel challenge
-- [[mysterianism-cognitive-closure]] — McGinn's cognitive closure thesis
+- [[mysterianism]] — McGinn's cognitive closure thesis
 - [[intrinsic-nature-void]] — Why physics describes only structure, leaving intrinsic nature unknowable
 - [[quantum-consciousness]] — How quantum mechanics might relate to consciousness
 - [[witness-consciousness]] — The subject-object structure revealed by contemplative practice

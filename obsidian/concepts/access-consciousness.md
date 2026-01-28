@@ -20,7 +20,7 @@ concepts:
   - "[[metacognition]]"
   - "[[binding-problem]]"
   - "[[intentionality]]"
-  - "[[mysterianism-cognitive-closure]]"
+  - "[[mysterianism]]"
   - "[[indexical-identity-quantum-measurement]]"
 related_articles:
   - "[[tenets]]"
@@ -170,7 +170,7 @@ Conscious influence operates at stage 2: by modulating attention, consciousness 
 
 Access consciousness reveals what physicalism *can* explain: functional availability, information integration, global broadcast. [[Global-workspace-theory|Global Workspace Theory]] succeeds at this task. What remains inexplicable is [[phenomenal-consciousness|why global broadcast feels like anything]]. By isolating A-consciousness as the functional aspect, we clarify that the [[hard-problem-of-consciousness|hard problem]] concerns P-consciousness specifically.
 
-The [[explanatory-gap|explanatory gap]] persists: neural mechanisms for access don't bridge to phenomenology. Knowing that information achieved prefrontal-parietal ignition doesn't tell us why there's "something it's like" to have that information broadcast. [[Arguments/functionalism|Arguments against functionalism]] show that functional role cannot capture phenomenal properties. This persistent gap—despite decades of sophisticated neuroscientific work—may reflect a [[mysterianism-cognitive-closure|cognitive closure]] on our part, or it may indicate a genuine ontological distinction. Either possibility resists physicalist resolution.
+The [[explanatory-gap|explanatory gap]] persists: neural mechanisms for access don't bridge to phenomenology. Knowing that information achieved prefrontal-parietal ignition doesn't tell us why there's "something it's like" to have that information broadcast. [[Arguments/functionalism|Arguments against functionalism]] show that functional role cannot capture phenomenal properties. This persistent gap—despite decades of sophisticated neuroscientific work—may reflect a [[mysterianism|cognitive closure]] on our part, or it may indicate a genuine ontological distinction. Either possibility resists physicalist resolution.
 
 Block's dissociations strengthen dualism: if access and phenomenology can come apart, they're distinct. Blindsight suggests access without phenomenology; overflow suggests phenomenology exceeding access. If P-consciousness isn't reducible to A-consciousness, and A-consciousness is functionally explicable, then P-consciousness requires non-physical explanation.
 

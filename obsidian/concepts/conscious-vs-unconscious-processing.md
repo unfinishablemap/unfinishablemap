@@ -22,7 +22,7 @@ concepts:
   - "[[attention]]"
   - "[[global-workspace-theory]]"
   - "[[integrated-information-theory]]"
-  - "[[mysterianism-cognitive-closure]]"
+  - "[[mysterianism]]"
   - "[[first-person-third-person-methodology]]"
   - "[[qualia]]"
   - "[[knowledge-argument]]"

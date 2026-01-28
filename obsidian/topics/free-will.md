@@ -170,7 +170,7 @@ Most voluntary action involves distal intentions formed earlier, not just proxim
 
 The brain prepares a superposition of possible action patterns. Consciousness—operating atemporally at the quantum level—selects which possibility becomes actual. From inside linear time, it looks like the brain "decided" before consciousness became aware. But the linear ordering is itself part of what was selected. Consciousness determined which temporal sequence—including its own apparent lateness—would exist.
 
-This isn't a proof. It's a coherent picture that takes both consciousness and physics seriously, preserving what matters about free will (genuine authorship) while respecting what we know about the brain and quantum mechanics. How consciousness biases probabilities may remain mysterious—perhaps part of what [[mysterianism-cognitive-closure|mysterianism]] suggests exceeds human comprehension. But evidence can point toward a truth we can't fully understand.
+This isn't a proof. It's a coherent picture that takes both consciousness and physics seriously, preserving what matters about free will (genuine authorship) while respecting what we know about the brain and quantum mechanics. How consciousness biases probabilities may remain mysterious—perhaps part of what [[mysterianism|mysterianism]] suggests exceeds human comprehension. But evidence can point toward a truth we can't fully understand.
 
 ## Relation to Site Perspective
 

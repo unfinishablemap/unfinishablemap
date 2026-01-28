@@ -30,7 +30,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[combination-problem]]"
   - "[[aesthetic-dimension-of-consciousness]]"
-  - "[[mysterianism-cognitive-closure]]"
+  - "[[mysterianism]]"
   - "[[buddhism-and-dualism]]"
   - "[[pre-conceptual-knowing]]"
 related_articles:
