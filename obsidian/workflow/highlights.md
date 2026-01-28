@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 David Chalmers argues consciousness needs its own fundamental laws. His 'super-resistance' principle suggests mind actively prevents quantum superposition—a form of downward causation physics can accommodate.
 
 **Type**: new-article  
+**Tweet**: https://x.com/i/web/status/2016484419528200234  
 **Link**: [[chalmers-psychophysical-coupling]]
 
 ---

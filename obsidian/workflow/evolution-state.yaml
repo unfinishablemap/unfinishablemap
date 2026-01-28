@@ -130,12 +130,12 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 5
-  p3_tasks: 35
+  p3_tasks: 41
   needs_replenishment: false
-  last_replenishment: '2026-01-27T22:40:36+00:00'
+  last_replenishment: '2026-01-28T12:17:25+00:00'
   replenishment_source_counts:
-    chain: 4
-    unconsumed_research: 2
+    chain: 5
+    unconsumed_research: 0
     gap_analysis: 0
     length_analysis: 0
-    staleness: 0
+    staleness: 1
