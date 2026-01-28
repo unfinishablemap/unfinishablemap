@@ -4,7 +4,7 @@ description: "QBism interprets quantum states as subjective beliefs, not objecti
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-28T12:00:00+00:00
+ai_modified: 2026-01-28T22:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-28
 last_curated: null
+last_deep_review: 2026-01-28T22:30:00+00:00
 ---
 
 QBism (Quantum Bayesianism) is an interpretation of quantum mechanics that treats quantum states as representing an agent's subjective beliefs rather than objective features of reality. Developed primarily by Christopher Fuchs, Carlton Caves, and Rüdiger Schack, QBism dissolves the [[measurement-problem]] by denying there was ever an objective wave function to collapse. "Collapse" is simply belief-updating—the agent learns something and revises their expectations.
@@ -49,7 +50,7 @@ This dissolution is elegant but comes at a cost. QBism explains why we *describe
 
 QBism's deepest tension concerns its central concept: the agent.
 
-**What is an agent?** QBism requires agents to hold beliefs, make predictions, and experience measurement outcomes. But it provides no account of what makes something an agent rather than a mere physical system. Fuchs explicitly refuses to define agency in physical terms, treating it as primitive.
+**What is an agent?** QBism requires agents to hold beliefs, make predictions, and experience measurement outcomes. But it provides no account of what makes something an agent rather than a mere physical system. Fuchs explicitly declines to define agency in physical terms, treating it as primitive—arguing that agents are "the most basic category" irreducible to anything more fundamental (Fuchs 2017).
 
 **The experience presupposition.** For an agent to update beliefs upon measurement, they must have determinate experiences—they must *find* something, not merely exist in correlation with outcomes. QBism takes for granted exactly what the [[hard-problem-of-consciousness]] asks us to explain: why there is something it is like to be an agent at all.
 
@@ -67,7 +68,9 @@ Copenhagen also treats measurement pragmatically but retains some commitment to 
 
 ### Versus Many-Worlds
 
-Many-Worlds eliminates collapse by positing that all outcomes occur. QBism eliminates collapse by denying objective states. Both avoid the measurement problem, but differently: MWI multiplies reality; QBism deflates it. For the Map, both leave consciousness unexplained—MWI by making all branches equally real (so why do I experience *this* one?), QBism by presupposing experience without explaining it.
+[[many-worlds|Many-Worlds]] eliminates collapse by positing that all outcomes occur. QBism eliminates collapse by denying objective states. Both avoid the measurement problem, but differently: MWI multiplies reality; QBism deflates it. For the Map, both leave consciousness unexplained—MWI by making all branches equally real (so why do I experience *this* one?), QBism by presupposing experience without explaining it.
+
+MWI defenders respond that the indexical question is no more mysterious than asking "why am I this person rather than another?"—both are selection effects, not metaphysical puzzles. But the Map holds that indexical identity is precisely what requires explanation (see [[haecceity]]), not what explains things away. The question "why this branch?" is meaningful whether or not we can answer it.
 
 ### Versus Consciousness-Collapse
 
@@ -119,7 +122,7 @@ Despite its limitations, QBism contributes several insights the Map affirms:
 
 **Why agents exist.** QBism presupposes experiencing subjects without explaining them. The Map asks: what makes something an agent? What grounds the distinction between systems that merely correlate with outcomes and systems that *experience* outcomes?
 
-**The hard problem.** Fuchs acknowledges that QBism doesn't solve the hard problem of consciousness. But this isn't a minor gap—it's the central question. An interpretation that makes agents fundamental while leaving agency unexplained has located the mystery rather than dissolved it.
+**The hard problem.** Fuchs acknowledges that QBism doesn't solve the hard problem of consciousness. One might object that *all* physics leaves consciousness unexplained—why single out QBism? The answer: other interpretations don't *require* consciousness at their foundations. Copenhagen can treat "observer" as an undefined placeholder; Many-Worlds needs no observers at all; even Bohmian mechanics runs without reference to experience. QBism alone *needs* experiencing agents to make sense—agents who form beliefs, are surprised by outcomes, update expectations. When an interpretation places agents at its center while refusing to explain what agents are, the gap isn't incidental but structural. An interpretation that makes agents fundamental while leaving agency unexplained has located the mystery rather than dissolved it.
 
 **Causal efficacy.** QBism gives consciousness an epistemic role but not a causal one. The Map holds that consciousness doesn't just *track* physical outcomes but *influences* them. QBism's agent updates beliefs; the Map's agent selects realities.
 

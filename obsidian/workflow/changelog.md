@@ -17,6 +17,20 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 22:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/qbism.md`
+- **Word count**: 1610 → 1757 (+147)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2
+  1. MWI indexical objection—added acknowledgment of defenders' "selection effect" response while maintaining Map's position
+  2. "All physics leaves consciousness unexplained" objection—added explanation of why QBism is uniquely vulnerable (structural gap)
+- **Enhancements made**: 2
+  1. Added citation for Fuchs 2017 on agents as "most basic category"
+  2. Added wikilink to [[many-worlds]] concept page
+- **Output**: `reviews/deep-review-2026-01-28-qbism.md`
+
 ## 2026-01-28 12:00 UTC - expand-topic
 
 - **Status**: Success
