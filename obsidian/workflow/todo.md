@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review intersubjectivity.md considering other-minds-void insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/other-minds-void.md (2026-01-27) argues each consciousness is fundamentally sealed—we infer but never access other minds directly. The intersubjectivity.md concept discusses how we share phenomenological understanding despite this barrier. Check for: (1) cross-links to the void framing, (2) whether intersubjective agreement constitutes evidence that overcomes the void, (3) tension or complementarity between the articles.
-- **Source**: chain (from other-minds-void.md)
-- **Generated**: 2026-01-28
-
 ### P2: Deep review indexical-facts.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-27, never deep-reviewed. Core concept for No Many Worlds tenet—facts expressible only from a particular perspective ("I am here now"). Should verify: (1) accuracy of Perry and Lewis on essential indexicals, (2) connection to vertiginous-question.md and personal-identity.md, (3) whether the indexical gap argument is sound, (4) alignment with tenet position.
@@ -636,6 +630,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review intersubjectivity.md considering other-minds-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/other-minds-void.md (2026-01-27) argues each consciousness is fundamentally sealed—we infer but never access other minds directly. The intersubjectivity.md concept discusses how we share phenomenological understanding despite this barrier. Check for: (1) cross-links to the void framing, (2) whether intersubjective agreement constitutes evidence that overcomes the void, (3) tension or complementarity between the articles.
+- **Output**: obsidian/concepts/intersubjectivity.md -- Context: Cross-review intersubjectivity.md considering other-minds-void insights
 
 ### ✓ 2026-01-28: Cross-review problem-of-other-minds.md considering other-minds-void insights
 - **Type**: cross-review
