@@ -4,7 +4,7 @@ description: "Survey of quantum interpretations and their consciousness implicat
 created: 2026-01-17
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-27T23:00:00+00:00
+ai_modified: 2026-01-28T16:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ concepts:
   - "[[buddhism-and-dualism]]"
   - "[[quantum-coherence-protection]]"
   - "[[decoherence]]"
+  - "[[qbism]]"
   - "[[quantum-probability-consciousness]]"
 related_articles:
   - "[[tenets]]"
@@ -34,7 +35,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-01-21T12:00:00+00:00
+last_deep_review: 2026-01-28T16:06:00+00:00
 ---
 
 Quantum mechanics is our best physical theory, yet physicists fundamentally disagree about what it means. A 2025 Nature survey found that no single interpretation commands majority support. This matters for consciousness studies: different interpretations have radically different implications for whether consciousness plays any role in physics.
@@ -87,9 +88,9 @@ Answers fall into three categories:
 - "Collapse" is belief update, not a physical process
 - Different agents can consistently assign different states to the same system
 
-**Consciousness role:** Paradoxical. QBism makes agents central—only agents have quantum states (beliefs). But QBism denies wave functions are real, so there's nothing physical for consciousness to collapse. The agent's experience is epistemically fundamental but ontologically unexplained.
+**Consciousness role:** Paradoxical. [[qbism|QBism]] makes agents central—only agents have quantum states (beliefs). But it denies wave functions are real, so there's nothing physical for consciousness to collapse. The agent's experience is epistemically fundamental but ontologically unexplained.
 
-**Site compatibility:** Mixed. QBism's agent-centrality echoes the Map's emphasis on conscious subjects. But QBism's anti-realism about quantum states conflicts with the Map's commitment to real conscious states that make a causal difference.
+**Site compatibility:** Mixed. QBism's agent-centrality echoes the Map's emphasis on conscious subjects, but its anti-realism conflicts with the Map's commitment to real conscious causation. See [[qbism]] for extended analysis.
 
 ### Relational Quantum Mechanics
 
@@ -144,7 +145,7 @@ Each interpretation must account for the Born rule—the squared amplitude givin
 
 **The Standard View (Copenhagen, Collapse Theories):** Born probabilities are objective propensities—features of physical reality independent of any observer. The radioactive atom *has* a 50% chance of decaying. This works for statistics but struggles with single cases: what does "propensity" mean for *this* atom? And it leaves consciousness entirely outside the picture.
 
-**QBism:** Probabilities are subjective Bayesian beliefs, not features of external reality. Collapse is just belief-updating. But QBism presupposes that agents have definite experiences to form beliefs about—it treats the source of determinate experience as given rather than explained. The intersubjective convergence of quantum statistics remains mysterious if probabilities are purely subjective.
+**QBism:** Probabilities are subjective Bayesian beliefs, not features of external reality. Collapse is just belief-updating. But [[qbism|QBism]] presupposes that agents have definite experiences to form beliefs about—the source of determinate experience is given rather than explained.
 
 **Many-Worlds:** All outcomes occur, so "probability" is reinterpreted as a measure on branches—a weighting for future selves. Deutsch-Wallace decision-theoretic derivations claim rational agents *must* weight branches by Born probabilities. Critics argue these derivations assume what they aim to prove. More fundamentally, if all outcomes occur, probability seems meaningless.
 
@@ -187,7 +188,7 @@ The [[many-worlds]] article presents five detailed arguments against MWI:
 
 1. **Ontological extravagance**: MWI posits continuous branching—trillions of events per second, each creating new universes. MWI defenders (Deutsch, Wallace) appeal to parsimony of *laws*, but the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet reminds us that simplicity is unreliable when knowledge is incomplete.
 
-2. **Indexical identity problem**: Before measurement, one you; after, many equally real continuations. Yet you anticipate *one* future experience. This [[haecceity|haecceitistic]] fact—which branch is *yours*—has no answer on MWI.
+2. **Indexical identity problem**: Before measurement, one you; after, many equally real continuations. Yet you anticipate *one* future experience. This [[haecceity|haecceitistic]] fact—which branch is *yours*—has no answer on MWI. Defenders respond that this is no different from ordinary self-location uncertainty ("why am I this person rather than another?"). But the Map holds that indexical identity is precisely what requires explanation, not what explains things away.
 
 3. **Probability problem**: What do Born rule probabilities mean if all outcomes occur? Decision-theoretic derivations (Deutsch-Wallace) remain contested. The uncertainty framework seems inapplicable when all outcomes are equally real.
 
@@ -307,6 +308,7 @@ The choice of quantum interpretation bears directly on all five [[tenets]]:
 - [[quantum-probability-consciousness]] — How each interpretation handles Born rule probabilities and the first-person gap
 - [[measurement-problem]] — The problem all interpretations address
 - [[many-worlds]] — Why the Map rejects MWI
+- [[qbism]] — Agent-centered interpretation that presupposes experience without explaining it
 - [[relational-quantum-mechanics]] — Rovelli's interpretation and why the Map rejects it
 - [[multi-mind-collapse-problem]] — How multiple conscious observers coordinate
 - [[decoherence]] — How environment interaction appears to select outcomes

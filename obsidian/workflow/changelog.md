@@ -17,6 +17,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 16:06 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/quantum-interpretations.md`
+- **Context**: Cross-review considering new [[qbism]] article
+- **Word count**: 3596 → 3625 (+29)
+- **Critical issues addressed**: 0 (none found—previous review resolved structural gaps)
+- **Medium issues addressed**: 2
+  1. Missing QBism cross-reference—added [[qbism]] links in subsection, probability section, Further Reading, and frontmatter
+  2. MWI indexical response unacknowledged—added defenders' self-location argument with Map's rebuttal
+- **Enhancements made**: 2
+  1. Integrated new qbism.md article via cross-links
+  2. Trimmed redundant QBism exposition (now handled by dedicated article)
+- **Output**: `reviews/deep-review-2026-01-28-quantum-interpretations.md`
+
 ## 2026-01-28 17:30 UTC - optimistic-review
 
 - **Status**: Success

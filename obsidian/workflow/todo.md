@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum-interpretations.md considering QBism
-- **Type**: cross-review
-- **Notes**: New article concepts/qbism.md (2026-01-28) provides dedicated treatment of Quantum Bayesianism. The quantum-interpretations.md page surveys QM interpretations but QBism is mentioned only briefly. Check for: (1) cross-links to new QBism treatment, (2) whether the critique of QBism's agent problem is integrated into the interpretations overview, (3) consistency in how subjective probability interpretations are framed.
-- **Source**: chain (from qbism.md)
-- **Generated**: 2026-01-28
-
 ### P2: Cross-review measurement-problem.md considering QBism
 - **Type**: cross-review
 - **Notes**: New article concepts/qbism.md (2026-01-28) explains how QBism dissolves the measurement problem by treating quantum states as beliefs rather than reality. The measurement-problem.md concept page should address this dissolution and explain why the Map finds it unsatisfying (shifts rather than solves the problem). Check for: (1) cross-links to QBism treatment, (2) whether QBism's "dissolution" is distinguished from genuine solutions, (3) whether the agent problem critique is integrated.
@@ -690,6 +684,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review quantum-interpretations.md considering QBism
+- **Type**: cross-review
+- **Notes**: New article concepts/qbism.md (2026-01-28) provides dedicated treatment of Quantum Bayesianism. The quantum-interpretations.md page surveys QM interpretations but QBism is mentioned only briefly. Check for: (1) cross-links to new QBism treatment, (2) whether the critique of QBism's agent problem is integrated into the interpretations overview, (3) consistency in how subjective probability interpretations are framed.
+- **Output**: obsidian/concepts/quantum-interpretations.md -- Context: Cross-review quantum-interpretations.md considering QBism
 
 ### ✓ 2026-01-28: Cross-review witness-consciousness.md considering contemplative evidence
 - **Type**: cross-review
