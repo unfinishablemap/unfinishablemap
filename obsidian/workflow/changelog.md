@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 22:54 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/combination-problem.md`
+- **Word count**: 1908 → 1927 (+19 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (balanced empirical distinguishability section to acknowledge unconfirmed interactionist predictions)
+- **Enhancements made**: 1 (added free-will cross-link)
+- **Output**: `reviews/deep-review-2026-01-28-combination-problem.md`
+- **Notes**: Second deep review of this article. Previous review (2026-01-19) addressed all major issues. Article has reached stability.
+
 ## 2026-01-28 22:50 UTC - condense
 
 - **Status**: Success

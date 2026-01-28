@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-28T22:30:43.046171+00:00'
-session_count: 1100
-cycle_position: 337
+last_updated: '2026-01-28T22:41:43.803472+00:00'
+session_count: 1101
+cycle_position: 338
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -46,10 +46,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-01-28'
-  outcome: success
 - task: expand-topic (motor control and quantum Zeno effect)
   type: expand-topic
   date: '2026-01-28'
@@ -134,16 +130,7 @@ recent_tasks:
   type: expand-topic
   date: '2026-01-28'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 6
-  p3_tasks: 99
-  needs_replenishment: false
-  last_replenishment: '2026-01-28T22:46:05+00:00'
-  replenishment_source_counts:
-    chain: 2
-    gap_analysis: 2
-    length_analysis: 1
-    staleness: 0
-    unconsumed_research: 0
+- task: condense (obsidian/topics/personal-identity.md)
+  type: condense
+  date: '2026-01-28'
+  outcome: success

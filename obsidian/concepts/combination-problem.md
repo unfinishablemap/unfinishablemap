@@ -4,7 +4,7 @@ description: "If electrons have micro-experiences, how do billions combine into 
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-28T22:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-19T21:00:00+00:00
+last_deep_review: 2026-01-28T22:54:00+00:00
 ---
 
 The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James called this "the most peculiar puzzle" of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] avoids the problem entirely by denying that matter has micro-experiences in the first place.
@@ -149,7 +149,7 @@ Can we test which problem is more tractable? Several lines of evidence bear on t
 
 **Anesthesia and microtubules**: Studies showing that microtubule-stabilizing drugs delay anesthetic-induced unconsciousness (Wiest et al. 2024) support quantum mechanisms for consciousness without implicating micro-experience combination.
 
-The interactionist framework generates specific predictions testable by current methods. Panpsychism's combination proposals remain primarily conceptual, with no clear empirical consequences that would distinguish successful combination from failed combination.
+The interactionist framework generates specific predictions testable by current methods—though these predictions remain unconfirmed. Panpsychism's combination proposals remain primarily conceptual, with no clear empirical consequences that would distinguish successful combination from failed combination. Neither framework has decisive empirical support, but interactionism at least identifies what evidence would count.
 
 ## What Panpsychism Gets Right
 
@@ -183,6 +183,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - [[binding-problem]] — The neural coordination challenge (related but distinct)
 - [[minimal-consciousness]] — Empirical testing ground in simple organisms
 - [[interactionist-dualism]] — The alternative avoiding the problem
+- [[free-will]] — Mental causation implications of the interaction alternative
 - [[hard-problem-of-consciousness]] — The problem panpsychism aimed to solve
 - [[qualia]] — What must combine (or not)
 - [[tenets]] — the Map's foundational commitments
