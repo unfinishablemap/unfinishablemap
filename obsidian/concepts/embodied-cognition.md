@@ -4,7 +4,7 @@ description: "Cognition depends on the body and extends into the environment. Th
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-28T23:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,12 +26,13 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[embodied-cognition-extended-mind-2026-01-14]]"
+  - "[[embodiment-cognitive-limits]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-22T11:00:00+00:00
+last_deep_review: 2026-01-28T23:45:00+00:00
 ---
 
 Embodied cognition and the extended mind thesis argue that cognition depends on the body and extends into the environment. The "4E" approach—embodied, embedded, enacted, extended—challenges the view that minds are confined to brains running computational processes. Cognitive processes are shaped by bodily structure, embedded in environmental context, enacted through dynamic engagement, and may literally extend into tools and artifacts.
@@ -217,6 +218,7 @@ The key point: embodied cognition challenges a specific historical position (Car
 - [[intentionality]] — Motor intentionality and the directedness of embodied action
 - [[ai-consciousness]] — Why the grounding problem matters for machine minds
 - [[neurophenomenology]] — Varela's integration of embodied cognition with consciousness science
+- [[embodiment-cognitive-limits]] — How embodiment shapes and constrains what we can think (voids)
 - [[implicit-memory]] — Anoetic consciousness, the Dreyfus model, and choking as bidirectional evidence
 - [[brain-specialness]] — What makes neural systems the interface for consciousness
 - [[interface-locality]] — Why selection is brain-restricted

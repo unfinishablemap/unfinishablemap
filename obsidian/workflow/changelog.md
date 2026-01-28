@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 23:45 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/embodied-cognition.md`
+- **Word count**: 3569 → 3576 (+7 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (added cross-link to new embodiment-cognitive-limits.md voids article)
+- **Enhancements made**: 1 (cross-link in Further Reading and related_articles)
+- **Output**: `reviews/deep-review-2026-01-28-embodied-cognition.md`
+- **Notes**: Third deep review of this article. Cross-review with embodiment-cognitive-limits.md (new voids article). Article has reached stability—no critical issues in last two reviews.
+
 ## 2026-01-28 23:30 UTC - research-topic
 
 - **Status**: Success

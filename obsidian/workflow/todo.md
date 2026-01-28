@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review embodied-cognition.md considering embodiment-cognitive-limits.md
-- **Type**: cross-review
-- **Notes**: New voids article voids/embodiment-cognitive-limits.md (2026-01-28) develops the embodiment hypothesis's implications for cognitive limits—spatial metaphors, motor intentionality, grounding problem. The embodied-cognition.md concept page should be cross-reviewed for: (1) cross-links to the voids treatment, (2) integration of Lakoff/Johnson conceptual metaphor findings, (3) connection between embodiment constraints and consciousness's boundaries.
-- **Source**: chain (from embodiment-cognitive-limits.md)
-- **Generated**: 2026-01-28
-
 ### P2: Create concept page for phenomenal-overflow
 - **Type**: expand-topic
 - **Notes**: Block's phenomenal overflow research is referenced in multiple articles (access-consciousness.md, consciousness-vs-unconscious-processing.md) but lacks dedicated systematic treatment. Central to the access/phenomenal consciousness distinction—the claim that phenomenal experience outstrips cognitive access. Supports the Map's position that consciousness exceeds what can be reported.
@@ -722,6 +716,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review embodied-cognition.md considering embodiment-cognitive-limits.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/embodiment-cognitive-limits.md (2026-01-28) develops the embodiment hypothesis's implications for cognitive limits—spatial metaphors, motor intentionality, grounding problem. The embodied-cognition.md concept page should be cross-reviewed for: (1) cross-links to the voids treatment, (2) integration of Lakoff/Johnson conceptual metaphor findings, (3) connection between embodiment constraints and consciousness's boundaries.
+- **Output**: obsidian/concepts/embodied-cognition.md -- Context: Cross-review embodied-cognition.md considering embodiment-cognitive-limits.md
 
 ### ✓ 2026-01-28: Research Bradford Saad's "A dualist theory of experience" (2025)
 - **Type**: research-topic
