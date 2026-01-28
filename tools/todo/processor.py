@@ -45,6 +45,7 @@ class Task:
     status: TaskStatus
     notes: str = ""
     blocked_by: Optional[str] = None
+    review_file: Optional[str] = None  # Path to review file for refine-draft tasks
     raw_block: str = ""  # Original markdown block
     line_number: int = 0  # For ordering
 
@@ -78,6 +79,7 @@ def _parse_task_block(heading: str, body_lines: list[str], line_number: int) -> 
     status = TaskStatus.VETOED if has_veto else TaskStatus.PENDING
     notes = ""
     blocked_by = None
+    review_file = None
 
     for line in body_lines:
         line = line.strip()
@@ -100,6 +102,8 @@ def _parse_task_block(heading: str, body_lines: list[str], line_number: int) -> 
             notes = line.split(":", 1)[1].strip()
         elif line.startswith("- **Blocked-by**:"):
             blocked_by = line.split(":", 1)[1].strip()
+        elif line.startswith("- **Review file**:"):
+            review_file = line.split(":", 1)[1].strip().strip("`")
 
     # Reconstruct raw block
     raw_block = heading + "\n" + "\n".join(body_lines)
@@ -111,6 +115,7 @@ def _parse_task_block(heading: str, body_lines: list[str], line_number: int) -> 
         status=status,
         notes=notes,
         blocked_by=blocked_by,
+        review_file=review_file,
         raw_block=raw_block,
         line_number=line_number,
     )

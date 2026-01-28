@@ -132,6 +132,8 @@ def task_to_skill(task: Task) -> SkillInvocation:
         args = file_path or ""
         if task.notes:
             args = f"{args}\n\nTask context:\n{task.notes}"
+        if task.review_file:
+            args = f"{args}\n\nReview file: {task.review_file}"
         return SkillInvocation("refine-draft", args.strip())
 
     elif task_type == TaskType.DEEP_REVIEW:
