@@ -17,6 +17,20 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 22:30 UTC - outer-review
+
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.2 Pro
+- **File**: `reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-chatgpt-5-2-pro.md`
+- **Article reviewed**: `topics/chalmers-psychophysical-coupling.md`
+- **Claims verified**: 6 (against Chalmers' papers and Saad 2025)
+- **High-value findings**: 4
+  1. Five constraints misattributed to Chalmers & McQueen (actually from Saad 2025)
+  2. Many-Worlds claim overstates Chalmers-McQueen's position
+  3. Double-aspect information claim stronger than Chalmers' own framing
+  4. Epiphenomenalism characterization ignores Chalmers' neutrality
+- **Tasks generated**: 4 (P1: 2, P2: 2)
+
 ## 2026-01-28 21:45 UTC - expand-topic
 
 - **Status**: Success

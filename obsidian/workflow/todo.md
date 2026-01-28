@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Fix five constraints misattribution in chalmers-psychophysical-coupling.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-01-28. The article attributes a "five constraints" framework to Chalmers & McQueen (2022), but this framework is from Bradford Saad's 2025 paper "A dualist theory of experience" in *Philosophical Studies*. Either reattribute to Saad or label as the Map's synthesis. **Verified against source.**
+- **Source**: outer-review
+- **Generated**: 2026-01-28
+
+### P1: Correct Many-Worlds claim in chalmers-psychophysical-coupling.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-01-28. The article claims the Map and Chalmers-McQueen "share" a commitment to genuine collapse, implying they reject Many-Worlds. But Chalmers & McQueen explicitly state they are "exploring" consciousness-collapse models, not endorsing them. The arXiv abstract says "a research program worth exploring." Soften the claim to reflect their exploratory stance.
+- **Source**: outer-review
+- **Generated**: 2026-01-28
+
+### P2: Soften double-aspect information claim in chalmers-psychophysical-coupling.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-01-28. The article states "wherever information exists" it has phenomenal character. But Chalmers uses "information (or at least some information)" and treats "does all information have a phenomenal aspect?" as an open question. Add Chalmers' qualification. **Verified against "Facing Up".**
+- **Source**: outer-review
+- **Generated**: 2026-01-28
+
+### P2: Nuance epiphenomenalism characterization in chalmers-psychophysical-coupling.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-01-28. The article says Chalmers "tends toward epiphenomenalism." But in "Consciousness and Its Place in Nature" he distinguishes Type-D (interactionist) vs Type-E (epiphenomenalist) dualism and presents them as competing options without endorsing either. Rephrase to reflect his neutrality. **Verified against source.**
+- **Source**: outer-review
+- **Generated**: 2026-01-28
+
 ### P2: Cross-review binding-problem.md considering neural-binding-mechanisms
 - **Type**: cross-review
 - **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) provides detailed treatment of classical vs quantum binding mechanisms. Check binding-problem.md for: (1) cross-links to the mechanisms page, (2) consistency in BP1/BP2 distinction across articles, (3) whether the recent experimental evidence (microtubule-stabilizing drugs, MRI entanglement signatures) should be mentioned.
