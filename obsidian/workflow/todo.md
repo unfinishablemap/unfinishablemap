@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for counterfactual-reasoning
-- **Type**: expand-topic
-- **Notes**: Central to the baseline-cognition.md argument that consciousness enables counterfactual thinking (what *would* happen if...). Great apes are restricted to "zone of latent solutions" while humans explore counterfactual possibilities. Connects to free-will.md (libertarian choice requires counterfactual assessment) and mental-simulation concepts. A dedicated page would strengthen the consciousness-as-amplifier framework.
-- **Source**: gap_analysis (optimistic review 2026-01-28)
-- **Generated**: 2026-01-28
-
-### P2: Write article on delegatory dualism (Bradford Saad)
-- **Type**: expand-topic
-- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Saad's "A dualist theory of experience" (2025) develops delegatory dualism—a novel interactionist position where physical states "delegate" causal responsibilities to experiences. Addresses causal exclusion problem without overdetermination or epiphenomenalism. Strongly aligns with Bidirectional Interaction tenet. Key concepts: five constraints (Efficacy, Non-Overdetermination, Observational Closure, Upward Systematicity, Organizational Invariance), delegation mechanism, preemption structure.
-- **Source**: chain (from bradford-saad-delegatory-dualism-2026-01-28.md)
-- **Generated**: 2026-01-28
-
 ### P2: Cross-review access-consciousness.md considering phenomenal-overflow insights
 - **Type**: cross-review
 - **Notes**: New article concepts/phenomenal-overflow.md (2026-01-28) develops Block's argument that phenomenal consciousness exceeds cognitive access (Sperling experiments, partial report paradigm). The access-consciousness.md article defines A-consciousness. Check for: (1) cross-links to phenomenal-overflow treatment, (2) clarity on how overflow challenges the P=A identification, (3) whether the distinction between access and phenomenal is properly drawn.
@@ -660,12 +648,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Create concept page for counterfactual reasoning
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). Central to the baseline cognition argument for consciousness's cognitive role but not fully developed as concept. Connects to free-will.md, mental simulation, and the human-ape gap.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
 ### P3: Create concept page for self-locating beliefs
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). Important for vertiginous question and many-worlds discussions. The distinction between qualitative knowledge and self-locating knowledge deserves dedicated treatment. Connects to Lewis's Two Gods scenario.
@@ -740,6 +722,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Create concept page for counterfactual-reasoning
+- **Type**: expand-topic
+- **Notes**: Central to the baseline-cognition.md argument that consciousness enables counterfactual thinking (what *would* happen if...). Great apes are restricted to "zone of latent solutions" while humans explore counterfactual possibilities. Connects to free-will.md (libertarian choice requires counterfactual assessment) and mental-simulation concepts. A dedicated page would strengthen the consciousness-as-amplifier framework.
+- **Output**: Create concept page for counterfactual-reasoning
+
+### ✓ 2026-01-28: Create concept page for counterfactual-reasoning
+- **Type**: expand-topic
+- **Notes**: Central to the baseline-cognition.md argument that consciousness enables counterfactual thinking (what *would* happen if...). Great apes are restricted to "zone of latent solutions" while humans explore counterfactual possibilities. Connects to free-will.md (libertarian choice requires counterfactual assessment) and mental-simulation concepts. A dedicated page would strengthen the consciousness-as-amplifier framework.
+- **Output**: obsidian/concepts/counterfactual-reasoning.md
 
 ### ✓ 2026-01-28: Create concept page for phenomenal-overflow
 - **Type**: expand-topic

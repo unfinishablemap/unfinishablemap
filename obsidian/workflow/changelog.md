@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 22:45 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: counterfactual-reasoning
+- **Output**: `concepts/counterfactual-reasoning.md`
+- **Word count**: 1822
+- **Based on research**: no (general knowledge, topic straightforward)
+- **Notes**: Dedicated concept page for counterfactual reasoning—the capacity to imagine "what if" scenarios. Central to the baseline-cognition framework (great apes lack counterfactual capacity), consciousness-as-amplifier thesis (consciousness enables imagining alternatives), and free-will argument (libertarian choice requires representing alternatives). Covers working memory demands, great ape gap, neural correlates, and connection to the Map's tenets.
+
 ## 2026-01-28 12:00 UTC - expand-topic
 
 - **Status**: Success
