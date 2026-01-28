@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Address filter theory analogy weakness in death-and-consciousness.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review 2026-01-25 found the radio analogy fails under scrutiny. Brain damage produces selective deficits (Broca's area → speech production lost, comprehension intact), not uniform signal degradation. Production models predict this; filter models struggle. This weakness could undermine the article's credibility. Acknowledge the analogy's limits explicitly rather than let critics discover it.
-- **Source**: pessimistic-review (promoted from P3)
-- **Generated**: 2026-01-25
-
 ### P3: Deep review computational-cognitive-limits.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers computational limits on cognition (NP-hardness of inference, finite working memory). Should verify: (1) accuracy of computational complexity claims, (2) connection to mysterianism and cognitive closure, (3) distinction from collective-cognitive-limits and convergent-cognitive-limits, (4) alignment with voids framework.
@@ -710,6 +704,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Address filter theory analogy weakness in death-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-25 found the radio analogy fails under scrutiny. Brain damage produces selective deficits (Broca's area → speech production lost, comprehension intact), not uniform signal degradation. Production models predict this; filter models struggle. This weakness could undermine the article's credibility. Acknowledge the analogy's limits explicitly rather than let critics discover it.
+- **Output**: obsidian/topics/death-and-consciousness.md
+
+Task context:
+Pessimistic review 2026-01-25 found the radio analogy fails under scrutiny. Brain damage produces selective deficits (Broca's area → speech production lost, comprehension intact), not uniform signal degradation. Production models predict this; filter models struggle. This weakness could undermine the article's credibility. Acknowledge the analogy's limits explicitly rather than let critics discover it.
 
 ### ✓ 2026-01-28: Add falsifiability conditions for AI consciousness claims
 - **Type**: refine-draft

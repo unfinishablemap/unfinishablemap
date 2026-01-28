@@ -4,7 +4,7 @@ description: "Does consciousness survive bodily death? Dualism keeps the questio
 created: 2026-01-14
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-28T19:50:17+00:00
+ai_modified: 2026-01-28T21:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,6 +49,12 @@ Dualism opens a different possibility. If consciousness isn't reducible to neura
 This isn't mere philosophical speculation. [[introspection|Introspective]] evidence—the immediate access each person has to their own conscious states—provides the starting point. We know consciousness exists because we experience it directly. The question is whether this directly-known phenomenon depends essentially on neural substrate or merely interfaces with it.
 
 The distinction matters. [[filter-theory|Filter theory]]—developed by William James, Henri Bergson, and Aldous Huxley—provides a framework for understanding how consciousness might relate to brains without being produced by them. C.J. Ducasse's radio analogy captures the intuition: destroying a radio ends the program locally, but the broadcast continues. If the brain is a receiver or interface rather than the generator of consciousness, brain death might alter how consciousness manifests without destroying it.
+
+The radio analogy has limits. Brain damage produces *selective* deficits—damage to Broca's area eliminates speech production while leaving comprehension intact; damage to the fusiform face area impairs face recognition while sparing object recognition. A simple receiver would degrade uniformly, like static across all channels. This pattern fits production models: specialized circuits produce specialized capacities, and their destruction eliminates those capacities specifically.
+
+Filter theorists can respond in two ways. First, a more sophisticated transmission model: the brain isn't a simple receiver but a complex interface with specialized components that filter different aspects of consciousness. Damage to one component blocks transmission of that aspect while leaving others intact—like a mixing board with independent channel controls rather than a single volume knob. Second, the rendering engine analogy (developed in the [[filter-theory]] article): the brain renders experience using specialized subsystems, each handling different features. Damage the motion-processing component and movement perception degrades; damage the texture-rendering component and surfaces become bland. The rendering engine doesn't *produce* what it renders—it provides the means for consciousness to manifest in structured form.
+
+Neither response is fully satisfying. The selective-deficit pattern remains easier to explain on production models. This is a genuine weakness of filter theory, not a fatal one—the theory has other virtues (explaining the psychedelic paradox, accommodating NDEs, fitting the hard problem)—but intellectual honesty requires acknowledging where the analogy strains.
 
 ## The Identity Problem
 
@@ -257,3 +263,16 @@ What the Map claims: given its dualist commitments, survival is a *coherent poss
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 - Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*.
 - Hagan, S., Hameroff, S., & Tuszynski, J. (2002). "Quantum computation in brain microtubules." *Physical Review E*.
+
+<!-- AI REFINEMENT LOG - 2026-01-28
+Changes made:
+- Acknowledged limits of radio analogy for filter theory
+- Added discussion of selective brain deficits (Broca's area, fusiform face area examples)
+- Presented two filter-theorist responses: sophisticated transmission model and rendering engine analogy
+- Explicitly acknowledged this as a genuine weakness of filter theory
+
+Based on pessimistic review 2026-01-25 identifying radio analogy vulnerability.
+Key improvement: Intellectual honesty about where filter theory strains against empirical patterns.
+
+This log should be removed after human review.
+-->

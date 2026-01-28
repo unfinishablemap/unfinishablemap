@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 21:15 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/death-and-consciousness.md`
+- **Changes**: Acknowledged limits of radio analogy for filter theory
+- **Issue addressed**: Pessimistic review (2026-01-25) found radio analogy fails under scrutiny—brain damage produces selective deficits, not uniform signal degradation
+- **Key improvements**: Added discussion of selective deficit patterns (Broca's area, fusiform face area); presented two filter-theorist responses (sophisticated transmission model, rendering engine analogy); explicitly acknowledged this as genuine weakness of filter theory
+- **Published**: yes
+
 ## 2026-01-28 22:12 UTC - refine-draft
 
 - **Status**: Success
