@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-28T22:33:45+00:00
+ai_modified: 2026-01-28T22:46:05+00:00
 draft: false
 topics: []
 concepts: []
@@ -48,6 +48,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
+
+### P2: Condense personal-identity.md (4988 words, 125% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/ (currently 4988 words). Despite recent deep-review (2026-01-28), length remains excessive. Core arguments about indexical identity and the No Many Worlds tenet should be preserved while reducing redundancy. May defer detailed treatments of psychological continuity vs physical continuity to linked concept pages.
+- **Source**: length_analysis
+- **Generated**: 2026-01-28
+
+### P2: Cross-review embodied-cognition.md considering embodiment-cognitive-limits.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/embodiment-cognitive-limits.md (2026-01-28) develops the embodiment hypothesis's implications for cognitive limits—spatial metaphors, motor intentionality, grounding problem. The embodied-cognition.md concept page should be cross-reviewed for: (1) cross-links to the voids treatment, (2) integration of Lakoff/Johnson conceptual metaphor findings, (3) connection between embodiment constraints and consciousness's boundaries.
+- **Source**: chain (from embodiment-cognitive-limits.md)
+- **Generated**: 2026-01-28
+
+### P2: Create concept page for phenomenal-overflow
+- **Type**: expand-topic
+- **Notes**: Block's phenomenal overflow research is referenced in multiple articles (access-consciousness.md, consciousness-vs-unconscious-processing.md) but lacks dedicated systematic treatment. Central to the access/phenomenal consciousness distinction—the claim that phenomenal experience outstrips cognitive access. Supports the Map's position that consciousness exceeds what can be reported.
+- **Source**: gap_analysis (optimistic review 2026-01-28)
+- **Generated**: 2026-01-28
+
+### P2: Create concept page for counterfactual-reasoning
+- **Type**: expand-topic
+- **Notes**: Central to the baseline-cognition.md argument that consciousness enables counterfactual thinking (what *would* happen if...). Great apes are restricted to "zone of latent solutions" while humans explore counterfactual possibilities. Connects to free-will.md (libertarian choice requires counterfactual assessment) and mental-simulation concepts. A dedicated page would strengthen the consciousness-as-amplifier framework.
+- **Source**: gap_analysis (optimistic review 2026-01-28)
+- **Generated**: 2026-01-28
+
+### P3: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) develops evidence for cross-cultural universal cognitive limits (bias blind spot, mystical experiences). The collective-cognitive-limits.md article covers group-level limits (paradigm blindness, Overton windows). Check for: (1) cross-links between individual-universal and group-level limits, (2) whether convergent limits strengthen the case that some voids are species-level rather than cultural, (3) opportunities to distinguish group dynamics from individual architecture.
+- **Source**: chain (from convergent-cognitive-limits.md)
+- **Generated**: 2026-01-28
 
 ### P3: Deep review computational-cognitive-limits.md
 - **Type**: deep-review
