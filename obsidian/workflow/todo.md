@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review epiphenomenalism.md considering contemplative evidence
-- **Type**: cross-review
-- **Notes**: New article topics/contemplative-evidence-for-consciousness-theories.md (2026-01-27) presents meditation phenomenology and neuroplasticity as evidence distinguishing between theories—arguing that if consciousness were epiphenomenal, deliberate mental practice should not produce measurable effects. Check epiphenomenalism.md for: (1) cross-links to this new empirical challenge, (2) whether the contemplative evidence strengthens the self-undermining objection already present.
-- **Source**: chain (from contemplative-evidence-for-consciousness-theories.md)
-- **Generated**: 2026-01-27
-
 ### P3: Cross-review haecceity.md considering indexical-facts.md
 - **Type**: cross-review
 - **Notes**: New article concepts/indexical-facts.md (2026-01-27) develops the concept of facts specifiable only through indexicals like "I", "here", "now"—central to the vertiginous question. Check haecceity.md for: (1) cross-links to indexical facts treatment, (2) whether the distinction between haecceity (primitive thisness) and indexical facts is clear, (3) opportunities to strengthen the connection to personal identity puzzles.
@@ -600,6 +594,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next `/e
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review epiphenomenalism.md considering contemplative evidence
+- **Type**: cross-review
+- **Notes**: New article topics/contemplative-evidence-for-consciousness-theories.md (2026-01-27) presents meditation phenomenology and neuroplasticity as evidence distinguishing between theories—arguing that if consciousness were epiphenomenal, deliberate mental practice should not produce measurable effects. Check epiphenomenalism.md for: (1) cross-links to this new empirical challenge, (2) whether the contemplative evidence strengthens the self-undermining objection already present.
+- **Output**: obsidian/concepts/epiphenomenalism.md -- Context: Cross-review epiphenomenalism.md considering contemplative evidence
 
 ### ✓ 2026-01-27: Write voids article on the other minds void
 - **Type**: expand-topic
