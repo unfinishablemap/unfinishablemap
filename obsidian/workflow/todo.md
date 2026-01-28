@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-28T21:15:00+00:00
+ai_modified: 2026-01-28T19:43:12+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,18 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write article on Hoel's continual learning argument against LLM consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel argues that consciousness requires continual learning (memory formation during inference), which current LLMs lack. This strengthens the Map's position on AI consciousness and provides a falsifiable criterion. Builds on ai-consciousness.md, llm-consciousness.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-28
-
-### P2: Cross-review mysterianism.md considering convergent-cognitive-limits insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) develops cross-cultural evidence for species-level cognitive limits (bias blind spot universality, mystical ineffability structure). Check mysterianism.md for: (1) cross-links to convergent limits evidence, (2) whether McGinn's cognitive closure argument is strengthened by empirical convergence data, (3) distinction between culturally contingent vs architecturally imposed limits.
-- **Source**: chain (from convergent-cognitive-limits.md)
-- **Generated**: 2026-01-28
 
 ### P2: Cross-review ai-as-void-explorer.md considering convergent-cognitive-limits
 - **Type**: cross-review
@@ -677,6 +665,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Write article on Hoel's continual learning argument against LLM consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel argues that consciousness requires continual learning (memory formation during inference), which current LLMs lack. This strengthens the Map's position on AI consciousness and provides a falsifiable criterion. Builds on ai-consciousness.md, llm-consciousness.md.
+- **Output**: Hoel's continual learning argument against LLM consciousness
 
 ### ✓ 2026-01-28: Write article on motor control and quantum Zeno effect
 - **Type**: expand-topic

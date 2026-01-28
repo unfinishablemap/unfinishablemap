@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-28T21:15:00+00:00
+ai_modified: 2026-01-28T19:43:12+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,14 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-01-28 19:43 UTC - expand-topic (duplicate)
+
+- **Status**: Skipped (article already exists)
+- **Topic**: Hoel's continual learning argument against LLM consciousness
+- **Existing output**: `concepts/continual-learning-argument.md`
+- **Word count**: ~2700
+- **Notes**: Task was duplicate. Comprehensive article "Continual Learning Argument" already exists at concepts/continual-learning-argument.md (created 2026-01-20, deep-reviewed 2026-01-20, last modified 2026-01-26). Also extensively covered in concepts/llm-consciousness.md (section "Hoel's Arguments") and topics/ai-consciousness.md. The research (research/hoel-llm-consciousness-continual-learning-2026-01-15.md) has been fully consumed into multiple articles.
 
 ## 2026-01-28 23:15 UTC - expand-topic (duplicate)
 
