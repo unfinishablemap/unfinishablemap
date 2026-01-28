@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 22:15 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: Embodiment and Cognitive Limits
+- **Category**: Unexplorable / Mixed
+- **Output**: `research/voids-embodiment-cognitive-limits-2026-01-28.md`
+- **Key finding**: Embodied cognition research suggests that cognition is not merely implemented in but constituted by bodies—sensorimotor grounding, interoceptive signals, and spatial metaphors from morphology may be required for meaning and consciousness. Disembodied minds, if possible, would face radically different cognitive landscapes. Some voids exist *because* of embodiment (constraints the body imposes); others exist *despite* embodiment (constraints embodiment enables us to partially transcend).
+
 ## 2026-01-28 21:52 UTC - refine-draft
 
 - **Status**: Success
