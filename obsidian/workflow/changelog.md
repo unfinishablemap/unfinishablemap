@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 - expand-topic
+
+- **Status**: Success
+- **Topic**: Neural Binding Mechanisms
+- **Output**: `concepts/neural-binding-mechanisms.md`
+- **Word count**: 1802
+- **Based on research**: Yes (`research/neural-binding-quantum-entanglement-2026-01-19.md`)
+- **Content**: Concept page covering classical neural binding mechanisms (gamma synchrony, thalamocortical resonance, global workspace) and their limitations at explaining phenomenal unity (BP2), contrasted with quantum entanglement as the only physical mechanism providing genuine ontological holism. Includes the zero-lag synchrony problem, experimental evidence, and the structural match between quantum and phenomenal unity.
+
 ## 2026-01-28 22:30 UTC - deep-review
 
 - **Status**: Success

@@ -49,18 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on neural binding and quantum entanglement
-- **Type**: expand-topic
-- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md. Examines whether quantum entanglement could explain the unity of consciousness—how distributed neural processing becomes unified experience. Central to binding-problem.md treatment. The 2025 Wiest et al. anesthetic studies (613 THz oscillation suppression) provide empirical hooks. Supports Minimal Quantum Interaction tenet.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-28
-
-### P2: Address trained confabulation hypothesis in voids cluster
-- **Type**: refine-draft
-- **Notes**: Pessimistic review 2026-01-28 found the apophatic-approaches, phenomenology-of-the-edge, and the-unobservable-self articles rely heavily on phenomenological reports while acknowledging introspection is unreliable. Cross-cultural convergence of mystical reports is treated as evidence of contact with 'something real'—but shared brain architecture predicts convergent phenomenology without transcendent contact. Add explicit engagement with the trained confabulation hypothesis: if contemplatives across traditions enter similar brain states, they might generate similar confabulations without contacting anything transcendent. Specify what evidence would distinguish genuine cognitive limits from consistent illusions.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-28
-
 ### P2: Cross-review witness-consciousness.md considering contemplative evidence
 - **Type**: cross-review
 - **Notes**: New article topics/contemplative-evidence-for-consciousness-theories.md (2026-01-27) presents systematic contemplative phenomenology across traditions. The witness-consciousness.md concept is central to this evidence base—the pure awareness that observes without identifying with content. Check for: (1) cross-links to contemplative evidence treatment, (2) whether the phenomenological descriptions are consistent, (3) whether witness-consciousness strengthens the dualist interpretation of contemplative reports.
@@ -642,6 +630,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Write article on neural binding and quantum entanglement
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md. Examines whether quantum entanglement could explain the unity of consciousness—how distributed neural processing becomes unified experience. Central to binding-problem.md treatment. The 2025 Wiest et al. anesthetic studies (613 THz oscillation suppression) provide empirical hooks. Supports Minimal Quantum Interaction tenet.
+- **Output**: neural binding and quantum entanglement
 
 ### ✓ 2026-01-28: Create concept page for QBism
 - **Type**: expand-topic
