@@ -4,7 +4,7 @@ description: "QBism interprets quantum states as subjective beliefs, not objecti
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-28T22:30:00+00:00
+ai_modified: 2026-01-28T17:05:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-28
 last_curated: null
-last_deep_review: 2026-01-28T22:30:00+00:00
+last_deep_review: 2026-01-28T17:05:58+00:00
 ---
 
 QBism (Quantum Bayesianism) is an interpretation of quantum mechanics that treats quantum states as representing an agent's subjective beliefs rather than objective features of reality. Developed primarily by Christopher Fuchs, Carlton Caves, and Rüdiger Schack, QBism dissolves the [[measurement-problem]] by denying there was ever an objective wave function to collapse. "Collapse" is simply belief-updating—the agent learns something and revises their expectations.
@@ -50,7 +50,7 @@ This dissolution is elegant but comes at a cost. QBism explains why we *describe
 
 QBism's deepest tension concerns its central concept: the agent.
 
-**What is an agent?** QBism requires agents to hold beliefs, make predictions, and experience measurement outcomes. But it provides no account of what makes something an agent rather than a mere physical system. Fuchs explicitly declines to define agency in physical terms, treating it as primitive—arguing that agents are "the most basic category" irreducible to anything more fundamental (Fuchs 2017).
+**What is an agent?** QBism requires agents to hold beliefs, make predictions, and experience measurement outcomes. These beliefs must cohere into a unified perspective—what philosophers call [[phenomenal-unity]]—yet QBism provides no account of what makes something an agent rather than a mere physical system. Fuchs explicitly declines to define agency in physical terms, treating it as primitive—arguing that agents are "the most basic category" irreducible to anything more fundamental (Fuchs 2017).
 
 **The experience presupposition.** For an agent to update beliefs upon measurement, they must have determinate experiences—they must *find* something, not merely exist in correlation with outcomes. QBism takes for granted exactly what the [[hard-problem-of-consciousness]] asks us to explain: why there is something it is like to be an agent at all.
 
@@ -134,6 +134,8 @@ Despite its limitations, QBism contributes several insights the Map affirms:
 - [[relational-quantum-mechanics]] — Another perspectival interpretation with different implications
 - [[haecceity]] — The "thisness" QBism implicitly invokes but doesn't explain
 - [[hard-problem-of-consciousness]] — What QBism's agents presuppose
+- [[phenomenal-unity]] — The unified experience QBism's agents must possess
+- [[neural-binding-mechanisms]] — Physical processes that might underlie unified agency
 
 ## References
 
