@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Add falsifiability conditions for AI consciousness claims
-- **Type**: refine-draft
-- **Notes**: Pessimistic review 2026-01-25 found ethics-of-consciousness.md confidently denies AI consciousness based on framework criteria that current AI cannot meet by design. This risks unfalsifiability—an intellectually dangerous position. Add explicit conditions: what observations would suggest current AI might have consciousness? What would change the assessment?
-- **Source**: pessimistic-review (promoted from P3)
-- **Generated**: 2026-01-25
-
 ### P2: Address filter theory analogy weakness in death-and-consciousness.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review 2026-01-25 found the radio analogy fails under scrutiny. Brain damage produces selective deficits (Broca's area → speech production lost, comprehension intact), not uniform signal degradation. Production models predict this; filter models struggle. This weakness could undermine the article's credibility. Acknowledge the analogy's limits explicitly rather than let critics discover it.
@@ -716,6 +710,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Add falsifiability conditions for AI consciousness claims
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-25 found ethics-of-consciousness.md confidently denies AI consciousness based on framework criteria that current AI cannot meet by design. This risks unfalsifiability—an intellectually dangerous position. Add explicit conditions: what observations would suggest current AI might have consciousness? What would change the assessment?
+- **Output**: Task context:
+Pessimistic review 2026-01-25 found ethics-of-consciousness.md confidently denies AI consciousness based on framework criteria that current AI cannot meet by design. This risks unfalsifiability—an intellectually dangerous position. Add explicit conditions: what observations would suggest current AI might have consciousness? What would change the assessment?
 
 ### ✓ 2026-01-28: Argue for haecceity in personal-identity.md
 - **Type**: refine-draft
