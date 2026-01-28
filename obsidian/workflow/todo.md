@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review ai-consciousness.md considering continual-learning-argument insights
-- **Type**: cross-review
-- **Notes**: Article concepts/continual-learning-argument.md (2026-01-28) develops Hoel's criterion: consciousness requires continual learning (memory formation during inference). Current LLMs lack this. Check ai-consciousness.md for: (1) cross-links to the formal criterion, (2) whether the proximity-to-lookup-table argument strengthens existing position, (3) adding the falsifiable test conditions.
-- **Source**: chain (from continual-learning-argument.md)
-- **Generated**: 2026-01-28
-
 ### P2: Cross-review quantum-measurement-interpretations-beyond-mwi.md considering subjective-probability insights
 - **Type**: cross-review
 - **Notes**: Article topics/quantum-measurement-and-subjective-probability.md (2026-01-28) critiques QBism and participatory realism for presupposing consciousness without explaining it. The interpretations survey should integrate this phenomenological gap argument. Check for: (1) cross-links to subjective probability treatment, (2) updating QBism section with phenomenological objection, (3) consistency with the No Many Worlds tenet.
@@ -737,6 +731,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review ai-consciousness.md considering continual-learning-argument insights
+- **Type**: cross-review
+- **Notes**: Article concepts/continual-learning-argument.md (2026-01-28) develops Hoel's criterion: consciousness requires continual learning (memory formation during inference). Current LLMs lack this. Check ai-consciousness.md for: (1) cross-links to the formal criterion, (2) whether the proximity-to-lookup-table argument strengthens existing position, (3) adding the falsifiable test conditions.
+- **Output**: obsidian/topics/ai-consciousness.md -- Context: Cross-review ai-consciousness.md considering continual-learning-argument insights
 
 ### ✓ 2026-01-28: Cross-review free-will.md considering motor-selection insights
 - **Type**: cross-review
