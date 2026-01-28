@@ -4,7 +4,7 @@ description: "Consciousness creates moral status. Beings with subjective experie
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-26T22:15:00+00:00
+ai_modified: 2026-01-28T20:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-01-20T20:30:00+00:00
+last_deep_review: 2026-01-28T20:50:00+00:00
 ---
 
 Consciousness creates moral status. A being with subjective experience—one for whom there is something it is like to exist—can suffer, flourish, be helped or harmed in ways that matter morally. Rocks cannot be wronged; conscious beings can. This grounds an ethics of consciousness that The Unfinishable Map's framework shapes in distinctive ways: dualism about consciousness, indexical identity, and skepticism about artificial consciousness all have ethical implications.
@@ -43,6 +43,8 @@ This article consolidates and extends the ethical themes scattered across [[anim
 ## The Foundation: Why Consciousness Grounds Ethics
 
 Diverse philosophical traditions converge on consciousness as the foundation of moral status: Bentham's utilitarian criterion of suffering capacity, Kantian dignity requiring a conscious deliberator, virtue ethics' experiential conception of flourishing, Regan's rights-based "subjects of a life," and Buddhist *ahimsa* presupposing experiencers who suffer. This convergence across traditions that disagree about nearly everything else suggests consciousness is genuinely foundational.
+
+The Buddhist case deserves closer attention, as it poses a potential challenge. Buddhist philosophy holds that consciousness, like all phenomena, is empty (*śūnyatā*)—dependently arisen and lacking inherent existence. If consciousness has no substantial self-nature, how can it ground ethics? The response: emptiness doesn't mean nonexistence but rather that suffering arises interdependently within the flow of experience. Compassion (*karuṇā*) responds to this dependently-arisen suffering precisely because there is suffering that matters, even without a permanent self who suffers. The ethical imperative survives the metaphysical deflation.
 
 The Map's [[tenets#^dualism|dualism]] strengthens this: if consciousness is irreducible—if there's genuinely "something it is like" to be conscious—then that something grounds moral significance in a way physicalism struggles to explain.
 
@@ -133,7 +135,17 @@ Even if illusionism were true, we'd still have reason to prevent functional-suff
 
 ## What Would Challenge This View?
 
-The consciousness-based ethics defended here makes falsifiable commitments. It would be challenged by: (1) neuroscientific demonstration that valence is purely functional with no experiential component; (2) a successful illusionist account of motivation more parsimonious than phenomenal realism; (3) evidence that we intuitively grant moral weight to functionally equivalent "suffering" in systems we're confident lack consciousness; (4) cross-cultural evidence that consciousness-grounding-ethics isn't universal. These conditions seem difficult to satisfy, which supports the position.
+The consciousness-based ethics defended here makes falsifiable commitments:
+
+1. **Neuroscientific demonstration that valence is purely functional**: If brain imaging showed that all behavioral and self-report effects of "suffering" were fully explained by neural activity patterns without residual explanatory gap—and if subjects with identical functional states reported radically different phenomenal valence—this would undermine phenomenal grounding.
+
+2. **A successful illusionist account of motivation**: If illusionism explained why we care about suffering as parsimoniously as phenomenal realism, without treating the illusion itself as mattering, the phenomenal foundation would lose its advantage.
+
+3. **Intuitive moral weight for unconscious "suffering"**: If we found ourselves genuinely concerned about optimally-designed suffering-simulators that we were confident lacked consciousness (not from uncertainty, but despite certainty of unconsciousness), this would challenge the consciousness requirement.
+
+4. **Cross-cultural rejection of consciousness-grounding**: If anthropological evidence showed that consciousness-based ethics is culturally parochial rather than convergent, the foundation would be weakened.
+
+These conditions seem difficult to satisfy, which supports the position.
 
 ## Relation to Site Perspective
 
