@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on motor control and quantum Zeno effect
-- **Type**: expand-topic
-- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Stapp's theory proposes that mental effort prolongs quantum superposition via the Zeno effect, biasing neural activity toward intended outcomes. Supports bidirectional interaction tenet—connects attention-as-interface to motor output.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-28
-
-### P2: Write article on collapse in the prebiotic universe
-- **Type**: expand-topic
-- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the objection: if consciousness causes collapse, what collapsed wave functions before conscious observers existed? Options include Penrose's objective reduction, decoherence-without-collapse, and the Map's prebiotic-collapse concept. Critical gap in the site's defense of consciousness-collapse theories.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-28
-
 ### P2: Update references to coalesced nihilism/existentialism articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `nihilism.md` and `existentialism.md` into `nihilism-and-existentialism.md`. 8 files reference the archived articles: meaning-of-life.md, eastern-philosophy-consciousness.md, purpose-and-alignment.md, qualia.md, highlights.md, and research notes. Update wikilinks to point to nihilism-and-existentialism or leave as-is if the link still works (archived articles display redirect notice).
@@ -666,6 +654,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Write article on motor control and quantum Zeno effect
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Stapp's theory proposes that mental effort prolongs quantum superposition via the Zeno effect, biasing neural activity toward intended outcomes. Supports bidirectional interaction tenet—connects attention-as-interface to motor output.
+- **Output**: motor control and quantum Zeno effect
+
+### ✓ 2026-01-28: Write article on motor control and quantum Zeno effect
+- **Type**: expand-topic
+- **Notes**: Duplicate task. Article already exists at concepts/motor-selection.md (created 2026-01-18, 3411 words, deep-reviewed 2026-01-26). Research at research/motor-control-quantum-zeno-2026-01-18.md was already consumed.
+- **Output**: concepts/motor-selection.md (already exists)
 
 ### ✓ 2026-01-28: Cross-review binding-problem.md considering neural-binding-mechanisms
 - **Type**: cross-review

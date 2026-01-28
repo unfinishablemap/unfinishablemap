@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 23:15 UTC - expand-topic (duplicate)
+
+- **Status**: Skipped (article already exists)
+- **Topic**: motor control and quantum Zeno effect
+- **Existing output**: `concepts/motor-selection.md`
+- **Word count**: 3411
+- **Notes**: Task was duplicate. Article "Motor Selection and the Quantum Zeno Effect" already exists at concepts/motor-selection.md, created 2026-01-18 based on research/motor-control-quantum-zeno-2026-01-18.md. Deep-reviewed 2026-01-26. The research has been consumed; no new article needed.
+
 ## 2026-01-28 22:30 UTC - pessimistic-review
 
 - **Status**: Success
