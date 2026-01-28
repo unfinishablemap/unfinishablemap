@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-28T21:18:08+00:00
+ai_modified: 2026-01-28T22:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ concepts:
   - "[[consciousness-and-mathematical-understanding]]"
   - "[[conceptual-acquisition-limits]]"
   - "[[computational-cognitive-limits]]"
+  - "[[convergent-cognitive-limits]]"
 related_articles:
   - "[[tenets]]"
   - "[[mysterianism-cognitive-closure-2026-01-14]]"
@@ -32,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-27T15:50:09+00:00
+last_deep_review: 2026-01-28T22:30:00+00:00
 coalesced_from:
   - "/topics/mysterianism-cognitive-closure/"
 ---
@@ -53,9 +54,9 @@ McGinn proposes that humans are cognitively closed with respect to property "P"�
 
 ## Nagel's Bat
 
-Thomas Nagel anticipated mysterianism in his 1974 paper "What Is It Like to Be a Bat?" Understanding bat consciousness would require grasping what echolocation is *like* from the inside—but we cannot. We can imagine hanging upside down or navigating by sound, but these are *our* experiences wearing bat costumes.
+Thomas Nagel anticipated mysterianism in his 1974 paper "What Is It Like to Be a Bat?" Understanding bat consciousness would require grasping what echolocation is *like* from the inside—but we cannot. Imagining hanging upside down or navigating by sound gives us *our* experiences wearing bat costumes.
 
-Nagel's broader point: objective scientific methods cannot capture subjective experience without loss. To understand consciousness objectively, we must abstract away from viewpoints—but viewpoints are precisely what we're trying to understand. The gap is structural, not merely current ignorance.
+Nagel's broader point: objective scientific methods cannot capture subjective experience without loss. Understanding consciousness objectively requires abstracting away from viewpoints—but viewpoints are precisely what we're trying to understand. The gap is structural, not merely current ignorance.
 
 ## Simple Minds and Complete Knowledge
 
@@ -67,13 +68,13 @@ If complete description doesn't reveal consciousness in a 302-neuron organism, w
 
 Noam Chomsky distinguished "problems" (difficulties within our cognitive capacities) from "mysteries" (beyond cognitive reach, like calculus for dogs). We're biological organisms with specific cognitive architectures—some questions may fall outside what that architecture can handle.
 
-Consciousness might be such a mystery. The [[explanatory-gap]] persists despite centuries of effort—perhaps not because we haven't tried hard enough, but because trying harder won't help.
+Consciousness might be such a mystery. The [[explanatory-gap]] persists despite centuries of effort—perhaps not because we haven't tried hard enough, but because trying harder won't help. Notably, research on [[convergent-cognitive-limits]] shows that certain cognitive limits appear universally across isolated cultures—the bias blind spot, mystical ineffability, and the explanatory gap itself persist regardless of cultural framework, suggesting species-level constraints rather than cultural artifacts.
 
 ## Concept Nativism and Cognitive Closure
 
-Jerry Fodor's [[conceptual-acquisition-limits|radical concept nativism]] complements McGinn: while McGinn argues we cannot *conceive* certain properties, Fodor argues we cannot *acquire* certain concepts at all. Learning a concept requires already possessing it to formulate hypotheses—if the concept isn't built in, no amount of experience produces it.
+Jerry Fodor's [[conceptual-acquisition-limits|radical concept nativism]] complements McGinn: while McGinn argues we cannot *conceive* certain properties, Fodor argues we cannot *acquire* certain concepts at all. Learning requires already possessing the concept to formulate hypotheses—if it isn't built in, experience cannot produce it.
 
-McGinn's "property P" may be closed to us because we lack the primitive concepts required to build toward it. This convergence—Fodor on acquisition, McGinn on conception, Rescher's "agnoseology" on unknowability—suggests cognitive closure reflects a broader truth: any mind powerful enough to think some thoughts is thereby prevented from thinking others.
+McGinn's "property P" may be closed because we lack the primitive concepts required to build toward it. This convergence—Fodor on acquisition, McGinn on conception, Rescher's "agnoseology" on unknowability—suggests any mind powerful enough to think some thoughts is thereby prevented from thinking others.
 
 ## The Intrinsic Nature Connection
 
@@ -191,6 +192,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 
 ## Further Reading
 
+- [[convergent-cognitive-limits]] — Cross-cultural evidence that certain cognitive limits are species-wide
 - [[computational-cognitive-limits]] — Proven mathematical limits on what any algorithmic mind can know
 - [[conceptual-acquisition-limits]] — Fodor's nativist argument that concepts must be innate or inaccessible
 - [[consciousness-and-mathematical-understanding]] — Mathematical insight as evidence for cognitive limits
