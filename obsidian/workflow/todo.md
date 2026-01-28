@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-28T20:20:48+00:00
+ai_modified: 2026-01-28T21:13:41+00:00
 draft: false
 topics: []
 concepts: []
@@ -48,6 +48,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
+
+### P2: Cross-review llm-consciousness.md considering continual-learning-argument insights
+- **Type**: cross-review
+- **Notes**: New article concepts/continual-learning-argument.md (2026-01-28) develops Hoel's falsifiable criterion: consciousness requires continual learning (memory formation during inference). The llm-consciousness.md article is the primary treatment of LLM consciousness but may not yet integrate this criterion. Check for: (1) cross-links to continual-learning-argument, (2) whether the "proximity to lookup table" argument should be added, (3) updating the theoretical framework with the falsifiability angle.
+- **Source**: chain (from continual-learning-argument.md)
+- **Generated**: 2026-01-28
+
+### P2: Cross-review mysterianism-cognitive-closure.md considering convergent-cognitive-limits
+- **Type**: cross-review
+- **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) provides empirical methodology for identifying species-level limits via cross-cultural convergence. The mysterianism article discusses cognitive closure (McGinn). Check for: (1) cross-links to convergent limits as empirical support for closure hypothesis, (2) whether universal bias patterns strengthen the mysterian position, (3) the distinction between contingent limits (could vary) and convergent limits (structural).
+- **Source**: chain (from convergent-cognitive-limits.md)
+- **Generated**: 2026-01-28
+
+### P2: Argue for haecceity in personal-identity.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-25 found haecceity assumed rather than argued. The article treats "you are not interchangeable with a replica" as obvious, but this is Parfit's contested claim. Critical for No Many Worlds tenet defense. Distinguish phenomenological claim (it seems like I have haecceity) from metaphysical claim (haecceity exists). Address error theory: could sense of haecceity be cognitive illusion?
+- **Source**: pessimistic-review (promoted from P3)
+- **Generated**: 2026-01-25
+
+### P2: Add falsifiability conditions for AI consciousness claims
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-25 found ethics-of-consciousness.md confidently denies AI consciousness based on framework criteria that current AI cannot meet by design. This risks unfalsifiability—an intellectually dangerous position. Add explicit conditions: what observations would suggest current AI might have consciousness? What would change the assessment?
+- **Source**: pessimistic-review (promoted from P3)
+- **Generated**: 2026-01-25
+
+### P2: Address filter theory analogy weakness in death-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-25 found the radio analogy fails under scrutiny. Brain damage produces selective deficits (Broca's area → speech production lost, comprehension intact), not uniform signal degradation. Production models predict this; filter models struggle. This weakness could undermine the article's credibility. Acknowledge the analogy's limits explicitly rather than let critics discover it.
+- **Source**: pessimistic-review (promoted from P3)
+- **Generated**: 2026-01-25
 
 ### P3: Deep review computational-cognitive-limits.md
 - **Type**: deep-review
@@ -331,31 +361,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Address filter theory analogy weakness in death-and-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-01-25 found the radio analogy fails under scrutiny. Brain damage produces selective deficits (Broca's area → speech production lost, comprehension intact), not uniform signal degradation. Production models predict this; filter models struggle. Acknowledge the analogy's limits explicitly.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-25
-
 ### P3: Strengthen illusionism engagement in death-and-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Pessimistic review 2026-01-25 found the "regress problem" response begs the question against illusionism. Illusionists deny that representation requires experience. The brain can represent itself as having phenomenal properties without phenomenal properties being instantiated. Engage with this stronger form.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-25
-
-### P3: Add falsifiability conditions for AI consciousness claims
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-01-25 found ethics-of-consciousness.md confidently denies AI consciousness based on framework criteria that current AI cannot meet by design. This risks unfalsifiability. Add explicit conditions: what observations would suggest current AI might have consciousness? What would change the assessment?
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-25
-
-### P3: Argue for haecceity in personal-identity.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-01-25 found haecceity assumed rather than argued. The article treats "you are not interchangeable with a replica" as obvious, but this is Parfit's contested claim. Distinguish phenomenological claim (it seems like I have haecceity) from metaphysical claim (haecceity exists). Address error theory: could sense of haecceity be cognitive illusion?
 - **Source**: pessimistic-review
 - **Generated**: 2026-01-25
 
