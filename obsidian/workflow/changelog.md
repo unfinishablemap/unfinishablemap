@@ -17,6 +17,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 15:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/indexical-facts.md`
+- **Word count**: 1696 → 2105 (+409)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 5
+  1. Added "The Epistemic Objection" subsection responding to physicalist challenge
+  2. Added paragraph on Buddhist/Parfitian no-self views with response
+  3. Expanded MWI section explaining why self-locating uncertainty fails
+  4. Corrected List citation (2022, not 2025)
+  5. Added complete Friederich & Dawid citation
+- **Enhancements made**: 3
+  1. Direct engagement with strongest counterarguments
+  2. Clarified Friederich & Dawid critique of Sebens-Carroll approach
+  3. Strengthened connection to vertiginous question
+- **Output**: `reviews/deep-review-2026-01-28-indexical-facts.md`
+
 ## 2026-01-28 14:26 UTC - deep-review
 
 - **Status**: Success
