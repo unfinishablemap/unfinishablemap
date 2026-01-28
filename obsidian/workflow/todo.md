@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P3: Cross-review hard-problem-of-consciousness.md considering IIT critique
-- **Type**: cross-review
-- **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) argues IIT renders consciousness passive despite mathematical sophistication. Check hard-problem-of-consciousness.md for: (1) cross-links to the new critique, (2) whether IIT's approach to the hard problem is adequately addressed, (3) consistency with the critique's argument that IIT trades explanation for assertion.
-- **Source**: chain (from integrated-information-theory-critique.md)
-- **Generated**: 2026-01-28
-
 ### P3: Cross-review global-workspace-theory.md considering IIT critique
 - **Type**: cross-review
 - **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) provides detailed critique of IIT from the Map's interactionist perspective. Global Workspace Theory is often compared to IIT. Check global-workspace-theory.md for: (1) cross-links to IIT critique, (2) whether GWT avoids the passivity objection raised against IIT, (3) opportunities to clarify how both theories handle consciousness's causal role.
@@ -624,6 +618,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review hard-problem-of-consciousness.md considering IIT critique
+- **Type**: cross-review
+- **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) argues IIT renders consciousness passive despite mathematical sophistication. Check hard-problem-of-consciousness.md for: (1) cross-links to the new critique, (2) whether IIT's approach to the hard problem is adequately addressed, (3) consistency with the critique's argument that IIT trades explanation for assertion.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering IIT critique
 
 ### ✓ 2026-01-28: Cross-review epiphenomenalism.md considering contemplative evidence
 - **Type**: cross-review

@@ -17,6 +17,20 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 12:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/hard-problem-of-consciousness.md`
+- **Context**: Cross-review considering IIT critique article
+- **Word count**: 2837 → 2916 (+79)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (IIT section lacked integration with new critique article)
+- **Enhancements made**: 3
+  - Expanded IIT section with passivity problem and temporal gap arguments
+  - Added cross-link to integrated-information-theory-critique
+  - Added internal reference to temporal phenomenology section
+- **Output**: `reviews/deep-review-2026-01-28-hard-problem-of-consciousness.md`
+
 ## 2026-01-28 11:27 UTC - deep-review
 
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-01-27T16:45:00+00:00
+ai_modified: 2026-01-28T12:30:00+00:00
 draft: false
 topics: []
 concepts:
@@ -52,6 +52,7 @@ related_articles:
   - "[[mysterianism-cognitive-closure]]"
   - "[[materialism]]"
   - "[[integrated-information-theory]]"
+  - "[[integrated-information-theory-critique]]"
   - "[[quantum-consciousness]]"
   - "[[chalmers-psychophysical-laws-2026-01-17]]"
 ai_contribution: 100
@@ -59,7 +60,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-06
 last_curated:
-last_deep_review: 2026-01-27T16:45:00+00:00
+last_deep_review: 2026-01-28T12:30:00+00:00
 ---
 
 Why is there something it is like to be you?
@@ -209,6 +210,8 @@ Block's China brain illustrates: the entire population implementing a brain's fu
 [[integrated-information-theory|Integrated Information Theory (IIT)]] attempts to dissolve the hard problem by *identifying* consciousness with integrated information. Rather than explaining how physical processes give rise to experience, IIT claims consciousness *is* a certain kind of physical structure (measured by phi/Φ).
 
 Does this solve the hard problem? Critics argue it merely relocates the mystery: instead of asking "why does this physical process produce experience?" we ask "why is integrated information identical to experience?" The explanatory gap reappears at a different level.
+
+The [[integrated-information-theory-critique|Map's critique of IIT]] identifies deeper problems. First, identity makes consciousness passive—if consciousness *is* integrated information rather than something that *acts on* physical systems, it faces the same self-undermining objection as epiphenomenalism: our beliefs about experience are caused entirely by physics, with no input from experience itself. Second, IIT calculates Φ at instants, yet consciousness extends through time—the specious present spans 1-3 seconds. This temporal gap means IIT cannot explain the phenomenology this article's own [[#temporal-phenomenology|temporal section]] describes.
 
 ### Chalmers' Psychophysical Framework
 
