@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review problem-of-other-minds.md considering other-minds-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/other-minds-void.md (2026-01-27) develops the fundamental inaccessibility of other consciousnesses—each mind sealed within itself. The problem-of-other-minds.md concept discusses the epistemological challenge. Check for: (1) cross-links to the new voids treatment, (2) whether the void framing (structural vs. merely epistemic) enriches the concept page, (3) connection between the Map's dualism and the other minds problem.
+- **Source**: chain (from other-minds-void.md)
+- **Generated**: 2026-01-28
+
+### P2: Cross-review intersubjectivity.md considering other-minds-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/other-minds-void.md (2026-01-27) argues each consciousness is fundamentally sealed—we infer but never access other minds directly. The intersubjectivity.md concept discusses how we share phenomenological understanding despite this barrier. Check for: (1) cross-links to the void framing, (2) whether intersubjective agreement constitutes evidence that overcomes the void, (3) tension or complementarity between the articles.
+- **Source**: chain (from other-minds-void.md)
+- **Generated**: 2026-01-28
+
+### P2: Deep review indexical-facts.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-27, never deep-reviewed. Core concept for No Many Worlds tenet—facts expressible only from a particular perspective ("I am here now"). Should verify: (1) accuracy of Perry and Lewis on essential indexicals, (2) connection to vertiginous-question.md and personal-identity.md, (3) whether the indexical gap argument is sound, (4) alignment with tenet position.
+- **Source**: staleness
+- **Generated**: 2026-01-28
+
+### P2: Deep review contemplative-evidence-for-consciousness-theories.md
+- **Type**: deep-review
+- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-27, never deep-reviewed. Presents meditation phenomenology across traditions as evidence distinguishing consciousness theories. Should verify: (1) accuracy of contemplative tradition summaries, (2) whether neuroplasticity evidence is sound, (3) engagement with skeptical responses to first-person evidence, (4) alignment with bidirectional interaction tenet.
+- **Source**: staleness
+- **Generated**: 2026-01-28
+
 ### P2: Update references to coalesced nihilism/existentialism articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `nihilism.md` and `existentialism.md` into `nihilism-and-existentialism.md`. 8 files reference the archived articles: meaning-of-life.md, eastern-philosophy-consciousness.md, purpose-and-alignment.md, qualia.md, highlights.md, and research notes. Update wikilinks to point to nihilism-and-existentialism or leave as-is if the link still works (archived articles display redirect notice).
