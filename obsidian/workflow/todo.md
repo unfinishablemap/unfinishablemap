@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review binding-problem.md considering neural-binding-mechanisms
-- **Type**: cross-review
-- **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) systematically addresses both classical binding mechanisms (gamma synchrony, thalamocortical loops) and quantum entanglement as genuine ontological holism. Check binding-problem.md for: (1) cross-links to the new neural-binding-mechanisms treatment, (2) whether the BP1/BP2 distinction (segregation vs combination problem) is represented, (3) opportunity to strengthen the quantum solution argument.
-- **Source**: chain (from neural-binding-mechanisms.md)
-- **Generated**: 2026-01-28
-
 ### P2: Cross-review unity-of-consciousness.md considering neural-binding-mechanisms
 - **Type**: cross-review
 - **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) argues quantum entanglement provides genuine ontological holism that classical mechanisms lack. Check unity-of-consciousness.md for: (1) cross-links to neural-binding-mechanisms, (2) whether the distinction between correlation and genuine unity is reflected, (3) connection between phenomenal unity and the quantum binding hypothesis.
@@ -666,6 +660,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review binding-problem.md considering neural-binding-mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) systematically addresses both classical binding mechanisms (gamma synchrony, thalamocortical loops) and quantum entanglement as genuine ontological holism. Check binding-problem.md for: (1) cross-links to the new neural-binding-mechanisms treatment, (2) whether the BP1/BP2 distinction (segregation vs combination problem) is represented, (3) opportunity to strengthen the quantum solution argument.
+- **Output**: obsidian/concepts/binding-problem.md -- Context: Cross-review binding-problem.md considering neural-binding-mechanisms
 
 ### ✓ 2026-01-28: Deep review qbism.md
 - **Type**: deep-review
