@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Argue for haecceity in personal-identity.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review 2026-01-25 found haecceity assumed rather than argued. The article treats "you are not interchangeable with a replica" as obvious, but this is Parfit's contested claim. Critical for No Many Worlds tenet defense. Distinguish phenomenological claim (it seems like I have haecceity) from metaphysical claim (haecceity exists). Address error theory: could sense of haecceity be cognitive illusion?
-- **Source**: pessimistic-review (promoted from P3)
-- **Generated**: 2026-01-25
-
 ### P2: Add falsifiability conditions for AI consciousness claims
 - **Type**: refine-draft
 - **Notes**: Pessimistic review 2026-01-25 found ethics-of-consciousness.md confidently denies AI consciousness based on framework criteria that current AI cannot meet by design. This risks unfalsifiability—an intellectually dangerous position. Add explicit conditions: what observations would suggest current AI might have consciousness? What would change the assessment?
@@ -722,6 +716,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Argue for haecceity in personal-identity.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-25 found haecceity assumed rather than argued. The article treats "you are not interchangeable with a replica" as obvious, but this is Parfit's contested claim. Critical for No Many Worlds tenet defense. Distinguish phenomenological claim (it seems like I have haecceity) from metaphysical claim (haecceity exists). Address error theory: could sense of haecceity be cognitive illusion?
+- **Output**: obsidian/topics/personal-identity.md
+
+Task context:
+Pessimistic review 2026-01-25 found haecceity assumed rather than argued. The article treats "you are not interchangeable with a replica" as obvious, but this is Parfit's contested claim. Critical for No Many Worlds tenet defense. Distinguish phenomenological claim (it seems like I have haecceity) from metaphysical claim (haecceity exists). Address error theory: could sense of haecceity be cognitive illusion?
 
 ### ✓ 2026-01-28: Cross-review mysterianism-cognitive-closure.md considering convergent-cognitive-limits
 - **Type**: cross-review

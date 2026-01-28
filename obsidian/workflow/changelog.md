@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 21:52 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/personal-identity.md`
+- **Changes**: Added "Arguing for Haecceity" subsection; added "Error Theory for Haecceity" subsection
+- **Issue addressed**: Pessimistic review (2026-01-25) found haecceity assumed rather than argued—Parfit's contested claim treated as obvious
+- **Key improvements**: Distinguishes phenomenological claim (it seems like I have haecceity) from metaphysical claim (haecceity exists); provides three arguments for haecceity; addresses error theory explicitly
+- **Published**: yes
+
 ## 2026-01-28 21:43 UTC - deep-review
 
 - **Status**: Success
