@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write voids article on embodiment and cognitive limits
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-embodiment-cognitive-limits-2026-01-28.md. Investigates whether biological embodiment creates characteristic cognitive voids—territories of thought inaccessible to embodied minds. Key angles: (1) Merleau-Ponty's prereflective bodily knowledge, (2) Lakoff/Johnson conceptual metaphor thesis (abstract thought recruits sensorimotor structures), (3) the grounding problem—would disembodied minds face different limits? (4) Distinguishing limits *because of* vs *despite* embodiment. Strong connection to existing voids framework.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-28
-
 ### P3: Deep review computational-cognitive-limits.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers computational limits on cognition (NP-hardness of inference, finite working memory). Should verify: (1) accuracy of computational complexity claims, (2) connection to mysterianism and cognitive closure, (3) distinction from collective-cognitive-limits and convergent-cognitive-limits, (4) alignment with voids framework.
@@ -710,6 +704,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Write voids article on embodiment and cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-embodiment-cognitive-limits-2026-01-28.md. Investigates whether biological embodiment creates characteristic cognitive voids—territories of thought inaccessible to embodied minds. Key angles: (1) Merleau-Ponty's prereflective bodily knowledge, (2) Lakoff/Johnson conceptual metaphor thesis (abstract thought recruits sensorimotor structures), (3) the grounding problem—would disembodied minds face different limits? (4) Distinguishing limits *because of* vs *despite* embodiment. Strong connection to existing voids framework.
+- **Output**: Write voids article on embodiment and cognitive limits
 
 ### ✓ 2026-01-28: Address filter theory analogy weakness in death-and-consciousness.md
 - **Type**: refine-draft

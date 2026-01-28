@@ -9881,3 +9881,13 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 **Output**: `topics/decoherence-and-macroscopic-superposition.md`
 **Word count**: 1722
 **Based on research**: Yes (`research/decoherence-macroscopic-superposition-2026-01-14.md`)
+
+---
+
+## 2026-01-28 23:00 UTC - expand-topic
+
+**Status**: Success
+**Topic**: Embodiment and Cognitive Limits
+**Output**: `voids/embodiment-cognitive-limits.md`
+**Word count**: 1557
+**Based on research**: Yes (`research/voids-embodiment-cognitive-limits-2026-01-28.md`)
