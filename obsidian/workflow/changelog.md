@@ -17,6 +17,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 14:26 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/contemplative-evidence-for-consciousness-theories.md`
+- **Word count**: 2115 → 2389 (+274)
+- **Critical issues addressed**: 2
+  1. Fixed Davidson citation error (now correctly cites Weng et al. 2013)
+  2. Added Falsifiability section with testable predictions
+- **Medium issues addressed**: 4
+  1. Added epistemological caveat to nirodha samapatti claims
+  2. Strengthened epiphenomenalism response with "brute correlations" argument
+  3. Added [[qualia]] cross-link in jhana section
+  4. Added Free Will subsection in Relation to Site Perspective
+- **Enhancements made**: 2
+  1. New Falsifiability section specifying what would count as counter-evidence
+  2. Expanded response to "causal contribution is purely neural" objection
+- **Output**: `reviews/deep-review-2026-01-28-contemplative-evidence-for-consciousness-theories.md`
+
 ## 2026-01-28 14:30 UTC - deep-review (cross-review)
 
 - **Status**: Success
