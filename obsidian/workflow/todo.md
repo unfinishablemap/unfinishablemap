@@ -73,6 +73,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-01-28
 
+### P2: Address trained confabulation hypothesis in voids cluster
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-28 found the apophatic-approaches, phenomenology-of-the-edge, and the-unobservable-self articles rely heavily on phenomenological reports while acknowledging introspection is unreliable. Cross-cultural convergence of mystical reports is treated as evidence of contact with 'something real'—but shared brain architecture predicts convergent phenomenology without transcendent contact. Add explicit engagement with the trained confabulation hypothesis: if contemplatives across traditions enter similar brain states, they might generate similar confabulations without contacting anything transcendent. Specify what evidence would distinguish genuine cognitive limits from consistent illusions.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-28
+
 ### P2: Cross-review witness-consciousness.md considering contemplative evidence
 - **Type**: cross-review
 - **Notes**: New article topics/contemplative-evidence-for-consciousness-theories.md (2026-01-27) presents systematic contemplative phenomenology across traditions. The witness-consciousness.md concept is central to this evidence base—the pure awareness that observes without identifying with content. Check for: (1) cross-links to contemplative evidence treatment, (2) whether the phenomenological descriptions are consistent, (3) whether witness-consciousness strengthens the dualist interpretation of contemplative reports.
