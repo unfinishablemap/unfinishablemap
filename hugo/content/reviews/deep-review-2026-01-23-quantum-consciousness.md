@@ -66,7 +66,7 @@ Six sympathetic personas (Property Dualist, Quantum Mind Theorist, Phenomenologi
 - Added mysterianism cross-link for cognitive closure considerations
 
 ### Cross-links Added
-- [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/)
+- [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/)
 
 ## Remaining Items
 

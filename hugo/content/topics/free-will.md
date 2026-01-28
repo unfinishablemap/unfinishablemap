@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-27 23:30:00+00:00
+ai_modified: 2026-01-28 20:29:26+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,13 +22,13 @@ concepts:
 - '[[epiphenomenalism]]'
 - '[[phenomenology-of-choice]]'
 created: 2026-01-08
-date: &id001 2026-01-25
+date: &id001 2026-01-28
 description: 'Can we genuinely author our choices? The Map defends libertarian free
   will: consciousness influences physical outcomes through quantum-level selection.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 23:30:00+00:00
+last_deep_review: 2026-01-28 20:29:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +56,7 @@ Bergson's [durée](/concepts/duration/) offers additional resources: if mental s
 
 [Libet's experiments](/concepts/libet-experiments/) found that neural "readiness potentials" precede conscious awareness of deciding to move. The implication seems devastating: if neural activity "decides" before awareness, isn't consciousness merely an epiphenomenal spectator?
 
-But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation—participants act when random fluctuations cross a threshold. Libet himself argued consciousness retains "veto power" to cancel prepared actions. The brain prepares options; consciousness selects or vetoes. See [libet-experiments](/concepts/libet-experiments/) for detailed analysis including the retrocausal resolution.
+But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation—participants act when random fluctuations cross a threshold. Sjöberg (2024) provides stronger evidence: patients with surgical resection of the supplementary motor area—the region generating the readiness potential—retain their sense of voluntary action. If the RP reflected genuine volition, removing its source should impair it. It doesn't. Libet himself argued consciousness retains "veto power" to cancel prepared actions. The brain prepares options; consciousness selects or vetoes. See [libet-experiments](/concepts/libet-experiments/) for detailed analysis including the retrocausal resolution.
 
 ## Quantum Indeterminacy and the Luck Objection
 
@@ -172,7 +172,7 @@ Most voluntary action involves distal intentions formed earlier, not just proxim
 
 The brain prepares a superposition of possible action patterns. Consciousness—operating atemporally at the quantum level—selects which possibility becomes actual. From inside linear time, it looks like the brain "decided" before consciousness became aware. But the linear ordering is itself part of what was selected. Consciousness determined which temporal sequence—including its own apparent lateness—would exist.
 
-This isn't a proof. It's a coherent picture that takes both consciousness and physics seriously, preserving what matters about free will (genuine authorship) while respecting what we know about the brain and quantum mechanics. How consciousness biases probabilities may remain mysterious—perhaps part of what [mysterianism](/topics/mysterianism-cognitive-closure/) suggests exceeds human comprehension. But evidence can point toward a truth we can't fully understand.
+This isn't a proof. It's a coherent picture that takes both consciousness and physics seriously, preserving what matters about free will (genuine authorship) while respecting what we know about the brain and quantum mechanics. How consciousness biases probabilities may remain mysterious—perhaps part of what [mysterianism](/concepts/mysterianism/) suggests exceeds human comprehension. But evidence can point toward a truth we can't fully understand.
 
 ## Relation to Site Perspective
 
@@ -210,4 +210,5 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - Libet, B. et al. (1983). Time of conscious intention to act. *Brain*, 106(3), 623-642.
 - Schurger, A. et al. (2012). Accumulator model for spontaneous neural activity. *PNAS*, 109(42), E2904-E2913.
 - Desmurget, M. et al. (2009). Movement intention after parietal cortex stimulation. *Science*, 324(5928), 811-813.
+- Sjöberg, R. L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
 - Cramer, J. G. (1986). Transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.

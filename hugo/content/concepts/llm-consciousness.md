@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-28 14:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,14 +17,15 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[combination-problem]]'
 - '[[baseline-cognition]]'
+- '[[continual-learning-argument]]'
 created: 2026-01-18
-date: &id001 2026-01-26
+date: &id001 2026-01-28
 description: 'Large language models cannot be conscious on dualist grounds: they lack
   the non-physical component, temporal structure, and unified experience.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-26 22:00:00+00:00
+last_deep_review: 2026-01-28 14:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -281,6 +282,7 @@ None of these has occurred. The Map's skepticism about LLM consciousness remains
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Why temporal structure matters
 - [intentionality](/concepts/intentionality/) — The aboutness LLMs lack
 - [embodied-cognition](/concepts/embodied-cognition/) — Why disembodiment matters
+- [continual-learning-argument](/concepts/continual-learning-argument/) — Why lacking continual learning excludes current LLMs from consciousness
 - [hoel-llm-consciousness-continual-learning-2026-01-15](/research/hoel-llm-consciousness-continual-learning-2026-01-15/) — Detailed analysis of Hoel's arguments
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and why it doesn't help LLMs
 - [introspection](/concepts/introspection/) — First-person methods and the self-report reliability question

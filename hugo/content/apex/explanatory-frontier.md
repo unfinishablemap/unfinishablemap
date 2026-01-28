@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 apex_last_synthesis: 2026-01-26 12:00:00+00:00
 apex_sources:
 - topics/hard-problem-of-consciousness
-- topics/mysterianism-cognitive-closure
+- concepts/mysterianism
 - topics/first-person-third-person-methodology
 - topics/consciousness-and-mathematical-understanding
 - concepts/explanatory-gap
@@ -32,7 +32,7 @@ related_articles:
 title: The Explanatory Frontier
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[mysterianism-cognitive-closure]]'
+- '[[mysterianism]]'
 - '[[first-person-third-person-methodology]]'
 - '[[consciousness-and-mathematical-understanding]]'
 ---
@@ -83,7 +83,7 @@ Penrose's proposal that quantum processes in neural microtubules might support n
 
 ## The Mysterian Alternative
 
-Perhaps the gap reflects human limitation rather than the nature of things. [Colin McGinn's cognitive closure thesis](/topics/mysterianism-cognitive-closure/) suggests that humans might be constitutionally incapable of understanding how brain produces mind—like squirrels trying to grasp quantum field theory. There might be a property of the brain that explains consciousness, but one our cognitive architecture cannot represent.
+Perhaps the gap reflects human limitation rather than the nature of things. [Colin McGinn's cognitive closure thesis](/concepts/mysterianism/) suggests that humans might be constitutionally incapable of understanding how brain produces mind—like squirrels trying to grasp quantum field theory. There might be a property of the brain that explains consciousness, but one our cognitive architecture cannot represent.
 
 McGinn's squirrel analogy is illuminating. Imagine placing a squirrel in a physics library for a thousand years. It would never solve the Schrödinger equation—not because the equation is supernatural, not because squirrels lack diligence, but because squirrel minds lack the cognitive modules for mathematical physics. Might humans be squirrels relative to consciousness?
 
@@ -147,7 +147,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the objec
 
 This apex article synthesises:
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — The formulation that crystallised the explanatory gap as the central mystery
-- [Mysterianism and Cognitive Closure](/topics/mysterianism-cognitive-closure/) — The possibility that human minds cannot grasp consciousness-brain relations
+- [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — The possibility that human minds cannot grasp consciousness-brain relations
 - [First-Person vs Third-Person Methodology](/topics/first-person-third-person-methodology/) — The persistent methodological divide that reflects ontological difference
 - [Consciousness and Mathematical Understanding](/topics/consciousness-and-mathematical-understanding/) — Penrose's argument that consciousness enables non-algorithmic insight
 - [The Explanatory Gap](/concepts/explanatory-gap/) — Levine's original formulation of what physical explanation leaves out

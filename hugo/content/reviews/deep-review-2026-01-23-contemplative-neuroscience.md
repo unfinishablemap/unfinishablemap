@@ -68,7 +68,7 @@ topics: []
 ### Cross-links Added
 
 - [mental-effort](/concepts/mental-effort/) - for Schwartz OCD neuroplasticity evidence
-- [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/) - for explanatory gap persistence
+- [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/) - for explanatory gap persistence
 - [neurophenomenology](/concepts/neurophenomenology/#buddhist-anti-substantialism-vs-dualism) - for metaphysical tensions
 
 ## Remaining Items

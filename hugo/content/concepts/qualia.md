@@ -26,7 +26,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[combination-problem]]'
 - '[[aesthetic-dimension-of-consciousness]]'
-- '[[mysterianism-cognitive-closure]]'
+- '[[mysterianism]]'
 - '[[buddhism-and-dualism]]'
 - '[[pre-conceptual-knowing]]'
 created: 2026-01-07

@@ -186,9 +186,29 @@ A reader could walk away thinking certain items are “Chalmers’ constraints�
 
  * Where the page quotes or paraphrases “Facing Up,” cite that directly; and where it summarizes “collapse,” include a citation to the relevant section where Chalmers & McQueen explicitly state their exploratory stance and Many-Worlds sympathy. (See [Chalmers](https://consc.net/papers/facing.html))
 
+## Verification Notes
+
+**Verified claims:**
+- ✓ Chalmers says psychophysical principles "will not interfere with physical laws" and are a "supplement to a physical theory" (confirmed in "Facing Up")
+- ✓ Chalmers uses "information (or at least some information)" not "all information" for double-aspect theory, and treats "does all information have a phenomenal aspect?" as an open question (confirmed in "Facing Up")
+- ✓ Chalmers distinguishes Type-D (interactionist) vs Type-E (epiphenomenalist) dualism and presents them as competing options, not endorsing either (confirmed in "Consciousness and Its Place in Nature")
+- ✓ Organizational invariance formulation matches: "any system that has the same functional organization at a fine enough grain will have qualitatively identical conscious experiences" (confirmed in "Absent Qualia" paper)
+- ✓ Chalmers distinguishes logical/metaphysical possibility from empirical/nomological possibility for absent qualia (confirmed)
+- ✓ The "five constraints" framework is indeed from Bradford Saad (2025) "A dualist theory of experience" in *Philosophical Studies*, not Chalmers & McQueen—the constraints match exactly: (1) experiences cause physical effects, (2) no observable closure violations, (3) avoid overdetermination, (4) specify upward laws, (5) organizational invariance
+
+**Partially verified claims:**
+- ~ Chalmers & McQueen say their paper is "a research program worth exploring" rather than endorsing collapse (confirmed in arXiv abstract). The claim about "considerable sympathy" for Many-Worlds could not be verified from accessible sources—the full PDF text was not extractable
+
+**Unverified claims:**
+- ? Could not directly access Springer PDF to confirm exact wording of Saad's constraints (but web search confirms the framework exists with matching structure)
+
+**Disputed claims:**
+- None—the reviewer's claims check out against accessible sources
+
 ## External Sources
 
 - [Chalmers, 'Facing Up to the Problem of Consciousness'](https://consc.net/papers/facing.html)
 - [Chalmers paper via PhilPapers](https://philpapers.org/go.pl?id=CHAAQF&proxyId=none&u=http%3A%2F%2Fconsc.net%2Fpapers%2Fqualia.html)
 - [Chalmers, 'Consciousness and Its Place in Nature'](https://consc.net/papers/nature.html)
 - [Saad, 'A dualist theory of experience' (Springer)](https://link.springer.com/content/pdf/10.1007/s11098-025-02290-3.pdf)
+- [Saad paper on PhilPapers](https://philpapers.org/rec/SAAADT)

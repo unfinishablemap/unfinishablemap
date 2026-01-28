@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-01-27 17:00:00+00:00
+ai_modified: 2026-01-28 21:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -68,9 +68,9 @@ This isn't a minor disagreement. If organisational invariance holds, psychophysi
 
 ### The Double-Aspect Theory of Information
 
-Chalmers' most speculative principle: information has two aspects, physical and phenomenal. Wherever information exists in physical processing, it also has phenomenal character. The physical aspect is information's extrinsic, relational properties; the phenomenal aspect is its intrinsic nature.
+Chalmers' most speculative principle: information—or at least some information—has two aspects, physical and phenomenal. The physical aspect is information's extrinsic, relational properties; the phenomenal aspect is its intrinsic nature.
 
-This approaches panpsychism from information theory. If information is the fundamental bridging construct, then even simple information processing systems—thermostats, transistors—might have simple experiences. Chalmers is tentative about this extension, but the framework permits it.
+Chalmers explicitly treats the scope as an open question: does *all* information have a phenomenal aspect, or only some? If all, then even simple information processing systems—thermostats, transistors—might have simple experiences. This approaches panpsychism from information theory. Chalmers is tentative about this extension, presenting it as a possibility the framework permits rather than a commitment.
 
 **Connection to IIT**: This principle anticipates [Integrated Information Theory](/concepts/integrated-information-theory/), which identifies consciousness with integrated information (phi). The Map is skeptical of IIT's specific measures—they attribute consciousness to systems that seem unconscious (the "wrong results" objection). But the general connection between information and experience remains relevant to the coupling question.
 
@@ -90,7 +90,7 @@ The [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) page d
 
 ## Five Constraints on Dualist Laws
 
-In "Consciousness and the Collapse of the Wave Function" (2022), Chalmers and Kelvin McQueen identify five constraints any dualist psychophysical law must satisfy:
+Bradford Saad's "A dualist theory of experience" (2025) provides a useful framework for evaluating any dualist psychophysical law. Saad identifies five constraints such laws must satisfy:
 
 1. **Experiences must cause physical effects.** This is the minimal requirement for avoiding epiphenomenalism—mental states must make some causal difference.
 
@@ -102,7 +102,7 @@ In "Consciousness and the Collapse of the Wave Function" (2022), Chalmers and Ke
 
 5. **Ensure functional duplication preserves phenomenology.** This is organisational invariance again: systems with identical functional organisation should have identical experiences.
 
-The quantum framework Chalmers and McQueen develop addresses constraints (1) and (2) elegantly: consciousness causes collapse (satisfying constraint 1) without violating closure (satisfying constraint 2, since collapse is physically underdetermined). Quantum mechanics leaves room for mental causation precisely where physics doesn't determine outcomes.
+These constraints prove useful for evaluating Chalmers and McQueen's quantum framework. Their consciousness-collapse proposal addresses constraints (1) and (2) elegantly: consciousness causes collapse (satisfying constraint 1) without violating closure (satisfying constraint 2, since collapse is physically underdetermined). Quantum mechanics leaves room for mental causation precisely where physics doesn't determine outcomes.
 
 **The Map's position on constraint 5**: As noted above, the Map is skeptical of constraint 5. Organisational invariance may not hold if haecceity matters. The Map would replace constraint 5 with something weaker: "Ensure phenomenology supervenes on at least functional organisation plus whatever additional factors (particular subject, physical substrate, etc.) turn out to matter." This leaves the door open for consciousness to depend on more than abstract pattern.
 
@@ -156,7 +156,7 @@ Chalmers' framework aligns with the Map's [Dualism](/tenets/#dualism) tenet: con
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** finds support in Chalmers' quantum development. If consciousness couples to collapse, it does so without violating conservation or injecting energy—biasing probability distributions, not overriding physical law. This is the minimal intervention physics permits.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** creates a framework dependency. Chalmers' super-resistance principle assumes collapse is real—consciousness resisting superposition only makes sense if superpositions genuinely collapse rather than branching. If many-worlds interpretation were correct, super-resistance would have no work to do. The Map and Chalmers-McQueen share this commitment to genuine collapse.
+**[No Many Worlds](/tenets/#no-many-worlds)** creates a framework dependency. Chalmers' super-resistance principle assumes collapse is real—consciousness resisting superposition only makes sense if superpositions genuinely collapse rather than branching. If many-worlds interpretation were correct, super-resistance would have no work to do. However, Chalmers and McQueen present consciousness-collapse as "a research program worth exploring" rather than an endorsed position, and they explicitly retain sympathy for other interpretations including Many-Worlds. The Map commits to genuine collapse where Chalmers-McQueen remain exploratory.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** justifies the ontological expansion Chalmers proposes. Adding fundamental psychophysical laws seems less parsimonious than physicalism. But parsimony cannot adjudicate between frameworks with different explananda—the question is whether consciousness exists and is irreducible, not which view requires fewer laws. If the hard problem is genuine, psychophysical laws are necessary completions, not optional additions.
 
@@ -180,6 +180,21 @@ Chalmers provides the philosophical framework the Map requires. His naturalistic
 1. Chalmers, D.J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2(3), 200-219.
 2. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 3. Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
-4. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
-5. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
-6. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+4. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*. https://doi.org/10.1007/s11098-025-02290-3
+5. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
+6. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
+7. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+
+<!-- AI REFINEMENT LOG - 2026-01-28
+Changes made:
+- Corrected misattribution of "five constraints" framework from Chalmers & McQueen (2022) to Bradford Saad (2025)
+- Added Saad's paper to References section with DOI
+- Adjusted text to clarify the constraints are from Saad's framework, useful for evaluating Chalmers-McQueen's work
+- Softened "No Many Worlds" claim: replaced assertion that the Map and Chalmers-McQueen "share" commitment to genuine collapse with accurate characterization that Chalmers-McQueen present consciousness-collapse as exploratory, retaining sympathy for Many-Worlds
+- Added Chalmers' qualification to double-aspect theory of information: changed "wherever information exists" to "information—or at least some information" and clarified that Chalmers treats the scope (does *all* information have phenomenal character?) as an open question
+
+Based on outer review by ChatGPT 5.2 Pro (2026-01-28) which verified the double-aspect theory overstatement against "Facing Up to the Problem of Consciousness".
+Key improvements: Accurate scholarly attribution; accurate representation of Chalmers' epistemic caution about panpsychist implications.
+
+This log should be removed after human review.
+-->

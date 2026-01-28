@@ -55,7 +55,7 @@ last_deep_review: 2026-01-28 12:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[mysterianism-cognitive-closure]]'
+- '[[mysterianism]]'
 - '[[materialism]]'
 - '[[integrated-information-theory]]'
 - '[[integrated-information-theory-critique]]'
@@ -246,9 +246,9 @@ The Map's interactionist framework addresses its challenge through quantum mecha
 
 ### Mysterianism
 
-[Mysterianism](/topics/mysterianism-cognitive-closure/) proposes that the hard problem may be permanently beyond human understanding—not because consciousness is supernatural but because our cognitive architecture lacks the resources. Colin McGinn's "cognitive closure": just as squirrels cannot understand quantum mechanics, humans may be constitutionally unable to understand consciousness. McGinn holds the explanation exists but human minds cannot grasp it.
+[Mysterianism](/concepts/mysterianism/) proposes that the hard problem may be permanently beyond human understanding—not because consciousness is supernatural but because our cognitive architecture lacks the resources. Colin McGinn's "cognitive closure": just as squirrels cannot understand quantum mechanics, humans may be constitutionally unable to understand consciousness. McGinn holds the explanation exists but human minds cannot grasp it.
 
-This supports the Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet: our sense of which explanations are "simple" may reflect cognitive limitations rather than ontological facts. See [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/) for detailed treatment.
+This supports the Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet: our sense of which explanations are "simple" may reflect cognitive limitations rather than ontological facts. See [mysterianism](/concepts/mysterianism/) for detailed treatment.
 
 ## What Would Challenge This View?
 
@@ -272,7 +272,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [materialism](/arguments/materialism/) — Why physicalist explanations fail
 - [substrate-independence-critique](/concepts/substrate-independence-critique/) — Why the hard problem entails substrate skepticism
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
-- [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/) — McGinn's cognitive closure thesis
+- [mysterianism](/concepts/mysterianism/) — McGinn's cognitive closure thesis
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes only structure, leaving intrinsic nature unknowable
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How quantum mechanics might relate to consciousness
 - [witness-consciousness](/concepts/witness-consciousness/) — The subject-object structure revealed by contemplative practice

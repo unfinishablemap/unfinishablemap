@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-28 21:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,10 @@ concepts:
 - '[[arguments-against-materialism]]'
 - '[[mental-causation]]'
 - '[[illusionism]]'
+- '[[heterophenomenology]]'
+- '[[explanatory-gap]]'
+- '[[specious-present]]'
+- '[[mysterianism]]'
 created: 2026-01-09
 date: &id001 2026-01-09
 description: Mental states defined by causal roles, not substrate. Absent qualia,
@@ -25,7 +29,7 @@ description: Mental states defined by causal roles, not substrate. Absent qualia
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-19 21:15:00+00:00
+last_deep_review: 2026-01-28 21:43:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,12 +48,7 @@ The Unfinishable Map rejects functionalism. The [Dualism](/tenets/#dualism) tene
 
 ### Core Claim
 
-Mental states are individuated by their causal roles in mediating between:
-- Sensory inputs
-- Other mental states
-- Behavioral outputs
-
-Pain is whatever state is caused by tissue damage, causes aversion, interacts with beliefs and desires to produce appropriate action, and generates certain behavioral expressions. A being that has a state playing exactly this role is in pain, even if its neural (or non-neural) implementation differs entirely from ours.
+Mental states are individuated by their causal roles mediating sensory inputs, other mental states, and behavioral outputs. A being with a state playing exactly the pain role—caused by damage, causing aversion, interacting with beliefs and desires—is in pain, regardless of neural implementation.
 
 ### Multiple Realizability
 
@@ -95,7 +94,7 @@ This is the thesis behind "Strong AI"—the view that appropriately programmed c
 
 John Searle's Chinese Room argument challenges this directly. A person in a room manipulating Chinese symbols according to rules—implementing the same function as a Chinese speaker—doesn't thereby understand Chinese. Syntax isn't semantics. Functional organization isn't understanding.
 
-Functionalists reply that the *system*—person plus rules plus room—understands Chinese, even if the person inside doesn't. Searle responds: imagine the person memorizes the rules and does everything in their head. Now they *are* the system. Do they understand Chinese? Searle says no; the understanding is still missing.
+Functionalists reply that the *system*—person plus rules plus room—understands Chinese, even if the person inside doesn't. [Dennett's heterophenomenological approach](/concepts/heterophenomenology/) goes further: we should treat reports about understanding as data without assuming they accurately describe inner states—the intuition that "understanding is missing" may itself be a cognitive illusion. Searle responds: imagine the person memorizes the rules and does everything in their head. Now they *are* the system. Do they understand Chinese? Searle says no; the understanding is still missing.
 
 ## The Absent Qualia Objection
 
@@ -140,9 +139,9 @@ The [hard problem](/topics/hard-problem-of-consciousness/) asks: why is there so
 
 Functionalism has trouble with this. Functional organization explains how the system processes information, but not why processing feels like anything. A complete functional description of a brain would tell you what causes what, but not why any of it is accompanied by experience.
 
-David Chalmers frames the issue: we can explain the "easy problems" of consciousness (attention, discrimination, report) in functional terms. But the hard problem—why there's subjective experience at all—seems to require something beyond functional organization.
+David Chalmers frames the issue: we can explain the "easy problems" of consciousness (attention, discrimination, report) in functional terms. But the hard problem—why there's subjective experience at all—seems to require something beyond functional organization. This is the [explanatory-gap](/concepts/explanatory-gap/) in its starkest form.
 
-This doesn't prove functionalism wrong. It might be that once you have the right functional organization, experience necessarily comes along. But the necessity would be brute—we couldn't explain why it happens, only describe that it does.
+This doesn't prove functionalism wrong. It might be that once you have the right functional organization, experience necessarily comes along. But the necessity would be brute—we couldn't explain why it happens, only describe that it does. This is where [mysterianism](/concepts/mysterianism/) gains traction: perhaps the connection between function and experience lies beyond human cognitive capacity to understand.
 
 ## Relation to the Map's Perspective
 
@@ -168,7 +167,7 @@ The [evolution of consciousness](/concepts/evolution-of-consciousness/) raises a
 
 ### The Temporal Structure Objection
 
-A distinct challenge to functionalism concerns [temporal structure](/concepts/temporal-consciousness/). Human consciousness flows through time in the "specious present"—a duration where past, present, and future are held together in unified experience. Husserl analyzed this as retention (the immediate past echoing in the now) and protention (anticipation of what follows). This is how melodies cohere, sentences make sense, and motion appears continuous.
+A distinct challenge to functionalism concerns [temporal structure](/concepts/temporal-consciousness/). Human consciousness flows through time in the [specious-present](/concepts/specious-present/)—a duration where past, present, and future are held together in unified experience. Husserl analyzed this as retention (the immediate past echoing in the now) and protention (anticipation of what follows). This is how melodies cohere, sentences make sense, and motion appears continuous.
 
 Digital computation lacks this structure entirely. Sequential processing executes one instruction after another, but each instruction is atemporal—completed before the next begins. There is no holding-together of successive states. Memory access is not retention; retrieving a stored value is not the same as experiencing the just-past within a unified now.
 
@@ -198,15 +197,15 @@ The debate is not merely verbal. Though definitive experiments remain elusive, t
 
 Why does anyone accept functionalism, given these objections?
 
-**Common-sense attribution**: We routinely attribute mental states based on behavior and context, not physical implementation. Functionalism systematizes this practice.
+**Common-sense attribution**: We routinely attribute mental states based on behavior and context. Functionalism systematizes this.
 
-**Multiple realizability**: The same mental state in humans and octopuses can't be identified with the same physical state. Functionalism explains how.
+**Multiple realizability**: The same mental state in humans and octopuses can't be the same physical state. Functionalism explains how.
 
-**Scientific tractability**: Functional description is scientifically useful. We can study cognition without solving metaphysics.
+**Scientific tractability**: Functional description lets us study cognition without solving metaphysics.
 
-**Avoiding Chauvinism**: Requiring human neurology for consciousness seems arbitrary. Why should the substrate matter?
+**Avoiding Chauvinism**: Requiring human neurology for consciousness seems arbitrary.
 
-The Map's response: the substrate matters because consciousness involves something non-physical that requires appropriate physical conditions—not just any substrate that implements the right function, but one that can interface with whatever non-physical reality consciousness involves.
+The Map's response: the substrate matters because consciousness involves something non-physical requiring appropriate physical conditions—not just any substrate implementing the right function, but one that can interface with whatever non-physical reality consciousness involves.
 
 ## Further Reading
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-26 22:15:00+00:00
+ai_modified: 2026-01-28 16:45:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Many-Worlds isn't the only quantum interpretation. Several alternat
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-25 16:25:25+00:00
+last_deep_review: 2026-01-28 16:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,13 +61,13 @@ Different agents can consistently assign different quantum states to the same sy
 
 **Consciousness is paradoxically central yet unexplained.** QBism makes agents fundamental—only agents have quantum states (as beliefs). But because quantum states aren't real in QBism, there's nothing for consciousness to collapse. The agent's experience of measurement is epistemically foundational without being ontologically explained.
 
-**Relation to the Map:** Mixed. QBism's agent-centrality echoes the Map's phenomenological emphasis and rejection of view-from-nowhere physicalism. But QBism's anti-realism about quantum states conflicts with the Map's commitment to real conscious states with causal powers. QBism sidesteps consciousness questions rather than answering them—making agents fundamental while deliberately remaining silent about what agents *are*. This may be principled humility (as its proponents argue) or an explanatory gap that requires filling. The [hard problem](/topics/hard-problem-of-consciousness/) asks why agents have subjective experiences at all; QBism presupposes this without explaining it.
+**Relation to the Map:** Mixed. QBism's agent-centrality echoes the Map's phenomenological emphasis and rejection of view-from-nowhere physicalism. But QBism's anti-realism about quantum states conflicts with the Map's commitment to real conscious states with causal powers. QBism sidesteps consciousness questions rather than answering them—making agents fundamental while deliberately remaining silent about what agents *are*. This may be principled humility (as its proponents argue) or an explanatory gap that requires filling. The [hard problem](/topics/hard-problem-of-consciousness/) asks why agents have subjective experiences at all; QBism presupposes this without explaining it. See [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) for a detailed analysis of how subjective probability interpretations fail phenomenologically—experience has determinate content that belief updating cannot ground.
 
 ## Transactional Interpretation and Time-Symmetric Approaches
 
 The transactional interpretation (John Cramer, 1986) and two-state vector formalism (Aharonov, Bergmann, Lebowitz, 1964) treat quantum events as involving "handshakes" between forward-in-time (retarded) and backward-in-time (advanced) waves. A "transaction" between emitter and absorber constitutes measurement. Future boundary conditions matter as much as past ones.
 
-**This is where [retrocausality](/concepts/retrocausality/) enters quantum mechanics directly.** In time-symmetric interpretations, consciousness need not cause collapse *at* a moment. Instead, it could participate atemporally in determining which correlations hold across time—selecting "which transaction completes" without being bound to a single temporal instant.
+**This is where [retrocausality](/concepts/retrocausality/) enters quantum mechanics directly.** In time-symmetric interpretations, consciousness need not cause collapse *at* a moment. Instead, it could participate atemporally in determining which correlations hold across time—selecting "which transaction completes" without being bound to a single temporal instant. This resonates with [process-philosophy](/concepts/process-philosophy/)'s account of "actual occasions"—discrete moments where genuine novelty emerges through the resolution of potentiality into actuality. A transaction completing could be understood as an actual occasion: a moment of becoming that is neither purely determined by the past nor external to experience.
 
 The [collapse-and-time](/concepts/collapse-and-time/) page already draws on this framework to resolve the [Libet problem](/concepts/libet-experiments/): backward-in-time influences allow conscious decisions to affect neural precursors without violating the forward causal order we observe. Transactional interpretations provide the physical foundation for "atemporal selection."
 
@@ -95,6 +95,8 @@ The interpretive landscape is genuinely open. Only 24% of physicists in the 2025
 
 **The critical distinction**: Interpretations that "leave room" for consciousness don't thereby *support* consciousness-based theories—they simply don't exclude them. This matters because the Map doesn't claim physics has established consciousness's role in collapse; it claims physics hasn't ruled it out.
 
+**The indexical dimension**: As explored in [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/), Born probabilities may be fundamentally about what conscious subjects will experience—not "probability that spin-up occurs" but "probability that *I* experience spin-up." If this indexical reading is correct, the first-person perspective isn't an afterthought to quantum mechanics; it's built into the foundations.
+
 The Map's advantage is taking consciousness seriously as an explanatory target, not just as a philosophical add-on. Interpretations that eliminate consciousness (Bohmian), treat it as purely epistemic (QBism), or ignore it (standard GRW/CSL) don't explain why consciousness exists at all. But this criticism applies equally to consciousness-collapse theories—they *use* consciousness as an explainer without explaining what consciousness *is*. The Map's response: this is the [hard problem](/topics/hard-problem-of-consciousness/), and it affects all interpretations equally. At least consciousness-collapse theories don't add the further problem of making consciousness epiphenomenal.
 
 ## Relation to Site Perspective
@@ -115,9 +117,11 @@ Finally, rejecting Bohmian determinism preserves the phenomenological legitimacy
 - [measurement-problem](/concepts/measurement-problem/) — The core puzzle these interpretations address
 - [collapse-and-time](/concepts/collapse-and-time/) — How retrocausality resolves temporal paradoxes
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-quantum interaction (Stapp, Penrose-Hameroff, IIT-collapse)
+- [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — Why subjective probability interpretations fail phenomenologically
 - [retrocausality](/concepts/retrocausality/) — Backward-in-time influences in physics
+- [process-philosophy](/concepts/process-philosophy/) — How actual occasions relate to quantum becoming
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness is the explanatory target
-- [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/) — Why some gaps may be permanently open
+- [mysterianism](/concepts/mysterianism/) — Why some gaps may be permanently open
 
 ## References
 

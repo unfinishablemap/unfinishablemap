@@ -120,7 +120,7 @@ Introspection's unreliability—a common objection to first-person methods—act
 
 The Map acknowledges these limitations while rejecting the eliminativist conclusion. Difficulty accessing phenomenology doesn't entail its unreality. Compare to quantum measurement: the observer effect and Heisenberg uncertainty make quantum systems difficult to observe without disturbing them, but this reflects deep features of quantum reality, not its non-existence.
 
-Introspection's limits may reflect [cognitive closure](/topics/mysterianism-cognitive-closure/)—constitutional limits on what human minds can understand. McGinn's cognitive closure thesis suggests humans might be to consciousness what squirrels are to quantum mechanics: constitutionally incapable of grasping the solution. This supports the Occam's Razor Has Limits tenet: phenomenology's resistance to explanation might reflect our cognitive boundaries, not consciousness's unreality.
+Introspection's limits may reflect [cognitive closure](/concepts/mysterianism/)—constitutional limits on what human minds can understand. McGinn's cognitive closure thesis suggests humans might be to consciousness what squirrels are to quantum mechanics: constitutionally incapable of grasping the solution. This supports the Occam's Razor Has Limits tenet: phenomenology's resistance to explanation might reflect our cognitive boundaries, not consciousness's unreality.
 
 Methodological humility (introspection is hard, possibly impossibly hard) is compatible with ontological realism (phenomenology is real despite access difficulties).
 
@@ -145,7 +145,7 @@ The Map's position: embrace methodological pluralism (first-person, second-perso
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)—Why third-person explanations fail to capture phenomenology
 - [explanatory-gap](/concepts/explanatory-gap/)—Levine's epistemic vs. ontological gap distinction
 - [problem-of-other-minds](/concepts/problem-of-other-minds/)—How we know other minds exist given epistemic asymmetry
-- [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/)—The possibility that consciousness exceeds human understanding
+- [mysterianism](/concepts/mysterianism/)—The possibility that consciousness exceeds human understanding
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)—What makes phenomenology irreducibly first-personal
 - [access-consciousness](/concepts/access-consciousness/)—What third-person methods can explain (functional access vs. phenomenal character)
 

@@ -19,7 +19,7 @@ concepts:
 - '[[attention]]'
 - '[[global-workspace-theory]]'
 - '[[integrated-information-theory]]'
-- '[[mysterianism-cognitive-closure]]'
+- '[[mysterianism]]'
 - '[[first-person-third-person-methodology]]'
 - '[[qualia]]'
 - '[[knowledge-argument]]'
@@ -259,7 +259,7 @@ If phenomenal consciousness can exceed access consciousness (the "overflow" hypo
 
 No-report paradigms attempt to identify consciousness without requiring behavioral reports. Initial results suggest consciousness-related neural activity in posterior regions even without frontal access/report involvement. But whether this represents genuine phenomenal consciousness without access, or merely neural correlates that usually accompany consciousness, remains contested.
 
-This methodological impasse reflects deeper issues about [first-person-third-person-methodology](/topics/first-person-third-person-methodology/): third-person neuroscience cannot directly access first-person phenomenal facts. The overflow question may be underdetermined by any purely neural evidence, requiring philosophical argument about what consciousness *is* before empirical methods can settle what consciousness *does*. [Mysterian](/topics/mysterianism-cognitive-closure/) positions suggest some consciousness questions may be cognitively closed to us.
+This methodological impasse reflects deeper issues about [first-person-third-person-methodology](/topics/first-person-third-person-methodology/): third-person neuroscience cannot directly access first-person phenomenal facts. The overflow question may be underdetermined by any purely neural evidence, requiring philosophical argument about what consciousness *is* before empirical methods can settle what consciousness *does*. [Mysterian](/archive/topics/mysterianism-cognitive-closure/) positions suggest some consciousness questions may be cognitively closed to us.
 
 ### Content vs Enabling NCCs
 

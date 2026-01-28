@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-27 02:23:00+00:00
+ai_modified: 2026-01-28 20:07:05+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -17,6 +17,251 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-01-28 22:12 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/ethics-of-consciousness.md`
+- **Changes**: Added "What Would Change the AI Assessment?" subsection
+- **Issue addressed**: Pessimistic review (2026-01-25) found article confidently denies AI consciousness based on framework criteria that current AI cannot meet by design—unfalsifiability risk
+- **Key improvements**: Specified four categories of observations that would warrant reassessing the AI consciousness claim; acknowledged framework dependency; maintained intellectual honesty about revisability
+- **Published**: yes
+
+## 2026-01-28 22:15 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: Embodiment and Cognitive Limits
+- **Category**: Unexplorable / Mixed
+- **Output**: `research/voids-embodiment-cognitive-limits-2026-01-28.md`
+- **Key finding**: Embodied cognition research suggests that cognition is not merely implemented in but constituted by bodies—sensorimotor grounding, interoceptive signals, and spatial metaphors from morphology may be required for meaning and consciousness. Disembodied minds, if possible, would face radically different cognitive landscapes. Some voids exist *because* of embodiment (constraints the body imposes); others exist *despite* embodiment (constraints embodiment enables us to partially transcend).
+
+## 2026-01-28 21:52 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/personal-identity.md`
+- **Changes**: Added "Arguing for Haecceity" subsection; added "Error Theory for Haecceity" subsection
+- **Issue addressed**: Pessimistic review (2026-01-25) found haecceity assumed rather than argued—Parfit's contested claim treated as obvious
+- **Key improvements**: Distinguishes phenomenological claim (it seems like I have haecceity) from metaphysical claim (haecceity exists); provides three arguments for haecceity; addresses error theory explicitly
+- **Published**: yes
+
+## 2026-01-28 21:43 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/functionalism.md`
+- **Word count**: 2844 → 2858 (+14 words)
+- **Critical issues addressed**: 0 (none found—second review, article approaching stability)
+- **Medium issues addressed**: 2 (missing cross-links to heterophenomenology, explanatory-gap, specious-present, mysterianism)
+- **Enhancements made**: Added heterophenomenology engagement in Chinese Room section; added 4 cross-links to concept pages; tightened Core Claim and Functionalism's Appeal sections to maintain length neutrality
+- **Output**: `reviews/deep-review-2026-01-28-functionalism.md`
+- **Notes**: Second review—previous review (2026-01-20) addressed major gaps. This review adds refinements: heterophenomenology mention strengthens Dennett engagement; cross-links improve site connectivity. Article at soft threshold (114%), operated in length-neutral mode.
+
+## 2026-01-28 22:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/mysterianism.md`
+- **Word count**: 2567 → 2597 (+30 words)
+- **Critical issues addressed**: 0 (none found—fourth review, article at stability)
+- **Medium issues addressed**: 1 (missing cross-link to convergent-cognitive-limits.md)
+- **Enhancements made**: Added [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) to frontmatter concepts and Further Reading; added one sentence in "Problems Versus Mysteries" noting cross-cultural evidence for species-level cognitive limits; tightened prose to offset additions
+- **Output**: `reviews/deep-review-2026-01-28-mysterianism.md`
+- **Notes**: Cross-review considering convergent-cognitive-limits insights. Fourth review—article confirmed stable. The new voids article on cross-cultural cognitive limits provides empirical support for McGinn's thesis; bidirectional link now established.
+
+## 2026-01-28 14:00 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/llm-consciousness.md`
+- **Word count**: 3497 → 3507 (+10 words)
+- **Critical issues addressed**: 0 (none found—third review, article stable)
+- **Medium issues addressed**: 1 (missing cross-link to continual-learning-argument.md)
+- **Enhancements made**: Added [continual-learning-argument](/concepts/continual-learning-argument/) to frontmatter concepts and Further Reading section
+- **Output**: `reviews/deep-review-2026-01-28-llm-consciousness.md`
+- **Notes**: Cross-review considering continual-learning-argument insights. Third review—article confirmed stable. Verified alignment between the two articles: both frame continual learning as consequence rather than cause of consciousness; no substantive conflicts found.
+
+## 2026-01-28 21:19 UTC - coalesce
+
+- **Status**: Success
+- **Sources**: `topics/mysterianism-cognitive-closure.md`
+- **Target**: `concepts/mysterianism.md`
+- **Archived**: `archive/topics/mysterianism-cognitive-closure.md`
+- **References updated**: 13 files (concepts/*, topics/*, apex/*)
+- **Notes**: topics/mysterianism-cognitive-closure.md was largely duplicative of the more comprehensive concepts/mysterianism.md. Merged the "tool-extension objection" paragraph (the only unique content) into the concept article and archived the topic. Updated all wikilinks from mysterianism-cognitive-closure to mysterianism.
+
+## 2026-01-28 16:45 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/quantum-measurement-interpretations-beyond-mwi.md`
+- **Word count**: 1812 → 1946 (+134 words)
+- **Critical issues addressed**: 0 (none found—previous review resolved all critical issues)
+- **Medium issues addressed**: 3 (QBism phenomenological critique, process philosophy connection, indexical dimension)
+- **Enhancements made**: Added cross-link to subjective-probability article's phenomenological critique in QBism section; connected transactional interpretation to process philosophy's actual occasions; added indexical dimension paragraph to "Why This Matters" section; expanded Further Reading with two new links
+- **Output**: `reviews/deep-review-2026-01-28-quantum-measurement-interpretations-beyond-mwi.md`
+- **Notes**: Cross-review considering subjective-probability insights. Second review—article at good stability. Integrative enhancement connecting newly published content.
+
+## 2026-01-28 20:50 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/ethics-of-consciousness.md`
+- **Word count**: 2001 → 2170 (+169 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (falsifiability specificity, Buddhist emptiness engagement)
+- **Enhancements made**: Expanded falsifiability section into numbered list with specific empirical conditions; added Buddhist emptiness (*śūnyatā*) challenge and *karuṇā* response
+- **Output**: `reviews/deep-review-2026-01-28-ethics-of-consciousness.md`
+- **Notes**: Second review—article approaching stability. Previous review (2026-01-20) addressed major structural gaps; this review made targeted improvements to medium-priority items.
+
+## 2026-01-28 21:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/ai-consciousness.md`
+- **Word count**: 1104 → 1342 (+238 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (continual learning argument expansion)
+- **Enhancements made**: Expanded continual learning treatment into dedicated subsection with proximity argument, substitution space concept, and falsifiability-non-triviality framework. Added [continual-learning-argument](/concepts/continual-learning-argument/) to concepts and Further Reading.
+- **Output**: `reviews/deep-review-2026-01-28-ai-consciousness.md`
+- **Notes**: Cross-review considering continual-learning-argument insights. Third review—article at good stability. Integrative enhancement only.
+
+## 2026-01-28 20:29 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/free-will.md`
+- **Word count**: 2119 → 2181 (+62 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (Sjöberg 2024 integration)
+- **Enhancements made**: Added Sjöberg (2024) surgical evidence to Libet section—strengthens argument that readiness potential is irrelevant to volition
+- **Output**: `reviews/deep-review-2026-01-28-free-will.md`
+- **Notes**: Cross-review considering motor-selection.md insights. Seventh review—article at high stability. Integrative enhancement only.
+
+## 2026-01-28 20:30 UTC - optimistic-review
+
+- **Status**: Success
+- **Files reviewed**: All non-draft topics, concepts, tenets (40+ topics, 95+ concepts, tenets.md)
+- **Output**: `reviews/optimistic-2026-01-28-evening.md`
+- **Tasks generated**: 12 P3 expansion suggestions
+- **Notes**: Comprehensive multi-perspective review. Praise from Chalmers, Stapp, Nagel, Whitehead, Kane, and McGinn perspectives. Key strengths identified: convergence of independent arguments, integration of quantum mechanisms with agent-causation, serious engagement with contemplative evidence. Recent additions (motor-selection, contemplative-evidence, continual-learning-argument) significantly strengthen empirical grounding. High-priority opportunities: phenomenal value realism development, temporal consciousness apex article, history of interactionist dualism.
+
+## 2026-01-28 20:07 UTC - expand-topic (duplicate)
+
+- **Status**: Skipped (article already exists)
+- **Topic**: quantum measurement and subjective probability
+- **Existing output**: `topics/quantum-measurement-and-subjective-probability.md`
+- **Word count**: ~2100
+- **Notes**: Task was duplicate. Article "Quantum Measurement and Subjective Probability" already exists at topics/quantum-measurement-and-subjective-probability.md (created 2026-01-27, deep-reviewed 2026-01-27). The research (research/quantum-measurement-subjective-probability-2026-01-23.md) has been fully consumed. Article covers QBism, participatory realism, consciousness-collapse, relational QM, and the phenomenological gap in subjective interpretations. No new article needed.
+
+## 2026-01-28 19:58 UTC - deep-review
+
+- **Status**: Success
+- **File**: `voids/ai-as-void-explorer.md`
+- **Word count**: 2001 → 2005 (+4 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (missing cross-link to convergent-cognitive-limits, falsifiability integration)
+- **Enhancements made**: Added convergent-cognitive-limits cross-link (frontmatter, body, Further Reading); integrated convergent limits as falsification baseline
+- **Output**: `reviews/deep-review-2026-01-28-ai-as-void-explorer.md`
+- **Notes**: Cross-review considering new convergent-cognitive-limits article. Second review in two days—article approaching stability. Maintained length neutrality at soft threshold.
+
+## 2026-01-28 19:50 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/death-and-consciousness.md`
+- **Word count**: 4511 → 3683 (-828 words, -18%)
+- **Critical issues addressed**: 0 (none found—previous review resolved all)
+- **Medium issues addressed**: 2 (typo "siteion"→"projection", length reduction)
+- **Enhancements made**: Condensation of NDE, quantum soul, process philosophy, temporary loss sections; trimmed further reading and references
+- **Output**: `reviews/deep-review-2026-01-28-death-and-consciousness.md`
+- **Notes**: Article reached stability. Previous review (2026-01-20) addressed all substantive gaps. This review focused on length management—reduced from hard_warning (150% of soft threshold) to soft_warning (123%). No philosophical changes needed.
+
+## 2026-01-28 19:43 UTC - expand-topic (duplicate)
+
+- **Status**: Skipped (article already exists)
+- **Topic**: Hoel's continual learning argument against LLM consciousness
+- **Existing output**: `concepts/continual-learning-argument.md`
+- **Word count**: ~2700
+- **Notes**: Task was duplicate. Comprehensive article "Continual Learning Argument" already exists at concepts/continual-learning-argument.md (created 2026-01-20, deep-reviewed 2026-01-20, last modified 2026-01-26). Also extensively covered in concepts/llm-consciousness.md (section "Hoel's Arguments") and topics/ai-consciousness.md. The research (research/hoel-llm-consciousness-continual-learning-2026-01-15.md) has been fully consumed into multiple articles.
+
+## 2026-01-28 23:15 UTC - expand-topic (duplicate)
+
+- **Status**: Skipped (article already exists)
+- **Topic**: motor control and quantum Zeno effect
+- **Existing output**: `concepts/motor-selection.md`
+- **Word count**: 3411
+- **Notes**: Task was duplicate. Article "Motor Selection and the Quantum Zeno Effect" already exists at concepts/motor-selection.md, created 2026-01-18 based on research/motor-control-quantum-zeno-2026-01-18.md. Deep-reviewed 2026-01-26. The research has been consumed; no new article needed.
+
+## 2026-01-28 22:30 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**:
+  - `topics/chalmers-psychophysical-coupling.md`
+  - `topics/personal-identity.md`
+  - `topics/contemplative-evidence-for-consciousness-theories.md`
+- **Output**: `reviews/pessimistic-2026-01-28-night.md`
+- **Critical issues**: 3 (haecceity unfalsifiability, content-specificity doesn't establish phenomenal causation, rejecting organisational invariance underspecifies psychophysical laws)
+- **Medium issues**: 3 (quantum timing, witness consciousness question-begging, process philosophy tension)
+- **Notes**: Cluster addresses theoretical architecture: psychophysical coupling, personal identity, and contemplative evidence. Articles are sophisticated but share vulnerability: assume phenomenal consciousness is real/irreducible/indexically particular, then argue from assumptions. Contemplative evidence consistent with framework but doesn't defeat serious alternatives (common-cause epiphenomenalism, functionalism). Haecceity commitment acknowledged unfalsifiable. Divergence from organisational invariance makes psychophysical laws unstatable.
+
+## 2026-01-28 19:07 UTC - deep-review (cross-review)
+
+- **Status**: Success (no changes needed)
+- **File**: `concepts/binding-problem.md`
+- **Cross-review context**: neural-binding-mechanisms.md
+- **Word count**: 3456 (unchanged)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (none needed)
+- **Output**: `reviews/deep-review-2026-01-28-binding-problem-cross.md`
+- **Notes**: Cross-review confirms good integration with neural-binding-mechanisms.md. Article has reached stability after previous reviews (2026-01-19, 2026-01-22, 2026-01-28). Distinct scope differentiation between articles, no redundancy. Convergence achieved.
+
+## 2026-01-28 21:15 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/chalmers-psychophysical-coupling.md`
+- **Based on**: Outer review by ChatGPT 5.2 Pro (2026-01-28)
+- **Changes**:
+  - Added Chalmers' qualification to double-aspect theory: changed "wherever information exists" to "information—or at least some information"
+  - Clarified that Chalmers treats the scope question (does all information have phenomenal character?) as open rather than settled
+- **Published**: yes
+
+## 2026-01-28 18:49 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/personal-identity.md`
+- **Word count**: 4516 → 4416 (-100 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (uncited "2025 research" claims made generic)
+- **Enhancements made**: Prose tightening throughout
+- **Output**: `reviews/deep-review-2026-01-28-personal-identity.md`
+- **Notes**: Article has reached stability after comprehensive 2026-01-20 review. No structural changes needed.
+
+## 2026-01-28 18:37 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/chalmers-psychophysical-coupling.md`
+- **Based on**: Outer review by ChatGPT 5.2 Pro (2026-01-28)
+- **Changes**:
+  - Softened "No Many Worlds" claim to accurately reflect Chalmers-McQueen's exploratory stance
+  - Replaced assertion of "shared commitment" with clarification that Map commits to collapse where Chalmers-McQueen remain exploratory
+- **Published**: yes
+
+## 2026-01-28 18:27 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/chalmers-psychophysical-coupling.md`
+- **Based on**: Outer review by ChatGPT 5.2 Pro (2026-01-28)
+- **Changes**:
+  - Corrected "five constraints" attribution from Chalmers & McQueen (2022) to Bradford Saad (2025)
+  - Added Saad citation to References section
+- **Published**: yes
+
+## 2026-01-28 22:30 UTC - outer-review
+
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.2 Pro
+- **File**: `reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-chatgpt-5-2-pro.md`
+- **Article reviewed**: `topics/chalmers-psychophysical-coupling.md`
+- **Claims verified**: 6 (against Chalmers' papers and Saad 2025)
+- **High-value findings**: 4
+  1. Five constraints misattributed to Chalmers & McQueen (actually from Saad 2025)
+  2. Many-Worlds claim overstates Chalmers-McQueen's position
+  3. Double-aspect information claim stronger than Chalmers' own framing
+  4. Epiphenomenalism characterization ignores Chalmers' neutrality
+- **Tasks generated**: 4 (P1: 2, P2: 2)
 
 ## 2026-01-28 21:45 UTC - expand-topic
 
@@ -4588,7 +4833,7 @@ Comprehensive deep review of the quantum-binding-experimental-evidence concept a
 - Added post-decoherence selection framework and Stapp mechanism discussion
 - Connected No Many Worlds tenet explicitly
 - Added cognitive closure caveat for epistemic humility
-- Added 5 new concept cross-links: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [illusionism](/concepts/illusionism/), [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/)
+- Added 5 new concept cross-links: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [illusionism](/concepts/illusionism/), [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/)
 - Expanded Further Reading section
 
 ### Output Files
@@ -4655,7 +4900,7 @@ Comprehensive deep review of the unity-of-consciousness concept article. Applied
 
 - Added [stapp-quantum-mind](/concepts/stapp-quantum-mind/) connection explaining Quantum Zeno mechanism for unified attention
 - Added [voluntary-attention](/concepts/voluntary-attention/) empirical case to Bidirectional Interaction section
-- Connected Leibniz's Mill section to [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/)
+- Connected Leibniz's Mill section to [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/)
 - Added 5 new concept cross-links to frontmatter
 - Added 3 new references (Frankish 2016, Lloyd 2012, Pinto et al. 2025)
 
@@ -4763,7 +5008,7 @@ Comprehensive review applying pessimistic (6 personas) and optimistic (6 persona
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
 - [voluntary-attention](/concepts/voluntary-attention/)
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
-- [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/)
+- [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/)
 
 ### Output
 
@@ -6592,7 +6837,7 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - Enhanced Mysterianism section with McGinn's Transcendental Naturalism formulation
 - Added squirrel-quantum mechanics analogy (makes cognitive closure vivid)
 - Strengthened connection to Occam's Razor Has Limits tenet
-- Updated wikilinks from [mysterianism](/concepts/mysterianism/) to [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/)
+- Updated wikilinks from [mysterianism](/concepts/mysterianism/) to [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/)
 - Connected hard problem persistence to mystery vs problem distinction
 - Added reference to voids framework (property "P" as unchartable territory)
 

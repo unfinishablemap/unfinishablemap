@@ -12,7 +12,7 @@ concepts:
 - '[[phenomenal-unity]]'
 - '[[quantum-consciousness]]'
 - '[[neural-correlates-of-consciousness]]'
-- '[[mysterianism-cognitive-closure]]'
+- '[[mysterianism]]'
 - '[[illusionism]]'
 created: 2026-01-22
 date: &id001 2026-01-24
@@ -117,7 +117,7 @@ Finally, [Occam's Razor Has Limits](/tenets/#occams-limits) applies. Classical t
 
 The [No Many Worlds](/tenets/#no-many-worlds) tenet is implicit throughout. The quantum binding hypothesis assumes collapse is real—that one outcome becomes actual while others don't. Under the Many-Worlds Interpretation, all outcomes occur in branching universes and "selection" becomes meaningless. The experimental signatures (entanglement correlating with consciousness, microtubule effects on anesthesia) would still occur, but their interpretation as evidence for consciousness-collapse interaction would dissolve. The Map's rejection of MWI makes quantum binding a substantive hypothesis rather than an epiphenomenal description.
 
-A final caveat: the possibility remains that the consciousness-quantum connection is permanently beyond human cognition. [Cognitive closure](/topics/mysterianism-cognitive-closure/) may prevent us from fully grasping how phenomenal unity relates to physical processes, quantum or otherwise. The evidence presented here is empirical, but the hard problem may resist empirical resolution.
+A final caveat: the possibility remains that the consciousness-quantum connection is permanently beyond human cognition. [Cognitive closure](/concepts/mysterianism/) may prevent us from fully grasping how phenomenal unity relates to physical processes, quantum or otherwise. The evidence presented here is empirical, but the hard problem may resist empirical resolution.
 
 ## Further Reading
 
@@ -129,7 +129,7 @@ A final caveat: the possibility remains that the consciousness-quantum connectio
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Penrose-Hameroff Orch OR and Stapp's quantum Zeno approach
 - [decoherence](/concepts/decoherence/) — Why quantum effects can survive in biological systems
 - [illusionism](/concepts/illusionism/) — The challenge that phenomenal unity might be illusory
-- [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/) — The possibility that consciousness-quantum connection exceeds human cognitive reach
+- [mysterianism](/concepts/mysterianism/) — The possibility that consciousness-quantum connection exceeds human cognitive reach
 - [integrated-information-theory](/concepts/integrated-information-theory/) — Alternative framework (classical, not quantum)
 
 ## References

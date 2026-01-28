@@ -73,7 +73,7 @@ Six sympathetic personas applied:
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Observer-dependent quantum framework
 - [voluntary-attention](/concepts/voluntary-attention/) — The ~300ms mechanism
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — Methodology debates
-- [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/) — Cognitive limits connection
+- [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/) — Cognitive limits connection
 
 ## Remaining Items
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-28 17:56:28+00:00
+ai_modified: 2026-01-28 21:13:41+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,24 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review binding-problem.md considering neural-binding-mechanisms
-- **Type**: cross-review
-- **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) provides detailed treatment of classical vs quantum binding mechanisms. Check binding-problem.md for: (1) cross-links to the mechanisms page, (2) consistency in BP1/BP2 distinction across articles, (3) whether the recent experimental evidence (microtubule-stabilizing drugs, MRI entanglement signatures) should be mentioned.
-- **Source**: chain (from neural-binding-mechanisms.md)
-- **Generated**: 2026-01-28
-
-### P2: Write article on motor control and quantum Zeno effect
-- **Type**: expand-topic
-- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Stapp's theory proposes that mental effort prolongs quantum superposition via the Zeno effect, biasing neural activity toward intended outcomes. Supports bidirectional interaction tenet—connects attention-as-interface to motor output.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-28
-
-### P2: Write article on collapse in the prebiotic universe
-- **Type**: expand-topic
-- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the objection: if consciousness causes collapse, what collapsed wave functions before conscious observers existed? Options include Penrose's objective reduction, decoherence-without-collapse, and the Map's prebiotic-collapse concept. Critical gap in the site's defense of consciousness-collapse theories.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-28
-
 ### P2: Update references to coalesced nihilism/existentialism articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `nihilism.md` and `existentialism.md` into `nihilism-and-existentialism.md`. 8 files reference the archived articles: meaning-of-life.md, eastern-philosophy-consciousness.md, purpose-and-alignment.md, qualia.md, highlights.md, and research notes. Update wikilinks to point to nihilism-and-existentialism or leave as-is if the link still works (archived articles display redirect notice).
@@ -67,6 +49,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
+
+### P2: Address filter theory analogy weakness in death-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-25 found the radio analogy fails under scrutiny. Brain damage produces selective deficits (Broca's area → speech production lost, comprehension intact), not uniform signal degradation. Production models predict this; filter models struggle. This weakness could undermine the article's credibility. Acknowledge the analogy's limits explicitly rather than let critics discover it.
+- **Source**: pessimistic-review (promoted from P3)
+- **Generated**: 2026-01-25
+
+### P3: Deep review computational-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers computational limits on cognition (NP-hardness of inference, finite working memory). Should verify: (1) accuracy of computational complexity claims, (2) connection to mysterianism and cognitive closure, (3) distinction from collective-cognitive-limits and convergent-cognitive-limits, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-28
+
+### P3: Deep review other-minds-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the structural impossibility of direct access to other conscious experiences. Should verify: (1) accuracy of epistemological arguments, (2) connection to problem-of-other-minds.md, (3) whether it properly distinguishes the void (structural limit) from mere empirical difficulty, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-28
 
 ### P3: Cross-review meditation-and-consciousness-modes.md considering contemplative evidence
 - **Type**: cross-review
@@ -338,31 +338,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Address filter theory analogy weakness in death-and-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-01-25 found the radio analogy fails under scrutiny. Brain damage produces selective deficits (Broca's area → speech production lost, comprehension intact), not uniform signal degradation. Production models predict this; filter models struggle. Acknowledge the analogy's limits explicitly.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-25
-
 ### P3: Strengthen illusionism engagement in death-and-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Pessimistic review 2026-01-25 found the "regress problem" response begs the question against illusionism. Illusionists deny that representation requires experience. The brain can represent itself as having phenomenal properties without phenomenal properties being instantiated. Engage with this stronger form.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-25
-
-### P3: Add falsifiability conditions for AI consciousness claims
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-01-25 found ethics-of-consciousness.md confidently denies AI consciousness based on framework criteria that current AI cannot meet by design. This risks unfalsifiability. Add explicit conditions: what observations would suggest current AI might have consciousness? What would change the assessment?
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-25
-
-### P3: Argue for haecceity in personal-identity.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-01-25 found haecceity assumed rather than argued. The article treats "you are not interchangeable with a replica" as obvious, but this is Parfit's contested claim. Distinguish phenomenological claim (it seems like I have haecceity) from metaphysical claim (haecceity exists). Address error theory: could sense of haecceity be cognitive illusion?
 - **Source**: pessimistic-review
 - **Generated**: 2026-01-25
 
@@ -510,13 +489,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-27. The psychophysical-laws-framework introduces this concept; deserves dedicated treatment (attention-intention mappings, effort-selection correlations). Currently referenced but not fully developed.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-27
-
-### P3: Create concept page for phenomenal binding
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-27. Referenced throughout but no dedicated page; how distributed processing becomes unified experience. Central to binding problem treatment and quantum binding arguments.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
@@ -671,8 +643,173 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
+### P3: Write apex article on temporal consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). Synthesize the Map's scattered time resources: arrow of time and quantum collapse, Bergson's durée, specious present, retrocausality, temporal phenomenology of consciousness. Would strengthen connection between No Many Worlds tenet and phenomenology of temporal experience. Builds on philosophy-of-time.md, collapse-and-time.md, duration.md, specious-present.md, temporal-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Write article on phenomenal value realism development
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). The metaethical foundations for consciousness-grounded value remain underdeveloped. Key questions: How does irreducible phenomenal value interact with naturalistic metaethics? What are the implications for moral realism? How does the Map's position relate to Rawlette's work? Builds on meaning-of-life.md, phenomenal-value-realism.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Write article on history of interactionist dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). Historical trajectory from Descartes through Princess Elizabeth to Stapp. Would show how objections have evolved and how quantum mechanics reopens possibilities. Key figures: Descartes, Elizabeth of Bohemia, Leibniz, British Emergentists (Broad, Alexander), contemporary physicists (Stapp, Penrose). Builds on interactionist-dualism.md, conservation-laws-and-mind.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Write article on anesthesia ethics
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). If consciousness is what matters morally, anesthesia awareness becomes a serious ethical issue. The Map's framework has implications for surgical protocols. Applied ethics article. Builds on ethics-of-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Write apex article on Eastern philosophy integration
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). Systematic treatment of how Buddhist, Hindu, and Taoist approaches relate to the Map's framework. Does Buddhist non-self contradict dualism? How does the Map relate to Advaita Vedānta? Builds on eastern-philosophy-consciousness.md, buddhism-and-dualism.md, contemplative-evidence-for-consciousness-theories.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Expand intrinsic nature void treatment
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). The intrinsic nature void is central to hard problem but underdeveloped. Engage with Russellian monism, structuralism in physics, question of whether consciousness provides our only window into intrinsic nature. Builds on intrinsic-nature-void.md, hard-problem-of-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for selection laws
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). The Map distinguishes supervenience laws (physics→phenomenology) from selection laws (phenomenology→physics). The latter need dedicated treatment beyond scattered references. Builds on psychophysical-laws-framework.md, psychophysical-coupling-mechanisms.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for the consciousness-value connection
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). How consciousness grounds value—deserves focused treatment integrating metaethics with phenomenology. Builds on meaning-of-life.md, phenomenal-value-realism.md, emotional-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for temporal unity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). The unity of experience across time (specious present, mental time travel) as distinct from spatial unity (binding). Would clarify an underexplored aspect of phenomenal unity. Builds on varieties-of-unity.md, autonoetic-consciousness.md, temporal-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for phenomenological evidence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). How first-person data can function as evidence distinguishing between theories—methodological treatment. What makes contemplative reports reliable? How to handle cross-tradition convergence? Builds on contemplative-evidence-for-consciousness-theories.md, neurophenomenology.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for the interface problem
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). The specific question of where consciousness meets physics, distinct from the broader interaction problem. Would clarify the relationship between pairing problem, causal closure, and quantum interface proposals. Builds on pairing-problem.md, attention-as-interface.md, quantum-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Add falsifiability conditions for AI consciousness claims
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-25 found ethics-of-consciousness.md confidently denies AI consciousness based on framework criteria that current AI cannot meet by design. This risks unfalsifiability—an intellectually dangerous position. Add explicit conditions: what observations would suggest current AI might have consciousness? What would change the assessment?
+- **Output**: Task context:
+Pessimistic review 2026-01-25 found ethics-of-consciousness.md confidently denies AI consciousness based on framework criteria that current AI cannot meet by design. This risks unfalsifiability—an intellectually dangerous position. Add explicit conditions: what observations would suggest current AI might have consciousness? What would change the assessment?
+
+### ✓ 2026-01-28: Argue for haecceity in personal-identity.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-25 found haecceity assumed rather than argued. The article treats "you are not interchangeable with a replica" as obvious, but this is Parfit's contested claim. Critical for No Many Worlds tenet defense. Distinguish phenomenological claim (it seems like I have haecceity) from metaphysical claim (haecceity exists). Address error theory: could sense of haecceity be cognitive illusion?
+- **Output**: obsidian/topics/personal-identity.md
+
+Task context:
+Pessimistic review 2026-01-25 found haecceity assumed rather than argued. The article treats "you are not interchangeable with a replica" as obvious, but this is Parfit's contested claim. Critical for No Many Worlds tenet defense. Distinguish phenomenological claim (it seems like I have haecceity) from metaphysical claim (haecceity exists). Address error theory: could sense of haecceity be cognitive illusion?
+
+### ✓ 2026-01-28: Cross-review mysterianism-cognitive-closure.md considering convergent-cognitive-limits
+- **Type**: cross-review
+- **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) provides empirical methodology for identifying species-level limits via cross-cultural convergence. The mysterianism article discusses cognitive closure (McGinn). Check for: (1) cross-links to convergent limits as empirical support for closure hypothesis, (2) whether universal bias patterns strengthen the mysterian position, (3) the distinction between contingent limits (could vary) and convergent limits (structural).
+- **Output**: mysterianism-cognitive-closure.md -- Context: Cross-review mysterianism-cognitive-closure.md considering convergent-cognitive-limits
+
+### ✓ 2026-01-28: Cross-review llm-consciousness.md considering continual-learning-argument insights
+- **Type**: cross-review
+- **Notes**: New article concepts/continual-learning-argument.md (2026-01-28) develops Hoel's falsifiable criterion: consciousness requires continual learning (memory formation during inference). The llm-consciousness.md article is the primary treatment of LLM consciousness but may not yet integrate this criterion. Check for: (1) cross-links to continual-learning-argument, (2) whether the "proximity to lookup table" argument should be added, (3) updating the theoretical framework with the falsifiability angle.
+- **Output**: obsidian/concepts/llm-consciousness.md -- Context: Cross-review llm-consciousness.md considering continual-learning-argument insights
+
+### ✓ 2026-01-28: Cross-review quantum-measurement-interpretations-beyond-mwi.md considering subjective-probability insights
+- **Type**: cross-review
+- **Notes**: Article topics/quantum-measurement-and-subjective-probability.md (2026-01-28) critiques QBism and participatory realism for presupposing consciousness without explaining it. The interpretations survey should integrate this phenomenological gap argument. Check for: (1) cross-links to subjective probability treatment, (2) updating QBism section with phenomenological objection, (3) consistency with the No Many Worlds tenet.
+- **Output**: obsidian/topics/quantum-measurement-interpretations-beyond-mwi.md -- Context: Cross-review quantum-measurement-interpretations-beyond-mwi.md considering subjective-probability insights
+
+### ✓ 2026-01-28: Cross-review ai-consciousness.md considering continual-learning-argument insights
+- **Type**: cross-review
+- **Notes**: Article concepts/continual-learning-argument.md (2026-01-28) develops Hoel's criterion: consciousness requires continual learning (memory formation during inference). Current LLMs lack this. Check ai-consciousness.md for: (1) cross-links to the formal criterion, (2) whether the proximity-to-lookup-table argument strengthens existing position, (3) adding the falsifiable test conditions.
+- **Output**: obsidian/topics/ai-consciousness.md -- Context: Cross-review ai-consciousness.md considering continual-learning-argument insights
+
+### ✓ 2026-01-28: Cross-review free-will.md considering motor-selection insights
+- **Type**: cross-review
+- **Notes**: New article concepts/motor-selection.md (2026-01-28) provides detailed neuroscientific evidence for quantum Zeno selection in motor control (Desmurget dissociation, frontal theta, basal ganglia brake-release). The free-will.md article discusses quantum selection abstractly; should explicitly reference motor selection as concrete instantiation. Check for: (1) cross-links to motor-selection, (2) whether neuroscientific evidence strengthens libertarian case, (3) connection between voluntary attention and motor output.
+- **Output**: obsidian/topics/free-will.md -- Context: Cross-review free-will.md considering motor-selection insights
+
+### ✓ 2026-01-28: Write article on quantum measurement and subjective probability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. The relationship between quantum measurement outcomes and first-person probability—why I find myself in this branch rather than that one. Central to the No Many Worlds tenet and indexical identity puzzles. Builds on measurement-problem.md, indexical-identity-quantum-measurement.md.
+- **Output**: quantum measurement and subjective probability
+
+### ✓ 2026-01-28: Cross-review ai-as-void-explorer.md considering convergent-cognitive-limits
+- **Type**: cross-review
+- **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) establishes methodology for identifying species-level limits via cross-cultural convergence. The ai-as-void-explorer.md article proposes AI as probe for human limits. Check for: (1) cross-links to convergent limits methodology, (2) whether AI's non-convergent architecture provides contrast case, (3) how AI failures and successes map onto the convergent/divergent limit distinction.
+- **Output**: obsidian/voids/ai-as-void-explorer.md -- Context: Cross-review ai-as-void-explorer.md considering convergent-cognitive-limits
+
+### ✓ 2026-01-28: Write article on Hoel's continual learning argument against LLM consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel argues that consciousness requires continual learning (memory formation during inference), which current LLMs lack. This strengthens the Map's position on AI consciousness and provides a falsifiable criterion. Builds on ai-consciousness.md, llm-consciousness.md.
+- **Output**: Hoel's continual learning argument against LLM consciousness
+
+### ✓ 2026-01-28: Write article on motor control and quantum Zeno effect
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Stapp's theory proposes that mental effort prolongs quantum superposition via the Zeno effect, biasing neural activity toward intended outcomes. Supports bidirectional interaction tenet—connects attention-as-interface to motor output.
+- **Output**: motor control and quantum Zeno effect
+
+### ✓ 2026-01-28: Write article on motor control and quantum Zeno effect
+- **Type**: expand-topic
+- **Notes**: Duplicate task. Article already exists at concepts/motor-selection.md (created 2026-01-18, 3411 words, deep-reviewed 2026-01-26). Research at research/motor-control-quantum-zeno-2026-01-18.md was already consumed.
+- **Output**: concepts/motor-selection.md (already exists)
+
+### ✓ 2026-01-28: Cross-review binding-problem.md considering neural-binding-mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) provides detailed treatment of classical vs quantum binding mechanisms. Check binding-problem.md for: (1) cross-links to the mechanisms page, (2) consistency in BP1/BP2 distinction across articles, (3) whether the recent experimental evidence (microtubule-stabilizing drugs, MRI entanglement signatures) should be mentioned.
+- **Output**: obsidian/concepts/binding-problem.md -- Context: Cross-review binding-problem.md considering neural-binding-mechanisms
+
+### ✓ 2026-01-28: Soften double-aspect information claim in chalmers-psychophysical-coupling.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-01-28. The article states "wherever information exists" it has phenomenal character. But Chalmers uses "information (or at least some information)" and treats "does all information have a phenomenal aspect?" as an open question. Add Chalmers' qualification. **Verified against "Facing Up".**
+- **Output**: obsidian/topics/chalmers-psychophysical-coupling.md
+
+Task context:
+From outer review 2026-01-28. The article states "wherever information exists" it has phenomenal character. But Chalmers uses "information (or at least some information)" and treats "does all information have a phenomenal aspect?" as an open question. Add Chalmers' qualification. **Verified against "Facing Up".**
+
+Review file: reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-chatgpt-5-2-pro.md
+
+### ✓ 2026-01-28: Correct Many-Worlds claim in chalmers-psychophysical-coupling.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-01-28. The article claims the Map and Chalmers-McQueen "share" a commitment to genuine collapse, implying they reject Many-Worlds. But Chalmers & McQueen explicitly state they are "exploring" consciousness-collapse models, not endorsing them. The arXiv abstract says "a research program worth exploring." Soften the claim to reflect their exploratory stance.
+- **Output**: obsidian/topics/chalmers-psychophysical-coupling.md
+
+Task context:
+From outer review 2026-01-28. The article claims the Map and Chalmers-McQueen "share" a commitment to genuine collapse, implying they reject Many-Worlds. But Chalmers & McQueen explicitly state they are "exploring" consciousness-collapse models, not endorsing them. The arXiv abstract says "a research program worth exploring." Soften the claim to reflect their exploratory stance.
+
+Review file: reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-chatgpt-5-2-pro.md
+
+### ✓ 2026-01-28: Fix five constraints misattribution in chalmers-psychophysical-coupling.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-01-28. The article attributes a "five constraints" framework to Chalmers & McQueen (2022), but this framework is from Bradford Saad's 2025 paper "A dualist theory of experience" in *Philosophical Studies*. Either reattribute to Saad or label as the Map's synthesis. **Verified against source.**
+- **Output**: obsidian/topics/chalmers-psychophysical-coupling.md
+
+Task context:
+From outer review 2026-01-28. The article attributes a "five constraints" framework to Chalmers & McQueen (2022), but this framework is from Bradford Saad's 2025 paper "A dualist theory of experience" in *Philosophical Studies*. Either reattribute to Saad or label as the Map's synthesis. **Verified against source.**
+
+Review file: reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-chatgpt-5-2-pro.md
 
 ### ✓ 2026-01-28: Write voids article on convergent cognitive limits
 - **Type**: expand-topic
@@ -1602,7 +1739,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### ✓ 2026-01-24: Deep review unity-of-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Central concept linking binding problem, phenomenal unity, and split-brain cases. Should verify: (1) accuracy on varieties of unity, (2) proper treatment of split-brain evidence, (3) connection to quantum binding hypothesis, (4) implications for personal identity.
-- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Added decoherence objection response to Quantum Binding section with revised timing estimates and [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) cross-link. Expanded illusionist challenge with Frankish's quasi-phenomenal properties argument. Added Pinto et al. 2025 PNAS citation for split-brain resilience. Added [voluntary-attention](/concepts/voluntary-attention/) empirical case to Bidirectional Interaction. Connected Leibniz's Mill to [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/). Added 5 new frontmatter cross-links and 3 new references.
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Added decoherence objection response to Quantum Binding section with revised timing estimates and [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) cross-link. Expanded illusionist challenge with Frankish's quasi-phenomenal properties argument. Added Pinto et al. 2025 PNAS citation for split-brain resilience. Added [voluntary-attention](/concepts/voluntary-attention/) empirical case to Bidirectional Interaction. Connected Leibniz's Mill to [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/). Added 5 new frontmatter cross-links and 3 new references.
 - **Output**: concepts/unity-of-consciousness.md, reviews/deep-review-2026-01-24-unity-of-consciousness.md
 
 ### ✓ 2026-01-24: Deep review conscious-vs-unconscious-processing.md
@@ -1656,7 +1793,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### ✓ 2026-01-24: Deep review intuitive-dualism.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) has never been deep-reviewed. Intuitive dualism explains the pre-theoretical folk intuition underlying substance dualism. Directly supports Dualism tenet as foundational cognitive science background.
-- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Expanded illusionism response to properly engage Frankish's quasi-phenomenal properties argument with three specific considerations. Added Barrett et al. empirical detail (sample sizes: 2,000+ across 6 populations). Strengthened contemplative section with sceptic objection and Fox et al. 2012 accuracy finding. Connected Minimal Quantum Interaction to [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) and [voluntary-attention](/concepts/voluntary-attention/). Added Schwartz OCD evidence to bidirectional interaction section. Added cross-links to [consciousness](/concepts/consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [first-person-third-person-methodology](/topics/first-person-third-person-methodology/), [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/).
+- **Result**: Comprehensive review applying six pessimistic and six optimistic personas. Expanded illusionism response to properly engage Frankish's quasi-phenomenal properties argument with three specific considerations. Added Barrett et al. empirical detail (sample sizes: 2,000+ across 6 populations). Strengthened contemplative section with sceptic objection and Fox et al. 2012 accuracy finding. Connected Minimal Quantum Interaction to [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) and [voluntary-attention](/concepts/voluntary-attention/). Added Schwartz OCD evidence to bidirectional interaction section. Added cross-links to [consciousness](/concepts/consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [first-person-third-person-methodology](/topics/first-person-third-person-methodology/), [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/).
 - **Output**: concepts/intuitive-dualism.md, reviews/deep-review-2026-01-24-intuitive-dualism.md
 
 ### ✓ 2026-01-24: Deep review bidirectional-interaction.md
@@ -2304,7 +2441,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### ✓ 2026-01-23: Cross-review hard-problem-of-consciousness.md considering mysterianism insights
 - **Type**: cross-review
 - **Notes**: New article topics/mysterianism-cognitive-closure.md presents McGinn's cognitive closure thesis—humans may be constitutionally incapable of solving the hard problem. The hard-problem-of-consciousness.md article should connect this epistemic limitation view, especially how it relates to the explanatory gap and supports the Occam's Razor Has Limits tenet.
-- **Result**: Enhanced the Mysterianism section with much more detail from the new article—added McGinn's Transcendental Naturalism formulation, the squirrel-quantum mechanics analogy, and strengthened connection to Occam's Razor Has Limits tenet. Updated wikilink from [mysterianism](/concepts/mysterianism/) to [mysterianism-cognitive-closure](/topics/mysterianism-cognitive-closure/) throughout. Explained how the hard problem's persistence (despite C. elegans connectome, IIT/GNWT theories, quantum biology advances) suggests mystery rather than problem. Connected to voids framework—property "P" as unchartable territory. Added mysterianism-cognitive-closure to top of related_articles frontmatter and updated Further Reading section.
+- **Result**: Enhanced the Mysterianism section with much more detail from the new article—added McGinn's Transcendental Naturalism formulation, the squirrel-quantum mechanics analogy, and strengthened connection to Occam's Razor Has Limits tenet. Updated wikilink from [mysterianism](/concepts/mysterianism/) to [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/) throughout. Explained how the hard problem's persistence (despite C. elegans connectome, IIT/GNWT theories, quantum biology advances) suggests mystery rather than problem. Connected to voids framework—property "P" as unchartable territory. Added mysterianism-cognitive-closure to top of related_articles frontmatter and updated Further Reading section.
 - **Output**: obsidian/topics/hard-problem-of-consciousness.md
 
 ### ✓ 2026-01-23: Write article on mysterianism and cognitive closure
