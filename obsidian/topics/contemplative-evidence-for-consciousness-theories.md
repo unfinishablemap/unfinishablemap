@@ -4,8 +4,8 @@ description: "How meditation phenomenology and neuroplasticity distinguish betwe
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-01-28T14:26:08+00:00
-last_deep_review: 2026-01-28T14:26:08+00:00
+ai_modified: 2026-01-28T14:45:55+00:00
+last_deep_review: 2026-01-28T14:45:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -91,7 +91,7 @@ If phenomenal properties reduced completely to neural properties, first-person t
 
 Advanced meditators access the jhana states—eight progressively refined experiential conditions ranging from directed attention with joy through pure equanimity to formless states (infinite space, infinite consciousness, nothingness, neither-perception-nor-non-perception).
 
-Recent 7-Tesla fMRI research shows these states have distinct neural signatures: disrupted hierarchical brain organization, increased global connectivity, increased brain entropy. The neural changes correlate with phenomenological descriptions. But the correlation does not close the explanatory gap.
+Recent 7-Tesla fMRI research (Demir et al. 2025) shows these states have distinct neural signatures: disrupted hierarchical brain organization, increased global connectivity, increased brain entropy. The neural changes correlate with phenomenological descriptions. But the correlation does not close the explanatory gap.
 
 Why does this pattern of brain activity feel like equanimity rather than joy? Why does increased entropy correlate with the experience of infinite space? Neuroscience identifies correlates but does not explain why these physical patterns produce these particular phenomenal [[qualia]]. The gap between knowing *that* jhana states correlate with specific neural activity and understanding *why* these patterns feel the way they do remains unbridged.
 
@@ -138,7 +138,7 @@ If consciousness were identical to neural activity, there should be no perspecti
 
 **Objection**: Meditators learn to report what their tradition teaches them to expect. The "evidence" reflects doctrinal training, not genuine phenomenological discovery.
 
-**Response**: Cross-tradition studies find convergent findings. Buddhist shamatha, Hindu raja yoga, Christian contemplative prayer, and secular MBSR all modulate the default mode network similarly. If reports were purely doctrinal artifacts, different traditions should produce divergent phenomenologies with divergent neural correlates. They do not.
+**Response**: Cross-tradition studies find convergent findings. Buddhist shamatha, Hindu raja yoga, Christian contemplative prayer, and secular MBSR all modulate the default mode network similarly (see [[buddhism-and-dualism]] for discussion of how Buddhist findings relate to the Map's framework). If reports were purely doctrinal artifacts, different traditions should produce divergent phenomenologies with divergent neural correlates. They do not.
 
 Additionally, phenomenological reports from trained observers predict neural signatures better than reports from untrained observers. If training merely induced confabulation, this predictive improvement is unexplained.
 
@@ -226,3 +226,4 @@ The distinction between willed attention and exogenous attention in contemplativ
 - Lutz, A., et al. (2020). The hitchhiker's guide to neurophenomenology. *Frontiers in Psychology*, 11, 1680.
 - Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 - Varela, F. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
+- Demir, U., Yang, W. F. Z., & Sacchet, M. D. (2025). Advanced concentrative absorption meditation reorganizes functional connectivity gradients of the brain: 7T MRI and phenomenology case study of jhana meditation. *Cerebral Cortex*, 35(4), bhaf079.

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review contemplative-evidence-for-consciousness-theories.md
-- **Type**: deep-review
-- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-27, never deep-reviewed. Presents meditation phenomenology across traditions as evidence distinguishing consciousness theories. Should verify: (1) accuracy of contemplative tradition summaries, (2) whether neuroplasticity evidence is sound, (3) engagement with skeptical responses to first-person evidence, (4) alignment with bidirectional interaction tenet.
-- **Source**: staleness
-- **Generated**: 2026-01-28
-
 ### P2: Update references to coalesced nihilism/existentialism articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `nihilism.md` and `existentialism.md` into `nihilism-and-existentialism.md`. 8 files reference the archived articles: meaning-of-life.md, eastern-philosophy-consciousness.md, purpose-and-alignment.md, qualia.md, highlights.md, and research notes. Update wikilinks to point to nihilism-and-existentialism or leave as-is if the link still works (archived articles display redirect notice).
@@ -624,6 +618,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Deep review contemplative-evidence-for-consciousness-theories.md
+- **Type**: deep-review
+- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-27, never deep-reviewed. Presents meditation phenomenology across traditions as evidence distinguishing consciousness theories. Should verify: (1) accuracy of contemplative tradition summaries, (2) whether neuroplasticity evidence is sound, (3) engagement with skeptical responses to first-person evidence, (4) alignment with bidirectional interaction tenet.
+- **Output**: obsidian/topics/contemplative-evidence-for-consciousness-theories.md
 
 ### ✓ 2026-01-28: Deep review indexical-facts.md
 - **Type**: deep-review
