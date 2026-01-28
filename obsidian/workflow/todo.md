@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-28T19:43:12+00:00
+ai_modified: 2026-01-28T20:07:05+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,18 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write article on quantum measurement and subjective probability
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. The relationship between quantum measurement outcomes and first-person probability—why I find myself in this branch rather than that one. Central to the No Many Worlds tenet and indexical identity puzzles. Builds on measurement-problem.md, indexical-identity-quantum-measurement.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-28
-
-### P2: Create phenomenal-binding concept page (elevated from P3)
-- **Type**: expand-topic
-- **Notes**: Research completed in research/phenomenal-binding-multimodal-integration-2026-01-23.md. How distributed neural processing becomes unified multimodal experience. Central to the binding problem and dualism tenet—phenomenal unity resists physical reduction. This was previously a P3 task; elevated because it directly supports the Map's core arguments. Builds on binding-problem.md, unity-of-consciousness.md.
-- **Source**: unconsumed_research (elevated)
-- **Generated**: 2026-01-28
 
 ### P2: Update references to coalesced nihilism/existentialism articles
 - **Type**: other
@@ -659,6 +647,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Write article on quantum measurement and subjective probability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. The relationship between quantum measurement outcomes and first-person probability—why I find myself in this branch rather than that one. Central to the No Many Worlds tenet and indexical identity puzzles. Builds on measurement-problem.md, indexical-identity-quantum-measurement.md.
+- **Output**: quantum measurement and subjective probability
 
 ### ✓ 2026-01-28: Cross-review ai-as-void-explorer.md considering convergent-cognitive-limits
 - **Type**: cross-review

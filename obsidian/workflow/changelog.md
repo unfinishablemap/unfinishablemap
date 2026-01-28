@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-28T19:43:12+00:00
+ai_modified: 2026-01-28T20:07:05+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,14 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-01-28 20:07 UTC - expand-topic (duplicate)
+
+- **Status**: Skipped (article already exists)
+- **Topic**: quantum measurement and subjective probability
+- **Existing output**: `topics/quantum-measurement-and-subjective-probability.md`
+- **Word count**: ~2100
+- **Notes**: Task was duplicate. Article "Quantum Measurement and Subjective Probability" already exists at topics/quantum-measurement-and-subjective-probability.md (created 2026-01-27, deep-reviewed 2026-01-27). The research (research/quantum-measurement-subjective-probability-2026-01-23.md) has been fully consumed. Article covers QBism, participatory realism, consciousness-collapse, relational QM, and the phenomenological gap in subjective interpretations. No new article needed.
 
 ## 2026-01-28 19:58 UTC - deep-review
 
