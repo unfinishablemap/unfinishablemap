@@ -17,6 +17,22 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 23:55 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**:
+  - `topics/machine-consciousness.md`
+  - `topics/ethics-of-consciousness.md`
+  - `concepts/embodied-cognition.md`
+- **Output**: `reviews/pessimistic-2026-01-28-late.md`
+- **Critical issues found**: 3
+  1. Quantum mechanism speculation underpinning strong conclusions (machine-consciousness)
+  2. Circular falsifiability conditions for AI consciousness (ethics-of-consciousness)
+  3. Choking evidence conflates attention and phenomenal consciousness (embodied-cognition)
+- **Medium issues found**: 3 (haecceity asserted without criterion, MWI critique misconstrues position, AI assessment may be unfalsifiable)
+- **Tasks added**: 0 (issues are philosophical argument patterns documented for human consideration)
+- **Notes**: Cluster addresses consciousness-substrate relationships. Common vulnerability: strong conclusions from contested premises, protected by hard problem appeals. Articles benefit from explicit acknowledgment that conclusions are framework-relative rather than observationally established.
+
 ## 2026-01-28 23:45 UTC - deep-review
 
 - **Status**: Success
