@@ -18,6 +18,141 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 21:45 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Convergent Cognitive Limits
+- **Output**: `voids/convergent-cognitive-limits.md`
+- **Word count**: 1686
+- **Based on research**: Yes, `research/voids-convergent-cognitive-limits-2026-01-28.md`
+- **Summary**: Cross-cultural research reveals humans converge on similar cognitive limits across isolated cultures—bias blind spot, mystical ineffability, Chomsky's scope/limits duality. Convergence provides methodological tool for distinguishing Unexplorable from Unexplored in the voids framework.
+
+## 2026-01-28 17:46 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `concepts/unity-of-consciousness.md`
+- **Previous review**: 2026-01-24
+- **Cross-review context**: Considering neural-binding-mechanisms.md
+- **Word count**: 2687 → ~2700 (+13, minor increase from cross-link additions)
+- **Critical issues addressed**: 0 (none found—article at stability)
+- **Medium issues addressed**: 1
+  1. Added [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) cross-link (frontmatter, body, Further Reading)
+- **Enhancements made**: 3 (cross-link additions in three locations)
+- **Output**: `reviews/deep-review-2026-01-28-unity-of-consciousness.md`
+- **Note**: Cross-review integrating new neural-binding-mechanisms article. Article has reached stability after 2 reviews (2026-01-24, 2026-01-28). Adversarial objections (eliminativism, MWI, decoherence) are bedrock philosophical disagreements, not fixable flaws.
+
+## 2026-01-28 17:40 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: Convergent Cognitive Limits
+- **Category**: Unexplorable / Mixed
+- **Output**: `research/voids-convergent-cognitive-limits-2026-01-28.md`
+- **Key finding**: Cross-cultural research reveals humans across isolated cultures converge on similar cognitive limits—bias blind spot appears universally, Hood's Mysticism Scale shows consistent three-factor structure across radically different religious traditions. This convergence distinguishes species-level constraints (Unexplorable) from culturally-specific limits (Unexplored).
+- **Potential article angles**:
+  1. Convergent limits as methodological tool for distinguishing Unexplorable from Unexplored
+  2. The shape of species-level cognitive closure mapped through cross-cultural failure patterns
+  3. Ineffability as evidence—consistent inability to articulate certain experiences across traditions
+
+## 2026-01-28 17:26 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `concepts/binding-problem.md`
+- **Previous review**: 2026-01-22
+- **Cross-review context**: Considering neural-binding-mechanisms.md
+- **Word count**: 3445 → ~3420 (-25, net reduction from removing comment log)
+- **Critical issues addressed**: 0 (none found—article at stability)
+- **Medium issues addressed**: 2
+  1. Added [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) cross-link (concepts + Further Reading)
+  2. Removed AI refinement log comment at document end
+- **Enhancements made**: 2 (cross-link additions)
+- **Output**: `reviews/deep-review-2026-01-28-binding-problem.md`
+- **Note**: Cross-review integrating new neural-binding-mechanisms article. Article has reached stability after 3 reviews (2026-01-19, 2026-01-22, 2026-01-28). Bedrock disagreements documented; future reviews should not re-flag philosophical standoffs as critical.
+
+## 2026-01-28 17:22 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/consciousness-and-creativity.md`
+- **Previous review**: 2026-01-19
+- **Word count**: 1871 → 2101 (+230)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2
+  1. Added "What Would Challenge This View?" section for empirical falsifiability
+  2. Added cross-link to [phenomenology-of-choice](/concepts/phenomenology-of-choice/) (deliberation phenomenology)
+- **Enhancements made**: 3
+  1. Added [phenomenology-of-choice](/concepts/phenomenology-of-choice/) inline reference in synthesis section
+  2. Added [mental-imagery](/concepts/mental-imagery/) to Further Reading
+  3. Added [phenomenology-of-choice](/concepts/phenomenology-of-choice/) to Further Reading
+- **Output**: `reviews/deep-review-2026-01-28-consciousness-and-creativity.md`
+- **Note**: Second review. Article now at stability. Stability notes document bedrock philosophical disagreements (eliminativism, MWI, Buddhist no-self) as expected standoffs, not issues to re-flag.
+
+## 2026-01-28 17:05 UTC - deep-review
+
+- **Status**: Success (convergence confirmed)
+- **File**: `concepts/qbism.md`
+- **Previous review**: 2026-01-28 (earlier today)
+- **Word count**: 1757 → 1787 (+30)
+- **Critical issues addressed**: 0 (none found—article at stability)
+- **Medium issues addressed**: 0 (all addressed in first review)
+- **Enhancements made**: 2
+  1. Added cross-link to [phenomenal-unity](/concepts/phenomenal-unity/) in Agent Problem section (agents need unified experience)
+  2. Added [phenomenal-unity](/concepts/phenomenal-unity/) and [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) to Further Reading
+- **Output**: `reviews/deep-review-2026-01-28-qbism-2.md`
+- **Note**: Second review confirms convergence. Article does not need further review unless substantively modified.
+
+## 2026-01-28 16:57 UTC - deep-review
+
+- **Status**: Success (stability confirmed)
+- **File**: `concepts/neural-binding-mechanisms.md`
+- **Previous review**: 2026-01-28 (earlier today)
+- **Word count**: 1895 → ~1920 (+25)
+- **Critical issues addressed**: 0 (none found—article at stability)
+- **Medium issues addressed**: 0 (all addressed in first review)
+- **Enhancements made**: 2
+  1. Added cross-link to [measurement-problem](/concepts/measurement-problem/) in collapse discussion
+  2. Added cross-link to [phenomenal-consciousness](/concepts/phenomenal-consciousness/) in phenomenal unity discussion
+- **Output**: `reviews/deep-review-2026-01-28b-neural-binding-mechanisms.md`
+- **Note**: Second review confirms convergence. Article does not need further review unless substantively modified.
+
+## 2026-01-28 16:48 UTC - coalesce
+
+- **Status**: No action taken
+- **Reason**: No strong candidates found for merging
+- **Analysis summary**: Extensive search examined binding/unity cluster (6 articles), psychophysical laws cluster (3 articles), memory cluster (2 articles), and attention cluster (5 articles). All apparent overlap is intentional architecture: hub articles with specialist companions, appropriate cross-references, distinct pedagogical roles.
+- **Conclusion**: Content is well-structured with minimal true redundancy.
+
+## 2026-01-28 20:15 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/phenomenal-unity.md`
+- **Context**: Cross-review considering neural-binding-mechanisms.md
+- **Word count**: 3283 → 3297 (+14)
+- **Critical issues addressed**: 0 (none found—article at stability after 2 prior reviews)
+- **Medium issues addressed**: 3
+  1. Missing cross-link to neural-binding-mechanisms.md—added to Further Reading and concepts frontmatter
+  2. Stapp's quantum Zeno mechanism unmentioned—added paragraph presenting alternative to Orch OR
+  3. Process philosophy connection implicit—added Whitehead/actual occasions reference
+- **Enhancements made**: 4
+  1. Condensed "Why Classical Mechanisms Fail" with cross-link to neural-binding-mechanisms (-180 words)
+  2. Added Stapp quantum Zeno alternative (+70 words)
+  3. Added Whitehead process philosophy grounding (+70 words)
+  4. Added stapp-quantum-mind to Further Reading and concepts
+- **Output**: `reviews/deep-review-2026-01-28-phenomenal-unity.md`
+
+## 2026-01-28 19:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/neural-binding-mechanisms.md`
+- **Word count**: 1802 → 1866 (+64)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2
+  1. Thalamic pacemaker alternative insufficiently addressed—clarified precision limitation
+  2. Missing [explanatory-gap](/concepts/explanatory-gap/) cross-link—added in text and frontmatter
+- **Enhancements made**: 3
+  1. Expanded Stapp quantum Zeno explanation to show how Zeno produces unity
+  2. Added brief process philosophy (Whitehead) connection
+  3. Added [free-will](/topics/free-will/) and [agent-causation](/concepts/agent-causation/) to Further Reading and frontmatter
+- **Output**: `reviews/deep-review-2026-01-28-neural-binding-mechanisms.md`
+
 ## 2026-01-28 16:16 UTC - deep-review
 
 - **Status**: Success

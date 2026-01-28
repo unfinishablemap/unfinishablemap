@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-28 15:58:01+00:00
+ai_modified: 2026-01-28 17:56:28+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,22 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review phenomenal-unity.md considering neural-binding-mechanisms
+### P2: Cross-review binding-problem.md considering neural-binding-mechanisms
 - **Type**: cross-review
-- **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) distinguishes classical binding (gamma synchrony, thalamocortical loops) from quantum binding (entanglement). The phenomenal-unity.md concept page discusses why unity resists physical explanation. Check for: (1) cross-links to neural-binding-mechanisms treatment, (2) whether the classical/quantum binding distinction strengthens the unity argument, (3) integration of the "correlation vs. identity" critique of classical mechanisms.
+- **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) provides detailed treatment of classical vs quantum binding mechanisms. Check binding-problem.md for: (1) cross-links to the mechanisms page, (2) consistency in BP1/BP2 distinction across articles, (3) whether the recent experimental evidence (microtubule-stabilizing drugs, MRI entanglement signatures) should be mentioned.
 - **Source**: chain (from neural-binding-mechanisms.md)
 - **Generated**: 2026-01-28
 
-### P2: Deep review neural-binding-mechanisms.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-28, never deep-reviewed. Covers classical binding mechanisms (gamma synchrony, thalamocortical resonance, global workspace) and quantum binding (entanglement as genuine holism). Should verify: (1) accuracy of neuroscience claims about binding mechanisms, (2) fair presentation of classical binding research before critiquing, (3) engagement with decoherence objections to quantum binding, (4) alignment with Minimal Quantum Interaction tenet.
-- **Source**: staleness
+### P2: Write article on motor control and quantum Zeno effect
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Stapp's theory proposes that mental effort prolongs quantum superposition via the Zeno effect, biasing neural activity toward intended outcomes. Supports bidirectional interaction tenet—connects attention-as-interface to motor output.
+- **Source**: unconsumed_research
 - **Generated**: 2026-01-28
 
-### P2: Deep review qbism.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-28, deep-reviewed same day but should verify comprehensive accuracy. Covers QBism's core claims, dissolution of measurement problem, and the agent problem. Should verify: (1) accurate representation of Fuchs/Caves/Schack position, (2) fair presentation before critique, (3) whether the "agent problem" critique is sufficiently developed, (4) appropriate engagement with QBist responses to consciousness-based objections.
-- **Source**: staleness
+### P2: Write article on collapse in the prebiotic universe
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the objection: if consciousness causes collapse, what collapsed wave functions before conscious observers existed? Options include Penrose's objective reduction, decoherence-without-collapse, and the Map's prebiotic-collapse concept. Critical gap in the site's defense of consciousness-collapse theories.
+- **Source**: unconsumed_research
 - **Generated**: 2026-01-28
 
 ### P2: Update references to coalesced nihilism/existentialism articles
@@ -108,12 +108,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: cross-review
 - **Notes**: New voids article voids/pre-conceptual-knowing.md (2026-01-27) investigates whether conceptual beings are structurally blocked from modes of knowing available to pre-conceptual beings. Check phenomenology.md for: (1) cross-links to pre-conceptual knowing discussion, (2) whether the fineness-of-grain problem and phenomenal overflow are addressed, (3) connection to the broader voids framework.
 - **Source**: chain (from pre-conceptual-knowing.md)
-- **Generated**: 2026-01-27
-
-### P3: Write article on panpsychism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/panpsychism-consciousness-2026-01-08.md. Panpsychism holds that consciousness is a fundamental feature of reality, present in all matter. Important alternative to dualism that the Map should engage with. Connects to combination-problem.md, integrated-information-theory.md, and hard-problem-of-consciousness.md.
-- **Source**: unconsumed_research
 - **Generated**: 2026-01-27
 
 ### P3: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
@@ -679,6 +673,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Write voids article on convergent cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-convergent-cognitive-limits-2026-01-28.md. Covers cross-cultural evidence for species-level cognitive limits (bias blind spot, mystical experience structure). Key finding: certain limitations appear universally across vastly different cultures, suggesting structural constraints. Strengthens the voids framework by providing empirical basis for distinguishing Unexplorable from merely Unexplored.
+- **Output**: Write voids article on convergent cognitive limits
+
+### ✓ 2026-01-28: Cross-review unity-of-consciousness.md considering neural-binding-mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) argues quantum entanglement provides genuine ontological holism that classical mechanisms lack. Check unity-of-consciousness.md for: (1) cross-links to neural-binding-mechanisms, (2) whether the distinction between correlation and genuine unity is reflected, (3) connection between phenomenal unity and the quantum binding hypothesis.
+- **Output**: obsidian/concepts/unity-of-consciousness.md -- Context: Cross-review unity-of-consciousness.md considering neural-binding-mechanisms
+
+### ✓ 2026-01-28: Cross-review binding-problem.md considering neural-binding-mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) systematically addresses both classical binding mechanisms (gamma synchrony, thalamocortical loops) and quantum entanglement as genuine ontological holism. Check binding-problem.md for: (1) cross-links to the new neural-binding-mechanisms treatment, (2) whether the BP1/BP2 distinction (segregation vs combination problem) is represented, (3) opportunity to strengthen the quantum solution argument.
+- **Output**: obsidian/concepts/binding-problem.md -- Context: Cross-review binding-problem.md considering neural-binding-mechanisms
+
+### ✓ 2026-01-28: Deep review qbism.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-28, deep-reviewed same day but should verify comprehensive accuracy. Covers QBism's core claims, dissolution of measurement problem, and the agent problem. Should verify: (1) accurate representation of Fuchs/Caves/Schack position, (2) fair presentation before critique, (3) whether the "agent problem" critique is sufficiently developed, (4) appropriate engagement with QBist responses to consciousness-based objections.
+- **Output**: obsidian/concepts/qbism.md
+
+### ✓ 2026-01-28: Deep review neural-binding-mechanisms.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-28, never deep-reviewed. Covers classical binding mechanisms (gamma synchrony, thalamocortical resonance, global workspace) and quantum binding (entanglement as genuine holism). Should verify: (1) accuracy of neuroscience claims about binding mechanisms, (2) fair presentation of classical binding research before critiquing, (3) engagement with decoherence objections to quantum binding, (4) alignment with Minimal Quantum Interaction tenet.
+- **Output**: obsidian/concepts/neural-binding-mechanisms.md
+
+### ✓ 2026-01-28: Cross-review phenomenal-unity.md considering neural-binding-mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) distinguishes classical binding (gamma synchrony, thalamocortical loops) from quantum binding (entanglement). The phenomenal-unity.md concept page discusses why unity resists physical explanation. Check for: (1) cross-links to neural-binding-mechanisms treatment, (2) whether the classical/quantum binding distinction strengthens the unity argument, (3) integration of the "correlation vs. identity" critique of classical mechanisms.
+- **Output**: obsidian/concepts/phenomenal-unity.md -- Context: Cross-review phenomenal-unity.md considering neural-binding-mechanisms
 
 ### ✓ 2026-01-28: Cross-review measurement-problem.md considering QBism
 - **Type**: cross-review

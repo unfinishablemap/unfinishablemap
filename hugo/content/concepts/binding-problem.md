@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-27 14:48:40+00:00
+ai_modified: 2026-01-28 17:26:12+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -34,6 +34,7 @@ concepts:
 - '[[illusionism]]'
 - '[[explanatory-gap]]'
 - '[[agent-causation]]'
+- '[[neural-binding-mechanisms]]'
 created: 2026-01-14
 date: &id001 2026-01-26
 description: How do distributed neural processes combine into unified experience?
@@ -42,7 +43,7 @@ description: How do distributed neural processes combine into unified experience
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-26 14:30:00+00:00
+last_deep_review: 2026-01-28 17:26:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -235,6 +236,7 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 
 ## Further Reading
 
+- [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) — Focused treatment of classical and quantum binding mechanisms
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The broader problem; binding is the synchronic dimension
 - [phenomenal-unity](/concepts/phenomenal-unity/) — Phenomenal unity as metaphysical question
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into macro-experience
@@ -277,17 +279,3 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 - Wallace, M. T., et al. (2010). An Emergent Model of Multisensory Integration in Superior Colliculus Neurons. *Frontiers in Integrative Neuroscience*, 4, 5.
 - Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 - Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
-
-<!-- AI REFINEMENT LOG - 2026-01-27
-Changes made:
-- Clarified the argument from reason in the Illusionist Challenge section (reduced verbosity)
-- Added "Correlation is not unity" for emphasis in the quantum alternative introduction
-- Expanded Testable Commitments section with supporting predictions, not just falsifying conditions
-- Clarified binding by synchrony critique: added "Neurons firing in phase are still distinct physical systems"
-- Minor phrasing improvement in sleep section transition
-
-Based on manual review scoring ~8/10.
-Key improvements: Better balance in testable commitments (predictions not just falsifiers), clearer articulation of why classical mechanisms fail.
-
-This log should be removed after human review.
--->

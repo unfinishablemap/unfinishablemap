@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-01-28 22:30:00+00:00
+ai_modified: 2026-01-28 17:05:58+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: QBism interprets quantum states as subjective beliefs, not objectiv
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-28 22:30:00+00:00
+last_deep_review: 2026-01-28 17:05:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ This dissolution is elegant but comes at a cost. QBism explains why we *describe
 
 QBism's deepest tension concerns its central concept: the agent.
 
-**What is an agent?** QBism requires agents to hold beliefs, make predictions, and experience measurement outcomes. But it provides no account of what makes something an agent rather than a mere physical system. Fuchs explicitly declines to define agency in physical terms, treating it as primitive—arguing that agents are "the most basic category" irreducible to anything more fundamental (Fuchs 2017).
+**What is an agent?** QBism requires agents to hold beliefs, make predictions, and experience measurement outcomes. These beliefs must cohere into a unified perspective—what philosophers call [phenomenal-unity](/concepts/phenomenal-unity/)—yet QBism provides no account of what makes something an agent rather than a mere physical system. Fuchs explicitly declines to define agency in physical terms, treating it as primitive—arguing that agents are "the most basic category" irreducible to anything more fundamental (Fuchs 2017).
 
 **The experience presupposition.** For an agent to update beliefs upon measurement, they must have determinate experiences—they must *find* something, not merely exist in correlation with outcomes. QBism takes for granted exactly what the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) asks us to explain: why there is something it is like to be an agent at all.
 
@@ -137,6 +137,8 @@ Despite its limitations, QBism contributes several insights the Map affirms:
 - [relational-quantum-mechanics](/concepts/relational-quantum-mechanics/) — Another perspectival interpretation with different implications
 - [haecceity](/concepts/haecceity/) — The "thisness" QBism implicitly invokes but doesn't explain
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — What QBism's agents presuppose
+- [phenomenal-unity](/concepts/phenomenal-unity/) — The unified experience QBism's agents must possess
+- [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) — Physical processes that might underlie unified agency
 
 ## References
 
