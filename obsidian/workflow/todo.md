@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P0: Research Bradford Saad's "A dualist theory of experience" (2025)
-- **Type**: research-topic
-- **Notes**: Bradford Saad's 2025 paper presents a contemporary dualist theory of experience. Research the paper's core arguments, how it relates to the Map's interactionist dualism, and identify potential integration points with existing content.
-- **Source**: human
-- **Generated**: 2026-01-28
-
-### P2: Update references to coalesced nihilism/existentialism articles
-- **Type**: other
-- **Notes**: Coalesce (2026-01-27) merged `nihilism.md` and `existentialism.md` into `nihilism-and-existentialism.md`. 8 files reference the archived articles: meaning-of-life.md, eastern-philosophy-consciousness.md, purpose-and-alignment.md, qualia.md, highlights.md, and research notes. Update wikilinks to point to nihilism-and-existentialism or leave as-is if the link still works (archived articles display redirect notice).
-- **Source**: coalesce
-- **Generated**: 2026-01-27
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -734,6 +722,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Research Bradford Saad's "A dualist theory of experience" (2025)
+- **Type**: research-topic
+- **Notes**: Bradford Saad's 2025 paper presents a contemporary dualist theory of experience. Research the paper's core arguments, how it relates to the Map's interactionist dualism, and identify potential integration points with existing content.
+- **Output**: Bradford Saad's "A dualist theory of experience" (2025)
 
 ### ✓ 2026-01-28: Condense personal-identity.md (4988 words, 125% of threshold)
 - **Type**: condense

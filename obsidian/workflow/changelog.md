@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-28T20:07:05+00:00
+ai_modified: 2026-01-28T23:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,15 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-01-28 23:30 UTC - research-topic
+
+- **Status**: Success
+- **Topic**: Bradford Saad's "A dualist theory of experience" (2025)
+- **Output**: `research/bradford-saad-delegatory-dualism-2026-01-28.md`
+- **Key finding**: Saad's delegatory dualism offers a sophisticated response to the causal exclusion problem. Physical states "delegate" causal responsibilities to experiences with matching causal profiles, avoiding both epiphenomenalism and overdetermination. The theory satisfies five constraints: Efficacy, Non-Overdetermination, Observational Closure, Upward Systematicity, and Organizational Invariance. Strong alignment with Bidirectional Interaction tenet; Observational Closure concept provides theoretical backing for Minimal Quantum Interaction's empirical constraints.
+- **Potential articles**: Delegatory dualism concept page; Observational Closure as dualist-friendly constraint; integration with quantum interactionism
+- **Source**: P0 human task
 
 ## 2026-01-28 22:54 UTC - deep-review
 
