@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-01-27T08:07:05.811707'
+ai_modified: '2026-01-28T12:11:38.076267'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-01-27'
+date: '2026-01-28'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-01-27'
+modified: '2026-01-28'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-01-28: Chalmers' Bridge Between Mind and Matter
+
+David Chalmers argues consciousness needs its own fundamental laws. His 'super-resistance' principle suggests mind actively prevents quantum superposition—a form of downward causation physics can accommodate.
+
+**Type**: new-article  
+**Link**: [chalmers-psychophysical-coupling](/topics/chalmers-psychophysical-coupling/)
+
+---
+
 ### 2026-01-27: Reality as Process: Whitehead Meets Consciousness
 
 New article explores process philosophy—reality as events and becoming rather than static things. Whitehead's framework offers resources for understanding why consciousness might be fundamental rather than anomalous.
