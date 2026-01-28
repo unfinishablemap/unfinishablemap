@@ -4,7 +4,7 @@ description: "How do distributed neural processes combine into unified experienc
 created: 2026-01-14
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-28T17:26:12+00:00
+ai_modified: 2026-01-28T19:07:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-28T17:26:12+00:00
+last_deep_review: 2026-01-28T19:07:44+00:00
 coalesced_from:
   - "/concepts/phenomenal-binding/"
 ---

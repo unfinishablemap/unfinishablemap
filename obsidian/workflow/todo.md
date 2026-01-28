@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review binding-problem.md considering neural-binding-mechanisms
-- **Type**: cross-review
-- **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) provides detailed treatment of classical vs quantum binding mechanisms. Check binding-problem.md for: (1) cross-links to the mechanisms page, (2) consistency in BP1/BP2 distinction across articles, (3) whether the recent experimental evidence (microtubule-stabilizing drugs, MRI entanglement signatures) should be mentioned.
-- **Source**: chain (from neural-binding-mechanisms.md)
-- **Generated**: 2026-01-28
-
 ### P2: Write article on motor control and quantum Zeno effect
 - **Type**: expand-topic
 - **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Stapp's theory proposes that mental effort prolongs quantum superposition via the Zeno effect, biasing neural activity toward intended outcomes. Supports bidirectional interaction tenet—connects attention-as-interface to motor output.
@@ -672,6 +666,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review binding-problem.md considering neural-binding-mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) provides detailed treatment of classical vs quantum binding mechanisms. Check binding-problem.md for: (1) cross-links to the mechanisms page, (2) consistency in BP1/BP2 distinction across articles, (3) whether the recent experimental evidence (microtubule-stabilizing drugs, MRI entanglement signatures) should be mentioned.
+- **Output**: obsidian/concepts/binding-problem.md -- Context: Cross-review binding-problem.md considering neural-binding-mechanisms
 
 ### ✓ 2026-01-28: Soften double-aspect information claim in chalmers-psychophysical-coupling.md
 - **Type**: refine-draft
