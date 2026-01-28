@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-26T22:15:00+00:00
+ai_modified: 2026-01-28T18:49:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-08
 last_curated: null
-last_deep_review: 2026-01-20T14:30:00+00:00
+last_deep_review: 2026-01-28T18:49:50+00:00
 ---
 
 What makes you *you*? Not just at this moment, but across time—what connects the person reading this sentence to the child you once were and the person you'll be tomorrow? The persistence question is literally a matter of life and death: it determines the conditions under which you survive or cease to exist.
@@ -102,13 +102,13 @@ The Map cannot accept Parfit's reductionism. The tenets commit us to a stronger 
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the Many-Worlds interpretation of quantum mechanics partly because it creates "unanswerable indexical questions: why am I *this* instance and not another?" This presupposes that indexical identity is meaningful—that there's a real question about which conscious being you are.
 
-The [[many-worlds|argument against many-worlds]] develops this concern in formal detail. When a quantum measurement occurs, many-worlds says you split into branches—one where you see spin-up, another where you see spin-down. But you only experience one outcome. Which you? The many-worlds theorist dissolves the question: both branches are equally real, both contain persons derived from you, and there is no fact about which one is "really" you.
+The [[many-worlds|argument against many-worlds]] develops this concern formally. When a quantum measurement occurs, many-worlds says you split into branches—one where you see spin-up, another spin-down. But you only experience one outcome. Which you? The many-worlds theorist dissolves the question: both branches are equally real, both contain persons derived from you, and there is no fact about which is "really" you.
 
-This dissolution is precisely what the Map rejects. Before measurement, there is one you. After measurement, many-worlds posits two equally real continuations. Yet you find yourself in exactly one. The experience of being this one rather than that one seems to be a fact—but many-worlds says it's not. If personal identity can be fragmented across infinite branches with no determinate answer about which branch is "really" you, then personal identity is radically non-unique—arguably incoherent.
+This dissolution is what the Map rejects. Before measurement, there is one you. After measurement, many-worlds posits two equally real continuations. Yet you find yourself in exactly one. The experience of being *this* one rather than *that* one seems to be a fact—but many-worlds says it's not. If personal identity fragments across infinite branches with no answer about which is "really" you, identity becomes incoherent.
 
-On Parfit's view, there's nothing more to being *this* person than instantiating *this* pattern of psychological continuity. If the pattern is replicated, so is everything that matters. Many-worlds and Parfit converge here: both treat identity as a matter of pattern rather than particular. But the Map's framework suggests that's wrong. *You* are not interchangeable with a replica that has your psychology. There's a fact about which one is you.
+On Parfit's view, there's nothing more to being *this* person than instantiating *this* pattern of psychological continuity. If the pattern is replicated, so is everything that matters. Many-worlds and Parfit converge here: both treat identity as pattern rather than particular. But *you* are not interchangeable with a replica sharing your psychology. There's a fact about which one is you.
 
-This connects to quantum selection. If consciousness influences which quantum outcomes occur, and the Map's framework is right, then *which* consciousness does the selecting matters. A teletransporter replica wouldn't be you—wouldn't be the consciousness that was making selections—even if psychologically identical. Many-worlds eliminates this role entirely: there is nothing for consciousness to select because everything happens in some branch.
+This connects to quantum selection. If consciousness influences which quantum outcomes occur, then *which* consciousness does the selecting matters. A teletransporter replica wouldn't be the consciousness that was making selections—even if psychologically identical. Many-worlds eliminates this role entirely: everything happens in some branch, so there's nothing for consciousness to select.
 
 ### The Dualism Connection
 
@@ -122,7 +122,7 @@ Consider: could there be a zombie duplicate of you—physically and functionally
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes. This gives your consciousness a unique causal history—the specific pattern of quantum selections, neural influences, and physical effects that constitute your life.
 
-A replica, however psychologically similar, wouldn't share this causal history. Its consciousness (if it had any) would begin influencing physics from the moment of its creation, not from your birth. In some sense, the replica would be a new conscious agent, not a continuation of you.
+A replica, however psychologically similar, wouldn't share this causal history. Its consciousness would begin influencing physics from its creation, not from your birth—a new conscious agent, not you continued.
 
 ## What Personal Identity Requires
 
@@ -148,7 +148,7 @@ The resulting people might have your memories and psychology. They might even be
 
 [[split-brain-consciousness|Split-brain patients]] provide empirical evidence bearing on fission scenarios. When the corpus callosum is severed, each hemisphere processes information independently—the classic experiments showed one hemisphere unable to report what the other perceived.
 
-Yet the philosophical picture that emerged may be too clean. Thomas Nagel argued that split-brain patients have "too much unity to say 'two', yet too much separation to say 'one'." Recent 2025 research strengthens this: minimal corpus callosum fibers can maintain full interhemispheric synchronization. The brain reorganizes, recruits alternative pathways, resists fragmentation.
+Yet the philosophical picture that emerged may be too clean. Thomas Nagel argued that split-brain patients have "too much unity to say 'two', yet too much separation to say 'one'." Recent research strengthens this: even minimal corpus callosum fibers can maintain interhemispheric synchronization, and the brain reorganizes, recruiting alternative pathways to resist fragmentation.
 
 **What this suggests for personal identity:**
 
@@ -192,9 +192,9 @@ The Map's framework connects personal identity to quantum selection—*this* con
 
 Three considerations mitigate this objection:
 
-**Revised timescales**: The Tegmark-Hameroff debate shows initial decoherence calculations may be off by seven orders of magnitude. More recent evidence—microtubule coherence times, tryptophan superradiance, and cryptochrome magnetoreception—suggests biology may maintain quantum effects longer than originally thought.
+**Revised timescales**: The Tegmark-Hameroff debate shows initial decoherence calculations may be off by orders of magnitude. Evidence from microtubule coherence, tryptophan superradiance, and cryptochrome magnetoreception suggests biology may maintain quantum effects longer than expected.
 
-**Measurement problem remains**: Decoherence selects preferred bases but doesn't explain why we see definite outcomes. As a 2025 review notes, "the problem of outcomes is still open." If consciousness plays a role at measurement—after decoherence has established bases—the personal identity question remains: *which* consciousness is making the selections?
+**Measurement problem remains**: Decoherence selects preferred bases but doesn't explain why we see definite outcomes—the problem of outcomes remains open. If consciousness plays a role at measurement—after decoherence has established bases—the personal identity question remains: *which* consciousness is making the selections?
 
 **Temporal structure**: The [[attention-as-interface|quantum Zeno mechanism]] suggests consciousness operates through rapid repeated observation, not sustained coherence. The relevant timescale isn't how long coherence persists, but how quickly attention can bias probabilities through repeated measurement-like interactions.
 
@@ -222,9 +222,9 @@ How does the Map's framework relate to this ancient challenge?
 
 **Refined haecceitism**: The Buddhist analysis may be compatible with a process-based haecceity. The self can be empty of *qualitative* essence while still being *this* particular experiential process. Buddhist philosophy doesn't deny that *this* person experiences *this* moment—it denies that there's a permanent substance underlying the experience. But haecceity doesn't require permanence; it requires particularity. *This* stream of consciousness, however impermanent and constructed, is distinguishable from *that* stream.
 
-**Contemplative evidence**: Experienced meditators sometimes report that the sense of being a fixed self dissolves, revealing consciousness without a center. This presents a challenge: if contemplative practice reveals the self to be constructed, what grounds indexical identity?
+**Contemplative evidence**: Experienced meditators report the sense of being a fixed self dissolving, revealing consciousness without a center. If contemplative practice reveals the self to be constructed, what grounds indexical identity?
 
-**The witness response**: the Map's framework can accommodate this. Even when the *narrative* self dissolves, something remains—the [[witness-consciousness|witness]], the bare awareness that observes even the dissolution of self-concepts. This witness has haecceity: *this* awareness witnessing *this* dissolution. The Buddhist insight about the constructed nature of the narrative self doesn't eliminate the minimal self's particularity.
+**The witness response**: Even when the *narrative* self dissolves, something remains—the [[witness-consciousness|witness]], the bare awareness observing even the dissolution of self-concepts. This witness has haecceity: *this* awareness witnessing *this* dissolution. The Buddhist insight about the constructed nature of narrative self doesn't eliminate the minimal self's particularity.
 
 ## Implications for Survival
 
@@ -240,13 +240,13 @@ What does survival require? As discussed in [[death-and-consciousness]], the Map
 
 **Bodily death**: If consciousness is irreducible and the brain is interface rather than generator (as Ducasse's radio analogy suggests), brain death might alter how consciousness manifests without ending *this* particular consciousness. The [[death-and-consciousness]] article explores how dualism keeps this question genuinely open where materialism forecloses it.
 
-These conclusions are counterintuitive to some. But they follow from taking consciousness seriously as something non-reducible and taking indexical identity seriously as a real fact.
+These conclusions follow from taking consciousness seriously as non-reducible and indexical identity as a real fact.
 
 ### The Quantum Persistence Question
 
 Hameroff's "quantum soul" hypothesis raises a specific challenge for indexical identity: if consciousness-as-quantum-information disperses into the universe at death, is the dispersed information still *you*? the Map's framework suggests caution here. Quantum information conservation doesn't obviously preserve the unified, indexical character of conscious experience. A wave function spread across spacetime wouldn't be *this* perspective having experiences—it might be mere information without a subject.
 
-This illustrates the constraint indexical identity places on survival theories: it's not enough that *something* persists. What persists must be *this* consciousness, the particular perspective that constitutes you. Near-death experiences, where subjects report coherent experience during brain failure, are intriguing precisely because they suggest consciousness might maintain unified subjectivity even when its neural substrate is severely compromised.
+This illustrates the constraint indexical identity places on survival theories: what persists must be *this* consciousness, the particular perspective that constitutes you. Near-death experiences are intriguing precisely because they suggest consciousness might maintain unified subjectivity even when its neural substrate is severely compromised.
 
 ## The Meaning Connection
 
@@ -256,7 +256,7 @@ If Parfit were right—if you're interchangeable with any replica sharing your p
 
 But if the Map is right—if *you* are this unrepeatable conscious being, not interchangeable with any replica—then your existence has unique significance. No one else can live your life. No replica could replace you. The conscious experiences that constitute your life are *yours* in a way that can't be transferred.
 
-This grounds a stronger sense of individual meaning. You're not just a pattern that could be instantiated anywhere. You're this particular conscious perspective, making these particular choices, living this unrepeatable life.
+This grounds a stronger sense of individual meaning. You're not just a pattern that could be instantiated anywhere. You're this particular conscious perspective, living this unrepeatable life.
 
 ## What Would Challenge This View?
 
