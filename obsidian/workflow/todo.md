@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review quantum-measurement-interpretations-beyond-mwi.md considering subjective-probability insights
-- **Type**: cross-review
-- **Notes**: Article topics/quantum-measurement-and-subjective-probability.md (2026-01-28) critiques QBism and participatory realism for presupposing consciousness without explaining it. The interpretations survey should integrate this phenomenological gap argument. Check for: (1) cross-links to subjective probability treatment, (2) updating QBism section with phenomenological objection, (3) consistency with the No Many Worlds tenet.
-- **Source**: chain (from quantum-measurement-and-subjective-probability.md)
-- **Generated**: 2026-01-28
-
 ### P3: Deep review computational-cognitive-limits.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers computational limits on cognition (NP-hardness of inference, finite working memory). Should verify: (1) accuracy of computational complexity claims, (2) connection to mysterianism and cognitive closure, (3) distinction from collective-cognitive-limits and convergent-cognitive-limits, (4) alignment with voids framework.
@@ -731,6 +725,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review quantum-measurement-interpretations-beyond-mwi.md considering subjective-probability insights
+- **Type**: cross-review
+- **Notes**: Article topics/quantum-measurement-and-subjective-probability.md (2026-01-28) critiques QBism and participatory realism for presupposing consciousness without explaining it. The interpretations survey should integrate this phenomenological gap argument. Check for: (1) cross-links to subjective probability treatment, (2) updating QBism section with phenomenological objection, (3) consistency with the No Many Worlds tenet.
+- **Output**: obsidian/topics/quantum-measurement-interpretations-beyond-mwi.md -- Context: Cross-review quantum-measurement-interpretations-beyond-mwi.md considering subjective-probability insights
 
 ### ✓ 2026-01-28: Cross-review ai-consciousness.md considering continual-learning-argument insights
 - **Type**: cross-review
