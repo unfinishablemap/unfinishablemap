@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-28 21:43 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/functionalism.md`
+- **Word count**: 2844 → 2858 (+14 words)
+- **Critical issues addressed**: 0 (none found—second review, article approaching stability)
+- **Medium issues addressed**: 2 (missing cross-links to heterophenomenology, explanatory-gap, specious-present, mysterianism)
+- **Enhancements made**: Added heterophenomenology engagement in Chinese Room section; added 4 cross-links to concept pages; tightened Core Claim and Functionalism's Appeal sections to maintain length neutrality
+- **Output**: `reviews/deep-review-2026-01-28-functionalism.md`
+- **Notes**: Second review—previous review (2026-01-20) addressed major gaps. This review adds refinements: heterophenomenology mention strengthens Dennett engagement; cross-links improve site connectivity. Article at soft threshold (114%), operated in length-neutral mode.
+
 ## 2026-01-28 22:30 UTC - deep-review
 
 - **Status**: Success
