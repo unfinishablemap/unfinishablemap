@@ -73,34 +73,82 @@ An "outer review" is an analysis performed by an external AI system rather than 
 [External system's review content follows...]
 ```
 
-### 3. Convert Links to Internal Format
+### 3. Normalize Links
 
-The external system will likely use external URLs. Convert these to internal wikilinks:
+External AI systems often produce footnote-style markdown links like `([Source][1])` with reference definitions at the end. Run the link normalization script:
+
+```bash
+uv run python scripts/normalize_review_links.py obsidian/reviews/outer-review-YYYY-MM-DD-*.md
+```
+
+This script:
+- Removes self-references to unfinishablemap.org (just noise)
+- Converts external footnote refs to inline links like `(See [Chalmers](url))`
+- Adds an "External Sources" section with properly labeled academic references
+- Preserves inline links that are already well-formatted
+
+Also convert any Map URLs to internal wikilinks:
 
 - `https://unfinishablemap.org/tenets/` → `[[tenets]]`
 - `https://unfinishablemap.org/topics/free-will/` → `[[free-will]]`
 - `https://unfinishablemap.org/concepts/qualia/` → `[[qualia]]`
 
-This improves navigation and maintains link integrity.
+### 4. Verify Claims Against Sources
 
-### 4. Evaluate Review Quality
+**External AI reviewers can also be wrong.** Before accepting criticism, verify key claims by fetching the cited sources.
 
-Read through the review and categorize findings:
+For each significant claim the reviewer makes about what an author says:
 
-**High value findings**:
+1. **Identify the source**: Look for URLs in the External Sources section or inline citations
+2. **Fetch the source**: Use WebFetch to retrieve the actual paper/article
+3. **Check the claim**: Does the source actually say what the reviewer claims?
+
+**What to verify:**
+- Direct quotes or paraphrases of philosophers' positions
+- Claims about what a paper "explicitly states" or "clearly shows"
+- Attributions of specific arguments or frameworks to specific authors
+- Claims that the Map misrepresents a source
+
+**Add verification notes to the review file:**
+
+After verifying, add a `## Verification Notes` section to the review file documenting what you checked:
+
+```markdown
+## Verification Notes
+
+**Verified claims:**
+- ✓ Reviewer correctly notes that Chalmers treats organizational invariance as contingent, not necessary (confirmed in "Absent Qualia" paper)
+- ✓ Five constraints framework is indeed from Saad (2025), not Chalmers & McQueen
+
+**Unverified claims:**
+- ? Could not access Springer PDF to confirm Saad's exact formulation
+
+**Disputed claims:**
+- ✗ Reviewer says Chalmers "explicitly endorses" Many-Worlds—but the cited passage says "considerable sympathy," which is weaker than endorsement
+```
+
+This prevents blindly accepting external criticism that may itself be inaccurate.
+
+### 5. Evaluate Review Quality
+
+Read through the review and categorize findings, taking verification results into account:
+
+**High value findings** (verified or plausible):
 - Logical gaps not previously noticed
 - Counterarguments not addressed
 - Inconsistencies between pages
 - Missing connections that should exist
 - Novel framings of existing positions
+- Misattributions confirmed by source checking
 
-**Lower value findings**:
+**Lower value findings:**
 - Objections already addressed elsewhere
 - Misunderstandings of the position
 - Requests to adopt a different position entirely
 - Style preferences that don't affect clarity
+- **Claims that failed verification** (the reviewer was wrong)
 
-### 5. Generate Tasks
+### 6. Generate Tasks
 
 For high-value findings, create tasks in `obsidian/workflow/todo.md`:
 
@@ -117,7 +165,7 @@ Priority guidance:
 - **P2**: Missing connections, expansion opportunities, clarity improvements
 - **P3**: Style suggestions, minor enhancements
 
-### 6. Log to Changelog
+### 7. Log to Changelog
 
 Append to `obsidian/workflow/changelog.md`:
 
@@ -126,11 +174,12 @@ Append to `obsidian/workflow/changelog.md`:
 - **Status**: Success
 - **Reviewer**: [System name]
 - **File**: [filepath]
+- **Claims verified**: [count]
 - **High-value findings**: [count]
 - **Tasks generated**: [count with priorities]
 ```
 
-### 7. Commit
+### 8. Commit
 
 Create a git commit:
 
