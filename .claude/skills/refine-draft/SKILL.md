@@ -24,7 +24,7 @@ Otherwise, select using this priority:
 2. Oldest draft by `created` date
 3. Drafts with lowest quality scores (if reviewed)
 
-### 1b. Check for Review Context
+### 2. Check for Review Context
 
 If the task context includes a `Review file` field (e.g., from an outer review):
 
@@ -35,7 +35,7 @@ If the task context includes a `Review file` field (e.g., from an outer review):
 
 This provides crucial context for targeted fixes rather than general refinement.
 
-### 2. Run Quality Review
+### 3. Run Quality Review
 
 Use the existing review tool:
 ```bash
@@ -48,7 +48,7 @@ This provides:
 - Improvements list with priorities
 - Missing concepts
 
-### 3. Apply Improvements
+### 4. Apply Improvements
 
 Based on the review, make targeted improvements following `obsidian/project/writing-style.md`.
 
@@ -74,7 +74,7 @@ Based on the review, make targeted improvements following `obsidian/project/writ
 - Add explicit connections to tenets where natural
 - Address obvious objections
 
-### 4. Check for Description
+### 5. Check for Description
 
 If the article lacks a `description` field in frontmatter:
 - Add one: 150-160 characters
@@ -82,7 +82,7 @@ If the article lacks a `description` field in frontmatter:
 - Avoid generic phrases—make it distinctive to The Unfinishable Map's approach
 - Example style: "AI-assisted exploration of X—continuously refined to get closer to the truth."
 
-### 5. Preserve Voice
+### 6. Preserve Voice
 
 When refining:
 - Keep the original style and approach
@@ -90,7 +90,7 @@ When refining:
 - Preserve unique phrasings that work
 - Maintain the original argument structure unless flawed
 
-### 6. Update Frontmatter
+### 7. Update Frontmatter
 
 After refinement:
 
@@ -103,7 +103,7 @@ If the original was human-authored (`ai_contribution: 0`), update to mixed:
 ai_contribution: 20  # Or appropriate percentage based on changes
 ```
 
-### 7. Document Changes
+### 8. Document Changes
 
 Add a comment at the end of the file (to be removed by human):
 
@@ -121,7 +121,7 @@ This log should be removed after human review.
 -->
 ```
 
-### 8. Update Todo
+### 9. Update Todo
 
 If this was a todo item, mark it complete.
 
@@ -133,7 +133,7 @@ If significant issues remain, create a new todo:
 - **Notes**: Initial refinement done but [remaining issues]
 ```
 
-### 9. Log to Changelog
+### 10. Log to Changelog
 
 Append to `obsidian/workflow/changelog.md`:
 ```markdown
@@ -145,7 +145,7 @@ Append to `obsidian/workflow/changelog.md`:
 - **Published**: yes
 ```
 
-### 10. Commit
+### 11. Commit
 
 Create a git commit with message:
 ```
