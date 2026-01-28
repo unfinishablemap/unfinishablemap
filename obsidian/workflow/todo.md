@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review phenomenal-unity.md considering neural-binding-mechanisms
-- **Type**: cross-review
-- **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) distinguishes classical binding (gamma synchrony, thalamocortical loops) from quantum binding (entanglement). The phenomenal-unity.md concept page discusses why unity resists physical explanation. Check for: (1) cross-links to neural-binding-mechanisms treatment, (2) whether the classical/quantum binding distinction strengthens the unity argument, (3) integration of the "correlation vs. identity" critique of classical mechanisms.
-- **Source**: chain (from neural-binding-mechanisms.md)
-- **Generated**: 2026-01-28
-
 ### P2: Deep review neural-binding-mechanisms.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-28, never deep-reviewed. Covers classical binding mechanisms (gamma synchrony, thalamocortical resonance, global workspace) and quantum binding (entanglement as genuine holism). Should verify: (1) accuracy of neuroscience claims about binding mechanisms, (2) fair presentation of classical binding research before critiquing, (3) engagement with decoherence objections to quantum binding, (4) alignment with Minimal Quantum Interaction tenet.
@@ -678,6 +672,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-28: Cross-review phenomenal-unity.md considering neural-binding-mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/neural-binding-mechanisms.md (2026-01-28) distinguishes classical binding (gamma synchrony, thalamocortical loops) from quantum binding (entanglement). The phenomenal-unity.md concept page discusses why unity resists physical explanation. Check for: (1) cross-links to neural-binding-mechanisms treatment, (2) whether the classical/quantum binding distinction strengthens the unity argument, (3) integration of the "correlation vs. identity" critique of classical mechanisms.
+- **Output**: obsidian/concepts/phenomenal-unity.md -- Context: Cross-review phenomenal-unity.md considering neural-binding-mechanisms
 
 ### ✓ 2026-01-28: Cross-review measurement-problem.md considering QBism
 - **Type**: cross-review
