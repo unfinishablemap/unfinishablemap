@@ -675,6 +675,72 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
+### P3: Write apex article on temporal consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). Synthesize the Map's scattered time resources: arrow of time and quantum collapse, Bergson's durée, specious present, retrocausality, temporal phenomenology of consciousness. Would strengthen connection between No Many Worlds tenet and phenomenology of temporal experience. Builds on philosophy-of-time.md, collapse-and-time.md, duration.md, specious-present.md, temporal-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Write article on phenomenal value realism development
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). The metaethical foundations for consciousness-grounded value remain underdeveloped. Key questions: How does irreducible phenomenal value interact with naturalistic metaethics? What are the implications for moral realism? How does the Map's position relate to Rawlette's work? Builds on meaning-of-life.md, phenomenal-value-realism.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Write article on history of interactionist dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). Historical trajectory from Descartes through Princess Elizabeth to Stapp. Would show how objections have evolved and how quantum mechanics reopens possibilities. Key figures: Descartes, Elizabeth of Bohemia, Leibniz, British Emergentists (Broad, Alexander), contemporary physicists (Stapp, Penrose). Builds on interactionist-dualism.md, conservation-laws-and-mind.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Write article on anesthesia ethics
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). If consciousness is what matters morally, anesthesia awareness becomes a serious ethical issue. The Map's framework has implications for surgical protocols. Applied ethics article. Builds on ethics-of-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Write apex article on Eastern philosophy integration
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). Systematic treatment of how Buddhist, Hindu, and Taoist approaches relate to the Map's framework. Does Buddhist non-self contradict dualism? How does the Map relate to Advaita Vedānta? Builds on eastern-philosophy-consciousness.md, buddhism-and-dualism.md, contemplative-evidence-for-consciousness-theories.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Expand intrinsic nature void treatment
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). The intrinsic nature void is central to hard problem but underdeveloped. Engage with Russellian monism, structuralism in physics, question of whether consciousness provides our only window into intrinsic nature. Builds on intrinsic-nature-void.md, hard-problem-of-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for selection laws
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). The Map distinguishes supervenience laws (physics→phenomenology) from selection laws (phenomenology→physics). The latter need dedicated treatment beyond scattered references. Builds on psychophysical-laws-framework.md, psychophysical-coupling-mechanisms.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for the consciousness-value connection
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). How consciousness grounds value—deserves focused treatment integrating metaethics with phenomenology. Builds on meaning-of-life.md, phenomenal-value-realism.md, emotional-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for temporal unity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). The unity of experience across time (specious present, mental time travel) as distinct from spatial unity (binding). Would clarify an underexplored aspect of phenomenal unity. Builds on varieties-of-unity.md, autonoetic-consciousness.md, temporal-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for phenomenological evidence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). How first-person data can function as evidence distinguishing between theories—methodological treatment. What makes contemplative reports reliable? How to handle cross-tradition convergence? Builds on contemplative-evidence-for-consciousness-theories.md, neurophenomenology.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
+### P3: Create concept page for the interface problem
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). The specific question of where consciousness meets physics, distinct from the broader interaction problem. Would clarify the relationship between pairing problem, causal closure, and quantum interface proposals. Builds on pairing-problem.md, attention-as-interface.md, quantum-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-28
+
 ## Completed Tasks
 
 
