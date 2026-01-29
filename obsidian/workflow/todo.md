@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Deep review consciousness-in-simple-organisms.md
-- **Type**: deep-review
-- **Notes**: AI-generated topics article (ai_contribution: 100) covering consciousness in nematodes, slime molds, and invertebrates. References the 2024 New York Declaration on Animal Consciousness. Should verify: (1) accuracy of biological claims about C. elegans, hydra, and Physarum, (2) fair treatment of IIT, panpsychism, and illusionism positions, (3) proper connection to the distribution problem and threshold question, (4) alignment with Occam's Razor Has Limits tenet.
-- **Source**: staleness
-- **Generated**: 2026-01-29
-
 ### P2: Cross-review animal-consciousness.md considering consciousness-in-simple-organisms.md
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-in-simple-organisms.md (2026-01-29) extends consciousness discussion to nematodes, hydra, and slime molds. Check animal-consciousness.md for: (1) cross-links to the new simple organisms treatment, (2) consistency on where consciousness thresholds might lie, (3) whether the distribution puzzle argument strengthens the animal consciousness case.
@@ -836,6 +830,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Deep review consciousness-in-simple-organisms.md
+- **Type**: deep-review
+- **Notes**: AI-generated topics article (ai_contribution: 100) covering consciousness in nematodes, slime molds, and invertebrates. References the 2024 New York Declaration on Animal Consciousness. Should verify: (1) accuracy of biological claims about C. elegans, hydra, and Physarum, (2) fair treatment of IIT, panpsychism, and illusionism positions, (3) proper connection to the distribution problem and threshold question, (4) alignment with Occam's Razor Has Limits tenet.
+- **Output**: obsidian/topics/consciousness-in-simple-organisms.md
 
 ### ✓ 2026-01-29: Deep review delegatory-dualism.md
 - **Type**: deep-review

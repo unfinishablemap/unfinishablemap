@@ -4,7 +4,7 @@ description: "From nematodes to slime molds: where does consciousness begin? The
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-26T22:15:00+00:00
+ai_modified: 2026-01-29T15:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-21
 last_curated: null
-last_deep_review: 2026-01-21T21:45:00+00:00
+last_deep_review: 2026-01-29T15:30:00+00:00
 ---
 
 The Unfinishable Map's dualist framework gains unexpected support from research on consciousness in simple organisms. If consciousness were merely emergent from physical complexity, we should expect a clear gradient from non-conscious matter to conscious beings. Instead, the evidence presents a puzzle: organisms with radically different architectures—302 neurons in a nematode, decentralised nerve nets in hydra, no neurons at all in slime molds—display behaviours that resist easy classification. The distribution problem—why consciousness appears where it does—proves equally mysterious whether we ask about humans or worms. For dualism, this is exactly what we would expect: if consciousness interfaces with physical systems rather than emerging from them, the question "where is the threshold?" may have no principled answer at all.
@@ -173,7 +173,7 @@ The Map's position would face difficulty if:
 
 3. **Illusionism vindicated**: If consciousness were demonstrated to be a cognitive construct without genuine phenomenal properties, the distribution problem would dissolve along with the hard problem.
 
-4. **Simple organism consciousness confirmed**: Ironically, strong evidence *for* consciousness in C. elegans would complicate the Map's position by suggesting consciousness emerges at surprisingly low complexity thresholds.
+4. **Simple organism consciousness without interface mechanism**: Strong evidence for consciousness in C. elegans coupled with absence of any plausible quantum-level interface would complicate the Map's position—suggesting consciousness couples with physical systems through mechanisms simpler than the tenet envisions, or that the interface model needs substantial revision.
 
 5. **Panpsychism required**: If investigation revealed experience in systems like slime molds lacking any plausible interface mechanism, more radical revision of the framework would be needed.
 
