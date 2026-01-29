@@ -4,7 +4,7 @@ description: "Graziano's theory proposes consciousness is the brain's model of i
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-29T20:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-01-20T20:20:00+00:00
+last_deep_review: 2026-01-29T20:40:00+00:00
 ---
 
 Attention Schema Theory (AST), developed by neuroscientist Michael Graziano at Princeton University, proposes that subjective awareness is the brain's schematic model of its own attention. Just as the body schema helps track and control limb position, an "attention schema" helps monitor and control attention. Because this model necessarily omits mechanism details—representing attention's effects rather than its neural implementation—the brain concludes it possesses a non-physical essence of awareness. Consciousness, on this view, is neither illusion nor magic but a functional caricature: a useful simplification that helps the brain manage attentional resources.
