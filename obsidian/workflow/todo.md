@@ -319,6 +319,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-24
 
+### P3: Write article on temporal binding and the specious present
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. How consciousness achieves duration—the ~100-750ms "specious present" that makes melody possible rather than isolated notes. Covers phenomenology of temporal flow, Husserl's retention-protention structure, and connection to quantum collapse models. Builds on temporal-consciousness.md, process-philosophy.md, phenomenal-unity.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Write article on consciousness and mathematical understanding
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. Penrose-Lucas-Gödel arguments that mathematical understanding cannot be computational; how consciousness grasps truths that formal systems cannot derive. Connection to the argument from reason and consciousness's role in normative epistemology. Builds on argument-from-reason.md, consciousness-and-intelligence.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Create concept page for specious-present
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. The ~100-750ms duration within which experience flows as unified—fundamental to temporal consciousness but currently scattered across multiple articles. Would consolidate discussion from temporal-consciousness.md, duration.md, process-philosophy.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Create concept page for phenomenal-overflow
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. Evidence that phenomenal consciousness exceeds cognitive access (Sperling's iconic memory, change blindness). Frequently referenced but not defined. Relevant to phenomenal-consciousness.md, access-consciousness.md, attention.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
 ### P3: Address AI consciousness article length and redundancy
 - **Type**: refine-draft
 - **Status**: pending
