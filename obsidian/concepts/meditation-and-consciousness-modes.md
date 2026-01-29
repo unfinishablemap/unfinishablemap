@@ -4,7 +4,7 @@ description: "Two modes of consciousness: active selection through attention and
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-29T06:15:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -19,6 +19,7 @@ concepts:
   - "[[illusionism]]"
   - "[[phenomenology-of-choice]]"
   - "[[phenomenology]]"
+  - "[[default-mode-network]]"
 related_articles:
   - "[[tenets]]"
   - "[[meditation-observer-witness-phenomenon-2026-01-18]]"
@@ -27,7 +28,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-01-21T18:30:00+00:00
+last_deep_review: 2026-01-29T06:15:00+00:00
 ---
 
 Consciousness appears to have at least two distinct modes of operation. In one mode—active selection—consciousness engages with the brain through attention, choosing among competing neural patterns and holding desired states stable through [[mental-effort|mental effort]]. In another mode—passive witnessing—consciousness observes without intervening, allowing mental contents to arise and pass without selection. Meditation traditions have discovered and cultivated both modes, and neuroscience confirms they have distinct brain signatures.
@@ -46,7 +47,7 @@ The neural signature of active selection includes:
 - Frontal theta oscillations (~4-8 Hz)
 - Alpha-theta harmonic coupling
 - Dorsolateral prefrontal and anterior cingulate activation
-- Default mode network suppression through active inhibition
+- [[default-mode-network|Default mode network]] suppression through active inhibition
 
 ### Passive Witnessing
 
@@ -58,7 +59,7 @@ The neural signature of passive witnessing differs markedly from active selectio
 - Posterior cingulate cortex deactivation
 - Alpha activity increase
 - Reduced alpha-theta coupling
-- Default mode network quieting (not active suppression but disengagement)
+- [[default-mode-network|Default mode network]] quieting (not active suppression but disengagement)
 - Broader distribution of attention (not focal)
 
 ## Neuroscience Evidence
@@ -82,7 +83,7 @@ FA meditation trains the interface. The meditator practices selecting where atte
 OM meditation—non-reactive awareness of whatever arises—cultivates passive witnessing. The meditator does not select a focus; all contents are equally received.
 
 Neural correlates include:
-- DMN deactivation (less self-referential processing)
+- [[default-mode-network|DMN]] deactivation (less self-referential processing)
 - PCC deactivation (correlated with "effortlessness")
 - Reduced attention-control activation
 - Alpha activity (associated with relaxed awareness)
@@ -156,7 +157,7 @@ How does passive witnessing relate to Stapp's quantum Zeno effect? The Zeno mech
 This explains several features of witness states:
 - **Thoughts slow or stop**: Without selection, the brain's option-generation receives less feedback. The conversational loop between brain and consciousness quiets.
 - **Effort disappears**: Effort *is* the subjective correlate of rapid observation. Reduce observation rate, reduce effort phenomenology.
-- **Self-narrative quiets**: Self-construction requires ongoing selection of self-relevant thoughts. Without selection, the default mode network disengages.
+- **Self-narrative quiets**: Self-construction requires ongoing selection of self-relevant thoughts. Without selection, the [[default-mode-network]] disengages.
 
 The witness does not become unconscious—awareness persists. But awareness without selection produces a qualitatively different state than awareness with selection.
 
@@ -260,6 +261,7 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 ## Further Reading
 
 - [[witness-consciousness]] — Dedicated treatment of the sakshi/witness concept
+- [[default-mode-network]] — The brain network that quiets during meditation, with filter theory interpretation
 - [[illusionism]] — The illusionist challenge and quasi-phenomenal properties
 - [[phenomenology-of-choice]] — The felt difference between choosing and observing
 - [[attention-as-interface]] — How consciousness influences matter through attention

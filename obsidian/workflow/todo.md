@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
-- **Type**: cross-review
-- **Notes**: PROMOTED. New concept page concepts/default-mode-network.md (2026-01-29) discusses DMN suppression during meditation. Check meditation-and-consciousness-modes.md for: (1) cross-links to the DMN neurobiological treatment, (2) whether the DMN framework explains meditation state transitions, (3) opportunities to connect contemplative phenomenology with neuroscience.
-- **Source**: chain (from default-mode-network.md)
-- **Generated**: 2026-01-29
-
 ### P2: Cross-review thoughts-that-slip-away.md considering attention-created-voids insights
 - **Type**: cross-review
 - **Notes**: PROMOTED. New voids article voids/attention-created-voids.md (2026-01-29) develops how attention structurally creates unattendable territory—figure-ground, penumbral suppression, James's fringes. Check thoughts-that-slip-away.md for: (1) cross-links to the new attention voids treatment, (2) whether "slippage" mechanisms overlap with attention-created voids, (3) opportunities to distinguish content-based slippage from structural attention limits.
@@ -816,6 +810,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
+- **Type**: cross-review
+- **Notes**: PROMOTED. New concept page concepts/default-mode-network.md (2026-01-29) discusses DMN suppression during meditation. Check meditation-and-consciousness-modes.md for: (1) cross-links to the DMN neurobiological treatment, (2) whether the DMN framework explains meditation state transitions, (3) opportunities to connect contemplative phenomenology with neuroscience.
+- **Output**: obsidian/concepts/meditation-and-consciousness-modes.md -- Context: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
 
 ### ✓ 2026-01-29: Write voids article on past-self void
 - **Type**: expand-topic
