@@ -3,7 +3,7 @@ title: "Thoughts That Slip Away"
 created: 2026-01-13
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-27T15:45:00+00:00
+ai_modified: 2026-01-29T19:40:00+00:00
 draft: false
 topics: []
 concepts:
@@ -11,6 +11,7 @@ concepts:
   - "[[illusionism]]"
   - "[[introspection]]"
   - "[[decoherence]]"
+  - "[[attention]]"
 related_articles:
   - "[[voids]]"
   - "[[apophatic-approaches]]"
@@ -22,7 +23,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-13
 last_curated: null
-last_deep_review: 2026-01-20T15:00:00+00:00
+last_deep_review: 2026-01-29T19:40:00+00:00
 ---
 
 Some thoughts refuse to stay. You almost have it—the insight forming at the edge of awareness—and then it's gone. The dream narrative that feels so important upon waking dissolves as you reach for it. The word sits right there, you *know* it, yet it won't come. Most such slippage has mundane explanations. But the [[voids|voids project]] asks: could some of it point toward genuinely occluded territory?
@@ -58,6 +59,12 @@ With ordinary forgetting, we notice the gap. We know we've forgotten the name, t
 The phenomena above have identified mechanisms. Neural fatigue, MCH neuron activation, retrieval interference, monitoring processes—science explains why thoughts slip. These are limitations of cognitive architecture, not evidence of occluded content.
 
 But the [[voids]] framework asks: do these mechanisms exhaust the phenomenon? Might some slippage resist ordinary explanation?
+
+### Attention-Produced Slippage
+
+Recent research on attention reveals a possibility beyond passive forgetting: attention may *create* slippage through its own operation. The attentional spotlight doesn't merely illuminate—it actively suppresses its penumbra, the surrounding zone. William James observed that consciousness has "fringes" that cannot become focal without ceasing to be fringes. Gurwitsch's field theory distinguishes theme, thematic field, and margin—with marginal contents following different organizational principles that prevent their becoming thematic.
+
+The implication: some thoughts may slip not because they escape our grasp but because our grasp *produces* their slippage. Attending to one aspect of an insight necessarily pushes other aspects into the suppressed surround. The thought that slips away may be the thought that attention, in its act of capturing something, had to release. This transforms slippage from failure of retention into structural necessity—attention's figure-ground architecture requires that something be ground, and ground-thoughts vanish when we try to make them figural.
 
 Several patterns suggest investigation:
 

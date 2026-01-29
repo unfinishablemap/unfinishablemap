@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review thoughts-that-slip-away.md considering attention-created-voids insights
-- **Type**: cross-review
-- **Notes**: PROMOTED. New voids article voids/attention-created-voids.md (2026-01-29) develops how attention structurally creates unattendable territory—figure-ground, penumbral suppression, James's fringes. Check thoughts-that-slip-away.md for: (1) cross-links to the new attention voids treatment, (2) whether "slippage" mechanisms overlap with attention-created voids, (3) opportunities to distinguish content-based slippage from structural attention limits.
-- **Source**: chain (from attention-created-voids.md)
-- **Generated**: 2026-01-29
-
 ### P3: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) develops evidence for cross-cultural universal cognitive limits (bias blind spot, mystical experiences). The collective-cognitive-limits.md article covers group-level limits (paradigm blindness, Overton windows). Check for: (1) cross-links between individual-universal and group-level limits, (2) whether convergent limits strengthen the case that some voids are species-level rather than cultural, (3) opportunities to distinguish group dynamics from individual architecture.
@@ -810,6 +804,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review thoughts-that-slip-away.md considering attention-created-voids insights
+- **Type**: cross-review
+- **Notes**: PROMOTED. New voids article voids/attention-created-voids.md (2026-01-29) develops how attention structurally creates unattendable territory—figure-ground, penumbral suppression, James's fringes. Check thoughts-that-slip-away.md for: (1) cross-links to the new attention voids treatment, (2) whether "slippage" mechanisms overlap with attention-created voids, (3) opportunities to distinguish content-based slippage from structural attention limits.
+- **Output**: obsidian/voids/thoughts-that-slip-away.md -- Context: Cross-review thoughts-that-slip-away.md considering attention-created-voids insights
 
 ### ✓ 2026-01-29: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
 - **Type**: cross-review
