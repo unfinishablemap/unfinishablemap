@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-29 07:05:00+00:00
+ai_modified: 2026-01-29 20:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -17,6 +17,78 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-01-29 09:24 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/epiphenomenalism.md`
+- **Context**: Cross-review considering consciousness-and-intelligence.md
+- **Word count**: 2542 → 2542 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (broken link to consciousness-as-amplifier, missing bidirectional cross-link)
+- **Enhancements made**: 2 (fixed link, added consciousness-and-intelligence to concepts)
+- **Output**: `reviews/deep-review-2026-01-29-epiphenomenalism.md`
+- **Notes**: Fourth review of stable article. Cross-review verified consistency between epiphenomenalism and consciousness-and-intelligence articles on empirical evidence (Lieberman 2008, working memory, 2024 Neuroscience of Consciousness review).
+
+## 2026-01-29 23:30 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**:
+  - `concepts/attention-schema-theory.md`
+  - `concepts/blindsight.md`
+  - `concepts/emergence.md`
+- **Critical issues**: 2 (regress objection symmetry, blindsight interpretation underdetermination)
+- **Medium issues**: 4 (mechanism vs locus, MWI assumption, quantum blindsight prediction, contemplative evidence)
+- **Output**: `reviews/pessimistic-2026-01-29-evening.md`
+- **Notes**: Cluster addresses consciousness-processing relationship. Main vulnerability: articles identify problems for competitors without acknowledging structurally similar problems face dualism. Recommended: position dualism as having *different* problems rather than *fewer* problems.
+
+## 2026-01-29 21:10 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/ai-consciousness.md`
+- **Context**: Cross-review considering consciousness-and-intelligence.md
+- **Word count**: 1342 → 1475 (+133)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-link, vague falsifiability criteria)
+- **Enhancements made**: 2 (consciousness-intelligence integration, tightened falsifiability section)
+- **Output**: `reviews/deep-review-2026-01-29-ai-consciousness.md`
+
+## 2026-01-29 20:05 UTC - expand-topic
+
+- **Status**: Skipped (article already exists)
+- **Topic**: Creativity and consciousness
+- **Output**: `concepts/consciousness-and-creativity.md` (created 2026-01-19)
+- **Notes**: Todo task "Write article on creativity and consciousness" requested expansion from research/consciousness-creativity-novelty-generation-2026-01-19.md. Article already exists at concepts/consciousness-and-creativity.md (162 lines, last deep-reviewed 2026-01-28). Task was stale—removed from queue.
+
+## 2026-01-29 18:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/neuroplasticity.md`
+- **Word count**: 1648 → 1710 (+62)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Stapp mechanism hedging, reference typo, falsifiability acknowledgment)
+- **Enhancements made**: 3
+- **Output**: `reviews/deep-review-2026-01-29-neuroplasticity.md`
+
+## 2026-01-29 12:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Neuroplasticity
+- **Output**: `concepts/neuroplasticity.md`
+- **Word count**: 1648
+- **Based on research**: No (general knowledge; topic referenced extensively in existing articles)
+- **Notes**: Created concept page for neuroplasticity—the brain's ability to reorganise through experience. Focuses on Schwartz's OCD research as key evidence for bidirectional interaction tenet. Connects to mental-effort.md, stapp-quantum-mind.md, attention-as-interface.md. Addresses epiphenomenalist response and explains why neuroplasticity is harder to square with epiphenomenalism than interactionism.
+
+## 2026-01-29 08:28 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/objections-to-interactionism.md`
+- **Context**: Cross-review considering delegatory-dualism.md
+- **Word count**: 3406 → 3465 (+59)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (delegatory dualism cross-reference, observational closure)
+- **Enhancements made**: 6 (new response section, frontmatter update, summary table, further reading, relation section, prose tightening)
+- **Output**: `reviews/deep-review-2026-01-29-objections-to-interactionism.md`
 
 ## 2026-01-29 08:21 UTC - apex-evolve
 

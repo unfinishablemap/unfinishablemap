@@ -38,35 +38,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review objections-to-interactionism.md considering delegatory-dualism.md
-- **Type**: cross-review
-- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) addresses the overdetermination objection to interactionism. Check concepts/objections-to-interactionism.md for: (1) cross-links to Saad's response, (2) whether delegatory dualism addresses other listed objections, (3) updates needed for the "causal exclusion" section given Saad's preemption solution.
-- **Source**: chain (from delegatory-dualism.md)
-- **Generated**: 2026-01-29
-
-### P2: Create concept page for neuroplasticity
-- **Type**: expand-topic
-- **Notes**: Referenced in stapp-quantum-mind.md and attention articles but lacks dedicated page. Neuroplasticity—the brain's ability to reorganize—is relevant to the attention-as-interface framework: Schwartz's OCD research shows that directed mental attention can reshape neural circuits. Directly supports bidirectional interaction tenet with empirical evidence. Promoted from P3 due to importance for quantum-consciousness framework.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-29
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
-
-### P2: Write article on creativity and consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/consciousness-creativity-novelty-generation-2026-01-19.md. Consciousness may play a causal role in generating genuinely novel combinations. Connects to arguments for bidirectional interaction—if creativity requires conscious experience to generate truly new ideas (not just recombination), this supports the efficacy of consciousness.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-29
-
-### P2: Condense functionalism.md (4250 words, 170% of threshold)
-- **Type**: condense
-- **Notes**: Article significantly exceeds 2500-word hard threshold for concepts/ (170%). Covers computational theories of mind and multiple realizability argument. Preserve core arguments and consciousness objections while removing redundancy. May defer detailed historical overview to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-29
 
 ### P3: Cross-review panpsychism.md considering consciousness-in-simple-organisms.md
 - **Type**: cross-review
@@ -80,23 +56,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from default-mode-network.md)
 - **Generated**: 2026-01-29
 
-### P3: Cross-review ai-consciousness.md considering consciousness-and-intelligence.md
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) argues consciousness causally enables human-level intelligence. Check ai-consciousness.md for: (1) cross-links to the new consciousness-intelligence treatment, (2) consistency between views on whether AI might achieve intelligence without consciousness, (3) opportunities to strengthen the case that phenomenal consciousness is what the AI systems lack.
-- **Source**: chain (from consciousness-and-intelligence.md)
-- **Generated**: 2026-01-29
-
-### P3: Cross-review epiphenomenalism.md considering consciousness-and-intelligence.md
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) discusses epiphenomenalism as one of four positions on consciousness-intelligence relationship. Check concepts/epiphenomenalism.md for: (1) cross-links to the new treatment, (2) whether the "consciousness as irrelevant to intelligence" position is consistently presented, (3) opportunities to strengthen arguments against epiphenomenalism using intelligence considerations.
-- **Source**: chain (from consciousness-and-intelligence.md)
-- **Generated**: 2026-01-29
-
-### P3: Cross-review conscious-vs-unconscious-processing.md considering consciousness-and-intelligence.md
+### P2: Cross-review conscious-vs-unconscious-processing.md considering consciousness-and-intelligence.md
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) argues consciousness enables human-level intelligence. Check conscious-vs-unconscious-processing.md for: (1) cross-links to the consciousness-intelligence treatment, (2) whether the processing comparison supports or complicates the intelligence claims, (3) consistency on what conscious processing enables that unconscious processing cannot.
 - **Source**: chain (from consciousness-and-intelligence.md)
 - **Generated**: 2026-01-29
+- **Promoted**: 2026-01-29 (replenish-queue: core evidence for Bidirectional Interaction tenet)
 
 ### P3: Cross-review thoughts-that-slip-away.md considering attention-created-voids insights
 - **Type**: cross-review
@@ -104,11 +69,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from attention-created-voids.md)
 - **Generated**: 2026-01-29
 
-### P3: Deep review consciousness-and-intelligence.md
+### P2: Deep review consciousness-and-intelligence.md
 - **Type**: deep-review
 - **Notes**: Brand new AI-generated topics article (ai_contribution: 100), never deep-reviewed. Argues consciousness enables human-level intelligence through cognitive leap. Should verify: (1) accuracy of arguments about consciousness-intelligence relationship, (2) fair treatment of all four positions, (3) alignment with site tenets (especially Bidirectional Interaction), (4) quality of integration with existing content.
 - **Source**: staleness
 - **Generated**: 2026-01-29
+- **Promoted**: 2026-01-29 (replenish-queue: core article for Bidirectional Interaction tenet)
 
 ### P3: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
 - **Type**: cross-review
@@ -413,13 +379,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Create concept page for indexical facts
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-25. The Map uses this concept extensively (indexical-identity-quantum-measurement.md) but has no dedicated treatment. Distinction between objective facts and facts expressible only indexically.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-25
-
 ### P3: Create concept page for cognitive closure (McGinn)
 - **Type**: expand-topic
 - **Status**: pending
@@ -447,13 +406,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review 2026-01-25 (late). IIT (Tononi) is a major competitor theory that deserves engagement. The phi measure, its relationship to phenomenology, and whether it actually solves the hard problem. Builds on quantum-consciousness.md, hard-problem-of-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
-
-### P3: Create concept page for baseline cognition
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-26. The baseline cognition framework (what neurons achieve alone vs. what requires consciousness) is referenced across multiple articles but deserves unified treatment. Currently scattered. Would systematize the great ape-human comparison as naturalistic test case for consciousness's functional contributions.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-26
 
 ### P3: Write apex article integrating process philosophy
 - **Type**: expand-topic
@@ -487,13 +439,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-25 (late). The question of whether consciousness is substrate-independent deserves its own page—central to AI consciousness debates.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-25
-
-### P3: Create concept page for personal identity
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-25 (late). Currently scattered across articles; deserves unified treatment including haecceity, narrative identity, and persistence conditions.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
 
@@ -831,6 +776,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review epiphenomenalism.md considering consciousness-and-intelligence.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) discusses epiphenomenalism as one of four positions on consciousness-intelligence relationship. Check concepts/epiphenomenalism.md for: (1) cross-links to the new treatment, (2) whether the "consciousness as irrelevant to intelligence" position is consistently presented, (3) opportunities to strengthen arguments against epiphenomenalism using intelligence considerations.
+- **Output**: obsidian/concepts/epiphenomenalism.md -- Context: Cross-review epiphenomenalism.md considering consciousness-and-intelligence.md
+
+### ✓ 2026-01-29: Cross-review ai-consciousness.md considering consciousness-and-intelligence.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) argues consciousness causally enables human-level intelligence. Check ai-consciousness.md for: (1) cross-links to the new consciousness-intelligence treatment, (2) consistency between views on whether AI might achieve intelligence without consciousness, (3) opportunities to strengthen the case that phenomenal consciousness is what the AI systems lack.
+- **Output**: obsidian/topics/ai-consciousness.md -- Context: Cross-review ai-consciousness.md considering consciousness-and-intelligence.md
+
+### ✓ 2026-01-29: Write article on creativity and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-creativity-novelty-generation-2026-01-19.md. Consciousness may play a causal role in generating genuinely novel combinations. Connects to arguments for bidirectional interaction—if creativity requires conscious experience to generate truly new ideas (not just recombination), this supports the efficacy of consciousness.
+- **Output**: creativity and consciousness
+
+### ✓ 2026-01-29: Create concept page for neuroplasticity
+- **Type**: expand-topic
+- **Notes**: Referenced in stapp-quantum-mind.md and attention articles but lacks dedicated page. Neuroplasticity—the brain's ability to reorganize—is relevant to the attention-as-interface framework: Schwartz's OCD research shows that directed mental attention can reshape neural circuits. Directly supports bidirectional interaction tenet with empirical evidence. Promoted from P3 due to importance for quantum-consciousness framework.
+- **Output**: Create concept page for neuroplasticity
+
+### ✓ 2026-01-29: Cross-review objections-to-interactionism.md considering delegatory-dualism.md
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) addresses the overdetermination objection to interactionism. Check concepts/objections-to-interactionism.md for: (1) cross-links to Saad's response, (2) whether delegatory dualism addresses other listed objections, (3) updates needed for the "causal exclusion" section given Saad's preemption solution.
+- **Output**: obsidian/concepts/objections-to-interactionism.md -- Context: Cross-review objections-to-interactionism.md considering delegatory-dualism.md
 
 ### ✓ 2026-01-29: Write voids article on topology of cognitive failure
 - **Type**: expand-topic

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-28 11:27:43+00:00
+ai_modified: 2026-01-29 09:24:16+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,6 +18,7 @@ concepts:
 - '[[contemplative-neuroscience]]'
 - '[[phenomenal-consciousness]]'
 - '[[contemplative-evidence-for-consciousness-theories]]'
+- '[[consciousness-and-intelligence]]'
 created: 2026-01-09
 date: &id001 2026-01-09
 description: 'The view that consciousness is causally inert faces the self-stultification
@@ -25,7 +26,7 @@ description: 'The view that consciousness is causally inert faces the self-stult
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-28 11:27:43+00:00
+last_deep_review: 2026-01-29 09:24:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,7 +110,7 @@ Epiphenomenalists respond: the *brain states* that produce consciousness were se
 
 But this leaves unexplained why consciousness *tracks* adaptive features with such systematic precision. It would be quite a coincidence if causally inert consciousness just happened to accompany exactly those brain states that produce adaptive behaviour. The tracking is not random: pleasure accompanies beneficial stimuli (food, sex, warmth); pain accompanies harmful ones (injury, toxins, extreme temperatures). Subtle distinctions in phenomenal character track subtle distinctions in biological relevance—the discomfort of mild hunger differs qualitatively from the agony of severe injury, and these differences align with urgency of response.
 
-The [consciousness-as-intelligence-amplifier](/archive/topics/consciousness-as-intelligence-amplifier/) article makes this point sharply: if the painfulness of pain is something beyond the neural state that produces pain behavior (as the [explanatory gap](/concepts/explanatory-gap/) suggests), then why would this causally inert phenomenal aspect systematically track biological significance? The neural state alone determines behavior; the phenomenal glow adds nothing. Yet this "nothing" reliably indicates what matters for survival. Without causal connection, why should pain feel bad rather than neutral or pleasant?
+The [consciousness-as-intelligence-amplifier](/concepts/consciousness-as-amplifier/) article makes this point sharply: if the painfulness of pain is something beyond the neural state that produces pain behavior (as the [explanatory gap](/concepts/explanatory-gap/) suggests), then why would this causally inert phenomenal aspect systematically track biological significance? The neural state alone determines behavior; the phenomenal glow adds nothing. Yet this "nothing" reliably indicates what matters for survival. Without causal connection, why should pain feel bad rather than neutral or pleasant?
 
 The [phylogenetic evidence](/concepts/evolution-of-consciousness/) sharpens this problem. Consciousness appears widely distributed across the animal kingdom—mammals, birds, cephalopods, perhaps even [organisms with just a few hundred neurons](/concepts/minimal-consciousness/). The tracking is remarkably precise: across vastly different lineages, consciousness accompanies exactly those neural structures associated with adaptive, flexible behaviour. The epiphenomenalist must explain this as cosmic coincidence. The interactionist explanation is simpler: consciousness is distributed where it is because it *does* something—it guides behaviour toward survival.
 

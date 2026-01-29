@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-29 08:28:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,6 +16,7 @@ concepts:
 - '[[haecceity]]'
 - '[[pairing-problem]]'
 - '[[luck-objection]]'
+- '[[delegatory-dualism]]'
 created: 2026-01-18
 date: &id001 2026-01-18
 description: 'Six major challenges to dualism: pairing, conservation, parsimony, decoherence,
@@ -23,7 +24,7 @@ description: 'Six major challenges to dualism: pairing, conservation, parsimony,
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 08:50:00+00:00
+last_deep_review: 2026-01-29 08:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -185,9 +186,7 @@ If definite outcomes require something beyond decoherence—whether consciousnes
 
 ### Response 4: Non-Computational Selection
 
-Even if decoherence eliminates quantum *computing* in the brain, it may not eliminate quantum *selection*. Selection among decohered outcomes could still be non-deterministic. Consciousness might not need to maintain coherent superpositions—it might simply select among the classical-looking outcomes that decoherence produces.
-
-This is a weaker claim than Orch OR but still provides room for mental causation at points where physics is genuinely incomplete.
+Even if decoherence eliminates quantum *computing* in the brain, it may not eliminate quantum *selection*. Consciousness might not need coherent superpositions—it might select among classical-looking outcomes that decoherence produces. A weaker claim than Orch OR, but still providing room for mental causation where physics leaves outcomes undetermined.
 
 ## The Evolutionary Argument
 
@@ -228,19 +227,15 @@ Kim's exclusion argument goes beyond simple causal closure to argue that even if
 
 ### The Drainage Problem
 
-Kim calls this "causal drainage"—efficacy drains from higher levels to lower levels, pooling at fundamental physics. This threatens not just mental causation but all higher-level causation. Does temperature cause anything, or just molecular motion? Does natural selection cause anything, or just physics?
-
-This generalization either undermines all special sciences (implausible) or suggests the exclusion reasoning itself is flawed.
+Kim calls this "causal drainage"—efficacy drains to fundamental physics. This threatens all higher-level causation: does temperature cause anything, or just molecular motion? The generalization either undermines all special sciences (implausible) or suggests the exclusion reasoning is flawed.
 
 ### Response 1: Interventionism
 
-James Woodward's interventionist theory defines causes as factors whose manipulation would change effects. Mental properties can satisfy this criterion: intervening on mental states (through reasoning, therapy, meditation) produces different physical outcomes. The exclusion argument assumes a "building block" model of causation that interventionism replaces with a counterfactual model.
+James Woodward's interventionist theory defines causes as factors whose manipulation changes effects. Intervening on mental states (through reasoning, therapy, meditation) produces different physical outcomes. The exclusion argument assumes a "building block" model that interventionism replaces with counterfactuals.
 
 ### Response 2: Levels and Proportionality
 
-Stephen Yablo argues mental properties may be more *proportional* causes—neither too specific nor too general. "Being in pain" may be the right level of description for explaining avoidance behavior; neural details may be over-specific. The mental cause captures what's explanatorily relevant without redundant specificity.
-
-Mental and physical descriptions may capture the same causal process at different levels. There aren't two competing causes but one cause under two descriptions.
+Stephen Yablo argues mental properties may be more *proportional* causes. "Being in pain" may be the right level for explaining avoidance behavior; neural details may be over-specific. Mental and physical descriptions capture the same process at different levels—one cause under two descriptions, not two competing causes.
 
 ### Response 3: Quantum Insufficiency
 
@@ -250,11 +245,17 @@ Where physics is genuinely incomplete, mental properties can fill the gap withou
 
 This transforms the exclusion argument from a dilemma into a false premise: closure fails at indeterminacies, so premise 2 (sufficiency of physical causes) fails.
 
+### Response 4: Delegatory Preemption
+
+[Delegatory dualism](/topics/delegatory-dualism/) (Bradford Saad, 2025) offers a distinct response that doesn't depend on quantum mechanics. When a physical brain state has the same causal profile as an experience—both would cause wincing, attention-shifting, verbal reports—the experience *preempts* the physical state's causal role. The physical state delegates its responsibilities to the experience.
+
+This avoids overdetermination because only one cause operates: the experience does the causal work while the physical state is sidelined. Preemption differs from overdetermination the way an assassin's successful shot differs from a backup shooter's bullet arriving simultaneously—one cause acts, the other is rendered idle.
+
+Saad's framework also distinguishes *observational closure* from *universal closure*: mental causation need not violate what physics experiments can detect, only what physics would accomplish if consciousness weren't present. This distinction strengthens the falsifiability conditions discussed below.
+
 ### Connection to the Luck Objection
 
-A parallel structure exists between the exclusion argument and the [luck objection](/concepts/luck-objection/) to libertarian free will. The exclusion argument asks: if physical causes are sufficient, what room is there for mental causation? The luck objection asks: if outcomes are indeterminate, how can they be *chosen* rather than random?
-
-The Map's response to both: consciousness selects among undetermined possibilities. This is neither redundant (the possibilities are genuinely open) nor arbitrary (consciousness provides direction). The quantum Zeno mechanism offers a model: sustained attention stabilizes certain outcomes, biasing probabilities through repeated "observation" rather than energy injection.
+The exclusion argument parallels the [luck objection](/concepts/luck-objection/) to libertarian free will. Both ask: what work does consciousness do? The Map's response: consciousness selects among undetermined possibilities—neither redundant (possibilities are open) nor arbitrary (consciousness provides direction). The quantum Zeno mechanism and delegatory preemption both model how this selection could operate without overdetermination or randomness.
 
 ## What Would Challenge This View?
 
@@ -279,7 +280,7 @@ These are empirical and interpretive questions, not settled by philosophical arg
 | Parsimony | Dualism | Consciousness is evidence; materialism doesn't explain it; simplicity isn't truth | Strong |
 | Decoherence | Quantum interactionism | Revised calculations, quantum biology evidence, decoherence doesn't solve measurement problem | Moderate |
 | Evolutionary argument | Epiphenomenalism | *Supports* interactionism—consciousness must cause to be selected | N/A (supports site) |
-| Exclusion argument | Mental causation | Physics is insufficient at quantum indeterminacies; no sufficient cause to exclude | Strong |
+| Exclusion argument | Mental causation | Physics is insufficient at quantum indeterminacies; [delegatory preemption](/topics/delegatory-dualism/) avoids overdetermination | Strong |
 
 ## Relation to the Map's Perspective
 
@@ -293,11 +294,14 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet affirm
 
 The pairing problem is addressed by interface locality: consciousness is located where its quantum interface is, and each mind can only interface with its own brain. Spatial location is compatible with metaphysical distinctiveness.
 
-These objections have been taken seriously throughout the history of philosophy. That principled responses exist—particularly within a quantum framework—shows interactionism remains viable. The question of consciousness's relationship to physics is empirical and metaphysical, not settled by the objections here surveyed.
+The exclusion argument receives two complementary responses: quantum insufficiency (physics leaves outcomes undetermined) and [delegatory preemption](/topics/delegatory-dualism/) (consciousness takes over causal work rather than duplicating it). Together, these show that mental causation need not compete with or overdetermine physical causation.
+
+These objections have been taken seriously throughout the history of philosophy. That principled responses exist—within both quantum and non-quantum frameworks—shows interactionism remains viable.
 
 ## Further Reading
 
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Comprehensive response to the conservation objection
+- [delegatory-dualism](/topics/delegatory-dualism/) — Bradford Saad's solution to the exclusion problem via preemption
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The position these objections target
 - [pairing-problem](/concepts/pairing-problem/) — Detailed treatment of Kim's pairing challenge
 - [causal-closure](/concepts/causal-closure/) — The closure principle underlying the exclusion argument
