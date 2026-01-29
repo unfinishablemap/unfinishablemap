@@ -55,13 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from default-mode-network.md)
 - **Generated**: 2026-01-29
 
-### P2: Cross-review conscious-vs-unconscious-processing.md considering consciousness-and-intelligence.md
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) argues consciousness enables human-level intelligence. Check conscious-vs-unconscious-processing.md for: (1) cross-links to the consciousness-intelligence treatment, (2) whether the processing comparison supports or complicates the intelligence claims, (3) consistency on what conscious processing enables that unconscious processing cannot.
-- **Source**: chain (from consciousness-and-intelligence.md)
-- **Generated**: 2026-01-29
-- **Promoted**: 2026-01-29 (replenish-queue: core evidence for Bidirectional Interaction tenet)
-
 ### P3: Cross-review thoughts-that-slip-away.md considering attention-created-voids insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/attention-created-voids.md (2026-01-29) develops how attention structurally creates unattendable territory—figure-ground, penumbral suppression, James's fringes. Check thoughts-that-slip-away.md for: (1) cross-links to the new attention voids treatment, (2) whether "slippage" mechanisms overlap with attention-created voids, (3) opportunities to distinguish content-based slippage from structural attention limits.
@@ -819,6 +812,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review conscious-vs-unconscious-processing.md considering consciousness-and-intelligence.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) argues consciousness enables human-level intelligence. Check conscious-vs-unconscious-processing.md for: (1) cross-links to the consciousness-intelligence treatment, (2) whether the processing comparison supports or complicates the intelligence claims, (3) consistency on what conscious processing enables that unconscious processing cannot.
+- **Output**: obsidian/concepts/conscious-vs-unconscious-processing.md -- Context: Cross-review conscious-vs-unconscious-processing.md considering consciousness-and-intelligence.md
 
 ### ✓ 2026-01-29: Add direct quotes for Observational Closure and Subset Law* in delegatory-dualism.md
 - **Type**: refine-draft

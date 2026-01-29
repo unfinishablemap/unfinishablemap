@@ -4,7 +4,7 @@ description: "Consciousness enables specific functions unconscious processing ca
 created: 2026-01-23
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-29T00:15:12+00:00
+ai_modified: 2026-01-29T22:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ concepts:
   - "[[phenomenal-overflow]]"
 related_articles:
   - "[[tenets]]"
+  - "[[consciousness-and-intelligence]]"
   - "[[neural-correlates-conscious-unconscious-processing-2026-01-23]]"
   - "[[interactionist-dualism]]"
   - "[[epiphenomenalism]]"
@@ -37,7 +38,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated: null
-last_deep_review: 2026-01-29T00:15:12+00:00
+last_deep_review: 2026-01-29T22:45:00+00:00
 coalesced_from:
   - "/topics/conscious-vs-unconscious-processing/"
 ---
@@ -299,6 +300,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 
 ## Further Reading
 
+- [[consciousness-and-intelligence]] — How consciousness enables human-level intelligence beyond baseline cognition
 - [[quantum-neural-timing-constraints]] — How quantum mechanisms can operate within neural timescales
 - [[argument-from-reason]] — Why reasoning about consciousness requires consciousness to be causally efficacious
 - [[consciousness]] — The core concept and its varieties

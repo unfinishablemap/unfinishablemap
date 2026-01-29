@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 22:45 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/conscious-vs-unconscious-processing.md`
+- **Context**: Cross-review considering consciousness-and-intelligence.md
+- **Word count**: 3415 → 3424 (+9 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (deferred due to length constraints)
+- **Enhancements made**: 2 (cross-links to consciousness-and-intelligence)
+- **Output**: `reviews/deep-review-2026-01-29-late-conscious-vs-unconscious-processing.md`
+- **Notes**: Article has reached stability after 3 reviews. No critical issues. Attribution accuracy verified. Article at 137% of soft threshold, operating in length-neutral mode.
+
 ## 2026-01-29 20:30 UTC - optimistic-review
 
 - **Status**: Success
