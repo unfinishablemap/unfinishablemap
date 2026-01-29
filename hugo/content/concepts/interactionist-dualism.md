@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-29 17:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -31,14 +31,15 @@ concepts:
 - '[[objections-to-interactionism]]'
 - '[[quantum-indeterminacy-free-will]]'
 - '[[attention-as-interface]]'
+- '[[delegatory-dualism]]'
 created: 2026-01-14
-date: &id001 2026-01-25
+date: &id001 2026-01-29
 description: Mind and body are distinct yet causally connected. Quantum indeterminacy
   provides the mechanism for consciousness to influence brain states.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-25 22:51:17+00:00
+last_deep_review: 2026-01-29 17:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -141,9 +142,11 @@ No energy injection is required. Consciousness selects among outcomes physics le
 
 The contemporary interaction problem centers on [causal closure](/concepts/causal-closure/). Kim's exclusion argument: (1) every physical event has a sufficient physical cause; (2) mental events cause physical effects; (3) no systematic overdetermination; (4) mental properties aren't physical. These premises are inconsistent—Kim concludes mental properties must be either physical (reductionism) or inert ([epiphenomenalism](/arguments/epiphenomenalism/)).
 
-The Map rejects premise 1. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds physics is *not* causally closed at quantum indeterminacies—physics specifies probabilities but not outcomes. Consciousness selects among possibilities without adding energy.
+Two responses address the exclusion argument:
 
-The [Stapp model](/concepts/stapp-quantum-mind/) articulates this concretely: consciousness operates through rapid observation (quantum Zeno effect), holding desired neural patterns in place. The exclusion argument fails because there is nothing to exclude—at quantum indeterminacies, physics is "silent" about outcomes.
+**Quantum response**: The Map rejects premise 1. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds physics is *not* causally closed at quantum indeterminacies—physics specifies probabilities but not outcomes. The [Stapp model](/concepts/stapp-quantum-mind/) articulates this: consciousness operates through rapid observation (quantum Zeno effect), holding desired neural patterns in place. The exclusion argument fails because at quantum indeterminacies, physics is "silent" about outcomes.
+
+**Delegation response**: [Delegatory dualism](/topics/delegatory-dualism/) (Saad 2025) rejects premise 3 without accepting overdetermination. Physical brain states *delegate* their causal responsibilities to experiences that share their causal profiles. When pain causes wincing, the physical state's causal role is preempted, not duplicated. This provides theoretical grounding for the Bidirectional Interaction tenet independent of quantum mechanics.
 
 ## The Pairing Problem
 
@@ -321,7 +324,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [causal-closure](/concepts/causal-closure/) — The closure objection and responses
 
 **Related topics:**
-- [mental-causation](/concepts/mental-causation/), [agent-causation](/concepts/agent-causation/), [emergence](/concepts/emergence/), [epiphenomenalism](/arguments/epiphenomenalism/), [evolution-of-consciousness](/concepts/evolution-of-consciousness/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
+- [mental-causation](/concepts/mental-causation/), [agent-causation](/concepts/agent-causation/), [emergence](/concepts/emergence/), [epiphenomenalism](/arguments/epiphenomenalism/), [evolution-of-consciousness](/concepts/evolution-of-consciousness/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), [delegatory-dualism](/topics/delegatory-dualism/)
 
 ## References
 
@@ -334,6 +337,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
 - Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 - Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
+- Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
 - Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Stapp, H. P., Schwartz, J. M., & Beauregard, M. (2005). "Quantum theory in neuroscience and psychology." *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 - Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.

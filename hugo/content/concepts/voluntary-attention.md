@@ -130,7 +130,7 @@ Attention is the psychological process that *holds* content active over time—p
 
 The Desmurget double dissociation is particularly significant: stimulating parietal cortex produces movements without intention ("my arm moved"), while stimulating premotor cortex produces intention without movement ("I wanted to move but didn't"). This supports the view that phenomenal intention is causally upstream of motor execution.
 
-The [premotor theory of attention](/concepts/attention-motor-quantum-interface/) proposes that attention shifts *are* motor plans. The timing convergence supports this: ~300ms willed attention deployment matches the ~280ms motor commitment point. This suggests a single quantum selection interface—consciousness operates through one mechanism that the brain divides only functionally. Willed attention and willed action feel like the same kind of effort because they *are* the same kind of effort.
+The [premotor theory of attention](/archive/concepts/attention-motor-quantum-interface/) proposes that attention shifts *are* motor plans. The timing convergence supports this: ~300ms willed attention deployment matches the ~280ms motor commitment point. This suggests a single quantum selection interface—consciousness operates through one mechanism that the brain divides only functionally. Willed attention and willed action feel like the same kind of effort because they *are* the same kind of effort.
 
 ## Relation to Site Perspective
 
@@ -206,7 +206,7 @@ This neural distinctiveness matters philosophically. If consciousness contribute
 ## Further Reading
 
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal bridge between consciousness and brain
-- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — How PMTA unifies attention and motor selection
+- [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) — How PMTA unifies attention and motor selection
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from decoherence to neural decisions
 - [motor-selection](/concepts/motor-selection/) — Parallel evidence from voluntary motor control
 - [mental-effort](/concepts/mental-effort/) — Phenomenology of effort and the quantum Zeno mechanism

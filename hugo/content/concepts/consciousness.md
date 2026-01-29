@@ -179,7 +179,7 @@ The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) holds 
 
 **Voluntary action**: We experience initiating actions. While [Libet experiments](/concepts/libet-experiments/) complicate this, they don't eliminate genuine conscious influence—they may show consciousness operating through different temporal dynamics than naive introspection suggests.
 
-The mechanism of mind-matter interaction remains speculative. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) proposes that consciousness biases quantum indeterminacies—influencing which of superposed neural states becomes actual without violating conservation laws. See [quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), and [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) for specific proposals.
+The mechanism of mind-matter interaction remains speculative. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) proposes that consciousness biases quantum indeterminacies—influencing which of superposed neural states becomes actual without violating conservation laws. See [quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), and [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) for specific proposals.
 
 ## Relation to Site Perspective
 
@@ -200,7 +200,7 @@ The Map's extensive coverage of consciousness includes:
 - Phenomenological structure ([phenomenal-consciousness](/concepts/phenomenal-consciousness/), [qualia](/concepts/qualia/), [unity-of-consciousness](/concepts/unity-of-consciousness/), [temporal-consciousness](/concepts/temporal-consciousness/))
 - Neuroscientific interface ([neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/), [binding-problem](/concepts/binding-problem/), [global-workspace-theory](/concepts/global-workspace-theory/))
 - Functional contrasts ([access-consciousness](/concepts/access-consciousness/), [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/), [baseline-cognition](/archive/topics/baseline-cognition/))
-- Quantum mechanisms ([quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/))
+- Quantum mechanisms ([quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/))
 - Varieties of experience ([altered-states-of-consciousness](/concepts/altered-states-of-consciousness/), [dreams-and-consciousness](/concepts/dreams-and-consciousness/), [witness-consciousness](/concepts/witness-consciousness/), [minimal-consciousness](/concepts/minimal-consciousness/))
 
 ## Further Reading

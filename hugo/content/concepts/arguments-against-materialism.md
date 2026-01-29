@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-29 18:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,7 +28,7 @@ description: The case against materialism includes the explanatory gap, zombie a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 04:30:00+00:00
+last_deep_review: 2026-01-29 18:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -122,9 +122,7 @@ But quantum mechanics reveals that physics is not deterministic at the fundament
 
 ### The Decoherence Objection
 
-The most serious challenge to quantum consciousness theories is [decoherence](/concepts/decoherence/)—the loss of quantum coherence through environmental interaction. Max Tegmark calculated in 2000 that neural coherence times would be femtoseconds, far too short for neural processes operating on millisecond scales. If superpositions collapse almost instantly in warm brains, consciousness cannot operate through quantum selection.
-
-The objection deserves serious engagement. However:
+[Decoherence](/concepts/decoherence/)—the loss of quantum coherence through environmental interaction—poses the most serious challenge to quantum consciousness theories. Max Tegmark (2000) calculated that neural coherence times would be femtoseconds, far too short for millisecond-scale neural processes. The objection deserves serious engagement:
 
 1. **Tegmark's calculations have been contested.** Hameroff argues the model assumed thermal equilibrium and separation distances inappropriate for the Orch OR mechanism. Corrected calculations increase coherence times by seven orders of magnitude.
 

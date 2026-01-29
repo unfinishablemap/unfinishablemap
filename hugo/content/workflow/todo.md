@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-28 23:45:00+00:00
+ai_modified: 2026-01-29 04:24:32+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,64 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense limits-reveal-structure.md (3003 words, 100% of threshold)
+- **Type**: condense
+- **Notes**: Voids article exceeds 3000-word hard threshold. Covers how cognitive limits themselves reveal structure of the mind. Preserve: core argument that limits are informative rather than merely negative, connection to mysterianism, examples from apophatic traditions. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-29
+
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on delegatory dualism (Bradford Saad)
+### P2: Write article on creativity and consciousness
 - **Type**: expand-topic
-- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Saad's 2025 paper "A dualist theory of experience" presents delegatory dualism—a novel interactionist position where physical states "delegate" causal responsibilities to matching experiences. Addresses causal exclusion without overdetermination. Strong alignment with Bidirectional Interaction and Dualism tenets. Consider placement in concepts/ as treatment of a specific philosophical position.
-- **Source**: chain (from bradford-saad-delegatory-dualism-2026-01-28.md)
+- **Notes**: Research completed in research/consciousness-creativity-novelty-generation-2026-01-19.md. Consciousness may play a causal role in generating genuinely novel combinations. Connects to arguments for bidirectional interaction—if creativity requires conscious experience to generate truly new ideas (not just recombination), this supports the efficacy of consciousness.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-29
+
+### P3: Cross-review panpsychism.md considering consciousness-in-simple-organisms.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-in-simple-organisms.md (2026-01-29) discusses panpsychism as one approach to the distribution problem. Check panpsychism.md for: (1) cross-links to the simple organisms treatment, (2) whether the evidence from simple organisms strengthens or challenges panpsychist positions, (3) connection to the combination problem given minimal neural architectures.
+- **Source**: chain (from consciousness-in-simple-organisms.md)
+- **Generated**: 2026-01-29
+
+### P3: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/default-mode-network.md (2026-01-29) discusses DMN suppression during meditation. Check meditation-and-consciousness-modes.md for: (1) cross-links to the DMN neurobiological treatment, (2) whether the DMN framework explains meditation state transitions, (3) opportunities to connect contemplative phenomenology with neuroscience.
+- **Source**: chain (from default-mode-network.md)
+- **Generated**: 2026-01-29
+
+### P3: Cross-review ai-consciousness.md considering consciousness-and-intelligence.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) argues consciousness causally enables human-level intelligence. Check ai-consciousness.md for: (1) cross-links to the new consciousness-intelligence treatment, (2) consistency between views on whether AI might achieve intelligence without consciousness, (3) opportunities to strengthen the case that phenomenal consciousness is what the AI systems lack.
+- **Source**: chain (from consciousness-and-intelligence.md)
+- **Generated**: 2026-01-29
+
+### P3: Cross-review epiphenomenalism.md considering consciousness-and-intelligence.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) discusses epiphenomenalism as one of four positions on consciousness-intelligence relationship. Check concepts/epiphenomenalism.md for: (1) cross-links to the new treatment, (2) whether the "consciousness as irrelevant to intelligence" position is consistently presented, (3) opportunities to strengthen arguments against epiphenomenalism using intelligence considerations.
+- **Source**: chain (from consciousness-and-intelligence.md)
+- **Generated**: 2026-01-29
+
+### P3: Cross-review conscious-vs-unconscious-processing.md considering consciousness-and-intelligence.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) argues consciousness enables human-level intelligence. Check conscious-vs-unconscious-processing.md for: (1) cross-links to the consciousness-intelligence treatment, (2) whether the processing comparison supports or complicates the intelligence claims, (3) consistency on what conscious processing enables that unconscious processing cannot.
+- **Source**: chain (from consciousness-and-intelligence.md)
+- **Generated**: 2026-01-29
+
+### P3: Cross-review thoughts-that-slip-away.md considering attention-created-voids insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/attention-created-voids.md (2026-01-29) develops how attention structurally creates unattendable territory—figure-ground, penumbral suppression, James's fringes. Check thoughts-that-slip-away.md for: (1) cross-links to the new attention voids treatment, (2) whether "slippage" mechanisms overlap with attention-created voids, (3) opportunities to distinguish content-based slippage from structural attention limits.
+- **Source**: chain (from attention-created-voids.md)
+- **Generated**: 2026-01-29
+
+### P3: Deep review consciousness-and-intelligence.md
+- **Type**: deep-review
+- **Notes**: Brand new AI-generated topics article (ai_contribution: 100), never deep-reviewed. Argues consciousness enables human-level intelligence through cognitive leap. Should verify: (1) accuracy of arguments about consciousness-intelligence relationship, (2) fair treatment of all four positions, (3) alignment with site tenets (especially Bidirectional Interaction), (4) quality of integration with existing content.
+- **Source**: staleness
 - **Generated**: 2026-01-29
 
 ### P3: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
@@ -751,8 +799,107 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
+### P3: Write article on delegatory dualism and quantum interactionism integration
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29 (evening). Delegation specifies causal structure while quantum interactionism specifies mechanism. A dedicated article could work out the integration: consciousness biases quantum outcomes (mechanism); this constitutes delegation (structure). Would strengthen both philosophical and scientific components of the Map's framework.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Write article on the argument from reason
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29 (evening). The argument from reason—that genuine reasoning tracks normative relations that physical causation cannot instantiate—deserves fuller treatment. Currently scattered across multiple articles. Connects to AI consciousness debates: if reasoning requires phenomenal consciousness, current AI systems don't genuinely reason.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Create concept page for observational closure
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29 (evening). Saad's distinction between universal causal closure and observational closure in delegatory dualism. Dualists need only respect the latter—no *observable* violations of physical patterns. Important for responding to the causal closure objection.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Create concept page for the regress objection to illusionism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29 (evening). The argument that misrepresentation presupposes presentation appears throughout the Map but deserves systematic development. Central to responding to illusionism—the strongest physicalist position.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Deep review argument-from-reason.md
+- **Type**: deep-review
+- **Notes**: Key topics article (ai_contribution=100) presenting the argument that reasoning requires consciousness. Central to the site's case against epiphenomenalism and AI consciousness. Never deep-reviewed. Should verify: (1) accuracy of C.S. Lewis, Plantinga, and Reppert formulations, (2) engagement with physicalist responses (evolutionary debunking, reliabilism), (3) connection to self-stultification argument and cognitive phenomenology, (4) alignment with Bidirectional Interaction tenet.
+- **Output**: obsidian/topics/argument-from-reason.md
+
+### ✓ 2026-01-29: Deep review free-will.md
+- **Type**: deep-review
+- **Notes**: Flagship topics article (ai_contribution=100) on libertarian free will and consciousness. Never deep-reviewed since creation. Should verify: (1) accuracy of libertarian, compatibilist, and hard determinist positions, (2) engagement with luck objection and manipulation arguments, (3) proper treatment of quantum Zeno mechanism (per pessimistic review, this is currently over-relied upon), (4) alignment with Bidirectional Interaction and No Many Worlds tenets.
+- **Output**: obsidian/topics/free-will.md
+
+### ✓ 2026-01-29: Deep review hard-problem-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: Flagship topics article (ai_contribution=100) covering the site's central philosophical challenge. Never deep-reviewed since creation. Should verify: (1) accuracy of Chalmers' formulation and related arguments, (2) fair treatment of physicalist responses (type-B materialism, illusionism), (3) connection to the site's five tenets, (4) integration with related content (explanatory-gap, qualia, knowledge-argument).
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md
+
+### ✓ 2026-01-29: Cross-review filter-theory.md considering default-mode-network.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/default-mode-network.md (2026-01-29) discusses DMN as part of the brain's filtering mechanism. Check filter-theory.md for: (1) cross-links to the DMN treatment, (2) whether DMN suppression during meditation/psychedelics fits the filter model, (3) opportunities to strengthen the neurobiological grounding of filter theory.
+- **Output**: obsidian/concepts/filter-theory.md -- Context: Cross-review filter-theory.md considering default-mode-network.md
+
+### ✓ 2026-01-29: Cross-review animal-consciousness.md considering consciousness-in-simple-organisms.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-in-simple-organisms.md (2026-01-29) extends consciousness discussion to nematodes, hydra, and slime molds. Check animal-consciousness.md for: (1) cross-links to the new simple organisms treatment, (2) consistency on where consciousness thresholds might lie, (3) whether the distribution puzzle argument strengthens the animal consciousness case.
+- **Output**: obsidian/topics/animal-consciousness.md -- Context: Cross-review animal-consciousness.md considering consciousness-in-simple-organisms.md
+
+### ✓ 2026-01-29: Deep review consciousness-in-simple-organisms.md
+- **Type**: deep-review
+- **Notes**: AI-generated topics article (ai_contribution: 100) covering consciousness in nematodes, slime molds, and invertebrates. References the 2024 New York Declaration on Animal Consciousness. Should verify: (1) accuracy of biological claims about C. elegans, hydra, and Physarum, (2) fair treatment of IIT, panpsychism, and illusionism positions, (3) proper connection to the distribution problem and threshold question, (4) alignment with Occam's Razor Has Limits tenet.
+- **Output**: obsidian/topics/consciousness-in-simple-organisms.md
+
+### ✓ 2026-01-29: Deep review delegatory-dualism.md
+- **Type**: deep-review
+- **Notes**: Brand new AI-generated topics article (ai_contribution: 100), never deep-reviewed. Presents Bradford Saad's 2025 delegatory dualism as solution to causal exclusion. Should verify: (1) accuracy of Saad's position (based on 2025 preprint), (2) proper engagement with Kim's exclusion argument, (3) alignment with Bidirectional Interaction and Dualism tenets, (4) fair treatment of epiphenomenalist and overdeterminist alternatives.
+- **Output**: obsidian/topics/delegatory-dualism.md
+
+### ✓ 2026-01-29: Create concept page for default-mode-network
+- **Type**: expand-topic
+- **Notes**: Referenced in contemplative-neuroscience.md but no dedicated page exists. The default mode network—active during mind-wandering, self-referential thought, and deactivated during focused attention—is central to understanding consciousness states. Connects to meditation research, attention-as-interface hypothesis, and self-consciousness. Would strengthen cross-linking across consciousness neuroscience articles.
+- **Output**: Create concept page for default-mode-network
+
+### ✓ 2026-01-29: Write article on consciousness in simple organisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Covers: 2024 New York Declaration expanding consciousness to invertebrates, C. elegans (302 neurons), Hydra (decentralized nerve net), slime molds (no neurons), and the Unlimited Associative Learning (UAL) criterion. Key for understanding the distribution problem: why these organisms interface with consciousness? Builds on animal-consciousness.md, evolution-of-consciousness.md, panpsychism.md.
+- **Output**: consciousness in simple organisms
+
+### ✓ 2026-01-29: Cross-review causal-closure.md considering delegatory-dualism insights
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) introduces Bradford Saad's distinction between "observational closure" (no empirically detectable anomalies) and universal causal closure. Check causal-closure.md for: (1) cross-links to delegatory dualism's treatment, (2) whether the observational vs. universal closure distinction strengthens the page, (3) consistency between the two articles on how dualism can respect closure constraints.
+- **Output**: obsidian/concepts/causal-closure.md -- Context: Cross-review causal-closure.md considering delegatory-dualism insights
+
+### ✓ 2026-01-29: Cross-review attention.md considering attention-created-voids.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/attention-created-voids.md (2026-01-29) argues attention structurally creates unattendable territory—figure creates ground, penumbral suppression, James's unfocusable fringes. Check attention.md for: (1) cross-links to the voids treatment, (2) whether attention's structural limitations deserve mention alongside its role in consciousness, (3) consistency with Gurwitsch/Watzl frameworks.
+- **Output**: obsidian/concepts/attention.md -- Context: Cross-review attention.md considering attention-created-voids.md
+
+### ✓ 2026-01-29: Cross-review mental-causation.md considering delegatory-dualism.md
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) introduces the delegation mechanism for mental causation—experiences take over causal work rather than adding to it. Check mental-causation.md for: (1) cross-links to this novel mechanism, (2) whether the overdetermination discussion should reference the delegation alternative, (3) engagement with Saad's five constraints on dualist theories.
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Cross-review mental-causation.md considering delegatory-dualism.md
+
+### ✓ 2026-01-29: Cross-review interactionist-dualism.md considering delegatory-dualism.md
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) presents Bradford Saad's 2025 solution to the causal exclusion problem via delegation rather than overdetermination. Check interactionist-dualism.md for: (1) cross-links to delegatory dualism as a specific variant, (2) whether the causal exclusion discussion could benefit from the delegation response, (3) consistency in how mental causation challenges are framed.
+- **Output**: obsidian/concepts/interactionist-dualism.md -- Context: Cross-review interactionist-dualism.md considering delegatory-dualism.md
+
+### ✓ 2026-01-29: Write voids article on attention-created voids
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-attention-created-voids-2026-01-29.md. Investigates whether attention necessarily creates unattendable territory through its own operation. Key insight: the figure-ground structure of attention means illuminating a figure necessarily relegates everything else to background. James's "fringes," Gurwitsch's field theory, and Watzl's prioritization framework all support this. Strong candidate for voids/ section.
+- **Output**: Write voids article on attention-created voids
+
+### ✓ 2026-01-29: Write article on delegatory dualism (Bradford Saad)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Saad's 2025 paper "A dualist theory of experience" presents delegatory dualism—a novel interactionist position where physical states "delegate" causal responsibilities to matching experiences. Addresses causal exclusion without overdetermination. Strong alignment with Bidirectional Interaction and Dualism tenets. Consider placement in concepts/ as treatment of a specific philosophical position.
+- **Output**: delegatory dualism (Bradford Saad)
 
 ### ✓ 2026-01-29: Deep review machine-consciousness.md
 - **Type**: deep-review
@@ -2018,7 +2165,7 @@ Review file: reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-ch
 ### ✓ 2026-01-24: Cross-review quantum-consciousness.md considering attention-motor quantum interface
 - **Type**: cross-review
 - **Notes**: New article concepts/attention-motor-quantum-interface.md unifies the premotor theory of attention (PMTA) with Stapp's quantum Zeno mechanism, showing attention shifts ARE motor plans operating through the same quantum selection mechanism. The quantum-consciousness.md article should be reviewed to: (1) add cross-link to attention-motor-quantum-interface, (2) integrate the PMTA evidence that strengthens Stapp's attention mechanism, (3) note the ~280ms/~300ms timing convergence as additional constraint on quantum Zeno dynamics.
-- **Result**: Added [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) to frontmatter concepts (first position). Added new "Attention-Motor Unification" subsection under "The Mechanism" heading explaining: (1) the PMTA claim that attention and motor planning share substrates, (2) the ~280ms/~300ms timing convergence between motor commitment and willed attention deployment as evidence for common mechanism, (3) how this provides stronger evidence than attention alone—two independent domains with identical selection architecture. Added attention-motor-quantum-interface as first entry in Further Reading.
+- **Result**: Added [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) to frontmatter concepts (first position). Added new "Attention-Motor Unification" subsection under "The Mechanism" heading explaining: (1) the PMTA claim that attention and motor planning share substrates, (2) the ~280ms/~300ms timing convergence between motor commitment and willed attention deployment as evidence for common mechanism, (3) how this provides stronger evidence than attention alone—two independent domains with identical selection architecture. Added attention-motor-quantum-interface as first entry in Further Reading.
 - **Output**: concepts/quantum-consciousness.md
 
 ### ✓ 2026-01-24: Cross-review phenomenal-unity.md considering unity-of-consciousness article
@@ -2036,13 +2183,13 @@ Review file: reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-ch
 ### ✓ 2026-01-23: Cross-review voluntary-attention-control.md considering attention-motor quantum interface article
 - **Type**: cross-review
 - **Notes**: New article concepts/attention-motor-quantum-interface.md argues attention IS motor planning (PMTA). The voluntary-attention-control.md article should be reviewed to: (1) add cross-link to attention-motor-quantum-interface, (2) note that the willed attention findings support unified attention-motor mechanism, (3) integrate the PMTA perspective that "attention shifts are motor plans."
-- **Result**: Added [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) to frontmatter concepts (first position). Added new "Attention-Motor Unification" subsection under "Stapp's Quantum Zeno Mechanism" explaining: (1) the PMTA claim that attention shifts ARE motor plans, (2) how willed attention findings (~300ms deployment, frontal theta, bidirectional coherence) converge with motor commitment timing (~280ms), (3) the implication that consciousness operates through one unified selection mechanism for both attention and action. Added attention-motor-quantum-interface as first entry in Further Reading.
+- **Result**: Added [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) to frontmatter concepts (first position). Added new "Attention-Motor Unification" subsection under "Stapp's Quantum Zeno Mechanism" explaining: (1) the PMTA claim that attention shifts ARE motor plans, (2) how willed attention findings (~300ms deployment, frontal theta, bidirectional coherence) converge with motor commitment timing (~280ms), (3) the implication that consciousness operates through one unified selection mechanism for both attention and action. Added attention-motor-quantum-interface as first entry in Further Reading.
 - **Output**: concepts/voluntary-attention-control.md
 
 ### ✓ 2026-01-23: Cross-review motor-selection.md considering attention-motor quantum interface article
 - **Type**: cross-review
 - **Notes**: New article concepts/attention-motor-quantum-interface.md unifies PMTA with Stapp's quantum Zeno mechanism. The motor-selection.md article should be reviewed to: (1) add cross-link to attention-motor-quantum-interface, (2) note the PMTA evidence that attention and motor planning share substrates, (3) reference the 280ms/300ms timing convergence, (4) strengthen connection between the "attention-motor parallel" section and the unified mechanism.
-- **Result**: Added [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) to frontmatter concepts (first position). Added new "The Premotor Theory of Attention" subsection after the parallel table explaining PMTA unification: attention shifts ARE motor plans, the ~300ms/~280ms timing match reflects single selection mechanism. Updated timing table to show 280ms motor commitment. Added attention-motor-quantum-interface as first entry in Further Reading.
+- **Result**: Added [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) to frontmatter concepts (first position). Added new "The Premotor Theory of Attention" subsection after the parallel table explaining PMTA unification: attention shifts ARE motor plans, the ~300ms/~280ms timing match reflects single selection mechanism. Updated timing table to show 280ms motor commitment. Added attention-motor-quantum-interface as first entry in Further Reading.
 - **Output**: concepts/motor-selection.md
 
 ### ✓ 2026-01-23: Write article on attention-motor quantum interface

@@ -18,6 +18,252 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 06:30 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: The Topology of Cognitive Failure
+- **Category**: Mixed (Unexplorable / Methodological)
+- **Output**: `research/voids-topology-of-cognitive-failure-2026-01-29.md`
+- **Key finding**: Cognitive failures have characteristic signatures—different types of limits produce different breakdown patterns (self-refutation, aporia, introspection illusion, modular loss). Failure topology may serve as indirect method for mapping void boundaries.
+
+## 2026-01-29 06:09 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/argument-from-reason.md`
+- **Word count**: 2750 → 2880 (+130)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Buddhist/no-self critique)
+- **Enhancements made**: 2 (new objection response, motor-selection cross-link)
+- **Output**: `reviews/deep-review-2026-01-29-argument-from-reason.md`
+- **Notes**: Second deep review. Added response to Buddhist objection about constructed self, distinguishing phenomenal unity from substantial self. Added cross-link to motor-selection for attentional selection parallel. Article approaching stability—remaining concerns are bedrock philosophical disagreements.
+
+## 2026-01-29 18:00 UTC - deep-review
+
+- **Status**: Success (stability confirmed)
+- **File**: `concepts/arguments-against-materialism.md`
+- **Word count**: 2949 → 2929 (-20)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (1 deferred: Hameroff citation would add length)
+- **Enhancements made**: 1 (minor prose tightening)
+- **Output**: `reviews/deep-review-2026-01-29-arguments-against-materialism.md`
+- **Notes**: Second deep review. Article reached stability after significant improvements in 2026-01-20 review. All six adversarial personas' objections represent philosophical disagreements, not flaws. Minor prose condensation in decoherence section.
+
+## 2026-01-29 05:49 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/free-will.md`
+- **Word count**: 2344 → 2375 (+31)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (compatibilism treatment expanded)
+- **Enhancements made**: 0
+- **Output**: `reviews/deep-review-2026-01-29-free-will-2.md`
+- **Notes**: Tenth deep review. Article near stability. Single targeted improvement: expanded compatibilism paragraph to acknowledge sophisticated compatibilist arguments before explaining why phenomenology motivates libertarianism.
+
+## 2026-01-29 - deep-review
+
+- **Status**: Success (stability confirmed)
+- **File**: `topics/hard-problem-of-consciousness.md`
+- **Word count**: 2916 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: `reviews/deep-review-2026-01-29-hard-problem-of-consciousness.md`
+- **Notes**: Fifth deep review. Article has reached convergence—no changes warranted. All adversarial objections represent genuine philosophical disagreements with dualism, not fixable flaws. Review confirms stability; recommended next review in 90+ days unless new related content published.
+
+## 2026-01-29 13:00 UTC - coalesce
+
+- **Status**: Success
+- **Sources**: `concepts/motor-selection.md`, `concepts/attention-motor-quantum-interface.md`
+- **Target**: `concepts/motor-selection.md` (renamed: "Motor Selection and the Attention-Motor Interface")
+- **Archived**: `archive/concepts/attention-motor-quantum-interface.md`
+- **References to review**: 10 files reference archived article (links preserved via archive)
+- **Notes**: Two articles with substantial overlap on premotor theory of attention, quantum Zeno mechanism, basal ganglia selection, Libet reinterpretation, dopamine research, and empirical predictions. Merged into comprehensive unified treatment. New article (~3900 words) combines best content from both sources, eliminates redundancy.
+
+## 2026-01-29 05:14 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/filter-theory.md`
+- **Word count**: 3188 → 3177 (-11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing DMN cross-link, explicit physicalist objection, narrative filter reference)
+- **Enhancements made**: 2 (added [default-mode-network](/concepts/default-mode-network/) to concepts, cross-referenced DMN article's narrative filter concept)
+- **Output**: `reviews/deep-review-2026-01-29-filter-theory.md`
+- **Notes**: Third deep review of this article. Cross-review context: integrating with default-mode-network.md. Article has reached stability—changes are cross-referencing integrations with related content, not structural corrections. Length-neutral mode: additions offset by trimming redundant content.
+
+## 2026-01-29 05:03 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/default-mode-network.md`
+- **Word count**: 1931 → 2074 (+143)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (opening framing, REBUS attribution, physicalist objection)
+- **Enhancements made**: 3 (explicit physicalist interpretation acknowledgment, Carhart-Harris framework clarification, hard problem link in objection response)
+- **Output**: `reviews/deep-review-2026-01-29-default-mode-network.md`
+- **Notes**: First deep review of this article. Well-structured with strong empirical sourcing. Main improvements: explicitly acknowledging that both physicalist and filter interpretations account for the same DMN data, clarifying that Carhart-Harris's REBUS model is physicalist in framing, and adding direct engagement with the physicalist objection.
+
+## 2026-01-29 21:00 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/animal-consciousness.md`
+- **Word count**: 2525 → 2634 (+109)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (illusionist scaling problem reference, contemplative evidence reference)
+- **Enhancements made**: 2 (cross-links to consciousness-in-simple-organisms.md sections)
+- **Output**: `reviews/deep-review-2026-01-29-animal-consciousness.md`
+- **Notes**: Fourth review of this article. Cross-review context: integrating with consciousness-in-simple-organisms.md. Article has reached stability—changes are minor integrations with related content, not corrections. Added illusionist scaling problem argument and contemplative evidence reference to strengthen the case for animal consciousness.
+
+## 2026-01-29 15:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/consciousness-in-simple-organisms.md`
+- **Word count**: 2823 → 2828 (+5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (falsifiability condition internal tension)
+- **Enhancements made**: 1 (clarified condition 4 to specify interface mechanism requirement)
+- **Output**: `reviews/deep-review-2026-01-29-consciousness-in-simple-organisms.md`
+- **Notes**: Second deep review of this article (first: 2026-01-21). Article has reached stability. Previous review addressed illusionism, MWI, and Buddhist technical vocabulary. Minor clarification applied; most adversarial objections are now bedrock philosophical disagreements.
+
+## 2026-01-29 22:15 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: tenets.md, delegatory-dualism.md, hard-problem-of-consciousness.md, free-will.md, quantum-biology-and-the-consciousness-debate.md, consciousness.md, epistemic-advantages-of-dualism.md, quantum-binding-and-phenomenal-unity.md, interactionist-dualism.md, panpsychism.md
+- **Output**: `reviews/optimistic-2026-01-29-evening.md`
+- **Key findings**: Site demonstrates strong integration of philosophy of mind, quantum physics, neuroscience, and contemplative phenomenology. Delegatory dualism (Saad 2025) represents significant theoretical progress. Cumulative case methodology and fair treatment of opposing views are notable strengths.
+- **Expansion opportunities identified**: 4 high priority (delegatory-quantum integration, consciousness in simple organisms implications, argument from reason development, conservation laws detailed treatment), 3 medium priority (time perception, attention mechanisms, illusionism systematic response)
+- **Suggested tasks added**: 5 (all P3)
+- **Notes**: Second optimistic review of the day. Site content increasingly sophisticated—recent delegatory dualism integration shows active tracking of current scholarship.
+
+## 2026-01-29 21:45 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/delegatory-dualism.md`
+- **Word count**: 2212 → 2238 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (heterophenomenology engagement missing)
+- **Enhancements made**: 1 (strengthened illusionism response with heterophenomenology note)
+- **Output**: `reviews/deep-review-2026-01-29b-delegatory-dualism.md`
+- **Notes**: Second review of the day. Article approaching stability. Most adversarial objections are now bedrock philosophical disagreements rather than fixable flaws.
+
+## 2026-01-29 21:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Default mode network
+- **Output**: `concepts/default-mode-network.md`
+- **Word count**: 1931 (77% of 2500 target)
+- **Based on research**: No (general knowledge)
+- **Notes**: Created concept page for the brain's self-referential system. Connects to filter theory, meditation research, psychedelic evidence, and the Map's framework. Links DMN suppression to expanded phenomenal access rather than reduced consciousness.
+
+## 2026-01-29 20:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/delegatory-dualism.md`
+- **Word count**: 1923 → 2212 (+289)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (epiphenomenalism dismissal too quick, MWI dependency implicit, no testability discussion)
+- **Enhancements made**: 6 (illusionism engagement, MWI objection/response, No Many-Worlds tenet connection, Testability subsection, expanded Further Reading, added concept links)
+- **Output**: `reviews/deep-review-2026-01-29-delegatory-dualism.md`
+
+## 2026-01-29 03:52 UTC - expand-topic
+
+- **Status**: Already exists
+- **Topic**: Consciousness in simple organisms
+- **Output**: `topics/consciousness-in-simple-organisms.md`
+- **Word count**: 2823 (94% of 3000 target)
+- **Based on research**: Yes (`research/consciousness-simple-organisms-2026-01-19.md`)
+- **Notes**: Article already created 2026-01-21 and deep-reviewed same day. Task removed from queue.
+
+## 2026-01-29 03:44 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/causal-closure.md`
+- **Review type**: Cross-review with delegatory-dualism.md
+- **Word count**: 3650 → 3419 (-231, below hard threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing delegatory dualism connection, missing concept link)
+- **Enhancements made**: 3 (integrated Saad's delegation framework in overdetermination response, added concept cross-link, added Further Reading entry)
+- **Condensations**: Tightened statistical response and emergentist response sections
+- **Output**: `reviews/deep-review-2026-01-29-causal-closure.md`
+
+## 2026-01-29 22:00 UTC - pessimistic-review
+
+- **Status**: Success
+- **Files reviewed**: `topics/delegatory-dualism.md`, `concepts/interactionist-dualism.md`, `concepts/mental-causation.md`
+- **Focus**: Mental causation cluster—how consciousness causes physical effects
+- **Critical issues found**: 1 (unclear relationship between quantum and delegation frameworks)
+- **Medium issues found**: 5 (organizational invariance tension, illusionism response weak, MWI conflation, specification underdeveloped, agent causation assumed)
+- **Output**: `reviews/pessimistic-2026-01-29.md`
+
+## 2026-01-29 14:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/attention.md`
+- **Review type**: Cross-review with attention-created-voids.md
+- **Word count**: 2010 → ~2100 (+90)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-reference to attention-created-voids)
+- **Enhancements made**: 2 (added "Attention Creates Voids" subsection, added cross-link in Further Reading)
+- **Output**: `reviews/deep-review-2026-01-29-attention.md`
+
+## 2026-01-29 17:00 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/mental-causation.md`
+- **Review type**: Cross-review with delegatory-dualism.md
+- **Word count**: 2908 → 2931 (+23, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reference to delegatory dualism in Major Responses)
+- **Enhancements made**: 4 (added Delegatory Dualism subsection, added concept link, updated Further Reading, added Saad reference)
+- **Output**: `reviews/deep-review-2026-01-29-mental-causation.md`
+
+## 2026-01-29 21:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/consciousness-and-intelligence.md`
+- **Word count**: 2011 → 2070 (+59)
+- **Critical issues addressed**: 1 (quantum mechanism claim now engages decoherence objection)
+- **Medium issues addressed**: 3 (MWI response expanded, heterophenomenology acknowledged, explanatory gap wikilinked)
+- **Enhancements made**: 3 (added cross-links to frontmatter)
+- **Output**: `reviews/deep-review-2026-01-29-consciousness-and-intelligence.md`
+
+## 2026-01-29 17:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/interactionist-dualism.md`
+- **Review type**: Cross-review with delegatory-dualism.md
+- **Word count**: 3492 → 3554 (+62)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-reference to delegatory dualism)
+- **Enhancements made**: 4 (restructured causal closure section, added concept link, added to Further Reading, added Saad reference)
+- **Output**: `reviews/deep-review-2026-01-29-interactionist-dualism.md`
+
+## 2026-01-29 03:15 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Attention-created voids
+- **Output**: `voids/attention-created-voids.md`
+- **Word count**: 2076
+- **Based on research**: Yes (`research/voids-attention-created-voids-2026-01-29.md`)
+- **Summary**: How attention creates voids as a structural necessity—figure-ground relations, penumbral suppression, James's fringes. Attending to anything renders something else unattendable, not as contingent failure but as essential byproduct of the mechanism of conscious access.
+
+## 2026-01-29 - check-tenets
+
+- **Status**: Success
+- **Files checked**: 139 (42 topics, 97 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 0
+- **Output**: `reviews/tenet-check-2026-01-29.md`
+- **Summary**: All site content maintains robust alignment with the five foundational tenets. No direct contradictions, implicit conflicts, or notable tensions found. The site appropriately engages with opposing views as philosophical challenges rather than endorsements.
+
+## 2026-01-29 14:30 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Delegatory dualism (Bradford Saad)
+- **Output**: `topics/delegatory-dualism.md`
+- **Word count**: 1923
+- **Based on research**: Yes (`research/bradford-saad-delegatory-dualism-2026-01-28.md`)
+- **Summary**: Bradford Saad's 2025 solution to the causal exclusion problem. Physical brain states delegate causal responsibilities to conscious experiences with matching causal profiles. Provides theoretical backing for Bidirectional Interaction tenet while avoiding both epiphenomenalism and overdetermination.
+
 ## 2026-01-29 02:14 UTC - deep-review
 
 - **Status**: Success
@@ -5744,7 +5990,7 @@ Reviewed concepts/quantum-consciousness.md in light of new attention-motor-quant
 
 ### Changes Made
 
-1. Added [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) to frontmatter concepts (first position)
+1. Added [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) to frontmatter concepts (first position)
 2. Added new "Attention-Motor Unification" subsection under "The Mechanism" explaining:
    - PMTA claim that attention and motor planning share substrates
    - ~280ms/~300ms timing convergence as evidence for common mechanism

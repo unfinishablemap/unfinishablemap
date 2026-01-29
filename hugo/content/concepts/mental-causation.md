@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-29 17:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,6 +22,7 @@ concepts:
 - '[[decoherence]]'
 - '[[attention-as-interface]]'
 - '[[bidirectional-interaction]]'
+- '[[delegatory-dualism]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 description: How mental states cause physical effects despite Kim's exclusion argument.
@@ -29,7 +30,7 @@ description: How mental states cause physical effects despite Kim's exclusion ar
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-26 20:45:00+00:00
+last_deep_review: 2026-01-29 17:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,17 +68,9 @@ The dilemma seems stark: deny that consciousness causes anything, or deny that c
 
 ## Overdetermination and Exclusion
 
-Why can't mental and physical causes both contribute? This would be *causal overdetermination*—two independent causal processes converging on a single effect.
+Why can't mental and physical causes both contribute? This would be *causal overdetermination*—two independent sufficient causes converging on a single effect. Kim argues systematic overdetermination is untenable: if *every* action has both mental and physical sufficient causes, this strains credibility.
 
-Kim argues systematic overdetermination is untenable. If *every* action has both mental and physical sufficient causes, this is too much coincidence. Two firing squads both killing the prisoner is conceivable; two firing squads killing *every* prisoner *every* time strains credibility.
-
-Critics respond in several ways:
-
-**The dependence response**: Mental and physical causes aren't independent—mental properties depend on (supervene on) physical properties. This isn't coincidental overdetermination but interdependent causation.
-
-**The proportionality response**: Stephen Yablo argues mental and physical properties relate as determinables to determinates (as "red" relates to "scarlet"). The mental property may be the more proportional cause—neither too specific nor too general for the effect. Killing the scarlet shirt would kill the red shirt; blaming "scarlet" is over-specific.
-
-**The levels response**: Mental and physical descriptions capture the same causal process at different levels of abstraction. It's not two causes but one cause under two descriptions.
+Critics respond in several ways. **The dependence response**: mental causes supervene on physical causes, so this isn't coincidental overdetermination but interdependent causation. **The proportionality response** (Yablo): mental properties may be the more *proportional* cause—neither too specific nor too general for the effect. **The levels response**: mental and physical descriptions capture the same process at different levels.
 
 Each response has merit, but none fully dissolves the problem if we accept strong [causal closure](/concepts/causal-closure/).
 
@@ -95,23 +88,23 @@ This generalization of the problem either undermines all higher-level causation 
 
 ### Interventionism
 
-James Woodward's interventionist theory defines causes as factors whose manipulation would change effects. Mental properties can be genuine causes if intervening on them (while holding physical realizers fixed) would produce different outcomes.
-
-Thomas Kroedel argues interventionism vindicates mental causation. The exclusion argument assumes a "building block" model of causation that interventionism replaces.
-
-Critique: Can we even intervene on mental properties while holding physical realizers fixed, given supervenience?
+James Woodward's interventionist theory defines causes as factors whose manipulation would change effects. Thomas Kroedel argues this vindicates mental causation: the exclusion argument assumes a "building block" model that interventionism replaces. Critique: can we intervene on mental properties while holding physical realizers fixed, given supervenience?
 
 ### Inheritance and Constitution
 
-Mental properties might "inherit" causal powers from physical realizers through intimate relations—constitution, grounding, or implementation. The relation is cooperative rather than competitive.
-
-On this view, mental and physical causes aren't rivals for the same causal role. Mental causation *just is* physical causation under another description, without identity.
+Mental properties might "inherit" causal powers from physical realizers through constitution or grounding—a cooperative rather than competitive relation. Mental causation *just is* physical causation under another description, without identity.
 
 ### Strong Emergence
 
 [Strong emergentism](/concepts/emergence/) holds that mental properties have genuinely novel causal powers not present in physical constituents. Timothy O'Connor and Hong Yu Wong propose "structural triggering conditions"—latent powers that manifest when components organize appropriately.
 
 This requires denying causal closure: the physical story is insufficient because organization adds something new. The challenge: without specifying *how* emergent causation works, this names the problem more than solves it.
+
+### Delegatory Dualism
+
+Bradford Saad's [delegatory dualism](/topics/delegatory-dualism/) (2025) offers a different strategy: accept that physical states could cause behaviour, but hold that experiences *preempt* this causal work. When pain causes wincing, the underlying physical state's causal contribution is delegated to the experience—not duplicated. This avoids overdetermination because only one cause operates; the other is sidelined.
+
+Saad's distinction between *universal* closure (every physical event has sufficient physical cause) and *observational* closure (no detectable violations) parallels the Map's quantum framework: both hold that mental causation can be genuine without producing empirically detectable anomalies. Delegatory dualism addresses causal *structure*; the quantum opening addresses causal *mechanism*. The frameworks complement each other.
 
 ### The Quantum Opening
 
@@ -244,6 +237,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 
 - [psychophysical-laws-framework](/topics/psychophysical-laws-framework/) — Integrated overview of the framework requiring selection laws for mental causation
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — Five candidate mechanisms specifying how mental causation might work at the neural interface
+- [delegatory-dualism](/topics/delegatory-dualism/) — Saad's 2025 response to exclusion: experiences preempt rather than overdetermine
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's foundational commitment to consciousness causally influencing the physical world
 - [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness exists
 - [many-worlds](/arguments/many-worlds/) — Why the Map rejects MWI (and why it matters for mental causation)
@@ -267,6 +261,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 - Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+- Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
 - Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
 - O'Connor, T. & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.

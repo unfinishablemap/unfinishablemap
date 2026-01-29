@@ -30,7 +30,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Dopamine doesn't cause movement—it marks what's worth moving toward. A landmark 2024 *Nature* study reveals that dopamine-deficient mice "can move" but "won't move": their motor circuitry remains intact while goal-directed initiative vanishes. This dissociation illuminates dopamine's role in the [quantum selection interface](/concepts/attention-motor-quantum-interface/): dopamine sets the threshold and marks salience, while consciousness determines which salient option crosses threshold first.
+Dopamine doesn't cause movement—it marks what's worth moving toward. A landmark 2024 *Nature* study reveals that dopamine-deficient mice "can move" but "won't move": their motor circuitry remains intact while goal-directed initiative vanishes. This dissociation illuminates dopamine's role in the [quantum selection interface](/archive/concepts/attention-motor-quantum-interface/): dopamine sets the threshold and marks salience, while consciousness determines which salient option crosses threshold first.
 
 The same molecule mediates both reward anticipation and movement initiation because, evolutionarily, wanting and pursuing are inseparable. Dopamine connects value perception with action initiation—it's the bridge between "this matters" and "go get it." For The Unfinishable Map's framework, this bridges the gap between neural computation (which generates options) and conscious selection (which actualizes one).
 
@@ -163,7 +163,7 @@ Dopamine is the bridge between:
 - **Value perception**: "This matters" (salience marking)
 - **Action initiation**: "Go get it" (threshold modulation)
 
-If [attention is motor planning](/concepts/attention-motor-quantum-interface/) (the premotor theory), then what we attend to and what we pursue are unified. Dopamine appropriately serves both because the underlying system is one.
+If [attention is motor planning](/archive/concepts/attention-motor-quantum-interface/) (the premotor theory), then what we attend to and what we pursue are unified. Dopamine appropriately serves both because the underlying system is one.
 
 ### Phenomenological Unity
 
@@ -250,7 +250,7 @@ The quantum selection framework gains explanatory purchase where the simpler vie
 
 ## Further Reading
 
-- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — The broader framework integrating attention and motor selection
+- [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) — The broader framework integrating attention and motor selection
 - [motor-selection](/concepts/motor-selection/) — Motor selection mechanisms in detail
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for consciousness-brain interaction
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The philosophical framework

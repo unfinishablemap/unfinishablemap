@@ -81,7 +81,7 @@ Stapp uses orthodox quantum mechanics—no new physics required. The quantum Zen
 - **Phenomenological match**: James documented that "sustained voluntary attention is a repetition of successive efforts"—exactly what the Zeno mechanism predicts
 - **Biological precedent**: Atkins et al. (2024) demonstrated quantum Zeno protection in cryptochrome radical pairs—the first evidence that biological systems use this effect
 
-The [premotor theory of attention](/concepts/attention-motor-quantum-interface/) unifies attention and motor control under this framework. Both show frontal theta oscillations, ~300ms deployment, distinct willed-vs-instructed signatures, and effortful phenomenology. Two domains with identical selection architecture strengthens the case.
+The [premotor theory of attention](/archive/concepts/attention-motor-quantum-interface/) unifies attention and motor control under this framework. Both show frontal theta oscillations, ~300ms deployment, distinct willed-vs-instructed signatures, and effortful phenomenology. Two domains with identical selection architecture strengthens the case.
 
 The [luck objection](/concepts/luck-objection/)—that quantum indeterminacy is just randomness—fails because selection is not randomness. Random processes have no phenomenology; selection involves felt effort. Consciousness selects based on reasons, making choices contrastively explicable.
 
@@ -189,7 +189,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) — Five neural quantum mechanisms with evidence status
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Comprehensive treatment of the quantum Zeno mechanism
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing hierarchy from femtosecond to 300ms neural decisions
-- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — Unification of attention and motor selection
+- [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) — Unification of attention and motor selection
 
 **Key concepts:**
 - [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — Analysis of the decoherence challenge

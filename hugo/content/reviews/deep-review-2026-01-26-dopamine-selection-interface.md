@@ -29,7 +29,7 @@ None. The article is well-structured with proper frontmatter, accurate citations
 
 ### Medium Issues Found
 - **Neural determinism alternative not addressed**: The article assumes consciousness selects without directly engaging the alternative that stochastic neural dynamics could perform the same function. **Resolution**: Added a paragraph in the Selection Framework Application section addressing why consciousness rather than noise, citing phenomenology of effort, neural signatures, and the meaning/randomness distinction.
-- **Quantum mechanism underdeveloped**: The connection between dopamine signaling timescales and quantum coherence timescales is not explicitly established. **Deferred**: This is adequately covered in the linked [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) article; adding here would duplicate.
+- **Quantum mechanism underdeveloped**: The connection between dopamine signaling timescales and quantum coherence timescales is not explicitly established. **Deferred**: This is adequately covered in the linked [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) article; adding here would duplicate.
 - **MWI response thin**: The No Many Worlds section doesn't fully engage the MWI defender's response. **Deferred**: The response is a bedrock philosophical disagreement about whether phenomenology under MWI is "real in each branch" versus genuinely selected. This represents a philosophical standoff, not a fixable flaw.
 - **Falsifiability concerns**: The three-layer model is difficult to test empirically. **Acknowledged**: This is inherent to the mind-body problem; the Map's framework offers explanatory purchase rather than predictive precision.
 
@@ -70,7 +70,7 @@ None. All addressable issues were handled in this review; remaining items (quant
 
 - **MWI debate**: MWI proponents will find the "No Many Worlds" section unsatisfying, arguing that phenomenology is real in each branch. This is a bedrock philosophical disagreement about whether indexical identity matters, not a flaw to fix in future reviews.
 - **Neural determinism**: The article now addresses this objection; future reviews should not re-flag unless new content undermines the response.
-- **Quantum mechanism specificity**: The article appropriately defers detailed quantum mechanism discussion to [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/); this is intentional division of labor, not incompleteness.
+- **Quantum mechanism specificity**: The article appropriately defers detailed quantum mechanism discussion to [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/); this is intentional division of labor, not incompleteness.
 
 ## Word Count
 

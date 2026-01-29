@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-26 22:15:00+00:00
+ai_modified: 2026-01-29 06:09:54+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: If thoughts are fully explained by physical causes, no belief is ra
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-24 17:15:00+00:00
+last_deep_review: 2026-01-29 06:09:54+00:00
 modified: *id001
 related_articles:
 - '[[free-will]]'
@@ -140,6 +140,8 @@ The physicalist might respond: "What's the difference? If the outputs match corr
 
 **"We simply don't understand how consciousness tracks normative relationships."** This objection has force—and the Map acknowledges it. [Colin McGinn](/concepts/mysterianism/) argues that certain aspects of the mind-body relationship may exceed human cognitive capacities. The *mechanism* by which phenomenal consciousness grasps logical necessity may be naturally mysterious—not because it doesn't exist, but because understanding it requires concepts we cannot acquire. The argument from reason establishes *that* consciousness must track normative relationships (on pain of self-defeat), even if *how* it does so remains beyond our comprehension. This distinguishes the epistemic modesty of mysterianism from the eliminative move of denying that normative tracking occurs.
 
+**"The unified self that 'grasps' reasons may itself be constructed."** Buddhist philosophy and certain cognitive science approaches deny the substantial self that the argument seems to presuppose. If there is no unified rational agent persisting through an inference, what does the "tracking"? This objection has force against naive homuncular pictures, but the argument requires only phenomenal unity—the experienced integration of premises into a conclusion—not a metaphysically substantial self. Hasker's point about the unity required for grasping arguments targets this experiential integration, which remains even if the "self" is understood as process rather than substance. The question becomes whether phenomenal unity can be explained physically—and this leads back to the [binding-problem](/concepts/binding-problem/) and [phenomenal-unity](/concepts/phenomenal-unity/), where the same explanatory challenges arise.
+
 ## Further Reading
 
 - [arguments-for-dualism](/concepts/arguments-for-dualism/) - Multiple independent arguments converging on irreducibility of consciousness
@@ -154,6 +156,7 @@ The physicalist might respond: "What's the difference? If the outputs match corr
 - [mysterianism](/concepts/mysterianism/) - Whether the mechanism of normative awareness may exceed our comprehension
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) - Nagel's analysis of how subjectivity enables objectivity
 - [introspection](/concepts/introspection/) - The reliability of self-knowledge and its connection to self-stultification
+- [motor-selection](/concepts/motor-selection/) - How attention selects among motor possibilities, paralleling intellectual selection
 
 ## References
 

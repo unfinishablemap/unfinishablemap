@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-26 22:15:00+00:00
+ai_modified: 2026-01-29 15:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -30,7 +30,7 @@ description: 'From nematodes to slime molds: where does consciousness begin? The
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-21 21:45:00+00:00
+last_deep_review: 2026-01-29 15:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -175,7 +175,7 @@ The Map's position would face difficulty if:
 
 3. **Illusionism vindicated**: If consciousness were demonstrated to be a cognitive construct without genuine phenomenal properties, the distribution problem would dissolve along with the hard problem.
 
-4. **Simple organism consciousness confirmed**: Ironically, strong evidence *for* consciousness in C. elegans would complicate the Map's position by suggesting consciousness emerges at surprisingly low complexity thresholds.
+4. **Simple organism consciousness without interface mechanism**: Strong evidence for consciousness in C. elegans coupled with absence of any plausible quantum-level interface would complicate the Map's position—suggesting consciousness couples with physical systems through mechanisms simpler than the tenet envisions, or that the interface model needs substantial revision.
 
 5. **Panpsychism required**: If investigation revealed experience in systems like slime molds lacking any plausible interface mechanism, more radical revision of the framework would be needed.
 
