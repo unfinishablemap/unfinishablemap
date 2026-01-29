@@ -4,7 +4,7 @@ description: "Rovelli's interpretation where quantum facts are relative to obser
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-29T14:52:35+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-01-20T14:30:00+00:00
+last_deep_review: 2026-01-29T14:52:35+00:00
 ---
 
 Relational quantum mechanics (RQM) is Carlo Rovelli's interpretation of quantum mechanics in which physical properties exist only as relations between systems, not as intrinsic features of things. There is no "view from nowhere"—all quantum facts are relative to specific observers, where "observer" means any physical system, not necessarily a conscious one. RQM explicitly removes any special role for consciousness in quantum measurement.
