@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 06:30 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: The Topology of Cognitive Failure
+- **Category**: Mixed (Unexplorable / Methodological)
+- **Output**: `research/voids-topology-of-cognitive-failure-2026-01-29.md`
+- **Key finding**: Cognitive failures have characteristic signatures—different types of limits produce different breakdown patterns (self-refutation, aporia, introspection illusion, modular loss). Failure topology may serve as indirect method for mapping void boundaries.
+
 ## 2026-01-29 06:09 UTC - deep-review
 
 - **Status**: Success
