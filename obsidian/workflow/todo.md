@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review interactionist-dualism.md considering delegatory-dualism.md
-- **Type**: cross-review
-- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) presents Bradford Saad's 2025 solution to the causal exclusion problem via delegation rather than overdetermination. Check interactionist-dualism.md for: (1) cross-links to delegatory dualism as a specific variant, (2) whether the causal exclusion discussion could benefit from the delegation response, (3) consistency in how mental causation challenges are framed.
-- **Source**: chain (from delegatory-dualism.md)
-- **Generated**: 2026-01-29
-
 ### P2: Cross-review mental-causation.md considering delegatory-dualism.md
 - **Type**: cross-review
 - **Notes**: New article topics/delegatory-dualism.md (2026-01-29) introduces the delegation mechanism for mental causation—experiences take over causal work rather than adding to it. Check mental-causation.md for: (1) cross-links to this novel mechanism, (2) whether the overdetermination discussion should reference the delegation alternative, (3) engagement with Saad's five constraints on dualist theories.
@@ -788,6 +782,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review interactionist-dualism.md considering delegatory-dualism.md
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) presents Bradford Saad's 2025 solution to the causal exclusion problem via delegation rather than overdetermination. Check interactionist-dualism.md for: (1) cross-links to delegatory dualism as a specific variant, (2) whether the causal exclusion discussion could benefit from the delegation response, (3) consistency in how mental causation challenges are framed.
+- **Output**: obsidian/concepts/interactionist-dualism.md -- Context: Cross-review interactionist-dualism.md considering delegatory-dualism.md
 
 ### ✓ 2026-01-29: Write voids article on attention-created voids
 - **Type**: expand-topic
