@@ -4,7 +4,7 @@ description: "Bradford Saad's 2025 theory explains how consciousness causes beha
 created: 2026-01-29
 modified: 2026-01-29
 human_modified:
-ai_modified: 2026-01-29T14:30:00+00:00
+ai_modified: 2026-01-29T20:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,8 @@ concepts:
   - "[[mental-causation]]"
   - "[[causal-closure]]"
   - "[[psychophysical-laws]]"
+  - "[[illusionism]]"
+  - "[[many-worlds]]"
 related_articles:
   - "[[tenets]]"
   - "[[conservation-laws-and-mind]]"
@@ -24,6 +26,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-29
 last_curated:
+last_deep_review: 2026-01-29T20:30:00+00:00
 ---
 
 Delegatory dualism is Bradford Saad's 2025 solution to the causal exclusion problem—the challenge of how consciousness can cause physical effects without overdetermining outcomes that already have sufficient physical causes. The core insight: physical brain states *delegate* their causal responsibilities to conscious experiences that share their causal profiles. When you wince from pain, the pain causes the wince by taking over causal work the physical state would otherwise perform. No overdetermination occurs because the physical state's contribution is preempted, not duplicated.
@@ -38,7 +41,7 @@ Previous responses accepted one horn or the other:
 - **Epiphenomenalists** accept that experiences don't cause physical effects—they're merely along for the ride
 - **Overdeterminists** accept systematic overdetermination as the price of mental causation
 
-Saad rejects both. Epiphenomenalism is self-undermining (if consciousness causes nothing, we have no reason to trust our reports about consciousness). Overdetermination posits redundant causation without explaining why. Delegatory dualism offers a third option: experiences genuinely cause physical effects by *taking over* causal work, not duplicating it.
+Saad rejects both. Epiphenomenalism is self-undermining (if consciousness causes nothing, we have no reason to trust our reports about consciousness). [[illusionism|Illusionists]] respond that sophisticated self-models could generate accurate reports without phenomenal causation—but this trades the hard problem for an equally hard "illusion problem," since representing oneself as conscious presupposes something it is like to have that representation. Overdetermination posits redundant causation without explaining why. Delegatory dualism offers a third option: experiences genuinely cause physical effects by *taking over* causal work, not duplicating it.
 
 ## Five Constraints on Dualist Theories
 
@@ -142,6 +145,10 @@ Neural correlates of consciousness (NCCs) are tight correlations between brain s
 
 Delegatory dualism predicts exactly this: psychophysical laws (Subset Law*) ensure systematic correlations between physical organization and phenomenology. NCC research discovers these correlations. Nothing about NCCs favors materialism; delegatory dualism predicts the same findings.
 
+### Testability
+
+Delegatory dualism makes empirical predictions: neural systems should exhibit correlations between experiential content and causal effects that match the Subset Law* structure. If experiences' causal profiles could be independently characterized and shown to mismatch the physical states' profiles—or if "delegation" could somehow be distinguished from simple identity—the framework would face empirical challenge. The theory is not empirically equivalent to epiphenomenalism (which predicts no experiential influence) or identity theory (which predicts no preemption). However, distinguishing delegation from these alternatives at the phenomenological level remains methodologically challenging—a limitation Saad acknowledges.
+
 ## Objections and Responses
 
 ### Objection: What determines which causal profile an experience has?
@@ -162,6 +169,12 @@ What metaphysical mechanism allows a non-physical cause to preempt a physical on
 
 **Response**: This is the general interaction problem for dualism, not specific to delegation. Delegatory dualism answers the *structure* question (how mental causation avoids overdetermination); the *mechanism* question (how non-physical causes affect physical systems) remains for any interactionist view. The Map's quantum framework addresses mechanism separately.
 
+### Objection: Does this framework depend on rejecting Many-Worlds?
+
+If [[many-worlds|Many-Worlds Interpretation]] is true and all quantum outcomes occur in branching universes, there's no outcome for consciousness to "select"—and thus nothing to delegate.
+
+**Response**: Yes, delegatory dualism presupposes collapse-based quantum mechanics. If MWI is true, the delegation mechanism has nothing to operate on. This aligns with the Map's [[tenets#^no-many-worlds|rejection of Many-Worlds]], which holds that indexical identity matters and not all branches are equally real. The frameworks are mutually reinforcing: rejecting MWI provides the ontological space delegation requires.
+
 ## Relation to Site Perspective
 
 Delegatory dualism strongly supports the Map's core tenets:
@@ -174,6 +187,8 @@ Delegatory dualism strongly supports the Map's core tenets:
 
 **Occam's Razor Has Limits tenet**: Delegatory dualism demonstrates that sophisticated dualist theories can satisfy stringent constraints. The framework is more complex than epiphenomenalism but more explanatory. Simplicity isn't everything.
 
+**No Many-Worlds tenet**: The delegation mechanism requires that quantum collapse is real—that one outcome becomes actual while others do not. If all outcomes occur in branching universes, there's nothing for consciousness to select and nothing for physical states to delegate. The Map's rejection of MWI provides the ontological foundation delegation requires.
+
 Saad's work strengthens the philosophical foundations for the Map's interactionist position. The delegation mechanism answers the "how is this possible?" question that has troubled interactionists since Descartes.
 
 ## Further Reading
@@ -182,6 +197,8 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 - [[mental-causation]] — How consciousness causes physical effects
 - [[causal-closure]] — The closure objection and responses
 - [[epiphenomenalism]] — The view delegatory dualism rejects
+- [[illusionism]] — The radical challenge that denies phenomenal consciousness exists
+- [[many-worlds]] — Why the Map rejects MWI (required for delegation to operate)
 - [[psychophysical-laws]] — Chalmers' framework for mind-body laws
 - [[conservation-laws-and-mind]] — Why conservation doesn't block mental causation
 - [[bradford-saad-delegatory-dualism-2026-01-28]] — Research notes on Saad's work
