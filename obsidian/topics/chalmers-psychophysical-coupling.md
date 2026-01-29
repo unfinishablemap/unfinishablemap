@@ -11,8 +11,8 @@ topics:
   - "[[interactionist-dualism]]"
 concepts:
   - "[[psychophysical-laws]]"
-  - "[[psychophysical-coupling-law]]"
-  - "[[psychophysical-coupling-mechanisms]]"
+  - "[[psychophysical-coupling]]"
+  - "[[psychophysical-coupling]]"
   - "[[integrated-information-theory]]"
   - "[[functionalism]]"
   - "[[epiphenomenalism]]"
@@ -84,7 +84,7 @@ The asymmetry reveals different philosophical commitments:
 - **Chalmers**: Consciousness is real and irreducible, but may be causally inert (epiphenomenalism is acceptable)
 - **The Map**: Consciousness is real, irreducible, *and* causally efficacious (epiphenomenalism is rejected)
 
-The [[psychophysical-coupling-law]] page develops what downward selection laws might look like—attention as observation rate, intention as probability weighting, and other candidate mechanisms. Chalmers provides the philosophical framework; the Map supplies the operational specification for the direction Chalmers leaves open.
+The [[psychophysical-coupling]] page develops what downward selection laws might look like—attention as observation rate, intention as probability weighting, and other candidate mechanisms. Chalmers provides the philosophical framework; the Map supplies the operational specification for the direction Chalmers leaves open.
 
 ## Five Constraints on Dualist Laws
 
@@ -163,8 +163,8 @@ Chalmers provides the philosophical framework the Map requires. His naturalistic
 ## Further Reading
 
 - [[psychophysical-laws]] — Deep treatment of Chalmers' foundational framework
-- [[psychophysical-coupling-law]] — The Map's development of selection laws
-- [[psychophysical-coupling-mechanisms]] — Five candidate mechanisms for coupling
+- [[psychophysical-coupling]] — The Map's development of selection laws
+- [[psychophysical-coupling]] — Five candidate mechanisms for coupling
 - [[psychophysical-laws-framework]] — Integrated overview of the full framework
 - [[integrated-information-theory]] — IIT's role in Chalmers' quantum proposal
 - [[functionalism]] — The view Chalmers tends toward, the Map rejects

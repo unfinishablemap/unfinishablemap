@@ -272,7 +272,7 @@ This framework identifies *where* consciousness might influence motor selection�
 - [[motor-selection]] — Motor selection as a domain for quantum Zeno effects
 - [[voluntary-attention]] — Neural signatures of willed attention
 - [[attention-as-interface]] — The interface hypothesis foundation
-- [[psychophysical-coupling-mechanisms]] — Comparative analysis of coupling mechanisms
+- [[psychophysical-coupling]] — Comparative analysis of coupling mechanisms
 - [[mental-effort]] — Phenomenology of effort in both domains
 - [[phenomenology-of-choice]] — The common experiential structure
 - [[free-will]] — The broader topic this supports

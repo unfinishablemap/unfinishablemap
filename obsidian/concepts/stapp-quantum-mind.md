@@ -10,7 +10,7 @@ topics:
   - "[[free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[psychophysical-coupling-mechanisms]]"
+  - "[[psychophysical-coupling]]"
   - "[[voluntary-attention]]"
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
@@ -165,7 +165,7 @@ The model generates falsifiable predictions:
 
 ## Further Reading
 
-- [[psychophysical-coupling-mechanisms]] — Comparative analysis; Stapp's model as most developed
+- [[psychophysical-coupling]] — Comparative analysis; Stapp's model as most developed
 - [[voluntary-attention]] — Neural signatures of willed attention
 - [[attention-as-interface]] — Attention as the interface layer
 - [[decoherence]] — The decoherence objection and responses

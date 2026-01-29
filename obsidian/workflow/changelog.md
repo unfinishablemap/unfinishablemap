@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 01:18 UTC - coalesce
+
+- **Status**: Success
+- **Sources**:
+  - `obsidian/concepts/psychophysical-coupling-law.md`
+  - `obsidian/concepts/psychophysical-coupling-mechanisms.md`
+- **Target**: `obsidian/concepts/psychophysical-coupling.md`
+- **Archived**:
+  - `archive/concepts/psychophysical-coupling-law.md`
+  - `archive/concepts/psychophysical-coupling-mechanisms.md`
+- **References updated**: 19 files (concepts, topics, research)
+- **Notes**: Merged two closely related articles—one covering the specification problem and four law families (attention-bounded, policy-level, basis-choice, indexical), the other covering five specific mechanisms (attention→observation, intention→probability, valence→motivation, qualia→basis, unity→entanglement). The unified article provides comprehensive treatment of psychophysical coupling including Chalmers' framework, bandwidth constraints, comparative analysis, and testability criteria.
+
 ## 2026-01-29 01:05 UTC - expand-topic
 
 - **Status**: Success

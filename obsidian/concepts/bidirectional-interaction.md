@@ -11,7 +11,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
 concepts:
-  - "[[psychophysical-coupling-mechanisms]]"
+  - "[[psychophysical-coupling]]"
   - "[[quantum-neural-timing-constraints]]"
   - "[[voluntary-attention]]"
   - "[[argument-from-reason]]"
@@ -75,7 +75,7 @@ Two concrete mechanisms have been proposed:
 
 Both share what bidirectional interaction requires: consciousness selecting among outcomes physics leaves undetermined.
 
-For detailed specification of how phenomenal properties map to physical parameters, see [[psychophysical-coupling-mechanisms]]. The attention mechanism is currently the most developed, with [[voluntary-attention]] documenting the ~300ms deployment window and neural signatures (frontal theta, DLPFC/ACC activation) that distinguish willed from instructed attention.
+For detailed specification of how phenomenal properties map to physical parameters, see [[psychophysical-coupling]]. The attention mechanism is currently the most developed, with [[voluntary-attention]] documenting the ~300ms deployment window and neural signatures (frontal theta, DLPFC/ACC activation) that distinguish willed from instructed attention.
 
 ### The Timing Challenge
 
@@ -134,7 +134,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 
 ## Further Reading
 
-- [[psychophysical-coupling-mechanisms]] — Specification of how phenomenal properties map to physical parameters
+- [[psychophysical-coupling]] — Specification of how phenomenal properties map to physical parameters
 - [[quantum-neural-timing-constraints]] — The timing hierarchy from decoherence to neural decisions
 - [[argument-from-reason]] — Complementary self-defeat argument targeting physicalism
 - [[voluntary-attention]] — The attention interface with neural evidence

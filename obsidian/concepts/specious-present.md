@@ -18,7 +18,7 @@ concepts:
   - "[[collapse-and-time]]"
   - "[[quantum-consciousness]]"
   - "[[binding-problem]]"
-  - "[[psychophysical-coupling-law]]"
+  - "[[psychophysical-coupling]]"
   - "[[illusionism]]"
   - "[[witness-consciousness]]"
   - "[[introspection]]"
@@ -165,7 +165,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet warns parsimony is 
 
 ### Binding and Structure
 - [[binding-problem]] — Feature binding and consciousness
-- [[psychophysical-coupling-law]] — Bandwidth constraints on consciousness-matter interaction
+- [[psychophysical-coupling]] — Bandwidth constraints on consciousness-matter interaction
 - [[haecceity]] — Why *this* present moment is irreducible
 
 ### Challenges

@@ -35,6 +35,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-01-21T01:30:00+00:00
+archived: true
+archived_date: 2026-01-29T00:00:00+00:00
+superseded_by: "/concepts/psychophysical-coupling/"
+archive_reason: "Coalesced into Psychophysical Coupling"
+original_path: "/concepts/psychophysical-coupling-law/"
 ---
 
 If consciousness "selects" quantum outcomes—as The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds—there must be a psychophysical coupling law: a stable mapping from conscious contents to physical selections. Without specifying this law, even schematically, "selection" remains a metaphor rather than a research program.

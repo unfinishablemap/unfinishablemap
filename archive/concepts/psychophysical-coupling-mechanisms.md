@@ -23,6 +23,11 @@ author:
 ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-01-23
 last_curated:
+archived: true
+archived_date: 2026-01-29T00:00:00+00:00
+superseded_by: "/concepts/psychophysical-coupling/"
+archive_reason: "Coalesced into Psychophysical Coupling"
+original_path: "/concepts/psychophysical-coupling-mechanisms/"
 ---
 
 [[interactionist-dualism|Interactionist dualism]] faces a specification problem: *which* phenomenal properties map to *which* physical selections with enough precision to generate falsifiable predictions? Five candidate coupling mechanisms exist—[[#attention|attention as observation rate]], [[#intention|intention as probability weighting]], [[#valence|valence as motivational force]], [[#qualia|qualia as basis selection]], and [[#unity|unity as sustained entanglement]]—but only the first two have developed mechanisms. Without such specification, dualism risks becoming unfalsifiable.

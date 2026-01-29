@@ -8,7 +8,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[psychophysical-coupling-law]]"
+  - "[[psychophysical-coupling]]"
   - "[[interactionist-dualism]]"
   - "[[mental-causation]]"
   - "[[integrated-information-theory]]"
@@ -23,7 +23,7 @@ last_curated: null
 last_deep_review: null
 ---
 
-This research explores David Chalmers' framework for psychophysical laws in depth—the fundamental principles he proposes for bridging phenomenal experience and physical processes. The Unfinishable Map's [[psychophysical-coupling-law]] page references Chalmers but could benefit from fuller development of his framework.
+This research explores David Chalmers' framework for psychophysical laws in depth—the fundamental principles he proposes for bridging phenomenal experience and physical processes. The Unfinishable Map's [[psychophysical-coupling]] page references Chalmers but could benefit from fuller development of his framework.
 
 ## The Core Framework
 

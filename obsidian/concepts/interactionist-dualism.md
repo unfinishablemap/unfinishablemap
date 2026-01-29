@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
 concepts:
-  - "[[psychophysical-coupling-mechanisms]]"
+  - "[[psychophysical-coupling]]"
   - "[[psychophysical-laws]]"
   - "[[evolution-of-consciousness]]"
   - "[[dualism]]"
@@ -215,7 +215,7 @@ The theory is speculative, not unfalsifiable.
 
 ## Psychophysical Coupling Mechanisms
 
-Beyond identifying *where* consciousness interfaces with physics, interactionism must specify *which* phenomenal properties map to *which* physical selections. Five candidate [[psychophysical-coupling-mechanisms]] have been proposed:
+Beyond identifying *where* consciousness interfaces with physics, interactionism must specify *which* phenomenal properties map to *which* physical selections. Five candidate [[psychophysical-coupling]] have been proposed:
 
 | Mechanism | Phenomenal Property | Physical Selection | Development |
 |-----------|-------------------|-------------------|-------------|
@@ -310,7 +310,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 **Mechanisms:**
 - [[stapp-quantum-mind]] — Quantum Zeno mechanism for consciousness-brain interaction
-- [[psychophysical-coupling-mechanisms]] — How phenomenal properties map to physical selections
+- [[psychophysical-coupling]] — How phenomenal properties map to physical selections
 - [[attention-as-interface]] — Attention as the causal interface
 
 **Objections and responses:**

@@ -18,7 +18,7 @@ concepts:
   - "[[voluntary-attention]]"
   - "[[neural-quantum-coherence]]"
   - "[[consciousness-selecting-neural-patterns]]"
-  - "[[psychophysical-coupling-law]]"
+  - "[[psychophysical-coupling]]"
   - "[[illusionism]]"
   - "[[decoherence]]"
   - "[[introspection]]"
@@ -244,7 +244,7 @@ Together, these explain why consciousness acts on brains specifically: (a) brain
 - [[attention-as-interface]] — The quantum Zeno mechanism for mind-body interaction
 - [[voluntary-attention]] — Willed attention as the locus of conscious control
 - [[consciousness-selecting-neural-patterns]] — The proposed mechanism for selection
-- [[psychophysical-coupling-law]] — Constraints on the coupling between mind and brain
+- [[psychophysical-coupling]] — Constraints on the coupling between mind and brain
 - [[illusionism]] — The eliminativist challenge and the Map's response
 - [[decoherence]] — The decoherence objection and quantum biology responses
 - [[introspection]] — First-person access to consciousness and its reliability

@@ -11,7 +11,7 @@ topics:
   - "[[mental-causation]]"
 concepts:
   - "[[psychophysical-laws]]"
-  - "[[psychophysical-coupling-law]]"
+  - "[[psychophysical-coupling]]"
   - "[[quantum-consciousness]]"
   - "[[stapp-quantum-mind]]"
 related_articles:

@@ -35,7 +35,7 @@ Six philosopher personas applied: Eliminative Materialist, Hard-Nosed Physicalis
 
 1. **No engagement with illusionist response**: The self-stultification argument was presented without acknowledging sophisticated responses from Dennett/Frankish illusionism. **Resolution**: Added paragraph explaining the illusionist response and why it fails (the seeming itself is either phenomenal or the illusionist is denying consciousness).
 
-2. **Missing cross-links to recent content**: The article lacked connections to newly developed content on psychophysical coupling mechanisms, quantum neural timing constraints, and voluntary attention. **Resolution**: Added [[psychophysical-coupling-mechanisms]], [[quantum-neural-timing-constraints]], [[voluntary-attention]], and [[argument-from-reason]] to frontmatter and Further Reading.
+2. **Missing cross-links to recent content**: The article lacked connections to newly developed content on psychophysical coupling mechanisms, quantum neural timing constraints, and voluntary attention. **Resolution**: Added [[psychophysical-coupling]], [[quantum-neural-timing-constraints]], [[voluntary-attention]], and [[argument-from-reason]] to frontmatter and Further Reading.
 
 3. **Baseline cognition link broken**: The article linked to [[consciousness-independent-baseline-cognition]] which is a research note, not the published article. **Resolution**: Corrected to [[baseline-cognition]] and added Tomasello citations.
 
@@ -73,7 +73,7 @@ Six philosopher personas applied: Property Dualist, Quantum Mind Theorist, Pheno
 
 ### Cross-links Added
 
-- [[psychophysical-coupling-mechanisms]]
+- [[psychophysical-coupling]]
 - [[quantum-neural-timing-constraints]]
 - [[voluntary-attention]]
 - [[argument-from-reason]]
