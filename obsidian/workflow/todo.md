@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review mysterianism.md considering origin-of-consciousness.md
-- **Type**: cross-review
-- **Notes**: New voids article voids/origin-of-consciousness.md (2026-01-29) develops the origin void where inquiry confronts the containment of the questioner. Mysterianism addresses cognitive closure—check for: (1) cross-links to origin void, (2) whether mysterian arguments apply to the origin question specifically, (3) connection between cognitive closure and self-referential voids.
-- **Source**: chain (from origin-of-consciousness.md)
-- **Generated**: 2026-01-29
-
 ### P2: Create concept page for attention-motor-quantum-interface
 - **Type**: expand-topic
 - **Notes**: This concept is referenced 15 times across the site (motor-selection.md, quantum-consciousness.md, reviews) but has no definition page. Should define: the hypothesized role of attention and motor systems as the interface between consciousness and quantum processes, connection to voluntary attention and motor selection, relationship to Stapp's quantum Zeno mechanism.
@@ -822,6 +816,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review mysterianism.md considering origin-of-consciousness.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/origin-of-consciousness.md (2026-01-29) develops the origin void where inquiry confronts the containment of the questioner. Mysterianism addresses cognitive closure—check for: (1) cross-links to origin void, (2) whether mysterian arguments apply to the origin question specifically, (3) connection between cognitive closure and self-referential voids.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering origin-of-consciousness.md
 
 ### ✓ 2026-01-29: Cross-review hard-problem-of-consciousness.md considering origin-of-consciousness.md
 - **Type**: cross-review
