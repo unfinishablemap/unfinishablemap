@@ -17,6 +17,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 01:33 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/baseline-cognition.md`
+- **Word count**: 3296 → 3301 (+5)
+- **Cross-review context**: counterfactual-reasoning.md
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1
+  1. Missing counterfactual-reasoning cross-link → added link in Counterfactual Thinking section
+- **Enhancements made**: 3
+  1. Added [[counterfactual-reasoning]] to concepts frontmatter
+  2. Added cross-link with context in Counterfactual Thinking section
+  3. Added entry in Further Reading section
+- **Output**: `reviews/deep-review-2026-01-29-baseline-cognition.md`
+
 ## 2026-01-29 14:30 UTC - deep-review
 
 - **Status**: Success

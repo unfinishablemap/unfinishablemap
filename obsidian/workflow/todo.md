@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review baseline-cognition.md considering counterfactual-reasoning insights
-- **Type**: cross-review
-- **Notes**: New article concepts/counterfactual-reasoning.md (2026-01-28) argues that counterfactual reasoning is precisely what distinguishes human intelligence from great ape cognition. The baseline-cognition.md article discusses what neurons achieve alone. Check for: (1) cross-links to counterfactual reasoning, (2) whether the "zone of latent solutions" discussion connects to counterfactual capacity, (3) clarity on why counterfactual reasoning requires consciousness rather than just more sophisticated neural processing.
-- **Source**: chain (from counterfactual-reasoning.md)
-- **Generated**: 2026-01-29
-
 ### P2: Condense first-person-third-person-methodology-2026-01-23.md (4271 words, 122% of threshold)
 - **Type**: condense
 - **Notes**: Research file exceeds 3500-word hard threshold for research/. Covers the debate between first-person phenomenological methods and third-person scientific observation in consciousness studies. Preserve: key methodological distinctions, Varela's neurophenomenology, implications for consciousness science. May need reorganization rather than pure condensation. See /condense skill.
@@ -770,6 +764,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review baseline-cognition.md considering counterfactual-reasoning insights
+- **Type**: cross-review
+- **Notes**: New article concepts/counterfactual-reasoning.md (2026-01-28) argues that counterfactual reasoning is precisely what distinguishes human intelligence from great ape cognition. The baseline-cognition.md article discusses what neurons achieve alone. Check for: (1) cross-links to counterfactual reasoning, (2) whether the "zone of latent solutions" discussion connects to counterfactual capacity, (3) clarity on why counterfactual reasoning requires consciousness rather than just more sophisticated neural processing.
+- **Output**: obsidian/concepts/baseline-cognition.md -- Context: Cross-review baseline-cognition.md considering counterfactual-reasoning insights
 
 ### ✓ 2026-01-29: Cross-review free-will.md considering counterfactual-reasoning insights
 - **Type**: cross-review
