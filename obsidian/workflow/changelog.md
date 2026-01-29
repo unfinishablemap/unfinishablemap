@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 08:21 UTC - apex-evolve
+
+- **Status**: Success
+- **Article**: consciousness-and-agency
+- **Changed sources**: 1 (topics/free-will)
+- **Word count**: 3066 → 3346
+- **Review**: `reviews/apex-evolve-2026-01-29-consciousness-and-agency.md`
+- **Notes**: Integrated Sjöberg (2024) surgical resection evidence strengthening Libet counter-argument. Added new "Counterfactual Reasoning and Deliberation" section connecting to Bischof-Köhler hypothesis. Added phenomenology-of-choice and Desmurget neurosurgical studies. Consolidated redundant mutual-support discussions. Added two new source references.
+
 ## 2026-01-29 07:05 UTC - expand-topic
 
 - **Status**: Success
