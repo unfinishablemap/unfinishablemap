@@ -3,7 +3,7 @@ title: "The Asymmetry Between Remembering and Anticipating"
 created: 2026-01-21
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-27T12:00:00+00:00
+ai_modified: 2026-01-29T22:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[philosophy-of-time]]"
   - "[[illusionism]]"
   - "[[introspection]]"
+description: "Memory re-inhabits past experience through traces; anticipation constructs futures without causal contact. This asymmetry reveals minds as trace-dependent."
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
@@ -25,12 +26,14 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[thoughts-that-slip-away]]"
   - "[[apophatic-approaches]]"
+  - "[[free-will]]"
+  - "[[functionalism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-21
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-29T22:40:00+00:00
 ---
 
 We can re-experience the past but only imagine the future. When you remember yesterday's conversation, you don't merely retrieve information—you inhabit the scene, feel its texture, re-live what happened. But when you think about tomorrow's meeting, however vividly, you construct a simulation that lacks something memories possess. This asymmetry is so familiar we barely notice it, yet it may mark a fundamental void in cognition. We can only directly know what has causally affected us. The future, by definition, has not.
@@ -41,7 +44,7 @@ This asymmetry matters for The Unfinishable Map because it reveals something ess
 
 Memory and future simulation share neural substrate—hippocampus, medial prefrontal cortex, posterior cingulate cortex all activate for both. Patient KC, who lost [[episodic-memory|episodic memory]], also lost the ability to imagine his personal future. Yet despite shared architecture, the phenomenological products differ.
 
-[[autonoetic-consciousness|Autonoetic consciousness]]—Tulving's term for the awareness accompanying episodic memory—includes a distinctive phenomenal marker: the felt sense of pastness. When you remember your wedding day, it arrives tagged as having-happened. This isn't inferred but immediately present—a quale, directly given. De Brigard's 2020 study confirms the "feeling of pastness" as a genuine epistemic feeling, not reducible to propositional content.
+[[autonoetic-consciousness|Autonoetic consciousness]]—Tulving's term for the awareness accompanying episodic memory—includes a distinctive phenomenal marker: the felt sense of pastness. When you remember your wedding day, it arrives tagged as having-happened. This isn't inferred but immediately present—a quale, directly given. De Brigard (2020) analyzes this as an "epistemic feeling"—a metacognitive state that tracks source and reliability. Functionalists will note this framing is compatible with their view: the feeling of pastness could be a cognitive marker rather than an irreducible quale. The Map's dualist perspective maintains that even if the feeling *functions* as a marker, its phenomenal character—what it is like to experience pastness—remains irreducible to the marking function.
 
 Future simulation differs categorically. The imagined future feels *constructed* rather than *contacted*. Even vivid future simulation—detailed imagery, emotional engagement—lacks the quality of having-been-there. Neuroimaging confirms this: future simulation produces greater hippocampal activation than memory retrieval. The extra constructive work is phenomenologically manifest.
 
@@ -73,7 +76,7 @@ This void reveals that **consciousness operates through traces**—we are aware 
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] might argue that the "pastness quale" is a functional marker rather than a genuine phenomenal property. Three responses preserve the void framework:
+[[illusionism|Illusionists]] and [[functionalism|functionalists]] might argue that the "pastness quale" is a functional marker rather than a genuine phenomenal property. Three responses preserve the void framework:
 
 First, to experience the illusion of pastness, something must experience it. The illusionist relocates the quale from "pastness itself" to "seeming pastness," but seeming is still experiencing.
 
@@ -105,9 +108,9 @@ This void connects to all five [[tenets]]:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]:** Consciousness selecting among quantum possibilities operates from present toward future, not future toward present. The void reflects the direction in which selection can work.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]:** Consciousness can act toward futures but can only know pasts. We remember what has caused us; we act toward what we will cause. The impossibility of pre-experience is the impossibility of epistemic access running futureward.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]:** Consciousness can act toward futures but can only know pasts. We remember what has caused us; we act toward what we will cause. This connects to [[free-will]]: we deliberate about futures precisely because our causal influence runs futureward, while we have only epistemic access to the past. The impossibility of pre-experience is the impossibility of epistemic access running futureward.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]:** Memory presupposes a single actual past—when you remember your wedding, you remember it as having actually occurred, not as one branch among many. The Map's single-history metaphysics makes the asymmetry comprehensible: we can't pre-experience the future because it doesn't exist yet.
+**[[tenets#^no-many-worlds|No Many Worlds]]:** Memory presupposes a single actual past—when you remember your wedding, you remember it as having actually occurred, not as one branch among many. An MWI defender might reply that branch-relative memory works fine: in your branch, your wedding did actually occur. The Map responds that the *feeling of actuality* built into the pastness quale points to genuine metaphysical uniqueness, not mere indexical location within a branching structure. The Map's single-history metaphysics makes the asymmetry comprehensible: we can't pre-experience the future because it doesn't exist yet.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]:** A simpler universe might have time-symmetric cognition. That our minds are asymmetric suggests reality has structure that simple physical description misses.
 

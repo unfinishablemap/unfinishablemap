@@ -61,12 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from integrated-information-theory-critique.md)
 - **Generated**: 2026-01-28
 
-### P2: Deep review temporal-asymmetry-remembering-anticipating.md
-- **Type**: deep-review
-- **Notes**: PROMOTED. AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the asymmetry between remembering (re-experiencing the past) and anticipating (only imagining the future). Pre-experience appears structurally impossible. Should verify: (1) accuracy of causal trace arguments, (2) connection to duration.md and temporal-consciousness.md, (3) alignment with voids framework, (4) engagement with philosophical literature on temporal phenomenology. Important: synergizes with new past-self-void work.
-- **Source**: staleness
-- **Generated**: 2026-01-28
-
 ### P3: Cross-review functionalism.md considering IIT critique
 - **Type**: cross-review
 - **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) argues IIT is epiphenomenalism by another name. Functionalism also faces questions about consciousness's causal role. Check functionalism.md for: (1) cross-links to IIT critique, (2) whether functionalism handles the passivity objection differently than IIT, (3) connection between the expander graph problem and multiple realizability.
@@ -798,6 +792,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Deep review temporal-asymmetry-remembering-anticipating.md
+- **Type**: deep-review
+- **Notes**: PROMOTED. AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the asymmetry between remembering (re-experiencing the past) and anticipating (only imagining the future). Pre-experience appears structurally impossible. Should verify: (1) accuracy of causal trace arguments, (2) connection to duration.md and temporal-consciousness.md, (3) alignment with voids framework, (4) engagement with philosophical literature on temporal phenomenology. Important: synergizes with new past-self-void work.
+- **Output**: obsidian/voids/temporal-asymmetry-remembering-anticipating.md
 
 ### ✓ 2026-01-29: Deep review other-minds-void.md
 - **Type**: deep-review
