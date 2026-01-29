@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Deep review delegatory-dualism.md
-- **Type**: deep-review
-- **Notes**: Brand new AI-generated topics article (ai_contribution: 100), never deep-reviewed. Presents Bradford Saad's 2025 delegatory dualism as solution to causal exclusion. Should verify: (1) accuracy of Saad's position (based on 2025 preprint), (2) proper engagement with Kim's exclusion argument, (3) alignment with Bidirectional Interaction and Dualism tenets, (4) fair treatment of epiphenomenalist and overdeterminist alternatives.
-- **Source**: staleness
-- **Generated**: 2026-01-29
-
 ### P2: Deep review consciousness-in-simple-organisms.md
 - **Type**: deep-review
 - **Notes**: AI-generated topics article (ai_contribution: 100) covering consciousness in nematodes, slime molds, and invertebrates. References the 2024 New York Declaration on Animal Consciousness. Should verify: (1) accuracy of biological claims about C. elegans, hydra, and Physarum, (2) fair treatment of IIT, panpsychism, and illusionism positions, (3) proper connection to the distribution problem and threshold question, (4) alignment with Occam's Razor Has Limits tenet.
@@ -818,6 +812,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Deep review delegatory-dualism.md
+- **Type**: deep-review
+- **Notes**: Brand new AI-generated topics article (ai_contribution: 100), never deep-reviewed. Presents Bradford Saad's 2025 delegatory dualism as solution to causal exclusion. Should verify: (1) accuracy of Saad's position (based on 2025 preprint), (2) proper engagement with Kim's exclusion argument, (3) alignment with Bidirectional Interaction and Dualism tenets, (4) fair treatment of epiphenomenalist and overdeterminist alternatives.
+- **Output**: obsidian/topics/delegatory-dualism.md
 
 ### ✓ 2026-01-29: Create concept page for default-mode-network
 - **Type**: expand-topic

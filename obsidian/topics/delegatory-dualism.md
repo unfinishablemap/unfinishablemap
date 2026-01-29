@@ -4,7 +4,7 @@ description: "Bradford Saad's 2025 theory explains how consciousness causes beha
 created: 2026-01-29
 modified: 2026-01-29
 human_modified:
-ai_modified: 2026-01-29T20:30:00+00:00
+ai_modified: 2026-01-29T21:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-29
 last_curated:
-last_deep_review: 2026-01-29T20:30:00+00:00
+last_deep_review: 2026-01-29T21:45:00+00:00
 ---
 
 Delegatory dualism is Bradford Saad's 2025 solution to the causal exclusion problem—the challenge of how consciousness can cause physical effects without overdetermining outcomes that already have sufficient physical causes. The core insight: physical brain states *delegate* their causal responsibilities to conscious experiences that share their causal profiles. When you wince from pain, the pain causes the wince by taking over causal work the physical state would otherwise perform. No overdetermination occurs because the physical state's contribution is preempted, not duplicated.
@@ -41,7 +41,7 @@ Previous responses accepted one horn or the other:
 - **Epiphenomenalists** accept that experiences don't cause physical effects—they're merely along for the ride
 - **Overdeterminists** accept systematic overdetermination as the price of mental causation
 
-Saad rejects both. Epiphenomenalism is self-undermining (if consciousness causes nothing, we have no reason to trust our reports about consciousness). [[illusionism|Illusionists]] respond that sophisticated self-models could generate accurate reports without phenomenal causation—but this trades the hard problem for an equally hard "illusion problem," since representing oneself as conscious presupposes something it is like to have that representation. Overdetermination posits redundant causation without explaining why. Delegatory dualism offers a third option: experiences genuinely cause physical effects by *taking over* causal work, not duplicating it.
+Saad rejects both. Epiphenomenalism is self-undermining (if consciousness causes nothing, we have no reason to trust our reports about consciousness). [[illusionism|Illusionists]] respond that sophisticated self-models could generate accurate reports without phenomenal causation—but this trades the hard problem for an equally hard "illusion problem," since representing oneself as conscious presupposes something it is like to have that representation. Even heterophenomenology—Dennett's method of studying consciousness through third-person observation of reports—must identify which behaviors count as "conscious reports," a categorization that implicitly relies on phenomenal concepts. Overdetermination posits redundant causation without explaining why. Delegatory dualism offers a third option: experiences genuinely cause physical effects by *taking over* causal work, not duplicating it.
 
 ## Five Constraints on Dualist Theories
 
