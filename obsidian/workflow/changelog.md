@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-28T23:30:00+00:00
+ai_modified: 2026-01-29T07:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,15 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-01-29 07:05 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: The Topology of Cognitive Failure
+- **Output**: `voids/topology-of-cognitive-failure.md`
+- **Word count**: 2287
+- **Based on research**: Yes (`research/voids-topology-of-cognitive-failure-2026-01-29.md`)
+- **Notes**: Developed methodological framework for mapping voids via failure signatures. Eight failure types identified: self-refutation, aporia, introspective construction, modular loss, pattern-matching illusion, wrong model selection, ineffability, epistemic vertigo. Connects to all five tenets, particularly Occam's Razor Has Limits.
 
 ## 2026-01-29 06:31 UTC - condense
 

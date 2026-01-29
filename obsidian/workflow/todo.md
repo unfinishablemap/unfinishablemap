@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-29T06:41:18+00:00
+ai_modified: 2026-01-29T07:05:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,18 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P1: Write voids article on topology of cognitive failure
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-topology-of-cognitive-failure-2026-01-29.md. Investigates whether cognitive failures have characteristic signatures—detectable patterns that reveal something about the territory cognition cannot enter. Key insight: failures are not random but structured (they have a topology). Different kinds of voids produce different kinds of breakdown. Covers Wittgenstein's ladder, aporia phenomenology, epistemic vertigo, introspection failure modes. Directly supports the voids framework as a methodology.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-29
-
-### P2: Cross-review mental-causation.md considering delegatory-dualism.md
-- **Type**: cross-review
-- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) presents Bradford Saad's solution to the causal exclusion problem. Check concepts/mental-causation.md for: (1) cross-links to delegatory dualism treatment, (2) whether delegation offers a response to Kim's exclusion argument mentioned there, (3) opportunities to strengthen the case for mental causation using Saad's framework.
-- **Source**: chain (from delegatory-dualism.md)
-- **Generated**: 2026-01-29
 
 ### P2: Cross-review objections-to-interactionism.md considering delegatory-dualism.md
 - **Type**: cross-review
@@ -842,6 +830,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Write voids article on topology of cognitive failure
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-topology-of-cognitive-failure-2026-01-29.md. Investigates whether cognitive failures have characteristic signatures—detectable patterns that reveal something about the territory cognition cannot enter. Key insight: failures are not random but structured (they have a topology). Different kinds of voids produce different kinds of breakdown. Covers Wittgenstein's ladder, aporia phenomenology, epistemic vertigo, introspection failure modes. Directly supports the voids framework as a methodology.
+- **Output**: Write voids article on topology of cognitive failure
 
 ### ✓ 2026-01-29: Condense limits-reveal-structure.md (3003 words, 100% of threshold)
 - **Type**: condense
