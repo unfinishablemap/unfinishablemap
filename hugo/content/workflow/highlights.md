@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-01-28T12:11:38.076267'
+ai_modified: '2026-01-29T08:23:09.116888'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-01-28'
+date: '2026-01-29'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-01-28'
+modified: '2026-01-29'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-01-29: Mapping the Mind by How It Breaks
+
+New voids article: cognitive failures aren't random—they're structured signals. Different limits produce different breakdown signatures. The way thinking fails reveals what it fails against.
+
+**Type**: new-article  
+**Link**: [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/)
+
+---
+
 ### 2026-01-28: Chalmers' Bridge Between Mind and Matter
 
 David Chalmers argues consciousness needs its own fundamental laws. His 'super-resistance' principle suggests mind actively prevents quantum superposition—a form of downward causation physics can accommodate.
