@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review voids.md considering origin-of-consciousness.md
-- **Type**: cross-review
-- **Notes**: New voids article voids/origin-of-consciousness.md (2026-01-29) introduces the origin void—arguably the deepest void in the framework. Check voids.md section index for: (1) cross-links to origin void, (2) whether the taxonomy properly places origin questions, (3) updating the overview to mention this fundamental void.
-- **Source**: chain (from origin-of-consciousness.md)
-- **Generated**: 2026-01-29
-
 ### P3: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
 - **Type**: cross-review
 - **Notes**: New concept page concepts/default-mode-network.md (2026-01-29) discusses DMN suppression during meditation. Check meditation-and-consciousness-modes.md for: (1) cross-links to the DMN neurobiological treatment, (2) whether the DMN framework explains meditation state transitions, (3) opportunities to connect contemplative phenomenology with neuroscience.
@@ -822,6 +816,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review voids.md considering origin-of-consciousness.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/origin-of-consciousness.md (2026-01-29) introduces the origin void—arguably the deepest void in the framework. Check voids.md section index for: (1) cross-links to origin void, (2) whether the taxonomy properly places origin questions, (3) updating the overview to mention this fundamental void.
+- **Output**: obsidian/voids/voids.md -- Context: Cross-review voids.md considering origin-of-consciousness.md
 
 ### ✓ 2026-01-29: Cross-review voluntary-attention.md considering attention-motor-quantum-interface.md
 - **Type**: cross-review
