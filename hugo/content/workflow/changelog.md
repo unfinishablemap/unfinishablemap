@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-28 23:30:00+00:00
+ai_modified: 2026-01-29 07:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -17,6 +17,33 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-01-29 08:21 UTC - apex-evolve
+
+- **Status**: Success
+- **Article**: consciousness-and-agency
+- **Changed sources**: 1 (topics/free-will)
+- **Word count**: 3066 → 3346
+- **Review**: `reviews/apex-evolve-2026-01-29-consciousness-and-agency.md`
+- **Notes**: Integrated Sjöberg (2024) surgical resection evidence strengthening Libet counter-argument. Added new "Counterfactual Reasoning and Deliberation" section connecting to Bischof-Köhler hypothesis. Added phenomenology-of-choice and Desmurget neurosurgical studies. Consolidated redundant mutual-support discussions. Added two new source references.
+
+## 2026-01-29 07:05 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: The Topology of Cognitive Failure
+- **Output**: `voids/topology-of-cognitive-failure.md`
+- **Word count**: 2287
+- **Based on research**: Yes (`research/voids-topology-of-cognitive-failure-2026-01-29.md`)
+- **Notes**: Developed methodological framework for mapping voids via failure signatures. Eight failure types identified: self-refutation, aporia, introspective construction, modular loss, pattern-matching illusion, wrong model selection, ineffability, epistemic vertigo. Connects to all five tenets, particularly Occam's Razor Has Limits.
+
+## 2026-01-29 06:31 UTC - condense
+
+- **Status**: Success
+- **File**: `voids/limits-reveal-structure.md`
+- **Before**: 3003 words
+- **After**: 1716 words
+- **Reduction**: 43%
+- **Technique**: Removed tangential Process Philosophy section (could be its own article), heavily condensed AI as Asymmetric Probe (redundant with voids main article), trimmed Evidence section redundancy, tightened Illusionist Challenge responses, streamlined Relation to Site Perspective and What Would Challenge sections. Preserved core limits-reveal-structure thesis, all tenet connections, and cross-links.
 
 ## 2026-01-29 06:30 UTC - research-voids
 

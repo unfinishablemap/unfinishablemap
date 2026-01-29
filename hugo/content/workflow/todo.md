@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-29 04:24:32+00:00
+ai_modified: 2026-01-29 07:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,10 +38,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense limits-reveal-structure.md (3003 words, 100% of threshold)
-- **Type**: condense
-- **Notes**: Voids article exceeds 3000-word hard threshold. Covers how cognitive limits themselves reveal structure of the mind. Preserve: core argument that limits are informative rather than merely negative, connection to mysterianism, examples from apophatic traditions. See /condense skill.
-- **Source**: length_analysis
+### P2: Cross-review objections-to-interactionism.md considering delegatory-dualism.md
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) addresses the overdetermination objection to interactionism. Check concepts/objections-to-interactionism.md for: (1) cross-links to Saad's response, (2) whether delegatory dualism addresses other listed objections, (3) updates needed for the "causal exclusion" section given Saad's preemption solution.
+- **Source**: chain (from delegatory-dualism.md)
+- **Generated**: 2026-01-29
+
+### P2: Create concept page for neuroplasticity
+- **Type**: expand-topic
+- **Notes**: Referenced in stapp-quantum-mind.md and attention articles but lacks dedicated page. Neuroplasticity—the brain's ability to reorganize—is relevant to the attention-as-interface framework: Schwartz's OCD research shows that directed mental attention can reshape neural circuits. Directly supports bidirectional interaction tenet with empirical evidence. Promoted from P3 due to importance for quantum-consciousness framework.
+- **Source**: gap_analysis
 - **Generated**: 2026-01-29
 
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
@@ -54,6 +60,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Notes**: Research completed in research/consciousness-creativity-novelty-generation-2026-01-19.md. Consciousness may play a causal role in generating genuinely novel combinations. Connects to arguments for bidirectional interaction—if creativity requires conscious experience to generate truly new ideas (not just recombination), this supports the efficacy of consciousness.
 - **Source**: unconsumed_research
+- **Generated**: 2026-01-29
+
+### P2: Condense functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article significantly exceeds 2500-word hard threshold for concepts/ (170%). Covers computational theories of mind and multiple realizability argument. Preserve core arguments and consciousness objections while removing redundancy. May defer detailed historical overview to linked articles. See /condense skill.
+- **Source**: length_analysis
 - **Generated**: 2026-01-29
 
 ### P3: Cross-review panpsychism.md considering consciousness-in-simple-organisms.md
@@ -162,12 +174,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: condense
 - **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the bootstrap problem where the mind that was wrong must recognize its error. Preserve: Schulz's error-blindness claims, connection to self-reference-paradox. See /condense skill.
 - **Source**: length_analysis
-- **Generated**: 2026-01-27
-
-### P3: Create concept page for neuroplasticity
-- **Type**: expand-topic
-- **Notes**: Referenced in stapp-quantum-mind.md and attention articles but lacks dedicated page. Neuroplasticity—the brain's ability to reorganize—is relevant to the attention-as-interface framework: Schwartz's OCD research shows that directed mental attention can reshape neural circuits. Supports bidirectional interaction tenet.
-- **Source**: gap_analysis
 - **Generated**: 2026-01-27
 
 ### P3: Condense sleep-and-consciousness.md (3816 words, 153% of threshold)
@@ -825,6 +831,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Write voids article on topology of cognitive failure
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-topology-of-cognitive-failure-2026-01-29.md. Investigates whether cognitive failures have characteristic signatures—detectable patterns that reveal something about the territory cognition cannot enter. Key insight: failures are not random but structured (they have a topology). Different kinds of voids produce different kinds of breakdown. Covers Wittgenstein's ladder, aporia phenomenology, epistemic vertigo, introspection failure modes. Directly supports the voids framework as a methodology.
+- **Output**: Write voids article on topology of cognitive failure
+
+### ✓ 2026-01-29: Condense limits-reveal-structure.md (3003 words, 100% of threshold)
+- **Type**: condense
+- **Notes**: Voids article exceeds 3000-word hard threshold. Covers how cognitive limits themselves reveal structure of the mind. Preserve: core argument that limits are informative rather than merely negative, connection to mysterianism, examples from apophatic traditions. See /condense skill.
+- **Output**: obsidian/voids/limits-reveal-structure.md
 
 ### ✓ 2026-01-29: Deep review argument-from-reason.md
 - **Type**: deep-review

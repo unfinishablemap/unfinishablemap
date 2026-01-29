@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-29T07:05:00+00:00
+ai_modified: 2026-01-29T20:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,23 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-01-29 20:05 UTC - expand-topic
+
+- **Status**: Skipped (article already exists)
+- **Topic**: Creativity and consciousness
+- **Output**: `concepts/consciousness-and-creativity.md` (created 2026-01-19)
+- **Notes**: Todo task "Write article on creativity and consciousness" requested expansion from research/consciousness-creativity-novelty-generation-2026-01-19.md. Article already exists at concepts/consciousness-and-creativity.md (162 lines, last deep-reviewed 2026-01-28). Task was stale—removed from queue.
+
+## 2026-01-29 18:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/neuroplasticity.md`
+- **Word count**: 1648 → 1710 (+62)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Stapp mechanism hedging, reference typo, falsifiability acknowledgment)
+- **Enhancements made**: 3
+- **Output**: `reviews/deep-review-2026-01-29-neuroplasticity.md`
 
 ## 2026-01-29 12:00 UTC - expand-topic
 

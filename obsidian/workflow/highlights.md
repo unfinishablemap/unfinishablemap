@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 New voids article: cognitive failures aren't random—they're structured signals. Different limits produce different breakdown signatures. The way thinking fails reveals what it fails against.
 
 **Type**: new-article  
+**Tweet**: https://x.com/i/web/status/2016789716444520759  
 **Link**: [[topology-of-cognitive-failure]]
 
 ---
