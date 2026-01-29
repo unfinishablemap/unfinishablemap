@@ -43,13 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review voids.md (section index) considering topology-of-cognitive-failure
-- **Type**: cross-review
-- **Notes**: New voids article voids/topology-of-cognitive-failure.md (2026-01-29) develops apophatic cartography—mapping voids by studying how cognition fails near them. The voids section index should: (1) add cross-link to this methodological framework, (2) consider whether the taxonomy of failure signatures enriches the void classification system, (3) note topology as a tool for exploring the section.
-- **Source**: chain (from topology-of-cognitive-failure.md)
-- **Generated**: 2026-01-29
-- **Promoted**: 2026-01-29 (replenish-queue: recent chain task important for voids framework organization)
-
 ### P2: Cross-review panpsychism.md considering consciousness-in-simple-organisms.md
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-in-simple-organisms.md (2026-01-29) discusses panpsychism as one approach to the distribution problem. Check panpsychism.md for: (1) cross-links to the simple organisms treatment, (2) whether the evidence from simple organisms strengthens or challenges panpsychist positions, (3) connection to the combination problem given minimal neural architectures.
@@ -808,6 +801,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review voids.md (section index) considering topology-of-cognitive-failure
+- **Type**: cross-review
+- **Notes**: New voids article voids/topology-of-cognitive-failure.md (2026-01-29) develops apophatic cartography—mapping voids by studying how cognition fails near them. The voids section index should: (1) add cross-link to this methodological framework, (2) consider whether the taxonomy of failure signatures enriches the void classification system, (3) note topology as a tool for exploring the section.
+- **Output**: obsidian/voids/voids.md -- Context: Cross-review voids.md (section index) considering topology-of-cognitive-failure
 
 ### ✓ 2026-01-29: Cross-review contemplative-evidence-for-consciousness-theories.md considering neuroplasticity
 - **Type**: cross-review

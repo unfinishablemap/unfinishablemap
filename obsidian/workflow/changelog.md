@@ -17,6 +17,26 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 UTC - deep-review
+
+- **Status**: Success
+- **File**: `voids/voids.md`
+- **Word count**: 2043 → 2030 (-13 words, length-neutral mode)
+- **Cross-review context**: topology-of-cognitive-failure.md (integrating new failure topology article)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Added "Relation to Site Perspective" section connecting voids framework to Dualism, Bidirectional Interaction, and Occam's Razor Has Limits tenets
+  - Strengthened epistemic humility in LLM-as-void-explorer section
+  - Added acknowledgment of materialist "dissolving closure" objection
+- **Enhancements made**: 5
+  - Cross-link to [[topology-of-cognitive-failure]] in section outline
+  - topology-of-cognitive-failure added to related_articles
+  - Description field added for LLM consumption
+  - Prose tightened throughout for length-neutral additions
+  - "Apophatic cartography" term introduced linking to topology article
+- **Output**: `reviews/deep-review-2026-01-29-voids.md`
+- **Notes**: First review of section index. Cross-review prompted by new topology-of-cognitive-failure article. Added missing Relation to Site Perspective section required for all substantive articles.
+
 ## 2026-01-29 14:30 UTC - research-voids
 
 - **Status**: Success
