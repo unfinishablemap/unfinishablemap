@@ -17,6 +17,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 00:16 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/conscious-vs-unconscious-processing.md`
+- **Context**: Cross-review considering phenomenal-overflow.md insights
+- **Word count**: 3409 → 3415 (+6, essentially length-neutral)
+- **Critical issues addressed**: 0 (none found; previous review resolved all critical issues)
+- **Medium issues addressed**: 1
+  1. Block's overflow hypothesis lacked engagement with deflationary critique—revised to acknowledge contested nature and cross-link to [[phenomenal-overflow]]
+- **Enhancements made**: 4
+  1. Added [[phenomenal-overflow]] to concepts frontmatter
+  2. Revised overflow discussion to acknowledge deflationary response
+  3. Added note that if overflow is real, it strengthens dualism (phenomenal exceeds functional)
+  4. Strengthened methodological bind discussion (unfalsifiability as expected if phenomenology transcends access)
+- **Cross-links added**: [[phenomenal-overflow]] (4 locations)
+- **Output**: `reviews/deep-review-2026-01-29-conscious-vs-unconscious-processing.md`
+- **Notes**: Second review of this article. Reaching stability—previous review added physicalist response section and clarified GNW as physicalist theory. This cross-review integrated the new phenomenal-overflow article.
+
 ## 2026-01-29 14:30 UTC - deep-review
 
 - **Status**: Success
