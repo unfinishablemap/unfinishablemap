@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-29T07:05:00+00:00
+ai_modified: 2026-01-29T23:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -771,6 +771,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29 (evening). The argument that misrepresentation presupposes presentation appears throughout the Map but deserves systematic development. Central to responding to illusionism—the strongest physicalist position.
 - **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P1: Fix accuracy errors in delegatory-dualism.md (Many-Worlds, default causal profile, testability)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-01-29. Verified against PMC source. Three correctness issues: (1) Article claims Saad's theory "presupposes collapse-based quantum mechanics" and requires MWI rejection—Saad doesn't discuss Many-Worlds; quantum is treated as a separate mechanism route. (2) Subset Law* omits "default causal profile" which is central to avoiding overdetermination. (3) Testability section overstates—Saad admits "same predictive boat" as other views. Also change "substance dualism" → "interactionist dualism" (Saad doesn't commit to substance dualism).
+- **Review file**: `reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-01-29
+
+### P1: Separate Saad exposition from Map integration in delegatory-dualism.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-01-29. The interleaving of Saad's actual claims with Map-specific quantum integration creates attribution confusion. Restructure into: (1) Saad's problem, (2) Saad's constraints, (3) Saad's laws, (4) What Saad claims—then (5) clearly marked "Map Integration" section for quantum interactionism connections. The illusionism/Dennett critique should be labeled as Map commentary or removed.
+- **Review file**: `reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-01-29
+
+### P1: Add direct quotes for Observational Closure and Subset Law* in delegatory-dualism.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-01-29. The page paraphrases load-bearing definitions without showing Saad's formulations. Add short quote callouts (≤25 words): (1) "Observational Closure: There are no observable violations of Closure." (2) Subset Law* with "default causal profile" explicit. (3) Delegatory Law preemption formulation.
+- **Review file**: `reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-01-29
+
+### P2: Update causal-closure.md with Observational Closure distinction
+- **Type**: cross-review
+- **Notes**: From outer review 2026-01-29. Saad's distinction between universal Closure and Observational Closure is directly relevant to the causal closure page. Add a subsection: "Observational Closure (Saad 2025)" with the exact definition and explanation of why it blocks a common anti-interactionist argument. Cross-link to delegatory-dualism.md.
+- **Review file**: `reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-01-29
+
+### P2: Update mental-causation.md with delegation and preemption framework
+- **Type**: cross-review
+- **Notes**: From outer review 2026-01-29. Add subsection "Delegation and Preemption (Saad 2025)" with the major/sergeant analogy and default causal profiles explanation. The Delegatory Law provides a clean "preemption not overdetermination" story relevant to mental causation. Cross-link to delegatory-dualism.md.
+- **Review file**: `reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md`
+- **Source**: outer-review
 - **Generated**: 2026-01-29
 
 ## Completed Tasks

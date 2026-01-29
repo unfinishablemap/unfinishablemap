@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 23:30 UTC - outer-review
+
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.2 Pro (OpenAI)
+- **File**: `reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md`
+- **Article reviewed**: `topics/delegatory-dualism.md`
+- **Claims verified**: 6 (all confirmed against PMC source)
+- **High-value findings**: 7
+- **Tasks generated**: 5 (P1: 3, P2: 2)
+- **Notes**: High-quality external review. Identified real attribution and accuracy issues: (1) Many-Worlds/collapse claims wrongly attributed to Saad, (2) "default causal profile" omitted from Subset Law*, (3) testability overstated, (4) "substance dualism" should be "interactionist dualism", (5) Saad exposition vs Map integration interleaved causing confusion.
+
 ## 2026-01-29 09:24 UTC - deep-review
 
 - **Status**: Success
