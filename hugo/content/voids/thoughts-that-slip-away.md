@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-01-27 15:45:00+00:00
+ai_modified: 2026-01-29 19:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,12 +9,13 @@ concepts:
 - '[[illusionism]]'
 - '[[introspection]]'
 - '[[decoherence]]'
+- '[[attention]]'
 created: 2026-01-13
 date: &id001 2026-01-20
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 15:00:00+00:00
+last_deep_review: 2026-01-29 19:40:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -59,6 +60,12 @@ With ordinary forgetting, we notice the gap. We know we've forgotten the name, t
 The phenomena above have identified mechanisms. Neural fatigue, MCH neuron activation, retrieval interference, monitoring processes—science explains why thoughts slip. These are limitations of cognitive architecture, not evidence of occluded content.
 
 But the [voids](/voids/) framework asks: do these mechanisms exhaust the phenomenon? Might some slippage resist ordinary explanation?
+
+### Attention-Produced Slippage
+
+Recent research on attention reveals a possibility beyond passive forgetting: attention may *create* slippage through its own operation. The attentional spotlight doesn't merely illuminate—it actively suppresses its penumbra, the surrounding zone. William James observed that consciousness has "fringes" that cannot become focal without ceasing to be fringes. Gurwitsch's field theory distinguishes theme, thematic field, and margin—with marginal contents following different organizational principles that prevent their becoming thematic.
+
+The implication: some thoughts may slip not because they escape our grasp but because our grasp *produces* their slippage. Attending to one aspect of an insight necessarily pushes other aspects into the suppressed surround. The thought that slips away may be the thought that attention, in its act of capturing something, had to release. This transforms slippage from failure of retention into structural necessity—attention's figure-ground architecture requires that something be ground, and ground-thoughts vanish when we try to make them figural.
 
 Several patterns suggest investigation:
 

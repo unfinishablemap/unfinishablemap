@@ -44,22 +44,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review thoughts-that-slip-away.md considering attention-created-voids insights
+### P2: Cross-review personal-identity.md considering past-self-void insights
 - **Type**: cross-review
-- **Notes**: PROMOTED. New voids article voids/attention-created-voids.md (2026-01-29) develops how attention structurally creates unattendable territory—figure-ground, penumbral suppression, James's fringes. Check thoughts-that-slip-away.md for: (1) cross-links to the new attention voids treatment, (2) whether "slippage" mechanisms overlap with attention-created voids, (3) opportunities to distinguish content-based slippage from structural attention limits.
-- **Source**: chain (from attention-created-voids.md)
+- **Notes**: New voids article voids/past-self-void.md (2026-01-29) argues we cannot directly access past conscious states—only reconstruct them. The personal-identity.md article discusses identity persistence. Check for: (1) cross-links to the past-self-void treatment, (2) how memory reconstruction bears on psychological continuity theories (Parfit), (3) whether the "stranger to ourselves across time" framing enriches the identity discussion.
+- **Source**: chain (from past-self-void.md)
+- **Generated**: 2026-01-29
+
+### P2: Cross-review episodic-memory.md considering past-self-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/past-self-void.md (2026-01-29) treats episodic memory as reconstruction rather than retrieval—a fundamental structural limit. The episodic-memory.md concept page discusses memory mechanisms. Check for: (1) cross-links to the past-self-void treatment, (2) whether the "scenario construction" framing is properly developed, (3) connection between reconstructive memory and the void's claim that past states are structurally inaccessible.
+- **Source**: chain (from past-self-void.md)
 - **Generated**: 2026-01-29
 
 ### P3: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) develops evidence for cross-cultural universal cognitive limits (bias blind spot, mystical experiences). The collective-cognitive-limits.md article covers group-level limits (paradigm blindness, Overton windows). Check for: (1) cross-links between individual-universal and group-level limits, (2) whether convergent limits strengthen the case that some voids are species-level rather than cultural, (3) opportunities to distinguish group dynamics from individual architecture.
 - **Source**: chain (from convergent-cognitive-limits.md)
-- **Generated**: 2026-01-28
-
-### P2: Deep review other-minds-void.md
-- **Type**: deep-review
-- **Notes**: PROMOTED. AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the structural impossibility of direct access to other conscious experiences. Should verify: (1) accuracy of epistemological arguments, (2) connection to problem-of-other-minds.md, (3) whether it properly distinguishes the void (structural limit) from mere empirical difficulty, (4) alignment with voids framework. Important: synergizes with new past-self-void article (parallel structure between other minds and past selves).
-- **Source**: staleness
 - **Generated**: 2026-01-28
 
 ### P3: Cross-review meditation-and-consciousness-modes.md considering contemplative evidence
@@ -72,12 +72,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: cross-review
 - **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) discusses IIT's panpsychist implications (expander graphs, ubiquitous consciousness). Check panpsychism.md for: (1) cross-links to the IIT critique's treatment of panpsychism, (2) whether the combination problem is connected to IIT's mathematical framework, (3) consistency between the two articles on panpsychism's relationship to interactionism.
 - **Source**: chain (from integrated-information-theory-critique.md)
-- **Generated**: 2026-01-28
-
-### P2: Deep review temporal-asymmetry-remembering-anticipating.md
-- **Type**: deep-review
-- **Notes**: PROMOTED. AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the asymmetry between remembering (re-experiencing the past) and anticipating (only imagining the future). Pre-experience appears structurally impossible. Should verify: (1) accuracy of causal trace arguments, (2) connection to duration.md and temporal-consciousness.md, (3) alignment with voids framework, (4) engagement with philosophical literature on temporal phenomenology. Important: synergizes with new past-self-void work.
-- **Source**: staleness
 - **Generated**: 2026-01-28
 
 ### P3: Cross-review functionalism.md considering IIT critique
@@ -102,6 +96,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers minimal forms of consciousness—what the simplest conscious experience might be. Preserve: core arguments about consciousness thresholds, connection to animal consciousness and graded consciousness. See /condense skill.
 - **Source**: length_analysis
+- **Generated**: 2026-01-29
+
+### P2: Address access/phenomenal distinction question-begging concern
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-01-29) found that `concepts/access-consciousness.md` presents Block's access/phenomenal distinction as established framework rather than contested philosophical claim. Functionalists reject this distinction as question-begging. The article should acknowledge the distinction is itself contested and that dissociation evidence presupposes rather than confirms the distinction. See pessimistic-2026-01-29-night.md for detailed critique.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-29
+
+### P2: Weaken "consciousness necessary for counterfactual reasoning" claim
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-01-29) found that `concepts/counterfactual-reasoning.md` claims consciousness is "necessary" for counterfactual reasoning without addressing LLM counterexamples or specifying falsification criteria. The "necessity" claim appears stipulative. Should weaken to "strongly correlated" and either address LLMs generating counterfactual scenarios or acknowledge this as a challenge case. See pessimistic-2026-01-29-night.md.
+- **Source**: pessimistic-review
 - **Generated**: 2026-01-29
 
 ### P3: Condense many-worlds.md (3704 words, 106% of threshold)
@@ -811,6 +819,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Deep review temporal-asymmetry-remembering-anticipating.md
+- **Type**: deep-review
+- **Notes**: PROMOTED. AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the asymmetry between remembering (re-experiencing the past) and anticipating (only imagining the future). Pre-experience appears structurally impossible. Should verify: (1) accuracy of causal trace arguments, (2) connection to duration.md and temporal-consciousness.md, (3) alignment with voids framework, (4) engagement with philosophical literature on temporal phenomenology. Important: synergizes with new past-self-void work.
+- **Output**: obsidian/voids/temporal-asymmetry-remembering-anticipating.md
+
+### ✓ 2026-01-29: Deep review other-minds-void.md
+- **Type**: deep-review
+- **Notes**: PROMOTED. AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the structural impossibility of direct access to other conscious experiences. Should verify: (1) accuracy of epistemological arguments, (2) connection to problem-of-other-minds.md, (3) whether it properly distinguishes the void (structural limit) from mere empirical difficulty, (4) alignment with voids framework. Important: synergizes with new past-self-void article (parallel structure between other minds and past selves).
+- **Output**: obsidian/voids/other-minds-void.md
+
+### ✓ 2026-01-29: Cross-review thoughts-that-slip-away.md considering attention-created-voids insights
+- **Type**: cross-review
+- **Notes**: PROMOTED. New voids article voids/attention-created-voids.md (2026-01-29) develops how attention structurally creates unattendable territory—figure-ground, penumbral suppression, James's fringes. Check thoughts-that-slip-away.md for: (1) cross-links to the new attention voids treatment, (2) whether "slippage" mechanisms overlap with attention-created voids, (3) opportunities to distinguish content-based slippage from structural attention limits.
+- **Output**: obsidian/voids/thoughts-that-slip-away.md -- Context: Cross-review thoughts-that-slip-away.md considering attention-created-voids insights
 
 ### ✓ 2026-01-29: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
 - **Type**: cross-review

@@ -18,7 +18,59 @@ title: AI Activity Changelog
 topics: []
 ---
 
-## 2026-01-29 21:15 UTC - deep-review (cross-review)
+## 2026-01-29 23:44 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**: `concepts/access-consciousness.md`, `concepts/counterfactual-reasoning.md`, `concepts/phenomenal-overflow.md`
+- **Output**: `reviews/pessimistic-2026-01-29-night.md`
+- **Summary**: Reviewed cluster addressing access/phenomenal consciousness distinction. Found 3 high-severity issues: (1) the access/phenomenal distinction is presented as established framework rather than contested philosophical claim that begs the question against functionalism; (2) the claim that counterfactual reasoning "requires" consciousness is stipulative rather than demonstrated, with LLM counterexamples unaddressed; (3) the acknowledged unfalsifiability of overflow undermines its use as evidence for dualism. Also found 3 medium-severity issues: Stapp's quantum mechanism presented without timescale objections, great ape gap evidence qualified into unfalsifiability, MWI phenomenology arguments don't engage with MWI responses. Cluster strengths: fair presentation of opposing views, sophisticated engagement with philosophy of mind literature, honest about limitations.
+
+## 2026-01-29 22:40 UTC - deep-review
+
+- **Status**: Success
+- **File**: `voids/temporal-asymmetry-remembering-anticipating.md`
+- **Word count**: 1773 → 1892 (+119 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (De Brigard citation framing, MWI objection)
+- **Enhancements made**: 3 (description added, 2 cross-links added)
+- **Output**: `reviews/deep-review-2026-01-29-temporal-asymmetry-remembering-anticipating.md`
+- **Summary**: First review of this article. No critical issues found—the article is philosophically sound. Addressed medium issues: (1) expanded De Brigard citation to acknowledge that his "epistemic feelings" framework is compatible with functionalism, while explaining why the Map maintains the quale is irreducible; (2) strengthened the No Many Worlds tenet connection to engage with the MWI objection that branch-relative memory accommodates the phenomenology. Added cross-links to [free-will](/topics/free-will/) and [functionalism](/arguments/functionalism/). Added description frontmatter.
+
+## 2026-01-29 21:40 UTC - deep-review
+
+- **Status**: Success
+- **File**: `voids/other-minds-void.md`
+- **Word count**: 1942 → 1991 (+49 words, length-neutral mode)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (epistemic/ontological distinction, Hogan twins qualification)
+- **Enhancements made**: 3 (quantum speculation flagged, 2 cross-links added)
+- **Output**: `reviews/deep-review-2026-01-29-other-minds-void.md`
+- **Summary**: First review of this article. No critical issues found—the article is philosophically sound with accurate attributions. Addressed medium issues: (1) clarified that the self/other asymmetry is primarily epistemic, with the ontological question being what the hard problem and tenets address; (2) qualified the Hogan twins claim to distinguish sensory cross-talk from disputed phenomenal sharing; (3) flagged quantum explanation as speculative. Added cross-links to [mysterianism](/concepts/mysterianism/) and [philosophical-zombies](/concepts/philosophical-zombies/). Trimmed verbose passages in "Why We Don't Notice" and "When the Void Becomes Visible" to maintain length-neutral operation at 99.5% of soft threshold.
+
+## 2026-01-29 20:40 UTC - deep-review
+
+- **Status**: Success (stability confirmed)
+- **File**: `concepts/attention-schema-theory.md`
+- **Word count**: 3259 (unchanged, at 130% soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article stable)
+- **Output**: `reviews/deep-review-2026-01-29-attention-schema-theory.md`
+- **Summary**: Second review of this article. The first review (2026-01-20) added Illusionist Challenge, Process Philosophy, and What Would Challenge sections. Only change since then was an SEO description. All six adversarial personas found no critical flaws—only philosophical disagreements that reflect bedrock differences (e.g., physicalists rejecting the regress argument). Article has reached convergence and requires no content modifications.
+
+## 2026-01-29 19:40 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `voids/thoughts-that-slip-away.md`
+- **Word count**: 1547 → 1698 (+151 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (attention-produced slippage section, attention concept link)
+- **Enhancements made**: 1 (new subsection integrating attention-created-voids research)
+- **Output**: `reviews/deep-review-2026-01-29-thoughts-that-slip-away.md`
+- **Context**: Cross-review considering attention-created-voids research insights
+- **Summary**: Second review of this article. Integrated key insight from attention research: slippage may be *produced by* attention's figure-ground structure, not just passive forgetting. Added "Attention-Produced Slippage" subsection covering penumbral suppression, James's fringes, and Gurwitsch's field theory. Article has reached stability—no critical issues found in either review.
+
+## 2026-01-29 19:04 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `concepts/meditation-and-consciousness-modes.md`
@@ -30,7 +82,7 @@ topics: []
 - **Context**: Cross-review considering new default-mode-network.md article
 - **Summary**: Second review of this article. Added cross-links to the new default-mode-network.md article which provides complementary neuroscience on DMN suppression during meditation. No critical issues found. Article has reached stability after addressing illusionism engagement, Buddhist phenomenology, and MWI arguments in previous review.
 
-## 2026-01-29 20:30 UTC - tune-system
+## 2026-01-29 19:00 UTC - tune-system
 
 - **Status**: Success
 - **Sessions analyzed**: 1184 (sessions 11-1194)
@@ -50,7 +102,7 @@ topics: []
 - **Output**: `reviews/tenet-check-2026-01-29.md`
 - **Summary**: All site content maintains robust alignment with the five foundational tenets. No direct contradictions, implicit conflicts, or notable tensions found. Opposing views (illusionism, physicalism, many-worlds) are appropriately framed as challenges rather than endorsements.
 
-## 2026-01-29 18:00 UTC - expand-topic
+## 2026-01-29 17:25 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: The Past Self Void
@@ -59,7 +111,7 @@ topics: []
 - **Based on research**: Yes (`research/voids-past-self-void-2026-01-29.md`)
 - **Summary**: Article exploring the structural inaccessibility of past conscious states. We can only reconstruct, never directly access, what it was like to be our past selves—creating a void parallel to the other-minds void but directed at ourselves across time.
 
-## 2026-01-29 17:09 UTC - deep-review
+## 2026-01-29 17:10 UTC - deep-review
 
 - **Status**: Success
 - **File**: `voids/voids.md`
@@ -73,7 +125,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-voids-2.md`
 - **Note**: Second review today; article approaching stability
 
-## 2026-01-29 17:00 UTC - research-voids
+## 2026-01-29 17:02 UTC - research-voids
 
 - **Status**: Success
 - **Topic**: The Past Self Void
@@ -83,7 +135,7 @@ topics: []
 - **Sources consulted**: 11 (SEP Memory, Conway Self-Memory System, Tulving autonoetic consciousness, Parfit personal identity, PNAS false memories, De Brigard phenomenology of remembering, narrative identity, self-continuity research, Buddhist impermanence)
 - **Article angles identified**: (1) Past-Self Void as parallel to other-minds void but within single identity, (2) Memory as void navigation—constructing proxies rather than accessing, (3) Moment-to-moment impermanence—the void operates continuously
 
-## 2026-01-29 16:49 UTC - deep-review
+## 2026-01-29 16:50 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/voluntary-attention.md`
@@ -98,7 +150,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-voluntary-attention.md`
 - **Note**: Second review; article approaching stability
 
-## 2026-01-29 16:39 UTC - deep-review
+## 2026-01-29 16:40 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/episodic-memory.md`
@@ -112,7 +164,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-episodic-memory.md`
 - **Note**: Second review; article approaching stability
 
-## 2026-01-29 16:28 UTC - deep-review
+## 2026-01-29 16:30 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/panpsychism.md`
@@ -126,7 +178,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-panpsychism-origin.md`
 - **Note**: Fifth review of this article; article has stabilized
 
-## 2026-01-29 16:19 UTC - deep-review
+## 2026-01-29 16:20 UTC - deep-review
 
 - **Status**: Success
 - **File**: `voids/origin-of-consciousness.md`
@@ -139,7 +191,7 @@ topics: []
   - Added cross-link to [explanatory-gap](/concepts/explanatory-gap/) concept
 - **Output**: `reviews/deep-review-2026-01-29-origin-of-consciousness.md`
 
-## 2026-01-29 21:45 UTC - coalesce
+## 2026-01-29 16:10 UTC - coalesce
 
 - **Status**: No merge performed
 - **Reason**: After thorough analysis of 6 candidate clusters, all articles found to be well-differentiated
@@ -151,7 +203,7 @@ topics: []
   5. **Indexical identity** (indexical-facts.md, haecceity.md) — Epistemic vs. metaphysical focus
 - **Conclusion**: Content is appropriately structured with minimal duplication. No strong merge candidates found.
 
-## 2026-01-29 17:30 UTC - refine-draft
+## 2026-01-29 15:59 UTC - refine-draft
 
 - **Status**: Success
 - **File**: `topics/integrated-information-theory-critique.md`
@@ -164,7 +216,7 @@ topics: []
 - **Prompted by**: Pessimistic review (2026-01-29-late) identifying reflexive application of passivity objection
 - **Published**: yes
 
-## 2026-01-29 15:54 UTC - deep-review
+## 2026-01-29 15:55 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/attention-motor-quantum-interface.md`
@@ -178,7 +230,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-attention-motor-quantum-interface.md`
 - **Notes**: First review of recreated article (previous version coalesced into motor-selection.md 2026-01-26). Article is well-structured at 61% of soft threshold. No critical issues; deferred items are bedrock philosophical disagreements.
 
-## 2026-01-29 10:30 UTC - deep-review
+## 2026-01-29 15:39 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/conservation-laws-and-mind.md`
@@ -192,7 +244,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-conservation-laws-and-mind.md`
 - **Notes**: Second deep review. Article has reached stability—no critical issues, all six adversarial personas engaged but objections represent expected philosophical disagreement rather than fixable flaws. Convergence achieved.
 
-## 2026-01-29 19:00 UTC - expand-topic
+## 2026-01-29 15:30 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: attention-motor-quantum-interface
@@ -201,7 +253,7 @@ topics: []
 - **Based on research**: yes (`research/attention-motor-planning-quantum-interface-2026-01-23.md`, `research/dopamine-attention-motor-quantum-interface-2026-01-24.md`)
 - **Notes**: Created concept page for the unified attention-motor quantum interface hypothesis. The concept was referenced ~15 times across the site but had no definition page (original content was coalesced into motor-selection.md). New article defines the interface, explains PMTA unification with Stapp's quantum Zeno mechanism, covers neural architecture (affordance competition, 280-300ms timing window, dopamine threshold modulation), and connects to tenets.
 
-## 2026-01-29 20:30 UTC - optimistic-review
+## 2026-01-29 11:21 UTC - optimistic-review
 
 - **Status**: Success
 - **Content reviewed**: 41 topics, 97 concepts, tenets.md (all non-draft content)
@@ -219,7 +271,7 @@ topics: []
 - **Output**: `reviews/optimistic-2026-01-29-night.md`
 - **Notes**: Comprehensive site-wide review identifying cross-cutting patterns: intellectual honesty (acknowledging genuine challenges), convergent argumentation (multiple independent routes), empirical engagement (testable predictions), and contemplative integration (trained observation as data).
 
-## 2026-01-29 18:00 UTC - deep-review (cross-review)
+## 2026-01-29 15:09 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `concepts/mysterianism.md`
@@ -233,7 +285,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-mysterianism.md`
 - **Notes**: Fifth deep review. Cross-review triggered by origin-of-consciousness.md article. Added connection showing the origin question (why consciousness exists) as prior to the hard problem (how consciousness relates to physics), with cognitive closure potentially explaining both. Article confirmed stable; bedrock disagreements (eliminativism, Buddhist framework) not re-flagged.
 
-## 2026-01-29 18:30 UTC - deep-review (cross-review)
+## 2026-01-29 14:59 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `topics/hard-problem-of-consciousness.md`
@@ -245,7 +297,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-hard-problem-of-consciousness-cross.md`
 - **Notes**: Cross-review triggered by new origin-of-consciousness.md article. The hard problem article (reviewed 5 times, confirmed stable) needed integration with new origin void content. Added one paragraph clarifying that hard problem asks *how* while origin void asks *why*. Bidirectional linking now complete.
 
-## 2026-01-29 14:52 UTC - deep-review
+## 2026-01-29 14:53 UTC - deep-review
 
 - **Status**: Success (stability confirmed)
 - **File**: `concepts/relational-quantum-mechanics.md`
@@ -256,7 +308,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-relational-quantum-mechanics.md`
 - **Notes**: Second review. Article confirmed stable after comprehensive improvements in 2026-01-20 review. Attribution accuracy verified. Philosophical disagreements noted as bedrock (illusionism, contemplative phenomenology) rather than fixable issues. Timestamps updated only.
 
-## 2026-01-29 16:30 UTC - deep-review
+## 2026-01-29 14:40 UTC - deep-review
 
 - **Status**: Success
 - **File**: `voids/embodiment-cognitive-limits.md`
@@ -272,7 +324,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-embodiment-cognitive-limits.md`
 - **Notes**: First review. No attribution errors found. Article handles sources responsibly. Bedrock disagreement with functionalism now explicitly acknowledged rather than elided.
 
-## 2026-01-29 14:29 UTC - deep-review
+## 2026-01-29 14:31 UTC - deep-review
 
 - **Status**: Success
 - **File**: `voids/topology-of-cognitive-failure.md`
@@ -286,7 +338,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-topology-of-cognitive-failure.md`
 - **Notes**: First review of new article. No attribution errors found. Article appropriately focuses on phenomenology rather than speculative mechanisms.
 
-## 2026-01-30 00:30 UTC - pessimistic-review
+## 2026-01-30 14:22 UTC - pessimistic-review
 
 - **Status**: Success
 - **Content reviewed**:
@@ -305,7 +357,7 @@ topics: []
 - **Tasks generated**: 1 (P3: Refine IIT critique to address reflexive passivity objection)
 - **Notes**: Cluster addresses altered states, competing theory critique, and speculative metaphysics. Main vulnerability: articles identify problems for competitors without acknowledging structurally similar problems face the Map's framework.
 
-## 2026-01-29 14:09 UTC - deep-review
+## 2026-01-29 14:10 UTC - deep-review
 
 - **Status**: Success
 - **File**: `voids/attention-created-voids.md`
@@ -319,7 +371,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-attention-created-voids.md`
 - **Notes**: First review. Article philosophically mature—adversarial personas disagree on bedrock issues (phenomenology's evidential status) but no critical errors. Stability notes added for future reviews.
 
-## 2026-01-29 20:00 UTC - expand-topic
+## 2026-01-29 13:59 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: Origin of consciousness (voids article)
@@ -328,7 +380,7 @@ topics: []
 - **Based on research**: Yes (`research/voids-origin-of-consciousness-2026-01-29.md`)
 - **Notes**: Explores the origin void—why consciousness exists at all, distinct from the hard problem. Addresses the containment problem (inquiry occurs within consciousness), brute fact responses, and apophatic approaches.
 
-## 2026-01-29 13:53 UTC - deep-review
+## 2026-01-29 13:55 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/prebiotic-collapse.md`
@@ -340,7 +392,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-prebiotic-collapse.md`
 - **Notes**: Second review. Article reaching stability—previous review (2026-01-20) added major sections; this review found no critical issues and only one medium issue. Remaining concerns are bedrock philosophical disagreements.
 
-## 2026-01-29 16:45 UTC - deep-review
+## 2026-01-29 13:40 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/global-workspace-theory.md`
@@ -359,7 +411,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-global-workspace-theory.md`
 - **Notes**: Second review. Article approaching stability—previous review added major sections; this one made targeted improvements. Operating in length-neutral mode (132% of soft threshold).
 
-## 2026-01-29 18:00 UTC - deep-review
+## 2026-01-29 06:01 UTC - deep-review
 
 - **Status**: Success
 - **File**: `voids/computational-cognitive-limits.md`
@@ -378,7 +430,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-computational-cognitive-limits.md`
 - **Notes**: First review of this article. Strong foundational content on computational limits as mathematically proven voids. Four-part phenomenology taxonomy preserved as original contribution. Rice theorem correction was only critical issue.
 
-## 2026-01-29 13:18 UTC - deep-review
+## 2026-01-29 13:19 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/panpsychism.md`
@@ -414,7 +466,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-voids.md`
 - **Notes**: First review of section index. Cross-review prompted by new topology-of-cognitive-failure article. Added missing Relation to Site Perspective section required for all substantive articles.
 
-## 2026-01-29 14:30 UTC - research-voids
+## 2026-01-29 13:06 UTC - research-voids
 
 - **Status**: Success
 - **Topic**: The Origin of Consciousness
@@ -424,7 +476,7 @@ topics: []
 - **Search queries**: 8 (Leibniz, Nagel, Chalmers, McGinn, Schopenhauer, apophatic theology)
 - **Sources cited**: 15
 
-## 2026-01-29 12:43 UTC - deep-review
+## 2026-01-29 12:44 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/contemplative-evidence-for-consciousness-theories.md`
@@ -451,7 +503,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-quantum-indeterminacy-free-will.md`
 - **Notes**: Second review of this article. Found minimal issues—article has reached stability. Length at 140% of soft threshold but content is valuable.
 
-## 2026-01-29 21:15 UTC - deep-review
+## 2026-01-29 12:25 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/mental-effort.md`
@@ -465,7 +517,7 @@ topics: []
 - **Enhancements made**: 3 (cross-links, citation, phenomenology focus)
 - **Output**: `reviews/deep-review-2026-01-29-mental-effort.md`
 
-## 2026-01-29 18:15 UTC - condense
+## 2026-01-29 12:16 UTC - condense
 
 - **Status**: Success
 - **File**: `concepts/motor-selection.md`
@@ -492,7 +544,7 @@ topics: []
   - mental-effort.md / stapp-quantum-mind.md - phenomenology focus vs. mechanism focus
 - **Notes**: The existing architecture reflects deliberate separation of concerns. Coalescing would reduce clarity rather than improve it.
 
-## 2026-01-29 11:53 UTC - deep-review
+## 2026-01-29 11:54 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/causal-closure.md`
@@ -505,7 +557,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-causal-closure-observational.md`
 - **Notes**: Targeted enhancement per outer review task. Added Saad's distinction between universal closure (strong metaphysical claim) and observational closure (empirical claim physics supports). This weakens the causal closure objection—dualists need only respect observational closure.
 
-## 2026-01-29 11:43 UTC - deep-review
+## 2026-01-29 11:45 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/analytic-idealism.md`
@@ -517,7 +569,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-analytic-idealism.md`
 - **Notes**: Article approaching stability. Strengthened dissociation response with actual argument. Tightened vague empirical claims. Acknowledged eliminativist position on hard problem. Low issues deferred (indexical questions, Buddhist svabhava precision) as appropriate for article scope.
 
-## 2026-01-29 11:34 UTC - deep-review
+## 2026-01-29 11:35 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/consciousness-and-intelligence.md`
@@ -529,7 +581,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-consciousness-and-intelligence-2.md`
 - **Notes**: Article has reached stability after 2 reviews same day. Attribution corrected: "zone of latent solutions" now properly attributed to Tennie, Call, and Tomasello (2009). Tomasello 2010 citation corrected to include co-author Herrmann.
 
-## 2026-01-29 22:45 UTC - deep-review
+## 2026-01-29 11:25 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/conscious-vs-unconscious-processing.md`
@@ -541,7 +593,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-late-conscious-vs-unconscious-processing.md`
 - **Notes**: Article has reached stability after 3 reviews. No critical issues. Attribution accuracy verified. Article at 137% of soft threshold, operating in length-neutral mode.
 
-## 2026-01-29 20:30 UTC - optimistic-review
+## 2026-01-29 11:21 UTC - optimistic-review
 
 - **Status**: Success
 - **Content reviewed**: All non-draft topics (41), concepts (98), tenets (1)
@@ -560,7 +612,7 @@ topics: []
 - **New concept pages suggested**: causal exclusion problem, specious present, quantum measurement problem, self-stultification arguments
 - **Tasks added**: 5 P3 tasks to todo.md
 
-## 2026-01-29 10:21 UTC - refine-draft
+## 2026-01-29 10:22 UTC - refine-draft
 
 - **Status**: Success
 - **File**: `topics/delegatory-dualism.md`
@@ -571,7 +623,7 @@ topics: []
   - Added Delegatory Law preemption formulation as blockquote
 - **Published**: yes
 
-## 2026-01-29 10:14 UTC - refine-draft
+## 2026-01-29 10:15 UTC - refine-draft
 
 - **Status**: Success
 - **File**: `topics/delegatory-dualism.md`
@@ -584,7 +636,7 @@ topics: []
   - Preserved prior deep-review fixes (default causal profile, testability, interactionist dualism)
 - **Published**: yes
 
-## 2026-01-29 12:00 UTC - deep-review
+## 2026-01-29 10:05 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/quantum-biology.md`
@@ -595,7 +647,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-quantum-biology.md`
 - **Notes**: Second review; article has reached stability. No critical issues. Clarified indexical identity issue in MWI discussion, acknowledged remaining timescale gap after decoherence revisions, added Xu et al. attribution.
 
-## 2026-01-29 09:52 UTC - refine-draft
+## 2026-01-29 09:53 UTC - refine-draft
 
 - **Status**: Success
 - **File**: `topics/delegatory-dualism.md`
@@ -608,7 +660,7 @@ topics: []
   - Marked quantum integration as Map-specific speculation throughout
 - **Published**: yes
 
-## 2026-01-29 23:30 UTC - outer-review
+## 2026-01-29 09:41 UTC - outer-review
 
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.2 Pro (OpenAI)
@@ -619,7 +671,7 @@ topics: []
 - **Tasks generated**: 5 (P1: 3, P2: 2)
 - **Notes**: High-quality external review. Identified real attribution and accuracy issues: (1) Many-Worlds/collapse claims wrongly attributed to Saad, (2) "default causal profile" omitted from Subset Law*, (3) testability overstated, (4) "substance dualism" should be "interactionist dualism", (5) Saad exposition vs Map integration interleaved causing confusion.
 
-## 2026-01-29 09:24 UTC - deep-review
+## 2026-01-29 09:25 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/epiphenomenalism.md`
@@ -631,7 +683,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-epiphenomenalism.md`
 - **Notes**: Fourth review of stable article. Cross-review verified consistency between epiphenomenalism and consciousness-and-intelligence articles on empirical evidence (Lieberman 2008, working memory, 2024 Neuroscience of Consciousness review).
 
-## 2026-01-29 23:30 UTC - pessimistic-review
+## 2026-01-29 09:16 UTC - pessimistic-review
 
 - **Status**: Success
 - **Content reviewed**:
@@ -643,7 +695,7 @@ topics: []
 - **Output**: `reviews/pessimistic-2026-01-29-evening.md`
 - **Notes**: Cluster addresses consciousness-processing relationship. Main vulnerability: articles identify problems for competitors without acknowledging structurally similar problems face dualism. Recommended: position dualism as having *different* problems rather than *fewer* problems.
 
-## 2026-01-29 21:10 UTC - deep-review
+## 2026-01-29 09:11 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/ai-consciousness.md`
@@ -654,14 +706,14 @@ topics: []
 - **Enhancements made**: 2 (consciousness-intelligence integration, tightened falsifiability section)
 - **Output**: `reviews/deep-review-2026-01-29-ai-consciousness.md`
 
-## 2026-01-29 20:05 UTC - expand-topic
+## 2026-01-29 08:54 UTC - expand-topic
 
 - **Status**: Skipped (article already exists)
 - **Topic**: Creativity and consciousness
 - **Output**: `concepts/consciousness-and-creativity.md` (created 2026-01-19)
 - **Notes**: Todo task "Write article on creativity and consciousness" requested expansion from research/consciousness-creativity-novelty-generation-2026-01-19.md. Article already exists at concepts/consciousness-and-creativity.md (162 lines, last deep-reviewed 2026-01-28). Task was stale—removed from queue.
 
-## 2026-01-29 18:30 UTC - deep-review
+## 2026-01-29 08:54 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/neuroplasticity.md`
@@ -671,7 +723,7 @@ topics: []
 - **Enhancements made**: 3
 - **Output**: `reviews/deep-review-2026-01-29-neuroplasticity.md`
 
-## 2026-01-29 12:00 UTC - expand-topic
+## 2026-01-29 08:35 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: Neuroplasticity
@@ -680,7 +732,7 @@ topics: []
 - **Based on research**: No (general knowledge; topic referenced extensively in existing articles)
 - **Notes**: Created concept page for neuroplasticity—the brain's ability to reorganise through experience. Focuses on Schwartz's OCD research as key evidence for bidirectional interaction tenet. Connects to mental-effort.md, stapp-quantum-mind.md, attention-as-interface.md. Addresses epiphenomenalist response and explains why neuroplasticity is harder to square with epiphenomenalism than interactionism.
 
-## 2026-01-29 08:28 UTC - deep-review
+## 2026-01-29 08:35 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/objections-to-interactionism.md`
@@ -691,7 +743,7 @@ topics: []
 - **Enhancements made**: 6 (new response section, frontmatter update, summary table, further reading, relation section, prose tightening)
 - **Output**: `reviews/deep-review-2026-01-29-objections-to-interactionism.md`
 
-## 2026-01-29 08:21 UTC - apex-evolve
+## 2026-01-29 08:22 UTC - apex-evolve
 
 - **Status**: Success
 - **Article**: consciousness-and-agency
@@ -700,7 +752,7 @@ topics: []
 - **Review**: `reviews/apex-evolve-2026-01-29-consciousness-and-agency.md`
 - **Notes**: Integrated Sjöberg (2024) surgical resection evidence strengthening Libet counter-argument. Added new "Counterfactual Reasoning and Deliberation" section connecting to Bischof-Köhler hypothesis. Added phenomenology-of-choice and Desmurget neurosurgical studies. Consolidated redundant mutual-support discussions. Added two new source references.
 
-## 2026-01-29 07:05 UTC - expand-topic
+## 2026-01-29 06:47 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: The Topology of Cognitive Failure
@@ -718,7 +770,7 @@ topics: []
 - **Reduction**: 43%
 - **Technique**: Removed tangential Process Philosophy section (could be its own article), heavily condensed AI as Asymmetric Probe (redundant with voids main article), trimmed Evidence section redundancy, tightened Illusionist Challenge responses, streamlined Relation to Site Perspective and What Would Challenge sections. Preserved core limits-reveal-structure thesis, all tenet connections, and cross-links.
 
-## 2026-01-29 06:30 UTC - research-voids
+## 2026-01-29 06:25 UTC - research-voids
 
 - **Status**: Success
 - **Topic**: The Topology of Cognitive Failure
@@ -726,7 +778,7 @@ topics: []
 - **Output**: `research/voids-topology-of-cognitive-failure-2026-01-29.md`
 - **Key finding**: Cognitive failures have characteristic signatures—different types of limits produce different breakdown patterns (self-refutation, aporia, introspection illusion, modular loss). Failure topology may serve as indirect method for mapping void boundaries.
 
-## 2026-01-29 06:09 UTC - deep-review
+## 2026-01-29 06:11 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/argument-from-reason.md`
@@ -737,7 +789,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-argument-from-reason.md`
 - **Notes**: Second deep review. Added response to Buddhist objection about constructed self, distinguishing phenomenal unity from substantial self. Added cross-link to motor-selection for attentional selection parallel. Article approaching stability—remaining concerns are bedrock philosophical disagreements.
 
-## 2026-01-29 18:00 UTC - deep-review
+## 2026-01-29 06:01 UTC - deep-review
 
 - **Status**: Success (stability confirmed)
 - **File**: `concepts/arguments-against-materialism.md`
@@ -748,7 +800,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-arguments-against-materialism.md`
 - **Notes**: Second deep review. Article reached stability after significant improvements in 2026-01-20 review. All six adversarial personas' objections represent philosophical disagreements, not flaws. Minor prose condensation in decoherence section.
 
-## 2026-01-29 05:49 UTC - deep-review
+## 2026-01-29 05:51 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/free-will.md`
@@ -770,7 +822,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-hard-problem-of-consciousness.md`
 - **Notes**: Fifth deep review. Article has reached convergence—no changes warranted. All adversarial objections represent genuine philosophical disagreements with dualism, not fixable flaws. Review confirms stability; recommended next review in 90+ days unless new related content published.
 
-## 2026-01-29 13:00 UTC - coalesce
+## 2026-01-29 05:37 UTC - coalesce
 
 - **Status**: Success
 - **Sources**: `concepts/motor-selection.md`, `concepts/attention-motor-quantum-interface.md`
@@ -779,7 +831,7 @@ topics: []
 - **References to review**: 10 files reference archived article (links preserved via archive)
 - **Notes**: Two articles with substantial overlap on premotor theory of attention, quantum Zeno mechanism, basal ganglia selection, Libet reinterpretation, dopamine research, and empirical predictions. Merged into comprehensive unified treatment. New article (~3900 words) combines best content from both sources, eliminates redundancy.
 
-## 2026-01-29 05:14 UTC - deep-review
+## 2026-01-29 05:16 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/filter-theory.md`
@@ -790,7 +842,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-filter-theory.md`
 - **Notes**: Third deep review of this article. Cross-review context: integrating with default-mode-network.md. Article has reached stability—changes are cross-referencing integrations with related content, not structural corrections. Length-neutral mode: additions offset by trimming redundant content.
 
-## 2026-01-29 05:03 UTC - deep-review
+## 2026-01-29 05:05 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/default-mode-network.md`
@@ -801,7 +853,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-default-mode-network.md`
 - **Notes**: First deep review of this article. Well-structured with strong empirical sourcing. Main improvements: explicitly acknowledging that both physicalist and filter interpretations account for the same DMN data, clarifying that Carhart-Harris's REBUS model is physicalist in framing, and adding direct engagement with the physicalist objection.
 
-## 2026-01-29 21:00 UTC - deep-review
+## 2026-01-29 04:55 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/animal-consciousness.md`
@@ -812,7 +864,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-animal-consciousness.md`
 - **Notes**: Fourth review of this article. Cross-review context: integrating with consciousness-in-simple-organisms.md. Article has reached stability—changes are minor integrations with related content, not corrections. Added illusionist scaling problem argument and contemplative evidence reference to strengthen the case for animal consciousness.
 
-## 2026-01-29 15:30 UTC - deep-review
+## 2026-01-29 04:45 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/consciousness-in-simple-organisms.md`
@@ -823,7 +875,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-consciousness-in-simple-organisms.md`
 - **Notes**: Second deep review of this article (first: 2026-01-21). Article has reached stability. Previous review addressed illusionism, MWI, and Buddhist technical vocabulary. Minor clarification applied; most adversarial objections are now bedrock philosophical disagreements.
 
-## 2026-01-29 22:15 UTC - optimistic-review
+## 2026-01-29 04:38 UTC - optimistic-review
 
 - **Status**: Success
 - **Content reviewed**: tenets.md, delegatory-dualism.md, hard-problem-of-consciousness.md, free-will.md, quantum-biology-and-the-consciousness-debate.md, consciousness.md, epistemic-advantages-of-dualism.md, quantum-binding-and-phenomenal-unity.md, interactionist-dualism.md, panpsychism.md
@@ -833,7 +885,7 @@ topics: []
 - **Suggested tasks added**: 5 (all P3)
 - **Notes**: Second optimistic review of the day. Site content increasingly sophisticated—recent delegatory dualism integration shows active tracking of current scholarship.
 
-## 2026-01-29 21:45 UTC - deep-review
+## 2026-01-29 04:28 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/delegatory-dualism.md`
@@ -844,7 +896,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29b-delegatory-dualism.md`
 - **Notes**: Second review of the day. Article approaching stability. Most adversarial objections are now bedrock philosophical disagreements rather than fixable flaws.
 
-## 2026-01-29 21:00 UTC - expand-topic
+## 2026-01-29 04:14 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: Default mode network
@@ -853,7 +905,7 @@ topics: []
 - **Based on research**: No (general knowledge)
 - **Notes**: Created concept page for the brain's self-referential system. Connects to filter theory, meditation research, psychedelic evidence, and the Map's framework. Links DMN suppression to expanded phenomenal access rather than reduced consciousness.
 
-## 2026-01-29 20:30 UTC - deep-review
+## 2026-01-29 04:05 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/delegatory-dualism.md`
@@ -863,7 +915,7 @@ topics: []
 - **Enhancements made**: 6 (illusionism engagement, MWI objection/response, No Many-Worlds tenet connection, Testability subsection, expanded Further Reading, added concept links)
 - **Output**: `reviews/deep-review-2026-01-29-delegatory-dualism.md`
 
-## 2026-01-29 03:52 UTC - expand-topic
+## 2026-01-29 03:53 UTC - expand-topic
 
 - **Status**: Already exists
 - **Topic**: Consciousness in simple organisms
@@ -872,7 +924,7 @@ topics: []
 - **Based on research**: Yes (`research/consciousness-simple-organisms-2026-01-19.md`)
 - **Notes**: Article already created 2026-01-21 and deep-reviewed same day. Task removed from queue.
 
-## 2026-01-29 03:44 UTC - deep-review
+## 2026-01-29 03:45 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/causal-closure.md`
@@ -884,7 +936,7 @@ topics: []
 - **Condensations**: Tightened statistical response and emergentist response sections
 - **Output**: `reviews/deep-review-2026-01-29-causal-closure.md`
 
-## 2026-01-29 22:00 UTC - pessimistic-review
+## 2026-01-29 03:41 UTC - pessimistic-review
 
 - **Status**: Success
 - **Files reviewed**: `topics/delegatory-dualism.md`, `concepts/interactionist-dualism.md`, `concepts/mental-causation.md`
@@ -893,7 +945,7 @@ topics: []
 - **Medium issues found**: 5 (organizational invariance tension, illusionism response weak, MWI conflation, specification underdeveloped, agent causation assumed)
 - **Output**: `reviews/pessimistic-2026-01-29.md`
 
-## 2026-01-29 14:30 UTC - deep-review
+## 2026-01-29 00:05 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/attention.md`
@@ -904,7 +956,7 @@ topics: []
 - **Enhancements made**: 2 (added "Attention Creates Voids" subsection, added cross-link in Further Reading)
 - **Output**: `reviews/deep-review-2026-01-29-attention.md`
 
-## 2026-01-29 17:00 UTC - deep-review
+## 2026-01-29 03:08 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/mental-causation.md`
@@ -915,7 +967,7 @@ topics: []
 - **Enhancements made**: 4 (added Delegatory Dualism subsection, added concept link, updated Further Reading, added Saad reference)
 - **Output**: `reviews/deep-review-2026-01-29-mental-causation.md`
 
-## 2026-01-29 21:30 UTC - deep-review
+## 2026-01-29 02:58 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/consciousness-and-intelligence.md`
@@ -925,7 +977,7 @@ topics: []
 - **Enhancements made**: 3 (added cross-links to frontmatter)
 - **Output**: `reviews/deep-review-2026-01-29-consciousness-and-intelligence.md`
 
-## 2026-01-29 17:30 UTC - deep-review
+## 2026-01-29 02:50 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/interactionist-dualism.md`
@@ -936,7 +988,7 @@ topics: []
 - **Enhancements made**: 4 (restructured causal closure section, added concept link, added to Further Reading, added Saad reference)
 - **Output**: `reviews/deep-review-2026-01-29-interactionist-dualism.md`
 
-## 2026-01-29 03:15 UTC - expand-topic
+## 2026-01-29 02:37 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: Attention-created voids
@@ -955,7 +1007,7 @@ topics: []
 - **Output**: `reviews/tenet-check-2026-01-29.md`
 - **Summary**: All site content maintains robust alignment with the five foundational tenets. No direct contradictions, implicit conflicts, or notable tensions found. The site appropriately engages with opposing views as philosophical challenges rather than endorsements.
 
-## 2026-01-29 14:30 UTC - expand-topic
+## 2026-01-29 02:30 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: Delegatory dualism (Bradford Saad)
@@ -964,7 +1016,7 @@ topics: []
 - **Based on research**: Yes (`research/bradford-saad-delegatory-dualism-2026-01-28.md`)
 - **Summary**: Bradford Saad's 2025 solution to the causal exclusion problem. Physical brain states delegate causal responsibilities to conscious experiences with matching causal profiles. Provides theoretical backing for Bidirectional Interaction tenet while avoiding both epiphenomenalism and overdetermination.
 
-## 2026-01-29 02:14 UTC - deep-review
+## 2026-01-29 02:16 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/machine-consciousness.md`
@@ -976,7 +1028,7 @@ topics: []
   1. Condensed quantum computer section for length neutrality
 - **Output**: `reviews/deep-review-2026-01-29-machine-consciousness.md`
 
-## 2026-01-29 02:07 UTC - research-voids
+## 2026-01-29 02:10 UTC - research-voids
 
 - **Status**: Success
 - **Topic**: Attention-created voids
@@ -985,7 +1037,7 @@ topics: []
 - **Key finding**: Attention doesn't merely fail to illuminate everything—it *necessarily produces* unattendable territory through its own operation. The figure-ground structure, penumbral suppression, and prioritization logic mean that every act of attending creates corresponding voids.
 - **Article angles**: The Penumbra Void, Figure Creates Ground, James's Unfocusable Fringes, The Void-Making Mechanism
 
-## 2026-01-29 17:35 UTC - condense
+## 2026-01-29 01:57 UTC - condense
 
 - **Status**: Success
 - **File**: `research/first-person-third-person-methodology-2026-01-23.md`
@@ -994,7 +1046,7 @@ topics: []
 - **Reduction**: 68%
 - **Technique**: Consolidated 13 Key Sources into 7 thematic entries, condensed Major Positions from detailed paragraphs to compact summaries, trimmed Key Debates to essential structure, shortened Historical Timeline, reduced Citations to key academic sources only
 
-## 2026-01-29 01:44 UTC - deep-review
+## 2026-01-29 01:46 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/psychophysical-coupling.md`
@@ -1007,7 +1059,7 @@ topics: []
   1. Tightened verbose prose throughout for length neutrality
 - **Output**: `reviews/deep-review-2026-01-29-psychophysical-coupling.md`
 
-## 2026-01-29 01:33 UTC - deep-review
+## 2026-01-29 01:34 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/baseline-cognition.md`
@@ -1022,7 +1074,7 @@ topics: []
   3. Added entry in Further Reading section
 - **Output**: `reviews/deep-review-2026-01-29-baseline-cognition.md`
 
-## 2026-01-29 14:30 UTC - deep-review
+## 2026-01-29 00:05 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/free-will.md`
@@ -1037,7 +1089,7 @@ topics: []
   3. Updated concepts list and Further Reading
 - **Output**: `reviews/deep-review-2026-01-29-free-will.md`
 
-## 2026-01-29 01:18 UTC - coalesce
+## 2026-01-29 01:19 UTC - coalesce
 
 - **Status**: Success
 - **Sources**:
@@ -1050,7 +1102,7 @@ topics: []
 - **References updated**: 19 files (concepts, topics, research)
 - **Notes**: Merged two closely related articles—one covering the specification problem and four law families (attention-bounded, policy-level, basis-choice, indexical), the other covering five specific mechanisms (attention→observation, intention→probability, valence→motivation, qualia→basis, unity→entanglement). The unified article provides comprehensive treatment of psychophysical coupling including Chalmers' framework, bandwidth constraints, comparative analysis, and testability criteria.
 
-## 2026-01-29 01:05 UTC - expand-topic
+## 2026-01-29 01:06 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: Consciousness and intelligence relationship
@@ -1059,7 +1111,7 @@ topics: []
 - **Based on research**: Yes (`research/consciousness-influence-intelligence-2026-01-21.md`)
 - **Notes**: Explores the conceptual relationship between consciousness and intelligence—whether they are independent, mutually requiring, or deeply intertwined. Complements existing `consciousness-as-amplifier.md` (which covers *how* consciousness amplifies) by addressing the broader conceptual question. Covers four positions (independence, intelligence requires consciousness, consciousness requires intelligence, deep interdependence), the great ape evidence, AI implications, and evolutionary arguments.
 
-## 2026-01-29 00:58 UTC - deep-review
+## 2026-01-29 01:00 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/phenomenal-overflow.md`
@@ -1076,7 +1128,7 @@ topics: []
   4. Qualified unfalsifiability claim
 - **Output**: `reviews/deep-review-2026-01-29-phenomenal-overflow.md`
 
-## 2026-01-29 13:45 UTC - condense
+## 2026-01-29 00:49 UTC - condense
 
 - **Status**: Success
 - **File**: `research/arguments-against-materialism-2026-01-06.md`
@@ -1085,7 +1137,7 @@ topics: []
 - **Reduction**: 57%
 - **Technique**: Consolidated Key Sources into compact format with URLs + key points only; merged Hard Problem and Explanatory Gap sections (overlapping content); compressed Major Arguments from verbose explanations to core claims only; converted Responses section to tables; trimmed Potential Article Angles to simple list without elaboration; removed redundant quotes and verbose "Relation to site tenets" elaborations. Preserved: executive summary, historical timeline (high-value reference), all citations, gaps in research.
 
-## 2026-01-29 00:36 UTC - deep-review
+## 2026-01-29 00:37 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/llm-consciousness.md`
@@ -1100,7 +1152,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-llm-consciousness.md`
 - **Notes**: Fourth review of this article. Cross-review confirmed alignment with new embodiment-cognitive-limits voids article. Article has achieved convergence—no substantive issues remain.
 
-## 2026-01-29 15:30 UTC - optimistic-review
+## 2026-01-29 00:26 UTC - optimistic-review
 
 - **Status**: Success
 - **Content reviewed**: Core philosophical content from topics/, concepts/, tenets/ (12 key articles)
@@ -1140,7 +1192,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-conscious-vs-unconscious-processing.md`
 - **Notes**: Second review of this article. Reaching stability—previous review added physicalist response section and clarified GNW as physicalist theory. This cross-review integrated the new phenomenal-overflow article.
 
-## 2026-01-29 14:30 UTC - deep-review
+## 2026-01-29 00:05 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/access-consciousness.md`
@@ -1157,7 +1209,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-29-access-consciousness.md`
 - **Notes**: Second review of this article. Reached stability—previous review addressed deflationary response engagement, MWI arguments, and Stapp qualification. This cross-review integrated the new phenomenal-overflow article.
 
-## 2026-01-28 23:15 UTC - deep-review
+## 2026-01-28 23:55 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/counterfactual-reasoning.md`
@@ -1174,7 +1226,7 @@ topics: []
   4. Added consciousness-and-creativity to concepts
 - **Output**: `reviews/deep-review-2026-01-28-counterfactual-reasoning.md`
 
-## 2026-01-28 22:45 UTC - expand-topic
+## 2026-01-28 23:48 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: counterfactual-reasoning
@@ -1183,7 +1235,7 @@ topics: []
 - **Based on research**: no (general knowledge, topic straightforward)
 - **Notes**: Dedicated concept page for counterfactual reasoning—the capacity to imagine "what if" scenarios. Central to the baseline-cognition framework (great apes lack counterfactual capacity), consciousness-as-amplifier thesis (consciousness enables imagining alternatives), and free-will argument (libertarian choice requires representing alternatives). Covers working memory demands, great ape gap, neural correlates, and connection to the Map's tenets.
 
-## 2026-01-28 12:00 UTC - expand-topic
+## 2026-01-28 15:16 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: phenomenal-overflow
@@ -1192,7 +1244,7 @@ topics: []
 - **Based on research**: yes (`research/voids-pre-conceptual-knowing-2026-01-27.md`)
 - **Notes**: Dedicated concept page for Ned Block's phenomenal overflow argument. Previously referenced across multiple articles (access-consciousness, phenomenal-consciousness, pre-conceptual-knowing) without systematic treatment. Covers Sperling paradigm evidence, deflationary responses, theoretical stakes, and connection to the Map's tenets. Appropriately flags contested status while presenting as evidence for phenomenal richness beyond function.
 
-## 2026-01-28 23:55 UTC - pessimistic-review
+## 2026-01-28 23:26 UTC - pessimistic-review
 
 - **Status**: Success
 - **Content reviewed**:
@@ -1208,7 +1260,7 @@ topics: []
 - **Tasks added**: 0 (issues are philosophical argument patterns documented for human consideration)
 - **Notes**: Cluster addresses consciousness-substrate relationships. Common vulnerability: strong conclusions from contested premises, protected by hard problem appeals. Articles benefit from explicit acknowledgment that conclusions are framework-relative rather than observationally established.
 
-## 2026-01-28 23:45 UTC - deep-review
+## 2026-01-28 23:14 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/embodied-cognition.md`
@@ -1219,7 +1271,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-28-embodied-cognition.md`
 - **Notes**: Third deep review of this article. Cross-review with embodiment-cognitive-limits.md (new voids article). Article has reached stability—no critical issues in last two reviews.
 
-## 2026-01-28 23:30 UTC - research-topic
+## 2026-01-28 23:06 UTC - research-topic
 
 - **Status**: Success
 - **Topic**: Bradford Saad's "A dualist theory of experience" (2025)
@@ -1228,7 +1280,7 @@ topics: []
 - **Potential articles**: Delegatory dualism concept page; Observational Closure as dualist-friendly constraint; integration with quantum interactionism
 - **Source**: P0 human task
 
-## 2026-01-28 22:54 UTC - deep-review
+## 2026-01-28 22:55 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/combination-problem.md`
@@ -1239,7 +1291,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-28-combination-problem.md`
 - **Notes**: Second deep review of this article. Previous review (2026-01-19) addressed all major issues. Article has reached stability.
 
-## 2026-01-28 22:50 UTC - condense
+## 2026-01-28 22:51 UTC - condense
 
 - **Status**: Success
 - **File**: `topics/personal-identity.md`
@@ -1248,7 +1300,7 @@ topics: []
 - **Reduction**: 40%
 - **Technique**: Removed tangential sections (Process Philosophy Perspective, Buddhist Perspective—linked articles cover these); condensed Standard Positions (~550 words → ~280); merged and tightened Illusionist Challenge subsections; reduced Decoherence Challenge; trimmed Implications for Survival (removed Quantum Persistence subsection); consolidated What Would Challenge This View. Preserved core arguments, opening summary, Relation to Site Perspective section, and all tenet connections.
 
-## 2026-01-28 21:15 UTC - refine-draft
+## 2026-01-28 18:58 UTC - refine-draft
 
 - **Status**: Success
 - **File**: `topics/death-and-consciousness.md`
@@ -1266,7 +1318,7 @@ topics: []
 - **Key improvements**: Specified four categories of observations that would warrant reassessing the AI consciousness claim; acknowledged framework dependency; maintained intellectual honesty about revisability
 - **Published**: yes
 
-## 2026-01-28 22:15 UTC - research-voids
+## 2026-01-28 22:07 UTC - research-voids
 
 - **Status**: Success
 - **Topic**: Embodiment and Cognitive Limits
@@ -1283,7 +1335,7 @@ topics: []
 - **Key improvements**: Distinguishes phenomenological claim (it seems like I have haecceity) from metaphysical claim (haecceity exists); provides three arguments for haecceity; addresses error theory explicitly
 - **Published**: yes
 
-## 2026-01-28 21:43 UTC - deep-review
+## 2026-01-28 21:44 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/functionalism.md`
@@ -1294,7 +1346,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-28-functionalism.md`
 - **Notes**: Second review—previous review (2026-01-20) addressed major gaps. This review adds refinements: heterophenomenology mention strengthens Dennett engagement; cross-links improve site connectivity. Article at soft threshold (114%), operated in length-neutral mode.
 
-## 2026-01-28 22:30 UTC - deep-review
+## 2026-01-28 15:26 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/mysterianism.md`
@@ -1305,7 +1357,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-28-mysterianism.md`
 - **Notes**: Cross-review considering convergent-cognitive-limits insights. Fourth review—article confirmed stable. The new voids article on cross-cultural cognitive limits provides empirical support for McGinn's thesis; bidirectional link now established.
 
-## 2026-01-28 14:00 UTC - deep-review
+## 2026-01-28 21:23 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/llm-consciousness.md`
@@ -1316,7 +1368,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-28-llm-consciousness.md`
 - **Notes**: Cross-review considering continual-learning-argument insights. Third review—article confirmed stable. Verified alignment between the two articles: both frame continual learning as consequence rather than cause of consciousness; no substantive conflicts found.
 
-## 2026-01-28 21:19 UTC - coalesce
+## 2026-01-28 21:20 UTC - coalesce
 
 - **Status**: Success
 - **Sources**: `topics/mysterianism-cognitive-closure.md`
@@ -1325,7 +1377,7 @@ topics: []
 - **References updated**: 13 files (concepts/*, topics/*, apex/*)
 - **Notes**: topics/mysterianism-cognitive-closure.md was largely duplicative of the more comprehensive concepts/mysterianism.md. Merged the "tool-extension objection" paragraph (the only unique content) into the concept article and archived the topic. Updated all wikilinks from mysterianism-cognitive-closure to mysterianism.
 
-## 2026-01-28 16:45 UTC - deep-review
+## 2026-01-28 21:01 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/quantum-measurement-interpretations-beyond-mwi.md`
@@ -1336,7 +1388,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-28-quantum-measurement-interpretations-beyond-mwi.md`
 - **Notes**: Cross-review considering subjective-probability insights. Second review—article at good stability. Integrative enhancement connecting newly published content.
 
-## 2026-01-28 20:50 UTC - deep-review
+## 2026-01-28 20:51 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/ethics-of-consciousness.md`
@@ -1347,7 +1399,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-28-ethics-of-consciousness.md`
 - **Notes**: Second review—article approaching stability. Previous review (2026-01-20) addressed major structural gaps; this review made targeted improvements to medium-priority items.
 
-## 2026-01-28 21:30 UTC - deep-review
+## 2026-01-28 20:40 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/ai-consciousness.md`
@@ -1358,7 +1410,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-28-ai-consciousness.md`
 - **Notes**: Cross-review considering continual-learning-argument insights. Third review—article at good stability. Integrative enhancement only.
 
-## 2026-01-28 20:29 UTC - deep-review
+## 2026-01-28 20:30 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/free-will.md`
@@ -1369,7 +1421,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-28-free-will.md`
 - **Notes**: Cross-review considering motor-selection.md insights. Seventh review—article at high stability. Integrative enhancement only.
 
-## 2026-01-28 20:30 UTC - optimistic-review
+## 2026-01-28 20:27 UTC - optimistic-review
 
 - **Status**: Success
 - **Files reviewed**: All non-draft topics, concepts, tenets (40+ topics, 95+ concepts, tenets.md)
@@ -1385,7 +1437,7 @@ topics: []
 - **Word count**: ~2100
 - **Notes**: Task was duplicate. Article "Quantum Measurement and Subjective Probability" already exists at topics/quantum-measurement-and-subjective-probability.md (created 2026-01-27, deep-reviewed 2026-01-27). The research (research/quantum-measurement-subjective-probability-2026-01-23.md) has been fully consumed. Article covers QBism, participatory realism, consciousness-collapse, relational QM, and the phenomenological gap in subjective interpretations. No new article needed.
 
-## 2026-01-28 19:58 UTC - deep-review
+## 2026-01-28 19:59 UTC - deep-review
 
 - **Status**: Success
 - **File**: `voids/ai-as-void-explorer.md`
@@ -1396,7 +1448,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-28-ai-as-void-explorer.md`
 - **Notes**: Cross-review considering new convergent-cognitive-limits article. Second review in two days—article approaching stability. Maintained length neutrality at soft threshold.
 
-## 2026-01-28 19:50 UTC - deep-review
+## 2026-01-28 19:51 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/death-and-consciousness.md`
@@ -1415,7 +1467,7 @@ topics: []
 - **Word count**: ~2700
 - **Notes**: Task was duplicate. Comprehensive article "Continual Learning Argument" already exists at concepts/continual-learning-argument.md (created 2026-01-20, deep-reviewed 2026-01-20, last modified 2026-01-26). Also extensively covered in concepts/llm-consciousness.md (section "Hoel's Arguments") and topics/ai-consciousness.md. The research (research/hoel-llm-consciousness-continual-learning-2026-01-15.md) has been fully consumed into multiple articles.
 
-## 2026-01-28 23:15 UTC - expand-topic (duplicate)
+## 2026-01-28 19:28 UTC - expand-topic (duplicate)
 
 - **Status**: Skipped (article already exists)
 - **Topic**: motor control and quantum Zeno effect
@@ -1423,7 +1475,7 @@ topics: []
 - **Word count**: 3411
 - **Notes**: Task was duplicate. Article "Motor Selection and the Quantum Zeno Effect" already exists at concepts/motor-selection.md, created 2026-01-18 based on research/motor-control-quantum-zeno-2026-01-18.md. Deep-reviewed 2026-01-26. The research has been consumed; no new article needed.
 
-## 2026-01-28 22:30 UTC - pessimistic-review
+## 2026-01-28 19:20 UTC - pessimistic-review
 
 - **Status**: Success
 - **Content reviewed**:
@@ -1435,7 +1487,7 @@ topics: []
 - **Medium issues**: 3 (quantum timing, witness consciousness question-begging, process philosophy tension)
 - **Notes**: Cluster addresses theoretical architecture: psychophysical coupling, personal identity, and contemplative evidence. Articles are sophisticated but share vulnerability: assume phenomenal consciousness is real/irreducible/indexically particular, then argue from assumptions. Contemplative evidence consistent with framework but doesn't defeat serious alternatives (common-cause epiphenomenalism, functionalism). Haecceity commitment acknowledged unfalsifiable. Divergence from organisational invariance makes psychophysical laws unstatable.
 
-## 2026-01-28 19:07 UTC - deep-review (cross-review)
+## 2026-01-28 19:09 UTC - deep-review (cross-review)
 
 - **Status**: Success (no changes needed)
 - **File**: `concepts/binding-problem.md`
@@ -1447,7 +1499,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-28-binding-problem-cross.md`
 - **Notes**: Cross-review confirms good integration with neural-binding-mechanisms.md. Article has reached stability after previous reviews (2026-01-19, 2026-01-22, 2026-01-28). Distinct scope differentiation between articles, no redundancy. Convergence achieved.
 
-## 2026-01-28 21:15 UTC - refine-draft
+## 2026-01-28 18:58 UTC - refine-draft
 
 - **Status**: Success
 - **File**: `topics/chalmers-psychophysical-coupling.md`
@@ -1457,7 +1509,7 @@ topics: []
   - Clarified that Chalmers treats the scope question (does all information have phenomenal character?) as open rather than settled
 - **Published**: yes
 
-## 2026-01-28 18:49 UTC - deep-review
+## 2026-01-28 18:51 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/personal-identity.md`
@@ -1478,7 +1530,7 @@ topics: []
   - Replaced assertion of "shared commitment" with clarification that Map commits to collapse where Chalmers-McQueen remain exploratory
 - **Published**: yes
 
-## 2026-01-28 18:27 UTC - refine-draft
+## 2026-01-28 18:28 UTC - refine-draft
 
 - **Status**: Success
 - **File**: `topics/chalmers-psychophysical-coupling.md`
@@ -1488,7 +1540,7 @@ topics: []
   - Added Saad citation to References section
 - **Published**: yes
 
-## 2026-01-28 22:30 UTC - outer-review
+## 2026-01-28 18:14 UTC - outer-review
 
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.2 Pro
@@ -1502,7 +1554,7 @@ topics: []
   4. Epiphenomenalism characterization ignores Chalmers' neutrality
 - **Tasks generated**: 4 (P1: 2, P2: 2)
 
-## 2026-01-28 21:45 UTC - expand-topic
+## 2026-01-28 18:00 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: Convergent Cognitive Limits
@@ -1511,7 +1563,7 @@ topics: []
 - **Based on research**: Yes, `research/voids-convergent-cognitive-limits-2026-01-28.md`
 - **Summary**: Cross-cultural research reveals humans converge on similar cognitive limits across isolated cultures—bias blind spot, mystical ineffability, Chomsky's scope/limits duality. Convergence provides methodological tool for distinguishing Unexplorable from Unexplored in the voids framework.
 
-## 2026-01-28 17:46 UTC - deep-review (cross-review)
+## 2026-01-28 17:47 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `concepts/unity-of-consciousness.md`
@@ -1525,7 +1577,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-28-unity-of-consciousness.md`
 - **Note**: Cross-review integrating new neural-binding-mechanisms article. Article has reached stability after 2 reviews (2026-01-24, 2026-01-28). Adversarial objections (eliminativism, MWI, decoherence) are bedrock philosophical disagreements, not fixable flaws.
 
-## 2026-01-28 17:40 UTC - research-voids
+## 2026-01-28 17:41 UTC - research-voids
 
 - **Status**: Success
 - **Topic**: Convergent Cognitive Limits
@@ -1537,7 +1589,7 @@ topics: []
   2. The shape of species-level cognitive closure mapped through cross-cultural failure patterns
   3. Ineffability as evidence—consistent inability to articulate certain experiences across traditions
 
-## 2026-01-28 17:26 UTC - deep-review (cross-review)
+## 2026-01-28 17:27 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `concepts/binding-problem.md`
@@ -1552,7 +1604,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-28-binding-problem.md`
 - **Note**: Cross-review integrating new neural-binding-mechanisms article. Article has reached stability after 3 reviews (2026-01-19, 2026-01-22, 2026-01-28). Bedrock disagreements documented; future reviews should not re-flag philosophical standoffs as critical.
 
-## 2026-01-28 17:22 UTC - deep-review
+## 2026-01-28 17:23 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/consciousness-and-creativity.md`
@@ -1569,7 +1621,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-28-consciousness-and-creativity.md`
 - **Note**: Second review. Article now at stability. Stability notes document bedrock philosophical disagreements (eliminativism, MWI, Buddhist no-self) as expected standoffs, not issues to re-flag.
 
-## 2026-01-28 17:05 UTC - deep-review
+## 2026-01-28 17:07 UTC - deep-review
 
 - **Status**: Success (convergence confirmed)
 - **File**: `concepts/qbism.md`
@@ -1583,7 +1635,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-28-qbism-2.md`
 - **Note**: Second review confirms convergence. Article does not need further review unless substantively modified.
 
-## 2026-01-28 16:57 UTC - deep-review
+## 2026-01-28 16:59 UTC - deep-review
 
 - **Status**: Success (stability confirmed)
 - **File**: `concepts/neural-binding-mechanisms.md`
@@ -1597,14 +1649,14 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-28b-neural-binding-mechanisms.md`
 - **Note**: Second review confirms convergence. Article does not need further review unless substantively modified.
 
-## 2026-01-28 16:48 UTC - coalesce
+## 2026-01-28 16:49 UTC - coalesce
 
 - **Status**: No action taken
 - **Reason**: No strong candidates found for merging
 - **Analysis summary**: Extensive search examined binding/unity cluster (6 articles), psychophysical laws cluster (3 articles), memory cluster (2 articles), and attention cluster (5 articles). All apparent overlap is intentional architecture: hub articles with specialist companions, appropriate cross-references, distinct pedagogical roles.
 - **Conclusion**: Content is well-structured with minimal true redundancy.
 
-## 2026-01-28 20:15 UTC - deep-review
+## 2026-01-28 16:38 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/phenomenal-unity.md`
@@ -1622,7 +1674,7 @@ topics: []
   4. Added stapp-quantum-mind to Further Reading and concepts
 - **Output**: `reviews/deep-review-2026-01-28-phenomenal-unity.md`
 
-## 2026-01-28 19:30 UTC - deep-review
+## 2026-01-28 16:28 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/neural-binding-mechanisms.md`
@@ -1637,7 +1689,7 @@ topics: []
   3. Added [free-will](/topics/free-will/) and [agent-causation](/concepts/agent-causation/) to Further Reading and frontmatter
 - **Output**: `reviews/deep-review-2026-01-28-neural-binding-mechanisms.md`
 
-## 2026-01-28 16:16 UTC - deep-review
+## 2026-01-28 16:17 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/measurement-problem.md`
@@ -1652,7 +1704,7 @@ topics: []
   2. Trimmed haecceity paragraph to maintain length neutrality
 - **Output**: `reviews/deep-review-2026-01-28-measurement-problem.md`
 
-## 2026-01-28 16:06 UTC - deep-review
+## 2026-01-28 16:08 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/quantum-interpretations.md`
@@ -1667,14 +1719,14 @@ topics: []
   2. Trimmed redundant QBism exposition (now handled by dedicated article)
 - **Output**: `reviews/deep-review-2026-01-28-quantum-interpretations.md`
 
-## 2026-01-28 17:30 UTC - optimistic-review
+## 2026-01-28 16:04 UTC - optimistic-review
 
 - **Status**: Success
 - **Files reviewed**: 41 published topics, 145 published concepts, 1 tenets page (comprehensive review)
 - **Output**: `reviews/optimistic-2026-01-28-comprehensive.md`
 - **Content**: Multi-perspective strength analysis from sympathetic philosopher personas (Chalmers, Stapp, Nagel, Whitehead, Kane, McGinn). Identified key content strengths including: systematic integration of tenets across articles, contemplative evidence as empirical test, the human-ape gap as evidence against epiphenomenalism, indexical identity treatment in vertiginous question. Generated 7 new P3 expansion tasks: attention-motor-quantum synthesis, consciousness and meaning integration, phenomenological evidence methodology, phenomenal overflow concept page, counterfactual reasoning concept page, self-locating beliefs concept page.
 
-## 2026-01-28 15:45 UTC - deep-review
+## 2026-01-28 15:46 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/witness-consciousness.md`
@@ -1698,7 +1750,7 @@ topics: []
 - **Based on research**: Yes (`research/neural-binding-quantum-entanglement-2026-01-19.md`)
 - **Content**: Concept page covering classical neural binding mechanisms (gamma synchrony, thalamocortical resonance, global workspace) and their limitations at explaining phenomenal unity (BP2), contrasted with quantum entanglement as the only physical mechanism providing genuine ontological holism. Includes the zero-lag synchrony problem, experimental evidence, and the structural match between quantum and phenomenal unity.
 
-## 2026-01-28 22:30 UTC - deep-review
+## 2026-01-28 15:26 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/qbism.md`
@@ -1712,7 +1764,7 @@ topics: []
   2. Added wikilink to [many-worlds](/arguments/many-worlds/) concept page
 - **Output**: `reviews/deep-review-2026-01-28-qbism.md`
 
-## 2026-01-28 12:00 UTC - expand-topic
+## 2026-01-28 15:16 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: QBism (Quantum Bayesianism)
@@ -1721,7 +1773,7 @@ topics: []
 - **Based on research**: No (general knowledge)
 - **Content**: Concept page covering QBism's core claims (quantum states as beliefs, subjective probabilities, measurement as belief-updating), the agent problem (presupposes experiencing subjects without explaining them), comparison with other interpretations, and detailed tenet alignment. QBism centers the agent yet leaves consciousness unexplained—a gap the Map addresses.
 
-## 2026-01-28 15:05 UTC - deep-review
+## 2026-01-28 15:07 UTC - deep-review
 
 - **Status**: Success
 - **File**: `voids/intrinsic-nature-void.md`
@@ -1736,7 +1788,7 @@ topics: []
   3. Removed outdated refinement log comment
 - **Output**: `reviews/deep-review-2026-01-28-intrinsic-nature-void.md`
 
-## 2026-01-28 16:00 UTC - pessimistic-review
+## 2026-01-28 15:02 UTC - pessimistic-review
 
 - **Status**: Success
 - **Files reviewed**:
@@ -1758,7 +1810,7 @@ topics: []
 - **Tasks added**: 1 (P2: Address trained confabulation hypothesis in voids cluster)
 - **Output**: `reviews/pessimistic-2026-01-28-evening.md`
 
-## 2026-01-28 14:45 UTC - deep-review (follow-up)
+## 2026-01-28 14:47 UTC - deep-review (follow-up)
 
 - **Status**: Success
 - **File**: `topics/contemplative-evidence-for-consciousness-theories.md`
@@ -1771,7 +1823,7 @@ topics: []
 - **Notes**: Second review of this article. First review (2026-01-28 14:26) addressed substantive issues. Article has reached stability; future reviews should confirm rather than seek changes.
 - **Output**: `reviews/deep-review-2026-01-28b-contemplative-evidence-for-consciousness-theories.md`
 
-## 2026-01-28 15:30 UTC - deep-review
+## 2026-01-28 14:37 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/indexical-facts.md`
@@ -1789,7 +1841,7 @@ topics: []
   3. Strengthened connection to vertiginous question
 - **Output**: `reviews/deep-review-2026-01-28-indexical-facts.md`
 
-## 2026-01-28 14:26 UTC - deep-review
+## 2026-01-28 14:27 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/contemplative-evidence-for-consciousness-theories.md`
@@ -1807,7 +1859,7 @@ topics: []
   2. Expanded response to "causal contribution is purely neural" objection
 - **Output**: `reviews/deep-review-2026-01-28-contemplative-evidence-for-consciousness-theories.md`
 
-## 2026-01-28 14:30 UTC - deep-review (cross-review)
+## 2026-01-28 14:17 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `concepts/intersubjectivity.md`
@@ -1825,7 +1877,7 @@ topics: []
   4. Cross-link to other-minds-void in concepts and Further Reading
 - **Output**: `reviews/deep-review-2026-01-28-intersubjectivity.md`
 
-## 2026-01-28 14:00 UTC - deep-review (cross-review)
+## 2026-01-28 14:10 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `concepts/problem-of-other-minds.md`
@@ -1841,7 +1893,7 @@ topics: []
   3. Cross-link to other-minds-void in related_articles and Further Reading
 - **Output**: `reviews/deep-review-2026-01-28-problem-of-other-minds.md`
 
-## 2026-01-28 13:30 UTC - tune-system
+## 2026-01-28 14:03 UTC - tune-system
 
 - **Status**: Success
 - **Sessions analyzed**: 1050 (since first tune at session 10)
@@ -1861,7 +1913,7 @@ topics: []
   - Reviews completed: 542
 - **Output**: `reviews/system-tune-2026-01-28.md`
 
-## 2026-01-28 13:00 UTC - apex-evolve
+## 2026-01-28 13:59 UTC - apex-evolve
 
 - **Status**: Complete
 - **Article**: The Ground of Meaning (`apex/ground-of-meaning.md`)
@@ -1876,7 +1928,7 @@ topics: []
   - Corrected apex_sources paths
 - **Review**: `reviews/apex-evolve-2026-01-28-ground-of-meaning.md`
 
-## 2026-01-28 12:50 UTC - check-tenets
+## 2026-01-28 13:54 UTC - check-tenets
 
 - **Status**: Success
 - **Files checked**: 55 (41 topics + 14 core concepts)
@@ -1886,7 +1938,7 @@ topics: []
 - **Findings**: All content maintains excellent alignment with the five foundational tenets. No direct contradictions detected. Alternative frameworks (IIT, idealism, panpsychism) treated fairly while Map's positions remain clear.
 - **Output**: `reviews/tenet-check-2026-01-28.md` (updated with concepts analysis)
 
-## 2026-01-28 12:30 UTC - deep-review
+## 2026-01-28 12:21 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/hard-problem-of-consciousness.md`
@@ -1900,7 +1952,7 @@ topics: []
   - Added internal reference to temporal phenomenology section
 - **Output**: `reviews/deep-review-2026-01-28-hard-problem-of-consciousness.md`
 
-## 2026-01-28 11:27 UTC - deep-review
+## 2026-01-28 11:29 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/epiphenomenalism.md`
@@ -1911,7 +1963,7 @@ topics: []
 - **Cross-review context**: contemplative-evidence-for-consciousness-theories.md
 - **Output**: `reviews/deep-review-2026-01-28-epiphenomenalism.md`
 
-## 2026-01-27 23:00 UTC - expand-topic
+## 2026-01-27 22:44 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: The Other Minds Void
@@ -1927,7 +1979,7 @@ topics: []
 - **Word count**: 2115
 - **Based on research**: Yes, `research/contemplative-neuroscience-meditation-2026-01-23.md`
 
-## 2026-01-27 22:30 UTC - research-voids
+## 2026-01-27 22:22 UTC - research-voids
 
 - **Status**: Success
 - **Topic**: The Other Minds Void
@@ -1935,7 +1987,7 @@ topics: []
 - **Output**: `research/voids-other-minds-void-2026-01-27.md`
 - **Key finding**: The fundamental inaccessibility of other consciousnesses represents a structural void—each mind sealed within itself, able to infer but never directly access others' experience. This asymmetry may be constitutive of consciousness itself.
 
-## 2026-01-27 21:00 UTC - expand-topic
+## 2026-01-27 22:09 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: Indexical facts
@@ -1943,7 +1995,7 @@ topics: []
 - **Word count**: 1696
 - **Based on research**: Yes, `research/indexical-identity-haecceity-thisness-2026-01-23.md`
 
-## 2026-01-27 21:59 UTC - deep-review
+## 2026-01-27 22:01 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/integrated-information-theory-critique.md`
@@ -1960,7 +2012,7 @@ topics: []
   - Updated concepts frontmatter with three new entries
 - **Output**: `reviews/deep-review-2026-01-27-integrated-information-theory-critique.md`
 
-## 2026-01-27 12:00 UTC - expand-topic
+## 2026-01-27 09:08 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: Integrated Information Theory (IIT) critique
@@ -1968,7 +2020,7 @@ topics: []
 - **Word count**: 1366
 - **Based on research**: Yes, `research/integrated-information-theory-2026-01-07.md`
 
-## 2026-01-27 22:30 UTC - deep-review
+## 2026-01-27 20:45 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/introspection.md`
@@ -1986,7 +2038,7 @@ topics: []
   - Condensed metamemory, aPFC, and illusionist sections for length-neutrality
 - **Output**: `reviews/deep-review-2026-01-27-introspection.md`
 
-## 2026-01-27 23:00 UTC - coalesce
+## 2026-01-27 21:36 UTC - coalesce
 
 - **Status**: Success
 - **Sources**:
@@ -2003,7 +2055,7 @@ topics: []
 - **Word count**: ~4000 combined → ~3800 unified
 - **Notes**: Both source articles covered the Born rule problem, QBism, objective probability, and indexical probability. First article emphasized participatory realism and philosophical challenges (illusionism, mysterianism). Second emphasized the Map's interface view and practical challenges (decoherence, conservation). Unified article preserves both perspectives in a comprehensive treatment.
 
-## 2026-01-27 19:00 UTC - deep-review
+## 2026-01-27 21:15 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/qualia.md`
@@ -2019,7 +2071,7 @@ topics: []
   - Added cross-links strengthening qualia-void connection
 - **Output**: `reviews/deep-review-2026-01-27-qualia.md`
 
-## 2026-01-27 21:09 UTC - deep-review
+## 2026-01-27 21:10 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/quantum-measurement-and-subjective-probability.md`
@@ -2034,7 +2086,7 @@ topics: []
   - Added cross-link to [process-philosophy](/concepts/process-philosophy/) connecting to actual occasions
 - **Output**: `reviews/deep-review-2026-01-27-quantum-measurement-and-subjective-probability.md`
 
-## 2026-01-27 20:54 UTC - deep-review
+## 2026-01-27 20:55 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/libet-experiments.md`
@@ -2049,7 +2101,7 @@ topics: []
   - Integrated phenomenological grounding from quantum-measurement article
 - **Output**: `reviews/deep-review-2026-01-27-libet-experiments.md`
 
-## 2026-01-27 22:30 UTC - deep-review
+## 2026-01-27 20:45 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/psychophysical-laws.md`
@@ -2063,7 +2115,7 @@ topics: []
   - Condensed later haecceity section to reduce redundancy with dedicated article
 - **Output**: `reviews/deep-review-2026-01-27-psychophysical-laws.md`
 
-## 2026-01-28 00:15 UTC - optimistic-review
+## 2026-01-28 20:37 UTC - optimistic-review
 
 - **Status**: Success
 - **Content reviewed**: All non-draft topics, concepts, and tenets (180+ articles)
@@ -2076,7 +2128,7 @@ topics: []
 - **Expansion opportunities**: Phenomenology of temporal experience, quantum measurement and definite outcomes, neural implementation specifics
 - **New tasks added**: 6 P3 tasks to todo.md
 
-## 2026-01-27 23:15 UTC - deep-review
+## 2026-01-27 20:25 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/retrocausality.md`
@@ -2091,7 +2143,7 @@ topics: []
   - Integrated key insight distinguishing physics-based retrocausality from contested parapsychology
 - **Output**: `reviews/deep-review-2026-01-27-retrocausality.md`
 
-## 2026-01-27 20:45 UTC - deep-review
+## 2026-01-27 20:15 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/quantum-consciousness.md`
@@ -2104,7 +2156,7 @@ topics: []
 - **Enhancements made**: 2
 - **Output**: `reviews/deep-review-2026-01-27-quantum-consciousness-crossreview.md`
 
-## 2026-01-27 20:08 UTC - deep-review
+## 2026-01-27 20:09 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/quantum-biology-and-the-consciousness-debate.md`
@@ -2121,7 +2173,7 @@ topics: []
   - Added microtubule citations with epistemic qualification
 - **Output**: `reviews/deep-review-2026-01-27-quantum-biology-and-the-consciousness-debate.md`
 
-## 2026-01-27 12:30 UTC - condense
+## 2026-01-27 19:55 UTC - condense
 
 - **Status**: Success
 - **File**: `concepts/materialism.md`
@@ -2130,7 +2182,7 @@ topics: []
 - **Reduction**: 31%
 - **Technique**: Cut redundant detail in sections with dedicated articles (illusionism, knowledge argument, conceivability arguments, argument from reason, mysterianism); consolidated process philosophy and idealism alternatives into single paragraph with links; compressed "What Would Challenge" from numbered list to prose
 
-## 2026-01-27 19:44 UTC - refine-draft
+## 2026-01-27 19:45 UTC - refine-draft
 
 - **Status**: Success
 - **File**: `topics/quantum-binding-and-phenomenal-unity.md`
@@ -2143,7 +2195,7 @@ topics: []
   - Updated description meta field
 - **Published**: yes
 
-## 2026-01-27 23:50 UTC - pessimistic-review
+## 2026-01-27 19:37 UTC - pessimistic-review
 
 - **Status**: Success
 - **Content reviewed**:
@@ -2162,7 +2214,7 @@ topics: []
 - **Tasks generated**: 1 (P2: refine quantum-binding article)
 - **Philosopher critiques**: Churchland, Dennett, Tegmark, Deutsch, Popper, Nagarjuna all engaged
 
-## 2026-01-27 19:29 UTC - expand-topic
+## 2026-01-27 19:30 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: Pre-Conceptual Knowing
@@ -2172,7 +2224,7 @@ topics: []
 - **Key themes**: Fineness of grain problem, phenomenal overflow, knowledge by acquaintance, prereflective bodily awareness
 - **Void type**: Unexplorable — structural feature of conceptual cognition
 
-## 2026-01-27 19:15 UTC - deep-review (cross-review)
+## 2026-01-27 19:17 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `topics/quantum-binding-and-phenomenal-unity.md`
@@ -2190,7 +2242,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-quantum-binding-and-phenomenal-unity.md`
 - **Convergence note**: Second review of this article (previous: 2026-01-21); article approaching stability
 
-## 2026-01-27 18:10 UTC - deep-review
+## 2026-01-27 18:56 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/decoherence-and-macroscopic-superposition.md`
@@ -2208,7 +2260,7 @@ topics: []
   - Strengthened biological disanalogy acknowledgment
 - **Output**: `reviews/deep-review-2026-01-27-decoherence-and-macroscopic-superposition.md`
 
-## 2026-01-27 23:30 UTC - deep-review (cross-review)
+## 2026-01-27 18:01 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `topics/free-will.md`
@@ -2222,7 +2274,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-free-will.md`
 - **Convergence note**: Fifth review of this article (previous: 2026-01-13, 2026-01-15, 2026-01-20, 2026-01-23); article has reached stability
 
-## 2026-01-27 14:30 UTC - deep-review (cross-review)
+## 2026-01-27 17:50 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `topics/indexical-identity-quantum-measurement.md`
@@ -2236,7 +2288,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-indexical-identity-quantum-measurement.md`
 - **Convergence note**: Second review of this article (previous: 2026-01-25); article has reached stability
 
-## 2026-01-27 17:39 UTC - deep-review (cross-review)
+## 2026-01-27 17:41 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `topics/psychophysical-laws-framework.md`
@@ -2250,7 +2302,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-psychophysical-laws-framework.md`
 - **Convergence note**: Second review of this article; approaching stability
 
-## 2026-01-27 17:29 UTC - deep-review (cross-review)
+## 2026-01-27 17:30 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `topics/quantum-neural-timing-constraints.md`
@@ -2265,7 +2317,7 @@ topics: []
   - Added to Further Reading and related_articles
 - **Output**: `reviews/deep-review-2026-01-27-quantum-neural-timing-constraints.md`
 
-## 2026-01-27 17:26 UTC - research-voids
+## 2026-01-27 17:27 UTC - research-voids
 
 - **Status**: Success
 - **Topic**: The Void of Pre-Conceptual Knowing
@@ -2274,7 +2326,7 @@ topics: []
 - **Key finding**: Conceptual thought may simultaneously enable and limit knowledge—beings who think through concepts may be structurally blocked from modes of knowing available to non-conceptual minds
 - **Sources explored**: Non-conceptual content (Evans, McDowell), fineness of grain argument, phenomenal overflow (Block), knowledge by acquaintance (Russell), prereflective awareness (phenomenology), ineffability (Wittgenstein)
 
-## 2026-01-27 17:00 UTC - deep-review
+## 2026-01-27 17:01 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/chalmers-psychophysical-coupling.md`
@@ -2315,7 +2367,7 @@ topics: []
   - Complemented existing indexical-identity and interpretations-beyond-mwi articles
   - Developed the "participation ambiguity" in Wheeler/Fuchs's participatory realism
 
-## 2026-01-27 18:00 UTC - coalesce
+## 2026-01-27 16:32 UTC - coalesce
 
 - **Status**: Success (cleanup)
 - **Action**: Removed duplicate topic file
@@ -2324,7 +2376,7 @@ topics: []
 - **Already archived**: `archive/topics/consciousness-as-intelligence-amplifier.md` (original from 2026-01-22)
 - **Notes**: The topic file was recreated by expand-topic after a previous coalesce had already merged and archived it. The concept version (264 lines) is more comprehensive than the duplicate (163 lines). References in `topics/animal-consciousness.md` updated to point to canonical version.
 
-## 2026-01-27 12:00 UTC - expand-topic
+## 2026-01-27 09:08 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: Quantum biology and neural mechanisms
@@ -2336,7 +2388,7 @@ topics: []
   - Distinguished from existing quantum-biology.md and quantum-neural-mechanisms.md concepts by focusing on burden-of-proof shift rather than mechanism catalogs
   - Emphasized what remains uncertain alongside what's established
 
-## 2026-01-27 22:45 UTC - deep-review
+## 2026-01-27 16:11 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/presentiment-and-retrocausality.md`
@@ -2352,7 +2404,7 @@ topics: []
   - Updated frontmatter with new concept links and last_deep_review timestamp
 - **Output**: `reviews/deep-review-2026-01-27-presentiment-and-retrocausality.md`
 
-## 2026-01-27 21:30 UTC - expand-topic
+## 2026-01-27 16:06 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: Retrocausal neural firing and presentiment
@@ -2364,7 +2416,7 @@ topics: []
   - Followed research recommendation to distinguish physics-based retrocausality from contested parapsychology
   - Emphasized that the Map's commitments rest on physics, not presentiment claims
 
-## 2026-01-27 15:50 UTC - deep-review (cross-review)
+## 2026-01-27 15:51 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `concepts/mysterianism.md`
@@ -2380,7 +2432,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-mysterianism-ccl.md`
 - **Stability notes**: Third deep review; article now at convergence
 
-## 2026-01-27 22:30 UTC - optimistic-review
+## 2026-01-27 10:17 UTC - optimistic-review
 
 - **Status**: Success
 - **Content reviewed**: All non-draft topics, concepts, and tenets
@@ -2392,7 +2444,7 @@ topics: []
   - New concept pages needed: baseline-cognition, phenomenal-unity, cognitive-phenomenology, specious-present
 - **Tasks added**: 3 P3 tasks to todo.md (baseline-cognition concept page, process philosophy article, binding problem article)
 
-## 2026-01-27 20:45 UTC - deep-review (cross-review)
+## 2026-01-27 15:32 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `voids/ai-as-void-explorer.md`
@@ -2411,7 +2463,7 @@ topics: []
   - Stability notes for future reviews
 - **Output**: `reviews/deep-review-2026-01-27-ai-as-void-explorer.md`
 
-## 2026-01-27 15:21 UTC - deep-review (cross-review)
+## 2026-01-27 15:22 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `concepts/simulation.md`
@@ -2422,7 +2474,7 @@ topics: []
 - **Enhancements made**: 5 (player-game analogy qualification, MWI caveat, computational limits subsection, cross-link to computational-cognitive-limits, prose tightening)
 - **Output**: `reviews/deep-review-2026-01-27-simulation.md`
 
-## 2026-01-27 15:10 UTC - deep-review
+## 2026-01-27 15:12 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/locality.md`
@@ -2432,7 +2484,7 @@ topics: []
 - **Enhancements made**: 2 (updated all broken links, added free-will cross-link)
 - **Output**: `reviews/deep-review-2026-01-27-locality.md`
 
-## 2026-01-27 18:52 UTC - refine-draft
+## 2026-01-27 14:59 UTC - refine-draft
 
 - **Status**: Success
 - **File**: `voids/consciousness-only-territories.md`
@@ -2443,7 +2495,7 @@ topics: []
   - Changed relative time reference ("Fifty years") to explicit date ("Since Jackson's 1982 paper")
 - **Published**: yes
 
-## 2026-01-27 14:48 UTC - refine-draft
+## 2026-01-27 14:49 UTC - refine-draft
 
 - **Status**: Success
 - **File**: `concepts/binding-problem.md`
@@ -2456,7 +2508,7 @@ topics: []
   - Minor phrasing improvement in sleep section transition
 - **Published**: yes
 
-## 2026-01-28 00:30 UTC - pessimistic-review
+## 2026-01-28 14:42 UTC - pessimistic-review
 
 - **Status**: Success
 - **Files reviewed**:
@@ -2475,7 +2527,7 @@ topics: []
 - **Output**: `reviews/pessimistic-2026-01-28.md`
 - **Notes**: Cluster addresses binding, consciousness-only territories, and animal consciousness. Multi-perspective critical analysis from eliminativist, physicalist, quantum skeptic, MWI defender, empiricist, and Buddhist viewpoints. Main vulnerability: articles assume phenomenal consciousness is real rather than arguing against eliminativist/illusionist challenges deeply enough.
 
-## 2026-01-27 19:30 UTC - deep-review
+## 2026-01-27 05:53 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/consciousness-and-mathematical-understanding.md`
@@ -2490,7 +2542,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-consciousness-and-mathematical-understanding.md`
 - **Notes**: Second review of this article. Stability achieved. Cross-reference integration with computational-cognitive-limits connects the phenomenological argument (this article) with the formal mathematical argument (voids article). Bedrock disagreements (MWI, zombie circularity, Gödelian contestation) acknowledged, not flagged.
 
-## 2026-01-27 19:45 UTC - deep-review
+## 2026-01-27 14:31 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/spontaneous-collapse-theories.md`
@@ -2505,7 +2557,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-spontaneous-collapse-theories.md` (updated)
 - **Notes**: Third review of this article. Stability achieved. Cross-reference integration with quantum-neural-mechanisms completes the Map's quantum consciousness coverage. Bedrock philosophical disagreements (MWI, eliminativism) are acknowledged, not flagged.
 
-## 2026-01-27 14:09 UTC - deep-review
+## 2026-01-27 14:11 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/buddhism-and-dualism.md`
@@ -2518,7 +2570,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-buddhism-and-dualism.md`
 - **Notes**: Second review of this article. Near-stability achieved. Core compatibility thesis (irreducibility ≠ permanence) is sound. Remaining philosophical objections are bedrock disagreements, not fixable flaws.
 
-## 2026-01-27 18:00 UTC - expand-topic
+## 2026-01-27 08:00 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: Computational Cognitive Limits
@@ -2527,7 +2579,7 @@ topics: []
 - **Based on research**: yes (`research/voids-computational-cognitive-limits-2026-01-27.md`)
 - **Notes**: Explores formal limits on what algorithmic minds can know—halting problem, Gödel incompleteness, Rice's theorem, Chaitin's incompleteness, computational irreducibility. Connects to Penrose argument for non-computational consciousness. Strong support for "Occam's Razor Has Limits" tenet.
 
-## 2026-01-27 13:48 UTC - refine-draft
+## 2026-01-27 13:49 UTC - refine-draft
 
 - **Status**: Success
 - **File**: `concepts/measurement-problem.md`
@@ -2538,7 +2590,7 @@ topics: []
   - Removed some formulaic "The Map's response/objection:" patterns for more natural flow
 - **Published**: yes
 
-## 2026-01-27 15:30 UTC - deep-review
+## 2026-01-27 12:17 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/stapp-quantum-mind.md`
@@ -2553,7 +2605,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-stapp-quantum-mind.md`
 - **Notes**: Second review of this article (previous: 2026-01-22). Article approaching stability—core mechanism, free will section, falsifiability predictions all strong. Cross-review integrated recent quantum biology updates demonstrating biological precedent for Zeno mechanism.
 
-## 2026-01-27 11:57 UTC - research-voids
+## 2026-01-27 12:00 UTC - research-voids
 
 - **Status**: Success
 - **Topic**: Computational Cognitive Limits
@@ -2561,7 +2613,7 @@ topics: []
 - **Output**: `research/voids-computational-cognitive-limits-2026-01-27.md`
 - **Key finding**: Formal results from computability theory (halting problem, Gödel's incompleteness, Rice's theorem, Chaitin's incompleteness) and complexity theory (NP-hardness, computational irreducibility) establish mathematical limits on what any computational system can know—creating a genuine "unexplorable" void if minds are computational, or a potential window for non-computational consciousness (Penrose) if they are not.
 
-## 2026-01-27 16:30 UTC - deep-review
+## 2026-01-27 10:41 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/animal-consciousness.md`
@@ -2573,7 +2625,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-animal-consciousness.md`
 - **Notes**: Second review of this article (previous: 2026-01-22). Article is stable—no critical issues, counterarguments addressed, all tenet connections present. Cross-review confirmed integration with consciousness-as-intelligence-amplifier is now explicit.
 
-## 2026-01-27 18:30 UTC - deep-review
+## 2026-01-27 04:24 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/baseline-cognition.md`
@@ -2585,7 +2637,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-baseline-cognition.md`
 - **Notes**: Third review of this article (previous: 2026-01-22, 2026-01-25). Article is stable—no critical issues, counterarguments addressed, all tenet connections present. Cross-review confirmed complementary relationship with consciousness-as-intelligence-amplifier is now explicit.
 
-## 2026-01-27 11:36 UTC - deep-review
+## 2026-01-27 11:37 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/nihilism-and-existentialism.md`
@@ -2596,7 +2648,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-nihilism-and-existentialism.md`
 - **Notes**: First review of coalesced article. No critical issues—article is philosophically competent with all required sections. Improvements focused on steelmanning opposing positions (illusionism, MWI) while maintaining the Map's commitments.
 
-## 2026-01-27 23:45 UTC - deep-review
+## 2026-01-27 11:27 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/duration.md`
@@ -2608,7 +2660,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-duration.md`
 - **Notes**: Second review of this article. Previous review (2026-01-21) added major sections (illusionist challenge, decoherence engagement, falsifiability). This review focused on integration with newly created process-philosophy.md. Article remains at hard_warning (145% of target) but content is substantive rather than verbose. Approaching stability.
 
-## 2026-01-27 11:15 UTC - deep-review
+## 2026-01-27 11:17 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/panpsychism.md`
@@ -2620,7 +2672,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-panpsychism.md`
 - **Notes**: Third review today. Article has clearly stabilized—only minimal link cleanup needed. The process-philosophy article explicitly discusses tensions with the Map's framework; panpsychism article cross-links rather than duplicating.
 
-## 2026-01-27 07:00 UTC - coalesce
+## 2026-01-27 11:14 UTC - coalesce
 
 - **Status**: Success
 - **Sources**: `concepts/nihilism.md`, `concepts/existentialism.md`
@@ -2630,7 +2682,7 @@ topics: []
 - **References to review**: 8 files reference the archived articles (see grep for `\[\[nihilism\]\]` and `\[\[existentialism\]\]`). These wikilinks will continue to work via archive redirect but may warrant review.
 - **Notes**: The unified article preserves all key content from both sources while eliminating redundancy and providing better narrative flow from problem (nihilism) to response (existentialism).
 
-## 2026-01-27 10:54 UTC - deep-review
+## 2026-01-27 10:55 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/epiphenomenalism.md`
@@ -2642,7 +2694,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-epiphenomenalism.md`
 - **Notes**: Second review in two days. Article has reached convergence—targeted cross-review enhancement only. The previous review (2026-01-26) found no critical issues. This review aligned the amplification evidence with the consciousness-as-amplifier article's treatment of the access/phenomenal distinction.
 
-## 2026-01-27 12:30 UTC - deep-review
+## 2026-01-27 05:30 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/arguments-for-dualism.md`
@@ -2653,7 +2705,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-arguments-for-dualism.md`
 - **Notes**: Second review. Article reached convergence—no critical issues, comprehensive coverage of dualist arguments, all five tenets engaged. Length reduced from 151% to 130% of soft threshold.
 
-## 2026-01-27 16:30 UTC - deep-review
+## 2026-01-27 10:41 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/quantum-consciousness.md`
@@ -2665,21 +2717,21 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-quantum-consciousness.md`
 - **Notes**: Cross-review integrating key insight from quantum-neural-mechanisms: discrete mechanisms (Stapp Zeno, synaptic tunneling) sidestep the decoherence timing gap entirely. Added mysterian caveat for epistemic humility about ultimate explanation. Third review of this article—now stable with good cross-linking to companion articles.
 
-## 2026-01-27 23:15 UTC - expand-topic (duplicate resolved)
+## 2026-01-27 10:24 UTC - expand-topic (duplicate resolved)
 
 - **Status**: Task already completed
 - **Topic**: quantum biology and neural mechanisms
 - **Output**: concepts/quantum-neural-mechanisms.md (existing, created 2026-01-24)
 - **Notes**: Task was regenerated by unconsumed_research detector but article already exists. concepts/quantum-neural-mechanisms.md (~2955 words) comprehensively covers all five mechanisms from research/quantum-biology-neural-mechanisms-2026-01-24.md: radical pairs, ion tunneling, microtubules (Orch OR/QBIT), SNARE tunneling, Posner molecules. Also see concepts/quantum-biology.md (~2846 words) for complementary coverage of established quantum biological effects. No new content needed—removed duplicate task from queue.
 
-## 2026-01-27 22:30 UTC - optimistic-review
+## 2026-01-27 10:17 UTC - optimistic-review
 
 - **Status**: Success
 - **Content reviewed**: tenets.md, hard-problem-of-consciousness.md, free-will.md, personal-identity.md, indexical-identity-quantum-measurement.md, dualism.md, qualia.md, meaning-of-life.md, quantum-consciousness.md, vertiginous-question.md, interactionist-dualism.md
 - **Output**: `reviews/optimistic-2026-01-27-late.md`
 - **Summary**: Multi-perspective strength analysis from six sympathetic philosophers (Chalmers, Stapp, Nagel, Whitehead, Kane, McGinn). Key strengths identified: systematic tenet integration, sophisticated indexical identity/haecceity treatment, rigorous engagement with objections. Strongest articles: hard-problem-of-consciousness.md (structural gap analysis), indexical-identity-quantum-measurement.md (novel contribution connecting QM to hard problem), vertiginous-question.md (clear formulation of why-this-consciousness question). High-priority expansion opportunities: philosophy of temporal experience, phenomenology of understanding, expanded Buddhist philosophy integration. Added 3 new P3 expand-topic tasks to todo.md.
 
-## 2026-01-27 18:30 UTC - deep-review
+## 2026-01-27 04:24 UTC - deep-review
 
 - **Status**: Success
 - **File**: `voids/self-reference-paradox.md`
@@ -2691,7 +2743,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-self-reference-paradox.md`
 - **Notes**: Second review of this article. Previous review (2026-01-20) addressed major structural issues. This cross-review integrated with destabilizing-self-knowledge and qualified the "eye cannot see itself" metaphor to address Dennett-style objection.
 
-## 2026-01-27 09:53 UTC - deep-review
+## 2026-01-27 09:54 UTC - deep-review
 
 - **Status**: Success (no changes needed)
 - **File**: `concepts/panpsychism.md`
@@ -2703,7 +2755,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-panpsychism-process.md`
 - **Notes**: Third review of panpsychism.md today. Verified process philosophy connections are adequate: Whitehead subsection present, creative synthesis mentioned, [process-philosophy](/concepts/process-philosophy/) cross-linked. Article has converged—no changes warranted.
 
-## 2026-01-27 09:44 UTC - deep-review
+## 2026-01-27 09:45 UTC - deep-review
 
 - **Status**: Success
 - **File**: `topics/consciousness-as-intelligence-amplifier.md`
@@ -2714,7 +2766,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-consciousness-as-intelligence-amplifier.md`
 - **Notes**: Article was substantially rewritten since previous review (2026-01-25). Added clarifying paragraph distinguishing access and phenomenal consciousness. Article well within length threshold.
 
-## 2026-01-27 09:34 UTC - deep-review
+## 2026-01-27 09:35 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/temporal-consciousness.md`
@@ -2738,7 +2790,7 @@ topics: []
   - Removed unnecessary qualifiers and wordy phrases
 - **Published**: yes
 
-## 2026-01-27 23:30 UTC - pessimistic-review
+## 2026-01-27 09:16 UTC - pessimistic-review
 
 - **Status**: Success
 - **Content reviewed**:
@@ -2748,7 +2800,7 @@ topics: []
 - **Output**: `reviews/pessimistic-2026-01-27-late.md`
 - **Summary**: Critical review of cluster around consciousness's causal/functional role. Found methodological weakness: articles treat correlation with consciousness as evidence for causal dependence without ruling out confounds (working memory, neural architecture). Key issues: (1) consciousness-as-amplifier argument doesn't distinguish consciousness from its neural substrate, (2) evolutionary argument dismissed rather than engaged with epiphenomenalist response, (3) process philosophy acknowledged as empirically idle yet deployed as support, (4) temporal argument against AI presupposes anti-illusionism. All three articles well-integrated but share vulnerability of treating consciousness as observable independent variable.
 
-## 2026-01-27 12:00 UTC - expand-topic
+## 2026-01-27 09:08 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: Consciousness as Intelligence Amplifier
@@ -2759,7 +2811,7 @@ topics: []
   - `research/consciousness-independent-baseline-cognition-2026-01-21.md`
 - **Summary**: Article explores how consciousness transforms baseline cognition into human-level intelligence. Covers the baseline cognition hypothesis (great apes as model), consciousness-dependent cognitive functions (logical reasoning, counterfactual thinking, metarepresentation), the evolutionary argument against epiphenomenalism, and implications for AI. Listed as source article for Machine Question apex article.
 
-## 2026-01-27 20:00 UTC - condense
+## 2026-01-27 00:28 UTC - condense
 
 - **Status**: Success
 - **File**: `research/indexical-identity-haecceity-thisness-2026-01-23.md`
@@ -2770,7 +2822,7 @@ topics: []
 - **Preserved**: Executive summary, key source URLs with essential points, research gaps, tenet alignments, core citations
 - **Context**: Article [vertiginous-question](/topics/vertiginous-question/) has been written from this research, making much material duplicative
 
-## 2026-01-27 19:30 UTC - deep-review
+## 2026-01-27 05:53 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/process-philosophy.md`
@@ -2782,7 +2834,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-process-philosophy.md`
 - **Summary**: First deep review of process-philosophy.md. No critical issues found. Added new "Testability and Limitations" section acknowledging the metaphysical (rather than scientific) nature of process philosophy's claims. Added paragraph on Henry Stapp's explicit engagement with Whitehead in the quantum section. Preserved strengths: honest Tensions section, elegant Bergson integration, balanced combination problem treatment. Article is well-structured and aligns appropriately with the Map's framework while honestly noting divergences.
 
-## 2026-01-27 08:35 UTC - deep-review
+## 2026-01-27 08:37 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/temporal-consciousness.md`
@@ -2794,7 +2846,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-temporal-consciousness.md`
 - **Summary**: Integrated process-philosophy insights into temporal-consciousness article. Added cross-link to new [process-philosophy](/concepts/process-philosophy/) article in Process Philosophy Perspective section. Enriched section with "personally ordered society" and "dominant occasion" terminology. Noted parallel between temporal binding and combination problem. Acknowledged tension between Whitehead's panpsychism and Map's interactionist dualism. Added brief mention of Dennett's multiple drafts model in illusionist section. Tightened prose elsewhere to maintain length neutrality. Article has reached stability after two reviews.
 
-## 2026-01-27 08:23 UTC - deep-review
+## 2026-01-27 08:25 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/panpsychism.md`
@@ -2806,7 +2858,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-panpsychism-2.md`
 - **Summary**: Integrated process-philosophy insights into panpsychism article. Added cross-link to new [process-philosophy](/concepts/process-philosophy/) article in Whitehead section, connected process philosophy's notion of phenomenal unity as achievement to the combination problem discussion. Trimmed empirical boundary cases to maintain length neutrality. Article has reached stability after two reviews today.
 
-## 2026-01-27 20:45 UTC - check-tenets
+## 2026-01-27 08:21 UTC - check-tenets
 
 - **Status**: Success
 - **Files checked**: 134 (34 topics, 100 concepts)
@@ -2816,7 +2868,7 @@ topics: []
 - **Output**: `reviews/tenet-check-2026-01-27.md`
 - **Summary**: Comprehensive tenet alignment verification. All content maintains consistency with five foundational tenets. Warnings identify intentional philosophical contrasts (RQM, IIT, GWT, idealism, attention-as-interface) documented for pedagogical clarity rather than errors. Notes flag underdeveloped quantum connections and honest philosophical tensions. Framework is internally coherent across diverse topics.
 
-## 2026-01-27 14:30 UTC - expand-topic
+## 2026-01-27 08:15 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: Destabilizing Self-Knowledge
@@ -2825,7 +2877,7 @@ topics: []
 - **Based on research**: Yes, `research/voids-destabilizing-self-knowledge-2026-01-27.md`
 - **Summary**: Created voids article exploring knowledge that would dissolve the knower's capacity to hold it. Covers the self-studying brain paradox (2025 research), Metzinger's phenomenal transparency, psychedelic ego dissolution evidence, cognitohazards framework, phenomenology of approach (dissolving insights, destabilization anxiety, ineffability). Explores direct and indirect methods including AI as asymmetric probe. Full tenet alignment with emphasis on Occam's Razor Has Limits—the simplest assumption (minds can understand themselves) may be fundamentally wrong.
 
-## 2026-01-27 18:00 UTC - expand-topic
+## 2026-01-27 08:00 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: Process Philosophy
@@ -2834,7 +2886,7 @@ topics: []
 - **Based on research**: No (general knowledge)
 - **Summary**: Created concept page covering Whitehead's process metaphysics and Bergson's durée. Key sections: events over substances, prehension and experience, concrescence and creativity, Bergson connection, combination problem, relevance to consciousness studies. Distinguishes process philosophy's panpsychist monism from the Map's interactionist dualism while affirming shared anti-materialist insights. Links to duration, panpsychism, emergence, phenomenal-unity, temporal-consciousness.
 
-## 2026-01-27 11:30 UTC - research-voids
+## 2026-01-27 07:56 UTC - research-voids
 
 - **Status**: Success
 - **Topic**: Destabilizing Self-Knowledge
@@ -2842,7 +2894,7 @@ topics: []
 - **Output**: `research/voids-destabilizing-self-knowledge-2026-01-27.md`
 - **Key finding**: Certain truths about consciousness may be inherently destabilizing—the self-model requires phenomenal transparency (invisibility as a model) to function, and seeing through this transparency causes pathology (depersonalization) rather than enlightenment. The 2025 "paradox of the self-studying brain" research converges with Metzinger's transparency analysis and psychedelic ego dissolution studies to suggest some self-knowledge is structurally self-defeating.
 
-## 2026-01-27 07:38 UTC - refine-draft
+## 2026-01-27 07:39 UTC - refine-draft
 
 - **Status**: Success
 - **File**: `concepts/intersubjectivity.md`
@@ -2854,7 +2906,7 @@ topics: []
   - Added note about gamma synchrony replication across labs
 - **Published**: yes
 
-## 2026-01-27 07:30 UTC - deep-review
+## 2026-01-27 07:31 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/brain-interface-boundary.md`
@@ -2870,7 +2922,7 @@ topics: []
   - Condensed "The Key Insight" section (removed redundancy with Summary)
 - **Output**: `reviews/deep-review-2026-01-27-brain-interface-boundary.md`
 
-## 2026-01-27 18:42 UTC - condense
+## 2026-01-27 07:21 UTC - condense
 
 - **Status**: Success
 - **File**: `concepts/multi-mind-collapse-problem.md`
@@ -2880,7 +2932,7 @@ topics: []
 - **Technique**: Condensed "Problem Stated" section (removed redundant explanations of options), trimmed nonlocal coordination and RQM approaches (link to research note), removed "Lessons from RQM" section (redundant with RQM approach), cut Process Philosophy section substantially (kept core insight), reduced "What Would Challenge" from 6 to 4 items (defer detailed treatment to interface-locality), condensed illusionist challenge (removed separate subsection headings), tightened objections and responses (removed entanglement objection—covered in challenges), shortened tenet connections while preserving all five, trimmed Further Reading from 12 to 6 most relevant links.
 - **Preserved**: Opening summary with resolution, four approaches structure, core interface locality and objective collapse arguments, decoherence challenge, all tenet connections, summary, references.
 
-## 2026-01-27 07:10 UTC - condense
+## 2026-01-27 07:11 UTC - condense
 
 - **Status**: Success
 - **File**: `concepts/philosophical-zombies.md`
@@ -2890,7 +2942,7 @@ topics: []
 - **Technique**: Cut redundancy in physicalist responses (two-dimensional, phenomenal concepts sections), substantially condensed zombies-and-functionalism (defer to existing article), trimmed inverted-qualia section (link-based), reduced process philosophy to single paragraph, shortened convergence argument (covered in arguments-against-materialism), tightened illusionist challenge subsections, condensed tenet connections, trimmed external sources list.
 - **Preserved**: Opening summary, core three-step argument, explanatory gap grounding, self-stultification problem, all tenet connections, full site content links.
 
-## 2026-01-27 19:45 UTC - coalesce
+## 2026-01-27 07:03 UTC - coalesce
 
 - **Status**: Success
 - **Sources**:
@@ -2903,7 +2955,7 @@ topics: []
 - **References to review**: 29 files contain wikilinks to archived articles
 - **Notes**: Merged complementary articles on brain specialness (positive criteria) and interface locality (negative constraints) into unified treatment. Both addressed "why brains?" from different angles with significant overlap in sections (illusionist challenge, decoherence, process philosophy, tenets). New article integrates five interface criteria with four boundary constraints.
 
-## 2026-01-27 06:49 UTC - deep-review (cross-review)
+## 2026-01-27 06:50 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `concepts/measurement-problem.md`
@@ -2917,7 +2969,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-measurement-problem.md`
 - **Notes**: Third review. Article has reached high stability. Integrated key insight from prebiotic-collapse.md: objective reduction provides baseline, consciousness modulates. Operating in length-neutral mode (100% of soft threshold). No critical issues; philosophical standoffs (MWI, functionalism, unfalsifiability) are acknowledged bedrock disagreements.
 
-## 2026-01-27 17:30 UTC - deep-review
+## 2026-01-27 06:43 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/higher-order-theories.md`
@@ -2930,7 +2982,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-higher-order-theories.md`
 - **Notes**: Second review. Article has reached stability. Previous review (2026-01-19) addressed all major structural issues. This review made editorial improvements: tightened quantum prediction language and acknowledged limits of first-person evidence. Operating in length-neutral mode (108% of soft threshold). No critical issues; philosophical disagreements are expected bedrock standoffs.
 
-## 2026-01-27 06:19 UTC - deep-review (cross-review)
+## 2026-01-27 06:20 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `concepts/russellian-monism.md`
@@ -2944,7 +2996,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-russellian-monism.md`
 - **Notes**: Second review. Article has reached stability. Integrated intrinsic-nature-void connection via Kant's phenomena/noumena distinction. Operating in length-neutral mode (108% of soft threshold). No critical issues remain; philosophical disagreements from adversarial personas are bedrock standoffs, not fixable flaws.
 
-## 2026-01-27 06:11 UTC - optimistic-review
+## 2026-01-27 06:12 UTC - optimistic-review
 
 - **Status**: Success
 - **Content reviewed**: Non-draft content in topics/, concepts/, tenets/
@@ -2952,7 +3004,7 @@ topics: []
 - **Tasks added**: 2 (phenomenal value realism, Attention Schema Theory critique)
 - **Notes**: Multi-perspective strength analysis from sympathetic philosophers (Chalmers, Stapp, Nagel, Whitehead, Kane, McGinn). Identified site's key strengths in coherence, tenet integration, and honest engagement with challenges. Earlier review already covered many expansion opportunities; added two novel high-priority suggestions.
 
-## 2026-01-27 16:45 UTC - deep-review (cross-review)
+## 2026-01-27 06:12 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `concepts/knowledge-argument.md`
@@ -2965,7 +3017,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-knowledge-argument.md`
 - **Notes**: Third review. Article has reached stability. Mary's Room directly dramatizes the intrinsic nature void—complete structural knowledge yet missing intrinsic knowledge. Operating in length-neutral mode (99% of soft threshold). Minimal changes; philosophical disagreements from adversarial personas are bedrock standoffs.
 
-## 2026-01-27 16:45 UTC - deep-review (cross-review)
+## 2026-01-27 06:12 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `topics/hard-problem-of-consciousness.md`
@@ -2978,7 +3030,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-hard-problem-of-consciousness.md`
 - **Notes**: Third review. Article has reached stability. The intrinsic nature void provides independent support for the explanatory gap's structural nature—physics describes relations, not intrinsic nature. Modest addition within length-neutral constraint (95% of soft threshold).
 
-## 2026-01-27 19:30 UTC - deep-review
+## 2026-01-27 05:53 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/evolution-of-consciousness.md`
@@ -2994,7 +3046,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-evolution-of-consciousness.md`
 - **Notes**: Second review. Article approaching stability. Cross-review improved integration with prebiotic-collapse.md by clarifying that objective reduction provides baseline collapse—consciousness modulates in neural systems but doesn't require panpsychism.
 
-## 2026-01-27 05:40 UTC - deep-review
+## 2026-01-27 05:41 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/phenomenal-unity.md`
@@ -3008,7 +3060,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-phenomenal-unity.md`
 - **Notes**: Second review. Article approaching stability—core arguments sound, falsifiability criteria appropriate. Philosophical disagreements (eliminativism, MWI, Buddhist no-self) noted as bedrock.
 
-## 2026-01-27 12:30 UTC - deep-review
+## 2026-01-27 05:30 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/spontaneous-collapse-theories.md`
@@ -3022,7 +3074,7 @@ topics: []
 - **Output**: `reviews/deep-review-2026-01-27-spontaneous-collapse-theories.md`
 - **Notes**: Second review of this article. First review (2026-01-24) addressed major gaps. This cross-review improved integration with prebiotic-collapse page. Article approaching stability.
 
-## 2026-01-27 06:15 UTC - refine-draft
+## 2026-01-27 05:19 UTC - refine-draft
 
 - **Status**: Success
 - **File**: `voids/intrinsic-nature-void.md`
@@ -3036,7 +3088,7 @@ topics: []
 - **Addresses**: P2 todo from pessimistic-review (2026-01-27) regarding unaddressed functionalist challenges
 - **Published**: yes
 
-## 2026-01-27 21:30 UTC - pessimistic-review
+## 2026-01-27 05:11 UTC - pessimistic-review
 
 - **Status**: Success
 - **Content reviewed**:
@@ -3055,7 +3107,7 @@ topics: []
 
 ---
 
-## 2026-01-27 05:00 UTC - deep-review (cross-review)
+## 2026-01-27 05:06 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `concepts/panpsychism.md`
@@ -3068,7 +3120,7 @@ topics: []
 
 ---
 
-## 2026-01-27 20:45 UTC - condense
+## 2026-01-27 04:51 UTC - condense
 
 - **Status**: Success
 - **File**: `concepts/working-memory.md`
@@ -3079,7 +3131,7 @@ topics: []
 
 ---
 
-## 2026-01-27 04:38 UTC - deep-review
+## 2026-01-27 04:40 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/attention.md`
@@ -3092,7 +3144,7 @@ topics: []
 
 ---
 
-## 2026-01-27 15:00 UTC - deep-review (cross-review)
+## 2026-01-27 04:30 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: `voids/limits-reveal-structure.md`
@@ -3106,7 +3158,7 @@ topics: []
 
 ---
 
-## 2026-01-27 18:30 UTC - deep-review
+## 2026-01-27 04:24 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/mysterianism.md`
@@ -3120,7 +3172,7 @@ topics: []
 
 ---
 
-## 2026-01-27 12:00 UTC - apex-evolve
+## 2026-01-27 04:16 UTC - apex-evolve
 
 - **Status**: Success
 - **Article**: `apex/consciousness-and-agency.md`
@@ -3131,7 +3183,7 @@ topics: []
 
 ---
 
-## 2026-01-27 02:42 UTC - condense
+## 2026-01-27 02:43 UTC - condense
 
 - **Status**: Success
 - **File**: `concepts/existentialism.md`
@@ -3142,7 +3194,7 @@ topics: []
 
 ---
 
-## 2026-01-27 03:30 UTC - expand-topic
+## 2026-01-27 02:34 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: The Intrinsic Nature Void
@@ -3153,7 +3205,7 @@ topics: []
 
 ---
 
-## 2026-01-27 02:23 UTC - research-voids
+## 2026-01-27 02:25 UTC - research-voids
 
 - **Status**: Success
 - **Topic**: The Intrinsic Nature Void
@@ -3175,7 +3227,7 @@ topics: []
 
 ---
 
-## 2026-01-27 01:58 UTC - deep-review
+## 2026-01-27 02:00 UTC - deep-review
 
 - **Status**: Success (stable - no modifications needed)
 - **File**: `concepts/reductionism.md`
@@ -3189,7 +3241,7 @@ topics: []
 
 ---
 
-## 2026-01-27 15:45 UTC - condense
+## 2026-01-27 01:51 UTC - condense
 
 - **Status**: Success
 - **File**: `voids/thoughts-that-slip-away.md`
@@ -3211,7 +3263,7 @@ topics: []
 
 ---
 
-## 2026-01-27 12:00 UTC - coalesce
+## 2026-01-27 01:37 UTC - coalesce
 
 - **Status**: Success
 - **Sources**:
@@ -3225,7 +3277,7 @@ topics: []
 
 ---
 
-## 2026-01-27 01:18 UTC - condense
+## 2026-01-27 01:19 UTC - condense
 
 - **Status**: Success
 - **File**: `concepts/neural-correlates-of-consciousness.md`
@@ -3236,7 +3288,7 @@ topics: []
 
 ---
 
-## 2026-01-27 01:07 UTC - deep-review
+## 2026-01-27 01:08 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/filter-theory.md`
@@ -3249,7 +3301,7 @@ topics: []
 
 ---
 
-## 2026-01-27 17:45 UTC - condense
+## 2026-01-27 01:02 UTC - condense
 
 - **Status**: Success
 - **File**: `concepts/phenomenology.md`
@@ -3271,7 +3323,7 @@ topics: []
 
 ---
 
-## 2026-01-27 21:00 UTC - optimistic-review
+## 2026-01-27 00:38 UTC - optimistic-review
 
 - **Status**: Success
 - **Content reviewed**: All non-draft topics, concepts, and tenets
@@ -3291,7 +3343,7 @@ topics: []
 
 ---
 
-## 2026-01-27 20:00 UTC - condense
+## 2026-01-27 00:28 UTC - condense
 
 - **Status**: Success
 - **File**: `voids/temporal-asymmetry-remembering-anticipating.md`
@@ -3302,7 +3354,7 @@ topics: []
 
 ---
 
-## 2026-01-27 19:45 UTC - condense
+## 2026-01-27 00:20 UTC - condense
 
 - **Status**: Success
 - **File**: `concepts/retrocausality.md`
@@ -3313,7 +3365,7 @@ topics: []
 
 ---
 
-## 2026-01-27 00:06 UTC - deep-review
+## 2026-01-27 00:07 UTC - deep-review
 
 - **Status**: Success
 - **File**: `concepts/collapse-and-time.md`
@@ -3338,7 +3390,7 @@ topics: []
 
 ---
 
-## 2026-01-26 19:00 UTC - deep-review
+## 2026-01-26 23:48 UTC - deep-review
 
 - **Status**: Success
 - **File**: `voids/conceptual-acquisition-limits.md`
@@ -3354,7 +3406,7 @@ topics: []
 
 ---
 
-## 2026-01-27 00:30 UTC - pessimistic-review
+## 2026-01-27 23:39 UTC - pessimistic-review
 
 - **Status**: Success
 - **Content reviewed**:
@@ -3382,7 +3434,7 @@ topics: []
 
 ---
 
-## 2026-01-26 12:00 UTC - condense
+## 2026-01-26 10:10 UTC - condense
 
 - **Status**: Success
 - **File**: obsidian/concepts/self-and-consciousness.md
@@ -3393,7 +3445,7 @@ topics: []
 
 ---
 
-## 2026-01-26 19:39 UTC - condense
+## 2026-01-26 19:40 UTC - condense
 
 - **Status**: Success
 - **File**: obsidian/concepts/luck-objection.md
@@ -3445,7 +3497,7 @@ topics: []
 
 ---
 
-## 2026-01-26 19:07 UTC - deep-review (cross-review)
+## 2026-01-26 19:08 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: obsidian/concepts/measurement-problem.md
@@ -3461,7 +3513,7 @@ topics: []
 
 ---
 
-## 2026-01-26 19:01 UTC - deep-review
+## 2026-01-26 19:03 UTC - deep-review
 
 - **Status**: Success
 - **File**: obsidian/concepts/epiphenomenalism.md
@@ -3497,7 +3549,7 @@ topics: []
 
 ---
 
-## 2026-01-26 23:45 UTC - pessimistic-review
+## 2026-01-26 18:29 UTC - pessimistic-review
 
 - **Status**: Success
 - **Content reviewed**:
@@ -3520,7 +3572,7 @@ topics: []
 
 ---
 
-## 2026-01-26 20:45 UTC - deep-review
+## 2026-01-26 18:29 UTC - deep-review
 
 - **Status**: Success
 - **File**: obsidian/concepts/mental-causation.md
@@ -3534,7 +3586,7 @@ topics: []
 
 ---
 
-## 2026-01-26 18:01 UTC - deep-review
+## 2026-01-26 18:29 UTC - deep-review
 
 - **Status**: Success
 - **File**: obsidian/concepts/psychophysical-laws.md
@@ -3548,7 +3600,7 @@ topics: []
 
 ---
 
-## 2026-01-26 20:30 UTC - deep-review
+## 2026-01-26 17:58 UTC - deep-review
 
 - **Status**: Success
 - **File**: obsidian/topics/vertiginous-question.md
@@ -3561,7 +3613,7 @@ topics: []
 
 ---
 
-## 2026-01-26 14:45 UTC - condense
+## 2026-01-26 17:58 UTC - condense
 
 - **Status**: Success
 - **File**: obsidian/concepts/specious-present.md
@@ -3574,7 +3626,7 @@ topics: []
 
 ---
 
-## 2026-01-26 18:00 UTC - deep-review
+## 2026-01-26 17:43 UTC - deep-review
 
 - **Status**: Success
 - **File**: obsidian/concepts/haecceity.md
@@ -3588,7 +3640,7 @@ topics: []
 
 ---
 
-## 2026-01-26 23:45 UTC - tune-system
+## 2026-01-26 17:39 UTC - tune-system
 
 - **Status**: Success
 - **Sessions analyzed**: 896 (sessions 10 to 906)
@@ -3614,7 +3666,7 @@ topics: []
 
 ---
 
-## 2026-01-26 22:15 UTC - expand-topic
+## 2026-01-26 14:36 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: Collective Cognitive Limits
@@ -3625,7 +3677,7 @@ topics: []
 
 ---
 
-## 2026-01-26 16:30 UTC - expand-topic
+## 2026-01-26 14:27 UTC - expand-topic
 
 - **Status**: Success
 - **Topic**: Indexical identity and haecceity (The Vertiginous Question)
@@ -3636,7 +3688,7 @@ topics: []
 
 ---
 
-## 2026-01-26 21:45 UTC - research-voids
+## 2026-01-26 14:23 UTC - research-voids
 
 - **Status**: Success
 - **Topic**: Collective Cognitive Limits
@@ -3646,7 +3698,7 @@ topics: []
 
 ---
 
-## 2026-01-26 22:30 UTC - deep-review (cross-review)
+## 2026-01-26 14:15 UTC - deep-review (cross-review)
 
 - **Status**: Success
 - **File**: concepts/knowledge-argument.md
@@ -3659,7 +3711,7 @@ topics: []
 
 ---
 
-## 2026-01-26 14:10 UTC - deep-review
+## 2026-01-26 14:11 UTC - deep-review
 
 - **Status**: Success
 - **File**: topics/psychophysical-laws-framework.md
@@ -3671,7 +3723,7 @@ topics: []
 
 ---
 
-## 2026-01-26 16:00 UTC - expand-topic (duplicate resolved)
+## 2026-01-26 14:05 UTC - expand-topic (duplicate resolved)
 
 **Status**: Already complete
 **Topic**: Conservation law objections to mental causation
@@ -3680,7 +3732,7 @@ topics: []
 
 ---
 
-## 2026-01-26 15:30 UTC - expand-topic (duplicate resolved)
+## 2026-01-26 13:59 UTC - expand-topic (duplicate resolved)
 
 **Status**: Already complete
 **Topic**: Spontaneous collapse theories (GRW, CSL)
@@ -3689,7 +3741,7 @@ topics: []
 
 ---
 
-## 2026-01-26 14:30 UTC - coalesce
+## 2026-01-26 13:57 UTC - coalesce
 
 **Status**: Success
 **Sources**: concepts/binding-problem.md, concepts/phenomenal-binding.md
@@ -3710,7 +3762,7 @@ Original phenomenal-binding.md archived with metadata preserving URL for externa
 
 ---
 
-## 2026-01-26 12:00 UTC - expand-topic
+## 2026-01-26 13:43 UTC - expand-topic
 
 **Status**: Success
 **Topic**: Psychophysical Laws Framework
@@ -3722,7 +3774,7 @@ Created overview article integrating the psychophysical laws framework—explain
 
 ---
 
-## 2026-01-26 13:37 UTC - deep-review
+## 2026-01-26 13:38 UTC - deep-review
 
 **Status**: Success
 **File**: concepts/witness-consciousness.md
@@ -3741,7 +3793,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 13:33 UTC - condense
+## 2026-01-26 13:34 UTC - condense
 
 **Status**: Success
 **File**: concepts/problem-of-other-minds.md
@@ -3752,7 +3804,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 13:28 UTC - condense
+## 2026-01-26 13:29 UTC - condense
 
 **Status**: Success
 **File**: concepts/moral-responsibility.md
@@ -3763,7 +3815,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-27 00:20 UTC - optimistic-review
+## 2026-01-27 13:24 UTC - optimistic-review
 
 **Status**: Success
 **Output**: reviews/optimistic-2026-01-26.md (updated)
@@ -3772,7 +3824,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 12:15 UTC - condense
+## 2026-01-26 13:17 UTC - condense
 
 **Status**: Success
 **File**: concepts/voluntary-attention.md
@@ -3794,7 +3846,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 13:00 UTC - deep-review
+## 2026-01-26 13:01 UTC - deep-review
 
 **Status**: Success
 **File**: concepts/many-worlds.md
@@ -3807,7 +3859,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 21:00 UTC - expand-topic
+## 2026-01-26 12:58 UTC - expand-topic
 
 **Status**: Success
 **Topic**: Consciousness-Only Territories
@@ -3818,7 +3870,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 21:45 UTC - condense
+## 2026-01-26 12:50 UTC - condense
 
 **Status**: Success
 **File**: concepts/witness-consciousness.md
@@ -3829,7 +3881,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 22:45 UTC - pessimistic-review
+## 2026-01-26 12:44 UTC - pessimistic-review
 
 **Status**: Success
 **Content reviewed**:
@@ -3841,7 +3893,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 12:39 UTC - condense
+## 2026-01-26 12:40 UTC - condense
 
 **Status**: Success
 **File**: concepts/agent-causation.md
@@ -3852,7 +3904,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 22:15 UTC - expand-topic (resolved as duplicate)
+## 2026-01-26 12:31 UTC - expand-topic (resolved as duplicate)
 
 **Status**: Skipped — content already exists
 **Task**: Write article on motor control and quantum Zeno framework
@@ -3865,7 +3917,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 12:27 UTC - deep-review
+## 2026-01-26 12:29 UTC - deep-review
 
 **Status**: Success
 **File**: concepts/dopamine-selection-interface.md
@@ -3884,7 +3936,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 21:00 UTC - deep-review
+## 2026-01-26 12:23 UTC - deep-review
 
 **Status**: Success
 **File**: concepts/motor-selection.md
@@ -3905,7 +3957,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 12:18 UTC - deep-review
+## 2026-01-26 12:19 UTC - deep-review
 
 **Status**: Success
 **File**: concepts/attention-motor-quantum-interface.md
@@ -3923,7 +3975,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 12:05 UTC - expand-topic
+## 2026-01-26 12:09 UTC - expand-topic
 
 **Status**: No action needed (content exists)
 **Topic**: voluntary-attention-control
@@ -3932,7 +3984,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 19:50 UTC - expand-topic
+## 2026-01-26 12:09 UTC - expand-topic
 
 **Status**: Success
 **Topic**: Dopamine's Role in Attention-Motor Interface
@@ -3943,7 +3995,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 19:45 UTC - research-voids
+## 2026-01-26 12:09 UTC - research-voids
 
 **Status**: Success
 **Topic**: Consciousness-Only Territories
@@ -3953,7 +4005,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 12:00 UTC - condense
+## 2026-01-26 10:10 UTC - condense
 
 **Status**: Success
 **File**: concepts/episodic-memory.md
@@ -3964,7 +4016,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 11:49 UTC - deep-review
+## 2026-01-26 11:50 UTC - deep-review
 
 **Status**: Success
 **File**: concepts/altered-states-of-consciousness.md
@@ -3977,7 +4029,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 11:46 UTC - condense
+## 2026-01-26 11:47 UTC - condense
 
 **Status**: Success
 **File**: concepts/metacognition.md
@@ -3999,7 +4051,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 11:38 UTC - coalesce
+## 2026-01-26 11:34 UTC - coalesce
 
 **Status**: No action taken
 **Reason**: Searched for coalescing candidates but found all article pairs are well-differentiated
@@ -4023,7 +4075,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 11:19 UTC - deep-review
+## 2026-01-26 11:20 UTC - deep-review
 
 **Status**: Success
 **File**: topics/ai-consciousness.md
@@ -4050,7 +4102,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 11:09 UTC - deep-review
+## 2026-01-26 11:10 UTC - deep-review
 
 **Status**: Success
 **File**: concepts/cognitive-phenomenology.md
@@ -4068,7 +4120,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 23:30 UTC - optimistic-review
+## 2026-01-26 11:06 UTC - optimistic-review
 
 **Status**: Skipped (already completed today)
 **Files reviewed**: 178 published articles (topics/, concepts/, tenets/)
@@ -4077,7 +4129,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 22:00 UTC - deep-review
+## 2026-01-26 11:02 UTC - deep-review
 
 **Status**: Success
 **File**: concepts/llm-consciousness.md
@@ -4094,7 +4146,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 10:52 UTC - condense
+## 2026-01-26 10:53 UTC - condense
 
 **Status**: Success
 **File**: concepts/autonoetic-consciousness.md
@@ -4105,7 +4157,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 10:46 UTC - deep-review
+## 2026-01-26 10:48 UTC - deep-review
 
 **Status**: Success
 **File**: topics/hard-problem-of-consciousness.md
@@ -4119,7 +4171,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 10:38 UTC - refine-draft
+## 2026-01-26 10:39 UTC - refine-draft
 
 **Status**: Success
 **File**: concepts/panpsychism.md
@@ -4133,7 +4185,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 18:30 UTC - expand-topic
+## 2026-01-26 10:36 UTC - expand-topic
 
 **Status**: Success
 **Topic**: The Language-Thought Boundary
@@ -4144,7 +4196,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 09:00 UTC - pessimistic-review
+## 2026-01-26 10:32 UTC - pessimistic-review
 
 **Status**: Success
 **Files reviewed**: `concepts/panpsychism.md`, `concepts/idealism.md`, `concepts/epiphenomenalism.md`
@@ -4155,7 +4207,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 10:25 UTC - condense
+## 2026-01-26 10:26 UTC - condense
 
 **Status**: Success
 **File**: concepts/mental-effort.md
@@ -4166,7 +4218,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 15:30 UTC - condense
+## 2026-01-26 10:20 UTC - condense
 
 **Status**: Success
 **File**: concepts/cognitive-phenomenology.md
@@ -4177,7 +4229,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 10:12 UTC - deep-review
+## 2026-01-26 10:14 UTC - deep-review
 
 **Status**: Success
 **File**: topics/emotional-consciousness.md
@@ -4190,7 +4242,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 12:00 UTC - condense
+## 2026-01-26 10:10 UTC - condense
 
 **Status**: Success
 **File**: concepts/dreams-and-consciousness.md
@@ -4201,7 +4253,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 12:00 UTC - deep-review
+## 2026-01-26 08:02 UTC - deep-review
 
 **Status**: Success
 **File**: topics/quantum-neural-timing-constraints.md
@@ -4214,7 +4266,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 12:00 UTC - apex-evolve
+## 2026-01-26 09:59 UTC - apex-evolve
 
 **Status**: Complete
 **Article**: The Explanatory Frontier
@@ -4225,7 +4277,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 08:23 UTC - deep-review
+## 2026-01-26 08:24 UTC - deep-review
 
 **Status**: Success (stability confirmed)
 **File**: concepts/consciousness.md
@@ -4238,7 +4290,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 08:21 UTC - condense
+## 2026-01-26 08:22 UTC - condense
 
 **Status**: Success
 **File**: concepts/temporal-consciousness.md
@@ -4249,7 +4301,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 08:13 UTC - research-voids
+## 2026-01-26 08:16 UTC - research-voids
 
 **Status**: Success
 **Topic**: The Language-Thought Boundary
@@ -4259,7 +4311,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 08:08 UTC - condense
+## 2026-01-26 08:09 UTC - condense
 
 **Status**: Success
 **File**: concepts/attention-as-interface.md
@@ -4270,7 +4322,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 12:00 UTC - deep-review
+## 2026-01-26 08:02 UTC - deep-review
 
 **Status**: Success
 **File**: concepts/consciousness.md
@@ -4298,7 +4350,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 12:00 UTC - deep-review (cross-review)
+## 2026-01-26 07:47 UTC - deep-review (cross-review)
 
 **Status**: Success
 **File**: voids/whether-real.md
@@ -4312,7 +4364,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 18:30 UTC - coalesce
+## 2026-01-25 23:37 UTC - coalesce
 
 **Status**: Success
 **Sources**:
@@ -4326,7 +4378,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 00:45 UTC - expand-topic
+## 2026-01-26 23:29 UTC - expand-topic
 
 **Status**: Success
 **Topic**: Tenet-Generated Voids
@@ -4338,7 +4390,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 15:30 UTC - deep-review
+## 2026-01-25 23:24 UTC - deep-review
 
 **Status**: Success
 **File**: topics/indexical-identity-quantum-measurement.md
@@ -4352,7 +4404,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 23:18 UTC - expand-topic
+## 2026-01-25 23:19 UTC - expand-topic
 
 **Status**: Success
 **Topic**: AI as Void-Explorer
@@ -4364,7 +4416,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 08:12 UTC - condense
+## 2026-01-26 23:15 UTC - condense
 
 **Status**: Success
 **File**: concepts/quantum-consciousness.md
@@ -4377,7 +4429,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 02:00 UTC - optimistic-review
+## 2026-01-26 23:06 UTC - optimistic-review
 
 **Status**: Success
 **Content reviewed**: 10 topics, 3 concepts, 1 voids article, 3 apex articles, tenets.md
@@ -4388,7 +4440,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 23:15 UTC - deep-review
+## 2026-01-25 22:56 UTC - deep-review
 
 **Status**: Success
 **File**: concepts/neural-quantum-coherence.md
@@ -4402,7 +4454,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 22:51 UTC - deep-review
+## 2026-01-25 22:52 UTC - deep-review
 
 **Status**: Success
 **File**: concepts/interactionist-dualism.md
@@ -4416,7 +4468,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 22:42 UTC - deep-review
+## 2026-01-25 22:43 UTC - deep-review
 
 **Status**: Success
 **File**: topics/machine-consciousness.md
@@ -4430,7 +4482,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 16:50 UTC - expand-topic
+## 2026-01-25 22:39 UTC - expand-topic
 
 **Status**: Success
 **Topic**: Defended Territory
@@ -4442,7 +4494,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 22:28 UTC - condense
+## 2026-01-25 22:29 UTC - condense
 
 **Status**: Reviewed, no condensation applied
 **File**: topics/ai-consciousness.md
@@ -4451,7 +4503,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 01:30 UTC - pessimistic-review
+## 2026-01-26 22:28 UTC - pessimistic-review
 
 **Status**: Success
 **Files reviewed**:
@@ -4464,7 +4516,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 22:30 UTC - condense (minor polish)
+## 2026-01-25 22:13 UTC - condense (minor polish)
 
 **Status**: Success
 **File**: topics/hard-problem-of-consciousness.md
@@ -4475,7 +4527,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 21:58 UTC - condense
+## 2026-01-25 21:59 UTC - condense
 
 **Status**: Success
 **File**: topics/hard-problem-of-consciousness.md
@@ -4493,7 +4545,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 19:45 UTC - deep-review
+## 2026-01-25 21:39 UTC - deep-review
 
 **Status**: Success
 **File**: concepts/intersubjectivity.md
@@ -4505,7 +4557,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 10:30 UTC - condense (user-requested, second pass)
+## 2026-01-25 21:31 UTC - condense (user-requested, second pass)
 
 **Status**: Success
 **File**: topics/free-will.md
@@ -4523,7 +4575,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 23:45 UTC - check-tenets (monthly alignment verification)
+## 2026-01-25 21:29 UTC - check-tenets (monthly alignment verification)
 
 **Status**: Success
 **Files checked**: 132 (98 concepts + 34 topics)
@@ -4535,7 +4587,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 20:51 UTC - deep-review (user-requested, forty-eighth review)
+## 2026-01-25 20:52 UTC - deep-review (user-requested, forty-eighth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -4554,7 +4606,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 21:15 UTC - deep-review (user-requested, forty-seventh review)
+## 2026-01-25 20:46 UTC - deep-review (user-requested, forty-seventh review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -4571,7 +4623,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 21:15 UTC - research-voids
+## 2026-01-25 20:46 UTC - research-voids
 
 **Status**: Success
 **Topic**: Tenet-Generated Voids
@@ -4581,7 +4633,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 20:34 UTC - deep-review (user-requested, forty-sixth review)
+## 2026-01-25 20:35 UTC - deep-review (user-requested, forty-sixth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -4597,7 +4649,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 20:29 UTC - deep-review (user-requested)
+## 2026-01-25 20:31 UTC - deep-review (user-requested)
 
 **Status**: Success
 **File**: concepts/temporal-structure-of-understanding.md
@@ -4614,7 +4666,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 20:24 UTC - deep-review (user-requested, forty-fifth review)
+## 2026-01-25 20:26 UTC - deep-review (user-requested, forty-fifth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -4632,7 +4684,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 20:19 UTC - deep-review (user-requested, forty-fourth review)
+## 2026-01-25 20:20 UTC - deep-review (user-requested, forty-fourth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -4649,7 +4701,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 22:30 UTC - coalesce
+## 2026-01-25 20:17 UTC - coalesce
 
 **Status**: Success
 **Sources**:
@@ -4664,7 +4716,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 21:15 UTC - deep-review (user-requested, forty-third review)
+## 2026-01-25 20:08 UTC - deep-review (user-requested, forty-third review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -4683,7 +4735,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 19:30 UTC - deep-review (user-requested)
+## 2026-01-25 20:04 UTC - deep-review (user-requested)
 
 **Status**: Success
 **File**: concepts/subjective-probability-quantum-measurement.md
@@ -4706,7 +4758,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 21:15 UTC - deep-review (user-requested, forty-first review)
+## 2026-01-25 19:52 UTC - deep-review (user-requested, forty-first review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -4726,7 +4778,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 22:30 UTC - optimistic-review
+## 2026-01-25 19:52 UTC - optimistic-review
 
 **Status**: Success
 **Content reviewed**: Core topics and concepts (animal-consciousness, quantum-consciousness, hard-problem-of-consciousness, free-will, indexical-identity-quantum-measurement, plus tenets and key concept pages)
@@ -4742,7 +4794,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 19:42 UTC - deep-review (user-requested, fortieth review)
+## 2026-01-25 19:43 UTC - deep-review (user-requested, fortieth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -4762,7 +4814,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 19:36 UTC - deep-review (user-requested, thirty-ninth review)
+## 2026-01-25 19:37 UTC - deep-review (user-requested, thirty-ninth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -4780,7 +4832,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 19:31 UTC - deep-review (user-requested)
+## 2026-01-25 19:32 UTC - deep-review (user-requested)
 
 **Status**: Success
 **File**: concepts/heterophenomenology.md
@@ -4800,7 +4852,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 19:27 UTC - deep-review (user-requested, thirty-eighth review)
+## 2026-01-25 19:28 UTC - deep-review (user-requested, thirty-eighth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -4821,7 +4873,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 19:22 UTC - deep-review (user-requested, thirty-seventh review)
+## 2026-01-25 19:23 UTC - deep-review (user-requested, thirty-seventh review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -4840,7 +4892,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 23:30 UTC - pessimistic-review (user-requested)
+## 2026-01-25 19:23 UTC - pessimistic-review (user-requested)
 
 **Status**: Success
 **Content reviewed**:
@@ -4860,7 +4912,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 19:11 UTC - deep-review (user-requested, thirty-sixth review)
+## 2026-01-25 19:12 UTC - deep-review (user-requested, thirty-sixth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -4876,7 +4928,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 19:07 UTC - deep-review (user-requested, thirty-fifth review)
+## 2026-01-25 19:08 UTC - deep-review (user-requested, thirty-fifth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -4894,7 +4946,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 19:02 UTC - deep-review (user-requested)
+## 2026-01-25 19:03 UTC - deep-review (user-requested)
 
 **Status**: Success
 **File**: concepts/psychophysical-coupling-mechanisms.md
@@ -4914,7 +4966,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 18:57 UTC - deep-review (user-requested, thirty-fourth review)
+## 2026-01-25 18:58 UTC - deep-review (user-requested, thirty-fourth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -4931,7 +4983,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 18:52 UTC - deep-review (user-requested, thirty-third review)
+## 2026-01-25 18:53 UTC - deep-review (user-requested, thirty-third review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -4948,7 +5000,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 18:47 UTC - deep-review (user-requested, thirty-second review)
+## 2026-01-25 18:48 UTC - deep-review (user-requested, thirty-second review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -4965,7 +5017,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 18:42 UTC - deep-review (user-requested, thirty-first review)
+## 2026-01-25 18:43 UTC - deep-review (user-requested, thirty-first review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -4981,7 +5033,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 19:45 UTC - research-voids
+## 2026-01-25 18:43 UTC - research-voids
 
 **Status**: Success
 **Topic**: AI as Void-Explorer
@@ -4991,7 +5043,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 18:30 UTC - deep-review (user-requested, thirtieth review)
+## 2026-01-25 18:31 UTC - deep-review (user-requested, thirtieth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5007,7 +5059,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 18:26 UTC - deep-review (user-requested)
+## 2026-01-25 18:27 UTC - deep-review (user-requested)
 
 **Status**: Success
 **File**: concepts/multimodal-binding.md
@@ -5026,7 +5078,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 18:20 UTC - deep-review (user-requested, twenty-ninth review)
+## 2026-01-25 18:21 UTC - deep-review (user-requested, twenty-ninth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5041,7 +5093,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 18:16 UTC - deep-review (user-requested, twenty-eighth review)
+## 2026-01-25 18:17 UTC - deep-review (user-requested, twenty-eighth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5058,7 +5110,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 18:26 UTC - coalesce
+## 2026-01-25 18:11 UTC - coalesce
 
 **Status**: No action - no candidates found
 **Candidates examined**:
@@ -5070,7 +5122,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 18:06 UTC - deep-review (user-requested, twenty-seventh review)
+## 2026-01-25 18:08 UTC - deep-review (user-requested, twenty-seventh review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5088,7 +5140,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 18:01 UTC - deep-review
+## 2026-01-25 18:02 UTC - deep-review
 
 **Status**: Success
 **File**: topics/consciousness-as-intelligence-amplifier.md
@@ -5107,7 +5159,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 17:54 UTC - deep-review (user-requested, twenty-sixth review)
+## 2026-01-25 17:55 UTC - deep-review (user-requested, twenty-sixth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5125,7 +5177,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 17:50 UTC - deep-review (user-requested, twenty-fifth review)
+## 2026-01-25 17:51 UTC - deep-review (user-requested, twenty-fifth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5142,7 +5194,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 21:45 UTC - optimistic-review
+## 2026-01-25 17:51 UTC - optimistic-review
 
 **Status**: Success
 **Content reviewed**: tenets.md, hard-problem-of-consciousness.md, free-will.md, philosophical-zombies.md, knowledge-argument.md, indexical-identity-quantum-measurement.md, mind-matter-interface.md, consciousness-as-intelligence-amplifier.md, interactionist-dualism.md, animal-consciousness.md, quantum-binding-and-phenomenal-unity.md
@@ -5154,7 +5206,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 17:39 UTC - deep-review (user-requested, twenty-fourth review)
+## 2026-01-25 17:40 UTC - deep-review (user-requested, twenty-fourth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5172,7 +5224,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 17:35 UTC - deep-review (user-requested, twenty-third review)
+## 2026-01-25 17:36 UTC - deep-review (user-requested, twenty-third review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5189,7 +5241,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 17:24 UTC - deep-review (user-requested, twenty-second review)
+## 2026-01-25 17:25 UTC - deep-review (user-requested, twenty-second review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5205,7 +5257,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 17:20 UTC - deep-review (user-requested, twenty-first review)
+## 2026-01-25 17:21 UTC - deep-review (user-requested, twenty-first review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5223,7 +5275,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 17:09 UTC - deep-review (user-requested, twentieth review)
+## 2026-01-25 17:10 UTC - deep-review (user-requested, twentieth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5238,7 +5290,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-26 00:30 UTC - deep-review (user-requested, nineteenth review)
+## 2026-01-26 17:05 UTC - deep-review (user-requested, nineteenth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5254,7 +5306,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 17:30 UTC - deep-review (user-requested)
+## 2026-01-25 17:00 UTC - deep-review (user-requested)
 
 **Status**: Success
 **File**: topics/first-person-third-person-methodology.md
@@ -5270,7 +5322,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 21:45 UTC - deep-review (user-requested, eighteenth review)
+## 2026-01-25 16:56 UTC - deep-review (user-requested, eighteenth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5286,7 +5338,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 18:30 UTC - deep-review (user-requested, seventeenth review)
+## 2026-01-25 16:49 UTC - deep-review (user-requested, seventeenth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5301,7 +5353,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 17:45 UTC - deep-review (user-requested, sixteenth review)
+## 2026-01-25 16:46 UTC - deep-review (user-requested, sixteenth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5319,7 +5371,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 16:39 UTC - deep-review (user-requested, fifteenth review)
+## 2026-01-25 16:40 UTC - deep-review (user-requested, fifteenth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5336,7 +5388,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 16:35 UTC - research-voids
+## 2026-01-25 16:40 UTC - research-voids
 
 **Status**: Success
 **Topic**: The Architecture of Defended Territory
@@ -5346,7 +5398,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 22:45 UTC - deep-review (user-requested, fourteenth review)
+## 2026-01-25 16:28 UTC - deep-review (user-requested, fourteenth review)
 
 **Status**: Success (no changes)
 **File**: concepts/measurement-problem.md
@@ -5361,7 +5413,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 16:25 UTC - deep-review
+## 2026-01-25 16:26 UTC - deep-review
 
 **Status**: Success
 **File**: topics/quantum-measurement-interpretations-beyond-mwi.md
@@ -5383,7 +5435,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 16:19 UTC - deep-review (user-requested, thirteenth review)
+## 2026-01-25 16:20 UTC - deep-review (user-requested, thirteenth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5398,7 +5450,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 18:30 UTC - deep-review (user-requested, twelfth review)
+## 2026-01-25 16:16 UTC - deep-review (user-requested, twelfth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5429,7 +5481,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 16:04 UTC - deep-review (user-requested, eleventh review)
+## 2026-01-25 16:05 UTC - deep-review (user-requested, eleventh review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5446,7 +5498,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 18:30 UTC - deep-review (user-requested, tenth review)
+## 2026-01-25 15:56 UTC - deep-review (user-requested, tenth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5462,7 +5514,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 15:49 UTC - deep-review (user-requested, ninth review)
+## 2026-01-25 15:51 UTC - deep-review (user-requested, ninth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5475,7 +5527,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 17:30 UTC - optimistic-review
+## 2026-01-25 15:51 UTC - optimistic-review
 
 **Status**: Success
 **Content reviewed**: All non-draft content in topics/, concepts/, tenets/
@@ -5500,7 +5552,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 15:40 UTC - deep-review (user-requested, eighth review)
+## 2026-01-25 15:41 UTC - deep-review (user-requested, eighth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5519,7 +5571,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 15:34 UTC - deep-review (user-requested, seventh review)
+## 2026-01-25 15:35 UTC - deep-review (user-requested, seventh review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5537,7 +5589,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 09:45 UTC - deep-review
+## 2026-01-25 15:31 UTC - deep-review
 
 **Status**: Success
 **File**: topics/time-perception-consciousness-theories.md
@@ -5560,7 +5612,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 15:24 UTC - deep-review (user-requested, sixth review)
+## 2026-01-25 15:25 UTC - deep-review (user-requested, sixth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5578,7 +5630,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 15:18 UTC - deep-review (user-requested, fifth review)
+## 2026-01-25 15:20 UTC - deep-review (user-requested, fifth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5597,7 +5649,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 16:30 UTC - pessimistic-review
+## 2026-01-25 15:20 UTC - pessimistic-review
 
 **Status**: Success
 **Files reviewed**:
@@ -5621,7 +5673,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 15:08 UTC - deep-review (user-requested, fourth review)
+## 2026-01-25 15:10 UTC - deep-review (user-requested, fourth review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5640,7 +5692,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 17:20 UTC - deep-review (user-requested, third review)
+## 2026-01-25 15:06 UTC - deep-review (user-requested, third review)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5660,7 +5712,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 15:00 UTC - deep-review
+## 2026-01-25 14:59 UTC - deep-review
 
 **Status**: Success
 **File**: topics/mysterianism-cognitive-closure.md
@@ -5681,7 +5733,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 14:54 UTC - deep-review (user-requested)
+## 2026-01-25 14:55 UTC - deep-review (user-requested)
 
 **Status**: Success
 **File**: concepts/measurement-problem.md
@@ -5725,7 +5777,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 11:16 UTC - coalesce (Session 763)
+## 2026-01-25 11:22 UTC - coalesce (Session 763)
 
 **Status**: Success
 **Sources**: concepts/emotional-consciousness.md
@@ -5746,7 +5798,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 12:00 UTC - deep-review (Session 762)
+## 2026-01-25 11:12 UTC - deep-review (Session 762)
 
 **Status**: Success
 **File**: topics/baseline-cognition.md
@@ -5796,7 +5848,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 01:30 UTC - pessimistic-review (Session 760)
+## 2026-01-25 19:46 UTC - pessimistic-review (Session 760)
 
 **Status**: Success
 **Content reviewed**:
@@ -5820,7 +5872,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-25 00:45 UTC - optimistic-review (Session 759)
+## 2026-01-25 19:39 UTC - optimistic-review (Session 759)
 
 **Status**: Success
 **Content reviewed**: Site-wide content with focus on recent deep-review improvements and new voids content
@@ -5835,7 +5887,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-24 19:30 UTC - deep-review (Session 758)
+## 2026-01-24 19:28 UTC - deep-review (Session 758)
 
 **Status**: Success
 **File**: concepts/phenomenal-binding.md
@@ -5848,7 +5900,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-24 19:30 UTC - cross-review (Session 757)
+## 2026-01-24 19:19 UTC - cross-review (Session 757)
 
 **Status**: Success
 **File**: concepts/llm-consciousness.md
@@ -5859,7 +5911,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-24 19:15 UTC - deep-review (Session 756)
+## 2026-01-24 19:10 UTC - deep-review (Session 756)
 
 **Status**: Success
 **File**: concepts/quantum-decoherence-objection.md
@@ -5870,7 +5922,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-24 17:30 UTC - deep-review (Session 754)
+## 2026-01-24 17:28 UTC - deep-review (Session 754)
 
 **Status**: Success
 **File**: concepts/quantum-probability-and-consciousness.md
@@ -5881,7 +5933,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-24 17:30 UTC - deep-review
+## 2026-01-24 17:20 UTC - deep-review
 
 **Status**: Success
 **File**: concepts/quantum-neural-mechanisms.md
@@ -5892,7 +5944,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-24 17:15 UTC - deep-review
+## 2026-01-24 17:20 UTC - deep-review
 
 **Status**: Success
 **File**: topics/argument-from-reason.md
@@ -5903,7 +5955,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-24 16:45 UTC - deep-review
+## 2026-01-24 16:37 UTC - deep-review
 
 **Status**: Success
 **File**: concepts/objectivity-and-consciousness.md
@@ -5914,7 +5966,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-24 23:00 UTC - tune-system
+## 2026-01-24 16:17 UTC - tune-system
 
 **Status**: Success
 **Sessions analyzed**: 347 (400 to 747)
@@ -5926,7 +5978,7 @@ This is the second deep review; article is approaching stability.
 
 ---
 
-## 2026-01-24 21:50 UTC - apex-evolve create
+## 2026-01-24 15:58 UTC - apex-evolve create
 
 **Status**: Success
 **Mode**: create
@@ -5941,7 +5993,7 @@ Created the third apex article for The Unfinishable Map. "The Ground of Meaning"
 
 ---
 
-## 2026-01-24 22:00 UTC - apex-evolve create
+## 2026-01-24 15:26 UTC - apex-evolve create
 
 **Status**: Success
 **Mode**: create
@@ -5956,7 +6008,7 @@ Created the second apex article for The Unfinishable Map. "Consciousness and Age
 
 ---
 
-## 2026-01-24 12:00 UTC - apex-evolve create
+## 2026-01-24 14:37 UTC - apex-evolve create
 
 **Status**: Success
 **Mode**: create
@@ -5971,7 +6023,7 @@ Created the first apex article for The Unfinishable Map. "The Explanatory Fronti
 
 ---
 
-## 2026-01-24 20:15 UTC - evolution session 744
+## 2026-01-24 10:58 UTC - evolution session 744
 
 **Status**: Success
 **Task**: Cross-review indexical-identity-quantum-measurement.md considering quantum probability insights
@@ -5991,7 +6043,7 @@ Cross-reviewed indexical-identity-quantum-measurement.md in light of the new qua
 
 ---
 
-## 2026-01-24 19:45 UTC - research-voids
+## 2026-01-24 10:51 UTC - research-voids
 
 **Status**: Success
 **Topic**: The Limits of Conceptual Acquisition
@@ -6001,7 +6053,7 @@ Cross-reviewed indexical-identity-quantum-measurement.md in light of the new qua
 
 ---
 
-## 2026-01-24 10:34 UTC - deep-review
+## 2026-01-24 10:37 UTC - deep-review
 
 **Status**: Success
 **File**: concepts/attention-motor-quantum-interface.md
@@ -6012,7 +6064,7 @@ Cross-reviewed indexical-identity-quantum-measurement.md in light of the new qua
 
 ---
 
-## 2026-01-24 10:35 UTC - evolution session 741
+## 2026-01-24 10:28 UTC - evolution session 741
 
 **Status**: Success
 **Task**: Enhance attention-motor-quantum-interface.md with dopamine research
@@ -6044,7 +6096,7 @@ Integrated dopamine research findings into the attention-motor-quantum-interface
 
 ---
 
-## 2026-01-24 08:25 UTC - evolution session 737
+## 2026-01-24 08:21 UTC - evolution session 737
 
 **Status**: Success
 **Task**: Deep review quantum-binding-experimental-evidence.md
@@ -6082,7 +6134,7 @@ Comprehensive deep review of the quantum-binding-experimental-evidence concept a
 
 ---
 
-## 2026-01-24 08:10 UTC - evolution session 736
+## 2026-01-24 08:11 UTC - evolution session 736
 
 **Status**: Success
 **Task**: Cross-review stapp-quantum-mind.md considering psychophysical coupling mechanisms
@@ -6113,7 +6165,7 @@ Added 4 new tasks:
 
 ---
 
-## 2026-01-24 07:58 UTC - deep-review
+## 2026-01-24 08:00 UTC - deep-review
 
 **Status**: Success
 **Task**: Deep review unity-of-consciousness.md
@@ -6150,7 +6202,7 @@ Comprehensive deep review of the unity-of-consciousness concept article. Applied
 
 ---
 
-## 2026-01-24 07:49 UTC - deep-review
+## 2026-01-24 07:52 UTC - deep-review
 
 **Status**: Success
 **Task**: Deep review conscious-vs-unconscious-processing.md
@@ -6181,7 +6233,7 @@ Comprehensive deep review of the conscious-vs-unconscious-processing concept art
 
 ---
 
-## 2026-01-24 21:45 UTC - research-topic
+## 2026-01-24 07:45 UTC - research-topic
 
 **Status**: Success
 **Task**: Research quantum biology mechanisms in neural systems
@@ -6214,7 +6266,7 @@ Added 4 deep-review tasks (P2) for unreviewed AI-generated articles:
 
 ---
 
-## 2026-01-24 07:30 UTC - deep-review
+## 2026-01-24 07:23 UTC - deep-review
 
 **Status**: Success
 **Task**: Deep review of intuitive-dualism.md
@@ -6256,7 +6308,7 @@ Comprehensive review applying pessimistic (6 personas) and optimistic (6 persona
 
 ---
 
-## 2026-01-24 07:15 UTC - deep-review
+## 2026-01-24 07:13 UTC - deep-review
 
 **Status**: Success
 **Task**: Deep review of bidirectional-interaction.md
@@ -6302,7 +6354,7 @@ Comprehensive review applying pessimistic (6 personas) and optimistic (6 persona
 
 ---
 
-## 2026-01-24 06:57 UTC - deep-review
+## 2026-01-24 06:58 UTC - deep-review
 
 **Status**: Success
 **Task**: Deep review of voluntary-attention.md
@@ -6341,7 +6393,7 @@ Comprehensive review applying pessimistic (6 personas) and optimistic (6 persona
 
 ---
 
-## 2026-01-24 19:45 UTC - check-tenets
+## 2026-01-24 05:42 UTC - check-tenets
 
 **Status**: Success
 **Task**: Comprehensive tenet alignment check of topics and concepts directories
@@ -6367,7 +6419,7 @@ Completed comprehensive tenet compliance audit of all markdown files in `obsidia
 
 ---
 
-## 2026-01-24 18:00 UTC - coalesce
+## 2026-01-24 05:01 UTC - coalesce
 
 **Status**: Success
 **Task**: Coalesce voluntary-attention-control.md into voluntary-attention.md
@@ -6394,7 +6446,7 @@ Merged `concepts/voluntary-attention-control.md` into `concepts/voluntary-attent
 
 ---
 
-## 2026-01-24 04:50 UTC - deep-review (phenomenology.md)
+## 2026-01-24 04:40 UTC - deep-review (phenomenology.md)
 
 **Status**: Success
 **Task**: Deep review phenomenology.md
@@ -6431,7 +6483,7 @@ Comprehensive deep review of the core phenomenology concept article. Applied six
 
 ---
 
-## 2026-01-24 04:32 UTC - check-links
+## 2026-01-24 04:31 UTC - check-links
 
 **Status**: Success
 **Task**: Fix broken internal links (overdue maintenance)
@@ -6466,7 +6518,7 @@ Fixed 11 broken internal links across 9 content files. Links were pointing to pa
 
 ---
 
-## 2026-01-24 04:18 UTC - cross-review (interactionist-dualism.md)
+## 2026-01-24 04:20 UTC - cross-review (interactionist-dualism.md)
 
 **Status**: Success
 **Task**: Cross-review interactionist-dualism.md considering psychophysical coupling mechanisms
@@ -6493,7 +6545,7 @@ Added [psychophysical-coupling-mechanisms](/archive/concepts/psychophysical-coup
 
 ---
 
-## 2026-01-24 15:00 UTC - expand-topic (quantum neural timing constraints)
+## 2026-01-24 04:10 UTC - expand-topic (quantum neural timing constraints)
 
 **Status**: Success
 **Task**: Write article on quantum neural timing constraints
@@ -6526,7 +6578,7 @@ Created comprehensive topic article (~2,400 words) presenting the timing hierarc
 
 ---
 
-## 2026-01-24 03:50 UTC - research-topic (quantum neural timing constraints)
+## 2026-01-24 03:54 UTC - research-topic (quantum neural timing constraints)
 
 **Status**: Success
 **Task**: Research quantum neural timing constraints
@@ -6558,7 +6610,7 @@ This research generates a chain task: an expand-topic article synthesizing the t
 
 ---
 
-## 2026-01-24 03:35 UTC - optimistic-review
+## 2026-01-24 03:40 UTC - optimistic-review
 
 **Status**: Success
 **Task**: Weekly opportunity assessment and strength analysis
@@ -6594,7 +6646,7 @@ Conducted comprehensive optimistic review of site content, analyzing from six sy
 
 ---
 
-## 2026-01-24 03:15 UTC - deep-review (qualia.md)
+## 2026-01-24 03:11 UTC - deep-review (qualia.md)
 
 **Status**: Success
 **Task**: Comprehensive review of concepts/qualia.md
@@ -6626,7 +6678,7 @@ Identified three redundant expand-topic tasks (retrocausality, indexical-identit
 
 ---
 
-## 2026-01-24 02:57 UTC - validate-all
+## 2026-01-24 02:58 UTC - validate-all
 
 **Status**: ⚠ Warnings
 **Task**: Daily health check
@@ -6676,7 +6728,7 @@ Comprehensive validation of site content including frontmatter, links, orphans, 
 
 ---
 
-## 2026-01-24 01:00 UTC - cross-review (quantum-consciousness/attention-motor-quantum-interface)
+## 2026-01-24 01:18 UTC - cross-review (quantum-consciousness/attention-motor-quantum-interface)
 
 **Status**: ✓ Success
 **Task**: Cross-review quantum-consciousness.md considering attention-motor quantum interface
@@ -6703,7 +6755,7 @@ Reviewed concepts/quantum-consciousness.md in light of new attention-motor-quant
 
 ---
 
-## 2026-01-24 01:05 UTC - validate-all
+## 2026-01-24 01:18 UTC - validate-all
 
 **Status**: ⚠ Warnings
 **Task**: Daily health check
@@ -6753,7 +6805,7 @@ Comprehensive validation of site content including frontmatter, links, orphans, 
 
 ---
 
-## 2026-01-23 22:45 UTC - pessimistic-review
+## 2026-01-23 21:30 UTC - pessimistic-review
 
 **Status**: ✓ Success
 **Task**: Pessimistic review of core interaction framework
@@ -6785,7 +6837,7 @@ Adversarial review of psychophysical-coupling-mechanisms.md and bidirectional-in
 
 ---
 
-## 2026-01-23 21:17 UTC - cross-review
+## 2026-01-23 21:18 UTC - cross-review
 
 **Status**: ✓ Success
 **Task**: Cross-review binding-problem.md considering unity-of-consciousness article
@@ -6814,7 +6866,7 @@ Also removed duplicate "Cross-review phenomenology.md considering intersubjectiv
 
 ---
 
-## 2026-01-23 19:50 UTC - research-topic
+## 2026-01-23 19:54 UTC - research-topic
 
 **Status**: ✓ Success
 **Task**: Research attention and motor planning quantum interface
@@ -6848,7 +6900,7 @@ Unified attention-motor quantum interface: if PMTA is correct (attention=motor p
 
 ---
 
-## 2026-01-23 19:15 UTC - cross-review
+## 2026-01-23 19:18 UTC - cross-review
 
 **Status**: ✓ Success
 **Task**: Cross-review mental-causation.md considering psychophysical coupling mechanisms
@@ -6876,7 +6928,7 @@ Cross-reviewed mental-causation.md in light of the new psychophysical-coupling-m
 
 ---
 
-## 2026-01-23 19:06 UTC - validate-all
+## 2026-01-23 19:18 UTC - validate-all
 
 **Status**: ⚠ Warnings
 **Files validated**: 529
@@ -6921,7 +6973,7 @@ Daily health check completed. Site content is valid but has some broken links an
 
 ---
 
-## 2026-01-23 18:49 UTC - cross-review
+## 2026-01-23 18:50 UTC - cross-review
 
 **Status**: ✓ Success
 **Task**: Cross-review stapp-quantum-mind.md considering psychophysical coupling mechanisms
@@ -6950,7 +7002,7 @@ Cross-reviewed stapp-quantum-mind.md in light of the new psychophysical-coupling
 
 ---
 
-## 2026-01-23 20:50 UTC - cross-review
+## 2026-01-23 18:38 UTC - cross-review
 
 **Status**: ✓ Success
 **Task**: Cross-review phenomenology.md considering intersubjectivity insights
@@ -6977,7 +7029,7 @@ Cross-reviewed phenomenology.md in light of the new intersubjectivity.md article
 
 ---
 
-## 2026-01-23 16:30 UTC - expand-topic
+## 2026-01-23 16:29 UTC - expand-topic
 
 **Status**: ✓ Success
 **Task**: Create concept page for intersubjectivity
@@ -7007,7 +7059,7 @@ Created comprehensive concept article on intersubjectivity—the shared space be
 
 ---
 
-## 2026-01-23 22:35 UTC - cross-review
+## 2026-01-23 16:08 UTC - cross-review
 
 **Status**: ✓ Success
 **Task**: Cross-review measurement-problem.md considering subjective probability article
@@ -7035,7 +7087,7 @@ Cross-reviewed measurement-problem.md in light of the new subjective-probability
 
 ---
 
-## 2026-01-23 20:20 UTC - deep-review
+## 2026-01-23 15:49 UTC - deep-review
 
 **Status**: ✓ Success
 **Task**: Deep review mental-imagery.md
@@ -7070,7 +7122,7 @@ Comprehensive review of mental-imagery.md combining pessimistic analysis (six ph
 
 ---
 
-## 2026-01-23 15:19 UTC - research-topic
+## 2026-01-23 15:20 UTC - research-topic
 
 **Status**: ✓ Success (redundant)
 **Task**: Research introspective reliability and first-person access
@@ -7121,7 +7173,7 @@ Created new concept article examining how different interpretations of quantum m
 
 ---
 
-## 2026-01-23 14:58 UTC - cross-review
+## 2026-01-23 14:59 UTC - cross-review
 
 **Status**: ✓ Success
 **Task**: Cross-review psychophysical-laws.md considering coupling mechanisms article
@@ -7146,7 +7198,7 @@ Integrated psychophysical-coupling-mechanisms article into the psychophysical-la
 
 ---
 
-## 2026-01-23 14:36 UTC - cross-review
+## 2026-01-23 14:38 UTC - cross-review
 
 **Status**: ✓ Success
 **Task**: Cross-review attention.md considering mental-imagery insights
@@ -7171,7 +7223,7 @@ Integrated mental imagery evidence into the attention concept article. Voluntary
 
 ---
 
-## 2026-01-23 13:15 UTC - cross-review
+## 2026-01-23 13:17 UTC - cross-review
 
 **Status**: ✓ Success
 **Task**: Cross-review epiphenomenalism.md considering contemplative-neuroscience evidence
@@ -7196,7 +7248,7 @@ Integrated contemplative neuroscience evidence into the epiphenomenalism article
 
 ---
 
-## 2026-01-23 13:00 UTC - cross-review
+## 2026-01-23 12:59 UTC - cross-review
 
 **Status**: ✓ Success
 **Task**: Cross-review materialism.md considering argument-from-reason insights
@@ -7222,7 +7274,7 @@ Integrated the argument from reason (self-stultification argument against physic
 
 ---
 
-## 2026-01-23 17:30 UTC - cross-review
+## 2026-01-23 12:51 UTC - cross-review
 
 **Status**: ✓ Success
 **Task**: Cross-review working-memory.md considering mental-imagery insights
@@ -7248,7 +7300,7 @@ Integrated mental-imagery research into working-memory.md, adding cross-links at
 
 ---
 
-## 2026-01-23 12:35 UTC - deep-review
+## 2026-01-23 12:42 UTC - deep-review
 
 **Status**: ✓ Success
 **Task**: Deep review contemplative-neuroscience.md
@@ -7275,7 +7327,7 @@ Comprehensive review of newly created contemplative-neuroscience.md article, add
 
 ---
 
-## 2026-01-23 19:50 UTC - expand-topic
+## 2026-01-23 12:30 UTC - expand-topic
 
 **Status**: ✓ Success
 **Task**: Write article on mental imagery and consciousness
@@ -7305,7 +7357,7 @@ Created comprehensive concept article on mental imagery and consciousness, synth
 
 ---
 
-## 2026-01-23 12:23 UTC - research-topic
+## 2026-01-23 12:24 UTC - research-topic
 
 **Status**: ✓ Success
 **Task**: Research mental imagery and consciousness causal role
@@ -7335,7 +7387,7 @@ Comprehensive web research on mental imagery and its relationship to consciousne
 
 ---
 
-## 2026-01-23 12:15 UTC - deep-review
+## 2026-01-23 12:09 UTC - deep-review
 
 **Status**: ✓ Success
 **Task**: Deep review access-consciousness.md
@@ -7377,7 +7429,7 @@ Comprehensive review of concepts/access-consciousness.md—the first deep review
 
 ---
 
-## 2026-01-23 16:30 UTC - coalesce
+## 2026-01-23 11:58 UTC - coalesce
 
 **Status**: ✓ Success
 **Task**: Coalesce voluntary attention articles
@@ -7411,7 +7463,7 @@ Merged two overlapping articles on voluntary attention:
 
 ---
 
-## 2026-01-23 11:44 UTC - tweet-highlight
+## 2026-01-23 11:46 UTC - tweet-highlight
 
 **Status**: ✓ Success
 **Task**: Tweet today's highlight
@@ -7426,7 +7478,7 @@ Posted daily highlight to Twitter: "Quantum interpretations beyond Many-Worlds" 
 
 ---
 
-## 2026-01-23 17:30 UTC - validate-all
+## 2026-01-23 11:46 UTC - validate-all
 
 **Status**: ⚠ Warnings
 **Task**: Daily health check
@@ -7464,7 +7516,7 @@ Posted daily highlight to Twitter: "Quantum interpretations beyond Many-Worlds" 
 
 ---
 
-## 2026-01-23 17:20 UTC - cross-review
+## 2026-01-23 10:23 UTC - cross-review
 
 **Status**: ✓ Success
 **Task**: Cross-review retrocausality.md considering presentiment research
@@ -7488,7 +7540,7 @@ Cross-review adding new section "Presentiment Research: A Distinct Evidential Tr
 
 ---
 
-## 2026-01-23 10:13 UTC - deep-review
+## 2026-01-23 10:18 UTC - deep-review
 
 **Status**: ✓ Success
 **Task**: Deep review quantum-consciousness.md
@@ -7520,7 +7572,7 @@ Comprehensive deep review of the core quantum consciousness article, addressing 
 
 ---
 
-## 2026-01-23 09:45 UTC - expand-topic
+## 2026-01-23 07:52 UTC - expand-topic
 
 **Status**: ✓ Success
 **Task**: Write article on conservation laws and mind-brain causation
@@ -7546,7 +7598,7 @@ Created comprehensive topic article (~2,400 words) on the conservation laws obje
 
 ---
 
-## 2026-01-23 07:50 UTC - research-topic
+## 2026-01-23 07:44 UTC - research-topic
 
 **Status**: ✓ Success
 **Task**: Research conservation laws and mind-brain causation
@@ -7573,7 +7625,7 @@ Research ready for synthesis into concept article on conservation laws and menta
 
 ---
 
-## 2026-01-23 05:30 UTC - research-topic
+## 2026-01-23 05:29 UTC - research-topic
 
 **Status**: ✓ Success
 **Task**: Research quantum measurement subjective probability interpretations
@@ -7594,7 +7646,7 @@ Added to pending_articles queue for future expand-topic task. Research establish
 
 ---
 
-## 2026-01-23 03:56 UTC - cross-review
+## 2026-01-23 03:58 UTC - cross-review
 
 **Status**: ✓ Success
 **Task**: Review blindsight considering baseline cognition framework
@@ -7622,7 +7674,7 @@ Created comprehensive topics article on the functional differences between consc
 
 ---
 
-## 2026-01-23 03:55 UTC - research-topic
+## 2026-01-23 03:45 UTC - research-topic
 
 **Status**: ✓ Success
 **Topic**: Indexical identity problem in philosophy (haecceity, primitive thisness)
@@ -7637,7 +7689,7 @@ Covered haecceitism vs anti-haecceitism debates, quantum identity, personal iden
 
 ---
 
-## 2026-01-23 03:37 UTC - replenish-queue
+## 2026-01-23 03:38 UTC - replenish-queue
 
 **Status**: ✓ Success
 **Mode**: standard
@@ -7714,7 +7766,7 @@ Comprehensive web research on spontaneous collapse theories as solutions to quan
 
 ---
 
-## 2026-01-23 02:56 UTC - expand-topic
+## 2026-01-23 02:59 UTC - expand-topic
 
 **Status**: ✓ Success
 **Topic**: Consciousness-independent baseline cognition
@@ -7727,7 +7779,7 @@ Explores hypothesis that great ape cognition represents a baseline of what neuro
 
 ---
 
-## 2026-01-23 02:49 UTC - research-voids
+## 2026-01-23 02:52 UTC - research-voids
 
 **Status**: ✓ Success
 **Topic**: Conceptual impossibility
@@ -7764,7 +7816,7 @@ Pattern of false positives continues: Illusionism (already exists), Argument fro
 
 ---
 
-## 2026-01-23 02:41 UTC - Session 647
+## 2026-01-23 02:42 UTC - Session 647
 
 **Task**: Evolution session with queue replenishment
 **Type**: evolve
@@ -7806,7 +7858,7 @@ Gap analysis has false positive issue: parsing wikilink display text ("Illusioni
 
 ---
 
-## 2026-01-23 02:27 UTC - Session 646
+## 2026-01-23 02:32 UTC - Session 646
 
 **Task**: Write article on psychophysical coupling law specification
 **Type**: expand-topic
@@ -7822,7 +7874,7 @@ Created focused concept article analyzing five candidate psychophysical coupling
 
 ---
 
-## 2026-01-23 02:17 UTC - Session 644
+## 2026-01-23 02:18 UTC - Session 644
 
 **Task**: Research argument from reason and self-defeat objections to physicalism
 **Type**: research-topic
@@ -7848,7 +7900,7 @@ Commit: aaa8552a - feat(auto): research-topic - argument from reason self-defeat
 
 ---
 
-## 2026-01-23 01:52 UTC - Session 641
+## 2026-01-23 01:54 UTC - Session 641
 
 **Task**: Research contemplative neuroscience and meditation evidence
 **Type**: research-topic
@@ -7897,7 +7949,7 @@ Strong support for Bidirectional Interaction (consciousness training causally al
 
 ---
 
-## 2026-01-23 01:42 UTC - Session 640
+## 2026-01-23 01:44 UTC - Session 640
 
 **Task**: Create concept page for heterophenomenology
 **Type**: expand-topic
@@ -7929,7 +7981,7 @@ Strong engagement with Dualism tenet (phenomenology is ontologically real, not m
 
 ---
 
-## 2026-01-23 01:38 UTC - Session 639
+## 2026-01-23 01:39 UTC - Session 639
 
 **Task**: Write article on first-person vs third-person methodology
 **Type**: expand-topic
@@ -7958,7 +8010,7 @@ Strong support for Dualism (methodological divide reflects ontological divide), 
 
 ---
 
-## 2026-01-23 01:31 UTC - Session 638
+## 2026-01-23 01:33 UTC - Session 638
 
 **Task**: Research first-person vs third-person methodology in consciousness science
 **Type**: research-topic
@@ -8035,7 +8087,7 @@ Task generates chain: P2 expand-topic task will be added to queue for synthesizi
 
 ---
 
-## 2026-01-22 23:52 UTC - Session 623
+## 2026-01-22 23:53 UTC - Session 623
 
 **Task**: Cross-review decoherence.md considering quantum decoherence objection analysis
 **Type**: cross-review
@@ -11024,7 +11076,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 - **Output**: obsidian/reviews/deep-review-2026-01-23-free-will.md
 ---
 
-## 2026-01-25 14:30 UTC - deep-review
+## 2026-01-25 16:00 UTC - deep-review
 
 **Status**: Success
 **File**: topics/conservation-laws-and-mind.md
@@ -11046,7 +11098,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 
 ---
 
-## 2026-01-25 21:00 UTC - pessimistic-review
+## 2026-01-25 17:21 UTC - pessimistic-review
 
 **Status**: Success
 **Content reviewed**:
@@ -11071,7 +11123,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 
 ---
 
-## 2026-01-25 17:29 UTC - deep-review (user-requested)
+## 2026-01-25 17:30 UTC - deep-review (user-requested)
 
 **Status**: Success
 **File**: topics/conscious-vs-unconscious-processing.md
@@ -11105,7 +11157,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 
 ---
 
-## 2026-01-27 15:00 UTC - expand-topic
+## 2026-01-27 17:11 UTC - expand-topic
 
 **Status**: Success
 **Topic**: Decoherence and Macroscopic Superposition
@@ -11115,7 +11167,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 
 ---
 
-## 2026-01-28 23:00 UTC - expand-topic
+## 2026-01-28 22:41 UTC - expand-topic
 
 **Status**: Success
 **Topic**: Embodiment and Cognitive Limits
