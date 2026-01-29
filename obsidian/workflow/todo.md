@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Deep review embodiment-cognitive-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers how embodiment creates cognitive constraints and affordances—sensorimotor contingencies, temporal scales, umwelt limitations. Should verify: (1) accuracy of embodied cognition claims, (2) connection to embodied-cognition.md, (3) whether it properly distinguishes void (structural) from mere limitation, (4) alignment with voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-29
-
 ### P3: Refine IIT critique to address reflexive passivity objection
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-01-29-late) identified that the passivity objection against IIT applies reflexively to the Map's quantum selection framework. The article claims IIT makes consciousness 'causally inert' because identity theories mean physics does all the work—but quantum selection faces the same charge (selection that preserves probability distributions is causally inert at the type level). Strengthen the critique by: (1) acknowledging the objection applies to both, (2) distinguishing type-level from token-level causation, (3) arguing that token-level determination is genuine causation for agency purposes. See pessimistic-2026-01-29-late.md.
@@ -804,6 +798,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Deep review embodiment-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers how embodiment creates cognitive constraints and affordances—sensorimotor contingencies, temporal scales, umwelt limitations. Should verify: (1) accuracy of embodied cognition claims, (2) connection to embodied-cognition.md, (3) whether it properly distinguishes void (structural) from mere limitation, (4) alignment with voids framework.
+- **Output**: obsidian/voids/embodiment-cognitive-limits.md
 
 ### ✓ 2026-01-29: Deep review topology-of-cognitive-failure.md
 - **Type**: deep-review

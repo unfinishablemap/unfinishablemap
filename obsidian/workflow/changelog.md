@@ -17,6 +17,22 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 16:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `voids/embodiment-cognitive-limits.md`
+- **Word count**: 1557 → ~1630 (+73 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Grounding problem certainty: softened from "no one has demonstrated" to "remains contested"
+  - MWI strawman: reframed tenet connection to focus on Map's positive commitment
+  - Functionalist counter-position: explicitly acknowledged in Symbol Grounding section
+- **Enhancements made**: 2
+  - Added cross-link to [[pre-conceptual-knowing]] (motor intentionality as pre-conceptual knowing)
+  - Added agency implication to Implications section
+- **Output**: `reviews/deep-review-2026-01-29-embodiment-cognitive-limits.md`
+- **Notes**: First review. No attribution errors found. Article handles sources responsibly. Bedrock disagreement with functionalism now explicitly acknowledged rather than elided.
+
 ## 2026-01-29 14:29 UTC - deep-review
 
 - **Status**: Success
