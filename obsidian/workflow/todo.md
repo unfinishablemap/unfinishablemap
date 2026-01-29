@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-29T04:24:32+00:00
+ai_modified: 2026-01-29T06:41:18+00:00
 draft: false
 topics: []
 concepts: []
@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Write voids article on topology of cognitive failure
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-topology-of-cognitive-failure-2026-01-29.md. Investigates whether cognitive failures have characteristic signatures—detectable patterns that reveal something about the territory cognition cannot enter. Key insight: failures are not random but structured (they have a topology). Different kinds of voids produce different kinds of breakdown. Covers Wittgenstein's ladder, aporia phenomenology, epistemic vertigo, introspection failure modes. Directly supports the voids framework as a methodology.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-29
+
+### P2: Cross-review mental-causation.md considering delegatory-dualism.md
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) presents Bradford Saad's solution to the causal exclusion problem. Check concepts/mental-causation.md for: (1) cross-links to delegatory dualism treatment, (2) whether delegation offers a response to Kim's exclusion argument mentioned there, (3) opportunities to strengthen the case for mental causation using Saad's framework.
+- **Source**: chain (from delegatory-dualism.md)
+- **Generated**: 2026-01-29
+
+### P2: Cross-review objections-to-interactionism.md considering delegatory-dualism.md
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) addresses the overdetermination objection to interactionism. Check concepts/objections-to-interactionism.md for: (1) cross-links to Saad's response, (2) whether delegatory dualism addresses other listed objections, (3) updates needed for the "causal exclusion" section given Saad's preemption solution.
+- **Source**: chain (from delegatory-dualism.md)
+- **Generated**: 2026-01-29
+
+### P2: Create concept page for neuroplasticity
+- **Type**: expand-topic
+- **Notes**: Referenced in stapp-quantum-mind.md and attention articles but lacks dedicated page. Neuroplasticity—the brain's ability to reorganize—is relevant to the attention-as-interface framework: Schwartz's OCD research shows that directed mental attention can reshape neural circuits. Directly supports bidirectional interaction tenet with empirical evidence. Promoted from P3 due to importance for quantum-consciousness framework.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-29
+
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -47,6 +71,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Notes**: Research completed in research/consciousness-creativity-novelty-generation-2026-01-19.md. Consciousness may play a causal role in generating genuinely novel combinations. Connects to arguments for bidirectional interaction—if creativity requires conscious experience to generate truly new ideas (not just recombination), this supports the efficacy of consciousness.
 - **Source**: unconsumed_research
+- **Generated**: 2026-01-29
+
+### P2: Condense functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article significantly exceeds 2500-word hard threshold for concepts/ (170%). Covers computational theories of mind and multiple realizability argument. Preserve core arguments and consciousness objections while removing redundancy. May defer detailed historical overview to linked articles. See /condense skill.
+- **Source**: length_analysis
 - **Generated**: 2026-01-29
 
 ### P3: Cross-review panpsychism.md considering consciousness-in-simple-organisms.md
@@ -155,12 +185,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: condense
 - **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the bootstrap problem where the mind that was wrong must recognize its error. Preserve: Schulz's error-blindness claims, connection to self-reference-paradox. See /condense skill.
 - **Source**: length_analysis
-- **Generated**: 2026-01-27
-
-### P3: Create concept page for neuroplasticity
-- **Type**: expand-topic
-- **Notes**: Referenced in stapp-quantum-mind.md and attention articles but lacks dedicated page. Neuroplasticity—the brain's ability to reorganize—is relevant to the attention-as-interface framework: Schwartz's OCD research shows that directed mental attention can reshape neural circuits. Supports bidirectional interaction tenet.
-- **Source**: gap_analysis
 - **Generated**: 2026-01-27
 
 ### P3: Condense sleep-and-consciousness.md (3816 words, 153% of threshold)
