@@ -773,13 +773,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P1: Add direct quotes for Observational Closure and Subset Law* in delegatory-dualism.md
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-01-29. The page paraphrases load-bearing definitions without showing Saad's formulations. Add short quote callouts (≤25 words): (1) "Observational Closure: There are no observable violations of Closure." (2) Subset Law* with "default causal profile" explicit. (3) Delegatory Law preemption formulation.
-- **Review file**: `reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-01-29
-
 ### P2: Update causal-closure.md with Observational Closure distinction
 - **Type**: cross-review
 - **Notes**: From outer review 2026-01-29. Saad's distinction between universal Closure and Observational Closure is directly relevant to the causal closure page. Add a subsection: "Observational Closure (Saad 2025)" with the exact definition and explanation of why it blocks a common anti-interactionist argument. Cross-link to delegatory-dualism.md.
@@ -796,6 +789,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Add direct quotes for Observational Closure and Subset Law* in delegatory-dualism.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-01-29. The page paraphrases load-bearing definitions without showing Saad's formulations. Add short quote callouts (≤25 words): (1) "Observational Closure: There are no observable violations of Closure." (2) Subset Law* with "default causal profile" explicit. (3) Delegatory Law preemption formulation.
+- **Output**: obsidian/topics/delegatory-dualism.md
+
+Task context:
+From outer review 2026-01-29. The page paraphrases load-bearing definitions without showing Saad's formulations. Add short quote callouts (≤25 words): (1) "Observational Closure: There are no observable violations of Closure." (2) Subset Law* with "default causal profile" explicit. (3) Delegatory Law preemption formulation.
+
+Review file: reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md
 
 ### ✓ 2026-01-29: Separate Saad exposition from Map integration in delegatory-dualism.md
 - **Type**: refine-draft

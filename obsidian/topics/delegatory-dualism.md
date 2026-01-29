@@ -4,7 +4,7 @@ description: "Bradford Saad's 2025 theory explains how consciousness causes beha
 created: 2026-01-29
 modified: 2026-01-29
 human_modified:
-ai_modified: 2026-01-29T10:14:38+00:00
+ai_modified: 2026-01-29T10:21:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -63,6 +63,8 @@ Physical effects caused by experience should not *also* have concurrent sufficie
 
 Experiences should not cause *observable* violations of physical causal patterns. This is weaker than strict causal closure. Saad's key distinction: dualists need not accept that physics is complete everywhere—only that mental causation doesn't produce empirically detectable anomalies in laboratory experiments.
 
+> **Observational Closure**: "There are no observable violations of Closure." (Saad 2025)
+
 Saad defines an observable violation as "a violation of Closure that would be recognized as such by an experiment of the sort performed in physics or neuroscience that lies within the realm of nomic possibility."
 
 ### 4. Upward Systematicity
@@ -81,7 +83,9 @@ Delegatory dualism works through two laws:
 
 ### The Subset Law*
 
-A psychophysical law assigns experiences to physical states based on *causal profile matching*. Saad's formulation: "If the causal profile of an experiential property E is a subset of the **default causal profile** of a physical property P," then that experience is instantiated when P is instantiated.
+A psychophysical law assigns experiences to physical states based on *causal profile matching*:
+
+> **Subset Law***: "If the causal profile of an experiential property E is a subset of the **default causal profile** of a physical property P, then whatever has P also has E." (Saad 2025)
 
 The "default" qualifier is crucial. A physical state's *default* causal profile is the pattern of effects it would produce in the absence of any experience taking over—what the state would cause if delegation didn't occur. This baseline enables the delegation mechanism: experiences can preempt the default contributions without creating overdetermination, because the physical state's default role is displaced rather than duplicated.
 
@@ -89,7 +93,9 @@ Causal profiles are defined functionally. A physical brain state has a default c
 
 ### The Delegatory Law
 
-Here's the key move: when an experience is instantiated via profile-matching, the experience *preempts* the physical state's causal contributions. The physical state "delegates" its causal responsibilities to the experience.
+Here's the key move: when an experience is instantiated via profile-matching, the experience *preempts* the physical state's causal contributions. The physical state "delegates" its causal responsibilities to the experience:
+
+> **Delegatory Law**: "Whenever a subject instantiates an experiential property E and a physical property P such that E's causal profile is a subset of P's default causal profile, E's causal profile preempts the corresponding subset of P's default causal profile." (Saad 2025)
 
 Saad's analogy: A major and a sergeant both order troops to advance. The major's order preempts the sergeant's—the troops advance because the major commanded, not because of two commands overdetermining the same outcome. The sergeant's order is rendered causally idle, not duplicated.
 
@@ -246,26 +252,14 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 - Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 - Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 
-<!-- AI REFINEMENT LOG - 2026-01-29 (refine-draft pass)
-Changes made based on outer review by ChatGPT 5.2 Pro (verification notes confirmed against PMC source):
+<!-- AI REFINEMENT LOG - 2026-01-29 (refine-draft pass 2)
+Changes made based on outer review task context (add short quote callouts ≤25 words):
 
-STRUCTURAL CHANGES (addressing attribution confusion):
-1. Split article into "Part I: Saad's Theory" and "Part II: Map Integration" with clear horizontal rule dividers
-2. Added explicit disclaimer at start of Part II: "The following sections represent The Unfinishable Map's interpretation... These connections are not claims made by Saad."
-3. Moved quantum interactionism discussion entirely to Part II (Map Integration section)
-4. Moved illusionism/Dennett critique to Part II with "(Map Commentary)" label in section heading
-5. Moved Many-Worlds considerations to Part II with "(Map-Specific)" label
+1. Added verbatim Observational Closure quote as blockquote in constraints section
+2. Added verbatim Subset Law* quote (with "default causal profile" explicit) as blockquote
+3. Added verbatim Delegatory Law preemption formulation as blockquote
 
-CONTENT CHANGES (from prior deep-review, verified):
-1. Subset Law*: "default causal profile" qualifier preserved—central to Saad's formulation
-2. Saad's Observational Closure definition quoted directly in constraints section
-3. Testability section reflects Saad's acknowledgment of "same predictive boat" limitation
-4. "Interactionist dualism" used instead of "substance dualism" (Saad's actual commitment)
-5. Removed tenet citations from Saad's constraints section (those are Map concepts)
-
-The restructure ensures readers can clearly distinguish:
-- Channel A: What Saad actually claims (Part I)
-- Channel B: Map's integration and commentary (Part II)
+All quotes sourced from Saad (2025) via PMC full text.
 
 Review file: obsidian/reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md
 

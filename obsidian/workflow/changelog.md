@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 10:21 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/delegatory-dualism.md`
+- **Context**: Outer review task—add verbatim quote callouts for load-bearing definitions
+- **Changes**:
+  - Added Observational Closure quote as blockquote (Saad 2025)
+  - Added Subset Law* quote with "default causal profile" explicit as blockquote
+  - Added Delegatory Law preemption formulation as blockquote
+- **Published**: yes
+
 ## 2026-01-29 10:14 UTC - refine-draft
 
 - **Status**: Success
