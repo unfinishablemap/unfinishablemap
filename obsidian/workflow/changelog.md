@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 18:15 UTC - condense
+
+- **Status**: Success
+- **File**: `concepts/motor-selection.md`
+- **Before**: 4104 words
+- **After**: 2526 words
+- **Reduction**: 38%
+- **Technique**: Cut Process Philosophy section (tangential), condensed Libet Challenge (linked to libet-experiments), trimmed Phenomenology and Illusionist sections (linked to existing concepts), reduced redundancy in PMTA evidence, 280ms section, and Relation to Site Perspective. Trimmed Further Reading from 18 to 8 links.
+- **Preserved**: Opening summary, core quantum Zeno mechanism arguments, all five tenet connections, neural competition evidence, Desmurget dissociation findings.
+
 ## 2026-01-29 UTC - coalesce
 
 - **Status**: No action taken

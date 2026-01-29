@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Condense motor-selection.md (4104 words, 163% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers attention-motor interface and quantum selection in motor cortex. Preserve: core mechanism of how attention selects motor patterns, connection to Stapp quantum Zeno effect, voluntary vs involuntary movement distinction. Defer detailed evidence to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-29
-
 ### P2: Cross-review mental-effort.md considering neuroplasticity insights
 - **Type**: cross-review
 - **Notes**: New concept page concepts/neuroplasticity.md (2026-01-29) develops Schwartz's OCD research showing directed mental attention reshapes neural circuits. The mental-effort.md article discusses the phenomenology and mechanism of effort. Check for: (1) cross-links to neuroplasticity treatment, (2) whether Schwartz evidence already present could be strengthened with dedicated link, (3) connection between effort-as-Zeno-effect and neuroplastic outcomes.
@@ -822,6 +816,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Condense motor-selection.md (4104 words, 163% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers attention-motor interface and quantum selection in motor cortex. Preserve: core mechanism of how attention selects motor patterns, connection to Stapp quantum Zeno effect, voluntary vs involuntary movement distinction. Defer detailed evidence to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/motor-selection.md
 
 ### ✓ 2026-01-29: Update causal-closure.md with Observational Closure distinction
 - **Type**: cross-review
