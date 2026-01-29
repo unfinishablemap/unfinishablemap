@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Deep review origin-of-consciousness.md
-- **Type**: deep-review
-- **Notes**: PROMOTED. New AI-generated voids article (ai_contribution: 100) created 2026-01-29, never deep-reviewed. Covers the "origin void"—why consciousness exists at all. Should verify: (1) distinction from hard problem is clear, (2) engagement with various responses (panpsychism, fundamental consciousness), (3) alignment with voids framework.
-- **Source**: promotion (staleness)
-- **Generated**: 2026-01-29
-
 ### P2: Cross-review panpsychism.md considering origin-of-consciousness.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/origin-of-consciousness.md (2026-01-29) explores why consciousness exists at all. Panpsychism offers one answer (consciousness is fundamental). Check panpsychism.md for: (1) cross-links to origin void, (2) whether panpsychism addresses the origin question or merely relocates it, (3) connection between "why consciousness exists" and "consciousness is fundamental."
@@ -840,6 +834,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Deep review origin-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: PROMOTED. New AI-generated voids article (ai_contribution: 100) created 2026-01-29, never deep-reviewed. Covers the "origin void"—why consciousness exists at all. Should verify: (1) distinction from hard problem is clear, (2) engagement with various responses (panpsychism, fundamental consciousness), (3) alignment with voids framework.
+- **Output**: obsidian/voids/origin-of-consciousness.md
 
 ### ✓ 2026-01-29: Refine IIT critique to address reflexive passivity objection
 - **Type**: refine-draft

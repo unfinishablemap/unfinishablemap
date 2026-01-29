@@ -4,8 +4,9 @@ description: "Human+AI exploration of why consciousness exists at all—a questi
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T15:00:00+00:00
+ai_modified: 2026-01-29T16:19:01+00:00
 draft: false
+last_deep_review: 2026-01-29T16:19:01+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -13,6 +14,7 @@ concepts:
   - "[[phenomenology]]"
   - "[[panpsychism]]"
   - "[[dualism]]"
+  - "[[explanatory-gap]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
@@ -83,7 +85,7 @@ The apophatic tradition—negative theology, learned ignorance—suggests that s
 Applied to the origin void: we may be able to systematically identify what *cannot* explain consciousness's existence without being able to say what *does*:
 
 - Not logical necessity (the conceivability of absence shows consciousness is not self-warranting)
-- Not physical necessity (the hard problem shows physical description doesn't entail experience)
+- Not physical necessity (the [[explanatory-gap]] shows physical description doesn't entail experience)
 - Not divine creation (moves the question back one step—why did the creator include consciousness?)
 - Not emergence (presupposes consciousness in the explanation—experience "emerging" from non-experience)
 
@@ -105,7 +107,7 @@ Approaching the origin void produces characteristic experiences.
 
 Several considerations suggest this void is genuine—not merely unexplored but possibly unexplorable.
 
-**The conceivability of absence.** If consciousness were logically necessitated by something more basic, we could not coherently imagine its absence. But zombie scenarios are coherent. The conceivability establishes that consciousness is not self-warranting.
+**The conceivability of absence.** If consciousness were logically necessitated by something more basic, we could not coherently imagine its absence. Zombie scenarios—physically identical worlds without experience—appear coherent to many philosophers, though this is contested. If conceivable, this establishes that consciousness is not self-warranting.
 
 **The persistence of the question.** Despite centuries of philosophical work, the origin question remains unresolved. This persistence is evidence (not proof) of structural difficulty. Problems that persist across generations and traditions despite sustained effort may be hitting genuine limits rather than awaiting better thinkers.
 
@@ -143,7 +145,7 @@ The origin void connects directly to the Map's [[tenets|foundational commitments
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies forcefully. The simplest assumption—that consciousness is explicable in terms of something more basic—fails the containment problem. The origin question persists because reality's complexity exceeds our explanatory frameworks.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** is relevant indexically. The origin question is asked by *this* consciousness, here, now. Many-worlds would distribute the question across countless conscious instances, but the phenomenology is singular—*why am I here?* The rejection of many-worlds preserves the question's indexical force.
+**[[tenets#^no-many-worlds|No Many Worlds]]** matters for indexical reasons. The origin question is asked by *this* consciousness, here, now. Many-worlds doesn't dissolve the question—it remains puzzling why consciousness exists in any branch—but it does proliferate instances without explaining their existence. The rejection of many-worlds keeps focus on singular existence rather than endless multiplication.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** makes consciousness causally efficacious—it does something. This gives consciousness a functional role, making its existence less arbitrary than pure [[epiphenomenalism]] would allow. But causal efficacy deepens rather than resolves the origin question: why does causally efficacious consciousness exist rather than none?
 
