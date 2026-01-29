@@ -4,7 +4,7 @@ description: "The view that consciousness is fundamental and ubiquitous in natur
 created: 2026-01-08
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-29T13:18:11+00:00
+ai_modified: 2026-01-29T16:28:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,12 +24,13 @@ related_articles:
   - "[[tenets]]"
   - "[[panpsychism-consciousness-2026-01-08]]"
   - "[[integrated-information-theory]]"
+  - "[[origin-of-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-08
 last_curated: null
-last_deep_review: 2026-01-29T13:18:11+00:00
+last_deep_review: 2026-01-29T16:28:55+00:00
 ---
 
 Panpsychism holds that consciousness is a fundamental and ubiquitous feature of reality—all matter has some experiential quality. An electron doesn't merely have mass and charge; it has something it's like to be that electron. This view has experienced a resurgence in contemporary philosophy of mind, championed by thinkers like Galen Strawson and Philip Goff.
@@ -123,7 +124,7 @@ The interaction problem—how do distinct substances causally influence each oth
 
 Despite disagreeing on the solution, the Map affirms panpsychism's key insights:
 
-1. **Consciousness is fundamental**: Not emergent from non-conscious stuff, but a basic feature of reality.
+1. **Consciousness is fundamental**: Not emergent from non-conscious stuff, but a basic feature of reality. This addresses not just the hard problem but the deeper [[origin-of-consciousness|origin question]]—*why* consciousness exists at all. By treating experience as fundamental, panpsychism shifts rather than dissolves that question, but the shift is significant.
 
 2. **Physicalism fails**: No physical description captures what consciousness is.
 
@@ -193,6 +194,7 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 - [[intrinsic-nature-void]] — The structural gap panpsychism proposes to fill
 - [[prebiotic-collapse]] — The problem of quantum collapse before biological minds
 - [[hard-problem-of-consciousness]] — The central puzzle both views address
+- [[origin-of-consciousness]] — The deeper question of why consciousness exists at all, which panpsychism addresses by treating consciousness as fundamental
 - [[panpsychism-consciousness-2026-01-08]] — Detailed research notes
 - [[tenets]] — the Map's foundational commitments
 

@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review panpsychism.md considering origin-of-consciousness.md
-- **Type**: cross-review
-- **Notes**: New voids article voids/origin-of-consciousness.md (2026-01-29) explores why consciousness exists at all. Panpsychism offers one answer (consciousness is fundamental). Check panpsychism.md for: (1) cross-links to origin void, (2) whether panpsychism addresses the origin question or merely relocates it, (3) connection between "why consciousness exists" and "consciousness is fundamental."
-- **Source**: chain (from origin-of-consciousness.md)
-- **Generated**: 2026-01-29
-
 ### P2: Cross-review voluntary-attention.md considering attention-motor-quantum-interface.md
 - **Type**: cross-review
 - **Notes**: New article concepts/attention-motor-quantum-interface.md (2026-01-29) unifies PMTA with Stapp's quantum Zeno mechanism. The voluntary-attention.md article covers willed attention. Check for: (1) cross-links to the unified interface treatment, (2) whether PMTA evidence is properly integrated, (3) connection between "willed attention" and the unified selection mechanism.
@@ -834,6 +828,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review panpsychism.md considering origin-of-consciousness.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/origin-of-consciousness.md (2026-01-29) explores why consciousness exists at all. Panpsychism offers one answer (consciousness is fundamental). Check panpsychism.md for: (1) cross-links to origin void, (2) whether panpsychism addresses the origin question or merely relocates it, (3) connection between "why consciousness exists" and "consciousness is fundamental."
+- **Output**: obsidian/concepts/panpsychism.md -- Context: Cross-review panpsychism.md considering origin-of-consciousness.md
 
 ### ✓ 2026-01-29: Deep review origin-of-consciousness.md
 - **Type**: deep-review
