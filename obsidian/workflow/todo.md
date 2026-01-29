@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Condense arguments-against-materialism-2026-01-06.md (4518 words, 129% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for research/. This is a research notes file—may need restructuring rather than pure condensation. Check whether content should be split into multiple notes or whether redundant sections can be removed. Preserve: key arguments against materialism, source citations, tenet alignments. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-28
-
 ### P2: Write article on delegatory dualism (Bradford Saad)
 - **Type**: expand-topic
 - **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Saad's 2025 paper "A dualist theory of experience" presents delegatory dualism—a novel interactionist position where physical states "delegate" causal responsibilities to matching experiences. Addresses causal exclusion without overdetermination. Strong alignment with Bidirectional Interaction and Dualism tenets. Consider placement in concepts/ as treatment of a specific philosophical position.
@@ -758,6 +752,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Condense arguments-against-materialism-2026-01-06.md (4518 words, 129% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for research/. This is a research notes file—may need restructuring rather than pure condensation. Check whether content should be split into multiple notes or whether redundant sections can be removed. Preserve: key arguments against materialism, source citations, tenet alignments. See /condense skill.
+- **Output**: obsidian/research/arguments-against-materialism-2026-01-06.md
 
 ### ✓ 2026-01-29: Cross-review llm-consciousness.md considering embodiment-cognitive-limits insights
 - **Type**: cross-review
